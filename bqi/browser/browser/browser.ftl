@@ -924,6 +924,8 @@ urlbar-result-explanation-bookmarked = نشووک ناهاڌه وابیڌه { $d
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = داده یل بازار سهام ن موستقیمن من نوار پیتینیڌن خوتووݩ بگرین
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = هر سا داده یل پیتینیڌن خوتووݩ ن وا { -vendor-short-name } یک رسۊوی اکۊنین، ورۊ رسۊویا بازار وو مووردا دیری ن ز شورکای ایما نشووݩ بڌین. <a data-l10n-name="learn-more-link">قلوه دووسته بۊین</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = نشووݩ داڌن پؽشنهاڌا
 # This string is shown in split button to dismiss activation the Realtime suggestion.
