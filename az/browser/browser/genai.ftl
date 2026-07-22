@@ -3,6 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chatbot prompts
+## Prompts are plain language ‘instructions’ sent to a chatbot.
+## These prompts have been made concise and direct in English because some chatbot providers
+## have character restrictions and being direct reduces the chance for misinterpretation.
+## When localizing, please be concise and direct, but not at the expense of losing meaning.
+
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Xülasə et
+    .value = Seçilmiş mətni dəqiq və yığcam şəkildə xülasə et. Xülasənin asan oxunması üçün başlıqlardan və markerli siyahılardan istifadə et. Mənanı və faktiki dəqiqliyi qoruyub saxla.
+
+## Chatbot menu shortcuts
+
+genai-menu-summarize-page = Səhifənin xülasəsini hazırla
+
 ## Chatbot footer
 
 genai-page-button-summarize = Səhifənin icmalını çıxart
