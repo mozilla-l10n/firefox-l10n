@@ -187,8 +187,11 @@ newtab-privacy-message-info-9 = Egizu { -brand-short-name } zure nabigatzaile le
 newtab-privacy-message-info-9-cta = Lehenetsi
 newtab-privacy-message-info-10 = Gorde pasahitzak { -brand-short-name }(e)n saio-hasiera sendo eta bakarrak erabiltzeko edonon.
 newtab-privacy-message-info-10-cta = Joan pasahitzetara
+newtab-privacy-message-info-11 = Jakin nola laguntzen duen { -brand-short-name }(e)k zure nabigazioa pribatuago mantentzen.
 newtab-privacy-message-info-11-cta = Argibide gehiago
+newtab-privacy-message-info-12 = Jarraipen-elementuak blokeatzeak banda-zabalera aurrezten lagun dezake datu-plan mugatuetan.
 newtab-privacy-message-info-12-cta = Ikusi babesak
+newtab-privacy-message-info-13 = { -brand-short-name }(e)k jarraipen-elementuak blokeatzen ditu, banda-zabalera libratuz streaming hobe baterako.
 newtab-privacy-message-info-13-cta = Ikusi babesak
 
 ## Privacy widget — promotional messages
@@ -196,11 +199,26 @@ newtab-privacy-message-info-13-cta = Ikusi babesak
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Jakin ea zure informazio pertsonala datu-urratze batean ageri den.
 newtab-privacy-message-promo-monitor-1-cta = Argibide gehiago
+newtab-privacy-message-promo-monitor-2 = Babestu zure informazioa datu-urratzeen gaineko doako monitorizazioarekin, 20 helbide elektronikora arte.
 newtab-privacy-message-promo-monitor-2-cta = Argibide gehiago
+newtab-privacy-message-promo-signin-1 = Izan laster-markak, pasahitzak eta fitxak hainbat gailuren artean zifratuta zure { -vendor-short-name } kontuarekin.
+newtab-privacy-message-promo-signin-1-cta = Hasi saioa
+newtab-privacy-message-promo-vpn-1 = Wi-Fi publikoan erosketak egiten? Gaitu integratutako VPNa babes estrarako.
+newtab-privacy-message-promo-vpn-1-cta = Ireki VPNa
+newtab-privacy-message-promo-vpn-2 = Aireportuko Wi-Fia darabilzu? Babestu zure nabigazioa integratutako VPNa aktibatuz.
 newtab-privacy-message-promo-vpn-2-cta = Ireki VPNa
+newtab-privacy-message-promo-vpn-3 = Aktibatu integratutako VPNa zure kokapena pribatuago mantentzen laguntzeko.
 newtab-privacy-message-promo-vpn-3-cta = Ireki VPNa
+newtab-privacy-message-promo-private-window-1 = Probatu leiho pribatua ordenagailu partekatu bat erabiltzean modu pribatuagoan nabigatzeko.
 newtab-privacy-message-promo-private-window-1-cta = Ireki leiho pribatua
+newtab-privacy-message-promo-relay-1 = Gorde zure benetako helbide elektronikoa fidatzeko jendearentzat; erabili posta-maskara saio-hasieretarako.
+newtab-privacy-message-promo-relay-1-cta = Lortu maskarak
+newtab-privacy-message-promo-relay-2 = Babestu spametik zure sarrerako ontzia doako posta-maskarekin.
+newtab-privacy-message-promo-relay-2-cta = Lortu maskarak
+newtab-privacy-message-promo-relay-3 = Lortu doako 50 posta-maskara zure benetako helbide elektronikoa pribatu mantentzen laguntzeko.
+newtab-privacy-message-promo-relay-3-cta = Lortu maskarak
 
 ## Privacy widget — celebration messages
 ##
@@ -213,6 +231,8 @@ newtab-privacy-message-milestone-year-cta = Ikusi babesak
 newtab-privacy-message-milestone-total-cta = Ikusi babesak
 newtab-privacy-message-daily-cap-cta = Ikusi babesak
 newtab-privacy-message-streak-cta = Ikusi babesak
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Jarraitu  nabigatzen, { -brand-short-name }(e)k blokeatzen jarraituko du.
 newtab-privacy-message-first-protection-cta = Ikusi babesak
 
 ## Strings for the Stocks widget
@@ -221,6 +241,16 @@ newtab-privacy-message-first-protection-cta = Ikusi babesak
 newtab-stocks-menu-search = Bilatu kotizazio-kodeak
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Argibide gehiago
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Akzioen datuak ez daude erabilgarri.
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Akzioen widgetaren aukerak
+    .aria-label = Akzioen widgetaren aukerak
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Akzioak
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -228,6 +258,8 @@ newtab-stocks-menu-learn-more = Argibide gehiago
 ##   $change (String) - the day's percentage change, e.g. "+2.1%".
 ##   $price (String) - the last price, e.g. "$559.44".
 
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, { $change } gora, { $price }
 # Stock decreased (went down) during the day
 newtab-stocks-ticker-status-down = { $name }, { $change } behera, { $price }
 # Stock didn't change during the day
@@ -628,6 +660,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Kirolak
 newtab-custom-widget-privacy-toggle =
     .label = Pribatutasuna
+newtab-custom-widget-stocks-toggle =
+    .label = Akzioak
 newtab-custom-widget-picture-toggle =
     .label = Eguneko argazkia
 newtab-custom-widget-section-title = Widgetak
