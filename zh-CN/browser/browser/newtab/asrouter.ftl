@@ -491,3 +491,14 @@ nova-early-access-share-feedback-link = 分享反馈
     .accesskey = S
 nova-early-access-infobar-primary-button = 知道了
     .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-pin-to-taskbar = 固定到任务栏
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = 保存并关闭 { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = 保存并继续
