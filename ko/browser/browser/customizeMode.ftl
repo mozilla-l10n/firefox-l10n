@@ -4,7 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = 기본값으로 복원
-customize-mode-menu-and-toolbars-header = 좋아하는 항목을 도구 모음이나 도구 더보기 메뉴에 끌어서 놓으세요.
+customize-mode-menu-and-toolbars-header = 좋아하는 항목을 도구 모음이나 도구 더보기 메뉴에 끌어다 놓으세요.
 customize-mode-overflow-list-title = 도구 더보기 메뉴
 customize-mode-uidensity =
     .label = 밀도
@@ -20,7 +20,7 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = 터치
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = 태블릿 모드에서 터치 사용
-customize-mode-overflow-list-description = 항목을 도구 모음 밖의 가까운 곳에 두려면 여기에 끌어서 놓으세요…
+customize-mode-overflow-list-description = 항목을 도구 모음 밖의 가까운 곳에 두려면 여기에 끌어다 놓으세요…
 customize-mode-uidensity-menu-normal =
     .label = 보통
     .accesskey = N
