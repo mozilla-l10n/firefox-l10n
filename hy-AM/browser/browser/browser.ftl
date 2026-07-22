@@ -210,7 +210,7 @@ urlbar-result-menu-manage-firefox-suggest2 = Կառավարել { -firefox-sugge
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
-urlbar-result-menu-report-inaccurate-location2 = Հաղորդել անճշտ գտնվելու վայրի մասին
+urlbar-result-menu-report-inaccurate-location2 = Հաղորդել ոճ ճշգրիտ տեղադրության մասին
 urlbar-result-menu-show-less-frequently2 = Ցուցադրել հազվադեպ
 urlbar-result-menu-dont-show-weather-suggestions2 = Չցուցադրել եղանակի առաջարկներ
 urlbar-result-menu-learn-more =
@@ -237,7 +237,7 @@ urlbar-result-menu-manage-firefox-suggest =
 # will be a city name, or a city name combined with the name of its parent
 # administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location =
-    .label = Հաղորդել անճշտ գտնվելու վայրի մասին
+    .label = Հաղորդել ոճ ճշգրիտ տեղադրության մասին
 urlbar-result-menu-show-less-frequently =
     .label = Ցուցադրել հազվադեպ
 urlbar-result-menu-dont-show-weather-suggestions =

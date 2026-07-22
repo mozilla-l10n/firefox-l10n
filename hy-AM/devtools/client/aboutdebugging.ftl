@@ -131,7 +131,7 @@ about-debugging-setup-network =
     .title = Ցանցի գտնվելու վայրը
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
-about-debugging-setup-network-troubleshoot = Ցանցի գտնվելու վայրի հետ կապող խնդիրներ։<a>Խափանաշտկում</a>
+about-debugging-setup-network-troubleshoot = Ցանցի տեղադրության հետ կապող խնդիրներ։<a>Խափանաշտկում</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Ավելացնել

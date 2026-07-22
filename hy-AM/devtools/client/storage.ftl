@@ -44,7 +44,7 @@ storage-context-menu-delete-all =
     .label = Ջնջել բոլորը
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
-    .label = Ջնջել բոլոր ա/շրջանների Cookie-ները
+    .label = Ջնջել բոլոր ա/շրջանների Թխուկները
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = Պատճենել
@@ -76,7 +76,7 @@ storage-table-headers-extension-storage-area = Պահեստի տարածք
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
-storage-tree-labels-cookies = Cookie-ներ
+storage-tree-labels-cookies = Թխուկներ
 storage-tree-labels-local-storage = Տեղային պահեստ
 storage-tree-labels-session-storage = Աշխատաշրջանի պահեստ
 storage-tree-labels-indexed-db = Indexed DB
