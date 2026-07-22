@@ -137,6 +137,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Bu konteyneri sil
 containers-remove-cancel-button = Bu konteyneri silmə
+browser-layout-show-sidebar2 =
+    .label = Yan paneli göstər
+    .description = Əsas görünüşdən çıxmadan əlfəcinlərə, telefonunuzdakı vərəqlərə, süni intellekt söhbət botlarına və digər funksiyalara sürətli çıxış əldə edin.
 
 ## General Section - Language & Appearance
 

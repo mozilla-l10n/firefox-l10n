@@ -20,6 +20,8 @@ genai-menu-summarize-page = Səhifənin xülasəsini hazırla
 
 ## Chatbot header
 
+genai-provider-view-details =
+    .label = Söhbət botu təfərrüatlarına baxın
 genai-options-reload-generic =
     .label = Sİ söhbət botunu yenilə
 # $provider (string) - name of the provider
