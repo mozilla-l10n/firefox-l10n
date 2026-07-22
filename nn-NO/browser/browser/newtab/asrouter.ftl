@@ -517,6 +517,8 @@ launch-options-spotlight-checkbox-launch-on-login = Opne { -brand-short-name } v
 launch-options-spotlight-checkbox-pin-to-taskbar = Fest til oppgåvelinje
 # Shown on the browser-close prompt only
 launch-options-spotlight-checkbox-restore-current = Opne gjeldande vindauge og faner på nytt
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Opne tidlegare vindauge og faner på nytt
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = Lagre og lat att { -brand-short-name }
 # Primary button on the browser-launch prompt
