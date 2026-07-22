@@ -709,6 +709,10 @@ sharing-warning-disable-for-session =
 webserial-select-port-label = پسند پورت سریال:
 webserial-no-ports-available = پورت سریال مووجۊد نؽ
 
+## DevTools F12 popup
+
+enable-devtools-popup-description2 = سی و کار گرؽڌن ره نهنگ F12، ٱول ٱوزارا برنومه نویسووݩ ن وا نومگه ٱوزار گشت گر بۊگۊشین.
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).

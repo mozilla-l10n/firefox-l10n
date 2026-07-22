@@ -251,6 +251,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
 profiler-popup-presets-networking-label =
     .label = Sarea
+profiler-popup-presets-networking-with-logs-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena, sareko erregistroak barne. Erregistro hauek kontuzko informazioa izan lezakete, hala nola bisitatzen dituzun URLak.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Sarea erregistroekin
 profiler-popup-presets-power-description = { -brand-shorter-name }(r)en energia-erabilpenaren arazoak ikertzeko aurrezarpena, eragin negatibo txikiarekin.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -339,9 +342,12 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Hasi saioa zure kontuan
+appmenuitem-monitor-title2 = Hartu aurre identitate-lapurretari
+appmenuitem-monitor-description2 = Jaso datu-urratzeei buruzko alertak
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Eskuratu datu-urratzeei buruzko alertak
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Mantendu pribatu zure helbide elektronikoa
 appmenuitem-relay-description = Maskaratu zure benetako helbide elektronikoa eta telefonoa
 appmenuitem-services-relay-description = Abiarazi helbide elektronikoen maskaren arbela
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
