@@ -153,6 +153,7 @@ perftools-presets-ml-label = Strojno učenje
 perftools-presets-ml-description2 = Prednastavitev za preiskovanje napak v strojnem učenju v { -brand-shorter-name(sklon: "mestnik") }.
 perftools-presets-networking-label = Omrežje
 perftools-presets-networking-description = Prednastavitev za preiskovanje napak v delovanju omrežja v { -brand-shorter-name(sklon: "mestnik") }
+perftools-presets-networking-with-logs-label = Omrežje z dnevniki
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Napajanje
 perftools-presets-power-description = Prednastavitev za preiskovanje napak pri porabi energije v { -brand-shorter-name(sklon: "mestnik") } z nizko porabo sredstev.
