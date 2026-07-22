@@ -76,3 +76,33 @@ about-logins-login-list-empty-search-description = Tiada hasil yang sepadan deng
 login-list-item-title-new-login = Log Masuk Baharu
 login-list-item-subtitle-new-login = Masukkan maklumat log masuk anda
 login-list-item-title-new-login2 = Tambah kata laluan
+login-list-item-subtitle-missing-username = (tiada nama pengguna)
+about-logins-list-item-breach-icon =
+    .title = Laman web digodam
+about-logins-list-item-vulnerable-password-icon =
+    .title = Kata laluan terdedah
+about-logins-list-section-breach = Laman web digodam
+about-logins-list-section-vulnerable = Kata laluan terdedah
+about-logins-list-section-nothing = Tiada amaran
+about-logins-list-section-today = Hari ini
+about-logins-list-section-yesterday = Semalam
+about-logins-list-section-week = 7 hari terakhir
+
+## Introduction screen
+
+about-logins-login-intro-heading-logged-out2 = Mencari log masuk yang telah disimpan? Hidupkan sync atau importnya.
+about-logins-login-intro-heading-logged-in = Tiada log masuk sync dijumpai.
+login-intro-description = Jika anda menyimpan log masuk anda ke { -brand-product-name } pada peranti lain, berikut cara untuk mendapatkannya di sini:
+login-intro-instructions-fxa = Cipta atau daftar masuk ke { -fxaccount-brand-name(capitalization: "sentence") } anda pada peranti tempat log masuk anda disimpan.
+about-logins-login-intro-heading-message = Simpan kata laluan anda di tempat yang selamat
+login-intro-description2 = Semua kata laluan yang anda simpan ke { -brand-product-name } disulitkan. Selain itu, kami pantau bocoran data dan memberitahu anda jika anda terjejas. <a data-l10n-name="breach-alert-link">Ketahui lebih lanjut</a>
+login-intro-instructions-fxa2 = Cipta atau daftar masuk ke akaun anda pada peranti tempat log masuk anda disimpan.
+login-intro-instructions-fxa-settings = Pergi ke Tetapan > Sync > Hidupkan sync… Pilih kotak semak Log masuk dan kata laluan.
+login-intro-instructions-fxa-passwords-help = Lawati <a data-l10n-name="passwords-help-link">sokongan kata laluan</a> untuk bantuan lanjut.
+about-logins-intro-browser-only-import = Jika log masuk anda disimpan dalam pelayar lain, anda boleh <a data-l10n-name="import-link">mengimportnya ke dalam { -brand-product-name }</a>
+about-logins-intro-import2 = Jika log masuk anda disimpan di luar { -brand-product-name }, anda boleh <a data-l10n-name="import-browser-link">mengimportnya dari pelayar lain</a> atau <a data-l10n-name="import-file-link">dari fail</a>
+about-logins-intro-import3 = Pilih butang tanda tambah di atas untuk menambah kata laluan sekarang. Anda juga boleh <a data-l10n-name="import-browser-link">mengimport kata laluan daripada pelayar lain</a> atau <a data-l10n-name="import-file-link">daripada fail</a>.
+
+## Login
+
+login-item-new-login-title = Cipta Log Masuk Baharu
