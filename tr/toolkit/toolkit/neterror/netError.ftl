@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Her zaman devam et
 neterror-pref-reset = Ağ güvenliği ayarlarınız buna yol açıyor olabilir. Varsayılan ayarları geri yüklemek ister misiniz?
 neterror-error-reporting-automatic = { -vendor-short-name }’nın zararlı siteleri tanımlayıp engellemesine yardımcı olmak için bu gibi hataları rapor et
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Bağlantınız gizli olmayabilir
+    .message = Bir uygulama veya hizmet bu siteden gelen şifrelenmiş trafiği görüyor olabilir.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } bilinmeyen bir nedenden dolayı bu sayfayı açamıyor.

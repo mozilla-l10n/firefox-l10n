@@ -167,13 +167,13 @@ addon-install-from-file = Fayldan əlavə qur...
     .accesskey = I
 addon-install-from-file-dialog-title = Quraşdırılacaq əlavəni seçin
 addon-install-from-file-filter-name = Əlavələr
-addon-open-about-debugging = Əlavələri Sazla
-    .accesskey = z
+addon-open-about-debugging = Əlavələri sazla
+    .accesskey = b
 
 ## Extension shortcut management
 
 # This is displayed in the page options menu
-addon-manage-extensions-shortcuts = Uzantı Qısa-yollarını İdarə et
+addon-manage-extensions-shortcuts = Uzantı qısayollarını idarə et
     .accesskey = S
 shortcuts-no-addons = Aktiv uzantınız yoxdur.
 shortcuts-no-commands = Bu uzantıların qısa-yolları yoxdur:
@@ -197,6 +197,11 @@ shortcuts-card-collapse-button = Daha az göstər
 header-back-button =
     .title = Geri get
 
+## Recommended add-ons page
+
+find-more-addons = Daha çox əlavə tap
+find-more-themes = Daha çox mövzu tap
+
 ## Add-on actions
 
 remove-addon-button = Sil
@@ -211,7 +216,8 @@ plugin-heading = Qoşmalarını idarə et
 dictionary-heading = Lüğətlərini idarə et
 locale-heading = Dillərini idarə et
 discover-heading = { -brand-short-name } səyyahınızı şəxsiləşdirin
-shortcuts-heading = Uzantı Qısa-yollarını İdarə et
+shortcuts-heading = Uzantı qısayollarını idarə et
+default-heading-search-label = Daha çox əlavə tapın
 addons-heading-search-input =
     .placeholder = addons.mozilla.org saytında axtar
 addon-page-options-button =

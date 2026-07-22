@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Görüş bildir
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> web’i açık, kamusal ve herkesçe erişilebilir kılmak için birlikte çalışan <label data-l10n-name="community-exp-creditsLink">küresel bir topluluktur</label>.
 community-2 = { -brand-short-name }, <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> tarafından tasarlanmıştır. { -vendor-short-name }, web’i açık, kamusal ve herkesçe erişilebilir kılmak için birlikte çalışan <label data-l10n-name="community-creditsLink">küresel bir topluluktur</label>.
 helpus = Yardım etmek ister misiniz? <label data-l10n-name="helpus-donateLink">Bağış yapın</label> veya <label data-l10n-name="helpus-getInvolvedLink">aramıza katılın!</label>
+helpus-referrals = Yardım etmek ister misiniz? <label data-l10n-name="helpus-donateLink">Bağış yapın</label>, <label data-l10n-name="helpus-shareFirefoxLink">{ -brand-short-name } tarayıcısını paylaşın</label> veya <label data-l10n-name="helpus-getInvolvedLink">aramıza katılın!</label>
 bottomLinks-license = Lisans Bilgileri
 bottom-links-terms = Kullanım Koşulları
 bottom-links-privacy = Gizlilik Bildirimi

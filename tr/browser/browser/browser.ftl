@@ -591,6 +591,8 @@ identity-clear-site-data =
     .label = Çerezleri ve site verilerini temizle…
 identity-connection-not-secure-security-view = Bu siteye güvenli bir şekilde bağlanmadınız.
 identity-connection-verified = Bu siteye güvenli bir şekilde bağlandınız.
+identity-ev-owner-label2 = Sertifika sahibi
+identity-verifier-label2 = Doğrulayan
 identity-ev-owner-label = Sertifika sahibi:
 identity-verifier-label = Doğrulayan:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
