@@ -599,6 +599,7 @@ identity-verifier-label = تاییڌ وابیڌه و دست:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = ز ری موقررات (EU) 2024/1183 واجد شرایت هڌ.
 identity-description-custom-root2 = سادر کوننده ای گوواهی سی مۊزیلا قابل شناسایی نؽ. گاشڌ ز تریق سیستوم عامل یا دؽوۉدار سیستوم ایسا ازافه وابیڌه.
+identity-cert-exception-overridden = ایسا ی استسنا ٱمنیتی سی ای وبگه ازاف کردین.
 identity-remove-cert-exception =
     .label = پاک کردن استسنا
     .accesskey = R
@@ -1099,9 +1100,18 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = پیتینیڌنا دیندایی
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = ترند من { $engine }
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = هؽزگری وابیڌه
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = پیتینیڌنا ترند ن نشووݩ مڌین
+    .accesskey = D
 urlbar-result-menu-trending-why =
     .label = سیچه مو یونه ابینوم؟
     .accesskey = W

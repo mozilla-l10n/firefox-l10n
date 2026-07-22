@@ -89,6 +89,16 @@ url-classifier-content-classifier-col-feature = Tembiapoitéva
 url-classifier-content-classifier-col-matched = Ojueheguáva
 # Column header: the raw result code returned by the engine for this feature.
 url-classifier-content-classifier-col-engine-result = Ojekuaáva motor rehegua
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Mbota
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = Oĩ’ỹva
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Jejavy ({ $code })
 url-classifier-debug-title = Mopotĩ
 url-classifier-debug-module-btn = Emopyenda jehaipy ra’ãha
 url-classifier-debug-file-btn = Emopyenda marandurenda jehaipy
