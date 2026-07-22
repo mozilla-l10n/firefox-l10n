@@ -106,3 +106,29 @@ about-logins-intro-import3 = Pilih butang tanda tambah di atas untuk menambah ka
 ## Login
 
 login-item-new-login-title = Cipta Log Masuk Baharu
+# Header for adding a password
+about-logins-login-item-new-login-title = Tambah kata laluan
+login-item-edit-button = Sunting
+about-logins-login-item-remove-button = Buang
+login-item-origin-label = Alamat laman web
+login-item-tooltip-message = Pastikan ini bertepatan dengan alamat tapak web di mana anda log masuk.
+about-logins-origin-tooltip2 = Masukkan alamat penuh dan pastikan ia sepadan tepat dengan tempat anda daftar masuk.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Pastikan anda menyimpan kata laluan semasa anda untuk laman ini. Menukar kata laluan di sini tidak menukarnya di { $webTitle }.
+about-logins-add-password-tooltip = Pastikan anda menyimpan kata laluan semasa anda untuk laman ini.
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = Nama pengguna
+about-logins-login-item-username =
+    .placeholder = (tiada nama pengguna)
+login-item-copy-username-button-text = Salin
+login-item-copied-username-button-text = Disalin!
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", year: "numeric", month: "short") }
