@@ -56,6 +56,10 @@ ipprotection-feature-introduction-button-get-started = Eñepyrũ
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Pe VPN juejupyre ru’ã oiko jeýta 1 jasyporundýpe
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = VPN juajupyre ko’ag̃agua iporãve
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Embojuruja VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Eiporu ypykuévarõ

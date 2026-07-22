@@ -506,5 +506,7 @@ nova-early-access-infobar-primary-button = Aikũmby
 
 launch-options-spotlight-checkbox-launch-on-login = Embojuruja { -brand-short-name } eñepyrũvo
 launch-options-spotlight-checkbox-pin-to-taskbar = Emboja tembiaporã rupáre
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Eñongatu ha emboty { -brand-short-name }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Eñongatu ha eku’ejey
