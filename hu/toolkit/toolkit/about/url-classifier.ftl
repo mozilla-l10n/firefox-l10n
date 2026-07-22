@@ -37,6 +37,40 @@ url-classifier-cache-prefix = Előtag
 url-classifier-cache-ncache-expiry = Negatív gyorsítótár lejárata
 url-classifier-cache-fullhash = Teljes ujjlenyomat
 url-classifier-cache-pcache-expiry = Pozitív gyorsítótár lejárata
+url-classifier-content-classifier-title = Tartalomosztályozó
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = Webcím
+# URL that loads the URL being tested (hence Loading URL)
+# This is the URL of a frame within the document that initiates the request to load another URL
+# (e.g. an iframe that is loading a tracking pixel)
+url-classifier-content-classifier-loading-url = Betöltési webcím
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = Betöltési webcím engedélyezése
+# URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+# Most often the site URL show in the address bar.
+url-classifier-content-classifier-top-window-url = Felső ablak webcíme
+# Checkbox label to enable a Top-window URL.
+# When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
+url-classifier-content-classifier-top-window-url-enabled = Felső ablak webcímének engedélyezése
+# Label for a dropdown choosing what type of resource is at the destination (the destination type),
+# such as script, image, stylesheet, etc.
+url-classifier-content-classifier-destination-type = Cél típusa
+# Header for a group of on/off options (the checkboxes below) that modify how
+# the hypothetical request is classified.
+url-classifier-content-classifier-flags = Jelzők
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = Szondák
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Találatok
+url-classifier-content-classifier-pbm = Privát böngészés
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Nem ajánlott kiegészítő
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Blokkolás szondázása
 url-classifier-debug-title = Hibakeresés
 url-classifier-debug-module-btn = Naplómodulok beállítása
 url-classifier-debug-file-btn = Naplófájl beállítása

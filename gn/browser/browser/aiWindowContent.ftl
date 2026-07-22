@@ -20,6 +20,8 @@ smartwindow-assistant-error-generic-header = Oĩvaicha osẽvaíva. Eha’ã jey
 smartwindow-assistant-error-budget-header = Ndaikatuvéima echatea ko árape.
 smartwindow-assistant-error-account-header = Eiporu hag̃ua { -smart-window-brand-name }, eikeraẽva’erã.
 smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } henyhẽ ko’ag̃aite. Ikatípa eha’ã jey ag̃amieve.
+smartwindow-assistant-error-budget-body = Eikundahakuaa gueteri ko ovetã rupive. Upe ñe’ẽmondoha oiko jeýta hu’ã vove jeporu araguáva.
+smartwindow-assistant-error-many-requests-header = Ikatúpa eha’arõmi ha eha’ã jey ag̃ave. Hetaiterei ñe’ẽmondo ojejapo sapy’aitépe.
 smartwindow-assistant-error-max-length-header = Oguahẽma ára eñepyrũvo jechatea pyahu. Kóva ohupytýma ipukukue.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
