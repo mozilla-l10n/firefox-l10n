@@ -679,12 +679,16 @@ forms-exceptions =
 forms-saved-logins =
     .label = Saxlanmış Daxil olmalar…
     .accesskey = D
+forms-primary-pw-use =
+    .label = Baş paroldan istifadə et
+    .accesskey = U
 forms-primary-pw-use-2 =
     .label = Baş paroldan istifadə et
     .accesskey = U
     .description = Saxlanılmış parollarınızı qorumaq üçün əlavə təhlükəsizlik səviyyəsi təmin edir.
 forms-primary-pw-set =
     .label = Baş parolu təyin et
+forms-primary-pw-on-2 = Baş parol <strong>AKTİVDİR</strong>
 forms-primary-pw-on =
     .label = Baş parol AKTİVDİR
 forms-primary-pw-change-2 =
@@ -695,6 +699,10 @@ forms-primary-pw-change-2 =
 forms-master-pw-change =
     .label = Ana parolu dəyişdir…
     .accesskey = d
+forms-primary-pw-change =
+    .label = Baş parolu dəyiş…
+    .accesskey = P
+forms-primary-pw-fips-title = Hazırda FIPS rejimindəsiniz. FIPS rejimi üçün boş buraxılmamış Baş Parol lazımdır.
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
 
 ## OS Authentication dialog
