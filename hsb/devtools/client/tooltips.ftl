@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Dalše informacije</span>
+devtools-tooltip-learn-more = Dalše informacije
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -125,6 +134,32 @@ inactive-css-ruby-element-fix = Spytajće <strong>font-size</strong> teksta ruby
 inactive-css-text-wrap-balance-lines-exceeded-fix = Spytajće ličbu linkow redukować. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Wotstrońće špalty abo wužiwajće <strong>page-break-inside:avoid</strong>, zo byšće rozdźělenje elementoweho wobsaha wobešoł. { learn-more }
 inactive-css-no-principal-box-fix = Spytajće hódnotu za kajkosć <strong>display</strong> přidać, kotraž hłowny kašćik wutworja, na přikład <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> abo <strong>grid</strong>. { learn-more }
+inactive-css-column-span-fix-1 = Spytajće jednomu z jeje předchadnych elementow <strong>column-count</strong> abo <strong>column-width</strong> přidać.
+inactive-css-not-grid-or-flex-item-fix-4 = Spytajće nadrjadowanemu elementej elementa <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> přidać.
+inactive-css-not-grid-item-fix-3 = Spytajće <strong>display:grid</strong> abo <strong>display:inline-grid</strong> nadrjadowanemu elementej zapiska přidać.
+inactive-css-not-grid-container-fix-1 = Spytajće <strong>display:grid</strong> abo <strong>display:inline-grid</strong> pčidać.
+inactive-css-not-flex-item-fix-3 = Spytajće <strong>display:flex</strong> abo <strong>display:inline-flex</strong> nadrjadowanemu elementej zapiska přidać.
+inactive-css-not-flex-container-fix-1 = Spytajće <strong>display:flex</strong> abo <strong>display:inline-flex</strong> přidać.
+inactive-css-not-inline-or-tablecell-fix-1 = Spytajće <strong>display:inline</strong> abo <strong>display:table-cell</strong> přidać.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Spytajće <strong>display:inline-block</strong> abo <strong>display:block</strong> přidać.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Spytajće <strong>display:inline-block</strong> přidać.
+inactive-css-not-display-block-on-floated-fix-1 = Spytajće <strong>float</strong> wotstronić abo <strong>display:block</strong> přidać.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Spytajće hódnotu <strong>display</strong> elementoweho kontejnera do něšto druheho hač <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> abo <strong>inline-grid</strong> změnić abo <strong>float</strong> wotstronić.
+inactive-css-not-block-fix-1 = Spytajće kajkosće kaž <strong>display:block</strong> abo <strong>float:left</strong> přidać.
+inactive-css-not-block-container-fix-1 = Spytajće <strong>display:block</strong>, <strong>display:inline-block</strong> abo <strong>display:flow-root</strong> přidać.
+inactive-css-no-size-containment-fix-1 = Spytajće kajkosć <strong>display</strong> na něšto druhe hač <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> abo <strong>inline-table</strong> stajić a zawěsćće, zo w tabeli abo segmenće ruby njeje.
+inactive-css-not-for-internal-table-elements-fix-1 = Spytajće kajkosć <strong>display</strong> na něsto druhe hač <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajić.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Spytajće kajkosć <strong>display</strong> na něsto druhe hač <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajić.
+inactive-css-not-table-fix-1 = Spytajće <strong>display:table</strong> abo <strong>display:inline-tabel</strong> přidać.
+inactive-css-collapsed-table-borders-fix-1 = Spytajće <strong>border-collapse:separate</strong> přidać.
+inactive-css-not-table-cell-fix-1 = Spytajće <strong>display:table-cell</strong> přidać.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Spytajće, <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> abo <strong>overflow:hidden</strong> přidać.
+inactive-css-border-image-fix-1 = Wotstrońće na nadrjadowanym elemenće tabele kajkosć abo změńće hódnotu kajkosće <strong>border-collapse</strong> do hódnoty, kotraž so wot <strong>collapse</strong> rozeznawa.
+inactive-css-resize-fix-1 = Spytajće <strong>overflow</strong> na druhu hódnotu hač <strong>visible</strong> stajeć abo so na wuměnjeny element měrić, kotryž jón podpěruje.
+inactive-css-ruby-element-fix-1 = Spytajće <strong>font-size</strong> teksta ruby změnić.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Spytajće ličbu linkow redukować.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Wotstrońće špalty abo wužiwajće <strong>page-break-inside:avoid</strong>, zo byšće rozdźělenje elementoweho wobsaha wobešoł.
+inactive-css-no-principal-box-fix-1 = Spytajće hódnotu za kajkosć <strong>display</strong> přidać, kotraž hłowny kašćik wutworja, na přikład <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> abo <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
