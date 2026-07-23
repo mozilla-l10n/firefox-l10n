@@ -131,6 +131,12 @@ inactive-css-ruby-element-fix = Essayez de modifier la <strong>taille de police<
 inactive-css-text-wrap-balance-lines-exceeded-fix = Essayez de réduire le nombre de lignes. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Évitez de fragmenter le contenu de l’élément, p. ex. en supprimant les colonnes ou en utilisant la règle <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Essayez d’ajouter une valeur <strong>display</strong> qui crée une boîte principale, telle que <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ou <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-4 = Essayez en ajoutant <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ou <strong>display:inline-flex</strong> à l’élément parent.
+inactive-css-not-grid-item-fix-3 = Essayez d’ajouter <strong>display:grid</strong> ou <strong>display:inline-grid</strong> au parent de l’élément.
+inactive-css-not-grid-container-fix-1 = Essayez d’ajouter <strong>display: grid</strong> ou <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Essayez d’ajouter <strong>display:flex</strong> ou <strong>display:inline-flex</strong> au parent de l’élément.
+inactive-css-not-flex-container-fix-1 = Essayez d’ajouter <strong>display:flex</strong> ou <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Essayez d’ajouter <strong>display:inline</strong> ou <strong>display:table-cell</strong>.
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Essayez d’ajouter <strong>display:inline-block</strong> ou <strong>display:block</strong>.
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Essayez d’ajouter <strong>display:inline-block</strong>.
 inactive-css-not-display-block-on-floated-fix-1 = Essayez de retirer <strong>float</strong> ou d’ajouter <strong>display:block</strong>.
@@ -140,6 +146,18 @@ inactive-css-not-block-container-fix-1 = Essayez d’ajouter <strong>display:blo
 inactive-css-not-block-flex-grid-container-fix-1 = Essayez d’ajouter <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> ou <strong>display:flow-root</strong>.
 inactive-css-not-floated-fix-1 = Essayez d’ajouter la propriété <strong>float</strong> avec une valeur différente de <strong>none</strong>.
 inactive-css-position-property-on-unpositioned-box-fix-1 = Essayez de définir sa propriété <strong>position</strong> avec une valeur différente de <strong>static</strong>.
+inactive-css-not-for-internal-table-elements-fix-1 = Essayez d’affecter à la propriété <strong>display</strong> une valeur autre que <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Essayez d’affecter à la propriété <strong>display</strong> une valeur autre que <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Essayez d’ajouter <strong>display:table</strong> ou <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Essayez d’ajouter <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Essayez d’ajouter <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Essayez d’ajouter <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ou <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Sur l’élément parent dans le tableau, supprimez la propriété <strong>border-collapse</strong> ou modifiez sa valeur pour autre chose que <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Essayez de définir une valeur différente de <strong>visible</strong> pour la propriété <strong>overflow</strong> ou de cibler un élément remplacé qui prend en charge cette valeur.
+inactive-css-ruby-element-fix-1 = Essayez de modifier la <strong>taille de police</strong> du texte ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Essayez de réduire le nombre de lignes.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Évitez de fragmenter le contenu de l’élément, p. ex. en supprimant les colonnes ou en utilisant la règle <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Essayez d’ajouter une valeur <strong>display</strong> qui crée une boîte principale, telle que <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ou <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
