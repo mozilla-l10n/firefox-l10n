@@ -57,6 +57,7 @@ inactive-css-not-grid-or-flex-container-fix-1 = Proa a agiùnghere <strong>displ
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>.
 inactive-css-not-grid-or-flex-item-fix-4 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> a s'elementu "parent".
 inactive-css-not-grid-container-fix-1 = Proa a agiùnghere <strong>display:grid</strong> o <strong>display:inline-grid</strong>.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Proa a redùere su nùmeru de lìnias.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
