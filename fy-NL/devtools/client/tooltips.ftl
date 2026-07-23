@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Mear ynformaasje</span>
+devtools-tooltip-learn-more = Mear ynformaasje
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,32 @@ inactive-css-ruby-element-fix = Probearje de <strong>lettertypegrutte</strong> f
 inactive-css-text-wrap-balance-lines-exceeded-fix = Probearje it oantal rigels te ferminderjen. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Mij it splitsen fan de ynhâld fan it elemint, byg. troch de kolommen fuort te smiten of troch <strong>page-break-inside:avoid</strong> te brûken. { learn-more }
 inactive-css-no-principal-box-fix = Probearje in <strong>display</strong>-wearde ta te foegjen dy’t in haadfak makket, lykas <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> of <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-4 = Probearje <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> oan it boppelizzende nivo fan it elemint ta te foegjen.
+inactive-css-not-grid-item-fix-3 = Probearje <strong>display:grid</strong> of <strong>display:inline-grid</strong> oan it boppe lizzende elemint ta te foegjen.
+inactive-css-not-grid-container-fix-1 = Probearje <strong>display:grid</strong> of <strong>display:inline-grid</strong> ta te foegjen.
+inactive-css-not-flex-item-fix-3 = Probearje <strong>display:flex</strong> of <strong>display:inline-flex</strong> oan it boppe lizzende elemint ta te foegjen.
+inactive-css-not-flex-container-fix-1 = Probearje <strong>display:flex</strong> of <strong>display:inline-flex</strong> ta te foegjen.
+inactive-css-not-inline-or-tablecell-fix-1 = Probearje <strong>display:inline</strong> of <strong>display:table-cell</strong> ta te foegjen.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Probearje <strong>display:inline-block</strong> of <strong>display:block</strong> ta te foegjen.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Probearje <strong>display:inline-block</strong> ta te foegjen.
+inactive-css-not-display-block-on-floated-fix-1 = Probearje <strong>float</strong> fuort te smiten of <strong>display:block</strong> ta te foegjen.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Probearje de wearde fan <strong>display</strong> fan de kontener fan it elemint te wizigjen nei wat oars as <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> of <strong>inline-grid</strong>, of <strong>float</strong> fuort te smiten.
+inactive-css-not-block-fix-1 = Probearje eigenskippen lykas <strong>display:block</strong> of <strong>float:left</strong> ta te foegjen.
+inactive-css-only-replaced-elements-fix-1 = Soargje derfoar dat jo de eigenskip oan in ferfongen elemint tafoegje.
+inactive-text-overflow-when-no-overflow-fix-1 = Probearje <strong>overflow:hidden</strong> ta te foegjen.
+inactive-css-no-size-containment-fix-1 = Probearje de property <strong>display</strong> op wat oars as <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> of <strong>inline-table</strong> yn te stellen en soargje derfoar dat dizze net binnen in tabel of rubysegmint stiet.
+inactive-css-not-for-internal-table-elements-fix-1 = Probearje de property <strong>display</strong> op wat oars as <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> of <strong>table-footer-group</strong> yn te stellen.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Probearje de property <strong>display</strong> op wat oars as <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> of <strong>table-footer-group</strong> yn te stellen.
+inactive-css-not-table-fix-1 = Probearje <strong>display:flex</strong> of <strong>display:inline-table</strong> ta te foegjen.
+inactive-css-collapsed-table-borders-fix-1 = Probearje <strong>border-collapse:separate</strong> ta te foegjen.
+inactive-css-not-table-cell-fix-1 = Probearje <strong>display:table-cell</strong> ta te foegjen.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Probearje <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> of <strong>overflow:hidden</strong> ta te foegjen.
+inactive-css-border-image-fix-1 = Smyt yn it boppelizzende tabelelemint de eigenskip fuort, of wizigje de wearde fan <strong>border-collapse</strong> yn in oare wearde as <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Probearje <strong>overflow</strong> yn te stellen op in oare wearde as <strong>visible</strong> of te rjochtsjen op in ferfongen elemint dat dizze stipet.
+inactive-css-ruby-element-fix-1 = Probearje de <strong>lettertypegrutte</strong> fan de rubytekst te wizigjen.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Probearje it oantal rigels te ferminderjen.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Mij it splitsen fan de ynhâld fan it elemint, byg. troch de kolommen fuort te smiten of troch <strong>page-break-inside:avoid</strong> te brûken.
+inactive-css-no-principal-box-fix-1 = Probearje in <strong>display</strong>-wearde ta te foegjen dy’t in haadfak makket, lykas <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> of <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
