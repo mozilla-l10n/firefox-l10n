@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Meer informatie</span>
+devtools-tooltip-learn-more = Meer informatie
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,18 @@ inactive-css-ruby-element-fix = Probeer de <strong>lettergrootte</strong> van de
 inactive-css-text-wrap-balance-lines-exceeded-fix = Probeer het aantal regels te verminderen. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Vermijd het splitsen van de inhoud van het element, b.v. door de kolommen te verwijderen of door <strong>page-break-inside:avoid</strong> te gebruiken. { learn-more }
 inactive-css-no-principal-box-fix = Probeer een <strong>display</strong>-waarde toe te voegen die een primair veld maakt, zoals <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> of <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-4 = Probeer <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> aan het bovenliggende niveau van het element toe te voegen.
+inactive-css-not-grid-item-fix-3 = Probeer <strong>display:grid</strong> of <strong>display:inline-grid</strong> aan het bovenliggende element toe te voegen.
+inactive-css-not-grid-container-fix-1 = Probeer <strong>display:grid</strong> of <strong>display:inline-grid</strong> toe te voegen.
+inactive-css-not-flex-item-fix-3 = Probeer <strong>display:flex</strong> of <strong>display:inline-flex</strong> aan het bovenliggende element toe te voegen.
+inactive-css-not-flex-container-fix-1 = Probeer <strong>display:flex</strong> of <strong>display:inline-flex</strong> toe te voegen.
+inactive-css-not-inline-or-tablecell-fix-1 = Probeer <strong>display:inline</strong> of <strong>display:table-cell</strong> toe te voegen.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Probeer <strong>display:inline-block</strong> of <strong>display:block</strong> toe te voegen.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Probeer <strong>display:inline-block</strong> toe te voegen.
+inactive-css-not-display-block-on-floated-fix-1 = Probeer <strong>float</strong> te verwijderen of <strong>display:block</strong> toe te voegen.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Probeer de waarde van <strong>display</strong> van de container van het element te wijzigen naar iets anders dan <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> of <strong>inline-grid</strong>, of <strong>float</strong> te verwijderen.
+inactive-css-not-block-fix-1 = Probeer eigenschappen zoals <strong>display:block</strong> of <strong>float:left</strong> toe te voegen.
+inactive-css-not-block-container-fix-1 = Probeer <strong>display:block</strong>, <strong>display:inline-block</strong> of <strong>display:flow-root</strong> toe te voegen.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
