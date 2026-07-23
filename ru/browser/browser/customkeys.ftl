@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Нажмите новое сочетание:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (не может быть изменено)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Удалить другой ярлык?
 customkeys-conflict-confirm-body = Этот ключ уже используется «{ $conflict }».
 customkeys-conflict-confirm-button-confirm = Всё равно использовать
 customkeys-conflict-confirm-button-cancel = Отмена
+customkeys-conflict-unusable-title = Ключ не может быть использован
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Этот ключ уже используется «{ $confocus }» и не может быть использован.
 customkeys-reset-all-confirm-title = Восстановить по умолчанию?
 customkeys-reset-all-confirm-body = Все созданные вами ярлыки будут удалены.
 customkeys-reset-all-confirm-button-confirm = Восстановить по умолчанию

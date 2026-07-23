@@ -299,6 +299,20 @@ launch-on-login-infobar-final-message = <strong>Открывать { -brand-shor
 launch-on-login-infobar-final-reject-button = Нет, спасибо
     .accesskey = т
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } теперь запускается при входе в Windows. Вы всегда можете изменить это позже в настройках.
+launch-on-login-autostart-infobar-keep-button = Оставить включённым
+    .accesskey = Л
+launch-on-login-autostart-infobar-turn-off-button = Отключить
+    .accesskey = Е
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -497,3 +511,21 @@ nova-early-access-share-feedback-link = Поделиться отзывом
     .accesskey = Ы
 nova-early-access-infobar-primary-button = Понятно
     .accesskey = П
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Запускать { -brand-short-name } каждый раз, когда вы входите в Windows?
+launch-options-spotlight-title-session-restore = Заново открывать сессию при перезапуске { -brand-short-name }?
+launch-options-spotlight-checkbox-launch-on-login = Открывать { -brand-short-name } при запуске
+launch-options-spotlight-checkbox-pin-to-taskbar = Закрепить на панели задач
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Снова открыть текущие окна и вкладки
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Восстановить предыдущие окна и вкладки
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Сохранить и закрыть { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Сохранить и продолжить

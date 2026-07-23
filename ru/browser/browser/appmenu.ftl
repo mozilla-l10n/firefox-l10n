@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Перевести страницу…
 appmenuitem-zoom =
     .value = Масштаб
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Поделитесь { -brand-product-name }
 appmenuitem-more-tools =
     .label = Другие инструменты
 appmenuitem-help =

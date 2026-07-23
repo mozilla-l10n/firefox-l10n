@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Завершите и разблокируйте бонусные значки лисы для персонализации { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Вы разблокировали все бонусные значки!
 appearance-browser-icon-set-default-button =
     .label = Установить по умолчанию
 appearance-browser-icon-pin-button =
