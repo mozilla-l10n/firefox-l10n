@@ -132,6 +132,36 @@ inactive-css-ruby-element-fix = Intenta cambiar el <strong>tamaño de fuente</st
 inactive-css-text-wrap-balance-lines-exceeded-fix = Intenta reducir el número de líneas. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evita dividir el contenido del elemento, ej: eliminando las columnas o usando <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Intenta agregar un valor de <strong>display</strong> que genere una caja principal, como <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> o <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-4 = Prueba agregar <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al elemento padre.
+inactive-css-not-grid-item-fix-3 = Intenta agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del item.
+inactive-css-not-grid-container-fix-1 = Intenta agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Intenta agregar <strong>display:flex</strong> o <strong>display:inline-flex</strong> al padre del elemento.
+inactive-css-not-flex-container-fix-1 = Intenta agregar <strong>display:flex</strong> o <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Intenta agregar <strong>display:inline</strong> o <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Intenta agregar <strong>display:inline-block</strong> o <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Intenta agregar <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Intenta eliminar <strong>float</strong> o agrega <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Prueba a cambiar el valor de <strong>display</strong> del contenedor del elemento a algo distinto de <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, o <strong>inline-grid</strong>, o eliminando <strong>float</strong>.
+inactive-css-not-block-fix-1 = Intenta agregar propiedades como <strong>display:block</strong> o <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Intenta agregar <strong>display:block</strong>, <strong>display:inline-block</strong> o <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Intenta agregar <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> o <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Prueba a agrear la propiedad <strong>float</strong> con un valor distinto de <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Intenta establecer la propiedad <strong>position</strong> en algo diferente a <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Asegúrate de añadir la propiedad a un elemento reemplazado.
+inactive-text-overflow-when-no-overflow-fix-1 = Intenta agregar <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Intenta establecer la propiedad <strong>display</strong> a algo diferente a <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> o <strong>inline-table</strong> y asegúrate de que no esté dentro de una tabla o segmento ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Prueba ajustar su propiedad <strong>display</strong> a algo diferente a <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Prueba establecer su propiedad <strong>mostrar</strong> a algo diferente de<strong>tabla-columna</strong>, <strong>table-fila</strong>, <strong>table-de gupo de-columnas</strong>, <strong>tabla-de grupo de-filas</strong> o <strong>tabla de grupo de pies de página</strong>.
+inactive-css-not-table-fix-1 = Intenta agregar <strong>display:table</strong> o <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Prueba agregar <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Prueba agregar <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Intenta agregar <strong>overflow:auto</strong>,<strong>overflow:scrooll</strong>, o<strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = En el elemento de la tabla principal, elimina la propiedad o cambia el valor de <strong>border-collapse</strong> a un valor que no sea <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Intenta establecer <strong>overflow</strong> a un valor distinto de <strong>visible</strong> o apuntar a un elemento reemplazado que le brinde apoyo.
+inactive-css-ruby-element-fix-1 = Intenta cambiar el <strong>tamaño de fuente</strong> del texto rubí.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Intenta reducir el número de líneas.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Evita dividir el contenido del elemento, ej: eliminando las columnas o usando <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Intenta agregar un valor de <strong>display</strong> que genere una caja principal, como <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> o <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
