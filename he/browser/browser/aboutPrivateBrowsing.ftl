@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = הורדת { -focus-brand-name }
 about-private-browsing-focus-promo-header = ‏{ -focus-brand-name }: גלישה פרטית בדרכים
 about-private-browsing-focus-promo-text = יישומון הגלישה הפרטית הייעודי שלנו לנייד מנקה את ההיסטוריה והעוגיות שלך בכל פעם.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = לקחת את הגלישה הפרטית לטלפון שלך
 about-private-browsing-focus-promo-text-b = ניתן להשתמש ב־{ -focus-brand-name } עבור החיפושים הפרטיים שאין ברצונך שיופיעו בדפדפן הראשי שלך בנייד.

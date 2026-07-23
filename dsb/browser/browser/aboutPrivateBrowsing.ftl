@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = { -focus-brand-name } ześěgnuś
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Priwatny modus pó droze
 about-private-browsing-focus-promo-text = Našo mobilne, za priwatny modus myslone nałoženje wašu historiju a cookieje kuždy cas prozni.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Pśinjasćo priwatne pśeglědowanje na swój telefon
 about-private-browsing-focus-promo-text-b = Wužywajśo { -focus-brand-name } za te priwatne pytanja, kótarež njama waš głowny mobilny wobglědowak wiźeś.

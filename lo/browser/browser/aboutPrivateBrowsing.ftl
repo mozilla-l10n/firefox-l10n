@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = ດາວໂຫລດ { -focus-brand-na
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ການຊອກຫາແບບສ່ວນຕົວໃນເວລາເດີນທາງ
 about-private-browsing-focus-promo-text = ແອັບມືຖືສຳລັບການທ່ອງເວັບແບບສ່ວນຕົວຂອງເຮົາຈະລ້າງປະຫວັດ ແລະ ຄຸກກີ້ຂອງທ່ານໃນທຸກຄັ້ງ.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = ທ່ອງເວັບແບບສ່ວນຕົວເທິງໂທລະສັບຂອງທ່ານ
 about-private-browsing-focus-promo-text-b = ໃຊ້ { -focus-brand-name } ສໍາລັບການຄົ້ນຫາສ່ວນຕົວທີ່ເຈົ້າບໍ່ຕ້ອງການໃຫ້ຕົວທ່ອງເວັບມືຖືຕົ້ນຕໍຂອງເຈົ້າເຫັນ.

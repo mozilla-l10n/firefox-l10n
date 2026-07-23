@@ -26,7 +26,7 @@ about-private-browsing-prominent-cta = Manatiling ligtas at pribado { -mozilla-v
 about-private-browsing-focus-promo-cta = I-download ang { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Pribadong pagba-browse saanman, kailanman
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Dalhin ang pribadong pagba-browse sa iyong telepono
 about-private-browsing-focus-promo-text-b = Gamitin ang { -focus-brand-name } para sa mga pribadong paghahanap na hindi mo gustong makita ng pangunahing mobile browser mo.

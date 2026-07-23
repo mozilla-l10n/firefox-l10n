@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Pobier { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: prywatnie przeglōndanie w drōdze
 about-private-browsing-focus-promo-text = Nasza szpecjalno mobilniokowo aplikacyjo do prywatnego przeglōndanio kożdy roz pucuje twoja historyjo i cookies.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Używej prywatnego przeglōndanio na swojim telefōnie
 about-private-browsing-focus-promo-text-b = Używej { -focus-brand-name(case: "acc") } to tych prywatnych zeszukiwań, co ich niy mo uwidzieć głōwno przeglōndarka na mobilnioku.

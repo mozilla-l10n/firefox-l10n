@@ -8,7 +8,7 @@ about-private-browsing-search-placeholder = Խնդրել յոստայնի:
 about-private-browsing-info-title = Չես ի ծածուկ պատուհանի
 about-private-browsing-not-private = Չես այժմ ի ծածուկ պատուհանի։
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

@@ -29,7 +29,7 @@ about-private-browsing-prominent-cta = Անցնել գաղտնիութեան { -
 about-private-browsing-focus-promo-cta = Ներբեռնել { -focus-brand-name }
 about-private-browsing-focus-promo-text = Մեր գաղտնի դիտարկման բջջային յաւելուածը ամէն անգամ մաքրում է Ձեր պատմութիւնը եւ թխուկները:
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Սկսել գաղտնի դիտարկում հեռախաւսով
 about-private-browsing-focus-promo-text-b = Աւգտագործէք { -focus-brand-name } գաղտնի որոնումների համար, որոնք Դուք չէք ցանկանում, որ Ձեր հիմնական բջջային դիտարկիչը տեսնի:

@@ -11,7 +11,7 @@ about-private-browsing-not-private = သင်သည် လက်ရှိတွ
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ဖြင့် သီးသန့်သုံးပါ။
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ကို ဒေါင်းလုဒ်လုပ်ပါ
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-c = မိုဘိုင်းပေါ်ရှိ အဆင့်မြင့် ကိုယ်ရေးကိုယ်တာ
 # This string is the title for the banner for search engine selection

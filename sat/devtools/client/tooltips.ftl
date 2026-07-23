@@ -11,14 +11,6 @@ devtools-tooltip-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -122,15 +114,3 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱟᱞ ᱯᱨᱚᱯᱚᱨᱴᱤ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟᱠᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱚᱦᱚᱫ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱺ
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱟᱞ ᱯᱨᱚᱯᱚᱨᱴᱤ ᱠᱟᱱᱟ ᱾
 css-compatibility-learn-more-message = ᱵᱟᱵᱚᱛ <strong>{ $rootProperty }</strong> <span data-l10n-name="link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ </span>
-
-## In the Rule View when a rule selector can causes issues, we display an icon.
-## When this icon is hovered one or more of those messages are displayed to explain what
-## the issue are.
-
-
-## In the Rule View we display a tooltip when a @container condition is hovered.
-## We want to show a specific message if the condition doesn't match a container for the
-## currently selected element
-## Variables:
-##   $name (string) - The condition name.
-

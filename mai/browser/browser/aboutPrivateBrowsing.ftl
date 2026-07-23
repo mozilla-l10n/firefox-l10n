@@ -27,7 +27,7 @@ about-private-browsing-get-privacy = जतए भी अहाँ ब्रा�
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } सँग प्राइवेट होउ
 about-private-browsing-focus-promo-cta = डाउनलोडकरू { -focus-brand-name }
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = अपन फ़ोन मे प्राइवेट ब्राउज़र पाबू
 about-private-browsing-focus-promo-header-c = मोबाइल पर अगिला स्तर केर प्राइवेसी पाबू

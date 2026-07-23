@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Сцягнуць { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: прыватнае агляданне ў дарозе
 about-private-browsing-focus-promo-text = Наша спецыялізаваная мабільная праграма для прыватнага аглядання кожны раз ачышчае вашу гісторыю і кукі.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Вазьміце прыватнае агляданне на свой тэлефон
 about-private-browsing-focus-promo-text-b = Выкарыстоўвайце { -focus-brand-name } для тых прыватных пошукаў, якія не хочаце, каб ваш асноўны мабільны браўзер бачыў.

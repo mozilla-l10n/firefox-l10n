@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = { -focus-brand-name } 다운로드
 about-private-browsing-focus-promo-header = { -focus-brand-name }: 열일하는 사생활 보호 모드
 about-private-browsing-focus-promo-text = 전용 사생활 보호 모바일 앱은 매번 기록과 쿠키를 지웁니다.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = 휴대폰으로 사생활 보호 모드 사용
 about-private-browsing-focus-promo-text-b = 주 모바일 브라우저에 표시하고 싶지 않은 사생활 검색에는 { -focus-brand-name }를 사용하세요.

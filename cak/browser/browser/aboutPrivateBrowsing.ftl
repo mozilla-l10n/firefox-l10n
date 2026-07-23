@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Tiqasäx { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ichinan okem xab'akuchi'
 about-private-browsing-focus-promo-text = Ri ruchokoy qoyonib'al nusamajij ichinan okem junelik yeruyüj ri taq natab'äl chuqa' taq koki.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Tak'waj ri ichinan okem pa k'amaya'l pan awoyonib'al
 about-private-browsing-focus-promo-text-b = Tawokisaj { -focus-brand-name } toq yakanon pan ewäl, ri man nawajo' ta chi nutzu' ri nab'ey awokik'amaya'l.

@@ -8,7 +8,7 @@ about-private-browsing-search-placeholder = वेबवर शोधा
 about-private-browsing-info-title = आपण एका खाजगी पटलामध्ये आहात
 about-private-browsing-not-private = आपण सध्या खाजगी पटलात नाही.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

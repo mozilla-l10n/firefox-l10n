@@ -8,7 +8,7 @@ about-private-browsing-search-placeholder = વેબ પર શોધો
 about-private-browsing-info-title = તમે ખાનગી વિન્ડો માં છો
 about-private-browsing-not-private = તમે હાલમાં ખાનગી વિન્ડો મા નથી.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-search-banner-close-button =
     .aria-label = બંધ

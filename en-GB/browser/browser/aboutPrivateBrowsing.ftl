@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Download { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Private browsing on-the-go
 about-private-browsing-focus-promo-text = Our dedicated private browsing mobile app clears your history and cookies every time.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Take private browsing to your phone
 about-private-browsing-focus-promo-text-b = Use { -focus-brand-name } for those private searches you don’t want your main mobile browser to see.

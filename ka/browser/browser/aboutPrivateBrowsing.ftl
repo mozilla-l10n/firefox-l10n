@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = ჩამოტვირთეთ { -fo
 about-private-browsing-focus-promo-header = { -focus-brand-name }: თან გაიყოლეთ პირადულობა
 about-private-browsing-focus-promo-text = პირადულობისთვის განკუთვნილი მობილური ბრაუზერი, ასუფთავებს ისტორიასა და კვალს, ყოველი გამოყენების შემდგომ.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = გაიყოლეთ პირადულობა ტელეფონთან ერთად
 about-private-browsing-focus-promo-text-b = გამოიყენეთ { -focus-brand-name } იმ ინფორმაციის გაუმჟღავნებლად მოძიებისთვის, რომლის მთავარი ბრაუზერით ნახვაც არ გსურთ.

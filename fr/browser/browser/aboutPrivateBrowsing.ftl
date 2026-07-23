@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Télécharger { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } : navigation privée mobile
 about-private-browsing-focus-promo-text = Notre application mobile dédiée à la navigation privée efface votre historique et vos cookies après chaque utilisation.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Profitez de la navigation privée sur votre téléphone
 about-private-browsing-focus-promo-text-b = Utilisez { -focus-brand-name } pour des recherches privées que vous voulez cacher à votre navigateur mobile habituel.

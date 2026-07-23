@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = 下載 { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: 隨身上網隱私都有保護
 about-private-browsing-focus-promo-text = 我們的隱私瀏覽專用 App 可在每次瀏覽結束時都清除您的上網紀錄與 Cookie。
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = 隱私上網隨身帶著走
 about-private-browsing-focus-promo-text-b = 若您想搜尋一些不想被手機內建瀏覽器發現的東西，可使用 { -focus-brand-name } 進行隱私搜尋。

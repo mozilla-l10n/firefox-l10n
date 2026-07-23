@@ -24,7 +24,7 @@ about-private-browsing-hide-activity = Gāchrī huì sa ‘hiát así danè’ h
 about-private-browsing-get-privacy = Gīrì’ sa nārán mā’ânt da’ gāchē nunt danè’ garan’ ruhuât
 about-private-browsing-focus-promo-cta = Nādunïnj { -focus-brand-name }
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

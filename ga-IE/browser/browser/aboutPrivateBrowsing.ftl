@@ -21,7 +21,7 @@ about-private-browsing-handoff-text-no-engine = Cuardaigh nó cuir isteach seola
 about-private-browsing-not-private = Níl tú i bhfuinneog phríobháideach faoi láthair.
 about-private-browsing-learn-more-link = Tuilleadh eolais
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

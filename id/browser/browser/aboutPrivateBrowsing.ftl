@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Unduh { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Penjelajahan pribadi di mana saja
 about-private-browsing-focus-promo-text = Aplkasi seluler penjelajahan pribadi khusus dari kami untuk menghapus riwayat dan kuki Anda setiap saat.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Bawa penjelajahan pribadi ke ponsel Anda
 about-private-browsing-focus-promo-text-b = Gunakan { -focus-brand-name } untuk pencarian pribadi yang tidak ingin terlihat dari peramban utama Anda.

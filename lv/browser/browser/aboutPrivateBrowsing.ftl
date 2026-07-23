@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Lejupielādēt { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: privāta pārlūkošana, lai kur jūs dotos
 about-private-browsing-focus-promo-text = Mūsu speciālā privātās pārlūkošanas mobilā lietotne katru reizi notīra vēsturi un sīkdatnes.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Veiciet privātu pārlūkošanu savā tālrunī
 about-private-browsing-focus-promo-text-b = Izmantojiet { -focus-brand-name } tiem privātajiem meklēšanas vaicājumiem, kurus nevēlaties redzēt galvenajā mobilajā pārlūkprogrammā.

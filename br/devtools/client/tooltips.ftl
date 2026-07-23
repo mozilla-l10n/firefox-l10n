@@ -11,14 +11,6 @@ devtools-tooltip-learn-more = Learn more
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -42,16 +34,6 @@ inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ha
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> has no effect on internal table elements except table cells.
 inactive-css-not-table = <strong>{ $property }</strong> has no effect on this element since it’s not a table.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> has no effect on this element since it doesn’t scroll.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -106,15 +88,3 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> is an experimental property. It is not supported in the following browsers:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> is an experimental property.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Learn more</span> about <strong>{ $rootProperty }</strong>
-
-## In the Rule View when a rule selector can causes issues, we display an icon.
-## When this icon is hovered one or more of those messages are displayed to explain what
-## the issue are.
-
-
-## In the Rule View we display a tooltip when a @container condition is hovered.
-## We want to show a specific message if the condition doesn't match a container for the
-## currently selected element
-## Variables:
-##   $name (string) - The condition name.
-

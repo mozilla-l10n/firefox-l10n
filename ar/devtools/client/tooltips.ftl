@@ -11,14 +11,6 @@ devtools-tooltip-learn-more = اطّلع على المزيد
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -36,16 +28,6 @@ inactive-css-not-inline-or-tablecell = ليس للصفة <strong>{ $property }</
 inactive-css-property-because-of-display = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ قيمة العرض/display له هي <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = غيّر المحرّك قيمةَ العرض/<strong>display</strong> لتصير <strong>block</strong> إذ العنصر <strong>طافٍ/float</strong>.
 inactive-css-position-property-on-unpositioned-box = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس عنصرًا متموضعًا/positioned.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -86,15 +68,3 @@ inactive-css-text-wrap-balance-lines-exceeded-fix-1 = حاول تقليل عدد
 
 css-compatibility-deprecated-experimental-message = كانت <strong>{ $property }</strong> صفة تجريبية وباتت بائدة الآن حسب معايير W3C. لم تعد مدعومة في المتصفحات الآتية:
 css-compatibility-deprecated-experimental-supported-message = كانت <strong>{ $property }</strong> صفة تجريبية وباتت بائدة الآن حسب معايير W3C.
-
-## In the Rule View when a rule selector can causes issues, we display an icon.
-## When this icon is hovered one or more of those messages are displayed to explain what
-## the issue are.
-
-
-## In the Rule View we display a tooltip when a @container condition is hovered.
-## We want to show a specific message if the condition doesn't match a container for the
-## currently selected element
-## Variables:
-##   $name (string) - The condition name.
-

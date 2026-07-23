@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = «{ -focus-brand-name }»-ро борг
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Тамошобинии хусусӣ дар роҳ
 about-private-browsing-focus-promo-text = Барномаи мобилии махсуси мо барои тамошобинии хусусӣ ҳар вақт таърих ва кукиҳои шуморо тоза мекунад.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Тамошобинии хусусиро ба телефони худ баред
 about-private-browsing-focus-promo-text-b = Барои он ҷустуҷӯҳои шахсие, ки шумо намехоҳед браузери асосии мобилии шумо бинад, аз { -focus-brand-name } истифода баред.

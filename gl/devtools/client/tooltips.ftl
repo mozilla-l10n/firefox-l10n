@@ -11,14 +11,6 @@ devtools-tooltip-learn-more = Máis información
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -172,10 +164,3 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Saiba máis</
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Este selector usa <strong>:has()</strong> sen restricións, o que pode ser lento
-
-## In the Rule View we display a tooltip when a @container condition is hovered.
-## We want to show a specific message if the condition doesn't match a container for the
-## currently selected element
-## Variables:
-##   $name (string) - The condition name.
-

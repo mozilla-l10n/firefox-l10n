@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Lataa { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Yksityistä selausta tien päällä
 about-private-browsing-focus-promo-text = Yksityisyydelle omistettu mobiiliselaimemme tyhjentää historiasi ja evästeet joka kerta.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Vie yksityinen selaaminen puhelimeesi
 about-private-browsing-focus-promo-text-b = Käytä { -focus-brand-name }ia niitä yksityisiä hakuja varten, joita et halua ensisijaisen mobiiliselaimesi näkevän.

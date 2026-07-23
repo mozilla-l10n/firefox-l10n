@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = ดาวน์โหลด { -focus-br
 about-private-browsing-focus-promo-header = ท่องเว็บแบบส่วนตัวขณะเดินทางด้วย { -focus-brand-name }
 about-private-browsing-focus-promo-text = แอปมือถือสำหรับการท่องเว็บแบบส่วนตัวของเราจะล้างประวัติและคุกกี้ของคุณทุกครั้ง
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = ท่องเว็บแบบส่วนตัวบนโทรศัพท์ของคุณ
 about-private-browsing-focus-promo-text-b = ใช้ { -focus-brand-name } สำหรับการค้นหาส่วนตัวที่คุณไม่ต้องการให้เบราว์เซอร์มือถือหลักของคุณเห็น

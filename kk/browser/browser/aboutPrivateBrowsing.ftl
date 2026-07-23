@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = { -focus-brand-name } жүктеп ал
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Қозғалыстағы жекелік шолу
 about-private-browsing-focus-promo-text = Біздің арнайы жеке шолу мобильді қолданбамыз тарихыңызды және cookie файлдарын әр уақытта тазартады.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Телефоныңыздағы жекелік шолу
 about-private-browsing-focus-promo-text-b = Негізгі мобильді браузерге көрсеткіңіз келмейтін жеке іздеулер үшін { -focus-brand-name } пайдаланыңыз.

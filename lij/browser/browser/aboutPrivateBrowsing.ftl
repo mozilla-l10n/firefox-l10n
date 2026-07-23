@@ -23,7 +23,7 @@ about-private-browsing-learn-more-link = Atre informaçioin
 about-private-browsing-focus-promo-cta = Scarega { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navegaçion anònima donde se segge
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

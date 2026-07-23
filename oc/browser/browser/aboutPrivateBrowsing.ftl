@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Telecargar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } : navegacion privada sul pic
 about-private-browsing-focus-promo-text = Nòstra aplicacion dedicada a la navegacion privada escafa l’istoric e los cookies aprèp cada utilizacion.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Metètz de la navegacion privada al vòstre mobil
 about-private-browsing-focus-promo-text-b =

@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Shkarko { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Shfletim privat në lëvizje
 about-private-browsing-focus-promo-text = Aplikacioni ynë enkas për shfletim privat në celular spastron historikun dhe cookie-t tuaja çdo herë.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Merrni shfletim privat në telefonin tuaj
 about-private-browsing-focus-promo-text-b = Përdoreni { -focus-brand-name } për ato kërkime private që s’doni t’i shohë shfletuesi juaj kryesor për celular.

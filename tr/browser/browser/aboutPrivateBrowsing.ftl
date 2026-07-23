@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = { -focus-brand-name }’u indir
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Her yerde gizli gezinti
 about-private-browsing-focus-promo-text = Mobil gizlilik tarayıcımız her seferinde geçmişinizi ve çerezlerinizi temizler.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Gizli gezintiyi telefonunuza taşıyın
 about-private-browsing-focus-promo-text-b = Ana mobil tarayıcınızda görünmesini istemediğiniz aramalar için { -focus-brand-name } kullanabilirsiniz.

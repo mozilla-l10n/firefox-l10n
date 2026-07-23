@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Descargar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegación privada sobre la marcha
 about-private-browsing-focus-promo-text = Nuestra aplicación móvil diseñada para la navegación privada borra automáticamente su historial y cookies.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Lleve la navegación privada a su teléfono
 about-private-browsing-focus-promo-text-b = Use { -focus-brand-name } para aquellas búsquedas privadas que no desea que vea su navegador móvil principal.

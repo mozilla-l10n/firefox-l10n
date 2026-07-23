@@ -21,7 +21,7 @@ about-private-browsing-handoff-text-no-engine = بگەڕێ یان ناونیشا
 about-private-browsing-not-private = تۆ ئێستا لە پەنجەرەی تایبەت دا نیت.
 about-private-browsing-learn-more-link = زیاتر بزانە
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

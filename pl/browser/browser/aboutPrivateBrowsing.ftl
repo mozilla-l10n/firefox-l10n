@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Pobierz { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: prywatne przeglądanie także w drodze
 about-private-browsing-focus-promo-text = Nasza wyspecjalizowana w prywatności przeglądarka na telefon czyści historię i ciasteczka za każdym razem.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Przeglądaj prywatnie na telefonie
 about-private-browsing-focus-promo-text-b = Używaj { -focus-brand-name } do tych prywatnych wyszukiwań, których główna przeglądarka na telefonie ma nie widzieć.

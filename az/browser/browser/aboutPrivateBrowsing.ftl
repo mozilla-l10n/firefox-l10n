@@ -25,7 +25,7 @@ about-private-browsing-learn-more-link = Ətraflı öyrən
 about-private-browsing-hide-activity = İnternetdə gəzdiyiniz hər yerdə fəaliyyətinizi və yerinizi gizlədin.
 about-private-browsing-get-privacy = İnternetdə gəzdiyiniz hər yerdə məxfilik qoruması alın
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

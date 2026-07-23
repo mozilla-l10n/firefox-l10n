@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Emboguejy { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ñeikundaha ñemi pya’eháicha
 about-private-browsing-focus-promo-text = Ore pumbyry rembiporu’i rojapóva oñeikundaha ñemi hag̃ua ombogue ijehegui tembiasakue ha kookie.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Eguerova kundahára ñemi ne pumbyrýpe
 about-private-browsing-focus-promo-text-b = Eiporu { -focus-brand-name } jeheka ñemiguarã epota’ỹva ohecha ne kundahára pumburygua eiporuvéva.

@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Преземи го { -focus-brand-name
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Секогаш приватно прелистување
 about-private-browsing-focus-promo-text = Нашата наменска мобилна апликација за приватно прелистување ги брише вашата историја и колачиња секој пат.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Донесете приватно прелистување на Вашиот телефон
 about-private-browsing-focus-promo-text-b = Користете { -focus-brand-name } за оние приватни пребарувања што не сакате да ги гледа Вашиот главен мобилен прелистувач.

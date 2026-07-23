@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Last ned { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat nettlesing mens du er på farten
 about-private-browsing-focus-promo-text = Vår dedikerte mobilapp for privat nettlesing sletter historikken og infokapslene hver gang.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Ta privat nettlesing til telefonen din
 about-private-browsing-focus-promo-text-b = Bruk { -focus-brand-name } for de private søkene du ikke vil at din hoved mobilnettleser skal se.

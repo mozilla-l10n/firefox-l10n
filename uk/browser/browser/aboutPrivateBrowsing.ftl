@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Завантажити { -focus-brand-n
 about-private-browsing-focus-promo-header = { -focus-brand-name }: приватний перегляд у дорозі
 about-private-browsing-focus-promo-text = Наша спеціальна програма для приватного перегляду на мобільних пристроях щоразу очищає вашу історію і файли cookie.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Перейдіть до приватного перегляду на своєму телефоні
 about-private-browsing-focus-promo-text-b = Користуйтеся { -focus-brand-name } для тих приватних пошуків, які ви хочете приховати від основного мобільного браузера.

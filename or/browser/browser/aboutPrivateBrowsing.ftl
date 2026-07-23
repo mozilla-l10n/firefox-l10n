@@ -9,7 +9,7 @@ about-private-browsing-info-title = ଆପଣ ଏକ ବ୍ୟକ୍ତିଗତ
 about-private-browsing-not-private = ଆପଣ ବର୍ତ୍ତମାନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ନାହାନ୍ତି।
 about-private-browsing-learn-more-link = ଅଧିକ ଜାଣନ୍ତୁ
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

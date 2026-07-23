@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Luchdaich a-nuas { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Brabhsadh prìobhaideach air an rathad
 about-private-browsing-focus-promo-text = Falamhaichidh an aplacaid brabhsaidh phrìobhaideach shònraichte againn an eachdraidh is na briosgaidean agad gach turas.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Dèan brabhsadh prìobhaideach fiù air an fhòn agad
 about-private-browsing-focus-promo-text-b = Cleachd { -focus-brand-name } airson lorg prìobhaideach a dhèanamh nach eil thu airson ’s gum faic am prìomh bhrabhsair mobile agad e.

@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Изтеглете { -focus-brand-name 
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Поверително разглеждане в движение
 about-private-browsing-focus-promo-text = Мобилното ни приложение специалното за поверително разглеждане изчиства историята и бисквитките всеки път.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Вземете поверителното разглеждане на телефона си
 about-private-browsing-focus-promo-text-b = Използвайте { -focus-brand-name } за онова търсене, което не искате да правите с основния си мобилен браузър.

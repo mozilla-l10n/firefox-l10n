@@ -29,7 +29,7 @@ about-private-browsing-prominent-cta = Մնացեք գաղտնի { -mozilla-vpn-
 about-private-browsing-focus-promo-cta = Ներբեռնել { -focus-brand-name }-ը
 about-private-browsing-focus-promo-header = { -focus-brand-name }. գաղտնի դիտարկում ընթացքի վրա
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Վերցրեք գաղտնի դիտարկումը Ձեր հեռախոսին
 about-private-browsing-focus-promo-text-b = Օգտվեք { -focus-brand-name }-ից՝ այն գաղտնի որոնումների ժամանակ, երբ չեք ցանկանում Ձեր հիմնական բջջային դիտարկիչը ծանոթանա դրանց:

@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Hent { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat browsing på farten
 about-private-browsing-focus-promo-text = Vores browser dedikeret til at beskytte dit privatliv sletter automatisk din historik og dine cookies.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Bring privat browsing til din telefon
 about-private-browsing-focus-promo-text-b = Brug { -focus-brand-name } til de private søgninger, du ikke ønsker, at din primære mobilbrowser skal se.

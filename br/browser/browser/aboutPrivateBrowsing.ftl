@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Pellgargañ { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: merdeiñ prevez hezoug
 about-private-browsing-focus-promo-text = Hon arload hezoug arbennik war ar merdeiñ prevez a skarzh ho roll istor hag ho toupinoù bewech.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Kemerit ho puhez prevez gant ho pellgomzer
 about-private-browsing-focus-promo-text-b = Grit gant { -focus-brand-name } evit ar c’hlaskoù prevez na fell ket deoc’h vefe gwelet gant ho merdeer hezoug pennañ.

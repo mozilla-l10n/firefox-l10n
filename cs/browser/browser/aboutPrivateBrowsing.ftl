@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Stáhnout { -focus-brand-name(case: "ac
 about-private-browsing-focus-promo-header = { -focus-brand-name }: anonymní prohlížení na cesty
 about-private-browsing-focus-promo-text = Náš speciální mobilní prohlížeč, který pokaždé smaže cookies a historii vašeho prohlížení.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Užijte si anonymní prohlížení také ve svém telefonu
 about-private-browsing-focus-promo-text-b = Používejte { -focus-brand-name(case: "acc") } pro anonymní vyhledávání, která nechcete vidět ve svém hlavním mobilním prohlížeči.

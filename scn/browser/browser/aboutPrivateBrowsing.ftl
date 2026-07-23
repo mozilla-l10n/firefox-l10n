@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Scàrrica { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navicazzioni privata unni sì-sì
 about-private-browsing-focus-promo-text = A nostra applicazzioni mòbbili didicata â navicazzioni mòbbili pulizzìa a to crunuluggìa e i to viscotta ogni vota chi l’usi.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Usa a navicazzioni privata macari nnô tilèfunu
 about-private-browsing-focus-promo-text-b = Usa { -focus-brand-name } pi ḍḍi ricerchi privati senza chi affàccianu nnô to navicaturi principali.

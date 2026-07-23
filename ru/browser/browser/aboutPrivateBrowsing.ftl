@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Скачивание { -focus-brand-nam
 about-private-browsing-focus-promo-header = { -focus-brand-name }: приватный просмотр сети на лету
 about-private-browsing-focus-promo-text = Наше специальное мобильное приложение для приватного просмотра каждый раз удаляет вашу историю и куки.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Приватный просмотр на телефоне
 about-private-browsing-focus-promo-text-b = Используйте { -focus-brand-name }, когда не хотите сохранять свой поиск в основном мобильном браузере.

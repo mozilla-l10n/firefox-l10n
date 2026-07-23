@@ -18,7 +18,7 @@ about-private-browsing-handoff-text = Nduku tsi { $engine } a tyaa dirección
 about-private-browsing-handoff-text-no-engine = Nduku a tyaa dirección
 about-private-browsing-not-private = Su ventana seé kui.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-search-banner-close-button =
     .aria-label = Kasi

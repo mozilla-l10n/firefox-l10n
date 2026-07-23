@@ -23,7 +23,7 @@ about-private-browsing-learn-more-link = Nong ngec mapol
 about-private-browsing-prominent-cta = Bed i mung ki { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Gam { -focus-brand-name }
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

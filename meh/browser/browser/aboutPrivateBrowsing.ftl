@@ -22,7 +22,7 @@ about-private-browsing-not-private = Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu�
 about-private-browsing-learn-more-link = Ka´vi kue´eka
 about-private-browsing-focus-promo-cta = Xinuun { -focus-brand-name }
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

@@ -27,7 +27,7 @@ about-private-browsing-get-privacy = Istalgan joyda internetda maxfiy qoling
 about-private-browsing-hide-activity-1 = Brauzerdagi faoliyatingiz va joylashuvingizni { -mozilla-vpn-brand-name } yordamida yashiring. Bir marta bosish yetarli. Hatto ochiq Wi-Fi boʻlsa ham, xavfsiz ulanish yaratiladi.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } bilan maxfiy qoling
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

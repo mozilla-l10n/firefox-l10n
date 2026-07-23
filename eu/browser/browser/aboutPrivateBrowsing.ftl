@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Deskargatu { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: nabigazio pribatua edonon
 about-private-browsing-focus-promo-text = Gure berariazko nabigatze pribatuko aplikazio mugikorrak zure historia eta cookieak garbitzen ditu aldi oro.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Eramazu nabigatze pribatua zure telefonora
 about-private-browsing-focus-promo-text-b = Erabili { -focus-brand-name } zure mugikorreko nabigatzaileak ikusterik nahi ez dituzun bilaketa pribatu horiek egiteko.

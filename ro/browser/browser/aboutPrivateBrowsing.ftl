@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Descarcă { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navigare privată la îndemână
 about-private-browsing-focus-promo-text = Aplicația noastră mobilă dedicată pentru navigare privată va șterge istoricul și cookie-urile de fiecare dată.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Utilizați navigarea privată pe telefon
 about-private-browsing-focus-promo-text-b = Utilizați { -focus-brand-name } pentru acele căutări private pe care nu doriți să apară în browserul dvs. de mobil.

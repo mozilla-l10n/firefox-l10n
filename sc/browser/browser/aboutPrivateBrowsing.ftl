@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Iscàrriga { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigatzione privada in ònnia logu
 about-private-browsing-focus-promo-text = S'aplicatzione mòbile nostra progetada pro sa navigatzione anònima lìmpiat sa cronologia e is testimòngios ònnia borta.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Bati sa navigatzione privada a su telèfonu tuo
 about-private-browsing-focus-promo-text-b = Imprea { -focus-brand-name } pro cuddas chircas privadas chi non boles a ddas bìdere su navigadore printzipale tuo.

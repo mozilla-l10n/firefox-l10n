@@ -27,7 +27,7 @@ about-private-browsing-get-privacy = Protegiu la vostra privadesa arreu on naveg
 about-private-browsing-hide-activity-1 = Oculteu l'activitat de navegació i la ubicació amb el { -mozilla-vpn-brand-name }. Creeu una connexió segura amb un sol clic, fins i tot en connexions Wi-Fi públiques.
 about-private-browsing-prominent-cta = Protegiu la vostra privadesa amb el { -mozilla-vpn-brand-name }
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Llwytho { -focus-brand-name } i Lawr
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Pori preifat wrth fynd
 about-private-browsing-focus-promo-text = Mae ein ap symudol pori preifat pwrpasol yn clirio'ch hanes a'ch cwcis bob tro.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Ewch â phori preifat i'ch ffôn
 about-private-browsing-focus-promo-text-b = Defnyddiwch { -focus-brand-name } ar gyfer y chwilio preifat hynny nad ydych am i'ch prif borwr symudol eu gweld.

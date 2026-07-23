@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = دانلود { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } گشتن مهرمووه من تور
 about-private-browsing-focus-promo-text = برنومه اختساسی گشتن سیخومی موبایل ایما، هر کرت ویرگار وو کۊکیا ایسا ن پاک اکونه.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = گشتن مهرمووه ن و تیلیفووݩ تووݩ بوورین
 about-private-browsing-focus-promo-text-b = { -focus-brand-name } ن سی پیتینیڌنا ناشناسی ک نؽخۊین گشت گر ٱسلی تیلیفووݩ تووݩ بنیره، و کار بوورین.

@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = { -focus-brand-name } downloade
 about-private-browsing-focus-promo-header = { -focus-brand-name }: priveenavigaasje ûnderweis
 about-private-browsing-focus-promo-text = Us spesjale mobile app foar priveenavigaasje wisket elke kear jo skiednis en cookies.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Bring priveenavigaasje nei jo telefoan
 about-private-browsing-focus-promo-text-b = Brûk { -focus-brand-name } foar dy priveesykopdrachten wêrfan jo net wolle dat jo mobile standertbrowser se sjocht.

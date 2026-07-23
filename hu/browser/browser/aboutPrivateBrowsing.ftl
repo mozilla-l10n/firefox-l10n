@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = A { -focus-brand-name } letöltése
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privát böngészés útközben
 about-private-browsing-focus-promo-text = A dedikált privát mobilböngésző alkalmazásunk minden alkalommal törli az előzményeket és a sütiket.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Vigye a privát böngészést a telefonjára
 about-private-browsing-focus-promo-text-b = Használja a { -focus-brand-name }t azokhoz a privát keresésekhez, amelyeket nem szeretné, hogy a fő mobilböngészője lásson.

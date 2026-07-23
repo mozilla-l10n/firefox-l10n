@@ -20,7 +20,7 @@ about-private-browsing-handoff-text = Mira con { $engine } u escribe una adreza
 about-private-browsing-handoff-text-no-engine = Mirar u escribir adreza
 about-private-browsing-not-private = Agora no ye en una finestra privada.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

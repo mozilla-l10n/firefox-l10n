@@ -20,7 +20,7 @@ about-private-browsing-handoff-text = Busca con { $engine } o introduz una direi
 about-private-browsing-handoff-text-no-engine = Busca o introduz una direición
 about-private-browsing-not-private = Anguaño nun tas nuna ventana privada.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

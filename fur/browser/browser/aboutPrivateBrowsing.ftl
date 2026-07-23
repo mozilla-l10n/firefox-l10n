@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Discjame { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navigazion privade in vore
 about-private-browsing-focus-promo-text = La neste app mobile dedicade ae navigazion privade e nete la tô cronologjie e i cookies ogni volte.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Puarte la navigazion privade sul to telefonin
 about-private-browsing-focus-promo-text-b = Dopre { -focus-brand-name } par chês ricercjis riservadis che no tu vuelis che il navigadôr mobil principâl al viodi.

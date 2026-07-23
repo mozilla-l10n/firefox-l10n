@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Nainštalujte si { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: súkromné prehliadanie na cestách
 about-private-browsing-focus-promo-text = Naša mobilná aplikácia zameraná na maximálnu ochranu súkromia vymaže vašu históriu a súbory cookie po každom prehliadaní.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Vezmite si súkromné prehliadanie do svojho telefónu
 about-private-browsing-focus-promo-text-b = Používajte { -focus-brand-name } na prehliadanie webu, ktorý by mal ostať skrytý pred vašim hlavným mobilným prehliadačom.

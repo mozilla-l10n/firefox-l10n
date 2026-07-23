@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Discargar{ -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigation anonyme al volo
 about-private-browsing-focus-promo-text = Nostre app mobile devote al navigation anonyme, clara tu chronologia e cookies cata vice.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Porta le navigation private a tu telephono
 about-private-browsing-focus-promo-text-b = Usa { -focus-brand-name } pro cercar qualcosa sin lassar tracias in tu navigator mobile principal.

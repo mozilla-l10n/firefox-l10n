@@ -25,7 +25,7 @@ about-private-browsing-learn-more-link = Lairn mair
 about-private-browsing-hide-activity = Hide yer activity and airtin, awwhaur ye stravaig
 about-private-browsing-prominent-cta = Stey private wi { -mozilla-vpn-brand-name }
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 # This string is the title for the banner for search engine selection
 # in a private window.

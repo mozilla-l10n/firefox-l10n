@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = Telechargiar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navigaziun privata nua ch'i saja
 about-private-browsing-focus-promo-text = Nossa app per apparats mobils concepida per la navigaziun privata stizza automaticamain tia cronologia ed ils cookies.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = Pussibilitescha la navigaziun privata sin tes telefon
 about-private-browsing-focus-promo-text-b = Utilisescha { -focus-brand-name } per las tschertgas privatas ch'il navigatur principal na duai betg vesair.

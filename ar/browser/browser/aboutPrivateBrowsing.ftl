@@ -30,7 +30,7 @@ about-private-browsing-focus-promo-cta = نزّل { -focus-brand-name }
 about-private-browsing-focus-promo-header = ‏{ -focus-brand-name }: التصفّح الخاص أينما كنت
 about-private-browsing-focus-promo-text = يمسح تطبيق الهاتف للتصفح الخاص كل التأريخ والكعكات في كل مرة.
 
-## The following strings will be used for experiments in Fx99 and Fx100
+##
 
 about-private-browsing-focus-promo-header-b = جرّب التصفح الخاص من هاتفك
 about-private-browsing-focus-promo-text-b = استعمل { -focus-brand-name } كي تبحث عما تريد بخصوصية ولا تريد لمتصفّح الهاتف الرئيس أن يرى ما تفعل.
