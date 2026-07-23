@@ -42,6 +42,7 @@ devtools-tooltip-learn-more = Més informació
 ## not be translated.
 
 inactive-text-overflow-when-no-overflow-fix = Proveu d'afegir <strong>overflow:hidden</strong>. { learn-more }
+inactive-text-overflow-when-no-overflow-fix-1 = Proveu d'afegir <strong>overflow:hidden</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
