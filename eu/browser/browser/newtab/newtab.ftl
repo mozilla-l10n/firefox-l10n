@@ -214,9 +214,13 @@ newtab-privacy-message-info-3 = Gune askok jarraipen-elementuak dituzte, beraz i
 newtab-privacy-message-info-3-cta = Ikusi babesak
 newtab-privacy-message-info-4 = { -brand-short-name } aukeratzea lehenetsitako babesa aukeratzea da.
 newtab-privacy-message-info-4-cta = Ikusi babesak
+newtab-privacy-message-info-5 = Jarraipen-elementuak blokeatzeak esan nahi du enpresa gutxiagok egin dezaketela zure jarraipena gune batetik bestera.
 newtab-privacy-message-info-5-cta = Ikusi babesak
+newtab-privacy-message-info-6 = Gorde zure datuak { -brand-short-name }(r)ekin. Guk ez ditugu inoiz saltzen, baina baliteke beste nabigatzaile batzuek hala egitea.
 newtab-privacy-message-info-6-cta = Argibide gehiago
+newtab-privacy-message-info-7 = Ikusi zein jarraipen-elementu blokeatu dituen { -brand-short-name }(e)k.
 newtab-privacy-message-info-7-cta = Ikusi babesak
+newtab-privacy-message-info-8 = { -brand-short-name }(r)ekin nabigatzeak { -vendor-short-name }(r)en web hobeago bat eraikitzeko misioa bultzatzen du.
 newtab-privacy-message-info-8-cta = Argibide gehiago
 newtab-privacy-message-info-9 = Egizu { -brand-short-name } zure nabigatzaile lehenetsia integratutako pribatutasunerako.
 newtab-privacy-message-info-9-cta = Lehenetsi
@@ -260,6 +264,13 @@ newtab-privacy-message-promo-relay-3-cta = Lortu maskarak
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] Jarraipen-elementu bat blokeatuta aste honetan. Ikusi zer saihesten dizun { -brand-short-name }(e)k.
+       *[other] { $count } jarraipen-elementu blokeatuta aste honetan. Ikusi zer saihesten dizun { -brand-short-name }(e)k.
+    }
 newtab-privacy-message-milestone-week-cta = Ikusi babesak
 newtab-privacy-message-milestone-month-cta = Ikusi babesak
 newtab-privacy-message-milestone-year-cta = Ikusi babesak
@@ -344,6 +355,8 @@ newtab-picture-menu-learn-more = Argibide gehiago
 newtab-picture-show-button =
     .title = Erakutsi gaurko irudia
     .aria-label = Erakutsi gaurko irudia
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Itzuli bihar argazki berri bat ikusteko
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons-eko eguneko argazkia
@@ -383,6 +396,7 @@ newtab-topsites-add-shortcut-label = Gehitu lasterbidea
 newtab-topsites-add-shortcut-title =
     .title = Gehitu lasterbidea
     .aria-label = Gehitu lasterbidea
+newtab-shortcuts-pinned-area = Ainguratutako eremua
 newtab-topsites-title-label = Izenburua
 newtab-topsites-title-input =
     .placeholder = Idatzi izenburua
