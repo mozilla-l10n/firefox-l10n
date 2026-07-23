@@ -88,6 +88,10 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Pabandy
 inactive-css-not-display-block-on-floated-fix-1 = Pabandykite nuimti <strong>float</strong> arba pridėti <strong>display:block</strong>.
 inactive-css-position-property-on-unpositioned-box-fix-1 = Pabandykite nustatyti jo <strong>position</strong> savybės reikšmę į kitą negu <strong>static</strong>.
 inactive-text-overflow-when-no-overflow-fix-1 = Pabandykite pridėti <strong>overflow:hidden</strong>.
+inactive-css-not-for-internal-table-elements-fix-1 = Pabandykite nustatyti jo <strong>display</strong> savybės reikšmę į kitą negu <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, arba <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Pabandykite nustatyti jo <strong>display</strong> savybės reikšmę į kitą negu <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, arba <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Pabandykite pridėti <strong>display:table</strong> arba <strong>display:inline-table</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Pabandykite pridėti <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, arba <strong>overflow:hidden</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
