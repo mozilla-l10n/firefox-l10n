@@ -146,6 +146,9 @@ inactive-css-not-inline-or-tablecell-fix-1 = <strong>display:inline</strong> vey
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = <strong>display:inline-block</strong> veya <strong>display:block</strong> eklemeyi deneyin.
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = <strong>display:inline-block</strong> eklemeyi deneyin.
 inactive-css-not-display-block-on-floated-fix-1 = <strong>float</strong>’u silmeyi veya <strong>display:block</strong> eklemeyi deneyin.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Elemanın kapsayıcısının <strong>display</strong> değerini <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> veya <strong>inline-grid</strong> dışında bir değerle değiştirmeyi veya <strong>float</strong> özelliğini kaldırmayı deneyin.
+inactive-css-not-block-fix-1 = <strong>display:block</strong> veya <strong>float:left</strong> gibi özellikler eklemeyi deneyin.
+inactive-css-not-block-container-fix-1 = <strong>display:block</strong>, <strong>display:inline-block</strong> veya <strong>display:flow-root</strong> eklemeyi deneyin.
 inactive-css-not-for-internal-table-elements-fix-1 = <strong>display</strong> özelliğini <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin.
 inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = <strong>display</strong> özelliğini <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin.
 inactive-css-not-table-fix-1 = <strong>display:table</strong> veya <strong>display:inline-table</strong> eklemeyi deneyin.
@@ -155,6 +158,7 @@ inactive-scroll-padding-when-not-scroll-container-fix-1 = <strong>overflow:auto<
 inactive-css-border-image-fix-1 = Üst tablo elemanında özelliği kaldırın veya <strong>border-collapse</strong> değerini <strong>collapse</strong> dışında bir değerle değiştirin.
 inactive-css-resize-fix-1 = <strong>overflow</strong> özelliğini <strong>visible</strong> dışında bir değere ayarlamayı ya da onu destekleyen değiştirilen bir elemana hedeflemeyi deneyin.
 inactive-css-ruby-element-fix-1 = Ruby metninin <strong>font-size</strong> değerini değiştirmeyi deneyin.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Satır sayısını azaltmayı deneyin.
 inactive-css-text-wrap-balance-fragmented-fix-1 = Elemanın içeriğini bölmekten kaçının. Örneğin sütunları kaldırabilir veya <strong>page-break-inside:avoid</strong> kullanabilirsiniz.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
