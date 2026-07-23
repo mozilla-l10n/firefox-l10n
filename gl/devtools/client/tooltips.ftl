@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name = "link">Máis información</span>
+devtools-tooltip-learn-more = Máis información
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -108,6 +117,15 @@ inactive-css-resize-fix = Proba a configurar <strong>overflow</strong> a un valo
 inactive-css-ruby-element-fix = Proba a cambiar o <strong>font-size</strong> do texto rubi. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Tenta reducir o número de liñas. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evita dividir o contido do elemento, p. ex. eliminando as columnas ou usando <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-4 = Probe a engadir <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ou <strong>display:inline-flex</strong> ao elemento pai.
+inactive-css-not-grid-item-fix-3 = Probe a engadir <strong>display:grid</strong> ou <strong>display:inline-grid</strong> ao pai do elemento.
+inactive-css-not-grid-container-fix-1 = Probe a engadir <strong>display:grid</strong> ou <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Probe a engadir <strong>display:flex</strong> ou <strong>display:inline-flex</strong> ao pai do elemento.
+inactive-css-not-flex-container-fix-1 = Probe a engadir <strong>display:flex</strong> ou <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Probe a engadir <strong>display:inline</strong> ou <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Probe a engadir <strong>display:inline-block</strong> ou <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Probe a engadir <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Probe a eliminar <strong>float</strong> ou engadir <strong>display:block</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -131,3 +149,10 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Saiba máis</
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Este selector usa <strong>:has()</strong> sen restricións, o que pode ser lento
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
