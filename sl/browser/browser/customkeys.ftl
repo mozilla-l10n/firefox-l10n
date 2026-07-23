@@ -68,8 +68,8 @@ customkeys-shortcut-unassigned =
 # $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
 customkeys-shortcut-input = Bližnjica za: { $keyLabel }
 customkeys-key-edit =
-    .aria-label = Uredi
-    .tooltiptext = Uredi
+    .aria-label = Urejanje
+    .tooltiptext = Urejanje
 customkeys-key-clear =
     .aria-label = Počisti
     .tooltiptext = Počisti
