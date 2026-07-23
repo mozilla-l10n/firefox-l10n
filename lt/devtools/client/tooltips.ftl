@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Sužinoti daugiau</span>
+devtools-tooltip-learn-more = Sužinoti daugiau
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -35,6 +44,16 @@ inactive-css-not-table = <strong>{ $property }</strong> nedaro poveikio šiam el
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> nedaro poveikio šiam elementui, kadangi jis nėra slenkamas.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
+
+## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved. CSS properties and values in <strong> tags should
 ## not be translated.
@@ -56,6 +75,19 @@ inactive-css-not-for-internal-table-elements-fix = Pabandykite nustatyti jo <str
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pabandykite nustatyti jo <strong>display</strong> savybės reikšmę į kitą negu <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, arba <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Pabandykite pridėti <strong>display:table</strong> arba <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Pabandykite pridėti <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, arba <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Pabandykite pridėti <strong>display:grid</strong> arba <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Pabandykite pridėti <strong>display:grid</strong>, <strong>display:flex</strong>, arba <strong>columns:2</strong>.
+inactive-css-not-grid-or-flex-item-fix-4 = Pabandykite pridėti <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, arba <strong>display:inline-flex</strong> prie tėvinio elemento.
+inactive-css-not-grid-item-fix-3 = Pabandykite pridėti <strong>display:grid</strong> arba <strong>display:inline-grid</strong> tėviniam elementui.
+inactive-css-not-grid-container-fix-1 = Pabandykite pridėti <strong>display:grid</strong> arba <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Pabandykite pridėti <strong>display:flex</strong> arba <strong>display:inline-flex</strong> tėviniam elementui.
+inactive-css-not-flex-container-fix-1 = Pabandykite pridėti <strong>display:flex</strong> arba <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Pabandykite pridėti <strong>display:inline</strong> arba <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Pabandykite pridėti <strong>display:inline-block</strong> arba <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Pabandykite pridėti <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Pabandykite nuimti <strong>float</strong> arba pridėti <strong>display:block</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Pabandykite nustatyti jo <strong>position</strong> savybės reikšmę į kitą negu <strong>static</strong>.
+inactive-text-overflow-when-no-overflow-fix-1 = Pabandykite pridėti <strong>overflow:hidden</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -72,3 +104,15 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> yra bandomoji savybė. Ji nėra palaikoma šiose naršyklėse:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> yra bandomoji savybė.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Sužinokite daugiau</span> apie <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
