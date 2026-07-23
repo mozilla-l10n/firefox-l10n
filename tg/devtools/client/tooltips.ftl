@@ -133,9 +133,21 @@ inactive-css-not-grid-or-flex-or-block-container-fix-1 = Кӯшиш кунед, 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Кӯшиш кунед, ки <strong>display:grid</strong>, <strong>display:flex</strong> ё <strong>columns:2</strong>-ро илова намоед.
 inactive-css-not-multicol-container-fix-1 = Кӯшиш кунед, ки «<strong>column-count</strong>» ё «<strong>column-width</strong>»-ро илова намоед.
 inactive-css-column-span-fix-1 = Кӯшиш кунед, ки «<strong>column-count</strong>» ё «<strong>column-width</strong>»-ро ба яке аз унсурҳои сарнасли он илова намоед.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Кӯшиш кунед, ки қимати <strong>«position:absolute»</strong>-ро ба унсур илова кунед ё <strong>«display:grid»</strong>, <strong>«display:flex»</strong>, <strong>«display:inline-grid»</strong> ё <strong>«display:inline-flex»</strong>-ро ба асли унсур илова намоед.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Кӯшиш кунед, ки «<strong>position:absolute</strong>»-ро ба унсур илова кунед ё «<strong>display:grid</strong>» ё «<strong>display:inline-grid</strong>» -ро ба асли унсур илова намоед.
+inactive-css-not-grid-or-flex-item-fix-4 = Кӯшиш кунед, ки <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ё <strong>display:inline-flex</strong>-ро ба асли унсур илова намоед.
+inactive-css-not-grid-item-fix-3 = Кӯшиш кунед, ки <strong>display:grid</strong> ё <strong>display:inline-grid</strong>-ро ба асли унсур илова намоед.
+inactive-css-not-grid-container-fix-1 = Кӯшиш кунед, ки <strong>display:grid</strong> ё <strong>display:inline-grid</strong>-ро илова намоед.
+inactive-css-not-flex-item-fix-3 = Кӯшиш кунед, ки <strong>display:flex</strong> ё <strong>display:inline-flex</strong>-ро ба асли унсур илова намоед.
+inactive-css-not-flex-container-fix-1 = Кӯшиш кунед, ки <strong>display:flex</strong> ё <strong>display:inline-flex</strong>-ро илова намоед.
+inactive-css-not-inline-or-tablecell-fix-1 = Кӯшиш кунед, ки <strong>display:inline</strong> ё <strong>display:table-cell</strong>-ро илова намоед.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Кӯшиш кунед, ки <strong>display:inline-block</strong> ё <strong>display:block</strong>-ро илова намоед.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Кӯшиш кунед, ки <strong>display:inline-block</strong>-ро илова намоед.
 inactive-css-not-display-block-on-floated-fix-1 = Кӯшиш кунед, ки <strong>float</strong>-ро тоза кунед ё <strong>display:block</strong>-ро илова намоед.
 inactive-css-only-non-grid-or-flex-item-fix-1 = Кӯшиш кунед, ки қимати <strong>display</strong>-ро барои дарбаргирандаи унсур ба ягон қимати дигар, ба ғайр аз <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> ё <strong>inline-grid</strong> иваз намоед ё <strong>float</strong>-ро тоза намоед.
 inactive-css-not-block-fix-1 = Кӯшиш кунед, ки <strong>display:block</strong> ё <strong>float:left</strong>-ро илова намоед.
+inactive-css-not-block-container-fix-1 = Кӯшиш кунед, ки <strong>display:block</strong>, <strong>display:inline-block</strong> ё <strong>display:flow-root</strong>-ро илова намоед.
+inactive-css-not-block-flex-grid-container-fix-1 = Кӯшиш кунед, ки зеринро илова намоед: <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> or <strong>display:flow-root</strong>.
 inactive-css-not-floated-fix-1 = Кӯшиш кунед, ки хусусияти <strong>float</strong>-ро бо қимати ғайр аз <strong>none</strong> илова намоед.
 inactive-css-position-property-on-unpositioned-box-fix-1 = Кӯшиш кунед, ки хусусияти <strong>position</strong>-и онро ба хусусияте танзим кунед, ки аз <strong>static</strong> фарқ мекунад.
 inactive-css-only-replaced-elements-fix-1 = Боварӣ ҳосил кунед, ки шумо хусусиятро ба унсури ивазшуда илова мекунед.
@@ -152,6 +164,7 @@ inactive-css-resize-fix-1 = Кӯшиш кунед, ки <strong>overflow</strong
 inactive-css-ruby-element-fix-1 = Кӯшиш кунед, ки <strong>font-size</strong>-ро дар матни «ruby» иваз намоед.
 inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Кӯшиш кунед, ки шумораи сатрҳоро кам кунед.
 inactive-css-text-wrap-balance-fragmented-fix-1 = Аз тақсимшавии муҳтавои унсур худдорӣ намоед, масалан, бо нест кардани сутунҳо ё бо истифода аз қимати <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Кӯшиш кунед, ки қимати «<strong>display</strong>»-ро, ки қуттии асосиро ба монанди <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ё <strong>grid</strong> месозад, илова намоед.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
