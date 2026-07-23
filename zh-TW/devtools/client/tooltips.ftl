@@ -134,6 +134,9 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = 請嘗試�
 inactive-css-not-multicol-container-fix-1 = 請嘗試加入 <strong>column-count</strong> 或 <strong>column-width</strong>。
 inactive-css-column-span-fix-1 = 請嘗試對上層元素加入 <strong>column-count</strong> 或 <strong>column-width</strong>。
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = 請嘗試為元素加入 <strong>position:absolute</strong>，或為元素的父元素加入 <strong>display:grid</strong>、<strong>display:flex</strong>、<strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = 請嘗試為元素加入 <strong>position:absolute</strong>，或為其父元素加入 <strong>display:grid</strong>、<strong>display:inline-grid</strong>。
+inactive-css-not-absolutely-positioned-item-fix-1 = 請嘗試為元素加入 <strong>position:absolute</strong>。
+inactive-css-no-default-anchor-fix-1 = 請嘗試為有效的錨點名稱加入 <strong>position-anchor</strong>。
 inactive-css-not-grid-or-flex-item-fix-4 = 請嘗試為元素的父元素加入 <strong>display:grid</strong>、<strong>display:flex</strong>、<strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。
 inactive-css-not-grid-item-fix-3 = 請嘗試為元素的父元素加入 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。
 inactive-css-not-grid-container-fix-1 = 請嘗試加入 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。
@@ -163,6 +166,7 @@ inactive-css-resize-fix-1 = 可試著將 <strong>overflow</strong> 設定為 <st
 inactive-css-ruby-element-fix-1 = 請嘗試調整 ruby 文字的 <strong>font-size</strong>。
 inactive-css-text-wrap-balance-lines-exceeded-fix-1 = 請試著減少行數。
 inactive-css-text-wrap-balance-fragmented-fix-1 = 請避免分割元素內容，例如將欄位移除，或是使用 <strong>page-break-inside:avoid</strong>。
+inactive-css-no-principal-box-fix-1 = 請嘗試加入會建立 Principal box 的 <strong>display</strong> 值，例如 <strong>block</strong>、<strong>inline-block</strong>、<strong>flex</strong> 或 <strong>grid</strong>。
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
