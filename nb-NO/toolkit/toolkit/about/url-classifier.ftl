@@ -72,10 +72,21 @@ url-classifier-content-classifier-force-third-party = Tving tredjepart til toppr
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Ikke-anbefalt tillegg
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Test blokkering
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Test merking
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Test funksjon
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Motordetaljer
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Funksjon
 # Column header: whether the request matched this feature (true/false).
-url-classifier-content-classifier-col-matched = Samsvare med
+url-classifier-content-classifier-col-matched = Treff
 # Column header: whether this feature matched an exception/allow-list entry that
 # spares the request (true/false).
 url-classifier-content-classifier-col-exception = Unntak
@@ -90,6 +101,8 @@ url-classifier-content-classifier-verdict-hit = Treff
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Unntak
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Ingen treff
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.

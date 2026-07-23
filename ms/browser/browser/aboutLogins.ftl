@@ -93,7 +93,7 @@ about-logins-list-section-week = 7 hari terakhir
 about-logins-login-intro-heading-logged-out2 = Mencari log masuk yang telah disimpan? Hidupkan sync atau importnya.
 about-logins-login-intro-heading-logged-in = Tiada log masuk sync dijumpai.
 login-intro-description = Jika anda menyimpan log masuk anda ke { -brand-product-name } pada peranti lain, berikut cara untuk mendapatkannya di sini:
-login-intro-instructions-fxa = Cipta atau daftar masuk ke { -fxaccount-brand-name(capitalization: "sentence") } anda pada peranti tempat log masuk anda disimpan.
+login-intro-instructions-fxa = Cipta atau daftar masuk ke { -fxaccount-brand-name } anda pada peranti tempat log masuk anda disimpan.
 about-logins-login-intro-heading-message = Simpan kata laluan anda di tempat yang selamat
 login-intro-description2 = Semua kata laluan yang anda simpan ke { -brand-product-name } disulitkan. Selain itu, kami pantau bocoran data dan memberitahu anda jika anda terjejas. <a data-l10n-name="breach-alert-link">Ketahui lebih lanjut</a>
 login-intro-instructions-fxa2 = Cipta atau daftar masuk ke akaun anda pada peranti tempat log masuk anda disimpan.
