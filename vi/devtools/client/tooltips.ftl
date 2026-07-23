@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Tìm hiểu thêm</span>
+devtools-tooltip-learn-more = Tìm hiểu thêm
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -98,6 +107,31 @@ inactive-css-resize-fix = Hãy thử đặt <strong>overflow</strong> vào giá 
 inactive-css-ruby-element-fix = Hãy thử thay đổi <strong>font-size</strong> của văn bản ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Hãy thử giảm số lượng dòng. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Tránh phân chia nội dung của phần tử, ví dụ bằng cách xóa các cột hoặc bằng cách sử dụng <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong> hoặc <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong> hoặc <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Hãy thử thêm <strong>column-count</strong> hoặc <strong>column-width</strong>.
+inactive-css-not-absolutely-positioned-item-fix-1 = Hãy thử thêm <strong>position:absolute</strong> vào phần tử.
+inactive-css-no-default-anchor-fix-1 = Hãy thử thêm <strong>position-anchor</strong> với một tên anchor hợp lệ.
+inactive-css-not-grid-or-flex-item-fix-4 = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, hoặc <strong>display:inline-flex</strong> vào parent của phần tử.
+inactive-css-not-grid-item-fix-3 = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:inline-grid</strong> vào phần tử mẹ.
+inactive-css-not-grid-container-fix-1 = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Hãy thử thêm <strong>display:flex</strong> hoặc <strong>display:inline-flex</strong> vào phần tử mẹ.
+inactive-css-not-flex-container-fix-1 = Hãy thử thêm <strong>display:flex</strong> hoặc <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Hãy thử thêm <strong>display:inline</strong> hoặc <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Hãy thử thêm <strong>display:inline-block</strong> hoặc <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Hãy thử thêm <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Hãy thử xóa <strong>float</strong> hoặc thêm <strong>display:block</strong>.
+inactive-css-not-block-fix-1 = Hãy thử thêm thuộc tính <strong>display:grid</strong> hoặc <strong>display:flex</strong>.
+inactive-css-only-replaced-elements-fix-1 = Đảm bảo bạn đang thêm thuộc tính vào phần tử được thay thế.
+inactive-text-overflow-when-no-overflow-fix-1 = Hãy thử thêm <strong>overflow:hidden</strong>.
+inactive-css-not-for-internal-table-elements-fix-1 = Hãy thử đặt thuộc tính <strong>display</strong> của nó thành thứ khác ngoài <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, hoặc <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Hãy thử đặt thuộc tính <strong>display</strong> của nó thành thứ khác ngoài <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, hoặc <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Hãy thử thêm <strong>display:table</strong> hoặc <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Hãy thử thêm <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Hãy thử thêm <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Hãy thử thêm <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, hoặc <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Trên bảng phần tử mẹ, hãy xóa thuộc tính hoặc thay đổi giá trị của <strong>border-collapse</strong> sang một giá trị khác <strong>collapse</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
