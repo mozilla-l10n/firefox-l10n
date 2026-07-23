@@ -132,6 +132,8 @@ inactive-css-ruby-element-fix = Próbálja módosítani a rubi szöveg <strong>b
 inactive-css-text-wrap-balance-lines-exceeded-fix = Próbálja meg csökkenteni a sorok számát. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Kerülje az elem tartalmának felosztását, például az oszlopok eltávolításával, vagy a <strong>page-break-inside:avoid</strong> használatával. { learn-more }
 inactive-css-no-principal-box-fix = Próbáljon meg hozzáadni egy olyan <strong>display</strong> értéket, amely főmezőt hoz létre, például <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> vagy <strong>grid</strong>. { learn-more }
+inactive-css-column-span-fix-1 = Próbálja meg hozzáadni a <strong>column-count</strong> vagy a <strong>column-width</strong> tulajdonságokat az egyik szülőelemhez.
+inactive-css-not-grid-or-flex-item-fix-4 = Próbálja meg ezeket hozzáadni az elem szülőjéhez: <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vagy <strong>display:inline-flex</strong>.
 inactive-css-not-grid-item-fix-3 = Próbálja meg ezeket hozzáadni az elem szülőjéhez: <strong>display:grid</strong> vagy <strong>display:inline-grid</strong>.
 inactive-css-not-grid-container-fix-1 = Próbálja meg ezeket hozzáadni: <strong>display:grid</strong> vagy <strong>display:inline-grid</strong>.
 inactive-css-not-flex-item-fix-3 = Próbálja meg ezeket hozzáadni az elem szülőjéhez: <strong>display:flex</strong> vagy <strong>display:inline-flex</strong>.
@@ -140,6 +142,16 @@ inactive-css-not-inline-or-tablecell-fix-1 = Próbálja meg ezeket hozzáadni: <
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Próbálja meg ezeket hozzáadni: <strong>display:inline-block</strong> vagy <strong>display:block</strong>.
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Próbálja meg ezt hozzáadni: <strong>display:inline-block</strong>.
 inactive-css-not-display-block-on-floated-fix-1 = Próbálja meg eltávolítani a <strong>float</strong> tulajdonságot, vagy hozzáadni a <strong>display:block</strong> tulajdonságot.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Próbálja meg módosítani az elem tárolójának <strong>display</strong> tulajdonságát a <strong>flex</strong>, a <strong>grid</strong>, az <strong>inline-flex</strong>, vagy az <strong>inline-grid</strong> értéktől eltérőre, vagy távolítsa el a <strong>float</strong> attribútumot.
+inactive-css-not-block-fix-1 = Próbálja meg ezeket a tulajdonságokat hozzáadni: <strong>display:block</strong> vagy <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Próbálja meg ezeket hozzáadni: <strong>display:block</strong>, <strong>display:inline-block</strong> vagy <strong>display:flow-root</strong>.
+inactive-css-only-replaced-elements-fix-1 = Győződjön meg róla, hogy a tulajdonságot egy lecserélt elemhez adta.
+inactive-text-overflow-when-no-overflow-fix-1 = Próbálja meg ezt hozzáadni: <strong>overflow:hidden</strong>.
+inactive-css-resize-fix-1 = Próbálja meg az <strong>overflow</strong> tulajdonságot a <strong>visible</strong> értéktől eltérőre beállítani, vagy célozzon egy azt támogató lecserélt elemet.
+inactive-css-ruby-element-fix-1 = Próbálja módosítani a rubi szöveg <strong>betűméretét</strong>.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Próbálja meg csökkenteni a sorok számát.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Kerülje az elem tartalmának felosztását, például az oszlopok eltávolításával, vagy a <strong>page-break-inside:avoid</strong> használatával.
+inactive-css-no-principal-box-fix-1 = Próbáljon meg hozzáadni egy olyan <strong>display</strong> értéket, amely főmezőt hoz létre, például <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> vagy <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
