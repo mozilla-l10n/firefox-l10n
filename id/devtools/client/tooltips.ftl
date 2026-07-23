@@ -113,6 +113,7 @@ inactive-css-resize-fix = Coba atur <strong>overflow</strong> ke nilai selain <s
 inactive-css-ruby-element-fix = Coba ubah <strong>ukuran fon</strong> dari teks ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Coba kurangi jumlah baris. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Hindari pemisahan konten elemen, mis. dengan menghapus kolom atau dengan menggunakan <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Coba tambahkan <strong>display:grid</strong> atau <strong>display:flex</strong>.
 inactive-css-not-grid-or-flex-item-fix-4 = Coba tambahkan <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, atau <strong>display:inline-flex</strong> ke induk elemen.
 inactive-css-not-grid-item-fix-3 = Coba tambahkan <strong>display:grid</strong> atau <strong>display:inline-grid</strong> pada induk elemen.
 inactive-css-not-grid-container-fix-1 = Coba tambahkan <strong>display:grid</strong> atau <strong>display:inline-grid</strong>.
