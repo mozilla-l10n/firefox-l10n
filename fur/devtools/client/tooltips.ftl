@@ -152,6 +152,7 @@ inactive-css-not-floated-fix-1 = Prove a zontâ la proprietât <strong>float</st
 inactive-css-position-property-on-unpositioned-box-fix-1 = Prove a configurâ la sô proprietât <strong>position</strong> a alc altri rispiet a <strong>static</strong>.
 inactive-css-only-replaced-elements-fix-1 = Verifiche di vê zontât la proprietât a un element sostituît.
 inactive-text-overflow-when-no-overflow-fix-1 = Prove a zontâ <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Prove a meti la proprietât <strong>display</strong> a un valôr diviers di <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> o <strong>inline-table </strong> e verifiche che nol sedi dentri di une tabele o di un segment ruby.
 inactive-css-not-for-internal-table-elements-fix-1 = Prove a configurâ la sô proprietât <strong>display</strong> a alc altri rispiet a <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>.
 inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Prove a configurâ la sô proprietât <strong>display</strong> a alc altri rispiet a <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>.
 inactive-css-not-table-fix-1 = Prove a zontâ <strong>display:table</strong> o <strong>display:inline-table</strong>.
@@ -163,6 +164,7 @@ inactive-css-resize-fix-1 = Prove a meti <strong>overflow</strong> a un valôr d
 inactive-css-ruby-element-fix-1 = Prove a modificâ <strong>font-size</strong> de trascrizion fonetiche.
 inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Prove a ridusi il numar di riis.
 inactive-css-text-wrap-balance-fragmented-fix-1 = Evite di distribuî il contignût dal element, par esempli gjavant lis colonis o doprant <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Prove a assegnâ un valôr <strong>display</strong> che al creedi un ricuadri principâl, come <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> o <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
