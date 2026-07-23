@@ -138,6 +138,10 @@ inactive-css-not-grid-or-flex-or-block-container-fix-1 = Попробуйте д
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong> или <strong>columns:2</strong>.
 inactive-css-not-multicol-container-fix-1 = Попробуйте добавить <strong>column-count</strong> или <strong>column-width</strong>.
 inactive-css-column-span-fix-1 = Попробуйте добавить <strong>column-count</strong> или <strong>column-width</strong> к одному из его элементов-предков.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Попробуйте добавить <strong>position:absolute</strong> к элементу, или <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong> к родительскому элементу.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Попробуйте добавить <strong>position:absolute</strong> к элементу, или <strong>display:grid</strong> или <strong>display:inline-grid</strong> к родителю элемента.
+inactive-css-not-absolutely-positioned-item-fix-1 = Попробуйте добавить к элементу <strong>position:absolute</strong>.
+inactive-css-no-default-anchor-fix-1 = Попробуйте добавить <strong>position-anchor</strong> с корректным именем якоря.
 inactive-css-not-grid-or-flex-item-fix-4 = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong> к родителю элемента.
 inactive-css-not-grid-item-fix-3 = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong> к родителю элемента.
 inactive-css-not-grid-container-fix-1 = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong>.
@@ -167,6 +171,7 @@ inactive-css-resize-fix-1 = Попробуйте установить <strong>ov
 inactive-css-ruby-element-fix-1 = Попробуйте изменить <strong>font-size</strong> текста ruby.
 inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Постарайтесь уменьшить количество строк.
 inactive-css-text-wrap-balance-fragmented-fix-1 = Избегайте разделения содержимого элемента, например, удаляя столбцы или используя <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Попробуйте добавить значение <strong>display</strong>, создающее основной блок, например, <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> или <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
