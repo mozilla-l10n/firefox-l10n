@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = سفارشی کردن
 newtab-customize-panel-label =
     .label = سفارشی کردن
 newtab-personalize-settings-icon-label =
-    .title = سفارشی کردن بلگه نۊ
+    .title = سیخومی کردن بلگه نۊ
     .aria-label = سامووا
 newtab-settings-dialog-label =
     .aria-label = سامووا
 newtab-personalize-icon-label =
-    .title = سفارشی کردن بلگه نۊ
-    .aria-label = سفارشی کردن بلگه نۊ
+    .title = سیخومی کردن بلگه نۊ
+    .aria-label = سیخومی کردن بلگه نۊ
 newtab-personalize-dialog-label =
     .aria-label = سیخومی کردن
 newtab-logo-and-wordmark =
@@ -40,6 +40,9 @@ home-homepage-new-windows =
     .label = نیمدری یل نۊ
 home-homepage-new-tabs =
     .label = بلگه یل نۊ
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = ی وبگه خاس ن پسند کۊنین
 
 ## Custom URLs subpage
 
@@ -50,6 +53,9 @@ home-custom-homepage-address =
     .placeholder = زیذن نشۊوی
 home-custom-homepage-address-button =
     .label = ٱووردن نشۊوی
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = هنی هیچ وبگهی ازاف نوابیڌه.
 home-custom-homepage-delete-address-button =
     .title = پاک کردن نشۊوی
     .aria-label = پاک کردن نشۊوی
@@ -93,6 +99,11 @@ home-prefs-crossword-widget-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = سهام
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = شؽوات رۊز
+home-prefs-mission-message2 =
+    .message = هؽزگرووݩ مالی ایما ز مئمۊریت ایما سی وورکل کردن وبگه بؽڌر لادراری اکونن.
 home-prefs-manage-topics-link2 =
     .label = دؽوۉداری سرتالا
 home-prefs-choose-wallpaper-link2 =
@@ -262,6 +273,7 @@ newtab-topsites-add-button = ٱووردن
 
 ## Top Sites - Delete history confirmation dialog.
 
+newtab-confirm-delete-history-p1 = اخۊین پوی نمووه یل ای بلگه ز ویرگار خوتووݩ ن پاک کۊنین؟
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ای کار وورگندنی نؽ.
 

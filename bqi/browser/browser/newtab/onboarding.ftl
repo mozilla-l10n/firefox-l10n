@@ -48,7 +48,7 @@ mr1-onboarding-sign-in-button-label = و من ٱووڌن
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = و من ٱووردن ز { $previous }
 mr1-onboarding-theme-header = هونه مال خوت کوݩ
-mr1-onboarding-theme-subtitle = { -brand-short-name } ن وا ی زمینه سفارشی کۊنین.
+mr1-onboarding-theme-subtitle = { -brand-short-name } ن وا ی زمینه سیخومی کۊنین.
 mr1-onboarding-theme-secondary-button-label = سکو ن
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = زمینه سیستوم
