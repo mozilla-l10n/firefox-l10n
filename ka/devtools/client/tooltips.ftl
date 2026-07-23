@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Learn more</span>
+devtools-tooltip-learn-more = Learn more
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,20 @@ inactive-css-ruby-element-fix = Try changing the <strong>font-size</strong> of t
 inactive-css-text-wrap-balance-lines-exceeded-fix = Try to reduce the number of lines. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Avoid splitting the element’s content e.g. by removing the columns or by using <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Try adding a <strong>display</strong> value that creates a principal box, such as <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, or <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-4 = Try adding <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, or <strong>display:inline-flex</strong> to the element’s parent.
+inactive-css-not-grid-item-fix-3 = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong> to the element’s parent.
+inactive-css-not-grid-container-fix-1 = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Try adding <strong>display:flex</strong> or <strong>display:inline-flex</strong> to the element’s parent.
+inactive-css-not-flex-container-fix-1 = Try adding <strong>display:flex</strong> or <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Try adding <strong>display:inline</strong> or <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Try adding <strong>display:inline-block</strong> or <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Try adding <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Try removing <strong>float</strong> or adding <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Try changing the value of <strong>display</strong> of the element’s container to something else than <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, or <strong>inline-grid</strong>, or removing <strong>float</strong>.
+inactive-css-not-block-fix-1 = Try adding properties like <strong>display:block</strong> or <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Try adding <strong>display:block</strong>, <strong>display:inline-block</strong> or <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Try adding <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> or <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Try adding the <strong>float</strong> property with a value other than <strong>none</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
