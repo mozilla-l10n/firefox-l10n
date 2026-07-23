@@ -132,6 +132,16 @@ inactive-css-ruby-element-fix = Intente cambiar el <strong>tamaño de fuente</st
 inactive-css-text-wrap-balance-lines-exceeded-fix = Intente reducir el número de líneas. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evite dividir el contenido del elemento, ej: eliminando las columnas o usando <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Intente añadir un valor de <strong>display</strong> que cree un cuadro principal, como <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> o <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Pruebe a añadir <strong>display:grid</strong> o <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Intente añadir <strong>display:grid</strong>, <strong>display:flex</strong> o <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Intenta añadir <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Pruebe a añadir <strong>column-count</strong> o <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Intente añadir <strong>column-count</strong> o <strong>column-width</strong> a uno de sus elementos antecesores.
+inactive-css-not-grid-or-flex-item-fix-4 = Pruebe a añadir <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al padre del elemento.
+inactive-css-not-grid-item-fix-3 = Pruebe a añadir <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del item.
+inactive-css-not-grid-container-fix-1 = Pruebe a añadir <strong>display:grid</strong> o <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Pruebe a añadir <strong>display:flex</strong> o <strong>display:inline-flex</strong> al padre del elemento.
+inactive-css-not-flex-container-fix-1 = Pruebe a añadir <strong>display:flex</strong> o <strong>display:inline-flex</strong>.
 inactive-css-not-inline-or-tablecell-fix-1 = Pruebe a agregar <strong>display:inline</strong> o <strong>display:table-cell</strong>.
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Pruebe a añadir <strong>display:inline-block</strong> o <strong>display:block</strong>.
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Pruebe a añadir <strong>display:inline-block</strong>.
@@ -150,6 +160,13 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Pruebe a
 inactive-css-not-table-fix-1 = Pruebe a añadir <strong>display:table</strong> o <strong>display:inline-table</strong>.
 inactive-css-collapsed-table-borders-fix-1 = Pruebe a añadir <strong>border-collapse:separate</strong>.
 inactive-css-not-table-cell-fix-1 = Pruebe a añadir <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Pruebe a añadir<strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = En el elemento de la tabla principal, elimine la propiedad o cambie el valor de <strong>border-collapse</strong> a un valor que no sea <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Intente configurar <strong>overflow</strong> a un valor diferente a <strong>visible</strong> o apuntar a un elemento reemplazado que lo admita.
+inactive-css-ruby-element-fix-1 = Intente cambiar el <strong>tamaño de fuente</strong> del texto ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Intente reducir el número de líneas.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Evite dividir el contenido del elemento, ej: eliminando las columnas o usando <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Intente añadir un valor de <strong>display</strong> que cree un cuadro principal, como <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> o <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
