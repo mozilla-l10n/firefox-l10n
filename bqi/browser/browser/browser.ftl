@@ -1038,6 +1038,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }، پسند ی موتور پیتینیڌن
 urlbar-searchmode-button-no-engine2 =
     .title = ره نهنگی پسند نوابیڌه، ی ره نهنگ پسند کۊنین
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = پیتینیڌن کلمات کیلیتی قیر فعال هڌ
 urlbar-searchmode-dropmarker2 =
     .title = پسند ی موتور پیتینیڌن
 urlbar-searchmode-bookmarks3 = نشووکا
@@ -1265,6 +1268,12 @@ save-to-pocket-button =
     .label = زفت کردن من { -pocket-brand-name }
     .tooltiptext = زفت کردن من { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = تعمیر رزم ناهاڌن هؽل
+    .tooltiptext = هدس زیڌن رزم ناهاڌن دوروست هؽل ز موئتوا بلگه
+
 ##
 
 # Variables:
@@ -1334,6 +1343,7 @@ qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing = ویدیو یا دونگ من ای وبگه برنومه DRM ن اخو، ک گاشڌ ویژیی یلی ک { -brand-short-name } و ایسا اده ن مئدۊد کونه.
 eme-notifications-drm-content-playing-manage = دؽوۉداری سامووا
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = رڌ کردن
@@ -1382,9 +1392,25 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = ای پیوم ن هر سا ک نیمدریا گۊشیڌنی مسدۊد ابۊن نشووݩ مڌه
+    .accesskey = D
 edit-popup-settings =
     .label = دؽوۉداری سامووا نیمدری یل گۊشیڌنی…
     .accesskey = M
+picture-in-picture-hide-toggle =
+    .label = بؽڌار کردن شؽوات-من-شؽوات
+    .accesskey = H
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = جاگورویی دویمه شؽوات من شؽوات و سمت راست
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = جاگورویی دویمه شؽوات من شؽوات و سمت چپ
+    .accesskey = L
 
 ##
 
