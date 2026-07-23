@@ -15,6 +15,52 @@ about-networking-websockets = WebSockets
 about-networking-alt-svc = Alt-Svc
 about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-ttl = TTL
+about-networking-ssl-tokens = אסימוני TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] אסימון אחד
+       *[other] { NUMBER($count) } אסימונים
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] (אחד פג תוקף)
+       *[other] (פג תוקפם של { NUMBER($count) })
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } ← { $compressedLength } בתים (חיסכון של { $saved }%)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } בתים ({ $percent }%)
+about-networking-ssl-tokens-partition-key = מפתח מחיצה
+about-networking-ssl-tokens-tokens-column = אסימונים
+about-networking-ssl-tokens-expires = תפוגה
+about-networking-ssl-tokens-certificate = תעודה
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] אסימון אחד
+       *[other] { NUMBER($count) } אסימונים
+    }
+about-networking-ssl-tokens-restored =
+    .alt = שוחזר מהאחסון
+    .title = שוחזר מהאחסון
+about-networking-ssl-tokens-new =
+    .alt = חדש בהפעלה זו
+    .title = חדש בהפעלה זו
+about-networking-ssl-tokens-expired =
+    .alt = פג תוקף
+    .title = פג תוקף
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = אסימונים: { $tokenLength } בתים. קודדו: { $decompressedLength } ← { $compressedLength } בתים.
+about-networking-ssl-tokens-ev-status = תעודת EV
 about-networking-refresh = ריענון
 about-networking-auto-refresh = ריענון אוטומטי בכל 3 שניות
 about-networking-hostname = שם מארח

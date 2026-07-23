@@ -24,3 +24,21 @@ inspector-color-scheme-emulation-light =
 # A title text for the dark color scheme emulation options
 inspector-color-scheme-emulation-dark =
     .title = הפעלה/כיבוי הדמייה של ערכת צבעים כהה עבור הדף
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = החלפת מצב של תכונות הדמייה של CSS
+    .aria-label = החלפת מצב של תכונות הדמייה של CSS
+inspector-emulation-panel-color-scheme = הדמיית ערכת צבעים
+# A label text for the print emulation options
+inspector-emulation-panel-print = הפעלה
+    .aria-label = הפעלת הדמייה של print media
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = בהיר
+    .aria-label = הפעלת הדמייה של ערכת צבעים בהירה
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = כהה
+    .aria-label = הפעלת הדמייה של ערכת צבעים כהה
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = ללא הדמייה
+    .aria-label = השבתת הדמייה של ערכת צבעים
