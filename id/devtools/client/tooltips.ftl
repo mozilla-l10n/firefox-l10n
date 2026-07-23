@@ -113,6 +113,13 @@ inactive-css-resize-fix = Coba atur <strong>overflow</strong> ke nilai selain <s
 inactive-css-ruby-element-fix = Coba ubah <strong>ukuran fon</strong> dari teks ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Coba kurangi jumlah baris. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Hindari pemisahan konten elemen, mis. dengan menghapus kolom atau dengan menggunakan <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix-1 = Coba tambahkan baik <strong>display:inline</strong> maupun <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Coba tambahkan baik <strong>display:inline-block</strong> maupun <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Coba tambahkan <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Coba hapus <strong>float</strong> atau menambahkan <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Coba ubah nilai <strong>display</strong> pada kontainer elemen ke selain <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, atau <strong>inline-grid</strong>, atau hapus <strong>float</strong>.
+inactive-css-not-block-fix-1 = Coba tambahkan properti seperti <strong>display:block</strong> atau <strong>float:left</strong>.
+inactive-css-not-floated-fix-1 = Coba tambahkan properti <strong>float</strong> dengan nilai selain <strong>none</strong>.
 inactive-css-position-property-on-unpositioned-box-fix-1 = Coba atur properti <strong>position</strong> menjadi selain <strong>static</strong>.
 inactive-css-only-replaced-elements-fix-1 = Pastikan Anda menambahkan properti ke elemen tergantikan.
 
