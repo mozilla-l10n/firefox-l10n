@@ -175,6 +175,8 @@ perftools-presets-ml-label = Ikasketa automatikoa
 perftools-presets-ml-description2 = { -brand-shorter-name }(r)en ikasketa automatikoko programa-erroreak ikertzeko aurrezarpena.
 perftools-presets-networking-label = Sarea
 perftools-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
+perftools-presets-networking-with-logs-label = Sarea erregistroekin
+perftools-presets-networking-with-logs-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena, sareko erregistroak barne. Erregistro hauek kontuzko informazioa izan lezakete, hala nola bisitatzen dituzun URLak.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
 perftools-presets-power-description = { -brand-shorter-name }(r)en energia-erabilpenaren arazoak ikertzeko aurrezarpena, eragin negatibo txikiarekin.
