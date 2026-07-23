@@ -6,6 +6,7 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Ulteriori informazioni</span>
+devtools-tooltip-learn-more = Ulteriori informazioni
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -131,6 +132,7 @@ inactive-css-ruby-element-fix = Provare a modificare <strong>font-size</strong> 
 inactive-css-text-wrap-balance-lines-exceeded-fix = Provare a ridurre il numero di righe. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evitare di distribuire il contenuto dell’elemento, ad esempio rimuovendo le colonne o utilizzando <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Provare ad assegnare un valore <strong>display</strong> che crei un box principale, come <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> o <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Provare ad aggiungere <strong>display:grid</strong> o <strong>display:flex</strong>.
 inactive-css-not-grid-or-flex-or-block-container-fix-1 = Provare ad aggiungere <strong>display:grid</strong>, <strong>display:flex</strong> o <strong>display:block</strong>.
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Provare ad aggiungere <strong>display:grid</strong>, <strong>display:flex</strong> o <strong>columns:2</strong>.
 inactive-css-not-multicol-container-fix-1 = Provare ad aggiungere <strong>column-count</strong> o <strong>column-width</strong>.
