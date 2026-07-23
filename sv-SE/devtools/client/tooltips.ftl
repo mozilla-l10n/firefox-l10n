@@ -145,6 +145,20 @@ inactive-css-not-block-flex-grid-container-fix-1 = Försök lägga till <strong>
 inactive-css-not-floated-fix-1 = Prova att lägga till egenskapen <strong>float</strong> med ett annat värde än <strong>none</strong>.
 inactive-css-position-property-on-unpositioned-box-fix-1 = Försök ställa in egenskapen <strong>position</strong> till något annat än <strong>static</strong>.
 inactive-css-only-replaced-elements-fix-1 = Se till att du lägger till egenskapen i ett ersatt element.
+inactive-text-overflow-when-no-overflow-fix-1 = Försök att lägga till <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Testa att ställa in egenskapen <strong>display</strong> till något annat än <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> eller <strong>inline-table </strong> och se till att det inte är inom en tabell eller ruby-segment.
+inactive-css-not-for-internal-table-elements-fix-1 = Prova att ställa in egenskapen <strong>display</strong> till något annat än <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> eller <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Prova att ställa in egenskapen <strong>display</strong> till något annat än <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> eller <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Prova att lägga till <strong>display:table</strong> eller <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Testa att lägga till <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Testa att lägga till <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Försök att lägga till <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> eller <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Ta bort egenskapen i det överordnade tabellelementet eller ändra värdet på <strong>border-collapse</strong> till ett annat värde än <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Prova att ställa in <strong>overflow</strong> till ett annat värde än <strong>visible</strong> eller rikta in dig på ett ersatt element som stöder det.
+inactive-css-ruby-element-fix-1 = Prova att ändra <strong>teckenstorleken</strong> på ruby-texten.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Försök att minska antalet rader.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Undvik att dela upp elementets innehåll, t.ex. genom att ta bort kolumnerna eller genom att använda <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Försök att lägga till ett <strong>display</strong>-värde som skapar en principal box, till exempel <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> eller <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
