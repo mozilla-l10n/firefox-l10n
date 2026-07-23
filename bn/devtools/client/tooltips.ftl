@@ -67,6 +67,20 @@ inactive-css-position-property-on-unpositioned-box-fix = এটির <strong>po
 inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> যোগ করার চেষ্টা করুন। { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> বা <strong>display:inline-table</strong> যোগ করার চেষ্টা করুন। { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, বা <strong>overflow:hidden</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = <strong>display:grid</strong> অথবা <strong>display:grid</strong> যোগ করার চেষ্টা করুন।
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = <strong>display:grid</strong>, <strong>display:flex</strong>, বা <strong>columns:2</strong> যোগ করার চেষ্টা করুন।
+inactive-css-not-grid-item-fix-3 = উপাদানের মুলে <strong>display:grid</strong> বা <strong>display:inline-grid</strong> যোগ করার চেষ্টা করুন।
+inactive-css-not-grid-container-fix-1 = <strong>display:grid</strong> বা <strong>display:inline-grid</strong> যোগ করার চেষ্টা করুন।
+inactive-css-not-flex-item-fix-3 = উপাদানটির প্যারেন্ট এর সাথে <strong>display:flex</strong> অথবা <strong>display:inline-flex</strong> জুড়ে দেবার চেষ্টা করুন।
+inactive-css-not-flex-container-fix-1 = <strong>display:flex</strong> বা <strong>display:inline-flex</strong> যোগ করার চেষ্টা করুন।
+inactive-css-not-inline-or-tablecell-fix-1 = <strong>display:inline</strong> বা <strong>display:table-cell</strong> যোগ করার চেষ্টা করুন।
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = <strong>display:inline-block</strong> বা <strong>display:block</strong> যোগ করার চেষ্টা করুন।
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = <strong>display:inline-block</strong> যোগ করার চেষ্টা করুন।
+inactive-css-not-display-block-on-floated-fix-1 = <strong>float</strong> সরানোর চেষ্টা করুন বা <strong>display:block</strong> যোগ করুন।
+inactive-css-position-property-on-unpositioned-box-fix-1 = এটির <strong>position</strong> এর বৈশিষ্ট্য <strong>static</strong> ব্যতীত , অন্য কিছু একটা সেট করার চেষ্টা করুন।
+inactive-text-overflow-when-no-overflow-fix-1 = <strong>overflow:hidden</strong> যোগ করার চেষ্টা করুন।
+inactive-css-not-table-fix-1 = <strong>display:table</strong> বা <strong>display:inline-table</strong> যোগ করার চেষ্টা করুন।
+inactive-scroll-padding-when-not-scroll-container-fix-1 = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, বা <strong>overflow:hidden</strong> যোগ করার চেষ্টা করুন।
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
