@@ -67,8 +67,20 @@ inactive-css-text-wrap-balance-lines-exceeded-fix = כדאי לנסות להפח
 inactive-css-text-wrap-balance-fragmented-fix = יש להימנע מפיצול תוכן האלמנט, למשל, על־ידי הסרת העמודות או על־ידי שימוש ב<strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-fix-1 = כדאי לנסות להוסיף <strong>display:grid</strong> או <strong>display:flex</strong>.
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = כדאי לנסות להוסיף <strong>display:grid</strong>, ‏<strong>display:flex</strong>, או <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = כדאי לנסות להוסיף <strong>column-count</strong> או <strong>column-width</strong>.
+inactive-css-not-grid-item-fix-3 = כדאי לנסות להוסיף <strong>display:grid</strong> או <strong>display:inline-grid</strong> להורה של הרכיב.
+inactive-css-not-grid-container-fix-1 = כדאי לנסות להוסיף <strong>display:grid</strong> או <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = כדאי לנסות להוסיף <strong>display:flex</strong> או <strong>display:inline-flex</strong> להורה של הרכיב.
+inactive-css-not-flex-container-fix-1 = כדאי לנסות להוסיף <strong>display:flex</strong> או <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = כדאי לנסות להוסיף <strong>display:inline</strong> או <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = כדאי לנסות להוסיף <strong>display:inline-block</strong> או <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = כדאי לנסות להוסיף <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = כדאי לנסות להסיר את <strong>float</strong> או להוסיף <strong>display:block</strong>.
 inactive-text-overflow-when-no-overflow-fix-1 = כדאי לנסות להוסיף <strong>overflow:hidden</strong>.
 inactive-css-not-table-cell-fix-1 = כדאי לנסות להוסיף <strong>display:table-cell</strong>.
+inactive-css-ruby-element-fix-1 = כדאי לנסות לשנות את ה־<strong>font-size</strong> טקסט ה־ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = כדאי לנסות להפחית את מספר השורות.
+inactive-css-text-wrap-balance-fragmented-fix-1 = יש להימנע מפיצול תוכן האלמנט, למשל, על־ידי הסרת העמודות או על־ידי שימוש ב<strong>page-break-inside:avoid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
