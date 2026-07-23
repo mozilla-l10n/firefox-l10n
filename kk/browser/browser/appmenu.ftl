@@ -107,6 +107,25 @@ appmenu-remote-tabs-unverified = Тіркелгіңіз расталуы тиі�
 appmenuitem-fxa-toolbar-sync-now2 = Қазір синхрондау
 appmenuitem-fxa-sign-in = { -brand-product-name } ішіне кіру
 appmenuitem-fxa-manage-account = Тіркелгіні басқару
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Іске қосу
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Синхрондау үшін кіріңіз
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = { $deviceName } қазір синхрондау
+fxa-menu-manage-sync-settings =
+    .label = Синхрондау баптауларын басқару
+fxa-menu-add-device =
+    .label = Құрылғыны қосу
+fxa-menu-manage-devices =
+    .label = Құрылғыларыңызды басқару
+fxa-menu-device-missing =
+    .label = Құрылғыңыз көрінбей ме?
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
 fxa-menu-all-devices =
     .label = Барлық құрылғылар

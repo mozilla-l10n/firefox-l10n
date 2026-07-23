@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } б�
 urlbar-result-menu-report-inaccurate-location2 = Дәлсіз орналасу туралы хабарлау
 urlbar-result-menu-show-less-frequently2 = Сиректеу көрсету
 urlbar-result-menu-dont-show-weather-suggestions2 = Ауа райы ұсыныстарын көрсетпеу
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Бұл ұсынысты елемеу
+    .accesskey = е
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Тарихтан өшіру
+    .accesskey = ш
 urlbar-result-menu-learn-more =
     .label = Көбірек білу
     .accesskey = л
@@ -581,6 +591,8 @@ identity-clear-site-data =
     .label = Cookies файлдары және сайт деректерін тазарту…
 identity-connection-not-secure-security-view = Бұл сайтқа қауіпсіз түрде байланысқан емессіз.
 identity-connection-verified = Бұл сайтқа қауіпсіз түрде байланысқансыз.
+identity-ev-owner-label2 = Сертификат кімге шығарылған:
+identity-verifier-label2 = Растаған:
 identity-ev-owner-label = Сертификат кімге шығарылған:
 identity-verifier-label = Растаған:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

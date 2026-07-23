@@ -344,6 +344,9 @@ tab-group-editor-done =
     .label = Дайын
     .accessKey = Д
 # Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = Топты бөлісу
+# Share is a verb here. Meaning to "Share" the "tab group"
 tab-group-editor-action-share-tab-group =
     .label = Беттер тобын бөлісу
 tab-context-reopen-tab-group =

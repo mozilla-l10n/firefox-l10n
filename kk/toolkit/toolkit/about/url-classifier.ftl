@@ -37,6 +37,16 @@ url-classifier-cache-prefix = Префиксі
 url-classifier-cache-ncache-expiry = Теріс кэш мерзімі аяқталу уақыты
 url-classifier-cache-fullhash = Толық хэш
 url-classifier-cache-pcache-expiry = Оң кэш мерзімі аяқталу уақыты
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = Мүмкіндік
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = Сәйкес
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Ережеден тыс
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Маңызды
 url-classifier-debug-title = Жөндеу
 url-classifier-debug-module-btn = Журналдау модульдерін орнату
 url-classifier-debug-file-btn = Журналдау файлын орнату
