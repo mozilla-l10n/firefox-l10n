@@ -614,10 +614,16 @@ smartwindow-existing-user-fx-tou-go-back = Joan atzera
 
 smartwindow-onboarding-subtitle = Laburbildu, alderatu eta egin galderak erritmoa moteldu gabe.
 smartwindow-onboarding-primary-button = Jarraitu
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } maskota (Kit) izar itxurako osgarriekin
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Laguntzailea itxita mantendu nahi duzu?
+smartwindow-sidebar-auto-open-callout-body = Behar duzunean berriro ireki dezakezu halere.
 smartwindow-sidebar-auto-open-callout-accept = Bai, mantendu itxita
 smartwindow-sidebar-auto-open-callout-dismiss = Ez, eskerrik asko
+smartwindow-sidebar-auto-open-callout-accepted-title = Laguntzailea itxita egongo da
 smartwindow-sidebar-auto-open-callout-rejected-title = Ulertuta
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Iritziz aldatuz gero, aukera lehenetsia <a data-l10n-name="settings">ezarpenetan</a> alda dezakezu noiznahi.
