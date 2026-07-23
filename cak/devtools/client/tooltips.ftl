@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Tetamäx ch'aqa' chik</span>
+devtools-tooltip-learn-more = Tetamäx ch'aqa' chik
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -35,6 +44,16 @@ inactive-css-not-table = <strong>{ $property }</strong> majun nub'än pa re ch'a
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> majun nub'än pa re ch'akulal ruma man nib'iyin ta.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
+
+## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved. CSS properties and values in <strong> tags should
 ## not be translated.
@@ -55,6 +74,22 @@ inactive-css-not-for-internal-table-elements-fix = Tatojtob'ej nab'än runuk'ule
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Tatojtob'ej nab'än runuk'ulem richinil <strong>tik'ut</strong> junwi chuwäch <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, o <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Titojtob'ëx nitz'aqatisäx <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Tatojtob'ej natz'aqatisaj <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong> o <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>.
+inactive-css-not-grid-item-fix-3 = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong> o <strong>display:inline-grid</strong> chi re ri rach'alal ch'akulal.
+inactive-css-not-grid-container-fix-1 = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong> o <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Titojtob'ëx nitz'aqatisäx <strong>display:flex</strong> o <strong>display:inline-flex</strong> chi re ri rach'alal ch'akulal.
+inactive-css-not-flex-container-fix-1 = Titojtob'ëx nitz'aqatisäx <strong>display:flex</strong> o <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Titojtob'ëx nitz'aqatisäx <strong>display:inline</strong> o <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Titojtob'ëx nitz'aqatisäx <strong>display:inline-block</strong> o <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Titojtob'ëx nitz'aqatisäx <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Tatojtob'ej nayüj <strong>jun k'o wi</strong> o tatz'aqatisaj <strong>display:block</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Tatojtob'ej najikib'a' runuk'ulem <strong>k'ojlemal</strong> chuwäch <strong>jun k'o wi</strong>.
+inactive-text-overflow-when-no-overflow-fix-1 = Tatojtob'ej natz'aqatisaj <strong>overflow:hidden</strong>.
+inactive-css-not-for-internal-table-elements-fix-1 = Tatojtob'ej nab'än runuk'ulem richinil <strong>tik'ut</strong> junwi chuwäch <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, o <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Tatojtob'ej nab'än runuk'ulem richinil <strong>tik'ut</strong> junwi chuwäch <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, o <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Titojtob'ëx nitz'aqatisäx <strong>display:table</strong> o <strong>display:inline-table</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Tatojtob'ej natz'aqatisaj <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -71,3 +106,15 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> jun tojtob'enel b'anikil. Man koch'el ta pa re taq okik'amaya'l re':
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> jun tojtob'enel b'anikil.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Tetamäx ch'aqa' chik</span> chi rij <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
