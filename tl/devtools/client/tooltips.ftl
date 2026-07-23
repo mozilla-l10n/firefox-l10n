@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Alamin</span>
+devtools-tooltip-learn-more = Alamin
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -31,6 +40,16 @@ inactive-css-position-property-on-unpositioned-box = Walang epekto ang <strong>{
 inactive-text-overflow-when-no-overflow = Walang epekto ang <strong>{ $property }</strong> na ito dahil hindi nakatakda ang <strong>overflow:hidden</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
+
+## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved. CSS properties and values in <strong> tags should
 ## not be translated.
@@ -47,6 +66,15 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Subukang 
 inactive-css-not-display-block-on-floated-fix = Subukang tanggalin ang <strong>float</strong> o magdagdag ng <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Subukang itakda ang <strong>position</strong> nito sa iba pang bagay bukod sa <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Subukan magdagdag ng <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Subukang magdagdag ng <strong>display:grid</strong> o <strong>display:flex</strong>.
+inactive-css-not-flex-item-fix-3 = Subukang magdagdag ng <strong>display:flex</strong> o <strong>display:inline-flex</strong> sa parent ng element.
+inactive-css-not-flex-container-fix-1 = Subukang magdagdag ng <strong>display:flex</strong> o <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Subukang magdagdag ng <strong>display:inline</strong> o <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Subukang magdagdag ng <strong>display:inline-block</strong> o <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Subukang magdagdag ng <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Subukang tanggalin ang <strong>float</strong> o magdagdag ng <strong>display:block</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Subukang itakda ang <strong>position</strong> nito sa iba pang bagay bukod sa <strong>static</strong>.
+inactive-text-overflow-when-no-overflow-fix-1 = Subukan magdagdag ng <strong>overflow:hidden</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -63,3 +91,15 @@ css-compatibility-deprecated-supported-message = Ang <strong>{ $property }</stro
 css-compatibility-experimental-message = Ang <strong>{ $property }</strong> ay isang eksperimental na property. Hindi ito suportado sa mga sumusunod na browser:
 css-compatibility-experimental-supported-message = Ang <strong>{ $property }</strong> ay isang eksperimental na property.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Alamin</span> ang tungkol sa <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
