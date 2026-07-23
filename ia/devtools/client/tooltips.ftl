@@ -141,6 +141,7 @@ inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Tenta adder 
 inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Tenta adder <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitor del elemento.
 inactive-css-not-absolutely-positioned-item-fix-1 = Tenta adder <strong>position:absolute</strong> al elemento.
 inactive-css-no-default-anchor-fix-1 = Tenta adder <strong>position-anchor</strong> con un nomine de ancora valide.
+inactive-css-not-grid-or-flex-item-fix-4 = Prova adder <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al genitor del elemento.
 inactive-css-not-grid-item-fix-3 = Prova adder <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitor del elemento.
 inactive-css-not-grid-container-fix-1 = Prova adder <strong>display:grid</strong> o <strong>display:inline-grid</strong>.
 inactive-css-not-flex-item-fix-3 = Prova adder <strong>display:flex</strong> o <strong>display:inline-flex</strong> al genitor del elemento.
