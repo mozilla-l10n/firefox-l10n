@@ -6,6 +6,7 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Læs mere</span>
+devtools-tooltip-learn-more = Læs mere
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -134,6 +135,17 @@ inactive-css-not-multicol-container-fix-1 = Prøv at tilføje enten <strong>colu
 inactive-css-column-span-fix-1 = Prøv at tilføje <strong>column-count</strong> eller <strong>column-width</strong> til et af dets overordnede elementer.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Prøv at filføje <strong>position:absolute</strong> til elementet, eller <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> til elementets forælder.
 inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Prøv at tilføje <strong>position:absolute</strong> til elementet eller<strong>display:grid</strong> eller <strong>display:inline-grid</strong> til elementets forælder.
+inactive-css-not-for-internal-table-elements-fix-1 = Prøv at sætte <strong>display</strong>-egenskaben til noget andet end<strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> eller <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Prøv at sætte <strong>display</strong>-egenskaben til noget andet end <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> eller <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Prøv at tilføje <strong>display:table</strong> eller <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Prøv at tilføje <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Prøv at tilføje <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Prøv at tilføje <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> eller <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Fjern egenskaben<strong>border-collapse</strong> eller vælg anden værdi for den end <strong>collapse</strong> for det overordnede tabel-element.
+inactive-css-resize-fix-1 = Prøv at sætte <strong>overflow</strong> til en værdi, der ikke er <strong>visible</strong>, eller peg på et erstattet element, der understøtter dette.
+inactive-css-ruby-element-fix-1 = Prøv at ændre ruby-tekstens <strong>skriftstørrelse</strong>.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Prøv at reducere antallet af linjer.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Undgå at opdele elementets indhold, fx ved at fjerne kolonner eller bruge <strong>page-break-inside:avoid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
