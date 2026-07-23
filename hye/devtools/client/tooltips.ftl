@@ -75,6 +75,12 @@ inactive-css-not-for-internal-table-elements-fix = Փորձէք դրա <strong> 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Փորձէք դրա <strong> ցուցադրման </strong> գործառոյթը սահմանել այլ բան, քան <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, կամ <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Փորձէք աւելացնել <strong> ցուցադրել:աղիւսակը </strong> կամ <strong> ցուցադրել:ներտողային-աղիւսակը</strong>: { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Փորձէք աւելացնել <strong> ընդարձակում:ինքնաբար </strong>, <strong> ընդարձակումը:ոլորել</strong>, կամ <strong> ընդարձակում:թաքցնել </strong>: { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Փորձէք աւելացնել <strong>ցուցադրել․ցանցը</strong> կամ <strong>ցուցադրել։սնուցիչը</strong>։
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Փորձէք աւելացնել կամ <strong>ցուցադրել․ցանցը</strong>, <strong>ցուցադրել․սնուցիչը</strong> կամ<strong>սիւնեակներ․2</strong>։
+inactive-css-not-grid-or-flex-item-fix-4 = Աւելացրէք տարրերի կենտրաւնում <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> կամ <strong>display:inline-flex</strong>։
+inactive-text-overflow-when-no-overflow-fix-1 = Փորձէք աւելացնել <strong> overflow:hidden </strong>:
+inactive-css-not-table-fix-1 = Փորձէք աւելացնել <strong> ցուցադրել:աղիւսակը </strong> կամ <strong> ցուցադրել:ներտողային-աղիւսակը</strong>:
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Փորձէք աւելացնել <strong> ընդարձակում:ինքնաբար </strong>, <strong> ընդարձակումը:ոլորել</strong>, կամ <strong> ընդարձակում:թաքցնել </strong>:
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
