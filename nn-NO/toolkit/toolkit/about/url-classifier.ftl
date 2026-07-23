@@ -63,6 +63,9 @@ url-classifier-content-classifier-flags = Flagg
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Resultat
 url-classifier-content-classifier-pbm = Privat nettlesing
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Tving tredjepart til toppramme
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Ikkje-tilrådd tillegg
