@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Daha fazla bilgi al</span>
+devtools-tooltip-learn-more = Daha fazla bilgi al
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,30 @@ inactive-css-ruby-element-fix = Ruby metninin <strong>font-size</strong> değeri
 inactive-css-text-wrap-balance-lines-exceeded-fix = Satır sayısını azaltmayı deneyin. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Elemanın içeriğini bölmekten kaçının. Örneğin sütunları kaldırabilir veya <strong>page-break-inside:avoid</strong> kullanabilirsiniz. { learn-more }
 inactive-css-no-principal-box-fix = Ana kutu oluşturan bir <strong>display</strong> değeri eklemeyi deneyin. Örnek: <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> veya <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = <strong>display:grid</strong> veya <strong>display:flex</strong> eklemeyi deneyin.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = <strong>display:grid</strong>, <strong>display:flex</strong> veya <strong>display:block</strong> eklemeyi deneyin.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = <strong>display:grid</strong>, <strong>display:flex</strong> veya <strong>columns:2</strong> eklemeyi deneyin.
+inactive-css-not-multicol-container-fix-1 = <strong>column-count</strong> veya <strong>column-width</strong> eklemeyi deneyin.
+inactive-css-column-span-fix-1 = Üst elemanlarından birine <strong>column-count</strong> veya <strong>column-width</strong> eklemeyi deneyin.
+inactive-css-not-grid-or-flex-item-fix-4 = Bu elemanın üst elemanına <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> veya <strong>display:inline-flex</strong> eklemeyi deneyin.
+inactive-css-not-grid-item-fix-3 = Bu elemanın üst elemanına <strong>display:grid</strong> veya <strong>display:inline-grid</strong> eklemeyi deneyin.
+inactive-css-not-grid-container-fix-1 = <strong>display:grid</strong> veya <strong>display:inline-grid</strong> eklemeyi deneyin.
+inactive-css-not-flex-item-fix-3 = Bu elemanın üst elemanına <strong>display:flex</strong> veya <strong>display:inline-flex</strong> eklemeyi deneyin.
+inactive-css-not-flex-container-fix-1 = <strong>display:flex</strong> veya <strong>display:inline-flex</strong> eklemeyi deneyin.
+inactive-css-not-inline-or-tablecell-fix-1 = <strong>display:inline</strong> veya <strong>display:table-cell</strong> eklemeyi deneyin.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = <strong>display:inline-block</strong> veya <strong>display:block</strong> eklemeyi deneyin.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = <strong>display:inline-block</strong> eklemeyi deneyin.
+inactive-css-not-display-block-on-floated-fix-1 = <strong>float</strong>’u silmeyi veya <strong>display:block</strong> eklemeyi deneyin.
+inactive-css-not-for-internal-table-elements-fix-1 = <strong>display</strong> özelliğini <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = <strong>display</strong> özelliğini <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin.
+inactive-css-not-table-fix-1 = <strong>display:table</strong> veya <strong>display:inline-table</strong> eklemeyi deneyin.
+inactive-css-collapsed-table-borders-fix-1 = <strong>border-collapse:separate</strong> eklemeyi deneyin.
+inactive-css-not-table-cell-fix-1 = <strong>display:table-cell</strong> eklemeyi deneyin.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> veya <strong>overflow:hidden</strong> eklemeyi deneyin.
+inactive-css-border-image-fix-1 = Üst tablo elemanında özelliği kaldırın veya <strong>border-collapse</strong> değerini <strong>collapse</strong> dışında bir değerle değiştirin.
+inactive-css-resize-fix-1 = <strong>overflow</strong> özelliğini <strong>visible</strong> dışında bir değere ayarlamayı ya da onu destekleyen değiştirilen bir elemana hedeflemeyi deneyin.
+inactive-css-ruby-element-fix-1 = Ruby metninin <strong>font-size</strong> değerini değiştirmeyi deneyin.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Elemanın içeriğini bölmekten kaçının. Örneğin sütunları kaldırabilir veya <strong>page-break-inside:avoid</strong> kullanabilirsiniz.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
