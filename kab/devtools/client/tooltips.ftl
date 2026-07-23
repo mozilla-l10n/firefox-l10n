@@ -82,6 +82,13 @@ inactive-css-not-table-cell-fix = Ɛreḍ timerna n <strong>display:table-cell</
 inactive-scroll-padding-when-not-scroll-container-fix = Ɛreḍ ad ternuḍ <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> neɣ <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Ɣef uferdis amaraw n tfelwit, kkes timeẓlit neɣ senfel azal n <strong>border-collapse</strong> s wazal-nniḍen ur nelli d <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Ɛreḍ ad tbeddleḍ <strong>font-size</strong> n uḍris "ruby". { learn-more }
+inactive-css-not-flex-container-fix-1 = Ɛreḍ timerna n <strong>display:flex</strong> neɣ <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Ɛreḍ timerna n <strong>display:inline</strong> neɣ<strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Ɛreḍ timerna n <strong>display:inline-block</strong> neɣ <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Ɛreḍ timerna n <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Ɛreḍ tukksa n <strong>float</strong> neɣ timerna n <strong>display:block</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Ɛreḍ ad tesbaduḍ timeẓli-ines<strong>position</strong> s wazal-nniḍen ur nelli d <strong>statitc</strong>.
+inactive-text-overflow-when-no-overflow-fix-1 = Ɛreḍ ad ternuḍ <strong>overflow:hidden</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
