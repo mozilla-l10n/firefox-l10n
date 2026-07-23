@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Pli da informo</span>
+devtools-tooltip-learn-more = Pli da informo
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,45 @@ inactive-css-ruby-element-fix = Provu ŝanĝi la <strong>font-size</strong> de l
 inactive-css-text-wrap-balance-lines-exceeded-fix = Provu redukti la kvanton de linioj. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evitu apartigi la enhavon de la elemento, ekzemple per forigo de kolumnoj aŭ per uzo de <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Provu aldoni valoron de <strong>display</strong> kiu kreas ĉefan skatolon, kiel <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, aŭ <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Provu aldoni <strong>display:grid</strong> aŭ <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Provu aldoni <strong>display:grid</strong>, <strong>display:flex</strong> aŭ<strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Provu aldoni ĉu <strong>display:grid</strong>, <strong>display:flex</strong>, ĉu <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Provu aldoni ĉu <strong>column-count</strong> ĉu <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Provu aldoni ĉu <strong>column-count</strong> ĉu <strong>column-width</strong> al praa elemento.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Klopodu aldoni <strong>position:absolute</strong> to the element al la elemento, aŭ <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, aŭ <strong>display:inline-flex</strong> al la gepatra elmento.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Klopodu aldoni <strong>position:absolute</strong> al la elemento, aŭ <strong>display:grid</strong> aŭ <strong>display:inline-grid</strong> al la gepatra elemento.
+inactive-css-not-absolutely-positioned-item-fix-1 = Provu aldoni <strong>position:absolute</strong> al la elemento.
+inactive-css-no-default-anchor-fix-1 = Provu aldoni <strong>position-anchor</strong> kun valida nomo de ankro.
+inactive-css-not-grid-or-flex-item-fix-4 = Klopodu aldoni <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, aŭ <strong>display:inline-flex</strong> al la gepatra elmento.
+inactive-css-not-grid-item-fix-3 = Provu aldoni <strong>display:grid</strong> aŭ <strong>display:inline-grid</strong> al la gepatro de la elemento.
+inactive-css-not-grid-container-fix-1 = Provu aldoni <strong>display:grid</strong> aŭ <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Provu aldoni <strong>display:flex</strong> aŭ <strong>display:inline-flex</strong> al la gepatro de la elemento.
+inactive-css-not-flex-container-fix-1 = Provu aldoni <strong>display:flex</strong> aŭ <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Provu aldoni <strong>display:inline</strong> aŭ <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Provu aldoni <strong>display:inline-block</strong> aŭ <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Provu aldoni <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Provu forigi <strong>float</strong> aŭ aldoni <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Provu ŝanĝi la valoron de <strong>display</strong> en la enhavanta elemento al io malsama de <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, aŭ <strong>inline-grid</strong>, aŭ forigi <strong>float</strong>.
+inactive-css-not-block-fix-1 = Provu aldoni atributojn kiel <strong>display:block</strong> aŭ <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Provu aldoni <strong>display:block</strong>, <strong>display:inline-block</strong> aŭ <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Provu aldoni <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> aŭ <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Provu aldoni atributon <strong>float</strong> kun valoro malsama de <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Klopodu difini ĝian atributon <strong>position</strong> per valoro diferenca de <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Certu aldoni la atributon al anstataŭita elemento.
+inactive-text-overflow-when-no-overflow-fix-1 = Provu aldoni <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Provu difini la atributon <strong>display</strong> per valoro malsama ol <strong>none</strong>, <strong>contents</strong>, <strong>table</strong>, aŭ <strong>inline-table</strong> kaj certiĝu ke ĝi ne estas ene de tablo aŭ segmento ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Provu difini ĝian atributon <strong>display</strong> per valoro malsama ol <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Provu difini ĝian atributon <strong>display</strong> per valoro malsama ol <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Provu aldoni <strong>display:table</strong> aŭ <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Provu aldoni <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Provu aldoni <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Provu aldoni <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, aŭ <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = En la gepatra tabula elemento, forigu la atributon aŭ ŝanĝu la valoron de <strong>border-collapse</strong> por alia, kiu ne estas <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Provu difini <strong>overflow</strong> kiel valoro malsama ol <strong>visible</strong> aŭ celi anstataŭitan elementon kiu subtenas ĝin.
+inactive-css-ruby-element-fix-1 = Provu ŝanĝi la <strong>font-size</strong> de la teksto 'ruby'.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Provu redukti la kvanton de linioj.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Evitu apartigi la enhavon de la elemento, ekzemple per forigo de kolumnoj aŭ per uzo de <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Provu aldoni valoron de <strong>display</strong> kiu kreas ĉefan skatolon, kiel <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, aŭ <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

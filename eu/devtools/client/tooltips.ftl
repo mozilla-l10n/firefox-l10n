@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Argibide gehiago</span>
+devtools-tooltip-learn-more = Argibide gehiago
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,45 @@ inactive-css-ruby-element-fix = Saiatu 'ruby' testuaren <strong>font-size</stron
 inactive-css-text-wrap-balance-lines-exceeded-fix = Saiatu lerro kopurua gutxitzen. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Saihestu elementuaren edukia zatitzen, adibidez zutabeak kenduz edo <strong>page-break-inside:avoid</strong> erabiliz. { learn-more }
 inactive-css-no-principal-box-fix = Saiatu gehitzen kutxa nagusia sortzen duen <strong>display</strong> balio bat, adbidez <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> edo <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Saiatu <strong>display: grid</strong> edo <strong>display: flex</strong> gehitzen.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Saiatu <strong>display: grid</strong>, <strong>display: flex</strong> edo <strong>display: block</strong> gehitzen.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Saiatu <strong>display: grid</strong>, <strong>display: flex</strong> edo <strong>columns: 2</strong> gehitzen.
+inactive-css-not-multicol-container-fix-1 = Saiatu <strong>column-count</strong> edo <strong>column-width</strong> gehitzen.
+inactive-css-column-span-fix-1 = Saiatu bere guraso-elementu batean <strong>column-count</strong> edo <strong>column-width</strong> gehitzen.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Saiatu elementuari <strong>position: absolute</strong> gehitzen edo elementuaren gurasoari <strong>display: grid</strong>, <strong>display: flex</strong>, <strong>display: inline-grid</strong> edo <strong>display: inline-flex</strong> gehitzen.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Saiatu elementuari <strong>position:absolute</strong> edo elementuaren gurasoari <strong>display:grid</strong> edo <strong>display: inline -grid</strong> gehitzen.
+inactive-css-not-absolutely-positioned-item-fix-1 = Saiatu elementuari <strong>position:absolute</strong> gehitzen.
+inactive-css-no-default-anchor-fix-1 = Saiatu <strong>position-anchor</strong> gehitzen baliozko aingura-izen batekin.
+inactive-css-not-grid-or-flex-item-fix-4 = Saiatu elementuaren gurasoari <strong>display: grid</strong>, <strong>display: flex</strong>, <strong>display: inline-grid</strong> edo <strong>display: inline-flex</strong> gehitzen.
+inactive-css-not-grid-item-fix-3 = Saiatu elementuaren gurasoari <strong>display: grid</strong> edo <strong>display: inline-grid</strong> gehitzen.
+inactive-css-not-grid-container-fix-1 = Saiatu <strong>display: grid</strong> edo <strong>display: inline-grid</strong> gehitzen.
+inactive-css-not-flex-item-fix-3 = Saiatu elementuaren gurasoari <strong>display: flex</strong> edo <strong>display: inline-flex</strong> gehitzen.
+inactive-css-not-flex-container-fix-1 = Saiatu <strong>display: flex</strong> edo <strong>display: inline-flex</strong> gehitzen.
+inactive-css-not-inline-or-tablecell-fix-1 = Saiatu <strong>display: inline</strong> edo <strong>display: table-cell</strong> gehitzen.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Saiatu <strong>display: inline-block</strong> edo <strong>display: block</strong> gehitzen.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Saiatu <strong>display: inline-block</strong> gehitzen.
+inactive-css-not-display-block-on-floated-fix-1 = Saiatu <strong>float</strong> kentzen edo <strong>display: block</strong> gehitzen.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Saiatu elementuaren edukiontziaren <strong>display</strong> balioa <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> edo <strong>inline-grid</strong> ez beste balio batera aldatzen edo <strong>float</strong> kentzen.
+inactive-css-not-block-fix-1 = Saiatu <strong>display: block</strong> edo <strong>float: left</strong> moduko propietateak gehitzen.
+inactive-css-not-block-container-fix-1 = Saiatu <strong>display: block</strong>, <strong>display: inline-block</strong> edo <strong>display: flow-root</strong> gehitzen.
+inactive-css-not-block-flex-grid-container-fix-1 = Saiatu <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> edo <strong>display:flow-root</strong> gehitzen.
+inactive-css-not-floated-fix-1 = Saiatu <strong>position</strong> propietatea gehitzen <strong>none</strong> ez den beste balio batekin.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Saiatu bere <strong>position</strong> propietateari <strong>static</strong> ez den beste balio bat ezartzen.
+inactive-css-only-replaced-elements-fix-1 = Ziurtatu propietatea ordezkatutako elementu bati gehitzen diozula.
+inactive-text-overflow-when-no-overflow-fix-1 = Saiatu <strong>overflow:hidden</strong> gehitzen.
+inactive-css-no-size-containment-fix-1 = Saiatu bere <strong>display</strong>propietatea <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> edo <strong>inline-table</strong> ez beste zerbaitera ezartzen eta ziurtatu ez dagoela taula baten edo ruby segmentu baten barruan.
+inactive-css-not-for-internal-table-elements-fix-1 = Saiatu bere <strong>display</strong> propietatea <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> edo <strong>table-footer-group</strong> ez den beste balio batera ezartzen.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Saiatu bere <strong>display</strong> propietatea <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> edo <strong>table-footer-group</strong> ez den beste balio batera ezartzen.
+inactive-css-not-table-fix-1 = Saiatu gehitzen <strong>display:table</strong> edo <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Saiatu <strong>border-collapse:separate</strong> gehitzen.
+inactive-css-not-table-cell-fix-1 = Saiatu <strong>display:table-cell</strong> gehitzen.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Saiatu gehitzen <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> edo <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Guraso taula-elementuan, kendu propietatea edo aldatu <strong>border-collapse</strong> atributuaren balioa <strong>collapse</strong> ez den beste balio batera.
+inactive-css-resize-fix-1 = Saiatu <strong>overflow</strong> propietatearen balioa <strong>visible</strong> ez beste zerbaitera ezartzen edo hau onartuko duen ordezkatutako elementu bat helburutzat hartzen.
+inactive-css-ruby-element-fix-1 = Saiatu 'ruby' testuaren <strong>font-size</strong> propietatea aldatzen.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Saiatu lerro kopurua gutxitzen.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Saihestu elementuaren edukia zatitzen, adibidez zutabeak kenduz edo <strong>page-break-inside:avoid</strong> erabiliz.
+inactive-css-no-principal-box-fix-1 = Saiatu gehitzen kutxa nagusia sortzen duen <strong>display</strong> balio bat, adbidez <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> edo <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

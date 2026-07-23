@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">详细了解</span>
+devtools-tooltip-learn-more = 详细了解
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -119,6 +128,45 @@ inactive-css-ruby-element-fix = 请尝试调整 ruby 文本的 <strong>font-size
 inactive-css-text-wrap-balance-lines-exceeded-fix = 请尝试减少行数。{ learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = 避免分割元素的内容，比如移除横栏或使用 <strong>page-break-inside:avoid</strong>。{ learn-more }
 inactive-css-no-principal-box-fix = 尝试添加一个能创建主体盒子的 <strong>display</strong> 值，例如 <strong>block</strong>、<strong>inline-block</strong>、<strong>flex</strong> 或 <strong>grid</strong>。{ learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = 请尝试添加 <strong>display:grid</strong> 或 <strong>display:flex</strong>。
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = 请尝试加入 <strong>display:grid</strong>、<strong>display:flex</strong> 或 <strong>display:block</strong>。
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = 请尝试加入 <strong>display:grid</strong>、<strong>display:flex</strong> 或 <strong>columns:2</strong>。
+inactive-css-not-multicol-container-fix-1 = 请尝试添加 <strong>column-count</strong> 或 <strong>column-width</strong>。
+inactive-css-column-span-fix-1 = 请尝试向其祖先元素之一添加 <strong>column-count</strong> 或 <strong>column-width</strong>。
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = 请尝试为元素添加 <strong>position:absolute</strong>，或为其父元素添加 <strong>display:grid</strong>、<strong>display:flex</strong>, <strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = 请尝试为元素添加 <strong>position:absolute</strong>，或为其父元素添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。
+inactive-css-not-absolutely-positioned-item-fix-1 = 请尝试为该元素添加 <strong>position:absolute</strong>。
+inactive-css-no-default-anchor-fix-1 = 请尝试添加带有有效锚点名称的 <strong>position-anchor</strong>。
+inactive-css-not-grid-or-flex-item-fix-4 = 请尝试为元素的父元素添加 <strong>display:grid</strong>、<strong>display:flex</strong>, <strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。
+inactive-css-not-grid-item-fix-3 = 请尝试为元素的父元素添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。
+inactive-css-not-grid-container-fix-1 = 请尝试添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。
+inactive-css-not-flex-item-fix-3 = 请尝试为元素的父元素添加 <strong>display:flex</strong> 或 <strong>display:inline-flex</strong>。
+inactive-css-not-flex-container-fix-1 = 请尝试添加 <strong>display:flex</strong> 或 <strong>display:inline-flex</strong>。
+inactive-css-not-inline-or-tablecell-fix-1 = 请尝试添加 <strong>display:inline</strong> 或 <strong>display:table-cell</strong>。
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = 请尝试添加 <strong>display:inline-block</strong> 或 <strong>display:block</strong>。
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = 请尝试添加 <strong>display:inline-block</strong>。
+inactive-css-not-display-block-on-floated-fix-1 = 请尝试移除 <strong>float</strong> 或添加 <strong>display:block</strong>。
+inactive-css-only-non-grid-or-flex-item-fix-1 = 请尝试将此元素所属容器的 <strong>display</strong> 值更改为 <strong>flex</strong>、<strong>grid</strong>、<strong>inline-flex</strong>、<strong>inline-grid</strong> 以外的值，或是移除 <strong>float</strong> 属性。
+inactive-css-not-block-fix-1 = 请尝试添加 <strong>display:block</strong> 或 <strong>float:left</strong> 等属性。
+inactive-css-not-block-container-fix-1 = 请尝试添加 <strong>display:block</strong>、<strong>display:inline-block</strong> 或 <strong>display:flow-root</strong>。
+inactive-css-not-block-flex-grid-container-fix-1 = 请尝试添加 <strong>display:block</strong>、<strong>display:inline-block</strong>、<strong>display:flex</strong>、<strong>display:inline-flex</strong>、<strong>display:grid</strong>、<strong>display:inline-grid</strong> 或 <strong>display:flow-root</strong>。
+inactive-css-not-floated-fix-1 = 请尝试添加 <strong>float</strong> 属性，使用 <strong>none</strong> 以外的值。
+inactive-css-position-property-on-unpositioned-box-fix-1 = 请尝试将其 <strong>position</strong> 属性设为非 <strong>static</strong> 的值。
+inactive-css-only-replaced-elements-fix-1 = 请确保您在对可替换元素添加此属性。
+inactive-text-overflow-when-no-overflow-fix-1 = 请尝试添加 <strong>overflow:hidden</strong>。
+inactive-css-no-size-containment-fix-1 = 请尝试将其 <strong>display</strong> 属性设为 <strong>none</strong>、<strong>contents</strong>、<strong>table</strong> 和 <strong>inline-table</strong> 以外的值，并确认其不在表格和 ruby 段落中。
+inactive-css-not-for-internal-table-elements-fix-1 = 请尝试将其 <strong>display</strong> 设为 <strong>table-cell</strong>、<strong>table-column</strong>、<strong>table-row</strong>、<strong>table-column-group</strong>、<strong>table-row-group</strong> 或 <strong>table-footer-group</strong> 以外的值。
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = 请尝试将其 <strong>display</strong> 设为 <strong>table-column</strong>、<strong>table-row</strong>、<strong>table-column-group</strong>、<strong>table-row-group</strong> 或 <strong>table-footer-group</strong> 以外的值。
+inactive-css-not-table-fix-1 = 请尝试添加 <strong>display:table</strong> 或 <strong>display:inline-table</strong>。
+inactive-css-collapsed-table-borders-fix-1 = 请尝试添加 <strong>border-collapse:separate</strong>。
+inactive-css-not-table-cell-fix-1 = 请尝试添加<strong>display:table-cell</strong>。
+inactive-scroll-padding-when-not-scroll-container-fix-1 = 请尝试添加 <strong>overflow:auto</strong>、<strong>overflow:scroll</strong> 或 <strong>overflow:hidden</strong>。
+inactive-css-border-image-fix-1 = 请在父表格元素上移除该属性，或将 <strong>border-collapse</strong> 的值更改为 <strong>collapse</strong> 以外的值。
+inactive-css-resize-fix-1 = 请尝试将 <strong>overflow</strong> 的值由 <strong>visible</strong> 改为其他值，或将其目标更改为支持其的可替换元素。
+inactive-css-ruby-element-fix-1 = 请尝试调整 ruby 文本的 <strong>font-size</strong>。
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = 请尝试减少行数。
+inactive-css-text-wrap-balance-fragmented-fix-1 = 避免分割元素的内容，比如移除横栏或使用 <strong>page-break-inside:avoid</strong>。
+inactive-css-no-principal-box-fix-1 = 尝试添加一个能创建主体盒子的 <strong>display</strong> 值，例如 <strong>block</strong>、<strong>inline-block</strong>、<strong>flex</strong> 或 <strong>grid</strong>。
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

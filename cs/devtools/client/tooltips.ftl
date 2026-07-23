@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Zjistit více</span>
+devtools-tooltip-learn-more = Zjistit více
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -125,6 +134,45 @@ inactive-css-ruby-element-fix = Zkuste změnit <strong>font-size</strong> textu 
 inactive-css-text-wrap-balance-lines-exceeded-fix = Pokuste se snížit počet řádků. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Vyhněte se rozdělení obsahu prvku, např. odstraněním sloupců nebo použitím <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Zkuste přidat hodnotu <strong>display</strong>, která vytvoří hlavní box, např. <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> nebo <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong> nebo <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong> nebo <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Zkuste přidat buď <strong>column-count</strong> nebo <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Zkuste přidat <strong>column-count</strong> nebo <strong>column-width</strong> k jednomu z jejich nadřazených prvků.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Zkuste k prvku přidat <strong>position:absolute</strong> nebo <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> nebo <strong>display:inline-flex</strong> k rodiči prvku.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Zkuste přidat <strong>position:absolute</strong> k prvku nebo <strong>display:grid</strong> či <strong>display:inline-grid</strong> k rodiči prvku.
+inactive-css-not-absolutely-positioned-item-fix-1 = Zkuste k prvku přidat <strong>position:absolute</strong>.
+inactive-css-no-default-anchor-fix-1 = Zkuste přidat <strong>position-anchor</strong> s platným názvem kotvy.
+inactive-css-not-grid-or-flex-item-fix-4 = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> nebo <strong>display:inline-flex</strong> k rodiči tohoto prvku.
+inactive-css-not-grid-item-fix-3 = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:inline-grid</strong> k rodiči tohoto prvku.
+inactive-css-not-grid-container-fix-1 = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Zkuste přidat <strong>display:flex</strong> nebo <strong>display:inline-flex</strong> k rodiči tohoto prvku.
+inactive-css-not-flex-container-fix-1 = Zkuste přidat <strong>display:flex</strong> nebo <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Zkuste přidat <strong>display:inline</strong> nebo <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Zkuste přidat <strong>display:inline-block</strong> nebo <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Zkuste přidat <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Zkuste odstranit <strong>float</strong> nebo přidat <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Zkuste změnit hodnotu <strong>display</strong> kontejneru prvku na jinou než <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> nebo <strong>inline-grid</strong>. Případně odstraňte <strong>float</strong>.
+inactive-css-not-block-fix-1 = Zkuste přidat vlastnosti jako <strong>display:block</strong> nebo <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Zkuste přidat <strong>display:block</strong>, <strong>display:inline-block</strong> nebo <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Zkuste přidat <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> nebo <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Zkuste přidat vlastnost <strong>float</strong> s jinou hodnotou než <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Zkuste nastavit vlastnost <strong>position</strong> na jinou hodnotu než <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Ujistěte se, že vlastnost přidáváte k nahrazovanému prvku.
+inactive-text-overflow-when-no-overflow-fix-1 = Zkuste přidat <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Zkuste nastavit vlastnost <strong>display</strong> na jinou hodnotu než <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> nebo <strong>inline-table</strong> a ujistěte se, že není v rámci tabulky nebo ruby segmentu.
+inactive-css-not-for-internal-table-elements-fix-1 = Zkuste nastavit vlastnost <strong>display</strong> na jinou hodnotu než <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> nebo <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Zkuste nastavit vlastnost <strong>display</strong> na jinou hodnotu než <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> nebo <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Zkuste přidat <strong>display:table</strong> nebo <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Zkuste přidat <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Zkuste přidat <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Zkuste přidat <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> nebo <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = V nadřazeném prvku tabulky odstraňte vlastnost nebo změňte hodnotu <strong>border-collapse</strong> na jinou hodnotu než <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Zkuste nastavit <strong>overflow</strong> na jinou hodnotu než <strong>visible</strong> nebo se zaměřte na nahrazený prvek, který jej podporuje.
+inactive-css-ruby-element-fix-1 = Zkuste změnit <strong>font-size</strong> textu prvku ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Pokuste se snížit počet řádků.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Vyhněte se rozdělení obsahu prvku, např. odstraněním sloupců nebo použitím <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Zkuste přidat hodnotu <strong>display</strong>, která vytvoří hlavní box, např. <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> nebo <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

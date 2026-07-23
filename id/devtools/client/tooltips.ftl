@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Pelajari lebih lanjut</span>
+devtools-tooltip-learn-more = Pelajari lebih lanjut
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -104,6 +113,38 @@ inactive-css-resize-fix = Coba atur <strong>overflow</strong> ke nilai selain <s
 inactive-css-ruby-element-fix = Coba ubah <strong>ukuran fon</strong> dari teks ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Coba kurangi jumlah baris. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Hindari pemisahan konten elemen, mis. dengan menghapus kolom atau dengan menggunakan <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Coba tambahkan <strong>display:grid</strong> atau <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Coba tambahkan <strong>display:grid</strong>, <strong>display:flex</strong>, atau <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Coba tambahkan baik <strong>display:grid</strong>, <strong>display:flex</strong>, maupun <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Coba tambahkan <strong>jumlah kolom</strong> atau <strong>lebar kolom</strong>.
+inactive-css-column-span-fix-1 = Coba tambahkan <strong>column-count</strong> atau <strong>column-width</strong> ke salah satu elemen pendahulunya.
+inactive-css-not-grid-or-flex-item-fix-4 = Coba tambahkan <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, atau <strong>display:inline-flex</strong> ke induk elemen.
+inactive-css-not-grid-item-fix-3 = Coba tambahkan <strong>display:grid</strong> atau <strong>display:inline-grid</strong> pada induk elemen.
+inactive-css-not-grid-container-fix-1 = Coba tambahkan <strong>display:grid</strong> atau <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Coba tambahkan <strong>display:flex</strong> atau <strong>display:inline-flex</strong> pada induk elemen.
+inactive-css-not-flex-container-fix-1 = Coba tambahkan <strong>display:flex</strong> atau <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Coba tambahkan baik <strong>display:inline</strong> maupun <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Coba tambahkan baik <strong>display:inline-block</strong> maupun <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Coba tambahkan <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Coba hapus <strong>float</strong> atau menambahkan <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Coba ubah nilai <strong>display</strong> pada kontainer elemen ke selain <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, atau <strong>inline-grid</strong>, atau hapus <strong>float</strong>.
+inactive-css-not-block-fix-1 = Coba tambahkan properti seperti <strong>display:block</strong> atau <strong>float:left</strong>.
+inactive-css-not-floated-fix-1 = Coba tambahkan properti <strong>float</strong> dengan nilai selain <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Coba atur properti <strong>position</strong> menjadi selain <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Pastikan Anda menambahkan properti ke elemen tergantikan.
+inactive-text-overflow-when-no-overflow-fix-1 = Coba tambahkan <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Coba atur properti <strong>display</strong>-nya ke selain <strong>none</strong>, <strong>contents</strong>, <strong>table</strong>, atau <strong>inline-table</strong>, dan pastikan elemen tersebut tidak berada dalam tabel atau segmen ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>.
+inactive-css-not-table-fix-1 = Coba tambahkan <strong>display:table</strong> atau <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Coba tambahkan <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Coba tambahkan <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Coba tambahkan <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, atau <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Pada elemen tabel induk, hapus properti atau ubah nilai <strong>border-collapse</strong> ke nilai selain <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Coba atur <strong>overflow</strong> ke nilai selain <strong>visible</strong> atau targetkan elemen pengganti yang mendukungnya.
+inactive-css-ruby-element-fix-1 = Coba ubah <strong>ukuran fon</strong> dari teks ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Coba kurangi jumlah baris.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Hindari pemisahan konten elemen, mis. dengan menghapus kolom atau dengan menggunakan <strong>page-break-inside:avoid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -127,3 +168,10 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Pelajari lebi
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Selektor ini menggunakan <strong>:has()</strong> tanpa batasan, yang dapat memperlambat kinerja
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+

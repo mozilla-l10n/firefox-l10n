@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Learn more</span>
+devtools-tooltip-learn-more = Learn more
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -36,6 +45,16 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> has no effect on this element since it cannot be applied to internal table elements where <strong>border-collapse</strong> is set to <strong>collapse</strong> on the parent table element.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
+
+## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved. CSS properties and values in <strong> tags should
 ## not be translated.
@@ -58,6 +77,24 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Try settin
 inactive-css-not-table-fix = Try adding <strong>display:table</strong> or <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Try adding <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, or <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = On the parent table element, remove the property or change the value of <strong>border-collapse</strong> to a value other than <strong>collapse</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Try adding <strong>display:grid</strong> or <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Try adding either <strong>display:grid</strong>, <strong>display:flex</strong>, or <strong>columns:2</strong>.
+inactive-css-not-grid-or-flex-item-fix-4 = Try adding <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, or <strong>display:inline-flex</strong> to the element’s parent.
+inactive-css-not-grid-item-fix-3 = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong> to the element’s parent.
+inactive-css-not-grid-container-fix-1 = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Try adding <strong>display:flex</strong> or <strong>display:inline-flex</strong> to the element’s parent.
+inactive-css-not-flex-container-fix-1 = Try adding <strong>display:flex</strong> or <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Try adding <strong>display:inline</strong> or <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Try adding <strong>display:inline-block</strong> or <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Try adding <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Try removing <strong>float</strong> or adding <strong>display:block</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Try setting its <strong>position</strong> property to something other than <strong>static</strong>.
+inactive-text-overflow-when-no-overflow-fix-1 = Try adding <strong>overflow:hidden</strong>.
+inactive-css-not-for-internal-table-elements-fix-1 = Try setting its <strong>display</strong> property to something else than <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Try setting its <strong>display</strong> property to something else than <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Try adding <strong>display:table</strong> or <strong>display:inline-table</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Try adding <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, or <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = On the parent table element, remove the property or change the value of <strong>border-collapse</strong> to a value other than <strong>collapse</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -74,3 +111,15 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> is an experimental property. It is not supported in the following browsers:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> is an experimental property.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Learn more</span> about <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+

@@ -6,6 +6,7 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">詳細</span>
+devtools-tooltip-learn-more = 詳細
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -85,7 +86,8 @@ inactive-css-no-principal-box = <strong>{ $property }</strong> は主ボック�
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> または <strong>display:flex</strong> を追加してみてください。{ learn-more }
 inactive-css-not-grid-or-flex-or-block-container-fix = <strong>display:grid</strong> または <strong>display:flex</strong>、<strong>display:block</strong> のいずれかを追加してみてください。{ learn-more }
@@ -126,6 +128,45 @@ inactive-css-ruby-element-fix = ルビテキストの <strong>font-size</strong>
 inactive-css-text-wrap-balance-lines-exceeded-fix = 行数を減らしてみてください。{ learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = 要素のコンテンツの分断を避けてください。段組みを止めるか <strong>page-break-inside:avoid</strong> の使用を検討してください。{ learn-more }
 inactive-css-no-principal-box-fix = <strong>display</strong> に主ボックスを作成する値 <strong>block</strong> または <strong>inline-block</strong>、<strong>flex</strong>、<strong>grid</strong> のいずれかを追加してみてください。{ learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = <strong>display:grid</strong> または <strong>display:flex</strong> を追加してみてください。
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = <strong>display:grid</strong> または <strong>display:flex</strong>、<strong>display:block</strong> のいずれかを追加してみてください。
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = <strong>display:grid</strong> または <strong>display:flex</strong>、<strong>columns:2</strong> のいずれかを追加してみてください。
+inactive-css-not-multicol-container-fix-1 = <strong>column-count</strong> または <strong>column-width</strong> を追加してみてください。
+inactive-css-column-span-fix-1 = <strong>column-count</strong> または <strong>column-width</strong> をそのいずれかの祖先要素に追加してみてください。
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = <strong>position:absolute</strong> を要素に、または <strong>display:grid</strong>、<strong>display:flex</strong>、<strong>display:inline-grid</strong>、<strong>display:inline-flex</strong> のいずれかを要素の親に追加してみてください。
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = <strong>position:absolute</strong> を要素に、または <strong>display:grid</strong>、<strong>display:inline-grid</strong> のいずれかを要素の親に追加してみてください。
+inactive-css-not-absolutely-positioned-item-fix-1 = <strong>position:absolute</strong> を要素に追加してみてください。
+inactive-css-no-default-anchor-fix-1 = <strong>position-anchor</strong> を正しいアンカー名で追加してみてください。
+inactive-css-not-grid-or-flex-item-fix-4 = <strong>display:grid</strong> または <strong>display:flex</strong>、<strong>display:inline-grid</strong>、<strong>display:inline-flex</strong> のいずれかを要素の親に追加してみてください。
+inactive-css-not-grid-item-fix-3 = <strong>display:grid</strong> または <strong>display:inline-grid</strong> を要素の親に追加してみてください。
+inactive-css-not-grid-container-fix-1 = <strong>display:grid</strong> または <strong>display:inline-grid</strong> を追加してみてください。
+inactive-css-not-flex-item-fix-3 = <strong>display:flex</strong> または <strong>display:inline-flex</strong> を要素の親に追加してみてください。
+inactive-css-not-flex-container-fix-1 = <strong>display:flex</strong> または <strong>display:inline-flex</strong> を追加してみてください。
+inactive-css-not-inline-or-tablecell-fix-1 = <strong>display:inline</strong> または <strong>display:table-cell</strong> を追加してみてください。
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = <strong>display:inline-block</strong> または <strong>display:block</strong> を追加してみてください。
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = <strong>display:inline-block</strong> を追加してみてください。
+inactive-css-not-display-block-on-floated-fix-1 = <strong>float</strong> を削除、または <strong>display:block</strong> を追加してみてください。
+inactive-css-only-non-grid-or-flex-item-fix-1 = 要素のコンテナーの <strong>display</strong> の値を <strong>flex</strong>、<strong>grid</strong>、<strong>inline-flex</strong> または <strong>inline-grid</strong> 以外に変更するか、<strong>float</strong> を削除してみてください。
+inactive-css-not-block-fix-1 = <strong>display:block</strong> または <strong>float:left</strong> などのプロパティを追加してみてください。
+inactive-css-not-block-container-fix-1 = <strong>display:block</strong>, <strong>display:inline-block</strong> または <strong>display:flow-root</strong> を追加してみてください。
+inactive-css-not-block-flex-grid-container-fix-1 = <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> または <strong>display:flow-root</strong> を追加してみてください。
+inactive-css-not-floated-fix-1 = <strong>float</strong> プロパティを追加し、<strong>none</strong> 以外の値を指定してみてください。
+inactive-css-position-property-on-unpositioned-box-fix-1 = <strong>position</strong> プロパティに <strong>static</strong> 以外の値を設定してみてください。
+inactive-css-only-replaced-elements-fix-1 = このプロパティを置き換えられた要素に追加しているか確認してください。
+inactive-text-overflow-when-no-overflow-fix-1 = <strong>overflow:hidden</strong> を追加してみてください。
+inactive-css-no-size-containment-fix-1 = <strong>display</strong> プロパティの値を <strong>none</strong>、<strong>contents</strong>、<strong>table</strong> または <strong>inline-table</strong> 以外のものに設定し、table や ruby セグメント内ではないことを確認してください。
+inactive-css-not-for-internal-table-elements-fix-1 = <strong>セル</strong>、<strong>列</strong>、<strong>行</strong>、<strong>列グループ</strong>、<strong>行グループ</strong> または <strong>フッターグループ</strong> 以外の要素に <strong>display</strong> プロパティを設定してみてください。
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = <strong>列</strong>、<strong>行</strong>、<strong>列グループ</strong>、<strong>行グループ</strong> または <strong>フッターグループ</strong> 以外の要素に <strong>display</strong> プロパティを設定してみてください。
+inactive-css-not-table-fix-1 = <strong>display:table</strong> または <strong>display:inline-table</strong> を追加してみてください。
+inactive-css-collapsed-table-borders-fix-1 = <strong>border-collapse:separate</strong> を追加してみてください。
+inactive-css-not-table-cell-fix-1 = <strong>display:table-cell</strong> を追加してみてください。
+inactive-scroll-padding-when-not-scroll-container-fix-1 = <strong>overflow:auto</strong>、<strong>overflow:scroll</strong> または <strong>overflow:hidden</strong> を追加してみてください。
+inactive-css-border-image-fix-1 = 親テーブル要素のプロパティを削除するか <strong>border-collapse</strong> を <strong>collapse</strong> 以外の値を変更してみてください。
+inactive-css-resize-fix-1 = <strong>overflow</strong> を <strong>visible</strong> 以外の値に設定するか、このプロパティをサポートする置き換えられた要素に適用してみてください。
+inactive-css-ruby-element-fix-1 = ルビテキストの <strong>font-size</strong> を変更してみてください。
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = 行数を減らしてみてください。
+inactive-css-text-wrap-balance-fragmented-fix-1 = 要素のコンテンツの分断を避けてください。段組みを止めるか <strong>page-break-inside:avoid</strong> の使用を検討してください。
+inactive-css-no-principal-box-fix-1 = <strong>display</strong> に主ボックスを作成する値 <strong>block</strong> または <strong>inline-block</strong>、<strong>flex</strong>、<strong>grid</strong> のいずれかを追加してみてください。
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

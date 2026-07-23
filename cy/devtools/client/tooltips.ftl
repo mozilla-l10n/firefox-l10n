@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name ="link">Darllen rhagor</span>
+devtools-tooltip-learn-more = Darllen rhagor
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -127,6 +136,45 @@ inactive-css-ruby-element-fix = Ceisio newid <strong>maint ffont</strong> y test
 inactive-css-text-wrap-balance-lines-exceeded-fix = Ceisiwch leihau nifer y llinellau.{ learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Osgowch hollti cynnwys yr elfen e.e. drwy dynnu'r colofnau neu drwy ddefnyddio <strong>page-break-inside:avoid</strong>.{ learn-more }
 inactive-css-no-principal-box-fix = Ceisiwch ychwanegu gwerth <strong>arddangos</strong> sy'n creu prif flwch, fel <strong>bloc</strong>, <strong>bloc mewn-lein</strong>, <strong>flex</strong>, neu <strong>grid</strong>.{ learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong> neu <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Ceisiwch ychwanegu naill ai <strong>display:grid</strong>, <strong>display:flex</strong>, neu <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Ceisiwch ychwanegu <strong>column-count</strong> neu <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Ceisiwch ychwanegu <strong>column-count</strong> neu <strong>column-width</strong> at un o'i elfennau hynafiaid .
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Ceisiwch ychwanegu <strong>position:absolute</strong> i'r elfen, neu <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> >, neu <strong>display:inline-flex</strong> i riant yr elfen.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Ceisiwch ychwanegu <strong>position:absolute</strong> i'r elfen, neu <strong>display:grid</strong> neu <strong>display:inline-grid</strong> i riant yr elfen.
+inactive-css-not-absolutely-positioned-item-fix-1 = Ceisiwch ychwanegu <strong>position:absolute</strong> i'r elfen.
+inactive-css-no-default-anchor-fix-1 = Ceisiwch ychwanegu <strong>position-anchor</strong> gydag enw angor dilys.
+inactive-css-not-grid-or-flex-item-fix-4 = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> neu <strong>display:inline-flex</strong> i riant yr elfen.
+inactive-css-not-grid-item-fix-3 = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong> at riant yr elfen.
+inactive-css-not-grid-container-fix-1 = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Ceisiwch ychwanegu <strong>display:flex</strong> neu <strong>display:inline-flex</strong> i riant yr elfen.
+inactive-css-not-flex-container-fix-1 = Ceisiwch ychwanegu <strong>display:flex</strong> neu <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Ceisiwch ychwanegu <strong>display:inline</strong> neu <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Ceisiwch ychwanegu <strong>display:inline-block</strong> neu <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Ceisiwch ychwanegu <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Ceisiwch dynnu <strong>float</strong> neu <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Ceisiwch newid gwerth <strong>dangos</strong> cynhwysydd yr elfen i rywbeth heblaw <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, neu <strong>inline-grid</strong>, neu dynnu <strong>float</strong>.
+inactive-css-not-block-fix-1 = Ceisiwch ychwanegu priodweddau fel <strong>display:block</strong> neu <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Ceisiwch ychwanegu <strong>display:block</strong>, <strong>display:inline-block</strong> neu <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Ceisiwch ychwanegu <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> neu <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Ceisiwch ychwanegu'r priodwedd <strong>float</strong> gyda gwerth heblaw <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Ceisiwch osod priodwedd ei <strong>leoliad</strong> i rywbeth arall heblaw <strong>statig</strong>.
+inactive-css-only-replaced-elements-fix-1 = Gwnewch yn siŵr eich bod yn ychwanegu'r briodwedd at elfen newydd.
+inactive-text-overflow-when-no-overflow-fix-1 = Ceisiwch ychwanegu <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Ceisiwch osod ei briodwedd <strong>dangos</strong> i rywbeth heblaw <strong>dim</strong>, <strong>cynnwys</strong>, <strong>tabl</strong>, neu <strong>tabl mewn-lein </strong>a gwnewch yn siŵr nad yw o fewn tabl neu segment ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>cell-tabl</strong>, <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>.
+inactive-css-not-table-fix-1 = Ceisiwch ychwanegu <strong>display:table</strong> neu <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Ceisiwch ychwanegu <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Ceisiwch ychwanegu <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Ceisiwch ychwanegu <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> neu <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Ar yr elfen tabl rhiant, tynnwch y briodwedd neu newidiwch werth <strong>cwymp-ffiniol</strong> i werth heblaw <strong>cwymp</strong>.
+inactive-css-resize-fix-1 = Ceisiwch osod <strong>gorlif</strong> i werth heblaw <strong>gweladwy</strong> neu dargedu elfen newydd sy'n ei gynnal.
+inactive-css-ruby-element-fix-1 = Ceisio newid <strong>maint ffont</strong> y testun ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Ceisiwch leihau nifer y llinellau.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Osgowch hollti cynnwys yr elfen e.e. drwy dynnu'r colofnau neu drwy ddefnyddio <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Ceisiwch ychwanegu gwerth <strong>arddangos</strong> sy'n creu prif flwch, fel <strong>bloc</strong>, <strong>bloc mewn-lein</strong>, <strong>flex</strong>, neu <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

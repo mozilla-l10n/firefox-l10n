@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Kuaave</span>
+devtools-tooltip-learn-more = Kuaave
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -122,6 +131,44 @@ inactive-css-ruby-element-fix = Emoambuekuaa <strong>teñoiha tuichakue</strong>
 inactive-css-text-wrap-balance-lines-exceeded-fix = Eñeha’ã emomichĩ tairenda jeporu. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Aníke emboja’o mba’eporu retepy, techapyrã: emboguévo umi yta térã eiporúvo <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Eñeha’ã embojuaju <strong>display</strong> repykue omoheñóiva kora guasu, ikatúva <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> térã <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong> térã <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong> térã <strong>yta:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Eñeha’ã embojuaju <strong>column-count</strong> térã <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Eñeha’ã embojuaju <strong>column-count</strong> térã <strong>column-width</strong> peteĩva mba’eporu oĩmavape.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Embojuaju <strong>position:absolute</strong> mba’eporúpe, térã <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> térã <strong>display:inline-flex</strong>pe mba’eporu túvape.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Embojuaju <strong>position:absolute</strong> mba’eporúpe, térã <strong>display:grid</strong> térã <strong>display:inline-grid</strong> pe mba’eporu rúpe.
+inactive-css-not-absolutely-positioned-item-fix-1 = Eñeha’ã embojuaju <strong>position:absolute</strong> mba’eporúpe.
+inactive-css-no-default-anchor-fix-1 = Eñeha’ã embojuaju <strong>position-anchor</strong> téra oikóva ndive.
+inactive-css-not-grid-or-flex-item-fix-4 = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> térã <strong>display:inline-flex</strong> pe mba’eporu túvape.
+inactive-css-not-grid-item-fix-3 = Embojuaju <strong>display:grid</strong> térã <strong>display:inline-grid</strong> ítem rúpe.
+inactive-css-not-grid-container-fix-1 = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Embojuaju <strong>display:flex</strong> térã <strong>display:inline-flex</strong> mba’eporu rúpe.
+inactive-css-not-flex-container-fix-1 = Eñeha’ã embojuaju <strong>display:flex</strong> térã <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Eñeha’ã embojuaju <strong>display:inline</strong> térã <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Eñaha’ã embojuaju <strong>display:inline-block</strong> térã <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Eñeha’ã embojuaju <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Embogue <strong>vevúiva</strong> térã embojuaju <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Eñeha’ã emoambue <strong>display</strong> repykue pe mba’eporu mbyatyhápe peteĩ iñambuévape <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, térã <strong>inline-grid</strong>, térã emboguévo <strong>float</strong>.
+inactive-css-not-block-fix-1 = Eñeha’ã embojuaju <strong>display:block</strong> térã <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Embojuaju <strong>display:block</strong>, <strong>display:inline-block</strong> térã <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Eñeha’ã embojuaju <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> térã <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Eñeha’ã embojuaju upe mba’etee <strong>float</strong> hepykue ambuéva <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Eñeha’ã emboheko <strong>rendatee</strong> mba’éva tuichavéva <strong>opytáva</strong>.
+inactive-css-only-replaced-elements-fix-1 = Eñeha’ã embojuaju mba’etee mba’eporu myengoviapyrépe.
+inactive-text-overflow-when-no-overflow-fix-1 = Eñeha’ã embojuaju <strong>overflow:hidden</strong>.
+inactive-css-not-for-internal-table-elements-fix-1 = Ikatu emboheko imba’etee <strong>display</strong> iñambuéva<strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Ikatúma emboheko imba’etee <strong>display</strong>iñambuéva<strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> térã <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Eñeha’ã embojuaju <strong>display:table</strong> térã <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Eñeha’ã embojuaju <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Eñeha’ã embojuaju <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Ehecha embojuaju <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, térã <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Pe mba’eporu tabla tuichavéva, embogue mbapetee térã iñambue tepykue <strong>border-collapse</strong> tepykue ha’e’ỹva <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Eñeha’ã emboheko <strong>overflow</strong> iñambuévagui <strong>ojehecháva</strong> térã ema’ẽ peteĩ mba’eporu moambuepyre omoneĩva.
+inactive-css-ruby-element-fix-1 = Emoambuekuaa <strong>teñoiha tuichakue</strong> moñe’rã pytãva.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Eñeha’ã emomichĩ tairenda jeporu.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Aníke emboja’o mba’eporu retepy, techapyrã: emboguévo umi yta térã eiporúvo <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Eñeha’ã embojuaju <strong>display</strong> repykue omoheñóiva kora guasu, ikatúva <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> térã <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

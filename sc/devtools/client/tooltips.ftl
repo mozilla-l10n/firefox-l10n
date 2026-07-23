@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Àteras informatziones</span>
+devtools-tooltip-learn-more = Àteras informatziones
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -25,6 +34,16 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = <strong>{ $property }</strong> non tenet nissunu efetu in custu elementu dae chi no est una tabella.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
+
+## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved. CSS properties and values in <strong> tags should
 ## not be translated.
@@ -34,6 +53,11 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Proa a agiù
 inactive-css-not-grid-or-flex-item-fix-3 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> a s'elementu "parent". { learn-more }
 inactive-css-not-grid-container-fix = Proa a agiùnghere <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Proa a redùere su nùmeru de lìnias. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Proa a agiùnghere <strong>display:grid</strong> o <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>.
+inactive-css-not-grid-or-flex-item-fix-4 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> a s'elementu "parent".
+inactive-css-not-grid-container-fix-1 = Proa a agiùnghere <strong>display:grid</strong> o <strong>display:inline-grid</strong>.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Proa a redùere su nùmeru de lìnias.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -47,3 +71,15 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> est una propiedade isperimentale. No est cumpatìbile cun is navigadores chi sighint:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> est una propiedade isperimentale.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Àteras informatziones</span> in pitzus de <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+

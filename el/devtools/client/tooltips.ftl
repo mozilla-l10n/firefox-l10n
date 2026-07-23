@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Μάθετε περισσότερα</span>
+devtools-tooltip-learn-more = Μάθετε περισσότερα
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,45 @@ inactive-css-ruby-element-fix = Δοκιμάστε να αλλάξετε το <s
 inactive-css-text-wrap-balance-lines-exceeded-fix = Προσπαθήστε να μειώσετε τον αριθμό των γραμμών. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Αποφύγετε τον διαχωρισμό περιεχομένου του στοιχείου, π.χ. αφαιρώντας τις στήλες ή χρησιμοποιώντας το <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Δοκιμάστε να προσθέσετε μια τιμή <strong>display</strong> που δημιουργεί ένα κύριο πλαίσιο, όπως <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ή <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong> ή το <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong> ή το <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Δοκιμάστε να προσθέσετε είτε το <strong>column-count</strong> είτε το <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Δοκιμάστε να προσθέσετε το <strong>column-count</strong> ή το <strong>column-width</strong> σε ένα από τα προγονικά του στοιχεία.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Δοκιμάστε να προσθέσετε το <strong>position:absolute</strong> στο στοιχείο ή το <strong>display:grid</strong>, το <strong>display:flex</strong>, το <strong>display:inline-grid</strong> ή το <strong>display:inline-flex</strong> στο γονικό στοιχείο.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Δοκιμάστε να προσθέσετε το <strong>position:absolute</strong> στο στοιχείο, ή το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong> στο γονικό στοιχείο.
+inactive-css-not-absolutely-positioned-item-fix-1 = Δοκιμάστε να προσθέσετε το <strong>position:absolute</strong> στο στοιχείο.
+inactive-css-no-default-anchor-fix-1 = Δοκιμάστε να προσθέσετε το <strong>position-anchor</strong> με έγκυρο όνομα άγκυρας.
+inactive-css-not-grid-or-flex-item-fix-4 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong>, το <strong>display:inline-grid</strong> ή το <strong>display:inline-flex</strong> στο γονικό στοιχείο.
+inactive-css-not-grid-item-fix-3 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong> στο γονικό στοιχείο.
+inactive-css-not-grid-container-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Δοκιμάστε να προσθέσετε το <strong>display:flex</strong> ή  το <strong>display:inline-flex</strong> στο γονικό στοιχείο.
+inactive-css-not-flex-container-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:flex</strong> ή το <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:inline</strong> ή το <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:inline-block</strong> ή το <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Δοκιμάστε να αφαιρέσετε το <strong>float</strong> ή να προσθέσετε το <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Δοκιμάστε να αλλάξετε την τιμή του <strong>display</strong> του περιέκτη του στοιχείου σε κάτι άλλο εκτός των <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> ή <strong>inline-grid</strong>, ή να καταργήσετε το <strong>float</strong>.
+inactive-css-not-block-fix-1 = Δοκιμάστε να προσθέσετε ιδιότητες, όπως <strong>display:block</strong> ή <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:block</strong>, το <strong>display:inline-block</strong> ή το <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Δοκιμάστε να προσθέσετε τα <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> ή <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Δοκιμάστε να προσθέσετε την ιδιότητα <strong>float</strong> με μια τιμή εκτός της <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Δοκιμάστε να ορίσετε την ιδιότητα <strong>position</strong> του σε κάτι άλλο εκτός από <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Βεβαιωθείτε ότι προσθέτετε την ιδιότητα σε ένα στοιχείο που έχει αντικατασταθεί.
+inactive-text-overflow-when-no-overflow-fix-1 = Δοκιμάστε να προσθέσετε το <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Δοκιμάστε να ορίσετε την ιδιότητα <strong>display</strong> του σε κάτι άλλο, εκτός από <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ή <strong>inline-table</strong> και βεβαιωθείτε ότι δεν βρίσκεται εντός πίνακα ή ενότητας ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Δοκιμάστε να ορίσετε την ιδιότητα <strong>display</strong> του σε κάτι άλλο εκτός από <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ή <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Δοκιμάστε να ορίσετε την ιδιότητα <strong>display</strong> του σε κάτι άλλο εκτός από <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ή <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:table</strong> ή το <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Δοκιμάστε να προσθέσετε το <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Δοκιμάστε να προσθέσετε το <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Δοκιμάστε να προσθέσετε το <strong>overflow:auto</strong>, το <strong>overflow:scroll</strong>, ή το <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Στο στοιχείο γονικού πίνακα, καταργήστε την ιδιότητα ή αλλάξτε την τιμή του <strong>border-collapse</strong> σε μια τιμή εκτός της <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Δοκιμάστε να ορίσετε το <strong>overflow</strong> σε μια τιμή εκτός της <strong>visible</strong> ή να στοχεύσετε ένα στοιχείο που έχει αντικατασταθεί και το υποστηρίζει.
+inactive-css-ruby-element-fix-1 = Δοκιμάστε να αλλάξετε το <strong>font-size</strong> του κειμένου ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Προσπαθήστε να μειώσετε τον αριθμό των γραμμών.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Αποφύγετε τον διαχωρισμό περιεχομένου του στοιχείου, π.χ. αφαιρώντας τις στήλες ή χρησιμοποιώντας το <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Δοκιμάστε να προσθέσετε μια τιμή <strong>display</strong> που δημιουργεί ένα κύριο πλαίσιο, όπως <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ή <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

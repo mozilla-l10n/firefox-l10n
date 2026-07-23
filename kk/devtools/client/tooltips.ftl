@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Көбірек білу</span>
+devtools-tooltip-learn-more = Көбірек білу
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,45 @@ inactive-css-ruby-element-fix = Ruby мәтінінің <strong>font-size</stron
 inactive-css-text-wrap-balance-lines-exceeded-fix = Жолдар санын азайтып көріңіз. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Элемент мазмұнын бөлуге жол бермеңіз, мысалы: бағандарды өшіру арқылы немесе <strong>page-break-inside:avoid</strong> арқылы. { learn-more }
 inactive-css-no-principal-box-fix = Элементке негізгі блок құратын <strong>display</strong> мәнін тағайындау ұсынылады, мысалы <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> немесе <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = <strong>display:grid</strong> немесе <strong>display:flex</strong> қосып көріңіз.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = <strong>display:grid</strong>, <strong>display:flex</strong> немесе <strong>display:block</strong> қосып көріңіз.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = <strong>display:grid</strong>, <strong>display:flex</strong>, немесе <strong>columns:2</strong> қосып көріңіз.
+inactive-css-not-multicol-container-fix-1 = <strong>column-count</strong> немесе <strong>column-width</strong> қосып көріңіз.
+inactive-css-column-span-fix-1 = Оның аталық элементтерінің біріне <strong>column-count</strong> немесе <strong>column-width</strong> қосып көріңіз.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Элементке <strong>position:absolute</strong> қосу немесе оның ата-анасына <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, немесе <strong>display:inline-flex</strong> қасиеттерін қолдану ұсынылады.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Элементке <strong>position:absolute</strong> қосу немесе оның ата-анасына <strong>display:grid</strong> немесе <strong>display:inline-grid</strong> қасиеттерін қолдану ұсынылады.
+inactive-css-not-absolutely-positioned-item-fix-1 = Элементке <strong>position:absolute</strong> қосып көріңіз.
+inactive-css-no-default-anchor-fix-1 = Жарамды зәкір атауымен бірге <strong>position-anchor</strong> қосып көріңіз.
+inactive-css-not-grid-or-flex-item-fix-4 = Элементтің аталық элементіне <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> немесе <strong>display:inline-flex</strong> қосып көріңіз.
+inactive-css-not-grid-item-fix-3 = Элементтің аталық элементіне <strong>display:grid</strong> немесе <strong>display:inline-grid</strong> қосып көріңіз.
+inactive-css-not-grid-container-fix-1 = <strong>display:grid</strong> немесе <strong>display:inline-grid</strong> қосып көріңіз.
+inactive-css-not-flex-item-fix-3 = Элементтің аталық элементіне <strong>display:flex</strong> немесе <strong>display:inline-flex</strong> қосып көріңіз.
+inactive-css-not-flex-container-fix-1 = <strong>display:flex</strong> немесе <strong>display:inline-flex</strong> қосып көріңіз.
+inactive-css-not-inline-or-tablecell-fix-1 = <strong>display:inline</strong> немесе <strong>display:table-cell</strong> қосып көріңіз.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = <strong>display:inline-block</strong> немесе <strong>display:block</strong> қосып көріңіз.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = <strong>display:inline-block</strong> қосып көріңіз.
+inactive-css-not-display-block-on-floated-fix-1 = <strong>float</strong> өшіріп немесе <strong>display:block</strong> қосып көріңіз.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Элемент контейнерінің <strong>display</strong> қасиеті мәнін <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> немесе <strong>inline-grid</strong> мәндерінен басқа мәнге ауыстырып көріңіз, немесе <strong>float</strong> өшіріп көріңіз.
+inactive-css-not-block-fix-1 = <strong>display:block</strong> немесе <strong>float:left</strong> сияқты қасиеттерді қосып көріңіз.
+inactive-css-not-block-container-fix-1 = <strong>display:block</strong>, <strong>display:inline-block</strong> немесе <strong>display:flow-root</strong> қасиеттерін қолдану ұсынылады.
+inactive-css-not-block-flex-grid-container-fix-1 = <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> немесе <strong>display:flow-root</strong> қасиеттерін қолдану ұсынылады.
+inactive-css-not-floated-fix-1 = Мәні <strong>none</strong> мәнінен басқа болатын <strong>float</strong> қасиетін қосып көріңіз.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Элементтің <strong>position</strong> қасиетін <strong>static</strong> шамасынан басқа мәніне орнатып көріңіз.
+inactive-css-only-replaced-elements-fix-1 = Қасиетті ауыстырылған элементке қосып тұрғаныңызға көз жеткізіңіз.
+inactive-text-overflow-when-no-overflow-fix-1 = <strong>overflow:hidden</strong> қосып көріңіз.
+inactive-css-no-size-containment-fix-1 = Оның <strong>display</strong> қасиетін <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> немесе <strong>inline-table</strong> емес басқа мәнге орнату ұсынылады, сондай-ақ оның table немесе ruby сегментінде еместігін тексеріңіз.
+inactive-css-not-for-internal-table-elements-fix-1 = Оның <strong>display</strong> қасиетін келесі мәндерден басқа мәнге орнатып көріңіз: <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, немесе <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Оның <strong>display</strong> қасиетін келесі мәндерден басқа мәнге орнатып көріңіз: <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, немесе <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = <strong>display:table</strong> немесе <strong>display:inline-table</strong> қосып көріңіз.
+inactive-css-collapsed-table-borders-fix-1 = <strong>border-collapse:separate</strong> қосып көріңіз.
+inactive-css-not-table-cell-fix-1 = <strong>display:table-cell</strong> қосып көріңіз.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, немесе <strong>overflow:hidden</strong> қосып көріңіз.
+inactive-css-border-image-fix-1 = Атылқ кесте элементінде, осы қасиетті өшіріңіз немесе <strong>border-collapse</strong> мәнін <strong>collapse</strong> мәнінен басқа мәнге орнатыңыз.
+inactive-css-resize-fix-1 = <strong>overflow</strong> параметрін <strong>visible</strong> мәнінен басқа мәнге немесе оны қолдайтын алмастырылатын элементке бағыттап көріңіз.
+inactive-css-ruby-element-fix-1 = Ruby мәтінінің <strong>font-size</strong> қасиетін өзгертіп көріңіз.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Жолдар санын азайтып көріңіз.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Элемент мазмұнын бөлуге жол бермеңіз, мысалы: бағандарды өшіру арқылы немесе <strong>page-break-inside:avoid</strong> арқылы.
+inactive-css-no-principal-box-fix-1 = Элементке негізгі блок құратын <strong>display</strong> мәнін тағайындау ұсынылады, мысалы <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> немесе <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

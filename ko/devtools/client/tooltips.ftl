@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">더 알아보기</span>
+devtools-tooltip-learn-more = 더 알아보기
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -119,6 +128,45 @@ inactive-css-ruby-element-fix = 윗주 텍스트의 <strong>font-size</strong>�
 inactive-css-text-wrap-balance-lines-exceeded-fix = 줄 수를 줄여보세요. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = 요소의 콘텐츠를 분할하지 마세요(예: 열을 제거하거나 <strong>page-break-inside:avoid</strong>를 사용하는 경우). { learn-more }
 inactive-css-no-principal-box-fix = <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, 또는 <strong>grid</strong>와 같은 주요 박스를 생성하는 <strong>display</strong> 값을 추가해보세요. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = <strong>display:grid</strong> 또는 <strong>display:flex</strong>를 추가해보세요.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = <strong>display:grid</strong>, <strong>display:flex</strong> 또는 <strong>display:block</strong>을 추가해 보세요.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = <strong>display:grid</strong>나 <strong>display:flex</strong>, <strong>columns:2</strong>를 추가해보세요.
+inactive-css-not-multicol-container-fix-1 = <strong>column-count</strong> 또는 <strong>column-width</strong>를 추가해보세요.
+inactive-css-column-span-fix-1 = 상위 요소 중 하나에 <strong>column-count</strong> 또는 <strong>column-width</strong>를 추가해 보세요.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = 요소에 <strong>position:absolute</strong>를 추가하거나 요소의 부모에 <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> 또는 <strong>display:inline-flex</strong>를 추가해 보세요.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = <strong>position:absolve</strong>을 요소에 추가하거나 <strong>display:grid</strong> 또는 <strong>display:inline-grid</strong>를 요소의 부모에 추가해보세요.
+inactive-css-not-absolutely-positioned-item-fix-1 = 요소에 <strong>position:absolve</strong>를 추가해보세요.
+inactive-css-no-default-anchor-fix-1 = 유효한 앵커 이름으로 <strong>position-anchor</strong>를 추가해보세요.
+inactive-css-not-grid-or-flex-item-fix-4 = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, 또는 <strong>display:inline-flex</strong>를 요소의 부모에 추가해보세요.
+inactive-css-not-grid-item-fix-3 = <strong>display:grid</strong> 또는 <strong>display:inline-grid</strong>를 요소의 부모에 추가해보세요.
+inactive-css-not-grid-container-fix-1 = <strong>display:grid</strong> 또는 <strong>display:inline-grid</strong>을 추가하세요.
+inactive-css-not-flex-item-fix-3 = <strong>display:flex</strong> 또는 <strong>display:inline-flex</strong>를 요소의 부모에 추가해보세요.
+inactive-css-not-flex-container-fix-1 = <strong>display:flex</strong> 또는 <strong>display:inline-flex</strong>을 추가해보세요.
+inactive-css-not-inline-or-tablecell-fix-1 = <strong>display:inline</strong> 또는 <strong>display:table-cell</strong>을 추가해보세요.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = <strong>display:inline-block</strong> 또는 <strong>display:block</strong>을 추가해보세요.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = <strong>display:inline-block</strong>을 추가해보세요.
+inactive-css-not-display-block-on-floated-fix-1 = <strong>float</strong>를 제거하거나 <strong>display:block</strong>을 추가해보세요.
+inactive-css-only-non-grid-or-flex-item-fix-1 = 요소 컨테이너의 <strong>display</strong> 값을 <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, <strong>inline-grid</strong> 이외의 값으로 변경하거나 <strong>float</strong>를 제거해보세요.
+inactive-css-not-block-fix-1 = <strong>display:block</strong> 또는 <strong>float:left</strong>와 같은 속성을 추가해 보세요.
+inactive-css-not-block-container-fix-1 = <strong>display:block</strong>, <strong>display:inline-block</strong> 또는 <strong>display:flow-root</strong>를 추가해 보세요.
+inactive-css-not-block-flex-grid-container-fix-1 = <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> 또는 <strong>display:flow-root</strong>를 추가해보세요.
+inactive-css-not-floated-fix-1 = <strong>none</strong> 이외의 값으로 <strong>float</strong> 속성을 추가해 보세요.
+inactive-css-position-property-on-unpositioned-box-fix-1 = <strong>position</strong> 속성을 <strong>static</strong> 이외의 것으로 설정해 보세요.
+inactive-css-only-replaced-elements-fix-1 = 대체된 요소에 속성을 추가하고 있는지 확인하세요.
+inactive-text-overflow-when-no-overflow-fix-1 = <strong>overflow:hidden</strong>을 추가해보세요.
+inactive-css-no-size-containment-fix-1 = <strong>display</strong> 속성을 <strong>none</strong>, <strong>contents</strong>, <strong>table</strong>, 또는 <strong>inline-table </strong> 이외의 것으로 설정해 보시고, 테이블이나 루비 세그먼트 내에 있지 않은지 확인하세요.
+inactive-css-not-for-internal-table-elements-fix-1 = <strong>display</strong> 속성을 <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, 또는 <strong>table-footer-group</strong> 이외의 것으로 설정해 보세요.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = <strong>display</strong> 속성을 <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, 또는 <strong>table-footer-group</strong> 이외의 것으로 설정해 보세요.
+inactive-css-not-table-fix-1 = <strong>display:table</strong> 또는 <strong>display:inline-table</strong>을 추가해보세요.
+inactive-css-collapsed-table-borders-fix-1 = <strong>border-collapse:separate</strong>를 추가해 보세요.
+inactive-css-not-table-cell-fix-1 = <strong>display:table-cell</strong>을 추가해보세요.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, 또는 <strong>overflow:hidden</strong>을 추가해보세요.
+inactive-css-border-image-fix-1 = 부모 테이블 요소에서 속성을 제거하거나 <strong>border-collapse</strong> 값을 <strong>collapse</strong> 이외의 값으로 변경합니다.
+inactive-css-resize-fix-1 = <strong>overflow</strong>를 <strong>visible</strong> 이외의 값으로 설정하거나 이를 지원하는 대체 요소를 타겟팅해 보세요.
+inactive-css-ruby-element-fix-1 = 윗주 텍스트의 <strong>font-size</strong>를 변경해 보세요.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = 줄 수를 줄여보세요.
+inactive-css-text-wrap-balance-fragmented-fix-1 = 요소의 콘텐츠를 분할하지 마세요(예: 열을 제거하거나 <strong>page-break-inside:avoid</strong>를 사용하는 경우).
+inactive-css-no-principal-box-fix-1 = <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, 또는 <strong>grid</strong>와 같은 주요 박스를 생성하는 <strong>display</strong> 값을 추가해보세요.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

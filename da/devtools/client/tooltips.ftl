@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Læs mere</span>
+devtools-tooltip-learn-more = Læs mere
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -121,6 +130,44 @@ inactive-css-ruby-element-fix = Prøv at ændre ruby-tekstens <strong>skriftstø
 inactive-css-text-wrap-balance-lines-exceeded-fix = Prøv at reducere antallet af linjer. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Undgå at opdele elementets indhold, fx ved at fjerne kolonner eller bruge <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Prøv at tilføje en <strong>display</strong>-værdi, der opretter en primær boks - for eksempel <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> eller <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Prøv at tilføje  <strong>display:grid</strong> eller <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Prøv at tilføje <strong>display:grid</strong>, <strong>display:flex</strong> eller <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Prøv at tilføje <strong>display:grid</strong>, <strong>display:flex</strong> eller <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Prøv at tilføje enten <strong>column-count</strong> eller <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Prøv at tilføje <strong>column-count</strong> eller <strong>column-width</strong> til et af dets overordnede elementer.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Prøv at filføje <strong>position:absolute</strong> til elementet, eller <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> til elementets forælder.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Prøv at tilføje <strong>position:absolute</strong> til elementet eller<strong>display:grid</strong> eller <strong>display:inline-grid</strong> til elementets forælder.
+inactive-css-not-absolutely-positioned-item-fix-1 = Prøv at tilføje <strong>position:absolute</strong> til elementet.
+inactive-css-not-grid-or-flex-item-fix-4 = Prøv at tilføje <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> til elementets forælder.
+inactive-css-not-grid-item-fix-3 = Prøv at tilføje <strong>display:grid</strong> eller <strong>display:inline-grid</strong> til elementets forælder.
+inactive-css-not-grid-container-fix-1 = Prøv at tilføje <strong>display:grid</strong> eller <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Prøv at tilføje <strong>display:flex</strong> eller <strong>display:inline-flex</strong> til elementets forælder.
+inactive-css-not-flex-container-fix-1 = Prøv at tilføje <strong>display:flex</strong> eller <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Prøv at tilføje <strong>display:inline</strong> eller <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Prøv at tilføje <strong>display:inline-block</strong> eller <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Prøv at tilføje <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Prøv at fjerne <strong>float</strong> eller tilføje <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Prøv at ændre værdien af <strong>display</strong> i elementets container til noget andet end <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> eller <strong>inline-grid</strong>, eller fjern <strong>float</strong>.
+inactive-css-not-block-fix-1 = Prøv at tilføje egenskaber som <strong>display:block</strong> eller <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Prøv at tilføje <strong>display:block</strong>, <strong>display:inline-block</strong> eller <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Prøv at tilføje <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> eller <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Prøv at tilføje egenskaben <strong>float</strong> med en anden værdi end <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Prøv at sætte elements <strong>position</strong>-egenskab til noget andet end <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Sørg for, at du tilføjer egenskaben til et erstattet element.
+inactive-text-overflow-when-no-overflow-fix-1 = Prøv at tilføje <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Prøv at sætte elementets <strong>display</strong>-egenskab til noget andet end <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> eller <strong>inline-table</strong> - og sørg for, at elementet ikke befinder sig i en tabel eller et ruby-segment.
+inactive-css-not-for-internal-table-elements-fix-1 = Prøv at sætte <strong>display</strong>-egenskaben til noget andet end<strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> eller <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Prøv at sætte <strong>display</strong>-egenskaben til noget andet end <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> eller <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Prøv at tilføje <strong>display:table</strong> eller <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Prøv at tilføje <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Prøv at tilføje <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Prøv at tilføje <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> eller <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Fjern egenskaben<strong>border-collapse</strong> eller vælg anden værdi for den end <strong>collapse</strong> for det overordnede tabel-element.
+inactive-css-resize-fix-1 = Prøv at sætte <strong>overflow</strong> til en værdi, der ikke er <strong>visible</strong>, eller peg på et erstattet element, der understøtter dette.
+inactive-css-ruby-element-fix-1 = Prøv at ændre ruby-tekstens <strong>skriftstørrelse</strong>.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Prøv at reducere antallet af linjer.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Undgå at opdele elementets indhold, fx ved at fjerne kolonner eller bruge <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Prøv at tilføje en <strong>display</strong>-værdi, der opretter en primær boks - for eksempel <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> eller <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -146,3 +193,10 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Læs mere</sp
 css-selector-warning-unconstrained-has = Denne selektor bruger <strong>:has()</strong> uden restriktioner, hvilket kan være langsomt
 # :scope should not be translated
 css-selector-warning-sibling-combinator-after-scope = Søskende-selektorer efter <strong>:scope</strong> vil aldrig matche noget
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+

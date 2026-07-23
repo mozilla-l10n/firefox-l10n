@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Подробнее</span>>
+devtools-tooltip-learn-more = Подробнее>
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -124,6 +133,45 @@ inactive-css-ruby-element-fix = Попробуйте изменить <strong>fo
 inactive-css-text-wrap-balance-lines-exceeded-fix = Постарайтесь уменьшить количество строк. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Избегайте разделения содержимого элемента, например, удаляя столбцы или используя <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Попробуйте добавить значение <strong>display</strong>, создающее основной блок, например, <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> или <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Попробуйте добавить <strong>display:grid</strong> или <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong> или <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong> или <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Попробуйте добавить <strong>column-count</strong> или <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Попробуйте добавить <strong>column-count</strong> или <strong>column-width</strong> к одному из его элементов-предков.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Попробуйте добавить <strong>position:absolute</strong> к элементу, или <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong> к родительскому элементу.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Попробуйте добавить <strong>position:absolute</strong> к элементу, или <strong>display:grid</strong> или <strong>display:inline-grid</strong> к родителю элемента.
+inactive-css-not-absolutely-positioned-item-fix-1 = Попробуйте добавить к элементу <strong>position:absolute</strong>.
+inactive-css-no-default-anchor-fix-1 = Попробуйте добавить <strong>position-anchor</strong> с корректным именем якоря.
+inactive-css-not-grid-or-flex-item-fix-4 = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong> к родителю элемента.
+inactive-css-not-grid-item-fix-3 = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong> к родителю элемента.
+inactive-css-not-grid-container-fix-1 = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Попробуйте добавить <strong>display:flex</strong> или <strong>display:inline-flex</strong> к родителю элемента.
+inactive-css-not-flex-container-fix-1 = Попробуйте добавить <strong>display:flex</strong> или <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Попробуйте добавить <strong>display:inline</strong> или <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Попробуйте добавить <strong>display:inline-block</strong> или <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Попробуйте добавить <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Попробуйте удалить свойство <strong>float</strong> или добавить <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Попробуйте изменить значение <strong>display</strong> контейнера элемента на что-нибудь другое, кроме <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> или <strong>inline-grid</strong> или удалите <strong>float</strong>.
+inactive-css-not-block-fix-1 = Попробуйте добавить свойства, такие как <strong>display:block</strong> или <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Попробуйте добавить <strong>display:block</strong>, <strong>display:inline-block</strong> или <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Попробуйте добавить <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> или <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Попробуйте добавить свойство <strong>float</strong> со значением, отличным от <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Попробуйте установить для свойства <strong>position</strong> значение, отличное от <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Убедитесь, что вы добавляете свойство к замещаемому элементу.
+inactive-text-overflow-when-no-overflow-fix-1 = Попробуйте добавить <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Попробуйте установить для свойства <strong>display</strong> значение, отличное от <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> или <strong>inline-table </strong> и убедитесь, что оно не находится в таблице или сегменте ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Попробуйте установить для свойства <strong>display</strong> значение, отличное от <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> или <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Попробуйте установить для свойства <strong>display</strong> значение, отличное от <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> или <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Попробуйте добавить <strong>display:table</strong> или <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Попробуйте добавить <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Попробуйте добавить <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Попробуйте добавить <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> или <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = В элементе родительской таблицы удалите свойство, или измените значение <strong>border-collapse</strong> на значение, отличное от <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Попробуйте установить <strong>overflow</strong> в значение, отличное от <strong>visible</strong>, или нацелить на замещающий элемент, поддерживающий это.
+inactive-css-ruby-element-fix-1 = Попробуйте изменить <strong>font-size</strong> текста ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Постарайтесь уменьшить количество строк.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Избегайте разделения содержимого элемента, например, удаляя столбцы или используя <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Попробуйте добавить значение <strong>display</strong>, создающее основной блок, например, <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> или <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

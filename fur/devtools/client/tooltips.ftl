@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Plui informazions</span>
+devtools-tooltip-learn-more = Plui informazions
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -119,6 +128,43 @@ inactive-css-ruby-element-fix = Prove a modificâ <strong>font-size</strong> de 
 inactive-css-text-wrap-balance-lines-exceeded-fix = Prove a ridusi il numar di riis. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evite di distribuî il contignût dal element, par esempli gjavant lis colonis o doprant <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Prove a assegnâ un valôr <strong>display</strong> che al creedi un ricuadri principâl, come <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> o <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Prove a zontâ <strong>display:grid</strong> o <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Prove a zontâ <strong>display:grid</strong>, <strong>display:flex</strong> o <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Prove a zontâ o <strong>display:grid</strong>, <strong>display:flex</strong> o <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Prove a zontâ <strong>column-count</strong> o <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Prove a zontâ <strong>column-count</strong> o <strong>column-width</strong> a un dai elements progjenitôr.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Prove a zontâ <strong>position:absolute</strong> al element, opûr <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al gjenitôr dal element.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Prove a zontâ <strong>position:absolute</strong> al element, opûr <strong>display:grid</strong> o <strong>display:inline-grid</strong> al gjenitôr dal element.
+inactive-css-not-grid-or-flex-item-fix-4 = Prove a zontâ <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al gjenitôr dal element
+inactive-css-not-grid-item-fix-3 = Prove a zontâ <strong>display:grid</strong> o <strong>display:inline-grid</strong> al gjenitôr dal element.
+inactive-css-not-grid-container-fix-1 = Prove a zontâ <strong>display:grid</strong> o <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Prove a zontâ <strong>display:flex</strong> o <strong>display:inline-flex</strong> al gjenitôr dal element.
+inactive-css-not-flex-container-fix-1 = Prove a zontâ <strong>display:flex</strong> o <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Prove a zontâ <strong>display:inline</strong> o <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Prove a zontâ <strong>display:inline-block</strong> o <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Prove a zontâ <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Prove a gjavâ <strong>float</strong> o a zontâ <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Prove a modificâ il valôr di  <strong>display</strong> pal contignidôr dal element a un valôr diviers di <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, o <strong>inline-grid</strong>, opûr gjave <strong>float</strong>.
+inactive-css-not-block-fix-1 = Prove a zontâ proprietâts come <strong>display:block</strong> o <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Prove a zontâ <strong>display:block</strong>, <strong>display:inline-block</strong> o <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Prove a zontâ <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> o <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Prove a zontâ la proprietât <strong>float</strong> cuntun valôr diviers di <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Prove a configurâ la sô proprietât <strong>position</strong> a alc altri rispiet a <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Verifiche di vê zontât la proprietât a un element sostituît.
+inactive-text-overflow-when-no-overflow-fix-1 = Prove a zontâ <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Prove a meti la proprietât <strong>display</strong> a un valôr diviers di <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> o <strong>inline-table </strong> e verifiche che nol sedi dentri di une tabele o di un segment ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Prove a configurâ la sô proprietât <strong>display</strong> a alc altri rispiet a <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Prove a configurâ la sô proprietât <strong>display</strong> a alc altri rispiet a <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Prove a zontâ <strong>display:table</strong> o <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Prove a zontâ <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Prove a zontâ <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Prove a zontâ <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> o <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Sul element de tabele dal gjenitôr, gjave la proprietât o met il valôr di <strong>border-collapse</strong> a un valôr diviers di <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Prove a meti <strong>overflow</strong> a un valôr diviers di <strong>visible</strong> o a aplicâ la proprietât a un element sostituît che le supuarti.
+inactive-css-ruby-element-fix-1 = Prove a modificâ <strong>font-size</strong> de trascrizion fonetiche.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Prove a ridusi il numar di riis.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Evite di distribuî il contignût dal element, par esempli gjavant lis colonis o doprant <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Prove a assegnâ un valôr <strong>display</strong> che al creedi un ricuadri principâl, come <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> o <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -144,3 +190,10 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Plui informaz
 css-selector-warning-unconstrained-has = Chest seletôr al dopre <strong>:has()</strong> cence vincui, al podarès jessi lent
 # :scope should not be translated
 css-selector-warning-sibling-combinator-after-scope = I seletôrs di stes nivel (“sibling”) dopo <strong>:scope</strong> no varan mai corispondencis
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+

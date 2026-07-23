@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Saper plus</span>
+devtools-tooltip-learn-more = Saper plus
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,45 @@ inactive-css-ruby-element-fix = Prova cambiar le <strong>dimensiones de characte
 inactive-css-text-wrap-balance-lines-exceeded-fix = Tenta reducer le numero de lineas. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evita scinder le contento del elemento p. ex. per remover le columnas o per <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Tenta adder un valor <strong>display</strong> que crea un cassa principal, como <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, o <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Prova adder <strong>display:grid</strong> o <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Prova adder<strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Prova adder o <strong>display:grid</strong>, o <strong>display:flex</strong>, o <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Tenta adder o <strong>column-count</strong> o <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Tenta adder <strong>column-count</strong> o <strong>column-width</strong> a un de su elementos predecessor.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Tenta adder <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> al genitor del elemento.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Tenta adder <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitor del elemento.
+inactive-css-not-absolutely-positioned-item-fix-1 = Tenta adder <strong>position:absolute</strong> al elemento.
+inactive-css-no-default-anchor-fix-1 = Tenta adder <strong>position-anchor</strong> con un nomine de ancora valide.
+inactive-css-not-grid-or-flex-item-fix-4 = Prova adder <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al genitor del elemento.
+inactive-css-not-grid-item-fix-3 = Prova adder <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitor del elemento.
+inactive-css-not-grid-container-fix-1 = Prova adder <strong>display:grid</strong> o <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Prova adder <strong>display:flex</strong> o <strong>display:inline-flex</strong> al genitor del elemento.
+inactive-css-not-flex-container-fix-1 = Prova adder <strong>display:flex</strong> o <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Tenta adder <strong>display:inline</strong> o <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Prova adder <strong>display:inline-block</strong> o <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Prova adder <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Prova remover <strong>flottar</strong> o <strong>monstrar:bloco</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Prova predefinir <strong>display</strong> per il contentor del elemento a un valor diverse de <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, o <strong>inline-grid</strong>, o remover <strong>float</strong>.
+inactive-css-not-block-fix-1 = Prova adder proprietates como <strong>display:block</strong> o <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Prova adder<strong>display:block</strong>, <strong>display:inline-block</strong> o <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Tenta adder <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> o <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Prova adder le proprietate <strong>float</strong> con un valor differente que <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Tenta mitter su proprietate <strong>position</strong> a un valor differente de <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Cura adder le proprietate a un elemento supplantate.
+inactive-text-overflow-when-no-overflow-fix-1 = Tenta adder <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Tenta configurar su proprietate de <strong>monstra</strong> a altero que <strong>nemo</strong>, <strong>contentos</strong>, <strong>tabula</strong>, o <strong>tabula-in linea</strong> e verifica que illo non es in un tabula o segmento ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Proba mitter su proprietate <strong>display</strong> a un valor altere que <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Proba mitter su proprietate <strong>display</strong> a un valor altere que <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Prova adder <strong>display:table</strong> o <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Essaya adder <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Prova adder <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Prova adder <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Sur le elemento de tabella parente, remover le proprietate o cambia le valor de <strong>border-collapse</strong> a un valor differente de <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Tenta predefinir le <strong>disbordamento</strong> a un valor diverse que <strong>visibile</strong> o destinar un elemento supplantate a supportar lo.
+inactive-css-ruby-element-fix-1 = Prova cambiar le <strong>dimensiones de characteres</strong> del texto ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Tenta reducer le numero de lineas.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Evita scinder le contento del elemento p. ex. per remover le columnas o per <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Tenta adder un valor <strong>display</strong> que crea un cassa principal, como <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, o <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
