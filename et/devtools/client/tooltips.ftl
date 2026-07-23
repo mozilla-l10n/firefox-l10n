@@ -77,6 +77,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Try settin
 inactive-css-not-table-fix = Try adding <strong>display:table</strong> or <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Try adding <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, or <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = On the parent table element, remove the property or change the value of <strong>border-collapse</strong> to a value other than <strong>collapse</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Try adding <strong>display:grid</strong> or <strong>display:flex</strong>.
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Try adding either <strong>display:grid</strong>, <strong>display:flex</strong>, or <strong>columns:2</strong>.
 inactive-css-not-grid-or-flex-item-fix-4 = Try adding <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, or <strong>display:inline-flex</strong> to the element’s parent.
 inactive-css-not-grid-item-fix-3 = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong> to the element’s parent.
