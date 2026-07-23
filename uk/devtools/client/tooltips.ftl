@@ -133,6 +133,23 @@ inactive-css-ruby-element-fix = Спробуйте змінити <strong>font-s
 inactive-css-text-wrap-balance-lines-exceeded-fix = Спробуйте зменшити кількість рядків. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Уникайте розділення вмісту елемента, наприклад, видаливши стовпчики або використавши <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Спробуйте додати значення <strong>display</strong>, яке створює основний блок, наприклад <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> або <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Спробуйте додати <strong>display:grid</strong> або <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Спробуйте додати <strong>display:grid</strong>, <strong>display:flex</strong> або <strong>display:block</strong>.
+inactive-css-not-grid-item-fix-3 = Спробуйте додати <strong>display:grid</strong> або <strong>display:inline-grid</strong> до елемента вищого рівня.
+inactive-css-not-grid-container-fix-1 = Спробуйте додати <strong>display:grid</strong> або <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Спробуйте додати <strong>display:flex</strong> або <strong>display:inline-flex</strong> до елемента вищого рівня.
+inactive-css-not-flex-container-fix-1 = Спробуйте додати <strong>display:flex</strong> або <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Спробуйте додати <strong>display:inline</strong> або <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Спробуйте додати <strong>display:inline-block</strong> або <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Спробуйте додати <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Спробуйте вилучити <strong>float</strong> або додати <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Спробуйте змінити значення для <strong>display</strong> контейнера елемента на щось інше, ніж <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> чи <strong>inline-grid</strong>, або вилучити <strong>float</strong>.
+inactive-css-not-block-fix-1 = Спробуйте додати властивості, як-от <strong>display:block</strong> або <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Спробуйте додати <strong>display:block</strong>, <strong>display:inline-block</strong> або <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Спробуйте додати <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> або <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Спробуйте додати властивість <strong>float</strong> зі значенням, відмінним від <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Спробуйте налаштувати його властивість <strong>позиції</strong> на щось інше, ніж <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Переконайтеся, що ви додаєте властивість до заміненого елемента.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
