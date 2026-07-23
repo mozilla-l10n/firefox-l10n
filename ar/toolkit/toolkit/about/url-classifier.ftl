@@ -23,6 +23,13 @@ url-classifier-cache-prefix = السابقة
 url-classifier-cache-ncache-expiry = انتهاء صلاحية الخبيئة السالبة
 url-classifier-cache-fullhash = التلبيدة الكاملة
 url-classifier-cache-pcache-expiry = انتهاء صلاحية الخبيئة الموجبة
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = النتائج
+url-classifier-content-classifier-pbm = التصفح الخاص
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = خطأ ({ $code })
 url-classifier-debug-title = التنقيح
 url-classifier-debug-module-btn = حدد وحدات السجل
 url-classifier-debug-file-btn = حدد ملف السجل

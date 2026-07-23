@@ -70,6 +70,15 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = اضغط على مفتاح جديد:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (لا يمكن تغييره)
+
+## Confirmation dialogs
+
+customkeys-conflict-unusable-title = لا يمكن استخدام المفتاح
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = هذا المفتاح مستخدم بالفعل بواسطة "{ $conflict }" ولا يمكن استخدامه.
 
 ## Sidebar
 

@@ -308,6 +308,17 @@ launch-on-login-infobar-final-message = <strong>فتح { -brand-short-name } ف�
 launch-on-login-infobar-final-reject-button = لا، شكرًا
     .accesskey = ا
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+launch-on-login-autostart-infobar-keep-button = أبق مشغلاً
+    .accesskey = ق
+launch-on-login-autostart-infobar-turn-off-button = عطّل
+    .accesskey = ط
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -487,3 +498,13 @@ nova-early-access-share-feedback-link = شاركنا رأيك
     .accesskey = ك
 nova-early-access-infobar-primary-button = فهمت
     .accesskey = ه
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = احفظ وأغلق { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = احفظ و واصِل
