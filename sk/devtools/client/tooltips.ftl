@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Ďalšie informácie</span>
+devtools-tooltip-learn-more = Ďalšie informácie
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -125,6 +134,37 @@ inactive-css-ruby-element-fix = Skúste zmeniť <strong>veľkosť písma</strong
 inactive-css-text-wrap-balance-lines-exceeded-fix = Skúste znížiť počet riadkov. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Vyhnite sa rozdeleniu obsahu prvku, napr. odstránením stĺpcov alebo použitím <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Skúste pridať hodnotu <strong>display</strong>, ktorá vytvorí hlavný box, napríklad <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> alebo <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Skúste pridať <strong>display:grid</strong> alebo <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Skúste pridať <strong>display:grid</strong>, <strong>display:flex</strong> alebo <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Skúste pridať <strong>display:grid</strong>, <strong>display:flex</strong> alebo <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Skúste pridať <strong>column-count</strong> alebo <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Skúste pridať <strong>column-count</strong> alebo <strong>column-width</strong> jednému z jeho predchodcov.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Skúste prvku pridať <strong>position:absolute</strong> alebo jemu nadradenému prvku <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> alebo <strong>display:inline-flex</strong>.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Skúste prvku pridať <strong>position:absolute</strong>, alebo jeho nadradenému prvku pridajte <strong>display:grid</strong> alebo <strong>display:inline-grid</strong>.
+inactive-css-not-absolutely-positioned-item-fix-1 = Skúste prvku priradiť<strong>position:absolute</strong>.
+inactive-css-no-default-anchor-fix-1 = Skúste pridať <strong>position-anchor</strong> s platným názvom kotvy.
+inactive-css-not-display-block-on-floated-fix-1 = Skúste odstrániť <strong>float</strong> alebo pridať <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Skúste zmeniť hodnotu <strong>display</strong> kontajnera prvku na niečo iné ako <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, alebo <strong>inline-grid</strong> alebo odstráňte <strong>float</strong>.
+inactive-css-not-block-fix-1 = Skúste pridať vlastnosti ako <strong>display:block</strong> alebo <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Skúste pridať <strong>display:block</strong>, <strong>display:inline-block</strong> alebo <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Skúste pridať <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> alebo <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Skúste pridať vlastnosť <strong>float</strong> s inou hodnotou ako <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Skúste nastaviť vlastnosť <strong>position</strong> na inú hodnotu ako <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Uistite sa, že vlastnosť pridávate do nahradeného prvku.
+inactive-text-overflow-when-no-overflow-fix-1 = Skúste pridať <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Skúste nastaviť jeho vlastnosť <strong>display</strong> na niečo iné ako <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> alebo <strong>inline-table </strong> a uistite sa, že nie je v rámci tabuľky alebo segmentu ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Skúste nastaviť vlastnosť <strong>display</strong> na inú hodnotu ako <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> alebo <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Skúste nastaviť vlastnosť <strong>display</strong> na inú hodnotu ako <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> alebo <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Skúste pridať <strong>display:table</strong> alebo <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Skúste pridať <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Skúste pridať <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Skúste pridať <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, alebo <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Pre nadradený prvok tabuľky odstráňte vlastnosť alebo zmeňte hodnotu <strong>border-collapse</strong> na inú hodnotu než <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Skúste nastaviť <strong>overflow</strong> na inú hodnotu ako <strong>visible</strong> alebo zacieliť na nahradený prvok, ktorý ju podporuje.
+inactive-css-ruby-element-fix-1 = Skúste zmeniť <strong>veľkosť písma</strong> textu prvku ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Skúste znížiť počet riadkov.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Vyhnite sa rozdeleniu obsahu prvku, napr. odstránením stĺpcov alebo použitím <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Skúste pridať hodnotu <strong>display</strong>, ktorá vytvorí hlavný box, napríklad <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> alebo <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
