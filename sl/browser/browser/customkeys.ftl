@@ -9,7 +9,7 @@ customkeys-title = Bližnjice na tipkovnici
 customkeys-search = Išči:
 customkeys-change = Spremeni
 customkeys-reset = Ponastavi
-customkeys-clear = Počisti
+customkeys-clear = Izbriši
 customkeys-new-key = Pritisnite novo tipko:
 customkeys-reset-all = Ponastavi vse bližnjice na privzete
 # Variables
