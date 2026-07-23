@@ -6,6 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = بلگه نۊ
+newtab-settings-button =
+    .title = سئفه بلگه نۊ خوتووه سفارشی کۊنین
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = سفارشی کردن ای بلگه
@@ -18,6 +20,11 @@ newtab-personalize-settings-icon-label =
     .aria-label = سامووا
 newtab-settings-dialog-label =
     .aria-label = سامووا
+newtab-personalize-icon-label =
+    .title = سفارشی کردن بلگه نۊ
+    .aria-label = سفارشی کردن بلگه نۊ
+newtab-personalize-dialog-label =
+    .aria-label = سیخومی کردن
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =

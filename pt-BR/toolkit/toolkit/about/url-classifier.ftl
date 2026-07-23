@@ -95,9 +95,14 @@ url-classifier-content-classifier-col-exception = Exceção
 url-classifier-content-classifier-col-important = Importante
 # Column header: the raw result code returned by the engine for this feature.
 url-classifier-content-classifier-col-engine-result = Resultado do mecanismo
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Acerto
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Exceção
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Falha
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
