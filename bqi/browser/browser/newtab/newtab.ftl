@@ -936,6 +936,8 @@ newtab-sports-widget-quarter-finals = مرهله ی چاروم دیندایی
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = زنده
 newtab-sports-widget-upcoming = آینده
+# Used for a match currently ongoing
+newtab-sports-widget-now = سکو
 newtab-sports-widget-results = نتیجه یل
 newtab-sports-widget-semi-finals = نیمه دیندایی
 newtab-sports-widget-bronze-finals = فینال بورونز
@@ -951,6 +953,8 @@ newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric"
 newtab-sports-widget-cancelled = لقو وابی
 newtab-sports-widget-view-results-link = نیشتن نتیجه یل
 newtab-sports-widget-third-place = مقام سووم
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = نایب قئرموو
 newtab-sports-widget-world-cup-champions = قئرمووا جام جهۊوی 2026
 newtab-sports-widget-match-full-time = پوی مجال
 newtab-sports-widget-match-halftime = نیمه ٱول
@@ -992,6 +996,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-clock-widget-menu-learn-more = قلوه دووسته بۊین
 newtab-clock-widget-button-add-clock = ٱووردن
 newtab-clock-widget-button-cancel = لقو
+newtab-clock-widget-button-back =
+    .title = وورگشتن
+    .aria-label = وورگشتن
 newtab-clock-widget-button-save = زفت
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
