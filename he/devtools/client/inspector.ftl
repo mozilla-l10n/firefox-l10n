@@ -18,3 +18,9 @@ colorpicker-tooltip-color-name-title = הכי קרוב ל: { $colorName }
 colorpicker-tooltip-hue-slider-title = גוון
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = אטימות
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = הפעלה/כיבוי הדמייה של ערכת צבעים בהירה עבור הדף
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = הפעלה/כיבוי הדמייה של ערכת צבעים כהה עבור הדף

@@ -171,6 +171,59 @@ autofill-card-network = סוג כרטיס
 # methods in their region.
 autofill-card-search-term-credit-cards = כרטיס אשראי, כרטיסי אשראי, אשראי, כרטיסים, כרטיסי דביט, דביט, חיוב, ארנק, קופה
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = הוספת דרכון
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = עריכת דרכון
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = שם
+autofill-passport-country =
+    .label = מדינה
+autofill-passport-number =
+    .label = מספר
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = תאריך הנפקה
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = תאריך תפוגה
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = YYYY
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = לשמור את הדרכון?
+passport-capture-save-doorhanger-description = ניתן לשמור מידע ב־{ -brand-short-name } כדי שיהיה ניתן למלא טפסים במהירות.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = שמירה
+    .accessKey = ש
+passport-capture-not-now-button =
+    .label = לא כעת
+    .accessKey = ל
+passport-capture-never-save-button =
+    .label = לעולם לא לשמור דרכונים
+    .accessKey = ע
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = אמריקן אקספרס
