@@ -160,6 +160,14 @@ action-log-reading-page = בתהליך קריאת הדף
 action-log-read-page = בוצעה קריאה של תוכן הדף
 action-log-searching-web = בתהליך חיפוש ברשת
 action-log-searched-web = בוצע חיפוש ברשת
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = בתהליך חיפוש באינטרנט בעזרת <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = בוצע חיפוש באינטרנט בעזרת <a data-l10n-name="exa-link">Exa</a>
 # Exa is the name of a third-party web search API
 # It is a brand name and should not be translated
 action-log-searched-web-exa = בוצע חיפוש ברשת באמצעות Exa
