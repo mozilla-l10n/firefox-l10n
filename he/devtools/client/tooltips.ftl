@@ -65,6 +65,10 @@ inactive-css-not-table-cell-fix = כדאי לנסות להוסיף <strong>displ
 inactive-css-ruby-element-fix = כדאי לנסות לשנות את ה־<strong>font-size</strong> טקסט ה־ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = כדאי לנסות להפחית את מספר השורות. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = יש להימנע מפיצול תוכן האלמנט, למשל, על־ידי הסרת העמודות או על־ידי שימוש ב<strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = כדאי לנסות להוסיף <strong>display:grid</strong> או <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = כדאי לנסות להוסיף <strong>display:grid</strong>, ‏<strong>display:flex</strong>, או <strong>columns:2</strong>.
+inactive-text-overflow-when-no-overflow-fix-1 = כדאי לנסות להוסיף <strong>overflow:hidden</strong>.
+inactive-css-not-table-cell-fix-1 = כדאי לנסות להוסיף <strong>display:table-cell</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
