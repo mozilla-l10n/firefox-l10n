@@ -1464,6 +1464,7 @@ filepicker-blocked-infobar = سازمووݩ ایسا، دسرسی و فایلا 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } و سۊرت خوتکار ی قرده ز دووسمندیا ن سی بؽڌر وابیڌن تجروبه منتوری ایسا و { -vendor-short-name } افشنه.
 data-reporting-notification-button =
     .label = پسند چیایی ک اخوم یک رسۊوی کونوم
     .accesskey = C
@@ -1472,6 +1473,11 @@ private-browsing-indicator-label = گشتن سیخومی
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = گشتن سیخومی
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = پؽشگیری ز نشت داده یل (DLP) و دست { $agentName }. سی دووسمندیا قلوه کلیک کۊنین.
 content-analysis-panel-title = زفت وابیڌن داده یل
 
 ## Unified extensions (toolbar) button
