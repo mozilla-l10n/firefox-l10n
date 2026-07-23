@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Dalšne informacije</span>
+devtools-tooltip-learn-more = Dalšne informacije
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -125,6 +134,44 @@ inactive-css-ruby-element-fix = Wopytajśo <strong>font-size</strong> teksta rub
 inactive-css-text-wrap-balance-lines-exceeded-fix = Wopytajśo licbu smužkow reducěrowaś. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Wótwónoźćo słupy abo wužywajśo <strong>page-break-inside:avoid</strong>, aby se rozdźělenja elementowego wopśimjeśa wobinuł. { learn-more }
 inactive-css-no-principal-box-fix = Wopytajśo gódnotu za kakosć <strong>display</strong> pśidaś, kótaraž głowny kašćik napórajo, na pśikład <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> abo <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Wopytajśo <strong>display:grid</strong> abo <strong>display:flex</strong> pśidaś.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong> abo <strong>display:block</strong> pśidaś.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong> abo <strong>columns:2</strong> pśidaś.
+inactive-css-not-multicol-container-fix-1 = Wopytajśo pak <strong>column-count</strong> pak <strong>column-width</strong> pśidaś.
+inactive-css-column-span-fix-1 = Wopytajśo jadnomu z jeje pjerwjejšnych elementow <strong>column-count</strong> abo <strong>column-width</strong> pśidaś.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Wopytajśo elementoju <strong>position:absolute</strong> pśidaś, abo nadrědowanemu elementoju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> pśidaś.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Wopytajśo elementoju  <strong>position:absolute</strong> pśidaś, abo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> nadrědowanemu elementoju.
+inactive-css-not-absolutely-positioned-item-fix-1 = Wopytajśo elementoju <strong>position:absolute</strong> pśidaś.
+inactive-css-no-default-anchor-fix-1 = Wopytajśo <strong>position-anchor</strong> z płaśiwym kokulowym mjenim pśidaś.
+inactive-css-not-grid-or-flex-item-fix-4 = Wopytajśo nadrědowanemu elementoju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> pśidaś.
+inactive-css-not-grid-item-fix-3 = Wopytajśo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> nadrědowanemu elementoju pśidaś.
+inactive-css-not-grid-container-fix-1 = Wopytajśo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> pśidaś.
+inactive-css-not-flex-item-fix-3 = Wopytajśo <strong>display:flex</strong> abo <strong>display:inline-flex</strong> nadrědowanemu elementoju pśidaś.
+inactive-css-not-flex-container-fix-1 = Wopytajśo <strong>display:flex</strong> abo <strong>display:inline-flex</strong> pśidaś.
+inactive-css-not-inline-or-tablecell-fix-1 = Wopytajśo <strong>display:inline</strong> abo <strong>display:table-cell</strong> pśidaś.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Wopytajśo <strong>display:inline-block</strong> abo <strong>display:block</strong> pśidaś.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Wopytajśo <strong>display:inline-block</strong> pśidaś.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Wopytajśo gódnotu <strong>display</strong> elementowego kontejnera do něco drugego ako <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> abo <strong>inline-grid</strong> změniś abo <strong>float</strong> wótwónoźeś.
+inactive-css-not-block-fix-1 = Wopytajśo kakosći <strong>display:block</strong> abo <strong>float:left</strong> pśidaś.
+inactive-css-not-block-container-fix-1 = Wopytajśo <strong>display:block</strong>, <strong>display:inline-block</strong> abo <strong>display:flow-root</strong> pśidaś.
+inactive-css-not-block-flex-grid-container-fix-1 = Wopytajśo <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> abo <strong>display:flow-root</strong> pśidaś.
+inactive-css-not-floated-fix-1 = Wopytajśo kakosć <strong>float</strong> z drugeju gódnotu ako <strong>none</strong> pśidaś.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Wopytajśo jogo kakosć <strong>position</strong> na něco druge ako <strong>static</strong> nastajiś.
+inactive-css-only-replaced-elements-fix-1 = Zawěsććo, až kakosć wuměnjonemu elementoju pśidawaśo
+inactive-text-overflow-when-no-overflow-fix-1 = Wopytajśo <strong>overflow:hidden</strong> pśidaś.
+inactive-css-no-size-containment-fix-1 = Wopytajśo kakosć <strong>display</strong> na něco druge ako <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> abo <strong>inline-table</strong> stajiś a zawěsććo, až njejo w tabeli abo segmenśe ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Wopytajśo kakosć <strong>display</strong> na něco druge ako <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajiś.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Wopytajśo kakosć <strong>display</strong> na něco druge ako <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajiś.
+inactive-css-not-table-fix-1 = Wopytajśo <strong>display:table</strong> abo <strong>display:inline-table</strong> pśidaś.
+inactive-css-collapsed-table-borders-fix-1 = Wopytajśo <strong>border-collapse:separate</strong> pśidaś.
+inactive-css-not-table-cell-fix-1 = Wopytajśo <strong>display:table-cell</strong> pśidaś.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Wopytajśo, <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> abo <strong>overflow:hidden</strong> pśidaś.
+inactive-css-border-image-fix-1 = Wótwónoźćo na nadrědowanem elemenśe tabele kakosć abo změńśo gódnotu kakosći <strong>border-collapse</strong> do gódnoty, kótaraž se wót <strong>collapse</strong> rozeznawa.
+inactive-css-resize-fix-1 = Wopytajśo <strong>overflow</strong> na drugu gódnotu ako <strong>visible</strong> stajaś abo se na wuměnjony element měriś, kótaryž jen pódpěra.
+inactive-css-ruby-element-fix-1 = Wopytajśo <strong>font-size</strong> teksta ruby změniś.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Wopytajśo licbu smužkow reducěrowaś.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Wótwónoźćo słupy abo wužywajśo <strong>page-break-inside:avoid</strong>, aby se rozdźělenja elementowego wopśimjeśa wobinuł.
+inactive-css-no-principal-box-fix-1 = Wopytajśo gódnotu za kakosć <strong>display</strong> pśidaś, kótaraž głowny kašćik napórajo, na pśikład <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> abo <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
