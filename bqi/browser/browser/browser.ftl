@@ -960,6 +960,26 @@ urlbar-result-dates-countdown =
         [one] { $name } · من { $daysUntilStart } رۊز
        *[other] { $name } · من { $daysUntilStart } رۊز
     }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · شۊرۊع من { $daysUntilStart } رۊز
+       *[other] { $name } · شۊرۊع من { $daysUntilStart } رۊز
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · دیندا من { $daysUntilEnd } رۊز
+       *[other] { $name } · دیندا من { $daysUntilEnd } رۊز
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
@@ -1160,6 +1180,7 @@ fullscreen-exit-mac-button = و در زیڌن ز نما پوی بلگه (esc)
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> کونتورول جاگه نما ایسا ن من دست داره. سی گرؽڌن دووارته کونتورول، Esc ن فشار بڌین.
+pointerlock-warning-no-domain = ای سند کونتورول جاگه نما ایسا ن من دست گرؽڌه. سی گرؽڌن دووارته کونتورول، Esc ن فشار بڌین.
 
 ## Bookmarks panels, menus and toolbar
 
@@ -1198,6 +1219,12 @@ bookmarks-tools-toolbar-visibility-panel =
         { $isVisible ->
             [true] بؽڌار کردن نوار ٱوزار نشووکا
            *[other] نشووݩ داڌن نوار ٱوزار نشووکا
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] وورداشتن نومگه نشووکا ز نوار ٱوزار
+           *[other] ٱووردن نومگه نشووکا و نوار ٱوزار
         }
 
 ##
