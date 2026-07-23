@@ -268,14 +268,44 @@ newtab-privacy-message-promo-relay-3-cta = Lortu maskarak
 #   $count (number) - Trackers blocked this week
 newtab-privacy-message-milestone-week =
     { $count ->
-        [one] Jarraipen-elementu bat blokeatuta aste honetan. Ikusi zer saihesten dizun { -brand-short-name }(e)k.
-       *[other] { $count } jarraipen-elementu blokeatuta aste honetan. Ikusi zer saihesten dizun { -brand-short-name }(e)k.
+        [one] Jarraipen-elementu bat blokeatu da aste honetan. Ikusi zer saihesten dizun { -brand-short-name }(e)k.
+       *[other] { $count } jarraipen-elementu blokeatu dira aste honetan. Ikusi zer saihesten dizun { -brand-short-name }(e)k.
     }
 newtab-privacy-message-milestone-week-cta = Ikusi babesak
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] Jarraipen-elementu bat blokeatu da hilabete honetan. Urrats txiki bat pribatutasunaren alde. Urrats erraldoi bat lasai egoteko.
+       *[other] { $count } jarraipen-elementu blokeatu dira hilabete honetan. Urrats txiki bat pribatutasunaren alde. Urrats erraldoi bat lasai egoteko.
+    }
 newtab-privacy-message-milestone-month-cta = Ikusi babesak
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] Jarraipen-elementu bat blokeatu da urte honetan. Urte oparoa da hori zure pribatutasuna babesten.
+       *[other] { $count } jarraipen-elementu blokeatu dira urte honetan. Urte oparoa da hori zure pribatutasuna babesten.
+    }
 newtab-privacy-message-milestone-year-cta = Ikusi babesak
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] Jarraipen-elementu bat blokeatu da. Hori sekulako aurrerapena da pribatutasuna zure neurrira izateko bidean.
+       *[other] { $count } jarraipen-elementu blokeatu dira. Hori sekulako aurrerapena da pribatutasuna zure neurrira izateko bidean.
+    }
 newtab-privacy-message-milestone-total-cta = Ikusi babesak
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (100+ jarraipen-elementu blokeatu dira gaur). Jarraipen-elementu gutxiagorekin, pribatutasun handiagoa da.
 newtab-privacy-message-daily-cap-cta = Ikusi babesak
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Egun bat jarraian babestu zaitugu.
+       *[other] { $count } egun jarraian babestu zaitugu.
+    }
 newtab-privacy-message-streak-cta = Ikusi babesak
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Jarraitu  nabigatzen, { -brand-short-name }(e)k blokeatzen jarraituko du.

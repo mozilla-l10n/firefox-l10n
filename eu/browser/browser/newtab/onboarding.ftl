@@ -449,6 +449,8 @@ onboarding-checklist-pin = Ainguratu { -brand-short-name } ataza-barran
 onboarding-checklist-import = Inportatu aurreko nabigatzailetik
 onboarding-checklist-extension = Gehitu hedapen bat
 onboarding-checklist-sign-up = Eman izena edo hasi saioa zure kontuan
+onboarding-checklist-minimize =
+    .label = Minimizatu
 onboarding-checklist-remove =
     .label = Kendu egiaztapen-zerrenda
 onboarding-checklist-remove-2 = Kendu egiaztapen-zerrenda
@@ -610,6 +612,7 @@ smartwindow-existing-user-fx-tou-go-back = Joan atzera
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-subtitle = Laburbildu, alderatu eta egin galderak erritmoa moteldu gabe.
 smartwindow-onboarding-primary-button = Jarraitu
 
 ## Smart Window Sidebar Auto-Open Pref
