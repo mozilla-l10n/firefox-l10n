@@ -139,6 +139,7 @@ inactive-css-not-block-fix-1 = Essayez d’ajouter des propriétés telles que <
 inactive-css-not-block-container-fix-1 = Essayez d’ajouter <strong>display:block</strong>, <strong>display:inline-block</strong> ou <strong>display:flow-root</strong>.
 inactive-css-not-block-flex-grid-container-fix-1 = Essayez d’ajouter <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> ou <strong>display:flow-root</strong>.
 inactive-css-not-floated-fix-1 = Essayez d’ajouter la propriété <strong>float</strong> avec une valeur différente de <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Essayez de définir sa propriété <strong>position</strong> avec une valeur différente de <strong>static</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
