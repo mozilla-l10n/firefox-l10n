@@ -26,6 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = Om du held fram vil:
-panic-button-delete-cookies = Siste <strong>infokapslar</strong> slettast
-panic-button-delete-history = Nyleg <strong>historikk</strong> slettast
+panic-button-delete-cookies = Nylege oppretta <strong>infokapslar</strong> bli sletta
+panic-button-delete-history = Nyleg <strong>historikk</strong> bli sletta
 panic-button-delete-tabs-and-windows = Lat att alle <strong>faner</strong> og <strong>vindauge</strong>

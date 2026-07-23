@@ -99,7 +99,7 @@ set-password-backup-pw =
     .value = Passord for tryggingskopi:
 set-password-repeat-backup-pw =
     .value = Passord for tryggingskopi (igjen):
-set-password-reminder = Viktig: Dersom du gløymer passordet til tryggingskopien, vil du ikkje kunna få tilbake innhaldet i tryggingskopien seinare. Skriv det ned på ein trygg stad.
+set-password-reminder = Viktig: Dersom du gløymer passordet til tryggingskopien, vil du ikkje kunne få tilbake innhaldet i tryggingskopien seinare. Skriv det ned på ein trygg stad.
 
 ## Protected authentication dialog
 
