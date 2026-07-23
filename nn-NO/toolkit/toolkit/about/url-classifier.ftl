@@ -60,6 +60,9 @@ url-classifier-content-classifier-destination-type = Måltype
 # Header for a group of on/off options (the checkboxes below) that modify how
 # the hypothetical request is classified.
 url-classifier-content-classifier-flags = Flagg
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = Testar
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Resultat
 url-classifier-content-classifier-pbm = Privat nettlesing
@@ -69,6 +72,14 @@ url-classifier-content-classifier-force-third-party = Tving tredjepart til toppr
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Ikkje-tilrådd tillegg
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Test-blokkering
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Test-merking
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Test-funksjon
 # Label for an expandable area showing the detailed per-feature output from the
 # classification engine.
 url-classifier-content-classifier-engine-details = Motordetaljar
