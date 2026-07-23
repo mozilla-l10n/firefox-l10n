@@ -153,6 +153,17 @@ inactive-css-only-non-grid-or-flex-item-fix-1 = Ceisiwch newid gwerth <strong>da
 inactive-css-not-block-fix-1 = Ceisiwch ychwanegu priodweddau fel <strong>display:block</strong> neu <strong>float:left</strong>.
 inactive-css-not-block-container-fix-1 = Ceisiwch ychwanegu <strong>display:block</strong>, <strong>display:inline-block</strong> neu <strong>display:flow-root</strong>.
 inactive-css-not-for-internal-table-elements-fix-1 = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>cell-tabl</strong>, <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>.
+inactive-css-not-table-fix-1 = Ceisiwch ychwanegu <strong>display:table</strong> neu <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Ceisiwch ychwanegu <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Ceisiwch ychwanegu <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Ceisiwch ychwanegu <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> neu <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Ar yr elfen tabl rhiant, tynnwch y briodwedd neu newidiwch werth <strong>cwymp-ffiniol</strong> i werth heblaw <strong>cwymp</strong>.
+inactive-css-resize-fix-1 = Ceisiwch osod <strong>gorlif</strong> i werth heblaw <strong>gweladwy</strong> neu dargedu elfen newydd sy'n ei gynnal.
+inactive-css-ruby-element-fix-1 = Ceisio newid <strong>maint ffont</strong> y testun ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Ceisiwch leihau nifer y llinellau.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Osgowch hollti cynnwys yr elfen e.e. drwy dynnu'r colofnau neu drwy ddefnyddio <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Ceisiwch ychwanegu gwerth <strong>arddangos</strong> sy'n creu prif flwch, fel <strong>bloc</strong>, <strong>bloc mewn-lein</strong>, <strong>flex</strong>, neu <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
