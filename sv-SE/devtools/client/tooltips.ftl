@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Läs mer</span>
+devtools-tooltip-learn-more = Läs mer
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,19 @@ inactive-css-ruby-element-fix = Prova att ändra <strong>teckenstorleken</strong
 inactive-css-text-wrap-balance-lines-exceeded-fix = Försök att minska antalet rader. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Undvik att dela upp elementets innehåll, t.ex. genom att ta bort kolumnerna eller genom att använda <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Försök att lägga till ett <strong>display</strong>-värde som skapar en principal box, till exempel <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> eller <strong>grid</strong>. { learn-more }
+inactive-css-not-flex-item-fix-3 = Försök lägga till <strong>display:flex</strong> eller <strong>display:inline-flex</strong> till elementets förälder.
+inactive-css-not-flex-container-fix-1 = Försök lägga till <strong>display:flex</strong> eller <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Försök lägga till <strong>display:inline</strong> eller <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Försök lägga till <strong>display:inline-block</strong> eller <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Försök lägga till <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Försök ta bort <strong>float</strong> eller lägga till <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Försök att ändra värdet för <strong>display</strong> för elementets behållare till något annat än <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> eller <strong>inline-grid</strong> eller ta bort <strong>float</strong>.
+inactive-css-not-block-fix-1 = Testa att lägga till egenskaper som <strong>display:block</strong> eller <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Testa att lägga till <strong>display:block</strong>, <strong>display:inline-block</strong> eller <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Försök lägga till <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> eller <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Prova att lägga till egenskapen <strong>float</strong> med ett annat värde än <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Försök ställa in egenskapen <strong>position</strong> till något annat än <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Se till att du lägger till egenskapen i ett ersatt element.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
