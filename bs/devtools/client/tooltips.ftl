@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Saznajte više</span>
+devtools-tooltip-learn-more = Saznajte više
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -109,6 +118,38 @@ inactive-css-resize-fix = Pokušajte postaviti <strong>overflow</strong> na vrij
 inactive-css-ruby-element-fix = Pokušajte promijeniti veličinu fonta (font size) ruby teksta. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Pokušajte smanjiti broj redova. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Izbjegavajte dijeljenje sadržaja elementa, npr. uklanjanjem kolona ili korištenjem <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Pokušajte dodati <strong>display:grid</strong> ili <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Pokušajte dodati <strong>display:grid</strong>, <strong>display:flex</strong> ili <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Pokušajte dodati ili <strong>display:grid</strong>, <strong>display:flex</strong> ili <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Pokušajte dodati ili <strong>broj-kolumni</strong> ili <strong>širinu-kolumne</strong>.
+inactive-css-column-span-fix-1 = Pokušajte dodati <strong>column-count</strong> ili <strong>column-width</strong> jednom od njegovih prethodnih elemenata.
+inactive-css-not-grid-or-flex-item-fix-4 = Pokušajte dodati <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ili <strong>display:inline-flex</strong> roditeljskom elementu.
+inactive-css-not-grid-item-fix-3 = Pokušajte dodati <strong>display:grid</strong> ili <strong>display:inline-grid</strong> roditeljskom elementu.
+inactive-css-not-grid-container-fix-1 = Pokušajte dodati <strong>display:grid</strong> ili <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Pokušajte dodati <strong>display:flex</strong> ili <strong>display:inline-flex</strong> roditeljskom elementu.
+inactive-css-not-flex-container-fix-1 = Pokušajte dodati <strong>display:flex</strong> ili <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Pokušajte dodati <strong>display:inline</strong> ili <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Pokušajte dodati <strong>display:inline-block</strong> ili <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Pokušajte dodati <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Pokušajte ukloniti <strong>float</strong> ili dodati <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Pokušajte promijeniti vrijednost <strong>display</strong> kontejnera elementa na nešto drugo osim <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> ili <strong>inline-grid</strong>, ili uklonite <strong>float</strong>.
+inactive-css-not-block-fix-1 = Pokušajte dodati svojstva poput <strong>display:block</strong> ili <strong>float:left</strong>.
+inactive-css-not-floated-fix-1 = Pokušajte dodati svojstvo <strong>float</strong> s vrijednošću koja nije <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Pokušajte postaviti njegovo svojstvo <strong>position</strong> na nešto drugo osim <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Provjerite da li svojstvo dodajete zamijenjenom elementu.
+inactive-text-overflow-when-no-overflow-fix-1 = Pokušajte dodati <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Pokušajte postaviti njegovo svojstvo <strong>display</strong> na nešto drugo osim <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ili <strong>inline-table</strong> i provjerite da nije unutar tabele ili ruby segmenta.
+inactive-css-not-for-internal-table-elements-fix-1 = Pokušajte postaviti njegovo svojstvo <strong>display</strong> na nešto drugo osim <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Pokušajte postaviti njegovo svojstvo <strong>display</strong> na nešto drugo osim <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Pokušajte dodati <strong>display:table</strong> ili <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Pokušajte dodati <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Pokušajte dodati <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Pokušajte dodati <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ili <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = Na roditeljskom elementu tabele uklonite svojstvo ili promijenite vrijednost <strong>border-collapse</strong> u vrijednost koja nije <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Pokušajte postaviti <strong>overflow</strong> na vrijednost koja nije <strong>visible</strong> ili ciljajte zamijenjeni element koji ga podržava.
+inactive-css-ruby-element-fix-1 = Pokušajte promijeniti veličinu fonta (font size) ruby teksta.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Pokušajte smanjiti broj redova.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Izbjegavajte dijeljenje sadržaja elementa, npr. uklanjanjem kolona ili korištenjem <strong>page-break-inside:avoid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -132,3 +173,10 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Saznajte viš
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Ovaj selektor koristi neograničenu funkciju <strong>:has()</strong>, što može biti sporo
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
