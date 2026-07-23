@@ -53,6 +53,8 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Proa a agiù
 inactive-css-not-grid-or-flex-item-fix-3 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> a s'elementu "parent". { learn-more }
 inactive-css-not-grid-container-fix = Proa a agiùnghere <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Proa a redùere su nùmeru de lìnias. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Proa a agiùnghere <strong>display:grid</strong> o <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>.
 inactive-css-not-grid-or-flex-item-fix-4 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> a s'elementu "parent".
 inactive-css-not-grid-container-fix-1 = Proa a agiùnghere <strong>display:grid</strong> o <strong>display:inline-grid</strong>.
 
