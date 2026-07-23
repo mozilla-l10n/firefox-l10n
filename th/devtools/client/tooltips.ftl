@@ -128,6 +128,10 @@ inactive-css-ruby-element-fix = ลองเปลี่ยน <strong>font-size
 inactive-css-text-wrap-balance-lines-exceeded-fix = โปรดลองลดจำนวนบรรทัด { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = หลีกเลี่ยงการแยกเนื้อหาของอิลิเมนต์ เช่น โดยการลบคอลัมน์ออก หรือใช้ <strong>page-break-inside:avoid</strong> { learn-more }
 inactive-css-no-principal-box-fix = ลองเพิ่มค่า <strong>display</strong> ซึ่งสร้าง principal box เช่น <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> หรือ <strong>grid</strong> { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = ลองเพิ่ม <strong>display:grid</strong> หรือ <strong>display:flex</strong>
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = ลองเพิ่ม <strong>display:grid</strong>, <strong>display:flex</strong> หรือ <strong>display:block</strong>
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = ลองเพิ่ม <strong>display:grid</strong>, <strong>display:flex</strong>, หรือ <strong>columns:2</strong>
+inactive-css-not-multicol-container-fix-1 = ลองเพิ่ม <strong>column-count</strong> หรือ <strong>column-width</strong>
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
