@@ -1574,6 +1574,22 @@ popup-notification-addon-technical-and-interaction-checkbox =
 
 ## Pop-up warning
 
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-message =
+    { $popupCount ->
+        [1] { -brand-short-name } ز گۊشیڌن نیمدری گۊشیڌنی من ای وبگه جلاوگری کرد.
+        [one] { -brand-short-name } ز گۊشیڌن نیمدری گۊشیڌنی من ای وبگه جلاوگری کرد.
+       *[other] { -brand-short-name } ز گۊشیڌن { $popupCount } نیمدری گۊشیڌنی و دست ای وبگه جلاوگری کرد.
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ز گۊشیڌن بیشتر ز { $popupCount } نیمدری گۊشیڌنی و دست ای وبگه جلاوگری کرد.
+       *[other] { -brand-short-name } ز گۊشیڌن بیشتر ز { $popupCount } نیمدری گۊشیڌنی و دست ای وبگه جلاوگری کرد.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
