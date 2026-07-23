@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Saiba mais</span>
+devtools-tooltip-learn-more = Saiba mais
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -123,6 +132,36 @@ inactive-css-ruby-element-fix = Experimente alterar o <strong>font-size</strong>
 inactive-css-text-wrap-balance-lines-exceeded-fix = Experimente reduzir o número de linhas. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evite a separação do conteúdo do elemento, por exemplo. removendo colunas ou usando <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Experimente adicionar um valor de <strong>display</strong> que crie uma caixa principal, como <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ou <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-4 = Experimente adicionar <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ou <strong>display:inline-flex</strong> ao pai do elemento.
+inactive-css-not-grid-item-fix-3 = Experimente adicionar <strong>display:grid</strong> ou <strong>display:inline-grid</strong> ao parent do elemento.
+inactive-css-not-grid-container-fix-1 = Experimente adicionar <strong>display:grid</strong> ou <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Experimente adicionar <strong>display:flex</strong> ou <strong>display:inline-flex</strong> ao parent do elemento.
+inactive-css-not-flex-container-fix-1 = Experimente adicionar <strong>display:flex</strong> ou <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Experimente adicionar <strong>display:inline</strong> ou <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Experimente adicionar <strong>display:inline-block</strong> ou <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Experimente adicionar <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Experimente remover <strong>float</strong> ou adicionar <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Experimente alterar o valor de <strong>display</strong> do contêiner do elemento para algo diferente de <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> ou <strong>inline-grid</strong>, ou remover <strong>float</strong>.
+inactive-css-not-block-fix-1 = Experimente adicionar propriedades como <strong>display:block</strong> ou <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Experimente adicionar <strong>display:block</strong>, <strong>display:inline-block</strong> ou <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Experimente adicionar <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> ou <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Experimente adicionar a propriedade <strong>float</strong> com um valor diferente de <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Experimente definir sua propriedade <strong>position</strong> com algo diferente de <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Assegure estar adicionando a propriedade a um elemento substituído.
+inactive-text-overflow-when-no-overflow-fix-1 = Experimente adicionar <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Experimente definir a propriedade <strong>display</strong> com valor diferente de <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ou <strong>inline-table </strong> e assegure não estar dentro de uma tabela ou segmento ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Experimente definir sua propriedade <strong>display</strong> para algo diferente de <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Experimente definir sua propriedade <strong>display</strong> como algo diferente de <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Experimente adicionar <strong>display:table</strong> ou <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Experimente adicionar <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Experimente adicionar <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Experimente adicionar <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ou <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = No elemento superior da tabela, remova a propriedade ou altere o valor de <strong>border-collapse</strong> para um valor diferente de <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Experimente definir <strong>overflow</strong> com um valor diferente de <strong>visible</strong>, ou direcionar para um elemento substituído que ofereça suporte a isso.
+inactive-css-ruby-element-fix-1 = Experimente alterar o <strong>font-size</strong> do texto ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Experimente reduzir o número de linhas.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Evite a separação do conteúdo do elemento, por exemplo. removendo colunas ou usando <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Experimente adicionar um valor de <strong>display</strong> que crie uma caixa principal, como <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ou <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
