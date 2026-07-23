@@ -113,6 +113,11 @@ inactive-css-resize-fix = Coba atur <strong>overflow</strong> ke nilai selain <s
 inactive-css-ruby-element-fix = Coba ubah <strong>ukuran fon</strong> dari teks ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Coba kurangi jumlah baris. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Hindari pemisahan konten elemen, mis. dengan menghapus kolom atau dengan menggunakan <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-4 = Coba tambahkan <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, atau <strong>display:inline-flex</strong> ke induk elemen.
+inactive-css-not-grid-item-fix-3 = Coba tambahkan <strong>display:grid</strong> atau <strong>display:inline-grid</strong> pada induk elemen.
+inactive-css-not-grid-container-fix-1 = Coba tambahkan <strong>display:grid</strong> atau <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Coba tambahkan <strong>display:flex</strong> atau <strong>display:inline-flex</strong> pada induk elemen.
+inactive-css-not-flex-container-fix-1 = Coba tambahkan <strong>display:flex</strong> atau <strong>display:inline-flex</strong>.
 inactive-css-not-inline-or-tablecell-fix-1 = Coba tambahkan baik <strong>display:inline</strong> maupun <strong>display:table-cell</strong>.
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Coba tambahkan baik <strong>display:inline-block</strong> maupun <strong>display:block</strong>.
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Coba tambahkan <strong>display:inline-block</strong>.
@@ -124,6 +129,9 @@ inactive-css-position-property-on-unpositioned-box-fix-1 = Coba atur properti <s
 inactive-css-only-replaced-elements-fix-1 = Pastikan Anda menambahkan properti ke elemen tergantikan.
 inactive-text-overflow-when-no-overflow-fix-1 = Coba tambahkan <strong>overflow:hidden</strong>.
 inactive-css-no-size-containment-fix-1 = Coba atur properti <strong>display</strong>-nya ke selain <strong>none</strong>, <strong>contents</strong>, <strong>table</strong>, atau <strong>inline-table</strong>, dan pastikan elemen tersebut tidak berada dalam tabel atau segmen ruby.
+inactive-css-not-for-internal-table-elements-fix-1 = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>.
+inactive-css-not-table-fix-1 = Coba tambahkan <strong>display:table</strong> atau <strong>display:inline-table</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
