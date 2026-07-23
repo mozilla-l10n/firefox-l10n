@@ -16,6 +16,7 @@ confirmation-hint-address-created = 주소 저장됨
 confirmation-hint-address-updated = 주소 업데이트됨
 confirmation-hint-credit-card-created = 카드 저장됨
 confirmation-hint-credit-card-updated = 카드 업데이트됨
+confirmation-hint-passport-created = 패스포트 저장됨
 confirmation-hint-pin-tab = 고정됨!
 confirmation-hint-pin-tab-description = 탭을 마우스 오른쪽 버튼으로 눌러 고정 해제합니다.
 confirmation-hint-send-to-device = 보냄!

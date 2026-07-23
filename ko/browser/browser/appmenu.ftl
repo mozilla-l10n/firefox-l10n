@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = { -brand-product-name } 추천하기
 appmenuitem-more-tools =
     .label = 기타 도구
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = 도움말 및 신고
 appmenuitem-help =
     .label = 도움말
 appmenuitem-exit2 =
@@ -304,6 +307,9 @@ appmenu-help-share-ideas =
     .accesskey = S
 appmenu-help-switch-device =
     .label = 새 기기로 전환
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = 도움말 및 신고
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
