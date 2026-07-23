@@ -6,6 +6,7 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">了解更多</span>
+devtools-tooltip-learn-more = 了解更多
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
