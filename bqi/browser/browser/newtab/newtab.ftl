@@ -213,6 +213,22 @@ newtab-privacy-message-promo-vpn-1-cta = گۊشیڌن VPN
 newtab-privacy-message-promo-vpn-2-cta = گۊشیڌن VPN
 newtab-privacy-message-promo-vpn-3-cta = گۊشیڌن VPN
 newtab-privacy-message-promo-private-window-1-cta = گۊشیڌن نیمدری سیخومی
+newtab-privacy-message-promo-relay-1-cta = ماسک بزنین
+newtab-privacy-message-promo-relay-2-cta = ماسک بزنین
+newtab-privacy-message-promo-relay-3-cta = ماسک بزنین
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-milestone-month-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-milestone-year-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-milestone-total-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-daily-cap-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-streak-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-first-protection-cta = نیشتن زفت وابیڌنا
 
 ## Strings for the Stocks widget
 
@@ -238,11 +254,18 @@ newtab-stocks-ticker-status-flat = { $name }، بؽ آلشتکاری { $change }
 
 ## Strings for the Picture of the Day widget
 
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = شؽوات رۊز
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
 # $author (string) - the name of the image's author.
 newtab-picture-attribution-author = © { $author }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = گۊزینه یل شؽوات رۊز
+    .aria-label = گۊزینه یل شؽوات رۊز
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = دؽوۉداری کاقز دیواری
 # Context menu item linking to more information about the widget.
@@ -466,6 +489,9 @@ newtab-discovery-empty-section-topstories-loading = هونی بار اونه…
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = سرتالا مئبۊب:
+newtab-pocket-more-recommendations = پؽشنهاڌا قلوه
 newtab-pocket-learn-more = قلوه دووسته بۊین
 newtab-pocket-cta-button = گرؽڌن { -pocket-brand-name }
 newtab-pocket-save = زفت
@@ -473,6 +499,12 @@ newtab-pocket-saved = زفت وابی
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = قلوه شبیه و یو
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = ن سی مو
 newtab-toast-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
@@ -482,10 +514,20 @@ newtab-toast-dismiss-button =
 newtab-custom-shortcuts-title = ره نهنگا
 newtab-custom-shortcuts-nova =
     .label = ره نهنگا
+# Variables
+#   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } ردیف
+           *[other] { $num } ردیف
+        }
 newtab-custom-sponsored-sites = ره نهنگا هؽزگرووݩ
 newtab-custom-stories-personalized-toggle =
     .label = داستانا
 newtab-custom-pocket-sponsored = وزعیتا هؽزگرووݩ
+newtab-custom-pocket-show-recent-saves = نشووݩ داڌن زفت وابیڌنا دیندایی
 newtab-custom-recent-title = فعالیتا دیندایی
 newtab-custom-widget-weather-toggle =
     .label = ٱو وو هوا
@@ -501,6 +543,8 @@ newtab-custom-widget-privacy-toggle =
     .label = سیخومی
 newtab-custom-widget-stocks-toggle =
     .label = سهام
+newtab-custom-widget-picture-toggle =
+    .label = شؽوات رۊز
 newtab-custom-widget-section-title = ویجتا
 newtab-custom-widget-section-toggle =
     .label = ویجتا
@@ -576,6 +620,13 @@ newtab-wallpaper-celestial-starry-sky = آسمووݩ پور آستاره
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ هؽزگری وابیڌه
+newtab-weather-menu-change-location = آلشت جاگه
+newtab-weather-change-location-search-input-placeholder =
+    .aria-label = پیتینیڌن جاگه
+    .placeholder = پیتینیڌن جاگه
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -642,6 +693,9 @@ newtab-topic-selection-button-pick-interests = پسند علاقه یل خوتو
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = و دین کردن
+newtab-section-following-button = و دین کرده وابیڌه
+newtab-section-unfollow-button = لقو و دین کردن
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = فید خوتووݩ ن دییق سامووݩ کۊنین
 
@@ -738,6 +792,8 @@ newtab-widget-lists-input-menu-move-up = جاگورو و روء
 newtab-widget-lists-input-menu-move-down = جاگورو و لم
 newtab-widget-lists-input-menu-delete = پاک کردن
 newtab-widget-lists-input-menu-edit = آلشت
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = آلشت موورد
 newtab-widget-lists-edit-clear =
     .title = لقو
     .aria-label = لقو
@@ -756,6 +812,7 @@ newtab-widget-lists-name-placeholder-new2 =
     .placeholder = نومگه نۊ
     .aria-label = آلشت نومگه نوم
 newtab-widget-section-title = ویجتا
+newtab-widget-menu-hide = بؽڌار کردن ویجت
 newtab-widget-menu-change-size = آلشت هندا
 # Parent label for a submenu in the widget menu that reorders the widget
 # among its siblings. "Left" and "Right" appear as items inside this submenu.
