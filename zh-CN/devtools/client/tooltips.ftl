@@ -152,6 +152,9 @@ inactive-scroll-padding-when-not-scroll-container-fix-1 = 请尝试添加 <stron
 inactive-css-border-image-fix-1 = 请在父表格元素上移除该属性，或将 <strong>border-collapse</strong> 的值更改为 <strong>collapse</strong> 以外的值。
 inactive-css-resize-fix-1 = 请尝试将 <strong>overflow</strong> 的值由 <strong>visible</strong> 改为其他值，或将其目标更改为支持其的可替换元素。
 inactive-css-ruby-element-fix-1 = 请尝试调整 ruby 文本的 <strong>font-size</strong>。
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = 请尝试减少行数。
+inactive-css-text-wrap-balance-fragmented-fix-1 = 避免分割元素的内容，比如移除横栏或使用 <strong>page-break-inside:avoid</strong>。
+inactive-css-no-principal-box-fix-1 = 尝试添加一个能创建主体盒子的 <strong>display</strong> 值，例如 <strong>block</strong>、<strong>inline-block</strong>、<strong>flex</strong> 或 <strong>grid</strong>。
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
