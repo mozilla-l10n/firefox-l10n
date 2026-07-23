@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">详细了解</span>
+devtools-tooltip-learn-more = 详细了解
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -119,6 +128,14 @@ inactive-css-ruby-element-fix = 请尝试调整 ruby 文本的 <strong>font-size
 inactive-css-text-wrap-balance-lines-exceeded-fix = 请尝试减少行数。{ learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = 避免分割元素的内容，比如移除横栏或使用 <strong>page-break-inside:avoid</strong>。{ learn-more }
 inactive-css-no-principal-box-fix = 尝试添加一个能创建主体盒子的 <strong>display</strong> 值，例如 <strong>block</strong>、<strong>inline-block</strong>、<strong>flex</strong> 或 <strong>grid</strong>。{ learn-more }
+inactive-css-not-grid-item-fix-3 = 请尝试为元素的父元素添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。
+inactive-css-not-grid-container-fix-1 = 请尝试添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。
+inactive-css-not-flex-item-fix-3 = 请尝试为元素的父元素添加 <strong>display:flex</strong> 或 <strong>display:inline-flex</strong>。
+inactive-css-not-flex-container-fix-1 = 请尝试添加 <strong>display:flex</strong> 或 <strong>display:inline-flex</strong>。
+inactive-css-not-inline-or-tablecell-fix-1 = 请尝试添加 <strong>display:inline</strong> 或 <strong>display:table-cell</strong>。
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = 请尝试添加 <strong>display:inline-block</strong> 或 <strong>display:block</strong>。
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = 请尝试添加 <strong>display:inline-block</strong>。
+inactive-css-not-display-block-on-floated-fix-1 = 请尝试移除 <strong>float</strong> 或添加 <strong>display:block</strong>。
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
