@@ -171,6 +171,7 @@ inactive-css-resize-fix-1 = Паспрабуйце ўсталяваць для <
 inactive-css-ruby-element-fix-1 = Паспрабуйце змяніць <strong>font-size</strong> тэксту ruby.
 inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Паспрабуйце паменшыць колькасць радкоў.
 inactive-css-text-wrap-balance-fragmented-fix-1 = Пазбягайце падзелу змесціва элемента, напрыклад. шляхам выдалення слупкоў або выкарыстання <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Паспрабуйце дадаць значэнне <strong>display</strong>, якое стварае асноўны блок, напрыклад, <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> або <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
