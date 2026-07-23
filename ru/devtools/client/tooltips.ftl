@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Подробнее</span>>
+devtools-tooltip-learn-more = Подробнее>
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -124,6 +133,20 @@ inactive-css-ruby-element-fix = Попробуйте изменить <strong>fo
 inactive-css-text-wrap-balance-lines-exceeded-fix = Постарайтесь уменьшить количество строк. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Избегайте разделения содержимого элемента, например, удаляя столбцы или используя <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Попробуйте добавить значение <strong>display</strong>, создающее основной блок, например, <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> или <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-4 = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong> к родителю элемента.
+inactive-css-not-grid-item-fix-3 = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong> к родителю элемента.
+inactive-css-not-grid-container-fix-1 = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Попробуйте добавить <strong>display:flex</strong> или <strong>display:inline-flex</strong> к родителю элемента.
+inactive-css-not-flex-container-fix-1 = Попробуйте добавить <strong>display:flex</strong> или <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Попробуйте добавить <strong>display:inline</strong> или <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Попробуйте добавить <strong>display:inline-block</strong> или <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Попробуйте добавить <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Попробуйте удалить свойство <strong>float</strong> или добавить <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Попробуйте изменить значение <strong>display</strong> контейнера элемента на что-нибудь другое, кроме <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> или <strong>inline-grid</strong> или удалите <strong>float</strong>.
+inactive-css-not-block-fix-1 = Попробуйте добавить свойства, такие как <strong>display:block</strong> или <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Попробуйте добавить <strong>display:block</strong>, <strong>display:inline-block</strong> или <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Попробуйте добавить <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> или <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Попробуйте добавить свойство <strong>float</strong> со значением, отличным от <strong>none</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
