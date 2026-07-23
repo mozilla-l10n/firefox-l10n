@@ -122,6 +122,8 @@ inactive-css-not-block-fix-1 = Coba tambahkan properti seperti <strong>display:b
 inactive-css-not-floated-fix-1 = Coba tambahkan properti <strong>float</strong> dengan nilai selain <strong>none</strong>.
 inactive-css-position-property-on-unpositioned-box-fix-1 = Coba atur properti <strong>position</strong> menjadi selain <strong>static</strong>.
 inactive-css-only-replaced-elements-fix-1 = Pastikan Anda menambahkan properti ke elemen tergantikan.
+inactive-text-overflow-when-no-overflow-fix-1 = Coba tambahkan <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Coba atur properti <strong>display</strong>-nya ke selain <strong>none</strong>, <strong>contents</strong>, <strong>table</strong>, atau <strong>inline-table</strong>, dan pastikan elemen tersebut tidak berada dalam tabel atau segmen ruby.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
