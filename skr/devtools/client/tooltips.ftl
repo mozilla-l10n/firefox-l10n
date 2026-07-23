@@ -128,6 +128,7 @@ inactive-css-not-display-block-on-floated-fix-1 = <strong>فلوٹ</strong> کو
 inactive-css-not-block-fix-1 = <strong>display:block</strong> یا <strong>float:left</strong> وانگوں خصوصیات شامل کرݨ دی کوشش کرو۔
 inactive-css-position-property-on-unpositioned-box-fix-1 = ایندی <strong>پوزیشن</strong> پراپرٹی کوں <strong>static</strong> دے علاوہ کہیں ٻئی چیز تے سیٹ کرݨ دی کوشش کرو۔
 inactive-css-only-replaced-elements-fix-1 = ایں کوں یقینی بݨاؤ جو تساں کہیں بدلے ہوئے عنصر وچ خاصیت شامل کریندے پئے ہو۔
+inactive-text-overflow-when-no-overflow-fix-1 = <strong> overflow:hidden </strong> شامل کرݨ دی کوشش کرو۔
 inactive-css-not-for-internal-table-elements-fix-1 = ایندی <strong>ڈسپلے</strong> پراپرٹی کوں <strong>ٹیبل سیل</strong> ،<strong>ٹیبل کالم</strong>، <strong>ٹیبل قطار</strong>، <strong>ٹیبل کالم گروپ</strong> دے علاوہ کہیں ٻئی چیز تے سیٹ کرݨ دی کوشش کرو۔ , <strong>ٹیبل قطار گروپ</strong>, or <strong>ٹیبل فُٹر گروپ</strong>.
 inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = ایندی <strong>ڈسپلے</strong> پراپرٹی کوں <strong>ٹیبل کالم</strong>، <strong>ٹیبل قطار</strong>، <strong>ٹیبل کالم گروپ</strong> دے علاوہ کہیں ٻئی چیز تے سیٹ کرݨ دی کوشش کرو۔ , <strong>table-row-group</strong>, or <strong>table-footer-group</strong>.
 inactive-css-not-table-fix-1 = <strong>display:table</strong> یا <strong>display:inline-table</strong> شامل کرݨ دی کوشش کرو۔
