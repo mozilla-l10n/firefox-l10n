@@ -136,6 +136,19 @@ inactive-css-not-inline-or-tablecell-fix-1 = 请尝试添加 <strong>display:inl
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = 请尝试添加 <strong>display:inline-block</strong> 或 <strong>display:block</strong>。
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = 请尝试添加 <strong>display:inline-block</strong>。
 inactive-css-not-display-block-on-floated-fix-1 = 请尝试移除 <strong>float</strong> 或添加 <strong>display:block</strong>。
+inactive-css-position-property-on-unpositioned-box-fix-1 = 请尝试将其 <strong>position</strong> 属性设为非 <strong>static</strong> 的值。
+inactive-css-only-replaced-elements-fix-1 = 请确保您在对可替换元素添加此属性。
+inactive-text-overflow-when-no-overflow-fix-1 = 请尝试添加 <strong>overflow:hidden</strong>。
+inactive-css-no-size-containment-fix-1 = 请尝试将其 <strong>display</strong> 属性设为 <strong>none</strong>、<strong>contents</strong>、<strong>table</strong> 和 <strong>inline-table</strong> 以外的值，并确认其不在表格和 ruby 段落中。
+inactive-css-not-for-internal-table-elements-fix-1 = 请尝试将其 <strong>display</strong> 设为 <strong>table-cell</strong>、<strong>table-column</strong>、<strong>table-row</strong>、<strong>table-column-group</strong>、<strong>table-row-group</strong> 或 <strong>table-footer-group</strong> 以外的值。
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = 请尝试将其 <strong>display</strong> 设为 <strong>table-column</strong>、<strong>table-row</strong>、<strong>table-column-group</strong>、<strong>table-row-group</strong> 或 <strong>table-footer-group</strong> 以外的值。
+inactive-css-not-table-fix-1 = 请尝试添加 <strong>display:table</strong> 或 <strong>display:inline-table</strong>。
+inactive-css-collapsed-table-borders-fix-1 = 请尝试添加 <strong>border-collapse:separate</strong>。
+inactive-css-not-table-cell-fix-1 = 请尝试添加<strong>display:table-cell</strong>。
+inactive-scroll-padding-when-not-scroll-container-fix-1 = 请尝试添加 <strong>overflow:auto</strong>、<strong>overflow:scroll</strong> 或 <strong>overflow:hidden</strong>。
+inactive-css-border-image-fix-1 = 请在父表格元素上移除该属性，或将 <strong>border-collapse</strong> 的值更改为 <strong>collapse</strong> 以外的值。
+inactive-css-resize-fix-1 = 请尝试将 <strong>overflow</strong> 的值由 <strong>visible</strong> 改为其他值，或将其目标更改为支持其的可替换元素。
+inactive-css-ruby-element-fix-1 = 请尝试调整 ruby 文本的 <strong>font-size</strong>。
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
