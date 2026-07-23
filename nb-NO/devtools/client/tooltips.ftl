@@ -146,6 +146,22 @@ inactive-css-not-block-fix-1 = Try adding properties like <strong>display:block<
 inactive-css-not-block-container-fix-1 = Try adding <strong>display:block</strong>, <strong>display:inline-block</strong> or <strong>display:flow-root</strong>.
 inactive-css-not-block-flex-grid-container-fix-1 = Try adding <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> or <strong>display:flow-root</strong>.
 inactive-css-not-floated-fix-1 = Try adding the <strong>float</strong> property with a value other than <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Try setting its <strong>position</strong> property to something other than <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Ensure you are adding the property to a replaced element.
+inactive-text-overflow-when-no-overflow-fix-1 = Try adding <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Try setting its <strong>display</strong> property to something else than <strong>none</strong>, <strong>contents</strong>, <strong>table</strong>, or <strong>inline-table</strong> and make sure it’s not within a table or ruby segment.
+inactive-css-not-for-internal-table-elements-fix-1 = Try setting its <strong>display</strong> property to something else than <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Try setting its <strong>display</strong> property to something else than <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Try adding <strong>display:table</strong> or <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Try adding <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Try adding <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Try adding <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, or <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = On the parent table element, remove the property or change the value of <strong>border-collapse</strong> to a value other than <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Try setting <strong>overflow</strong> to a value other than <strong>visible</strong> or targeting a replaced element supporting it.
+inactive-css-ruby-element-fix-1 = Try changing the <strong>font-size</strong> of the ruby text.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Try to reduce the number of lines.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Avoid splitting the element’s content e.g. by removing the columns or by using <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Try adding a <strong>display</strong> value that creates a principal box, such as <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, or <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
