@@ -1675,6 +1675,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = 추가된 주소 없음
+personal-info-group =
+    .label = 개인 정보
+autofill-personal-info-checkbox-message =
+    .label = 개인 정보 저장 및 자동 채우기
+autofill-personal-info-manage-button =
+    .label = 개인 정보 관리
+passports-list-header =
+    .label = 여권
+passports-delete-passport-button-label =
+    .aria-label = 삭제
+passports-edit-passport-button-label =
+    .aria-label = 편집
+passports-delete-passport-prompt-title = 이 여권을 삭제하시겠습니까?
+passports-delete-passport-prompt-confirm-button = 삭제
+passports-delete-passport-prompt-cancel-button = 취소
+autofill-passports-add-button = 새 여권 추가
+autofill-personal-info-manage-title =
+    .heading = 개인 정보 관리
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = 추가된 여권 없음
 pane-passwords-autofill-title2 = 비밀번호 및 자동 채우기
     .title = 비밀번호 및 자동 채우기
 preferences-passwords-autofill-header =
