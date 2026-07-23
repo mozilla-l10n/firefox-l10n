@@ -151,6 +151,7 @@ inactive-css-not-flex-container-fix-1 = Wopytajśo <strong>display:flex</strong>
 inactive-css-not-inline-or-tablecell-fix-1 = Wopytajśo <strong>display:inline</strong> abo <strong>display:table-cell</strong> pśidaś.
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Wopytajśo <strong>display:inline-block</strong> abo <strong>display:block</strong> pśidaś.
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Wopytajśo <strong>display:inline-block</strong> pśidaś.
+inactive-css-not-display-block-on-floated-fix-1 = Wopytajśo <strong>float</strong> wótwónoźeś abo <strong>display:block</strong> pśidaś.
 inactive-css-only-non-grid-or-flex-item-fix-1 = Wopytajśo gódnotu <strong>display</strong> elementowego kontejnera do něco drugego ako <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> abo <strong>inline-grid</strong> změniś abo <strong>float</strong> wótwónoźeś.
 inactive-css-not-block-fix-1 = Wopytajśo kakosći <strong>display:block</strong> abo <strong>float:left</strong> pśidaś.
 inactive-css-not-block-container-fix-1 = Wopytajśo <strong>display:block</strong>, <strong>display:inline-block</strong> abo <strong>display:flow-root</strong> pśidaś.
