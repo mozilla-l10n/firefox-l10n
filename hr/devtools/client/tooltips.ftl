@@ -122,6 +122,8 @@ inactive-css-not-grid-or-flex-container-fix-1 = Pokušaj dodati <strong>display:
 inactive-css-not-grid-or-flex-or-block-container-fix-1 = Pokušaj dodati <strong>display:grid</strong>, <strong>display:flex</strong> ili <strong>display:block</strong>.
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Pokušaj dodati <strong>display:grid</strong>, <strong>display:flex</strong> ili <strong>columns:2</strong>.
 inactive-css-not-multicol-container-fix-1 = Pokušaj dodati <strong>column-count</strong> ili <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Pokušaj dodati <strong>column-count</strong> ili <strong>column-width</strong> na jedan od njegovih nadređenih elemenata.
+inactive-css-not-grid-or-flex-item-fix-4 = Pokušaj dodati <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ili <strong>display:inline-flex</strong> na izravno nadređeni element.
 inactive-css-not-grid-item-fix-3 = Pokušaj dodati <strong>display:grid</strong> ili <strong>display:inline-grid</strong> nadređenom elementu stavke.
 inactive-css-not-grid-container-fix-1 = Pokušaj dodati <strong>display:grid</strong> ili <strong>display:inline-grid</strong>.
 inactive-css-not-flex-item-fix-3 = Pokušaj dodati <strong>display:flex</strong> ili <strong>display:inline-flex</strong> nadređenom elementu stavke.
@@ -139,11 +141,15 @@ inactive-text-overflow-when-no-overflow-fix-1 = Pokušaj dodati <strong>overflow
 inactive-css-no-size-containment-fix-1 = Pokušaj postaviti njegovo <strong>display</strong> svojstvo na nešto drugo od <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ili <strong>inline-table</strong> i provjeri da se ne nalazi unutar tablice ili ruby segmenta.
 inactive-css-not-for-internal-table-elements-fix-1 = Pokušaj postaviti vrijednost za <strong>display</strong> svojstvo na nešto drugo od <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>.
 inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Pokušaj postaviti vrijednost za <strong>display</strong> svojstvo na nešto drugo od <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Pokušaj dodati <strong>display:table</strong> ili <strong>display:inline-table</strong>.
 inactive-css-collapsed-table-borders-fix-1 = Pokušaj dodati <strong>border-collapse:separate</strong>.
 inactive-css-not-table-cell-fix-1 = Pokušaj dodati <strong>display:table-cell</strong>.
 inactive-scroll-padding-when-not-scroll-container-fix-1 = Pokušaj dodati <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ili <strong>overflow:hidden</strong>.
 inactive-css-border-image-fix-1 = U nadređenom elementu tablice ukloni svojstvo ili promijeni vrijednost <strong>border-collapse</strong> na vrijednost koja nije <strong>collapse</strong>.
 inactive-css-resize-fix-1 = Pokušaj postaviti <strong>overflow</strong> na vrijednost koja nije <strong>visible</strong> ili pokušaj ciljati zamijenjeni element koji ga podržava.
+inactive-css-ruby-element-fix-1 = Pokušaj promijeniti svojstvo <strong>font-size</strong> ruby ​​​​teksta.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Pokušaj smanjiti broj redaka.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Izbjegavaj rastavljati sadržaj elementa, npr. uklanjanjem stupaca ili korištenjem <strong>page-break-inside:avoid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
