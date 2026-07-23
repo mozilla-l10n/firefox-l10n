@@ -61,6 +61,13 @@ about-networking-ssl-tokens-expired =
 about-networking-ssl-tokens-compression-details =
     .title = אסימונים: { $tokenLength } בתים. קודדו: { $decompressedLength } ← { $compressedLength } בתים.
 about-networking-ssl-tokens-ev-status = תעודת EV
+about-networking-ssl-tokens-ct-status = מצב שקיפות תעודה
+about-networking-ssl-tokens-overridable-error = קטגוריית שגיאה הניתנת לעקיפה
+about-networking-ssl-tokens-built-in-root = ‏root מובנה
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = שרשרת תעודות ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = תעודות לחיצת יד ({ $count })
 about-networking-refresh = ריענון
 about-networking-auto-refresh = ריענון אוטומטי בכל 3 שניות
 about-networking-hostname = שם מארח
