@@ -6,6 +6,7 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">En savoir plus </span>
+devtools-tooltip-learn-more = En savoir plus{ " " }
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -131,6 +132,15 @@ inactive-css-ruby-element-fix = Essayez de modifier la <strong>taille de police<
 inactive-css-text-wrap-balance-lines-exceeded-fix = Essayez de réduire le nombre de lignes. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Évitez de fragmenter le contenu de l’élément, p. ex. en supprimant les colonnes ou en utilisant la règle <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Essayez d’ajouter une valeur <strong>display</strong> qui crée une boîte principale, telle que <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ou <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Essayez d’ajouter <strong>display: grid</strong> ou <strong>display: flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Essayez d’ajouter <strong>display:grid</strong>, <strong>display:flex</strong>, ou <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Essayez d’ajouter <strong>display:grid</strong>, <strong>display:flex</strong>, ou <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Essayez d’ajouter <strong>column-count</strong> ou <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Essayez d’ajouter <strong>column-count</strong> ou <strong>column-width</strong> à l’un de ses éléments parents.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Essayez d’ajouter <strong>position:absolute</strong> à l’élément, ou <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, ou <strong>display:inline-flex</strong> à l’élément parent.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Essayez d’ajouter <strong>position:absolute</strong> à l’élément, ou <strong>display:grid</strong> ou <strong>display:inline-grid</strong> à l’élément parent.
+inactive-css-not-absolutely-positioned-item-fix-1 = Essayez d’ajouter <strong>position:absolute</strong> à l’élément.
+inactive-css-no-default-anchor-fix-1 = Essayez d’ajouter <strong>position-anchor</strong> par un nom d’ancre valide.
 inactive-css-not-grid-or-flex-item-fix-4 = Essayez en ajoutant <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ou <strong>display:inline-flex</strong> à l’élément parent.
 inactive-css-not-grid-item-fix-3 = Essayez d’ajouter <strong>display:grid</strong> ou <strong>display:inline-grid</strong> au parent de l’élément.
 inactive-css-not-grid-container-fix-1 = Essayez d’ajouter <strong>display: grid</strong> ou <strong>display:inline-grid</strong>.
