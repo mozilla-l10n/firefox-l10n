@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Pelajari lebih lanjut</span>
+devtools-tooltip-learn-more = Pelajari lebih lanjut
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -104,6 +113,8 @@ inactive-css-resize-fix = Coba atur <strong>overflow</strong> ke nilai selain <s
 inactive-css-ruby-element-fix = Coba ubah <strong>ukuran fon</strong> dari teks ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Coba kurangi jumlah baris. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Hindari pemisahan konten elemen, mis. dengan menghapus kolom atau dengan menggunakan <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix-1 = Coba atur properti <strong>position</strong> menjadi selain <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Pastikan Anda menambahkan properti ke elemen tergantikan.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -127,3 +138,10 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Pelajari lebi
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Selektor ini menggunakan <strong>:has()</strong> tanpa batasan, yang dapat memperlambat kinerja
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
