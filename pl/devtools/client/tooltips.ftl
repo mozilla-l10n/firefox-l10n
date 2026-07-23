@@ -6,6 +6,15 @@
 ### Localization for Developer Tools tooltips.
 
 learn-more = <span data-l10n-name="link">Więcej informacji</span>
+devtools-tooltip-learn-more = Więcej informacji
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -124,6 +133,45 @@ inactive-css-ruby-element-fix = Spróbuj zmienić <strong>font-size</strong> tek
 inactive-css-text-wrap-balance-lines-exceeded-fix = Spróbuj zmniejszyć liczbę wierszy. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Unikaj dzielenia zawartości elementu, np. usuwając kolumny lub używając <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Spróbuj dodać wartość <strong>display</strong> tworzącą naczelne pudełko, taką jak <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> lub <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Spróbuj dodać <strong>display:grid</strong> lub <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Spróbuj dodać <strong>display:grid</strong>, <strong>display:flex</strong> lub <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Spróbuj dodać <strong>display:grid</strong>, <strong>display:flex</strong> lub <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Spróbuj dodać <strong>column-count</strong> lub <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Spróbuj dodać <strong>column-count</strong> lub <strong>column-width</strong> do jednego z elementów nadrzędnych.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Spróbuj dodać <strong>position:absolute</strong> do elementu, albo <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> lub <strong>display:inline-flex</strong> do elementu nadrzędnego.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Spróbuj dodać <strong>position:absolute</strong> do elementu, albo <strong>display:grid</strong> lub <strong>display:inline-grid</strong> do elementu nadrzędnego.
+inactive-css-not-absolutely-positioned-item-fix-1 = Spróbuj dodać <strong>position:absolute</strong> do elementu.
+inactive-css-no-default-anchor-fix-1 = Spróbuj dodać <strong>position-anchor</strong> z prawidłową nazwą kotwicy.
+inactive-css-not-grid-or-flex-item-fix-4 = Spróbuj dodać <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> lub <strong>display:inline-flex</strong> do elementu nadrzędnego.
+inactive-css-not-grid-item-fix-3 = Spróbuj dodać <strong>display:grid</strong> lub <strong>display:inline-grid</strong> do elementu nadrzędnego.
+inactive-css-not-grid-container-fix-1 = Spróbuj dodać <strong>display:grid</strong> lub <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Spróbuj dodać <strong>display:flex</strong> lub <strong>display:inline-flex</strong> do elementu nadrzędnego.
+inactive-css-not-flex-container-fix-1 = Spróbuj dodać <strong>display:flex</strong> lub <strong>display:inline-flex</strong>.
+inactive-css-not-inline-or-tablecell-fix-1 = Spróbuj dodać <strong>display:inline</strong> lub <strong>display:table-cell</strong>.
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Spróbuj dodać <strong>display:inline-block</strong> lub <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Spróbuj dodać <strong>display:inline-block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Spróbuj usunąć <strong>float</strong> lub dodać <strong>display:block</strong>.
+inactive-css-only-non-grid-or-flex-item-fix-1 = Spróbuj zmienić wartość <strong>display</strong> kontenera elementu na coś innego niż <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> lub <strong>inline-grid</strong>, albo usunąć <strong>float</strong>.
+inactive-css-not-block-fix-1 = Spróbuj dodać własności takie jak <strong>display:block</strong> lub <strong>float:left</strong>.
+inactive-css-not-block-container-fix-1 = Spróbuj dodać <strong>display:block</strong>, <strong>display:inline-block</strong> lub <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Spróbuj dodać <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> lub <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Spróbuj dodać własność <strong>float</strong> o wartości innej niż <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Spróbuj ustawić jego własność <strong>position</strong> na coś innego niż <strong>static</strong>.
+inactive-css-only-replaced-elements-fix-1 = Upewnij się, że dodajesz własność do zastąpionego elementu.
+inactive-text-overflow-when-no-overflow-fix-1 = Spróbuj dodać <strong>overflow:hidden</strong>.
+inactive-css-no-size-containment-fix-1 = Spróbuj ustawić jego własność <strong>display</strong> na coś innego niż <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> lub <strong>inline-table</strong> i upewnij się, że nie jest w tabeli ani segmencie rubi.
+inactive-css-not-for-internal-table-elements-fix-1 = Spróbuj ustawić jego własność <strong>display</strong> na coś innego niż <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> lub <strong>table-footer-group</strong>.
+inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Spróbuj ustawić jego własność <strong>display</strong> na coś innego niż <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> lub <strong>table-footer-group</strong>.
+inactive-css-not-table-fix-1 = Spróbuj dodać <strong>display:table</strong> lub <strong>display:inline-table</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Spróbuj dodać <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Spróbuj dodać <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Spróbuj dodać <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> lub <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = W nadrzędnym elemencie tabeli usuń własność lub zmień wartość <strong>border-collapse</strong> na inną niż <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Spróbuj ustawić <strong>overflow</strong> na wartość inną niż <strong>visible</strong> lub namierz obsługujący go zastąpiony element.
+inactive-css-ruby-element-fix-1 = Spróbuj zmienić <strong>font-size</strong> tekstu rubi.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Spróbuj zmniejszyć liczbę wierszy.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Unikaj dzielenia zawartości elementu, np. usuwając kolumny lub używając <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Spróbuj dodać wartość <strong>display</strong> tworzącą naczelne pudełko, taką jak <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> lub <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
