@@ -19,6 +19,51 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validato
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Chiave di isolamento
+about-networking-ssl-tokens = Token TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count = { $count } token
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } scaduto)
+       *[other] ({ $count } scaduti)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% risparmiato)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Chiave di partizione
+about-networking-ssl-tokens-tokens-column = Token
+about-networking-ssl-tokens-expires = Scade
+about-networking-ssl-tokens-certificate = Cert.
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list = { $count } token
+about-networking-ssl-tokens-restored =
+    .alt = Ripristinato dallo spazio di archiviazione
+    .title = Ripristinato dallo spazio di archiviazione
+about-networking-ssl-tokens-new =
+    .alt = Nuovo in questa sessione
+    .title = Nuovo in questa sessione
+about-networking-ssl-tokens-expired =
+    .alt = Scaduto
+    .title = Scaduto
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Token: { $tokenLength } B. Codificato: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = Cert. EV
+about-networking-ssl-tokens-ct-status = Stato trasparenza dei certificati
+about-networking-ssl-tokens-overridable-error = Categoria di errore ignorabile
+about-networking-ssl-tokens-built-in-root = Radice integrata
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Catena di certificati ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Certificati handshake ({ $count })
 about-networking-refresh = Aggiorna
 about-networking-auto-refresh = Aggiorna automaticamente ogni 3 secondi
 about-networking-hostname = Nome server
