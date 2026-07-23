@@ -137,6 +137,7 @@ inactive-css-column-span-fix-1 = Testa att lägga till <strong>column-count</str
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Försök lägga till <strong>position:absolute</strong> till elementet eller <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> > eller <strong>display:inline-flex</strong> till elementets förälder.
 inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Testa att lägga till <strong>position:absolute</strong> till elementet eller <strong>display:grid</strong> eller <strong>display:inline-grid</strong> till elementets förälder.
 inactive-css-not-absolutely-positioned-item-fix-1 = Försök lägga till <strong>position:absolute</strong> till elementet.
+inactive-css-not-grid-or-flex-item-fix-4 = Försök att lägga till <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> till elementets förälder.
 inactive-css-not-flex-item-fix-3 = Försök lägga till <strong>display:flex</strong> eller <strong>display:inline-flex</strong> till elementets förälder.
 inactive-css-not-flex-container-fix-1 = Försök lägga till <strong>display:flex</strong> eller <strong>display:inline-flex</strong>.
 inactive-css-not-inline-or-tablecell-fix-1 = Försök lägga till <strong>display:inline</strong> eller <strong>display:table-cell</strong>.
