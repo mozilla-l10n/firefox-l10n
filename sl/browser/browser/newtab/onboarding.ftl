@@ -450,6 +450,9 @@ onboarding-checklist-extension = Dodaj razširitev
 onboarding-checklist-sign-up = Registrirajte se ali se prijavite v svoj račun
 onboarding-checklist-minimize =
     .label = Pomanjšaj
+onboarding-checklist-remove =
+    .label = Odstrani kontrolni seznam
+onboarding-checklist-remove-2 = Odstrani kontrolni seznam
 
 ## Tab Groups feature onboarding strings
 
@@ -605,6 +608,13 @@ onboarding-refresh-gratitude-title = { -brand-short-name } vam krije hrbet
 smartwindow-existing-user-fx-tou-title = Pogoji uporabe { -brand-product-name(sklon: "rodilnik") }
 smartwindow-existing-user-fx-tou-accept = Sprejmi
 smartwindow-existing-user-fx-tou-go-back = Nazaj
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Nadaljuj
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Maskota { -brand-product-name(sklon: "rodilnik") } (Kit) z rekviziti v obliki zvezdice
 
 ## Smart Window Sidebar Auto-Open Pref
 

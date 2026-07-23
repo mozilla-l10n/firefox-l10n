@@ -1554,6 +1554,7 @@ firefox-relay-offer-why-to-use-relay = ماسکا ایمن ایما ک و کار
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = پوی ایمیلا فشناڌه وابیڌه و ماسکا ایمیل ایسا و  <strong>{ $useremail }</strong> فشناڌه ابۊن (مر یو ک بخۊین هونووݩ ن مسدۊد کۊنین).
+firefox-relay-offer-legal-notice = وا کلیک ری «و کار گرؽڌن ماسک ایمیل»، ایسا <label data-l10n-name="tos-url">شرتا خدمات</label> وو <label data-l10n-name="privacy-url">وارسۊوی هریم سیخومی</label> ن قوۊل اکۊنین.
 
 ## Add-on Pop-up Notifications
 
