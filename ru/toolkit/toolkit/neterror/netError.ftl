@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Всегда продолжать
 neterror-pref-reset = Похоже, что причиной этого могут быть настройки безопасности вашей сети. Вы хотите восстановить настройки по умолчанию?
 neterror-error-reporting-automatic = Отправка сообщений о подобных ошибках поможет { -vendor-short-name } обнаружить и заблокировать вредоносные сайты
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Ваше соединение не может быть защищено
+    .message = Приложение или сервис могут просматривать ваш зашифрованный трафик с этого сайта.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } не может загрузить эту страницу по неопределённой причине.

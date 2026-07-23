@@ -74,6 +74,39 @@ url-classifier-content-classifier-force-third-party = Считать запро�
 url-classifier-content-classifier-non-recommended-addon = Нерекомендуемое дополнение
 # Button: run the probe that reports whether the request would be blocked.
 url-classifier-content-classifier-probe-blocking-btn = Блокировка зонда
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Аннотация зонда
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Функция зонда
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Сведения о движке
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = Функция
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = Соответствует
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Исключение
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Важное
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Результат движка
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Срабатывание
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = Исключение
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Нет срабатывания
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Ошибка ({ $code })
 url-classifier-debug-title = Отладка
 url-classifier-debug-module-btn = Указать модули лога
 url-classifier-debug-file-btn = Указать файл лога
