@@ -142,6 +142,13 @@ sidebar-bookmarks-context-menu-delete-bookmark =
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Ta bort
 
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Stäng flik
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

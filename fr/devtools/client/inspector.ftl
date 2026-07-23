@@ -20,3 +20,27 @@ colorpicker-tooltip-hue-slider-title = Teinte
 colorpicker-tooltip-alpha-slider-title = Opacité
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseudo-classes spécifiques à un élément
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Activer/Désactiver l’émulation du jeu de couleurs claires pour la page
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Activer/Désactiver l’émulation du jeu de couleurs sombres pour la page
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = Activer/Désactiver les fonctionnalités d’émulation CSS
+    .aria-label = Activer/Désactiver les fonctionnalités d’émulation CSS
+inspector-emulation-panel-color-scheme = Émulation de jeu de couleurs
+# A label text for the print emulation options
+inspector-emulation-panel-print = Activer
+    .aria-label = Activer l’émulation de médias imprimés
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Clair
+    .aria-label = Activer l’émulation pour le jeu de couleurs claires
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Sombre
+    .aria-label = Activer l’émulation de jeu de couleurs sombres
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Pas d’émulation
+    .aria-label = Désactiver l’émulation du jeu de couleurs

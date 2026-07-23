@@ -160,6 +160,14 @@ action-log-reading-page = Läser sida
 action-log-read-page = Läs sidans innehåll
 action-log-searching-web = Söker på webben
 action-log-searched-web = Sökte på webben
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Söka på webben med <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Sökte på webben med <a data-l10n-name="exa-link">Exa</a>
 # Exa is the name of a third-party web search API
 # It is a brand name and should not be translated
 action-log-searched-web-exa = Sökte på webben med Exa

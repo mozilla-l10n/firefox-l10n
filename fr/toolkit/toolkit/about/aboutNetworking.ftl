@@ -19,6 +19,59 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validé
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Clé d’isolement
+about-networking-ssl-tokens = Jetons TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } jeton
+       *[other] { $count } jetons
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } a expiré)
+       *[other] ({ $count } a expiré)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } G ({ $saved } % d’économies)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } Ko ({ $percent } %)
+about-networking-ssl-tokens-partition-key = Clé de partition
+about-networking-ssl-tokens-tokens-column = Jetons
+about-networking-ssl-tokens-expires = Date d’expiration
+about-networking-ssl-tokens-certificate = Cert
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } jeton
+       *[other] { $count } jetons
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Restauré à partir de l’espace de stockage
+    .title = Restauré à partir de l’espace de stockage
+about-networking-ssl-tokens-new =
+    .alt = Nouveautés pour cette session
+    .title = Nouveautés pour cette session
+about-networking-ssl-tokens-expired =
+    .alt = Expiré
+    .title = Expiré
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Jetons : { $tokenLength } B. Encodés : { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = Certificat VR
+about-networking-ssl-tokens-ct-status = État de la transparence du certificat
+about-networking-ssl-tokens-overridable-error = Catégorie d’erreur remplaçable
+about-networking-ssl-tokens-built-in-root = Racine intégrée
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Chaîne de certificat ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Certificats d’établissement de liaison ({ $count })
 about-networking-refresh = Actualiser
 about-networking-auto-refresh = Actualiser toutes les 3 secondes
 about-networking-hostname = Nom d’hôte
