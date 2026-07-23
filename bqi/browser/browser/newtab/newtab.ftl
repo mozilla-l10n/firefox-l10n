@@ -193,6 +193,11 @@ newtab-privacy-across-sites =
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-info-2-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-info-3-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-info-4-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-info-5-cta = نیشتن زفت وابیڌنا
 newtab-privacy-message-info-6-cta = قلوه دووسته بۊین
 newtab-privacy-message-info-11-cta = قلوه دووسته بۊین
 
@@ -238,8 +243,14 @@ newtab-stocks-ticker-status-flat = { $name }، بؽ آلشتکاری { $change }
 # "©" is the copyright symbol.
 # $author (string) - the name of the image's author.
 newtab-picture-attribution-author = © { $author }
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = دؽوۉداری کاقز دیواری
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = قلوه دووسته بۊین
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = نشووݩ داڌن شؽوات ٱمرۊز
+    .aria-label = نشووݩ داڌن شؽوات ٱمرۊز
 
 ## Search box component.
 
@@ -410,8 +421,13 @@ newtab-menu-open-file = گۊشیڌن فایل
 newtab-label-visited = نیشته وابیڌه
 newtab-label-bookmarked = نشووک ناهاڌه وابیڌه
 newtab-label-removed-bookmark = نشووک پاک وابی
+newtab-label-recommended = سرتالا ترند
 newtab-label-saved = من { -pocket-brand-name } زفت وابیڌه
 newtab-label-download = دانلود وابیڌه
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#   $sponsor (string) - The name of a sponsor
+newtab-label-sponsored-by = هؽزگری وابیڌه و دست { $sponsor }
 # This string is used under fixed size ads to indicate sponsored content
 newtab-label-sponsored-fixed = هؽزگری وابیڌه
 
