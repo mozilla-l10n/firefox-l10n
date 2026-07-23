@@ -123,6 +123,10 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Hãy thử th
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Hãy thử thêm <strong>display:inline-block</strong>.
 inactive-css-not-display-block-on-floated-fix-1 = Hãy thử xóa <strong>float</strong> hoặc thêm <strong>display:block</strong>.
 inactive-css-not-block-fix-1 = Hãy thử thêm thuộc tính <strong>display:grid</strong> hoặc <strong>display:flex</strong>.
+inactive-css-not-block-container-fix-1 = Hãy thử thêm <strong>display:block</strong>, <strong>display:inline-block</strong> hoặc <strong>display:flow-root</strong>.
+inactive-css-not-block-flex-grid-container-fix-1 = Hãy thử thêm <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> hoặc <strong>display:flow-root</strong>.
+inactive-css-not-floated-fix-1 = Hãy thử thêm thuộc tính <strong>float</strong> có giá trị khác <strong>none</strong>.
+inactive-css-position-property-on-unpositioned-box-fix-1 = Hãy thử đặt thuộc tính <strong>position</strong> của nó thành một thứ khác ngoài <strong>static</strong>.
 inactive-css-only-replaced-elements-fix-1 = Đảm bảo bạn đang thêm thuộc tính vào phần tử được thay thế.
 inactive-text-overflow-when-no-overflow-fix-1 = Hãy thử thêm <strong>overflow:hidden</strong>.
 inactive-css-not-for-internal-table-elements-fix-1 = Hãy thử đặt thuộc tính <strong>display</strong> của nó thành thứ khác ngoài <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, hoặc <strong>table-footer-group</strong>.
@@ -132,6 +136,10 @@ inactive-css-collapsed-table-borders-fix-1 = Hãy thử thêm <strong>border-col
 inactive-css-not-table-cell-fix-1 = Hãy thử thêm <strong>display:table-cell</strong>.
 inactive-scroll-padding-when-not-scroll-container-fix-1 = Hãy thử thêm <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, hoặc <strong>overflow:hidden</strong>.
 inactive-css-border-image-fix-1 = Trên bảng phần tử mẹ, hãy xóa thuộc tính hoặc thay đổi giá trị của <strong>border-collapse</strong> sang một giá trị khác <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Hãy thử đặt <strong>overflow</strong> vào giá trị khác ngoài <strong>visible</strong> hoặc chọn một phần tử thay thế có hỗ trợ nó.
+inactive-css-ruby-element-fix-1 = Hãy thử thay đổi <strong>font-size</strong> của văn bản ruby.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Hãy thử giảm số lượng dòng.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Tránh phân chia nội dung của phần tử, ví dụ bằng cách xóa các cột hoặc bằng cách sử dụng <strong>page-break-inside:avoid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
