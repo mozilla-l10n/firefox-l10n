@@ -123,6 +123,16 @@ inactive-css-ruby-element-fix = Try changing the <strong>font-size</strong> of t
 inactive-css-text-wrap-balance-lines-exceeded-fix = Try to reduce the number of lines. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Avoid splitting the element’s content e.g. by removing the columns or by using <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Try adding a <strong>display</strong> value that creates a principal box, such as <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, or <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-fix-1 = Try adding <strong>display:grid</strong> or <strong>display:flex</strong>.
+inactive-css-not-grid-or-flex-or-block-container-fix-1 = Try adding <strong>display:grid</strong>, <strong>display:flex</strong> or <strong>display:block</strong>.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Try adding either <strong>display:grid</strong>, <strong>display:flex</strong>, or <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Try adding either <strong>column-count</strong> or <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Try adding <strong>column-count</strong> or <strong>column-width</strong> to one of its ancestor elements.
+inactive-css-not-grid-or-flex-item-fix-4 = Try adding <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, or <strong>display:inline-flex</strong> to the element’s parent.
+inactive-css-not-grid-item-fix-3 = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong> to the element’s parent.
+inactive-css-not-grid-container-fix-1 = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong>.
+inactive-css-not-flex-item-fix-3 = Try adding <strong>display:flex</strong> or <strong>display:inline-flex</strong> to the element’s parent.
+inactive-css-not-flex-container-fix-1 = Try adding <strong>display:flex</strong> or <strong>display:inline-flex</strong>.
 inactive-css-not-inline-or-tablecell-fix-1 = Try adding <strong>display:inline</strong> or <strong>display:table-cell</strong>.
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Try adding <strong>display:inline-block</strong> or <strong>display:block</strong>.
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Try adding <strong>display:inline-block</strong>.
@@ -132,6 +142,15 @@ inactive-css-not-block-fix-1 = Try adding properties like <strong>display:block<
 inactive-css-not-block-container-fix-1 = Try adding <strong>display:block</strong>, <strong>display:inline-block</strong> or <strong>display:flow-root</strong>.
 inactive-css-not-block-flex-grid-container-fix-1 = Try adding <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> or <strong>display:flow-root</strong>.
 inactive-css-not-floated-fix-1 = Try adding the <strong>float</strong> property with a value other than <strong>none</strong>.
+inactive-css-collapsed-table-borders-fix-1 = Try adding <strong>border-collapse:separate</strong>.
+inactive-css-not-table-cell-fix-1 = Try adding <strong>display:table-cell</strong>.
+inactive-scroll-padding-when-not-scroll-container-fix-1 = Try adding <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, or <strong>overflow:hidden</strong>.
+inactive-css-border-image-fix-1 = On the parent table element, remove the property or change the value of <strong>border-collapse</strong> to a value other than <strong>collapse</strong>.
+inactive-css-resize-fix-1 = Try setting <strong>overflow</strong> to a value other than <strong>visible</strong> or targeting a replaced element supporting it.
+inactive-css-ruby-element-fix-1 = Try changing the <strong>font-size</strong> of the ruby text.
+inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Try to reduce the number of lines.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Avoid splitting the element’s content e.g. by removing the columns or by using <strong>page-break-inside:avoid</strong>.
+inactive-css-no-principal-box-fix-1 = Try adding a <strong>display</strong> value that creates a principal box, such as <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, or <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
