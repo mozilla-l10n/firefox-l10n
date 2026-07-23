@@ -133,6 +133,9 @@ inactive-css-ruby-element-fix = Încearcă să modifici <strong>font-size</stron
 inactive-css-text-wrap-balance-lines-exceeded-fix = Încercați să reduceți numărul de rânduri. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evită fragmentarea conținutului elementului, de ex. prin eliminarea coloanelor sau folosind <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Încearcă să adaugi o valoare de <strong>display</strong>, care creează o cutie principală, cum ar fi <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> sau <strong>grid</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix-1 = Încearcă să adaugi <strong>display:inline-block</strong> sau <strong>display:block</strong>.
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix-1 = Încearcă să adaugi <strong>display:block</strong>.
+inactive-css-not-display-block-on-floated-fix-1 = Încearcă să elimini <strong>float</strong> sau să adaugi <strong>display:block</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
