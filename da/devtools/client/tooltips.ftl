@@ -10,6 +10,14 @@ learn-more = <span data-l10n-name="link">Læs mere</span>
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -121,6 +129,11 @@ inactive-css-ruby-element-fix = Prøv at ændre ruby-tekstens <strong>skriftstø
 inactive-css-text-wrap-balance-lines-exceeded-fix = Prøv at reducere antallet af linjer. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Undgå at opdele elementets indhold, fx ved at fjerne kolonner eller bruge <strong>page-break-inside:avoid</strong>. { learn-more }
 inactive-css-no-principal-box-fix = Prøv at tilføje en <strong>display</strong>-værdi, der opretter en primær boks - for eksempel <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> eller <strong>grid</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Prøv at tilføje <strong>display:grid</strong>, <strong>display:flex</strong> eller <strong>columns:2</strong>.
+inactive-css-not-multicol-container-fix-1 = Prøv at tilføje enten <strong>column-count</strong> eller <strong>column-width</strong>.
+inactive-css-column-span-fix-1 = Prøv at tilføje <strong>column-count</strong> eller <strong>column-width</strong> til et af dets overordnede elementer.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Prøv at filføje <strong>position:absolute</strong> til elementet, eller <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> til elementets forælder.
+inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Prøv at tilføje <strong>position:absolute</strong> til elementet eller<strong>display:grid</strong> eller <strong>display:inline-grid</strong> til elementets forælder.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -146,3 +159,10 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Læs mere</sp
 css-selector-warning-unconstrained-has = Denne selektor bruger <strong>:has()</strong> uden restriktioner, hvilket kan være langsomt
 # :scope should not be translated
 css-selector-warning-sibling-combinator-after-scope = Søskende-selektorer efter <strong>:scope</strong> vil aldrig matche noget
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
