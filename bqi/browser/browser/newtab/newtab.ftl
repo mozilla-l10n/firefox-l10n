@@ -144,6 +144,8 @@ home-prefs-highlights-option-visited-pages-srd =
     .label = بلگه یل نیشته وابیڌه
 home-prefs-highlights-options-bookmarks-srd =
     .label = نشووکا
+home-prefs-highlights-option-most-recent-download-srd =
+    .label = نۊ ترین دانلود
 home-prefs-recent-activity-header-srd =
     .label = فعالیتا دیندایی
 home-prefs-recent-activity-select =
@@ -152,11 +154,38 @@ home-prefs-weather-header-srd =
     .label = ٱو وو هوا
 home-prefs-support-firefox-header-srd =
     .label = لادرار { -brand-product-name }
+home-prefs-mission-message-learn-more-link-srd = بجۊرین ک چتاور
 
 ## Strings for the Privacy widget
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = قلوه دووسته بۊین
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] رڌجۊر ٱمرۊز مسدۊد وابی
+       *[other] رڌجۊرا ٱمرۊز مسدۊد وابین
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] من پوی { $count } وبگه
+       *[other] من پوی { $count } وبگه
+    }
 
 ## Privacy widget — informational messages
 ##
@@ -182,6 +211,8 @@ newtab-privacy-message-promo-private-window-1-cta = گۊشیڌن نیمدری س
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = پیتینیڌن نمادا قیمت
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = قلوه دووسته بۊین
 # Heading for the Stocks widget.
@@ -299,6 +330,12 @@ newtab-menu-section-tooltip =
 newtab-dismiss-button-tooltip =
     .title = پاک کردن
     .aria-label = پاک کردن
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = گۊشیڌن نومگه
+    .aria-label = نومگه زمینه ن سی { $title } بۊگۊشین
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = آلشت ای وبگه
@@ -326,11 +363,22 @@ newtab-menu-report = گوزارش
 newtab-menu-section-block = مسدۊد کردن
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = قلوه دووسته بۊین
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = لقو و دین کردن سرتال
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+newtab-menu-manage-sponsored-content = دؽوۉداری موئتوای هؽزگری وابیڌه
+newtab-menu-our-sponsors-and-your-privacy = هؽزگرووݩ ایما وو هریم سیخومی ایسا
+newtab-menu-report-this-ad = ای تبلیغ ن گوزارش کۊنین
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ٱنجوم وابی
 newtab-privacy-modal-button-manage = دؽوۉداری سامووا موئتوا هؽزگر
+newtab-privacy-modal-header = هریم سیخومی ایسا ٱهمیت داره.
+newtab-privacy-modal-link = زبار هریم سیخومی من بلگه نۊ ویر بگرین
 
 ##
 
