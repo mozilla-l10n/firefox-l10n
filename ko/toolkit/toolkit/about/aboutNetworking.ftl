@@ -19,6 +19,47 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = 검증됨
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = 격리 키
+about-networking-ssl-tokens = TLS 토큰
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count = 토큰 { $count }개
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired = ({ $count }개 만료됨)
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $deCompressedLength } → { $CompressedLength } B ({ $saved }% 저장됨)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $Used } / { $Capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = 파티션 키
+about-networking-ssl-tokens-tokens-column = 토큰
+about-networking-ssl-tokens-expires = 만료일
+about-networking-ssl-tokens-certificate = 인증서
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list = 토큰 { $count }개
+about-networking-ssl-tokens-restored =
+    .alt = 저장소에서 복원됨
+    .title = 저장소에서 복원됨
+about-networking-ssl-tokens-new =
+    .alt = 이 세션 신규
+    .title = 이 세션 신규
+about-networking-ssl-tokens-expired =
+    .alt = 만료됨
+    .title = 만료됨
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = 토큰: { $tokenLength } B. 인코딩됨: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV 인증
+about-networking-ssl-tokens-ct-status = 인증서 투명성 상태
+about-networking-ssl-tokens-overridable-error = 예외 처리 가능한 오류 분류
+about-networking-ssl-tokens-built-in-root = 내장 루트
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = 인증서 체인 ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = 핸드셰이크 인증서 ({ $count })
 about-networking-refresh = 새로 고침
 about-networking-auto-refresh = 3초마다 자동 새로 고침
 about-networking-hostname = 호스트명

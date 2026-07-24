@@ -150,3 +150,40 @@ login-item-timeline-action-used = Digunakan
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Untuk menyunting log masuk anda, masukkan kelayakan log masuk Windows anda. Ini membantu melindungi keselamatan akaun anda.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = sunting log masuk tersimpan
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] mengubah tetapan untuk kata laluan
+       *[other] { -brand-short-name } sedang cuba mengubah tetapan untuk kata laluan. Gunakan daftar masuk peranti anda untuk membenarkan ini.
+    }
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Untuk menyunting kata laluan anda, masukkan kelayakan log masuk Windows anda. Ini membantu melindungi keselamatan akaun anda.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = sunting kata laluan tersimpan
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Untuk melihat kata laluan anda, masukkan kelayakan log masuk Windows anda. Ini membantu melindungi keselamatan akaun anda.
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = papar kata laluan tersimpan
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Untuk menyalin kata laluan anda, masukkan kelayakan log masuk Windows anda. Ini membantu melindungi keselamatan akaun anda.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = salin kata laluan tersimpan
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Untuk mengeksport log masuk anda, masukkan kelayakan log masuk Windows anda. Ini membantu melindungi keselamatan akaun anda.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = eksport log masuk dan kata laluan tersimpan
