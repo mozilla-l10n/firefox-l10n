@@ -132,8 +132,7 @@ urlbar-identity-button2 =
     .aria-label =
         { $count ->
             [0] Visa webbplatsinformation
-            [1] Visa sidinformation (1 spårare blockerad)
-            [one] Visa webbplatsinformation ({ $count } spårare blockerade)
+            [1] Visa webbplatsinformation (1 spårare blockerad)
            *[other] Visa webbplatsinformation ({ $count } spårare blockerade)
         }
 
@@ -1812,7 +1811,7 @@ urlbar-trust-icon-notsecure-label = Inte säker
 #  $count (number): the number of trackers blocked.
 urlbar-trust-icon-trackers-blocked-longform-label =
     { $count ->
-        [one] { $count } spårare blockerade
+        [one] { $count } spårare blockerad
        *[other] { $count } spårare blockerade
     }
 

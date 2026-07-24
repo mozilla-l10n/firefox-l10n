@@ -189,7 +189,7 @@ autofill-passport-country =
 autofill-passport-number =
     .label = Nummer
 # Heading shown above the passport issue date fields.
-autofill-passport-issue-date = Utfärdandedatum
+autofill-passport-issue-date = Utgivningsdatum
 # Heading shown above the passport expiration date fields.
 autofill-passport-expiry-date = Utgångsdatum
 # Month dropdown label for passport dates.
@@ -219,10 +219,10 @@ passport-capture-save-button =
     .accessKey = S
 passport-capture-not-now-button =
     .label = Inte nu
-    .accessKey = w
+    .accessKey = n
 passport-capture-never-save-button =
     .label = Spara aldrig pass
-    .accessKey = N
+    .accessKey = a
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

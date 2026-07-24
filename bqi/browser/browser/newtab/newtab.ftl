@@ -727,6 +727,7 @@ newtab-weather-opt-in-not-now =
     .label = سکو ن
 newtab-weather-opt-in-yes =
     .label = هری
+newtab-weather-opt-in-headline = پؽش بینی ٱو وو هوا مهلی خوتووݩ ن بگرین
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = شئر نیویورک
 # "Highest" here refers to the highest temperature of the day
@@ -774,8 +775,16 @@ newtab-topic-selection-button-pick-interests = پسند علاقه یل خوتو
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = و دین کردن
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = و دین کردن { $topic }
 newtab-section-following-button = و دین کرده وابیڌه
 newtab-section-unfollow-button = لقو و دین کردن
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = و دین کردن: لقو و دین کردن { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = فید خوتووݩ ن دییق سامووݩ کۊنین
 
@@ -787,9 +796,21 @@ newtab-section-block-button = مسدۊد کردن
 newtab-section-blocked-button = مسدۊد وابیڌه
 newtab-section-unblock-button = ز مسدۊدی دراووردن
 # Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = و دین کردن { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = لقو و دین کردن { $topic }
+# Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic =
     .aria-label = مسدۊد کردن { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = لقو مسدۊد کردن { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -804,9 +825,11 @@ newtab-section-block-cancel-button = لقو
 newtab-section-mangage-topics-title = سرتالا
 newtab-section-manage-topics-button-v2 =
     .label = دؽوۉداری سرتالا
+newtab-section-mangage-topics-followed-topics = و دین کرده
 newtab-section-mangage-topics-followed-topics-empty-state = ایسا هنی هیچ سرتالی ن و دین نکردینه.
 newtab-section-mangage-topics-blocked-topics = مسدۊد وابیڌه
 newtab-section-mangage-topics-blocked-topics-empty-state = ایسا هنی هیچ سرتالی ن مسدۊد نکردینه.
+newtab-custom-wallpaper-title = پس زمینه یل سفارشی ن ایچونا هڌه
 newtab-custom-wallpaper-cta = امتهووس کوݩ
 
 ## Strings for new user activation custom wallpaper highlight
@@ -816,6 +839,8 @@ newtab-new-user-custom-wallpaper-cta = هیم سکو امتهووݩ کوݩ
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = دانلود { -brand-product-name } سی موبایل
+newtab-download-mobile-highlight-image =
+    .aria-label = QR کود دانلود { -brand-product-name } سی موبایل
 
 ## Strings for shortcuts highlight
 

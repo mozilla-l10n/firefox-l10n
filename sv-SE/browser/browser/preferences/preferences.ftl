@@ -1703,15 +1703,12 @@ passports-delete-passport-button-label =
     .aria-label = Ta bort
 passports-edit-passport-button-label =
     .aria-label = Redigera
-passports-delete-passport-prompt-title = Ta bort det här passet?
+passports-delete-passport-prompt-title = Ta bort detta pass?
 passports-delete-passport-prompt-confirm-button = Ta bort
 passports-delete-passport-prompt-cancel-button = Avbryt
 autofill-passports-add-button = Lägg till nytt pass
 autofill-personal-info-manage-title =
     .heading = Hantera personlig information
-# This message is displayed when no passports are stored in Firefox
-passports-no-passports-stored-message =
-    .label = Inga pass har lagts till
 pane-passwords-autofill-title2 = Lösenord och autofyll
     .title = Lösenord och autofyll
 preferences-passwords-autofill-header =

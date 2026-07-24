@@ -64,6 +64,14 @@ about-networking-ssl-tokens-expired =
 # $compressedLength (Number) - Total size in bytes after compression
 about-networking-ssl-tokens-compression-details =
     .title = Symboler: { $tokenLength } B. Kodet: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV-sertifikat
+about-networking-ssl-tokens-ct-status = Status for sertifikattransparens
+about-networking-ssl-tokens-overridable-error = Overstyrbar feilkategori
+about-networking-ssl-tokens-built-in-root = Innebygd rotsertifikat
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Sertifikatkjede ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Håndtrykkssertifikater ({ $count })
 about-networking-refresh = Oppdater
 about-networking-auto-refresh = Auto-oppdater hvert 3. sekund
 about-networking-hostname = Vertsnavn

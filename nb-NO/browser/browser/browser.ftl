@@ -622,6 +622,7 @@ identity-description-passive-loaded-mixed2 = Selv om { -brand-short-name } har b
 identity-description-active-loaded = Dette nettstedet inneholder innhold som ikke er overført sikkert (som f.eks. skript), og tilkoblingen til nettstedet er derfor ikke privat.
 identity-description-active-loaded-insecure = Informasjon du sender til dette nettstedet kan vises av andre (som passord, meldinger, betalingskort, osv.).
 identity-description-tls-key-logging-heading = Tilkoblingen er kanskje ikke privat
+identity-description-tls-key-logging-message = En app eller tjeneste kan se den krypterte trafikken din fra dette nettstedet.
 identity-disable-mixed-content-blocking =
     .label = Slå av beskyttelse
     .accesskey = a
