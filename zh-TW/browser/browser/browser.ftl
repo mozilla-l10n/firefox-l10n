@@ -126,6 +126,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = 管理彈出型視窗與第三方重新導向選項…
     .accesskey = M
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] 檢視網站資訊
+            [1] 檢視網站資訊（已封鎖 1 組追蹤器）
+           *[other] 檢視網站資訊（已封鎖 { $count } 組追蹤器）
+        }
 
 ##
 

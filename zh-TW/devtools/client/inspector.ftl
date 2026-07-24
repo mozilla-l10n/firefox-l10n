@@ -20,3 +20,16 @@ colorpicker-tooltip-hue-slider-title = 色調
 colorpicker-tooltip-alpha-slider-title = 透​明度
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = 特定元素的 pseudo-classes
+inspector-emulation-panel-color-scheme = 配色模擬
+# A label text for the print emulation options
+inspector-emulation-panel-print = 啟用
+    .aria-label = 開啟列印媒體模擬功能
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = 亮色
+    .aria-label = 開啟亮色配色模擬功能
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = 暗色
+    .aria-label = 開啟暗色配色模擬功能
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = 不模擬
+    .aria-label = 關閉配色模擬功能
