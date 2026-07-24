@@ -62,7 +62,7 @@ url-classifier-content-classifier-destination-type = Destinationstyp
 url-classifier-content-classifier-flags = Flaggor
 # Header for the group of buttons that run a classification test. A "probe" here
 # means running the classifier once and reporting what it would do.
-url-classifier-content-classifier-probes = Utforskar
+url-classifier-content-classifier-probes = Tester
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Resultat
 url-classifier-content-classifier-pbm = Privat surfning
@@ -73,13 +73,13 @@ url-classifier-content-classifier-force-third-party = Tvinga tredje part till ö
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Ej rekommenderat tillägg
 # Button: run the probe that reports whether the request would be blocked.
-url-classifier-content-classifier-probe-blocking-btn = Blockering av sond
+url-classifier-content-classifier-probe-blocking-btn = Blockera tester
 # Button: run the probe that reports whether the request would be annotated
 # (labeled) as tracking without being blocked.
-url-classifier-content-classifier-probe-annotate-btn = Prob-kommentar
+url-classifier-content-classifier-probe-annotate-btn = Testkommentar
 # Button: run the probe against a single classifier feature chosen in the
 # adjacent dropdown.
-url-classifier-content-classifier-probe-feature-btn = Prob-funktion
+url-classifier-content-classifier-probe-feature-btn = Testfunktion
 # Label for an expandable area showing the detailed per-feature output from the
 # classification engine.
 url-classifier-content-classifier-engine-details = Motordetaljer
@@ -102,7 +102,7 @@ url-classifier-content-classifier-verdict-hit = Träff
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Undantag
 # Overall verdict shown when the classifier did not match the request at all.
-url-classifier-content-classifier-verdict-miss = Fröken
+url-classifier-content-classifier-verdict-miss = Miss
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.

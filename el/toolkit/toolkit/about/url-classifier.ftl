@@ -46,6 +46,15 @@ url-classifier-content-classifier-destination-type = Τύπος προορισμ
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Αποτελέσματα
 url-classifier-content-classifier-pbm = Ιδιωτική περιήγηση
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Μη προτεινόμενο πρόσθετο
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Εξαίρεση
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Σημαντικό
 # Column header: the raw result code returned by the engine for this feature.
 url-classifier-content-classifier-col-engine-result = Αποτέλεσμα μηχανής
 # Overall verdict shown when the request is spared because it matched an

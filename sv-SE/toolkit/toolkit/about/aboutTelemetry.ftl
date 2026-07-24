@@ -20,7 +20,7 @@ about-telemetry-more-information = Letar du efter mer information?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox datadokumentation</a> innehåller guider om hur du arbetar med våra datainställningar.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry klientdokumentation</a> innehåller definitioner för begrepp, API-dokumentation och datareferenser.
 about-telemetry-telemetry-dashboard = Med <a data-l10n-name="dashboard-link">Telemetry översikter</a> kan du visualisera de data som Mozilla tar emot via telemetri.
-about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> innehåller detaljer och beskrivningar för de sonder som samlats in av Telemetry.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> innehåller detaljer och beskrivningar för de tester som samlats in av Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Öppna i JSON-visaren
 about-telemetry-home-section = Hem
 about-telemetry-general-data-section = Allmän data
