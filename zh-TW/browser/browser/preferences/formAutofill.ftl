@@ -184,6 +184,8 @@ autofill-edit-passport-title = 編輯護照資料
 
 autofill-passport-name =
     .label = 姓名
+autofill-passport-country =
+    .label = 簽發國家
 autofill-passport-number =
     .label = 護照號碼
 # Heading shown above the passport issue date fields.

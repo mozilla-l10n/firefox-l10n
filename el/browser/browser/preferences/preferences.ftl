@@ -1699,9 +1699,13 @@ passports-delete-passport-button-label =
     .aria-label = Διαγραφή
 passports-edit-passport-button-label =
     .aria-label = Επεξεργασία
+passports-delete-passport-prompt-title = Διαγραφή διαβατηρίου;
 passports-delete-passport-prompt-confirm-button = Διαγραφή
 passports-delete-passport-prompt-cancel-button = Ακύρωση
 autofill-passports-add-button = Προσθήκη νέου διαβατηρίου
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Δεν έχουν προστεθεί διαβατήρια
 pane-passwords-autofill-title2 = Κωδικοί πρόσβασης και αυτόματη συμπλήρωση
     .title = Κωδικοί πρόσβασης και αυτόματη συμπλήρωση
 preferences-passwords-autofill-header =

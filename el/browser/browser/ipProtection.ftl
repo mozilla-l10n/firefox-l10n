@@ -56,6 +56,12 @@ ipprotection-feature-introduction-button-get-started = Έναρξη
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Θα γίνει επαναφορά των ορίων του ενσωματωμένου VPN την 1η Σεπτεμβρίου
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Το ενσωματωμένο VPN σας μόλις έγινε καλύτερο
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Άνοιγμα VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Απόκτηση του { -mozilla-vpn-brand-name }

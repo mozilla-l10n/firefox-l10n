@@ -610,6 +610,7 @@ identity-description-passive-loaded-insecure2 = Αυτός ο ιστότοπος
 identity-description-passive-loaded-mixed2 = Παρόλο που το { -brand-short-name } έχει αποκλείσει ορισμένο περιεχόμενο, υπάρχει ακόμη επισφαλές περιεχόμενο (π.χ. εικόνες).
 identity-description-active-loaded = Αυτός ο ιστότοπος διαθέτει επισφαλές περιεχόμενο (όπως σενάρια) και η σύνδεσή σας δεν είναι ιδιωτική.
 identity-description-active-loaded-insecure = Οι πληροφορίες που μοιράζεστε με αυτόν τον ιστότοπο μπορεί να προβληθούν από τρίτους (όπως κωδικοί πρόσβασης, μηνύματα, πιστωτικές κάρτες κ.λπ.).
+identity-description-tls-key-logging-heading = Η σύνδεσή σας ενδέχεται να μην είναι ιδιωτική
 identity-disable-mixed-content-blocking =
     .label = Προσωρινή απενεργοποίηση προστασίας
     .accesskey = Π
@@ -1795,6 +1796,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Μη ασφαλής
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } αποκλεισμένος ιχνηλάτης
+       *[other] { $count } αποκλεισμένοι ιχνηλάτες
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

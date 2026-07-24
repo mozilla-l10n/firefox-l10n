@@ -125,6 +125,8 @@ fxa-menu-manage-sync-settings =
     .label = Διαχείριση ρυθμίσεων συγχρονισμού
 fxa-menu-add-device =
     .label = Προσθήκη συσκευής
+fxa-menu-device-missing =
+    .label = Δεν βλέπετε τη συσκευή σας;
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
 fxa-menu-all-devices =
     .label = Όλες οι συσκευές

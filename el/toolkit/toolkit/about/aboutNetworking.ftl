@@ -26,6 +26,10 @@ about-networking-ssl-tokens-summary-count =
         [one] { $count } διακριτικό
        *[other] { $count } διακριτικά
     }
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
 about-networking-ssl-tokens-tokens-column = Διακριτικά
 about-networking-ssl-tokens-expires = Λήξη
 # $count (Number) - Number of tokens sharing this row's host and certificate

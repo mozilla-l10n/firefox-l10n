@@ -160,6 +160,14 @@ action-log-reading-page = Ανάγνωση σελίδας
 action-log-read-page = Έγινε ανάγνωση περιεχομένου σελίδας
 action-log-searching-web = Αναζήτηση στο διαδίκτυο
 action-log-searched-web = Έγινε αναζήτηση στο διαδίκτυο
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Αναζήτηση στον ιστό με το <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Έγινε αναζήτηση στον ιστό με το <a data-l10n-name="exa-link">Exa</a>
 # Exa is the name of a third-party web search API
 # It is a brand name and should not be translated
 action-log-searched-web-exa = Έγινε αναζήτηση στο διαδίκτυο με το Exa

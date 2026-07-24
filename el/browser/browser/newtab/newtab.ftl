@@ -317,6 +317,8 @@ newtab-privacy-message-first-protection-cta = Προβολή μέτρων προ
 newtab-stocks-menu-search = Αναζήτηση συμβόλων μετοχών
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Μάθετε περισσότερα
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Δεν διατίθενται δεδομένα μετοχών.
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Μετοχές
 

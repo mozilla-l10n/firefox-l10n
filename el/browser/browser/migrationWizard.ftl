@@ -191,6 +191,9 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Ολοκληρώθηκε
 migration-safari-password-import-header = Εισαγωγή κωδικών πρόσβασης από το Safari
+migration-safari-password-import-post-sequoia-step1 = Ανοίξτε την <a data-l10n-name="macos-passwords-app">εφαρμογή «Συνθηματικά»</a> στο Mac σας
+migration-safari-password-import-post-sequoia-step2 = Από τη γραμμή μενού στο πάνω μέρος της οθόνης, επιλέξτε «Αρχείο» > «Εξαγωγή όλων των συνθηματικών σε αρχείο…»
+migration-safari-password-import-post-sequoia-step3 = Αποθηκεύστε το αρχείο
 migration-safari-password-import-steps-header = Για την εισαγωγή κωδικών πρόσβασης από το Safari:
 migration-safari-password-import-step1 = Στο Safari, ανοίξτε το μενού «Safari» και μεταβείτε στις Προτιμήσεις > Συνθηματικά
 migration-safari-password-import-step2 = Κάντε κλικ στο κουμπί <img data-l10n-name="safari-icon-3dots"/> και επιλέξτε «Εξαγωγή όλων των συνθηματικών»
