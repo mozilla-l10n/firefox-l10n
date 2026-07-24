@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Әрқашан жалғастыру
 neterror-pref-reset = Сіздің желілік қауіпсіздік баптаулар осыны туғызатын сияқты. Бастапқы баптауларды қалпына келтіруді қалайсыз ба?
 neterror-error-reporting-automatic = Осындай қателер туралы хабарлап, { -vendor-short-name }-ға зиянды сайттарды анықтауға және блоктауға көмектесу
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Сіздің байланысыңыз жеке емес болуы мүмкін
+    .message = Қолданба немесе қызмет осы сайттан шифрленген трафикті көруі мүмкін.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } осы парақты белгісіз себептермен жүктей алмайды.

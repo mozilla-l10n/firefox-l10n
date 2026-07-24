@@ -53,6 +53,9 @@ url-classifier-content-classifier-pbm = Жекелік шолу
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Ұсынылмайтын қосымша
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Қозғалтқыш ақпараты
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Мүмкіндік
 # Column header: whether the request matched this feature (true/false).
@@ -63,6 +66,8 @@ url-classifier-content-classifier-col-exception = Ережеден тыс
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
 url-classifier-content-classifier-col-important = Маңызды
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Қозғалтқыш нәтижесі
 # Overall verdict shown when the request would be acted on (blocked or
 # annotated): the classifier matched.
 url-classifier-content-classifier-verdict-hit = Сәйкестік

@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Temiandu mondo
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>ha’e peteĩ<label data-l10n-name="community-exp-creditsLink">Yvóra rekoha</label>Ñamba’apo oñondivepa ikatu hag̃uáicha ñanduti ijuruja, opavavépe g̃uarã ha oikekuaahápe oimeraẽva.
 community-2 = { -brand-short-name } apohare<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, peteĩ <label data-l10n-name="community-creditsLink">Yvóra rekoha</label>ñamba’apo oñondivepa ikatu hag̃uáicha ñanduti ijuruja, opavavépe g̃uarã ha oikekuaahápe oimeraẽva.
 helpus = Reipytyvõsepa<label data-l10n-name="helpus-donateLink">Mba’eme’ẽ</label> térã<label data-l10n-name="helpus-getInvolvedLink">eiképy</label>
+helpus-referrals = ¿Eipytyvõsepa? <label data-l10n-name="helpus-donateLink">Embojopói</label>, <label data-l10n-name="helpus-shareFirefoxLink">Emoherakuã { -brand-short-name }</label>, térã <label data-l10n-name="helpus-getInvolvedLink">¡eike pype!</label>
 bottomLinks-license = Marandu ñe’ẽme’ẽguigua
 bottom-links-terms = Jeporurã reko
 bottom-links-privacy = Marandu’i ñemigua

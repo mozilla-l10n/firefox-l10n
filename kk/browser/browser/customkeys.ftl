@@ -93,6 +93,9 @@ customkeys-conflict-confirm-body = Бұл кілтті «{ $conflict }» пай�
 customkeys-conflict-confirm-button-confirm = Сонда да қолдану
 customkeys-conflict-confirm-button-cancel = Бас тарту
 customkeys-conflict-unusable-title = Кілтті пайдалану мүмкін емес
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Бұл кілтті «{ $conflict }» пайдаланып келеді және оны пайдалану мүмкін емес.
 customkeys-reset-all-confirm-title = Бастапқы мәндерін қайтару керек пе?
 customkeys-reset-all-confirm-body = Сіз жасаған кез келген пернетақта жарлықтары өшірілетін болады.
 customkeys-reset-all-confirm-button-confirm = Бастапқы мәндерін қайтару

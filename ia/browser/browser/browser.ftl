@@ -126,6 +126,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gerer le configurationes de quadros resaltante e re-directiones de tertie-partes…
     .accesskey = G
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Vider le informationes del sito
+            [1] Vider le informationes del sito
+            [one] Vider le informationes del sito (1 traciator blocate)
+           *[other] Vider le informationes del sito ({ $count } traciatores blocate)
+        }
 
 ##
 
@@ -613,6 +623,7 @@ identity-description-passive-loaded-mixed2 = Ben que { -brand-short-name } ha bl
 identity-description-active-loaded = Iste sito web ha contento non secur (per exemplo, scripts) e tu connexion a illo non es private.
 identity-description-active-loaded-insecure = Le informationes que tu insere sur iste sito poterea esser vidite per alteres (per exemplo, contrasignos, messages, cartas de credito, etc.).
 identity-description-tls-key-logging-heading = Tu connexion pote non esser private
+identity-description-tls-key-logging-message = Un application o servicio pote vider tu traffico cryptate ab iste sito.
 identity-disable-mixed-content-blocking =
     .label = Disactivar le protection pro le momento
     .accesskey = D
@@ -1798,6 +1809,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Non secur
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } traciator blocate.
+       *[other] { $count } traciatores blocate.
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

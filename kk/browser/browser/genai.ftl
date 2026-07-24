@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Anthropic Claude таңдау арқылы с
 genai-settings-chat-copilot-links = Copilot таңдау арқылы сіз <a data-l10n-name="link1">Copilot ЖИ қолдану шарттары</a> және <a data-l10n-name="link2">Microsoft жекелік мәлімдемесі</a> шарттарымен келісесіз.
 genai-settings-chat-gemini-links = Google Gemini таңдау арқылы сіз <a data-l10n-name="link1">Google қызмет көрсету шарттары</a>, <a data-l10n-name="link2">Генеративті ЖИ тыйым салынған қолдану саясаты</a> және <a data-l10n-name="link3">Gemini қолданбаларының жекелік саясаты</a> шарттарымен келісесіз.
 genai-settings-chat-huggingchat-links = HuggingChat таңдау арқылы сіз <a data-l10n-name="link1">HuggingChat жекелік ескертуі</a> және <a data-l10n-name="link2">Hugging Face жекелік саясаты</a> шарттарымен келісесіз.
+genai-settings-chat-lechat-links-2 = Mistral Vibe таңдау арқылы сіз Mistral AI ұйымының <a data-l10n-name="link1">Қызмет көрсету шарттары</a> және <a data-l10n-name="link2">Жекелік саясаты</a> шарттарымен келісесіз.
 genai-settings-chat-lechat-links = Le Chat Mistral таңдау арқылы сіз Mistral AI ұйымының <a data-l10n-name="link1">Қызмет көрсету шарттары</a> және <a data-l10n-name="link2">Жекелік саясаты</a> шарттарымен келісесіз.
 genai-settings-chat-localhost-links = { -vendor-short-name } инновациялар тобынан <a data-l10n-name="link1">llamafile</a> сияқты жеке жергілікті чат-ботты жасаңыз.
 
@@ -168,6 +169,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Gemini туралы көбірек білу
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = HuggingChat туралы көбірек білу
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral

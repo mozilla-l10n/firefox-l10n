@@ -56,8 +56,31 @@ ipprotection-feature-introduction-button-get-started = Бастау
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Сіздің кірістірілген VPN шектеулеріңіз 1 қыркүйекте қалпына келтіріледі
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Шолуыңызды бақылауды қиындату үшін қосымша жекелік үшін { $maxUsage } ГБ және 6 орналасуды пайдаланыңыз.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Шолуыңызды бақылауды қиындату үшін қосымша жекелік үшін { $maxUsage } ГБ және 20-дан астам орналасуды пайдаланыңыз.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Сіздің кірістірілген VPN жақсарды
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Қосымша кіріктірілген VPN орналасуларды сақтаңыз
+ipprotection-summer-promo-offramp-default-browser-incentive-description = { -brand-product-name } браузерін негізгі браузер етіп, 31 тамыздан кейін шолуға болатын 20-дан астам қосымша орналасуды алыңыз.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = { -mozilla-vpn-brand-name } көмегімен деңгейіңізді көтеріңіз
+ipprotection-summer-promo-offramp-subscription-upsell-description = Шолуыңызды бақылауды қиындату үшін, 31 тамыздан кейін 5 құрылғыда 300-ден астам орналасуы бар шексіз өткізу қабілеттілігін сақтаңыз.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN ашу
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Әдепкі күйге орнату
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } алу
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Елемеу
 
@@ -160,6 +183,8 @@ ipprotection-connection-status-network-error-title-1 = Интернетпен б
 ipprotection-connection-status-network-error-description = Интернетке қосылыңыз, содан кейін VPN іске қосып көріңіз.
 ipprotection-connection-status-blocked-error-title-1 = VPN қолжетімді емес
     .aria-label = VPN қолжетімді емес
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Жергілікті заңдар мен шектеулер VPN пайдалануға болатын жерлерді шектейді. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 ipprotection-connection-status-blocked-error-description = Жергілікті заңдар бізге бұл аймақта VPN қызметін ұсынуға тыйым салады. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

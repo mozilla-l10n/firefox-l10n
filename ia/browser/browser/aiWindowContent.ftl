@@ -160,6 +160,14 @@ action-log-reading-page = Lectura de pagina
 action-log-read-page = Contento del pagina legite
 action-log-searching-web = Recerca sur le web
 action-log-searched-web = Recercate sur le web
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Recerca sur le web con <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Recerca sur le web con <a data-l10n-name="exa-link">Exa</a>
 # Exa is the name of a third-party web search API
 # It is a brand name and should not be translated
 action-log-searched-web-exa = Recercate sur le web con Exa

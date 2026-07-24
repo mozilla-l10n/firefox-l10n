@@ -497,5 +497,8 @@ nova-early-access-infobar-primary-button = Түсіндім
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = Windows жүйесіне кірген сайын { -brand-short-name } іске қосу керек пе?
+launch-options-spotlight-title-session-restore = { -brand-short-name } іске қайта қосылғанда сеансты қайта ашу керек пе?
+launch-options-spotlight-checkbox-launch-on-login = Іске қосылғанда { -brand-short-name } іске қосу
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Сақтау және жалғастыру

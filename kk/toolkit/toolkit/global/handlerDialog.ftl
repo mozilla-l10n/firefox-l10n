@@ -88,6 +88,9 @@ mailto-handler-picker-window =
     .title = Эл. пошта қолданбаңызды таңдаңыз
     .style = min-width: 26em; min-height: 26em;
 mailto-handler-picker-subtitle = Эл. пошта сілтемелері үшін пайдаланғыңыз келетін қолданбаны таңдаңыз. Мұны кейінірек "Параметрлер" бөлімінде өзгерте аласыз.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Мен эл. пошта сілтемесін басқан кезде әрқашан сұрау
 # Confirms the picker: sets the selected app as the handler for email links.
 mailto-handler-picker-set-default =
     .label = Үнсіз келісім ретінде орнату
