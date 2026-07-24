@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Аватар
 edit-profile-page-delete-button =
     .label = Өшіру
+edit-profile-page-avatar-selector-opener-button =
+    .title = Аватарды түзету
 edit-profile-page-avatar-selector-opener-link = Түзету
 avatar-selector-icon-tab = Таңбаша
 avatar-selector-custom-tab = Таңдауыңызша
@@ -95,6 +97,9 @@ delete-profile-logins = Парольдер
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = “{ $profilename }” профилін өшіру
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = «{ $profilename }» профилін өшіру керек пе?
 
 ##
 

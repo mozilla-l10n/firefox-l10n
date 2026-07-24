@@ -19,6 +19,37 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Расталған
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Оқшаулау кілті
+about-networking-ssl-tokens = TLS токендері
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } токен
+       *[other] { $count } токен
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } мерзімі өткен)
+       *[other] ({ $count } мерзімі өткен)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } Б ({ $saved }% үнемделді)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } КБ ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Бөлім кілті
+about-networking-ssl-tokens-tokens-column = Токендер
+about-networking-ssl-tokens-expires = Мерзімі аяқталады
+about-networking-ssl-tokens-certificate = Сертификат
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } токен
+       *[other] { $count } токен
+    }
 about-networking-refresh = Жаңарту
 about-networking-auto-refresh = Әр 3 секунд сайын жаңарту
 about-networking-hostname = Хост аты

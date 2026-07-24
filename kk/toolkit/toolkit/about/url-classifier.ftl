@@ -37,6 +37,9 @@ url-classifier-cache-prefix = Префиксі
 url-classifier-cache-ncache-expiry = Теріс кэш мерзімі аяқталу уақыты
 url-classifier-cache-fullhash = Толық хэш
 url-classifier-cache-pcache-expiry = Оң кэш мерзімі аяқталу уақыты
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = URL
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Мүмкіндік
 # Column header: whether the request matched this feature (true/false).

@@ -6,9 +6,13 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+appearance-browser-icon-pin-button =
+    .label = Тапсырмалар панеліне бекіту
 
 ## Icon names
 
+appearance-browser-icon-default =
+    .label = Үнсiз келiсiм бойынша
 appearance-browser-icon-retro2004 =
     .label = Ретро 2004
 appearance-browser-icon-retro2017 =
@@ -22,3 +26,8 @@ appearance-browser-icon-kit =
     .label = Kit
 appearance-browser-icon-pixelated =
     .label = Пикселденген
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Момо
+    .description = @heyheymomodraws жасаған

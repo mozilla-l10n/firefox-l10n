@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Кері байланыс хабарламасын
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> бұл <label data-l10n-name="community-exp-creditsLink">глобалды қоғамдастық,</label> Интернетті ашық, ортақ және қолжетімді қылуға бірге жұмыс істейді.
 community-2 = { -brand-short-name } жасаған <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ол <label data-l10n-name="community-creditsLink">глобалды қоғамдастық,</label> Интернетті ашық, ортақ және қолжетімді қылуға бірге жұмыс істейді.
 helpus = Көмектескіңіз келе ме? <label data-l10n-name="helpus-donateLink">Демеушілік етуге</label>, немесе <label data-l10n-name="helpus-getInvolvedLink">үлес қосуға болады!</label>
+helpus-referrals = Көмектескіңіз келе ме? <label data-l10n-name="helpus-donateLink">Демеушілік етіңіз</label>, <label data-l10n-name="helpus-shareFirefoxLink">{ -brand-short-name } бөлісіңіз</label>, немесе <label data-l10n-name="helpus-getInvolvedLink">өз үлесіңізді қосыңыз!</label>
 bottomLinks-license = Лицензиялық ақпарат
 bottom-links-terms = Қолдану шарттары
 bottom-links-privacy = Жекелік ескертуі

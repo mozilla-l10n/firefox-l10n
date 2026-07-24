@@ -1691,6 +1691,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Ешқандай адрес қосылмады
+personal-info-group =
+    .label = Жеке ақпарат
+autofill-personal-info-checkbox-message =
+    .label = Жеке ақпаратты сақтау және автоматты түрде толтыру
+autofill-personal-info-manage-button =
+    .label = Жеке ақпаратты басқару
+passports-list-header =
+    .label = Паспорттар
+passports-delete-passport-button-label =
+    .aria-label = Өшіру
+passports-edit-passport-button-label =
+    .aria-label = Түзету
+passports-delete-passport-prompt-title = Бұл паспортты өшіру керек пе?
+passports-delete-passport-prompt-confirm-button = Өшіру
+passports-delete-passport-prompt-cancel-button = Бас тарту
+autofill-passports-add-button = Жаңа паспортты қосу
+autofill-personal-info-manage-title =
+    .heading = Жеке ақпаратты басқару
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Паспорттар қосылмаған
 pane-passwords-autofill-title2 = Парольдер және автотолтыру
     .title = Парольдер және автотолтыру
 preferences-passwords-autofill-header =
