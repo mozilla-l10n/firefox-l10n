@@ -6,6 +6,29 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+appearance-browser-icon-button =
+    .label = Браузер таңбашасын өзгерту
+
+## Strings for the "Browser icon" sub-page (Windows only), opened from the
+## "Change browser icon" button in the Appearance settings. The sub-page lets
+## people choose which icon appears on the taskbar, desktop, and Start Menu.
+
+appearance-browser-icon-subpage-title =
+    .heading = Көбірек таңбашалар
+
+## Icons are organized into two groups: "Standard" and "Special". The icons in
+## the "Special" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-basic-group =
+    .label = Қалыпты
+appearance-browser-icon-bonus-group =
+    .label = Арнайы
+
+##
+
+appearance-browser-icon-set-default-button =
+    .label = Әдепкі күйге орнату
 appearance-browser-icon-pin-button =
     .label = Тапсырмалар панеліне бекіту
 

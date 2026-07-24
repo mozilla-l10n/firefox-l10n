@@ -20,3 +20,4 @@ colorpicker-tooltip-hue-slider-title = Реңі
 colorpicker-tooltip-alpha-slider-title = Мөлдірсіздігі
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Элементке тән жалған кластар
+inspector-emulation-panel-color-scheme = Түс схемасын эмуляциялау

@@ -171,6 +171,47 @@ autofill-card-network = Typo de carta
 # methods in their region.
 autofill-card-search-term-credit-cards = cartas de credito, credito, cartas, cartas de debito, debito, portafolio, momento del pagamento
 
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Nomine
+autofill-passport-country =
+    .label = Pais
+autofill-passport-number =
+    .label = Numero
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Data de emission
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Data de expiration
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = AAAA
+
+## The passport capture doorhanger
+
+passport-capture-save-doorhanger-description = Salva informationes in { -brand-short-name } assi que tu pote rapidemente plenar formularios.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = Salvar
+    .accessKey = S
+passport-capture-not-now-button =
+    .label = Non ora
+    .accessKey = a
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express

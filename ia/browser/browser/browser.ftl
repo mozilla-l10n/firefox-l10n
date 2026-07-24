@@ -612,6 +612,7 @@ identity-description-passive-loaded-insecure2 = Iste sito web ha contento non se
 identity-description-passive-loaded-mixed2 = Ben que { -brand-short-name } ha blocate alcun contento, il ha ancora contento non secur sur le pagina (per exemplo, imagines).
 identity-description-active-loaded = Iste sito web ha contento non secur (per exemplo, scripts) e tu connexion a illo non es private.
 identity-description-active-loaded-insecure = Le informationes que tu insere sur iste sito poterea esser vidite per alteres (per exemplo, contrasignos, messages, cartas de credito, etc.).
+identity-description-tls-key-logging-heading = Tu connexion pote non esser private
 identity-disable-mixed-content-blocking =
     .label = Disactivar le protection pro le momento
     .accesskey = D
@@ -958,6 +959,13 @@ urlbar-result-explanation-bookmarked = Addite al marcapaginas le { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Ultime visita { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Ultime visita { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
