@@ -19,6 +19,26 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Überprüft
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Isolationsschlüssel
+about-networking-ssl-tokens = TLS-Token
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } Token
+       *[other] { $count } Token
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } abgelaufen)
+       *[other] ({ $count } abgelaufen)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% gespeichert)
+about-networking-ssl-tokens-expired =
+    .alt = Abgelaufen
+    .title = Abgelaufen
 about-networking-refresh = Aktualisieren
 about-networking-auto-refresh = Automatisch alle 3 Sekunden aktualisieren
 about-networking-hostname = Hostname
