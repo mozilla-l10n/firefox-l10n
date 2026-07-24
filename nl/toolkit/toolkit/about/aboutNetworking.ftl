@@ -50,6 +50,28 @@ about-networking-ssl-tokens-token-list =
         [one] { $count } token
        *[other] { $count } tokens
     }
+about-networking-ssl-tokens-restored =
+    .alt = Hersteld vanuit opslag
+    .title = Hersteld vanuit opslag
+about-networking-ssl-tokens-new =
+    .alt = Nieuw deze sessie
+    .title = Nieuw deze sessie
+about-networking-ssl-tokens-expired =
+    .alt = Verlopen
+    .title = Verlopen
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokens: { $tokenLength } B. Versleuteld: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV-certificaat
+about-networking-ssl-tokens-ct-status = Status van certificaattransparantie
+about-networking-ssl-tokens-overridable-error = Overschrijfbare foutcategorie
+about-networking-ssl-tokens-built-in-root = Ingebouwde root
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Certificaatketen ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Handshake-certificaten ({ $count })
 about-networking-refresh = Vernieuwen
 about-networking-auto-refresh = Om de 3 seconden automatisch vernieuwen
 about-networking-hostname = Hostnaam
