@@ -62,7 +62,7 @@ url-classifier-content-classifier-destination-type = Destinationstyp
 url-classifier-content-classifier-flags = Flaggor
 # Header for the group of buttons that run a classification test. A "probe" here
 # means running the classifier once and reporting what it would do.
-url-classifier-content-classifier-probes = Sonder
+url-classifier-content-classifier-probes = Utforskar
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Resultat
 url-classifier-content-classifier-pbm = Privat surfning

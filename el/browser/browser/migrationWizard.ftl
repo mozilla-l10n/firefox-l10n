@@ -203,6 +203,7 @@ migration-chrome-windows-password-import-step2 = Επιλέξτε «Ρυθμίσ
 migration-chrome-windows-password-import-step3 = Επιλέξτε «Λήψη αρχείου» και αποθηκεύστε το στη συσκευή σας.
 migration-chrome-windows-password-import-step4 = Επιστρέψτε εδώ και κάντε κλικ στο «Επιλογή αρχείου» για να ολοκληρώσετε την εισαγωγή.
 migration-manual-password-import-skip-button = Παράλειψη
+migration-manual-password-import-cancel-button = Ακύρωση
 migration-manual-password-import-select-button = Επιλογή αρχείου
 migration-safari-password-import-skip-button = Παράλειψη
 migration-safari-password-import-select-button = Επιλογή αρχείου

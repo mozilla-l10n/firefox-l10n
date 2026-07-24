@@ -45,6 +45,7 @@ url-classifier-content-classifier-url = URL
 url-classifier-content-classifier-destination-type = Τύπος προορισμού
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Αποτελέσματα
+url-classifier-content-classifier-pbm = Ιδιωτική περιήγηση
 # Column header: the raw result code returned by the engine for this feature.
 url-classifier-content-classifier-col-engine-result = Αποτέλεσμα μηχανής
 # Overall verdict shown when the request is spared because it matched an

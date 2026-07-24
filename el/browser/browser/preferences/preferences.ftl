@@ -1691,6 +1691,17 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Δεν έχουν προστεθεί διευθύνσεις
+personal-info-group =
+    .label = Προσωπικές πληροφορίες
+passports-list-header =
+    .label = Διαβατήρια
+passports-delete-passport-button-label =
+    .aria-label = Διαγραφή
+passports-edit-passport-button-label =
+    .aria-label = Επεξεργασία
+passports-delete-passport-prompt-confirm-button = Διαγραφή
+passports-delete-passport-prompt-cancel-button = Ακύρωση
+autofill-passports-add-button = Προσθήκη νέου διαβατηρίου
 pane-passwords-autofill-title2 = Κωδικοί πρόσβασης και αυτόματη συμπλήρωση
     .title = Κωδικοί πρόσβασης και αυτόματη συμπλήρωση
 preferences-passwords-autofill-header =

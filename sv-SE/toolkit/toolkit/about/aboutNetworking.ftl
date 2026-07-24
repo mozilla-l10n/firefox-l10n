@@ -65,7 +65,7 @@ about-networking-ssl-tokens-expired =
 about-networking-ssl-tokens-compression-details =
     .title = Tokens: { $tokenLength } B. Kodade: { $decompressedLength } → { $compressedLength } B.
 about-networking-ssl-tokens-ev-status = EV-certifikat
-about-networking-ssl-tokens-ct-status = Transparens för certifikat
+about-networking-ssl-tokens-ct-status = Status för certifikattransparens
 about-networking-ssl-tokens-overridable-error = Åsidosättbar felkategori
 about-networking-ssl-tokens-built-in-root = Inbyggd root
 # $count (Number) - Number of certs in the succeeded cert chain

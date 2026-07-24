@@ -19,6 +19,21 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Επικυρώθηκε
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Κλειδί απομόνωσης
+about-networking-ssl-tokens = Διακριτικά TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } διακριτικό
+       *[other] { $count } διακριτικά
+    }
+about-networking-ssl-tokens-tokens-column = Διακριτικά
+about-networking-ssl-tokens-expires = Λήξη
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } διακριτικό
+       *[other] { $count } διακριτικά
+    }
 about-networking-refresh = Ανανέωση
 about-networking-auto-refresh = Αυτόματη ανανέωση κάθε 3 δευτερόλεπτα
 about-networking-hostname = Όνομα κεντρικού υπολογιστή
