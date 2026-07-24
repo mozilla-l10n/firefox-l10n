@@ -19,6 +19,7 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validert
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Isolasjonsnøkkel
+about-networking-ssl-tokens-expires = Går ut
 about-networking-refresh = Oppdater
 about-networking-auto-refresh = Auto-oppdater kvart 3. sekund
 about-networking-hostname = Vertsnamn

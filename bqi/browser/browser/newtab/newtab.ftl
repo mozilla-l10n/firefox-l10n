@@ -509,6 +509,11 @@ newtab-toast-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
 
+## Error Fallback Content.
+## This message and suggested action link are shown in each section of UI that fails to render.
+
+newtab-error-fallback-refresh-link = سی قپ ریت دووارته بلگه ن وانۊ کۊنین.
+
 ## Customization Menu
 
 newtab-custom-shortcuts-title = ره نهنگا
