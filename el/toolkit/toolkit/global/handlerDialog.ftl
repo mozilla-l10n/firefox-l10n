@@ -84,6 +84,10 @@ choose-dialog-privatebrowsing-disabled = Ανενεργό σε ιδιωτικά 
 ## Shown when the user clicks a mailto: link and lets them pick which configured
 ## web mail service (or the OS default app) should handle email links.
 
+mailto-handler-picker-window =
+    .title = Επιλέξτε την εφαρμογή email σας
+    .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = Επιλέξτε την εφαρμογή που θέλετε να χρησιμοποιείτε για συνδέσμους email. Μπορείτε να την αλλάξετε αργότερα στις Ρυθμίσεις.
 # Checkbox letting the user keep being prompted with this picker each time they
 # click an email link, instead of remembering the chosen handler.
 mailto-handler-picker-always-ask = Να γίνεται πάντα ερώτηση όταν κάνω κλικ σε σύνδεσμο email

@@ -38,6 +38,10 @@ about-networking-ssl-tokens-token-list =
         [one] { $count } διακριτικό
        *[other] { $count } διακριτικά
     }
+about-networking-ssl-tokens-new =
+    .alt = Νέο σε αυτήν τη συνεδρία
+    .title = Νέο σε αυτήν τη συνεδρία
+about-networking-ssl-tokens-built-in-root = Ενσωματωμένη ρίζα
 about-networking-refresh = Ανανέωση
 about-networking-auto-refresh = Αυτόματη ανανέωση κάθε 3 δευτερόλεπτα
 about-networking-hostname = Όνομα κεντρικού υπολογιστή

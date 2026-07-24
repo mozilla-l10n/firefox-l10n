@@ -373,6 +373,7 @@ appmenu-edit-profile =
     .aria-label = Επεξεργασία προφίλ
 appmenu-edit-this-profile =
     .label = Επεξεργασία προφίλ
+appmenu-profile-current-in-use = Τρέχον προφίλ σε χρήση
 fxa-menu-create-profile-subpanel =
     .title = Δημιουργία νέου προφίλ
 fxa-menu-create-profile-confirm =

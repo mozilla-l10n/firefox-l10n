@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Χρησιμοποι
 experimental-features-tab-notes =
     .label = Σημειώσεις καρτελών
 experimental-features-tab-notes-description = Οι σημειώσεις καρτελών είναι μια πειραματική λειτουργία που σας επιτρέπει να προσθέτετε αυτοκόλλητες σημειώσεις στις καρτέλες σας. Σημειώστε σχετικές πληροφορίες, υπενθυμίσεις ή επόμενα βήματα, ώστε να επιστρέψετε και να θυμάστε γιατί ανοίξατε μια καρτέλα. Θα εκτιμούσαμε πολύ τα σχόλιά σας, καθώς βελτιώνουμε συνεχώς αυτήν τη λειτουργία. <a data-l10n-name="connect">Αποστολή σχολίων</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Απλοποιημένο μενού καρτελών
+experimental-features-tab-context-menu-description = Δείτε ένα απλούστερο μενού επιλογών όταν κάνετε δεξί κλικ σε μια καρτέλα. Έχει σχεδιαστεί για να διευκολύνει την εύρεση κοινών ενεργειών. <a data-l10n-name="connect">Αποστολή σχολίων</a>
