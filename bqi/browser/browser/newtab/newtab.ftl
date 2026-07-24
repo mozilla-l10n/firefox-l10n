@@ -722,6 +722,7 @@ newtab-weather-menu-learn-more = قلوه دووسته بۊین
 newtab-weather-menu-detect-my-location = تشخیس داڌن جاگه مو
 # This message is shown if user is working offline
 newtab-weather-error-not-available = دووسمندیا ٱو وو هوا سکو من دسرس نؽ
+newtab-weather-opt-in-see-weather = اخۊین ٱو وو هوا جاگه زندیی خوتووݩ ن سیل کۊنین؟
 newtab-weather-opt-in-not-now =
     .label = سکو ن
 newtab-weather-opt-in-yes =
@@ -803,6 +804,7 @@ newtab-section-block-cancel-button = لقو
 newtab-section-mangage-topics-title = سرتالا
 newtab-section-manage-topics-button-v2 =
     .label = دؽوۉداری سرتالا
+newtab-section-mangage-topics-followed-topics-empty-state = ایسا هنی هیچ سرتالی ن و دین نکردینه.
 newtab-section-mangage-topics-blocked-topics = مسدۊد وابیڌه
 newtab-custom-wallpaper-cta = امتهووس کوݩ
 
