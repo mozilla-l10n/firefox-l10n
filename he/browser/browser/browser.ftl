@@ -133,7 +133,7 @@ urlbar-identity-button2 =
         { $count ->
             [0] הצגת מידע אתר
             [1] הצגת מידע אתר (רכיב מעקב אחד נחסם)
-           *[other] הצגת מידע אתר ({ NUMBER($count) } רכיבי מעקב נחסמו)
+           *[other] הצגת מידע אתר ({ $count } רכיבי מעקב נחסמו)
         }
 
 ##
@@ -1824,7 +1824,7 @@ urlbar-trust-icon-notsecure-label = לא מאובטח
 urlbar-trust-icon-trackers-blocked-longform-label =
     { $count ->
         [one] רכיב מעקב אחד נחסם
-       *[other] { NUMBER($count) } רכיבי מעקב נחסמו
+       *[other] { $count } רכיבי מעקב נחסמו
     }
 
 ## Variables

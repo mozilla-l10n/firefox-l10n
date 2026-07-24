@@ -20,13 +20,13 @@ about-networking-ssl-tokens = אסימוני TLS
 about-networking-ssl-tokens-summary-count =
     { $count ->
         [one] אסימון אחד
-       *[other] { NUMBER($count) } אסימונים
+       *[other] { $count } אסימונים
     }
 # $count (Number) - Number of cached tokens that have already expired
 about-networking-ssl-tokens-summary-expired =
     { $count ->
         [one] (אחד פג תוקף)
-       *[other] (פג תוקפם של { NUMBER($count) })
+       *[other] (פג תוקפם של { $count })
     }
 # $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
 # $compressedLength (Number) - Total compressed size in bytes across all tokens
@@ -44,7 +44,7 @@ about-networking-ssl-tokens-certificate = תעודה
 about-networking-ssl-tokens-token-list =
     { $count ->
         [one] אסימון אחד
-       *[other] { NUMBER($count) } אסימונים
+       *[other] { $count } אסימונים
     }
 about-networking-ssl-tokens-restored =
     .alt = שוחזר מהאחסון
