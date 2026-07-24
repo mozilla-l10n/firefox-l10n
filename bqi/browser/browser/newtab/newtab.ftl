@@ -605,6 +605,13 @@ newtab-wallpaper-light-red-panda = پاندای سوئر
 newtab-wallpaper-light-mountain = کوه اسبؽڌ
 newtab-wallpaper-light-sky = آسمۊوی وا ٱورا بناوش وو آل
 newtab-wallpaper-light-beach = ساهل یا دار نخل
+newtab-wallpaper-dark-aurora = شفق قۊتبی
+newtab-wallpaper-dark-color = شلگا سوئر وو کوۊ
+newtab-wallpaper-dark-panda = پاندای سوئر بؽڌار وابیڌه من جنگل
+newtab-wallpaper-dark-sky = منزره شئر یا آسمووݩ شاو
+newtab-wallpaper-dark-mountain = کوه منزره
+newtab-wallpaper-dark-city = منزره شئر بناوش
+newtab-wallpaper-dark-fox-anniversary = رۊوایی ری پیاڌه راو نهنگ جنگل
 
 ## Solid Colors
 
@@ -625,9 +632,23 @@ newtab-wallpaper-red = سوئر
 newtab-wallpaper-dark-blue = کوۊ تاریک
 newtab-wallpaper-dark-purple = بناوش تاریک
 newtab-wallpaper-dark-green = ساوز تاریک
+newtab-wallpaper-brown = قئوه ای
+
+## Abstract
+
+newtab-wallpaper-abstract-green = شلگا ساوز
+newtab-wallpaper-abstract-blue = شلگا کوۊ
+newtab-wallpaper-abstract-purple = شلگا بناوش
+newtab-wallpaper-abstract-orange = شلگا نارنجی
+newtab-wallpaper-gradient-orange = شؽو رنگی نارنجی وو آل
+newtab-wallpaper-abstract-blue-purple = شلگا کوۊ وو بناوش
 
 ## Firefox
 
+newtab-wallpaper-category-title-photographs = شؽوات گرافی
+newtab-wallpaper-beach-at-sunrise = ساهل من ٱفتاو زنووݩ
+newtab-wallpaper-beach-at-sunset = ساهل من ٱفتاو نشین
+newtab-wallpaper-storm-sky = آسمووݩ تیفووی
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
