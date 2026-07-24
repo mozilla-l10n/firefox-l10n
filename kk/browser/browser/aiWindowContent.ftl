@@ -160,6 +160,14 @@ action-log-reading-page = Парақты оқу
 action-log-read-page = Парақ мазмұнын оқу
 action-log-searching-web = Интернетте іздеу
 action-log-searched-web = Интернетте ізделді
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Интернетті <a data-l10n-name="exa-link">Exa</a> көмегімен іздеу
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Интернет <a data-l10n-name="exa-link">Exa</a> көмегімен ізделді
 # Exa is the name of a third-party web search API
 # It is a brand name and should not be translated
 action-log-searched-web-exa = Интернет Exa арқылы ізделді

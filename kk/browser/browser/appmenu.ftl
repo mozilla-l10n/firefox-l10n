@@ -407,6 +407,15 @@ appmenu-secure-sync-header = Қауіпсіз синхрондау
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Жуырдағы беттер
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Барлық { $tabCount } синхрондалған бетті қарау
+           *[other] Барлық { $tabCount } синхрондалған беттерді қарау
+        }
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =
     .label = Ағымдағы бетті осы құрылғыға жіберу

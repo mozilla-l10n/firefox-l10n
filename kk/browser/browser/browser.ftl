@@ -126,6 +126,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Қалқымалы терезе мен үшінші тарапқа қайта бағыттау баптауларын басқару
     .accesskey = б
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Сайт ақпаратын қарау
+            [1] Сайт ақпаратын қарау (1 трекер блокталды)
+           *[other] Сайт ақпаратын қарау ({ $count } трекер блокталды)
+        }
 
 ##
 

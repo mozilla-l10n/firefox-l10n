@@ -293,6 +293,20 @@ launch-on-login-infobar-final-message = <strong>Компьютеріңізді �
 launch-on-login-infobar-final-reject-button = Жоқ, рахмет
     .accesskey = Ж
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } енді сіз Windows жүйесіне кірген кезде іске қосылады. Мұны кейінірек параметрлерде өзгертуге болады.
+launch-on-login-autostart-infobar-keep-button = Іске қосуды қалдыру
+    .accesskey = к
+launch-on-login-autostart-infobar-turn-off-button = Сөндіру
+    .accesskey = д
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -500,5 +514,12 @@ nova-early-access-infobar-primary-button = Түсіндім
 launch-options-spotlight-title-launch-on-login = Windows жүйесіне кірген сайын { -brand-short-name } іске қосу керек пе?
 launch-options-spotlight-title-session-restore = { -brand-short-name } іске қайта қосылғанда сеансты қайта ашу керек пе?
 launch-options-spotlight-checkbox-launch-on-login = Іске қосылғанда { -brand-short-name } іске қосу
+launch-options-spotlight-checkbox-pin-to-taskbar = Тапсырмалар панеліне бекіту
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Ағымдағы терезелер мен беттерді қайта ашу
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Алдыңғы терезелер мен беттерді қайта ашу
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Сақтау және { -brand-short-name } жабу
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Сақтау және жалғастыру

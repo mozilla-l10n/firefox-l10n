@@ -160,6 +160,10 @@ action-log-reading-page = Kuatiarogue moñe’ẽrã
 action-log-read-page = Emoñe’ẽ kuatiarogue retepy
 action-log-searching-web = Eheka ñandutípe
 action-log-searched-web = Aheka ñandutípe
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Ñandutípe jeheka <a data-l10n-name="exa-link">Exa</a> ndive
 # Exa is the name of a third-party web search API
 # It is a brand name and should not be translated
 action-log-searched-web-exa = Aheka ñandutípe Exa ndive

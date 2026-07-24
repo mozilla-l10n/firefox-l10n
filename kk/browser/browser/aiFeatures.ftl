@@ -95,3 +95,18 @@ ai-window-delete-all-memories-cancel = Бас тарту
 ai-window-memory-delete-button =
     .title = Жадыны өшіру
     .aria-label = { $label } өшіру
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Жылдам
+    .description = Жылдамдық керек кезде ең жақсы нұсқа. Толық аты: { $model }, шығарған { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Икемді
+    .description = Әр түрлі тапсырмалар үшін дайын. Толық аты: { $model }, шығарған { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Жеке
+    .description = Әр түрлі тілдерде жекелендірілген көмек үшін жасалған. Толық аты: { $model }, шығарған { $ownerName }

@@ -6,6 +6,12 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+# Entry in the Appearance pane (Windows only) that opens the browser-icon
+# subpage. The browser icon is the icon shown on the desktop, taskbar, and
+# Start Menu.
+appearance-browser-icon-entry-group =
+    .label = Браузер таңбашасы
+    .description = Тапсырмалар панелі, жұмыс үстелі және іске қосылу мәзірі үшін пайдаланушылық таңбашаны таңдаңыз.
 appearance-browser-icon-button =
     .label = Браузер таңбашасын өзгерту
 
@@ -27,6 +33,13 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = { -brand-short-name } жекелендіру үшін бонустық түлкі таңбашаларын толтырып, құлпын ашыңыз.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Сіз барлық бонустық таңбашалардың құлпын аштыңыз!
 appearance-browser-icon-set-default-button =
     .label = Әдепкі күйге орнату
 appearance-browser-icon-pin-button =

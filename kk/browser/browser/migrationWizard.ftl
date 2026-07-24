@@ -191,6 +191,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Аяқталды
 migration-safari-password-import-header = Safari-ден парольдерді импорттау
+migration-safari-password-import-post-sequoia-step1 = Mac компьютеріңізде <a data-l10n-name="macos-passwords-app">Парольдер қолданбасын</a> ашыңыз
+migration-safari-password-import-post-sequoia-step2 = Экранның жоғарғы жағындағы мәзір жолағынан «Файл» > «Барлық парольдерді файлға экспорттау...» тармағын таңдаңыз.
 migration-safari-password-import-post-sequoia-step3 = Файлды сақтау
 migration-safari-password-import-post-sequoia-step4 = Сақтаған файлыңызды таңдаңыз
 migration-safari-password-import-steps-header = Safari парольдерін импорттау үшін:

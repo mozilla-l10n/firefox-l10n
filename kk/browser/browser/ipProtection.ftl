@@ -69,6 +69,7 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Сіздің кірістірілген VPN жақсарды
+ipprotection-summer-promo-offramp-subscriber-description = Енді сіз { -mozilla-vpn-brand-name } жазылушысы ретінде шексіз өткізу қабілетін және көбірек орындарды аласыз.
 # Default browser incentive summer promo offramp message
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"

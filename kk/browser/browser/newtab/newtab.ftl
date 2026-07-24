@@ -317,6 +317,8 @@ newtab-privacy-message-first-protection-cta = Қорғаныстарды қар�
 newtab-stocks-menu-search = Тикерлерді іздеу
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Көбірек білу
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Қор биржасы деректері қолжетімді емес.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -492,6 +494,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Түзету
+newtab-menu-add-topsite = Жаңа жарлықты қосу
 newtab-menu-open-new-window = Жаңа терезеде ашу
 newtab-menu-open-new-private-window = Жаңа жекелік терезесінде ашу
 newtab-menu-dismiss = Тайдыру
@@ -1135,6 +1138,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Бас тарту
     .title = Бас тарту
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Тізімдер опциялары
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Жаңа тізімді жасау

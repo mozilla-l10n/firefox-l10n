@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Жаңа жекелік терезесін ашу
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Классикалық терезе
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } ауыстырғышы
+    .tooltiptext = Ақылды және классикалық терезелер арасында ауысу.
 
 ## Input CTA
 
@@ -102,6 +105,7 @@ aiwindow-firstrun-model-fast-label = Жылдам
 aiwindow-firstrun-model-fast-body = Жылдам жауап береді
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Жылдам: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Жылдамдық керек кезде ең жақсы нұсқа
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
