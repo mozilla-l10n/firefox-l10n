@@ -6,6 +6,7 @@
 ##
 ## Localization for remote types defined in RemoteType.h
 
+process-type-web = موئتوا وبگه
 process-type-extension = وردنی
 
 ##
