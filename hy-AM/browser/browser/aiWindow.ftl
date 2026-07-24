@@ -104,8 +104,13 @@ aiwindow-firstrun-model-fast-body = Արագ պատասխաններ
 aiwindow-firstrun-model-chip-subtitle = Մոդել { $model }՝ { $ownerName }-ի կողմից
 aiwindow-firstrun-model-allpurpose-label = Ճկուն
 aiwindow-firstrun-model-allpurpose-body = Հաստատուն համապատասխանություն մեծամասնության կարիքներին
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Առաջարկվող
 aiwindow-firstrun-model-personal-label = Անձնական
 aiwindow-firstrun-model-personal-body = Առավել հարմարեցված պատասխաններ
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Անձնական՝ { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Ստեղծված է տարբեր լեզուներով անհատականացված օգնության համար
 aiwindow-firstrun-button = Առա՛ջ
 aiwindow-firstrun-back-button = Նախորդը
 aiwindow-firstrun-next-button = Հաջորդը
@@ -116,6 +121,7 @@ aiwindow-input-model-select-button-label-fast = Արագ
 aiwindow-input-model-select-button-label-allpurpose = Ճկուն
 aiwindow-input-model-select-button-label-personal = Անձնական
 aiwindow-input-model-select-button-label-custom = Հարմարեցված
+aiwindow-input-model-select-button-description-custom = Օգտագործեք ձեր սեփական LLM-ը (LLM)
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -138,6 +144,7 @@ aiwindow-firstrun-memories-privacy-title = Գաղտնի՝ ըստ նախագծի
 aiwindow-firstrun-memories-privacy-body = Հիշողությունները պահվում են այս սարքում: Ջնջեք կամ անջատեք ցանկացած պահի:
 aiwindow-firstrun-memories-choose-label = Ընտրեք, թե ինչից է սովորում { -smart-window-brand-name }-ը
 aiwindow-firstrun-memories-checkbox-chats = Զրույցներ { -smart-window-brand-name }-ում
+aiwindow-firstrun-memories-update-settings = Թարմացրեք կարգավորումներում ցանկացած ժամանակ։
 
 ## Ask Toolbar Button
 
@@ -236,6 +243,15 @@ smartwindow-close-tab-callout-title = Ներդիրը փակվեց
 
 ## Feedback modal
 
+aiwindow-feedback-what-worked-well = Ի՞նչն էր լավ ստացվել։ Խնդրում եմ, անձնական տեղեկություններ չտրամադրել։
+aiwindow-feedback-choose-any = Ընտրեք համապատասխաններից որևէ մեկը
+aiwindow-feedback-submit = Ուղարկել
+aiwindow-feedback-cancel = Չեղարկել
+aiwindow-feedback-reason-incorrect-or-misleading = Սխալ կամ մոլորեցնող
+aiwindow-feedback-reason-doesnt-address-my-request = Չի բավարարում իմ խնդրանքը
+aiwindow-feedback-reason-lacks-personalization = Բացակայում է անհատականացումը կամ համատեքստը
+aiwindow-feedback-reason-performance-or-usability = Արդյունավետության կամ օգտագործելիության խնդիր
+aiwindow-feedback-reason-harmful-or-offensive = Վնասակար կամ վիրավորական
 aiwindow-feedback-reason-other = Այլ
 aiwindow-feedback-preview-report = Դիտել զրույցի մանրամասները
 aiwindow-feedback-preview-report-with-page = Դիտել զրույցի և էջի մանրամասները
@@ -251,3 +267,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Անջատման ռեժիմ՝ Ցանցի տեսք
     .tooltiptext = Ցանցի տեսք
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Գրեք առաջին նախագիծը
+aiwindow-starter-writing-improve = Բարելավել գրավոր աշխատանքը
+aiwindow-starter-writing-proofread = Հաղորդագրությունը սրբագրել
+aiwindow-starter-planning-simplify = Պարզեցրեք թեման
+aiwindow-starter-planning-brainstorm = Մտքերի փոթորիկ
+aiwindow-starter-planning-plan = Օգնեք պլան կազմել
+aiwindow-starter-browsing-history = Գտնել ներդիրները պատմության մեջ
+aiwindow-starter-browsing-summarize = Ամփոփել ներդիրները
+aiwindow-starter-browsing-compare = Համեմատել ներդիրները

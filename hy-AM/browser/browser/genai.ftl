@@ -44,6 +44,8 @@ genai-shortcut-button =
     .aria-label = Հարցրեք { $provider }-ին
 genai-menu-new-badge = Նոր
 genai-menu-summarize-page = Ամփոփել էջը
+genai-input-ask-smart-window =
+    .placeholder = Հարցնել…
 genai-input-ask-generic =
     .placeholder = Հարցրեք ԱԲ չաթբոտին…
 # $provider (string) - name of the provider
@@ -63,6 +65,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Հարցնել ԱԲ չաթբոտին
     .accesskey = h
+genai-menu-ask-smart-window =
+    .label = Հարցնել…
+    .accesskey = z
 
 ## Chatbot header
 

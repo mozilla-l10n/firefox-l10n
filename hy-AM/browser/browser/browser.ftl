@@ -1073,6 +1073,8 @@ urlbar-searchmode-popup-one-off-header = Այս անգամ որոնել հետև
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Որոնել՝
+urlbar-searchmode-popup-settings = Կարգավորումներ
+    .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = Որոնման կարգավորումներ
 urlbar-searchmode-popup-settings-panelitem = Կարգավորումներ
 
@@ -1298,6 +1300,8 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Գաղտնաբառեր
     .tooltiptext = Տեսեք և կառավարեք ձեր պահած գաղտնաբառերը
+qrcode-panel-error =
+    .message = Չհաջողվեց ստեղծել QR կոդ։ Խնդրում ենք կրկին փորձել։
 qrcode-copy-button =
     .label = Պատճենել
 qrcode-copy-success =
@@ -1533,6 +1537,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Ավարտել գաղտնի աշխատաշրջանը
     .tooltiptext = Ավարտել գաղտնի աշխատաշրջանը
+reset-pbm-panel-heading2 = Մաքրե՞լ տվյալները և սկսել նոր մասնավոր նիստ։
 reset-pbm-panel-heading = Ավարտե՞լ Ձեր գաղտնի աշխատաշրջանը:
 reset-pbm-panel-description = Փակել բոլոր գաղտնի ներդիրները և ջնջել պատմությունը, թխուկները և կայքի բոլոր մյուս տվյալները:
 reset-pbm-panel-always-ask-checkbox =
@@ -1613,6 +1618,10 @@ popup-trigger-redirect-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-crashed-open = Windows-ի ֆայլերի երկխոսության պատուհանը խափանվել է: Հնարավոր չէ ընտրել ֆայլ կամ թղթապանակ:
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Windows-ի ֆայլի երկխոսության պատուհանը խափանվել է։ Ֆայլը կպահպանվի { $path }-ում։
+file-picker-crashed-save-nowhere = Windows-ի ֆայլերի երկխոսության պատուհանը խափանվել է: Լռելյայն թղթապանակը չի գտնվել. ֆայլը չի պահպանվի:
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1731,6 +1740,9 @@ trustpanel-fingerprinter-not-blocking-tab-header =
        *[other] { -brand-product-name }-ը արգելափակել է { $count } մատնահետքեր հավաքող
     }
 trustpanel-fingerprinter-list-header = Այս կայքերը փորձում են ձեր մատնահետքը վերցնել՝
+trustpanel-cryptominer-tab-list-header = Հետևյալ կայքերը փորձում են կրիպտոմայնինգ անել.
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Այս կայքում անձնական էջ ունե՞ք։
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Բաց թողնել
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Սկսեք անվճար սկանավորումը
 trustpanel-blocker-section-header2 =

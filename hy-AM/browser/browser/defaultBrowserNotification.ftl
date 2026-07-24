@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Քայլ 2. Ընտրեք «Կայել սկզբնադիր»՝ { -brand-short-name }-ի համար
 default-browser-guidance-notification-info-page = Ցույց տալ, թե ինչպես
 default-browser-guidance-notification-dismiss = Պատրաստ է
+default-browser-guidance-notification-v2-title = Ավարտեք { -brand-short-name }-ի ձեր սկզբնադիր դիտարկիչը դարձնելը
+default-browser-guidance-notification-v2-body = Կարգավորումներում ընտրեք «Սահմանել սկզբնադիր» { -brand-short-name }-ի համար։
+default-browser-guidance-notification-v2-title-only = Ավարտեք { -brand-short-name }-ի ձեր սկզբնադիր դիտարկիչը դարձնելը Կարգավորումներում

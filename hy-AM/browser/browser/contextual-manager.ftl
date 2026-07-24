@@ -77,6 +77,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Պատրաստ է
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Արտահանե՞լ գաղտնաբառերը ֆայլով:
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Արտահանելուց հետո խորհուրդ ենք տալիս ջնջել այն, որպեսզի այս սարքն օգտագործող մյուսները չկարողանան տեսնել ձեր գաղտնաբառերը։
 contextual-manager-export-passwords-dialog-confirm-button = Շարունակել արտահանումը
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Արտահանել գաղտնաբառերը { -brand-short-name }-ից
@@ -173,6 +175,7 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-alert-list =
     .aria-label = Ծանուցումների ցանկ
 contextual-manager-passwords-change-password-button = Փոխել գաղտնաբառը
+contextual-manager-passwords-vulnerable-password-link-message = Ինչպե՞ս է { -brand-product-name }-ը իմանում թույլ գաղտնաբառերի մասին։
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Ավելացնել օգտանունը
     .message = Ավելացնել՝ արագ մուտք գործելու համար

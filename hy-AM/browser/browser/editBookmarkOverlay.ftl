@@ -45,3 +45,5 @@ bookmark-overlay-tags-expander-hide =
 bookmark-overlay-keyword-2 =
     .value = Հիմնաբառ
     .accesskey = K
+bookmark-overlay-tags-caption-label = Օգտագործեք պիտակներ՝ հասցեների տողից էջանիշները կազմակերպելու և որոնելու համար
+bookmark-overlay-keyword-caption-label-2 = Օգտագործեք մեկ բանալի բառ՝ էջանիշները հասցեի տողից անմիջապես բացելու համար

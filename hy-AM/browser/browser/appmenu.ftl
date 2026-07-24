@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = Չստացվեց թարմացնել․ անհամատեղելի համակարգ
 appmenuitem-banner-update-restart =
     .label = Հասանելի է թարմացում․ վերամեկնարկել հիմա
+appmenu-nova-update-title = Վերամեկնարկեք՝ { -brand-short-name }-ը թարմացնելու համար
+appmenu-nova-update-description = Ձեր ներդիրները կրկին կբացվեն։
 appmenu-nova-fxa-sign-in = Մուտք գործել
 appmenu-nova-switch-device-promo =
     .message = Շուտով նոր սարք եք ձեռք բերում։ Վերցրեք ձեզ հետ { -brand-short-name }-ը։
@@ -49,6 +51,9 @@ appmenuitem-zoom =
     .value = Դիտափոխում
 appmenuitem-more-tools =
     .label = Լրացուցիչ գործիքներ
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Օգնություն և զեկույց
 appmenuitem-help =
     .label = Օգնություն
 appmenuitem-exit2 =
@@ -107,6 +112,40 @@ appmenu-remote-tabs-unverified = Ձեր հաշիվը պետք է ստուգվի:
 appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել
 appmenuitem-fxa-sign-in = Մուտք գործել { -brand-product-name }
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
+fxa-menu-sync-status-on = Համաժամեցումը միացված է
+fxa-menu-sync-status-off = Համաժամեցումն անջատված է
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Ձեր տվյալները չեն համաժամեցվում
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Միացնել
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Մուտք գործեք համաժամեցման համար
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Համաժամեցնել { $deviceName }-ը հիմա
+fxa-menu-manage-sync-settings =
+    .label = Կառավարել համաժամեցման կարգավորումները
+fxa-menu-add-device =
+    .label = Ավելացնել սարք
+fxa-menu-manage-devices =
+    .label = Կառավարեք ձեր սարքերը
+fxa-menu-device-missing =
+    .label = Չե՞ք տեսնում ձեր սարքը։
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Բոլոր սարքերը
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Բոլոր սարքերը
+fxa-menu-get-firefox-mobile =
+    .label = Ստացեք { -brand-product-name }-ը Android-ի կամ iOS-ի համար
+fxa-menu-secure-sync-subpanel =
+    .title = Անվտանգ համաժամեցում
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Հաշիվ
 # Variables
@@ -264,6 +303,9 @@ appmenu-help-share-ideas =
     .accesskey = S
 appmenu-help-switch-device =
     .label = Փոխարկվում է նոր սարքին
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Օգնություն և զեկույց
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -334,9 +376,26 @@ appmenu-manage-profiles =
     .label = Կառավարել հատկագրերը
 appmenu-copy-profile =
     .label = Պատճենել այս պրոֆիլը
+appmenu-create-profile2 =
+    .label = Ստեղծել նոր պրոֆիլ
 appmenu-create-profile =
     .label = Նոր հատկագիր
 appmenu-edit-profile =
     .aria-label = Խմբագրել հատկագիրը
+appmenu-edit-this-profile =
+    .label = Խմբագրել այս պրոֆիլը
+appmenu-profile-current-in-use = Ընթացիկ պրոֆիլն օգտագործվում է
+fxa-menu-create-profile-subpanel =
+    .title = Ստեղծել նոր պրոֆիլ
+fxa-menu-create-profile-heading = Բարձրացրեք ձեր դիտարկիչի մակարդակը ընդլայնումների միջոցով
+fxa-menu-create-profile-description = Պահեք ձեր էջանիշները, գաղտնաբառերը և պատմությունը առանձին՝ աշխատանքային և անձնական զննարկիչների համար։
+fxa-menu-create-profile-confirm =
+    .label = Ստեղծել նոր պրոֆիլ
+fxa-menu-create-profile-learn-more =
+    .label = Ի՞նչ են պրոֆիլները։
 appmenu-profiles-2 =
     .label = Հատկագրեր
+appmenu-profiles-header = Պրոֆիլներ
+appmenu-all-profiles =
+    .label = Բոլոր պրոֆիլները
+appmenu-secure-sync-header = Անվտանգ համաժամեցում

@@ -58,6 +58,8 @@ aiwindow-delete-memory-button =
 
 smartwindow-nl-retry-tool-button =
     .label = Կրկնել
+smartwindow-nl-undo-button =
+    .label = Հետարկել
 
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
@@ -75,4 +77,27 @@ smart-window-confirm-group-tab = Խումբ
 
 ## Action log
 
+action-log-reading-page = Ընթերցանության էջ
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Կարդալ էջի բովանդակությունը
+action-log-searching-web = Որոնում համացանցում
+action-log-searched-web = Որոնել եմ համացանցում
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Որոնում համացանցում <a data-l10n-name="exa-link">Exa</a>-ի միջոցով
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Որոնում կատարվեց <a data-l10n-name="exa-link">Exa</a>-ով
+# Exa is the name of a third-party web search API
+# It is a brand name and should not be translated
+action-log-searched-web-exa = Որոնեցի համացանցում Exa-ի միջոցով
+action-log-checking-memories = Հիշողությունների ստուգում
+action-log-checked-memories = Ստուգված հիշողություններ
+action-log-searching-settings = Որոնման կարգավորումներ
+action-log-searched-settings = Որոնված կարգավորումներ
 action-log-searching-world-cup-matches = Աշխարհի գավաթի խաղերի որոնում
+action-log-searched-world-cup-matches = Աշխարհի գավաթի խաղերի որոնում
+action-log-checking-world-cup-live = Աշխարհի առաջնության խաղերի ուղիղ դիտում
+action-log-checked-world-cup-live = Ստուգված աշխարհի առաջնության ուղիղ խաղեր
