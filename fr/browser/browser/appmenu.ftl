@@ -303,6 +303,9 @@ appmenu-help-share-ideas =
     .accesskey = P
 appmenu-help-switch-device =
     .label = Passer à un nouvel appareil
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Aide et signalements
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

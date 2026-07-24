@@ -139,7 +139,7 @@ inactive-css-not-table-cell-fix-1 = Pokušajte dodati <strong>display:table-cell
 inactive-scroll-padding-when-not-scroll-container-fix-1 = Pokušajte dodati <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ili <strong>overflow:hidden</strong>.
 inactive-css-border-image-fix-1 = Na roditeljskom elementu tabele uklonite svojstvo ili promijenite vrijednost <strong>border-collapse</strong> u vrijednost koja nije <strong>collapse</strong>.
 inactive-css-resize-fix-1 = Pokušajte postaviti <strong>overflow</strong> na vrijednost koja nije <strong>visible</strong> ili ciljajte zamijenjeni element koji ga podržava.
-inactive-css-ruby-element-fix-1 = Pokušajte promijeniti veličinu fonta (font size) ruby teksta.
+inactive-css-ruby-element-fix-1 = Pokušajte promijeniti veličinu fonta <strong>font size</strong> ruby teksta.
 inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Pokušajte smanjiti broj redova.
 inactive-css-text-wrap-balance-fragmented-fix-1 = Izbjegavajte dijeljenje sadržaja elementa, npr. uklanjanjem kolona ili korištenjem <strong>page-break-inside:avoid</strong>.
 

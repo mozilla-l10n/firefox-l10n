@@ -27,11 +27,11 @@ about-networking-ssl-tokens-summary-expired = ({ $count }개 만료됨)
 # $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
 # $compressedLength (Number) - Total compressed size in bytes across all tokens
 # $saved (Number) - Percentage of space saved by compression
-about-networking-ssl-tokens-summary-compression = { $deCompressedLength } → { $CompressedLength } B ({ $saved }% 저장됨)
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% 저장됨)
 # $used (Number) - Cache size currently in use, in kilobytes
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
-about-networking-ssl-tokens-summary-capacity = { $Used } / { $Capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
 about-networking-ssl-tokens-partition-key = 파티션 키
 about-networking-ssl-tokens-tokens-column = 토큰
 about-networking-ssl-tokens-expires = 만료일

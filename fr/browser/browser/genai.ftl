@@ -10,7 +10,7 @@ genai-settings-chat-claude-links = En choisissant Anthropic Claude, vous accepte
 genai-settings-chat-copilot-links = En choisissant Copilot, vous acceptez les <a data-l10n-name="link1">Conditions d’utilisation de Copilot AI Experiences</a> et la <a data-l10n-name="link2">Déclaration de confidentialité de Microsoft</a>.
 genai-settings-chat-gemini-links = En choisissant Google Gemini, vous acceptez les <a data-l10n-name="link1">Conditions d’utilisation de Google</a>, la <a data-l10n-name="link2">Politique d’utilisations interdites de l’IA générative</a>, et l’<a data-l10n-name="link3">Avis de confidentialité de Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = En choisissant HuggingChat, vous acceptez <a data-l10n-name="link1">l’Avis de confidentialité d’HuggingChat</a> et la <a data-l10n-name="link2">Politique de confidentialité d’Hugging Face</a>.
-genai-settings-chat-lechat-links-2 = En choisissant Misral Vibe, vous acceptez les <a data-l10n-name="link1">Conditions d’utilisation</a> et la <a data-l10n-name="link2">Politique de confidentialité</a> de Misral AI.
+genai-settings-chat-lechat-links-2 = En choisissant Mistral Vibe, vous acceptez les <a data-l10n-name="link1">Conditions d’utilisation</a> et la <a data-l10n-name="link2">Politique de confidentialité</a> de Mistral AI.
 genai-settings-chat-lechat-links = En choisissant Le Chat Mistral, vous acceptez les <a data-l10n-name="link1">Conditions d’utilisation</a> et la <a data-l10n-name="link2">Politique de confidentialité</a> de Mistral AI.
 genai-settings-chat-localhost-links = Utilisez votre propre chatbot privé local, comme <a data-l10n-name="link1">llamafile</a>, conçu par le groupe Innovation de { -vendor-short-name }.
 
@@ -170,7 +170,7 @@ genai-onboarding-gemini-learn = En savoir plus à propos de Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
-    .title = Misral Vibe
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = En savoir plus à propos de HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral

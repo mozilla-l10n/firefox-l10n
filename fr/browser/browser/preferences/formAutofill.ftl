@@ -187,9 +187,9 @@ autofill-passport-name =
 autofill-passport-country =
     .label = Pays
 autofill-passport-number =
-    .label = Nombre
+    .label = Numéro
 # Heading shown above the passport issue date fields.
-autofill-passport-issue-date = Date d’émission
+autofill-passport-issue-date = Date de délivrance
 # Heading shown above the passport expiration date fields.
 autofill-passport-expiry-date = Date d’expiration
 # Month dropdown label for passport dates.
@@ -197,7 +197,7 @@ autofill-passport-date-month =
     .label = MM
 # Day dropdown label for passport dates.
 autofill-passport-date-day =
-    .label = DD
+    .label = JJ
 # Year dropdown label for passport dates.
 autofill-passport-date-year =
     .label = AAAA
@@ -216,12 +216,12 @@ passport-capture-save-doorhanger-description = Enregistrez ces informations dans
 passport-capture-date-part-aria-label = { $heading } { $part }
 passport-capture-save-button =
     .label = Enregistrer
-    .accessKey = S
+    .accessKey = E
 passport-capture-not-now-button =
     .label = Plus tard
-    .accessKey = w
+    .accessKey = P
 passport-capture-never-save-button =
-    .label = Ne jamais enregistrer de passeports
+    .label = Ne jamais enregistrer les passeports
     .accessKey = N
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
