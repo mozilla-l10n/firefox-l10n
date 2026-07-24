@@ -806,6 +806,7 @@ newtab-section-manage-topics-button-v2 =
     .label = دؽوۉداری سرتالا
 newtab-section-mangage-topics-followed-topics-empty-state = ایسا هنی هیچ سرتالی ن و دین نکردینه.
 newtab-section-mangage-topics-blocked-topics = مسدۊد وابیڌه
+newtab-section-mangage-topics-blocked-topics-empty-state = ایسا هنی هیچ سرتالی ن مسدۊد نکردینه.
 newtab-custom-wallpaper-cta = امتهووس کوݩ
 
 ## Strings for new user activation custom wallpaper highlight
