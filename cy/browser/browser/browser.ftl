@@ -126,6 +126,20 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Rheoli gosodiadau llamlenni ac ailgyfeirio trydydd parti…
     .accesskey = R
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Gweld manylion gwefan ({ $count } tracwyr wedi'u rwystro)
+            [1] Gweld manylion gwefan ({ $count } traciwr wedi'i rwystro)
+            [zero] Gweld manylion gwefan ({ $count } tracwyr wedi'u rwystro)
+            [one] Gweld manylion gwefan ({ $count } traciwr wedi'i rwystro)
+            [two] Gweld manylion gwefan ({ $count } draciwr wedi'u rwystro)
+            [few] Gweld manylion gwefan ({ $count } thraciwr wedi'u rwystro)
+            [many] Gweld manylion gwefan ({ $count } thraciwr wedi'u rwystro)
+           *[other] Gweld manylion gwefan ({ $count } traciwr wedi'u rwystro)
+        }
 
 ##
 
@@ -616,6 +630,8 @@ identity-description-passive-loaded-insecure2 = Mae'r wefan yn cynnwys deunydd n
 identity-description-passive-loaded-mixed2 = Er bod { -brand-short-name } wedi rhwystro peth cynnwys, mae cynnwys dal ar y dudalen nad yw'n ddiogel (megis delweddau).
 identity-description-active-loaded = Mae'r wefan yn cynnwys yn deunydd nad yw'n ddiogel (megis sgriptiau) ac nid yw eich cysylltiad â nhw'n breifat.
 identity-description-active-loaded-insecure = Gall gwybodaeth fyddwch yn ei gyflwyno cael ei weld gan eraill (megis cyfrineiriau, negeseuon, cardiau credyd, ac ati.).
+identity-description-tls-key-logging-heading = Mae'n bosibl nad yw eich cysylltiad yn breifat
+identity-description-tls-key-logging-message = Mae'n bosibl y bydd ap neu wasanaeth yn gweld eich traffig wedi'i amgryptio o'r wefan hon.
 identity-disable-mixed-content-blocking =
     .label = Analluogi diogelu dros dro
     .accesskey = A
@@ -989,6 +1005,13 @@ urlbar-result-explanation-bookmarked = Gosodwyd nod tudalen { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Ymwelwyd ddiwethaf â { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Ymwelwyd ddiwethaf â { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1869,6 +1892,18 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Dim yn Ddiogel
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [zero] { $count } tracwyr wedi'u rhwystro
+        [one] { $count } traciwr wedi'i rwystro
+        [two] { $count } draciwr wedi'u rhwystro
+        [few] { $count } thraciwr wedi'u rhwystro
+        [many] { $count } thraciwr wedi'u rhwystro
+       *[other] { $count } traciwr wedi'u rhwystro
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
