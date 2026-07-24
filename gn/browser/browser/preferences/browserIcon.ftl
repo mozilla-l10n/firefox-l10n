@@ -27,6 +27,10 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = ¡Ejoko’opaitéma umi ta’ãnga’i mbojopoiháva!
 appearance-browser-icon-set-default-button =
     .label = Eiporu ypykuévarõ
 appearance-browser-icon-pin-button =
@@ -49,3 +53,8 @@ appearance-browser-icon-kit =
     .label = Kit
 appearance-browser-icon-pixelated =
     .label = Pixeládo
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Momo
+    .description = @heyheymomodraws omoheñoipyre

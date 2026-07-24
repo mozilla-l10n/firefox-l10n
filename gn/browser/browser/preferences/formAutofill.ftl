@@ -171,6 +171,42 @@ autofill-card-network = Peteĩchagua kuatia’atã
 # methods in their region.
 autofill-card-search-term-credit-cards = kuatia’atã ñemurã, jedeverã, kuatia’atã, kuatia’atã débito, débito, viruryru, hepyme’ẽ
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Embojuaju pasaporte
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Embosako’i pasaporte
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Téra
+autofill-passport-country =
+    .label = Tetã
+autofill-passport-number =
+    .label = Papapy
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Osẽha arange
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Hu’ãha arange
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = YYYY
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = ¿Eñongatu pasaporte?
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express

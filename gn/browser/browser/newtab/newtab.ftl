@@ -258,6 +258,8 @@ newtab-privacy-message-milestone-year-cta = Ehecha ñemo’ãrã
 newtab-privacy-message-milestone-total-cta = Ehecha ñemo’ãrã
 newtab-privacy-message-daily-cap-cta = Ehecha ñemo’ãrã
 newtab-privacy-message-streak-cta = Ehecha ñemo’ãrã
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Eikundaháke, { -brand-short-name } ojokóta ohóvo.
 newtab-privacy-message-first-protection-cta = Ehecha ñemo’ãrã
 
 ## Strings for the Stocks widget
@@ -266,6 +268,8 @@ newtab-privacy-message-first-protection-cta = Ehecha ñemo’ãrã
 newtab-stocks-menu-search = Eheka jeku’e reheguáva
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Eikuaave
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Mba’ekuaarãita apopyre ndojeporukuaái
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Jejaporã
 
@@ -279,6 +283,8 @@ newtab-stocks-widget-title = Jejaporã
 newtab-stocks-ticker-status-up = { $name }, jupi { $change }, { $price }
 # Stock decreased (went down) during the day
 newtab-stocks-ticker-status-down = { $name }, karape { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, naiñambuéi, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -433,6 +439,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Mbosako’i
+newtab-menu-add-topsite = Embojuaju jeike pya’eha pyahu
 newtab-menu-open-new-window = Jeike Ovetã Pyahúpe
 newtab-menu-open-new-private-window = Jeike Ovetã Ñemi Pyahúpe
 newtab-menu-dismiss = Emboyke

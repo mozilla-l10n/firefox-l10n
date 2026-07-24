@@ -39,7 +39,7 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 # $used (Number) - Cache size currently in use, in kilobytes
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
-about-networking-ssl-tokens-summary-capacity = { $used } / { $capaciteit } KB ({ $percent }%)
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
 about-networking-ssl-tokens-partition-key = Partitiesleutel
 about-networking-ssl-tokens-tokens-column = Tokens
 about-networking-ssl-tokens-expires = Verloopt op
