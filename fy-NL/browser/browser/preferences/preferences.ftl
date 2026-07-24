@@ -1691,6 +1691,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Gjin adressen tafoege
+personal-info-group =
+    .label = Persoanlike gegevens
+autofill-personal-info-checkbox-message =
+    .label = Persoanlike gegevens bewarje en automatysk ynfolje
+autofill-personal-info-manage-button =
+    .label = Persoanlike gegevens beheare
+passports-list-header =
+    .label = Paspoarten
+passports-delete-passport-button-label =
+    .aria-label = Fuortsmite
+passports-edit-passport-button-label =
+    .aria-label = Bewurkje
+passports-delete-passport-prompt-title = Dit paspoart fuortsmite?
+passports-delete-passport-prompt-confirm-button = Fuortsmite
+passports-delete-passport-prompt-cancel-button = Annulearje
+autofill-passports-add-button = Nij paspoart tafoegje
+autofill-personal-info-manage-title =
+    .heading = Persoanlike gegevens beheare
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Gjin paspoarten tafoege
 pane-passwords-autofill-title2 = Wachtwurden en automatysk ynfolje
     .title = Wachtwurden en automatysk ynfolje
 preferences-passwords-autofill-header =
