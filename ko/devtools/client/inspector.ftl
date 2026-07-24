@@ -41,3 +41,6 @@ inspector-emulation-panel-color-scheme-light = 밝게
 # A label text for the dark color scheme emulation radio button option.
 inspector-emulation-panel-color-scheme-dark = 어둡게
     .aria-label = 어두운 색상 구성표 에뮬레이션을 사용
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = 에뮬레이션 없음
+    .aria-label = 색상 구성표 에뮬레이션을 사용 안 함
