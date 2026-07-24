@@ -1705,6 +1705,15 @@ passports-delete-passport-button-label =
     .aria-label = Zhašeć
 passports-edit-passport-button-label =
     .aria-label = Wobdźěłać
+passports-delete-passport-prompt-title = Tutón pućowanski pas zhašeć?
+passports-delete-passport-prompt-confirm-button = Zhašeć
+passports-delete-passport-prompt-cancel-button = Přetorhnyć
+autofill-passports-add-button = Nowy pućowanski pas přidać
+autofill-personal-info-manage-title =
+    .heading = Wosobinske informacije rjadować
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Žane pućowanske pasy přidate
 pane-passwords-autofill-title2 = Hesła a awtomatiske wupjelnjenje
     .title = Hesła a awtomatiske wupjelnjenje
 preferences-passwords-autofill-header =

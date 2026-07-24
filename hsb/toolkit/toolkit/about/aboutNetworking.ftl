@@ -19,6 +19,57 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Přepruwowany
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Izolaciski kluč
+about-networking-ssl-tokens = Tokeny TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } token
+        [two] { $count } tokenaj
+        [few] { $count } tokeny
+       *[other] { $count } tokenow
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } spadnjeny)
+        [two] ({ $count } spadnjenej)
+        [few] ({ $count } spadnjene)
+       *[other] ({ $count } spadnjenych)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% składowane)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Particiski kluč
+about-networking-ssl-tokens-tokens-column = Tokeny
+about-networking-ssl-tokens-expires = Płaćiwy do
+about-networking-ssl-tokens-certificate = Certifikat
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+        [two] { $count } tokenaj
+        [few] { $count } tokeny
+       *[other] { $count } tokenow
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Ze składowaka wobnowjeny
+    .title = Ze składowaka wobnowjeny
+about-networking-ssl-tokens-new =
+    .alt = Za tute posedźenje nowy
+    .title = Za tute posedźenje nowy
+about-networking-ssl-tokens-expired =
+    .alt = Spadnjeny
+    .title = Spadnjeny
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokeny: { $tokenLength } B. Skoděrowany: { $decompressedLength } → { $compressedLength } B.
 about-networking-refresh = Aktualizować
 about-networking-auto-refresh = Kóžde 3 sekundy aktualizować
 about-networking-hostname = Hostmjeno

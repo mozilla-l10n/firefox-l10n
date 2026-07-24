@@ -22,7 +22,7 @@ autofill-manage-edit-button = Rediger…
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 address-capture-save-doorhanger-header = Lagre adresse
-address-capture-save-doorhanger-description = Lagre informasjon til { -brand-short-name } slik at du enkelt kan fylle inn skjema.
+address-capture-save-doorhanger-description = Lagre informasjon til { -brand-short-name } slik at du enkelt kan fylle ut skjema.
 address-capture-update-doorhanger-header = Oppdatere adresser?
 address-capture-edit-doorhanger-header = Rediger adresse
 address-capture-save-button =
@@ -181,6 +181,21 @@ autofill-passport-country =
     .label = Land
 autofill-passport-number =
     .label = Tal
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = ÅÅÅÅ
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Lagre pass
+passport-capture-save-doorhanger-description = Lagre informasjon til { -brand-short-name } slik at du enkelt kan fylle ut skjema.
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
