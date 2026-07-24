@@ -342,6 +342,9 @@ tab-group-editor-done =
     .label = Τέλος
     .accessKey = Τ
 # Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = Κοινοποίηση ομάδας
+# Share is a verb here. Meaning to "Share" the "tab group"
 tab-group-editor-action-share-tab-group =
     .label = Κοινή χρήση ομάδας καρτελών
 tab-context-reopen-tab-group =

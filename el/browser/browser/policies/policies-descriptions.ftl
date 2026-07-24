@@ -30,12 +30,17 @@ policy-BlockAboutSupport = Αποκλεισμός πρόσβασης στη σε
 policy-Bookmarks = Δημιουργία σελιδοδεικτών στη γραμμή σελιδοδεικτών, στο μενού σελιδοδεικτών ή σε έναν συγκεκριμένο φάκελο μέσα τους.
 policy-CaptivePortal = Ενεργοποίηση ή απενεργοποίηση υποστήριξης πυλών υποδοχής.
 policy-CertificatesDescription = Προσθήκη πιστοποιητικών ή χρήση ενσωματωμένων πιστοποιητικών.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Ενεργοποίηση της συμφωνίας κλειδιού CNSA 2.0 ML-KEM-1024 για TLS.
 policy-ContentAnalysis = Ενεργοποίηση ή απενεργοποίηση σύνδεσης παράγοντα αποτροπής απώλειας δεδομένων.
 policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκευσης cookie.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Ορισμός πολιτικών που σχετίζονται με τις θεματικές ενότητες.
 policy-DisableAccounts = Απενεργοποίηση υπηρεσιών που βασίζονται σε λογαριασμό, συμπεριλαμβανομένου του συγχρονισμού.
 policy-DisabledCiphers = Απενεργοποίηση κρυπτογράφησης.
+policy-DefaultBrowserSettingEnabled = Έλεγχος αν ο χρήστης μπορεί να ορίσει το { -brand-short-name } ως το προεπιλεγμένο πρόγραμμα περιήγησης.
 policy-DefaultDownloadDirectory = Ορισμός προεπιλεγμένου καταλόγου λήψης.
 policy-DefaultSerialGuardSetting = Έλεγχος της χρήσης του API για σειριακές θύρες.
 policy-DisableAppUpdate = Αποτροπή ενημέρωσης προγράμματος περιήγησης.

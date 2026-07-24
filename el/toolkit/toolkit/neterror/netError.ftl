@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Πάντα συνέχεια
 neterror-pref-reset = Μοιάζει να προκαλείται από τις ρυθμίσεις ασφαλείας του δικτύου σας. Θέλετε να αποκατασταθούν οι προεπιλεγμένες ρυθμίσεις;
 neterror-error-reporting-automatic = Αναφορά παρόμοιων σφαλμάτων για να βοηθήσετε τη { -vendor-short-name } στον εντοπισμό και αποκλεισμό κακόβουλων ιστοτόπων
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Η σύνδεσή σας ενδέχεται να μην είναι ιδιωτική
+    .message = Μια εφαρμογή ή υπηρεσία ενδέχεται να βλέπει την κρυπτογραφημένη κίνηση από αυτόν τον ιστότοπο.
+
 ## Specific error messages
 
 neterror-generic-error = Το { -brand-short-name } δεν μπορεί να φορτώσει αυτήν τη σελίδα για κάποιο λόγο.

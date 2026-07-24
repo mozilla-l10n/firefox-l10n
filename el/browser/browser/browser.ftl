@@ -126,6 +126,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Διαχείριση ρυθμίσεων αναδυόμενων παραθύρων και ανακατευθύνσεων τρίτων…
     .accesskey = Δ
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Προβολή πληροφοριών ιστοτόπου
+            [1] Προβολή πληροφοριών ιστοτόπου (1 αποκλεισμένος ιχνηλάτης)
+           *[other] Προβολή πληροφοριών ιστοτόπου ({ $count } αποκλεισμένοι ιχνηλάτες)
+        }
 
 ##
 
@@ -591,6 +600,8 @@ identity-clear-site-data =
     .label = Απαλοιφή cookie και δεδομένων ιστοτόπου…
 identity-connection-not-secure-security-view = Η σύνδεσή σας με αυτόν τον ιστότοπο δεν είναι ασφαλής.
 identity-connection-verified = Η σύνδεσή σας με αυτόν τον ιστότοπο είναι ασφαλής.
+identity-ev-owner-label2 = Το πιστοποιητικό εκδόθηκε για
+identity-verifier-label2 = Επαληθεύτηκε από
 identity-ev-owner-label = Το πιστοποιητικό εκδόθηκε για:
 identity-verifier-label = Επαληθεύτηκε από:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -611,6 +622,7 @@ identity-description-passive-loaded-mixed2 = Παρόλο που το { -brand-s
 identity-description-active-loaded = Αυτός ο ιστότοπος διαθέτει επισφαλές περιεχόμενο (όπως σενάρια) και η σύνδεσή σας δεν είναι ιδιωτική.
 identity-description-active-loaded-insecure = Οι πληροφορίες που μοιράζεστε με αυτόν τον ιστότοπο μπορεί να προβληθούν από τρίτους (όπως κωδικοί πρόσβασης, μηνύματα, πιστωτικές κάρτες κ.λπ.).
 identity-description-tls-key-logging-heading = Η σύνδεσή σας ενδέχεται να μην είναι ιδιωτική
+identity-description-tls-key-logging-message = Μια εφαρμογή ή υπηρεσία ενδέχεται να βλέπει την κρυπτογραφημένη κίνηση από αυτόν τον ιστότοπο.
 identity-disable-mixed-content-blocking =
     .label = Προσωρινή απενεργοποίηση προστασίας
     .accesskey = Π

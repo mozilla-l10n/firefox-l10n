@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Εικόνα χρήστη
 edit-profile-page-delete-button =
     .label = Διαγραφή
+edit-profile-page-avatar-selector-opener-button =
+    .title = Επεξεργασία εικόνας χρήστη
 edit-profile-page-avatar-selector-opener-link = Επεξεργασία
 avatar-selector-icon-tab = Εικονίδιο
 avatar-selector-custom-tab = Προσαρμοσμένο
@@ -95,6 +97,9 @@ delete-profile-logins = Κωδικοί πρόσβασης
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Διαγραφή του προφίλ «{ $profilename }»
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Διαγραφή του προφίλ «{ $profilename }»;
 
 ##
 

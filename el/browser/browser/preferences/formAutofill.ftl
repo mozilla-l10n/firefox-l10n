@@ -206,6 +206,7 @@ autofill-passport-date-year =
 
 # Header of the doorhanger shown when Firefox offers to save a passport.
 passport-capture-save-doorhanger-header = Αποθήκευση διαβατηρίου;
+passport-capture-save-doorhanger-description = Αποθηκεύστε πληροφορίες στο { -brand-short-name } για να μπορείτε να συμπληρώνετε γρήγορα φόρμες.
 # Accessible label for a passport date part input in the capture doorhanger.
 # The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
 # placeholder text rather than a visible label, so the accessible name combines
@@ -219,6 +220,9 @@ passport-capture-save-button =
 passport-capture-not-now-button =
     .label = Όχι τώρα
     .accessKey = χ
+passport-capture-never-save-button =
+    .label = Να μην γίνεται ποτέ αποθήκευση διαβατηρίων
+    .accessKey = Ν
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

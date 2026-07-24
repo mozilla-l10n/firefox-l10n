@@ -1695,6 +1695,8 @@ personal-info-group =
     .label = Προσωπικές πληροφορίες
 autofill-personal-info-checkbox-message =
     .label = Αποθήκευση και αυτόματη συμπλήρωση προσωπικών πληροφοριών
+autofill-personal-info-manage-button =
+    .label = Διαχείριση προσωπικών πληροφοριών
 passports-list-header =
     .label = Διαβατήρια
 passports-delete-passport-button-label =
@@ -1705,6 +1707,8 @@ passports-delete-passport-prompt-title = Διαγραφή διαβατηρίου
 passports-delete-passport-prompt-confirm-button = Διαγραφή
 passports-delete-passport-prompt-cancel-button = Ακύρωση
 autofill-passports-add-button = Προσθήκη νέου διαβατηρίου
+autofill-personal-info-manage-title =
+    .heading = Διαχείριση προσωπικών πληροφοριών
 # This message is displayed when no passports are stored in Firefox
 passports-no-passports-stored-message =
     .label = Δεν έχουν προστεθεί διαβατήρια
