@@ -32,3 +32,15 @@ inspector-emulation-panel-toggle =
     .title = CSS эмуляция мүмкіндіктерін іске қосу/сөндіру
     .aria-label = CSS эмуляция мүмкіндіктерін іске қосу/сөндіру
 inspector-emulation-panel-color-scheme = Түс схемасын эмуляциялау
+# A label text for the print emulation options
+inspector-emulation-panel-print = Іске қосу
+    .aria-label = Баспаға шығаруды эмуляцияуды іске қосу
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Ашық түсті
+    .aria-label = Ашық түсті түс схемасын эмуляцияуды іске қосу
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Күңгірт
+    .aria-label = Күңгірт түсті түс схемасын эмуляцияуды іске қосу
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Эмуляция жоқ
+    .aria-label = Түс схемасын эмуляцияуды сөндіру

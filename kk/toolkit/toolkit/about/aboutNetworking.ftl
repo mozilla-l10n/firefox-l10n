@@ -50,6 +50,12 @@ about-networking-ssl-tokens-token-list =
         [one] { $count } токен
        *[other] { $count } токен
     }
+about-networking-ssl-tokens-restored =
+    .alt = Сақтау құрылғыдан қалпына келтірілді
+    .title = Сақтау құрылғыдан қалпына келтірілді
+about-networking-ssl-tokens-new =
+    .alt = Бұл сессияда жаңа
+    .title = Бұл сессияда жаңа
 about-networking-ssl-tokens-expired =
     .alt = Мерзімі аяқталған
     .title = Мерзімі аяқталған
