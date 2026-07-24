@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = Partekatu { -brand-product-name }
 appmenuitem-more-tools =
     .label = Tresna gehiago
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Laguntza eta berriematea
 appmenuitem-help =
     .label = Laguntza
 appmenuitem-exit2 =
@@ -304,6 +307,9 @@ appmenu-help-share-ideas =
     .accesskey = P
 appmenu-help-switch-device =
     .label = Gailu berri batera aldatzea
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Laguntza eta berriematea
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
