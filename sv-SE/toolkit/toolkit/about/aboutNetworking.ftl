@@ -29,8 +29,8 @@ about-networking-ssl-tokens-summary-count =
 # $count (Number) - Number of cached tokens that have already expired
 about-networking-ssl-tokens-summary-expired =
     { $count ->
-        [one] ({ $count } upphörde)
-       *[other] ({ $count } upphörde)
+        [one] ({ $count } har upphört)
+       *[other] ({ $count } har upphört)
     }
 # $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
 # $compressedLength (Number) - Total compressed size in bytes across all tokens
@@ -41,9 +41,9 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 # $percent (Number) - Percentage of the cache capacity currently in use
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } kB ({ $percent }%)
 about-networking-ssl-tokens-partition-key = Partitionsnyckel
-about-networking-ssl-tokens-tokens-column = Polletter
+about-networking-ssl-tokens-tokens-column = Tokens
 about-networking-ssl-tokens-expires = Upphör
-about-networking-ssl-tokens-certificate = Cert
+about-networking-ssl-tokens-certificate = Certifikat
 # $count (Number) - Number of tokens sharing this row's host and certificate
 about-networking-ssl-tokens-token-list =
     { $count ->
@@ -57,14 +57,14 @@ about-networking-ssl-tokens-new =
     .alt = Ny för denna session
     .title = Ny för denna session
 about-networking-ssl-tokens-expired =
-    .alt = Förfallit
-    .title = Förfallit
+    .alt = Upphörd
+    .title = Upphörd
 # $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
 # $decompressedLength (Number) - Total size in bytes before compression
 # $compressedLength (Number) - Total size in bytes after compression
 about-networking-ssl-tokens-compression-details =
     .title = Tokens: { $tokenLength } B. Kodade: { $decompressedLength } → { $compressedLength } B.
-about-networking-ssl-tokens-ev-status = EV certifikat
+about-networking-ssl-tokens-ev-status = EV-certifikat
 about-networking-ssl-tokens-ct-status = Transparens för certifikat
 about-networking-ssl-tokens-overridable-error = Åsidosättbar felkategori
 about-networking-ssl-tokens-built-in-root = Inbyggd root

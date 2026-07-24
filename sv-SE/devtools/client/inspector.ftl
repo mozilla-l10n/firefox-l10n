@@ -22,10 +22,10 @@ colorpicker-tooltip-alpha-slider-title = Opacitet
 inspector-element-specific-pseudo-classes-heading = Elementspecifika pseudoklasser
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
-    .title = Växla emulering av ljus färgschema för sidan
+    .title = Växla emulering av ljusa färgscheman för sidan
 # A title text for the dark color scheme emulation options
 inspector-color-scheme-emulation-dark =
-    .title = Växla emulering av mörkt färgschema för sidan
+    .title = Växla emulering av mörka färgscheman för sidan
 # A title text for the emulation panel toggle button in the Rule View toolbar
 # that toggles the emulation features panel.
 inspector-emulation-panel-toggle =
@@ -37,10 +37,10 @@ inspector-emulation-panel-print = Aktivera
     .aria-label = Aktivera emulering av utskriftsmedia
 # A label text for the light color scheme emulation radio button option.
 inspector-emulation-panel-color-scheme-light = Ljust
-    .aria-label = Aktivera emulering av ljust färgschema
+    .aria-label = Aktivera emulering av ljusa färgscheman
 # A label text for the dark color scheme emulation radio button option.
 inspector-emulation-panel-color-scheme-dark = Mörkt
-    .aria-label = Aktivera emulering av mörkt färgschema
+    .aria-label = Aktivera emulering av mörka färgscheman
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Ingen emulering
-    .aria-label = Inaktivera färgschemaemulering
+    .aria-label = Inaktivera emulering av färgscheman
