@@ -171,6 +171,24 @@ autofill-card-network = Kreditkarten-Typ
 # methods in their region.
 autofill-card-search-term-credit-cards = Kreditkarten, Kredit, Karten, Debitkarten, Bankkarte, Brieftasche, Kasse
 
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Name
+autofill-passport-country =
+    .label = Land
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = TT
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = JJJJ
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express

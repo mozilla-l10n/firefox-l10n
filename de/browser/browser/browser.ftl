@@ -622,6 +622,8 @@ identity-description-passive-loaded-insecure2 = Diese Website enthält nicht sic
 identity-description-passive-loaded-mixed2 = Obwohl { -brand-short-name } Inhalte blockiert hat, enthält die Seite weiterhin nicht sichere Inhalte (wie z.B. Grafiken).
 identity-description-active-loaded = Diese Website enthält nicht sichere Inhalte (wie z.B. Skripte) und Ihre Verbindung ist nicht vertraulich.
 identity-description-active-loaded-insecure = Mit dieser Seite geteilte Informationen (wie Passwörter, Nachrichten, Kreditkartendaten, usw.) können von Anderen eingesehen werden.
+identity-description-tls-key-logging-heading = Ihre Verbindung ist möglicherweise nicht privat
+identity-description-tls-key-logging-message = Eine App oder ein Dienst kann möglicherweise Ihren verschlüsselten Datenverkehr von dieser Website sehen.
 identity-disable-mixed-content-blocking =
     .label = Schutz momentan deaktivieren
     .accesskey = d
@@ -968,6 +970,13 @@ urlbar-result-explanation-bookmarked = als Lesezeichen gesetzt am { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = { $date } zuletzt besucht
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = zuletzt besucht vor { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1800,6 +1809,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Nicht sicher
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } Tracker blockiert
+       *[other] { $count } Tracker blockiert
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
