@@ -37,6 +37,7 @@ url-classifier-cache-prefix = Префиксі
 url-classifier-cache-ncache-expiry = Теріс кэш мерзімі аяқталу уақыты
 url-classifier-cache-fullhash = Толық хэш
 url-classifier-cache-pcache-expiry = Оң кэш мерзімі аяқталу уақыты
+url-classifier-content-classifier-title = Мазмұн жіктегіші
 # URL of the resource being tested, i.e. the thing that would be loaded
 # (e.g. an image, script, or tracking pixel).
 url-classifier-content-classifier-url = URL
@@ -45,9 +46,13 @@ url-classifier-content-classifier-url = URL
 url-classifier-content-classifier-flags = Жалаушалар
 # Header for the group of buttons that run a classification test. A "probe" here
 # means running the classifier once and reporting what it would do.
-url-classifier-content-classifier-probes = Зондтар
+url-classifier-content-classifier-probes = Сынаулар
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Нәтижелер
+url-classifier-content-classifier-pbm = Жекелік шолу
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Ұсынылмайтын қосымша
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Мүмкіндік
 # Column header: whether the request matched this feature (true/false).

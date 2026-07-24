@@ -491,3 +491,11 @@ nova-early-access-share-feedback-link = Пікір қалдыру
     .accesskey = л
 nova-early-access-infobar-primary-button = Түсіндім
     .accesskey = Т
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Сақтау және жалғастыру

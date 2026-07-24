@@ -50,6 +50,22 @@ about-networking-ssl-tokens-token-list =
         [one] { $count } токен
        *[other] { $count } токен
     }
+about-networking-ssl-tokens-expired =
+    .alt = Мерзімі аяқталған
+    .title = Мерзімі аяқталған
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Токендер: { $tokenLength } Б. Кодталған: { $decompressedLength } → { $compressedLength } Б.
+about-networking-ssl-tokens-ev-status = EV сертификаты
+about-networking-ssl-tokens-ct-status = Сертификаттың ашықтығы мәртебесі
+about-networking-ssl-tokens-overridable-error = Қайта анықталатын қате санаты
+about-networking-ssl-tokens-built-in-root = Кірістірілген түбірлік
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Сертификат тізбегі ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Қол алысу сертификаттары ({ $count })
 about-networking-refresh = Жаңарту
 about-networking-auto-refresh = Әр 3 секунд сайын жаңарту
 about-networking-hostname = Хост аты
