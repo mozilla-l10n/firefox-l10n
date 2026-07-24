@@ -23,3 +23,6 @@ inspector-element-specific-pseudo-classes-heading = Pseudo-classes specific de e
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Activar/disactivar emulation de schema de color clar pro le pagina
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Activar/disactivar emulation de schema de color obscur pro le pagina

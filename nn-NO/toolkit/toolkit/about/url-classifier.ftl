@@ -73,7 +73,7 @@ url-classifier-content-classifier-force-third-party = Tving tredjepart til toppr
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Ikkje-tilrådd tillegg
 # Button: run the probe that reports whether the request would be blocked.
-url-classifier-content-classifier-probe-blocking-btn = Test-blokkering
+url-classifier-content-classifier-probe-blocking-btn = Test blokkering
 # Button: run the probe that reports whether the request would be annotated
 # (labeled) as tracking without being blocked.
 url-classifier-content-classifier-probe-annotate-btn = Test-merking

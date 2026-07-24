@@ -220,6 +220,9 @@ passport-capture-save-button =
 passport-capture-not-now-button =
     .label = Non ora
     .accessKey = a
+passport-capture-never-save-button =
+    .label = Jammais salvar passaportos
+    .accessKey = J
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
