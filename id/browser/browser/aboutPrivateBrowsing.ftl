@@ -78,3 +78,13 @@ about-private-browsing-cookie-banners-promo-body = Kini kami menolak banyak span
 about-private-browsing-felt-privacy-v1-info-header = Jangan tinggalkan jejak di perangkat ini
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } menghapus kuki, riwayat, dan data situs ketika Anda menutup semua jendela pribadi.
 about-private-browsing-felt-privacy-v1-info-link = Siapa yang mungkin bisa melihat aktivitas saya?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Menutup semua jendela pribadi Anda akan menghapus kuki, riwayat, dan data situs Anda.
+about-private-browsing-nova-info-link = Siapa yang mungkin masih dapat melihat aktivitas saya?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Anda tidak direkam
+about-private-browsing-nova-info-subheader = Kami akan menghapus setiap pencarian dan proses masuk saat Anda menutup jendela ini. Perlindungan bawaan { -brand-short-name } juga ada di sini, seperti memblokir pelacak.

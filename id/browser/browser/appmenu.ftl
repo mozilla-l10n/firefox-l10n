@@ -15,6 +15,12 @@ appmenuitem-banner-update-unsupported =
     .label = Pembaruan tersedia — sistem tidak kompatibel
 appmenuitem-banner-update-restart =
     .label = Pembaruan tersedia — mulai ulang sekarang
+appmenu-nova-update-title = Mulai ulang untuk memperbarui { -brand-short-name }
+appmenu-nova-update-description = Tab Anda akan dibuka kembali.
+appmenu-nova-fxa-sign-in = Masuk
+appmenu-nova-switch-device-promo =
+    .message = Segera akan mendapat perangkat baru? Bawa { -brand-short-name }!
+appmenu-nova-switch-device-link = Cara memigrasikan data Anda
 appmenuitem-new-tab =
     .label = Tab Baru
 appmenuitem-new-window =
@@ -43,8 +49,15 @@ appmenuitem-translate =
     .label = Terjemahkan laman…
 appmenuitem-zoom =
     .value = Perbesaran
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Bagikan { -brand-product-name }
 appmenuitem-more-tools =
     .label = Alat Lainnya
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Bantuan dan Laporan
 appmenuitem-help =
     .label = Bantuan
 appmenuitem-exit2 =
@@ -103,6 +116,36 @@ appmenu-remote-tabs-unverified = Akun Anda perlu diverifikasi.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronkan Sekarang
 appmenuitem-fxa-sign-in = Masuk ke { -brand-product-name }
 appmenuitem-fxa-manage-account = Kelola Akun
+fxa-menu-sync-status-on = Sinkronisasi Aktif
+fxa-menu-sync-status-off = Sinkronisasi Nonaktif
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Data Anda tidak disinkronkan
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Nyalakan
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Masuk untuk menyinkronkan
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sinkronkan { $deviceName } sekarang
+fxa-menu-manage-sync-settings =
+    .label = Kelola pengaturan sinkronisasi
+fxa-menu-add-device =
+    .label = Tambahkan perangkat
+fxa-menu-manage-devices =
+    .label = Kelola perangkat Anda
+fxa-menu-device-missing =
+    .label = Tidak Melihat Perangkat Anda?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Semua Perangkat
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Semua Perangkat
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Akun
 # Variables

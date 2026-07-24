@@ -19,6 +19,37 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Gevalideerd
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Isolatiesleutel
+about-networking-ssl-tokens = TLS-tokens
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokens
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } verlopen)
+       *[other] ({ $count } verlopen)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% bespaard)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capaciteit } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Partitiesleutel
+about-networking-ssl-tokens-tokens-column = Tokens
+about-networking-ssl-tokens-expires = Verloopt op
+about-networking-ssl-tokens-certificate = Certificaat
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokens
+    }
 about-networking-refresh = Vernieuwen
 about-networking-auto-refresh = Om de 3 seconden automatisch vernieuwen
 about-networking-hostname = Hostnaam

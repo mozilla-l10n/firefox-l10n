@@ -9,6 +9,10 @@ all-tabs-menu-new-user-context =
     .label = Tab Kontainer Baru
 all-tabs-menu-hidden-tabs =
     .label = Tab Tersembunyi
+all-tabs-menu-close-duplicate-tabs =
+    .label = Tutup Tab Duplikat
+all-tabs-menu-view-all-tabs =
+    .label = Lihat Semua Tab
 all-tabs-menu-manage-user-context =
     .label = Kelola Kontainer
     .accesskey = K
@@ -26,3 +30,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Grup tab
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Cari Semua Tab

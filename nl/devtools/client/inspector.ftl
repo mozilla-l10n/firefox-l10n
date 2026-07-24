@@ -20,3 +20,27 @@ colorpicker-tooltip-hue-slider-title = Tint
 colorpicker-tooltip-alpha-slider-title = Opaciteit
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Elementspecifieke pseudoklassen
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Emulatie van licht kleurschema voor de pagina in-/uitschakelen
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Emulatie van donker kleurschema voor de pagina in-/uitschakelen
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = CSS-emulatiefuncties in-/uitschakelen
+    .aria-label = CSS-emulatiefuncties in-/uitschakelen
+inspector-emulation-panel-color-scheme = Kleurenschema-emulatie
+# A label text for the print emulation options
+inspector-emulation-panel-print = Inschakelen
+    .aria-label = Afdrukmedia-emulatie inschakelen
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Licht
+    .aria-label = Emulatie van licht kleurschema inschakelen
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Donker
+    .aria-label = Emulatie van donker kleurschema inschakelen
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Geen emulatie
+    .aria-label = Emulatie van kleurschema uitschakelen
