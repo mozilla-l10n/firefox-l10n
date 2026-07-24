@@ -415,3 +415,4 @@ fxa-menu-device-view-all-synced-tabs =
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =
     .label = Invia pagina corrente a questo dispositivo
+

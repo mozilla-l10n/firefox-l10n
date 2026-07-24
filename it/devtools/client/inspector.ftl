@@ -44,3 +44,4 @@ inspector-emulation-panel-color-scheme-dark = Scura
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Nessuna emulazione
     .aria-label = Disattiva emulazione della combinazione di colori
+

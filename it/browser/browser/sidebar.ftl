@@ -290,3 +290,4 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Trascina qui le schede più importanti per averle sempre a portata di mano
+

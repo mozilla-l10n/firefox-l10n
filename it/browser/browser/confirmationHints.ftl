@@ -33,3 +33,4 @@ confirmation-hint-duplicate-tabs-closed =
     }
 # Subtle notification shown when Extensions button moves into the application menu.
 confirmation-hint-extensions-button-hidden = Spostato nel menu
+
