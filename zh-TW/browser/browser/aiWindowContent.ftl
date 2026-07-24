@@ -120,6 +120,14 @@ action-log-reading-page = 正在閱讀頁面
 action-log-read-page = 已閱讀頁面內容
 action-log-searching-web = 正在網路搜尋
 action-log-searched-web = 已搜尋網路
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = 正在使用 <a data-l10n-name="exa-link">Exa</a> 搜尋網路
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = 已使用 <a data-l10n-name="exa-link">Exa</a> 搜尋網路
 # Exa is the name of a third-party web search API
 # It is a brand name and should not be translated
 action-log-searched-web-exa = 已使用 Exa 進行網路搜尋

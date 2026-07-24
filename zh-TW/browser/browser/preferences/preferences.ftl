@@ -1679,6 +1679,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = 未新增地址
+personal-info-group =
+    .label = 個人資訊
+autofill-personal-info-checkbox-message =
+    .label = 儲存並自動填寫個人資訊
+autofill-personal-info-manage-button =
+    .label = 管理個人資訊
+passports-list-header =
+    .label = 護照資訊
+passports-delete-passport-button-label =
+    .aria-label = 刪除
+passports-edit-passport-button-label =
+    .aria-label = 編輯
+passports-delete-passport-prompt-title = 要刪除這組護照資訊嗎？
+passports-delete-passport-prompt-confirm-button = 刪除
+passports-delete-passport-prompt-cancel-button = 取消
+autofill-passports-add-button = 新增護照資訊
+autofill-personal-info-manage-title =
+    .heading = 管理個人資訊
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = 未加入護照資訊
 pane-passwords-autofill-title2 = 密碼與自動填寫
     .title = 密碼與自動填寫
 preferences-passwords-autofill-header =
