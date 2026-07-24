@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = { -brand-product-name } diele
 appmenuitem-more-tools =
     .label = Mear ark
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Help en rapportearje
 appmenuitem-help =
     .label = Help
 appmenuitem-exit2 =
@@ -304,6 +307,9 @@ appmenu-help-share-ideas =
     .accesskey = k
 appmenu-help-switch-device =
     .label = Wikselje nei in nij apparaat
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Help en rapportearje
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
