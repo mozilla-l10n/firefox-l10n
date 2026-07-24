@@ -406,6 +406,9 @@ tab-group-editor-done =
     .label = Hotovo
     .accessKey = H
 # Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = Sdílet skupinu
+# Share is a verb here. Meaning to "Share" the "tab group"
 tab-group-editor-action-share-tab-group =
     .label = Sdílet skupinu panelů
 tab-context-reopen-tab-group =

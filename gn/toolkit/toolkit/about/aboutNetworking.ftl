@@ -40,6 +40,16 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Mboja’opy reheguaite
+about-networking-ssl-tokens-tokens-column = Tokens
+about-networking-ssl-tokens-expires = Opataha
+about-networking-ssl-tokens-certificate = Mbojepyre
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokens
+    }
 about-networking-refresh = Mbopiro’y
 about-networking-auto-refresh = Embopiro’y ijehegui 3 aravo’ive og̃uahẽvo
 about-networking-hostname = Mohendahavusu réra

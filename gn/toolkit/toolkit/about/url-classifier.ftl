@@ -87,6 +87,12 @@ url-classifier-content-classifier-engine-details = Mba’emimi motor rehegua
 url-classifier-content-classifier-col-feature = Tembiapoitéva
 # Column header: whether the request matched this feature (true/false).
 url-classifier-content-classifier-col-matched = Ojueheguáva
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Oĩ’ỹva
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Mba’eguasu
 # Column header: the raw result code returned by the engine for this feature.
 url-classifier-content-classifier-col-engine-result = Ojekuaáva motor rehegua
 # Overall verdict shown when the request would be acted on (blocked or
@@ -95,6 +101,8 @@ url-classifier-content-classifier-verdict-hit = Mbota
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Oĩ’ỹva
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Ojavýva
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.

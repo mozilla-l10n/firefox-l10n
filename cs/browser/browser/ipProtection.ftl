@@ -80,6 +80,7 @@ ipprotection-feature-introduction-button-get-started = Začínáme
 ipprotection-summer-promo-offramp-generic-title = Vaše limity pro vestavěnou VPN se obnoví 1. září
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otevřít VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Nastavit na výchozí
 ipprotection-summer-promo-offramp-get-subscription-button = Získejte { -mozilla-vpn-brand-name(case: "acc") }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Zavřít
 

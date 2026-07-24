@@ -1857,6 +1857,10 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Nebyla přidána žádná adresa
+passports-delete-passport-button-label =
+    .aria-label = Smazat
+passports-edit-passport-button-label =
+    .aria-label = Upravit
 pane-passwords-autofill-title2 = Hesla a automatické vyplňování
     .title = Hesla a automatické vyplňování
 preferences-passwords-autofill-header =
