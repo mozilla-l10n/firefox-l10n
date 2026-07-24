@@ -30,7 +30,7 @@ about-networking-ssl-tokens-summary-count =
 about-networking-ssl-tokens-summary-expired =
     { $count ->
         [one] ({ $count } a expiré)
-       *[other] ({ $count } a expiré)
+       *[other] ({ $count } ont expiré)
     }
 # $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
 # $compressedLength (Number) - Total compressed size in bytes across all tokens
@@ -43,12 +43,12 @@ about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } Ko ({ 
 about-networking-ssl-tokens-partition-key = Clé de partition
 about-networking-ssl-tokens-tokens-column = Jetons
 about-networking-ssl-tokens-expires = Date d’expiration
-about-networking-ssl-tokens-certificate = Cert
+about-networking-ssl-tokens-certificate = Certificat
 # $count (Number) - Number of tokens sharing this row's host and certificate
 about-networking-ssl-tokens-token-list =
     { $count ->
-        [one] { $count } jeton
-       *[other] { $count } jetons
+        [one] { $count } jeton
+       *[other] { $count } jetons
     }
 about-networking-ssl-tokens-restored =
     .alt = Restauré à partir de l’espace de stockage
@@ -64,7 +64,7 @@ about-networking-ssl-tokens-expired =
 # $compressedLength (Number) - Total size in bytes after compression
 about-networking-ssl-tokens-compression-details =
     .title = Jetons : { $tokenLength } B. Encodés : { $decompressedLength } → { $compressedLength } B.
-about-networking-ssl-tokens-ev-status = Certificat VR
+about-networking-ssl-tokens-ev-status = Certificat EV
 about-networking-ssl-tokens-ct-status = État de la transparence du certificat
 about-networking-ssl-tokens-overridable-error = Catégorie d’erreur remplaçable
 about-networking-ssl-tokens-built-in-root = Racine intégrée
