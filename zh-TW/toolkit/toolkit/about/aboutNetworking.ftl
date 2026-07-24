@@ -19,6 +19,47 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = 已驗證
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Isolation Key
+about-networking-ssl-tokens = TLS Token
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } 個 token
+       *[other] { $count } 個 token
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired = （{ $count } 個 token 已過期）
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } 位元組（節省 { $saved }%）
+about-networking-ssl-tokens-partition-key = Partition Key
+about-networking-ssl-tokens-tokens-column = Token
+about-networking-ssl-tokens-expires = 有效期限
+about-networking-ssl-tokens-certificate = 憑證
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list = { $count } 個 token
+about-networking-ssl-tokens-restored =
+    .alt = 從儲存空間還原
+    .title = 從儲存空間還原
+about-networking-ssl-tokens-new =
+    .alt = 本階段新增
+    .title = 本階段新增
+about-networking-ssl-tokens-expired =
+    .alt = 已過期
+    .title = 已過期
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Token：{ $tokenLength } 位元組。已編碼：{ $decompressedLength } → { $compressedLength } 位元組。
+about-networking-ssl-tokens-ev-status = EV 憑證
+about-networking-ssl-tokens-ct-status = 憑證透明度狀態
+about-networking-ssl-tokens-overridable-error = 可覆蓋的錯誤分類
+about-networking-ssl-tokens-built-in-root = 內建根
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = 憑證鍊（{ $count }）
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = 交握憑證（{ $count }）
 about-networking-refresh = 更新
 about-networking-auto-refresh = 每三秒自動重新整理
 about-networking-hostname = 主機名稱
