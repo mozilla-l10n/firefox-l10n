@@ -40,6 +40,7 @@ policy-Cookies = Websydłam dowolić abo zakazać, placki składować.
 policy-Containers = Prawidła nastupajo kontejnery postajić
 policy-DisableAccounts = Słužby znjemóžnić, kotrež na konće bazuja, mjez nimi synchronizaciju.
 policy-DisabledCiphers = Šifry znjemóžnić.
+policy-DefaultBrowserSettingEnabled = Přepruwujće, hač wužiwar móže { -brand-short-name } jako standardny wobhladowak nastajić.
 policy-DefaultDownloadDirectory = Nastajće standardny sćehnjenski zapis.
 policy-DefaultSerialGuardSetting = Wužiwanje serijoweho API kontrolować.
 policy-DisableAppUpdate = Wobhladowakej aktualizowanje zakazać.

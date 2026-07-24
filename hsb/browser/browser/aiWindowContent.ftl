@@ -180,6 +180,14 @@ action-log-reading-page = Strona so čita
 action-log-read-page = Přečitany wobsah strony
 action-log-searching-web = Web přepytać
 action-log-searched-web = Web přepytany
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Web z <a data-l10n-name="exa-link">Exa</a> přepytać
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Web z <a data-l10n-name="exa-link">Exa</a> přepytany
 # Exa is the name of a third-party web search API
 # It is a brand name and should not be translated
 action-log-searched-web-exa = Z Exa web přepytany

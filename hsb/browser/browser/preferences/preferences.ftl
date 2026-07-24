@@ -1699,6 +1699,12 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Žane adresy přidate
+passports-list-header =
+    .label = Pućowanske pasy
+passports-delete-passport-button-label =
+    .aria-label = Zhašeć
+passports-edit-passport-button-label =
+    .aria-label = Wobdźěłać
 pane-passwords-autofill-title2 = Hesła a awtomatiske wupjelnjenje
     .title = Hesła a awtomatiske wupjelnjenje
 preferences-passwords-autofill-header =

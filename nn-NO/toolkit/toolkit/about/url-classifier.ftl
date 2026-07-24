@@ -76,10 +76,10 @@ url-classifier-content-classifier-non-recommended-addon = Ikkje-tilrådd tillegg
 url-classifier-content-classifier-probe-blocking-btn = Test blokkering
 # Button: run the probe that reports whether the request would be annotated
 # (labeled) as tracking without being blocked.
-url-classifier-content-classifier-probe-annotate-btn = Test-merking
+url-classifier-content-classifier-probe-annotate-btn = Test merking
 # Button: run the probe against a single classifier feature chosen in the
 # adjacent dropdown.
-url-classifier-content-classifier-probe-feature-btn = Test-funksjon
+url-classifier-content-classifier-probe-feature-btn = Test funksjon
 # Label for an expandable area showing the detailed per-feature output from the
 # classification engine.
 url-classifier-content-classifier-engine-details = Motordetaljar

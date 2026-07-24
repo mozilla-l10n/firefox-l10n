@@ -655,6 +655,8 @@ newtab-wallpaper-beach-at-sunset = ساهل من ٱفتاو نشین
 newtab-wallpaper-storm-sky = آسمووݩ تیفووی
 newtab-wallpaper-sky-with-pink-clouds = آسمووݩ وا ٱورا آل
 newtab-wallpaper-white-mountains = کوها اسبؽڌ
+newtab-wallpaper-starry-canyon = شاو کوۊ پور آستاره
+newtab-wallpaper-sand-dunes = موله یل شنی اسبؽڌ
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -697,10 +699,12 @@ newtab-weather-menu-change-location = آلشت جاگه
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = پیتینیڌن جاگه
     .placeholder = پیتینیڌن جاگه
+newtab-weather-menu-weather-display = نشووݩ داڌن ٱو وو هوا
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = ساڌه
+newtab-weather-menu-change-weather-display-simple = آلشت و نما ساڌه
 newtab-weather-menu-weather-display-option-detailed = جۊزعیات
 newtab-weather-menu-change-weather-display-detailed = آلشت و هالت نیشتن جۊزعیات
 newtab-weather-menu-temperature-units = واهدا دما

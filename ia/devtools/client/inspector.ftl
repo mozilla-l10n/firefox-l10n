@@ -26,3 +26,21 @@ inspector-color-scheme-emulation-light =
 # A title text for the dark color scheme emulation options
 inspector-color-scheme-emulation-dark =
     .title = Activar/disactivar emulation de schema de color obscur pro le pagina
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = Activar/disactivar functionalitates de emulation CSS
+    .aria-label = Activar/disactivar functionalitates de emulation CSS
+inspector-emulation-panel-color-scheme = Emulation de schema de color
+# A label text for the print emulation options
+inspector-emulation-panel-print = Activar
+    .aria-label = Activar emulation de medios de impression
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Clar
+    .aria-label = Activar emulation de schema de color clar
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Obscur
+    .aria-label = Activar emulation de schema de color obscur
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Necun emulation
+    .aria-label = Disactivar emulation de schema de color
