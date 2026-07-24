@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Al elegir Anthropic Claude, aceptas las <a da
 genai-settings-chat-copilot-links = Al elegir Copilot, aceptas los <a data-l10n-name="link1">Términos de Copilot AI Experiences</a> y la <a data-l10n-name="link2">Declaración de privacidad de Microsoft</a>.
 genai-settings-chat-gemini-links = Al elegir Google Gemini, aceptas las <a data-l10n-name="link1">Condiciones de servicio de Google</a>, la <a data-l10n-name="link2">Política de uso prohibido de IA generativa</a > y el <a data-l10n-name="link3">Aviso de privacidad de Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Al elegir HuggingChat, aceptas el <a data-l10n-name="link1">Aviso de privacidad de HuggingChat</a> y la <a data-l10n-name="link2">Política de privacidad de Hugging Face</a>.
+genai-settings-chat-lechat-links-2 = Al elegir Mistral Vibe, aceptas las <a data-l10n-name="link1">Condiciones de servicio</a> y la <a data-l10n-name="link2">Política de privacidad</a> de Mistral AI.
 genai-settings-chat-lechat-links = Al elegir Le Chat Mistral, aceptas las <a data-l10n-name="link1">Condiciones de servicio</a> y la <a data-l10n-name="link2">Política de privacidad</a> de Mistral AI.
 genai-settings-chat-localhost-links = Trae tu propio chatbot local privado, como <a data-l10n-name="link1">llamafile</a> del grupo de innovación de { -vendor-short-name }.
 
@@ -170,6 +171,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Aprender más sobre Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = Aprender más sobre HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral

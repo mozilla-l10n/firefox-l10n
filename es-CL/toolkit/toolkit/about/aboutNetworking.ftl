@@ -19,6 +19,7 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validado
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Clave de aislamiento
+about-networking-ssl-tokens = Tokens TLS
 # $count (Number) - Number of cached TLS resumption tokens
 about-networking-ssl-tokens-summary-count =
     { $count ->

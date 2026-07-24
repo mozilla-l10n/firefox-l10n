@@ -20,6 +20,12 @@ colorpicker-tooltip-hue-slider-title = Tono
 colorpicker-tooltip-alpha-slider-title = Opacidad
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseudo-clases específicas del elemento
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Cambiar a la emulación de esquema de color claro para la página
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Cambiar a la emulación de esquema de color oscuro para la página
 # A title text for the emulation panel toggle button in the Rule View toolbar
 # that toggles the emulation features panel.
 inspector-emulation-panel-toggle =
@@ -32,3 +38,9 @@ inspector-emulation-panel-print = Habilitar
 # A label text for the light color scheme emulation radio button option.
 inspector-emulation-panel-color-scheme-light = Claro
     .aria-label = Habilitar emulación de esquema de color claro
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Oscuro
+    .aria-label = Habilitar emulación de esquema de color oscuro
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Sin emulación
+    .aria-label = Desactivar emulación de esquema de color
