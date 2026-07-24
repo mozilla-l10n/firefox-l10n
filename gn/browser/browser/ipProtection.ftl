@@ -60,6 +60,10 @@ ipprotection-summer-promo-offramp-generic-title = Pe VPN juejupyre ru’ã oiko 
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = VPN juajupyre ko’ag̃agua iporãve
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Ereko nde VPN rendaite ojuajupyrévarõ
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Embojuruja VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Eiporu ypykuévarõ

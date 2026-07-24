@@ -504,8 +504,14 @@ nova-early-access-infobar-primary-button = Aikũmby
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = ¿Embojuruja { -brand-short-name } eike vovénte Windows-pe?
+launch-options-spotlight-title-session-restore = ¿Embojurujajey eikehague emoñepyrũjeývo { -brand-short-name }?
 launch-options-spotlight-checkbox-launch-on-login = Embojuruja { -brand-short-name } eñepyrũvo
 launch-options-spotlight-checkbox-pin-to-taskbar = Emboja tembiaporã rupáre
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Embojurujajey ovetã ha tendaykeita ag̃agua
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Embojurujajey ovetã ha tendayke mboyvegua
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = Eñongatu ha emboty { -brand-short-name }
 # Primary button on the browser-launch prompt
