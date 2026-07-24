@@ -67,6 +67,7 @@ about-networking-ssl-tokens-compression-details =
 about-networking-ssl-tokens-ev-status = EV-Zertifikat
 about-networking-ssl-tokens-ct-status = Status der Zertifikats-Transparenz
 about-networking-ssl-tokens-overridable-error = Überschreibbare Fehlerkategorie
+about-networking-ssl-tokens-built-in-root = Integriertes Wurzelverzeichnis
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Zertifikats-Kette ({ $count })
 # $count (Number) - Number of certs seen during the TLS handshake

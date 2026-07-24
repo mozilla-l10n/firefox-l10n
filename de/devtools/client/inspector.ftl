@@ -38,6 +38,9 @@ inspector-emulation-panel-print = Aktivieren
 # A label text for the light color scheme emulation radio button option.
 inspector-emulation-panel-color-scheme-light = Hell
     .aria-label = Emulation des hellen Farbschemas aktivieren
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Dunkel
+    .aria-label = Emulation des dunklen Farbschemas aktivieren
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Keine Emulation
     .aria-label = Farbschema-Emulation deaktivieren

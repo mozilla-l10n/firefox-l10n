@@ -1691,6 +1691,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Ez da helbiderik gehitu
+personal-info-group =
+    .label = Informazio pertsonala
+autofill-personal-info-checkbox-message =
+    .label = Gorde eta osatu automatikoki informazio pertsonala
+autofill-personal-info-manage-button =
+    .label = Kudeatu informazio pertsonala
+passports-list-header =
+    .label = Pasaporteak
+passports-delete-passport-button-label =
+    .aria-label = Ezabatu
+passports-edit-passport-button-label =
+    .aria-label = Editatu
+passports-delete-passport-prompt-title = Ezabatu pasaporte hau?
+passports-delete-passport-prompt-confirm-button = Ezabatu
+passports-delete-passport-prompt-cancel-button = Utzi
+autofill-passports-add-button = Gehitu pasaporte berria
+autofill-personal-info-manage-title =
+    .heading = Kudeatu informazio pertsonala
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Ez da pasaporterik gehitu
 pane-passwords-autofill-title2 = Pasahitzak eta betetze automatikoa
     .title = Pasahitzak eta betetze automatikoa
 preferences-passwords-autofill-header =
