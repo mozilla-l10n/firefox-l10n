@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = Rhannu { -brand-product-name }
 appmenuitem-more-tools =
     .label = Rhagor o Offer
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Cymorth ac Adrodd
 appmenuitem-help =
     .label = Cymorth
 appmenuitem-exit2 =
@@ -304,6 +307,9 @@ appmenu-help-share-ideas =
     .accesskey = R
 appmenu-help-switch-device =
     .label = Newid i ddyfais newydd
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Cymorth ac Adrodd
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

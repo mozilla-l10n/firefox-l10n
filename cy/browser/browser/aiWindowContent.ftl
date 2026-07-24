@@ -200,6 +200,14 @@ action-log-reading-page = Tudalen darllen
 action-log-read-page = Cynnwys tudalen wedi'i ddarllen
 action-log-searching-web = Chwilio'r we
 action-log-searched-web = Gwe wedi'i chwilio
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Chwilio'r we gyda <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Wedi chwilio'r we gyda <a data-l10n-name="exa-link">Exa</a>
 # Exa is the name of a third-party web search API
 # It is a brand name and should not be translated
 action-log-searched-web-exa = Wedi chwilio'r we gydag Exa
