@@ -36,9 +36,38 @@ about-networking-ssl-tokens-summary-expired =
 # $compressedLength (Number) - Total compressed size in bytes across all tokens
 # $saved (Number) - Percentage of space saved by compression
 about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% gespeichert)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-tokens-column = Token
+about-networking-ssl-tokens-expires = Gültig bis
+about-networking-ssl-tokens-certificate = Zertifikat
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } Token
+       *[other] { $count } Token
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Aus Speicher wiederhergestellt
+    .title = Aus Speicher wiederhergestellt
+about-networking-ssl-tokens-new =
+    .alt = Für diese Sitzung neu
+    .title = Für diese Sitzung neu
 about-networking-ssl-tokens-expired =
     .alt = Abgelaufen
     .title = Abgelaufen
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Token: { $tokenLength } B. Kodiert: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV-Zertifikat
+about-networking-ssl-tokens-ct-status = Status der Zertifikats-Transparenz
+about-networking-ssl-tokens-overridable-error = Überschreibbare Fehlerkategorie
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Zertifikats-Kette ({ $count })
 about-networking-refresh = Aktualisieren
 about-networking-auto-refresh = Automatisch alle 3 Sekunden aktualisieren
 about-networking-hostname = Hostname
