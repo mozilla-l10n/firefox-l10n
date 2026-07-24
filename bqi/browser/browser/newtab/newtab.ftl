@@ -236,6 +236,14 @@ newtab-privacy-message-first-protection-cta = نیشتن زفت وابیڌنا
 newtab-stocks-menu-search = پیتینیڌن نمادا قیمت
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = قلوه دووسته بۊین
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = دووسمندیا سهام من دسرس نؽڌن.
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = گۊزینه یل ویجت سهام
+    .aria-label = گۊزینه یل ویجت سهام
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = سهام
 
@@ -261,6 +269,11 @@ newtab-picture-header-main = شؽوات رۊز
 # "©" is the copyright symbol.
 # $author (string) - the name of the image's author.
 newtab-picture-attribution-author = © { $author }
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = نیشتن موجوز { $license }
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
@@ -519,6 +532,8 @@ newtab-error-fallback-refresh-link = سی قپ ریت دووارته بلگه ن
 newtab-custom-shortcuts-title = ره نهنگا
 newtab-custom-shortcuts-nova =
     .label = ره نهنگا
+newtab-custom-row-description =
+    .description = تعداد ردیفا
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -528,12 +543,25 @@ newtab-custom-row-selector2 =
             [one] { $num } ردیف
            *[other] { $num } ردیف
         }
+# Variables
+#   $num (number) - Number of rows to display
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } ردیف
+       *[other] { $num } ردیف
+    }
 newtab-custom-sponsored-sites = ره نهنگا هؽزگرووݩ
+newtab-custom-pocket-title = پؽشنهاڌا { -pocket-brand-name }
+newtab-custom-pocket-subtitle = موئتوا استسنایی ک و دست { -pocket-brand-name }، بشنی ز خانواده { -brand-product-name } گردواری وابینه.
 newtab-custom-stories-personalized-toggle =
     .label = داستانا
 newtab-custom-pocket-sponsored = وزعیتا هؽزگرووݩ
 newtab-custom-pocket-show-recent-saves = نشووݩ داڌن زفت وابیڌنا دیندایی
 newtab-custom-recent-title = فعالیتا دیندایی
+newtab-custom-recent-subtitle = پسند وابیڌه یلی ز وبگه یل وو موئتوا هیم دمۊوی
+newtab-custom-weather-toggle =
+    .label = ٱو وو هوا
+    .description = پؽش بینی ٱمرۊز من ی سیل
 newtab-custom-widget-weather-toggle =
     .label = ٱو وو هوا
 newtab-custom-widget-lists-toggle =
@@ -576,6 +604,7 @@ newtab-wallpaper-toggle-title =
 newtab-wallpaper-light-red-panda = پاندای سوئر
 newtab-wallpaper-light-mountain = کوه اسبؽڌ
 newtab-wallpaper-light-sky = آسمۊوی وا ٱورا بناوش وو آل
+newtab-wallpaper-light-beach = ساهل یا دار نخل
 
 ## Solid Colors
 
