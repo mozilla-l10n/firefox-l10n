@@ -32,3 +32,6 @@ inspector-emulation-panel-toggle =
     .title = CSS-Emulationsfunktionen umschalten
     .aria-label = CSS-Emulationsfunktionen umschalten
 inspector-emulation-panel-color-scheme = Farbschema-Emulation
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Keine Emulation
+    .aria-label = Farbschema-Emulation deaktivieren
