@@ -8,10 +8,13 @@
 
 process-type-web = موئتوا وبگه
 process-type-extension = وردنی
+# process used to open file:// URLs
+process-type-file = فایل مهلی
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 
+process-type-default = ٱسلی
 process-type-tab = جدول بندی
 
 ##

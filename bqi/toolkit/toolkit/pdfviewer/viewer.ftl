@@ -52,21 +52,61 @@ pdfjs-bookmark-button-label = بلگه هیم سکویی
 pdfjs-tools-button =
     .title = ٱوزارا
 pdfjs-tools-button-label = ٱوزارا
+pdfjs-first-page-button =
+    .title = رئڌن و بلگه نیایی
+pdfjs-first-page-button-label = رئڌن و بلگه نیایی
+pdfjs-last-page-button =
+    .title = رئڌن و بلگه دیندایی
+pdfjs-last-page-button-label = رئڌن و بلگه دیندایی
+pdfjs-page-rotate-cw-button =
+    .title = لر خردن ساعتگرد
+pdfjs-page-rotate-cw-button-label = لر خردن ساعتگرد
+pdfjs-page-rotate-ccw-button =
+    .title = لر خردن پاد ساعتگرد
+pdfjs-page-rotate-ccw-button-label = لر خردن پاد ساعتگرد
+pdfjs-cursor-text-select-tool-button =
+    .title = فعال کردن ٱوزار پسند هؽل
 pdfjs-cursor-text-select-tool-button-label = ٱوزار پسند هؽل
 pdfjs-cursor-hand-tool-button =
     .title = فعال کردن ٱوزار دست
 pdfjs-cursor-hand-tool-button-label = ٱوزار دست
+pdfjs-scroll-page-button =
+    .title = و کار گرؽڌن اسکرۊل بلگه
+pdfjs-scroll-page-button-label = اسکرۊل بلگه
+pdfjs-scroll-vertical-button =
+    .title = و کار گرؽڌن اسکرۊل عمۊدی
+pdfjs-scroll-vertical-button-label = اسکرۊل عمۊدی
+pdfjs-scroll-horizontal-button =
+    .title = و کار گرؽڌن اسکرۊل اوفوقی
+pdfjs-scroll-horizontal-button-label = اسکرۊل اوفوقی
+pdfjs-scroll-wrapped-button =
+    .title = و کار گرؽڌن اسکرۊل پؽچسته
+pdfjs-scroll-wrapped-button-label = اسکرۊل پؽچسته
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = خۊسۊسیات سند…
+pdfjs-document-properties-button-label = خۊسۊسیات سند…
 pdfjs-document-properties-file-name = نوم فایل:
 pdfjs-document-properties-file-size = هندا فایل:
 pdfjs-document-properties-title = عونوان:
 pdfjs-document-properties-author = هؽل کوݩ:
 pdfjs-document-properties-subject = سرتال:
+pdfjs-document-properties-creation-date = تاریخ وورکل وابیڌن:
+pdfjs-document-properties-modification-date = تاریخ آلشتکاری:
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+pdfjs-document-properties-creator = وورکل کون:
+pdfjs-document-properties-producer = وورکل کون PDF:
+pdfjs-document-properties-version = نوسخه PDF:
+pdfjs-document-properties-page-count = تئداد بلگه یل:
 pdfjs-document-properties-page-size = هندا بلگه:
 pdfjs-document-properties-page-size-unit-inches = اینچ
 pdfjs-document-properties-page-size-unit-millimeters = میلی متر
+pdfjs-document-properties-page-size-orientation-portrait = portrait
+pdfjs-document-properties-page-size-orientation-landscape = landscape
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
 pdfjs-document-properties-page-size-name-letter = نامه
@@ -84,12 +124,16 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = نیشتن زل وب:
 pdfjs-document-properties-linearized-yes = هری
 pdfjs-document-properties-linearized-no = ن
 pdfjs-document-properties-close-button = بستن
 
 ## Print
 
+pdfjs-print-progress-message = ٱماڌه کردن سند سی چاپ کردن…
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
@@ -99,6 +143,30 @@ pdfjs-print-progress-close-button = لقو
 
 pdfjs-toggle-sidebar-button =
     .title = آلشت هالت نوار کلی
+pdfjs-toggle-sidebar-button-label = آلشت هالت نوار کلی
+
+## Predefined zoom values
+
+pdfjs-page-scale-width = پئنا بلگه
+pdfjs-page-scale-fit = هندا کردن بلگه
+pdfjs-page-scale-auto = زۊم کردن خوتکار
+pdfjs-page-scale-actual = هندا واقعی‌
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
+
+## PDF page
+
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = بلگه { $page }
+
+## Annotations
+
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -107,6 +175,12 @@ pdfjs-password-cancel-button = لقو
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = هؽل
+pdfjs-editor-free-text-button-label = هؽل
+pdfjs-editor-ink-button =
+    .title = کشیڌن
+pdfjs-editor-ink-button-label = کشیڌن
 pdfjs-editor-stamp-button =
     .title = ٱووردن یا آلشت شؽواتا
 pdfjs-editor-stamp-button-label = ٱووردن یا آلشت شؽواتا
