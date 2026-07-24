@@ -612,6 +612,7 @@ identity-description-passive-loaded-insecure2 = Denne nettsida har innhald som i
 identity-description-passive-loaded-mixed2 = Sjølv om { -brand-short-name } har blokkert noko innhald, finst det framleis innhald på sida som ikkje er trygt (slik som bilde).
 identity-description-active-loaded = Denne nettstaden har innhald som ikkje er overført trygt (slik som skript) og tilkoplinga di er difor ikkje privat.
 identity-description-active-loaded-insecure = Informasjonen du deler med denne nettstaden kan sjåast av andre (t.d. passords, meldingar, kredittkort osb.).
+identity-description-tls-key-logging-heading = Tilkoplinga er kanskje ikkje privat
 identity-disable-mixed-content-blocking =
     .label = Slå av vern
     .accesskey = a
