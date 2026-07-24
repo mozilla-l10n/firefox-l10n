@@ -300,6 +300,9 @@ appmenu-help-share-ideas =
     .accesskey = B
 appmenu-help-switch-device =
     .label = Beralih ke perangkat baru
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Bantuan dan Laporan
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -327,6 +330,8 @@ appmenu-customizetoolbar =
     .label = Ubahsuai Bilah Alat…
 appmenu-abouttranslations =
     .label = Terjemahkan…
+appmenu-edit-pdf =
+    .label = Suntiing PDF …
 appmenu-developer-tools-subheader = Alat Peramban
 appmenu-developer-tools-extensions =
     .label = Ekstensi untuk Pengembang
@@ -336,15 +341,24 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Masuk ke akun Anda
+appmenuitem-monitor-title2 = Tetap Terdepan dari Pencurian Identitas
+appmenuitem-monitor-description2 = Dapatkan peringatan tentang pembobolan data
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dapatkan peringatan kebocoran data
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description2 = Membantu mencegah spam di kotak masuk Anda
 appmenuitem-relay-description = Tutupi surel dan telepon asli Anda
 appmenuitem-services-relay-description = Luncurkan dasbor masker surel
+appmenuitem-vpn-title2 = Sembunyikan Lokasi Anda dengan { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Buat penjelajahan Anda lebih sulit dilacak
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Dapatkan perlindungan untuk seluruh perangkat
 appmenuitem-vpn-description = Lindungi aktivitas daring Anda
 appmenu-services-header = Layanan saya
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Alat privasi
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -358,9 +372,23 @@ appmenu-manage-profiles =
     .label = Kelola profil
 appmenu-copy-profile =
     .label = Salin profil ini
+appmenu-create-profile2 =
+    .label = Buat Profil Baru
 appmenu-create-profile =
     .label = Profil baru
 appmenu-edit-profile =
     .aria-label = Sunting profil
+appmenu-edit-this-profile =
+    .label = Sunting Profil Ini
+appmenu-profile-current-in-use = Profil yang sedang digunakan
+fxa-menu-create-profile-subpanel =
+    .title = Buat profil baru
+fxa-menu-create-profile-confirm =
+    .label = Buat Profil Baru
+fxa-menu-create-profile-learn-more =
+    .label = Apa Itu Profil?
 appmenu-profiles-2 =
     .label = Profil
+appmenu-profiles-header = Profil
+appmenu-all-profiles =
+    .label = Semua Profil

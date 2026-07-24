@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = Emoherakuã { -brand-product-name }
 appmenuitem-more-tools =
     .label = Tembiporuve
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Ñepytvõ ha Mombe’u
 appmenuitem-help =
     .label = Pytyvõ
 appmenuitem-exit2 =
@@ -303,6 +306,9 @@ appmenu-help-share-ideas =
     .accesskey = S
 appmenu-help-switch-device =
     .label = Eva ambue mba’e’okápe
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Ñepytvõ ha Mombe’u
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -399,6 +405,15 @@ appmenu-secure-sync-header = Ñembojuehe hekorosãva
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Tendayke ramovéva
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ehecha { $tabCount } tendayke ojuehepyréva
+           *[other] Ehechapaite { $tabCount } tendaykeita ojuehepyréva
+        }
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =
     .label = Emondo kuatiarogue ag̃agua ko mba’e’okápe

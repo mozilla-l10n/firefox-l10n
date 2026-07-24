@@ -19,6 +19,9 @@ backup-folder-name = Pulihkan { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Cadangan
+settings-data-backup-header2 =
+    .label = Pencadangan
+    .description = Lindungi markah, riwayat penelusuran, dan data Anda lainnya
 settings-data-backup-toggle = Kelola cadangan
 settings-data-backup-toggle-on2 =
     .label = Aktifkan pencadangan
@@ -29,17 +32,37 @@ settings-data-backup-in-progress-button = Pencadangan sedang berlangsung…
 settings-data-backup-in-progress-message =
     .message = Pencadangan sedang berlangsung…
 settings-data-backup-last-backup-date = Cadangan terakhir: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Cadangan AKTIF
+settings-data-backup-scheduled-backups-off2 =
+    .label = Cadangan NONAKTIF
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Lokasi pencadangan
 settings-data-backup-last-backup-location-show-in-folder = Tampilkan di folder
 settings-data-backup-last-backup-location-edit = Sunting…
 settings-data-create-backup-error = Terjadi kesalahan saat membuat cadangan Anda pada { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Cadangkan kata sandi dan metode pembayaran Anda, plus simpan semua data Anda dengan enkripsi.
+settings-data-toggle-encryption-label2 =
+    .label = Cadangkan data sensitif Anda
+    .description = Cadangkan kata sandi dan metode pembayaran serta jaga seluruh data Anda aman dengan enkripsi.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nama berkas: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Pulihkan data Anda
+    .description = Kembalikan data { -brand-product-name } Anda ke terakhir kali dicadangkan.
+settings-data-backup-restore-scheduled-off =
+    .label = Pulihkan data Anda
+    .description = Gunakan cadangan { -brand-product-name } dari perangkat lain untuk mengembalikan data Anda.
 
 ##
 
+settings-sensitive-data =
+    .label = Data sensitif
 settings-data-toggle-encryption-support-link = Pelajari lebih lanjut
+settings-data-change-password2 =
+    .label = Ubah kata sandi
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -52,6 +75,8 @@ turn-on-scheduled-backups-location-label = Lokasi
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (disarankan)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Pilih lokasi
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Pilih...

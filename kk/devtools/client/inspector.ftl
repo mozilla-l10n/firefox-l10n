@@ -20,4 +20,15 @@ colorpicker-tooltip-hue-slider-title = Реңі
 colorpicker-tooltip-alpha-slider-title = Мөлдірсіздігі
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Элементке тән жалған кластар
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Бұл парақ үшін ашық түстер схемасын эмуляциялауды іске қосу/сөндіру
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Бұл парақ үшін күңгірт түстер схемасын эмуляциялауды іске қосу/сөндіру
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = CSS эмуляция мүмкіндіктерін іске қосу/сөндіру
+    .aria-label = CSS эмуляция мүмкіндіктерін іске қосу/сөндіру
 inspector-emulation-panel-color-scheme = Түс схемасын эмуляциялау

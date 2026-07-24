@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Көбірек кеңейтулерді табу
 unified-extensions-empty-reason-private-browsing-not-allowed = Сізде кеңейтулер орнатылған, бірақ жеке терезелерде іске қосылмаған
 unified-extensions-empty-reason-extension-not-enabled = Сізде кеңейнулер орнатылған, бірақ іске қосылмаған
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Бірнеше кеңейту де үлкен көмек береді
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Кеңейтулер арқылы шолу мүмкіндіктерін арттырыңыз
 unified-extensions-empty-content-explain-enable2 = Оларды баптауларда іске қосу үшін, “{ unified-extensions-manage-extensions.label }” таңдаңыз.
 unified-extensions-empty-content-explain-manage2 = Баптаударда оларды басқару үшін “{ unified-extensions-manage-extensions.label }” таңдаңыз.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Назар аударуды, жекелікті және т.б. жақсартуға көмектесетін ұсыныстарымыз бар.
 unified-extensions-empty-content-explain-extensions-onboarding = { -brand-short-name } жұмысы мен сыртқы түрін өзгерту немесе жекелік пен қауіпсіздікті арттыру арқылы оны жекешелендіріңіз.
 
 ## An extension in the main list
