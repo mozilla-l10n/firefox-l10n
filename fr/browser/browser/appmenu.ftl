@@ -57,7 +57,7 @@ appmenuitem-more-tools =
     .label = Outils supplémentaires
 # Menu combining the previous "Help" menu and report broken site
 appmenuitem-help-and-report =
-    .label = Aide et rapport
+    .label = Aide et signalements
 appmenuitem-help =
     .label = Aide
 appmenuitem-exit2 =
@@ -303,9 +303,6 @@ appmenu-help-share-ideas =
     .accesskey = P
 appmenu-help-switch-device =
     .label = Passer à un nouvel appareil
-# Menu header for combination of "Help" menu and report broken site
-appmenu-help-and-report-header =
-    .title = Aide et rapport
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
