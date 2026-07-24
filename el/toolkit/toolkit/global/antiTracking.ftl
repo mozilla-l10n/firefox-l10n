@@ -9,7 +9,7 @@
 #   $gracePeriodSeconds (number): Grace period window in seconds until the site purged (clearing cookies, storages and caches).
 btp-warning-tracker-classified =
     { $gracePeriodSeconds ->
-       *[other] Το «{ $siteHost }» έχει καταχωρηθεί ως «bounce tracker». Εάν δεν λάβει ενεργοποίηση από τον χρήστη μέσα στα επόμενα { $gracePeriodSeconds } δευτερόλεπτα, θα γίνει διαγραφή της κατάστασής του.
+       *[other] Το «{ $siteHost }» έχει καταχωριστεί ως «bounce tracker». Εάν δεν λάβει ενεργοποίηση από τον χρήστη μέσα στα επόμενα { $gracePeriodSeconds } δευτερόλεπτα, θα γίνει διαγραφή της κατάστασής του.
     }
 # Message which is shown when visiting a site which Bounce Tracking Protection
 # has purged state of recently. Purging means clearing a sites data such as
