@@ -699,7 +699,12 @@ newtab-weather-menu-change-location = آلشت جاگه
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = پیتینیڌن جاگه
     .placeholder = پیتینیڌن جاگه
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = و کار گرؽڌن جاگه هیم سکویی
 newtab-weather-menu-weather-display = نشووݩ داڌن ٱو وو هوا
+newtab-weather-todays-forecast = پؽش بینی ٱمرۊز
+newtab-weather-see-full-forecast = سیل کردن پؽش بینی کامل
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
