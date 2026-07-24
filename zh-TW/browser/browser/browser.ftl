@@ -622,6 +622,7 @@ identity-description-passive-loaded-mixed2 = 雖然 { -brand-short-name } 已經
 identity-description-active-loaded = 此網站包含不安全的內容（例如指令碼），與其之間的連線並不私密。
 identity-description-active-loaded-insecure = 您提供給此網站的資訊（例如密碼、訊息、信用卡號等等）可能會被其他人看到。
 identity-description-tls-key-logging-heading = 您的連線可能不私密
+identity-description-tls-key-logging-message = 其他應用程式或服務可能會看到您與此網站間的加密傳輸資料。
 identity-disable-mixed-content-blocking =
     .label = 暫時停止保護
     .accesskey = D
@@ -956,6 +957,13 @@ urlbar-result-explanation-bookmarked = 於 { $date } 加入書籤
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = 上次於{ $date }造訪
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = 上次於 { $date } 造訪
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1769,6 +1777,10 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = 不安全
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label = 已封鎖 { $count } 組追蹤器
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

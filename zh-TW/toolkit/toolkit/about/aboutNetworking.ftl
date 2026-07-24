@@ -32,6 +32,10 @@ about-networking-ssl-tokens-summary-expired = （{ $count } 個 token 已過期�
 # $compressedLength (Number) - Total compressed size in bytes across all tokens
 # $saved (Number) - Percentage of space saved by compression
 about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } 位元組（節省 { $saved }%）
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB（{ $percent }%）
 about-networking-ssl-tokens-partition-key = Partition Key
 about-networking-ssl-tokens-tokens-column = Token
 about-networking-ssl-tokens-expires = 有效期限
