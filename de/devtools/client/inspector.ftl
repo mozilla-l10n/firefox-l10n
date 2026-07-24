@@ -32,6 +32,12 @@ inspector-emulation-panel-toggle =
     .title = CSS-Emulationsfunktionen umschalten
     .aria-label = CSS-Emulationsfunktionen umschalten
 inspector-emulation-panel-color-scheme = Farbschema-Emulation
+# A label text for the print emulation options
+inspector-emulation-panel-print = Aktivieren
+    .aria-label = Aktivieren der Druckvorschau-Emulation
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Hell
+    .aria-label = Emulation des hellen Farbschemas aktivieren
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Keine Emulation
     .aria-label = Farbschema-Emulation deaktivieren
