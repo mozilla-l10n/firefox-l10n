@@ -126,6 +126,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Weiterleitungseinstellungen für Pop-ups und Drittanbieter verwalten…
     .accesskey = W
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Website-Informationen anzeigen
+            [1] Website-Informationen anzeigen ({ $count } Tracker blockiert)
+            [one] Website-Informationen anzeigen ({ $count } Tracker blockiert)
+           *[other] Website-Informationen anzeigen ({ $count } Tracker blockiert)
+        }
 
 ##
 
