@@ -612,6 +612,8 @@ identity-description-passive-loaded-insecure2 = Webgune honek segurua ez den edu
 identity-description-passive-loaded-mixed2 = { -brand-short-name }(e)k zenbait eduki blokeatu arren, oraindik ere segurua ez den edukia du orriak (adib. irudiak).
 identity-description-active-loaded = Wegune honek segurua ez den edukia dauka (adibidez script-ak) eta zure konexioa ez da pribatua.
 identity-description-active-loaded-insecure = Gune honekin partekatzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).
+identity-description-tls-key-logging-heading = Baliteke zure konexioa pribatua ez izatea
+identity-description-tls-key-logging-message = Aplikazio edo zerbitzu batek gune honetako zifratutako zure trafikoa ikus lezake.
 identity-disable-mixed-content-blocking =
     .label = Desgaitu babesa momentuz
     .accesskey = D
@@ -958,6 +960,13 @@ urlbar-result-explanation-bookmarked = Laster-marka egindako data: { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Azken bisita { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Azken bisita { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:

@@ -69,6 +69,8 @@ about-networking-ssl-tokens-ct-status = Status der Zertifikats-Transparenz
 about-networking-ssl-tokens-overridable-error = Überschreibbare Fehlerkategorie
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Zertifikats-Kette ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Handshake-Zertifikate ({ $count })
 about-networking-refresh = Aktualisieren
 about-networking-auto-refresh = Automatisch alle 3 Sekunden aktualisieren
 about-networking-hostname = Hostname
