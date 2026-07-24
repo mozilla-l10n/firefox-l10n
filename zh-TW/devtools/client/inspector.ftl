@@ -20,6 +20,17 @@ colorpicker-tooltip-hue-slider-title = 色調
 colorpicker-tooltip-alpha-slider-title = 透​明度
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = 特定元素的 pseudo-classes
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = 切換頁面的亮色色彩配色模擬
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = 切換頁面的暗色色彩配色模擬
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = 切換 CSS 模擬功能
+    .aria-label = 切換 CSS 模擬功能
 inspector-emulation-panel-color-scheme = 配色模擬
 # A label text for the print emulation options
 inspector-emulation-panel-print = 啟用
