@@ -40,6 +40,14 @@ url-classifier-cache-pcache-expiry = Оң кэш мерзімі аяқталу �
 # URL of the resource being tested, i.e. the thing that would be loaded
 # (e.g. an image, script, or tracking pixel).
 url-classifier-content-classifier-url = URL
+# Header for a group of on/off options (the checkboxes below) that modify how
+# the hypothetical request is classified.
+url-classifier-content-classifier-flags = Жалаушалар
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = Зондтар
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Нәтижелер
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Мүмкіндік
 # Column header: whether the request matched this feature (true/false).
@@ -50,6 +58,10 @@ url-classifier-content-classifier-col-exception = Ережеден тыс
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
 url-classifier-content-classifier-col-important = Маңызды
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Қате ({ $code })
 url-classifier-debug-title = Жөндеу
 url-classifier-debug-module-btn = Журналдау модульдерін орнату
 url-classifier-debug-file-btn = Журналдау файлын орнату

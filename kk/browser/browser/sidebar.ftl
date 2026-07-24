@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Бүйір панель баптаулары
 sidebar-hide-tabs-and-sidebar =
     .label = Беттер мен бүйірлік панельді жасыру
+sidebar-open-tools-from-sidebar =
+    .label = Саймандарды бүйірлік панельден ашу
 sidebar-show-on-the-right =
     .label = Бүйір панелін оңға жылжыту
 sidebar-show-on-the-left =
@@ -139,6 +141,13 @@ sidebar-bookmarks-context-menu-delete-bookmark =
     .label = Бетбелгіні өшіру
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Өшіру
+
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Бетті жабу
 
 ## Labels for sidebar menu items.
 
