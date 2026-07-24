@@ -642,6 +642,10 @@ newtab-wallpaper-abstract-purple = شلگا بناوش
 newtab-wallpaper-abstract-orange = شلگا نارنجی
 newtab-wallpaper-gradient-orange = شؽو رنگی نارنجی وو آل
 newtab-wallpaper-abstract-blue-purple = شلگا کوۊ وو بناوش
+newtab-wallpaper-abstract-white-curves = اسبؽڌ وا مونهنی یل سایه دار
+newtab-wallpaper-abstract-purple-green = شؽو رنگی نۊر بناوش وو ساوز
+newtab-wallpaper-abstract-blue-purple-waves = شلگا ماوج دار کوۊ وو بناوش
+newtab-wallpaper-abstract-black-waves = شلگا ماوج دار شه
 
 ## Firefox
 
@@ -649,12 +653,19 @@ newtab-wallpaper-category-title-photographs = شؽوات گرافی
 newtab-wallpaper-beach-at-sunrise = ساهل من ٱفتاو زنووݩ
 newtab-wallpaper-beach-at-sunset = ساهل من ٱفتاو نشین
 newtab-wallpaper-storm-sky = آسمووݩ تیفووی
+newtab-wallpaper-sky-with-pink-clouds = آسمووݩ وا ٱورا آل
+newtab-wallpaper-white-mountains = کوها اسبؽڌ
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = شؽوات و دست <a data-l10n-name="name-link">{ $author_string }</a> ری <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = رنگا شاڌ ن امتهووݩ کۊنین
+newtab-wallpaper-feature-highlight-content = وا شؽوات پس زمینه، و بلگه نۊ خوتووݩ شؽوات نۊیی بڌین.
 newtab-wallpaper-feature-highlight-button = فئمیم
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = رڌ کردن
+    .aria-label = بستن نیمدری گۊشیڌنی
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
@@ -675,6 +686,10 @@ newtab-wallpaper-celestial-starry-sky = آسمووݩ پور آستاره
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = پؽش بینی ن من { $provider } بوینین
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ هؽزگری وابیڌه
