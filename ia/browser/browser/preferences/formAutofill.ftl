@@ -171,6 +171,13 @@ autofill-card-network = Typo de carta
 # methods in their region.
 autofill-card-search-term-credit-cards = cartas de credito, credito, cartas, cartas de debito, debito, portafolio, momento del pagamento
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Adder passaporto
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Rediger passaporto
+
 ## Passport field labels shared by the passport capture doorhanger and the
 ## passport management dialog. The labels are exposed as a .label attribute so
 ## they can be assigned directly to moz-input-text and moz-select fields.
@@ -197,6 +204,8 @@ autofill-passport-date-year =
 
 ## The passport capture doorhanger
 
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Salvar passaporto?
 passport-capture-save-doorhanger-description = Salva informationes in { -brand-short-name } assi que tu pote rapidemente plenar formularios.
 # Accessible label for a passport date part input in the capture doorhanger.
 # The date parts (month/day/year) show their format hint (MM/DD/YYYY) as

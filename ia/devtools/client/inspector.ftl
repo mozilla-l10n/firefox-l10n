@@ -20,3 +20,6 @@ colorpicker-tooltip-hue-slider-title = Tonalitate
 colorpicker-tooltip-alpha-slider-title = Opacitate
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseudo-classes specific de elemento
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Activar/disactivar emulation de schema de color clar pro le pagina
