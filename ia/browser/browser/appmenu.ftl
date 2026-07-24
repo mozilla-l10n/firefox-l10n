@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = Condivider { -brand-product-name }
 appmenuitem-more-tools =
     .label = Altere utensiles
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Auxilio e reporto
 appmenuitem-help =
     .label = Adjuta
 appmenuitem-exit2 =
