@@ -171,6 +171,13 @@ autofill-card-network = Korttype
 # methods in their region.
 autofill-card-search-term-credit-cards = bankkort, kredittkort, kreditt, kort, debetkort, debet, lommebok, betaling, kasse
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Legg til pass
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Rediger pass
+
 ## Passport field labels shared by the passport capture doorhanger and the
 ## passport management dialog. The labels are exposed as a .label attribute so
 ## they can be assigned directly to moz-input-text and moz-select fields.
