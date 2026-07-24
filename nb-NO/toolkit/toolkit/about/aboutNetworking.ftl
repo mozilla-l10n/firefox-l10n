@@ -40,9 +40,30 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Partisjonsnøkkel
+about-networking-ssl-tokens-tokens-column = Symboler
+about-networking-ssl-tokens-expires = Utløper
+about-networking-ssl-tokens-certificate = Sertifikat
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } symbol
+       *[other] { $count } symboler
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Gjenopprettet fra lagring
+    .title = Gjenopprettet fra lagring
+about-networking-ssl-tokens-new =
+    .alt = Nytt i denne økten
+    .title = Nytt i denne økten
 about-networking-ssl-tokens-expired =
     .alt = Utløpt
     .title = Utløpt
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Symboler: { $tokenLength } B. Kodet: { $decompressedLength } → { $compressedLength } B.
 about-networking-refresh = Oppdater
 about-networking-auto-refresh = Auto-oppdater hvert 3. sekund
 about-networking-hostname = Vertsnavn
