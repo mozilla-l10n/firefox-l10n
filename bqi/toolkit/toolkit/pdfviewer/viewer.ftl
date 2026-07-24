@@ -192,6 +192,14 @@ pdfjs-editor-stamp-editor =
 
 ##
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = رنگ
+pdfjs-editor-free-text-size-input = هندا
+pdfjs-editor-ink-color-input = رنگ
+pdfjs-editor-ink-thickness-input = کۊلۊفتی
+pdfjs-editor-ink-opacity-input = کر بیڌن
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = کۊلۊفتی
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = آلشتگر هؽل
@@ -201,15 +209,55 @@ pdfjs-editor-comments-sidebar-no-comments-link = قلوه دووسته بۊین
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-cancel-button = لقو
+pdfjs-editor-alt-text-save-button = زفت
+
+## Color picker
+
+pdfjs-editor-colorpicker-yellow =
+    .title = هیل
+pdfjs-editor-colorpicker-green =
+    .title = ساوز
+pdfjs-editor-colorpicker-blue =
+    .title = کوۊ
+pdfjs-editor-colorpicker-pink =
+    .title = آل
+pdfjs-editor-colorpicker-red =
+    .title = سوئر
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+pdfjs-editor-highlight-show-all-button-label = نشووݩ داڌن پوی
+pdfjs-editor-highlight-show-all-button =
+    .title = نشووݩ داڌن پوی
 
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = قلوه دووسته بۊین
+pdfjs-editor-new-alt-text-not-now-button = سکو ن
+pdfjs-editor-new-alt-text-error-close-button = بستن
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-undo-button-label = وورگندن
+pdfjs-editor-undo-bar-close-button =
+    .title = بستن
+pdfjs-editor-undo-bar-close-button-label = بستن
+
+## Tab panels
+
+pdfjs-editor-add-signature-draw-thickness-range-label = کۊلۊفتی
+
+## Controls
+
+pdfjs-editor-add-signature-error-close-button = بستن
 
 ## Dialog buttons
 
 pdfjs-editor-add-signature-cancel-button = لقو
+pdfjs-editor-add-signature-add-button = ٱووردن
+pdfjs-editor-edit-signature-update-button = ورۊ رسۊوی
 
 ## Comment popup
 
@@ -221,4 +269,32 @@ pdfjs-editor-edit-comment-popup-button =
 
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = آلشت منشڌ
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = ورۊ رسۊوی
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = ٱووردن
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = ناهاڌن پا هؽل کردن…
 pdfjs-editor-edit-comment-dialog-cancel-button = لقو
+
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-views-manager-sidebar =
+    .aria-label = نوار کلی
+pdfjs-views-manager-layers-option-label = لایه یل
+pdfjs-views-manager-pages-status-action-button-label = دؽوۉداری
+pdfjs-views-manager-pages-status-copy-button-label = لف گیری
+pdfjs-views-manager-pages-status-cut-button-label = بۊریڌن
+pdfjs-views-manager-pages-status-delete-button-label = پاک کردن
+pdfjs-views-manager-status-undo-button-label = وورگندن
+pdfjs-views-manager-status-done-button-label = ٱنجوم وابی
+pdfjs-views-manager-status-close-button =
+    .title = بستن
+pdfjs-views-manager-status-close-button-label = بستن
+pdfjs-views-manager-paste-button-label = جا وندن
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = نۊ
