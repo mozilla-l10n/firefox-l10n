@@ -129,6 +129,20 @@ permissions-exceptions-saved-logins-desc = و من ٱووڌن سی و دین ک�
 permissions-exceptions-saved-passwords-window =
     .title = استسنایل - رزما زفت وابیڌه
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } رزما وبگه یل نومگه بیڌه من ایچونا ن زفت نؽکونه.
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window2 =
+    .title = وبگه یل هشته - وردنی یل پۊرنیڌه
+    .style = { permissions-window2.style }
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window2 =
+    .style = { permissions-window2.style }
+    .title = سامووا - پشک خوتکار
+permissions-site-autoplay-desc = ایسا ترین وبگه یلی ک گۊش گر سامووا پشک خوتکار ایسا نؽڌن ن ایچونا دؽوۉداری کۊنین.
 
 ## Site Permissions - Notifications
 
@@ -137,6 +151,20 @@ permissions-site-notification-window2 =
     .style = { permissions-window2.style }
 permissions-site-notification-disable-label =
     .label = درخاستا نۊ سی هشتن وارسۊویا ن مسدۊد کۊنین
+
+## Site Permissions - Location
+
+permissions-site-location-window2 =
+    .style = { permissions-window2.style }
+    .title = سامووا - موجوزا جاگه
+permissions-site-location-disable-label =
+    .label = درخاستا نۊ سی دسرسی و موختسات جاگه ن مسدۊد کۊنین
+
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window2 =
+    .title = سامووا - موجوزا واقعیت مجازی
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Speaker
 ##
