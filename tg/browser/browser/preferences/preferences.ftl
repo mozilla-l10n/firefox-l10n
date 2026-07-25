@@ -1530,6 +1530,12 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Ягон нишонӣ илова карда нашуд
+passports-delete-passport-button-label =
+    .aria-label = Нест кардан
+passports-edit-passport-button-label =
+    .aria-label = Таҳрир кардан
+passports-delete-passport-prompt-confirm-button = Нест кардан
+passports-delete-passport-prompt-cancel-button = Бекор кардан
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

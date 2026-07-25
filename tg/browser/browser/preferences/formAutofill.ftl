@@ -190,6 +190,9 @@ autofill-passport-number =
 passport-capture-save-button =
     .label = Нигоҳ доштан
     .accessKey = Н
+passport-capture-not-now-button =
+    .label = Ҳоло не
+    .accessKey = н
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
