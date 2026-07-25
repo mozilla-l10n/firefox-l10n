@@ -20,6 +20,18 @@ colorpicker-tooltip-hue-slider-title = Sa’yvera
 colorpicker-tooltip-alpha-slider-title = Pytũngy
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Ñembokatyry gua’u mba’eporu rehegua
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Emoambue sa’y aty ñeha’ãha sakã kuatiaroguépe g̃uarã
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Emoambue sa’y aty ñeha’ãha ypytũ kuatiaroguépe g̃uarã
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = Embojopyru CSS ñeha’ãha rembiapoite ñemyandy
+    .aria-label = Embojopyru CSS ñeha’ãha rembiapoite ñemyandy
+inspector-emulation-panel-color-scheme = Sa’y aty ñeha’ãha
 # A label text for the print emulation options
 inspector-emulation-panel-print = Myandy
     .aria-label = Emyandy mba’éichapa oñembokuatia
