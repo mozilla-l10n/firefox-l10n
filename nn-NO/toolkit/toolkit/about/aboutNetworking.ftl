@@ -19,6 +19,13 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validert
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Isolasjonsnøkkel
+about-networking-ssl-tokens = TLS-symbol
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } symbol
+       *[other] { $count } symbol
+    }
 about-networking-ssl-tokens-expires = Går ut
 about-networking-ssl-tokens-expired =
     .alt = Utgått
@@ -26,6 +33,8 @@ about-networking-ssl-tokens-expired =
 about-networking-ssl-tokens-built-in-root = Innebygd rotsertifikat
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Sertifikatkjede ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Handtrykksertifikat ({ $count })
 about-networking-refresh = Oppdater
 about-networking-auto-refresh = Auto-oppdater kvart 3. sekund
 about-networking-hostname = Vertsnamn
