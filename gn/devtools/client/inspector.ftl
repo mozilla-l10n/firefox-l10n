@@ -20,3 +20,6 @@ colorpicker-tooltip-hue-slider-title = Sa’yvera
 colorpicker-tooltip-alpha-slider-title = Pytũngy
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Ñembokatyry gua’u mba’eporu rehegua
+# A label text for the print emulation options
+inspector-emulation-panel-print = Myandy
+    .aria-label = Emyandy mba’éichapa oñembokuatia
