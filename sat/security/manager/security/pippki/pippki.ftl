@@ -40,7 +40,7 @@ download-cert-window2 =
     .style = min-width: 46em
 download-cert-message = ᱟᱢ ᱱᱟᱣᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ (CA) ᱪᱮᱛᱟᱱ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱞᱤ ᱭᱟᱠᱟᱱᱟᱢ᱾
 download-cert-trust-ssl =
-    .label = ᱱᱚᱣᱟ CA ᱣᱮᱵ ᱥᱟᱤᱴ ᱠᱚ ᱩᱯᱨᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ ᱢᱮ᱾
+    .label = ᱱᱚᱣᱟ CA ᱣᱮᱵ ᱥᱟᱭᱤᱴ ᱠᱚ ᱩᱯᱨᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ ᱢᱮ᱾
 download-cert-trust-email =
     .label = ᱤᱢᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱠᱚ ᱩᱯᱨᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ CA ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ ᱢᱮ ᱾
 download-cert-message-desc = ᱡᱟᱦᱟᱱ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ CA ᱪᱮᱛᱟᱱ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱢᱟᱲᱟᱝ , ᱟᱢ ᱩᱱᱤᱭᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱮᱞ ᱵᱤᱲᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱟᱨ ᱩᱱᱤᱭᱟᱜ ᱱᱤᱛᱤ ᱟᱨ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ (ᱡᱩᱫᱤ ᱧᱟᱢᱚᱜ ᱟ ) ᱾
@@ -52,7 +52,7 @@ download-cert-view-text = CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱚᱨᱚᱠ 
 
 client-auth-window =
     .title = ᱵᱮᱵᱷᱟᱨᱤᱡᱟᱜ ᱩᱯᱨᱩᱢ ᱵᱟᱵᱚᱛ ᱱᱮᱦᱚᱨ
-client-auth-site-description = ᱱᱚᱣᱟ ᱥᱟᱤᱴ ᱱᱮᱦᱚᱨ ᱟᱠᱟᱫ ᱟ ᱡᱮ ᱟᱢ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱥᱟᱸᱣ ᱟᱢᱛᱮ ᱩᱯᱨᱩᱢᱚᱜ ᱢᱮ :
+client-auth-site-description = ᱱᱚᱣᱟ ᱥᱟᱭᱤᱴ ᱱᱮᱦᱚᱨ ᱟᱠᱟᱫ ᱟ ᱡᱮ ᱟᱢ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱥᱟᱸᱣ ᱟᱢᱛᱮ ᱩᱯᱨᱩᱢᱚᱜ ᱢᱮ :
 client-auth-choose-cert = ᱩᱯᱨᱩᱢ ᱩᱫᱩᱠ ᱞᱮᱠᱟ ᱢᱤᱫ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:
 client-auth-cert-details = ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱚᱵᱚᱛ :
 # Variables:

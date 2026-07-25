@@ -101,7 +101,7 @@ permissions-exceptions-https-only-desc2 = ᱟᱢ ᱫᱚ ᱛᱤᱱᱟᱹᱜ ᱜ�
 permissions-exceptions-popup-window2 =
     .title = ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱣᱮᱵᱽᱥᱟᱭᱤᱴᱠᱚ ᱼ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = ᱟᱢ ᱜᱚᱴᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱚᱠᱟ ᱣᱮᱵᱥᱟᱤᱴ ᱯᱚᱯ ᱚᱯ ᱣᱤᱸᱰᱚ ᱡᱷᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣᱮᱢ ᱮᱢᱟ, ᱥᱟᱤᱴ ᱨᱮᱭᱟᱜ ᱥᱩᱦᱤ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱚᱠᱟ ᱟᱢ ᱵᱟᱛᱟᱣ ᱮᱢ  ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱴᱟᱤᱯ ᱢᱮ ᱟᱨᱚ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱵᱟᱛᱟᱣ ᱚᱛᱟᱭ ᱢᱮ ᱾
+permissions-exceptions-popup-desc = ᱟᱢ ᱜᱚᱴᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱚᱠᱟ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱯᱚᱯ ᱚᱯ ᱣᱤᱸᱰᱚ ᱡᱷᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣᱮᱢ ᱮᱢᱟ, ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱥᱩᱦᱤ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱚᱠᱟ ᱟᱢ ᱵᱟᱛᱟᱣ ᱮᱢ  ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱴᱟᱤᱯ ᱢᱮ ᱟᱨᱚ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱵᱟᱛᱟᱣ ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## Exceptions - Saved Logins
 
@@ -115,7 +115,7 @@ permissions-exceptions-saved-logins-desc = ᱞᱟᱛᱟᱨ ᱨᱮ ᱚᱞ ᱟᱠ�
 permissions-exceptions-addons-window2 =
     .title = ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱜ ᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ - Add-ons ᱵᱚᱦᱟᱞ
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = ᱟᱢ ᱜᱚᱴᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱚᱠᱟ ᱣᱮᱵᱥᱟᱤᱴ ᱮᱰᱼᱚᱱ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣᱮᱢ ᱮᱢᱟ, ᱥᱟᱤᱴ ᱨᱮᱭᱟᱜ ᱥᱩᱦᱤ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱚᱠᱟ ᱟᱢ ᱵᱟᱛᱟᱣ ᱮᱢ  ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱴᱟᱤᱯ ᱢᱮ ᱟᱨᱚ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱵᱟᱛᱟᱣ ᱚᱛᱟᱭ ᱢᱮ ᱾
+permissions-exceptions-addons-desc = ᱟᱢ ᱜᱚᱴᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱚᱠᱟ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱮᱰᱼᱚᱱ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣᱮᱢ ᱮᱢᱟ, ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱥᱩᱦᱤ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱚᱠᱟ ᱟᱢ ᱵᱟᱛᱟᱣ ᱮᱢ  ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱴᱟᱤᱯ ᱢᱮ ᱟᱨᱚ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱵᱟᱛᱟᱣ ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## Site Permissions - Autoplay
 
