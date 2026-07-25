@@ -79,5 +79,9 @@ connection-proxy-socks-remote-dns =
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (پؽش فرز)
-    .tooltiptext = URL پؽش فرز سی هل DNS ن وا HTTPS و کار بگرین
+    .tooltiptext = نشۊوی اینترنتی پؽش فرز سی هل DNS ن وا HTTPS و کار بگرین
+connection-dns-over-https-url-custom =
+    .label = سفارشی
+    .accesskey = C
+    .tooltiptext = نشۊوی اینترنتی موورد نزر خوتووݩ ن سی هل DNS وا HTTPS بزنین.
 connection-dns-over-https-custom-label = سفارشی

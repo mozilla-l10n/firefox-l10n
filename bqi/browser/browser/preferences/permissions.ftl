@@ -82,6 +82,7 @@ permissions-invalid-uri-label = نوم هاست موعتبری بزنین
 permissions-exceptions-etp-window2 =
     .title = استسنایل سی سیستوم زفت وابیڌن پؽش رئڌه جلاو رڌجۊری
     .style = { permissions-window2.style }
+permissions-exceptions-manage-etp-desc = ترین موشخس کۊنین ک کو وبگه یل ویژیی زفت وابیڌن پؽش رئڌه جلاو رڌجۊری ن خامۊش کردنه. نشۊوی دییق وبگهی ن ک اخۊین دؽوۉداری کۊنین تایپ کۊنین وو اوسو ری «ٱووردن استسنا» کلیک کۊنین.
 
 ## Exceptions - Cookies
 
