@@ -126,6 +126,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Handsame innstillingar for sprettoppvindauge og tredjepartvidaresendingar…
     .accesskey = H
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Vis informasjon om nettstaden
+            [1] Vis informasjon om nettstaden (1 sporar blokkert)
+           *[other] Vis informasjon om nettstaden ({ $count } sporarar blokkerte)
+        }
 
 ##
 
@@ -613,6 +622,7 @@ identity-description-passive-loaded-mixed2 = Sjølv om { -brand-short-name } har
 identity-description-active-loaded = Denne nettstaden har innhald som ikkje er overført trygt (slik som skript) og tilkoplinga di er difor ikkje privat.
 identity-description-active-loaded-insecure = Informasjonen du deler med denne nettstaden kan sjåast av andre (t.d. passords, meldingar, kredittkort osb.).
 identity-description-tls-key-logging-heading = Tilkoplinga er kanskje ikkje privat
+identity-description-tls-key-logging-message = Ein app eller ei teneste kan sjå den krypterte trafikken din frå denne nettstaden.
 identity-disable-mixed-content-blocking =
     .label = Slå av vern
     .accesskey = a
@@ -1796,6 +1806,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Ikkje sikker
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } sporar blokkert
+       *[other] { $count } sporarar blokkerte
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

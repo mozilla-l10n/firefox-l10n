@@ -23,6 +23,9 @@ about-networking-ssl-tokens-expires = Går ut
 about-networking-ssl-tokens-expired =
     .alt = Utgått
     .title = Utgått
+about-networking-ssl-tokens-built-in-root = Innebygd rotsertifikat
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Sertifikatkjede ({ $count })
 about-networking-refresh = Oppdater
 about-networking-auto-refresh = Auto-oppdater kvart 3. sekund
 about-networking-hostname = Vertsnamn
