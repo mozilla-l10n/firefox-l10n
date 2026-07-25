@@ -50,6 +50,26 @@ about-networking-ssl-tokens-token-list =
         [one] { $count } token
        *[other] { $count } tokens
     }
+about-networking-ssl-tokens-restored =
+    .alt = Oñemoĩporã ñembyatyha guive
+    .title = Oñemoĩporã ñembyatyha guive
+about-networking-ssl-tokens-new =
+    .alt = Ko jeike ipyahu
+    .title = Ko jeike ipyahu
+about-networking-ssl-tokens-expired =
+    .alt = Ndoikovéima:
+    .title = Ndoikovéima:
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokens: { $tokenLength } B. Papapypyre: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV mbojepyre
+about-networking-ssl-tokens-ct-status = Mboajepyre resakãkue
+about-networking-ssl-tokens-overridable-error = Oike jejavy ojepe’akuaávape
+about-networking-ssl-tokens-built-in-root = Tapo juajupyre
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Mboajepyre kadéna ({ $count })
 about-networking-refresh = Mbopiro’y
 about-networking-auto-refresh = Embopiro’y ijehegui 3 aravo’ive og̃uahẽvo
 about-networking-hostname = Mohendahavusu réra
