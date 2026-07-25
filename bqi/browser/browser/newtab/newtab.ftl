@@ -507,6 +507,7 @@ newtab-pocket-read-more = سرتالا مئبۊب:
 newtab-pocket-more-recommendations = پؽشنهاڌا قلوه
 newtab-pocket-learn-more = قلوه دووسته بۊین
 newtab-pocket-cta-button = گرؽڌن { -pocket-brand-name }
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } بشنی ز خانواده { -brand-product-name } هڌ
 newtab-pocket-save = زفت
 newtab-pocket-saved = زفت وابی
 
@@ -518,13 +519,21 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = ن سی مو
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = ممنووݩ داریم. منشڌ ایسا و ایما من بؽڌر وابیڌن فید ایسا هیاری اده.
 newtab-toast-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
 
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = بؽڌرینا وب ن بجۊرین
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = ای بوۊمی، مجال دانلود ای موئتوا موشکلؽ پؽش ٱووڌ.
 newtab-error-fallback-refresh-link = سی قپ ریت دووارته بلگه ن وانۊ کۊنین.
 
 ## Customization Menu
