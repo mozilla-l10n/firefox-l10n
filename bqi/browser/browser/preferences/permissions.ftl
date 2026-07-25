@@ -166,6 +166,19 @@ permissions-site-xr-window2 =
     .title = سامووا - موجوزا واقعیت مجازی
     .style = { permissions-window2.style }
 
+## Site Permissions - Loopback network
+
+permissions-site-localhost-window =
+    .title = سامووا - برنومه یل وو سرویسا دسگا
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = ای وبگه یل درخاست دسرسی و برنومه یل وو خدمات مووجۊد من ای دسگا ن دارن. ترین وبگه یل ن بهلین یا هونووݩ ن ز ٱنجوم ای کار منع کۊنین.
+
+## Site Permissions - Microphone
+
+permissions-site-microphone-window2 =
+    .style = { permissions-window2.style }
+    .title = سامووا - هشتنا بولندگۊ
+
 ## Site Permissions - Speaker
 ##
 ## "Speaker" refers to an audio output device.
