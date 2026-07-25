@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Emboheko ta’ãngarupa ykegua
 sidebar-hide-tabs-and-sidebar =
     .label = Eñomi tendayke ha tenda yke
+sidebar-open-tools-from-sidebar =
+    .label = Embojuruja tembiporu tenda yke guive
 sidebar-show-on-the-right =
     .label = Emongu'e tenda yke akatúa gotyo
 sidebar-show-on-the-left =
@@ -139,6 +141,13 @@ sidebar-bookmarks-context-menu-delete-bookmark =
     .label = Emboguete Techaukaha
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Mboguete
+
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Emboty Tendayke
 
 ## Labels for sidebar menu items.
 

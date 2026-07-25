@@ -15,6 +15,8 @@ unified-extensions-discover-extensions =
     .label = Eikuaa jepysokue
 unified-extensions-empty-reason-private-browsing-not-allowed = Ereko jepysokue mohendapyre, hákatu ndaijurujáiva ovetã ñemiguápe.
 unified-extensions-empty-reason-extension-not-enabled = Ereko jepysokue mohendapyre, hákatu ndaijurujái
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Sa’imi jepysokue heta ome’ẽkuaa
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Eikundaha porãve jepysokue ndive
 unified-extensions-empty-content-explain-enable2 = Eiporavo “{ unified-extensions-manage-extensions.label }” emyandy hag̃ua ñembohekópe.

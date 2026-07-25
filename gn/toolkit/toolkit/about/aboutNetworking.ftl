@@ -70,6 +70,8 @@ about-networking-ssl-tokens-overridable-error = Oike jejavy ojepe’akuaávape
 about-networking-ssl-tokens-built-in-root = Tapo juajupyre
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Mboajepyre kadéna ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Handshake mboajepyre ({ $count })
 about-networking-refresh = Mbopiro’y
 about-networking-auto-refresh = Embopiro’y ijehegui 3 aravo’ive og̃uahẽvo
 about-networking-hostname = Mohendahavusu réra
