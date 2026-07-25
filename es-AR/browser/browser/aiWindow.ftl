@@ -143,6 +143,7 @@ aiwindow-input-model-select-settings-link = Configuración del modelo
 
 aiwindow-firstrun-memories-title = Respuestas más útiles, en sus términos
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } puede aprender de los chats, navegación o ambos para crear recuerdos. Hacen que las respuestas sean más útiles con el tiempo.
+aiwindow-firstrun-memories-conversation-title = Mantengamos la conversación
 aiwindow-firstrun-memories-conversation-body = Aprender de los chats significa que va a haber que repetir menos.
 aiwindow-firstrun-memories-relevance-title = Respuestas más relevantes
 aiwindow-firstrun-memories-relevance-body = Aprender de la navegación le da a { -smart-window-brand-name } una perspectiva más amplia.

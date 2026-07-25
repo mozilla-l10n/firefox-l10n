@@ -1164,6 +1164,8 @@ urlbar-searchmode-popup-one-off-header = Esta vez buscar con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Buscar con:
+urlbar-searchmode-popup-search-settings = Ajustes de búsqueda
+    .accesskey = S
 urlbar-searchmode-popup-settings = Configuración
     .accesskey = g
 urlbar-searchmode-popup-search-settings-panelitem = Configuración de búsqueda
@@ -1808,6 +1810,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Inseguro
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } rastreador bloqueado
+       *[other] { $count } rastreadores bloqueados
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
