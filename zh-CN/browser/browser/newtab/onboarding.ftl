@@ -615,3 +615,4 @@ smartwindow-sidebar-auto-open-callout-dismiss = 不用了
 smartwindow-sidebar-auto-open-callout-accepted-title = 助理将默认关闭
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = 您可以在任意页面上使用“询问”来打开它。可随时在<a data-l10n-name="settings">设置</a>中更改此决定。
 smartwindow-sidebar-auto-open-callout-rejected-title = 知道了
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = 如果您改变了主意，可随时在<a data-l10n-name="settings">设置</a>中更新默认设置。

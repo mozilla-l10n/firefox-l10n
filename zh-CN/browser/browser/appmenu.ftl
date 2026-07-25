@@ -211,6 +211,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = 排查 { -brand-shorter-name } 网络 Bug 时使用。
 profiler-popup-presets-networking-label =
     .label = 网络
+profiler-popup-presets-networking-with-logs-description = 适用于调查 { -brand-shorter-name } 下的网络 Bug，包含网络日志。这些日志可能包含敏感信息，例如您访问的网址。
 profiler-popup-presets-power-description = 排查 { -brand-shorter-name } 功耗 Bug 时使用，开销较低。
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -336,3 +337,8 @@ appmenu-edit-profile =
     .aria-label = 编辑配置文件
 appmenu-profiles-2 =
     .label = 配置文件
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label = 查看全部 { $tabCount } 个已同步标签页
