@@ -61,4 +61,23 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = گۊشیڌن دووارته
     .accesskey = e
+connection-proxy-autologin =
+    .label = ٱر رزم زفت وابیڌه، سی سابت کردن هۊویت پیوم مڌه
+    .tooltip = ای گۊزینه و سۊرت بؽ دونگ ایسا ن سی پروکسی یل ائراز هۊویت اکونه، مجالی ک ائتوارنومه یل هونووݩ ن زفت کردینه. ٱر مووفق و ائراز هۊویت نوابیڌین، ز ایسا سوال اپورسه.
+    .accesskey = i
+connection-proxy-autologin-checkbox =
+    .label = ٱر رزم زفت وابیڌه، سی سابت کردن هۊویت پیوم مڌه
+    .accesskey = i
+    .tooltiptext = ای گۊزینه و سۊرت بؽ دونگ ایسا ن سی پروکسی یل ائراز هۊویت اکونه، مجالی ک ائتوارنومه یل هونووݩ ن زفت کردینه. ٱر مووفق و ائراز هۊویت نوابیڌین، ز ایسا سوال اپورسه.
+connection-proxy-socks4-remote-dns =
+    .label = پروکسی DNS مجال و کار گرؽڌن SOCKS نوسخه 4
+    .accesskey = 4
+connection-proxy-socks-remote-dns =
+    .label = پروکسی DNS مجال و کار گرؽڌن SOCKS نوسخه 5
+    .accesskey = D
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (پؽش فرز)
+    .tooltiptext = URL پؽش فرز سی هل DNS ن وا HTTPS و کار بگرین
 connection-dns-over-https-custom-label = سفارشی
