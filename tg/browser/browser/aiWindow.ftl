@@ -158,3 +158,6 @@ smart-window-default-promo-additional-button = Ҳоло не
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Изҳори назари худро мубодила кунед
+aiwindow-feedback-submit = Пешниҳод кардан
+aiwindow-feedback-cancel = Бекор кардан
+aiwindow-feedback-reason-other = Дигар

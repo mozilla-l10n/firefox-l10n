@@ -107,6 +107,19 @@ appmenu-remote-tabs-unverified = Ҳисоби шумо бояд тасдиқ к�
 appmenuitem-fxa-toolbar-sync-now2 = Ҳозир ҳамоҳанг кунед
 appmenuitem-fxa-sign-in = Ворид шудан ба { -brand-product-name }
 appmenuitem-fxa-manage-account = Идоракунии ҳисоб
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Фаъол кардан
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Барои ҳамоҳангсозӣ ворид шавед
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Ҳамаи дастгоҳҳо
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Ҳамаи дастгоҳҳо
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Ҳисоб
 # Variables

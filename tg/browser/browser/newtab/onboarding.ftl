@@ -585,3 +585,12 @@ onboarding-personalization-motivation-other-option = Дигар
 onboarding-refresh-pin-set-default-subtitle = Мо маълумоти шуморо муҳофизат мекунем ва ширкатҳоро аз ҷосусӣ ва таҳлили амалҳои шумо ба таври худкор маҳдуд мекунем.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = «{ -brand-short-name }» шуморо пуштибонӣ мекунад
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = Қабул кардан
+smartwindow-existing-user-fx-tou-go-back = Бозгашт
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Идома додан

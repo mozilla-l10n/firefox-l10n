@@ -58,14 +58,25 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Ин хусусият озмоишӣ аст ва метавонад ба таври лозимӣ кор накунад.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Беэътибор
+customkeys-key-edit =
+    .aria-label = Таҳрир кардан
+    .tooltiptext = Таҳрир кардан
 customkeys-key-clear =
     .aria-label = Пок кардан
     .tooltiptext = Пок кардан
+customkeys-key-reset =
+    .aria-label = Барқарор кардан
+    .tooltiptext = Барқарор кардан
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Тугмаи навро пахш кунед:
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-cancel = Бекор кардан
+customkeys-reset-all-confirm-button-cancel = Бекор кардан
 
 ## Sidebar
 

@@ -167,6 +167,30 @@ autofill-card-network = Навъи корт
 # methods in their region.
 autofill-card-search-term-credit-cards = кортҳои бонкӣ, қарз, кортҳо, кортҳои дебетӣ, дебет, ҳамён, ба тартиб даровардани фармоиш
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Илова кардани шиноснома
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Таҳрир кардани шиноснома
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Ном
+autofill-passport-country =
+    .label = Кишвар
+autofill-passport-number =
+    .label = Рақам
+
+## The passport capture doorhanger
+
+passport-capture-save-button =
+    .label = Нигоҳ доштан
+    .accessKey = Н
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express

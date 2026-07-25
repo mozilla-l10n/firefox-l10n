@@ -90,6 +90,12 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Варзишҳо
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Соат
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Махфият
 home-prefs-mission-message2 =
     .message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд.
 home-prefs-manage-topics-link2 =
@@ -143,6 +149,36 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Дастгирӣ кардани «{ -brand-product-name }»
 home-prefs-mission-message-learn-more-link-srd = Бифаҳмед, ки чӣ тавр
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-6-cta = Маълумоти бештар
+newtab-privacy-message-info-8-cta = Маълумоти бештар
+newtab-privacy-message-info-11-cta = Маълумоти бештар
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Маълумоти бештар
+newtab-privacy-message-promo-monitor-2-cta = Маълумоти бештар
+newtab-privacy-message-promo-signin-1-cta = Ворид шудан
+newtab-privacy-message-promo-vpn-1-cta = Кушодани «VPN»
+
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Маълумоти бештар
+
+## Strings for the Picture of the Day widget
+
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Маълумоти бештар
 
 ## Search box component.
 
@@ -487,6 +523,8 @@ newtab-custom-widget-clock-toggle =
     .label = Соат
 newtab-custom-widget-sports-toggle2 =
     .label = Варзишҳо
+newtab-custom-widget-privacy-toggle =
+    .label = Махфият
 newtab-custom-widget-section-title = Виҷетҳо
 newtab-custom-widget-section-toggle =
     .label = Виҷетҳо

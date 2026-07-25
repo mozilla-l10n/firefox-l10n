@@ -203,6 +203,7 @@ migration-chrome-windows-password-import-step2 = Аз меню бахши «Sett
 migration-chrome-windows-password-import-step3 = Имкони «Download file / Загрузить файл»-ро интихоб кунед ва онро дар дастгоҳи худ нигоҳ доред.
 migration-chrome-windows-password-import-step4 = Ба ин ҷой баргардед ва барои ба анҷом расонидани воридот аз имкони «Интихоби файл» истифода баред.
 migration-manual-password-import-skip-button = Нодида гузарондан
+migration-manual-password-import-cancel-button = Бекор кардан
 migration-manual-password-import-select-button = Интихоби файл
 migration-safari-password-import-skip-button = Нодида гузарондан
 migration-safari-password-import-select-button = Интихоби файл

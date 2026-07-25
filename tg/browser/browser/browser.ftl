@@ -1008,6 +1008,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Имкони ҷустуҷӯи калимаҳои калидӣ ғайрифаъол аст
 urlbar-searchmode-dropmarker2 =
     .title = Низоми ҷустуҷӯиро интихоб намоед
+urlbar-searchmode-bookmarks3 = Хатбаракҳо
+    .accesskey = Х
+urlbar-searchmode-tabs3 = Варақаҳо
+    .accesskey = В
+urlbar-searchmode-history3 = Таърих
+    .accesskey = Т
+urlbar-searchmode-actions3 = Амалҳо
+    .accesskey = А
 urlbar-searchmode-bookmarks2 = Хатбаракҳо
 urlbar-searchmode-tabs2 = Варақаҳо
 urlbar-searchmode-history2 = Таърих
@@ -1027,6 +1035,8 @@ urlbar-searchmode-popup-one-off-header = Ин дафъа бо зерин ҷус�
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Ҷустуҷӯ тавассути:
+urlbar-searchmode-popup-settings = Танзимот
+    .accesskey = Т
 urlbar-searchmode-popup-search-settings-panelitem = Танзимоти ҷустуҷӯ
 urlbar-searchmode-popup-settings-panelitem = Танзимот
 

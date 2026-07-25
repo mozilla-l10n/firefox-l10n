@@ -300,6 +300,7 @@ launch-on-login-infobar-final-reject-button = Не, ташаккур
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
+launch-on-login-spotlight-pin-taskbar-checkbox = Васл кардан ба навори вазифа
 launch-on-login-spotlight-primary-button = Нигоҳ доштан ва пӯшидани «{ -brand-short-name }»
 
 ## Tail Fox Set Default Spotlight
