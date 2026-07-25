@@ -168,9 +168,6 @@ action-log-searching-web-with-exa = Ricerca sul Web con <a data-l10n-name="exa-l
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Ricerca sul Web con <a data-l10n-name="exa-link">Exa</a> completata
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Ricerca sul Web con Exa completata
 action-log-checking-memories = Controllo memorie
 action-log-checked-memories = Controllo delle memorie completato
 action-log-searching-settings = Ricerca nelle impostazioni
@@ -193,4 +190,3 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = Risultati di ricerca caricati in questa scheda. Analisi in corso…
-
