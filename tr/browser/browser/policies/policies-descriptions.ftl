@@ -30,12 +30,17 @@ policy-BlockAboutSupport = about:support sayfasına erişimi engelle.
 policy-Bookmarks = Yer imleri araç çubuğunda, yer imleri menüsünde veya bunların içindeki belli bir klasörde yer imi oluştur.
 policy-CaptivePortal = Kısıtlama portalı desteğini aç veya kapat.
 policy-CertificatesDescription = Sertifika ekle veya yerleşik sertifikaları kullan.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = TLS için CNSA 2.0 ML-KEM-1024 anahtar sözleşmesini etkinleştir.
 policy-ContentAnalysis = data-loss-prevention istemci bağlantısını etkinleştir veya devre dışı bırak.
 policy-Cookies = Web sitelerinin çerez ayarlamasına izin ver veya verme.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Kapsayıcılarla ilgili ilkeleri ayarla.
 policy-DisableAccounts = Hesap tabanlı hizmetleri devre dışı bırak (eşitleme dahil).
 policy-DisabledCiphers = Şifrelemeleri devre dışı bırak.
+policy-DefaultBrowserSettingEnabled = Kullanıcının { -brand-short-name } tarayıcısını varsayılan tarayıcı olarak ayarlayıp ayarlayamayacağını yönet.
 policy-DefaultDownloadDirectory = Varsayılan indirme klasörünü ayarla.
 policy-DefaultSerialGuardSetting = Serial API kullanımını denetle.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.

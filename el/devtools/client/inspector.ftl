@@ -20,3 +20,6 @@ colorpicker-tooltip-hue-slider-title = Απόχρωση
 colorpicker-tooltip-alpha-slider-title = Αδιαφάνεια
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Ψευδοκλάσεις συγκεκριμένου στοιχείου
+# A label text for the print emulation options
+inspector-emulation-panel-print = Ενεργοποίηση
+    .aria-label = Ενεργοποίηση εξομοίωσης μέσων εκτύπωσης

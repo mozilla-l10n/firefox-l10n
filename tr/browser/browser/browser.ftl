@@ -126,6 +126,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Açılır pencere ve üçüncü taraf yönlendirmesi ayarlarını yönet…
     .accesskey = A
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Site bilgilerini göster
+            [1] Site bilgilerini göster ({ $count } takip kodu engellendi)
+            [one] Site bilgilerini göster ({ $count } takip kodu engellendi)
+           *[other] Site bilgilerini göster ({ $count } takip kodu engellendi)
+        }
 
 ##
 
@@ -612,6 +622,8 @@ identity-description-passive-loaded-insecure2 = Bu sitede güvenli olmayan içer
 identity-description-passive-loaded-mixed2 = { -brand-short-name } bazı içerikleri engellemiş olmasına rağmen bu sayfada hâlâ güvenli olmayan içerikler (örn. resimler) var.
 identity-description-active-loaded = Bu web sitesinde güvenli olmayan içerikler var (örn. betikler) ve siteye olan bağlantınız gizli değil.
 identity-description-active-loaded-insecure = Bu siteyle paylaştığınız bilgiler (örn. parolalar, mesajlar, kredi kartı bilgileri vb.) başkaları tarafından görülebilir.
+identity-description-tls-key-logging-heading = Bağlantınız gizli olmayabilir
+identity-description-tls-key-logging-message = Bir uygulama veya hizmet bu siteden gelen şifrelenmiş trafiğinizi görebilir.
 identity-disable-mixed-content-blocking =
     .label = Korumayı şimdilik devre dışı bırak
     .accesskey = d
@@ -960,6 +972,13 @@ urlbar-result-explanation-bookmarked = { $date } tarihinde yer imlerine eklendi
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Son ziyaret: { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Son ziyaret: { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1794,6 +1813,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Güvenli değil
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } takip kodu engellendi
+       *[other] { $count } takip kodu engellendi
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

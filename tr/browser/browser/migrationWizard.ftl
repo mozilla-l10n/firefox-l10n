@@ -191,6 +191,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Tamamlandı
 migration-safari-password-import-header = Parolaları Safari’den içe aktar
+migration-safari-password-import-post-sequoia-step1 = Mac’inizde <a data-l10n-name="macos-passwords-app">Parolalar uygulamasını</a> açın
+migration-safari-password-import-post-sequoia-step2 = Ekranın üst kısmındaki menü çubuğundan “Dosya > Tüm Parolaları Dosyaya Aktar…”ı seçin
 migration-safari-password-import-post-sequoia-step3 = Dosyayı kaydedin
 migration-safari-password-import-post-sequoia-step4 = Kaydettiğiniz dosyayı seçin
 migration-safari-password-import-steps-header = Safari parolalarını içe aktarmak için:

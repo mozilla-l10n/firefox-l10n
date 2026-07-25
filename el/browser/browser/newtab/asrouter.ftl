@@ -509,5 +509,12 @@ nova-early-access-infobar-primary-button = Το κατάλαβα
 ## launch-on-login, taskbar pinning, and session restore.
 
 launch-options-spotlight-title-launch-on-login = Εκκίνηση του { -brand-short-name } κάθε φορά που συνδέεστε στα Windows;
+launch-options-spotlight-checkbox-pin-to-taskbar = Καρφίτσωμα στη γραμμή εργασιών σας
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Επαναφορά τρεχόντων παραθύρων και καρτελών
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Επαναφορά προηγούμενων παραθύρων και καρτελών
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Αποθήκευση και κλείσιμο του { -brand-short-name }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Αποθήκευση και συνέχεια
