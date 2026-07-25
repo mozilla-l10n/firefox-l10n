@@ -26,12 +26,23 @@ about-networking-ssl-tokens-summary-count =
         [one] { $count } διακριτικό
        *[other] { $count } διακριτικά
     }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } ληγμένο)
+       *[other] ({ $count } ληγμένα)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% εξοικονόμηση)
 # $used (Number) - Cache size currently in use, in kilobytes
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
 about-networking-ssl-tokens-tokens-column = Διακριτικά
 about-networking-ssl-tokens-expires = Λήξη
+about-networking-ssl-tokens-certificate = Πιστοποιητικό
 # $count (Number) - Number of tokens sharing this row's host and certificate
 about-networking-ssl-tokens-token-list =
     { $count ->
@@ -42,6 +53,10 @@ about-networking-ssl-tokens-new =
     .alt = Νέο σε αυτήν τη συνεδρία
     .title = Νέο σε αυτήν τη συνεδρία
 about-networking-ssl-tokens-built-in-root = Ενσωματωμένη ρίζα
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Αλυσίδα πιστοποιητικών ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Πιστοποιητικά χειραψίας ({ $count })
 about-networking-refresh = Ανανέωση
 about-networking-auto-refresh = Αυτόματη ανανέωση κάθε 3 δευτερόλεπτα
 about-networking-hostname = Όνομα κεντρικού υπολογιστή
