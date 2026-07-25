@@ -36,6 +36,8 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Complete ydesbloqueae íconos de zorros adicionales para personalizar { -brand-short-name }.
+appearance-browser-icon-set-default-button =
+    .label = Hacer predeterminado
 appearance-browser-icon-pin-button =
     .label = Pegar a la barra de tareas
 

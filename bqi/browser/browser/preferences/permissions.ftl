@@ -173,16 +173,27 @@ permissions-site-localhost-window =
     .style = { permissions-window2.style }
 permissions-site-localhost-desc = ای وبگه یل درخاست دسرسی و برنومه یل وو خدمات مووجۊد من ای دسگا ن دارن. ترین وبگه یل ن بهلین یا هونووݩ ن ز ٱنجوم ای کار منع کۊنین.
 
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = سامووا - دسگایل شبکه مهلی
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
     .style = { permissions-window2.style }
     .title = سامووا - هشتنا بولندگۊ
+permissions-site-microphone-disable-label =
+    .label = مسدۊد کردن درخاستا دسرسی و بولندگۊ
 
 ## Site Permissions - Speaker
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = سامووا - موجوزا بولندگۊ
+    .style = { permissions-window2.style }
 permissions-doh-add-exception =
     .label = ٱووردن
     .accesskey = A
