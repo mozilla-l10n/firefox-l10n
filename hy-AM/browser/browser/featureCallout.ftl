@@ -102,7 +102,7 @@ perplexity-callout-secondary-label-2 = Հասկացա
 ## Startpage callout strings. Startpage (https://www.startpage.com/) is a
 ## brand name and should not be translated or transliterated.
 
-start-page-callout-title = Ցանկանո՞ւմ եք փորձել գաղտնիության վրա կենտրոնացած նոր որոնում։
+start-page-callout-title = Ցանկանո՞ւմ եք փորձել գաղտնիության վրա կենտրոնացած նոր որոնիչ։
 start-page-callout-subtitle = Փորձեք Startpage-ը։ Այն նախատեսված է ձեր որոնումները սկզբից ավելի գաղտնի պահելու համար։
 start-page-callout-primary-label = Փորձել Տնէջը
 start-page-callout-secondary-label = Բաց թողնել
