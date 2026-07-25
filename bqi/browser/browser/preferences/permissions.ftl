@@ -89,12 +89,14 @@ permissions-exceptions-manage-etp-desc = ترین موشخس کۊنین ک کو 
 permissions-exceptions-cookie-window2 =
     .title = استسنایل - کۊکیا وو داده یل وبگه
     .style = { permissions-window2.style }
+permissions-exceptions-cookie-desc = ترین موشخس کۊنین چ وبگه یلی ترن هی یا هرگشت دسرسی و کۊکیا وو داده یل وبگهی داشته بۊن. نشۊوی دییق وبگهی ک اخۊین دؽوۉداری کۊنین ن بزنین وو اوسو و ری «مسدۊد کردن»، «هشتن من ای نشست»، یا «هشتن» کلیک کۊنین.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = مووردا استسنا - هالت تینا HTTPS
     .style = { permissions-window2.style }
+permissions-exceptions-https-only-desc = ایسا ترین هالت تینا-HTTPS ن سی ی قرده ز وبگه یل قیرفعال کۊنین. { -brand-short-name } تفره سی بؽڌر وابیڌن منپیز من ای وبگه یل و HTTPS نؽکونه. مووردا استسنا من نیمدری یل سیخومی تئسیر نڌارن.
 
 ## Site Permissions - Notifications
 
