@@ -15,10 +15,15 @@ callout-firefox-view-colorways-reminder-title = رنگ بندیا دیندایی
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = گشتن خوتووݩ ن وا پسند بلگه قلوه کۊنین
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ناهاڌن پا کار
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = PDF‌ها ن وا ٱوزار هؽل نۊ ایما آلشت کۊنین
 callout-pdfjs-edit-button = بئڌی
 callout-pdfjs-draw-button = فئمیم!
 
