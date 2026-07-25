@@ -74,8 +74,8 @@ permissions-capabilities-listitem-off-temporarily =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = نوم میزبووݩ زیڌه وابیڌه موعتبر نؽ
-permissions-invalid-uri-label = نوم میزبووݩ موعتبری بزنین
+permissions-invalid-uri-title = نوم هاست زیڌه وابیڌه موعتبر نؽ
+permissions-invalid-uri-label = نوم هاست موعتبری بزنین
 
 ## Exceptions - Tracking Protection
 

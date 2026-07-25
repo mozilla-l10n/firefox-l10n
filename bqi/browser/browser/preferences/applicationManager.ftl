@@ -18,5 +18,5 @@ app-manager-handle-file = برنومه یل لمی ترن موئتوا { $type }
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
-app-manager-web-app-info = ای برنومه وب میزبووی وابیڌه من:
+app-manager-web-app-info = ای برنومه وب هاست وابیڌه من:
 app-manager-local-app-info = ای برنومه من ای جاگه هڌس:
