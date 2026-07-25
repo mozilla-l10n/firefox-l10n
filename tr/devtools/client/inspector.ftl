@@ -20,3 +20,27 @@ colorpicker-tooltip-hue-slider-title = Renk tonu
 colorpicker-tooltip-alpha-slider-title = Saydamlık
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Elemana özgü sözde sınıflar
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Bu sayfa için açık renk şeması öykünümünü aç/kapat
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Bu sayfa için koyu renk şeması öykünümünü aç/kapat
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = CSS öykünüm özelliklerini aç/kapat
+    .aria-label = CSS öykünüm özelliklerini aç/kapat
+inspector-emulation-panel-color-scheme = Renk şeması öykünümü
+# A label text for the print emulation options
+inspector-emulation-panel-print = Etkinleştir
+    .aria-label = Yazdırma ortamı öykünümünü etkinleştir
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Açık
+    .aria-label = Açık renk şeması öykünümünü etkinleştir
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Koyu
+    .aria-label = Koyu renk şeması öykünümünü etkinleştir
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Öykünüm yok
+    .aria-label = Renk şeması öykünümünü kapat

@@ -171,6 +171,55 @@ autofill-card-network = Kart türü
 # methods in their region.
 autofill-card-search-term-credit-cards = kredi kartları, kredi, kartlar, banka kartları, banka, cüzdan, ödeme
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Pasaport ekle
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Pasaportu düzenle
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Ad
+autofill-passport-country =
+    .label = Ülke
+autofill-passport-number =
+    .label = Numara
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = AA
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = GG
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = YYYY
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Pasaport kaydedilsin mi?
+passport-capture-save-doorhanger-description = Formları hızlıca doldurmak için bilgileri { -brand-short-name } tarayıcınıza kaydedin.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = Kaydet
+    .accessKey = K
+passport-capture-not-now-button =
+    .label = Şimdi değil
+    .accessKey = m
+passport-capture-never-save-button =
+    .label = Pasaportları asla kaydetme
+    .accessKey = P
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express
