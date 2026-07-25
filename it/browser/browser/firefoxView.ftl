@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Per recuperare le schede aperte 
 firefoxview-tabpickup-step-signin-primarybutton = Continua
 firefoxview-syncedtabs-signin-header-2 = Il tuo { -brand-product-name } su tutti i tuoi dispositivi
 firefoxview-syncedtabs-signin-description-2 = Per visualizzare le schede aperte sul telefono e su altri dispositivi, accedi o crea un account. Con un account puoi anche sincronizzare password, cronologia e altro ancora.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Dal laptop al telefono, senza interruzioni
+firefoxview-syncedtabs-signin-description-3 = Mantieni la tua navigazione connessa su tutti i dispositivi: schede, password e cronologia, tutto sincronizzato.
 firefoxview-syncedtabs-signin-primarybutton-2 = Accedi
 firefoxview-tabpickup-adddevice-header = Sincronizza { -brand-product-name } sul tuo telefono o tablet
 firefoxview-tabpickup-adddevice-description = Scarica { -brand-product-name } per dispositivi mobili e accedi al tuo account.
@@ -40,22 +43,37 @@ firefoxview-tabpickup-adddevice-primarybutton = Ottieni { -brand-product-name } 
 firefoxview-syncedtabs-adddevice-header-2 = Recupera le tue schede da qualsiasi dispositivo
 firefoxview-syncedtabs-adddevice-description-2 = Accedi a { -brand-product-name } dal tuo telefono o da un altro computer per visualizzarne le schede qui. Scopri come <a data-l10n-name="url">connettere altri dispositivi</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prova { -brand-product-name } per dispositivi mobili
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Chiamata persa dalle tue schede. Sono sul tuo telefono.
+firefoxview-syncedtabs-adddevice-description-3 = Scansiona il codice QR per scaricare { -brand-product-name } per dispositivi mobili e iniziare a sincronizzare schede aperte e altro ancora. Scopri come <a data-l10n-name="url">connettere altri dispositivi</a>.
 firefoxview-tabpickup-synctabs-header = Attiva la sincronizzazione delle schede
 firefoxview-tabpickup-synctabs-description = Consenti a { -brand-short-name } di condividere le schede tra i tuoi dispositivi.
 firefoxview-tabpickup-synctabs-learn-how = Scopri come
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizza le schede aperte
+firefoxview-tabpickup-synctabs-primarybutton-2 = Attiva la sincronizzazione delle schede
 firefoxview-syncedtabs-synctabs-header = Aggiorna le impostazioni di sincronizzazione
 firefoxview-syncedtabs-synctabs-description = Per visualizzare le schede da altri dispositivi è necessario attivare la sincronizzazione delle schede aperte.
+firefoxview-syncedtabs-synctabs-header-2 = La sincronizzazione delle schede è disattivata
+firefoxview-syncedtabs-synctabs-description-2 = Attiva la sincronizzazione per avere accesso a tutte le schede da altri dispositivi.
 firefoxview-syncedtabs-loading-header = Sincronizzazione in corso
 firefoxview-syncedtabs-loading-description = Una volta completata, le schede aperte in qualsiasi altro dispositivo verranno visualizzate qui. Controlla più tardi.
+firefoxview-syncedtabs-loading-header-2 = Recupero schede in corso…
+firefoxview-syncedtabs-loading-description-2 = Sincronizzazione in corso. Le schede saranno presto disponibili.
 firefoxview-tabpickup-fxa-admin-disabled-header = La tua organizzazione ha disattivato la sincronizzazione
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non è in grado di sincronizzare le schede tra i tuoi dispositivi in quanto un amministratore ha disattivato la sincronizzazione.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } non è in grado di sincronizzare le schede tra i tuoi dispositivi in quanto la tua organizzazione ha disattivato la sincronizzazione.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = La sincronizzazione delle schede è disattivata
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = La tua organizzazione ha bloccato questa funzione.
 firefoxview-tabpickup-network-offline-header = Verifica la tua connessione a Internet
 firefoxview-tabpickup-network-offline-description = Se utilizzi un firewall o un proxy, verifica che { -brand-short-name } abbia il permesso di accedere a Internet.
 firefoxview-tabpickup-network-offline-primarybutton = Riprova
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } non può connettersi in questo momento
+firefoxview-tabpickup-network-offline-description-2 = Potresti essere offline o qualcosa potrebbe bloccare la connessione.
 firefoxview-tabpickup-sync-error-header = Si è verificato un problema con la sincronizzazione
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } non può raggiungere il servizio per la sincronizzazione in questo momento. Riprova tra qualche istante.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = C’è un problema con la sincronizzazione
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } non è riuscito a connettersi. Attendi qualche istante e riprova
 firefoxview-tabpickup-sync-error-primarybutton = Riprova
 firefoxview-tabpickup-sync-disconnected-header = Attiva la sincronizzazione per continuare
 firefoxview-tabpickup-sync-disconnected-description = Per recuperare le tue schede è necessario attivare la sincronizzazione in { -brand-short-name }.
@@ -65,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = Per recuperare le tue schede
 firefoxview-tabpickup-password-locked-link = Ulteriori informazioni
 firefoxview-tabpickup-password-locked-primarybutton = Inserisci la password principale
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Ulteriori informazioni</a>
+firefoxview-tabpickup-password-locked-header-2 = Sblocca le schede con la tua password principale
+firefoxview-tabpickup-password-locked-description-2 = Per la tua privacy, le schede sincronizzate sono protette. Inserisci la password principale di { -brand-short-name } per visualizzare le schede degli altri dispositivi.
 firefoxview-tabpickup-signed-out-header = Accedi per riconnetterti
 firefoxview-tabpickup-signed-out-description = Per riconnetterti e recuperare le tue schede, accedi al tuo { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Per riconnetterti e recuperare le tue schede, accedi al tuo account.
 firefoxview-tabpickup-signed-out-primarybutton = Accedi
+firefoxview-tabpickup-signed-out-header-2 = Accedi per visualizzare le tue schede
+firefoxview-tabpickup-signed-out-description-2 = Riconnetti per visualizzare le schede da altri dispositivi.
 firefoxview-tabpickup-syncing = Stiamo sincronizzando le tue schede, ci vorrà solo un attimo.
 firefoxview-mobile-promo-header = Recupera le schede aperte sul tuo telefono o tablet
 firefoxview-mobile-promo-description = Per visualizzare le ultime schede che hai aperto sul tuo telefono, accedi a { -brand-product-name } su iOS o Android.
@@ -210,6 +232,10 @@ firefoxview-show-all-history = Mostra tutta la cronologia
 firefoxview-history-empty-header = Ritorna dove sei già stato
 firefoxview-history-empty-description = Inizia a navigare e mostreremo qui le pagine che visiti.
 firefoxview-history-empty-description-two = Proteggere la tua privacy è la nostra priorità. Per questo motivo puoi decidere quali attività { -brand-short-name } debba ricordare nelle <a data-l10n-name="history-settings-url">impostazioni della cronologia</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Il tuo percorso di navigazione inizia qui
+firefoxview-history-empty-description-2 = Man mano che visiti le pagine, la cronologia verrà visualizzata qui. Controlla ciò che viene salvato nelle <a data-l10n-name="history-settings-url">impostazioni</a>.
 
 ##
 
@@ -221,6 +247,9 @@ firefoxview-choose-browser-button = Scegli un browser
 
 firefoxview-dont-remember-history-empty-header-2 = Sei tu a decidere che cosa salvare in { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = Al momento { -brand-short-name } non sta salvando la tua attività di navigazione. Per modificare questa impostazione, <a data-l10n-name="history-settings-url-two">aggiorna le preferenze relative alla cronologia</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = La tua navigazione non verrà salvata
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } non sta salvando la cronologia. Puoi modificare questa scelta in qualsiasi momento nelle <a data-l10n-name="history-settings-url-two">impostazioni</a>.
 
 ##
 
