@@ -23,3 +23,12 @@ inspector-element-specific-pseudo-classes-heading = Ñembokatyry gua’u mba’e
 # A label text for the print emulation options
 inspector-emulation-panel-print = Myandy
     .aria-label = Emyandy mba’éichapa oñembokuatia
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Tesakã
+    .aria-label = Emyandy mba’éichapa sa’y aty hesakãva
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Ypytũ
+    .aria-label = Emyandy mba’éichapa sa’y aty iñypytũva
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Jehechauka’ỹ
+    .aria-label = Eipe’a sa’y aty ñeha’ãha
