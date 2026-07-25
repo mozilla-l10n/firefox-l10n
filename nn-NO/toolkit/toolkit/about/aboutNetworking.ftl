@@ -26,10 +26,47 @@ about-networking-ssl-tokens-summary-count =
         [one] { $count } symbol
        *[other] { $count } symbol
     }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } har gått ut)
+       *[other] ({ $count } har gått ut)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% spart)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Partisjonsnøkkel
+about-networking-ssl-tokens-tokens-column = Symbol
 about-networking-ssl-tokens-expires = Går ut
+about-networking-ssl-tokens-certificate = Sertifikat
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } symbol
+       *[other] { $count } symbol
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Gjenoppretta frå lagring
+    .title = Gjenoppretta frå lagring
+about-networking-ssl-tokens-new =
+    .alt = Nytt i denne økta
+    .title = Nytt i denne økta
 about-networking-ssl-tokens-expired =
     .alt = Utgått
     .title = Utgått
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Symbol: { $tokenLength } B. Koda: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV-sertifikat
+about-networking-ssl-tokens-ct-status = Status for sertifikattransparens
+about-networking-ssl-tokens-overridable-error = Overstyrbar feilkategori
 about-networking-ssl-tokens-built-in-root = Innebygd rotsertifikat
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Sertifikatkjede ({ $count })
