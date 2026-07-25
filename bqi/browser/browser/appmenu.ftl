@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = ولرنیڌن بلگه…
 appmenuitem-zoom =
     .value = زۊم کردن
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = یک رسۊوی { -brand-product-name }
 appmenuitem-more-tools =
     .label = ٱوزارا قلوه
 appmenuitem-help =
