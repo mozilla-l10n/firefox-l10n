@@ -91,12 +91,44 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = ترین موشخس کۊنین چ وبگه یلی ترن هی یا هرگشت دسرسی و کۊکیا وو داده یل وبگهی داشته بۊن. نشۊوی دییق وبگهی ک اخۊین دؽوۉداری کۊنین ن بزنین وو اوسو و ری «مسدۊد کردن»، «هشتن من ای نشست»، یا «هشتن» کلیک کۊنین.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .style = { permissions-window2.style }
+    .title = استسنایل - پاک کردن ویرگار من مجال خامۊش واببڌن
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = مووردا استسنا - هالت تینا HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = ایسا ترین هالت تینا-HTTPS ن سی ی قرده ز وبگه یل قیرفعال کۊنین. { -brand-short-name } تفره سی بؽڌر وابیڌن منپیز من ای وبگه یل و HTTPS نؽکونه. مووردا استسنا من نیمدری یل سیخومی تئسیر نڌارن.
+permissions-exceptions-https-only-desc2 = ایسا ترین هالت تینا-HTTPS ن سی ی قرده ز وبگه یل قیرفعال کۊنین. { -brand-short-name } تفره سی بؽڌر وابیڌن منپیز من ای وبگه یل و HTTPS نؽکونه.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
+    .title = وبگه یل هشته - نیمدری یل گۊشیڌنی وو آلشت تورا شخس سالس
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window2 =
+    .style = { permissions-window2.style }
+    .title = وبگه یل هشته ‐ نیمدری یل گۊشیڌنی
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window2 =
+    .title = استسنایل - و من ٱووڌنا زفت وابیڌه
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-logins-desc = و من ٱووڌن سی و دین کردن وبگه یل اینترنتی ک زفت نوابیڌنه
+
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = استسنایل - رزما زفت وابیڌه
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Notifications
 
