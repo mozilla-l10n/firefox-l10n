@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = ਨਵੀਂ ਸਵਿੱਚ ਦੱਬੋ:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (ਬਦਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,7 @@ customkeys-conflict-confirm-title = ਹੋਰ ਸ਼ਾਰਟਕੱਟ ਨੂੰ �
 customkeys-conflict-confirm-body = ਇਸ ਸਵਿੱਚ ਪਹਿਲਾਂ ਹੀ “{ $conflict }” ਵਲੋਂ ਵਰਤੀ ਜਾ ਰਹੀ ਹੈ।
 customkeys-conflict-confirm-button-confirm = ਕਿਵੇਂ ਵੀ ਵਰਤੋਂ
 customkeys-conflict-confirm-button-cancel = ਰੱਦ ਕਰੋ
+customkeys-conflict-unusable-title = ਕੁੰਜੀ ਨਹੀਂ ਵਰਤੀ ਜਾ ਸਕਦੀ ਹੈ
 customkeys-reset-all-confirm-title = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਹੈ?
 customkeys-reset-all-confirm-body = ਕੋਈ ਵੀ ਤੁਹਾਡਾ ਪਸੰਦੀਦਾ ਬਣਾਇਆ ਹੋਇਆ ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ ਹਟਾਇਆ ਜਾਵੇਗਾ।
 customkeys-reset-all-confirm-button-confirm = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ

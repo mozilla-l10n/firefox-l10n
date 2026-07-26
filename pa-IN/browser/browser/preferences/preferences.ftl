@@ -1216,6 +1216,8 @@ containers-new-tab-check2 =
     .description = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਨਵਾਂ ਟੈਬ ਬਟਨ ਦਬਾਉਂਗੇ ਤਾਂ ਇਸ ਨਾਲ ਹਰ ਵਾਰ ਕਨਟੇਨਰ ਵਾਲਾ ਮੇਨੂ ਖੋਲ੍ਹਿਆ ਜਾਵੇਗਾ।
 containers-settings-button2 =
     .title = ਸੈਟਿੰਗਾਂ
+containers-remove-button3 =
+    .title = ਹਟਾਓ
 containers-remove-button2 =
     .title = ਹਟਾਓ
 
@@ -1684,6 +1686,10 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = ਕੋਈ ਸਿਰਨਾਵਾਂ ਜੋੜਿਆ ਨਹੀਂ ਗਿਆ
+personal-info-group =
+    .label = ਨਿੱਜੀ ਜਾਣਕਾਰੀ
+autofill-personal-info-checkbox-message =
+    .label = ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੰਭਾਲੋ ਅਤੇ ਆਪਣੇ-ਆਪ ਭਰੋ
 pane-passwords-autofill-title2 = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ
     .title = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ
 preferences-passwords-autofill-header =

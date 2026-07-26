@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = { $name } ਕਨਟੇਨਰ ਸੈਟਿੰਗਾਂ
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
+containers-panel-create-button =
+    .label = ਮੁਕੰਮਲ
+containers-panel-cancel-button =
+    .label = ਰੱਦ ਕਰੋ

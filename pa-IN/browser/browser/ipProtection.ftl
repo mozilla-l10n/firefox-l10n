@@ -56,6 +56,10 @@ ipprotection-feature-introduction-button-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = ਤੁਹਾਡੇ ਨਾਲ ਮੌਜੂਦ VPN ਹੁਣ ਹੋਰ ਬੇਹਤਰ ਹੋ ਗਿਆ ਹੈ
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } ਲਵੋ

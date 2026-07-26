@@ -126,6 +126,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = …ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ-ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
     .accesskey = M
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] ਸਾਈਟ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ
+            [1] ਸਾਈਟ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ (1 ਟਰੈਕ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ)
+           *[other] ਸਾਈਟ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ ({ $count } ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ)
+        }
 
 ##
 
@@ -213,6 +222,16 @@ urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } ਦ
 urlbar-result-menu-report-inaccurate-location2 = ਗਲਤ ਟਿਕਾਣੇ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
 urlbar-result-menu-show-less-frequently2 = ਘੱਟ ਵਾਰੀ ਦਿਖਾਓ
 urlbar-result-menu-dont-show-weather-suggestions2 = ਮੌਸਮੀ ਸੁਝਾਅ ਨਾ ਦਿਖਾਓ
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = ਇਸ ਸੁਝਾਅ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
+    .accesskey = I
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = ਹੋਰ ਜਾਣੋ
     .accesskey = L
@@ -403,6 +422,9 @@ quickactions-addons = ਐਡ-ਆਨ ਨੂੰ ਦੇਖੋ
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = ਇਕਸਟੈਨਸ਼ਨ, ਥੀਮ, ਐਡ-ਆਨ, ਐਡਆਨ
+# Opens preferences page at AI controls
+quickactions-manageai = AI ਕੰਟਰੋਲਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+quickactions-cmd-manageai = AI ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ, IA ਨੂੰ ਬੰਦ ਕਰੋ, AI ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 quickactions-cmd-addons2 = ਐਡ-ਆਨ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
@@ -578,6 +600,8 @@ identity-clear-site-data =
     .label = …ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਮਿਟਾਓ
 identity-connection-not-secure-security-view = ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ।
 identity-connection-verified = ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਹੋ।
+identity-ev-owner-label2 = ਸਰਟੀਫਿਕੇਟ ਇਸ ਨੂੰ ਜਾਰੀ ਕੀਤਾ
+identity-verifier-label2 = ਇਸ ਵਲੋਂ ਤਸਦੀਕ ਕੀਤਾ
 identity-ev-owner-label = ਸਰਟੀਫਿਕੇਟ ਇਸ ਨੂੰ ਜਾਰੀ ਕੀਤਾ:
 identity-verifier-label = ਜਾਂਚਿਆ:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -597,6 +621,8 @@ identity-description-passive-loaded-insecure2 = ਇਹ ਵੈੱਬਸਾਈਟ 
 identity-description-passive-loaded-mixed2 = ਹਾਲਾਂਕਿ { -brand-short-name } ਨੇ ਕੁਝ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਪਰ ਸਫ਼ੇ ਉੱਤੇ ਹਾਲੇ ਵੀ ਸਮੱਗਰੀ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ (ਜਿਵੇਂ ਕਿ ਚਿੱਤਰ)।
 identity-description-active-loaded = ਇਸ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਸਮੱਗਰੀ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ (ਜਿਵੇਂ ਕਿ ਸਕ੍ਰਿਪਟਾਂ) ਅਤੇ ਇਸ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਵੀ ਪ੍ਰਾਈਵੇਟ ਨਹੀਂ ਹੈ।
 identity-description-active-loaded-insecure = ਇਸ ਸਾਈਟ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਂਝੀ ਕੀਤੀ ਜਾਣਕਾਰੀ (ਜਿਵੇਂ ਕਿ ਪਾਸਵਰਡ, ਸੁਨੇਹੇ, ਕਰੈਡਿਟ ਕਾਰਡ ਆਦਿ) ਨੂੰ ਹੋਰਾਂ ਵਲੋਂ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+identity-description-tls-key-logging-heading = ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸ਼ਾਇਦ ਪ੍ਰਾਈਵੇਟ ਨਾ ਹੋਵੇ
+identity-description-tls-key-logging-message = ਕੋਈ ਐਪ ਜਾਂ ਸਰਵਿਸ ਇਸ ਸਾਈਟ ਨਾਲ ਤੁਹਾਡੇ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਟਰੈਫਿਕ ਨੂੰ ਵੇਖ ਸਕਦੀ ਹੈ।
 identity-disable-mixed-content-blocking =
     .label = ਸੁਰੱਖਿਆ ਨੂੰ ਹੁਣ ਅਸਮਰੱਥ ਬਣਾਓ
     .accesskey = D
@@ -940,6 +966,50 @@ urlbar-result-explanation-last-visited-absolute = ਤੁਸੀਂ ਆਖਰੀ �
 # Variables:
 #   $date (string) - A localized absolute date string
 urlbar-result-explanation-bookmarked = { $date } ਨੂੰ ਬੁੱਕਮਾਰਕ ਕੀਤਾ
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = ਆਖਰੀ ਵਾਰ { $date } ਨੂੰ ਖੋਲ੍ਹਿਆ
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = ਆਖਰੀ ਵਾਰ { $date } ਨੂੰ ਖੋਲ੍ਹਿਆ
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] ਆਖਰੀ ਵਾਰੀ { $daysAgo } ਦਿਨ ਪਹਿਲਾਂ ਖੋਲ੍ਹਿਆ ਸੀ
+       *[other] ਆਖਰੀ ਵਾਰੀ { $daysAgo } ਦਿਨ ਪਹਿਲਾਂ ਖੋਲ੍ਹਿਆ ਸੀ
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] ਆਖਰੀ ਵਾਰੀ { $weeksAgo } ਹਫ਼ਤਾ ਪਹਿਲਾਂ ਖੋਲ੍ਹਿਆ ਸੀ
+       *[other] ਆਖਰੀ ਵਾਰੀ { $weeksAgo } ਹਫ਼ਤੇ ਪਹਿਲਾਂ ਖੋਲ੍ਹਿਆ ਸੀ
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] ਆਖਰੀ ਵਾਰੀ { $monthsAgo } ਮਹੀਨਾ ਪਹਿਲਾਂ ਖੋਲ੍ਹਿਆ ਸੀ
+       *[other] ਆਖਰੀ ਵਾਰੀ { $monthsAgo } ਮਹੀਨੇ ਪਹਿਲਾਂ ਖੋਲ੍ਹਿਆ ਸੀ
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = ਆਖਰੀ ਵਾਰ { $date } ਨੂੰ ਖੋਲ੍ਹਿਆ
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1065,6 +1135,14 @@ urlbar-searchmode-no-keyword2 =
     .title = ਸ਼ਬਦ ਲਈ ਖੋਜ ਅਸਮੱਰਥ ਕੀਤੀ ਹੈ
 urlbar-searchmode-dropmarker2 =
     .title = ਖੋਜ ਇੰਜਣ ਦੀ ਚੋਣ ਕਰੋ
+urlbar-searchmode-bookmarks3 = ਬੁੱਕਮਾਰਕ
+    .accesskey = B
+urlbar-searchmode-tabs3 = ਟੈਬਾਂ
+    .accesskey = T
+urlbar-searchmode-history3 = ਅਤੀਤ
+    .accesskey = H
+urlbar-searchmode-actions3 = ਕਾਰਵਾਈਆਂ
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = ਬੁੱਕਮਾਰਕ
 urlbar-searchmode-tabs2 = ਟੈਬਾਂ
 urlbar-searchmode-history2 = ਅਤੀਤ
@@ -1084,6 +1162,10 @@ urlbar-searchmode-popup-one-off-header = ਇਹ ਵਾਰ ਖੋਜ ਇਸ ਨ�
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = ਇਸ ਨਾਲ ਖੋਜੋ:
+urlbar-searchmode-popup-search-settings = ਖੋਜ ਸੈਟਿੰਗਾਂ
+    .accesskey = S
+urlbar-searchmode-popup-settings = ਸੈਟਿੰਗਾਂ
+    .accesskey = S
 urlbar-searchmode-popup-search-settings-panelitem = ਖੋਜ ਸੈਟਿੰਗਾਂ
 urlbar-searchmode-popup-settings-panelitem = ਸੈਟਿੰਗਾਂ
 
@@ -1726,6 +1808,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = ਸੁਰੱਖਿਅਤ ਨਹੀਂ
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] { $count } ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

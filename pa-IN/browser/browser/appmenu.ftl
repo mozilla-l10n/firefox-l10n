@@ -402,3 +402,6 @@ fxa-menu-device-view-all-synced-tabs =
             [one] { $tabCount } ਸਿੰਕ ਕੀਤੀ ਟੈਬ ਨੂੰ ਵੇਖੋ
            *[other] ਸਭ { $tabCount }  ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖੋ
         }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ
