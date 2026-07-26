@@ -30,3 +30,12 @@ inspector-emulation-panel-color-scheme = Emulacija barboweje šemy
 # A label text for the print emulation options
 inspector-emulation-panel-print = Zmóžnić
     .aria-label = Emulaciju ćišćerskich medijow zmóžnić
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Swětły
+    .aria-label = Emulaciju swětłeje barbowej šemy zmóžnić
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Ćmowy
+    .aria-label = Emulaciju ćmoweje barboweje šemy zmóžnić
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Žana emulacija
+    .aria-label = Emulaciju barboweje šemy znjemóžnić

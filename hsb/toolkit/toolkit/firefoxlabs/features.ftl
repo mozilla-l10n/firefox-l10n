@@ -102,3 +102,4 @@ experimental-features-tab-notes-description = Noticy rajtarkow su eksperimenteln
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = Optimowany meni rajtarkow
+experimental-features-tab-context-menu-description = Hladajće jednoriši kontekstowy meni, hdyž z prawej tastu na rajtark klikaće. Je so naćisnył, zo by huste akcije lóšo namakał. <a data-l10n-name="connect">Měnjenje dźělić</a>

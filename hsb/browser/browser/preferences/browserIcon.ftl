@@ -33,6 +33,13 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Wudospołńće a wotblokujće bonusowe liškowe symbole, zo byšće { -brand-short-name } personalizował.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Sće wšě bonusowe symbole wotblokował!
 appearance-browser-icon-set-default-button =
     .label = Jako standard wužiwać
 appearance-browser-icon-pin-button =
