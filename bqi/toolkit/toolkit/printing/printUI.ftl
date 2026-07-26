@@ -5,6 +5,13 @@
 printui-title = چاپ
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = زفت و عونوان
+# Variables
+# $sheetCount (integer) - Number of paper sheets
+printui-sheets-count =
+    { $sheetCount ->
+        [one] { $sheetCount } بلگه کاقز
+       *[other] { $sheetCount } بلگه کاقز
+    }
 printui-page-range-all = پوی
 printui-page-range-current = هیم سکویی
 printui-page-range-odd = فرد
@@ -58,7 +65,7 @@ printui-simplify-page-radio = ساڌه وابیڌه
 printui-color-mode-label = هالت رنگی
 printui-color-mode-color = رنگی
 printui-color-mode-bw = شه وو اسبؽڌ
-printui-margins = حاشیه ها
+printui-margins = هاشیه ها
 printui-margins-default = پؽش فرز
 printui-margins-min = هدقل
 printui-margins-none = هیچ کویکسووݩ
@@ -86,3 +93,33 @@ printui-loading = ٱماڌه کردن پؽش نشووݩ
 printui-preview-label =
     .aria-label = پؽش نشووݩ چاپ
 printui-pages-per-sheet = سئفه یل من هر بلگه
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = هونی چاپ ابۊ…
+printui-print-progress-indicator-saving = هونی زفت ابۊ…
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = مقیاس وا عددی منجا 10 تا 200 بۊوه.
+printui-error-invalid-margin = سی هندا کاقز پسند وابیڌه هاشیه موعتبری بزنین.
+printui-error-invalid-copies = لف گیری یل وا ی عدد منجا 1 تا 10000 بۊ.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = تلایه وا ی عدد منجا 1 تا { $numPages } بۊ.
+printui-error-invalid-start-overflow = شوماره بلگه «ز» وا کۊچیر تر ز شوماره بلگه «تا» بۊ.
