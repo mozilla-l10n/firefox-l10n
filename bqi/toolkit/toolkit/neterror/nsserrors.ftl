@@ -34,5 +34,6 @@ ssl-error-rx-malformed-hello-done = SSL ی پیوم ٱولیه Server Hello Done
 ssl-error-rx-malformed-cert-verify = SSL ی پیوم ٱولیه Certificate Verify اشتوا گرؽڌ.
 ssl-error-rx-malformed-client-key-exch = SSL ی پیوم ٱولیه Client Key Exchange اشتوا گرؽڌ.
 ssl-error-rx-malformed-finished = SSL ی پیوم ٱولیه Finished اشتوا گرؽڌ.
+ssl-error-rx-unexpected-certificate = SSL ی پیوم ٱولیه unexpected Certificate اشتوا گرؽڌ.
 ssl-error-user-canceled-alert = منتور ری و ری مرهله نیایی ن لقو کرد.
 sec-error-user-cancelled = منتور دویمه لقو ن فشار داڌ.
