@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Pśecej pókšacowaś
 neterror-pref-reset = Zda se, až waše nastajenja seśoweje wěstoty by mógli to zawinowaś. Cośo standardne nastajenja wótnowiś?
 neterror-error-reporting-automatic = Dajśo zmólki ako toś te k wěsći, aby { -vendor-short-name } pomagał, złosne sedła identificěrował a blokěrował
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Waš zwisk snaź njejo priwatny
+    .message = Nałoženje abo słužba móžo waš skoděrowany wobchad z toś togo sedła wiźeś.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } njamóžo toś ten bok někakeje pśicyny dla cytaś.

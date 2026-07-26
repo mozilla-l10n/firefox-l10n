@@ -72,6 +72,10 @@ about-networking-ssl-tokens-compression-details =
     .title = Tokeny: { $tokenLength } B. Skoděrowany: { $decompressedLength } → { $compressedLength } B.
 about-networking-ssl-tokens-ev-status = EV-certifikat
 about-networking-ssl-tokens-ct-status = Status transparence certifikata
+about-networking-ssl-tokens-overridable-error = Pśepisujobna zmólkowa kategorija
+about-networking-ssl-tokens-built-in-root = Zatwarjony kórjenjowy zapis
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Rjeśazk certifikatow ({ $count })
 about-networking-refresh = Aktualizěrowaś
 about-networking-auto-refresh = Kužde 3 sekundy aktualizěrowaś
 about-networking-hostname = Hostmě

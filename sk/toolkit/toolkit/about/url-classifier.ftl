@@ -37,10 +37,46 @@ url-classifier-cache-prefix = Prefix
 url-classifier-cache-ncache-expiry = Záporná platnosť vo vyrovnávacej pamäti
 url-classifier-cache-fullhash = Plný hash
 url-classifier-cache-pcache-expiry = Kladná platnosť vo vyrovnávacej pamäti
+url-classifier-content-classifier-title = Klasifikátor obsahu
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = URL
+# URL that loads the URL being tested (hence Loading URL)
+# This is the URL of a frame within the document that initiates the request to load another URL
+# (e.g. an iframe that is loading a tracking pixel)
+url-classifier-content-classifier-loading-url = Načítavajúca URL
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = Povoliť načítavajúcu URL
+# URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+# Most often the site URL show in the address bar.
+url-classifier-content-classifier-top-window-url = URL hlavného okna
+# Checkbox label to enable a Top-window URL.
+# When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
+url-classifier-content-classifier-top-window-url-enabled = Povoliť URL hlavného okna
 # Label for a dropdown choosing what type of resource is at the destination (the destination type),
 # such as script, image, stylesheet, etc.
 url-classifier-content-classifier-destination-type = Typ cieľa
+# Header for a group of on/off options (the checkboxes below) that modify how
+# the hypothetical request is classified.
+url-classifier-content-classifier-flags = Prepínače
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = Pokusy
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Výsledky
 url-classifier-content-classifier-pbm = Súkromné prehliadanie
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Vynútiť zobrazenie tretej strany na hlavnom rámci
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Neodporúčaný doplnok
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Skúsiť blokujúce
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Skúsiť anotácie
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.

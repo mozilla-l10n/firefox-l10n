@@ -87,6 +87,7 @@ choose-dialog-privatebrowsing-disabled = W priwatnych woknach znjemóžnjony
 mailto-handler-picker-window =
     .title = Wubjeŕśo swójo e-mailowe nałoženje
     .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = Wubjeŕśo nałoženje, kótarež cośo za e-mailowe wótkaze wužywaś. Móžośo to pózdźej w nastajenjach změniś.
 # Checkbox letting the user keep being prompted with this picker each time they
 # click an email link, instead of remembering the chosen handler.
 mailto-handler-picker-always-ask = Pśi kliknjenju na e-mailowy wótkaz pśecej so pšašaś
