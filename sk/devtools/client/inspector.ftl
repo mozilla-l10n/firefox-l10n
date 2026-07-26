@@ -41,3 +41,6 @@ inspector-emulation-panel-color-scheme-light = Svetlá
 # A label text for the dark color scheme emulation radio button option.
 inspector-emulation-panel-color-scheme-dark = Tmavá
     .aria-label = Povoliť emuláciu tmavej farebnej schémy
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Žiadna emulácia
+    .aria-label = Zakázať emuláciu farebnej schémy

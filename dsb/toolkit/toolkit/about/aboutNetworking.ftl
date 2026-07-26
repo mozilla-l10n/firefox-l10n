@@ -70,6 +70,8 @@ about-networking-ssl-tokens-expired =
 # $compressedLength (Number) - Total size in bytes after compression
 about-networking-ssl-tokens-compression-details =
     .title = Tokeny: { $tokenLength } B. Skoděrowany: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV-certifikat
+about-networking-ssl-tokens-ct-status = Status transparence certifikata
 about-networking-refresh = Aktualizěrowaś
 about-networking-auto-refresh = Kužde 3 sekundy aktualizěrowaś
 about-networking-hostname = Hostmě

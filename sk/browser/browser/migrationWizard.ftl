@@ -197,6 +197,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Dokončené
 migration-safari-password-import-header = Import hesiel zo Safari
+migration-safari-password-import-post-sequoia-step1 = Otvorte na Macu <a data-l10n-name="macos-passwords-app">aplikáciu Heslá</a>
+migration-safari-password-import-post-sequoia-step2 = V hornej časti obrazovky v paneli s ponukami vyberte položky Súbor > Exportovať všetky heslá do súboru…
+migration-safari-password-import-post-sequoia-step3 = Uložte súbor
+migration-safari-password-import-post-sequoia-step4 = Vyberte uložený súbor
 migration-safari-password-import-steps-header = Ak chcete importovať heslá zo Safari:
 migration-safari-password-import-step1 = V Safari otvorte ponuku “Safari” a prejdite na položku Nastavenia > Heslá
 migration-safari-password-import-step2 = Zvoľte tlačidlo <img data-l10n-name="safari-icon-3dots"/> a vyberte možnosť “Exportovať všetky heslá”

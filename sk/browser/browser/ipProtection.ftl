@@ -58,8 +58,26 @@ ipprotection-feature-introduction-button-get-started = Začíname
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Vaše limity pre vstavanú VPN sa obnovia 1. septembra
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Pre väčšie súkromie využite { $maxUsage } GB a až 6 lokalít, aby bolo pri prehliadanie webu vás ťažšie vysledovať.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Vaša vstavaná VPN bola práve vylepšená
+ipprotection-summer-promo-offramp-subscriber-description = Ako predplatiteľ { -mozilla-vpn-brand-name } teraz získate neobmedzenú šírku pásma a viac lokalít.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Ponechajte si svoje dodatočné lokality pre vstavanú VPN
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Urobte si z prehliadača { -brand-product-name } svoj obľúbený prehliadač a po 31. auguste získajte viac ako 20 ďalších lokalít na prehliadanie.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Posuňte sa na vyššiu úroveň s { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Ponechajte si neobmedzenú šírku pásma aj po 31. auguste s viac ako 300 lokalitami na 5 zariadeniach, aby bolo vaše prehliadanie ťažšie vystopovať.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otvoriť VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Nastaviť ako predvolený
 ipprotection-summer-promo-offramp-get-subscription-button = Získajte { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Zavrieť
 
@@ -162,6 +180,8 @@ ipprotection-connection-status-network-error-title-1 = Skontrolujte svoje intern
 ipprotection-connection-status-network-error-description = Pripojte sa na internet a potom skúste zapnúť VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN nie je k dispozícii
     .aria-label = VPN nie je k dispozícii
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Miestne zákony a obmedzenia určujú, kde môžete používať VPN. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 ipprotection-connection-status-blocked-error-description = Miestne zákony nám bránia v poskytovaní služieb VPN v tomto regióne. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

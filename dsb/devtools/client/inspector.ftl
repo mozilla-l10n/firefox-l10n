@@ -27,3 +27,15 @@ inspector-color-scheme-emulation-light =
 inspector-color-scheme-emulation-dark =
     .title = Emulaciju śamneje barwoweje šemy za bok pśešaltowaś
 inspector-emulation-panel-color-scheme = Emulacija barwoweje šemy
+# A label text for the print emulation options
+inspector-emulation-panel-print = Zmóžniś
+    .aria-label = Emulaciju śišćaŕskich medijow zmóžniś
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Swětły
+    .aria-label = Emulaciju swětłeje barwoweje šemy zmóžniś
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Śamny
+    .aria-label = Emulaciju śamneje barwoweje šemy zmóžniś
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Žedna emulacija
+    .aria-label = Emulaciju barwoweje šemy znjemóžniś
