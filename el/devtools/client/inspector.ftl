@@ -20,6 +20,16 @@ colorpicker-tooltip-hue-slider-title = Απόχρωση
 colorpicker-tooltip-alpha-slider-title = Αδιαφάνεια
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Ψευδοκλάσεις συγκεκριμένου στοιχείου
+inspector-emulation-panel-color-scheme = Εξομοίωση συνόλου χρωμάτων
 # A label text for the print emulation options
 inspector-emulation-panel-print = Ενεργοποίηση
     .aria-label = Ενεργοποίηση εξομοίωσης μέσων εκτύπωσης
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Ανοιχτόχρωμο
+    .aria-label = Ενεργοποίηση της εξομοίωσης ανοιχτόχρωμου συνόλου χρωμάτων
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Σκουρόχρωμο
+    .aria-label = Ενεργοποίηση της εξομοίωσης σκουρόχρωμου συνόλου χρωμάτων
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Χωρίς εξομοίωση
+    .aria-label = Απενεργοποίηση της εξομοίωσης συνόλου χρωμάτων

@@ -16,7 +16,7 @@ about-networking-alt-svc = Alt-Svc
 about-networking-alt-svc-origin = Προέλευση
 about-networking-alt-svc-alternate = Εναλλακτικό
 about-networking-alt-svc-alpn = ALPN
-about-networking-alt-svc-validated = Επικυρώθηκε
+about-networking-alt-svc-validated = Επικύρωση
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Κλειδί απομόνωσης
 about-networking-ssl-tokens = Διακριτικά TLS
@@ -40,6 +40,7 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Κλειδί διαμερίσματος
 about-networking-ssl-tokens-tokens-column = Διακριτικά
 about-networking-ssl-tokens-expires = Λήξη
 about-networking-ssl-tokens-certificate = Πιστοποιητικό
@@ -49,9 +50,23 @@ about-networking-ssl-tokens-token-list =
         [one] { $count } διακριτικό
        *[other] { $count } διακριτικά
     }
+about-networking-ssl-tokens-restored =
+    .alt = Έγινε ανάκτηση από τον αποθηκευτικό χώρο
+    .title = Έγινε ανάκτηση από τον αποθηκευτικό χώρο
 about-networking-ssl-tokens-new =
     .alt = Νέο σε αυτήν τη συνεδρία
     .title = Νέο σε αυτήν τη συνεδρία
+about-networking-ssl-tokens-expired =
+    .alt = Έληξε
+    .title = Έληξε
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Διακριτικά: { $tokenLength } B. Κωδικοποιημένα: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = Πιστοποιητικό EV
+about-networking-ssl-tokens-ct-status = Κατάσταση διαφάνειας πιστοποιητικού
+about-networking-ssl-tokens-overridable-error = Παραβλέψιμη κατηγορία σφάλματος
 about-networking-ssl-tokens-built-in-root = Ενσωματωμένη ρίζα
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Αλυσίδα πιστοποιητικών ({ $count })

@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Ανακάλυψη επεκτάσεων
 unified-extensions-empty-reason-private-browsing-not-allowed = Έχετε εγκαταστήσει επεκτάσεις, αλλά δεν τις έχετε ενεργοποιήσει για ιδιωτικά παράθυρα
 unified-extensions-empty-reason-extension-not-enabled = Έχετε εγκαταστήσει επεκτάσεις, αλλά δεν τις έχετε ενεργοποιήσει
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Μερικές επεκτάσεις κάνουν τη διαφορά
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Εξελίξτε την περιήγησή σας με τις επεκτάσεις
 unified-extensions-empty-content-explain-enable2 = Επιλέξτε «{ unified-extensions-manage-extensions.label }» για να τις ενεργοποιήσετε στις ρυθμίσεις.
 unified-extensions-empty-content-explain-manage2 = Επιλέξτε «{ unified-extensions-manage-extensions.label }» για να τις διαχειριστείτε στις ρυθμίσεις.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Έχουμε κάποιες προτάσεις για να βελτιώσετε τη συγκέντρωσή σας, την ιδιωτικότητά σας και πολλά άλλα.
 unified-extensions-empty-content-explain-extensions-onboarding = Εξατομικεύστε το { -brand-short-name } αλλάζοντας την εμφάνιση και τις επιδόσεις του ή ενισχύοντας το απόρρητο και την ασφάλεια.
 
 ## An extension in the main list
