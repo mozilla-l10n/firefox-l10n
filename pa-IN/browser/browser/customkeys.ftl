@@ -93,6 +93,9 @@ customkeys-conflict-confirm-body = ਇਸ ਸਵਿੱਚ ਪਹਿਲਾਂ ਹ
 customkeys-conflict-confirm-button-confirm = ਕਿਵੇਂ ਵੀ ਵਰਤੋਂ
 customkeys-conflict-confirm-button-cancel = ਰੱਦ ਕਰੋ
 customkeys-conflict-unusable-title = ਕੁੰਜੀ ਨਹੀਂ ਵਰਤੀ ਜਾ ਸਕਦੀ ਹੈ
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = ਇਸ ਕੁੰਜੀ ਨੂੰ “{ $conflict }” ਵਲੋਂ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ ਗਿਆ ਹੈ ਅਤੇ ਹੁਣ ਵਰਤਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।
 customkeys-reset-all-confirm-title = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਹੈ?
 customkeys-reset-all-confirm-body = ਕੋਈ ਵੀ ਤੁਹਾਡਾ ਪਸੰਦੀਦਾ ਬਣਾਇਆ ਹੋਇਆ ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ ਹਟਾਇਆ ਜਾਵੇਗਾ।
 customkeys-reset-all-confirm-button-confirm = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ

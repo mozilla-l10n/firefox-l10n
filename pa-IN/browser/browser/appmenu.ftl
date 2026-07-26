@@ -146,6 +146,10 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = ਸਾਰੇ ਡਿਵਾਈਸ
+fxa-menu-get-firefox-mobile =
+    .label = ਐਂਡਰਾਈਡ or iOS ਲਈ { -brand-product-name } ਲਵੋ
+fxa-menu-secure-sync-subpanel =
+    .title = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = ਖਾਤਾ
 # Variables
@@ -302,6 +306,9 @@ appmenu-help-share-ideas =
     .accesskey = S
 appmenu-help-switch-device =
     .label = ਨਵੇਂ ਡਿਵਾਈਸ ਲਈ ਬਦਲਣਾ
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = ਮਦਦ ਅਤੇ ਰਿਪੋਰਟ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -340,11 +347,17 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ
+appmenuitem-monitor-title2 = ਪਛਾਣ ਚੋਰੀ ਹੋਣ ਤੋਂ ਸਾਵਧਾਨ ਰਹੋ
+appmenuitem-monitor-description2 = ਡਾਟਾ ਉਲੰਘਣਾ ਬਾਰੇ ਚੇਤਾਵਨੀਆਂ ਲਵੋ
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = ਡਾਟਾ ਉਲੰਘਣਾਵਾਂ ਬਾਰੇ ਚੇਤਾਵਨੀਆਂ ਲਵੋ
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = ਆਪਣੀ ਈਮੇਲ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖੋ
+appmenuitem-relay-description2 = ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਨੂੰ ਸਪੈਮ ਤੋਂ ਬਚਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ
 appmenuitem-relay-description = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਅਤੇ ਫ਼ੋਨ ਨੂੰ ਲੁਕਾਓ
 appmenuitem-services-relay-description = ਈਮੇਲ ਮਾਸਕ ਡੈਸ਼ਬੋਰਡ ਨੂੰ ਚਲਾਓ
+appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } ਨਾਲ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ
+appmenuitem-vpn-description3 = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਸੂਹ ਲੈਣ ਨੂੰ ਔਖਾ ਬਣਾਓ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = ਪੂਰੇ-ਡਿਵਾਈਸ ਲਈ ਸੁਰੱਖਿਆ ਲਵੋ
 appmenuitem-vpn-description = ਆਪਣੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ

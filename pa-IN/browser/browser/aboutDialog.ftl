@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = ਸੁਝਾਅ ਭੇਜੋ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ਭਾਈਚਾਰਾ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਆਜ਼ਾਦ, ਜਨਤਕ ਅਤੇ ਹਰੇਕ ਦੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖਣ ਲਈ ਰਲ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨ ਵਾਲਾ ਇੱਕ <label data-l10n-name="community-exp-creditsLink">ਆਲਮੀ ਭਾਈਚਾਰਾ</label> ਹੈ।
 community-2 = { -brand-short-name } ਨੂੰ  <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> ਨੇ ਬਣਾਇਆ ਹੈ, ਜੋ ਕਿ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਆਜ਼ਾਦ, ਜਨਤਕ ਅਤੇ ਹਰੇਕ ਦੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖਣ ਲਈ ਰਲ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨ ਵਾਲਾ ਇੱਕ <label data-l10n-name="community-creditsLink">ਆਲਮੀ ਭਾਈਚਾਰਾ</label> ਹੈ।
 helpus = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <label data-l10n-name="helpus-donateLink">ਦਾਨ ਦਿਓ</label> ਜਾਂ <label data-l10n-name="helpus-getInvolvedLink">ਹਿੱਸਾ ਲਵੋ!</label>
+helpus-referrals = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <label data-l10n-name="helpus-donateLink">ਦਾਨ ਕਰੋ</label>, <label data-l10n-name="helpus-shareFirefoxLink">{ -brand-short-name }ਨੂੰ ਸਾਂਝਾ ਕਰੋ</label>, ਜਾਂ <label data-l10n-name="helpus-getInvolvedLink">ਹਿੱਸਾ ਲਵੋ!</label>
 bottomLinks-license = ਲਸੰਸ ਬਾਰੇ ਜਾਣਕਾਰੀ
 bottom-links-terms = ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ
 bottom-links-privacy = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ

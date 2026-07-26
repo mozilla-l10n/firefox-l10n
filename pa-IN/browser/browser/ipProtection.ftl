@@ -56,6 +56,11 @@ ipprotection-feature-introduction-button-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = ਤੁਹਾਡੇ ਨਾਲ ਮੌਜੂਦ VPN ਦੀ ਹੱਦ 1 ਸਤੰਬਰ ਨੂੰ ਮੁੜ-ਸੈਟ ਹੁੰਦੀ ਹੈ
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਵਾਪਸ ਤੁਹਾਡੇ ਤੱਕ ਸੂਹ ਲੈਣ ਤੋਂ ਹੋਰ ਔਖਾ ਬਣਾਉਣ ਵਾਸਤੇ ਵਾਧੂ ਪਰਦੇਦਾਰੀ ਲਈ ਆਪਣੇ { $maxUsage } GB ਅਤੇ 6 ਟਿਕਾਣਿਆਂ ਨੂੰ ਵਰਤੋਂ।
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
