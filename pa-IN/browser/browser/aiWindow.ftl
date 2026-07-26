@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = ਕਲਾਸਿਕ ਵਿੰਡੋ
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } ਸਵਿੱਚਰ
+    .tooltiptext = ਸਮਾਰਟ ਅਤੇ ਕਲਾਸਿਕ ਵਿੰਡੋ ਵਿਚਾਲੇ ਬਦਲ
 
 ## Input CTA
 
@@ -103,6 +106,8 @@ aiwindow-firstrun-model-fast-body = ਫ਼ੌਰਨ ਜਵਾਬ ਦਿਓ
 aiwindow-firstrun-model-chip-subtitle = { $ownerName } ਵਲੋਂ { $model } ਮਾਡਲ
 aiwindow-firstrun-model-allpurpose-label = ਲਚਕਦਾਰ
 aiwindow-firstrun-model-allpurpose-body = ਬਹੁਤੀਆਂ ਲੋੜਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = ਸਿਫ਼ਾਰਸ਼ੀ
 aiwindow-firstrun-model-personal-label = ਨਿੱਜੀ
 aiwindow-firstrun-model-personal-body = ਸਭ ਤੋਂ ਵੱਧ ਢੁੱਕਵੇਂ ਜਵਾਬ
 aiwindow-firstrun-button = ਆਓ ਚੱਲੀਏ
@@ -152,6 +157,12 @@ aiwindow-firstrun-default-checkbox-description = ਕਿਸੇ ਵੀ ਵੇਲ�
 
 smartwindow-ask-button =
     .label = ਪੁੱਛੋ
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = ਮੇਰੀਆਂ ਟੈਬਾਂ ਗਰੁੱਪ
+    .tooltiptext = ਮੇਰੀਆਂ ਟੈਬਾਂ ਗਰੁੱਪ ਕਰੋ
 
 ## Memories toggle button
 
@@ -304,3 +315,11 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = ਸਵਿੱਚ ਬਦਲੋ: ਗਰਿੱਡ ਝਲਕ
     .tooltiptext = ਗਰਿੱਡ ਦੇ ਰੂਪ ਵਿੱਚ ਝਲਕ
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-improve = ਲਿਖਣ ਨੂੰ ਸੁਧਾਰੋ

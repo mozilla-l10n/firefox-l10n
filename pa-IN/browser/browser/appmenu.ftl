@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ — ਸਿਸਟਮ ਮਾਫ਼ਕ ਨਹੀਂ ਹੈ
 appmenuitem-banner-update-restart =
     .label = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+appmenu-nova-update-title = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+appmenu-nova-update-description = ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਖੋਲ੍ਹੀਆਂ ਜਾਣਗੀਆਂ।
 appmenu-nova-fxa-sign-in = ਸਾਈਨ ਇਨ
 appmenu-nova-switch-device-promo =
     .message = ਛੇਤੀ ਹੀ ਨਵਾਂ ਡਿਵਾਈਸ ਲੈ ਰਹੇ ਹੋ? { -brand-short-name } ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ!
@@ -47,8 +49,15 @@ appmenuitem-translate =
     .label = …ਸਫ਼ੇ ਦਾ ਉਲੱਥਾ
 appmenuitem-zoom =
     .value = ਜ਼ੂਮ
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = { -brand-product-name } ਸਾਂਝਾ ਕਰੋ
 appmenuitem-more-tools =
     .label = ਹੋਰ ਟੂਲ
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = ਮਦਦ ਅਤੇ ਰਿਪੋਰਟ
 appmenuitem-help =
     .label = ਮਦਦ
 appmenuitem-exit2 =
@@ -107,6 +116,36 @@ appmenu-remote-tabs-unverified = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਤ�
 appmenuitem-fxa-toolbar-sync-now2 = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 appmenuitem-fxa-sign-in = { -brand-product-name } ‘ਚ ਸਾਈਨ ਇਨ ਕਰੋ
 appmenuitem-fxa-manage-account = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+fxa-menu-sync-status-on = ਸਿੰਕ ਚਾਲੂ ਹੈ
+fxa-menu-sync-status-off = ਸਿੰਕ ਬੰਦ ਹੈ
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = ਤੁਹਾਡਾ ਡਾਟਾ ਸਿੰਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = ਚਾਲੂ ਕਰੋ
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = { $deviceName } ਨੂੰ ਹੁਣ ਸਿੰਕ ਕਰੋ
+fxa-menu-manage-sync-settings =
+    .label = ਸਿੰਕ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+fxa-menu-add-device =
+    .label = ਇੱਕ ਡਿਵਾਈਸ ਜੋੜੋ
+fxa-menu-manage-devices =
+    .label = ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+fxa-menu-device-missing =
+    .label = ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਦਿਖਾਈ ਨਹੀਂ ਦਿੰਦਾ ਹੈ?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = ਸਾਰੇ ਡਿਵਾਈਸ
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = ਸਾਰੇ ਡਿਵਾਈਸ
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = ਖਾਤਾ
 # Variables
@@ -313,6 +352,10 @@ appmenu-services-header = ਮੇਰੀਆਂ ਸੇਵਾਵਾਂ
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
+appmenu-other-protection-header3 = ਪਰਦੇਦਾਰੀ ਟੂਲ
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
 appmenu-other-protection-header2 = Mozilla ਦੇ ਹੋਰ ਸੁਰੱਖਿਆ ਟੂਲਾਂ ਨੂੰ ਅਜ਼ਮਾਓ:
 appmenu-other-protection-header = { -vendor-short-name } ਵਲੋਂ ਹੋਰ ਸੁਰੱਖਿਆ ਦੇਣ ਵਾਲੇ ਟੂਲਾਂ ਨੂੰ ਅਜ਼ਮਾਓ:
 
@@ -323,9 +366,39 @@ appmenu-manage-profiles =
     .label = ਪਰੋਫਾਇਲਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 appmenu-copy-profile =
     .label = ਇਸ ਪਰੋਫ਼ਾਈਲ ਨੂੰ ਕਾਪੀ ਕਰੋ
+appmenu-create-profile2 =
+    .label = ਨਵਾਂ ਪਰੋਫਾਈਲ ਬਣਾਓ
 appmenu-create-profile =
     .label = ਨਵਾਂ ਪਰੋਫਾਇਲ
 appmenu-edit-profile =
     .aria-label = ਪਰੋਫਾਇਲ ਨੂੰ ਸੋਧੋ
+appmenu-edit-this-profile =
+    .label = ਇਹ ਪਰੋਫ਼ਾਈਲ ਨੂੰ ਸੋਧੋ
+appmenu-profile-current-in-use = ਵਰਤੋਂ ਵਿੱਚ ਮੌਜੂਦਾ ਪਰੋਫ਼ਾਈਲ
+fxa-menu-create-profile-subpanel =
+    .title = ਨਵਾਂ ਪਰੋਫਾਈਲ ਬਣਾਓ
+fxa-menu-create-profile-heading = ਨਵੇਂ ਪਰੋਫ਼ਾਈਲ ਨਾਲ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦਾ ਪੱਧਰ ਵਧਾਓ
+fxa-menu-create-profile-description = ਕੰਮ ਅਤੇ ਨਿੱਜੀ ਬਰਾਊਜ਼ਿੰਗ ਵਾਸਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਅਤੀਤ ਨੂੰ ਵੱਖੋ-ਵੱਖਰਾ ਰੱਖੋ।
+fxa-menu-create-profile-confirm =
+    .label = ਨਵਾਂ ਪਰੋਫਾਈਲ ਬਣਾਓ
+fxa-menu-create-profile-learn-more =
+    .label = ਪਰੋਫ਼ਾਈਲ ਕੀ ਹੁੰਦੇ ਹਨ?
 appmenu-profiles-2 =
     .label = ਪਰੋਫਾਇਲ
+appmenu-profiles-header = ਪਰੋਫ਼ਾਈਲ
+appmenu-all-profiles =
+    .label = ਸਭ ਪਰੋਫ਼ਾਈਲ
+appmenu-secure-sync-header = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = ਸੱਜਰੀਆਂ ਟੈਬਾਂ
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } ਸਿੰਕ ਕੀਤੀ ਟੈਬ ਨੂੰ ਵੇਖੋ
+           *[other] ਸਭ { $tabCount }  ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖੋ
+        }
