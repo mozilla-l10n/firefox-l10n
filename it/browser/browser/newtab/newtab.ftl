@@ -899,7 +899,7 @@ newtab-wallpaper-celestial-river = Immagine satellitare di un fiume
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast =
-    .title = Mostre le previsioni meteo in { $provider }
+    .title = Mostra le previsioni meteo in { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsorizzato
@@ -950,7 +950,7 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Mostre le previsioni meteo in { $provider }
+    .title = Mostra le previsioni meteo in { $provider }
     .aria-description = { $provider } ∙ Sponsorizzato
 
 ## Topic Labels
@@ -1208,7 +1208,7 @@ newtab-widget-section-maximize =
     .aria-label = Espandi tutti i widget alla massima dimensione
 newtab-widget-section-minimize =
     .title = Minimizza widget
-    .aria-label = Comprimi tutti i widget alle dimensione più compatta
+    .aria-label = Comprimi tutti i widget alla dimensione più compatta
 newtab-widget-section-menu-button =
     .title = Menu widget
     .aria-label = Apri il menu widget

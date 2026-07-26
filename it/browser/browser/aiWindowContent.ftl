@@ -151,7 +151,7 @@ smart-window-ungrouped-row-label =
 
 ## Action log
 
-action-log-searching-tabs = Ricerca nella schede
+action-log-searching-tabs = Ricerca nelle schede
 action-log-searched-open-tabs = Ricerca nelle schede aperte completata
 action-log-searching-history = Ricerca nella cronologia
 action-log-searched-history = Ricerca nella cronologia completata

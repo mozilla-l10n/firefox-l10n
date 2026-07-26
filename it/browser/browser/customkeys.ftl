@@ -89,7 +89,7 @@ customkeys-key-unchangeable = (non modificabile)
 customkeys-conflict-confirm-title = Rimuovere un’altra scorciatoia?
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
-customkeys-conflict-confirm-body = Questo tasto è già utilizzata da “{ $conflict }”.
+customkeys-conflict-confirm-body = Questo tasto è già utilizzato da “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Utilizza comunque
 customkeys-conflict-confirm-button-cancel = Annulla
 customkeys-conflict-unusable-title = Impossibile utilizzare questo tasto

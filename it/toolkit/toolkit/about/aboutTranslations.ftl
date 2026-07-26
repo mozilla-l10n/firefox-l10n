@@ -14,7 +14,7 @@ about-translations-unsupported-info-message-2 =
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = La funzione di traduzione non è disponibile per la tua organizzazione
-    .message = Questa è un criterio impostato dall’amministratore.
+    .message = Questo è un criterio impostato dall’amministratore.
 # An info message displayed when translations are disabled but can still be unblocked.
 about-translations-feature-blocked-info-message =
     .heading = Per tradurre del testo, sblocca questa funzione

@@ -62,7 +62,7 @@ about-webrtc-sdp-parsing-errors-heading = Errori elaborazione SDP
 # "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
 # specification, and should not normally be translated. "Stats" is an
 # abbreviation for Statistics.
-about-webrtc-rtp-stats-heading = RTPStats
+about-webrtc-rtp-stats-heading = RTP Stats
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
