@@ -1695,6 +1695,10 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Zatiaľ neboli pridané žiadne adresy
+personal-info-group =
+    .label = Osobné údaje
+autofill-personal-info-checkbox-message =
+    .label = Ukladať a automaticky dopĺňať osobné údaje
 pane-passwords-autofill-title2 = Heslá a automatické dopĺňanie
     .title = Heslá a automatické dopĺňanie
 preferences-passwords-autofill-header =
