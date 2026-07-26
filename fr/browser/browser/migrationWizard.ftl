@@ -218,7 +218,7 @@ migration-safari-password-import-select-button = Sélectionner un fichier
 #  $quantity (Number): the number of successfully imported bookmarks
 migration-wizard-progress-success-bookmarks =
     { $quantity ->
-        [one] { $amount } marque-page
+        [one] { $quantity } marque-page
        *[other] { $quantity } marque-pages
     }
 # Shown in the migration wizard after importing bookmarks from either
