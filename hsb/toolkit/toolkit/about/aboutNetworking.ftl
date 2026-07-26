@@ -70,6 +70,12 @@ about-networking-ssl-tokens-expired =
 # $compressedLength (Number) - Total size in bytes after compression
 about-networking-ssl-tokens-compression-details =
     .title = Tokeny: { $tokenLength } B. Skoděrowany: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV-certifikat
+about-networking-ssl-tokens-ct-status = Status transparency certifikata
+about-networking-ssl-tokens-overridable-error = Přepisomna zmylkowa kategorija
+about-networking-ssl-tokens-built-in-root = Zatwarjeny korjenjowy zapis
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Rjećazk certifikatow ({ $count })
 about-networking-refresh = Aktualizować
 about-networking-auto-refresh = Kóžde 3 sekundy aktualizować
 about-networking-hostname = Hostmjeno

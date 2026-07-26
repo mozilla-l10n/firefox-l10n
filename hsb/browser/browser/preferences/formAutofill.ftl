@@ -220,6 +220,9 @@ passport-capture-save-button =
 passport-capture-not-now-button =
     .label = Nic nětko
     .accessKey = n
+passport-capture-never-save-button =
+    .label = Pućowanske pasy ženje njeskładować
+    .accessKey = P
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -27,3 +27,6 @@ inspector-color-scheme-emulation-light =
 inspector-color-scheme-emulation-dark =
     .title = Emulaciju ćmoweje barboweje šemy za stronu přepinać
 inspector-emulation-panel-color-scheme = Emulacija barboweje šemy
+# A label text for the print emulation options
+inspector-emulation-panel-print = Zmóžnić
+    .aria-label = Emulaciju ćišćerskich medijow zmóžnić
