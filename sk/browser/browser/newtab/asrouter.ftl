@@ -299,6 +299,20 @@ launch-on-login-infobar-final-message = <strong>Otvoriť { -brand-short-name(cas
 launch-on-login-infobar-final-reject-button = Nie, ďakujem
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } sa teraz spustí pri prihlásení do systému Windows. Toto nastavenie môžete kedykoľvek neskôr zmeniť v nastaveniach.
+launch-on-login-autostart-infobar-keep-button = Ponechať zapnuté
+    .accesskey = o
+launch-on-login-autostart-infobar-turn-off-button = Vypnúť
+    .accesskey = V
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -497,3 +511,21 @@ nova-early-access-share-feedback-link = Zdieľať spätnú väzbu
     .accesskey = Z
 nova-early-access-infobar-primary-button = Rozumiem
     .accesskey = R
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Spustiť { -brand-short-name(case: "acc") } pri každom prihlásení do Windowsu?
+launch-options-spotlight-title-session-restore = Znovu otvoriť reláciu po reštartovaní { -brand-short-name(case: "gen") }?
+launch-options-spotlight-checkbox-launch-on-login = Otvárať { -brand-short-name(case: "acc") } pri spustení
+launch-options-spotlight-checkbox-pin-to-taskbar = Pripnúť na panel úloh
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Znovu otvoriť aktuálne okná a karty
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Znovu otvoriť predchádzajúce okná a karty
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Uložiť a zavrieť { -brand-short-name(case: "acc") }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Uložiť a pokračovať

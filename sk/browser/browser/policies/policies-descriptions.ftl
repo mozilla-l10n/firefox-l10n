@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
 policy-Bookmarks = Vytvorí záložku na paneli záložiek, v ponuke alebo vo vybranom priečinku.
 policy-CaptivePortal = Povolenie alebo zakázanie podpory pre captive portály.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Povolí dohodu o kľúčoch CNSA 2.0 ML-KEM-1024 pre TLS.
 policy-ContentAnalysis = Povolí alebo zakáže pripojenie k agentovi ochrany pred stratou údajov.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
 # Containers in this context is referring to container tabs in Firefox.

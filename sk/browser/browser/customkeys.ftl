@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Stlačte nový kláves:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (nedá sa zmeniť)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Odstrániť ďalšiu skratku?
 customkeys-conflict-confirm-body = Túto klávesu už používa skratka pre “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Použiť aj tak
 customkeys-conflict-confirm-button-cancel = Zrušiť
+customkeys-conflict-unusable-title = Kľúč nie je možné použiť
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Tento kľúč už používa pre akciu “{ $conflict }” a nemožno ho použiť.
 customkeys-reset-all-confirm-title = Obnoviť predvolené hodnoty?
 customkeys-reset-all-confirm-body = Všetky vlastné klávesové skratky, ktoré ste vytvorili, budú odstránené.
 customkeys-reset-all-confirm-button-confirm = Obnoviť predvolené

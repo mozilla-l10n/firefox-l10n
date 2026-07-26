@@ -17,6 +17,7 @@ confirmation-hint-address-updated = Adresa bola aktualizovaná
 confirmation-hint-credit-card-created = Karta bola uložená
 confirmation-hint-credit-card-updated = Karta bola aktualizovaná
 confirmation-hint-passport-created = Pas bol uložený
+confirmation-hint-passport-updated = Pas bol aktualizovaný
 confirmation-hint-pin-tab = Pripnuté!
 confirmation-hint-pin-tab-description = Kartu odopnete tak, že na ňu kliknete pravým tlačidlom.
 confirmation-hint-send-to-device = Odoslané!

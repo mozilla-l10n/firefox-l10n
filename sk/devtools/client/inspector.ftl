@@ -20,6 +20,17 @@ colorpicker-tooltip-hue-slider-title = Odtieň
 colorpicker-tooltip-alpha-slider-title = Priehľadnosť
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseudotriedy špecifické pre prvok
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Prepnúť emuláciu svetlej farebnej schémy pre stránku
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Prepnúť emuláciu tmavej farebnej schémy pre stránku
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = Prepnúť funkcie emulácie CSS
+    .aria-label = Prepnúť funkcie emulácie CSS
 inspector-emulation-panel-color-scheme = Emulácia farebnej schémy
 # A label text for the print emulation options
 inspector-emulation-panel-print = Povoliť

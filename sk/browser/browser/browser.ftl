@@ -126,6 +126,18 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Spravovať nastavenia vyskakovacích okien a presmerovaní tretích strán…
     .accesskey = S
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Zobraziť informácie o stránke
+            [1] Zobraziť informácie o stránke (1 zablokovaný sledovací prvok)
+            [one] Zobraziť informácie o stránke (1 zablokovaný sledovací prvok)
+            [few] Zobraziť informácie o stránke ({ $count } zablokované sledovacie prvky)
+            [many] Zobraziť informácie o stránke ({ $count } zablokovaných sledovacích prvkov)
+           *[other] Zobraziť informácie o stránke ({ $count } zablokovaných sledovacích prvkov)
+        }
 
 ##
 
@@ -1836,6 +1848,16 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Nezabezpečené
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } zablokovaný sledovací prvok
+        [few] { $count } zablokované sledovacie prvky
+        [many] { $count } zablokovaných sledovacích prvkov
+       *[other] { $count } zablokovaných sledovacích prvkov
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
