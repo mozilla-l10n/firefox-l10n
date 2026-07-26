@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Άνοιγμα νέου ιδιωτικού παραθύρου
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Κλασικό παράθυρο
+toolbar-switcher-customizable-label =
+    .label = Εναλλαγή { -smart-window-brand-name(form: "lowerSingularGen") }
+    .tooltiptext = Εναλλαγή μεταξύ έξυπνων και κλασικών παραθύρων.
 
 ## Input CTA
 
@@ -333,5 +336,12 @@ aiwindow-ai-chat-grid-grid-view =
 ## When localizing, please write them as short instructions a user would give to an assistant.
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
+aiwindow-starter-writing-first-draft = Σύνταξη πρώτου προσχέδιου
+aiwindow-starter-writing-improve = Βελτίωση γραφής
+aiwindow-starter-writing-proofread = Επιμέλεια μηνύματος
+aiwindow-starter-planning-simplify = Απλοποίηση θέματος
+aiwindow-starter-planning-brainstorm = Εύρεση ιδεών
+aiwindow-starter-planning-plan = Οργάνωση πλάνου
+aiwindow-starter-browsing-history = Εύρεση καρτελών στο ιστορικό
 aiwindow-starter-browsing-summarize = Σύνοψη καρτελών
 aiwindow-starter-browsing-compare = Σύγκριση καρτελών
