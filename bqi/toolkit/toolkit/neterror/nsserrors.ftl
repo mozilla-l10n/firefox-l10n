@@ -8,5 +8,7 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
+psmerr-ssl-disabled = نترست منپیز ٱمن ن ره ونه، چیناکه قرارداد SSL قیرفعال وابیڌه.
+psmerr-ssl2-disabled = نترست منپیز ٱمن ن ره ونه، چیناکه ای وبگه نوسخه یل قڌیمی وو قیر ٱمن قرارداد SSL ن و کار گرؽڌه.
 ssl-error-user-canceled-alert = منتور ری و ری مرهله نیایی ن لقو کرد.
 sec-error-user-cancelled = منتور دویمه لقو ن فشار داڌ.

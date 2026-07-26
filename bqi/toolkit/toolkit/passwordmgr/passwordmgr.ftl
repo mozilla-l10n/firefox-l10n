@@ -23,11 +23,15 @@ password-manager-update-password-message = ورۊ کردن رزم سی { $host }
 password-manager-update-password-button-delete =
     .label = پاک کردن رزم زفت وابیڌه
     .accesskey = R
+password-manager-update-login-add-username = ٱووردن نوم منتوری و رزم زفت وابیڌه؟
 password-manager-password-password-button-allow =
     .label = ورۊ رسۊوی
     .accesskey = U
 password-manager-update-password-button-deny =
     .label = ورۊ رسۊوی نبۊوه
     .accesskey = D
+primary-password-prompt-message = رزم ٱسلی خوتووݩ ن بزنین.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = بؽ نوم منتوری
+password-manager-confirm-password-change = تاییڌ آلشت رزم
+password-manager-select-username = پسند کۊنین کو و من ٱووڌن ورۊ رسۊوی بۊ:
