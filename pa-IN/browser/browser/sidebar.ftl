@@ -72,6 +72,8 @@ sidebar-settings =
     .label = ਬਾਹੀ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
 sidebar-hide-tabs-and-sidebar =
     .label = ਟੈਬਾਂ ਅਤੇ ਬਾਹੀ ਨੂੰ ਲੁਕਾਓ
+sidebar-open-tools-from-sidebar =
+    .label = ਬਾਹੀ ਤੋਂ ਟੂਲਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
 sidebar-show-on-the-right =
     .label = ਬਾਹੀ ਨੂੰ ਸੱਜੇ ਭੇਜੋ
 sidebar-show-on-the-left =
@@ -139,6 +141,13 @@ sidebar-bookmarks-context-menu-delete-bookmark =
     .label = ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ
 sidebar-bookmarks-context-menu-delete-separator =
     .label = ਹਟਾਓ
+
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
 
 ## Labels for sidebar menu items.
 
@@ -241,6 +250,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = ਵਿੰਡੋ { $winID }
+sidebar-bookmarks-title = ਬੁੱਕਮਾਰਕ
 
 ## Context for closing synced tabs when hovering over the items
 

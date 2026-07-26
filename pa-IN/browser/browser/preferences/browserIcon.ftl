@@ -6,6 +6,33 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+# Entry in the Appearance pane (Windows only) that opens the browser-icon
+# subpage. The browser icon is the icon shown on the desktop, taskbar, and
+# Start Menu.
+appearance-browser-icon-entry-group =
+    .label = ਬਰਾਊਜ਼ਰ ਆਈਕਾਨ
+    .description = ਆਪਣੀ ਟਾਸਕ-ਬਾਰ, ਡੈਸਕਟਾਪ ਅਤੇ ਸਟਾਰਟ ਮੇਨੂ ਲਈ ਪਸੰਦੀਦਾ ਆਈਕਾਨ ਨੂੰ ਚੁਣੋ।
+appearance-browser-icon-button =
+    .label = ਬਰਾਊਜ਼ਰ ਦੇ ਆਈਕਾਨ ਨੂੰ ਬਦਲੋ
+
+## Strings for the "Browser icon" sub-page (Windows only), opened from the
+## "Change browser icon" button in the Appearance settings. The sub-page lets
+## people choose which icon appears on the taskbar, desktop, and Start Menu.
+
+appearance-browser-icon-subpage-title =
+    .heading = ਹੋਰ ਆਈਕਾਨ
+
+## Icons are organized into two groups: "Standard" and "Special". The icons in
+## the "Special" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-basic-group =
+    .label = ਮਿਆਰੀ
+appearance-browser-icon-bonus-group =
+    .label = ਖਾਸ
+
+##
+
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = { -brand-short-name } ਨੂੰ ਆਪਣੇ ਬਣਾਉਣ ਵਾਸਤੇ ਪੂਰਾ ਕਰਕੇ ਬੋਨਸ ਲੂੰਬੜ ਆਈਕਾਨਾਂ ਨੂੰ ਜਿੱਤੋ।

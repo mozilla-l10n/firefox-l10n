@@ -99,6 +99,9 @@ home-prefs-privacy-header =
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = ਸਟਾਕ
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = ਅੱਜ ਦੀ ਤਸਵੀਰ
 home-prefs-mission-message2 =
     .message = ਸਾਡੇ ਸਪਾਂਸਰ ਵੈੱਬ ਨੂੰ ਹੋਰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਸਾਡੇ ਮਕਸਦ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹਨ।
 home-prefs-manage-topics-link2 =
@@ -355,6 +358,19 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .title = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
     .aria-label = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = ਵਾਲਪੇਪਰ ਦਾ ਇੰਤਜ਼ਾਮ
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਲੁਕਾਓ
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = ਹੋਰ ਜਾਣੋ
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
+    .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
 
 ## Search box component.
 
@@ -705,6 +721,8 @@ newtab-custom-widget-privacy-toggle =
     .label = ਪਰਦੇਦਾਰੀ
 newtab-custom-widget-stocks-toggle =
     .label = ਸਟਾਕ
+newtab-custom-widget-picture-toggle =
+    .label = ਅੱਜ ਦੀ ਤਸਵੀਰ
 newtab-custom-widget-section-title = ਵਿਜੈੱਟ
 newtab-custom-widget-section-toggle =
     .label = ਵਿਜੈੱਟ
@@ -1483,6 +1501,11 @@ newtab-sports-widget-message-day-in-play-title = { -brand-product-name } ਵਿ�
 newtab-sports-widget-message-day-in-play-body = ਵਰਲਡ ਕੱਪ ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ, ਕੰਮ ਕਰਦੇ ਰਹੋ, ਸੰਸਾਰ ਭਰ ਦੇ ਟਾਈਮ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ।
 newtab-sports-widget-message-explore-widgets-cta =
     .label = ਵਿਜੈੱਟ ਲੱਭੋ
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-cta =
+    .label = ਸਰਵੇਖਣ ਭਰੋ
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

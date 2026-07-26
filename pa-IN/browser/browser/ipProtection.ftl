@@ -61,12 +61,25 @@ ipprotection-summer-promo-offramp-generic-title = ਤੁਹਾਡੇ ਨਾਲ �
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-summer-promo-offramp-generic-description = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਵਾਪਸ ਤੁਹਾਡੇ ਤੱਕ ਸੂਹ ਲੈਣ ਤੋਂ ਹੋਰ ਔਖਾ ਬਣਾਉਣ ਵਾਸਤੇ ਵਾਧੂ ਪਰਦੇਦਾਰੀ ਲਈ ਆਪਣੇ { $maxUsage } GB ਅਤੇ 6 ਟਿਕਾਣਿਆਂ ਨੂੰ ਵਰਤੋਂ।
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਵਾਪਸ ਤੁਹਾਡੇ ਤੱਕ ਸੂਹ ਲੈਣ ਤੋਂ ਹੋਰ ਔਖਾ ਬਣਾਉਣ ਵਾਸਤੇ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਲਈ ਆਪਣੇ { $maxUsage } GB ਅਤੇ 20 ਤੋਂ ਵੱਧ ਟਿਕਾਣਿਆਂ ਨੂੰ ਵਰਤੋਂ।
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = ਤੁਹਾਡੇ ਨਾਲ ਮੌਜੂਦ VPN ਹੁਣ ਹੋਰ ਬੇਹਤਰ ਹੋ ਗਿਆ ਹੈ
+ipprotection-summer-promo-offramp-subscriber-description = ਹੁਣ { -mozilla-vpn-brand-name } ਮੈਂਬਰ ਦੇ ਵਜੋਂ ਤੁਹਾਡੇ ਕੋਲ ਬੇਅੰਤ ਬੈਂਡਵਿਡਥ ਅਤੇ ਵੱਧ ਟਿਕਾਣੇ ਮੌਜੂਦ ਹਨ।
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = ਆਪਣੇ ਵਧੀਕ ਨਾਲ ਮੌਜੂਦ VPN ਟਿਕਾਣਿਆਂ ਨੂੰ ਰੱਖੋ
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = { -mozilla-vpn-brand-name } ਨਾਲ ਪੱਧਰ ਵਧਾਓ
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN ਨੂੰ ਖੋਲ੍ਹੋ
+ipprotection-summer-promo-offramp-set-to-default-primary-button = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } ਲਵੋ
 ipprotection-summer-promo-offramp-dismiss-secondary-button = ਖ਼ਾਰਜ ਕਰੋ
 

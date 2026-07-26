@@ -191,6 +191,9 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = ਮੁਕੰਮਲ
 migration-safari-password-import-header = Safari ਤੋਂ ਪਾਸਵਰਡ ਦਰਾਮਦ ਕਰੋ
+migration-safari-password-import-post-sequoia-step1 = ਤੁਹਾਡੇ ਮੈਕ ਉੱਤੇ <a data-l10n-name="macos-passwords-app">ਪਾਸਵਰਡ ਐਪ</a> ਨੂੰ ਖੋਲ੍ਹੋ
+migration-safari-password-import-post-sequoia-step3 = ਫ਼ਾਇਲ ਨੂੰ ਸੰਭਾਲੋ
+migration-safari-password-import-post-sequoia-step4 = ਫ਼ਾਇਲ ਚੁਣੋ, ਜੋ ਤੁਸੀਂ ਸੰਭਾਲਣੀ ਚਾਹੁੰਦੇ ਹੋ
 migration-safari-password-import-steps-header = Safari ਤੋਂ ਪਾਸਵਰਡ ਦਰਾਮਦ ਕਰਨ ਲਈ:
 migration-safari-password-import-step1 = Safari ਵਿੱਚ, “Safari” ਮੇਨੂ ਖੋਲ੍ਹੋ ਅਤੇ Preferences > Passwords ਉੱਤੇ ਜਾਓ
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> ਬਟਨ ਚੁਣੋ ਅਤੇ “Export All Passwords” ਨੂੰ ਚੁਣੋ
@@ -203,6 +206,7 @@ migration-chrome-windows-password-import-step2 = ਮੇਨੂ ਤੋਂ "Setting
 migration-chrome-windows-password-import-step3 = “Download file” ਨੂੰ ਚੁਣੋ ਅਤੇ ਇਸ ਨੂੰ ਆਪਣੇ ਡਿਵਾਈਸ ਉੱਤੇ ਸੰਭਾਲੋ।
 migration-chrome-windows-password-import-step4 = ਇੱਥੇ ਵਾਪਸ ਆਓ ਅਤੇ ਦਰਾਮਦ ਨੂੰ ਪੂਰਾ ਕਰਨ ਵਾਸਤੇ "ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ"।
 migration-manual-password-import-skip-button = ਛੱਡੋ
+migration-manual-password-import-cancel-button = ਰੱਦ ਕਰੋ
 migration-manual-password-import-select-button = ਫ਼ਾਇਲ ਚੁਣੋ
 migration-safari-password-import-skip-button = ਛੱਡੋ
 migration-safari-password-import-select-button = ਫ਼ਾਇਲ ਚੁਣੋ

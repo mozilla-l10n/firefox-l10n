@@ -295,6 +295,17 @@ launch-on-login-infobar-final-message = <strong>ਕੀ ਜਦੋਂ ਵੀ ਤ�
 launch-on-login-infobar-final-reject-button = ਨਹੀਂ, ਧੰਨਵਾਦ
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+launch-on-login-autostart-infobar-keep-button = ਚਾਲੂ ਰੱਖੋ
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = ਬੰਦ ਕਰੋ
+    .accesskey = T
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -493,3 +504,18 @@ nova-early-access-share-feedback-link = ਸੁਝਾਅ ਸਾਂਝੇ ਕਰ�
     .accesskey = S
 nova-early-access-infobar-primary-button = ਸਮਝੇ
     .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-pin-to-taskbar = ਆਪਣੀ ਟਾਸਕਬਾਰ ਵਿੱਚ ਟੰਗੋ
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = ਮੌਜੂਦਾ ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = ਪਿਛਲੀਆਂ ਵਿੰਡੋਆਂ ਤੇ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = ਸੰਭਾਲੋ ਅਤੇ { -brand-short-name } ਨੂੰ ਬੰਦ ਕਰੋ
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = ਸੰਭਾਲੋ ਅਤੇ ਜਾਰੀ ਰੱਖੋ
