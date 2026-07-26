@@ -319,7 +319,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Inizia a navigare
 
 onboarding-infrequent-import-title = Mettiti a tuo agio
 onboarding-infrequent-import-subtitle = Non importa se hai intenzione di restare qui per un po’ oppure sei solo di passaggio, ricorda che puoi importare segnalibri, password e altro ancora.
-onboarding-infrequent-import-primary-button = Importa da { -brand-short-name }
+onboarding-infrequent-import-primary-button = Importa in { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech

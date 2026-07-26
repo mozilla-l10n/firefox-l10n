@@ -35,7 +35,7 @@ xpath-invalid-expression-evaluated = Valutazione di un’espressione non valida.
 xpath-unbalanced-curly-brace = Parentesi graffa di apertura o chiusura mancante.
 xslt-bad-node-name = Creazione di un elemento con QName non valido.
 xslt-var-already-set = L’associazione della variabile oscura l’associazione della variabile all’interno dello stesso template.
-xslt-call-to-key-not-allowed = Chiamata alla funzione “key” non consentita
+xslt-call-to-key-not-allowed = Chiamata alla funzione “key” non consentita.
 # Other failures, not found in the previous ones.
 # Variables:
 #   $errorCode (String) - The error code (formatted in hexadecimal)

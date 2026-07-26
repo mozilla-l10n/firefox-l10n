@@ -80,7 +80,7 @@ fp-certerror-return-to-previous-page-recommended-button = Torna indietro (consig
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name } ti sta avvisando riguardo a questo sito in quanto il certificato fornito per { $hostname } è stato revocato e non è più attendibile.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-revoked-what-can-you-do-body = Probabilmente nulla, dal momento che è possibile che il problema dipenda dal sito stesso.  Puoi contattare il proprietario del sito web per verificare se stanno già cercando di risolverlo.
+fp-certerror-revoked-what-can-you-do-body = Probabilmente nulla, dal momento che è possibile che il problema dipenda dal sito stesso. Puoi contattare il proprietario del sito web per verificare se stia già cercando di risolverlo.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -93,7 +93,7 @@ fp-certerror-bad-domain-what-can-you-do-body = Probabilmente nulla, dal momento 
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } ti sta avvisando riguardo a questo sito in quanto il certificato fornito per { $hostname } è stato emesso da un’autorità di certificazione non più attendibile.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-untrusted-issuer-what-can-you-do-body = Probabilmente nulla, dal momento che è possibile che il problema dipenda dal sito stesso.  Puoi contattare il proprietario del sito web per verificare se stanno già cercando di risolverlo.
+fp-certerror-untrusted-issuer-what-can-you-do-body = Probabilmente nulla, dal momento che è possibile che il problema dipenda dal sito stesso. Puoi contattare il proprietario del sito web per verificare se stia già cercando di risolverlo.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Si è verificato un problema con il certificato del sito. È possibile che un soggetto malintenzionato stia cercando di sostituirsi al sito. I siti utilizzano certificati emessi da un’autorità di certificazione per dimostrare di essere veramente chi dichiarano di essere. { -brand-short-name } non considera questo sito attendibile in quanto non è possibile stabilire chi ha emesso il certificato, il certificato è autofirmato o il sito non sta inviando certificati intermedi attendibili.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

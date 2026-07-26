@@ -25,7 +25,7 @@ tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerN
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } – { $containerName }
+tabbrowser-container-tab-title = { $title } — { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -436,7 +436,7 @@ tab-note-editor-button-delete =
 tab-note-preview-edit-icon =
     .alt = Modifica nota
 # Link to show the full tab note in case it was truncated.
-tab-note-preview-expand = Ulteriori informazioni
+tab-note-preview-expand = Leggi tutto
 tab-note-panel-add-note-new-badge =
     .label = Novità
 # Displayed within the tab note edit dialog box when the user has entered more

@@ -78,8 +78,8 @@ abuse-report-broken-suggestions-extension =
     <a data-l10n-name="support-link">Visita il sito web dell’estensione</a> per trovare informazioni sullo sviluppatore.
 abuse-report-broken-suggestions-sitepermission =
     Sembra che tu abbia trovato un bug. Oltre a segnalare il problema qui, il modo migliore per
-    risolvere questo tipo di problemi è contattare lo sviluppatore dell’estensione.
-    <a data-l10n-name="support-link">Visita il sito web dell’estensione</a> per trovare informazioni sullo sviluppatore.
+    risolvere questo tipo di problemi è contattare lo sviluppatore del sito web.
+    <a data-l10n-name="support-link">Visita il sito web</a> per trovare informazioni sullo sviluppatore.
 abuse-report-broken-suggestions-theme =
     Sembra che tu abbia trovato un bug. Oltre a segnalare il problema qui, il modo migliore per
     risolvere questo tipo di problemi è contattare lo sviluppatore del tema.

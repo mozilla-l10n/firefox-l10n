@@ -68,7 +68,7 @@ about-telemetry-histogram-stats =
     }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-page-subtitle = In questa pagina sono disponibili i dati relativi alle prestazioni e all’utilizzo delle caratteristiche raccolti dalla telemetria. Queste informazioni vengono inviate a { $telemetryServerOwner } in forma anonima per migliorare { -brand-full-name }.
+about-telemetry-page-subtitle = In questa pagina sono disponibili i dati relativi a prestazioni, hardware, utilizzo e personalizzazioni raccolti dalla telemetria. Queste informazioni vengono inviate a { $telemetryServerOwner } in forma anonima per migliorare { -brand-full-name }.
 about-telemetry-settings-explanation = La telemetria sta raccogliendo { about-telemetry-data-type } e il caricamento è <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (string) - Ping name, e.g. “saved-session”

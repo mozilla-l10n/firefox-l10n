@@ -21,7 +21,7 @@ protections-popup-footer-protection-label-standard = Normale
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Ulteriori informazioni sulla protezione antitracciamento avanzata
-protections-panel-etp-on-header = La protezione antitracciamento avanzata è ATTIVA per questo sito.
+protections-panel-etp-on-header = La protezione antitracciamento avanzata è ATTIVA per questo sito
 protections-panel-etp-off-header = La protezione antitracciamento avanzata è DISATTIVATA per questo sito
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Il sito non funziona?

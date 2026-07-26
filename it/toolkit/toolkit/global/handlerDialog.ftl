@@ -78,7 +78,7 @@ choose-app-btn =
     .accessKey = S
 choose-other-app-window-title = Altra applicazione…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
-choose-dialog-privatebrowsing-disabled = Disattiva in finestre anonime
+choose-dialog-privatebrowsing-disabled = Disattivato in finestre anonime
 
 ## Mailto handler picker
 ## Shown when the user clicks a mailto: link and lets them pick which configured

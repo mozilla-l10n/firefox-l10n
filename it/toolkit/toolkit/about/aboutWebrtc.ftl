@@ -177,7 +177,7 @@ about-webrtc-last-frame-timestamp = Timestamp ricezione ultimo frame
 # This is an SSRC on the local side of the connection that is receiving RTP
 about-webrtc-local-receive-ssrc = Ricezione SSRC locale
 # This is an SSRC on the remote side of the connection that is sending RTP
-about-webrtc-remote-send-ssrc = Ricezione SSRC remota
+about-webrtc-remote-send-ssrc = Invio SSRC remota
 
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure

@@ -232,7 +232,7 @@ select-translations-panel-idle-placeholder-text = Il testo tradotto verrà visua
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Traduzione in corso…
 select-translations-panel-init-failure-message =
-    .message = Impossibile caricare le lingue. Verifica la tua connessione a internet e riprova.
+    .message = Impossibile caricare le lingue. Verifica la tua connessione a Internet e riprova.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Si è verificato un problema durante la traduzione. Riprova.

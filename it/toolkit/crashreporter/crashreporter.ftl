@@ -5,7 +5,7 @@
 crashreporter-branded-title = { -brand-short-name } Crash Reporter
 crashreporter-apology = Siamo spiacenti
 crashreporter-crashed-and-restore = { -brand-short-name } ha riscontrato un problema imprevisto e si è chiuso. Al riavvio l’applicazione cercherà di ripristinare le schede e finestre aperte.
-crashreporter-plea = Per aiutare a individuare e risolvere il problema, è possibile inviare una segnalazione per questo blocco.
+crashreporter-plea = Per aiutare a individuare e risolvere il problema, è possibile inviare una segnalazione per questo arresto anomalo.
 crashreporter-information = Questa applicazione viene eseguita dopo un arresto anomalo per segnalare il problema a { -vendor-short-name }. Non dovrebbe essere eseguita direttamente.
 crashreporter-error = Si è verificato un problema in { -brand-short-name } che ha provocato un arresto anomalo. Purtroppo non è stato possibile inviare una segnalazione per questo errore.
 crashreporter-error-details-header = Dettagli:

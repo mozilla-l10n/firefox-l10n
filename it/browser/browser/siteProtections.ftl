@@ -96,5 +96,5 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 protections-milestone =
     { $trackerCount ->
         [one] { -brand-short-name } ha bloccato { $trackerCount } elemento tracciante da { DATETIME($date, year: "numeric", month: "long") }
-       *[other] { -brand-short-name } ha bloccato { $trackerCount } elementi traccianti da { DATETIME($date, year: "numeric", month: "long") }
+       *[other] { -brand-short-name } ha bloccato più di { $trackerCount } elementi traccianti da { DATETIME($date, year: "numeric", month: "long") }
     }
