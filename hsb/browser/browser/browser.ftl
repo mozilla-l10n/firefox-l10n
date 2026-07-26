@@ -126,6 +126,18 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Nastajenja wuskakowacych woknow a třećich poskićowarjow rjadować…
     .accesskey = N
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Sydłowe informacije pokazać
+            [1] Sydłowe informacije pokazać (1 přesćěhowak zablokowany)
+            [one] Sydłowe informacije pokazać ({ $count } přesćěhowak zablokowany)
+            [two] Sydłowe informacije pokazać ({ $count } přesćěhowakaj zablokowanej)
+            [few] Sydłowe informacije pokazać ({ $count } přesćěhowaki zablokowane)
+           *[other] Sydłowe informacije pokazać ({ $count } přesćěhowakow zablokowanych)
+        }
 
 ##
 
@@ -615,6 +627,7 @@ identity-description-passive-loaded-mixed2 = Hačrunjež { -brand-short-name } j
 identity-description-active-loaded = Tute websydło wobsahuje wobsah, kotryž wěsty njeje (na přikład skripty) a waš zwisk z nim priwatny njeje.
 identity-description-active-loaded-insecure = Druzy ludźo móža informacije widźeć, kotrež z tutym sydłom dźěliće (na přikład hesła, powěsće, kreditne karty atd.).
 identity-description-tls-key-logging-heading = Waš zwisk snano priwatny njeje
+identity-description-tls-key-logging-message = Nałoženje abo słužba móže waš zaklučowany wobchad z tutoho sydła widźeć.
 identity-disable-mixed-content-blocking =
     .label = Škit nachwilu znjemóžnić
     .accesskey = z
@@ -1841,6 +1854,16 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Njewěsty
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } přesćěhowak zablokowany
+        [two] { $count } přesćěhowakaj zablokowanej
+        [few] { $count } přesćěhowaki zablokowane
+       *[other] { $count } přesćěhowakow zablokowanych
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

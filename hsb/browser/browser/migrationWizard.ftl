@@ -198,6 +198,7 @@ migration-wizard-progress-icon-completed =
     .aria-label = Dokónčeny
 migration-safari-password-import-header = Hesła ze Safari importować
 migration-safari-password-import-post-sequoia-step1 = Wočińće <a data-l10n-name="macos-passwords-app">hesłowe nałoženje</a> na swojim Mac
+migration-safari-password-import-post-sequoia-step2 = Wubjerće w menijowej lajsće horjeka na wobrazowce Dataja > Wšě hesła do dataje eksportować…
 migration-safari-password-import-post-sequoia-step3 = Drastu składować
 migration-safari-password-import-post-sequoia-step4 = Wubjerće składowanu dataju
 migration-safari-password-import-steps-header = Zo byšće hesła ze Safari importował:
