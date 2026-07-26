@@ -49,8 +49,15 @@ appmenuitem-translate =
     .label = Preložiť stránku…
 appmenuitem-zoom =
     .value = Lupa
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Zdieľať { -brand-product-name(case: "acc") }
 appmenuitem-more-tools =
     .label = Ďalšie nástroje
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Pomoc a hlásenie
 appmenuitem-help =
     .label = Pomocník
 appmenuitem-exit2 =
@@ -121,8 +128,16 @@ fxa-menu-sync-status-turn-on-button =
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Prihlásiť sa a synchronizovať
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Synchronizovať { $deviceName } teraz
+fxa-menu-manage-sync-settings =
+    .label = Spravovať nastavenia synchronizácie
 fxa-menu-add-device =
     .label = Pridať zariadenie
+fxa-menu-manage-devices =
+    .label = Spravovať zariadenia
 fxa-menu-device-missing =
     .label = Nevidíte svoje zariadenie?
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
@@ -292,6 +307,9 @@ appmenu-help-share-ideas =
     .accesskey = d
 appmenu-help-switch-device =
     .label = Prechod na nové zariadenie
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Pomoc a hlásenie
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -389,6 +407,17 @@ appmenu-secure-sync-header = Bezpečná synchronizácia
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Nedávne karty
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Zobraziť synchronizovanú kartu
+            [few] Zobraziť { $tabCount } synchronizované karty
+            [many] Zobraziť všetkých { $tabCount } synchronizovaných kariet
+           *[other] Zobraziť všetkých { $tabCount } synchronizovaných kariet
+        }
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =
     .label = Odoslať aktuálnu stránku do tohto zariadenia

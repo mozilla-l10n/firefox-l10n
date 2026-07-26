@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Otvoriť nové súkromné okno
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klasické okno
+toolbar-switcher-customizable-label =
+    .label = Prepínač { -smart-window-brand-name(case: "gen") }
+    .tooltiptext = Prepnúť medzi inteligentnými a klasickými oknami
 
 ## Input CTA
 

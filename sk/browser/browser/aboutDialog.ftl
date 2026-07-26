@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Odoslať spätnú väzbu
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">globálna komunita</label> pracujúca s cieľom zachovať internet otvoreným, verejným a dostupným zdrojom pre všetkých.
 community-2 = { -brand-short-name } vytvára <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">globálna komunita</label> pracujúca s cieľom zachovať internet otvoreným, verejným a dostupným zdrojom pre všetkých.
 helpus = Chcete nám pomôcť? <label data-l10n-name="helpus-donateLink">Zašlite svoj príspevok</label> alebo <label data-l10n-name="helpus-getInvolvedLink">sa zapojte</label>.
+helpus-referrals = Chcete pomôcť? <label data-l10n-name="helpus-donateLink">Prispejte darom</label>, <label data-l10n-name="helpus-shareFirefoxLink">zdieľajte { -brand-short-name(case: "acc") }</label> alebo <label data-l10n-name="helpus-getInvolvedLink">sa zapojte</label>!
 bottomLinks-license = Informácie o licenciách
 bottom-links-terms = Podmienky používania
 bottom-links-privacy = Vyhlásenie o ochrane osobných údajov

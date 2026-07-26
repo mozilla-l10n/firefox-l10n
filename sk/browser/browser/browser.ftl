@@ -613,6 +613,8 @@ identity-description-passive-loaded-insecure2 = Táto stránka obsahuje súčast
 identity-description-passive-loaded-mixed2 = Hoci { -brand-short-name } zablokoval niektoré súčasti, stále je na stránke dostupný obsah, ktorý nie je bezpečný (ako napr. obrázky).
 identity-description-active-loaded = Táto stránka obsahuje súčasti, ktoré nie sú bezpečné (ako napr. skripty) a vaše pripojenie k nej nie je súkromné.
 identity-description-active-loaded-insecure = Informácie zadané na tejto stránke (ako heslá, správy, informácie o platobných kartách, atď.) môžu byť viditeľné pre iných ľudí.
+identity-description-tls-key-logging-heading = Vaše pripojenie nemusí byť súkromné
+identity-description-tls-key-logging-message = Aplikácia alebo služba môže vidieť vašu šifrovanú prevádzku z tejto stránky.
 identity-disable-mixed-content-blocking =
     .label = Zakázať ochranu
     .accesskey = Z
@@ -971,6 +973,13 @@ urlbar-result-explanation-bookmarked = Uložené do záložiek dňa { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Naposledy navštívená { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Naposledy navštívená { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:

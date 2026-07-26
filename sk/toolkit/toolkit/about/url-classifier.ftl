@@ -37,6 +37,14 @@ url-classifier-cache-prefix = Prefix
 url-classifier-cache-ncache-expiry = Záporná platnosť vo vyrovnávacej pamäti
 url-classifier-cache-fullhash = Plný hash
 url-classifier-cache-pcache-expiry = Kladná platnosť vo vyrovnávacej pamäti
+# Label for a dropdown choosing what type of resource is at the destination (the destination type),
+# such as script, image, stylesheet, etc.
+url-classifier-content-classifier-destination-type = Typ cieľa
+url-classifier-content-classifier-pbm = Súkromné prehliadanie
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Chyba ({ $code })
 url-classifier-debug-title = Ladenie
 url-classifier-debug-module-btn = Nastaviť moduly protokolu
 url-classifier-debug-file-btn = Nastaviť súbor protokolu
