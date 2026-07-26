@@ -187,3 +187,42 @@ about-logins-export-password-os-auth-dialog-message-win = Untuk mengeksport log 
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = eksport log masuk dan kata laluan tersimpan
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Untuk mengeksport kata laluan anda, masukkan kelayakan log masuk Windows anda. Ini membantu melindungi keselamatan akaun anda.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = eksport kata laluan tersimpan
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Sila masukkan Kata Laluan Utama anda untuk melihat log masuk & kata laluan tersimpan
+master-password-reload-button =
+    .label = Log masuk
+    .accesskey = L
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Batal
+confirmation-dialog-dismiss-button =
+    .title = Batal
+about-logins-confirm-remove-dialog-title = Buang log masuk ini?
+confirm-delete-dialog-message = Tindakan ini tidak dapat dibuat asal.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Buang kata laluan?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Anda tidak boleh membuat asal tindakan ini.
+about-logins-confirm-remove-dialog-confirm-button = Buang
+
+## Variables
+##   $count (number) - Number of items
+
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Buang
+       *[other] Buang Semua
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ya, buang log masuk ini.
+       *[other] Ya, buang log masuk ini.
+    }
