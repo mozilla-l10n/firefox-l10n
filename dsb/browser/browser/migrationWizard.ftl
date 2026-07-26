@@ -198,6 +198,7 @@ migration-wizard-progress-icon-completed =
     .aria-label = Dokóńcony
 migration-safari-password-import-header = Gronidła ze Safari importěrowaś
 migration-safari-password-import-post-sequoia-step1 = Wócyńśo <a data-l10n-name="macos-passwords-app">gronidłowe nałoženje</a> na swójom Mac
+migration-safari-password-import-post-sequoia-step2 = Wubjeŕśo w menijowej rědce górjejce na wobrazowce Dataja > Wšykne gronidła do dataje eksportěrowaś…
 migration-safari-password-import-post-sequoia-step3 = Dataju składowaś
 migration-safari-password-import-post-sequoia-step4 = Wubjeŕśo skłaźonu dataju
 migration-safari-password-import-steps-header = Aby gronidła ze Safari importěrował:

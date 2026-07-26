@@ -308,6 +308,9 @@ launch-on-login-infobar-final-reject-button = Ně, źěkujom se
 ## experiment enabled launch-on-login for the user), informing them that this
 ## happened and letting them keep it on or turn it off.
 
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } se něnto startujo, gaž se pla Windows pśizjawjaśo. Móžośo to pśecej pózdźej w nastajenjach změniś.
 launch-on-login-autostart-infobar-keep-button = Dalej
     .accesskey = D
 launch-on-login-autostart-infobar-turn-off-button = Znjemóžniś
