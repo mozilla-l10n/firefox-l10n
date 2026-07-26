@@ -5,12 +5,24 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = زفت کردن رزم سی { $host }؟
+password-manager-save-password-button-deny =
+    .label = سکو ن
+    .accesskey = N
 password-manager-save-password-button-allow =
     .label = زفت
     .accesskey = S
 password-manager-save-password-button-never =
     .label = هرگشت زفت مکوݩ
     .accesskey = e
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = ورۊ کردن رزم سی { $host }؟
+password-manager-update-password-button-delete =
+    .label = پاک کردن رزم زفت وابیڌه
+    .accesskey = R
 password-manager-password-password-button-allow =
     .label = ورۊ رسۊوی
     .accesskey = U
