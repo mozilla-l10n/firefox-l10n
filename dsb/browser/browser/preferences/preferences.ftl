@@ -1699,6 +1699,21 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Žedne adrese pśidane
+passports-list-header =
+    .label = Drogowańske pase
+passports-delete-passport-button-label =
+    .aria-label = Lašowaś
+passports-edit-passport-button-label =
+    .aria-label = Wobźěłaś
+passports-delete-passport-prompt-title = Toś ten drogowański pas lašowaś?
+passports-delete-passport-prompt-confirm-button = Lašowaś
+passports-delete-passport-prompt-cancel-button = Pśetergnuś
+autofill-passports-add-button = Nowy drogowański pas pśidaś
+autofill-personal-info-manage-title =
+    .heading = Wósobinske informacije zastojaś
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Žedne drogowańske pase pśidane
 pane-passwords-autofill-title2 = Gronidła a awtomatiske wupołnjenje
     .title = Gronidła a awtomatiske wupołnjenje
 preferences-passwords-autofill-header =

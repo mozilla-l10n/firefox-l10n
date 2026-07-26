@@ -171,6 +171,34 @@ autofill-card-network = Kórtowy typ
 # methods in their region.
 autofill-card-search-term-credit-cards = kreditowe kórty, kredit, kórty, debetowe kórty, debet, listowka, kasa
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Drogowański pas pśidaś
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Drogowański pas wobźěłaś
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Mě
+autofill-passport-country =
+    .label = Kraj
+autofill-passport-number =
+    .label = Numer
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Wudawański datum
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Datum spadnjenja
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = ŹŹ
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express

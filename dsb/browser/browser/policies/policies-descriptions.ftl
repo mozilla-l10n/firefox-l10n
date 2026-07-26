@@ -40,6 +40,7 @@ policy-Cookies = Websedłam dowóliś abo zakazaś, cookieje składowaś.
 policy-Containers = Pšawidła nastupajucy kontejnery póstajiś
 policy-DisableAccounts = Słužby znjemóžniś, kótarež na konśe bazěruju, mjazy nimi synchronizaciju.
 policy-DisabledCiphers = Šyfry znjemóžniś.
+policy-DefaultBrowserSettingEnabled = Kontrolěrujśo, lěc wužywaŕ móžo { -brand-short-name } ako standardny wobglědowak nastajiś.
 policy-DefaultDownloadDirectory = Nastajśo standardny ześěgnjeński zarědnik.
 policy-DefaultSerialGuardSetting = Wužywanje serijowego API kontrolěrowaś.
 policy-DisableAppUpdate = Wobglědowakoju aktualizěrowanje zakazaś.

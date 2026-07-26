@@ -614,6 +614,7 @@ identity-description-passive-loaded-insecure2 = Websedło wopśimujo wopśimjeś
 identity-description-passive-loaded-mixed2 = Lěcrownož { -brand-short-name } jo wopśimjeśe blokěrował, jo hyšći wopśimjeśe na boku, kótarež njejo wěste (na pśikład wobraze).
 identity-description-active-loaded = Toś to websedło wopśimujo wopśimjeśe, kótarež njejo wěste (na pśikład skripty) a waš zwisk z nim njejo priwatny.
 identity-description-active-loaded-insecure = Druge luźe mógu informacije wiźeś, kótarež źěliśo z toś tym sedłom (na pśikład gronidła, powěsći, kreditne kórty atd.).
+identity-description-tls-key-logging-heading = Waš zwisk snaź njejo priwatny
 identity-disable-mixed-content-blocking =
     .label = Šćit nachylnje znjemóžniś
     .accesskey = z
@@ -975,6 +976,13 @@ urlbar-result-explanation-bookmarked = Jo se { $date } ako cytańske znamje skł
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Slědny woglěd { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Slědny woglěd { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:

@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Gaž Anthropic Claude wuběraśo, zwólijośo
 genai-settings-chat-copilot-links = Gaž Copilot wuběraśo, zwólijośo do <a data-l10n-name="link1">wuměnjenjow za nazgónjenja KI w Copilot</a> a <a data-l10n-name="link2">powěźeńkow priwatnosći Microsoft</a>.
 genai-settings-chat-gemini-links = Gaž Google Gemini wuběraśo, zwólijośo do <a data-l10n-name="link1">wužywańskich wuměnjenjow Google</a> a <a data-l10n-name="link2">pšawidłow wó njedowólonem wužywanju generatiwneje KI</a> a <a data-l10n-name="link3">powěźeńki priwatnosći Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Gaž HuggingChat wuběraśo, zwólijośo do <a data-l10n-name="link1">powěźeńki priwatnosći HuggingChat</a> a <a data-l10n-name="link2">pšawidłow priwatnosći Hugging Face</a>.
+genai-settings-chat-lechat-links-2 = Gaž Mistral Vibe wuběraśo, zwólijośo do <a data-l10n-name="link1">wužywańskich wuměnjenjow</a> a <a data-l10n-name="link2">pšawidłow priwatnosći</a> Mistral AI.
 genai-settings-chat-lechat-links = Gaž Le Chat Mistral wuběraśo, zwólijośo do <a data-l10n-name="link1">wužywańskich wuměnjenjow</a> a <a data-l10n-name="link2">pšawidłow priwatnosći</a> Mistral AI.
 genai-settings-chat-localhost-links = Pśinjasćo swójsku priwatny lokalny chatbot ako na pśikład <a data-l10n-name="link1">llamafile</a> z inowaciskeje kupki { -vendor-short-name } sobu.
 
@@ -174,6 +175,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Zgóńśo wěcej wó Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = Zgóńśo wěcej wó HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
