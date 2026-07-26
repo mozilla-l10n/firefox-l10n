@@ -23,5 +23,6 @@ ssl-error-wrong-certificate = ائراز هۊویت کلاینت شکست خرد
 ssl-error-bad-cert-domain = منپیز ٱمن وا ترف موقابل مومکن نؽ: نوم دامنه تقازا وابیڌه وا گوواهی سرور ی جۊر نؽ.
 ssl-error-post-warning = ختای نشناخته کود SSL.
 ssl-error-ssl2-disabled = ترف منپیز تینا نوسخه 2 SSL ن لادراری اکونه، ک من ای سمت قیر فعال وابیڌه.
+ssl-error-bad-mac-read = SSL رکوردی وا کود ائراز هۊویت پیوم نا موعتبر گرؽڌ.
 ssl-error-user-canceled-alert = منتور ری و ری مرهله نیایی ن لقو کرد.
 sec-error-user-cancelled = منتور دویمه لقو ن فشار داڌ.

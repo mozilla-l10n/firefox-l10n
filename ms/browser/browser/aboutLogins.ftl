@@ -226,3 +226,48 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [1] Ya, buang log masuk ini.
        *[other] Ya, buang log masuk ini.
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+       *[other] Buang semua { $count } log masuk?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Ini akan membuang log masuk yang anda telah simpan ke { -brand-short-name } dan mana-mana amaran bocoran yang muncul di sini. Anda tidak dapat membuat asal tindakan ini.
+       *[other] Ini akan membuang log masuk yang anda telah simpan ke { -brand-short-name } dan mana-mana amaran bocoran yang muncul di sini. Anda tidak dapat membuat asal tindakan ini.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+       *[other] Buang semua { $count } log masuk dari semua peranti?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Ini akan membuang log masuk yang anda telah simpan ke { -brand-short-name } pada semua peranti yang sync ke { -fxaccount-brand-name } anda. Ini juga akan membuang amaran bocoran yang muncul di sini. Anda tidak dapat membuat asal tindakan ini.
+       *[other] Ini akan membuang semua log masuk yang anda telah simpan ke { -brand-short-name } pada semua peranti yang sync ke { -fxaccount-brand-name } anda. Ini juga akan membuang amaran bocoran yang muncul di sini. Anda tidak dapat membuat asal tindakan ini.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ya, buang kata laluan
+       *[other] Ya, buang kata laluan
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 = Buang semua { $count } kata laluan?
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Ini akan membuang kata laluan yang disimpan ke { -brand-short-name } dan sebarang amaran bocoran. Anda tidak boleh membuat asal tindakan ini.
+       *[other] Ini akan membuang kata laluan yang disimpan ke { -brand-short-name } dan sebarang amaran bocoran. Anda tidak boleh membuat asal tindakan ini.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 = Buang semua { $count } kata laluan daripada semua peranti?
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Ini akan membuang kata laluan yang disimpan ke { -brand-short-name } pada semua peranti sync anda. Ini juga akan membuang sebarang amaran bocoran yang muncul di sini. Anda tidak boleh membuat asal tindakan ini.
+       *[other] Ini akan membuang semua kata laluan yang disimpan ke { -brand-short-name } pada semua peranti sync anda. Ini juga akan membuang sebarang amaran bocoran yang muncul di sini. Anda tidak boleh membuat asal tindakan ini.
+    }
+
+##
+
+about-logins-confirm-export-dialog-title = Eksport log masuk dan kata laluan
+about-logins-confirm-export-dialog-message = Kata laluan anda akan disimpan sebagai teks yang boleh dibaca (cth. K@taLa1u4nLemah) jadi sesiapa yang boleh membuka fail yang dieksport boleh melihatnya.
