@@ -37,6 +37,7 @@ url-classifier-cache-prefix = Πρόθεμα
 url-classifier-cache-ncache-expiry = Λήξη αρνητικής κρυφής μνήμης
 url-classifier-cache-fullhash = Πλήρες hash
 url-classifier-cache-pcache-expiry = Λήξη θετικής κρυφής μνήμης
+url-classifier-content-classifier-title = Ταξινομητής περιεχομένου
 # URL of the resource being tested, i.e. the thing that would be loaded
 # (e.g. an image, script, or tracking pixel).
 url-classifier-content-classifier-url = URL
@@ -65,14 +66,25 @@ url-classifier-content-classifier-probes = Διερευνήσεις
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Αποτελέσματα
 url-classifier-content-classifier-pbm = Ιδιωτική περιήγηση
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Επιβολή χειρισμού τρίτου μέρους ως κύριου πλαισίου
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Μη προτεινόμενο πρόσθετο
 # Button: run the probe that reports whether the request would be blocked.
 url-classifier-content-classifier-probe-blocking-btn = Διερεύνηση φραγής
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Διερεύνηση σχολίου
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Διερεύνηση λειτουργίας
 # Label for an expandable area showing the detailed per-feature output from the
 # classification engine.
 url-classifier-content-classifier-engine-details = Λεπτομέρειες μηχανής
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = Λειτουργία
 # Column header: whether the request matched this feature (true/false).
 url-classifier-content-classifier-col-matched = Αντιστοιχία
 # Column header: whether this feature matched an exception/allow-list entry that

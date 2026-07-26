@@ -20,6 +20,17 @@ colorpicker-tooltip-hue-slider-title = Απόχρωση
 colorpicker-tooltip-alpha-slider-title = Αδιαφάνεια
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Ψευδοκλάσεις συγκεκριμένου στοιχείου
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Εναλλαγή εξομοίωσης ανοιχτόχρωμου συνόλου χρωμάτων σελίδας
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Εναλλαγή εξομοίωσης σκουρόχρωμου συνόλου χρωμάτων σελίδας
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = Εναλλαγή λειτουργιών εξομοίωσης CSS
+    .aria-label = Εναλλαγή λειτουργιών εξομοίωσης CSS
 inspector-emulation-panel-color-scheme = Εξομοίωση συνόλου χρωμάτων
 # A label text for the print emulation options
 inspector-emulation-panel-print = Ενεργοποίηση

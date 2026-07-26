@@ -6,6 +6,12 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+# Entry in the Appearance pane (Windows only) that opens the browser-icon
+# subpage. The browser icon is the icon shown on the desktop, taskbar, and
+# Start Menu.
+appearance-browser-icon-entry-group =
+    .label = Εικονίδιο προγράμματος περιήγησης
+    .description = Επιλέξτε ένα προσαρμοσμένο εικονίδιο για τη γραμμή εργασιών, την επιφάνεια εργασίας και το μενού «Έναρξη».
 appearance-browser-icon-button =
     .label = Αλλαγή εικονιδίου προγράμματος περιήγησης
 
@@ -27,6 +33,9 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Ολοκληρώστε τα βήματα και ξεκλειδώστε επιπλέον εικονίδια για να εξατομικεύσετε το { -brand-short-name }.
 # Shown in place of appearance-browser-icon-requirement once the bonus icons are
 # unlocked (the browser is both the default and pinned to the taskbar).
 appearance-browser-icon-unlocked =
