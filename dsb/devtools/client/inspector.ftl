@@ -20,3 +20,10 @@ colorpicker-tooltip-hue-slider-title = Barwowy ton
 colorpicker-tooltip-alpha-slider-title = Opacita
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Za element specifiske pseudoklase
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Emulaciju swětłeje barwoweje šemy za bok pśešaltowaś
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Emulaciju śamneje barwoweje šemy za bok pśešaltowaś
+inspector-emulation-panel-color-scheme = Emulacija barwoweje šemy
