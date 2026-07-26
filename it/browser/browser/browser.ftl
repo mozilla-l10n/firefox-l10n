@@ -37,9 +37,9 @@ browser-main-window-window-titles =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – Navigazione anonima
+    .data-title-private = { -brand-full-name } — Navigazione anonima
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } – Navigazione anonima
+    .data-content-title-private = { $content-title } — Navigazione anonima
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -47,7 +47,7 @@ browser-main-window-mac-window-titles =
 browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
-private-browsing-shortcut-text-2 = { -brand-shortcut-name } – Navigazione anonima
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } — Navigazione anonima
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:

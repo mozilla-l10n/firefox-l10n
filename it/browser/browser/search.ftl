@@ -79,7 +79,7 @@ add-engine-keyword-placeholder =
 add-engine-keyword-exists = Questa parola chiave è già in uso. Provane un’altra.
 add-engine-name-exists = Questo nome è già in uso. Scegli un altro nome.
 add-engine-no-name = Aggiungi un nome.
-add-engine-no-url = Inserire un URL.
+add-engine-no-url = Inserisci un URL.
 add-engine-invalid-url = L’URL non sembra corretto. Controlla e riprova.
 add-engine-invalid-protocol = L’URL non sembra corretto. Utilizza un URL che inizi con http o https.
 # This error is shown when the user typed URL is missing %s.

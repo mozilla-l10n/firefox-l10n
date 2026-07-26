@@ -17,17 +17,17 @@ devtools-tooltip-learn-more = Ulteriori informazioni
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
-inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un contenitore flex o griglia.
-inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un contenitore flex, un contenitore griglia o un contenitore multicolonna.
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un contenitore flex o grid.
+inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un contenitore flex, un contenitore grid o un contenitore multicolonna.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un contenitore multicolonna.
 inactive-css-column-span = <strong>{ $property }</strong> non ha alcun effetto di spanning su questo elemento in quanto non si trova in un contenitore multicolonna.
-inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento flex o griglia.
+inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento grid o flex.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento grid o flex, e non ha una posizione assoluta.
 inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento grid e non ha una posizione assoluta.
 inactive-css-not-absolutely-positioned-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento con posizione assoluta.
 inactive-css-no-default-anchor = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non ha un elemento ancora predefinito.
-inactive-css-not-grid-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento griglia.
-inactive-css-not-grid-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un contenitore griglia.
+inactive-css-not-grid-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento grid.
+inactive-css-not-grid-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un contenitore grid.
 inactive-css-not-flex-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento flex.
 inactive-css-not-flex-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un contenitore flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è “inline” o “table-cell”.
