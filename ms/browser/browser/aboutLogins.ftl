@@ -271,3 +271,28 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 about-logins-confirm-export-dialog-title = Eksport log masuk dan kata laluan
 about-logins-confirm-export-dialog-message = Kata laluan anda akan disimpan sebagai teks yang boleh dibaca (cth. K@taLa1u4nLemah) jadi sesiapa yang boleh membuka fail yang dieksport boleh melihatnya.
+about-logins-confirm-export-dialog-confirm-button = Eksport…
+about-logins-confirm-export-dialog-title2 = Nota tentang mengeksport kata laluan
+about-logins-confirm-export-dialog-message2 =
+    Apabila anda mengeksport, kata laluan anda disimpan ke fail dengan teks yang boleh dibaca.
+    Selepas selesai menggunakan fail itu, kami syorkan anda memadamkannya supaya orang lain yang menggunakan peranti ini tidak dapat melihat kata laluan anda.
+about-logins-confirm-export-dialog-confirm-button2 = Teruskan eksport
+about-logins-alert-import-title = Import Selesai
+about-logins-alert-import-message = Lihat perincian Ringkasan Import
+confirm-discard-changes-dialog-title = Buang perubahan yang belum disimpan?
+confirm-discard-changes-dialog-message = Semua perubahan yang tidak disimpan akan hilang.
+confirm-discard-changes-dialog-confirm-button = Buang
+
+## Breach Alert notification
+
+about-logins-breach-alert-title = Bocoran Laman Web
+breach-alert-text = Kata laluan telah terbocor atau dicuri dari tapak web ini sejak kali terakhir anda mengemas kini butiran log masuk. Ubah kata laluan anda untuk melindungi akaun anda.
+about-logins-breach-alert-date = Bocoran ini berlaku pada { DATETIME($date, day: "numeric", year: "numeric", month: "long") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Pergi ke { $hostname }
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Kata laluan terdedah
+about-logins-vulnerable-alert-text2 = Kata laluan ini telah digunakan pada akaun lain yang berkemungkinan terlibat dalam bocoran data. Penggunaan semula kelayakan membahayakan semua akaun anda. Ubah kata laluan ini.
