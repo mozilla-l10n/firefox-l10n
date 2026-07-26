@@ -19,5 +19,6 @@ ssl-error-bad-client = سرور داده یل اشتوایی ز کلاینت گ�
 ssl-error-bad-server = کلاینت داده یل اشتوایی ز سرور گرؽڌه.
 ssl-error-unsupported-certificate-type = ای نوع گوواهی لادراری نؽبۊ.
 ssl-error-unsupported-version = ترف موقابل نوسخه‌ای ز قرارداد ٱمنیتی ن و کار گرؽڌه ک لادراری نؽبۊ.
+ssl-error-wrong-certificate = ائراز هۊویت کلاینت شکست خرد: کیلیت سیخومی مووجۊد من دیتابیس کیلیتا وا کیلیت پوی وولاتی مووجۊد من دیتابیس گوواهی یل ی جۊر نؽ.
 ssl-error-user-canceled-alert = منتور ری و ری مرهله نیایی ن لقو کرد.
 sec-error-user-cancelled = منتور دویمه لقو ن فشار داڌ.
