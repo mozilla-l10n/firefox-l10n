@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Μετάφραση σελίδας…
 appmenuitem-zoom =
     .value = Ζουμ
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Μοιραστείτε το { -brand-product-name }
 appmenuitem-more-tools =
     .label = Περισσότερα εργαλεία
 # Menu combining the previous "Help" menu and report broken site
@@ -132,6 +136,8 @@ fxa-menu-manage-sync-settings =
     .label = Διαχείριση ρυθμίσεων συγχρονισμού
 fxa-menu-add-device =
     .label = Προσθήκη συσκευής
+fxa-menu-manage-devices =
+    .label = Διαχείριση συσκευών
 fxa-menu-device-missing =
     .label = Δεν βλέπετε τη συσκευή σας;
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
@@ -140,6 +146,8 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Όλες οι συσκευές
+fxa-menu-get-firefox-mobile =
+    .label = Απόκτηση του { -brand-product-name } για Android ή iOS
 fxa-menu-secure-sync-subpanel =
     .title = Ασφαλής συγχρονισμός
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -383,6 +391,8 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Τρέχον προφίλ σε χρήση
 fxa-menu-create-profile-subpanel =
     .title = Δημιουργία νέου προφίλ
+fxa-menu-create-profile-heading = Αναβαθμίστε την περιήγησή σας με ένα νέο προφίλ
+fxa-menu-create-profile-description = Διαχωρίστε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και το ιστορικό σας για επαγγελματική και προσωπική περιήγηση.
 fxa-menu-create-profile-confirm =
     .label = Δημιουργία νέου προφίλ
 fxa-menu-create-profile-learn-more =
@@ -397,3 +407,15 @@ appmenu-secure-sync-header = Ασφαλής συγχρονισμός
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Πρόσφατες καρτέλες
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Προβολή { $tabCount } συγχρονισμένης καρτέλας
+           *[other] Προβολή και των { $tabCount } συγχρονισμένων καρτελών
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Αποστολή τρέχουσας σελίδας σε αυτήν τη συσκευή

@@ -31,6 +31,8 @@ appearance-browser-icon-bonus-group =
 # unlocked (the browser is both the default and pinned to the taskbar).
 appearance-browser-icon-unlocked =
     .message = Ξεκλειδώσατε όλα τα επιπλέον εικονίδια!
+appearance-browser-icon-set-default-button =
+    .label = Ορίστηκε ως προεπιλογή
 appearance-browser-icon-pin-button =
     .label = Καρφίτσωμα στη γραμμή εργασιών
 

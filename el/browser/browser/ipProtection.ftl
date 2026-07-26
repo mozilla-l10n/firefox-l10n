@@ -58,12 +58,30 @@ ipprotection-feature-introduction-button-get-started = Έναρξη
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Θα γίνει επαναφορά των ορίων του ενσωματωμένου VPN την 1η Σεπτεμβρίου
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Χρησιμοποιήστε τα { $maxUsage } GB σας και 6 τοποθεσίες για επιπλέον ιδιωτικότητα, ώστε να κάνετε πιο δύσκολη την καταγραφή της περιήγησής σας.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Χρησιμοποιήστε τα { $maxUsage } GB σας και περισσότερες από 20 τοποθεσίες για επιπλέον ιδιωτικότητα, ώστε να κάνετε πιο δύσκολη την καταγραφή της περιήγησής σας.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Το ενσωματωμένο VPN σας μόλις έγινε καλύτερο
+ipprotection-summer-promo-offramp-subscriber-description = Έχετε πλέον απεριόριστο εύρος ζώνης και περισσότερες τοποθεσίες ως συνδρομητής του { -mozilla-vpn-brand-name }.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Διατηρήστε τις επιπλέον τοποθεσίες του ενσωματωμένου VPN σας
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Ορίστε το { -brand-product-name } ως προεπιλεγμένο πρόγραμμα περιήγησης και αποκτήστε περισσότερες από 20 επιπλέον τοποθεσίες για περιήγηση μετά τις 31 Αυγούστου.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Αναβάθμιση με το { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Διατηρήστε το απεριόριστο εύρος ζώνης μετά τις 31 Αυγούστου, με 300+ τοποθεσίες σε 5 συσκευές για πιο δύσκολη καταγραφή της περιήγησής σας.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Άνοιγμα VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Ορίστηκε ως προεπιλογή
 ipprotection-summer-promo-offramp-get-subscription-button = Απόκτηση του { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Απόρριψη
 
@@ -166,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Ελέγξτε τη σύ�
 ipprotection-connection-status-network-error-description = Συνδεθείτε στο διαδίκτυο και δοκιμάστε να ενεργοποιήσετε το VPN.
 ipprotection-connection-status-blocked-error-title-1 = Το VPN δεν είναι διαθέσιμο
     .aria-label = Το VPN δεν είναι διαθέσιμο
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Οι τοπικοί νόμοι και περιορισμοί καθορίζουν πού μπορείτε να χρησιμοποιήσετε το VPN. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
 ipprotection-connection-status-blocked-error-description = Η εγχώρια νομοθεσία δεν μας επιτρέπει να παρέχουμε την υπηρεσία VPN σε αυτήν την περιοχή. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

@@ -92,6 +92,10 @@ customkeys-conflict-confirm-title = Αφαίρεση άλλης συντόμευ
 customkeys-conflict-confirm-body = Αυτό το πλήκτρο χρησιμοποιείται ήδη για τη συντόμευση «{ $conflict }».
 customkeys-conflict-confirm-button-confirm = Χρήση ούτως ή άλλως
 customkeys-conflict-confirm-button-cancel = Ακύρωση
+customkeys-conflict-unusable-title = Το πλήκτρο δεν μπορεί να χρησιμοποιηθεί
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Αυτό το πλήκτρο χρησιμοποιείται ήδη για την ενέργεια «{ $conflict }» και δεν μπορεί να χρησιμοποιηθεί.
 customkeys-reset-all-confirm-title = Επαναφορά προεπιλογών;
 customkeys-reset-all-confirm-body = Θα καταργηθούν όλες οι προσαρμοσμένες συντομεύσεις πληκτρολογίου που έχετε δημιουργήσει.
 customkeys-reset-all-confirm-button-confirm = Επαναφορά προεπιλογών

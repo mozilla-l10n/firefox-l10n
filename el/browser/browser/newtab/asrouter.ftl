@@ -301,6 +301,11 @@ launch-on-login-infobar-final-reject-button = Όχι, ευχαριστώ
 ## experiment enabled launch-on-login for the user), informing them that this
 ## happened and letting them keep it on or turn it off.
 
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = Το { -brand-short-name } ανοίγει πλέον κατά τη σύνδεσή σας στα Windows. Μπορείτε πάντα να αλλάξετε αυτήν τη συμπεριφορά αργότερα στις ρυθμίσεις.
+launch-on-login-autostart-infobar-keep-button = Να παραμείνει ενεργή
+    .accesskey = μ
 launch-on-login-autostart-infobar-turn-off-button = Απενεργοποίηση
     .accesskey = Α
 
@@ -509,6 +514,8 @@ nova-early-access-infobar-primary-button = Το κατάλαβα
 ## launch-on-login, taskbar pinning, and session restore.
 
 launch-options-spotlight-title-launch-on-login = Εκκίνηση του { -brand-short-name } κάθε φορά που συνδέεστε στα Windows;
+launch-options-spotlight-title-session-restore = Επαναφορά της συνεδρίας σας κατά την επανεκκίνηση του { -brand-short-name };
+launch-options-spotlight-checkbox-launch-on-login = Άνοιγμα του { -brand-short-name } κατά την εκκίνηση
 launch-options-spotlight-checkbox-pin-to-taskbar = Καρφίτσωμα στη γραμμή εργασιών σας
 # Shown on the browser-close prompt only
 launch-options-spotlight-checkbox-restore-current = Επαναφορά τρεχόντων παραθύρων και καρτελών
