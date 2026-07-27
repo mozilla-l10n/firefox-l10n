@@ -70,7 +70,7 @@ turn-on-scheduled-backups-header = Slå på sikkerheitskopiering
 turn-on-scheduled-backups-description = { -brand-short-name } vil opprette eit snapshot av dataa dine kvar 24. time. Du kan gjenopprette det dersom det oppstår eit problem eller du får ei ny eining.
 turn-on-scheduled-backups-support-link = Kva vert sikkerheitskopiert?
 # "Location" refers to the save location or a folder where users want backups stored.
-turn-on-scheduled-backups-location-label = Plassering
+turn-on-scheduled-backups-location-label = Stad
 # Variables:
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =

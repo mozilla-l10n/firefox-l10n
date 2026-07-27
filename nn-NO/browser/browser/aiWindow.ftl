@@ -198,6 +198,26 @@ aiwindow-close-sidebar =
     .aria-label = Lat att
     .tooltiptext = Lat att
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu-chat-history = Chattehistorikk
+aiwindow-history-menu-back =
+    .aria-label = Tilbake
+    .tooltiptext = Tilbake
+aiwindow-history-menu-view-all-chats = Vis alle chattar
+aiwindow-history-menu-settings = { -smart-window-brand-name }-innstillingar
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Ny chatt
+aiwindow-fullpage-chat-history =
+    .label = Chattehistorikk
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Synkroniserte data blir verande på kontoen din. Opne { -smart-window-brand-name(plural-form: "true") } vil byte til klassiske vindauge.
