@@ -362,7 +362,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } skoðar fjölbreytt úrval
 newtab-error-fallback-info = Úbbs, eitthvað fór úrskeiðis við að hlaða þessu efni inn.
 newtab-error-fallback-refresh-link = Endurlestu síðu til að reyna aftur.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Flýtileiðir
 newtab-custom-shortcuts-subtitle = Vefsvæði sem þú vistar eða heimsækir

@@ -428,7 +428,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } istražuje raznolik raspon
 newtab-error-fallback-info = Došlo je do greške prilikom učitavanja ovog sadržaja.
 newtab-error-fallback-refresh-link = Osvježi stranicu za ponovni pokušaj.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Prečaci
 newtab-custom-shortcuts-subtitle = Stranice koje spremiš ili posjetiš

@@ -651,7 +651,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } šěroku paletu publikacij
 newtab-error-fallback-info = Hopla, při čitanju tutoho wobsaha je so něšto nimokuliło.
 newtab-error-fallback-refresh-link = Aktualizujće stronu, zo byšće hišće raz spytał.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Zwjazanja
 newtab-custom-shortcuts-subtitle = Sydła, kotrež składujeće abo wopytujeće

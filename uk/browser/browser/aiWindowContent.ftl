@@ -170,9 +170,6 @@ action-log-reading-page = Читання сторінки
 action-log-read-page = Виконано читання вмісту сторінки
 action-log-searching-web = Пошук в інтернеті
 action-log-searched-web = Виконано пошук в інтернеті
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Виконано пошук в інтернеті за допомогою Exa
 action-log-checking-memories = Перевірка пам'яті
 action-log-checked-memories = Перевірено пам'ять
 action-log-searching-settings = Пошук налаштувань

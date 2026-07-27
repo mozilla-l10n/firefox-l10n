@@ -180,9 +180,6 @@ action-log-reading-page = Čtení stránky
 action-log-read-page = Obsah stránky přečten
 action-log-searching-web = Vyhledávání na webu
 action-log-searched-web = Vyhledáno na webu
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Hledáno na webu pomocí Exa
 action-log-checking-memories = Kontrolují se vzpomínky
 action-log-checked-memories = Vzpomínky zkontrolovány
 action-log-searching-settings = Vyhledávání nastavení

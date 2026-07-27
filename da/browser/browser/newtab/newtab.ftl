@@ -473,7 +473,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } gennemsøger en lang rækk
 newtab-error-fallback-info = Hovsa. Noget gik galt ved indlæsning af indholdet.
 newtab-error-fallback-refresh-link = Prøv igen ved at genindlæse siden.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Genveje
 newtab-custom-shortcuts-subtitle = Gemte eller besøgte websteder

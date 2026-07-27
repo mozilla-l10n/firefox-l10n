@@ -690,7 +690,7 @@ newtab-pocket-onboarding-cta = Služba { -pocket-brand-name } skúma rozmanitú 
 newtab-error-fallback-info = Hups, pri načítavaní tohto obsahu sa niečo pokazilo.
 newtab-error-fallback-refresh-link = Obnovením stránky to skúsite znova.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Skratky
 newtab-custom-shortcuts-subtitle = Stránky, ktoré si uložíte alebo navštívite

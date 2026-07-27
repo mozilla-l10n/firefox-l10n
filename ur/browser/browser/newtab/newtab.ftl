@@ -241,7 +241,7 @@ newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
 newtab-error-fallback-info = افوہ ، اس مواد کو لوڈ کرنے میں کچھ غلط ہو گیا۔
 newtab-error-fallback-refresh-link = دوبارہ کوشش کرنے کے لئے پیج کو ریفریش کریں۔
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = تیز راہ
 newtab-custom-shortcuts-subtitle = وہ سائٹس جو آپ محفوظ کرتے ہیں یا ملاحظہ کرتے ہیں۔

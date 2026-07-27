@@ -256,7 +256,7 @@ newtab-pocket-save = I-save
 newtab-error-fallback-info = Oops, may naganap na mali sa paglo-load ng nilalamang ito.
 newtab-error-fallback-refresh-link = I-refresh ang pahina para masubukan uli.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Mga shortcut
 newtab-custom-shortcuts-subtitle = Mga site na nai-save o binibisita mo

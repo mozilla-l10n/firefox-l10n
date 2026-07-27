@@ -683,7 +683,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } explorează o gamă divers
 newtab-error-fallback-info = Ups, ceva nu a funcționat la încărcarea acestui conținut.
 newtab-error-fallback-refresh-link = Reîmprospătează pagina pentru a încerca din nou.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Comenzi rapide
 newtab-custom-shortcuts-subtitle = Site-uri pe care le salvezi sau le vizitezi

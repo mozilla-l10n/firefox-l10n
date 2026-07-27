@@ -601,7 +601,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name }, çeşitli yayınları tar
 newtab-error-fallback-info = Bu içerik yüklenirken bir hata oluştu.
 newtab-error-fallback-refresh-link = Yeniden denemek için sayfayı tazeleyin.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Kısayollar
 newtab-custom-shortcuts-subtitle = Kaydettiğiniz veya ziyaret ettiğiniz siteler

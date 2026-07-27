@@ -276,7 +276,7 @@ newtab-pocket-pocket-firefox-family = El { -pocket-brand-name } és part de la f
 newtab-error-fallback-info = Vaja, s'ha produït un error en carregar este contingut.
 newtab-error-fallback-refresh-link = Actualitzeu la pàgina per tornar-ho a provar.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Dreceres
 newtab-custom-shortcuts-subtitle = Llocs que guardeu o visiteu

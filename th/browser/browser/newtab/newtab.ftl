@@ -515,7 +515,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } สำรวจสิ่�
 newtab-error-fallback-info = อุปส์ มีบางอย่างผิดพลาดในการโหลดเนื้อหานี้
 newtab-error-fallback-refresh-link = เรียกหน้าใหม่เพื่อลองอีกครั้ง
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = ทางลัด
 newtab-custom-shortcuts-subtitle = ไซต์ที่คุณบันทึกหรือเยี่ยมชม

@@ -160,9 +160,6 @@ action-log-reading-page = Paĝo legata
 action-log-read-page = Legi enhavon de paĝo
 action-log-searching-web = Interreto serĉata
 action-log-searched-web = Interreto serĉita
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Interreto serĉita per Exa
 action-log-checking-memories = Memoraĵoj kontrolataj
 action-log-checked-memories = Memoraĵoj kontrolitaj
 action-log-searching-settings = Agordoj serĉataj

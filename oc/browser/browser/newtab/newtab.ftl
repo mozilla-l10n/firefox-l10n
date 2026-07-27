@@ -318,7 +318,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } percor una plaja larga de 
 newtab-error-fallback-info = Ops, una error s’es producha en cargant aqueste contengut.
 newtab-error-fallback-refresh-link = Actualizatz la pagina per tornar ensajar.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Acorchis
 newtab-custom-shortcuts-subtitle = Los sites qu’enregistratz o consultatz

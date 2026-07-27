@@ -678,7 +678,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } მოიძიებს �
 newtab-error-fallback-info = სამწუხაროდ, შიგთავსის ჩატვირთვისას რაღაც ხარვეზი წარმოიქმნა.
 newtab-error-fallback-refresh-link = განაახლეთ გვერდი და სცადეთ ხელახლა.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = მალსახმობები
 newtab-custom-shortcuts-subtitle = საიტები, რომლებსაც ინახავთ ან სტუმრობთ

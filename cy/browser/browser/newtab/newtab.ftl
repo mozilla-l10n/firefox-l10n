@@ -712,7 +712,7 @@ newtab-pocket-onboarding-cta = Mae { -pocket-brand-name } yn archwilio ystod amr
 newtab-error-fallback-info = Wps, aeth rhywbeth o'i le wrth llwytho'r cynnwys hwn.
 newtab-error-fallback-refresh-link = Adnewyddu'r dudalen i geisio eto.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Llwybrau Byr
 newtab-custom-shortcuts-subtitle = Gwefannau rydych yn eu cadw neu'n ymweld â nhw

@@ -679,7 +679,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } ең ақпараттан�
 newtab-error-fallback-info = Қап, бұл құраманы жүктеу кезінде бірнәрсе қате кетті.
 newtab-error-fallback-refresh-link = Қайталап көру үшін, бетті жаңартыңыз.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Жарлықтар
 newtab-custom-shortcuts-subtitle = Сіз сақтайтын немесе шолатын сайттар

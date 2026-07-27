@@ -283,7 +283,7 @@ newtab-pocket-onboarding-discover = Tawila' ri rutzil ajk'amaya'l
 newtab-error-fallback-info = Uy, k'o jun itzel xel toq nisamajib'ëx re rupam re'.
 newtab-error-fallback-refresh-link = Titzolïx ruxaq richin nitojtob'ëx chik.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Chojmin Okem
 newtab-custom-shortcuts-subtitle = Taq ruxaq xe'ayäk o xe'atz'ët

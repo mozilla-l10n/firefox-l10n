@@ -678,7 +678,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name }(e)k hainbat argitalpen ara
 newtab-error-fallback-info = Kontxo, zerbait gaizki joan da edukia kargatzerakoan.
 newtab-error-fallback-refresh-link = Berritu orria berriro saiatzeko.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Lasterbideak
 newtab-custom-shortcuts-subtitle = Gordetzen edo bisitatzen dituzun guneak

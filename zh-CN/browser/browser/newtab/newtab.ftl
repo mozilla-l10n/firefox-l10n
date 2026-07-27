@@ -590,7 +590,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } 探索各种各样的出�
 newtab-error-fallback-info = 哎呀，加载内容时发生错误。
 newtab-error-fallback-refresh-link = 刷新页面以重试。
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = 快捷方式
 newtab-custom-shortcuts-subtitle = 您保存或访问过的网站

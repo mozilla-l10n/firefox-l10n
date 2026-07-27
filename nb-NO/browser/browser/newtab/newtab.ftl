@@ -678,7 +678,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } utforsker et mangfold av p
 newtab-error-fallback-info = Ups, noe gikk galt når innholdet skulle lastes inn.
 newtab-error-fallback-refresh-link = Oppdater siden for å prøve igjen.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Snarveier
 newtab-custom-shortcuts-subtitle = Nettsteder du lagrer eller besøker

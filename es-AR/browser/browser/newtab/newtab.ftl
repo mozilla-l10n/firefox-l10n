@@ -677,7 +677,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } explora un rango diverso d
 newtab-error-fallback-info = Epa, algo salió mal al cargar este contenido.
 newtab-error-fallback-refresh-link = Refrescar la página para reintentar.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Accesos directos
 newtab-custom-shortcuts-subtitle = Sitios guardados o visitados

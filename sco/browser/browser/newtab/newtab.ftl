@@ -275,7 +275,7 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } is pairt o the { -b
 newtab-error-fallback-info = Och, sowt went wrang when loadin this content.
 newtab-error-fallback-refresh-link = Refresh page fur tae gie it anither shottie.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Shortcuts
 newtab-custom-shortcuts-subtitle = Sites ye save or veesit

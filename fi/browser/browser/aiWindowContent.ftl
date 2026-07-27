@@ -160,9 +160,6 @@ action-log-reading-page = Luetaan sivua
 action-log-read-page = Luettiin sivun sisältö
 action-log-searching-web = Haetaan verkosta
 action-log-searched-web = Haettiin verkosta
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Haettiin verkosta Exalla
 action-log-checking-memories = Tarkistetaan muistoja
 action-log-checked-memories = Tarkistettiin muistot
 action-log-searching-settings = Etsitään asetuksia

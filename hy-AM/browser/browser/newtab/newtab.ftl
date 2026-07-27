@@ -432,7 +432,7 @@ newtab-pocket-onboarding-discover = Բացահայտեք համացանցի լա
 newtab-error-fallback-info = Վայ, ինչ-որ սխալ է տեղի ունեցել այս բովանդակությունը բեռնելու համար:
 newtab-error-fallback-refresh-link = Թարմացրեք էջը՝ կրկին փորձելու համար:
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Դյուրանցումներ
 newtab-custom-shortcuts-subtitle = Կայքեր, որոնք պահել կամ այցելել եք

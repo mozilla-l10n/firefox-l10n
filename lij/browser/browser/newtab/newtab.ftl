@@ -208,7 +208,7 @@ newtab-pocket-saved = Sarvòu
 newtab-error-fallback-info = Ahime mi, gh'é quarche problema into caregamento de sto contegnuo.
 newtab-error-fallback-refresh-link = Agiorna pagina pe provâ torna.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Scorsaieu
 # Variables

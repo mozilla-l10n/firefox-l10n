@@ -204,6 +204,6 @@ newtab-pocket-saved = Kigwoko
 newtab-error-fallback-info = Aii, gin mo otime marac i cano jami man.
 newtab-error-fallback-refresh-link = Nwo cano potbuk me temo odoco.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-close-button = Lor

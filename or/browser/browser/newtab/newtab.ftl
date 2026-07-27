@@ -172,7 +172,7 @@ newtab-pocket-cta-button = { -pocket-brand-name } ପାଆନ୍ତୁ
 newtab-error-fallback-info = ଇସ୍, ଏହି ବିଷୟବସ୍ତୁ ଲୋଡ୍ କରିବାରେ କିଛି ଗଡ଼ବଡ଼ ଦେଖାଯାଇଛି।
 newtab-error-fallback-refresh-link = ପୃଷ୍ଠାଟିକୁ ରିଫ୍ରେଶ କରି ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-recent-title = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
 newtab-custom-close-button = ବନ୍ଦ କରନ୍ତୁ

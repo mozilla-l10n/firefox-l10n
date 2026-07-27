@@ -439,7 +439,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } al esplore une grande schi
 newtab-error-fallback-info = Orpo!, alc al è lât strucj tal cjariâ chest contignût.
 newtab-error-fallback-refresh-link = Inzorne la pagjine par tornâ a provâ.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Scurtis
 newtab-custom-shortcuts-subtitle = Sîts che tu âs salvât o visitât

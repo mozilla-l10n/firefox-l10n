@@ -362,7 +362,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } izpēta daudzveidīgu publ
 newtab-error-fallback-info = Ak vai, ielādējot saturu kaut kas nogājis greizi.
 newtab-error-fallback-refresh-link = Pārlādējiet lapu, lai mēģinātu vēlreiz.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Saīsnes
 newtab-custom-shortcuts-subtitle = Saglabātās vai apmeklētās vietnes

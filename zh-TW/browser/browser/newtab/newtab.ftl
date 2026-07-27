@@ -647,7 +647,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } 為您探索不同的線�
 newtab-error-fallback-info = 唉唷，載入內容時發生錯誤。
 newtab-error-fallback-refresh-link = 請重新整理頁面再試一次。
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = 捷徑
 newtab-custom-shortcuts-subtitle = 您儲存或造訪過的網站

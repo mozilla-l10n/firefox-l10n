@@ -332,7 +332,7 @@ newtab-pocket-onboarding-cta = Furchal a ra { -pocket-brand-name } en embannadur
 newtab-error-fallback-info = Chaous, un dra bennak a zo a-dreuz en ur gargañ an endalc'had.
 newtab-error-fallback-refresh-link = Adkargit ar bajenn evit klask en-dro.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Berradennoù
 newtab-custom-shortcuts-subtitle = Lec'hiennoù bet enrollet pe gweladennet ganeoc'h

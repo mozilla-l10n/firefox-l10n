@@ -160,9 +160,6 @@ action-log-reading-page = Sayfa okunuyor
 action-log-read-page = Sayfa içeriği okundu
 action-log-searching-web = Web’de aranıyor
 action-log-searched-web = Web’de arandı
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Exa ile web’de arama yapıldı
 action-log-checking-memories = Anılar kontrol ediliyor
 action-log-checked-memories = Anılar kontrol edildi
 action-log-searching-settings = Ayarlar aranıyor

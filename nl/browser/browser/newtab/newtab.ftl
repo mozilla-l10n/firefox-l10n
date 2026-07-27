@@ -679,7 +679,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } verkent een breed scala aa
 newtab-error-fallback-info = Oeps, er is iets misgegaan bij het laden van deze inhoud.
 newtab-error-fallback-refresh-link = Vernieuw de pagina om het opnieuw te proberen.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Snelkoppelingen
 newtab-custom-shortcuts-subtitle = Opgeslagen of bezochte websites

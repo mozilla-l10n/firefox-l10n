@@ -257,7 +257,7 @@ newtab-pocket-cta-text = Sevdiyiniz məqalələri { -pocket-brand-name }-də sax
 newtab-error-fallback-info = Uups, bu məzmunu yüklərkən nəsə səhv getdi.
 newtab-error-fallback-refresh-link = Təkrar yoxlamaq üçün səhifəni yeniləyin.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-widget-picture-toggle =
     .label = Günün şəkli

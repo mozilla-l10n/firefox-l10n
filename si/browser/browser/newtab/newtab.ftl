@@ -285,7 +285,7 @@ newtab-toast-dismiss-button =
 newtab-error-fallback-info = අහෝ, මෙම අන්තර්ගතය පූර්ණයෙදී යම් වරදක් සිදුවිය.
 newtab-error-fallback-refresh-link = පිටුව නැවුම් කර බලන්න.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = කෙටිමං
 newtab-custom-shortcuts-subtitle = ඔබ සුරකින හෝ ගොඩවදින අඩවි

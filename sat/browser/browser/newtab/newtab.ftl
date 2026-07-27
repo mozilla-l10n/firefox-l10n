@@ -323,7 +323,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } ᱟᱢᱟᱜ { -brand-prod
 newtab-error-fallback-info = ᱮᱦᱮ, ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱞᱟᱫᱮ ᱡᱷᱚᱜ ᱪᱮᱫ ᱪᱷᱚᱸ ᱵᱷᱩᱞ ᱦᱩᱭ ᱮᱱᱟ ᱾
 newtab-error-fallback-refresh-link = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱦᱴᱟ ᱯᱷᱟᱨᱱᱟᱭ ᱢᱮ ᱾
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 newtab-custom-shortcuts-subtitle = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ

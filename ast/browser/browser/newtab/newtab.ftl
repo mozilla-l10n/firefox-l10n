@@ -195,7 +195,7 @@ newtab-pocket-learn-more = Lleer más
 
 newtab-error-fallback-info = Meca, asocedió daqué malo al cargar esti conteníu.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Atayos
 newtab-custom-shortcuts-subtitle = Sitios que guardes o visites

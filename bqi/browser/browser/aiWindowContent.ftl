@@ -136,9 +136,6 @@ action-log-reading-page = بلگه خوندن
 action-log-read-page = موئتوا بلگه ن بخۊوین
 action-log-searching-web = پیتینیڌن من وبگه
 action-log-searched-web = وبگه پیتینیڌه
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = مو Exa ن سی پیتینیڌن من وب و کار گرؽڌوم
 action-log-checking-memories = واجۊری خاترات
 action-log-checked-memories = خاترات واجۊری بیڌه
 action-log-searching-settings = پیتینیڌن من سامووا

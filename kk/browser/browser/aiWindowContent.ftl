@@ -168,9 +168,6 @@ action-log-searching-web-with-exa = Интернетті <a data-l10n-name="exa-
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Интернет <a data-l10n-name="exa-link">Exa</a> көмегімен ізделді
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Интернет Exa арқылы ізделді
 action-log-checking-memories = Жадыны тексеру
 action-log-checked-memories = Жады тексерілді
 action-log-searching-settings = Баптауларда іздеу

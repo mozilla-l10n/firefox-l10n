@@ -302,7 +302,7 @@ newtab-pocket-onboarding-discover = بهترین‌های وب را کشف کن�
 newtab-error-fallback-info = اوه، هنگام بارگیری این محتوا مشکلی پیش آمد.
 newtab-error-fallback-refresh-link = برای تلاش مجدد صفحه را نوسازی کنید.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = میانبرها
 newtab-custom-shortcuts-subtitle = وب‌سایت‌هایی که ذخیره یا بازدید می‌کنید

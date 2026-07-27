@@ -128,9 +128,6 @@ action-log-searching-web-with-exa = 正在使用 <a data-l10n-name="exa-link">Ex
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = 已使用 <a data-l10n-name="exa-link">Exa</a> 搜尋網路
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = 已使用 Exa 進行網路搜尋
 action-log-checking-memories = 正在確認記憶
 action-log-checked-memories = 已確認記憶
 action-log-searching-settings = 正在搜尋選項

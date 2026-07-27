@@ -647,7 +647,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } khám phá nhiều loại 
 newtab-error-fallback-info = Rất tiếc, đã xảy ra lỗi khi tải nội dung này.
 newtab-error-fallback-refresh-link = Thử làm mới lại trang.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Lối tắt
 newtab-custom-shortcuts-subtitle = Các trang web bạn lưu hoặc truy cập

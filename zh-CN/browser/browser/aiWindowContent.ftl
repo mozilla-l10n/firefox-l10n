@@ -115,9 +115,6 @@ action-log-reading-page = 正在读取页面
 action-log-read-page = 已读取页面
 action-log-searching-web = 正在搜索网页
 action-log-searched-web = 已搜索网页
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = 使用 Exa 进行网络搜索
 action-log-checking-memories = 正在检查记忆
 action-log-checked-memories = 已检查记忆
 action-log-searching-settings = 正在搜索设置

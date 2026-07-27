@@ -348,7 +348,7 @@ newtab-pocket-onboarding-discover = Snirem ayen akk igerrzen deg web
 newtab-error-fallback-info = Ihuh, yella wayen yeḍran deg usali n ugbur-a.
 newtab-error-fallback-refresh-link = Sali-d aseter akken ad talseḍ aɛraḍ.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Inegzumen
 newtab-custom-shortcuts-subtitle = Ismal i teskelseḍ neɣ wuɣur terziḍ

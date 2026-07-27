@@ -259,7 +259,7 @@ newtab-pocket-cta-text = Sizga yoqqan maqolalarni { -pocket-brand-name } xizmati
 newtab-error-fallback-info = Kontent yuklanayotganda qandaydir xatolik yuz berdi.
 newtab-error-fallback-refresh-link = Yana urinib ko‘rish uchun sahifani yangilang.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-settings = Boshqa sozlamalarni boshqarish
 

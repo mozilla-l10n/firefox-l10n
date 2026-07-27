@@ -726,7 +726,7 @@ newtab-pocket-onboarding-cta =
 newtab-error-fallback-info = Jejda, při načítání tohoto obsahu se něco pokazilo.
 newtab-error-fallback-refresh-link = Opětovným načtením stránky to zkuste znovu.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Zkratky
 newtab-custom-shortcuts-subtitle = Uložené nebo navštěvované stránky

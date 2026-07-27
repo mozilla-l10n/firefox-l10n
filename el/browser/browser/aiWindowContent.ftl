@@ -168,9 +168,6 @@ action-log-searching-web-with-exa = Αναζήτηση στον ιστό με τ
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Έγινε αναζήτηση στον ιστό με το <a data-l10n-name="exa-link">Exa</a>
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Έγινε αναζήτηση στο διαδίκτυο με το Exa
 action-log-checking-memories = Έλεγχος αναμνήσεων
 action-log-checked-memories = Έγινε έλεγχος αναμνήσεων
 action-log-searching-settings = Αναζήτηση ρυθμίσεων

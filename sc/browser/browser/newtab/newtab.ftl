@@ -387,7 +387,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } esplorat una cantidade man
 newtab-error-fallback-info = Ohi, ddoe est istada una faddina in su carrigamentu de custu cuntenutu.
 newtab-error-fallback-refresh-link = Agiorna sa pàgina pro torrare a proare.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Curtzadòrgios
 newtab-custom-shortcuts-subtitle = Sitos chi as sarvadu o bisitadu

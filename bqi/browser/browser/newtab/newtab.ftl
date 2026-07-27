@@ -536,7 +536,7 @@ newtab-pocket-onboarding-discover = بؽڌرینا وب ن بجۊرین
 newtab-error-fallback-info = ای بوۊمی، مجال دانلود ای موئتوا موشکلؽ پؽش ٱووڌ.
 newtab-error-fallback-refresh-link = سی قپ ریت دووارته بلگه ن وانۊ کۊنین.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = ره نهنگا
 newtab-custom-shortcuts-nova =

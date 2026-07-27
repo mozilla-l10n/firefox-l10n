@@ -502,7 +502,7 @@ newtab-pocket-onboarding-cta = يستكشف { -pocket-brand-name } مجموعة 
 newtab-error-fallback-info = أخ! حدث خطب ما أثناء تحميل المحتوى.
 newtab-error-fallback-refresh-link = أنعِش الصفحة لإعادة المحاولة.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = الاختصارات
 newtab-custom-shortcuts-subtitle = المواقع التي حفظتها أو زرتها

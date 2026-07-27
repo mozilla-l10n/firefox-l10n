@@ -265,7 +265,7 @@ newtab-pocket-cta-text = { -pocket-brand-name } এ আপনার পছন্
 newtab-error-fallback-info = ওহো, কনটেন্টটি লোড করতে কিছু ভুল হয়েছে।
 newtab-error-fallback-refresh-link = আবার চেষ্টা করতে পাতাটি পুনঃসতেজ করুন।
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = শর্টকাট
 newtab-custom-shortcuts-subtitle = আপনার সংরক্ষণ বা পরিদর্শন করা সাইট

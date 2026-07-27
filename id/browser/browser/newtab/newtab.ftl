@@ -354,7 +354,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } mengeksplorasi beragam pub
 newtab-error-fallback-info = Ups, ada masalah saat memuat konten ini.
 newtab-error-fallback-refresh-link = Segarkan laman untuk mencoba lagi.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Pintasan
 newtab-custom-shortcuts-subtitle = Situs yang Anda simpan atau kunjungi

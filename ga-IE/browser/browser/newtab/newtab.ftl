@@ -362,7 +362,7 @@ newtab-pocket-cta-button = Faigh { -pocket-brand-name }
 newtab-pocket-save = Sábháil
 newtab-pocket-saved = Sábháilte
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Aicearraí
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over

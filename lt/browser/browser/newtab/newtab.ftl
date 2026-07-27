@@ -279,7 +279,7 @@ newtab-pocket-pocket-firefox-family = „{ -pocket-brand-name }“ yra „{ -bra
 newtab-error-fallback-info = Ups, įkeliant šį turinį įvyko klaida.
 newtab-error-fallback-refresh-link = Pabandykite iš naujo įkelti tinklalapį.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Leistukai
 newtab-custom-shortcuts-subtitle = Jūsų įrašytos arba lankomos svetainės

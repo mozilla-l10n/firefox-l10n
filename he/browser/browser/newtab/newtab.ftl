@@ -666,7 +666,7 @@ newtab-pocket-onboarding-cta = ‏{ -pocket-brand-name } חוקר מגוון ר�
 newtab-error-fallback-info = אופס, משהו השתבש בעת טעינת התוכן הזה.
 newtab-error-fallback-refresh-link = נא לרענן את הדף כדי לנסות שוב.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = קיצורי דרך
 newtab-custom-shortcuts-subtitle = אתרים ששמרת או ביקרת בהם

@@ -168,9 +168,6 @@ action-log-searching-web-with-exa = Recherche sur le Web avec <a data-l10n-name=
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Recherche sur le Web avec <a data-l10n-name="exa-link">Exa</a> effectuée
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Recherche effectuée sur le Web avec Exa
 action-log-checking-memories = Consultation des souvenirs
 action-log-checked-memories = Souvenirs consultés
 action-log-searching-settings = Recherche dans les paramètres

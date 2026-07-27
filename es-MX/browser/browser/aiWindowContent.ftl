@@ -160,9 +160,6 @@ action-log-reading-page = Leyendo página
 action-log-read-page = Leer el contenido de la página
 action-log-searching-web = Buscar en la web
 action-log-searched-web = Búsqueda en la web
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Búsqueda en la web con Exa
 action-log-checking-memories = Revisar recuerdos
 action-log-checked-memories = Revisión de recuerdos
 action-log-searching-settings = Buscar en la configuración

@@ -120,9 +120,6 @@ action-log-reading-page = Đang đọc trang
 action-log-read-page = Đã đọc nội dung trang
 action-log-searching-web = Đang tìm kiếm web
 action-log-searched-web = Đã tìm kiếm web
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Đã tìm kiếm web với Exa
 action-log-checking-memories = Đang kiểm tra ký ức
 action-log-checked-memories = Đã kiểm tra ký ức
 action-log-searching-settings = Đang tìm kiếm cài đặt

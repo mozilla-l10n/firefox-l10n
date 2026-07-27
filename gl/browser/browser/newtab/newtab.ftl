@@ -362,7 +362,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } explora unha ampla gama de
 newtab-error-fallback-info = Vaites, produciuse un erro ao cargar este contido.
 newtab-error-fallback-refresh-link = Actualice a páxina para tentalo de novo.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Atallos
 newtab-custom-shortcuts-subtitle = Sitios gardados ou visitados

@@ -168,9 +168,6 @@ action-log-searching-web-with-exa = Zoeken op het web met <a data-l10n-name="exa
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Het web is doorzocht met <a data-l10n-name="exa-link">Exa</a>
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Op internet gezocht met Exa
 action-log-checking-memories = Herinneringen controleren
 action-log-checked-memories = Herinneringen gecontroleerd
 action-log-searching-settings = Instellingen doorzoeken

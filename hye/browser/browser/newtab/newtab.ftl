@@ -276,7 +276,7 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } պատկանում 
 newtab-error-fallback-info = Վայ, ինչ-որ սխալ է տեղի ունեցել այս բովանդակութիւնը բեռնելու համար։
 newtab-error-fallback-refresh-link = Թարմացրեք էջը՝ կրկին փորձելու համար։
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Դիւրանցումներ
 newtab-custom-shortcuts-subtitle = Կայքեր, որոնք Դուք պահում էք կամ այցելում

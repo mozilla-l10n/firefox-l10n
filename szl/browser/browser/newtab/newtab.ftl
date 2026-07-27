@@ -273,7 +273,7 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je tajlōm familije
 newtab-error-fallback-info = Cosik sie niy podarziło przi wczytowaniu tyj zawartości.
 newtab-error-fallback-refresh-link = Ôdświyż strōna, coby sprōbować jeszcze roz.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Skrōty
 newtab-custom-shortcuts-subtitle = Spamiyntane i nawiydzane strōny

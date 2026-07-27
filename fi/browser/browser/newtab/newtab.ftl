@@ -677,7 +677,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } tutkii monenlaisia julkais
 newtab-error-fallback-info = Hups, jotain meni vikaan tätä sisältöä ladattaessa.
 newtab-error-fallback-refresh-link = Yritä uudestaan päivittämällä sivu.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Oikotiet
 newtab-custom-shortcuts-subtitle = Tallentamasi tai vierailemasi sivustot

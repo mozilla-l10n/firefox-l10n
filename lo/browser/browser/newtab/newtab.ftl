@@ -277,7 +277,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } ສຳຫຼວດຄວ�
 newtab-error-fallback-info = ໂອ້ຍ, ມີບາງສິ່ງບາງຢ່າງຜິດພາດໃນການໂຫລດເນື້ອຫານີ້.
 newtab-error-fallback-refresh-link = ຟື້ນຟູໜ້າເພື່ອລອງອີກຄັ້ງ.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = ທາງລັດ
 newtab-custom-shortcuts-subtitle = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ

@@ -170,9 +170,6 @@ action-log-reading-page = Читам страницу
 action-log-read-page = Прочитан садржај странице
 action-log-searching-web = Претражујем веб
 action-log-searched-web = Претражен веб
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Претражен веб помоћу Exa-е
 action-log-checking-memories = Проверавам сећања
 action-log-checked-memories = Проверена сећања
 action-log-searching-settings = Претражујем подешавања

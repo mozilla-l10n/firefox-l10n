@@ -292,7 +292,7 @@ newtab-pocket-onboarding-cta = Rùraichidh { -pocket-brand-name } raon farsaing 
 newtab-error-fallback-info = Ìoc, chaidh rudeigin cearr fhad ’s a bha sinn a’ luchdadh na susbaint seo.
 newtab-error-fallback-refresh-link = Ath-nuadhaich an duilleag airson fheuchainn ris a-rithist.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Ath-ghoiridean
 newtab-custom-shortcuts-subtitle = Làraichean a shàbhail thu no a thadhail thu orra

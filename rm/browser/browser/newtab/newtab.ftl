@@ -402,7 +402,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } intercurescha ina colleczi
 newtab-error-fallback-info = Oha, igl è succedì in sbagl cun chargiar il cuntegn.
 newtab-error-fallback-refresh-link = Rechargia la pagina per reempruvar.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Scursanidas
 newtab-custom-shortcuts-subtitle = Websites che ti memoriseschas u visitas

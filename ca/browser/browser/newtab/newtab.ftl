@@ -610,7 +610,7 @@ newtab-pocket-onboarding-cta = El { -pocket-brand-name } revisa un gran ventall 
 newtab-error-fallback-info = Vaja, s'ha produït un error en carregar aquest contingut.
 newtab-error-fallback-refresh-link = Actualitzeu la pàgina per tornar-ho a provar.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Dreceres
 newtab-custom-shortcuts-subtitle = Llocs que deseu o visiteu

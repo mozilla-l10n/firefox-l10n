@@ -356,7 +356,7 @@ newtab-pocket-onboarding-discover = ഗോളാന്തരവലയിന്�
 newtab-error-fallback-info = പൊറുക്കണം, ഈ ഉള്ളടക്കം ലഭ്യമാക്കുമ്പോഴു് കുഴപ്പം സംഭവിച്ചു.
 newtab-error-fallback-refresh-link = വീണ്ടും ശ്രമിക്കുന്നതിന് പേജ് പുതുക്കുക.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = കുറുക്കുവഴികൾ
 newtab-custom-shortcuts-subtitle = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ

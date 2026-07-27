@@ -370,7 +370,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } изследва широ�
 newtab-error-fallback-info = Ааах, нещо се обърка и съдържанието не е заредено.
 newtab-error-fallback-refresh-link = Презаредете страницата за повторен опит.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Препратки
 newtab-custom-shortcuts-subtitle = Страници за преглед по-късно

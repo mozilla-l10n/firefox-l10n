@@ -673,7 +673,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } esploras vastan diversecon
 newtab-error-fallback-info = Fuŝ', io malbona okazis dum ŝargo de tiu ĉi enhavo.
 newtab-error-fallback-refresh-link = Refreŝigi paĝon por klopodi denove.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Ŝparvojoj
 newtab-custom-shortcuts-subtitle = Retejoj konservitaj aŭ vizititaj de vi

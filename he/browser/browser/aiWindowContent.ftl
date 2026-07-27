@@ -168,9 +168,6 @@ action-log-searching-web-with-exa = בתהליך חיפוש באינטרנט ב�
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = בוצע חיפוש באינטרנט בעזרת <a data-l10n-name="exa-link">Exa</a>
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = בוצע חיפוש ברשת באמצעות Exa
 action-log-checking-memories = בתהליך בדיקת זכרונות
 action-log-checked-memories = בוצעה בדיקת זכרונות
 action-log-searching-settings = בתהליך חיפוש בהגדרות

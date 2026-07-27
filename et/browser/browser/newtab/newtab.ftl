@@ -276,7 +276,7 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-pro
 newtab-error-fallback-info = Ups, selle sisu laadimisel läks midagi viltu.
 newtab-error-fallback-refresh-link = Uuesti proovimiseks laadi leht uuesti.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Otseteed
 newtab-custom-shortcuts-subtitle = Saidid, mida oled külastanud või mille oled salvestanud

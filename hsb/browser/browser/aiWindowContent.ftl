@@ -188,9 +188,6 @@ action-log-searching-web-with-exa = Web z <a data-l10n-name="exa-link">Exa</a> p
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Web z <a data-l10n-name="exa-link">Exa</a> přepytany
-# Exa is the name of a third-party web search API
-# It is a brand name and should not be translated
-action-log-searched-web-exa = Z Exa web přepytany
 action-log-checking-memories = Dopomnjeća so přepruwuja
 action-log-checked-memories = Přepruwowane dopomnjeća
 action-log-searching-settings = Nastajenja přepytać

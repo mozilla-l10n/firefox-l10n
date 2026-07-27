@@ -207,7 +207,7 @@ newtab-pocket-cta-button = { -pocket-brand-name } পাওক
 
 newtab-error-fallback-refresh-link = পুনৰ চেষ্টা কৰিবলৈ পৃষ্ঠা সতেজ কৰক।
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-subtitle = আপুনি সাঁচি থোৱা বা দৰ্শন কৰা ছাইটসমূহ
 # Variables

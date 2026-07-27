@@ -257,7 +257,7 @@ newtab-pocket-cta-text = Chuva'a da tu'un jiniñu'unu { -pocket-brand-name } je 
 newtab-error-fallback-info = Ups, iyo iin ntu nkene vii saa kuvi síne yaa´a.
 newtab-error-fallback-refresh-link = Nachu´un página je nakajie´e tuku.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Da acceso ñama
 newtab-custom-shortcuts-subtitle = Da nuu chuva´anu a xíín ne´yanu

@@ -679,7 +679,7 @@ newtab-pocket-onboarding-cta = A { -pocket-brand-name } publikációk széles v�
 newtab-error-fallback-info = Hoppá, valami hiba történt a tartalom betöltésekor.
 newtab-error-fallback-refresh-link = Az újrapróbálkozáshoz frissítse az oldalt.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Indítóikonok
 newtab-custom-shortcuts-subtitle = Mentett vagy felkeresett webhelyek

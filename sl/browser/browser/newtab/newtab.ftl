@@ -603,7 +603,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } vam iz raznolike palete pu
 newtab-error-fallback-info = Ojoj, pri nalaganju te vsebine je šlo nekaj narobe.
 newtab-error-fallback-refresh-link = Osvežite stran za ponoven poskus.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Bližnjice
 newtab-custom-shortcuts-subtitle = Strani, ki jih shranite ali obiščete

@@ -679,7 +679,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } ferkent in breed skala oan
 newtab-error-fallback-info = Oeps, der is wat misgien by it laden fan dizze ynhâld.
 newtab-error-fallback-refresh-link = Fernij de side om it opnij te probearjen.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Fluchkeppelingen
 newtab-custom-shortcuts-subtitle = Bewarre of besochte websites

@@ -420,7 +420,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } eksploron një gamë të l
 newtab-error-fallback-info = Hëm, diç shkoi ters në ngarkimin e kësaj lënde.
 newtab-error-fallback-refresh-link = Rifreskoni faqen që të riprovohet.
 
-## Customization Menu
+## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Shkurtore
 newtab-custom-shortcuts-subtitle = Sajte që ruani ose vizitoni
