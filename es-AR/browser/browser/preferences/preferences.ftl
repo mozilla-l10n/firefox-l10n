@@ -1683,6 +1683,14 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = No se agregaron direcciones
+personal-info-group =
+    .label = Información personal
+autofill-personal-info-checkbox-message =
+    .label = Guardar y autocompletar información personal
+autofill-personal-info-manage-button =
+    .label = Administrar información personal
+passports-list-header =
+    .label = Pasaportes
 passports-delete-passport-button-label =
     .aria-label = Borrar
 passports-edit-passport-button-label =

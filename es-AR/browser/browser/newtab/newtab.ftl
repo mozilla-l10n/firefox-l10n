@@ -425,6 +425,7 @@ newtab-topsites-add-shortcut-label = Agregar atajo
 newtab-topsites-add-shortcut-title =
     .title = Agregar atajo
     .aria-label = Agregar atajo
+newtab-shortcuts-pinned-area = Área fijada
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Ingresar un título
