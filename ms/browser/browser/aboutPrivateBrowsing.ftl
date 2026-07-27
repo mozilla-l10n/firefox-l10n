@@ -67,3 +67,24 @@ about-private-browsing-pin-promo-title = Tiada kuki atau sejarah disimpan, terus
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Banner kuki, hilang!
 about-private-browsing-cookie-banners-promo-button = Kurangkan Banner Kuki
+about-private-browsing-cookie-banners-promo-message = Biarkan { -brand-short-name } menjawab pop timbul kuki secara automatik untuk anda supaya anda boleh kembali melayari tanpa gangguan. { -brand-short-name } akan menolak semua permintaan jika boleh.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } menguruskan banner kuki untuk anda
+about-private-browsing-cookie-banners-promo-body = Kami kini menolak banyak banner kuki secara automatik supaya anda kurang dijejaki dan boleh kembali melayari tanpa gangguan.
+
+## Strings for the info section of about:privatebrowsing
+
+about-private-browsing-felt-privacy-v1-info-header = Jangan tinggalkan kesan pada peranti ini
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } memadamkan kuki, sejarah dan data tapak anda apabila anda menutup semua tetingkap peribadi anda.
+about-private-browsing-felt-privacy-v1-info-link = Siapa yang mungkin dapat melihat aktiviti saya?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Menutup semua tetingkap peribadi anda memadamkan kuki, sejarah dan data tapak anda.
+about-private-browsing-nova-info-link = Siapa yang masih mungkin dapat melihat aktiviti saya?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Sejarah pelayaran anda akan dipadamkan
+about-private-browsing-nova-info-subheader = Kami akan memadamkan setiap carian dan daftar masuk apabila anda menutup tetingkap ini. Perlindungan terbina dalam { -brand-short-name } juga aktif di sini, seperti menyekat penjejak.

@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = Um Ihre Tabs vom Telefon hier ab
 firefoxview-tabpickup-step-signin-primarybutton = Weiter
 firefoxview-syncedtabs-signin-header-2 = Ihr { -brand-product-name } auf all Ihren Geräten
 firefoxview-syncedtabs-signin-description-2 = Melden Sie sich an oder erstellen Sie ein Konto, um Tabs zu sehen, die Sie auf Ihrem Telefon und anderen Geräten geöffnet haben. Mit einem Konto können Sie auch Ihre Passwörter, Chronik und mehr synchronisieren.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Nahtlos vom Laptop zum Telefon
 firefoxview-syncedtabs-signin-primarybutton-2 = Anmelden
 firefoxview-tabpickup-adddevice-header = Synchronisieren Sie { -brand-product-name } auf Ihrem Telefon oder Tablet
 firefoxview-tabpickup-adddevice-description = Laden Sie { -brand-product-name } für Mobilgeräte herunter und melden Sie sich dort an.
@@ -44,18 +46,28 @@ firefoxview-tabpickup-synctabs-header = Tab-Synchronisation aktivieren
 firefoxview-tabpickup-synctabs-description = Erlauben Sie { -brand-short-name }, Tabs zwischen Geräten zu teilen.
 firefoxview-tabpickup-synctabs-learn-how = Erfahren Sie, wie es geht
 firefoxview-tabpickup-synctabs-primarybutton = Offene Tabs synchronisieren
+firefoxview-tabpickup-synctabs-primarybutton-2 = Tab-Synchronisation aktivieren
 firefoxview-syncedtabs-synctabs-header = Synchronisationseinstellungen aktualisieren
 firefoxview-syncedtabs-synctabs-description = Um Tabs von anderen Geräten zu sehen, müssen Sie Ihre offenen Tabs synchronisieren.
+firefoxview-syncedtabs-synctabs-header-2 = Tab-Synchronisation ist deaktiviert
+firefoxview-syncedtabs-synctabs-description-2 = Aktivieren Sie die Synchronisation wieder, um all Ihre Tabs von anderen Geräten zu übernehmen.
 firefoxview-syncedtabs-loading-header = Synchronisierung läuft
 firefoxview-syncedtabs-loading-description = Wenn es abgeschlossen ist, sehen Sie alle Tabs, die Sie auf anderen Geräten geöffnet haben. Schauen Sie bald wieder vorbei.
+firefoxview-syncedtabs-loading-header-2 = Ihre Tabs abholen…
+firefoxview-syncedtabs-loading-description-2 = Synchronisation läuft. Tabs werden bald hier sein.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ihre Organisation hat das Synchronisieren deaktiviert
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kann Tabs nicht zwischen Geräten synchronisieren, da Ihr Administrator das Synchronisieren deaktiviert hat.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kann Tabs nicht zwischen Geräten synchronisieren, da Ihre Organisation das Synchronisieren deaktiviert hat.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Tab-Synchronisation ist deaktiviert
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ihre Organisation hat diese Funktion blockiert.
 firefoxview-tabpickup-network-offline-header = Überprüfen Sie Ihre Internetverbindung
 firefoxview-tabpickup-network-offline-description = Wenn Sie eine Firewall oder einen Proxy verwenden, überprüfen Sie, ob { -brand-short-name } die Berechtigung hat, auf das Internet zuzugreifen.
 firefoxview-tabpickup-network-offline-primarybutton = Erneut versuchen
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } kann derzeit keine Verbindung herstellen
+firefoxview-tabpickup-network-offline-description-2 = Möglicherweise sind Sie offline, oder etwas blockiert die Verbindung.
 firefoxview-tabpickup-sync-error-header = Wir haben Probleme bei der Synchronisierung
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } kann den Synchronisierungsdienst derzeit nicht erreichen. Versuchen Sie es in ein paar Augenblicken erneut.
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } konnte keine Verbindung herstellen. Warten Sie einen Moment und versuchen Sie es dann erneut
 firefoxview-tabpickup-sync-error-primarybutton = Erneut versuchen
 firefoxview-tabpickup-sync-disconnected-header = Synchronisation aktivieren, um fortzufahren
 firefoxview-tabpickup-sync-disconnected-description = Um Ihre Tabs abzurufen, müssen Sie die Synchronisierung in { -brand-short-name } erlauben.
@@ -65,10 +77,14 @@ firefoxview-tabpickup-password-locked-description = Um Ihre Tabs abzurufen, müs
 firefoxview-tabpickup-password-locked-link = Weitere Informationen
 firefoxview-tabpickup-password-locked-primarybutton = Hauptpasswort eingeben
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Weitere Informationen</a>
+firefoxview-tabpickup-password-locked-header-2 = Entsperren Sie Tabs mit Ihrem Hauptpasswort
+firefoxview-tabpickup-password-locked-description-2 = Für Ihre Privatsphäre werden synchronisierte Tabs geschützt. Geben Sie Ihr { -brand-short-name }-Hauptpasswort ein, um Tabs auf Ihren anderen Geräten anzuzeigen.
 firefoxview-tabpickup-signed-out-header = Melden Sie sich an, um die Verbindung wiederherzustellen
 firefoxview-tabpickup-signed-out-description = Um die Verbindung wiederherzustellen und Ihre Tabs abzurufen, melden Sie sich bei Ihrem { -fxaccount-brand-name } an.
 firefoxview-tabpickup-signed-out-description2 = Um die Verbindung wiederherzustellen und Ihre Tabs abzurufen, melden Sie sich bei Ihrem Konto an.
 firefoxview-tabpickup-signed-out-primarybutton = Anmelden
+firefoxview-tabpickup-signed-out-header-2 = Melden Sie sich an, um Ihre Tabs zu sehen
+firefoxview-tabpickup-signed-out-description-2 = Stellen Sie die Verbindung wieder her, um Tabs von anderen Geräten anzuzeigen.
 firefoxview-tabpickup-syncing = Warten Sie, während Ihre Tabs synchronisiert werden. Es wird nur einen Moment dauern.
 firefoxview-mobile-promo-header = Holen Sie sich Tabs von Ihrem Telefon oder Tablet
 firefoxview-mobile-promo-description = Um Ihre neuesten mobilen Tabs anzuzeigen, melden Sie sich auf iOS oder Android bei { -brand-product-name } an.
@@ -210,6 +226,7 @@ firefoxview-show-all-history = Gesamte Chronik anzeigen
 firefoxview-history-empty-header = Kommen Sie zurück dorthin, wo Sie schon waren
 firefoxview-history-empty-description = Während Sie surfen, werden die von Ihnen besuchten Seiten hier aufgelistet.
 firefoxview-history-empty-description-two = Der Schutz Ihrer Privatsphäre ist das Herzstück dessen, was wir tun. Deshalb können Sie die Aktivitäten, die { -brand-short-name } sich merkt, in Ihren <a data-l10n-name="history-settings-url">Chronik-Einstellungen</a> anpassen.
+firefoxview-history-empty-description-2 = Wenn Sie Seiten besuchen, wird Ihre Chronik hier angezeigt. Kontrollieren Sie, was in den <a data-l10n-name="history-settings-url">Einstellungen</a> gespeichert wird.
 
 ##
 
@@ -221,6 +238,9 @@ firefoxview-choose-browser-button = Browser wählen
 
 firefoxview-dont-remember-history-empty-header-2 = Sie haben die Kontrolle darüber, was { -brand-short-name } speichert
 firefoxview-dont-remember-history-empty-description-one = { -brand-short-name } kann im Moment Ihre Surf-Aktivitäten nicht speichern. Um dies zu ändern, <a data-l10n-name="history-settings-url-two">aktualisieren Sie Ihre Chronikeinstellungen</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Das ist vertraulich
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } speichert derzeit Ihre Chronik nicht. Ändern Sie das jederzeit in den <a data-l10n-name="history-settings-url-two">Einstellungen</a>.
 
 ##
 

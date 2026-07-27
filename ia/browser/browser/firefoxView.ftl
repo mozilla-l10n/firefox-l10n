@@ -71,6 +71,8 @@ firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } non pote 
 firefoxview-tabpickup-network-offline-description-2 = Tu poterea esser sin connexion, o alco pote blocar.
 firefoxview-tabpickup-sync-error-header = Nos ha difficultates pro le synchronisation
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } non pote attinger le servicio de synchronisation al momento. Retenta post alcun momentos.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Problema a synchronisar
 firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } non poteva connecter se. Da illo un momento, pois retenta
 firefoxview-tabpickup-sync-error-primarybutton = Retenta
 firefoxview-tabpickup-sync-disconnected-header = Activa le synchronisation pro continuar
@@ -82,10 +84,13 @@ firefoxview-tabpickup-password-locked-link = Pro saper plus
 firefoxview-tabpickup-password-locked-primarybutton = Insere le contrasigno primari
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Pro saper plus</a>
 firefoxview-tabpickup-password-locked-header-2 = Disbloca schedas con tu contrasigno primari
+firefoxview-tabpickup-password-locked-description-2 = Pro tu confidentialitate, le schedas synchronisate es protegite.  Insere tu contrasigno primari de { -brand-short-name } prp vider schedas ab tu altere dispositivos.
 firefoxview-tabpickup-signed-out-header = Accede pro reconnecter te
 firefoxview-tabpickup-signed-out-description = Pro reconnecter te e recuperar tu schedas, accede a tu { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Pro reconnecter te e recuperar tu schedas, accede a tu conto.
 firefoxview-tabpickup-signed-out-primarybutton = Acceder
+firefoxview-tabpickup-signed-out-header-2 = Accede pro vider tu schedas
+firefoxview-tabpickup-signed-out-description-2 = Reconnecter se pro vider schedas de altere dispositivos.
 firefoxview-tabpickup-syncing = Sia patiente durante que tu schedas se synchronisa. Isto prendera solo un momento.
 firefoxview-mobile-promo-header = Accede al schedas aperte ab tu telephono o tabletta
 firefoxview-mobile-promo-description = Pro vider tu ultime schedas mobile, accede a { -brand-product-name } sur iOS o Android.
@@ -227,6 +232,10 @@ firefoxview-show-all-history = Monstrar tote le chronologia
 firefoxview-history-empty-header = Retorna ubi tu era
 firefoxview-history-empty-description = Quando tu naviga, le paginas que tu visita apparera hic.
 firefoxview-history-empty-description-two = Proteger tu confidentialitate es al corde de lo que nos face. Pro isto tu pote controlar le activitate que { -brand-short-name } rememora, in tu <a data-l10n-name="history-settings-url">parametros de chronologia</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Tu pista de navigation initia ci
+firefoxview-history-empty-description-2 = Dum tu visita paginas, tu chronologia apparera ci. Controla lo que es memorisate in <a data-l10n-name="history-settings-url">configurationes</a>.
 
 ##
 
@@ -240,6 +249,7 @@ firefoxview-dont-remember-history-empty-header-2 = Tu es al commando de cosa { -
 firefoxview-dont-remember-history-empty-description-one = Justo ora, { -brand-short-name } non memorara activitate de tu navigation. Pro cambiar isto, <a data-l10n-name="history-settings-url-two">actualisa le parametros de tu chronologia</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Tu navigation non sera registrate
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } non salva tu chronologia a iste momento.  Cambia lo quandocunque in <a data-l10n-name="history-settings-url-two">configurationes</a>.
 
 ##
 
