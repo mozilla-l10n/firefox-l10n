@@ -307,6 +307,9 @@ appmenu-help-share-ideas =
     .accesskey = D
 appmenu-help-switch-device =
     .label = Prelazak na novi uređaj
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Pomoć i prijava
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -354,10 +357,16 @@ appmenuitem-relay-title2 = Zaštitite privatnost svoje e-pošte
 appmenuitem-relay-description2 = Pomaže u sprječavanju neželjene pošte u pristigloj pošti
 appmenuitem-relay-description = Maskiraj svoju pravu e-mail adresu i telefonski broj
 appmenuitem-services-relay-description = Pokreni nadzornu ploču za maske e-mail adresa
+appmenuitem-vpn-title2 = Sakrijte svoju lokaciju pomoću { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Otežajte praćenje vašeg pregledavanja
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Zaštiti cijeli uređaj
 appmenuitem-vpn-description = Zaštiti svoju online aktivnost
 appmenu-services-header = Moje usluge
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Alati za privatnost
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -371,9 +380,20 @@ appmenu-manage-profiles =
     .label = Upravljaj profilima
 appmenu-copy-profile =
     .label = Kopiraj ovaj profil
+appmenu-create-profile2 =
+    .label = Stvori novi profil
 appmenu-create-profile =
     .label = Novi profil
 appmenu-edit-profile =
     .aria-label = Uredi profil
+appmenu-edit-this-profile =
+    .label = Uredi ovaj profil
+appmenu-profile-current-in-use = Trenutni profil u upotrebi
+fxa-menu-create-profile-subpanel =
+    .title = Stvori novi profil
+fxa-menu-create-profile-heading = Podignite svoje pregledavanje na višu razinu s novim profilom
+fxa-menu-create-profile-description = Odjelite poslovne i privatne zabilješke, lozinke i povijest pregledavanja.
+fxa-menu-create-profile-confirm =
+    .label = Stvorite novi profil
 appmenu-profiles-2 =
     .label = Profili

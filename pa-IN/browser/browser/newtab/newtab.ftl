@@ -475,6 +475,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = ਸੋਧੋ
+newtab-menu-add-topsite = ਨਵੇਂ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਜੋੜੋ
 newtab-menu-open-new-window = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
 newtab-menu-open-new-private-window = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
 newtab-menu-dismiss = ਰੱਦ ਕਰੋ
@@ -1119,6 +1120,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = ਰੱਦ ਕਰੋ
     .title = ਰੱਦ ਕਰੋ
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = ਚੋਣਾਂ ਦੀ ਸੂਚੀ
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + ਨਵੀਂ ਸੂਚੀ ਬਣਾਓ

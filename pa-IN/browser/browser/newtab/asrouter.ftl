@@ -301,6 +301,9 @@ launch-on-login-infobar-final-reject-button = ਨਹੀਂ, ਧੰਨਵਾਦ
 ## experiment enabled launch-on-login for the user), informing them that this
 ## happened and letting them keep it on or turn it off.
 
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = ਹੁਣ ਜਦੋਂ ਤੁਸੀਂ Windows ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਕਦੇ ਵੀ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਬਦਲ ਸਕਦੇ ਹੋ।
 launch-on-login-autostart-infobar-keep-button = ਚਾਲੂ ਰੱਖੋ
     .accesskey = K
 launch-on-login-autostart-infobar-turn-off-button = ਬੰਦ ਕਰੋ
@@ -510,6 +513,9 @@ nova-early-access-infobar-primary-button = ਸਮਝੇ
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = ਜਦੋਂ ਤੁਸੀਂ Windows ਵਿੱਚ ਸਾਈਨ-ਇਨ ਕਰੋ ਤਾਂ ਕੀ { -brand-short-name } ਹਰ ਵਾਰ ਸ਼ੁਰੂ ਹੋਵੇ?
+launch-options-spotlight-title-session-restore = ਜਦੋਂ { -brand-short-name } ਮੁੜ-ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ ਤਾਂ ਕੀ ਤੁਹਾਡੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹਣਾ ਹੈ?
+launch-options-spotlight-checkbox-launch-on-login = ਸ਼ੁਰੂ ਵੇਲੇ { -brand-short-name } ਨੂੰ ਖੋਲ੍ਹੋ
 launch-options-spotlight-checkbox-pin-to-taskbar = ਆਪਣੀ ਟਾਸਕਬਾਰ ਵਿੱਚ ਟੰਗੋ
 # Shown on the browser-close prompt only
 launch-options-spotlight-checkbox-restore-current = ਮੌਜੂਦਾ ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ

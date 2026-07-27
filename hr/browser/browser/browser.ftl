@@ -872,6 +872,58 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pitaj
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Posljednje posjećeno { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Posljednje posjećeno { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days-2 =
+    { $daysAgo ->
+        [one] Posljednje posjećeno prije { $daysAgo } dan
+        [few] Posljednje posjećeno prije { $daysAgo } dana
+       *[other] Posljednje posjećeno prije { $daysAgo } dana
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks-2 =
+    { $weeksAgo ->
+        [one] Posljednje posjećeno prije { $daysAgo } tjedan
+        [few] Posljednje posjećeno prije { $daysAgo } tjedna
+       *[other] Posljednje posjećeno prije { $daysAgo } tjedana
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months-2 =
+    { $monthsAgo ->
+        [one] Posljednje posjećeno prije { $daysAgo } mjesec
+        [few] Posljednje posjećeno prije { $daysAgo } mjeseca
+       *[other] Posljednje posjećeno prije { $daysAgo } mjeseci
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Posljednje posjećeno { $date }
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -999,6 +1051,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Pretraživanje ključnih riječi je isključeno
 urlbar-searchmode-dropmarker2 =
     .title = Odaberi tražilicu
+urlbar-searchmode-bookmarks3 = Zabilješke
+    .accesskey = b
+urlbar-searchmode-tabs3 = Kartice
+    .accesskey = t
+urlbar-searchmode-history3 = Povijest
+    .accesskey = P
+urlbar-searchmode-actions3 = Radnje
+    .accesskey = a
 urlbar-searchmode-bookmarks2 = Zabilješke
 urlbar-searchmode-tabs2 = Kartice
 urlbar-searchmode-history2 = Povijest
@@ -1018,6 +1078,10 @@ urlbar-searchmode-popup-one-off-header = Ovaj put traži pomoću:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Traži pomoću:
+urlbar-searchmode-popup-search-settings = Postavke pretrage
+    .accesskey = s
+urlbar-searchmode-popup-settings = Postavke
+    .accesskey = s
 urlbar-searchmode-popup-search-settings-panelitem = Postavke pretrage
 urlbar-searchmode-popup-settings-panelitem = Postavke
 
@@ -1292,6 +1356,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
@@ -1481,6 +1548,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Završi privatnu sesiju
     .tooltiptext = Završi privatnu sesiju
+reset-pbm-panel-heading2 = Želite li izbrisati podatke i započeti novu privatnu sesiju?
+reset-pbm-panel-description2 = Ovim se briše povijest, kolačići i svi ostali podaci web stranice bez zatvaranja vašeg privatnog prozora.
 reset-pbm-panel-heading = Završi privatnu sesiju?
 reset-pbm-panel-description = Zatvori sve privatne kartice i izbriši povijest, kolačiće i sve ostale podatke web-stranica.
 reset-pbm-panel-always-ask-checkbox =
@@ -1666,6 +1735,15 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Nije sigurno
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } blokirani pratitelj
+        [few] { $count } blokirana pratitelja
+       *[other] { $count } blokiranih pratitelja
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1766,7 +1844,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Ove web-stranice pokušavaju rudariti kriptovalute:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Imate li račun na ovoj stranici?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } je otkrio da je na ovoj stranici došlo do curenja podataka u posljednjih 12 mjeseci. Saznajte jeste li bili pogođeni.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Odbaci
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Započni besplatno skeniranje
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count"> { $count } </span> program za praćenje je blokiran na ovoj web-stranici

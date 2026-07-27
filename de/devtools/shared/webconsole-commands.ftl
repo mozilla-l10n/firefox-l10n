@@ -14,7 +14,7 @@ webconsole-commands-usage-block =
     Blockieren von Netzwerkanfragen starten
     
       Akzeptiert nur ein URL_STRING-Argument, einen String ohne Anführungszeichen, der verwendet wird, um alle Anfragen, deren URL diesen String enthalten, zu blockieren.
-      Verwenden Sie :unblock oder die Sidebar zum Blockieren vom Anfragen in der Netzwerkanalyse, um dies rückgängig zu machen.
+      Verwenden Sie :unblock oder die Sidebar zum Blockieren von Anfragen in der Netzwerkanalyse, um dies rückgängig zu machen.
 # Usage string for :unblock command
 webconsole-commands-usage-unblock =
     :unblock URL_STRING

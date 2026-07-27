@@ -148,10 +148,12 @@ aiwindow-firstrun-memories-choose-label = { -smart-window-brand-name(form: "uppe
 aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name(form: "uppercase-singular") } sohbetleri
 aiwindow-firstrun-memories-checkbox-browsing = { -brand-product-name } gezintileri
 aiwindow-firstrun-memories-update-settings = İstediğiniz zaman ayarlardan güncelleyebilirsiniz.
+aiwindow-firstrun-memories-no-create = Anlaşıldı. { -smart-window-brand-name } anı oluşturmayacak. İstediğiniz zaman ayarlardan bu tercihinizi değiştirebilirsiniz.
 
 ## Firstrun set as default onboarding
 
 aiwindow-firstrun-default-title = { -smart-window-brand-name(form: "uppercase-singular") }yi varsayılan yapın
+aiwindow-firstrun-default-subtitle = Tek bir noktadan internette gezinin, arama yapın ve soru sorun. İstediğiniz zaman gizli veya klasik pencere de açabilirsiniz.
 aiwindow-firstrun-default-checkbox-label = { -brand-product-name } her zaman { -smart-window-brand-name }de açılsın
 aiwindow-firstrun-default-checkbox-description = İstediğiniz zaman ayarlardan değiştirebilirsiniz
 
@@ -286,7 +288,9 @@ smart-window-default-promo-additional-button = Şimdi değil
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Görüş bildir
+aiwindow-feedback-what-worked-well = Neleri başarılı buldunuz? Lütfen kişisel bilgilerinizi paylaşmayın.
 aiwindow-feedback-choose-any = Uygun olanları seçin
+aiwindow-feedback-add-details = Dilerseniz detaylandırın. Lütfen kişisel bilgilerinizi paylaşmayın.
 aiwindow-feedback-submit = Gönder
 aiwindow-feedback-cancel = Vazgeç
 aiwindow-feedback-reason-incorrect-or-misleading = Yanlış veya yanıltıcı

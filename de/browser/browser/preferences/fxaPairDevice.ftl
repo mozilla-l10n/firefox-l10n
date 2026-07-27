@@ -9,5 +9,5 @@ fxa-qrcode-pair-step1 = 1. Öffnen Sie { -brand-product-name } auf Ihrem Mobilge
 fxa-qrcode-pair-step2-device-steps = 2. Öffnen Sie das Menü und tippen Sie auf <strong>Anmelden</strong>
 fxa-qrcode-pair-step2-signin = 2. Öffnen Sie das Menü (<img data-l10n-name="ios-menu-icon"/> auf iOS oder <img data-l10n-name="android-menu-icon"/> auf Android) und tippen Sie auf <strong>Daten synchronisieren und speichern</strong>
 fxa-qrcode-pair-step3 = 3. Tippen Sie auf <strong>Bereit zum Scannen</strong> und halten Sie Ihr Telefon über diesen Code
-fxa-qrcode-error-title = Verbinden fehlschlagen
+fxa-qrcode-error-title = Verbinden fehlgeschlagen
 fxa-qrcode-error-body = Erneut versuchen
