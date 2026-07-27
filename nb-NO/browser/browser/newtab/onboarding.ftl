@@ -633,3 +633,7 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Assistenten vil forbli st
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Bruk «Spør» for å åpne den på en hvilken som helst side. Du kan endre dette når som helst i <a data-l10n-name="settings">Innstillinger</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Skjønner
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Hvis du ombestemmer deg, kan du når som helst oppdatere standardinnstillingen i <a data-l10n-name="settings">Innstillinger</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-button-label = Lagre og fortsett

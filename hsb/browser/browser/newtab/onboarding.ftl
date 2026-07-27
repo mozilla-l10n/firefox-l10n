@@ -637,4 +637,5 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jeli swoje měnjenje m
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Wubjerće drastu
+onboarding-theme-picker-subtitle = Přinjesće trochu wjace barby do { -brand-short-name }.
 onboarding-theme-picker-button-label = Składować a pokročować

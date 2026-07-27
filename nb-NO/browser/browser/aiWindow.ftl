@@ -198,6 +198,15 @@ aiwindow-close-sidebar =
     .aria-label = Lukk
     .tooltiptext = Lukk
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Flere innstillinger
+    .tooltiptext = Flere innstillinger
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Synkroniserte data blir værende på kontoen din. Åpne { -smart-window-brand-name(plural-form: "true") } vil bytte til klassiske vinduer.
