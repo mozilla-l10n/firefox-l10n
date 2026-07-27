@@ -1016,7 +1016,7 @@ urlbar-result-explanation-last-visited-absolute-2 = Zuletzt besucht am { $date }
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Holen Sie sich Aktiendaten direkt in Ihre Suchleiste
 # This string is shown as description when Market suggestion are disabled.
-urlbar-result-market-opt-in-description = ´Markt-Updates und mehr von unseren Partnern anzeigen, wenn Sie Suchanfragedaten mit { -vendor-short-name } teilen. <a data-l10n-name="learn-more-link">Weitere Informationen</a>
+urlbar-result-market-opt-in-description = Markt-Updates und mehr von unseren Partnern anzeigen, wenn Sie Suchanfragedaten mit { -vendor-short-name } teilen. <a data-l10n-name="learn-more-link">Weitere Informationen</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Vorschläge anzeigen
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -1386,7 +1386,7 @@ toolbar-overflow-customize-button =
     .label = Symbolleisten anpassen…
     .accesskey = S
 toolbar-button-email-link =
-    .label = ­Link senden
+    .label = Link senden
     .tooltiptext = Link zu dieser Seite per E-Mail senden
 toolbar-button-logins =
     .label = Passwörter
@@ -1415,7 +1415,7 @@ toolbar-button-save-page =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
-    .label = ­Datei öffnen
+    .label = Datei öffnen
     .tooltiptext = Datei öffnen ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = Synchronisierte Tabs
