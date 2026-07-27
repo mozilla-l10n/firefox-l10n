@@ -12,7 +12,7 @@
 pocket-panel-saved-add-tags =
     .placeholder = Tags hinzufügen
 pocket-panel-saved-error-generic = Beim Speichern des Links bei { -pocket-brand-name } ist ein Fehler aufgetreten.
-pocket-panel-saved-error-tag-length = Tags dürfen höchsten 25 Zeichen lang sein.
+pocket-panel-saved-error-tag-length = Tags dürfen höchstens 25 Zeichen lang sein.
 pocket-panel-saved-error-only-links = Es können nur Links gespeichert werden
 pocket-panel-saved-error-not-saved = Seite nicht gespeichert
 pocket-panel-saved-error-no-internet = Sie müssen mit dem Internet verbunden sein, um bei { -pocket-brand-name } zu speichern. Bitte stellen Sie eine Internetverbindung her und versuchen Sie es erneut.

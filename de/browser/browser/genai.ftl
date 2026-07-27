@@ -92,8 +92,8 @@ genai-shortcuts-selected-warning =
     .heading = { $provider } erhält nicht Ihre vollständige Auswahl
     .message =
         { $selectionLength ->
-            [one] Sie haben ein Zeichen gewählt. Die Anzahl an Zeichen, die wir an { $provider } senden können, ist ewa { $maxLength }.
-           *[other] Sie haben { $selectionLength } Zeichen gewählt. Die Anzahl an Zeichen, die wir an { $provider } senden können, ist ewa { $maxLength }.
+            [one] Sie haben ein Zeichen gewählt. Die Anzahl an Zeichen, die wir an { $provider } senden können, ist etwa { $maxLength }.
+           *[other] Sie haben { $selectionLength } Zeichen gewählt. Die Anzahl an Zeichen, die wir an { $provider } senden können, ist etwa { $maxLength }.
         }
 genai-shortcuts-hide =
     .label = Chatbot-Verknüpfung ausblenden

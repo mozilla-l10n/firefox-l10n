@@ -405,7 +405,7 @@ onboarding-many-tabs-subtitle = Viele Tabs offen lassen? Probiere die Tabs an de
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Wähle dein Tab-Layout
 # Setup screen for vertical tabs - subtitle for focused variation
-onboarding-focused-tabs-subtitle = Probieren deine Tabs an der Seite aus, um eine optimierte Ansicht zu erhalten, die dir hilft, dich zu konzentrieren. Oder bleibe klassisch mit Tabs oben. Jederzeit wechseln.
+onboarding-focused-tabs-subtitle = Probieren Sie Ihre Tabs an der Seite aus, um eine optimierte Ansicht zu erhalten, die Ihnen hilft, sich zu konzentrieren. Oder bleiben Sie klassisch mit Tabs oben. Jederzeit wechseln.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tabs seitlich
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.

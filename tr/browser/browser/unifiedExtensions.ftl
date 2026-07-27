@@ -15,6 +15,8 @@ unified-extensions-discover-extensions =
     .label = Uzantıları keşfedin
 unified-extensions-empty-reason-private-browsing-not-allowed = Yüklenmiş ama gizli pencerelerde etkinleştirilmemiş uzantılarınız var
 unified-extensions-empty-reason-extension-not-enabled = Yüklenmiş ama etkinleştirilmemiş uzantılarınız var
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Uzantılarla tarayıcınızı geliştirin
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Uzantılarla gezinti deneyiminizi bir üst seviyeye taşıyın
 unified-extensions-empty-content-explain-enable2 = Bunları ayarlar sayfasından etkinleştirmek için “{ unified-extensions-manage-extensions.label }”i seçin.
