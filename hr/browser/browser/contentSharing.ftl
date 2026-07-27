@@ -30,4 +30,18 @@ content-sharing-modal-sign-in-2 =
     .label = Prijavi se za dijeljenje
 content-sharing-modal-title-2 = Podijelite ove stranice sa svima
 content-sharing-modal-title-signed-in = Vaše poveznice su spremne za dijeljenje
+content-sharing-modal-description-2 = Prijavite se kako biste stvorili stranicu s poveznicama koju je lako dijeliti. Ne može se uređivati ili brisati i istječe nakon 7 dana.
+content-sharing-modal-description-signed-in = Napravili smo stranicu s vašim poveznicama koju je lako dijeliti. Ne može se uređivati ili brisati i istječe nakon 7 dana.
 content-sharing-modal-policy = Dijeljenjem prihvaćate naša <a data-l10n-name="aup-link">pravila prihvatljive upotrebe</a>
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links-2 =
+    { $count ->
+        [one] Bit će uključena samo { $count } poveznica
+        [few] Bit će uključeno samo { $count } poveznice
+       *[other] Bit će uključeno samo { $count } poveznica
+    }
+content-sharing-modal-no-shareable-links =
+    .heading = Nema poveznica za dijeljenje
+    .message = Dijeliti se mogu samo poveznice na web sadržaj.

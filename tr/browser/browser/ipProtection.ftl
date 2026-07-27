@@ -29,6 +29,8 @@ ipprotection-feature-introduction-link-text-2 = Konumunuzu gizlemek ve verilerin
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Gizliliğinizi bir kat daha artırın
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Farklı konumlardan istediğinizi seçerek gezintilerinizi daha gizli tutun.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Çok sayıda konumdan istediğinizi seçerek gezintilerinizi daha gizli tutun.
+ipprotection-feature-introduction-link-text-privacy-3 = İnternette gezdiğiniz yerleri gizlemek için çok sayıda konumdan istediğinizi seçerek <a data-l10n-name="learn-more-vpn">ekstra gizliliğe</a> kavuşun.
 ipprotection-feature-introduction-title-summer-promo = Seyahat planlarınız mı var? Gizliliği yanınızda taşıyın.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gizli pencerede konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-description-private-browsing = Konumunuzu gizleyin, Gizli Pencere’de bile ekstra korumayla gezinin.
@@ -52,8 +54,15 @@ ipprotection-feature-introduction-button-get-started = Kullanmaya başlayın
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = VPN limitleriniz 1 Eylül’de sıfırlanacak
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Yerleşik VPN’iniz artık daha iyi
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN’i aç
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Varsayılan yap
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name }’i edinin
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Kapat
 
@@ -124,6 +133,11 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Gezinmek için farklı bir konum seçin.
 ipprotecion-locations-subview-recommended-label = Önerilen
 ipprotection-locations-subview-recommended-description = En hızlı konumu bulur
+# Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Kullanılamıyor
+    .aria-label = Kullanılamıyor, devre dışı
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Kullanılamıyor
 ipprotection-locations-subview-promo =

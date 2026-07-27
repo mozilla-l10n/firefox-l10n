@@ -17,12 +17,12 @@ mr1-onboarding-get-started-primary-button-label = Einführung
 
 ## Custom Return To AMO onboarding strings
 
-return-to-amo-subtitle = Fantastisch, du hast jetzt { -brand-short-name }
+return-to-amo-subtitle = Fantastisch, Sie haben jetzt { -brand-short-name }
 # <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
-return-to-amo-addon-title = Hol dir auch <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-addon-title = Holen Sie sich auch <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Erweiterung hinzufügen
 return-to-amo-add-theme-label = Das Theme hinzufügen
 return-to-amo-theme-install-complete-label = Theme installiert
@@ -31,7 +31,7 @@ return-to-amo-extension-install-complete-label = Erweiterung installiert
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Willkommen bei { -brand-short-name }
-mr1-return-to-amo-addon-title = Du hast einen schnellen, privaten Browser zur Hand. Jetzt kannst du <b>{ $addon-name }</b> hinzufügen und noch mehr mit { -brand-short-name } machen.
+mr1-return-to-amo-addon-title = Sie haben einen schnellen, privaten Browser zur Hand. Jetzt können Sie <b>{ $addon-name }</b> hinzufügen und noch mehr mit { -brand-short-name } machen.
 mr1-return-to-amo-add-extension-label = { $addon-name } hinzufügen
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -52,8 +52,8 @@ mr1-onboarding-sign-in-button-label = Anmelden
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Aus { $previous } importieren
-mr1-onboarding-theme-header = Ganz dein Style
-mr1-onboarding-theme-subtitle = Personalisiere { -brand-short-name } mit einem Theme.
+mr1-onboarding-theme-header = Ganz Ihr Stil
+mr1-onboarding-theme-subtitle = Personalisieren Sie { -brand-short-name } mit einem Theme.
 mr1-onboarding-theme-secondary-button-label = Nicht jetzt
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = System-Theme
@@ -122,7 +122,7 @@ mr2-onboarding-default-theme-label = Standard-Themes erkunden
 
 ## Strings for Thank You page
 
-mr2-onboarding-thank-you-header = Danke, dass du dich für uns entschieden hast
+mr2-onboarding-thank-you-header = Danke, dass Sie sich für uns entschieden haben
 mr2-onboarding-thank-you-text = { -brand-short-name } ist ein unabhängiger Browser, der von einer gemeinnützigen Organisation unterstützt wird. Gemeinsam machen wir das Web sicherer, gesünder und privater.
 mr2-onboarding-start-browsing-button-label = Lossurfen
 
@@ -135,8 +135,8 @@ mr2-onboarding-start-browsing-button-label = Lossurfen
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
-onboarding-live-language-header = Wähle deine Sprache
-mr2022-onboarding-live-language-text = { -brand-short-name } spricht deine Sprache
+onboarding-live-language-header = Wählen Sie Ihre Sprache
+mr2022-onboarding-live-language-text = { -brand-short-name } spricht Ihre Sprache
 mr2022-language-mismatch-subtitle = Dank unserer Gemeinschaft wird { -brand-short-name } in über 90 Sprachen übersetzt. Offenbar verwendet dein System { $systemLanguage } und { -brand-short-name } verwendet { $appLanguage }.
 onboarding-live-language-button-label-downloading = Das Sprachpaket für { $negotiatedLanguage } wird heruntergeladen…
 onboarding-live-language-waiting-button = Verfügbare Sprachen werden abgerufen…

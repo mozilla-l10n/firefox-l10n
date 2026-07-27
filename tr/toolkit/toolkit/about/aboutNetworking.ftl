@@ -19,6 +19,53 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Doğrulandı
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = İzolasyon anahtarı
+about-networking-ssl-tokens = TLS jetonları
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } jeton
+       *[other] { $count } jeton
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } tanesinin süresi bitti)
+       *[other] ({ $count } tanesinin süresi bitti)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B (%{ $saved } tasarruf)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB (%{ $percent })
+about-networking-ssl-tokens-tokens-column = Jetonlar
+about-networking-ssl-tokens-expires = Bitiş tarihi
+about-networking-ssl-tokens-certificate = Sertifika
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } jeton
+       *[other] { $count } jeton
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Depodan geri yüklendi
+    .title = Depodan geri yüklendi
+about-networking-ssl-tokens-new =
+    .alt = Bu oturumda yeni
+    .title = Bu oturumda yeni
+about-networking-ssl-tokens-expired =
+    .alt = Süresi doldu
+    .title = Süresi doldu
+about-networking-ssl-tokens-ev-status = EV sertifikası
+about-networking-ssl-tokens-ct-status = Sertifika şeffaflığı durumu
+about-networking-ssl-tokens-overridable-error = Geçersiz kılınabilir hata kategorisi
+about-networking-ssl-tokens-built-in-root = Yerleşik kök
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Sertifika zinciri ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = El sıkışma sertifikaları ({ $count })
 about-networking-refresh = Yenile
 about-networking-auto-refresh = 3 saniyede bir otomatik yenile
 about-networking-hostname = Makine adı

@@ -33,6 +33,13 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = { -brand-short-name } tarayıcınızı bonus tilki simgeleriyle kişiselleştirmek için görevleri tamamlayın.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Tüm bonus simgelerin kilidini açtınız!
 appearance-browser-icon-set-default-button =
     .label = Varsayılan yap
 appearance-browser-icon-pin-button =
