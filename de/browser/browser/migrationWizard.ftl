@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Browserdaten importieren
-migration-wizard-selection-list = Wähle die Daten aus, die du importieren möchtest.
+migration-wizard-selection-list = Wählen Sie die Daten aus, die Sie importieren möchten.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
