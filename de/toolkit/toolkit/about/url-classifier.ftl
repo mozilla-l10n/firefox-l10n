@@ -102,7 +102,7 @@ url-classifier-content-classifier-verdict-hit = Treffer
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Ausnahme
 # Overall verdict shown when the classifier did not match the request at all.
-url-classifier-content-classifier-verdict-miss = Fehler
+url-classifier-content-classifier-verdict-miss = Kein Treffer
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
