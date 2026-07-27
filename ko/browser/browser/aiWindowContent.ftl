@@ -146,3 +146,10 @@ action-log-completed-steps = { $count } 단계 완료됨
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = 이 탭에 검색 결과를 로드했습니다. 분석 중…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count }개 더

@@ -198,6 +198,35 @@ aiwindow-close-sidebar =
     .aria-label = 닫기
     .tooltiptext = 닫기
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = 옵션 더보기
+    .tooltiptext = 옵션 더보기
+aiwindow-history-menu-chat-history = 채팅 기록
+aiwindow-history-menu-back =
+    .aria-label = 뒤로
+    .tooltiptext = 뒤로
+aiwindow-history-menu-view-all-chats = 모든 채팅 보기
+aiwindow-history-menu-settings = { -smart-window-brand-name } 설정
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = 새 채팅
+aiwindow-fullpage-chat-history =
+    .label = 채팅 기록
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = 더보기
+    .title = 더보기
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = 동기화된 데이터는 계정에 그대로 유지됩니다. 열려 있는 { -smart-window-brand-name(plural-form: "true") }은 일반 창으로 전환됩니다.

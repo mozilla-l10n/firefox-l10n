@@ -1537,6 +1537,11 @@ private-browsing-indicator-label = 사생활 보호 모드
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = 사생활 보호 모드
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = 사생활 보호 모드 정보
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = 현재 사생활 보호 창을 사용 중입니다
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
