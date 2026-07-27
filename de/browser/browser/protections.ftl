@@ -81,7 +81,7 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Wie es funktioniert
 monitor-title = Nach Datenlecks Ausschau halten
-monitor-link = So funktioniert's
+monitor-link = So funktioniert es
 monitor-header-content-no-account = Testen Sie mit { -monitor-brand-name }, ob Sie von einem Datenleck betroffen sind, und lassen Sie sich bei zukünftigen Datenlecks benachrichtigen.
 monitor-header-content-signed-in = { -monitor-brand-name } benachrichtigt Sie, falls Ihre Informationen von einem bekannt gewordenen Datenleck betroffen sind.
 monitor-sign-up-link = Für Warnmeldungen zu Datenlecks anmelden
