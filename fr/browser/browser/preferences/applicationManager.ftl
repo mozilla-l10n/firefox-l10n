@@ -10,10 +10,10 @@ app-manager-remove =
     .accesskey = S
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
-app-manager-handle-protocol = Les applications suivantes peuvent être utilisées pour Liens { $type }.
+app-manager-handle-protocol = Les applications suivantes peuvent être utilisées pour les liens { $type }.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = Les applications suivantes peuvent être utilisées pour Contenu { $type }.
+app-manager-handle-file = Les applications suivantes peuvent être utilisées pour les contenus { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.

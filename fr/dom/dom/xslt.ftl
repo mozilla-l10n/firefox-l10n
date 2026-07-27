@@ -48,4 +48,4 @@ xslt-unknown-error = Une erreur inconnue s’est produite ({ $errorCode }).
 ##   from the previous section)
 
 xslt-loading-error = Erreur lors du chargement de la feuille de style : { $error }
-xslt-transform-error = Erreur lors de la transformation XLST : { $error }
+xslt-transform-error = Erreur lors de la transformation XSLT : { $error }

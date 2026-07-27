@@ -163,7 +163,7 @@ aiwindow-firstrun-memories-no-create = Bien reçu, les { -smart-window-brand-nam
 
 aiwindow-firstrun-default-title = Utilisez une { -smart-window-brand-name(form: "lower-singular") } par défaut
 aiwindow-firstrun-default-subtitle = Naviguez, recherchez et posez vos questions au même endroit. Vous pouvez toujours ouvrir des fenêtres privées et des fenêtres classiques quand vous le souhaitez.
-aiwindow-firstrun-default-checkbox-label = Toujours ouvrir { -brand-product-name } dans une { -smart-window-brand-name(form: "lower-plural") }
+aiwindow-firstrun-default-checkbox-label = Toujours ouvrir { -brand-product-name } dans une { -smart-window-brand-name(form: "lower-singular") }
 aiwindow-firstrun-default-checkbox-description = Modifiez ce choix à tout moment dans les paramètres
 
 ## Ask Toolbar Button
