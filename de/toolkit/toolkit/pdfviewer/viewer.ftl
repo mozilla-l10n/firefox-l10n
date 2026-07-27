@@ -626,7 +626,7 @@ pdfjs-editor-add-signature-save-checkbox = Unterschrift speichern
 pdfjs-editor-add-signature-save-warning-message = Sie haben die Grenze von 5 gespeicherten Unterschriften erreicht. Entfernen Sie eine, um weitere zu speichern.
 pdfjs-editor-add-signature-image-upload-error-title = Grafik konnte nicht hochgeladen werden
 pdfjs-editor-add-signature-image-upload-error-description = Überprüfen Sie Ihre Netzwerkverbindung, oder versuchen Sie es mit einer anderen Grafik.
-pdfjs-editor-add-signature-image-no-data-error-title = Kann Grafik nicht in eine Signatur umwandeln
+pdfjs-editor-add-signature-image-no-data-error-title = Kann Grafik nicht in eine Unterschrift umwandeln
 pdfjs-editor-add-signature-image-no-data-error-description = Bitte versuchen Sie, eine andere Grafik hochzuladen.
 pdfjs-editor-add-signature-error-close-button = Schließen
 
@@ -824,8 +824,8 @@ pdfjs-digital-signature-properties-certificate-revoked = Zertifikat: Widerrufen
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =
-    .title = Gespeicherte Signatur entfernen
-pdfjs-editor-delete-signature-button-label1 = Gespeicherte Signatur entfernen
+    .title = Gespeicherte Unterschrift entfernen
+pdfjs-editor-delete-signature-button-label1 = Gespeicherte Unterschrift entfernen
 
 ## Editor toolbar
 
