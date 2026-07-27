@@ -197,3 +197,4 @@ smartwindow-search-loader-text = Risultati di ricerca caricati in questa scheda.
 # Variables:
 #   $count (Number) - Number of the additional hidden sources
 smartwindow-assistant-citations-more-label = +{ $count } altre
+
