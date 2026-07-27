@@ -1992,7 +1992,7 @@ content-blocking-fpi-incompatibility-warning = Sie verwenden First Party Isolati
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
-content-blocking-rfp-incompatibility-warning = Sie verwenden "Resist Fingerprinting" (RSP), was einige der Einstellungen von { -brand-short-name }  zum Schutz vor Identifizierung (Fingerprinter) ersetzt. Dies kann dazu führen, dass einige Websites nicht funktionieren.
+content-blocking-rfp-incompatibility-warning = Sie verwenden "Resist Fingerprinting" (RFP), was einige der Einstellungen von { -brand-short-name } zum Schutz vor Identifizierung (Fingerprinter) ersetzt. Dies kann dazu führen, dass einige Websites nicht funktionieren.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -2699,7 +2699,7 @@ preferences-etp-reload-tabs-hint =
 preferences-etp-reload-tabs-hint-button =
     .label = Alle Tabs neu laden
 preferences-etp-rfp-warning-message =
-    .message = Sie verwenden "Resist Fingerprinting" (RSP), was einige der Einstellungen von { -brand-short-name }  zum Schutz vor Identifizierung (Fingerprinter) ersetzt. Dies kann dazu führen, dass einige Websites nicht funktionieren.
+    .message = Sie verwenden "Resist Fingerprinting" (RFP), was einige der Einstellungen von { -brand-short-name } zum Schutz vor Identifizierung (Fingerprinter) ersetzt. Dies kann dazu führen, dass einige Websites nicht funktionieren.
 preferences-etp-level-warning-message =
     .heading = Achtung! Einige Websites funktionieren möglicherweise nicht wie erwartet.
     .message = Einige Websites integrieren Tracker in ihre Funktionen oder Inhalte. Wenn { -brand-short-name } diese blockiert, sieht die Website fehlerhaft aus. Versuchen Sie, "Website-Problem beheben" oder den Tracking-Schutz für diese Website zu deaktivieren.

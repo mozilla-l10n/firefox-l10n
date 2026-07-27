@@ -112,7 +112,7 @@ sidebar-item-service-workers = Service-Worker
     .title = Service-Worker
 # Sidebar navigation item for Session History sidebar item section
 sidebar-item-session-history = Sitzungsverlauf
-    .alt = Icon für Chronik
+    .alt = Icon für Sitzungsverlauf
     .title = Sitzungsverlauf
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
