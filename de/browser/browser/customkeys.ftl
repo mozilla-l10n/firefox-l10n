@@ -89,7 +89,7 @@ customkeys-key-unchangeable = (kann nicht geändert werden)
 customkeys-conflict-confirm-title = Eine andere Tastenkombination entfernen?
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
-customkeys-conflict-confirm-body = Dieser Tastenkombination wird bereits für "{ $conflict }" verwendet.
+customkeys-conflict-confirm-body = Diese Tastenkombination wird bereits für "{ $conflict }" verwendet.
 customkeys-conflict-confirm-button-confirm = Trotzdem verwenden
 customkeys-conflict-confirm-button-cancel = Abbrechen
 customkeys-conflict-unusable-title = Taste kann nicht verwendet werden

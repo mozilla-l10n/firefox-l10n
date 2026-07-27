@@ -68,19 +68,19 @@ tabbrowser-unmute-tab-audio-tooltip =
     .label =
         { $tabCount ->
             [one] Stummschaltung für Tab aufheben ({ $shortcut })
-           *[other] Stummschaltung { $tabCount } für Tabs aufheben ({ $shortcut })
+           *[other] Stummschaltung für { $tabCount } Tabs aufheben ({ $shortcut })
         }
 tabbrowser-mute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
             [one] Tab stummschalten
-           *[other] { $tabCount } Tab stummschalten
+           *[other] { $tabCount } Tabs stummschalten
         }
 tabbrowser-unmute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
             [one] Stummschaltung für Tab aufheben
-           *[other] Stummschaltung { $tabCount } für Tabs aufheben
+           *[other] Stummschaltung für { $tabCount } Tabs aufheben
         }
 tabbrowser-unblock-tab-audio-tooltip =
     .label =

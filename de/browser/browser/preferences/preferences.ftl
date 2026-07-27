@@ -306,7 +306,7 @@ browser-containers-settings-2 =
 browser-containers-settings =
     .label = Einstellungen…
     .accesskey = u
-containers-disable-alert-title = Alle Tabs im Umgebungen schließen?
+containers-disable-alert-title = Alle Tabs in Umgebungen schließen?
 startup-group =
     .label = Start
 
@@ -333,7 +333,7 @@ containers-remove-alert-title = Diese Umgebung löschen?
 containers-remove-alert-msg =
     { $count ->
         [one] Wenn diese Umgebung jetzt gelöscht wird, so wird { $count } Tab aus dieser Umgebung geschlossen. Soll diese Umgebung wirklich gelöscht werden?
-       *[other] Wenn diese Umgebung jetzt gelöscht wird, so werden { $count } Tab aus dieser Umgebung geschlossen. Soll diese Umgebung wirklich gelöscht werden?
+       *[other] Wenn diese Umgebung jetzt gelöscht wird, so werden { $count } Tabs aus dieser Umgebung geschlossen. Soll diese Umgebung wirklich gelöscht werden?
     }
 containers-remove-ok-button = Umgebung löschen
 containers-remove-cancel-button = Umgebung behalten

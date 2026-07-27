@@ -114,7 +114,7 @@ info-known-breaches-found =
 # to your localization, because it would result in the number showing twice.
 info-known-breaches-resolved =
     { $count ->
-        [one] bekanntes Datenlecks als erledigt markiert
+        [one] bekanntes Datenleck als erledigt markiert
        *[other] bekannte Datenlecks als erledigt markiert
     }
 # This string is displayed after a large numeral that indicates the total number

@@ -78,3 +78,13 @@ about-private-browsing-cookie-banners-promo-body = Sada automatski odbijamo mnog
 about-private-browsing-felt-privacy-v1-info-header = Ne ostavljaj tragove na ovom uređaju.
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } briše kolačiće, povijest i podatke web-stranica kada zatvoriš sve svoje privatne prozore.
 about-private-browsing-felt-privacy-v1-info-link = Tko može vidjeti moju aktivnost?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Zatvaranjem svih privatnih prozora brišete kolačiće, povijest i podatke web stranica.
+about-private-browsing-nova-info-link = Tko bi još uvijek mogao vidjeti moju aktivnost?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Nepoznati ste
+about-private-browsing-nova-info-subheader = Obrisat ćemo svaku pretragu i prijavu kada zatvorite ovaj prozor. Ugrađene zaštite { -brand-short-name }a su ovdje također uključene, poput blokiranja praćenja.

@@ -15,6 +15,12 @@ appmenuitem-banner-update-unsupported =
     .label = Nije moguće nadograditi – sustav nije kompatibilan
 appmenuitem-banner-update-restart =
     .label = Dostupna je nova verzija – ponovo pokreni sada
+appmenu-nova-update-title = Ponovno pokrenite za ažuriranje { -brand-short-name }a
+appmenu-nova-update-description = Vaše će se kartice ponovno otvoriti.
+appmenu-nova-fxa-sign-in = Prijavi se
+appmenu-nova-switch-device-promo =
+    .message = Uskoro nabavljate novi uređaj? Ponesite { -brand-short-name } sa sobom!
+appmenu-nova-switch-device-link = Kako migrirati podatke
 appmenuitem-new-tab =
     .label = Nova kartica
 appmenuitem-new-window =
@@ -43,8 +49,15 @@ appmenuitem-translate =
     .label = Prevedi stranicu …
 appmenuitem-zoom =
     .value = Zumiraj
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Podijeli { -brand-product-name }
 appmenuitem-more-tools =
     .label = Više alata
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Pomoć i prijava
 appmenuitem-help =
     .label = Pomoć
 appmenuitem-exit2 =
@@ -103,6 +116,40 @@ appmenu-remote-tabs-unverified = Tvoj račun mora biti potvrđen.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkroniziraj sada
 appmenuitem-fxa-sign-in = Prijavi se u { -brand-product-name }
 appmenuitem-fxa-manage-account = Upravljaj računom
+fxa-menu-sync-status-on = Sinkronizacija je uključena
+fxa-menu-sync-status-off = Sinkronizacija je isključena
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Vaši se podaci ne sinkroniziraju
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Uključi
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Prijavi se za sinkronizaciju
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sinkroniziraj { $deviceName } sada
+fxa-menu-manage-sync-settings =
+    .label = Upravljaj postavkama sinkronizacije
+fxa-menu-add-device =
+    .label = Dodaj uređaj
+fxa-menu-manage-devices =
+    .label = Upravljaj svojim uređajima
+fxa-menu-device-missing =
+    .label = Ne vidiš svoj uređaj?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Svi uređaji
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Svi uređaji
+fxa-menu-get-firefox-mobile =
+    .label = Preuzmi { -brand-product-name } za Android ili iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sigurna sinkronizacija
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Račun
 # Variables
@@ -207,6 +254,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Zadana postavka za istraživanje grešaka mrežnog povezivanja u { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-networking-label =
     .label = Mrežno povezivanje
+profiler-popup-presets-networking-with-logs-description = Unaprijed postavljeno za istraživanje mrežnih grešaka u { -brand-shorter-name }u, uključujući mrežne zapise. Ovi zapisi mogu sadržavati osjetljive informacije poput adrese web stranica koje posjećujete.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Mreža sa zapisima
 profiler-popup-presets-power-description = Zadana postavka za istraživanje grešaka potrošnje energije u { -brand-shorter-name(case: "loc") }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -284,6 +334,8 @@ appmenu-customizetoolbar =
     .label = Prilagodi alatnu traku…
 appmenu-abouttranslations =
     .label = Prevedi …
+appmenu-edit-pdf =
+    .label = Uredi PDF…
 appmenu-developer-tools-subheader = Alati preglednika
 appmenu-developer-tools-extensions =
     .label = Proširenja za programere
@@ -293,9 +345,13 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Prijavi se na tvoj račun
+appmenuitem-monitor-title2 = Budite ispred krađe identiteta
+appmenuitem-monitor-description2 = Primajte upozorenja o curenju podataka
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Primaj upozorenja o povredi podataka
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Zaštitite privatnost svoje e-pošte
+appmenuitem-relay-description2 = Pomaže u sprječavanju neželjene pošte u pristigloj pošti
 appmenuitem-relay-description = Maskiraj svoju pravu e-mail adresu i telefonski broj
 appmenuitem-services-relay-description = Pokreni nadzornu ploču za maske e-mail adresa
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }

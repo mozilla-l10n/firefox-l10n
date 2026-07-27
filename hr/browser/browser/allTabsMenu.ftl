@@ -9,6 +9,10 @@ all-tabs-menu-new-user-context =
     .label = Nova kontejnerska kartica
 all-tabs-menu-hidden-tabs =
     .label = Skrivene kartice
+all-tabs-menu-close-duplicate-tabs =
+    .label = Zatvori duple kartice
+all-tabs-menu-view-all-tabs =
+    .label = Prikaži sve kartice
 all-tabs-menu-manage-user-context =
     .label = Upravljaj kontejnerima
     .accesskey = s
@@ -26,3 +30,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Grupe kartica
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Pretraži sve kartice
