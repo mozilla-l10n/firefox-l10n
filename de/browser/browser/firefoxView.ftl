@@ -34,6 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = Ihr { -brand-product-name } auf all Ihr
 firefoxview-syncedtabs-signin-description-2 = Melden Sie sich an oder erstellen Sie ein Konto, um Tabs zu sehen, die Sie auf Ihrem Telefon und anderen Geräten geöffnet haben. Mit einem Konto können Sie auch Ihre Passwörter, Chronik und mehr synchronisieren.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Nahtlos vom Laptop zum Telefon
+firefoxview-syncedtabs-signin-description-3 = Halten Sie Ihr Surfen über Geräte hinweg verbunden – Tabs, Passwörter und Chronik, alles durch Synchronisation.
 firefoxview-syncedtabs-signin-primarybutton-2 = Anmelden
 firefoxview-tabpickup-adddevice-header = Synchronisieren Sie { -brand-product-name } auf Ihrem Telefon oder Tablet
 firefoxview-tabpickup-adddevice-description = Laden Sie { -brand-product-name } für Mobilgeräte herunter und melden Sie sich dort an.
@@ -42,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } für Mob
 firefoxview-syncedtabs-adddevice-header-2 = Holen Sie sich Tabs von überall
 firefoxview-syncedtabs-adddevice-description-2 = Melden Sie sich bei { -brand-product-name } auf Ihrem Handy oder einem anderen Computer an, um hier Tabs anzuzeigen. Erfahren Sie, wie Sie <a data-l10n-name="url">weitere Geräte verbinden</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } für Mobilgeräte ausprobieren
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Ihre Tabs aufgerufen. Sie sind auf Ihrem Telefon.
 firefoxview-syncedtabs-adddevice-description-3 = Scannen Sie den QR-Code, um sich { -brand-product-name } für Mobilgeräte zu holen und Ihre offenen Tabs und mehr zu synchronisieren. Erfahren Sie, wie Sie <a data-l10n-name="url">weitere Geräte verbinden</a>.
 firefoxview-tabpickup-synctabs-header = Tab-Synchronisation aktivieren
 firefoxview-tabpickup-synctabs-description = Erlauben Sie { -brand-short-name }, Tabs zwischen Geräten zu teilen.
@@ -68,6 +71,8 @@ firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } kann derz
 firefoxview-tabpickup-network-offline-description-2 = Möglicherweise sind Sie offline, oder etwas blockiert die Verbindung.
 firefoxview-tabpickup-sync-error-header = Wir haben Probleme bei der Synchronisierung
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } kann den Synchronisierungsdienst derzeit nicht erreichen. Versuchen Sie es in ein paar Augenblicken erneut.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Die Synchronisation konnte nicht durchgeführt werden
 firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } konnte keine Verbindung herstellen. Warten Sie einen Moment und versuchen Sie es dann erneut
 firefoxview-tabpickup-sync-error-primarybutton = Erneut versuchen
 firefoxview-tabpickup-sync-disconnected-header = Synchronisation aktivieren, um fortzufahren

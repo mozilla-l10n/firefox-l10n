@@ -1582,6 +1582,9 @@ private-browsing-indicator-label = Privater Modus
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Privater Modus
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informationen zum privaten Modus
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Sie sind in einem privaten Fenster
 # Body copy shown in the private browsing info panel. The learn-more link text
