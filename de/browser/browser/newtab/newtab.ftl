@@ -1466,7 +1466,7 @@ newtab-sports-widget-pagination-dot =
 #   $homeScore (number) - The home team's regular-time score
 #   $awayScore (number) - The away team's regular-time score
 newtab-sports-widget-match-aria-label-results =
-    .aria-label = { $homeTeam }, { $homeScore } gegen { $awayTeam }, { $awayScore }
+    .aria-label = { $homeTeam }, { $homeScore } : { $awayTeam }, { $awayScore }
 # A finished match row that went to a penalty shootout.
 # Parenthesized values are the shootout score.
 # Variables:
@@ -1475,18 +1475,18 @@ newtab-sports-widget-match-aria-label-results =
 #   $homePenalty (number) - The home team's penalty shootout score
 #   $awayPenalty (number) - The away team's penalty shootout score
 newtab-sports-widget-match-aria-label-results-penalties =
-    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) gegen { $awayTeam }, { $awayScore } ({ $awayPenalty })
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) : { $awayTeam }, { $awayScore } ({ $awayPenalty })
 # A match that is currently in progress.
 # Variables:
 #   $homeScore (number) - The home team's current score
 #   $awayScore (number) - The away team's current score
 newtab-sports-widget-match-aria-label-now =
-    .aria-label = Live: { $homeTeam }, { $homeScore } gegen { $awayTeam }, { $awayScore }
+    .aria-label = Live: { $homeTeam }, { $homeScore } : { $awayTeam }, { $awayScore }
 # An upcoming scheduled match row. Announces kickoff time and date.
 # Variables:
 #   $date (Date) - The scheduled kickoff date/time
 newtab-sports-widget-match-aria-label-upcoming =
-    .aria-label = { $homeTeam } gegen { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+    .aria-label = { $homeTeam } : { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
     .aria-label = { $homeTeam } : { $awayTeam }, verzögert
