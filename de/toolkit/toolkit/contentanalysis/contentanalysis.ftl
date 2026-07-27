@@ -26,7 +26,7 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } überprüft die Da
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } überprüft den von Ihnen gelöschten Text mit den Datenrichtlinien Ihrer Organisation. Dies kann einen Moment dauern.
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } überprüft den von Ihnen eingefügten Text mit den Datenrichtlinien Ihrer Organisation. Dies kann einen Moment dauern.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } überprüft, was Sie gedruckt haben, mit den Datenrichtlinien Ihrer Organisation. Dies kann einen Moment dauern.

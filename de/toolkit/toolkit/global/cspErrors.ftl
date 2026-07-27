@@ -4,7 +4,7 @@
 
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
-csp-error-missing-directive = Richtlinie enthält nicht benötigte "{ $directive }"-Direktive.
+csp-error-missing-directive = Richtlinie enthält nicht die benötigte "{ $directive }"-Direktive.
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
