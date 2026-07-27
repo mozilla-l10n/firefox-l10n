@@ -1169,7 +1169,7 @@ search-find-more-link = Weitere Suchmaschinen hinzufügen
 search-filtering-for-add-engine = Suchmaschine hinzufügen
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = Schlüsselwort duplizieren
+search-keyword-warning-title = Doppeltes Schlüsselwort
 # Variables:
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Sie haben ein Schlüsselwort ausgewählt, das bereits von "{ $name }" verwendet wird, bitte wählen Sie ein anderes.
@@ -2672,7 +2672,7 @@ preferences-etp-status-header =
     .label = Verbesserter Tracking-Schutz
     .description = Websites verwenden Tracker, um Sie online zu verfolgen und Ihnen gruselige Werbung anzuzeigen. { -brand-short-name } schützt Sie beim Surfen und blockiert Tracker automatisch, sodass Sie die Kontrolle über Ihre digitalen Spuren behalten.
 preferences-etp-level-standard =
-    .label = Standard
+    .label = Standard (Voreinstellung)
     .description = Starke, zuverlässige Schutzmaßnahmen, die mit den meisten Websites reibungslos funktionieren.
 preferences-etp-level-strict =
     .label = Streng

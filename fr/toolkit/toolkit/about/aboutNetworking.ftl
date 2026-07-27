@@ -35,7 +35,11 @@ about-networking-ssl-tokens-summary-expired =
 # $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
 # $compressedLength (Number) - Total compressed size in bytes across all tokens
 # $saved (Number) - Percentage of space saved by compression
-about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } G ({ $saved } % d’économies)
+about-networking-ssl-tokens-summary-compression =
+    { $total ->
+        [one] { $decompressedLength } → { $compressedLength } o ({ $saved } % économisé)
+       *[other] { $decompressedLength } → { $compressedLength } o ({ $saved } % économisés)
+    }
 # $used (Number) - Cache size currently in use, in kilobytes
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
@@ -63,7 +67,7 @@ about-networking-ssl-tokens-expired =
 # $decompressedLength (Number) - Total size in bytes before compression
 # $compressedLength (Number) - Total size in bytes after compression
 about-networking-ssl-tokens-compression-details =
-    .title = Jetons : { $tokenLength } B. Encodés : { $decompressedLength } → { $compressedLength } B.
+    .title = Jetons : { $tokenLength } o. Encodage : { $decompressedLength } → { $compressedLength } o.
 about-networking-ssl-tokens-ev-status = Certificat EV
 about-networking-ssl-tokens-ct-status = État de la transparence du certificat
 about-networking-ssl-tokens-overridable-error = Catégorie d’erreur remplaçable
