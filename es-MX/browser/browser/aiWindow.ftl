@@ -97,6 +97,7 @@ aiwindow-firstrun-title = Bienvenido a { -smart-window-brand-name }
 aiwindow-firstrun-model-title = ¿Qué aspectos son importantes para ti?
 aiwindow-firstrun-model-title-v2 = Elige un modelo
 aiwindow-firstrun-model-subtitle = Escoge un modelo para usar en las { -smart-window-brand-name(form: "lower-plural") }. Puedes cambiarlo en cualquier momento.
+aiwindow-firstrun-model-subtitle-v2 = Todos los modelos pueden ayudarte a resumir, compara y explorar a través de todas tus pestañas. Puedes cambiar de modelo cuando quieras.
 aiwindow-firstrun-model-fast-label = Velocidad
 aiwindow-firstrun-model-fast-body = Obtener respuestas rápidamente
 # $shortName (string) - The short name of the model version
@@ -109,6 +110,8 @@ aiwindow-firstrun-model-allpurpose-label = Flexibilidad
 aiwindow-firstrun-model-allpurpose-body = Obtener respuestas adaptadas a necesidades distintas
 aiwindow-firstrun-model-personal-label = Personalización
 aiwindow-firstrun-model-personal-body = Respuestas más personalizadas
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Individualizado: { $shortName }
 aiwindow-firstrun-button = ¡Comencemos!
 aiwindow-firstrun-back-button = Atrás
 aiwindow-firstrun-next-button = Siguiente
@@ -119,6 +122,7 @@ aiwindow-input-model-select-button-label-fast = Rápido
 aiwindow-input-model-select-button-label-allpurpose = Flexible
 aiwindow-input-model-select-button-label-personal = Individualizado
 aiwindow-input-model-select-button-label-custom = Personalizado
+aiwindow-input-model-select-button-description-custom = Usa tu propio LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
