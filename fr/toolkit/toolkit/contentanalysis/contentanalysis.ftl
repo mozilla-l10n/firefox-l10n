@@ -31,7 +31,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } vérifie la con
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } vérifie la conformité de ce que vous avez imprimé à la politique de données de votre organisation. Cette opération peut prendre un moment.
 contentanalysis-operationtype-clipboard = presse-papiers
-contentanalysis-operationtype-dropped-text = texte relâché
+contentanalysis-operationtype-dropped-text = texte déposé
 contentanalysis-operationtype-print = imprimer
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = envoi de « { $filename } »

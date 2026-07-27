@@ -1992,7 +1992,7 @@ content-blocking-fpi-incompatibility-warning = Vous utilisez l’isolation First
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
-content-blocking-rfp-incompatibility-warning = Vous utilisez Resist Fingerprinting (RFP) qui remplace quelques uns des paramètres de protection contre les détecteurs d’empreinte numérique de { -brand-short-name }. De ce fait, certains sites peuvent dysfonctionner.
+content-blocking-rfp-incompatibility-warning = Vous utilisez Resist Fingerprinting (RFP) qui remplace quelques-uns des paramètres de protection contre les détecteurs d’empreinte numérique de { -brand-short-name }. De ce fait, certains sites peuvent dysfonctionner.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -2699,7 +2699,7 @@ preferences-etp-reload-tabs-hint =
 preferences-etp-reload-tabs-hint-button =
     .label = Actualiser tous les onglets
 preferences-etp-rfp-warning-message =
-    .message = Vous utilisez Resist Fingerprinting (RFP) qui remplace quelques uns des paramètres de protection contre les détecteurs d’empreinte numérique de { -brand-short-name }. De ce fait, certains sites peuvent dysfonctionner.
+    .message = Vous utilisez Resist Fingerprinting (RFP) qui remplace quelques-uns des paramètres de protection contre les détecteurs d’empreinte numérique de { -brand-short-name }. De ce fait, certains sites peuvent dysfonctionner.
 preferences-etp-level-warning-message =
     .heading = Attention ! Certains sites peuvent ne pas fonctionner comme prévu.
     .message = Certains sites intègrent des traqueurs dans leurs fonctionnalités ou leur contenu. Quand { -brand-short-name } les bloque, le site semble cassé. Essayez d’utiliser « Résoudre les problèmes du site » ou de désactiver la protection contre le pistage sur ce site.

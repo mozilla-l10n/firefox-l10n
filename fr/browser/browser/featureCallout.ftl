@@ -236,7 +236,7 @@ sidebar-callout-survey-dissatisfied-2 = Insatisfait·e
 sidebar-callout-survey-very-dissatisfied-2 = Très insatisfait·e
 sidebar-callout-survey-dont-use-it = Je ne l’utilise pas
 sidebar-callout-survey-productive-question =
-    Jusqu’à quel point êtes vous d’accord ou non avec cette affirmation :</br>
+    Jusqu’à quel point êtes-vous d’accord ou non avec cette affirmation :</br>
     « Le panneau latéral de { -brand-short-name } m’aide à être plus productif·tive » ?
 sidebar-callout-survey-strongly-agree = Tout à fait d’accord
 sidebar-callout-survey-agree = D’accord
@@ -251,7 +251,7 @@ sidebar-callout-survey-submit = Envoyer
 sidebar-callout-survey-thank-you = Merci de votre retour !
 sidebar-genai-survey-satisfaction-question = Quel est votre degré de satisfaction d’avoir accès à un chatbot IA dans le panneau latéral ?
 sidebar-genai-survey-productive-question =
-    Jusqu’à quel point êtes vous d’accord ou non avec cette affirmation :<br/>
+    Jusqu’à quel point êtes-vous d’accord ou non avec cette affirmation :<br/>
     « Le chatbot IA dans le panneau latéral me permet d’être plus efficace » ?
 splitview-onboarding-callout-title-1 = Vue scindée : une méthode plus efficace pour effectuer plusieurs tâches en même temps
 splitview-onboarding-callout-subtitle-1 = Faites un clic droit sur cet onglet et choisissez « Ajouter une vue scindée » pour afficher deux onglets en même temps.

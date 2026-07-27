@@ -377,7 +377,7 @@ onboarding-sign-up-secondary-button = Commencer la navigation
 
 onboarding-new-user-time-based-survey-title = Depuis combien de temps utilisez-vous { -brand-short-name } ?
 onboarding-new-user-familiarity-based-survey-title = Quel est votre degré de familiarité avec { -brand-short-name } ?
-onboarding-new-user-survey-subtitle = Vos réponses nous aide à améliorer encore { -brand-short-name }.
+onboarding-new-user-survey-subtitle = Vos réponses nous aident à améliorer encore { -brand-short-name }.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Suivant
 onboarding-new-user-survey-legal-link-label = En sélectionnant « { onboarding-new-user-survey-next-button-label } », vous acceptez la <a data-l10n-name="privacy_notice">politique de confidentialité</a> de { -brand-product-name }

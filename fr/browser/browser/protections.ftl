@@ -142,7 +142,7 @@ monitor-breaches-unresolved-description = Après avoir examiné les détails des
 monitor-manage-breaches-link = Gérer les fuites de données
     .title = Gérer les fuites de données avec { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Bien ! Vous avez réglé toutes les fuites de données connues.
-monitor-breaches-resolved-description = Si votre adresse e-mail figure dans de nouvelles fuites de donnés, nous vous préviendrons.
+monitor-breaches-resolved-description = Si votre adresse e-mail figure dans de nouvelles fuites de données, nous vous préviendrons.
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
