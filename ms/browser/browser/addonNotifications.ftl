@@ -4,6 +4,11 @@
 
 xpinstall-prompt = { -brand-short-name } menghalang laman ini daripada meminta anda memasang perisian dalam komputer.
 
+## Variables:
+##   $host (String): The hostname of the site the add-on is being installed from.
+
+xpinstall-prompt-header = Izinkan { $host } memasang add-on?
+
 ##
 
 xpinstall-prompt-dont-allow =
