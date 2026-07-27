@@ -215,7 +215,7 @@ media-cdm-capabilities = Fonctions
 media-cdm-clear-lead = Début en clair
 # We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
 # HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Compatible avec HDCP 2.0
+media-hdcp-22-compatible = Compatible avec HDCP 2.2
 
 ##
 

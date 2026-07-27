@@ -89,7 +89,7 @@ policy-ExtensionSettings = Gérer tous les aspects de l’installation d’exten
 policy-ExtensionUpdate = Activer ou désactiver la mise à jour automatique des extensions.
 policy-FirefoxHome2 = Configurer la { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Configurer { -firefox-suggest-brand-name }.
-policy-GenerativeAI = Configurer les fonctionnalités d’IA générative
+policy-GenerativeAI = Configurer les fonctionnalités d’IA générative.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Forcer directement la navigation dans le site intranet plutôt que vers la recherche quand des entrées ne comprenant qu’un seul mot sont saisies dans la barre d’adresse.
 policy-Handlers = Configurer les gestionnaires d’applications par défaut.
 policy-HardwareAcceleration = Positionner à false pour désactiver l’accélération matérielle.
@@ -129,7 +129,7 @@ policy-PostQuantumKeyAgreementEnabled = Activer l’acceptation de clé post-qua
 # PDF.js and PDF should not be translated
 policy-PDFjs = Désactiver ou configurer PDF.js, la visionneuse PDF intégrée dans { -brand-short-name }.
 policy-Permissions2 = Configurer les permissions pour la caméra, le microphone, la localisation, les notifications et la lecture automatique.
-policy-PictureInPicture = Activer ou désactiver l’incrustation vidéo
+policy-PictureInPicture = Activer ou désactiver l’incrustation vidéo.
 policy-PopupBlocking2 = Autoriser certains sites web à afficher des popups et à être redirigés par des cadres tiers.
 policy-PopupBlocking = Autoriser certains sites web à afficher des popups par défaut.
 policy-Preferences = Définir et verrouiller la valeur d’un sous-ensemble de préférences.

@@ -5,7 +5,7 @@
 
 ### Localization for Developer Tools tooltips.
 
-learn-more = <span data-l10n-name="link">En savoir plus </span>
+learn-more = <span data-l10n-name="link">En savoir plus</span>
 devtools-tooltip-learn-more = En savoir plus
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -96,6 +96,7 @@ inactive-css-not-absolutely-positioned-item-fix = Essayez d’ajouter <strong>po
 inactive-css-no-default-anchor-fix = Essayez d’ajouter <strong>position-anchor</strong> par un nom d’ancre valide. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Essayez en ajoutant <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ou <strong>display:inline-flex</strong> à l’élément parent. { learn-more }
 inactive-css-not-grid-item-fix-2 = Essayez d’ajouter <strong>display:grid</strong> ou <strong>display:inline-grid</strong> au parent de l’élément. { learn-more }
+inactive-css-not-grid-container-fix = Essayez d’ajouter <strong>display:grid</strong> ou <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix-2 = Essayez d’ajouter <strong>display:flex</strong> ou <strong>display:inline-flex</strong> au parent de l’élément. { learn-more }
 inactive-css-not-flex-container-fix = Essayez d’ajouter <strong>display:flex</strong> ou <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Essayez d’ajouter <strong>display:inline</strong> ou <strong>display:table-cell</strong>. { learn-more }
@@ -110,7 +111,7 @@ inactive-css-not-floated-fix = Essayez d’ajouter la propriété <strong>float<
 inactive-css-position-property-on-unpositioned-box-fix = Essayez de définir sa propriété <strong>position</strong> avec une valeur différente de <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Assurez-vous d’ajouter la propriété à un élément remplacé. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Essayez d’ajouter <strong>overflow:hidden</strong>. { learn-more }
-inactive-css-no-size-containment-fix = Essayez d’affecter à la propriété  <strong>display</strong> une autre valeur que <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ou <strong>inline-table</strong> et assurez-vous que l’élément n’est pas situé dans un tableau ou un segment ruby. { learn-more }
+inactive-css-no-size-containment-fix = Essayez d’affecter à la propriété <strong>display</strong> une autre valeur que <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ou <strong>inline-table</strong> et assurez-vous que l’élément n’est pas situé dans un tableau ou un segment ruby. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Essayez d’affecter à la propriété <strong>display</strong> une valeur autre que <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Essayez d’affecter à la propriété <strong>display</strong> une valeur autre que <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Essayez d’ajouter <strong>display:table</strong> ou <strong>display:inline-table</strong>. { learn-more }
@@ -149,7 +150,7 @@ inactive-css-not-floated-fix-1 = Essayez d’ajouter la propriété <strong>floa
 inactive-css-position-property-on-unpositioned-box-fix-1 = Essayez de définir sa propriété <strong>position</strong> avec une valeur différente de <strong>static</strong>.
 inactive-css-only-replaced-elements-fix-1 = Assurez-vous d’ajouter la propriété à un élément remplacé.
 inactive-text-overflow-when-no-overflow-fix-1 = Essayez d’ajouter <strong>overflow:hidden</strong>.
-inactive-css-no-size-containment-fix-1 = Essayez d’affecter à la propriété  <strong>display</strong> une autre valeur que <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ou <strong>inline-table</strong> et assurez-vous que l’élément n’est pas situé dans un tableau ou un segment ruby.
+inactive-css-no-size-containment-fix-1 = Essayez d’affecter à la propriété <strong>display</strong> une autre valeur que <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ou <strong>inline-table</strong> et assurez-vous que l’élément n’est pas situé dans un tableau ou un segment ruby.
 inactive-css-not-for-internal-table-elements-fix-1 = Essayez d’affecter à la propriété <strong>display</strong> une valeur autre que <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>.
 inactive-css-not-for-internal-table-elements-except-table-cells-fix-1 = Essayez d’affecter à la propriété <strong>display</strong> une valeur autre que <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>.
 inactive-css-not-table-fix-1 = Essayez d’ajouter <strong>display:table</strong> ou <strong>display:inline-table</strong>.
