@@ -35,32 +35,32 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Protección mejorada contra el rastreo
+    .label = Protección de rastreo mejorada
     .description = Activada para este sitio
-    .aria-label = Protección mejorada contra el rastreo: Activada para { $host }
+    .aria-label = Protección de rastreo mejorada: Activada para { $host }
 protections-panel-etp-toggle-off =
-    .label = Protección mejorada contra el rastreo
+    .label = Protección de rastreo mejorada
     .description = Desactivada para este sitio
-    .aria-label = Protección mejorada contra el rastreo: Desactivada para { $host }
+    .aria-label = Protección de rastreo mejorada: Desactivada para { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = ¿Por qué?
-protections-panel-not-blocking-why-etp-on-tooltip = Bloquear esto puede interferir con elementos en algunos sitios. Sin rastreadores, algunos botones, formularios y campos de inicio de sesión no trabajen.
+protections-panel-not-blocking-why-etp-on-tooltip = Bloquear este elemento puede interferir con el funcionamiento de algunos sitios. Sin rastreadores, puede que algunos botones, formularios y campos de inicio de sesión no funcionen.
 protections-panel-not-blocking-why-etp-off-tooltip = Todos los rastreadores en este sitio web han sido cargados porque la protección está desactivada.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
-    .label = Bloquear esto puede interferir con elementos en algunos sitios. Sin rastreadores, algunos botones, formularios y campos de inicio de sesión no trabajen.
+    .label = Bloquear esto puede interferir con elementos en algunos sitios. Sin rastreadores, puede que algunos botones, formularios y campos de inicio de sesión no funcionen.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
     .label = Todos los rastreadores en este sitio web han sido cargados porque la protección está desactivada.
 
 ##
 
-protections-panel-no-trackers-found = Ningún rastreador conocido por { -brand-short-name } fue detectado en esta página.
+protections-panel-no-trackers-found = No se detectó en esta página ningún rastreador conocido por { -brand-short-name }.
 protections-panel-content-blocking-tracking-protection = Contenido de rastreo
 protections-panel-content-blocking-socialblock = Rastreadores de redes sociales
 protections-panel-content-blocking-cryptominers-label = Criptomineros
-protections-panel-content-blocking-fingerprinters-label = Huellas dactilares
+protections-panel-content-blocking-fingerprinters-label = Rastreadores de huella digital
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -81,14 +81,14 @@ protections-panel-smartblock-blocking-toggle =
     .label = Permitir { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = Rastreadores y contenido de { $trackername } bloqueados
-smartblock-placeholder-desc = Tus ajustes de { -brand-short-name } han impedido que este contenido te rastreara en diferentes sitios o se use para publicidad.
+smartblock-placeholder-desc = Tus ajustes de { -brand-short-name } han impedido que este contenido te rastree en diferentes sitios o se use para publicidad.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Permitir en { $websitehost }
 # Caption shown above the original text and links extracted from a blocked
 # third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
 # replaced with a placeholder. The caption sits above a bordered content box
 # containing the extracted text.
-smartblock-placeholder-content-header = Contenido de un elemento incrustado bloqueado
+smartblock-placeholder-content-header = Se bloqueó el contenido de un elemento integrado
 
 ##
 

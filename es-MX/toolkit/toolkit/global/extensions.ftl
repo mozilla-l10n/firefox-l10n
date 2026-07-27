@@ -12,8 +12,8 @@
 
 webext-perms-header = ¿Agregar { $extension }?
 webext-perms-header-with-perms = ¿Añadir { $extension }? Este complemento tendrá permiso para:
-webext-perms-header-unsigned = ¿Añadir { $extension }? Este complemento no está verificado. Los complementos maliciosos pueden robar tu información privada y comprometer tu equipo. Instala este complemento sólo si confías en la fuente
-webext-perms-header-unsigned-with-perms = ¿Añadir { $extension }? Este complemento no está verificado. Los complementos maliciosos pueden robar tu información privada y comprometer tu equipo. Solamente instala este complemento si confías en la fuente. Este complemento tendrá permiso para:
+webext-perms-header-unsigned = ¿Añadir { $extension }? Este complemento no está verificado. Los complementos maliciosos pueden robar tu información privada y comprometer tu equipo. Instala este complemento solo si confías en la fuente.
+webext-perms-header-unsigned-with-perms = ¿Añadir { $extension }? Este complemento no está verificado. Los complementos maliciosos pueden robar tu información privada y comprometer tu equipo. Instala este complemento solo si confías en la fuente. Este complemento tendrá permiso para:
 webext-perms-sideload-header = { $extension } agregado
 webext-perms-optional-perms-header2 = { $extension } requiere permisos adicionales.
 webext-perms-optional-perms-header = { $extension } requiere permisos adicionales.

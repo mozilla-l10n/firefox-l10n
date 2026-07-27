@@ -21,24 +21,24 @@ genai-settings-chat-localhost-links = Trae tu propio chatbot local privado, como
 
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
-    .label = Resumen
-    .value = Por favor, resume la selección utilizando un lenguaje preciso y conciso. Utiliza encabezados y listas con viñetas en el resumen para que se pueda escanear. Mantener el significado y la exactitud fáctica.
+    .label = Resumir
+    .value = Resume la selección utilizando lenguaje preciso y conciso. Utiliza encabezados y listas con viñetas para facilitar la lectura. Preserva el significado y la exactitud fáctica.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Simplificar lenguaje
-    .value = Por favor, vuelve a escribir la selección usando oraciones cortas y palabras simples. Mantener el significado y la exactitud fáctica.
+    .value = Reescribe la selección usando oraciones cortas y palabras simples. Preserva el significado y la exactitud fáctica.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
-    .label = Hazme una prueba
-    .value = Por favor, pregúntame sobre esta selección. Hazme diferentes tipos de preguntas, por ejemplo de opción múltiple, verdadero o falso y de respuesta corta. Espera mi respuesta antes de pasar a la siguiente pregunta.
+    .label = Crear cuestionario
+    .value = Hazme preguntas sobre esta selección. Crea diferentes tipos de preguntas, por ejemplo de opción múltiple, verdadero o falso, y de respuesta corta. Espera mi respuesta antes de pasar a la siguiente pregunta.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
-    .label = Explica esto
-    .value = Por favor, explica los conceptos clave de esta selección, usando palabras simples. También usa ejemplos.
+    .label = Explicar
+    .value = Explícame los conceptos clave de esta selección, usando palabras simples. Incluye ejemplos.
 # Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
 genai-prompts-proofread =
     .label = Corregir
-    .value = Revisa la selección para detectar errores ortográficos y gramaticales. Identifica los errores y proporciona una versión corregida del texto. Mantiene el significado y la precisión fáctica y presenta primero la lista de correcciones propuestas, seguida de la versión final corregida del texto.
+    .value = Revisa la selección para detectar errores ortográficos y gramaticales. Identifica los errores y redacta una versión corregida del texto. Preserva el significado y la precisión fáctica. Presenta primero la lista de correcciones sugeridas, seguida de la versión final corregida del texto.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -261,7 +261,7 @@ link-preview-optin-message = { -brand-short-name } usa IA para leer el inicio de
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Nuevo: Haz clic y mantén presionado cualquier enlace para obtener una vista previa
 # Onboarding card description for long press
-link-preview-onboarding-description-long-press = Consulta una breve descripción, el tiempo de lectura y más información para decidir si vale la pena abrir el enlace. También está disponible con el botón derecho del ratón.
+link-preview-onboarding-description-long-press = Obtén una descripción corta, un estimado del tiempo de lectura y otros detalles para decidir si vale la pena abrir el enlace. También está disponible haciendo clic derecho.
 # Header for the key points section
 link-preview-key-points-header = Puntos clave
 # Disclaimer for AI-generated key points

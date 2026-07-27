@@ -1655,7 +1655,7 @@ redirect-warning-with-popup-message =
         [0] { -brand-short-name } ha evitado que este sitio te redirigiera.
         [1] { -brand-short-name } ha evitado que este sitio abriera una ventana emergente y te redirigiera.
         [one] { -brand-short-name } ha evitado que este sitio abriera una ventana emergente y te redirigiera.
-       *[other] { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes y te redirigiera
+       *[other] { -brand-short-name } ha evitado que este sitio abra { $popupCount } ventanas emergentes y te redirigiera.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
@@ -1665,7 +1665,7 @@ popup-warning-exceeded-message = { -brand-short-name } ha evitado que este sitio
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-with-redirect-message =
     { $popupCount ->
-        [one] { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes.
+        [one] { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventana emergente.
        *[other] { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes.
     }
 popup-warning-button =

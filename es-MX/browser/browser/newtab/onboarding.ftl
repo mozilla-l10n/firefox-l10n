@@ -247,7 +247,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar desde el
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = Selecciona el color que te inspire
-mr2022-onboarding-colorway-subtitle = Voces independientes pueden cambiar la cultura.
+mr2022-onboarding-colorway-subtitle = Las voces independientes tienen el poder de cambiar la cultura.
 mr2022-onboarding-colorway-primary-button-label-continue = Establecer y continuar
 mr2022-onboarding-existing-colorway-checkbox-label = Haz de { -firefox-home-brand-name } tu colorida página de inicio
 mr2022-onboarding-colorway-label-default = Predeterminado

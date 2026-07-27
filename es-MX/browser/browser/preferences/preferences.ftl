@@ -204,7 +204,7 @@ preferences-data-migration-group =
     .label = Importar datos del navegador
     .description = Trae tus marcadores, contraseñas, historial, extensiones y datos de autocompletar de otro navegador.
 preferences-data-migration-header = Importar datos del navegador
-preferences-data-migration-description = Importa marcadores, contraseñas, historial y datos de autocompletado en { -brand-short-name }.
+preferences-data-migration-description = Importar marcadores, contraseñas, historial y datos de autocompletado a { -brand-short-name }.
 preferences-data-migration-button =
     .label = Importar datos
     .accesskey = m
@@ -505,7 +505,7 @@ browser-language-heading =
 browser-language-preferred-label =
     .label = Idioma preferido
 browser-language-fallback-label =
-    .label = Idioma de reserva
+    .label = Idioma alternativo
     .description = Se utiliza cuando la localización del idioma preferido está incompleta.
 browser-language-install-error =
     .message = { -brand-short-name } no puede actualizar tus idiomas en este momento. Comprueba que estés conectado a internet o vuelve a intentarlo.
@@ -542,7 +542,7 @@ settings-translations-subpage-never-translate-header =
 settings-translations-subpage-never-translate-sites-header =
     .label = Nunca traducir estos sitios
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
-settings-translations-subpage-never-translate-sites-description = Para agregar un sitio, abre el <img data-l10n-name="translations-icon"/> panel de traducción, selecciona <img data-l10n-name="settings-icon"/> los ajustes de traducción y luego elige “No traducir nunca este sitio”.
+settings-translations-subpage-never-translate-sites-description = Para agregar un sitio, abre el <img data-l10n-name="translations-icon"/> panel de traducción, selecciona <img data-l10n-name="settings-icon"/> ajustes de traducción y luego elige “No traducir nunca este sitio”.
 settings-translations-subpage-language-select-option =
     .label = Agregar idioma
 settings-translations-subpage-language-add-button =
@@ -558,8 +558,8 @@ settings-translations-subpage-download-languages-button =
 # Variables:
 #   $language (string) - Localized name of the language to download.
 #   $size (string) - Download size in megabytes, formatted for the locale.
-settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
-    .label = { $language } ({ $size }MB)
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
 settings-translations-subpage-no-languages-downloaded =
     .label = No se descargaron idiomas
 settings-translations-subpage-no-languages-added =
@@ -568,13 +568,13 @@ settings-translations-subpage-download-progress = Descarga en progreso…
 # Variables:
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
-settings-translations-subpage-download-error = No se pudo descargar { $language } ({ $size } MB)
+settings-translations-subpage-download-error = No se pudo descargar { $language } ({ $size } MB)
 settings-translations-subpage-download-retry-button =
     .label = Intentar de nuevo
 # Variables:
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
-settings-translations-subpage-download-delete-confirm = ¿Eliminar { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-confirm = ¿Eliminar { $language } ({ $size } MB)?
 settings-translations-subpage-download-delete-button =
     .label = Eliminar
 settings-translations-subpage-download-cancel-button =
@@ -933,7 +933,7 @@ network-proxy-connection-settings2 =
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
-home-new-windows-tabs-description2 = Elige qué quieres ver cuando abras tu página de inicio, nuevas ventanas y nuevas pestañas.
+home-new-windows-tabs-description2 = Elige qué quieres ver cuando abres tu página de inicio, nuevas ventanas y nuevas pestañas.
 home-section =
     .heading = Inicio y sesión
 

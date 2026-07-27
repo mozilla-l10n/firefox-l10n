@@ -374,10 +374,10 @@ newtab-label-sponsored-fixed = Patrocinado
 
 newtab-section-menu-remove-section = Eliminar sección
 newtab-section-menu-collapse-section = Contraer sección
-newtab-section-menu-expand-section = Ampliar la sección
+newtab-section-menu-expand-section = Expandir sección
 newtab-section-menu-manage-section = Administrar sección
 newtab-section-menu-manage-webext = Gestionar extensión
-newtab-section-menu-add-topsite = Agregar sitio popular
+newtab-section-menu-add-topsite = Agregar sitio preferido
 newtab-section-menu-add-search-engine = Agregar motor de búsqueda
 newtab-section-menu-move-up = Subir
 newtab-section-menu-move-down = Bajar
@@ -806,19 +806,19 @@ newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-empty-state = Aún no has bloqueado ningún tema.
 newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aquí
 # 'Make firefox yours" means to customize or personalize
-newtab-custom-wallpaper-subtitle = Sube tu propio fondo de pantalla o elige un color personalizado para hacer tuyo { -brand-product-name }.
+newtab-custom-wallpaper-subtitle = Sube tu propio fondo de pantalla o elige un color para personalizar { -brand-product-name }.
 newtab-custom-wallpaper-cta = Inténtalo
 
 ## Strings for new user activation custom wallpaper highlight
 
-newtab-new-user-custom-wallpaper-title = Elige un fondo de pantalla para que { -brand-product-name } sea tuyo
-newtab-new-user-custom-wallpaper-subtitle = Haz que cada nueva pestaña se sienta como en casa con fondos de pantalla y colores personalizados.
+newtab-new-user-custom-wallpaper-title = Elige un fondo de pantalla para personalizar { -brand-product-name }
+newtab-new-user-custom-wallpaper-subtitle = Siéntete como en casa cada vez que abres una nueva pestaña, con fondos de pantalla y colores personalizados.
 newtab-new-user-custom-wallpaper-cta = Pruébalo ahora
 
 ## Strings for Nova wallpaper feature highlight
 
-newtab-wallpaper-feature-highlight-title = Ya llegaron nuevos fondos de pantalla
-newtab-wallpaper-feature-highlight-subtitle = Elige tu favorito y haz que cada pestaña nueva se sienta como en casa.
+newtab-wallpaper-feature-highlight-title = Llegaron nuevos fondos de pantalla
+newtab-wallpaper-feature-highlight-subtitle = Elige tu favorito y siéntete como en casa cada vez que abras una nueva pestaña.
 newtab-wallpaper-feature-highlight-cta = Elegir fondo de pantalla
 
 ## Strings for download mobile highlight

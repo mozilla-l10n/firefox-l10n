@@ -179,7 +179,7 @@ about-logins-edit-login-os-auth-dialog-message-macosx = editar el inicio de sesi
 about-logins-os-auth-dialog-message =
     { PLATFORM() ->
         [macos] cambia la configuración de las contraseñas
-       *[other] { -brand-short-name } está tratando de cambiar la configuración de las contraseñas. Usa tu dispositivo e inicia sesión para permitirlo.
+       *[other] { -brand-short-name } está tratando de cambiar la configuración de las contraseñas. Ingresa tus credenciales en este dispositivo para autorizar el cambio.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Para editar tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.

@@ -156,21 +156,21 @@ addon-sitepermission-host = Permisos del sitio para { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Todos los complementos han sido deshabilitados en modo seguro.
-extensions-warning-check-compatibility = Chequeo de compatibilidad para complementos está deshabilitado. Tu puedes tener complementos incompatibles.
+extensions-warning-safe-mode = El modo seguro ha desactivado todos los complementos.
+extensions-warning-check-compatibility = La verificación de compatibilidad para complementos está deshabilitada. Puede que tengas complementos incompatibles instalados.
 extensions-warning-safe-mode2 =
-    .message = Todos los complementos han sido deshabilitados en modo seguro.
+    .message = El modo seguro ha desactivado todos los complementos.
 extensions-warning-check-compatibility2 =
-    .message = Chequeo de compatibilidad para complementos esta deshabilitada. Tu puedes tener complementos incompatibles.
+    .message = La verificación de compatibilidad para complementos está deshabilitada. Puede que tengas complementos incompatibles instalados.
 extensions-warning-check-compatibility-button = Habilitar
     .title = Habilitar chequeo de compatibilidad para complementos.
-extensions-warning-update-security = El chequeo de seguridad para actualización del complemento está deshabilitado. Tu navegador puede estar en peligro por las actualizaciones.
+extensions-warning-update-security = La verificación de seguridad para actualizaciones de complementos está deshabilitada. Es posible que las actualizaciones comprometan tu seguridad.
 extensions-warning-update-security2 =
-    .message = El chequeo de seguridad para actualización del complemento esta deshabilitada. Tu navegador puede estar en peligro por las actualizaciones.
+    .message = La verificación de seguridad para actualizaciones de complementos está deshabilitada. Es posible que las actualizaciones comprometan tu seguridad.
 extensions-warning-update-security-button = Habilitar
-    .title = Habilitar chequeo de seguridad para la actualización del complemento
+    .title = Habilitar verificación de seguridad para actualizaciones de complementos
 extensions-warning-imported-addons2 =
-    .message = Por favor, finalice la instalación de las extensiones que se importaron a { -brand-short-name }.
+    .message = Por favor, finaliza la instalación de las extensiones importadas a { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar extensiones
 extensions-warning-safe-mode3 =
     .message = El modo de resolución de problemas ha desactivado todos los complementos.
@@ -194,9 +194,9 @@ addon-updates-update-addons-automatically = Actualizar los complementos automát
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = Restablecer todos los complementos para actualizar automáticamente
+addon-updates-reset-updates-to-automatic = Restablecer la actualización automática para todos los complementos
     .accesskey = R
-addon-updates-reset-updates-to-manual = Restablecer todos los complementos para actualizar manualmente
+addon-updates-reset-updates-to-manual = Restablecer la actualización manual para todos los complementos
     .accesskey = R
 
 ## Status messages displayed when updating add-ons

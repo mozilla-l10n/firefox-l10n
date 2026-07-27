@@ -10,21 +10,21 @@ more-from-moz-page-header =
     .heading = Más de { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Más de { -vendor-short-name }
-more-from-moz-subtitle = Revisa otros productos de { -vendor-short-name } que funcionan para respaldar una Internet saludable.
+more-from-moz-subtitle = Descubre otros productos de { -vendor-short-name } diseñados para crear un internet sano.
 more-from-moz-firefox-mobile-title = { -brand-product-name } para móviles
 more-from-moz-firefox-mobile-description = El navegador móvil que pone tu privacidad en primer lugar.
-more-from-moz-firefox-mobile-title-1 = { -brand-product-name } para dispositivos móviles
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } para móviles
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } para celulares
+    .label = { -brand-product-name } para móviles
     .description = El navegador móvil que prioriza tu privacidad.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Descubre una capa adicional de navegación y protección anónimas.
-more-from-moz-qr-code-box-firefox-mobile-title = Descárgalo con tu dispositivo móvil. Apunta tu cámara al código QR. Cuando aparezca un enlace, selecciónalo.
-more-from-moz-qr-code-box-firefox-mobile-button = Envía un enlace de descarga a tu teléfono.
+more-from-moz-qr-code-box-firefox-mobile-title = Descárgalo en tu dispositivo móvil. Apunta tu cámara al código QR. Cuando aparezca el enlace, selecciónalo.
+more-from-moz-qr-code-box-firefox-mobile-button = Enviar un enlace de descarga a tu dispositivo.
 more-from-moz-qr-code-firefox-mobile-img =
-    .alt = Código QR para descargar { -brand-product-name } móvil
-more-from-moz-button-mozilla-vpn-2 = Obtén una VPN
-more-from-moz-learn-more-link = Saber más.
+    .alt = Código QR para descargar { -brand-product-name } para móvil
+more-from-moz-button-mozilla-vpn-2 = Obtener la VPN
+more-from-moz-learn-more-link = Saber más
 more-from-moz-title2 = Más de { -vendor-short-name }
     .title = Más de { -vendor-short-name }
 
@@ -38,7 +38,7 @@ more-from-moz-firefox-relay-button = Obtener { -relay-brand-short-name }
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Recupera automáticamente tu información personal expuesta.
-more-from-moz-mozilla-monitor-global-description = Reciba alertas cuando sus datos hayan sufrido una vulneración.
+more-from-moz-mozilla-monitor-global-description = Recibe alertas cuando tus datos aparezcan en filtraciones.
 more-from-moz-mozilla-monitor-button = Obtener { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
@@ -51,14 +51,14 @@ more-from-moz-solo-title-2 = Creador de sitios web con IA de { -solo-ai-brand-na
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
 more-from-moz-mdn-description = Aprende a desarrollar paginas web con guías y referencias gratuitas y completas.
-more-from-moz-mdn-button = Aprende desarrollo web
+more-from-moz-mdn-button = Aprender desarrollo web
 more-from-moz-mdn-title2 = { -mdn-brand-name }
 
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 more-from-moz-thunderbird-description = Correo, calendario y contactos gratuitos: organización a tu manera.
-more-from-moz-thunderbird-button = Obtén { -thunderbird-brand-short-name }
+more-from-moz-thunderbird-button = Obtener { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
