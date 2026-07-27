@@ -1489,16 +1489,16 @@ newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } gegen { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
-    .aria-label = { $homeTeam } gegen { $awayTeam }, verzögert
+    .aria-label = { $homeTeam } : { $awayTeam }, verzögert
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
-    .aria-label = { $homeTeam } gegen { $awayTeam }, verschoben
+    .aria-label = { $homeTeam } : { $awayTeam }, verschoben
 # An upcoming match row whose status is "suspended".
 newtab-sports-widget-match-aria-label-upcoming-suspended =
-    .aria-label = { $homeTeam } gegen { $awayTeam }, unterbrochen
+    .aria-label = { $homeTeam } : { $awayTeam }, unterbrochen
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
-    .aria-label = { $homeTeam } gegen { $awayTeam }, abgesagt
+    .aria-label = { $homeTeam } : { $awayTeam }, abgesagt
 
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code

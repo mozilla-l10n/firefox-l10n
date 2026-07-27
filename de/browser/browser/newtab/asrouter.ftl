@@ -433,7 +433,7 @@ windows-10-eos-callout-addons-primary-button = Sehen Sie sich unsere Auswahl an
 windows-10-eos-sync-callout-addons-title = Verlieren Sie Ihre Add-ons nicht, wenn Sie von Windows 10 aktualisieren.
 windows-10-eos-sync-callout-addons-subtitle = Synchronisieren Sie jetzt, damit Ihre { -brand-product-name }-Add-ons immer verfügbar sind, auch nach einem Gerätewechsel.
 windows-10-eos-sync-callout-next-button = Weiter
-windows-10-eos-sync-callout-get-started-button = Los geht's
+windows-10-eos-sync-callout-get-started-button = Los geht’s
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
