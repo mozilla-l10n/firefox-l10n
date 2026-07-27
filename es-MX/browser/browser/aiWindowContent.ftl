@@ -10,8 +10,8 @@ smartwindow-messages-document-title = Mensajes de chat de  { -smart-window-brand
 #   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
 smart-window-context-chips-tag-count =
     { $tags ->
-        [one] { $tags } etiqueta
-       *[other] { $tags } etiquetas
+        [one] { $tags } mención
+       *[other] { $tags } menciones
     }
 
 ## Error messages in the chat content

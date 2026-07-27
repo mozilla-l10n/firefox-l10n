@@ -21,7 +21,7 @@ webauthn-specific-passkey-label = Passkey für { $domain }
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
     { $retriesLeft ->
-        [one] Benutzerüberprüfung fehlgeschlagen. Sie haben noch { $retriesLeft } Versuche. Versuchen Sie es erneut.
-       *[other] Benutzerüberprüfung fehlgeschlagen. Sie haben noch { $retriesLeft } Versuch. Versuchen Sie es erneut.
+        [one] Benutzerüberprüfung fehlgeschlagen. Sie haben noch { $retriesLeft } Versuch. Versuchen Sie es erneut.
+       *[other] Benutzerüberprüfung fehlgeschlagen. Sie haben noch { $retriesLeft } Versuche. Versuchen Sie es erneut.
     }
 webauthn-uv-invalid-short-prompt = Benutzerüberprüfung fehlgeschlagen. Versuchen Sie es erneut.

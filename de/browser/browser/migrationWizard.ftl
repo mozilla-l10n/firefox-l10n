@@ -53,14 +53,14 @@ migration-imported-edge-reading-list = Leseliste (von Edge)
 ## is installed as a Snap.
 
 migration-no-permissions-message = { -brand-short-name } hat keinen Zugriff auf die Profile anderer Browser, die auf diesem Gerät installiert sind.
-migration-no-permissions-instructions = Um mit dem Importieren von Daten aus einem anderen Browser fortzufahren, musst du{ -brand-short-name } Zugriff auf seinen Profilordner gewähren.
+migration-no-permissions-instructions = Um mit dem Importieren von Daten aus einem anderen Browser fortzufahren, müssen Sie { -brand-short-name } Zugriff auf seinen Profilordner gewähren.
 migration-no-permissions-instructions-step1 = Wähle "Fortsetzen"
 # The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:
 #  $permissionsPath (String): the file system path that the user will need to grant read permission to.
-migration-no-permissions-instructions-step2 = Navigiere in der Dateiauswahl zu <code>{ $permissionsPath }</code> und wähle "Auswählen"
+migration-no-permissions-instructions-step2 = Navigieren Sie in der Dateiauswahl zu <code>{ $permissionsPath }</code> und wählen Sie "Auswählen"
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -89,7 +89,7 @@ migration-passwords-from-file-success-header = Passwörter erfolgreich importier
 migration-passwords-from-file = Datei wird auf Passwörter überprüft
 migration-passwords-new = Neue Passwörter
 migration-passwords-updated = Bestehende Passwörter
-migration-passwords-from-file-no-valid-data = Die Datei enthält keine gültigen Passwortdaten. Wähle eine andere Datei.
+migration-passwords-from-file-no-valid-data = Die Datei enthält keine gültigen Passwortdaten. Wählen Sie eine andere Datei.
 migration-passwords-from-file-picker-title = Passwort-Datei importieren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -129,7 +129,7 @@ migration-bookmarks-from-file-picker-title = Lesezeichendatei importieren
 migration-bookmarks-from-file-progress-header = Lesezeichen werden importiert
 migration-bookmarks-from-file = Lesezeichen
 migration-bookmarks-from-file-success-header = Lesezeichen erfolgreich importiert
-migration-bookmarks-from-file-no-valid-data = Die Datei enthält keine Lesezeichen-Daten. Wähle eine andere Datei.
+migration-bookmarks-from-file-no-valid-data = Die Datei enthält keine Lesezeichen-Daten. Wählen Sie eine andere Datei.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -196,10 +196,10 @@ migration-safari-password-import-post-sequoia-step2 = Wählen Sie in der Menüle
 migration-safari-password-import-post-sequoia-step3 = Datei speichern
 migration-safari-password-import-post-sequoia-step4 = Wählen Sie die gespeicherte Datei aus
 migration-safari-password-import-steps-header = Um Safari-Passwörter zu importieren:
-migration-safari-password-import-step1 = Öffne in Safari das Menü "Safari" und gehe zu Einstellungen > Passwörter
-migration-safari-password-import-step2 = Wähle die Schaltfläche <img data-l10n-name="safari-icon-3dots"/> und wähle "Alle Passwörter exportieren"
+migration-safari-password-import-step1 = Öffnen Sie in Safari das Menü "Safari" und gehen Sie zu Einstellungen > Passwörter
+migration-safari-password-import-step2 = Klicken Sie auf die <img data-l10n-name="safari-icon-3dots"/>-Schaltfläche und wählen Sie „Alle Passwörter exportieren“
 migration-safari-password-import-step3 = Speichere die Passwortdatei
-migration-safari-password-import-step4 = Wähle unten "Datei auswählen", um die gespeicherte Passwortdatei zu verwenden
+migration-safari-password-import-step4 = Wählen Sie unten "Datei auswählen", um die gespeicherte Passwortdatei zu verwenden
 migration-chrome-windows-password-import-header = So importieren Sie Passwörter aus Chrome
 migration-chrome-windows-password-import-steps-header = In Chrome:
 migration-chrome-windows-password-import-step1 = Öffnen Sie das Hauptmenü <img data-l10n-name="chrome-icon-3dots"/> und gehen Sie zu Passwörter und Autofill > Google Passwortmanager.
@@ -296,4 +296,4 @@ migration-wizard-progress-success-payment-methods =
     }
 migration-wizard-safari-permissions-sub-header = Um Safari-Lesezeichen und die Surf-Chronik zu importieren:
 migration-wizard-safari-instructions-continue = Wähle "Fortsetzen"
-migration-wizard-safari-instructions-folder = Wähle in der Liste den Safari-Ordner aus und wähle "Öffnen"
+migration-wizard-safari-instructions-folder = Wählen Sie in der Liste den Safari-Ordner aus und wählen Sie "Öffnen"

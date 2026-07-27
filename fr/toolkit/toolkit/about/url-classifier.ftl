@@ -73,16 +73,16 @@ url-classifier-content-classifier-force-third-party = Forcer le tiers à placer 
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Module non recommandé
 # Button: run the probe that reports whether the request would be blocked.
-url-classifier-content-classifier-probe-blocking-btn = Blocage de la sonde
+url-classifier-content-classifier-probe-blocking-btn = Sonder le blocage
 # Button: run the probe that reports whether the request would be annotated
 # (labeled) as tracking without being blocked.
 url-classifier-content-classifier-probe-annotate-btn = Sonder les annotations
 # Button: run the probe against a single classifier feature chosen in the
 # adjacent dropdown.
-url-classifier-content-classifier-probe-feature-btn = Vérifier la fonctionnalité
+url-classifier-content-classifier-probe-feature-btn = Sonder la fonctionnalité
 # Label for an expandable area showing the detailed per-feature output from the
 # classification engine.
-url-classifier-content-classifier-engine-details = Détails sur le moteur
+url-classifier-content-classifier-engine-details = Détails du moteur
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Fonctionnalité
 # Column header: whether the request matched this feature (true/false).
