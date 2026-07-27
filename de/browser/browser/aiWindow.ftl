@@ -122,7 +122,7 @@ aiwindow-firstrun-model-personal-body = Am besten zugeschnittene Antworten
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Persönlich: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Entwickelt für personalisierte Hilfe in allen Sprachen
-aiwindow-firstrun-button = Los geht's
+aiwindow-firstrun-button = Los geht’s
 aiwindow-firstrun-back-button = Zurück
 aiwindow-firstrun-next-button = Weiter
 
