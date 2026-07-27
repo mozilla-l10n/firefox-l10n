@@ -474,7 +474,7 @@ tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
-multi-profile-spotlight-title = Les profils { -brand-product-name } sont là !
+multi-profile-spotlight-title = Les profils { -brand-product-name } sont là !
 multi-profile-spotlight-body = Passez facilement de la navigation professionnelle à la navigation de divertissement. Les profils séparent totalement vos informations de navigation, dont l’historique des recherches et les mots de passe, pour vous aider à organiser vos activités en ligne.
 multi-profile-spotlight-cta = Créer un profil
 multi-profile-callout-title = Créez des profils distincts pour le travail et les loisirs

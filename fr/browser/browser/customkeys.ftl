@@ -14,7 +14,7 @@ customkeys-new-key = Appuyez sur la nouvelle touche :
 customkeys-reset-all = Rétablir tous les raccourcis avec les paramètres par défaut
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
-customkeys-conflict-confirm = Cette touche est déjà attribuée à { $conflict }. Voulez-vous la remplacer ?
+customkeys-conflict-confirm = Cette touche est déjà attribuée à { $conflict }. Voulez-vous la remplacer ?
 customkeys-reset-all-confirm = Voulez-vous vraiment réinitialiser tous les raccourcis clavier ?
 customkeys-file-duplicate-tab = Dupliquer l’onglet
 customkeys-file-focus-search = Activer la barre de recherche

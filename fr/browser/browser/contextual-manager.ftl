@@ -106,8 +106,7 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
 contextual-manager-passwords-remove-all-title =
     { $total ->
         [1] Supprimer le mot de passe ?
-        [one] Supprimer le mot de passe ?
-       *[other] Supprimer les { $total }  mots de passe ?
+       *[other] Supprimer les { $total } mots de passe ?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords

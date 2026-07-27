@@ -25,7 +25,7 @@ tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerN
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
+tabbrowser-container-tab-title = { $title } — { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.

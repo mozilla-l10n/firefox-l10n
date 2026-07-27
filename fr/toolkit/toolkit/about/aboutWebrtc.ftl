@@ -72,8 +72,8 @@ about-webrtc-ice-state = État ICE
 about-webrtc-ice-stats-heading = Statistiques ICE
 about-webrtc-ice-restart-count-label = Redémarrages ICE:
 about-webrtc-ice-rollback-count-label = Restaurations ICE:
-about-webrtc-ice-pair-bytes-sent = Octets envoyés:
-about-webrtc-ice-pair-bytes-received = Octets reçus:
+about-webrtc-ice-pair-bytes-sent = Octets envoyés :
+about-webrtc-ice-pair-bytes-received = Octets reçus :
 about-webrtc-ice-component-id = ID du composant
 
 ## These adjectives are used to label a line of statistics collected for a peer
