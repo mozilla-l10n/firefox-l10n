@@ -43,7 +43,7 @@ site-permission-install-first-prompt-serial-message = Dieser Zugriff ist nicht g
 
 xpinstall-disabled-locked = Die Software-Installation wurde von Ihrem Administrator deaktiviert.
 xpinstall-disabled-by-policy = Die Software-Installation wurde von Ihrer Organisation deaktiviert.
-xpinstall-disabled = Die Software-Installation ist momentan deaktiviert. Klicken Sie auf  "Aktivieren" und versuchen Sie es dann erneut.
+xpinstall-disabled = Die Software-Installation ist momentan deaktiviert. Klicken Sie auf "Aktivieren" und versuchen Sie es dann erneut.
 xpinstall-disabled-button =
     .label = Aktivieren
     .accesskey = k
