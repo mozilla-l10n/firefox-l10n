@@ -51,6 +51,17 @@ about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ( { 
 about-networking-ssl-tokens-partition-key = Allwedd Rhaniad
 about-networking-ssl-tokens-tokens-column = Tocynnau
 about-networking-ssl-tokens-expires = Daw i Ben
+about-networking-ssl-tokens-certificate = Cert
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [zero] { $count } tocynnau
+        [one] { $count } tocyn
+        [two] { $count } docyn
+        [few] { $count } thocyn
+        [many] { $count } thocyn
+       *[other] { $count } tocyn
+    }
 about-networking-refresh = Adnewyddu
 about-networking-auto-refresh = Adnewyddu pob 3 eiliad
 about-networking-hostname = Enw Gwesteiwr
