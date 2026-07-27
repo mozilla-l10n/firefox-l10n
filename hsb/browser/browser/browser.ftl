@@ -1615,6 +1615,11 @@ private-browsing-indicator-label = Priwatny modus
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Priwatny modus
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informacije priwatneho modusa
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Sće w priwatnym woknje
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

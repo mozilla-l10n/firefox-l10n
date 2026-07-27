@@ -633,3 +633,8 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Asistent začinjeny wosta
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Wužiwajće Prašeć so, zo byšće jo na někajkej stronje wočinił. Změńće to kóždy čas w <a data-l10n-name="settings">nastajenjach</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Sym zrozumił
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jeli swoje měnjenje měnjeće, móžeće kóždy čas standard w <a data-l10n-name="settings">nastajenjach</a> aktualizować.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Wubjerće drastu
+onboarding-theme-picker-button-label = Składować a pokročować

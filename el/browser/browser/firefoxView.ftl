@@ -44,13 +44,17 @@ firefoxview-tabpickup-synctabs-header = Ενεργοποίηση συγχρον�
 firefoxview-tabpickup-synctabs-description = Επιτρέψτε στο { -brand-short-name } να κάνει κοινή χρήση καρτελών μεταξύ συσκευών.
 firefoxview-tabpickup-synctabs-learn-how = Μάθετε πώς
 firefoxview-tabpickup-synctabs-primarybutton = Συγχρονισμός ανοικτών καρτελών
+firefoxview-tabpickup-synctabs-primarybutton-2 = Ενεργοποίηση συγχρονισμού καρτελών
 firefoxview-syncedtabs-synctabs-header = Ενημερώστε τις ρυθμίσεις συγχρονισμού σας
 firefoxview-syncedtabs-synctabs-description = Για να δείτε καρτέλες από άλλες συσκευές, πρέπει να συγχρονίσετε τις ανοικτές καρτέλες σας.
+firefoxview-syncedtabs-synctabs-header-2 = Ο συγχρονισμός καρτελών είναι ανενεργός
 firefoxview-syncedtabs-loading-header = Συγχρονισμός σε εξέλιξη
 firefoxview-syncedtabs-loading-description = Μόλις ολοκληρωθεί, θα δείτε όλες τις ανοικτές καρτέλες από άλλες συσκευές. Επιστρέψτε σε λίγο.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
 firefoxview-tabpickup-fxa-admin-disabled-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο διαχειριστής σας έχει απενεργοποιήσει τον συγχρονισμό.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Ο συγχρονισμός καρτελών είναι ανενεργός
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ο οργανισμός σας απέκλεισε αυτήν τη λειτουργία.
 firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
 firefoxview-tabpickup-network-offline-description = Εάν χρησιμοποιείτε τείχος προστασίας ή διακομιστή μεσολάβησης, ελέγξτε ότι το { -brand-short-name } έχει άδεια πρόσβασης στο διαδίκτυο.
 firefoxview-tabpickup-network-offline-primarybutton = Δοκιμή ξανά
@@ -69,6 +73,7 @@ firefoxview-tabpickup-signed-out-header = Συνδεθείτε για επανα
 firefoxview-tabpickup-signed-out-description = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας.
 firefoxview-tabpickup-signed-out-description2 = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον λογαριασμό σας.
 firefoxview-tabpickup-signed-out-primarybutton = Σύνδεση
+firefoxview-tabpickup-signed-out-header-2 = Συνδεθείτε για να δείτε τις καρτέλες σας
 firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
 firefoxview-mobile-promo-header = Λάβετε καρτέλες από το τηλέφωνο ή το tablet σας
 firefoxview-mobile-promo-description = Για να δείτε τις πρόσφατες καρτέλες από την κινητή σας συσκευή, συνδεθείτε στο { -brand-product-name } για iOS ή Android.
@@ -221,6 +226,8 @@ firefoxview-choose-browser-button = Επιλογή προγράμματος πε
 
 firefoxview-dont-remember-history-empty-header-2 = Εσείς έχετε τον έλεγχο του τι αποθηκεύει το { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = Προς το παρόν, το { -brand-short-name } δεν αποθηκεύει τη δραστηριότητα περιήγησής σας. Για να το αλλάξετε αυτό, <a data-l10n-name="history-settings-url-two">ενημερώστε τις ρυθμίσεις ιστορικού σας</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Η δραστηριότητά σας δεν θα αποθηκευτεί
 
 ##
 

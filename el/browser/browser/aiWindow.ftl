@@ -198,6 +198,35 @@ aiwindow-close-sidebar =
     .aria-label = Κλείσιμο
     .tooltiptext = Κλείσιμο
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Περισσότερες επιλογές
+    .tooltiptext = Περισσότερες επιλογές
+aiwindow-history-menu-chat-history = Ιστορικό συνομιλιών
+aiwindow-history-menu-back =
+    .aria-label = Πίσω
+    .tooltiptext = Πίσω
+aiwindow-history-menu-view-all-chats = Προβολή όλων των συνομιλιών
+aiwindow-history-menu-settings = Ρυθμίσεις { -smart-window-brand-name(form: "lowerSingularGen") }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Νέα συνομιλία
+aiwindow-fullpage-chat-history =
+    .label = Ιστορικό συνομιλιών
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Περισσότερα
+    .title = Περισσότερα
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Τα συγχρονισμένα δεδομένα θα παραμείνουν στον λογαριασμό σας. Τα ανοικτά { -smart-window-brand-name(form: "lowerPluralNom") } θα γίνουν κλασικά παράθυρα.

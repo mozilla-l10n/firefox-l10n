@@ -633,3 +633,8 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Ο βοηθός θα πα
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Επιλέξτε «Ερώτηση» για να τον ανοίξετε σε οποιαδήποτε σελίδα. Αλλάξτε αυτήν τη συμπεριφορά στις <a data-l10n-name="settings">Ρυθμίσεις</a>, ανά πάσα στιγμή.
 smartwindow-sidebar-auto-open-callout-rejected-title = Το κατάλαβα
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Εάν αλλάξετε γνώμη, μπορείτε να ενημερώσετε την προεπιλογή στις <a data-l10n-name="settings">Ρυθμίσεις</a>, ανά πάσα στιγμή.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Επιλέξτε ένα θέμα
+onboarding-theme-picker-button-label = Αποθήκευση και συνέχεια

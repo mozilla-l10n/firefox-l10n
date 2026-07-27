@@ -198,6 +198,35 @@ aiwindow-close-sidebar =
     .aria-label = Začinić
     .tooltiptext = Začinić
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Dalše nastajenja
+    .tooltiptext = Dalše nastajenja
+aiwindow-history-menu-chat-history = Chatowa historija
+aiwindow-history-menu-back =
+    .aria-label = Wróćo
+    .tooltiptext = Wróćo
+aiwindow-history-menu-view-all-chats = Wšě chaty pokazać
+aiwindow-history-menu-settings = Nastajenja { -smart-window-brand-name }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Nowy chat
+aiwindow-fullpage-chat-history =
+    .label = Chatowa historija
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Wjace
+    .title = Wjace
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Synchronizowane daty we wašim konće wostanu. Wočinjene { -smart-window-brand-name(form: "lowercase-plural") } so do klasiskich woknow změnja.

@@ -40,17 +40,21 @@ firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobil
 firefoxview-syncedtabs-adddevice-header-2 = Wobstarajće sej rajtarki wot wšudźe
 firefoxview-syncedtabs-adddevice-description-2 = Přizjewće pola { -brand-product-name } na swojim telefonje abo druhim ličaku, zo byšće rajtarki tu widźał. Zhońće, kak móžeće <a data-l10n-name="url">přidatne graty zwjazać</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wupruwujće { -brand-product-name } za mobilny grat
+firefoxview-syncedtabs-adddevice-description-3 = Skenujće QR-kod, zo byšće { -brand-product-name } za swój mobilny telefon dóstał a synchronizujće swoje wočinjene rajtarki a wjace. Zhońće, kak móžeće <a data-l10n-name="url">přidatne graty zwjazać</a>.
 firefoxview-tabpickup-synctabs-header = Synchronizaciju rajtarkow zmóžnić
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowolić, rajtarki mjez gratami dźělić.
 firefoxview-tabpickup-synctabs-learn-how = Zhońće kak
 firefoxview-tabpickup-synctabs-primarybutton = Wočinjene rajtarki synchronizować
+firefoxview-tabpickup-synctabs-primarybutton-2 = Synchronizaciju rajtarkow zmóžnić
 firefoxview-syncedtabs-synctabs-header = Aktualizujće swoje synchronizaciske nastajenja
 firefoxview-syncedtabs-synctabs-description = Zo byšće rajtarki z druhich gratow widźał, dyrbiće swoje wočinjene rajtarki synchronizować.
 firefoxview-syncedtabs-loading-header = Synchronizuje so
 firefoxview-syncedtabs-loading-description = Hdyž to je dokónčene, budźeće rajtarki widźeć, kotrež su na druhich gratach wočinjene. Hladajće bórze za tym.
+firefoxview-syncedtabs-loading-header-2 = Waše rajtarki so wobstaruja…
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija je synchronizaciju znjemóžniła
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waš administrator je synchronizowanje znjemóžnił.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waša organizacija je synchronizowanje znjemóžniła.
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Waša organizacija je tutu funkciju zablokowała.
 firefoxview-tabpickup-network-offline-header = Přepruwujće swój internetny zwisk
 firefoxview-tabpickup-network-offline-description = Jeli wohnjowu murju abo proksy wužiwaće, přepruwujće, hač { -brand-short-name } ma prawo na přistup k internetej.
 firefoxview-tabpickup-network-offline-primarybutton = Hišće raz spytać
@@ -69,6 +73,7 @@ firefoxview-tabpickup-signed-out-header = Přizjewće so, zo byšće zaso zwjaza
 firefoxview-tabpickup-signed-out-description = Zo byšće so zaso zwjazował a přistup k swojim rajtarkam měł, přizjewće so pola swojeho { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Zo byšće so zaso zwjazował a přistup k swojim rajtarkam měł, přizjewće so pola swojeho konta.
 firefoxview-tabpickup-signed-out-primarybutton = Přizjewić
+firefoxview-tabpickup-signed-out-header-2 = Přizjewće so, zo byšće swoje rajtarki widźał
 firefoxview-tabpickup-syncing = Wočakajće, mjeztym zo so waše rajtarki synchronizuja. Budźe jenož wokomik trać.
 firefoxview-mobile-promo-header = Wobstarajće sej rajtarki ze swojeho šmóratka abo tableta
 firefoxview-mobile-promo-description = Zo byšće sej swoje najnowše mobilne rajtarki wobhladował, přizjewće so pola { -brand-product-name } na iOS abo Android.
@@ -223,6 +228,8 @@ firefoxview-choose-browser-button = Wubjerće wobhladowak
 
 firefoxview-dont-remember-history-empty-header-2 = Maće kontrolu wo tym, štož sej { -brand-short-name } spomjatkuje
 firefoxview-dont-remember-history-empty-description-one = Tuchwilu sej { -brand-short-name } wašu přehladowansku aktiwitu njespomjatkuje. Zo byšće to změnił, <a data-l10n-name="history-settings-url-two">aktualizujće nastajenja swojeje historije</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Waše přehladowanje so njeskładuje
 
 ##
 
