@@ -15,8 +15,8 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] <b>{ $count }</b> Skript zur Aktivitätenverfolgung blockiert seit { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }.
-       *[other] <b>{ $count }</b> Skripte zur Aktivitätenverfolgung blockiert seit  { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }.
+        [one] <b>{ $count }</b> Skript zur Aktivitätenverfolgung blockiert seit{ DATETIME($earliestDate, day: "numeric", year: "numeric", month: "long") }.
+       *[other] <b>{ $count }</b> Skripte zur Aktivitätenverfolgung blockiert seit { DATETIME($earliestDate, day: "numeric", year: "numeric", month: "long") }.
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } wird weiterhin Elemente zur Aktivitätenverfolgung in privaten Fenstern blockieren, aber nicht aufzeichnen, was blockiert wurde.
