@@ -137,7 +137,7 @@ mr2-onboarding-start-browsing-button-label = Lossurfen
 
 onboarding-live-language-header = Wählen Sie Ihre Sprache
 mr2022-onboarding-live-language-text = { -brand-short-name } spricht Ihre Sprache
-mr2022-language-mismatch-subtitle = Dank unserer Gemeinschaft wird { -brand-short-name } in über 90 Sprachen übersetzt. Offenbar verwendet dein System { $systemLanguage } und { -brand-short-name } verwendet { $appLanguage }.
+mr2022-language-mismatch-subtitle = Dank unserer Gemeinschaft wird { -brand-short-name } in über 90 Sprachen übersetzt. Offenbar verwendet Ihr System { $systemLanguage } und { -brand-short-name } verwendet { $appLanguage }.
 onboarding-live-language-button-label-downloading = Das Sprachpaket für { $negotiatedLanguage } wird heruntergeladen…
 onboarding-live-language-waiting-button = Verfügbare Sprachen werden abgerufen…
 onboarding-live-language-installing = Das Sprachpaket für { $negotiatedLanguage } wird installiert…
@@ -188,9 +188,9 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Aus vorherigem Browser impo
 # In this context, open up is synonymous with "Discover".
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
-mr2022-onboarding-welcome-pin-header = Öffne ein großartiges Internet
+mr2022-onboarding-welcome-pin-header = Öffnen Sie ein großartiges Internet
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
-mr2022-onboarding-welcome-pin-subtitle = Starte { -brand-short-name } von überall aus mit einem einzigen Klick. Jedes Mal, wenn du dies tust, wählst du ein offeneres und unabhängigeres Web.
+mr2022-onboarding-welcome-pin-subtitle = Starten Sie { -brand-short-name } von überall aus mit einem einzigen Klick. Jedes Mal, wenn Sie dies tun, wählen Sie ein offeneres und unabhängigeres Web.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -203,27 +203,27 @@ mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } an Taskl
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Lege los mit einem Browser, der von einer gemeinnützigen Organisation unterstützt wird. Wir schützen deine Privatsphäre, während du im Internet unterwegs bist.
+mr2022-onboarding-set-default-only-subtitle = Legen Sie los mit einem Browser, der von einer gemeinnützigen Organisation unterstützt wird. Wir schützen Ihre Privatsphäre, während Sie im Internet unterwegs sind.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-header = Danke, dass du { -brand-product-name } liebst
+mr2022-onboarding-existing-pin-header = Danke, dass Sie { -brand-product-name } lieben
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-subtitle = Starte mit einem einzigen Klick von überall aus ein gesünderes Internet. Unser neuestes Update ist vollgepackt mit neuen Dingen, von denen wir glauben, dass du sie lieben wirst.
+mr2022-onboarding-existing-pin-subtitle = Starten Sie mit einem einzigen Klick von überall aus ein gesünderes Internet. Unser neuestes Update ist vollgepackt mit neuen Dingen, von denen wir glauben, dass Sie sie lieben werden.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
-mr2022-onboarding-existing-set-default-only-subtitle = Verwende einen Browser, der deine Privatsphäre schützt, während du im Internet unterwegs bist. Unser neuestes Update ist vollgepackt mit Dingen, die du liebst.
+mr2022-onboarding-existing-set-default-only-subtitle = Verwenden Sie einen Browser, der Ihre Privatsphäre schützt, während Sie im Internet surfen. Unser neuestes Update ist vollgepackt mit Dingen, die Sie lieben.
 mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } Privater Modus auch hinzufügen
 
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
-mr2022-onboarding-set-default-title = Mache { -brand-short-name } zu deinem bevorzugten Browser
+mr2022-onboarding-set-default-title = Machen Sie { -brand-short-name } zu Ihrem bevorzugten Browser
 mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } als Standardbrowser festlegen
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-subtitle = Verwende einen Browser, der von einer gemeinnützigen Organisation unterstützt wird. Wir schützen deine Privatsphäre, während du im Internet unterwegs bist.
+mr2022-onboarding-set-default-subtitle = Verwenden Sie einen Browser, der von einer gemeinnützigen Organisation unterstützt wird. Wir schützen Ihre Privatsphäre, während Sie im Internet surfen.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -231,7 +231,7 @@ mr2022-onboarding-set-default-subtitle = Verwende einen Browser, der von einer g
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = Unsere neueste Version ist um dich herum aufgebaut und macht es einfacher als je zuvor, im Internet zu surfen. Es ist vollgepackt mit Funktionen, von denen wir glauben, dass du sie lieben wirst.
+mr2022-onboarding-get-started-primary-subtitle = Unsere neueste Version ist um Sie herum aufgebaut und macht es einfacher als je zuvor, im Internet zu surfen. Sie ist vollgepackt mit Funktionen, von denen wir glauben, dass Sie sie lieben werden.
 mr2022-onboarding-get-started-primary-button-label = In Sekunden eingerichtet
 
 ## MR2022 Get Started screen strings.
@@ -239,7 +239,7 @@ mr2022-onboarding-get-started-primary-button-label = In Sekunden eingerichtet
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Blitzschnelle Einrichtung
-mr2022-onboarding-import-subtitle = Richte { -brand-short-name } nach deinen Wünschen ein. Füge deine Lesezeichen, Passwörter und mehr aus deinem alten Browser hinzu.
+mr2022-onboarding-import-subtitle = Richten Sie { -brand-short-name } nach Ihren Wünschen ein. Fügen Sie Ihre Lesezeichen, Passwörter und mehr aus Ihrem alten Browser hinzu.
 mr2022-onboarding-import-primary-button-label-no-attribution = Aus vorherigem Browser importieren
 
 ## If your language uses grammatical genders, in the description for the
@@ -247,10 +247,10 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Aus vorherigem Br
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
-mr2022-onboarding-colorway-title = Wähle die Farbe, die dich inspiriert
+mr2022-onboarding-colorway-title = Wählen Sie die Farbe, die Sie inspiriert
 mr2022-onboarding-colorway-subtitle = Unabhängige Stimmen können die Kultur verändern.
 mr2022-onboarding-colorway-primary-button-label-continue = Einstellen und weiter
-mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } zu deiner farbenfrohen Startseite machen
+mr2022-onboarding-existing-colorway-checkbox-label = Machen Sie { -firefox-home-brand-name } zu Ihrer farbenfrohen Startseite
 mr2022-onboarding-colorway-label-default = Standard
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Aktuelle { -brand-short-name }-Farben
@@ -282,16 +282,16 @@ mr2022-onboarding-colorway-description-innovator = <b>Du bist Innovator.</b> Du 
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Wechsle vom Laptop zum Telefon und wieder zurück
-mr2022-onboarding-mobile-download-subtitle = Greife auf Tabs von einem Gerät zu und mache dort weiter, wo du auf einem anderen aufgehört hast. Außerdem kannst du deine Lesezeichen und Passwörter überall dort synchronisieren, wo du { -brand-product-name } verwendest.
-mr2022-onboarding-mobile-download-cta-text = Scanne den QR-Code, um { -brand-product-name } für Mobilgeräte zu erhalten, oder <a data-l10n-name="download-label">sende dir selbst einen Download-Link.</a>
-mr2022-onboarding-no-mobile-download-cta-text = Scanne den QR-Code, um dir { -brand-product-name } für Mobilgeräte zu holen.
+mr2022-onboarding-mobile-download-title = Wechseln Sie vom Laptop zum Telefon und wieder zurück
+mr2022-onboarding-mobile-download-subtitle = Holen Sie sich Tabs von einem Gerät und machen Sie dort weiter, wo Sie auf einem anderen aufgehört haben. Außerdem können Sie Ihre Lesezeichen und Passwörter überall dort synchronisieren, wo Sie { -brand-product-name } verwenden.
+mr2022-onboarding-mobile-download-cta-text = Scannen Sie den QR-Code, um { -brand-product-name } für Mobilgeräte zu erhalten, oder <a data-l10n-name="download-label">senden Sie sich selbst einen Download-Link</a>
+mr2022-onboarding-no-mobile-download-cta-text = Scannen Sie den QR-Code, um { -brand-product-name } für Mobilgeräte zu erhalten.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-upgrade-onboarding-pin-private-window-header = Hole dir die Freiheit des privaten Surfens mit einem Klick
-mr2022-upgrade-onboarding-pin-private-window-subtitle = Keine gespeicherten Cookies oder Chronik, direkt von deinem Desktop. Surfe, als würde niemand zusehen.
+mr2022-upgrade-onboarding-pin-private-window-header = Holen Sie sich die Freiheit des privaten Surfens mit einem Klick
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Keine gespeicherten Cookies oder Chronik, direkt von Ihrem Desktop. Surfen Sie, als würde niemand zusehen.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
         [macos] { -brand-short-name } Privater Modus im Dock behalten
@@ -300,7 +300,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
-mr2022-onboarding-privacy-segmentation-title = Wir respektieren immer deine Privatsphäre
+mr2022-onboarding-privacy-segmentation-title = Wir respektieren immer Ihre Privatsphäre
 mr2022-onboarding-privacy-segmentation-subtitle = Von intelligenten Vorschlägen bis hin zu einer schlaueren Suche arbeiten wir ständig daran, einen besseren, persönlicheren { -brand-product-name } zu schaffen.
 mr2022-onboarding-privacy-segmentation-text-cta = Was soll passieren, wenn wir neue Funktionen anbieten, die deine Daten verwenden, um dein Surfen zu verbessern?
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name }-Empfehlungen verwenden
