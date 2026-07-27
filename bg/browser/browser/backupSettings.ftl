@@ -25,10 +25,13 @@ settings-data-backup-header2 =
 settings-data-backup-toggle = Управление на резервните копия
 settings-data-backup-toggle-on2 =
     .label = Включване на резервните копия
+settings-data-backup-toggle-off2 =
+    .label = Изключване на архивирането
 settings-data-backup-trigger-button = Архивиране
 settings-data-backup-in-progress-button = Архивирането е в процес на изпълнение…
 settings-data-backup-in-progress-message =
     .message = Архивиране в ход...
+settings-data-backup-last-backup-date = Последно резервно копие: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Архивирането е ВКЛЮЧЕНО
 settings-data-backup-scheduled-backups-off2 =
@@ -42,6 +45,9 @@ settings-data-create-backup-error = Възникна грешка при съз�
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Име на файл: { $fileName }
+settings-data-backup-restore-scheduled-off =
+    .label = Възстановяване на вашите данни
+    .description = Използване на архив на { -brand-product-name } от друго устройство за възстановяване на данните.
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -74,6 +80,16 @@ restore-from-backup-file-choose-button =
     }
 restore-from-backup-password-label = Парола
 restore-from-backup-cancel-button = Отказ
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Този файл не работи
+    .message = Има проблем с архивния файл. Изберете друг файл и опитайте отново.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

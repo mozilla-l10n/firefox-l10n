@@ -64,7 +64,7 @@ fxa-avatar-sign-up = Registrieren
 fxa-avatar-tooltip =
     .tooltiptext = Melden Sie sich mit Ihrem Konto an
 sync-setup-verify-continue = Weiter
-sync-setup-verify-title = Warnung: Daten Zusammenführen
+sync-setup-verify-title = Warnung: Daten zusammenführen
 sync-setup-verify-heading = Wirklich zur Synchronisation anmelden?
 # The user was previously signed into sync. This dialog confirms to the user
 # that they will be merging the data from the previously signed in into the newly signed in one
