@@ -199,7 +199,7 @@ urlbar-result-menu-learn-more2 = Saber más
     .accesskey = S
 urlbar-result-menu-remove-from-history2 = Eliminar del historial
     .accesskey = E
-urlbar-result-menu-tip-get-help2 = Obtener ayudar
+urlbar-result-menu-tip-get-help2 = Obtener ayuda
     .accesskey = O
 urlbar-result-menu-dismiss-suggestion2 = Ignorar esta sugerencia
     .accesskey = D
@@ -212,7 +212,7 @@ urlbar-result-menu-manage-firefox-suggest2 = Administrar { -firefox-suggest-bran
 # administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location2 = Reportar ubicación inexacta
 urlbar-result-menu-show-less-frequently2 = Mostrar con menor frecuencia
-urlbar-result-menu-dont-show-weather-suggestions2 = No mostrar condiciones meterológicas
+urlbar-result-menu-dont-show-weather-suggestions2 = No mostrar condiciones meteorológicas
 urlbar-result-menu-learn-more =
     .label = Saber más
     .accesskey = S
@@ -220,7 +220,7 @@ urlbar-result-menu-remove-from-history =
     .label = Eliminar del historial
     .accesskey = E
 urlbar-result-menu-tip-get-help =
-    .label = Obtener ayudar
+    .label = Obtener ayuda
     .accesskey = O
 urlbar-result-menu-dismiss-suggestion =
     .label = Ignorar esta sugerencia
@@ -241,7 +241,7 @@ urlbar-result-menu-report-inaccurate-location =
 urlbar-result-menu-show-less-frequently =
     .label = Mostrar con menor frecuencia
 urlbar-result-menu-dont-show-weather-suggestions =
-    .label = No mostrar condiciones meterológicas
+    .label = No mostrar condiciones meteorológicas
 # Used for Split Button.
 urlbar-splitbutton-dropmarker =
     .title = Abrir menú
@@ -301,7 +301,7 @@ urlbar-autoplay-media-blocked =
 urlbar-canvas-blocked =
     .tooltiptext = Has bloqueado la extracción de datos de canvas para este sitio.
 urlbar-midi-blocked =
-    .tooltiptext = Haz bloqueado el acceso al MIDI para este sitio web.
+    .tooltiptext = Has bloqueado el acceso al MIDI para este sitio web.
 urlbar-serial-blocked =
     .tooltiptext = Se bloqueó el acceso a los puertos serie para este sitio web.
 urlbar-install-blocked =
@@ -589,7 +589,7 @@ identity-remove-cert-exception =
     .accesskey = E
 identity-description-insecure = Tu conexión a este sitio no es privada. La información que envíes podría ser vista por otros (contraseñas, mensajes, tarjetas de crédito, etc.).
 identity-description-insecure-login-forms = La información del inicio de sesión que ingreses en esta página no está segura y podría verse comprometida.
-identity-description-weak-cipher-intro = Tu conexión con este sitio web usa encriptación débil y no es privado.
+identity-description-weak-cipher-intro = Tu conexión con este sitio web usa encriptación débil y no es privada.
 identity-description-weak-cipher-risk = Otras personas pueden ver tu información o modificar el comportamiento del sitio web.
 identity-description-active-blocked2 = { -brand-short-name } bloqueó partes de esta página que no eran seguras.
 identity-description-passive-loaded = Tu conexión no es privada y la información que compartas con el sitio podría ser vista por otros.
@@ -627,7 +627,7 @@ browser-tab-audio-playing2 = REPRODUCIENDO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = SILENCIADO
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOREPRODUCCIÓN BLOQUEDA
+browser-tab-audio-blocked = AUTOREPRODUCCIÓN BLOQUEADA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
 
@@ -1055,7 +1055,7 @@ urlbar-result-dates-ends-today = { $name } · Termina hoy
 
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
-urlbar-result-search-with = Navegue con { $engine }
+urlbar-result-search-with = Buscar con { $engine }
 # Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
 #  $keywords (String): the restrict keyword to enter search mode.
 #  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
@@ -1652,10 +1652,10 @@ popup-warning-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 redirect-warning-with-popup-message =
     { $popupCount ->
-        [0] { -brand-short-name } has evitado que este sitio te redirigiera.
-        [1] { -brand-short-name } has evitado que este sitio abriera una ventana emergente y te redirigiera.
-        [one] { -brand-short-name } has evitado que este sitio abriera una ventana emergente y te redirigiera.
-       *[other] { -brand-short-name } has evitado que este sitio abra más de { $popupCount } ventanas emergentes y te redirigiera
+        [0] { -brand-short-name } ha evitado que este sitio te redirigiera.
+        [1] { -brand-short-name } ha evitado que este sitio abriera una ventana emergente y te redirigiera.
+        [one] { -brand-short-name } ha evitado que este sitio abriera una ventana emergente y te redirigiera.
+       *[other] { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes y te redirigiera
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
@@ -1665,8 +1665,8 @@ popup-warning-exceeded-message = { -brand-short-name } ha evitado que este sitio
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-with-redirect-message =
     { $popupCount ->
-        [one] { -brand-short-name } has evitado que este sitio abra más de { $popupCount } ventanas emergentes.
-       *[other] { -brand-short-name } has evitado que este sitio abra más de { $popupCount } ventanas emergentes.
+        [one] { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes.
+       *[other] { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes.
     }
 popup-warning-button =
     .label =

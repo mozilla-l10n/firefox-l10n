@@ -15,7 +15,7 @@ about-webrtc-save-page-dialog-title = guardar about:webrtc como
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
 about-webrtc-closed-peerconnection-disclosure-show-msg = Mostrar PeerConnections cerradas
-about-webrtc-closed-peerconnection-disclosure-hide-msg = Ocultar conexiones de pares cerradas
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Ocultar PeerConnections cerradas
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -71,7 +71,7 @@ about-webrtc-ice-state = Estado ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Estadísticas ICE
 about-webrtc-ice-restart-count-label = reinicia ICE:
-about-webrtc-ice-rollback-count-label = revisiones ICE:
+about-webrtc-ice-rollback-count-label = reversiones ICE:
 about-webrtc-ice-pair-bytes-sent = Bytes enviados:
 about-webrtc-ice-pair-bytes-received = Bytes recibidos:
 about-webrtc-ice-component-id = ID de componente
@@ -209,7 +209,7 @@ about-webrtc-user-modified-configuration-hide-msg = Ocultar configuración modif
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Ancho de banda estimado
 # The ID of the MediaStreamTrack
-about-webrtc-track-identifier = Identificador de rastreo
+about-webrtc-track-identifier = Identificador de pista
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Ancho de banda de envío (bytes/seg)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second

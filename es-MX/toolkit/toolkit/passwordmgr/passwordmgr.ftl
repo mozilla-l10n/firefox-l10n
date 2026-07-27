@@ -34,4 +34,4 @@ primary-password-prompt-message = Por favor, ingresa tu contraseña principal.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Sin nombre de usuario
 password-manager-confirm-password-change = Confirmar cambio de contraseña
-password-manager-select-username = Selecciona que inicio de sesión actualizar:
+password-manager-select-username = Selecciona qué inicio de sesión actualizar:

@@ -80,7 +80,7 @@ fxa-menu-send-to-mobile-sign-in = Inicia sesión para enviar pestañas
 
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Se ha alcanzado el límite de cuentas para este perfil
-sync-profile-different-account-header = Este perfil estuvo sincronizado anteriormente con un cuenta diferente
+sync-profile-different-account-header = Este perfil estuvo sincronizado anteriormente con una cuenta diferente
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 sync-profile-different-account-description = Para mantener los datos organizados y seguros, cada perfil de { -brand-product-name } solo se puede sincronizar con una cuenta. Para iniciar sesión usando { $acctEmail }, se debe crear un nuevo perfil.
@@ -103,7 +103,7 @@ sync-account-already-signed-in-header = Esta cuenta ha iniciado sesión en otro 
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $currentProfile (String): Name of the current profile signing in
 #   $otherProfile (String): Name of the profile that is already signed in
-sync-account-in-use-description-merge = { $acctEmail } inició sesión en el perfil “{ $otherProfile }” en este computadora. Sincronizar el perfil “{ $currentProfile }” combinará de forma permanente los datos de ambos perfiles, como contraseñas y marcadores.
+sync-account-in-use-description-merge = { $acctEmail } inició sesión en el perfil “{ $otherProfile }” en esta computadora. Sincronizar el perfil “{ $currentProfile }” combinará de forma permanente los datos de ambos perfiles, como contraseñas y marcadores.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Cambiar a “{ $profileName }”

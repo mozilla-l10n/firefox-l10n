@@ -10,7 +10,7 @@
 perftools-intro-title = Ajustes del perfilador
 perftools-intro-description =
     Las grabaciones abren profiler.firefox.com en una nueva pestaña. Todos los datos se almacenan 
-    localmente, pero puedes elegir por subirlos para compartir.
+    localmente, pero puedes elegir subirlos para compartir.
 
 ## All of the headings for the various sections.
 
@@ -30,7 +30,7 @@ perftools-description-intro =
     Las grabaciones abren <a>profiler.firefox.com</a> en una nueva pestaña. Todos los datos son almacenados
     localmente, pero puedes elegir si quieres subirlos para compartirlos.
 perftools-description-local-build =
-    Si estás perfilando una compilación que hiciste tu, en este
+    Si estás perfilando una compilación que hiciste tú, en este
     equipo, por favor añade el objdir de tu compilación a la lista a continuación para que
     pueda utilizarse para buscar información simbólica.
 perftools-pick-local-build-directory = Seleccionar el directorio de compilación
@@ -136,7 +136,7 @@ perftools-thread-jvm-glean =
 perftools-thread-jvm-arch-disk-io =
     .title = Despachador IO para la librería de rutinas de Kotlin
 perftools-thread-jvm-pool =
-    .title = Subprocesos creador en un conjunto de subprocesos sin nombre
+    .title = Subprocesos creados en un conjunto de subprocesos sin nombre
 
 ##
 

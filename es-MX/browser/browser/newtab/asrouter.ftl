@@ -62,7 +62,7 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza tus marcadores en todas partes.
-cfr-doorhanger-bookmark-fxa-body = ¡Gran hallazgo! Ahora no te quedes sin este marcador en tus dispositivos móviles. Coemienza con una { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = ¡Gran hallazgo! Ahora no te quedes sin este marcador en tus dispositivos móviles. Comienza con una { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = ¡Qué gran hallazgo! Ahora no te quedes sin este marcador en tus dispositivos móviles. Comienza con una cuenta.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizar marcadores ahora...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -74,7 +74,7 @@ fxa-adoption-credit-cards-backup-title = Respaldemos tus métodos de pago
 fxa-adoption-credit-cards-backup-subtitle = Protege tus métodos de pago sincronizándolos con sus dispositivos con encriptación.
 fxa-adoption-bookmarks-treatment-backup-title = Hagamos un respaldo de tus marcadores
 fxa-adoption-bookmarks-treatment-backup-subtitle = Protege tus marcadores sincronizándolos con tus dispositivos cifrados.
-fxa-adoption-primary-button-label = Registrate
+fxa-adoption-primary-button-label = Regístrate
 
 ## Protections panel
 
@@ -178,7 +178,7 @@ mr2022-background-update-toast-secondary-button-label = Recordarme después
 
 ## Firefox View CFR
 
-firefoxview-cfr-primarybutton = Intentalo
+firefoxview-cfr-primarybutton = Inténtalo
     .accesskey = I
 firefoxview-cfr-secondarybutton = Ahora no
     .accesskey = n
@@ -202,7 +202,7 @@ colorways-cfr-body = Colorea tu navegador con { -brand-short-name } tonos exclus
 colorways-cfr-header-28days = Las combinaciones de colores de Voces Independientes vencen el 16 de enero
 colorways-cfr-header-14days = Las combinaciones de colores de Voces Independientes caducan en dos semanas
 colorways-cfr-header-7days = Las combinaciones de colores de Voces Independientes expiran esta semana
-colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente expiran hoy
+colorways-cfr-header-today = Las combinaciones de colores de Voces Independientes expiran hoy
 
 ## Cookie Banner Handling CFR
 
@@ -330,7 +330,7 @@ welcome-back-embedded-import-title = Importa tus datos y haz que { -brand-short-
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Versiones antiguas de { -brand-short-name } pueden empezar a tener problemas el 14 de enero de 2025.</strong>
-root-certificate-succession-infobar-march-message = <strong>Actualiza para seguir usando { -brand-short-name } después del 14 de Marzo de 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Actualiza para seguir usando { -brand-short-name } después del 14 de marzo de 2025.</strong>
 root-certificate-succession-infobar-link = ¿Por qué necesito actualizar?
 root-certificate-succession-infobar-primary-button =
     .label = Actualiza ahora

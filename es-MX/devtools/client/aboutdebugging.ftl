@@ -71,7 +71,7 @@ about-debugging-sidebar-runtime-item-unplugged = Desconectado
 #   $displayName (string) - Displayed name
 #   $deviceName (string) - Name of the device
 about-debugging-sidebar-runtime-item-name =
-    .title = { $displayName }{ $deviceName }
+    .title = { $displayName } ({ $deviceName })
 # Title for runtime sidebar items where we cannot get device information (network
 # locations).
 # Variables:
@@ -189,7 +189,7 @@ about-debugging-runtime-processes =
     .name = Procesos
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button2 = Rendimiento del perfil
+about-debugging-runtime-profile-button2 = Perfilar el rendimiento
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible

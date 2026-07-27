@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-panic-button-open-new-window = Se abre una ventana nueva
+panic-button-open-new-window = Se abre una ventana nueva y limpia
 panic-button-undo-warning = Esta acción no podrá deshacerse.
 panic-button-forget-button =
     .label = ¡Olvida!
@@ -27,5 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = Al proceder:
 panic-button-delete-cookies = Se borran los <strong>Cookies</strong> recientes
-panic-button-delete-history = Se borran el <strong>Historial</strong> reciente
+panic-button-delete-history = Se borra el <strong>Historial</strong> reciente
 panic-button-delete-tabs-and-windows = Se cierran las <strong>Pestañas</strong> y <strong>Ventanas</strong>

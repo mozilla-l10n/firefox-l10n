@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Administrador de imágenes
+    .title = Excepciones
     .style = min-width: 45em
 permissions-close-key =
     .key = w
@@ -82,7 +82,7 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor válido
 permissions-exceptions-etp-window2 =
     .title = Excepciones a la protección antirrastreo mejorada
     .style = { permissions-window2.style }
-permissions-exceptions-manage-etp-desc = Puedes especificar que sitios tienen desactivada la protección de seguimiento mejorada. Escribe la dirección exacta del sitio que deseas administrar y luego haz clic en en Agregar excepción.
+permissions-exceptions-manage-etp-desc = Puedes especificar qué sitios tienen desactivada la protección de seguimiento mejorada. Escribe la dirección exacta del sitio que deseas administrar y luego haz clic en Agregar excepción.
 
 ## Exceptions - Cookies
 
@@ -163,7 +163,7 @@ permissions-site-notification-disable-desc = Esto prevendrá que cualquier sitio
 permissions-site-location-window2 =
     .title = Ajustes - Permisos de ubicación
     .style = { permissions-window2.style }
-permissions-site-location-desc = Los siguientes sitios web han solicitado acceso a tu ubicación. Puedes elegir específicamente que sitios tengan permitido acceder a tu ubicación. Puedes también bloquear nuevas solicitudes solicitando acceso a tu ubicación.
+permissions-site-location-desc = Los siguientes sitios web han solicitado acceso a tu ubicación. Puedes elegir específicamente qué sitios tengan permitido acceder a tu ubicación. Puedes también bloquear nuevas solicitudes solicitando acceso a tu ubicación.
 permissions-site-location-disable-label =
     .label = Bloquear nuevas solicitudes preguntando para acceder a tu ubicación
 permissions-site-location-disable-desc = Esto evitará que cualquier sitio web que no esté listado solicite permiso para acceder a tu ubicación. Bloqueando el acceso a tu ubicación pueden fallar algunas características de los sitios web.
@@ -183,7 +183,7 @@ permissions-site-xr-disable-desc = Este prevendrá que cualquier sitio web que n
 permissions-site-camera-window2 =
     .title = Ajustes - Permisos de cámara
     .style = { permissions-window2.style }
-permissions-site-camera-desc = Los siguientes sitios web han solicitado acceso a tu cámara. Puedes especificar que sitios web tiene permitido acceder a tu cámara. También puedes bloquear nuevas solicitudes solicitando acceder a tu cámara.
+permissions-site-camera-desc = Los siguientes sitios web han solicitado acceso a tu cámara. Puedes especificar qué sitios web tiene permitido acceder a tu cámara. También puedes bloquear nuevas solicitudes solicitando acceder a tu cámara.
 permissions-site-camera-disable-label =
     .label = Bloquear nuevas solicitudes solicitando acceder a tu cámara
 permissions-site-camera-disable-desc = Este evitará que cualquier sitio web no listado solicite permite para acceder a tu cámara. Bloqueando el acceso a tu cámara pueden fallar algunas características de los sitios web.
@@ -213,7 +213,7 @@ permissions-site-local-network-disable-desc = Esto evitará que cualquier sitio 
 permissions-site-microphone-window2 =
     .title = Ajustes - Permisos de micrófono
     .style = { permissions-window2.style }
-permissions-site-microphone-desc = Los siguientes sitios web han solicitado permiso para acceder a tu micrófono. Puedes especificar que sitios web tienen permitido acceder a tu micrófono. También puedes bloquear nuevas solicitudes solicitando acceso a tu micrófono.
+permissions-site-microphone-desc = Los siguientes sitios web han solicitado permiso para acceder a tu micrófono. Puedes especificar qué sitios web tienen permitido acceder a tu micrófono. También puedes bloquear nuevas solicitudes solicitando acceso a tu micrófono.
 permissions-site-microphone-disable-label =
     .label = Bloquear nuevas solicitudes para acceder a tu micrófono
 permissions-site-microphone-disable-desc = Esto evitará que cualquier sitio web no listado solicite permite para acceder a tu micrófono. Bloqueando el acceso a tu micrófono pueden fallar algunas características de los sitios web.

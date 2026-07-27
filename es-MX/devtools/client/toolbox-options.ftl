@@ -104,7 +104,7 @@ options-screenshot-audio-tooltip =
 options-sourceeditor-label = Preferencias de Editor
 options-sourceeditor-detectindentation-tooltip =
     .title = Adivina la sangría basada en contenido de la fuente
-options-sourceeditor-detectindentation-label = Sangrado detectado
+options-sourceeditor-detectindentation-label = Detectar sangría
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = Insertar automáticamente paréntesis cerrados
 options-sourceeditor-autoclosebrackets-label = Auto cerra paréntesis
@@ -176,7 +176,7 @@ options-enable-f12-label = Usa la tecla F12 para abrir o cerrar DevTools
 options-enable-f12-tooltip =
     .title = Activar esta opción vinculará la tecla F12 para abrir o cerrar la caja de herramientas DevTools
 # The label for checkbox that toggles custom formatters for objects
-options-enable-custom-formatters-label = Habilita formatos personalizados
+options-enable-custom-formatters-label = Habilita formateadores personalizados
 options-enable-custom-formatters-tooltip =
     .title = Activar esta opción permite que los sitios definan formateadores personalizados para objetos DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.

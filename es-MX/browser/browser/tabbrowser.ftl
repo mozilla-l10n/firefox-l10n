@@ -290,8 +290,8 @@ tab-context-move-tab-to-new-group =
     .label =
         { $tabCount ->
             [1] Agregar pestaña a un nuevo grupo
-            [one] Agregar `pestaña a un nuevo grupo
-           *[other] Agregar `pestañas a un nuevo grupo
+            [one] Agregar pestaña a un nuevo grupo
+           *[other] Agregar pestañas a un nuevo grupo
         }
     .accesskey = G
 tab-context-move-tab-to-group =

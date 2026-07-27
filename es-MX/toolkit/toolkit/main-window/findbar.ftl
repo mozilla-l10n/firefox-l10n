@@ -26,7 +26,7 @@ findbar-case-sensitive =
 findbar-match-diacritics =
     .label = Coincidir diacríticos
     .accesskey = o
-    .tooltiptext = Distingue entre letras con acentos y sus letras base (por ejemplo, al buscar por "como", "cómo" no coincidirá  y por lo tanto no aparecerá)
+    .tooltiptext = Distingue entre letras con acentos y sus letras base (por ejemplo, al buscar por "como", "cómo" no coincidirá y por lo tanto no aparecerá)
 findbar-entire-word =
     .label = Palabras completas
     .accesskey = P
@@ -43,7 +43,7 @@ findbar-fast-find-links =
 findbar-case-sensitive-status =
     .value = (Sensible a mayúsculas)
 findbar-match-diacritics-status =
-    .value = (Coincidencia de diacrícitos)
+    .value = (Coincidencia de diacríticos)
 findbar-entire-word-status =
     .value = (Solo palabras completas)
 # Variables:

@@ -157,14 +157,14 @@ addon-sitepermission-host = Permisos del sitio para { $host }
 ## These are global warnings
 
 extensions-warning-safe-mode = Todos los complementos han sido deshabilitados en modo seguro.
-extensions-warning-check-compatibility = Chequeo de compatibilidad para complementos esta deshabilitada. Tu puedes tener complementos incompatibles.
+extensions-warning-check-compatibility = Chequeo de compatibilidad para complementos está deshabilitado. Tu puedes tener complementos incompatibles.
 extensions-warning-safe-mode2 =
     .message = Todos los complementos han sido deshabilitados en modo seguro.
 extensions-warning-check-compatibility2 =
     .message = Chequeo de compatibilidad para complementos esta deshabilitada. Tu puedes tener complementos incompatibles.
 extensions-warning-check-compatibility-button = Habilitar
     .title = Habilitar chequeo de compatibilidad para complementos.
-extensions-warning-update-security = El chequeo de seguridad para actualización del complemento esta deshabilitada. Tu navegador puede estar en peligro por las actualizaciones.
+extensions-warning-update-security = El chequeo de seguridad para actualización del complemento está deshabilitado. Tu navegador puede estar en peligro por las actualizaciones.
 extensions-warning-update-security2 =
     .message = El chequeo de seguridad para actualización del complemento esta deshabilitada. Tu navegador puede estar en peligro por las actualizaciones.
 extensions-warning-update-security-button = Habilitar
@@ -277,10 +277,10 @@ discopane-intro =
     por { -brand-product-name }, para una seguridad, rendimiento
     y funcionalidad excepcionales.
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan complementos instaladas, preferencias de tu perfil y estadísticas de uso.
+discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan en los complementos instalados, preferencias de tu perfil y estadísticas de uso.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
-    .message = Algunas de estas recomendaciones son personalizadas. Se basan complementos instaladas, preferencias de tu perfil y estadísticas de uso.
+    .message = Algunas de estas recomendaciones son personalizadas. Se basan en los complementos instalados, preferencias de tu perfil y estadísticas de uso.
 discopane-notice-learn-more = Saber más
 # Notice for the colorway theme removal
 colorway-removal-notice-message =
@@ -577,7 +577,7 @@ plugins-gmp-privacy-info = Información de privacidad
 plugins-openh264-name = Codificador de video OpenH264 proporcionado por Cisco Systems, Inc.
 plugins-openh264-description = Este plugin ha sido instalado automáticamente por Mozilla para compilarse con la especificación WebRTC y para habilitar llamadas WebRTC con dispositivos que requieren el codec de video H.264. Visita http://www.openh264.org/ para ver el codec, la fuente del codec y cómo saber más acerca de la implementación.
 plugins-widevine-name = Módulo de desencriptación de contenido Widevine proveído por Google Inc.
-plugins-widevine-description = Este plugin habilita la reproducción multimedia encriptada, en conformidad con la especificación Encrypted Media Extensions. Multimedia encriptada es usada típicamente por sitios para proteger contra copias de contenido multimedia premium. Visita https://www.w3.org/TR/encrypted-media/ para más información sobre Escrypted Media Extensions.
+plugins-widevine-description = Este plugin habilita la reproducción multimedia encriptada, en conformidad con la especificación Encrypted Media Extensions. Multimedia encriptada es usada típicamente por sitios para proteger contra copias de contenido multimedia premium. Visita https://www.w3.org/TR/encrypted-media/ para más información sobre Encrypted Media Extensions.
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.

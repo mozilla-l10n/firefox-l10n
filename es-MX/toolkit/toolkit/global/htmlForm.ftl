@@ -14,7 +14,7 @@ input-file-and-more-files =
     }
 form-post-secure-to-insecure-warning-title = Aviso de seguridad
 form-post-secure-to-insecure-warning-message =
-    La información que introdujiste en esta página será enviada mediante una conexión insegura y podría ser leida por un tercero.
+    La información que introdujiste en esta página será enviada mediante una conexión insegura y podría ser leída por un tercero.
     
     ¿Estás seguro de querer enviar esta información?
 form-post-secure-to-insecure-warning-continue = Continuar

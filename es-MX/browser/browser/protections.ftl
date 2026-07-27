@@ -19,7 +19,7 @@ graph-total-tracker-summary =
        *[other] <b>{ $count }</b> rastreadores bloqueados desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name } sigue bloqueado rastreadores en ventanas privadas, pero no mantiene un registro de lo que se bloqueó.
+graph-private-window = { -brand-short-name } sigue bloqueando rastreadores en ventanas privadas, pero no mantiene un registro de lo que se bloqueó.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Rastreadores que { -brand-short-name } bloqueó esta semana
 protection-report-webpage-title = Panel de protecciones

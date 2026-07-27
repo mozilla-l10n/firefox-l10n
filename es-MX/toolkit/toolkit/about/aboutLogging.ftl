@@ -8,7 +8,7 @@ about-logging-page-title = Administrador de registros
 about-logging-current-log-file = Archivo de registro actual:
 about-logging-new-log-file = Nuevo archivo de registro:
 about-logging-currently-enabled-log-modules = Módulos de registro habilitados actualmente:
-about-logging-log-tutorial = Vea<a data-l10n-name="logging">Registro HTTP</a> para instrucciones sobre como usar esta herramienta.
+about-logging-log-tutorial = Vea <a data-l10n-name="logging">Registro HTTP</a> para instrucciones sobre como usar esta herramienta.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Abrir directorio
 about-logging-set-log-file = Establecer archivo de registro
@@ -49,7 +49,7 @@ about-logging-preset-media-playback-label = Reproducción multimedia
 about-logging-preset-media-playback-description = Módulos de registro para diagnosticar problemas de reproducción de medios (no problemas de videoconferencia)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Módulos de registro para diagnosticar llamadas WebRTC
-about-logging-preset-webcodecs-label = Códecs web
+about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Módulos de registro para diagnosticar problemas con los descodificadores y codificadores de audio/vídeo y los descodificadores de imágenes de WebCodecs.
 about-logging-preset-ml-label = Machine Learning
 about-logging-preset-ml-description = Módulos de registro para diagnosticar problemas de aprendizaje automático
@@ -74,7 +74,7 @@ about-logging-error = Error:
 about-logging-invalid-output = Valor inválido "{ $v }" para la clave "{ $k }"
 about-logging-unknown-logging-preset = Valor preestablecido de registro desconocido "{ $v }"
 about-logging-unknown-profiler-preset = Valor preestablecido de perfilador desconocido "{ $v }"
-about-logging-unknown-option = Opción de about:loggin desconocida “{ $k }“
+about-logging-unknown-option = Opción de about:logging desconocida “{ $k }“
 about-logging-configuration-url-ignored = URL de configuración ignorada
 about-logging-file-and-profiler-override = No se puede forzar la salida a un archivo y anular las opciones del perfilador al mismo tiempo
 # Variables:

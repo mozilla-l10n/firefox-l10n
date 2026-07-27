@@ -28,7 +28,7 @@ about-webauthn-text-connect-device = Conecte un token de seguridad.
 about-webauthn-text-select-device = Seleccione el token de seguridad que desee tocando el dispositivo.
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = No se pueden administrar las opciones porque su token de seguridad no es compatible con CTAP2.
-about-webauthn-text-not-available = No disponible en esta plataforma,
+about-webauthn-text-not-available = No disponible en esta plataforma.
 about-webauthn-bio-enrollment-list-subsection-title = Inscripciones:
 about-webauthn-add-bio-enrollment-section-title = Agregar nueva inscripción
 
@@ -90,7 +90,7 @@ about-webauthn-auth-option-plat = Dispositivo de plataforma
 about-webauthn-auth-option-pinuvauthtoken = Permisos de comando (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Sin permisos MakeCredential/GetAssertion con PIN de cliente
-about-webauthn-auth-option-largeblobs = Grandes manchas
+about-webauthn-auth-option-largeblobs = Blobs grandes
 about-webauthn-auth-option-ep = Certificación empresarial
 about-webauthn-auth-option-bioenroll = Inscripción biométrica
 # FIDO_2_1_PRE should not be translated.
@@ -161,7 +161,7 @@ about-webauthn-ctap2-enroll-feedback-good = La muestra fue buena.
 about-webauthn-ctap2-enroll-feedback-too-high = La muestra era demasiado alta.
 about-webauthn-ctap2-enroll-feedback-too-low = La muestra era demasiado baja.
 about-webauthn-ctap2-enroll-feedback-too-left = La muestra fue muy a la izquierda.
-about-webauthn-ctap2-enroll-feedback-too-right = La muestra fue muy a la derecha
+about-webauthn-ctap2-enroll-feedback-too-right = La muestra fue muy a la derecha.
 
 ##
 

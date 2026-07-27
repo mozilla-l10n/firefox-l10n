@@ -40,7 +40,7 @@ smart-window-model-fast =
     .label = Rápido: obtén respuestas rápidamente
     .description = Modelo { $model } de { $ownerName }
 smart-window-model-flexible =
-    .label = Flexible: ideal para la un uso general
+    .label = Flexible: ideal para un uso general
     .description = Modelo { $model } de { $ownerName }
 smart-window-model-personal =
     .label = Individualizado: respuestas adaptadas a necesidades específicas
@@ -78,13 +78,13 @@ ai-window-no-memories =
     .description = A medida que las { -smart-window-brand-name(form: "lower-plural") } aprenden de tu actividad, se crearán recuerdos en esta sección.
 ai-window-no-memories-learning-off =
     .label = No hay recuerdos disponibles
-    .description = El aprendizaje esta desactivado: las { -smart-window-brand-name(form: "lower-plural") } no están creando recuerdos.
+    .description = El aprendizaje está desactivado: las { -smart-window-brand-name(form: "lower-plural") } no están creando recuerdos.
 ai-window-delete-all-memories-button =
     .label = Eliminar todo
 ai-window-delete-all-memories-title = ¿Eliminar todos los recuerdos?
 # “Learn from…” refers to two different options in settings that start with "Learn from"
 # (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
-ai-window-delete-all-memories-message = Los recuerdos existentes será eliminados. Si no quieres que se creen nuevos recuerdos, desactiva las opciones de aprendizaje en los ajustes de { -smart-window-brand-name(form: "lower-singular") }.
+ai-window-delete-all-memories-message = Los recuerdos existentes serán eliminados. Si no quieres que se creen nuevos recuerdos, desactiva las opciones de aprendizaje en los ajustes de { -smart-window-brand-name(form: "lower-singular") }.
 ai-window-delete-all-memories-confirm = Eliminar
 ai-window-delete-all-memories-cancel = Cancelar
 # Variables:

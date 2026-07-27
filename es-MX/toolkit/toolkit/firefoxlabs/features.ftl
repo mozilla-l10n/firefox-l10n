@@ -6,7 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Medios: JPEG XL
-experimental-features-media-jxl-description = Con esta función activada, { -brand-short-name } admite el formato JPEG XL (JXL). Este es un formato de archivo de imagen mejorado que admite la transición sin perdida de archivos JPEG tradicionales. Consulta el <a data-l10n-name="bugzilla">bug 1539075</a> para obtener más detalles.
+experimental-features-media-jxl-description = Con esta función activada, { -brand-short-name } admite el formato JPEG XL (JXL). Este es un formato de archivo de imagen mejorado que admite la transición sin pérdida de archivos JPEG tradicionales. Consulta el <a data-l10n-name="bugzilla">bug 1539075</a> para obtener más detalles.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

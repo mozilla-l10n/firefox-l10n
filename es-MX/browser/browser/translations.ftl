@@ -118,7 +118,7 @@ translations-panel-to-label = Traducir al
 # Variables:
 #   $fromLanguage (string) - The original language of the document.
 #   $toLanguage (string) - The target language of the translation.
-translations-panel-revisit-header = Está página está traducida del { $fromLanguage } al { $toLanguage }
+translations-panel-revisit-header = Esta página está traducida del { $fromLanguage } al { $toLanguage }
 translations-panel-choose-language =
     .label = Selecciona un idioma
 translations-panel-restore-button =

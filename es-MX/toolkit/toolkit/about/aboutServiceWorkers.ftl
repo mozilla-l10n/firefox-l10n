@@ -22,7 +22,7 @@ origin-title = Origen: { $originTitle }
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>Alcance:</strong> { $name }
-script-spec = <strong>Script específico:</strong> <a data-l10n-name="link">{ $url }</a>
+script-spec = <strong>Especificación del script:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>URL del worker actual:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Nombre del caché activo:</strong> { $name }
 waiting-cache-name = <strong>Nombre del caché de espera:</strong> { $name }

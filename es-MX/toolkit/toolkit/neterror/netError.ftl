@@ -171,7 +171,7 @@ certerror-mitm-what-can-you-do-about-it-attack = Si no estás familiarizado con 
 certerror-mitm-what-can-you-do-about-it-attack-sts = Si no estás familiarizado con <b>{ $mitm }</b>, entonces esto puede ser un ataque y no hay nada que puedas hacer para acceder al sitio.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> tiene una política de seguridad llamada HTTP Strict transporte Security (HSTS), que significa que { -brand-short-name } solo puede conectarse a él con seguridad. No puedes agregar una excepción para visitar este sitio.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> tiene una política de seguridad llamada HTTP Strict Transport Security (HSTS), que significa que { -brand-short-name } solo puede conectarse a él con seguridad. No puedes agregar una excepción para visitar este sitio.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probablemente nada, ya que es posible que haya un problema con el sitio.
 certerror-blocked-by-corp-headers-description = A veces, los sitios web configuran protecciones para sí mismos y para personas como tú contra interacciones no deseadas con otros sitios.
 certerror-coop-learn-more = Obtén más información sobre las políticas de apertura de origen cruzado (COOP)
@@ -200,7 +200,7 @@ fp-neterror-http-error-intro = El servidor en <strong>{ $hostname }</strong> dev
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> envió un encabezado con caracteres vacíos no permitidos por los estándares de seguridad web.
-fp-neterror-content-encoding-intro = La página que intentas ver no puede mostrarse porque usa una forma de compresión no válida o admitida.
+fp-neterror-content-encoding-intro = La página que intentas ver no puede mostrarse porque usa una forma de compresión no válida o no admitida.
 fp-neterror-coop-coep-intro = { -brand-short-name } no cargó esta página porque parece que la configuración de seguridad no coincide con la página anterior.
 fp-neterror-blocked-by-policy-intro = Tu organización ha bloqueado el acceso a esta página o sitio web.
 fp-neterror-http-auth-disabled-intro = Alguien que se haga pasar por el sitio podría intentar robar cosas como tu nombre de usuario, contraseña o correo electrónico.

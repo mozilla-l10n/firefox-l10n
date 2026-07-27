@@ -212,7 +212,7 @@ mr2022-onboarding-existing-pin-header = Gracias por querer a { -brand-product-na
 mr2022-onboarding-existing-pin-subtitle = Inicia un Internet más saludable desde cualquier lugar con un solo clic. Nuestra última actualización está repleta de cosas nuevas que creemos que te encantarán.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
-mr2022-onboarding-existing-set-default-only-subtitle = Usa un navegador que defiende tu privacidad mientras navegas por la web. Nuestra última actualiza está repleta de cosas que te encantarán.
+mr2022-onboarding-existing-set-default-only-subtitle = Usa un navegador que defiende tu privacidad mientras navegas por la web. Nuestra última actualización está repleta de cosas que te encantarán.
 mr2022-onboarding-existing-pin-checkbox-label = Agrega también navegación privada de { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
@@ -247,7 +247,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar desde el
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = Selecciona el color que te inspire
-mr2022-onboarding-colorway-subtitle = Voces independientes puede cambiar la cultura.
+mr2022-onboarding-colorway-subtitle = Voces independientes pueden cambiar la cultura.
 mr2022-onboarding-colorway-primary-button-label-continue = Establecer y continuar
 mr2022-onboarding-existing-colorway-checkbox-label = Haz de { -firefox-home-brand-name } tu colorida página de inicio
 mr2022-onboarding-colorway-label-default = Predeterminado
@@ -307,7 +307,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar informac
 
 ## MR2022 Multistage Gratitude screen strings
 
-mr2022-onboarding-gratitude-title = Estas ayudándonos a crear un mejor internet
+mr2022-onboarding-gratitude-title = Estás ayudándonos a crear un mejor internet
 mr2022-onboarding-gratitude-subtitle = Gracias por usar { -brand-short-name }, respaldado por la fundación Mozilla. Con tu ayuda, trabajamos para crear un internet más abierto, accesible y mejor para todas y todos.
 mr2022-onboarding-gratitude-primary-button-label = Mira las novedades
 mr2022-onboarding-gratitude-secondary-button-label = Empieza a navegar
@@ -435,7 +435,7 @@ onboarding-horizontal-tabs-description =
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Prueba un chatbot de IA en la barra lateral
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
-onboarding-genai-sidebar-subtitle = Resume contenido web, genera ideas, redacta mensajes, todo mientras navegas. Elige entre varios proveedores y cámbialos en cualquier momento. <a data-l10n-name="learn-more">Saber más</a>.—
+onboarding-genai-sidebar-subtitle = Resume contenido web, genera ideas, redacta mensajes, todo mientras navegas. Elige entre varios proveedores y cámbialos en cualquier momento. <a data-l10n-name="learn-more">Saber más</a>.
 onboarding-genai-sidebar-primary-button = Elige un chatbot
 onboarding-genai-sidebar-secondary-button = Empieza a navegar
 

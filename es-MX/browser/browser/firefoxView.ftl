@@ -208,7 +208,7 @@ firefoxview-show-all-history = Mostrar todo el historial
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Vuelve a donde estabas
-firefoxview-history-empty-description = Mientras navegas. las páginas que visites serán listadas aquí.
+firefoxview-history-empty-description = Mientras navegas, las páginas que visites serán listadas aquí.
 firefoxview-history-empty-description-two = La protección de tu privacidad está en el corazón de lo que hacemos. Es por eso que puedes controlar la actividad que { -brand-short-name } recuerda, en tus <a data-l10n-name="history-settings-url">ajustes del historial</a>.
 
 ##

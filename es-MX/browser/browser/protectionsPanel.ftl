@@ -41,7 +41,7 @@ protections-panel-etp-toggle-on =
 protections-panel-etp-toggle-off =
     .label = Protección mejorada contra el rastreo
     .description = Desactivada para este sitio
-    .aria-label = Protección mejorada contra el rastreo: Desactiva para { $host }
+    .aria-label = Protección mejorada contra el rastreo: Desactivada para { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -111,7 +111,7 @@ protections-panel-site-not-working-view-send-report = Envía un reporte
 
 ##
 
-protections-panel-cross-site-tracking-cookies = Esas cookies te siguen de sitio en sitio para recolectar datos sobre lo que haces en línea. Ellos son creados por terceros, como anunciantes y empresas de análisis.
+protections-panel-cross-site-tracking-cookies = Esas cookies te siguen de sitio en sitio para recolectar datos sobre lo que haces en línea. Son creadas por terceros, como anunciantes y empresas de análisis.
 protections-panel-cryptominers = Los criptomineros utilizan la potencia informática de tu sistema para extraer dinero digital. Los scripts de criptominería agotan tu batería, ralentizan tu computadora y pueden aumentar tu factura de energía.
 protections-panel-fingerprinters = Las huellas digitales recopilan ajustes de tu navegador y computadora para crear un perfil tuyo. Con esta huella digital, pueden rastrearte a través de diferentes sitios web.
 protections-panel-tracking-content = Los sitios web pueden cargar anuncios externos, videos y otro tipo de contenido gracias a un código de rastreo. Si bloqueas el contenido de rastreo, los sitios se cargarán más rápido, pero puede que algunos botones y formularios dejen de funcionar.

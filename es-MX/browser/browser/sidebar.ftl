@@ -149,7 +149,7 @@ sidebar-menu-synced-tabs-label =
 # menu. "Open tabs" is a noun phrase referring to the tabs currently open
 # in the browser, not an instruction to open tabs.
 sidebar-menu-open-tabs-label =
-    .label = Abrir pestañas
+    .label = Pestañas abiertas
 sidebar-menu-bookmarks-label =
     .label = Marcadores
 sidebar-menu-customize-label =
@@ -183,7 +183,7 @@ sidebar-menu-close-bookmarks-tooltip = Cerrar marcadores ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
-sidebar-menu-open-ai-chatbot-tooltip-generic = Chatbot de IA abierta ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip-generic = Abrir el chatbot de IA ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Abrir { $provider } ({ $shortcut })
 sidebar-menu-close-ai-chatbot-tooltip-generic = Cerrar el chatbot de IA ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Cerrar { $provider } ({ $shortcut })

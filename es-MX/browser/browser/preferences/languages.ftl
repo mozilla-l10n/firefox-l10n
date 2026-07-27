@@ -7,7 +7,7 @@ webpage-languages-window2 =
     .style = min-width: 40em
 languages-close-key =
     .key = w
-languages-description = Las páginas web a veces están disponibles en más de un idioma. Elige los idiomas que se muestran en las páginas web en órden de preferencia
+languages-description = Las páginas web a veces están disponibles en más de un idioma. Elige los idiomas que se muestran en las páginas web en orden de preferencia
 languages-customize-spoof-english =
     .label = Solicitar versiones en inglés de páginas web para mayor privacidad
 languages-customize-moveup =
@@ -35,7 +35,7 @@ languages-customize-add =
 #   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
-    .label = { $locale }  [{ $code }]
+    .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
@@ -46,7 +46,7 @@ browser-languages-search = Buscar más idiomas…
 browser-languages-searching =
     .label = Buscando idiomas…
 browser-languages-downloading =
-    .label = Descargando...
+    .label = Descargando…
 browser-languages-select-language =
     .label = Selecciona un idioma para agregar…
     .placeholder = Selecciona un idioma para agregar…

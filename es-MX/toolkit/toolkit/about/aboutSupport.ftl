@@ -209,7 +209,7 @@ media-cdm-capabilities = Capacidades
 # Clear Lead isn't defined in the spec, which means the the first few seconds
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
-media-cdm-clear-lead = Limpiar registro
+media-cdm-clear-lead = Clear Lead
 # We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
 # HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
 media-hdcp-22-compatible = Compatible con HDCP 2.2
@@ -309,7 +309,7 @@ missing = Ausente
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descripción
-gpu-vendor-id = ID de vendedor
+gpu-vendor-id = ID de fabricante
 gpu-device-id = ID de dispositivo
 gpu-subsys-id = ID del subsistema
 gpu-drivers = Controladores
@@ -342,11 +342,11 @@ wmfvpxvideo-crash-guard = Decodificador de vídeo WMF VPX
 reset-on-next-restart = Restablecer en el próximo reinicio
 gpu-process-kill-button = Terminar proceso GPU
 gpu-device-reset = Restablecer dispositivo
-gpu-device-reset-button = Reinicio del dispositivo de disparo
+gpu-device-reset-button = Disparar reinicio del dispositivo
 uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (contenido)
 off-main-thread-paint-enabled = Fuera del hilo principal de pintura Habilitado
-off-main-thread-paint-worker-count = Recuento de dibujo fuera del tema principal
+off-main-thread-paint-worker-count = Recuento de dibujo fuera del hilo principal
 target-frame-rate = Frecuencia de imágenes objetivo
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión en uso
@@ -429,7 +429,7 @@ support-printing-prefs-value = Valor
 
 support-remote-settings-title = Ajustes remotos
 support-remote-settings-status = Estado
-support-remote-settings-status-ok = Aceptar
+support-remote-settings-status-ok = Correcto
 # Status when synchronization is not working.
 support-remote-settings-status-broken = No funciona
 support-remote-settings-last-check = Última revisión
