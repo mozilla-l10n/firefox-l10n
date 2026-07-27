@@ -475,10 +475,10 @@ tab-groups-onboarding-dismiss = OK
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Sag Hallo zu { -brand-product-name }-Profilen
-multi-profile-spotlight-body = Wechsle einfach zwischen dem Surfen zur Arbeit oder in der Freizeit. Profile halten deine Surf-Daten, einschließlich Suchchronik und Passwörtern, vollständig getrennt, damit du organisiert bleiben kannst.
+multi-profile-spotlight-body = Wechseln Sie einfach zwischen dem Surfen zur Arbeit oder zum Spaß. Profile halten Ihre Surf-Daten, einschließlich Suchchronik und Passwörter, vollständig getrennt, damit Sie organisiert bleiben können.
 multi-profile-spotlight-cta = Ein Profil erstellen
 multi-profile-callout-title = Erstelle unterschiedliche Profile für Arbeit und Freizeit
-multi-profile-callout-subtitle = Mit Profilen kannst du deine Surf-Daten, wie Suchchronik und Passwörter, komplett trennen.
+multi-profile-callout-subtitle = Mit Profilen können Sie Ihre Surf-Daten, wie Suchchronik und Passwörter, komplett trennen.
 multi-profile-callout-cta = Ein Profil erstellen
 
 ## Desktop to Mobile Adoption feature callout strings

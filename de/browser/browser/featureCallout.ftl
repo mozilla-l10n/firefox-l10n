@@ -236,20 +236,20 @@ sidebar-callout-survey-dissatisfied-2 = Unzufrieden
 sidebar-callout-survey-very-dissatisfied-2 = Sehr unzufrieden
 sidebar-callout-survey-dont-use-it = Ich verwende sie nicht
 sidebar-callout-survey-productive-question =
-    Inwieweit stimmst du folgender Aussage zu oder nicht zu:<br/>
+    Inwieweit stimmen Sie dieser Aussage zu oder nicht zu:<br/>
     „Die { -brand-short-name }-Sidebar hilft mir, produktiver zu sein“?
 sidebar-callout-survey-strongly-agree = Stimme voll zu
 sidebar-callout-survey-agree = Stimme zu
 sidebar-callout-survey-disagree = Stimme nicht zu
 sidebar-callout-survey-strongly-disagree = Stimme überhaupt nicht zu
-sidebar-callout-survey-features-question = Die folgenden Funktionen könnten der Sidebar hinzugefügt werden. Welche dieser Funktionen würde deine Produktivität in { -brand-short-name } am meisten verbessern?
+sidebar-callout-survey-features-question = Die folgenden Funktionen könnten der Sidebar hinzugefügt werden. Welche dieser Funktionen würden Ihre Produktivität in { -brand-short-name } am meisten verbessern?
 sidebar-callout-survey-split-view = Zwei beliebige Webseiten gleichzeitig anzeigen – in einer geteilten Ansicht nebeneinander
-sidebar-callout-survey-keep-website-open = Eine Webseite – wie E-Mail oder Kalender – in der Sidebar geöffnet halten, während du surfst
+sidebar-callout-survey-keep-website-open = Eine Webseite – wie E-Mail oder Kalender – in der Sidebar geöffnet halten, während Sie surfen
 sidebar-callout-survey-saved-websites-2 = Schneller Zugriff auf Ihre Lesezeichen
 sidebar-callout-survey-none-of-above = Keines der genannten
 sidebar-callout-survey-submit = Absenden
-sidebar-callout-survey-thank-you = Vielen Dank für dein Feedback!
-sidebar-genai-survey-satisfaction-question = Wie zufrieden bist du damit, Zugriff auf einen KI-Chatbot in der Sidebar zu haben?
+sidebar-callout-survey-thank-you = Vielen Dank für Ihr Feedback!
+sidebar-genai-survey-satisfaction-question = Wie zufrieden sind Sie mit dem Zugriff auf einen KI-Chatbot in der Sidebar?
 sidebar-genai-survey-productive-question =
     Inwieweit stimmen Sie dieser Aussage zu oder nicht:<br/>
     „Der KI-Chatbot in der Sidebar hilft mir, produktiver zu sein“?
