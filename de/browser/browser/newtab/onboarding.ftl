@@ -168,9 +168,9 @@ fx100-thank-you-pin-primary-button-label =
 fx100-upgrade-thanks-header = 100 Mal Danke
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
-fx100-upgrade-thank-you-body = Dies ist unsere 100. Version von { -brand-short-name }. <em>Danke</em>, dass du uns beim Aufbau eines besseren und gesünderen Internets hilfst.
+fx100-upgrade-thank-you-body = Dies ist unsere 100. Version von { -brand-short-name }. <em>Danke</em>, dass Sie uns beim Aufbau eines besseren und gesünderen Internets helfen.
 # Message shown with either a pin-to-taskbar or set-default button.
-fx100-upgrade-thanks-keep-body = Dies ist unsere 100. Version! Danke, dass du Teil unserer Gemeinschaft bist. Halte { -brand-short-name } nur einen Klick entfernt für die nächsten 100.
+fx100-upgrade-thanks-keep-body = Dies ist unsere 100. Version! Danke, dass Sie Teil unserer Gemeinschaft sind. Halten Sie { -brand-short-name } nur einen Klick entfernt für die nächsten 100.
 mr2022-onboarding-secondary-skip-button-label = Diesen Schritt überspringen
 
 ## MR2022 New User Easy Setup screen strings
@@ -258,27 +258,27 @@ mr2022-onboarding-colorway-description-default = <b>Meine aktuellen { -brand-sho
 mr2022-onboarding-colorway-label-playmaker = Spielmacher
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Spielmacher (rot)
-mr2022-onboarding-colorway-description-playmaker = <b>Du bist Spielmacher.</b> Du schaffst Gewinnmöglichkeiten und hilfst allen um dich herum, ihr Spiel zu verbessern.
+mr2022-onboarding-colorway-description-playmaker = <b>Sie sind Spielmacher.</b> Sie schaffen Gewinnmöglichkeiten und helfen allen um Sie herum, ihr Spiel zu verbessern.
 mr2022-onboarding-colorway-label-expressionist = Expressionist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressionist (gelb)
-mr2022-onboarding-colorway-description-expressionist = <b>Du bist Expressionist.</b> Du siehst die Welt anders, und deine Kreationen wecken die Emotionen anderer.
+mr2022-onboarding-colorway-description-expressionist = <b>Sie sind Expressionist.</b> Sie sehen die Welt anders, und Ihre Kreationen wecken die Emotionen anderer.
 mr2022-onboarding-colorway-label-visionary = Visionär
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionär (grün)
-mr2022-onboarding-colorway-description-visionary = <b>Du bist Visionär.</b> Du hinterfragst den Status quo und bewegst andere dazu, sich eine bessere Zukunft vorzustellen.
+mr2022-onboarding-colorway-description-visionary = <b>Sie sind ein Visionär.</b> Sie stellen den Status Quo in Frage und bewegen andere dazu, sich eine bessere Zukunft vorzustellen.
 mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (blau)
-mr2022-onboarding-colorway-description-activist = <b>Du bist Aktivist.</b> Du hinterlässt die Welt als einen besseren Ort, als du ihn vorgefunden hast, und lässt andere an deine Sache glauben.
+mr2022-onboarding-colorway-description-activist = <b>Sie sind ein Aktivist.</b> Sie hinterlassen die Welt als einen besseren Ort, als sie sie vorgefunden haben, und verleiten andere dazu, es zu glauben.
 mr2022-onboarding-colorway-label-dreamer = Träumer
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Träumer (lila)
-mr2022-onboarding-colorway-description-dreamer = <b>Du bist Träumer.</b> Du glaubst, dass das Glück den Mutigen hilft, und inspirierst andere dazu, tapfer zu sein.
+mr2022-onboarding-colorway-description-dreamer = <b>Sie sind ein Träumer.</b> Sie glauben, dass Glück die Mutigen bevorzugt und andere dazu inspiriert, mutig zu sein.
 mr2022-onboarding-colorway-label-innovator = Innovator
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovator (orange)
-mr2022-onboarding-colorway-description-innovator = <b>Du bist Innovator.</b> Du siehst überall Möglichkeiten und beeinflusst das Leben aller um dich herum.
+mr2022-onboarding-colorway-description-innovator = <b>Sie sind ein Erneuerer.</b> Sie sehen überall Möglichkeiten und haben einen Einfluss auf das Leben aller um Sie herum.
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -308,15 +308,15 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Detaillierte Inf
 
 ## MR2022 Multistage Gratitude screen strings
 
-mr2022-onboarding-gratitude-title = Du hilfst uns, ein besseres Web aufzubauen
-mr2022-onboarding-gratitude-subtitle = Vielen Dank, dass du { -brand-short-name } verwendest, unterstützt von der Mozilla Foundation. Mit deiner Unterstützung arbeiten wir daran, das Internet für alle offener, zugänglicher und besser zu machen.
+mr2022-onboarding-gratitude-title = Sie helfen uns, ein besseres Web aufzubauen
+mr2022-onboarding-gratitude-subtitle = Vielen Dank, dass Sie { -brand-short-name } verwenden, unterstützt von der Mozilla Foundation. Mit Ihrer Unterstützung arbeiten wir daran, das Internet für alle offener, zugänglicher und besser zu machen.
 mr2022-onboarding-gratitude-primary-button-label = Neue Funktionen und Änderungen anschauen
 mr2022-onboarding-gratitude-secondary-button-label = Lossurfen
 
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Fühl dich wie zu Hause
-onboarding-infrequent-import-subtitle = Egal, ob du hierbleibst oder nur vorbeischaust, denk daran, dass du deine Lesezeichen, Passwörter und mehr importieren kannst.
+onboarding-infrequent-import-subtitle = Egal, ob Sie hier bleiben oder nur vorbeischauen, denken Sie daran, dass Sie Ihre Lesezeichen, Passwörter und mehr importieren können.
 onboarding-infrequent-import-primary-button = In { -brand-short-name } importieren
 
 ## MR2022 Illustration alt tags
@@ -362,21 +362,21 @@ amo-picker-collection-link = Entdecken Sie weitere Add-ons
 onboarding-easy-setup-security-and-privacy-title = Wir schützen dich gerne
 onboarding-easy-setup-security-and-privacy-subtitle = Unser gemeinnütziger Browser verhindert, dass Unternehmen heimlich deine Aktivitäten im Internet verfolgen.
 # Mobile download screen
-onboarding-mobile-download-security-and-privacy-title = Verschlüssle deine Daten, wenn du geräteübergreifend arbeitest
-onboarding-mobile-download-security-and-privacy-subtitle = Wenn du deine Daten synchronisierst, verschlüsselt { -brand-short-name } deine Passwörter, Lesezeichen und mehr. Außerdem kannst du Tabs von deinen anderen Geräten holen.
+onboarding-mobile-download-security-and-privacy-title = Verschlüsseln Sie Ihre Daten, wenn Sie geräteübergreifend arbeiten
+onboarding-mobile-download-security-and-privacy-subtitle = Wenn Sie Ihre Daten synchronisieren, verschlüsselt { -brand-short-name } Ihre Passwörter, Lesezeichen und mehr. Außerdem können Sie Tabs von Ihren anderen Geräten holen.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } gibt dir Rückendeckung
-onboarding-gratitude-security-and-privacy-subtitle = Vielen Dank, dass du { -brand-short-name } verwendest, unterstützt von der Mozilla Foundation. Mit deiner Unterstützung arbeiten wir daran, das Internet für alle sicherer und zugänglicher zu machen.
+onboarding-gratitude-security-and-privacy-subtitle = Vielen Dank, dass Sie { -brand-short-name } verwenden, unterstützt von der Mozilla Foundation. Mit Ihrer Unterstützung arbeiten wir daran, das Internet für alle sicherer und zugänglicher zu machen.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Daten zwischen mehreren Geräten synchronisieren
-onboarding-sign-up-description = Erstelle ein Konto und alle deine wichtigen Daten – Passwörter, Lesezeichen und mehr – werden sicher gespeichert und verfügbar, wenn du dich auf einem beliebigen Gerät anmeldest.
+onboarding-sign-up-description = Erstellen Sie ein Konto und alle Ihre wichtigen Daten – Passwörter, Lesezeichen und mehr – werden sicher gespeichert und verfügbar, wenn Sie sich auf einem beliebigen Gerät anmelden.
 onboarding-sign-up-button = Anmelden oder registrieren
 onboarding-sign-up-secondary-button = Lossurfen
 
 ## New user time and familiarity survey strings
 
-onboarding-new-user-time-based-survey-title = Wie lange verwendest du { -brand-short-name } schon?
-onboarding-new-user-familiarity-based-survey-title = Wie vertraut bist du mit { -brand-short-name }?
+onboarding-new-user-time-based-survey-title = Wie lange verwenden Sie { -brand-short-name } schon?
+onboarding-new-user-familiarity-based-survey-title = Wie vertraut sind Sie mit { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Dein Feedback hilft, { -brand-short-name } noch besser zu machen.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Weiter
@@ -395,11 +395,11 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ich habe ihn in der Verg
 ## UI strings for the sidebar and vertical tabs
 
 # Setup screen for vertical tabs
-onboarding-new-tabs-title = Sag uns, wo du deine Tabs haben willst
+onboarding-new-tabs-title = Sagen Sie uns, wo Sie Ihre Tabs haben wollen
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
-onboarding-new-tabs-subtitle = Wechsle in den Sidebar-Einstellungen, wann immer du möchtest.
+onboarding-new-tabs-subtitle = Wechseln Sie in den Sidebar-Einstellungen, wann immer Sie möchten.
 # Setup screen for vertical tabs - too many tabs variation
-onboarding-many-tabs-title = Deine Tabs, wie du möchtest
+onboarding-many-tabs-title = Ihre Tabs, wie Sie möchten
 # Setup screen for vertical tabs - subtitle for too many tabs variation
 onboarding-many-tabs-subtitle = Viele Tabs offen lassen? Probiere die Tabs an der Seite für eine einfachere Ansicht aus. Oder bleibe klassisch mit Tabs oben. Jederzeit wechseln.
 # Setup screen for vertical tabs - focused variation
@@ -415,7 +415,7 @@ onboarding-existing-tabs-title = Vertikale Tabs sind hier
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Neu: vertikale Tabs
 # Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
-onboarding-existing-tabs-subtitle = Probiere seitliche Tabs aus. Wechsle in den Sidebar-Einstellungen, wann immer du möchtest.
+onboarding-existing-tabs-subtitle = Probieren Sie seitliche Tabs aus. Wechseln Sie in den Sidebar-Einstellungen, wann immer Sie möchten.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Vertikale Tabs ausprobieren
 onboarding-flair-text = Neu!
@@ -458,7 +458,7 @@ onboarding-checklist-remove-2 = Checkliste entfernen
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Probiere Tab-Gruppen für weniger Unordnung und mehr Fokus
-tab-groups-onboarding-feature-callout-subtitle = Schaffe Ordnung, indem du einen Tab über den anderen ziehst, um deine erste Gruppe zu erstellen.
+tab-groups-onboarding-feature-callout-subtitle = Schaffen Sie Ordnung, indem Sie einen Tab über den anderen ziehen, um Ihre erste Gruppe zu erstellen.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Ihre Tab-Gruppen finden Sie jederzeit im Menü "Alle Tabs auflisten".
 tab-groups-onboarding-create-group-title-2 = Finden Sie hier jederzeit Ihre Tab-Gruppen.
