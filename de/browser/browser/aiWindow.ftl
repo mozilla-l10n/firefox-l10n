@@ -214,6 +214,8 @@ aiwindow-history-menu-view-all-chats = Alle Chats ansehen
 ## Fullpage top actions
 ## Labeled buttons shown at the top of the fullpage Smart Window.
 
+aiwindow-fullpage-new-chat =
+    .label = Neuer Chat
 # "More" is the label for a button that opens a menu of additional Smart Window
 # options (currently Smart Window settings) — i.e. "more actions/options", not
 # more content or more chat history.

@@ -42,6 +42,7 @@ firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } für Mob
 firefoxview-syncedtabs-adddevice-header-2 = Holen Sie sich Tabs von überall
 firefoxview-syncedtabs-adddevice-description-2 = Melden Sie sich bei { -brand-product-name } auf Ihrem Handy oder einem anderen Computer an, um hier Tabs anzuzeigen. Erfahren Sie, wie Sie <a data-l10n-name="url">weitere Geräte verbinden</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } für Mobilgeräte ausprobieren
+firefoxview-syncedtabs-adddevice-description-3 = Scannen Sie den QR-Code, um sich { -brand-product-name } für Mobilgeräte zu holen und Ihre offenen Tabs und mehr zu synchronisieren. Erfahren Sie, wie Sie <a data-l10n-name="url">weitere Geräte verbinden</a>.
 firefoxview-tabpickup-synctabs-header = Tab-Synchronisation aktivieren
 firefoxview-tabpickup-synctabs-description = Erlauben Sie { -brand-short-name }, Tabs zwischen Geräten zu teilen.
 firefoxview-tabpickup-synctabs-learn-how = Erfahren Sie, wie es geht
@@ -226,6 +227,9 @@ firefoxview-show-all-history = Gesamte Chronik anzeigen
 firefoxview-history-empty-header = Kommen Sie zurück dorthin, wo Sie schon waren
 firefoxview-history-empty-description = Während Sie surfen, werden die von Ihnen besuchten Seiten hier aufgelistet.
 firefoxview-history-empty-description-two = Der Schutz Ihrer Privatsphäre ist das Herzstück dessen, was wir tun. Deshalb können Sie die Aktivitäten, die { -brand-short-name } sich merkt, in Ihren <a data-l10n-name="history-settings-url">Chronik-Einstellungen</a> anpassen.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Ihre Surf-Spur beginnt hier
 firefoxview-history-empty-description-2 = Wenn Sie Seiten besuchen, wird Ihre Chronik hier angezeigt. Kontrollieren Sie, was in den <a data-l10n-name="history-settings-url">Einstellungen</a> gespeichert wird.
 
 ##
