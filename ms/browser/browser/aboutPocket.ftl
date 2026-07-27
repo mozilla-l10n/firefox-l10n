@@ -54,6 +54,7 @@ pocket-panel-home-paragraph = Anda boleh menggunakan { -pocket-brand-name } untu
 pocket-panel-home-explore-popular-topics = Terokai Topik Popular
 pocket-panel-home-discover-more = Terokai lagi
 pocket-panel-home-explore-more = Teroka
+pocket-panel-home-most-recent-saves = Berikut ialah simpanan terbaharu anda:
 pocket-panel-home-most-recent-saves-loading = Memuatkan simpanan terbaharu...
 pocket-panel-home-new-user-cta = Klik butang { -pocket-brand-name } untuk menyimpan artikel, video dan pautan.
 pocket-panel-home-new-user-message = Lihat simpanan terbaharu anda di sini.

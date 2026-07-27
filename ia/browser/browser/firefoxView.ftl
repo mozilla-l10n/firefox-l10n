@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Pro transferer le schedas de tu 
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = Tu { -brand-product-name } sur tote tu apparatos
 firefoxview-syncedtabs-signin-description-2 = Pro vider le schedas que tu ha aperite sur tu telephono e altere apparatos, accede o inscribe te al un conto. Con un conto, tu alsi pote synchronisar tu contrasignos, chronologia, e altero.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = De portabile a telephono, perfectemente
+firefoxview-syncedtabs-signin-description-3 = Mantene tu navigation connexe a transverso apparatos, schedas, contrasignos, e chronologia, toto in synchronia.
 firefoxview-syncedtabs-signin-primarybutton-2 = Aperir session
 firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
 firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparatos mobile e aperi session illac.
@@ -40,6 +43,9 @@ firefoxview-tabpickup-adddevice-primarybutton = Installa { -brand-product-name }
 firefoxview-syncedtabs-adddevice-header-2 = Recupera tu schedas ab ubique
 firefoxview-syncedtabs-adddevice-description-2 = Accede a { -brand-product-name } sur tu telephono o un altere computator pro vider le schedas ci. Apprende a <a data-l10n-name="url">connecter altere apparatos</a>
 firefoxview-syncedtabs-adddevice-primarybutton = Discoperi { -brand-product-name } pro mobile
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Tu schedas appellate. Illos es sur tu telephono.
+firefoxview-syncedtabs-adddevice-description-3 = Scande le codice QR pro obtener { -brand-product-name } pro apparato mobile, initia a synchronisar tu schedas aperte e plus. Apprende a <a data-l10n-name="url">connecter altere apparatos</a>.
 firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
 firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de compartir schedas inter apparatos.
 firefoxview-tabpickup-synctabs-learn-how = Apprender como
@@ -47,16 +53,25 @@ firefoxview-tabpickup-synctabs-primarybutton = Synchronisar le schedas aperte
 firefoxview-tabpickup-synctabs-primarybutton-2 = Activar synchronisation schedas
 firefoxview-syncedtabs-synctabs-header = Actualisa tu parametros de synchronisation
 firefoxview-syncedtabs-synctabs-description = Pro vider schedas ab un altere apparato tu debe synchronisar le schedas aperte.
+firefoxview-syncedtabs-synctabs-header-2 = Le synchronisation del schedas es disactivate
+firefoxview-syncedtabs-synctabs-description-2 = Reactivar pro colliger tote tu schedas de altere apparatos.
 firefoxview-syncedtabs-loading-header = Synchronisation in curso
 firefoxview-syncedtabs-loading-description = Quando illo es facite, tu videra ulle schedas que tu ha aperite sur altere apparatos.
+firefoxview-syncedtabs-loading-header-2 = Recuperation de tu schedas…
+firefoxview-syncedtabs-loading-description-2 = Synchronisation in curso.  Le schedas sera ci tosto.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organisation ha disactivate le synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non pote synchronisar schedas inter apparatos perque tu administrator ha disactivate le synchronisation.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } non pote synchronisar schedas inter apparatos perque tu organisation ha disactivate le synchronisation.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Le synchronisation del schedas es disactivate
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Tu organisation blocava iste function.
 firefoxview-tabpickup-network-offline-header = Controla tu connexion a internet
 firefoxview-tabpickup-network-offline-description = Si tu usa un firewall o proxy, verifica que { -brand-short-name } ha permission pro acceder al web.
 firefoxview-tabpickup-network-offline-primarybutton = Retenta
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } non pote connecter se a iste momento
+firefoxview-tabpickup-network-offline-description-2 = Tu poterea esser sin connexion, o alco pote blocar.
 firefoxview-tabpickup-sync-error-header = Nos ha difficultates pro le synchronisation
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } non pote attinger le servicio de synchronisation al momento. Retenta post alcun momentos.
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } non poteva connecter se. Da illo un momento, pois retenta
 firefoxview-tabpickup-sync-error-primarybutton = Retenta
 firefoxview-tabpickup-sync-disconnected-header = Activa le synchronisation pro continuar
 firefoxview-tabpickup-sync-disconnected-description = Pro colliger tu schedas, tu debera permitter le synchronisation in { -brand-short-name }.
@@ -66,6 +81,7 @@ firefoxview-tabpickup-password-locked-description = Pro colliger tu schedas, tu 
 firefoxview-tabpickup-password-locked-link = Pro saper plus
 firefoxview-tabpickup-password-locked-primarybutton = Insere le contrasigno primari
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Pro saper plus</a>
+firefoxview-tabpickup-password-locked-header-2 = Disbloca schedas con tu contrasigno primari
 firefoxview-tabpickup-signed-out-header = Accede pro reconnecter te
 firefoxview-tabpickup-signed-out-description = Pro reconnecter te e recuperar tu schedas, accede a tu { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Pro reconnecter te e recuperar tu schedas, accede a tu conto.
