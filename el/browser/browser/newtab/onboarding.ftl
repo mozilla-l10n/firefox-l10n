@@ -637,4 +637,5 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Εάν αλλάξετ�
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Επιλέξτε ένα θέμα
+onboarding-theme-picker-subtitle = Δώστε λίγο περισσότερο χρώμα στο { -brand-short-name }.
 onboarding-theme-picker-button-label = Αποθήκευση και συνέχεια

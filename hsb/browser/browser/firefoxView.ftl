@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = Zo byšće tu rajtarki swojeho �
 firefoxview-tabpickup-step-signin-primarybutton = Dale
 firefoxview-syncedtabs-signin-header-2 = Waš { -brand-product-name } na wšěch wašich gratach
 firefoxview-syncedtabs-signin-description-2 = Zo byšće swoje wočinjene rajtarki na swojim telefonje a druhich gratach widźał, přizjewće so abo registrujće so za konto. Z kontom móžeće tež swoje hesła, swoju historiju a wjace synchronizować.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Direktnje z laptopa do telefona
 firefoxview-syncedtabs-signin-primarybutton-2 = Přizjewić
 firefoxview-tabpickup-adddevice-header = Synchronizujće { -brand-product-name } na swojim telefonje abo tableće
 firefoxview-tabpickup-adddevice-description = Sćehńće { -brand-product-name } za mobilne graty a přizjewće so tam.
@@ -40,6 +42,8 @@ firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobil
 firefoxview-syncedtabs-adddevice-header-2 = Wobstarajće sej rajtarki wot wšudźe
 firefoxview-syncedtabs-adddevice-description-2 = Přizjewće pola { -brand-product-name } na swojim telefonje abo druhim ličaku, zo byšće rajtarki tu widźał. Zhońće, kak móžeće <a data-l10n-name="url">přidatne graty zwjazać</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wupruwujće { -brand-product-name } za mobilny grat
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Waše rajtarki su so wotwołali. Su na wašim telefonje.
 firefoxview-syncedtabs-adddevice-description-3 = Skenujće QR-kod, zo byšće { -brand-product-name } za swój mobilny telefon dóstał a synchronizujće swoje wočinjene rajtarki a wjace. Zhońće, kak móžeće <a data-l10n-name="url">přidatne graty zwjazać</a>.
 firefoxview-tabpickup-synctabs-header = Synchronizaciju rajtarkow zmóžnić
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowolić, rajtarki mjez gratami dźělić.
@@ -48,18 +52,25 @@ firefoxview-tabpickup-synctabs-primarybutton = Wočinjene rajtarki synchronizowa
 firefoxview-tabpickup-synctabs-primarybutton-2 = Synchronizaciju rajtarkow zmóžnić
 firefoxview-syncedtabs-synctabs-header = Aktualizujće swoje synchronizaciske nastajenja
 firefoxview-syncedtabs-synctabs-description = Zo byšće rajtarki z druhich gratow widźał, dyrbiće swoje wočinjene rajtarki synchronizować.
+firefoxview-syncedtabs-synctabs-header-2 = Synchronizacija rajtarkow je znjemóžnjena
 firefoxview-syncedtabs-loading-header = Synchronizuje so
 firefoxview-syncedtabs-loading-description = Hdyž to je dokónčene, budźeće rajtarki widźeć, kotrež su na druhich gratach wočinjene. Hladajće bórze za tym.
 firefoxview-syncedtabs-loading-header-2 = Waše rajtarki so wobstaruja…
+firefoxview-syncedtabs-loading-description-2 = Synchronizacija běži. Rajtarki budu bórze tu.
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija je synchronizaciju znjemóžniła
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waš administrator je synchronizowanje znjemóžnił.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waša organizacija je synchronizowanje znjemóžniła.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Synchronizacija rajtarkow je znjemóžnjena
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Waša organizacija je tutu funkciju zablokowała.
 firefoxview-tabpickup-network-offline-header = Přepruwujće swój internetny zwisk
 firefoxview-tabpickup-network-offline-description = Jeli wohnjowu murju abo proksy wužiwaće, přepruwujće, hač { -brand-short-name } ma prawo na přistup k internetej.
 firefoxview-tabpickup-network-offline-primarybutton = Hišće raz spytać
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } tuchwilu njemóže zwjazać
+firefoxview-tabpickup-network-offline-description-2 = Sće snano offline abo něšto zwisk blokuje.
 firefoxview-tabpickup-sync-error-header = Mamy problemy ze synchronizaciju
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } njemóže tuchwilu synchronizowansku słužbu docpěć. Spytajće za někotre wokomiki hišće raz.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Synchronizacija je na problem storčiła
 firefoxview-tabpickup-sync-error-primarybutton = Hišće raz spytać
 firefoxview-tabpickup-sync-disconnected-header = Zmóžńće synchronizaciju, zo byšće pokročował
 firefoxview-tabpickup-sync-disconnected-description = Za přistup k swojim rajtarkam dyrbiće synchronizaciju w { -brand-short-name } dowolić.

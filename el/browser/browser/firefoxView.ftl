@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Για να φέρετε τις 
 firefoxview-tabpickup-step-signin-primarybutton = Συνέχεια
 firefoxview-syncedtabs-signin-header-2 = Το { -brand-product-name } σε όλες τις συσκευές σας
 firefoxview-syncedtabs-signin-description-2 = Για να δείτε τις ανοικτές σας καρτέλες στο τηλέφωνο και σε άλλες συσκευές σας, συνδεθείτε ή δημιουργήστε έναν λογαριασμό. Με έναν λογαριασμό, μπορείτε να συγχρονίσετε τους κωδικούς πρόσβασης, το ιστορικό σας και πολλά άλλα.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Από τον φορητό υπολογιστή στο τηλέφωνο, απρόσκοπτα
+firefoxview-syncedtabs-signin-description-3 = Διατηρήστε την περιήγησή σας συνδεδεμένη με όλες τις συσκευές σας — καρτέλες, κωδικοί πρόσβασης και ιστορικό, όλα σε συγχρονισμό.
 firefoxview-syncedtabs-signin-primarybutton-2 = Σύνδεση
 firefoxview-tabpickup-adddevice-header = Συγχρονισμός του { -brand-product-name } στις κινητές σας συσκευές
 firefoxview-tabpickup-adddevice-description = Κάντε λήψη του { -brand-product-name } για κινητές συσκευές και συνδεθείτε εκεί.
@@ -40,6 +43,9 @@ firefoxview-tabpickup-adddevice-primarybutton = Απόκτηση του { -brand
 firefoxview-syncedtabs-adddevice-header-2 = Λάβετε καρτέλες από οπουδήποτε
 firefoxview-syncedtabs-adddevice-description-2 = Συνδεθείτε στο { -brand-product-name } από το τηλέφωνό σας ή από κάποιο άλλο υπολογιστή για να δείτε τις καρτέλες. Μάθετε πώς να <a data-l10n-name="url">συνδέσετε επιπλέον συσκευές</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Δοκιμάστε το { -brand-product-name } για κινητές συσκευές
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Έχετε κλήση από τις καρτέλες σας. Είναι στο τηλέφωνό σας.
+firefoxview-syncedtabs-adddevice-description-3 = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-product-name } για κινητές συσκευές και να ξεκινήσετε τον συγχρονισμό των ανοικτών καρτελών και άλλων δεδομένων σας. Μάθετε πώς να <a data-l10n-name="url">συνδέσετε επιπλέον συσκευές</a>.
 firefoxview-tabpickup-synctabs-header = Ενεργοποίηση συγχρονισμού καρτελών
 firefoxview-tabpickup-synctabs-description = Επιτρέψτε στο { -brand-short-name } να κάνει κοινή χρήση καρτελών μεταξύ συσκευών.
 firefoxview-tabpickup-synctabs-learn-how = Μάθετε πώς
@@ -48,8 +54,11 @@ firefoxview-tabpickup-synctabs-primarybutton-2 = Ενεργοποίηση συγ
 firefoxview-syncedtabs-synctabs-header = Ενημερώστε τις ρυθμίσεις συγχρονισμού σας
 firefoxview-syncedtabs-synctabs-description = Για να δείτε καρτέλες από άλλες συσκευές, πρέπει να συγχρονίσετε τις ανοικτές καρτέλες σας.
 firefoxview-syncedtabs-synctabs-header-2 = Ο συγχρονισμός καρτελών είναι ανενεργός
+firefoxview-syncedtabs-synctabs-description-2 = Ενεργοποιήστε ξανά τον συγχρονισμό για να λάβετε όλες τις καρτέλες σας από άλλες συσκευές.
 firefoxview-syncedtabs-loading-header = Συγχρονισμός σε εξέλιξη
 firefoxview-syncedtabs-loading-description = Μόλις ολοκληρωθεί, θα δείτε όλες τις ανοικτές καρτέλες από άλλες συσκευές. Επιστρέψτε σε λίγο.
+firefoxview-syncedtabs-loading-header-2 = Λήψη των καρτελών σας…
+firefoxview-syncedtabs-loading-description-2 = Ο συγχρονισμός είναι σε εξέλιξη. Οι καρτέλες σας θα εμφανιστούν εδώ σύντομα.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
 firefoxview-tabpickup-fxa-admin-disabled-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο διαχειριστής σας έχει απενεργοποιήσει τον συγχρονισμό.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό.
@@ -58,6 +67,7 @@ firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ο οργανισμ
 firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
 firefoxview-tabpickup-network-offline-description = Εάν χρησιμοποιείτε τείχος προστασίας ή διακομιστή μεσολάβησης, ελέγξτε ότι το { -brand-short-name } έχει άδεια πρόσβασης στο διαδίκτυο.
 firefoxview-tabpickup-network-offline-primarybutton = Δοκιμή ξανά
+firefoxview-tabpickup-network-offline-header-2 = Το { -brand-short-name } δεν μπορεί να συνδεθεί αυτήν τη στιγμή
 firefoxview-tabpickup-sync-error-header = Υπάρχει πρόβλημα με τον συγχρονισμό
 firefoxview-tabpickup-generic-sync-error-description = Το { -brand-short-name } δεν μπορεί να επικοινωνήσει με την υπηρεσία συγχρονισμού αυτήν τη στιγμή. Δοκιμάστε ξανά σε λίγα λεπτά.
 firefoxview-tabpickup-sync-error-primarybutton = Δοκιμή ξανά
