@@ -37,6 +37,9 @@ url-classifier-cache-prefix = წინსართი
 url-classifier-cache-ncache-expiry = უარყოფითი დროებითი ჩანაწერების ვადა
 url-classifier-cache-fullhash = სრული ჰეში
 url-classifier-cache-pcache-expiry = დადებითი დროებითი ჩანაწერების ვადა
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = URL
 url-classifier-debug-title = გამართვა
 url-classifier-debug-module-btn = აღრიცხვის მოდულების მითითება
 url-classifier-debug-file-btn = აღრიცხვის ფაილის მითითება
