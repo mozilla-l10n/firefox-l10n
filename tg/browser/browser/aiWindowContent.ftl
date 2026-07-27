@@ -61,6 +61,7 @@ smartwindow-nl-undo-button =
 
 smart-window-closed-tabs-row-label = Варақаҳои пӯшидашуда
 smart-window-closed-and-restored-label = Варақаҳои пӯшидашуда ва барқароршуда
+smart-window-cancelled-label = Дархост бекор карда шуд.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Гурӯҳ
 
