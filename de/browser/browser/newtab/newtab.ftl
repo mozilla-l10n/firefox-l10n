@@ -180,8 +180,8 @@ newtab-privacy-menu-learn-more = Weitere Informationen
 #   $count (number) - Number of trackers blocked today
 newtab-privacy-trackers-blocked-today =
     { $count ->
-        [one] heute geblockierter Tracker
-       *[other] heute geblockierte Tracker
+        [one] heute blockierter Tracker
+       *[other] heute blockierte Tracker
     }
 # Second line of the readout, under the large number and "Trackers blocked
 # today". Counts the sites those trackers were blocked on. The English is
@@ -1431,7 +1431,7 @@ newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-
 newtab-sports-widget-match-full-time = Spielende
 newtab-sports-widget-match-halftime = Halbzeit
 newtab-sports-widget-match-extra-time = Verlängerung
-newtab-sports-widget-match-penalties = Elfmeterschließen
+newtab-sports-widget-match-penalties = Elfmeterschießen
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
 newtab-sports-widget-match-vs = :

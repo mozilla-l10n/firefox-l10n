@@ -411,7 +411,7 @@ windows-10-eos-sync-spotlight-primary-label = Erstellen Sie ein Backup von Ihrem
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Upgrade auf Windows 11? Verlieren Sie keine Lesezeichen und Passwörter.
-windows-10-eos-sync-toast-subtitle = Sicheren Sie Ihre Daten, damit { -brand-short-name } jederzeit einsatzbereit ist – auf diesem PC und auf dem nächsten.
+windows-10-eos-sync-toast-subtitle = Sichern Sie Ihre Daten, damit { -brand-short-name } jederzeit einsatzbereit ist – auf diesem PC und auf dem nächsten.
 windows-10-eos-sync-toast-primary-label = Erste Schritte
 windows-10-eos-sync-toast-secondary-label = Später erinnern
 
