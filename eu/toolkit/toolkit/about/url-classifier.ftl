@@ -46,6 +46,15 @@ url-classifier-content-classifier-destination-type = Helburu mota
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Emaitzak
 url-classifier-content-classifier-pbm = Nabigatze pribatua
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Salbuespena
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Garrantzitsua
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = Salbuespena
 url-classifier-debug-title = Araztu
 url-classifier-debug-module-btn = Ezarri erregistro-moduluak
 url-classifier-debug-file-btn = Ezarri erregistro-fitxategia

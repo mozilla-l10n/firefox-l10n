@@ -19,6 +19,59 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Balidatuta
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Isolamendu gakoa
+about-networking-ssl-tokens = TLS tokenak
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] Token { $count }
+       *[other] { $count } token
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } iraungita)
+       *[other] ({ $count } iraungita)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B (%{ $saved } aurreztuta)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB (%{ $percent })
+about-networking-ssl-tokens-partition-key = Partizio-gakoa
+about-networking-ssl-tokens-tokens-column = Tokenak
+about-networking-ssl-tokens-expires = Iraungitze-data
+about-networking-ssl-tokens-certificate = Ziurtagiria
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] Token { $count }
+       *[other] { $count } token
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Biltegiratzetik berrezarrita
+    .title = Biltegiratzetik berrezarrita
+about-networking-ssl-tokens-new =
+    .alt = Berria saio honetan
+    .title = Berria saio honetan
+about-networking-ssl-tokens-expired =
+    .alt = Iraungita
+    .title = Iraungita
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokenak: { $tokenLength } B. Kodetuta: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV ziurtagiria
+about-networking-ssl-tokens-ct-status = Ziurtagiriaren gardentasun-egoera
+about-networking-ssl-tokens-overridable-error = Baliogabetu daitekeen errore-kategoria
+about-networking-ssl-tokens-built-in-root = Integratutako erroa
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Ziurtagiri-katea ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Diosalaren ziurtagiriak ({ $count })
 about-networking-refresh = Berritu
 about-networking-auto-refresh = Berritu automatikoki 3 segundoro
 about-networking-hostname = Ostalari-izena

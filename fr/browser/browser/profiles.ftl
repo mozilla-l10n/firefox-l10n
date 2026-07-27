@@ -226,7 +226,7 @@ sparkle-single-avatar-alt =
 star-avatar-alt =
     .alt = Étoile
 video-game-controller-avatar-alt =
-    .alt = Manette de jeux vidéo
+    .alt = Manette de jeu vidéo
 custom-avatar-alt =
     .alt = Avatar personnalisé
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
@@ -273,7 +273,7 @@ shopping-avatar = Chariot
 soccer-ball-avatar = Ballon de foot
 sparkle-single-avatar = Étincelle
 star-avatar = Étoile
-video-game-controller-avatar = Manette de jeux vidéo
+video-game-controller-avatar = Manette de jeu vidéo
 custom-avatar-crop-back-button =
     .aria-label = Retour
 custom-avatar-crop-view =

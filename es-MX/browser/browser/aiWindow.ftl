@@ -74,7 +74,7 @@ smartbar-placeholder-hint-4 = Busca en la web…
 
 ## Mentions
 
-smartbar-mention-typing-placeholder = Etiquetar una pestaña o sitio
+smartbar-mention-typing-placeholder = Menciona una pestaña o sitio
 smartbar-mentions-list-no-results-label = No se encontraron resultados
 smartbar-mentions-list-recent-tabs-label = Pestañas recientes
 
@@ -86,7 +86,7 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
-aiwindow-website-chip-placeholder = Etiquetar una pestaña o sitio
+aiwindow-website-chip-placeholder = Mencionar una pestaña o sitio
 aiwindow-website-chip-history-deleted = Historial eliminado
 aiwindow-website-chip-remove-button =
     .aria-label = Eliminar
@@ -95,9 +95,12 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Bienvenido a { -smart-window-brand-name }
 aiwindow-firstrun-model-title = ¿Qué aspectos son importantes para ti?
+aiwindow-firstrun-model-title-v2 = Elige un modelo
 aiwindow-firstrun-model-subtitle = Escoge un modelo para usar en las { -smart-window-brand-name(form: "lower-plural") }. Puedes cambiarlo en cualquier momento.
 aiwindow-firstrun-model-fast-label = Velocidad
 aiwindow-firstrun-model-fast-body = Obtener respuestas rápidamente
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Rápido: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version

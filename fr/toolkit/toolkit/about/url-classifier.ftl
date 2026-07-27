@@ -97,12 +97,12 @@ url-classifier-content-classifier-col-important = Important
 url-classifier-content-classifier-col-engine-result = Résultat du moteur
 # Overall verdict shown when the request would be acted on (blocked or
 # annotated): the classifier matched.
-url-classifier-content-classifier-verdict-hit = Appels
+url-classifier-content-classifier-verdict-hit = Correspondance
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Exception
 # Overall verdict shown when the classifier did not match the request at all.
-url-classifier-content-classifier-verdict-miss = Mlle
+url-classifier-content-classifier-verdict-miss = Pas de correspondance
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.

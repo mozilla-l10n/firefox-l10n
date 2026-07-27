@@ -212,7 +212,7 @@ tabbrowser-ctrl-tab-list-all-tabs =
 ##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
-    .tooltiptext = Rendre l’onglet muet
+    .tooltiptext = Couper le son de l’onglet
 tabbrowser-manager-unmute-tab =
     .tooltiptext = Réactiver le son de l’onglet
 tabbrowser-manager-close-tab =
