@@ -302,7 +302,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Wir respektieren immer Ihre Privatsphäre
 mr2022-onboarding-privacy-segmentation-subtitle = Von intelligenten Vorschlägen bis hin zu einer schlaueren Suche arbeiten wir ständig daran, einen besseren, persönlicheren { -brand-product-name } zu schaffen.
-mr2022-onboarding-privacy-segmentation-text-cta = Was soll passieren, wenn wir neue Funktionen anbieten, die deine Daten verwenden, um dein Surfen zu verbessern?
+mr2022-onboarding-privacy-segmentation-text-cta = Was soll passieren, wenn wir neue Funktionen anbieten, die Ihre Daten verwenden, um Ihr Surfen zu verbessern?
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name }-Empfehlungen verwenden
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Detaillierte Informationen anzeigen
 
@@ -496,7 +496,7 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-screen-1-title =
     Upgrade auf Windows 11?
-    Lassen Sie uns Ihre { -brand-product-name } Daten sichern.
+    Lassen Sie uns Ihre { -brand-product-name }-Daten sichern.
 create-backup-screen-1-subtitle = Schützen Sie Ihre Passwörter, Lesezeichen und mehr automatisch in ein bis zwei Minuten.
 create-backup-screen-1-flair = Empfohlen
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Weitere Informationen</a>

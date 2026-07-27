@@ -1553,7 +1553,7 @@ newtab-activation-window-message-dismiss-button =
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = Passen Sie diesen Raum an
-newtab-activation-window-message-customization-focus-message = Wählen Sie ein neues Hintergrundbild, fügen Sie Verknüpfungen zu Ihren Lieblingsseiten hinzu und bleiben Sie auf dem neuesten Stand. mit Artikeln, die Sie interessieren.
+newtab-activation-window-message-customization-focus-message = Wählen Sie ein neues Hintergrundbild, fügen Sie Verknüpfungen zu Ihren Lieblingsseiten hinzu und bleiben Sie auf dem neuesten Stand. Mit Artikeln, die Sie interessieren.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Beginnen Sie mit den Anpassungen
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
@@ -1569,8 +1569,8 @@ newtab-activation-window-message-values-focus-message = Mit { -brand-product-nam
 newtab-clock-widget-menu-hide = Uhr ausblenden
 newtab-clock-widget-menu-learn-more = Weitere Informationen
 newtab-clock-widget-menu-edit = Uhren bearbeiten
-newtab-clock-widget-menu-switch-to-12h = Zum 12- Stunden-Format wechseln
-newtab-clock-widget-menu-switch-to-24h = Zum 24 Stunden-Format wechseln
+newtab-clock-widget-menu-switch-to-12h = Zum 12-Stunden-Format wechseln
+newtab-clock-widget-menu-switch-to-24h = Zum 24-Stunden-Format wechseln
 newtab-clock-widget-label-your-clocks = Ihre Uhren
 newtab-clock-widget-search-location-input =
     .label = Standort

@@ -19,7 +19,7 @@ devtools-tooltip-learn-more = Weitere Informationen
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil das Element weder ein Flex- noch ein Grid-Container ist.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Flex-, Grid- oder Mehrspalten-Container ist.
-inactive-css-not-multicol-container = <strong>{ $property }</strong>  hat bei diesem Element keine Wirkung, weil es kein Mehrspalten-Container ist.
+inactive-css-not-multicol-container = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Mehrspalten-Container ist.
 inactive-css-column-span = <strong>{ $property }</strong> hat bei diesem Element keine spaltenübergreifende Wirkung, weil es nicht in einem mehrspaltigen Container ist.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil das Element weder ein Flex- noch ein Grid-Element ist.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil das Element weder ein Grid- oder Flex-Element, noch ein absolut positionertes Element ist.
@@ -27,7 +27,7 @@ inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</str
 inactive-css-not-absolutely-positioned-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein absolut platziertes Element ist.
 inactive-css-no-default-anchor = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Standard-Anker-Element hat.
 inactive-css-not-grid-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Grid-Element ist.
-inactive-css-not-grid-container = <strong>{ $property }</strong>  hat bei diesem Element keine Wirkung, weil es kein Grid-Container ist.
+inactive-css-not-grid-container = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Grid-Container ist.
 inactive-css-not-flex-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Flex-Element ist.
 inactive-css-not-flex-container = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Flex-Container ist.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es weder ein inline- noch ein table-cell-Element ist.

@@ -161,7 +161,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Warnen, wenn das gleichzeitige 
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = Mit Textcursor-Steuerung surfen
-tabbrowser-confirm-caretbrowsing-message = Das Drücken der Taste F7 schaltet das Surfen mit Textcursor-Steuerung an und aus. Diese Funktion fügt einen bewegbaren Textcursor in Webseiten ein, mit dem. z.B. Text ausgewählt werden kann. Soll die Textcursor-Steuerung aktiviert werden?
+tabbrowser-confirm-caretbrowsing-message = Das Drücken der Taste F7 schaltet das Surfen mit Textcursor-Steuerung an und aus. Diese Funktion fügt einen bewegbaren Textcursor in Webseiten ein, mit dem z.B. Text ausgewählt werden kann. Soll die Textcursor-Steuerung aktiviert werden?
 tabbrowser-confirm-caretbrowsing-checkbox = Dieses Dialogfenster nicht mehr anzeigen.
 
 ## Confirmation dialog for closing all duplicate tabs
