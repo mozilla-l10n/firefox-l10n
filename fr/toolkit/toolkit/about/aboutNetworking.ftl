@@ -58,8 +58,8 @@ about-networking-ssl-tokens-restored =
     .alt = Restauré à partir de l’espace de stockage
     .title = Restauré à partir de l’espace de stockage
 about-networking-ssl-tokens-new =
-    .alt = Nouveautés pour cette session
-    .title = Nouveautés pour cette session
+    .alt = Nouveau au cours de cette session
+    .title = Nouveau au cours de cette session
 about-networking-ssl-tokens-expired =
     .alt = Expiré
     .title = Expiré
@@ -75,7 +75,7 @@ about-networking-ssl-tokens-built-in-root = Racine intégrée
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Chaîne de certificat ({ $count })
 # $count (Number) - Number of certs seen during the TLS handshake
-about-networking-ssl-tokens-handshake-certs = Certificats d’établissement de liaison ({ $count })
+about-networking-ssl-tokens-handshake-certs = Certificats de négociation ({ $count })
 about-networking-refresh = Actualiser
 about-networking-auto-refresh = Actualiser toutes les 3 secondes
 about-networking-hostname = Nom d’hôte
