@@ -413,3 +413,7 @@ about-logins-import-report-added2 = <div data-l10n-name="count"> { $count } </di
 about-logins-import-report-modified2 = <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Entri sedia ada dikemas kini </div>
 about-logins-import-report-no-change2 = <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Entri pendua </div> <div data-l10n-name="not-imported"> (tidak diimport) </div>
 about-logins-import-report-error = <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Ralat </div> <div data-l10n-name="not-imported"> (tidak diimport) </div>
+
+## Logins import report page
+
+about-logins-import-report-page-title = Laporan Ringkasan Import

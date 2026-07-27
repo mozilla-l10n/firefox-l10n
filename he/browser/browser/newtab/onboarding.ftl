@@ -593,3 +593,5 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = אם הדעה שלך �
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = בחירת ערכת נושא
+onboarding-theme-picker-subtitle = להכניס קצת יותר צבע ל־{ -brand-short-name }.
+onboarding-theme-picker-button-label = שמירה והמשך

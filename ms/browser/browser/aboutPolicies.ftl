@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Polisi Syarikat
+aboutpolicies-page-heading =
+    .heading = Perihal Dasar
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Aktif
 errors-tab = Ralat
@@ -15,6 +17,8 @@ errors-tab-title =
     .title = Ralat
 documentation-tab-title =
     .title = Dokumentasi
+no-specified-policies-message = Perkhidmatan Dasar Enterprise aktif tetapi tiada dasar yang didayakan.
+inactive-message = Perkhidmatan Dasar Enterprise tidak aktif.
 policy-name = Nama Polisi
 policy-value = Nilai Polisi
 policy-errors = Ralat Polisi

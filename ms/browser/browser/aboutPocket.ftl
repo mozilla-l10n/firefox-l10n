@@ -15,15 +15,21 @@ pocket-panel-saved-error-generic = Ada ralat semasa cuba menyimpan ke { -pocket-
 pocket-panel-saved-error-tag-length = Tag dihadkan hanya 25 aksara
 pocket-panel-saved-error-only-links = Hanya pautan boleh disimpan
 pocket-panel-saved-error-not-saved = Halaman Tidak Disimpan
+pocket-panel-saved-error-no-internet = Anda mesti bersambung ke Internet untuk menyimpan ke { -pocket-brand-name }. Sila sambung ke Internet dan cuba lagi.
+pocket-panel-saved-error-remove = Terdapat ralat semasa cuba mengalih keluar halaman ini.
 pocket-panel-saved-page-removed = Halaman Dialih keluar
 pocket-panel-saved-page-saved = Disimpan ke { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Disimpan ke { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Sedang mengalih keluar Halaman…
+pocket-panel-saved-removed-updated = Halaman Dibuang daripada Simpanan
 pocket-panel-saved-processing-tags = Sedang menambah tag…
 pocket-panel-saved-remove-page = Alih keluar Halaman
 pocket-panel-saved-save-tags = Simpan
 pocket-panel-saved-saving-tags = Sedang menyimpan…
 pocket-panel-saved-suggested-tags = Tag Disyorkan
 pocket-panel-saved-tags-saved = Tag Ditambah
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Tambah Tag:
 
 ## about:pocket-signup panel
 
@@ -36,3 +42,29 @@ pocket-panel-signup-signup-firefox = Daftar dengan { -brand-product-name }
 pocket-panel-signup-tagline = Simpan artikel dan video dari { -brand-product-name } untuk dilihat dalam { -pocket-brand-name } pada apa jua peranti pada bila-bila masa.
 pocket-panel-signup-tagline-story-one = Klik butang { -pocket-brand-name } untuk menyimpan apa jua artikel, video atau halaman daripada { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Papar dalam { -pocket-brand-name } dalam mana-mana peranti, bila-bila masa saja.
+pocket-panel-signup-cta-a-fix = Butang simpan anda untuk Internet
+pocket-panel-signup-cta-b-updated = Klik butang { -pocket-brand-name } untuk menyimpan artikel, video dan pautan. Lihat simpanan anda pada mana-mana peranti, pada bila-bila masa.
+pocket-panel-signup-cta-b-short = Klik butang { -pocket-brand-name } untuk menyimpan artikel, video dan pautan.
+pocket-panel-signup-cta-c-updated = Lihat simpanan anda pada mana-mana peranti, pada bila-bila masa.
+
+## about:pocket-home panel
+
+pocket-panel-home-welcome-back = Selamat Kembali
+pocket-panel-home-paragraph = Anda boleh menggunakan { -pocket-brand-name } untuk meneroka dan menyimpan halaman web, artikel, video, podcast atau kembali kepada apa yang anda sedang baca.
+pocket-panel-home-explore-popular-topics = Terokai Topik Popular
+pocket-panel-home-discover-more = Terokai lagi
+pocket-panel-home-explore-more = Teroka
+pocket-panel-home-most-recent-saves-loading = Memuatkan simpanan terbaharu...
+pocket-panel-home-new-user-cta = Klik butang { -pocket-brand-name } untuk menyimpan artikel, video dan pautan.
+pocket-panel-home-new-user-message = Lihat simpanan terbaharu anda di sini.
+
+## Pocket panel header component
+
+pocket-panel-header-my-saves = Lihat Simpanan Saya
+pocket-panel-header-sign-in = Daftar masuk
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Papar Semua
+pocket-panel-button-activate = Aktifkan { -pocket-brand-name } dalam { -brand-product-name }
+pocket-panel-button-remove = Alih keluar
