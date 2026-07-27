@@ -368,19 +368,19 @@ fxa-menu-message-close-button =
 fxa-menu-message-sign-up-button = Registrieren
 fxa-menu-message-sign-in-button = Anmelden
 fxa-menu-message-sync-button = Mit Synchronisierung beginnen
-fxa-menu-message-sync-devices-primary-text = Synchronisiere all deine Geräte
-fxa-menu-message-sync-devices-secondary-text = Greife sofort auf deine Inhalte – wie Lesezeichen und Passwörter – zu. Überall wo du { -brand-short-name } verwendest.
+fxa-menu-message-sync-devices-primary-text = Synchronisieren Sie alle Ihre Geräte
+fxa-menu-message-sync-devices-secondary-text = Greifen Sie sofort auf Ihre Inhalte – wie Lesezeichen und Passwörter – zu. Überall wo Sie { -brand-short-name } verwenden.
 fxa-menu-message-sync-devices-secondary-text2 = Holen Sie sich sofort Ihre Lesezeichen, Passwörter und mehr – überall dort, wo Sie mit { -brand-short-name } angemeldet sind.
-fxa-menu-message-sync-devices-collapsed-text = Synchronisiere all deine Geräte
+fxa-menu-message-sync-devices-collapsed-text = Synchronisieren Sie alle Ihre Geräte
 fxa-menu-message-backup-data-primary-text = Sichern Sie Ihre Browser-Daten
 fxa-menu-message-backup-data-secondary-text = Automatisch Lesezeichen, Passwörter und andere Daten auf all Ihren Geräten sichern.
 fxa-menu-message-backup-data-collapsed-text = Sichern Sie Ihre Browser-Daten
 fxa-menu-message-backup-sync-primary-text = Ihre Daten – sicher und synchronisiert
 fxa-menu-message-backup-sync-secondary-text = Sync sichert die meisten Ihrer Daten, sodass Sie überall darauf zugreifen können, wo Sie { -brand-short-name } verwenden.
 fxa-menu-message-backup-sync-collapsed-text = Daten synchronisieren und sichern
-fxa-menu-message-mobile-primary-text = Tabs an dein Handy senden
-fxa-menu-message-mobile-secondary-text = Mache genau dort weiter, wo du aufgehört hast – sofort, wenn du deine Tabs mit einem mobilen Gerät synchronisierst.
-fxa-menu-message-mobile-collapsed-text = Mit deinem Handy synchronisieren
+fxa-menu-message-mobile-primary-text = Tabs an Ihr Smartphone senden
+fxa-menu-message-mobile-secondary-text = Machen Sie genau dort weiter, wo Sie aufgehört haben – sofort, wenn Sie Ihre Tabs mit einem mobilen Gerät synchronisieren.
+fxa-menu-message-mobile-collapsed-text = Mit Ihrem Smartphone synchronisieren
 
 ## Multi-CTA Fox Doodle Spotlight
 
@@ -394,13 +394,13 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Lossurfen
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } als meinen Hauptbrowser festlegen
-multi-cta-fox-doodle-quick-reminder-subtitle = Hier eine schnelle Erinnerung: deinen Lieblings-Browser mit Fokus auf Privatsphäre kannst du auch mit nur einem Klick aufrufen.
+multi-cta-fox-doodle-quick-reminder-subtitle = Hier eine schnelle Erinnerung: Ihren Lieblings-Browser mit Fokus auf Privatsphäre können Sie auch mit nur einem Klick aufrufen.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->
-        [macos] Halte deinen Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Lege { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und behalte ihn im Dock.
-       *[other] Halte deinen Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Lege { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und hefte ihn an deine Taskleiste.
+        [macos] Halten Sie Ihren Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Legen Sie { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und behalten ihn im Dock.
+       *[other] Halten Sie Ihren Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Legen Sie { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und heften ihn an Ihre Taskleiste.
     }
-multi-cta-fox-doodle-msix-privacy-focused-subtitle = Halte deinen Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Lege { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und hefte ihn an deine Taskleiste und dein Startmenü.
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Halten Sie Ihren Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Legen Sie { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und heften ihn an Ihre Taskleiste und Ihr Startmenü.
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 

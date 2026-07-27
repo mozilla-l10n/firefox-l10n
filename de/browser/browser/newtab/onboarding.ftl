@@ -159,7 +159,7 @@ fx100-thank-you-hero-text =
     100
     Mal
     <span data-l10n-name="zap">Danke</span>
-fx100-thank-you-subtitle = Dies ist unsere 100. Version! Danke, dass du uns beim Aufbau eines besseren und gesünderen Internets hilfst.
+fx100-thank-you-subtitle = Dies ist unsere 100. Version! Danke, dass Sie uns beim Aufbau eines besseren und gesünderen Internets helfen.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] { -brand-short-name } im Dock behalten

@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Trametter in resun
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è ina <label data-l10n-name="community-exp-creditsLink">communitad globala</label> che lavura communablamain per che l'internet resta avert, public ed accessibel a tuts.
 community-2 = { -brand-short-name } vegn sviluppà da <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ina <label data-l10n-name="community-creditsLink">communitad globala</label> che lavura communablamain per che l'internet resta avert, public ed accessibel a tuts.
 helpus = Vuls gidar? <label data-l10n-name="helpus-donateLink">Fa ina donaziun</label> u <label data-l10n-name="helpus-getInvolvedLink">ta participescha!</label>
+helpus-referrals = Vuls ti gidar? <label data-l10n-name="helpus-donateLink">Fa ina donaziun</label>, <label data-l10n-name="helpus-shareFirefoxLink">parta { -brand-short-name }</label> u <label data-l10n-name="helpus-getInvolvedLink">ta participescha!</label>
 bottomLinks-license = Infurmaziuns davart la licenza
 bottom-links-terms = Cundiziuns d’utilisaziun
 bottom-links-privacy = Decleraziun davart la protecziun da datas

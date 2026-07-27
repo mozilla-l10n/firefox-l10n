@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Questa website dumonda l'access a tes apparats MIDI (Musical Instrument Digital Interface). L'access als apparats pon ins garantir cun installar in supplement.
 site-permission-install-first-prompt-midi-message = La segirezza da quest access n'è betg garantida. Cuntinuescha mo sche ti ta fidas da questa website.
+site-permission-install-first-prompt-serial-header = Questa website dumonda l’access a tes apparats serials. L’access als apparats po vegnir activà cun installar in supplement.
+site-permission-install-first-prompt-serial-message = La segirezza da quest access n’è betg garantida. Cuntinuescha mo sche ti ta fidas da questa website.
 
 ##
 

@@ -78,3 +78,13 @@ about-private-browsing-cookie-banners-promo-body = Nus refusain ussa automaticam
 about-private-browsing-felt-privacy-v1-info-header = Na lascha nagins fastizs sin quest apparat
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } stizza tes cookies, la cronologia e datas da websites cura che ti serras tut tias fanestras privatas.
 about-private-browsing-felt-privacy-v1-info-link = Tgi pudess vesair mias activitads?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Cun serrar tut tias fanestras privatas, vegnan stizzads tes cookies, la cronologia e las datas da websites.
+about-private-browsing-nova-info-link = Tgi pudess anc adina vesair mias activitads?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Tia cronologia na vegn betg registrada
+about-private-browsing-nova-info-subheader = Nus vegnin a stizzar mintga tschertga ed annunzia cura che ti serras questa fanestra. Las protecziuns integradas da { -brand-short-name } èn era activadas qua, p.ex. la bloccada da fastizaders.

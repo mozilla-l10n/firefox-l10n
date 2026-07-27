@@ -295,5 +295,5 @@ migration-wizard-progress-success-payment-methods =
        *[other] { $quantity } Zahlungsmethoden
     }
 migration-wizard-safari-permissions-sub-header = Um Safari-Lesezeichen und die Surf-Chronik zu importieren:
-migration-wizard-safari-instructions-continue = Wähle "Fortsetzen"
+migration-wizard-safari-instructions-continue = Wählen Sie "Fortsetzen"
 migration-wizard-safari-instructions-folder = Wählen Sie in der Liste den Safari-Ordner aus und wählen Sie "Öffnen"

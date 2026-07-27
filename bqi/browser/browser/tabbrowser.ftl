@@ -184,6 +184,14 @@ tab-group-preview-closed-description = نومگه بلگه یل بسته واب�
 
 ##
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] ٱووردن بلگه و بونکۊ نۊ
+            [one] ٱووردن بلگه و بونکۊ نۊ
+           *[other] ٱووردن بلگه و بونکۊ نۊ
+        }
+    .accesskey = G
 tab-group-editor-action-delete =
     .label = پاک کردن بونکۊ
 tab-group-editor-done =
