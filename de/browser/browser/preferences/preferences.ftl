@@ -1581,8 +1581,8 @@ forms-primary-pw-learn-more-link = Weitere Informationen
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = Master-Passwort ändern…
-    .accesskey = M
+    .label = Hauptpasswort ändern…
+    .accesskey = H
 forms-primary-pw-change =
     .label = Hauptpasswort ändern…
     .accesskey = H
