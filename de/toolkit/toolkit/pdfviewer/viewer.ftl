@@ -299,7 +299,7 @@ pdfjs-rendering-error = Beim Darstellen der Seite trat ein Fehler auf.
 # (32000-1:2008 Table 169 – Annotation types).
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
-    .alt = [Anlage: { $type }]
+    .alt = [{ $type } Anmerkung]
 # Variables:
 #   $dateObj (Date) - the modification date and time of the annotation
 pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
@@ -730,9 +730,9 @@ pdfjs-views-manager-pages-status-undo-delete-label =
     }
 pdfjs-views-manager-pages-status-waiting-ready-label = Ihre Datei wird vorbereitet…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Datei wird hochgeladen…
-pdfjs-views-manager-status-warning-cut-label = Ausschneiden war nicht möglich. Aktualisieren Sie die Seite und versuchen Sie es erneut.
+pdfjs-views-manager-status-warning-cut-label = Ausschneiden nicht möglich. Aktualisieren Sie die Seite und versuchen Sie es erneut.
 pdfjs-views-manager-status-warning-copy-label = Kopieren nicht möglich. Aktualisieren Sie die Seite und versuchen Sie es erneut.
-pdfjs-views-manager-status-warning-delete-label = Löschen war nicht möglich. Aktualisieren Sie die Seite und versuchen Sie es erneut.
+pdfjs-views-manager-status-warning-delete-label = Löschen nicht möglich. Aktualisieren Sie die Seite und versuchen Sie es erneut.
 pdfjs-views-manager-status-warning-save-label = Speichern nicht möglich. Aktualisieren Sie die Seite und versuchen Sie es erneut.
 pdfjs-views-manager-status-undo-button-label = Rückgängig
 pdfjs-views-manager-status-done-button-label = Fertig
