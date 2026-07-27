@@ -40,7 +40,7 @@ ipprotection-feature-introduction-description-private-browsing = Surfen Sie mit 
 ipprotection-feature-introduction-title-captive-portal = Im öffentlichen WLAN? Probieren Sie das integrierte VPN von { -brand-product-name } aus.
 ipprotection-feature-introduction-description-captive-portal = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen, auch im öffentlichen WLAN.
 # Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal-1 = Holen Sie sich <a data-l10n-name="learn-more-vpn">zusätzliche Privatsphäre</a>, indem Sie aus mehreren Möglichkeiten wählen, ihren Standort zu verbergen.
+ipprotection-feature-introduction-link-text-captive-portal-1 = Holen Sie sich <a data-l10n-name="learn-more-vpn">zusätzliche Privatsphäre</a>, indem Sie aus mehreren Möglichkeiten wählen, Ihren Standort zu verbergen.
 ipprotection-feature-introduction-button-primary = Weiter
 ipprotection-feature-introduction-button-secondary-not-now = Nicht jetzt
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
