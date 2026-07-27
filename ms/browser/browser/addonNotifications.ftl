@@ -54,19 +54,37 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) disekat oleh pentadbir sistem anda.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Pentadbir sistem anda menghalang laman ini daripada meminta anda memasang perisian pada komputer anda.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) disekat oleh organisasi anda.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Organisasi anda menghalang laman ini daripada meminta anda memasang perisian pada komputer anda.
+addon-install-full-screen-blocked = Pemasangan add-on tidak dibenarkan semasa dalam atau sebelum memasuki mod skrin penuh.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ditambah ke { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } perlukan keizinan baru
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Selesaikan pemasangan sambungan yang diimport ke { -brand-short-name }
 
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Buang { $name }?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Buang { $name } daripada { -brand-shorter-name }?
 addon-removal-button = Buang
+addon-removal-abuse-report-checkbox = Laporkan sambungan ini kepada { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Jika anda menggunakan ciri atau sambungan yang menggunakan model ini, ia akan ditambah semula.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = Memuat turun dan mengesahkan { $addonCount } add-ons…
@@ -96,12 +114,20 @@ addon-install-error-incorrect-hash = Add-on ini tidak dapat dipasang kerana tida
 addon-install-error-corrupt-file = Add-on yang dimuat turun dari laman ini tidak dapat dipasang kerana ada kerosakan.
 addon-install-error-file-access = { $addonName } tidak dapat dipasang kerana { -brand-short-name } tidak boleh mengubahsuai fail yang diperlukan.
 addon-install-error-not-signed = { -brand-short-name } telah menghalang laman ini daripada memasang add-on yang tidak disahkan.
+addon-install-error-invalid-domain = Add-on { $addonName } tidak boleh dipasang dari lokasi ini.
+addon-install-error-no-addon-name-file-access = Add-on tidak dapat dipasang kerana { -brand-short-name } tidak dapat mengubah suai fail yang diperlukan.
 addon-local-install-error-network-failure = Add-on ini tidak dapat dipasang kerana ralat sistem fail.
 addon-local-install-error-incorrect-hash = Add-on ini tidak dapat dipasang kerana tidak sepadan dengan add-on { -brand-short-name } yang dijangkakan.
 addon-local-install-error-corrupt-file = Add-on ini tidak dapat dipasang kerana ada kerosakan.
 addon-local-install-error-file-access = { $addonName } tidak dapat dipasang kerana { -brand-short-name } tidak boleh mengubahsuai fail yang diperlukan.
 addon-local-install-error-not-signed = Add-on ini tidak dapat dipasang kerana belum disahkan.
+addon-local-install-no-addon-name-error-file-access = Add-on tidak dapat dipasang kerana { -brand-short-name } tidak dapat mengubah suai fail yang diperlukan.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } tidak dapat dipasang kerana tidak serasi { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } melanggar dasar Mozilla dan tidak boleh dipasang pada { -brand-short-name }.
+addon-install-error-soft-blocked2 = { $addonName } terhad dan tidak boleh dipasang pada { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } tidak dapat dipasang kerana ada risiko tinggi menyebabkan masalah kestabilan dan keselamatan.
+addon-install-error-soft-blocked = { $addonName } melanggar dasar Mozilla dan tidak boleh dipasang pada { -brand-short-name }.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Anda tidak boleh memasang { $addonName } sebagai pengguna akhir; ia hanya boleh dipasang oleh organisasi menggunakan dasar perusahaan.
