@@ -40,6 +40,7 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Clave de partición
 about-networking-ssl-tokens-tokens-column = Tokens
 about-networking-ssl-tokens-expires = Expira
 about-networking-ssl-tokens-certificate = Certificado
@@ -65,6 +66,7 @@ about-networking-ssl-tokens-compression-details =
     .title = Tokens: { $tokenLength } B. Codificado: { $decompressedLength } → { $compressedLength } B.
 about-networking-ssl-tokens-ev-status = Certificado EV
 about-networking-ssl-tokens-ct-status = Estado de transparencia del certificado
+about-networking-ssl-tokens-built-in-root = Raíz integrado
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Cadena de certificados ({ $count })
 about-networking-refresh = Refrescar
