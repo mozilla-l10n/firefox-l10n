@@ -44,13 +44,16 @@ firefoxview-tabpickup-synctabs-header = Slå på fanesynkronisering
 firefoxview-tabpickup-synctabs-description = Tillat { -brand-short-name } å dele faner mellom einingar.
 firefoxview-tabpickup-synctabs-learn-how = Les korleis
 firefoxview-tabpickup-synctabs-primarybutton = Synkroniser opne faner
+firefoxview-tabpickup-synctabs-primarybutton-2 = Slå på fanesynkronisering
 firefoxview-syncedtabs-synctabs-header = Oppdater synkroniseringsinnstillingane dine
 firefoxview-syncedtabs-synctabs-description = For å sjå faner frå andre einingar må du synkronisere dei opne fanene dine.
+firefoxview-syncedtabs-synctabs-header-2 = Fanesynkronisering er av
 firefoxview-syncedtabs-loading-header = Synkronisering i framdrift
 firefoxview-syncedtabs-loading-description = Når det er klart ser du alle fanene som du har opne på andra einingar. Sjekk igjen litt seinare.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasjonen din har deaktivert synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikkje synkronisere faner mellom einingar fordi administratoren din har deaktivert synkronisering.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan ikkje synkronisere faner mellom einingar fordi organisasjonen din har deaktivert synkronisering.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Fanesynkronisering er av
 firefoxview-tabpickup-network-offline-header = Sjekk internettilkoplinga di
 firefoxview-tabpickup-network-offline-description = Dersom du brukar ein brannmur eller proxy, sjekk at { -brand-short-name } har tilgangsløyve til nettet.
 firefoxview-tabpickup-network-offline-primarybutton = Prøv på nytt
@@ -221,6 +224,8 @@ firefoxview-choose-browser-button = Vel nettlesar
 
 firefoxview-dont-remember-history-empty-header-2 = Du har kontroll over kva { -brand-short-name } hugsar
 firefoxview-dont-remember-history-empty-description-one = Akkurat no hugsar ikkje { -brand-short-name } nettlesingsaktiviteten din. For å endre det, <a data-l10n-name="history-settings-url-two">oppdater historikkinnstillingane dine</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Du etterlèt ingen spor
 
 ##
 
