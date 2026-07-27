@@ -27,3 +27,7 @@ about-unloads-column-host = Hos
 about-unloads-column-last-accessed = Kali Terakhir Diakses
 about-unloads-column-weight = Berat Asas
     .title = Tab diisihkan terlebih dahulu mengikut nilai ini, yang diperoleh daripada beberapa atribut khas seperti memainkan bunyi, WebRTC, dll.
+about-unloads-last-accessed = { DATETIME($date, day: "numeric", hour: "numeric", year: "numeric", month: "numeric", hour12: "false", minute: "numeric", second: "numeric") }
+about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
+about-unloads-memory-in-mb-tooltip =
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } MB
