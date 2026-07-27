@@ -24,3 +24,35 @@ smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name 
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Ralat pelayan (HTTP { $status }). Sila cuba lagi.
 smartwindow-retry-btn = Cuba Lagi
+smartwindow-clear-btn = Sembang baharu
+smartwindow-signin-btn = Daftar masuk
+
+## Assistant Message footer
+
+aiwindow-memories-used = Memori digunakan
+aiwindow-memories-callout-description = Memori membantu memperibadikan jawapan ini.
+aiwindow-memories-learn-more = Ketahui selanjutnya
+aiwindow-manage-memories =
+    .label = Tetapan memori
+aiwindow-retry-without-memories =
+    .label = Cuba semula tanpa memori
+aiwindow-retry =
+    .aria-label = Cuba lagi
+    .tooltiptext = Cuba lagi
+aiwindow-copy-message =
+    .aria-label = Salin mesej
+    .tooltiptext = Salin
+aiwindow-copy-table =
+    .aria-label = Salin jadual
+    .tooltiptext = Salin jadual
+aiwindow-table-scroll-indicator = Tatal untuk melihat lagi
+aiwindow-thumbs-up =
+    .aria-label = Kongsi maklum balas positif
+    .tooltiptext = Kongsi maklum balas positif
+aiwindow-thumbs-down =
+    .aria-label = Kongsi maklum balas negatif
+    .tooltiptext = Kongsi maklum balas negatif
+aiwindow-applied-memories-popover =
+    .aria-label = Panel memori
+aiwindow-applied-memories-list =
+    .aria-label = Memori
