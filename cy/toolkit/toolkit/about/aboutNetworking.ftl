@@ -62,6 +62,28 @@ about-networking-ssl-tokens-token-list =
         [many] { $count } thocyn
        *[other] { $count } tocyn
     }
+about-networking-ssl-tokens-restored =
+    .alt = Wedi'i adfer o'r storfa
+    .title = Wedi'i adfer o'r storfa
+about-networking-ssl-tokens-new =
+    .alt = Yn newydd y sesiwn yma
+    .title = Yn newydd y sesiwn yma
+about-networking-ssl-tokens-expired =
+    .alt = Daeth i Ben
+    .title = Daeth i Ben
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tocynnau: { $tokenLength } B. Wedi'i amgodio: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = Tystysgrif EV
+about-networking-ssl-tokens-ct-status = Statws tryloywder Tystysgrif
+about-networking-ssl-tokens-overridable-error = Categori gwall trechadwy
+about-networking-ssl-tokens-built-in-root = Gwreiddyn cynhenid
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Cadwyn tystysgrif ( { $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Tystysgrifau ysgwyd llaw ( { $count })
 about-networking-refresh = Adnewyddu
 about-networking-auto-refresh = Adnewyddu pob 3 eiliad
 about-networking-hostname = Enw Gwesteiwr
