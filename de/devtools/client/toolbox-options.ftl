@@ -83,7 +83,7 @@ options-netmonitor-label = Netzwerkanalyse
 # The label for the input defining the limit of stored request and response body size
 options-netmonitor-body-limit-label = Maximale Größe des Anfrage- und Antworttextes (wird für unlimitiert auf 0 gesetzt):
 options-netmonitor-body-limit-tooltip =
-    .title = Anfrage- oder Antwortkörper, die die angegebene Größe überschreiten, werden gekürzt, wenn sie im Netzwerkmonitor angezeigt oder heruntergeladen werden. Auf 0 setzen, um keine Begrenzung zu haben.
+    .title = Anfrage- oder Antwortkörper, die die angegebene Größe überschreiten, werden gekürzt, wenn sie in der Netzwerkanalyse angezeigt oder heruntergeladen werden. Auf 0 setzen, um keine Begrenzung zu haben.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Unbegrenzt
 options-netmonitor-body-limit-button =
