@@ -20,3 +20,27 @@ colorpicker-tooltip-hue-slider-title = Arlliw
 colorpicker-tooltip-alpha-slider-title = Didreiddedd
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Dosbarthiadau ffug-benodol i elfennau
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Toglo efelychu cynllun lliw golau i'r dudalen
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Toglo efelychu cynllun lliw tywyll i'r dudalen
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = Toglo nodweddion efelychu CSS
+    .aria-label = Toglo nodweddion efelychu CSS
+inspector-emulation-panel-color-scheme = Efelychu cynllun lliw
+# A label text for the print emulation options
+inspector-emulation-panel-print = Galluogi
+    .aria-label = Galluogi efelychu cyfrwng argraffu
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Golau
+    .aria-label = Galluogi cynllun lliw golau
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Tywyll
+    .aria-label = Galluogi cynllun lliw tywyll
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Dim efelychu
+    .aria-label = Analluogi efelychu cynllun lliw

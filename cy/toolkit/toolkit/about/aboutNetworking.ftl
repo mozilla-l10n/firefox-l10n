@@ -19,6 +19,38 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Wedi'i ddilysu
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Allwedd Ynysu
+about-networking-ssl-tokens = Tocynnau TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [zero] { $count } tocynnau
+        [one] { $count } tocyn
+        [two] { $count } docyn
+        [few] { $count } thocyn
+        [many] { $count } thocyn
+       *[other] { $count } tocyn
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [zero] ( { $count } wedi dod i ben)
+        [one] ( { $count } wedi dod i ben)
+        [two] ( { $count } wedi dod i ben)
+        [few] ( { $count } wedi dod i ben)
+        [many] ( { $count } wedi dod i ben)
+       *[other] ( { $count } wedi dod i ben)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ( { $saved }% wedi'i gadw)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ( { $percent }%)
+about-networking-ssl-tokens-partition-key = Allwedd Rhaniad
+about-networking-ssl-tokens-tokens-column = Tocynnau
+about-networking-ssl-tokens-expires = Daw i Ben
 about-networking-refresh = Adnewyddu
 about-networking-auto-refresh = Adnewyddu pob 3 eiliad
 about-networking-hostname = Enw Gwesteiwr

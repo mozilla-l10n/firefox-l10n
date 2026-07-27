@@ -205,7 +205,7 @@ autofill-passport-date-year =
 ## The passport capture doorhanger
 
 # Header of the doorhanger shown when Firefox offers to save a passport.
-passport-capture-save-doorhanger-header = Arbed pasbort?
+passport-capture-save-doorhanger-header = Cadw pasbort?
 passport-capture-save-doorhanger-description = Cadw manylion i { -brand-short-name } er mwyn i chi allu llenwi ffurflenni'n gyflym.
 # Accessible label for a passport date part input in the capture doorhanger.
 # The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
