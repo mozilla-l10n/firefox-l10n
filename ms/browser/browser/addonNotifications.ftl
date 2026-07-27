@@ -8,23 +8,52 @@ xpinstall-prompt = { -brand-short-name } menghalang laman ini daripada meminta a
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
 xpinstall-prompt-header = Izinkan { $host } memasang add-on?
+xpinstall-prompt-message = Anda cuba memasang add-on dari { $host }. Pastikan anda mempercayai laman ini sebelum meneruskan.
 
 ##
 
+xpinstall-prompt-header-unknown = Izinkan laman tidak diketahui memasang add-on?
+xpinstall-prompt-message-unknown = Anda cuba memasang add-on dari laman tidak diketahui. Pastikan anda mempercayai laman ini sebelum meneruskan.
 xpinstall-prompt-dont-allow =
     .label = Jangan Izinkan
     .accesskey = J
+xpinstall-prompt-never-allow =
+    .label = Jangan Benarkan
+    .accesskey = J
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Lapor Laman Mencurigakan
+    .accesskey = L
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Teruskan ke Pemasangan
+    .accesskey = T
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Laman ini meminta akses kepada peranti MIDI (Musical Instrument Digital Interface) anda. Akses peranti boleh didayakan dengan memasang add-on.
+site-permission-install-first-prompt-midi-message = Akses ini tidak dijamin selamat. Hanya teruskan jika anda mempercayai laman ini.
+site-permission-install-first-prompt-serial-header = Laman ini meminta akses kepada peranti bersiri anda. Akses peranti boleh didayakan dengan memasang add-on.
+site-permission-install-first-prompt-serial-message = Akses ini tidak dijamin selamat. Hanya teruskan jika anda mempercayai laman ini.
 
 ##
 
 xpinstall-disabled-locked = Pemasangan perisian telah dinyahdayakan oleh pentadbir sistem anda.
+xpinstall-disabled-by-policy = Pemasangan perisian telah dilumpuhkan oleh organisasi anda.
 xpinstall-disabled = Pemasangan perisian sedang dinyahdayakan. Klik Dayakan dan cuba lagi.
 xpinstall-disabled-button =
     .label = Dayakan
     .accesskey = a
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) disekat oleh pentadbir sistem anda.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Pentadbir sistem anda menghalang laman ini daripada meminta anda memasang perisian pada komputer anda.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ditambah ke { -brand-short-name }
