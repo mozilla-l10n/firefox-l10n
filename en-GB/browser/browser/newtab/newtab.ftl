@@ -757,6 +757,29 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Close
 newtab-custom-settings = Manage more settings
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Appearance
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = See more themes
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } Themes
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Your themes
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Enable
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Disable
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Install theme
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Explore more themes
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Wallpapers

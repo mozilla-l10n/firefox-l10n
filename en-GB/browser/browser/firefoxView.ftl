@@ -58,14 +58,22 @@ firefoxview-syncedtabs-synctabs-description-2 = Turn synchronisation back on to 
 firefoxview-syncedtabs-loading-header = Synchronisation in progress...
 firefoxview-syncedtabs-loading-description = When it’s done, you’ll see any tabs you have open on other devices. Check back soon.
 firefoxview-syncedtabs-loading-header-2 = Fetching your tabs…
+firefoxview-syncedtabs-loading-description-2 = Synchronisation is in progress. Tabs will be here soon.
 firefoxview-tabpickup-fxa-admin-disabled-header = Your organisation has disabled synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } is not able to synchronise tabs between devices because your administrator has disabled synchronisation.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } is not able to synchronise tabs between devices because your organisation has disabled synchronisation.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Tab synchronisation is off
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Your organisation blocked this feature.
 firefoxview-tabpickup-network-offline-header = Check your internet connection
 firefoxview-tabpickup-network-offline-description = If you’re using a firewall or proxy, check that { -brand-short-name } has permission to access the web.
 firefoxview-tabpickup-network-offline-primarybutton = Try again
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } can’t connect right now
+firefoxview-tabpickup-network-offline-description-2 = You might be offline, or something may be blocking the connection.
 firefoxview-tabpickup-sync-error-header = We’re having trouble synchronising
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } can’t reach the synchronisation service right now. Try again in a few moments.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Synchronisation hit a snag
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } couldn’t connect. Give it a moment, then try again
 firefoxview-tabpickup-sync-error-primarybutton = Try again
 firefoxview-tabpickup-sync-disconnected-header = Turn on synchronisation to continue
 firefoxview-tabpickup-sync-disconnected-description = To grab your tabs, you’ll need to allow synchronisation in { -brand-short-name }.
@@ -75,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = To grab your tabs, you’ll 
 firefoxview-tabpickup-password-locked-link = Learn more
 firefoxview-tabpickup-password-locked-primarybutton = Enter Primary Password
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Learn more</a>
+firefoxview-tabpickup-password-locked-header-2 = Unlock tabs with your primary password
+firefoxview-tabpickup-password-locked-description-2 = For your privacy, synchronised tabs are protected. Enter your { -brand-short-name } primary password to see tabs from your other devices.
 firefoxview-tabpickup-signed-out-header = Sign in to reconnect
 firefoxview-tabpickup-signed-out-description = To reconnect and grab your tabs, sign in to your { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = To reconnect and grab your tabs, sign in to your account.
 firefoxview-tabpickup-signed-out-primarybutton = Sign in
+firefoxview-tabpickup-signed-out-header-2 = Sign in to see your tabs
+firefoxview-tabpickup-signed-out-description-2 = Reconnect to view tabs from other devices.
 firefoxview-tabpickup-syncing = Sit tight while your tabs synchronise. It’ll be just a moment.
 firefoxview-mobile-promo-header = Grab tabs from your phone or tablet
 firefoxview-mobile-promo-description = To view your latest mobile tabs, sign in to { -brand-product-name } on iOS or Android.
@@ -220,6 +232,10 @@ firefoxview-show-all-history = Show all history
 firefoxview-history-empty-header = Get back to where you’ve been
 firefoxview-history-empty-description = As you browse, the pages you visit will be listed here.
 firefoxview-history-empty-description-two = Protecting your privacy is at the heart of what we do. It’s why you can control the activity { -brand-short-name } remembers, in your <a data-l10n-name="history-settings-url">history settings</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Your browsing trail starts here
+firefoxview-history-empty-description-2 = As you visit pages, your history will appear here. Control what’s remembered in <a data-l10n-name="history-settings-url">settings</a>.
 
 ##
 
@@ -231,6 +247,9 @@ firefoxview-choose-browser-button = Choose browser
 
 firefoxview-dont-remember-history-empty-header-2 = You’re in control of what { -brand-short-name } remembers
 firefoxview-dont-remember-history-empty-description-one = Right now, { -brand-short-name } does not remember your browsing activity. To change that, <a data-l10n-name="history-settings-url-two">update your history settings</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = You’re off the record
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } isn’t saving your history right now. Change that any time in <a data-l10n-name="history-settings-url-two">settings</a>.
 
 ##
 
