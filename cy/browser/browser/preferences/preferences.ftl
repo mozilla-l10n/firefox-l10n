@@ -1707,6 +1707,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Dim cyfeiriadau wedi'u hychwanegu
+personal-info-group =
+    .label = Manylion personol
+autofill-personal-info-checkbox-message =
+    .label = Cadw ac awtolenwi manylion personol
+autofill-personal-info-manage-button =
+    .label = Rheoli manylion personol
+passports-list-header =
+    .label = Pasbortau
+passports-delete-passport-button-label =
+    .aria-label = Dileu
+passports-edit-passport-button-label =
+    .aria-label = Golygu
+passports-delete-passport-prompt-title = Dileu'r pasbort hwn?
+passports-delete-passport-prompt-confirm-button = Dileu
+passports-delete-passport-prompt-cancel-button = Diddymu
+autofill-passports-add-button = Ychwanegu pasbort newydd
+autofill-personal-info-manage-title =
+    .heading = Rheoli manylion personol
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Heb ychwanegu pasbortau
 pane-passwords-autofill-title2 = Cyfrineiriau ac awtolenwi
     .title = Cyfrineiriau ac awtolenwi
 preferences-passwords-autofill-header =

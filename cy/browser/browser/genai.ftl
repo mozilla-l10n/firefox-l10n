@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Trwy ddewis Anthropic Claude, rydych yn cytun
 genai-settings-chat-copilot-links = Drwy ddewis Copilot, rydych yn cytuno i'w <a data-l10n-name="link1">Telerau Profiadau Copilot AI</a> ac i <a data-l10n-name="link2">Ddatganiad Preifatrwydd Microsoft</a>.
 genai-settings-chat-gemini-links = Trwy ddewis Google Gemini, rydych yn cytuno i <a data-l10n-name="link1">Delerau Gwasanaeth Google</a>, <a data-l10n-name="link2">Polisi Defnydd Gwaharddedig AI Cynhyrchol</a>, a <a data-l10n-name="link3">Hysbysiad Preifatrwydd Apiau Gemini</a>.
 genai-settings-chat-huggingchat-links = Trwy ddewis HuggingChat, rydych yn cytuno i'r <a data-l10n-name="link1">Hysbysiad Preifatrwydd HuggingChat</a> a <a data-l10n-name="link2">Pholisi Preifatrwydd Hugging Face</a>.
+genai-settings-chat-lechat-links-2 = Trwy ddewis Mistral Vibe, rydych chi'n cytuno i <a data-l10n-name="link1">Delerau Gwasanaeth</a> a <a data-l10n-name="link2">Polisi Preifatrwydd</a> Mistral AI.
 genai-settings-chat-lechat-links = Trwy ddewis Le Chat Mistral, rydych yn cytuno i <a data-l10n-name="link1">Delerau Gwasanaeth</a> a <a data-l10n-name="link2">Pholisi Preifatrwydd</a> Mistral AI .
 genai-settings-chat-localhost-links = Defnyddiwch eich sgwrsfot lleol preifat eich hun, megis <a data-l10n-name="link1">llamafile</a> { -vendor-short-name }, grŵp Innovation.
 
@@ -178,6 +179,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Rhagor am Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = Rhagor am HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
