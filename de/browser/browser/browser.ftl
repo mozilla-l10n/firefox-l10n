@@ -1410,7 +1410,7 @@ qrcode-close-button =
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
-    .label = ­Seite speichern
+    .label = Seite speichern
     .tooltiptext = Seite speichern unter ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file

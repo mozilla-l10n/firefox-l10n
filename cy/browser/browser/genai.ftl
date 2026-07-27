@@ -268,7 +268,7 @@ link-preview-settings-enable =
 link-preview-settings-key-points =
     .label = Caniatáu i AI ddarllen dechrau'r dudalen a chynhyrchu pwyntiau allweddol
 link-preview-settings-long-press =
-    .label = Llwybr byr: Cliciwch a dal y ddolen am 1 eiliad (pwyso'n hir)
+    .label = Llwybr byr: Clicio a dal y ddolen am 1 eiliad (pwyso'n hir)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Gweld rhagor gydag AI?
 # Message that appears when user is shown the opt-in flow for link previews
