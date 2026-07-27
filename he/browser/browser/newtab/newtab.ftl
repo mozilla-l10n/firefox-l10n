@@ -744,6 +744,29 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = סגירה
 newtab-custom-settings = ניהול הגדרות נוספות
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = מראה
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = הצגת ערכות נושא נוספות
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = ערכות נושא של { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = ערכות הנושא שלך
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = הפעלה
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = השבתה
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = התקנת ערכת נושא
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = עיון בערכות נושא נוספות
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = תמונות רקע

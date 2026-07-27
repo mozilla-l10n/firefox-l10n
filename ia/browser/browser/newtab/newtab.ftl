@@ -753,6 +753,21 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Clauder
 newtab-custom-settings = Gerer altere parametros
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Apparentia
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Themas de { -brand-product-name }
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Activar
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Disactivar
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Explorar altere themas
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Fundos

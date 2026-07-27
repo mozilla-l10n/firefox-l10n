@@ -34,6 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = Waš { -brand-product-name } na wšěch
 firefoxview-syncedtabs-signin-description-2 = Zo byšće swoje wočinjene rajtarki na swojim telefonje a druhich gratach widźał, přizjewće so abo registrujće so za konto. Z kontom móžeće tež swoje hesła, swoju historiju a wjace synchronizować.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Direktnje z laptopa do telefona
+firefoxview-syncedtabs-signin-description-3 = Wostańće ze swojim přehladowanjom na wšěch gratach zwjazany – rajtarki, hesła a historija, wšitko w synchronizaciji.
 firefoxview-syncedtabs-signin-primarybutton-2 = Přizjewić
 firefoxview-tabpickup-adddevice-header = Synchronizujće { -brand-product-name } na swojim telefonje abo tableće
 firefoxview-tabpickup-adddevice-description = Sćehńće { -brand-product-name } za mobilne graty a přizjewće so tam.
@@ -53,6 +54,7 @@ firefoxview-tabpickup-synctabs-primarybutton-2 = Synchronizaciju rajtarkow zmó�
 firefoxview-syncedtabs-synctabs-header = Aktualizujće swoje synchronizaciske nastajenja
 firefoxview-syncedtabs-synctabs-description = Zo byšće rajtarki z druhich gratow widźał, dyrbiće swoje wočinjene rajtarki synchronizować.
 firefoxview-syncedtabs-synctabs-header-2 = Synchronizacija rajtarkow je znjemóžnjena
+firefoxview-syncedtabs-synctabs-description-2 = Zmóžńće synchronizaciju zaso, zo byšće wšě swoje rajtarki z druhich gratow wobstarał.
 firefoxview-syncedtabs-loading-header = Synchronizuje so
 firefoxview-syncedtabs-loading-description = Hdyž to je dokónčene, budźeće rajtarki widźeć, kotrež su na druhich gratach wočinjene. Hladajće bórze za tym.
 firefoxview-syncedtabs-loading-header-2 = Waše rajtarki so wobstaruja…
@@ -232,6 +234,9 @@ firefoxview-show-all-history = Wšu historiju pokazać
 firefoxview-history-empty-header = Wróćće so tam, hdźež sće był
 firefoxview-history-empty-description = Mjeztym zo přehladujeće, so strony, kotrež wopytujeće, tu nalistuja.
 firefoxview-history-empty-description-two = Škit wašeje priwatnosće je naša dušina naležnosć. Tohodla móžeće aktiwitu,  na kotruž so { -brand-short-name } dopomina, we wašich <a data-l10n-name="history-settings-url">nastajenjach historije</a> wodźić.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Waš slěd přehladowanja so tu započina
 
 ##
 

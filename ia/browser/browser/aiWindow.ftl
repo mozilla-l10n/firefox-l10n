@@ -198,6 +198,35 @@ aiwindow-close-sidebar =
     .aria-label = Clauder
     .tooltiptext = Clauder
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Altere optiones
+    .tooltiptext = Altere optiones
+aiwindow-history-menu-chat-history = Chronologia del chat
+aiwindow-history-menu-back =
+    .aria-label = Retro
+    .tooltiptext = Retro
+aiwindow-history-menu-view-all-chats = Vider tote le chats
+aiwindow-history-menu-settings = Configurationes de { -smart-window-brand-name }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Nove chat
+aiwindow-fullpage-chat-history =
+    .label = Chronologia del chat
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Plus
+    .title = Plus
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Datos synchronisate remanera in tu conto. Le { -smart-window-brand-name(plural-form: "ver") } aperte sera convertite al fenestras classic.

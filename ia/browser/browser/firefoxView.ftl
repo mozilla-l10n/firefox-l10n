@@ -44,6 +44,7 @@ firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
 firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de compartir schedas inter apparatos.
 firefoxview-tabpickup-synctabs-learn-how = Apprender como
 firefoxview-tabpickup-synctabs-primarybutton = Synchronisar le schedas aperte
+firefoxview-tabpickup-synctabs-primarybutton-2 = Activar synchronisation schedas
 firefoxview-syncedtabs-synctabs-header = Actualisa tu parametros de synchronisation
 firefoxview-syncedtabs-synctabs-description = Pro vider schedas ab un altere apparato tu debe synchronisar le schedas aperte.
 firefoxview-syncedtabs-loading-header = Synchronisation in curso
@@ -221,6 +222,8 @@ firefoxview-choose-browser-button = Seliger le navigator
 
 firefoxview-dont-remember-history-empty-header-2 = Tu es al commando de cosa { -brand-short-name } rememora
 firefoxview-dont-remember-history-empty-description-one = Justo ora, { -brand-short-name } non memorara activitate de tu navigation. Pro cambiar isto, <a data-l10n-name="history-settings-url-two">actualisa le parametros de tu chronologia</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Tu navigation non sera registrate
 
 ##
 

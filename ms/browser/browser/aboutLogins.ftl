@@ -296,3 +296,120 @@ about-logins-breach-alert-link = Pergi ke { $hostname }
 
 about-logins-vulnerable-alert-title = Kata laluan terdedah
 about-logins-vulnerable-alert-text2 = Kata laluan ini telah digunakan pada akaun lain yang berkemungkinan terlibat dalam bocoran data. Penggunaan semula kelayakan membahayakan semua akaun anda. Ubah kata laluan ini.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Pergi ke { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Ketahui lebih lanjut
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Entri untuk { $loginTitle } dengan nama pengguna itu sudah wujud. <a data-l10n-name="duplicate-link">Pergi ke entri sedia ada?</a>
+# This is a generic error message.
+about-logins-error-message-default = Ralat berlaku ketika cuba menyimpan kata laluan ini.
+
+## Login Export Dialog
+
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Eksport Fail Log Masuk
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Eksport Kata Laluan daripada { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
+about-logins-export-file-picker-export-button = Eksport
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokumen CSV
+       *[other] Fail CSV
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Import Fail Log Masuk
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Import Kata Laluan ke { -brand-short-name }
+about-logins-import-file-picker-import-button = Import
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokumen CSV
+       *[other] Fail CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokumen TSV
+       *[other] Fail TSV
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Selesai Mengimport
+about-logins-import-dialog-items-added = <span>Log masuk baharu ditambah:</span> <span data-l10n-name="count"> { $count } </span>
+about-logins-import-dialog-items-modified = <span>Log masuk sedia ada dikemas kini:</span> <span data-l10n-name="count"> { $count } </span>
+about-logins-import-dialog-items-no-change = <span>Log masuk pendua dijumpai:</span> <span data-l10n-name="count"> { $count } </span> <span data-l10n-name="meta">(tidak diimport)</span>
+about-logins-import-dialog-items-added2 = <span>Kata laluan baharu ditambah:</span> <span data-l10n-name="count"> { $count } </span>
+about-logins-import-dialog-items-modified2 = <span>Entri sedia ada dikemas kini:</span> <span data-l10n-name="count"> { $count } </span>
+about-logins-import-dialog-items-no-change2 = <span>Entri pendua dijumpai:</span> <span data-l10n-name="count"> { $count } </span> <span data-l10n-name="meta">(tidak diimport)</span>
+about-logins-import-dialog-items-error = <span> Ralat: </span> <span data-l10n-name="count"> { $count } </span> <span data-l10n-name="meta"> (tidak diimport) </span>
+about-logins-import-dialog-done = Selesai
+about-logins-import-dialog-error-title = Ralat Import
+about-logins-import-dialog-error-conflicting-values-title = Pelbagai Nilai Bercanggah untuk Satu Log Masuk
+about-logins-import-dialog-error-conflicting-values-description = Contohnya: pelbagai nama pengguna, kata laluan, URL, dll. untuk satu log masuk.
+about-logins-import-dialog-error-file-format-title = Isu Format Fail
+about-logins-import-dialog-error-file-format-description = Tajuk lajur tidak betul atau tiada. Pastikan fail mengandungi lajur untuk nama pengguna, kata laluan dan URL.
+about-logins-import-dialog-error-file-permission-title = Tidak dapat membaca fail
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } tidak mempunyai keizinan untuk membaca fail. Cuba ubah keizinan fail.
+about-logins-import-dialog-error-unable-to-read-title = Fail Tidak Dapat Dihurai
+about-logins-import-dialog-error-unable-to-read-description = Pastikan anda memilih fail CSV atau TSV.
+about-logins-import-dialog-error-no-logins-imported = Tiada log masuk diimport.
+about-logins-import-dialog-error-learn-more = Ketahui Selanjutnya
+about-logins-import-dialog-error-try-import-again = Cuba import lagi…
+about-logins-import-dialog-error-cancel = Batal
+about-logins-import-report-title = Ringkasan Import
+about-logins-import-report-description = Log masuk dan kata laluan diimport ke { -brand-short-name }.
+about-logins-import-report-description2 = Kata laluan diimport ke { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Baris { $number }
+about-logins-import-report-row-description-no-change = Pendua: Padanan tepat dengan log masuk sedia ada.
+about-logins-import-report-row-description-modified = Log masuk sedia ada dikemas kini
+about-logins-import-report-row-description-added = Log masuk baharu ditambah
+about-logins-import-report-row-description-no-change2 = Pendua: Padanan tepat dengan entri sedia ada
+about-logins-import-report-row-description-modified2 = Entri sedia ada dikemas kini
+about-logins-import-report-row-description-added2 = Kata laluan baharu ditambah
+about-logins-import-report-row-description-error = Ralat: Tiada medan
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Ralat: Pelbagai nilai untuk { $field }
+about-logins-import-report-row-description-error-missing-field = Ralat: Tiada { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added = <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Log masuk baharu ditambah </div>
+about-logins-import-report-modified = <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Log masuk sedia ada dikemas kini </div>
+about-logins-import-report-no-change = <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Log masuk pendua </div> <div data-l10n-name="not-imported"> (tidak diimport) </div>
+about-logins-import-report-added2 = <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Kata laluan baharu ditambah </div>
+about-logins-import-report-modified2 = <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Entri sedia ada dikemas kini </div>
+about-logins-import-report-no-change2 = <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Entri pendua </div> <div data-l10n-name="not-imported"> (tidak diimport) </div>
+about-logins-import-report-error = <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Ralat </div> <div data-l10n-name="not-imported"> (tidak diimport) </div>

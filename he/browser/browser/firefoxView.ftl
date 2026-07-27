@@ -30,6 +30,9 @@ firefoxview-tabpickup-step-signin-description = כדי לקבל כאן את הל
 firefoxview-tabpickup-step-signin-primarybutton = המשך
 firefoxview-syncedtabs-signin-header-2 = ה־{ -brand-product-name } שלך בכל המכשירים שלך
 firefoxview-syncedtabs-signin-description-2 = כדי לראות לשוניות שפתחת בטלפון ובמכשירים האחרים שלך, יש להיכנס או להירשם לחשבון. עם חשבון, באפשרותך גם לסנכרן את הססמאות, ההיסטוריה שלך ועוד.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = מעבר מהמחשב הנייד לטלפון, בצורה חלקה
+firefoxview-syncedtabs-signin-description-3 = ניתן לשמור על רצף הגלישה בין המכשירים - לשוניות, ססמאות והיסטוריה, הכל מסונכרן.
 firefoxview-syncedtabs-signin-primarybutton-2 = כניסה
 firefoxview-tabpickup-adddevice-header = סנכרון { -brand-product-name } בטלפון או במחשב לוח שלך
 firefoxview-tabpickup-adddevice-description = יש להוריד את { -brand-product-name } לנייד ולהתחבר שם.
@@ -38,22 +41,37 @@ firefoxview-tabpickup-adddevice-primarybutton = קבלת { -brand-product-name }
 firefoxview-syncedtabs-adddevice-header-2 = לקבל את הלשוניות מכל מקום
 firefoxview-syncedtabs-adddevice-description-2 = יש להתחבר ל־{ -brand-product-name } בטלפון שלך או במחשב אחר כדי לראות לשוניות כאן. מידע נוסף על <a data-l10n-name="url">חיבור מכשירים נוספים</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = קבלת { -brand-product-name } לנייד
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = הלשוניות שלך התקשרו. הם בטלפון שלך.
+firefoxview-syncedtabs-adddevice-description-3 = יש לסרוק את קוד ה־QR כדי לקבל את { -brand-product-name } לנייד ולהתחיל לסנכרן את הלשוניות הפתוחות שלך ועוד. מידע נוסף על <a data-l10n-name="url">חיבור מכשירים נוספים</a>.
 firefoxview-tabpickup-synctabs-header = הפעלת סנכרון לשוניות
 firefoxview-tabpickup-synctabs-description = יש לאפשר ל־{ -brand-short-name } לשתף לשוניות בין מכשירים.
 firefoxview-tabpickup-synctabs-learn-how = מידע נוסף
 firefoxview-tabpickup-synctabs-primarybutton = סנכרון לשוניות פתוחות
+firefoxview-tabpickup-synctabs-primarybutton-2 = הפעלת סנכרון לשוניות
 firefoxview-syncedtabs-synctabs-header = עדכון הגדרות הסנכרון שלך
 firefoxview-syncedtabs-synctabs-description = כדי לראות לשוניות ממכשירים אחרים, יש לסנכרן את הלשוניות הפתוחות שלך.
+firefoxview-syncedtabs-synctabs-header-2 = סנכרון הלשוניות כבוי
+firefoxview-syncedtabs-synctabs-description-2 = ניתן להפעיל את הסנכרון כדי לקבל את כל הלשוניות שלך משאר המכשירים.
 firefoxview-syncedtabs-loading-header = סנכרון בתהליך
 firefoxview-syncedtabs-loading-description = כשהסנכרון יסתיים, כל הלשוניות הפתוחות שיש לך במכשירים אחרים יוצגו כאן. נא לבדוק שוב בקרוב.
+firefoxview-syncedtabs-loading-header-2 = בתהליך אחזור הלשוניות שלך…
+firefoxview-syncedtabs-loading-description-2 = הסנכרון בתהליך. הלשוניות יהיו כאן בקרוב.
 firefoxview-tabpickup-fxa-admin-disabled-header = הארגון שלך השבית את הסנכרון
 firefoxview-tabpickup-fxa-admin-disabled-description = אין באפשרות { -brand-short-name } לסנכרן לשוניות בין מכשירים מכיוון שמנהל המערכת שלך השבית את האפשרות לסנכרון.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = אין באפשרות { -brand-short-name } לסנכרן לשוניות בין מכשירים מכיוון שהארגון שלך השבית את האפשרות לסנכרון.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = סנכרון הלשוניות כבוי
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = הארגון שלך חסם תכונה זו.
 firefoxview-tabpickup-network-offline-header = יש לבדוק את חיבור האינטרנט שלך
 firefoxview-tabpickup-network-offline-description = אם המחשב שלך משתמש בחומת אש או מתווך, יש לבדוק של־{ -brand-short-name } יש הרשאה לגשת לרשת.
 firefoxview-tabpickup-network-offline-primarybutton = ניסיון חוזר
+firefoxview-tabpickup-network-offline-header-2 = ‏{ -brand-short-name } לא יכול להתחבר כרגע
+firefoxview-tabpickup-network-offline-description-2 = ייתכן שהינך במצב לא מקוון, או שמשהו חוסם את החיבור.
 firefoxview-tabpickup-sync-error-header = אנו נתקלים בבעיות בסנכרון
 firefoxview-tabpickup-generic-sync-error-description = ‏{ -brand-short-name } לא יכול להגיע לשירות הסנכרון כרגע. נא לנסות שוב בעוד מספר רגעים.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = הסנכרון נתקל בבעיה
+firefoxview-tabpickup-generic-sync-error-description-2 = ‏{ -brand-short-name } לא הצליח להתחבר. נא לנסות כמה רגעים ולנסות שוב
 firefoxview-tabpickup-sync-error-primarybutton = ניסיון חוזר
 firefoxview-tabpickup-sync-disconnected-header = יש להפעיל סנכרון כדי להמשיך
 firefoxview-tabpickup-sync-disconnected-description = כדי לקבל את הלשוניות שלך, יהיה עליך לאפשר סנכרון ב־{ -brand-short-name }.
@@ -63,10 +81,14 @@ firefoxview-tabpickup-password-locked-description = כדי לקבל את הלש�
 firefoxview-tabpickup-password-locked-link = מידע נוסף
 firefoxview-tabpickup-password-locked-primarybutton = נא להכניס את הססמה הראשית
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">מידע נוסף</a>
+firefoxview-tabpickup-password-locked-header-2 = ביטול נעילת הלשוניות באמצעות הססמה הראשית שלך
+firefoxview-tabpickup-password-locked-description-2 = למען הפרטיות שלך, הלשוניות המסונכרנות מוגנות. נא להכניס את הססמה הראשית שלך ב־{ -brand-short-name } כדי לראות את הלשוניות משאר המכשירים שלך.
 firefoxview-tabpickup-signed-out-header = יש להיכנס כדי להתחבר מחדש
 firefoxview-tabpickup-signed-out-description = כדי להתחבר מחדש ולקבל את הלשוניות שלך, יש להיכנס אל { -fxaccount-brand-name(case: "the") } שלך.
 firefoxview-tabpickup-signed-out-description2 = כדי להתחבר מחדש ולקבל את הלשוניות שלך, יש להיכנס לחשבון שלך.
 firefoxview-tabpickup-signed-out-primarybutton = כניסה
+firefoxview-tabpickup-signed-out-header-2 = כניסה לצפייה בלשוניות שלך
+firefoxview-tabpickup-signed-out-description-2 = יש להתחבר מחדש כדי לצפות בלשוניות משאר המכשירים שלך.
 firefoxview-tabpickup-syncing = נא להמתין בזמן שהלשוניות שלך מסתנכרנות. זה יקח ממש רגע.
 firefoxview-mobile-promo-header = קבלת לשוניות מהטלפון או למחשב הלוח שלך
 firefoxview-mobile-promo-description = כדי לצפות בלשוניות האחרונות שלך מהנייד, יש להתחבר ל־{ -brand-product-name } ב־iOS או ב־Android.
@@ -204,6 +226,10 @@ firefoxview-show-all-history = הצגת כל ההיסטוריה
 firefoxview-history-empty-header = חזרה למקום שבו היית
 firefoxview-history-empty-description = תוך כדי גלישה, הדפים שבהם ביקרת יופיעו כאן.
 firefoxview-history-empty-description-two = ליבת העשייה שלנו היא להגן על הפרטיות שלך. זוהי הסיבה שבאפשרותך לשלוט בפעילות ש־{ -brand-short-name } זוכר, ב<a data-l10n-name="history-settings-url">הגדרות ההיסטוריה</a> שלך.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = כאן יתחיל מסלול הגלישה שלך
+firefoxview-history-empty-description-2 = כאן תופיע היסטוריית הגלישה. אפשר לקבוע מה יישמר ב<a data-l10n-name="history-settings-url">הגדרות</a>.
 
 ##
 
@@ -215,6 +241,9 @@ firefoxview-choose-browser-button = בחירת דפדפן
 
 firefoxview-dont-remember-history-empty-header-2 = באפשרותך לשלוט על מה ש־{ -brand-short-name } יזכור
 firefoxview-dont-remember-history-empty-description-one = כרגע, { -brand-short-name } לא זוכר את פעילות הגלישה שלך. כדי לשנות זאת, יש <a data-l10n-name="history-settings-url-two">לעדכן את הגדרות ההיסטוריה שלך</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = היסטוריית הגלישה לא תישמר
+firefoxview-dont-remember-history-empty-description-2 = ‏{ -brand-short-name } לא שומר את ההיסטוריה שלך כרגע. ניתן לשנות זאת בכל עת ב<a data-l10n-name="history-settings-url-two">הגדרות</a>.
 
 ##
 
