@@ -9,7 +9,7 @@ urlbar-translations-button =
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
 urlbar-translations-button2 =
-    .tooltiptext = Traduire cette page - Bêta
+    .tooltiptext = Traduire cette page - Beta
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =

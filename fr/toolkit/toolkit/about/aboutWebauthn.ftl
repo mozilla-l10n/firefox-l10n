@@ -107,7 +107,7 @@ about-webauthn-auth-option-alwaysuv = Toujours exiger une vérification de l’u
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
-about-webauthn-auth-option-false = Faux
+about-webauthn-auth-option-false = False
 # If the value is missing (null), it means a certain feature is not supported.
 about-webauthn-auth-option-null = Non pris en charge
 

@@ -115,8 +115,8 @@ places-show-in-folder =
 places-delete-bookmark =
     .label =
         { $count ->
-            [one] Supprimer le marque page
-           *[other] Supprimer les marques pages
+            [one] Supprimer le marque-page
+           *[other] Supprimer les marque-pages
         }
     .accesskey = S
 # Variables:
