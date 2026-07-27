@@ -757,8 +757,8 @@ urlbar-placeholder-search-mode-other-bookmarks =
     .aria-label = Lesezeichen durchsuchen
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
+    .aria-label = Chronik durchsuchen
     .placeholder = Suchbegriffe eingeben
-    .aria-label = Verlauf durchsuchen
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Suchbegriffe eingeben

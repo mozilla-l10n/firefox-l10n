@@ -15,8 +15,8 @@ psmerr-hostreusedissuerandserial =
     Sie haben ein ungültiges Zertifikat erhalten. Bitte kontaktieren Sie den Server-Administrator oder E-Mail-Korrespondenten und geben Sie diesen die folgenden Informationen:
     
     Ihr Zertifikat enthält die gleiche Seriennummer wie ein anderes Zertifikat dieser Zertifizierungsstelle. Bitte erwerben Sie ein neues Zertifikat mit einer eindeutigen Seriennummer.
-ssl-error-export-only-server = Sichere Kommunikation ist nicht möglich.  Die Gegenstelle unterstützt keine hochgradige Verschlüsselung.
-ssl-error-us-only-server = Sichere Kommunikation ist nicht möglich.  Die Gegenstelle benötigt eine hochgradige Verschlüsselung, die nicht unterstützt wird.
+ssl-error-export-only-server = Sichere Kommunikation ist nicht möglich. Die Gegenstelle unterstützt keine hochgradige Verschlüsselung.
+ssl-error-us-only-server = Sichere Kommunikation ist nicht möglich. Die Gegenstelle benötigt eine hochgradige Verschlüsselung, die nicht unterstützt wird.
 ssl-error-no-cypher-overlap = Sichere Kommunikation mit der Gegenstelle ist nicht möglich: Keine gemeinsamen Verschlüsselungsalgorithmen.
 ssl-error-no-certificate = Zertifikat oder Schlüssel für die Authentifizierung kann nicht gefunden werden.
 ssl-error-bad-certificate = Sichere Kommunikation mit der Gegenstelle ist nicht möglich: Das Zertifikat der Gegenstelle wurde abgelehnt.
