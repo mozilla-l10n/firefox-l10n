@@ -54,7 +54,7 @@ migration-imported-edge-reading-list = Leseliste (von Edge)
 
 migration-no-permissions-message = { -brand-short-name } hat keinen Zugriff auf die Profile anderer Browser, die auf diesem Gerät installiert sind.
 migration-no-permissions-instructions = Um mit dem Importieren von Daten aus einem anderen Browser fortzufahren, müssen Sie { -brand-short-name } Zugriff auf seinen Profilordner gewähren.
-migration-no-permissions-instructions-step1 = Wähle "Fortsetzen"
+migration-no-permissions-instructions-step1 = Wählen Sie "Fortsetzen"
 # The second step in getting permissions to read data for the selected
 # browser type.
 #
@@ -198,7 +198,7 @@ migration-safari-password-import-post-sequoia-step4 = Wählen Sie die gespeicher
 migration-safari-password-import-steps-header = Um Safari-Passwörter zu importieren:
 migration-safari-password-import-step1 = Öffnen Sie in Safari das Menü "Safari" und gehen Sie zu Einstellungen > Passwörter
 migration-safari-password-import-step2 = Klicken Sie auf die <img data-l10n-name="safari-icon-3dots"/>-Schaltfläche und wählen Sie „Alle Passwörter exportieren“
-migration-safari-password-import-step3 = Speichere die Passwortdatei
+migration-safari-password-import-step3 = Speichern Sie die Passwortdatei
 migration-safari-password-import-step4 = Wählen Sie unten "Datei auswählen", um die gespeicherte Passwortdatei zu verwenden
 migration-chrome-windows-password-import-header = So importieren Sie Passwörter aus Chrome
 migration-chrome-windows-password-import-steps-header = In Chrome:
