@@ -71,6 +71,7 @@ firefoxview-tabpickup-sync-error-header = Mamy problemy ze synchronizaciju
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } njemóže tuchwilu synchronizowansku słužbu docpěć. Spytajće za někotre wokomiki hišće raz.
 # “Sync hit a snag” means that the sync process is having a problem and can’t connect.
 firefoxview-tabpickup-sync-error-header-2 = Synchronizacija je na problem storčiła
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } njemóžeše zwjazać. Čakajće wokomik a spytajće potom hišće raz.
 firefoxview-tabpickup-sync-error-primarybutton = Hišće raz spytać
 firefoxview-tabpickup-sync-disconnected-header = Zmóžńće synchronizaciju, zo byšće pokročował
 firefoxview-tabpickup-sync-disconnected-description = Za přistup k swojim rajtarkam dyrbiće synchronizaciju w { -brand-short-name } dowolić.
@@ -80,11 +81,14 @@ firefoxview-tabpickup-password-locked-description = Za přistup k swojim rajtark
 firefoxview-tabpickup-password-locked-link = Dalše informacije
 firefoxview-tabpickup-password-locked-primarybutton = Hłowne hesło zapodać
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Dalše informacije</a>
+firefoxview-tabpickup-password-locked-header-2 = Wotblokujće rajtarki ze swojim hłownym hesłom
+firefoxview-tabpickup-password-locked-description-2 = Synchronizowane rajtarki so za wašu priwatnosć škitaja. Zapodajće swoje hłowne hesło { -brand-short-name }, zo byšće rajtarki ze swojich druhich gratow widźał.
 firefoxview-tabpickup-signed-out-header = Přizjewće so, zo byšće zaso zwjazał
 firefoxview-tabpickup-signed-out-description = Zo byšće so zaso zwjazował a přistup k swojim rajtarkam měł, přizjewće so pola swojeho { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Zo byšće so zaso zwjazował a přistup k swojim rajtarkam měł, přizjewće so pola swojeho konta.
 firefoxview-tabpickup-signed-out-primarybutton = Přizjewić
 firefoxview-tabpickup-signed-out-header-2 = Přizjewće so, zo byšće swoje rajtarki widźał
+firefoxview-tabpickup-signed-out-description-2 = Zwjazajće znowa, zo byšće rajtarki z druhich gratow pokazał.
 firefoxview-tabpickup-syncing = Wočakajće, mjeztym zo so waše rajtarki synchronizuja. Budźe jenož wokomik trać.
 firefoxview-mobile-promo-header = Wobstarajće sej rajtarki ze swojeho šmóratka abo tableta
 firefoxview-mobile-promo-description = Zo byšće sej swoje najnowše mobilne rajtarki wobhladował, přizjewće so pola { -brand-product-name } na iOS abo Android.

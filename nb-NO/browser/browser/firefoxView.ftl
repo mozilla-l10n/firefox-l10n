@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-description = For å få tilgang til fanen
 firefoxview-tabpickup-password-locked-link = Les mer
 firefoxview-tabpickup-password-locked-primarybutton = Skriv inn hovedpassordet
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Les mer</a>
+firefoxview-tabpickup-password-locked-header-2 = Lås opp faner med hovedpassordet ditt
 firefoxview-tabpickup-signed-out-header = Logg inn for å koble til på nytt
 firefoxview-tabpickup-signed-out-description = For å koble til igjen og få tak i fanene dine, logg in på din { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = For å koble til igjen og få tak i fanene dine, logg in på kontoen din.
@@ -221,6 +222,8 @@ firefoxview-choose-browser-button = Velg nettleser
 
 firefoxview-dont-remember-history-empty-header-2 = Du har kontroll over hva { -brand-short-name } husker
 firefoxview-dont-remember-history-empty-description-one = Akkurat nå husker ikke { -brand-short-name } nettlesingsaktiviteten din. For å endre det, <a data-l10n-name="history-settings-url-two">oppdater historikkinnstillingene dine</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Du etterlater ingen spor
 
 ##
 
