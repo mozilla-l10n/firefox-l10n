@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = Meld jo earst oan of meitsje in 
 firefoxview-tabpickup-step-signin-primarybutton = Trochgean
 firefoxview-syncedtabs-signin-header-2 = Jo { -brand-product-name } op al jo apparaten
 firefoxview-syncedtabs-signin-description-2 = Meld jo oan of registrearje jo foar in account om op jo telefoan en oare apparaten iepene ljepblêden te sjen. Mei in account kinne jo ek jo wachtwurden, skiednis en mear syngronisearje.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Fan laptop nei telefoan, naadleas
 firefoxview-syncedtabs-signin-primarybutton-2 = Oanmelde
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } op jo telefoan of tablet syngronisearje
 firefoxview-tabpickup-adddevice-description = Download { -brand-product-name } foar mobyl en meld jo dêr oan.

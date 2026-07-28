@@ -621,3 +621,8 @@ smartwindow-sidebar-auto-open-callout-accepted-title = 將維持關閉助理功�
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = 在任何頁面使用「詢問」功能即可開啟。您隨時可以在<a data-l10n-name="settings">設定</a>修改此設定。
 smartwindow-sidebar-auto-open-callout-rejected-title = 知道了！
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = 若您改變心意，可隨時到<a data-l10n-name="settings">設定</a>更改預設值。
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = 挑選佈景主題
+onboarding-theme-picker-button-label = 儲存並繼續

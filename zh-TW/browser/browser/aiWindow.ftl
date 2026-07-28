@@ -198,6 +198,35 @@ aiwindow-close-sidebar =
     .aria-label = 關閉
     .tooltiptext = 關閉
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = 更多選項
+    .tooltiptext = 更多選項
+aiwindow-history-menu-chat-history = 聊天紀錄
+aiwindow-history-menu-back =
+    .aria-label = 返回
+    .tooltiptext = 返回
+aiwindow-history-menu-view-all-chats = 檢視所有聊天記錄
+aiwindow-history-menu-settings = { -smart-window-brand-name }設定
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = 新增聊天對話
+aiwindow-fullpage-chat-history =
+    .label = 聊天紀錄
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = 更多
+    .title = 更多
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = 已同步的資料仍會保留於您的帳號中。目前開啟的{ -smart-window-brand-name(plural-form: "true") }將切換至傳統視窗。

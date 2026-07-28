@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = 請先登入或註冊帳號，�
 firefoxview-tabpickup-step-signin-primarybutton = 繼續
 firefoxview-syncedtabs-signin-header-2 = 在您所有裝置同步 { -brand-product-name }
 firefoxview-syncedtabs-signin-description-2 = 登入或註冊帳號後，即可在您的手機或其他裝置檢視您開啟的分頁。可以使用帳號同步網站密碼、上網紀錄，還有更多功能。
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = 從筆電到手機無縫接軌
 firefoxview-syncedtabs-signin-primarybutton-2 = 登入
 firefoxview-tabpickup-adddevice-header = 與您的手機或平板電腦同步 { -brand-product-name }
 firefoxview-tabpickup-adddevice-description = 下載 { -brand-product-name } 行動版並在該裝置登入。
@@ -44,18 +46,28 @@ firefoxview-tabpickup-synctabs-header = 開啟分頁同步
 firefoxview-tabpickup-synctabs-description = 允許 { -brand-short-name } 在不同裝置間分享分頁。
 firefoxview-tabpickup-synctabs-learn-how = 了解要怎麼做
 firefoxview-tabpickup-synctabs-primarybutton = 同步開啟的分頁
+firefoxview-tabpickup-synctabs-primarybutton-2 = 開啟分頁同步
 firefoxview-syncedtabs-synctabs-header = 更新同步設定
 firefoxview-syncedtabs-synctabs-description = 需要同步開啟的分頁，才能看到您其他裝置上的分頁。
+firefoxview-syncedtabs-synctabs-header-2 = 分頁同步已關閉
 firefoxview-syncedtabs-loading-header = 正在同步
 firefoxview-syncedtabs-loading-description = 同步完成後就會看到您其他裝置上開啟的分頁，請稍候再回來。
+firefoxview-syncedtabs-loading-header-2 = 正在取回您的分頁…
+firefoxview-syncedtabs-loading-description-2 = 分頁同步中，同步完成後將顯示於此處。
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的組織已停用同步功能
 firefoxview-tabpickup-fxa-admin-disabled-description = 由於您的管理員已停用同步功能，{ -brand-short-name } 無法在裝置間同步分頁。
 firefoxview-tabpickup-fxa-disabled-by-policy-description = 由於您的組織已停用同步功能，{ -brand-short-name } 無法在裝置間同步分頁。
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = 分頁同步已關閉
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = 您的組織已封鎖此功能。
 firefoxview-tabpickup-network-offline-header = 請檢查您的網際網路連線是否正常
 firefoxview-tabpickup-network-offline-description = 若您在防火牆或代理伺服器後面，請確認 { -brand-short-name } 可連線至網際網路。
 firefoxview-tabpickup-network-offline-primarybutton = 重試
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } 目前無法連線
 firefoxview-tabpickup-sync-error-header = 同步時遇到問題
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } 暫時無法連線到同步服務，請稍候幾分鐘再試一次。
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = 同步功能遇到問題
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } 無法連線，請稍候再試一次
 firefoxview-tabpickup-sync-error-primarybutton = 再試一次
 firefoxview-tabpickup-sync-disconnected-header = 開啟同步功能即可繼續
 firefoxview-tabpickup-sync-disconnected-description = 若要取得您的分頁，需要先在 { -brand-short-name } 開啟同步功能。
@@ -65,10 +77,12 @@ firefoxview-tabpickup-password-locked-description = 若要取得您的分頁，�
 firefoxview-tabpickup-password-locked-link = 了解更多
 firefoxview-tabpickup-password-locked-primarybutton = 輸入主控密碼
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">了解更多</a>
+firefoxview-tabpickup-password-locked-header-2 = 使用您的主控密碼解鎖分頁
 firefoxview-tabpickup-signed-out-header = 登入即可重新連線
 firefoxview-tabpickup-signed-out-description = 登入 { -fxaccount-brand-name } 即可重新連線並取回分頁。
 firefoxview-tabpickup-signed-out-description2 = 登入帳號即可重新連線並取回分頁。
 firefoxview-tabpickup-signed-out-primarybutton = 登入
+firefoxview-tabpickup-signed-out-header-2 = 登入即可檢視您的分頁
 firefoxview-tabpickup-syncing = 稍等分頁進行同步，只要一下下即可。
 firefoxview-mobile-promo-header = 在手機或平板電腦接收分頁
 firefoxview-mobile-promo-description = 若要檢視您最新的行動分頁，請登入 iOS 或 Android 上的 { -brand-product-name }。
@@ -206,6 +220,9 @@ firefoxview-show-all-history = 顯示所有瀏覽記錄
 firefoxview-history-empty-header = 回到曾經去過的地方
 firefoxview-history-empty-description = 隨您上網，造訪過的頁面將顯示於此處。
 firefoxview-history-empty-description-two = 保護您的隱私是我們的第一要務。這也是為什麼您可以在<a data-l10n-name="history-settings-url">瀏覽紀錄設定</a>中自行設定要讓 { -brand-short-name } 記得哪些瀏覽行為。
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = 您的瀏覽紀錄從這裡開始
 
 ##
 
@@ -217,6 +234,8 @@ firefoxview-choose-browser-button = 選擇瀏覽器
 
 firefoxview-dont-remember-history-empty-header-2 = 您可以自行掌控 { -brand-short-name } 要記得哪些資訊
 firefoxview-dont-remember-history-empty-description-one = 目前 { -brand-short-name } 不會記憶您的上網行為，若要調整這個行為，請<a data-l10n-name="history-settings-url-two">更改瀏覽紀錄設定</a>。
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = 您的上網過程不會被記錄下來
 
 ##
 
