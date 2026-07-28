@@ -3,8 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
+smart-window-block-title = Želite onemogočiti možnost { -smart-window-brand-name }?
 smart-window-select-label =
     .label = { -smart-window-brand-name }
+ai-window-activate-link =
+    .label = Začni
+ai-window-personalize-button =
+    .label = Nastavitve možnosti { -smart-window-brand-name }
 smart-window-model-learn-link = Spoznajte modele
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
