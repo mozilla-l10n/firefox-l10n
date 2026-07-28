@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Zure telefonoko fitxak hemen iza
 firefoxview-tabpickup-step-signin-primarybutton = Jarraitu
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } zure gailu guztietan
 firefoxview-syncedtabs-signin-description-2 = Zure telefono eta bestelako gailuetan irekita dauzkazun fitxak ikusteko, hasi saioa edo eman izena kontu bat sortzeko. Kontu batekin pasahitzak, historia eta gehiago ere sinkronizatu ahal izango duzu.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Ordenagailu eramangarritik telefonora, di-da
+firefoxview-syncedtabs-signin-description-3 = Lotu zure nabigazioa gailuen artean — fitxak, pasahitzak eta historia, dena sinkronizatuta.
 firefoxview-syncedtabs-signin-primarybutton-2 = Hasi saioa
 firefoxview-tabpickup-adddevice-header = Sinkronizatu { -brand-product-name } zure telefono edo tabletan
 firefoxview-tabpickup-adddevice-description = Deskargatu mugikorrerako { -brand-product-name } eta hasi saioa bertan.
@@ -40,22 +43,37 @@ firefoxview-tabpickup-adddevice-primarybutton = Eskuratu mugikorrerako { -brand-
 firefoxview-syncedtabs-adddevice-header-2 = Hartu fitxak edonondik
 firefoxview-syncedtabs-adddevice-description-2 = Hemen fitxak ikusteko, hasi saioa { -brand-product-name }(e)n zure telefonoan edo beste ordenagailu batean. Ikasi nola <a data-l10n-name="url">konektatu gailu gehiago</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Probatu mugikorrerako { -brand-product-name }
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Zure fitxek deitu dute. Zure telefonoan daude.
+firefoxview-syncedtabs-adddevice-description-3 = Eskaneatu QR kodea mugikorrerako { -brand-product-name } eskuratu eta besteak beste irekitako zure fitxak sinkronizatzen hasteko. Ikasi nola <a data-l10n-name="url">konektatu gailu gehiago</a>.
 firefoxview-tabpickup-synctabs-header = Gaitu fitxen sinkronizazioa
 firefoxview-tabpickup-synctabs-description = Baimendu { -brand-short-name }(r)i gailuen artean fitxak partekatzea.
 firefoxview-tabpickup-synctabs-learn-how = Ikasi nola
 firefoxview-tabpickup-synctabs-primarybutton = Sinkronizatu irekitako fitxak
+firefoxview-tabpickup-synctabs-primarybutton-2 = Gaitu fitxen sinkronizazioa
 firefoxview-syncedtabs-synctabs-header = Eguneratu zure sinkronizazio-ezarpenak
 firefoxview-syncedtabs-synctabs-description = Beste gailuetako fitxak ikusteko, irekitako fitxak sinkronizatu behar dituzu.
+firefoxview-syncedtabs-synctabs-header-2 = Fitxen sinkronizazioa desgaituta dago
+firefoxview-syncedtabs-synctabs-description-2 = Gaitu fitxen sinkronizazioa beste gailuetako zure fitxa guztiak hartzeko.
 firefoxview-syncedtabs-loading-header = Sinkronizatzen ari da
 firefoxview-syncedtabs-loading-description = Amaitutakoan, beste gailuetan irekita dituzun fitxak ikusiko dituzu. Itzuli geroago.
+firefoxview-syncedtabs-loading-header-2 = Zure fitxak eskuratzen…
+firefoxview-syncedtabs-loading-description-2 = Sinkronizazioa lanean ari da. Fitxak laster izango dira hemen.
 firefoxview-tabpickup-fxa-admin-disabled-header = Zure erakundeak sinkronizazioa desgaitu du
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }(e)k ezin ditu gailuen arteko fitxak sinkronizatu zure administratzaileak sinkronizazioa desgaitu duelako.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name }(e)k ezin ditu gailuen arteko fitxak sinkronizatu zure erakundeak sinkronizazioa desgaitu duelako.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Fitxen sinkronizazioa desgaituta dago
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Zure erakundeak eginbide hau blokeatu du.
 firefoxview-tabpickup-network-offline-header = Egiaztatu zure Interneterako konexioa
 firefoxview-tabpickup-network-offline-description = Suebaki edo proxy bat erabiltzen baduzu, egiaztatu { -brand-short-name }(e)k weba atzitzeko baimena duela.
 firefoxview-tabpickup-network-offline-primarybutton = Saiatu berriro
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name }(e)k ezin du konektatu une honetan
+firefoxview-tabpickup-network-offline-description-2 = Lineaz kanpo egon zintezke edo zerbait konexioa blokeatzen egon liteke.
 firefoxview-tabpickup-sync-error-header = Sinkronizatzeko arazoak izaten ari gara
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name }(e)k ezin du sinkronizazio-zerbitzura heldu une honetan. Saiatu berriro geroago.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Sinkronizazioak oztopo batekin topo egin du
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name }(e)k ezin izan du konektatu. Emaiozu denboratxo bat eta saiatu berriro
 firefoxview-tabpickup-sync-error-primarybutton = Saiatu berriro
 firefoxview-tabpickup-sync-disconnected-header = Jarraitzeko, aktibatu sinkronizazioa
 firefoxview-tabpickup-sync-disconnected-description = Zure fitxak eskura izateko, sinkronizazioa gaitu behar duzu { -brand-short-name }(e)n.
@@ -65,10 +83,13 @@ firefoxview-tabpickup-password-locked-description = Zure fitxak eskura izateko, 
 firefoxview-tabpickup-password-locked-link = Argibide gehiago
 firefoxview-tabpickup-password-locked-primarybutton = Idatzi pasahitz nagusia
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Argibide gehiago</a>
+firefoxview-tabpickup-password-locked-header-2 = Desblokeatu fitxak zure pasahitz nagusiarekin
+firefoxview-tabpickup-password-locked-description-2 = Zure pribatutasunerako, sinkronizatutako fitxak babestuta daude. Idatzi zure { -brand-short-name } pasahitz nagusia zure beste gailuetako fitxak ikusteko.
 firefoxview-tabpickup-signed-out-header = Hasi saioa birkonektatzeko
 firefoxview-tabpickup-signed-out-description = Berriro konektatu eta zure fitxak hartzeko, hasi saioa zure { -fxaccount-brand-name }(e)n.
 firefoxview-tabpickup-signed-out-description2 = Berriro konektatu eta zure fitxak hartzeko, hasi saioa zure kontuan.
 firefoxview-tabpickup-signed-out-primarybutton = Hasi saioa
+firefoxview-tabpickup-signed-out-header-2 = Hasi saioa zure fitxak ikusteko
 firefoxview-tabpickup-syncing = Itxaron apur bat zure fitxak sinkronizatu bitartean. Une bat izango da soilik.
 firefoxview-mobile-promo-header = Hartu zure telefono edo tabletako fitxak
 firefoxview-mobile-promo-description = Zure mugikorreko azken fitxak ikusteko, hasi saioa iOS edo Androideko { -brand-product-name }(e)n.
