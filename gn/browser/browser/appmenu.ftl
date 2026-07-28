@@ -391,6 +391,7 @@ appmenu-profile-current-in-use = Mba’ete ag̃agua ojeporu
 fxa-menu-create-profile-subpanel =
     .title = Emoheñói mba’etee pyahu
 fxa-menu-create-profile-heading = Eikundaha porãve mba’ete pyahu ndive
+fxa-menu-create-profile-description = Ereko techaukaha, ñe’ẽñemi ha tembiasakue ojuhe’ỹ ne ñeikundaha teéva ha mba’apoguáva.
 fxa-menu-create-profile-confirm =
     .label = Emoheñói mba’ete pyahu
 fxa-menu-create-profile-learn-more =

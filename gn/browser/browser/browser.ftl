@@ -613,6 +613,7 @@ identity-description-passive-loaded-mixed2 = { -brand-short-name } ojokóramo je
 identity-description-active-loaded = Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (guiõramo) ha nde jeike pype naiñemíri.
 identity-description-active-loaded-insecure = Marandu remondóva ko kuatiaroguépe ikatu ohecha ambue tapicha (ñe’ẽñemíramo, ñe’ẽmondo, kuatia’atã ñemurã ha ambue).
 identity-description-tls-key-logging-heading = Nde jeike ikatuhína ndahekoñemíri
+identity-description-tls-key-logging-message = Tembiporu’i térã mba’eporurã ikatu ohecha jeike ipapapýva ko tenda rehegua.
 identity-disable-mixed-content-blocking =
     .label = Emboyke ñemo’ã sapy’aite
     .accesskey = D
@@ -1574,6 +1575,11 @@ private-browsing-indicator-label = Kundaha ñemigua
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Ñeikundaha ñemi
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Marandu kundaha ñemigua
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Eikehína peteĩ ovetã ñemíme
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
