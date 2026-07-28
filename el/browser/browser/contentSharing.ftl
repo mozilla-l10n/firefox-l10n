@@ -27,8 +27,8 @@ content-sharing-modal-sign-in-2 =
     .label = Συνδεθείτε για κοινή χρήση
 content-sharing-modal-title-2 = Μοιραστείτε αυτές τις σελίδες με οποιονδήποτε
 content-sharing-modal-title-signed-in = Οι σύνδεσμοί σας είναι έτοιμοι για κοινή χρήση
-content-sharing-modal-description-2 = Συνδεθείτε για να δημιουργία μιας σελίδα συνδέσμων για κοινή χρήση. Δεν είναι δυνατή η επεξεργασία ή η διαγραφή και λήγει μετά από 7 ημέρες.
-content-sharing-modal-description-signed-in = Δημιουργήσαμε μια εύκολη σελίδα με τους συνδέσμους σας για κοινή χρήση. Δεν είναι δυνατή η επεξεργασία ή η διαγραφή και λήγει μετά από 7 ημέρες.
+content-sharing-modal-description-2 = Συνδεθείτε για να δημιουργήσετε μια σελίδα συνδέσμων προς κοινή χρήση. Δεν είναι δυνατή η επεξεργασία ή η διαγραφή της και λήγει μετά από 7 ημέρες.
+content-sharing-modal-description-signed-in = Δημιουργήσαμε μια σελίδα με τους συνδέσμους σας, την οποία μπορείτε να κοινοποιήσετε εύκολα. Δεν είναι δυνατή η επεξεργασία ή η διαγραφή της και λήγει μετά από 7 ημέρες.
 content-sharing-modal-policy = Κάνοντας κοινοποίηση, συμφωνείτε με την <a data-l10n-name="aup-link">Πολιτική αποδεκτής χρήσης</a> μας
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
@@ -37,9 +37,6 @@ content-sharing-modal-too-many-links-2 =
     { $count ->
        *[other] Θα συμπεριληφθούν μόνο { $count } σύνδεσμοι
     }
-content-sharing-modal-no-shareable-links =
-    .heading = Δεν συμπεριλαμβάνονται σύνδεσμοι με δυνατότητα κοινής χρήσης
-    .message = Μόνο σύνδεσμοι για περιεχόμενο ιστού μπορούν να κοινοποιηθούν.
 # Variables:
 #   $count (Number) - The maximum number of pages a user can share at one time
 content-sharing-modal-too-many-pages =

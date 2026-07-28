@@ -431,7 +431,7 @@ quickactions-bookmarks2 = Διαχείριση σελιδοδεικτών
 quickactions-cmd-bookmarks = σελιδοδείκτες, αγαπημένα
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Απαλοιφή πρόσφατου ιστορικού
-quickactions-cmd-clearrecenthistory2 = cookies, διαγραφή cookies, κρυφή μνήμη, εκκαθάριση κρυφής μνήμης, δεδομένα περιήγησης, εκκαθάριση δεδομένων περιήγησης, ιστορικό, εκκαθάριση πρόσφατου ιστορικού
+quickactions-cmd-clearrecenthistory2 = cookie, cookies, διαγραφή cookie, εκκαθάριση cookie, κρυφή μνήμη, προσωρινή μνήμη, εκκαθάριση κρυφής μνήμης, διαγραφή κρυφής μνήμης, δεδομένα περιήγησης, εκκαθάριση δεδομένων περιήγησης, διαγραφή δεδομένων περιήγησης, ιστορικό, εκκαθάριση πρόσφατου ιστορικού, διαγραφή πρόσφατου ιστορικού
 quickactions-cmd-clearrecenthistory = απαλοιφή πρόσφατου ιστορικού, ιστορικό
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Απαλοιφή ιστορικού
@@ -1704,10 +1704,9 @@ popup-warning-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 redirect-warning-with-popup-message =
     { $popupCount ->
-        [0] Το { -brand-short-name } εμπόδισε την ανακατεύθυνση στον ιστότοπο.
-        [1] Το { -brand-short-name } εμπόδισε το άνοιγμα και την ανακατεύθυνση αναδυόμενου παραθύρου στον ιστότοπο.
-        [one] Το { -brand-short-name } εμπόδισε το άνοιγμα και την ανακατεύθυνση αναδυόμενου παραθύρου στον ιστότοπο.
-       *[other] Το { -brand-short-name } εμπόδισε το άνοιγμα και την ανακατεύθυνση { $popupCount } αναδυόμενων παραθύρων στον ιστότοπο.
+        [0] Το { -brand-short-name } εμπόδισε την ανακατεύθυνση από αυτόν τον ιστότοπο.
+        [1] Το { -brand-short-name } εμπόδισε το άνοιγμα ενός αναδυόμενου παραθύρου και την ανακατεύθυνση από αυτόν τον ιστότοπο.
+       *[other] Το { -brand-short-name } εμπόδισε το άνοιγμα { $popupCount } αναδυόμενων παραθύρων και την ανακατεύθυνση από αυτόν τον ιστότοπο.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
@@ -1717,8 +1716,7 @@ popup-warning-exceeded-message = Το { -brand-short-name } εμπόδισε τ�
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-with-redirect-message =
     { $popupCount ->
-        [one] Το { -brand-short-name } εμπόδισε το άνοιγμα και την ανακατεύθυνση { $popupCount } αναδυόμενου παραθύρου στον ιστότοπο.
-       *[other] Το { -brand-short-name } εμπόδισε το άνοιγμα και την ανακατεύθυνση περισσότερων από { $popupCount } αναδυόμενων παραθύρων στον ιστότοπο.
+       *[other] Το { -brand-short-name } εμπόδισε το άνοιγμα περισσότερων από { $popupCount } αναδυόμενων παραθύρων και την ανακατεύθυνση από αυτόν τον ιστότοπο.
     }
 popup-warning-button =
     .label =
