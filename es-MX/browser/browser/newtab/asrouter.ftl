@@ -179,7 +179,7 @@ mr2022-background-update-toast-secondary-button-label = Recordarme después
 ## Firefox View CFR
 
 firefoxview-cfr-primarybutton = Probar ahora
-    .accesskey = I
+    .accesskey = P
 firefoxview-cfr-secondarybutton = No, gracias
     .accesskey = n
 firefoxview-cfr-header-v2 = Continúa rápidamente donde lo dejaste
