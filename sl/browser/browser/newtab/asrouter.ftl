@@ -486,3 +486,14 @@ nova-early-access-share-feedback-link = Sporoči povratne informacije
     .accesskey = S
 nova-early-access-infobar-primary-button = Razumem
     .accesskey = z
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-pin-to-taskbar = Pripni v opravilno vrstico
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Shrani in zapri { -brand-short-name(sklon: "tozilnik") }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Shrani in nadaljuj
