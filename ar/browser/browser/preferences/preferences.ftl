@@ -1694,6 +1694,12 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = لم تُضاف أي عناوين
+passports-delete-passport-button-label =
+    .aria-label = احذف
+passports-edit-passport-button-label =
+    .aria-label = حرّر
+passports-delete-passport-prompt-confirm-button = احذف
+passports-delete-passport-prompt-cancel-button = ألغِ
 pane-passwords-autofill-title2 = كلمات السر والملء الآلي
     .title = كلمات السر والملء الآلي
 preferences-passwords-autofill-header =
