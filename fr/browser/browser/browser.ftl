@@ -1580,6 +1580,11 @@ private-browsing-indicator-label = Navigation privée
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Navigation privée
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informations sur la navigation privée
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Cette fenêtre de navigation est privée
 # Body copy shown in the private browsing info panel. The learn-more link text
 # is embedded in the sentence.
 private-browsing-info-panel-description = La navigation privée permet de masquer votre activité de navigation aux autres personnes qui utilisent cet appareil, mais elle ne vous rend pas invisible en ligne. <a data-l10n-name="learn-more">Qui pourrait voir mon activité ?</a>
