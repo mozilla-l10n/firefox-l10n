@@ -5,7 +5,7 @@
 restore-page-tab-title = Restaurar sesión
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
-restore-page-error-title = Lo sentimos. Tenemos problema para recuperar sus páginas.
+restore-page-error-title = Lo sentimos. Tenemos problemas para recuperar sus páginas.
 restore-page-problem-desc = Tenemos problemas para restaurar su última sesión de navegación. Seleccione Restaurar sesión para volver a intentarlo.
 restore-page-try-this = ¿Todavía no puede restaurar su sesión? A veces una pestaña causa el problema. Vea las pestañas anteriores, elimine la marca de las pestañas que no necesita recuperar, y luego restaure.
 restore-page-hide-tabs = Ocultar pestañas anteriores
@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = V
 welcome-back-restore-all-label = Restaurar todas las ventanas y pestañas
 welcome-back-restore-some-label = Restaurar solo las que desee
-welcome-back-page-info-link = Sus complementos y personalizaciones han sido eliminados y la configuración de su navegador se ha restaurado a los valores predeterminado. Si esto no arregla su problema, <a data-l10n-name="link-more">lea más sobre lo que puede hacer.</a>
+welcome-back-page-info-link = Sus complementos y personalizaciones han sido eliminados y la configuración de su navegador se ha restaurado a los valores predeterminados. Si esto no arregla su problema, <a data-l10n-name="link-more">lea más sobre lo que puede hacer.</a>

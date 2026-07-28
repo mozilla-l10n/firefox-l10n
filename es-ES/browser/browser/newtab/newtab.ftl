@@ -290,7 +290,7 @@ newtab-menu-report-this-ad = Informar sobre este anuncio
 newtab-privacy-modal-button-done = Hecho
 newtab-privacy-modal-button-manage = Administrar la configuración de contenido patrocinado
 newtab-privacy-modal-header = Su privacidad es importante.
-newtab-privacy-modal-paragraph-2 = Además de ofrecer historias cautivadoras, también le mostramos contenido relevante y altamente revisado de patrocinadores seleccionados. Tenga la seguridad de que, <strong>sus datos de navegación nunca dejan su copia personal de { -brand-product-name }</strong>: nosotros no los vemos y nuestros patrocinadores tampoco.
+newtab-privacy-modal-paragraph-2 = Además de ofrecer historias cautivadoras, también le mostramos contenido relevante y altamente revisado de patrocinadores seleccionados. Tenga la seguridad de que <strong>sus datos de navegación nunca dejan su copia personal de { -brand-product-name }</strong>: nosotros no los vemos y nuestros patrocinadores tampoco.
 newtab-privacy-modal-link = Conozca cómo funciona la privacidad en la nueva pestaña
 
 ##
@@ -378,7 +378,7 @@ newtab-section-header-todays-picks = Las selecciones de hoy para usted
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Empiece a navegar y nosotros le mostraremos aquí algunos de los mejores artículos, videos y otras páginas que haya visitado recientemente o agregado a marcadores.
+newtab-empty-section-highlights = Empiece a navegar y nosotros le mostraremos aquí algunos de los mejores artículos, vídeos y otras páginas que haya visitado recientemente o agregado a marcadores.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -418,7 +418,7 @@ newtab-pocket-thumbs-down-tooltip =
     .title = No es para mí
 # Used to show the user a message upon clicking the thumbs up or down buttons
 newtab-toast-thumbs-up-or-down2 =
-    .message = Gracias Su opinión nos ayudará a mejorar su canal.
+    .message = Gracias. Su opinión nos ayudará a mejorar su canal.
 newtab-toast-dismiss-button =
     .title = Descartar
     .aria-label = Descartar
@@ -618,7 +618,7 @@ newtab-wallpaper-celestial-earth-night = Foto nocturna desde la órbita baja de 
 newtab-wallpaper-celestial-starry-sky = Cielo estrellado
 newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse de un eclipse lunar
 newtab-wallpaper-celestial-black-hole = Ilustración de una galaxia con un agujero negro
-newtab-wallpaper-celestial-river = Imagen de satelite de un rio
+newtab-wallpaper-celestial-river = Imagen de satélite de un río
 
 ## New Tab Weather
 

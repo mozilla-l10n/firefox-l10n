@@ -102,7 +102,7 @@ browser-main-window-titles =
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name }  — Navegación privada
+    .data-title-private = { -brand-full-name } — Navegación privada
     .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
     .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navegación privada
     .data-content-title-default = { $content-title }
@@ -116,7 +116,7 @@ browser-main-window-default-title = { -brand-full-name }
 # "Private Browsing" suffix.
 browser-main-private-window-title =
     { PLATFORM() ->
-        [macos] { -brand-full-name }  — Navegación privada
+        [macos] { -brand-full-name } — Navegación privada
        *[other] { -brand-full-name } Navegación privada
     }
 # This is only used on macOS; on other OSes we use the full private window
@@ -1131,7 +1131,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Cerrar Picture-in-Picture ({ $shortcut })
 picture-in-picture-panel-header = Picture-in-Picture
 picture-in-picture-panel-headline = Este sitio web no recomienda Picture-in-Picture
-picture-in-picture-panel-body = Es posible que los videos no se muestren como el desarrollador pretendía mientras Picture-in-Picture está activado.
+picture-in-picture-panel-body = Es posible que los vídeos no se muestren como el desarrollador pretendía mientras Picture-in-Picture está activado.
 picture-in-picture-enable-toggle =
     .label = Activar de todos modos
 
@@ -1538,7 +1538,7 @@ firefox-relay-offer-why-to-use-relay = Nuestras máscaras seguras y fáciles de 
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Todos los correos electrónicos enviados a sus máscaras de correo electrónico se reenviarán a <strong>{ $useremail }</strong> (a menos que decida bloquearlos).
 firefox-relay-offer-legal-notice = Al hacer clic en “Usar máscara de correo electrónico”, acepta los <label data-l10n-name="tos-url">Términos del servicio</label> y el <label data-l10n-name="privacy-url">Aviso de privacidad </label>.
-firefox-relay-offer-legal-notice-1 = Al iniciar sesión y crear  una máscara de correo electrónico, acepta los <label data-l10n-name="tos-url">Términos del servicio</label> y el <label data-l10n-name="privacy-url">Aviso de privacidad</label>.
+firefox-relay-offer-legal-notice-1 = Al iniciar sesión y crear una máscara de correo electrónico, acepta los <label data-l10n-name="tos-url">Términos del servicio</label> y el <label data-l10n-name="privacy-url">Aviso de privacidad</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1607,14 +1607,14 @@ popup-trigger-redirect-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
-file-picker-failed-open = No se ha podido abrir el  diálogo de archivos de Windows. No se ha podido seleccionar ningún archivo o carpeta.
+file-picker-failed-open = No se ha podido abrir el diálogo de archivos de Windows. No se ha podido seleccionar ningún archivo o carpeta.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = No se ha podido abrir el diálogo de archivos de Windows. No se ha podido seleccionar ningún archivo o carpeta. El archivo se guardará en { $path }.
-file-picker-failed-save-nowhere = No se ha podido abrir el  diálogo de archivos de Windows.  No se ha podido encontrar ninguna carpeta predeterminada; el archivo no se guardará.
-file-picker-crashed-open = El  diálogo de archivos de Windows ha fallado. No se ha podido seleccionar ningún archivo o carpeta.
+file-picker-failed-save-nowhere = No se ha podido abrir el diálogo de archivos de Windows. No se ha podido encontrar ninguna carpeta predeterminada; el archivo no se guardará.
+file-picker-crashed-open = El diálogo de archivos de Windows ha fallado. No se ha podido seleccionar ningún archivo o carpeta.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
-file-picker-crashed-save-somewhere = El  diálogo de archivos de Windows ha fallado. El archivo se guardará en { $path }.
-file-picker-crashed-save-nowhere = El  diálogo de archivos de Windows ha fallado. No se ha podido encontrar ninguna carpeta predeterminada; el archivo no se guardará.
+file-picker-crashed-save-somewhere = El diálogo de archivos de Windows ha fallado. El archivo se guardará en { $path }.
+file-picker-crashed-save-nowhere = El diálogo de archivos de Windows ha fallado. No se ha podido encontrar ninguna carpeta predeterminada; el archivo no se guardará.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.

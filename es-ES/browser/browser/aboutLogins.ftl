@@ -25,11 +25,11 @@ fxaccounts-avatar-button =
 menu =
     .title = Abrir menú
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Importar desde otro navegador...
+about-logins-menu-menuitem-import-from-another-browser = Importar desde otro navegador…
 about-logins-menu-menuitem-import-from-a-file = Importar desde un archivo…
 about-logins-menu-menuitem-export-logins = Exportar inicios de sesión…
-about-logins-menu-menuitem-remove-all-logins = Eliminar todos los inicios de sesión...
-about-logins-menu-menuitem-export-logins2 = Exportar contraseñas...
+about-logins-menu-menuitem-remove-all-logins = Eliminar todos los inicios de sesión…
+about-logins-menu-menuitem-export-logins2 = Exportar contraseñas…
 about-logins-menu-menuitem-remove-all-logins2 = Eliminar todas las contraseñas…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -199,7 +199,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contraseña
 about-logins-export-password-os-auth-dialog-message-win = Para exportar sus inicios de sesión, introduzca sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = exportar usuarios y contraseñas guardadas
+about-logins-export-password-os-auth-dialog-message-macosx = exportar inicios de sesión y contraseñas guardadas
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Para exportar sus contraseñas, introduzca sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen when attempting to export a password in about:logins
@@ -337,7 +337,7 @@ about-logins-vulnerable-alert-learn-more-link = Saber más
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = Ya hay una entrada para { $loginTitle } con ese nombre de usuario. <a data-l10n-name="duplicate-link"> ¿Quiere ir a esa entrada? </a>
+about-logins-error-message-duplicate-login-with-link = Ya hay una entrada para { $loginTitle } con ese nombre de usuario. <a data-l10n-name="duplicate-link">¿Quiere ir a esa entrada?</a>
 # This is a generic error message.
 about-logins-error-message-default = Se produjo un error al intentar guardar la contraseña.
 

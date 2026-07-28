@@ -32,7 +32,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está revisando
 contentanalysis-slow-agent-dialog-body-print = { $agent } está revisando lo que ha imprimido según las políticas de datos de su organización. Esto puede tomar un tiempo.
 contentanalysis-operationtype-clipboard = portapapeles
 contentanalysis-operationtype-dropped-text = texto soltado
-contentanalysis-operationtype-print = imprimir
+contentanalysis-operationtype-print = impresión
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = Carga de “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -58,11 +58,11 @@ contentanalysis-unspecified-error-message-content = Se ha producido un error al 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
-contentanalysis-no-agent-connected-message-content = No se puede conectar con { $agent }.{ $content }
+contentanalysis-no-agent-connected-message-content = No se puede conectar con { $agent }. { $content }
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
-contentanalysis-invalid-agent-signature-message-content = Verificación de firma fallida para { $agent }.{ $content }
+contentanalysis-invalid-agent-signature-message-content = Verificación de firma fallida para { $agent }. { $content }
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Carga de “{ $filename }” denegada.

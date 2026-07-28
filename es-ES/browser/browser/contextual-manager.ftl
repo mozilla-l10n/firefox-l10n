@@ -14,7 +14,7 @@ contextual-manager-more-options-popup =
 ## Passwords
 
 contextual-manager-passwords-command-create = Añadir contraseña
-contextual-manager-passwords-command-import-from-browser = Importar desde otro navegador...
+contextual-manager-passwords-command-import-from-browser = Importar desde otro navegador…
 contextual-manager-passwords-command-import = Importar desde un archivo…
 contextual-manager-passwords-command-export = Exportar contraseñas
 contextual-manager-passwords-command-remove-all = Eliminar todas las contraseñas
@@ -234,7 +234,7 @@ contextual-manager-passwords-password-field =
     .label = Contraseña
 contextual-manager-passwords-password-field-description = Introduzca la contraseña para iniciar sesión en esta cuenta.
 contextual-manager-passwords-origin-tooltip = Introduzca la dirección exacta donde iniciará sesión en este sitio.
-contextual-manager-passwords-username-tooltip = Introduca el nombre de usuario, dirección de correo electrónico o número de cuenta que usa para iniciar sesión.
+contextual-manager-passwords-username-tooltip = Introduzca el nombre de usuario, dirección de correo electrónico o número de cuenta que usa para iniciar sesión.
 contextual-manager-passwords-password-tooltip-2 = Introduzca la contraseña para iniciar sesión en esta cuenta.
 contextual-manager-passwords-password-tooltip = Introduzca la contraseña utilizada para iniciar sesión con esta cuenta.
 

@@ -175,4 +175,4 @@ webext-site-perms-serial = Acceder a dispositivos serie
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Se ha eliminado el tema de combinación de colores.</b> { -brand-shorter-name } ha actualizado su colección de combinaciones de colores. Se pueden encontrar las últimas versiones en el sitio de complementos.
-webext-colorway-theme-migration-notification-button = Obtenga combinaciones de colores actualizados
+webext-colorway-theme-migration-notification-button = Obtenga combinaciones de colores actualizadas

@@ -265,11 +265,11 @@ mr2022-onboarding-colorway-description-expressionist = <b>Usted es un expresioni
 mr2022-onboarding-colorway-label-visionary = Visionario
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionario (verde)
-mr2022-onboarding-colorway-description-visionary = <b>Usted es un visionario</b> Cuestiona el status quo y mueve a otros a imaginar un futuro mejor.
+mr2022-onboarding-colorway-description-visionary = <b>Usted es un visionario.</b> Cuestiona el status quo y mueve a otros a imaginar un futuro mejor.
 mr2022-onboarding-colorway-label-activist = Activista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Activista (azul)
-mr2022-onboarding-colorway-description-activist = <b>Usted es un activista</b> Deja el mundo como un lugar mejor de lo que lo encontró y convence a otros a creer en el cambio.
+mr2022-onboarding-colorway-description-activist = <b>Usted es un activista.</b> Deja el mundo como un lugar mejor de lo que lo encontró y convence a otros a creer en el cambio.
 mr2022-onboarding-colorway-label-dreamer = Soñador
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Soñador (púrpura)
@@ -350,7 +350,7 @@ onboarding-device-migration-primary-button-label = Iniciar sesión
 ## Add-ons Picker screen
 
 amo-picker-title = Personalice su { -brand-short-name }
-amo-picker-subtitle = Las extensiones son como aplicaciones para el navegador y permiten proteger contraseñas, descargar videos, encontrar ofertas, bloquear publicidades molestas, cambiar la apariencia del navegador y mucho más.
+amo-picker-subtitle = Las extensiones son como aplicaciones para el navegador y permiten proteger contraseñas, descargar vídeos, encontrar ofertas, bloquear publicidades molestas, cambiar la apariencia del navegador y mucho más.
 amo-picker-install-button-label = Añadir a { -brand-short-name }
 amo-picker-install-complete-label = Instalado
 amo-picker-collection-link = Explorar más complementos
@@ -374,7 +374,7 @@ onboarding-sign-up-secondary-button = Empezar a navegar
 
 ## New user time and familiarity survey strings
 
-onboarding-new-user-time-based-survey-title = ¿Cuanto tiempo ha estado usando { -brand-short-name }?
+onboarding-new-user-time-based-survey-title = ¿Cuánto tiempo ha estado usando { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = ¿Cómo está de familiarizado con { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Su opinión nos ayuda a hacer { -brand-short-name } aún mejor.
 # When translating "next" it means the next screen in onboarding.
@@ -396,7 +396,7 @@ onboarding-new-user-survey-familiarity-based-option-4 = Lo he usado en el pasado
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Díganos dónde quiere las pestañas
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
-onboarding-new-tabs-subtitle = Cámbielo cuando quiera en los ajustes de barra lateral .
+onboarding-new-tabs-subtitle = Cámbielo cuando quiera en los ajustes de barra lateral.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Sus pestañas, a su manera
 # Setup screen for vertical tabs - subtitle for too many tabs variation
@@ -593,6 +593,6 @@ onboarding-refresh-onboarding-addons-subtitle = Las extensiones son pequeñas ap
 onboarding-refresh-onboarding-addons-title = Dele un impulso a su navegación
 onboarding-refresh-sync-subtitle = Acceda a sus marcadores, contraseñas y más en cualquier lugar donde haya iniciado sesión en { -brand-short-name }. Además, los datos están cifrados para que solo usted pueda verlos.
 onboarding-refresh-sync-title = En cualquier parte. Todo sincronizado.
-onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una asociación sin ánimo de lucro. Con su apoyo, estamos trabajando para que Internet sea más más segura y accesible para todos.
+onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una asociación sin ánimo de lucro. Con su apoyo, estamos trabajando para que Internet sea más segura y accesible para todos.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } siempre está de su parte

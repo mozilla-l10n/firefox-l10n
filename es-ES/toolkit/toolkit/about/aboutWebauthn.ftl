@@ -107,7 +107,7 @@ about-webauthn-auth-option-alwaysuv = Pedir siempre verificación de usuario
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
-about-webauthn-auth-option-false = Falso
+about-webauthn-auth-option-false = False
 # If the value is missing (null), it means a certain feature is not supported.
 about-webauthn-auth-option-null = No admitido
 
@@ -136,9 +136,9 @@ about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Extensiones
 about-webauthn-auth-info-versions = Versiones
 # Shows when boolean value for an info field is True. True should not be translated.
-about-webauthn-auth-info-true = Verdadero
+about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
-about-webauthn-auth-info-false = Falso
+about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = No admitido
 
 ## Bio enrollment sample feedbacks

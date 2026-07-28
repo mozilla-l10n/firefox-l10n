@@ -176,7 +176,7 @@ ipprotection-bandwidth-upgrade-text = Seleccione una ubicación de la VPN y prot
 
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-75 = <strong>Se está acercando  al límite de la VPN.</strong> Le quedan { $usageLeft } GB. Los datos se restablecerán al inicio del próximo mes.
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Se está acercando al límite de la VPN.</strong> Le quedan { $usageLeft } GB. Los datos se restablecerán al inicio del próximo mes.
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Casi se han terminado los datos de la VPN.</strong> Quedan { $usageLeft } GB. Una vez que se usen todos, la VPN se pausará hasta que los datos se restablezcan el primer día del próximo mes.

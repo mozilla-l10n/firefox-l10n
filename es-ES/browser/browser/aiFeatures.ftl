@@ -25,7 +25,7 @@ ai-window-is-default-window =
     .description = Abrir { -smart-window-brand-name } cuando { -brand-short-name } inicie, reinicie o abra enlaces desde otras aplicaciones.
 ai-window-open-sidebar =
     .label = Abrir el asistente automáticamente
-    .description = Mostrar la barra lateral del asistente en cada pestaña nueva. Ciérrrelo en cualquier momento.
+    .description = Mostrar la barra lateral del asistente en cada pestaña nueva. Ciérrelo en cualquier momento.
 ai-window-smart-cursor-in-smart-window =
     .label = Mostrar accesos directos al seleccionar texto
     .description = Obtenga acceso rápido a resúmenes, explicaciones y más.
@@ -59,14 +59,14 @@ smart-window-model-custom-url =
 smart-window-model-custom-token =
     .label = Clave de API o token de autenticación, si es necesario
 smart-window-model-custom-info =
-    .message = Al usar un modelo personalizado,  { -smart-window-brand-name } podría no funcionar como se espera.
+    .message = Al usar un modelo personalizado, { -smart-window-brand-name } podría no funcionar como se espera.
 smart-window-model-custom-more-link = Más sobre modelos personalizados
 smart-window-model-custom-save =
     .label = Guardar
 smart-window-model-custom-save-confirmation = Detalles de modelo guardados. Empiece un nuevo chat para probarlo.
 ai-window-memories-section =
     .label = Recuerdos
-    .description = { -brand-short-name } puede aprender de su actividad para crear recuerdos. SE usan para ayudar a personalizar respuestas y se almacenan localmente en este dispositivo.
+    .description = { -brand-short-name } puede aprender de su actividad para crear recuerdos. Se usan para ayudar a personalizar respuestas y se almacenan localmente en este dispositivo.
 ai-window-learn-from-chat-activity =
     .label = Aprender de los chats en { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -87,7 +87,7 @@ ai-window-delete-all-memories-button =
 ai-window-delete-all-memories-title = ¿Eliminar todos los recuerdos?
 # “Learn from…” refers to two different options in settings that start with "Learn from"
 # (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
-ai-window-delete-all-memories-message = Se eliminarán los recuerdos existentes. Si no quiere que se creen nuevos recuerdos, desactive la opción "Aprender de..." en los ajustes de { -smart-window-brand-name }.
+ai-window-delete-all-memories-message = Se eliminarán los recuerdos existentes. Si no quiere que se creen nuevos recuerdos, desactive la opción "Aprender de…" en los ajustes de { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Eliminar
 ai-window-delete-all-memories-cancel = Cancelar
 # Variables:

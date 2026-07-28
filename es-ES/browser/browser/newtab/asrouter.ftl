@@ -99,7 +99,7 @@ cfr-whatsnew-release-notes-link-text = Consulte las notas de lanzamiento
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-       *[other] { -brand-short-name } bloqueado en <b>{ $blockedCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } ha bloqueado más de <b>{ $blockedCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Ver todo
     .accesskey = V
@@ -117,7 +117,7 @@ cfr-doorhanger-doh-secondary-button = Deshabilitar
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = Los videos en este sitio web podrían no reproducirse correctamente en esta versión de { -brand-short-name }. Para una compatibilidad completa de vídeo, actualiza { -brand-short-name } ahora.
+cfr-doorhanger-video-support-body = Los vídeos en este sitio web podrían no reproducirse correctamente en esta versión de { -brand-short-name }. Para una compatibilidad completa de vídeo, actualiza { -brand-short-name } ahora.
 cfr-doorhanger-video-support-header = Actualice { -brand-short-name } para reproducir vídeo
 cfr-doorhanger-video-support-primary-button = Actualizar ahora
     .accesskey = u
@@ -141,7 +141,7 @@ spotlight-public-wifi-vpn-link = Ahora no
 spotlight-better-internet-header = Un internet mejor comienza con usted
 spotlight-better-internet-body = Cuando usa { -brand-short-name }, está votando por una internet abierta y accesible que es mejor para todos.
 spotlight-peace-mind-header = Siempre de tu parte
-spotlight-peace-mind-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3.000 rastreadores por usuario. Porque nada, especialmente lo que molesta a su privacidad como los rastreadores, deberían meterse entre usted y lo mejor de internet.
+spotlight-peace-mind-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3.000 rastreadores por usuario. Porque nada, especialmente lo que molesta a su privacidad como los rastreadores, debería interponerse entre usted y lo mejor de internet.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Mantener en el Dock
@@ -241,7 +241,7 @@ set-default-pdf-handler-primary = Entendido
 annotations-default-pdf-handler-headline = ¡Firme en la línea de puntos o en cualquier lugar!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Dibuje, escriba o suba su firma, luego colóquela exactamente donde quiera. Guarde sus firmas favoritas para la próxima vez.
-annotations-make-default-pdf-handler-title = Hacer que{ -brand-short-name } sea su editor de PDF predeterminado
+annotations-make-default-pdf-handler-title = Hacer que { -brand-short-name } sea su editor de PDF predeterminado
 annotations-make-default-pdf-handler-subtitle = Tendrá acceso a nuestras herramientas cada vez que abra un PDF.
 annotations-make-default-pdf-primary-cta-label = Establecer como predeterminado
 annotations-make-default-pdf-next-label = Siguiente
@@ -429,7 +429,7 @@ windows-10-eos-global-infobar-learn-more-link = Saber más
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
-etp-strict-exceptions-infobar-message = <strong>Una protección contra el rastreo estricta puede causar errores en los sitios web .</strong> Solucione problemas comunes desbloqueando elementos esenciales que podrían contener rastreadores.
+etp-strict-exceptions-infobar-message = <strong>Una protección contra el rastreo estricta puede causar errores en los sitios web.</strong> Solucione problemas comunes desbloqueando elementos esenciales que podrían contener rastreadores.
 etp-strict-exceptions-infobar-learn-more = Saber más
 etp-strict-exceptions-infobar-button = Aplicar correcciones
     .accesskey = A

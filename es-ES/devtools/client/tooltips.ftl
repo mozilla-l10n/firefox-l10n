@@ -21,10 +21,10 @@ inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> no tien
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento, ya que no es un contenedor flex, un contenedor grid o un contenedor multicolumna.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un contenedor multicolumna.
 inactive-css-column-span = <strong>{ $property }</strong> no tiene efecto extensor en este elemento ya que no está en un contenedor multicolumna.
-inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un un ítem grid ni flex.
+inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un ítem grid ni flex.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong> { $property }</strong> no tiene efecto en este elemento ya que no es grid, flex o un elemento con posicionamiento absoluto.
 inactive-css-not-grid-or-absolutely-positioned-item = <strong> { $property }</strong> no tiene efecto en este elemento ya que no es grid o un elemento con posicionamiento absoluto.
-inactive-css-not-absolutely-positioned-item = <strong> { $property }</strong> no tiene efecto en este elemento ya que no es un elemento posicionado. de forma absoluta
+inactive-css-not-absolutely-positioned-item = <strong> { $property }</strong> no tiene efecto en este elemento ya que no es un elemento posicionado de forma absoluta.
 inactive-css-no-default-anchor = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no tiene un elemento ancla predeterminado.
 inactive-css-not-grid-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un ítem grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un contenedor grid.
@@ -77,7 +77,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> no tiene efecto en este elemento porque tiene más de { $lineCount } líneas.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> no tiene efecto en este elemento porque está fragmentado, ej: su contenido está dividido en múltiples columnas o páginas.
-inactive-css-no-width-height = <strong>{ $property }</strong>no tiene efecto en este elemento ya que no se puede establecer su ancho y alto.
+inactive-css-no-width-height = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no se puede establecer su ancho y alto.
 inactive-css-no-principal-box = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no crea un cuadro principal.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display

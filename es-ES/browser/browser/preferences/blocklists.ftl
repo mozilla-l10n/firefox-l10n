@@ -24,4 +24,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = Lista de bloqueo de nivel 1 (Recomendado).
 blocklist-item-moz-std-description = Permite algunos rastreadores para que no se caigan muchos sitios web.
 blocklist-item-moz-full-listName = Lista de bloqueo de nivel 2.
-blocklist-item-moz-full-description = Bloquea todos los rastreadores dectectados. Puede que algunos sitios web o contenidos no se carguen correctamente.
+blocklist-item-moz-full-description = Bloquea todos los rastreadores detectados. Puede que algunos sitios web o contenidos no se carguen correctamente.

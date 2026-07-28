@@ -31,7 +31,7 @@ options-show-user-agent-styles-label = Mostrar estilos del navegador
 options-show-user-agent-styles-tooltip =
     .title = Activar esto mostrará los estilos predeterminados que se cargan por el navegador.
 # The label for the checkbox option to show all anonymous content
-options-show-user-agent-shadow-dom-label = Mostra el Shadow DOM del navegador
+options-show-user-agent-shadow-dom-label = Mostrar el Shadow DOM del navegador
 options-show-user-agent-shadow-dom-tooltip =
     .title = Al activar esta opción, se mostrarán los elementos Shadow DOM manejados por el navegador.
 # The label for the checkbox option to enable collapse attributes
@@ -88,7 +88,7 @@ options-stylesheet-autocompletion-tooltip =
 ## Screenshot section
 
 # The heading
-options-screenshot-label = Comportamiento de pantalla
+options-screenshot-label = Comportamiento de la captura de pantalla
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Captura de pantalla solo al portapapeles
 options-screenshot-clipboard-tooltip2 =

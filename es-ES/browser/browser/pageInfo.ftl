@@ -163,13 +163,7 @@ security-no-visits = No
 general-meta-tags =
     .value =
         { $tags ->
-            [one]
-                Meta (1 etiqueta)
-                Meta (1 tag)
-                Meta (1 tag)
-                Meta (1 tag)
-                Meta (1 tag)
-                Meta (1 tag)
+            [one] Meta (1 etiqueta)
            *[other] Meta ({ $tags } etiquetas)
         }
 # This string is used to display the number of times

@@ -24,7 +24,7 @@ styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = Escriba CSS aquí.
 styleeditor-no-stylesheet = Esta página no tiene hoja de estilos.
-styleeditor-no-stylesheet-tip = Quizás le gustaría <a data-l10n-name="append-new-stylesheet">adjuntar una nueva hoja de estilos</a>?
+styleeditor-no-stylesheet-tip = ¿Quizás le gustaría <a data-l10n-name="append-new-stylesheet">adjuntar una nueva hoja de estilos</a>?
 styleeditor-open-link-new-tab =
     .label = Abrir enlace en una pestaña nueva
 styleeditor-copy-url =

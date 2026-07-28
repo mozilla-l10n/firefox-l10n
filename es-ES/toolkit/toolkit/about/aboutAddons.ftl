@@ -117,7 +117,7 @@ legacy-extensions-description = Estas extensiones no cumplen los estándares act
 private-browsing-description2 =
     { -brand-short-name } está cambiando la forma en que funcionan las extensiones en la navegación privada. Cualquier nueva extensión que agregues a
     { -brand-short-name } no se ejecutará de forma predeterminada en las ventanas privadas. A menos que lo permitas en los Ajustes, la
-    la extensión no funcionará durante la navegación privada, y no tendrá acceso a tus actividades en línea
+    extensión no funcionará durante la navegación privada, y no tendrá acceso a tus actividades en línea
     ahí. Hemos realizado este cambio para mantener privada tu navegación privada.
     <label data-l10n-name = "private-browsing-learn-more">Descubre cómo administrar la configuración de las extensiones.</label>
 aboutaddons-sidebar =
@@ -553,13 +553,13 @@ details-notification-soft-blocked-extension-enabled2 =
 details-notification-soft-blocked-other-disabled2 =
     .message = Este complemento está restringido y ha sido desactivado. Se puede activar, pero podría ser arriesgado.
 details-notification-soft-blocked-other-enabled2 =
-    .message = Este complemento está restringido. Usarla puede ser arriesgado.
+    .message = Este complemento está restringido. Usarlo puede ser arriesgado.
 details-notification-soft-blocked-extension-disabled =
     .message = Esta extensión está restringida por violar las políticas de Mozilla y ha sido desactivada. Se puede activar, pero podría ser arriesgado.
 details-notification-soft-blocked-extension-enabled =
     .message = Esta extensión viola las políticas de Mozilla. Usarla podría ser arriesgado.
 details-notification-soft-blocked-other-disabled =
-    .message = Este complemento está restringido por violar las políticas de Mozilla y ha sido desactivada. Se puede activar, pero podría ser arriesgado.
+    .message = Este complemento está restringido por violar las políticas de Mozilla y ha sido desactivado. Se puede activar, pero podría ser arriesgado.
 details-notification-soft-blocked-other-enabled =
     .message = Este complemento viola las políticas de Mozilla. Usarlo podría ser arriesgado.
 details-notification-softblocked-link2 = Ver detalles

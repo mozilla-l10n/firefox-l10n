@@ -62,7 +62,7 @@ about-webrtc-sdp-parsing-errors-heading = Errores de análisis de SDP
 # "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
 # specification, and should not normally be translated. "Stats" is an
 # abbreviation for Statistics.
-about-webrtc-rtp-stats-heading = Estadísticas RDP
+about-webrtc-rtp-stats-heading = Estadísticas RTP
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
@@ -138,8 +138,8 @@ about-webrtc-short-receive-direction = Recepción: { $codecs }
 about-webrtc-local-candidate = Candidato local
 about-webrtc-remote-candidate = Candidato remoto
 about-webrtc-raw-candidates-heading = Todos los candidatos no procesados
-about-webrtc-raw-local-candidate = Candidato local no procesados
-about-webrtc-raw-remote-candidate = Candidato remoto no procesados
+about-webrtc-raw-local-candidate = Candidato local no procesado
+about-webrtc-raw-remote-candidate = Candidato remoto no procesado
 about-webrtc-raw-cand-show-msg = mostrar candidatos no procesados
     .title = pulse para expandir esta sección
 about-webrtc-raw-cand-hide-msg = ocultar candidatos no procesados
@@ -192,7 +192,7 @@ about-webrtc-pc-configuration-hide-msg = Ocultar configuración
 about-webrtc-configuration-element-provided = Proporcionado
 # An option whose value will not be displayed but instead noted as having not
 # been provided
-about-webrtc-configuration-element-not-provided = No porporcionado
+about-webrtc-configuration-element-not-provided = No proporcionado
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferencias de WebRTC establecidas por el usuario
 # The options set by the user in about:config that could impact a WebRTC call
@@ -209,7 +209,7 @@ about-webrtc-user-modified-configuration-hide-msg = Ocultar configuración modif
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Ancho de banda estimado
 # The ID of the MediaStreamTrack
-about-webrtc-track-identifier = Identificador de rastreo
+about-webrtc-track-identifier = Identificador de pista
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Ancho de banda de envío (bytes/seg)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second

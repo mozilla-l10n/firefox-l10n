@@ -94,7 +94,7 @@ about-telemetry-results-for-search = Resultados para "{ $searchTerms }"
 about-telemetry-no-search-results = ¡Lo sentimos! No hay resultados en { $sectionName } de "{ $currentSearchText }"
 # Variables:
 #   $searchTerms (string) - The searched terms
-about-telemetry-no-search-results-all = ¡Lo sentimos! No hay resultados para "{ $searchTerms }" en ningun sección
+about-telemetry-no-search-results-all = ¡Lo sentimos! No hay resultados para "{ $searchTerms }" en ninguna sección
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (string) - Is replaced by the section name.

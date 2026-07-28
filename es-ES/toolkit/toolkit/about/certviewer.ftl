@@ -60,7 +60,7 @@ certificate-viewer-qualifiers = Clasificatorios
 certificate-viewer-required = Requerido
 certificate-viewer-unsupported = &lt;no compatible&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
-certificate-viewer-inc-state-province = Incluir Estado/Provincia
+certificate-viewer-inc-state-province = Estado/Provincia de constitución
 certificate-viewer-state-province = Estado/Provincia
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
@@ -81,7 +81,7 @@ certificate-viewer-fingerprints = Huellas digitales
 certificate-viewer-basic-constraints = Restricciones básicas
 certificate-viewer-key-usages = Usos de la clave
 certificate-viewer-extended-key-usages = Usos extendidos de la clave
-certificate-viewer-ocsp-stapling = Sello de tiempo OCSP
+certificate-viewer-ocsp-stapling = Grapado OCSP
 certificate-viewer-subject-key-id = ID de clave de asunto
 certificate-viewer-authority-key-id = ID de clave de la autoridad
 certificate-viewer-authority-info-aia = Información de la autoridad (AIA)
