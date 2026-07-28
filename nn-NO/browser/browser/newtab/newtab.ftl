@@ -763,6 +763,8 @@ newtab-custom-appearance-section-title = Utsjånad
 # Button that opens the full browser theme selection view.
 newtab-appearance-more-themes-button =
     .label = Sjå fleire tema
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name }-tema
 # Header for the list of the user's already-installed themes in the full theme panel.
 newtab-appearance-your-themes-header = Dine tema
 # Button that enables an already-installed theme.
