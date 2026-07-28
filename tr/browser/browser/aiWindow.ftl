@@ -143,7 +143,9 @@ aiwindow-input-model-select-settings-link = Model ayarları
 
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kendini eğitmek amacıyla sohbetlerinizi, gezintilerinizi veya ikisini birden kullanarak anılar oluşturabilir. Anılar zaman içinde size daha faydalı yanıtlar verilmesini sağlar.
 aiwindow-firstrun-memories-conversation-title = Sohbete devam edin
+aiwindow-firstrun-memories-conversation-body = Sohbetlerden öğrenme sayesinde kendinizi baştan açıklamanıza gerek kalmaz.
 aiwindow-firstrun-memories-relevance-title = Daha alakalı cevaplar
+aiwindow-firstrun-memories-relevance-body = Gezintilerden öğrenme sayesinde { -smart-window-brand-name } geniş bir perspektif kazanır.
 aiwindow-firstrun-memories-privacy-title = Özünde gizlilik var
 aiwindow-firstrun-memories-privacy-body = Anılar bu cihazda depolanıyor. İstediğiniz zaman silebilir veya kapatabilirsiniz.
 aiwindow-firstrun-memories-choose-label = { -smart-window-brand-name(form: "uppercase-singular") }nin kendini nasıl eğitebileceğini seçin
@@ -293,6 +295,7 @@ aiwindow-feedback-modal-title = Görüş bildir
 aiwindow-feedback-what-worked-well = Neleri başarılı buldunuz? Lütfen kişisel bilgilerinizi paylaşmayın.
 aiwindow-feedback-choose-any = Uygun olanları seçin
 aiwindow-feedback-add-details = Dilerseniz detaylandırın. Lütfen kişisel bilgilerinizi paylaşmayın.
+aiwindow-feedback-disclaimer = Formu gönderdiğinizde { -brand-shorter-name }’un { -smart-window-brand-name }yi geliştirebilmesi için geri bildiriminiz ve bu sohbetiniz paylaşılır. Diğer sohbetleriniz gizli kalır. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 aiwindow-feedback-submit = Gönder
 aiwindow-feedback-cancel = Vazgeç
 aiwindow-feedback-reason-incorrect-or-misleading = Yanlış veya yanıltıcı

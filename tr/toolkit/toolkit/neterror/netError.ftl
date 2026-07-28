@@ -45,7 +45,7 @@ neterror-error-reporting-automatic = { -vendor-short-name }’nın zararlı site
 
 neterror-sslkeylogging-warning =
     .heading = Bağlantınız gizli olmayabilir
-    .message = Bir uygulama veya hizmet bu siteden gelen şifrelenmiş trafiği görüyor olabilir.
+    .message = Bir uygulama veya hizmet bu siteden gelen şifrelenmiş trafiğinizi görebilir.
 
 ## Specific error messages
 
