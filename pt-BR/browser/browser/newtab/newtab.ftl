@@ -753,6 +753,14 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Fechar
 newtab-custom-settings = Gerenciar mais configurações
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Aparência
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Mais temas
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Fundo de tela

@@ -20,3 +20,4 @@ colorpicker-tooltip-hue-slider-title = Matiz
 colorpicker-tooltip-alpha-slider-title = Opacidade
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseudo-classes de elementos específicos
+inspector-emulation-panel-color-scheme = Emulação de esquema de cores

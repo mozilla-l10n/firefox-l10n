@@ -60,11 +60,17 @@ firefoxview-tabpickup-fxa-admin-disabled-header = Sua organização desativou a 
 firefoxview-tabpickup-fxa-admin-disabled-description = O { -brand-short-name } não consegue sincronizar abas entre dispositivos porque seu administrador desativou a sincronização.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = O { -brand-short-name } não pode sincronizar abas entre dispositivos porque sua organização desativou a sincronização.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = A sincronização de abas está desativada
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Sua organização bloqueou este recurso.
 firefoxview-tabpickup-network-offline-header = Verifique sua conexão com a internet
 firefoxview-tabpickup-network-offline-description = Se estiver usando um firewall ou proxy, verifique se o { -brand-short-name } tem permissão para acessar a web.
 firefoxview-tabpickup-network-offline-primarybutton = Tentar novamente
+firefoxview-tabpickup-network-offline-header-2 = O { -brand-short-name } não pode se conectar no momento
+firefoxview-tabpickup-network-offline-description-2 = Você pode estar sem acesso à internet, ou algo pode estar bloqueando a conexão.
 firefoxview-tabpickup-sync-error-header = Há algum problema na sincronização
 firefoxview-tabpickup-generic-sync-error-description = O { -brand-short-name } não pode acessar o serviço de sincronização no momento. Tente novamente daqui a pouco.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = A sincronização teve um problema
+firefoxview-tabpickup-generic-sync-error-description-2 = O { -brand-short-name } não conseguiu se conectar. Aguarde um pouco, depois tente novamente
 firefoxview-tabpickup-sync-error-primarybutton = Tentar novamente
 firefoxview-tabpickup-sync-disconnected-header = Ative a sincronização para continuar
 firefoxview-tabpickup-sync-disconnected-description = Para pegar suas abas, você precisa permitir a sincronização no { -brand-short-name }.
@@ -74,10 +80,14 @@ firefoxview-tabpickup-password-locked-description = Para recuperar suas abas, pr
 firefoxview-tabpickup-password-locked-link = Saiba mais
 firefoxview-tabpickup-password-locked-primarybutton = Digite a senha principal
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saiba mais</a>
+firefoxview-tabpickup-password-locked-header-2 = Desbloqueie abas com sua senha principal
+firefoxview-tabpickup-password-locked-description-2 = Para sua privacidade, as abas sincronizadas estão protegidas. Digite sua senha principal do { -brand-short-name } para acessar abas em seus outros dispositivos.
 firefoxview-tabpickup-signed-out-header = Entre na conta para reconectar
 firefoxview-tabpickup-signed-out-description = Para reconectar e acessar suas abas, entre na sua conta { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Para se reconectar e recuperar suas abas, entre na sua conta.
 firefoxview-tabpickup-signed-out-primarybutton = Entrar
+firefoxview-tabpickup-signed-out-header-2 = Entre na conta para ver suas abas
+firefoxview-tabpickup-signed-out-description-2 = Reconecte para ver abas de outros dispositivos.
 firefoxview-tabpickup-syncing = Aguarde a sincronização de abas. É rápido.
 firefoxview-mobile-promo-header = Abra abas do seu celular ou tablet
 firefoxview-mobile-promo-description = Para ver suas abas mais recentes do celular, entre na sua conta no { -brand-product-name } no iOS ou Android.
@@ -219,6 +229,10 @@ firefoxview-show-all-history = Mostrar todo o histórico
 firefoxview-history-empty-header = Retorne para onde você já esteve
 firefoxview-history-empty-description = Conforme você navega, as páginas visitadas aparecem aqui.
 firefoxview-history-empty-description-two = Proteger sua privacidade está no cerne do que fazemos. É por isso que você pode controlar a atividade que o { -brand-short-name } memoriza, nas <a data-l10n-name="history-settings-url">configurações de histórico</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Seu histórico de navegação começa aqui
+firefoxview-history-empty-description-2 = À medida que você visita páginas, seu histórico aparece aqui. Controle o que é memorizado nas <a data-l10n-name="history-settings-url">configurações</a>.
 
 ##
 
@@ -230,6 +244,9 @@ firefoxview-choose-browser-button = Escolher navegador
 
 firefoxview-dont-remember-history-empty-header-2 = Você tem controle sobre o que o { -brand-short-name } memoriza.
 firefoxview-dont-remember-history-empty-description-one = No momento, o { -brand-short-name } não memoriza sua atividade de navegação. Para mudar isto, <a data-l10n-name="history-settings-url-two">altere as configurações de histórico</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Sua atividade de navegação não será salva
+firefoxview-dont-remember-history-empty-description-2 = O { -brand-short-name } não está salvando seu histórico. Mude isso quando quiser nas <a data-l10n-name="history-settings-url-two">configurações</a>.
 
 ##
 
