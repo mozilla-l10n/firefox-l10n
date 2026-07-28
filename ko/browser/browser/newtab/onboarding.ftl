@@ -633,3 +633,8 @@ smartwindow-sidebar-auto-open-callout-accepted-title = 어시스턴트가 닫힌
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = 어느 페이지에서나 물어보기를 통해 열 수 있습니다. <a data-l10n-name="settings">설정</a>에서 언제든지 변경할 수 있습니다.
 smartwindow-sidebar-auto-open-callout-rejected-title = 확인
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = 생각이 바뀌시면 언제든지 <a data-l10n-name="settings">설정</a>에서 기본값을 변경하실 수 있습니다.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = 테마 선택
+onboarding-theme-picker-button-label = 저장하고 계속

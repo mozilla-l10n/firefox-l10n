@@ -723,6 +723,29 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = 닫기
 newtab-custom-settings = 추가 설정
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = 모양
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = 테마 더보기
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } 테마
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = 내 테마
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = 사용함
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = 사용 안 함
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = 테마 설치
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = 더 많은 테마 살펴보기
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = 배경 화면

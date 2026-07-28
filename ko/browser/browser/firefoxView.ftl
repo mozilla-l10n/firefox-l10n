@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = 여기에서 휴대폰 탭을 �
 firefoxview-tabpickup-step-signin-primarybutton = 계속
 firefoxview-syncedtabs-signin-header-2 = 모든 기기에 { -brand-product-name } 사용
 firefoxview-syncedtabs-signin-description-2 = 휴대폰 및 다른 기기에서 열려 있는 탭을 보려면, 계정에 로그인하거나 가입하세요. 계정을 사용하면 비밀번호, 기록 등을 동기화 할 수도 있습니다.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = 노트북에서 휴대폰까지, 원활하게
 firefoxview-syncedtabs-signin-description-3 = 기기 간 탐색 연결 유지 — 탭, 비밀번호, 기록을 모두 동기화하세요.
 firefoxview-syncedtabs-signin-primarybutton-2 = 로그인
 firefoxview-tabpickup-adddevice-header = 휴대폰 또는 태블릿에서 { -brand-product-name } 동기화
@@ -69,6 +71,9 @@ firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name }가 지금
 firefoxview-tabpickup-network-offline-description-2 = 오프라인이거나 무언가가 연결을 차단하고 있을 수 있습니다.
 firefoxview-tabpickup-sync-error-header = 동기화에 문제 있음
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name }는 지금 동기화 서비스에 연결할 수 없습니다. 잠시 후 다시 시도하세요.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = 동기화에 문제가 발생함
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name }가 연결할 수 없습니다. 잠시 후에 다시 시도하세요
 firefoxview-tabpickup-sync-error-primarybutton = 다시 시도
 firefoxview-tabpickup-sync-disconnected-header = 계속하려면 동기화를 켜세요
 firefoxview-tabpickup-sync-disconnected-description = 탭을 가져오려면 { -brand-short-name }에서 동기화를 허용해야 합니다.
@@ -78,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = 탭을 가져오려면 { -br
 firefoxview-tabpickup-password-locked-link = 더 알아보기
 firefoxview-tabpickup-password-locked-primarybutton = 기본 비밀번호 입력
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">더 알아보기</a>
+firefoxview-tabpickup-password-locked-header-2 = 기본 비밀번호로 탭 잠금 해제
+firefoxview-tabpickup-password-locked-description-2 = 개인 정보 보호를 위해 동기화된 탭은 보호됩니다. 다른 기기의 탭을 보려면 { -brand-short-name }의 기본 비밀번호를 입력하세요.
 firefoxview-tabpickup-signed-out-header = 다시 연결하려면 로그인하세요
 firefoxview-tabpickup-signed-out-description = 다시 연결하고 탭을 가져오려면 { -fxaccount-brand-name }에 로그인하세요.
 firefoxview-tabpickup-signed-out-description2 = 다시 연결하고 탭을 가져오려면 계정에 로그인하세요.
 firefoxview-tabpickup-signed-out-primarybutton = 로그인
+firefoxview-tabpickup-signed-out-header-2 = 탭을 보려면 로그인 하세요
+firefoxview-tabpickup-signed-out-description-2 = 다른 기기에서 탭을 보려면 다시 연결하세요.
 firefoxview-tabpickup-syncing = 잠깐이면 탭이 동기화됩니다.
 firefoxview-mobile-promo-header = 휴대폰 또는 태블릿에서 탭 가져오기
 firefoxview-mobile-promo-description = 최신 모바일 탭을 보려면, iOS 또는 Android에서 { -brand-product-name }에 로그인하세요.
@@ -219,6 +228,10 @@ firefoxview-show-all-history = 모든 기록 보기
 firefoxview-history-empty-header = 이전으로 돌아가기
 firefoxview-history-empty-description = 탐색할 때, 방문하는 페이지가 여기에 나열됩니다.
 firefoxview-history-empty-description-two = 개인 정보를 보호하는 것은 우리가 하는 일의 핵심입니다. <a data-l10n-name="history-settings-url">기록 설정</a>에서 { -brand-short-name }가 기억하는 활동을 제어할 수 있는 이유입니다.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = 탐색 기록이 여기에 표시됩니다
+firefoxview-history-empty-description-2 = 페이지를 방문하면, 기록이 여기에 나타납니다. <a data-l10n-name="history-settings-url">설정</a>에서 기억할 항목을 선택하세요.
 
 ##
 
@@ -230,6 +243,9 @@ firefoxview-choose-browser-button = 브라우저 선택
 
 firefoxview-dont-remember-history-empty-header-2 = { -brand-short-name }가 기억하는 것을 제어할 수 있습니다.
 firefoxview-dont-remember-history-empty-description-one = 현재 { -brand-short-name }는 탐색 활동을 기억하지 않습니다. 변경하려면, <a data-l10n-name="history-settings-url-two">기록 설정을 업데이트</a>하세요.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = 기록이 남지 않습니다
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name }가 지금 기록을 저장하지 않고 있습니다. <a data-l10n-name="history-settings-url-two">설정</a>에서 언제든지 변경할 수 있습니다.
 
 ##
 
