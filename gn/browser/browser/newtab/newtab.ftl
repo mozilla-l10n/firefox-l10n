@@ -270,6 +270,12 @@ newtab-stocks-menu-search = Eheka jeku’e reheguáva
 newtab-stocks-menu-learn-more = Eikuaave
 # Shown in the Stocks widget when its data could not be loaded.
 newtab-stocks-error-not-available = Mba’ekuaarãita apopyre ndojeporukuaái
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Widget jepovorã jeku’erãva
+    .aria-label = Widget jepovorã jeku’erãva
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Jejaporã
 
@@ -700,6 +706,29 @@ newtab-custom-close-menu-button =
     .aria-label = Poravorã mboty
 newtab-custom-close-button = Mboty
 newtab-custom-settings = Eñangareko hetave ñembohekóre
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Mba’ejeguarã
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Ehechave temaita
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } Témaita
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Ne temaita
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Myandy
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Eipe’a
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Emohenda téma
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Ehapykuehove temaita
 
 ## New Tab Wallpapers
 
@@ -1463,6 +1492,7 @@ newtab-sports-widget-message-wallpapers-title = Eg̃uahẽ Mundial ñepyrũme mb
 newtab-sports-widget-message-wallpapers-body = Emog̃uahẽ upe energía partído oikotaha ára ne mohendahápe.
 newtab-sports-widget-message-wallpapers-cta = Eiporavo mba’erechaha rugua
 newtab-sports-widget-message-wallpapers-semifinals-title = Erekóke mba’erechaha rugua pyahu semifinal-pe g̃uarã
+newtab-sports-widget-message-wallpapers-semifinals-body = Embosako’i eikotevẽva partidoita ehechaséva Copa del Mundo rehegua.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Embojuaju widgets
 newtab-sports-widget-message-day-in-play-title = Ereko nde ára pukukue jeku’épe umi widget { -brand-product-name } rupi.

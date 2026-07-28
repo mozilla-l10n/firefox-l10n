@@ -45,7 +45,7 @@ neterror-error-reporting-automatic = Signaler les erreurs similaires pour aider 
 
 neterror-sslkeylogging-warning =
     .heading = Votre connexion pourrait ne pas être privée
-    .message = Une application ou un service peut voir votre trafic chiffré en provenance de ce site.
+    .message = Une application ou un service pourrait accéder à votre trafic chiffré provenant de ce site.
 
 ## Specific error messages
 

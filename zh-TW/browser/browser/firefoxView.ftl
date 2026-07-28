@@ -84,6 +84,7 @@ firefoxview-tabpickup-password-locked-link = 了解更多
 firefoxview-tabpickup-password-locked-primarybutton = 輸入主控密碼
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">了解更多</a>
 firefoxview-tabpickup-password-locked-header-2 = 使用您的主控密碼解鎖分頁
+firefoxview-tabpickup-password-locked-description-2 = 為了確保您的隱私，分頁同步資料受到保護。請輸入您的 { -brand-short-name } 主控密碼來檢視其他裝置上的分頁。
 firefoxview-tabpickup-signed-out-header = 登入即可重新連線
 firefoxview-tabpickup-signed-out-description = 登入 { -fxaccount-brand-name } 即可重新連線並取回分頁。
 firefoxview-tabpickup-signed-out-description2 = 登入帳號即可重新連線並取回分頁。
@@ -230,6 +231,7 @@ firefoxview-history-empty-description-two = 保護您的隱私是我們的第一
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
 firefoxview-history-empty-header-2 = 您的瀏覽紀錄從這裡開始
+firefoxview-history-empty-description-2 = 隨您造訪網頁，瀏覽紀錄就會出現於此處。可到<a data-l10n-name="history-settings-url">設定</a>調整要記住哪些資料。
 
 ##
 
@@ -243,6 +245,7 @@ firefoxview-dont-remember-history-empty-header-2 = 您可以自行掌控 { -bran
 firefoxview-dont-remember-history-empty-description-one = 目前 { -brand-short-name } 不會記憶您的上網行為，若要調整這個行為，請<a data-l10n-name="history-settings-url-two">更改瀏覽紀錄設定</a>。
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = 您的上網過程不會被記錄下來
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } 目前不會保留您的瀏覽紀錄。可隨時到<a data-l10n-name="history-settings-url-two">設定</a>調整此行為。
 
 ##
 
