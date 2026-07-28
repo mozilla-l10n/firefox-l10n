@@ -65,6 +65,8 @@ firefoxview-tabpickup-network-offline-description = Eiporúramo firewall térã 
 firefoxview-tabpickup-network-offline-primarybutton = Eha’ã jey
 firefoxview-tabpickup-sync-error-header = Oreapañuái rombojuehe hag̃ua
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } noñe’ẽkuaái ñembojuehe me’ẽhára ndive ko’ag̃aite. Eha’ã jey ag̃amieve.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Ñembojuehe iñapañuái
 firefoxview-tabpickup-sync-error-primarybutton = Eha’ã jey
 firefoxview-tabpickup-sync-disconnected-header = Emyandy ñembojuehe eku’ejey hag̃ua
 firefoxview-tabpickup-sync-disconnected-description = Eru hag̃ua tendayke, oñemoneĩva’erã ñembojuehe { -brand-short-name }-pe.
@@ -221,6 +223,9 @@ firefoxview-show-all-history = Tembiasakue jehechaukapa
 firefoxview-history-empty-header = Ejevyjey eimehaguépe
 firefoxview-history-empty-description = Eikundahavekuévo, umi kuatiarogue eikeha ehecháta ko’ápe.
 firefoxview-history-empty-description-two = Nde rekoñemi ñemo’ã rogueroike ore rembiaporãkuaitépe. Upévare ehechava’erã pe tembiapoite { -brand-short-name } imandu’áva, <a data-l10n-name="history-settings-url">tembiasakue ñemoĩporã </a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Ne ñeikundaha oñepyrũ ko’a guive
 
 ##
 
