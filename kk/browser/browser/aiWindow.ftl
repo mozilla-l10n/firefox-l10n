@@ -198,6 +198,35 @@ aiwindow-close-sidebar =
     .aria-label = Жабу
     .tooltiptext = Жабу
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Көбірек опциялар
+    .tooltiptext = Көбірек опциялар
+aiwindow-history-menu-chat-history = Чат тарихы
+aiwindow-history-menu-back =
+    .aria-label = Артқа
+    .tooltiptext = Артқа
+aiwindow-history-menu-view-all-chats = Барлық чаттарды қарау
+aiwindow-history-menu-settings = { -smart-window-brand-name } баптаулары
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Жаңа чат
+aiwindow-fullpage-chat-history =
+    .label = Чат тарихы
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Көбірек
+    .title = Көбірек
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Синхрондалған деректер тіркелгіңізде қалады. { -smart-window-brand-name(plural-form: "true") } ашылған кезде классикалық терезелерге ауысады.

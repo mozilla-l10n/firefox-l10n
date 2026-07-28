@@ -633,3 +633,8 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Көмекші жабық
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Оны кез келген бетте ашу үшін "Сұрау" батырмасын пайдаланыңыз. Мұны кез келген уақытта <a data-l10n-name="settings">Баптаулар</a> бөлімінде өзгертуге болады.
 smartwindow-sidebar-auto-open-callout-rejected-title = Түсіндім
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Егер ойыңызды өзгертсеңіз, әдепкі параметрді <a data-l10n-name="settings">Баптаулар</a> бөлімінде кез келген уақытта жаңарта аласыз.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Теманы таңдау
+onboarding-theme-picker-button-label = Сақтау және жалғастыру
