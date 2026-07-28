@@ -774,6 +774,21 @@ newtab-custom-appearance-section-title = Выгляд
 # Button that opens the full browser theme selection view.
 newtab-appearance-more-themes-button =
     .label = Паглядзець больш тэм
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Тэмы для { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Вашы тэмы
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Уключыць
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Адключыць
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Усталяваць тэму
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Знайсці іншыя тэмы
 
 ## New Tab Wallpapers
 
@@ -1158,6 +1173,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Скасаваць
     .title = Скасаваць
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Варыянты спісаў
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Стварыць новы спіс

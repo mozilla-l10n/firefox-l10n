@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Налады бакавой панэлі
 sidebar-hide-tabs-and-sidebar =
     .label = Схаваць карткі і бакавую панэль
+sidebar-open-tools-from-sidebar =
+    .label = Адкрываць прылад з бакавой панэлі
 sidebar-show-on-the-right =
     .label = Перамясціць бакавую панэль управа
 sidebar-show-on-the-left =
@@ -139,6 +141,13 @@ sidebar-bookmarks-context-menu-delete-bookmark =
     .label = Выдаліць закладку
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Выдаліць
+
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Закрыць картку
 
 ## Labels for sidebar menu items.
 

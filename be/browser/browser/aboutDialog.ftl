@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Падаць водгук
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> — <label data-l10n-name="community-exp-creditsLink">сусветнае згуртаванне</label>, якое працуе разам, каб захаваць Сеціва адкрытым, публічным і даступным кожнаму.
 community-2 = { -brand-short-name } распрацаваны <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">сусветным згуртаваннем</label>, якое працуе разам, каб захаваць Сеціва адкрытым, публічным і даступным кожнаму.
 helpus = Хочаце дапамагчы? <label data-l10n-name="helpus-donateLink">Зрабіце ахвяраванне</label> або <label data-l10n-name="helpus-getInvolvedLink">далучайцеся да нас!</label>
+helpus-referrals = Хочаце дапамагчы? <label data-l10n-name="helpus-donateLink">Зрабіце ахвяраванне</label>, <label data-l10n-name="helpus-shareFirefoxLink">падзяліцеся { -brand-short-name }</label> або <label data-l10n-name="helpus-getInvolvedLink">далучайцеся!</label>
 bottomLinks-license = Звесткі пра ліцэнзію
 bottom-links-terms = Умовы выкарыстання
 bottom-links-privacy = Паведамленне аб прыватнасці
