@@ -20,7 +20,7 @@ cert-error-trust-self-signed = Bu sertifika kendi kendine imzalandığı için s
 cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte ve VeriSign tarafından düzenlenen sertifikalar; bu sertifika makamları geçmişte güvenlik prosedürlerini yerine getiremediği için artık güvenli kabul edilmemektedir.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-trust-certificate-transparency = { -brand-short-name }, genel sertifika şeffaflığı gereksinimlerini karşıladığını kanıtlayamadığı için { $hostname } sitesine güvenmiyor.
+cert-error-trust-certificate-transparency = { $hostname } genel sertifika şeffaflığı gereksinimlerini karşıladığını kanıtlayamadığı için { -brand-short-name } bu siteye güvenmiyor.
 cert-error-untrusted-default = Sertifika güvenilir bir kaynaktan gelmiyor.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

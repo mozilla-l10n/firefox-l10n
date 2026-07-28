@@ -625,4 +625,5 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = 若您改變心意，�
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = 挑選佈景主題
+onboarding-theme-picker-subtitle = 為 { -brand-short-name } 帶來更多色彩。
 onboarding-theme-picker-button-label = 儲存並繼續

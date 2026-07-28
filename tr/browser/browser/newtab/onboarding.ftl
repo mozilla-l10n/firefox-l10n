@@ -163,7 +163,7 @@ fx100-thank-you-subtitle = 100. sürümümüze ulaştık! Daha iyi ve daha sağl
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] { -brand-short-name } tarayıcısını Dock’a sabitle
-       *[other] { -brand-short-name } tarayıcısını görev çubuğuma sabitle
+       *[other] { -brand-short-name } tarayıcısını görev çubuğuna sabitle
     }
 fx100-upgrade-thanks-header = 100 Kere Teşekkürler
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
