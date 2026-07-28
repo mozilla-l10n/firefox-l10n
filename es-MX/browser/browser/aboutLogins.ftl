@@ -111,7 +111,7 @@ login-intro-instructions-fxa = Crea o inicia sesión en tu { -fxaccount-brand-na
 about-logins-login-intro-heading-message = Guarda tus contraseñas en un lugar seguro
 login-intro-description2 = Todas las contraseñas que guardes en { -brand-product-name } quedan cifradas. Además, estamos atentos a las filtraciones y te avisamos si estuvieras afectado. <a data-l10n-name="breach-alert-link">Más información</a>
 login-intro-instructions-fxa2 = Crea o inicia sesión a tu cuenta en el dispositivo donde se guardan tus inicios de sesión.
-login-intro-instructions-fxa-settings = Ve a Ajustes> Sincronizar > Activar sincronización… Marca la casilla Inicios de sesión y contraseñas.
+login-intro-instructions-fxa-settings = Ve a Ajustes > Sincronizar > Activar sincronización… Marca la casilla Inicios de sesión y contraseñas.
 login-intro-instructions-fxa-passwords-help = Visita <a data-l10n-name="passwords-help-link">soporte para contraseñas</a> para más ayuda.
 about-logins-intro-browser-only-import = Si tus inicios de sesión se guardan en otro navegador, puedes <a data-l10n-name="import-link">importarlos en { -brand-product-name }</a>
 about-logins-intro-import2 = Si tus credenciales se guardan fuera de { -brand-product-name }, puedes <a data-l10n-name="import-browser-link">importarlas desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>
@@ -179,7 +179,7 @@ about-logins-edit-login-os-auth-dialog-message-macosx = editar el inicio de sesi
 about-logins-os-auth-dialog-message =
     { PLATFORM() ->
         [macos] cambia la configuración de las contraseñas
-       *[other] { -brand-short-name } está tratando de cambiar la configuración de las constraseñas. Usa tu dispositivo e inicia sesión para permitirlo.
+       *[other] { -brand-short-name } está tratando de cambiar la configuración de las contraseñas. Ingresa tus credenciales en este dispositivo para autorizar el cambio.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Para editar tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.

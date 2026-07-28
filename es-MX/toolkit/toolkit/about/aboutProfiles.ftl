@@ -49,7 +49,7 @@ profiles-delete-profile-title = Eliminar perfil
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
     Al eliminar un perfil se quitará de la lista de perfiles y no podrás recuperarlo.
-    También puedes elegir eliminar los archivos de datos del perfil, incluyendo tu configuración, certificados y otros datos. Esta opción eliminará la carpeta "{ $dir }" sin posiblidad de recuperarla.
+    También puedes elegir eliminar los archivos de datos del perfil, incluyendo tu configuración, certificados y otros datos. Esta opción eliminará la carpeta "{ $dir }" sin posibilidad de recuperarla.
     ¿Realmente quieres eliminar los archivos de este perfil?
 profiles-delete-files = Eliminar archivos
 profiles-dont-delete-files = No eliminar archivos

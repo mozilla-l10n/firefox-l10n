@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-panic-button-open-new-window = Se abre una ventana nueva
+panic-button-open-new-window = Abrir una ventana nueva y sin rastros
 panic-button-undo-warning = Esta acción no podrá deshacerse.
 panic-button-forget-button =
-    .label = ¡Olvida!
+    .label = ¡Olvidar!
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
@@ -25,7 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
-panic-button-action-desc = Al proceder:
-panic-button-delete-cookies = Se borran los <strong>Cookies</strong> recientes
-panic-button-delete-history = Se borran el <strong>Historial</strong> reciente
-panic-button-delete-tabs-and-windows = Se cierran las <strong>Pestañas</strong> y <strong>Ventanas</strong>
+panic-button-action-desc = Al continuar:
+panic-button-delete-cookies = Eliminaremos las <strong>Cookies</strong> recientes
+panic-button-delete-history = Borraremos el <strong>Historial</strong> reciente
+panic-button-delete-tabs-and-windows = Cerraremos todas las <strong>Pestañas</strong> y <strong>Ventanas</strong>

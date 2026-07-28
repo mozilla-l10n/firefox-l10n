@@ -46,8 +46,8 @@ content-sharing-modal-no-shareable-links =
 content-sharing-modal-too-many-pages =
     .heading =
         { $count ->
-            [one] Haz compartido { $count } página
-           *[other] Haz compartido { $count } páginas
+            [one] Has compartido { $count } página
+           *[other] Has compartido { $count } páginas
         }
     .message = Vuelve a intentarlo en cuanto una de tus páginas deje de estar disponible.
 content-sharing-modal-some-invalid-links = Algunos enlaces no se pueden compartir.

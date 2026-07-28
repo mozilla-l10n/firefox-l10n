@@ -204,7 +204,7 @@ preferences-data-migration-group =
     .label = Importar datos del navegador
     .description = Trae tus marcadores, contraseñas, historial, extensiones y datos de autocompletar de otro navegador.
 preferences-data-migration-header = Importar datos del navegador
-preferences-data-migration-description = Importa marcadores, contraseñas, historial y datos de autocompletadomarcar en { -brand-short-name }.
+preferences-data-migration-description = Importar marcadores, contraseñas, historial y datos de autocompletado a { -brand-short-name }.
 preferences-data-migration-button =
     .label = Importar datos
     .accesskey = m
@@ -505,7 +505,7 @@ browser-language-heading =
 browser-language-preferred-label =
     .label = Idioma preferido
 browser-language-fallback-label =
-    .label = Idioma de reserva
+    .label = Idioma alternativo
     .description = Se utiliza cuando la localización del idioma preferido está incompleta.
 browser-language-install-error =
     .message = { -brand-short-name } no puede actualizar tus idiomas en este momento. Comprueba que estés conectado a internet o vuelve a intentarlo.
@@ -542,7 +542,7 @@ settings-translations-subpage-never-translate-header =
 settings-translations-subpage-never-translate-sites-header =
     .label = Nunca traducir estos sitios
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
-settings-translations-subpage-never-translate-sites-description = Para agregar un sitio, abre el <img data-l10n-name="translations-icon"/> panel de traducción, selecciona <img data-l10n-name="settings-icon"/> los ajustes de traducción  y luego elige “No traducir nunca este sitio”.
+settings-translations-subpage-never-translate-sites-description = Para agregar un sitio, abre el <img data-l10n-name="translations-icon"/> panel de traducción, selecciona <img data-l10n-name="settings-icon"/> ajustes de traducción y luego elige “No traducir nunca este sitio”.
 settings-translations-subpage-language-select-option =
     .label = Agregar idioma
 settings-translations-subpage-language-add-button =
@@ -558,8 +558,8 @@ settings-translations-subpage-download-languages-button =
 # Variables:
 #   $language (string) - Localized name of the language to download.
 #   $size (string) - Download size in megabytes, formatted for the locale.
-settings-translations-subpage-download-language-option = { $language } { $size }MB)
-    .label = { $language } { $size }MB)
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
 settings-translations-subpage-no-languages-downloaded =
     .label = No se descargaron idiomas
 settings-translations-subpage-no-languages-added =
@@ -568,13 +568,13 @@ settings-translations-subpage-download-progress = Descarga en progreso…
 # Variables:
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
-settings-translations-subpage-download-error = No se pudo descargar { $language } ({ $size } MB)
+settings-translations-subpage-download-error = No se pudo descargar { $language } ({ $size } MB)
 settings-translations-subpage-download-retry-button =
     .label = Intentar de nuevo
 # Variables:
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
-settings-translations-subpage-download-delete-confirm = ¿Eliminar { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-confirm = ¿Eliminar { $language } ({ $size } MB)?
 settings-translations-subpage-download-delete-button =
     .label = Eliminar
 settings-translations-subpage-download-cancel-button =
@@ -815,7 +815,7 @@ support-share-ideas =
 
 performance-title = Rendimiento
 performance-use-recommended-settings-checkbox =
-    .label = Usar los ajustes de rendimiento recomendadas
+    .label = Usar los ajustes de rendimiento recomendados
     .accesskey = U
 performance-use-recommended-settings-desc = Estos ajustes se adaptan al hardware y al sistema operativo de tu computadora.
 performance-settings-learn-more = Aprender más
@@ -933,7 +933,7 @@ network-proxy-connection-settings2 =
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
-home-new-windows-tabs-description2 = Elige que quieres ver cuando abras tu página de inicio, nuevas ventanas y nuevas pestañas.
+home-new-windows-tabs-description2 = Elige qué quieres ver cuando abres tu página de inicio, nuevas ventanas y nuevas pestañas.
 home-section =
     .heading = Inicio y sesión
 
@@ -959,11 +959,11 @@ home-restore-defaults =
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (Predeterminado)
 home-mode-choice-custom =
-    .label = Personalizar URLs...
+    .label = Personalizar URLs…
 home-mode-choice-blank =
     .label = Página en blanco
 home-homepage-custom-url =
-    .placeholder = Pegar una URL...
+    .placeholder = Pegar una URL…
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Administrar extensión
@@ -991,7 +991,7 @@ home-custom-homepage-subpage =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contenido de { -firefox-home-brand-name }
-home-prefs-content-description2 = Elige que contenido quieres en tu pantalla de { -firefox-home-brand-name }.
+home-prefs-content-description2 = Elige qué contenido quieres en tu pantalla de { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Búsqueda web
 home-prefs-shortcuts-header =
@@ -1071,7 +1071,7 @@ search-separate-default-engine =
     .label = Usar este motor de búsqueda en ventanas privadas
     .accesskey = U
 search-suggestions-header = Buscar sugerencias
-search-suggestions-desc = Seleccionar como las sugerencias del motor búsqueda aparecen.
+search-suggestions-desc = Seleccionar cómo las sugerencias del motor búsqueda aparecen.
 search-suggestions-option =
     .label = Proporcionar sugerencias de búsqueda
     .accesskey = s
@@ -1244,7 +1244,7 @@ pane-account-sync-title2 = Cuenta y sincronización
 sync-signedout-caption = Lleva la Web contigo
 sync-signedout-description2 = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y ajustes en todos tus dispositivos.
 sync-signedout-account-signin3 =
-    .label = Iniciar sesión para sincronizar...
+    .label = Iniciar sesión para sincronizar…
     .accesskey = I
 sync-signedout-account-signin-4 =
     .label = Inicia sesión en tu cuenta para empezar a sincronizar
@@ -1293,7 +1293,7 @@ sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no 
 sync-signedin-unverified2 =
     .label = { $email } aún no se ha confirmado
     .description = Revisa tu bandeja de entrada para confirmar tu cuenta y hacerla oficial.
-sync-signedin-login-failure = Inicia sesión para reconectar { $email } Favor de iniciar la sesión para reconectar
+sync-signedin-login-failure = Inicia sesión para reconectar { $email }
 sync-signedin-login-failure2 =
     .label = Has cerrado sesión en { $email }
     .description = Vuelve a iniciar sesión para empezar a sincronizar tus datos.
@@ -1333,7 +1333,7 @@ prefs-syncing-off-2 =
     .label = La sincronización está DESACTIVADA
     .description = Activa la sincronización para tener tus marcadores, contraseñas, historial y más en cualquier dispositivo.
 prefs-sync-turn-on-syncing =
-    .label = Activar sincronización...
+    .label = Activar sincronización…
     .accesskey = s
 prefs-sync-turn-on-syncing-2 =
     .label = Activar sincronización
@@ -1387,7 +1387,7 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Elegir que sincronizar
+    .title = Elegir qué sincronizar
     .style = min-width: 36em;
     .buttonlabelaccept = Guardar cambios
     .buttonaccesskeyaccept = S
@@ -1430,10 +1430,10 @@ sync-engine-addons =
     .accesskey = C
 sync-engine-settings =
     .label = Configuración
-    .tooltiptext = Ajustes generales, de privacidad y de seguridad que haz modificado
+    .tooltiptext = Ajustes generales, de privacidad y de seguridad que has modificado
     .accesskey = C
 sync-choose-what-to-sync-dialog4 =
-    .title = Administrar que se sincroniza en todos tus dispositivos conectados
+    .title = Administrar qué se sincroniza en todos tus dispositivos conectados
     .style = min-width: 36em;
     .buttonlabelaccept = Guardar
     .buttonaccesskeyaccept = S
@@ -1923,7 +1923,7 @@ addressbar-locbar-suggest-all-option-2 =
     .description = Obtén sugerencias de la web relacionadas con tu búsqueda.
 addressbar-locbar-suggest-sponsored-option-2 =
     .label = Sugerencias de patrocinadores
-    .description = Soporte { -brand-short-name } con sugerencias patrocinadas ocasionales.
+    .description = Apoya a { -brand-short-name } con sugerencias patrocinadas ocasionales.
 addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias del motor de búsqueda
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar búsquedas recientes
@@ -1937,7 +1937,7 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = Obtén sugerencias de la web relacionadas con tu búsqueda.
 addressbar-locbar-suggest-sponsored-option =
     .label = Sugerencias de patrocinadores
-addressbar-locbar-suggest-sponsored-desc = Soporte { -brand-short-name } con sugerencias patrocinadas ocasionales.
+addressbar-locbar-suggest-sponsored-desc = Apoya a { -brand-short-name } con sugerencias patrocinadas ocasionales.
 # This string is used for a checkbox in the settings UI that opts the
 # user into "online" Firefox Suggest, allowing them to receive suggestions from
 # Mozilla's Merino server.
@@ -2013,7 +2013,7 @@ content-blocking-etp-standard-tcp-rollout-description = La protección total con
 content-blocking-etp-standard-tcp-rollout-learn-more = Saber más
 content-blocking-etp-standard-tcp-title = Incluye Total Cookie Protection, nuestra función de privacidad más poderosa hasta ahora
 content-blocking-warning-title = ¡Atención!
-content-blocking-warning-title-2 = Algunos sitios pueden romper la estricta protección de seguimiento
+content-blocking-warning-title-2 = Algunos sitios pueden dejar de funcionar con la protección de seguimiento estricta
 content-blocking-warning-title-custom = Algunos sitios pueden dejar de funcionar con la protección de seguimiento personalizada
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recomienda usar la configuración "Solucionar problemas del sitio" para reducir el número de funciones y contenido defectuosos. Si un sitio parece estar dañado, desactiva la protección de rastreo para que cargue todo el contenido.
@@ -2348,7 +2348,7 @@ httpsonly-radio-enabled-pbm =
     .label = Habilitar el modo solo HTTPS solo en ventanas privadas
 httpsonly-radio-disabled3 =
     .label = No habilitar el modo solo HTTPS
-    .description = { -brand-short-name } todavía puedes actualizar algunas conexiones
+    .description = { -brand-short-name } todavía puede actualizar algunas conexiones
 httpsonly-radio-disabled =
     .label = No habilitar el modo solo HTTPS
 httpsonly-group =
@@ -2363,7 +2363,7 @@ preferences-doh-header = DNS sobre HTTPS
 dns-over-https-group2 =
     .label = DNS sobre HTTPS
     .description = El sistema de nombres de dominio sobre HTTPS (DoH) encripta las búsquedas de sitios, por lo que es más difícil para tu proveedor de Internet u otros ver qué sitios web estás a punto de visitar.
-preferences-doh-description = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, lo que crea un DNS seguro y hace más difícil que otros vean que sitio web estás tratando de acceder.
+preferences-doh-description = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, lo que crea un DNS seguro y hace más difícil que otros vean qué sitio web estás tratando de acceder.
 preferences-doh-description2 = El Sistema de nombres de dominio (DNS) a través de HTTPS envía tu solicitud de un nombre de dominio a través de una conexión cifrada, lo que entrega un DNS seguro y dificulta que otros vean a qué sitio web estás a punto de acceder.
 # Variables:
 #   $status (string) - The status of the DoH connection
@@ -2731,8 +2731,8 @@ security-privacy-issue-warning-popup-blocker =
     .label = El bloqueador de ventanas emergentes está desactivado
     .description = Las ventanas emergentes son molestas y potencialmente dañinas.
 security-privacy-issue-warning-extension-install =
-    .label = Los sitios web pueden instalar excepciones
-    .description = Los sitios web pueden instalar excepciones en { -brand-short-name } sin preguntar.
+    .label = Los sitios web pueden instalar extensiones
+    .description = Los sitios web pueden instalar extensiones en { -brand-short-name } sin preguntar.
 security-privacy-issue-warning-safe-browsing =
     .label = No se bloquea el contenido peligroso y engañoso
     .description = Tu exposición a estafas y software malicioso de sitios web es mayor.

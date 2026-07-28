@@ -58,8 +58,8 @@ ipprotection-feature-introduction-button-get-started = Comenzar
 
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
-ipprotection-summer-promo-offramp-get-subscription-button = Obtén { -mozilla-vpn-brand-name }
-ipprotection-summer-promo-offramp-dismiss-secondary-button = Descartar
+ipprotection-summer-promo-offramp-get-subscription-button = Obtener { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = No ahora
 
 ## Site settings callout
 
@@ -70,9 +70,9 @@ ipprotection-site-settings-callout-button = Entendido
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nuevo: Cambia tu ubicación
-ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> te permite elegir entre varias ubicaciones de navegación, o bien, deja que el sistema elija la más rápida.
-ipprotection-location-selection-callout-primary-button = Intentalo
-ipprotection-location-selection-callout-secondary-button = Descartar
+ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> te permite elegir entre varias ubicaciones de navegación, o elegir automáticamente la más rápida.
+ipprotection-location-selection-callout-primary-button = Probar
+ipprotection-location-selection-callout-secondary-button = No ahora
 
 ## Panel
 
@@ -294,7 +294,7 @@ ipp-activator-breakage-turn-off-warning = <strong>Es posible que este sitio web 
 
 ## IP Protection alerts
 
-vpn-paused-alert-title = VPN pausado
+vpn-paused-alert-title = VPN pausada
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Has usado todos los { $maxUsage } GB de datos de tu VPN. El acceso a la VPN se restablecerá el próximo mes.

@@ -373,11 +373,11 @@ newtab-label-sponsored-fixed = Patrocinado
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Eliminar sección
-newtab-section-menu-collapse-section = Sección de colapso
-newtab-section-menu-expand-section = Ampliar la sección
+newtab-section-menu-collapse-section = Contraer sección
+newtab-section-menu-expand-section = Expandir sección
 newtab-section-menu-manage-section = Administrar sección
 newtab-section-menu-manage-webext = Gestionar extensión
-newtab-section-menu-add-topsite = Agregar sitio popular
+newtab-section-menu-add-topsite = Agregar sitio preferido
 newtab-section-menu-add-search-engine = Agregar motor de búsqueda
 newtab-section-menu-move-up = Subir
 newtab-section-menu-move-down = Bajar
@@ -440,7 +440,7 @@ newtab-pocket-thumbs-up-tooltip =
     .title = Más como esto
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
-    .title = No es para mi
+    .title = No es para mí
 # Used to show the user a message upon clicking the thumbs up or down buttons
 newtab-toast-thumbs-up-or-down2 =
     .message = Gracias. Tus comentarios nos ayudarán a mejorar tu feed.
@@ -651,7 +651,7 @@ newtab-weather-see-forecast =
     .title = Mira el pronóstico en { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-sponsored = { $provider } ∙ Patrocinador
+newtab-weather-sponsored = { $provider } ∙ Patrocinado
 newtab-weather-menu-change-location = Cambiar ubicación
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Buscar ubicación
@@ -806,19 +806,19 @@ newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-empty-state = Aún no has bloqueado ningún tema.
 newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aquí
 # 'Make firefox yours" means to customize or personalize
-newtab-custom-wallpaper-subtitle = Sube tu propio fondo de pantalla o elige un color personalizado para hacer tuyo { -brand-product-name }.
-newtab-custom-wallpaper-cta = Intentalo
+newtab-custom-wallpaper-subtitle = Sube tu propio fondo de pantalla o elige un color para personalizar { -brand-product-name }.
+newtab-custom-wallpaper-cta = Inténtalo
 
 ## Strings for new user activation custom wallpaper highlight
 
-newtab-new-user-custom-wallpaper-title = Elige un fondo de pantalla para que { -brand-product-name } sea tuyo
-newtab-new-user-custom-wallpaper-subtitle = Haz que cada nueva pestaña se sienta como en casa con fondos de pantalla y colores personalizados.
+newtab-new-user-custom-wallpaper-title = Elige un fondo de pantalla para personalizar { -brand-product-name }
+newtab-new-user-custom-wallpaper-subtitle = Siéntete como en casa cada vez que abres una nueva pestaña, con fondos de pantalla y colores personalizados.
 newtab-new-user-custom-wallpaper-cta = Pruébalo ahora
 
 ## Strings for Nova wallpaper feature highlight
 
-newtab-wallpaper-feature-highlight-title = Ya llegaron nuevos fondos de pantalla
-newtab-wallpaper-feature-highlight-subtitle = Elige tu favorito y haz que cada pestaña nueva se sienta como en casa.
+newtab-wallpaper-feature-highlight-title = Llegaron nuevos fondos de pantalla
+newtab-wallpaper-feature-highlight-subtitle = Elige tu favorito y siéntete como en casa cada vez que abras una nueva pestaña.
 newtab-wallpaper-feature-highlight-cta = Elegir fondo de pantalla
 
 ## Strings for download mobile highlight
@@ -979,7 +979,7 @@ newtab-widget-lists-name-default = Lista de verificación
 
 newtab-widget-timer-notification-title = Temporizador
 newtab-widget-timer-notification-focus = Se acabó el tiempo de concentración. Buen trabajo. ¿Necesitas un descanso?
-newtab-widget-timer-notification-break = Se acabaron tus vacaciones. ¿Listo para concentrarte?
+newtab-widget-timer-notification-break = Se acabó tu descanso. ¿Listo para concentrarte?
 newtab-widget-timer-notification-warning = Las notificaciones están desactivadas
 newtab-widget-timer-mode-focus =
     .label = Focus

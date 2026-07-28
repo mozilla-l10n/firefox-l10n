@@ -14,7 +14,7 @@
 toolbox-meatball-menu-dock-bottom-label = Fijar en la parte inferior
 toolbox-meatball-menu-dock-left-label = Anclar a la izquierda
 toolbox-meatball-menu-dock-right-label = Anclar a la derecha
-toolbox-meatball-menu-dock-separate-window-label = Ventana dividida
+toolbox-meatball-menu-dock-separate-window-label = Ventana separada
 toolbox-meatball-menu-splitconsole-label = Mostrar la consola dividida
 toolbox-meatball-menu-hideconsole-label = Ocultar consola dividida
 toolbox-meatball-menu-settings-label = Ajustes

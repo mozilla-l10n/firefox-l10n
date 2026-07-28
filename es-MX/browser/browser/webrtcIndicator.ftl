@@ -102,7 +102,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
            *[other] Compartiendo micrófono con { $tabCount } pestañas
         }
 webrtc-indicator-menuitem-sharing-application-with =
-    .label = Compartiendo un aplicación con "{ $streamTitle }"
+    .label = Compartiendo una aplicación con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
@@ -175,15 +175,15 @@ webrtc-allow-share-microphone-unsafe-delegation = ¿Permitir a { $origin } dar p
 webrtc-allow-share-screen-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu pantalla?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker-unsafe-delegation = ¿Permitir que { $origin } de acceso a los altavoces alternativos a { $thirdParty }?
-webrtc-allow-share-camera-and-microphone-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu cámara y micrófono?
-webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu cámara y escuchar al audio de esta pestaña?
-webrtc-allow-share-screen-and-microphone-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu micrófono y ver tu pantalla?
-webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para escuchar al audio de esta pestaña y ver tu pantalla?
+webrtc-allow-share-speaker-unsafe-delegation = ¿Permitir que { $origin } le otorgue acceso a los altavoces alternativos a { $thirdParty }?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = ¿Permitir que { $origin } autorice a { $thirdParty } para acceder a tu cámara y micrófono?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ¿Permitir que { $origin } autorice a { $thirdParty } para acceder a tu cámara y escuchar el audio de esta pestaña?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = ¿Permitir que { $origin } autorice a { $thirdParty } para acceder a tu micrófono y ver tu pantalla?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Permitir que { $origin } autorice a { $thirdParty } para escuchar el audio de esta pestaña y ver tu pantalla?
 
 ##
 
-webrtc-share-screen-warning = Comparte la pantalla solo con sitios en los que confíes. Compartirla puede permitir a sitios fraudulentos a navegar en tu nombre y robar tus datos privados.
+webrtc-share-screen-warning = Comparte la pantalla solo con sitios en los que confíes. Compartirla puede permitir a sitios fraudulentos navegar en tu nombre y robar tus datos privados.
 webrtc-share-browser-warning = Comparte { -brand-short-name } solo con sitios con los que confíes. Compartirla puede permitir a sitios fraudulentos navegar en tu nombre y robar tus datos privados.
 webrtc-share-screen-learn-more = Saber Más
 webrtc-pick-window-or-screen = Seleccionar ventana o pantalla
@@ -225,4 +225,4 @@ webrtc-remember-allow-checkbox-camera-and-microphone = Recordar para todas las c
 webrtc-mute-notifications-checkbox = Silenciar las notificaciones de sitios web mientras se comparte
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } no permite que se acceda de manera permanente a tu monitor.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } no permite acceso permanente al audio de tu pestaña sin preguntar cuál audio se va a compartir.
-webrtc-reason-for-no-permanent-allow-insecure = La conexión a este sitio no es segura. Por tu seguridad, { -brand-short-name } solo permitirá el acceso por esta razón.
+webrtc-reason-for-no-permanent-allow-insecure = La conexión a este sitio no es segura. Por tu seguridad, { -brand-short-name } solo permitirá el acceso durante esta sesión.

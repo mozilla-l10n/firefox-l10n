@@ -26,13 +26,13 @@ places-open-in-private-window =
 places-empty-bookmarks-folder =
     .label = (Vacío)
 places-add-bookmark =
-    .label = Agregar marcador...
+    .label = Agregar marcador…
     .accesskey = m
 places-add-folder-contextmenu =
-    .label = Agregar carpeta...
+    .label = Agregar carpeta…
     .accesskey = c
 places-add-folder =
-    .label = Agregar carpeta...
+    .label = Agregar carpeta…
     .accesskey = A
 places-add-separator =
     .label = Agregar separador
@@ -72,7 +72,7 @@ places-sortby-name =
     .accesskey = r
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
-    .label = Editar marcador...
+    .label = Editar marcador…
     .accesskey = E
 places-edit-generic =
     .label = Editar…
@@ -139,7 +139,7 @@ places-manage-bookmarks =
 places-forget-about-this-site-confirmation-title = Olvidar este sitio
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-msg = Esta acción eliminara los datos relacionados con { $hostOrBaseDomain }, incluyendo el historial, cookies, caché y preferencias de contenido. Los marcadores y contraseñas no serán eliminados. ¿Estás seguro que deseas continuar?
+places-forget-about-this-site-confirmation-msg = Esta acción eliminará los datos relacionados con { $hostOrBaseDomain }, incluyendo el historial, cookies, caché y preferencias de contenido. Los marcadores y contraseñas no serán eliminados. ¿Estás seguro de que quieres continuar?
 places-forget-about-this-site-forget = Olvidar
 places-library3 =
     .title = Biblioteca

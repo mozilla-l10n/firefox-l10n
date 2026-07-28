@@ -45,4 +45,4 @@ download-ui-cancel-downloads-ok =
 download-ui-file-executable-security-warning-title = ¿Abrir archivos ejecutables?
 # Variables:
 #   $executable (String): The executable file to be opened.
-download-ui-file-executable-security-warning = "{ $executable }" es un archivo ejecutable. Si el orígen de los archivos ejecutables no es de confianza, éstos puden contener virus u otros códigos maliciosos que podrían dañar tu computadora. Ten cuidado al abrir este archivo. ¿Realmente deseas ejecutar "{ $executable }"?
+download-ui-file-executable-security-warning = "{ $executable }" es un archivo ejecutable. Si el origen de los archivos ejecutables no es de confianza, éstos pueden contener virus u otros códigos maliciosos que podrían dañar tu computadora. Ten cuidado al abrir este archivo. ¿Realmente deseas ejecutar "{ $executable }"?

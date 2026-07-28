@@ -42,7 +42,7 @@ whypaused-interrupted = Pausado en ejecución
 whypaused-resume-limit = Pausado durante la entrada y salida
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
-whypaused-pause-on-dom-events = Pausado en registrador de eventos
+whypaused-pause-on-dom-events = Pausado en detector de eventos
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Error con punto de interrupción condicional
@@ -51,7 +51,7 @@ whypaused-breakpoint-condition-thrown = Error con punto de interrupción condici
 whypaused-xhr = Pausado en XMLHttpRequest
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
-whypaused-promise-rejection = Pausado en la promesa de rechazo
+whypaused-promise-rejection = Pausado en el rechazo de la promesa
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a watchpoint on an object property
 whypaused-get-watchpoint = Pausado en el acceso a la propiedad

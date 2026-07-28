@@ -13,8 +13,8 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } no pudo encontra
 
 ##
 
-firefox-relay-must-login-to-fxa = Debes iniciar sesión en { -fxaccount-brand-name } para usar { -relay-brand-name }.
-firefox-relay-must-login-to-account = Inicia sesión en tu cuenta para usar las máscaras de correo electrónico de { -relay-brand-name }.
+firefox-relay-must-login-to-fxa = Debes iniciar sesión con tu { -fxaccount-brand-name } para usar { -relay-brand-name }.
+firefox-relay-must-login-to-account = Inicia sesión para usar máscaras de correo electrónico de { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Administrar máscaras
     .accesskey = A
@@ -73,14 +73,14 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
-firefox-relay-and-fxa-popup-notification-second-sentence-control = Primero, regístrate o inicia sesión a tu cuenta para usar una máscara de correo electrónico
-firefox-relay-offer-legal-notice-control = Al iniciar sesión y crear  una máscara de correo electrónico, aceptas los <label data-l10n-name="tos-url">Términos del servicio</label> y el <label data-l10n-name="privacy-url">Aviso de privacidad</label>.
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Primero, regístrate o inicia sesión para usar una máscara de correo electrónico
+firefox-relay-offer-legal-notice-control = Al iniciar sesión y crear una máscara de correo electrónico, aceptas los <label data-l10n-name="tos-url">Términos del servicio</label> y el <label data-l10n-name="privacy-url">Aviso de privacidad</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Evita el spam con una máscara de correo electrónico gratuita
 firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Evita el spam ocultando tu dirección de correo real con una <label data-l10n-name="firefox-relay-learn-more-url">máscara de correo electrónico</label> gratuita. Los mensajes desde <label data-l10n-name="firefox-fxa-and-relay-offer-domain">este sitio</label> aún llegarán a tu bandeja de entrada, pero con tu dirección de correo oculto.
-firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Primero, regístrate o inicia sesión a tu cuenta para usar una máscara de correo electrónico
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Primero, regístrate o inicia sesión para usar una máscara de correo electrónico
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Regístrate
     .accesskey = S
@@ -91,7 +91,7 @@ firefox-relay-and-fxa-popup-notification-header-with-domain = Obtener una másca
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protege tu bandeja de entrada de spam usando una <label data-l10n-name="firefox-relay-learn-more-url">máscara de correo electrónico</label> gratuita para ocultar tu dirección real. Los correos desde <label data-l10n-name="firefox-fxa-and-relay-offer-domain">este sitio</label> aún llegarán a tu bandeja de entrada, pero con tu dirección oculta.
 firefox-relay-and-fxa-popup-notification-first-sentence = Protege tu bandeja de entrada del spam usando una máscara de correo electrónico gratuita <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }</label> para ocultar tu dirección real. Los correos electrónicos de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">este sitio</label> llegarán a tu bandeja de entrada, pero con tu correo electrónico oculto.
 firefox-relay-offer-why-to-use-relay-1 = Protege tu bandeja de entrada del spam usando una máscara de correo electrónico gratuita <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }</label> para ocultar tu dirección real. Los correos electrónicos de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">este sitio</label> llegarán a tu bandeja de entrada, pero con tu correo electrónico oculto.
-firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primero, regístrate o inicia sesión a tu cuenta para usar una máscara de correo electrónico
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primero, regístrate o inicia sesión para usar una máscara de correo electrónico
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Regístrate
     .accesskey = S
@@ -100,7 +100,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Protégete contra el spam con una máscara de correo electrónico
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Protégete contra el spam ocultando tu dirección de correo real con una <label data-l10n-name="firefox-relay-learn-more-url">máscara de correo electrónico</label>. Recibirás mensajes desde <label data-l10n-name="firefox-fxa-and-relay-offer-domain">este sitio</label> en tu bandeja de entrada, con un dirección enmascarada.
-firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Primero, regístrate o inicia sesión a tu cuenta para usar una máscara de correo electrónico
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Primero, regístrate o inicia sesión para usar una máscara de correo electrónico
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Siguiente
     .accesskey = N

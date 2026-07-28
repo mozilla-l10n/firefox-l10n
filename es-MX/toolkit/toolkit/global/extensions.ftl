@@ -12,8 +12,8 @@
 
 webext-perms-header = ¿Agregar { $extension }?
 webext-perms-header-with-perms = ¿Añadir { $extension }? Este complemento tendrá permiso para:
-webext-perms-header-unsigned = ¿Añadir { $extension }? Este complemento no está verificado. Los complementos maliciosos pueden robar tu información privada y comprometer tu equipo. Instala este complementos sólo si confías en la fuente
-webext-perms-header-unsigned-with-perms = ¿Añadir { $extension }? Este complemento no esta verificado. Los complementos maliciosos pueden robar tu información privada y comprometer tu equipo. Solamente instala este complemento si confías en la fuente. Este complemento tendrá permiso para:
+webext-perms-header-unsigned = ¿Añadir { $extension }? Este complemento no está verificado. Los complementos maliciosos pueden robar tu información privada y comprometer tu equipo. Instala este complemento solo si confías en la fuente.
+webext-perms-header-unsigned-with-perms = ¿Añadir { $extension }? Este complemento no está verificado. Los complementos maliciosos pueden robar tu información privada y comprometer tu equipo. Instala este complemento solo si confías en la fuente. Este complemento tendrá permiso para:
 webext-perms-sideload-header = { $extension } agregado
 webext-perms-optional-perms-header2 = { $extension } requiere permisos adicionales.
 webext-perms-optional-perms-header = { $extension } requiere permisos adicionales.
@@ -56,7 +56,7 @@ webext-perms-sideload-cancel =
 webext-perms-update-text2 = { $extension } se actualizó. Debes aprobar los nuevos permisos antes de que se instale la versión actualizada. Si eliges “Cancelar”, se mantendrá la versión actual de tu extensión.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Se actualizo { $extension }. Tienes que aprobar nuevos permisos antes de que la versión actualizada se instale. Seleccionar “Cancelar” mantendrá la versión actual. Este complemento tendrá permisos para:
+webext-perms-update-text = Se actualizó { $extension }. Tienes que aprobar nuevos permisos antes de que la versión actualizada se instale. Seleccionar “Cancelar” mantendrá la versión actual. Este complemento tendrá permisos para:
 webext-perms-update-accept =
     .label = Actualizar
     .accesskey = U
@@ -174,5 +174,5 @@ webext-site-perms-serial = Acceder a dispositivos serie
 
 ## Colorway theme migration
 
-webext-colorway-theme-migration-notification-message = <b>Tu tema de combinación de colores se ha eliminado.</b> { -brand-shorter-name } se ha actualizado tu colección de combinaciones de colores. Puedes encontrar las últimas versiones en el sitio de complementos.
+webext-colorway-theme-migration-notification-message = <b>Tu tema de combinación de colores se ha eliminado.</b> { -brand-shorter-name } ha actualizado su colección de combinaciones de colores. Puedes encontrar las últimas versiones en el sitio de complementos.
 webext-colorway-theme-migration-notification-button = Obtén combinaciones de colores actualizadas
