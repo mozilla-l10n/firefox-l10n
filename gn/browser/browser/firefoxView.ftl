@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = Ehecha hag̃ua ne pumbyry renday
 firefoxview-tabpickup-step-signin-primarybutton = Ku’ejey
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } opaite ne mba’e’okápe
 firefoxview-syncedtabs-signin-description-2 = Ehecha hag̃ua tendayke ijurujáva ne pumbyrýpe ha ambue mba’e’okápe, eñepyrũ tembiapo térã eñemboheraguapy ereko hag̃ua mba’ete. Pe mba’ete ndive, embojuehekuaa ñe’ẽñemi, tembiasakue ha hetave.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Mohendaha’i guive pumbyry peve, oso’ỹre
 firefoxview-syncedtabs-signin-primarybutton-2 = Eñemboheraguapy
 firefoxview-tabpickup-adddevice-header = Embojuehe { -brand-product-name } ne pumbyry ha tablétape
 firefoxview-tabpickup-adddevice-description = Emboguejy { -brand-product-name } pumbyrýpe ha eñepyrũ tembiapo upépe.
@@ -40,17 +42,24 @@ firefoxview-tabpickup-adddevice-primarybutton = Ereko { -brand-product-name } ne
 firefoxview-syncedtabs-adddevice-header-2 = Ejapyhy tendayke oimeha guive
 firefoxview-syncedtabs-adddevice-description-2 = Eñepyrũ tembiapo { -brand-product-name } ne pumbyry térã ambue mohendahápe ehecha hag̃ua tendayke ápe. Ehecha mba’éichapa <a data-l10n-name="url">embojuajúta ambue mba’e’oka</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Ne rendayke ohenói. Oĩhína ne pumbyrýpe.
 firefoxview-tabpickup-synctabs-header = Emyandy tendayke ñembojuehe
 firefoxview-tabpickup-synctabs-description = Emoneĩ { -brand-short-name } omoherakuãvo tendayke mba’e’oka pa’ũme.
 firefoxview-tabpickup-synctabs-learn-how = Mba’éicha eikuaáta
 firefoxview-tabpickup-synctabs-primarybutton = Embojuehe tendayke ijurujáva
+firefoxview-tabpickup-synctabs-primarybutton-2 = Emyandy tendayke ñembojuehe
 firefoxview-syncedtabs-synctabs-header = Embohekopyahu mbojueheha ñemboheko
 firefoxview-syncedtabs-synctabs-description = Ehecha hag̃ua tendayke ambue mba’e’okagua, embojuehe tendayke ijurujáva.
+firefoxview-syncedtabs-synctabs-header-2 = Tendayke ñembojuehe ogue
 firefoxview-syncedtabs-loading-header = Ñemboheko oku’éma
 firefoxview-syncedtabs-loading-description = Emoĩmbávo, ehecháta umi tendayke ijurujáva ambue mba’e’okápe. Eporandujey ag̃amieve.
+firefoxview-syncedtabs-loading-header-2 = Agueruhína tendayke…
 firefoxview-tabpickup-fxa-admin-disabled-header = Nde atyguasu omboyke pe ñembojuehe
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nombojuehekuaái tendayke mba’e’okakuéra pa’ũme ne ñangarekohára omboyke rupi ñembojuehe.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nombojuehekuaái tendayke mba’e’okakuéra pa’ũme nde atyguasu ombogue rupi ñembojuehe.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Tendayke ñembojuehe ogue
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Nde atyguasu ojokóma ko tembiapoite.
 firefoxview-tabpickup-network-offline-header = Ehecha oiko porãpa ñanduti
 firefoxview-tabpickup-network-offline-description = Eiporúramo firewall térã proxy, ehechajey { -brand-short-name } oñemoneĩpa eikekuaa hag̃ua ñandutípe.
 firefoxview-tabpickup-network-offline-primarybutton = Eha’ã jey

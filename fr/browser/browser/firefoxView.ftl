@@ -34,6 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = Votre { -brand-product-name } sur tous 
 firefoxview-syncedtabs-signin-description-2 = Pour afficher les onglets ouverts sur votre téléphone et vos autres appareils, connectez-vous ou créez un compte. Avec un compte, vous pouvez également synchroniser mots de passe, historique et plus encore.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Passez sans effort de votre ordinateur portable à votre téléphone
+firefoxview-syncedtabs-signin-description-3 = Synchronisez votre navigation sur tous vos appareils : onglets, mots de passe, historique, tout est synchronisé.
 firefoxview-syncedtabs-signin-primarybutton-2 = Connexion
 firefoxview-tabpickup-adddevice-header = Synchronisez { -brand-product-name } avec votre téléphone ou votre tablette
 firefoxview-tabpickup-adddevice-description = Téléchargez { -brand-product-name } pour mobile et connectez-vous.

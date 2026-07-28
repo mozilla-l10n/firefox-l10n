@@ -220,6 +220,12 @@ aiwindow-fullpage-new-chat =
     .label = Nouvelle discussion
 aiwindow-fullpage-chat-history =
     .label = Historique des discussions
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Plus
+    .title = Plus
 
 ## Sign out dialog
 
