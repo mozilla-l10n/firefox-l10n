@@ -40,6 +40,7 @@ firefoxview-tabpickup-adddevice-primarybutton = Tải { -brand-product-name } d�
 firefoxview-syncedtabs-adddevice-header-2 = Lấy các thẻ từ bất cứ đâu
 firefoxview-syncedtabs-adddevice-description-2 = Đăng nhập vào { -brand-product-name } trên điện thoại hoặc máy tính để xem các thẻ ở đây. Tìm hiểu cách <a data-l10n-name="url">kết nối thiết bị khác</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Thử { -brand-product-name } cho di động
+firefoxview-syncedtabs-adddevice-description-3 = Quét mã QR để tải { -brand-product-name } trên điện thoại và bắt đầu đồng bộ hóa các thẻ đang mở của bạn và nhiều hơn nữa. Tìm hiểu cách để <a data-l10n-name="url">kết nối các thiết bị khác</a>.
 firefoxview-tabpickup-synctabs-header = Bật đồng bộ hóa thẻ
 firefoxview-tabpickup-synctabs-description = Cho phép { -brand-short-name } chia sẻ các thẻ giữa các thiết bị.
 firefoxview-tabpickup-synctabs-learn-how = Tìm hiểu cách làm

@@ -194,6 +194,35 @@ aiwindow-close-sidebar =
     .aria-label = Mboty
     .tooltiptext = Mboty
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Jeporavorãve
+    .tooltiptext = Jeporavorãve
+aiwindow-history-menu-chat-history = Jechatea rembiasakue
+aiwindow-history-menu-back =
+    .aria-label = Tapykue
+    .tooltiptext = Tapykue
+aiwindow-history-menu-view-all-chats = Ehechapaite jechateakue
+aiwindow-history-menu-settings = { -smart-window-brand-name } ñemboheko
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Chatea pyahu
+aiwindow-fullpage-chat-history =
+    .label = Jechatea rembiasakue
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Hetave
+    .title = Hetave
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Mba’ekuaarãita oñembojuehéva opytáta mba’etépe. embojuruja { -smart-window-brand-name(plural-form: "true") } ováta ovetã ñemíme.
