@@ -922,7 +922,7 @@ preferences-fonts-advanced-settings =
 ## General Section - Proxy
 
 network-settings-title = Verbindungs-Einstellungen
-network-proxy-connection-description = Jetzt festlegen, wie sich { -brand-short-name } mit dem Internet verbindet.
+network-proxy-connection-description = Festlegen, wie sich { -brand-short-name } mit dem Internet verbindet.
 network-proxy-connection-learn-more = Weitere Informationen
 network-proxy-connection-settings =
     .label = Einstellungen…
