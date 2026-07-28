@@ -170,6 +170,10 @@ action-log-reading-page = Citire pagină
 action-log-read-page = Citire conținut pagină efectuată
 action-log-searching-web = Căutare pe web
 action-log-searched-web = Căutare pe web efectuată
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Căutare pe web cu <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Verificare memorii
 action-log-checked-memories = Verificare memorii efectuată
 action-log-searching-settings = Căutare în setări
