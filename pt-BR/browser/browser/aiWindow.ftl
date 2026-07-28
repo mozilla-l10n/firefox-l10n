@@ -198,6 +198,35 @@ aiwindow-close-sidebar =
     .tooltiptext = Fechar
     .aria-label = Fechar
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Mais opções
+    .tooltiptext = Mais opções
+aiwindow-history-menu-chat-history = Histórico de conversas
+aiwindow-history-menu-back =
+    .aria-label = Voltar
+    .tooltiptext = Voltar
+aiwindow-history-menu-view-all-chats = Ver todas as conversas
+aiwindow-history-menu-settings = Configurações do { -smart-window-brand-name }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Nova conversa
+aiwindow-fullpage-chat-history =
+    .label = Histórico de conversas
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Mais
+    .title = Mais
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Os dados sincronizados permanecem na sua conta. As { -smart-window-brand-name(plural-form: "true") } abertas mudam para janelas clássicas.

@@ -126,6 +126,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gerenciar configurações de abertura de janelas e redirecionamento de terceiros…
     .accesskey = G
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Ver informações do site
+            [1] Ver informações do site (1 rastreador bloqueado)
+           *[other] Ver informações do site ({ $count } rastreadores bloqueados)
+        }
 
 ##
 
@@ -612,6 +621,8 @@ identity-description-passive-loaded-insecure2 = Este site tem conteúdo que não
 identity-description-passive-loaded-mixed2 = Apesar do { -brand-short-name } ter bloqueado algum conteúdo, ainda há elementos na página que não são seguros (como imagens).
 identity-description-active-loaded = Este site tem conteúdo que não é seguro (como scripts) e sua conexão com ele não é privativa.
 identity-description-active-loaded-insecure = Informações que você compartilhar com este site (como senhas, mensagens, cartões de créditos, etc.) podem ser vistas por terceiros.
+identity-description-tls-key-logging-heading = Sua conexão pode não ser privativa
+identity-description-tls-key-logging-message = Um aplicativo ou serviço pode ver seu tráfego criptografado deste site.
 identity-disable-mixed-content-blocking =
     .label = Desativar proteção por enquanto
     .accesskey = D
@@ -958,6 +969,13 @@ urlbar-result-explanation-bookmarked = Adicionado aos favoritos em { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Última visita em { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Última visita em { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1563,6 +1581,11 @@ private-browsing-indicator-label = Navegação privativa
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Navegação privativa
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informações de navegação privativa
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Você está em uma janela privativa
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1788,6 +1811,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Não seguro
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } rastreador bloqueado
+       *[other] { $count } rastreadores bloqueados
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
