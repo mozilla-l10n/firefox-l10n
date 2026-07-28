@@ -56,3 +56,33 @@ aiwindow-applied-memories-popover =
     .aria-label = Panel memori
 aiwindow-applied-memories-list =
     .aria-label = Memori
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Padam { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Lompat ke bahagian bawah sembang
+    .tooltiptext = Lompat ke bawah
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = Cuba semula
+smartwindow-nl-retry-message = Jika anda masih mahu menutup tab, pilih <strong>Cuba semula</strong> dan buat pilihan anda dalam kad yang dibuka.
+smartwindow-nl-retry-group-tabs-message = Jika anda masih mahu mengumpulkan tab, pilih <strong>Cuba semula</strong> dan pilih yang mana dalam kad yang dibuka.
+smartwindow-nl-thinking = Mencari tab yang sepadan...
+smartwindow-loading-assistant-response =
+    .aria-label = Memuatkan jawapan pembantu
+smartwindow-nl-undo-button =
+    .label = Buat asal
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label = { $count } tab ditutup
+smart-window-closed-tabs-summary = Selesai! Tab ditutup.
+smart-window-closed-tabs-row-label = Tab ditutup
+smart-window-closed-and-restored-label = Tab ditutup dan dipulihkan
