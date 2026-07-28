@@ -536,7 +536,7 @@ fx-backup-opt-in-cancel-btn-label = Πίσω
 
 ## Fx Backup confirmation screen strings
 
-fx-backup-confirmation-screen-title = Η δημιουργία αντιγράφου ασφαλείας έχει προγραμματιστεί
+fx-backup-confirmation-screen-title = Η δημιουργία του αντιγράφου ασφαλείας σας έχει προγραμματιστεί
 fx-backup-confirmation-screen-close-button = Κλείσιμο
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
@@ -567,7 +567,7 @@ restored-from-backup-success-no-checklist-subtitle = Μπορείτε να εν�
 restored-from-backup-success-with-checklist-primary-button = Αποθήκευση και συνέχεια
 restored-from-backup-success-with-checklist-secondary-button = Παράβλεψη βήματος
 restored-from-backup-success-no-checklist-primary-button = Συνέχεια
-restored-from-backup-error-title = Παρουσιάστηκε πρόβλημα με το αντίγραφο ασφαλείας σας.
+restored-from-backup-error-title = Προέκυψε πρόβλημα με το αντίγραφο ασφαλείας σας.
 restored-from-backup-error-subtitle = Αν έχετε κάποιο άλλο αντίγραφο ασφαλείας του αρχείου { -brand-short-name }, δοκιμάστε να κάνετε επαναφορά από αυτό. <a data-l10n-name="restore-problems">Ακόμα έχετε προβλήματα;</a>
 restored-from-backup-error-primary-button = Κλείσιμο
 

@@ -37,6 +37,9 @@ content-sharing-modal-too-many-links-2 =
     { $count ->
        *[other] Θα συμπεριληφθούν μόνο { $count } σύνδεσμοι
     }
+content-sharing-modal-no-shareable-links =
+    .heading = Δεν συμπεριλαμβάνονται σύνδεσμοι με δυνατότητα κοινής χρήσης
+    .message = Μπορούν να κοινοποιηθούν μόνο σύνδεσμοι προς διαδικτυακό περιεχόμενο.
 # Variables:
 #   $count (Number) - The maximum number of pages a user can share at one time
 content-sharing-modal-too-many-pages =
@@ -49,4 +52,4 @@ content-sharing-modal-too-many-pages =
 content-sharing-modal-some-invalid-links = Δεν είναι δυνατή η κοινοποίηση ορισμένων συνδέσμων.
 content-sharing-modal-generic-error-2 =
     .heading = Κάτι πήγε στραβά
-    .message = Δεν ήταν δυνατή η δημιουργία της κοινόχρηστης σελίδας σας αυτή τη φορά. Δοκιμάστε ξανά αργότερα.
+    .message = Δεν ήταν δυνατή η δημιουργία της κοινόχρηστης σελίδας σας αυτήν τη φορά. Δοκιμάστε ξανά αργότερα.
