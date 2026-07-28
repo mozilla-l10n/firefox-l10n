@@ -198,6 +198,26 @@ aiwindow-close-sidebar =
     .tooltiptext = Fermer
     .aria-label = Fermer
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu-chat-history = Historique des discussions
+aiwindow-history-menu-back =
+    .aria-label = Retour
+    .tooltiptext = Retour
+aiwindow-history-menu-view-all-chats = Afficher toutes les discussions
+aiwindow-history-menu-settings = Paramètres des { -smart-window-brand-name(form: "lower-plural") }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Nouvelle discussion
+aiwindow-fullpage-chat-history =
+    .label = Historique des discussions
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Les données synchronisées resteront sur votre compte. Les { -smart-window-brand-name(form: "lower-plural") } ouvertes seront converties en fenêtres classiques.
