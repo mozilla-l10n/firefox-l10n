@@ -198,6 +198,35 @@ aiwindow-close-sidebar =
     .aria-label = Закрыть
     .tooltiptext = Закрыть
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Другие настройки
+    .tooltiptext = Другие настройки
+aiwindow-history-menu-chat-history = История чатов
+aiwindow-history-menu-back =
+    .aria-label = Назад
+    .tooltiptext = Назад
+aiwindow-history-menu-view-all-chats = Просмотреть все чаты
+aiwindow-history-menu-settings = Настройки { -smart-window-brand-name(case: "genitive") }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Новый чат
+aiwindow-fullpage-chat-history =
+    .label = История чатов
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Ещё
+    .title = Ещё
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Синхронизированные данные останутся в вашем аккаунте. При открытии { -smart-window-brand-name(plural-form: "true", case: "genitive") } будет использоваться классическое окно.

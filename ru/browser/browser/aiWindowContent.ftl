@@ -170,6 +170,14 @@ action-log-reading-page = Чтение страницы
 action-log-read-page = Чтение содержимого страницы
 action-log-searching-web = Поиск в Интернете
 action-log-searched-web = Совершён поиск в Интернете
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Поиск в Интернете с помощью <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Совершён поиск в Интернете с помощью <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Проверка воспоминаний
 action-log-checked-memories = Воспоминания проверены
 action-log-searching-settings = Поиск по настройкам
@@ -193,3 +201,10 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = На этой вкладке загружены результаты поиска. Анализ…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = + ещё { $count }

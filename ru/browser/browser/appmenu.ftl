@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = Поделитесь { -brand-product-name }
 appmenuitem-more-tools =
     .label = Другие инструменты
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Помощь и поддержка
 appmenuitem-help =
     .label = Справка
 appmenuitem-exit2 =
@@ -304,6 +307,9 @@ appmenu-help-share-ideas =
     .accesskey = д
 appmenu-help-switch-device =
     .label = Переход на новое устройство
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Помощь и поддержка
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

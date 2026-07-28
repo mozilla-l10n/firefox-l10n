@@ -126,6 +126,17 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Управление настройками всплывающих окон и сторонних перенаправлений…
     .accesskey = Ь
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Просмотреть информацию о сайте
+            [1] Просмотреть информацию о сайте (1 трекер заблокирован)
+            [one] Просмотреть информацию о сайте (заблокирован { $count } трекер)
+            [few] Просмотреть информацию о сайте (заблокировано { $count } трекера)
+           *[many] Просмотреть информацию о сайте (заблокировано { $count } трекеров)
+        }
 
 ##
 
@@ -613,6 +624,7 @@ identity-description-passive-loaded-insecure2 = Этот веб-сайт сод�
 identity-description-passive-loaded-mixed2 = Хотя { -brand-short-name } заблокировал некоторое содержимое, на этой странице всё ещё имеется незащищённое содержимое (такое как изображения).
 identity-description-active-loaded = Этот веб-сайт содержит незащищённое содержимое (такое как скрипты) и ваше соединение с ним не защищено.
 identity-description-active-loaded-insecure = Информация, вводимая вами на этом сайте (например, пароли, сообщения, номера банковских карт и т.д.), может быть видна посторонним.
+identity-description-tls-key-logging-heading = Ваше соединение может быть не приватным
 identity-disable-mixed-content-blocking =
     .label = Пока отключить защиту
     .accesskey = а
