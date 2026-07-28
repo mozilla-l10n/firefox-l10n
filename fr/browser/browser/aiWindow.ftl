@@ -203,6 +203,9 @@ aiwindow-close-sidebar =
 ## view links to the chat history subview and Smart Window settings; the chat
 ## history subview lists recent chats and a shortcut to all chats.
 
+aiwindow-history-menu =
+    .aria-label = Options supplémentaires
+    .tooltiptext = Options supplémentaires
 aiwindow-history-menu-chat-history = Historique des discussions
 aiwindow-history-menu-back =
     .aria-label = Retour
