@@ -804,7 +804,7 @@ update-application-updates-managed-by-os =
 ## Firefox support
 
 support-application-heading =
-    .label = { -brand-short-name } brukerstøtte
+    .label = { -brand-short-name } brukarstøtte
     .description = Feilsøk problem eller del idear med fellesskapet.
 support-get-help =
     .label = Få hjelp
