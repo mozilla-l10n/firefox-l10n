@@ -1585,6 +1585,11 @@ private-browsing-indicator-label = Navegación privada
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Navegación privada
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Información sobre navegación privada
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Estás en una ventana privada
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

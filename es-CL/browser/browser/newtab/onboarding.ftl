@@ -633,3 +633,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = El asistente permanecerá
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Usa Preguntar para abrirlo en cualquier página. Cambia esto cuando quieras en los <a data-l10n-name="settings">Ajustes</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Entendido
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si cambias de opinión, puedes actualizar la configuración predeterminada en <a data-l10n-name="settings">Ajustes</a> en cualquier momento.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Elige un tema
+onboarding-theme-picker-subtitle = Añade un poco más de color a { -brand-short-name }.
+onboarding-theme-picker-button-label = Guardar y continuar
