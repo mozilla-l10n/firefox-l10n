@@ -42,6 +42,7 @@ firefoxview-tabpickup-adddevice-primarybutton = Installez { -brand-product-name 
 firefoxview-syncedtabs-adddevice-header-2 = Récupérez vos onglets où que vous soyez
 firefoxview-syncedtabs-adddevice-description-2 = Connectez-vous à { -brand-product-name } sur votre téléphone ou un autre ordinateur pour afficher leurs onglets ici. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Essayer { -brand-product-name } pour mobile
+firefoxview-syncedtabs-adddevice-description-3 = Scannez le code QR pour obtenir { -brand-product-name } sur votre téléphone et commencer à synchroniser votre onglets ouverts et plus encore. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
 firefoxview-tabpickup-synctabs-header = Activez la synchronisation des onglets
 firefoxview-tabpickup-synctabs-description = Autorisez { -brand-short-name } à partager les onglets entre vos appareils.
 firefoxview-tabpickup-synctabs-learn-how = Me montrer comment faire
@@ -64,6 +65,7 @@ firefoxview-tabpickup-network-offline-header = Vérifiez votre connexion à Inte
 firefoxview-tabpickup-network-offline-description = Si vous utilisez un pare-feu ou un proxy, vérifiez que { -brand-short-name } a l’autorisation d’accéder au Web.
 firefoxview-tabpickup-network-offline-primarybutton = Réessayer
 firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } ne parvient pas à se connecter pour le moment
+firefoxview-tabpickup-network-offline-description-2 = Il se peut que vous soyez hors ligne ou que quelque chose bloque la connexion.
 firefoxview-tabpickup-sync-error-header = Nous rencontrons des problèmes de synchronisation
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } ne peut pas joindre le service de synchronisation pour l’instant. Réessayez dans quelques instants.
 # “Sync hit a snag” means that the sync process is having a problem and can’t connect.
@@ -227,6 +229,9 @@ firefoxview-show-all-history = Afficher tout l’historique
 firefoxview-history-empty-header = Reprenez là où vous en étiez
 firefoxview-history-empty-description = Au cours de votre navigation, les pages visitées seront répertoriées ici.
 firefoxview-history-empty-description-two = La protection de votre vie privée est notre priorité. C’est la raison pour laquelle vous pouvez contrôler les activités dont { -brand-short-name } garde trace dans vos <a data-l10n-name="history-settings-url">paramètres d’historique</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Votre historique de navigation s’affichera ici
 firefoxview-history-empty-description-2 = Au fil de votre navigation, votre historique s’affichera ici. Gérez ce qui est enregistré dans les <a data-l10n-name="history-settings-url">paramètres</a>.
 
 ##
@@ -239,6 +244,8 @@ firefoxview-choose-browser-button = Choisir le navigateur
 
 firefoxview-dont-remember-history-empty-header-2 = Vous contrôlez ce que { -brand-short-name } mémorise
 firefoxview-dont-remember-history-empty-description-one = Pour l’instant, { -brand-short-name } ne mémorise pas votre navigation. Pour changer cela, <a data-l10n-name="history-settings-url-two">modifiez vos paramètres d’historique</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Votre historique de navigation ne sera pas enregistré
 firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } n’enregistre pas votre historique actuellement. Vous pouvez modifier ce choix à tout moment dans les <a data-l10n-name="history-settings-url-two">paramètres</a>.
 
 ##

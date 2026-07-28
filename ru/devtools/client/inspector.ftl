@@ -20,3 +20,16 @@ colorpicker-tooltip-hue-slider-title = Оттенок
 colorpicker-tooltip-alpha-slider-title = Прозрачность
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Псевдоклассы, специфичные для элемента
+inspector-emulation-panel-color-scheme = Эмуляция цветовой схемы
+# A label text for the print emulation options
+inspector-emulation-panel-print = Включить
+    .aria-label = Включить эмуляцию печатных носителей
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Светлая
+    .aria-label = Включает эмуляцию светлой цветовой схемы
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Тёмная
+    .aria-label = Включает эмуляцию тёмной цветовой схемы
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Без эмуляции
+    .aria-label = Отключает эмуляцию цветовой схемы

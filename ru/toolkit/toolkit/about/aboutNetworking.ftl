@@ -19,6 +19,62 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Проверенный
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Ключ изоляции
+about-networking-ssl-tokens = TLS-токены
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } токен
+        [few] { $count } токена
+       *[many] { $count } токенов
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } истёк)
+        [few] ({ $count } истекло)
+       *[many] ({ $count } истекло)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } байт ({ $saved }% сохранено)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } КБ ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Ключ раздела
+about-networking-ssl-tokens-tokens-column = Токены
+about-networking-ssl-tokens-expires = Срок действия
+about-networking-ssl-tokens-certificate = Сертификат
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } токен
+        [few] { $count } токена
+       *[many] { $count } токенов
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Восстановлено из хранилища
+    .title = Восстановлено из хранилища
+about-networking-ssl-tokens-new =
+    .alt = Новый в этой сессии
+    .title = Новый в этой сессии
+about-networking-ssl-tokens-expired =
+    .alt = Просроченный
+    .title = Просроченный
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Токены: { $tokenLength } Б. Зашифровано: { $decompressedLength } → { $compressedLength } Б.
+about-networking-ssl-tokens-ev-status = EV-сертификат
+about-networking-ssl-tokens-ct-status = Статус прозрачности сертификата
+about-networking-ssl-tokens-overridable-error = Переопределяемая категория ошибок
+about-networking-ssl-tokens-built-in-root = Встроенный корень
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Цепочка сертификатов ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Сертификаты рукопожатия ({ $count })
 about-networking-refresh = Обновить
 about-networking-auto-refresh = Автообновление каждые 3 секунды
 about-networking-hostname = Имя узла

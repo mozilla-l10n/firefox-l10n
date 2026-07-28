@@ -767,6 +767,24 @@ newtab-custom-settings = Управление дополнительными н�
 
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Внешний вид
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Просмотреть больше тем
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Темы для { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Ваши темы
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Включить
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Отключить
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Установить тему
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Просмотреть больше тем
 
 ## New Tab Wallpapers
 
