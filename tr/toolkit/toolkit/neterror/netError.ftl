@@ -81,10 +81,10 @@ neterror-dns-not-found-offline-hint-reconnect = Wi-Fi bağlantısını kesip yen
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name }, güvenilir DNS çözümleyicimiz aracılığıyla bu sitenin adresiyle ilgili isteğinizi koruyamıyor. Nedeni:
-neterror-dns-not-found-trr-only-reason2 = { -brand-short-name }, güvenli DNS sağlayıcımız aracılığıyla bu sitenin adresiyle ilgili isteğinizi koruyamıyor. Nedeni:
-neterror-dns-not-found-trr-third-party-warning2 = Varsayılan DNS çözümleyicinizi kullanmaya devam edebilirsiniz ama bu durumda üçüncü taraflar hangi web sitelerini ziyaret ettiğinizi görebilir.
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } bu sitenin adresiyle ilgili isteğinizi güvenli DNS sağlayıcımız aracılığıyla koruyamıyor. Nedeni:
+neterror-dns-not-found-trr-third-party-warning2 = Varsayılan DNS çözümleyicinizle devam edebilirsiniz ama bu durumda üçüncü taraflar hangi siteleri ziyaret ettiğinizi görebilir.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } adresine bağlanamadı.
-neterror-dns-not-found-trr-only-timeout = { $trrDomain } ile bağlantı beklenenden uzun sürdü.
+neterror-dns-not-found-trr-only-timeout = { $trrDomain } ile bağlantı kurulması beklenenden uzun sürdü.
 neterror-dns-not-found-trr-offline = İnternete bağlı değilsiniz.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } bu web sitesini bulamadı.
 neterror-dns-not-found-trr-server-problem = { $trrDomain } ile ilgili bir sorun oluştu.
