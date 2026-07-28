@@ -1542,6 +1542,9 @@ private-browsing-indicator-button =
     .tooltiptext = 사생활 보호 모드 정보
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = 현재 사생활 보호 창을 사용 중입니다
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = 이 기기를 함께 사용하는 다른 사람에게는 내 탐색 기록을 숨길 수 있지만, 온라인에서 내 신원을 완전히 감출 수는 없습니다. <a data-l10n-name="learn-more">누가 내 활동을 볼 수 있나요?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

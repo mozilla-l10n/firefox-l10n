@@ -637,4 +637,5 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = 생각이 바뀌시면
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = 테마 선택
+onboarding-theme-picker-subtitle = { -brand-short-name }에 더 많은 색상을 가져오세요.
 onboarding-theme-picker-button-label = 저장하고 계속
