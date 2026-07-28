@@ -307,6 +307,7 @@ launch-on-login-infobar-final-reject-button = Ne, hvala
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
+launch-on-login-spotlight-title = Želite, da se { -brand-short-name } odpre, ko naslednjič prižgete računalnik?
 launch-on-login-spotlight-startup-checkbox = Odpri { -brand-short-name(sklon: "tozilnik") } ob zagonu
 launch-on-login-spotlight-pin-taskbar-checkbox = Pripni v opravilno vrstico
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
@@ -482,6 +483,7 @@ relay-50-masks-announcement-secondary-button = Zapri
 
 ## Nova Early Access Infobar
 
+nova-early-access-infobar-title = <strong>{ -brand-product-name } dobiva novo podobo.</strong> Pred vami je zgodnja, nedodelana različica, ki bo izpopolnjena in izdana kasneje letos.
 nova-early-access-share-feedback-link = Sporoči povratne informacije
     .accesskey = S
 nova-early-access-infobar-primary-button = Razumem
@@ -492,6 +494,7 @@ nova-early-access-infobar-primary-button = Razumem
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-checkbox-launch-on-login = Odpri { -brand-short-name(sklon: "tozilnik") } ob zagonu računalnika
 launch-options-spotlight-checkbox-pin-to-taskbar = Pripni v opravilno vrstico
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = Shrani in zapri { -brand-short-name(sklon: "tozilnik") }

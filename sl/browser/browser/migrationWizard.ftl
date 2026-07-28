@@ -197,6 +197,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Dokončano
 migration-safari-password-import-header = Uvozi gesla iz brskalnika Safari
+migration-safari-password-import-post-sequoia-step1 = Na računalniku Mac odprite <a data-l10n-name="macos-passwords-app">aplikacijo Gesla</a>
+migration-safari-password-import-post-sequoia-step2 = V menijski vrstici na vrhu zaslona izberite Datoteka > Izvozi vsa gesla v datoteko …
+migration-safari-password-import-post-sequoia-step3 = Shranite datoteko
+migration-safari-password-import-post-sequoia-step4 = Izberite datoteko, ki ste jo shranili
 migration-safari-password-import-steps-header = Za uvoz gesel iz brskalnika Safari:
 migration-safari-password-import-step1 = V Safariju odprite meni “Safari” in izberite Preferences > Passwords
 migration-safari-password-import-step2 = Kliknite gumb <img data-l10n-name="safari-icon-3dots"/> in izberite “Export All Passwords”

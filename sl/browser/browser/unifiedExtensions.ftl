@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Odkrijte razširitve
 unified-extensions-empty-reason-private-browsing-not-allowed = Imate nameščene razširitve, ki pa niso omogočene v zasebnih oknih
 unified-extensions-empty-reason-extension-not-enabled = Imate nameščene razširitve, ki pa niso omogočene
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Peščica razširitev, velika razlika
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Povzdignite brskanje na novo raven z razširitvami
 unified-extensions-empty-content-explain-enable2 = Omogočite jih v nastavitvah s klikom na "{ unified-extensions-manage-extensions.label }".
 unified-extensions-empty-content-explain-manage2 = Izberite "{ unified-extensions-manage-extensions.label }" za njihovo upravljanje v nastavitvah.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Za vas imamo priporočila, kako lahko izboljšate svojo osredotočenost, zasebnost in še več.
 unified-extensions-empty-content-explain-extensions-onboarding = Prilagodite videz ali delovanje { -brand-short-name(sklon: "rodilnik") } po svojem okusu ali okrepite zasebnost in varnost.
 
 ## An extension in the main list

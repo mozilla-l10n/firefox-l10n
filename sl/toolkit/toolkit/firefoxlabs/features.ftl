@@ -87,3 +87,6 @@ experimental-features-newtab-widget-clocks-description = Dodajte do štiri polju
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantično iskanje po zgodovini
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Zapiski zavihka

@@ -65,4 +65,4 @@
         [orodnik] Mozillo
        *[imenovalnik] Mozilla
     }
-trademarkInfo = Firefox in logotip Firefoxa sta blagovni znamki Mozilla Foundation.
+trademarkInfo = Firefox in logotip Firefoxa sta blagovni znamki organizacije Mozilla Foundation.

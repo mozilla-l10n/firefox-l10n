@@ -209,6 +209,7 @@ newtab-privacy-message-info-2 = Blokiranje sledilcev otežuje podjetjem, da bi v
 newtab-privacy-message-info-2-cta = Ogled zaščit
 newtab-privacy-message-info-3-cta = Ogled zaščit
 newtab-privacy-message-info-4-cta = Ogled zaščit
+newtab-privacy-message-info-5 = Blokirani sledilci pomenijo manj podjetij, ki vam lahko sledijo med spletnimi mesti.
 newtab-privacy-message-info-5-cta = Ogled zaščit
 newtab-privacy-message-info-6-cta = Več o tem
 newtab-privacy-message-info-7 = Oglejte si, katere sledilce je { -brand-short-name } blokiral.
@@ -313,6 +314,8 @@ newtab-picture-menu-learn-more = Več o tem
 newtab-picture-show-button =
     .title = Prikaži današnjo sliko
     .aria-label = Prikaži današnjo sliko
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Pridite spet jutri za novo sliko
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Slika dneva Wikimedijine zbirke

@@ -16,6 +16,7 @@ appmenuitem-banner-update-unsupported =
 appmenuitem-banner-update-restart =
     .label = Na voljo je posodobitev – zaženi znova
 appmenu-nova-update-title = Ponovno zaženi za posodobitev { -brand-short-name(sklon: "rodilnik") }
+appmenu-nova-update-description = Zavihki se bodo znova odprli.
 appmenu-nova-fxa-sign-in = Prijava
 appmenu-nova-switch-device-promo =
     .message = Se vam obeta nov računalnik? Vzemite { -brand-short-name(sklon: "tozilnik") } s seboj!
@@ -48,6 +49,10 @@ appmenuitem-translate =
     .label = Prevedi stran …
 appmenuitem-zoom =
     .value = Povečava
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Priporoči { -brand-product-name(sklon: "tozilnik") }
 appmenuitem-more-tools =
     .label = Več orodij
 appmenuitem-help =
@@ -108,6 +113,40 @@ appmenu-remote-tabs-unverified = Svoj račun morate potrditi.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhroniziraj zdaj
 appmenuitem-fxa-sign-in = Prijava v { -brand-product-name }
 appmenuitem-fxa-manage-account = Upravljanje računa
+fxa-menu-sync-status-on = Sinhronizacija je vklopljena
+fxa-menu-sync-status-off = Sinhronizacija je izklopljena
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Vaši podatki se ne sinhronizirajo
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Vklopi
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Prijava v sinhronizacijo
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sinhroniziraj { $deviceName } zdaj
+fxa-menu-manage-sync-settings =
+    .label = Nastavitve sinhronizacije
+fxa-menu-add-device =
+    .label = Dodaj napravo
+fxa-menu-manage-devices =
+    .label = Upravljanje naprav
+fxa-menu-device-missing =
+    .label = Ne vidite svoje naprave?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Vse naprave
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Vse naprave
+fxa-menu-get-firefox-mobile =
+    .label = Prenesi { -brand-product-name(sklon: "tozilnik") } za Android ali iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Varna sinhronizacija
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Račun
 # Variables
@@ -326,9 +365,42 @@ appmenu-manage-profiles =
     .label = Upravljanje profilov
 appmenu-copy-profile =
     .label = Kopiraj ta profil
+appmenu-create-profile2 =
+    .label = Ustvari nov profil
 appmenu-create-profile =
     .label = Nov profil
 appmenu-edit-profile =
     .aria-label = Urejanje profila
+appmenu-edit-this-profile =
+    .label = Uredi ta profil
+appmenu-profile-current-in-use = Profil, trenutno v uporabi
+fxa-menu-create-profile-subpanel =
+    .title = Ustvari nov profil
+fxa-menu-create-profile-confirm =
+    .label = Ustvari nov profil
+fxa-menu-create-profile-learn-more =
+    .label = Kaj so profili?
 appmenu-profiles-2 =
     .label = Profili
+appmenu-profiles-header = Profili
+appmenu-all-profiles =
+    .label = Vsi profili
+appmenu-secure-sync-header = Varna sinhronizacija
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Nedavni zavihki
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Prikaži { $tabCount } sinhronizirani zavihek
+            [two] Prikaži { $tabCount } sinhronizirana zavihka
+            [few] Prikaži vse { $tabCount } sinhronizirane zavihke
+           *[other] Prikaži vseh { $tabCount } sinhroniziranih zavihkov
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Pošlji trenutno stran na to napravo

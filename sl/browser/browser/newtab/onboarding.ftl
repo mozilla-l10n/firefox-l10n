@@ -618,6 +618,10 @@ smartwindow-onboarding-image-alt =
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Želite, da pomočnik ostane zaprt?
+smartwindow-sidebar-auto-open-callout-body = Še vedno ga boste lahko odprli, če ga boste potrebovali.
 smartwindow-sidebar-auto-open-callout-accept = Da, pusti zaprto
 smartwindow-sidebar-auto-open-callout-dismiss = Ne, hvala
+smartwindow-sidebar-auto-open-callout-accepted-title = Pomočnik bo ostal zaprt
 smartwindow-sidebar-auto-open-callout-rejected-title = Razumem
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Če si premislite, lahko kadarkoli spremenite privzete <a data-l10n-name="settings">nastavitve</a>.

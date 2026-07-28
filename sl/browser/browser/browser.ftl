@@ -211,6 +211,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Upravljaj { -firefox-suggest-brand-
 urlbar-result-menu-report-inaccurate-location2 = Prijavi netočno lokacijo
 urlbar-result-menu-show-less-frequently2 = Prikazuj manj pogosto
 urlbar-result-menu-dont-show-weather-suggestions2 = Ne prikazuj podatkov o vremenu
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Skrij ta predlog
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Odstrani iz zgodovine
+    .accesskey = d
 urlbar-result-menu-learn-more =
     .label = Več o tem
     .accesskey = V
@@ -577,6 +587,8 @@ identity-clear-site-data =
     .label = Počisti piškotke in podatke spletnega mesta …
 identity-connection-not-secure-security-view = Niste varno povezani na to stran.
 identity-connection-verified = Varno ste povezani na to stran.
+identity-ev-owner-label2 = Potrdilo izdano
+identity-verifier-label2 = Overil
 identity-ev-owner-label = Potrdilo izdano:
 identity-verifier-label = Preveril:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -1126,6 +1138,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Iskanje po ključnih besedah je onemogočeno
 urlbar-searchmode-dropmarker2 =
     .title = Izberite iskalnik
+urlbar-searchmode-bookmarks3 = Zaznamki
+    .accesskey = a
+urlbar-searchmode-tabs3 = Zavihki
+    .accesskey = v
+urlbar-searchmode-history3 = Zgodovina
+    .accesskey = Z
+urlbar-searchmode-actions3 = Dejanja
+    .accesskey = D
 urlbar-searchmode-bookmarks2 = Zaznamki
 urlbar-searchmode-tabs2 = Zavihki
 urlbar-searchmode-history2 = Zgodovina
@@ -1145,6 +1165,10 @@ urlbar-searchmode-popup-one-off-header = Tokrat išči z iskalnikom:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Išči z iskalnikom:
+urlbar-searchmode-popup-search-settings = Nastavitve iskanja
+    .accesskey = s
+urlbar-searchmode-popup-settings = Nastavitve
+    .accesskey = s
 urlbar-searchmode-popup-search-settings-panelitem = Nastavitve iskanja
 urlbar-searchmode-popup-settings-panelitem = Nastavitve
 

@@ -76,6 +76,11 @@ options-webconsole-split-console-label = Omogoči deljeno konzolo
 options-webconsole-split-console-tooltip =
     .title = Deljeno konzolo odprete s tipko Escape
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Spremljanje omrežja
+
 ## Style Editor section
 
 # The heading
@@ -114,6 +119,12 @@ options-sourceeditor-expandtab-label = Zamik s presledki
 options-sourceeditor-tabsize-label = Velikost tabulatorja
 options-sourceeditor-keybinding-label = Bližnjice tipk
 options-sourceeditor-keybinding-default-label = Privzeto
+
+## Local Mode section
+
+options-local-mode-folder-label = Krajevna mapa:
+options-local-mode-toggle-enable = Omogoči
+options-local-mode-toggle-disable = Onemogoči
 
 ## Advanced section
 

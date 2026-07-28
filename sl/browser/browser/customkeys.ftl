@@ -81,12 +81,23 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Pritisnite novo tipko:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (ni mogoče spremeniti)
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-title = Odstrani drugo bližnjico?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Ta bližnjica se že uporablja za dejanje "{ $conflict }".
 customkeys-conflict-confirm-button-confirm = Vseeno uporabi
 customkeys-conflict-confirm-button-cancel = Prekliči
+customkeys-conflict-unusable-title = Bližnjice ni mogoče nastaviti
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Ta bližnjica se že uporablja za dejanje "{ $conflict }" in je ni mogoče uporabiti.
 customkeys-reset-all-confirm-title = Želite obnoviti privzete nastavitve?
+customkeys-reset-all-confirm-body = Vse bližnjice na tipkovnici, ki ste jih nastavili sami, bodo odstranjene.
 customkeys-reset-all-confirm-button-confirm = Obnovi privzeto
 customkeys-reset-all-confirm-button-cancel = Prekliči
 
