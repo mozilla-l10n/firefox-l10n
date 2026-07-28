@@ -60,8 +60,11 @@ firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Votre organisation 
 firefoxview-tabpickup-network-offline-header = Vérifiez votre connexion à Internet
 firefoxview-tabpickup-network-offline-description = Si vous utilisez un pare-feu ou un proxy, vérifiez que { -brand-short-name } a l’autorisation d’accéder au Web.
 firefoxview-tabpickup-network-offline-primarybutton = Réessayer
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } ne parvient pas à se connecter pour le moment
 firefoxview-tabpickup-sync-error-header = Nous rencontrons des problèmes de synchronisation
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } ne peut pas joindre le service de synchronisation pour l’instant. Réessayez dans quelques instants.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = La synchronisation rencontre un problème
 firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } ne parvient pas à se connecter. Patientez quelques instants, puis essayez à nouveau
 firefoxview-tabpickup-sync-error-primarybutton = Réessayer
 firefoxview-tabpickup-sync-disconnected-header = Activez la synchronisation pour continuer
