@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Чтобы просматрив�
 firefoxview-tabpickup-step-signin-primarybutton = Продолжить
 firefoxview-syncedtabs-signin-header-2 = Ваш { -brand-product-name } на всех ваших устройствах
 firefoxview-syncedtabs-signin-description-2 = Чтобы увидеть вкладки, открытые на вашем телефоне и других устройствах, войдите или зарегистрируйте аккаунт. С аккаунтом вы также можете синхронизировать пароли, историю и многое другое.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = С ноутбука на телефон, бесшовно
+firefoxview-syncedtabs-signin-description-3 = Сохраняйте просмотр при переключении между устройствами — вкладки, пароли и история синхронизируются.
 firefoxview-syncedtabs-signin-primarybutton-2 = Войти
 firefoxview-tabpickup-adddevice-header = Синхронизируйте { -brand-product-name } на своём телефоне или планшете
 firefoxview-tabpickup-adddevice-description = Скачайте { -brand-product-name } для мобильных устройств и выполните вход.
@@ -40,22 +43,37 @@ firefoxview-tabpickup-adddevice-primarybutton = Получить { -brand-produc
 firefoxview-syncedtabs-adddevice-header-2 = Захватывайте вкладки отовсюду
 firefoxview-syncedtabs-adddevice-description-2 = Войдите в { -brand-product-name } на вашем телефоне или другом компьютере, чтобы увидеть здесь вкладки. Узнайте, как <a data-l10n-name="url">подключить дополнительные устройства</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Попробуйте { -brand-product-name } для мобильных устройств
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Ваши вкладки вызваны. Они на вашем телефоне.
+firefoxview-syncedtabs-adddevice-description-3 = Отсканируйте QR-код, чтобы скачать { -brand-product-name } для мобильных устройств и начать синхронизировать открытые вкладки и многое другое. Узнайте, как <a data-l10n-name="url">подключить дополнительные устройства</a>.
 firefoxview-tabpickup-synctabs-header = Включить синхронизацию вкладок
 firefoxview-tabpickup-synctabs-description = Разрешить { -brand-short-name } делиться вкладками между устройствами.
 firefoxview-tabpickup-synctabs-learn-how = Подробнее
 firefoxview-tabpickup-synctabs-primarybutton = Синхронизировать открытые вкладки
+firefoxview-tabpickup-synctabs-primarybutton-2 = Включить синхронизацию вкладок
 firefoxview-syncedtabs-synctabs-header = Обновите настройки синхронизации
 firefoxview-syncedtabs-synctabs-description = Чтобы увидеть вкладки с других устройств, вам необходимо синхронизировать открытые вкладки.
+firefoxview-syncedtabs-synctabs-header-2 = Синхронизация вкладок отключена
+firefoxview-syncedtabs-synctabs-description-2 = Снова включите синхронизацию, чтобы захватить все ваши вкладки с других устройств.
 firefoxview-syncedtabs-loading-header = Выполняется синхронизация
 firefoxview-syncedtabs-loading-description = Когда процесс завершится, вы увидите все вкладки, открытые на других устройствах. Зайдите в ближайшее время.
+firefoxview-syncedtabs-loading-header-2 = Получение ваших вкладок…
+firefoxview-syncedtabs-loading-description-2 = Выполняется синхронизация. Вкладки скоро будут здесь.
 firefoxview-tabpickup-fxa-admin-disabled-header = В вашей организации синхронизация отключена
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не может синхронизировать вкладки между устройствами, потому что ваш администратор отключил синхронизацию.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } не может синхронизировать вкладки между устройствами, так как ваша организация отключила синхронизацию.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Синхронизация вкладок отключена
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ваша организация заблокировала эту функцию.
 firefoxview-tabpickup-network-offline-header = Проверьте своё соединение с Интернетом
 firefoxview-tabpickup-network-offline-description = Если вы используете межсетевой экран или прокси, убедитесь, что { -brand-short-name } разрешён доступ к Интернету.
 firefoxview-tabpickup-network-offline-primarybutton = Попробовать снова
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } не может подключиться прямо сейчас
+firefoxview-tabpickup-network-offline-description-2 = Возможно, вы не подключены к интернету или что-то блокирует соединение.
 firefoxview-tabpickup-sync-error-header = У нас возникли проблемы с синхронизацией
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } не удаётся соединиться со службой синхронизации прямо сейчас. Попробуйте снова через некоторое время.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Синхронизация столкнулась с проблемой
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } не смог подключиться. Подождите немного и попробуйте снова
 firefoxview-tabpickup-sync-error-primarybutton = Попробовать снова
 firefoxview-tabpickup-sync-disconnected-header = Для продолжения включите синхронизацию
 firefoxview-tabpickup-sync-disconnected-description = Чтобы забрать вкладки, вам нужно разрешить в { -brand-short-name } синхронизацию.
@@ -65,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = Чтобы получить 
 firefoxview-tabpickup-password-locked-link = Подробнее
 firefoxview-tabpickup-password-locked-primarybutton = Введите Основной пароль
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Подробнее</a>
+firefoxview-tabpickup-password-locked-header-2 = Разблокируйте вкладки с помощью вашего основного пароля
+firefoxview-tabpickup-password-locked-description-2 = Для вашей приватности синхронизируемые вкладки защищены. Введите свой основной пароль { -brand-short-name }, чтобы увидеть вкладки с других устройств.
 firefoxview-tabpickup-signed-out-header = Войти, чтобы подключиться снова
 firefoxview-tabpickup-signed-out-description = Чтобы снова подключиться и получить свои вкладки, войдите в свой { -fxaccount-brand-name(case: "nominative") }.
 firefoxview-tabpickup-signed-out-description2 = Чтобы снова подключиться и получить свои вкладки, войдите в свой аккаунт.
 firefoxview-tabpickup-signed-out-primarybutton = Войти
+firefoxview-tabpickup-signed-out-header-2 = Войдите, чтобы увидеть свои вкладки
+firefoxview-tabpickup-signed-out-description-2 = Подключитесь снова, чтобы просматривать вкладки с других устройств.
 firefoxview-tabpickup-syncing = Подождите, пока вкладки синхронизируются. Это займёт одно мгновение.
 firefoxview-mobile-promo-header = Просматривайте вкладки со своего телефона или планшета
 firefoxview-mobile-promo-description = Чтобы просмотреть свои последние вкладки с мобильного устройства, войдите в { -brand-product-name } на iOS или Android.
@@ -211,6 +233,10 @@ firefoxview-show-all-history = Показать всю историю
 firefoxview-history-empty-header = Вернуться обратно
 firefoxview-history-empty-description = По мере сёрфинга, страницы, которые вы посещаете, будут появляться здесь.
 firefoxview-history-empty-description-two = Защита вашей конфиденциальности лежит в основе того, что мы делаем. Вот почему вы можете контролировать активность, которую помнит { -brand-short-name }, в <a data-l10n-name="history-settings-url">настройках истории</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Ваш путь к сёрфингу начинается здесь
+firefoxview-history-empty-description-2 = Когда вы посещаете страницы, ваша история будет появляться здесь. Контролируйте, что запоминается, в <a data-l10n-name="history-settings-url">настройках</a>.
 
 ##
 
@@ -222,6 +248,9 @@ firefoxview-choose-browser-button = Выберите браузер
 
 firefoxview-dont-remember-history-empty-header-2 = Вы контролируете то, что запоминает { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = В данный момент { -brand-short-name } не запоминает вашу активность в Интернете. Чтобы изменить это, <a data-l10n-name="history-settings-url-two">обновите настройки истории</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Вас не записывают
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } не сохраняет вашу историю прямо сейчас. Измените это в любое время в <a data-l10n-name="history-settings-url-two">настройках</a>.
 
 ##
 

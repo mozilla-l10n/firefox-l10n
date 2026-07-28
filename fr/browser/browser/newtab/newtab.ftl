@@ -757,6 +757,9 @@ newtab-custom-settings = Gérer plus de paramètres
 
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Apparence
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Afficher davantage de thèmes
 # Title of the full theme selection sub-panel, also used as its back button label.
 newtab-appearance-manage-title = Thèmes de { -brand-product-name }
 # Header for the list of the user's already-installed themes in the full theme panel.
