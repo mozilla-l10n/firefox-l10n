@@ -922,7 +922,7 @@ preferences-fonts-advanced-settings =
 ## General Section - Proxy
 
 network-settings-title = Ağ ayarları
-network-proxy-connection-description = { -brand-short-name } tarayıcınızın internete nasıl bağlanacağını yapılandırın.
+network-proxy-connection-description = { -brand-short-name } tarayıcısının internete nasıl bağlanacağını yapılandırın.
 network-proxy-connection-learn-more = Daha fazla bilgi al
 network-proxy-connection-settings =
     .label = Ayarlar…

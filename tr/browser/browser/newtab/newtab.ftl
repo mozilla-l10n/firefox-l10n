@@ -1137,7 +1137,7 @@ newtab-widget-timer-mode-focus =
 newtab-widget-timer-mode-break =
     .label = Mola ver
 newtab-widget-timer-label-play =
-    .label = Başlat
+    .label = Oynat
 newtab-widget-timer-label-pause =
     .label = Duraklat
 newtab-widget-timer-reset =
@@ -1423,7 +1423,7 @@ newtab-sports-widget-match-aria-label-upcoming-cancelled =
 ## internationalization tooling.
 
 newtab-sports-widget-team-name-label-bih =
-    .label = Bosna Hersek
+    .label = Bosna-Hersek
 newtab-sports-widget-team-name-label-civ =
     .label = Fildişi Sahili
 newtab-sports-widget-team-name-label-cod =

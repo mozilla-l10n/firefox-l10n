@@ -136,7 +136,7 @@ fxa-menu-add-device =
 fxa-menu-manage-devices =
     .label = Cihazlarımı yönet
 fxa-menu-device-missing =
-    .label = Cihazınızı görmüyor musunuz?
+    .label = Cihazınızı göremiyor musunuz?
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
 fxa-menu-all-devices =
     .label = Tüm cihazlar
