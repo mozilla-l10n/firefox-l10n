@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Прыватнасць
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Крыжаванка
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Акцыі
@@ -322,6 +325,8 @@ newtab-privacy-message-first-protection-cta = Паглядзець ахову
 newtab-stocks-menu-search = Пошук сімвалаў тыкераў
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Падрабязней
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Фондавыя звесткі недаступныя.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -497,6 +502,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Правіць
+newtab-menu-add-topsite = Дадаць новы цэтлік
 newtab-menu-open-new-window = Адкрыць у новым акне
 newtab-menu-open-new-private-window = Адкрыць у новым прыватным акне
 newtab-menu-dismiss = Адхіліць
@@ -760,6 +766,14 @@ newtab-custom-close-menu-button =
     .aria-label = Закрыць меню
 newtab-custom-close-button = Закрыць
 newtab-custom-settings = Кіраваць дадатковымі наладамі
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Выгляд
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Паглядзець больш тэм
 
 ## New Tab Wallpapers
 
