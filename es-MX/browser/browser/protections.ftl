@@ -106,7 +106,7 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] 1 filtración de datos conocida expuso tu información
+        [one] filtración de datos conocida expuso tu información
        *[other] filtraciones de datos conocidas que expusieron tu información
     }
 # This string is displayed after a large numeral that indicates the total number
