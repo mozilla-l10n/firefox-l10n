@@ -1586,6 +1586,9 @@ private-browsing-indicator-button =
     .tooltiptext = Жекелік шолу ақпараты
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Сіз жекелік шолу режиміндегі терезедесіз
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Бұл құрылғыдағы шолуыңызды басқалардан жасыруға көмектеседі, бірақ сізді онлайн режимінде көрінбейтін етпейді. <a data-l10n-name="learn-more">Менің әрекеттерімді кім көре алады?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

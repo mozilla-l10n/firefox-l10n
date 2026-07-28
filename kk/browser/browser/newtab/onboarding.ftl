@@ -637,4 +637,5 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Егер ойыңыз�
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Теманы таңдау
+onboarding-theme-picker-subtitle = { -brand-short-name } ішіне көбірек түс қосыңыз.
 onboarding-theme-picker-button-label = Сақтау және жалғастыру

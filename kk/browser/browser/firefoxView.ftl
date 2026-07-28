@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Телефон беттерін 
 firefoxview-tabpickup-step-signin-primarybutton = Жалғастыру
 firefoxview-syncedtabs-signin-header-2 = Сіздің { -brand-product-name } барлық құрылғыларыңызда
 firefoxview-syncedtabs-signin-description-2 = Телефонда және басқа құрылғыларда ашылған беттерді көру үшін жүйеге кіріңіз немесе тіркелгі жасаңыз. Тіркелгі арқылы парольдер, тарихты және т.б. синхрондауға болады.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Ноутбуктан телефонға өту, кедергісіз
+firefoxview-syncedtabs-signin-description-3 = Барлық құрылғыларда шолуды іске қосулы ұстаңыз — беттер, парольдер және тарих, барлығы синхрондалған.
 firefoxview-syncedtabs-signin-primarybutton-2 = Кіру
 firefoxview-tabpickup-adddevice-header = Телефонда немесе планшетте { -brand-product-name }синхрондаңыз
 firefoxview-tabpickup-adddevice-description = Мобильді телефонға { -brand-product-name } жүктеп алып, сол жерден кіріңіз.
@@ -40,22 +43,37 @@ firefoxview-tabpickup-adddevice-primarybutton = Мобильді { -brand-produc
 firefoxview-syncedtabs-adddevice-header-2 = Беттерді кез келген жерден алу
 firefoxview-syncedtabs-adddevice-description-2 = Осында беттерді көру үшін телефонда немесе басқа компьютерде { -brand-product-name } ішіне кіріңіз. <a data-l10n-name="url">Қосымша құрылғыларды қосу жолын</a> үйреніңіз.
 firefoxview-syncedtabs-adddevice-primarybutton = Мобильді { -brand-product-name } қолданып көру
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Беттеріңіз хабарласты. Олар сіздің телефоныңызда.
+firefoxview-syncedtabs-adddevice-description-3 = Мобильді құрылғыларға арналған { -brand-product-name } алу үшін QR кодын сканерлеңіз және ашық беттер және т.б. синхрондауды бастаңыз. <a data-l10n-name="url">Қосымша құрылғыларды қалай қосу</a> туралы біліңіз.
 firefoxview-tabpickup-synctabs-header = Беттер синхрондауын іске қосу
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } үшін құрылғылар арасында беттермен бөлісуді рұқсат ету.
 firefoxview-tabpickup-synctabs-learn-how = Көбірек білу
 firefoxview-tabpickup-synctabs-primarybutton = Ашық беттерді синхрондау
+firefoxview-tabpickup-synctabs-primarybutton-2 = Беттер синхрондауын іске қосу
 firefoxview-syncedtabs-synctabs-header = Синхрондау баптауларын жаңартыңыз
 firefoxview-syncedtabs-synctabs-description = Басқа құрылғылардан беттерді көру үшін ашық беттерді синхрондау керек.
+firefoxview-syncedtabs-synctabs-header-2 = Беттерді синхрондау сөндірулі
+firefoxview-syncedtabs-synctabs-description-2 = Басқа құрылғылардан барлық беттерді алу үшін синхрондауды іске қайта қосыңыз.
 firefoxview-syncedtabs-loading-header = Синхрондау орындалуда
 firefoxview-syncedtabs-loading-description = Ол аяқталғаннан кейін, сіз басқа құрылғыларда ашылған барлық беттерді көресіз. Біраздан кейін тексеріңіз.
+firefoxview-syncedtabs-loading-header-2 = Беттеріңіз алынуда…
+firefoxview-syncedtabs-loading-description-2 = Синхрондау жүріп жатыр. Беттер жақын арада осында болады.
 firefoxview-tabpickup-fxa-admin-disabled-header = Сізідң ұйымыңыз синхрондауды сөндірген
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } құрылғылар арасында беттерді синхрондай алмайды, себебі әкімшіңіз синхрондауды сөндірген.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } құрылғылар арасында беттерді синхрондай алмайды, себебі ұйымыңыз синхрондауды сөндірген.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Беттерді синхрондау сөндірулі
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Сіздің ұйымыңыз бұл мүмкіндікті бұғаттады.
 firefoxview-tabpickup-network-offline-header = Интернет байланысын тексеріңіз
 firefoxview-tabpickup-network-offline-description = Брандмауэр немесе прокси қолданып жатсаңыз, { -brand-short-name } интернетке кіруге рұқсаты бар екенін тексеріңіз.
 firefoxview-tabpickup-network-offline-primarybutton = Қайтадан көру
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } қазір қосыла алмайды
+firefoxview-tabpickup-network-offline-description-2 = Сіз желіден тыс болуыңыз мүмкін немесе қосылымды бірдеңе бұғаттап жатқан болуы мүмкін.
 firefoxview-tabpickup-sync-error-header = Синхрондауда қиындықтар туындап жатыр
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } дәл қазір синхрондау қызметіне қол жеткізе алмайды. Бірнеше минуттан кейін әрекетті қайталаңыз.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Синхрондау мәселеге тап болды
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } қосыла алмады. Біраздан кейін қайталап көріңіз
 firefoxview-tabpickup-sync-error-primarybutton = Қайтадан көру
 firefoxview-tabpickup-sync-disconnected-header = Жалғастыру үшін синхрондауды іске қосыңыз
 firefoxview-tabpickup-sync-disconnected-description = Беттерді алу үшін { -brand-short-name } ішінде синхрондауға рұқсат беруіңіз керек.
@@ -65,6 +83,7 @@ firefoxview-tabpickup-password-locked-description = Беттерді алу үш
 firefoxview-tabpickup-password-locked-link = Көбірек білу
 firefoxview-tabpickup-password-locked-primarybutton = Басты парольді енгізіңіз
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Көбірек білу</a>
+firefoxview-tabpickup-password-locked-header-2 = Беттер құлпын басты пароліңізбен ашыңыз
 firefoxview-tabpickup-signed-out-header = Қайта байланысу үшін кіру
 firefoxview-tabpickup-signed-out-description = Қайта байланысу және беттерді алу үшін { -fxaccount-brand-name } ішіне кіріңіз.
 firefoxview-tabpickup-signed-out-description2 = Қайта байланысу және беттерді алу үшін тіркелгіңізге кіріңіз.
@@ -221,6 +240,9 @@ firefoxview-choose-browser-button = Браузерді таңдау
 
 firefoxview-dont-remember-history-empty-header-2 = Сіз { -brand-short-name } нені есте сақтайтынын басқарасыз
 firefoxview-dont-remember-history-empty-description-one = Дәл қазір { -brand-short-name } сіздің шолу әрекеттеріңізді есте сақтамайды. Оны өзгерту үшін <a data-l10n-name="history-settings-url-two">тарих параметрлерін жаңартыңыз</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Сіз жазбадан тыссыз
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } қазір сіздің тарихыңызды сақтап жатқан жоқ. Оны кез келген уақытта <a data-l10n-name="history-settings-url-two">баптауларда</a> өзгерте аласыз.
 
 ##
 
