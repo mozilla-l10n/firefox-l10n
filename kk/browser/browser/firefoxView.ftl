@@ -84,10 +84,13 @@ firefoxview-tabpickup-password-locked-link = Көбірек білу
 firefoxview-tabpickup-password-locked-primarybutton = Басты парольді енгізіңіз
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Көбірек білу</a>
 firefoxview-tabpickup-password-locked-header-2 = Беттер құлпын басты пароліңізбен ашыңыз
+firefoxview-tabpickup-password-locked-description-2 = Құпиялылығыңыз үшін синхрондалған беттер қорғалған. Басқа құрылғыларыңыздан беттерді көру үшін { -brand-short-name } басты пароліңізді енгізіңіз.
 firefoxview-tabpickup-signed-out-header = Қайта байланысу үшін кіру
 firefoxview-tabpickup-signed-out-description = Қайта байланысу және беттерді алу үшін { -fxaccount-brand-name } ішіне кіріңіз.
 firefoxview-tabpickup-signed-out-description2 = Қайта байланысу және беттерді алу үшін тіркелгіңізге кіріңіз.
 firefoxview-tabpickup-signed-out-primarybutton = Кіру
+firefoxview-tabpickup-signed-out-header-2 = Беттеріңізді көру үшін жүйеге кіріңіз
+firefoxview-tabpickup-signed-out-description-2 = Басқа құрылғылардан беттерді көру үшін қайта қосылыңыз.
 firefoxview-tabpickup-syncing = Беттер синхрондалғанын күте тұрыңыз. Бұл жылдам болады.
 firefoxview-mobile-promo-header = Телефоннан немесе планшеттен беттерді алыңыз
 firefoxview-mobile-promo-description = Соңғы мобильді беттерді көру үшін iOS немесе Android жүйесінде { -brand-product-name } ішіне кіріңіз.
@@ -229,6 +232,10 @@ firefoxview-show-all-history = Бүкіл тарихты көрсету
 firefoxview-history-empty-header = Болған жеріңізге оралу
 firefoxview-history-empty-description = Сіз шолу кезінде кірген беттер тізімі осында көрсетілетін болады.
 firefoxview-history-empty-description-two = Сіздің жекелігіңізді қорғау - біздің жұмысымыздың негізі. Сондықтан { -brand-short-name } есте сақтайтын белсенділікті <a data-l10n-name="history-settings-url">тарих баптауларында</a> басқара аласыз.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Сіздің шолу жолыңыз осы жерден басталады
+firefoxview-history-empty-description-2 = Беттерді шолған кезде, сіздің тарихыңыз осында көрсетіледі. <a data-l10n-name="history-settings-url">Баптаулар</a> бөлімінде қандай ақпараттың сақталатынын басқарыңыз.
 
 ##
 
