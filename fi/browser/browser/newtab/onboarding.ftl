@@ -634,3 +634,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Avustaja pysyy suljettuna
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Avaa se millä tahansa sivulla Kysy-toiminnolla. Voit muuttaa tätä milloin tahansa <a data-l10n-name="settings">asetuksissa</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Selvä
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jos muutat mielesi, voit päivittää oletusasetuksen <a data-l10n-name="settings">asetuksissa</a> milloin tahansa.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Valitse teema
+onboarding-theme-picker-subtitle = Lisää hieman väriä { -brand-short-name }iin.
+onboarding-theme-picker-button-label = Tallenna ja jatka

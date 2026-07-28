@@ -97,6 +97,7 @@ aiwindow-firstrun-title = { -smart-window-brand-name(form: "uppercase-singular")
 aiwindow-firstrun-model-title = Sizin için önemli olan nedir?
 aiwindow-firstrun-model-title-v2 = Başlamak için bir model seçin
 aiwindow-firstrun-model-subtitle = { -smart-window-brand-name(form: "uppercase-singular") }de kullanacak modeli seçin. İstediğiniz zaman değiştirebilirsiniz.
+aiwindow-firstrun-model-subtitle-v2 = Modeller sekmelerinizi özetlemenize, karşılaştırmanıza ve keşfetmenize yardımcı olur. İstediğiniz zaman modelinizi değiştirebilirsiniz.
 aiwindow-firstrun-model-fast-label = Hızlı
 aiwindow-firstrun-model-fast-body = Hızlı cevap verir
 # $shortName (string) - The short name of the model version
@@ -140,6 +141,7 @@ aiwindow-input-model-select-settings-link = Model ayarları
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kendini eğitmek amacıyla sohbetlerinizi, gezintilerinizi veya ikisini birden kullanarak anılar oluşturabilir. Anılar zaman içinde size daha faydalı yanıtlar verilmesini sağlar.
 aiwindow-firstrun-memories-conversation-title = Sohbete devam edin
 aiwindow-firstrun-memories-relevance-title = Daha alakalı cevaplar
 aiwindow-firstrun-memories-privacy-title = Özünde gizlilik var

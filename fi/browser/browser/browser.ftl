@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Hallitse { -firefox-suggest-brand-n
 urlbar-result-menu-report-inaccurate-location2 = Ilmoita epätarkasta sijainnista
 urlbar-result-menu-show-less-frequently2 = Näytä harvemmin
 urlbar-result-menu-dont-show-weather-suggestions2 = Älä näytä sääehdotuksia
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Hylkää tämä ehdotus
+    .accesskey = H
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Poista historiasta
+    .accesskey = P
 urlbar-result-menu-learn-more =
     .label = Lue lisää
     .accesskey = L
@@ -947,6 +957,13 @@ urlbar-result-explanation-bookmarked = Lisätty kirjanmerkkeihin { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Käyty viimeksi { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Käyty viimeksi { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1767,6 +1784,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Ei suojattu
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } seurain estetty
+       *[other] { $count } seurainta estetty
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

@@ -95,6 +95,9 @@ delete-profile-logins = Salasanat
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Poista profiili ”{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Poistetaanko profiili “{ $profilename }”?
 
 ##
 

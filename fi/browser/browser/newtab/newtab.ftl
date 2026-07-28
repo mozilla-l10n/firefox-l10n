@@ -314,6 +314,8 @@ newtab-privacy-message-first-protection-cta = Näytä suojaukset
 newtab-stocks-menu-search = Hae osakesymboleja
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Lue lisää
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Osaketietoja ei ole saatavilla.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -754,6 +756,23 @@ newtab-custom-close-menu-button =
     .aria-label = Sulje valikko
 newtab-custom-close-button = Sulje
 newtab-custom-settings = Muokkaa lisää asetuksia
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Ulkoasu
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Katso lisää teemoja
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name }-teemat
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Omat teemat
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Asenna teema
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Tutustu muihin teemoihin
 
 ## New Tab Wallpapers
 

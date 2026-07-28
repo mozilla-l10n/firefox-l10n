@@ -85,6 +85,9 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Tümünü sil
 ai-window-delete-all-memories-title = Tüm anılar silinsin mi?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Mevcut anılar silinecektir. Bundan sonra yeni anı oluşturulmasını istemiyorsanız { -smart-window-brand-name } ayarlarından “Eğitim için…” seçeneklerinin işaretini kaldırın.
 ai-window-delete-all-memories-confirm = Sil
 ai-window-delete-all-memories-cancel = Vazgeç
 # Variables:
