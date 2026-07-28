@@ -634,3 +634,8 @@ smartwindow-sidebar-auto-open-callout-accepted-title = De assistint bliuwt ticht
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Brûk Freegje om it op elke side te iepenjen. Wizigje dit op elk winske momint yn <a data-l10n-name="settings">Ynstellingen</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Begrepen
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = As jo fan gedachten feroarje, kinne jo de standertwearde op elk momint bywurkje yn <a data-l10n-name="settings">Ynstellingen</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Kies in tema
+onboarding-theme-picker-button-label = Bewarje en trochgean

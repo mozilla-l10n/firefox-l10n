@@ -764,6 +764,21 @@ newtab-custom-appearance-section-title = Uterlik
 # Button that opens the full browser theme selection view.
 newtab-appearance-more-themes-button =
     .label = Mear tema’s besjen
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name }-tema’s
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Jo tema’s
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Ynskeakelje
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Utskeakelje
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Tema ynstallearje
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Mear tema’s ferkenne
 
 ## New Tab Wallpapers
 
