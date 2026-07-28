@@ -26,6 +26,35 @@ about-networking-ssl-tokens-summary-count =
         [one] { $count } token
        *[other] { $count } tokens
     }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } expirado)
+       *[other] ({ $count } expirados)
+    }
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Chave de partição
+about-networking-ssl-tokens-tokens-column = Tokens
+about-networking-ssl-tokens-expires = Validade
+about-networking-ssl-tokens-certificate = Certificado
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokens
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Restaurado do armazenamento
+    .title = Restaurado do armazenamento
+about-networking-ssl-tokens-new =
+    .alt = Novo nesta sessão
+    .title = Novo nesta sessão
+about-networking-ssl-tokens-expired =
+    .alt = Expirado
+    .title = Expirado
 about-networking-refresh = Atualizar
 about-networking-auto-refresh = Atualizar a cada 3 segundos
 about-networking-hostname = Servidor
