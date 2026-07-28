@@ -638,4 +638,5 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = As jo fan gedachten fe
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Kies in tema
+onboarding-theme-picker-subtitle = Bring wat mear kleur yn { -brand-short-name }.
 onboarding-theme-picker-button-label = Bewarje en trochgean

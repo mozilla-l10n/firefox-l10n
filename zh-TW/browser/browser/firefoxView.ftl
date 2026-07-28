@@ -42,6 +42,9 @@ firefoxview-tabpickup-adddevice-primarybutton = 下載 { -brand-product-name } �
 firefoxview-syncedtabs-adddevice-header-2 = 取回所有裝置上的分頁
 firefoxview-syncedtabs-adddevice-description-2 = 在手機或另一台電腦登入 { -brand-product-name } 即可在此看到分頁。了解如何<a data-l10n-name="url">連結其他裝置</a>。
 firefoxview-syncedtabs-adddevice-primarybutton = 試用 { -brand-product-name } 行動版
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = 您的分頁，從手機來電。
+firefoxview-syncedtabs-adddevice-description-3 = 掃描 QR Code 即可安裝 { -brand-product-name } 行動版，同步您開啟的分頁與更多內容。了解如何<a data-l10n-name="url">連結更多裝置</a>。
 firefoxview-tabpickup-synctabs-header = 開啟分頁同步
 firefoxview-tabpickup-synctabs-description = 允許 { -brand-short-name } 在不同裝置間分享分頁。
 firefoxview-tabpickup-synctabs-learn-how = 了解要怎麼做
