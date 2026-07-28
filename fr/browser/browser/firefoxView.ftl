@@ -235,6 +235,7 @@ firefoxview-choose-browser-button = Choisir le navigateur
 
 firefoxview-dont-remember-history-empty-header-2 = Vous contrôlez ce que { -brand-short-name } mémorise
 firefoxview-dont-remember-history-empty-description-one = Pour l’instant, { -brand-short-name } ne mémorise pas votre navigation. Pour changer cela, <a data-l10n-name="history-settings-url-two">modifiez vos paramètres d’historique</a>.
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } n’enregistre pas votre historique actuellement. Vous pouvez modifier ce choix à tout moment dans les <a data-l10n-name="history-settings-url-two">paramètres</a>.
 
 ##
 

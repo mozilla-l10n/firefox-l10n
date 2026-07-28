@@ -84,6 +84,7 @@ firefoxview-tabpickup-signed-out-description = Για να επανασυνδε�
 firefoxview-tabpickup-signed-out-description2 = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον λογαριασμό σας.
 firefoxview-tabpickup-signed-out-primarybutton = Σύνδεση
 firefoxview-tabpickup-signed-out-header-2 = Συνδεθείτε για να δείτε τις καρτέλες σας
+firefoxview-tabpickup-signed-out-description-2 = Συνδεθείτε ξανά για να δείτε καρτέλες από άλλες συσκευές.
 firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
 firefoxview-mobile-promo-header = Λάβετε καρτέλες από το τηλέφωνο ή το tablet σας
 firefoxview-mobile-promo-description = Για να δείτε τις πρόσφατες καρτέλες από την κινητή σας συσκευή, συνδεθείτε στο { -brand-product-name } για iOS ή Android.
@@ -225,6 +226,10 @@ firefoxview-show-all-history = Εμφάνιση πλήρους ιστορικο�
 firefoxview-history-empty-header = Επιστρέψτε εκεί που ήσασταν
 firefoxview-history-empty-description = Καθώς περιηγείστε, οι σελίδες που επισκέπτεστε θα εμφανίζονται εδώ.
 firefoxview-history-empty-description-two = Η προστασία του απορρήτου σας είναι στο επίκεντρο της αποστολής μας. Αυτός είναι ο λόγος για τον οποίο μπορείτε να ελέγξετε τη δραστηριότητα που απομνημονεύει το { -brand-short-name }, από τις <a data-l10n-name="history-settings-url">ρυθμίσεις ιστορικού</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Το μονοπάτι της περιήγησής σας ξεκινά εδώ
+firefoxview-history-empty-description-2 = Καθώς επισκέπτεστε σελίδες, το ιστορικό σας θα εμφανίζεται εδώ. Ελέγξτε τι αποθηκεύεται στις <a data-l10n-name="history-settings-url">ρυθμίσεις</a>.
 
 ##
 
@@ -238,6 +243,7 @@ firefoxview-dont-remember-history-empty-header-2 = Εσείς έχετε τον 
 firefoxview-dont-remember-history-empty-description-one = Προς το παρόν, το { -brand-short-name } δεν αποθηκεύει τη δραστηριότητα περιήγησής σας. Για να το αλλάξετε αυτό, <a data-l10n-name="history-settings-url-two">ενημερώστε τις ρυθμίσεις ιστορικού σας</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Η δραστηριότητά σας δεν θα αποθηκευτεί
+firefoxview-dont-remember-history-empty-description-2 = Το { -brand-short-name } δεν αποθηκεύει το ιστορικό σας αυτήν τη στιγμή. Αλλάξτε αυτήν τη συμπεριφορά ανά πάσα στιγμή στις <a data-l10n-name="history-settings-url-two">ρυθμίσεις</a>.
 
 ##
 
