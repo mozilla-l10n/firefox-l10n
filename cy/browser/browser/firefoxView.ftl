@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = I ddefnyddio'ch tabiau ffôn yma
 firefoxview-tabpickup-step-signin-primarybutton = Ymlaen
 firefoxview-syncedtabs-signin-header-2 = Eich { -brand-product-name } ar eich holl ddyfeisiau
 firefoxview-syncedtabs-signin-description-2 = I weld tabiau sydd gennych ar agor ar eich ffôn a dyfeisiau eraill, mewngofnodwch neu cofrestrwch am gyfrif. Gyda chyfrif, gallwch hefyd gydweddu'ch cyfrineiriau, hanes, a mwy.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = O liniadur i ffôn, yn ddi-dor
+firefoxview-syncedtabs-signin-description-3 = Cadwch eich pori wedi'i gysylltu ar draws dyfeisiau - tabiau, cyfrineiriau a hanes, i gyd wedi'u cydweddu.
 firefoxview-syncedtabs-signin-primarybutton-2 = Mewngofnodi
 firefoxview-tabpickup-adddevice-header = Cydweddwch { -brand-product-name } ar eich ffôn neu dabled
 firefoxview-tabpickup-adddevice-description = Llwytho { -brand-product-name } ar gyfer ffôn symudol a mewngofnodi yno.
@@ -40,22 +43,37 @@ firefoxview-tabpickup-adddevice-primarybutton = Cael { -brand-product-name } ar 
 firefoxview-syncedtabs-adddevice-header-2 = Cydio tabiau o unrhyw le
 firefoxview-syncedtabs-adddevice-description-2 = Mewngofnodwch i { -brand-product-name } ar eich ffôn neu gyfrifiadur arall i weld tabiau yma. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Rhowch gynnig ar { -brand-product-name } ar gyfer ffonau symudol
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Galwodd eich tabiau. Maen nhw ar eich ffôn.
+firefoxview-syncedtabs-adddevice-description-3 = Sganiwch y cod QR i gael { -brand-product-name } ar gyfer ffôn symudol a dechreuwch gydweddu eich tabiau agored a mwy. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
 firefoxview-tabpickup-synctabs-header = Cychwyn cydweddu tabiau
 firefoxview-tabpickup-synctabs-description = Caniatáu i { -brand-short-name } rannu tabiau rhwng dyfeisiau.
 firefoxview-tabpickup-synctabs-learn-how = Sut mae gwneud
 firefoxview-tabpickup-synctabs-primarybutton = Cydweddu tabiau agored
+firefoxview-tabpickup-synctabs-primarybutton-2 = Cychwyn cydweddu tabiau
 firefoxview-syncedtabs-synctabs-header = Diweddarwch eich gosodiadau cydweddu
 firefoxview-syncedtabs-synctabs-description = I weld tabiau o ddyfeisiau eraill, mae angen i chi gydweddu'ch tabiau agored.
+firefoxview-syncedtabs-synctabs-header-2 = Mae cydweddu tabiau i ffwrdd
+firefoxview-syncedtabs-synctabs-description-2 = Troi cydweddu yn ôl ymlaen i gipio'ch holl dabiau o ddyfeisiau eraill.
 firefoxview-syncedtabs-loading-header = Wrthi'n cysoni
 firefoxview-syncedtabs-loading-description = Pan fydd wedi'i wneud, byddwch yn gweld unrhyw dabiau sydd gennych ar agor ar ddyfeisiau eraill. Dewch nôl i weld.
+firefoxview-syncedtabs-loading-header-2 = Wrthi'n nôl eich tabiau…
+firefoxview-syncedtabs-loading-description-2 = Wrthi'n cydweddu. Bydd tabiau yma cyn hir.
 firefoxview-tabpickup-fxa-admin-disabled-header = Mae eich sefydliad wedi analluogi cydweddu
 firefoxview-tabpickup-fxa-admin-disabled-description = Nid yw { -brand-short-name } yn gallu cydweddu tabiau rhwng dyfeisiau oherwydd bod eich gweinyddwr wedi analluogi cydweddu.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = Nid yw { -brand-short-name } yn gallu cydweddu tabiau rhwng dyfeisiau oherwydd bod eich sefydliad wedi analluogi cydweddu.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Mae cydweddu tabiau i ffwrdd
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Mae eich sefydliad wedi rhwystro'r nodwedd hon.
 firefoxview-tabpickup-network-offline-header = Gwiriwch eich cysylltiad rhwydwaith
 firefoxview-tabpickup-network-offline-description = Os ydych yn defnyddio mur cadarn neu ddirprwy, gwiriwch fod gan { -brand-short-name } ganiatâd i gael mynediad i'r we.
 firefoxview-tabpickup-network-offline-primarybutton = Ceisiwch eto
+firefoxview-tabpickup-network-offline-header-2 = Dyw { -brand-short-name } ddim yn gallu cysylltu ar hyn o bryd
+firefoxview-tabpickup-network-offline-description-2 = Efallai eich bod all-lein, neu efallai bod rhywbeth yn rhwystro'r cysylltiad.
 firefoxview-tabpickup-sync-error-header = Rydyn ni'n cael trafferth cydweddu
 firefoxview-tabpickup-generic-sync-error-description = Nid yw { -brand-short-name } yn gallu cyrraedd y gwasanaeth ar hyn o bryd. Ceisiwch eto mewn ychydig eiliadau.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Mae cydweddu wedi methu
+firefoxview-tabpickup-generic-sync-error-description-2 = Dyw { -brand-short-name } ddim yn gallu cysylltu. Rhowch eiliad i ni, yna ceisio eto
 firefoxview-tabpickup-sync-error-primarybutton = Ceisiwch eto
 firefoxview-tabpickup-sync-disconnected-header = Trowch gydweddu ymlaen i barhau
 firefoxview-tabpickup-sync-disconnected-description = I gipio eich tabiau, bydd angen i chi ganiatáu cydweddu yn { -brand-short-name }.
@@ -65,10 +83,13 @@ firefoxview-tabpickup-password-locked-description = I gipio'ch tabiau, bydd ange
 firefoxview-tabpickup-password-locked-link = Darllen rhagor
 firefoxview-tabpickup-password-locked-primarybutton = Rhowch Gyfrinair Cynradd
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Darllen rhagor</a>
+firefoxview-tabpickup-password-locked-header-2 = Datgloi tabiau gyda'ch prif gyfrinair
+firefoxview-tabpickup-password-locked-description-2 = Er mwyn eich preifatrwydd, mae tabiau wedi'u cydweddu'n cael eu diogelu. Rhowch brif gyfrinair { -brand-short-name } i weld tabiau o'ch dyfeisiau eraill.
 firefoxview-tabpickup-signed-out-header = Mewngofnodi i ailgysylltu
 firefoxview-tabpickup-signed-out-description = I ailgysylltu a chipio eich tabiau, mewngofnodwch i'ch { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = I ailgysylltu a chipio'ch tabiau, mewngofnodwch i'ch cyfrif
 firefoxview-tabpickup-signed-out-primarybutton = Mewngofnodi
+firefoxview-tabpickup-signed-out-header-2 = Mewngofnodwch i weld eich tabiau
 firefoxview-tabpickup-syncing = Arhoswch tra bod eich tabiau'n cydweddu. Fydd hi ddim yn hir.
 firefoxview-mobile-promo-header = Cydiwch mewn tabiau o'ch ffôn neu dabled
 firefoxview-mobile-promo-description = I weld eich tabiau symudol diweddaraf, mewngofnodwch i { -brand-product-name } ar iOS neu Android.
