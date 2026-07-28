@@ -627,3 +627,9 @@ smartwindow-sidebar-auto-open-callout-dismiss = Ez, eskerrik asko
 smartwindow-sidebar-auto-open-callout-accepted-title = Laguntzailea itxita egongo da
 smartwindow-sidebar-auto-open-callout-rejected-title = Ulertuta
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Iritziz aldatuz gero, aukera lehenetsia <a data-l10n-name="settings">ezarpenetan</a> alda dezakezu noiznahi.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Hautatu itxura
+onboarding-theme-picker-subtitle = Emaiozu kolore pixka bat gehiago { -brand-short-name }(r)i.
+onboarding-theme-picker-button-label = Gorde eta jarraitu

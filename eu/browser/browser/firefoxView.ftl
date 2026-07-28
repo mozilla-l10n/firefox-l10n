@@ -90,6 +90,7 @@ firefoxview-tabpickup-signed-out-description = Berriro konektatu eta zure fitxak
 firefoxview-tabpickup-signed-out-description2 = Berriro konektatu eta zure fitxak hartzeko, hasi saioa zure kontuan.
 firefoxview-tabpickup-signed-out-primarybutton = Hasi saioa
 firefoxview-tabpickup-signed-out-header-2 = Hasi saioa zure fitxak ikusteko
+firefoxview-tabpickup-signed-out-description-2 = Konektatu berriro beste gailuetako fitxak ikusteko.
 firefoxview-tabpickup-syncing = Itxaron apur bat zure fitxak sinkronizatu bitartean. Une bat izango da soilik.
 firefoxview-mobile-promo-header = Hartu zure telefono edo tabletako fitxak
 firefoxview-mobile-promo-description = Zure mugikorreko azken fitxak ikusteko, hasi saioa iOS edo Androideko { -brand-product-name }(e)n.
@@ -231,6 +232,10 @@ firefoxview-show-all-history = Erakutsi historia guztia
 firefoxview-history-empty-header = Itzuli zeuden tokira
 firefoxview-history-empty-description = Nabigatu ahala, bisitatzen dituzun orrian hemen zerrendatuko dira.
 firefoxview-history-empty-description-two = Zure pribatutasuna babestea barru-barruan daramagu. Horregatik kontrola dezakezu { -brand-short-name }(e)k gogoratuko duen jarduera zure <a data-l10n-name="history-settings-url">historia-ezarpenetan</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Zure nabigazioaren aztarna hemen agertuko da
+firefoxview-history-empty-description-2 = Orriak bisitatu ahala, zure historia hemen agertuko da. Kontrolatu gogoratuko dena <a data-l10n-name="history-settings-url">ezarpenetan</a>.
 
 ##
 
@@ -242,6 +247,9 @@ firefoxview-choose-browser-button = Aukeratu nabigatzailea
 
 firefoxview-dont-remember-history-empty-header-2 = { -brand-short-name }(e)k gogoratzen duenaren gaineko kontrola duzu
 firefoxview-dont-remember-history-empty-description-one = Une honetan { -brand-short-name }(e)k ez du zure nabigatze-jarduerarik gogoratzen. Hori aldatzeko, <a data-l10n-name="history-settings-url-two">eguneratu zure historia-ezarpenak</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Zure nabigazio-historia ezabatu egingo da
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } ez da zure historia gordetzen ari une honetan. Aldatu <a data-l10n-name="history-settings-url-two">ezarpena</a> edonoiz.
 
 ##
 
