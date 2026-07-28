@@ -29,7 +29,7 @@ address-capture-save-button =
     .label = Lưu
     .accessKey = S
 address-capture-not-now-button =
-    .label = Không phải bây giờ
+    .label = Để sau
     .accessKey = N
 address-capture-cancel-button =
     .label = Hủy bỏ
@@ -170,6 +170,59 @@ autofill-card-network = Loại thẻ
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = thẻ tín dụng, tín dụng, thẻ, thẻ ghi nợ, ghi nợ, ví, thanh toán
+
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Thêm hộ chiếu
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Chỉnh sửa hộ chiếu
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Tên
+autofill-passport-country =
+    .label = Quốc gia
+autofill-passport-number =
+    .label = Số
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Ngày cấp
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Ngày hết hạn
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = YYYY
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Lưu hộ chiếu?
+passport-capture-save-doorhanger-description = Lưu thông tin vào { -brand-short-name } để bạn có thể điền biểu mẫu nhanh chóng.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = Lưu
+    .accessKey = S
+passport-capture-not-now-button =
+    .label = Để sau
+    .accessKey = w
+passport-capture-never-save-button =
+    .label = Không bao giờ lưu hộ chiếu
+    .accessKey = N
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

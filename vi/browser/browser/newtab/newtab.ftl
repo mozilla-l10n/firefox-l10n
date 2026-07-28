@@ -896,7 +896,7 @@ newtab-weather-menu-detect-my-location = Phát hiện vị trí của tôi
 newtab-weather-error-not-available = Dữ liệu thời tiết hiện không có sẵn.
 newtab-weather-opt-in-see-weather = Bạn có muốn xem thời tiết ở nơi bạn ở không?
 newtab-weather-opt-in-not-now =
-    .label = Không phải bây giờ
+    .label = Để sau
 newtab-weather-opt-in-yes =
     .label = Đồng ý
 newtab-weather-opt-in-headline = Xem dự báo thời tiết nơi ở hiện tại của bạn
@@ -1002,7 +1002,7 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Không phải bây giờ
+newtab-section-cancel-button = Để sau
 newtab-section-confirm-block-topic-p1 = Bạn có chắc là bạn muốn chặn chủ đề này?
 newtab-section-confirm-block-topic-p2 = Chủ đề bị chặn sẽ không còn xuất hiện trong nguồn cấp dữ liệu của bạn.
 # Variables:

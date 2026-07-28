@@ -991,7 +991,7 @@ urlbar-result-market-opt-in-description = Hiển thị thông tin cập nhật t
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Hiển thị đề xuất
 # This string is shown in split button to dismiss activation the Realtime suggestion.
-urlbar-result-realtime-opt-in-not-now = Không phải bây giờ
+urlbar-result-realtime-opt-in-not-now = Để sau
 urlbar-result-realtime-opt-in-dismiss = Bỏ qua
 urlbar-result-realtime-opt-in-dismiss-all2 = Không hiển thị những đề xuất này
 # This string is shown in the result menu.

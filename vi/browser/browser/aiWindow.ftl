@@ -319,7 +319,7 @@ smartwindow-close-tab-callout-subtitle = Mở lại các thẻ từ lịch sử 
 smart-window-default-promo-heading = Mở { -smart-window-brand-name } theo mặc định cho bạn?
 smart-window-default-promo-message = { -brand-short-name } sẽ luôn mở trong { -smart-window-brand-name }.
 smart-window-default-promo-primary-button = Đặt làm mặc định
-smart-window-default-promo-additional-button = Không phải bây giờ
+smart-window-default-promo-additional-button = Để sau
 
 ## Feedback modal
 

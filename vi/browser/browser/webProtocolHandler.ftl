@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protocolhandler-mailto-os-handler-yes-button = Đặt làm mặc định
-protocolhandler-mailto-os-handler-no-button = Không phải bây giờ
+protocolhandler-mailto-os-handler-no-button = Để sau
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.

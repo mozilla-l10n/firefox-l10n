@@ -12,7 +12,7 @@ cfr-doorhanger-feature-heading = Tính năng được đề xuất
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Tại sao tôi thấy cái này
-cfr-doorhanger-extension-cancel-button = Không phải bây giờ
+cfr-doorhanger-extension-cancel-button = Để sau
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Thêm vào ngay
     .accesskey = A
@@ -131,7 +131,7 @@ spotlight-public-wifi-vpn-header = Có vẻ như bạn đang sử dụng Wi-Fi c
 spotlight-public-wifi-vpn-body = Để ẩn vị trí và hoạt động duyệt web của bạn, hãy xem xét đến VPN. Nó sẽ giúp bạn được bảo vệ khi duyệt web ở những nơi công cộng như sân bay và quán cà phê.
 spotlight-public-wifi-vpn-primary-button = Giữ riêng tư với { -mozilla-vpn-brand-name }
     .accesskey = S
-spotlight-public-wifi-vpn-link = Không phải bây giờ
+spotlight-public-wifi-vpn-link = Để sau
     .accesskey = N
 
 ## Emotive Continuous Onboarding
@@ -145,7 +145,7 @@ spotlight-pin-primary-button =
         [macos] Giữ trên thanh Dock
        *[other] Ghim vào thanh tác vụ
     }
-spotlight-pin-secondary-button = Không phải bây giờ
+spotlight-pin-secondary-button = Để sau
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -207,7 +207,7 @@ cfr-cbh-header = Cho phép { -brand-short-name } từ chối biểu ngữ cookie
 cfr-cbh-body = { -brand-short-name } có thể tự động từ chối nhiều yêu cầu biểu ngữ cookie.
 cfr-cbh-confirm-button = Từ chối biểu ngữ cookie
     .accesskey = R
-cfr-cbh-dismiss-button = Không phải bây giờ
+cfr-cbh-dismiss-button = Để sau
     .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } vừa từ chối một biểu ngữ cookie cho bạn
 cookie-banner-blocker-onboarding-body = Ít phiền nhiễu hơn, ít cookie theo dõi bạn hơn trên trang web này.
@@ -223,7 +223,7 @@ fox-doodle-pin-headline = Chào mừng trở lại
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Đây là lời nhắc nhanh rằng bạn có thể giữ trình duyệt độc lập yêu thích của mình chỉ bằng một cú nhấp chuột.
 fox-doodle-pin-primary = Mở liên kết của tôi bằng { -brand-short-name }
-fox-doodle-pin-secondary = Không phải bây giờ
+fox-doodle-pin-secondary = Để sau
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
@@ -275,7 +275,7 @@ pdf-default-notification-message = <strong>Đặt { -brand-short-name } làm tr�
 pdf-default-notification-set-default-button =
     .label = Đặt làm mặc định
 pdf-default-notification-decline-button =
-    .label = Không phải bây giờ
+    .label = Để sau
 
 ## Launch on login infobar notification
 
@@ -283,7 +283,7 @@ launch-on-login-infobar-message = <strong>Mở { -brand-short-name } mỗi khi b
 launch-on-login-learnmore = Tìm hiểu thêm
 launch-on-login-infobar-confirm-button = Có, mở { -brand-short-name }
     .accesskey = Y
-launch-on-login-infobar-reject-button = Không phải bây giờ
+launch-on-login-infobar-reject-button = Để sau
     .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
@@ -330,7 +330,7 @@ launch-on-login-spotlight-primary-button = Lưu và đóng { -brand-short-name }
 tail-fox-spotlight-title = Loại bỏ những trình theo dõi phiền toái phía sau bạn
 tail-fox-spotlight-subtitle = Nói lời tạm biệt với những trình theo dõi quảng cáo phiền toái và tận hưởng trải nghiệm Internet nhanh chóng, an toàn hơn.
 tail-fox-spotlight-primary-button = Mở liên kết của tôi bằng { -brand-short-name }
-tail-fox-spotlight-secondary-button = Không phải bây giờ
+tail-fox-spotlight-secondary-button = Để sau
 
 ## Welcome Back Spotlight and Import
 
@@ -459,7 +459,7 @@ etp-strict-exceptions-infobar-message = <strong>Trình chống theo dõi nghiêm
 etp-strict-exceptions-infobar-learn-more = Tìm hiểu thêm
 etp-strict-exceptions-infobar-button = Áp dụng sửa lỗi
     .accesskey = A
-etp-strict-exceptions-infobar-not-now = Không phải bây giờ
+etp-strict-exceptions-infobar-not-now = Để sau
     .accesskey = N
 
 ## 'Set to default' messaging displayed within the App menu

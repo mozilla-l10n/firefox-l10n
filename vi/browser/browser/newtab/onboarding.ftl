@@ -12,7 +12,7 @@
 
 onboarding-welcome-header = Chào mừng đến với { -brand-short-name }
 onboarding-start-browsing-button-label = Bắt đầu duyệt web
-onboarding-not-now-button-label = Không phải bây giờ
+onboarding-not-now-button-label = Để sau
 mr1-onboarding-get-started-primary-button-label = Bắt đầu
 
 ## Custom Return To AMO onboarding strings
@@ -54,7 +54,7 @@ mr1-onboarding-sign-in-button-label = Đăng nhập
 mr1-onboarding-import-primary-button-label-attribution = Nhập từ { $previous }
 mr1-onboarding-theme-header = Biến nó thành của riêng bạn
 mr1-onboarding-theme-subtitle = Cá nhân hóa { -brand-short-name } với một chủ đề.
-mr1-onboarding-theme-secondary-button-label = Không phải bây giờ
+mr1-onboarding-theme-secondary-button-label = Để sau
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Chủ đề hệ thống
 mr1-onboarding-theme-label-light = Sáng

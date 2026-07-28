@@ -22,7 +22,7 @@ default-browser-prompt-title-alt = Đặt { -brand-short-name } làm trình duy�
 default-browser-prompt-message-alt = Tốc độ, an toàn và quyền riêng tư mỗi khi bạn duyệt.
 default-browser-prompt-button-primary-alt = Đặt làm trình duyệt mặc định
 default-browser-prompt-checkbox-not-again-label = Không hiển thị lại thông báo này
-default-browser-prompt-button-secondary = Không phải bây giờ
+default-browser-prompt-button-secondary = Để sau
 
 ## Strings for a Windows native guidance notification when the user is forced to
 ## use Windows Settings to set the default browser. Instructions differ for

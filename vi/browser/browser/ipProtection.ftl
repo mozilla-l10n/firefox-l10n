@@ -42,9 +42,9 @@ ipprotection-feature-introduction-description-captive-portal = Duyệt web an to
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal-1 = Nhận <a data-l10n-name="learn-more-vpn">tăng cường quyền riêng tư</a> bằng cách chọn một trong nhiều địa điểm khác nhau để ẩn nơi bạn duyệt web.
 ipprotection-feature-introduction-button-primary = Tiếp
-ipprotection-feature-introduction-button-secondary-not-now = Không phải bây giờ
+ipprotection-feature-introduction-button-secondary-not-now = Để sau
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
-    .label = Không phải bây giờ
+    .label = Để sau
 ipprotection-feature-introduction-button-secondary-no-thanks = Không, cảm ơn
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Không, cảm ơn

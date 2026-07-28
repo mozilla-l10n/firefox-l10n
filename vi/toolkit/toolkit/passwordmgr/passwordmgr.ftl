@@ -9,7 +9,7 @@
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Lưu mật khẩu cho { $host }?
 password-manager-save-password-button-deny =
-    .label = Không phải bây giờ
+    .label = Để sau
     .accesskey = N
 password-manager-save-password-button-allow =
     .label = Lưu

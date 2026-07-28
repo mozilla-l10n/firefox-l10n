@@ -185,7 +185,7 @@ webrtc-action-always-block =
     .label = Luôn chặn
     .accesskey = w
 webrtc-action-not-now =
-    .label = Không phải bây giờ
+    .label = Để sau
     .accesskey = N
 
 ##
