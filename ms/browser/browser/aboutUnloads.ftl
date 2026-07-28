@@ -8,12 +8,12 @@
 
 about-unloads-page-title = Nyahmuat Tab
 about-unloads-intro =
-    { -brand-short-name } mempunyai ciri yang secara automatik menyahmuat tab¶
-    untuk mengelakkan aplikasi daripada ranap kerana memori tidak mencukupi¶
-    apabila memori sistem yang tersedia rendah. Tab seterusnya yang akan dinyahmuat¶
-    dipilih berdasarkan pelbagai atribut. Halaman ini menunjukkan bagaimana¶
-    { -brand-short-name } mengutamakan tab dan tab mana yang akan dinyahmuat¶
-    apabila nyahmuat tab dicetuskan. Anda boleh mencetuskan nyahmuat tab secara manual¶
+    { -brand-short-name } mempunyai ciri yang secara automatik menyahmuat tab
+    untuk mengelakkan aplikasi daripada ranap kerana memori tidak mencukupi
+    apabila memori sistem yang tersedia rendah. Tab seterusnya yang akan dinyahmuat
+    dipilih berdasarkan pelbagai atribut. Halaman ini menunjukkan bagaimana
+    { -brand-short-name } mengutamakan tab dan tab mana yang akan dinyahmuat
+    apabila nyahmuat tab dicetuskan. Anda boleh mencetuskan nyahmuat tab secara manual
     dengan mengklik butang <em>Nyahmuat</em> di bawah.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
