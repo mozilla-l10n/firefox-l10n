@@ -52,6 +52,7 @@ firefoxview-syncedtabs-synctabs-description-2 = Réactivez la synchronisation po
 firefoxview-syncedtabs-loading-header = Synchronisation en cours
 firefoxview-syncedtabs-loading-description = Une fois terminée, vous verrez ici tous les onglets ouverts sur vos autres appareils. Revenez vite.
 firefoxview-syncedtabs-loading-header-2 = Récupération de vos onglets…
+firefoxview-syncedtabs-loading-description-2 = La synchronisation est en cours. Vos onglets seront bientôt disponibles.
 firefoxview-tabpickup-fxa-admin-disabled-header = Votre organisation a désactivé la synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne peut pas synchroniser d’onglets entre appareils car votre administrateur·trice a désactivé la synchronisation.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne peut pas synchroniser d’onglets entre appareils car votre organisation a désactivé la synchronisation.
@@ -224,6 +225,7 @@ firefoxview-show-all-history = Afficher tout l’historique
 firefoxview-history-empty-header = Reprenez là où vous en étiez
 firefoxview-history-empty-description = Au cours de votre navigation, les pages visitées seront répertoriées ici.
 firefoxview-history-empty-description-two = La protection de votre vie privée est notre priorité. C’est la raison pour laquelle vous pouvez contrôler les activités dont { -brand-short-name } garde trace dans vos <a data-l10n-name="history-settings-url">paramètres d’historique</a>.
+firefoxview-history-empty-description-2 = Au fil de votre navigation, votre historique s’affichera ici. Gérez ce qui est enregistré dans les <a data-l10n-name="history-settings-url">paramètres</a>.
 
 ##
 

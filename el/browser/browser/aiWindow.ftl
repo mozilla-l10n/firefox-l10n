@@ -100,12 +100,12 @@ aiwindow-firstrun-title = Καλώς ορίσατε στο { -smart-window-brand
 aiwindow-firstrun-model-title = Τι είναι σημαντικό για εσάς;
 aiwindow-firstrun-model-title-v2 = Επιλέξτε ένα μοντέλο για να ξεκινήσετε
 aiwindow-firstrun-model-subtitle = Επιλέξτε ένα μοντέλο για το { -smart-window-brand-name(form: "lowerSingularNom") }. Μπορείτε να το αλλάξετε ανά πάσα στιγμή.
-aiwindow-firstrun-model-subtitle-v2 = Κάθε μοντέλο μπορεί να σάς βοηθήσει να συνοψίσετε, να συγκρίνετε και να εξερευνήσετε όλες τις καρτέλες σας. Μπορείτε να κάνετε εναλλαγή ανά πάσα στιγμή.
+aiwindow-firstrun-model-subtitle-v2 = Κάθε μοντέλο μπορεί να σας βοηθήσει να συνοψίσετε, να συγκρίνετε και να εξερευνήσετε όλες τις καρτέλες σας. Μπορείτε να κάνετε εναλλαγή ανά πάσα στιγμή.
 aiwindow-firstrun-model-fast-label = Γρήγορο
 aiwindow-firstrun-model-fast-body = Απαντά γρήγορα
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Γρήγορο: { $shortName }
-aiwindow-firstrun-model-fast-body-v2 = Καλύτερο για γρήγορες απαντήσεις όταν κινήστε γρήγορα
+aiwindow-firstrun-model-fast-body-v2 = Ιδανικό για γρήγορες απαντήσεις όταν η ταχύτητα έχει σημασία
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -121,7 +121,7 @@ aiwindow-firstrun-model-personal-label = Προσωπικό
 aiwindow-firstrun-model-personal-body = Οι πιο προσαρμοσμένες απαντήσεις
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Προσωπικό: { $shortName }
-aiwindow-firstrun-model-personal-body-v2 = Σχεδιασμένο για εξατομικευμένη βοήθεια για όλες τις γλώσσες
+aiwindow-firstrun-model-personal-body-v2 = Σχεδιασμένο για εξατομικευμένη βοήθεια σε όλες τις γλώσσες
 aiwindow-firstrun-button = Ας ξεκινήσουμε
 aiwindow-firstrun-back-button = Πίσω
 aiwindow-firstrun-next-button = Επόμενο

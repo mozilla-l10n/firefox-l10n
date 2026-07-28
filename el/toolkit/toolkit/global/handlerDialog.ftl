@@ -94,8 +94,8 @@ mailto-handler-picker-always-ask = Να γίνεται πάντα ερώτηση
 # Confirms the picker: sets the selected app as the handler for email links.
 mailto-handler-picker-set-default =
     .label = Ορισμός ως προεπιλογή
-    .accesskey = S
+    .accesskey = σ
 # Dismisses the picker without choosing an email app for now.
 mailto-handler-picker-not-now =
     .label = Όχι τώρα
-    .accesskey = Ν
+    .accesskey = χ

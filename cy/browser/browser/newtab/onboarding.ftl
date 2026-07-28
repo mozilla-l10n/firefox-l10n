@@ -634,3 +634,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Bydd y cynorthwyydd yn ar
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Defnyddiwch Gofyn i'w agor ar unrhyw dudalen. Newidiwch hwn unrhyw bryd yn y <a data-l10n-name="settings">Gosodiadau</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Iawn
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Os byddwch yn newid eich meddwl, gallwch ddiweddaru'r rhagosodiad yn y <a data-l10n-name="settings">Gosodiadau</a> unrhyw bryd.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Dewiswch thema
+onboarding-theme-picker-subtitle = Dewch ag ychydig mwy o liw i { -brand-short-name }.
+onboarding-theme-picker-button-label = Cadw a pharhau

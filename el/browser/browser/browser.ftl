@@ -226,12 +226,12 @@ urlbar-result-menu-dont-show-weather-suggestions2 = Να μην εμφανίζο
 # suggestion.
 urlbar-input-dismiss-autofill =
     .label = Απόρριψη πρότασης
-    .accesskey = i
+    .accesskey = ι
 # Shown in the urlbar input field context menu to remove an adaptive autofill
 # URL from history.
 urlbar-input-remove-from-history =
     .label = Αφαίρεση από το ιστορικό
-    .accesskey = e
+    .accesskey = ε
 urlbar-result-menu-learn-more =
     .label = Μάθετε περισσότερα
     .accesskey = Μ
@@ -1134,13 +1134,13 @@ urlbar-searchmode-no-keyword2 =
 urlbar-searchmode-dropmarker2 =
     .title = Επιλογή μηχανής αναζήτησης
 urlbar-searchmode-bookmarks3 = Σελιδοδείκτες
-    .accesskey = Β
+    .accesskey = Σ
 urlbar-searchmode-tabs3 = Καρτέλες
-    .accesskey = Τ
+    .accesskey = Κ
 urlbar-searchmode-history3 = Ιστορικό
-    .accesskey = Η
+    .accesskey = Ι
 urlbar-searchmode-actions3 = Ενέργειες
-    .accesskey = Α
+    .accesskey = Ε
 urlbar-searchmode-bookmarks2 = Σελιδοδείκτες
 urlbar-searchmode-tabs2 = Καρτέλες
 urlbar-searchmode-history2 = Ιστορικό
@@ -1161,9 +1161,9 @@ urlbar-searchmode-popup-one-off-header = Τρέχουσα αναζήτηση μ�
 # reset after submitting.
 urlbar-searchmode-popup-header = Αναζήτηση με:
 urlbar-searchmode-popup-search-settings = Ρυθμίσεις αναζήτησης
-    .accesskey = S
+    .accesskey = ζ
 urlbar-searchmode-popup-settings = Ρυθμίσεις
-    .accesskey = S
+    .accesskey = Ρ
 urlbar-searchmode-popup-search-settings-panelitem = Ρυθμίσεις αναζήτησης
 urlbar-searchmode-popup-settings-panelitem = Ρυθμίσεις
 
@@ -1586,6 +1586,9 @@ private-browsing-indicator-button =
     .tooltiptext = Πληροφορίες ιδιωτικής περιήγησης
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Βρίσκεστε σε ένα ιδιωτικό παράθυρο
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Αυτό διατηρεί την περιήγησή σας κρυφή από άλλους χρήστες αυτής της συσκευής, αλλά δεν σας καθιστά αόρατους στο διαδίκτυο. <a data-l10n-name="learn-more">Ποιος μπορεί δυνητικά να δει τη δραστηριότητά μου;</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1906,8 +1909,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
     }
 trustpanel-cryptominer-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να εξορύξουν κρυπτονομίσματα:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
-trustpanel-breachalerts-anonymous-breached-header = Έχετε λογαριασμό σε αυτή τη σελίδα;
-trustpanel-breachalerts-anonymous-breached-description = Το { -brand-product-name } διαπίστωσε ότι αυτός ο ιστότοπος παρουσίασε παραβίαση δεδομένων τους τελευταίους 12 μήνες. Μάθετε αν επηρεαστήκατε.
+trustpanel-breachalerts-anonymous-breached-header = Έχετε λογαριασμό σε αυτόν τον ιστότοπο;
+trustpanel-breachalerts-anonymous-breached-description = Το { -brand-product-name } διαπίστωσε ότι τα δεδομένα αυτού του ιστοτόπου παραβιάστηκαν εντός των τελευταίων 12 μηνών. Μάθετε αν επηρεαστήκατε.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Απόρριψη
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Έναρξη δωρεάν σάρωσης
 trustpanel-blocker-section-header2 =

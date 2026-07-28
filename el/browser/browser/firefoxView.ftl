@@ -68,8 +68,12 @@ firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσ�
 firefoxview-tabpickup-network-offline-description = Εάν χρησιμοποιείτε τείχος προστασίας ή διακομιστή μεσολάβησης, ελέγξτε ότι το { -brand-short-name } έχει άδεια πρόσβασης στο διαδίκτυο.
 firefoxview-tabpickup-network-offline-primarybutton = Δοκιμή ξανά
 firefoxview-tabpickup-network-offline-header-2 = Το { -brand-short-name } δεν μπορεί να συνδεθεί αυτήν τη στιγμή
+firefoxview-tabpickup-network-offline-description-2 = Ενδέχεται να είστε εκτός σύνδεσης ή να υπάρχει κάτι που εμποδίζει τη σύνδεση.
 firefoxview-tabpickup-sync-error-header = Υπάρχει πρόβλημα με τον συγχρονισμό
 firefoxview-tabpickup-generic-sync-error-description = Το { -brand-short-name } δεν μπορεί να επικοινωνήσει με την υπηρεσία συγχρονισμού αυτήν τη στιγμή. Δοκιμάστε ξανά σε λίγα λεπτά.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Προέκυψε πρόβλημα συγχρονισμού
+firefoxview-tabpickup-generic-sync-error-description-2 = Το { -brand-short-name } δεν μπόρεσε να συνδεθεί. Περιμένετε λίγο και δοκιμάστε ξανά
 firefoxview-tabpickup-sync-error-primarybutton = Δοκιμή ξανά
 firefoxview-tabpickup-sync-disconnected-header = Ενεργοποιήστε τον συγχρονισμό για να συνεχίσετε
 firefoxview-tabpickup-sync-disconnected-description = Για να λάβετε τις καρτέλες σας, θα πρέπει να επιτρέψετε τον συγχρονισμό στο { -brand-short-name }.
@@ -79,6 +83,8 @@ firefoxview-tabpickup-password-locked-description = Για να λάβετε τ�
 firefoxview-tabpickup-password-locked-link = Μάθετε περισσότερα
 firefoxview-tabpickup-password-locked-primarybutton = Εισαγωγή κύριου κωδικού πρόσβασης
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Μάθετε περισσότερα</a>
+firefoxview-tabpickup-password-locked-header-2 = Ξεκλειδώστε τις καρτέλες με τον κύριο κωδικό πρόσβασής σας
+firefoxview-tabpickup-password-locked-description-2 = Για χάρη του απορρήτου σας, οι συγχρονισμένες καρτέλες προστατεύονται. Εισαγάγετε τον κύριο κωδικό πρόσβασής σας στο { -brand-short-name } για να δείτε καρτέλες από τις άλλες συσκευές σας.
 firefoxview-tabpickup-signed-out-header = Συνδεθείτε για επανασύνδεση
 firefoxview-tabpickup-signed-out-description = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας.
 firefoxview-tabpickup-signed-out-description2 = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον λογαριασμό σας.

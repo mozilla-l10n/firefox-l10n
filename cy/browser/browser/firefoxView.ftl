@@ -44,7 +44,7 @@ firefoxview-syncedtabs-adddevice-header-2 = Cydio tabiau o unrhyw le
 firefoxview-syncedtabs-adddevice-description-2 = Mewngofnodwch i { -brand-product-name } ar eich ffôn neu gyfrifiadur arall i weld tabiau yma. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Rhowch gynnig ar { -brand-product-name } ar gyfer ffonau symudol
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
-firefoxview-syncedtabs-adddevice-header-3 = Galwodd eich tabiau. Maen nhw ar eich ffôn.
+firefoxview-syncedtabs-adddevice-header-3 = Cysylltodd eich tabiau. Maen nhw ar eich ffôn.
 firefoxview-syncedtabs-adddevice-description-3 = Sganiwch y cod QR i gael { -brand-product-name } ar gyfer ffôn symudol a dechreuwch gydweddu eich tabiau agored a mwy. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
 firefoxview-tabpickup-synctabs-header = Cychwyn cydweddu tabiau
 firefoxview-tabpickup-synctabs-description = Caniatáu i { -brand-short-name } rannu tabiau rhwng dyfeisiau.
@@ -54,7 +54,7 @@ firefoxview-tabpickup-synctabs-primarybutton-2 = Cychwyn cydweddu tabiau
 firefoxview-syncedtabs-synctabs-header = Diweddarwch eich gosodiadau cydweddu
 firefoxview-syncedtabs-synctabs-description = I weld tabiau o ddyfeisiau eraill, mae angen i chi gydweddu'ch tabiau agored.
 firefoxview-syncedtabs-synctabs-header-2 = Mae cydweddu tabiau i ffwrdd
-firefoxview-syncedtabs-synctabs-description-2 = Troi cydweddu yn ôl ymlaen i gipio'ch holl dabiau o ddyfeisiau eraill.
+firefoxview-syncedtabs-synctabs-description-2 = Troi cydweddu yn ôl ymlaen i gysylltu â'ch holl dabiau o ddyfeisiau eraill.
 firefoxview-syncedtabs-loading-header = Wrthi'n cysoni
 firefoxview-syncedtabs-loading-description = Pan fydd wedi'i wneud, byddwch yn gweld unrhyw dabiau sydd gennych ar agor ar ddyfeisiau eraill. Dewch nôl i weld.
 firefoxview-syncedtabs-loading-header-2 = Wrthi'n nôl eich tabiau…
@@ -90,6 +90,7 @@ firefoxview-tabpickup-signed-out-description = I ailgysylltu a chipio eich tabia
 firefoxview-tabpickup-signed-out-description2 = I ailgysylltu a chipio'ch tabiau, mewngofnodwch i'ch cyfrif
 firefoxview-tabpickup-signed-out-primarybutton = Mewngofnodi
 firefoxview-tabpickup-signed-out-header-2 = Mewngofnodwch i weld eich tabiau
+firefoxview-tabpickup-signed-out-description-2 = Ailgysylltu i weld tabiau o ddyfeisiau eraill.
 firefoxview-tabpickup-syncing = Arhoswch tra bod eich tabiau'n cydweddu. Fydd hi ddim yn hir.
 firefoxview-mobile-promo-header = Cydiwch mewn tabiau o'ch ffôn neu dabled
 firefoxview-mobile-promo-description = I weld eich tabiau symudol diweddaraf, mewngofnodwch i { -brand-product-name } ar iOS neu Android.
@@ -235,6 +236,10 @@ firefoxview-show-all-history = Dangos yr holl hanes
 firefoxview-history-empty-header = Mynd nôl i lle rydych wedi bod
 firefoxview-history-empty-description = Wrth i chi bori, bydd y tudalennau y byddwch yn ymweld â nhw yn cael eu rhestru yma.
 firefoxview-history-empty-description-two = Mae diogelu eich preifatrwydd wrth wraidd yr hyn a wnawn. Dyma pam y gallwch reoli'r gweithgaredd y mae { -brand-short-name } yn ei gofio, yn eich <a data-l10n-name="history-settings-url">gosodiadau hanes</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Mae eich llwybr pori yn dechrau yma
+firefoxview-history-empty-description-2 = Wrth i chi ymweld â thudalennau, bydd eich hanes yn ymddangos yma. Rheolwch yr hyn sy'n cael ei gofio yn y <a data-l10n-name="history-settings-url">gosodiadau</a>.
 
 ##
 
@@ -246,6 +251,9 @@ firefoxview-choose-browser-button = Dewiswch borwr
 
 firefoxview-dont-remember-history-empty-header-2 = Chi sy'n rheoli beth mae { -brand-short-name } yn ei gofio
 firefoxview-dont-remember-history-empty-description-one = Ar hyn o bryd, nid yw { -brand-short-name } yn cofio eich gweithgarwch pori. I newid hynny, <a data-l10n-name="history-settings-url-two">diweddarwch eich gosodiadau hanes</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Bydd eich hanes pori'n ddim yn cael ei gofio
+firefoxview-dont-remember-history-empty-description-2 = Dyw { -brand-short-name } ddim yn cadw eich hanes ar hyn o bryd. Newidiwch hynny unrhyw bryd yn y <a data-l10n-name="history-settings-url-two">gosodiadau</a>.
 
 ##
 

@@ -798,6 +798,29 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Cau
 newtab-custom-settings = Rheoli rhagor o osodiadau
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Gwedd
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Gweld rhagor o themâu
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Themâu { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Eich themâu
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Galluogi
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Analluogi
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Gosod thema
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Edrych ar ragor o themâu
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Papurau wal
