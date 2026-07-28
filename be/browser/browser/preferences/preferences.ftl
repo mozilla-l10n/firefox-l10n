@@ -1695,6 +1695,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Адрасы не дададзены
+personal-info-group =
+    .label = Асабістая інфармацыя
+autofill-personal-info-checkbox-message =
+    .label = Захоўваць і аўтаматычна запаўняць асабістую інфармацыю
+autofill-personal-info-manage-button =
+    .label = Кіраванне асабістай інфармацыяй
+passports-list-header =
+    .label = Пашпарты
+passports-delete-passport-button-label =
+    .aria-label = Выдаліць
+passports-edit-passport-button-label =
+    .aria-label = Змяніць
+passports-delete-passport-prompt-title = Выдаліць гэты пашпарт?
+passports-delete-passport-prompt-confirm-button = Выдаліць
+passports-delete-passport-prompt-cancel-button = Скасаваць
+autofill-passports-add-button = Дадаць новы пашпарт
+autofill-personal-info-manage-title =
+    .heading = Кіраванне асабістай інфармацыяй
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Пашпарты не дададзены
 pane-passwords-autofill-title2 = Паролі і аўтазапаўненне
     .title = Паролі і аўтазапаўненне
 preferences-passwords-autofill-header =

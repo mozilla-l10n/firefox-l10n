@@ -633,3 +633,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Памочнік заст
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Выкарыстоўвайце функцыю «Спытаць», каб адкрыць яго на любой старонцы. Гэта можна змяніць калі заўгодна ў <a data-l10n-name="settings">Наладах</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Ясна
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Калі вы перадумаеце, можаце ў любы час змяніць прадвызначэнне ў <a data-l10n-name="settings">Наладах</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Выберыце тэму
+onboarding-theme-picker-subtitle = Дадайце крыху больш колеру ў { -brand-short-name }.
+onboarding-theme-picker-button-label = Захаваць і працягнуць
