@@ -6,6 +6,12 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+# Entry in the Appearance pane (Windows only) that opens the browser-icon
+# subpage. The browser icon is the icon shown on the desktop, taskbar, and
+# Start Menu.
+appearance-browser-icon-entry-group =
+    .label = Kundaha ra’ãnga’i
+    .description = Eiporavo ta’ãnga’i mboavapyre tembiaporã rupápe g̃uarã, mohendaha ha ñepyrũha nporavorã.
 appearance-browser-icon-button =
     .label = Emoambue kundahára ra’ãnga’i
 
