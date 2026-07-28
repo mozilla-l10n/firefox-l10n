@@ -634,3 +634,8 @@ smartwindow-sidebar-auto-open-callout-accepted-title = De assistent blijft geslo
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Gebruik Vragen om hem op een pagina te openen. Wijzig dit op elk gewenst moment in <a data-l10n-name="settings">Instellingen</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Begrepen
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Als u van gedachten verandert, kunt u de standaardwaarde altijd bijwerken via de <a data-l10n-name="settings">Instellingen</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Kies een thema
+onboarding-theme-picker-button-label = Opslaan en doorgaan

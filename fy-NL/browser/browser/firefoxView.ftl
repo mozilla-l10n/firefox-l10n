@@ -44,13 +44,16 @@ firefoxview-tabpickup-synctabs-header = Ljepblêdsyngronisaasje ynskeakelje
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } tastean om ljepblêden tusken apparaten te dielen.
 firefoxview-tabpickup-synctabs-learn-how = Mear ynfo
 firefoxview-tabpickup-synctabs-primarybutton = Iepen ljepblêden syngronisearje
+firefoxview-tabpickup-synctabs-primarybutton-2 = Ljepblêdsyngronisaasje ynskeakelje
 firefoxview-syncedtabs-synctabs-header = Wurkje jo syngronisaasje-ynstellingen by
 firefoxview-syncedtabs-synctabs-description = Om ljepblêden fan oare apparaten te sjen, moatte jo jo iepen ljepblêden syngronisearje.
+firefoxview-syncedtabs-synctabs-header-2 = Ljepblêdsyngronisaasje is útskeakele
 firefoxview-syncedtabs-loading-header = Syngronisearje
 firefoxview-syncedtabs-loading-description = As dit dien is, sjogge jo alle ljepblêden dy’t jo op oare apparaten iepene hawwe. Kom gau werom.
 firefoxview-tabpickup-fxa-admin-disabled-header = Jo organisaasje hat syngronisaasje útskeakele
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } is net yn steat om ljepblêden tusken apparaten te syngronisearjen, omdat jo behearder syngronisaasje útskeakele hat.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } is net yn steat om ljepblêden tusken apparaten te syngronisearjen, omdat jo organisaasje syngronisaasje útskeakele hat.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Ljepblêdsyngronisaasje is útskeakele
 firefoxview-tabpickup-network-offline-header = Kontrolearje jo ynternetferbining
 firefoxview-tabpickup-network-offline-description = As jo in firewall of proxy brûke, kontrolearje dan oft { -brand-short-name } tastimming hat om tagong te krijen ta it web.
 firefoxview-tabpickup-network-offline-primarybutton = Opnij probearje
@@ -221,6 +224,8 @@ firefoxview-choose-browser-button = Kies browser
 
 firefoxview-dont-remember-history-empty-header-2 = Jo hawwe kontrôle oer wat { -brand-short-name } ûnthâldt
 firefoxview-dont-remember-history-empty-description-one = Op dit stuit ûnthâldt { -brand-short-name } jo sneupaktiviteit net. <a data-l10n-name="history-settings-url-two">Wurkje jo skiednisynstellingen by</a> om dat te wizigjen.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Jo aktiviteit wurdt net fêstlein
 
 ##
 

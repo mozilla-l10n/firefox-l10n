@@ -757,6 +757,14 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Slute
 newtab-custom-settings = Mear ynstellingen beheare
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Uterlik
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Mear tema’s besjen
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Eftergrûnen

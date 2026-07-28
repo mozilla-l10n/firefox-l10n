@@ -44,13 +44,16 @@ firefoxview-tabpickup-synctabs-header = Tabbladsynchronisatie inschakelen
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } toestaan om tabbladen tussen apparaten te delen.
 firefoxview-tabpickup-synctabs-learn-how = Meer info
 firefoxview-tabpickup-synctabs-primarybutton = Open tabbladen synchroniseren
+firefoxview-tabpickup-synctabs-primarybutton-2 = Tabbladsynchronisatie inschakelen
 firefoxview-syncedtabs-synctabs-header = Werk uw synchronisatie-instellingen bij
 firefoxview-syncedtabs-synctabs-description = Om tabbladen van andere apparaten te zien, moet u uw open tabbladen synchroniseren.
+firefoxview-syncedtabs-synctabs-header-2 = Tabbladsynchronisatie is uitgeschakeld
 firefoxview-syncedtabs-loading-header = Synchroniseren
 firefoxview-syncedtabs-loading-description = Als dit is afgerond, ziet u alle tabbladen die u op andere apparaten hebt geopend. Kom snel terug.
 firefoxview-tabpickup-fxa-admin-disabled-header = Uw organisatie heeft synchronisatie uitgeschakeld
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan geen tabbladen synchroniseren tussen apparaten, omdat uw beheerder synchronisatie heeft uitgeschakeld.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan geen tabbladen synchroniseren tussen apparaten, omdat uw organisatie synchronisatie heeft uitgeschakeld.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Tabbladsynchronisatie is uitgeschakeld
 firefoxview-tabpickup-network-offline-header = Controleer uw internetverbinding
 firefoxview-tabpickup-network-offline-description = Als u een firewall of proxy gebruikt, controleer dan of { -brand-short-name } toestemming heeft voor toegang tot internet.
 firefoxview-tabpickup-network-offline-primarybutton = Opnieuw proberen
@@ -221,6 +224,8 @@ firefoxview-choose-browser-button = Kies browser
 
 firefoxview-dont-remember-history-empty-header-2 = U hebt controle over wat { -brand-short-name } onthoudt
 firefoxview-dont-remember-history-empty-description-one = Op dit moment onthoudt { -brand-short-name } uw surfactiviteit niet. <a data-l10n-name="history-settings-url-two">Werk uw geschiedenisinstellingen bij</a> om dat te wijzigen.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Uw activiteit wordt niet vastgelegd
 
 ##
 

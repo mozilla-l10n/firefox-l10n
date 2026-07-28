@@ -1585,6 +1585,8 @@ private-browsing-indicator-label = Priveenavigaasje
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Priveenavigaasje
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Jo binne yn in priveefinster
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

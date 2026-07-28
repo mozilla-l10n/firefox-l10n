@@ -634,3 +634,8 @@ smartwindow-sidebar-auto-open-callout-accepted-title = L’assistant restera fer
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Utilisez « Poser une question » pour l’ouvrir sur n’importe quelle page. Modifiez ce choix à tout moment depuis les <a data-l10n-name="settings">paramètres</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = J’ai compris
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si vous changez d’avis, vous pouvez toujours modifier l’option par défaut dans les <a data-l10n-name="settings">paramètres</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Choisissez un thème
+onboarding-theme-picker-button-label = Enregistrer et continuer
