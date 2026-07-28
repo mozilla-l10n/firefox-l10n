@@ -723,6 +723,29 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Diện mạo
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Xem thêm chủ đề
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Chủ đề { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Chủ đề của bạn
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Kích hoạt
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Vô hiệu hóa
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Cài đặt chủ đề
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Khám phá chủ đề khác
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Hình nền

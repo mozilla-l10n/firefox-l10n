@@ -126,6 +126,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Quản lý cài đặt cửa sổ bật lên và chuyển hướng của bên thứ ba…
     .accesskey = M
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Xem thông tin trang web
+            [1] Xem thông tin trang web (1 trình theo dõi bị chặn)
+           *[other] Xem thông tin trang web ({ $count } trình theo dõi bị chặn)
+        }
 
 ##
 
@@ -608,6 +617,8 @@ identity-description-passive-loaded-insecure2 = Trang web này chứa nội dung
 identity-description-passive-loaded-mixed2 = Dù { -brand-short-name } đã chặn một số nội dung, vẫn có những nội dung trên trang không an toàn (ví dụ: ảnh).
 identity-description-active-loaded = Trang web này chứa nội dung không an toàn (ví dụ: các đoạn mã) và kết nối tới nội dung này không bảo mật.
 identity-description-active-loaded-insecure = Thông tin bạn chia sẻ với trang này có thể bị thấy bởi người khác (ví dụ: mật khẩu, tin nhắn, thẻ tín dụng, vâng vâng).
+identity-description-tls-key-logging-heading = Kết nối của bạn có thể không riêng tư
+identity-description-tls-key-logging-message = Một ứng dụng hoặc dịch vụ nào đó có thể xem lưu lượng truy cập được mã hóa của bạn từ trang web này.
 identity-disable-mixed-content-blocking =
     .label = Tạm thời tắt bảo vệ
     .accesskey = D
@@ -942,6 +953,13 @@ urlbar-result-explanation-bookmarked = Đã đánh dấu { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Lần truy cập cuối { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Lần truy cập cuối { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1519,6 +1537,14 @@ private-browsing-indicator-label = Duyệt web riêng tư
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Duyệt web riêng tư
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Thông tin duyệt web riêng tư
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Bạn đang ở cửa sổ riêng tư
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Điều này giúp ẩn hoạt động duyệt web của bạn khỏi người khác trên thiết bị này, nhưng không làm cho bạn trở nên vô hình trên mạng. <a data-l10n-name="learn-more">Ai có thể xem được hoạt động của tôi?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1738,6 +1764,10 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Không an toàn
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label = { $count } trình theo dõi bị chặn
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

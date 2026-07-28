@@ -633,3 +633,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Trợ lý sẽ vẫn đó
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Sử dụng chức năng Hỏi để mở trên bất kỳ trang nào. Bạn có thể thay đổi cài đặt này bất cứ lúc nào trong <a data-l10n-name="settings">Cài đặt</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Đã hiểu
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Nếu bạn đổi ý, bạn có thể cập nhật cài đặt mặc định trong <a data-l10n-name="settings">Cài đặt</a> bất cứ lúc nào.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Chọn chủ đề
+onboarding-theme-picker-subtitle = Hãy tô thêm chút màu sắc cho { -brand-short-name }.
+onboarding-theme-picker-button-label = Lưu và tiếp tục

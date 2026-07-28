@@ -638,4 +638,5 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si vous changez d’av
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Choisissez un thème
+onboarding-theme-picker-subtitle = Ajoutez une touche de couleur à { -brand-short-name }.
 onboarding-theme-picker-button-label = Enregistrer et continuer

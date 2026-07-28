@@ -198,6 +198,35 @@ aiwindow-close-sidebar =
     .aria-label = Đóng
     .tooltiptext = Đóng
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Tuỳ chọn khác
+    .tooltiptext = Tuỳ chọn khác
+aiwindow-history-menu-chat-history = Lịch sử trò chuyện
+aiwindow-history-menu-back =
+    .aria-label = Quay lại
+    .tooltiptext = Quay lại
+aiwindow-history-menu-view-all-chats = Xem tất cả trò chuyện
+aiwindow-history-menu-settings = Cài đặt { -smart-window-brand-name }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Trò chuyện mới
+aiwindow-fullpage-chat-history =
+    .label = Lịch sử trò chuyện
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Thêm
+    .title = Thêm
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Dữ liệu đã đồng bộ sẽ vẫn còn trong tài khoản của bạn. Mở { -smart-window-brand-name(plural-form: "true") } sẽ chuyển sang cửa sổ thông thường.

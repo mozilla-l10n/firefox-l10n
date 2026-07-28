@@ -214,6 +214,15 @@ passport-capture-save-doorhanger-description = Сохраните информа
 # (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
 # reorder them to match their locale.
 passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = Сохранить
+    .accessKey = Ы
+passport-capture-not-now-button =
+    .label = Не сейчас
+    .accessKey = w
+passport-capture-never-save-button =
+    .label = Никогда не сохранять паспорта
+    .accessKey = Т
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

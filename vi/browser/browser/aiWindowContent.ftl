@@ -120,6 +120,14 @@ action-log-reading-page = Đang đọc trang
 action-log-read-page = Đã đọc nội dung trang
 action-log-searching-web = Đang tìm kiếm web
 action-log-searched-web = Đã tìm kiếm web
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Đang tìm kiếm trên web với <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Đã tìm kiếm trên web với <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Đang kiểm tra ký ức
 action-log-checked-memories = Đã kiểm tra ký ức
 action-log-searching-settings = Đang tìm kiếm cài đặt
@@ -138,3 +146,10 @@ action-log-completed-steps = Đã hoàn thành { $count } bước
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = Đã tải kết quả tìm kiếm trong thẻ này. Đang phân tích…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } thẻ khác
