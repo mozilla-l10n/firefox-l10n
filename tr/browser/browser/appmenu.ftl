@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = { -brand-product-name } tarayıcısını paylaş
 appmenuitem-more-tools =
     .label = Daha fazla araç
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Yardım ve raporlama
 appmenuitem-help =
     .label = Yardım
 appmenuitem-exit2 =
@@ -143,6 +146,8 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Tüm cihazlar
+fxa-menu-get-firefox-mobile =
+    .label = Android veya iOS için { -brand-product-name }’u indirin
 fxa-menu-secure-sync-subpanel =
     .title = Güvenli eşitleme
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -302,6 +307,9 @@ appmenu-help-share-ideas =
     .accesskey = F
 appmenu-help-switch-device =
     .label = Yeni bir cihaza geçiş
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Yardım ve raporlama
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -383,6 +391,8 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Kullanılan profil
 fxa-menu-create-profile-subpanel =
     .title = Yeni profil oluştur
+fxa-menu-create-profile-heading = Yeni bir profille gezinti deneyiminizi geliştirin
+fxa-menu-create-profile-description = İş amaçlı yer imlerinizi, parolalarınızı ve geçmişinizi kişisel olanlardan ayrı tutabilirsiniz.
 fxa-menu-create-profile-confirm =
     .label = Yeni profil oluştur
 fxa-menu-create-profile-learn-more =
@@ -397,6 +407,15 @@ appmenu-secure-sync-header = Güvenli eşitleme
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Son sekmeler
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Eşitlenmiş { $tabCount } sekmeyi göster
+           *[other] Eşitlenmiş { $tabCount } sekmeyi göster
+        }
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =
     .label = Açık sayfayı bu cihaza gönder

@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Yeni tuşa basın:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (değiştirilemez)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Başka bir kısayol kaldırılsın mı?
 customkeys-conflict-confirm-body = Bu tuş “{ $conflict }” tarafından zaten kullanılıyor.
 customkeys-conflict-confirm-button-confirm = Yine de kullan
 customkeys-conflict-confirm-button-cancel = Vazgeç
+customkeys-conflict-unusable-title = Tuş kullanılamıyor
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Bu tuş “{ $conflict }” tarafından kullanılmakta olduğu için burada kullanılamaz.
 customkeys-reset-all-confirm-title = Varsayılanlar geri yüklensin mi?
 customkeys-reset-all-confirm-body = Oluşturduğunuz tüm özel klavye kısayolları kaldırılacaktır.
 customkeys-reset-all-confirm-button-confirm = Varsayılanları geri yükle

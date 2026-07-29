@@ -627,3 +627,9 @@ smartwindow-sidebar-auto-open-callout-accept = Evet, kapalı kalsın
 smartwindow-sidebar-auto-open-callout-dismiss = Hayır
 smartwindow-sidebar-auto-open-callout-accepted-title = Asistan kapalı kalacaktır
 smartwindow-sidebar-auto-open-callout-rejected-title = Anladım
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Tema seçin
+onboarding-theme-picker-subtitle = { -brand-short-name } tarayıcınıza renk katın.
+onboarding-theme-picker-button-label = Kaydet ve devam et
