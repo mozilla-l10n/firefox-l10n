@@ -1503,17 +1503,17 @@ edit-popup-settings =
     .label = Kudeatu laster-leihoen ezarpenak…
     .accesskey = K
 picture-in-picture-hide-toggle =
-    .label = Ezkutatu bideoa beste leiho batean txandakatzeko botoia
+    .label = Ezkutatu bideoa beste leiho batean ikusteko botoia
     .accesskey = E
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 picture-in-picture-move-toggle-right =
-    .label = Eraman eskuinera bideoa beste leiho batean ikustea txandakatzekoa
+    .label = Eraman eskuinera bideoa beste leiho batean ikusteko botoia
     .accesskey = s
 picture-in-picture-move-toggle-left =
-    .label = Eraman ezkerrera bideoa beste leiho batean ikustea txandakatzekoa
+    .label = Eraman ezkerrera bideoa beste leiho batean ikusteko botoia
     .accesskey = z
 
 ##
