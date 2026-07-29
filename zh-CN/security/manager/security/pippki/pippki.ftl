@@ -51,7 +51,7 @@ download-cert-view-text = 检查CA证书
 ## Client Authentication Ask dialog
 
 client-auth-window =
-    .title = 使用确认请求
+    .title = 用户识别请求
 client-auth-site-description = 此站点请求您用证书来标识您自己：
 client-auth-choose-cert = 选择一个证书作为标识：
 client-auth-send-no-certificate =

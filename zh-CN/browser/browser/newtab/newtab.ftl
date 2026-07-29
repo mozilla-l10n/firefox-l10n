@@ -1232,7 +1232,7 @@ newtab-sports-widget-show-less =
 newtab-sports-widget-followed-only-toggle =
     .label = 仅显示关注的球队
 # Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = 正加载更多匹配项…
+newtab-sports-widget-loading-more = 正在加载更多比赛…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = 观看

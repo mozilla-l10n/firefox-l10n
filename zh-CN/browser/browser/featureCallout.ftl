@@ -159,7 +159,7 @@ windows-10-eos-sync-callout-primary-advance-button-label = 下一步
 
 ## Link Preview Onboarding message callout strings
 
-link-preview-onboarding-callout-title = 新功能：长按预览连接
+link-preview-onboarding-callout-title = 新功能：长按预览链接
 link-preview-onboarding-callout-description = 查看简短描述、阅读时长等信息，帮助判断链接是否值得点开。也可通过右键点击使用。
 
 ## Tab Groups Onboarding Strings

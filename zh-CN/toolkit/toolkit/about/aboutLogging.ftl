@@ -71,7 +71,7 @@ about-logging-error = 错误：
 
 ##
 
-about-logging-invalid-output = 键“{ $v }”的值“{ $k }”无效
+about-logging-invalid-output = 键“{ $k }”的值“{ $v }”无效
 about-logging-unknown-logging-preset = 日志记录预设置“{ $v }”未知
 about-logging-unknown-profiler-preset = 性能分析预设置“{ $v }”未知
 about-logging-unknown-option = about:logging 选项“{ $k }”未知

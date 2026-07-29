@@ -87,4 +87,4 @@ screenshots-component-copy-key = C
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size-3 = { $width } × { $height }
 screenshots-overlay-preview-face-label =
-    .aria-label = 选择此地区
+    .aria-label = 选择此区域
