@@ -83,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = Za pśistup k swójim rejtar
 firefoxview-tabpickup-password-locked-link = Dalšne informacije
 firefoxview-tabpickup-password-locked-primarybutton = Głowne gronidło zapódaś
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Dalšne informacije</a>
+firefoxview-tabpickup-password-locked-header-2 = Wótblokěrujśo rejtariki ze swójim głownym gronidłom
+firefoxview-tabpickup-password-locked-description-2 = Synchronizěrowane rejtariki se za wašu priwatnosć šćitaju. Zapódajśo swóje głowne gronidło { -brand-short-name }, aby rejtariki ze swójich drugich rědow wiźeł.
 firefoxview-tabpickup-signed-out-header = Pśizjawśo se, aby zasej zwězał
 firefoxview-tabpickup-signed-out-description = Aby se zasej zwězował a pśistup k swójim rejtarikam měł, pśizjawśo se pla swójogo { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Aby se zasej zwězował a pśistup k swójim rejtarikam měł, pśizjawśo se pla swójogo konta.
 firefoxview-tabpickup-signed-out-primarybutton = Pśizjawiś
+firefoxview-tabpickup-signed-out-header-2 = Pśizjawśo se, aby swóje rejtariki wiźeł
+firefoxview-tabpickup-signed-out-description-2 = Zwěžćo znowego, aby rejtariki z drugich rědow pokazał.
 firefoxview-tabpickup-syncing = Wobcakajśo, mjaztym až se waše rejtariki synchronizěruju. Buźo jano wokognuśe traś.
 firefoxview-mobile-promo-header = Wobstarajśo se rejtariki ze swójogo telefona abo tableta
 firefoxview-mobile-promo-description = Aby se swóje nejnowše mobilne rejtariki woglědował, přśzjawśo se pla { -brand-product-name } na iOS abo Android.
@@ -230,6 +234,9 @@ firefoxview-show-all-history = Wšu historiju pokazaś
 firefoxview-history-empty-header = Wrośćo se tam, źož sćo był
 firefoxview-history-empty-description = Mjaztym až pśeglědujośo, se boki, kótarež se woglědujośo, how nalicyju.
 firefoxview-history-empty-description-two = Šćit wašeje priwatnosći jo naša wutšobina pótrjebnosć. Togodla móžośo aktiwitu,  na kótaruž se { -brand-short-name } dopomina, we wašych <a data-l10n-name="history-settings-url">nastajenjach historije</a> wóźiś.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Waš slěd pśeglědowanja se how zachopina
 
 ##
 
@@ -241,6 +248,8 @@ firefoxview-choose-browser-button = Wubjeŕśo wobglědowak
 
 firefoxview-dont-remember-history-empty-header-2 = Maśo kontrolu wó tom, což se { -brand-short-name } markujo
 firefoxview-dont-remember-history-empty-description-one = Tuchylu se { -brand-short-name } wašu pśeglědowańsku aktiwitu njemarkujo. Aby to změnił, <a data-l10n-name="history-settings-url-two">aktualizěrujśo nastajenja swójeje historije</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Wašo pśeglědowanje se njeskładujo
 
 ##
 

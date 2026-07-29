@@ -248,7 +248,9 @@ newtab-privacy-message-promo-vpn-1 = Nakupujośo w zjawnem WLAN? Zmóžniśo zat
 newtab-privacy-message-promo-vpn-1-cta = VPN wócyniś
 newtab-privacy-message-promo-vpn-2 = Wužywaśo WLAN na lětanišću? Zmóžniśo zatwarjony VPN, aby swójo pśeglědowanje šćitał.
 newtab-privacy-message-promo-vpn-2-cta = VPN wócyniś
+newtab-privacy-message-promo-vpn-3 = Zmóžniśo zatwarjony VPN, aby pomagał, až wašo stojnišćo priwatnjejše wóstawa.
 newtab-privacy-message-promo-vpn-3-cta = VPN wócyniś
+newtab-privacy-message-promo-private-window-1 = Wopytajśo priwatne wokno, aby priwatnjej pśeglědował, gaž zgromadne licadło wužywaśo.
 newtab-privacy-message-promo-private-window-1-cta = Priwatne wokno wócyniś
 newtab-privacy-message-promo-relay-1 = Składujśo swóju napšawdnu za luźi, kótarymž dowěrjaśo; wužywajśo e-mailowu masku za registracije.
 newtab-privacy-message-promo-relay-1-cta = Maski wobstaraś
@@ -732,6 +734,24 @@ newtab-custom-close-menu-button =
     .aria-label = Meni zacyniś
 newtab-custom-close-button = Zacyniś
 newtab-custom-settings = Dalšne nastajenja zastojaś
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Naglěd
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Dalšne drastwy pokazaś
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Drastwy { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Waše drastwy
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Zmóžniś
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Znjemóžniś
 
 ## New Tab Wallpapers
 
