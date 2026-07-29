@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Para ver las pestañas de tu tel
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } en todos los dispositivos
 firefoxview-syncedtabs-signin-description-2 = Para ver las pestañas abiertas en su teléfono y otros dispositivos, inicie sesión o regístrese para obtener una cuenta. Con una cuenta, también se pueden sincronizar las contraseñas, historial y más.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = De la computadora portátil al teléfono, sin interrupciones
+firefoxview-syncedtabs-signin-description-3 = Mantenga la navegación conectada en todos los dispositivos: pestañas, contraseñas e historial, todo sincronizado.
 firefoxview-syncedtabs-signin-primarybutton-2 = Iniciar sesión
 firefoxview-tabpickup-adddevice-header = Sincronizar { -brand-product-name } en tu teléfono o tableta
 firefoxview-tabpickup-adddevice-description = Descargar { -brand-product-name } para dispositivos móviles e iniciá la sesión allí.
@@ -40,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Obtené { -brand-product-name } 
 firefoxview-syncedtabs-adddevice-header-2 = Tome pestañas desde cualquier lugar
 firefoxview-syncedtabs-adddevice-description-2 = Inicie sesión en { -brand-product-name } en su teléfono o en otra computadora para ver las pestañas aquí. Conocer cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Pruebe { -brand-product-name } para dispositivos móviles
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Las pestañas necesarias. Están en el teléfono.
 firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Conocer cómo
