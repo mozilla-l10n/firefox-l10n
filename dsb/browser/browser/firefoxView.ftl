@@ -34,6 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = Waš { -brand-product-name } na wšych 
 firefoxview-syncedtabs-signin-description-2 = Aby swóje wócynjone rejtariki na swójom telefonje a drugich rědach wiźeł, pśizjawśo se abo registrěrujśo se za konto. Z kontom móžośo teke swóje gronidła, swóju historiju a wěcej synchronizěrowaś.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Direktnje z laptopa do telefona
+firefoxview-syncedtabs-signin-description-3 = Wóstańśo ze swójim pśeglědowanim na wšych rědach zwězany – rejtariki, gronidła a historija, wšykno w synchronizaciji.
 firefoxview-syncedtabs-signin-primarybutton-2 = Pśizjawiś
 firefoxview-tabpickup-adddevice-header = Synchronizěrujśo { -brand-product-name } na swójom telefonje abo tableśe
 firefoxview-tabpickup-adddevice-description = Ześěgniśo { -brand-product-name } za mobilne rědy a pśizjawśo se tam.
@@ -42,22 +43,37 @@ firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobil
 firefoxview-syncedtabs-adddevice-header-2 = Wobstarajśo se rejtariki wóte wšuźi
 firefoxview-syncedtabs-adddevice-description-2 = Pśizjawśo pla { -brand-product-name } na swójom telefonje abo drugem licadle, aby rejtariki how wiźeł. Zgóńśo, kak móžośo <a data-l10n-name="url">pśidatne rědy zwězaś</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wopytajśo { -brand-product-name } za mobilny rěd
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Waše rejtariki su se wótwołali. Su na wašom telefonje.
+firefoxview-syncedtabs-adddevice-description-3 = Scannujśo QR-kod, aby { -brand-product-name } za swój mobilny telefon dostał a synchronizěrujśo swóje wócynjone rejtariki a wěcej. Zgóńśo, kak móžośo <a data-l10n-name="url">pśidatne rědy zwězaś</a>.
 firefoxview-tabpickup-synctabs-header = Synchronizaciju rejtarikow zmóžniś
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowóliś, rejtariki mjazy rědami źěliś.
 firefoxview-tabpickup-synctabs-learn-how = Zgóńśo kak
 firefoxview-tabpickup-synctabs-primarybutton = Wócynjone rejtariki synchronizěrowaś
+firefoxview-tabpickup-synctabs-primarybutton-2 = Synchronizaciju rejtarikow zmóžniś
 firefoxview-syncedtabs-synctabs-header = Aktualizěrujśo swóje synchronizaciske nastajenja
 firefoxview-syncedtabs-synctabs-description = Aby rejtariki z drugich rědow wiźeł, musyśo swóje wócynjone rejtariki synchronizěrowaś.
+firefoxview-syncedtabs-synctabs-header-2 = Synchronizacija rejtarikow jo znjemóžnjona
+firefoxview-syncedtabs-synctabs-description-2 = Zmóžniśo synchronizaciju zasej, aby wšykne swóje rejtariki z drugich rědow wobstarał.
 firefoxview-syncedtabs-loading-header = Synchronizěrujo se
 firefoxview-syncedtabs-loading-description = Gaž to jo dokóńcone, buźośo rejtariki wiźeś, kótarež su na drugich rědach wócynjone. Pśiźćo skóro mimo.
+firefoxview-syncedtabs-loading-header-2 = Waše rejtariki se wobstaruju…
+firefoxview-syncedtabs-loading-description-2 = Synchronizacija běžy. Rejtariki budu skóro how.
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija jo znjemóžniła synchronizaciju
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njamóžo rejtariki mjazy rědami synchronizěrowaś, dokulaž waš administrator jo znjemóžnił synchronizěrowanje.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } njamóžo rejtariki mjazy rědami synchronizěrowaś, dokulaž waša organizacija jo znjemóžniła synchronizěrowanje.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Synchronizacija rejtarikow jo znjemóžnjona
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Waša organizacija jo toś tu funkciju blokěrowała.
 firefoxview-tabpickup-network-offline-header = Pśeglědujśo swój internetny zwisk
 firefoxview-tabpickup-network-offline-description = Jolic wognjowu murju abo proksy wužywaśo, pśeglědujśo, lěc { -brand-short-name } ma pšawo na pśistup k internetoju.
 firefoxview-tabpickup-network-offline-primarybutton = Hyšći raz wopytaś
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } tuchylu njamóžo zwězaś
+firefoxview-tabpickup-network-offline-description-2 = Sćo snaź offline abo něco zwisk blokěrujo.
 firefoxview-tabpickup-sync-error-header = Mamy problemy ze synchronizaciju
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } njamóžo tuchylu synchronizěrowańsku słužbu dojśpiś. Wopytajśo za někotare wokognuśa hyšći raz.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Synchronizacija jo na problem starcyła
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } njejo mógł zwězaś. Cakajśo wokognuśe a wopytajśo pótom hyšći raz.
 firefoxview-tabpickup-sync-error-primarybutton = Hyšći raz wopytaś
 firefoxview-tabpickup-sync-disconnected-header = Zmóžniśo synchronizaciju, aby pókšacował
 firefoxview-tabpickup-sync-disconnected-description = Za pśistup k swójim rejtarikam musyśo synchronizaciju w { -brand-short-name } dowóliś.
