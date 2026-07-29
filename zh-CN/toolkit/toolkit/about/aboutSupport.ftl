@@ -138,7 +138,7 @@ place-database-integrity = 完整性
 place-database-verify-integrity = 验证完整性
 place-database-last-idle-maintenance-data = 上次空闲维护日期
 # Vacuum refers to a type of database maintenance process
-place-database-last-vacuum-date = 上次 Vacumm 日期
+place-database-last-vacuum-date = 上次 Vacuum 日期
 place-database-last-integrity-corruption-date = 上次完整性损坏日期
 a11y-title = 无障碍环境
 a11y-activated = 已激活

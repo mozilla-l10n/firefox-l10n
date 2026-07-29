@@ -110,7 +110,7 @@ choose-p12-restore-file-dialog = 要导入的证书文件
 
 file-browse-certificate-spec = 证书文件
 import-ca-certs-prompt = 请选择要导入的包含 CA 证书的文件
-import-email-cert-prompt = 请选择包含要导入的包含某人邮件证书的文件
+import-email-cert-prompt = 选择包含某人电子邮件证书的文件以导入
 
 ## For editing certificates trust
 
@@ -123,7 +123,7 @@ edit-trust-ca = 此证书“{ $certName }”代表了一个数字证书颁发机
 delete-user-cert-title =
     .title = 删除您的证书
 delete-user-cert-confirm = 您确定要删除这些证书吗？
-delete-user-cert-impact = 如果您删除了某个您自己的证书，您将无法使用它来标识你自己。
+delete-user-cert-impact = 如果您删除了某个您自己的证书，您将无法再用它来标识自己。
 delete-ssl-override-title =
     .title = 删除服务器证书例外
 delete-ssl-override-confirm = 您确定要删除此服务器例外吗？
