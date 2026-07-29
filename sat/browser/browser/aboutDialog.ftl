@@ -25,7 +25,7 @@ settings-update-downloading-2 =
 
 ##
 
-update-applying = ᱦᱟᱹᱞᱤ ᱵᱚᱦᱟᱞᱮᱫ ᱟ  …
+update-applying = ᱦᱟᱹᱞᱤ ᱵᱚᱦᱟᱞᱮᱫ ᱟ …
 settings-update-applying =
     .label = ᱦᱟᱹᱞᱤ ᱵᱚᱦᱟᱞᱮᱫ ᱟ  …
 update-failed = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾ <label data-l10n-name="failed-link">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱰᱟᱣᱱᱞᱚᱰᱭ ᱢᱮ</label>
@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = ᱯᱷᱤᱰᱵᱮᱠ ᱡᱚᱢᱟᱭ ᱢᱮ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ᱫᱚ ᱢᱤᱫ <label data-l10n-name="community-exp-creditsLink"> ᱫᱷᱟᱹᱨᱛᱤ ᱨᱤᱱ ᱦᱚᱲ ᱠᱚᱣᱟᱜ </label> ᱢᱤᱫ ᱫᱷᱟᱣ ᱛᱮ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱣᱮᱵᱽ ᱡᱷᱤᱡᱽ ᱦᱚᱲ ᱠᱚ ᱟᱨ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱟᱛᱩᱨ ᱫᱟᱲᱮ ᱦᱚᱪᱚ ᱾
 community-2 = { -brand-short-name } ᱫᱚ ᱥᱟᱡᱟᱣᱠᱟᱱᱟ ᱫᱟᱨᱟᱭᱛᱮ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ᱢᱤᱫ <label data-l10n-name="community-creditsLink"> ᱢᱤᱫ ᱫᱷᱟᱹᱨᱛᱤ ᱨᱤᱱ ᱦᱚᱲ ᱠᱚᱣᱟᱜ </label>ᱢᱤᱫ ᱫᱷᱟᱣ ᱛᱮ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱣᱮᱵᱽ ᱡᱷᱤᱡᱽ ᱦᱚᱲ ᱠᱚ ᱟᱨ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱛᱩᱨ ᱫᱟᱲᱮ ᱦᱚᱪᱚ ᱾
 helpus = ᱜᱚᱲᱚ ᱮᱢ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ? <label data-l10n-name="helpus-donateLink">ᱫᱟᱱ ᱢᱮ</label> ᱟᱨ ᱵᱟᱝ <label data-l10n-name="helpus-getInvolvedLink">ᱪᱷᱩᱴᱟᱣᱜ ᱢᱮ!</label>
+helpus-referrals = ᱜᱚᱲᱚ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ? <label data-l10n-name="helpus-donateLink">ᱫᱟᱱ ᱢᱮ</label>, <label data-l10n-name="helpus-shareFirefoxLink">ᱦᱟᱴᱤᱧ ᱢᱮ { -brand-short-name }</label>, ᱥᱮ <label data-l10n-name="helpus-getInvolvedLink">ᱥᱮᱞᱮᱫᱚᱜ ᱢᱮ!</label>
 bottomLinks-license = ᱞᱟᱭᱥᱮᱱᱥ ᱮᱢ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
 bottom-links-terms = ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱥᱚᱨᱛᱚ
 bottom-links-privacy = ᱫᱟᱱᱟᱝ ᱠᱷᱚᱵᱚᱨ
