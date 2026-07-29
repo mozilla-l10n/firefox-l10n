@@ -84,7 +84,7 @@ policy-FirefoxHome2 = Nastavi { -firefox-home-brand-name(sklon: "tozilnik") }.
 policy-FirefoxSuggest = Nastavi { -firefox-suggest-brand-name }.
 policy-GenerativeAI = Nastavi funkcije generativne UI.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Ob vnosu ene besede v naslovno vrstico prisili neposredno krmarjenje na intranetno stran namesto iskanja.
-policy-Handlers = Nastavite privzete upravljalce aplikacij.
+policy-Handlers = Nastavi privzete upravljalnike aplikacij.
 policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastavi in po potrebi zakleni domačo stran.
@@ -123,7 +123,7 @@ policy-PostQuantumKeyAgreementEnabled = Omogoči post-kvanten dogovor o ključu 
 policy-PDFjs = Onemogoči ali nastavi PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.
 policy-Permissions2 = Nastavi dovoljenja za kamero, mikrofon, lokacijo, obvestila in samodejno predvajanje.
 policy-PictureInPicture = Omogoči ali onemogoči sliko v sliki
-policy-PopupBlocking2 = Določenim spletnim mestom dovoli prikazovanje pojavnih oken in jih preusmerjajo okvirji tretjih strani.
+policy-PopupBlocking2 = Določenim spletnim mestom dovoli, da prikazujejo pojavna okna in da jih preusmerjajo okvirji tretjih strani.
 policy-PopupBlocking = Določenim spletnim mestom privzeto dovoli prikazovanje pojavnih oken.
 policy-Preferences = Nastavi in zakleni vrednost podnabora nastavitev.
 policy-PrivateBrowsingModeAvailability = Nastavi razpoložljivost zasebnega brskanja.

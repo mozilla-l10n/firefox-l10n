@@ -86,7 +86,7 @@ contextual-manager-passwords-export-success-button = Končano
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Želite izvoziti gesla v datoteko?
 # This string recommends to the user that they delete the exported password file that is saved on their local machine.
-contextual-manager-export-passwords-dialog-message = Po izvozu priporočamo, da datoteko izbrišete, da vaša gesla ne bodo ostala na očem morebitnim drugim uporabnikom te naprave.
+contextual-manager-export-passwords-dialog-message = Po izvozu priporočamo, da datoteko izbrišete, da vaša gesla ne bodo ostala na očeh morebitnim drugim uporabnikom te naprave.
 contextual-manager-export-passwords-dialog-confirm-button = Nadaljuj z izvozom
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Izvozi gesla iz { -brand-short-name(sklon: "rodilnik") }

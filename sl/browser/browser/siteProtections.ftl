@@ -67,7 +67,7 @@ protections-not-blocking-cookies-all =
 protections-not-blocking-cross-site-tracking-cookies =
     .title = Ne zavrača piškotkov za sledenje med spletnimi mesti
 protections-not-blocking-tracking-content =
-    .title = Ne zavrača sledilnih piškotkov
+    .title = Ne blokira sledilne vsebine
 protections-not-blocking-social-media-trackers =
     .title = Ne zavrača sledilcev družbenih omrežij
 
