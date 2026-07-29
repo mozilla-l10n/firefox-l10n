@@ -123,7 +123,7 @@ autofill-address-eircode = Eircode
 
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Nuovo indirizzo
-autofill-address-country = Stato o regione
+autofill-address-country = Paese o regione
 autofill-address-country-only = Stato
 autofill-address-tel = Telefono
 autofill-address-email = Email
