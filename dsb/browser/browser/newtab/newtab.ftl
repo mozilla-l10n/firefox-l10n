@@ -752,6 +752,11 @@ newtab-appearance-enable-theme-button =
 # Button that disables the active theme and reverts to the default.
 newtab-appearance-disable-theme-button =
     .label = Znjemóžniś
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Drastwu instalěrowaś
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Wuslěźćo dalšne drastwy
 
 ## New Tab Wallpapers
 

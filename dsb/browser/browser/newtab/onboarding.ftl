@@ -633,3 +633,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Asistent zacynjony wósta
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Wužywajśo Pšašaś se, aby jo na někakem boku wócynił. Změńśo to kuždy cas w <a data-l10n-name="settings">nastajenjach</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Som zrozměł
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jolic swóje měnjenje změnjaśo, móžośo kuždy cas standard w <a data-l10n-name="settings">nastajenjach</a> aktualizěrowaś.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Wubjeŕśo drastwu
+onboarding-theme-picker-subtitle = Pśinjasćo pitśku wěcej barwy do { -brand-short-name }.
+onboarding-theme-picker-button-label = Składowaś a pókšacowaś
