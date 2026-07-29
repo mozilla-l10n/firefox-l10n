@@ -172,6 +172,7 @@ perftools-presets-ml-description2 = Танзимот барои тафтиши �
 perftools-presets-networking-label = Шабакасозӣ
 perftools-presets-networking-description = Танзимот барои тафтиши хатоҳои шабакасозӣ дар { -brand-shorter-name }.
 perftools-presets-networking-with-logs-label = Шабакасозӣ бо сабти рӯйдодҳо
+perftools-presets-networking-with-logs-description = Танзимоти пешакӣ барои таҳқиқи хатоҳои шабакавӣ дар барномаи «{ -brand-shorter-name }», аз он ҷумла гузоришҳо ё сабтҳои рӯйдодҳои шабакавӣ. Ин гузоришҳо ё сабтҳои рӯйдодҳо метавонанд маълумоти махфиро, ба монанди нишонии «URL»-ҳое, ки шумо боздид мекунед, дар бар гиранд.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Қувва
 perftools-presets-power-description = Танзимот барои тафтиши хатоҳои истифодаи қувваи барқ дар { -brand-shorter-name }, бо хароҷоти паст.
