@@ -618,6 +618,7 @@ smartwindow-existing-user-fx-tou-go-back = Slědk
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = Cyńśo { -smart-window-brand-name } k swójomu faworitoju
+smartwindow-onboarding-subtitle = Zespominajśo, pśirownajśo a stajśo pšašanja, bźez togo aby se komuźił.
 smartwindow-onboarding-primary-button = Dalej
 # Kit is referring to the Firefox mascot
 smartwindow-onboarding-image-alt =

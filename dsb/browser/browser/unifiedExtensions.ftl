@@ -15,6 +15,8 @@ unified-extensions-discover-extensions =
     .label = Rozšyrjenja namakaś
 unified-extensions-empty-reason-private-browsing-not-allowed = Sćo instalěrował rozšyrjenja, ale njejsćo je zmóžnił w priwatnych woknach
 unified-extensions-empty-reason-extension-not-enabled = Sćo instalěrował rozšyrjenja, ale nic zmóžnił
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Někotare rozšyrjenja mógu wjeliku pomoc byś
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Pówušćo niwow swójogo pśeglědowanja z rozšyrjenjami
 unified-extensions-empty-content-explain-enable2 = Wubjeŕśo „{ unified-extensions-manage-extensions.label }“, aby je w nastajenjach zmóžnił.

@@ -26,6 +26,11 @@ inspector-color-scheme-emulation-light =
 # A title text for the dark color scheme emulation options
 inspector-color-scheme-emulation-dark =
     .title = Emulaciju śamneje barwoweje šemy za bok pśešaltowaś
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = Emulaciske funkcije CSS pśešaltowaś
+    .aria-label = Emulaciske funkcije CSS pśešaltowaś
 inspector-emulation-panel-color-scheme = Emulacija barwoweje šemy
 # A label text for the print emulation options
 inspector-emulation-panel-print = Zmóžniś

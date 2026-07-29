@@ -87,6 +87,9 @@ options-netmonitor-body-limit-unlimited-label = Njewobgranicowany
 
 # The heading
 options-experimental-label = Eksperimentelne funkcije
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (pomina se wóspjetne wócynjanje rědow)
 
 ## Style Editor section
 

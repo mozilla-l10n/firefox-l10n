@@ -66,14 +66,23 @@ url-classifier-content-classifier-probes = Proby
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Wuslědki
 url-classifier-content-classifier-pbm = Priwatny modus
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Tśeśe póbitowarje do nejwušego wobceŕka nuzkaś
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Njedopórucony dodank
 # Button: run the probe that reports whether the request would be blocked.
 url-classifier-content-classifier-probe-blocking-btn = Probowe blokěrowanje
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Anotaciju testowaś
 # Button: run the probe against a single classifier feature chosen in the
 # adjacent dropdown.
 url-classifier-content-classifier-probe-feature-btn = Probowa funkcija
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Drobnostki klasifikatora
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Funkcija
 # Column header: whether the request matched this feature (true/false).
