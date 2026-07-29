@@ -65,6 +65,7 @@ about-processes-unknown-process = Дигар: { $type } ({ $pid })
 about-processes-web-isolated-property-private = хусусӣ
 about-processes-web-isolated-property-serviceworker = коргузори хизматрасонӣ
 about-processes-web-isolated-property-jit-disabled = «JIT» ғайрифаъол аст
+about-processes-web-isolated-property-with-coop-coep = равандҳои маҳдудшуда аз манбаъҳои бегона
 
 ## Isolated process names
 ## Variables:
