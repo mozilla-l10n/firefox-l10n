@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Фаъол кардани нусха�
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Ҳангоми истифодаи ҷузвдони интихобшуда барои сохтани нусхаи эҳтиётӣ мушкилӣ ба миён омад. Ҷузвдони дигареро интихоб кунед ва аз нав кӯшиш намоед.
+turn-on-scheduled-backups-error-default-dir-denied = Мо ба ҷузвдони нусхаҳои эҳтиётии шумо дастрасӣ пайдо карда натавонистем. Кӯшиш кунед, ки ҷойгиршавии наверо интихоб намоед.
 backup-error-file-system = Ҳангоми истифодаи ҷузвдони интихобшуда дар раванди таҳияи нусхаи эҳтиётии «{ -brand-short-name }» мушкилӣ ба миён омад.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.

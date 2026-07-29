@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Вақте ки шумо «Anthropic Claude»
 genai-settings-chat-copilot-links = Вақте ки шумо «Copilot»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои таҷрибаи «Copilot AI»</a> ва <a data-l10n-name="link2">Эъломияи махфияти «Microsoft»</a> розӣ мешавед.
 genai-settings-chat-gemini-links = Вақте ки шумо «Google Gemini»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои хизматрасонии «Google»</a>, <a data-l10n-name="link2">Сиёсати истифодабарии зеҳни сунъии маҳсулнокии манъшуда</a> ва <a data-l10n-name="link3">Огоҳномаи махфияти барномаҳои «Gemini»</a> розӣ мешавед.
 genai-settings-chat-huggingchat-links = Вақте ки шумо «HuggingChat»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Огоҳномаи махфияти «HuggingChat»</a> ва <a data-l10n-name="link2">Сиёсати махфияти «Hugging Face»</a> розӣ мешавед.
+genai-settings-chat-lechat-links-2 = Вақте ки шумо «Mistral Vibe»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои хизматрасонӣ</a> ва <a data-l10n-name="link2">Сиёсати махфияти</a> зеҳни сунъии «Mistral AI» розӣ мешавед.
 genai-settings-chat-lechat-links = Вақте ки шумо «Le Chat Mistral»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои хизматрасонӣ</a> ва <a data-l10n-name="link2">Сиёсати махфияти</a> зеҳни сунъии «Mistral AI» розӣ мешавед.
 genai-settings-chat-localhost-links = Чат-боти маҳаллии хусусиро, ба монанди <a data-l10n-name="link1">«llamafile»</a> аз ҷониби гурӯҳи инноватсионии «{ -vendor-short-name }», эҷод намоед.
 
@@ -168,6 +169,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Маълумоти бештар дар бораи «Gemini»
 genai-onboarding-huggingchat-tooltip =
     .title = «HuggingChat»
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = Маълумоти бештар дар бораи «HuggingChat»
 genai-onboarding-lechat-tooltip =
     .title = «Le Chat Mistral»

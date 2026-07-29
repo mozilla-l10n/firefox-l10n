@@ -266,3 +266,8 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Низоми хатбаракҳо ва таърих кор намекунад, зеро ки яке аз файлҳои { -brand-short-name } аз ҷониби барномаи дигар истифода мешавад. Баъзе нармафзорҳои амният метавонанд ин мушкилиро ба вуҷуд оранд.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .label = Мубодила кардани ҷузвдон
+    .badge = Нав

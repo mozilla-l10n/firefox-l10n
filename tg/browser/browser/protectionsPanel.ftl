@@ -84,6 +84,11 @@ smartblock-placeholder-title = Васоити пайгирӣ ва муҳтаво
 smartblock-placeholder-desc = Танзимоти «{ -brand-short-name }»-и шумо ин муҳтаворо аз пайгирии шумо байни сомонаҳо ё аз истифодаи пайгирии шумо тавассути реклама манъ кард.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Иҷозат додан дар { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Муҳтаво аз унсури дарунсохти манъшуда
 
 ##
 
