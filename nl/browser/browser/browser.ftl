@@ -1585,8 +1585,14 @@ private-browsing-indicator-label = Privénavigatie
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Privénavigatie
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Privénavigatie-info
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = U bevindt zich in een privévenster
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Dit helpt uw navigatie op dit apparaat voor anderen verborgen te houden, maar maakt u online niet onzichtbaar. <a data-l10n-name="learn-more">Wie kan mijn activiteit zien?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

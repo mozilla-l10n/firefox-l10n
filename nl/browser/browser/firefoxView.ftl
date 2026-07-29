@@ -45,6 +45,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Meld u aan bij { -brand-product
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } voor mobiel proberen
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Uw tabbladen hebben gebeld. Ze staan op uw telefoon.
+firefoxview-syncedtabs-adddevice-description-3 = Scan de QR-code om { -brand-product-name } voor mobiel te downloaden en te beginnen met het synchroniseren van uw geopende tabbladen en meer. Lees hoe u <a data-l10n-name="url">extra apparaten kunt aansluiten</a>.
 firefoxview-tabpickup-synctabs-header = Tabbladsynchronisatie inschakelen
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } toestaan om tabbladen tussen apparaten te delen.
 firefoxview-tabpickup-synctabs-learn-how = Meer info
@@ -57,6 +58,7 @@ firefoxview-syncedtabs-synctabs-description-2 = Schakel synchronisatie weer in o
 firefoxview-syncedtabs-loading-header = Synchroniseren
 firefoxview-syncedtabs-loading-description = Als dit is afgerond, ziet u alle tabbladen die u op andere apparaten hebt geopend. Kom snel terug.
 firefoxview-syncedtabs-loading-header-2 = Uw tabbladen ophalen…
+firefoxview-syncedtabs-loading-description-2 = Er wordt gesynchroniseerd. Tabbladen volgen binnenkort.
 firefoxview-tabpickup-fxa-admin-disabled-header = Uw organisatie heeft synchronisatie uitgeschakeld
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan geen tabbladen synchroniseren tussen apparaten, omdat uw beheerder synchronisatie heeft uitgeschakeld.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan geen tabbladen synchroniseren tussen apparaten, omdat uw organisatie synchronisatie heeft uitgeschakeld.
@@ -81,11 +83,14 @@ firefoxview-tabpickup-password-locked-description = Om uw tabbladen op te halen,
 firefoxview-tabpickup-password-locked-link = Meer info
 firefoxview-tabpickup-password-locked-primarybutton = Hoofdwachtwoord invoeren
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Meer info</a>
+firefoxview-tabpickup-password-locked-header-2 = Ontgrendel tabbladen met uw hoofdwachtwoord
+firefoxview-tabpickup-password-locked-description-2 = Voor uw privacy zijn gesynchroniseerde tabbladen beschermd. Voer uw hoofdwachtwoord voor { -brand-short-name } in om tabbladen van uw andere apparaten te bekijken.
 firefoxview-tabpickup-signed-out-header = Aanmelden om opnieuw te verbinden
 firefoxview-tabpickup-signed-out-description = Meld u aan bij uw { -fxaccount-brand-name } om opnieuw te verbinden en uw tabbladen op te halen.
 firefoxview-tabpickup-signed-out-description2 = Meld u aan bij uw account om opnieuw te verbinden en uw tabbladen op te halen.
 firefoxview-tabpickup-signed-out-primarybutton = Aanmelden
 firefoxview-tabpickup-signed-out-header-2 = Meld u aan om uw tabbladen te zien
+firefoxview-tabpickup-signed-out-description-2 = Maak opnieuw verbinding om tabbladen van andere apparaten te bekijken.
 firefoxview-tabpickup-syncing = Een ogenblik, uw tabbladen worden gesynchroniseerd.
 firefoxview-mobile-promo-header = Haal tabbladen op van uw telefoon of tablet
 firefoxview-mobile-promo-description = Meld u aan bij { -brand-product-name } in iOS of Android om uw laatste mobiele tabbladen te bekijken.
@@ -227,6 +232,9 @@ firefoxview-show-all-history = Alle geschiedenis tonen
 firefoxview-history-empty-header = Terug naar waar u was
 firefoxview-history-empty-description = Terwijl u surft, worden de pagina’s die u bezoekt hier weergegeven.
 firefoxview-history-empty-description-two = Het beschermen van uw privacy staat centraal in wat we doen. Daarom kunt u de activiteit die { -brand-short-name } onthoudt, beheren in uw <a data-l10n-name="history-settings-url">geschiedenisinstellingen</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Uw navigatiespoor begint hier
 
 ##
 
