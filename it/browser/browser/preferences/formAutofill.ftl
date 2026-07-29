@@ -124,7 +124,7 @@ autofill-address-eircode = Eircode
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Nuovo indirizzo
 autofill-address-country = Paese o regione
-autofill-address-country-only = Stato
+autofill-address-country-only = Paese
 autofill-address-tel = Telefono
 autofill-address-email = Email
 autofill-cancel-button = Annulla
@@ -185,7 +185,7 @@ autofill-edit-passport-title = Modifica passaporto
 autofill-passport-name =
     .label = Nome
 autofill-passport-country =
-    .label = Nazione
+    .label = Paese
 autofill-passport-number =
     .label = Numero
 # Heading shown above the passport issue date fields.
