@@ -66,6 +66,9 @@ url-classifier-content-classifier-probes = Proby
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Wuslědki
 url-classifier-content-classifier-pbm = Priwatny modus
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Třeći poskićowarjo do najwyšeho wobłuka nuzować
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Njedoporučeny přidatk
@@ -74,6 +77,9 @@ url-classifier-content-classifier-probe-blocking-btn = Probowe blokowanje
 # Button: run the probe against a single classifier feature chosen in the
 # adjacent dropdown.
 url-classifier-content-classifier-probe-feature-btn = Probowa funkcija
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Podrobnosće klasifikatora
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Funkcija
 # Column header: whether the request matched this feature (true/false).
@@ -84,6 +90,8 @@ url-classifier-content-classifier-col-exception = Wuwzaće
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
 url-classifier-content-classifier-col-important = Wažny
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Wuslědk klasifikatora
 # Overall verdict shown when the request would be acted on (blocked or
 # annotated): the classifier matched.
 url-classifier-content-classifier-verdict-hit = Trjechjak

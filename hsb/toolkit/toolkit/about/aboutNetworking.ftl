@@ -76,6 +76,8 @@ about-networking-ssl-tokens-overridable-error = Přepisomna zmylkowa kategorija
 about-networking-ssl-tokens-built-in-root = Zatwarjeny korjenjowy zapis
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Rjećazk certifikatow ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Certifikaty rukuzawdaća ({ $count })
 about-networking-refresh = Aktualizować
 about-networking-auto-refresh = Kóžde 3 sekundy aktualizować
 about-networking-hostname = Hostmjeno

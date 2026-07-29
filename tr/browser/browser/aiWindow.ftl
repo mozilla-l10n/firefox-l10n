@@ -166,6 +166,12 @@ aiwindow-firstrun-default-checkbox-description = İstediğiniz zaman ayarlardan 
 smartwindow-ask-button =
     .label = Sor
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Sekmelerimi gruplandır
+    .tooltiptext = Sekmelerimi gruplandır
+
 ## Memories toggle button
 
 aiwindow-memories-on =
@@ -186,6 +192,29 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Kapat
     .tooltiptext = Kapat
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Diğer seçenekler
+    .tooltiptext = Diğer seçenekler
+aiwindow-history-menu-chat-history = Sohbet geçmişi
+aiwindow-history-menu-back =
+    .aria-label = Geri dön
+    .tooltiptext = Geri dön
+aiwindow-history-menu-view-all-chats = Tüm sohbetleri göster
+aiwindow-history-menu-settings = { -smart-window-brand-name(form: "uppercase-singular") } ayarları
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Yeni sohbet
+aiwindow-fullpage-chat-history =
+    .label = Sohbet geçmişi
 
 ## Sign out dialog
 

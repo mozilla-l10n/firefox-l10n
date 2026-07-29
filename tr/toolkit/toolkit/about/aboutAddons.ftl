@@ -219,7 +219,7 @@ addon-install-or-update-from-file = Dosyadan eklenti yükle veya güncelle…
 addon-install-from-file-dialog-title = Yüklenecek eklentiyi seçin
 addon-install-from-file-filter-name = Eklentiler
 addon-open-about-debugging = Eklentilerde hata ayıkla
-    .accesskey = h
+    .accesskey = E
 
 ## Extension shortcut management
 
