@@ -101,6 +101,12 @@ url-classifier-content-classifier-verdict-hit = Asmatutakoa
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Salbuespena
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Huts egindakoa
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Errorea ({ $code })
 url-classifier-debug-title = Araztu
 url-classifier-debug-module-btn = Ezarri erregistro-moduluak
 url-classifier-debug-file-btn = Ezarri erregistro-fitxategia
