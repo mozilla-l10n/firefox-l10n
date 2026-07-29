@@ -78,7 +78,7 @@ contentanalysis-block-dialog-title-download-file = 您无权下载此文件
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-download-file = 根据您组织的数据保护策略，您无权下载文件“{ $filename }”。请联系您的管理员了解更多信息。
 contentanalysis-block-dialog-title-clipboard = 您无权粘贴此内容
-contentanalysis-block-dialog-body-clipboard = 根据您组织的数据保护策略，您不无权粘贴此内容。请联系您的管理员了解更多信息。
+contentanalysis-block-dialog-body-clipboard = 根据您组织的数据保护策略，您无权粘贴此内容。请联系您的管理员了解更多信息。
 contentanalysis-block-dialog-title-dropped-text = 您无权放置此内容
 contentanalysis-block-dialog-body-dropped-text = 根据您组织的数据保护策略，您不被允许拖放此内容。请联系您的管理员了解更多信息。
 contentanalysis-block-dialog-title-print = 您无权打印此文档
