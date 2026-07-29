@@ -93,6 +93,8 @@ url-classifier-content-classifier-col-exception = Wuwześe
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
 url-classifier-content-classifier-col-important = Wažny
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Wuslědk klasifikatora
 # Overall verdict shown when the request would be acted on (blocked or
 # annotated): the classifier matched.
 url-classifier-content-classifier-verdict-hit = Wótpowědowanje
