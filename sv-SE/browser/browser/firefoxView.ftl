@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = För att se de öppna flikarna p
 firefoxview-tabpickup-step-signin-primarybutton = Fortsätt
 firefoxview-syncedtabs-signin-header-2 = Ditt { -brand-product-name } på alla dina enheter
 firefoxview-syncedtabs-signin-description-2 = För att se flikar du har öppna på din telefon och andra enheter, logga in eller registrera dig för ett konto. Med ett konto kan du också synkronisera dina lösenord, historik och mer.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Från bärbar dator till telefon, smidigt
+firefoxview-syncedtabs-signin-description-3 = Håll din surfning ansluten mellan enheter — flikar, lösenord och historik, allt synkroniserat.
 firefoxview-syncedtabs-signin-primarybutton-2 = Logga in
 firefoxview-tabpickup-adddevice-header = Synkronisera { -brand-product-name } på din telefon eller surfplatta
 firefoxview-tabpickup-adddevice-description = Ladda ner { -brand-product-name } för mobil och logga in där.
@@ -40,22 +43,33 @@ firefoxview-tabpickup-adddevice-primarybutton = Hämta { -brand-product-name } f
 firefoxview-syncedtabs-adddevice-header-2 = Hämta flikar från överallt
 firefoxview-syncedtabs-adddevice-description-2 = Logga in på { -brand-product-name } på din telefon eller en annan dator för att se flikar här. Lär dig hur du <a data-l10n-name="url">ansluter ytterligare enheter</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prova { -brand-product-name } för mobil
+firefoxview-syncedtabs-adddevice-description-3 = Skanna QR-koden för att hämta { -brand-product-name } för mobilen och börja synkronisera dina öppna flikar och mer. Lär dig hur du <a data-l10n-name="url">ansluter ytterligare enheter</a>.
 firefoxview-tabpickup-synctabs-header = Aktivera synkronisering av flikar
 firefoxview-tabpickup-synctabs-description = Tillåt { -brand-short-name } att dela flikar mellan enheter.
 firefoxview-tabpickup-synctabs-learn-how = Läs mer
 firefoxview-tabpickup-synctabs-primarybutton = Synkronisera öppna flikar
+firefoxview-tabpickup-synctabs-primarybutton-2 = Slå på synkronisering av flikar
 firefoxview-syncedtabs-synctabs-header = Uppdatera dina synkroniseringsinställningar
 firefoxview-syncedtabs-synctabs-description = För att se flikar från andra enheter måste du synkronisera dina öppna flikar.
+firefoxview-syncedtabs-synctabs-header-2 = Flikarsynkronisering är avstängd
+firefoxview-syncedtabs-synctabs-description-2 = Aktivera synkronisering igen för att hämta alla dina flikar från andra enheter.
 firefoxview-syncedtabs-loading-header = Synkronisering pågår
 firefoxview-syncedtabs-loading-description = När det är klart ser du alla flikar som du har öppna på andra enheter. Kom snart tillbaka.
+firefoxview-syncedtabs-loading-header-2 = Hämtar dina flikar…
+firefoxview-syncedtabs-loading-description-2 = Synkronisering pågår. Flikar kommer snart.
 firefoxview-tabpickup-fxa-admin-disabled-header = Din organisation har inaktiverat synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan inte synkronisera flikar mellan enheter eftersom din administratör har inaktiverat synkronisering.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan inte synkronisera flikar mellan enheter eftersom din organisation har inaktiverat synkronisering.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Fliksynkronisering är avstängd
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Din organisation blockerade den här funktionen.
 firefoxview-tabpickup-network-offline-header = Kontrollera din internetanslutning
 firefoxview-tabpickup-network-offline-description = Om du använder en brandvägg eller proxy, kontrollera att { -brand-short-name } har behörighet att komma åt webben.
 firefoxview-tabpickup-network-offline-primarybutton = Försök igen
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } kan inte ansluta just nu
+firefoxview-tabpickup-network-offline-description-2 = Du kan vara nedkopplad eller så kan något blockera anslutningen.
 firefoxview-tabpickup-sync-error-header = Vi har problem med att synkronisera
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } kan inte nå synkroniseringstjänsten just nu. Försök igen lite senare.
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } kunde inte ansluta. Vänta ett ögonblick och försök sedan igen.
 firefoxview-tabpickup-sync-error-primarybutton = Försök igen
 firefoxview-tabpickup-sync-disconnected-header = Aktivera synkronisering för att fortsätta
 firefoxview-tabpickup-sync-disconnected-description = För att komma åt dina flikar måste du aktivera synkronisering i { -brand-short-name }.
@@ -65,10 +79,14 @@ firefoxview-tabpickup-password-locked-description = För att komma åt dina flik
 firefoxview-tabpickup-password-locked-link = Läs mer
 firefoxview-tabpickup-password-locked-primarybutton = Ange primärt lösenord
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Läs mer</a>
+firefoxview-tabpickup-password-locked-header-2 = Lås upp flikar med ditt primära lösenord
+firefoxview-tabpickup-password-locked-description-2 = För din integritet är synkroniserade flikar skyddade. Ange ditt primära lösenord för { -brand-short-name } för att se flikar från dina andra enheter.
 firefoxview-tabpickup-signed-out-header = Logga in för att återansluta
 firefoxview-tabpickup-signed-out-description = För att återansluta och hämta dina flikar, logga in på ditt { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = För att återansluta och hämta dina flikar, logga in på ditt konto.
 firefoxview-tabpickup-signed-out-primarybutton = Logga in
+firefoxview-tabpickup-signed-out-header-2 = Logga in för att se dina flikar
+firefoxview-tabpickup-signed-out-description-2 = Återanslut för att visa flikar från andra enheter.
 firefoxview-tabpickup-syncing = Vi synkroniserar dina flikar, det tar bara ett ögonblick.
 firefoxview-mobile-promo-header = Öppna flikar från din telefon eller surfplatta
 firefoxview-mobile-promo-description = För att se dina senaste mobilflikar, logga in på { -brand-product-name } på iOS eller Android.
@@ -210,6 +228,10 @@ firefoxview-show-all-history = Visa all historik
 firefoxview-history-empty-header = Gå tillbaka dit du redan har varit
 firefoxview-history-empty-description = När du surfar kommer de sidor du besöker att listas här.
 firefoxview-history-empty-description-two = Att skydda din integritet är kärnan i vad vi gör. Det är därför du kan styra aktiviteten som { -brand-short-name } kommer ihåg i dina <a data-l10n-name="history-settings-url">historikinställningar</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Ditt surfspår börjar här
+firefoxview-history-empty-description-2 = När du besöker sidor visas din historik här. Kontrollera vad som sparas i <a data-l10n-name="history-settings-url">inställningarna</a>.
 
 ##
 

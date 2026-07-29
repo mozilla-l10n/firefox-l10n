@@ -1581,6 +1581,14 @@ private-browsing-indicator-label = Privat surfning
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Privat surfning
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Privat surfinformation
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Du är i ett privat fönster
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Detta hjälper till att dölja din surfaktivitet för andra på den här enheten, men det gör dig inte osynlig online. <a data-l10n-name="learn-more">Vem kan eventuellt se min aktivitet?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
