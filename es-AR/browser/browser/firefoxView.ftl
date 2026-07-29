@@ -52,6 +52,7 @@ firefoxview-syncedtabs-synctabs-description-2 = Vuelva a habilitar la sincroniza
 firefoxview-syncedtabs-loading-header = Sincronización en proceso
 firefoxview-syncedtabs-loading-description = Cuando termine, verá las pestañas que tenga abiertas en otros dispositivos. Vuelva a consultar pronto.
 firefoxview-syncedtabs-loading-header-2 = Trayendo las pestañas…
+firefoxview-syncedtabs-loading-description-2 = Sincronización en proceso. Las pestañas estarán acá pronto.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organización deshabilitó la sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar las pestañas entre dispositivos porque tu administrador deshabilitó la sincronización.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } no puede sincronizar las pestañas entre dispositivos porque su organización deshabilitó la sincronización.
