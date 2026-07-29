@@ -485,6 +485,10 @@ addon-permissions-empty = Ин васеъшавӣ ягон иҷозатро та
 addon-permissions-required = Иҷозатҳои лозимӣ барои фаъолияти асосӣ:
 addon-permissions-optional = Иҷозатҳои ихтиёрӣ барои фаъолияти иловагӣ:
 addon-permissions-learnmore = Маълумоти бештар дар бораи иҷозатҳо
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Баъзе иҷозатҳо аз ҷониби ташкилоти шумо идора карда мешаванд.
 recommended-extensions-heading = Васеъшавиҳои тавсияшуда
 recommended-themes-heading = Мавзуъҳои тавсияшуда
 # Variables:
@@ -596,6 +600,7 @@ mlmodel-link-preview = «{ -brand-short-name }» инро барои эҷод к
 mlmodel-pdfjs = «{ -brand-short-name }» инро барои эҷод кардани матни иловагӣ дар тасвирҳое, ки шумо ба файлҳои «PDF» илова мекунед, истифода мебарад
 mlmodel-smart-tab-topic-engine = «{ -brand-short-name }» инро барои пешниҳод кардани номҳо дар гурӯҳҳои варақаҳои шумо истифода мебарад
 mlmodel-smart-tab-embedding-engine = «{ -brand-short-name }» инро барои пешниҳод кардани варақаҳо дар гурӯҳҳои варақаҳои шумо истифода мебарад
+mlmodel-formfill-engine = Барномаи «{ -brand-short-name }» инро барои пур кардани шаклҳои нишонӣ истифода мебарад
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Зеҳни сунъӣ (AI) дар дастгоҳ
 addon-category-mlmodel-title =
