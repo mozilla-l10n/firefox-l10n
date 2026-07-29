@@ -86,3 +86,30 @@ smart-window-closed-tabs-label = { $count } tab ditutup
 smart-window-closed-tabs-summary = Selesai! Tab ditutup.
 smart-window-closed-tabs-row-label = Tab ditutup
 smart-window-closed-and-restored-label = Tab ditutup dan dipulihkan
+smart-window-restored-row-label = { $count } tab dipulihkan
+smart-window-restore-success-summary = Tab ditutup, kemudian dipulihkan.
+smart-window-cancelled-label = Permintaan dibatalkan.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Kumpulkan
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs = Kumpulkan { $count } tab
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label = { $count } tab dikumpulkan
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary = Kumpulan "{ $label }" dicipta dan { $count } tab ditambah.
+smart-window-grouped-tabs-row-label = Tab dikumpulkan
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Tab dinyahkumpulkan
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary = { $count } tab dikumpulkan, kemudian dinyahkumpulkan.
+smart-window-ungrouped-row-label = { $count } tab dinyahkumpulkan
+
+## Action log
+
+action-log-searching-tabs = Mencari tab
+action-log-searched-open-tabs = Tab terbuka dicari
