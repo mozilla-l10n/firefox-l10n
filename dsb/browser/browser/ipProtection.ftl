@@ -175,6 +175,8 @@ ipprotection-connection-status-network-error-title-1 = Pśeglědujśo swój inte
 ipprotection-connection-status-network-error-description = Zwěžćo z internetom a wopytajśo pón VPN zmóžniś.
 ipprotection-connection-status-blocked-error-title-1 = VPN njejo k dispoziciji
     .aria-label = VPN njejo k dispoziciji
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Lokalne kazni a zagranicowanja wobgranicuju, źož móžośo VPN wužywaś. <a data-l10n-name="learn-more-link">Dalšne informacije</a>
 ipprotection-connection-status-blocked-error-description = Lokalne kazni nam zawoboruju, słužbu VPN w toś tom regionje póbitowaś. <a data-l10n-name="learn-more-link">Dalšne informacije</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
