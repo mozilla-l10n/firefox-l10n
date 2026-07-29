@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = Aby how rejtariki swójogo telef
 firefoxview-tabpickup-step-signin-primarybutton = Dalej
 firefoxview-syncedtabs-signin-header-2 = Waš { -brand-product-name } na wšych wašych rědach
 firefoxview-syncedtabs-signin-description-2 = Aby swóje wócynjone rejtariki na swójom telefonje a drugich rědach wiźeł, pśizjawśo se abo registrěrujśo se za konto. Z kontom móžośo teke swóje gronidła, swóju historiju a wěcej synchronizěrowaś.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Direktnje z laptopa do telefona
 firefoxview-syncedtabs-signin-primarybutton-2 = Pśizjawiś
 firefoxview-tabpickup-adddevice-header = Synchronizěrujśo { -brand-product-name } na swójom telefonje abo tableśe
 firefoxview-tabpickup-adddevice-description = Ześěgniśo { -brand-product-name } za mobilne rědy a pśizjawśo se tam.
