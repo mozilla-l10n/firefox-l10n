@@ -235,6 +235,7 @@ firefoxview-history-empty-description-two = Het beschermen van uw privacy staat 
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
 firefoxview-history-empty-header-2 = Uw navigatiespoor begint hier
+firefoxview-history-empty-description-2 = Als u pagina’s bezoekt, wordt hier uw geschiedenis getoond. Bepaal wat er wordt onthouden in de <a data-l10n-name="history-settings-url">instellingen</a>.
 
 ##
 
@@ -248,6 +249,7 @@ firefoxview-dont-remember-history-empty-header-2 = U hebt controle over wat { -b
 firefoxview-dont-remember-history-empty-description-one = Op dit moment onthoudt { -brand-short-name } uw surfactiviteit niet. <a data-l10n-name="history-settings-url-two">Werk uw geschiedenisinstellingen bij</a> om dat te wijzigen.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Uw activiteit wordt niet vastgelegd
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } slaat uw geschiedenis momenteel niet op. U kunt dat op elk gewenst moment wijzigen in <a data-l10n-name="history-settings-url-two">instellingen</a>.
 
 ##
 
