@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Ak chcete získať karty z telef
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovať
 firefoxview-syncedtabs-signin-header-2 = Váš { -brand-product-name } na všetkých vašich zariadeniach
 firefoxview-syncedtabs-signin-description-2 = Ak chcete zobraziť karty, ktoré máte otvorené v telefóne a iných zariadeniach, prihláste sa alebo si vytvorte účet. Pomocou účtu môžete tiež synchronizovať svoje heslá, históriu a ďalšie.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Z notebooku do telefónu, bezproblémovo
+firefoxview-syncedtabs-signin-description-3 = Udržujte si prehliadanie prepojené naprieč zariadeniami – karty, heslá a história, všetko synchronizované.
 firefoxview-syncedtabs-signin-primarybutton-2 = Prihlásiť sa
 firefoxview-tabpickup-adddevice-header = Synchronizujte { -brand-product-name } na svojom telefóne alebo tablete
 firefoxview-tabpickup-adddevice-description = Stiahnite si { -brand-product-name } pre mobilné zariadenie a prihláste sa tam.
@@ -40,22 +43,37 @@ firefoxview-tabpickup-adddevice-primarybutton = Získať { -brand-product-name }
 firefoxview-syncedtabs-adddevice-header-2 = Vezmite si karty odkiaľkoľvek
 firefoxview-syncedtabs-adddevice-description-2 = Prihláste sa do { -brand-product-name(case: "gen") } na svojom telefóne alebo inom počítači, aby ste tu mohli vidieť karty. Pozrite sa, ako <a data-l10n-name="url">pripojiť ďalšie zariadenia</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Vyskúšajte { -brand-product-name } pre mobilné zariadenia
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Volajú tvoje karty. Sú v tvojom telefóne.
+firefoxview-syncedtabs-adddevice-description-3 = Naskenujte QR kód, získajte { -brand-product-name(case: "acc") } pre mobilné zariadenia a môžete synchronizovať otvorené karty a ďalšie položky. Pozrite sa, ako môžete <a data-l10n-name="url">pripojiť ďalšie zariadenia</a>.
 firefoxview-tabpickup-synctabs-header = Zapnite synchronizáciu kariet
 firefoxview-tabpickup-synctabs-description = Povoľte { -brand-short-name(case: "dat") } zdieľať karty medzi zariadeniami.
 firefoxview-tabpickup-synctabs-learn-how = Ďalšie informácie
 firefoxview-tabpickup-synctabs-primarybutton = Zapnúť synchronizáciu kariet
+firefoxview-tabpickup-synctabs-primarybutton-2 = Zapnúť synchronizáciu kariet
 firefoxview-syncedtabs-synctabs-header = Aktualizujte nastavenia synchronizácie
 firefoxview-syncedtabs-synctabs-description = Ak chcete zobraziť karty z iných zariadení, musíte svoje otvorené karty synchronizovať.
+firefoxview-syncedtabs-synctabs-header-2 = Synchronizácia kariet je vypnutá
+firefoxview-syncedtabs-synctabs-description-2 = Ak chcete získať všetky karty z iných zariadení, znova zapnite synchronizáciu.
 firefoxview-syncedtabs-loading-header = Prebieha synchronizácia
 firefoxview-syncedtabs-loading-description = Po dokončení uvidíte všetky karty, ktoré máte otvorené na iných zariadeniach. Už o chvíľu.
+firefoxview-syncedtabs-loading-header-2 = Načítavajú sa vaše karty…
+firefoxview-syncedtabs-loading-description-2 = Prebieha synchronizácia. Karty tu budú čoskoro.
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizácia zakázala synchronizáciu
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemôže synchronizovať karty medzi zariadeniami, pretože váš správca zakázal synchronizáciu.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nemôže synchronizovať karty medzi zariadeniami, pretože vaša organizácia zakázala synchronizáciu.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Synchronizácia kariet je vypnutá
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Vaša organizácia túto funkciu zablokovala.
 firefoxview-tabpickup-network-offline-header = Skontrolujte svoje internetové pripojenie
 firefoxview-tabpickup-network-offline-description = Ak používate bránu firewall alebo proxy, skontrolujte, či má { -brand-short-name } oprávnenie na prístup na web.
 firefoxview-tabpickup-network-offline-primarybutton = Skúsiť znova
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } sa momentálne nemôže pripojiť
+firefoxview-tabpickup-network-offline-description-2 = Možno ste offline alebo niečo blokuje pripojenie.
 firefoxview-tabpickup-sync-error-header = Pri synchronizácii sa vyskytli problémy
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } momentálne nemôže kontaktovať službu. Skúste to znova o chvíľu.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Synchronizácia narazila na problém
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name(case: "dat") } sa nepodarilo pripojiť. Počkajte chvíľu a skúste to znova.
 firefoxview-tabpickup-sync-error-primarybutton = Skúsiť znova
 firefoxview-tabpickup-sync-disconnected-header = Ak chcete pokračovať, zapnite synchronizáciu
 firefoxview-tabpickup-sync-disconnected-description = Ak chcete získať svoje karty, musíte povoliť synchronizáciu v nastaveniach { -brand-short-name(case: "gen") }.
@@ -65,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = Ak chcete získať svoje kar
 firefoxview-tabpickup-password-locked-link = Ďalšie informácie
 firefoxview-tabpickup-password-locked-primarybutton = Zadajte hlavné heslo
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Ďalšie informácie</a>
+firefoxview-tabpickup-password-locked-header-2 = Odomknite karty pomocou svojho hlavného hesla
+firefoxview-tabpickup-password-locked-description-2 = Z dôvodu ochrany vášho súkromia sú synchronizované karty chránené. Zadajte svoje hlavné heslo do { -brand-short-name(case: "gen") } a zobrazte si karty z ostatných zariadení.
 firefoxview-tabpickup-signed-out-header = Pre opätovné pripojenie sa prihláste
 firefoxview-tabpickup-signed-out-description = Ak sa chcete znova pripojiť a prevziať svoje karty, prihláste sa do svojho { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
 firefoxview-tabpickup-signed-out-description2 = Ak sa chcete znova pripojiť a získať svoje karty, prihláste sa do svojho účtu.
 firefoxview-tabpickup-signed-out-primarybutton = Prihlásiť sa
+firefoxview-tabpickup-signed-out-header-2 = Prihláste sa a zobrazte si karty
+firefoxview-tabpickup-signed-out-description-2 = Ak chcete zobraziť karty z iných zariadení, znova sa pripojte.
 firefoxview-tabpickup-syncing = Posaďte sa, kým sa vaše karty synchronizujú. Bude to len chvíľa.
 firefoxview-mobile-promo-header = Získajte karty z telefónu alebo tabletu
 firefoxview-mobile-promo-description = Ak chcete zobraziť svoje najnovšie karty z mobilného zariadenia, prihláste sa do { -brand-product-name(case: "gen") } v systéme iOS alebo Android.
@@ -212,6 +234,10 @@ firefoxview-show-all-history = Zobraziť celú históriu
 firefoxview-history-empty-header = Vráťte sa tam, kde ste boli
 firefoxview-history-empty-description = Počas prehliadania sa tu zobrazia stránky, ktoré navštívite.
 firefoxview-history-empty-description-two = Ochrana vášho súkromia je základom toho, čo robíme. Preto môžete v <a data-l10n-name="history-settings-url">nastaveniach histórie</a> určiť, ktorú aktivitu si { -brand-short-name } pamätá.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Vaša prehliadacia trasa začína tu
+firefoxview-history-empty-description-2 = Keď navštívite stránky, vaša história sa zobrazí tu. V <a data-l10n-name="history-settings-url">nastaveniach</a> si môžete určiť, čo sa bude ukladať.
 
 ##
 
@@ -223,6 +249,9 @@ firefoxview-choose-browser-button = Zvoľte prehliadač
 
 firefoxview-dont-remember-history-empty-header-2 = Máte kontrolu nad tým, čo si { -brand-short-name } zapamätá
 firefoxview-dont-remember-history-empty-description-one = { -brand-short-name } si práve teraz nepamätá vašu aktivitu prehliadania. Ak to chcete zmeniť, <a data-l10n-name="history-settings-url-two">aktualizujte nastavenia histórie</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = História vášho prehliadania nebude zaznamenaná
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } momentálne neukladá vašu históriu. Zmeniť to môžete kedykoľvek v <a data-l10n-name="history-settings-url-two">nastaveniach</a>.
 
 ##
 

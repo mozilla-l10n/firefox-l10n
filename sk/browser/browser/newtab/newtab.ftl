@@ -384,8 +384,8 @@ newtab-picture-widget-menu-button =
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
-    .label = Nastaviť tapetu
-    .title = Nastaviť tapetu
+    .label = Nastaviť ako tapetu
+    .title = Nastaviť ako tapetu
     .aria-label = Nastavte si obrázok dňa ako tapetu
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Spravovať tapetu
@@ -769,6 +769,29 @@ newtab-custom-close-menu-button =
     .aria-label = Ponuka Zavrieť
 newtab-custom-close-button = Zavrieť
 newtab-custom-settings = Ďalšie nastavenia
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Vzhľad
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Zobraziť ďalšie témy
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Témy vzhľadu pre { -brand-product-name(case: "acc") }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Vaše témy
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Povoliť
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Zakázať
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Nainštalovať tému vzhľadu
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Preskúmajte ďalšie témy
 
 ## New Tab Wallpapers
 

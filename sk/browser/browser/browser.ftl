@@ -1611,6 +1611,14 @@ private-browsing-indicator-label = Súkromné prehliadanie
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Súkromné prehliadanie
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informácie o súkromnom prehliadaní
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Ste v súkromnom okne
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Toto pomáha skryť vaše prehliadanie pred ostatnými na tomto zariadení, ale nerobí vás neviditeľnými online. <a data-l10n-name="learn-more">Kto by mohol vidieť moju aktivitu?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
