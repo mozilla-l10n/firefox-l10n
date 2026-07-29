@@ -38,6 +38,15 @@ url-classifier-cache-ncache-expiry = Expiración de caché negativo
 url-classifier-cache-fullhash = Hash completo
 url-classifier-cache-pcache-expiry = Expiración de caché positivo
 url-classifier-content-classifier-title = Clasificador de contenido
+# URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+# Most often the site URL show in the address bar.
+url-classifier-content-classifier-top-window-url = URL de la ventana superior
+# Checkbox label to enable a Top-window URL.
+# When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
+url-classifier-content-classifier-top-window-url-enabled = Habilitar URL de ventana superior
+# Label for a dropdown choosing what type of resource is at the destination (the destination type),
+# such as script, image, stylesheet, etc.
+url-classifier-content-classifier-destination-type = Tipo de destino
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Resultados
 url-classifier-content-classifier-pbm = Navegación privada
