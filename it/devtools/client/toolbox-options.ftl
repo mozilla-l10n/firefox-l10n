@@ -213,9 +213,9 @@ options-enable-service-workers-http-label = Attiva service worker via HTTP (quan
 options-enable-service-workers-http-tooltip =
     .title = Attivando questa opzione verranno attivati i service worker via HTTP in tutte le schede dove la cassetta degli attrezzi è aperta.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Attiva mappatura delle origini
+options-source-maps-label = Attiva mappatura del codice sorgente
 options-source-maps-tooltip =
-    .title = Attivando questa opzione la mappatura delle origini verrà utilizzata per i riferimenti al codice sorgente negli strumenti.
+    .title = Attivando questa opzione la mappatura del codice sorgente verrà utilizzata per i riferimenti al codice sorgente negli strumenti.
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (solo sessione corrente, ricarica la pagina)
