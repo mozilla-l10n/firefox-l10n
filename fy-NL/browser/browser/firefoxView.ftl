@@ -45,6 +45,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Meld jo oan by { -brand-product
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } foar mobyl probearje
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Jo ljepblêden hawwe belle. Se steane op jo telefoan.
+firefoxview-syncedtabs-adddevice-description-3 = Scan de QR-koade om { -brand-product-name } foar mobyl te downloaden en te begjinnen mei it syngronisearjen fan jo iepene ljepblêden en mear. Lês hoe’t jo <a data-l10n-name="url">ekstra apparaten oanslute kinne</a>.
 firefoxview-tabpickup-synctabs-header = Ljepblêdsyngronisaasje ynskeakelje
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } tastean om ljepblêden tusken apparaten te dielen.
 firefoxview-tabpickup-synctabs-learn-how = Mear ynfo
@@ -57,6 +58,7 @@ firefoxview-syncedtabs-synctabs-description-2 = Skeakelje syngronisaasje wer yn 
 firefoxview-syncedtabs-loading-header = Syngronisearje
 firefoxview-syncedtabs-loading-description = As dit dien is, sjogge jo alle ljepblêden dy’t jo op oare apparaten iepene hawwe. Kom gau werom.
 firefoxview-syncedtabs-loading-header-2 = Jo ljepblêden ophelje…
+firefoxview-syncedtabs-loading-description-2 = Der wurdt syngronisearre. Ljepblêden folgje ynkoarten.
 firefoxview-tabpickup-fxa-admin-disabled-header = Jo organisaasje hat syngronisaasje útskeakele
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } is net yn steat om ljepblêden tusken apparaten te syngronisearjen, omdat jo behearder syngronisaasje útskeakele hat.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } is net yn steat om ljepblêden tusken apparaten te syngronisearjen, omdat jo organisaasje syngronisaasje útskeakele hat.
@@ -81,11 +83,14 @@ firefoxview-tabpickup-password-locked-description = Om jo ljepblêden op te helj
 firefoxview-tabpickup-password-locked-link = Mear ynfo
 firefoxview-tabpickup-password-locked-primarybutton = Haadwachtwurd ynfiere
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Mear ynfo</a>
+firefoxview-tabpickup-password-locked-header-2 = Untskoattelje ljepblêden mei jo haadwachtwurd
+firefoxview-tabpickup-password-locked-description-2 = Foar jo privacy binne syngronisearre ljepblêden beskerme. Fier jo haadwachtwurd foar { -brand-short-name } yn om ljepblêden fan jo oare apparaten te besjen.
 firefoxview-tabpickup-signed-out-header = Oanmelde om opnij te ferbinen
 firefoxview-tabpickup-signed-out-description = Meld jo oan by jo { -fxaccount-brand-name } om opnij te ferbinen en jo ljepblêden op te pakken.
 firefoxview-tabpickup-signed-out-description2 = Meld jo oan by jo account om opnij te ferbinen en jo ljepblêden op te heljen.
 firefoxview-tabpickup-signed-out-primarybutton = Oanmelde
 firefoxview-tabpickup-signed-out-header-2 = Meld jo oan om ljepblêden te sjen
+firefoxview-tabpickup-signed-out-description-2 = Meitsje opnij ferbining om ljepblêden fan oare apparaten te besjen.
 firefoxview-tabpickup-syncing = Bliuw sitten wylst jo ljepblêden syngronisearje. It duorret mar in amerijke.
 firefoxview-mobile-promo-header = Iepenje ljepblêden fan jo telefoan of tablet
 firefoxview-mobile-promo-description = Meld jo oan by { -brand-product-name } op iOS of Android om jo lêste mobile ljepblêden te besjen.
@@ -227,6 +232,10 @@ firefoxview-show-all-history = Alle skiednis toane
 firefoxview-history-empty-header = Werom nei wêr’t jo wiene
 firefoxview-history-empty-description = Wylst jo sneupe, wurde de siden dy’t jo besykje hjir werjûn.
 firefoxview-history-empty-description-two = It beskermjen fan jo privacy is it hert fan wat wy dogge. Dêrom kinne jo de aktiviteit kontrolearje dy’t { -brand-short-name } ûnthâldt, beheare yn jo <a data-l10n-name="history-settings-url">skiednisynstellingen</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Jo navigaasjespoar begjint hjir
+firefoxview-history-empty-description-2 = As jo siden besykje, sil jo skiednis hjir ferskine. Bepaal wat ûnthâlden wurdt yn de <a data-l10n-name="history-settings-url">ynstellingen</a>.
 
 ##
 
@@ -240,6 +249,7 @@ firefoxview-dont-remember-history-empty-header-2 = Jo hawwe kontrôle oer wat { 
 firefoxview-dont-remember-history-empty-description-one = Op dit stuit ûnthâldt { -brand-short-name } jo sneupaktiviteit net. <a data-l10n-name="history-settings-url-two">Wurkje jo skiednisynstellingen by</a> om dat te wizigjen.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Jo aktiviteit wurdt net fêstlein
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } bewarret jo skiednis op dit stuit net. Jo kinne dat op elk momint wizigje yn <a data-l10n-name="history-settings-url-two">ynstellingen</a>.
 
 ##
 
