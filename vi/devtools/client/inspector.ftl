@@ -18,3 +18,27 @@ colorpicker-tooltip-color-name-title = Gần nhất với: { $colorName }
 colorpicker-tooltip-hue-slider-title = Tông màu
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Độ mờ
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Chuyển đổi sang mô phỏng bảng màu sáng cho trang
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Chuyển đổi sang mô phỏng bảng màu tối cho trang
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = Bật/tắt tính năng mô phỏng CSS
+    .aria-label = Bật/tắt tính năng mô phỏng CSS
+inspector-emulation-panel-color-scheme = Mô phỏng bảng màu
+# A label text for the print emulation options
+inspector-emulation-panel-print = Bật
+    .aria-label = Bật print media emulation
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Sáng
+    .aria-label = Bật mô phỏng bảng màu sáng
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Tối
+    .aria-label = Bật mô phỏng bảng màu tối
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Không mô phỏng
+    .aria-label = Vô hiệu hoá mô phỏng bảng màu
