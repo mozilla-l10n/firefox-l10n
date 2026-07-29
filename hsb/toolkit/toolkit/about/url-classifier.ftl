@@ -74,6 +74,9 @@ url-classifier-content-classifier-force-third-party = Třeći poskićowarjo do n
 url-classifier-content-classifier-non-recommended-addon = Njedoporučeny přidatk
 # Button: run the probe that reports whether the request would be blocked.
 url-classifier-content-classifier-probe-blocking-btn = Probowe blokowanje
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Anotaciju testować
 # Button: run the probe against a single classifier feature chosen in the
 # adjacent dropdown.
 url-classifier-content-classifier-probe-feature-btn = Probowa funkcija
