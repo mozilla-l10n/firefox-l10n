@@ -43,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Hämta { -brand-product-name } f
 firefoxview-syncedtabs-adddevice-header-2 = Hämta flikar från överallt
 firefoxview-syncedtabs-adddevice-description-2 = Logga in på { -brand-product-name } på din telefon eller en annan dator för att se flikar här. Lär dig hur du <a data-l10n-name="url">ansluter ytterligare enheter</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prova { -brand-product-name } för mobil
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Dina flikar ringde. De finns på din telefon.
 firefoxview-syncedtabs-adddevice-description-3 = Skanna QR-koden för att hämta { -brand-product-name } för mobilen och börja synkronisera dina öppna flikar och mer. Lär dig hur du <a data-l10n-name="url">ansluter ytterligare enheter</a>.
 firefoxview-tabpickup-synctabs-header = Aktivera synkronisering av flikar
 firefoxview-tabpickup-synctabs-description = Tillåt { -brand-short-name } att dela flikar mellan enheter.
@@ -69,6 +71,8 @@ firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } kan inte 
 firefoxview-tabpickup-network-offline-description-2 = Du kan vara nedkopplad eller så kan något blockera anslutningen.
 firefoxview-tabpickup-sync-error-header = Vi har problem med att synkronisera
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } kan inte nå synkroniseringstjänsten just nu. Försök igen lite senare.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Synkronisering stötte på problem
 firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } kunde inte ansluta. Vänta ett ögonblick och försök sedan igen.
 firefoxview-tabpickup-sync-error-primarybutton = Försök igen
 firefoxview-tabpickup-sync-disconnected-header = Aktivera synkronisering för att fortsätta
@@ -243,6 +247,9 @@ firefoxview-choose-browser-button = Välj webbläsare
 
 firefoxview-dont-remember-history-empty-header-2 = Du har kontroll över vad { -brand-short-name } kommer ihåg
 firefoxview-dont-remember-history-empty-description-one = Just nu kommer inte { -brand-short-name } ihåg din surfaktivitet. För att ändra det, <a data-l10n-name="history-settings-url-two">uppdatera dina historikinställningar</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Du är privat
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } sparar inte din historik just nu. Du kan ändra det när som helst i <a data-l10n-name="history-settings-url-two">inställningarna</a>.
 
 ##
 
