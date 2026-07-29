@@ -29,6 +29,9 @@ ai-window-open-sidebar =
 ai-window-smart-cursor-in-smart-window =
     .label = Нишон додани миёнбурҳо ҳангоми интихоби матн
     .description = Пайдо кардани дастрасии зуд ба фармонҳои «Баровардани хулоса», «Шарҳ додан» ва ғайра.
+smart-window-model-section =
+    .label = Модели ёвари зеҳни сунъӣ
+    .description = Дар асоси он чизе, ки барои шумо муҳим аст, модели марбутро интихоб намоед.
 smart-window-model-learn-link = Маълумоти бештар дар бораи моделҳо
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

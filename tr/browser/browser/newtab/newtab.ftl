@@ -249,7 +249,16 @@ newtab-privacy-message-milestone-month-cta = Korumaları göster
 newtab-privacy-message-milestone-year-cta = Korumaları göster
 newtab-privacy-message-milestone-total-cta = Korumaları göster
 newtab-privacy-message-daily-cap-cta = Korumaları göster
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] { $count } gündür koruma altındasınız.
+       *[other] { $count } gündür koruma altındasınız.
+    }
 newtab-privacy-message-streak-cta = Korumaları göster
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Siz gezinin, { -brand-short-name } engellesin.
 newtab-privacy-message-first-protection-cta = Korumaları göster
 
 ## Strings for the Stocks widget
@@ -258,6 +267,8 @@ newtab-privacy-message-first-protection-cta = Korumaları göster
 newtab-stocks-menu-search = Sembollerde ara
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Daha fazla bilgi al
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Borsa verileri kullanılamıyor.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -266,6 +277,17 @@ newtab-stocks-widget-menu-button =
     .aria-label = Borsa aracı seçenekleri
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Borsa
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, { $change } artış, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, { $change } düşüş, { $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -678,6 +700,26 @@ newtab-custom-close-menu-button =
     .aria-label = Menüyü kapat
 newtab-custom-close-button = Kapat
 newtab-custom-settings = Diğer ayarları yönet
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Görünüm
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } temaları
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Temalarınız
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Etkinleştir
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Devre dışı bırak
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Temayı yükle
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Daha fazla tema keşfedin
 
 ## New Tab Wallpapers
 
