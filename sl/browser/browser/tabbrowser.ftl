@@ -369,11 +369,11 @@ tab-group-editor-action-new-window =
 tab-group-editor-action-copy-links =
     .label =
         { $linkCount ->
-            [1] Zapri povezavo v skupini
-            [one] Zapri { $linkCount } povezavo v skupini
-            [two] Zapri { $linkCount } povezavi v skupini
-            [few] Zapri { $linkCount } povezave v skupini
-           *[other] Zapri { $linkCount } povezav v skupini
+            [1] Kopiraj povezavo v skupini
+            [one] Kopiraj { $linkCount } povezavo v skupini
+            [two] Kopiraj { $linkCount } povezavi v skupini
+            [few] Kopiraj { $linkCount } povezave v skupini
+           *[other] Kopiraj { $linkCount } povezav v skupini
         }
 tab-group-editor-action-save =
     .label = Shrani in zapri skupino
