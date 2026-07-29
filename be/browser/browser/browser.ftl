@@ -213,6 +213,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Кіраваць { -firefox-suggest
 urlbar-result-menu-report-inaccurate-location2 = Паведаміць пра няправільнае месцазнаходжанне
 urlbar-result-menu-show-less-frequently2 = Паказваць радзей
 urlbar-result-menu-dont-show-weather-suggestions2 = Не паказваць прапановы надвор'я
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Адхіліць гэтую прапанову
+    .accesskey = х
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Выдаліць з гісторыі
+    .accesskey = В
 urlbar-result-menu-learn-more =
     .label = Падрабязней
     .accesskey = д
@@ -582,6 +592,8 @@ identity-clear-site-data =
     .label = Выдаліць кукі і дадзеныя сайтаў…
 identity-connection-not-secure-security-view = Вы не злучаны бяспечна з гэтым сайтам.
 identity-connection-verified = Вы бяспечна злучаны з гэтым сайтам.
+identity-ev-owner-label2 = Сертыфікат выдадзены
+identity-verifier-label2 = Пацверджана
 identity-ev-owner-label = Сертыфікат выдадзены:
 identity-verifier-label = Пацверджана:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -601,6 +613,8 @@ identity-description-passive-loaded-insecure2 = Гэты сайт мае неб�
 identity-description-passive-loaded-mixed2 = { -brand-short-name } заблакаваў некаторае змесціва, але яно яшчэ застаецца на гэтай старонцы (напрыклад, выявы).
 identity-description-active-loaded = Гэты сайт змяшчае неабароненае змесціва (такое, як сцэнарыі) і ваша злучэнне з ім не з'яўляецца прыватным.
 identity-description-active-loaded-insecure = Інфармацыя, якую вы ўводзіце на гэтым сайце, можа быць бачная для іншых (напрыклад, паролі, паведамленні, нумары крэдытных карт і г.д.).
+identity-description-tls-key-logging-heading = Ваша злучэнне можа быць непрыватным
+identity-description-tls-key-logging-message = Праграма або служба могуць бачыць ваш зашыфраваны трафік з гэтага сайта.
 identity-disable-mixed-content-blocking =
     .label = Часова адключыць ахову
     .accesskey = А
@@ -956,6 +970,13 @@ urlbar-result-explanation-bookmarked = Закладка зроблена { $date
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Апошняе наведванне { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Апошняе наведванне { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1119,6 +1140,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Пошук па ключавых словах адключаны
 urlbar-searchmode-dropmarker2 =
     .title = Выбраць пошукавую сістэму
+urlbar-searchmode-bookmarks3 = Закладкі
+    .accesskey = і
+urlbar-searchmode-tabs3 = Карткі
+    .accesskey = К
+urlbar-searchmode-history3 = Гісторыя
+    .accesskey = р
+urlbar-searchmode-actions3 = Дзеянні
+    .accesskey = Д
 urlbar-searchmode-bookmarks2 = Закладкі
 urlbar-searchmode-tabs2 = Карткі
 urlbar-searchmode-history2 = Гісторыя
@@ -1138,6 +1167,10 @@ urlbar-searchmode-popup-one-off-header = Гэтым разам шукаць у:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Шукаць на:
+urlbar-searchmode-popup-search-settings = Налады пошуку
+    .accesskey = ы
+urlbar-searchmode-popup-settings = Налады
+    .accesskey = ы
 urlbar-searchmode-popup-search-settings-panelitem = Налады пошуку
 urlbar-searchmode-popup-settings-panelitem = Налады
 
@@ -1556,6 +1589,8 @@ private-browsing-indicator-label = Прыватнае агляданне
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Прыватнае агляданне
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Вы ў прыватным акне
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1791,6 +1826,15 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Не абаронена
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } трэкер заблакаваны
+        [few] { $count } трэкеры заблакавана
+       *[many] { $count } трэкераў заблакавана
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

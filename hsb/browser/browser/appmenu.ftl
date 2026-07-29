@@ -347,6 +347,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Přizjewće so pola swojeho konta
+appmenuitem-monitor-title2 = Wostańće wo nós před padustwom identity
 appmenuitem-monitor-description2 = Dóstańće warnowanja wo datowych dźěrach
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dóstańće warnowanja wo datowych dźěrach
