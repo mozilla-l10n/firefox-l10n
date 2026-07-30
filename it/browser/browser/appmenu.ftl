@@ -290,6 +290,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Informazioni su { -brand-shorter-name }
     .accesskey = I
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Condividi { -brand-shorter-name }
+    .accesskey = C
 appmenu-get-help =
     .label = Ricevi assistenza
     .accesskey = v

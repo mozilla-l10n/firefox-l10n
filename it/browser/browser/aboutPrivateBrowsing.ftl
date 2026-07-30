@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Chi potrebbe comunque vedere la mia atti
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = La tua navigazione non verrà salvata
-about-private-browsing-nova-info-subheader = Cancelleremo tutte le ricerche e gli accessi effettuati quando chiudi questa finestra. Le protezioni integrate di { -brand-short-name }, come il blocco degli elementi traccianti, rimangono attive.
+about-private-browsing-nova-info-subheader2 = Cancelleremo tutte le ricerche e gli accessi effettuati quando chiudi tutte le finestre anonime. Anche qui sono attive le protezioni integrate di { -brand-short-name }, come il blocco degli elementi traccianti.
+about-private-browsing-nova-info-subheader = Cancelleremo tutte le ricerche e gli accessi effettuati quando chiudi questa finestra. Anche qui sono attive le protezioni integrate di { -brand-short-name }, come il blocco degli elementi traccianti.
