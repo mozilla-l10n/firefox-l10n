@@ -27,6 +27,10 @@ appmenuitem-downloads =
     .label = Taq qasanïk
 appmenuitem-passwords =
     .label = Ewan taq tzij
+appmenuitem-extensions-and-themes =
+    .label = Taq K'amal chuqa' taq Wachinel
+appmenuitem-extensions =
+    .label = Taq k'amal
 appmenuitem-addons-and-themes =
     .label = Taq Tz'aqat chuqa' taq Wachinel
 appmenuitem-print =
@@ -37,6 +41,10 @@ appmenuitem-translate =
     .label = Titzalq'omïx ruxaq…
 appmenuitem-zoom =
     .value = Runimilem
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Tikomonïx { -brand-product-name }
 appmenuitem-more-tools =
     .label = Ch'aqa' Samajib'äl
 appmenuitem-help =
@@ -104,6 +112,7 @@ appmenu-fxa-sync-and-save-data2 = Tixim chuqa' Tiyak Tzij
 appmenu-fxa-signed-in-label = Titikirisäx Molojri'ïl
 appmenu-fxa-setup-sync =
     .label = Titzij Ximoj…
+appmenu-fxa-setup-sync-new = Titzij
 appmenuitem-save-page =
     .label = Tiyak Ruxaq Achi'el…
 
