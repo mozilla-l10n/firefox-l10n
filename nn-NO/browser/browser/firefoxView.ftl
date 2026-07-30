@@ -72,6 +72,7 @@ firefoxview-tabpickup-signed-out-header = Logg inn for å kople til på nytt
 firefoxview-tabpickup-signed-out-description = For å kople til på nytt og få tak i fanene dine, logg in på { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = For å kople til på nytt og få tak i fanene dine, logg in på kontoen din.
 firefoxview-tabpickup-signed-out-primarybutton = Logg inn
+firefoxview-tabpickup-signed-out-header-2 = Logg inn for å sjå fanene dine
 firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tek berre ein augneblink.
 firefoxview-mobile-promo-header = Opne faner frå telefonen eller nettbrettet
 firefoxview-mobile-promo-description = For å sjå dei siste mobilfanene dine, logg på { -brand-product-name } på iOS eller Android.
