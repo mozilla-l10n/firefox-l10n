@@ -1691,6 +1691,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Nenhum endereço adicionado
+personal-info-group =
+    .label = Informações pessoais
+autofill-personal-info-checkbox-message =
+    .label = Salvar e preencher informações pessoais automaticamente
+autofill-personal-info-manage-button =
+    .label = Gerenciar informações pessoais
+passports-list-header =
+    .label = Passaportes
+passports-delete-passport-button-label =
+    .aria-label = Excluir
+passports-edit-passport-button-label =
+    .aria-label = Editar
+passports-delete-passport-prompt-title = Excluir este passaporte?
+passports-delete-passport-prompt-confirm-button = Excluir
+passports-delete-passport-prompt-cancel-button = Cancelar
+autofill-passports-add-button = Adicionar novo passaporte
+autofill-personal-info-manage-title =
+    .heading = Gerenciar informações pessoais
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Nenhum passaporte adicionado
 pane-passwords-autofill-title2 = Senhas e preenchimento automático
     .title = Senhas e preenchimento automático
 preferences-passwords-autofill-header =
