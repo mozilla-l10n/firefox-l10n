@@ -34,6 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } opaite ne mba�
 firefoxview-syncedtabs-signin-description-2 = Ehecha hag̃ua tendayke ijurujáva ne pumbyrýpe ha ambue mba’e’okápe, eñepyrũ tembiapo térã eñemboheraguapy ereko hag̃ua mba’ete. Pe mba’ete ndive, embojuehekuaa ñe’ẽñemi, tembiasakue ha hetave.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Mohendaha’i guive pumbyry peve, oso’ỹre
+firefoxview-syncedtabs-signin-description-3 = Eiporu kundahára opaite mba’e’okápe: tendayke, ñe’ẽñemi ha tembiasakue, opavave ñembojuehépe.
 firefoxview-syncedtabs-signin-primarybutton-2 = Eñemboheraguapy
 firefoxview-tabpickup-adddevice-header = Embojuehe { -brand-product-name } ne pumbyry ha tablétape
 firefoxview-tabpickup-adddevice-description = Emboguejy { -brand-product-name } pumbyrýpe ha eñepyrũ tembiapo upépe.

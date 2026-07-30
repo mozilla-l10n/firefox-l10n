@@ -93,6 +93,9 @@ customkeys-conflict-confirm-body = Ko jehaiha oiporumahína“{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Eiporupaite ayvu
 customkeys-conflict-confirm-button-cancel = Eheja
 customkeys-conflict-unusable-title = Ñe’ẽ ñemi ndojeporukuaái
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Ko ñe’ẽ ñemi oiporúma “{ $conflict }” ha ndojeporukuaái.
 customkeys-reset-all-confirm-title = ¿Emoĩporã ijypykue?
 customkeys-reset-all-confirm-body = Oguepaitéta tairenda mbopya’eha mboavapyre oñemoheñoiva’ekue.
 customkeys-reset-all-confirm-button-confirm = Embojevy ypykuépe

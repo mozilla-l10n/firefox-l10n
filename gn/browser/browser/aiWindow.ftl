@@ -155,6 +155,7 @@ aiwindow-firstrun-memories-choose-label = Eiporavo moõpa eikuaáta { -smart-win
 aiwindow-firstrun-memories-checkbox-chats = Echatea { -smart-window-brand-name } ndive
 aiwindow-firstrun-memories-checkbox-browsing = Eikundaha { -brand-product-name } rupi
 aiwindow-firstrun-memories-update-settings = Embohekopyahu ejapose vove.
+aiwindow-firstrun-memories-no-create = Hesakãma. { -smart-window-brand-name } naimandu’amo’ãi. Embohekopyahukuaa ñembohekohápe ejapose vove.
 
 ## Firstrun set as default onboarding
 
