@@ -497,6 +497,7 @@ nova-early-access-infobar-primary-button = 知道了
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-checkbox-launch-on-login = 开机时启动 { -brand-short-name }
 launch-options-spotlight-checkbox-pin-to-taskbar = 固定到任务栏
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = 保存并关闭 { -brand-short-name }
