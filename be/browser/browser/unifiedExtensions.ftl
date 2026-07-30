@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Адкрыйце для сябе пашырэнні
 unified-extensions-empty-reason-private-browsing-not-allowed = У вас усталяваныя пашырэнні, але яны не ўключаны ў прыватным рэжыме
 unified-extensions-empty-reason-extension-not-enabled = У вас усталяваныя пашырэнні, але яны не ўключаны
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Нават некалькі пашырэнняў маюць вялікае значэнне
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Палепшыце сваё агляданне з дапамогай пашырэнняў
 unified-extensions-empty-content-explain-enable2 = Выберыце «{ unified-extensions-manage-extensions.label }», каб уключыць іх у наладах.
 unified-extensions-empty-content-explain-manage2 = Выберыце «{ unified-extensions-manage-extensions.label }», каб кіраваць імі ў наладах.
+unified-extensions-empty-content-explain-extensions-onboarding2 = У нас ёсць рэкамендацыі, якія дапамогуць вам палепшыць канцэнтрацыю, прыватнасць і многае іншае.
 unified-extensions-empty-content-explain-extensions-onboarding = Персаналізуйце { -brand-short-name }, змяніўшы яго выгляд і прадукцыйнасць або павысіўшы прыватнасць і бяспеку.
 
 ## An extension in the main list
