@@ -206,6 +206,7 @@ aiwindow-close-sidebar =
 aiwindow-history-menu =
     .aria-label = Flere innstillinger
     .tooltiptext = Flere innstillinger
+aiwindow-history-menu-chat-history = Chattehistorikk
 aiwindow-history-menu-back =
     .aria-label = Tilbake
     .tooltiptext = Tilbake
@@ -217,6 +218,8 @@ aiwindow-history-menu-settings = { -smart-window-brand-name }-innstillinger
 
 aiwindow-fullpage-new-chat =
     .label = Ny chat
+aiwindow-fullpage-chat-history =
+    .label = Chattehistorikk
 # "More" is the label for a button that opens a menu of additional Smart Window
 # options (currently Smart Window settings) — i.e. "more actions/options", not
 # more content or more chat history.

@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = For å hente telefonfanene dine 
 firefoxview-tabpickup-step-signin-primarybutton = Fortsett
 firefoxview-syncedtabs-signin-header-2 = Din { -brand-product-name } på alle dine enheter
 firefoxview-syncedtabs-signin-description-2 = For å se faner du har åpne på telefonen og andre enheter, logg inn eller registrer deg for en konto. Med en konto kan du også synkronisere passord, historikk, med mer.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Fra bærbar PC til telefon, sømløst
 firefoxview-syncedtabs-signin-primarybutton-2 = Logg inn
 firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på telefonen eller nettbrettet
 firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
