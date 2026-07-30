@@ -1421,10 +1421,10 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
-newtab-sports-widget-message-survey-title = 帮助我们改进小部件
+newtab-sports-widget-message-survey-title = 帮助我们改进小组件
 newtab-sports-widget-message-survey-body = 世界杯已落下帷幕，欢迎分享您对此次体验的反馈。
 newtab-sports-widget-message-survey-widget-title = 世界杯小组件使用体验如何？
-newtab-sports-widget-message-survey-widget-body = 分享您的反馈意见可帮助我们改进未来的小部件。后续，欢迎体验新的小组件。
+newtab-sports-widget-message-survey-widget-body = 分享您的反馈意见可帮助我们改进未来的小组件。后续，欢迎体验新的小组件。
 newtab-sports-widget-message-survey-cta =
     .label = 填写问卷
 
