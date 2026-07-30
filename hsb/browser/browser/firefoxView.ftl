@@ -237,6 +237,7 @@ firefoxview-history-empty-description-two = Škit wašeje priwatnosće je naša 
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
 firefoxview-history-empty-header-2 = Waš slěd přehladowanja so tu započina
+firefoxview-history-empty-description-2 = Hdyž strony wopytujeće, so waša historija tu zjewi. Kontrolujće, štož so w <a data-l10n-name="history-settings-url">nastajenjach</a> składuje.
 
 ##
 
@@ -250,6 +251,7 @@ firefoxview-dont-remember-history-empty-header-2 = Maće kontrolu wo tym, štož
 firefoxview-dont-remember-history-empty-description-one = Tuchwilu sej { -brand-short-name } wašu přehladowansku aktiwitu njespomjatkuje. Zo byšće to změnił, <a data-l10n-name="history-settings-url-two">aktualizujće nastajenja swojeje historije</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Waše přehladowanje so njeskładuje
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } wašu historiju tuchwilu njeskładuje. Změńće to kóždy čas w <a data-l10n-name="history-settings-url-two">nastajenjach</a>.
 
 ##
 
