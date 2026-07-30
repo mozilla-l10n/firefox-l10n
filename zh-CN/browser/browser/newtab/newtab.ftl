@@ -310,6 +310,8 @@ newtab-picture-menu-learn-more = 详细了解
 newtab-picture-show-button =
     .title = 显示今日图片
     .aria-label = 显示今日图片
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = 明天再来看看有没有新照片吧
 
 ## Search box component.
 
