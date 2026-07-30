@@ -38,4 +38,26 @@ ai-window-toggleview-switch-ai =
 ai-window-toggleview-switch-ai-description =
     .label = Tanya semasa anda melayari
     .value = Tanya semasa anda melayari
+ai-window-toggleview-switch-private =
+    .label = Tetingkap Peribadi
+ai-window-toggleview-open-private =
+    .label = Buka Tetingkap Peribadi Baharu
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Tetingkap Klasik
+toolbar-switcher-customizable-label =
+    .label = Penukar { -smart-window-brand-name }
+    .tooltiptext = Tukar antara tetingkap Smart dan Klasik.
+
+## Input CTA
+
+aiwindow-input-cta-submit-label-chat = Tanya
+aiwindow-input-cta-submit-label-navigate = Pergi
+aiwindow-input-cta-submit-label-search = Cari
+aiwindow-input-cta-submit-label-stop = Berhenti
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Penjanaan respons dimulakan
+aiwindow-input-cta-menu-label-chat = Tanya
+aiwindow-input-cta-menu-label-navigate = Pergi ke tapak
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Cari dengan { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = Cari dengan...

@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Inställningar…
 menu-application-set-as-default =
     .label = Ange { -brand-shorter-name } som standardwebbläsare
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Dela { -brand-shorter-name }
 menu-application-services =
     .label = Tjänster
 menu-application-hide-this =
@@ -374,3 +378,7 @@ menu-help-not-deceptive =
     .accesskey = v
 menu-report-broken-site =
     .label = Rapportera trasig webbplats
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Dela { -brand-shorter-name }
