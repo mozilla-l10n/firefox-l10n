@@ -113,3 +113,28 @@ smart-window-ungrouped-row-label = { $count } tab dinyahkumpulkan
 
 action-log-searching-tabs = Mencari tab
 action-log-searched-open-tabs = Tab terbuka dicari
+action-log-searching-history = Mencari sejarah
+action-log-searched-history = Sejarah dicari
+action-log-reading-page = Membaca halaman
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Kandungan halaman dibaca
+action-log-searching-web = Mencari di web
+action-log-searched-web = Web dicari
+action-log-checking-memories = Menyemak memori
+action-log-checked-memories = Memori disemak
+action-log-searching-settings = Mencari tetapan
+action-log-searched-settings = Tetapan dicari
+action-log-searching-world-cup-matches = Mencari perlawanan World Cup
+action-log-searched-world-cup-matches = Perlawanan World Cup dicari
+action-log-checking-world-cup-live = Menyemak perlawanan World Cup secara langsung
+action-log-checked-world-cup-live = Perlawanan World Cup secara langsung disemak
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps = { $count } langkah diselesaikan
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Hasil carian dimuatkan dalam tab ini. Menganalisis...
