@@ -15,6 +15,8 @@ bookmark-overlay-location-2 =
     .accesskey = L
 bookmark-overlay-choose =
     .label = پسند…
+bookmark-overlay-folders-expander2 =
+    .tooltiptext = نشووݩ داڌن پوی دوبلگه یل نشووکا
 bookmark-overlay-folders-expander-hide =
     .tooltiptext = بؽڌار کردن
 # bookmark-overlay-folders-tree is used to provide an accessible name to the tree view of the Bookmarks directory, when it is expanded
@@ -26,6 +28,8 @@ bookmark-overlay-new-folder-button =
 bookmark-overlay-tags-2 =
     .value = برچسبا
     .accesskey = T
+bookmark-overlay-tags-empty-description =
+    .placeholder = برچسبا ن وا کاما سوا کۊنین
 bookmark-overlay-tags-expander =
     .tooltiptext = نشووݩ داڌن پوی برچسبا
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
