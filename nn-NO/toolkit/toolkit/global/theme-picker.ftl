@@ -17,3 +17,15 @@ theme-picker-mode-device = Device
 # color word; translate the sense of "standard."
 theme-picker-default =
     .label = Standard
+
+## Theme aria-labels (for when labels are hidden)
+## These are short, evocative names for color themes in Firefox. Each name
+## suggests a color through nature or fire imagery rather than naming the color
+## directly. Where possible, choose a word that evokes the same imagery or color
+## association in the target language. If no equivalent exists, prioritize color
+## clarity. One word, 11 characters or fewer.
+
+# Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
+# color word; translate the sense of "standard."
+theme-picker-default-aria-label =
+    .aria-label = Standard
