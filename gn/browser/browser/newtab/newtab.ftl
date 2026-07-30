@@ -244,6 +244,7 @@ newtab-privacy-message-promo-vpn-2-cta = Embojuruja VPN
 newtab-privacy-message-promo-vpn-3-cta = Embojuruja VPN
 newtab-privacy-message-promo-private-window-1-cta = Embojuruja ovetã ñemi
 newtab-privacy-message-promo-relay-1-cta = Erekóke jurumo’ãha
+newtab-privacy-message-promo-relay-2 = Emo’ã ñe’ẽmondo g̃uahẽha spam-gui ñanduti veve rovamo’ãha reívandi.
 newtab-privacy-message-promo-relay-2-cta = Erekóke jurumo’ãha
 newtab-privacy-message-promo-relay-3-cta = Erekóke jurumo’ãha
 
