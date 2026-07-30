@@ -113,6 +113,7 @@ aiwindow-input-model-select-button-label-fast = 快速
 aiwindow-input-model-select-button-label-allpurpose = 灵活
 aiwindow-input-model-select-button-label-personal = 个人化
 aiwindow-input-model-select-button-label-custom = 自定义
+aiwindow-input-model-select-button-description-custom = 自行选择大语言模型
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -171,6 +172,33 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = 关闭
     .tooltiptext = 关闭
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = 更多选项
+    .tooltiptext = 更多选项
+aiwindow-history-menu-chat-history = 聊天记录
+aiwindow-history-menu-back =
+    .aria-label = 返回
+    .tooltiptext = 返回
+aiwindow-history-menu-view-all-chats = 查看所有聊天
+aiwindow-history-menu-settings = { -smart-window-brand-name }设置
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-chat-history =
+    .label = 聊天记录
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = 更多
+    .title = 更多
 
 ## Sign out dialog
 
@@ -295,3 +323,16 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = 切换模式：网格视图
     .tooltiptext = 网格视图
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = 撰写初稿
+aiwindow-starter-writing-improve = 润色文笔
+aiwindow-starter-planning-brainstorm = 集思广益
+aiwindow-starter-planning-plan = 帮助制定计划
+aiwindow-starter-browsing-history = 查找历史标签页
+aiwindow-starter-browsing-summarize = 生成标签页摘要

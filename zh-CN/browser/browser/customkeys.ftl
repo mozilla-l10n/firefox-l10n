@@ -92,6 +92,7 @@ customkeys-conflict-confirm-title = 要移除另一快捷键吗？
 customkeys-conflict-confirm-body = 此键已由“{ $conflict }”使用。
 customkeys-conflict-confirm-button-confirm = 仍要使用
 customkeys-conflict-confirm-button-cancel = 取消
+customkeys-conflict-unusable-title = 无法使用此键
 customkeys-reset-all-confirm-title = 确定要恢复默认设置吗？
 customkeys-reset-all-confirm-body = 将移除所有自定义键盘快捷键。
 customkeys-reset-all-confirm-button-confirm = 恢复默认设置
