@@ -32,6 +32,10 @@ about-networking-ssl-tokens-summary-expired =
         [one] ({ $count } expirado)
        *[other] ({ $count } expirados)
     }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% de economia)
 # $used (Number) - Cache size currently in use, in kilobytes
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
@@ -55,6 +59,18 @@ about-networking-ssl-tokens-new =
 about-networking-ssl-tokens-expired =
     .alt = Expirado
     .title = Expirado
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokens: { $tokenLength } B. Codificado: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = Certificado EV
+about-networking-ssl-tokens-ct-status = Status da transparência do certificado
+about-networking-ssl-tokens-built-in-root = Raiz integrada
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Cadeia de certificados ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Certificados de handshake ({ $count })
 about-networking-refresh = Atualizar
 about-networking-auto-refresh = Atualizar a cada 3 segundos
 about-networking-hostname = Servidor
