@@ -9,5 +9,4 @@ policy-PrintPageTelemetry = Activer et configurer l’enregistrement des évène
 policy-Sync = Activer ou désactiver la synchronisation et déterminer quelles données inclure.
 policy-CrashReportsSubmit = Configurer les paramètres d’envoi des rapports de plantage.
 policy-AIChatbot = Configurer les fournisseurs de chatbot IA disponibles, le fournisseur par défaut et les fonctionnalités liées aux prompts.
-policy-AccessConnector = Configurer un connecteur d’accès pour l’acheminement du trafic web par proxy.
 policy-AccessConnector2 = Paramétrez le { -enterprise-feature-access-connector } afin de rediriger le trafic web via un proxy.
