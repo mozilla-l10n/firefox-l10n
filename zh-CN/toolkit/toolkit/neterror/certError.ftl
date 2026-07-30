@@ -106,11 +106,11 @@ fp-certerror-self-signed-important-note = 【重要提示】如果您正尝试�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = 各个网站通过证书授权机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，因为其证书似乎已于 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } 过期。
+fp-certerror-expired-why-dangerous-body = 各个网站通过证书颁发机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，因为其证书似乎已于 { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } 过期。
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = 各个网站通过证书授权机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，因为其证书需到 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } 才开始生效。
+fp-certerror-not-yet-valid-why-dangerous-body = 各个网站通过证书颁发机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，因为其证书需到 { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } 才开始生效。
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
@@ -168,7 +168,7 @@ cert-error-untrusted-issuer = { -brand-short-name } 已拦截您对该网站的�
 cert-error-untrusted-cert = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书已被标记为不可信。
 cert-error-invalid-integer-encoding = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书包含无效的整数编码。造成此情况的常见因素包括：负值序列号、负 RSA 模数，以及冗余整数编码。
 cert-error-unsupported-keyalg = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书存在不受支持的密钥类型。
-cert-error-issuer-no-longer-trusted = { -brand-short-name } 已拦截您对该网站的访问，因为颁发提供给 { $hostname } 的证书的证书授权机构已不再受信任。
+cert-error-issuer-no-longer-trusted = { -brand-short-name } 已拦截您对该网站的访问，因为颁发提供给 { $hostname } 的证书的证书颁发机构已不再受信任。
 cert-error-signature-algorithm-mismatch = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书的签名算法与其签名算法字段信息不一致。
 
 ## Messages used for certificate error titles
