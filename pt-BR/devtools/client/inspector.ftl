@@ -35,3 +35,12 @@ inspector-emulation-panel-color-scheme = Emulação de esquema de cores
 # A label text for the print emulation options
 inspector-emulation-panel-print = Ativar
     .aria-label = Ativar emulação de mídia impressa
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Claro
+    .aria-label = Ativar emulação de esquema de cores claras
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Escuro
+    .aria-label = Ativar emulação de esquema de cores escuras
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Sem emulação
+    .aria-label = Desativar emulação de esquema de cores
