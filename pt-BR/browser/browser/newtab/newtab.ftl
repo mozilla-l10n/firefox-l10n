@@ -760,6 +760,21 @@ newtab-custom-appearance-section-title = Aparência
 # Button that opens the full browser theme selection view.
 newtab-appearance-more-themes-button =
     .label = Mais temas
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Temas do { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Seus temas
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Ativar
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Desativar
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Instalar tema
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Mais temas
 
 ## New Tab Wallpapers
 

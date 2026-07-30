@@ -171,6 +171,42 @@ autofill-card-network = Tipo de cartão
 # methods in their region.
 autofill-card-search-term-credit-cards = cartões de crédito, crédito, cartões, cartões de débito, débito, carteira, pagamento
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Adicionar passaporte
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Editar passaporte
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Nome
+autofill-passport-country =
+    .label = País
+autofill-passport-number =
+    .label = Número
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Data de emissão
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Data de validade
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = AAAA
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Salvar passaporte?
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express
