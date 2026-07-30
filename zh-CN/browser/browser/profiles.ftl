@@ -223,7 +223,7 @@ star-avatar-alt =
 video-game-controller-avatar-alt =
     .alt = 视频游戏控制器
 custom-avatar-alt =
-    .alt = 自定义头像
+    .alt = 自定义图标
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = 地球

@@ -101,6 +101,23 @@ appmenu-remote-tabs-unverified = K'atzinel nijikib'äx ri rub'i' ataqoya'l.
 appmenuitem-fxa-toolbar-sync-now2 = Tixim Wakami
 appmenuitem-fxa-sign-in = Titikirisäx molojri'ïl pa { -brand-product-name }
 appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Titzij
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Tatikirisaj molojri'ïl pa yaximon
+fxa-menu-add-device =
+    .label = Titz'aqatisäx jun okisaxel
+fxa-menu-manage-devices =
+    .label = Ke'anuk'samajïx taq awokisaxel
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Ronojel taq Okisaxel
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Ronojel taq Okisaxel
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Rub'i' taqoya'l
 # Variables
@@ -194,6 +211,8 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Runuk'ulem richin yekanöx sachoj k'oxom chuqa' taq silowäch pa { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = K'ïy k'oxom
+profiler-popup-presets-ml-label =
+    .label = Machine Learning
 profiler-popup-presets-networking-description = Runuk'ulem richin yekanöx sachoj taq k'amal pa { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = K'amab'ey
@@ -268,6 +287,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tichinäx Rukajtz'ik Samajib'äl…
+appmenu-abouttranslations =
+    .label = Titzalq'omïx…
 appmenu-developer-tools-subheader = Rusamajib'al Okik'amaya'l
 appmenu-developer-tools-extensions =
     .label = Kik'amal B'anonela'
@@ -280,3 +301,19 @@ appmenuitem-sign-in-account = Katok pa rub'i' ataqoya'l
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+
+## Profiles panel
+
+appmenu-copy-profile =
+    .label = Tiwachib'ex re Ruwäch B'i'aj re'
+appmenu-edit-profile =
+    .aria-label = Tinuk' ruwäch b'i'aj
+appmenu-profiles-2 =
+    .label = Ruwäch taq b'i'aj
+appmenu-profiles-header = Ruwäch taq b'i'aj
+appmenu-all-profiles =
+    .label = Ronojel Ruwäch taq B'i'aj
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = K'ak'a' taq ruwi'
