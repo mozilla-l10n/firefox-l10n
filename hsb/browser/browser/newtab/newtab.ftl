@@ -214,6 +214,7 @@ newtab-privacy-empty = { -brand-short-name } přesćěhowaki blokuje, hdyž pře
 
 newtab-privacy-message-info-1 = { -brand-short-name } přesćěhowaki awtomatisce blokuje, hdyž přehladujeće.
 newtab-privacy-message-info-1-cta = Škity pokazać
+newtab-privacy-message-info-2 = Blokowanje přesćěhowakow tomu zadźěwa, zo předewzaća wam online slěduja.
 newtab-privacy-message-info-2-cta = Škity pokazać
 newtab-privacy-message-info-3-cta = Škity pokazać
 newtab-privacy-message-info-4 = Hdyž { -brand-short-name } wuběraće, to rěka, zo po standardźe škit wuběraće.

@@ -74,9 +74,11 @@ ipprotection-summer-promo-offramp-subscriber-description = Dóstawaće nětko nj
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = Wobchowajće swoje přidatne zatwarjene stejnišća VPN
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Čińće { -brand-product-name } k swojemu standardnemu wobhladowakej a dóstańće přez 20 přidatnych stejnišćow, zo byšće po 31. awgusće přehladował.
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Powyšće niwow z { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Wobchowajće njewobmjezowanu šěrokosć pasma po 31. awgusće, z přez 300 stejnišćemi na 5 gratach, zo byšće slědowanje wašeho přehladowanja poćežił.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN wočinić
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Jako standard wužiwać
