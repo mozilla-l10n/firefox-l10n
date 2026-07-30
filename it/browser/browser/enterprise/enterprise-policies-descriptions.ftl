@@ -3,11 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 policy-BlocklistDomainBrowsedTelemetry = Attiva e configura la registrazione di sicurezza e telemetria quando { -brand-short-name } blocca una visita a un dominio bloccato.
+policy-DisableLocalPolicies = Disattiva tutte le fonti locali di criteri aziendali (policies.json, GPO in Windows e plist in macOS).
 policy-DownloadTelemetry = Attiva e configura la registrazione di sicurezza e telemetria quando viene avviato un download.
 policy-EnterpriseStorageEncryption = Attiva password primaria gestita dall’azienda per l’archiviazione crittata.
 policy-PrintPageTelemetry = Attiva e configura la registrazione di sicurezza e telemetria quando viene stampata una pagina.
 policy-Sync = Attiva o disattiva la sincronizzazione e definisci quali dati includere.
 policy-CrashReportsSubmit = Configura le impostazioni per l’invio delle segnalazioni di arresto anomalo.
+policy-Watermark = Mostra una filigrana diagonale a mosaico su un elenco di siti web.
 policy-AIChatbot = Configura i provider di chatbot AI disponibili, il provider predefinito e le funzionalità di prompt.
-policy-AccessConnector = Configurare un access connector per l’inoltro del traffico web.
 policy-AccessConnector2 = Configurare { -enterprise-feature-access-connector } per l’inoltro del traffico web.

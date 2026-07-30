@@ -43,6 +43,12 @@ felt-browser-error-multiple-crashes2 =
 felt-browser-error-launch-failure =
     .heading = Impossibile avviare { -brand-short-name }
     .message = Contattare l’amministratore se il problema persiste.
+felt-error-primary-secret =
+    .heading = Impossibile avviare { -brand-short-name } in modo sicuro
+    .message = Impossibile recuperare la chiave del profilo protetto. Riprova oppure contatta l’amministratore se il problema persiste.
+felt-error-sdr-token-unlock-failed =
+    .heading = { -brand-short-name } non può sbloccare il tuo profilo
+    .message = Non è possibile sbloccare il tuo profilo protetto. Riprova oppure contatta l’amministratore se il problema persiste.
 
 ## Logout messages
 
@@ -82,3 +88,4 @@ felt-error-warning-elevation-attempt-failed-contact-admin = Impossibile installa
 felt-warning-title-download-attempt-failed =
     .heading = Impossibile scaricare l’aggiornamento
 felt-error-warning-download-attempt-failed-contact-admin = Impossibile scaricare l’ultimo aggiornamento. Se il problema persiste, contattare l’amministratore per assistenza.
+felt-back-button = Ritorna alla pagina di accesso
