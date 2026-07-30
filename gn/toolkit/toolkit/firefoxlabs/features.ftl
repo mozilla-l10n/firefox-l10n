@@ -65,6 +65,7 @@ experimental-features-newtab-widget-lists-and-timer =
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Arareko jekuaarã
+experimental-features-newtab-widget-weather-description = Ehecha porã ára ko’ag̃agua ha mba’éicha ohóta peteĩteĩva aravópe. <a data-l10n-name="connect">Emoherakuã temiandu</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Ta’ãnga araguáva
