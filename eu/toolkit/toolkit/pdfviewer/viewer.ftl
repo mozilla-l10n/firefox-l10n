@@ -531,22 +531,22 @@ pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Automatikoki sort
 ## Image alt-text settings
 
 pdfjs-image-alt-text-settings-button =
-    .title = Irudiaren testu alternatiboaren ezarpenak
-pdfjs-image-alt-text-settings-button-label = Irudiaren testu alternatiboaren ezarpenak
-pdfjs-editor-alt-text-settings-dialog-label = Irudiaren testu alternatiboaren ezarpenak
-pdfjs-editor-alt-text-settings-automatic-title = Testu alternatibo automatikoa
-pdfjs-editor-alt-text-settings-create-model-button-label = Sortu testu alternatiboa automatikoki
+    .title = Irudien ordezko testuaren ezarpenak
+pdfjs-image-alt-text-settings-button-label = Irudien ordezko testuaren ezarpenak
+pdfjs-editor-alt-text-settings-dialog-label = Irudien ordezko testuaren ezarpenak
+pdfjs-editor-alt-text-settings-automatic-title = Ordezko testu automatikoa
+pdfjs-editor-alt-text-settings-create-model-button-label = Sortu ordezko testua automatikoki
 pdfjs-editor-alt-text-settings-create-model-description = Azalpenak iradokitzen ditu irudia ikusi ezin duen jendearentzat edo irudia kargatu ezin denerako.
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
-pdfjs-editor-alt-text-settings-download-model-label = Testu alternatiboaren AA modeloa ({ $totalSize } MB)
-pdfjs-editor-alt-text-settings-ai-model-description = Zure gailuan modu lokalean exekutatzen da eta zure datuak pribatu mantentzen dira. Testu alternatibo automatikorako beharrezkoa.
+pdfjs-editor-alt-text-settings-download-model-label = Ordezko testuaren AA modeloa ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Zure gailuan modu lokalean exekutatzen da eta zure datuak pribatu mantentzen dira. Ordezko testu automatikorako beharrezkoa.
 pdfjs-editor-alt-text-settings-delete-model-button = Ezabatu
 pdfjs-editor-alt-text-settings-download-model-button = Deskargatu
 pdfjs-editor-alt-text-settings-downloading-model-button = Deskargatzen…
-pdfjs-editor-alt-text-settings-editor-title = Testu alternatiboaren editorea
-pdfjs-editor-alt-text-settings-show-dialog-button-label = Erakutsi testu alternatiboa irudi bat gehitzean berehala
-pdfjs-editor-alt-text-settings-show-dialog-description = Zure irudiek testu alternatiboa duela ziurtatzen laguntzen dizu.
+pdfjs-editor-alt-text-settings-editor-title = Ordezko testuaren editorea
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Erakutsi ordezko testua irudi bat gehitzean berehala
+pdfjs-editor-alt-text-settings-show-dialog-description = Zure irudi guztiek ordezko testua dutela ziurtatzen laguntzen dizu.
 pdfjs-editor-alt-text-settings-close-button = Itxi
 
 ## Accessibility labels (announced by screen readers) for objects added to the editor.
@@ -584,7 +584,7 @@ pdfjs-editor-undo-bar-close-button-label = Itxi
 pdfjs-editor-add-signature-dialog-label =
     Leiho modal honek PDF dokumentu batera gehitzeko sinadurak
     sortzea ahalbidetzen dio erabiltzaileari. Erabiltzaileak izena edita
-    dezake (testu alternatibo modura ere erabiltzen dena) eta sinadura
+    dezake (ordezko testu modura ere erabiltzen dena) eta sinadura
     gordetzeko aukera du gehiagotan erabili ahal izateko.
 pdfjs-editor-add-signature-dialog-title = Gehitu sinadura
 
@@ -619,9 +619,9 @@ pdfjs-editor-add-signature-image-browse-link =
 
 ## Controls
 
-pdfjs-editor-add-signature-description-label = Azalpena (testu alternatiboa)
+pdfjs-editor-add-signature-description-label = Azalpena (ordezko testua)
 pdfjs-editor-add-signature-description-input =
-    .title = Azalpena (testu alternatiboa)
+    .title = Azalpena (ordezko testua)
 pdfjs-editor-add-signature-description-default-when-drawing = Sinadura
 pdfjs-editor-add-signature-clear-button-label = Garbitu sinadura
 pdfjs-editor-add-signature-clear-button =
