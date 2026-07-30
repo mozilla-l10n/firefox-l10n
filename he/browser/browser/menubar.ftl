@@ -12,6 +12,10 @@ menu-application-settings =
     .label = הגדרות…
 menu-application-set-as-default =
     .label = הגדרת { -brand-shorter-name } כדפדפן ברירת המחדל
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = שיתוף { -brand-shorter-name }
 menu-application-services =
     .label = שירותים
 menu-application-hide-this =
@@ -374,3 +378,7 @@ menu-help-not-deceptive =
     .accesskey = א
 menu-report-broken-site =
     .label = דיווח על אתר שבור
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = שיתוף { -brand-shorter-name }
