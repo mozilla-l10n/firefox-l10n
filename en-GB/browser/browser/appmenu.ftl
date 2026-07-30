@@ -294,6 +294,11 @@ appmenu-help-header =
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Share { -brand-shorter-name }
+    .accesskey = r
 appmenu-get-help =
     .label = Get help
     .accesskey = H
@@ -397,6 +402,9 @@ fxa-menu-create-profile-confirm =
     .label = Create New profile
 fxa-menu-create-profile-learn-more =
     .label = What Are Profiles?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Share { -brand-short-name }
+appmenuitem-share-firefox-description = Invite someone to choose the browser that puts privacy first
 appmenu-profiles-2 =
     .label = Profiles
 appmenu-profiles-header = Profiles
