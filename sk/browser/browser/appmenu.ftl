@@ -57,7 +57,7 @@ appmenuitem-more-tools =
     .label = Ďalšie nástroje
 # Menu combining the previous "Help" menu and report broken site
 appmenuitem-help-and-report =
-    .label = Pomoc a hlásenie
+    .label = Pomoc a hlásenia
 appmenuitem-help =
     .label = Pomocník
 appmenuitem-exit2 =
@@ -309,7 +309,7 @@ appmenu-help-switch-device =
     .label = Prechod na nové zariadenie
 # Menu header for combination of "Help" menu and report broken site
 appmenu-help-and-report-header =
-    .title = Pomoc a hlásenie
+    .title = Pomoc a hlásenia
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

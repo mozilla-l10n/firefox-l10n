@@ -45,6 +45,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Eñepyrũ tembiapo { -brand-pro
 firefoxview-syncedtabs-adddevice-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Ne rendayke ohenói. Oĩhína ne pumbyrýpe.
+firefoxview-syncedtabs-adddevice-description-3 = Emoha’ãnga QR ayvu emohenda hag̃ua { -brand-product-name } ne pumbyrýpe ha eñepyrũ embojuehe tendayke ijurujáva ha hetave. Eikuaa <a data-l10n-name="url">embojoaju mba’e’okaita</a>.
 firefoxview-tabpickup-synctabs-header = Emyandy tendayke ñembojuehe
 firefoxview-tabpickup-synctabs-description = Emoneĩ { -brand-short-name } omoherakuãvo tendayke mba’e’oka pa’ũme.
 firefoxview-tabpickup-synctabs-learn-how = Mba’éicha eikuaáta
@@ -53,6 +54,7 @@ firefoxview-tabpickup-synctabs-primarybutton-2 = Emyandy tendayke ñembojuehe
 firefoxview-syncedtabs-synctabs-header = Embohekopyahu mbojueheha ñemboheko
 firefoxview-syncedtabs-synctabs-description = Ehecha hag̃ua tendayke ambue mba’e’okagua, embojuehe tendayke ijurujáva.
 firefoxview-syncedtabs-synctabs-header-2 = Tendayke ñembojuehe ogue
+firefoxview-syncedtabs-synctabs-description-2 = Emyandyjey pe ñembojuehe egueru hag̃ua opaite tendayke ambue mba’e’okágui.
 firefoxview-syncedtabs-loading-header = Ñemboheko oku’éma
 firefoxview-syncedtabs-loading-description = Emoĩmbávo, ehecháta umi tendayke ijurujáva ambue mba’e’okápe. Eporandujey ag̃amieve.
 firefoxview-syncedtabs-loading-header-2 = Agueruhína tendayke…
