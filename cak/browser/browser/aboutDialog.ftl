@@ -66,6 +66,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } wachib'en ruma <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, jun <label data-l10n-name="community-creditsLink">chijun ach'ala'il</label> yojsamäj junam richin jantape' jaqäl chuqa' okel nisamajïx ri k’amaya'l.
 helpus = ¿La nawajo' yato'on? <label data-l10n-name="helpus-donateLink">Taya' jun sipanïk</label> o <label data-l10n-name="helpus-getInvolvedLink">¡kato'on!</label>
 bottomLinks-license = Rutzijol Ya'öl Q'ij
+bottom-links-terms = Rojqanem Rokisaxik
+bottom-links-privacy = Ichinan Na'oj
 bottomLinks-rights = Kich'ojib'al K'isib'äl-Okisanel
 bottomLinks-privacy = Ichinan Na'oj
 # Example of resulting string: 66.0.1 (64-bit)

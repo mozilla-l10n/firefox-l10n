@@ -5,7 +5,7 @@
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } 使用了无效的安全证书。
-cert-error-mitm-intro = 各个网站通过证书证明自己的身份，而证书由受信任的数字证书颁发机构颁发。
+cert-error-mitm-intro = 各个网站通过证书证明自己的身份，而证书由证书颁发机构颁发。
 cert-error-mitm-mozilla = { -brand-short-name } 由非营利的 Mozilla 提供支持。Mozilla 管理一组完全开放的证书颁发机构（CA）存储库。该存储库帮助确保这些证书颁发机构遵循最佳实践，以保障用户的安全。
 cert-error-mitm-connection = { -brand-short-name } 使用 Mozilla 的数字证书认证机构存储库来验证连接是否安全，而非用户操作系统所提供的证书库。因此，如果您的防病毒软件或网络使用不在 Mozilla 数字证书认证机构列表中的机构所颁发的证书来拦截网络流量，该连接被视为不安全。
 cert-error-trust-unknown-issuer-intro = 可能有人试图冒充该网站，您不应该继续访问。
@@ -57,7 +57,7 @@ cert-error-code-prefix-link = 错误代码：<a data-l10n-name="error-code-link"
 cert-error-ssl-connection-error = 连接到 { $hostname } 时发生错误。{ $errorMessage }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = 各个网站通过证书证明自己的身份，而证书由受信任的数字证书颁发机构颁发。大多数浏览器已不再信任由 GeoTrust、RapidSSL、Symantec、Thawte 以及 VeriSign 颁发的证书。{ $hostname } 使用了由上述机构之一颁发的证书，因而网站身份无法证实。
+cert-error-symantec-distrust-description = 各个网站通过证书证明自己的身份，而证书由证书颁发机构颁发。大多数浏览器已不再信任由 GeoTrust、RapidSSL、Symantec、Thawte 以及 VeriSign 颁发的证书。{ $hostname } 使用了由上述机构之一颁发的证书，因而网站身份无法证实。
 cert-error-symantec-distrust-admin = 您可以向网站管理员反馈此问题。
 cert-error-old-tls-version = 此网站可能不支持 TLS 1.2 协议，而这是 { -brand-short-name } 支持的最低版本。
 # Variables:
