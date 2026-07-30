@@ -1706,6 +1706,9 @@ passports-delete-passport-prompt-cancel-button = Eheja
 autofill-passports-add-button = Embojuaju pasaporte pyahu
 autofill-personal-info-manage-title =
     .heading = Eñangareko marandu nderehegua
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Noñembojuajúi pasaporte
 pane-passwords-autofill-title2 = Ñe’ẽñemi ha moĩjehegui
     .title = Ñe’ẽñemi ha moĩjehegui
 preferences-passwords-autofill-header =
