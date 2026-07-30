@@ -46,7 +46,7 @@ download-cert-trust-email =
 download-cert-message-desc = 在信任此证书颁发机构之前，您应该检查它的证书、策略和它的手续（如果有的话）。
 download-cert-view-cert =
     .label = 查看
-download-cert-view-text = 检查CA证书
+download-cert-view-text = 检查 CA 证书
 
 ## Client Authentication Ask dialog
 
