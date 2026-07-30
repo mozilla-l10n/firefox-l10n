@@ -12,6 +12,10 @@ menu-application-settings =
     .label = 설정…
 menu-application-set-as-default =
     .label = { -brand-shorter-name }를 기본 브라우저로 설정
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = { -brand-shorter-name } 공유하기
 menu-application-services =
     .label = 서비스
 menu-application-hide-this =
@@ -374,3 +378,7 @@ menu-help-not-deceptive =
     .accesskey = d
 menu-report-broken-site =
     .label = 깨진 사이트 신고
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = { -brand-shorter-name } 공유하기

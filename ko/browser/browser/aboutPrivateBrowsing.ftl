@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = 누가 여전히 내 활동을 볼 수 �
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = 기록이 남지 않습니다
+about-private-browsing-nova-info-subheader2 = 모든 사생활 보호 창을 닫으면 모든 검색과 로그인이 삭제됩니다. 여기에서도 추적기 차단 같은 { -brand-short-name }의 내장 보호 기능을 사용할 수 있습니다.
 about-private-browsing-nova-info-subheader = 이 창을 닫으면 모든 검색과 로그인이 삭제됩니다. 여기에서도 추적기 차단 같은 { -brand-short-name }의 내장 보호 기능을 사용할 수 있습니다.
