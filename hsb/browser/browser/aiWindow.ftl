@@ -339,6 +339,7 @@ aiwindow-feedback-modal-title = Měnjenje dźělić
 aiwindow-feedback-what-worked-well = Što je derje fungowało? Žane wosobinske informacije, prošu.
 aiwindow-feedback-choose-any = Wubjerće wšě přihódne
 aiwindow-feedback-add-details = Přidajće podrobnosće, jeli chceće. Žane wosobinske informacije, prošu.
+aiwindow-feedback-disclaimer = Zapodajće swoje měnjenje a tutón chat, zo byšće { -brand-shorter-name } pomhał, { -smart-window-brand-name } polěpšić. Waše druhe chaty priwatne wostanu. <a data-l10n-name="learn-more">Dalše informacije</a>
 aiwindow-feedback-submit = Wotpósłać
 aiwindow-feedback-cancel = Přetorhnyć
 aiwindow-feedback-reason-incorrect-or-misleading = Wopačny abo zabłudźawy

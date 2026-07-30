@@ -254,6 +254,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Přednastajenje za wuslědźenje syćowych zmylkow w { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Syć
+profiler-popup-presets-networking-with-logs-description = Přednastajenje za přeslědźowanje syćowych zmylkow w { -brand-shorter-name }, mjez nimi syćowe protokole. Tute protokole sensibelne informacije wobsahuja, na přikład URL, kotrež wopytujeće.
 profiler-popup-presets-networking-with-logs-label =
     .label = Syćowe zwjazki z protokolemi
 profiler-popup-presets-power-description = Přednastajenje za wuslědźenje zmylkow wužiwanja energije w { -brand-shorter-name }, z niskej potrjebu.
