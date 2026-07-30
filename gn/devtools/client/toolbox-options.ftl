@@ -80,6 +80,8 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Monitor ñandutigua
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Mba’ejerure tuichakue ha mbohovái retepy (emoĩ 0-pe hu’ã’ỹvape g̃uarã):
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Ijapyra’ỹva
 options-netmonitor-body-limit-button =
