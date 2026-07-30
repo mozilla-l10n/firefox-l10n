@@ -164,6 +164,10 @@ action-log-searched-web = Aheka ñandutípe
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searching-web-with-exa = Ñandutípe jeheka <a data-l10n-name="exa-link">Exa</a> ndive
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Ojeheka ñandutípe <a data-l10n-name="exa-link">Exa</a> ndive
 action-log-checking-memories = Ahechahína mandu’arã
 action-log-checked-memories = Mandu’arã hechajeypyre
 action-log-searching-settings = Jehekakue ñemboheko
