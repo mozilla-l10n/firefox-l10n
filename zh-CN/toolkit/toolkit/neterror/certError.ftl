@@ -7,7 +7,7 @@
 cert-error-intro = { $hostname } 使用了无效的安全证书。
 cert-error-mitm-intro = 各个网站通过证书证明自己的身份，而证书由证书颁发机构颁发。
 cert-error-mitm-mozilla = { -brand-short-name } 由非营利的 Mozilla 提供支持。Mozilla 管理一组完全开放的证书颁发机构（CA）存储库。该存储库帮助确保这些证书颁发机构遵循最佳实践，以保障用户的安全。
-cert-error-mitm-connection = { -brand-short-name } 使用 Mozilla 的证书授权机构存储库来验证连接是否安全，而非使用用户操作系统所提供的证书库。因此，如果您的防病毒软件或网络使用不在 Mozilla 证书授权机构存储库中的机构所颁发的安全性证书来拦截网络流量，该连接会被视为不安全。
+cert-error-mitm-connection = { -brand-short-name } 使用 Mozilla 的证书颁发机构存储库来验证连接是否安全，而非使用用户操作系统所提供的证书库。因此，如果您的防病毒软件或网络使用不在 Mozilla 证书颁发机构存储库中的机构所颁发的安全性证书来拦截网络流量，该连接会被视为不安全。
 cert-error-trust-unknown-issuer-intro = 可能有人试图冒充该网站，您不应该继续访问。
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -85,7 +85,7 @@ fp-certerror-revoked-what-can-you-do-body = 这很可能是网站自身存在问
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
-fp-certerror-bad-domain-why-dangerous-body = 此网站已被设置为仅允许安全连接，但其证书存在问题，可能有恶意人士正试图冒充此网站。各个网站通过证书授权机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，它使用的证书对 { $hostname } 无效。此证书仅对以下网站有效：{ $validHosts }
+fp-certerror-bad-domain-why-dangerous-body = 此网站已被设置为仅允许安全连接，但其证书存在问题，可能有恶意人士正试图冒充此网站。各个网站通过证书颁发机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，它使用的证书对 { $hostname } 无效。此证书仅对以下网站有效：{ $validHosts }
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = 这很可能是网站自身存在问题，无法通过您的操作解决。各个网站通过证书颁发机构颁发的证书证明自己声称的身份。但如果您使用的是企业网络，则您的支持团队可能可以提供更多信息。如果您使用了反病毒软件，请尝试搜索可能存在的冲突和已知问题。
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
@@ -164,7 +164,7 @@ cert-error-path-len-constraint-invalid = { -brand-short-name } 已拦截您对�
 cert-error-invalid-key = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书存在无效密钥。这很可能是因为密钥长度过短，无法确保安全。
 cert-error-unknown-critical-extension = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书包含不受支持的关键扩展。
 cert-error-extension-value-invalid = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书包含无效扩展。
-cert-error-untrusted-issuer = { -brand-short-name } 已拦截您对该网站的访问，因为颁发提供给 { $hostname } 的证书的证书授权机构已不再受信任。
+cert-error-untrusted-issuer = { -brand-short-name } 已拦截您对该网站的访问，因为颁发提供给 { $hostname } 的证书的证书颁发机构已不再受信任。
 cert-error-untrusted-cert = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书已被标记为不可信。
 cert-error-invalid-integer-encoding = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书包含无效的整数编码。造成此情况的常见因素包括：负值序列号、负 RSA 模数，以及冗余整数编码。
 cert-error-unsupported-keyalg = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书存在不受支持的密钥类型。

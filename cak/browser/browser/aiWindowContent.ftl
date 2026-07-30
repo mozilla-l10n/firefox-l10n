@@ -65,3 +65,14 @@ action-log-searching-web-with-exa = Nikanöx pan ajk'am rik'in <a data-l10n-name
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Xkanöx pan ajk'am rik'in <a data-l10n-name="exa-link">Exa</a>
+action-log-checking-memories = Yenik'öx taq natab'äl
+action-log-checked-memories = Xenik'ox taq natab'äl
+action-log-searching-settings = Yenik'öx taq nuk'ulem
+action-log-searched-settings = Xenik'öx taq nuk'ub'äl
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } ch'aqa'
