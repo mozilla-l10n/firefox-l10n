@@ -155,8 +155,8 @@ appmenu-account-header = Účet
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
-appmenu-fxa-last-sync = Posledná synchronizácia { $time }
-    .label = Posledná synchronizácia { $time }
+appmenu-fxa-last-sync = Naposledy { $time }
+    .label = Naposledy { $time }
 appmenu-fxa-sync-and-save-data2 = Synchronizovať a uložiť údaje
 appmenu-fxa-signed-in-label = Prihlásiť sa
 appmenu-fxa-setup-sync =
