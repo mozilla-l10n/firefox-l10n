@@ -245,6 +245,8 @@ firefoxview-choose-browser-button = Eiporavo kundahára
 
 firefoxview-dont-remember-history-empty-header-2 = Reikuaa mba’etérehepa nemandu’a { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = Ko’ág̃a rupi, { -brand-short-name } hesarái ñeikundahágui. Emoambue hag̃ua, <a data-l10n-name="history-settings-url-two">embohekopyahu tembiasakue ñemboheko</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Kundaha rembiasakue oguétama
 
 ##
 
