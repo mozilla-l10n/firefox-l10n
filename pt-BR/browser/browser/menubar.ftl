@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Configurações…
 menu-application-set-as-default =
     .label = Definir o { -brand-shorter-name } como navegador padrão
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Compartilhar o { -brand-shorter-name }
 menu-application-services =
     .label = Serviços
 menu-application-hide-this =
@@ -374,3 +378,7 @@ menu-help-not-deceptive =
     .accesskey = E
 menu-report-broken-site =
     .label = Relatar site com problemas
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Compartilhar o { -brand-shorter-name }
