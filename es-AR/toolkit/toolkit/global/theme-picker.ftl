@@ -28,9 +28,15 @@ theme-picker-spark =
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame =
     .label = Llama
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare =
+    .label = Destello
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender =
     .label = Lavanda
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk =
+    .label = Atardecer
 # Name for a medium blue theme. Refers to a sheltered body of water.
 theme-picker-lagoon =
     .label = Laguna
@@ -67,9 +73,15 @@ theme-picker-spark-aria-label =
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame-aria-label =
     .aria-label = Llama
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare-aria-label =
+    .aria-label = Destello
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender-aria-label =
     .aria-label = Lavanda
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk-aria-label =
+    .aria-label = Atardecer
 # Name for a medium blue theme. Refers to a sheltered body of water.
 theme-picker-lagoon-aria-label =
     .aria-label = Laguna
