@@ -22,9 +22,18 @@ theme-picker-default =
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun =
     .label = Zonnig
+# Name for a warm orange theme. Refers to a small burst of fire.
+theme-picker-spark =
+    .label = Fonkelend
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame =
+    .label = Vlammend
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender =
     .label = Lavendel
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk =
+    .label = Schemering
 # Name for a medium blue theme. Refers to a sheltered body of water.
 theme-picker-lagoon =
     .label = Lagune
@@ -55,9 +64,18 @@ theme-picker-default-aria-label =
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun-aria-label =
     .aria-label = Zonnig
+# Name for a warm orange theme. Refers to a small burst of fire.
+theme-picker-spark-aria-label =
+    .aria-label = Fonkelend
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame-aria-label =
+    .aria-label = Vlammend
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender-aria-label =
     .aria-label = Lavendel
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk-aria-label =
+    .aria-label = Schemering
 # Name for a medium blue theme. Refers to a sheltered body of water.
 theme-picker-lagoon-aria-label =
     .aria-label = Lagune

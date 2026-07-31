@@ -38,6 +38,8 @@ home-homepage-new-tabs =
 
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Търсене
 home-prefs-stories-header2 =
     .label = Истории
     .description = Изключително съдържание, подбрано от семейството на  { -brand-product-name }

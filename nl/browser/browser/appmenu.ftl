@@ -404,6 +404,7 @@ fxa-menu-create-profile-learn-more =
     .label = Wat zijn profielen?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = { -brand-short-name } delen
+appmenuitem-share-firefox-description = Nodig iemand uit om de browser te kiezen die privacy voorop stelt
 appmenu-profiles-2 =
     .label = Profielen
 appmenu-profiles-header = Profielen
