@@ -17,6 +17,33 @@ theme-picker-mode-device = Device
 # color word; translate the sense of "standard."
 theme-picker-default =
     .label = Standard
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+theme-picker-sun =
+    .label = Sol
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame =
+    .label = Flamme
+# Name for a soft purple theme. Refers to the lavender flower.
+theme-picker-lavender =
+    .label = Lavendel
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk =
+    .label = Skumring
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon =
+    .label = Lagune
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine =
+    .label = Furu
+# Name for a soft teal theme. Refers to ocean tides.
+theme-picker-tide =
+    .label = Tidvatn
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+theme-picker-ash =
+    .label = Oske
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+theme-picker-smoke =
+    .label = Røyk
 
 ## Theme aria-labels (for when labels are hidden)
 ## These are short, evocative names for color themes in Firefox. Each name
@@ -29,3 +56,30 @@ theme-picker-default =
 # color word; translate the sense of "standard."
 theme-picker-default-aria-label =
     .aria-label = Standard
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+theme-picker-sun-aria-label =
+    .aria-label = Sol
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame-aria-label =
+    .aria-label = Flamme
+# Name for a soft purple theme. Refers to the lavender flower.
+theme-picker-lavender-aria-label =
+    .aria-label = Lavendel
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk-aria-label =
+    .aria-label = Skumring
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon-aria-label =
+    .aria-label = Lagune
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine-aria-label =
+    .aria-label = Furu
+# Name for a soft teal theme. Refers to ocean tides.
+theme-picker-tide-aria-label =
+    .aria-label = Tidvatn
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+theme-picker-ash-aria-label =
+    .aria-label = Oske
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+theme-picker-smoke-aria-label =
+    .aria-label = Røyk
