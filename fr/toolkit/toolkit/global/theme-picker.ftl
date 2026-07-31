@@ -21,13 +21,13 @@ theme-picker-default =
     .label = Par défaut
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun =
-    .label = Dim
+    .label = Soleil
 # Name for a warm orange theme. Refers to a small burst of fire.
 theme-picker-spark =
-    .label = Spark
+    .label = Étincelle
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame =
-    .label = flamme
+    .label = Flamme
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare =
     .label = Fusée
@@ -45,10 +45,10 @@ theme-picker-pine =
     .label = Pin
 # Name for a soft teal theme. Refers to ocean tides.
 theme-picker-tide =
-    .label = Marée
+    .label = Vague
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 theme-picker-ash =
-    .label = Ash
+    .label = Cendre
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 theme-picker-smoke =
     .label = Fumée
@@ -66,13 +66,13 @@ theme-picker-default-aria-label =
     .aria-label = Par défaut
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun-aria-label =
-    .aria-label = Dim
+    .aria-label = Soleil
 # Name for a warm orange theme. Refers to a small burst of fire.
 theme-picker-spark-aria-label =
-    .aria-label = Spark
+    .aria-label = Étincelle
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame-aria-label =
-    .aria-label = flamme
+    .aria-label = Flamme
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare-aria-label =
     .aria-label = Fusée
@@ -90,10 +90,10 @@ theme-picker-pine-aria-label =
     .aria-label = Pin
 # Name for a soft teal theme. Refers to ocean tides.
 theme-picker-tide-aria-label =
-    .aria-label = Marée
+    .aria-label = Vague
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 theme-picker-ash-aria-label =
-    .aria-label = Ash
+    .aria-label = Cendre
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 theme-picker-smoke-aria-label =
     .aria-label = Fumée
