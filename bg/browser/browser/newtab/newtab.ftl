@@ -36,6 +36,22 @@ home-homepage-new-tabs =
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-stories-header2 =
+    .label = Истории
+    .description = Изключително съдържание, подбрано от семейството на  { -brand-product-name }
+home-prefs-widgets-header =
+    .label = Приспособления
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Таймер
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Спорт
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Часовник
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -482,7 +498,7 @@ newtab-wallpaper-brown = Кафяво
 
 ## Abstract
 
-newtab-wallpaper-category-title-abstract = Абстрактно
+newtab-wallpaper-category-title-abstract = Абстрактни
 newtab-wallpaper-abstract-green = Зелени фигури
 newtab-wallpaper-abstract-blue = Сини фигури
 newtab-wallpaper-abstract-purple = Лилави фигури
