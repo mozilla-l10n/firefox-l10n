@@ -19,6 +19,12 @@ theme-picker-use-linux-theme =
 # color word; translate the sense of "standard."
 theme-picker-default =
     .label = Predefinite
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+theme-picker-sun =
+    .label = Sol
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+theme-picker-smoke =
+    .label = Fumo
 
 ## Theme aria-labels (for when labels are hidden)
 ## These are short, evocative names for color themes in Firefox. Each name
