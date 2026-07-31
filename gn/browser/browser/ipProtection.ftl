@@ -64,6 +64,9 @@ ipprotection-summer-promo-offramp-subscriber-title = VPN juajupyre ko’ag̃agua
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = Ereko nde VPN rendaite ojuajupyrévarõ
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Ejupive { -mozilla-vpn-brand-name } ndive
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Embojuruja VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Eiporu ypykuévarõ
