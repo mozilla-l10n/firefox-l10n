@@ -174,6 +174,10 @@ action-log-searched-web = Căutare pe web efectuată
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searching-web-with-exa = Căutare pe web cu <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Căutare pe web cu <a data-l10n-name="exa-link">Exa</a> realizată
 action-log-checking-memories = Verificare memorii
 action-log-checked-memories = Verificare memorii efectuată
 action-log-searching-settings = Căutare în setări
@@ -197,3 +201,10 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = Rezultatele căutării au fost încărcate în această filă. Se analizează…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = încă { $count }

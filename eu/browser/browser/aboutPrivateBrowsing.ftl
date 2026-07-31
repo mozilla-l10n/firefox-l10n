@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Nork ikus lezake nire jarduera halere?
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Zure nabigazio-historia ezabatu egingo da
+about-private-browsing-nova-info-subheader2 = Leiho pribatu guztiak ixtean, egindako bilaketak eta saio-hasierak ezabatuko ditugu. { -brand-short-name }(r)en integratutako babesak aktibo daude hemen ere, adibidez jarraipen-elementuen blokeoa.
 about-private-browsing-nova-info-subheader = Leiho hau ixtean, egindako bilaketak eta saio-hasierak ezabatuko ditugu. { -brand-short-name }(r)en integratutako babesak aktibo daude hemen ere, adibidez jarraipen-elementuen blokeoa.

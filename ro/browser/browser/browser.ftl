@@ -126,6 +126,17 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gestionează setările pentru ferestre pop-up și redirecționări către terți
     .accesskey = M
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Vezi informații despre site
+            [1] Vezi informații despre site (1 element de urmărire blocat)
+            [one] Vezi informații despre site ({ $count } element de urmărire blocat)
+            [few] Vezi informații despre site ({ $count } elemente de urmărire blocate)
+           *[other] Vezi informații despre site ({ $count } de elemente de urmărire blocate)
+        }
 
 ##
 
@@ -613,6 +624,8 @@ identity-description-passive-loaded-insecure2 = Acest site web are conținut car
 identity-description-passive-loaded-mixed2 = Deși { -brand-short-name } a blocat o parte din conținut, mai există conținut pe pagină care nu este sigur (cum ar fi imaginile).
 identity-description-active-loaded = Acest site web are conținut care nu este sigur (cum ar fi scripturile), iar conexiunea ta la acesta nu este privată.
 identity-description-active-loaded-insecure = Informațiile pe care le partajezi cu site-ul ar putea fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).
+identity-description-tls-key-logging-heading = Conexiunea ar putea să nu fie privată
+identity-description-tls-key-logging-message = O aplicație sau un serviciu ar putea vedea traficul criptat de pe acest site.
 identity-disable-mixed-content-blocking =
     .label = Dezactivează protecția deocamdată
     .accesskey = D
@@ -968,6 +981,13 @@ urlbar-result-explanation-bookmarked = Marcat pe { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Ultima vizită { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Ultima vizită { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1580,6 +1600,9 @@ private-browsing-indicator-label = Navigare privată
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Navigare privată
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informații navigare privată
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

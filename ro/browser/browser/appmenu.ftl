@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = Partajează { -brand-product-name }
 appmenuitem-more-tools =
     .label = Mai multe instrumente
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Ajutor și raportare
 appmenuitem-help =
     .label = Ajutor
 appmenuitem-exit2 =
@@ -304,6 +307,9 @@ appmenu-help-share-ideas =
     .accesskey = S
 appmenu-help-switch-device =
     .label = Trecerea la un dispozitiv nou
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Ajutor și raportare
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

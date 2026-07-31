@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Cine ar putea să-mi vadă în continuar
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Navigarea ta nu este înregistrată
+about-private-browsing-nova-info-subheader2 = Vom șterge toate căutările și autentificările când închizi toate ferestrele private. Protecțiile încorporate din { -brand-short-name } sunt și aici, cum ar fi blocarea elementelor de urmărire.
 about-private-browsing-nova-info-subheader = Vom șterge toate căutările și autentificările când închizi această fereastră. Protecțiile încorporate din { -brand-short-name } sunt și aici, cum ar fi blocarea elementelor de urmărire.
