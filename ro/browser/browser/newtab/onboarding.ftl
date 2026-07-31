@@ -634,3 +634,8 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Asistentul va rămâne î
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Folosește „Întreabă” pentru a-l deschide pe orice pagină. Modifică oricând opțiunea în <a data-l10n-name="settings">Setări</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Am înțeles
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Dacă te răzgândești, poți actualiza oricând setările implicite în <a data-l10n-name="settings">Setări</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Alege o temă
+onboarding-theme-picker-button-label = Salvează și continuă

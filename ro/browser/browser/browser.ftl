@@ -1603,6 +1603,8 @@ private-browsing-indicator-tooltip =
 # Tooltip for the private browsing indicator button that opens the info panel.
 private-browsing-indicator-button =
     .tooltiptext = Informații navigare privată
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Ești într-o fereastră privată
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1837,6 +1839,15 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Nesecurizat
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } element de urmărire blocat
+        [few] { $count } elemente de urmărire blocate
+       *[other] { $count } de elemente de urmărire blocate
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

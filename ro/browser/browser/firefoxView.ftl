@@ -44,10 +44,13 @@ firefoxview-tabpickup-synctabs-header = Pornește sincronizarea filelor
 firefoxview-tabpickup-synctabs-description = Permite { -brand-short-name } să partajeze file între dispozitive.
 firefoxview-tabpickup-synctabs-learn-how = Află cum
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizează filele deschise
+firefoxview-tabpickup-synctabs-primarybutton-2 = Pornește sincronizarea filelor
 firefoxview-syncedtabs-synctabs-header = Actualizează setările sincronizate
 firefoxview-syncedtabs-synctabs-description = Pentru a vedea file de pe alte dispozitive, va trebui să sincronizezi filele deschise.
+firefoxview-syncedtabs-synctabs-header-2 = Sincronizarea filelor este dezactivată
 firefoxview-syncedtabs-loading-header = Sincronizare în curs
 firefoxview-syncedtabs-loading-description = Când este gata, vei vedea orice file deschise de pe orice alt dispozitiv. Verifică din nou mai târziu.
+firefoxview-syncedtabs-loading-header-2 = Se preiau filele…
 firefoxview-tabpickup-fxa-admin-disabled-header = Organizația ta a dezactivat sincronizarea
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nu a putut sincroniza filele între dispozitive, deoarece administratorul tău a dezactivat sincronizarea.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nu a putut sincroniza filele între dispozitive, deoarece organizația ta a dezactivat sincronizarea.
@@ -222,6 +225,9 @@ firefoxview-choose-browser-button = Alege browserul
 
 firefoxview-dont-remember-history-empty-header-2 = Tu controlezi ce stochează { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = Acum, { -brand-short-name } nu îți reține activitatea de navigare. Ca să modifici, <a data-l10n-name="history-settings-url-two">actualizează-ți setările pentru istoric</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Navigarea ta nu este salvată
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } nu îți salvează istoricul momentan. Poți schimba oricând în <a data-l10n-name="history-settings-url-two">setări</a>.
 
 ##
 

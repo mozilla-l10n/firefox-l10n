@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Instellingen…
 menu-application-set-as-default =
     .label = { -brand-shorter-name } instellen als standaardbrowser
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = { -brand-shorter-name } delen
 menu-application-services =
     .label = Services
 menu-application-hide-this =
@@ -375,3 +379,7 @@ menu-help-not-deceptive =
     .accesskey = m
 menu-report-broken-site =
     .label = Niet-werkende website melden
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = { -brand-shorter-name } delen

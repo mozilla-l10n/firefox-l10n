@@ -763,6 +763,29 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Închide
 newtab-custom-settings = Gestionează mai multe setări
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Aspect
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Vezi mai multe teme
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Teme { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Temele tale
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Activează
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Dezactivează
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Instalează tema
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Explorează mai multe teme
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Imagini de fundal
