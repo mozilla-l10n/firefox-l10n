@@ -288,7 +288,7 @@ urlbar-tabtosearch-onboard = Seleccione este atajo de tecaldo para encontrar má
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = Marcadores
-urlbar-search-mode-tabs = Pestañasurlbar-web-notifications-blocked =
+urlbar-search-mode-tabs = Pestañas
 urlbar-search-mode-history = Historial
 urlbar-search-mode-actions = Acciones
 
