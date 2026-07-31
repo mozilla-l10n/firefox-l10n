@@ -404,6 +404,7 @@ fxa-menu-create-profile-learn-more =
     .label = Zer dira profilak?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Partekatu { -brand-short-name }
+appmenuitem-share-firefox-description = Gonbidatu norbait pribatutasuna lehenesten duen nabigatzailea aukeratzera
 appmenu-profiles-2 =
     .label = Profilak
 appmenu-profiles-header = Profilak
