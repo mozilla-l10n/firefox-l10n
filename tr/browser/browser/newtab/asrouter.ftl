@@ -494,3 +494,21 @@ nova-early-access-share-feedback-link = Görüş bildir
     .accesskey = G
 nova-early-access-infobar-primary-button = Anladım
     .accesskey = A
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Windows’ta her oturum açtığınızda { -brand-short-name } açılsın mı?
+launch-options-spotlight-title-session-restore = { -brand-short-name } yeniden başlatılınca oturumunuz yeniden açılsın mı?
+launch-options-spotlight-checkbox-launch-on-login = Başlangıçta { -brand-short-name } tarayıcısını aç
+launch-options-spotlight-checkbox-pin-to-taskbar = Görev çubuğuna sabitle
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Mevcut pencereleri ve sekmeleri yeniden aç
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Önceki pencereleri ve sekmeleri yeniden aç
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = { -brand-short-name } tarayıcısını kaydet ve kapat
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Kaydet ve devam et
