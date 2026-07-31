@@ -31,6 +31,10 @@ newtab-logo-and-wordmark =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Начална страница
+home-homepage-new-windows =
+    .label = Нови прозорци
 home-homepage-new-tabs =
     .label = Нов раздел
 
@@ -54,6 +58,8 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Часовник
+home-prefs-firefox-logo-header =
+    .label = Лого на { -brand-short-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -104,8 +110,19 @@ home-prefs-support-firefox-header-srd =
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Научете повече
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-8-cta = Научете повече
+
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Картинка на деня · Общомедия (Wikimedia Commons)
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Научете повече
 

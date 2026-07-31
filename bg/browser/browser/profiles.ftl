@@ -32,6 +32,8 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Промяна
 edit-profile-page-no-name = Озаглавете този профил, за да го намерите с лекота по-късно. Може да се преименува по всяко време.
 new-profile-page-learn-more = Научете повече
+profile-window-logo =
+    .alt = Лого на { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 

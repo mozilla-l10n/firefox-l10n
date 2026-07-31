@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Wa kin myn aktiviteit noch sjen?
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Jo aktiviteit wurdt net fêstlein
+about-private-browsing-nova-info-subheader2 = Wy wiskje elke sykopdracht en oanmelding as jo al jo priveefinster slute. De ynboude beskermingen fan { -brand-short-name } binne hjir ek oanwêzich, lykas it blokkearjen fan trackers.
 about-private-browsing-nova-info-subheader = Wy wiskje elke sykopdracht en oanmelding as jo dit finster slute. De ynboude beskermingen fan { -brand-short-name } binne hjir ek oanwêzich, lykas it blokkearjen fan trackers.
