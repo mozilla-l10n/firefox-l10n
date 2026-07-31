@@ -97,3 +97,4 @@ theme-picker-ash-aria-label =
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 theme-picker-smoke-aria-label =
     .aria-label = Fumo
+
