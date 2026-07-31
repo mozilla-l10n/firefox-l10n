@@ -7,3 +7,36 @@ theme-picker-mode-dark = Mørkt
 theme-picker-mode-device = Enhet
 theme-picker-use-linux-theme =
     .label = Bruk Linux-systemtema
+
+## Theme labels
+## These are short, evocative names for color themes in Firefox. Each name
+## suggests a color through nature or fire imagery rather than naming the color
+## directly. Where possible, choose a word that evokes the same imagery or color
+## association in the target language. If no equivalent exists, prioritize color
+## clarity. One word, 11 characters or fewer.
+
+# Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
+# color word; translate the sense of "standard."
+theme-picker-default =
+    .label = Standard
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+theme-picker-sun =
+    .label = Sol
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame =
+    .label = Flamme
+# Name for a soft purple theme. Refers to the lavender flower.
+theme-picker-lavender =
+    .label = Lavendel
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk =
+    .label = Skumring
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon =
+    .label = Lagune
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine =
+    .label = Furu
+# Name for a soft teal theme. Refers to ocean tides.
+theme-picker-tide =
+    .label = Tidevann

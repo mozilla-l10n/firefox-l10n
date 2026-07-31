@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = ¿Quién podría seguir viendo mi activi
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = El historial de navegación se borrará.
+about-private-browsing-nova-info-subheader2 = Borraremos todas las búsquedas e inicios de sesión al cerrar todas las ventanas privadas. Las protecciones integradas de { -brand-short-name } también están acá, como bloquear rastreadores.
 about-private-browsing-nova-info-subheader = Borraremos todas las búsquedas e inicios de sesión al cerrar esta ventana. Las protecciones integradas de { -brand-short-name } también están acá, como bloquear rastreadores.

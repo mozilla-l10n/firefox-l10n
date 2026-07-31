@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-theme-picker-mode-light = Clar
-theme-picker-mode-dark = Obscur
 theme-picker-mode-device = Dispositivo
+theme-picker-use-linux-theme =
+    .label = Usar thema del systema Linux
 
 ## Theme labels
 ## These are short, evocative names for color themes in Firefox. Each name
@@ -17,15 +17,6 @@ theme-picker-mode-device = Dispositivo
 # color word; translate the sense of "standard."
 theme-picker-default =
     .label = Predefinite
-# Name for a warm yellow-gold theme. Refers to the color of sunlight.
-theme-picker-sun =
-    .label = dom
-# Name for a soft purple theme. Refers to the lavender flower.
-theme-picker-lavender =
-    .label = Lavanda
-# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
-theme-picker-smoke =
-    .label = Fumo
 
 ## Theme aria-labels (for when labels are hidden)
 ## These are short, evocative names for color themes in Firefox. Each name
@@ -38,6 +29,3 @@ theme-picker-smoke =
 # color word; translate the sense of "standard."
 theme-picker-default-aria-label =
     .aria-label = Predefinite
-# Name for a warm yellow-gold theme. Refers to the color of sunlight.
-theme-picker-sun-aria-label =
-    .aria-label = dom
