@@ -44,6 +44,7 @@ aiwindow-input-cta-submit-label-search = Ҷустуҷӯ
 aiwindow-input-cta-submit-label-stop = Истодан
 aiwindow-input-cta-menu-label-chat = Пурсидан
 aiwindow-input-cta-menu-label-navigate = Ба сомона гузаред
+aiwindow-input-cta-menu-label-search-with = Ҷустуҷӯ тавассути…
 aiwindow-input-cta-search-submenu-header = Ҷустуҷӯ
 
 ## Website Chip

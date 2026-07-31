@@ -67,5 +67,13 @@ smart-window-confirm-group-tab = Гурӯҳ
 
 ## Action log
 
+action-log-reading-page = Хониши саҳифа
 action-log-searching-settings = Ҷустуҷӯ дар танзимот
 action-log-searched-settings = Ҷустуҷӯ дар танзимот иҷро шуд
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = боз +{ $count } дигар

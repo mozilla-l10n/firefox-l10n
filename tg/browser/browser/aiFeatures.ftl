@@ -39,6 +39,17 @@ smart-window-model-learn-link = Маълумоти бештар дар бора�
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .label = Зудамал: Ҷавобҳои зудро пешниҳод мекунад
+    .description = Модели «{ $model }» аз ҷониби «{ $ownerName }»
+smart-window-model-flexible =
+    .label = Чандир: Мутобиқати устувор барои аксари ниёзҳо
+    .description = Модели «{ $model }» аз ҷониби «{ $ownerName }»
+smart-window-model-personal =
+    .label = Шахсӣ: Ҷавобҳои аз ҳама мувофиқтар
+    .description = Модели «{ $model }» аз ҷониби «{ $ownerName }»
+smart-window-model-custom =
+    .label = Фармоишӣ: Аз «LLM»-и худ истифода баред
 smart-window-model-custom-name =
     .label = Номи модел
     .placeholder = Барои мисол: glm4
