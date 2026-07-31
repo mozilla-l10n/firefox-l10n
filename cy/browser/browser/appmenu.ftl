@@ -294,6 +294,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Ynghylch { -brand-shorter-name }
     .accesskey = n
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Rhannu { -brand-shorter-name }
+    .accesskey = R
 appmenu-get-help =
     .label = Derbyn cymorth
     .accesskey = D
@@ -397,6 +402,9 @@ fxa-menu-create-profile-confirm =
     .label = Creu Proffil Newydd
 fxa-menu-create-profile-learn-more =
     .label = Beth yw Proffiliau?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Rhannu { -brand-short-name }
+appmenuitem-share-firefox-description = Gwahoddwch rywun i ddewis y porwr sy'n blaenoriaethu preifatrwydd
 appmenu-profiles-2 =
     .label = Proffiliau
 appmenu-profiles-header = Proffiliau

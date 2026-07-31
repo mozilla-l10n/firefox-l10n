@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Gosodiadau…
 menu-application-set-as-default =
     .label = Gosod { -brand-shorter-name } fel eich Porwr Arferol
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Rhannu { -brand-shorter-name }
 menu-application-services =
     .label = Gwasanaethau
 menu-application-hide-this =
@@ -379,3 +383,7 @@ menu-help-not-deceptive =
     .accesskey = t
 menu-report-broken-site =
     .label = Adrodd am Wefan wedi Torri
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Rhannu { -brand-shorter-name }

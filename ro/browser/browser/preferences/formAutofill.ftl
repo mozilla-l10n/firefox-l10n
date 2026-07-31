@@ -192,6 +192,21 @@ autofill-passport-number =
 autofill-passport-issue-date = Data emiterii
 # Heading shown above the passport expiration date fields.
 autofill-passport-expiry-date = Data expirării
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = LL
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = ZZ
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = AAAA
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Salvezi pașaportul?
+passport-capture-save-doorhanger-description = Salvează informațiile în { -brand-short-name } pentru a putea completa rapid formulare.
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
