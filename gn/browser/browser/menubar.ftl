@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Ñemboheko…
 menu-application-set-as-default =
     .label = Ajapo { -brand-shorter-name }-gui kundahára ypygua
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Emoherakuã { -brand-shorter-name }
 menu-application-services =
     .label = Mba’epytyvõrã
 menu-application-hide-this =
@@ -375,3 +379,7 @@ menu-help-not-deceptive =
     .accesskey = d
 menu-report-broken-site =
     .label = Emombe’u tenda vai
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Emoherakuã { -brand-shorter-name }
