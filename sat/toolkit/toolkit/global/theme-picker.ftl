@@ -28,3 +28,24 @@ theme-picker-spark =
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame =
     .label = ᱥᱮᱸᱜᱮᱞ
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare =
+    .label = ᱯᱷᱞᱮᱨ
+# Name for a soft purple theme. Refers to the lavender flower.
+theme-picker-lavender =
+    .label = ᱞᱟᱣᱮᱱᱰᱟᱨ
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk =
+    .label = ᱰᱚᱥᱠ
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon =
+    .label = ᱞᱟᱹᱜᱩᱱ
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine =
+    .label = ᱯᱟᱭᱤᱱ
+# Name for a soft teal theme. Refers to ocean tides.
+theme-picker-tide =
+    .label = ᱴᱟᱭᱤᱰ
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+theme-picker-ash =
+    .label = ᱟᱝᱜᱽᱨᱟ
