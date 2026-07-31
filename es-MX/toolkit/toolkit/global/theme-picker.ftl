@@ -37,12 +37,18 @@ theme-picker-dusk =
 # Name for a medium blue theme. Refers to a sheltered body of water.
 theme-picker-lagoon =
     .label = Laguna
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine =
+    .label = Pino
 # Name for a soft teal theme. Refers to ocean tides.
 theme-picker-tide =
     .label = Marea
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 theme-picker-ash =
     .label = Ceniza
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+theme-picker-smoke =
+    .label = Humo
 
 ## Theme aria-labels (for when labels are hidden)
 ## These are short, evocative names for color themes in Firefox. Each name
