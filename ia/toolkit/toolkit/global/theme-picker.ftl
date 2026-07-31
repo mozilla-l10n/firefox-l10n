@@ -22,6 +22,33 @@ theme-picker-default =
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun =
     .label = Sol
+# Name for a warm orange theme. Refers to a small burst of fire.
+theme-picker-spark =
+    .label = Scintilla
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame =
+    .label = Flamma
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare =
+    .label = Fulgor
+# Name for a soft purple theme. Refers to the lavender flower.
+theme-picker-lavender =
+    .label = Lavanda
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk =
+    .label = Crepusculo
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon =
+    .label = Laguna
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine =
+    .label = Pino
+# Name for a soft teal theme. Refers to ocean tides.
+theme-picker-tide =
+    .label = Marea
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+theme-picker-ash =
+    .label = Cinere
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 theme-picker-smoke =
     .label = Fumo
