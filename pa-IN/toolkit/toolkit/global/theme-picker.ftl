@@ -70,3 +70,6 @@ theme-picker-dusk-aria-label =
 # Name for a soft teal theme. Refers to ocean tides.
 theme-picker-tide-aria-label =
     .aria-label = ਸਮੁੰਦਰੀ ਲਹਿਰ
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+theme-picker-smoke-aria-label =
+    .aria-label = ਧੂੰਆਂ

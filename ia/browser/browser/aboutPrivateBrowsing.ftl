@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Qui pote ancora vider mi activitate?
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Tu navigation non sera registrate
+about-private-browsing-nova-info-subheader2 = Nos cancellara cata recerca e accesso al clausura de tote tu Fenestras private. Protectiones integrate de { -brand-short-name } es ancora active ci, como le blocada de traciatores.
 about-private-browsing-nova-info-subheader = Nos cancellara cata recerca e accesso quando tu claudera iste fenestra. Le protectiones integrate de { -brand-short-name }, como le blocada del traciatores, es ancota attive ci.
