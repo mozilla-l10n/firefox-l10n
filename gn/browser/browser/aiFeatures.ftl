@@ -92,3 +92,15 @@ ai-window-delete-all-memories-cancel = Eheja
 ai-window-memory-delete-button =
     .title = Embogue mandu’arã
     .aria-label = Embogue { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Pya’e
+    .description = Oiko mbohovái pya’erã pe pya’ekue tekotevẽrõ. Heraite: { $model } { $ownerName } rehe.
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Pepykuaáva
+    .description = Oiko tembiaporãitápe g̃uarã. Heraite: { $model } { $ownerName } rehe
