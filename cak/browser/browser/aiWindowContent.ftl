@@ -13,6 +13,15 @@ smartwindow-signin-btn = Titikirisäx molojri'ïl
 ## Assistant Message footer
 
 aiwindow-memories-learn-more = Tetamäx ch'aqa' chik
+aiwindow-retry =
+    .aria-label = Titojtob'ëx chik
+    .tooltiptext = Titojtob'ëx chik
+aiwindow-copy-message =
+    .aria-label = Tiwachib'ëx rutzijol
+    .tooltiptext = Tiwachib'ëx
+aiwindow-copy-table =
+    .aria-label = Tiwachib'ëx kajtz'ik
+    .tooltiptext = Tiwachib'ëx kajtz'ik
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
