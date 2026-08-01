@@ -489,3 +489,7 @@ plugins-widevine-description = Тази приставка позволява в
 ## feature is enabled.
 
 addon-data-collection-learnmore = Научете повече за събирането на данни
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+mlmodel-pdfjs = { -brand-short-name } използва това, за да създава заместващ текст за изображенията, които добавяте към PDF файлове

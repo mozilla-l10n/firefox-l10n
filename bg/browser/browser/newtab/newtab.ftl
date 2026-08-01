@@ -475,6 +475,7 @@ newtab-wallpaper-title = Тапети
 newtab-wallpaper-reset = Връщане на стандартни настройки
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Качване на изображение
+newtab-wallpaper-add-an-image = Добавяне...
 newtab-wallpaper-custom-color = Изберете цвят
 newtab-wallpaper-toggle-title =
     .label = Тапети
@@ -546,7 +547,7 @@ feature-highlight-wallpaper =
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
 # or outer space as observed in astronomy.
 # Not to be confused with religious definition of the word.
-newtab-wallpaper-category-title-celestial = Небесен
+newtab-wallpaper-category-title-celestial = Небесни
 newtab-wallpaper-celestial-lunar-eclipse = Лунно затъмнение
 
 ## New Tab Weather
