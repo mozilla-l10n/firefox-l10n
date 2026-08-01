@@ -80,6 +80,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Incarca sa tecla noa:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (non si podet cambiare)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,7 @@ customkeys-conflict-confirm-body = Custa crae est giai impreada dae «{ $conflic
 customkeys-conflict-confirm-button-confirm = Imprea·dda su pròpiu
 customkeys-conflict-confirm-button-cancel = Annulla
 customkeys-reset-all-confirm-title = Boles recuperare is cunfiguratziones predefinidas?
+customkeys-reset-all-confirm-button-confirm = Recupera sa cunfiguratzione predefinida
 customkeys-reset-all-confirm-button-cancel = Annulla
 
 ## Sidebar
