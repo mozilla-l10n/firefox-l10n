@@ -10,6 +10,24 @@ appmenuitem-new-ai-window =
     .value = K'ak'a' { -smart-window-brand-name }
 menu-file-new-ai-window =
     .label = K'ak'a' { -smart-window-brand-name }
+menu-history-chats =
+    .label = Taq chat
+menu-history-chats-recent =
+    .label = K'ak'a' taq chat
+smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = K'ak'a' Ruwi'
+
+## Smart Window Toggle Button
+
+ai-window-toggleview-switch-classic =
+    .label = Ojer Oksäq
+    .value = Ojer Oksäq
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Tik'utüx toq okinäq
+    .value = Tik'utüx toq okinäq
 
 ## Smartbar
 
