@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = یک رسۊوی { -brand-product-name }
 appmenuitem-more-tools =
     .label = ٱوزارا قلوه
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = هیاری وو گوزارش کردن
 appmenuitem-help =
     .label = هیاری
 appmenuitem-exit2 =
@@ -291,6 +294,11 @@ appmenu-help-header =
 appmenu-about =
     .label = زبار { -brand-shorter-name }
     .accesskey = A
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = یک رسۊوی { -brand-shorter-name }
+    .accesskey = r
 appmenu-get-help =
     .label = گرؽڌن هیاری
     .accesskey = h
@@ -304,6 +312,9 @@ appmenu-help-share-ideas =
     .accesskey = S
 appmenu-help-switch-device =
     .label = هونی جا گورو ابۊ و ی دسگا نۊ
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = هیاری وو گوزارش کردن
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -391,6 +402,8 @@ fxa-menu-create-profile-confirm =
     .label = وورکل پوروفایل نۊ
 fxa-menu-create-profile-learn-more =
     .label = پوروفایل چنه؟
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = یک رسۊوی { -brand-short-name }
 appmenu-profiles-2 =
     .label = پوروفایلا
 appmenu-profiles-header = پوروفایلا

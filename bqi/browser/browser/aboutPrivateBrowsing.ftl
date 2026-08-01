@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = کؽ گاشڌ ترسته بۊ هنی ف�
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = ایسا ز هالت زفت و در زیڌین
+about-private-browsing-nova-info-subheader2 = هر سا پوی نیمدریا سیخومی ن بووندین، هر پیتینیڌن وو و من ٱووڌن و سیستومی ن پاک اکۊنیم. زفت وابیڌنا منی { -brand-short-name } ایچونا فعال هڌن، جۊر مسدۊد کردن رڌجۊرا.
 about-private-browsing-nova-info-subheader = هر سا ای نیمدری ن بووندین، هر پیتینیڌن وو و من ٱووڌن و سیستومی ن پاک اکۊنیم. زفت وابیڌنا منی { -brand-short-name } ایچونا فعال هڌن، جۊر مسدۊد کردن رڌجۊرا.

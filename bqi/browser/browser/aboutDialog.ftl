@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = سبت منشڌ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ی <label data-l10n-name="community-exp-creditsLink">یکاگری جهۊوی</label> هڌ ک سی وب واز، پوی وولاتی وو من دسرس سی پوی کار اکونه.
 community-2 = { -brand-short-name } و دست <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> تراهی وابیڌه ک <label data-l10n-name="community-creditsLink">یکاگری جهۊوی</label> ز آڌومیلی هڌ ک سی وب واز، پوی وولاتی وو من دسرس سی پوی کار اکونن.
 helpus = اخۊین هیاری کۊنین؟ <label data-l10n-name="helpus-donateLink">هیاری نقدی</label> یا <label data-l10n-name="helpus-getInvolvedLink">بنین پا مشارکت!</label>
+helpus-referrals = اخۊین هیاری بڌین؟ <label data-l10n-name="helpus-donateLink">هیاری مالی بڌین</label>, <label data-l10n-name="helpus-shareFirefoxLink">{ -brand-short-name } ن یک رسۊوی کۊنین</label>یا، <label data-l10n-name="helpus-getInvolvedLink">موشارکت کۊنین!</label>
 bottomLinks-license = دووسمندیا موجوز
 bottom-links-terms = شرتا و کار گرؽڌن
 bottom-links-privacy = نوکات زفت مهرمووه ای
