@@ -43,6 +43,9 @@ theme-picker-lagoon =
 # Name for a green theme. Refers to pine trees.
 theme-picker-pine =
     .label = אורן
+# Name for a soft teal theme. Refers to ocean tides.
+theme-picker-tide =
+    .label = גאות ושפל
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 theme-picker-ash =
     .label = אפר
@@ -85,6 +88,9 @@ theme-picker-lagoon-aria-label =
 # Name for a green theme. Refers to pine trees.
 theme-picker-pine-aria-label =
     .aria-label = אורן
+# Name for a soft teal theme. Refers to ocean tides.
+theme-picker-tide-aria-label =
+    .aria-label = גאות ושפל
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 theme-picker-ash-aria-label =
     .aria-label = אפר
