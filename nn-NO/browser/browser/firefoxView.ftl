@@ -77,6 +77,7 @@ firefoxview-tabpickup-signed-out-description = For å kople til på nytt og få 
 firefoxview-tabpickup-signed-out-description2 = For å kople til på nytt og få tak i fanene dine, logg in på kontoen din.
 firefoxview-tabpickup-signed-out-primarybutton = Logg inn
 firefoxview-tabpickup-signed-out-header-2 = Logg inn for å sjå fanene dine
+firefoxview-tabpickup-signed-out-description-2 = Kople til på nytt for å sjå faner frå andre einingar.
 firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tek berre ein augneblink.
 firefoxview-mobile-promo-header = Opne faner frå telefonen eller nettbrettet
 firefoxview-mobile-promo-description = For å sjå dei siste mobilfanene dine, logg på { -brand-product-name } på iOS eller Android.
@@ -218,6 +219,9 @@ firefoxview-show-all-history = Vis all historikk
 firefoxview-history-empty-header = Gå tilbake til der du allereie har vore
 firefoxview-history-empty-description = Mens du surfar, vil sidene du besøkjer bli oppførte her.
 firefoxview-history-empty-description-two = Vern av personvernet ditt er kjernen i det vi gjer. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } hugsar, i <a data-l10n-name="history-settings-url">innstillingane for historikk</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Her byrjar surfespora dine
 
 ##
 

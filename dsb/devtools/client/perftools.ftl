@@ -175,6 +175,7 @@ perftools-presets-ml-description2 = Pśednastajenje za wuslěźenje zmólkow ma�
 perftools-presets-networking-label = Seś
 perftools-presets-networking-description = Pśednastajenje za wuslěźenje seśowych zmólkow w { -brand-shorter-name }.
 perftools-presets-networking-with-logs-label = Seśowe zwězki z protokolami
+perftools-presets-networking-with-logs-description = Pśednastajenje za pśeslěźowanje seśowych zmólkow w { -brand-shorter-name }, mjazy nimi seśowe protokole. Toś te protokole sensibelne informacije wopśimuju, na pśikład URL, kótarež se woglědujośo.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energija
 perftools-presets-power-description = Pśednastajenje za wuslěźenje zmólkow wužywanja energije w { -brand-shorter-name }, z niskeju pótrjebu.

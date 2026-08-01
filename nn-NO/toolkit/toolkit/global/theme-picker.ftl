@@ -22,9 +22,15 @@ theme-picker-default =
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun =
     .label = Sol
+# Name for a warm orange theme. Refers to a small burst of fire.
+theme-picker-spark =
+    .label = Gnist
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame =
     .label = Flamme
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare =
+    .label = Lysglimt
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender =
     .label = Lavendel
@@ -61,9 +67,15 @@ theme-picker-default-aria-label =
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun-aria-label =
     .aria-label = Sol
+# Name for a warm orange theme. Refers to a small burst of fire.
+theme-picker-spark-aria-label =
+    .aria-label = Gnist
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame-aria-label =
     .aria-label = Flamme
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare-aria-label =
+    .aria-label = Lysglimt
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender-aria-label =
     .aria-label = Lavendel

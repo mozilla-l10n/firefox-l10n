@@ -637,4 +637,5 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Om du ombestemmer deg,
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Vel eit tema
+onboarding-theme-picker-subtitle = Gje { -brand-short-name } litt meir farge.
 onboarding-theme-picker-button-label = Lagre og hald fram

@@ -1620,6 +1620,9 @@ private-browsing-indicator-button =
     .tooltiptext = Informacije priwatnego modusa
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Sćo w priwatnem woknje
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = To pomaga, waše pśeglědowanje pśed drugimi na toś tom rěźe schowaś, ale njecyni was online njewidobny. <a data-l10n-name="learn-more">Chto mógł móju aktiwitu wiźeś?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

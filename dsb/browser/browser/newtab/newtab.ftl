@@ -214,6 +214,7 @@ newtab-privacy-empty = { -brand-short-name } pśeslědowaki blokěrujo, gaž pś
 
 newtab-privacy-message-info-1 = { -brand-short-name } pśeslědowaki awtomatiski blokěrujo, gaž pśeglědujośo.
 newtab-privacy-message-info-1-cta = Šćity pokazaś
+newtab-privacy-message-info-2 = Blokěrowanje pśeslědowakow tomu zajźujo, až pśedewześa wam online slěduju.
 newtab-privacy-message-info-2-cta = Šćity pokazaś
 newtab-privacy-message-info-3-cta = Šćity pokazaś
 newtab-privacy-message-info-4 = Gaž { -brand-short-name } wuběraśo, to groni, až pó standarźe šćit wuběraśo.

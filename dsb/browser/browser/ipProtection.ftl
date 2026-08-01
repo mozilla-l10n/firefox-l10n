@@ -58,6 +58,13 @@ ipprotection-feature-introduction-button-get-started = Prědne kšace
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Waše zatwarjone limity VPN se 1. septembra slědk stajiju
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Wužywajśo swóje { $maxUsage } GB a 6 stojnišćow za pśidatnu priwatnosć, aby slědowanje swójogo pśeglědowanja póśěžył.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Wužywajśo swóje { $maxUsage } GB a pśez 20 stojnišćow za pśidatnu priwatnosć, aby slědowanje swójogo pśeglědowanja póśežył.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
@@ -67,9 +74,11 @@ ipprotection-summer-promo-offramp-subscriber-description = Dostawaśo něnto nje
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = Wobchowajśo swóje pśidatne zatwarjone stojnišća VPN
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Cyńśo { -brand-product-name } k swójomu standardnemu wobglědowakoju a dostańśo pśez 20 pśidatnych stojnišćow, aby pó 31. awgusće pśeglědował.
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Pówušćo niwow z { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Wobchowajśo njewobgranicowanu šyrokosć pasma pó 31. awgusće, z pśez 300 stojnišćami na 5 rědach, aby slědowanje wašogo pśeglědowanja póśěžył.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN wócyniś
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Ako standard wužywaś
