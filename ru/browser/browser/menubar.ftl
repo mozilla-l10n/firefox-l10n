@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Настройки…
 menu-application-set-as-default =
     .label = Установите { -brand-shorter-name } своим браузером по умолчанию
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Поделитесь { -brand-shorter-name }
 menu-application-services =
     .label = Службы
 menu-application-hide-this =
@@ -376,3 +380,7 @@ menu-help-not-deceptive =
     .accesskey = п
 menu-report-broken-site =
     .label = Сообщить о сломанном сайте
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Поделитесь { -brand-shorter-name }

@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Кто ещё может видеть м
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Вас не записывают
+about-private-browsing-nova-info-subheader2 = Мы удалим все поисковые запросы и входы, когда вы закроете все ваши приватные окна. Встроенная защита { -brand-short-name } тоже включена, например, блокировка трекеров.
 about-private-browsing-nova-info-subheader = Мы удалим все поисковые запросы и входы, когда вы закроете это окно. Встроенная защита { -brand-short-name } тоже включена, например, блокировка трекеров.

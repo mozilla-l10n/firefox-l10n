@@ -372,8 +372,8 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Варианты изображения дня
-    .aria-label = Варианты изображения дня
+    .title = Настройки изображения дня
+    .aria-label = Настройки изображения дня
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
