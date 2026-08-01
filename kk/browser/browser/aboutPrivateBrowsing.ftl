@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Менің әрекеттерімді т
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Сіз жазбадан тыссыз
+about-private-browsing-nova-info-subheader2 = Сіз барлық жекелік терезелерді жапқан кезде біз әрбір іздеу мен кіруді өшіреміз. { -brand-short-name } бағдарламасының трекерлерді блоктау сияқты кірістірілген қорғаулары да мұнда іске қосулы.
 about-private-browsing-nova-info-subheader = Бұл терезені жапқан кезде біз әрбір іздеу мен кіруді өшіреміз. { -brand-short-name } бағдарламасының трекерлерді блоктау сияқты кірістірілген қорғаулары да мұнда іске қосулы.

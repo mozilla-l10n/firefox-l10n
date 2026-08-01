@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Ai vẫn có thể xem được hoạt �
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Hạn chế tối đa tiết lộ thông tin của bạn
+about-private-browsing-nova-info-subheader2 = Chúng tôi sẽ xóa mọi tìm kiếm và đăng nhập khi bạn đóng tất cả các cửa sổ riêng tư. Các tính năng bảo vệ tích hợp của { -brand-short-name } cũng được bật ở đây, chẳng hạn như chặn trình theo dõi.
 about-private-browsing-nova-info-subheader = Chúng tôi sẽ xóa mọi tìm kiếm và thông tin đăng nhập khi bạn đóng cửa sổ này. Các tính năng bảo vệ tích hợp của { -brand-short-name } cũng được bật ở đây, chẳng hạn như chặn trình theo dõi.

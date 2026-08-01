@@ -294,6 +294,11 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } туралы
     .accesskey = а
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = { -brand-shorter-name } бөлісу
+    .accesskey = л
 appmenu-get-help =
     .label = Көмек алу
     .accesskey = м
@@ -397,6 +402,9 @@ fxa-menu-create-profile-confirm =
     .label = Жаңа профильді жасау
 fxa-menu-create-profile-learn-more =
     .label = Профильдер дегеніміз не?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = { -brand-short-name } бөлісу
+appmenuitem-share-firefox-description = Жекелікті бірінші орынға қоятын браузерді таңдауға біреуді шақырыңыз
 appmenu-profiles-2 =
     .label = Профильдер
 appmenu-profiles-header = Профильдер
