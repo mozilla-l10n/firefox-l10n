@@ -36,10 +36,14 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gràtzias
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = No, gràtzias
+ipprotection-feature-introduction-button-open-vpn = Aberi sa VPN
 ipprotection-feature-introduction-button-get-started = Cumintza
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Aberi sa VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Cunfigura comente predefinida
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Iscarta
 
 ## Site settings callout
@@ -97,6 +101,10 @@ ipprotection-recommended-location-badge = NOU
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Positzione: { $country }
+ipprotection-locations-subview =
+    .title = Sèbera sa positzione
+ipprotecion-locations-subview-recommended-label = Cussigiadu
+ipprotection-locations-subview-recommended-description = Agata sa positzione prus lestra
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = No a disponimentu
 
@@ -113,15 +121,43 @@ ipprotection-connection-status-network-error-title-1 = Controlla sa connessione 
 ipprotection-connection-status-blocked-error-title-1 = Sa VPN no est a disponimentu
     .aria-label = Sa VPN no est a disponimentu
 confirmation-hint-ipprotection-navigated-to-excluded-site = Sa VPN est disativada pro custu situ
+ipprotection-open-button = Aberi { -brand-product-name }
 ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a sa VPN
     .aria-label = Impossìbile connètere a sa VPN
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = VPN integrada pro megiorare sa riservadesa mentras nàvigas cun { -brand-short-name }.
+ip-protection-description-1 =
+    .label = VPN integrada
+    .description = Megiora sa riservadesa cuende sa positzione mentras nàvigas.
+ip-protection-learn-more = Àteras informatziones
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Proa sa VPN integrada de { -brand-short-name }
+    .message = Nàviga amparadu cuende sa positzione tua.
+ip-protection-not-opted-in-button = Cumintza
+ip-protection-autostart =
+    .label = Ativa sa VPN in automàticu
 ip-protection-autostart-private-checkbox =
     .label = In ventanas privadas
 
+## IP Protection dialogs
+
+ip-protection-exclusions-desc = Imprea sa VPN pro totu is sitos francu cussos de sa lista. Agiunghe unu situ inoghe o aberi sa VPN.
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Apo cumprèndidu
+
 ## IP Protection alerts
 
+vpn-paused-alert-title = Sa VPN est in pàusa
+vpn-error-page-keep-browsing = Sighi a navigare in custa sessione
+vpn-error-page-new-session = Incumintza una sessione noa
 vpn-paused-alert-close-tabs-button = Serra totu is ischedas
+vpn-paused-alert-continue-wo-vpn-button = Sighi sena VPN
 vpn-error-alert-body = Torra·nche a proare a pustis.

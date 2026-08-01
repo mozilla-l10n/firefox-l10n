@@ -203,6 +203,7 @@ migration-chrome-windows-password-import-step2 = Sèbera “Cunfiguratzione” d
 migration-chrome-windows-password-import-step3 = Sèbera “Iscàrriga s’archìviu” e sarva·ddu in su dispositivu tuo.
 migration-chrome-windows-password-import-step4 = Torra inoghe e “Seletziona s’archìviu” pro cumpletare s’importatzione.
 migration-manual-password-import-skip-button = Brinca
+migration-manual-password-import-cancel-button = Annulla
 migration-manual-password-import-select-button = Seletziona un’archìviu
 migration-safari-password-import-skip-button = Brinca
 migration-safari-password-import-select-button = Seletziona un’archìviu

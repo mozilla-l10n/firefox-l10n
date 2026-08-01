@@ -396,6 +396,11 @@ windows-10-eos-feature-toast-title = Is ischedas verticales e is grupos de ische
 windows-10-eos-feature-toast-whats-new-button = Bide is novidades
 windows-10-eos-feature-toast-dismiss-button = Iscarta
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-learn-more-link = Àteras informatziones
+    .accessKey = À
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -418,3 +423,14 @@ set-default-menu-message-row-layout-title-variant = Cunfigura { -brand-short-nam
 set-default-menu-message-row-layout-subtitle = Nàviga semper a sa lestra, cun seguresa e in manera privada.
 set-default-menu-message-primary-button = Cunfigura comente predefinidu
 set-default-menu-message-primary-button-variant = Cunfigura comente navigadore printzipale
+set-default-menu-message-primary-button-short-variant = Cunfigura { -brand-short-name } comente predefinidu
+
+## Firefox Relay 50 Masks Announcement
+
+relay-50-masks-announcement-secondary-button = Iscarta
+    .accesskey = I
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-primary-button = Apo cumprèndidu
+    .accesskey = C

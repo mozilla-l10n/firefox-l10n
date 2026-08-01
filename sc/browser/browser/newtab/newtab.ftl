@@ -34,6 +34,8 @@ newtab-card-dismiss-button =
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
 
+home-homepage-title =
+    .label = Pàgina printzipale
 home-homepage-new-windows =
     .label = Ventanas noas
 home-homepage-new-tabs =
@@ -44,6 +46,10 @@ home-homepage-new-tabs =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Indiritzos de sitos web
+home-custom-homepage-address =
+    .placeholder = Inserta un’indiritzu
+home-custom-homepage-address-button =
+    .label = Agiunghe un’indiritzu
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Nissunu situ web galu agiuntu.
@@ -54,9 +60,16 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Sostitui cun
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Sinnalibros…
 
 ## Firefox Home content
 
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
+home-prefs-search-header2 =
+    .label = Chirca
 home-prefs-firefox-logo-header =
     .label = logo de { -brand-short-name }
 # Variables:

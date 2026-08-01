@@ -308,6 +308,7 @@ aiwindow-feedback-modal-title = Cumpartzi cummentos
 aiwindow-feedback-what-worked-well = Ite at funtzionadu? Sena minudas personales, pro praghere.
 aiwindow-feedback-choose-any = Sèbera su chi currispondat
 aiwindow-feedback-add-details = Agiunghe minudas si serbit. Sena informatziones personales, pro praghere.
+aiwindow-feedback-disclaimer = Si incarcas «Imbia», as a cumpartzire su cummentu e custa tzarrada pro agiudare a { -brand-shorter-name } a megiorare { -smart-window-brand-name }. Is àteras tzarradas ant a abarrare privadas. <a data-l10n-name="learn-more">Àteras informatziones</a>
 aiwindow-feedback-submit = Imbia
 aiwindow-feedback-cancel = Annulla
 aiwindow-feedback-reason-other = Àteru
