@@ -1445,6 +1445,7 @@ forms-primary-pw-use =
     .accesskey = u
 forms-primary-pw-set =
     .label = Cunfigura una crae printzipale
+forms-primary-pw-on-2 = Sa crae printzipale est <strong>ATIVA</strong>
 forms-primary-pw-on =
     .label = Sa crae printzipale est ATIVA
 forms-primary-pw-change-2 =
@@ -1478,6 +1479,12 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Àteras informatziones
 forms-windows-sso-desc = Gesti is contos in sa cunfiguratzione de su dispositivu tuo
 windows-passkey-settings-label = Gesti is craes de atzessu in is cunfiguratziones de su sistema
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Cunfiguratziones de su pannellu de riservadesa
+    .description = Otene agiudu pro s’amparu de s’informatzione tua in lìnia cun { -brand-short-name }.
 
 ## OS Authentication dialog
 
@@ -1561,6 +1568,10 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = No as sarvadu nissunu indiritzu
+personal-info-group =
+    .label = Informatziones personales
+autofill-personal-info-manage-button =
+    .label = Gesti is informatziones personales
 passports-list-header =
     .label = Passaportos
 passports-delete-passport-button-label =
@@ -1605,6 +1616,8 @@ history-remember-label = { -brand-short-name }
     .accesskey = a
 history-remember-option-all =
     .label = at a regordare sa cronologia
+history-remember-option-custom2 =
+    .label = Personaliza sa cronologia
 history-remember-option-never =
     .label = no at a regordare mai sa cronologia
 history-remember-option-custom =
@@ -1615,6 +1628,9 @@ history-remember-description4 =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } at a impreare sa pròpiu cunfiguratzione de sa navigatzione privada, e no at a regordare nissuna cronologia durante sa navigatzione tua in rete.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } at a impreare sa cunfiguratzione personalizada pro sa cronologia de navigatzione, de iscarrigamentos, de mòdulos e de chirca.
 history-remember-description = { -brand-short-name } at a regordare sa cronologia de navigatzione, iscarrigamentu, formulàrios e de chirca.
 history-dontremember-description = { -brand-short-name } at a impreare sa pròpiu cunfiguratzione de sa navigatzione privada, e no at a regordare nissuna cronologia durante sa navigatzione tua in rete.
 history-private-browsing-permanent =
@@ -1640,8 +1656,15 @@ history-header2 =
 history-section-header =
     .label = Cronologia
     .description = Sèbera su chi { -brand-short-name } depet regordare cando serras su navigadore
+history-custom-section-header =
+    .label = Cunfiguratzione avantzada
+    .description = Personaliza su chi boles chi { -brand-short-name } regordet a sa serrada de su navigadore.
+history-custom-button =
+    .label = Personaliza su chi boles chi { -brand-short-name } regordet
 history-group =
     .label = Cronologia
+history-remember-option-all2 =
+    .label = Regorda sa cronologia
 
 ## Privacy Section - Site Data
 
@@ -1650,8 +1673,15 @@ sitedata-total-size-calculating = Carculende sa mannària de is datos de is sito
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Is sitos web sunt impreende immoe <strong>{ $value } { $unit }</strong> de ispàtziu de discu.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Is testimòngios, is datos de is sitos e sa memòria temporànea sunt impreende immoe { $value } { $unit } de ispàtziu in su discu.
 sitedata-learn-more = Leghe àteru
+sitedata-delete-on-close2 =
+    .label = Cantzella is testimòngios e is datos de is sitos a sa serrada de { -brand-short-name }
+    .accesskey = C
 sitedata-delete-on-close =
     .label = Cantzella is testimòngios e is datos de is sitos comente serras { -brand-short-name }
     .accesskey = c
@@ -1938,6 +1968,9 @@ permissions-autoplay = Riprodutzione in automàticu
 permissions-autoplay-settings =
     .label = Cunfiguratzione…
     .accesskey = t
+permissions-addon-exceptions2 =
+    .label = Sèbera is sitos chi podent installare estensiones
+    .accesskey = e
 permissions-block-popups =
     .label = Bloca is ventanas a cumparsa
     .accesskey = B
@@ -1955,6 +1988,8 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = Positzione
+permissions-localhost2 =
+    .label = Aplicatziones e servìtzios de su dispositivu
 permissions-local-network2 =
     .label = Dispositivos de rete locale
 permissions-xr2 =
@@ -1963,6 +1998,9 @@ permissions-camera2 =
     .label = Fotocàmera
 permissions-microphone2 =
     .label = Micròfonu
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Altoparlante
 permissions-notification2 =
     .label = Notìficas
 
@@ -2089,6 +2127,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permite a { -brand-short-name } de si fidare in automàticu de is tzertificados raighina de àteras partes chi installas
     .accesskey = f
+certs-devices-enable-fips = Ativa is FIPS
 space-alert-over-5gb-settings-button =
     .label = Aberi sa cunfiguratzione
     .accesskey = A
