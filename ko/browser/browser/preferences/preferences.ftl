@@ -175,7 +175,7 @@ search-results-help-link = 도움이 필요하세요? <a data-l10n-name="url">{ 
 
 startup-header = 시작 페이지
 always-check-default =
-    .label = 항상 { -brand-short-name }가 기본 브라우저인지 확인
+    .label = { -brand-short-name }가 기본 브라우저인지 항상 확인
     .accesskey = w
 is-default = 현재 { -brand-short-name }가 기본 브라우저입니다
 is-not-default = { -brand-short-name }가 기본 브라우저가 아닙니다
@@ -524,13 +524,13 @@ settings-translations-subpage-speed-up-translation-header =
 settings-translations-subpage-automatic-translation-header =
     .label = 자동 번역
 settings-translations-subpage-always-translate-header =
-    .label = 항상 이 언어 번역
+    .label = 이 언어는 항상 번역
 settings-translations-subpage-never-translate-header =
-    .label = 항상 이 언어 번역 안 함
+    .label = 이 언어는 항상 번역 안 함
 settings-translations-subpage-never-translate-sites-header =
-    .label = 항상 이 사이트 번역 안 함
+    .label = 이 사이트는 항상 번역 안 함
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
-settings-translations-subpage-never-translate-sites-description = 사이트를 추가하려면, <img data-l10n-name="translations-icon"/> 번역 패널을 열고, <img data-l10n-name="settings-icon"/> 번역 설정을 선택한 다음, "항상 이 사이트 번역 안 함"을 선택하세요.
+settings-translations-subpage-never-translate-sites-description = 사이트를 추가하려면, <img data-l10n-name="translations-icon"/> 번역 패널을 열고, <img data-l10n-name="settings-icon"/> 번역 설정을 선택한 다음, "이 사이트는 항상 번역 안 함"을 선택하세요.
 settings-translations-subpage-language-select-option =
     .label = 언어 추가
 settings-translations-subpage-language-add-button =
@@ -841,10 +841,10 @@ browsing-use-smooth-scrolling =
     .label = 부드러운 스크롤 사용
     .accesskey = m
 browsing-gtk-use-non-overlay-scrollbars =
-    .label = 항상 스크롤 막대 표시
+    .label = 스크롤 막대 항상 표시
     .accesskey = o
 browsing-always-underline-links =
-    .label = 항상 링크에 밑줄
+    .label = 링크에 항상 밑줄 표시
     .accesskey = u
 browsing-use-onscreen-keyboard =
     .label = 필요한 경우 터치 키보드 표시
