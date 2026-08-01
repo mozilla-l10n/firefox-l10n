@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Imbia cummentos
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> est una <label data-l10n-name="community-exp-creditsLink">comunidade globale</label> chi traballat impare pro mantènnere sa rete aberta, pùblica e atzessìbile a totus.
 community-2 = { -brand-short-name } est designadu dae <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunidade globale</label> chi traballat impare pro mantènnere sa rete aberta, pùblica e atzèssibile a totus.
 helpus = Boles  agiudare? <label data-l10n-name="helpus-donateLink">Faghe unu donu</label> o <label data-l10n-name="helpus-getInvolvedLink">ìmplica·ti!</label>
+helpus-referrals = Agiudare boles? <label data-l10n-name="helpus-donateLink">Faghe una donatzione</label>, <label data-l10n-name="helpus-shareFirefoxLink">cumpartzi { -brand-short-name }</label> o <label data-l10n-name="helpus-getInvolvedLink">collàbora!</label>
 bottomLinks-license = Informatziones de sa lissèntzia
 bottom-links-terms = Cunditziones de su servìtziu
 bottom-links-privacy = Avisu de riservadesa

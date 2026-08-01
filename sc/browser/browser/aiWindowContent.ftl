@@ -20,6 +20,10 @@ smartwindow-assistant-error-generic-header = Ddoe est istadu unu problema. Torra
 smartwindow-assistant-error-budget-header = As barigadu su lìmite de tzarradas de oe.
 smartwindow-assistant-error-account-header = Pro impreare { -smart-window-brand-name }, t’as a dèpere identificare.
 smartwindow-assistant-error-capacity-header = Est istadu barigadu su lìmite de capatzidade pro { -smart-window-brand-name }. Torra·nche a proare a pustis.
+smartwindow-assistant-error-budget-body = Podes ancora navigare in custa ventana. Sa tzarrada at a torrare a disponimentu cando su lìmite diàriu s’azerat.
+smartwindow-assistant-error-many-requests-header = Abeta unu momentu e torra a proare. Tropu messàgios imbiados in pagu tempus.
+smartwindow-assistant-error-max-length-header = Est tempus de incumintzare una tzarrada noa. Custa est lòmpida a su lìmite de mannesa.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name }  no at pòdidu cuntatare su serbidore. Proa un’àtera rete o disativa sa VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Faddina de serbidore (HTTP { $status }). Torra·nche a proare.
@@ -72,6 +76,7 @@ aiwindow-jump-to-bottom =
 smartwindow-nl-retry-tool-button =
     .label = Torra·nche a proare
 smartwindow-nl-retry-message = Si diaderu boles serrare ischedas, sèbera <strong>Torra·nche a proare</strong> e faghe sa seletzione in su pannellu chi s’aberit.
+smartwindow-nl-retry-group-tabs-message = Si boles ancora agrupare is ischedas, incarca <strong>Torra a nche proare</strong> e sèbera cales in su pannellu chi s’aberit.
 smartwindow-nl-thinking = Chirca de ischedas chi currispondant…
 smartwindow-loading-assistant-response =
     .aria-label = Càrriga de sa risposta de s’assistente
@@ -104,3 +109,22 @@ smart-window-restore-success-summary =
        *[other] Ischedas serradas e pustis recuperadas.
     }
 smart-window-cancelled-label = Rechesta annullada.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Agrupa
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Agrupa { $count } ischeda
+       *[other] Agrupa { $count } ischedas
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } ischeda agrupada
+       *[other] { $count } ischedas agrupadas
+    }
+smart-window-grouped-tabs-row-label = Ischedas agrupadas
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Ischedas separadas
