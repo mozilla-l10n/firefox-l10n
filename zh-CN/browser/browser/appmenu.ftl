@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = 推荐 { -brand-product-name }
 appmenuitem-more-tools =
     .label = 更多工具
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = 帮助与反馈
 appmenuitem-help =
     .label = 帮助
 appmenuitem-exit2 =
@@ -113,6 +116,8 @@ appmenu-remote-tabs-unverified = 您的账户需要验证。
 appmenuitem-fxa-toolbar-sync-now2 = 立即同步
 appmenuitem-fxa-sign-in = 登录 { -brand-product-name }
 appmenuitem-fxa-manage-account = 管理账户
+fxa-menu-sync-status-on = 同步：开启
+fxa-menu-sync-status-off = 同步：关闭
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = 未同步您的数据

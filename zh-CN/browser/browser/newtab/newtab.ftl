@@ -312,6 +312,9 @@ newtab-picture-show-button =
     .aria-label = 显示今日图片
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = 明天再来看看有没有新照片吧
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = 维基共享资源 · 每日一图
 
 ## Search box component.
 

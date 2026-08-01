@@ -93,6 +93,9 @@ customkeys-conflict-confirm-body = 此键已由“{ $conflict }”使用。
 customkeys-conflict-confirm-button-confirm = 仍要使用
 customkeys-conflict-confirm-button-cancel = 取消
 customkeys-conflict-unusable-title = 无法使用此键
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = “{ $conflict }”已使用此键，无法重复使用。
 customkeys-reset-all-confirm-title = 确定要恢复默认设置吗？
 customkeys-reset-all-confirm-body = 将移除所有自定义键盘快捷键。
 customkeys-reset-all-confirm-button-confirm = 恢复默认设置
