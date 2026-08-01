@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Disattiva Firefox Screenshots.
 policy-DisableFirefoxStudies = Impedisci a { -brand-short-name } di condurre studi.
 policy-DisableForgetButton = Impedisci accesso al pulsante “Dimentica”.
 policy-DisableFormHistory = Non conservare la cronologia delle ricerche e dei moduli.
+policy-DisableLaunchOnLogin = Impedisce l’avvio automatico di { -brand-short-name } quando l’utente effettua l’accesso.
 policy-DisablePrimaryPasswordCreation = Se impostato a “true” non è possibile impostare una password principale.
 policy-DisablePasswordReveal = Non permettere di mostrare le password nelle credenziali salvate.
 policy-DisablePocket2 = Disattiva la possibilità di salvare pagine web in { -pocket-brand-name }.
