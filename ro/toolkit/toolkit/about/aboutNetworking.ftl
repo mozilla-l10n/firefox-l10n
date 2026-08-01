@@ -53,9 +53,28 @@ about-networking-ssl-tokens-token-list =
         [few] { $count } jetoane
        *[other] { $count } de jetoane
     }
+about-networking-ssl-tokens-restored =
+    .alt = Restaurate din spațiul de stocare
+    .title = Restaurate din spațiul de stocare
+about-networking-ssl-tokens-new =
+    .alt = Nou în această sesiune
+    .title = Nou în această sesiune
 about-networking-ssl-tokens-expired =
     .alt = Expirate
     .title = Expirate
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Jetoane: { $tokenLength } B. Codificate: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = Certificat EV
+about-networking-ssl-tokens-ct-status = Stare transparență certificat
+about-networking-ssl-tokens-overridable-error = Categorie de erori care pot fi suprascrise
+about-networking-ssl-tokens-built-in-root = Rădăcină înglobată
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Lanț certificat ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Certificate handshake ({ $count })
 about-networking-refresh = Reîmprospătează
 about-networking-auto-refresh = Reîmprospătează automat la fiecare 3 secunde
 about-networking-hostname = Numele gazdei
