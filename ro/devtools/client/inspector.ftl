@@ -20,3 +20,12 @@ colorpicker-tooltip-hue-slider-title = Tentă
 colorpicker-tooltip-alpha-slider-title = Opacitate
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseudo-clase specifice elementelor
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = Activează/dezactivează funcționalitățile de emulare CSS
+    .aria-label = Activează/dezactivează funcționalitățile de emulare CSS
+inspector-emulation-panel-color-scheme = Emulare paletă de culori
+# A label text for the print emulation options
+inspector-emulation-panel-print = Activează
+    .aria-label = Activează emularea mediilor de printare
