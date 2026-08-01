@@ -215,6 +215,12 @@ aiwindow-fullpage-new-chat =
     .label = Yeni sohbet
 aiwindow-fullpage-chat-history =
     .label = Sohbet geçmişi
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Diğer seçenekler
+    .title = Diğer seçenekler
 
 ## Sign out dialog
 

@@ -705,6 +705,9 @@ newtab-custom-settings = Diğer ayarları yönet
 
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Görünüm
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Diğer temalara bakın
 # Title of the full theme selection sub-panel, also used as its back button label.
 newtab-appearance-manage-title = { -brand-product-name } temaları
 # Header for the list of the user's already-installed themes in the full theme panel.

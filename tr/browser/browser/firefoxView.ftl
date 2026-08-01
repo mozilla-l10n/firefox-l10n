@@ -76,6 +76,7 @@ firefoxview-tabpickup-password-locked-description = Sekmelerinizi almak için { 
 firefoxview-tabpickup-password-locked-link = Daha fazla bilgi al
 firefoxview-tabpickup-password-locked-primarybutton = Ana parolayı girin
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Daha fazla bilgi alın</a>
+firefoxview-tabpickup-password-locked-header-2 = Sekmelerin kilidini ana parolanızla açın
 firefoxview-tabpickup-signed-out-header = Yeniden bağlanmak için giriş yapın
 firefoxview-tabpickup-signed-out-description = Yeniden bağlanıp sekmelerinize ulaşmak için { -fxaccount-brand-name }nıza giriş yapın.
 firefoxview-tabpickup-signed-out-description2 = Yeniden bağlanıp sekmelerinize ulaşmak için hesabınıza giriş yapın.
