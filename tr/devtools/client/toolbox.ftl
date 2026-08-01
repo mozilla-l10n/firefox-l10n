@@ -49,7 +49,7 @@ toolbox-always-on-top-disabled2 = Her zaman üstte modunu aç
 
 # Variables:
 #   $url (String): The local mode URL
-toolbox-local-mode-notice = Bu belgeyi ayarlar panelinden etkinleştirilebileceğiniz geliştirici araçları “yerel modu”nu kullanarak “{ $url }” adresinden de açabilirsiniz.
+toolbox-local-mode-notice = Bu belgeyi ayarlar panelinden etkinleştirebileceğiniz geliştirici araçları “yerel modu”nu kullanarak “{ $url }” adresinden de açabilirsiniz.
 toolbox-local-mode-notice-add-to-settings-button = Ayarlara ekle
 toolbox-local-mode-notice-try-it-button = Dene
 toolbox-local-mode-notice-navigate-to-existing-mapping = Mevcut eşlemeye git

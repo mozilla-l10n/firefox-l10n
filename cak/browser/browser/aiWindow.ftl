@@ -103,6 +103,12 @@ aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 smartwindow-ask-button =
     .label = Tik'utüx
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Ketzob'ajïx taq nuwi'
+    .tooltiptext = Ketzob'ajïx taq nuwi'
+
 ## New Chat Button
 
 aiwindow-new-chat =
@@ -127,6 +133,7 @@ aiwindow-history-menu-chat-history = Kinatab'al chat
 aiwindow-history-menu-back =
     .aria-label = Chi rij
     .tooltiptext = Chi rij
+aiwindow-history-menu-view-all-chats = Ketz'et ronojel taq chat
 aiwindow-history-menu-settings = { -smart-window-brand-name } taq nuk'ulem
 
 ## Fullpage top actions
@@ -158,9 +165,16 @@ smartwindow-footer-history =
     .aria-label = Natab'äl
     .tooltiptext = Natab'äl
 
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = Ri IA chuqa' nisach.
+
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
 
+firefoxview-chats-nav = Taq chat
+    .title = Taq chat
 firefoxview-chats-header = Taq chat
 firefoxview-chat-context-delete = Tiyuj pa taq chat
     .accesskey = y
@@ -175,6 +189,10 @@ firefoxview-chat-date-today = Wakami - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Iwir - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Katzolin pa ri taq achat
 
 ## Count displayed in fxview chat search results
 
@@ -221,3 +239,5 @@ smart-window-default-promo-additional-button = Wakami mani
 aiwindow-feedback-submit = Titaq
 aiwindow-feedback-cancel = Tiq'at
 aiwindow-feedback-reason-other = Juley chik
+aiwindow-feedback-preview-report = Ketz'et kib'anikil taq chat
+aiwindow-feedback-preview-report-with-page = Ketz'et taq kib'anikil chat chuqa' ruxaq
