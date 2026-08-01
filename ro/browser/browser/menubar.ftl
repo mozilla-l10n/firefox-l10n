@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Setări…
 menu-application-set-as-default =
     .label = Setează { -brand-shorter-name } ca browser implicit
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Partajează { -brand-shorter-name }
 menu-application-services =
     .label = Servicii
 menu-application-hide-this =
@@ -376,3 +380,7 @@ menu-help-not-deceptive =
     .accesskey = d
 menu-report-broken-site =
     .label = Raportează un site nefuncțional
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Partajează { -brand-shorter-name }

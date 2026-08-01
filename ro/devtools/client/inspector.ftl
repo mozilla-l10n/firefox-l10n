@@ -20,6 +20,12 @@ colorpicker-tooltip-hue-slider-title = Tentă
 colorpicker-tooltip-alpha-slider-title = Opacitate
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseudo-clase specifice elementelor
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Activează/dezactivează emularea paletei de culori deschise pentru pagină
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Activează/dezactivează emularea paletei de culori închise pentru pagină
 # A title text for the emulation panel toggle button in the Rule View toolbar
 # that toggles the emulation features panel.
 inspector-emulation-panel-toggle =
@@ -29,3 +35,12 @@ inspector-emulation-panel-color-scheme = Emulare paletă de culori
 # A label text for the print emulation options
 inspector-emulation-panel-print = Activează
     .aria-label = Activează emularea mediilor de printare
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Luminoasă
+    .aria-label = Activează emularea paletei de culori deschise
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Întunecată
+    .aria-label = Emularea paletei de culori închise
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Fără emulare
+    .aria-label = Dezactivează emularea paletei de culori

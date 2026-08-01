@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Ca să preiei filele de pe telef
 firefoxview-tabpickup-step-signin-primarybutton = Continuă
 firefoxview-syncedtabs-signin-header-2 = Al tău { -brand-product-name } pe toate dispozitivele
 firefoxview-syncedtabs-signin-description-2 = Ca să vezi filele deschise pe telefon și pe alte dispozitive, intră în cont sau fă-ți un cont. Cu un cont, poți sincroniza și parolele, istoricul și multe altele.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = De pe laptop pe telefon, fără probleme
+firefoxview-syncedtabs-signin-description-3 = Păstrează-ți navigarea conectată pe dispozitive — file, parole și istoric, toate sincronizate.
 firefoxview-syncedtabs-signin-primarybutton-2 = Intră în cont
 firefoxview-tabpickup-adddevice-header = Sincronizează { -brand-product-name } pe telefon sau tabletă
 firefoxview-tabpickup-adddevice-description = Descarcă { -brand-product-name } pe mobil și intră în cont.
@@ -40,6 +43,9 @@ firefoxview-tabpickup-adddevice-primarybutton = Obține { -brand-product-name } 
 firefoxview-syncedtabs-adddevice-header-2 = Preia file de oriunde
 firefoxview-syncedtabs-adddevice-description-2 = Intră în contul tău { -brand-product-name } pe telefon sau alt calculator ca să vezi filele aici. Află cum să <a data-l10n-name="url">conectezi alte dispozitive</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Încearcă { -brand-product-name } pe mobil
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Te cheamă filele. Sunt pe telefon.
+firefoxview-syncedtabs-adddevice-description-3 = Scanează codul QR ca să obții { -brand-product-name } pentru dispozitive mobile și începe sincronizarea filelor deschise și a multor alte elemente. Află cum să <a data-l10n-name="url">conectezi dispozitive suplimentare</a>.
 firefoxview-tabpickup-synctabs-header = Pornește sincronizarea filelor
 firefoxview-tabpickup-synctabs-description = Permite { -brand-short-name } să partajeze file între dispozitive.
 firefoxview-tabpickup-synctabs-learn-how = Află cum
@@ -48,17 +54,26 @@ firefoxview-tabpickup-synctabs-primarybutton-2 = Pornește sincronizarea filelor
 firefoxview-syncedtabs-synctabs-header = Actualizează setările sincronizate
 firefoxview-syncedtabs-synctabs-description = Pentru a vedea file de pe alte dispozitive, va trebui să sincronizezi filele deschise.
 firefoxview-syncedtabs-synctabs-header-2 = Sincronizarea filelor este dezactivată
+firefoxview-syncedtabs-synctabs-description-2 = Reactivează sincronizarea ca să îți iei toate filele de pe celelalte dispozitive.
 firefoxview-syncedtabs-loading-header = Sincronizare în curs
 firefoxview-syncedtabs-loading-description = Când este gata, vei vedea orice file deschise de pe orice alt dispozitiv. Verifică din nou mai târziu.
 firefoxview-syncedtabs-loading-header-2 = Se preiau filele…
+firefoxview-syncedtabs-loading-description-2 = Sincronizare în curs. Vei regăsi filele aici în curând.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organizația ta a dezactivat sincronizarea
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nu a putut sincroniza filele între dispozitive, deoarece administratorul tău a dezactivat sincronizarea.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nu a putut sincroniza filele între dispozitive, deoarece organizația ta a dezactivat sincronizarea.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Sincronizarea filelor este dezactivată
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Organizația ta ți-a blocat această funcționalitate.
 firefoxview-tabpickup-network-offline-header = Verifică conexiunea la internet
 firefoxview-tabpickup-network-offline-description = Dacă folosești un firewall sau proxy, verifică dacă { -brand-short-name } are permisiunea să intre pe web.
 firefoxview-tabpickup-network-offline-primarybutton = Încearcă din nou
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } nu se poate conecta momentan
+firefoxview-tabpickup-network-offline-description-2 = S-ar putea să fii offline sau poate că ceva îți blochează conexiunea.
 firefoxview-tabpickup-sync-error-header = Avem probleme cu sincronizarea
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } nu se poate conecta la serviciul de sincronizare. Încearcă din nou mai târziu.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Sincronizarea a dat peste o problemă
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } nu s-a putut conecta. Lasă-l un pic și apoi încearcă iar
 firefoxview-tabpickup-sync-error-primarybutton = Încearcă din nou
 firefoxview-tabpickup-sync-disconnected-header = Pornește sincronizarea pentru a continua
 firefoxview-tabpickup-sync-disconnected-description = Pentru a-ți prelua filele, va trebui să permiți sincronizarea în { -brand-short-name }.
@@ -68,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = Pentru a-ți prelua filele, 
 firefoxview-tabpickup-password-locked-link = Află mai multe
 firefoxview-tabpickup-password-locked-primarybutton = Introdu parola primară
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Află mai multe</a>
+firefoxview-tabpickup-password-locked-header-2 = Deblochează filele cu parola primară
+firefoxview-tabpickup-password-locked-description-2 = Pentru confidențialitatea ta, filele sincronizate sunt protejate. Introdu parola primară { -brand-short-name } ca să vezi filele de pe celelalte dispozitive ale tale.
 firefoxview-tabpickup-signed-out-header = Intră în cont pentru reconectare
 firefoxview-tabpickup-signed-out-description = Pentru reconectare și preluarea filelor, intră în contul tău { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Pentru reconectare și preluarea filelor, intră în contul tău.
 firefoxview-tabpickup-signed-out-primarybutton = Intră în cont
+firefoxview-tabpickup-signed-out-header-2 = Intră în cont ca să îți vezi filele
+firefoxview-tabpickup-signed-out-description-2 = Reconectează-te ca să vezi filele de pe celelalte dispozitive.
 firefoxview-tabpickup-syncing = Ai răbdare până sincronizăm filele. Nu va dura mult.
 firefoxview-mobile-promo-header = Preia filele de pe telefon sau tabletă.
 firefoxview-mobile-promo-description = Pentru a-ți vedea filele recente de pe mobil, intră în contul tău { -brand-product-name } pe iOS sau Android
@@ -214,6 +233,10 @@ firefoxview-show-all-history = Vezi tot istoricul
 firefoxview-history-empty-header = Întoarce-te unde ai fost
 firefoxview-history-empty-description = Pe măsură ce navighezi, paginile vizitate vor fi listate aici.
 firefoxview-history-empty-description-two = Protejarea vieții tale private este deviza noastră. De aceea, poți controla activitatea reținută de { -brand-short-name } în <a data-l10n-name="history-settings-url">setările pentru istoric</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Parcursul tău de navigare începe aici
+firefoxview-history-empty-description-2 = Pe măsură ce intri pe pagini, istoricul tău va apărea aici. Controlează ce se salvează în <a data-l10n-name="history-settings-url">setări</a>.
 
 ##
 
