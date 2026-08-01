@@ -254,6 +254,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Pśednastajenje za wuslěźenje seśowych zmólkow w { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Seś
+profiler-popup-presets-networking-with-logs-description = Pśednastajenje za pśeslěźowanje seśowych zmólkow w { -brand-shorter-name }, mjazy nimi seśowe protokole. Toś te protokole sensibelne informacije wopśimuju, na pśikład URL, kótarež se woglědujośo.
 profiler-popup-presets-networking-with-logs-label =
     .label = Seśowe zwězki z protokolami
 profiler-popup-presets-power-description = Pśednastajenje za wuslěźenje zmólkow wužywanja energije w { -brand-shorter-name }, z niskeju pótrjebu.

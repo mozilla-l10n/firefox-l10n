@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = For å hente telefonfanene dine 
 firefoxview-tabpickup-step-signin-primarybutton = Hald fram
 firefoxview-syncedtabs-signin-header-2 = Din { -brand-product-name } på alle einingane dine
 firefoxview-syncedtabs-signin-description-2 = For å sjå faner du har opne på telefonen og andre einingar, logg inn eller registrer deg for ein konto. Med ein konto kan du også synkronisere passord, historikk, og meir.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Frå berbar PC til telefon, saumlaust
 firefoxview-syncedtabs-signin-primarybutton-2 = Logg inn
 firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på telefonen eller nettbrettet ditt
 firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
@@ -40,6 +42,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Få { -brand-product-name } for 
 firefoxview-syncedtabs-adddevice-header-2 = Hent faner same kvar du er
 firefoxview-syncedtabs-adddevice-description-2 = Logg på { -brand-product-name } på telefonen eller ei anna datamaskin for å sjå faner her. Finn ut korleis du <a data-l10n-name="url">koplar til fleire einingar</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prøv { -brand-product-name } for mobil
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Fanene dine ventar på telefonen.
 firefoxview-tabpickup-synctabs-header = Slå på fanesynkronisering
 firefoxview-tabpickup-synctabs-description = Tillat { -brand-short-name } å dele faner mellom einingar.
 firefoxview-tabpickup-synctabs-learn-how = Les korleis
