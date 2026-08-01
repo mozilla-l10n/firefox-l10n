@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Хто ўсё яшчэ можа бачы
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Вас не запісваюць
+about-private-browsing-nova-info-subheader2 = Мы выдалім усе пошукавыя запыты і ўваходы, калі вы закрыеце ўсе прыватныя вокны. Убудаваныя ў { -brand-short-name } сродкі аховы тут таксама ўключаны, напрыклад, блакаванне трэкераў.
 about-private-browsing-nova-info-subheader = Мы выдалім усе пошукавыя запыты і ўваходы, калі вы закрыеце гэта акно. Убудаваныя ў { -brand-short-name } сродкі аховы тут таксама ўключаны, напрыклад, блакаванне трэкераў.
