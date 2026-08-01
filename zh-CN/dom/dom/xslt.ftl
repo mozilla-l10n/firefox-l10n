@@ -8,7 +8,7 @@
 xslt-parse-failure = 分析 XSLT 样式表单失败。
 xpath-parse-failure = 分析 XPath 表达式失败。
 xslt-execution-failure = XSLT 转换失败。
-xpath-unknown-function = XSLT/XPath 尝试调用位置函数。
+xpath-unknown-function = XSLT/XPath 函数无效。
 xslt-bad-recursion = XSLT 样式表单 （可能）存在递归。
 xslt-bad-value = 属性值在 XSLT 1.0 中非法。
 xslt-nodeset-expected = XPath 表达式预期返回一个 NodeSet。

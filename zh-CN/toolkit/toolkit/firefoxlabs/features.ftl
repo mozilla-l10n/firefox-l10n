@@ -27,8 +27,6 @@ experimental-features-group-customize-browsing =
     .label = 定制浏览体验
 experimental-features-group-productivity =
     .label = 效率
-experimental-features-group-newtab-widgets =
-    .label = { -firefox-home-brand-name } 的小部件
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = 在侧栏中显示密码
