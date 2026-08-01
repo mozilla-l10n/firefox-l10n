@@ -8,8 +8,12 @@
 appmenuitem-new-ai-window =
     .label = K'ak'a' { -smart-window-brand-name }
     .value = K'ak'a' { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = K'ak'a' Ojer Tzuwäch
 menu-file-new-ai-window =
     .label = K'ak'a' { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = K'ak'a' Ojer Tzuwäch
 menu-history-chats =
     .label = Taq chat
 menu-history-chats-recent =
@@ -20,14 +24,31 @@ smartwindow-document-title = K'ak'a' Ruwi'
 ## Smart Window Toggle Button
 
 ai-window-toggleview-switch-classic =
-    .label = Ojer Oksäq
-    .value = Ojer Oksäq
+    .label = Ojer Tzuwäch
+    .value = Ojer Tzuwäch
 ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
 ai-window-toggleview-switch-ai-description =
     .label = Tik'utüx toq okinäq
     .value = Tik'utüx toq okinäq
+ai-window-toggleview-switch-private =
+    .label = Ichinan Tzuwäch
+ai-window-toggleview-open-private =
+    .label = Tijaq K'ak'a' Ichinan Tzuwäch
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Ojer Tzuwäch
+
+## Input CTA
+
+aiwindow-input-cta-submit-label-chat = Tik'utüx
+aiwindow-input-cta-submit-label-navigate = Jo'
+aiwindow-input-cta-submit-label-search = Tikanöx
+aiwindow-input-cta-submit-label-stop = Tiq'at
+aiwindow-input-cta-menu-label-chat = Tik'utüx
+aiwindow-input-cta-menu-label-navigate = B'enam pa ruxaq
+aiwindow-input-cta-menu-label-search-with = Tikanöx rik'in…
+aiwindow-input-cta-search-submenu-header = Tikanöx
 
 ## Smartbar
 
@@ -42,8 +63,15 @@ smartbar-placeholder-hint-4 = Tikanöx pan ajk'am…
 smartbar-mentions-list-no-results-label = Majun achike xilitäj
 smartbar-mentions-list-recent-tabs-label = K'ak'a' taq ruwi'
 
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Titz'aqatisäx jun ruwi' o ruxaq
+    .tooltiptext = Titz'aqatisäx jun ruwi' o ruxaq
+
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Tiya retal jun ruwi' o ruxaq
 aiwindow-website-chip-history-deleted = Xyuj natab'äl
 aiwindow-website-chip-remove-button =
     .aria-label = Tiyuj
@@ -51,6 +79,7 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Ütz apetik pa { -smart-window-brand-name }
+aiwindow-firstrun-model-title = ¿Atux ri k'atzinel chawe?
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Chilab'en
 aiwindow-firstrun-model-personal-label = Awichin
@@ -68,6 +97,23 @@ aiwindow-input-model-select-button-label-custom = Ichinan
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Tik'utüx
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = K'ak'a' chat
+    .tooltiptext = K'ak'a' chat
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Titz'apïx
+    .tooltiptext = Titz'apïx
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
@@ -96,6 +142,21 @@ aiwindow-fullpage-chat-history =
 aiwindow-fullpage-more =
     .label = Ch'aqa' chik
     .title = Ch'aqa' chik
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Tijal rik'in { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Taq chat
+    .aria-label = Taq chat
+    .tooltiptext = Taq chat
+smartwindow-footer-history =
+    .label = Natab'äl
+    .aria-label = Natab'äl
+    .tooltiptext = Natab'äl
 
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
