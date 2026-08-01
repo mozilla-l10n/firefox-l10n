@@ -203,3 +203,10 @@ bar-tooltip-cryptominer =
             [one] { $count } cripto-minadore ({ $percentage }%)
            *[other] { $count } cripto-minadores ({ $percentage }%)
         }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } sighidore
+       *[other] { $count } sighidores
+    }

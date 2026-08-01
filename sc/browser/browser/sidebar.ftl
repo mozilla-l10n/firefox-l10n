@@ -6,6 +6,11 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-contextual-password-manager =
     .label = Craes
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Ischedas abertas
 sidebar-options-menu-button =
     .title = Aberi su menù
 
@@ -25,6 +30,9 @@ sidebar-history-delete =
     .title = Cantzella dae sa cronologia
 sidebar-history-clear =
     .label = Isbòida sa cronologia
+sidebar-history-sort-by-heading-menucaption =
+    .label = Assenta dae:
+sidebar-history-sort-by-heading = Assenta dae:
 sidebar-history-sort-option-date =
     .label = Data
 sidebar-history-sort-option-site =
@@ -50,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Gesti sa cunfiguratzione de { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Ischedas verticales
+sidebar-settings2 =
+    .label = Cunfiguratzione
 sidebar-settings =
     .label = Cunfiguratzione de sa barra laterale
 sidebar-hide-tabs-and-sidebar =
