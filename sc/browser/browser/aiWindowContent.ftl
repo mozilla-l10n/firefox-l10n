@@ -127,4 +127,24 @@ smart-window-grouped-tabs-label =
     }
 smart-window-grouped-tabs-row-label = Ischedas agrupadas
 # Action result labels for ungrouped tabs
-smart-window-grouped-and-ungrouped-label = Ischedas separadas
+smart-window-grouped-and-ungrouped-label = Ischedas bogadas dae su grupu
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } ischeda agrupada e pustis bogada dae su grupu
+       *[other] { $count } ischedas agrupadas e pustis bogadas dae su grupu
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } ischeda bogada dae su grupu
+       *[other] { $count } ischedas bogadas dae su grupu
+    }
+
+## Action log
+
+action-log-reading-page = Letura de sa pàgina
+action-log-searching-web = Chirca in su web
+action-log-searched-web = Chirca in su web cumpleta
+action-log-checking-memories = Chirca in is memòrias
+action-log-checked-memories = Memòrias averiguadas

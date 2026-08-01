@@ -106,6 +106,50 @@ aiwindow-firstrun-model-fast-body = Rispostas lestras
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Modellu { $model } dae { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Flessìbile
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Cussigiadu
+aiwindow-firstrun-model-personal-label = Personale
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Personale: { $shortName }
+aiwindow-firstrun-button = Incumintzamus
+aiwindow-firstrun-back-button = A coa
+aiwindow-firstrun-next-button = Imbeniente
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Lestru
+aiwindow-input-model-select-button-label-allpurpose = Flessìbile
+aiwindow-input-model-select-button-label-personal = Personale
+aiwindow-input-model-select-button-label-custom = Personalizadu
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Imprea su LLM tuo
+aiwindow-input-model-select-default-badge =
+    .label = Predefinidu
+    .title = Su modellu seberadu comente predefinidu
+aiwindow-input-model-select-settings-link = Cunfiguratzione de su modellu
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-privacy-title = Progetadu pro sa riservadesa
+aiwindow-firstrun-memories-checkbox-chats = Tzarradas in { -smart-window-brand-name }
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-description = Ddu podes cambiare in sa cunfiguratzione cando boles
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Pregunta
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Agrupa is ischeda mias
+    .tooltiptext = Agrupa is ischeda mias
 
 ## Memories toggle button
 
@@ -127,6 +171,35 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Serra
     .tooltiptext = Serra
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Àteras optziones
+    .tooltiptext = Àteras optziones
+aiwindow-history-menu-chat-history = Cronologia de sa tzarrada
+aiwindow-history-menu-back =
+    .aria-label = A coa
+    .tooltiptext = A coa
+aiwindow-history-menu-view-all-chats = Ammustra totu is tzarradas
+aiwindow-history-menu-settings = Cunfiguratzione de { -smart-window-brand-name }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Tzarrada noa
+aiwindow-fullpage-chat-history =
+    .label = Cronologia de sa tzarrada
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Àteru
+    .title = Àteru
 
 ## Sign out dialog
 
@@ -171,6 +244,10 @@ firefoxview-chat-date-today = Oe - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Erisero - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Torra a is tzarradas
 
 ## Count displayed in fxview chat search results
 
@@ -221,6 +298,7 @@ smartwindow-close-tab-callout-subtitle = Torra a abèrrere is ischedas dae sa cr
 ## Smart Window new tab promo
 
 smart-window-default-promo-heading = Boles cunfigurare { -smart-window-brand-name } comente predefinidu?
+smart-window-default-promo-message = { -brand-short-name } at a abèrrere { -smart-window-brand-name } ònnia borta
 smart-window-default-promo-primary-button = Cunfigura comente predefinidu
 smart-window-default-promo-additional-button = Immoe nono
 
