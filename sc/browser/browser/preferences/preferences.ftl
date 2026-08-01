@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = N
 non-technical-privacy-group =
     .label = Preferèntzias de riservadesa de su situ
+do-not-track-removal3 =
+    .message = Non semus prus cumpatìbiles cun su sinnale “non mi sigas”
+non-technical-privacy-heading =
+    .label = Amparos agiuntivos
 non-technical-privacy-header = Preferèntzias de riservadesa de su situ
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -44,6 +48,8 @@ pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Pàgina printzipale
+pane-home-startup-title2 = Pàgina printzipale e de aviu
+    .title = Pàgina printzipale e de aviu
 pane-search-title2 = Chirca
     .title = Chirca
 pane-privacy-title3 = Riservadesa e seguresa
@@ -63,6 +69,20 @@ pane-ai-controls-title2 = Controllos de s’IA
     .title = Controllos de s’IA
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-about-firefox-title = Informatziones de { -brand-short-name }
+    .title = { pane-about-firefox-title }
+pane-appearance-title = Aspetu
+    .title = { pane-appearance-title }
+pane-downloads-title2 = Iscarrigamentos
+    .title = Iscarrigamentos
+pane-downloads3 =
+    .heading = Iscarrigamentos
+pane-accessibility-title = Atzessibilidade
+    .title = { pane-accessibility-title }
+pane-languages-title2 = Limbas
+    .title = Limbas
+preferences-languages-header3 =
+    .heading = Limbas
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 pane-experimental-title = Esperimentos de { -brand-short-name }
@@ -72,6 +92,8 @@ pane-experimental-subtitle = Sighi cun atentzione
 pane-experimental-search-results-header = Esperimentos de { -brand-short-name }: sighi cun atentzione
 pane-experimental-description2 = Sa modìfica de is paràmetros de cunfiguratzione avantzada podet tènnere un'efetu in s'efitzèntzia o in sa seguresa de { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description3 = Proa is funtziones nostras isperimentales. Sunt in isvilupu e evolutzione, e custu diat pòdere cambiare su funtzionamentu de { -brand-short-name }.
@@ -133,6 +155,10 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Pro ativare s'estensione bae a <img data-l10n-name="addons-icon"/> Cumplementos de su menù <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Pro torrare a ativare custa estensione, bìsita <a data-l10n-name="addons-link">Estensiones e temas</a>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } controllat unas cantas cunfiguratziones de sa pàgina printzipale.
 
 ## Preferences UI Search Results
 
@@ -161,6 +187,10 @@ windows-launch-on-login =
     .label = Aberi { -brand-short-name } in automàticu a s’aviu de s’elaboradore
     .accesskey = A
 windows-launch-on-login-disabled = Custa preferèntzia est disativada in Windows. Pro dda modificare, bae a <a data-l10n-name="startup-link">Aplicatziones de aviu</a> in cunfiguratziones de su sistema.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
+windows-launch-on-login-open-new-tab =
+    .label = Aberi puru un’ischeda noa
+    .accesskey = n
 windows-launch-on-login-profile-disabled = Ativa custa preferèntzia ativende “{ profile-manager-use-selected.label }” in sa ventana “Sèbera unu profilu de utente”.
 startup-restore-warn-on-quit =
     .label = Faghe ischire cando essis dae su navigadore
@@ -212,6 +242,8 @@ tabs-opening-heading =
     .label = Abertura
 tabs-interaction-heading =
     .label = Interatzione
+tabs-containers-heading =
+    .label = Cuntenidores
 tabs-closing-heading =
     .label = Serrada
 tabs-group-header = Ischedas
@@ -254,10 +286,16 @@ switch-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Ammustra previsualizatziones de ischeda in sa barra de tareas de Windows
     .accesskey = t
+browser-containers-enabled-2 =
+    .label = Imprea is ischedas cuntenidoras
+    .accesskey = I
 browser-containers-enabled =
     .label = Ativa ischedas cuntenidoras
     .accesskey = n
 browser-containers-learn-more = Leghe àteru
+browser-containers-settings-2 =
+    .label = Gesti sa cunfiguratzione
+    .accesskey = G
 browser-containers-settings =
     .label = Cunfiguratzione…
     .accesskey = u
@@ -310,6 +348,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Ammustra sa barra laterale
     .description = Atzede a sa lestra a sinnalibros, ischedas dae su telefoneddu tuo, chatbot IA e àteru chene lassare s’ischermu printzipale.
+page-navigation-group =
+    .label = Navigatzione intre is pàginas
 browser-layout-header = Dispositzione de su navigadore
 browser-layout-horizontal-tabs =
     .label = Ischedas orizontales
@@ -324,6 +364,9 @@ browser-layout-show-sidebar-desc = Atzede a sa lestra a sinnalibros, ischedas da
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Limbas e aspetu
+preferences-web-appearance-choice-auto3 =
+    .label = Sistema
+    .title = Càmbia in automàticu is isfundos e su cuntenutu de is sitos segundu is cunfiguratziones de sistema e su tema de { -brand-short-name }.
 preferences-web-appearance-header = Aspetu de is sitos web
 preferences-web-appearance-description = Unos cantos sitos web adatant s'ischema de colore suo de acordu cun is preferèntzias tuas. Sèbera cale ischema de colore dias bòlere impreare pro cussos sitos.
 preferences-web-appearance-choice-light2 =
@@ -351,6 +394,8 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-web-appearance-link =
     .label = Gesti is temas de { -brand-short-name } in Estensiones e temas
+preferences-contrast-control-radio-group =
+    .label = Sostitui is colores
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Is seletziones de colore tuas sunt sostituende s'aspetu de su situ web. <a data-l10n-name="colors-link">Gesti is colores</a>
@@ -404,6 +449,9 @@ preferences-text-zoom-override-warning =
     .message = Atentzione: si sèberas “Ismànnia isceti su testu” e s'ingrandimentu predefinidu tuo no est cunfiguradu a su 100%, calicunu situ o cuntenutu diat pòdere funtzionare male.
 language-header = Limba
 choose-language-description = Sèbera sa limba preferida tua pro ammustrare pàginas
+website-language-heading =
+    .label = Limba de su situ
+    .description = Nch’at pàginas chi podent èssere ammustradas in prus limbas. Sèbera cussas chi preferis.
 website-preferred-language =
     .label = Limbas preferidas
 website-add-language =
@@ -432,6 +480,14 @@ manage-browser-languages-button =
     .accesskey = u
 confirm-browser-language-change-description = Torra a aviare { -brand-short-name } pro aplicare custas modìficas
 confirm-browser-language-change-button = Àplica e torra a aviare
+browser-language-heading =
+    .label = Limba de su navigadore
+    .description = Sèbera sa limba impreada pro ammustrare is menùs, is messàgios e is notìficas de { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Limba preferida
+browser-language-fallback-label =
+    .label = Limba alternativa
+    .description = Impreada cando sa tradutzione in sa limba preferida no est cumpleta.
 browser-language-install-error =
     .message = { -brand-short-name } non podet agiornare is limbas tuas, in custu momentu. Assegura·ti de èssere connessu a internet o torra a proare.
 translate-web-pages =
@@ -528,6 +584,12 @@ download-save-files-header =
     .label = Sarva archìvios in
 download-save-where-3 =
     .aria-label = Sarva archìvios in
+download-always-ask-where2 =
+    .label = Pregunta in ue si depent sarvare is archìvios in antis de ddos iscarrigare
+    .accesskey = P
+download-private-browsing-delete2 =
+    .label = Cantzella is iscarrigamentos de is ventanas privadas a sa serrada
+    .accesskey = C
 download-header = Iscarrigamentos
 download-save-where = Sarva archìvios in
     .accesskey = v
@@ -547,6 +609,9 @@ download-always-ask-where =
     .accesskey = D
 applications-header = Aplicatziones
 applications-description = Sèbera comente { -brand-short-name } depet gestire is archìvios chi iscàrrigas dae su web o is aplicatziones chi impreas cando nàvigas.
+applications-setting2 =
+    .label = Archìvios e aplicatziones
+    .description = Sèbera comente { -brand-short-name } depet gestire su cuntenutu e is archìvios iscarrigados.
 applications-filter =
     .placeholder = Chirca genias de archìviu o aplicatziones
 applications-type-column =
@@ -626,7 +691,13 @@ applications-handle-new-file-types-description = Ite depet fàghere { -brand-sho
 applications-save-for-new-types =
     .label = Sarva is archìvios
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = Sarva archìvios in automàticu
+    .accesskey = S
 applications-ask-before-handling =
+    .label = Pregunta si boles abèrrere o sarvare is archìvios
+    .accesskey = P
+applications-ask-before-handling2 =
     .label = Pregunta si boles abèrrere o sarvare is archìvios
     .accesskey = P
 drm-group =
@@ -701,6 +772,8 @@ update-application-suppress-prompts-heading =
 
 support-get-help =
     .label = Agata agiudu
+support-share-ideas =
+    .label = Cumpartzi ideas e cummentos
 
 ## General Section - Performance
 
@@ -820,6 +893,9 @@ home-mode-choice-blank =
     .label = Pàgina in biancu
 home-homepage-custom-url =
     .placeholder = Incolla un'URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Gesti s’estensione
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -835,6 +911,12 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Pàgina printzipale personalizada
+home-custom-homepage-subpage =
+    .heading = Pàgina printzipale personalizada
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1053,6 +1135,11 @@ containers-remove-button2 =
 
 sync-group-label =
     .label = Sincronizatzione
+account-disabled-group =
+    .label = Contu
+    .description = Sa cunfiguratzione de su contu no est a disponimentu.
+pane-account-sync-title2 = Contu e sincronizatzione
+    .title = Contu e sincronizatzione
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1368,6 +1455,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Rechede s’identificatzione in su dispositivu pro compilare in automàticu e gestire is craes
+forms-os-reauth-2 =
+    .label = Rechede s’identificatzione in su dispositivu pro gestire is craes
 forms-primary-pw-learn-more-link = Àteras informatziones
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1443,10 +1532,14 @@ payments-list-header =
     .label = Mètodos de pagamentu
 payments-delete-payment-prompt-title = Boles cantzellare custu mètodu de pagamentu?
 payments-delete-payment-prompt-confirm-button = Cantzella
+payments-delete-payment-prompt-cancel-button = Annulla
 payments-delete-payment-button-label =
     .aria-label = Cantzella
 payments-edit-payment-button-label =
     .aria-label = Modifica
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Nissunu mètodu de pagamentu agiuntu
 autofill-addresses-checkbox-message =
     .label = Sarva e cumpleta in automàticu is indiritzos
     .accesskey = a
@@ -1664,6 +1757,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Atziones lestras
     .accesskey = A
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Chircas reghentes
+    .accesskey = C
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Cussìgios de chirca in tendèntzia
     .accesskey = t
@@ -1755,6 +1851,8 @@ content-blocking-warning-title = Atentzione!
 content-blocking-and-isolating-etp-warning-description-2 = Custa cunfiguratzione diat pòdere fàghere chi unos cantos sitos no ammustrent cuntenutos o non funtzionent bene. Si paret chi unu situ non siat funtzionende, podes proare a istudare sa protetzione dae sa sighidura pro chi cussu situ càrrighet totu su cuntenutu.
 content-blocking-warning-learn-how = Impara comente ddu fàghere
 content-blocking-baseline-uncheck-warning-dialog-title = Seguru chi boles disativare is curretziones?
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Disativa is curretziones
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Mantene is curretziones ativadas
 content-blocking-reload-description = As a dèpere torrare a carrigare is ischedas tuas pro carrigare custas modìficas.
 content-blocking-reload-tabs-button =
     .label = Torra a carrigare totu is ischedas

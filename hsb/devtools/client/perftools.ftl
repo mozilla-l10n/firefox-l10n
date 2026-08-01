@@ -175,6 +175,7 @@ perftools-presets-ml-description2 = Přednastajenje za wuslědźenje zmylkow ma�
 perftools-presets-networking-label = Syć
 perftools-presets-networking-description = Přednastajenje za wuslědźenje syćowych zmylkow w { -brand-shorter-name }.
 perftools-presets-networking-with-logs-label = Syćowe zwjazki z protokolemi
+perftools-presets-networking-with-logs-description = Přednastajenje za přeslědźowanje syćowych zmylkow w { -brand-shorter-name }, mjez nimi syćowe protokole. Tute protokole sensibelne informacije wobsahuja, na přikład URL, kotrež wopytujeće.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energija
 perftools-presets-power-description = Přednastajenje za wuslědźenje zmylkow wužiwanja energije w { -brand-shorter-name }, z niskej potrjebu.
