@@ -5,6 +5,8 @@
 theme-picker-mode-light = Lyst
 theme-picker-mode-dark = Mørkt
 theme-picker-mode-device = Device
+theme-picker-use-linux-theme =
+    .label = Bruk Linux-systemtema
 
 ## Theme labels
 ## These are short, evocative names for color themes in Firefox. Each name
