@@ -18,6 +18,9 @@ appmenuitem-banner-update-restart =
 appmenu-nova-update-title = Torra a aviare pro atualizare { -brand-short-name }
 appmenu-nova-update-description = Is ischedas tuas s’ant a torrare a abèrrere.
 appmenu-nova-fxa-sign-in = Identìfica·ti
+appmenu-nova-switch-device-promo =
+    .message = As a leare unu dispositivu nou? Porta·ti { -brand-short-name }!
+appmenu-nova-switch-device-link = Comente migrare is datos tuos
 appmenuitem-new-tab =
     .label = Ischeda noa
 appmenuitem-new-window =
@@ -46,8 +49,15 @@ appmenuitem-translate =
     .label = Tradue sa pàgina…
 appmenuitem-zoom =
     .value = Ingrandimentu
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Cumpartzi { -brand-product-name }
 appmenuitem-more-tools =
     .label = Àteros istrumentos
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Agiudu e sinnalatziones
 appmenuitem-help =
     .label = Agiudu
 appmenuitem-exit2 =

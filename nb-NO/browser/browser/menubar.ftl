@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Innstillinger …
 menu-application-set-as-default =
     .label = Gjør { -brand-shorter-name } til standardnettleser
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Del { -brand-shorter-name }
 menu-application-services =
     .label = Tjenester
 menu-application-hide-this =

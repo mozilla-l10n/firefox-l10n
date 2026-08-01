@@ -34,6 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = Din { -brand-product-name } på alle di
 firefoxview-syncedtabs-signin-description-2 = For å se faner du har åpne på telefonen og andre enheter, logg inn eller registrer deg for en konto. Med en konto kan du også synkronisere passord, historikk, med mer.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Fra bærbar PC til telefon, sømløst
+firefoxview-syncedtabs-signin-description-3 = Hold surfingen synkronisert på tvers av enhetene dine – faner, passord og historikk, alt synkronisert.
 firefoxview-syncedtabs-signin-primarybutton-2 = Logg inn
 firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på telefonen eller nettbrettet
 firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
@@ -42,20 +43,30 @@ firefoxview-tabpickup-adddevice-primarybutton = Få { -brand-product-name } for 
 firefoxview-syncedtabs-adddevice-header-2 = Hent faner uansett hvor du er
 firefoxview-syncedtabs-adddevice-description-2 = Logg på { -brand-product-name } på telefonen eller en annen datamaskin for å se faner her. Finn ut hvordan du <a data-l10n-name="url">kobler til flere enheter</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prøv { -brand-product-name } for mobil
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Fanene dine venter på telefonen.
+firefoxview-syncedtabs-adddevice-description-3 = Skann QR-koden for å få { -brand-product-name } på mobilen og begynn å synkronisere åpne faner og mer. Les hvordan du <a data-l10n-name="url">kobler til flere enheter</a>.
 firefoxview-tabpickup-synctabs-header = Slå på fanesynkronisering
 firefoxview-tabpickup-synctabs-description = Tillat { -brand-short-name } å dele faner mellom enheter.
 firefoxview-tabpickup-synctabs-learn-how = Les hvordan
 firefoxview-tabpickup-synctabs-primarybutton = Synkroniser åpne faner
+firefoxview-tabpickup-synctabs-primarybutton-2 = Slå på fanesynkronisering
 firefoxview-syncedtabs-synctabs-header = Oppdater dine synkroniseringsinnstillinger
 firefoxview-syncedtabs-synctabs-description = For å se faner fra andre enheter, må du synkronisere dine åpne faner.
+firefoxview-syncedtabs-synctabs-header-2 = Fanesynkronisering er av
+firefoxview-syncedtabs-synctabs-description-2 = Slå på synkronisering igjen for å hente alle fanene dine fra andre enheter.
 firefoxview-syncedtabs-loading-header = Synkronisering pågår
 firefoxview-syncedtabs-loading-description = Når det er gjort, vil du se alle faner du har åpne på andre enheter. Prøv å sjekke igjen senere.
+firefoxview-syncedtabs-loading-header-2 = Henter dine faner…
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasjonen din har deaktivert synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikke synkronisere faner mellom enheter fordi administratoren din har deaktivert synkronisering.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan ikke synkronisere faner mellom enheter fordi organisasjonen din har deaktivert synkronisering.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Fanesynkronisering er av
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Organisasjonen din har blokkert denne funksjonen.
 firefoxview-tabpickup-network-offline-header = Sjekk internettilkoblingen din
 firefoxview-tabpickup-network-offline-description = Hvis du bruker en brannmur eller proxy, sjekk at { -brand-short-name } har tillatelse til å få tilgang til nettet.
 firefoxview-tabpickup-network-offline-primarybutton = Prøv igjen
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } kan ikke koble til akkurat nå
 firefoxview-tabpickup-sync-error-header = Vi har problemer med å synkronisere
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } kan ikke nå synkroniseringstjenesten akkurat nå. Prøv igjen litt senere.
 firefoxview-tabpickup-sync-error-primarybutton = Prøv igjen
@@ -72,6 +83,8 @@ firefoxview-tabpickup-signed-out-header = Logg inn for å koble til på nytt
 firefoxview-tabpickup-signed-out-description = For å koble til igjen og få tak i fanene dine, logg in på din { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = For å koble til igjen og få tak i fanene dine, logg in på kontoen din.
 firefoxview-tabpickup-signed-out-primarybutton = Logg inn
+firefoxview-tabpickup-signed-out-header-2 = Logg inn for å se dine faner
+firefoxview-tabpickup-signed-out-description-2 = Koble til på nytt for å se faner fra andre enheter.
 firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tar bare et øyeblikk.
 firefoxview-mobile-promo-header = Åpne faner fra telefonen eller nettbrettet
 firefoxview-mobile-promo-description = For å se de siste mobilfanene dine, logg på { -brand-product-name } på iOS eller Android.
@@ -213,6 +226,9 @@ firefoxview-show-all-history = Vis all historikk
 firefoxview-history-empty-header = Kom tilbake til der du har vært
 firefoxview-history-empty-description = Mens du surfer, vil sidene du besøker bli oppført her.
 firefoxview-history-empty-description-two = Beskyttelse av personvernet ditt er kjernen i det vi gjør. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } husker, i <a data-l10n-name="history-settings-url">innstillingene for historikk</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Din nettleserute starter her
 
 ##
 

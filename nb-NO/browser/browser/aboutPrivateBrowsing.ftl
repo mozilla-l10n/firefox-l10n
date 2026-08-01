@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Hvem kan fortsatt se aktiviteten min?
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Du etterlater ingen spor
+about-private-browsing-nova-info-subheader2 = Vi sletter alle søk og innlogginger når du lukker alle dine private vinduer. { -brand-short-name } sin innebygde beskyttelse er også aktiv her, for eksempel blokkering av sporere.
 about-private-browsing-nova-info-subheader = Vi sletter alle søk og innlogginger når du lukker dette vinduet. { -brand-short-name } sin innebygde beskyttelse er også aktiv her, for eksempel blokkering av sporere.

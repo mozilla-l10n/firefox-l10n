@@ -311,7 +311,39 @@ aiwindow-feedback-add-details = Agiunghe minudas si serbit. Sena informatziones 
 aiwindow-feedback-disclaimer = Si incarcas «Imbia», as a cumpartzire su cummentu e custa tzarrada pro agiudare a { -brand-shorter-name } a megiorare { -smart-window-brand-name }. Is àteras tzarradas ant a abarrare privadas. <a data-l10n-name="learn-more">Àteras informatziones</a>
 aiwindow-feedback-submit = Imbia
 aiwindow-feedback-cancel = Annulla
+aiwindow-feedback-reason-incorrect-or-misleading = Isballiada o ingannadora
+aiwindow-feedback-reason-doesnt-address-my-request = Non rispondet a su chi apo preguntadu
+aiwindow-feedback-reason-lacks-personalization = Ddi mancat personalizatzione o cuntestu
+aiwindow-feedback-reason-performance-or-usability = Problemas de rendimentu o impreabilidade
+aiwindow-feedback-reason-harmful-or-offensive = Perigulosa o ofensivaç
 aiwindow-feedback-reason-other = Àteru
 aiwindow-feedback-preview-report = Ammustra is detàllios de sa tzarrada
 aiwindow-feedback-preview-report-with-page = Ammustra is detàllios de sa tzarrada e de sa pàgina
 aiwindow-feedback-include-page-content = Cumpartzi is pàginas mentovadas in custa tzarrada
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Càmbia sa visualizatzione
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Càmbia visualizatzione: a lista
+    .tooltiptext = Visualizatzione a lista
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Càmbia visualizatzione: a grìllia
+    .tooltiptext = Visualizatzione a grìllia
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Iscrie una prima bruta-còpia
+aiwindow-starter-writing-improve = Megiora su testu
+aiwindow-starter-writing-proofread = Averìgua unu messàgiu
+aiwindow-starter-planning-simplify = Simplifica un’argumentu
+aiwindow-starter-planning-brainstorm = Propone ideas
+aiwindow-starter-planning-plan = Agiuda a fàghere unu pranu
+aiwindow-starter-browsing-history = Chirca ischedas in sa cronologia
+aiwindow-starter-browsing-summarize = Resumina ischedas
+aiwindow-starter-browsing-compare = Cunfronta ischedas

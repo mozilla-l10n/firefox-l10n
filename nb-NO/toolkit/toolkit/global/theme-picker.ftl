@@ -28,6 +28,9 @@ theme-picker-spark =
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame =
     .label = Flamme
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare =
+    .label = Lysglimt
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender =
     .label = Lavendel
@@ -70,6 +73,9 @@ theme-picker-spark-aria-label =
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame-aria-label =
     .aria-label = Flamme
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare-aria-label =
+    .aria-label = Lysglimt
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender-aria-label =
     .aria-label = Lavendel
