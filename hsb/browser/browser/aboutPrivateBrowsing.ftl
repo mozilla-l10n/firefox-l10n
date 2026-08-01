@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Štó móhł hišće moju aktiwitu widź
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Waše přehladowanje so njeskładuje
+about-private-browsing-nova-info-subheader2 = Zhašamy kóžde pytanje a přizjewjenje, hdyž wšě swoje priwatne wokna začinjeće. Škit, kotryž je w { -brand-short-name } zatwarjeny, je tu tež zmóžnjeny, na přikład blokowanje přesćěhowakow.
 about-private-browsing-nova-info-subheader = Zhašamy kóžde pytanje a přizjewjenje, hdyž tute wokno začinjeće. Škit, kotryž je w { -brand-short-name } zatwarjeny, je tu tež zmóžnjeny, na přikład blokowanje přesćěhowakow.
