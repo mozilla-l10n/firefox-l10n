@@ -76,3 +76,12 @@ theme-picker-dusk-aria-label =
 # Name for a medium blue theme. Refers to a sheltered body of water.
 theme-picker-lagoon-aria-label =
     .aria-label = Göl
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine-aria-label =
+    .aria-label = Çam
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+theme-picker-ash-aria-label =
+    .aria-label = Kül
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+theme-picker-smoke-aria-label =
+    .aria-label = Duman
