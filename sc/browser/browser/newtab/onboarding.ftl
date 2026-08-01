@@ -565,3 +565,7 @@ onboarding-personalization-motivation-title = Cales funtzionalidades de { -brand
 onboarding-personalization-motivation-privacy-option = Riservadesa e seguresa
 onboarding-personalization-motivation-productivity-option = Produtividade
 onboarding-personalization-motivation-other-option = Àteru
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-button-label = Sarva e sighi

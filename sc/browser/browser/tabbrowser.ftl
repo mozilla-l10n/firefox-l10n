@@ -317,6 +317,13 @@ tab-context-ungroup-tab =
         }
     .accesskey = B
 
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Grupu nou
+
 ## Open/saved tab group context menu
 
 # For a tab group open in any window, clicking this will create a new

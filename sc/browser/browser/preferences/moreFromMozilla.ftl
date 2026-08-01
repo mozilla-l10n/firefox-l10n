@@ -12,6 +12,9 @@ more-from-moz-subtitle = Iscoberi àteros produtos de { -vendor-short-name } chi
 more-from-moz-firefox-mobile-title = { -brand-product-name } pro dispositivos mòbiles
 more-from-moz-firefox-mobile-description = Su navigadore pro dispositivos mòbiles chi ponet sa riservadesa tua a in antis de totu.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pro dispositivos mòbiles
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } pro dispositivos mòbiles
+    .description = Su navigadore mòbile chi ponet sa riservadesa a primu
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Iscoberi unu livellu in prus de navigatzione anònima e de amparu.
 more-from-moz-qr-code-box-firefox-mobile-title = Iscàrriga cun su dispositivu mòbile tuo. Punta sa càmera a su còdighe QR e toca su ligòngiu chi aparet.
@@ -47,3 +50,19 @@ more-from-moz-solo-title-2 = Creadore de { -solo-ai-brand-name } de sitos cun IA
 
 more-from-moz-mdn-description = Impara isvilupu web cun ghias e documentatzione cumpletas e de badas.
 more-from-moz-mdn-button = Impara isvilupu web
+more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Posta, calendàriu e cuntatos, organizados a gustu tuo.
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-box-link =
+    .label = Otene { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Otene { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Otene { -relay-brand-short-name }

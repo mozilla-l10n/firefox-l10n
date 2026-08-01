@@ -202,6 +202,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Seletziona unu profilu
 preferences-copy-profile-button = Còpia
+tabs-browsing-section =
+    .heading = Ischedas e navigatzione
+pane-tabs-browsing-title2 = Ischedas e navigatzione
+    .title = Ischedas e navigatzione
 tabs-group-header2 =
     .label = Ischedas
 tabs-opening-heading =
@@ -640,6 +644,8 @@ update-application-version = Versione { $version }<a data-l10n-name="learn-more"
 update-history-2 =
     .label = Ammustra sa cronologia de atualizatziones
     .accesskey = z
+update-application-installation =
+    .label = Installatzione
 update-history =
     .label = Ammustra sa cronologia de atualizatziones…
     .accesskey = z
@@ -680,6 +686,21 @@ update-in-progress-ok-button = &Iscarta
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Informatziones de { -brand-short-name }
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Notìficas
+
+## Firefox support
+
+support-get-help =
+    .label = Agata agiudu
 
 ## General Section - Performance
 
@@ -752,6 +773,11 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Àteras informatziones
 browsing-group =
     .label = Navigatzione
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Atzessibilidade
 
 ## General Section - Proxy
 
@@ -828,6 +854,9 @@ home-prefs-recommended-by-description-new = Cuntenutu de primore curadu dae { $p
 home-prefs-recommended-by-header-generic =
     .label = Istòrias cussigiadas
 home-prefs-recommended-by-description-generic = Cuntenutu de primore curadu dae sa famìlia de { -brand-product-name }
+home-prefs-stories-header =
+    .label = Istòrias
+home-prefs-stories-description = Istòrias personalizadas basadas a subra de is atividades tuas
 
 ##
 
@@ -863,6 +892,7 @@ home-prefs-support-firefox-header =
     .label = Agiuda a { -brand-product-name }
 home-prefs-mission-message = Is patrotzinadores nostros nos agiudant in sa missione nostra de istantargiare unu web mègius
 home-prefs-mission-message-learn-more-link = Iscoberi comente
+home-prefs-manage-topics-link = Gesti is argumentos
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

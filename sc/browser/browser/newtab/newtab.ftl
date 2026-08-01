@@ -70,6 +70,26 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Chirca
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizadore
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Isport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Rellògiu
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Riservadesa
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Immàgine de sa die
+home-prefs-manage-topics-link2 =
+    .label = Gesti is argumentos
 home-prefs-firefox-logo-header =
     .label = logo de { -brand-short-name }
 # Variables:
@@ -117,6 +137,69 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Agiuda a { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Iscoberi comente
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Àteras informatziones
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-6-cta = Àteras informatziones
+newtab-privacy-message-info-8-cta = Àteras informatziones
+newtab-privacy-message-info-9-cta = Cunfigura comente predefinidu
+newtab-privacy-message-info-11-cta = Àteras informatziones
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Àteras informatziones
+newtab-privacy-message-promo-monitor-2-cta = Àteras informatziones
+newtab-privacy-message-promo-signin-1-cta = Identìfica·ti
+newtab-privacy-message-promo-vpn-1-cta = Aberi sa VPN
+newtab-privacy-message-promo-vpn-2-cta = Aberi sa VPN
+newtab-privacy-message-promo-vpn-3-cta = Aberi sa VPN
+newtab-privacy-message-promo-private-window-1-cta = Aberi una ventana privada
+
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Àteras informatziones
+
+## Strings for the Picture of the Day widget
+
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Immàgine de sa die
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Cunfiguratzione de s’immàgine de sa die
+    .aria-label = Cunfiguratzione de s’immàgine de sa die
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Cua s’immàgine de oe
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Ammustra s’immàgine de oe
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Àteras informatziones
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Ammustra s’immàgine de oe
+    .aria-label = A
 
 ## Search box component.
 
@@ -220,6 +303,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Modìfica
+newtab-menu-add-topsite = Agiunghe unu curtzadòrgiu nou
 newtab-menu-open-new-window = Aberi in una ventana noa
 newtab-menu-open-new-private-window = Aberi in una ventana privada noa
 newtab-menu-dismiss = Iscarta
@@ -236,6 +320,9 @@ newtab-menu-report = Sinnala
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloca
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Non sigas prus
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Àteras informatziones
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
@@ -453,6 +540,14 @@ newtab-custom-widget-lists-toggle =
     .label = Listas
 newtab-custom-widget-timer-toggle =
     .label = Temporizadore
+newtab-custom-widget-clock-toggle =
+    .label = Rellògiu
+newtab-custom-widget-sports-toggle2 =
+    .label = Isport
+newtab-custom-widget-privacy-toggle =
+    .label = Riservadesa
+newtab-custom-widget-picture-toggle =
+    .label = Immàgine de sa die
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -472,6 +567,7 @@ newtab-wallpaper-title = Isfundos de ischermu
 newtab-wallpaper-reset = Ripristina comente predefinidu
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Càrriga un’immàgine
+newtab-wallpaper-add-an-image = Agiunghe un’immàgine
 newtab-wallpaper-custom-color = Sèbera unu colore
 newtab-wallpaper-toggle-title =
     .label = Isfundos de ischermu
@@ -499,6 +595,7 @@ newtab-wallpaper-light-fox-anniversary = Unu margiane in unu campu de erba cun u
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Colores uniformes
+newtab-wallpaper-colors = Colores
 newtab-wallpaper-blue = Asulu
 newtab-wallpaper-light-blue = Asulu craru
 newtab-wallpaper-light-purple = Tanadu craru
@@ -589,6 +686,9 @@ newtab-weather-menu-change-location = Càmbia positzione
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Chirca positzione
     .aria-label = Chirca positzione
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Imprea sa positzione atuale
 newtab-weather-menu-weather-display = Vista de su tempus
 newtab-weather-todays-forecast = Previsione de oe
 newtab-weather-see-full-forecast = Ammustra sa previsione cumpleta
@@ -614,6 +714,9 @@ newtab-weather-opt-in-not-now =
     .label = Immoe nono
 newtab-weather-opt-in-yes =
     .label = Eja
+newtab-weather-opt-in-use-location =
+    .label = Imprea sa positzione
+newtab-weather-opt-in-choose-location = Sèbera sa positzione
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
 # Variables:
@@ -667,8 +770,16 @@ newtab-topic-selection-button-pick-interests = Sèbera is interessos tuos
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Sighi
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Sighi { $topic }
 newtab-section-following-button = Sighende
 newtab-section-unfollow-button = Non sigas prus
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Sighende: non sigas prus { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Otimiza is cuntenutos tuos
 newtab-section-follow-highlight-subtitle = Sighi su chi t’interessat pro visualizare de prus de su chi ti praghet.
@@ -680,6 +791,14 @@ newtab-section-follow-highlight-subtitle = Sighi su chi t’interessat pro visua
 newtab-section-block-button = Bloca
 newtab-section-blocked-button = Blocadu
 newtab-section-unblock-button = Isbloca
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Sighi { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Non sigas prus { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -689,6 +808,7 @@ newtab-section-confirm-block-topic-p2 = Is argumentos blocados no ant a apàrrer
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloca { $topic }
+newtab-section-block-cancel-button = Annulla
 
 ## Strings for custom wallpaper highlight
 

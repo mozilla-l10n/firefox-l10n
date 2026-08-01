@@ -12,6 +12,10 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-icon-label2 =
+    .label = Icona
+containers-color-label2 =
+    .label = Colore
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +86,10 @@ containers-icon-tree =
     .label = Mata
 containers-icon-chill =
     .label = Discansu
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-create-button =
+    .label = Fatu
+containers-panel-cancel-button =
+    .label = Annulla

@@ -115,6 +115,11 @@ sidebar-menu-history-label =
     .label = Cronologia
 sidebar-menu-synced-tabs-label =
     .label = Ischedas dae àteros dispositivos
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Ischedas abertas
 sidebar-menu-bookmarks-label =
     .label = Sinnalibros
 sidebar-menu-customize-label =
@@ -161,16 +166,33 @@ sidebar-menu-history-header =
     .heading = Cronologia
 sidebar-menu-syncedtabs-header =
     .heading = Ischedas dae àteros dispositivos
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Ischedas abertas
 sidebar-menu-cpm-header =
     .heading = Craes
+sidebar-menu-bookmarks-header =
+    .heading = Sinnalibros
 sidebar-panel-header-close-button =
     .tooltiptext = Serra
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Menù de is sinnalibros
+sidebar-bookmarks-folder-toolbar = Barra de is sinnalibros
+sidebar-bookmarks-folder-other = Àteros sinnalibros
+sidebar-bookmarks-folder-mobile = Sinnalibros de su dispositivu mòbile
 
 ## Titles for sidebar menu panels.
 
 sidebar-customize-title = Personaliza sa barra laterale
 sidebar-history-title = Cronologia
 sidebar-syncedtabs-title = Ischedas dae àteros dispositivos
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Ischedas abertas
+sidebar-bookmarks-title = Sinnalibros
 
 ## Context for closing synced tabs when hovering over the items
 

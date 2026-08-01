@@ -153,6 +153,10 @@ autofill-card-number = Nùmeru de carta
 autofill-card-invalid-number = Inserta unu nùmeru de carta vàlidu
 autofill-card-name-on-card-2 =
     .label = Nòmine in sa carta
+autofill-card-expires-month-2 =
+    .label = Mese de iscadèntzia
+autofill-card-expires-year-2 =
+    .label = Annu de iscadèntzia
 autofill-card-billing-address-2 =
     .label = Indiritzu de faturatzione
 autofill-card-name-on-card = Nòmine in sa carta
@@ -160,6 +164,65 @@ autofill-card-expires-month = Mese de iscadèntzia
 autofill-card-expires-year = Annu de iscadèntzia
 autofill-card-billing-address = Indiritzu de faturatzione
 autofill-card-network = Genia de carta
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = cartas de crèditu, crèditu, cartas, cartas de dèpidu, dèpidu, portafòlliu, pagamenta
+
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Agiunghe unu passaportu
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Modifica su passaportu
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Nòmine
+autofill-passport-country =
+    .label = Istadu
+autofill-passport-number =
+    .label = Nùmeru
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Data de emissione
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Data de iscadèntzia
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = AAAA
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Boles sarvare su passaportu?
+passport-capture-save-doorhanger-description = Sarva s’informatzione in { -brand-short-name } pro pòdere cumpletare a lestru is formulàrios.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading }{ $part }
+passport-capture-save-button =
+    .label = Sarva
+    .accessKey = S
+passport-capture-not-now-button =
+    .label = Immoe nono
+    .accessKey = n
+passport-capture-never-save-button =
+    .label = Non sarves mai is passaportos
+    .accessKey = m
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
