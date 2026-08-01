@@ -34,7 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = Din { -brand-product-name } på alle di
 firefoxview-syncedtabs-signin-description-2 = For å se faner du har åpne på telefonen og andre enheter, logg inn eller registrer deg for en konto. Med en konto kan du også synkronisere passord, historikk, med mer.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Fra bærbar PC til telefon, sømløst
-firefoxview-syncedtabs-signin-description-3 = Hold surfingen synkronisert på tvers av enhetene dine – faner, passord og historikk, alt synkronisert.
+firefoxview-syncedtabs-signin-description-3 = Hold surfingen synkronisert på tvers av enhetene dine — faner, passord og historikk, alt synkronisert.
 firefoxview-syncedtabs-signin-primarybutton-2 = Logg inn
 firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på telefonen eller nettbrettet
 firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
@@ -58,6 +58,7 @@ firefoxview-syncedtabs-synctabs-description-2 = Slå på synkronisering igjen fo
 firefoxview-syncedtabs-loading-header = Synkronisering pågår
 firefoxview-syncedtabs-loading-description = Når det er gjort, vil du se alle faner du har åpne på andre enheter. Prøv å sjekke igjen senere.
 firefoxview-syncedtabs-loading-header-2 = Henter dine faner…
+firefoxview-syncedtabs-loading-description-2 = Synkronisering pågår. Fanene kommer snart.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasjonen din har deaktivert synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikke synkronisere faner mellom enheter fordi administratoren din har deaktivert synkronisering.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan ikke synkronisere faner mellom enheter fordi organisasjonen din har deaktivert synkronisering.
@@ -67,8 +68,12 @@ firefoxview-tabpickup-network-offline-header = Sjekk internettilkoblingen din
 firefoxview-tabpickup-network-offline-description = Hvis du bruker en brannmur eller proxy, sjekk at { -brand-short-name } har tillatelse til å få tilgang til nettet.
 firefoxview-tabpickup-network-offline-primarybutton = Prøv igjen
 firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } kan ikke koble til akkurat nå
+firefoxview-tabpickup-network-offline-description-2 = Du er kanskje frakoblet, eller noe blokkerer tilkoblingen.
 firefoxview-tabpickup-sync-error-header = Vi har problemer med å synkronisere
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } kan ikke nå synkroniseringstjenesten akkurat nå. Prøv igjen litt senere.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Det oppstod et problem med synkroniseringen.
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } kunne ikke koble til. Vent litt, og prøv deretter på nytt.
 firefoxview-tabpickup-sync-error-primarybutton = Prøv igjen
 firefoxview-tabpickup-sync-disconnected-header = Slå på synkronisering for å fortsette
 firefoxview-tabpickup-sync-disconnected-description = For å få tilgang til fanene dine må du aktivere synkronisering i { -brand-short-name }.
@@ -79,6 +84,7 @@ firefoxview-tabpickup-password-locked-link = Les mer
 firefoxview-tabpickup-password-locked-primarybutton = Skriv inn hovedpassordet
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Les mer</a>
 firefoxview-tabpickup-password-locked-header-2 = Lås opp faner med hovedpassordet ditt
+firefoxview-tabpickup-password-locked-description-2 = For personvernets skyld er synkroniserte faner beskyttet. Skriv inn hovedpassordet for { -brand-short-name } for å se fanene fra dine andre enheter.
 firefoxview-tabpickup-signed-out-header = Logg inn for å koble til på nytt
 firefoxview-tabpickup-signed-out-description = For å koble til igjen og få tak i fanene dine, logg in på din { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = For å koble til igjen og få tak i fanene dine, logg in på kontoen din.
@@ -229,6 +235,7 @@ firefoxview-history-empty-description-two = Beskyttelse av personvernet ditt er 
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
 firefoxview-history-empty-header-2 = Din nettleserute starter her
+firefoxview-history-empty-description-2 = Etter hvert som du besøker sider, vises historikken din her. Du kan styre hva som skal huskes i <a data-l10n-name="history-settings-url">innstillinger</a>.
 
 ##
 
@@ -242,6 +249,7 @@ firefoxview-dont-remember-history-empty-header-2 = Du har kontroll over hva { -b
 firefoxview-dont-remember-history-empty-description-one = Akkurat nå husker ikke { -brand-short-name } nettlesingsaktiviteten din. For å endre det, <a data-l10n-name="history-settings-url-two">oppdater historikkinnstillingene dine</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Du etterlater ingen spor
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } lagrer ikke historikken din akkurat nå. Du kan endre dette når som helst i <a data-l10n-name="history-settings-url-two">innstillingene</a>.
 
 ##
 

@@ -254,6 +254,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Profilu pro compidare faddinas de rete in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rete
+profiler-popup-presets-networking-with-logs-description = Profilu pro investigare faddinas de rete in { -brand-shorter-name }, includende registros de rete. Custos registros podent cuntènnere informatziones sensìbiles, comente is URL chi bìsitas.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Rete cun registros
 profiler-popup-presets-power-description = Profilu pro compidare faddinas de impreu de energia in { -brand-shorter-name }, cun subra-càrriga (overhead) bàscia.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -304,6 +307,9 @@ appmenu-help-share-ideas =
     .accesskey = C
 appmenu-help-switch-device =
     .label = Passa a unu dispositivu nou
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Agiudu e sinnalatziones
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -342,9 +348,13 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Intra in su contu tuo
+appmenuitem-monitor-title2 = Ampara·ti dae is furas de identidade
+appmenuitem-monitor-description2 = Retzi avisos in contu de violatziones de datos
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Retzi avisos a subra de violatziones de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Mantene sa posta eletrònica privada
+appmenuitem-relay-description2 = Agiudat a evitare s’àliga in sa casella de posta
 appmenuitem-relay-description = Cua s'indiritzu de posta eletrònica e su nùmeru de telèfonu tuos reales
 appmenuitem-services-relay-description = Avia su pannellu de is alias de posta eletrònica
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
