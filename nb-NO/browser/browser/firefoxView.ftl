@@ -234,7 +234,7 @@ firefoxview-history-empty-description = Mens du surfer, vil sidene du besøker b
 firefoxview-history-empty-description-two = Beskyttelse av personvernet ditt er kjernen i det vi gjør. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } husker, i <a data-l10n-name="history-settings-url">innstillingene for historikk</a>.
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
-firefoxview-history-empty-header-2 = Din nettleserute starter her
+firefoxview-history-empty-header-2 = Her begynner surfesporene dine
 firefoxview-history-empty-description-2 = Etter hvert som du besøker sider, vises historikken din her. Du kan styre hva som skal huskes i <a data-l10n-name="history-settings-url">innstillinger</a>.
 
 ##

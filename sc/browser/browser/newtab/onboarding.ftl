@@ -566,6 +566,27 @@ onboarding-personalization-motivation-privacy-option = Riservadesa e seguresa
 onboarding-personalization-motivation-productivity-option = Produtividade
 onboarding-personalization-motivation-other-option = Àteru
 
+## Onboarding 2026 brand refresh
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } est acanta a te
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Cunditziones de impreu de { -brand-product-name }
+smartwindow-existing-user-fx-tou-accept = Atzeta
+smartwindow-existing-user-fx-tou-go-back = A coa
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Sighi
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-dismiss = No, gràtzias
+smartwindow-sidebar-auto-open-callout-rejected-title = Apo cumprèndidu
+
 ## Theme Picker screen strings
 
 onboarding-theme-picker-button-label = Sarva e sighi

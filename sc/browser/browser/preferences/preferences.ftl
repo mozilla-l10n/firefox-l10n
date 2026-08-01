@@ -778,6 +778,8 @@ browsing-group =
 
 preferences-accessibility-header =
     .heading = Atzessibilidade
+preferences-default-zoom-select =
+    .aria-label = Ingrandimentu predefinidu
 
 ## General Section - Proxy
 
@@ -1040,6 +1042,12 @@ containers-settings-button =
     .label = Cunfiguratzione
 containers-remove-button =
     .label = Boga
+containers-settings-button2 =
+    .title = Cunfiguratzione
+containers-remove-button3 =
+    .title = Cantzella
+containers-remove-button2 =
+    .title = Boga
 
 ## Account and sync
 
@@ -1177,6 +1185,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Gesti is datos sincronizados
     .accesskey = G
+settings-sync-disconnect-button =
+    .label = Disconnete
 sync-change-options =
     .label = Modìfica…
     .accesskey = M
@@ -1432,13 +1442,47 @@ autofill-payment-methods-add-button = Agiunghe unu mètodu de pagamentu nou
 payments-list-header =
     .label = Mètodos de pagamentu
 payments-delete-payment-prompt-title = Boles cantzellare custu mètodu de pagamentu?
+payments-delete-payment-prompt-confirm-button = Cantzella
+payments-delete-payment-button-label =
+    .aria-label = Cantzella
+payments-edit-payment-button-label =
+    .aria-label = Modifica
 autofill-addresses-checkbox-message =
     .label = Sarva e cumpleta in automàticu is indiritzos
     .accesskey = a
 autofill-addresses-manage-addresses-button =
     .label = Gesti is indiritzos e àteru
     .accesskey = s
+addresses-list-header =
+    .label = Indiritzos
+addreses-delete-address-button-label =
+    .aria-label = Cantzella
+addreses-edit-address-button-label =
+    .aria-label = Modifica
+addresses-delete-address-prompt-title = Boles cantzellare custu indiritzu?
+addresses-delete-address-prompt-confirm-button = Cantzella
+addresses-delete-address-prompt-cancel-button = Annulla
 autofill-addresses-add-button = Agiunghe un’indiritzu nou
+autofill-addresses-manage-addresses-title =
+    .heading = Gesti is indiritzos e àteru
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = No as sarvadu nissunu indiritzu
+passports-list-header =
+    .label = Passaportos
+passports-delete-passport-button-label =
+    .aria-label = Cantzella
+passports-edit-passport-button-label =
+    .aria-label = Modifica
+passports-delete-passport-prompt-title = Boles cantzellare custu passaportu?
+passports-delete-passport-prompt-confirm-button = Cantzella
+passports-delete-passport-prompt-cancel-button = Annulla
+autofill-passports-add-button = Agiunghe unu passaportu nou
+autofill-personal-info-manage-title =
+    .heading = Gesti is informatziones personales
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = No as sarvadu nissunu passaportu
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1498,6 +1542,11 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Isbòida sa cronologia…
     .accesskey = s
+history-header2 =
+    .heading = Cronologia
+history-section-header =
+    .label = Cronologia
+    .description = Sèbera su chi { -brand-short-name } depet regordare cando serras su navigadore
 history-group =
     .label = Cronologia
 
@@ -1863,6 +1912,8 @@ collection-backlogged-crash-reports2 =
     .label = Imbia sinnalatziones de faddina in automàticu
     .accesskey = I
 collection-backlogged-crash-reports-description = Custu agiudat { -vendor-short-name } a agatare e arrangiare is faddinas de su navigadore. Is informes podent incluire datos personale o sensìbiles.
+settings-redesign-promo-dismiss-button =
+    .label = Apo cumprèndidu
 addon-recommendations =
     .label = Permite chi { -brand-short-name } cussiget estensiones personalizadas
 addon-recommendations-link = Àteras informatziones
@@ -2073,3 +2124,31 @@ preferences-ai-controls-header3 =
 ## Privacy and security status card
 
 security-privacy-status-update-needed-label = Nch’at una versione noa de { -brand-short-name } a disponimentu.
+issue-card-reset-button =
+    .label = Azera
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-reset =
+    .label = Azera is personalizatziones
+    .description = Torra a una cunfiguratzione de livellu de amparu predefinidu.
+preferences-etp-reset-standard-button =
+    .label = Torra a sa cunfiguratzione istandard
+preferences-etp-reset-strict-button =
+    .label = Torra a sa cunfiguratzione rigorosa
+preferences-etp-custom-cookies-enabled =
+    .label = Testimòngios
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Testimòngios
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Cuntenutu chi ti sighit
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Cuntenutu chi ti sighit
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Cripto-minadores
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Generadores de imprentas digitales connotos
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Generadores de imprentas digitales suspetos
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Generadores de imprentas digitales suspetos

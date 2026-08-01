@@ -70,6 +70,8 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Chirca
+home-prefs-widgets-header =
+    .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Listas
@@ -561,6 +563,24 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Serra
 newtab-custom-settings = Gesti prus cunfiguratziones
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Temas de { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Is temas tuos
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Ativa
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Disativa
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Installa su tema
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Iscoberi àteros temas
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Isfundos de ischermu
@@ -799,6 +819,14 @@ newtab-section-follow-topic =
 #   $topic (string) - Name of topic that user is unfollowing
 newtab-section-unfollow-topic =
     .aria-label = Non sigas prus { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Bloca { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Isbloca { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -917,6 +945,15 @@ newtab-widget-lists-name-placeholder-new2 =
     .aria-label = Modifica su nòmine de sa lista
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Cua su widget
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = A manca
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = A dereta
+newtab-widget-size-small = Pitica
+newtab-widget-size-medium = Mèdia
+newtab-widget-size-large = Manna
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Cua is widgets
@@ -950,12 +987,49 @@ newtab-daily-briefing-card-timestamp = Atualizadu { $minutes } min a immoe
 newtab-widget-message-title = Mantene sa cuntzentratzione cun listas e cun unu temporizadore integradu
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Dae is promemòrias lestros a is fainas de ònnia die, dae is sessiones de cuntzentratzione a cussas de pasada: mantene s’atentzione e rispeta is oràrios.
+newtab-promo-card-cta-addons = Proa·ddu immoe
 newtab-promo-card-title = Agiuda a { -brand-product-name }
 newtab-promo-card-body = Is patrotzinadores nostros nos agiudant in sa missione nostra de istantargiare unu web mègius
 newtab-promo-card-cta = Àteras informatziones
 newtab-promo-card-dismiss-button =
     .title = Iscarta
     .aria-label = Iscarta
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minutu
+           *[other] { $minutes } minutos
+        }
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Cua su temporizadore
+
+##
+
+newtab-sports-widget-menu-learn-more = Àteras informatziones
+newtab-sports-widget-skip = Brinca
+newtab-sports-widget-cancel = Annulla
+newtab-sports-widget-back-button =
+    .aria-label = A coa
+newtab-sports-widget-done-button =
+    .label = Fatu
+newtab-sports-widget-group-a = Grupu A
+newtab-sports-widget-group-b = Grupu B
+newtab-sports-widget-group-c = Grupu C
+newtab-sports-widget-group-d = Grupu D
+newtab-sports-widget-group-e = Grupu E
+newtab-sports-widget-group-f = Grupu F
+newtab-sports-widget-group-g = Grupu G
+newtab-sports-widget-group-h = Grupu H
+newtab-sports-widget-group-i = Grupu I
+newtab-sports-widget-group-j = Grupu J
+newtab-sports-widget-group-k = Grupu K
+newtab-sports-widget-group-l = Grupu L
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -971,3 +1045,11 @@ newtab-activation-window-message-dismiss-button =
 newtab-activation-window-message-customization-focus-header = Personaliza custu ispàtziu
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Cumintza a personalizare
+
+## Strings for the Clock widget
+
+newtab-clock-widget-button-cancel = Annulla
+newtab-clock-widget-button-back =
+    .title = A coa
+    .aria-label = A coa
+newtab-clock-widget-button-save = Sarva

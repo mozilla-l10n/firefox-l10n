@@ -62,6 +62,8 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ismànnia sa barra laterale a su passàgiu de su puntadore
+sidebar-customize-firefox-tools-header2 =
+    .label = Ainas
 
 ## Labels for sidebar context menu items
 
@@ -106,6 +108,18 @@ sidebar-history-context-menu-bookmark-page =
     .label = Agiunghe a is sinnalibros…
 sidebar-history-context-menu-delete-pages =
     .label = Cantzella pàginas dae sa cronologia
+
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Cantzella
+
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Serra s’ischeda
 
 ## Labels for sidebar menu items.
 
