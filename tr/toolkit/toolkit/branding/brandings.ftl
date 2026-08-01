@@ -60,7 +60,7 @@
 -smart-window-brand-name =
     { $form ->
         [uppercase-singular] Akıllı pencere
-        [uppercase-plural] Akıllı pencere
+        [uppercase-plural] Akıllı pencereler
         [lowercase-singular] akıllı pencere
-       *[lowercase-plural] akıllı pencere
+       *[lowercase-plural] akıllı pencereler
     }
