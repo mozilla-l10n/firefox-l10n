@@ -298,5 +298,26 @@ aiwindow-feedback-modal-title = Kongsi maklum balas
 aiwindow-feedback-what-worked-well = Apa yang berjalan dengan baik? Jangan sertakan maklumat peribadi.
 aiwindow-feedback-choose-any = Pilih mana-mana yang berkenaan
 aiwindow-feedback-add-details = Tambah butiran jika mahu. Jangan sertakan maklumat peribadi.
+aiwindow-feedback-disclaimer = Dengan menghantar, maklum balas anda dan sembang ini dikongsi untuk membantu { -brand-shorter-name } menambah baik { -smart-window-brand-name }. Sembang anda yang lain kekal peribadi. <a data-l10n-name="learn-more">Ketahui lebih lanjut</a>
 aiwindow-feedback-submit = Hantar
 aiwindow-feedback-cancel = Batal
+aiwindow-feedback-reason-incorrect-or-misleading = Tidak tepat atau mengelirukan
+aiwindow-feedback-reason-doesnt-address-my-request = Tidak menjawab permintaan saya
+aiwindow-feedback-reason-lacks-personalization = Kurang personalisasi atau konteks
+aiwindow-feedback-reason-performance-or-usability = Isu prestasi atau kebolehgunaan
+aiwindow-feedback-reason-harmful-or-offensive = Berbahaya atau menyinggung
+aiwindow-feedback-reason-other = Lain-lain
+aiwindow-feedback-preview-report = Lihat butiran sembang
+aiwindow-feedback-preview-report-with-page = Lihat butiran sembang dan halaman
+aiwindow-feedback-include-page-content = Kongsi halaman yang dirujuk dalam sembang ini
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Tukar susun atur paparan
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Tukar mod: Paparan Senarai
+    .tooltiptext = Paparan Senarai
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Tukar mod: Paparan Grid
+    .tooltiptext = Paparan Grid
