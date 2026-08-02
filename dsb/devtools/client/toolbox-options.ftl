@@ -80,6 +80,8 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Seśowy monitor
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Maksimalna wjelikosć napšašowańskego a wótegronjeńskego teksta (staja se na 0 za njewobgranicowany):
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Njewobgranicowany
 

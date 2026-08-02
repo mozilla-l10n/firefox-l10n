@@ -300,6 +300,15 @@ newtab-privacy-message-milestone-year =
        *[other] { $count } pśeslědowakow jo se lětosa blokěrowało. To jo mócne lěto šćita wašeje priwatnosći.
     }
 newtab-privacy-message-milestone-year-cta = Šćity pokazaś
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } pśeslědowak jo se blokěrował. To jo wětšy póstup w směrje k priwatnosći pód wašymi wuměnjenjami.
+        [two] { $count } pśeslědowaka stej se blokěrowałej. To jo wětšy póstup w směrje k priwatnosći pód wašymi wuměnjenjami.
+        [few] { $count } pśeslědowaki su se blokěrowali. To jo wětšy póstup w směrje k priwatnosći pód wašymi wuměnjenjami.
+       *[other] { $count } pśeslědowakow jo se blokěrowało. To jo wětšy póstup w směrje k priwatnosći pód wašymi wuměnjenjami.
+    }
 newtab-privacy-message-milestone-total-cta = Šćity pokazaś
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (Wěcej ako 100 pśeslědowakow źinsa blokěrowane. ) Mjenjej pśeslědowakow wěcej priwatnosći groni.
@@ -1571,7 +1580,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Pomagajśo nam, asistenty pólěpšyś
+newtab-sports-widget-message-survey-body = Swětowe mejstaŕstwo jo skóńcone. Źělśo swójo měnjenje wó dožywjenju.
 newtab-sports-widget-message-survey-widget-title = Kak jo był asistent swětowego mejstaŕstwa?
+newtab-sports-widget-message-survey-widget-body = Pišćo nam wašo měnjenje, aby nam pomagał, pśichodne asistenty pólěpšyś. Wopytajśo pón nowy w swójej lisćinje.
 newtab-sports-widget-message-survey-cta =
     .label = Napšašowanje wupołniś
 

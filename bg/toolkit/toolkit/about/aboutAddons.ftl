@@ -292,6 +292,13 @@ find-more-themes = Още теми
 # used for screen readers.
 addon-options-button =
     .aria-label = Още настройки
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Разширенията и темите ви позволяват да персонализирате { -brand-product-name }. Те могат да подобрят поверителността,
+    увеличат производителността, да подобрят показването на медии, да променят начина по който { -brand-product-name } изглежда и много повече. Тези малки софтуерни програми често се разработват от трети страни. Ето селекция, която Firefox <a data-l10n-name="learn-more-trigger">препоръчва</a> за изключителна сигурност, производителност и функционалност.
 
 ## Add-on actions
 

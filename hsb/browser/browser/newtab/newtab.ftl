@@ -304,10 +304,10 @@ newtab-privacy-message-milestone-year-cta = Škity pokazać
 #   $count (number) - Trackers blocked all-time
 newtab-privacy-message-milestone-total =
     { $count ->
-        [one] { $count } přesćěhowak je so zablokował. To je wjetši pokrok w směrje k priwatnosći pod wašich wuměnjenjach.
-        [two] { $count } přesćěhowakaj stej so zablokowałoj. To je wjetši pokrok w směrje k priwatnosći pod wašich wuměnjenjach.
-        [few] { $count } přesćěhowaki su so zablokowali. To je wjetši pokrok w směrje k priwatnosći pod wašich wuměnjenjach.
-       *[other] { $count } přesćěhowakow je so zablokowało. To je wjetši pokrok w směrje k priwatnosći pod wašich wuměnjenjach.
+        [one] { $count } přesćěhowak je so zablokował. To je wjetši pokrok w směrje k priwatnosći pod wašimi wuměnjenjemi.
+        [two] { $count } přesćěhowakaj stej so zablokowałoj. To je wjetši pokrok w směrje k priwatnosći pod wašimi wuměnjenjemi.
+        [few] { $count } přesćěhowaki su so zablokowali. To je wjetši pokrok w směrje k priwatnosći pod wašimi wuměnjenjemi.
+       *[other] { $count } přesćěhowakow je so zablokowało. To je wjetši pokrok w směrje k priwatnosći pod wašimi wuměnjenjemi.
     }
 newtab-privacy-message-milestone-total-cta = Škity pokazać
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
@@ -1582,7 +1582,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 newtab-sports-widget-message-survey-title = Pomhajće nam, asistenty polěpšić
 newtab-sports-widget-message-survey-body = Swětowe mišterstwo je skónčene. Dźělće swoje měnjenje wo dožiwjenju.
 newtab-sports-widget-message-survey-widget-title = Kak běše asistent swětoweho mišterstwa?
-newtab-sports-widget-message-survey-widget-body = Pisajće nam waše měnjenje, zo byšće nam pomhał, přichodne asistenty polěpšić. Wupruwujće potom nowy w swojim lisćinje.
+newtab-sports-widget-message-survey-widget-body = Pisajće nam waše měnjenje, zo byšće nam pomhał, přichodne asistenty polěpšić. Wupruwujće potom nowy w swojej lisćinje.
 newtab-sports-widget-message-survey-cta =
     .label = Naprašowanje wupjelnić
 

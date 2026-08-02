@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 abuse-report-title-extension = Докладвайте това разширение до { -vendor-short-name }
+abuse-report-learnmore =
+    Не сте сигурни кой проблем да изберете?
+    <a data-l10n-name="learnmore-link">Научете повече за докладването на разширения и теми</a>
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 

@@ -197,6 +197,9 @@ link-preview-reading-time =
 link-preview-generation-error-unexpected = Нещо се обърка.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Нов опит
+link-preview-settings-enable =
+    .label = Включване на визуализациите на връзки
+    .description = Вижте заглавието, описанието и други неща, когато използвате прекия път или щракнете с десен бутон върху връзката.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Ново: Щракнете и задръжте върху препратка за бърз преглед
 # Header for the key points section

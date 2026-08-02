@@ -51,6 +51,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Wjelikosć rejtarikow źělonego naglěda změniś
+tab-devtools-splitter =
+    .aria-label = Wjelikosć naglěda za rědy wuwijarjow změniś
 
 ## Tooltips for tab audio control
 ## Variables:
