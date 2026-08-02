@@ -84,6 +84,7 @@ firefoxview-tabpickup-password-locked-link = Les meir
 firefoxview-tabpickup-password-locked-primarybutton = Skriv inn hovudpassord
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Les meir</a>
 firefoxview-tabpickup-password-locked-header-2 = Lås opp faner med hovudpassordet ditt
+firefoxview-tabpickup-password-locked-description-2 = Av omsyn til personvernet er synkroniserte faner verna. Skriv inn hovudpassordet for { -brand-short-name } for å sjå fanene frå dine andre einingar.
 firefoxview-tabpickup-signed-out-header = Logg inn for å kople til på nytt
 firefoxview-tabpickup-signed-out-description = For å kople til på nytt og få tak i fanene dine, logg in på { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = For å kople til på nytt og få tak i fanene dine, logg in på kontoen din.
@@ -234,6 +235,7 @@ firefoxview-history-empty-description-two = Vern av personvernet ditt er kjernen
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
 firefoxview-history-empty-header-2 = Her byrjar surfespora dine
+firefoxview-history-empty-description-2 = Etter kvart som du besøkjer sider, blir historikken din vist her. Du kan styre kva som skal hugsast i <a data-l10n-name="history-settings-url">innstillingar</a>.
 
 ##
 
@@ -247,6 +249,7 @@ firefoxview-dont-remember-history-empty-header-2 = Du har kontroll over kva { -b
 firefoxview-dont-remember-history-empty-description-one = Akkurat no hugsar ikkje { -brand-short-name } nettlesingsaktiviteten din. For å endre det, <a data-l10n-name="history-settings-url-two">oppdater historikkinnstillingane dine</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Du etterlèt ingen spor
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } lagrar ikkje historikken din akkurat no. Du kan endre dette når som helst i <a data-l10n-name="history-settings-url-two">innstillingane</a>.
 
 ##
 
