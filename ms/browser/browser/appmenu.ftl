@@ -122,6 +122,21 @@ fxa-menu-sync-off-data-description = Data anda tidak sync
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Hidupkan
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Daftar masuk untuk sync
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sync { $deviceName } sekarang
+fxa-menu-manage-sync-settings =
+    .label = Urus tetapan sync
+fxa-menu-add-device =
+    .label = Tambah peranti
+fxa-menu-manage-devices =
+    .label = Urus peranti anda
+fxa-menu-device-missing =
+    .label = Tidak Nampak Peranti Anda?
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Akaun
 # Variables
@@ -142,12 +157,30 @@ appmenuitem-fxa-sync-off-description = Lindungi dan akses penanda halaman, kata 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Perkembangan Terbaru
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Maklumkan tentang ciri baharu
+    .accesskey = c
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = Profiler
+    .tooltiptext = Rakam profil prestasi
+profiler-popup-button-recording =
+    .label = Profiler
+    .tooltiptext = Profiler sedang merakam profil
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = Profiler sedang menangkap profil
 profiler-popup-header-text = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Dedahkan maklumat lanjut
+profiler-popup-description-title =
+    .value = Rakam, analisis, kongsi
 
 ## Profiler presets
 ## They are shown in the popup's select box.
