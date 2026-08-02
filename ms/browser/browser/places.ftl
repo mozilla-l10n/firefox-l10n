@@ -5,9 +5,21 @@
 places-open =
     .label = Buka
     .accesskey = k
+places-open-in-tab =
+    .label = Buka dalam Tab Baru
+    .accesskey = B
+places-open-all-bookmarks =
+    .label = Buka Semua Tandabuku
+    .accesskey = T
 places-open-all-in-tabs =
     .label = Buka Semua dalam Tab
     .accesskey = k
+places-open-in-window =
+    .label = Buka dalam Tetingkap Baru
+    .accesskey = t
+places-open-in-private-window =
+    .label = Buka dalam Tetingkap Peribadi Baru
+    .accesskey = P
 places-empty-bookmarks-folder =
     .label = (Kosong)
 places-view =
@@ -49,6 +61,12 @@ places-delete-page =
            *[other] Buang Halaman
         }
     .accesskey = B
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Tandabuku Lain
+places-manage-bookmarks =
+    .label = Urus Tandabuku
+    .accesskey = U
 places-library3 =
     .title = Pustaka
 places-organize-button =

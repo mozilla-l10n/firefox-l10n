@@ -818,8 +818,14 @@ bookmarks-tools-sidebar-visibility =
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Sorok Bar alat Tandabuku
-           *[other] Papar Bar alat Tandabuku
+            [true] Sembunyikan Bar alatan Tandabuku
+           *[other] Papar Bar alatan Tandabuku
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Sembunyikan Bar alatan Tandabuku
+           *[other] Tunjukkan Bar alatan Tandabuku
         }
 bookmarks-tools-menu-button-visibility =
     .label =
@@ -834,8 +840,15 @@ bookmarks-search =
     .label = Cari Tandabuku
 bookmarks-tools =
     .label = Alatan Tandabuku
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bar alatan Tandabuku
+    .accesskey = b
+    .aria-label = Tandabuku
 bookmarks-toolbar-menu =
-    .label = Bar alatan Tandabuku
+    .label = Bar alat Tandabuku
 bookmarks-toolbar-placeholder =
     .title = Item Bar alatan Tandabuku
 bookmarks-toolbar-placeholder-button =
@@ -846,8 +859,29 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Tandabuku
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Simpan ke { -pocket-brand-name }
+    .tooltiptext = Simpan ke { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Baiki pengekodan teks
+    .tooltiptext = Teka pengekodan teks yang betul daripada kandungan halaman
+
 ##
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Tetapan
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Buka tetapan ({ $shortcut })
+           *[other] Buka tetapan
+        }
 toolbar-overflow-customize-button =
     .label = Penyesuaian Bar Alatan…
     .accesskey = P

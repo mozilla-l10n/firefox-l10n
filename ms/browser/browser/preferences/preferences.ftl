@@ -4,8 +4,14 @@
 
 do-not-track-description = Hantar laman web isyarat “Jangan Jejak” bahawa anda tidak mahu dikesan
 do-not-track-learn-more = Ketahui selanjutnya
+do-not-track-option-default-content-blocking-known =
+    .label = Hanya ketika { -brand-short-name } ditetapkan untuk menyekat penjejak yang dikenali
 do-not-track-option-always =
     .label = Sentiasa
+settings-page-title = Tetapan
+managed-notice = Pelayar anda dikendalikan oleh organisasi anda.
+category-list =
+    .aria-label = Kategori
 pane-general-title = Umum
 category-general =
     .tooltiptext = { pane-general-title }
@@ -26,9 +32,17 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
+pane-experimental-title = Eksperimen { -brand-short-name }
+category-experimental =
+    .tooltiptext = Eksperimen { -brand-short-name }
+pane-experimental-subtitle = Teruskan dengan berwaspada
+pane-experimental-search-results-header = Eksperimen { -brand-short-name }: Teruskan dengan berwaspada
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-reset =
+    .label = Pulihkan Lalai
+    .accesskey = P
 help-button-label2 = Sokongan { -brand-short-name }
     .title = Sokongan { -brand-short-name }
 addons-button-label2 = Ekstensi & Tema
@@ -136,6 +150,10 @@ default-font-size = Saiz
 advanced-fonts =
     .label = Lanjutan…
     .accesskey = L
+# Variables:
+#   $percentage (number) - Zoom percentage value
+preferences-default-zoom-value =
+    .label = { $percentage }%
 language-header = Bahasa
 choose-language-description = Pilih bahasa pilihan untuk memaparkan halaman
 choose-button =
