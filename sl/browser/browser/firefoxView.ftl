@@ -44,16 +44,24 @@ firefoxview-tabpickup-synctabs-header = Vklopi sinhronizacijo zavihkov
 firefoxview-tabpickup-synctabs-description = { -brand-short-name(sklon: "dajalnik") } dovoli skupno rabo zavihkov med napravami.
 firefoxview-tabpickup-synctabs-learn-how = Poglejte, kako
 firefoxview-tabpickup-synctabs-primarybutton = Sinhroniziraj odprte zavihke
+firefoxview-tabpickup-synctabs-primarybutton-2 = Vklopi sinhronizacijo zavihkov
 firefoxview-syncedtabs-synctabs-header = Spremeni nastavitve sinhronizacije
 firefoxview-syncedtabs-synctabs-description = Za ogled zavihkov z drugih naprav se morajo odprti zavihki sinhronizirati.
+firefoxview-syncedtabs-synctabs-header-2 = Sinhroniziranje zavihkov je izklopljeno
 firefoxview-syncedtabs-loading-header = Sinhronizacija v teku
 firefoxview-syncedtabs-loading-description = Ko se bo končala, se bodo prikazali vsi zavihki, ki jih imate odprte na drugih napravah. Vrnite se čez nekaj trenutkov.
+firefoxview-syncedtabs-loading-header-2 = Pridobivanje zavihkov …
+firefoxview-syncedtabs-loading-description-2 = Sinhronizacija poteka. Zavihki bodo kmalu tu.
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizacija je onemogočila sinhronizacijo
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne more sinhronizirati zavihkov med napravami, ker je skrbnik onemogočil sinhronizacijo.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne more sinhronizirati zavihkov med napravami, ker je vaša organizacija onemogočila sinhronizacijo.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Sinhroniziranje zavihkov je izklopljeno
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Vaša organizacija je prepovedala uporabo te možnosti.
 firefoxview-tabpickup-network-offline-header = Preverite svojo povezavo z internetom
 firefoxview-tabpickup-network-offline-description = Če uporabljate požarni zid ali posredniški strežnik, preverite, ali ima { -brand-short-name } dovoljenje za dostop do spleta.
 firefoxview-tabpickup-network-offline-primarybutton = Poskusi znova
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } se trenutno ne more povezati
+firefoxview-tabpickup-network-offline-description-2 = Morda nimate vzpostavljene povezave ali pa jo kaj ovira.
 firefoxview-tabpickup-sync-error-header = Imamo težave s sinhronizacijo
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } trenutno ne more vzpostaviti povezave s storitvijo sinhronizacije. Poskusite znova čez nekaj trenutkov.
 firefoxview-tabpickup-sync-error-primarybutton = Poskusi znova
@@ -65,10 +73,14 @@ firefoxview-tabpickup-password-locked-description = Za zajem zavihkov morate vne
 firefoxview-tabpickup-password-locked-link = Več o tem
 firefoxview-tabpickup-password-locked-primarybutton = Vnesite glavno geslo
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Več o tem</a>
+firefoxview-tabpickup-password-locked-header-2 = Odklenite zavihke z glavnim geslom
+firefoxview-tabpickup-password-locked-description-2 = Zaradi vaše zasebnosti so sinhronizirani zavihki zaščiteni. Za ogled zavihkov z drugih naprav vnesite glavno geslo za { -brand-short-name(sklon: "tozilnik") }.
 firefoxview-tabpickup-signed-out-header = Prijavite se, da se ponovno povežete
 firefoxview-tabpickup-signed-out-description = Za ponovno vzpostavitev povezave in zajem zavihkov se prijavite v { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Za ponovno vzpostavitev povezave in zajem zavihkov se prijavite v račun.
 firefoxview-tabpickup-signed-out-primarybutton = Prijava
+firefoxview-tabpickup-signed-out-header-2 = Prijavite se za prikaz svojih zavihkov
+firefoxview-tabpickup-signed-out-description-2 = Za ogled zavihkov z drugih naprav se znova povežite.
 firefoxview-tabpickup-syncing = Počakajte, da se zavihki sinhronizirajo. Trajalo bo samo trenutek.
 firefoxview-mobile-promo-header = Zajemite zavihke s telefona ali tablice
 firefoxview-mobile-promo-description = Za ogled najnovejših mobilnih zavihkov se prijavite v { -brand-product-name(sklon: "tozilnik") } v sistemu iOS ali Android.
@@ -223,6 +235,7 @@ firefoxview-choose-browser-button = Izberite brskalnik
 
 firefoxview-dont-remember-history-empty-header-2 = Vi imate nadzor nad tem, kaj si { -brand-short-name } zapomni
 firefoxview-dont-remember-history-empty-description-one = Trenutno je { -brand-short-name } nastavljen tako, da si ne zapomni vaše dejavnosti brskanja. To lahko spremenite v <a data-l10n-name="history-settings-url-two">nastavitvah zgodovine</a>.
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } trenutno ne shranjuje zgodovine. To lahko kadarkoli spremenite v <a data-l10n-name="history-settings-url-two">nastavitvah</a>.
 
 ##
 

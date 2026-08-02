@@ -1677,6 +1677,25 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Ni dodanih naslovov
+personal-info-group =
+    .label = Osebni podatki
+autofill-personal-info-checkbox-message =
+    .label = Shranjuj in samodejno izpolnjuj osebne podatke
+autofill-personal-info-manage-button =
+    .label = Upravljanje osebnih podatkov
+passports-list-header =
+    .label = Potni listi
+passports-delete-passport-button-label =
+    .aria-label = Izbriši
+passports-edit-passport-button-label =
+    .aria-label = Uredi
+passports-delete-passport-prompt-title = Izbrišem ta potni list?
+passports-delete-passport-prompt-confirm-button = Izbriši
+passports-delete-passport-prompt-cancel-button = Prekliči
+autofill-passports-add-button = Dodaj nov potni list
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Ni dodanih potnih listov
 pane-passwords-autofill-title2 = Gesla in samodejno izpolnjevanje
     .title = Gesla in samodejno izpolnjevanje
 preferences-passwords-autofill-header =

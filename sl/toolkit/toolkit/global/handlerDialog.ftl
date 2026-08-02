@@ -80,6 +80,13 @@ choose-dialog-privatebrowsing-disabled = Onemogočeno v zasebnih oknih
 ## Shown when the user clicks a mailto: link and lets them pick which configured
 ## web mail service (or the OS default app) should handle email links.
 
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = Izberite aplikacijo za e-pošto
+mailto-handler-picker-subtitle = Izberite, s katero aplikacijo želite odpirati e-poštne povezave. Izbiro lahko pozneje spremenite v nastavitvah.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Vprašaj me ob vsakem kliku na e-poštno povezavo
 # Confirms the picker: sets the selected app as the handler for email links.
 mailto-handler-picker-set-default =
     .label = Nastavi kot privzeto

@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Zasebnost
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Križanka
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Delnice
@@ -261,6 +264,8 @@ newtab-privacy-message-first-protection-cta = Ogled zaščit
 
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Več o tem
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Podatki o delnicah niso na voljo.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -423,6 +428,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Uredi
+newtab-menu-add-topsite = Dodaj novo bližnjico
 newtab-menu-open-new-window = Odpri v novem oknu
 newtab-menu-open-new-private-window = Odpri v novem zasebnem oknu
 newtab-menu-dismiss = Skrij
@@ -688,6 +694,29 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Zapri
 newtab-custom-settings = Več nastavitev
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Videz
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Prikaži več tem
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Teme za { -brand-product-name(sklon: "tozilnik") }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Vaše teme
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Omogoči
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Onemogoči
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Namesti temo
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Raziščite več tem
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Ozadja
@@ -836,10 +865,12 @@ newtab-weather-menu-learn-more = Več o tem
 newtab-weather-menu-detect-my-location = Zaznaj mojo lokacijo
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Podatki o vremenu trenutno niso na voljo.
+newtab-weather-opt-in-see-weather = Ali želite videti podatke o vremenu v svojem mestu?
 newtab-weather-opt-in-not-now =
     .label = Ne zdaj
 newtab-weather-opt-in-yes =
     .label = Da
+newtab-weather-opt-in-headline = Prikaži lokalne podatke o vremenu
 newtab-weather-opt-in-use-location =
     .label = Uporabi lokacijo
 newtab-weather-opt-in-choose-location = Izberite lokacijo
@@ -1068,6 +1099,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Prekliči
     .title = Prekliči
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Možnosti seznamov
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Ustvari nov seznam
@@ -1075,6 +1109,9 @@ newtab-widget-lists-name-label-default =
     .label = Seznam opravil
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Seznam opravil
+newtab-widget-lists-name-placeholder-checklist2 =
+    .aria-label = Uredi ime seznama
+    .placeholder = Kontrolni seznam
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Nov seznam
@@ -1332,6 +1369,12 @@ newtab-sports-widget-pagination-previous =
 newtab-sports-widget-pagination-next =
     .title = Naslednja
     .aria-label = Naslednja
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .title = Tekma v živo { $index } od { $total }
+    .aria-label = Tekma v živo { $index } od { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1432,6 +1475,17 @@ newtab-clock-widget-menu-edit = Uredi ure
 newtab-clock-widget-menu-switch-to-12h = Preklopi na 12-urni zapis
 newtab-clock-widget-menu-switch-to-24h = Preklopi na 24-urni zapis
 newtab-clock-widget-label-your-clocks = Vaše ure
+newtab-clock-widget-search-location-input =
+    .label = Kraj
+    .aria-label = Poiščite mesto
+    .placeholder = Poiščite mesto
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Vzdevek (neobvezno)
+    .aria-label = Vzdevek (neobvezno)
+    .placeholder = Dodajte vzdevek
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -1457,6 +1511,12 @@ newtab-clock-widget-button-remove-clock =
 #   $city (string) - The city name displayed in the row.
 newtab-clock-widget-edit-item =
     .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, vzdevek: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Dodaj uro
 newtab-clock-widget-edit-clock-form =
@@ -1476,3 +1536,5 @@ newtab-clock-widget-search-no-results = Ni zadetkov
 newtab-clock-widget-menu-button =
     .title = Odpri meni z uro
     .aria-label = Odpri meni z uro
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Vzdevek: { $nickname }

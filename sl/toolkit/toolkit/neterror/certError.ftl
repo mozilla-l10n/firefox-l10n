@@ -12,7 +12,7 @@ cert-error-trust-unknown-issuer-intro = Nekdo lahko poskuša oponašati to stran
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Spletna mesta svojo istovetnost dokazujejo z digitalnimi potrdili. { -brand-short-name } spletnemu mestu { $hostname } ne zaupa, ker izdajatelj njegovega digitalnega potrdila ni znan, ker se je potrdilo samo podpisalo ali pa strežnik ne pošilja pravih vmesnih digitalnih potrdil.
-cert-error-trust-cert-invalid = Digitalno potrdilo ni vredno zaupanja, ker ga je izdala neveljavna uradna oseba.
+cert-error-trust-cert-invalid = Digitalno potrdilo ni vredno zaupanja, ker ga je izdalo neveljavno overiteljevo potrdilo.
 cert-error-trust-untrusted-issuer = Digitalno potrdilo ni vredno zaupanja, ker tudi njegov izdajatelj ni.
 cert-error-trust-signature-algorithm-disabled = Digitalno potrdilo ni vredno zaupanja, ker je bilo podpisano z algoritmom, ki je bil iz varnostnih razlogov onemogočen.
 cert-error-trust-expired-issuer = Digitalno potrdilo ni vredno zaupanja, ker je njegov izdajatelj potekel.

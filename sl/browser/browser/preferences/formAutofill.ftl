@@ -171,6 +171,59 @@ autofill-card-network = Vrsta kartice
 # methods in their region.
 autofill-card-search-term-credit-cards = kreditne kartice, kreditne, kartice, debetne kartice, bančne kartice, banka, denarnica, blagajna
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Dodaj potni list
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Uredi potni list
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Ime
+autofill-passport-country =
+    .label = Država
+autofill-passport-number =
+    .label = Številka
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Datum izdaje
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Velja do
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = LLLL
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Shranim potni list?
+passport-capture-save-doorhanger-description = Shranite podatke v { -brand-short-name(sklon: "tozilnik") } za hitrejše izpolnjevanje obrazcev.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = Shrani
+    .accessKey = S
+passport-capture-not-now-button =
+    .label = Ne zdaj
+    .accessKey = z
+passport-capture-never-save-button =
+    .label = Nikoli ne shranjuj potnih listov
+    .accessKey = N
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express
