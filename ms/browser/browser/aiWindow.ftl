@@ -112,10 +112,43 @@ aiwindow-firstrun-model-fast-body-v2 = Paling sesuai untuk jawapan pantas bila a
 aiwindow-firstrun-model-chip-subtitle = Model { $model } oleh { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Fleksibel
 aiwindow-firstrun-model-allpurpose-body = Sesuai untuk kebanyakan keperluan
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Fleksibel: { $shortName }
+aiwindow-firstrun-model-flexible-body = Sedia untuk pelbagai tugas
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Disyorkan
+aiwindow-firstrun-model-personal-label = Peribadi
+aiwindow-firstrun-model-personal-body = Jawapan paling tersuai
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Peribadi: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Dibina untuk bantuan diperibadikan merentas bahasa
+aiwindow-firstrun-button = Jom
+aiwindow-firstrun-back-button = Undur
+aiwindow-firstrun-next-button = Berikut
 
 ## These are labels describing model types in the smartbar model select.
 
+aiwindow-input-model-select-button-label-fast = Pantas
+aiwindow-input-model-select-button-label-allpurpose = Fleksibel
+aiwindow-input-model-select-button-label-personal = Peribadi
+aiwindow-input-model-select-button-label-custom = Tersuai
+aiwindow-input-model-select-button-description-custom = Gunakan LLM anda sendiri
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Gunakan LLM anda sendiri
+aiwindow-input-model-select-default-badge =
+    .label = Lalai
+    .title = Model lalai yang dipilih
+aiwindow-input-model-select-settings-link = Tetapan model
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Jawapan lebih membantu, ikut syarat anda
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } boleh belajar daripada sembang, pelayaran, atau kedua-duanya untuk mencipta memori. Ia menjadikan jawapan lebih membantu dari masa ke masa.
+aiwindow-firstrun-memories-conversation-title = Teruskan perbualan
+aiwindow-firstrun-memories-conversation-body = Belajar daripada sembang bermakna anda kurang perlu mengulangi perkara yang sama.
+aiwindow-firstrun-memories-relevance-title = Jawapan lebih relevan
+aiwindow-firstrun-memories-relevance-body = Belajar daripada pelayaran memberi { -smart-window-brand-name } gambaran yang lebih luas.
+aiwindow-firstrun-memories-privacy-title = Peribadi secara reka bentuk

@@ -232,6 +232,9 @@ firefoxview-show-all-history = Mostrar todo el historial
 firefoxview-history-empty-header = Vuelva a donde estuvo
 firefoxview-history-empty-description = A medida que navega, las páginas que visita se verán en una lista aquí.
 firefoxview-history-empty-description-two = La protección de su privacidad está en el corazón de lo que hacemos. Es por eso que puedes controlar la actividad que { -brand-short-name } recuerda, en tu <a data-l10n-name="history-settings-url">configuración del historial</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = El sendero de la navegación empieza acá
 firefoxview-history-empty-description-2 = Al visitar páginas, el historial aparecerá aquí. Se puede controlar lo que se recuerda en la <a data-l10n-name="history-settings-url">configuración</a>.
 
 ##

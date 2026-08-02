@@ -99,7 +99,7 @@ aiwindow-website-chip-remove-button =
 aiwindow-firstrun-title = Bienvenido a { -smart-window-brand-name }
 aiwindow-firstrun-model-title = ¿Qué es importante para usted?
 aiwindow-firstrun-model-title-v2 = Elija un modelo para empezar
-aiwindow-firstrun-model-subtitle = Elija un modelo para hacer funcionar las { -smart-window-brand-name }. Se puede cambiar en cualquier momento.
+aiwindow-firstrun-model-subtitle = Elija un modelo para hacer funcionar la { -smart-window-brand-name }. Se puede cambiar en cualquier momento.
 aiwindow-firstrun-model-subtitle-v2 = Cada modelo puede ayudar a resumir, comparar y explorar todas tus pestañas. Se puede cambiar en cualquier momento.
 aiwindow-firstrun-model-fast-label = Rápido
 aiwindow-firstrun-model-fast-body = Responde rápidamente
@@ -160,6 +160,7 @@ aiwindow-firstrun-memories-no-create = Entendido. { -smart-window-brand-name } n
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = Iniciar siempre con { -smart-window-brand-name }
 aiwindow-firstrun-default-subtitle = Navegar, buscar y preguntar en un solo lugar. Todavía se pueden abrir ventanas privadas y clásicas cuando quiera.
 aiwindow-firstrun-default-checkbox-label = Siempre abrir { -brand-product-name } en { -smart-window-brand-name }
 aiwindow-firstrun-default-checkbox-description = Se puede cambiar en la configuración en cualquier momento.
