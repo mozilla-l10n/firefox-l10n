@@ -194,6 +194,9 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Скончана
 migration-safari-password-import-header = Імпартаваць паролі з Safari
+migration-safari-password-import-post-sequoia-step1 = Адкрыйце праграму <a data-l10n-name="macos-passwords-app">Passwords</a> на вашым Mac
+migration-safari-password-import-post-sequoia-step2 = У радку меню ўверсе экрана абярыце Файл > Экспартаваць усе паролі ў файл…
+migration-safari-password-import-post-sequoia-step3 = Захавайце файл
 migration-safari-password-import-steps-header = Каб імпартаваць паролі з Safari:
 migration-safari-password-import-step1 = У Safari адкрыйце меню «Safari» і перайдзіце ў Налады > Паролі
 migration-safari-password-import-step2 = Націсніце кнопку <img data-l10n-name="safari-icon-3dots"/> і абярыце «Экспартаваць усе паролі»
