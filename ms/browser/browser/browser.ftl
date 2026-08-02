@@ -354,6 +354,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Kali ini, cari dengan:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah tetapan carian
 search-one-offs-context-open-new-tab =
@@ -361,6 +364,9 @@ search-one-offs-context-open-new-tab =
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Tetapkan sebagai Enjin Carian Piawai
+    .accesskey = P
+search-one-offs-context-set-as-default-private =
+    .label = Tetapkan sebagai Enjin Carian Lalai untuk Tetingkap Peribadi
     .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
@@ -516,6 +522,8 @@ press-tab-label = Tekan tab untuk pilih:
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Tambah tandabuku
+bookmarks-edit-bookmark = Sunting Tandabuku
 bookmark-panel-cancel =
     .label = Batal
     .accesskey = B
@@ -527,6 +535,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Papar editor apabila menyimpan
     .accesskey = P
+bookmark-panel-save-button =
+    .label = Simpan
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -556,7 +566,14 @@ identity-active-loaded = Anda telah menyahdayakan perlindungan untuk halaman ini
 identity-weak-encryption = Halaman ini menggunakan enkripsi yang lemah.
 identity-insecure-login-forms = Log masuk yang dimasukkan dalam halaman ini boleh dikompromi.
 identity-https-only-connection-upgraded = (dinaik taraf ke HTTPS)
+identity-https-only-label = Mod HTTPS-Sahaja
 identity-https-only-label2 = Naik taraf laman ini secara automatik ke sambungan selamat
+identity-https-only-dropdown-on =
+    .label = Aktif
+identity-https-only-dropdown-off =
+    .label = Nyahaktif
+identity-https-only-dropdown-off-temporarily =
+    .label = Nyahaktif sementara
 identity-https-only-info-turn-on2 = Hidupkan Mod HTTPS Sahaja untuk laman ini jika anda mahu { -brand-short-name } menaik taraf sambungan apabila boleh.
 identity-https-only-info-turn-off2 = Jika halaman nampak rosak, anda mungkin mahu matikan Mod HTTPS Sahaja untuk laman ini supaya dimuat semula menggunakan HTTP tidak selamat.
 identity-https-only-info-turn-on3 = Hidupkan naik taraf HTTPS untuk laman ini jika anda mahu { -brand-short-name } menaik taraf sambungan apabila boleh.
@@ -564,6 +581,7 @@ identity-https-only-info-turn-off3 = Jika halaman nampak rosak, anda mungkin mah
 identity-https-only-info-no-upgrade = Tidak dapat menaik taraf sambungan daripada HTTP.
 identity-permissions-storage-access-header = Kuki merentas laman
 identity-permissions-storage-access-hint = Pihak ini boleh menggunakan kuki merentas laman dan data laman semasa anda berada di laman ini.
+identity-permissions-storage-access-learn-more = Ketahui lebih lanjut
 identity-permissions-reload-hint = Anda mungkin perlu memuat semula halaman supaya perubahan ini dilaksanakan.
 identity-clear-site-data =
     .label = Buang Kuki dan Data Laman…
@@ -597,6 +615,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimum
+browser-window-maximize-button =
+    .tooltiptext = Maksimumkan
 browser-window-restore-down-button =
     .tooltiptext = Pulihkan
 browser-window-close-button =
@@ -635,6 +655,9 @@ browser-tab-unblock =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Import tandabuku...
+    .tooltiptext = Import tandabuku dari pelayar lain ke { -brand-short-name }.
 bookmarks-toolbar-empty-message = Untuk akses pantas, letakkan penanda halaman anda di sini pada bar alat penanda halaman. <a data-l10n-name="manage-bookmarks">Urus penanda halaman...</a>
 
 ## WebRTC Pop-up notifications
@@ -650,6 +673,26 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Cari atau masukkan alamat
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Masukkan istilah carian
+    .aria-label = Cari { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Masukkan istilah carian
+    .aria-label = Cari tandabuku
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Masukkan istilah carian
+    .aria-label = Cari sejarah
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Masukkan istilah carian
+    .aria-label = Cari tab
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -670,6 +713,14 @@ urlbar-page-action-button =
 ## results with last-visited dates like history and top sites, these strings
 ## explain why the result is shown.
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Cari dengan { $engine } dalam Tetingkap Peribadi
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Cari dalam Tetingkap Peribadi
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
@@ -677,6 +728,41 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = Cari dengan { $engine }
 urlbar-result-action-switch-tab = Tukar ke Tab
 urlbar-result-action-visit = Lawati
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Tekan Tab untuk mencari dengan { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Tekan Tab untuk mencari { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Cari dengan { $engine } terus dari bar alamat
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Cari { $engine } terus dari bar alamat
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Salin
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Cari Tandabuku
+urlbar-result-action-search-history = Cari Sejarah
+urlbar-result-action-search-tabs = Cari Tab
 
 ## Reader View toolbar buttons
 
@@ -705,6 +791,9 @@ pointerlock-warning-no-domain = Dokumen ini mempunyai kawalan ke atas penunjuk a
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Urus Tandabuku
+bookmarks-recent-bookmarks-panel-subheader = Tandabuku Terkini
 bookmarks-toolbar-chevron =
     .tooltiptext = Papar tandabuku selanjutnya
 bookmarks-sidebar-content =
