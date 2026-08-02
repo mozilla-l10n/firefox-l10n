@@ -152,3 +152,87 @@ aiwindow-firstrun-memories-conversation-body = Belajar daripada sembang bermakna
 aiwindow-firstrun-memories-relevance-title = Jawapan lebih relevan
 aiwindow-firstrun-memories-relevance-body = Belajar daripada pelayaran memberi { -smart-window-brand-name } gambaran yang lebih luas.
 aiwindow-firstrun-memories-privacy-title = Peribadi secara reka bentuk
+aiwindow-firstrun-memories-privacy-body = Memori disimpan pada peranti ini. Padam atau matikan bila-bila masa.
+aiwindow-firstrun-memories-choose-label = Pilih apa yang { -smart-window-brand-name } belajar daripada
+aiwindow-firstrun-memories-checkbox-chats = Sembang dalam { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Pelayaran merentas { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Kemas kini dalam tetapan bila-bila masa.
+aiwindow-firstrun-memories-no-create = Faham. { -smart-window-brand-name } tidak akan mencipta memori. Kemas kini dalam tetapan bila-bila masa.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Jadikan { -smart-window-brand-name } pilihan utama anda
+aiwindow-firstrun-default-subtitle = Layari, cari, dan tanya di satu tempat. Anda masih boleh membuka Private dan Classic Windows bila mahu.
+aiwindow-firstrun-default-checkbox-label = Sentiasa buka { -brand-product-name } dalam { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Tukar dalam tetapan bila-bila masa
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Tanya
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Kumpulkan tab saya
+    .tooltiptext = Kumpulkan tab saya
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Memori dihidupkan
+    .tooltiptext = Gunakan memori dalam respons bila berguna
+aiwindow-memories-off =
+    .aria-label = Memori dimatikan
+    .tooltiptext = Jangan gunakan memori dalam respons
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Sembang baharu
+    .tooltiptext = Sembang baharu
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Tutup
+    .tooltiptext = Tutup
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Data yang disegerakkan akan kekal dalam akaun anda. { -smart-window-brand-name(plural-form: "true") } yang dibuka akan bertukar kepada Classic Windows.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Tukar ke { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Sembang
+    .aria-label = Sembang
+    .tooltiptext = Sembang
+smartwindow-footer-history =
+    .label = Sejarah
+    .aria-label = Sejarah
+    .tooltiptext = Sejarah
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = AI boleh membuat kesilapan.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Sembang
+    .title = Sembang
+firefoxview-chats-header = Sembang
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Hari ini - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Semalam - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
