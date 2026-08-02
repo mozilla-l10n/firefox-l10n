@@ -1580,7 +1580,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Pomhajće nam, asistenty polěpšić
+newtab-sports-widget-message-survey-body = Swětowe mišterstwo je skónčene. Dźělće swoje měnjenje wo dožiwjenju.
 newtab-sports-widget-message-survey-widget-title = Kak běše asistent swětoweho mišterstwa?
+newtab-sports-widget-message-survey-widget-body = Pisajće nam waše měnjenje, zo byšće nam pomhał, přichodne asistenty polěpšić. Wupruwujće potom nowy w swojim lisćinje.
 newtab-sports-widget-message-survey-cta =
     .label = Naprašowanje wupjelnić
 

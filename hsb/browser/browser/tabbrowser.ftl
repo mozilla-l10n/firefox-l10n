@@ -51,6 +51,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Wulkosć rajtarkow dźěleneho napohlada změnić
+tab-devtools-splitter =
+    .aria-label = Wulkosć napohlada za nastroje wuwiwarjow změnić
 
 ## Tooltips for tab audio control
 ## Variables:
