@@ -270,8 +270,35 @@ newtab-privacy-message-promo-relay-3-cta = Maski wobstaraś
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } pśeslědowak jo se toś ten tyźeń blokěrowało. Glědajśo, což { -brand-short-name } wótwónoźujo
+        [two] { $count } pśeslědowaka stej se toś ten tyźeń blokěrowałej. Glědajśo, což { -brand-short-name } wótwónoźujo
+        [few] { $count } pśeslědowaki su se toś ten tyźeń blokěrowali. Glědajśo, což { -brand-short-name } wótwónoźujo
+       *[other] { $count } pśeslědowakow jo se toś ten tyźeń blokěrowało. Glědajśo, což { -brand-short-name } wótwónoźujo
+    }
 newtab-privacy-message-milestone-week-cta = Šćity pokazaś
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } pśeslědowak jo se toś ten mjasec blokěrował. Jaden mały kšac za priwatnosć. Jaden wjeliki kšac za dušyny měr.
+        [two] { $count } pśeslědowaka stej se toś ten mjasec blokěrowałej. Jaden mały kšac za priwatnosć. Jaden wjeliki kšac za dušyny měr.
+        [few] { $count } pśeslědowaki su se toś ten mjasec blokěrowali. Jaden mały kšac za priwatnosć. Jaden wjeliki kšac za dušyny měr.
+       *[other] { $count } pśeslědowakow jo se toś ten mjasec blokěrowało. Jaden mały kšac za priwatnosć. Jaden wjeliki kšac za dušyny měr.
+    }
 newtab-privacy-message-milestone-month-cta = Šćity pokazaś
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } pśeslědowak jo se lětosa blokěrował. To jo mócne lěto šćita wašeje priwatnosći.
+        [two] { $count } pśeslědowaka stej se lětosa blokěrowałej. To jo mócne lěto šćita wašeje priwatnosći.
+        [few] { $count } pśeslědowaki su se lětosa blokěrowali. To jo mócne lěto šćita wašeje priwatnosći.
+       *[other] { $count } pśeslědowakow jo se lětosa blokěrowało. To jo mócne lěto šćita wašeje priwatnosći.
+    }
 newtab-privacy-message-milestone-year-cta = Šćity pokazaś
 newtab-privacy-message-milestone-total-cta = Šćity pokazaś
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
