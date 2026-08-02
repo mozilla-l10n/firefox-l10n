@@ -96,6 +96,8 @@ is-not-default = { -brand-short-name } bukan pelayar piawai anda
 set-as-my-default-browser =
     .label = Jadikan Piawai…
     .accesskey = P
+startup-restore-warn-on-quit =
+    .label = Beri amaran ketika menutup pelayar
 disable-extension =
     .label = Nyahdayakan Ekstensi
 tabs-group-header2 =
@@ -150,10 +152,17 @@ default-font-size = Saiz
 advanced-fonts =
     .label = Lanjutan…
     .accesskey = L
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zum
+preferences-default-zoom = Zum lalai
+    .accesskey = Z
 # Variables:
 #   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Zum teks sahaja
+    .accesskey = t
 language-header = Bahasa
 choose-language-description = Pilih bahasa pilihan untuk memaparkan halaman
 choose-button =
@@ -176,6 +185,10 @@ translate-attribution = Terjemahan oleh <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Pengecualian…
     .accesskey = P
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Gunakan tetapan sistem operasi anda untuk “{ $localeName }” bagi memformat tarikh, masa, nombor dan ukuran.
 check-user-spelling =
     .label = Semak ejaan ketika anda menaip
     .accesskey = t
@@ -229,6 +242,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Guna { $app-name } (piawai)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Guna aplikasi lalai macOS
+            [windows] Guna aplikasi lalai Windows
+           *[other] Guna aplikasi lalai sistem
+        }
 applications-use-other =
     .label = Guna yang lain…
 applications-select-helper = Pilih Aplikasi Helper
@@ -244,6 +264,8 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Guna { $plugin-name } (dalam { -brand-short-name })
+applications-open-inapp =
+    .label = Buka di { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -255,12 +277,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ## Firefox updates
 
@@ -292,9 +318,19 @@ update-application-check-choose =
 update-application-manual =
     .label = Jangan semak kemaskini (tidak disyorkan)
     .accesskey = J
+update-application-background-enabled =
+    .label = Apabila { -brand-short-name } tidak berjalan
+    .accesskey = A
+update-application-warning-cross-user-setting = Tetapan ini akan terpakai bagi kesemua akaun Windows dan profil { -brand-short-name } yang menggunakan pemasangan { -brand-short-name } ini.
 update-application-use-service =
-    .label = Gunakan servis latar belakang bagi pemasangan versi terkini
+    .label = Gunakan servis latar belakang untuk memasang kemas kini
     .accesskey = b
+update-in-progress-title = Kemas kini sedang berlangsung
+update-in-progress-message = Adakah anda mahu { -brand-short-name } meneruskan kemas kini ini?
+update-in-progress-ok-button = &Buang
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Teruskan
 
 ## General Section - Performance
 
@@ -336,10 +372,21 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cari teks sebaik sahaja anda mula menaip
     .accesskey = e
+browsing-picture-in-picture-toggle-enabled =
+    .label = Dayakan kawalan video gambar-dalam-gambar
+    .accesskey = D
+browsing-picture-in-picture-learn-more = Ketahui lebih lanjut
+browsing-media-control =
+    .label = Kawal media melalui papan kekunci, alat pendengaran, atau antara muka maya
+    .accesskey = K
+browsing-media-control-learn-more = Ketahui lebih lanjut
 browsing-cfr-recommendations =
-    .label = Cadangkan ekstensi semasa melayar
+    .label = Cadangkan sambungan semasa anda melayar
     .accesskey = C
-browsing-cfr-recommendations-learn-more = Ketahui Selanjutnya
+browsing-cfr-features =
+    .label = Cadangkan ciri semasa anda melayar
+    .accesskey = C
+browsing-cfr-recommendations-learn-more = Ketahui lebih lanjut
 browsing-group =
     .label = Menyemak
 
@@ -433,6 +480,13 @@ search-bar-hidden =
 search-bar-shown =
     .label = Tambah bar carian dalam bar alatan
 search-engine-default-header = Enjin Carian Piawai
+search-engine-default-desc-2 = Ini ialah enjin carian lalai anda bagi bar alamat dan bar carian. Anda boleh menukarkannya pada bila-bila masa.
+search-engine-default-private-desc-2 = Pilih enjin carian lalai yang berbeza untuk Tetingkap Peribadi sahaja
+search-separate-default-engine =
+    .label = Gunakan enjin carian ini dalam Tetingkap Peribadi
+    .accesskey = G
+search-suggestions-header = Cadangan Carian
+search-suggestions-desc = Pilih bagaimana cadangan daripada enjin carian muncul.
 search-suggestions-option =
     .label = Sediakan cadangan carian
     .accesskey = S
@@ -448,7 +502,10 @@ search-suggestions-cant-show-2 =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Papar cadangan carian sebelum sejarah pelayaran dalam hasil bar alamat
+search-show-suggestions-private-windows =
+    .label = Paparkan cadangan carian dalam Tetingkap Peribadi
 search-suggestions-cant-show = Cadangan carian tidak akan dipaparkan dalam keputusan bar lokasi kerana anda telah mengkonfigurasi { -brand-short-name } untuk tidak mengingati sejarah.
+search-one-click-header2 = Pintasan Carian
 search-one-click-desc = Pilih enjin carian alternatif yang muncul di bawah bar alamat dan bar carian apabila anda mula memasukkan kata kunci.
 search-choose-engine-column =
     .label = Enjin Carian
@@ -460,6 +517,9 @@ search-restore-default =
 search-remove-engine =
     .label = Buang
     .accesskey = u
+search-add-engine =
+    .label = Tambah
+    .accesskey = T
 search-find-more-link = Cari lebih banyak enjin carian
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -479,6 +539,9 @@ containers-header = Tab Penyimpan
 containers-add-button =
     .label = Tambah Penyimpan Baru
     .accesskey = A
+containers-new-tab-check =
+    .label = Pilih pengandung bagi setiap tab baharu
+    .accesskey = P
 containers-remove-button =
     .label = Buang
 
@@ -503,8 +566,11 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Tukar gambar profil
     .alt = Tukar gambar profil
+sync-sign-out =
+    .label = Log Keluar...
+    .accesskey = g
 sync-manage-account = Urus Akaun
-    .accesskey = s
+    .accesskey = U
 sync-manage-account2 =
     .label = Urus Akaun
     .accesskey = s
