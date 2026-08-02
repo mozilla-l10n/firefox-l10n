@@ -219,7 +219,7 @@ tab-context-unload-n-tabs =
             [one] Liberar pestaña
            *[other] Liberar { $tabCount } pestañas
         }
-    .accesskey = g
+    .accesskey = b
 # Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
 tab-context-unload-tabs =
     .label = Descargar
