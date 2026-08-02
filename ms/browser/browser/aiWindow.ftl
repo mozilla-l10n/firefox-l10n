@@ -321,3 +321,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Tukar mod: Paparan Grid
     .tooltiptext = Paparan Grid
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Tulis draf pertama
+aiwindow-starter-writing-improve = Perbaiki penulisan
+aiwindow-starter-writing-proofread = Semak semula mesej
+aiwindow-starter-planning-simplify = Permudahkan topik
+aiwindow-starter-planning-brainstorm = Jana idea
+aiwindow-starter-planning-plan = Bantu buat rancangan
+aiwindow-starter-browsing-history = Cari tab dalam sejarah
+aiwindow-starter-browsing-summarize = Ringkaskan tab
+aiwindow-starter-browsing-compare = Bandingkan tab
