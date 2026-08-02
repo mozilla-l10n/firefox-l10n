@@ -66,6 +66,7 @@ about-networking-ssl-tokens-compression-details =
     .title = Tokens: { $tokenLength } B. Codificado: { $decompressedLength } → { $compressedLength } B.
 about-networking-ssl-tokens-ev-status = Certificado EV
 about-networking-ssl-tokens-ct-status = Status da transparência do certificado
+about-networking-ssl-tokens-overridable-error = Categoria de erros que podem ser ignorados
 about-networking-ssl-tokens-built-in-root = Raiz integrada
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Cadeia de certificados ({ $count })

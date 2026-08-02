@@ -43,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Instale o { -brand-product-name 
 firefoxview-syncedtabs-adddevice-header-2 = Recupere suas abas de qualquer dispositivo
 firefoxview-syncedtabs-adddevice-description-2 = Entre na sua conta no { -brand-product-name } no seu celular ou outro computador para ver abas aqui. Saiba como <a data-l10n-name="url">conectar dispositivos adicionais</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Experimente o { -brand-product-name } para celular
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Abas recebidas de seus dispositivos. Estão no seu celular.
 firefoxview-syncedtabs-adddevice-description-3 = Capture o código QR para instalar o { -brand-product-name } para dispositivos móveis, começar a sincronizar suas abas abertas e muito mais. Saiba como <a data-l10n-name="url">conectar outros dispositivos</a>.
 firefoxview-tabpickup-synctabs-header = Ative a sincronização de abas
 firefoxview-tabpickup-synctabs-description = Permitir que o { -brand-short-name } compartilhe abas entre dispositivos.
