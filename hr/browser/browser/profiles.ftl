@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Izbriši
+edit-profile-page-avatar-selector-opener-button =
+    .title = Uredi avatar
 edit-profile-page-avatar-selector-opener-link = Uredi
 avatar-selector-icon-tab = Ikona
 avatar-selector-custom-tab = Prilagođeno
@@ -64,7 +66,12 @@ new-profile-page-input-placeholder =
     .placeholder = Odaberi ime poput „Posao” ili „Osobno”
 new-profile-page-done-button =
     .label = Uređivanje završeno
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Tvoja kopija profila “{ $profilename }” je spremna za prilagođavanje
 copied-profile-page-header-description = Kopirali smo tvoje podatke i postavke u novi profil. Sada mu možeš zadati ime, odabrati izgled i prilagoditi ga.
+restored-profile-page-header = Prilagodi svoj obnovljeni profil
+restored-profile-page-header-description = Svaki profil čuva svoju jedinstvenu povijest pregledavanja i postavke odvojene od tvojih ostalih profila. Osim toga je jaka zaštita privatnosti { -brand-short-name(case: "gen") } standardno uključena.
 restored-profile-page-learn-more = Saznaj više
 profile-window-title-2 = { -brand-short-name } – Odaberi profil
 profile-window-logo =
@@ -90,6 +97,9 @@ delete-profile-logins = Lozinke
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Izbriši profil „{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Izbriši profil “{ $profilename }”?
 
 ##
 

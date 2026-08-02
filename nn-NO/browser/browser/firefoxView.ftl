@@ -34,6 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = Din { -brand-product-name } på alle ei
 firefoxview-syncedtabs-signin-description-2 = For å sjå faner du har opne på telefonen og andre einingar, logg inn eller registrer deg for ein konto. Med ein konto kan du også synkronisere passord, historikk, og meir.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Frå berbar PC til telefon, saumlaust
+firefoxview-syncedtabs-signin-description-3 = Hald surfinga synkronisert på tvers av einingane dine — faner, passord og historikk, alt synkronisert.
 firefoxview-syncedtabs-signin-primarybutton-2 = Logg inn
 firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på telefonen eller nettbrettet ditt
 firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
@@ -44,6 +45,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Logg på { -brand-product-name 
 firefoxview-syncedtabs-adddevice-primarybutton = Prøv { -brand-product-name } for mobil
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Fanene dine ventar på telefonen.
+firefoxview-syncedtabs-adddevice-description-3 = Skann QR-koden for å få { -brand-product-name } på mobilen og begynn å synkronisere opne faner, og meir. Les korleis du <a data-l10n-name="url">koplar til fleire einingar</a>.
 firefoxview-tabpickup-synctabs-header = Slå på fanesynkronisering
 firefoxview-tabpickup-synctabs-description = Tillat { -brand-short-name } å dele faner mellom einingar.
 firefoxview-tabpickup-synctabs-learn-how = Les korleis
@@ -52,17 +54,26 @@ firefoxview-tabpickup-synctabs-primarybutton-2 = Slå på fanesynkronisering
 firefoxview-syncedtabs-synctabs-header = Oppdater synkroniseringsinnstillingane dine
 firefoxview-syncedtabs-synctabs-description = For å sjå faner frå andre einingar må du synkronisere dei opne fanene dine.
 firefoxview-syncedtabs-synctabs-header-2 = Fanesynkronisering er av
+firefoxview-syncedtabs-synctabs-description-2 = Slå på synkronisering igjen for å hente alle fanene dine fra andre einingar.
 firefoxview-syncedtabs-loading-header = Synkronisering i framdrift
 firefoxview-syncedtabs-loading-description = Når det er klart ser du alle fanene som du har opne på andra einingar. Sjekk igjen litt seinare.
+firefoxview-syncedtabs-loading-header-2 = Hentar fanene dine…
+firefoxview-syncedtabs-loading-description-2 = Synkronisering er i gang. Fanene kjem snart.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasjonen din har deaktivert synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikkje synkronisere faner mellom einingar fordi administratoren din har deaktivert synkronisering.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan ikkje synkronisere faner mellom einingar fordi organisasjonen din har deaktivert synkronisering.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Fanesynkronisering er av
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Organisasjonen din har blokkert denne funksjonen.
 firefoxview-tabpickup-network-offline-header = Sjekk internettilkoplinga di
 firefoxview-tabpickup-network-offline-description = Dersom du brukar ein brannmur eller proxy, sjekk at { -brand-short-name } har tilgangsløyve til nettet.
 firefoxview-tabpickup-network-offline-primarybutton = Prøv på nytt
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } kan ikkje kople til akkurat no
+firefoxview-tabpickup-network-offline-description-2 = Du er kanskje fråkopla, eller noko blokkerer tilkoplinga.
 firefoxview-tabpickup-sync-error-header = Vi har problem med å synkronisere
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } kan ikkje nå synkroniseringstenesta akkurat no. Prøv på nytt litt seinare.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Det oppstod eit problem med synkroniseringa.
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } klarte ikkje å kople til. Vent litt, og prøv på nytt.
 firefoxview-tabpickup-sync-error-primarybutton = Prøv på nytt
 firefoxview-tabpickup-sync-disconnected-header = Slå på synkronisering for å halde fram
 firefoxview-tabpickup-sync-disconnected-description = For å få tilgang til fanene dine må du aktivere synkronisering i { -brand-short-name }.
@@ -72,6 +83,7 @@ firefoxview-tabpickup-password-locked-description = For å få tilgang til fanen
 firefoxview-tabpickup-password-locked-link = Les meir
 firefoxview-tabpickup-password-locked-primarybutton = Skriv inn hovudpassord
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Les meir</a>
+firefoxview-tabpickup-password-locked-header-2 = Lås opp faner med hovudpassordet ditt
 firefoxview-tabpickup-signed-out-header = Logg inn for å kople til på nytt
 firefoxview-tabpickup-signed-out-description = For å kople til på nytt og få tak i fanene dine, logg in på { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = For å kople til på nytt og få tak i fanene dine, logg in på kontoen din.

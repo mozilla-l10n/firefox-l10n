@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Tko bi još uvijek mogao vidjeti moju ak
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Nepoznati ste
+about-private-browsing-nova-info-subheader2 = Obrisat ćemo svaku pretragu i prijavu kada zatvorite privatne prozore. Ugrađene zaštite { -brand-short-name }a su ovdje također uključene, poput blokiranja praćenja.
 about-private-browsing-nova-info-subheader = Obrisat ćemo svaku pretragu i prijavu kada zatvorite ovaj prozor. Ugrađene zaštite { -brand-short-name }a su ovdje također uključene, poput blokiranja praćenja.
