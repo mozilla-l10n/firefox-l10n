@@ -404,6 +404,7 @@ fxa-menu-create-profile-learn-more =
     .label = Co su profile?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = { -brand-short-name } źěliś
+appmenuitem-share-firefox-description = Pśepšosujśo někogo, aby wobglědowak wubrał, kótaryž priwatnosć na prědne městno staja
 appmenu-profiles-2 =
     .label = Profile
 appmenu-profiles-header = Profile

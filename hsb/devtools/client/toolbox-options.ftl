@@ -82,6 +82,8 @@ options-webconsole-split-console-tooltip =
 options-netmonitor-label = Syćowy monitor
 # The label for the input defining the limit of stored request and response body size
 options-netmonitor-body-limit-label = Maksimalna wulkosć naprašowanskeho a wotmołwneho teksta (staja so na 0 za njewobmjezowany):
+options-netmonitor-body-limit-tooltip =
+    .title = Naprašowanske abo wotmołwne teksty, kotrež podatu wulkosć překročuja, so wotrězuja, hdyž so w syćowej analizy pokazuja abo sćahuja. Stajće na 0, zo njebyšće žane wobmjezowanje měł.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Njewobmjezowany
 options-netmonitor-body-limit-button =
@@ -95,6 +97,10 @@ options-netmonitor-body-limit-set =
 
 # The heading
 options-experimental-label = Eksperimentelne funkcije
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Stilowe předłohi w pytanju zmylkow pokazać
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Stilowe předłohi w pytanju zmylkow nalistować a pokazać
 # The message shown for settings that indicates that the attached setting requires the
 # toolbox to be reopened to take effect.
 options-reopen-toolbox-message = (wužaduje sej wospjetne wočinjenje gratow)

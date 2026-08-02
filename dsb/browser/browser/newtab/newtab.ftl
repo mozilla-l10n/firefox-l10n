@@ -216,6 +216,7 @@ newtab-privacy-message-info-1 = { -brand-short-name } pśeslědowaki awtomatiski
 newtab-privacy-message-info-1-cta = Šćity pokazaś
 newtab-privacy-message-info-2 = Blokěrowanje pśeslědowakow tomu zajźujo, až pśedewześa wam online slěduju.
 newtab-privacy-message-info-2-cta = Šćity pokazaś
+newtab-privacy-message-info-3 = Wjele sedłow ma pśeslědowaki, tak až pśedewześa, kótarež njejsćo se nigdy woglědał, mógu wam online slědowaś.
 newtab-privacy-message-info-3-cta = Šćity pokazaś
 newtab-privacy-message-info-4 = Gaž { -brand-short-name } wuběraśo, to groni, až pó standarźe šćit wuběraśo.
 newtab-privacy-message-info-4-cta = Šćity pokazaś
@@ -235,6 +236,7 @@ newtab-privacy-message-info-11 = Wuslěźćo, kak { -brand-short-name } pomaga, 
 newtab-privacy-message-info-11-cta = Dalšne informacije
 newtab-privacy-message-info-12 = Blokěrowanje pśeslědowakow móžo pomagaś, šyrokosć pasma za plany z wobgranicowaneju tšochu datow zažariś.
 newtab-privacy-message-info-12-cta = Šćity pokazaś
+newtab-privacy-message-info-13 = { -brand-short-name } pśeslědowaki blokěrujo a wustupujo šyrokosć pasma za pózlažki streaming.
 newtab-privacy-message-info-13-cta = Šćity pokazaś
 
 ## Privacy widget — promotional messages
@@ -242,8 +244,11 @@ newtab-privacy-message-info-13-cta = Šćity pokazaś
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Wuslěźćo, lěc se waše wósobinske informacije w datowej źěrje pokazuju.
 newtab-privacy-message-promo-monitor-1-cta = Dalšne informacije
+newtab-privacy-message-promo-monitor-2 = Šćitajśo swóje informacije z dermotnym doglědowanim datowych źěrow za až do 20 mejlkow.
 newtab-privacy-message-promo-monitor-2-cta = Dalšne informacije
+newtab-privacy-message-promo-signin-1 = Wobchowajśo cytańske znamjenja, gronidła a rejtariki ze swójim kontom { -vendor-short-name } na wšych rědach skoděrowane.
 newtab-privacy-message-promo-signin-1-cta = Pśizjawiś
 newtab-privacy-message-promo-vpn-1 = Nakupujośo w zjawnem WLAN? Zmóžniśo zatwarjony VPN za pśidatny šćit.
 newtab-privacy-message-promo-vpn-1-cta = VPN wócyniś
