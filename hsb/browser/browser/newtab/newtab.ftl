@@ -300,6 +300,15 @@ newtab-privacy-message-milestone-year =
        *[other] { $count } přesćěhowakow je so lětsa zablokowało. To je mócne lěto škita wašeje priwatnosće.
     }
 newtab-privacy-message-milestone-year-cta = Škity pokazać
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } přesćěhowak je so zablokował. To je wjetši pokrok w směrje k priwatnosći pod wašich wuměnjenjach.
+        [two] { $count } přesćěhowakaj stej so zablokowałoj. To je wjetši pokrok w směrje k priwatnosći pod wašich wuměnjenjach.
+        [few] { $count } přesćěhowaki su so zablokowali. To je wjetši pokrok w směrje k priwatnosći pod wašich wuměnjenjach.
+       *[other] { $count } přesćěhowakow je so zablokowało. To je wjetši pokrok w směrje k priwatnosći pod wašich wuměnjenjach.
+    }
 newtab-privacy-message-milestone-total-cta = Škity pokazać
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (Přez 100 přesćěhowakow dźensa zablokowanych. ) Mjenje přesćěhowakow wjace priwatnosće rěka.

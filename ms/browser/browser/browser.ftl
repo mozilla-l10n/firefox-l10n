@@ -182,6 +182,9 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Simpan data dalam Storan Kekal
 urlbar-addons-notification-anchor =
     .tooltiptext = Buka panel mesej pemasangan add-on
+urlbar-tip-help-icon =
+    .title = Dapatkan bantuan
+urlbar-search-tips-confirm = Ok, Faham
 urlbar-search-tips-confirm-short = Baiklah
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
@@ -274,6 +277,9 @@ urlbar-tabtosearch-onboard = Pilih pintasan ini untuk cari apa yang anda perluka
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Tandabuku
+urlbar-search-mode-tabs = Tab
+urlbar-search-mode-history = Sejarah
 urlbar-search-mode-actions = Tindakan
 
 ##
