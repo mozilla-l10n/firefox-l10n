@@ -216,6 +216,7 @@ newtab-privacy-message-info-1 = { -brand-short-name } přesćěhowaki awtomatisc
 newtab-privacy-message-info-1-cta = Škity pokazać
 newtab-privacy-message-info-2 = Blokowanje přesćěhowakow tomu zadźěwa, zo předewzaća wam online slěduja.
 newtab-privacy-message-info-2-cta = Škity pokazać
+newtab-privacy-message-info-3 = Wjele sydło ma přesćěhowaki, tak zo předewzaća, kotrež njejsće ženje wopytał, móža wam online slědować.
 newtab-privacy-message-info-3-cta = Škity pokazać
 newtab-privacy-message-info-4 = Hdyž { -brand-short-name } wuběraće, to rěka, zo po standardźe škit wuběraće.
 newtab-privacy-message-info-4-cta = Škity pokazać
@@ -235,6 +236,7 @@ newtab-privacy-message-info-11 = Wuslědźće, kak { -brand-short-name } pomha, 
 newtab-privacy-message-info-11-cta = Dalše informacije
 newtab-privacy-message-info-12 = Blokowanje přesćěhowakow móže pomhać, šěrokosć pasma za plany z wobmjezowanym mnóstwom datow zalutować.
 newtab-privacy-message-info-12-cta = Škity pokazać
+newtab-privacy-message-info-13 = { -brand-short-name } přesćěhowaki blokuje a wuswobodźuje šěrokosć pasma za łahodny streaming.
 newtab-privacy-message-info-13-cta = Škity pokazać
 
 ## Privacy widget — promotional messages
@@ -242,8 +244,11 @@ newtab-privacy-message-info-13-cta = Škity pokazać
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Wuslědźće, hač so waše wosobinske informacije w datowej dźěrje pokazuja.
 newtab-privacy-message-promo-monitor-1-cta = Dalše informacije
+newtab-privacy-message-promo-monitor-2 = Škitajće swoje informacije z darmotnym dohladowanjom datowych dźěrow za hač do 20 mejlkow.
 newtab-privacy-message-promo-monitor-2-cta = Dalše informacije
+newtab-privacy-message-promo-signin-1 = Wobchowajće zapołožki, hesła a rajtarki ze swojim kontom { -vendor-short-name } na wšěch gratach zaklučowane.
 newtab-privacy-message-promo-signin-1-cta = Přizjewić
 newtab-privacy-message-promo-vpn-1 = Nakupujeće w zjawnym WLAN? Zmóžńće zatwarjeny VPN za přidatny škit.
 newtab-privacy-message-promo-vpn-1-cta = VPN wočinić
