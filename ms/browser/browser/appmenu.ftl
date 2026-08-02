@@ -17,6 +17,10 @@ appmenuitem-banner-update-restart =
     .label = Kemas kini tersedia — mula semula sekarang
 appmenu-nova-update-title = Mula semula untuk mengemas kini { -brand-short-name }
 appmenu-nova-update-description = Tab anda akan dibuka semula.
+appmenu-nova-fxa-sign-in = Daftar masuk
+appmenu-nova-switch-device-promo =
+    .message = Akan dapat peranti baharu tidak lama lagi? Bawa { -brand-short-name } bersama anda!
+appmenu-nova-switch-device-link = Cara memindahkan data anda
 appmenuitem-new-tab =
     .label = Tab Baru
 appmenuitem-new-window =
@@ -25,38 +29,125 @@ appmenuitem-new-private-window =
     .label = Tetingkap Peribadi Baru
 appmenuitem-history =
     .label = Sejarah
+appmenuitem-tab-groups =
+    .label = Kumpulan tab
 appmenuitem-downloads =
     .label = Muat turun
+appmenuitem-passwords =
+    .label = Kata Laluan
+appmenuitem-extensions-and-themes =
+    .label = Sambungan dan Tema
+appmenuitem-extensions =
+    .label = Sambungan
+appmenuitem-addons-and-themes =
+    .label = Add-on dan tema
 appmenuitem-print =
     .label = Cetak…
+appmenuitem-find-in-page =
+    .label = Cari Dalam Halaman…
+appmenuitem-translate =
+    .label = Terjemahkan Halaman...
 appmenuitem-zoom =
     .value = Zum
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 appmenuitem-referrals =
     .label = Kongsi { -brand-product-name }
+appmenuitem-more-tools =
+    .label = Alatan Lain
 appmenuitem-help =
     .label = Bantuan
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Keluar
+           *[other] Keluar
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Buka Menu Aplikasi
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Tutup Menu Aplikasi
+    .label = { -brand-short-name }
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Tetapan
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-zoom-enlarge =
+    .label = Zum Masuk
+appmenuitem-zoom-reduce =
+    .label = Zum Keluar
 appmenuitem-fullscreen =
     .label = Skrin Penuh
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = Daftar masuk untuk sync...
+appmenu-remote-tabs-turn-on-sync =
+    .label = Hidupkan sync…
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Tunjuk lebih banyak tab
+    .tooltiptext = Tunjuk lebih banyak tab daripada peranti ini
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Tab tidak aktif
+    .tooltiptext = Lihat tab tidak aktif pada peranti ini
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Tiada tab terbuka
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Mengaktifkan sync tab untuk papar senarai tab dari peranti anda yang lain.
+appmenu-remote-tabs-opensettings =
+    .label = Tetapan
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Mahu melihat tab anda daripada peranti lain di sini?
 appmenu-remote-tabs-connectdevice =
     .label = Sambung Peranti Lain
+appmenu-remote-tabs-welcome = Lihat senarai tab daripada peranti anda yang lain.
 appmenu-remote-tabs-unverified = Akaun anda perlu disahkan.
+appmenuitem-fxa-toolbar-sync-now2 = Sync sekarang
+appmenuitem-fxa-sign-in = Daftar masuk ke { -brand-product-name }
+appmenuitem-fxa-manage-account = Urus Akaun
+fxa-menu-sync-status-on = Sync dihidupkan
+fxa-menu-sync-status-off = Sync dimatikan
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Data anda tidak sync
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Hidupkan
+appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Akaun
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Terakhir sync { $time }
+    .label = Terakhir sync { $time }
+appmenu-fxa-sync-and-save-data2 = Sync dan simpan data
+appmenu-fxa-signed-in-label = Daftar Masuk
+appmenu-fxa-setup-sync =
+    .label = Hidupkan sync...
+appmenu-fxa-setup-sync-new = Hidupkan
 appmenuitem-save-page =
     .label = Simpan Halaman Sebagai…
+appmenuitem-fxa-sync-off-title = Sync dimatikan
+appmenuitem-fxa-sync-off-description = Lindungi dan akses penanda halaman, kata laluan, dan banyak lagi di mana-mana.
+
+## What's New panel in App menu.
+
+whatsnew-panel-header = Perkembangan Terbaru
+
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-header-text = { -profiler-brand-name }
 
 ## Profiler presets
 ## They are shown in the popup's select box.
