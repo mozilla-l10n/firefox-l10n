@@ -82,13 +82,25 @@ options-webconsole-split-console-tooltip =
 options-netmonitor-label = Seśowy monitor
 # The label for the input defining the limit of stored request and response body size
 options-netmonitor-body-limit-label = Maksimalna wjelikosć napšašowańskego a wótegronjeńskego teksta (staja se na 0 za njewobgranicowany):
+options-netmonitor-body-limit-tooltip =
+    .title = Napšašowańske abo wótegronjeńske teksty, kótarež pódanu wjelikosć pśekšacaju, sw wótrězuju, gaž se w seśowej analizy pokazuju abo ześěguju. Stajśo na 0, až njeby wy žedno wobgranicowanje měł.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Njewobgranicowany
+options-netmonitor-body-limit-button =
+    .title = Maksimalnu wjelikosć napšašowańskego/wótegronjeńskego teksta wobźěłaś.
+options-netmonitor-body-limit-restore-default =
+    .title = Standardnu gódnotu za maksimalnu wjelikosć napšašowańskego/wótegronjeńskego teksta wótnowiś.
+options-netmonitor-body-limit-set =
+    .title = Aktualnu zapódawańsku gódnotu za maksimalnu wjelikosć napšašowańskego/wótegronjeńskego teksta nastajiś.
 
 ## Experimental section
 
 # The heading
 options-experimental-label = Eksperimentelne funkcije
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Stilowe pśedłogi w pytanju zmólkow pokazaś
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Stilowe pśedłogi w pytanju zmólkow nalicyś a pokazaś
 # The message shown for settings that indicates that the attached setting requires the
 # toolbox to be reopened to take effect.
 options-reopen-toolbox-message = (pomina se wóspjetne wócynjanje rědow)

@@ -89,9 +89,9 @@ options-netmonitor-body-limit-unlimited-label = Njewobmjezowany
 options-netmonitor-body-limit-button =
     .title = Maksimalnu wulkosć naprašowanskeho/wotmołwneho teksta wobdźěłać.
 options-netmonitor-body-limit-restore-default =
-    .title = Standardnu hódnotu za maksimalnu wulkosć naprašowanskeho/wotmołwneho tekst wobnowić.
+    .title = Standardnu hódnotu za maksimalnu wulkosć naprašowanskeho/wotmołwneho teksta wobnowić.
 options-netmonitor-body-limit-set =
-    .title = Aktualnu zapodawansku hódnotu za maksimalnu wulkosć naprašowanskeho/wotmołwneho tekst nastajić.
+    .title = Aktualnu zapodawansku hódnotu za maksimalnu wulkosć naprašowanskeho/wotmołwneho teksta nastajić.
 
 ## Experimental section
 
