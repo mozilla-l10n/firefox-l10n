@@ -228,6 +228,11 @@ smartwindow-disclaimer = AI boleh membuat kesilapan.
 firefoxview-chats-nav = Sembang
     .title = Sembang
 firefoxview-chats-header = Sembang
+firefoxview-chat-context-delete = Padam daripada Sembang
+    .accesskey = P
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Cari sembang
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -236,3 +241,62 @@ firefoxview-chat-date-today = Hari ini - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Semalam - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Kembali ke sembang anda
+firefoxview-chats-empty-description = Semasa anda menggunakan { -smart-window-brand-name }, sembang anda akan disimpan di sini.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count = { $count } sembang
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Sejarah pelayaran, muat turun, dan sembang
+    .accesskey = S
+item-history-downloads-and-chat-description = Kosongkan sejarah tapak, muat turun, dan sembang
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Pilih semua
+    .aria-label = Pilih semua
+smart-window-confirm-deselect-all =
+    .label = Nyahpilih semua
+    .aria-label = Nyahpilih semua
+smart-window-close-confirm =
+    .aria-label = Batalkan permintaan dan tutup
+    .tooltiptext = Batalkan permintaan dan tutup
+smart-window-confirm-close-tab = Tutup
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs = Tutup { $count } tab
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Tab ditutup
+smartwindow-close-tab-callout-subtitle = Buka semula tab daripada Sejarah bila-bila masa.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Jadikan { -smart-window-brand-name } lalai anda?
+smart-window-default-promo-message = { -brand-short-name } akan dibuka dalam { -smart-window-brand-name } setiap kali.
+smart-window-default-promo-primary-button = Tetapkan sebagai lalai
+smart-window-default-promo-additional-button = Bukan sekarang
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Kongsi maklum balas
+aiwindow-feedback-what-worked-well = Apa yang berjalan dengan baik? Jangan sertakan maklumat peribadi.
+aiwindow-feedback-choose-any = Pilih mana-mana yang berkenaan
+aiwindow-feedback-add-details = Tambah butiran jika mahu. Jangan sertakan maklumat peribadi.
+aiwindow-feedback-submit = Hantar
+aiwindow-feedback-cancel = Batal
