@@ -5,6 +5,18 @@
 
 ## App Menu
 
+appmenuitem-banner-update-downloading =
+    .label = Memuat turun kemas kini { -brand-shorter-name }
+appmenuitem-banner-update-available =
+    .label = Kemas kini tersedia — muat turun sekarang
+appmenuitem-banner-update-manual =
+    .label = Kemas kini tersedia — muat turun sekarang
+appmenuitem-banner-update-unsupported =
+    .label = Tidak dapat mengemas kini — sistem tidak serasi
+appmenuitem-banner-update-restart =
+    .label = Kemas kini tersedia — mula semula sekarang
+appmenu-nova-update-title = Mula semula untuk mengemas kini { -brand-short-name }
+appmenu-nova-update-description = Tab anda akan dibuka semula.
 appmenuitem-new-tab =
     .label = Tab Baru
 appmenuitem-new-window =
