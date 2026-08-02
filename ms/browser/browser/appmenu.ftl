@@ -206,6 +206,9 @@ profiler-popup-discard-button =
     .label = Buang
 profiler-popup-capture-button =
     .label = Tangkap
+profiler-button-dropmarker =
+    .label = Buka panel profiler
+    .tooltiptext = Buka panel profiler
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -223,11 +226,28 @@ profiler-popup-capture-button =
 profiler-popup-presets-web-developer-description = Pratetap yang disyorkan untuk kebanyakan debugging aplikasi web, dengan overhead rendah.
 profiler-popup-presets-web-developer-label =
     .label = Pembangun Web
+profiler-popup-presets-firefox-description = Pratetap yang disyorkan untuk memprofil { -brand-shorter-name }.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Pratetap untuk menyiasat pepijat grafik dalam { -brand-shorter-name }.
+profiler-popup-presets-graphics-label =
+    .label = Grafik
+profiler-popup-presets-media-description2 = Pratetap untuk menyiasat pepijat audio dan video dalam { -brand-shorter-name }.
+profiler-popup-presets-media-label =
+    .label = Media
+profiler-popup-presets-ml-description = Pratetap untuk menyiasat pepijat machine learning dalam { -brand-shorter-name }.
 profiler-popup-presets-ml-label =
     .label = Machine Learning
+profiler-popup-presets-networking-description = Pratetap untuk menyiasat pepijat rangkaian dalam { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Rangkaian
 profiler-popup-presets-networking-with-logs-description = Pratetap untuk menyiasat pepijat rangkaian dalam { -brand-shorter-name }, termasuk log rangkaian. Log ini mungkin mengandungi maklumat sensitif seperti URL yang anda lawati.
 profiler-popup-presets-networking-with-logs-label =
     .label = Rangkaian dengan Log
+profiler-popup-presets-power-description = Pratetap untuk menyiasat pepijat penggunaan kuasa dalam { -brand-shorter-name }, dengan overhead rendah.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Kuasa
 profiler-popup-presets-debug-description = Pratetap untuk debugging dalam { -brand-shorter-name }. Overhead tinggi, jangan guna untuk kerja prestasi tetapi guna untuk fokus memahami tingkah laku pelayar.
 profiler-popup-presets-debug-label =
     .label = Nyahpepijat
@@ -239,6 +259,8 @@ profiler-popup-presets-custom-label =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Urus Sejarah
 appmenu-restore-session =
     .label = Pulih Sesi Dahulu
 appmenu-clear-history =
@@ -259,6 +281,9 @@ appmenu-help-header =
 appmenu-about =
     .label = Perihal { -brand-shorter-name }
     .accesskey = P
+appmenu-get-help =
+    .label = Dapatkan Bantuan
+    .accesskey = B
 appmenu-help-more-troubleshooting-info =
     .label = Maklumat penyelesaian masalah lanjut
     .accesskey = p

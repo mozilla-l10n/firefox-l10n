@@ -270,7 +270,25 @@ newtab-privacy-message-promo-relay-3-cta = Maski wobstarać
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } přesćěhowak je so tutón tydźeń zablokował. Hladajće, štož { -brand-short-name } wotstronja
+        [two] { $count } přesćěhowak stej so tutón tydźeń zablokowałoj. Hladajće, štož { -brand-short-name } wotstronja
+        [few] { $count } přesćěhowaki su so tutón tydźeń zablokowali. Hladajće, štož { -brand-short-name } wotstronja
+       *[other] { $count } přesćěhowakow je so tutón tydźeń zablokowało. Hladajće, štož { -brand-short-name } wotstronja
+    }
 newtab-privacy-message-milestone-week-cta = Škity pokazać
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } přesćěhowak je so tutón měsac zablokował. Jedyn mały krok za priwatnosć. Jedyn wulki krok za dušiny měr.
+        [two] { $count } přesćěhowakaj stej so tutón měsac zablokowałoj. Jedyn mały krok za priwatnosć. Jedyn wulki krok za dušiny měr.
+        [few] { $count } přesćěhowaki su so tutón měsac zablokowali. Jedyn mały krok za priwatnosć. Jedyn wulki krok za dušiny měr.
+       *[other] { $count } přesćěhowakow je so tutón měsac zablokowało. Jedyn mały krok za priwatnosć. Jedyn wulki krok za dušiny měr.
+    }
 newtab-privacy-message-milestone-month-cta = Škity pokazać
 newtab-privacy-message-milestone-year-cta = Škity pokazać
 newtab-privacy-message-milestone-total-cta = Škity pokazać
