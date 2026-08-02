@@ -80,8 +80,16 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Syćowy monitor
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Maksimalna wulkosć naprašowanskeho a wotmołwneho teksta (staja so na 0 za njewobmjezowany):
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Njewobmjezowany
+options-netmonitor-body-limit-button =
+    .title = Maksimalnu wulkosć naprašowanskeho/wotmołwneho teksta wobdźěłać.
+options-netmonitor-body-limit-restore-default =
+    .title = Standardnu hódnotu za maksimalnu wulkosć naprašowanskeho/wotmołwneho tekst wobnowić.
+options-netmonitor-body-limit-set =
+    .title = Aktualnu zapodawansku hódnotu za maksimalnu wulkosć naprašowanskeho/wotmołwneho tekst nastajić.
 
 ## Experimental section
 

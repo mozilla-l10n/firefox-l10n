@@ -271,3 +271,8 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Zabilješke i povijest neće biti funkcionalne zbog jedne { -brand-short-name } datoteke koju koristi drugi program. Neki sigurnosni programi mogu ovo prouzročiti.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = Nova
+    .label = Mapa za dijeljenje

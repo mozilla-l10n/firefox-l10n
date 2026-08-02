@@ -115,6 +115,8 @@ legacy-extensions =
     .value = Zastarjeli dodaci
 legacy-extensions-description = Ovi dodaci ne zadovoljavaju trenutačne { -brand-short-name } standarde te se isključeni. <label data-l10n-name="legacy-learn-more">Saznaj o promjenama u dodacima</label>
 private-browsing-description2 = { -brand-short-name } mijenja način na koji dodaci rade u privatnom pretraživanju. Svaki novi dodatak koji dodaš u { -brand-short-name } neće automatski raditi u privatnom pretraživanju. Ukoliko ne dozvoliš u postavkama, dodatak neće raditi dok koristiš privatno pretraživanje i neće imati pristup tvojim aktivnostima. Napravili smo ovu izmjenu kako bismo zadržali tvoje pretraživanje privatnim. <label data-l10n-name="private-browsing-learn-more">Saznaj kako upravljati postavkama dodataka</label>
+aboutaddons-sidebar =
+    .heading = Dodaci
 addon-category-discover = Preporuke
 addon-category-discover-title =
     .title = Preporuke
@@ -483,6 +485,10 @@ addon-permissions-empty = Ovo proširenje ne zahtijeva dozvole
 addon-permissions-required = Dozvole potrebne za osnovnu funkcionalnost:
 addon-permissions-optional = Opcionalne dozvole za dodatnu funkcionalnost:
 addon-permissions-learnmore = Saznaj više o dozvolama
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Nekim dozvolama upravlja vaša organizacija.
 recommended-extensions-heading = Preporučeni dodaci
 recommended-themes-heading = Preporučene teme
 # Variables:
@@ -594,6 +600,7 @@ mlmodel-link-preview = { -brand-short-name } koristi ovo za generiranje ključni
 mlmodel-pdfjs = { -brand-short-name } koristi ovo za stvaranje alternativnog teksta za slike koje dodaješ u PDF datoteke
 mlmodel-smart-tab-topic-engine = { -brand-short-name } koristi ovo za predlaganje imena za tvoje grupe kartica
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } koristi ovo za predlaganje kartica za tvoje grupe kartica
+mlmodel-formfill-engine = { -brand-short-name } koristi ovo za popunjavanje obrazaca za adresu
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Umjetna inteligencija na uređaju
 addon-category-mlmodel-title =

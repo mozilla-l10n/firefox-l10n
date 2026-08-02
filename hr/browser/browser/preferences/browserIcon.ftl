@@ -6,9 +6,57 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+# Entry in the Appearance pane (Windows only) that opens the browser-icon
+# subpage. The browser icon is the icon shown on the desktop, taskbar, and
+# Start Menu.
+appearance-browser-icon-entry-group =
+    .label = Ikona preglednika
+    .description = Odaberi prilagođenu ikonu za tvoju programsku traku, radnu površinu i izbornik Start.
+appearance-browser-icon-button =
+    .label = Promijeni ikonu preglednika
+
+## Strings for the "Browser icon" sub-page (Windows only), opened from the
+## "Change browser icon" button in the Appearance settings. The sub-page lets
+## people choose which icon appears on the taskbar, desktop, and Start Menu.
+
+appearance-browser-icon-subpage-title =
+    .heading = Više ikona
+
+## Icons are organized into two groups: "Standard" and "Special". The icons in
+## the "Special" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-basic-group =
+    .label = Standardno
+appearance-browser-icon-bonus-group =
+    .label = Posebno
+
+##
+
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Dovrši i otključaj dodatne ikone lisice za personalizaciju { -brand-short-name(case: "gen") }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Otključao/la si sve dodatne ikone!
+appearance-browser-icon-set-default-button =
+    .label = Postavi kao zadano
+appearance-browser-icon-pin-button =
+    .label = Prikvači na programsku traku
 
 ## Icon names
 
+appearance-browser-icon-default =
+    .label = Zadano
+appearance-browser-icon-retro2004 =
+    .label = Retro 2004.
+appearance-browser-icon-retro2017 =
+    .label = Retro 2017.
+appearance-browser-icon-pride =
+    .label = Ponos
+appearance-browser-icon-minimal =
+    .label = Minimalna
 # Kit is the name of the new Firefox mascot, it shouldn't be translated.
 appearance-browser-icon-kit =
     .label = Kit
