@@ -317,10 +317,13 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Sesuaikan Bar Alatan...
 appmenu-abouttranslations =
     .label = Terjemahkan…
 appmenu-edit-pdf =
     .label = Sunting PDF...
+appmenu-developer-tools-subheader = Alatan Pelayar
 appmenu-developer-tools-extensions =
     .label = Sambungan untuk pembangun
 appmenuitem-report-broken-site =

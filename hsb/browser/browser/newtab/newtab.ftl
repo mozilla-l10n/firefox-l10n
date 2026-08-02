@@ -275,7 +275,7 @@ newtab-privacy-message-promo-relay-3-cta = Maski wobstarać
 newtab-privacy-message-milestone-week =
     { $count ->
         [one] { $count } přesćěhowak je so tutón tydźeń zablokował. Hladajće, štož { -brand-short-name } wotstronja
-        [two] { $count } přesćěhowak stej so tutón tydźeń zablokowałoj. Hladajće, štož { -brand-short-name } wotstronja
+        [two] { $count } přesćěhowakaj stej so tutón tydźeń zablokowałoj. Hladajće, štož { -brand-short-name } wotstronja
         [few] { $count } přesćěhowaki su so tutón tydźeń zablokowali. Hladajće, štož { -brand-short-name } wotstronja
        *[other] { $count } přesćěhowakow je so tutón tydźeń zablokowało. Hladajće, štož { -brand-short-name } wotstronja
     }
@@ -290,6 +290,15 @@ newtab-privacy-message-milestone-month =
        *[other] { $count } přesćěhowakow je so tutón měsac zablokowało. Jedyn mały krok za priwatnosć. Jedyn wulki krok za dušiny měr.
     }
 newtab-privacy-message-milestone-month-cta = Škity pokazać
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } přesćěhowak je so lětsa zablokował. To je mócne lěto škita wašeje priwatnosće.
+        [two] { $count } přesćěhowakaj stej so lětsa zablokowałoj. To je mócne lěto škita wašeje priwatnosće.
+        [few] { $count } přesćěhowaki je so lětsa zablokowali. To je mócne lěto škita wašeje priwatnosće.
+       *[other] { $count } přesćěhowakow je so lětsa zablokowało. To je mócne lěto škita wašeje priwatnosće.
+    }
 newtab-privacy-message-milestone-year-cta = Škity pokazać
 newtab-privacy-message-milestone-total-cta = Škity pokazać
 # Shown when today's blocked-tracker count reaches the display cap ("100+").

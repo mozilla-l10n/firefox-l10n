@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = 還有誰可能看到我的上網紀錄�
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = 您的上網過程不會被記錄下來
+about-private-browsing-nova-info-subheader2 = 關閉所有隱私視窗後，我們就會清除所有搜尋紀錄與登入狀態。{ -brand-short-name } 內建的各種保護功能（如追蹤器封鎖等）於此處也依然有效。
 about-private-browsing-nova-info-subheader = 關閉視窗後，我們就會清除所有搜尋紀錄與登入狀態。{ -brand-short-name } 內建的各種保護功能（如追蹤器封鎖等）於此處也依然有效。
