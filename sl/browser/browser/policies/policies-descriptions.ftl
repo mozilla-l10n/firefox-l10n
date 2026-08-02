@@ -30,13 +30,19 @@ policy-BlockAboutSupport = Zavrni dostop do strani about:support.
 policy-Bookmarks = Ustvarjaj zaznamke v orodni vrstici, meniju zaznamkov ali v določeni mapi.
 policy-CaptivePortal = Omogoči ali onemogoči podporo za prestrezni portal.
 policy-CertificatesDescription = Dodaj digitalna potrdila ali uporabi vgrajena potrdila.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Omogoči dogovor o ključu CNSA 2.0 ML-KEM-1024 za TLS.
 policy-ContentAnalysis = Omogoči ali onemogoči povezovanje s agentom za preprečevanje izgube podatkov.
 policy-Cookies = Spletnim mestom dovoli ali prepovej nastavljanje piškotkov.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Nastavi pravilnike, povezane z vsebniki.
 policy-DisableAccounts = Onemogoči storitve na osnovi računov, na primer sinhronizacijo.
 policy-DisabledCiphers = Onemogoči šifre.
+policy-DefaultBrowserSettingEnabled = Določite, ali lahko uporabnik nastavi { -brand-short-name } kot privzeti brskalnik.
 policy-DefaultDownloadDirectory = Nastavi privzeto mapo za prenose.
+policy-DefaultSerialGuardSetting = Nadzirajte uporabo API za serijska vrata.
 policy-DisableAppUpdate = Prepreči posodabljanje brskalnika.
 policy-DisableBuiltinPDFViewer = Onemogoči PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Prepreči privzetemu uporabniškemu agentu izvajanje kakršnihkoli ukrepov. To velja samo za Windows, druge platforme nimajo agenta.
@@ -58,6 +64,7 @@ policy-DisablePrivateBrowsing = Onemogoči zasebno brskanje.
 policy-DisableProfileImport = Onemogoči menijski ukaz Uvozi podatke drugega brskalnika.
 policy-DisableProfileRefresh = Onemogoči gumb Osveži { -brand-short-name } na strani about:support.
 policy-DisableRemoteImprovements = { -brand-short-name(sklon: "dajalnik") } prepreči uveljavljanje sprememb učinkovitosti delovanja, zanesljivosti in funkcij med posodobitvami.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Onemogoči oddaljene nastavitve.
 policy-DisableSafeMode = Onemogoči možnost za ponovni zagon v varnem načinu. Opomba: zagon varnega načina s tipko Shift lahko v sistemu Windows onemogočite le z uporabo pravilnika skupine.
 policy-DisableSecurityBypass = Uporabniku prepreči, da zaobide določena varnostna opozorila.
 policy-DisableSetAsDesktopBackground = Onemogoči menijski ukaz Nastavi kot ozadje namizja za slike.
@@ -138,6 +145,7 @@ policy-SearchSuggestEnabled = Omogoči ali onemogoči predloge iskanja.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Dodaj ali izbriši module PKCS #11.
 policy-ShowHomeButton = Prikaži gumb Domov v orodni vrstici.
+policy-SitePolicies = Pravilniki posameznih spletnih mest.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Ob zagonu ne prikaži pogojev uporabe in obvestila o zasebnosti. S tem sprejemate pogoje uporabe v svojem in v imenu vseh posameznikov, ki jim omogočite dostop do tega brskalnika.
 policy-SSLVersionMax = Nastavi najnovejšo dovoljeno različico SSL.
@@ -153,3 +161,5 @@ policy-WebsiteFilter = Prepreči obisk določenih spletnih mest. Za več podrobn
 policy-Windows10SSO = Dovoli enotno prijavo v sistem Windows za Microsoftove, službene in šolske račune.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Dovoli enotno prijavo za račune Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Omogočite ali onemogočite podporo za JavaScript API XSLTProcessor in ukaz za obdelavo XSLT.

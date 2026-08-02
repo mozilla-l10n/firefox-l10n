@@ -137,6 +137,16 @@ fxa-menu-manage-devices =
     .label = Urus peranti anda
 fxa-menu-device-missing =
     .label = Tidak Nampak Peranti Anda?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Semua Peranti
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Semua Peranti
+fxa-menu-get-firefox-mobile =
+    .label = Dapatkan { -brand-product-name } untuk Android atau iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sync selamat
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Akaun
 # Variables
@@ -181,6 +191,21 @@ profiler-popup-reveal-description-button =
     .aria-label = Dedahkan maklumat lanjut
 profiler-popup-description-title =
     .value = Rakam, analisis, kongsi
+profiler-popup-description = Bekerjasama mengenai isu prestasi dengan menerbitkan profil untuk dikongsi dengan pasukan anda.
+profiler-popup-learn-more-button =
+    .label = Ketahui lebih lanjut
+profiler-popup-settings =
+    .value = Tetapan
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Edit Tetapan...
+profiler-popup-recording-screen = Merakam...
+profiler-popup-start-recording-button =
+    .label = Mula Merakam
+profiler-popup-discard-button =
+    .label = Buang
+profiler-popup-capture-button =
+    .label = Tangkap
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -195,6 +220,9 @@ profiler-popup-description-title =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Pratetap yang disyorkan untuk kebanyakan debugging aplikasi web, dengan overhead rendah.
+profiler-popup-presets-web-developer-label =
+    .label = Pembangun Web
 profiler-popup-presets-ml-label =
     .label = Machine Learning
 profiler-popup-presets-networking-with-logs-description = Pratetap untuk menyiasat pepijat rangkaian dalam { -brand-shorter-name }, termasuk log rangkaian. Log ini mungkin mengandungi maklumat sensitif seperti URL yang anda lawati.
