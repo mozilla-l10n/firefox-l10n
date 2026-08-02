@@ -594,11 +594,33 @@ sync-sign-in =
     .label = Daftar masuk
     .accesskey = d
 
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Sync: ON
+prefs-syncing-off = Sync: OFF
+prefs-sync-now =
+    .labelsyncing = Sedang sync...
+    .labelnotsyncing = Sync Sekarang
+    .accesskeynotsyncing = N
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Tandabuku
+sync-currently-syncing-history = Sejarah
+sync-currently-syncing-tabs = Tab terbuka
+sync-currently-syncing-logins-passwords = Log masuk dan kata laluan
+sync-currently-syncing-addresses = Alamat
+sync-currently-syncing-creditcards = Kad kredit
+sync-currently-syncing-addons = Sambungan
+sync-change-options =
+    .label = Ubah...
+    .accesskey = U
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
     .label = Tandabuku
-    .accesskey = a
+    .accesskey = T
 sync-engine-history =
     .label = Sejarah
     .accesskey = r
@@ -606,6 +628,10 @@ sync-engine-tabs =
     .label = Buka tab
     .tooltiptext = Senarai laman yang dibuka dalam semua peranti yang diselaraskan
     .accesskey = T
+sync-engine-logins-passwords =
+    .label = Log masuk dan kata laluan
+    .accesskey = L
+    .tooltiptext = Nama pengguna dan kata laluan yang anda simpan
 sync-engine-addresses =
     .label = Alamat
     .tooltiptext = Alamat pos yang anda sudah simpan (desktop sahaja)
@@ -641,6 +667,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Simpan
     .accesskey = p
+sync-connect-another-device = Sambungkan peranti lain
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -671,16 +698,50 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Pengecualian…
     .accesskey = g
+forms-generate-passwords =
+    .label = Cadangkan dan jana kata laluan yang kuat
+    .accesskey = C
+forms-breach-alerts =
+    .label = Paparkan amaran mengenai kata laluan bagi laman web yang bocor
+    .accesskey = P
+forms-breach-alerts-learn-more-link = Ketahui lebih lanjut
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Isikan log masuk dan kata laluan secara automatik
+    .accesskey = I
 forms-saved-logins =
-    .label = Log masuk Tersimpan…
+    .label = Log masuk tersimpan...
     .accesskey = L
+forms-primary-pw-use =
+    .label = Gunakan Kata Laluan Utama
+    .accesskey = u
+forms-primary-pw-learn-more-link = Ketahui lebih lanjut
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Tukar Kata laluan Induk…
     .accesskey = T
-forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
+forms-primary-pw-change =
+    .label = Ubah Kata Laluan Utama...
+    .accesskey = U
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Dahulu dikenali sebagai Kata Laluan Induk
+forms-primary-pw-fips-title = Anda kini berada dalam mod FIPS. FIPS memerlukan Kata Laluan Utama yang tidak kosong.
+forms-master-pw-fips-desc = Gagal menukar kata laluan
+
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Untuk mencipta Kata Laluan Utama, masukkan maklumat log masuk Windows anda. Ini membantu melindungi keselamatan akaun anda.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = cipta Kata Laluan Utama
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
