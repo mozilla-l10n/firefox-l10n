@@ -126,6 +126,18 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Кіраваць наладамі выплыўных акон і перанакіравання на староннія сайты
     .accesskey = ь
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Паглядзець інфармацыю аб сайце
+            [1] Паглядзець інфармацыю аб сайце (1 трэкер заблакаваны)
+            [one] Паглядзець інфармацыю аб сайце ({ $count } трэкер заблакаваны)
+            [few] Паглядзець інфармацыю аб сайце ({ $count } трэкеры заблакавана)
+            [many] Паглядзець інфармацыю аб сайце ({ $count } трэкераў заблакавана)
+           *[other] Паглядзець інфармацыю аб сайце ({ $count } трэкераў заблакавана)
+        }
 
 ##
 
@@ -1589,8 +1601,14 @@ private-browsing-indicator-label = Прыватнае агляданне
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Прыватнае агляданне
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Інфармацыя аб прыватным агляданні
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Вы ў прыватным акне
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Гэта дапамагае схаваць ваша агляданне ад іншых карыстальнікаў гэтай прылады, але не робіць вас нябачным у інтэрнэце. <a data-l10n-name="learn-more">Хто можа бачыць маю дзейнасць?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

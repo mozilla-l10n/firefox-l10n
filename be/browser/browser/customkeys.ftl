@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Націсніце новую клавішу:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (не можа быць зменена)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Выдаліць іншае спалучэн
 customkeys-conflict-confirm-body = Гэта клавіша ўжо выкарыстоўваецца ў “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Усё роўна выкарыстаць
 customkeys-conflict-confirm-button-cancel = Адмена
+customkeys-conflict-unusable-title = Клавіша не можа быць ужыта
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Гэта клавіша ўжо выкарыстоўваецца ў “{ $conflict }” і не можа быць ужыта.
 customkeys-reset-all-confirm-title = Аднавіць прадвызначаныя?
 customkeys-reset-all-confirm-body = Усе створаныя вамі карыстальніцкія спалучэнні клавіш будуць выдалены.
 customkeys-reset-all-confirm-button-confirm = Аднавіць прадвызначаныя
