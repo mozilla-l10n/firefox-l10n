@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Analluogi nodwedd Firefox Screenshots.
 policy-DisableFirefoxStudies = Rhwystro { -brand-short-name } rhag rhedeg astudiaethau.
 policy-DisableForgetButton = Rhwystro mynediad at y botwm Anghofio.
 policy-DisableFormHistory = Peidio â chofio chwilio a hanes ffurflenni.
+policy-DisableLaunchOnLogin = Atal { -brand-short-name } rhag agor yn awtomatig pan fydd y defnyddiwr yn mewngofnodi.
 policy-DisablePrimaryPasswordCreation = Os yn wir, nid oes modd creu Prif Cyfrinair.
 policy-DisablePasswordReveal = Peidiwch â gadael i gyfrineiriau gael eu datgelu mewn mewngofnodi sydd wedi'u cadw.
 policy-DisablePocket2 = Analluogi'r nodwedd i gadw tudalennau gwe i { -pocket-brand-name }.

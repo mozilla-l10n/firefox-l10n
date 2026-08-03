@@ -71,6 +71,24 @@ fxa-menu-send-tab-to-device-description = Anfon tab ar unwaith i unrhyw ddyfais 
 fxa-menu-sign-out =
     .label = Allgofnodi…
 fxa-menu-sync-description = Cael mynediad i'ch gwe yn unrhyw le
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Rheoli Cyfrif
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Mewngofnodi i gydweddu
+fxa-menu-sign-in-promo-message = Cael eich data ym mhobman
+fxa-menu-sign-in-promo-button =
+    .label = Mewngofnodi
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Mewngofnodi
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Rydych wedi allgofnodi.
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Gorffen gosod
 fxa-avatar-sign-in = Mewngofnodi
 fxa-avatar-sign-up = Ymuno
 fxa-avatar-tooltip =

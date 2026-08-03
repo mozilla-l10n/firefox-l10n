@@ -44,3 +44,12 @@ inspector-emulation-panel-color-scheme-dark = Tywyll
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Dim efelychu
     .aria-label = Analluogi efelychu cynllun lliw
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Lleihau
+    .aria-label = Galluogi efelychu symudedd llai
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Dim dewis
+    .aria-label = Galluogi dim dewis i efelychu symudiad llai
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Dim efelychu
+    .aria-label = Analluogi efelychu symudiad llai
