@@ -355,14 +355,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = 계정에 로그인
 appmenuitem-monitor-title2 = 신원 도용 피해 미리 예방하기
 appmenuitem-monitor-description2 = 개인 정보 유출 알림 받기
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } 데이터 유출 알림
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = 데이터 유출 알림 받기
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = 이메일 주소 비공개로 보호하기
 appmenuitem-relay-description2 = 받은 편지함의 스팸 메일 차단 지원
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = 이메일 가리기 보기
 appmenuitem-relay-description = 실제 이메일과 전화를 가리세요
 appmenuitem-services-relay-description = 이메일 가리기 대시보드 실행
 appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name }으로 내 위치 숨기기
+appmenuitem-vpn-description4 = 모든 앱과 기기에서 추가 보호 받기
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = { -mozilla-vpn-brand-name } 열기
 appmenuitem-vpn-description3 = 탐색 활동 추적 방지
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 전체 기기 보호 받기
