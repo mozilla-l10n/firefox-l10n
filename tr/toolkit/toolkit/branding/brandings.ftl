@@ -61,6 +61,6 @@
     { $form ->
         [uppercase-singular] Akıllı pencere
         [uppercase-plural] Akıllı pencereler
-        [lowercase-singular] akıllı pencere
-       *[lowercase-plural] akıllı pencereler
+        [lowercase-plural] akıllı pencereler
+       *[lowercase-singular] akıllı pencere
     }
