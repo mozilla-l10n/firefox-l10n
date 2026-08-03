@@ -21,34 +21,34 @@ theme-picker-default =
     .label = Standaard
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun =
-    .label = Zonnig
+    .label = Zon
 # Name for a warm orange theme. Refers to a small burst of fire.
 theme-picker-spark =
-    .label = Fonkelend
+    .label = Vonk
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame =
-    .label = Vlammend
+    .label = Vlam
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare =
-    .label = Stralend
+    .label = Flits
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender =
     .label = Lavendel
 # Name for a medium purple theme. Refers to the sky just after sunset.
 theme-picker-dusk =
-    .label = Schemering
+    .label = Schemer
 # Name for a medium blue theme. Refers to a sheltered body of water.
 theme-picker-lagoon =
     .label = Lagune
 # Name for a green theme. Refers to pine trees.
 theme-picker-pine =
-    .label = Dennegroen
+    .label = Den
 # Name for a soft teal theme. Refers to ocean tides.
 theme-picker-tide =
-    .label = Getijde
+    .label = Getij
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 theme-picker-ash =
-    .label = Asgrijs
+    .label = As
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 theme-picker-smoke =
     .label = Rook
@@ -66,34 +66,34 @@ theme-picker-default-aria-label =
     .aria-label = Standaard
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun-aria-label =
-    .aria-label = Zonnig
+    .aria-label = Zon
 # Name for a warm orange theme. Refers to a small burst of fire.
 theme-picker-spark-aria-label =
-    .aria-label = Fonkelend
+    .aria-label = Vonk
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame-aria-label =
-    .aria-label = Vlammend
+    .aria-label = Vlam
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare-aria-label =
-    .aria-label = Stralend
+    .aria-label = Flits
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender-aria-label =
     .aria-label = Lavendel
 # Name for a medium purple theme. Refers to the sky just after sunset.
 theme-picker-dusk-aria-label =
-    .aria-label = Schemering
+    .aria-label = Schemer
 # Name for a medium blue theme. Refers to a sheltered body of water.
 theme-picker-lagoon-aria-label =
     .aria-label = Lagune
 # Name for a green theme. Refers to pine trees.
 theme-picker-pine-aria-label =
-    .aria-label = Dennegroen
+    .aria-label = Den
 # Name for a soft teal theme. Refers to ocean tides.
 theme-picker-tide-aria-label =
-    .aria-label = Getijde
+    .aria-label = Getij
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 theme-picker-ash-aria-label =
-    .aria-label = Asgrijs
+    .aria-label = As
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 theme-picker-smoke-aria-label =
     .aria-label = Rook
