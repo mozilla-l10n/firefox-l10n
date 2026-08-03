@@ -199,6 +199,44 @@ newtab-privacy-message-promo-vpn-2 = ¿Navegas con el Wi-Fi del aeropuerto? Prot
 newtab-privacy-message-promo-vpn-2-cta = Abrir VPN
 newtab-privacy-message-promo-vpn-3 = Activa la VPN integrada para aumentar tu privacidad y proteger tu ubicación.
 newtab-privacy-message-promo-vpn-3-cta = Abrir VPN
+newtab-privacy-message-promo-private-window-1 = Prueba las ventanas privadas para tener más privacidad cuando navegues en una computadora compartida.
+newtab-privacy-message-promo-private-window-1-cta = Abrir ventana privada
+newtab-privacy-message-promo-relay-1 = Comparte tu correo electrónico real solo con personas en las que confías. Usa un correo electrónico enmascarado para suscripciones en linea.
+newtab-privacy-message-promo-relay-1-cta = Obtener máscaras
+newtab-privacy-message-promo-relay-2 = Protege tu bandeja de entrada del spam con máscaras de correo electrónico gratuitas.
+newtab-privacy-message-promo-relay-2-cta = Obtener máscaras
+newtab-privacy-message-promo-relay-3 = Obtén 50 máscaras de correo electrónico gratuitas para proteger tu correo electrónico real.
+newtab-privacy-message-promo-relay-3-cta = Obtener máscaras
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } rastreador bloqueado esta semana. Descubre lo que { -brand-short-name } está bloqueando.
+       *[other] { $count } rastreadores bloqueados esta semana. Descubre lo que { -brand-short-name } está bloqueando.
+    }
+newtab-privacy-message-milestone-week-cta = Ver protecciones
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } rastreador bloqueado este mes. Un pequeño paso para la privacidad. Un gran paso para la tranquilidad.
+       *[other] { $count } rastreadores bloqueados este mes. Un pequeño paso para la privacidad. Un gran paso para la tranquilidad.
+    }
+newtab-privacy-message-milestone-month-cta = Ver protecciones
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } rastreador bloqueado este año. Un año entero de protección avanzada de tu privacidad.
+       *[other] { $count } rastreadores bloqueados este año. Un año entero de protección avanzada de tu privacidad.
+    }
+newtab-privacy-message-milestone-year-cta = Ver protecciones
 
 ## Search box component.
 
