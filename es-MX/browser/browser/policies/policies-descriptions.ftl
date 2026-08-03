@@ -30,12 +30,17 @@ policy-BlockAboutSupport = Bloquear acceso a la página about:support.
 policy-Bookmarks = Crear marcadores en la barra de herramientas Marcadores, menú Marcadores o una carpeta específica dentro de ellos.
 policy-CaptivePortal = Habilitar o deshabilitar soporte de portal cautivo.
 policy-CertificatesDescription = Agregar certificados o usar certificados incorporados.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Habilitar el acuerdo de clave CNSA 2.0 ML-KEM-1024 para TLS.
 policy-ContentAnalysis = Habilitar o deshabilitar la conexión al agente de prevención de pérdida de datos.
 policy-Cookies = Permitir o denegar sitios web para establecer cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Establecer políticas relacionadas con los contenedores.
 policy-DisableAccounts = Deshabilitar los servicios basados en cuentas, incluida la sincronización.
 policy-DisabledCiphers = Desactivar cifrados.
+policy-DefaultBrowserSettingEnabled = Determina si el usuario puede establecer { -brand-short-name } como navegador predeterminado.
 policy-DefaultDownloadDirectory = Establece el directorio de descarga predeterminado
 policy-DefaultSerialGuardSetting = Controlar el uso de la API serie.
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
