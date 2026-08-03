@@ -2570,7 +2570,7 @@ preferences-ai-controls-sidebar-chatbot-control =
     .label = Чатбот в страничната лента
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
-    .label = Наличен
+    .label = Налично
 # This option means a user has opted in to use the feature.
 preferences-ai-controls-state-enabled =
     .label = Включен
@@ -2578,7 +2578,7 @@ preferences-ai-controls-state-enabled =
 preferences-ai-controls-state-blocked =
     .label = Забранен
 preferences-ai-controls-state-description-before = Какво означават настройките:
-preferences-ai-controls-state-description-available = <strong>Наличен:</strong> Фукнцията е налична за използване.
+preferences-ai-controls-state-description-available = <strong>Наличнo:</strong> Ще видите функцията и можете да я използвате.
 preferences-ai-controls-state-description-enabled = <strong>Включен:</strong> Функцията е избрана за използване.
 preferences-ai-controls-state-description-blocked = <strong>Забранен:</strong> Функцията не се вижда и няма да може да се използва. За AI върху устройство всички вече изтеглени модели се премахват.
 preferences-ai-controls-block-confirmation-heading = Забраняване на AИ подобренията?
