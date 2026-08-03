@@ -6,6 +6,10 @@
 ### Localization for about:webauthn, a security token management page
 
 
+## Section titles
+
+about-webauthn-pin-section-title = Управление на ПИН
+
 ## Results label
 
 about-webauthn-results-success = Успех!

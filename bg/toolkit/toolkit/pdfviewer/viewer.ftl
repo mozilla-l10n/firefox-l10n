@@ -392,6 +392,17 @@ pdfjs-editor-alt-text-settings-show-dialog-button-label = Показване н�
 
 pdfjs-editor-add-signature-image-upload-error-description = Проверете мрежовата си връзка или опитайте с друго изображение.
 
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-views-manager-pages-status-action-button-label = Управление
+pdfjs-toggle-views-manager-button1 =
+    .title = Управление на страници
+
 ## Per-signature certificate row. The variants with an issuer / date in
 ## parentheses embed fully-localized context — no English fall-through.
 ##
