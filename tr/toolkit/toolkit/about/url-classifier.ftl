@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-url-classifier-title = URL sınıflandırıcısı bilgileri
+url-classifier-title = URL sınıflandırıcı bilgileri
 url-classifier-search-title = Arama
 url-classifier-search-result-title = Sonuçlar
 # Variables:
@@ -37,6 +37,7 @@ url-classifier-cache-prefix = Ön ek
 url-classifier-cache-ncache-expiry = Negatif önbellek son kullanma
 url-classifier-cache-fullhash = Tam hash
 url-classifier-cache-pcache-expiry = Pozitif önbellek son kullanma
+url-classifier-content-classifier-title = İçerik sınıflandırıcı
 # URL of the resource being tested, i.e. the thing that would be loaded
 # (e.g. an image, script, or tracking pixel).
 url-classifier-content-classifier-url = URL
