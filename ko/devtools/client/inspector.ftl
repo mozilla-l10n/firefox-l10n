@@ -44,3 +44,12 @@ inspector-emulation-panel-color-scheme-dark = 어둡게
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = 에뮬레이션 없음
     .aria-label = 색상 구성표 에뮬레이션을 사용 안 함
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = 줄이기
+    .aria-label = 동작 줄이기 에뮬레이션 활성화
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = 설정하지 않음
+    .aria-label = 동작 줄이기 에뮬레이션에 설정하지 않음 활성화
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = 에뮬레이션 없음
+    .aria-label = 동작 줄이기 에뮬레이션 비활성화
