@@ -30,7 +30,7 @@ theme-picker-flame =
     .label = Flamme
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare =
-    .label = Fusée
+    .label = Incandescence
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender =
     .label = Lavande
@@ -75,7 +75,7 @@ theme-picker-flame-aria-label =
     .aria-label = Flamme
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare-aria-label =
-    .aria-label = Fusée
+    .aria-label = Incandescence
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender-aria-label =
     .aria-label = Lavande
