@@ -596,3 +596,7 @@ onboarding-refresh-sync-title = Ve a donde sea. Sincroniza todo.
 onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una organización sin fines de lucro. Con tu apoyo, trabajamos para que internet sea más seguro y accesible para todas las personas.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } te respalda
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-button-label = Guardar y continuar
