@@ -354,13 +354,18 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = כניסה לחשבון שלך
 appmenuitem-monitor-title2 = להישאר צעד אחד קדימה במאבק נגד גניבת זהות
 appmenuitem-monitor-description2 = קבלת התרעות על דליפות נתונים
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = התרעות של { -monitor-brand-short-name } על דליפות נתונים
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = קבלת התרעות על דליפות נתונים
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = לשמור על הדוא״ל שלך אנונימי
 appmenuitem-relay-description2 = מסייע במניעת ספאם בתיבת הדואר הנכנס שלך
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = הצגת מסכות דוא״ל
 appmenuitem-relay-description = מיסוך כתובת הדוא״ל והטלפון האמיתיים שלך
 appmenuitem-vpn-title2 = הסתרת המיקום שלך בעזרת { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = קבלת הגנה נוספת ביישומים ובמכשירים שונים
 appmenuitem-vpn-description3 = להפוך את הגלישה שלך לקשה יותר למעקב
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = קבלת הגנה על כל המכשיר
