@@ -94,6 +94,11 @@ restore-from-backup-cancel-button = Отказ
 backup-service-error-corrupt-file =
     .heading = Този файл не работи
     .message = Има проблем с архивния файл. Изберете друг файл и опитайте отново.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } не можа да се възстанови
+    .message = Рестартирайте { -brand-short-name } и опитайте отново.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

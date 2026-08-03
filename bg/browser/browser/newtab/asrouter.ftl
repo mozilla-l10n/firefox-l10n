@@ -360,6 +360,11 @@ windows-10-eos-sync-callout-get-started-button = Въведение
 windows-10-eos-feature-toast-whats-new-button = Вижте какво ново
 windows-10-eos-feature-toast-dismiss-button = Прекратяване
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-primary-button = Включване на резервните копия
+    .accesskey = В
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
