@@ -60,6 +60,7 @@ smartbar-placeholder-hint-4 = Tikanöx pan ajk'am…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Tiya retal jun ruwi' o ruxaq
 smartbar-mentions-list-no-results-label = Majun achike xilitäj
 smartbar-mentions-list-recent-tabs-label = K'ak'a' taq ruwi'
 

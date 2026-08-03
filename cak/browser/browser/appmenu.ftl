@@ -305,13 +305,21 @@ appmenuitem-sign-in-account = Katok pa rub'i' ataqoya'l
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Kisamajib'al ichinanem
 
 ## Profiles panel
 
 appmenu-copy-profile =
     .label = Tiwachib'ex re Ruwäch B'i'aj re'
+appmenu-create-profile2 =
+    .label = Tinuk' jun k'ak'a' ruwäch b'i'aj
 appmenu-edit-profile =
     .aria-label = Tinuk' ruwäch b'i'aj
+fxa-menu-create-profile-confirm =
+    .label = Tinuk' jun k'ak'a' ruwäch b'i'aj
 appmenu-profiles-2 =
     .label = Ruwäch taq b'i'aj
 appmenu-profiles-header = Ruwäch taq b'i'aj
