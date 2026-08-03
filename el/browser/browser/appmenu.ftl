@@ -294,6 +294,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Σχετικά με το { -brand-shorter-name }
     .accesskey = Σ
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Κοινή χρήση { -brand-shorter-name }
+    .accesskey = r
 appmenu-get-help =
     .label = Λήψη βοήθειας
     .accesskey = β
@@ -397,6 +402,9 @@ fxa-menu-create-profile-confirm =
     .label = Δημιουργία νέου προφίλ
 fxa-menu-create-profile-learn-more =
     .label = Τι είναι τα προφίλ;
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Κοινή χρήση { -brand-short-name }
+appmenuitem-share-firefox-description = Προσκαλέστε κάποιον να επιλέξει το πρόγραμμα περιήγησης που δίνει προτεραιότητα στην ιδιωτικότητα
 appmenu-profiles-2 =
     .label = Προφίλ
 appmenu-profiles-header = Προφίλ

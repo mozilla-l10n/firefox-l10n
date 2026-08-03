@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Ρυθμίσεις…
 menu-application-set-as-default =
     .label = Ορισμός του { -brand-shorter-name } ως προεπιλογής
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Κοινή χρήση { -brand-shorter-name }
 menu-application-services =
     .label = Υπηρεσίες
 menu-application-hide-this =
@@ -374,3 +378,7 @@ menu-help-not-deceptive =
     .accesskey = δ
 menu-report-broken-site =
     .label = Αναφορά προβληματικού ιστοτόπου
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Κοινή χρήση { -brand-shorter-name }
