@@ -171,6 +171,26 @@ autofill-card-network = Tipo de tarjeta
 # methods in their region.
 autofill-card-search-term-credit-cards = tarjetas de crédito, crédito, tarjetas, tarjetas de débito, débito, billetera, finalizar compra
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Agregar pasaporte
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Editar pasaporte
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Nombre
+autofill-passport-country =
+    .label = País
+autofill-passport-number =
+    .label = Número
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Fecha de emisión
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express

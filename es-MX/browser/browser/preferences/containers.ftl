@@ -100,6 +100,7 @@ containers-window-update-settings3 =
 
 ## Container creation panel, anchored to the URL bar.
 
+containers-panel-title = Agregar un nuevo contenedor
 containers-panel-create-button =
     .label = Hecho
 containers-panel-cancel-button =
