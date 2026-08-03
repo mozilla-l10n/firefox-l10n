@@ -26,6 +26,9 @@ ai-window-is-default-window =
 ai-window-open-sidebar =
     .label = Abrir asistente automáticamente
     .description = Mostrar la barra lateral del asistente en cada pestaña nueva. Puedes cerrar la barra cuando quieras.
+ai-window-smart-cursor-in-smart-window =
+    .label = Mostrar accesos directos al seleccionar texto
+    .description = Atajos para resumir, explicar y otras funcionalidades.
 smart-window-model-section =
     .label = Modelo para el asistente
     .description = Escoge un modelo según los aspectos que son importantes para ti.
@@ -92,3 +95,18 @@ ai-window-delete-all-memories-cancel = Cancelar
 ai-window-memory-delete-button =
     .title = Eliminar recuerdo
     .aria-label = Eliminar { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Rápido
+    .description = Ideal para respuestas rápidas cuando la velocidad importa. Nombre completo: { $model } de { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Flexible
+    .description = Listo para una variedad de tareas. Nombre completo: { $model } de { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Personal
+    .description = Diseñado para ayuda personalizada en varios idiomas. Nombre completo: { $model } de { $ownerName }
