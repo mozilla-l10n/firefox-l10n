@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Para obtener las pestañas de tu
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = Tu { -brand-product-name } en todos tus dispositivos
 firefoxview-syncedtabs-signin-description-2 = Para ver las pestañas que tienes abiertas en tu teléfono y otros dispositivos, inicia sesión o crea una cuenta. Con una cuenta, también puedes sincronizar tus contraseñas, historial y más.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Desde el portátil hasta el teléfono, sin obstáculos
+firefoxview-syncedtabs-signin-description-3 = Mantén tu navegación fluida entre dispositivos: tus pestañas, contraseñas e historial siempre sincronizados.
 firefoxview-syncedtabs-signin-primarybutton-2 = Iniciar sesión
 firefoxview-tabpickup-adddevice-header = Sincroniza { -brand-product-name } en tu teléfono o tableta
 firefoxview-tabpickup-adddevice-description = Descarga { -brand-product-name } para dispositivos móviles e inicia sesión allí.
@@ -40,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Obtén { -brand-product-name } p
 firefoxview-syncedtabs-adddevice-header-2 = Obtén pestañas desde cualquier lugar
 firefoxview-syncedtabs-adddevice-description-2 = Inicia sesión en { -brand-product-name } en tu teléfono u otra computadora para ver las pestañas aquí. Aprende cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prueba { -brand-product-name } para dispositivos móviles
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Tus pestañas llamaron. Están en tu teléfono.
 firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Aprende cómo

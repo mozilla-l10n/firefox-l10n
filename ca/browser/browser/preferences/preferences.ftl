@@ -615,6 +615,9 @@ download-always-ask-where =
     .accesskey = a
 applications-header = Aplicacions
 applications-description = Trieu com voleu que el { -brand-short-name } tracti els fitxers que baixeu del web o les aplicacions que utilitzeu mentre navegueu.
+applications-setting2 =
+    .label = Fitxers i aplicacions
+    .description = Trieu com el { -brand-short-name } gestiona els fitxers i el contingut que baixeu.
 applications-filter =
     .placeholder = Cerca tipus de fitxers o aplicacions
 applications-type-column =
@@ -735,6 +738,9 @@ update-application-background-enabled =
     .accesskey = Q
 update-application-warning-cross-user-setting-2 =
     .message = Aquest paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzin aquesta instal·lació del { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Mostra menys recordatoris d'actualització
+    .accesskey = M
 update-application-warning-cross-user-setting = Aquest paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzin aquesta instal·lació del { -brand-short-name }.
 update-application-use-service =
     .label = Instal·la les actualitzacions en segon pla
@@ -757,6 +763,19 @@ update-in-progress-ok-button = &Descarta
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Quant al { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .label = Actualitzacions del { -brand-short-name }
+    .description = Les actualitzacions milloren la velocitat, l'estabilitat i la seguretat del { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Notificacions
 
 ## Firefox support
 
@@ -829,6 +848,8 @@ browsing-picture-in-picture-learn-more = Més informació
 browsing-media-control =
     .label = Controla el contingut multimèdia amb teclat, auriculars o interfície virtual
     .accesskey = v
+recommendations-group =
+    .label = Recomanacions
 browsing-media-control-learn-more = Més informació
 browsing-cfr-recommendations =
     .label = Recomana extensions durant la navegació
@@ -1085,6 +1106,7 @@ search-edit-engine =
     .label = Edita
     .accesskey = E
 search-find-more-link = Afegiu més motors de cerca
+search-filtering-for-add-engine = Afegeix el motor
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplica la paraula clau
@@ -1122,6 +1144,15 @@ containers-settings-button =
     .label = Paràmetres
 containers-remove-button =
     .label = Elimina
+containers-new-tab-check3 =
+    .label = Selecciona un contenidor per a cada pestanya nova
+    .accesskey = S
+containers-settings-button2 =
+    .title = Paràmetres
+containers-remove-button3 =
+    .title = Suprimeix
+containers-remove-button2 =
+    .title = Elimina
 
 ## Account and sync
 
@@ -1129,6 +1160,9 @@ sync-group-label =
     .label = Sincronització
 account-group-label2 =
     .label = Compte
+account-disabled-group =
+    .label = Compte
+    .description = Els paràmetres del compte no estan disponibles.
 account-placeholder2 =
     .label = No heu iniciat la sessió
     .description = Inicieu la sessió i mantingueu les vostres dades privades, xifrades i accessibles instantàniament arreu on useu el { -brand-short-name }
@@ -1571,6 +1605,12 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = No heu afegit cap adreça
+personal-info-group =
+    .label = Informació personal
+autofill-personal-info-checkbox-message =
+    .label = Desa i emplena automàticament la informació personal
+autofill-personal-info-manage-button =
+    .label = Gestiona la informació personal
 passports-list-header =
     .label = Passaports
 passports-delete-passport-button-label =

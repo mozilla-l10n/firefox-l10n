@@ -1136,6 +1136,14 @@ urlbar-searchmode-no-keyword2 =
     .title = La búsqueda de palabras clave está deshabilitada
 urlbar-searchmode-dropmarker2 =
     .title = Elige un Motor de Búsqueda
+urlbar-searchmode-bookmarks3 = Marcadores
+    .accesskey = B
+urlbar-searchmode-tabs3 = Pestañas
+    .accesskey = T
+urlbar-searchmode-history3 = Historial
+    .accesskey = H
+urlbar-searchmode-actions3 = Acciones
+    .accesskey = A
 urlbar-searchmode-bookmarks2 = Marcadores
 urlbar-searchmode-tabs2 = Pestañas
 urlbar-searchmode-history2 = Historial
@@ -1155,6 +1163,10 @@ urlbar-searchmode-popup-one-off-header = Esta vez busca con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Buscar con:
+urlbar-searchmode-popup-search-settings = Configuración de búsqueda
+    .accesskey = s
+urlbar-searchmode-popup-settings = Ajustes
+    .accesskey = s
 urlbar-searchmode-popup-search-settings-panelitem = Configuración de Búsqueda
 urlbar-searchmode-popup-settings-panelitem = Ajustes
 
@@ -1572,6 +1584,14 @@ private-browsing-indicator-label = Navegación privada
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Navegación privada
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Información sobre navegación privada
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Estás en una ventana privada
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Esto ayuda a mantener tu navegación oculta para otras personas que usen este dispositivo, pero no te hace invisible en línea. <a data-l10n-name="learn-more">¿Quién podría ver mi actividad?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1797,6 +1817,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = No seguro
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } rastreador bloqueado
+       *[other] { $count } rastreadores bloqueados
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
