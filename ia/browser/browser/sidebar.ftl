@@ -155,6 +155,9 @@ sidebar-opentabs-context-close-tab =
 # tab sorting options, which appear directly beneath this heading.
 sidebar-opentabs-sort-by-heading =
     .label = Ordinar per
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Ordine del schedas
 # Sort option that lists tabs by most recent activity, newest first.
 sidebar-opentabs-sort-option-recency =
     .label = Recentemente active

@@ -366,6 +366,8 @@ appmenuitem-relay-title-signed-in = הצגת מסכות דוא״ל
 appmenuitem-relay-description = מיסוך כתובת הדוא״ל והטלפון האמיתיים שלך
 appmenuitem-vpn-title2 = הסתרת המיקום שלך בעזרת { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description4 = קבלת הגנה נוספת ביישומים ובמכשירים שונים
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = פתיחת { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = להפוך את הגלישה שלך לקשה יותר למעקב
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = קבלת הגנה על כל המכשיר

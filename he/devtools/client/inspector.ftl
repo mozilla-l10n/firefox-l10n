@@ -42,3 +42,12 @@ inspector-emulation-panel-color-scheme-dark = כהה
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = ללא הדמייה
     .aria-label = השבתת הדמייה של ערכת צבעים
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = הפחתה
+    .aria-label = הפעלת הדמייה של הפחתת תנועה
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = ללא העדפה
+    .aria-label = הפעלת חוסר העדפה עבור הדמייה של הפחתת תנועה
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = ללא הדמייה
+    .aria-label = השבתת הדמייה של הפחתת תנועה

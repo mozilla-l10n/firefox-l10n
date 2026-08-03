@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = השבתת התכונה Firefox Screenshots.
 policy-DisableFirefoxStudies = למנוע מ־{ -brand-short-name } להריץ מחקרים.
 policy-DisableForgetButton = מניעת גישה לכפתור 'לשכוח'.
 policy-DisableFormHistory = לא לזכור היסטוריית חיפוש וטפסים.
+policy-DisableLaunchOnLogin = למנוע מ־{ -brand-short-name } להיפתח באופן אוטומטי כאשר המשתמש מתחבר.
 policy-DisablePrimaryPasswordCreation = אם true, לא ניתן ליצור ססמה ראשית.
 policy-DisablePasswordReveal = לא לאפשר לחשוף ססמאות בכניסות השמורות.
 policy-DisablePocket2 = השבתת התכונה לשמירת דפי אינטרנט ב־{ -pocket-brand-name }.
