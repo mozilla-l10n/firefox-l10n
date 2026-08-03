@@ -1686,6 +1686,8 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Няма добавени адреси
+autofill-personal-info-manage-button =
+    .label = Управление на личната информация
 pane-passwords-autofill-title2 = Пароли и автоматично попълване
     .title = Пароли и автоматично попълване
 preferences-passwords-autofill-header =

@@ -128,6 +128,8 @@ newtab-privacy-message-info-8-cta = Научете повече
 # Title shown at the top of the widget, with the source name appended.
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-header = Картинка на деня · Общомедия (Wikimedia Commons)
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Управление на тапетите
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Научете повече
 
@@ -467,6 +469,8 @@ newtab-custom-widget-timer-toggle =
     .label = Таймер
 newtab-custom-widget-privacy-toggle =
     .label = Поверителност
+newtab-widget-manage-widget-button =
+    .label = Управление на приставките
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Затваряне

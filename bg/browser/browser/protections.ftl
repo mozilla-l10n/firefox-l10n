@@ -59,6 +59,8 @@ lockwise-title = Никога не забравяйте парола отнов�
 lockwise-header-content-logged-in = Сигурно съхранявайте и синхронизирайте паролите си между всичките си устройства.
 protection-report-passwords-save-passwords-button = Запазване на пароли
     .title = Запазване на пароли
+protection-report-passwords-manage-passwords-button = Управление на пароли
+    .title = Управление на пароли
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =

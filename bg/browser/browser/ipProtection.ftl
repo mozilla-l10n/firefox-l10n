@@ -53,6 +53,20 @@ ip-protection-bandwidth-warning-infobar-message-90 = <strong>Данните за
 ip-protection-description-1 =
     .label = Вграден VPN
     .description = Получете допълнителна поверителност, като скриете местоположението си, докато сърфирате.
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Управление на настройките за сайтове
+    .description =
+        { $count ->
+            [one] { $count } сайт
+           *[other] { $count } сайта
+        }
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Управление на настройките за сайтове
 
 ## IP Protection alerts
 
