@@ -563,7 +563,7 @@ settings-translations-subpage-download-language-option = { $language } ({ $size 
 settings-translations-subpage-no-languages-downloaded =
     .label = No se descargaron idiomas
 settings-translations-subpage-no-languages-added =
-    .label = No se agregaron idiomas
+    .label = Ningún idioma seleccionado
 settings-translations-subpage-download-progress = Descarga en progreso…
 # Variables:
 #   $language (string) - The localized display name of the language.

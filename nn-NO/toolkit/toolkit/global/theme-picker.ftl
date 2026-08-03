@@ -4,7 +4,7 @@
 
 theme-picker-mode-light = Lyst
 theme-picker-mode-dark = Mørkt
-theme-picker-mode-device = Device
+theme-picker-mode-device = Eining
 theme-picker-use-linux-theme =
     .label = Bruk Linux-systemtema
 
