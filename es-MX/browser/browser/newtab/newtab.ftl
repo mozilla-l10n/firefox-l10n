@@ -237,6 +237,67 @@ newtab-privacy-message-milestone-year =
        *[other] { $count } rastreadores bloqueados este año. Un año entero de protección avanzada de tu privacidad.
     }
 newtab-privacy-message-milestone-year-cta = Ver protecciones
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } rastreador bloqueado. Un gran avance en privacidad, siempre a tu manera.
+       *[other] { $count } rastreadores bloqueados. Un gran avance en privacidad, siempre a tu manera.
+    }
+newtab-privacy-message-milestone-total-cta = Ver protecciones
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Más de 100 rastreadores bloqueados hoy). Más rastreadores bloqueados significa más privacidad.
+newtab-privacy-message-daily-cap-cta = Ver protecciones
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Has estado protegido { $count } día.
+       *[other] Has estado protegido { $count } días seguidos.
+    }
+newtab-privacy-message-streak-cta = Ver protecciones
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Sigue navegando, { -brand-short-name } seguirá bloqueando.
+newtab-privacy-message-first-protection-cta = Ver protecciones
+
+## Strings for the Stocks widget
+
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Los datos bursátiles no están disponibles.
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Opciones del widget bursátil
+    .aria-label = Opciones del widget bursátil
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Acciones
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $nombre }, subió { $cambio }, { $precio }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $nombre }, bajó { $cambio }, { $precio }
+
+## Strings for the Picture of the Day widget
+
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Imagen del día
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Ver licencia { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Opciones de imagen del día
+    .aria-label = Opciones de imagen del día
 
 ## Search box component.
 
