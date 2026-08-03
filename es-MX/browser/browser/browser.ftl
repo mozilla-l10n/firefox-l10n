@@ -600,6 +600,8 @@ identity-clear-site-data =
     .label = Limpiar cookies y datos del sitio…
 identity-connection-not-secure-security-view = No se estableció una conexión segura con este sitio.
 identity-connection-verified = Se estableció una conexión segura con este sitio.
+identity-ev-owner-label2 = Certificado emitido a nombre de
+identity-verifier-label2 = Verificado por
 identity-ev-owner-label = Certificado emitido a nombre de:
 identity-verifier-label = Verificado por:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -619,6 +621,8 @@ identity-description-passive-loaded-insecure2 = Este sitio web tiene contenido q
 identity-description-passive-loaded-mixed2 = Aunque { -brand-short-name } bloqueó parte del contenido, aún hay contenido en la página que no es seguro (por ejemplo imágenes).
 identity-description-active-loaded = Este sitio web tiene contenido que no es seguro (tales como scripts) y tu conexión a ellos no es privada.
 identity-description-active-loaded-insecure = La información que compartas con este sitio puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).
+identity-description-tls-key-logging-heading = Puede que tu conexión no sea privada
+identity-description-tls-key-logging-message = Es posible que otras aplicaciones o servicios accedan a tu tráfico cifrado en este sitio.
 identity-disable-mixed-content-blocking =
     .label = Protección inhabilitada por ahora
     .accesskey = D
@@ -968,6 +972,13 @@ urlbar-result-explanation-bookmarked = Se guardó en marcadores el { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Última visita: { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Última visita: { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:

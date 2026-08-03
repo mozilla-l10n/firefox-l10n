@@ -694,6 +694,9 @@ applications-handle-new-file-types-description = Què ha de fer el { -brand-shor
 applications-save-for-new-types =
     .label = Desa el fitxers
     .accesskey = s
+applications-save-for-new-types2 =
+    .label = Desa els fitxers automàticament
+    .accesskey = D
 applications-ask-before-handling =
     .label = Demana si els fitxers s'han d'obrir o de desar
     .accesskey = a
@@ -1568,6 +1571,15 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = No heu afegit cap adreça
+passports-list-header =
+    .label = Passaports
+passports-delete-passport-button-label =
+    .aria-label = Suprimeix
+passports-edit-passport-button-label =
+    .aria-label = Edita
+passports-delete-passport-prompt-confirm-button = Suprimeix
+passports-delete-passport-prompt-cancel-button = Cancel·la
+autofill-passports-add-button = Afegeix un passaport nou
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
