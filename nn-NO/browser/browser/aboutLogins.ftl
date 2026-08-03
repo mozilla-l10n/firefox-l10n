@@ -294,7 +294,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 ##
 
 about-logins-confirm-export-dialog-title = Eksporter innloggingar og passord
-about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan åpne den eksporterte fila kan sjå dei.
+about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan opne den eksporterte fila kan sjå dei.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
 about-logins-confirm-export-dialog-title2 = Ein merknad om eksport av passord
 about-logins-confirm-export-dialog-message2 =
