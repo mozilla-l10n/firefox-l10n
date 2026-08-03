@@ -358,3 +358,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Cambiad a modo: Grilla
     .tooltiptext = Modo Grilla
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Escribe un borrador
+aiwindow-starter-writing-improve = Mejora la redacción de un texto
+aiwindow-starter-writing-proofread = Corrige y edita un mensaje
+aiwindow-starter-planning-simplify = Simplifica un tema
+aiwindow-starter-planning-brainstorm = Dame ideas
+aiwindow-starter-planning-plan = Ayúdame a crear un plan
+aiwindow-starter-browsing-history = Busca pestañas en mi historial
+aiwindow-starter-browsing-summarize = Resume mis pestañas
+aiwindow-starter-browsing-compare = Compara mis pestañas
