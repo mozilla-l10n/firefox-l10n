@@ -45,6 +45,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Inicia sesión en { -brand-prod
 firefoxview-syncedtabs-adddevice-primarybutton = Prueba { -brand-product-name } para dispositivos móviles
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Tus pestañas llamaron. Están en tu teléfono.
+firefoxview-syncedtabs-adddevice-description-3 = Escanea el código QR para descargar { -brand-product-name } en tu teléfono. Puedes sincronizar tus pestañas y mucho más. Aprende cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Aprende cómo

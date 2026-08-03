@@ -176,6 +176,29 @@ newtab-privacy-message-info-5 = Al bloquear rastreadores menos empresas podrán 
 newtab-privacy-message-info-5-cta = Ver protecciones
 newtab-privacy-message-info-6 = Protege tus datos con { -brand-short-name }. Nunca vendemos tus datos, pero no todos los navegadores pueden decir lo mismo.
 newtab-privacy-message-info-6-cta = Más información
+newtab-privacy-message-info-11-cta = Más información
+newtab-privacy-message-info-12 = Bloquear rastreadores puede ayudar a reducir el uso de datos cuando tienes un plan limitado.
+newtab-privacy-message-info-12-cta = Ver protecciones
+newtab-privacy-message-info-13 = { -brand-short-name } bloquea los rastreadores, liberando ancho de banda para lograr un streaming más fluido.
+newtab-privacy-message-info-13-cta = Ver protecciones
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Averigua si tu información personal aparece en filtraciones de datos.
+newtab-privacy-message-promo-monitor-1-cta = Saber más
+newtab-privacy-message-promo-monitor-2 = Protege tu información con el monitoreo gratuito de filtraciones de datos (incluye hasta 20 correos electrónicos).
+newtab-privacy-message-promo-monitor-2-cta = Aprender más
+newtab-privacy-message-promo-signin-1 = Mantén tus marcadores, contraseñas y pestañas cifrados en todos tus dispositivos con tu cuenta de { -vendor-short-name }.
+newtab-privacy-message-promo-signin-1-cta = Iniciar sesión
+newtab-privacy-message-promo-vpn-1 = ¿Realizas tus compras usando Wi-Fi público? Activa la VPN integrada para mayor protección.
+newtab-privacy-message-promo-vpn-1-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-2 = ¿Navegas con el Wi-Fi del aeropuerto? Protege tu navegación activando la VPN integrada.
+newtab-privacy-message-promo-vpn-2-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-3 = Activa la VPN integrada para aumentar tu privacidad y proteger tu ubicación.
+newtab-privacy-message-promo-vpn-3-cta = Abrir VPN
 
 ## Search box component.
 
