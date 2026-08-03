@@ -355,14 +355,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Sign in to your account
 appmenuitem-monitor-title2 = Stay Ahead of Identity Theft
 appmenuitem-monitor-description2 = Get alerts about data breaches
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Data Breach Alerts
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Get data breach alerts
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Keep Your Email Private
 appmenuitem-relay-description2 = Helps prevent spam in your inbox
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = View Email Masks
 appmenuitem-relay-description = Mask your real email and phone
 appmenuitem-services-relay-description = Launch email masks dashboard
 appmenuitem-vpn-title2 = Hide Your Location with { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Get extra protection across apps and devices
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Open { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Make your browsing harder to trace
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Get whole-device protection
