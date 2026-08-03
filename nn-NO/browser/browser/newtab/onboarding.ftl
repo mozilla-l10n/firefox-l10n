@@ -219,7 +219,7 @@ mr2022-onboarding-existing-pin-checkbox-label = Legg også til { -brand-short-na
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Gjere { -brand-short-name } til standardnettlesaren din?
-mr2022-onboarding-set-default-primary-button-label = Gjer { -brand-short-name } til standardnettleser
+mr2022-onboarding-set-default-primary-button-label = Gjer { -brand-short-name } til standardnettlesar
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-set-default-subtitle = Bruk ein nettlesar støtta av ein ideell organisasjon. Vi forsvarar personvernet ditt medan du surfar rundt på nettet.

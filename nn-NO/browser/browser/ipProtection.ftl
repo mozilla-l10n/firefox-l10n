@@ -166,7 +166,7 @@ ipprotection-locations-subview-promo-button = Få { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
-upgrade-vpn-title = Få ekstra vern utover nettleseren
+upgrade-vpn-title = Få ekstra vern utover nettlesaren
 upgrade-vpn-description = Vel VPN-plasseringa di, bruk VPN for alle appane dine, og på opptil 5 einingar, og ver trygg på alle nettverk — heime eller på offentleg Wi-Fi.
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
 # Variables
