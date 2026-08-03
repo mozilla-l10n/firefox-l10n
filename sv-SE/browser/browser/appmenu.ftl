@@ -355,14 +355,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Logga in på ditt konto
 appmenuitem-monitor-title2 = Ligg steget före identitetsstöld
 appmenuitem-monitor-description2 = Få varningar om dataintrång
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Varningar om dataintrång
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få varningar om dataintrång
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Håll din e-post privat
 appmenuitem-relay-description2 = Hjälper till att förhindra skräppost i din inkorg
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Visa e-postalias
 appmenuitem-relay-description = Dölj din riktiga e-postadress och telefonnummer
 appmenuitem-services-relay-description = Starta översikten för e-postalias
 appmenuitem-vpn-title2 = Dölj din plats med { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Få extra skydd mellan appar och enheter
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Öppna { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Gör din surfning svårare att spåra
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få skydd för hela enheten

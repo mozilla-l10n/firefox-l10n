@@ -351,14 +351,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Connectez-vous à votre compte
 appmenuitem-monitor-title2 = Prenez une longueur d’avance sur l’usurpation d’identité
 appmenuitem-monitor-description2 = Recevez des alertes en cas de fuite de données
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Alertes de fuites de données
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Recevez des alertes lors de fuites de données
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Protégez la confidentialité de vos adresses e-mail
 appmenuitem-relay-description2 = Permet de limiter le spam dans votre boîte de réception
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Afficher les alias de messagerie
 appmenuitem-relay-description = Masquez votre véritable adresse e-mail et votre véritable numéro de téléphone
 appmenuitem-services-relay-description = Ouvrir le tableau de bord des alias de messagerie
 appmenuitem-vpn-title2 = Masquez votre localisation avec { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Bénéficiez d’une protection supplémentaire sur toutes vos applications et vos appareils
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Ouvrir { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Rendez votre activité en ligne plus difficile à suivre
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Protégez l’intégralité de votre appareil

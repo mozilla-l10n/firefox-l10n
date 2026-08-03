@@ -149,6 +149,19 @@ sidebar-bookmarks-context-menu-delete-separator =
 sidebar-opentabs-context-close-tab =
     .label = Fermer l’onglet
 
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Trier par
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Ordre de tabulation
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Récemment actifs
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

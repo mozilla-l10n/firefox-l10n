@@ -44,3 +44,12 @@ inspector-emulation-panel-color-scheme-dark = Sombre
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Pas d’émulation
     .aria-label = Désactiver l’émulation du jeu de couleurs
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Réduire
+    .aria-label = Activer l’émulation de mouvement réduit
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Aucune préférence
+    .aria-label = Activer aucune préférence pour l’émulation de mouvement réduite
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Pas d’émulation
+    .aria-label = Désactiver l’émulation de mouvement réduit
