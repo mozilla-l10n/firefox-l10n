@@ -42,14 +42,14 @@ experimental-features-link-previews =
     .label = Vistas previas de enlaces
 experimental-features-link-previews-description =
     { PLATFORM() ->
-        [macos] Para obtener más información sobre una página web antes de hacer clic, pase el cursor sobre un enlace y presione Mayús + Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. En algunas páginas web, la IA también puede leer el texto y generar puntos clave. La IA está optimizada para leer y generar texto en inglés. Para priorizar su privacidad, la IA se ejecuta localmente en su computadora. <a data-l10n-name="connect">Compartir comentarios</a>
-       *[other] Para obtener más información sobre una página web antes de hacer clic, pase el cursor sobre un enlace y presione Mayús + Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. En algunas páginas web, la IA también puede leer el texto y generar puntos clave. La IA está optimizada para leer y generar texto en inglés. Para priorizar su privacidad, la IA se ejecuta localmente en su computadora. <a data-l10n-name="connect">Compartir comentarios</a>
+        [macos] Para obtener más información sobre una página web antes de hacer clic, pase el cursor sobre un enlace y presione Mayús + Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. En algunas páginas web, la IA también puede leer el texto y generar puntos clave. La IA está optimizada para leer y generar texto en inglés. Para priorizar su privacidad, la IA se ejecuta localmente en su computadora. <a data-l10n-name="connect">Enviar comentarios</a>
+       *[other] Para obtener más información sobre una página web antes de hacer clic, pase el cursor sobre un enlace y presione Mayús + Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. En algunas páginas web, la IA también puede leer el texto y generar puntos clave. La IA está optimizada para leer y generar texto en inglés. Para priorizar su privacidad, la IA se ejecuta localmente en su computadora. <a data-l10n-name="connect">Enviar comentarios</a>
     }
 # This version of the link previews description does not mention AI.
 experimental-features-link-previews-description-no-ai =
     { PLATFORM() ->
-        [macos] Para obtener más información sobre una página web antes de hacer clic, pase el cursor sobre un enlace y presione Mayús + Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. <a data-l10n-name="connect">Compartir comentarios</a>
-       *[other] Para obtener más información sobre una página web antes de hacer clic, pase el cursor sobre un enlace y presione Mayús + Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. <a data-l10n-name="connect">Compartir comentarios</a>
+        [macos] Para obtener más información sobre una página web antes de hacer clic, pase el cursor sobre un enlace y presione Mayús + Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. <a data-l10n-name="connect">Enviar comentarios</a>
+       *[other] Para obtener más información sobre una página web antes de hacer clic, pase el cursor sobre un enlace y presione Mayús + Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. <a data-l10n-name="connect">Enviar comentarios</a>
     }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
@@ -94,7 +94,7 @@ experimental-features-newtab-widget-clocks-description = Agrega hasta cuatro rel
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Búsqueda de historial semántico
-experimental-features-semantic-history-search-description = Utiliza un modelo de aprendizaje automático local para sugerir entradas del historial relacionadas con sus búsquedas según la comprensión del lenguaje natural en la barra de direcciones { -brand-product-name }. <a data-l10n-name="connect">Compartir comentarios</a>
+experimental-features-semantic-history-search-description = Utiliza un modelo de aprendizaje automático local para sugerir entradas del historial relacionadas con sus búsquedas según la comprensión del lenguaje natural en la barra de direcciones { -brand-product-name }. <a data-l10n-name="connect">Enviar comentarios</a>
 # Tab Notes
 experimental-features-tab-notes =
     .label = Notas de pestaña

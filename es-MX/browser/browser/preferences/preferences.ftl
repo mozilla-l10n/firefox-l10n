@@ -26,9 +26,9 @@ non-technical-privacy-header = Preferencias de privacidad del sitio web
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
-settings-page-title = Configuraciones
+settings-page-title = Ajustes
 category-nav-heading =
-    .heading = Configuraciones
+    .heading = Ajustes
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -561,7 +561,7 @@ settings-translations-subpage-download-languages-button =
 settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
     .label = { $language } ({ $size } MB)
 settings-translations-subpage-no-languages-downloaded =
-    .label = No se descargaron idiomas
+    .label = Ningún idioma descargado
 settings-translations-subpage-no-languages-added =
     .label = Ningún idioma seleccionado
 settings-translations-subpage-download-progress = Descarga en progreso…
@@ -580,7 +580,7 @@ settings-translations-subpage-download-delete-button =
 settings-translations-subpage-download-cancel-button =
     .label = Cancelar
 settings-translations-subpage-no-sites-added =
-    .label = No hay sitios agregados
+    .label = Ningún sitio configurado
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -809,7 +809,7 @@ support-application-heading =
 support-get-help =
     .label = Obtener ayuda
 support-share-ideas =
-    .label = Compartir ideas y comentarios
+    .label = Enviar ideas y comentarios
 
 ## General Section - Performance
 
