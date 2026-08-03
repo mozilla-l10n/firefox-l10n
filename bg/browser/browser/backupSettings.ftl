@@ -64,15 +64,19 @@ turn-on-scheduled-backups-encryption-create-password-label = Парола
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Повтаряне на паролата
 turn-on-scheduled-backups-cancel-button = Отказ
+turn-on-scheduled-backups-confirm-button = Включване на архивирането
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Изключване на архивирането?
 turn-off-scheduled-backups-description = Това също изтрива всички ваши архивни данни. Не може да бъде отменено.
 turn-off-scheduled-backups-cancel-button = Отказ
 turn-off-scheduled-backups-confirm-button = Изключване и изтриване на архивно копие
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-filepicker-label = Файл за архива
+restore-from-backup-filepicker-title = Изберете файл на архива:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Разглеждане…
@@ -99,6 +103,7 @@ enable-backup-encryption-create-password-label = Парола
 enable-backup-encryption-repeat-password-label = Повторете паролата
 enable-backup-encryption-cancel-button = Отказ
 enable-backup-encryption-confirm-button = Запазване
+change-backup-encryption-header = Промяна на паролата на архива
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
@@ -119,6 +124,13 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Премахване на защитата с парола
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-path-label = Файл на архива:
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
