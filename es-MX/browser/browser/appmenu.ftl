@@ -49,8 +49,15 @@ appmenuitem-translate =
     .label = Traducir página…
 appmenuitem-zoom =
     .value = Tamaño
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Recomienda { -brand-product-name }
 appmenuitem-more-tools =
     .label = Más herramientas
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Ayuda y reportes
 appmenuitem-help =
     .label = Ayuda
 appmenuitem-exit2 =
@@ -109,10 +116,40 @@ appmenu-remote-tabs-unverified = Tu cuenta necesita ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ahora
 appmenuitem-fxa-sign-in = Iniciar sesión en { -brand-product-name }
 appmenuitem-fxa-manage-account = Administrar cuenta
+fxa-menu-sync-status-on = Sincronización activada
+fxa-menu-sync-status-off = Sincronización desactivada
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Tus datos no se están sincronizando.
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Activar
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Inicia sesión para sincronizar
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sincronizar { $deviceName } ahora
+fxa-menu-manage-sync-settings =
+    .label = Abrir ajustes de sincronización
 fxa-menu-add-device =
     .label = Agregar un dispositivo
 fxa-menu-manage-devices =
     .label = Administrar tus dispositivos
+fxa-menu-device-missing =
+    .label = ¿No ves tu dispositivo?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Ver todos los dispositivos
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Todos los dispositivos
+fxa-menu-get-firefox-mobile =
+    .label = Obtén { -brand-product-name } para Android o iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sincronización segura
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Cuenta
 # Variables
@@ -257,6 +294,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Acerca de { -brand-shorter-name }
     .accesskey = A
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Recomendar { -brand-shorter-name }
+    .accesskey = r
 appmenu-get-help =
     .label = Obtener ayuda
     .accesskey = y
@@ -270,6 +312,9 @@ appmenu-help-share-ideas =
     .accesskey = S
 appmenu-help-switch-device =
     .label = Cambiar a un nuevo dispositivo
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Ayuda y reportes
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -340,9 +385,45 @@ appmenu-manage-profiles =
     .label = Administrar perfiles
 appmenu-copy-profile =
     .label = Copiar este perfil
+appmenu-create-profile2 =
+    .label = Crear un nuevo perfil
 appmenu-create-profile =
     .label = Nuevo perfil
 appmenu-edit-profile =
     .aria-label = Editar perfil
+appmenu-edit-this-profile =
+    .label = Editar este perfil
+appmenu-profile-current-in-use = Perfil actualmente en uso
+fxa-menu-create-profile-subpanel =
+    .title = Crear un nuevo perfil
+fxa-menu-create-profile-heading = Navega eficazmente creando un nuevo perfil.
+fxa-menu-create-profile-description = Mantén tus marcadores, contraseñas e historial de navegación personal separados de tu navegación laboral.
+fxa-menu-create-profile-confirm =
+    .label = Crear nuevo perfil
+fxa-menu-create-profile-learn-more =
+    .label = ¿Qué es un perfil?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Recomendar { -brand-short-name }
+appmenuitem-share-firefox-description = Recomiéndale a alguien el navegador que prioriza la privacidad
 appmenu-profiles-2 =
     .label = Perfiles
+appmenu-profiles-header = Perfiles
+appmenu-all-profiles =
+    .label = Todos los perfiles
+appmenu-secure-sync-header = Sincronización segura
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Pestañas recientes
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ver pestaña sincronizada
+           *[other] Ver las { $tabCount } pestañas sincronizadas
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Enviar la página actual a este dispositivo

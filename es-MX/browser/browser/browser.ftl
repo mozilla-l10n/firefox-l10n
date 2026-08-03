@@ -126,6 +126,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Administrar la configuración de ventanas emergentes y redireccionamientos de terceros…
     .accesskey = A
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Ver información del sitio
+            [1] Ver información del sitio (1 rastreador bloqueado)
+            [one] Ver información del sitio ({ $count } rastreador bloqueado)
+           *[other] Ver información del sitio ({ $count } rastreadores bloqueados)
+        }
 
 ##
 
@@ -213,6 +223,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Administrar { -firefox-suggest-bran
 urlbar-result-menu-report-inaccurate-location2 = Reportar ubicación inexacta
 urlbar-result-menu-show-less-frequently2 = Mostrar con menor frecuencia
 urlbar-result-menu-dont-show-weather-suggestions2 = No mostrar condiciones meteorológicas
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Ignorar esta sugerencia
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Eliminar del historial
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Saber más
     .accesskey = S
@@ -403,6 +423,8 @@ quickactions-addons = Ver complementos
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = extensiones, temas, complementos
+# Opens preferences page at AI controls
+quickactions-manageai = Administrar controles de IA
 quickactions-cmd-addons2 = complementos
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Administrar marcadores
