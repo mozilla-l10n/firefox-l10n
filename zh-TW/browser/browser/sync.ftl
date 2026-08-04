@@ -53,6 +53,24 @@ fxa-menu-send-tab-to-device-description = 立即傳送分頁到任何您登入�
 fxa-menu-sign-out =
     .label = 登出…
 fxa-menu-sync-description = 隨時隨地開啟您的網頁
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = 管理帳號
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = 登入 Sync
+fxa-menu-sign-in-promo-message = 在所有地方能使用您的資料
+fxa-menu-sign-in-promo-button =
+    .label = 登入
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = 登入
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = 您已登出
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = 完成設定
 fxa-avatar-sign-in = 登入
 fxa-avatar-sign-up = 註冊
 fxa-avatar-tooltip =

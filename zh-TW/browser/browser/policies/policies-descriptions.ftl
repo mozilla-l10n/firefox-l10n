@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = 停用 Firefox Screenshots 功能。
 policy-DisableFirefoxStudies = 防止 { -brand-short-name } 進行使用者研究。
 policy-DisableForgetButton = 防止使用「忘記」功能。
 policy-DisableFormHistory = 不要記住搜尋與表單填寫紀錄。
+policy-DisableLaunchOnLogin = 防止 { -brand-short-name } 在使用者登入時自動啟動。
 policy-DisablePrimaryPasswordCreation = 若為 true，將無法建立主控密碼。
 policy-DisablePasswordReveal = 不允許於儲存的登入資訊畫面中顯示密碼。
 policy-DisablePocket2 = 停用儲存網頁到 { -pocket-brand-name } 的功能。
