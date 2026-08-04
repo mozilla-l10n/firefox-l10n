@@ -45,6 +45,7 @@ firefoxview-syncedtabs-adddevice-description-2 = ਆਪਣੇ ਫ਼ੋਨ ਜਾ�
 firefoxview-syncedtabs-adddevice-primarybutton = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਵਰਤ ਕੇ ਵੇਖੋ
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਆਵਾਜ਼ਾਂ ਮਾਰਦੀਆਂ ਨੇ। ਉਹ ਤੁਹਾਡੇ ਫ਼ੋਨ ਉੱਤੇ ਹਨ।
+firefoxview-syncedtabs-adddevice-description-3 = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਲੈਣ ਵਾਸਤੇ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ ਅਤੇ ਆਪਣੀਆਂ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ। <a data-l10n-name="url">ਵਧੀਕ ਡਿਵਾਈਸਾਂ ਨਾਲ ਕਨੈਕਟ</a> ਕਿਵੇਂ ਕਰੀਏ ਨੂੰ ਵੇਖੋ।
 firefoxview-tabpickup-synctabs-header = ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਦੀ ਚੋਣ ਕਰੋ
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਟੈਬਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।
 firefoxview-tabpickup-synctabs-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
