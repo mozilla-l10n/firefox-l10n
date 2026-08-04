@@ -44,3 +44,12 @@ inspector-emulation-panel-color-scheme-dark = Күңгірт
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Эмуляция жоқ
     .aria-label = Түс схемасын эмуляцияуды сөндіру
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Азайту
+    .aria-label = Азайтылған қозғалыс эмуляциясын іске қосу
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Таңдау жоқ
+    .aria-label = Азайтылған қозғалыс эмуляциясы үшін таңдаусыз нұсқаны іске қосу
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Эмуляция жоқ
+    .aria-label = Азайтылған қозғалыс эмуляциясын сөндіру
