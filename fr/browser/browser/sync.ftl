@@ -72,7 +72,7 @@ fxa-menu-sign-in-promo-button =
 fxa-menu-signed-out-sign-in-button =
     .label = Connexion
 # Reason shown when the session expired or credentials are no longer valid.
-fxa-menu-signed-out-message-login-failed = Votre compte est déconnecté.
+fxa-menu-signed-out-message-login-failed = Déconnexion réussie
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Terminer la configuration
 fxa-avatar-sign-in = Connexion

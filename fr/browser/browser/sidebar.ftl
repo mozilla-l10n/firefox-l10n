@@ -157,7 +157,7 @@ sidebar-opentabs-sort-by-heading =
     .label = Trier par
 # Sort option that lists tabs in the order they appear on the tab strip.
 sidebar-opentabs-sort-option-order =
-    .label = Ordre de tabulation
+    .label = Ordre des onglets
 # Sort option that lists tabs by most recent activity, newest first.
 sidebar-opentabs-sort-option-recency =
     .label = Récemment actifs
