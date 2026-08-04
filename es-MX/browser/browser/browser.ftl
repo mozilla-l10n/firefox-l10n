@@ -425,6 +425,7 @@ quickactions-addons = Ver complementos
 quickactions-cmd-addons3 = extensiones, temas, complementos
 # Opens preferences page at AI controls
 quickactions-manageai = Administrar controles de IA
+quickactions-cmd-manageai = deshabilitar IA, deshabilitar AI, apagar IA, apagar AI, administrar IA, administrar AI
 quickactions-cmd-addons2 = complementos
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Administrar marcadores
