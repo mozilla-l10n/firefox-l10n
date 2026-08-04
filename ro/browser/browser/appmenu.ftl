@@ -355,14 +355,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Intră în cont
 appmenuitem-monitor-title2 = Fii cu un pas înaintea furtului de identitate
 appmenuitem-monitor-description2 = Primește alerte despre încălcări ale securității datelor
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Alerte ({ -monitor-brand-short-name }) privind încălcarea securității datelor
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Primește alerte despre încălcări de securitate a datelor
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Păstrează-ți adresa de e-mail privată
 appmenuitem-relay-description2 = Ajută la prevenirea mesajelor nedorite în căsuța poștală
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Vezi măștile de e-mail
 appmenuitem-relay-description = Maschează adresa de e-mail și numărul de telefon reale
 appmenuitem-services-relay-description = Lansează tabloul de bord pentru măști de e-mail
 appmenuitem-vpn-title2 = Ascunde-ți locația cu { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Obține protecție suplimentară pe aplicații și dispozitive
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Deschide { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Fă-ți navigarea mai greu de urmărit
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obține protecție pentru întregul dispozitiv

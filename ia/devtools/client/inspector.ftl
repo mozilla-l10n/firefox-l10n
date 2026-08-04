@@ -47,3 +47,9 @@ inspector-emulation-panel-color-scheme-none = Necun emulation
 # A label text for the reduced motion emulation radio button option.
 inspector-emulation-panel-reduced-motion-reduce = Reducer
     .aria-label = Activa emulation de movimento reducite
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Necun preferentia
+    .aria-label = Activar necun preferentia pro emulation de movimento reducite
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Necun emulation
+    .aria-label = Disactivar emulation de movimento reducite

@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Dezactivează funcționalitatea de capturi de
 policy-DisableFirefoxStudies = Împiedică efectuarea de studii de către { -brand-short-name }.
 policy-DisableForgetButton = Împiedică accesul la butonul de uitare.
 policy-DisableFormHistory = Nu memora istoricul căutărilor și al formularelor.
+policy-DisableLaunchOnLogin = Împiedică lansarea automată a { -brand-short-name } la autentificarea utilizatorului în cont.
 policy-DisablePrimaryPasswordCreation = Dacă valoarea este adevărată, nu se poate crea o parolă primară.
 policy-DisablePasswordReveal = Nu permite dezvăluirea parolelor din datele de autentificare salvate.
 policy-DisablePocket2 = Dezactivează funcționalitatea de salvare a paginilor web în { -pocket-brand-name }.

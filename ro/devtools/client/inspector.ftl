@@ -44,3 +44,12 @@ inspector-emulation-panel-color-scheme-dark = Întunecată
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Fără emulare
     .aria-label = Dezactivează emularea paletei de culori
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Redu
+    .aria-label = Activează emularea redusă a mișcării
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Nicio preferință
+    .aria-label = Activează nicio preferință pentru emularea redusă a mișcării
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Fără emulare
+    .aria-label = Dezactivează emularea redusă a mișcării

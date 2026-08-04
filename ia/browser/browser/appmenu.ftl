@@ -355,6 +355,8 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Accede a tu conto
 appmenuitem-monitor-title2 = Preveni le usurpation de identitate
 appmenuitem-monitor-description2 = Obtene avisos re violationes de datos
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Avisos de violation de datos de { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Obtener alertas de violation de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
@@ -365,6 +367,7 @@ appmenuitem-relay-title-signed-in = Vider mascas de e-mail
 appmenuitem-relay-description = Masca tu email e numero de telephono real
 appmenuitem-services-relay-description = Lancear le pannello de controlo del mascas de e-mail
 appmenuitem-vpn-title2 = Cela tu position con { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Obtene protection ulterior a transverso applicationes e apparatos
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in = Aperir { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Rende tu navigar plus ardue a traciar

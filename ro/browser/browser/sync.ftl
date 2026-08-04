@@ -62,6 +62,24 @@ fxa-menu-send-tab-to-device-description = Trimite o filă instant pe orice dispo
 fxa-menu-sign-out =
     .label = Ieși din cont…
 fxa-menu-sync-description = Intră pe web de oriunde
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Gestionează contul
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Intră în cont pentru sincronizare
+fxa-menu-sign-in-promo-message = Ia-ți datele cu tine peste tot
+fxa-menu-sign-in-promo-button =
+    .label = Intră în cont
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Intră în cont
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Ai ieșit din cont
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Finalizează configurarea
 fxa-avatar-sign-in = Intră în cont
 fxa-avatar-sign-up = Fă-ți un cont
 fxa-avatar-tooltip =
