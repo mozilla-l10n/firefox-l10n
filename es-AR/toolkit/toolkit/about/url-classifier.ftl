@@ -45,6 +45,9 @@ url-classifier-content-classifier-url = URL
 # This is the URL of a frame within the document that initiates the request to load another URL
 # (e.g. an iframe that is loading a tracking pixel)
 url-classifier-content-classifier-loading-url = URL de origen
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = Habilitar URL de origen
 # URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
 # Most often the site URL show in the address bar.
 url-classifier-content-classifier-top-window-url = URL de la ventana superior
@@ -62,6 +65,9 @@ url-classifier-content-classifier-pbm = Navegación privada
 url-classifier-content-classifier-non-recommended-addon = Complemento no recomendado
 # Button: run the probe that reports whether the request would be blocked.
 url-classifier-content-classifier-probe-blocking-btn = Probar bloqueo
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Detalles del motor
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Característica
 # Column header: whether the request matched this feature (true/false).
@@ -72,6 +78,8 @@ url-classifier-content-classifier-col-exception = Excepción
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
 url-classifier-content-classifier-col-important = Importante
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Resultado del motor
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Excepción
