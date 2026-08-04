@@ -67,3 +67,33 @@ theme-picker-default-aria-label =
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun-aria-label =
     .aria-label = Sol
+# Name for a warm orange theme. Refers to a small burst of fire.
+theme-picker-spark-aria-label =
+    .aria-label = Chispa
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame-aria-label =
+    .aria-label = Llama
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare-aria-label =
+    .aria-label = Destello
+# Name for a soft purple theme. Refers to the lavender flower.
+theme-picker-lavender-aria-label =
+    .aria-label = Lavanda
+# Name for a medium purple theme. Refers to the sky just after sunset.
+theme-picker-dusk-aria-label =
+    .aria-label = Crepúsculo
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon-aria-label =
+    .aria-label = Laguna
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine-aria-label =
+    .aria-label = Pino
+# Name for a soft teal theme. Refers to ocean tides.
+theme-picker-tide-aria-label =
+    .aria-label = Marea
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+theme-picker-ash-aria-label =
+    .aria-label = Ceniza
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+theme-picker-smoke-aria-label =
+    .aria-label = Humo
