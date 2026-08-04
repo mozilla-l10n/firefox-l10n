@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chrome
+
+smartwindow-document-title = لسان جديد
+
 ## Group My Tabs Toolbar Button
 
 smartwindow-group-tabs-button =

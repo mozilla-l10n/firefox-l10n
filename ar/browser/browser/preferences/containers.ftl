@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = إعدادات الحاوية { $name }
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = أضف حاوية جديدة
+containers-panel-create-button =
+    .label = تمّ
+containers-panel-cancel-button =
+    .label = ألغِ
