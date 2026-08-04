@@ -63,6 +63,7 @@ fxa-menu-manage-account-subtitle = Διαχείριση λογαριασμού
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Σύνδεση στο Sync
+fxa-menu-sign-in-promo-message = Λάβετε τα δεδομένα σας παντού
 fxa-menu-sign-in-promo-button =
     .label = Σύνδεση
 # Card shown in the account menu when a previously signed-in account is
