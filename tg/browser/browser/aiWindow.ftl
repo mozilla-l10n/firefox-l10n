@@ -47,16 +47,37 @@ aiwindow-input-cta-menu-label-navigate = Ба сомона гузаред
 aiwindow-input-cta-menu-label-search-with = Ҷустуҷӯ тавассути…
 aiwindow-input-cta-search-submenu-header = Ҷустуҷӯ
 
+## Smartbar
+
+smartbar-placeholder-hint-4 = Ҷустуҷӯ дар Интернет…
+
+## Mentions
+
+smartbar-mentions-list-recent-tabs-label = Варақаҳои охирин
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Илова кардани варақа ё сомона
+    .tooltiptext = Илова кардани варақа ё сомона
+
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Нишонагузорӣ кардани варақа ё сомона
+aiwindow-website-chip-history-deleted = Таърих нест карда шуд
 aiwindow-website-chip-remove-button =
     .aria-label = Тоза кардан
 
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Хуш омадед ба «{ -smart-window-brand-name }»
+aiwindow-firstrun-model-title = Барои шумо чӣ муҳим аст?
 aiwindow-firstrun-model-fast-label = Тез
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Тавсияшуда
 aiwindow-firstrun-model-personal-label = Шахсӣ
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Шахсӣ: { $shortName }
 aiwindow-firstrun-back-button = Ба қафо
 aiwindow-firstrun-next-button = Навбатӣ
 
@@ -70,6 +91,10 @@ aiwindow-input-model-select-button-label-custom = Фармоишӣ
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Аз «LLM»-и худ истифода баред
+aiwindow-input-model-select-default-badge =
+    .label = Пешфарз
+    .title = Модели пешфарзии интихобшуда
 aiwindow-input-model-select-settings-link = Танзимоти намуна
 
 ## Ask Toolbar Button
@@ -88,6 +113,18 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Пӯшидан
     .tooltiptext = Пӯшидан
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Суҳбати нав
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Бештар
+    .title = Бештар
 
 ## Fullpage Footer Actions
 
