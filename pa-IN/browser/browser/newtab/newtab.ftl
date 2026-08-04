@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = ਪਰਦੇਦਾਰੀ
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = ਕਰਾਸ-ਵਰਡ
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = ਸਟਾਕ
@@ -314,6 +317,8 @@ newtab-privacy-message-first-protection-cta = ਸੁਰੱਖਿਆਵਾਂ ਨ
 newtab-stocks-menu-search = ਟਿੱਕਰ ਨਿਸ਼ਾਨ ਨੂੰ ਖੋਜੋ
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = ਹੋਰ ਜਾਣੋ
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = ਸਟਾਕ ਡਾਟਾ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -338,6 +343,9 @@ newtab-stocks-ticker-status-flat = { $name }, { $change } ਤਬਦੀਲੀ ਨ
 
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = ਅੱਜ ਦੀ ਤਸਵੀਰ  ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = ਅੱਜ ਦੀ ਤਸਵੀਰ
 # Attribution line shown under the title once a picture loads: an author
@@ -358,6 +366,12 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .title = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
     .aria-label = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = ਵਾਲਪੇਪਰ ਲਾਓ
+    .title = ਵਾਲਪੇਪਰ ਲਾਓ
+    .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਆਪਣੇ ਵਾਲਪੇਪਰ ਵਜੋਂ ਲਾਓ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = ਵਾਲਪੇਪਰ ਦਾ ਇੰਤਜ਼ਾਮ
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -371,6 +385,11 @@ newtab-picture-menu-learn-more = ਹੋਰ ਜਾਣੋ
 newtab-picture-show-button =
     .title = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
     .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = ਨਵੀਂ ਤਸਵੀਰ ਲਈ ਭਲਕੇ ਵੇਖਿਓ
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼ ਅੱਜ ਦੀ ਤਸਵੀਰ
 
 ## Search box component.
 
@@ -736,6 +755,29 @@ newtab-custom-close-menu-button =
     .aria-label = ਮੇਨ ਨੂੰ ਬੰਦ ਕਰੋ
 newtab-custom-close-button = ਬੰਦ ਕਰੋ
 newtab-custom-settings = ਹੋਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = ਦਿੱਖ
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = ਹੋਰ ਥੀਮ ਵੇਖੋ
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } ਥੀਮ
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = ਤੁਹਾਡੇ ਥੀਮ
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = ਸਮਰੱਥ ਕਰੋ
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = ਅਸਮਰੱਥ ਕਰੋ
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = ਥੀਮ ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = ਹੋਰ ਥੀਮ ਦੀ ਪੜਤਾਲ ਕਰੋ
 
 ## New Tab Wallpapers
 
@@ -1508,6 +1550,9 @@ newtab-sports-widget-message-explore-widgets-cta =
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
+newtab-sports-widget-message-survey-title = ਸਾਨੂੰ ਵਿਜੈਟ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰੋ
+newtab-sports-widget-message-survey-body = ਵਰਲਡ ਕੱਪ ਖਤਮ ਹੋ ਗਿਆ ਹੈ। ਆਪਣੇ ਤਜਰਬੇ ਬਾਰੇ ਸਾਨੂੰ ਸੁਝਾਅ ਦਿਓ।
+newtab-sports-widget-message-survey-widget-title = ਵਰਲਡ ਕੱਪ ਵਿਜੈਟ ਕਿਵੇਂ ਸੀ?
 newtab-sports-widget-message-survey-cta =
     .label = ਸਰਵੇਖਣ ਭਰੋ
 
