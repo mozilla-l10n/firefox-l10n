@@ -355,14 +355,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Тіркелгіңізге кіріңіз
 appmenuitem-monitor-title2 = Жеке деректерді ұрлаудан қорғану
 appmenuitem-monitor-description2 = Деректердің бұзылуы туралы ескертулер алу
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Деректердің бұзылуы туралы ескертулер
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Деректерді бұзу туралы ескертулерді алу
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Эл. поштаңыздың жекелігін сақтаңыз
 appmenuitem-relay-description2 = Кіріс жәшігіңіздегі спамның алдын алуға көмектеседі
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Эл. пошта маскаларын қарау
 appmenuitem-relay-description = Шын эл. пошта және телефоныңызды жасырыңыз
 appmenuitem-services-relay-description = Эл. пошта маскаларын бақылау тақтасын іске қосу
 appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } арқылы орналасуыңызды жасырыңыз
+appmenuitem-vpn-description4 = Қолданбалар мен құрылғыларда қосымша қорғаныс алыңыз
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = { -mozilla-vpn-brand-name } ашу
 appmenuitem-vpn-description3 = Интернетті шолуыңызды бақылауды қиындатыңыз
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Құрылғыны толығымен қорғауды алыңыз

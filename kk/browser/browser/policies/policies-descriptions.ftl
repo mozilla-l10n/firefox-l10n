@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Firefox скриншоттары мүмкін
 policy-DisableFirefoxStudies = { -brand-short-name } үшін зерттеулерді орындауға тыйым салу.
 policy-DisableForgetButton = Ұмыту батырмасына рұқсатты жабу.
 policy-DisableFormHistory = Іздеу және формалар тарихын сақтамау.
+policy-DisableLaunchOnLogin = Пайдаланушы жүйеге кірген кезде { -brand-short-name } автоматты түрде іске қосылуын болдырмау.
 policy-DisablePrimaryPasswordCreation = Мәні true болса, басты парольді орнату мүмкін болмайды.
 policy-DisablePasswordReveal = Сақталған логиндерде парольдердің ашылуына жол бермеу.
 policy-DisablePocket2 = Веб-парақтары { -pocket-brand-name }-ке сақтау мүмкіндігін сөндіру.

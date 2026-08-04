@@ -58,6 +58,24 @@ fxa-menu-send-tab-to-device-description = Бетті сіз кірген кез 
 fxa-menu-sign-out =
     .label = Шығу…
 fxa-menu-sync-description = Интернетке кез келген жерден қол жеткізіңіз
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Тіркелгіні басқару
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Синхрондау үшін кіру
+fxa-menu-sign-in-promo-message = Деректеріңізге барлық жерден қол жеткізіңіз
+fxa-menu-sign-in-promo-button =
+    .label = Кіру
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Кіру
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Сіз жүйеден шықтыңыз
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Баптауды аяқтау
 fxa-avatar-sign-in = Кіру
 fxa-avatar-sign-up = Тіркелгіні жасау
 fxa-avatar-tooltip =
