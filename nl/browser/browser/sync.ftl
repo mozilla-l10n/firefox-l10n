@@ -65,6 +65,7 @@ fxa-menu-manage-account-subtitle = Account beheren
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Aanmelden om te synchroniseren
+fxa-menu-sign-in-promo-message = Benader uw gegevens overal
 fxa-menu-sign-in-promo-button =
     .label = Aanmelden
 # Card shown in the account menu when a previously signed-in account is
