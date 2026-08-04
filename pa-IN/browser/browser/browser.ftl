@@ -1583,6 +1583,14 @@ private-browsing-indicator-label = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼�
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਦੀ ਜਾਣਕਾਰੀ
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਹੋ
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = ਇਹ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਹੋਰਾਂ ਤੋਂ ਓਹਲੇ ਰੱਖਣ ਲਈ ਮਦਦ ਕਰਦੀ ਹੈ, ਪਰ ਤੁਹਾਨੂੰ ਆਨਲਾਈਨ ਓਹਲੇ ਨਹੀਂ ਕਰਦੀ ਹੈ। <a data-l10n-name="learn-more">ਮੇਰੀ ਸਰਗਰਮੀ ਨੂੰ ਕੌਣ ਵੇਖ ਸਕਦਾ ਹੈ?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

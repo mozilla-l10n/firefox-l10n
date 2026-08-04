@@ -294,6 +294,11 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } ਬਾਰੇ
     .accesskey = A
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = { -brand-shorter-name } ਨੂੰ ਸਾਂਝਾ ਕਰੋ
+    .accesskey = r
 appmenu-get-help =
     .label = ਮਦਦ ਲਵੋ
     .accesskey = H
@@ -404,6 +409,9 @@ fxa-menu-create-profile-confirm =
     .label = ਨਵਾਂ ਪਰੋਫਾਈਲ ਬਣਾਓ
 fxa-menu-create-profile-learn-more =
     .label = ਪਰੋਫ਼ਾਈਲ ਕੀ ਹੁੰਦੇ ਹਨ?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = { -brand-short-name } ਨੂੰ ਸਾਂਝਾ ਕਰੋ
+appmenuitem-share-firefox-description = ਹੋਰਾਂ ਨੂੰ ਉਹ ਬਰਾਊਜ਼ਰ ਚੁਣਨ ਲਈ ਸੱਦਾ ਦਿਓ, ਜੋ ਪਰਦੇਦਾਰੀ ਨੂੰ ਸਭ ਤੋਂ ਅੱਗੇ ਰੱਖਦਾ ਹੈ।
 appmenu-profiles-2 =
     .label = ਪਰੋਫਾਇਲ
 appmenu-profiles-header = ਪਰੋਫ਼ਾਈਲ

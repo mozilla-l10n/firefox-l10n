@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = ਤੁਹਾਡੇ ਫ਼ੋਨ 
 firefoxview-tabpickup-step-signin-primarybutton = ਜਾਰੀ ਰੱਖੋ
 firefoxview-syncedtabs-signin-header-2 = ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਤੁਹਾਡਾ { -brand-product-name }
 firefoxview-syncedtabs-signin-description-2 = ਤੁਹਾਡੇ ਫ਼ੋਨ ਜਾਂ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿਚ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਸਾਈਨ ਅੱਪ ਕਰੋ। ਖਾਤੇ ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ਪਾਸਵਰਡ, ਅਤੀਤ ਆਦਿ ਨੂੰ ਵੀ ਸਿੰਕ ਕਰ ਸਕਦੇ ਹੋ।
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = ਲੈਪਟਾਪ ਤੋਂ ਫ਼ੋਨ ਤੱਕ ਬਿਨਾਂ ਕਿਸੇ ਰੋਕ ਰੁਕਾਵਟ ਦੇ
+firefoxview-syncedtabs-signin-description-3 = ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਜੋੜੀ ਰੱਖੋ — ਸਿੰਕ ਵਿੱਚ ਜੋ ਵੀ ਹੈ, ਟੈਬਾਂ, ਪਾਸਵਰਡ ਅਤੇ ਅਤੀਤ।
 firefoxview-syncedtabs-signin-primarybutton-2 = ਸਾਈਨ ਇਨ
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਟੇਬਲੇਟ ਨਾਲ ਸਿੰਕ ਕਰੋ
 firefoxview-tabpickup-adddevice-description = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰੋ ਤੇ ਸਾਈਨ ਇਨ ਕਰੋ।
@@ -40,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = ਮੋਬਾਈਲ ਲਈ { -bra
 firefoxview-syncedtabs-adddevice-header-2 = ਟੈਬਾਂ ਕਿਤੋਂ ਵੀ ਲਵੋ
 firefoxview-syncedtabs-adddevice-description-2 = ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਹੋਰ ਕੰਪਿਊਟਰ ਉੱਤੇ { -brand-product-name } ਸਾਈਨ ਇਨ ਕਰਕੇ ਟੈਬਾਂ ਇੱਥੇ ਵੇਖੋ। <a data-l10n-name="url">ਹੋਰ ਡਿਵਾਈਸ ਕਨੈਕਟ</a> ਲਈ ਸਿੱਖੋ।
 firefoxview-syncedtabs-adddevice-primarybutton = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਵਰਤ ਕੇ ਵੇਖੋ
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਆਵਾਜ਼ਾਂ ਮਾਰਦੀਆਂ ਨੇ। ਉਹ ਤੁਹਾਡੇ ਫ਼ੋਨ ਉੱਤੇ ਹਨ।
 firefoxview-tabpickup-synctabs-header = ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਦੀ ਚੋਣ ਕਰੋ
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਟੈਬਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।
 firefoxview-tabpickup-synctabs-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
