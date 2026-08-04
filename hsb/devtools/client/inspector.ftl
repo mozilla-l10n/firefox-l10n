@@ -44,3 +44,12 @@ inspector-emulation-panel-color-scheme-dark = Ćmowy
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Žana emulacija
     .aria-label = Emulaciju barboweje šemy znjemóžnić
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Redukować
+    .aria-label = Emulaciju redukowaneho pohibowanja zmóžnić
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Žane nastajenje
+    .aria-label = Žane nastajenje za emulaciju redukowaneho pohibowanja zmóžnić
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Žana emulacija
+    .aria-label = Emulaciju redukowaneho pohibowanja znjemóžnić
