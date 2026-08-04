@@ -60,11 +60,17 @@ firefoxview-tabpickup-fxa-admin-disabled-header = ਤੁਹਾਡੇ ਸੰਗ�
 firefoxview-tabpickup-fxa-admin-disabled-description = ਤੁਹਾਡੇ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
 firefoxview-tabpickup-fxa-disabled-by-policy-description = ਤੁਹਾਡੇ ਸੰਗਠਨ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = ਟੈਬ ਸਿੰਕ ਕਰਨਾ ਬੰਦ ਹੈ
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਇਸ ਫ਼ੀਚਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।
 firefoxview-tabpickup-network-offline-header = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
 firefoxview-tabpickup-network-offline-description = ਜੇ ਤੁਸੀਂ ਫਾਇਰਵਾਲ ਜਾਂ ਪਰਾਕਸੀ ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ { -brand-short-name } ਨੂੰ ਵੈੱਬ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।
 firefoxview-tabpickup-network-offline-primarybutton = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } ਇਸ ਵੇਲੇ ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ
+firefoxview-tabpickup-network-offline-description-2 = ਤੁਸੀਂ ਆਫ਼ਲਾਈਨ ਹੋ ਸਕਦੇ ਹੋ ਜਾਂ ਕੋਈ ਚੀਜ਼ ਕਨੈਕਸ਼ਨ ਨੂੰ ਰੋਕਦਾ ਹੋ ਸਕਦਾ ਹੈ।
 firefoxview-tabpickup-sync-error-header = ਸਾਨੂੰ ਸਿੰਕ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਹੈ
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } ਇਸ ਵੇਲੇ ਸਿੰਕ ਸੇਵਾ ਨਾਲ ਸੰਪਰਕ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ। ਕੁਝ ਪਲ਼ਾਂ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ ਕਰੋ।
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = ਸਿੰਕ ਨੂੰ ਕੋਈ ਸਮੱਸਿਆ ਆਈ
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਇਸ ਨੂੰ ਕੁਝ ਸਮਾਂ ਦੇ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 firefoxview-tabpickup-sync-error-primarybutton = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 firefoxview-tabpickup-sync-disconnected-header = ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ
 firefoxview-tabpickup-sync-disconnected-description = ਆਪਣੀਆਂ ਟੈਬਾਂ ਲੈਣ ਲਈ ਤੁਹਾਨੂੰ { -brand-short-name } ਵਿੱਚ ਸਿੰਕ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੋਵੇਗੀ।
@@ -74,6 +80,7 @@ firefoxview-tabpickup-password-locked-description = ਆਪਣੀਆਂ ਟੈਬ
 firefoxview-tabpickup-password-locked-link = ਹੋਰ ਜਾਣੋ
 firefoxview-tabpickup-password-locked-primarybutton = ਮੁੱਖ ਪਾਸਵਰਡ ਦਿਓ
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">ਹੋਰ ਜਾਣੋ</a>
+firefoxview-tabpickup-password-locked-header-2 = ਟੈਬਾਂ ਨੂੰ ਆਪਣੇ ਮੁੱਢਲੇ ਪਾਸਵਰਡ ਨਾਲ ਅਣ-ਲਾਕ ਕਰੋ
 firefoxview-tabpickup-signed-out-header = ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 firefoxview-tabpickup-signed-out-description = ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਤੇ ਆਪਣੀਆਂ ਟੈਬਾਂ ਲੈਣ ਲਈ ਆਪਣੇ { -fxaccount-brand-name } ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ।
 firefoxview-tabpickup-signed-out-description2 = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨਾਲ ਮੁੜ ਜੁੜਨ ਅਤੇ ਖੋਲ੍ਹਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
