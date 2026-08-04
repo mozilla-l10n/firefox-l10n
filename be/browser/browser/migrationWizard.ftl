@@ -197,6 +197,7 @@ migration-safari-password-import-header = Імпартаваць паролі з
 migration-safari-password-import-post-sequoia-step1 = Адкрыйце праграму <a data-l10n-name="macos-passwords-app">Passwords</a> на вашым Mac
 migration-safari-password-import-post-sequoia-step2 = У радку меню ўверсе экрана абярыце Файл > Экспартаваць усе паролі ў файл…
 migration-safari-password-import-post-sequoia-step3 = Захавайце файл
+migration-safari-password-import-post-sequoia-step4 = Выберыце захаваны файл
 migration-safari-password-import-steps-header = Каб імпартаваць паролі з Safari:
 migration-safari-password-import-step1 = У Safari адкрыйце меню «Safari» і перайдзіце ў Налады > Паролі
 migration-safari-password-import-step2 = Націсніце кнопку <img data-l10n-name="safari-icon-3dots"/> і абярыце «Экспартаваць усе паролі»
@@ -209,6 +210,7 @@ migration-chrome-windows-password-import-step2 = Абярыце ў меню п�
 migration-chrome-windows-password-import-step3 = Абярыце «Спампаваць файл» і захавайце яго на сваёй прыладзе.
 migration-chrome-windows-password-import-step4 = Вярніцеся сюды і націсніце «Выбраць файл», каб завяршыць імпарт.
 migration-manual-password-import-skip-button = Прапусціць
+migration-manual-password-import-cancel-button = Скасаваць
 migration-manual-password-import-select-button = Выбраць файл
 migration-safari-password-import-skip-button = Прапусціць
 migration-safari-password-import-select-button = Выбраць файл
