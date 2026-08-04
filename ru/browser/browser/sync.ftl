@@ -62,6 +62,24 @@ fxa-menu-send-tab-to-device-description = Мгновенно отправляй�
 fxa-menu-sign-out =
     .label = Выйти…
 fxa-menu-sync-description = Доступ к Интернету из любого места
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Управление аккаунтом
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Войти в Синхронизацию
+fxa-menu-sign-in-promo-message = Получите доступ к своим данным, где бы вы ни находились
+fxa-menu-sign-in-promo-button =
+    .label = Войти
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Войти
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Вы вышли
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Завершить настройку
 fxa-avatar-sign-in = Войти
 fxa-avatar-sign-up = Зарегистрироваться
 fxa-avatar-tooltip =

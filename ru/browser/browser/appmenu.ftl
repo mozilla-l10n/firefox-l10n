@@ -355,14 +355,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Войдите в свой аккаунт
 appmenuitem-monitor-title2 = Защитите себя от кражи личных данных
 appmenuitem-monitor-description2 = Получайте оповещения об утечках данных
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Уведомления { -monitor-brand-short-name } об утечках данных
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Получайте уведомления об утечках данных
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Приватность вашей электронной почты
 appmenuitem-relay-description2 = Помогает предотвратить спам в вашем почтовом ящике
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Просмотреть псевдонимы электронной почты
 appmenuitem-relay-description = Скройте свои настоящие электронную почту и телефон
 appmenuitem-services-relay-description = Запустить панель псевдонимов электронной почты
 appmenuitem-vpn-title2 = Скройте свое местоположение с помощью { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Получите дополнительную защиту для всех приложений и устройств
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Открыть { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Усложните отслеживание вашего веб-сёрфинга
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Получите полную защиту устройства

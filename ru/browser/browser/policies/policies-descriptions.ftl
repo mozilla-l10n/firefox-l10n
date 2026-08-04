@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Отключает функцию Firefox Scr
 policy-DisableFirefoxStudies = Запрещает { -brand-short-name } выполнять исследования.
 policy-DisableForgetButton = Закрывает доступ к кнопке «Забыть».
 policy-DisableFormHistory = Отключает запоминание истории поиска и данных форм.
+policy-DisableLaunchOnLogin = Запрещает автоматический запуск { -brand-short-name } при входе пользователя в систему.
 policy-DisablePrimaryPasswordCreation = Не позволяет устанавливать основной пароль, если установлено значение true.
 policy-DisablePasswordReveal = Не позволяет просматривать пароли у сохранённых логинов.
 policy-DisablePocket2 = Отключает сохранение страниц в { -pocket-brand-name }.
