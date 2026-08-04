@@ -59,6 +59,24 @@ fxa-menu-send-tab-to-device-description = Envía una pestaña al instante a cual
 fxa-menu-sign-out =
     .label = Cerrar sesión…
 fxa-menu-sync-description = Acceso a su web en todas partes
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Administrar cuenta
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Iniciar sesión para sincronizar
+fxa-menu-sign-in-promo-message = Llevar los datos a todas partes
+fxa-menu-sign-in-promo-button =
+    .label = Iniciar sesión
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Iniciar sesión
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Se cerró la sesión
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Finalizar configuración
 fxa-avatar-sign-in = Iniciar sesión
 fxa-avatar-sign-up = Registrarse
 fxa-avatar-tooltip =

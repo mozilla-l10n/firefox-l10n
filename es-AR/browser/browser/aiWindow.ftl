@@ -218,7 +218,7 @@ aiwindow-history-menu-settings = Configuración de { -smart-window-brand-name }
 aiwindow-fullpage-new-chat =
     .label = Nuevo chat
 aiwindow-fullpage-chat-history =
-    .label = Historial de chat
+    .label = Historial de chats
 # "More" is the label for a button that opens a menu of additional Smart Window
 # options (currently Smart Window settings) — i.e. "more actions/options", not
 # more content or more chat history.
