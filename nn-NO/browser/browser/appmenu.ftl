@@ -360,6 +360,8 @@ appmenuitem-monitor-description = Få varsel om datalekkasjar
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Hald e-posten din privat
 appmenuitem-relay-description2 = Hjelper med å hindre søppelpost (spam) i innboksen din
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Vis e-postalias
 appmenuitem-relay-description = Skjul ekte e-postadresse og telefonnummer
 appmenuitem-services-relay-description = Start oversikta for e-postalias
 appmenuitem-vpn-title2 = Skjul plasseringa di med { -mozilla-vpn-brand-name }
