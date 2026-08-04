@@ -129,7 +129,7 @@ permissions-exceptions-saved-logins-desc = و من ٱووڌن سی و دین ک�
 permissions-exceptions-saved-passwords-window =
     .title = استسنایل - رزما زفت وابیڌه
     .style = { permissions-window2.style }
-permissions-exceptions-saved-passwords-desc = { -brand-short-name } رزما وبگه یل نومگه بیڌه من ایچونا ن زفت نؽکونه.
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } رزما وبگه یل نومگه بیڌه ایچونا ن زفت نؽکونه.
 
 ## Exceptions - Add-ons
 
