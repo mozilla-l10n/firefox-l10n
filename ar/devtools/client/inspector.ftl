@@ -18,3 +18,12 @@ colorpicker-tooltip-color-name-title = الأقرب إلى: { $colorName }
 colorpicker-tooltip-hue-slider-title = اللون
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = العتامة
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = قلّل
+    .aria-label = فعِّل محاكاة الحركة المحدودة
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = لا تفضيل
+    .aria-label = فعِّل خيار «لا تفضيل» لمحاكاة الحركة المحدودة
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = لا محاكاة
+    .aria-label = عطّل محاكاة الحركة المحدودة

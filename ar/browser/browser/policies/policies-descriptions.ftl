@@ -48,6 +48,7 @@ policy-DisableFirefoxScreenshots = تعطيل ميزة لقطات شاشة Firef
 policy-DisableFirefoxStudies = منع { -brand-short-name } من تشغيل الدارسات.
 policy-DisableForgetButton = منع الوصول إلى زر النسيان.
 policy-DisableFormHistory = عدم تذكّر تأريخ الاستمارات والبحث.
+policy-DisableLaunchOnLogin = امنع { -brand-short-name } من التشغيل تلقائيًا عند ولوج المستخدم.
 policy-DisablePrimaryPasswordCreation = إن كان ”صحيح“، فلا يمكن إنشاء كلمة سر رئيسية.
 policy-DisablePasswordReveal = لا تسمح بكشف كلمات السر في جلسات الولوج المحفوظة.
 policy-DisablePocket2 = تعطيل ميزة حفظ الصفحات في { -pocket-brand-name }.

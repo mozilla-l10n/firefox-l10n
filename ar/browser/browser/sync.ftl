@@ -43,6 +43,24 @@ fxa-menu-send-tab-to-device-description = أرسِل اللسان مباشرةً
 fxa-menu-sign-out =
     .label = اخرج…
 fxa-menu-sync-description = توصّل إلى الإنترنت من أي مكان
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = إدارة الحساب
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = لِج كي تبدأ المزامنة
+fxa-menu-sign-in-promo-message = احصل على بياناتك في كل مكان
+fxa-menu-sign-in-promo-button =
+    .label = لِج
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = لِج
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = سُجل خروجك
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = أنهِ الإعداد
 fxa-avatar-sign-in = لِج
 fxa-avatar-sign-up = سجِّل
 fxa-avatar-tooltip =

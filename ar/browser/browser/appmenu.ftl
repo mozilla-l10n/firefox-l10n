@@ -338,11 +338,18 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = لِج إلى حسابك
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } تنبيهات اختراق البيانات
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = احصل على تنبيهات تسريب البيانات
 appmenuitem-relay-title = { -relay-brand-short-name }
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = اعرض أقنعة البريد الإلكتروني
 appmenuitem-relay-description = أخفِ بريدك الإلكتروني ورقم هاتفك الحقيقي
 appmenuitem-services-relay-description = إطلاق لوحة معلومات أقنعة البريد الإلكتروني
+appmenuitem-vpn-description4 = احصل على حماية إضافية عبر التطبيقات والأجهزة
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = افتح { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = احصل على حماية كاملة للجهاز
 appmenuitem-vpn-description = احمِ نشاطك على الإنترنت
