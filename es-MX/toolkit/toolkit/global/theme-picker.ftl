@@ -64,3 +64,6 @@ theme-picker-smoke =
 # color word; translate the sense of "standard."
 theme-picker-default-aria-label =
     .aria-label = Predeterminado
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+theme-picker-sun-aria-label =
+    .aria-label = Sol
