@@ -71,6 +71,7 @@ fxa-menu-manage-account-subtitle = Konto rjadować
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Za synchronizaciju přizjewić
+fxa-menu-sign-in-promo-message = Wobstarajće sej daty wšudźe
 fxa-menu-sign-in-promo-button =
     .label = Přizjewić
 # Card shown in the account menu when a previously signed-in account is

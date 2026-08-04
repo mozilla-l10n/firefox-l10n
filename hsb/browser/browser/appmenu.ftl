@@ -355,14 +355,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Přizjewće so pola swojeho konta
 appmenuitem-monitor-title2 = Wostańće wo nós před padustwom identity
 appmenuitem-monitor-description2 = Dóstańće warnowanja wo datowych dźěrach
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Warnowanja datowych dźěrow { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dóstańće warnowanja wo datowych dźěrach
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Dźeržće swoju e-mejl priwatnu
 appmenuitem-relay-description2 = Zadźěwa spamej we wašim póstowym dochadźe
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = E-mejlowe maski pokazać
 appmenuitem-relay-description = Maskěrujće swoju woprawdźitu e-mejlowu adresu a swój telefon
 appmenuitem-services-relay-description = Startujće desku e-mejlowych maskow
 appmenuitem-vpn-title2 = Schowajće swoje stejnišćo z { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Dóstańće přidatny škit na nałoženjach a gratach
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = { -mozilla-vpn-brand-name } wočinić
 appmenuitem-vpn-description3 = Poćežće slědowanje swojeho přehladowanja
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Wobstarajće sej škit za cyły grat

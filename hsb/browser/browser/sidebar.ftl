@@ -158,6 +158,9 @@ sidebar-opentabs-sort-by-heading =
 # Sort option that lists tabs in the order they appear on the tab strip.
 sidebar-opentabs-sort-option-order =
     .label = Porjad rajtarkow
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Njedawno aktiwny
 
 ## Labels for sidebar menu items.
 
