@@ -66,9 +66,12 @@ about-networking-ssl-tokens-compression-details =
     .title = Tokens: { $tokenLength } B. Codificado: { $decompressedLength } → { $compressedLength } B.
 about-networking-ssl-tokens-ev-status = Certificado EV
 about-networking-ssl-tokens-ct-status = Estado de transparencia del certificado
+about-networking-ssl-tokens-overridable-error = Categoría de error ignorable
 about-networking-ssl-tokens-built-in-root = Raíz integrado
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Cadena de certificados ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Certificados de handshake ({ $count })
 about-networking-refresh = Refrescar
 about-networking-auto-refresh = Autorefrescar cada 3 segundos
 about-networking-hostname = Servidor
