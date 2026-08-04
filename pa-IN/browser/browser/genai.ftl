@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Anthropic Claude ਨੂੰ ਚੁਣ ਕੇ �
 genai-settings-chat-copilot-links = Copilot ਨੂੰ ਚੁਣ ਕੇ ਤੁਸੀਂ <a data-l10n-name="link1">Copilot AI ਤਜਰਬੇ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="link2">Microsoft ਪਰਦੇਦਾਰੀ ਬਿਆਨ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 genai-settings-chat-gemini-links = Google Gemini ਦੀ ਚੋਣ ਕਰਕੇ ਤੁਸੀਂ <a data-l10n-name="link1">ਸੇਵਾ ਦੀਆਂ Google ਸ਼ਰਤਾਂ</a>, <a data-l10n-name="link2">ਤਿਆਰ ਕਰਤਾ AI ਪਾਬੰਦ ਵਰਤਣ ਨੀਤੀ</a>, ਅਤੇ <a data-l10n-name="link3">Gemini ਐਪ ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 genai-settings-chat-huggingchat-links = HuggingChat ਨੂੰ ਚੁਣ ਕੇ ਤੁਸੀਂ <a data-l10n-name="link1">HuggingChat ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ</a> ਅਤੇ <a data-l10n-name="link2">Hugging Face ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
+genai-settings-chat-lechat-links-2 = Mistral Vibe ਨੂੰ ਚੁਣ ਕੇ ਤੁਸੀਂ Mistral ਏ.ਆਈ. <a data-l10n-name="link1">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="link2">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 genai-settings-chat-lechat-links = Le Chat Mistral ਦੀ ਚੋਣ ਕਰਕੇ ਤੁਸੀਂ Mistral AI <a data-l10n-name="link1">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="link2">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 genai-settings-chat-localhost-links = { -vendor-short-name } ਦੇ ਖੋਜੀ ਗਰੁੱਪ ਵਲੋਂ <a data-l10n-name="link1">llamafile</a>  ਵਰਗੇ ਆਪਣਾ ਖੁਦ ਦਾ ਲੋਕਲ ਚੈਟ-ਬੋਟ ਲਿਆਓ।
 
@@ -168,6 +169,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Gemini ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = HuggingChat ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral

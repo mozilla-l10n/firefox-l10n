@@ -74,9 +74,11 @@ ipprotection-summer-promo-offramp-subscriber-description = ਹੁਣ { -mozilla-
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = ਆਪਣੇ ਵਧੀਕ ਨਾਲ ਮੌਜੂਦ VPN ਟਿਕਾਣਿਆਂ ਨੂੰ ਰੱਖੋ
+ipprotection-summer-promo-offramp-default-browser-incentive-description = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ ਅਤੇ ਅਗਸਤ 31 ਤੋਂ ਬਾਅਦ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ 20 ਤੋਂ ਵੱਧ ਹੋਰ ਥਾਵਾਂ ਲਵੋ।
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = { -mozilla-vpn-brand-name } ਨਾਲ ਪੱਧਰ ਵਧਾਓ
+ipprotection-summer-promo-offramp-subscription-upsell-description = 31 ਅਗਸਤ ਤੋਂ ਬਾਅਦ ਬੇਅੰਤ ਬੈਂਡਵਿਡਥ ਰੱਖੋ। 5 ਡਿਵਾਈਸਾਂ ਤੋਂ 300+ ਟਿਕਾਣਿਆਂ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਡੀ ਸੂਹ ਲੈਣ ਨੂੰ ਵੱਧ ਔਖਾ ਬਣਾਉ।
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-summer-promo-offramp-set-to-default-primary-button = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
@@ -182,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = ਆਪਣੇ ਇੰਟਰ
 ipprotection-connection-status-network-error-description = ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਕਰੋ ਅਤੇ ਫੇਰ VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਿਓ।
 ipprotection-connection-status-blocked-error-title-1 = VPN ਮੌਜੂਦ ਨਹੀਂ ਹੈ
     .aria-label = VPN ਮੌਜੂਦ ਨਹੀਂ ਹੈ
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = ਲੋਕਲ ਕਨੂੰਨ ਅਤੇ ਪਾਬੰਦੀਆਂ ਤੁਹਾਡੇ VPN ਵਰਤਣ ਨੂੰ ਸੀਮਿਤ ਕਰ ਸਕਦੀਆਂ ਹਨ। <a data-l10n-name="learn-more-link">ਹੋਰ ਜਾਣੋ</a>
 ipprotection-connection-status-blocked-error-description = ਇਸ ਖੇਤਰ ਦੇ ਲੋਕਲ ਕਨੂੰਨ ਸਾਨੂੰ VPN ਸੇਵਾ ਦੇਣ ਤੋਂ ਰੋਕਦੇ ਹਨ। <a data-l10n-name="learn-more-link">ਹੋਰ ਜਾਣੋ</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
