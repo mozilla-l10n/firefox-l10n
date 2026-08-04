@@ -355,6 +355,8 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Ingresar a tu cuenta
 appmenuitem-monitor-title2 = Vaya un paso adelante del robo de identidad
 appmenuitem-monitor-description2 = Recibir alertas sobre filtraciones de datos
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Alertas de filtraciones de datos de { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Obtener alertas de filtración de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
