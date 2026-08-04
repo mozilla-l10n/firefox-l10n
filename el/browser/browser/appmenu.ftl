@@ -355,14 +355,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Συνδεθείτε στον λογαριασμό σας
 appmenuitem-monitor-title2 = Προφυλαχτείτε από την υποκλοπή ταυτότητας
 appmenuitem-monitor-description2 = Λάβετε ειδοποιήσεις για παραβιάσεις δεδομένων
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Ειδοποιήσεις παραβίασης δεδομένων του { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Λάβετε ειδοποιήσεις παραβίασης δεδομένων
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Διατηρήστε το email σας ιδιωτικό
 appmenuitem-relay-description2 = Συμβάλλει στην αποτροπή ανεπιθύμητων μηνυμάτων στα εισερχόμενά σας
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Προβολή μασκών email
 appmenuitem-relay-description = Αποκρύψτε το πραγματικό email και το τηλέφωνό σας
 appmenuitem-services-relay-description = Εκκίνηση πίνακα μασκών email
 appmenuitem-vpn-title2 = Αποκρύψτε την τοποθεσία σας με το { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Αποκτήστε επιπλέον προστασία σε εφαρμογές και συσκευές
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Άνοιγμα του { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Κάντε πιο δύσκολη την καταγραφή της περιήγησής σας
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Λάβετε προστασία για ολόκληρη τη συσκευή

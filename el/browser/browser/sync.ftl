@@ -57,6 +57,23 @@ fxa-menu-send-tab-to-device-description = Στείλτε άμεσα μια κα�
 fxa-menu-sign-out =
     .label = Αποσύνδεση…
 fxa-menu-sync-description = Πρόσβαση στον ιστό από οπουδήποτε
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Διαχείριση λογαριασμού
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Σύνδεση στο Sync
+fxa-menu-sign-in-promo-button =
+    .label = Σύνδεση
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Σύνδεση
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Έχετε αποσυνδεθεί
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Ολοκλήρωση ρύθμισης
 fxa-avatar-sign-in = Σύνδεση
 fxa-avatar-sign-up = Εγγραφή
 fxa-avatar-tooltip =

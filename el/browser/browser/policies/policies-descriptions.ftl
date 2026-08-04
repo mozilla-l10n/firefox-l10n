@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Απενεργοποίηση λειτουργ
 policy-DisableFirefoxStudies = Αποτροπή εκτέλεσης μελετών του { -brand-short-name }.
 policy-DisableForgetButton = Αποτροπή πρόσβασης στο κουμπί «Διαγραφή».
 policy-DisableFormHistory = Να μην γίνεται διατήρηση ιστορικού αναζήτησης και φορμών.
+policy-DisableLaunchOnLogin = Αποτροπή αυτόματης εκκίνησης του { -brand-short-name } κατά τη σύνδεση του χρήστη.
 policy-DisablePrimaryPasswordCreation = Αν είναι αληθές, δεν είναι δυνατή η δημιουργία κύριου κωδικού πρόσβασης.
 policy-DisablePasswordReveal = Να μην επιτρέπεται η αποκάλυψη κωδικών πρόσβασης σε αποθηκευμένες συνδέσεις.
 policy-DisablePocket2 = Απενεργοποίηση της λειτουργίας για αποθήκευση ιστοσελίδων στο { -pocket-brand-name }.

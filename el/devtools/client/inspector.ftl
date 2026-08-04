@@ -44,3 +44,12 @@ inspector-emulation-panel-color-scheme-dark = Σκουρόχρωμο
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Χωρίς εξομοίωση
     .aria-label = Απενεργοποίηση της εξομοίωσης συνόλου χρωμάτων
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Μείωση
+    .aria-label = Ενεργοποίηση εξομοίωσης μειωμένης κίνησης
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Καμία προτίμηση
+    .aria-label = Ενεργοποίηση χωρίς προτίμηση για εξομοίωση μειωμένης κίνησης
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Χωρίς εξομοίωση
+    .aria-label = Απενεργοποίηση εξομοίωσης μειωμένης κίνησης
