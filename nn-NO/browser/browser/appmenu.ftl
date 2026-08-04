@@ -365,6 +365,8 @@ appmenuitem-relay-title-signed-in = Vis e-postalias
 appmenuitem-relay-description = Skjul ekte e-postadresse og telefonnummer
 appmenuitem-services-relay-description = Start oversikta for e-postalias
 appmenuitem-vpn-title2 = Skjul plasseringa di med { -mozilla-vpn-brand-name }
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Opne { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Gjer surfinga di vanskelegare å spore
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få vern for heile eininga
