@@ -52,6 +52,7 @@ policy-DisableFirefoxScreenshots = Firefox Screenshots ਫੀਚਰ ਨੂੰ �
 policy-DisableFirefoxStudies = { -brand-short-name } ਤੋਂ ਚੱਲਦੇ ਅਧਿਐਨਾਂ ਨੂੰ ਰੋਕੋ।
 policy-DisableForgetButton = ਭੁਲਾਓ ਬਟਨ ਲਈ ਪਹੁੰਚ ਤੋਂ ਰੋਕੋ।
 policy-DisableFormHistory = ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਨੂੰ ਯਾਦ ਨਾ ਰੱਖੋ।
+policy-DisableLaunchOnLogin = ਜਦੋਂ ਵਰਤੋਂਕਾਰ ਲਾਗਇਨ ਕਰਦਾ ਹੈ ਤਾਂ { -brand-short-name } ਨੂੰ ਆਪਣੇ-ਆਪ ਚੱਲਣ ਤੋਂ ਰੋਕੋ
 policy-DisablePrimaryPasswordCreation = ਜੇ ਇਹ ਸਹੀ ਹੈ, ਤਾਂ ਮੁੱਢਲਾ ਪਾਸਵਰਡ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ।
 policy-DisablePasswordReveal = ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਵਿੱਚ ਪਾਸਵਰਡ ਵੇਖਣ ਦੀ ਇਜਾਜ਼ਤ ਨਾ ਦਿਓ।
 policy-DisablePocket2 = { -pocket-brand-name } ਨੂੰ ਵੈਬ ਪੇਜਿਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਅਯੋਗ ਕਰੋ।

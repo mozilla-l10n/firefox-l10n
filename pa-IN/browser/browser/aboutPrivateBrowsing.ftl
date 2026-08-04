@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = ਮੇਰੀ ਸਰਗਰਮੀ ਨੂ�
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = ਤੁਹਾਡੇ ਸੁਰਾਗ ਮਿਟਾਏ ਗਏ
+about-private-browsing-nova-info-subheader2 = ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੀਆ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਅਸੀ ਹਰ ਖੋਜ ਅਤੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਮਿਟਾ ਦੇਵਾਂਗੇ। { -brand-short-name } ਵਿੱਚ ਮੌਜੂਦ ਸੁਰੱਖਿਆਵਾਂ, ਜਿਵੇਂ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਆਦਿ ਵੀ ਮੌਜੂਦ ਹਨ।
 about-private-browsing-nova-info-subheader = ਜਦੋਂ ਤੁਸੀਂ ਇਸ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਅਸੀ ਹਰ ਖੋਜ ਅਤੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਮਿਟਾ ਦੇਵਾਂਗੇ। { -brand-short-name } ਵਿੱਚ ਮੌਜੂਦ ਸੁਰੱਖਿਆਵਾਂ, ਜਿਵੇਂ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਆਦਿ ਵੀ ਮੌਜੂਦ ਹਨ।

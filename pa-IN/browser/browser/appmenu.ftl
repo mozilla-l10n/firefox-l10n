@@ -254,6 +254,7 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = { -brand-shorter-name } ਵਿੱਚ ਨੈੱਟਵਰਕਿੰਗ ਬੱਗਾਂ ਦੀ ਜਾਂਚ ਲਈ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-networking-label =
     .label = ਨੈੱਟਵਰਕਿੰਗ
+profiler-popup-presets-networking-with-logs-description = { -brand-shorter-name } ਵਿੱਚ ਨੈੱਟਵਰਕ ਸੰਬੰਧੀ ਬੱਗ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਨਿਰਧਾਰਿਤ ਸੈੱਟਿੰਗ ਹੈ, ਜਿਸ ਵਿੱਚ ਨੈੱਟਵਰਕ ਨਾਲ ਸੰਬੰਧਿਤ ਲਾਗ ਵੀ ਹਨ। ਇਹ ਲਾਗ ਵਿੱਚ ਸੰਵੇਦਨਸ਼ੀਲ ਜਾਣਕਾਰੀ ਜਿਵੇਂ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਗਏ URL ਸ਼ਾਮਲ ਹਨ, ਵੀ ਹੋ ਸਕਦੀ ਹੈ।
 profiler-popup-presets-networking-with-logs-label =
     .label = ਲਾਗ ਦੇ ਨਾਲ ਨੈੱਟਵਰਕਿੰਗ
 profiler-popup-presets-power-description = ਘੱਟ ਖਪਤ ਨਾਲ { -brand-shorter-name } ਵਿੱਚ ਊਰਜਾ ਵਰਤਣ ਵਾਲੇ ਬੱਗਾਂ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਪ੍ਰੀ-ਸੈਟ ਹੈ।
@@ -349,14 +350,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ
 appmenuitem-monitor-title2 = ਪਛਾਣ ਚੋਰੀ ਹੋਣ ਤੋਂ ਸਾਵਧਾਨ ਰਹੋ
 appmenuitem-monitor-description2 = ਡਾਟਾ ਉਲੰਘਣਾ ਬਾਰੇ ਚੇਤਾਵਨੀਆਂ ਲਵੋ
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } ਡਾਟਾ ਉਲੰਘਣ ਚੇਤਾਵਨੀਆਂ
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = ਡਾਟਾ ਉਲੰਘਣਾਵਾਂ ਬਾਰੇ ਚੇਤਾਵਨੀਆਂ ਲਵੋ
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = ਆਪਣੀ ਈਮੇਲ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖੋ
 appmenuitem-relay-description2 = ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਨੂੰ ਸਪੈਮ ਤੋਂ ਬਚਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = ਈਮੇਲ ਮਾਸਕਾਂ ਨੂੰ ਵੇਖੋ
 appmenuitem-relay-description = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਅਤੇ ਫ਼ੋਨ ਨੂੰ ਲੁਕਾਓ
 appmenuitem-services-relay-description = ਈਮੇਲ ਮਾਸਕ ਡੈਸ਼ਬੋਰਡ ਨੂੰ ਚਲਾਓ
 appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } ਨਾਲ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ
+appmenuitem-vpn-description4 = ਸਾਰੇ ਐਪਾਂ ਅਤੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਵਧੀਕ ਸੁਰੱਖਿਆ ਲਵੋ
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = { -mozilla-vpn-brand-name } ਨੂੰ ਖੋਲ੍ਹੋ
 appmenuitem-vpn-description3 = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਸੂਹ ਲੈਣ ਨੂੰ ਔਖਾ ਬਣਾਓ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = ਪੂਰੇ-ਡਿਵਾਈਸ ਲਈ ਸੁਰੱਖਿਆ ਲਵੋ

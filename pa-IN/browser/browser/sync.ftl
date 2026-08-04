@@ -57,6 +57,24 @@ fxa-menu-send-tab-to-device-description = ਟੈਬ ਨੂੰ ਫ਼ੌਰਨ �
 fxa-menu-sign-out =
     .label = …ਸਾਈਨ ਆਉਟ
 fxa-menu-sync-description = ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਕਿਤੇ ਵੀ ਵੇਖੋ
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+fxa-menu-sign-in-promo-message = ਆਪਣਾ ਡਾਟਾ ਹਰ ਥਾਂ ਲਵੋ
+fxa-menu-sign-in-promo-button =
+    .label = ਸਾਈਨ ਇਨ
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = ਸਾਈਨ ਇਨ
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = ਤੁਸੀਂ ਸਾਈਨ ਆਉਟ ਹੋ
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = ਸੈਟਅੱਪ ਮੁਕੰਮਲ
 fxa-avatar-sign-in = ਸਾਈਨ ਇਨ
 fxa-avatar-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ
 fxa-avatar-tooltip =
