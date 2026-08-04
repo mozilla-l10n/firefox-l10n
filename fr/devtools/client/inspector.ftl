@@ -49,7 +49,7 @@ inspector-emulation-panel-reduced-motion-reduce = Réduire
     .aria-label = Activer l’émulation de mouvement réduit
 # A label text for the no preference for reduced motion emulation radio button option.
 inspector-emulation-panel-reduced-motion-no-preference = Aucune préférence
-    .aria-label = Activer aucune préférence pour l’émulation de mouvement réduite
+    .aria-label = Activer aucune préférence pour l’émulation de mouvement réduit
 # A label text for the no reduced motion emulation radio button option (uses user's preference).
 inspector-emulation-panel-reduced-motion-none = Pas d’émulation
     .aria-label = Désactiver l’émulation de mouvement réduit
