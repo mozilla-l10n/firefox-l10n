@@ -50,13 +50,16 @@ firefoxview-tabpickup-synctabs-header = ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ �
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਟੈਬਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।
 firefoxview-tabpickup-synctabs-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 firefoxview-tabpickup-synctabs-primarybutton = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਸਿੰਕ ਕਰੋ
+firefoxview-tabpickup-synctabs-primarybutton-2 = ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਦੀ ਚੋਣ ਕਰੋ
 firefoxview-syncedtabs-synctabs-header = ਆਪਣੀਆਂ ਸਿੰਕ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
 firefoxview-syncedtabs-synctabs-description = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਵੇਖਣ ਵਾਸਤੇ ਤੁਹਾਨੂੰ ਆਪਣੀਆਂ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਪਵੇਗਾ।
+firefoxview-syncedtabs-synctabs-header-2 = ਟੈਬ ਸਿੰਕ ਕਰਨਾ ਬੰਦ ਹੈ
 firefoxview-syncedtabs-loading-header = ਸਿੰਕ ਜਾਰੀ ਹੈ
 firefoxview-syncedtabs-loading-description = ਜਦੋਂ ਇਹ ਕਰ ਲਿਆ ਤਾਂ ਤੁਸੀਂ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਖੋਲ੍ਹੀਆਂ ਕਿਸੇ ਵੀ ਟੈਬਾਂ ਨੂੰ ਵੇਖ ਸਕੋਗੇ। ਛੇਤੀ ਹੀ ਵੇਖਿਓ।
 firefoxview-tabpickup-fxa-admin-disabled-header = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਲਿੰਕ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ
 firefoxview-tabpickup-fxa-admin-disabled-description = ਤੁਹਾਡੇ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
 firefoxview-tabpickup-fxa-disabled-by-policy-description = ਤੁਹਾਡੇ ਸੰਗਠਨ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = ਟੈਬ ਸਿੰਕ ਕਰਨਾ ਬੰਦ ਹੈ
 firefoxview-tabpickup-network-offline-header = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
 firefoxview-tabpickup-network-offline-description = ਜੇ ਤੁਸੀਂ ਫਾਇਰਵਾਲ ਜਾਂ ਪਰਾਕਸੀ ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ { -brand-short-name } ਨੂੰ ਵੈੱਬ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।
 firefoxview-tabpickup-network-offline-primarybutton = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
@@ -216,6 +219,10 @@ firefoxview-show-all-history = ਸਾਰੇ ਅਤੀਤ ਨੂੰ ਵੇਖੋ
 firefoxview-history-empty-header = ਜਿੱਥੇ ਤੁਸੀਂ ਸੀ, ਉੱਤੇ ਵਾਪਸ ਜਾਓ
 firefoxview-history-empty-description = ਜਿਵੇਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼਼ਿਆਂ ਨੂੰ ਇੱਥੇ ਦਿਕਾਇਆ ਜਾਵੇਗਾ।
 firefoxview-history-empty-description-two = ਅਸੀਂ ਜੋ ਵੀ ਕਰਦੇ ਹਾਂ, ਉਸ ਵਿੱਚ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਸਾਹਮਣੇ ਰੱਖਦੇ ਹਾਂ। ਇਸੇ ਕਰਕੇ ਤੁਸੀਂ <a data-l10n-name="history-settings-url">ਅਤੀਤ ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ  { -brand-short-name } ਸਰਗਰਮੀ ਯਾਦ ਰੱਖਣ ਨੂੰ ਕੰਟਰੋਲ ਕਰ ਸਕਦੇ ਹੋ।
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਸੁਰਾਗ ਇੱਥੋਂ ਸ਼ੁਰੂ ਹੁੰਦੇ ਹਨ
+firefoxview-history-empty-description-2 = ਜਿਵੇਂ ਤੁਸੀਂ ਸਫ਼ਿਆਂ ਨੂੰ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਤੁਹਾਡਾ ਅਤੀਤ ਇੱਥੇ ਦਿਖਾਈ ਦੇਵੇਗਾ। ਜੋ ਤੁਸੀਂ ਯਾਦ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਉਸ ਨੂੰ <a data-l10n-name="history-settings-url">ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਕੰਟਰੋਲ ਕਰੋ।
 
 ##
 
@@ -227,6 +234,9 @@ firefoxview-choose-browser-button = ਬਰਾਊਜ਼ਰ ਚੁਣੋ
 
 firefoxview-dont-remember-history-empty-header-2 = ਤੁਸੀਂ ਕੰਟਰੋਲ ਕਰ ਸਕਦੇ ਹੋ ਕਿ { -brand-short-name } ਕੀ ਯਾਦ ਰੱਖਦਾ ਹੈ
 firefoxview-dont-remember-history-empty-description-one = ਇਸ ਵੇਲੇ { -brand-short-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਕਰਨ ਦੀ ਸਰਗਰਮੀ ਨੂੰ ਯਾਦ ਨਹੀਂ ਰੱਖਦਾ ਹੈ। ਉਸ ਨੂੰ ਬਦਲਣ ਲਈ <a data-l10n-name="history-settings-url-two">ਆਪਣੀਆਂ ਅਤੀਤ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ।</a>
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = ਤੁਹਾਡੇ ਸੁਰਾਗ ਮਿਟਾਏ ਗਏ
+firefoxview-dont-remember-history-empty-description-2 = ਇਸ ਵੇਲੇ { -brand-short-name } ਤੁਹਾਡੇ ਅਤੀਤ ਨੂੰ ਸੰਭਾਲ ਨਹੀਂ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕਿਸੇ ਵੀ ਵੇਲੇ <a data-l10n-name="history-settings-url-two">ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਜਾ ਕੇ ਬਦਲੋ।
 
 ##
 
