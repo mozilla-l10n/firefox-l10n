@@ -1553,6 +1553,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 newtab-sports-widget-message-survey-title = ਸਾਨੂੰ ਵਿਜੈਟ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰੋ
 newtab-sports-widget-message-survey-body = ਵਰਲਡ ਕੱਪ ਖਤਮ ਹੋ ਗਿਆ ਹੈ। ਆਪਣੇ ਤਜਰਬੇ ਬਾਰੇ ਸਾਨੂੰ ਸੁਝਾਅ ਦਿਓ।
 newtab-sports-widget-message-survey-widget-title = ਵਰਲਡ ਕੱਪ ਵਿਜੈਟ ਕਿਵੇਂ ਸੀ?
+newtab-sports-widget-message-survey-widget-body = ਭਵਿੱਖ ਵਿੱਚ ਆਉਣ ਵਾਲੇ ਵਿਜੈਟ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਆਪਣੇ ਸੁਝਾਅ ਸਾਨੂੰ ਭੇਜੋ। ਤਦ ਕਿਸੇ ਨੂੰ ਨਵੇਂ ਨੂੰ ਅਜ਼ਮਾਓ।
 newtab-sports-widget-message-survey-cta =
     .label = ਸਰਵੇਖਣ ਭਰੋ
 

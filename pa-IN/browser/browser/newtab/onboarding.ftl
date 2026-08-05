@@ -618,6 +618,9 @@ smartwindow-existing-user-fx-tou-go-back = ਪਿੱਛੇ ਜਾਓ
 smartwindow-onboarding-title = { -smart-window-brand-name } ਨੂੰ ਆਪਣੇ ਨਾਲ ਰਹਿਣ ਵਾਲਾ ਬਣਾਓ
 smartwindow-onboarding-subtitle = ਬਿਨਾਂ ਪਲ਼ ਗੁਆਏ ਸਾਰ ਲਵੋ, ਤੁਲਨਾ ਕਰੋ ਅਤੇ ਸਵਾਲ ਪੁੱਛੋ।
 smartwindow-onboarding-primary-button = ਜਾਰੀ ਰੱਖੋ
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } ਸਟਾਰ ਪ੍ਰੋਪਸ ਦੇ ਨਾਲ ਮੌਸਕਿਟ (ਕਿੱਟ)
 
 ## Smart Window Sidebar Auto-Open Pref
 
@@ -629,3 +632,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = ਸਹਾਇਕ ਬੰਦ
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = ਕਿਸੇ ਵੀ ਸਫ਼ੇ ਉੱਤੇ ਇਸ ਨੂੰ ਖੋਲ੍ਹਣ ਵਾਸਤੇ ਪੁੱਛੋ ਨੂੰ ਵਰਤੋਂ। ਇਸ ਨੂੰ <a data-l10n-name="settings">ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਜਾ ਕੇ ਕਦੇ ਵੀ ਬਦਲੋ।
 smartwindow-sidebar-auto-open-callout-rejected-title = ਸਮਝੇ
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = ਜੇ ਤੁਹਾਡਾ ਮਨ ਬਦਲੇ ਤਾਂ ਤੁਸੀਂ ਕਦੇ ਵੀ <a data-l10n-name="settings">ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਮੂਲ ਨੂੰ ਅੱਪਡੇਟ ਕਰ ਸਕਦੇ ਹੋ।
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = ਥੀਮ ਨੂੰ ਚੁਣੋ
+onboarding-theme-picker-subtitle = { -brand-short-name } ਵਿੱਚ ਥੋੜ੍ਹੇ ਹੋਰ ਰੰਗ ਲਿਆਓ।
+onboarding-theme-picker-button-label = ਸੰਭਾਲੋ ਅਤੇ ਜਾਰੀ ਰੱਖੋ
