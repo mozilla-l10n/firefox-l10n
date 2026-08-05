@@ -53,4 +53,3 @@ inspector-emulation-panel-reduced-motion-no-preference = Nessuna preferenza
 # A label text for the no reduced motion emulation radio button option (uses user's preference).
 inspector-emulation-panel-reduced-motion-none = Nessuna emulazione
     .aria-label = Disattiva emulazione della riduzione del movimento
-
