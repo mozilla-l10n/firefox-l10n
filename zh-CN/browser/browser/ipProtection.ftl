@@ -58,6 +58,7 @@ ipprotection-feature-introduction-button-get-started = 开始使用
 
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = 打开 VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = 设为默认
 ipprotection-summer-promo-offramp-get-subscription-button = 获取 { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = 知道了
 
