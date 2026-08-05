@@ -309,6 +309,11 @@ newtab-custom-recent-title = Recent activity
 newtab-custom-recent-subtitle = A walin o recent sites and content
 newtab-custom-close-button = Sneck
 newtab-custom-settings = Manage mair settins
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-chicago = Chicago
@@ -407,4 +412,3 @@ newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh
 newtab-clock-city-np-kathmandu = Kathmandu
 newtab-clock-city-mm-yangon = Yangon
-

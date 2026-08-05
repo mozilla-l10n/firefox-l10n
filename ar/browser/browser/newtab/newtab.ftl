@@ -1040,6 +1040,8 @@ newtab-clock-widget-menu-button =
     .aria-label = افتح قائمة الساعة
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = الاسم المستعار: { $nickname }
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = نيويورك
 newtab-clock-city-us-los-angeles = لوس أنجلوس
 newtab-clock-city-us-chicago = شيكاغو
@@ -1140,4 +1142,3 @@ newtab-clock-city-ec-guayaquil = غواياكيل
 newtab-clock-city-vn-ho-chi-minh-city = مدينة هو تشي منة
 newtab-clock-city-np-kathmandu = كتمندو
 newtab-clock-city-mm-yangon = يانغون
-

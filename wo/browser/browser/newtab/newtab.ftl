@@ -5,6 +5,9 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+
+## Strings for the Clock widget
+
 newtab-clock-city-us-philadelphia = Filaadelfiya
 newtab-clock-city-us-boston = Boston
 newtab-clock-city-de-berlin = Berlin
@@ -51,4 +54,3 @@ newtab-clock-city-lv-riga = Riga
 newtab-clock-city-pt-lisbon = Lisbon
 newtab-clock-city-ir-tehran = Tehran
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh City
-

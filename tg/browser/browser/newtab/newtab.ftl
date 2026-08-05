@@ -1110,6 +1110,8 @@ newtab-clock-widget-search-results =
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
 newtab-clock-widget-search-no-results = Ягон мутобиқат нест
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Ню-Йорк
 newtab-clock-city-us-los-angeles = Лос Анҷелес
 newtab-clock-city-us-chicago = Чикаго
@@ -1207,4 +1209,3 @@ newtab-clock-city-ec-guayaquil = Гуаякил
 newtab-clock-city-vn-ho-chi-minh-city = Хо Ши Мин
 newtab-clock-city-np-kathmandu = Катманду
 newtab-clock-city-mm-yangon = Янгон
-

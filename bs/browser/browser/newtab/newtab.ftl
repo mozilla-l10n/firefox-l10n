@@ -662,6 +662,11 @@ newtab-report-cancel = Otkaži
 newtab-report-submit = Pošalji
 newtab-toast-thanks-for-reporting =
     .message = Hvala vam što ste ovo prijavili.
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-san-francisco = San Francisco
@@ -759,4 +764,3 @@ newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Ho Ši Min
 newtab-clock-city-np-kathmandu = Katmandu
 newtab-clock-city-mm-yangon = Rangoon
-

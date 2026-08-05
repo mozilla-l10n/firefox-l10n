@@ -315,6 +315,11 @@ newtab-custom-recent-title = Paskiausia veikla
 newtab-custom-recent-subtitle = Paskiausiai lankytos svetainės ir žiūrėtas turinys
 newtab-custom-close-button = Užverti
 newtab-custom-settings = Keisti daugiau nuostatų
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Niujorkas
 newtab-clock-city-us-los-angeles = Los Andželas
 newtab-clock-city-us-chicago = Čikaga
@@ -415,4 +420,3 @@ newtab-clock-city-ec-guayaquil = Gvajakilis
 newtab-clock-city-vn-ho-chi-minh-city = Hošiminas
 newtab-clock-city-np-kathmandu = Katmandu
 newtab-clock-city-mm-yangon = Rangūnas
-

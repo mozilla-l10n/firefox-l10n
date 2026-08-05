@@ -296,6 +296,11 @@ newtab-custom-pocket-title = { -pocket-brand-name } দ্বারা সুপ
 newtab-custom-recent-title = সাম্প্রতিক কার্যকলাপ
 newtab-custom-close-button = বন্ধ করুন
 newtab-custom-settings = আরও সেটিং পরিচালনা করুন
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = নিউ ইয়র্ক
 newtab-clock-city-us-los-angeles = লস অ্যাঞ্জেলেস
 newtab-clock-city-us-chicago = শিকাগো
@@ -396,4 +401,3 @@ newtab-clock-city-ec-guayaquil = গুয়াইয়াকিল
 newtab-clock-city-vn-ho-chi-minh-city = হো চি মিন শহর
 newtab-clock-city-np-kathmandu = কাঠমান্ডু
 newtab-clock-city-mm-yangon = ইয়াঙ্গুন
-

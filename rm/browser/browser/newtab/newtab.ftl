@@ -828,6 +828,11 @@ newtab-promo-card-cta = Ulteriuras infurmaziuns
 newtab-promo-card-dismiss-button =
     .title = Serrar
     .aria-label = Serrar
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-chicago = Chicago
@@ -887,4 +892,3 @@ newtab-clock-city-pt-lisbon = Lisbona
 newtab-clock-city-ir-tehran = Teheran
 newtab-clock-city-bd-dhaka = Dhaka
 newtab-clock-city-vn-ho-chi-minh-city = Citad da Ho Chi Minh
-

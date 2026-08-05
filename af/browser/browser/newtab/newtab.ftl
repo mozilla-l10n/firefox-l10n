@@ -53,6 +53,11 @@ newtab-pocket-cta-button = Kry { -pocket-brand-name }
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-refresh-link = Verfris bladsy om weer te probeer.
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-chicago = Chicago
@@ -152,4 +157,3 @@ newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Ho Tsji Minhstad
 newtab-clock-city-np-kathmandu = Katmandoe
 newtab-clock-city-mm-yangon = Yangon
-

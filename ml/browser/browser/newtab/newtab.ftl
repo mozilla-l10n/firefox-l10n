@@ -614,6 +614,8 @@ newtab-sports-widget-cancelled = റദ്ദാക്കി
 ## Strings for the Clock widget
 
 newtab-clock-widget-button-cancel = റദ്ദാക്കുക
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = ന്യൂയോർക്ക്
 newtab-clock-city-us-los-angeles = ലോസ് ആഞ്ചെലെസ്
 newtab-clock-city-us-chicago = ഷിക്കാഗോ
@@ -713,4 +715,3 @@ newtab-clock-city-bd-dhaka = ഢാക്ക
 newtab-clock-city-vn-ho-chi-minh-city = ഹോ ചി മിൻ നഗരം
 newtab-clock-city-np-kathmandu = കാഠ്മണ്ഡു
 newtab-clock-city-mm-yangon = യംഗോൺ
-

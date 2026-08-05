@@ -520,6 +520,11 @@ newtab-topic-selection-button-maybe-later = ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼ�
 newtab-topic-selection-privacy-link = ᱵᱟᱰᱟᱭ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱟ ᱟᱞᱮ ᱰᱟᱴᱟ ᱵᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱵᱚᱱ ᱪᱟᱞᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
 newtab-topic-selection-button-update-interests = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
 newtab-topic-selection-button-pick-interests = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = ᱱᱤᱭᱩ ᱭᱚᱨᱠ
 newtab-clock-city-us-los-angeles = ᱞᱚᱥ ᱮᱧᱡᱮᱞᱥ
 newtab-clock-city-us-chicago = ᱥᱤᱠᱟᱜᱳ
@@ -583,4 +588,3 @@ newtab-clock-city-bd-dhaka = ᱰᱷᱟᱠᱟ
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh
 newtab-clock-city-np-kathmandu = ᱠᱟᱴᱷᱢᱟᱱᱰᱩ
 newtab-clock-city-mm-yangon = ᱭᱮᱝᱜᱳᱱ
-

@@ -270,6 +270,11 @@ newtab-custom-row-selector =
 newtab-custom-recent-title = حالیہ سرگرمی
 newtab-custom-close-button = بند کریں
 newtab-custom-settings = مزید سیٹنگز کو نظم کریں
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = نیویارک
 newtab-clock-city-us-los-angeles = لاس اینجلس
 newtab-clock-city-us-chicago = شکاگو
@@ -370,4 +375,3 @@ newtab-clock-city-ec-guayaquil = گویاکیل
 newtab-clock-city-vn-ho-chi-minh-city = ہو چی منہ سٹی
 newtab-clock-city-np-kathmandu = کھٹمنڈو
 newtab-clock-city-mm-yangon = یانگون
-

@@ -224,6 +224,11 @@ newtab-pocket-cta-text = Alza los tuyos articlos preferius en { -pocket-brand-na
 
 newtab-error-fallback-info = Oi, ha fallau bella cosa en a carga d'este conteniu.
 newtab-error-fallback-refresh-link = Refrescar la pachina pa tornar-lo a intentar.
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Nueva York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-chicago = Chicago
@@ -314,4 +319,3 @@ newtab-clock-city-bd-dhaka = Dhaka
 newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh
 newtab-clock-city-np-kathmandu = Katmandú
-

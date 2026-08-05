@@ -143,6 +143,11 @@ newtab-empty-section-highlights = ವೀಕ್ಷಣೆ ಮಾಡಲು ಶು�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ಜನಪ್ರಿಯವಾದ ವಿಷಯಗಳು:
 newtab-pocket-cta-button = { -pocket-brand-name } ಪಡೆಯಿರಿ
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = ನ್ಯೂ ಯಾರ್ಕ್
 newtab-clock-city-us-los-angeles = ಲಾಸ್ ಎಂಜಲೀಸ್
 newtab-clock-city-us-chicago = ಶಿಕಾಗೊ
@@ -243,4 +248,3 @@ newtab-clock-city-ec-guayaquil = ಗುವಾಕ್ವಿಲ್
 newtab-clock-city-vn-ho-chi-minh-city = ಹೊ ಚಿ ಮಿನ್ ಸಿಟಿ
 newtab-clock-city-np-kathmandu = ಕಠ್ಮಂಡು
 newtab-clock-city-mm-yangon = ಯಾಂಗಾನ್
-

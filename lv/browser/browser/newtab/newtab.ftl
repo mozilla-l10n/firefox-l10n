@@ -571,6 +571,11 @@ newtab-section-unfollow-button = Pārtraukt sekošanu
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Ne tagad
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Ņujorka
 newtab-clock-city-us-los-angeles = Losandželosa
 newtab-clock-city-us-chicago = Čikāga
@@ -671,4 +676,3 @@ newtab-clock-city-ec-guayaquil = Gvajakila
 newtab-clock-city-vn-ho-chi-minh-city = Hošimina
 newtab-clock-city-np-kathmandu = Katmandu
 newtab-clock-city-mm-yangon = Jangona
-

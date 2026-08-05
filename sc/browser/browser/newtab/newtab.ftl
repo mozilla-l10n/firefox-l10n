@@ -1053,6 +1053,8 @@ newtab-clock-widget-button-back =
     .title = A coa
     .aria-label = A coa
 newtab-clock-widget-button-save = Sarva
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Noa York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-chicago = Chicago
@@ -1143,4 +1145,3 @@ newtab-clock-city-bd-dhaka = Daca
 newtab-clock-city-vn-ho-chi-minh-city = Tzitade de Ho Chi Minh
 newtab-clock-city-np-kathmandu = Katmandù
 newtab-clock-city-mm-yangon = Rangoon
-

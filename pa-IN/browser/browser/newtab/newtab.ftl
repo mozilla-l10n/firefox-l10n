@@ -1651,6 +1651,8 @@ newtab-clock-widget-menu-button =
     .aria-label = ਘੜੀ ਲਈ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = ਪਸੰਦੀਦਾ ਨਾਂ: { $nickname }
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = ਨਿਊਯਾਰਕ ਸ਼ਹਿਰ
 newtab-clock-city-us-los-angeles = ਲਾਸ ਐਂਜਲਸ
 newtab-clock-city-us-chicago = ਸ਼ਿਕਾਗੋ
@@ -1749,4 +1751,3 @@ newtab-clock-city-ec-guayaquil = ਗੁਆਇਆਕੀਲ
 newtab-clock-city-vn-ho-chi-minh-city = ਹੋ ਚੀ ਮਿਨ੍ਹ ਸਿਟੀ
 newtab-clock-city-np-kathmandu = ਕਾਠਮਾਂਡੂ
 newtab-clock-city-mm-yangon = ਰੰਗੂਨ
-

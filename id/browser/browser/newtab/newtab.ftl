@@ -707,6 +707,11 @@ newtab-widget-timer-menu-notifications = Matikan notifikasi
 newtab-widget-timer-menu-notifications-on = Hidupkan notifikasi
 newtab-widget-timer-menu-learn-more = Pelajari lebih lanjut
 newtab-promo-card-title = Dukung { -brand-product-name }
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-chicago = Chicago
@@ -807,4 +812,3 @@ newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh
 newtab-clock-city-np-kathmandu = Kathmandu
 newtab-clock-city-mm-yangon = Yangon
-

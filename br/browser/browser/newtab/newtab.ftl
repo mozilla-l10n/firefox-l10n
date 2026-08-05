@@ -537,6 +537,11 @@ newtab-widget-lists-label-new =
     .label = Nevez
 newtab-widget-lists-menu-create = Krouiñ ur roll nevez
 newtab-widget-lists-input-menu-open-link = Digeriñ an ere
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-san-francisco = San Francisco
@@ -634,4 +639,3 @@ newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Kêr Hô-Chi-Minh
 newtab-clock-city-np-kathmandu = Kathmandu
 newtab-clock-city-mm-yangon = Yangon
-

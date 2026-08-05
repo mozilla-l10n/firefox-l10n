@@ -21,6 +21,11 @@ home-mode-choice-custom-srd =
     .label = དྲ་མིང་རང་མོས་སྒྲིག་པ…
 home-mode-choice-blank-srd =
     .label = དྲ་ངོས་སྟོང་བ
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = ནེའུ་ཡོར་ཀ།
 newtab-clock-city-us-san-francisco = སན་ཧྥུ་རན་སིས་ཁོ
 newtab-clock-city-us-atlanta = ཨ་ཊི་ལཱན་ཊཱ།
@@ -86,4 +91,3 @@ newtab-clock-city-bd-dhaka = དྷ་ཁ།
 newtab-clock-city-vn-ho-chi-minh-city = ཧོ་ཀྲི་མིན་གྲོང་ཁྱེར།
 newtab-clock-city-np-kathmandu = ཀ་ཏ་མན་ཏུ།
 newtab-clock-city-mm-yangon = ཡང་ཀོང་།
-

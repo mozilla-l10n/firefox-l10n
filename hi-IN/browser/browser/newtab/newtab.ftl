@@ -249,6 +249,11 @@ newtab-wallpaper-brown = भूरा
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = न्यूयॉर्क
 newtab-clock-city-us-los-angeles = लॉस एंजेलिस
 newtab-clock-city-us-chicago = शिकागो
@@ -349,4 +354,3 @@ newtab-clock-city-ec-guayaquil = गावकील
 newtab-clock-city-vn-ho-chi-minh-city = हो ची मिन्ह सिटी
 newtab-clock-city-np-kathmandu = काठमांडू
 newtab-clock-city-mm-yangon = यांगून
-

@@ -165,6 +165,11 @@ newtab-pocket-cta-button = { -pocket-brand-name } ကို ရယူပါ
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-refresh-link = ထပ်ကြိုးစားရန် စာမျက်နှာကို ပြန်တင်ပါ
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = နယူးယောက်
 newtab-clock-city-us-los-angeles = လော့စ်အိန်ဂျယ်လိစ်
 newtab-clock-city-us-chicago = ရှီကာဂို
@@ -264,4 +269,3 @@ newtab-clock-city-ec-guayaquil = ဂွါရာကွီးလ်
 newtab-clock-city-vn-ho-chi-minh-city = ဟိုချီမင်းစီးတီး
 newtab-clock-city-np-kathmandu = ခတ္တမန္ဒု
 newtab-clock-city-mm-yangon = ရန်ကုန်
-

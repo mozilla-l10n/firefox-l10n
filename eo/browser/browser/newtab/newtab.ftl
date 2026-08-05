@@ -1629,6 +1629,8 @@ newtab-clock-widget-menu-button =
     .aria-label = Malfermi horloĝan menuon
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Kromnomo: { $nickname }
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Nov-Jorko
 newtab-clock-city-us-los-angeles = Los-Anĝeleso
 newtab-clock-city-us-chicago = Ĉikago
@@ -1729,4 +1731,3 @@ newtab-clock-city-ec-guayaquil = Guajakilo
 newtab-clock-city-vn-ho-chi-minh-city = Hoĉimino
 newtab-clock-city-np-kathmandu = Katmanduo
 newtab-clock-city-mm-yangon = Jangono
-

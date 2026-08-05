@@ -513,6 +513,9 @@ newtab-topic-selection-button-maybe-later = شاید بعد وچ
 newtab-topic-selection-privacy-link = سکھو جو اساں ڈیٹا دی حفاظت تے منیج کین٘ویں کریندے ہیں۔
 newtab-topic-selection-button-update-interests = آپݨیاں دلچسپیاں اپ ڈیٹ کرو
 newtab-topic-selection-button-pick-interests = آپݨیاں دلچسپیاں چݨو
+
+## Strings for the Clock widget
+
 newtab-clock-city-fr-paris = پیرس
 newtab-clock-city-in-delhi = دلی
 newtab-clock-city-mx-mexico-city = میکسیکو شہر
@@ -522,4 +525,3 @@ newtab-clock-city-my-kuala-lumpur = کوالالمپور
 newtab-clock-city-pk-karachi = کراچی
 newtab-clock-city-bd-dhaka = ڈھاکہ
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh
-

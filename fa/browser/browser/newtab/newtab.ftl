@@ -387,6 +387,11 @@ newtab-weather-menu-learn-more = بیشتر بدانید
 newtab-topic-selection-save-button = ذخیره
 newtab-topic-selection-cancel-button = انصراف
 newtab-topic-selection-button-maybe-later = شاید بعداً
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = نیویورک
 newtab-clock-city-us-los-angeles = لس آنجلس
 newtab-clock-city-us-chicago = شیکاگو
@@ -487,4 +492,3 @@ newtab-clock-city-ec-guayaquil = گوایاکیول
 newtab-clock-city-vn-ho-chi-minh-city = هوشی‌مین‌سیتی
 newtab-clock-city-np-kathmandu = کاتماندو
 newtab-clock-city-mm-yangon = یانگون
-

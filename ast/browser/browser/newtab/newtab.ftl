@@ -226,6 +226,11 @@ newtab-custom-recent-title = Actividá recién
 newtab-custom-recent-subtitle = Una esbilla de los sitios y del conteníu recién
 newtab-custom-close-button = Zarrar
 newtab-custom-settings = Xestionar más axustes
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Nueva York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-chicago = Chicago
@@ -325,4 +330,3 @@ newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Ciudá de Ho Chi Minh
 newtab-clock-city-np-kathmandu = Katmandú
 newtab-clock-city-mm-yangon = Yangôn
-

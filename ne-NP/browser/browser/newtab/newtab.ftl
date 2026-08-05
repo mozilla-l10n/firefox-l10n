@@ -169,6 +169,11 @@ newtab-pocket-read-more = लोकप्रिय शीर्षकहरू:
 
 newtab-error-fallback-info = उफ्, सामाग्री लोड गर्न खोजदा केहि गलत भयो ।
 newtab-error-fallback-refresh-link = पुनः प्रयास गर्न पृष्ठ ताजा गर्नुहोस् ।
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = न्युयोर्क
 newtab-clock-city-us-los-angeles = लस एन्जलस
 newtab-clock-city-us-chicago = शिकागो
@@ -261,4 +266,3 @@ newtab-clock-city-ec-guayaquil = गुयाक्विल
 newtab-clock-city-vn-ho-chi-minh-city = हो ची मिन्ह शहर
 newtab-clock-city-np-kathmandu = काठमाडौँ
 newtab-clock-city-mm-yangon = रङ्गुन
-

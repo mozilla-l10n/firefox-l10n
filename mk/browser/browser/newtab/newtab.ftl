@@ -190,6 +190,11 @@ newtab-pocket-cta-button = Превземете го { -pocket-brand-name }
 
 newtab-error-fallback-info = Упс, нешто отиде погрешно со прикажување на оваа содржина
 newtab-error-fallback-refresh-link = Освежете ја страницата за да се обидете повторно.
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Њујорк
 newtab-clock-city-us-los-angeles = Лос Анџелес
 newtab-clock-city-us-chicago = Чикаго
@@ -289,4 +294,3 @@ newtab-clock-city-ec-guayaquil = Гвајакил
 newtab-clock-city-vn-ho-chi-minh-city = Хо Ши Мин
 newtab-clock-city-np-kathmandu = Катманду
 newtab-clock-city-mm-yangon = Јангон
-

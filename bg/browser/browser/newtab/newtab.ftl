@@ -627,6 +627,11 @@ newtab-widget-lists-input-menu-delete = Изтриване
 newtab-widget-timer-menu-learn-more = Научете повече
 newtab-promo-card-body = Нашите спонсори подкрепят мисията ни да изградим по-добра мрежа
 newtab-promo-card-cta = Научете повече
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Ню Йорк
 newtab-clock-city-us-los-angeles = Лос Анджелис
 newtab-clock-city-us-chicago = Чикаго
@@ -727,4 +732,3 @@ newtab-clock-city-ec-guayaquil = Гуаякил
 newtab-clock-city-vn-ho-chi-minh-city = Хошимин
 newtab-clock-city-np-kathmandu = Катманду
 newtab-clock-city-mm-yangon = Янгон
-

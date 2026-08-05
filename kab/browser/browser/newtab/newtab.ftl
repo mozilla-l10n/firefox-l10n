@@ -618,6 +618,11 @@ newtab-promo-card-cta = Issin ugar
 newtab-promo-card-dismiss-button =
     .title = Zgel
     .aria-label = Zgel
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-san-francisco = San Francisco
@@ -696,4 +701,3 @@ newtab-clock-city-pt-lisbon = Lisbun
 newtab-clock-city-ir-tehran = Ṭehran
 newtab-clock-city-bd-dhaka = Dakka
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh
-

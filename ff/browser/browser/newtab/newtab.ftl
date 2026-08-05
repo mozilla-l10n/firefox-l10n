@@ -227,6 +227,11 @@ newtab-pocket-cta-text = Hisnu daari njiɗ-ɗaa nder { -pocket-brand-name }, ñi
 
 newtab-error-fallback-info = Uf, saɗeende kewii e loowgol ngoo loowdi.
 newtab-error-fallback-refresh-link = Wultin hello ngoo ngam ennditde.
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = 𞤚𞤵𞤬𞤵𞤲𞤣𞤫 𞤐𞤭𞤴𞤮𞤪𞤳
 newtab-clock-city-us-chicago = Chicago
 newtab-clock-city-de-berlin = Berlin
@@ -255,4 +260,3 @@ newtab-clock-city-sg-singapore = Sinngapuur
 newtab-clock-city-ke-nairobi = Nairobi
 newtab-clock-city-pt-lisbon = Lisbon
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh
-

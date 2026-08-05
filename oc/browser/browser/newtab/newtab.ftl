@@ -521,6 +521,11 @@ newtab-daily-briefing-card-timestamp = Actualizat fa { $minutes } min.
 ## labels, but not all.
 
 newtab-activation-window-message-customization-focus-message = Causissètz un fons d'ecran novèl, apondètz d’acorchis cap a vòstres sites preferits e demoratz al fial de las istòrias que vos interèssan.
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Nòva York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-chicago = Chicago
@@ -621,4 +626,3 @@ newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh
 newtab-clock-city-np-kathmandu = Katmandó
 newtab-clock-city-mm-yangon = Rangon
-

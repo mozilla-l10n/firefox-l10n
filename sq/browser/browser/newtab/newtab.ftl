@@ -885,6 +885,11 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Kjo hapësirë u bindet rregullave tuaja
 newtab-activation-window-message-values-focus-message = { -brand-product-name }-i ju lejon të shfletoni si doni, me një mënyrë më personale për t’ia filluar ditës suaj në internet. Bëjeni { -brand-product-name }-in tuajin.
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Nju Jork Siti
 newtab-clock-city-us-los-angeles = Los Axhelos
 newtab-clock-city-us-chicago = Çikago
@@ -984,4 +989,3 @@ newtab-clock-city-ec-guayaquil = Guajakuil
 newtab-clock-city-vn-ho-chi-minh-city = Ho-Çi-Min
 newtab-clock-city-np-kathmandu = Katmandu
 newtab-clock-city-mm-yangon = Jangon
-

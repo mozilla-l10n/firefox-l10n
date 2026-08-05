@@ -268,6 +268,11 @@ newtab-custom-settings = Boshqa sozlamalarni boshqarish
 newtab-wallpaper-title = Fon rasmlari
 newtab-wallpaper-toggle-title =
     .label = Fon rasmlari
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Nyu-York
 newtab-clock-city-us-los-angeles = Los Anjeles
 newtab-clock-city-us-chicago = Chikago
@@ -368,4 +373,3 @@ newtab-clock-city-ec-guayaquil = Guayakil
 newtab-clock-city-vn-ho-chi-minh-city = Xoshimin
 newtab-clock-city-np-kathmandu = Katmandu
 newtab-clock-city-mm-yangon = Yangon
-

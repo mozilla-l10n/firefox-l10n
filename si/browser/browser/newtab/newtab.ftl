@@ -382,6 +382,11 @@ newtab-section-blocked-button = අවහිරයි
 ## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-blocked-topics = අවහිරයි
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = නිව්යෝර්ක්
 newtab-clock-city-us-los-angeles = ලොස් ඇන්ජලීස්
 newtab-clock-city-us-chicago = චිකාගෝව
@@ -482,4 +487,3 @@ newtab-clock-city-ec-guayaquil = ගුආයාක්විල්
 newtab-clock-city-vn-ho-chi-minh-city = හෝචි මිං නගරය
 newtab-clock-city-np-kathmandu = කත්මන්ඩු
 newtab-clock-city-mm-yangon = යැන්ගොන්
-

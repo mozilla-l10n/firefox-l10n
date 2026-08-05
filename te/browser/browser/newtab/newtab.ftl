@@ -380,6 +380,11 @@ newtab-widget-lists-input-menu-delete = తొలగించు
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-menu-learn-more = ఇంకా తెలుసుకోండి
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = న్యూయార్క్
 newtab-clock-city-us-los-angeles = లాస్ ఏంజలెస్
 newtab-clock-city-us-chicago = చికాగో
@@ -480,4 +485,3 @@ newtab-clock-city-ec-guayaquil = గ్వాయాక్విల్
 newtab-clock-city-vn-ho-chi-minh-city = హో చి మిన్హ్ నగరం
 newtab-clock-city-np-kathmandu = ఖాట్మండు
 newtab-clock-city-mm-yangon = యాంగోన్
-

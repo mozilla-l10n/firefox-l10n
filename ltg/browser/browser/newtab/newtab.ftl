@@ -203,6 +203,9 @@ newtab-pocket-cta-text = Sagloboj interesantus stōstus { -pocket-brand-name } u
 
 newtab-error-fallback-info = Naz kas aizgōja škārsu, īlōdejut itū saturu.
 newtab-error-fallback-refresh-link = Porlōdej lopu, kab paraudzēt par jaunu.
+
+## Strings for the Clock widget
+
 newtab-clock-city-de-berlin = Berlins
 newtab-clock-city-de-munich = Minhene
 newtab-clock-city-fr-paris = Pariža
@@ -220,4 +223,3 @@ newtab-clock-city-dk-copenhagen = Kopenhaga
 newtab-clock-city-lt-vilnius = Viļne
 newtab-clock-city-lv-riga = Reiga
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh Mīsts
-

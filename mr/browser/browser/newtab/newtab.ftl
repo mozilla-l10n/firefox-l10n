@@ -207,6 +207,11 @@ newtab-pocket-cta-button = { -pocket-brand-name } मिळवा
 
 newtab-error-fallback-info = अरेरे, हा मजकूर लोड करताना काहीतरी गोंधळ झाला.
 newtab-error-fallback-refresh-link = पुन्हा प्रयत्न करण्यासाठी पृष्ठ रिफ्रेश करा.
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = न्यू यॉर्क शहर
 newtab-clock-city-us-los-angeles = लॉस एंजेल्स
 newtab-clock-city-us-chicago = शिकागो
@@ -307,4 +312,3 @@ newtab-clock-city-ec-guayaquil = ग्वायाकिल
 newtab-clock-city-vn-ho-chi-minh-city = हो चि मिन्ह शहर
 newtab-clock-city-np-kathmandu = काठमांडू
 newtab-clock-city-mm-yangon = यांगून
-

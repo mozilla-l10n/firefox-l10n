@@ -291,6 +291,11 @@ newtab-custom-recent-title = Kamakailang aktibidad
 newtab-custom-recent-subtitle = Isang pagpipilian ng mga kamakailang site at nilalaman
 newtab-custom-close-button = Isara
 newtab-custom-settings = Mamahala ng higit pang mga setting
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-chicago = Chicago
@@ -388,4 +393,3 @@ newtab-clock-city-bd-dhaka = Dhaka
 newtab-clock-city-vn-ho-chi-minh-city = Lungsod ng Ho Chi Minh
 newtab-clock-city-np-kathmandu = Kathmandu
 newtab-clock-city-mm-yangon = Yangon
-

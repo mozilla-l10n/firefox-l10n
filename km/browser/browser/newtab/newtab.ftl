@@ -255,6 +255,11 @@ newtab-widget-lists-input-menu-delete = លុប
 newtab-widget-timer-notification-warning = ការជូនដំណឹងត្រូវបានបិទ
 newtab-widget-timer-menu-notifications = បិទការជូនដំណឹង
 newtab-widget-timer-menu-notifications-on = បើកការជូនដំណឹង
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = ញូវយ៉ក
 newtab-clock-city-us-los-angeles = ឡូស​អាន់​ជ័រ​លេស
 newtab-clock-city-us-chicago = ស៊ីកាហ្គោ
@@ -333,4 +338,3 @@ newtab-clock-city-ec-guayaquil = ហ្គុយ៉ាគីល
 newtab-clock-city-vn-ho-chi-minh-city = ហូជីមីញ
 newtab-clock-city-np-kathmandu = កាត់ម៉ាន់ឌូ
 newtab-clock-city-mm-yangon = យ៉ាំងហ្គូន
-

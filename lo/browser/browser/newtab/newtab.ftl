@@ -304,6 +304,11 @@ newtab-custom-recent-title = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່
 newtab-custom-recent-subtitle = ການເລືອກເວັບໄຊ ແລະເນື້ອຫາຫຼ້າສຸດ
 newtab-custom-close-button = ປິດ
 newtab-custom-settings = ຈັດການການຕັ້ງຄ່າເພີ່ມເຕີມ
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = ນະຄອນນິວຢອກ
 newtab-clock-city-us-los-angeles = ລອສແອງເຈລິສ
 newtab-clock-city-us-san-francisco = ຊານຟຣານຊິສໂກ
@@ -360,4 +365,3 @@ newtab-clock-city-bd-dhaka = ທາກາ
 newtab-clock-city-vn-ho-chi-minh-city = ເມືອງໂຮ່ຈິມິນ
 newtab-clock-city-np-kathmandu = ກາດມານດຸ
 newtab-clock-city-mm-yangon = ຢ່າງກຸ້ງ
-

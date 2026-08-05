@@ -278,6 +278,11 @@ newtab-widget-section-show-less =
 
 newtab-sports-widget-show-less =
     .label = Daha az göstər
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Nyu-York
 newtab-clock-city-us-los-angeles = Los-Anceles
 newtab-clock-city-us-chicago = Çikaqo
@@ -377,4 +382,3 @@ newtab-clock-city-ec-guayaquil = Quayakil
 newtab-clock-city-vn-ho-chi-minh-city = Ho Şi Min
 newtab-clock-city-np-kathmandu = Katmandu
 newtab-clock-city-mm-yangon = Yanqon
-

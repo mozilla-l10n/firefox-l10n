@@ -331,6 +331,11 @@ newtab-custom-recent-title = Gnìomhachd o chionn goirid
 newtab-custom-recent-subtitle = Roghainn de làraichean is susbaint faisg ort
 newtab-custom-close-button = Dùin
 newtab-custom-settings = Stiùirich barrachd roghainnean
+
+## Strings for the Clock widget
+
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Eabhraig Nuadh
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-san-diego = San Diego
@@ -424,4 +429,3 @@ newtab-clock-city-bd-dhaka = Dhaka
 newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Cathair Ho Chi Minh
 newtab-clock-city-np-kathmandu = Kathmandu
-
