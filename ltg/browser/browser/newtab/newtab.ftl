@@ -203,3 +203,21 @@ newtab-pocket-cta-text = Sagloboj interesantus stōstus { -pocket-brand-name } u
 
 newtab-error-fallback-info = Naz kas aizgōja škārsu, īlōdejut itū saturu.
 newtab-error-fallback-refresh-link = Porlōdej lopu, kab paraudzēt par jaunu.
+newtab-clock-city-de-berlin = Berlins
+newtab-clock-city-de-munich = Minhene
+newtab-clock-city-fr-paris = Pariža
+newtab-clock-city-br-rio-de-janeiro = Rio de Janeiro
+newtab-clock-city-pl-warsaw = Varšova
+newtab-clock-city-ru-moscow = Moskova
+newtab-clock-city-ru-saint-petersburg = Pīterpiļs
+newtab-clock-city-cz-prague = Praga
+newtab-clock-city-hu-budapest = Budapešta
+newtab-clock-city-ua-kyiv = Kijiva
+newtab-clock-city-co-bogota = Bogota
+newtab-clock-city-se-stockholm = Stokholmys
+newtab-clock-city-cl-santiago = Santjago
+newtab-clock-city-dk-copenhagen = Kopenhaga
+newtab-clock-city-lt-vilnius = Viļne
+newtab-clock-city-lv-riga = Reiga
+newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh Mīsts
+
