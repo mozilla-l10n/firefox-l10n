@@ -43,6 +43,12 @@ felt-browser-error-multiple-crashes2 =
 felt-browser-error-launch-failure =
     .heading = { -brand-short-name } ne peut pas démarrer
     .message = Si le problème persiste, veuillez contacter votre administrateur.
+felt-error-primary-secret =
+    .heading = { -brand-short-name } ne peut pas démarrer de manière sécurisée
+    .message = Votre clé de profil sécurisé n’a pas pu être récupérée. Veuillez essayer à nouveau ou contactez votre administrateur si le problème persiste.
+felt-error-sdr-token-unlock-failed =
+    .heading = { -brand-short-name } ne peut pas déverrouiller votre profil
+    .message = Votre profil sécurisé n’a pas pu être déverrouillé. Veuillez essayer à nouveau ou contactez votre administrateur si le problème persiste.
 
 ## Logout messages
 
@@ -82,3 +88,4 @@ felt-error-warning-elevation-attempt-failed-contact-admin = Une mise à jour n�
 felt-warning-title-download-attempt-failed =
     .heading = La mise à jour n’a pas pu être téléchargée
 felt-error-warning-download-attempt-failed-contact-admin = La dernière mise à jour n'a pas pu être téléchargée. Si le problème persiste, contactez votre administrateur pour obtenir de l’aide.
+felt-back-button = Retour à la connexion
