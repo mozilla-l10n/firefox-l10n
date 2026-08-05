@@ -768,7 +768,58 @@ pdfjs-digital-signature-properties-button-label = ਡਿਜੀਟਲ ਦਸਤ�
 ## Variables:
 ##   $count (Number) - number of signatures at the worst level.
 
-pdfjs-digital-signature-properties-banner-verified = ਦਸਤਾਵੇਜ਼ ਨੂੰ ਵਾਜਬ ਡਿਜ਼ਿਟਲ ਦਸਤਖ਼ਤਾਂ ਨਾਲ ਸਾਈਨ ਕੀਤਾ ਗਿਆ ਸੀ
+pdfjs-digital-signature-properties-banner-verified = ਦਸਤਾਵੇਜ਼ ਨੂੰ ਵਾਜਬ ਡਿਜੀਟਲ ਦਸਤਖ਼ਤਾਂ ਨਾਲ ਸਾਈਨ ਕੀਤਾ ਗਿਆ ਸੀ
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] ਦਸਤਾਵੇਜ਼ ਨੂੰ ਸਾਈਨ ਤਾਂ ਕੀਤਾ ਗਿਆ ਸੀ ਪਰ { $count } ਡਿਜੀਟਲ ਦਸਤਖ਼ਤ ਨੂੰ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
+       *[other] ਦਸਤਾਵੇਜ਼ ਨੂੰ ਸਾਈਨ ਤਾਂ ਕੀਤਾ ਗਿਆ ਸੀ ਪਰ { $count } ਡਿਜੀਟਲ ਦਸਤਖ਼ਤਾਂ ਨੂੰ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
+    }
+pdfjs-digital-signature-properties-banner-untrusted =
+    { $count ->
+        [one] ਦਸਤਾਵੇਜ਼ ਨੂੰ { $count } ਸਰਟੀਫਿਕੇਟ ਨਾਲ ਸਾਈਨ ਕੀਤਾ ਗਿਆ ਸੀ, ਜੋ ਭਰੋਸੇਯੋਗ ਨਹੀਂ ਹੈ
+       *[other] ਦਸਤਾਵੇਜ਼ ਨੂੰ { $count } ਸਰਟੀਫਿਕੇਟਾਂ ਨਾਲ ਸਾਈਨ ਕੀਤਾ ਗਿਆ ਸੀ, ਜੋ ਭਰੋਸੇਯੋਗ ਨਹੀਂ ਹਨ
+    }
+pdfjs-digital-signature-properties-banner-expired =
+    { $count ->
+        [one] ਦਸਤਾਵੇਜ਼ ਨੂੰ { $count } ਮਿਆਦ ਪੁੱਗੇ ਸਰਟੀਫਿਕੇਟ ਨਾਲ ਸਾਈਨ ਕੀਤਾ ਗਿਆ ਸੀ
+       *[other] ਦਸਤਾਵੇਜ਼ ਨੂੰ { $count } ਮਿਆਦ ਪੁੱਗੇ ਸਰਟੀਫਿਕੇਟਾਂ ਨਾਲ ਸਾਈਨ ਕੀਤਾ ਗਿਆ ਸੀ
+    }
+pdfjs-digital-signature-properties-banner-invalid =
+    { $count ->
+        [one] ਦਸਤਾਵੇਜ਼ ਵਿੱਚ { $count } ਅਵੈਧ ਡਿਜੀਟਲ ਦਸਤਖਤ ਹਨ
+       *[other] ਦਸਤਾਵੇਜ਼ ਵਿੱਚ { $count } ਅਵੈਧ ਡਿਜੀਟਲ ਦਸਤਖਤ ਹਨ
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] ਦਸਤਾਵੇਜ਼ 'ਤੇ { $count } ਰੱਦ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟ ਨਾਲ ਦਸਤਖਤ ਕੀਤੇ ਗਏ ਹਨ
+       *[other] ਦਸਤਾਵੇਜ਼ { $count } ਰੱਦ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟਾਂ ਨਾਲ ਦਸਤਖਤ ਕੀਤਾ ਗਿਆ ਹੈ
+    }
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+pdfjs-digital-signature-properties-status-verified = ਸਥਿਤੀ: ਦਸਤਖਤਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ ਗਈ
+pdfjs-digital-signature-properties-status-invalid = ਸਥਿਤੀ: ਦਸਤਖਤ ਸਹੀ ਨਹੀਂ ਹਨ
+pdfjs-digital-signature-properties-status-unknown = ਸਥਿਤੀ: ਜਾਂਚ ਕਰਨ ਲਈ ਅਸਮਰੱਥ (ਗ਼ੈਰ-ਸਹਾਇਕ)
+
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+pdfjs-digital-signature-properties-certificate-trusted = ਸਰਟੀਫਿਕੇਟ: ਭਰੋਸਾਕਰਤਾ ({ $issuer })
+pdfjs-digital-signature-properties-certificate-unknown = ਸਰਟੀਫਿਕੇਟ: ਗ਼ੈਰ-ਮੌਜੂਦ
+pdfjs-digital-signature-properties-certificate-untrusted = ਸਰਟੀਫਿਕੇਟ: ਬੇਭਰੋਸੇਯੋਗ
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = ਸਰਟੀਫਿਕੇਟ: ਅਣਪਛਾਤਾ ਜਾਰੀਕਰਤਾ ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = ਸਰਟੀਫਿਕੇਟ: ਸਵੈ-ਦਸਤਖ਼ਤੀ ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = ਸਰਟੀਫਿਕੇਟ: ਬੇਭਰੋਸੇਯੋਗ ਜਾਰੀ ਕਰਤਾ ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = ਸਰਟੀਫਿਕੇਟ: ਮਿਆਦ ਪੁੱਗੀ
+pdfjs-digital-signature-properties-certificate-expired-with-date = ਸਰਟੀਫਿਕੇਟ: ਮਿਆਦ ਪੁੱਗੀ ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = ਸਰਟੀਫਿਕੇਟ: ਰੱਦ ਕੀਤਾ
 
 ## Main menu for adding/removing signatures
 

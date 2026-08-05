@@ -30,12 +30,17 @@ policy-BlockAboutSupport = about:support ਸਫ਼ੇ ਉੱਤੇ ਪਹੁੰਚ 
 policy-Bookmarks = ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ, ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਜਾਂ ਨਿਯਤ ਕੀਤੇ ਫੋਲਡਰ ਵਿੱਚ ਬੁੱਕਮਾਰਕ ਬਣਾਓ।
 policy-CaptivePortal = ਕੈਪੀਟਿਵ ਪੋਰਟਲ ਸਹਾਇਤਾ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 policy-CertificatesDescription = ਸਰਟੀਫਿਕੇਟ ਜੋੜੋ ਜਾਂ ਵਿਚੇ ਮੌਜੂਦ ਸਰਟੀਫਿਕੇਟ ਵਰਤੋਂ।
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = TLS ਲਈ CNSA 2.0 ML-KEM-1024 ਕੁੰਜੀ ਇਕਰਾਰਨਾਮੇ ਨੂੰ ਸਮਰੱਥ ਕਰੋ।
 policy-ContentAnalysis = ਡਾਟਾ-ਨੁਕਸਾਨ-ਰੋਕੂ ਏਜੰਟ ਨਾਲ ਕਨੈਕਸ਼ਨ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 policy-Cookies = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਸੈੱਟ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ ਜਾਂ ਪਾਬੰਦੀ ਲਗਾਓ।
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = ਕਨਟੇਨਰ ਸੰਬੰਧੀ ਪਾਲਸੀਆਂ ਸੈਟ ਕਰੋ।
 policy-DisableAccounts = ਸਿੰਕ ਸਮੇਤ ਅਕਾਊਂਟ ਅਧਾਰਿਤ ਸੇਵਾਵਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisabledCiphers = ਸੀਫ਼ਰ ਅਸਮਰੱਥ ਕਰੋ।
+policy-DefaultBrowserSettingEnabled = ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਕੀ ਵਰਤੋਂਕਾਰ { -brand-short-name } ਨੂੰ ਮੂਲ-ਬਰਾਊਜ਼ਰ ਬਣਾ ਸਕਦਾ ਹੈ।
 policy-DefaultDownloadDirectory = ਮੂਲ ਡਾਊਨਲੋਡ ਡਾਇਰੈਕਟਰੀ ਸੈੱਟ ਕਰੋ।
 policy-DefaultSerialGuardSetting = ਸੀਰੀਅਸ API ਲਈ ਕੰਟਰੋਲ ਵਰਤੋਂ।
 policy-DisableAppUpdate = ਬਰਾਊਜ਼ਰ ਨੂੰ ਅੱਪਡੇਟ ਹੋਣ ਤੋਂ ਰੋਕੋ।
