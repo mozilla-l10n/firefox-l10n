@@ -470,6 +470,23 @@ topsite-label-pinned =
     .aria-label = { $title } (appuntato)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Notifiche da { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Adesso
+newtab-topsites-hover-card-mark-all-read =
+    .title = Segna tutte come lette
+    .aria-label = Segna tutte come lette
+newtab-topsites-hover-card-settings =
+    .title = Impostazioni notifiche
+    .aria-label = Impostazioni notifiche
+newtab-topsites-hover-card-dismiss =
+    .title = Chiudi
+    .aria-label = Chiudi
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -691,6 +708,9 @@ newtab-custom-shortcuts-toggle =
     .description = Siti che hai salvato oppure visitato
 newtab-custom-shortcuts-nova =
     .label = Scorciatoie
+newtab-custom-web-notifications-toggle =
+    .label = Notifiche web
+    .description = Mostra le notifiche dei siti sulle relative scorciatoie.
 newtab-custom-row-description =
     .description = Numero di righe
 # Variables
