@@ -87,3 +87,15 @@ choose-dialog-privatebrowsing-disabled = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡ�
 mailto-handler-picker-window =
     .style = min-width: 26em; min-height: 26em;
     .title = ਆਪਣੀ ਈਮੇਲ ਐਪ ਨੂੰ ਚੁਣੋ
+mailto-handler-picker-subtitle = ਐਪ ਚੁਣੋ, ਜੋ ਤੁਸੀਂ ਈਮੇਲ ਲਿੰਕਾਂ ਲਈ ਵਰਤਣੀ ਚਾਹੁੰਦੇ ਹੋ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਬਦਲ ਸਕਦੇ ਹੋ।
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = ਜਦੋਂ ਵੀ ਮੈਂ ਈਮੇਲ ਲਿੰਕ ਉੱਤੇ ਕਲਿੱਕ ਕਰਾਂ ਤਾਂ ਮੈਨੂੰ ਪੁੱਛੋ
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
+    .accesskey = S
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = ਹੁਣੇ ਨਹੀਂ
+    .accesskey = N

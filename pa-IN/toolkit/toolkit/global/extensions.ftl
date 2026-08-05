@@ -68,6 +68,7 @@ webext-perms-optional-perms-deny =
     .label = ਇਨਕਾਰ
     .accesskey = D
 webext-perms-host-description-all-urls = ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਵਾਸਤੇ ਪਹੁੰਚ
+webext-perms-host-description-file-urls = ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਲੋਕਲ ਫ਼ਾਇਲਾਂ ਲਈ ਪਹੁੰਚ ਦਿਓ
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } ਡੋਮੇਨ ਵਿੱਚ ਸਾਈਟਾਂ ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਲਈ ਪਹੁੰਚ

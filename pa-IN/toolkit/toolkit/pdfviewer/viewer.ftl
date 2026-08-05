@@ -153,6 +153,27 @@ pdfjs-document-properties-linearized = ਤੇਜ਼ ਵੈੱਬ ਝਲਕ:
 pdfjs-document-properties-linearized-yes = ਹਾਂ
 pdfjs-document-properties-linearized-no = ਨਹੀਂ
 pdfjs-document-properties-close-button = ਬੰਦ ਕਰੋ
+pdfjs-digital-signature-properties-view-certificate = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖੋ
+# Shown beneath an invalid signature card to explain why verification
+# failed. The text comes from NSS (e.g. "Signature integrity has been
+# compromised", "PKCS#7 signature could not be parsed") and is not
+# itself localized — it is the underlying error message produced by
+# the verification backend.
+# Variables:
+#   $reason (String) - error message describing why the signature
+#                      could not be verified.
+pdfjs-digital-signature-properties-reason = ਕਾਰਨ: { $reason }
+# Variables:
+#   $dateObj (Date) - the signing time from the /Sig dict's /M entry.
+pdfjs-digital-signature-properties-timestamp = ਸਮਾਂ: { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
+#   $count (Number) - number of nested sub-signatures (one per earlier
+#                     incremental revision of the document).
+pdfjs-digital-signature-properties-sub-signatures =
+    { $count ->
+        [one] ਅਧੀਨ-ਦਸਤਖ਼ਤ ({ $count })
+       *[other] ਅਧੀਨ-ਦਸਤਖ਼ਤ({ $count })
+    }
 
 ## Print
 
@@ -731,6 +752,23 @@ pdfjs-new-badge-content = ਨਵਾਂ
 pdfjs-views-manager-waiting-for-file = …ਫ਼ਾਇਲ ਨੂੰ ਅੱਪਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 pdfjs-toggle-views-manager-button1 =
     .title = ਸਫ਼ਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ
+
+## Digital signature properties (signature verification panel)
+
+pdfjs-digital-signature-properties-button =
+    .title = ਡਿਜੀਟਲ ਦਸਤਖਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ
+    .aria-label = ਡਿਜੀਟਲ ਦਸਤਖਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ
+pdfjs-digital-signature-properties-button-label = ਡਿਜੀਟਲ ਦਸਤਖਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+pdfjs-digital-signature-properties-banner-verified = ਦਸਤਾਵੇਜ਼ ਨੂੰ ਵਾਜਬ ਡਿਜ਼ਿਟਲ ਦਸਤਖ਼ਤਾਂ ਨਾਲ ਸਾਈਨ ਕੀਤਾ ਗਿਆ ਸੀ
 
 ## Main menu for adding/removing signatures
 

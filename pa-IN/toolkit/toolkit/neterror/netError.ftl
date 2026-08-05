@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = ਹਮੇਸ਼ਾ ਜਾਰੀ ਰੱ�
 neterror-pref-reset = ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਇਸ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
 neterror-error-reporting-automatic = ਇੰਜ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ { -vendor-short-name } ਖ਼ਤਰਨਾਕ ਸਾਈਟਾਂ ਦੀ ਪਛਾਣ ਕਰਦਾ ਅਤੇ ਉਹਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ।
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸ਼ਾਇਦ ਪ੍ਰਾਈਵੇਟ ਨਾ ਹੋਵੇ
+    .message = ਕੋਈ ਐਪ ਜਾਂ ਸਰਵਿਸ ਇਸ ਸਾਈਟ ਲਈ ਤੁਹਾਡੇ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਟਰੈਫਿਕ ਨੂੰ ਵੇਖ ਸਕਦੀ ਹੈ।
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ਕੁਝ ਕਾਰਨਾਂ ਕਰਕੇ ਇਸ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।
