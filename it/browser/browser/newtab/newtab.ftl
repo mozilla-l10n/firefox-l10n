@@ -1644,6 +1644,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Risultati della ricerca
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Aggiungi “{ $city }” come orologio personalizzato
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Nome della città
+    .aria-label = Nome della città
+    .placeholder = Assegna un nome a questo orologio
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Fuso orario
+    .aria-label = Fuso orario
+    .placeholder = Cerca per città, fuso orario o differenza con UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Risultati fusi orari
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Nessun fuso orario corrispondente
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Indietro
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
@@ -1656,6 +1676,8 @@ newtab-clock-widget-menu-button =
     .aria-label = Apri il menu per l’orologio
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Nome: { $nickname }
+# Curated World Clock city names. The value is the city name shown on the
+# clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
 newtab-clock-city-us-chicago = Chicago
