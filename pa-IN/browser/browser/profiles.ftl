@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = ਅਵਤਾਰ
 edit-profile-page-delete-button =
     .label = ਹਟਾਓ
+edit-profile-page-avatar-selector-opener-button =
+    .title = ਅਵਤਾਰ ਨੂੰ ਸੋਧੋ
 edit-profile-page-avatar-selector-opener-link = ਸੋਧੋ
 avatar-selector-icon-tab = ਆਈਕਾਨ
 avatar-selector-custom-tab = ਕਸਟਮ
@@ -95,6 +97,9 @@ delete-profile-logins = ਪਾਸਵਰਡ
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = “{ $profilename }” ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਹਟਾਓ
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = “{ $profilename }” ਪੋਫ਼ਾਇਲ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 
 ##
 

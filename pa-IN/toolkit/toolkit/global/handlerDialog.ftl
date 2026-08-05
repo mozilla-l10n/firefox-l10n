@@ -79,3 +79,11 @@ choose-app-btn =
 choose-other-app-window-title = ...ਹੋਰ ਐਪਲੀਕੇਸ਼ਨ
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਅਸਮਰੱਥ ਹੈ
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = ਆਪਣੀ ਈਮੇਲ ਐਪ ਨੂੰ ਚੁਣੋ

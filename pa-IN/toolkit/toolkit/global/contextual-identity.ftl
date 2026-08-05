@@ -30,6 +30,9 @@ user-context-manage-containers =
 user-context-new-tab =
     .label = ਨਵੀਂ ਟੈਬ
     .accesskey = N
+user-context-add-container =
+    .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
+    .accesskey = A
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
