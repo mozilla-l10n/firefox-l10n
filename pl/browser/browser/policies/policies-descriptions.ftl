@@ -30,12 +30,17 @@ policy-BlockAboutSupport = Blokowanie dostępu do strony about:support.
 policy-Bookmarks = Tworzenie zakładek na pasku zakładek, w menu zakładek lub w podanym folderze w powyższych.
 policy-CaptivePortal = Włączenie lub wyłączenie obsługi portalu przechwytującego.
 policy-CertificatesDescription = Dodawanie certyfikatów lub używanie wbudowanych.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Włączenie uzgadniania klucza ML-KEM-1024 z CNSA 2.0 w protokole TLS.
 policy-ContentAnalysis = Włączenie lub wyłączenie połączenia z agentem zapobiegającym utracie danych.
 policy-Cookies = Zezwalanie lub zabranianie witrynom ustawiania ciasteczek.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Ustawianie zasad związanych z kontenerami.
 policy-DisableAccounts = Wyłączenie usług korzystających z konta, w tym synchronizacji.
 policy-DisabledCiphers = Wyłączenie szyfrów.
+policy-DefaultBrowserSettingEnabled = Sterowanie, czy użytkownik może ustawiać { -brand-short-name(case: "acc") } jako domyślną przeglądarkę.
 policy-DefaultDownloadDirectory = Ustawienie domyślnego katalogu pobierania.
 policy-DefaultSerialGuardSetting = Sterowanie użyciem API dla urządzeń szeregowych.
 policy-DisableAppUpdate = Uniemożliwienie aktualizowania przeglądarki.
@@ -52,6 +57,7 @@ policy-DisableFirefoxScreenshots = Wyłączenie funkcji Firefox Screenshots.
 policy-DisableFirefoxStudies = Uniemożliwienie przeprowadzania badań przez program { -brand-short-name }.
 policy-DisableForgetButton = Wyłączenie dostępu do przycisku „Wyczyść”.
 policy-DisableFormHistory = Wyłączenie zachowywania historii wyszukiwania i formularzy.
+policy-DisableLaunchOnLogin = Uniemożliwienie { -brand-short-name(case: "dat") } automatycznego uruchamiania po zalogowaniu użytkownika.
 policy-DisablePrimaryPasswordCreation = Wartość „prawda” powoduje, że nie można utworzyć hasła głównego.
 policy-DisablePasswordReveal = Wyłączenie możliwości wyświetlania haseł w zachowanych danych logowania.
 policy-DisablePocket2 = Wyłączenie funkcji zachowywania stron w { -pocket-brand-name }.

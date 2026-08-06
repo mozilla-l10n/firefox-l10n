@@ -71,6 +71,18 @@ fxa-menu-manage-account-subtitle = Konto zastojaś
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Za synchronizaciju pśizjawiś
+fxa-menu-sign-in-promo-message = Wobstarajśo se daty wšuźi
+fxa-menu-sign-in-promo-button =
+    .label = Pśizjawiś
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Pśizjawiś
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Sćo wótzjawjony
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Konfiguraciju dokóńcyś
 fxa-avatar-sign-in = Pśizjawiś
 fxa-avatar-sign-up = Registrěrowaś
 fxa-avatar-tooltip =
