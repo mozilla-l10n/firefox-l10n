@@ -497,6 +497,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Edytuj
+newtab-menu-add-topsite = Dodaj nowy skrót
 newtab-menu-open-new-window = Otwórz w nowym oknie
 newtab-menu-open-new-private-window = Otwórz w nowym oknie prywatnym
 newtab-menu-dismiss = Usuń z tej sekcji
