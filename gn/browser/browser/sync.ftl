@@ -59,6 +59,24 @@ fxa-menu-send-tab-to-device-description = Emondo tendayke oimeraẽva mba’e’
 fxa-menu-sign-out =
     .label = Ñesẽ…
 fxa-menu-sync-description = Eike ne ñandutiroguépe oimehágui
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Eñangareko mba’etére
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Eike embojuehe hag̃ua
+fxa-menu-sign-in-promo-message = Eraha mba’ekuaarã opárupi
+fxa-menu-sign-in-promo-button =
+    .label = Eike
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Eike
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Oñemboty eikehague
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Emohu’ã ñemboheko
 fxa-avatar-sign-in = Eñepyrũ tembiapo
 fxa-avatar-sign-up = Eñemboheraguapy
 fxa-avatar-tooltip =

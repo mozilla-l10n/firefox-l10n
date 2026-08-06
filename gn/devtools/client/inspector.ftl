@@ -44,3 +44,6 @@ inspector-emulation-panel-color-scheme-dark = Ypytũ
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Jehechauka’ỹ
     .aria-label = Eipe’a sa’y aty ñeha’ãha
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Momichĩ
+    .aria-label = Emyandy ñemongu’e michĩva ra’ãha

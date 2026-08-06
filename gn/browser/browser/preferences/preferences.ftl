@@ -2762,3 +2762,10 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Pe ñemboheko proxy ijeheguíva oñembojurujáma
     .description = Proxy ñemboheko ikatu omoneĩ ñanduti jerovia’ỹha ohechávo ne rembiapo.
+
+## Referrals Section
+
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Emoherakuã { -brand-short-name }
