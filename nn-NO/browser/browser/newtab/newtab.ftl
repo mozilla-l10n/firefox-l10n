@@ -1639,6 +1639,17 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Søkjeresultat
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Bynamn
+    .placeholder = Namnet på denne klokka
+    .aria-label = Bynamn
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Tidssone
+    .aria-label = Tidssone
+    .placeholder = Søk etter by, tidssone eller forskyving frå UTC
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Tilbake
 # Shown in place of the search results when the user's query does not match any
