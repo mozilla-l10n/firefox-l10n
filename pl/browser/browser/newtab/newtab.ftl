@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Prywatność
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Krzyżówka
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Giełda
@@ -322,6 +325,8 @@ newtab-privacy-message-first-protection-cta = Wyświetl ochronę
 newtab-stocks-menu-search = Wyszukaj symbole giełdowe
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Więcej informacji
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Dane giełdowe są niedostępne.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -761,6 +766,29 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Zamknij
 newtab-custom-settings = Więcej ustawień
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Wygląd
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Więcej motywów
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Motywy { -brand-product-name(case: "gen") }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Twoje motywy
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Włącz
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Wyłącz
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Zainstaluj motyw
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Odkryj więcej motywów
+
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Tapety
@@ -1144,6 +1172,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Anuluj
     .title = Anuluj
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Opcje list
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Utwórz nową listę

@@ -2775,6 +2775,9 @@ security-privacy-issue-warning-safe-browsing =
 security-privacy-issue-warning-doh2 =
     .label = DNS poprzez HTTPS jest wyłączony
     .description = DNS poprzez HTTPS pomaga ukrywać przed dostawcą Internetu informacje o witrynach, które zostaną zaraz otwarte.
+security-privacy-issue-warning-ech2 =
+    .label = Funkcja „Encrypted Client Hello” jest wyłączona
+    .description = Funkcja „Encrypted Client Hello” pomaga ukrywać przed dostawcą Internetu informacje o witrynach, które zostaną zaraz otwarte.
 security-privacy-issue-warning-doh =
     .label = DNS poprzez HTTPS jest wyłączony
     .description = DNS poprzez HTTPS ukrywa przed dostawcą Internetu informacje o otwieranych witrynach.
@@ -2784,3 +2787,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatyczna konfiguracja proxy jest włączona
     .description = Automatyczna konfiguracja serwerów proxy może pozwolić niezaufanym sieciom na monitorowanie Twoich działań.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Udostępnij { -brand-short-name(case: "acc") }
+    .description = Zachęć kogoś do wybrania przeglądarki, która stawia prywatność na pierwszym miejscu.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Udostępnij { -brand-short-name(case: "acc") }
