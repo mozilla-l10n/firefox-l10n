@@ -47,3 +47,9 @@ inspector-emulation-panel-color-scheme-none = Emulaziorik ez
 # A label text for the reduced motion emulation radio button option.
 inspector-emulation-panel-reduced-motion-reduce = Gutxiagotu
     .aria-label = Gaitu mugimenduen gutxiagotzearen emulazioa
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Hobespenik ez
+    .aria-label = Gaitu hobespenik eza mugimenduen gutxiagotzearen emulaziorako
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Emulaziorik ez
+    .aria-label = Desgaitu mugimenduen gutxiagotzearen emulazioa

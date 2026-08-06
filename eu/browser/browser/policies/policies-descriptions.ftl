@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Desgaitu Firefoxen pantaila-argazkien eginbid
 policy-DisableFirefoxStudies = Eragotzi { -brand-short-name }(r)i esperimentuak exekutatzea.
 policy-DisableForgetButton = Eragotzi 'Ahaztu' botoirako sarbidea.
 policy-DisableFormHistory = Ez gogoratu bilaketen eta inprimakien historia.
+policy-DisableLaunchOnLogin = Eragotzi { -brand-short-name }(r)i automatikoki abiatzea erabiltzaileak saioa hasten duenean.
 policy-DisablePrimaryPasswordCreation = Ezarrita badago, ezingo da pasahitz nagusia sortu.
 policy-DisablePasswordReveal = Ez baimendu gordetako saio-hasieretan pasahitzak agerraraztea.
 policy-DisablePocket2 = Desgaitu webguneak { -pocket-brand-name } zerbitzura gordetzeko eginbidea.
