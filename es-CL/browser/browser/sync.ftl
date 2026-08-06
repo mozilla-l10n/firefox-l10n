@@ -65,6 +65,18 @@ fxa-menu-manage-account-subtitle = Administrar cuenta
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Conectarse para sincronizar
+fxa-menu-sign-in-promo-message = Ten tus datos en todas partes
+fxa-menu-sign-in-promo-button =
+    .label = Conectarse
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Conectarse
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Te has desconectado
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Finalizar la configuración
 fxa-avatar-sign-in = Conectarse
 fxa-avatar-sign-up = Registrarse
 fxa-avatar-tooltip =

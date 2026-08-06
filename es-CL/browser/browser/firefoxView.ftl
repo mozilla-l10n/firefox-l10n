@@ -45,20 +45,30 @@ firefoxview-syncedtabs-adddevice-description-2 = Conectate en { -brand-product-n
 firefoxview-syncedtabs-adddevice-primarybutton = Prueba { -brand-product-name } para dispositivos móviles
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Tus pestañas llamaron. Están en tu celular.
+firefoxview-syncedtabs-adddevice-description-3 = Escanea el código QR para obtener { -brand-product-name } para dispositivos móviles y comienza a sincronizar tus pestañas abiertas y más. Aprende cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Aprender cómo
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar pestañas abiertas
+firefoxview-tabpickup-synctabs-primarybutton-2 = Activar sincronización de pestañas
 firefoxview-syncedtabs-synctabs-header = Actualiza tus ajustes de sincronización
 firefoxview-syncedtabs-synctabs-description = Para ver pestañas de otros dispositivos, debes sincronizar tus pestañas abiertas.
+firefoxview-syncedtabs-synctabs-header-2 = La sincronización de pestañas está desactivada
+firefoxview-syncedtabs-synctabs-description-2 = Vuelve a activar la sincronización para descargar todas tus pestañas desde otros dispositivos.
 firefoxview-syncedtabs-loading-header = Sincronización en proceso
 firefoxview-syncedtabs-loading-description = Cuando esté listo, verás las pestañas que tengas abiertas en otros dispositivos. Vuelve a consultar pronto.
+firefoxview-syncedtabs-loading-header-2 = Obteniendo tus pestañas…
+firefoxview-syncedtabs-loading-description-2 = Sincronización en proceso. Las pestañas estarán aquí pronto.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organización ha deshabilitado la sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar pestañas entre dispositivos porque tu administrador ha deshabilitado la sincronización.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } no puede sincronizar pestañas entre dispositivos porque tu organización ha deshabilitado la sincronización.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = La sincronización de pestañas está desactivada
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Tu organización bloqueó esta funcionalidad.
 firefoxview-tabpickup-network-offline-header = Revisa tu conexión a Internet
 firefoxview-tabpickup-network-offline-description = Si estás usando un firewall o un proxy, verifica que { -brand-short-name } tenga permiso para acceder a la web.
 firefoxview-tabpickup-network-offline-primarybutton = Volver a intentarlo
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } no puede conectarse en este momento
+firefoxview-tabpickup-network-offline-description-2 = Es posible que no tengas conexión a internet o que algo esté bloqueando la conexión.
 firefoxview-tabpickup-sync-error-header = Tenemos problemas para sincronizar
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } no puede comunicarse con el servicio de sincronización en este momento. Vuelve a intentarlo en unos instantes.
 # “Sync hit a snag” means that the sync process is having a problem and can’t connect.
@@ -74,6 +84,7 @@ firefoxview-tabpickup-password-locked-link = Aprender más
 firefoxview-tabpickup-password-locked-primarybutton = Ingresar contraseña primaria
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Aprender más</a>
 firefoxview-tabpickup-password-locked-header-2 = Desbloquea las pestañas con tu contraseña principal
+firefoxview-tabpickup-password-locked-description-2 = Para proteger tu privacidad, las pestañas sincronizadas están protegidas. Introduce tu contraseña primaria de { -brand-short-name } para ver las pestañas de tus otros dispositivos.
 firefoxview-tabpickup-signed-out-header = Conectarse para continuar
 firefoxview-tabpickup-signed-out-description = Para volver a sincronizar y obtener tus pestañas, conéctate a tu { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Para volver a sincronizar y obtener tus pestañas, conéctate a tu cuenta.

@@ -1638,6 +1638,9 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Resultados de la búsqueda
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Añade  “{ $city }” como un reloj personalizado
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
     .label = Nombre de la ciudad
