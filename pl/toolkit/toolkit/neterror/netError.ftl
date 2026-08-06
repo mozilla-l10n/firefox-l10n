@@ -161,7 +161,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Jeśli połąc
 certerror-expired-cert-what-can-you-do-about-it-clock = Zegar systemowy jest ustawiony na { DATETIME($now, dateStyle: "medium") }. Upewnij się, że urządzenie ma ustawioną prawidłową datę, czas i strefę czasową w ustawieniach systemowych. Następnie spróbuj otworzyć witrynę „<b>{ $hostname }</b>” ponownie.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Jeśli wskazania zegara systemowego są prawidłowe, to problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania. Możesz powiadomić administratora witryny o problemie.
 certerror-bad-cert-domain-what-can-you-do-about-it = Problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania. Możesz powiadomić administratora witryny o problemie.
-certerror-mitm-what-can-you-do-about-it-antivirus = Jeśli oprogramowania antywirusowe zawiera funkcję skanowania szyfrowanych połączeń (często nazywaną „skanowanie ruchu sieciowego” lub „skanowanie HTTPS”), można spróbować ją wyłączyć. Jeśli to nie pomoże, można usunąć i zainstalować oprogramowanie antywirusowe ponownie.
+certerror-mitm-what-can-you-do-about-it-antivirus = Jeśli oprogramowanie antywirusowe zawiera funkcję skanowania szyfrowanych połączeń (często nazywaną „skanowanie ruchu sieciowego” lub „skanowanie HTTPS”), można spróbować ją wyłączyć. Jeśli to nie pomoże, można usunąć i zainstalować oprogramowanie antywirusowe ponownie.
 certerror-mitm-what-can-you-do-about-it-corporate = W sieciach firmowych najlepiej kontaktować się z działami IT.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)

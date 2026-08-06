@@ -166,6 +166,15 @@ autofill-passport-country =
 autofill-passport-number =
     .label = شوماره
 
+## The passport capture doorhanger
+
+passport-capture-save-button =
+    .label = زفت
+    .accessKey = S
+passport-capture-not-now-button =
+    .label = سکو ن
+    .accessKey = w
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express
