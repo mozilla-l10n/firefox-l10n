@@ -34,6 +34,9 @@ fx-view-discoverability-secondary-button-label = رڌ کردن
 
 ## Split Dismiss Button Labels
 
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = نشووݩ داڌن پؽشنهاڌا کمتر
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = دؽوۉداری سامووا

@@ -154,6 +154,25 @@ aiwindow-close-sidebar =
     .aria-label = بستن
     .tooltiptext = بستن
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu-settings = سامووا { -smart-window-brand-name }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = چت نۊ
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = قلوه
+    .title = قلوه
+
 ## Smart Window Toggle Button (in-page)
 
 smartwindow-switch-to-smart-window = و { -smart-window-brand-name } بریوین
@@ -211,6 +230,9 @@ firefoxview-search-chat-results-count =
 smart-window-confirm-select-all =
     .label = پسند پوی
     .aria-label = پسند پوی
+smart-window-confirm-deselect-all =
+    .label = لقو پسند پوی
+    .aria-label = لقو پسند پوی
 smart-window-confirm-close-tab = بستن
 # Variables
 #   $count (number) - Number of tabs to close

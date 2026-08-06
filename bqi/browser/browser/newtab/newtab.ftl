@@ -199,7 +199,11 @@ newtab-privacy-message-info-3-cta = نیشتن زفت وابیڌنا
 newtab-privacy-message-info-4-cta = نیشتن زفت وابیڌنا
 newtab-privacy-message-info-5-cta = نیشتن زفت وابیڌنا
 newtab-privacy-message-info-6-cta = قلوه دووسته بۊین
+newtab-privacy-message-info-7-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-info-8-cta = قلوه دووسته بۊین
 newtab-privacy-message-info-11-cta = قلوه دووسته بۊین
+newtab-privacy-message-info-12-cta = نیشتن زفت وابیڌنا
+newtab-privacy-message-info-13-cta = نیشتن زفت وابیڌنا
 
 ## Privacy widget — promotional messages
 ##
@@ -1014,6 +1018,7 @@ newtab-widget-timer-celebration-heading-focus = کار نشمینی بی
 
 ##
 
+newtab-sports-widget-menu-follow-teams = و دین کردن تیما
 newtab-sports-widget-menu-view-schedule = نیشتن برنومه زمووی
 newtab-sports-widget-menu-view-results = نیشتن نتیجه یل
 newtab-sports-widget-menu-learn-more = قلوه دووسته بۊین
