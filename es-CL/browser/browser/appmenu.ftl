@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Última sincronización { $time }
     .label = Última sincronización { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizar y guardar datos
 appmenu-fxa-signed-in-label = Conectarse
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Conectarse para sincronizar
+appmenu-fxa-sign-in-promo-message = Ten tus datos en todas partes
+appmenu-fxa-sign-in-promo-button =
+    .label = Conectarse
 appmenu-fxa-setup-sync =
     .label = Activar la sincronización…
 appmenu-fxa-setup-sync-new = Activar
@@ -294,6 +300,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Acerca de { -brand-shorter-name }
     .accesskey = A
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Compartir { -brand-shorter-name }
+    .accesskey = r
 appmenu-get-help =
     .label = Obtener ayuda
     .accesskey = H
@@ -350,14 +361,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Conéctate a tu cuenta
 appmenuitem-monitor-title2 = Anticípate al robo de identidad
 appmenuitem-monitor-description2 = Recibe alertas sobre filtraciones de datos
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Alertas de filtración de datos de { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Recibir alertas de filtraciones de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Mantén tu correo electrónico privado
 appmenuitem-relay-description2 = Ayuda a prevenir el spam en tu bandeja de entrada
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Ver máscaras de correo electrónico
 appmenuitem-relay-description = Enmascara tu correo electrónico y teléfono reales
 appmenuitem-services-relay-description = Iniciar el panel de control de máscaras de correo electrónico
 appmenuitem-vpn-title2 = Oculta tu ubicación con { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Obtén protección adicional en todas las aplicaciones y dispositivos
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Abrir { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Dificulta el rastreo de tu navegación
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtén protección para todo el dispositivo
@@ -397,6 +415,9 @@ fxa-menu-create-profile-confirm =
     .label = Crear nuevo perfil
 fxa-menu-create-profile-learn-more =
     .label = ¿Qué son los perfiles?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Compartir { -brand-short-name }
+appmenuitem-share-firefox-description = Invita a alguien a elegir el navegador que prioriza la privacidad
 appmenu-profiles-2 =
     .label = Perfiles
 appmenu-profiles-header = Perfiles

@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Para ver las pestañas de tu tel
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = Tu { -brand-product-name } en todos tus dispositivos
 firefoxview-syncedtabs-signin-description-2 = Para ver las pestañas que tienes abiertas en tu teléfono y otros dispositivos, conéctate o crea una cuenta. Con una cuenta, también puedes sincronizar tus contraseñas, historial y más.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Desde el notebook hasta el celular, sin interrupciones.
+firefoxview-syncedtabs-signin-description-3 = Mantén tu navegación conectada en todos tus dispositivos: pestañas, contraseñas e historial, todo sincronizado.
 firefoxview-syncedtabs-signin-primarybutton-2 = Conectarse
 firefoxview-tabpickup-adddevice-header = Sincroniza { -brand-product-name } en tu teléfono o tablet
 firefoxview-tabpickup-adddevice-description = Descarga { -brand-product-name } para dispositivos móviles y conéctate allí.
@@ -40,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Obtén { -brand-product-name } p
 firefoxview-syncedtabs-adddevice-header-2 = Toma pestañas desde cualquier lugar
 firefoxview-syncedtabs-adddevice-description-2 = Conectate en { -brand-product-name } en tu teléfono u otro computador para ver las pestañas aquí. Aprende cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prueba { -brand-product-name } para dispositivos móviles
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Tus pestañas llamaron. Están en tu celular.
 firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Aprender cómo
@@ -56,6 +61,9 @@ firefoxview-tabpickup-network-offline-description = Si estás usando un firewall
 firefoxview-tabpickup-network-offline-primarybutton = Volver a intentarlo
 firefoxview-tabpickup-sync-error-header = Tenemos problemas para sincronizar
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } no puede comunicarse con el servicio de sincronización en este momento. Vuelve a intentarlo en unos instantes.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = La sincronización tuvo un chascarro
+firefoxview-tabpickup-generic-sync-error-description-2 = No se pudo conectar con { -brand-short-name }. Espera un momento y vuelve a intentarlo.
 firefoxview-tabpickup-sync-error-primarybutton = Volver a intentarlo
 firefoxview-tabpickup-sync-disconnected-header = Activa la sincronización para continuar
 firefoxview-tabpickup-sync-disconnected-description = Para recuperar tus pestañas, deberás permitir la sincronización en { -brand-short-name }.
@@ -65,10 +73,13 @@ firefoxview-tabpickup-password-locked-description = Para recuperar tus pestañas
 firefoxview-tabpickup-password-locked-link = Aprender más
 firefoxview-tabpickup-password-locked-primarybutton = Ingresar contraseña primaria
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Aprender más</a>
+firefoxview-tabpickup-password-locked-header-2 = Desbloquea las pestañas con tu contraseña principal
 firefoxview-tabpickup-signed-out-header = Conectarse para continuar
 firefoxview-tabpickup-signed-out-description = Para volver a sincronizar y obtener tus pestañas, conéctate a tu { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Para volver a sincronizar y obtener tus pestañas, conéctate a tu cuenta.
 firefoxview-tabpickup-signed-out-primarybutton = Conectarse
+firefoxview-tabpickup-signed-out-header-2 = Conéctate para ver tus pestañas
+firefoxview-tabpickup-signed-out-description-2 = Vuelve a conectarse para ver las pestañas desde otros dispositivos.
 firefoxview-tabpickup-syncing = Siéntate tranquilo mientras tus pestañas se sincronizan. Será solo un momento.
 firefoxview-mobile-promo-header = Mira las pestañas desde tu teléfono o tablet
 firefoxview-mobile-promo-description = Para ver tus últimas pestañas móviles, conéctate a { -brand-product-name } en iOS o Android.
@@ -210,6 +221,10 @@ firefoxview-show-all-history = Mostrar historial completo
 firefoxview-history-empty-header = Vuelve a donde has estado
 firefoxview-history-empty-description = A medida que navegas, las páginas que visitas serán mostradas aquí.
 firefoxview-history-empty-description-two = La protección de tu privacidad está en el corazón de lo que hacemos. Es por eso que puedes controlar la actividad que { -brand-short-name } recuerda, en tus <a data-l10n-name="history-settings-url">ajustes del historial</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Tu recorrido de navegación comienza aquí
+firefoxview-history-empty-description-2 = A medida que visites páginas, tu historial aparecerá aquí. Controla qué se guarda en <a data-l10n-name="history-settings-url">ajustes</a>.
 
 ##
 
@@ -223,6 +238,7 @@ firefoxview-dont-remember-history-empty-header-2 = Tienes el control de lo que {
 firefoxview-dont-remember-history-empty-description-one = En este momento, { -brand-short-name } no recuerda ni registra tu actividad de navegación. Para cambiar eso, <a data-l10n-name="history-settings-url-two">actualiza tus ajustes de historial</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Estás tras bambalinas
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } no está guardando tu historial ahora mismo. Puedes cambiarlo en cualquier momento en <a data-l10n-name="history-settings-url-two">ajustes</a>.
 
 ##
 

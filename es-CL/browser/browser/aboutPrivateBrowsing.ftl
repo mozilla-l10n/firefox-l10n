@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = ¿Quién todavía podría ver mi activid
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Estás tras bambalinas
+about-private-browsing-nova-info-subheader2 = Borraremos todas las búsquedas y conexiones cuando cierres todas tus ventanas privadas. Las protecciones integradas de { -brand-short-name } también están aquí, como el bloqueo de rastreadores.
 about-private-browsing-nova-info-subheader = Borraremos todas las búsquedas y conexiones al cerrar esta ventana. Las protecciones integradas de { -brand-short-name } también están acá, como el bloqueo de rastreadores.
