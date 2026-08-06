@@ -238,8 +238,11 @@ newtab-privacy-message-info-13-cta = Ehecha ñemo’ãrã
 ## Rotating "promo" secondary messages suggesting another Firefox feature. Each
 ## has a body plus a matched "-cta" button label.
 
+newtab-privacy-message-promo-monitor-1 = Ehecha ne maranduete oĩpara’e mba’ekuaarã ñembyaípe.
 newtab-privacy-message-promo-monitor-1-cta = Eikuaave
+newtab-privacy-message-promo-monitor-2 = Emo’ã ne marandu mba’ekuaarãita ñembogua ñemaña reigua ndive, 20 ñanduti veve peve.
 newtab-privacy-message-promo-monitor-2-cta = Eikuaave
+newtab-privacy-message-promo-signin-1 = Ereko techaukaha, ñe’ẽñemi ha tendaykeita papapýpe mba’e’okaita { -vendor-short-name } mba’ete ndive.
 newtab-privacy-message-promo-signin-1-cta = Eñemboheraguapy
 newtab-privacy-message-promo-vpn-1-cta = Embojuruja VPN
 newtab-privacy-message-promo-vpn-2-cta = Embojuruja VPN

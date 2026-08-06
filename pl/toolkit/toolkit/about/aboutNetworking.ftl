@@ -27,6 +27,37 @@ about-networking-ssl-tokens-summary-count =
         [few] { $count } tokeny
        *[many] { $count } tokenów
     }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } wygasł)
+        [few] ({ $count } wygasły)
+       *[many] ({ $count } wygasło)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B (zaoszczędzono { $saved }%)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used }/{ $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Klucz przegrody
+about-networking-ssl-tokens-tokens-column = Tokeny
+about-networking-ssl-tokens-expires = Wygasa
+about-networking-ssl-tokens-certificate = Certyfikat
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+        [few] { $count } tokeny
+       *[many] { $count } tokenów
+    }
+about-networking-ssl-tokens-ev-status = Certyfikat EV
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Łańcuch certyfikatów ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Certyfikaty negocjacji ({ $count })
 about-networking-refresh = Odśwież
 about-networking-auto-refresh = Automatyczne odświeżanie co 3 sekundy
 about-networking-hostname = Nazwa hosta
