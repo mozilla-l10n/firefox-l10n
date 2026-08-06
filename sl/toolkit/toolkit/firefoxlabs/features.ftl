@@ -82,9 +82,11 @@ experimental-features-newtab-widget-lists-and-timer-description = Imejte seznam 
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Vremenska napoved
+experimental-features-newtab-widget-weather-description = Oglejte si današnjo vremensko napoved po urah. <a data-l10n-name="connect">Delite svoje mnenje</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Slika dneva
+experimental-features-newtab-widget-picture-of-the-day-description = Popestrite svoj dan z vsakodnevnim navdihom. Vsak dan vas čaka nova slika, zanimivo dejstvo in sveža tapeta v hipu. <a data-l10n-name="connect">Delite svoje mnenje</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Ura
@@ -96,6 +98,8 @@ experimental-features-semantic-history-search-description = Z lokalnim modelom s
 # Tab Notes
 experimental-features-tab-notes =
     .label = Zapiski zavihka
+experimental-features-tab-notes-description = Zapiski na zavihkih so poskusna zmogljivost, ki omogoča dodajanje samolepljivih listkov na zavihke brskalnika. Zabeležite si vsebino, opomnike ali naslednje korake, da boste ob vrnitvi vedeli, zakaj ste zavihek odprli. Veseli bomo vaših povratnih informacij, saj želimo to zmogljivost še izboljšati. <a data-l10n-name="connect">Delite svoje mnenje</a>
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = Poenostavljen meni zavihkov
+experimental-features-tab-context-menu-description = Ob desnem kliku na zavihek se prikaže poenostavljen meni, ki omogoča lažji dostop do najpogostejših dejanj. <a data-l10n-name="connect">Delite svoje mnenje</a>

@@ -27,6 +27,10 @@ wallet-custom-scheme-warning-heading =
 wallet-custom-scheme-warning-host-app = Odpiranje povezave <strong>{ $scheme }</strong> omogoča <strong>{ $host }</strong>, da zahteva vašo resnično identiteto od aplikacije <strong>{ $appName }</strong>. Nadaljujte samo, če spletnemu mestu zaupate.
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-app = Odpiranje povezave <strong>{ $scheme }</strong> omogoča temu spletnemu mestu, da zahteva vašo resnično identiteto od aplikacije <strong>{ $appName }</strong>. Nadaljujte samo, če spletnemu mestu zaupate.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Če odprete povezavo <strong>{ $scheme }</strong>, lahko <strong>{ $host }</strong> zahteva vašo pravo identiteto iz vaše digitalne denarnice. Nadaljujte le, če spletnemu mestu zaupate.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Če odprete povezavo <strong>{ $scheme }</strong>, lahko spletno mesto zahteva vašo pravo identiteto iz vaše digitalne denarnice. Nadaljujte le, če spletnemu mestu zaupate.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
