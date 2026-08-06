@@ -499,3 +499,14 @@ nova-early-access-share-feedback-link = Podziel się opinią
     .accesskey = P
 nova-early-access-infobar-primary-button = OK
     .accesskey = O
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-pin-to-taskbar = Przypnij do paska zadań
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Zachowaj i zamknij { -brand-short-name(case: "acc") }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Zachowaj i kontynuuj
