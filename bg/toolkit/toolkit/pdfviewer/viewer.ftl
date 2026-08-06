@@ -399,6 +399,7 @@ pdfjs-editor-add-signature-image-upload-error-description = Проверете �
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button1-label = Управление на страници
 pdfjs-views-manager-pages-status-action-button-label = Управление
 pdfjs-toggle-views-manager-button1 =
     .title = Управление на страници

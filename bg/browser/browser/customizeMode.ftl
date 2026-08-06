@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Компактна (не се поддържа)
 customize-mode-undo-cmd =
     .label = Отмяна
+customize-mode-lwthemes-link-2 = Управление на теми
 customize-mode-lwthemes-link = Управление на темите
 customize-mode-touchbar-cmd =
     .label = Настройки на лентата за докосване…

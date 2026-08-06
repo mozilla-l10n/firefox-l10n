@@ -101,6 +101,8 @@ appmenu-remote-tabs-unverified = Профилът ви трябва да бъд�
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизиране сега
 appmenuitem-fxa-sign-in = Вписване в { -brand-product-name }
 appmenuitem-fxa-manage-account = Управление на профил
+fxa-menu-manage-devices =
+    .label = Управлявайте устройствата си
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Профил
 # Variables

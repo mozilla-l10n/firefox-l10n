@@ -47,3 +47,9 @@ inspector-emulation-panel-color-scheme-none = Jehechauka’ỹ
 # A label text for the reduced motion emulation radio button option.
 inspector-emulation-panel-reduced-motion-reduce = Momichĩ
     .aria-label = Emyandy ñemongu’e michĩva ra’ãha
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = jerohory’ỹva
+    .aria-label = Ani emyandy erohorýva ñemongu’e’i ra’ãha
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Ñeha’ã’ỹva
+    .aria-label = Eipe’a pe ñemongu’e’i ra’ãha

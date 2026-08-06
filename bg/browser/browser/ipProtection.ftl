@@ -42,6 +42,10 @@ upgrade-vpn-button = Опитайте { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-network-error-description = Свържете се с интернет, след което опитайте да включите VPN.
 
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Харесвате ли вградения VPN? Получете още повече защита извън { -brand-product-name } с { -mozilla-vpn-brand-name }.
+
 ## IP Protection bandwidth warning infobar
 
 # Variables
@@ -62,6 +66,9 @@ ip-protection-site-exceptions-all-sites-button =
             [one] { $count } сайт
            *[other] { $count } сайта
         }
+ip-protection-vpn-upgrade-link =
+    .label = Получете още повече защита извън { -brand-short-name } с { -mozilla-vpn-brand-name }
+    .description = Изберете персонализирани VPN местоположения и добавете защита към всичките си приложения на до пет устройства, независимо дали сте у дома или на обществена Wi-Fi.
 
 ## IP Protection dialogs
 
