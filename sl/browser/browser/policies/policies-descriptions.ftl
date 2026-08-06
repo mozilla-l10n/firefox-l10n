@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Onemogoči možnost Firefox Screenshots.
 policy-DisableFirefoxStudies = { -brand-short-name(sklon: "dajalnik") } prepreči izvajanje raziskav.
 policy-DisableForgetButton = Prepreči dostop do gumba Pozabi.
 policy-DisableFormHistory = Ne shranjuj zgodovine iskanja in obrazcev.
+policy-DisableLaunchOnLogin = Onemogoči samodejni zagon { -brand-short-name(sklon: "rodilnik") } ob prijavi uporabnika.
 policy-DisablePrimaryPasswordCreation = Če je "true", glavnega gesla ni mogoče ustvariti.
 policy-DisablePasswordReveal = Ne dovoli razkrivanja gesel na seznamu shranjenih prijav.
 policy-DisablePocket2 = Onemogoči možnost shranjevanja spletnih strani v { -pocket-brand-name }.

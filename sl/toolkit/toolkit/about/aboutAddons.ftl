@@ -609,6 +609,8 @@ mlmodel-formfill-engine = Z njegovo pomočjo { -brand-short-name } izpolnjuje ob
 addon-category-mlmodel = UI na napravi
 addon-category-mlmodel-title =
     .title = UI na napravi
+mlmodel-heading = Upravljaj modele umetne inteligence na napravi
+mlmodel-description = Nekatere funkcije in razširitve v { -brand-short-name }u poganjajo modeli umetne inteligence, ki delujejo neposredno na vaši napravi. Takšen pristop varuje vašo zasebnost in pogosto tudi pospeši delovanje. <a data-l10n-name="learn-more">Več o tem</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Odstrani
