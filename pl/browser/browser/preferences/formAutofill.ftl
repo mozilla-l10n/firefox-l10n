@@ -171,6 +171,20 @@ autofill-card-network = Wystawca karty
 # methods in their region.
 autofill-card-search-term-credit-cards = karty płatnicze, karty kredytowe, kredyt, karty, karty debetowe, debet, portfel, kasa
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Dodawanie paszportu
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Edycja paszportu
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Imię i nazwisko
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express
