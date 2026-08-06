@@ -162,6 +162,7 @@ appmenu-fxa-signed-in-label = Iniciar sesión
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Inicia sesión para sincronizar
+appmenu-fxa-sign-in-promo-message = Accede a tus datos desde cualquier lugar
 appmenu-fxa-sign-in-promo-button =
     .label = Iniciar sesión
 appmenu-fxa-setup-sync =
@@ -360,6 +361,8 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Inicie sesión en tu cuenta
 appmenuitem-monitor-title2 = Protégete del robo de identidad
 appmenuitem-monitor-description2 = Recibir alertas sobre filtraciones de datos
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Alertas de filtraciones de datos de { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Reciba alertas de filtración de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
