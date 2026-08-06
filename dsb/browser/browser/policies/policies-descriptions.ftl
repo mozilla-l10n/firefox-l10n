@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Funkciju Firefox Screenshots znjemóžniś.
 policy-DisableFirefoxStudies = { -brand-short-name } zakazaś, studije wuwjasć.
 policy-DisableForgetButton = Pśistup k tłocaškoju Zabyś zakazaś.
 policy-DisableFormHistory = Pytańsku a formularnu historiju se njespomnjeś.
+policy-DisableLaunchOnLogin = Zawoborajśo { -brand-short-name } awtomatiski startowaś, gaž se wužywaŕ pśizjawja.
 policy-DisablePrimaryPasswordCreation = Jolic to trjefijo, njedajo se głowne gronidło napóraś.
 policy-DisablePasswordReveal = Njedowóliś, až se gronidła w skłaźonych pśizjawjenjach pokazuju
 policy-DisablePocket2 = Funkciju składowanja webbokow do { -pocket-brand-name } znjemóžniś.

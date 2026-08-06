@@ -65,6 +65,12 @@ fxa-menu-send-tab-to-device-description = Sćelśo rejtarik ned na rěd, pla kó
 fxa-menu-sign-out =
     .label = Wótzjawiś…
 fxa-menu-sync-description = Mějśo pśistup k internetoju wót wšuźi
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Konto zastojaś
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Za synchronizaciju pśizjawiś
 fxa-avatar-sign-in = Pśizjawiś
 fxa-avatar-sign-up = Registrěrowaś
 fxa-avatar-tooltip =

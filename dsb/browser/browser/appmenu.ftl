@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Slědna synchronizacija: { $time }
     .label = Slědna synchronizacija: { $time }
 appmenu-fxa-sync-and-save-data2 = Synchronizěrowaś a daty składowaś
 appmenu-fxa-signed-in-label = Pśizjawiś
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Za synchronizaciju pśizjawiś
+appmenu-fxa-sign-in-promo-message = Wobstarajśo se daty wšuźi
+appmenu-fxa-sign-in-promo-button =
+    .label = Pśizjawiś
 appmenu-fxa-setup-sync =
     .label = Synchronizaciju zmóžniś…
 appmenu-fxa-setup-sync-new = Zmóžniś
@@ -355,14 +361,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Pśizjawśo se pla swójogo konta
 appmenuitem-monitor-title2 = Wóstańśo wó kusack pśed kšadnjenim identity
 appmenuitem-monitor-description2 = Dostańśo warnowanja wó datowych źěrach
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Warnowanja datowych źěrow { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dostańśo warnowanja wó datowych źěrach
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Źaržćo swóju e-mail priwatnu
 appmenuitem-relay-description2 = Zajźujo spamoju we wašom postowem dochaźe
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = E-mailowe maski pokazaś
 appmenuitem-relay-description = Maskěrujśo swóju napšawdnu e-mailowu adresu a swój telefon
 appmenuitem-services-relay-description = Startujśo delu e-mailowych maskow
 appmenuitem-vpn-title2 = Schowajśo swójo stojnišćo z { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Dostańśo pśidatny šćit na nałoženjach a rědach
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = { -mozilla-vpn-brand-name } wócyniś
 appmenuitem-vpn-description3 = Póśěžćo slědowanje swójogo pśeglědowanja
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Wobstarajśo se šćit za ceły rěd

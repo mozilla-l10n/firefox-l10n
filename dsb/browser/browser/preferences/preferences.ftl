@@ -2792,3 +2792,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Awtomatiska konfiguracija proksy jo zmóžnjona
     .description = Awtomatiska konfiguracija proksy mógła dowěry njegódnym seśam zmóžniś, wašu aktiwitu wobglědowaś.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = { -brand-short-name } źěliś
+    .description = Pśepšosćo někogo, aby wobglědowak wubrał, kótaryž priwatnosć na prědne městno staja.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = { -brand-short-name } źěliś
