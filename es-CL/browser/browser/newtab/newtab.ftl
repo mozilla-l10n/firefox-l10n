@@ -1653,6 +1653,8 @@ newtab-clock-widget-custom-zone-results =
     .aria-label = Resultados de zona horaria
 # Shown in the time-zone picker when the search matches no time zones.
 newtab-clock-widget-custom-zone-no-results = No hay zonas horarias que coincidan
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Atrás
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

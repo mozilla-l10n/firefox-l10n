@@ -59,6 +59,12 @@ fxa-menu-send-tab-to-device-description = Envía de forma instantánea una pesta
 fxa-menu-sign-out =
     .label = Salir…
 fxa-menu-sync-description = Accede a tu web desde cualquier lugar
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Administrar cuenta
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Conectarse para sincronizar
 fxa-avatar-sign-in = Conectarse
 fxa-avatar-sign-up = Registrarse
 fxa-avatar-tooltip =
