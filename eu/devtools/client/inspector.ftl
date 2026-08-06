@@ -44,3 +44,6 @@ inspector-emulation-panel-color-scheme-dark = Iluna
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Emulaziorik ez
     .aria-label = Desgaitu kolore-eskemaren emulazioa
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Gutxiagotu
+    .aria-label = Gaitu mugimenduen gutxiagotzearen emulazioa
