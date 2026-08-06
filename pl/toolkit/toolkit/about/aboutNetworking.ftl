@@ -19,6 +19,14 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Zweryfikowane
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Klucz izolacji
+about-networking-ssl-tokens = Tokeny TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } token
+        [few] { $count } tokeny
+       *[many] { $count } tokenów
+    }
 about-networking-refresh = Odśwież
 about-networking-auto-refresh = Automatyczne odświeżanie co 3 sekundy
 about-networking-hostname = Nazwa hosta

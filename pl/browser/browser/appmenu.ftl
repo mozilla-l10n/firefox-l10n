@@ -116,6 +116,40 @@ appmenu-remote-tabs-unverified = Konto musi zostać zweryfikowane.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizuj teraz
 appmenuitem-fxa-sign-in = Zaloguj się w { -brand-product-name(case: "loc") }
 appmenuitem-fxa-manage-account = Zarządzaj kontem
+fxa-menu-sync-status-on = Synchronizacja jest włączona
+fxa-menu-sync-status-off = Synchronizacja jest wyłączona
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Twoje dane nie są synchronizowane
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Włącz
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Zaloguj się do synchronizacji
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Synchronizuj „{ $deviceName }”
+fxa-menu-manage-sync-settings =
+    .label = Zarządzaj ustawieniami synchronizacji
+fxa-menu-add-device =
+    .label = Dodaj urządzenie
+fxa-menu-manage-devices =
+    .label = Zarządzaj swoimi urządzeniami
+fxa-menu-device-missing =
+    .label = Nie ma tutaj Twojego urządzenia?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Wszystkie urządzenia
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Wszystkie urządzenia
+fxa-menu-get-firefox-mobile =
+    .label = Pobierz { -brand-product-name(case: "acc") } na Androida lub iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Bezpieczna synchronizacja
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
@@ -125,6 +159,11 @@ appmenu-fxa-last-sync = Ostatnia synchronizacja: { $time }
     .label = Ostatnia synchronizacja: { $time }
 appmenu-fxa-sync-and-save-data2 = Synchronizuj i zachowuj dane
 appmenu-fxa-signed-in-label = Zaloguj się
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Zaloguj się do synchronizacji
+appmenu-fxa-sign-in-promo-button =
+    .label = Zaloguj się
 appmenu-fxa-setup-sync =
     .label = Włącz synchronizację…
 appmenu-fxa-setup-sync-new = Włącz
@@ -260,6 +299,11 @@ appmenu-help-header =
 appmenu-about =
     .label = O programie { -brand-shorter-name }
     .accesskey = O
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Udostępnij { -brand-shorter-name(case: "acc") }
+    .accesskey = U
 appmenu-get-help =
     .label = Pomoc
     .accesskey = P
@@ -273,6 +317,9 @@ appmenu-help-share-ideas =
     .accesskey = d
 appmenu-help-switch-device =
     .label = Przechodzenie na nowe urządzenie
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Pomoc i zgłaszanie
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -313,14 +360,20 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Zaloguj się na konto
 appmenuitem-monitor-title2 = Chroń się przed kradzieżą tożsamości
 appmenuitem-monitor-description2 = Otrzymuj powiadomienia o wyciekach danych
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Powiadomienia o wyciekach danych { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Otrzymuj powiadomienia o wyciekach danych
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Zachowaj prywatność adresu e-mail
 appmenuitem-relay-description2 = Pomaga zapobiegać spamowi w skrzynce odbiorczej
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Wyświetl maski dla adresu e-mail
 appmenuitem-relay-description = Zamaskuj swój prawdziwy adres e-mail i telefon
 appmenuitem-services-relay-description = Otwórz panel masek dla adresów e-mail
 appmenuitem-vpn-title2 = Ukryj swoje położenie za pomocą { -mozilla-vpn-brand-name }
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Otwórz { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Utrudnij śledzenie Twoich działań w Internecie
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Chroń całe urządzenie
@@ -343,9 +396,30 @@ appmenu-manage-profiles =
     .label = Zarządzaj profilami
 appmenu-copy-profile =
     .label = Kopiuj ten profil
+appmenu-create-profile2 =
+    .label = Utwórz nowy profil
 appmenu-create-profile =
     .label = Nowy profil
 appmenu-edit-profile =
     .aria-label = Edytuj profil
+appmenu-edit-this-profile =
+    .label = Edytuj ten profil
+appmenu-profile-current-in-use = Obecnie używany profil
+fxa-menu-create-profile-subpanel =
+    .title = Utwórz nowy profil
+fxa-menu-create-profile-confirm =
+    .label = Utwórz nowy profil
+fxa-menu-create-profile-learn-more =
+    .label = Czym są profile?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Udostępnij { -brand-short-name(case: "acc") }
+appmenuitem-share-firefox-description = Zachęć kogoś do wybrania przeglądarki, która stawia prywatność na pierwszym miejscu
 appmenu-profiles-2 =
     .label = Profile
+appmenu-profiles-header = Profile
+appmenu-all-profiles =
+    .label = Wszystkie profile
+appmenu-secure-sync-header = Bezpieczna synchronizacja
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Wyślij bieżącą stronę do tego urządzenia
