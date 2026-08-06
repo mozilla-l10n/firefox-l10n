@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Azken sinkronizazioa { $time }
     .label = Azken sinkronizazioa { $time }
 appmenu-fxa-sync-and-save-data2 = Sinkronizatu eta gorde datuak
 appmenu-fxa-signed-in-label = Hasi saioa
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Hasi saioa sinkronizatzeko
+appmenu-fxa-sign-in-promo-message = Izan zure datuak edonon
+appmenu-fxa-sign-in-promo-button =
+    .label = Hasi saioa
 appmenu-fxa-setup-sync =
     .label = Gaitu sinkronizazioa…
 appmenu-fxa-setup-sync-new = Aktibatu
@@ -355,14 +361,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Hasi saioa zure kontuan
 appmenuitem-monitor-title2 = Hartu aurre identitate-lapurretari
 appmenuitem-monitor-description2 = Jaso datu-urratzeei buruzko alertak
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } datu-urratzeei buruzko alertak
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Eskuratu datu-urratzeei buruzko alertak
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Mantendu pribatu zure helbide elektronikoa
 appmenuitem-relay-description2 = Sarrera-ontziko spama eragozten laguntzen du
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Ikusi posta-maskarak
 appmenuitem-relay-description = Maskaratu zure benetako helbide elektronikoa eta telefonoa
 appmenuitem-services-relay-description = Abiarazi helbide elektronikoen maskaren arbela
 appmenuitem-vpn-title2 = Ezkutatu zure kokapena { -mozilla-vpn-brand-name } erabiliz
+appmenuitem-vpn-description4 = Izan babes estra aplikazio eta gailuen artean
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Ireki { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Zaildu zure nabigazioaren aztarna jarraitzea
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Eskuratu gailu osoaren babesa

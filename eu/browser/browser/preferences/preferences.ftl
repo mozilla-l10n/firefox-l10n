@@ -2782,3 +2782,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Proxyaren konfigurazio automatikoa gaituta dago
     .description = Proxyaren konfigurazio automatikoak sare ez fidagarriei zure jarduera monitorizatzen utz liezaioke.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Partekatu { -brand-short-name }
+    .description = Gonbidatu norbait pribatutasuna lehenesten duen nabigatzailea aukeratzera.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Partekatu { -brand-short-name }

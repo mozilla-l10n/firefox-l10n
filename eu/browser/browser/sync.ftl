@@ -57,6 +57,24 @@ fxa-menu-send-tab-to-device-description = Bidali fitxa bat berehala saioa hasita
 fxa-menu-sign-out =
     .label = Amaitu saioa…
 fxa-menu-sync-description = Izan zure weberako sarbidea edonon
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Kudeatu kontua
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Hasi saioa sinkronizatzeko
+fxa-menu-sign-in-promo-message = Izan zure datuak edonon
+fxa-menu-sign-in-promo-button =
+    .label = Hasi saioa
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Hasi saioa
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Saioa hasi gabe duzu
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Amaitu konfigurazioa
 fxa-avatar-sign-in = Hasi saioa
 fxa-avatar-sign-up = Eman izena
 fxa-avatar-tooltip =
