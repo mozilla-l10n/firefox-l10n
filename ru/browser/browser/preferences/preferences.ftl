@@ -2787,3 +2787,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Автонастройка прокси включена
     .description = Автоматическая настройка прокси может позволить ненадежным сетям отслеживать вашу активность.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Поделитесь { -brand-short-name }
+    .description = Предложите кому-нибудь выбрать браузер, ставящий приватность на первое место.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Поделитесь { -brand-short-name }

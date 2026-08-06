@@ -24,7 +24,7 @@ more-from-moz-qr-code-box-firefox-mobile-button = Enviar un enlace de descarga a
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Código QR para descargar { -brand-product-name } para móvil
 more-from-moz-button-mozilla-vpn-2 = Obtener la VPN
-more-from-moz-learn-more-link = Saber más
+more-from-moz-learn-more-link = Más información
 more-from-moz-title2 = Más de { -vendor-short-name }
     .title = Más de { -vendor-short-name }
 

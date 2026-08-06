@@ -159,6 +159,11 @@ appmenu-fxa-last-sync = Sist synkronisert { $time }
     .label = Sist synkronisert { $time }
 appmenu-fxa-sync-and-save-data2 = Synkroniser og lagre data
 appmenu-fxa-signed-in-label = Logg inn
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Logg inn for å synkronisere
+appmenu-fxa-sign-in-promo-button =
+    .label = Logg inn
 appmenu-fxa-setup-sync =
     .label = Slå på synkronisering …
 appmenu-fxa-setup-sync-new = Slå på
@@ -355,6 +360,8 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Logg inn på kontoen din
 appmenuitem-monitor-title2 = Vær i forkant av identitetstyveri
 appmenuitem-monitor-description2 = Få varsler om datalekkasjer
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Varsler om datalekkasjer
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få varsler om datalekkasjer
 appmenuitem-relay-title = { -relay-brand-short-name }

@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Privacidad
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Crucigrama
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Stocks
@@ -166,6 +169,37 @@ home-prefs-mission-message-learn-more-link-srd = Descubre cómo
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Más información
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Rastreador bloqueado hoy
+       *[other] Rastreadores bloqueados hoy
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] En { $count } sitio web
+       *[other] En { $count } sitios web
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } bloquea los rastreadores mientras navegas. Aquí verás los que se hayan bloqueado.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -188,9 +222,9 @@ newtab-privacy-message-info-13-cta = Ver protecciones
 ## has a body plus a matched "-cta" button label.
 
 newtab-privacy-message-promo-monitor-1 = Averigua si tu información personal aparece en filtraciones de datos.
-newtab-privacy-message-promo-monitor-1-cta = Saber más
+newtab-privacy-message-promo-monitor-1-cta = Más información
 newtab-privacy-message-promo-monitor-2 = Protege tu información con el monitoreo gratuito de filtraciones de datos (incluye hasta 20 correos electrónicos).
-newtab-privacy-message-promo-monitor-2-cta = Aprender más
+newtab-privacy-message-promo-monitor-2-cta = Más información
 newtab-privacy-message-promo-signin-1 = Mantén tus marcadores, contraseñas y pestañas cifrados en todos tus dispositivos con tu cuenta de { -vendor-short-name }.
 newtab-privacy-message-promo-signin-1-cta = Iniciar sesión
 newtab-privacy-message-promo-vpn-1 = ¿Realizas tus compras usando Wi-Fi público? Activa la VPN integrada para mayor protección.
@@ -262,6 +296,10 @@ newtab-privacy-message-first-protection-cta = Ver protecciones
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Buscar símbolos bursátiles
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Más información
 # Shown in the Stocks widget when its data could not be loaded.
 newtab-stocks-error-not-available = Los datos bursátiles no están disponibles.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
@@ -431,7 +469,7 @@ newtab-menu-section-block = Bloquear
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow-topic = Dejar de seguir
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
-newtab-menu-section-learn-more = Saber más
+newtab-menu-section-learn-more = Más información
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Dejar de seguir tema
@@ -558,7 +596,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Casi cargamos esta 
 newtab-pocket-read-more = Temas populares:
 newtab-pocket-new-topics-title = ¿Quieres aún más historias? Mira estos temas populares de { -pocket-brand-name }
 newtab-pocket-more-recommendations = Más recomendaciones
-newtab-pocket-learn-more = Saber más
+newtab-pocket-learn-more = Más información
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Guarda las historias que quieras en { -pocket-brand-name } y llena tu mente con fascinantes lecturas.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } es parte de la familia { -brand-product-name }
@@ -807,7 +845,7 @@ newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Cambiar a Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Cambiar a Celsius
 newtab-weather-menu-hide-weather = Ocultar el clima en la nueva pestaña
-newtab-weather-menu-learn-more = Saber más
+newtab-weather-menu-learn-more = Más información
 newtab-weather-menu-detect-my-location = Detectar mi ubicación
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Los datos meteorológicos no están disponibles de momento.
@@ -988,7 +1026,7 @@ newtab-report-content-spam-misleading =
     .label = Spam o engañoso
 newtab-report-content-requires-payment-subscription =
     .label = Requiere pago o suscripción
-newtab-report-content-requires-payment-subscription-learn-more = Saber más
+newtab-report-content-requires-payment-subscription-learn-more = Más información
 newtab-report-cancel = Cancelar
 newtab-report-submit = Enviar
 newtab-toast-thanks-for-reporting =
@@ -1030,7 +1068,7 @@ newtab-widget-lists-menu-edit2 =
 newtab-widget-lists-menu-create = Crear una nueva lista
 newtab-widget-lists-menu-delete = Eliminar esta lista
 newtab-widget-lists-menu-copy = Copiar la lista al portapapeles
-newtab-widget-lists-menu-learn-more = Saber más
+newtab-widget-lists-menu-learn-more = Más información
 newtab-widget-lists-button-add-item = Agregar un elemento
 newtab-widget-lists-input-add-an-item2 =
     .placeholder = Agregar un elemento
@@ -1095,7 +1133,7 @@ newtab-widget-add-widgets-button =
     .title = Agregar widget
 newtab-widget-section-menu-manage = Administrar widgets
 newtab-widget-section-menu-hide-all = Ocultar widgets
-newtab-widget-section-menu-learn-more = Saber más
+newtab-widget-section-menu-learn-more = Más información
 newtab-widget-section-feedback = Dinos lo que piensas
 # Button shown when additional widgets are hidden beyond the
 # first row, allowing users to show them.
@@ -1203,7 +1241,7 @@ newtab-sports-widget-menu-view-upcoming = Ver próximos
 newtab-sports-widget-menu-view-results = Ver resultados
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Fechas importantes
-newtab-sports-widget-menu-learn-more = Saber más
+newtab-sports-widget-menu-learn-more = Más información
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = No te pierdas nada del Mundial
 newtab-sports-widget-get-updates = Recibe actualizaciones del partido en vivo y más.
@@ -1455,7 +1493,7 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 # Context menu item: toggle the clock card off.
 newtab-clock-widget-menu-hide = Ocultar reloj
-newtab-clock-widget-menu-learn-more = Saber más
+newtab-clock-widget-menu-learn-more = Más información
 newtab-clock-widget-menu-edit = Editar relojes
 newtab-clock-widget-menu-switch-to-12h = Cambiar al formato de 12 horas
 newtab-clock-widget-menu-switch-to-24h = Cambiar al formato de 24 horas

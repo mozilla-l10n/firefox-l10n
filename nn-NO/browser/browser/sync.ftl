@@ -70,6 +70,8 @@ fxa-menu-sign-in-promo-button =
 # a reason, and a button to sign back in.
 fxa-menu-signed-out-sign-in-button =
     .label = Logg inn
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Du er utlogga
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Fullfør oppsettet
 fxa-avatar-sign-in = Logg inn

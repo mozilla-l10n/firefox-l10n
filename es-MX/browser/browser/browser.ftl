@@ -205,8 +205,8 @@ urlbar-result-menu-button =
     .title = Abrir menú
 urlbar-result-menu-button-feedback = Comentarios
     .title = Abrir menú
-urlbar-result-menu-learn-more2 = Saber más
-    .accesskey = S
+urlbar-result-menu-learn-more2 = Más información
+    .accesskey = L
 urlbar-result-menu-remove-from-history2 = Eliminar del historial
     .accesskey = E
 urlbar-result-menu-tip-get-help2 = Obtener ayuda
@@ -234,8 +234,8 @@ urlbar-input-remove-from-history =
     .label = Eliminar del historial
     .accesskey = e
 urlbar-result-menu-learn-more =
-    .label = Saber más
-    .accesskey = S
+    .label = Más información
+    .accesskey = L
 urlbar-result-menu-remove-from-history =
     .label = Eliminar del historial
     .accesskey = E
@@ -246,7 +246,7 @@ urlbar-result-menu-dismiss-suggestion =
     .label = Ignorar esta sugerencia
     .accesskey = D
 urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Saber más sobre { -firefox-suggest-brand-name }
+    .label = Más información sobre { -firefox-suggest-brand-name }
     .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = Administrar { -firefox-suggest-brand-name }
@@ -524,7 +524,7 @@ quickactions-cmd-labs = labs, experimento
 quickactions-cmd-viewsource = ver fuente, fuente
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
-    .title = Saber más sobre las Acciones rápidas
+    .title = Más información sobre Acciones rápidas
 # Will be shown to users the first configurable number of times
 # they experience actions giving them instructions on how to
 # select the action shown by pressing the tab key.
@@ -595,7 +595,7 @@ identity-https-only-info-turn-off3 = Si la página no funciona correctamente, es
 identity-https-only-info-no-upgrade = No se puede actualizar la conexión desde HTTP.
 identity-permissions-storage-access-header = Cookies entre sitios
 identity-permissions-storage-access-hint = Estas partes pueden usar cookies de sitios cruzados y datos del sitio mientras está en este sitio.
-identity-permissions-storage-access-learn-more = Saber más
+identity-permissions-storage-access-learn-more = Más información
 identity-permissions-reload-hint = Puede que tengas que recargar la página para que se apliquen los cambios.
 identity-clear-site-data =
     .label = Limpiar cookies y datos del sitio…
@@ -1019,7 +1019,7 @@ urlbar-result-explanation-last-visited-absolute-2 = Última visita: { $date }
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Obtén datos del mercado de valores directamente en tu barra de búsqueda
 # This string is shown as description when Market suggestion are disabled.
-urlbar-result-market-opt-in-description = Muestra actualizaciones del mercado y más de nuestros socios al compartir datos de consultas de búsqueda con { -vendor-short-name }. <a data-l10n-name="learn-more-link">Aprender más</a>
+urlbar-result-market-opt-in-description = Muestra actualizaciones del mercado y otro contenido de nuestros socios cuando compartes los datos de tus consultas de búsqueda con { -vendor-short-name }. <a data-l10n-name="learn-more-link">Más información</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Mostrar sugerencias
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -1592,7 +1592,7 @@ private-browsing-indicator-button =
 private-browsing-info-panel-title = Estás en una ventana privada
 # Body copy shown in the private browsing info panel. The learn-more link text
 # is embedded in the sentence.
-private-browsing-info-panel-description = Esto ayuda a mantener tu navegación oculta para otras personas que usen este dispositivo, pero no te hace invisible en línea. <a data-l10n-name="learn-more">¿Quién podría ver mi actividad?</a>
+private-browsing-info-panel-description = Esto ayuda a mantener tu navegación oculta para otras personas que usan este dispositivo, pero no te hace invisible en linea. <a data-l10n-name="learn-more">¿Quiénes podrían ver mi actividad?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1601,7 +1601,7 @@ content-analysis-indicator-tooltip =
 content-analysis-panel-title = Protección de datos
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text-styled = Tu organización utiliza <b>{ $agentName }</b> para protegerse contra la pérdida de datos. <a data-l10n-name="info">Aprender más</a>
+content-analysis-panel-text-styled = Tu organización utiliza <b>{ $agentName }</b> para protegerse contra la pérdida de datos. <a data-l10n-name="info">Más información</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1681,7 +1681,7 @@ firefox-relay-offer-legal-notice-1 = Al iniciar sesión y crear una máscara de 
 
 popup-notification-addon-install-unsigned =
     .value = (No verificado)
-popup-notification-xpinstall-prompt-learn-more = Saber más sobre cómo instalar complementos de forma segura
+popup-notification-xpinstall-prompt-learn-more = Más información sobre cómo instalar complementos de forma segura
 popup-notification-xpinstall-prompt-block-url = Ver detalles
 # Note: Access key is set to p to match "private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox2 =

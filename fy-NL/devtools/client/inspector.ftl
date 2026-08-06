@@ -44,3 +44,12 @@ inspector-emulation-panel-color-scheme-dark = Donker
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Gjin emulaasje
     .aria-label = Emulaasje fan kleureskema útskeakelje
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Beheine
+    .aria-label = Beheine-bewegingsemulaasje ynskeakelje
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Gjin foarkar
+    .aria-label = Gjin foarkar foar beheine-bewegingsemulaasje ynskeakelje
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Gjin emulaasje
+    .aria-label = Beheine-bewegingsemulaasje útskeakelje

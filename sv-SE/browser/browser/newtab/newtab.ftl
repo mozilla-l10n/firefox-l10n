@@ -1641,6 +1641,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Sökresultat
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Lägg till “{ $city }” som en anpassad klocka
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Stadsnamn
+    .aria-label = Stadsnamn
+    .placeholder = Ge klockan ett namn
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Tidszon
+    .aria-label = Tidszon
+    .placeholder = Sök efter stad, tidszon eller UTC-offset
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Resultat för tidszoner
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Inga matchande tidszoner
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Tillbaka
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

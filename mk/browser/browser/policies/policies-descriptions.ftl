@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Оневозможи ја особеност�
 policy-DisableFirefoxStudies = Спречи го извршувањето на студии од страна на { -brand-short-name }.
 policy-DisableForgetButton = Спречи пристап до копчето „Заборави“.
 policy-DisableFormHistory = Не памети историја на пребарување и формулари.
+policy-DisableLaunchOnLogin = Спречи автоматско стартување на { -brand-short-name } кога корисникот ќе се најави.
 policy-DisablePrimaryPasswordCreation = Ако е вклучено, не може да се креира главна лозинка.
 policy-DisablePasswordReveal = Не дозволувај да се откриваат лозинките во снимените пријавувања.
 policy-DisablePocket2 = Оневозможи ја особеноста за снимање мрежни страници во { -pocket-brand-name }.

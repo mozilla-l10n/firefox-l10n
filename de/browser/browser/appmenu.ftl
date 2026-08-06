@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Zuletzt synchronisiert { $time }
     .label = Zuletzt synchronisiert { $time }
 appmenu-fxa-sync-and-save-data2 = Daten synchronisieren und speichern
 appmenu-fxa-signed-in-label = Anmelden
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Zum Synchronisieren anmelden
+appmenu-fxa-sign-in-promo-message = Verwenden Sie Ihre Daten überall
+appmenu-fxa-sign-in-promo-button =
+    .label = Anmelden
 appmenu-fxa-setup-sync =
     .label = Synchronisation aktivieren…
 appmenu-fxa-setup-sync-new = Aktivieren
@@ -355,14 +361,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Melden Sie sich in Ihrem Konto an
 appmenuitem-monitor-title2 = Bleiben Sie dem Identitätsdiebstahl einen Schritt voraus
 appmenuitem-monitor-description2 = Erhalten Sie Warnungen bei Datenlecks
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Warnungen zu Datenlecks
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Erhalten Sie Warnmeldungen zu Datenlecks
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Schützen Sie Ihre E-Mail-Adresse
 appmenuitem-relay-description2 = Verhindert Spam in Ihrem Posteingang
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = E-Mail-Masken anzeigen
 appmenuitem-relay-description = Verbergen Sie Ihre echte E-Mail-Adresse und Telefonnummer
 appmenuitem-services-relay-description = Übersicht über E-Mail-Masken öffnen
 appmenuitem-vpn-title2 = Verbergen Sie Ihren Standort mit { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Holen Sie sich zusätzlichen Schutz für alle Apps und Geräte
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = { -mozilla-vpn-brand-name } öffnen
 appmenuitem-vpn-description3 = Erhöhen Sie die Sicherheit vor Rückverfolgung
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Schutz für das gesamte Gerät

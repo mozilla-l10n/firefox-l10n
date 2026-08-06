@@ -120,6 +120,7 @@ aiwindow-input-model-select-button-label-fast = ਤੇਜ਼
 aiwindow-input-model-select-button-label-allpurpose = ਲਚਕਦਾਰ
 aiwindow-input-model-select-button-label-personal = ਨਿੱਜੀ
 aiwindow-input-model-select-button-label-custom = ਕਸਟਮ
+aiwindow-input-model-select-button-description-custom = ਤੁਸੀਂ ਆਪਣਾ LLM ਵਰਤੋਂ
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -184,6 +185,35 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = ਬੰਦ ਕਰੋ
     .tooltiptext = ਬੰਦ ਕਰੋ
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = ਹੋਰ ਚੋਣਾਂ
+    .tooltiptext = ਹੋਰ ਚੋਣਾਂ
+aiwindow-history-menu-chat-history = ਚੈਟ ਦਾ ਅਤੀਤ
+aiwindow-history-menu-back =
+    .aria-label = ਪਿੱਛੇ
+    .tooltiptext = ਪਿੱਛੇ
+aiwindow-history-menu-view-all-chats = ਸਾਰੀਆਂ ਚੈਟਾਂ ਨੂੰ ਵੇਖੋ
+aiwindow-history-menu-settings = { -smart-window-brand-name } ਸੈਟਿੰਗਾਂ
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = ਨਵੀਂ ਚੈਟ
+aiwindow-fullpage-chat-history =
+    .label = ਚੈਟ ਦਾ ਅਤੀਤ
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = ਹੋਰ
+    .title = ਹੋਰ
 
 ## Sign out dialog
 
@@ -322,4 +352,12 @@ aiwindow-ai-chat-grid-grid-view =
 ## When localizing, please write them as short instructions a user would give to an assistant.
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
+aiwindow-starter-writing-first-draft = ਪਹਿਲਾਂ ਡਰਾਫਟ ਲਿਖੋ
 aiwindow-starter-writing-improve = ਲਿਖਣ ਨੂੰ ਸੁਧਾਰੋ
+aiwindow-starter-writing-proofread = ਸੁਨੇਹੇ ਨੂੰ ਪਰੂਫ-ਰੀਡ ਕਰੋ
+aiwindow-starter-planning-simplify = ਵਿਸ਼ੇ ਨੂੰ ਸਰਲ ਬਣਾਓ
+aiwindow-starter-planning-brainstorm = ਵਿਚਾਰਾਂ ਉੱਤੇ ਡੂੰਘੀ ਸੋਚ
+aiwindow-starter-planning-plan = ਪਲਾਨ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰੋ
+aiwindow-starter-browsing-history = ਅਤੀਤ ਵਿੱਚ ਟੈਬਾਂ ਨੂੰ ਲੱਭੋ
+aiwindow-starter-browsing-summarize = ਟੈਬਾਂ ਦਾ ਸਾਰ ਬਣਾਓ
+aiwindow-starter-browsing-compare = ਟੈਬਾਂ ਦੀ ਤੁਲਨਾ ਕਰੋ

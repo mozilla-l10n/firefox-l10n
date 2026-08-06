@@ -70,7 +70,7 @@ sync-setup-verify-heading = ¿Realmente deseas iniciar sesión para sincronizar?
 # that they will be merging the data from the previously signed in into the newly signed in one
 # Variables:
 #   $email - Email address of a user previously signed into sync.
-sync-setup-verify-description = Un usuario diferente se conectó anteriormente para sincronizar en esta computadora. Al conectarse se fusionarán los marcadores, contraseñas y otros ajustes con { $email }
+sync-setup-verify-description = Un usuario diferente se conectó anteriormente para sincronizar en esta computadora. Al conectarte se fusionarán los marcadores, contraseñas y otros ajustes con { $email }
 
 ## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 

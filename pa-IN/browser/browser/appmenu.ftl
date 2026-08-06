@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
     .label = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
 appmenu-fxa-sync-and-save-data2 = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸੰਭਾਲੋ
 appmenu-fxa-signed-in-label = ਸਾਈਨ ਇਨ
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+appmenu-fxa-sign-in-promo-message = ਆਪਣਾ ਡਾਟਾ ਹਰ ਥਾਂ ਲਵੋ
+appmenu-fxa-sign-in-promo-button =
+    .label = ਸਾਈਨ ਇਨ
 appmenu-fxa-setup-sync =
     .label = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ…
 appmenu-fxa-setup-sync-new = ਚਾਲੂ ਕਰੋ

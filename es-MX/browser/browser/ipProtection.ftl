@@ -56,6 +56,8 @@ ipprotection-feature-introduction-button-get-started = Comenzar
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Los límites de tu VPN integrada se restablecerán el 1 de septiembre
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Obtener { -mozilla-vpn-brand-name }
@@ -208,7 +210,7 @@ ip-protection-description =
 ip-protection-description-1 =
     .label = VPN integrada
     .description = Obtén privacidad adicional al ocultar tu ubicación mientras navegas.
-ip-protection-learn-more = Saber más
+ip-protection-learn-more = Más información
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =

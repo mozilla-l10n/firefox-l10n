@@ -2560,7 +2560,7 @@ preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = 封鎖的話，代表您不會在 { -brand-short-name } 看到目前已有，或新推出的 AI 擴充功能，或是任何有關這些功能的彈出提示。若需有關包含哪些功能、如何控制傳統機器學習技術的相關功能（如搜尋建議）的相關資訊，<a data-l10n-name="link">請參考此處</a>。
 preferences-ai-controls-blocked-message =
-    .message = 預設會封鎖目前與新推出的 AI 擴充功能，可使用下列控制設定針對特定功能解除封鎖。
+    .message = 預設會封鎖目前提供與新推出的 AI 擴充功能，可使用下列控制元件解除封鎖特定功能。
 preferences-ai-controls-on-device-group =
     .label = 本機裝置上的 AI
     .description = 這些功能會下載小型 AI 模型到您的裝置上運作，這樣可以幫助保護您的隱私。
@@ -2766,3 +2766,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = 已開啟 Proxy 自動設定
     .description = Proxy 自動設定功能可能會讓未受信任的網路監控您的上網行為。
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = 分享 { -brand-short-name }
+    .description = 邀請其他人選用將隱私看得最重要的瀏覽器。
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = 分享 { -brand-short-name }

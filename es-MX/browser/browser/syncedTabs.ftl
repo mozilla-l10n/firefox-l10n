@@ -63,7 +63,7 @@ synced-tabs-context-connect-another-device =
 synced-tabs-context-sync-now =
     .label = Sincronizar ahora
     .accesskey = S
-synced-tabs-fxa-sign-in = Iniciar sesión para sincronizar
+synced-tabs-fxa-sign-in = Inicia sesión para sincronizar
 synced-tabs-turn-on-sync = Activar sincronización
 # Context for hovering over the close tab button that will
 # send a push to the device to close said tab

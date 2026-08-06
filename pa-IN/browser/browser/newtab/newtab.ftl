@@ -1639,6 +1639,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = ਖੋਜ ਨਤੀਜੇ
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = “{ $city }” ਨੂੰ ਪਸੰਦੀਦਾ ਘਰੀ ਵਜੋਂ ਜੋੜੋ
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = ਸ਼ਹਿਰ ਦਾ ਨਾਂ
+    .aria-label = ਸ਼ਹਿਰ ਦਾ ਨਾਂ
+    .placeholder = ਇਸ ਘੜੀ ਦਾ ਨਾਂ
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = ਸਮਾਂ ਖੇਤਰ
+    .aria-label = ਸਮਾਂ ਖੇਤਰ
+    .placeholder = ਸ਼ਹਿਰ, ਸਮਾਂ ਖੇਤਰ ਜਾਂ UTC ਜਾਣਕਾਰੀ ਰਾਹੀਂ ਲੱਭੋ
+newtab-clock-widget-custom-zone-results =
+    .aria-label = ਸਮਾਂ ਖੇਤਰ ਨਤੀਜੇ
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = ਕੋਈ ਮਿਲਦਾ ਸਮਾਂ ਖੇਤਰ ਨਹੀਂ ਹੈ
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = ਪਿੱਛੇ
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
@@ -1653,7 +1673,7 @@ newtab-clock-widget-menu-button =
 newtab-clock-widget-label-nickname-with-value = ਪਸੰਦੀਦਾ ਨਾਂ: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
-newtab-clock-city-us-new-york = ਨਿਊਯਾਰਕ ਸ਼ਹਿਰ
+newtab-clock-city-us-new-york = ਨਿਊਯਾਰਕ
 newtab-clock-city-us-los-angeles = ਲਾਸ ਐਂਜਲਸ
 newtab-clock-city-us-chicago = ਸ਼ਿਕਾਗੋ
 newtab-clock-city-us-san-francisco = ਸੈਨ ਫ਼ਰਾਂਸਿਸਕੋ
@@ -1664,6 +1684,7 @@ newtab-clock-city-us-philadelphia = ਫਿਲਾਡੇਲਫਿਆ
 newtab-clock-city-us-atlanta = ਅਟਲਾਂਟਾ
 newtab-clock-city-us-washington-dc = ਵਾਸ਼ਿੰਗਟਨ, ਡੀ.ਸੀ.
 newtab-clock-city-us-boston = ਬੌਸਟਨ
+newtab-clock-city-us-miami = ਮਿਆਮੀ
 newtab-clock-city-us-seattle = ਸੀਐਟਲ
 newtab-clock-city-us-denver = ਡੈਨਵਰ
 newtab-clock-city-us-honolulu = ਹੋਨੋਲੁਲੂ
@@ -1687,6 +1708,7 @@ newtab-clock-city-br-sao-paulo = ਸਾਓ ਪਾਓਲੋ
 newtab-clock-city-br-rio-de-janeiro = ਰਿਓ ਡੀ ਜਨੇਰੋ
 newtab-clock-city-br-brasilia = ਬ੍ਰਾਜ਼ੀਲੀਆ
 newtab-clock-city-id-jakarta = ਜਕਾਰਤਾ
+newtab-clock-city-id-surabaya = ਸੁਰਾਬਾਯਾ
 newtab-clock-city-id-makassar = ਮਕਸਾਰ
 newtab-clock-city-ca-toronto = ਟੋਰਾਂਟੋ
 newtab-clock-city-ca-montreal = ਮੋਨਟਰਿਆਲ

@@ -50,13 +50,16 @@ firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Aprende cómo
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar pestañas abiertas
+firefoxview-tabpickup-synctabs-primarybutton-2 = Activar la sincronización de pestañas
 firefoxview-syncedtabs-synctabs-header = Actualiza tu configuración de sincronización
 firefoxview-syncedtabs-synctabs-description = Para ver pestañas de otros dispositivos, debes sincronizar tus pestañas abiertas.
+firefoxview-syncedtabs-synctabs-header-2 = La sincronización de pestañas está desactivada
 firefoxview-syncedtabs-loading-header = Sincronización en proceso
 firefoxview-syncedtabs-loading-description = Cuando esté listo, verás las pestañas que tengas abiertas en otros dispositivos. Vuelve a consultarlo más tarde.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organización ha deshabilitado la sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar pestañas entre dispositivos porque tu administrador ha deshabilitado la sincronización.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } no puede sincronizar pestañas entre dispositivos porque tu organización ha deshabilitado la sincronización.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = La sincronización de pestañas está desactivada
 firefoxview-tabpickup-network-offline-header = Revisa tu conexión a Internet
 firefoxview-tabpickup-network-offline-description = Si estás usando un firewall o un proxy, verifica que { -brand-short-name } tenga permiso para acceder a la web.
 firefoxview-tabpickup-network-offline-primarybutton = Intentar de nuevo
@@ -68,13 +71,15 @@ firefoxview-tabpickup-sync-disconnected-description = Para llevar tus pestañas 
 firefoxview-tabpickup-sync-disconnected-primarybutton = Activar la sincronización en los ajustes
 firefoxview-tabpickup-password-locked-header = Ingresa tu contraseña principal para ver las pestañas
 firefoxview-tabpickup-password-locked-description = Para obtener tus pestañas, deberás ingresar la contraseña principal para { -brand-short-name }.
-firefoxview-tabpickup-password-locked-link = Saber más
+firefoxview-tabpickup-password-locked-link = Más información
 firefoxview-tabpickup-password-locked-primarybutton = Ingresar contraseña principal
-firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saber más</a>
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Más información</a>
 firefoxview-tabpickup-signed-out-header = Inicia sesión para reconectar
 firefoxview-tabpickup-signed-out-description = Para volver a conectarte y obtener tus pestañas, inicia sesión en tu { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Para volver a sincronizar y obtener tus pestañas, conéctate a tu cuenta.
 firefoxview-tabpickup-signed-out-primarybutton = Iniciar sesión
+firefoxview-tabpickup-signed-out-header-2 = Inicia sesión para ver tus pestañas
+firefoxview-tabpickup-signed-out-description-2 = Vuelve a conectarte para ver las pestañas de otros dispositivos.
 firefoxview-tabpickup-syncing = Siéntate tranquilo mientras tus pestañas se sincronizan. Será solo un momento.
 firefoxview-mobile-promo-header = Agarra pestañas desde tu teléfono o tableta
 firefoxview-mobile-promo-description = Para ver tus últimas pestañas móviles, inicia sesión en { -brand-product-name } en iOS o Android.
@@ -216,6 +221,10 @@ firefoxview-show-all-history = Mostrar todo el historial
 firefoxview-history-empty-header = Vuelve a donde estabas
 firefoxview-history-empty-description = Cuando navegues, las páginas que visites aparecerán aquí.
 firefoxview-history-empty-description-two = La protección de tu privacidad está en el corazón de lo que hacemos. Es por eso que puedes controlar la actividad que { -brand-short-name } recuerda, en tus <a data-l10n-name="history-settings-url">ajustes del historial</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Tu historial de navegación comienza aquí
+firefoxview-history-empty-description-2 = A medida que visites las páginas, tu historial aparecerá aquí. Controla qué se guarda en <a data-l10n-name="history-settings-url">settings-url">ajustes</a>.
 
 ##
 
@@ -227,6 +236,9 @@ firefoxview-choose-browser-button = Elegir navegador
 
 firefoxview-dont-remember-history-empty-header-2 = Tienes el control de lo que { -brand-short-name } recuerda
 firefoxview-dont-remember-history-empty-description-one = En este momento, { -brand-short-name } no recuerda tu actividad de navegación. Para cambiarlo, <a data-l10n-name="history-settings-url-two">actualiza la configuración de tu historial</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Estás navegando de forma privada
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } no está guardando tu historial en este momento. Puedes cambiarlo en cualquier momento en <a data-l10n-name="history-settings-url-two">ajustes</a>.
 
 ##
 

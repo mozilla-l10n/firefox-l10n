@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Ultime synchronisation: { $time }
     .label = Ultime synchronisation: { $time }
 appmenu-fxa-sync-and-save-data2 = Synchronisar e salvar datos
 appmenu-fxa-signed-in-label = Aperir session
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Accede pro synchronisar
+appmenu-fxa-sign-in-promo-message = Accede a tu datos ubique
+appmenu-fxa-sign-in-promo-button =
+    .label = Acceder
 appmenu-fxa-setup-sync =
     .label = Activar synchronisation…
 appmenu-fxa-setup-sync-new = Activar

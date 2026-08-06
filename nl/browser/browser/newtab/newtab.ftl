@@ -1642,6 +1642,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Zoekresultaten
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = ‘{ $city }’ als een aangepaste klok toevoegen
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Plaatsnaam
+    .aria-label = Plaatsnaam
+    .placeholder = Deze klok een naam geven
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Tijdzone
+    .aria-label = Tijdzone
+    .placeholder = Zoeken op stad, tijdzone of UTC-verschil
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Tijdzoneresultaten
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Geen overeenkomende tijdzones
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Terug
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
@@ -1703,7 +1723,7 @@ newtab-clock-city-pl-warsaw = Warschau
 newtab-clock-city-pl-krakow = Krakau
 newtab-clock-city-jp-tokyo = Tokio
 newtab-clock-city-jp-osaka = Osaka
-newtab-clock-city-mx-mexico-city = Mexico-Stad
+newtab-clock-city-mx-mexico-city = Mexico-stad
 newtab-clock-city-mx-guadalajara = Guadalajara
 newtab-clock-city-it-rome = Rome
 newtab-clock-city-it-milan = Milaan
@@ -1721,7 +1741,7 @@ newtab-clock-city-ar-buenos-aires = Buenos Aires
 newtab-clock-city-gr-athens = Athene
 newtab-clock-city-hu-budapest = Boedapest
 newtab-clock-city-be-brussels = Brussel
-newtab-clock-city-ua-kyiv = Kiev
+newtab-clock-city-ua-kyiv = Kyiv
 newtab-clock-city-fi-helsinki = Helsinki
 newtab-clock-city-co-bogota = Bogota
 newtab-clock-city-ph-manila = Manilla

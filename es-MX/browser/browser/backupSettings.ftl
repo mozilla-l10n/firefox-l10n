@@ -98,7 +98,7 @@ backup-error-file-system = Hubo un problema con la carpeta de copia de seguridad
 
 turn-off-scheduled-backups-header = ¿Desactivar la copia de seguridad?
 turn-off-scheduled-backups-description = Esto también elimina todos tus datos de copia de seguridad. No se puede deshacer.
-turn-off-scheduled-backups-support-link = Saber más
+turn-off-scheduled-backups-support-link = Más información
 turn-off-scheduled-backups-cancel-button = Cancelar
 turn-off-scheduled-backups-confirm-button = Desactivar y eliminar la copia de seguridad
 
@@ -168,7 +168,7 @@ backup-service-error-went-wrong2 =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Hacer copia de seguridad de tus datos sensibles
-enable-backup-encryption-support-link = Saber más
+enable-backup-encryption-support-link = Más información
 enable-backup-encryption-create-password-label = Contraseña
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Repetir contraseña

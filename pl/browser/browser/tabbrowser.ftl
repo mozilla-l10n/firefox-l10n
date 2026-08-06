@@ -350,7 +350,7 @@ tab-group-editor-action-new-window =
 #  $linkCount (Number): the number of shareable links in the group.
 tab-group-editor-action-copy-links =
     .label =
-        { $tabCount ->
+        { $linkCount ->
             [one] Kopiuj odnośnik w grupie
             [few] Kopiuj { $linkCount } odnośniki w grupie
            *[many] Kopiuj { $linkCount } odnośników w grupie

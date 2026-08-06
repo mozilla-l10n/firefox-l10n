@@ -2782,3 +2782,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = La configuration automatique du proxy est activée
     .description = La configuration automatique du proxy pourrait permettre à des réseaux non fiables de surveiller votre activité.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Recommander { -brand-short-name }
+    .description = Inviter quelqu’un à choisir le navigateur qui respecte la vie privée.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Recommander { -brand-short-name }

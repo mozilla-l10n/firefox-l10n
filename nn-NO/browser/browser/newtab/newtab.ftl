@@ -1639,6 +1639,8 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Søkjeresultat
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Tilbake
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

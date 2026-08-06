@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = De Firefox Screenshots-funksje útskeakelje.
 policy-DisableFirefoxStudies = Foarkomme dat { -brand-short-name } ûndersiken útfiert.
 policy-DisableForgetButton = Tagong ta de knop Ferjitte foarkomme.
 policy-DisableFormHistory = Gjin syk- en formulierskiednis ûnthâlde.
+policy-DisableLaunchOnLogin = Foarkomme dat { -brand-short-name } automatysk start wurdt as de brûker oanmeldt.
 policy-DisablePrimaryPasswordCreation = Wannear true, kin gjin haadwachtwurd oanmakke wurde.
 policy-DisablePasswordReveal = Net tastean dat wachtwurden te sjen binne yn bewarre oanmeldingen.
 policy-DisablePocket2 = De funksje foar it bewarjen fan websiden nei { -pocket-brand-name } útskeakelje.

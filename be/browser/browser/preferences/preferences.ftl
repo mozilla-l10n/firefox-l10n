@@ -2787,3 +2787,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Аўтаматычная канфігурацыя проксі-сервера ўключана
     .description = Аўтаматычная канфігурацыя проксі-сервера можа дазволіць недавераным сеткам назіраць за вашай дзейнасцю.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Падзяліцца { -brand-short-name }
+    .description = Прапануйце каму-небудзь выбраць браўзер, які ставіць прыватнасць на першае месца.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Падзяліцца { -brand-short-name }

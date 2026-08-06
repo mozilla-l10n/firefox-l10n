@@ -207,4 +207,4 @@ bar-tooltip-cryptominer =
 privacy-metrics-title = تقرير حماية الخصوصية
 privacy-metrics-loading = يحمل إحصائيات الحماية…
 privacy-metrics-error = تعذّر تحميل إحصائيات الحماية.
-privacy-metrics-private-window = { -brand-short-name } يستمر في حظر أدوات التتبع في النوافذ الخاصة، ولكنه لا يحتفظ بسجل ما حُظر.
+privacy-metrics-private-window = { -brand-short-name } يستمر في حظر المتعقبات في النوافذ الخاصة، ولكنه لا يحتفظ بسجل ما حُظر.

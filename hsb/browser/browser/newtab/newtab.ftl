@@ -1668,6 +1668,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Pytanske wuslědki
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = “{ $city }” jako swójski časnik přidać
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Mjeno města
+    .aria-label = Mjeno města
+    .placeholder = Mjeno tutoho časnika
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Časowe pasmo
+    .aria-label = Časowe pasmo
+    .placeholder = Po měsće, časowym pasmje abo wotchilenju UTC pytać
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Wuslědki časoweho pasma
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Žane wotpowědne časowe pasma
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Wróćo
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
@@ -1684,30 +1704,53 @@ newtab-clock-widget-label-nickname-with-value = Přimjeno: { $nickname }
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
+newtab-clock-city-us-chicago = Chicago
+newtab-clock-city-us-san-francisco = San Francisco
+newtab-clock-city-us-san-diego = San Diego
 newtab-clock-city-us-dallas = Dallas
+newtab-clock-city-us-houston = Houston
+newtab-clock-city-us-philadelphia = Philadelphia
+newtab-clock-city-us-atlanta = Atlanta
 newtab-clock-city-us-washington-dc = Washington
 newtab-clock-city-us-boston = Boston
+newtab-clock-city-us-miami = Miami
+newtab-clock-city-us-seattle = Seattle
+newtab-clock-city-us-denver = Denver
+newtab-clock-city-us-honolulu = Honolulu
+newtab-clock-city-us-anchorage = Anchorage
 newtab-clock-city-de-berlin = Berlin
 newtab-clock-city-de-munich = Mnichow
 newtab-clock-city-de-frankfurt = Frankobrod nad Mohanom
 newtab-clock-city-de-hamburg = Hamburg
 newtab-clock-city-fr-paris = Paris
+newtab-clock-city-fr-lyon = Lyon
 newtab-clock-city-fr-marseille = Marseille
+newtab-clock-city-fr-toulouse = Toulouse
 newtab-clock-city-in-kolkata = Kalkutta
 newtab-clock-city-in-mumbai = Mumbai
+newtab-clock-city-in-delhi = Delhi
 newtab-clock-city-in-bangalore = Bangalore
+newtab-clock-city-cn-shanghai = Shanghai
 newtab-clock-city-cn-beijing = Peking
+newtab-clock-city-cn-shenzhen = Shenzhen
 newtab-clock-city-br-sao-paulo = São Paulo
 newtab-clock-city-br-rio-de-janeiro = Rio de Janeiro
 newtab-clock-city-br-brasilia = Brasília
 newtab-clock-city-id-jakarta = Jakarta
+newtab-clock-city-id-surabaya = Surabaya
+newtab-clock-city-id-makassar = Makassar
 newtab-clock-city-ca-toronto = Toronto
+newtab-clock-city-ca-montreal = Montreal
+newtab-clock-city-ca-vancouver = Vancouver
 newtab-clock-city-au-sydney = Sydney
+newtab-clock-city-au-perth = Perth
+newtab-clock-city-au-adelaide = Adelaide
 newtab-clock-city-pl-warsaw = Waršawa
 newtab-clock-city-pl-krakow = Krakow
 newtab-clock-city-jp-tokyo = Tokio
 newtab-clock-city-jp-osaka = Osaka
 newtab-clock-city-mx-mexico-city = Mexiko-město
+newtab-clock-city-mx-guadalajara = Guadalajara
 newtab-clock-city-it-rome = Rom
 newtab-clock-city-it-milan = Mailand
 newtab-clock-city-ru-moscow = Moskwa
@@ -1734,7 +1777,9 @@ newtab-clock-city-eg-cairo = Kairo
 newtab-clock-city-se-stockholm = Stockholm
 newtab-clock-city-ro-bucharest = Bukarest
 newtab-clock-city-th-bangkok = Bangkok
+newtab-clock-city-ng-lagos = Lagos
 newtab-clock-city-tw-taipei = Taipeh
+newtab-clock-city-za-johannesburg = Johannesburg
 newtab-clock-city-cl-santiago = Santiago
 newtab-clock-city-pk-karachi = Karači
 newtab-clock-city-bg-sofia = Sofija
@@ -1744,12 +1789,16 @@ newtab-clock-city-sa-riyadh = Riad
 newtab-clock-city-dk-copenhagen = Kopenhagen
 newtab-clock-city-pe-lima = Lima
 newtab-clock-city-ke-nairobi = Nairobi
+newtab-clock-city-nz-auckland = Auckland
 newtab-clock-city-kr-seoul = Seoul
 newtab-clock-city-lt-vilnius = Vilnius
 newtab-clock-city-ie-dublin = Dublin
+newtab-clock-city-ae-dubai = Dubai
 newtab-clock-city-lv-riga = Riga
 newtab-clock-city-pt-lisbon = Lisabon
 newtab-clock-city-ir-tehran = Teheran
 newtab-clock-city-bd-dhaka = Dhaka
+newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minhowe město
 newtab-clock-city-np-kathmandu = Katmandu
+newtab-clock-city-mm-yangon = Rangun

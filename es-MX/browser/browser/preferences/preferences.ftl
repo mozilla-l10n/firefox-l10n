@@ -4,7 +4,7 @@
 
 do-not-track-description = Enviar a los sitios web una señal de “No rastrear”, significa que no quieres ser rastreado
 do-not-track-removal = Ya no admitimos la señal “No rastrear”
-do-not-track-learn-more = Aprender más
+do-not-track-learn-more = Más información
 do-not-track-option-default-content-blocking-known =
     .label = Solo cuando { -brand-short-name } está configurado para bloquear los rastreadores conocidos
 do-not-track-option-always =
@@ -299,7 +299,7 @@ browser-containers-enabled-2 =
 browser-containers-enabled =
     .label = Habilitar pestañas contenedoras
     .accesskey = n
-browser-containers-learn-more = Saber más
+browser-containers-learn-more = Más información
 browser-containers-settings-2 =
     .label = Administrar ajustes
     .accesskey = i
@@ -725,12 +725,12 @@ drm-content-header = Contenido DRM (Digital Rights Management - Administración 
 play-drm-content =
     .label = Reproducir contenido controlado por DRM
     .accesskey = P
-play-drm-content-learn-more = Saber más
+play-drm-content-learn-more = Más información
 update-application-title = { -brand-short-name } actualizaciones
 update-application-description = Mantener { -brand-short-name } actualizado para el mejor rendimiento, estabilidad y seguridad.
 # Variables:
 # $version (string) - Firefox version
-update-application-version = Versión { $version } <a data-l10n-name="learn-more">Qué hay de nuevo</a>
+update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedades</a>
 update-history-2 =
     .label = Mostrar historial de actualizaciones
     .accesskey = p
@@ -818,7 +818,7 @@ performance-use-recommended-settings-checkbox =
     .label = Usar los ajustes de rendimiento recomendados
     .accesskey = U
 performance-use-recommended-settings-desc = Estos ajustes se adaptan al hardware y al sistema operativo de tu computadora.
-performance-settings-learn-more = Aprender más
+performance-settings-learn-more = Más información
 performance-allow-hw-accel =
     .label = Usa aceleración de hardware cuando esté disponible
     .accesskey = r
@@ -886,20 +886,20 @@ browsing-picture-in-picture-toggle-enabled =
 browsing-picture-in-picture-enable-when-switching-tabs =
     .label = Seguir reproduciendo videos en modo Picture-in-Picture al cambiar de pestaña
     .accesskey = s
-browsing-picture-in-picture-learn-more = Saber más
+browsing-picture-in-picture-learn-more = Más información
 browsing-media-control =
     .label = Controla los medios con el teclado, los auriculares o la interfaz virtual
     .accesskey = v
 recommendations-group =
     .label = Recomendaciones
-browsing-media-control-learn-more = Saber más
+browsing-media-control-learn-more = Más información
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
     .accesskey = R
 browsing-cfr-features =
     .label = Recomendar funciones mientras navegas
     .accesskey = R
-browsing-cfr-recommendations-learn-more = Aprender más
+browsing-cfr-recommendations-learn-more = Más información
 browsing-group =
     .label = Navegación
 
@@ -923,7 +923,7 @@ preferences-fonts-advanced-settings =
 
 network-settings-title = Configuración de red
 network-proxy-connection-description = Configurar como { -brand-short-name } se conecta a internet.
-network-proxy-connection-learn-more = Saber más
+network-proxy-connection-learn-more = Más información
 network-proxy-connection-settings =
     .label = Ajustes…
     .accesskey = e
@@ -1045,7 +1045,7 @@ home-prefs-snippets-description-new = Consejos y noticias de { -vendor-short-nam
 home-prefs-weather-header =
     .label = Clima
 home-prefs-weather-description = Pronóstico estimado para hoy
-home-prefs-weather-learn-more-link = Saber más
+home-prefs-weather-learn-more-link = Más información
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Soporte { -brand-product-name }
@@ -1249,8 +1249,8 @@ pane-account-sync-title2 = Cuenta y sincronización
 sync-signedout-caption = Lleva la Web contigo
 sync-signedout-description2 = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y ajustes en todos tus dispositivos.
 sync-signedout-account-signin3 =
-    .label = Iniciar sesión para sincronizar…
-    .accesskey = I
+    .label = Inicia sesión para sincronizar…
+    .accesskey = i
 sync-signedout-account-signin-4 =
     .label = Inicia sesión en tu cuenta para empezar a sincronizar
     .accesskey = i
@@ -1523,13 +1523,13 @@ forms-suggest-passwords =
 forms-breach-alerts =
     .label = Mostrar alertas sobre contraseñas para sitios web comprometidos
     .accesskey = b
-forms-breach-alerts-learn-more-link = Saber más
+forms-breach-alerts-learn-more-link = Más información
 preferences-relay-integration-checkbox =
     .label = Sugerir máscaras de correo electrónico { -relay-brand-name } para proteger tu dirección de correo electrónico
 preferences-relay-integration-checkbox2 =
     .label = Sugerir máscaras de correo electrónico { -relay-brand-name } para proteger su dirección de correo electrónico
     .accesskey = r
-relay-integration-learn-more-link = Saber más
+relay-integration-learn-more-link = Más información
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Autollenar inicios de sesión y contraseñas
@@ -1594,7 +1594,7 @@ forms-primary-pw-fips-title = Actualmente estás en modo FIPS. FIPS requiere de 
 forms-master-pw-fips-desc = Error al cambiar la contraseña
 forms-windows-sso =
     .label = Permitir un solo inicio de sesión de Windows para Microsoft, cuentas de trabajo y cuentas escolares
-forms-windows-sso-learn-more-link = Saber más
+forms-windows-sso-learn-more-link = Más información
 forms-windows-sso-desc = Administra las cuentas en la configuración de tu dispositivo
 windows-passkey-settings-label = Administrar claves de acceso en los ajustes del sistema
 
@@ -1810,7 +1810,7 @@ sitedata-total-size3 = Los sitios web están usando actualmente <strong>{ $value
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tus cookies, datos del sitio y caché almacenados ocupan actualmente un { $value } { $unit } del espacio en disco.
-sitedata-learn-more = Aprender más
+sitedata-learn-more = Más información
 sitedata-delete-on-close2 =
     .label = Borrar las cookies y los datos de los sitios cada vez que cierres { -brand-short-name }
     .accesskey = c
@@ -1889,7 +1889,7 @@ cookie-banner-handling-description = { -brand-short-name } rechaza automáticame
 
 cookie-banner-blocker-header = Bloqueador de banners de cookies
 cookie-banner-blocker-description = Cuando un sitio pregunta si puede utilizar cookies en el modo de navegación privada, { -brand-short-name } se niega automáticamente. Solo en sitios compatibles.
-cookie-banner-learn-more = Saber más
+cookie-banner-learn-more = Más información
 forms-handle-cookie-banners =
     .label = Reducir los avisos de cookies
 cookie-banner-blocker-checkbox-label =
@@ -1974,7 +1974,7 @@ addressbar-dismissed-suggestions-label-2 =
     .description = Restaurar las sugerencias descartadas de los patrocinadores y { -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button-2 =
     .label = Restaurar sugerencias
-addressbar-quickactions-learn-more = Saber más
+addressbar-quickactions-learn-more = Más información
 addressbar-dismissed-suggestions-label = Sugerencias descartadas
 addressbar-restore-dismissed-suggestions-description = Restaurar las sugerencias descartadas de los patrocinadores y { -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button =
@@ -1984,7 +1984,7 @@ addressbar-restore-dismissed-suggestions-button =
 
 content-blocking-enhanced-tracking-protection = Protección antirrastreo mejorada
 content-blocking-section-top-level-description = Los rastreadores te siguen en línea para recopilar información sobre tus hábitos e intereses de navegación. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
-content-blocking-learn-more = Saber más
+content-blocking-learn-more = Más información
 content-blocking-fpi-incompatibility-warning = Estás usando First Party Isolation (FPI), que reemplaza algunas de las configuraciones de cookies de { -brand-short-name }.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
@@ -2033,7 +2033,7 @@ content-blocking-known-and-suspected-fingerprinters = Detectores de huellas digi
 
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protección total contra las cookies contiene cookies para el sitio en el que está, así que los rastreadores no pueden usarlas para seguirte entre sitios.
-content-blocking-etp-standard-tcp-rollout-learn-more = Saber más
+content-blocking-etp-standard-tcp-rollout-learn-more = Más información
 content-blocking-etp-standard-tcp-title = Incluye Total Cookie Protection, nuestra función de privacidad más poderosa hasta ahora
 content-blocking-warning-title = ¡Atención!
 content-blocking-warning-title-2 = Algunos sitios pueden dejar de funcionar con la protección de seguimiento estricta
@@ -2128,7 +2128,7 @@ permissions-notification = Notificaciones
 permissions-notification-settings =
     .label = Ajustes…
     .accesskey = A
-permissions-notification-link = Saber más
+permissions-notification-link = Más información
 permissions-notification-pause =
     .label = Pausar las notificaciones hasta que { -brand-short-name } reinicie
     .accesskey = n
@@ -2206,7 +2206,7 @@ preferences-view-profiles = Ver todos los perfiles
 collection-description = Nos esforzamos en proporcionar opciones y recolectar solamente lo que necesitamos para proveer y mejorar { -brand-short-name } para todo el mundo. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Política de privacidad
 collection-health-report-telemetry-disabled = Ya no permites que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán en 30 días.
-collection-health-report-telemetry-disabled-link = Saber más
+collection-health-report-telemetry-disabled-link = Más información
 backup-multi-profile-warning-message =
     .message = Para asegurarte de que este cambio se incluya en tus respaldos, abre cada perfil y elige “Respaldar ahora” en los Ajustes.
 nimbus-rollouts =
@@ -2225,7 +2225,7 @@ collection-health-report2 =
 collection-health-report =
     .label = Permitir que { -brand-short-name } envíe información técnica y de interacción a { -vendor-short-name }
     .accesskey = r
-collection-health-report-link = Saber más
+collection-health-report-link = Más información
 collection-health-report-description = Esto nos ayuda a mejorar las funciones, el rendimiento y la estabilidad de { -brand-product-name }.
 collection-studies2 =
     .label = Instalar y ejecutar estudios
@@ -2251,11 +2251,11 @@ settings-redesign-promo-dismiss-button =
     .label = Entendido
 addon-recommendations =
     .label = Permitir que { -brand-short-name } haga recomendaciones personalizadas de extensiones
-addon-recommendations-link = Saber más
+addon-recommendations-link = Más información
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = El reporte de datos está deshabilitado para esta configuración de compilación
-collection-backlogged-crash-reports-with-link = Permitir que { -brand-short-name } envié informes de fallos acumulados en tu nombre. <a data-l10n-name="crash-reports-link">Aprender más</a>
+collection-backlogged-crash-reports-with-link = Permite que { -brand-short-name } envíe los informes de fallos pendientes en tu nombre. <a data-l10n-name="crash-reports-link">Más información</a>
     .accesskey = c
 privacy-segmentation-section-header = Nuevas funcionalidades que mejoran tu navegación
 privacy-segmentation-section-description = Cuando ofrecemos funciones que usan sus datos para brindarte una experiencia más personal:
@@ -2317,7 +2317,7 @@ security-browsing-protection = Protección contra contenido engañoso y software
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
     .accesskey = B
-security-enable-safe-browsing-link = Saber más
+security-enable-safe-browsing-link = Más información
 security-safe-browsing-warning =
     .message = Si desactivas esta opción, se reducirá la protección contra estafas, sitios maliciosos y descargas peligrosas.
 security-block-downloads =

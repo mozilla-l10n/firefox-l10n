@@ -2762,3 +2762,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = 프록시 자동 구성이 활성화됨
     .description = 프록시 자동 구성을 사용하면 신뢰할 수 없는 네트워크가 사용자의 활동을 모니터링할 수 있습니다.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = { -brand-short-name } 공유하기
+    .description = 개인 정보 보호를 최우선으로 하는 브라우저를 선택하도록 누군가를 초대하세요.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = { -brand-short-name } 공유하기

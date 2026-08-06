@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Odabirom Anthropic Claude prihvaćaš <a data
 genai-settings-chat-copilot-links = Odabirom Copilota pristajete na <a data-l10n-name="link1">Uvjete Copilot AI Experiences</a> i <a data-l10n-name="link2">Microsoftovu izjavu o privatnosti</a>.
 genai-settings-chat-gemini-links = Odabirom Google Gemini prihvaćaš <a data-l10n-name="link1">Googleove uvjete usluge</a>, <a data-l10n-name="link2">politiku o zabranjenoj upotrebi generativne umjetne inteligencije</a> i <a data-l10n-name="link3">Gemini Apps-ove napomene o privatnosti</a>.
 genai-settings-chat-huggingchat-links = Odabirom HuggingChat-a prihvaćaš <a data-l10n-name="link1">HuggingChat-ove napomene o privatnosti </a> i <a data-l10n-name="link2">Hugging Face-ove napomene o privatnosti</a>.
+genai-settings-chat-lechat-links-2 = Odabirom Mistral Vibe prihvaćaš <a data-l10n-name="link1">uvjete usluge</a> i <a data-l10n-name="link2">politiku privatnosti</a> tvrtke Mistral AI .
 genai-settings-chat-lechat-links = Odabirom Le Chat Mistrala prihvaćaš <a data-l10n-name="link1">uvjete usluge</a> i <a data-l10n-name="link2">politiku privatnosti</a> tvrtke Mistral AI .
 genai-settings-chat-localhost-links = Donesi vlastiti privatni lokalni chatbot kao što je <a data-l10n-name="link1">llamafile</a> iz grupe inovacija proizvođača { -vendor-short-name }.
 
@@ -68,6 +69,8 @@ genai-shortcut-button =
     .aria-label = Pitaj { $provider }
 genai-menu-new-badge = Novi
 genai-menu-summarize-page = Sažmi stranicu
+genai-input-ask-smart-window =
+    .placeholder = Pitaj…
 genai-input-ask-generic =
     .placeholder = Pitaj UI chatbota …
 # $provider (string) - name of the provider
@@ -108,6 +111,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Pitaj UI-chatbota
     .accesskey = c
+genai-menu-ask-smart-window =
+    .label = Pitaj…
+    .accesskey = j
 
 ## Chatbot header
 
@@ -167,6 +173,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Saznaj više o Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = Saznaj više o HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral

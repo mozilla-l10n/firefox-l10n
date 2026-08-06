@@ -2802,3 +2802,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Mae awtoffurfweddu dirprwyol wedi'i alluogi
     .description = Dyw awtoffurfweddu dirprwyol ddim yn caniatáu i rwydweithiau heb ymddiriedaeth fonito'ch gweithgaredd.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Rhannu { -brand-short-name }
+    .description = Gwahoddwch rywun i ddewis y porwr sy'n blaenoriaethu preifatrwydd.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Rhannu { -brand-short-name }

@@ -1638,6 +1638,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Іздеу нәтижелері
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = «{ $city }»  пайдаланушылық сағат ретінде қосу
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Қала атауы
+    .aria-label = Қала атауы
+    .placeholder = Бұл сағатқа ат қою
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Уақыт белдеуі
+    .aria-label = Уақыт белдеуі
+    .placeholder = Қала, уақыт белдеуі немесе UTC ығысуы бойынша іздеу
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Уақыт белдеуі нәтижелері
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Сәйкес келетін уақыт белдеулері жоқ
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Артқа
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
@@ -1679,6 +1699,7 @@ newtab-clock-city-fr-toulouse = Тулуза
 newtab-clock-city-in-kolkata = Калькутта
 newtab-clock-city-in-mumbai = Мумбаи
 newtab-clock-city-in-delhi = Дели
+newtab-clock-city-in-bangalore = Бангалор
 newtab-clock-city-cn-shanghai = Шаңхай
 newtab-clock-city-cn-beijing = Бейжің
 newtab-clock-city-cn-shenzhen = Шэньчжэнь
@@ -1686,6 +1707,7 @@ newtab-clock-city-br-sao-paulo = Сан-Паулу
 newtab-clock-city-br-rio-de-janeiro = Рио-де-Жанейро
 newtab-clock-city-br-brasilia = Бразилиа
 newtab-clock-city-id-jakarta = Джакарта
+newtab-clock-city-id-surabaya = Сурабая
 newtab-clock-city-id-makassar = Макасар
 newtab-clock-city-ca-toronto = Торонто
 newtab-clock-city-ca-montreal = Монреаль

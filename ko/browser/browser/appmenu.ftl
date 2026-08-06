@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = { $time }에 마지막으로 동기화됨
     .label = { $time }에 마지막으로 동기화됨
 appmenu-fxa-sync-and-save-data2 = 데이터 동기화 및 저장
 appmenu-fxa-signed-in-label = 로그인
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Sync에 로그인
+appmenu-fxa-sign-in-promo-message = 어디서나 데이터 가져오기
+appmenu-fxa-sign-in-promo-button =
+    .label = 로그인
 appmenu-fxa-setup-sync =
     .label = 동기화 켜기…
 appmenu-fxa-setup-sync-new = 켜기

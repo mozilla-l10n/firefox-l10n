@@ -340,4 +340,4 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
 contextual-manager-primary-password-reauth-header = Para ver tus contraseñas guardadas, ingresa tu contraseña principal.
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Ingresar contraseña principal
-contextual-manager-primary-password-learn-more-link = Saber más
+contextual-manager-primary-password-learn-more-link = Más información

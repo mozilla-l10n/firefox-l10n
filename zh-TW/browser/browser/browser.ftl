@@ -1135,7 +1135,7 @@ urlbar-searchmode-popup-add-engine = 新增「{ $engineName }」
 urlbar-searchmode-popup-one-off-header = 這次使用下列搜尋引擎搜尋：
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
-urlbar-searchmode-popup-header = 使用下列引擎搜尋：
+urlbar-searchmode-popup-header = 使用其他引擎搜尋：
 urlbar-searchmode-popup-search-settings = 搜尋設定
     .accesskey = S
 urlbar-searchmode-popup-settings = 設定

@@ -594,7 +594,7 @@ spellcheck-download-dictionaries =
     .label = Last ned ordbøker
 spellcheck-promo =
     .heading = Slik bruker du stavekontroll
-    .message = Høgreklikk i eit tekstfelt for å slå stavekontroll på eller av, eller for å endre språk. Ikkje alle felt støttar stavekontroll.
+    .message = Høgreklikk i eit tekstfelt for å slå stavekontrollen på eller av, eller for å endre språk. Ikkje alle felt støttar stavekontroll.
 
 ## General Section - Files and Applications
 
@@ -2782,3 +2782,10 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatisk proxykonfigurasjon er aktivert
     .description = Automatisk proxykonfigurasjon kan gjere det mogleg for upålitelege nettverk å overvake aktiviteten din.
+
+## Referrals Section
+
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Del { -brand-short-name }

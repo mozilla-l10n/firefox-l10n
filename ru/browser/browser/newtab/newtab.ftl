@@ -1651,6 +1651,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Результаты поиска
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Добавьте «{ $city }» в качестве собственных часов
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Название города
+    .aria-label = Название города
+    .placeholder = Назовите эти часы
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Часовой пояс
+    .aria-label = Часовой пояс
+    .placeholder = Поиск по городу, часовому поясу или смещению UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Результаты часового пояса
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Нет подходящих часовых поясов
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Назад
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

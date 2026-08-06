@@ -435,7 +435,7 @@ onboarding-horizontal-tabs-description =
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Prueba un chatbot de IA en la barra lateral
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
-onboarding-genai-sidebar-subtitle = Resume contenido web, genera ideas, redacta mensajes, todo mientras navegas. Elige entre varios proveedores y cámbialos en cualquier momento. <a data-l10n-name="learn-more">Saber más</a>.
+onboarding-genai-sidebar-subtitle = Resume el contenido web, genera ideas y redacta mensajes, todo mientras navegas. Elige entre varios proveedores. Puedes cambiar en cualquier momento. <a data-l10n-name="learn-more">Más información</a>
 onboarding-genai-sidebar-primary-button = Elige un chatbot
 onboarding-genai-sidebar-secondary-button = Empieza a navegar
 
@@ -596,6 +596,15 @@ onboarding-refresh-sync-title = Ve a donde sea. Sincroniza todo.
 onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una organización sin fines de lucro. Con tu apoyo, trabajamos para que internet sea más seguro y accesible para todas las personas.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } te respalda
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = Aceptar
+smartwindow-existing-user-fx-tou-go-back = Regresar
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Continuar
 
 ## Theme Picker screen strings
 

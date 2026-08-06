@@ -2782,3 +2782,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Проксиді автоматты түрде баптау іске қосулы
     .description = Проксиді автоматты түрде баптау сенімсіз желілерге сіздің әрекеттеріңізді бақылауға мүмкіндік беруі мүмкін.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = { -brand-short-name } бөлісу
+    .description = Жекелікті бірінші орынға қоятын браузерді таңдауға біреуді шақырыңыз.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = { -brand-short-name } бөлісу

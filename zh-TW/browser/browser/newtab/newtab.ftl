@@ -1598,6 +1598,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = 搜尋結果
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = 將「{ $city }」新增為自訂時鐘
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = 城市名稱
+    .aria-label = 城市名稱
+    .placeholder = 命名此時鐘
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = 時區
+    .aria-label = 時區
+    .placeholder = 搜尋城市名稱、時區名稱或 UTC 時差
+newtab-clock-widget-custom-zone-results =
+    .aria-label = 時區搜尋結果
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = 沒有符合的時區
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = 返回
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
@@ -1621,7 +1641,7 @@ newtab-clock-city-us-dallas = 達拉斯
 newtab-clock-city-us-houston = 休士頓
 newtab-clock-city-us-philadelphia = 費城
 newtab-clock-city-us-atlanta = 亞特蘭大
-newtab-clock-city-us-washington-dc = 華盛頓哥倫比亞特區
+newtab-clock-city-us-washington-dc = 華盛頓特區
 newtab-clock-city-us-boston = 波士頓
 newtab-clock-city-us-miami = 邁阿密
 newtab-clock-city-us-seattle = 西雅圖
@@ -1630,7 +1650,7 @@ newtab-clock-city-us-honolulu = 檀香山
 newtab-clock-city-us-anchorage = 安克拉治
 newtab-clock-city-de-berlin = 柏林
 newtab-clock-city-de-munich = 慕尼黑
-newtab-clock-city-de-frankfurt = 美茵河畔法蘭克福
+newtab-clock-city-de-frankfurt = 法蘭克福
 newtab-clock-city-de-hamburg = 漢堡
 newtab-clock-city-fr-paris = 巴黎
 newtab-clock-city-fr-lyon = 里昂
@@ -1660,7 +1680,7 @@ newtab-clock-city-pl-krakow = 克拉科夫
 newtab-clock-city-jp-tokyo = 東京
 newtab-clock-city-jp-osaka = 大阪
 newtab-clock-city-mx-mexico-city = 墨西哥城
-newtab-clock-city-mx-guadalajara = 瓜达拉哈拉
+newtab-clock-city-mx-guadalajara = 瓜達拉哈拉
 newtab-clock-city-it-rome = 羅馬
 newtab-clock-city-it-milan = 米蘭
 newtab-clock-city-ru-moscow = 莫斯科
@@ -1688,7 +1708,7 @@ newtab-clock-city-se-stockholm = 斯德哥爾摩
 newtab-clock-city-ro-bucharest = 布加勒斯特
 newtab-clock-city-th-bangkok = 曼谷
 newtab-clock-city-ng-lagos = 拉哥斯
-newtab-clock-city-tw-taipei = 臺北
+newtab-clock-city-tw-taipei = 台北
 newtab-clock-city-za-johannesburg = 約翰尼斯堡
 newtab-clock-city-cl-santiago = 聖地牙哥
 newtab-clock-city-pk-karachi = 喀拉蚩
@@ -1708,7 +1728,7 @@ newtab-clock-city-lv-riga = 里加
 newtab-clock-city-pt-lisbon = 里斯本
 newtab-clock-city-ir-tehran = 德黑蘭
 newtab-clock-city-bd-dhaka = 達卡
-newtab-clock-city-ec-guayaquil = 瓜亞基爾
+newtab-clock-city-ec-guayaquil = 惠夜基
 newtab-clock-city-vn-ho-chi-minh-city = 胡志明市
 newtab-clock-city-np-kathmandu = 加德滿都
 newtab-clock-city-mm-yangon = 仰光

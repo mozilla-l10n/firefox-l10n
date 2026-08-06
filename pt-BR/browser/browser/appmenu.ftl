@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Última sincronização: { $time }
     .label = Última sincronização: { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizar e salvar dados
 appmenu-fxa-signed-in-label = Entrar
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Entre na conta para sincronizar
+appmenu-fxa-sign-in-promo-message = Tenha seus dados em qualquer lugar
+appmenu-fxa-sign-in-promo-button =
+    .label = Entrar
 appmenu-fxa-setup-sync =
     .label = Ativar sincronização…
 appmenu-fxa-setup-sync-new = Ativar
@@ -355,14 +361,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Entre na sua conta
 appmenuitem-monitor-title2 = Esteja à frente de roubo de identidade
 appmenuitem-monitor-description2 = Receba alertas sobre vazamentos de dados
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Alertas de vazamento de dados do { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Receba alertas de vazamentos de dados
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Mantenha seu endereço de email privativo
 appmenuitem-relay-description2 = Ajuda a evitar spam em sua caixa de entrada
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Ver máscaras de email
 appmenuitem-relay-description = Oculte seu email e celular verdadeiros
 appmenuitem-services-relay-description = Abrir painel de máscaras de email
 appmenuitem-vpn-title2 = Oculte sua localização com o { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Tenha proteção extra em aplicativos e dispositivos
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Abrir { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Torne sua navegação mais difícil de rastrear
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Tenha proteção total em seus dispositivos

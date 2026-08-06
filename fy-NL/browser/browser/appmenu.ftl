@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Lêst syngronisearre: { $time }
     .label = Lêst syngronisearre: { $time }
 appmenu-fxa-sync-and-save-data2 = Syngronisearje en gegevens bewarje
 appmenu-fxa-signed-in-label = Oanmelde
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Oanmelde om te syngronisearjen
+appmenu-fxa-sign-in-promo-message = Benaderje jo gegevens oeral
+appmenu-fxa-sign-in-promo-button =
+    .label = Oanmelde
 appmenu-fxa-setup-sync =
     .label = Syngronisaasje ynskeakelje…
 appmenu-fxa-setup-sync-new = Ynskeakelje
@@ -355,14 +361,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Oanmelde by jo account
 appmenuitem-monitor-title2 = Bliuw identiteitsstellerij foar
 appmenuitem-monitor-description2 = Untfang meldingen oer datalekken.
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name }-datalekwarskôgingen
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Untfang warskôgingen oer datalekken
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Hâld jo e-mailadres privee
 appmenuitem-relay-description2 = Helpt spam yn jo Postfek YN foar te kommen
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = E-mailmaskers besjen
 appmenuitem-relay-description = Maskearje jo wiere e-mailadres en telefoannûmer
 appmenuitem-services-relay-description = E-mailmaskersdashboard iepenje
 appmenuitem-vpn-title2 = Ferbergje jo lokaasje mei { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Untfang ekstra beskerming yn apps en apparaten
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = { -mozilla-vpn-brand-name } iepenje
 appmenuitem-vpn-description3 = Meitsje jo navigaasje dreger te folgjen
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Beskerming foar jo folsleine apparaat ûntfange

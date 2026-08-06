@@ -22,7 +22,7 @@ menu-history-chats =
 menu-history-chats-recent =
     .label = 近期聊天紀錄
 smartwindow-fullpage-heading = { -smart-window-brand-name }
-smartwindow-document-title = 開新分頁
+smartwindow-document-title = 新分頁
 
 ## Smart Window Toggle Button
 
@@ -60,7 +60,7 @@ aiwindow-input-cta-menu-label-chat = 詢問
 aiwindow-input-cta-menu-label-navigate = 前往網站
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = 使用 { $searchEngineName } 搜尋
-aiwindow-input-cta-menu-label-search-with = 使用下列引擎搜尋…
+aiwindow-input-cta-menu-label-search-with = 使用其他引擎搜尋…
 aiwindow-input-cta-search-submenu-header = 搜尋
 aiwindow-input-cta-stop-button =
     .title = 停止回應

@@ -57,6 +57,9 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Framåt
     .tooltip = Framåt (→)
+pictureinpicture-playback-rate-btn =
+    .tooltip = Uppspelningshastighet
+    .aria-label = Uppspelningshastighet
 
 ##
 
@@ -65,6 +68,24 @@ pictureinpicture-seekforward-btn =
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Undertextinställningar
 pictureinpicture-subtitles-label = Undertexter
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the playback speed settings panel
+# after selecting the playback speed button.
+pictureinpicture-playback-rate-panel-accessible = Inställningar för uppspelningshastighet
+pictureinpicture-playback-rate-label = Uppspelningshastighet
+# The live readout of the current playback speed shown in the playback speed
+# panel, updated as the user moves the slider. Unlike the preset labels, whole
+# numbers are not padded with a trailing ".0" (e.g. "1×", "1.05×", "1.25×",
+# "2×").
+# Variables:
+#   $rate (number) - The current playback rate, e.g. 1.5.
+pictureinpicture-playback-rate-value = { NUMBER($rate) }×
+# Label for a playback speed preset button in the playback speed panel. Unlike
+# the live readout, whole number rates are padded to one decimal place
+# (e.g. "1.0×", "2.0×"). Other rates are shown as-is (e.g. "0.75×", "1.25×").
+# Variables:
+#   $rate (number) - The preset's playback rate, e.g. 1.5.
+pictureinpicture-playback-rate-preset = { NUMBER($rate, minimumFractionDigits: 1) }×
 pictureinpicture-font-size-label = Textstorlek
 pictureinpicture-font-size-small = Liten
 pictureinpicture-font-size-medium = Mellan

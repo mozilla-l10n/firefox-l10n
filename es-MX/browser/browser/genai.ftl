@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Al elegir Anthropic Claude, aceptas los <a da
 genai-settings-chat-copilot-links = Al elegir Copilot, aceptas los <a data-l10n-name="link1">Términos de Copilot AI Experiences</a> y la <a data-l10n-name="link2">Declaración de Privacidad de Microsoft</a>.
 genai-settings-chat-gemini-links = Al elegir Google Gemini, aceptas los <a data-l10n-name="link1">Términos de Servicio de Google</a>, la <a data-l10n-name="link2">Política de uso prohibido de IA generativa</a> y el <a data-l10n-name="link3">Aviso de Privacidad de Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Al elegir HuggingChat, aceptas el <a data-l10n-name="link1">Aviso de Privacidad de HuggingChat</a> y la <a data-l10n-name="link2">Política de Privacidad de Hugging Face</a>.
+genai-settings-chat-lechat-links-2 = Al elegir Mistral Vibe, aceptas los <a data-l10n-name="link1">Términos de Servicio</a> y la <a data-l10n-name="link2">Política de privacidad</a> de Mistral AI.
 genai-settings-chat-lechat-links = Al elegir Le Chat Mistral, aceptas los <a data-l10n-name="link1">Términos de Servicio</a> y la <a data-l10n-name="link2">Política de Privacidad</a> de Mistral AI.
 genai-settings-chat-localhost-links = Trae tu propio chatbot local privado, como <a data-l10n-name="link1">llamafile</a> del grupo de innovación de { -vendor-short-name }.
 
@@ -153,7 +154,7 @@ genai-onboarding-choose-header = Elige un chatbot de IA para usar en la barra la
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Elige un chatbot de IA para usar en la barra lateral { -brand-short-name }. Te mostraremos detalles sobre cada chatbot cuando lo selecciones. Cambia cuando quieras. <a data-l10n-name="learn-more">Más información</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-choose-description = Cambia cuando quieras. Para ayudarte a elegir, <a data-l10n-name="learn-more">obtén más información sobre cada chatbot</a>.
+genai-onboarding-choose-description = Puedes cambiar en cualquier momento. Si necesitas ayuda para elegir, <a data-l10n-name="learn-more">más información sobre cada chatbot</a>.
 genai-onboarding-primary = Continuar
 genai-onboarding-secondary = Cerrar
 genai-onboarding-claude-tooltip =
@@ -170,6 +171,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Conoce más sobre Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = Obtén más información sobre HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral

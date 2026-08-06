@@ -1638,6 +1638,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Résultats de la recherche
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Ajouter « { $city } » comme horloge personnalisée
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Nom de la ville
+    .aria-label = Nom de la ville
+    .placeholder = Nommez cette horloge
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Fuseau horaire
+    .aria-label = Fuseau horaire
+    .placeholder = Rechercher par ville, fuseau horaire ou décalage UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Résultats de fuseaux horaires
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Aucun fuseau horaire correspondant
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Retour
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
@@ -1670,7 +1690,7 @@ newtab-clock-city-us-honolulu = Honolulu
 newtab-clock-city-us-anchorage = Anchorage
 newtab-clock-city-de-berlin = Berlin
 newtab-clock-city-de-munich = Munich
-newtab-clock-city-de-frankfurt = Francfort-sur-le-Main
+newtab-clock-city-de-frankfurt = Francfort
 newtab-clock-city-de-hamburg = Hambourg
 newtab-clock-city-fr-paris = Paris
 newtab-clock-city-fr-lyon = Lyon

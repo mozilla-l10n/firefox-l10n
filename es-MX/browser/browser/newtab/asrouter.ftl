@@ -20,7 +20,7 @@ cfr-doorhanger-extension-manage-settings-button = Administrar ajustes de recomen
     .accesskey = m
 cfr-doorhanger-extension-never-show-recommendation = No mostrar esta recomendación
     .accesskey = N
-cfr-doorhanger-extension-learn-more-link = Saber más
+cfr-doorhanger-extension-learn-more-link = Más información
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -214,7 +214,7 @@ cfr-cbh-dismiss-button = Ahora no
     .accesskey = n
 cookie-banner-blocker-onboarding-header = { -brand-short-name } acaba de rechazar un anuncio de cookies por ti
 cookie-banner-blocker-onboarding-body = Menos distracciones, menos cookies que te siguen en este sitio.
-cookie-banner-blocker-onboarding-learn-more = Saber más
+cookie-banner-blocker-onboarding-learn-more = Más información
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -251,7 +251,7 @@ annotations-make-default-pdf-next-label = Siguiente
 
 fxa-sync-cfr-header = ¿Está planeando obtener un nuevo dispositivo en el futuro?
 fxa-sync-cfr-body = Asegúrate de que tus últimos marcadores, contraseñas y pestañas estén contigo cada vez que abras un nuevo navegador { -brand-product-name }.
-fxa-sync-cfr-primary = Saber más
+fxa-sync-cfr-primary = Más información
     .accesskey = L
 fxa-sync-cfr-secondary = Recordarme luego
     .accesskey = R
@@ -283,7 +283,7 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-infobar-message = <strong>¿Abrir { -brand-short-name } cada vez que reinicias tu computadora?</strong> Ahora puedes configurar { -brand-short-name } para que se abra automáticamente cuando reinicias tu dispositivo.
-launch-on-login-learnmore = Saber más
+launch-on-login-learnmore = Más información
 launch-on-login-infobar-confirm-button = Sí, abrir { -brand-short-name }
     .accesskey = Y
 launch-on-login-infobar-reject-button = Ahora no
@@ -343,7 +343,7 @@ root-certificate-succession-infobar-secondary-button =
 
 root-certificate-windows-background-notification-title = Te perdiste una actualización importante de { -brand-short-name }
 root-certificate-windows-background-notification-subtitle = Algunas partes del navegador dejarán de funcionar pronto si no lo actualizas. Ahora es un buen momento para obtener nuestras últimas protecciones y funciones.
-root-certificate-windows-background-notification-learn-more-button = Saber más
+root-certificate-windows-background-notification-learn-more-button = Más información
 root-certificate-windows-background-notification-update-button = Actualizar { -brand-short-name }
 
 ## FxA Menu Message variants
@@ -434,7 +434,7 @@ windows-10-eos-feature-toast-dismiss-button = Descartar
 windows-10-eos-global-infobar-title = <strong>Microsoft dejará de ofrecer soporte para Windows 10.</strong> Respalda tu información para que { -brand-product-name } esté listo para Windows 11.
 windows-10-eos-global-infobar-primary-button = Activa el respaldo
     .accesskey = T
-windows-10-eos-global-infobar-learn-more-link = Saber más
+windows-10-eos-global-infobar-learn-more-link = Más información
     .accessKey = L
 
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
@@ -445,7 +445,7 @@ windows-10-eos-global-infobar-learn-more-link = Saber más
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-message = <strong>La protección de seguimiento estricta puede provocar que los sitios fallen.</strong> Soluciona problemas comunes desbloqueando elementos esenciales que podrían contener rastreadores.
-etp-strict-exceptions-infobar-learn-more = Saber más
+etp-strict-exceptions-infobar-learn-more = Más información
 etp-strict-exceptions-infobar-button = Aplicar correcciones
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ahora no
@@ -483,3 +483,11 @@ nova-early-access-share-feedback-link = Enviar comentarios
     .accesskey = S
 nova-early-access-infobar-primary-button = Entendido
     .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Guardar y continuar

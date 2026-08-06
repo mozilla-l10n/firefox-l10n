@@ -1702,7 +1702,7 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = الحماية الموسّعة من التعقب معطّلة ل { $host }
 trustpanel-etp-description-enabled = إذا كان هناك شيء يبدو معطوبًا في هذا الموقع، فحاول إيقاف تشغيل الحماية.
-trustpanel-etp-description-disabled = ترى { -brand-product-name } أن على الشركات تقليل تتبعها لك. نقوم بحظر أكبر عدد ممكن من أدوات التتبع عند تفعيلك لخيارات الحماية.
+trustpanel-etp-description-disabled = ترى { -brand-product-name } أن على الشركات تقليل تتبعها لك. نقوم بحظر أكبر عدد ممكن من المتعقّبات عند تفعيلك لخيارات الحماية.
 trustpanel-connection-label-secure = الاتصال آمن
 trustpanel-connection-label-insecure = الاتصال غير آمن
 trustpanel-header-enabled = { -brand-product-name } على الحراسة
@@ -1750,11 +1750,11 @@ trustpanel-insecure-description = البيانات التي ترسلها إلى 
 trustpanel-list-label-tracking-content = المحتوى الذي يتعقّبك
 trustpanel-list-label-social-tracking =
     { $count ->
-        [zero] { $count } متتبع وسائل التواصل الاجتماعي
-        [one] { $count } متتبع وسائل التواصل الاجتماعي
-        [two] { $count } متتبعي وسائل التواصل الاجتماعي
-        [few] { $count } متتبعات وسائل التواصل الاجتماعي
-        [many] { $count } متتبعًا وسائل التواصل الاجتماعي
+        [zero] { $count } متعقّب وسائل التواصل الاجتماعي
+        [one] { $count } متعقّب وسائل التواصل الاجتماعي
+        [two] { $count } متعقّبي وسائل التواصل الاجتماعي
+        [few] { $count } متعقبات وسائل التواصل الاجتماعي
+        [many] { $count } متعقبًا وسائل التواصل الاجتماعي
        *[other] { $count } متتبع وسائل التواصل الاجتماعي
     }
 trustpanel-social-tracking-blocking-tab-header =

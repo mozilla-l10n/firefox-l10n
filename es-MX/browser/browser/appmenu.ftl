@@ -159,6 +159,11 @@ appmenu-fxa-last-sync = Última sincronización { $time }
     .label = Última sincronización { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizar y guardar datos
 appmenu-fxa-signed-in-label = Iniciar sesión
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Inicia sesión para sincronizar
+appmenu-fxa-sign-in-promo-button =
+    .label = Iniciar sesión
 appmenu-fxa-setup-sync =
     .label = Activar la sincronización…
 appmenu-fxa-setup-sync-new = Activar
@@ -196,7 +201,7 @@ profiler-popup-description-title =
     .value = Grabar, analizar, compartir
 profiler-popup-description = Colabora en problemas de rendimiento publicando perfiles para compartirlos con tu equipo.
 profiler-popup-learn-more-button =
-    .label = Saber más
+    .label = Más información
 profiler-popup-settings =
     .value = Ajustes
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
@@ -363,6 +368,8 @@ appmenuitem-relay-description2 = Ayuda a prevenir el spam en tu bandeja de entra
 appmenuitem-relay-description = Enmascare su correo electrónico y teléfono reales
 appmenuitem-services-relay-description = Iniciar el panel de máscaras de correo electrónico
 appmenuitem-vpn-title2 = Oculta tu ubicación con { -mozilla-vpn-brand-name }
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Abrir { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Evita el rastreo de tu navegación.
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtén protección para todo el dispositivo

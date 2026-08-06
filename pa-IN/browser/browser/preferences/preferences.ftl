@@ -2787,3 +2787,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = ਪਰਾਕਸੀ ਆਟੋ-ਸੰਰਚਨਾ ਸਮਰੱਥ ਹੈ
     .description = ਪਰਾਕਸੀ ਆਟੋ-ਸੰਰਚਨਾ ਬੇਭਰੋਸੇਯੋਗ ਨੈੱਟਵਰਕਾਂ ਨੂੰ ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਦੀ ਨਿਗਰਾਨੀ ਕਰਨ ਦੇ ਸਕਦੀ ਹੈ।
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = { -brand-short-name } ਨੂੰ ਸਾਂਝਾ ਕਰੋ
+    .description = ਕਿਸੇ ਨੂੰ ਉਹ ਬਰਾਊਜ਼ਰ ਚੁਣਨ ਲਈ ਸੱਦਾ ਦਿਓ, ਜੋ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦਿੰਦਾ ਹੈ।
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = { -brand-short-name } ਨੂੰ ਸਾਂਝਾ ਕਰੋ

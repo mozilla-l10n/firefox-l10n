@@ -59,6 +59,24 @@ fxa-menu-send-tab-to-device-description = Stjoer in ljepblêd daliks nei elk app
 fxa-menu-sign-out =
     .label = Ofmelde…
 fxa-menu-sync-description = Oeral tagong ta jo ynternet
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Account beheare
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Oanmelde om te syngronisearjen
+fxa-menu-sign-in-promo-message = Benaderje jo gegevens oeral
+fxa-menu-sign-in-promo-button =
+    .label = Oanmelde
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Oanmelde
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Jo binne ôfmeld
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Ynstellen foltôgje
 fxa-avatar-sign-in = Oanmelde
 fxa-avatar-sign-up = Registrearje
 fxa-avatar-tooltip =

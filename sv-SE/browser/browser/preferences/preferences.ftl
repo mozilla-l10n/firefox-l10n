@@ -2782,3 +2782,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatisk proxykonfiguration är aktiverad
     .description = Automatisk proxykonfiguration kan göra det möjligt för otillförlitliga nätverk att övervaka din aktivitet.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Dela { -brand-short-name }
+    .description = Bjud in någon att välja webbläsaren som sätter integriteten först.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Dela { -brand-short-name }

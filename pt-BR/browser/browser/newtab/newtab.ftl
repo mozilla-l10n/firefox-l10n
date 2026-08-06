@@ -1636,6 +1636,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Resultados da pesquisa
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Adicionar “{ $city }” como relógio personalizado
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Nome da cidade
+    .placeholder = Dê um nome a este relógio
+    .aria-label = Nome da cidade
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Fuso horário
+    .aria-label = Fuso horário
+    .placeholder = Buscar por cidade, fuso horário ou deslocamento UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Resultados de fuso horário
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Nenhum fuso horário corresponde
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Voltar
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
@@ -1659,7 +1679,7 @@ newtab-clock-city-us-dallas = Dallas
 newtab-clock-city-us-houston = Houston
 newtab-clock-city-us-philadelphia = Filadélfia
 newtab-clock-city-us-atlanta = Atlanta
-newtab-clock-city-us-washington-dc = Washington, D.C.
+newtab-clock-city-us-washington-dc = Washington D.C.
 newtab-clock-city-us-boston = Boston
 newtab-clock-city-us-miami = Miami
 newtab-clock-city-us-seattle = Seattle
@@ -1668,7 +1688,7 @@ newtab-clock-city-us-honolulu = Honolulu
 newtab-clock-city-us-anchorage = Anchorage
 newtab-clock-city-de-berlin = Berlim
 newtab-clock-city-de-munich = Munique
-newtab-clock-city-de-frankfurt = Frankfurt am Main
+newtab-clock-city-de-frankfurt = Frankfurt
 newtab-clock-city-de-hamburg = Hamburgo
 newtab-clock-city-fr-paris = Paris
 newtab-clock-city-fr-lyon = Lyon
@@ -1677,7 +1697,7 @@ newtab-clock-city-fr-toulouse = Toulouse
 newtab-clock-city-in-kolkata = Calcutá
 newtab-clock-city-in-mumbai = Bombaim
 newtab-clock-city-in-delhi = Deli
-newtab-clock-city-in-bangalore = Bengalúru
+newtab-clock-city-in-bangalore = Bangalore
 newtab-clock-city-cn-shanghai = Xangai
 newtab-clock-city-cn-beijing = Pequim
 newtab-clock-city-cn-shenzhen = Shenzhen
@@ -1686,7 +1706,7 @@ newtab-clock-city-br-rio-de-janeiro = Rio de Janeiro
 newtab-clock-city-br-brasilia = Brasília
 newtab-clock-city-id-jakarta = Jacarta
 newtab-clock-city-id-surabaya = Surabaia
-newtab-clock-city-id-makassar = Macáçar
+newtab-clock-city-id-makassar = Makassar
 newtab-clock-city-ca-toronto = Toronto
 newtab-clock-city-ca-montreal = Montreal
 newtab-clock-city-ca-vancouver = Vancouver
@@ -1724,16 +1744,16 @@ newtab-clock-city-my-kuala-lumpur = Kuala Lumpur
 newtab-clock-city-eg-cairo = Cairo
 newtab-clock-city-se-stockholm = Estocolmo
 newtab-clock-city-ro-bucharest = Bucareste
-newtab-clock-city-th-bangkok = Bancoque
+newtab-clock-city-th-bangkok = Bangkok
 newtab-clock-city-ng-lagos = Lagos
-newtab-clock-city-tw-taipei = Taipé
+newtab-clock-city-tw-taipei = Taipei
 newtab-clock-city-za-johannesburg = Joanesburgo
 newtab-clock-city-cl-santiago = Santiago
-newtab-clock-city-pk-karachi = Carachi
+newtab-clock-city-pk-karachi = Karachi
 newtab-clock-city-bg-sofia = Sófia
 newtab-clock-city-sg-singapore = Singapura
 newtab-clock-city-hk-hong-kong = Hong Kong
-newtab-clock-city-sa-riyadh = Riade
+newtab-clock-city-sa-riyadh = Riad
 newtab-clock-city-dk-copenhagen = Copenhague
 newtab-clock-city-pe-lima = Lima
 newtab-clock-city-ke-nairobi = Nairóbi
