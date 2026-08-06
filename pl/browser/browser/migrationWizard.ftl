@@ -194,6 +194,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Ukończono
 migration-safari-password-import-header = Importowanie haseł z Safari
+migration-safari-password-import-post-sequoia-step3 = Zapisz plik
+migration-safari-password-import-post-sequoia-step4 = Wybierz zapisany plik
 migration-safari-password-import-steps-header = Aby zaimportować hasła z Safari:
 migration-safari-password-import-step1 = W Safari otwórz menu „Safari” i przejdź do „Preferencje” → „Hasła”
 migration-safari-password-import-step2 = Kliknij przycisk <img data-l10n-name="safari-icon-3dots"/> i wybierz „Eksportuj wszystkie hasła”
@@ -206,6 +208,7 @@ migration-chrome-windows-password-import-step2 = Wybierz „Ustawienia” z men
 migration-chrome-windows-password-import-step3 = Kliknij „Pobierz plik” i zapisz go na swoim urządzeniu.
 migration-chrome-windows-password-import-step4 = Wróć tutaj i kliknij „Wybierz plik”, aby dokończyć importowanie.
 migration-manual-password-import-skip-button = Pomiń
+migration-manual-password-import-cancel-button = Anuluj
 migration-manual-password-import-select-button = Wybierz plik
 migration-safari-password-import-skip-button = Pomiń
 migration-safari-password-import-select-button = Wybierz plik

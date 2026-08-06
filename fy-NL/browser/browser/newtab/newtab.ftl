@@ -1774,5 +1774,5 @@ newtab-clock-city-ir-tehran = Teheran
 newtab-clock-city-bd-dhaka = Daka
 newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minhstad
-newtab-clock-city-np-kathmandu = Katmandû
+newtab-clock-city-np-kathmandu = Kathmandu
 newtab-clock-city-mm-yangon = Yangon

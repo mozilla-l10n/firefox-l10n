@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Ustawienia…
 menu-application-set-as-default =
     .label = Ustaw { -brand-shorter-name(case: "acc") } jako domyślną przeglądarkę
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Udostępnij { -brand-shorter-name(case: "acc") }
 menu-application-services =
     .label = Usługi
 menu-application-hide-this =
@@ -216,6 +220,8 @@ menu-history-show-all-history =
     .label = Wyświetl całą historię
 menu-history-clear-recent-history =
     .label = Wyczyść historię przeglądania…
+menu-history-remote-tabs-promo =
+    .label = Karty z innych urządzeń
 menu-history-synced-tabs =
     .label = Karty z innych urządzeń
 menu-history-restore-last-session =
@@ -237,6 +243,8 @@ menu-bookmarks-menu =
     .accesskey = Z
 menu-bookmarks-manage =
     .label = Zarządzaj zakładkami
+menu-bookmarks-remote-tabs-promo =
+    .label = Synchronizuj zakładki z telefonem
 menu-bookmark-tab =
     .label = Dodaj zakładkę do tej karty…
 menu-edit-bookmark =
@@ -372,3 +380,7 @@ menu-help-not-deceptive =
     .accesskey = n
 menu-report-broken-site =
     .label = Zgłoś niepoprawnie działającą stronę
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Udostępnij { -brand-shorter-name(case: "acc") }

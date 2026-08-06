@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Ustawienia panelu bocznego
 sidebar-hide-tabs-and-sidebar =
     .label = Ukryj karty i panel boczny
+sidebar-open-tools-from-sidebar =
+    .label = Otwórz narzędzia z panelu bocznego
 sidebar-show-on-the-right =
     .label = Przenieś panel boczny na prawo
 sidebar-show-on-the-left =
@@ -139,6 +141,20 @@ sidebar-bookmarks-context-menu-delete-bookmark =
     .label = Usuń zakładkę
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Usuń
+
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Zamknij kartę
+
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Sortuj według
 
 ## Labels for sidebar menu items.
 
