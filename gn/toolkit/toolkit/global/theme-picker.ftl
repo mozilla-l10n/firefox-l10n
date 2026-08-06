@@ -94,3 +94,6 @@ theme-picker-tide-aria-label =
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 theme-picker-ash-aria-label =
     .aria-label = Tanimbu
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+theme-picker-smoke-aria-label =
+    .aria-label = Tatatĩ

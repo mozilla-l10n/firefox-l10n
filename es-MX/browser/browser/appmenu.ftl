@@ -368,6 +368,7 @@ appmenuitem-relay-description2 = Ayuda a prevenir el spam en tu bandeja de entra
 appmenuitem-relay-description = Enmascare su correo electrónico y teléfono reales
 appmenuitem-services-relay-description = Iniciar el panel de máscaras de correo electrónico
 appmenuitem-vpn-title2 = Oculta tu ubicación con { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Obtén protección adicional en todas tus aplicaciones y dispositivos
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in = Abrir { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Evita el rastreo de tu navegación.
