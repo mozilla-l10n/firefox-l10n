@@ -155,6 +155,9 @@ sidebar-opentabs-context-close-tab =
 # tab sorting options, which appear directly beneath this heading.
 sidebar-opentabs-sort-by-heading =
     .label = Sorter etter
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Fanerekkjefølgje
 # Sort option that lists tabs by most recent activity, newest first.
 sidebar-opentabs-sort-option-recency =
     .label = Nyleg aktiv
