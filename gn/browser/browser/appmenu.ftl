@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Ñembojuehe ipyahuvéva { $time }
     .label = Ñembojuehe ipyahuvéva { $time }
 appmenu-fxa-sync-and-save-data2 = Embojuehe ha eñongatu mba’ekuaarã
 appmenu-fxa-signed-in-label = Tembiapo ñepyrũ
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Eike embojuehe hag̃ua
+appmenu-fxa-sign-in-promo-message = Eraha mba’ekuaarã opárupi
+appmenu-fxa-sign-in-promo-button =
+    .label = Eike
 appmenu-fxa-setup-sync =
     .label = Emyandy ñembojuehe…
 appmenu-fxa-setup-sync-new = Myandy
@@ -354,6 +360,8 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Eñepyrũ tembiapo ne mba’etépe
 appmenuitem-monitor-title2 = Eñemotenonde teratee ñemodáre
 appmenuitem-monitor-description2 = Og̃uahẽta kyhyjerã mba’ekuaarã ñembogua rehegua
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Mba’ekuaarã ñembogua kyhyjerã { -monitor-brand-short-name } rehegua
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ejapyhy mongyhyje mba’ekuaarã ñembogua rehe
 appmenuitem-relay-title = { -relay-brand-short-name }

@@ -57,6 +57,9 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Tenonde
     .tooltip = Tenonde (→)
+pictureinpicture-playback-rate-btn =
+    .tooltip = Mbopuha pya’ekue
+    .aria-label = Mbopuha pya’ekue
 
 ##
 
@@ -69,6 +72,7 @@ pictureinpicture-subtitles-label = Teratee’i
 # a screen reader whenever a user opens the playback speed settings panel
 # after selecting the playback speed button.
 pictureinpicture-playback-rate-panel-accessible = Mbopuha ñemboheko pya’ekue
+pictureinpicture-playback-rate-label = Mbopuha pya’ekue
 # The live readout of the current playback speed shown in the playback speed
 # panel, updated as the user moves the slider. Unlike the preset labels, whole
 # numbers are not padded with a trailing ".0" (e.g. "1×", "1.05×", "1.25×",

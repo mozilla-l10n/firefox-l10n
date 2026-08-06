@@ -126,6 +126,17 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Zarządzaj ustawieniami wyskakujących okien i zewnętrznych przekierowań…
     .accesskey = Z
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Wyświetl informacje o stronie
+            [1] Wyświetl informacje o stronie (zablokowano jeden element śledzący)
+            [one] Wyświetl informacje o stronie (zablokowano { $count } element śledzący)
+            [few] Wyświetl informacje o stronie (zablokowano { $count } elementy śledzące)
+           *[many] Wyświetl informacje o stronie (zablokowano { $count } elementów śledzących)
+        }
 
 ##
 
@@ -213,6 +224,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Zarządzaj { -firefox-suggest-brand
 urlbar-result-menu-report-inaccurate-location2 = Zgłoś niewłaściwe położenie
 urlbar-result-menu-show-less-frequently2 = Pokazuj rzadziej
 urlbar-result-menu-dont-show-weather-suggestions2 = Nie pokazuj podpowiedzi dotyczących pogody
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Odrzuć tę podpowiedź
+    .accesskey = O
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Usuń z historii
+    .accesskey = U
 urlbar-result-menu-learn-more =
     .label = Więcej informacji
     .accesskey = W
@@ -582,6 +603,8 @@ identity-clear-site-data =
     .label = Wyczyść ciasteczka i dane witryny…
 identity-connection-not-secure-security-view = Połączenie z tą witryną nie jest zabezpieczone.
 identity-connection-verified = Połączenie z tą witryną jest zabezpieczone.
+identity-ev-owner-label2 = Certyfikat wystawiony dla
+identity-verifier-label2 = Zweryfikowana przez
 identity-ev-owner-label = Certyfikat wystawiony dla:
 identity-verifier-label = Zweryfikowana przez:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -956,6 +979,13 @@ urlbar-result-explanation-bookmarked = Dodano zakładkę { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Ostatnio otwarto { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Ostatnio otwarto { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1119,6 +1149,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Wyszukiwanie za pomocą słów kluczowych jest wyłączone
 urlbar-searchmode-dropmarker2 =
     .title = Wybierz wyszukiwarkę
+urlbar-searchmode-bookmarks3 = Zakładki
+    .accesskey = Z
+urlbar-searchmode-tabs3 = Karty
+    .accesskey = K
+urlbar-searchmode-history3 = Historia
+    .accesskey = H
+urlbar-searchmode-actions3 = Działania
+    .accesskey = D
 urlbar-searchmode-bookmarks2 = Zakładki
 urlbar-searchmode-tabs2 = Karty
 urlbar-searchmode-history2 = Historia
@@ -1138,6 +1176,10 @@ urlbar-searchmode-popup-one-off-header = Tym razem szukaj w:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Szukaj w:
+urlbar-searchmode-popup-search-settings = Ustawienia wyszukiwania
+    .accesskey = U
+urlbar-searchmode-popup-settings = Ustawienia
+    .accesskey = U
 urlbar-searchmode-popup-search-settings-panelitem = Ustawienia wyszukiwania
 urlbar-searchmode-popup-settings-panelitem = Ustawienia
 
@@ -1556,6 +1598,11 @@ private-browsing-indicator-label = Tryb prywatny
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Tryb prywatny
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informacje o trybie prywatnym
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Okno w trybie prywatnym
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
