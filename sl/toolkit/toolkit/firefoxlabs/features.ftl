@@ -90,3 +90,6 @@ experimental-features-semantic-history-search =
 # Tab Notes
 experimental-features-tab-notes =
     .label = Zapiski zavihka
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Poenostavljen meni zavihkov
