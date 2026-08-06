@@ -58,6 +58,8 @@ experimental-features-newtab-sections-follow-block-description = Organizirajte z
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Dodajte si strani v opravilno vrstico
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Spletna mesta, ki jih pogosto obiskujete, lahko odprete kot spletne aplikacije neposredno iz opravilne vrstice. Poiščite ikono »Dodaj zavihek v opravilno vrstico« desno od naslovne vrstice, da zaženete spletno mesto v poenostavljenem oknu z vsemi zaščitami, ki jih nudi { -brand-product-name }. <a data-l10n-name="connect">Delite svoje mnenje</a>
 
 ## New Tab Productivity Widgets
 
@@ -66,14 +68,17 @@ experimental-features-newtab-widget-lists =
     .label = Seznami na { -firefox-home-brand-name(sklon: "mestnik") }
 experimental-features-newtab-widget-lists-new =
     .label = Seznami
+experimental-features-newtab-widget-lists-description = Imejte seznam opravil vedno pri roki, ko odprete nov zavihek. Od pakirnih do nakupovalnih seznamov – načrtujte v { -brand-product-name }u. <a data-l10n-name="connect">Delite svoje mnenje</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Časovnik na { -firefox-home-brand-name(sklon: "mestnik") }
 experimental-features-newtab-widget-timer-new =
     .label = Časovnik
+experimental-features-newtab-widget-timer-description = Nastavite časovnik, da ostanete osredotočeni, da vas spodbuja k vztrajnosti ali vas opomni, da si vzamete čas zase. <a data-l10n-name="connect">Delite svoje mnenje</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Seznami in časovnik na { -firefox-home-brand-name(sklon: "mestnik") }
+experimental-features-newtab-widget-lists-and-timer-description = Imejte seznam opravil vedno pri roki, ko odprete nov zavihek. Od pakirnih do nakupovalnih seznamov – načrtujte v { -brand-product-name }u. Nastavite časovnik, da ostanete osredotočeni, da vas spodbuja k vztrajnosti ali vas opomni, da si vzamete čas zase. <a data-l10n-name="connect">Delite svoje mnenje</a>
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Vremenska napoved
@@ -87,6 +92,7 @@ experimental-features-newtab-widget-clocks-description = Dodajte do štiri polju
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantično iskanje po zgodovini
+experimental-features-semantic-history-search-description = Z lokalnim modelom strojnega učenja lahko { -brand-product-name } na podlagi razumevanja naravnega jezika v naslovni vrstici predlaga vnose iz zgodovine, ki so povezani z vašimi iskanji. <a data-l10n-name="connect">Delite svoje mnenje</a>
 # Tab Notes
 experimental-features-tab-notes =
     .label = Zapiski zavihka
