@@ -36,5 +36,5 @@ suffixes-label = Sufiksi
 plugins-gmp-license-info = Licences informaceja
 plugins-gmp-privacy-info = Privatuma informaceja
 plugins-openh264-name = OpenH264 Video Codec provided by Cisco Systems, Inc.
-plugins-openh264-description = This plugin is automatically installed by Mozilla to comply with the WebRTC specification and to enable WebRTC calls with devices that require the H.264 video codec. Visit http://www.openh264.org/ to view the codec source code and learn more about the implementation.
+plugins-openh264-description = This plugin is automatically installed by Mozilla to comply with the WebRTC specification and to enable WebRTC calls with devices that require the H.264 video codec. Visit https://www.openh264.org/ to view the codec source code and learn more about the implementation.
 plugins-widevine-name = Google Inc pīduovuotais Widevine Content Decryption Module

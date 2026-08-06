@@ -36,5 +36,5 @@ suffixes-label = Timminol
 plugins-gmp-license-info = Humpito jamirol
 plugins-gmp-privacy-info = Humpito Suturo
 plugins-openh264-name = Kodek Wodewoo mo OpenH264  ko jeyi Cisco Systems, Inc.
-plugins-openh264-description = Ndee seŋre ko Mozilla aafata nde e jaajol ngam ɗooftaade keeroraaɗi WebRTC tee hurmina noddaali WebRTC e kaɓirɗi naamniiɗi kodek widewoo H.264 oo. Yillo http://www.openh264.org/ ngam yiyde ɗaɗi dokkol kodek oo tee ɓeydaa humpito baɗte gannominal mun.
+plugins-openh264-description = Ndee seŋre ko Mozilla aafata nde e jaajol ngam ɗooftaade keeroraaɗi WebRTC tee hurmina noddaali WebRTC e kaɓirɗi naamniiɗi kodek widewoo H.264 oo. Yillo https://www.openh264.org/ ngam yiyde ɗaɗi dokkol kodek oo tee ɓeydaa humpito baɗte gannominal mun.
 plugins-widevine-name = Widevine Content Decryption Module mo Google Inc. yuɓɓini.

@@ -575,7 +575,7 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = Licencinformációk
 plugins-gmp-privacy-info = Adatvédelmi információk
 plugins-openh264-name = OpenH264 videokodek a Cisco Systems, Inc.-től
-plugins-openh264-description = Ezt a bővítményt a Mozilla automatikusan telepítette a WebRTC specifikációnak való megfelelés érdekében, és a WebRTC hívások lehetővé tételéhez olyan eszközökkel, amelyek a H.264 videokodeket igénylik. Keresse fel a http://www.openh264.org/ oldalt a megvalósítással kapcsolatos további tudnivalókért.
+plugins-openh264-description = Ezt a bővítményt a Mozilla automatikusan telepítette a WebRTC specifikációnak való megfelelés érdekében, és a WebRTC hívások lehetővé tételéhez olyan eszközökkel, amelyek a H.264 videokodeket igénylik. Keresse fel a https://www.openh264.org/ oldalt a megvalósítással kapcsolatos további tudnivalókért.
 plugins-widevine-name = Widevine tartalom-visszafejtő modul a Google Inc.-től
 plugins-widevine-description = Ez a bővítmény lehetővé teszi a titkosított médiák lejátszását, az Encrypted Media Extensions specifikációnak megfelelően. Titkosított médiát jellemzően azok az oldalak használnak, amelyek a prémium médiatartalmak másolása ellen védekeznek. A titkosítottmédia-kiterjesztésekről szóló további információkért keresse fel az https://www.w3.org/TR/encrypted-media/ oldalt.
 

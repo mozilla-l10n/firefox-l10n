@@ -35,5 +35,5 @@ suffixes-label = ಅಂತ್ಯ ಪ್ರತ್ಯಯ
 plugins-gmp-license-info = ಪರವಾನಗಿ ಮಾಹಿತಿ
 plugins-gmp-privacy-info = ಗೌಪ್ಯತೆ ಮಾಹಿತಿ
 plugins-openh264-name = OpenH264 ವೀಡಿಯೊ ಕೋಡೆಕ್ ಅನ್ನು Cisco Systems, Inc ಇಂದ ಒದಗಿಸಲಾಗಿದೆ.
-plugins-openh264-description = ಈ ಪ್ಲಗಿನ್ ಅನ್ನು WebRTC ನೊಡನೆ ವಿಶಿಷ್ಟತೆಗಳನ್ನು ಪಾಲಿಸಲು ಮತ್ತು H.264 ವಿಡಿಯೋ ಕೋಡೆಕ್‌ನ ಅವಶ್ಯಕತೆ ಇರುವ ಸಾಧನಗಳಿಗೆ WebRTC ಕರೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು Mozilla ಮೂಲಕ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ. ಕೋಡೆಕ್‌ನ ಸೋರ್ಸ್ ಕೋಡ್ ನೋಡಲು ಮತ್ತು ಅನುಷ್ಠಾನ ಬಗ್ಗೆ ಹೆಚ್ಚು ತಿಳಿಯಲು http://www.openh264.org/ ವೀಕ್ಷಿಸಿ.
+plugins-openh264-description = ಈ ಪ್ಲಗಿನ್ ಅನ್ನು WebRTC ನೊಡನೆ ವಿಶಿಷ್ಟತೆಗಳನ್ನು ಪಾಲಿಸಲು ಮತ್ತು H.264 ವಿಡಿಯೋ ಕೋಡೆಕ್‌ನ ಅವಶ್ಯಕತೆ ಇರುವ ಸಾಧನಗಳಿಗೆ WebRTC ಕರೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು Mozilla ಮೂಲಕ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ. ಕೋಡೆಕ್‌ನ ಸೋರ್ಸ್ ಕೋಡ್ ನೋಡಲು ಮತ್ತು ಅನುಷ್ಠಾನ ಬಗ್ಗೆ ಹೆಚ್ಚು ತಿಳಿಯಲು https://www.openh264.org/ ವೀಕ್ಷಿಸಿ.
 plugins-widevine-name = Google Inc ನಿಂದ Widevine Content Decryption Module ಅನ್ನು ಪಡೆಯಲಾಗಿದೆ
