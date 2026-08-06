@@ -228,7 +228,9 @@ newtab-privacy-message-info-10 = Eñongatu ñe’ẽñemi { -brand-short-name }-
 newtab-privacy-message-info-10-cta = Eho ñe’ẽñemíme
 newtab-privacy-message-info-11 = Eikuaa mba’éichapa { -brand-short-name } oipytyvõ ñekundaha ñemiverãme.
 newtab-privacy-message-info-11-cta = Eikuaave
+newtab-privacy-message-info-12 = Ejokórõ tapykuehohaita oykeko banda ancha jeporu’ive imba’ekuaarã’ívape.
 newtab-privacy-message-info-12-cta = Ehecha ñemo’ãrã
+newtab-privacy-message-info-13 = { -brand-short-name } ojoko tapykuehohaita, opoive banda ancha osẽ porãve hag̃ua.
 newtab-privacy-message-info-13-cta = Ehecha ñemo’ãrã
 
 ## Privacy widget — promotional messages

@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = Nie można uaktualnić — system jest niezgodny
 appmenuitem-banner-update-restart =
     .label = Aktualizacja jest dostępna — uruchom ponownie
+appmenu-nova-update-title = Uruchom ponownie, aby uaktualnić { -brand-short-name(case: "acc") }
+appmenu-nova-update-description = Twoje karty zostaną przywrócone.
 appmenu-nova-fxa-sign-in = Zaloguj się
 appmenu-nova-switch-device-promo =
     .message = Wkrótce zmieniasz urządzenie? Zabierz { -brand-short-name(case: "acc") } ze sobą!
@@ -47,8 +49,15 @@ appmenuitem-translate =
     .label = Przetłumacz stronę…
 appmenuitem-zoom =
     .value = Powiększenie
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Udostępnij { -brand-product-name(case: "acc") }
 appmenuitem-more-tools =
     .label = Więcej narzędzi
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Pomoc i zgłaszanie
 appmenuitem-help =
     .label = Pomoc
 appmenuitem-exit2 =

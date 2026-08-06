@@ -184,6 +184,45 @@ autofill-edit-passport-title = Edycja paszportu
 
 autofill-passport-name =
     .label = Imię i nazwisko
+autofill-passport-country =
+    .label = Państwo
+autofill-passport-number =
+    .label = Numer
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Data wydania
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Data ważności
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = RRRR
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Czy zachować paszport?
+passport-capture-save-doorhanger-description = Zachowuj dane w { -brand-short-name(case: "loc") }, aby móc szybko wypełniać formularze.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading }: { $part }
+passport-capture-save-button =
+    .label = Zachowaj
+    .accessKey = Z
+passport-capture-not-now-button =
+    .label = Nie teraz
+    .accessKey = N
+passport-capture-never-save-button =
+    .label = Nigdy nie zachowuj paszportów
+    .accessKey = d
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

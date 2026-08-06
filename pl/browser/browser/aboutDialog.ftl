@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Sprawdź dostępność aktualizacji
     .accesskey = S
 update-updateButton =
-    .label = Uruchom ponownie, aby uaktualnić przeglądarkę { -brand-shorter-name }
+    .label = Uruchom ponownie, aby uaktualnić { -brand-shorter-name(case: "acc") }
     .accesskey = U
 update-checkingForUpdates = Poszukiwanie aktualizacji…
 settings-update-checking-for-updates =
@@ -40,9 +40,9 @@ settings-update-no-updates-found =
 aboutdialog-update-checking-failed = Sprawdzenie dostępności aktualizacji się nie powiodło.
 settings-update-checking-failed =
     .label = Sprawdzenie dostępności aktualizacji się nie powiodło.
-update-otherInstanceHandlingUpdates = Inne wystąpienie właśnie aktualizuje program { -brand-short-name }.
+update-otherInstanceHandlingUpdates = Inne wystąpienie właśnie aktualizuje { -brand-short-name(case: "acc") }.
 settings-update-other-instance-handling-updates =
-    .label = Inne wystąpienie właśnie aktualizuje program { -brand-short-name }.
+    .label = Inne wystąpienie właśnie aktualizuje { -brand-short-name(case: "acc") }.
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
