@@ -1086,6 +1086,17 @@ newtab-sports-widget-match-halftime = نیمه ٱول
 newtab-sports-widget-match-extra-time = مجال ازافه
 newtab-sports-widget-match-penalties = جریمه یل
 
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .title = دیندایی
+    .aria-label = دیندایی
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .title = بئڌی
+    .aria-label = بئڌی
+
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
 ## Variables shared by all messages in this group:
@@ -1104,6 +1115,12 @@ newtab-sports-widget-team-name-label-eng =
     .label = انگلستووݩ
 newtab-sports-widget-team-name-label-sco =
     .label = اسکاتلند
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-add-widgets-cta =
+    .label = ٱووردن ویجتا
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

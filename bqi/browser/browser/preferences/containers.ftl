@@ -4,6 +4,9 @@
 
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = نوم
+    .placeholder = ی نوم بزنین
 containers-icon-label2 =
     .label = آیکون
 containers-color-label2 =

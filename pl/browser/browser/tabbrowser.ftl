@@ -401,7 +401,7 @@ tab-groups-list-empty-header = Uporządkuj swoje karty
 tab-groups-list-empty-description = Przeciągnij jedną kartę na drugą lub kliknij ją prawym przyciskiem, aby zacząć porządkowanie. Zachowamy tutaj Twoje grupy, aby można było łatwo je później znaleźć.
 tab-groups-list-empty-button = Utwórz grupę kart
 # Text for a button that, when clicked, creates a new tab group
-tab-groups-list-create-group-button = Nowe grupa
+tab-groups-list-create-group-button = Nowa grupa
 
 ## Open/saved tab group context menu
 

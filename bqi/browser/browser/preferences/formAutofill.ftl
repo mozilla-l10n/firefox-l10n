@@ -155,6 +155,17 @@ autofill-card-expires-year = سال انقزا
 autofill-card-billing-address = نشۊوی قبز
 autofill-card-network = نوع کارت
 
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = نوم
+autofill-passport-country =
+    .label = کشور
+autofill-passport-number =
+    .label = شوماره
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express
