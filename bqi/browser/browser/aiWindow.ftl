@@ -97,6 +97,8 @@ aiwindow-firstrun-model-fast-body = زی جواو اده
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = مودل { $model } و دست { $ownerName }
 aiwindow-firstrun-model-allpurpose-body = موناسو سی بیشتر نیازا
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = پؽشنهاڌ وابیڌه
 aiwindow-firstrun-model-personal-label = سیخومی
 aiwindow-firstrun-model-personal-body = موناسو ترین جواوا
 aiwindow-firstrun-model-personal-body-v2 = وورکل وابیڌه سی هیاری سیخومی وابیڌه من زووا موختلف

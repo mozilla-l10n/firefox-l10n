@@ -151,3 +151,10 @@ action-log-completed-steps =
         [one] مرهله 1 ٱنجوم وابی
        *[other] مرهله { $count } ٱنجوم وابی
     }
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } قلوه
