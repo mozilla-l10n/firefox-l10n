@@ -22,6 +22,7 @@ policy-DisableDeveloperTools = Забранява достъпа до разво
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Изключване на функцията Screenshots на Firefox.
 policy-DisableFirefoxStudies = Забранява на { -brand-short-name } да извършва изследвания.
+policy-DisableForgetButton = Предотвратяване на достъпа до бутона "Забравяне".
 policy-DisablePrimaryPasswordCreation = Ако е true, не може да бъде създадена главна парола.
 policy-DisablePasswordReveal = В запазените регистрации паролите не могат да бъдат показвани.
 policy-DisablePrivateBrowsing = Изключва поверителното разглеждане.
