@@ -7,7 +7,7 @@ url-classifier-search-title = Wyszukiwanie
 url-classifier-search-result-title = Wyniki wyszukiwania
 # Variables:
 #   $uri (string) - URI of blocked page
-url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-uri = Adres URI: { $uri }
 # Variables:
 #   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Lista tabel: { $list }
@@ -63,6 +63,32 @@ url-classifier-content-classifier-flags = Flagi
 # Header for the group of buttons that run a classification test. A "probe" here
 # means running the classifier once and reporting what it would do.
 url-classifier-content-classifier-probes = Sondy
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Wyniki
+url-classifier-content-classifier-pbm = Tryb prywatny
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Niezalecany dodatek
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Sonduj blokowanie
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Sonduj funkcję
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = Funkcja
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Wyjątek
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Ważne
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = Wyjątek
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Błąd ({ $code })
 url-classifier-debug-title = Debugowanie
 url-classifier-debug-module-btn = Wybierz moduły dziennika
 url-classifier-debug-file-btn = Wybierz plik dziennika

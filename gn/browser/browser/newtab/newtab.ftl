@@ -244,7 +244,9 @@ newtab-privacy-message-promo-monitor-2 = Emo’ã ne marandu mba’ekuaarãita �
 newtab-privacy-message-promo-monitor-2-cta = Eikuaave
 newtab-privacy-message-promo-signin-1 = Ereko techaukaha, ñe’ẽñemi ha tendaykeita papapýpe mba’e’okaita { -vendor-short-name } mba’ete ndive.
 newtab-privacy-message-promo-signin-1-cta = Eñemboheraguapy
+newtab-privacy-message-promo-vpn-1 = ¿Ejogua Wi-Fi opavave oiporukuaáva ndive? Emyandy VPN ñeñangareko porãverã.
 newtab-privacy-message-promo-vpn-1-cta = Embojuruja VPN
+newtab-privacy-message-promo-vpn-2 = ¿Eiporu aeropuerto Wi-Fi? Emo’ã ne ñeikundaha emyandývo VPN juajupyre.
 newtab-privacy-message-promo-vpn-2-cta = Embojuruja VPN
 newtab-privacy-message-promo-vpn-3-cta = Embojuruja VPN
 newtab-privacy-message-promo-private-window-1-cta = Embojuruja ovetã ñemi
@@ -1595,6 +1597,14 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Jehekaha rembiapokue
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Embojuaju “{ $city }” aravopapahárõ
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Táva réra
+    .aria-label = Táva réra
+    .placeholder = Embohéra ko aravopapaha
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
