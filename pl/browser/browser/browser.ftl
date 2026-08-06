@@ -1401,7 +1401,7 @@ toolbar-overflow-customize-button =
     .label = Dostosuj pasek narzędzi…
     .accesskey = D
 toolbar-button-email-link =
-    .label = ­Wyślij odnośnik
+    .label = Wyślij odnośnik
     .tooltiptext = Wyślij odnośnik do tej strony
 toolbar-button-logins =
     .label = Hasła
@@ -1425,7 +1425,7 @@ qrcode-close-button =
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
-    .label = ­Zapisz stronę
+    .label = Zapisz stronę
     .tooltiptext = Zapisz tę stronę ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
