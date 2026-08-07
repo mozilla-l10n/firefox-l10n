@@ -69,6 +69,7 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Tu VPN integrada ahora es aún mejor
+ipprotection-summer-promo-offramp-subscriber-description = Como suscriptor de { -mozilla-vpn-brand-name }, ahora tienes ancho de banda ilimitado y más ubicaciones.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Obtener { -mozilla-vpn-brand-name }
