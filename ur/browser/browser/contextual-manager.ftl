@@ -57,6 +57,9 @@ contextual-manager-passwords-remove-login-card-cancel-button = منسوخ کری
 
 ## Login Form
 
+contextual-manager-passwords-origin-field =
+    .label = ویب سائٹ ایڈریس
+    .placeholder = https://www.example.com
 contextual-manager-passwords-username-field =
     .label = صارف کا نام
 contextual-manager-passwords-password-field =
