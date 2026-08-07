@@ -619,4 +619,5 @@ smartwindow-sidebar-auto-open-callout-rejected-title = OK
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Wybierz motyw
+onboarding-theme-picker-subtitle = Dodaj do { -brand-short-name(case: "gen") } trochę więcej kolorów.
 onboarding-theme-picker-button-label = Zachowaj i kontynuuj

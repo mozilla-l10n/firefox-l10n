@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] { $count } tabblad groeperen
        *[other] { $count } tabbladen groeperen
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Openen
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] { $count } tabblad openen
+       *[other] { $count } tabbladen openen
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } tabblad gegroepeerd
        *[other] { $count } tabbladen gegroepeerd
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Tabbladgroep
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,21 @@ smart-window-grouped-tabs-summary =
        *[other] Groep ‘{ $label }’ gemaakt en { $count } tabbladen toegevoegd.
     }
 smart-window-grouped-tabs-row-label = Gegroepeerde tabbladen
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } tabblad geopend
+       *[other] { $count } tabbladen geopend
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } tabblad geopend.
+       *[other] { $count } tabbladen geopend.
+    }
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Groepering van tabbladen ongedaan gemaakt
 # Variables
