@@ -986,6 +986,8 @@ use-current-pages =
 choose-bookmark =
     .label = Usa un segnalibro…
     .accesskey = b
+home-homepage-title =
+    .label = Pagina iniziale
 
 ## Custom Homepage subpage
 
