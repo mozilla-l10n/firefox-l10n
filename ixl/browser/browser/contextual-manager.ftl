@@ -33,6 +33,9 @@ contextual-manager-passwords-remove-login-card-cancel-button = Ya'sakan
 
 ## Login Form
 
+contextual-manager-passwords-origin-field =
+    .label = Tatinb'al web
+    .placeholder = https://www.example.com
 contextual-manager-passwords-username-field =
     .label = Ib'ii u etzit tetze'
 contextual-manager-passwords-password-field =
