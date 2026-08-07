@@ -300,6 +300,19 @@ appmenu-search-history =
 
 appmenu-sync-promo-signin =
     .heading = Cadw'ch wedi'ch cydweddu ar draws dyfeisiau
+appmenu-sync-promo-signin-cta = Mewngofnodwch
+appmenu-sync-promo-turnonsync =
+    .heading = Cydweddwch eich tabiau a hanes
+appmenu-sync-promo-turnonsync-cta = Cychwyn cydweddu
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Cipiwch eich tabiau symudol
+appmenu-sync-promo-connectdevice-cta = Cysylltu dyfais
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Dewch â'ch nodau tudalen gyda chi
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Ewch â'ch nodau tudalen gyda chi
 
 ## Help panel
 
