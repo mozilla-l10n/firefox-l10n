@@ -98,6 +98,8 @@ contextual-manager-passwords-origin-field =
     .placeholder = https://www.example.com
 contextual-manager-passwords-username-field =
     .label = प्रयोगकर्ताको नाम
+contextual-manager-passwords-password-field =
+    .label = पासवर्ड
 
 ## Password Card
 
