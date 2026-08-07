@@ -15,6 +15,22 @@ appearance-browser-icon-entry-group =
 appearance-browser-icon-button =
     .label = Změnit ikonu prohlížeče
 
+## Strings for the "Browser icon" sub-page (Windows only), opened from the
+## "Change browser icon" button in the Appearance settings. The sub-page lets
+## people choose which icon appears on the taskbar, desktop, and Start Menu.
+
+appearance-browser-icon-subpage-title =
+    .heading = Další ikony
+
+## Icons are organized into two groups: "Standard" and "Special". The icons in
+## the "Special" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-basic-group =
+    .label = Standardní
+appearance-browser-icon-bonus-group =
+    .label = Speciální
+
 ##
 
 appearance-browser-icon-set-default-button =

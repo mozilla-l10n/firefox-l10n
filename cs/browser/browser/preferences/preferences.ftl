@@ -1857,10 +1857,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Nebyla přidána žádná adresa
+personal-info-group =
+    .label = Osobní údaje
+autofill-personal-info-checkbox-message =
+    .label = Ukládat a automaticky vyplňovat osobní údaje
+autofill-personal-info-manage-button =
+    .label = Spravovat osobní údaje
+passports-list-header =
+    .label = Pasy
 passports-delete-passport-button-label =
     .aria-label = Smazat
 passports-edit-passport-button-label =
     .aria-label = Upravit
+passports-delete-passport-prompt-title = Smazat tento pas?
+passports-delete-passport-prompt-confirm-button = Smazat
+passports-delete-passport-prompt-cancel-button = Zrušit
+autofill-passports-add-button = Přidat nový pas
+autofill-personal-info-manage-title =
+    .heading = Spravovat osobní údaje
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Nejsou uloženy žádné pasy
 pane-passwords-autofill-title2 = Hesla a automatické vyplňování
     .title = Hesla a automatické vyplňování
 preferences-passwords-autofill-header =
