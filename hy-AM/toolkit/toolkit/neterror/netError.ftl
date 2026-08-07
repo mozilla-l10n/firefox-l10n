@@ -148,6 +148,11 @@ fp-neterror-connection-intro = { -brand-short-name }-ը չկարողացավ ա�
 fp-neterror-offline-intro = { -brand-short-name }-ը չի կարողանում կապակցվել <strong>{ $hostname } </strong> սպասարկիչի հետ:
 fp-neterror-offline-intro-2 = { -brand-short-name }-ը չի կարողանում միանալ <strong>{ $hostname } </strong> հասցեով գտնվող սերվերին։
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> սպասարկիչը չափազանց երկար է պատասխանում։
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = <strong>{ $hostname } </strong> սպասարկիչը սխալ է վերադարձրել՝ { $responsestatus } { $responsestatustext }
 fp-neterror-offline-what-can-you-do-body = Փորձեք կապակցվել այլ սարքից։ Ստուգեք ձեր մոդեմը կամ երթուղիչը։ Անջատեք և վերամիացեք Wi-Fi-ին։
 fp-neterror-vpn-error-title = Չհաջողվեց միանալ VPN-ին
 fp-neterror-vpn-error-description = Փորձեք կրկին մի քանի րոպեից։
