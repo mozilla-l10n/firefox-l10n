@@ -289,6 +289,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Rechercher dans l’historique
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Restez synchronisé sur tous vos appareils
+appmenu-sync-promo-signin-cta = Connexion
+appmenu-sync-promo-turnonsync =
+    .heading = Synchroniser vos onglets et votre historique
+appmenu-sync-promo-turnonsync-cta = Activer la synchronisation
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Retrouvez vos onglets sur votre mobile
+appmenu-sync-promo-connectdevice-cta = Connecter un appareil
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Emportez vos marque-pages avec vous
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Emportez vos marque-pages avec vous
+
 ## Help panel
 
 appmenu-help-header =

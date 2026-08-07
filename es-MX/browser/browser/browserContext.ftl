@@ -411,7 +411,7 @@ main-context-menu-inspect =
 main-context-menu-inspect-a11y-properties =
     .label = Inspeccionar propiedades de accesibilidad
 main-context-menu-eme-learn-more =
-    .label = Aprende más acerca de DRM…
+    .label = Más información acerca de DRM…
     .accesskey = D
 # Variables
 #   $containerName (String): The name of the current container

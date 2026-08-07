@@ -470,6 +470,23 @@ topsite-label-pinned =
     .aria-label = { $title } (fäst)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Aviseringar från { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Nyss
+newtab-topsites-hover-card-mark-all-read =
+    .title = Markera alla som lästa
+    .aria-label = Markera alla som lästa
+newtab-topsites-hover-card-settings =
+    .title = Aviseringsinställningar
+    .aria-label = Aviseringsinställningar
+newtab-topsites-hover-card-dismiss =
+    .title = Ignorera
+    .aria-label = Ignorera
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -689,6 +706,9 @@ newtab-custom-shortcuts-toggle =
     .description = Webbplatser du sparar eller besöker
 newtab-custom-shortcuts-nova =
     .label = Genvägar
+newtab-custom-web-notifications-toggle =
+    .label = Webbmeddelanden
+    .description = Visa aviseringar från dina webbplatser på deras genvägar
 newtab-custom-row-description =
     .description = Antal rader
 # Variables

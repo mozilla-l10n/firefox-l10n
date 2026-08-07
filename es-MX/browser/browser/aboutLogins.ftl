@@ -327,7 +327,7 @@ about-logins-vulnerable-alert-text2 = Esta contraseña ha sido usada en otra cue
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Ir a { $hostname }
-about-logins-vulnerable-alert-learn-more-link = Saber más
+about-logins-vulnerable-alert-learn-more-link = Más información
 
 ## Error Messages
 
@@ -421,7 +421,7 @@ about-logins-import-dialog-error-file-permission-description = { -brand-short-na
 about-logins-import-dialog-error-unable-to-read-title = No se puede analizar el archivo
 about-logins-import-dialog-error-unable-to-read-description = Asegúrate de haber seleccionado un archivo CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = No se importaron los inicios de sesión
-about-logins-import-dialog-error-learn-more = Saber más
+about-logins-import-dialog-error-learn-more = Más información
 about-logins-import-dialog-error-try-import-again = Intenta importar de nuevo…
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Resumen de importación

@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] Regrouper { $count } onglet
        *[other] Regrouper { $count } onglets
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Ouvrir
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Ouvrir { $count } onglet
+       *[other] { $count } onglets ouverts
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } onglet regroupé
        *[other] { $count } onglets regroupés
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Groupe d’onglets
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,35 @@ smart-window-grouped-tabs-summary =
        *[other] Création du groupe « { $label } » et ajout de { $count } onglets.
     }
 smart-window-grouped-tabs-row-label = Onglets regroupés
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Onglet { $count } ouvert
+       *[other] { $count } onglets ouverts
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } onglet ouvert.
+       *[other] { $count } onglets ouverts.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] A créé le groupe « { $label } » et ouvert { $count } onglets.
+       *[other] A créé le groupe « { $label } » et ouvert { $count } onglets.
+    }
+smart-window-opened-tabs-row-label = Onglets ouverts
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Onglets changés
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Basculé en « { $title } ».
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Onglets dissociés
 # Variables
