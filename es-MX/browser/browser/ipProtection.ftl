@@ -58,6 +58,9 @@ ipprotection-feature-introduction-button-get-started = Comenzar
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Los límites de tu VPN integrada se restablecerán el 1 de septiembre
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Usa tus { $maxUsage } GB y 6 ubicaciones para disfrutar de mayor privacidad y dificultar el rastreo de tu actividad de navegación.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Obtener { -mozilla-vpn-brand-name }

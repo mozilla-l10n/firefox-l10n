@@ -73,6 +73,7 @@ firefoxview-tabpickup-sync-error-header = Tenemos problemas para sincronizar
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } no puede comunicarse con el servicio de sincronización en este momento. Prueba de nuevo en unos momentos.
 # “Sync hit a snag” means that the sync process is having a problem and can’t connect.
 firefoxview-tabpickup-sync-error-header-2 = Hubo un problema con la sincronización
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } no pudo conectarse. Espera un momento y vuelve a intentarlo
 firefoxview-tabpickup-sync-error-primarybutton = Intentar de nuevo
 firefoxview-tabpickup-sync-disconnected-header = Activa la sincronización para continuar
 firefoxview-tabpickup-sync-disconnected-description = Para llevar tus pestañas contigo, necesitarás permitir la sincronización { -brand-short-name }.
@@ -82,6 +83,8 @@ firefoxview-tabpickup-password-locked-description = Para obtener tus pestañas, 
 firefoxview-tabpickup-password-locked-link = Más información
 firefoxview-tabpickup-password-locked-primarybutton = Ingresar contraseña principal
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Más información</a>
+firefoxview-tabpickup-password-locked-header-2 = Desbloquea las pestañas con tu contraseña principal
+firefoxview-tabpickup-password-locked-description-2 = Por tu privacidad, las pestañas sincronizadas permanecen protegidas. Ingresa tu contraseña principal de { -brand-short-name } para ver las pestañas de tus otros dispositivos.
 firefoxview-tabpickup-signed-out-header = Inicia sesión para reconectar
 firefoxview-tabpickup-signed-out-description = Para volver a conectarte y obtener tus pestañas, inicia sesión en tu { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Para volver a sincronizar y obtener tus pestañas, conéctate a tu cuenta.
