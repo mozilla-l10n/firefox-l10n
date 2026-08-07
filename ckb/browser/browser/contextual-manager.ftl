@@ -46,6 +46,11 @@ contextual-manager-passwords-remove-login-card-cancel-button = پاشگەزبو�
 
 ## Login Form
 
+contextual-manager-passwords-origin-field =
+    .label = ناونیشانی ماڵپەڕ
+    .placeholder = https://www.example.com
+contextual-manager-passwords-username-field =
+    .label = ناوی بەکارهێنەر
 contextual-manager-passwords-password-field =
     .label = وشەی تێپەڕبوون
 
