@@ -162,6 +162,7 @@ appmenu-fxa-signed-in-label = Zaloguj się
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Zaloguj się do synchronizacji
+appmenu-fxa-sign-in-promo-message = Wszędzie korzystaj ze swoich danych
 appmenu-fxa-sign-in-promo-button =
     .label = Zaloguj się
 appmenu-fxa-setup-sync =
@@ -297,8 +298,16 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = Synchronizuj między urządzeniami
 appmenu-sync-promo-signin-cta = Zaloguj się
+appmenu-sync-promo-turnonsync =
+    .heading = Synchronizuj karty i historię
 appmenu-sync-promo-turnonsync-cta = Włącz synchronizację
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Korzystaj z kart na telefonie
+appmenu-sync-promo-connectdevice-cta = Połącz urządzenie
 
 ## Help panel
 

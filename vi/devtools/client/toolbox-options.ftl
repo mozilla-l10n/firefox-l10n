@@ -126,7 +126,7 @@ options-sourceeditor-keybinding-default-label = Mặc định
 # The heading
 options-local-mode-label = Chế độ cục bộ (local mode)
 options-local-mode-only-work-locally = Chế độ cục bộ chỉ hoạt động cục bộ và bị vô hiệu hóa khi gỡ lỗi trong môi trường từ xa
-options-local-mode-behavior = Chế độ cục bộ cho phép bạn tải các tập tin cục bộ thông qua URL HTTPS mà không cần bất kỳ phụ thuộc bên ngoài nào. Các URL chỉ có thể được tải từ các thẻ khi DevTools đang mở.
+options-local-mode-behavior = Local Mode cho phép tải các tập tin cục bộ qua URL HTTPS mà không cần dependency bên ngoài. Các URL này chỉ có thể được tải từ các thẻ đang mở DevTools.
 options-local-mode-folder-label = Thư mục cục bộ:
 options-local-mode-choose-folder = Duyệt…
     .title = Chọn một thư mục cục bộ để lưu trữ mapping này
