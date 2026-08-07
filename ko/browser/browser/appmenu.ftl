@@ -293,6 +293,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = 기록 검색
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = 모든 기기에서 동기화 상태 유지
+appmenu-sync-promo-signin-cta = 로그인
+appmenu-sync-promo-turnonsync =
+    .heading = 탭 및 기록 동기화
+appmenu-sync-promo-turnonsync-cta = Sync 켜기
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = 모바일 탭 가져오기
+appmenu-sync-promo-connectdevice-cta = 기기 연결
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = 북마크도 함께 가져오세요
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = 북마크를 모바일로 가져가세요
+
 ## Help panel
 
 appmenu-help-header =

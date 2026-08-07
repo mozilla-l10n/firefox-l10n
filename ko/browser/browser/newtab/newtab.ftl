@@ -438,6 +438,20 @@ topsite-label-pinned =
     .aria-label = { $title } (고정)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = 방금 전
+newtab-topsites-hover-card-mark-all-read =
+    .title = 모두 읽음으로 표시
+    .aria-label = 모두 읽음으로 표시
+newtab-topsites-hover-card-settings =
+    .title = 알림 설정
+    .aria-label = 알림 설정
+newtab-topsites-hover-card-dismiss =
+    .title = 닫기
+    .aria-label = 닫기
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

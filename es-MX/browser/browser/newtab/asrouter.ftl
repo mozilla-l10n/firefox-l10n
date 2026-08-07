@@ -180,8 +180,8 @@ mr2022-background-update-toast-secondary-button-label = Recordarme después
 
 firefoxview-cfr-primarybutton = Probar ahora
     .accesskey = P
-firefoxview-cfr-secondarybutton = No, gracias
-    .accesskey = n
+firefoxview-cfr-secondarybutton = Ahora no
+    .accesskey = N
 firefoxview-cfr-header-v2 = Continúa rápidamente donde lo dejaste
 firefoxview-cfr-body-v2 = Recupera las pestañas cerradas recientemente y salta sin problemas entre dispositivos con { -firefoxview-brand-name }.
 
@@ -211,7 +211,7 @@ cfr-cbh-body = { -brand-short-name } puede rechazar automáticamente muchas soli
 cfr-cbh-confirm-button = Rechazar banners de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Ahora no
-    .accesskey = n
+    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } acaba de rechazar un anuncio de cookies por ti
 cookie-banner-blocker-onboarding-body = Menos distracciones, menos cookies que te siguen en este sitio.
 cookie-banner-blocker-onboarding-learn-more = Más información

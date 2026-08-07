@@ -116,9 +116,16 @@ smart-window-opened-tabs-label = 탭 { $count }개 열림
 # Variables
 #   $count (number) - Number of tabs opened
 smart-window-opened-tabs-summary-single = 탭 { $count }개를 열었습니다.
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group = “{ $label }” 그룹을 만들고 탭 { $count }개를 열었습니다.
 smart-window-opened-tabs-row-label = 열린 탭
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = 탭 전환됨
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = “{ $title }” 탭으로 전환되었습니다.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = 탭 그룹 해제
 # Variables
