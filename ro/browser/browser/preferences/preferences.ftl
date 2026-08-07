@@ -2787,3 +2787,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Configurarea automată a proxy-ului este activată
     .description = Configurarea automată a proxy-ului ar putea lăsa rețele care nu sunt de încredere să îți monitorizeze activitatea.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Partajează { -brand-short-name }
+    .description = Invită pe cineva să aleagă browserul care pune confidențialitatea pe primul loc.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Partajează { -brand-short-name }

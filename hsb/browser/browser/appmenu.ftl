@@ -310,6 +310,9 @@ appmenu-sync-promo-connectdevice =
 appmenu-sync-promo-connectdevice-cta = Grat zwjazać
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = Wzmiće swoje zapołožki sobu
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Wzmiće swoje zapołožki na puću
 
 ## Help panel
 

@@ -129,6 +129,8 @@ smart-window-confirm-group-tabs =
         [few] { $count } rejtariki zrědowaś
        *[other] { $count } rejtarikow zrědowaś
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Wócyniś
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -139,6 +141,9 @@ smart-window-grouped-tabs-label =
         [few] { $count } rejtariki zrědowane
        *[other] { $count } rejtarikow zrědowane
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Kupka rejtarikow
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -150,6 +155,9 @@ smart-window-grouped-tabs-summary =
        *[other] Kupka “{ $label }” jo se załožyła a { $count } rejtarikow jo se pśidało.
     }
 smart-window-grouped-tabs-row-label = Zrědowane rejtariki
+smart-window-opened-tabs-row-label = Wócynjone rejtariki
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Pśešaltowane rejtariki
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Zrědowanje rejtarikow wótpórane
 # Variables
