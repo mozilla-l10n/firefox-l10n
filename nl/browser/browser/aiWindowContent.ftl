@@ -160,6 +160,20 @@ smart-window-opened-tabs-summary-single =
         [one] { $count } tabblad geopend.
        *[other] { $count } tabbladen geopend.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Heeft de groep ‘{ $label }’ gemaakt en { $count } tabblad geopend.
+       *[other] Heeft de groep ‘{ $label }’ gemaakt en { $count } tabbladen geopend.
+    }
+smart-window-opened-tabs-row-label = Geopende tabbladen
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Omgewisselde tabbladen
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Omgewisseld naar ‘{ $title }’.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Groepering van tabbladen ongedaan gemaakt
 # Variables

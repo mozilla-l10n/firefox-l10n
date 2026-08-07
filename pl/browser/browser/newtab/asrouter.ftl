@@ -321,7 +321,7 @@ launch-on-login-autostart-infobar-turn-off-button = Wyłącz uruchamianie
 ## { -brand-short-name } to launch when the computer starts up.
 
 launch-on-login-spotlight-title = Czy automatycznie otwierać { -brand-short-name(case: "acc") } po włączeniu komputera?
-launch-on-login-spotlight-startup-checkbox = Otwieraj { -brand-short-name(case: "acc") } po włączeniu komputera
+launch-on-login-spotlight-startup-checkbox = Otwieraj { -brand-short-name(case: "acc") } po włączeniu urządzenia
 launch-on-login-spotlight-pin-taskbar-checkbox = Przypnij do paska zadań
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
 # in the Settings (preferences.ftl). Localizers can reuse the existing
@@ -519,7 +519,14 @@ nova-early-access-infobar-primary-button = OK
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = Czy uruchamiać { -brand-short-name(case: "acc") } po zalogowaniu do systemu Windows?
+launch-options-spotlight-title-session-restore = Czy przywracać sesję po ponownym uruchomieniu { -brand-short-name(case: "gen") }?
+launch-options-spotlight-checkbox-launch-on-login = Otwieraj { -brand-short-name(case: "acc") } po włączeniu urządzenia
 launch-options-spotlight-checkbox-pin-to-taskbar = Przypnij do paska zadań
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Przywracaj obecne okna i karty
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Przywracaj poprzednie okna i karty
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = Zachowaj i zamknij { -brand-short-name(case: "acc") }
 # Primary button on the browser-launch prompt
