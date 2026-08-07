@@ -67,6 +67,7 @@ firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Tu organización bl
 firefoxview-tabpickup-network-offline-header = Revisa tu conexión a Internet
 firefoxview-tabpickup-network-offline-description = Si estás usando un firewall o un proxy, verifica que { -brand-short-name } tenga permiso para acceder a la web.
 firefoxview-tabpickup-network-offline-primarybutton = Intentar de nuevo
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } no puede conectarse en este momento
 firefoxview-tabpickup-sync-error-header = Tenemos problemas para sincronizar
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } no puede comunicarse con el servicio de sincronización en este momento. Prueba de nuevo en unos momentos.
 firefoxview-tabpickup-sync-error-primarybutton = Intentar de nuevo
