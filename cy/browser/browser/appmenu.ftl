@@ -299,8 +299,8 @@ appmenu-search-history =
 ## headings are specific to the panel they appear in.
 
 appmenu-sync-promo-signin =
-    .heading = Cadw'ch wedi'ch cydweddu ar draws dyfeisiau
-appmenu-sync-promo-signin-cta = Mewngofnodwch
+    .heading = Cadw wedi'ch cydweddu ar draws dyfeisiau
+appmenu-sync-promo-signin-cta = Mewngofnodi
 appmenu-sync-promo-turnonsync =
     .heading = Cydweddwch eich tabiau a hanes
 appmenu-sync-promo-turnonsync-cta = Cychwyn cydweddu

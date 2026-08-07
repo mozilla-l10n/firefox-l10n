@@ -69,8 +69,19 @@ ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-u
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Wbudowana sieć VPN właśnie stała się lepsza
+ipprotection-summer-promo-offramp-subscriber-description = Jako subskrybent { -mozilla-vpn-brand-name } masz teraz nieograniczoną przepustowość i więcej położeń.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Nie trać dodatkowych położeń wbudowanej sieci VPN
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Ustaw { -brand-product-name(case: "acc") } jako swoją domyślną przeglądarkę i zyskaj ponad 20 dodatkowych miejsc, z których możesz przeglądać Internet po 31 sierpnia.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Podnieś poziom za pomocą { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Nie trać nieograniczonej przepustowości po 31 sierpnia, korzystając z ponad 300 położeń na 5 urządzeniach, aby utrudnić śledzenie Twoich działań w Internecie.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otwórz VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Ustaw jako domyślną przeglądarkę
 ipprotection-summer-promo-offramp-get-subscription-button = Wypróbuj { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Zamknij
 

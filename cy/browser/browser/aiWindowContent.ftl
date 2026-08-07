@@ -199,10 +199,10 @@ smart-window-opened-tabs-summary-single =
     { $count ->
         [one] Wedi agor { $count } tabiau
         [zero] Wedi agor { $count } tab.
-        [two] Wedi agor { $count } tab.
-        [few] Wedi agor { $count } dab
+        [two] Wedi agor { $count } dab.
+        [few] Wedi agor { $count } thab
         [many] Wedi agor { $count } thab.
-       *[other] Wedi agor { $count } thab.
+       *[other] Wedi agor { $count } tab.
     }
 # Variables
 #   $count (number) - Number of tabs opened
