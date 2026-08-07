@@ -302,7 +302,7 @@ appmenu-sync-promo-turnonsync =
 appmenu-sync-promo-turnonsync-cta = Activer la synchronisation
 # This refers to getting tabs from your mobile device via sync
 appmenu-sync-promo-connectdevice =
-    .heading = Retrouvez vos onglets sur votre mobile
+    .heading = Retrouvez les onglets de votre mobile
 appmenu-sync-promo-connectdevice-cta = Connecter un appareil
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = Emportez vos marque-pages avec vous

@@ -54,12 +54,23 @@ about-networking-ssl-tokens-token-list =
        *[many] { $count } tokenów
     }
 about-networking-ssl-tokens-restored =
-    .alt = Przywrócono z pamięci
-    .title = Przywrócono z pamięci
+    .alt = Przywrócone z pamięci
+    .title = Przywrócone z pamięci
 about-networking-ssl-tokens-new =
     .alt = Nowe w tej sesji
     .title = Nowe w tej sesji
+about-networking-ssl-tokens-expired =
+    .alt = Wygasłe
+    .title = Wygasłe
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokeny: { $tokenLength } B. Zakodowane: { $decompressedLength } → { $compressedLength } B.
 about-networking-ssl-tokens-ev-status = Certyfikat EV
+about-networking-ssl-tokens-ct-status = Stan przejrzystości certyfikatu
+about-networking-ssl-tokens-overridable-error = Kategoria błędów możliwych do zignorowania
+about-networking-ssl-tokens-built-in-root = Wbudowany główny
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Łańcuch certyfikatów ({ $count })
 # $count (Number) - Number of certs seen during the TLS handshake
