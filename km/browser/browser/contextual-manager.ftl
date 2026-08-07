@@ -144,6 +144,13 @@ contextual-manager-passwords-edit-label =
     .label = កែសម្រួលពាក្យសម្ងាត់
 contextual-manager-passwords-remove-label =
     .title = លុបពាក្យសម្ងាត់
+contextual-manager-passwords-origin-field =
+    .label = អាសយដ្ឋាន​គេហទំព័រ
+    .placeholder = https://www.example.com
+contextual-manager-passwords-username-field =
+    .label = អត្ថនាម
+contextual-manager-passwords-password-field =
+    .label = ពាក្យ​សម្ងាត់
 
 ## Password Card
 
@@ -165,6 +172,10 @@ contextual-manager-username-login-line-with-alert =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = រកមិនឃើញពាក្យសម្ងាត់ទេ
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

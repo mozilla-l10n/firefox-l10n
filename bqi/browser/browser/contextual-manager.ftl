@@ -185,6 +185,13 @@ contextual-manager-passwords-edit-label =
     .label = آلشت رزم
 contextual-manager-passwords-remove-label =
     .title = پاک کردن رزم
+contextual-manager-passwords-origin-field =
+    .label = نشۊوی وبگه
+    .placeholder = https://www.example.com
+contextual-manager-passwords-username-field =
+    .label = نوم منتوری
+contextual-manager-passwords-password-field =
+    .label = رزم
 
 ## Password Card
 

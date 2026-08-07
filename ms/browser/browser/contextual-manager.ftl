@@ -5,23 +5,19 @@
 
 ## Passwords
 
-contextual-manager-passwords-command-help = Èda
-# This message confirms that the user wants to remove an existing login.
-contextual-manager-passwords-remove-login-card-remove-button = Revondre
-# This message gives the user the option to cancel their attempt to remove a login.
-contextual-manager-passwords-remove-login-card-cancel-button = Anular
 
 ## Login Form
 
+contextual-manager-passwords-origin-field =
+    .label = Alamat laman web
+    .placeholder = https://www.example.com
 contextual-manager-passwords-username-field =
-    .label = Nom d'usanciér
+    .label = Nama pengguna
 contextual-manager-passwords-password-field =
-    .label = Cllâ
+    .label = Kata laluan
 
 ## Password Card
 
-contextual-manager-copy-icon =
-    .alt = Copiar
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

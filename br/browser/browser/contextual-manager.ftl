@@ -177,6 +177,13 @@ contextual-manager-passwords-edit-label =
     .label = Kemmañ ar ger-tremen
 contextual-manager-passwords-remove-label =
     .title = Dilemel ar ger-tremen
+contextual-manager-passwords-origin-field =
+    .label = Chomlec’h al lec’hienn
+    .placeholder = https://www.example.com
+contextual-manager-passwords-username-field =
+    .label = Anv arveriad
+contextual-manager-passwords-password-field =
+    .label = Ger-tremen
 
 ## Password Card
 

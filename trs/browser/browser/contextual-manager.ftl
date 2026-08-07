@@ -59,9 +59,27 @@ contextual-manager-passwords-remove-login-card-remove-button = Guxūn
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Duyichin'
 
+## Login Form
+
+contextual-manager-passwords-origin-field =
+    .label = Si Direlsiûn Sîtio
+    .placeholder = https://www.example.com
+contextual-manager-passwords-username-field =
+    .label = Si yuguî rè'
+contextual-manager-passwords-password-field =
+    .label = Da'nga' huìi
+
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Da'nga' huìi
 contextual-manager-copy-icon =
     .alt = Guxun' ni nachrun' a'ngô hiuj u
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+

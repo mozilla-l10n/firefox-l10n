@@ -69,6 +69,13 @@ contextual-manager-passwords-remove-login-card-cancel-button = Nkuvi-ka
 
 contextual-manager-passwords-create-label =
     .label = Tee contraseña
+contextual-manager-passwords-origin-field =
+    .label = Nuu sitio web
+    .placeholder = https://www.example.com
+contextual-manager-passwords-username-field =
+    .label = Sɨvu ñɨvu
+contextual-manager-passwords-password-field =
+    .label = Contraseña
 
 ## Password Card
 
@@ -76,3 +83,11 @@ contextual-manager-passwords-list-label =
     .aria-label = Contraseñas
 contextual-manager-copy-icon =
     .alt = Tɨɨn
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
