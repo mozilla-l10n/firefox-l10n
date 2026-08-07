@@ -80,17 +80,29 @@ url-classifier-content-classifier-probe-annotate-btn = Sonduj oznaczanie
 # Button: run the probe against a single classifier feature chosen in the
 # adjacent dropdown.
 url-classifier-content-classifier-probe-feature-btn = Sonduj funkcję
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Informacje z mechanizmu
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Funkcja
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = Dopasowane
 # Column header: whether this feature matched an exception/allow-list entry that
 # spares the request (true/false).
 url-classifier-content-classifier-col-exception = Wyjątek
 # Column header: refers to the "important" syntax filter option giving it priority over other features.
 # "Important" should not be translated as it refers to technical syntax.
 url-classifier-content-classifier-col-important = Ważne
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Wynik z mechanizmu
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Trafienie
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Wyjątek
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Nietrafienie
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
