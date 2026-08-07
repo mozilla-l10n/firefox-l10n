@@ -65,6 +65,10 @@ ipprotection-summer-promo-offramp-generic-description = Usa tus { $maxUsage } GB
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Usa tus { $maxUsage } GB y más de 20 ubicaciones para disfrutar de mayor privacidad y dificultar el rastreo de tu actividad de navegación.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Tu VPN integrada ahora es aún mejor
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Obtener { -mozilla-vpn-brand-name }
