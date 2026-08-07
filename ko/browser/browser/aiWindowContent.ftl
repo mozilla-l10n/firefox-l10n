@@ -93,15 +93,26 @@ smart-window-cancelled-label = 요청이 취소되었습니다.
 smart-window-confirm-group-tab = 그룹
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tabs = 탭 { $count }개 그룹화
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = 열기
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs = 탭 { $count }개 열기
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
 smart-window-grouped-tabs-label = 탭 { $count }개 그룹화됨
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = 탭 그룹
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
 smart-window-grouped-tabs-summary = “{ $label }” 그룹을 생성하고 탭 { $count }개를 추가했습니다.
 smart-window-grouped-tabs-row-label = 그룹화된 탭
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label = 탭 { $count }개 열림
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = 탭 그룹 해제
 # Variables
