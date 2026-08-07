@@ -19,6 +19,14 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Ověřený
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Izolační klíč
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+        [few] { $count } tokeny
+        [many] { $count } tokenů
+       *[other] { $count } tokenů
+    }
 about-networking-refresh = Obnovit
 about-networking-auto-refresh = Automatické obnovení každé 3 sekundy
 about-networking-hostname = Adresa serveru

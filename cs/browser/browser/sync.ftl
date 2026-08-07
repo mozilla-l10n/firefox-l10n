@@ -64,6 +64,13 @@ fxa-menu-send-tab-to-device-description = Pošle panel do jiného zařízení, n
 fxa-menu-sign-out =
     .label = Odhlásit se…
 fxa-menu-sync-description = Získejte přístup ke svému webu odkudkoliv
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Správa účtu
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Přihlásit se k synchronizaci
+fxa-menu-sign-in-promo-message = Mějte svoje data všude
 fxa-avatar-sign-in = Přihlásit se
 fxa-avatar-sign-up = Přihlásit se
 fxa-avatar-tooltip =
