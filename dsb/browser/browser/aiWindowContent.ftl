@@ -182,6 +182,16 @@ smart-window-opened-tabs-summary-single =
         [few] { $count } rejtariki wócynjone.
        *[other] { $count } rejtarikow wócynjone.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Kupka “{ $label }” jo se załožyła a { $count } rejtarik jo se wócynił.
+        [two] Kupka “{ $label }” jo se załožyła a { $count } rejtarika stek se wócyniłej.
+        [few] Kupka “{ $label }” jo se załožyła a { $count } rejtariki su se wócynili.
+       *[other] Kupka “{ $label }” jo se załožyła a { $count } rejtarikow jo se wócyniło.
+    }
 smart-window-opened-tabs-row-label = Wócynjone rejtariki
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Pśešaltowane rejtariki

@@ -181,6 +181,8 @@ smart-window-opened-tabs-summary-group =
        *[other] A fost creat grupul „{ $label }” și s-au deschis { $count } de file.
     }
 smart-window-opened-tabs-row-label = File deschise
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Ai trecut la altă filă
 # Variables
 #   $title (String) - Title of the tab switched to
 smart-window-switched-tab-summary = Ai trecut la „{ $title }”.
