@@ -27,6 +27,9 @@ contextual-manager-passwords-remove-login-card-cancel-button = रद्द क�
 
 ## Login Form
 
+contextual-manager-passwords-origin-field =
+    .label = संकेतस्थळ पत्ता
+    .placeholder = https://www.example.com
 contextual-manager-passwords-username-field =
     .label = वापरकर्तानाव
 contextual-manager-passwords-password-field =
