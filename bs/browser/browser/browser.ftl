@@ -48,6 +48,8 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } privatno pretraživanje
+# This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
+browser-shortcut-description = Brzo i privatno pregledavanje weba
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -650,6 +652,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Onemogućite zaštitu dijeljenja za ovu sesiju
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Da biste koristili prečicu F12, prvo otvorite Alate za programere preko menija Alati pretraživača.
@@ -840,6 +845,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorisano
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -960,6 +970,9 @@ urlbar-result-action-switch-to-tabgroup = Prebaci se na { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Otvori { $group }
+
+## Used in the context menu in urlbar view.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -1169,6 +1182,10 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Novi privatni prozor
     .tooltiptext = Otvori novi prozor privatnog surfanja ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -1490,6 +1507,9 @@ trustpanel-blocker-see-all = Vidi sve
 trustpanel-blocker-header =
     .title = Zaštita od praćenja za { $host }
 
+## The urlbar trust icon & panel
+
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1587,3 +1607,6 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } je dozvolio { $count } kripto rudara
     }
 trustpanel-cryptominer-tab-list-header = Ove stranice pokušavaju kriptorudariti:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
