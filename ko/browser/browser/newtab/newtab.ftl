@@ -440,6 +440,9 @@ topsite-label-pinned =
 
 ## Top Sites - Web notifications hover card
 
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = { $site }의 알림
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = 방금 전
 newtab-topsites-hover-card-mark-all-read =
@@ -671,6 +674,9 @@ newtab-custom-shortcuts-toggle =
     .description = 저장하거나 방문한 사이트
 newtab-custom-shortcuts-nova =
     .label = 바로 가기
+newtab-custom-web-notifications-toggle =
+    .label = 웹 알림
+    .description = 사이트의 바로 가기에 알림 표시
 newtab-custom-row-description =
     .description = 행 수
 # Variables
