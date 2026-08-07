@@ -68,8 +68,11 @@ firefoxview-tabpickup-network-offline-header = Revisa tu conexión a Internet
 firefoxview-tabpickup-network-offline-description = Si estás usando un firewall o un proxy, verifica que { -brand-short-name } tenga permiso para acceder a la web.
 firefoxview-tabpickup-network-offline-primarybutton = Intentar de nuevo
 firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } no puede conectarse en este momento
+firefoxview-tabpickup-network-offline-description-2 = Es posible que no tengas conexión a Internet o que algo esté bloqueando la conexión.
 firefoxview-tabpickup-sync-error-header = Tenemos problemas para sincronizar
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } no puede comunicarse con el servicio de sincronización en este momento. Prueba de nuevo en unos momentos.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Hubo un problema con la sincronización
 firefoxview-tabpickup-sync-error-primarybutton = Intentar de nuevo
 firefoxview-tabpickup-sync-disconnected-header = Activa la sincronización para continuar
 firefoxview-tabpickup-sync-disconnected-description = Para llevar tus pestañas contigo, necesitarás permitir la sincronización { -brand-short-name }.
