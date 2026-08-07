@@ -23,7 +23,7 @@ autofill-manage-edit-button = Rediger…
 
 address-capture-save-doorhanger-header = Lagre adresse
 address-capture-save-doorhanger-description = Lagre informasjon til { -brand-short-name } slik at du enkelt kan fylle ut skjema.
-address-capture-update-doorhanger-header = Oppdatere adresser?
+address-capture-update-doorhanger-header = Oppdatere adresse?
 address-capture-edit-doorhanger-header = Rediger adresse
 address-capture-save-button =
     .label = Lagre

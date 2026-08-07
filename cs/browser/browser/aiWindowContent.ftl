@@ -129,6 +129,8 @@ smart-window-confirm-group-tabs =
         [many] Skupina { $count } panelů
        *[other] Skupina { $count } panelů
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Otevřít
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
