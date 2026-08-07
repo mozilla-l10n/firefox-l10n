@@ -163,6 +163,7 @@ aiwindow-firstrun-memories-no-create = Rozumím. { -smart-window-brand-name } ne
 
 aiwindow-firstrun-default-title = Udělejte si z { -smart-window-brand-name(case: "acc") } svou první volbu
 aiwindow-firstrun-default-subtitle = Procházejte, vyhledávejte a ptejte se – vše na jednom místě. Soukromá a klasická okna si můžete otevřít kdykoli budete chtít.
+aiwindow-firstrun-default-checkbox-description = Změnit to můžete kdykoliv v nastavení
 
 ## Ask Toolbar Button
 
@@ -195,6 +196,38 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Zavřít
     .tooltiptext = Zavřít
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Další možnosti
+    .tooltiptext = Další možnosti
+aiwindow-history-menu-chat-history = Historie chatu
+aiwindow-history-menu-back =
+    .aria-label = Zpět
+    .tooltiptext = Zpět
+aiwindow-history-menu-view-all-chats = Zobrazit všechny chaty
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Nový chat
+aiwindow-fullpage-chat-history =
+    .label = Historie chatu
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Další
+    .title = Další
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Přepnout na { -smart-window-brand-name(case: "acc") }
 
 ## Fullpage Footer Actions
 
@@ -255,6 +288,7 @@ firefoxview-search-chat-results-count =
 item-history-downloads-and-chat =
     .label = Historie prohlížení, stahování a chatů
     .accesskey = p
+item-history-downloads-and-chat-description = Vymaže historii stránek, stahování a chatů
 
 ## Natural Language Interactions
 
@@ -287,6 +321,7 @@ smartwindow-close-tab-callout-subtitle = Panely z historie můžete kdykoli znov
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = Nastavit { -smart-window-brand-name(case: "acc") } jako výchozí?
 smart-window-default-promo-primary-button = Nastavit jako výchozí
 smart-window-default-promo-additional-button = Teď ne
 

@@ -131,6 +131,14 @@ smart-window-confirm-group-tabs =
     }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Otevřít
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Otevřít { $count } panel
+        [few] Otevřít { $count } panely
+        [many] Otevřít { $count } panelů
+       *[other] Otevřít { $count } panelů
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -141,6 +149,9 @@ smart-window-grouped-tabs-label =
         [many] Seskupeno { $count } panelů
        *[other] Seskupeno { $count } panelů
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Skupina panelů
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -152,6 +163,41 @@ smart-window-grouped-tabs-summary =
        *[other] Vytvořena skupina „{ $label }“ a přidáno { $count } panelů
     }
 smart-window-grouped-tabs-row-label = Seskupené panely
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Otevřen { $count } panel
+        [few] Otevřeny { $count } panely
+        [many] Otevřeno { $count } panelů
+       *[other] Otevřeno { $count } panelů
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Otevřen { $count } panel.
+        [few] Otevřeny { $count } panely.
+        [many] Otevřeno { $count } panelů.
+       *[other] Otevřeno { $count } panelů.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Byla vytvořena skupina “{ $label }” a otevřen { $count } panel.
+        [few] Byla vytvořena skupina “{ $label }” a otevřeny { $count } panely.
+        [many] Byla vytvořena skupina “{ $label }” a otevřeno { $count } panelů.
+       *[other] Byla vytvořena skupina “{ $label }” a otevřeno { $count } panelů.
+    }
+smart-window-opened-tabs-row-label = Otevřené panely
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Přepnuté panely
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Přepnuto na panel “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Seskupení panelů zrušeno
 # Variables
@@ -182,6 +228,14 @@ action-log-reading-page = Čtení stránky
 action-log-read-page = Obsah stránky přečten
 action-log-searching-web = Vyhledávání na webu
 action-log-searched-web = Vyhledáno na webu
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Vyhledávání na webu pomocí nástroje <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Vyhledávání na webu pomocí <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Kontrolují se vzpomínky
 action-log-checked-memories = Vzpomínky zkontrolovány
 action-log-searching-settings = Vyhledávání nastavení
@@ -206,3 +260,10 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = Na tomto panelu se načítá výsledek vyhledávání. Probíhá analýza…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = + { $count } dalších

@@ -63,6 +63,9 @@ appmenuitem-zoom =
     .value = Velikost stránky
 appmenuitem-more-tools =
     .label = Další nástroje
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Pomoc a hlášení
 appmenuitem-help =
     .label = Nápověda
 appmenuitem-exit2 =
@@ -133,6 +136,10 @@ fxa-menu-sync-status-turn-on-button =
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Přihlásit se k synchronizaci
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Synchronizovat { $deviceName } nyní
 fxa-menu-manage-sync-settings =
     .label = Spravovat nastavení synchronizace
 fxa-menu-add-device =
@@ -164,6 +171,12 @@ appmenu-fxa-last-sync = Naposledy synchronizováno { $time }
     .label = Naposledy synchronizováno { $time }
 appmenu-fxa-sync-and-save-data2 = Synchronizace a ukládání dat
 appmenu-fxa-signed-in-label = Přihlásit se
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Přihlásit se k synchronizaci
+appmenu-fxa-sign-in-promo-message = Mějte svoje data všude
+appmenu-fxa-sign-in-promo-button =
+    .label = Přihlásit se
 appmenu-fxa-setup-sync =
     .label = Zapnout synchronizaci…
 appmenu-fxa-setup-sync-new = Zapnout
@@ -320,6 +333,15 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Hledat v historii
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Buďte synchronizovaní napříč zařízeními
+appmenu-sync-promo-signin-cta = Přihlásit se
+
 ## Help panel
 
 appmenu-help-header =
@@ -335,6 +357,11 @@ appmenu-about =
            *[no-cases] O aplikaci { -brand-shorter-name }
         }
     .accesskey = O
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Sdílet { -brand-shorter-name(case: "acc") }
+    .accesskey = S
 appmenu-get-help =
     .label = Získat pomoc
     .accesskey = p
