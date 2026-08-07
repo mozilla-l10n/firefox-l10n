@@ -193,6 +193,32 @@ smart-window-opened-tabs-label =
         [many] Wedi agor { $count } thab
        *[other] Wedi agor { $count } tab
     }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Wedi agor { $count } tabiau
+        [zero] Wedi agor { $count } tab.
+        [two] Wedi agor { $count } tab.
+        [few] Wedi agor { $count } dab
+        [many] Wedi agor { $count } thab.
+       *[other] Wedi agor { $count } thab.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [zero] Wedi creu'r grŵp “{ $label }” ac agor { $count } tabiau.
+        [one] Wedi creu'r grŵp “{ $label }” ac agor { $count } tab.
+        [two] Wedi creu'r grŵp “{ $label }” ac agor { $count } dab.
+        [few] Wedi creu'r grŵp “{ $label }” ac agor { $count } thab.
+        [many] Wedi creu'r grŵp “{ $label }” ac agor { $count } thab.
+       *[other] Wedi creu'r grŵp “{ $label }” ac agor { $count } tab.
+    }
+smart-window-opened-tabs-row-label = Tabiau wedi'u hagor
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Tabiau wedi'u newid
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Tabiau heb eu grwpio
 # Variables
