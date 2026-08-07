@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Always continue
 neterror-pref-reset = It looks like your network security settings might be causing this. Do you want the default settings to be restored?
 neterror-error-reporting-automatic = Report errors like this to help { -vendor-short-name } identify and block malicious sites
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Your connection may not be private
+    .message = An app or service may see your encrypted traffic from this site.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } can’t load this page for some reason.
@@ -60,6 +68,8 @@ neterror-dns-not-found-hint-header = <strong>If you entered the right address, y
 neterror-dns-not-found-hint-try-again = Try again later
 neterror-dns-not-found-hint-check-network = Check your network connection
 neterror-dns-not-found-hint-firewall = Check that { -brand-short-name } has permission to access the web (you might be connected but behind a firewall)
+neterror-dns-not-found-hint-check-network-2 = Check your network connection.
+neterror-dns-not-found-hint-firewall-2 = Check that { -brand-short-name } has permission to access the web (you might be connected but behind a firewall).
 neterror-dns-not-found-offline-hint-header = <strong>What can you do about it?</strong>
 neterror-dns-not-found-offline-hint-different-device = Try connecting on a different device.
 neterror-dns-not-found-offline-hint-modem = Check your modem or router.

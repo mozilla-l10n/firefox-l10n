@@ -618,3 +618,13 @@ smartwindow-sidebar-auto-open-callout-title = Want to keep the chatbot sidebar c
 smartwindow-sidebar-auto-open-callout-body = You can still open it whenever you need it.
 smartwindow-sidebar-auto-open-callout-accept = Yes, keep closed
 smartwindow-sidebar-auto-open-callout-dismiss = No thanks
+smartwindow-sidebar-auto-open-callout-accepted-title = The chatbot sidebar will stay closed
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Use Input to open it on any page. Change this anytime in <a data-l10n-name="settings">Settings</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Got it
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = If you change your mind, you can update the default in <a data-l10n-name="settings">Settings</a> anytime.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Pick a theme
+onboarding-theme-picker-subtitle = Bring a little more colour into { -brand-short-name }.
+onboarding-theme-picker-button-label = Save and continue

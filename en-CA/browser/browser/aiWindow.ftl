@@ -3,8 +3,65 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chrome
+
+main-context-menu-open-link-new-smart-window =
+    .label = Open Link in New { -smart-window-brand-name }
+    .accesskey = S
+appmenuitem-new-ai-window =
+    .label = New { -smart-window-brand-name }
+    .value = New { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = New Classic Window
+menu-file-new-ai-window =
+    .label = New { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = New Classic Window
+menu-history-chats =
+    .label = Chats
+menu-history-chats-recent =
+    .label = Recent Chats
+smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = New Tab
+
+## Smart Window Toggle Button
+
+ai-window-toggleview-switch-classic =
+    .label = Classic Window
+    .value = Classic Window
+ai-window-toggleview-switch-classic-description =
+    .label = Standard browsing
+    .value = Standard browsing
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Ask as you browse
+    .value = Ask as you browse
+ai-window-toggleview-switch-private =
+    .label = Private Window
+ai-window-toggleview-open-private =
+    .label = Open New Private Window
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Classic Window
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } switcher
+    .tooltiptext = Switch between Smart and Classic windows.
+
 ## Input CTA
 
+aiwindow-input-cta-submit-label-chat = Ask
+aiwindow-input-cta-submit-label-navigate = Go
+aiwindow-input-cta-submit-label-search = Search
+aiwindow-input-cta-submit-label-stop = Stop
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Response generation started
+aiwindow-input-cta-menu-label-chat = Ask
+aiwindow-input-cta-menu-label-navigate = Go to site
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Search with { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = Search with…
+aiwindow-input-cta-search-submenu-header = Search
 aiwindow-input-cta-stop-button =
     .aria-label = Stop response generation
     .title = Stop response
@@ -95,10 +152,64 @@ aiwindow-firstrun-memories-conversation-body = Using your chats as inputs means 
 aiwindow-firstrun-memories-relevance-title = More relevant outputs
 aiwindow-firstrun-memories-relevance-body = Using your browsing as inputs gives { -smart-window-brand-name } more inputs.
 aiwindow-firstrun-memories-privacy-title = Private by design
+aiwindow-firstrun-memories-privacy-body = Memories are stored on this device. Delete or turn off anytime.
+aiwindow-firstrun-memories-choose-label = Choose what { -smart-window-brand-name } uses as inputs
+aiwindow-firstrun-memories-checkbox-chats = Chats in { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Browsing across { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Update in settings anytime.
+aiwindow-firstrun-memories-no-create = Got it. { -smart-window-brand-name } won’t create memories. Update in settings anytime.
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = Make { -smart-window-brand-name } your go-to
 aiwindow-firstrun-default-subtitle = Browse, search, and ask in one place. You can still open Private and Classic Windows when you want.
+aiwindow-firstrun-default-checkbox-label = Always open { -brand-product-name } in { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Switch in settings anytime
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Ask
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .tooltiptext = Use memories in outputs
+    .aria-label = Memories on
+aiwindow-memories-off =
+    .tooltiptext = Don’t use memories in outputs
+    .aria-label = Memories off
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .tooltiptext = New chat
+    .aria-label = New chat
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .tooltiptext = Close
+    .aria-label = Close
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Synced data will remain in your account. Open { -smart-window-brand-name(plural-form: "true") } will switch to Classic Windows.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Switch to { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .tooltiptext = Chats
+    .aria-label = Chats
+    .label = Chats
+smartwindow-footer-history =
+    .tooltiptext = History
+    .aria-label = History
+    .label = History
 
 ## Clear browsing data dialog
 

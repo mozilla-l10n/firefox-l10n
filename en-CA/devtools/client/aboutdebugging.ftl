@@ -336,6 +336,12 @@ about-debugging-multiprocess-toolbox-name = Multiprocess Toolbox
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Main Process and Content Processes for the target browser
+about-debugging-message-error-icon =
+    .alt = Error icon
+about-debugging-message-info-icon =
+    .alt = Information icon
+about-debugging-message-warning-icon =
+    .alt = Warning icon
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Close message
@@ -348,3 +354,5 @@ about-debugging-message-details-label-error = Error details
 about-debugging-message-details-label-warning = Warning details
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Details
+about-debugging-sidebar =
+    .heading = Debugging

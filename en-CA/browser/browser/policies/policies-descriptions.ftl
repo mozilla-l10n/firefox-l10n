@@ -30,12 +30,17 @@ policy-BlockAboutSupport = Block access to the about:support page.
 policy-Bookmarks = Create bookmarks in the Bookmarks toolbar, Bookmarks menu, or a specified folder inside them.
 policy-CaptivePortal = Enable or disable captive portal support.
 policy-CertificatesDescription = Add certificates or use built-in certificates.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Enable the CNSA 2.0 ML-KEM-1024 key agreement for TLS.
 policy-ContentAnalysis = Enable or disable connection to data-loss-prevention agent.
 policy-Cookies = Allow or deny websites to set cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Set policies related to containers.
 policy-DisableAccounts = Disable account-based services, including sync.
 policy-DisabledCiphers = Disable ciphers.
+policy-DefaultBrowserSettingEnabled = Control whether the user can set { -brand-short-name } as the default browser.
 policy-DefaultDownloadDirectory = Set the default download directory.
 policy-DefaultSerialGuardSetting = Control use of the Serial API.
 policy-DisableAppUpdate = Prevent the browser from updating.
@@ -52,6 +57,7 @@ policy-DisableFirefoxScreenshots = Disable the Firefox Screenshots feature.
 policy-DisableFirefoxStudies = Prevent { -brand-short-name } from running studies.
 policy-DisableForgetButton = Prevent access to the Forget button.
 policy-DisableFormHistory = Don’t remember search and form history.
+policy-DisableLaunchOnLogin = Prevent { -brand-short-name } from launching automatically when the user logs in.
 policy-DisablePrimaryPasswordCreation = If true, a Primary Password can’t be created.
 policy-DisablePasswordReveal = Do not allow passwords to be revealed in saved logins.
 policy-DisablePocket2 = Disable the feature to save webpages to { -pocket-brand-name }.
