@@ -438,6 +438,23 @@ topsite-label-pinned =
     .aria-label = { $title } (đã ghim)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Thông báo từ { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Vừa xong
+newtab-topsites-hover-card-mark-all-read =
+    .title = Đánh dấu tất cả là đã đọc
+    .aria-label = Đánh dấu tất cả là đã đọc
+newtab-topsites-hover-card-settings =
+    .title = Cài đặt thông báo
+    .aria-label = Cài đặt thông báo
+newtab-topsites-hover-card-dismiss =
+    .title = Bỏ qua
+    .aria-label = Bỏ qua
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -657,6 +674,9 @@ newtab-custom-shortcuts-toggle =
     .description = Các trang web bạn lưu hoặc truy cập
 newtab-custom-shortcuts-nova =
     .label = Lối tắt
+newtab-custom-web-notifications-toggle =
+    .label = Thông báo trên web
+    .description = Hiển thị thông báo từ các trang web của bạn trên các phím tắt của chúng.
 newtab-custom-row-description =
     .description = Số lượng hàng
 # Variables

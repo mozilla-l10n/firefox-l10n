@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Vô hiệu hóa tính năng Firefox Screensho
 policy-DisableFirefoxStudies = Chặn { -brand-short-name } chạy các nghiên cứu.
 policy-DisableForgetButton = Chặn truy cập vào nút Quên.
 policy-DisableFormHistory = Không lưu lịch sử tìm kiếm và biểu mẫu.
+policy-DisableLaunchOnLogin = Ngăn { -brand-short-name } tự động khởi chạy khi người dùng đăng nhập.
 policy-DisablePrimaryPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
 policy-DisablePasswordReveal = Không cho phép mật khẩu được tiết lộ trong thông tin đăng nhập đã lưu.
 policy-DisablePocket2 = Tắt tính năng lưu trang web vào { -pocket-brand-name }.
