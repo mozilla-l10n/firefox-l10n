@@ -48,6 +48,8 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Huliðsvafur { -brand-shortcut-name }
+# This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
+browser-shortcut-description = Hraðvirkt vafur með verndun persónuupplýsinga
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -656,6 +658,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Slökkva á deilivörn fyrir þessa lotu
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Til að nota F12 flýtileiðina skaltu fyrst opna DevTools í gegnum valmyndina fyrir vafraverkfærin.
@@ -854,6 +859,11 @@ urlbar-result-weather-provider-sponsored = { $provider }∙Kostað
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spyrja
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1007,6 +1017,9 @@ urlbar-result-action-switch-to-tabgroup = Skipta yfir í { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Opna { $group }
+
+## Used in the context menu in urlbar view.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -1216,6 +1229,10 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nýr huliðsgluggi
     .tooltiptext = Opna nýjan glugga í huliðsstillingu ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -1648,3 +1665,6 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } leyfði { $count } rafmyntagrafara
     }
 trustpanel-cryptominer-tab-list-header = Þessi vefsvæði eru að reyna að grafa eftir rafmyntum hjá þér:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
