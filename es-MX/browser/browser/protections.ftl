@@ -40,9 +40,9 @@ graph-today = Hoy
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Una gráfica que contiene el número total de rastreadores, desglosados por tipo, que se bloquearon esta semana.
 social-tab-title = Rastreadores de redes sociales
-social-tab-contant = Las redes sociales colocan rastreadores en otros sitios para saber qué haces, lees y miras en la red. Ello permite a esas empresas conocerte más allá de lo que pones en tus perfiles sociales. <a data-l10n-name="learn-more-link">Más información</a>
+social-tab-contant = Las redes sociales colocan rastreadores en otros sitios web para seguir tu actividad y el contenido que ves en Internet. Esto permite que las empresas de redes sociales obtengan más información sobre ti, más allá de lo que compartes en tus perfiles. <a data-l10n-name="learn-more-link">Más información</a>
 cookie-tab-title = Cookies de rastreo multisitio
-cookie-tab-content = Estas cookies te siguen de sitio en sitio para recopilar información sobre lo que haces en línea. Las establecen empresas de terceros como agencias publicitarias y analizadoras de datos. El bloqueo multisitio reduce la cantidad de anuncios que te siguen de un sitio a otro. <a data-l10n-name="learn-more-link">Más información</a>
+cookie-tab-content = Estas cookies te siguen de un sitio a otro para recopilar datos sobre tu actividad en Internet. Las establecen terceros, como anunciantes y empresas de análisis. Bloquear las cookies de rastreo entre sitios reduce la cantidad de anuncios que te siguen mientras navegas. <a data-l10n-name="learn-more-link">Más información</a>
 tracker-tab-title = Contenido de rastreo
 tracker-tab-description = Los sitios web pueden cargar anuncios externos, videos y otros contenidos con código de rastreo. El bloqueo del contenido de rastreo puede ayudar a que los sitios se carguen más rápido, pero es posible que algunos botones, formularios y campos de inicio de sesión no funcionen. <a data-l10n-name="learn-more-link">Más información</a>
 fingerprinter-tab-title = Rastreadores de huella digital
