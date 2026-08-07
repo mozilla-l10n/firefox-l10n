@@ -113,6 +113,10 @@ smart-window-grouped-tabs-row-label = 그룹화된 탭
 # Variables
 #   $count (number) - Number of tabs opened
 smart-window-opened-tabs-label = 탭 { $count }개 열림
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single = 탭 { $count }개를 열었습니다.
+smart-window-opened-tabs-row-label = 열린 탭
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = 탭 그룹 해제
 # Variables
