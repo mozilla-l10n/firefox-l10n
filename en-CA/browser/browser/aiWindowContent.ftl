@@ -108,3 +108,100 @@ smart-window-restore-success-summary =
         [one] Tab closed, then restored.
        *[other] Tabs closed, then restored.
     }
+smart-window-cancelled-label = Request cancelled.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Group
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Group { $count } tab
+       *[other] Group { $count } tabs
+    }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Open
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Open { $count } tab
+       *[other] Open { $count } tabs
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Grouped { $count } tab
+       *[other] Grouped { $count } tabs
+    }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Tab Group
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Created the group “{ $label }” and added { $count } tab.
+       *[other] Created the group “{ $label }” and added { $count } tabs.
+    }
+smart-window-grouped-tabs-row-label = Grouped tabs
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Opened { $count } tab
+       *[other] Opened { $count } tabs
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Opened { $count } tab.
+       *[other] Opened { $count } tabs.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+       *[other] Created the group “{ $label }” and opened { $count } tabs.
+    }
+smart-window-opened-tabs-row-label = Opened tabs
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Switched tabs
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Switched to “{ $title }”.
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Tabs ungrouped
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } tab grouped, then ungrouped.
+       *[other] { $count } tabs grouped, then ungrouped.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Ungrouped { $count } tab
+       *[other] Ungrouped { $count } tabs
+    }
+
+## Action log
+
+action-log-searching-tabs = Searching tabs
+action-log-searched-open-tabs = Searched open tabs
+action-log-searching-history = Searching history
+action-log-searched-history = Searched history
+action-log-reading-page = Adding page contents to input
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Added page contents to input
+action-log-searching-web = Searching the web
+action-log-searched-web = Searched the web
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Searching the web with <a data-l10n-name="exa-link">Exa</a>
+action-log-checking-memories = Adding memories as inputs
+action-log-checked-memories = Added memories as inputs

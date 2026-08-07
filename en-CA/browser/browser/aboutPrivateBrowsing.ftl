@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Who might still be able to see my activi
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = You’re off the record
+about-private-browsing-nova-info-subheader2 = We’ll erase every search and sign-in when you close all your Private Windows. { -brand-short-name }’s built-in protections are on here too, like blocking trackers.
 about-private-browsing-nova-info-subheader = We’ll erase every search and sign-in when you close this window. { -brand-short-name }’s built-in protections are on here too, like blocking trackers.

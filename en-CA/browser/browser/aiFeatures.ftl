@@ -10,6 +10,8 @@ smart-window-block-description-memories = This will delete your { -smart-window-
 ai-window-features-group =
     .label = { -smart-window-brand-name }
     .description = Ask questions, compare pages, and get personalized suggestions with a built-in assistant.
+smart-window-select-label =
+    .label = { -smart-window-brand-name }
 ai-window-activate-link =
     .label = Get started
 ai-window-personalize-button =
@@ -21,12 +23,33 @@ ai-window-default-section =
 ai-window-is-default-window =
     .label = Use { -smart-window-brand-name } by default
     .description = Open { -smart-window-brand-name } when { -brand-short-name } starts, restarts, or opens links from other apps.
+ai-window-open-sidebar =
+    .label = Open assistant automatically
+    .description = Show the assistant sidebar on each new tab. Close it anytime.
+ai-window-smart-cursor-in-smart-window =
+    .label = Show shortcuts when selecting text
+    .description = Get quick access to summarize, explain, and more.
+smart-window-model-section =
+    .label = Assistant model
+    .description = Choose a model based on what’s important to you.
+smart-window-model-learn-link = Learn about models
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .label = Fast: Outputs quickly
+    .description = Model { $model } by { $ownerName }
+smart-window-model-flexible =
+    .label = Flexible: Solid fit for most needs
+    .description = Model { $model } by { $ownerName }
+smart-window-model-personal =
+    .label = Personal: Weights your personal inputs more heavily
+    .description = Model { $model } by { $ownerName }
+smart-window-model-custom =
+    .label = Custom: Use your own LLM
 smart-window-model-custom-name =
     .label = Model name
     .placeholder = Example: glm4
@@ -72,3 +95,18 @@ ai-window-delete-all-memories-cancel = Cancel
 ai-window-memory-delete-button =
     .title = Delete memory
     .aria-label = Delete { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Fast
+    .description = Best for quick outputs when speed matters. Full name: { $model } by { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Flexible
+    .description = Can output a variety of texts. Full name: { $model } by { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Personal
+    .description = Built for personalized outputs across languages. Full name: { $model } by { $ownerName }
