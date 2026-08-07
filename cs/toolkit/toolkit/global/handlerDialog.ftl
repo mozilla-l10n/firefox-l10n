@@ -92,6 +92,9 @@ choose-dialog-privatebrowsing-disabled = Vypnuto v anonymních oknech
 ## Shown when the user clicks a mailto: link and lets them pick which configured
 ## web mail service (or the OS default app) should handle email links.
 
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = Zvolte svou poštovní aplikaci
 # Confirms the picker: sets the selected app as the handler for email links.
 mailto-handler-picker-set-default =
     .label = Nastavit jako výchozí

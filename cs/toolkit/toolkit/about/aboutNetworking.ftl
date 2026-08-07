@@ -27,6 +27,12 @@ about-networking-ssl-tokens-token-list =
         [many] { $count } tokenů
        *[other] { $count } tokenů
     }
+about-networking-ssl-tokens-expired =
+    .alt = Platnost skončila
+    .title = Platnost skončila
+about-networking-ssl-tokens-ev-status = Certifikát EV
+about-networking-ssl-tokens-ct-status = Stav transparentnosti certifikátu
+about-networking-ssl-tokens-overridable-error = Přepsatelná kategorie chyby
 about-networking-refresh = Obnovit
 about-networking-auto-refresh = Automatické obnovení každé 3 sekundy
 about-networking-hostname = Adresa serveru
