@@ -53,6 +53,12 @@ about-networking-ssl-tokens-token-list =
         [few] { $count } tokeny
        *[many] { $count } tokenów
     }
+about-networking-ssl-tokens-restored =
+    .alt = Przywrócono z pamięci
+    .title = Przywrócono z pamięci
+about-networking-ssl-tokens-new =
+    .alt = Nowe w tej sesji
+    .title = Nowe w tej sesji
 about-networking-ssl-tokens-ev-status = Certyfikat EV
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Łańcuch certyfikatów ({ $count })

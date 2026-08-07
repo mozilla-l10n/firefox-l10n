@@ -308,6 +308,11 @@ appmenu-sync-promo-turnonsync-cta = Włącz synchronizację
 appmenu-sync-promo-connectdevice =
     .heading = Korzystaj z kart na telefonie
 appmenu-sync-promo-connectdevice-cta = Połącz urządzenie
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Zabierz zakładki ze sobą
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Weź zakładki na wynos
 
 ## Help panel
 
@@ -389,6 +394,7 @@ appmenuitem-relay-title-signed-in = Wyświetl maski dla adresu e-mail
 appmenuitem-relay-description = Zamaskuj swój prawdziwy adres e-mail i telefon
 appmenuitem-services-relay-description = Otwórz panel masek dla adresów e-mail
 appmenuitem-vpn-title2 = Ukryj swoje położenie za pomocą { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Korzystaj z dodatkowej ochrony w aplikacjach i na urządzeniach
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in = Otwórz { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Utrudnij śledzenie Twoich działań w Internecie
@@ -424,6 +430,8 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Obecnie używany profil
 fxa-menu-create-profile-subpanel =
     .title = Utwórz nowy profil
+fxa-menu-create-profile-heading = Podnieś poziom przeglądarki za pomocą nowego profilu
+fxa-menu-create-profile-description = Rozdziel zakładki, hasła i historię przeglądania na te związane z pracą i te prywatne.
 fxa-menu-create-profile-confirm =
     .label = Utwórz nowy profil
 fxa-menu-create-profile-learn-more =
@@ -437,6 +445,20 @@ appmenu-profiles-header = Profile
 appmenu-all-profiles =
     .label = Wszystkie profile
 appmenu-secure-sync-header = Bezpieczna synchronizacja
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Ostatnio otwarte karty
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Wyświetl { $tabCount } kartę z innego urządzenia
+            [few] Wyświetl wszystkie { $tabCount } karty z innych urządzeń
+           *[many] Wyświetl wszystkie { $tabCount } kart z innych urządzeń
+        }
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =
     .label = Wyślij bieżącą stronę do tego urządzenia
