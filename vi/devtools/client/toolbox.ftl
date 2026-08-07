@@ -47,6 +47,9 @@ toolbox-always-on-top-disabled2 = Bật luôn ở trên cùng
 ## These two labels are shown when navigating to a file:// URL while having DevTools opened,
 ## in order to suggest enabling the Local Mode and load them from https instead.
 
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Document này cũng có thể được tải từ “{ $url }” bằng “Local Mode” của DevTools, có thể bật trong bảng cài đặt.
 toolbox-local-mode-notice-add-to-settings-button = Thêm vào cài đặt
 toolbox-local-mode-notice-try-it-button = Thử ngay
 toolbox-local-mode-notice-always-hide = Đừng hỏi lại tôi điều này
