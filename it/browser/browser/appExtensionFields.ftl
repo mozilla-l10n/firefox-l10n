@@ -18,6 +18,7 @@ extension-firefox-alpenglow-description = Utilizza una combinazione di colori va
 ## Theme names shown in the Firefox Themes picker in about:addons and theme add-on card,
 ## and new default-theme description for the theme add-on card.
 
+extension-default-theme-description2 = Un grigio-viola equilibrato e familiare con l’aspetto classico di { -brand-product-name }.
 
 ## Theme labels
 ## These are short, evocative names for color themes in Firefox. Each name

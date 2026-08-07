@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Apri i tuoi siti di streaming preferiti co
 taskbar-tabs-value-prop-callout-title = Aggiungi questo sito alla barra delle applicazioni
 taskbar-tabs-value-prop-callout-subtitle = Aprilo in una finestra separata e con un’interfaccia ottimizzata con un solo clic.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Rimani connesso dalla barra delle applicazioni
+taskbar-tabs-email-callout-title-v3 = Mantieni la tua email nella barra delle applicazioni
+taskbar-tabs-email-callout-subtitle-v3 = Apri i siti per gestire le tue email come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Mantieni i tuoi streaming nella barra delle applicazioni
+taskbar-tabs-media-callout-subtitle-v3 = Apri i tuoi siti multimediali preferiti come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Mantieni i tuoi siti preferiti nella barra delle applicazioni
+taskbar-tabs-value-prop-callout-subtitle-v3 = Apri qualsiasi sito come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Riprendi i tuoi giochi dalla barra delle applicazioni
+taskbar-tabs-gaming-callout-subtitle-v3 = Apri i tuoi siti di giochi preferiti come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Aggiungi alla barra delle applicazioni
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Non perdere tutto ciò che hai salvato quando passi a Windows 11.
