@@ -190,6 +190,10 @@ contextual-manager-passwords-edit-label =
     .label = Ẓreg awal uffir
 contextual-manager-passwords-remove-label =
     .title = Kkes awal n uεeddi
+contextual-manager-passwords-username-field =
+    .label = Isem n useqdac
+contextual-manager-passwords-password-field =
+    .label = Awal uffir
 
 ## Password Card
 
