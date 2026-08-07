@@ -293,6 +293,14 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Chwilio'ch hanes
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Cadw'ch wedi'ch cydweddu ar draws dyfeisiau
+
 ## Help panel
 
 appmenu-help-header =

@@ -219,6 +219,9 @@ smart-window-opened-tabs-summary-group =
 smart-window-opened-tabs-row-label = Tabiau wedi'u hagor
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Tabiau wedi'u newid
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Wedi newid i “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Tabiau heb eu grwpio
 # Variables
