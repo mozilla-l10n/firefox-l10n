@@ -30,6 +30,9 @@ contextual-manager-passwords-remove-login-card-cancel-button = இரத்த�
 
 ## Login Form
 
+contextual-manager-passwords-origin-field =
+    .label = வலைத்தள முகவரி
+    .placeholder = https://www.example.com
 contextual-manager-passwords-username-field =
     .label = பயனர்பெயர்
 contextual-manager-passwords-password-field =
