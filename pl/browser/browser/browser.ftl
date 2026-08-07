@@ -626,6 +626,8 @@ identity-description-passive-loaded-insecure2 = Niektóre elementy tej witryny (
 identity-description-passive-loaded-mixed2 = { -brand-short-name } zablokował niektóre elementy strony, mimo to nie wszystkie pozostałe elementy były przesłane w sposób bezpieczny (np. obrazy).
 identity-description-active-loaded = Witryna zawiera elementy, które nie były przesłane w sposób bezpieczny (np. skrypty) i połączenie z nią nie zapewnia prywatności.
 identity-description-active-loaded-insecure = Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.
+identity-description-tls-key-logging-heading = Połączenie może nie zapewniać prywatności
+identity-description-tls-key-logging-message = Aplikacja lub usługa może podejrzeć zaszyfrowany ruch z tej witryny.
 identity-disable-mixed-content-blocking =
     .label = Tymczasowo wyłącz ochronę
     .accesskey = T
@@ -1605,6 +1607,9 @@ private-browsing-indicator-button =
     .tooltiptext = Informacje o trybie prywatnym
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Okno w trybie prywatnym
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Tryb prywatny pomaga ukryć Twoje działania w Internecie przed innymi użytkownikami tego urządzenia, ale nie daje niewidzialności w sieci. <a data-l10n-name="learn-more">Kto może zobaczyć co robię?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
