@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Ultima sincronizare { $time }
     .label = Ultima sincronizare { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizează și salvează datele
 appmenu-fxa-signed-in-label = Intră în cont
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Intră în cont pentru sincronizare
+appmenu-fxa-sign-in-promo-message = Ia-ți datele cu tine peste tot
+appmenu-fxa-sign-in-promo-button =
+    .label = Intră în cont
 appmenu-fxa-setup-sync =
     .label = Activează sincronizarea…
 appmenu-fxa-setup-sync-new = Activează
@@ -286,6 +292,27 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Caută în istoric
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Rămâi sincronizat(ă) pe toate dispozitivele
+appmenu-sync-promo-signin-cta = Intră în cont
+appmenu-sync-promo-turnonsync =
+    .heading = Sincronizează filele și istoricul
+appmenu-sync-promo-turnonsync-cta = Activează sincronizarea
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Ia-ți filele de pe mobil
+appmenu-sync-promo-connectdevice-cta = Conectează un dispozitiv
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Ia-ți marcajele cu tine
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Ia-ți marcajele cu tine
 
 ## Help panel
 

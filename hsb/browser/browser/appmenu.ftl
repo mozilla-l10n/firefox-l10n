@@ -298,11 +298,18 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = Wostańće synchrony na wšěch gratach
 appmenu-sync-promo-signin-cta = Přizjewić
 appmenu-sync-promo-turnonsync =
     .heading = Synchronizujće swoje rajtarki a historiju
 appmenu-sync-promo-turnonsync-cta = Synchronizaciju zmóžnić
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Wobstarajće sej swoje mobilne rajtarki
 appmenu-sync-promo-connectdevice-cta = Grat zwjazać
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Wzmiće swoje zapołožki sobu
 
 ## Help panel
 

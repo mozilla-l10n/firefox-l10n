@@ -722,6 +722,9 @@ newtab-custom-shortcuts-toggle =
     .description = Sydła, kotrež składujeće abo wopytujeće
 newtab-custom-shortcuts-nova =
     .label = Zwjazanja
+newtab-custom-web-notifications-toggle =
+    .label = Webzdźělenki
+    .description = Zdźělenki z wašich sydłow na jich zwjazanjach pokazać
 newtab-custom-row-description =
     .description = Ličba linkow
 # Variables

@@ -478,6 +478,23 @@ topsite-label-pinned =
     .aria-label = { $title } (fixat)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Notificări de la { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Adineauri
+newtab-topsites-hover-card-mark-all-read =
+    .title = Marchează tot ca citit
+    .aria-label = Marchează tot ca citit
+newtab-topsites-hover-card-settings =
+    .title = Setări privind notificările
+    .aria-label = Setări privind notificările
+newtab-topsites-hover-card-dismiss =
+    .title = Închide
+    .aria-label = Închide
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -693,6 +710,9 @@ newtab-custom-shortcuts-toggle =
     .description = Site-uri pe care le salvezi sau le vizitezi
 newtab-custom-shortcuts-nova =
     .label = Comenzi rapide
+newtab-custom-web-notifications-toggle =
+    .label = Notificări web
+    .description = Afișează notificările de la site-uri pe comenzile lor rapide
 newtab-custom-row-description =
     .description = Număr de rânduri
 # Variables
@@ -1653,6 +1673,24 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Rezultatele căutării
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Adaugă „{ $city }” ca ceas personalizat
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Numele orașului
+    .aria-label = Numele orașului
+    .placeholder = Denumește acest ceas
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Fus orar
+    .aria-label = Fus orar
+    .placeholder = Căută după oraș, fus orar sau decalaj UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Rezultate fus orar
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Niciun fus orar potrivit
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

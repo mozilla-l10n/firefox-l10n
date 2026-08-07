@@ -123,6 +123,15 @@ smart-window-confirm-group-tabs =
         [few] Grupează { $count } file
        *[other] Grupează { $count } de file
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Deschide
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Deschide { $count } filă
+        [few] Deschide { $count } file
+       *[other] Deschide { $count } de file
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -132,6 +141,9 @@ smart-window-grouped-tabs-label =
         [few] { $count } file grupate
        *[other] { $count } de file grupate
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Grup de file
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -142,6 +154,36 @@ smart-window-grouped-tabs-summary =
        *[other] A fost creat grupul „{ $label }” și s-au adăugat { $count } de file.
     }
 smart-window-grouped-tabs-row-label = File grupate
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] S-a deschis { $count } filă
+        [few] S-au deschis { $count } file
+       *[other] S-au deschis { $count } de file
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] S-a deschis { $count } filă.
+        [few] S-au deschis { $count } file.
+       *[other] S-au deschis { $count } de file.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] A fost creat grupul „{ $label }” și s-a deschis { $count } filă.
+        [few] A fost creat grupul „{ $label }” și s-au deschis { $count } file.
+       *[other] A fost creat grupul „{ $label }” și s-au deschis { $count } de file.
+    }
+smart-window-opened-tabs-row-label = File deschise
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Ai trecut la „{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = File degrupate
 # Variables
