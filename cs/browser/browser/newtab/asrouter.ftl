@@ -406,6 +406,17 @@ launch-on-login-infobar-final-message =
 launch-on-login-infobar-final-reject-button = Ne, děkuji
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+launch-on-login-autostart-infobar-keep-button = Ponechat zapnuté
+    .accesskey = z
+launch-on-login-autostart-infobar-turn-off-button = Vypnout
+    .accesskey = V
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set

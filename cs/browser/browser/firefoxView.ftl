@@ -38,6 +38,8 @@ firefoxview-syncedtabs-signin-header-2 =
        *[other] Vaše aplikace { -brand-product-name } na všech vašich zařízeních
     }
 firefoxview-syncedtabs-signin-description-2 = Chcete-li zobrazit panely, které máte otevřené v telefonu a dalších zařízeních, přihlaste se nebo si vytvořte účet. S účtem můžete také synchronizovat svá hesla, historii a další data.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Z notebooku do telefonu, bezproblémově
 firefoxview-syncedtabs-signin-primarybutton-2 = Přihlásit se
 firefoxview-tabpickup-adddevice-header =
     { -brand-product-name.case-status ->
@@ -70,18 +72,30 @@ firefoxview-tabpickup-synctabs-description =
     }
 firefoxview-tabpickup-synctabs-learn-how = Zjistěte jak
 firefoxview-tabpickup-synctabs-primarybutton = Synchronizovat otevřené panely
+firefoxview-tabpickup-synctabs-primarybutton-2 = Zapnutí synchronizace panelů
 firefoxview-syncedtabs-synctabs-header = Aktualizace nastavení synchronizace
 firefoxview-syncedtabs-synctabs-description = Chcete-li zobrazit panely z jiných zařízení, musíte své otevřené panely synchronizovat.
+firefoxview-syncedtabs-synctabs-header-2 = Synchronizace panelů je vypnutá
+firefoxview-syncedtabs-synctabs-description-2 = Pokud chcete získat všechny panely z jiných zařízení, znovu zapněte synchronizaci.
 firefoxview-syncedtabs-loading-header = Probíhá synchronizace
 firefoxview-syncedtabs-loading-description = Po dokončení se zobrazí všechny panely otevřené na jiných zařízeních. Už za chvíli.
+firefoxview-syncedtabs-loading-header-2 = Načítají se vaše panely…
+firefoxview-syncedtabs-loading-description-2 = Probíhá synchronizace. Panely budou brzy k dispozici.
 firefoxview-tabpickup-fxa-admin-disabled-header = Synchronizace je zakázána vaší organizací
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemůže synchronizovat panely mezi zařízeními, protože je synchronizace zakázána vaším správcem.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nemůže synchronizovat panely mezi zařízeními, protože vaše organizace zakázala synchronizaci.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Synchronizace panelů je vypnutá
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Vaše organizace tuto funkci zablokovala.
 firefoxview-tabpickup-network-offline-header = Zkontrolujte své připojení k Internetu
 firefoxview-tabpickup-network-offline-description = Pokud jste připojeni přes firewall, zkontrolujte, že má { -brand-short-name } povolený přístup na web.
 firefoxview-tabpickup-network-offline-primarybutton = Zkusit znovu
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } se momentálně nemůže připojit
+firefoxview-tabpickup-network-offline-description-2 = Možná nejste připojeni, nebo něco blokuje připojení.
 firefoxview-tabpickup-sync-error-header = Při synchronizaci se vyskytly problémy
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } se nyní nemůže spojit se službou pro synchronizaci. Zkuste to prosím za chvíli znovu.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Synchronizace narazila na problém
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } se nemůže připojit. Počkejte chvíli a zkuste to znovu.
 firefoxview-tabpickup-sync-error-primarybutton = Zkusit znovu
 firefoxview-tabpickup-sync-disconnected-header = Pro pokračování zapněte synchronizaci
 firefoxview-tabpickup-sync-disconnected-description =
@@ -99,10 +113,14 @@ firefoxview-tabpickup-password-locked-description =
 firefoxview-tabpickup-password-locked-link = Zjistit více
 firefoxview-tabpickup-password-locked-primarybutton = Zadat hlavní heslo
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Zjistit více</a>
+firefoxview-tabpickup-password-locked-header-2 = Odemkněte panely pomocí svého hlavního hesla
+firefoxview-tabpickup-password-locked-description-2 = Z důvodu ochrany vašich osobních údajů jsou synchronizované panely chráněny. Zadejte své hlavní heslo pro { -brand-short-name }, abyste mohli zobrazit panel z vašich dalších zařízení.
 firefoxview-tabpickup-signed-out-header = Pro opětovné připojení se přihlaste
 firefoxview-tabpickup-signed-out-description = Chcete-li se znovu připojit a získat své panely, přihlaste se ke svému { -fxaccount-brand-name(case: "dat", capitalization: "lower") }.
 firefoxview-tabpickup-signed-out-description2 = Chcete-li se znovu připojit a získat své panely, přihlaste se do svého účtu.
 firefoxview-tabpickup-signed-out-primarybutton = Přihlásit se
+firefoxview-tabpickup-signed-out-header-2 = Přihlaste se a zobrazte si panely
+firefoxview-tabpickup-signed-out-description-2 = Znovu se připojte, abyste mohli zobrazit panely z jiných zařízení.
 firefoxview-tabpickup-syncing = Posaďte se, zatímco se vaše panely synchronizují. Bude to jen chvilka.
 firefoxview-mobile-promo-header = Vezměte si sem panely z telefonu nebo tabletu
 firefoxview-mobile-promo-description =
@@ -273,6 +291,8 @@ firefoxview-choose-browser-button = Zvolte prohlížeč
 
 firefoxview-dont-remember-history-empty-header-2 = Vy máte kontrolu nad tím, co si { -brand-short-name } pamatuje
 firefoxview-dont-remember-history-empty-description-one = Nyní si { -brand-short-name } nepamatuje vaši aktivitu při procházení internetu. Chcete-li to změnit, <a data-l10n-name="history-settings-url-two">aktualizujte nastavení historie</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Historie vašeho prohlížení nebude zaznamenávána
 
 ##
 
