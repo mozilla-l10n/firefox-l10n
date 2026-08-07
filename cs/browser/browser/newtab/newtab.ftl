@@ -360,6 +360,8 @@ newtab-privacy-message-first-protection-cta = Zobrazit ochrany
 newtab-stocks-menu-search = Hledat burzové symboly
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Zjistit více
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Burzové údaje nejsou k dispozici.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

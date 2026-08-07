@@ -715,3 +715,16 @@ nova-early-access-share-feedback-link = Sdílet zpětnou vazbu
     .accesskey = S
 nova-early-access-infobar-primary-button = Rozumím
     .accesskey = R
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-pin-to-taskbar = Připnout na panel úloh
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Znovu otevřít aktuální okna a panely
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Znovu otevřít předcházející okna a panely
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Uložit a pokračovat
