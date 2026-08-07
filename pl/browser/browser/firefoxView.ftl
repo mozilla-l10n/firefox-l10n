@@ -233,6 +233,10 @@ firefoxview-show-all-history = Wyświetl całą historię
 firefoxview-history-empty-header = Wracaj do przeszłości
 firefoxview-history-empty-description = Strony otwierane w czasie przeglądania będą tutaj widoczne.
 firefoxview-history-empty-description-two = Ochrona Twojej prywatności leży u podstaw naszej działalności. Dlatego możesz kontrolować, co { -brand-short-name } zapamiętuje w <a data-l10n-name="history-settings-url">ustawieniach historii</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Twój szlak przeglądania zaczyna się tutaj
+firefoxview-history-empty-description-2 = Tutaj będzie wyświetlana historia otwieranych stron. Kontroluj, co jest zapamiętywane w <a data-l10n-name="history-settings-url">ustawieniach</a>.
 
 ##
 
@@ -244,6 +248,8 @@ firefoxview-choose-browser-button = Wybierz przeglądarkę
 
 firefoxview-dont-remember-history-empty-header-2 = Masz kontrolę nad tym, co { -brand-short-name } zapamiętuje
 firefoxview-dont-remember-history-empty-description-one = W tej chwili { -brand-short-name } nie zapamiętuje tego, co przeglądasz. Możesz zmienić <a data-l10n-name="history-settings-url-two">ustawienia historii</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Historia przeglądania zostanie usunięta
 
 ##
 
