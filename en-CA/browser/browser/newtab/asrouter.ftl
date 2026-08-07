@@ -305,6 +305,14 @@ launch-on-login-infobar-final-reject-button = No thanks
 # launch-on-login can be toggled, not the Windows system settings.
 launch-on-login-autostart-infobar-message = { -brand-short-name } now starts up when you sign in to Windows. You can always change this later in settings.
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Open { -brand-short-name } next time your computer starts up?
+launch-on-login-spotlight-startup-checkbox = Launch { -brand-short-name } at startup
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.

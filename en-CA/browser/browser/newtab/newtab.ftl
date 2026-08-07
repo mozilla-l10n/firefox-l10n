@@ -158,6 +158,12 @@ home-prefs-mission-message-learn-more-link-srd = Find out how
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-5 = Blocked trackers means fewer companies can follow you across sites.
+newtab-privacy-message-info-5-cta = View protections
+newtab-privacy-message-info-6 = Keep your data with { -brand-short-name }. We never sell it, but other browsers might.
+newtab-privacy-message-info-6-cta = Learn more
+newtab-privacy-message-info-7 = See which trackers { -brand-short-name } blocked.
+newtab-privacy-message-info-7-cta = View protections
 newtab-privacy-message-info-8 = Browsing with { -brand-short-name } supports { -vendor-short-name }’s mission to build a better web.
 newtab-privacy-message-info-8-cta = Learn more
 newtab-privacy-message-info-9 = Make { -brand-short-name } your go-to browser for built-in privacy.
@@ -262,10 +268,44 @@ newtab-stocks-widget-menu-button =
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Stocks
 
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, up { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, down { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, no change, { $change }, { $price }
+
 ## Strings for the Picture of the Day widget
 
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Picture of the day
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = View the { $license } license
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .title = Picture of the day options
+    .aria-label = Picture of the day options
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Wikimedia Commons picture of the day
 
 ## Search box component.
 
@@ -302,6 +342,7 @@ newtab-topsites-add-shortcut-label = Add Shortcut
 newtab-topsites-add-shortcut-title =
     .title = Add Shortcut
     .aria-label = Add Shortcut
+newtab-shortcuts-pinned-area = Pinned Area
 newtab-topsites-title-label = Title
 newtab-topsites-title-input =
     .placeholder = Enter a title
@@ -345,6 +386,23 @@ topsite-label-pinned =
     .aria-label = { $title } (pinned)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Notifications from { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Just now
+newtab-topsites-hover-card-mark-all-read =
+    .title = Mark all as read
+    .aria-label = Mark all as read
+newtab-topsites-hover-card-settings =
+    .title = Notification settings
+    .aria-label = Notification settings
+newtab-topsites-hover-card-dismiss =
+    .title = Dismiss
+    .aria-label = Dismiss
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -369,6 +427,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Edit
+newtab-menu-add-topsite = Add New Shortcut
 newtab-menu-open-new-window = Open in a New Window
 newtab-menu-open-new-private-window = Open in a New Private Window
 newtab-menu-dismiss = Dismiss
@@ -563,6 +622,9 @@ newtab-custom-shortcuts-toggle =
     .description = Sites you save or visit
 newtab-custom-shortcuts-nova =
     .label = Shortcuts
+newtab-custom-web-notifications-toggle =
+    .label = Web notifications
+    .description = Show notifications from your sites on their shortcuts
 newtab-custom-row-description =
     .description = Number of rows
 # Variables
@@ -612,6 +674,12 @@ newtab-custom-widget-clock-toggle =
     .label = Clock
 newtab-custom-widget-sports-toggle2 =
     .label = Sports
+newtab-custom-widget-privacy-toggle =
+    .label = Privacy
+newtab-custom-widget-stocks-toggle =
+    .label = Stocks
+newtab-custom-widget-picture-toggle =
+    .label = Picture of the day
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -624,6 +692,29 @@ newtab-custom-close-menu-button =
     .aria-label = Close menu
 newtab-custom-close-button = Close
 newtab-custom-settings = Manage more settings
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Appearance
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = See more themes
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } Themes
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Your themes
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Enable
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Disable
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Install theme
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Explore more themes
 
 ## New Tab Wallpapers
 
@@ -1010,6 +1101,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Cancel
     .title = Cancel
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Lists options
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Create a new list
@@ -1090,6 +1184,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Turn off notifications
 newtab-widget-timer-menu-notifications-on = Turn on notifications
 newtab-widget-timer-menu-learn-more = Learn more
+newtab-widget-timer-menu-button =
+    .aria-label = Timer options
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Top Headlines
 newtab-daily-briefing-card-menu-dismiss = Dismiss
@@ -1200,6 +1296,8 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Only followed teams
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Loading more matches…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Watch
@@ -1279,6 +1377,9 @@ newtab-sports-widget-third-place = Third place
 newtab-sports-widget-runner-up = Runner-up
 newtab-sports-widget-champions = Champions
 newtab-sports-widget-world-cup-champions = 2026 World Cup Champions
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = 2026 Champions
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1377,12 +1478,23 @@ newtab-sports-widget-team-tbd = To be determined
 newtab-sports-widget-message-wallpapers-title = Kick off the World Cup with new wallpapers
 newtab-sports-widget-message-wallpapers-body = Bring some game-day energy to your browser for the tournament.
 newtab-sports-widget-message-wallpapers-cta = Choose wallpaper
+newtab-sports-widget-message-wallpapers-semifinals-title = Get a new wallpaper for the semi-finals
+newtab-sports-widget-message-wallpapers-semifinals-body = Set the stage for the World Cup’s biggest matches.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Add widgets
 newtab-sports-widget-message-day-in-play-title = Keep your day in play with { -brand-product-name } widgets
 newtab-sports-widget-message-day-in-play-body = Follow the World Cup, stay on task, track time around the globe, and more.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explore widgets
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Help us make widgets better
+newtab-sports-widget-message-survey-body = That’s a wrap on the World Cup. Share your feedback on the experience.
+newtab-sports-widget-message-survey-widget-title = How was the World Cup widget?
+newtab-sports-widget-message-survey-widget-body = Share your feedback to help us improve future widgets. Then, try the new one in your lineup.
+newtab-sports-widget-message-survey-cta =
+    .label = Take survey
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1466,6 +1578,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Search results
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Add “{ $city }” as a custom clock
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = City name
+    .placeholder = Name this clock
+    .aria-label = City name
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Time zone
+    .placeholder = Search by city, time zone, or UTC offset
+    .aria-label = Time zone
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Time zone results
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = No matching time zones
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Back
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

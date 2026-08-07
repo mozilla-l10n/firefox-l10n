@@ -107,3 +107,10 @@ customkeys-sidebar =
     .aria-label = Sidebar
 customkeys-title-heading =
     .heading = Keyboard Shortcuts
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Search shortcuts
+    .placeholder = Search shortcuts
+customkeys-description = Control how you move around and interact with { -brand-short-name }.
+customkeys-support-link-text = Learn more
+customkeys-reset-all-button = Restore defaults

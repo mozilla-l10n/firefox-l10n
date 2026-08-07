@@ -171,6 +171,12 @@ aiwindow-firstrun-default-checkbox-description = Switch in settings anytime
 smartwindow-ask-button =
     .label = Ask
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Group my tabs
+    .tooltiptext = Group my tabs
+
 ## Memories toggle button
 
 aiwindow-memories-on =
@@ -192,6 +198,35 @@ aiwindow-close-sidebar =
     .tooltiptext = Close
     .aria-label = Close
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .tooltiptext = More options
+    .aria-label = More options
+aiwindow-history-menu-chat-history = Chat history
+aiwindow-history-menu-back =
+    .tooltiptext = Back
+    .aria-label = Back
+aiwindow-history-menu-view-all-chats = View all chats
+aiwindow-history-menu-settings = { -smart-window-brand-name } settings
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = New chat
+aiwindow-fullpage-chat-history =
+    .label = Chat history
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = More
+    .title = More
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Synced data will remain in your account. Open { -smart-window-brand-name(plural-form: "true") } will switch to Classic Windows.
@@ -211,6 +246,48 @@ smartwindow-footer-history =
     .aria-label = History
     .label = History
 
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = AI can output lies.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Chats
+    .title = Chats
+firefoxview-chats-header = Chats
+firefoxview-chat-context-delete = Delete from Chats
+    .accesskey = D
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Search chats
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Today - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Yesterday - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Get back to your chats
+firefoxview-chats-empty-description = As you use { -smart-window-brand-name }, your chats will be saved here.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } chat
+       *[other] { $count } chats
+    }
+
 ## Clear browsing data dialog
 
 item-history-downloads-and-chat =
@@ -218,8 +295,47 @@ item-history-downloads-and-chat =
     .accesskey = B
 item-history-downloads-and-chat-description = Clears site, download, and chat history
 
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .aria-label = Select all
+    .label = Select all
+smart-window-confirm-deselect-all =
+    .aria-label = Deselect all
+    .label = Deselect all
+smart-window-close-confirm =
+    .tooltiptext = Cancel request and close
+    .aria-label = Cancel request and close
+smart-window-confirm-close-tab = Close
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Close { $count } tab
+       *[other] Close { $count } tabs
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Tab closed
+smartwindow-close-tab-callout-subtitle = Reopen tabs from History anytime.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Make { -smart-window-brand-name } your default?
+smart-window-default-promo-message = { -brand-short-name } will open in { -smart-window-brand-name } every time.
+smart-window-default-promo-primary-button = Set as default
+smart-window-default-promo-additional-button = Not now
+
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Share feedback
+aiwindow-feedback-what-worked-well = What worked well? No personal info, please.
+aiwindow-feedback-choose-any = Choose any that apply
+aiwindow-feedback-add-details = Add details if you’d like. No personal info, please.
+aiwindow-feedback-disclaimer = Submitting shares your feedback and this chat to help { -brand-shorter-name } improve { -smart-window-brand-name }. Your other chats stay private. <a data-l10n-name="learn-more">Learn more</a>
 aiwindow-feedback-submit = Submit
 aiwindow-feedback-cancel = Cancel
 aiwindow-feedback-reason-incorrect-or-misleading = Incorrect or misleading

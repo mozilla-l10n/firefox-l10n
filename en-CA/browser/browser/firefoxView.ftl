@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = To grab your phone tabs here, fi
 firefoxview-tabpickup-step-signin-primarybutton = Continue
 firefoxview-syncedtabs-signin-header-2 = Your { -brand-product-name } on all your devices
 firefoxview-syncedtabs-signin-description-2 = To see tabs you have open on your phone and other devices, sign in or sign up for an account. With an account, you can also sync your passwords, history, and more.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = From laptop to phone, seamlessly
+firefoxview-syncedtabs-signin-description-3 = Keep your browsing connected across devices — tabs, passwords, and history, all in sync.
 firefoxview-syncedtabs-signin-primarybutton-2 = Sign in
 firefoxview-tabpickup-adddevice-header = Sync { -brand-product-name } on your phone or tablet
 firefoxview-tabpickup-adddevice-description = Download { -brand-product-name } for mobile and sign in there.
@@ -40,20 +43,32 @@ firefoxview-tabpickup-adddevice-primarybutton = Get { -brand-product-name } for 
 firefoxview-syncedtabs-adddevice-header-2 = Grab tabs from anywhere
 firefoxview-syncedtabs-adddevice-description-2 = Sign in to { -brand-product-name } on your phone or another computer to see tabs here. Learn how to <a data-l10n-name="url">connect additional devices</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Try { -brand-product-name } for mobile
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Your tabs called. They’re on your phone.
+firefoxview-syncedtabs-adddevice-description-3 = Scan the QR code to get { -brand-product-name } for mobile and start syncing your open tabs and more. Learn how to <a data-l10n-name="url">connect additional devices</a>.
 firefoxview-tabpickup-synctabs-header = Turn on tab syncing
 firefoxview-tabpickup-synctabs-description = Allow { -brand-short-name } to share tabs between devices.
 firefoxview-tabpickup-synctabs-learn-how = Learn how
 firefoxview-tabpickup-synctabs-primarybutton = Sync open tabs
+firefoxview-tabpickup-synctabs-primarybutton-2 = Turn on tab syncing
 firefoxview-syncedtabs-synctabs-header = Update your sync settings
 firefoxview-syncedtabs-synctabs-description = To see tabs from other devices, you need to sync your open tabs.
+firefoxview-syncedtabs-synctabs-header-2 = Tab syncing is off
+firefoxview-syncedtabs-synctabs-description-2 = Turn syncing back on to grab all your tabs from other devices.
 firefoxview-syncedtabs-loading-header = Sync in progress
 firefoxview-syncedtabs-loading-description = When it’s done, you’ll see any tabs you have open on other devices. Check back soon.
+firefoxview-syncedtabs-loading-header-2 = Fetching your tabs…
+firefoxview-syncedtabs-loading-description-2 = Sync’s in progress. Tabs will be here soon.
 firefoxview-tabpickup-fxa-admin-disabled-header = Your organization has disabled sync
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } is not able to sync tabs between devices because your administrator has disabled syncing.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } is not able to sync tabs between devices because your organization has disabled syncing.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Tab syncing is off
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Your organization blocked this feature.
 firefoxview-tabpickup-network-offline-header = Check your internet connection
 firefoxview-tabpickup-network-offline-description = If you’re using a firewall or proxy, check that { -brand-short-name } has permission to access the web.
 firefoxview-tabpickup-network-offline-primarybutton = Try again
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } can’t connect right now
+firefoxview-tabpickup-network-offline-description-2 = You might be offline, or something may be blocking the connection.
 firefoxview-tabpickup-sync-error-header = We’re having trouble syncing
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } can’t reach the syncing service right now. Try again in a few moments.
 # “Sync hit a snag” means that the sync process is having a problem and can’t connect.

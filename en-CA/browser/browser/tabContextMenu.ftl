@@ -149,11 +149,26 @@ tab-context-close-n-tabs =
            *[other] Close { $tabCount } Tabs
         }
     .accesskey = C
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Close
+           *[other] Close { $tabCount } Tabs
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
             [1] Move Tab
            *[other] Move Tabs
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Move Tab to
+           *[other] Move { $tabCount } Tabs to
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
