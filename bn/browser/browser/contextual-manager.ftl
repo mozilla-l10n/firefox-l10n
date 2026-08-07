@@ -93,6 +93,9 @@ contextual-manager-passwords-remove-login-card-cancel-button = বাতিল
 
 contextual-manager-passwords-create-label =
     .label = পাসওয়ার্ড যোগ করুন
+contextual-manager-passwords-origin-field =
+    .label = ওয়েবসাইটের ঠিকানা
+    .placeholder = https://www.example.com
 contextual-manager-passwords-username-field =
     .label = ব্যবহারকারীর নাম
 contextual-manager-passwords-password-field =
