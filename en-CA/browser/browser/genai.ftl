@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = By choosing Anthropic Claude, you agree to th
 genai-settings-chat-copilot-links = By choosing Copilot, you agree to the <a data-l10n-name="link1">Copilot AI Experiences Terms</a> and <a data-l10n-name="link2">Microsoft Privacy Statement</a>.
 genai-settings-chat-gemini-links = By choosing Google Gemini, you agree to the <a data-l10n-name="link1">Google Terms of Service</a>, <a data-l10n-name="link2">Generative AI Prohibited Use Policy</a>, and <a data-l10n-name="link3">Gemini Apps Privacy Notice</a>.
 genai-settings-chat-huggingchat-links = By choosing HuggingChat, you agree to the <a data-l10n-name="link1">HuggingChat Privacy Notice</a> and <a data-l10n-name="link2">Hugging Face Privacy Policy</a>.
+genai-settings-chat-lechat-links-2 = By choosing Mistral Vibe, you agree to the Mistral AI <a data-l10n-name="link1">Terms of Service</a> and <a data-l10n-name="link2">Privacy Policy</a>.
 genai-settings-chat-lechat-links = By choosing Le Chat Mistral, you agree to the Mistral AI <a data-l10n-name="link1">Terms of Service</a> and <a data-l10n-name="link2">Privacy Policy</a>.
 genai-settings-chat-localhost-links = Bring your own private local chatbot such as <a data-l10n-name="link1">llamafile</a> from { -vendor-short-name }’s Innovation group.
 
@@ -68,6 +69,8 @@ genai-shortcut-button =
     .aria-label = Ask { $provider }
 genai-menu-new-badge = New
 genai-menu-summarize-page = Summarize Page
+genai-input-ask-smart-window =
+    .placeholder = Input…
 genai-input-ask-generic =
     .placeholder = Ask AI chatbot…
 # $provider (string) - name of the provider
@@ -103,6 +106,9 @@ genai-menu-ask-provider-2 =
     .accesskey = z
 genai-menu-no-provider-2 =
     .label = Ask an AI Chatbot
+    .accesskey = z
+genai-menu-ask-smart-window =
+    .label = Input…
     .accesskey = z
 
 ## Chatbot header
@@ -163,6 +169,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Learn more about Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = Learn more about HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral

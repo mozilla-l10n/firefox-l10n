@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Last synced { $time }
     .label = Last synced { $time }
 appmenu-fxa-sync-and-save-data2 = Sync and save data
 appmenu-fxa-signed-in-label = Sign In
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Sign in to sync
+appmenu-fxa-sign-in-promo-message = Get your data everywhere
+appmenu-fxa-sign-in-promo-button =
+    .label = Sign in
 appmenu-fxa-setup-sync =
     .label = Turn On Syncing…
 appmenu-fxa-setup-sync-new = Turn On
@@ -287,6 +293,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Search history
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Stay in sync across devices
+appmenu-sync-promo-signin-cta = Sign in
+appmenu-sync-promo-turnonsync =
+    .heading = Sync your tabs and history
+appmenu-sync-promo-turnonsync-cta = Turn on sync
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Grab your mobile tabs
+appmenu-sync-promo-connectdevice-cta = Connect a device
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Bring your bookmarks with you
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Take your bookmarks to go
+
 ## Help panel
 
 appmenu-help-header =
@@ -355,14 +382,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Sign in to your account
 appmenuitem-monitor-title2 = Stay Ahead of Identity Theft
 appmenuitem-monitor-description2 = Get alerts about data breaches
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Data Breach Alerts
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Get data breach alerts
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Keep Your Email Private
 appmenuitem-relay-description2 = Helps prevent spam in your inbox
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = View Email Masks
 appmenuitem-relay-description = Mask your real email and phone
 appmenuitem-services-relay-description = Launch email masks dashboard
 appmenuitem-vpn-title2 = Hide Your Location with { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Get extra protection across apps and devices
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Open { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Make your browsing harder to trace
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Get whole-device protection

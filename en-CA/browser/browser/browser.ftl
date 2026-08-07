@@ -128,6 +128,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Manage pop-up and third-party redirect settings…
     .accesskey = M
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] View site information
+            [1] View site information (1 tracker blocked)
+           *[other] View site information ({ $count } trackers blocked)
+        }
 
 ##
 
@@ -215,6 +224,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Manage { -firefox-suggest-brand-nam
 urlbar-result-menu-report-inaccurate-location2 = Report inaccurate location
 urlbar-result-menu-show-less-frequently2 = Show less frequently
 urlbar-result-menu-dont-show-weather-suggestions2 = Don’t show weather suggestions
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Dismiss this suggestion
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Remove from history
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Learn more
     .accesskey = L
@@ -405,6 +424,9 @@ quickactions-addons = View add-ons
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = extensions, themes, addons, add-ons
+# Opens preferences page at AI controls
+quickactions-manageai = Manage AI controls
+quickactions-cmd-manageai = disable ai, off ai, manage ai, llm
 quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Manage bookmarks
@@ -460,6 +482,9 @@ quickactions-cmd-print = print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Save page as PDF
 quickactions-cmd-savepdf2 = pdf, save page
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Open PDF editor
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Open private window
 quickactions-cmd-private = private browsing

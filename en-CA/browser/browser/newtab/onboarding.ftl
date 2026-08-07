@@ -597,3 +597,24 @@ onboarding-refresh-sync-title = Go anywhere. Sync everything.
 onboarding-refresh-gratitude-subtitle = Thank you for using { -brand-short-name }, the only major browser backed by a non-profit. With your support, we’re working to make the internet safer and more accessible for everyone.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } has your back
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = Accept
+smartwindow-existing-user-fx-tou-go-back = Go back
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Make { -smart-window-brand-name } your go-to
+smartwindow-onboarding-subtitle = Generate text outputs without missing a beat.
+smartwindow-onboarding-primary-button = Continue
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } mascot (Kit) with star props
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Want to keep the chatbot sidebar closed?
+smartwindow-sidebar-auto-open-callout-body = You can still open it whenever you need it.
+smartwindow-sidebar-auto-open-callout-accept = Yes, keep closed
+smartwindow-sidebar-auto-open-callout-dismiss = No thanks

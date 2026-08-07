@@ -152,6 +152,121 @@ home-prefs-support-firefox-header-srd =
     .label = Support { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Find out how
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-8 = Browsing with { -brand-short-name } supports { -vendor-short-name }’s mission to build a better web.
+newtab-privacy-message-info-8-cta = Learn more
+newtab-privacy-message-info-9 = Make { -brand-short-name } your go-to browser for built-in privacy.
+newtab-privacy-message-info-9-cta = Make default
+newtab-privacy-message-info-10 = Save passwords in { -brand-short-name } to use strong, unique logins everywhere.
+newtab-privacy-message-info-10-cta = Go to passwords
+newtab-privacy-message-info-11 = Find out how { -brand-short-name } helps keep your browsing more private.
+newtab-privacy-message-info-11-cta = Learn more
+newtab-privacy-message-info-12 = Blocking trackers can help save bandwidth on limited data plans.
+newtab-privacy-message-info-12-cta = View protections
+newtab-privacy-message-info-13 = { -brand-short-name } blocks trackers, freeing up bandwidth for smoother streaming.
+newtab-privacy-message-info-13-cta = View protections
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Find out if your personal info shows up in a data breach.
+newtab-privacy-message-promo-monitor-1-cta = Learn more
+newtab-privacy-message-promo-monitor-2 = Protect your info with free data breach monitoring, for up to 20 emails.
+newtab-privacy-message-promo-monitor-2-cta = Learn more
+newtab-privacy-message-promo-signin-1 = Keep bookmarks, passwords, and tabs encrypted across devices with your { -vendor-short-name } account.
+newtab-privacy-message-promo-signin-1-cta = Sign in
+newtab-privacy-message-promo-vpn-1 = Shopping on public Wi-Fi? Turn on built-in VPN for extra protection.
+newtab-privacy-message-promo-vpn-1-cta = Open VPN
+newtab-privacy-message-promo-vpn-2 = Using airport Wi-Fi? Protect your browsing by turning on built-in VPN.
+newtab-privacy-message-promo-vpn-2-cta = Open VPN
+newtab-privacy-message-promo-vpn-3 = Turn on built-in VPN to help keep your location more private.
+newtab-privacy-message-promo-vpn-3-cta = Open VPN
+newtab-privacy-message-promo-private-window-1 = Try a private window to browse more privately when using a shared computer.
+newtab-privacy-message-promo-private-window-1-cta = Open private window
+newtab-privacy-message-promo-relay-1 = Save your real email for people you trust; use an email mask for sign-ups.
+newtab-privacy-message-promo-relay-1-cta = Get masks
+newtab-privacy-message-promo-relay-2 = Protect your inbox from spam with free email masking.
+newtab-privacy-message-promo-relay-2-cta = Get masks
+newtab-privacy-message-promo-relay-3 = Get 50 free email masks to help keep your real email private.
+newtab-privacy-message-promo-relay-3-cta = Get masks
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } tracker blocked this week. See what { -brand-short-name } is keeping out of your way
+       *[other] { $count } trackers blocked this week. See what { -brand-short-name } is keeping out of your way
+    }
+newtab-privacy-message-milestone-week-cta = View protections
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } tracker blocked this month. One small step for privacy. One big step for peace of mind.
+       *[other] { $count } trackers blocked this month. One small step for privacy. One big step for peace of mind.
+    }
+newtab-privacy-message-milestone-month-cta = View protections
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } tracker blocked this year. That’s a powerful year of protecting your privacy.
+       *[other] { $count } trackers blocked this year. That’s a powerful year of protecting your privacy.
+    }
+newtab-privacy-message-milestone-year-cta = View protections
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } tracker blocked. That’s major progress towards privacy on your terms.
+       *[other] { $count } trackers blocked. That’s major progress towards privacy on your terms.
+    }
+newtab-privacy-message-milestone-total-cta = View protections
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (100+ trackers blocked today.) Fewer trackers means more privacy.
+newtab-privacy-message-daily-cap-cta = View protections
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] You’ve been protected { $count } day in a row.
+       *[other] You’ve been protected { $count } days in a row.
+    }
+newtab-privacy-message-streak-cta = View protections
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Keep browsing, { -brand-short-name } will keep blocking.
+newtab-privacy-message-first-protection-cta = View protections
+
+## Strings for the Stocks widget
+
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Stock data is not available.
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Stocks widget options
+    .aria-label = Stocks widget options
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Stocks
+
+## Strings for the Picture of the Day widget
+
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Picture of the day
+
 ## Search box component.
 
 # "Search" is a verb/action
