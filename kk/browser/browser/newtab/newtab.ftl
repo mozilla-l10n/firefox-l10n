@@ -470,6 +470,23 @@ topsite-label-pinned =
     .aria-label = { $title } (бекітілген)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = { $site } сайтынан келген хабарландырулар
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Жаңа ғана
+newtab-topsites-hover-card-mark-all-read =
+    .title = Барлығын оқылған деп белгілеу
+    .aria-label = Барлығын оқылған деп белгілеу
+newtab-topsites-hover-card-settings =
+    .title = Хабарламалар баптаулары
+    .aria-label = Хабарламалар баптаулары
+newtab-topsites-hover-card-dismiss =
+    .title = Елемеу
+    .aria-label = Елемеу
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -689,6 +706,9 @@ newtab-custom-shortcuts-toggle =
     .description = Сіз сақтайтын немесе шолатын сайттар
 newtab-custom-shortcuts-nova =
     .label = Жарлықтар
+newtab-custom-web-notifications-toggle =
+    .label = Веб хабарландырулары
+    .description = Сайттарыңыздан келген хабарландыруларды олардың таңбашаларында көрсету
 newtab-custom-row-description =
     .description = Жолдар саны
 # Variables

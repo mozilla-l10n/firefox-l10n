@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] { $count } бетті топтау
        *[other] { $count } бетті топтау
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Ашу
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] { $count } бетті ашу
+       *[other] { $count } бетті ашу
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } бет топталды
        *[other] { $count } бет топталды
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Беттер тобы
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,35 @@ smart-window-grouped-tabs-summary =
        *[other] «{ $label }» тобы жасалды және оған { $count } бет қосылды.
     }
 smart-window-grouped-tabs-row-label = Топтастырылған беттер
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } бет ашылды
+       *[other] { $count } бет ашылды
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } бет ашылды.
+       *[other] { $count } бет ашылды.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] «{ $label }» тобы жасалды және  { $count } бет ашылды.
+       *[other] «{ $label }» тобы жасалды және  { $count } бет ашылды.
+    }
+smart-window-opened-tabs-row-label = Ашылған беттер
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Беттер ауыстырылды
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = «{ $title }» бетіне ауысты.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Беттер топтан шығарылды
 # Variables
