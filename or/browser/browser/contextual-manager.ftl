@@ -37,6 +37,13 @@ contextual-manager-passwords-remove-login-card-cancel-button = ବାତିଲ �
 
 contextual-manager-passwords-create-label =
     .label = ପାସୱାର୍ଡ଼ ଯୋଡ଼ନ୍ତୁ
+contextual-manager-passwords-origin-field =
+    .label = ୱେବସାଇଟ ଠିକଣା
+    .placeholder = https://www.example.com
+contextual-manager-passwords-username-field =
+    .label = ଉପଭୋକ୍ତାଙ୍କ ନାମ
+contextual-manager-passwords-password-field =
+    .label = ପାସ୍‌ୱାର୍ଡ୍
 
 ## Password Card
 
@@ -44,3 +51,11 @@ contextual-manager-passwords-list-label =
     .aria-label = ପାସୱାର୍ଡ଼ସବୁ
 contextual-manager-copy-icon =
     .alt = ନକଲ କରନ୍ତୁ
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
