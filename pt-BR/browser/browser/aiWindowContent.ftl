@@ -119,6 +119,12 @@ smart-window-confirm-group-tabs =
     }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Abrir
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Abrir { $count } aba
+       *[other] Abrir { $count } abas
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -127,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } aba agrupada
        *[other] { $count } abas agrupadas
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Grupo de abas
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -136,6 +145,32 @@ smart-window-grouped-tabs-summary =
        *[other] Criou o grupo “{ $label }” e adicionou { $count } abas.
     }
 smart-window-grouped-tabs-row-label = Abas agrupadas
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Abriu { $count } aba
+       *[other] Abriu { $count } abas
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Abriu { $count } aba.
+       *[other] Abriu { $count } abas.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+       *[other] Criou o grupo “{ $label }” e abriu { $count } abas.
+    }
+smart-window-opened-tabs-row-label = Abas abertas
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Mudou para “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Abas desagrupadas
 # Variables

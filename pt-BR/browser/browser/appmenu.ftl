@@ -293,6 +293,22 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Pesquisar no histórico
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Mantenha seus dispositivos sincronizados
+appmenu-sync-promo-signin-cta = Entrar
+appmenu-sync-promo-turnonsync =
+    .heading = Sincronize suas abas e histórico
+appmenu-sync-promo-turnonsync-cta = Ativar sincronização
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Traga abas do seu celular
+appmenu-sync-promo-connectdevice-cta = Conectar um dispositivo
+
 ## Help panel
 
 appmenu-help-header =

@@ -34,6 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = Twój { -brand-product-name } na wszyst
 firefoxview-syncedtabs-signin-description-2 = Zaloguj się lub utwórz konto, aby widzieć karty otwarte na telefonie i innych urządzeniach. Za pomocą konta możesz także synchronizować hasła, historię i nie tylko.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Z laptopa na telefon, bez zakłóceń
+firefoxview-syncedtabs-signin-description-3 = Przeglądaj na różnych urządzeniach, a karty, hasła, historia i wszystko inne będzie zsynchronizowane.
 firefoxview-syncedtabs-signin-primarybutton-2 = Zaloguj się
 firefoxview-tabpickup-adddevice-header = Synchronizuj { -brand-product-name(case: "acc") } na telefonie lub tablecie
 firefoxview-tabpickup-adddevice-description = Pobierz { -brand-product-name(case: "acc") } na telefon i zaloguj się na nim.
@@ -42,6 +43,9 @@ firefoxview-tabpickup-adddevice-primarybutton = Pobierz { -brand-product-name(ca
 firefoxview-syncedtabs-adddevice-header-2 = Otwieraj karty z każdego miejsca
 firefoxview-syncedtabs-adddevice-description-2 = Zaloguj się w { -brand-product-name(case: "loc") } na telefonie lub innym komputerze, aby widzieć karty w tym miejscu. Dowiedz się, jak <a data-l10n-name="url">połączyć dodatkowe urządzenia</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wypróbuj { -brand-product-name(case: "acc") } na telefon
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Twoje karty dzwoniły. Są na Twoim telefonie.
+firefoxview-syncedtabs-adddevice-description-3 = Zeskanuj kod QR, aby pobrać { -brand-product-name(case: "acc") } na telefon i zacząć synchronizować otwarte karty i nie tylko. Dowiedz się, jak <a data-l10n-name="url">połączyć dodatkowe urządzenia</a>.
 firefoxview-tabpickup-synctabs-header = Włącz synchronizację kart
 firefoxview-tabpickup-synctabs-description = Pozwól { -brand-short-name(case: "dat") } udostępniać karty między urządzeniami.
 firefoxview-tabpickup-synctabs-learn-how = Dowiedz się, jak to zrobić
@@ -50,15 +54,20 @@ firefoxview-tabpickup-synctabs-primarybutton-2 = Włącz synchronizację kart
 firefoxview-syncedtabs-synctabs-header = Zaktualizuj ustawienia synchronizacji
 firefoxview-syncedtabs-synctabs-description = Musisz synchronizować otwarte karty, aby widzieć karty z innych urządzeń.
 firefoxview-syncedtabs-synctabs-header-2 = Synchronizacja kart jest wyłączona
+firefoxview-syncedtabs-synctabs-description-2 = Ponownie włącz synchronizację, aby pobrać wszystkie karty z innych urządzeń.
 firefoxview-syncedtabs-loading-header = Trwa synchronizacja
 firefoxview-syncedtabs-loading-description = Po ukończeniu zobaczysz tutaj wszystkie karty otwarte na innych urządzeniach. Wróć niedługo.
+firefoxview-syncedtabs-loading-header-2 = Pobieranie kart…
+firefoxview-syncedtabs-loading-description-2 = Trwa synchronizacja. Karty wkrótce się tutaj pojawią.
 firefoxview-tabpickup-fxa-admin-disabled-header = Twoja organizacja wyłączyła synchronizację
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nie może synchronizować kart między urządzeniami, ponieważ administrator tego urządzenia wyłączył synchronizację.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nie może synchronizować kart między urządzeniami, ponieważ Twoja organizacja wyłączyła synchronizację.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Synchronizacja kart jest wyłączona
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Twoja organizacja zablokowała tę funkcję.
 firefoxview-tabpickup-network-offline-header = Sprawdź połączenie z Internetem
 firefoxview-tabpickup-network-offline-description = Jeśli używasz zapory sieciowej lub serwera proxy, upewnij się, że { -brand-short-name } może łączyć się z Internetem.
 firefoxview-tabpickup-network-offline-primarybutton = Spróbuj ponownie
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } nie może się teraz połączyć
 firefoxview-tabpickup-sync-error-header = Problem podczas synchronizowania
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } nie może teraz połączyć się z usługą synchronizacji. Spróbuj ponownie za chwilę.
 firefoxview-tabpickup-sync-error-primarybutton = Spróbuj ponownie
