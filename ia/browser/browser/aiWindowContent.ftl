@@ -117,6 +117,8 @@ smart-window-confirm-group-tabs =
         [one] Regruppar { $count } scheda
        *[other] Regruppar { $count } schedas
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Aperir
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
