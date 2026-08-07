@@ -739,6 +739,9 @@ newtab-custom-shortcuts-toggle =
     .description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
 newtab-custom-shortcuts-nova =
     .label = Llwybrau Byr
+newtab-custom-web-notifications-toggle =
+    .label = Hysbysiadau gwe
+    .description = Dangos hysbysiadau o'ch gwefannau ar eu llwybrau byrion
 newtab-custom-row-description =
     .description = Nifer y rhesi
 # Variables
