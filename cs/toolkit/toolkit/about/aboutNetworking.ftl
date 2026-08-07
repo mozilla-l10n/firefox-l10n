@@ -19,6 +19,26 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Ověřený
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Izolační klíč
+about-networking-ssl-tokens = Tokeny TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } token
+        [few] { $count } tokeny
+        [many] { $count } tokenů
+       *[other] { $count } tokenů
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] (platnost { $count } vypršela)
+        [few] (platnost { $count } vypršela)
+        [many] (platnost { $count } vypršela)
+       *[other] (platnost { $count } vypršela)
+    }
+about-networking-ssl-tokens-tokens-column = Tokeny
+about-networking-ssl-tokens-expires = Platnost do
+about-networking-ssl-tokens-certificate = Certifikát
 # $count (Number) - Number of tokens sharing this row's host and certificate
 about-networking-ssl-tokens-token-list =
     { $count ->

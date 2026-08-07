@@ -889,3 +889,8 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Asistent zůstane zavřen
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Pomocí funkce Zeptat se jej můžete otevřít na jakékoli stránce. Tuto volbu můžete kdykoli změnit v <a data-l10n-name="settings">Nastavení</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Rozumím
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Pokud si to rozmyslíte, můžete výchozí nastavení kdykoli změnit v <a data-l10n-name="settings">Nastavení</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Vyberte si motiv vzhledu
+onboarding-theme-picker-button-label = Uložit a pokračovat

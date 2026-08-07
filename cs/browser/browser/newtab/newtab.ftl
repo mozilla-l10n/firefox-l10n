@@ -513,6 +513,23 @@ topsite-label-pinned =
     .aria-label = { $title } (připnuta)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Upozornění ze stránky { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Právě teď
+newtab-topsites-hover-card-mark-all-read =
+    .title = Označit vše jako přečtené
+    .aria-label = Označit vše jako přečtené
+newtab-topsites-hover-card-settings =
+    .title = Nastavení oznámení
+    .aria-label = Nastavení oznámení
+newtab-topsites-hover-card-dismiss =
+    .title = Zavřít
+    .aria-label = Zavřít
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -807,6 +824,27 @@ newtab-custom-close-menu-button =
     .aria-label = Zavřít nabídku
 newtab-custom-close-button = Zavřít
 newtab-custom-settings = Další nastavení
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Vzhled
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Zobrazit více vzhledů
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Vaše vzhledy
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Povolit
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Zakázat
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Nainstalovat vzhled
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Prozkoumejte další vzhledy
 
 ## New Tab Wallpapers
 
@@ -1711,6 +1749,23 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Výsledky vyhledávání
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Název města
+    .aria-label = Název města
+    .placeholder = Pojmenujte tyto hodiny
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Časová zóna
+    .aria-label = Časová zóna
+    .placeholder = Vyhledávání dle města, časové zóny nebo posunu UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Výsledky pro časové pásmo
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Nebyla nalezena žádná odpovídající časová pásma
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Zpět
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
