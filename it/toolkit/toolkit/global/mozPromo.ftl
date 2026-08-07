@@ -5,3 +5,4 @@
 moz-promo-close-button =
     .title = Chiudi
     .aria-label = Chiudi
+
