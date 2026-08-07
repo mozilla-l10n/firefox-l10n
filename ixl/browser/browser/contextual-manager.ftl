@@ -33,6 +33,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Ya'sakan
 
 ## Login Form
 
+contextual-manager-passwords-username-field =
+    .label = Ib'ii u etzit tetze'
 contextual-manager-passwords-password-field =
     .label = Texhlal kach'ub' tetz uva' axh kuxh ootzin tetz
 
