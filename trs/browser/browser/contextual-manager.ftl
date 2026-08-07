@@ -61,6 +61,9 @@ contextual-manager-passwords-remove-login-card-cancel-button = Duyichin'
 
 ## Login Form
 
+contextual-manager-passwords-origin-field =
+    .label = Si Direlsiûn Sîtio
+    .placeholder = https://www.example.com
 contextual-manager-passwords-username-field =
     .label = Si yuguî rè'
 contextual-manager-passwords-password-field =
