@@ -33,6 +33,12 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Odblokowano wszystkie dodatkowe ikony!
+appearance-browser-icon-set-default-button =
+    .label = Ustaw jako domyślną przeglądarkę
 appearance-browser-icon-pin-button =
     .label = Przypnij do paska zadań
 
