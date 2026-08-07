@@ -179,6 +179,15 @@ smart-window-opened-tabs-summary-single =
         [few] Otvorené { $count } karty.
        *[other] Otvorených { $count } kariet.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Bola vytvorená skupina “{ $label }” a otvorená { $count } karta.
+        [few] Bola vytvorená skupina “{ $label }” a otvorené { $count } karty.
+       *[other] Bola vytvorená skupina “{ $label }” a otvorených { $count } kariet.
+    }
 smart-window-opened-tabs-row-label = Otvorené karty
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Prepnuté karty

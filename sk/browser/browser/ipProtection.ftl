@@ -301,7 +301,7 @@ ip-protection-bandwidth-left-mb-1 = Zostáva <span data-l10n-name="usage">{ $usa
 ip-protection-bandwidth-left-mb = Zostáva { $usageLeft } MB z { $maxUsage } GB
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-hit-for-the-month = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa vynuluje budúci mesiac.
+ip-protection-bandwidth-hit-for-the-month = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa vynuluje budúci mesiac.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Obnoví sa na { $maxUsage } GB v prvý deň každý mesiac.

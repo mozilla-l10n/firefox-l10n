@@ -185,9 +185,9 @@ security-visits-number =
 properties-general-size =
     .value =
         { $bytes ->
-            [one] { $kb } kB ({ $bytes } bajt)
-            [few] { $kb } kB ({ $bytes } bajty)
-           *[other] { $kb } kB ({ $bytes } bajtov)
+            [one] { $kb } kB ({ $bytes } bajt)
+            [few] { $kb } kB ({ $bytes } bajty)
+           *[other] { $kb } kB ({ $bytes } bajtov)
         }
 # This string is used to display the type and number
 # of frames of a animated image
@@ -226,7 +226,7 @@ media-dimensions =
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
-media-file-size = { $size } kB
+media-file-size = { $size } kB
 
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for

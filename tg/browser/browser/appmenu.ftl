@@ -300,6 +300,9 @@ appmenu-help-share-ideas =
     .accesskey = П
 appmenu-help-switch-device =
     .label = Гузариш ба дастгоҳи нав
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Кумак ва гузориш
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -342,6 +345,8 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Гирифтани огоҳӣ дар бораи дӯздӣ кардани маълумот
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Почтаи электронии худро махфӣ нигоҳ доред
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Намоиши ниқобҳои почтаи электронӣ
 appmenuitem-relay-description = Почтаи электронӣ ва рақами телефони воқеии худро бо ниқоб пинҳон намоед
 appmenuitem-services-relay-description = Оғоз кардани лавҳаи вазъияти ниқобҳои почтаи электронӣ
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
@@ -350,6 +355,10 @@ appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Муҳофизати пурраи дастгоҳро татбиқ кунед
 appmenuitem-vpn-description = Фаъолияти худро дар Интернет муҳофизат намоед
 appmenu-services-header = Хизматҳои ман
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Абзорҳои махфият
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -371,5 +380,7 @@ appmenu-edit-profile =
     .aria-label = Таҳрир кардани профил
 appmenu-edit-this-profile =
     .label = Таҳрир кардани ин профил
+fxa-menu-create-profile-subpanel =
+    .title = Эҷод кардани профили нав
 appmenu-profiles-2 =
     .label = Профилҳо

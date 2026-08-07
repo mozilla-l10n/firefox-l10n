@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+theme-picker-mode-light = Svetlá
+theme-picker-mode-dark = Tmavá
+theme-picker-mode-device = Podľa zariadenia
+theme-picker-use-linux-theme =
+    .label = Použiť systémovú tému Linuxu
 
 ## Theme labels
 ## These are short, evocative names for color themes in Firefox. Each name
@@ -10,6 +15,19 @@
 ## association in the target language. If no equivalent exists, prioritize color
 ## clarity. One word, 11 characters or fewer.
 
+# Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
+# color word; translate the sense of "standard."
+theme-picker-default =
+    .label = Predvolená
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+theme-picker-sun =
+    .label = Slnko
+# Name for a warm orange theme. Refers to a small burst of fire.
+theme-picker-spark =
+    .label = Iskra
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame =
+    .label = Plameň
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare =
     .label = Vzplanutie

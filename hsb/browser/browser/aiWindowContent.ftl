@@ -182,6 +182,16 @@ smart-window-opened-tabs-summary-single =
         [few] { $count } rajtarki wočinjene.
        *[other] { $count } rajtarkow wočinjenych.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Skupina “{ $label }” je so załožiła a { $count } rajtark je so přidał.
+        [two] Skupina “{ $label }” je so załožiła a { $count } rajtarkaj stej so přidałoj.
+        [few] Skupina “{ $label }” je so załožiła a { $count } rajtarki su so přidali.
+       *[other] Skupina “{ $label }” je so załožiła a { $count } rajtarkow je so přidało.
+    }
 smart-window-opened-tabs-row-label = Wočinjene rajtarki
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Přepinjene rajtarki

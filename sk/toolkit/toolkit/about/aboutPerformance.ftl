@@ -44,9 +44,9 @@ energy-impact-low = Nízky ({ $value })
 ## Variables:
 ##   $value (Number) - How much memory is used
 
-size-KB = { $value } kB
-size-MB = { $value } MB
-size-GB = { $value } GB
+size-KB = { $value } kB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
