@@ -122,8 +122,8 @@ smart-window-confirm-open-tab = Ouvrir
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tabs =
     { $count ->
-        [one] Ouvrir { $count } onglet
-       *[other] { $count } onglets ouverts
+        [one] Ouvrir { $count } onglet
+       *[other] Ouvrir { $count } onglets
     }
 # Action result labels for grouped tabs
 # Variables
@@ -150,23 +150,23 @@ smart-window-grouped-tabs-row-label = Onglets regroupés
 #   $count (number) - Number of tabs opened
 smart-window-opened-tabs-label =
     { $count ->
-        [one] Onglet { $count } ouvert
-       *[other] { $count } onglets ouverts
+        [one] { $count } onglet ouvert
+       *[other] { $count } onglets ouverts
     }
 # Variables
 #   $count (number) - Number of tabs opened
 smart-window-opened-tabs-summary-single =
     { $count ->
-        [one] { $count } onglet ouvert.
-       *[other] { $count } onglets ouverts.
+        [one] { $count } onglet ouvert.
+       *[other] { $count } onglets ouverts.
     }
 # Variables
 #   $count (number) - Number of tabs opened
 #   $label (string) - The label of the tab group
 smart-window-opened-tabs-summary-group =
     { $count ->
-        [one] A créé le groupe « { $label } » et ouvert { $count } onglets.
-       *[other] A créé le groupe « { $label } » et ouvert { $count } onglets.
+        [1] Création du groupe « { $label } » et ouverture d‘un onglet.
+       *[other] Création du groupe « { $label } » et ouverture de { $count } onglets.
     }
 smart-window-opened-tabs-row-label = Onglets ouverts
 # Action result labels for switching to a single already-open tab
