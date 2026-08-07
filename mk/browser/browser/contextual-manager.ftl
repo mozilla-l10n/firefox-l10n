@@ -61,6 +61,9 @@ contextual-manager-passwords-remove-login-card-cancel-button = Откажи
 
 ## Login Form
 
+contextual-manager-passwords-origin-field =
+    .label = Веб-сајт адреса
+    .placeholder = https://www.example.com
 contextual-manager-passwords-username-field =
     .label = Корисничко име
 contextual-manager-passwords-password-field =
