@@ -124,4 +124,4 @@ about-networking-moved-about-logging = Esta página foi movida para <a data-l10n
 ## Link is intended as "network link"
 
 about-networking-networkid-is-up = Link de rede está ativo
-about-networking-networkid-status-known = Status do link de rede é desconhecido
+about-networking-networkid-status-known = Status do link de rede é conhecido

@@ -308,6 +308,11 @@ appmenu-sync-promo-turnonsync-cta = Ativar sincronização
 appmenu-sync-promo-connectdevice =
     .heading = Traga abas do seu celular
 appmenu-sync-promo-connectdevice-cta = Conectar um dispositivo
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Tenha seus favoritos com você
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Tenha seus favoritos onde for
 
 ## Help panel
 
