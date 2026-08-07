@@ -123,6 +123,8 @@ smart-window-confirm-group-tabs =
         [few] Сгруппировать { $count } вкладки
        *[many] Сгруппировать { $count } вкладок
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Открыть
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
