@@ -56,6 +56,19 @@ ipprotection-feature-introduction-button-get-started = Zacznij teraz
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Ograniczenia wbudowanej sieci VPN zostaną przywrócone 1 września
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Wykorzystaj { $maxUsage } GB i 6 położeń, aby zwiększyć prywatność i utrudnić śledzenie Twoich działań w Internecie.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Wykorzystaj { $maxUsage } GB i ponad 20 położeń, aby zwiększyć prywatność i utrudnić śledzenie Twoich działań w Internecie.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Wbudowana sieć VPN właśnie stała się lepsza
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otwórz VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Wypróbuj { -mozilla-vpn-brand-name }
