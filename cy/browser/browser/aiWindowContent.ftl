@@ -141,6 +141,18 @@ smart-window-confirm-group-tabs =
         [many] Grwpio { $count } thab
        *[other] Grwpio { $count } tab
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Agor
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Agor { $count } tab
+        [zero] Agor { $count } tabiau
+        [two] Agor { $count } dab
+        [few] Agor { $count } thab
+        [many] Agor { $count } thab
+       *[other] Agor { $count } tab
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -153,6 +165,9 @@ smart-window-grouped-tabs-label =
         [many] Wedi grwpio { $count } thab
        *[other] Wedi grwpio { $count } tab
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Grŵp Tabiau
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -166,6 +181,18 @@ smart-window-grouped-tabs-summary =
        *[other] Wedi creu'r grŵp “ { $label } ” ac ychwanegu { $count } tab.
     }
 smart-window-grouped-tabs-row-label = Tabiau wedi'u grwpio
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [zero] Wedi agor { $count } tabiau
+        [one] Wedi agor { $count } tab
+        [two] Wedi agor { $count } dab
+        [few] Wedi agor { $count } thab
+        [many] Wedi agor { $count } thab
+       *[other] Wedi agor { $count } tab
+    }
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Tabiau heb eu grwpio
 # Variables
