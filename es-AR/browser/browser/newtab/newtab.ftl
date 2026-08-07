@@ -1644,6 +1644,8 @@ newtab-clock-widget-custom-timezone-input =
     .placeholder = Buscar por ciudad, huso horario o diferencia de UTC
 newtab-clock-widget-custom-zone-results =
     .aria-label = Resultados de huso horario
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = No hay husos horarios que coincidan
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Atrás
 # Shown in place of the search results when the user's query does not match any
