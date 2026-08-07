@@ -33,6 +33,9 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Kliknij przyciski i odblokuj dodatkowe ikony z lisem, aby spersonalizować { -brand-short-name(case: "acc") }.
 # Shown in place of appearance-browser-icon-requirement once the bonus icons are
 # unlocked (the browser is both the default and pinned to the taskbar).
 appearance-browser-icon-unlocked =
