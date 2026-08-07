@@ -114,6 +114,15 @@ aiwindow-close-sidebar =
     .aria-label = Пӯшидан
     .tooltiptext = Пӯшидан
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu-back =
+    .aria-label = Ба қафо
+    .tooltiptext = Ба қафо
+
 ## Fullpage top actions
 ## Labeled buttons shown at the top of the fullpage Smart Window.
 

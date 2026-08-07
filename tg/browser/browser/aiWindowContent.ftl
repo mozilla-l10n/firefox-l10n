@@ -70,7 +70,20 @@ smart-window-confirm-open-tab = Кушодан
 ## Action log
 
 action-log-searching-tabs = Ҷустуҷӯ дар варақаҳо
+action-log-searched-open-tabs = Ҷустуҷӯ дар варақаҳои кушодашуда ба анҷом расид
+action-log-searching-history = Ҷустуҷӯ дар таърих
+action-log-searched-history = Ҷустуҷӯ дар таърих ба анҷом расид
 action-log-reading-page = Хониши саҳифа
+action-log-searching-web = Ҷустуҷӯ дар Интернет
+action-log-searched-web = Ҷустуҷӯ дар Интернет ба анҷом расид
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Ҷустуҷӯ дар Интернет ба воситаи «<a data-l10n-name="exa-link">Exa</a>»
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Ҷустуҷӯ дар Интернет ба воситаи «<a data-l10n-name="exa-link">Exa</a>» ба анҷом расид
 action-log-searching-settings = Ҷустуҷӯ дар танзимот
 action-log-searched-settings = Ҷустуҷӯ дар танзимот иҷро шуд
 

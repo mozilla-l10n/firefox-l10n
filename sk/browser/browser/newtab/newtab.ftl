@@ -1683,6 +1683,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Výsledky vyhľadávania
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Pridať “{ $city }” ako vlastné hodiny
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Názov mesta
+    .aria-label = Názov mesta
+    .placeholder = Pomenujte tieto hodiny
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Časové pásmo
+    .aria-label = Časové pásmo
+    .placeholder = Vyhľadávanie podľa mesta, časového pásma alebo časového posunu UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Výsledky pre časové pásmo
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Žiadne zodpovedajúce časové pásma
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Naspäť
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
@@ -1733,6 +1753,7 @@ newtab-clock-city-br-rio-de-janeiro = Rio de Janeiro
 newtab-clock-city-br-brasilia = Brazília
 newtab-clock-city-id-jakarta = Jakarta
 newtab-clock-city-id-surabaya = Surabaja
+newtab-clock-city-id-makassar = Makassar
 newtab-clock-city-ca-toronto = Toronto
 newtab-clock-city-ca-montreal = Montreal
 newtab-clock-city-ca-vancouver = Vancouver

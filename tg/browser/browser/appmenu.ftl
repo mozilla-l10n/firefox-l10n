@@ -49,6 +49,9 @@ appmenuitem-zoom =
     .value = Танзими андоза
 appmenuitem-more-tools =
     .label = Абзорҳои бештар
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Кумак ва гузориш
 appmenuitem-help =
     .label = Кумак
 appmenuitem-exit2 =
@@ -107,6 +110,10 @@ appmenu-remote-tabs-unverified = Ҳисоби шумо бояд тасдиқ к�
 appmenuitem-fxa-toolbar-sync-now2 = Ҳозир ҳамоҳанг кунед
 appmenuitem-fxa-sign-in = Ворид шудан ба { -brand-product-name }
 appmenuitem-fxa-manage-account = Идоракунии ҳисоб
+fxa-menu-sync-status-off = Ҳамоҳангсозӣ ғайрифаъол аст
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Маълумоти шумо ҳамоҳангсозӣ намешавад
 # Button shown next to "Sync is Off" when the user is signed in but sync is
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
@@ -114,6 +121,12 @@ fxa-menu-sync-status-turn-on-button =
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Барои ҳамоҳангсозӣ ворид шавед
+fxa-menu-add-device =
+    .label = Илова кардани дастгоҳ
+fxa-menu-manage-devices =
+    .label = Идоракунии дастгоҳҳои худ
+fxa-menu-device-missing =
+    .label = Дастгоҳи худро намебинед?
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
 fxa-menu-all-devices =
     .label = Ҳамаи дастгоҳҳо
@@ -129,6 +142,8 @@ appmenu-fxa-last-sync = Ҳамоҳангсозии охирин { $time }
     .label = Ҳамоҳангсозии охирин { $time }
 appmenu-fxa-sync-and-save-data2 = Ҳамоҳангсозӣ ва нигоҳ доштани маълумот
 appmenu-fxa-signed-in-label = Ворид шудан
+appmenu-fxa-sign-in-promo-button =
+    .label = Ворид шудан
 appmenu-fxa-setup-sync =
     .label = Фаъол кардани ҳамоҳангсозӣ…
 appmenu-fxa-setup-sync-new = Фаъол кардан
@@ -224,6 +239,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Танзимот барои тафтиши хатоҳои шабакасозӣ дар { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Шабакасозӣ
+profiler-popup-presets-networking-with-logs-description = Танзимоти пешакӣ барои таҳқиқи хатоҳои шабакавӣ дар барномаи «{ -brand-shorter-name }», аз он ҷумла гузоришҳо ё сабтҳои рӯйдодҳои шабакавӣ. Ин гузоришҳо ё сабтҳои рӯйдодҳо метавонанд маълумоти махфиро, ба монанди нишонии «URL»-ҳое, ки шумо боздид мекунед, дар бар гиранд.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Шабакасозӣ бо сабти рӯйдодҳо
 profiler-popup-presets-power-description = Танзимот барои тафтиши хатоҳои истифодаи қувваи барқ дар { -brand-shorter-name }, бо хароҷоти паст.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -253,6 +271,14 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Ҷустуҷӯ дар таърих
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Ворид шудан
+appmenu-sync-promo-turnonsync-cta = Фаъол кардани ҳамоҳангсозӣ
 
 ## Help panel
 
@@ -301,6 +327,8 @@ appmenu-customizetoolbar =
     .label = Танзимоти навори абзорҳо…
 appmenu-abouttranslations =
     .label = Тарҷума кунед…
+appmenu-edit-pdf =
+    .label = Таҳрир кардани «PDF»…
 appmenu-developer-tools-subheader = Абзорҳои браузер
 appmenu-developer-tools-extensions =
     .label = Васеъшавиҳо барои барномасозон
@@ -313,6 +341,7 @@ appmenuitem-sign-in-account = Ба ҳисоби худ ворид шавед
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Гирифтани огоҳӣ дар бораи дӯздӣ кардани маълумот
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Почтаи электронии худро махфӣ нигоҳ доред
 appmenuitem-relay-description = Почтаи электронӣ ва рақами телефони воқеии худро бо ниқоб пинҳон намоед
 appmenuitem-services-relay-description = Оғоз кардани лавҳаи вазъияти ниқобҳои почтаи электронӣ
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.

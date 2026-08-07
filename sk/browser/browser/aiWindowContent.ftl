@@ -179,6 +179,12 @@ smart-window-opened-tabs-summary-single =
         [few] Otvorené { $count } karty.
        *[other] Otvorených { $count } kariet.
     }
+smart-window-opened-tabs-row-label = Otvorené karty
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Prepnuté karty
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Prepnuté na kartu “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Karty boli oddelené zo skupiny
 # Variables

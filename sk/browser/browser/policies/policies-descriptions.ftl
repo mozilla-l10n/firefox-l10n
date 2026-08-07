@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Vypne funkciu Firefox Screenshots.
 policy-DisableFirefoxStudies = Zabráni prehliadaču { -brand-short-name } spúšťať štúdie.
 policy-DisableForgetButton = Zablokuje prístup ku tlačidlu Zabudnúť.
 policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulárov.
+policy-DisableLaunchOnLogin = Zabráni automatickému spusteniu { -brand-short-name(case: "gen") } po prihlásení používateľa.
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
 policy-DisablePasswordReveal = Zablokuje zobrazovanie hesiel v správcovi prihlasovacích údajov.
 policy-DisablePocket2 = Vypne funkciu pre ukladanie stránok do služby { -pocket-brand-name }.

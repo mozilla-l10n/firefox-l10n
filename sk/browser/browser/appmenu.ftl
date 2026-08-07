@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Naposledy { $time }
     .label = Naposledy { $time }
 appmenu-fxa-sync-and-save-data2 = Synchronizovať a uložiť údaje
 appmenu-fxa-signed-in-label = Prihlásiť sa
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Prihlásiť sa a synchronizovať
+appmenu-fxa-sign-in-promo-message = Majte svoje údaje všade
+appmenu-fxa-sign-in-promo-button =
+    .label = Prihlásiť sa
 appmenu-fxa-setup-sync =
     .label = Zapnúť synchronizáciu…
 appmenu-fxa-setup-sync-new = Zapnúť
@@ -287,6 +293,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Hľadať v histórii
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Zostaňte synchronizovaní naprieč zariadeniami
+appmenu-sync-promo-signin-cta = Prihlásiť sa
+appmenu-sync-promo-turnonsync =
+    .heading = Synchronizujte karty a históriu
+appmenu-sync-promo-turnonsync-cta = Zapnúť synchronizáciu
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Vezmite si karty z mobilu
+appmenu-sync-promo-connectdevice-cta = Pripojiť zariadenie
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Vezmite si záložky so sebou
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Vezmite svoje záložky na cesty
+
 ## Help panel
 
 appmenu-help-header =
@@ -294,6 +321,11 @@ appmenu-help-header =
 appmenu-about =
     .label = O aplikácii { -brand-shorter-name }
     .accesskey = O
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Zdieľať { -brand-shorter-name(case: "acc") }
+    .accesskey = Z
 appmenu-get-help =
     .label = Získať pomoc
     .accesskey = Z
@@ -350,14 +382,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Prihláste sa do svojho účtu
 appmenuitem-monitor-title2 = Buďte o krok vpred pred krádežou identity
 appmenuitem-monitor-description2 = Dostávajte upozornenia na úniky údajov
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } - Upozornenia na úniky údajov
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Získajte upozornenia na úniky údajov
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Udržujte si e‑mail súkromný
 appmenuitem-relay-description2 = Pomáha predchádzať nevyžiadanej pošte v e‑mailovej schránke
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Zobraziť masky e‑mailov
 appmenuitem-relay-description = Zamaskujte svoju skutočnú e‑mailovú adresu a telefónne číslo
 appmenuitem-services-relay-description = Spustiť informačný panel e‑mailových masiek
 appmenuitem-vpn-title2 = Skryte svoju polohu pomocou { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Získajte dodatočnú ochranu vo všetkých aplikáciách a zariadeniach
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Otvoriť { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Sťažte sledovanie vášho prehliadania
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Získajte ochranu celého zariadenia
@@ -397,6 +436,9 @@ fxa-menu-create-profile-confirm =
     .label = Vytvoriť nový profil
 fxa-menu-create-profile-learn-more =
     .label = Čo sú profily?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Zdieľať { -brand-short-name(case: "acc") }
+appmenuitem-share-firefox-description = Pozvite niekoho, aby si vybral prehliadač, ktorý kladie súkromie na prvé miesto
 appmenu-profiles-2 =
     .label = Profily
 appmenu-profiles-header = Profily

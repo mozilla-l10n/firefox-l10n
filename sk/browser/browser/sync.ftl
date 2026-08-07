@@ -64,6 +64,9 @@ fxa-menu-send-tab-to-device-description = Pošle kartu do iného zariadenia, na 
 fxa-menu-sign-out =
     .label = Odhlásiť sa…
 fxa-menu-sync-description = Získajte prístup k svojmu webu odkiaľkoľvek
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Spravovať účet
 fxa-avatar-sign-in = Prihlásiť sa
 fxa-avatar-sign-up = Zaregistrovať sa
 fxa-avatar-tooltip =

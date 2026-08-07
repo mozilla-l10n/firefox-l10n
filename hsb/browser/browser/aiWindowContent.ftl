@@ -131,6 +131,14 @@ smart-window-confirm-group-tabs =
     }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Wočinić
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] { $count } rajtark wočinić
+        [two] { $count } rajtarkaj wočinić
+        [few] { $count } rajtarki wočinić
+       *[other] { $count } rajtarkow wočinić
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -155,9 +163,31 @@ smart-window-grouped-tabs-summary =
        *[other] Skupina “{ $label }” je so załožiła a { $count } rajtarkow je so přidało.
     }
 smart-window-grouped-tabs-row-label = Zeskupjene rajtarki
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } rajtark wočinjeny
+        [two] { $count } rajtarkaj wočinjenej
+        [few] { $count } rajtarki wočinjene
+       *[other] { $count } rajtarkow wočinjenych
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } rajtark wočinjeny.
+        [two] { $count } rajtarkaj wočinjenej.
+        [few] { $count } rajtarki wočinjene.
+       *[other] { $count } rajtarkow wočinjenych.
+    }
 smart-window-opened-tabs-row-label = Wočinjene rajtarki
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Přepinjene rajtarki
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = K “{ $title }” přešoł.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Zeskupjenje rajtarkow zběhnjene
 # Variables
