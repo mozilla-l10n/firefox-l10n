@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Zawsze kontynuuj
 neterror-pref-reset = Może to być spowodowane zmienionymi ustawieniami przeglądarki dotyczącymi bezpieczeństwa sieci. Czy przywrócić domyślne ustawienia?
 neterror-error-reporting-automatic = Automatyczne zgłaszanie podobnych temu błędów (pomaga { -vendor-short-name(case: "dat") } identyfikować i blokować niebezpieczne strony)
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Połączenie może nie zapewniać prywatności
+    .message = Aplikacja lub usługa może podejrzeć zaszyfrowany ruch z tej witryny.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } nie jest w stanie otworzyć tej strony.

@@ -194,6 +194,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Ukończono
 migration-safari-password-import-header = Importowanie haseł z Safari
+migration-safari-password-import-post-sequoia-step1 = Otwórz aplikację <a data-l10n-name="macos-passwords-app">Hasła</a> na komputerze Mac
 migration-safari-password-import-post-sequoia-step3 = Zapisz plik
 migration-safari-password-import-post-sequoia-step4 = Wybierz zapisany plik
 migration-safari-password-import-steps-header = Aby zaimportować hasła z Safari:
