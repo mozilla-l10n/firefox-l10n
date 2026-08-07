@@ -192,8 +192,14 @@ contextual-manager-passwords-edit-label =
     .label = Խմբագրել գաղտնաբառը
 contextual-manager-passwords-remove-label =
     .title = Հեռացնել գաղտնաբառը
+contextual-manager-passwords-origin-field =
+    .label = Կայքի հասցեն
+    .placeholder = https://www.example.com
+contextual-manager-passwords-username-field =
+    .label = Օգտվողի անուն
 contextual-manager-passwords-password-field =
     .label = Գաղտնաբառ
+contextual-manager-passwords-password-field-description = Մուտքագրեք գաղտնաբառը՝ այս հաշիվ մուտք գործելու համար։
 contextual-manager-passwords-password-tooltip-2 = Մուտքագրեք գաղտնաբառը՝ այս հաշիվ մուտք գործելու համար։
 
 ## Password Card
