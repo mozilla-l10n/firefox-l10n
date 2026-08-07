@@ -48,6 +48,8 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } privatno pregledavanje
+# This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
+browser-shortcut-description = Brzo i privatno pregledavanje weba
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -670,6 +672,9 @@ sharing-warning-proceed-to-tab =
     .label = Prijeđi na karticu
 sharing-warning-disable-for-session =
     .label = Deaktiviraj zaštitu dijeljenja za ovu sesiju
+
+## WebSerial "select a port" popup
+
 
 ## DevTools F12 popup
 
