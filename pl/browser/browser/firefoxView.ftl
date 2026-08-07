@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = Zaloguj się lub utwórz konto, 
 firefoxview-tabpickup-step-signin-primarybutton = Kontynuuj
 firefoxview-syncedtabs-signin-header-2 = Twój { -brand-product-name } na wszystkich urządzeniach
 firefoxview-syncedtabs-signin-description-2 = Zaloguj się lub utwórz konto, aby widzieć karty otwarte na telefonie i innych urządzeniach. Za pomocą konta możesz także synchronizować hasła, historię i nie tylko.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Z laptopa na telefon, bez zakłóceń
 firefoxview-syncedtabs-signin-primarybutton-2 = Zaloguj się
 firefoxview-tabpickup-adddevice-header = Synchronizuj { -brand-product-name(case: "acc") } na telefonie lub tablecie
 firefoxview-tabpickup-adddevice-description = Pobierz { -brand-product-name(case: "acc") } na telefon i zaloguj się na nim.
