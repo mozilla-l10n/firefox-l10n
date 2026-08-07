@@ -145,6 +145,35 @@ smart-window-grouped-tabs-summary =
        *[other] Groep ‘{ $label }’ makke en { $count } ljepblêden tafoege.
     }
 smart-window-grouped-tabs-row-label = Groepearre ljepblêden
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } ljepblêd iepene
+       *[other] { $count } ljepblêden iepene
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } ljepblêd iepene.
+       *[other] { $count } ljepblêden iepene.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Hat de groep ‘{ $label }’ makke en { $count } ljepblêd iepene.
+       *[other] Hat de groep ‘{ $label }’ makke en { $count } ljepblêden iepene.
+    }
+smart-window-opened-tabs-row-label = Iepene ljeplêden
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Wiksele ljepblêden
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Wiksele nei ‘{ $title }’.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Groepearring fan ljepblêden ûngedien makke
 # Variables

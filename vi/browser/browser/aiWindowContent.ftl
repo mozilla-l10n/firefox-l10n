@@ -93,15 +93,42 @@ smart-window-cancelled-label = Yêu cầu đã bị hủy.
 smart-window-confirm-group-tab = Nhóm
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tabs = Nhóm { $count } thẻ
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Mở
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs = Mở { $count } thẻ
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
 smart-window-grouped-tabs-label = Đã nhóm { $count } thẻ
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Nhóm thẻ
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
 smart-window-grouped-tabs-summary = Đã tạo nhóm “{ $label }” và thêm { $count } thẻ.
 smart-window-grouped-tabs-row-label = Thẻ đã nhóm
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label = Đã mở { $count } thẻ
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single = Đã mở { $count } thẻ.
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+       *[other] Đã tạo nhóm “{ $label }” và đã mở { $count } thẻ.
+    }
+smart-window-opened-tabs-row-label = Thẻ đã mở
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Đã chuyển sang thẻ
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Đã chuyển sang “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Thẻ đã bỏ nhóm
 # Variables

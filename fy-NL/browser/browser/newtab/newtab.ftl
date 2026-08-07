@@ -470,6 +470,23 @@ topsite-label-pinned =
     .aria-label = { $title } (fêstset)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Meldingen fan { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Sa krekt
+newtab-topsites-hover-card-mark-all-read =
+    .title = Alles as lêzen markearje
+    .aria-label = Alles as lêzen markearje
+newtab-topsites-hover-card-settings =
+    .title = Notifikaasje-ynstellingen
+    .aria-label = Notifikaasje-ynstellingen
+newtab-topsites-hover-card-dismiss =
+    .title = Slute
+    .aria-label = Slute
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -689,6 +706,9 @@ newtab-custom-shortcuts-toggle =
     .description = Bewarre of besochte websites
 newtab-custom-shortcuts-nova =
     .label = Fluchkeppelingen
+newtab-custom-web-notifications-toggle =
+    .label = Webnotifikaasjes
+    .description = Meldingen fan jo websites op harren fluchkeppelingen toane
 newtab-custom-row-description =
     .description = Oantal rigen
 # Variables
