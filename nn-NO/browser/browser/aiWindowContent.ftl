@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] Grupper { $count } fane
        *[other] Grupper { $count } faner
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Opne
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Opne { $count } fane
+       *[other] Opne { $count } faner
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] Grupperte { $count } fane
        *[other] Grupperte { $count } faner
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Fanegruppe
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,22 @@ smart-window-grouped-tabs-summary =
        *[other] Oppretta gruppa «{ $label }» og la til { $count } faner.
     }
 smart-window-grouped-tabs-row-label = Grupperte faner
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Opna { $count } fane
+       *[other] Opna { $count } faner
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Opna { $count } fane.
+       *[other] Opna { $count } faner.
+    }
+smart-window-opened-tabs-row-label = Opna faner
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Oppheva fanegruppering
 # Variables
