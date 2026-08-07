@@ -114,7 +114,7 @@ profiler-popup-presets-firefox-label =
 profiler-popup-presets-media-label =
     .label = Media
 
-## History panel
+##
 
 appmenu-recent-history-subheader = Crounuluggìa ricenti
 appmenu-recently-closed-tabs =

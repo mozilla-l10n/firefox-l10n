@@ -177,7 +177,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-custom-label =
     .label = Custom
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Manage Historie

@@ -42,7 +42,7 @@ appmenu-remote-tabs-unverified = Esabıñız doğrulanmağa muhtac.
 appmenuitem-save-page =
     .label = Saifeni Şöyle Saqla…
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Evvelki Oturımnı Keri Tikle

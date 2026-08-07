@@ -46,7 +46,7 @@ appmenuitem-save-page =
 
 whatsnew-panel-header = புதியவை என்ன
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = முந்தைய அமர்வுக்கு மீட்டமை

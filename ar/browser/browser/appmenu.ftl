@@ -265,7 +265,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = مخصّص
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = أدِر التأريخ

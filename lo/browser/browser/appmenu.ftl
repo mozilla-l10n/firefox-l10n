@@ -203,7 +203,7 @@ profiler-popup-presets-debug-label =
 profiler-popup-presets-custom-label =
     .label = ປັບແຕ່ງ
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = ຈັດການປະຫວັດ

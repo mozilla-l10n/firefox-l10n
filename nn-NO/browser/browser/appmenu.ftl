@@ -275,7 +275,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Tilpassa
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Handsam historikk

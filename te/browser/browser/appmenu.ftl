@@ -155,7 +155,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-custom-label =
     .label = అభిమతం
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = చరిత్ర నిర్వహణ

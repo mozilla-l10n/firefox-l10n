@@ -740,7 +740,9 @@ newtab-appearance-explore-more-themes-button = Ehapykuehove temaita
 
 ## New Tab Wallpapers
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = Mba’erechaha rugua
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. Nova has no reset button; the wallpapers toggle handles reset
 newtab-wallpaper-reset = Emoñerũjey ypyguáramo
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Ehupi peteĩ ta’ãnga
@@ -1689,7 +1691,7 @@ newtab-clock-city-gb-birmingham = Birmingham
 newtab-clock-city-es-madrid = Madrid
 newtab-clock-city-es-barcelona = Barcelona
 newtab-clock-city-nl-amsterdam = Amterdam
-newtab-clock-city-ch-zurich = Zurich
+newtab-clock-city-ch-zurich = Zúrich
 newtab-clock-city-at-vienna = Viéna
 newtab-clock-city-cz-prague = Praga
 newtab-clock-city-ar-buenos-aires = Vuenosáire

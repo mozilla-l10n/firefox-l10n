@@ -202,7 +202,7 @@ profiler-popup-presets-debug-label =
 profiler-popup-presets-custom-label =
     .label = अनुकूलन
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = इतिहास व्यवस्थापन गर्नुहोस्

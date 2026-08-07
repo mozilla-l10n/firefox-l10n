@@ -788,7 +788,9 @@ newtab-appearance-explore-more-themes-button = Просмотреть больш
 
 ## New Tab Wallpapers
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = Обои
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. Nova has no reset button; the wallpapers toggle handles reset
 newtab-wallpaper-reset = Восстановить по умолчанию
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Загрузить изображение

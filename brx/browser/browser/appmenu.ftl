@@ -40,7 +40,7 @@ appmenuitem-save-page =
 
 whatsnew-panel-header = मा गोदान
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = आवगयनि जथुम्माखौ लाबोफिन

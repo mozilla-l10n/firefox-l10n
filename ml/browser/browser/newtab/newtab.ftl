@@ -399,7 +399,9 @@ newtab-custom-close-button = അടയ്ക്കുക
 
 ## New Tab Wallpapers
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = ചുവർകടലാസുകൾ
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. Nova has no reset button; the wallpapers toggle handles reset
 newtab-wallpaper-reset = തനിമട്ടിലാക്കുക
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = ചിത്രം കയറ്റുവയ്ക്കുക

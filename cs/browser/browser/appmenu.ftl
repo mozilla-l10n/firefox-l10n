@@ -303,7 +303,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Vlastní
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Správa historie

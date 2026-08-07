@@ -151,7 +151,7 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = ইতিহাস পৰিচালনা কৰক

@@ -92,7 +92,7 @@ profiler-popup-discard-button =
 profiler-popup-presets-graphics-label =
     .label = Графика
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Врати претходна сесија

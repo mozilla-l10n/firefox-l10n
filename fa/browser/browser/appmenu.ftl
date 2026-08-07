@@ -215,7 +215,7 @@ profiler-popup-presets-debug-label =
 profiler-popup-presets-custom-label =
     .label = سفارشی
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = مدیریت تاریخچه

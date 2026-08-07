@@ -127,7 +127,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-custom-label =
     .label = Nāgi\'iaj mun\'ûn\'
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Nagi'iaj ñunj sesión gà gachin

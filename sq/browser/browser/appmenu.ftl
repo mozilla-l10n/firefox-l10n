@@ -216,7 +216,7 @@ profiler-popup-presets-web-compat-description = Paracaktim i rekomanduar për di
 profiler-popup-presets-custom-label =
     .label = Vetjak
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Administroni Historik

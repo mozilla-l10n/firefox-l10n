@@ -270,7 +270,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Personalizat
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Gestionează istoricul

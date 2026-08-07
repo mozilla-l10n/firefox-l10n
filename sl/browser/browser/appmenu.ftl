@@ -264,7 +264,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Po meri
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Upravljanje zgodovine

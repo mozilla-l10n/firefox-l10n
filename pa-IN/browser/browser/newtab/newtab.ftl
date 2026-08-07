@@ -781,7 +781,9 @@ newtab-appearance-explore-more-themes-button = ਹੋਰ ਥੀਮ ਦੀ ਪੜ
 
 ## New Tab Wallpapers
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = ਵਾਲਪੇਪਰ
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. Nova has no reset button; the wallpapers toggle handles reset
 newtab-wallpaper-reset = ਮੂਲ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = ਚਿੱਤਰ ਨੂੰ ਅੱਪਲੋਡ ਕਰੋ

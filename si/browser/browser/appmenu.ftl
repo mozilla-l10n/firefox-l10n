@@ -179,7 +179,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-custom-label =
     .label = අභිරුචි
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = ඉතිහාසය කළමනාකරණය

@@ -37,7 +37,7 @@ appmenu-remote-tabs-noclients = Ga boona ka dii war jinay taney kanjey ne wala?
 appmenuitem-save-page =
     .label = Moɲoo gaabu sanda…
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Goywaati bisantaa yeeti

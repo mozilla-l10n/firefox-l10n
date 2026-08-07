@@ -188,7 +188,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-custom-label =
     .label = Յարմարեցուած
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Կարավարէք պատմութիւնը

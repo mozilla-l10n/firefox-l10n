@@ -159,7 +159,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-custom-label =
     .label = मनपसंद
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = इतिहास प्रबंधित करें

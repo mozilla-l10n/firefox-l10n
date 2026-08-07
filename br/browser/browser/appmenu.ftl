@@ -205,7 +205,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-custom-label =
     .label = Personelaet
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Merañ ar roll istor

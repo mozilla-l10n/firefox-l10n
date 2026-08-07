@@ -275,7 +275,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = התאמה אישית
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = ניהול היסטוריה

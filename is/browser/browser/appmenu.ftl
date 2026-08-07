@@ -213,7 +213,7 @@ profiler-popup-presets-debug-label =
 profiler-popup-presets-custom-label =
     .label = Sérsniðið
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Sýsla með feril

@@ -372,7 +372,9 @@ newtab-custom-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
 
 ## New Tab Wallpapers
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = ᱠᱟᱸᱛᱷᱪᱤᱛᱟᱹᱨ
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. Nova has no reset button; the wallpapers toggle handles reset
 newtab-wallpaper-reset = ᱢᱩᱞ ᱞᱮᱠᱷᱟ ᱛᱮ ᱨᱤᱥᱮᱴ ᱢᱮ
 newtab-wallpaper-toggle-title =
     .label = ᱠᱟᱸᱛᱷᱪᱤᱛᱟᱹᱨ

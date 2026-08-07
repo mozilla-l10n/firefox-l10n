@@ -146,7 +146,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-debug-label =
     .label = Sazla
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Tarixçəni idarə et

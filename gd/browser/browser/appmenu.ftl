@@ -218,7 +218,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Custom
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Stiùirich an eachdraidh

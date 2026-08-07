@@ -191,7 +191,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-custom-label =
     .label = Włosne
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Regyruj historyjōm

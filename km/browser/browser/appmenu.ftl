@@ -195,7 +195,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-power-label =
     .label = ថាមពល
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = គ្រប់គ្រងប្រវត្តិ

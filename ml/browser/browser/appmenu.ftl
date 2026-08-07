@@ -195,7 +195,7 @@ profiler-popup-presets-debug-label =
 profiler-popup-presets-custom-label =
     .label = യഥേഷ്ടം
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = നാൾവഴിയെ കൈകാര്യം ചെയ്യുക

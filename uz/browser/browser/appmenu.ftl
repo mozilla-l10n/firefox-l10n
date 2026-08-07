@@ -112,7 +112,7 @@ profiler-popup-settings =
 profiler-popup-edit-settings-button =
     .label = Sozlamalarni tahrirlash
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Oldingi seansni tiklash

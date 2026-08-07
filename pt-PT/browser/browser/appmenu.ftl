@@ -220,7 +220,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Personalizada
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Gerir Histórico

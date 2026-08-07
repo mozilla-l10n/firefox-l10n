@@ -42,7 +42,7 @@ appmenu-remote-tabs-unverified = ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪ
 appmenuitem-save-page =
     .label = ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು

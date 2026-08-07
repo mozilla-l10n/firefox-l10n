@@ -322,6 +322,7 @@ newtab-custom-settings = වෙනත් සැකසුම් කළමනා�
 
 ## New Tab Wallpapers
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = බිතුපත්
 newtab-wallpaper-toggle-title =
     .label = බිතුපත්

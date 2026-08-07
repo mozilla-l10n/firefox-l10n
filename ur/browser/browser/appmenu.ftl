@@ -161,7 +161,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-custom-label =
     .label = مخصوص
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = تاریخ کا نظم کریں

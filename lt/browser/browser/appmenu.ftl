@@ -195,7 +195,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-custom-label =
     .label = Kitas
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Tvarkyti žurnalą

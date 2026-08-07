@@ -276,7 +276,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = ਕਸਟਮ
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = ਅਤੀਤ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ

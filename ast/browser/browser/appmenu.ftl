@@ -140,7 +140,7 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Mayús+2
     }
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Xestionar l'historial

@@ -59,7 +59,7 @@ profiler-popup-button-idle =
     .label = प्रोफाइलर
     .tooltiptext = कामगिरी प्रोफाइल रेकॉर्ड करा
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = मागील सत्र पूर्वस्थितीत आणा

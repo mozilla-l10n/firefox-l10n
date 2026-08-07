@@ -65,7 +65,7 @@ profiler-popup-button-idle =
     .label = Perfilador
     .tooltiptext = Gravar un perfil de prestacions
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Recuperar a sesión anterior

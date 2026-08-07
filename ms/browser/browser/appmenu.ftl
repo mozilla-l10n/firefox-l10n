@@ -257,7 +257,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Tersuai
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Urus Sejarah

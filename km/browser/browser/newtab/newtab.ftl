@@ -207,6 +207,7 @@ newtab-error-fallback-refresh-link = ផ្ទុកទំព័រឡើងវ�
 
 ## New Tab Wallpapers
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = ផ្ទាំងរូបភាព
 newtab-wallpaper-toggle-title =
     .label = ផ្ទាំងរូបភាព

@@ -216,7 +216,7 @@ profiler-popup-presets-debug-label =
 profiler-popup-presets-custom-label =
     .label = Udmawan
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Sefre azray

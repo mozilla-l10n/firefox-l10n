@@ -276,7 +276,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Aangepast
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Geschiedenis beheren

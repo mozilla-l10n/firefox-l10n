@@ -370,7 +370,9 @@ newtab-custom-settings = ودھیک ترتیباں دا بندوبست کرو
 
 ## New Tab Wallpapers
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = وال پیپرز
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. Nova has no reset button; the wallpapers toggle handles reset
 newtab-wallpaper-reset = ڈیفالٹ تے مقرر کرو
 newtab-wallpaper-toggle-title =
     .label = وال پیپرز

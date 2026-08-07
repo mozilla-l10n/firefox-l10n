@@ -265,6 +265,7 @@ newtab-custom-settings = Boshqa sozlamalarni boshqarish
 
 ## New Tab Wallpapers
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = Fon rasmlari
 newtab-wallpaper-toggle-title =
     .label = Fon rasmlari

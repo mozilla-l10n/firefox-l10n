@@ -50,7 +50,7 @@ appmenuitem-save-page =
 
 whatsnew-panel-header = Ko Hesɗi
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Artir Yillannde Ɓennunde

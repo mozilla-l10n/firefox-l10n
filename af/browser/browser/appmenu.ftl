@@ -37,7 +37,7 @@ appmenu-remote-tabs-noclients = Lus om oortjies van ander toestelle hier te sien
 appmenuitem-save-page =
     .label = Stoor bladsy as…
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Laai vorige sessie terug

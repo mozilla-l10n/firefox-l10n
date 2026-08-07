@@ -261,7 +261,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Mukautettu
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Hallitse historiaa

@@ -207,7 +207,7 @@ profiler-popup-presets-debug-label =
 profiler-popup-presets-custom-label =
     .label = مخصوص
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = تاریخ منیج کرو

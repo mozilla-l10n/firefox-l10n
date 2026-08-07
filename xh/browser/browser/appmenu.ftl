@@ -37,7 +37,7 @@ appmenu-remote-tabs-noclients = Ufuna ukubona iithebhu kwezinye izixhobo apha?
 appmenuitem-save-page =
     .label = Gcina iphepha njenge…
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Buyisela Iseshini yangaPhambili

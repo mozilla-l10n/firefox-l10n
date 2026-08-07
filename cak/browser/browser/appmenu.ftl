@@ -229,7 +229,7 @@ profiler-popup-presets-debug-label =
 profiler-popup-presets-custom-label =
     .label = Ichinan
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Tinuk'samajïx Natab'äl

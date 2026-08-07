@@ -205,7 +205,7 @@ profiler-popup-presets-debug-label =
 profiler-popup-presets-custom-label =
     .label = Personalizats
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Gerir l’istoric

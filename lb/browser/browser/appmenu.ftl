@@ -33,7 +33,7 @@ appmenu-remote-tabs-unverified = Äre Benotzerkont muss iwwerpréift ginn.
 appmenuitem-save-page =
     .label = Säit späicheren ënner…
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Vireg Sessioun restauréieren

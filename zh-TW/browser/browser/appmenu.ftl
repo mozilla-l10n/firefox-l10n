@@ -276,7 +276,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = 自訂
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = 管理歷史

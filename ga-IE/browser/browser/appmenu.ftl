@@ -151,7 +151,7 @@ profiler-popup-presets-debug-label =
 profiler-popup-presets-custom-label =
     .label = Saincheaptha
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Athchóirigh an Seisiún Roimhe Seo

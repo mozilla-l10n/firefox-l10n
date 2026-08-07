@@ -218,7 +218,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = ᱠᱩᱥᱤᱭᱟᱜ
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = ᱦᱤᱛᱟᱹᱞ ᱢᱮᱱᱮᱡᱽ ᱢᱮ

@@ -30,7 +30,7 @@ appmenuitem-fullscreen =
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Hana teuhah tabs
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Peuriwang Sesi Seugolomjih

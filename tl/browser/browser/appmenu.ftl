@@ -186,7 +186,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-custom-label =
     .label = Pasadya
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Pamahalaan ang kasaysayan

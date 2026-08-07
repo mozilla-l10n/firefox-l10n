@@ -276,7 +276,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Tùy chỉnh
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Quản lý lịch sử

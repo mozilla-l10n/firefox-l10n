@@ -223,7 +223,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Tilpasset
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Håndter historik

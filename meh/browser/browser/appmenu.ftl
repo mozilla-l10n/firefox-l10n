@@ -157,7 +157,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-custom-label =
     .label = Personalizado
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Tetiñu historial

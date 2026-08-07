@@ -276,7 +276,7 @@ profiler-popup-presets-web-compat-label =
 profiler-popup-presets-custom-label =
     .label = Oanpast
 
-## History panel
+##
 
 appmenu-manage-history =
     .label = Skiednis beheare

@@ -50,7 +50,7 @@ appmenuitem-save-page =
 
 whatsnew-panel-header = નવું શું છે
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = પહેલાનાં સત્રને પુન:સંગ્રહો

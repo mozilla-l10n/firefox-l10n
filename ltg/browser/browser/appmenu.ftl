@@ -42,7 +42,7 @@ appmenu-remote-tabs-unverified = Tovam kontam jōbyun apstyprynōtam.
 appmenuitem-save-page =
     .label = Saglobōt lopu kai…
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Atjaunōt īprīkšejū seseju

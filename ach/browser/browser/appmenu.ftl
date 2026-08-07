@@ -119,7 +119,7 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 
-## History panel
+##
 
 appmenu-restore-session =
     .label = Dwok kare ma okato ni
