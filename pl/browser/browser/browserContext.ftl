@@ -111,9 +111,9 @@ main-context-menu-edit-bookmark-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
-    .aria-label = Edytuj zakładkę…
-    .accesskey = d
-    .tooltiptext = Edytuj zakładkę ({ $shortcut })
+    .accesskey = D
+    .aria-label = Dodaj zakładkę do tej strony…
+    .tooltiptext = Dodaj zakładkę do tej strony ({ $shortcut })
 main-context-menu-edit-bookmark =
     .aria-label = Edytuj zakładkę…
     .accesskey = d

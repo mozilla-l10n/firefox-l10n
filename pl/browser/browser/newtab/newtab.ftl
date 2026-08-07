@@ -839,7 +839,7 @@ newtab-wallpaper-light-pink = Jasnoróżowy
 newtab-wallpaper-red = Czerwony
 newtab-wallpaper-dark-blue = Ciemnoniebieski
 newtab-wallpaper-dark-purple = Ciemnofioletowy
-newtab-wallpaper-dark-green = Ciemnoniebieski
+newtab-wallpaper-dark-green = Ciemnozielony
 newtab-wallpaper-brown = Brązowy
 
 ## Abstract

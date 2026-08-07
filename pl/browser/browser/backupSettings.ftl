@@ -217,7 +217,7 @@ backup-error-retry = Coś się nie powiodło. Spróbuj ponownie.
 
 backup-file-header = { -brand-short-name } jest gotowy do przywrócenia
 backup-file-title = Przywróć { -brand-short-name(case: "acc") }
-backup-file-intro = Wróć do przeglądania i odzyskaj wszystkie zakładki, hasła i pozostałe dane. <a data-l10n-name="backup-file-support-link">Więcej informacji</a>
+backup-file-intro = Wróć do przeglądania i odzyskaj wszystkie zakładki, historię i pozostałe dane. <a data-l10n-name="backup-file-support-link">Więcej informacji</a>
 backup-file-path-label = Plik kopii zapasowej:
 backup-file-encryption-state-label = Zaszyfrowane:
 backup-file-encryption-state-value-encrypted = Tak

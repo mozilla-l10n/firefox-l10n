@@ -54,7 +54,7 @@ connection-proxy-noproxy = Nie używaj proxy dla:
     .accesskey = N
 connection-proxy-noproxy-desc = Przykład: .mozilla.org, .com.pl, 192.168.1.0/24
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
-connection-proxy-noproxy-localhost-desc-2 = Połączania z localhost, 127.0.0.1/8 i ::1 nigdy nie używają serwera proxy.
+connection-proxy-noproxy-localhost-desc-2 = Połączenia z localhost, 127.0.0.1/8 i ::1 nigdy nie używają serwera proxy.
 connection-proxy-autotype =
     .label = Adres URL automatycznej konfiguracji proxy:
     .accesskey = e
