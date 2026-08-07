@@ -185,7 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Permitir que {
 
 webrtc-share-screen-warning = Comparte la pantalla solo con sitios en los que confíes. Compartirla puede permitir a sitios fraudulentos navegar en tu nombre y robar tus datos privados.
 webrtc-share-browser-warning = Comparte { -brand-short-name } solo con sitios con los que confíes. Compartirla puede permitir a sitios fraudulentos navegar en tu nombre y robar tus datos privados.
-webrtc-share-screen-learn-more = Saber Más
+webrtc-share-screen-learn-more = Más información
 webrtc-pick-window-or-screen = Seleccionar ventana o pantalla
 webrtc-share-entire-screen = Pantalla completa
 webrtc-share-pipe-wire-portal = Usar los ajustes del sistema operativo

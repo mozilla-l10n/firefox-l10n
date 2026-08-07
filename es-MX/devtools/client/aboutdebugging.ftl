@@ -193,7 +193,7 @@ about-debugging-runtime-profile-button2 = Perfilar el rendimiento
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
-about-debugging-runtime-service-workers-not-compatible = La configuración de tu navegador no es compatible con Service Workers. <a>Saber más</a>
+about-debugging-runtime-service-workers-not-compatible = La configuración de tu navegador no es compatible con los Service Workers. <a>Más información</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")

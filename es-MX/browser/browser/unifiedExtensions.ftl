@@ -60,8 +60,8 @@ unified-extensions-mb-quarantined-domain-message = Solo algunas extensiones supe
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Algunas extensiones no están permitidas.
     .message = Para proteger tus datos, algunas extensiones no pueden leer ni cambiar datos en este sitio. Utiliza la configuración de la extensión para permitir sitios restringidos por { -vendor-short-name }.
-unified-extensions-mb-quarantined-domain-learn-more = Saber más
-    .aria-label = Saber más: Algunas extensiones no están permitidas
+unified-extensions-mb-quarantined-domain-learn-more = Más información
+    .aria-label = Más información: Algunas extensiones no están permitidas
 unified-extensions-mb-about-addons-link = Ir a los ajustes de extensiones
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
