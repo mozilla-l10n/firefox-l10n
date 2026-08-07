@@ -606,11 +606,11 @@ mlmodel-smart-tab-topic-engine = { -brand-short-name } toto používa na navrhov
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } toto používa na navrhovanie kariet pre vaše skupiny kariet
 mlmodel-formfill-engine = { -brand-short-name } toto používa na pomoc s vypĺňaním formulárov s adresou
 # AI Model will be downloaded on the users device and used locally
-addon-category-mlmodel = Umelá inteligencia v zariadení
+addon-category-mlmodel = Umelá inteligencia v zariadení
 addon-category-mlmodel-title =
-    .title = Umelá inteligencia v zariadení
+    .title = Umelá inteligencia v zariadení
 mlmodel-heading = Spravovať modely umelej inteligencie v zariadení
-mlmodel-description = Niektoré funkcie a rozšírenia vo { -brand-short-name(case: "loc") } sú poháňané modelmi umelej inteligencie, ktoré fungujú lokálne na vašom zariadení. Tento prístup chráni vaše súkromie a v mnohých prípadoch zrýchľuje výkon. <a data-l10n-name="learn-more">Ďalšie informácie</a>
+mlmodel-description = Niektoré funkcie a rozšírenia sú vo { -brand-short-name(case: "loc") } poháňané modelmi umelej inteligencie, ktoré fungujú lokálne na vašom zariadení. Tento prístup chráni vaše súkromie a v mnohých prípadoch zrýchľuje výkon. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Odstrániť

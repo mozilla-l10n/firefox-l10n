@@ -129,6 +129,8 @@ smart-window-confirm-group-tabs =
         [few] { $count } rajtarki zeskupić
        *[other] { $count } rajtarkow zeskupić
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Wočinić
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -139,6 +141,9 @@ smart-window-grouped-tabs-label =
         [few] { $count } rajtarki zeskupjene
        *[other] { $count } rajtarkow zeskupjene
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Skupina rajtarkow
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -150,6 +155,9 @@ smart-window-grouped-tabs-summary =
        *[other] Skupina “{ $label }” je so załožiła a { $count } rajtarkow je so přidało.
     }
 smart-window-grouped-tabs-row-label = Zeskupjene rajtarki
+smart-window-opened-tabs-row-label = Wočinjene rajtarki
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Přepinjene rajtarki
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Zeskupjenje rajtarkow zběhnjene
 # Variables

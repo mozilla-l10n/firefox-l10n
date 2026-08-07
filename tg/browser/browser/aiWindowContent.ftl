@@ -64,9 +64,12 @@ smart-window-closed-and-restored-label = Варақаҳои пӯшидашуда
 smart-window-cancelled-label = Дархост бекор карда шуд.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Гурӯҳ
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Кушодан
 
 ## Action log
 
+action-log-searching-tabs = Ҷустуҷӯ дар варақаҳо
 action-log-reading-page = Хониши саҳифа
 action-log-searching-settings = Ҷустуҷӯ дар танзимот
 action-log-searched-settings = Ҷустуҷӯ дар танзимот иҷро шуд

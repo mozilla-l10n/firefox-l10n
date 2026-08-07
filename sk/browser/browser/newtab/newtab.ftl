@@ -485,6 +485,23 @@ topsite-label-pinned =
     .aria-label = { $title } (pripnutá)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Upozornenia zo stránky { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Práve teraz
+newtab-topsites-hover-card-mark-all-read =
+    .title = Označiť všetky ako prečítané
+    .aria-label = Označiť všetky ako prečítané
+newtab-topsites-hover-card-settings =
+    .title = Nastavenia upozornení
+    .aria-label = Nastavenia upozornení
+newtab-topsites-hover-card-dismiss =
+    .title = Zavrieť
+    .aria-label = Zavrieť
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -700,6 +717,9 @@ newtab-custom-shortcuts-toggle =
     .description = Stránky, ktoré si uložíte alebo navštívite
 newtab-custom-shortcuts-nova =
     .label = Skratky
+newtab-custom-web-notifications-toggle =
+    .label = Webové upozornenia
+    .description = Zobrazujú upozornenia z vašich stránok na ich skratkách
 newtab-custom-row-description =
     .description = Počet riadkov
 # Variables

@@ -129,6 +129,15 @@ smart-window-confirm-group-tabs =
         [many] Zoskupiť { $count } kariet
        *[other] Zoskupiť { $count } kariet
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Otvoriť
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Otvoriť kartu
+        [few] Otvoriť { $count } karty
+       *[other] Otvoriť { $count } kariet
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -139,6 +148,9 @@ smart-window-grouped-tabs-label =
         [many] Zoskupených { $count } kariet
        *[other] Zoskupených { $count } kariet
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Skupina kariet
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -150,6 +162,23 @@ smart-window-grouped-tabs-summary =
        *[other] Vytvorila sa skupina “{ $label }” a pridalo sa do nej { $count } kariet.
     }
 smart-window-grouped-tabs-row-label = Zoskupené karty
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Otvorená { $count } karta
+        [few] Otvorené { $count } karty
+       *[other] Otvorených { $count } kariet
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Otvorená { $count } karta.
+        [few] Otvorené { $count } karty.
+       *[other] Otvorených { $count } kariet.
+    }
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Karty boli oddelené zo skupiny
 # Variables

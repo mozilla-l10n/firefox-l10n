@@ -486,6 +486,23 @@ topsite-label-pinned =
     .aria-label = { $title } (připjate)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Zdźělenki wot { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Runje
+newtab-topsites-hover-card-mark-all-read =
+    .title = Wšě jako přečitane markěrować
+    .aria-label = Wšě jako přečitane markěrować
+newtab-topsites-hover-card-settings =
+    .title = Zdźělenske nastajenja
+    .aria-label = Zdźělenske nastajenja
+newtab-topsites-hover-card-dismiss =
+    .title = Zaćisnyć
+    .aria-label = Zaćisnyć
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
