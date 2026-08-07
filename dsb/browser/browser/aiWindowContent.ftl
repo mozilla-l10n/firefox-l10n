@@ -131,6 +131,14 @@ smart-window-confirm-group-tabs =
     }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Wócyniś
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] { $count } rejtarik wócyniś
+        [two] { $count } rejtarika wócyniś
+        [few] { $count } rejtariki wócyniś
+       *[other] { $count } rejtarikow wócyniś
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -155,9 +163,31 @@ smart-window-grouped-tabs-summary =
        *[other] Kupka “{ $label }” jo se załožyła a { $count } rejtarikow jo se pśidało.
     }
 smart-window-grouped-tabs-row-label = Zrědowane rejtariki
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } rejtarik wócynjony
+        [two] { $count } rejtarika wócynjonej
+        [few] { $count } rejtariki wócynjone
+       *[other] { $count } rejtarikow wócynjone
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } rejtarik wócynjony.
+        [two] { $count } rejtarika wócynjonej.
+        [few] { $count } rejtariki wócynjone.
+       *[other] { $count } rejtarikow wócynjone.
+    }
 smart-window-opened-tabs-row-label = Wócynjone rejtariki
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Pśešaltowane rejtariki
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = K “{ $title }” pśejšeł.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Zrědowanje rejtarikow wótpórane
 # Variables

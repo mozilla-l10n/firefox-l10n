@@ -486,6 +486,23 @@ topsite-label-pinned =
     .aria-label = { $title } (pśipěte)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Powěźeńki wót { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Rowno
+newtab-topsites-hover-card-mark-all-read =
+    .title = Wšykne ako pśecytane markěrowaś
+    .aria-label = Wšykne ako pśecytane markěrowaś
+newtab-topsites-hover-card-settings =
+    .title = Nastajenja powěźeńkow
+    .aria-label = Nastajenja powěźeńkow
+newtab-topsites-hover-card-dismiss =
+    .title = Zachyśiś
+    .aria-label = Zachyśiś
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -705,6 +722,9 @@ newtab-custom-shortcuts-toggle =
     .description = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo
 newtab-custom-shortcuts-nova =
     .label = Zwězanja
+newtab-custom-web-notifications-toggle =
+    .label = Webpowěźeńki
+    .description = Powěźeńki z wašych sedłow na jich zwězanjach pokazaś
 newtab-custom-row-description =
     .description = Licba smužkow
 # Variables
