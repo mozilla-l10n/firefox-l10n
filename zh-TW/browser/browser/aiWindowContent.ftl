@@ -93,15 +93,38 @@ smart-window-cancelled-label = 請求已取消。
 smart-window-confirm-group-tab = 分組
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tabs = 將 { $count } 個分頁進行分組
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = 開啟
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs = 開啟 { $count } 個分頁
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
 smart-window-grouped-tabs-label = 已將 { $count } 個分頁進行分組
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = 分頁群組
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
 smart-window-grouped-tabs-summary = 已建立群組「{ $label }」並新增 { $count } 個分頁。
 smart-window-grouped-tabs-row-label = 已分組的分頁
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label = 已開啟 { $count } 個分頁
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single = 已開啟 { $count } 個分頁。
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group = 已建立群組「{ $label }」並開啟 { $count } 個分頁。
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = 已切換分頁
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = 已切換到「{ $title }」。
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = 已取消分頁分組
 # Variables

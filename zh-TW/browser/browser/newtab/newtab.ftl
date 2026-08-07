@@ -442,6 +442,23 @@ topsite-label-pinned =
     .aria-label = { $title }（已釘選）
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = 來自 { $site } 的通知
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = 剛剛
+newtab-topsites-hover-card-mark-all-read =
+    .title = 全部標示為已讀
+    .aria-label = 全部標示為已讀
+newtab-topsites-hover-card-settings =
+    .title = 通知設定
+    .aria-label = 通知設定
+newtab-topsites-hover-card-dismiss =
+    .title = 知道了！
+    .aria-label = 知道了！
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -657,6 +674,9 @@ newtab-custom-shortcuts-toggle =
     .description = 您儲存或造訪過的網站
 newtab-custom-shortcuts-nova =
     .label = 捷徑
+newtab-custom-web-notifications-toggle =
+    .label = 網頁通知
+    .description = 在捷徑中顯示來自該網站的通知
 newtab-custom-row-description =
     .description = 資料列數
 # Variables
