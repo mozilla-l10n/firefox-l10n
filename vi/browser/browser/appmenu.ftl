@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Đồng bộ hóa lần cuối { $time }
     .label = Đồng bộ hóa lần cuối { $time }
 appmenu-fxa-sync-and-save-data2 = Đồng bộ hóa và lưu dữ liệu
 appmenu-fxa-signed-in-label = Đăng nhập
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Đăng nhập để đồng bộ hóa
+appmenu-fxa-sign-in-promo-message = Mang dữ liệu của bạn đi khắp mọi nơi
+appmenu-fxa-sign-in-promo-button =
+    .label = Đăng nhập
 appmenu-fxa-setup-sync =
     .label = Bật đồng bộ hóa…
 appmenu-fxa-setup-sync-new = Bật
@@ -355,14 +361,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Đăng nhập vào tài khoản của bạn
 appmenuitem-monitor-title2 = Luôn đi trước nguy cơ đánh cắp danh tính
 appmenuitem-monitor-description2 = Nhận thông báo về các vụ rò rỉ dữ liệu
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Cảnh báo rò rỉ dữ liệu { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Nhận cảnh báo rò rỉ dữ liệu
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Giữ email của bạn riêng tư
 appmenuitem-relay-description2 = Giúp ngăn chặn thư rác trong hộp thư đến của bạn
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Xem email ẩn danh
 appmenuitem-relay-description = Che giấu email và điện thoại thật của bạn
 appmenuitem-services-relay-description = Khởi chạy bảng điều khiển email ẩn danh
 appmenuitem-vpn-title2 = Ẩn vị trí của bạn với { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Tăng cường khả năng bảo vệ trên tất cả ứng dụng và thiết bị
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Mở { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Làm cho hoạt động duyệt web của bạn khó bị theo dõi hơn
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bảo vệ toàn diện cho thiết bị

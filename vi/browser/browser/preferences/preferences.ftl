@@ -2762,3 +2762,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Tính năng tự động cấu hình proxy đang được bật
     .description = Việc tự động cấu hình proxy có thể cho phép các mạng không đáng tin cậy theo dõi hoạt động của bạn.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Chia sẻ { -brand-short-name }
+    .description = Hãy mời ai đó chọn trình duyệt ưu tiên quyền riêng tư.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Chia sẻ { -brand-short-name }

@@ -53,6 +53,24 @@ fxa-menu-send-tab-to-device-description = Gửi một thẻ ngay lập tức đ�
 fxa-menu-sign-out =
     .label = Đăng xuất…
 fxa-menu-sync-description = Truy cập web của bạn mọi nơi
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Quản lý tài khoản
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Đăng nhập để đồng bộ hóa
+fxa-menu-sign-in-promo-message = Mang dữ liệu của bạn đi khắp mọi nơi
+fxa-menu-sign-in-promo-button =
+    .label = Đăng nhập
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Đăng nhập
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Bạn đã đăng xuất
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Hoàn tất thiết lập
 fxa-avatar-sign-in = Đăng nhập
 fxa-avatar-sign-up = Đăng ký
 fxa-avatar-tooltip =
