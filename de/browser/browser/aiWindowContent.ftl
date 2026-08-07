@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] { $count } Tab gruppieren
        *[other] { $count } Tabs gruppieren
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Öffnen
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] { $count } Tab öffnen
+       *[other] { $count } Tabs öffnen
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } Tab gruppiert
        *[other] { $count } Tabs gruppiert
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Tab-Gruppe
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,35 @@ smart-window-grouped-tabs-summary =
        *[other] Gruppe "{ $label }" erstellt und { $count } Tabs hinzugefügt.
     }
 smart-window-grouped-tabs-row-label = Gruppierte Tabs
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } Tab geöffnet
+       *[other] { $count } Tabs geöffnet
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } Tab geöffnet
+       *[other] { $count } Tabs geöffnet.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Gruppe "{ $label }" erstellt und { $count } Tab geöffnet
+       *[other] Gruppe "{ $label }" erstellt und { $count } Tabs geöffnet
+    }
+smart-window-opened-tabs-row-label = Geöffnete Tabs
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Gewechselte Tabs
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Gewechselt zu "{ $title }".
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Gruppierung der Tabs aufgehoben
 # Variables

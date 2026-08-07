@@ -293,6 +293,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Chronik durchsuchen
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Bleiben Sie synchron auf allen Geräten
+appmenu-sync-promo-signin-cta = Anmelden
+appmenu-sync-promo-turnonsync =
+    .heading = Synchronisieren Sie Ihre Tabs und Chronik
+appmenu-sync-promo-turnonsync-cta = Synchronisation aktivieren
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Holen Sie sich Ihre mobilen Tabs
+appmenu-sync-promo-connectdevice-cta = Ein Gerät verbinden
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Nehmen Sie ihre Lesezeichen mit
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Lesezeichen zum Mitnehmen
+
 ## Help panel
 
 appmenu-help-header =
