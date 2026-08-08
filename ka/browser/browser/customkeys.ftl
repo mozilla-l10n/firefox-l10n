@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = დააჭირეთ ახალ ღილაკს:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (ვერ შეიცვლება)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = მოცილდეს სხვა მა
 customkeys-conflict-confirm-body = ამ ღილაკს უკვე იყენებს „{ $conflict }“.
 customkeys-conflict-confirm-button-confirm = მაინც გამოყენება
 customkeys-conflict-confirm-button-cancel = გაუქმება
+customkeys-conflict-unusable-title = ვერ იქნება გამოყენებული
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = ამ ღილაკით უკვე სარგებლობს „{ $conflict }“ და ვერ იქნება გამოყენებული.
 customkeys-reset-all-confirm-title = აღდგეს ნაგულისხმევი?
 customkeys-reset-all-confirm-body = კლავიატურის თქვენ მიერ შექმნილი ნებისმიერი მალსახმობი მოცილდება.
 customkeys-reset-all-confirm-button-confirm = ნაგულისხმევის აღდგენა

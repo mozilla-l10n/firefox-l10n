@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = გვერდის თარგმნა...
 appmenuitem-zoom =
     .value = ზომის ცვლილება
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = გააზიარეთ { -brand-product-name }
 appmenuitem-more-tools =
     .label = სხვა ხელსაწყოები
 appmenuitem-help =

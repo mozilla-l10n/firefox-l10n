@@ -470,6 +470,23 @@ topsite-label-pinned =
     .aria-label = { $title } (მიმაგრებული)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = გატყობინებთ { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = ახლახან
+newtab-topsites-hover-card-mark-all-read =
+    .title = ყველას წაკითხულად მონიშვნა
+    .aria-label = ყველას წაკითხულად მონიშვნა
+newtab-topsites-hover-card-settings =
+    .title = შეტყობინების პარამეტრები
+    .aria-label = შეტყობინების პარამეტრები
+newtab-topsites-hover-card-dismiss =
+    .title = აცილება
+    .aria-label = აცილება
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -688,6 +705,9 @@ newtab-custom-shortcuts-toggle =
     .description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
 newtab-custom-shortcuts-nova =
     .label = მალსახმობები
+newtab-custom-web-notifications-toggle =
+    .label = ვებშეტყობინებები
+    .description = საიტების შეტყობინებების ჩვენება მალსახმობებზე
 newtab-custom-row-description =
     .description = რიგის რაოდენობა
 # Variables
@@ -755,6 +775,29 @@ newtab-custom-close-menu-button =
     .aria-label = მენიუს დახურვა
 newtab-custom-close-button = დახურვა
 newtab-custom-settings = დამატებითი პარამეტრების მართვა
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = იერსახე
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = სხვა გაფორმებები
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } – გაფორმებები
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = თქვენი გაფორმებები
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = ჩართვა
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = ამორთვა
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = გაფორმების ჩადგმა
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = სხვა გაფორმებების მოძიება
 
 ## New Tab Wallpapers
 
@@ -1620,6 +1663,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = ძიების შედეგები
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = დაამატეთ „{ $city }“ ცალკე საათად
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = ქალაქის სახელი
+    .placeholder = ამ საათის სახელი
+    .aria-label = ქალაქის სახელი
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = სასაათე სარტყელი
+    .placeholder = ძიება ქალაქით, სარტყლით ან UTC-საზომით
+    .aria-label = სასაათე სარტყელი
+newtab-clock-widget-custom-zone-results =
+    .aria-label = დროის სარტყლის შედეგები
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = დროის სარტყელი არ მოინახა
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = უკან
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
@@ -1731,6 +1794,6 @@ newtab-clock-city-pt-lisbon = ლისაბონი
 newtab-clock-city-ir-tehran = თეირანი
 newtab-clock-city-bd-dhaka = დაკა
 newtab-clock-city-ec-guayaquil = გუაიაკილი
-newtab-clock-city-vn-ho-chi-minh-city = ჰოჩიმინი
+newtab-clock-city-vn-ho-chi-minh-city = ჰოშიმინი
 newtab-clock-city-np-kathmandu = კატმანდუ
 newtab-clock-city-mm-yangon = იანგონი
