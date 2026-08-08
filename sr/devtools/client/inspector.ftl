@@ -7,16 +7,19 @@
 ### which is available from the Browser Tools sub-menu -> 'Inspect'.
 
 # A title text for the spectrum dragger panel in the color picker tooltip.
-colorpicker-tooltip-spectrum-dragger-title = Spectrum
+colorpicker-tooltip-spectrum-dragger-title = Спектар
 # A title text for the eyedropper in the color picker tooltip.
-colorpicker-tooltip-eyedropper-title = Pick color on page
+colorpicker-tooltip-eyedropper-title = Изаберите боју на страници
 # A title text for the closest color name shown in the color picker tooltip, used together with the actual color.
 # Variables:
 #   $colorName (String): the color name the current color is closest to.
-colorpicker-tooltip-color-name-title = Closest to: { $colorName }
+colorpicker-tooltip-color-name-title = Најближе боји: { $colorName }
 # A title text for the hue slider in the color picker tooltip.
-colorpicker-tooltip-hue-slider-title = Hue
+colorpicker-tooltip-hue-slider-title = Нијанса
 # A title text for the alpha slider in the color picker tooltip.
-colorpicker-tooltip-alpha-slider-title = Opacity
+colorpicker-tooltip-alpha-slider-title = Провидност
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Псеудокласе специфичне за елемент
+# A label text for the print emulation options
+inspector-emulation-panel-print = Омогући
+    .aria-label = Омогући опонашање штампаних медија

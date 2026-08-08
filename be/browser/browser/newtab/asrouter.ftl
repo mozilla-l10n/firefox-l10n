@@ -305,6 +305,11 @@ launch-on-login-infobar-final-reject-button = Не, дзякуй
 ## experiment enabled launch-on-login for the user), informing them that this
 ## happened and letting them keep it on or turn it off.
 
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } цяпер запускаецца пры ўваходзе ў Windows. Вы заўсёды можаце змяніць гэта пазней у наладах.
+launch-on-login-autostart-infobar-keep-button = Трымаць уключаным
+    .accesskey = л
 launch-on-login-autostart-infobar-turn-off-button = Адключыць
     .accesskey = А
 
@@ -512,4 +517,14 @@ nova-early-access-infobar-primary-button = Ясна
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = Запускаць { -brand-short-name } кожны раз пры ўваходзе ў Windows?
 launch-options-spotlight-checkbox-launch-on-login = Адкрываць { -brand-short-name } пры запуску сістэмы
+launch-options-spotlight-checkbox-pin-to-taskbar = Замацаваць на панэлі задач
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Зноў адкрыць цяперашнія вокны і карткі
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Пераадкрыць папярэднія вокны і карткі
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Захаваць і закрыць { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Захаваць і працягнуць

@@ -482,9 +482,18 @@ topsite-label-pinned =
 
 # Variables:
 #   $site (string) - The label or hostname of the site the notifications are from.
-newtab-topsites-hover-card-header = Абвесткі ад { $site }
+newtab-topsites-hover-card-header = Абвестка ад { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Толькі што
+newtab-topsites-hover-card-mark-all-read =
+    .title = Пазначыць усе як прачытаныя
+    .aria-label = Пазначыць усе як прачытаныя
+newtab-topsites-hover-card-settings =
+    .title = Параметры абвестак
+    .aria-label = Параметры абвестак
+newtab-topsites-hover-card-dismiss =
+    .title = Адхіліць
+    .aria-label = Адхіліць
 
 ## Context Menu - Action Tooltips.
 
@@ -705,6 +714,9 @@ newtab-custom-shortcuts-toggle =
     .description = Сайты, якія вы захоўваеце або наведваеце
 newtab-custom-shortcuts-nova =
     .label = Цэтлікі
+newtab-custom-web-notifications-toggle =
+    .label = Вэб-абвесткі
+    .description = Паказваць абвестку з вашых сайтаў на іх цэтліках
 newtab-custom-row-description =
     .description = Колькасць радкоў
 # Variables
