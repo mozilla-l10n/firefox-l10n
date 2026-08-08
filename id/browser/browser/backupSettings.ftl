@@ -91,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Aktifkan pencadangan
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Ada masalah dengan folder cadangan yang Anda pilih. Pilih folder lain dan coba lagi.
+turn-on-scheduled-backups-error-default-dir-denied = Kami tidak dapat mengakses folder cadangan Anda. Coba pilih lokasi baru.
 backup-error-file-system = Ada masalah dengan folder cadangan yang Anda pilih saat mencadangkan { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
@@ -104,6 +105,9 @@ turn-off-scheduled-backups-confirm-button = Matikan dan hapus cadangan
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Pulihkan data Anda
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Apa yang akan dipulihkan?
 restore-from-backup-filepicker-label = Berkas cadangan
 restore-from-backup-filepicker-title = Pilih Berkas Cadangan:
 restore-from-backup-file-choose-button =
@@ -116,6 +120,12 @@ restore-from-backup-password-description = Ini membuka cadangan terenkripsi Anda
 restore-from-backup-cancel-button = Batal
 restore-from-backup-confirm-button = Pulihkan dan mulai ulang
 restore-from-backup-restoring-button = Memulihkan…
+restore-from-backup-type-group-label =
+    .label = Gantikan profil saat ini?
+restore-from-backup-type-replace =
+    .label = Gantikan seluruh data dengan cadangan ini
+restore-from-backup-type-add =
+    .label = Simpan data dan buat profil baru
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -137,7 +147,38 @@ backup-service-error-corrupt-file =
 backup-service-error-unsupported-version =
     .heading = Berkas ini tidak berfungsi
     .message = Berkas yang Anda pilih tidak kompatibel dengan versi { -brand-short-name } ini. Pilih berkas lain dan coba lagi.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Berkas ini tidak berfungsi
+    .message = Berkas yang Anda pilih tidak dibuat oleh { -brand-short-name }. Pilih berkas lain dan coba lagi.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } tidak dapat dipulihkan
+    .message = Restart { -brand-short-name } dan coba pulihkan cadangan Anda lagi.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, ada masalah saat mencadangkan.
+    .message = Coba lagi dalam beberapa menit.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Cadangkan data sensitif Anda
+enable-backup-encryption-support-link = Pelajari lebih lanjut
+enable-backup-encryption-create-password-label = Kata Sandi
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Ulangi sandi
+enable-backup-encryption-cancel-button = Batal
 enable-backup-encryption-confirm-button = Simpan
+change-backup-encryption-header = Ubah sandi cadangan
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Persyaratan sandi
+password-rules-length-description = Setidaknya 8 karakter
+password-rules-email-description = Bukan alamat surel Anda
+password-validity-has-email = Tidak boleh berupa alamat surel
+password-validity-do-not-match = Sandi tidak cocok

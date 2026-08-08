@@ -146,6 +146,10 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Semua Perangkat
+fxa-menu-get-firefox-mobile =
+    .label = Dapatkan { -brand-product-name } untuk Android atau iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sinkronisasi aman
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Akun
 # Variables
@@ -155,6 +159,12 @@ appmenu-fxa-last-sync = Terakhir disinkronkan { $time }
     .label = Terakhir disinkronkan { $time }
 appmenu-fxa-sync-and-save-data2 = Sinkronkan dan Simpan Data
 appmenu-fxa-signed-in-label = Masuk
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Masuk untuk menyinkronkan
+appmenu-fxa-sign-in-promo-message = Dapatkan data Anda di mana saja
+appmenu-fxa-sign-in-promo-button =
+    .label = Masuk
 appmenu-fxa-setup-sync =
     .label = Aktifkan Sinkronisasi…
 appmenu-fxa-setup-sync-new = Nyalakan
@@ -250,6 +260,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Prasetel untuk menyelidiki bug jaringan di { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Jaringan
+profiler-popup-presets-networking-with-logs-description = Prasetel untuk menyelidiki bug jaringan di { -brand-shorter-name }, termasuk log jaringan. Log ini mungkin berisi informasi sensitif seperti URL yang Anda kunjungi.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Jaringan dengan Log
 profiler-popup-presets-power-description = Prasetel untuk menyelidiki bug penggunaan daya di { -brand-shorter-name }, dengan overhead rendah.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -280,6 +293,24 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Riwayat pencarian
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Tetap sinkron di seluruh perangkat
+appmenu-sync-promo-signin-cta = Masuk
+appmenu-sync-promo-turnonsync =
+    .heading = Sinkronkan tab dan riwayat Anda
+appmenu-sync-promo-turnonsync-cta = Aktifkan sinkronisasi
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Ambil tab seluler Anda
+appmenu-sync-promo-connectdevice-cta = Sambungkan perangkat
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Bawa markah Anda bersama Anda
+
 ## Help panel
 
 appmenu-help-header =
@@ -287,6 +318,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Tentang { -brand-shorter-name }
     .accesskey = T
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Sembunyikan { -brand-shorter-name }
+    .accesskey = b
 appmenu-get-help =
     .label = Dapatkan Bantuan
     .accesskey = D
@@ -343,13 +379,19 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Masuk ke akun Anda
 appmenuitem-monitor-title2 = Tetap Terdepan dari Pencurian Identitas
 appmenuitem-monitor-description2 = Dapatkan peringatan tentang pembobolan data
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Peringatan Kebocoran Data { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dapatkan peringatan kebocoran data
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Jaga agar Email Anda Tetap Privat
 appmenuitem-relay-description2 = Membantu mencegah spam di kotak masuk Anda
 appmenuitem-relay-description = Tutupi surel dan telepon asli Anda
 appmenuitem-services-relay-description = Luncurkan dasbor masker surel
 appmenuitem-vpn-title2 = Sembunyikan Lokasi Anda dengan { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Dapatkan perlindungan ekstra di seluruh aplikasi dan perangkat
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Buka { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Buat penjelajahan Anda lebih sulit dilacak
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Dapatkan perlindungan untuk seluruh perangkat
@@ -383,12 +425,30 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Profil yang sedang digunakan
 fxa-menu-create-profile-subpanel =
     .title = Buat profil baru
+fxa-menu-create-profile-heading = Tingkatkan penjelajahan Anda dengan profil baru
+fxa-menu-create-profile-description = Pisahkan markah, sandi, dan riwayat Anda untuk penjelajahan kantor dan pribadi.
 fxa-menu-create-profile-confirm =
     .label = Buat Profil Baru
 fxa-menu-create-profile-learn-more =
     .label = Apa Itu Profil?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Bagikan { -brand-short-name }
+appmenuitem-share-firefox-description = Undang seseorang untuk memilih peramban yang mengutamakan privasi
 appmenu-profiles-2 =
     .label = Profil
 appmenu-profiles-header = Profil
 appmenu-all-profiles =
     .label = Semua Profil
+appmenu-secure-sync-header = Sinkronisasi aman
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Tab terkini
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label = Lihat Semua { $tabCount } Tab yang Disinkronkan
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Kirim Laman Saat Ini ke Perangkat Ini
