@@ -143,6 +143,7 @@ aiwindow-input-model-select-settings-link = Nastavení modelu
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Užitečnější odpovědi, podle vašich představ
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } se může učit z vašich chatů, prohlížení nebo obojí a vytvářet si vzpomínky. Díky nim jsou odpovědi postupem času užitečnější.
 aiwindow-firstrun-memories-conversation-title = Udržujte konverzaci v chodu
 aiwindow-firstrun-memories-conversation-body = Pokud se budete učit z konverzací, nebudete se muset tolik opakovat.
 aiwindow-firstrun-memories-relevance-title = Relevantnější odpovědi
@@ -163,6 +164,7 @@ aiwindow-firstrun-memories-no-create = Rozumím. { -smart-window-brand-name } ne
 
 aiwindow-firstrun-default-title = Udělejte si z { -smart-window-brand-name(case: "acc") } svou první volbu
 aiwindow-firstrun-default-subtitle = Procházejte, vyhledávejte a ptejte se – vše na jednom místě. Soukromá a klasická okna si můžete otevřít kdykoli budete chtít.
+aiwindow-firstrun-default-checkbox-label = Vždy otevírat { -brand-product-name(case: "acc") } v režimu { -smart-window-brand-name(case: "loc") }
 aiwindow-firstrun-default-checkbox-description = Změnit to můžete kdykoliv v nastavení
 
 ## Ask Toolbar Button
@@ -210,6 +212,7 @@ aiwindow-history-menu-back =
     .aria-label = Zpět
     .tooltiptext = Zpět
 aiwindow-history-menu-view-all-chats = Zobrazit všechny chaty
+aiwindow-history-menu-settings = Nastavení { -smart-window-brand-name(case: "gen", plural-form: "true") }
 
 ## Fullpage top actions
 ## Labeled buttons shown at the top of the fullpage Smart Window.
@@ -322,6 +325,7 @@ smartwindow-close-tab-callout-subtitle = Panely z historie můžete kdykoli znov
 ## Smart Window new tab promo
 
 smart-window-default-promo-heading = Nastavit { -smart-window-brand-name(case: "acc") } jako výchozí?
+smart-window-default-promo-message = { -brand-short-name } se vždy otevře v režimu { -smart-window-brand-name(case: "loc") }.
 smart-window-default-promo-primary-button = Nastavit jako výchozí
 smart-window-default-promo-additional-button = Teď ne
 
@@ -329,6 +333,7 @@ smart-window-default-promo-additional-button = Teď ne
 
 aiwindow-feedback-modal-title = Sdílet zpětnou vazbu
 aiwindow-feedback-what-worked-well = Co fungovalo dobře? Žádné osobní informace, prosím.
+aiwindow-feedback-choose-any = Zvolte všechny položky, které platí
 aiwindow-feedback-add-details = Pokud chcete, přidejte podrobnosti. Žádné osobní informace, prosím.
 aiwindow-feedback-submit = Odeslat
 aiwindow-feedback-cancel = Zrušit
@@ -346,6 +351,12 @@ aiwindow-feedback-include-page-content = Sdílet stránky uvedené v tomto chatu
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = Změna rozložení zobrazení
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Přepínání režimu: Zobrazení seznamu
+    .tooltiptext = Zobrazení seznamu
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Přepínání režimu: Zobrazení mřížky
+    .tooltiptext = Zobrazení mřížky
 
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.

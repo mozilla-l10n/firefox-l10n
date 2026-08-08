@@ -30,12 +30,17 @@ policy-BlockAboutSupport = Блокирај приступ страници abou
 policy-Bookmarks = Правите обележиваче у траци са обележивачима, менију са обележивачима или у наведеној фасцикли унутар.
 policy-CaptivePortal = Омогући или онемогући подршку за каптивне портале.
 policy-CertificatesDescription = Додај сертификате или користи уграђене сертификате.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Омогућите уговор о кључу CNSA 2.0 ML-KEM-1024 за TLS.
 policy-ContentAnalysis = Омогући или онемогући везу са агентом за спречавање губљења података.
 policy-Cookies = Дозволи или забрани сајтовима да остављају колачиће.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Подесите правила у вези са контејнерима.
 policy-DisableAccounts = Онемогући услуге преко налога, укључујући усклађивање.
 policy-DisabledCiphers = Онемогућите алгоритам шифровања.
+policy-DefaultBrowserSettingEnabled = Одређује да ли корисник може да подеси { -brand-short-name } као подразумевани прегледач.
 policy-DefaultDownloadDirectory = Поставите подразумевану фасциклу за преузимања.
 policy-DefaultSerialGuardSetting = Управљајте коришћењем серијског API-ја.
 policy-DisableAppUpdate = Спречи ажурирање прегледача.
@@ -52,6 +57,7 @@ policy-DisableFirefoxScreenshots = Онемогућава функцију Firef
 policy-DisableFirefoxStudies = Спречи извођење { -brand-short-name } студија.
 policy-DisableForgetButton = Спречи приступ дугмету „Заборави“.
 policy-DisableFormHistory = Не памти историју претраживања и формулара.
+policy-DisableLaunchOnLogin = Спречите самостално покретање { -brand-short-name }-а када се корисник пријави.
 policy-DisablePrimaryPasswordCreation = Ако је тачно, главна лозинка се не може направити.
 policy-DisablePasswordReveal = Не дозволите приказивање лозинке у сачуваним подацима за пријаву.
 policy-DisablePocket2 = Онемогућава чување веб-страница у { -pocket-brand-name }-у.

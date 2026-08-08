@@ -61,6 +61,10 @@ appmenuitem-translate =
     .label = Přeložit stránku…
 appmenuitem-zoom =
     .value = Velikost stránky
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Sdílet { -brand-product-name(case: "acc") }
 appmenuitem-more-tools =
     .label = Další nástroje
 # Menu combining the previous "Help" menu and report broken site
@@ -341,6 +345,18 @@ appmenu-search-history =
 appmenu-sync-promo-signin =
     .heading = Buďte synchronizovaní napříč zařízeními
 appmenu-sync-promo-signin-cta = Přihlásit se
+appmenu-sync-promo-turnonsync =
+    .heading = Synchronizujte panely a historii
+appmenu-sync-promo-turnonsync-cta = Zapnout synchronizaci
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Vezměte si panely z mobilu
+appmenu-sync-promo-connectdevice-cta = Připojit zařízení
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Vezměte si záložky s sebou
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Vezměte si své záložky na cesty
 
 ## Help panel
 
@@ -375,6 +391,9 @@ appmenu-help-share-ideas =
     .accesskey = S
 appmenu-help-switch-device =
     .label = Přechod na nové zařízení
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Pomoc a hlášení
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -415,14 +434,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Přihlaste se do svého účtu
 appmenuitem-monitor-title2 = Buďte o krok napřed před krádežemi identity
 appmenuitem-monitor-description2 = Nechte se upozornit na úniky dat
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } - Upozornění na úniky údajů
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dostávejte upozornění na úniky dat
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Udržujte svůj e-mail v soukromí
 appmenuitem-relay-description2 = Pomáhá předcházet nevyžádané poště ve vaší e-mailové schránce
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Zobrazit masky e-mailů
 appmenuitem-relay-description = Zamaskujte svůj skutečný e-mail a telefon
 appmenuitem-services-relay-description = Spustit nástěnku e-mailových masek
 appmenuitem-vpn-title2 = Skryjte svou polohu pomocí { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Získejte dodatečnou ochranu ve všech aplikacích a zařízeních
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Otevřít { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Učiňte těžší sledování vašeho prohlížení webu
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Získejte ochranu celého zařízení
@@ -466,6 +492,8 @@ fxa-menu-create-profile-confirm =
     .label = Vytvořit nový profil
 fxa-menu-create-profile-learn-more =
     .label = Co jsou profily?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Sdílet { -brand-short-name(case: "acc") }
 appmenu-profiles-2 =
     .label = Profily
 appmenu-profiles-header = Profily
@@ -476,3 +504,14 @@ appmenu-secure-sync-header = Bezpečná synchronizace
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Nedávné panely
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Zobrazit { $tabCount } synchronizovaný panel
+            [few] Zobrazit všechny { $tabCount } synchronizované panely
+            [many] Zobrazit všech { $tabCount } synchronizovaných panelů
+           *[other] Zobrazit všech { $tabCount } synchronizovaných panelů
+        }

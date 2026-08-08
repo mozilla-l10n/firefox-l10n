@@ -103,7 +103,10 @@ ai-window-memory-delete-button =
 
 smart-window-model-fast-v2 =
     .label = { $shortName }: Брзо
-    .description = Најбоље за брзе одговоре када је брзина битна. Пуно име: { $model } од { $ownerName }-а
+    .description = Најбоље за брзе одговоре када је брзина битна. Пуно име: { $model } од фирме { $ownerName }
 smart-window-model-flexible-v2 =
     .label = { $shortName }: Савитљиво
-    .description = Спреман за разне задатке. Пуно име: { $model } од { $ownerName }-а
+    .description = Спреман за разне задатке. Пуно име: { $model } од фирме { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Лично
+    .description = Направљено за персонализовану помоћ на свим језицима. Пуно име: { $model } од фирме { $ownerName }

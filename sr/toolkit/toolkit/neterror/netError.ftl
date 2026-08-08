@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Увек настави
 neterror-pref-reset = Изгледа да су узрок томе ваша подешавања безбедности мреже. Желите ли да вратите подразумевана подешавања?
 neterror-error-reporting-automatic = Пријавите грешке попут ове како би { -vendor-short-name } лакше препознала и блокирала злонамерне сајтове
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Ваша веза можда није приватна
+    .message = Програм или услуга може да види ваш шифровани саобраћај са ове странице.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } из неког разлога не може да учита ову страницу.

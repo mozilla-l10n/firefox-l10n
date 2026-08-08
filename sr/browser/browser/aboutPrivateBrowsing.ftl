@@ -83,4 +83,5 @@ about-private-browsing-nova-info-link = Ко би и даље могао да в
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Нико вас сада не снима
+about-private-browsing-nova-info-subheader2 = Обрисаћемо сваку претрагу и пријаву када затворите све приватне прозоре. Уграђене заштите { -brand-short-name }-а су овде такође укључене, попут блокирања пратилаца.
 about-private-browsing-nova-info-subheader = Обрисаћемо сваку претрагу и пријаву када затворите овај прозор. Уграђене заштите { -brand-short-name }-а су овде такође укључене, као што је блокирање праћења.
