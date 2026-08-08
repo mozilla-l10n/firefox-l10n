@@ -61,6 +61,11 @@ fxa-menu-sign-out =
 fxa-menu-sync-description = Accede a tu web desde cualquier lugar
 fxa-menu-sign-in-promo-button =
     .label = Iniciar sesión
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Iniciar sesión
 fxa-avatar-sign-in = Iniciar sesión
 fxa-avatar-sign-up = Registrarse
 fxa-avatar-tooltip =
