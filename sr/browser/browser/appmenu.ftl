@@ -21,6 +21,8 @@ appmenuitem-banner-update-unsupported =
     .label = Ажурирање није могуће – некомпатибилан систем
 appmenuitem-banner-update-restart =
     .label = Доступно је ажурирање – поново покрените прегледач
+appmenu-nova-update-title = Поново покрени за ажурирање { -brand-short-name }-а
+appmenu-nova-update-description = Ваши језичци ће се поново отворити.
 appmenu-nova-fxa-sign-in = Пријавите се
 appmenu-nova-switch-device-promo =
     .message = Ускоро набављате нови уређај? Понесите { -brand-short-name } са собом!
@@ -53,8 +55,15 @@ appmenuitem-translate =
     .label = Преведи страницу…
 appmenuitem-zoom =
     .value = Увећај
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Подели { -brand-product-name }
 appmenuitem-more-tools =
     .label = Више алатки
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Помоћ и пријава
 appmenuitem-help =
     .label = Помоћ
 appmenuitem-exit2 =
@@ -109,6 +118,40 @@ appmenu-remote-tabs-unverified = Потребно је да потврдите �
 appmenuitem-fxa-toolbar-sync-now2 = Усклади
 appmenuitem-fxa-sign-in = Пријавите се у { -brand-product-name }
 appmenuitem-fxa-manage-account = Управљај налогом
+fxa-menu-sync-status-on = Усклађивање је укључено
+fxa-menu-sync-status-off = Усклађивање је искључено
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Ваши подаци се не усклађују
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Укључи
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Пријави се за усклађивање
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Усклади { $deviceName } сада
+fxa-menu-manage-sync-settings =
+    .label = Управљај подешавањима усклађивања
+fxa-menu-add-device =
+    .label = Додај уређај
+fxa-menu-manage-devices =
+    .label = Управљај својим уређајима
+fxa-menu-device-missing =
+    .label = Не видите свој уређај?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Сви уређаји
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Сви уређаји
+fxa-menu-get-firefox-mobile =
+    .label = Преузми { -brand-product-name } за Android или iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Безбедно усклађивање
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Налог
 # Variables
@@ -118,6 +161,12 @@ appmenu-fxa-last-sync = Последње усклађивање { $time }
     .label = Последње усклађивање { $time }
 appmenu-fxa-sync-and-save-data2 = Усклади и сачувај податке
 appmenu-fxa-signed-in-label = Пријава
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Пријави се за усклађивање
+appmenu-fxa-sign-in-promo-message = Приступите својим подацима било где
+appmenu-fxa-sign-in-promo-button =
+    .label = Пријави се
 appmenu-fxa-setup-sync =
     .label = Укључи усклађивање
 appmenu-fxa-setup-sync-new = Укључи
@@ -246,6 +295,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Претражи историју
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Останите у усклађивању на свим уређајима
+appmenu-sync-promo-signin-cta = Пријави се
+appmenu-sync-promo-turnonsync =
+    .heading = Ускладите своје језичке и историју
+appmenu-sync-promo-turnonsync-cta = Укључи усклађивање
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Преузмите своје мобилне језичке
+appmenu-sync-promo-connectdevice-cta = Повежи уређај
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Понесите своје обележиваче са собом
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Понесите своје обележиваче где год да идете
+
 ## Help panel
 
 appmenu-help-header =
@@ -265,6 +335,11 @@ appmenu-about =
            *[other] О програму { -brand-shorter-name }
         }
     .accesskey = О
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Подели { -brand-shorter-name }
+    .accesskey = r
 appmenu-get-help =
     .label = Потражи помоћ
     .accesskey = П
@@ -278,6 +353,9 @@ appmenu-help-share-ideas =
     .accesskey = д
 appmenu-help-switch-device =
     .label = Пребацивање на нови уређај
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Помоћ и пријава
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -318,14 +396,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Пријавите се у ваш налог
 appmenuitem-monitor-title2 = Будите корак испред крађе идентитета
 appmenuitem-monitor-description2 = Примајте упозорења о цурењу података
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } упозорења о цурењу података
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Добијајте упозорења о цурењу података
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Задржите своју е-пошту приватном
 appmenuitem-relay-description2 = Помаже у спречавању непожељних порука у вашем пријемном сандучету
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Прикажи маске е-поште
 appmenuitem-relay-description = Маскирајте вашу праву адресу е-поште и број телефона
 appmenuitem-services-relay-description = Покрените контролну таблу маски е-поште
 appmenuitem-vpn-title2 = Сакријте своју локацију уз { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Добијте додатну заштиту у свим програмима и на свим уређајима
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Отвори { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Отежајте праћење вашег прегледања
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Набавите заштиту за цео уређај
@@ -348,9 +433,46 @@ appmenu-manage-profiles =
     .label = Управљај профилима
 appmenu-copy-profile =
     .label = Копирај овај профил
+appmenu-create-profile2 =
+    .label = Направи нови профил
 appmenu-create-profile =
     .label = Нови профил
 appmenu-edit-profile =
     .aria-label = Измени профил
+appmenu-edit-this-profile =
+    .label = Уреди овај профил
+appmenu-profile-current-in-use = Тренутни профил се користи
+fxa-menu-create-profile-subpanel =
+    .title = Направи нови профил
+fxa-menu-create-profile-heading = Унапреди своје прегледање новим профилом
+fxa-menu-create-profile-description = Држите своје обележиваче, лозинке и историју одвојено за посао и лично прегледање.
+fxa-menu-create-profile-confirm =
+    .label = Направи нови профил
+fxa-menu-create-profile-learn-more =
+    .label = Шта су профили?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Подели { -brand-short-name }
+appmenuitem-share-firefox-description = Позовите некога да изабере прегледач којем је приватност на првом месту
 appmenu-profiles-2 =
     .label = Профили
+appmenu-profiles-header = Профили
+appmenu-all-profiles =
+    .label = Сви профили
+appmenu-secure-sync-header = Безбедно усклађивање
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Недавни језичци
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Прикажи { $tabCount } усклађени језичак
+            [few] Прикажи сва { $tabCount } усклађена језичка
+           *[other] Прикажи свих { $tabCount } усклађених језичака
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Пошаљи тренутну страну на овај уређај
