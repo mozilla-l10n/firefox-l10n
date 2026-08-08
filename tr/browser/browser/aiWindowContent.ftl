@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] { $count } sekmeyi gruplandır
        *[other] { $count } sekmeyi gruplandır
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Aç
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] { $count } sekmeyi aç
+       *[other] { $count } sekmeyi aç
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -134,6 +142,25 @@ smart-window-grouped-tabs-summary =
        *[other] “{ $label }” grubu oluşturuldu ve { $count } sekme eklendi.
     }
 smart-window-grouped-tabs-row-label = Gruplandırılmış sekmeler
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } sekme açıldı
+       *[other] { $count } sekme açıldı
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } sekme açıldı.
+       *[other] { $count } sekme açıldı.
+    }
+smart-window-opened-tabs-row-label = Açılan sekmeler
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = “{ $title }” sekmesine geçildi.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Sekmeler gruptan çıkarıldı
 # Variables
