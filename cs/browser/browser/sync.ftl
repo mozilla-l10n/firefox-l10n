@@ -71,6 +71,10 @@ fxa-menu-manage-account-subtitle = Správa účtu
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Přihlásit se k synchronizaci
 fxa-menu-sign-in-promo-message = Mějte svoje data všude
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Jste odhlášený/á.
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Dokončit nastavení
 fxa-avatar-sign-in = Přihlásit se
 fxa-avatar-sign-up = Přihlásit se
 fxa-avatar-tooltip =

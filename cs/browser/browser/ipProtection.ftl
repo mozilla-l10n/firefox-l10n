@@ -78,10 +78,22 @@ ipprotection-feature-introduction-button-get-started = Začínáme
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Vaše limity pro vestavěnou VPN se obnoví 1. září
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Využijte svých { $maxUsage } GB a 6 umístění pro větší soukromí, aby bylo vaše prohlížení obtížněji vysledovatelné.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Využijte svých { $maxUsage } GB a více než 20 umístění pro větší soukromí, díky čemuž bude obtížnější vysledovat, že prohlížení stránek pochází právě od vás.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Vaše vestavěná VPN je nyní ještě lepší
+ipprotection-summer-promo-offramp-subscriber-description = Jako předplatitel služby { -mozilla-vpn-brand-name } nyní získáváte neomezenou šířku pásma a přístup k většímu počtu umístění.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Ponechejte si svoje dodatečná umístění pro vestavěnou VPN
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otevřít VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Nastavit na výchozí

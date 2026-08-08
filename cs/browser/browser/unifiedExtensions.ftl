@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Objevte rozšíření
 unified-extensions-empty-reason-private-browsing-not-allowed = Máte nainstalována rozšíření, ale nejsou povolena v anonymních oknech.
 unified-extensions-empty-reason-extension-not-enabled = Máte nainstalována rozšíření, ale nejsou povolena
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Pár rozšíření dokáže hodně
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Zvyšte úroveň svého prohlížení pomocí rozšíření
 unified-extensions-empty-content-explain-enable2 = Pro jejich povolení klepněte na „{ unified-extensions-manage-extensions.label }“.
 unified-extensions-empty-content-explain-manage2 = Chcete-li je spravovat v nastavení, vyberte možnost „{ unified-extensions-manage-extensions.label }“.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Máme pro vás několik doporučení, která vám pomohou zlepšit soustředění, ochranu soukromí a další věci.
 unified-extensions-empty-content-explain-extensions-onboarding =
     { -brand-short-name.case-status ->
         [with-cases] Přizpůsobte si { -brand-short-name(case: "acc") } podle sebe změnou vzhledu a výkonu, zvýšením úrovně soukromí a bezpečnosti.
