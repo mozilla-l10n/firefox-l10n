@@ -112,12 +112,17 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Vprašaj UI-klepetalnik
     .accesskey = k
+genai-menu-ask-smart-window =
+    .label = Vprašaj …
+    .accesskey = V
 
 ## Chatbot header
 
 genai-chatbot-title = UI-klepetalnik
 genai-header-provider-menu =
     .title = Izberite klepetalnik
+genai-header-settings-button =
+    .title = Nastavitve UI-klepetalnika
 genai-header-options-button =
     .title = Odpri meni
 genai-header-close-button =
@@ -164,6 +169,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Več o Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = Več o HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
@@ -230,10 +237,22 @@ link-preview-reading-time =
         [few] Čas branja: { $range } minute
        *[other] Čas branja: { $range } minut
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } ne more prikazati predogleda te povezave
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Obiščite povezavo
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } ne more ustvariti ključnih poudarkov za to spletno stran.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Prišlo je do napake.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Poskusi znova
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Nastavitve predogleda povezave
+link-preview-settings-enable =
+    .label = Omogoči predoglede povezav
+    .description = Oglejte si naslov strani, opis in drugo, ko uporabite bližnjico ali desno-kliknete na povezavo.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Oglejte si predogled
 # Onboarding card Close button

@@ -7,9 +7,9 @@ safeb-blocked-malware-page-title = Šī lapa var kaitēt jūsu datoram
 safeb-blocked-unwanted-page-title = Šajā lapā var būt kaitnieciskas programmas
 safeb-blocked-harmful-page-title = Šajā lapā var būt kaitnieciskas programmas
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } bloķēja šo lapu, jo tā var jūs maldināt, liekot instalēt nevēlamu programmatūru vai izkrāpjot personisku informāciju, piemēram kredītkaršu datus.
-safeb-blocked-malware-page-short-desc = { -brand-short-name } bloķēja šo lapu, jo tā var mēģināt instalēt kaitniecisku programmatūru, kas var zagt jūsu privāto informāciju.
+safeb-blocked-malware-page-short-desc = { -brand-short-name } aizturēja šo lapu, jo tā var mēģināt uzstādīt kaitniecisku programmatūru, kas datorā var zagt vai izdzēst personisku informāciju.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bloķēja šo lapu, jo tā var iemānīt jums kaitniecisku programmatūru (piemēram tādu, kas maina mājas lapu saturu un rāda reklāmas).
-safeb-blocked-harmful-page-short-desc = { -brand-short-name } bloķēja šo lapu, jo tā var mēģināt instalēt bīstamu programmatūru, kas zog jūsu privātos datus (piemēram foto, paroles vai kredītkaršu informāciju).
+safeb-blocked-harmful-page-short-desc = { -brand-short-name } aizturēja šo lapu, jo tā var mēģināt uzstādīt bīstamas lietotnes, kas zog vai izdzēš personiskos datus (piemēram fotoattēlus, paroles vai maksājumu karšu datus).
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Ieteikumus nodrošina <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.

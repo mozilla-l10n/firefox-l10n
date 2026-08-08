@@ -55,7 +55,7 @@ account-connection-connected-with = Šis dators tagad ir savienots ar { $deviceN
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Šis dators tagad ir savienots ar jaunu ierīci.
 # Used in a notification shown after a Firefox account is connected to the current device.
-account-connection-connected = Jūs esat veiksmīgi pierakstījies
+account-connection-connected = Tu sekmīgi pieteicies
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Šis dators ir atvienots.
 

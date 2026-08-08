@@ -8,12 +8,12 @@ xpinstall-prompt = { -brand-short-name } liedza šai vietnei vaicāt atļauju in
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
 xpinstall-prompt-header = Vai ļaut { $host } instalēt papildinājumu?
-xpinstall-prompt-message = Jūs mēģināt instalēt papildinājumu no { $host }. Pirms turpināšanas pārliecinieties, ka šī vietne ir uzticama.
+xpinstall-prompt-message = Tu mēģini uzstādīt papildinājumu no { $host }. Pirms turpināšanas jāpārliecinās, ka šī vietne ir uzticama.
 
 ##
 
 xpinstall-prompt-header-unknown = Atļaut nezināmai vietnei instalēt papildinājumu?
-xpinstall-prompt-message-unknown = Jūs mēģināt instalēt papildinājumu no nezināmas vietnes. Pirms turpināšanas pārliecinieties, ka šī vietne ir uzticama.
+xpinstall-prompt-message-unknown = Tu mēģini uzstādīt papildinājumu no nezināmas vietnes. Pirms turpināšanas jāpārliecinās, ka šī vietne ir uzticama.
 xpinstall-prompt-dont-allow =
     .label = Neatļaut
     .accesskey = N
@@ -29,7 +29,7 @@ xpinstall-prompt-never-allow-and-report =
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
 xpinstall-prompt-install =
-    .label = Turpināt instalēšanu
+    .label = Turpināt uzstādīšanu
     .accesskey = T
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.

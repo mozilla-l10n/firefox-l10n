@@ -661,7 +661,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importēt grāmatzīmes…
     .tooltiptext = Importēt grāmatzīmes no cita pārlūka uz { -brand-short-name }.
-bookmarks-toolbar-empty-message = Lai ātri piekļūtu, lieciet grāmatzīmes šeit — grāmatzīmju rīkjoslā. <a data-l10n-name="manage-bookmarks">Pārvaldīt grāmatzīmes...</a>
+bookmarks-toolbar-empty-message = Ātrai piekļuvei grāmatzīmes ir novietojamas šeit — grāmatzīmju rīkjoslā. <a data-l10n-name="manage-bookmarks">Pārvaldīt grāmatzīmes...</a>
 
 ## WebRTC Pop-up notifications
 
