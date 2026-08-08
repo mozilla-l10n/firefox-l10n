@@ -127,4 +127,4 @@ printui-error-invalid-copies = Cópias deve ser um número entre 1 e 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = O intervalo deve ser um número entre 1 e { $numPages }.
-printui-error-invalid-start-overflow = O número da página inicial deve ser menor ou igual ao número da página final.
+printui-error-invalid-start-overflow = O número da página inicial deve ser menor que o número da página final.

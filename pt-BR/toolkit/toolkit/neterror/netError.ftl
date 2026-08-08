@@ -102,7 +102,7 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = O { -brand-short-name } 
 
 ##
 
-neterror-file-not-found-filename = Verifique se o nome do arquivo tem letras maiúsculas ou outros erros de digitação.
+neterror-file-not-found-filename = Verifique diferenças de maiúsculas/minúsculas ou outros erros de digitação no nome do arquivo.
 neterror-file-not-found-moved = Verifique se o arquivo foi movido, renomeado ou excluído.
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
