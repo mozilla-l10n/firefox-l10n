@@ -182,3 +182,16 @@ password-rules-length-description = Setidaknya 8 karakter
 password-rules-email-description = Bukan alamat surel Anda
 password-validity-has-email = Tidak boleh berupa alamat surel
 password-validity-do-not-match = Sandi tidak cocok
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Sukses
+password-rules-a11y-warning =
+    .alt = Peringatan
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Hapus perlindungan kata sandi
+disable-backup-encryption-support-link = Apa yang akan dicadangkan?
+disable-backup-encryption-cancel-button = Batal
