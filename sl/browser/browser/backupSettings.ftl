@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Mesto shranjevanja
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (priporočeno)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Izberite lokacijo
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Izberi …
