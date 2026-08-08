@@ -43,6 +43,14 @@ neterror-error-reporting-automatic =
        *[no-cases] Hlásit chyby jako je tato a pomoci tak organizaci { -vendor-short-name } identifikovat a blokovat škodlivé stránky
     }
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Vaše připojení nemusí být soukromé
+    .message = Aplikace nebo služba může vidět vaši šifrovanou komunikaci z této stránky.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } nemůže tuto stránku načíst.

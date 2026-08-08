@@ -77,6 +77,12 @@ url-classifier-content-classifier-probe-blocking-btn = Vyzkoušet blokování
 # Button: run the probe that reports whether the request would be annotated
 # (labeled) as tracking without being blocked.
 url-classifier-content-classifier-probe-annotate-btn = Vyzkoušet anotace
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Vyzkoušet funkci
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Podrobnosti o klasifikátoru
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Funkce
 # Column header: whether the request matched this feature (true/false).
@@ -84,9 +90,19 @@ url-classifier-content-classifier-col-matched = Shoda
 # Column header: whether this feature matched an exception/allow-list entry that
 # spares the request (true/false).
 url-classifier-content-classifier-col-exception = Výjimka
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Important
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Výsledek klasifikátoru
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Zásah
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = Výjimka
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Minutí
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.

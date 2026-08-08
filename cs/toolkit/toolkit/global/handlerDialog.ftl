@@ -95,6 +95,10 @@ choose-dialog-privatebrowsing-disabled = Vypnuto v anonymních oknech
 mailto-handler-picker-window =
     .style = min-width: 26em; min-height: 26em;
     .title = Zvolte svou poštovní aplikaci
+mailto-handler-picker-subtitle = Vyberte aplikaci, kterou chcete používat pro odkazy v e-mailech. Toto nastavení můžete později změnit v Nastavení.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Optat se vždy při klepnutí na odkaz s e-mailovou adresou
 # Confirms the picker: sets the selected app as the handler for email links.
 mailto-handler-picker-set-default =
     .label = Nastavit jako výchozí
