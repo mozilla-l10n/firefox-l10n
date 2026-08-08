@@ -448,6 +448,11 @@ onboarding-checklist-pin = Fijar { -brand-short-name } en la barra de tareas
 onboarding-checklist-import = Importar desde el navegador anterior
 onboarding-checklist-extension = Agregar una extensión
 onboarding-checklist-sign-up = Regístrate o inicia sesión en tu cuenta
+onboarding-checklist-minimize =
+    .label = Minimizar
+onboarding-checklist-remove =
+    .label = Eliminar lista de verificación
+onboarding-checklist-remove-2 = Eliminar lista de verificación
 
 ## Tab Groups feature onboarding strings
 
@@ -597,8 +602,14 @@ onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, 
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } te respalda
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Cambia entre Ventanas inteligentes y Ventanas clásicas en cualquier momento.
+
 ## Smart Window ToU modal
 
+# Existing users
+smartwindow-existing-user-fx-tou-title = Términos de uso de { -brand-product-name }
 smartwindow-existing-user-fx-tou-accept = Aceptar
 smartwindow-existing-user-fx-tou-go-back = Regresar
 

@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] Agrupar { $count } pestaña
        *[other] Agrupar { $count } pestañas
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Abrir
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Abrir { $count } pestaña
+       *[other] Abrir { $count } pestañas
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } pestaña agrupada
        *[other] { $count } pestañas agrupadas
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Grupo de pestañas
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,30 @@ smart-window-grouped-tabs-summary =
        *[other] Se creó el grupo “{ $label }” y se agregaron { $count } pestañas.
     }
 smart-window-grouped-tabs-row-label = Pestañas agrupadas
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } pestaña abierta
+       *[other] { $count } pestañas abiertas
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } pestaña abierta.
+       *[other] { $count } pestañas abiertas.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Se creó el grupo “{ $label }” y se abrió { $count } pestaña.
+       *[other] Se creó el grupo “{ $label }” y se abrieron { $count } pestañas.
+    }
+smart-window-opened-tabs-row-label = Pestañas abiertas
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Pestañas desagrupadas
 # Variables

@@ -293,6 +293,17 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Buscar en el historial
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Iniciar sesión
+appmenu-sync-promo-turnonsync =
+    .heading = Sincronizar pestañas e historial
+appmenu-sync-promo-turnonsync-cta = Habilitar sincronización
+appmenu-sync-promo-connectdevice-cta = Conectar un dispositivo
+
 ## Help panel
 
 appmenu-help-header =

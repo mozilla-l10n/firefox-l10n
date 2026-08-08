@@ -19,7 +19,7 @@ preonboarding-privacy-notice-header-button-title = Leer nuestro Aviso de Privaci
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Administrar datos de diagnóstico e interacción
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
-preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } Términos de uso
+preonboarding-terms-of-use-header-button-title-b = Términos de uso de { -brand-product-name }
 preonboarding-terms-of-use-header-button-title-b-v2 = Términos de uso
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Política de privacidad de { -brand-product-name }
