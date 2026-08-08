@@ -163,6 +163,9 @@ smart-window-opened-tabs-summary-single =
 smart-window-opened-tabs-row-label = Pestañas abiertas
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Se cambió de pestaña
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Se cambió a “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Pestañas desagrupadas
 # Variables
