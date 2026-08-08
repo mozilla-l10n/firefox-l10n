@@ -71,3 +71,42 @@ ai-window-learn-from-chat-activity =
     .label = { -smart-window-brand-name } ᱠᱷᱚᱱ ᱪᱟᱴ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ai-window-learn-from-browsing-activity =
     .label = ᱠᱞᱟᱥᱤᱠ ᱟᱨ { -smart-window-brand-name(plural-form: "true") } ᱠᱷᱚᱱ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱪᱮᱫᱚᱜ ᱢᱮ
+ai-window-manage-memories-button =
+    .label = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱵᱮᱵᱚᱥᱛᱟᱭ ᱢᱮ
+ai-window-manage-memories-header =
+    .heading = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱵᱮᱵᱚᱥᱛᱟᱭ ᱢᱮ
+    .description = ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱞᱚᱠᱟᱞ ᱞᱮᱠᱟᱛᱮ ᱡᱟᱣᱨᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱟᱢ { -smart-window-brand-name } ᱵᱮᱵᱷᱟᱨ ᱚᱠᱛᱚ ᱩᱱᱠᱩ ᱫᱤᱱ ᱨᱮ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱫᱷᱟᱣ ᱠᱚ ᱨᱤᱯᱷᱨᱮᱥ ᱮᱫᱟ, ᱚᱱᱟ ᱛᱮ ᱱᱮᱛᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱚ ᱯᱨᱚᱯᱷᱨᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
+ai-window-no-memories =
+    .label = ᱱᱤᱛ ᱦᱚᱸ ᱩᱭᱦᱟᱹᱨ ᱵᱟᱹᱱᱩᱜᱼᱟ
+    .description = ᱡᱮᱞᱠᱟ { -smart-window-brand-name } ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱠᱟᱱᱟ, ᱟᱢ ᱱᱚᱸᱰᱮ ᱩᱭᱦᱟᱹᱨ ᱠᱚᱢ ᱧᱮᱞᱟ᱾
+ai-window-no-memories-learning-off =
+    .label = ᱩᱫᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
+    .description = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱫᱚ ᱵᱚᱱᱫᱚ ᱜᱮᱭᱟ, ᱚᱱᱟᱛᱮ { -smart-window-brand-name } ᱫᱚ ᱩᱭᱦᱟᱹᱨ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱮᱫᱟ᱾
+ai-window-delete-all-memories-button =
+    .label = ᱡᱷᱚᱛᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
+ai-window-delete-all-memories-title = ᱥᱟᱱᱟᱢ ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = ᱢᱮᱱᱟᱜ ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱢᱮᱴᱟᱣ ᱪᱟᱵᱟᱜᱼᱟ ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱡᱟᱦᱟᱱ ᱱᱟᱶᱟ ᱩᱭᱦᱟᱹᱨ ᱵᱟᱝ ᱵᱮᱱᱟᱣ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ, ᱮᱱᱠᱷᱟᱱ { -smart-window-brand-name } ᱥᱮᱴᱤᱝ ᱨᱮ “ᱥᱮᱪᱮᱫ ᱠᱷᱚᱱ...” ᱨᱮᱭᱟᱜ ᱚᱯᱥᱚᱱ ᱠᱚ ᱟᱱᱪᱮᱠ ᱢᱮ ᱾
+ai-window-delete-all-memories-confirm = ᱢᱮᱴᱟᱣ ᱢᱮ
+ai-window-delete-all-memories-cancel = ᱵᱟᱹᱰᱨᱟᱹ
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = ᱩᱭᱦᱟᱹᱨ ᱢᱮᱴᱟᱣ ᱢᱮ
+    .aria-label = { $label } ᱢᱮᱴᱟᱣ
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: ᱯᱷᱩᱨᱛᱤ
+    .description = ᱩᱥᱟᱹᱨᱟ ᱛᱮᱞᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱨᱮᱥ ᱡᱚᱠᱷᱚᱱ ᱥᱯᱤᱰ ᱢᱟᱱᱚᱛ ᱛᱟᱦᱮᱱᱟ᱾ ᱯᱩᱨᱟᱹ ᱧᱩᱛᱩᱢ: { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: ᱞᱤᱪᱟᱹᱲ
+    .description = ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱯᱲᱟᱣ ᱢᱮ ᱾ ᱯᱩᱨᱟᱹ ᱧᱩᱛᱩᱢ: { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: ᱱᱤᱡᱮᱨᱟᱹ
+    .description = ᱥᱟᱱᱟᱢ ᱯᱟᱹᱨᱥᱤ ᱨᱮ ᱯᱚᱨᱥᱚᱱᱟᱞ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱛᱮᱭᱟᱨ ᱟᱠᱟᱱᱟ᱾ ᱯᱩᱨᱟᱹ ᱧᱩᱛᱩᱢ: { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
