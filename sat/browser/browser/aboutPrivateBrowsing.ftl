@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-privatebrowsingpage-open-private-window-label = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡᱽ ᱢᱮ
+privatebrowsingpage-open-private-window-label = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱡᱟᱨᱞᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = P
 about-private-browsing-search-placeholder = ᱣᱮᱵ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
-about-private-browsing-info-title = ᱟᱢ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱢᱮᱱᱟᱢᱼᱟ
+about-private-browsing-info-title = ᱟᱢ ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱡᱟᱨᱞᱟ ᱨᱮ ᱢᱮᱱᱟᱢ ᱟ
 about-private-browsing-search-btn =
-    .title = ᱣᱮᱵ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+    .title = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -78,3 +78,14 @@ about-private-browsing-cookie-banners-promo-body = ᱟᱞᱮ ᱫᱚ ᱱᱤᱛ �
 about-private-browsing-felt-privacy-v1-info-header = ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱡᱟᱦᱟᱱ ᱪᱤᱱᱦᱟᱹ ᱟᱞᱚᱢ ᱫᱚᱦᱚᱭᱟ ᱾
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } ᱟᱢᱟᱜ ᱠᱩᱠᱤ, ᱱᱟᱜᱟᱢ, ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱟ, ᱡᱟᱦᱟᱸ ᱛᱤᱱ ᱨᱮ ᱟᱢ ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱟ ᱾
 about-private-browsing-felt-privacy-v1-info-link = ᱚᱠᱚᱭ ᱫᱚ ᱤᱧᱟᱜ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚ ᱵᱚᱱᱫᱚ ᱞᱮᱠᱷᱟᱱ ᱟᱢᱟᱜ ᱠᱩᱠᱤᱡᱽ, ᱱᱟᱜᱟᱢ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣᱚᱜᱼᱟ᱾
+about-private-browsing-nova-info-link = ᱚᱠᱚᱭ ᱱᱤᱛ ᱦᱚᱸ ᱤᱧᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = ᱟᱢ ᱫᱚ ᱨᱮᱠᱚᱰ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱨᱮ ᱢᱮᱱᱟᱢᱟ
+about-private-browsing-nova-info-subheader2 = ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚᱡᱽ ᱵᱚᱱᱫᱚ ᱠᱷᱟᱱ ᱟᱞᱮ ᱥᱟᱱᱟᱢ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱥᱟᱭᱤᱱ ᱤᱱ ᱞᱮ ᱢᱤᱴᱟᱣᱟ᱾ { -brand-short-name } ᱨᱮᱭᱟᱜ ᱵᱤᱞᱴ-ᱤᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱱᱚᱸᱰᱮ ᱦᱚᱸ ᱢᱮᱱᱟᱜᱼᱟ, ᱴᱨᱮᱠᱟᱨ ᱠᱚ ᱟᱠᱚᱴ ᱞᱮᱠᱟ ᱾
+about-private-browsing-nova-info-subheader = ᱟᱢ ᱱᱚᱣᱟ ᱡᱷᱚᱨᱠᱟ ᱵᱚᱱᱫᱚ ᱠᱷᱟᱱ ᱟᱞᱮ ᱥᱟᱱᱟᱢ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱥᱟᱭᱤᱱ ᱤᱱ ᱞᱮ ᱢᱤᱴᱟᱣᱟ᱾ { -brand-short-name } ᱨᱮᱭᱟᱜ ᱵᱤᱞᱴ-ᱤᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱱᱚᱸᱰᱮ ᱦᱚᱸ ᱢᱮᱱᱟᱜᱼᱟ, ᱴᱨᱮᱠᱟᱨ ᱠᱚ ᱟᱠᱚᱴ ᱞᱮᱠᱟ ᱾
