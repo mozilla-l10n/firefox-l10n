@@ -19,6 +19,13 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = დამოწმებული
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = გამიჯვნის გასაღები
+about-networking-ssl-tokens = TLS-საშვები
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } საშვი
+       *[other] { $count } საშვი
+    }
 # $count (Number) - Number of cached tokens that have already expired
 about-networking-ssl-tokens-summary-expired =
     { $count ->
