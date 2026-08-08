@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Firefox Screenshots-ის გათიშვ
 policy-DisableFirefoxStudies = შეზღუდვა, რომ { -brand-short-name } ვერ შეძლებს კვლევების გაშვებას.
 policy-DisableForgetButton = ისტორიის დავიწყების ღილაკთან წვდომის შეზღუდვა.
 policy-DisableFormHistory = ძიებისა და ველების ისტორიის დამახსოვრების შეზღუდვა.
+policy-DisableLaunchOnLogin = აღკვეთს შესაძლებლობას, თავისთავად გაეშვას { -brand-short-name } მომხმარებლის შესვლისთანავე.
 policy-DisablePrimaryPasswordCreation = თუ მოქმედია, მთავარი პაროლი ვერ შეიქმნება.
 policy-DisablePasswordReveal = შენახული ანგარიშების პაროლებთან წვდომის აკრძალვა.
 policy-DisablePocket2 = ვებგვერდების { -pocket-brand-name }-ში შენახვის შესაძლებლობის გათიშვა.

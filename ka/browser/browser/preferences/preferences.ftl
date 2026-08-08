@@ -1691,6 +1691,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = მისამართები არაა დამატებული
+personal-info-group =
+    .label = პირადი მონაცემები
+autofill-personal-info-checkbox-message =
+    .label = პირად მონაცემთა შენახვა და თვითშევსება
+autofill-personal-info-manage-button =
+    .label = პირადი მონაცემების მართვა
+passports-list-header =
+    .label = პასპორტები
+passports-delete-passport-button-label =
+    .aria-label = წაშლა
+passports-edit-passport-button-label =
+    .aria-label = ჩასწორება
+passports-delete-passport-prompt-title = წაიშალოს ეს პასპორტი?
+passports-delete-passport-prompt-confirm-button = წაშლა
+passports-delete-passport-prompt-cancel-button = გაუქმება
+autofill-passports-add-button = ახალი პასპორტის დამატება
+autofill-personal-info-manage-title =
+    .heading = პირადი მონაცემების მართვა
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = პასპორტები არ დამატებულა
 pane-passwords-autofill-title2 = პაროლები და თვითშევსება
     .title = პაროლები და თვითშევსება
 preferences-passwords-autofill-header =
@@ -2568,6 +2589,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = საკვანძო საკითხები ბმულის შეთვალიერებისას
     .description = იხილეთ მოკლე შეჯამება ბმულის გახსნამდე.
+preferences-ai-controls-sidebar-chatbot-group-2 =
+    .label = AI-თანამოსაუბრის მომწოდებლები გვერდით ზოლზე
+    .description = იქვე იყოლიეთ თანამოსაუბრე გვერდების მონახულებისას. აირჩიეთ რომელიმე: Anthropic Claude, ChatGPT, Copilot, Google Gemini ან Mistral Vibe.
 preferences-ai-controls-sidebar-chatbot-group =
     .label = AI-თანამოსაუბრის მომწოდებლები გვერდით ზოლზე
     .description = თან იქონიეთ თანამოსაუბრე ხელგონი გვერდების მონახულებისას. აირჩიეთ Anthropic Claude, ChatGPT, Copilot, Google Gemini ან Le Chat Mistral.
@@ -2658,6 +2682,8 @@ preferences-etp-level-custom =
     .description = დაცვის შერჩეული პარამეტრების ჩართვითა და გამორთვით.
 preferences-etp-status-advanced-button =
     .label = გაფართოებული პარამეტრები
+preferences-etp-tracker-count-enabled =
+    .label = შეზღუდული მეთვალყურეების ჩვენება მისამართების ველში
 preferences-etp-status-protections-dashboard-link =
     .label = თქვენზე მორგებული დაცვის მაჩვენებლების ნახვა
     .description = იხილეთ, რამდენი გაიძვერა მეთვალყურისგან გიცავთ { -brand-short-name }, მათ შორის, სოცქსელის მიმყურადებლის, ვინაობის ამომცნობისა თუ კრიპტოგამომმუშავებლისგან.
@@ -2756,3 +2782,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = შუამავლის თვითგამართვა ჩართულია
     .description = ქსელის შუამავლის თვითგამართვამ შეიძლება არასანდო ქსელებს თქვენი მიმოცვლილი მონაცემების აღრიცხვის საშუალება მისცეს.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = გააზიარეთ { -brand-short-name }
+    .description = მოიწვიეთ ვინმე, აირჩიოს ბრაუზერი, რომლისთვისაც უწინარესია პირადულობა.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = გააზიარეთ { -brand-short-name }

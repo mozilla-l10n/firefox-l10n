@@ -57,6 +57,24 @@ fxa-menu-send-tab-to-device-description = გაგზავნეთ ჩან�
 fxa-menu-sign-out =
     .label = გამოსვლა…
 fxa-menu-sync-description = თქვენი ვებსივრცე ყველგან
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = ანგარიშის მართვა
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = დასინქ. შესვლა
+fxa-menu-sign-in-promo-message = ყველგან წაიყოლეთ თქვენი მონაცემები
+fxa-menu-sign-in-promo-button =
+    .label = შესვლა
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = შესვლა
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = გამოსული ხართ
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = გამართვის დასრულება
 fxa-avatar-sign-in = შესვლა
 fxa-avatar-sign-up = შექმნა
 fxa-avatar-tooltip =
