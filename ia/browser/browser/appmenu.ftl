@@ -310,6 +310,9 @@ appmenu-sync-promo-connectdevice =
 appmenu-sync-promo-connectdevice-cta = Connecter un apparato
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = Porta con te tu marcapaginas
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Prende tu marcapaginas e va
 
 ## Help panel
 

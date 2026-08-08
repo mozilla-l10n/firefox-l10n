@@ -472,8 +472,20 @@ topsite-label-pinned =
 
 ## Top Sites - Web notifications hover card
 
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Avisos de { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Justo ora
+newtab-topsites-hover-card-mark-all-read =
+    .title = Marcar toto como legite
+    .aria-label = Marcar toto como legite
+newtab-topsites-hover-card-settings =
+    .title = Configuration del avisos
+    .aria-label = Configuration del avisos
+newtab-topsites-hover-card-dismiss =
+    .title = Ignorar
+    .aria-label = Ignorar
 
 ## Context Menu - Action Tooltips.
 
@@ -690,6 +702,9 @@ newtab-custom-shortcuts-toggle =
     .description = Sitos que tu salva o visita
 newtab-custom-shortcuts-nova =
     .label = Accessos directe
+newtab-custom-web-notifications-toggle =
+    .label = Avisos de web
+    .description = Monstra avisos ab tu sitos sur lor vias breve
 newtab-custom-row-description =
     .description = Numero de rangos
 # Variables
