@@ -1693,6 +1693,8 @@ passports-delete-passport-prompt-title = Izbrišem ta potni list?
 passports-delete-passport-prompt-confirm-button = Izbriši
 passports-delete-passport-prompt-cancel-button = Prekliči
 autofill-passports-add-button = Dodaj nov potni list
+autofill-personal-info-manage-title =
+    .heading = Upravljanje osebnih podatkov
 # This message is displayed when no passports are stored in Firefox
 passports-no-passports-stored-message =
     .label = Ni dodanih potnih listov

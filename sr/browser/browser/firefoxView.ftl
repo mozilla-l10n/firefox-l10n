@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Да добијете језич
 firefoxview-tabpickup-step-signin-primarybutton = Настави
 firefoxview-syncedtabs-signin-header-2 = Ваш { -brand-product-name } на свим вашим уређајима
 firefoxview-syncedtabs-signin-description-2 = Да видите отворене језичке на вашем телефону и другим уређајима, пријавите се или направите налог. Са налогом можете и да усклађујете ваше лозинке, историју и остало.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Са преносивог рачунара на телефон, без труда
+firefoxview-syncedtabs-signin-description-3 = Задржите своје прегледање доступним на свим уређајима - језичци, лозинке и историја, све усклађено.
 firefoxview-syncedtabs-signin-primarybutton-2 = Пријави се
 firefoxview-tabpickup-adddevice-header = Усклади { -brand-product-name } на свом телефону или таблету
 firefoxview-tabpickup-adddevice-description = Преузмите { -brand-product-name } за телефон и пријавите се.
@@ -42,22 +45,37 @@ firefoxview-syncedtabs-adddevice-header-2 =
     са било ког места
 firefoxview-syncedtabs-adddevice-description-2 = Пријавите се у { -brand-product-name } на вашем телефону или другом рачунару да би се приказали језичци овде. Сазнајте како <a data-l10n-name="url">повезати додатне уређаје</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Преузмите { -brand-product-name } за телефон
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Ваши језичци вас зову. Налазе се на вашем телефону.
+firefoxview-syncedtabs-adddevice-description-3 = Скенирајте КР код да бисте преузели { -brand-product-name } за мобилне уређаје и покренули усклађивање отворених језичака и осталог. Сазнајте како да <a data-l10n-name="url">повежете додатне уређаје</a>.
 firefoxview-tabpickup-synctabs-header = Укључите усклађивање језичака
 firefoxview-tabpickup-synctabs-description = Дозволите { -brand-short-name }-у да дели језичке између уређаја.
 firefoxview-tabpickup-synctabs-learn-how = Сазнајте како
 firefoxview-tabpickup-synctabs-primarybutton = Усклађујте отворене језичке
+firefoxview-tabpickup-synctabs-primarybutton-2 = Укључи усклађивање језичака
 firefoxview-syncedtabs-synctabs-header = Ажурирајте подешавања усклађивања
 firefoxview-syncedtabs-synctabs-description = Да видите језичке са других уређаја, ажурирајте ваше отворене језичке.
+firefoxview-syncedtabs-synctabs-header-2 = Усклађивање језичака је искључено
+firefoxview-syncedtabs-synctabs-description-2 = Поново укључите усклађивање да бисте преузели све своје језичке са других уређаја.
 firefoxview-syncedtabs-loading-header = Усклађивање је у току
 firefoxview-syncedtabs-loading-description = Када заврши, видећете све језичке које су отворене на другим уређајима. Проверите опет ускоро.
+firefoxview-syncedtabs-loading-header-2 = Учитавам ваше језичке…
+firefoxview-syncedtabs-loading-description-2 = Усклађивање је у току. Језичци ће ускоро бити овде.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ваша организација је онемогућила усклађивање
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не може да усклађује језичке на свим уређајима јер је ваш администратор онемогућио услугу усклађивања.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } не може да усклађује језичке између уређаја јер је ваша организација онемогућила услугу усклађивања.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Усклађивање језичака је искључено
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ваша организација је блокирала ову функцију.
 firefoxview-tabpickup-network-offline-header = Проверите вашу интернет везу
 firefoxview-tabpickup-network-offline-description = Ако користите заштитни зид или прокси, проверите да ли { -brand-short-name } има дозволу за приступ интернету.
 firefoxview-tabpickup-network-offline-primarybutton = Покушај поново
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } не може да се повеже у овом тренутку
+firefoxview-tabpickup-network-offline-description-2 = Можда сте ван мреже или нешто блокира везу.
 firefoxview-tabpickup-sync-error-header = Имамо проблема са усклађивањем
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } сада није у могућности да се повеже са услугом усклађивања. Покушајте поново касније.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Усклађивање је наишло на проблем
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } није успео да се повеже. Сачекајте тренутак, а затим покушајте поново
 firefoxview-tabpickup-sync-error-primarybutton = Покушај поново
 firefoxview-tabpickup-sync-disconnected-header = Укључите усклађивање да наставите
 firefoxview-tabpickup-sync-disconnected-description = Да преузмете своје језичке, морате да дозволите усклађивање у { -brand-short-name }-у.
@@ -67,10 +85,14 @@ firefoxview-tabpickup-password-locked-description = Да преузмете св
 firefoxview-tabpickup-password-locked-link = Сазнајте више
 firefoxview-tabpickup-password-locked-primarybutton = Унеси главну лозиннку
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Сазнајте више</a>
+firefoxview-tabpickup-password-locked-header-2 = Откључајте језичке помоћу своје главне лозинке
+firefoxview-tabpickup-password-locked-description-2 = Ради ваше приватности, усклађени језичци су заштићени. Унесите своју главну лозинку за { -brand-short-name } да бисте видели језичке са својих осталих уређаја.
 firefoxview-tabpickup-signed-out-header = Пријавите се за поновно повезивање
 firefoxview-tabpickup-signed-out-description = Пријавите се на { -fxaccount-brand-name(case: "acc") } да бисте се поново повезали и приступили својим језичцима.
 firefoxview-tabpickup-signed-out-description2 = Да се поново повежете и преузмете ваше језичке, пријавите се у ваш налог.
 firefoxview-tabpickup-signed-out-primarybutton = Пријави се
+firefoxview-tabpickup-signed-out-header-2 = Пријави се да видиш своје језичке
+firefoxview-tabpickup-signed-out-description-2 = Поново се повежи да видиш језичке са других уређаја.
 firefoxview-tabpickup-syncing = Сачекајте да се ваши језичци ускладе. Брзо ће то.
 firefoxview-mobile-promo-header = Преузмите језичке са телефона или таблета
 firefoxview-mobile-promo-description = Да видите ваше најновије језичке са мобилног уређаја, пријавите се на { -brand-product-name } за iOS или Android.
@@ -213,6 +235,10 @@ firefoxview-show-all-history = Прикажи целу историју
 firefoxview-history-empty-header = Вратите се тамо где сте били
 firefoxview-history-empty-description = Док прегледате, странице које посећујете биће овде поредане.
 firefoxview-history-empty-description-two = Срж нашег посла је заштита ваше приватности. Због тога можете да контролишете које радње ће { -brand-short-name } да памти у <a data-l10n-name="history-settings-url">подешавањима историје</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Ваш траг прегледања почиње овде
+firefoxview-history-empty-description-2 = Док посећујете странице, ваша историја ће се овде појављивати. Управљајте тиме шта се памти у <a data-l10n-name="history-settings-url">подешавањима</a>.
 
 ##
 
@@ -224,6 +250,9 @@ firefoxview-choose-browser-button = Изабери прегледач
 
 firefoxview-dont-remember-history-empty-header-2 = Ви контролишете шта ће { -brand-short-name } да памти
 firefoxview-dont-remember-history-empty-description-one = Тренутно, { -brand-short-name } не памти ваше радње прегледања. Да промените то, <a data-l10n-name="history-settings-url-two">ажурирајте подешавања историје</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Ваше активности се не бележе
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } тренутно не снима вашу историју. То можете променити у било ком тренутку у <a data-l10n-name="history-settings-url-two">подешавањима</a>.
 
 ##
 

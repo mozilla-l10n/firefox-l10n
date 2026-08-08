@@ -1434,6 +1434,7 @@ newtab-sports-widget-team-tbd = Še ni določeno
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-cta = Izberi ozadje
 newtab-sports-widget-message-add-widgets-cta =
     .label = Dodaj pripomočke
 newtab-sports-widget-message-explore-widgets-cta =

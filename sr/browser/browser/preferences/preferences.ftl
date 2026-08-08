@@ -1760,6 +1760,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Нема додатих адреса
+personal-info-group =
+    .label = Лични подаци
+autofill-personal-info-checkbox-message =
+    .label = Сачувај и самостално попуни личне податке
+autofill-personal-info-manage-button =
+    .label = Управљај личним подацима
+passports-list-header =
+    .label = Пасоши
+passports-delete-passport-button-label =
+    .aria-label = Обриши
+passports-edit-passport-button-label =
+    .aria-label = Уреди
+passports-delete-passport-prompt-title = Обрисати овај пасош?
+passports-delete-passport-prompt-confirm-button = Обриши
+passports-delete-passport-prompt-cancel-button = Откажи
+autofill-passports-add-button = Додај нови пасош
+autofill-personal-info-manage-title =
+    .heading = Управљање личним подацима
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Нема додатих пасоша
 pane-passwords-autofill-title2 = Лозинке и самодопуњавање
     .title = Лозинке и самодопуњавање
 preferences-passwords-autofill-header =
@@ -2673,6 +2694,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = Кључне тачке у прегледима веза
     .description = Погледајте кратак сажетак пре отварања везе.
+preferences-ai-controls-sidebar-chatbot-group-2 =
+    .label = Пружаоци ВИ четботова у бочној траци
+    .description = Задржите четбота у близини док прегледате веб странице. Изаберите између Anthropic Claude-а, ChatGPT-а, Copilot-а, Google Gemini-ја и Mistral Vibe-а.
 preferences-ai-controls-sidebar-chatbot-group =
     .label = Достављачи ВИ чет-бота у бочној траци
     .description = Држите чет-бота у приказу док прегледате веб. Изаберите између Anthropic Claude, ChatGPT, Copilot, Google Gemini и Le Chat Mistral.
@@ -2764,6 +2788,8 @@ preferences-etp-level-custom =
     .description = Изаберите које заштите желите да укључите или искључите.
 preferences-etp-status-advanced-button =
     .label = Напредна подешавања
+preferences-etp-tracker-count-enabled =
+    .label = Блокирани пратећи елементи у адресној траци
 preferences-etp-status-protections-dashboard-link =
     .label = Погледајте своју персонализовану контролну таблу заштите
     .description = Погледајте колико је пратилаца { -brand-short-name } блокирао за вас, укључујући пратиоце друштвених мрежа, сакупљаче дигиталних отисака и крипторударе.
@@ -2847,6 +2873,12 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-safe-browsing =
     .label = Опасан и обмањујући садржај није блокиран
     .description = Ваша изложеност преварама и злонамерним програмима са веб-сајтова је повећана.
+security-privacy-issue-warning-doh2 =
+    .label = DNS over HTTPS је онемогућено
+    .description = DNS over HTTPS помаже у скривању страница које ћете посетити од вашег пружаоца интернета.
+security-privacy-issue-warning-ech2 =
+    .label = Encrypted Client Hello је онемогућено
+    .description = Encrypted Client Hello помаже у скривању страница које ћете посетити од вашег пружаоца интернета.
 security-privacy-issue-warning-doh =
     .label = DNS преко HTTPS-а је онемогућен
     .description = DNS преко HTTPS-а скрива које сајтове посећујете од вашег мрежног провајдера.
@@ -2856,3 +2888,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Аутоматско подешавање посредника је омогућено
     .description = Аутоматско подешавање посредника може дозволити неповерљивим мрежама да надгледају вашу активност.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Подели { -brand-short-name }
+    .description = Позовите некога да изабере прегледач који ставља приватност на прво место.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Подели { -brand-short-name }
