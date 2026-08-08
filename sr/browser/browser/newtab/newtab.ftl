@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Приватност
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Укрштеница
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Деонице
@@ -322,6 +325,8 @@ newtab-privacy-message-first-protection-cta = Прикажи заштите
 newtab-stocks-menu-search = Претражи симболе тикера
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Сазнајте више
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Подаци о деоницама нису доступни.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -473,6 +478,23 @@ topsite-label-pinned =
     .aria-label = { $title } (закачено)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Обавештења са { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Управо сада
+newtab-topsites-hover-card-mark-all-read =
+    .title = Означи све као прочитано
+    .aria-label = Означи све као прочитано
+newtab-topsites-hover-card-settings =
+    .title = Поставке обавештења
+    .aria-label = Поставке обавештења
+newtab-topsites-hover-card-dismiss =
+    .title = Одбаци
+    .aria-label = Одбаци
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -497,6 +519,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Уреди
+newtab-menu-add-topsite = Додај нову пречицу
 newtab-menu-open-new-window = Отвори у новом прозору
 newtab-menu-open-new-private-window = Отвори у новом приватном прозору
 newtab-menu-dismiss = Одбаци
@@ -687,6 +710,9 @@ newtab-custom-shortcuts-toggle =
     .description = Сачуване или посећене странице
 newtab-custom-shortcuts-nova =
     .label = Пречице
+newtab-custom-web-notifications-toggle =
+    .label = Веб обавештења
+    .description = Приказујте обавештења са ваших страница на њиховим пречицама
 newtab-custom-row-description =
     .description = Број редова
 # Variables
@@ -756,6 +782,29 @@ newtab-custom-close-menu-button =
     .aria-label = Затвори мени
 newtab-custom-close-button = Затвори
 newtab-custom-settings = Додатна подешавања
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Изглед
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Погледај више тема
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Теме за { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Ваше теме
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Омогући
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Онемогући
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Инсталирај тему
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Истражите више тема
 
 ## New Tab Wallpapers
 
@@ -1147,6 +1196,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Откажи
     .title = Откажи
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Могућности за спискове
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Направи нови списак
@@ -1629,6 +1681,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Резултати претраге
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Додај „{ $city }“ као прилагођени часовник
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Име града
+    .placeholder = Назови овај часовник
+    .aria-label = Име града
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Временска зона
+    .placeholder = Претражи по граду, временској зони или УТЦ померају
+    .aria-label = Временска зона
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Резултати временских зона
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Нема одговарајућих временских зона
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Назад
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
