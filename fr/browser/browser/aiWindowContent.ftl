@@ -168,9 +168,9 @@ smart-window-opened-tabs-summary-group =
         [1] Création du groupe « { $label } » et ouverture d‘un onglet.
        *[other] Création du groupe « { $label } » et ouverture de { $count } onglets.
     }
-smart-window-opened-tabs-row-label = Onglets ouverts
+smart-window-opened-tabs-row-label = Ouvertures d’onglets
 # Action result labels for switching to a single already-open tab
-smart-window-switched-tab-label = Onglets changés
+smart-window-switched-tab-label = Changements d’onglets
 # Variables
 #   $title (String) - Title of the tab switched to
 smart-window-switched-tab-summary = Passé à « { $title } ».
