@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = ყოველთვის გან
 neterror-pref-reset = შესაძლოა, ამას თქვენი ქსელის უსაფრთხოების პარამეტრები იწვევდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?
 neterror-error-reporting-automatic = აცნობეთ { -vendor-short-name }-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = თქვენი კავშირის პირადულობა შესაძლოა დაუცველი იყოს
+    .message = გარეშე პროგრამამ ან მომსახურებამ შეიძლება იხილოს თქვენი მიმოცვლილი დაშიფრული მონაცემები ამ საიტთან.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ვერ ახერხებს ამ გვერდის ჩატვირთვას გაურკვეველი მიზეზით.

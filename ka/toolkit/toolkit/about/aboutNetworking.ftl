@@ -19,6 +19,39 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = დამოწმებული
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = გამიჯვნის გასაღები
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } ვადაგასულია)
+       *[other] ({ $count } ვადაგასულია)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } ბაიტი ({ $saved }% შენახულია)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } კბაიტი ({ $percent }%)
+about-networking-ssl-tokens-partition-key = დანაყოფის გასაღები
+about-networking-ssl-tokens-expires = ვადა
+about-networking-ssl-tokens-certificate = სერტ.
+about-networking-ssl-tokens-restored =
+    .alt = აღდგენილია საცავიდან
+    .title = აღდგენილია საცავიდან
+about-networking-ssl-tokens-new =
+    .alt = ახალი ამ სეანსზე
+    .title = ახალი ამ სეანსზე
+about-networking-ssl-tokens-expired =
+    .alt = ვადაგასულია
+    .title = ვადაგასულია
+about-networking-ssl-tokens-ev-status = EV-სერტ.
+about-networking-ssl-tokens-ct-status = სერტ. გამჭვირვალობის მდგომარეობა
+about-networking-ssl-tokens-built-in-root = ჩაშენებული ძირეული
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = სერტ. ჯაჭვი ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = დამოწმების სერტ. ({ $count })
 about-networking-refresh = გაახლება
 about-networking-auto-refresh = თვითგაახლება ყოველ 3 წამში
 about-networking-hostname = ჰოსტის სახელი

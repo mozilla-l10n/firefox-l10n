@@ -128,6 +128,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Kelola pengaturan pop-up dan pengalihan pihak ketiga…
     .accesskey = n
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Lihat informasi situs
+            [1] Lihat informasi situs (1 pelacak diblokir)
+           *[other] Lihat informasi situs ({ $count } pelacak diblokir)
+        }
 
 ##
 
@@ -142,6 +151,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Mengubah apakah Anda dapat menerima pemberitahuan dari situs ini
 urlbar-midi-notification-anchor =
     .tooltiptext = Buka panel MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Buka panel Serial
 urlbar-eme-notification-anchor =
     .tooltiptext = Kelola penggunaan perangkat lunak DRM
 urlbar-web-authn-anchor =
@@ -213,6 +224,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Kelola { -firefox-suggest-brand-nam
 urlbar-result-menu-report-inaccurate-location2 = Laporkan lokasi yang tidak akurat
 urlbar-result-menu-show-less-frequently2 = Tampilkan lebih jarang
 urlbar-result-menu-dont-show-weather-suggestions2 = Jangan tampilkan saran cuaca
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Tolak saran ini
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Hapus dari riwayat
+    .accesskey = p
 urlbar-result-menu-learn-more =
     .label = Pelajari lebih lanjut
     .accesskey = P
@@ -302,6 +323,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Anda telah memblokir ekstraksi data canvas untuk situs web ini.
 urlbar-midi-blocked =
     .tooltiptext = Anda telah memblokir akses MIDI untuk situs web ini.
+urlbar-serial-blocked =
+    .tooltiptext = Anda telah memblokir akses port serial untuk situs web ini.
 urlbar-install-blocked =
     .tooltiptext = Anda telah memblokir pemasangan pengaya untuk situs Web ini.
 # Variables
@@ -401,6 +424,9 @@ quickactions-addons = Tampilkan Pengaya
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = ekstensi, tema, pengaya
+# Opens preferences page at AI controls
+quickactions-manageai = Kelola kontrol AI
+quickactions-cmd-manageai = nonaktifkan ai, nonaktifkan ai, kelola ai
 quickactions-cmd-addons2 = pengaya
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Kelola markah
@@ -430,10 +456,22 @@ quickactions-cmd-help = bantuan, dukungan
 # Opens the devtools web inspector
 quickactions-inspector2 = Buka Perangkat Pengembang
 quickactions-cmd-inspector2 = inspector, inspektur, devtools, dev tools, perkakas pengembang
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Pilih warna
+quickactions-cmd-colorpicker = pemilih warna, pipet, pilih warna
+# Opens Firefox Library
+quickactions-cmd-library = pustaka
+quickactions-library = Buka Pustaka
 quickactions-cmd-inspector = inspektur, perangkat pengembang
 # Opens about:logins
 quickactions-logins2 = Kelola sandi
 quickactions-cmd-logins = info masuk, kata sandi
+# Mutes all tabs playing audio
+quickactions-mute = Bisukan tab yang memutar audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = bisukan, diam, ssssst
 # Opens about:addons page in the plugins section
 quickactions-plugins = Kelola plugin
 quickactions-cmd-plugins = plugin
@@ -443,6 +481,9 @@ quickactions-cmd-print = cetak
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Simpan laman sebagai PDF
 quickactions-cmd-savepdf2 = pdf, simpan halaman
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Buka editor PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Buka jendela pribadi
 quickactions-cmd-private = penjelajahan pribadi
@@ -477,6 +518,9 @@ quickactions-cmd-update = versi baru
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Lihat Kode Sumber Laman
 quickactions-cmd-viewsource2 = lihat sumber, sumber, sumber laman
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Buka { -firefoxlabs-brand-name }
+quickactions-cmd-labs = lab, eksperimen
 quickactions-cmd-viewsource = lihat kode sumber, sumber
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -553,8 +597,14 @@ identity-clear-site-data =
     .label = Hapus Kuki dan Data Situs…
 identity-connection-not-secure-security-view = Anda tidak terhubung dengan aman ke situs ini.
 identity-connection-verified = Anda terhubung dengan aman ke situs ini.
+identity-ev-owner-label2 = Sertifikat diterbitkan untuk
+identity-verifier-label2 = Diverifikasi oleh
 identity-ev-owner-label = Sertifikat diterbitkan untuk:
+identity-verifier-label = Diverifikasi oleh:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Memenuhi syarat sebagaimana ditentukan dalam Regulasi (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla tidak mengenali penerbit sertifikat ini. Itu mungkin telah ditambahkan dari sistem operasi Anda atau oleh administrator.
+identity-cert-exception-overridden = Anda telah membuat pengecualian keamanan untuk situs ini
 identity-remove-cert-exception =
     .label = Buang Pengecualian
     .accesskey = B
@@ -568,6 +618,7 @@ identity-description-passive-loaded-insecure2 = Situs web ini mengandung konten 
 identity-description-passive-loaded-mixed2 = Meskipun { -brand-short-name } telah memblokir sejumlah konten, tetapi masih ada konten di laman ini yang tidak aman (misalnya gambar).
 identity-description-active-loaded = Situs web ini mengandung konten yang tidak aman (misalnya skrip) dan sambungan Anda tidak pribadi.
 identity-description-active-loaded-insecure = Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)
+identity-description-tls-key-logging-heading = Sambungan Anda mungkin tidak pribadi
 identity-disable-mixed-content-blocking =
     .label = Nonaktifkan perlindungan untuk saat ini
     .accesskey = N
@@ -587,6 +638,9 @@ browser-window-restore-down-button =
     .tooltiptext = Kembali ke Bawah
 browser-window-close-button =
     .tooltiptext = Tutup
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Kembali
 
 ## Tab actions
 
