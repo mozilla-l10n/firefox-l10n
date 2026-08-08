@@ -1335,6 +1335,8 @@ newtab-sports-widget-match-penalties = 点球决胜
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
 newtab-sports-widget-match-vs = vs
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = 敬请期待下一场比赛的详情
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1422,6 +1424,7 @@ newtab-sports-widget-message-wallpapers-title = 换上新壁纸，迎接世界�
 newtab-sports-widget-message-wallpapers-body = 赛事期间，将赛场活力注入浏览器
 newtab-sports-widget-message-wallpapers-cta = 选择壁纸
 newtab-sports-widget-message-wallpapers-semifinals-title = 换上新壁纸，迎接半决赛
+newtab-sports-widget-message-wallpapers-semifinals-body = 迎接最盛大的世界杯比赛。
 newtab-sports-widget-message-add-widgets-cta =
     .label = 添加小组件
 newtab-sports-widget-message-day-in-play-title = 使用 { -brand-product-name } 小组件，全天候关注精彩赛事
