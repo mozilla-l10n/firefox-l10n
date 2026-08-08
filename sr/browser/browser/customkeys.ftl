@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Притисните нови тастер:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (не може се променити)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Уклонити другу пречицу?
 customkeys-conflict-confirm-body = Овај тастер већ користи за „{ $conflict }“.
 customkeys-conflict-confirm-button-confirm = Ипак користи
 customkeys-conflict-confirm-button-cancel = Откажи
+customkeys-conflict-unusable-title = Кључ се не може користити
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Овај кључ се већ користи за „{ $conflict }“ и не може се користити.
 customkeys-reset-all-confirm-title = Врати на подразумевано?
 customkeys-reset-all-confirm-body = Све прилагођене пречице тастатуре које сте направили биће уклоњене.
 customkeys-reset-all-confirm-button-confirm = Врати на подразумевано

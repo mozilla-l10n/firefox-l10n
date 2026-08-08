@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Откријте додатке
 unified-extensions-empty-reason-private-browsing-not-allowed = Имате инсталиране додатке, али она нису омогућена у приватним прозорима
 unified-extensions-empty-reason-extension-not-enabled = Имате инсталиране додатке, али они нису омогућени
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Неколико додатака може много помоћи
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Унапредите своје прегледање додацима
 unified-extensions-empty-content-explain-enable2 = Изаберите „{ unified-extensions-manage-extensions.label }“ да бисте их омогућили у подешавањима.
 unified-extensions-empty-content-explain-manage2 = Изаберите „{ unified-extensions-manage-extensions.label }“ да бисте управљали њима у подешавањима.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Имамо препоруке које ће вам помоћи да побољшате фокус, приватност и још много тога.
 unified-extensions-empty-content-explain-extensions-onboarding = Прилагодите { -brand-short-name } мењањем његовог изгледа и рада или побољшавањем приватности и безбедности.
 
 ## An extension in the main list

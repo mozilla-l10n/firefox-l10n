@@ -186,6 +186,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Завршено
 migration-safari-password-import-header = Увези Safari лозинке
+migration-safari-password-import-post-sequoia-step1 = Отворите <a data-l10n-name="macos-passwords-app">програм Passwords</a> на вашем Mac рачунару
+migration-safari-password-import-post-sequoia-step2 = Из траке менија на врху екрана изаберите Датотека > Извези све лозинке у датотеку…
+migration-safari-password-import-post-sequoia-step3 = Сачувај датотеку
+migration-safari-password-import-post-sequoia-step4 = Изаберите датотеку коју сте сачували
 migration-safari-password-import-steps-header = Да увезете Safari лозинке:
 migration-safari-password-import-step1 = У Safari-ју, отворите „Safari” мени и идите на Подешавања > Лозинке
 migration-safari-password-import-step2 = Изаберите <img data-l10n-name="safari-icon-3dots"/> тастер, а онда „Извези све лозинке” опцију
@@ -198,6 +202,7 @@ migration-chrome-windows-password-import-step2 = Изаберите „Поде�
 migration-chrome-windows-password-import-step3 = Изаберите „Преузми датотеку” и сачувајте је на свој уређај.
 migration-chrome-windows-password-import-step4 = Вратите се овде и „Изаберите датотеку” да бисте завршили увоз.
 migration-manual-password-import-skip-button = Прескочи
+migration-manual-password-import-cancel-button = Откажи
 migration-manual-password-import-select-button = Изабери датотеку
 migration-safari-password-import-skip-button = Прескочи
 migration-safari-password-import-select-button = Изабери датотеку

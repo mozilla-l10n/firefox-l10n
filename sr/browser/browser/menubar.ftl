@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Подешавања…
 menu-application-set-as-default =
     .label = Постави { -brand-shorter-name } као подразумевани прегледач
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Дели { -brand-shorter-name }
 menu-application-services =
     .label = Услуге
 menu-application-hide-this =
@@ -226,6 +230,8 @@ menu-history-show-all-history =
     .label = Прикажи сву историју
 menu-history-clear-recent-history =
     .label = Обриши историју…
+menu-history-remote-tabs-promo =
+    .label = Језичци са осталих уређаја
 menu-history-synced-tabs =
     .label = Усклађени језичци
 menu-history-restore-last-session =
@@ -247,6 +253,8 @@ menu-bookmarks-menu =
     .accesskey = б
 menu-bookmarks-manage =
     .label = Управљај обележивачима
+menu-bookmarks-remote-tabs-promo =
+    .label = Усклади обележиваче са мобилним
 menu-bookmark-tab =
     .label = Обележи тренутни језичак…
 menu-edit-bookmark =
@@ -384,3 +392,7 @@ menu-help-not-deceptive =
     .accesskey = б
 menu-report-broken-site =
     .label = Пријави неисправан сајт
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Дели { -brand-shorter-name }

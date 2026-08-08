@@ -494,6 +494,7 @@ fxa-menu-create-profile-learn-more =
     .label = Co jsou profily?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Sdílet { -brand-short-name(case: "acc") }
+appmenuitem-share-firefox-description = Pozvěte někoho, aby si vybral prohlížeč, který klade soukromí na první místo
 appmenu-profiles-2 =
     .label = Profily
 appmenu-profiles-header = Profily
@@ -515,3 +516,6 @@ fxa-menu-device-view-all-synced-tabs =
             [many] Zobrazit všech { $tabCount } synchronizovaných panelů
            *[other] Zobrazit všech { $tabCount } synchronizovaných panelů
         }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Odeslat aktuální stránku do tohoto zařízení

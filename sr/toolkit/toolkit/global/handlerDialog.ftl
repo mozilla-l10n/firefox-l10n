@@ -81,3 +81,23 @@ choose-app-btn =
 choose-other-app-window-title = Други програм…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Онемогућено у приватним прозорима
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .style = min-width: 42em; min-height: 42em;
+    .title = Изаберите свој програм за е-пошту
+mailto-handler-picker-subtitle = Изаберите програм који желите да користите за адресе е-поште. Ово можете касније променити у Подешавањима.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Увек ме питај када кликнем на адресу е-поште
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Постави као подразумевано
+    .accesskey = П
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Не сада
+    .accesskey = Н

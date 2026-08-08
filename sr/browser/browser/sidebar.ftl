@@ -72,6 +72,8 @@ sidebar-settings =
     .label = Подешавања бочне траке
 sidebar-hide-tabs-and-sidebar =
     .label = Сакриј језичке и бочну траку
+sidebar-open-tools-from-sidebar =
+    .label = Отвори алате бочне траке
 sidebar-show-on-the-right =
     .label = Помери бочну траку удесно
 sidebar-show-on-the-left =
@@ -139,6 +141,26 @@ sidebar-bookmarks-context-menu-delete-bookmark =
     .label = Обриши обележивач
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Обриши
+
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Затвори језичак
+
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Поређај по
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Редослед језичака
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Недавно покренуто
 
 ## Labels for sidebar menu items.
 

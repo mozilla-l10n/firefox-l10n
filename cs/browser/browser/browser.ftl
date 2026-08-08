@@ -156,6 +156,18 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Spravovat nastavení vyskakovacích oken a přesměrování třetích stran…
     .accesskey = S
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Zobrazit informaci o stránce
+            [1] Zobrazit informaci o stránce (1 zablokovaný sledovací prvek)
+            [one] Zobrazit informaci o stránce (1 zablokovaný sledovací prvek)
+            [few] Zobrazit informaci o stránce ({ $count } zablokované sledovací prvky)
+            [many] Zobrazit informaci o stránce ({ $count } zablokovaných sledovacích prvků)
+           *[other] Zobrazit informaci o stránce ({ $count } zablokovaných sledovacích prvků)
+        }
 
 ##
 
@@ -693,6 +705,8 @@ identity-description-passive-loaded-mixed2 =
     }
 identity-description-active-loaded = Tato webová stránka obsahuje obsah, který není zabezpečen (například skripty), a spojení s tímto serverem tak není soukromé.
 identity-description-active-loaded-insecure = Informace, které sdílíte s tímto serverem (jako hesla, zprávy, číslo platební karty, atd.), mohou být viděny ostatními.
+identity-description-tls-key-logging-heading = Vaše připojení nemusí být soukromé
+identity-description-tls-key-logging-message = Aplikace nebo služba může vidět vaši šifrovanou komunikaci z této stránky.
 identity-disable-mixed-content-blocking =
     .label = Vypnout ochranu
     .accesskey = V
@@ -1710,6 +1724,9 @@ private-browsing-indicator-button =
     .tooltiptext = Informace o anonymním prohlížení
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Jste v anonymním okně
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Toto pomáhá skrýt vaše prohlížení před ostatními na tomto zařízení, ale neudělá vás neviditelnými online. <a data-l10n-name="learn-more">Kdo by mohl vidět moji aktivitu</a>?
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -2005,6 +2022,16 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Nezabezpečeno
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } zablokovaný sledovací prvek
+        [few] { $count } zablokované sledovací prvky
+        [many] { $count } zablokovaných sledovacích prvků
+       *[other] { $count } zablokovaných sledovacích prvků
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

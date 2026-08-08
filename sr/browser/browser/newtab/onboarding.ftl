@@ -640,3 +640,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Помоћник ће о�
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Користите „Питај“ да га отворите на било којој страници. Ово можете променити у било ком тренутку у <a data-l10n-name="settings">Подешавањима</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Важи
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Ако промените мишљење, можете ажурирати подразумевано подешавање у <a data-l10n-name="settings">Подешавањима</a> у било ком тренутку.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Изаберите тему
+onboarding-theme-picker-subtitle = Унесите мало више боје у { -brand-short-name }.
+onboarding-theme-picker-button-label = Сачувај и настави
