@@ -123,6 +123,15 @@ smart-window-confirm-group-tabs =
         [few] Групишите { $count } језичка
        *[other] Групишите { $count } језичака
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Отвори
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Отвори { $count } језичак
+        [few] Отвори { $count } језичка
+       *[other] Отвори { $count } језичака
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -132,6 +141,9 @@ smart-window-grouped-tabs-label =
         [few] Груписана { $count } језичка
        *[other] Груписано { $count } језичака
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Група језичака
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -142,6 +154,38 @@ smart-window-grouped-tabs-summary =
        *[other] Направљена је група „{ $label }” и додато је { $count } језичака.
     }
 smart-window-grouped-tabs-row-label = Груписани језичци
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Отворен је { $count } језичак
+        [few] Отворена су { $count } језичка
+       *[other] Отворено је { $count } језичака
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Отворен је { $count } језичак.
+        [few] Отворена су { $count } језичка.
+       *[other] Отворено је { $count } језичака.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Направљена је група „{ $label }” и отворен је { $count } језичак.
+        [few] Направљена је група „{ $label }” и отворена су { $count } језичка.
+       *[other] Направљена је група „{ $label }” и отворено је { $count } језичака.
+    }
+smart-window-opened-tabs-row-label = Отворени језичци
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Пребачени језичци
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Пребачено у „{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Разгруписани језичци
 # Variables
@@ -170,6 +214,14 @@ action-log-reading-page = Читам страницу
 action-log-read-page = Прочитан садржај странице
 action-log-searching-web = Претражујем веб
 action-log-searched-web = Претражен веб
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Претражујем веб помоћу <a data-l10n-name="exa-link">Exa</a>-е
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Претражен је веб помоћу <a data-l10n-name="exa-link">Exa</a>-е
 action-log-checking-memories = Проверавам сећања
 action-log-checked-memories = Проверена сећања
 action-log-searching-settings = Претражујем подешавања
@@ -193,3 +245,10 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = Учитани су резултати претраге у овом језичку. Проучавам…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } више

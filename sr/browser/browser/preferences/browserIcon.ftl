@@ -6,6 +6,12 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+# Entry in the Appearance pane (Windows only) that opens the browser-icon
+# subpage. The browser icon is the icon shown on the desktop, taskbar, and
+# Start Menu.
+appearance-browser-icon-entry-group =
+    .label = Иконица прегледача
+    .description = Изаберите прилагођену иконицу за траку задатака, радну површину и Старт мени.
 appearance-browser-icon-button =
     .label = Промени икону прегледача
 
@@ -15,3 +21,49 @@ appearance-browser-icon-button =
 
 appearance-browser-icon-subpage-title =
     .heading = Више икона
+
+## Icons are organized into two groups: "Standard" and "Special". The icons in
+## the "Special" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-basic-group =
+    .label = Обичне
+appearance-browser-icon-bonus-group =
+    .label = Посебне
+
+##
+
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Завршите и откључајте додатне иконице лисице да бисте персонализовали { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Откључали сте све додатне иконице!
+appearance-browser-icon-set-default-button =
+    .label = Постави на подразумевано
+appearance-browser-icon-pin-button =
+    .label = Закачи на траку задатака
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = Подразумевано
+appearance-browser-icon-retro2004 =
+    .label = Ретро 2004
+appearance-browser-icon-retro2017 =
+    .label = Ретро 2017
+appearance-browser-icon-pride =
+    .label = Понос
+appearance-browser-icon-minimal =
+    .label = Минималистички
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Kit
+appearance-browser-icon-pixelated =
+    .label = Пикселизовано
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Momo
+    .description = Аутор: @heyheymomodraws

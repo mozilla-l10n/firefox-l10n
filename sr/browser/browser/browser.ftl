@@ -215,6 +215,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Управљајте { -firefox-sug
 urlbar-result-menu-report-inaccurate-location2 = Пријавите нетачну локацију
 urlbar-result-menu-show-less-frequently2 = Приказуј ређе
 urlbar-result-menu-dont-show-weather-suggestions2 = Не приказуј предлоге за време
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Одбаци овај предлог
+    .accesskey = и
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Уклони из историје
+    .accesskey = з
 urlbar-result-menu-learn-more =
     .label = Сазнајте више
     .accesskey = С
@@ -596,6 +606,8 @@ identity-clear-site-data =
     .label = Обриши колачиће и податке сајта…
 identity-connection-not-secure-security-view = Веза са овим сајтом није безбедна.
 identity-connection-verified = Веза са овим сајтом је безбедна.
+identity-ev-owner-label2 = Уверење издато за
+identity-verifier-label2 = Оверио
 identity-ev-owner-label = Сертификат издан за:
 identity-verifier-label = Проверио:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -615,6 +627,8 @@ identity-description-passive-loaded-insecure2 = Сајт садржи садрж
 identity-description-passive-loaded-mixed2 = Иако је { -brand-short-name } блокирао неки садржај, још увек има садржаја на странци који није безбедан (као што су слике).
 identity-description-active-loaded = Овај сајт има садржај који није безбедан (попут скрипти) и веза са њим није приватна.
 identity-description-active-loaded-insecure = Информације које делите могу бити виђене од стране осталих (као што су лозинке, поруке, кредитне картице, итд.).
+identity-description-tls-key-logging-heading = Ваша веза можда није приватна
+identity-description-tls-key-logging-message = Неки програм или услуга можда могу видети ваш шифрован саобраћај са ове странице.
 identity-disable-mixed-content-blocking =
     .label = Онемогући заштиту
     .accesskey = н
@@ -970,6 +984,13 @@ urlbar-result-explanation-bookmarked = Забележено { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Последња посета { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Последњи пут посећено { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1133,6 +1154,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Претрага кључним речима је онемогућена
 urlbar-searchmode-dropmarker2 =
     .title = Изаберите претраживач
+urlbar-searchmode-bookmarks3 = Обележивачи
+    .accesskey = б
+urlbar-searchmode-tabs3 = Језичци
+    .accesskey = Ј
+urlbar-searchmode-history3 = Историја
+    .accesskey = И
+urlbar-searchmode-actions3 = Радње
+    .accesskey = Р
 urlbar-searchmode-bookmarks2 = Обележивачи
 urlbar-searchmode-tabs2 = Језичци
 urlbar-searchmode-history2 = Историја
@@ -1152,6 +1181,10 @@ urlbar-searchmode-popup-one-off-header = Овај пут претражи кор
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Претражи помоћу:
+urlbar-searchmode-popup-search-settings = Подешавања претраге
+    .accesskey = г
+urlbar-searchmode-popup-settings = Подешавања
+    .accesskey = П
 urlbar-searchmode-popup-search-settings-panelitem = Подешавање претраге
 urlbar-searchmode-popup-settings-panelitem = Подешавања
 
@@ -1570,6 +1603,14 @@ private-browsing-indicator-label = Приватно прегледање
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Приватно прегледање
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Подаци о приватном прегледању
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = У приватном прозору сте
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Ово помаже да ваше прегледање остане сакривено од осталих на овом уређају, али вас не чини невидљивим на мрежи. <a data-l10n-name="learn-more">Ко би могао да види моју активност?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1803,6 +1844,15 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Није безбедно
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } блокиран пратилац
+        [few] { $count } блокирана пратиоца
+       *[other] { $count } блокираних пратилаца
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

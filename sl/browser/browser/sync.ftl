@@ -65,6 +65,22 @@ fxa-menu-send-tab-to-device-description = Takoj pošljite zavihek na katerokoli 
 fxa-menu-sign-out =
     .label = Odjava …
 fxa-menu-sync-description = Imejte dostop do svojega spleta, kjerkoli ste
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Upravljanje računa
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Prijava v sinhronizacijo
+fxa-menu-sign-in-promo-message = Imejte svoje podatke kjerkoli
+fxa-menu-sign-in-promo-button =
+    .label = Prijava
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Prijava
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Dokončaj nastavitev
 fxa-avatar-sign-in = Prijava
 fxa-avatar-sign-up = Registracija
 fxa-avatar-tooltip =

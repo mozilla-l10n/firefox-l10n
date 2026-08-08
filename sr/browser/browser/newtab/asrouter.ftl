@@ -305,6 +305,20 @@ launch-on-login-infobar-final-message = <strong>Отворити { -brand-short-
 launch-on-login-infobar-final-reject-button = Не, хвала
     .accesskey = Н
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } се сада покреће када се пријавите у Windows. Ово можете увек променити касније у подешавањима.
+launch-on-login-autostart-infobar-keep-button = Задржи
+    .accesskey = З
+launch-on-login-autostart-infobar-turn-off-button = Искључи
+    .accesskey = И
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -503,3 +517,21 @@ nova-early-access-share-feedback-link = Пошаљите утиске
     .accesskey = П
 nova-early-access-infobar-primary-button = Важи
     .accesskey = В
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Покренути { -brand-short-name } сваки пут када се пријавите у Windows?
+launch-options-spotlight-title-session-restore = Поново отворити сесију када се { -brand-short-name } поново покрене?
+launch-options-spotlight-checkbox-launch-on-login = Покренути { -brand-short-name } при покретању
+launch-options-spotlight-checkbox-pin-to-taskbar = Прикачи на траку задатака
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Поново отвори текуће прозоре и језичке
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Поново отвори претходне прозоре и језичке
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Сачувај и затвори { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Сачувај и настави

@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Отвори нови приватни прозор
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Обични прозор
+toolbar-switcher-customizable-label =
+    .label = пребацивач { -smart-window-brand-name }
+    .tooltiptext = Пребаците се између паметних и класичних прозора.
 
 ## Input CTA
 
@@ -95,17 +98,30 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Добро дошли у { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Шта је вама важно?
+aiwindow-firstrun-model-title-v2 = Изаберите модел за почетак
 aiwindow-firstrun-model-subtitle = Изаберите модел који ће погонити { -smart-window-brand-name }. Промените га у било ком тренутку.
+aiwindow-firstrun-model-subtitle-v2 = Сваки модел вам може помоћи да сажмете, упоредите и истражите садржај ваших језичака. Пребаците се у било ком тренутку.
 aiwindow-firstrun-model-fast-label = Брзо
 aiwindow-firstrun-model-fast-body = Брзо одговара
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Брз: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Најбоље за брзе одговоре када брзо радите
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Модел { $model } од { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Прилагодљив
 aiwindow-firstrun-model-allpurpose-body = Добро одговара већини потреба
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Прилагодљив: { $shortName }
+aiwindow-firstrun-model-flexible-body = Спреман за разнолике задатке
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Препоручено
 aiwindow-firstrun-model-personal-label = Лично
 aiwindow-firstrun-model-personal-body = Најприлагођенији одговори
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Лични: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Осмишљен за персонализовану помоћ на различитим језицима
 aiwindow-firstrun-button = Идемо
 aiwindow-firstrun-back-button = Назад
 aiwindow-firstrun-next-button = Следеће
@@ -116,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = Брзо
 aiwindow-input-model-select-button-label-allpurpose = Прилагодљив
 aiwindow-input-model-select-button-label-personal = Лично
 aiwindow-input-model-select-button-label-custom = Прилагођено
+aiwindow-input-model-select-button-description-custom = Употребите сопствени ВЈМ
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -154,6 +171,12 @@ aiwindow-firstrun-default-checkbox-description = Промените ово у п
 smartwindow-ask-button =
     .label = Питајте
 
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = Групиши моје језичке
+    .tooltiptext = Групишите своје језичке
+
 ## Memories toggle button
 
 aiwindow-memories-on =
@@ -174,6 +197,35 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .tooltiptext = Затвори
     .aria-label = Затвори
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .tooltiptext = Више могућности
+    .aria-label = Више могућности
+aiwindow-history-menu-chat-history = Историја ћаскања
+aiwindow-history-menu-back =
+    .tooltiptext = Назад
+    .aria-label = Назад
+aiwindow-history-menu-view-all-chats = Преглед свих ћаскања
+aiwindow-history-menu-settings = { -smart-window-brand-name } подешавања
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Ново ћаскање
+aiwindow-fullpage-chat-history =
+    .label = Историја ћаскања
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Више
+    .title = Више
 
 ## Sign out dialog
 
@@ -308,3 +360,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Режим пребацивања: преглед у виду мреже
     .tooltiptext = Преглед у виду мреже
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Напиши први нацрт
+aiwindow-starter-writing-improve = Побољшај писање
+aiwindow-starter-writing-proofread = Лектуриши поруку
+aiwindow-starter-planning-simplify = Поједностави тему
+aiwindow-starter-planning-brainstorm = Смисли идеје
+aiwindow-starter-planning-plan = Помогни ми да направим план
+aiwindow-starter-browsing-history = Пронађи језичке у историји
+aiwindow-starter-browsing-summarize = Сажми језичке
+aiwindow-starter-browsing-compare = Упореди језичке
