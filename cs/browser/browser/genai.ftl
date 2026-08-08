@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Volbou Anthropic Claude souhlasíte s <a data
 genai-settings-chat-copilot-links = Volbou Copilotu souhlasíte s <a data-l10n-name="link1">podmínkami Copilot AI Experiences</a> a <a data-l10n-name="link2">prohlášením společnosti Microsoft o ochraně osobních údajů</a>.
 genai-settings-chat-gemini-links = Volbou Google Gemini souhlasíte s <a data-l10n-name="link1">podmínkami služby Google</a>, <a data-l10n-name="link2">zásadami zakázaného užití generativní umělé inteligence</a> a se <a data-l10n-name="link3">zásadami ochrany osobních údajů ve službě Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Volbou HuggingChat souhlasíte se <a data-l10n-name="link1">zásadami ochrany osobních údajů pro službu HuggingChat</a> a se <a data-l10n-name="link2">zásadami ochrany osobních údajů pro službu Hugging Face</a>.
+genai-settings-chat-lechat-links-2 = Zvolením Mistral Vibe souhlasíte s jeho <a data-l10n-name="link1">podmínkami poskytování služby</a> a <a data-l10n-name="link2">zásadami ochrany osobních údajů</a>.
 genai-settings-chat-lechat-links = Volbou Le Chat Mistral souhlasíte s <a data-l10n-name="link1">podmínkami poskytování služby</a> a se <a data-l10n-name="link2">zásadami ochrany soukromí</a> společnosti Mistral AI.
 genai-settings-chat-localhost-links =
     { -vendor-short-name.case-status ->

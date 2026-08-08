@@ -40,6 +40,7 @@ firefoxview-syncedtabs-signin-header-2 =
 firefoxview-syncedtabs-signin-description-2 = Chcete-li zobrazit panely, které máte otevřené v telefonu a dalších zařízeních, přihlaste se nebo si vytvořte účet. S účtem můžete také synchronizovat svá hesla, historii a další data.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Z notebooku do telefonu, bezproblémově
+firefoxview-syncedtabs-signin-description-3 = Udržujte si při procházení webu propojenost napříč zařízeními — panely, hesla i historie budou vždy synchronizovány.
 firefoxview-syncedtabs-signin-primarybutton-2 = Přihlásit se
 firefoxview-tabpickup-adddevice-header =
     { -brand-product-name.case-status ->
@@ -64,6 +65,13 @@ firefoxview-syncedtabs-adddevice-description-2 =
        *[no-cases] Přihlaste se k aplikaci { -brand-product-name } v telefonu nebo v jiném počítači a zobrazte si zde panely. Zjistěte, jak <a data-l10n-name="url">připojit další zařízení</a>.
     }
 firefoxview-syncedtabs-adddevice-primarybutton = Vyzkoušet { -brand-product-name } pro mobily
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Volají vaše panely. Jsou ve vašem telefonu.
+firefoxview-syncedtabs-adddevice-description-3 =
+    { -brand-product-name.case-status ->
+        [with-cases] Naskenujte QR kód a stáhněte si { -brand-product-name(case: "acc") } pro mobilní zařízení a začněte synchronizovat otevřené panely a další údaje. Zjistěte, jak <a data-l10n-name="url">připojit další zařízení</a>.
+       *[no-cases] Naskenujte QR kód a stáhněte si aplikaci { -brand-product-name } pro mobilní zařízení a začněte synchronizovat otevřené panely a další údaje. Zjistěte, jak <a data-l10n-name="url">připojit další zařízení</a>.
+    }
 firefoxview-tabpickup-synctabs-header = Zapnutí synchronizace panelů
 firefoxview-tabpickup-synctabs-description =
     { -brand-short-name.case-status ->
@@ -280,6 +288,10 @@ firefoxview-show-all-history = Zobrazit celou historii
 firefoxview-history-empty-header = Vraťte se tam, kde jste byli
 firefoxview-history-empty-description = V průběhu prohlížení se zde zobrazí stránky, které navštívíte.
 firefoxview-history-empty-description-two = Ochrana vašeho soukromí je jádrem toho, co děláme. Proto můžete spravovat aktivitu, kterou si { -brand-short-name } pamatuje, v <a data-l10n-name="history-settings-url">nastavení historie</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Vaše prohlížení začíná právě zde
+firefoxview-history-empty-description-2 = Jak budete navštěvovat stránky, bude se zde zobrazovat vaše historie. To, co se bude ukládat, můžete nastavit v <a data-l10n-name="history-settings-url">nastavení</a>.
 
 ##
 
@@ -293,6 +305,7 @@ firefoxview-dont-remember-history-empty-header-2 = Vy máte kontrolu nad tím, c
 firefoxview-dont-remember-history-empty-description-one = Nyní si { -brand-short-name } nepamatuje vaši aktivitu při procházení internetu. Chcete-li to změnit, <a data-l10n-name="history-settings-url-two">aktualizujte nastavení historie</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Historie vašeho prohlížení nebude zaznamenávána
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } momentálně neukládá vaši historii. Tuto nastavení můžete kdykoli změnit v <a data-l10n-name="history-settings-url-two">nastavení</a>.
 
 ##
 

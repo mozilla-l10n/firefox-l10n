@@ -68,7 +68,7 @@ url-classifier-content-classifier-results = Résultats
 url-classifier-content-classifier-pbm = Navigation privée
 # Checkbox: force the request to be treated as third-party relative to the
 # top-level page, regardless of the URLs entered above.
-url-classifier-content-classifier-force-third-party = Forcer le tiers à placer le cadre du haut
+url-classifier-content-classifier-force-third-party = Forcer en tant que tiers par rapport au cadre principal
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Module non recommandé
