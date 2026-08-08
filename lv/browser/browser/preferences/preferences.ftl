@@ -89,8 +89,8 @@ applications-setting-new-file-types =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = Lai aktivētu šo iespēju ir jāpārstartē { -brand-short-name }.
-feature-disable-requires-restart = Lai deaktivētu šo iespēju ir jāpārstartē { -brand-short-name }.
+feature-enable-requires-restart = { -brand-short-name } ir jāpalaiž no jauna, lai iespējotu šo iespēju.
+feature-disable-requires-restart = { -brand-short-name } ir jāpalaiž no jauna, lai atspējotu šo iespēju.
 should-restart-title = Pārstartēt { -brand-short-name }
 should-restart-ok = Pārstartēt { -brand-short-name } tagad
 cancel-no-restart-button = Atcelt

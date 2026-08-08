@@ -106,8 +106,8 @@ policy-NewTabPage = Ieslēgt vai izslēgt lapu ”jauna cilne“.
 policy-NoDefaultBookmarks = Deaktivē standarta { -brand-short-name } grāmatzīmju izveidi, piemēram Biežāk izmantotās, Jaunākie tagi. Piezīme: Šī politika būs efektīva vienīgi, ja ir aktivēta pirms pirmās pārlūka palaišanas.
 policy-OfferToSaveLogins = Iestata vērtību { -brand-short-name } paroļu saglabāšanas iespējai. Iespējamās vērtības it gan true gan false.
 policy-OfferToSaveLoginsDefault = Iestatīt noklusējuma vērtību, vai ļaut { -brand-short-name } piedāvāt atcerēties saglabātos lietotājvārdus un paroles. Tiek pieņemtas vērtības “patiess” un “aplams”.
-policy-OverrideFirstRunPage = Pārraksta pirmās palaišanas lapu. Iestatiet šeit tukšumu, lai deaktivētu pirmās palaišanas lapu.
-policy-OverridePostUpdatePage = Pārraksta pēc atjauninājumu "Kas jauns" lapu. Iestatiet šeit tukšumu, lai deaktivētu šo lapu.
+policy-OverrideFirstRunPage = Pārraksta pirmās palaišanas lapu. Iestatīt šo pamatnostādni tukšu, ja ir vēlēšanās atspējot pirmās palaišanas lapu.
+policy-OverridePostUpdatePage = Pārraksta pēcatjauninājumu lapu "Kas jauns". Iestatīt šo pamatnostādni tukšu, ja ir vēlēšanās atspējot šo lapu.
 policy-PasswordManagerEnabled = Ieslēgt paroļu saglabāšanu paroļu pārvaldniekā.
 policy-PasswordManagerExceptions = Liegt { -brand-short-name } saglabāt paroles noteiktām vietnēm.
 # Post-quantum refers to cryptography that is safe from attacks by quantum

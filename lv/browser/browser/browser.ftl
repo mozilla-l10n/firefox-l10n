@@ -1676,7 +1676,7 @@ trustpanel-privacy-link = Privātuma iestatījumi
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Notīrīt { $host } sīkdatnes un vietnes datus
-trustpanel-clear-cookies-description = Sīkdatņu un vietnes datu noņemšana tīmekļvietnēs var nozīmēt izrakstīšanu no sesijas un iepirkumu grozu iztīrīšanu.
+trustpanel-clear-cookies-description = Sīkdatņu un vietnes datu noņemšana var izraisīt atteikšanos tīmekļvietnēs un iepirkumu grozu iztīrīšanu.
 trustpanel-clear-cookies-subview-button-clear = Notīrīt
 trustpanel-clear-cookies-subview-button-cancel = Atcelt
 # Variables
@@ -1700,11 +1700,11 @@ urlbar-trust-icon-notsecure-label = Nav drošs
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-description = { -brand-product-name } uzskata, ka uzņēmumiem vajadzētu jūs mazāk izsekot. Tādēļ mēs aizturam tik daudz, cik vien varam.
+trustpanel-blocker-description = { -brand-product-name } uzskata, ka uzņēmumiem vajadzētu Tevi mazāk izsekot. Tādēļ mēs aizturam tik daudz, cik vien varam.
 trustpanel-blocked-header = { -brand-product-name } aizturēja šo:
 trustpanel-tracking-header = { -brand-product-name } atļāva šo, lai vietnes nesalūztu:
 trustpanel-tracking-description = Bez izsekotājiem dažas pogas, veidlapas un pieteikšanās lauki var nedarboties.
-trustpanel-insecure-section-header = Tavs savienojums nav drošs
+trustpanel-insecure-section-header = Savienojums nav drošs
 trustpanel-insecure-description = Dati, kas tiek sūtīti šai vietnei, nav šifrēti. Tos var apskatīt, nozagt vai izmanīt.
 trustpanel-list-label-tracking-cookies =
     { $count ->
@@ -1742,6 +1742,14 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [zero] { -brand-product-name } atļāva { $count } sociālo mediju izsekotāju
         [one] { -brand-product-name } atļāva { $count } sociālo mediju izsekotāju
        *[other] { -brand-product-name } atļāva { $count } sociālo mediju izsekotājus
+    }
+trustpanel-tracking-content-tab-list-header = Šīs vietnes mēģina Tevi izsekot:
+trustpanel-fingerprinter-list-header = Šīs vietnes mēģina noņemt jūsu pirkstu nospiedumus:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } bloķēja { $count } kriptovalūtu ieguvējus
+        [one] { -brand-product-name } bloķēja { $count } kriptovalūtu ieguvēju
+       *[other] { -brand-product-name } bloķēja { $count } kriptovalūtu ieguvējus
     }
 trustpanel-cryptominer-tab-list-header = Šīs vietnes mēģina iegūt kriptovalūtu:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.

@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Neatbalstīts datnes tips.
 places-bookmarks-restore-parse-error = Nevar apstrādāt grāmatzīmju rezerves kopijas datni.
 places-bookmarks-import = Importēt grāmatzīmju datni
 places-bookmarks-export = Eksportēt grāmatzīmju datni
+places-bookmarks-paste-error-title = Atrasts(-i) nederīgs(-i) URL
+places-bookmarks-paste-error-message-header = Šo(-s) URL nevarēja pievienot jūsu grāmatzīmēm. Pārbaudiet to formatējumu un mēģiniet pievienot tos vēlreiz.
