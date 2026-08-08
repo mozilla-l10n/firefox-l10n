@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = გააზიარეთ { -brand-product-name }
 appmenuitem-more-tools =
     .label = სხვა ხელსაწყოები
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = დახმარება და მოხსენება
 appmenuitem-help =
     .label = დახმარება
 appmenuitem-exit2 =
@@ -156,6 +159,12 @@ appmenu-fxa-last-sync = ბოლო დასინქრონება { $tim
     .label = ბოლო დასინქრონება { $time }
 appmenu-fxa-sync-and-save-data2 = დასინქრონება და შენახვა
 appmenu-fxa-signed-in-label = შესვლა
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = დასინქ. შესვლა
+appmenu-fxa-sign-in-promo-message = ყველგან წაიყოლეთ თქვენი მონაცემები
+appmenu-fxa-sign-in-promo-button =
+    .label = შესვლა
 appmenu-fxa-setup-sync =
     .label = დასინქრონების ჩართვა…
 appmenu-fxa-setup-sync-new = ჩართვა
@@ -284,6 +293,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = ძიების ისტორია
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = დაასინქრონეთ ყველა მოწყობილობა
+appmenu-sync-promo-signin-cta = შესვლა
+appmenu-sync-promo-turnonsync =
+    .heading = დაასინქრონეთ თქვენი ჩანართები და ისტორია
+appmenu-sync-promo-turnonsync-cta = დასინქ. ჩართვა
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = წამოიღეთ მობილურიდან ჩანართები
+appmenu-sync-promo-connectdevice-cta = მოწყობილობის დაკავშირება
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = თან წაიყოლეთ თქვენი სანიშნები
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = გაიყოლეთ თქვენი სანიშნები
+
 ## Help panel
 
 appmenu-help-header =
@@ -291,6 +321,11 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } შესახებ
     .accesskey = შ
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = გააზიარეთ { -brand-shorter-name }
+    .accesskey = გ
 appmenu-get-help =
     .label = დახმარება
     .accesskey = დ
@@ -304,6 +339,9 @@ appmenu-help-share-ideas =
     .accesskey = ზ
 appmenu-help-switch-device =
     .label = ახალ მოწყობილობაზე გადასვლა
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = დახმარება და მოხსენება
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -344,14 +382,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = ანგარიშზე შესვლა
 appmenuitem-monitor-title2 = აღკვეთეთ ვინაობის მონაცემთა მითვისება
 appmenuitem-monitor-description2 = შეიტყვეთ მონაცემთა მიტაცების შესახებ
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } – მიტაცების ცნობები
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = მიიღეთ ცნობები მონაცემთა მიტაცებისას
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = დატოვეთ თქვენი ელფოსტა პირადი
 appmenuitem-relay-description2 = გეხმარებათ აირიდოთ უსარგებლო წერილები
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = იხილეთ ელფოსტის ნიღბები
 appmenuitem-relay-description = შენიღბეთ თქვენი ელფოსტა და ნომერი
 appmenuitem-services-relay-description = შენიღბვის მაჩვენებლების გვერდის გაშვება
 appmenuitem-vpn-title2 = მდებარეობის დასამალად გამოიყენეთ { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = დამატებითი დაცვა პროგრამებსა და მოწყობილობებზე
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = გახსენით { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = გააძნელეთ გვერდების მონახულებისას თქვენი დევნა
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = ისარგებლეთ მთლიანი მოწყობილობის დაცვით
@@ -391,6 +436,9 @@ fxa-menu-create-profile-confirm =
     .label = ახალი პროფილის შექმნა
 fxa-menu-create-profile-learn-more =
     .label = რისთვისაა პროფილები?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = გააზიარეთ { -brand-short-name }
+appmenuitem-share-firefox-description = მოიწვიეთ ვინმე, რომ აირჩიოს ბრაუზერი, რომლისთვისაც უწინარესია პირადულობა
 appmenu-profiles-2 =
     .label = პროფილები
 appmenu-profiles-header = პროფილები

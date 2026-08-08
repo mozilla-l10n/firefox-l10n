@@ -296,6 +296,20 @@ launch-on-login-infobar-final-message = <strong>გაიხსნას { -bran
 launch-on-login-infobar-final-reject-button = არა, გმადლობთ
     .accesskey = რ
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } ჩაირთვება Windows-ში შესვლისთანავე. შეცვლა ყოველთვის შეგიძლიათ პარამეტრებიდან.
+launch-on-login-autostart-infobar-keep-button = დატოვება
+    .accesskey = ტ
+launch-on-login-autostart-infobar-turn-off-button = გამორთვა
+    .accesskey = ო
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -494,3 +508,21 @@ nova-early-access-share-feedback-link = გამოგვეხმაურე�
     .accesskey = მ
 nova-early-access-infobar-primary-button = გასაგებია
     .accesskey = გ
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = გაეშვას { -brand-short-name } ყოველ ჯერზე Windows-ში შესვლისას?
+launch-options-spotlight-title-session-restore = კვლავ გაიხსნას ძველი სეანსით { -brand-short-name } ახლიდან ჩართვისას?
+launch-options-spotlight-checkbox-launch-on-login = გაეშვას { -brand-short-name } ჩართვისას
+launch-options-spotlight-checkbox-pin-to-taskbar = მიამაგრეთ სამუშაო ზოლზე
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = მიმდინარე ფანჯრებისა და ჩანართების გახსნა
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = წინა ფანჯრებისა და ჩანართების გახსნა
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = შეინახოს და დაიხუროს { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = შენახვა და გაგრძელება
