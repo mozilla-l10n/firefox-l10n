@@ -168,6 +168,8 @@ smart-window-opened-tabs-summary-group =
        *[other] Criou o grupo “{ $label }” e abriu { $count } abas.
     }
 smart-window-opened-tabs-row-label = Abas abertas
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Mudou de aba
 # Variables
 #   $title (String) - Title of the tab switched to
 smart-window-switched-tab-summary = Mudou para “{ $title }”.
