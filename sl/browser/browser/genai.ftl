@@ -259,6 +259,10 @@ link-preview-settings-long-press =
     .label = Bližnjica: kliknite in zadržite povezavo 1 sekundo (dolg pritisk)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Želite izvedeti več s pomočjo umetne inteligence?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } uporablja umetno inteligenco za branje začetka strani in ustvarjanje nekaj glavnih poudarkov. Da bi zaščitili vašo zasebnost, se vse to izvede na vaši napravi.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Novo: kliknite in zadržite povezavo za predogled
 # Onboarding card See a preview button
 link-preview-onboarding-button = Oglejte si predogled
 # Onboarding card Close button
