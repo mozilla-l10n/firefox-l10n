@@ -309,7 +309,7 @@ appmenu-sync-promo-connectdevice =
     .heading = Hartu mugikorreko zure fitxak
 appmenu-sync-promo-connectdevice-cta = Konektatu gailua
 appmenu-bookmarks-sync-promo-turnonsync =
-    .heading = Eraman laster-markak alboan
+    .heading = Eraman laster-markak aldean
 # This refers to having your bookmarks available on your mobile device via sync
 appmenu-bookmarks-sync-promo-connectdevice =
     .heading = Eraman laster-markak aldean

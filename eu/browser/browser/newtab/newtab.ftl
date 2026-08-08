@@ -470,6 +470,23 @@ topsite-label-pinned =
     .aria-label = { $title } (ainguratuta)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = { $site } guneko jakinarazpenak
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Oraintxe bertan
+newtab-topsites-hover-card-mark-all-read =
+    .title = Markatu denak irakurritako gisa
+    .aria-label = Markatu denak irakurritako gisa
+newtab-topsites-hover-card-settings =
+    .title = Jakinarazpenen ezarpenak
+    .aria-label = Jakinarazpenen ezarpenak
+newtab-topsites-hover-card-dismiss =
+    .title = Baztertu
+    .aria-label = Baztertu
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -688,6 +705,9 @@ newtab-custom-shortcuts-toggle =
     .description = Gordetzen edo bisitatzen dituzun guneak
 newtab-custom-shortcuts-nova =
     .label = Lasterbideak
+newtab-custom-web-notifications-toggle =
+    .label = Webeko jakinarazpenak
+    .description = Erakutsi zure guneetako jakinarazpenak hauen lasterbideetan
 newtab-custom-row-description =
     .description = Lerro kopurua
 # Variables
