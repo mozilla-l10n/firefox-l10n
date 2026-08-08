@@ -308,6 +308,11 @@ appmenu-sync-promo-turnonsync-cta = Vklopi sinhronizacijo
 appmenu-sync-promo-connectdevice =
     .heading = Prevzemite zavihke iz svoje mobilne naprave
 appmenu-sync-promo-connectdevice-cta = Povežite napravo
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Imejte svoje zaznamke vedno pri sebi
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Vzemite zaznamke s seboj
 
 ## Help panel
 
@@ -377,13 +382,22 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Prijavite se v račun
 appmenuitem-monitor-title2 = Zaščitite se pred krajo identitete
 appmenuitem-monitor-description2 = Prejemajte opozorila o krajah podatkov
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Obvestila o krajah podatkov { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Prejemajte opozorila o krajah podatkov
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Ohranite vašo e-pošto zasebno
 appmenuitem-relay-description2 = Pomaga zaščititi vaš nabiralnik pred neželeno pošto
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Prikaži maske e-pošte
 appmenuitem-relay-description = Zakrijte svoj pravi e-poštni naslov in telefonsko številko
 appmenuitem-services-relay-description = Odpri pregledno ploščo e-poštnih mask
+appmenuitem-vpn-title2 = Skrij svojo lokacijo z { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Dodatno zaščitite svoje aplikacije in naprave
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Odpri { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = Poskrbite, da bo vaše brskanje težje sledljivo
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Zagotovite si zaščito za celotno napravo
 appmenuitem-vpn-description = Zaščitite svojo spletno dejavnost
