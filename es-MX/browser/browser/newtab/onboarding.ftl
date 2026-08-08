@@ -610,6 +610,7 @@ smartwindow-switcher-callout = Cambia entre Ventanas inteligentes y Ventanas cl�
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Términos de uso de { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Para usar { -smart-window-brand-name }, acepta los <a data-l10n-name="terms_of_use">Términos de uso</a> y la <a data-l10n-name="privacy_notice">Política de privacidad</a> actualizada.
 smartwindow-existing-user-fx-tou-accept = Aceptar
 smartwindow-existing-user-fx-tou-go-back = Regresar
 

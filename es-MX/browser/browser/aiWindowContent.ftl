@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] Agrupar { $count } pestaña
        *[other] Agrupar { $count } pestañas
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Abrir
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Abrir { $count } pestaña
+       *[other] Abrir { $count } pestañas
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
