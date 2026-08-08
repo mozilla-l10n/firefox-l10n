@@ -182,6 +182,8 @@ ipprotection-connection-status-network-error-title-1 = Revisa tu conexión a Int
 ipprotection-connection-status-network-error-description = Conéctate a Internet y luego intenta activar la VPN.
 ipprotection-connection-status-blocked-error-title-1 = La VPN no está disponible
     .aria-label = La VPN no está disponible
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Las leyes y restricciones locales limitan los lugares donde puedes usar la VPN. <a data-l10n-name="learn-more-link">Más información</a>
 ipprotection-connection-status-blocked-error-description = Las leyes locales nos impiden ofrecer el servicio de VPN en esta región. <a data-l10n-name="learn-more-link">Más información</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

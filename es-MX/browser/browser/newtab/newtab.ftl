@@ -347,6 +347,8 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .title = Opciones de imagen del día
     .aria-label = Opciones de imagen del día
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Más información
 
 ## Search box component.
 
