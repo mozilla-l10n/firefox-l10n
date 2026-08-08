@@ -128,6 +128,18 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Upravljanje nastavitev pojavnih oken in preusmeritev tretjih strani …
     .accesskey = U
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Ogled podatkov o strani
+            [1] Ogled podatkov o strani (1 zavrnjen sledilec)
+            [one] Ogled podatkov o strani ({ $count } zavrnjeni sledilec)
+            [two] Ogled podatkov o strani ({ $count } zavrnjena sledilca)
+            [few] Ogled podatkov o strani ({ $count } zavrnjeni sledilci)
+           *[other] Ogled podatkov o strani ({ $count } zavrnjenih sledilcev)
+        }
 
 ##
 

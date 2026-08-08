@@ -95,3 +95,15 @@ ai-window-delete-all-memories-cancel = Откажи
 ai-window-memory-delete-button =
     .title = Обриши сећање
     .aria-label = Обриши { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Брзо
+    .description = Најбоље за брзе одговоре када је брзина битна. Пуно име: { $model } од { $ownerName }-а
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Савитљиво
+    .description = Спреман за разне задатке. Пуно име: { $model } од { $ownerName }-а
