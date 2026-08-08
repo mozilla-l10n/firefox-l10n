@@ -295,7 +295,7 @@ appmenu-search-history =
 ## headings are specific to the panel they appear in.
 
 appmenu-sync-promo-signin =
-    .heading = Restez synchronisé sur tous vos appareils
+    .heading = Synchronisez vos appareils facilement
 appmenu-sync-promo-signin-cta = Connexion
 appmenu-sync-promo-turnonsync =
     .heading = Synchroniser vos onglets et votre historique
