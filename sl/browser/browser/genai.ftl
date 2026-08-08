@@ -242,7 +242,7 @@ link-preview-error-message-v2 = { -brand-short-name } ne more prikazati predogle
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Obiščite povezavo
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
-link-preview-generation-error-missing-data-v2 = { -brand-short-name } ne more ustvariti ključnih poudarkov za to spletno stran.
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } ne more ustvariti glavnih poudarkov za to spletno stran.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Prišlo je do napake.
 # Text for the retry link when generation fails
@@ -263,9 +263,19 @@ link-preview-optin-title = Želite izvedeti več s pomočjo umetne inteligence?
 link-preview-optin-message = { -brand-short-name } uporablja umetno inteligenco za branje začetka strani in ustvarjanje nekaj glavnih poudarkov. Da bi zaščitili vašo zasebnost, se vse to izvede na vaši napravi.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Novo: kliknite in zadržite povezavo za predogled
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Oglejte si kratek opis strani, predviden čas branja in druge podatke, na podlagi katerih se lahko odločite, ali je povezava vredna odpiranja. Na voljo tudi ob desnem kliku.
+# Header for the key points section
+link-preview-key-points-header = Glavni poudarki
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Glavni poudarki so ustvarjeni z umetno inteligenco in lahko vsebujejo napake.
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Naslednjič bodo glavni poudarki prikazani še hitreje.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Oglejte si predogled
 # Onboarding card Close button
 link-preview-onboarding-close = Zapri
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = Prva nastavitev
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = To lahko traja nekaj časa. Naslednjič boste glavne poudarke videli hitreje.

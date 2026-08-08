@@ -87,3 +87,5 @@ about-private-browsing-nova-info-link = Kdo bi lahko kljub temu videl mojo dejav
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Zgodovina brskanja se ne bo shranila
+about-private-browsing-nova-info-subheader2 = Ko zaprete vsa zasebna okna, bomo izbrisali vsa iskanja in prijave. Vgrajene zaščite { -brand-short-name }a so aktivne tudi tukaj, na primer zavračanje sledilcev.
+about-private-browsing-nova-info-subheader = Ko zaprete to okno, bomo izbrisali vsa iskanja in prijave. Vgrajene zaščite { -brand-short-name }a so aktivne tudi tukaj, na primer zavračanje sledilcev.
