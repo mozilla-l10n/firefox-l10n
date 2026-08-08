@@ -35,3 +35,9 @@ inspector-emulation-panel-color-scheme = Emulación del esquema de color
 # A label text for the print emulation options
 inspector-emulation-panel-print = Habilitar
     .aria-label = Habilitar la emulación de medios de impresión
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Claro
+    .aria-label = Habilitar la emulación del esquema de color claro
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Oscuro
+    .aria-label = Habilitar la emulación del esquema de color oscuro

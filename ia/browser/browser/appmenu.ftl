@@ -298,7 +298,18 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = Remane synchronisate tra apparatos
 appmenu-sync-promo-signin-cta = Aperir session
+appmenu-sync-promo-turnonsync =
+    .heading = Synchronisar tu schedas e chronologia
+appmenu-sync-promo-turnonsync-cta = Activar le synchronisation
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Recupera le schedas de tu apparatos mobile
+appmenu-sync-promo-connectdevice-cta = Connecter un apparato
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Porta con te tu marcapaginas
 
 ## Help panel
 
