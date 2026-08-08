@@ -43,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Installez { -brand-product-name 
 firefoxview-syncedtabs-adddevice-header-2 = Récupérez vos onglets où que vous soyez
 firefoxview-syncedtabs-adddevice-description-2 = Connectez-vous à { -brand-product-name } sur votre téléphone ou un autre ordinateur pour afficher leurs onglets ici. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Essayer { -brand-product-name } pour mobile
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Vos onglets ont appelé votre téléphone. Ils sont aussi là-bas maintenant.
 firefoxview-syncedtabs-adddevice-description-3 = Scannez le code QR pour obtenir { -brand-product-name } sur votre téléphone et commencer à synchroniser votre onglets ouverts et plus encore. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
 firefoxview-tabpickup-synctabs-header = Activez la synchronisation des onglets
 firefoxview-tabpickup-synctabs-description = Autorisez { -brand-short-name } à partager les onglets entre vos appareils.

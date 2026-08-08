@@ -1667,7 +1667,7 @@ newtab-clock-widget-add-custom = Ajouter « { $city } » comme horloge personn
 newtab-clock-widget-custom-city-input =
     .label = Nom de la ville
     .aria-label = Nom de la ville
-    .placeholder = Nommez cette horloge
+    .placeholder = Donnez un nom à cette horloge
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =

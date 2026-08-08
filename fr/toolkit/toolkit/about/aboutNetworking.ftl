@@ -70,7 +70,7 @@ about-networking-ssl-tokens-compression-details =
     .title = Jetons : { $tokenLength } o. Encodage : { $decompressedLength } → { $compressedLength } o.
 about-networking-ssl-tokens-ev-status = Certificat EV
 about-networking-ssl-tokens-ct-status = État de la transparence du certificat
-about-networking-ssl-tokens-overridable-error = Catégorie d’erreur remplaçable
+about-networking-ssl-tokens-overridable-error = Catégorie d’erreur pouvant être outrepassée
 about-networking-ssl-tokens-built-in-root = Racine intégrée
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Chaîne de certificat ({ $count })

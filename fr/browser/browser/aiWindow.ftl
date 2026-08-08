@@ -50,7 +50,7 @@ toolbar-switcher-customizable-label =
 
 ## Input CTA
 
-aiwindow-input-cta-submit-label-chat = Poser une question
+aiwindow-input-cta-submit-label-chat = Demander
 aiwindow-input-cta-submit-label-navigate = Ouvrir
 aiwindow-input-cta-submit-label-search = Rechercher
 aiwindow-input-cta-submit-label-stop = Arrêter

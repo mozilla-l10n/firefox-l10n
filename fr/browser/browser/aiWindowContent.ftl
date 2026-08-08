@@ -173,7 +173,7 @@ smart-window-opened-tabs-row-label = Onglets ouverts
 smart-window-switched-tab-label = Onglets changés
 # Variables
 #   $title (String) - Title of the tab switched to
-smart-window-switched-tab-summary = Basculé en « { $title } ».
+smart-window-switched-tab-summary = Passé à « { $title } ».
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Onglets dissociés
 # Variables
