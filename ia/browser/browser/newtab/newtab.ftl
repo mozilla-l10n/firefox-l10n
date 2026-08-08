@@ -470,6 +470,11 @@ topsite-label-pinned =
     .aria-label = { $title } (appunctate)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Justo ora
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
