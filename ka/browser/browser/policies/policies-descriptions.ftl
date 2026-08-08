@@ -44,7 +44,7 @@ policy-DefaultBrowserSettingEnabled = განსაზღვრავს, შ�
 policy-DefaultDownloadDirectory = ჩამოტვირთვის ნაგულისხმევი საქაღალდის მითითება.
 policy-DefaultSerialGuardSetting = მიმდევრობითი API-ის გამოყენების მართვა.
 policy-DisableAppUpdate = ბრაუზერის განახლების შეზღუდვა.
-policy-DisableBuiltinPDFViewer = PDF.js-ის გათიშვა, ჩაშენებული PDF-გამხსნელის, რომელსაც იყენებს { -brand-short-name }.
+policy-DisableBuiltinPDFViewer = გაითიშოს PDF.js, ჩაშენებული PDF-გამხსნელი, რომელსაც იყენებს { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = ნაგულისხმევ ბრაუზერზე მეთვალყურე აგენტისთვის მოქმედებების შეზღუდვა. განკუთვნილია მხოლოდ Windows-ისთვის; სხვა სისტემებს არ აქვთ ამგვარი აგენტი.
 policy-DisableDeveloperTools = შემმუშავებლის ხელსაწყოებთან წვდომის შეზღუდვა.
 policy-DisableEncryptedClientHello = გაითიშოს TLS-შესაძლებლობის მქონე Encrypted Client Hello (ECH).
@@ -53,11 +53,11 @@ policy-DisableFirefoxAccounts = მომსახურებების გ�
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = ანგარიშზე დამოკიდებული მომსახურებების გათიშვა, მათ შორის დასინქრონებისა.
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Firefox Screenshots-ის გათიშვა
+policy-DisableFirefoxScreenshots = გაითიშოს Firefox Screenshots.
 policy-DisableFirefoxStudies = შეზღუდვა, რომ { -brand-short-name } ვერ შეძლებს კვლევების გაშვებას.
 policy-DisableForgetButton = ისტორიის დავიწყების ღილაკთან წვდომის შეზღუდვა.
 policy-DisableFormHistory = ძიებისა და ველების ისტორიის დამახსოვრების შეზღუდვა.
-policy-DisableLaunchOnLogin = აღკვეთს შესაძლებლობას, თავისთავად გაეშვას { -brand-short-name } მომხმარებლის შესვლისთანავე.
+policy-DisableLaunchOnLogin = აღიკვეთოს შესაძლებლობა, თავისთავად გაეშვას { -brand-short-name } მომხმარებლის შესვლისთანავე.
 policy-DisablePrimaryPasswordCreation = თუ მოქმედია, მთავარი პაროლი ვერ შეიქმნება.
 policy-DisablePasswordReveal = შენახული ანგარიშების პაროლებთან წვდომის აკრძალვა.
 policy-DisablePocket2 = ვებგვერდების { -pocket-brand-name }-ში შენახვის შესაძლებლობის გათიშვა.

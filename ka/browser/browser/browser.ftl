@@ -128,6 +128,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = ამომხტომებისა და გარე გადამისამართებების მართვა…
     .accesskey = ვ
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] საიტის მონაცემების ნახვა
+            [1] საიტის მონაცემების ნახვა (1 მეთვალყურე შეიზღუდა)
+            [one] საიტის მონაცემების ნახვა ({ $count } მეთვალყურე შეიზღუდა)
+           *[other] საიტის მონაცემების ნახვა ({ $count } მეთვალყურე შეიზღუდა)
+        }
 
 ##
 
@@ -614,6 +624,7 @@ identity-description-passive-loaded-insecure2 = ეს ვებსაიტი 
 identity-description-passive-loaded-mixed2 = მიუხედავად იმისა, რომ { -brand-short-name } ზღუდავს გარკვეულ შიგთავსს, დაუცველი ნაწილი მაინც რჩება (მაგალითად სურათები).
 identity-description-active-loaded = საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (როგორიცაა სკრიპტები) და მასთან კავშირი, ვერ უზრუნველყოფს პირადი მონაცემების უსაფრთხოებას.
 identity-description-active-loaded-insecure = ინფორმაცია, რომელსაც ამ საიტს გაუზიარებთ შესაძლოა, სხვებმაც იხილონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა. შ.).
+identity-description-tls-key-logging-heading = თქვენი კავშირის პირადულობა შესაძლოა დაუცველი იყოს
 identity-disable-mixed-content-blocking =
     .label = დაცვის გამორთვა დროებით
     .accesskey = დ
@@ -960,6 +971,13 @@ urlbar-result-explanation-bookmarked = ჩანიშნული { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = ბოლოს მონახულებული { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = ბოლოს მონახულებული { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1565,6 +1583,9 @@ private-browsing-indicator-label = პირადი ფანჯარა
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = პირადი თვალიერება
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = პირადი დათვალიერების მონაცემები
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
