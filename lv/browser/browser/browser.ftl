@@ -1007,8 +1007,8 @@ urlbar-searchmode-popup-search-settings-menuitem =
 # Variables:
 #   $engine (String): the current default search engine.
 urlbar-searchmode-button2 =
-    .label = { $engine }, izvēlēties meklētājprogrammu
-    .tooltiptext = { $engine }, izvēlēties meklētājprogrammu
+    .label = { $engine }, izvēlēties meklētāju
+    .tooltiptext = { $engine }, izvēlēties meklētāju
 urlbar-searchmode-button-no-engine =
     .label = Nav atlasīta neviena saīsne, jāizvēlas saīsne
     .tooltiptext = Nav atlasīta neviena saīsne, jāizvēlas saīsne
@@ -1660,8 +1660,8 @@ trustpanel-etp-toggle-on =
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
     .aria-label = Uzlabotā aizsardzība pret izsekošanu: izslēgta { $host }
-trustpanel-etp-description-enabled = Ja kaut kas šajā vietnē izskatās salūzis, jāmēģina izslēgt aizsardzība.
-trustpanel-etp-description-disabled = { -brand-product-name } uzskata, ka uzņēmumiem vajadzētu tevi mazāk izsekot. Mēs aizturam tik daudz izsekotāju, cik vien mēs varam, kad ir ieslēgta aizsardzība.
+trustpanel-etp-description-enabled = Ja kaut kas šajā vietnē izskatās salūzis, jāmēģina izslēgt aizsardzību.
+trustpanel-etp-description-disabled = { -brand-product-name } uzskata, ka uzņēmumiem vajadzētu Tevi mazāk izsekot. Mēs aizturam tik daudz izsekotāju, cik vien mēs varam, kad ir ieslēgta aizsardzība.
 trustpanel-connection-label-secure = Savienojums drošs
 trustpanel-connection-label-insecure = Savienojums nav drošs
 trustpanel-header-enabled = { -brand-product-name } ir sardzē
@@ -1743,7 +1743,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } atļāva { $count } sociālo mediju izsekotāju
        *[other] { -brand-product-name } atļāva { $count } sociālo mediju izsekotājus
     }
-trustpanel-tracking-content-tab-list-header = Šīs vietnes mēģina jūs izsekot:
 trustpanel-cryptominer-tab-list-header = Šīs vietnes mēģina iegūt kriptovalūtu:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Vai jums ir konts šajā vietnē?
