@@ -302,6 +302,8 @@ launch-on-login-infobar-final-reject-button = No, gracias
 ## experiment enabled launch-on-login for the user), informing them that this
 ## happened and letting them keep it on or turn it off.
 
+launch-on-login-autostart-infobar-keep-button = Mantener activado
+    .accesskey = K
 launch-on-login-autostart-infobar-turn-off-button = Desactivar
     .accesskey = T
 

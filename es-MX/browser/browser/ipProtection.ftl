@@ -75,6 +75,9 @@ ipprotection-summer-promo-offramp-subscriber-description = Como suscriptor de { 
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = Conserva las ubicaciones adicionales de tu VPN integrada
 ipprotection-summer-promo-offramp-default-browser-incentive-description = Establece { -brand-product-name } como tu navegador predeterminado y después del 31 de agosto, disfruta de más de 20 ubicaciones adicionales para navegar.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Lleva tu protección al siguiente nivel con { -mozilla-vpn-brand-name }
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Obtener { -mozilla-vpn-brand-name }
