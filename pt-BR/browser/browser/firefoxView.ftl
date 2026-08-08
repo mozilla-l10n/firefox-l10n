@@ -98,7 +98,7 @@ firefoxview-mobile-promo-primarybutton = Instale o { -brand-product-name } para 
 firefoxview-mobile-confirmation-header = 🎉 Pronto!
 firefoxview-mobile-confirmation-description = Agora você pode abrir suas abas do { -brand-product-name } do seu tablet ou celular.
 firefoxview-closed-tabs-title = Fechado recentemente
-firefoxview-closed-tabs-description2 = Reabra páginas que você fechou neste computador.
+firefoxview-closed-tabs-description2 = Reabrir páginas que você fechou nesta janela.
 firefoxview-closed-tabs-placeholder-header = Nenhuma aba fechada recentemente
 firefoxview-closed-tabs-placeholder-body = Ao fechar uma aba nesta janela, você pode recuperar aqui.
 # Variables:

@@ -160,6 +160,9 @@ smart-window-opened-tabs-summary-single =
         [one] Se abrió la pestaña { $count }.
        *[other] Se abrieron { $count } pestañas.
     }
+smart-window-opened-tabs-row-label = Pestañas abiertas
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Se cambió de pestaña
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Pestañas desagrupadas
 # Variables
