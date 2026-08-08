@@ -625,6 +625,7 @@ identity-description-passive-loaded-mixed2 = მიუხედავად ი�
 identity-description-active-loaded = საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (როგორიცაა სკრიპტები) და მასთან კავშირი, ვერ უზრუნველყოფს პირადი მონაცემების უსაფრთხოებას.
 identity-description-active-loaded-insecure = ინფორმაცია, რომელსაც ამ საიტს გაუზიარებთ შესაძლოა, სხვებმაც იხილონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა. შ.).
 identity-description-tls-key-logging-heading = თქვენი კავშირის პირადულობა შესაძლოა დაუცველი იყოს
+identity-description-tls-key-logging-message = გარეშე პროგრამამ ან მომსახურებამ შეიძლება იხილოს თქვენი მიმოცვლილი დაშიფრული მონაცემები ამ საიტთან.
 identity-disable-mixed-content-blocking =
     .label = დაცვის გამორთვა დროებით
     .accesskey = დ
@@ -1586,6 +1587,11 @@ private-browsing-indicator-tooltip =
 # Tooltip for the private browsing indicator button that opens the info panel.
 private-browsing-indicator-button =
     .tooltiptext = პირადი დათვალიერების მონაცემები
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = თქვენ იმყოფებით პირად ფანჯარაში
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = ეს გეხმარებათ დაფაროთ მონახულებული გვერდები სხვებისგან ამ მოწყობილობაზე, მაგრამ ვერ გაგხდით უჩინარს ინტერნეტში. <a data-l10n-name="learn-more">ვინ შეიძლება იხილოს ჩემი მოქმედებები?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1812,6 +1818,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = დაუცველი
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } მეთვალყურე შეიზღუდა
+       *[other] { $count } მეთვალყურე შეიზღუდა
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
