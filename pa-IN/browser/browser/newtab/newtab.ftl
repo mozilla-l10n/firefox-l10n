@@ -470,6 +470,23 @@ topsite-label-pinned =
     .aria-label = { $title } (ਟੰਗਿਆ)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = { $site } ਵਲੋਂ ਨੋਟੀਫਿਕੇਸ਼ਨ
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = ਹੁਣੇ ਹੁਣੇ
+newtab-topsites-hover-card-mark-all-read =
+    .title = ਸਭ ਨੂੰ ਪੜ੍ਹੇ ਬਣਾਓ
+    .aria-label = ਸਭ ਨੂੰ ਪੜ੍ਹੇ ਬਣਾਓ
+newtab-topsites-hover-card-settings =
+    .title = ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ
+    .aria-label = ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ
+newtab-topsites-hover-card-dismiss =
+    .title = ਖ਼ਾਰਜ ਕਰੋ
+    .aria-label = ਖ਼ਾਰਜ ਕਰੋ
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -688,6 +705,9 @@ newtab-custom-shortcuts-toggle =
     .description = ਸਾਈਟਾਂ ਤੁਸੀਂ ਸੰਭਾਲੀਆਂ ਜਾਂ ਖੋਲ੍ਹੀਆਂ
 newtab-custom-shortcuts-nova =
     .label = ਸ਼ਾਰਟਕੱਟ
+newtab-custom-web-notifications-toggle =
+    .label = ਵੈੱਬ ਨੋਟੀਫਿਕੇਸ਼ਨ
+    .description = ਆਪਣੀਆਂ ਸਾਈਟਾਂ ਤੋਂ ਉਹਨਾਂ ਦੇ ਸ਼ਾਰਟਕੱਟ ਤੋਂ ਨੋਟੀਫਿਕੇਸ਼ਨ ਵੇਖੋ
 newtab-custom-row-description =
     .description = ਕਤਾਰਾਂ ਦੀ ਗਿਣਤੀ
 # Variables

@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] { $count } ਟੈਬ ਦਾ ਗਰੁੱਪ ਬਣਾਓ
        *[other] { $count } ਦਾ ਗਰੁੱਪ ਬਣਾਓ
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = ਖੋਲ੍ਹੋ
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] { $count } ਟੈਬ ਨੂੰ ਖੋਲ੍ਹੋ
+       *[other] { $count } ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } ਟੈਬ ਦਾ ਗਰੁੱਪ ਬਣਾਇਆ
        *[other] { $count } ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਇਆ
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = ਟੈਬ ਗਰੁੱਪ
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,34 @@ smart-window-grouped-tabs-summary =
        *[other] “{ $label }” ਗਰੁੱਪ ਬਣਾ ਕੇ { $count } ਟੈਬਾਂ ਜੋੜੀਆਂ ਗਈਆਂ।
     }
 smart-window-grouped-tabs-row-label = ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਇਆ
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } ਟੈਬ ਖੁੱਲ੍ਹੀ ਹੈ
+       *[other] { $count } ਟੈਬਾਂ ਖੁੱਲ੍ਹੀਆਂ ਹਨ
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } ਟੈਬ ਖੁੱਲ੍ਹੀ ਹੈ,
+       *[other] { $count } ਟੈਬਾਂ ਖੁੱਲ੍ਹੀਆਂ ਹਨ,
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+       *[other] “{ $label }” ਗਰੁੱਪ ਬਣਾਇਆ ਅਤੇ { $count } ਟੈਬਾਂ ਖੋਲ੍ਹੀਆਂ
+    }
+smart-window-opened-tabs-row-label = ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = ਟੈਬ ਬਦਲੀਆਂ
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = “{ $title }” ਲਈ ਬਦਲਿਆ ਹੈ।
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਹਟਾਇਆ
 # Variables
