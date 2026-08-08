@@ -1235,7 +1235,7 @@ bookmarks-subview-bookmark-tab =
 library-bookmarks-menu =
     .label = Grāmatzīmes
 library-recent-activity-title =
-    .value = Nesenās aktivitātes
+    .value = Nesenās darbības
 
 ## Pocket toolbar button
 

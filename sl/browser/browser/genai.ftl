@@ -253,6 +253,12 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Omogoči predoglede povezav
     .description = Oglejte si naslov strani, opis in drugo, ko uporabite bližnjico ali desno-kliknete na povezavo.
+link-preview-settings-key-points =
+    .label = Dovoli UI, da prebere uvod strani in izlušči glavne poudarke
+link-preview-settings-long-press =
+    .label = Bližnjica: kliknite in zadržite povezavo 1 sekundo (dolg pritisk)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Želite izvedeti več s pomočjo umetne inteligence?
 # Onboarding card See a preview button
 link-preview-onboarding-button = Oglejte si predogled
 # Onboarding card Close button

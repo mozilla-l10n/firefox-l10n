@@ -691,7 +691,7 @@ home-prefs-highlights-option-most-recent-download =
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name } saglabātās lapas
 home-prefs-recent-activity-header =
-    .label = Nesenās aktivitātes
+    .label = Nesenās darbības
 home-prefs-recent-activity-description = Neseno vietņu un satura izlase
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that

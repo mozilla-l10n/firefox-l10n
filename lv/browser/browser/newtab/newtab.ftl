@@ -62,9 +62,9 @@ home-prefs-highlights-options-bookmarks-srd =
 home-prefs-highlights-option-most-recent-download-srd =
     .label = Nesenās lejupielādes
 home-prefs-recent-activity-header-srd =
-    .label = Nesenās aktivitātes
+    .label = Nesenās darbības
 home-prefs-recent-activity-select =
-    .aria-label = Nesenās aktivitātes
+    .aria-label = Nesenās darbības
 home-prefs-weather-header-srd =
     .label = Laikapstākļi
 
@@ -296,7 +296,7 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Populārākās lapas
-newtab-section-header-recent-activity = Nesenās aktivitātes
+newtab-section-header-recent-activity = Nesenās darbības
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Iesaka { $provider }
@@ -401,7 +401,7 @@ newtab-recommended-stories-toggle =
     .label = Ieteiktie stāsti
 newtab-custom-pocket-sponsored = Sponsorētie stāsti
 newtab-custom-pocket-show-recent-saves = Rādīt nesen saglabāto
-newtab-custom-recent-title = Nesenās aktivitātes
+newtab-custom-recent-title = Nesenās darbības
 newtab-custom-recent-subtitle = Neseno vietņu un satura izlase
 newtab-custom-weather-toggle =
     .label = Laikapstākļi
