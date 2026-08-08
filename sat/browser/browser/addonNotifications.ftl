@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ MIDI (ᱢᱭᱩᱡᱤᱠᱟᱱ ᱤᱱᱥᱴᱨᱩᱢᱮᱱᱴ ᱰᱤᱡᱤᱴᱟᱞ ᱤᱱᱴᱚᱨᱯᱷᱮᱥ) ᱥᱟᱫᱷᱚᱱ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱮᱨᱮᱫᱟᱭ ᱢᱤᱫᱴᱟᱝ ᱮᱰᱼᱚᱱ ᱵᱚᱦᱟᱞ ᱠᱟᱛᱮ ᱥᱟᱫᱷᱚᱱ ᱦᱚᱠ ᱠᱚᱵᱚᱡᱽ ᱜᱟᱱᱚᱜᱼᱟ ᱾
 site-permission-install-first-prompt-midi-message = ᱱᱚᱶᱟ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱛᱟᱦᱮᱸᱱ ᱵᱟᱭ ᱜᱮᱨᱮᱱᱴᱤᱭᱟᱭ ᱾ ᱡᱩᱫᱤ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱵᱷᱚᱨᱥᱟᱦᱟᱜ ᱠᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱞᱮᱛᱟᱲ ᱢᱮ ᱾
+site-permission-install-first-prompt-serial-header = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ ᱥᱤᱨᱤᱭᱟᱞ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱮᱠᱥᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱫᱟᱥ ᱮᱢ ᱠᱟᱱᱟ ᱾ ᱰᱤᱵᱷᱟᱭᱤᱥ ᱮᱠᱥᱮᱥ ᱫᱚ ᱮᱰ-ᱚᱱ ᱤᱱᱥᱴᱚᱞ ᱠᱟᱛᱮ ᱪᱟᱹᱞᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
+site-permission-install-first-prompt-serial-message = ᱱᱚᱶᱟ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱛᱟᱦᱮᱸᱱ ᱵᱟᱭ ᱜᱮᱨᱮᱱᱴᱤᱭᱟᱭ ᱾ ᱡᱩᱫᱤ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱵᱷᱚᱨᱥᱟᱦᱟᱜ ᱠᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱞᱮᱛᱟᱲ ᱢᱮ ᱾
 
 ##
 
