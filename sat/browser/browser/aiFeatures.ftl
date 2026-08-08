@@ -69,3 +69,5 @@ ai-window-memories-section =
     .description = { -brand-short-name } ᱩᱭᱦᱟᱹᱨ ᱵᱮᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ ᱚᱱᱟ ᱠᱚ ᱫᱚ ᱛᱮᱞᱟ ᱠᱚ ᱯᱚᱨᱥᱚᱱᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱟᱨ ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱚᱴᱷᱟᱹᱠᱤᱭᱟᱹ ᱞᱮᱠᱟ ᱡᱟᱣᱨᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 ai-window-learn-from-chat-activity =
     .label = { -smart-window-brand-name } ᱠᱷᱚᱱ ᱪᱟᱴ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+ai-window-learn-from-browsing-activity =
+    .label = ᱠᱞᱟᱥᱤᱠ ᱟᱨ { -smart-window-brand-name(plural-form: "true") } ᱠᱷᱚᱱ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱪᱮᱫᱚᱜ ᱢᱮ
