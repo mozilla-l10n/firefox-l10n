@@ -518,6 +518,7 @@ nova-early-access-infobar-primary-button = Ясна
 ## launch-on-login, taskbar pinning, and session restore.
 
 launch-options-spotlight-title-launch-on-login = Запускаць { -brand-short-name } кожны раз пры ўваходзе ў Windows?
+launch-options-spotlight-title-session-restore = Аднаўляць сеанс пасля перазапуску { -brand-short-name }?
 launch-options-spotlight-checkbox-launch-on-login = Адкрываць { -brand-short-name } пры запуску сістэмы
 launch-options-spotlight-checkbox-pin-to-taskbar = Замацаваць на панэлі задач
 # Shown on the browser-close prompt only
