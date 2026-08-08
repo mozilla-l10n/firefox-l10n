@@ -210,6 +210,7 @@ newtab-privacy-message-info-5 = Al bloquear rastreadores menos empresas podrán 
 newtab-privacy-message-info-5-cta = Ver protecciones
 newtab-privacy-message-info-6 = Protege tus datos con { -brand-short-name }. Nunca vendemos tus datos, pero no todos los navegadores pueden decir lo mismo.
 newtab-privacy-message-info-6-cta = Más información
+newtab-privacy-message-info-8-cta = Más información
 newtab-privacy-message-info-11-cta = Más información
 newtab-privacy-message-info-12 = Bloquear rastreadores puede ayudar a reducir el uso de datos cuando tienes un plan limitado.
 newtab-privacy-message-info-12-cta = Ver protecciones

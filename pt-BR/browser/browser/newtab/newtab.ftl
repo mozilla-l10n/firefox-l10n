@@ -1524,7 +1524,7 @@ newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } contra { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
-    .aria-label = { $homeTeam } contra { $awayTeam }, adiado
+    .aria-label = { $homeTeam } contra { $awayTeam }, atrasado
 # An upcoming match row whose status is "postponed".
 newtab-sports-widget-match-aria-label-upcoming-postponed =
     .aria-label = { $homeTeam } contra { $awayTeam }, adiado
