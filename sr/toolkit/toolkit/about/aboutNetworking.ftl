@@ -19,6 +19,62 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Валидирано
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Изолациони кључ
+about-networking-ssl-tokens = ТЛС жетони
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } жетон
+        [few] { $count } жетона
+       *[other] { $count } жетона
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } истекао)
+        [few] ({ $count } истекла)
+       *[other] ({ $count } истеклих)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% уштеђено)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Кључ партиције
+about-networking-ssl-tokens-tokens-column = Жетони
+about-networking-ssl-tokens-expires = Истиче
+about-networking-ssl-tokens-certificate = Сертификат
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } жетон
+        [few] { $count } жетона
+       *[other] { $count } жетона
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Враћено из складишта
+    .title = Враћено из складишта
+about-networking-ssl-tokens-new =
+    .alt = Ново у овој сесији
+    .title = Ново у овој сесији
+about-networking-ssl-tokens-expired =
+    .alt = Истекао
+    .title = Истекао
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Жетони: { $tokenLength } B. Кодирано: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV сертификат
+about-networking-ssl-tokens-ct-status = Статус транспарентности сертификата
+about-networking-ssl-tokens-overridable-error = Категорија грешке која се може заобићи
+about-networking-ssl-tokens-built-in-root = Уграђени корен
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Ланац сертификата ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Сертификати руковања ({ $count })
 about-networking-refresh = Освежи
 about-networking-auto-refresh = Аутоматско освежавање сваке 3 секунде
 about-networking-hostname = Назив домаћина

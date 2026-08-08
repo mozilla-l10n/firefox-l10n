@@ -625,3 +625,8 @@ smartwindow-sidebar-auto-open-callout-dismiss = Ne, hvala
 smartwindow-sidebar-auto-open-callout-accepted-title = Pomočnik bo ostal zaprt
 smartwindow-sidebar-auto-open-callout-rejected-title = Razumem
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Če si premislite, lahko kadarkoli spremenite privzete <a data-l10n-name="settings">nastavitve</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Izberite temo
+onboarding-theme-picker-button-label = Shrani in nadaljuj

@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Nastavitve …
 menu-application-set-as-default =
     .label = Nastavi { -brand-shorter-name(sklon: "tozilnik") } kot privzeti brskalnik
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Priporoči { -brand-shorter-name(sklon: "tozilnik") }
 menu-application-services =
     .label = Storitve
 menu-application-hide-this =
@@ -216,6 +220,8 @@ menu-history-show-all-history =
     .label = Prikaži vso zgodovino
 menu-history-clear-recent-history =
     .label = Počisti nedavno zgodovino …
+menu-history-remote-tabs-promo =
+    .label = Zavihki ostalih naprav
 menu-history-synced-tabs =
     .label = Sinhronizirani zavihki
 menu-history-restore-last-session =
@@ -372,3 +378,7 @@ menu-help-not-deceptive =
     .accesskey = z
 menu-report-broken-site =
     .label = Prijavi nedelujočo stran
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Priporoči { -brand-shorter-name(sklon: "tozilnik") }
