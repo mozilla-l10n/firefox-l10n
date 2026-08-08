@@ -119,6 +119,12 @@ smart-window-confirm-group-tabs =
     }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Aperir
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Aperir { $count } scheda
+       *[other] Aperir { $count } schedas
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -127,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] Gruppate { $count } scheda
        *[other] Gruppate { $count } schedas
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Gruppo de schedas
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -136,6 +145,35 @@ smart-window-grouped-tabs-summary =
        *[other] Create le gruppo “{ $label }” e addite { $count } schedas.
     }
 smart-window-grouped-tabs-row-label = Schedas regruppate
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Aperite { $count } scheda
+       *[other] Aperite { $count } schedas
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Aperite { $count } scheda.
+       *[other] Aperite { $count } schedas.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Create le gruppo “{ $label }” e aperite { $count } scheda.
+       *[other] Create le gruppo “{ $label }” e aperite { $count } schedas.
+    }
+smart-window-opened-tabs-row-label = Schedas aperte
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Scheda mutate
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Passate a “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Schedas de-gruppate
 # Variables
