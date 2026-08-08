@@ -478,6 +478,14 @@ topsite-label-pinned =
     .aria-label = { $title } (замацавана)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Абвесткі ад { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Толькі што
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

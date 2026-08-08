@@ -23,3 +23,23 @@ menu-history-chats-recent =
     .label = ᱱᱮᱛᱟᱨ ᱪᱟᱴ ᱠᱚ
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
+
+## Smart Window Toggle Button
+
+ai-window-toggleview-switch-classic =
+    .label = ᱠᱞᱟᱥᱤᱠ ᱡᱟᱨᱞᱟ
+    .value = ᱠᱞᱟᱥᱤᱠ ᱡᱟᱨᱞᱟ
+ai-window-toggleview-switch-classic-description =
+    .label = ᱥᱴᱮᱱᱰᱟᱨᱰ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
+    .value = ᱥᱴᱮᱱᱰᱟᱨᱰ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = ᱟᱢ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱥᱟᱶ ᱥᱟᱶᱛᱮ ᱠᱩᱞᱤᱠᱚᱢ
+    .value = ᱟᱢ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱥᱟᱶ ᱥᱟᱶᱛᱮ ᱠᱩᱞᱤᱠᱚᱢ
+ai-window-toggleview-switch-private =
+    .label = ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱚ
+ai-window-toggleview-open-private =
+    .label = ᱱᱟᱶᱟ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
