@@ -126,7 +126,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Lai aktivētu paplašinājumu, ejiet uz <img data-l10n-name="addons-icon"/> Paplašinājumi no <img data-l10n-name="menu-icon"/> izvēlnes.
+extension-controlled-enable = Lai iespējotu paplašinājumu, izvēlnē jādodas uz <img data-l10n-name="addons-icon"/> Paplašinājumi<img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 

@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = Priporoči { -brand-product-name(sklon: "tozilnik") }
 appmenuitem-more-tools =
     .label = Več orodij
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Pomoč in prijava
 appmenuitem-help =
     .label = Pomoč
 appmenuitem-exit2 =
@@ -156,6 +159,12 @@ appmenu-fxa-last-sync = Sinhronizirano ob { $time }
     .label = Sinhronizirano ob { $time }
 appmenu-fxa-sync-and-save-data2 = Sinhroniziraj in shrani podatke
 appmenu-fxa-signed-in-label = Prijava
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Prijava v Sync
+appmenu-fxa-sign-in-promo-message = Imejte svoje podatke kjerkoli
+appmenu-fxa-sign-in-promo-button =
+    .label = Prijava
 appmenu-fxa-setup-sync =
     .label = Vklopi sinhronizacijo …
 appmenu-fxa-setup-sync-new = Vklopi
@@ -251,6 +260,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Prednastavitev za preiskovanje napak v delovanju omrežja v { -brand-shorter-name(sklon: "mestnik") }
 profiler-popup-presets-networking-label =
     .label = Omrežno povezovanje
+profiler-popup-presets-networking-with-logs-description = Prednastavitev za raziskovanje omrežnih napak v { -brand-shorter-name(sklon: "mestnik") }, vključno z omrežnimi dnevniki. Ti dnevniki lahko vsebujejo občutljive podatke, kot so naslovi spletnih strani, ki jih obiskujete.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Omrežje z dnevniki
 profiler-popup-presets-power-description = Prednastavitev za preiskovanje napak pri porabi energije v { -brand-shorter-name(sklon: "mestnik") } z nizko porabo sredstev.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -281,6 +293,22 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Iskanje po zgodovini
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Sinhronizirajte svoje naprave
+appmenu-sync-promo-signin-cta = Prijava
+appmenu-sync-promo-turnonsync =
+    .heading = Sinhronizirajte zavihke in zgodovino
+appmenu-sync-promo-turnonsync-cta = Vklopi sinhronizacijo
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Prevzemite zavihke iz svoje mobilne naprave
+appmenu-sync-promo-connectdevice-cta = Povežite napravo
+
 ## Help panel
 
 appmenu-help-header =
@@ -288,6 +316,11 @@ appmenu-help-header =
 appmenu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Priporoči { -brand-shorter-name }
+    .accesskey = P
 appmenu-get-help =
     .label = Pomoč
     .accesskey = P
@@ -301,6 +334,9 @@ appmenu-help-share-ideas =
     .accesskey = D
 appmenu-help-switch-device =
     .label = Prehod na novo napravo
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Pomoč in prijava
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -339,9 +375,13 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Prijavite se v račun
+appmenuitem-monitor-title2 = Zaščitite se pred krajo identitete
+appmenuitem-monitor-description2 = Prejemajte opozorila o krajah podatkov
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Prejemajte opozorila o krajah podatkov
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Ohranite vašo e-pošto zasebno
+appmenuitem-relay-description2 = Pomaga zaščititi vaš nabiralnik pred neželeno pošto
 appmenuitem-relay-description = Zakrijte svoj pravi e-poštni naslov in telefonsko številko
 appmenuitem-services-relay-description = Odpri pregledno ploščo e-poštnih mask
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }

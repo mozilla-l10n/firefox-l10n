@@ -610,6 +610,7 @@ identity-description-passive-loaded-insecure2 = Spletna stran vsebuje elemente, 
 identity-description-passive-loaded-mixed2 = Čeprav je { -brand-short-name } zavrnil dele vsebine, nekateri drugi deli še vedno niso varni (npr. slike).
 identity-description-active-loaded = Spletna stran vsebuje elemente, ki niso varni (npr. skripti) in vaša povezava nanjo ni zasebna.
 identity-description-active-loaded-insecure = Podatke, ki jih delite s to stranjo, si lahko ogledajo druge osebe (npr. gesla, sporočila in kreditne kartice).
+identity-description-tls-key-logging-heading = Vaša povezava morda ni zasebna
 identity-disable-mixed-content-blocking =
     .label = Onemogoči zaščito za zdaj
     .accesskey = N
@@ -971,6 +972,13 @@ urlbar-result-explanation-bookmarked = Shranjeno med zaznamke { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Nazadnje obiskano { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Nazadnje obiskano { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
