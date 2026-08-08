@@ -35,3 +35,21 @@ inspector-emulation-panel-color-scheme = Emulace barevného schématu
 # A label text for the print emulation options
 inspector-emulation-panel-print = Povolit
     .aria-label = Povolí emulaci tiskových médií
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Světlý
+    .aria-label = Povolit emulaci světlého schématu
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Tmavý
+    .aria-label = Povolit emulaci tmavého barevného schématu
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Žádná emulace
+    .aria-label = Zakázat emulaci barevného schématu
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Redukovat
+    .aria-label = Povolit emulaci omezeného pohybu
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Žádná preference
+    .aria-label = Povolit bez předvolby pro emulaci omezeného pohybu
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Žádná emulace
+    .aria-label = Zakázat emulaci omezeného pohybu

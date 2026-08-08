@@ -37,6 +37,7 @@ url-classifier-cache-prefix = Prefix
 url-classifier-cache-ncache-expiry = Záporná platnost v mezipaměti
 url-classifier-cache-fullhash = Plný hash
 url-classifier-cache-pcache-expiry = Kladná platnost v mezipaměti
+url-classifier-content-classifier-title = Klasifikátor obsahu
 # URL of the resource being tested, i.e. the thing that would be loaded
 # (e.g. an image, script, or tracking pixel).
 url-classifier-content-classifier-url = URL
@@ -65,6 +66,17 @@ url-classifier-content-classifier-probes = Pokusy
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Výsledky
 url-classifier-content-classifier-pbm = Anonymní prohlížení
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Vynutit zobrazení třetí stránky v hlavním rámu
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Nedoporučený doplněk
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Vyzkoušet blokování
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Vyzkoušet anotace
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Funkce
 # Column header: whether the request matched this feature (true/false).

@@ -36,6 +36,15 @@ about-networking-ssl-tokens-summary-expired =
         [many] (platnost { $count } vypršela)
        *[other] (platnost { $count } vypršela)
     }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B (ušetřeno { $saved } %)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } kB ({ $percent } %)
+about-networking-ssl-tokens-partition-key = Klíč oddílu
 about-networking-ssl-tokens-tokens-column = Tokeny
 about-networking-ssl-tokens-expires = Platnost do
 about-networking-ssl-tokens-certificate = Certifikát
@@ -47,12 +56,28 @@ about-networking-ssl-tokens-token-list =
         [many] { $count } tokenů
        *[other] { $count } tokenů
     }
+about-networking-ssl-tokens-restored =
+    .alt = Obnovené z úložiště
+    .title = Obnovené z úložiště
+about-networking-ssl-tokens-new =
+    .alt = Nové v této relaci
+    .title = Nové v této relaci
 about-networking-ssl-tokens-expired =
     .alt = Platnost skončila
     .title = Platnost skončila
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokeny: { $tokenLength } B. Zakódované: { $decompressedLength } → { $compressedLength } B.
 about-networking-ssl-tokens-ev-status = Certifikát EV
 about-networking-ssl-tokens-ct-status = Stav transparentnosti certifikátu
 about-networking-ssl-tokens-overridable-error = Přepsatelná kategorie chyby
+about-networking-ssl-tokens-built-in-root = Vestavěný root
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Řetězec certifikátů ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Certifikáty handshake ({ $count })
 about-networking-refresh = Obnovit
 about-networking-auto-refresh = Automatické obnovení každé 3 sekundy
 about-networking-hostname = Adresa serveru
