@@ -10,6 +10,17 @@ aiwindow-memories-learn-more = اطّلع على المزيد
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = افتح
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = مجموعة اللسان
+smart-window-opened-tabs-row-label = الألسنة المفتوحة
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = الألسنة المُبدلة
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = بُدّل إلى “{ $title }”.
 # Variables
 #   $count (number) - Number of tabs ungrouped
 smart-window-ungroup-success-summary =

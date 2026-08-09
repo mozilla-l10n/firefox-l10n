@@ -298,6 +298,8 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = Mantener sincronizados los dispositivos
 appmenu-sync-promo-signin-cta = Iniciar sesión
 appmenu-sync-promo-turnonsync =
     .heading = Sincronizar pestañas e historial
