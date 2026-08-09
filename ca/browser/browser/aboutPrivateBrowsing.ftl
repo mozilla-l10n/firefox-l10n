@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Qui podria veure la meva activitat?
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = No s'està registrant res
+about-private-browsing-nova-info-subheader2 = Esborrarem totes les cerques i els inicis de sessió quan tanqueu totes les vostres finestres privades. Les proteccions incloses al { -brand-short-name } també estan activades, com ara el bloqueig dels elements de seguiment.
 about-private-browsing-nova-info-subheader = Esborrarem totes les cerques i els inicis de sessió quan tanqueu aquesta finestra. Les proteccions integrades del { -brand-short-name } també estan activades, com ara el bloqueig dels elements de seguiment.

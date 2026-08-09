@@ -126,6 +126,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gestioneu la configuració de les finestres emergents i la redirecció de tercers…
     .accesskey = G
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Mostra la informació del lloc
+            [1] Mostra la informació del lloc (1 element de seguiment blocat)
+            [one] Mostra la informació del lloc ({ $count } element de seguiment blocat)
+           *[other] Mostra la informació del lloc ({ $count } elements de seguiment blocats)
+        }
 
 ##
 
@@ -591,6 +601,8 @@ identity-clear-site-data =
     .label = Esborra les galetes i dades del lloc…
 identity-connection-not-secure-security-view = No esteu connectat de forma segura a aquest lloc.
 identity-connection-verified = Esteu connectat de forma segura a aquest lloc.
+identity-ev-owner-label2 = Certificat emès per a
+identity-verifier-label2 = Verificat per
 identity-ev-owner-label = Certificat emès per a:
 identity-verifier-label = Verificat per:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -610,6 +622,8 @@ identity-description-passive-loaded-insecure2 = Aquest lloc web inclou contingut
 identity-description-passive-loaded-mixed2 = Malgrat que el { -brand-short-name } ha blocat parts del contingut, encara hi ha contingut de la pàgina que no és segur (such as images).
 identity-description-active-loaded = Aquest lloc web inclou contingut que no és segur (com els scripts) i la connexió no és privada.
 identity-description-active-loaded-insecure = La informació que compartiu amb aquest lloc podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).
+identity-description-tls-key-logging-heading = La vostra connexió no és privada
+identity-description-tls-key-logging-message = Una aplicació o un servei pot veure el trànsit xifrat d'aquest lloc.
 identity-disable-mixed-content-blocking =
     .label = Desactiva la protecció aquesta vegada
     .accesskey = D
@@ -956,6 +970,13 @@ urlbar-result-explanation-bookmarked = Es va afegir a les adreces d'interès el 
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = L'heu visitat per darrer cop el dia { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = L'heu visitat per darrer cop el dia { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1561,6 +1582,14 @@ private-browsing-indicator-label = Navegació privada
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Navegació privada
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informació de navegació privada
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Sou en una finestra privada
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Això ajuda a mantenir la vostra navegació oculta als altres usuaris d'aquest dispositiu, però no us fa invisible en línia. <a data-l10n-name="learn-more">Qui podria veure la meva activitat?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1788,6 +1817,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Insegur
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } element de seguiment blocat
+       *[other] { $count } elements de seguiment blocats
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Tradueix la pàgina…
 appmenuitem-zoom =
     .value = Mida de la pàgina
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Comparteix { -brand-product-name }
 appmenuitem-more-tools =
     .label = Més eines
 appmenuitem-help =
@@ -109,6 +113,34 @@ appmenu-remote-tabs-unverified = Cal que verifiqueu el compte.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronitza ara
 appmenuitem-fxa-sign-in = Inicia la sessió al { -brand-product-name }
 appmenuitem-fxa-manage-account = Gestiona el compte
+fxa-menu-sync-status-on = La sincronització està activada
+fxa-menu-sync-status-off = La sincronització està desactivada
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Les vostres dades no s'estan sincronitzant
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Activa
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Inicia la sessió per sincronitzar
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sincronitza { $deviceName } ara
+fxa-menu-add-device =
+    .label = Afegeix un dispositiu
+fxa-menu-device-missing =
+    .label = No veieu el vostre dispositiu?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Tots els dispositius
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Tots els dispositius
+fxa-menu-get-firefox-mobile =
+    .label = Instal·leu el { -brand-product-name } per a l'Android o l'iOS
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Compte
 # Variables
@@ -314,6 +346,8 @@ appmenuitem-relay-description2 = Ajuda a evitar el correu brossa a la safata d'e
 appmenuitem-relay-description = Emmascareu el vostre correu electrònic i telèfon reals
 appmenuitem-services-relay-description = Obre el tauler de màscares d’adreça electrònica
 appmenuitem-vpn-title2 = Amagueu la vostra ubicació amb { -mozilla-vpn-brand-name }
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Obre { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Feu que la vostra navegació sigui més difícil de rastrejar
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtén una protecció integral de tot el dispositiu
@@ -336,9 +370,41 @@ appmenu-manage-profiles =
     .label = Gestiona els perfils
 appmenu-copy-profile =
     .label = Copia aquest perfil
+appmenu-create-profile2 =
+    .label = Crea un perfil nou
 appmenu-create-profile =
     .label = Perfil nou
 appmenu-edit-profile =
     .aria-label = Edita el perfil
+appmenu-edit-this-profile =
+    .label = Edita aquest perfil
+appmenu-profile-current-in-use = Perfil actual en ús
+fxa-menu-create-profile-subpanel =
+    .title = Crea un perfil nou
+fxa-menu-create-profile-confirm =
+    .label = Crea un perfil nou
+fxa-menu-create-profile-learn-more =
+    .label = Què són els perfils?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Comparteix { -brand-short-name }
 appmenu-profiles-2 =
     .label = Perfils
+appmenu-profiles-header = Perfils
+appmenu-all-profiles =
+    .label = Tots els perfils
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Pestanyes recents
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Mostra la pestanya sincronitzada
+           *[other] Mostra les { $tabCount } pestanyes sincronitzades
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Envia la pàgina actual a aquest dispositiu
