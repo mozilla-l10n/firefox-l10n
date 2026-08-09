@@ -160,6 +160,15 @@ smart-window-opened-tabs-summary-single =
         [one] נפתחה לשונית אחת.
        *[other] נפתחו { $count } לשוניות.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] הקבוצה ״{ $label }״ נוצרה ונפתחה לשונית אחת.
+       *[other] הקבוצה ״{ $label }״ נוצרה ונפתחו { $count } לשוניות.
+    }
+smart-window-opened-tabs-row-label = נפתחו לשוניות
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = בוטל הקיבוץ של הלשוניות
 # Variables

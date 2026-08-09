@@ -292,6 +292,17 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = חיפוש בהיסטוריה
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = כניסה
+appmenu-sync-promo-turnonsync =
+    .heading = סנכרון הלשוניות וההיסטוריה שלך
+appmenu-sync-promo-turnonsync-cta = הפעלת סנכרון
+appmenu-sync-promo-connectdevice-cta = שירותים מחוברים
+
 ## Help panel
 
 appmenu-help-header =
