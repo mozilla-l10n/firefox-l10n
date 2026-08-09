@@ -33,6 +33,13 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Saata valmiiksi ja avaa bonus-kettukuvakkeita { -brand-short-name }in personoimiseksi.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Avasit kaikki bonuskuvakkeet!
 appearance-browser-icon-set-default-button =
     .label = Aseta oletukseksi
 appearance-browser-icon-pin-button =
@@ -46,6 +53,8 @@ appearance-browser-icon-retro2004 =
     .label = Retro 2004
 appearance-browser-icon-retro2017 =
     .label = Retro 2017
+appearance-browser-icon-pride =
+    .label = Pride
 appearance-browser-icon-minimal =
     .label = Minimaalinen
 # Kit is the name of the new Firefox mascot, it shouldn't be translated.
@@ -53,3 +62,8 @@ appearance-browser-icon-kit =
     .label = Kit
 appearance-browser-icon-pixelated =
     .label = Pikselöity
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Momo
+    .description = Luonut @heyheymomodraws

@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = ვინაიდან აირჩიე�
 genai-settings-chat-copilot-links = ვინაიდან აირჩიეთ Copilot, ეთანხმებით <a data-l10n-name="link1">პირობებს, რომ გამოიყენოთ Copilot-AI</a> და <a data-l10n-name="link2">პირადულობის დებულებას, რომელსაც ადგენს Microsoft</a>.
 genai-settings-chat-gemini-links = ვინაიდან აირჩიეთ Google Gemini, ეთანხმებით <a data-l10n-name="link1">Google-ის მომსახურების პირობებს</a>, <a data-l10n-name="link2">Generative-AI-ის არამართლზომიერი გამოყენების შეზღუდვებს</a>, აგრეთვე, <a data-l10n-name="link3">Gemini-Apps-ის პირადულობის დებულებას</a>.
 genai-settings-chat-huggingchat-links = ვინაიდან აირჩიეთ HuggingChat, ეთანხმებით <a data-l10n-name="link1">პირადულობის განაცხადს, რომ გამოიყენოთ HuggingChat</a> და <a data-l10n-name="link2">პირადულობის დებულებას, რომელსაც ადგენს Hugging Face</a>.
+genai-settings-chat-lechat-links-2 = ვინაიდან აირჩიეთ Mistral Vibe, ეთანხმებით <a data-l10n-name="link1">მომსახურების პირობებსა</a> და <a data-l10n-name="link2">პირადულობის დებულებას</a>, რომელსაც ადგენს Mistral AI.
 genai-settings-chat-lechat-links = ვინაიდან აირჩიეთ Le Chat Mistral, ეთანხმებით <a data-l10n-name="link1">მომსახურების პირობებსა</a> და <a data-l10n-name="link2">პირადულობის დებულებას</a>, რომელსაც ადგენს Mistral AI.
 genai-settings-chat-localhost-links = დაამატეთ თქვენი საკუთარი ადგილობრივი თანამოსაუბრე, როგორიცაა <a data-l10n-name="link1">llamafile</a>, რომელსაც გთავაზობთ სიახლეების დამნერგავი საზოგადოება { -vendor-short-name }.
 
@@ -170,6 +171,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = უკეთ გაიცანით Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = უკეთ გაიცანით HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral

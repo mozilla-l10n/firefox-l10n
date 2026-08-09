@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Käännä sivu…
 appmenuitem-zoom =
     .value = Sivun suurennus
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Jaa { -brand-product-name }
 appmenuitem-more-tools =
     .label = Lisää työkaluja
 appmenuitem-help =
@@ -277,6 +281,16 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Etsi historiasta
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Kirjaudu sisään
+appmenu-sync-promo-turnonsync =
+    .heading = Synkronoi välilehdet ja historia
+appmenu-sync-promo-turnonsync-cta = Ota synkronointi käyttöön
 
 ## Help panel
 

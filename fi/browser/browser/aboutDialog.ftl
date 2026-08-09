@@ -72,6 +72,7 @@ aboutdialog-submit-feedback = Lähetä palautetta
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> on <label data-l10n-name="community-exp-creditsLink">kansainvälinen yhteisö</label>, joka pyrkii kehittämään avointa, julkista ja kaikkien käytettävissä olevaa Internetiä.
 community-2 = { -brand-short-name(case: "genitive") } on kehittänyt <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">kansainvälinen yhteisö</label>, joka pyrkii kehittämään avointa, julkista ja kaikkien käytettävissä olevaa internetiä.
 helpus = Haluatko auttaa? <label data-l10n-name="helpus-donateLink">Tee lahjoitus</label> tai <label data-l10n-name="helpus-getInvolvedLink">liity joukkoon!</label>
+helpus-referrals = Haluatko auttaa? <label data-l10n-name="helpus-donateLink">Lahjoita</label>, <label data-l10n-name="helpus-shareFirefoxLink">Jaa { -brand-short-name }</label> tai <label data-l10n-name="helpus-getInvolvedLink">osallistu!</label>
 bottomLinks-license = Lisenssitiedot
 bottom-links-terms = Käyttöehdot
 bottom-links-privacy = Tietosuojakäytäntö

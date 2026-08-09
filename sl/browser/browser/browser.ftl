@@ -154,6 +154,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Spremenite, ali lahko prejemate obvestila te strani
 urlbar-midi-notification-anchor =
     .tooltiptext = Odpri ploščo MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Odpri pogled za serijska vrata
 urlbar-eme-notification-anchor =
     .tooltiptext = Upravljajte uporabo programske opreme DRM
 urlbar-web-authn-anchor =
@@ -425,12 +427,16 @@ quickactions-addons = Prikaži dodatke
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = razširitve, teme, dodatki, vtičniki, vstavki
+# Opens preferences page at AI controls
+quickactions-manageai = Upravljaj nastavitve umetne inteligence
+quickactions-cmd-manageai = onemogoči UI, onemogoči AI, izklopi UI, izklopi AI, upravljaj UI, upravljaj AI
 quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Upravljanje zaznamkov
 quickactions-cmd-bookmarks = zaznamki
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Počisti nedavno zgodovino
+quickactions-cmd-clearrecenthistory2 = piškotki, počisti piškotke, predpomnilnik, počisti predpomnilnik, podatki brskanja, počisti podatke brskanja, zgodovina, počisti nedavno zgodovino
 quickactions-cmd-clearrecenthistory = počisti nedavno zgodovino, izbriši zgodovino, zgodovina
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Počisti zgodovino

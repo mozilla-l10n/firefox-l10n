@@ -96,6 +96,9 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Yksityisyys
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Ristisanatehtävä
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Osakkeet
@@ -470,6 +473,23 @@ newtab-topsite-sponsored = Sponsoroitu
 topsite-label-pinned =
     .aria-label = { $title } (kiinnitetty)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Ilmoitukset sivustolta { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Juuri nyt
+newtab-topsites-hover-card-mark-all-read =
+    .title = Merkitse kaikki luetuiksi
+    .aria-label = Merkitse kaikki luetuiksi
+newtab-topsites-hover-card-settings =
+    .title = Ilmoitusten asetukset
+    .aria-label = Ilmoitusten asetukset
+newtab-topsites-hover-card-dismiss =
+    .title = Hylkää
+    .aria-label = Hylkää
 
 ## Context Menu - Action Tooltips.
 
@@ -1159,6 +1179,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Peruuta
     .title = Peruuta
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Lista-asetukset
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Luo uusi lista
@@ -1635,6 +1658,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Hakutulokset
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Lisää “{ $city }” mukautetuksi kelloksi
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Kaupungin nimi
+    .aria-label = Kaupungin nimi
+    .placeholder = Nimeä tämä kello
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Aikavyöhyke
+    .aria-label = Aikavyöhyke
+    .placeholder = Hae kaupungin, aikavyöhykkeen tai UTC-poikkeaman mukaan
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Aikavyöhyketulokset
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Ei vastaavia aikavyöhykkeitä
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Takaisin
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

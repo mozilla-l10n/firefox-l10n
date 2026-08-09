@@ -12,6 +12,10 @@ menu-application-settings =
     .label = პარამეტრები…
 menu-application-set-as-default =
     .label = გახდეს { -brand-shorter-name } ნაგულისხმევი ბრაუზერი
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = გააზიარეთ { -brand-shorter-name }
 menu-application-services =
     .label = მომსახურებები
 menu-application-hide-this =
@@ -374,3 +378,7 @@ menu-help-not-deceptive =
     .accesskey = ე
 menu-report-broken-site =
     .label = არეული საიტის მოხსენება
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = გააზიარეთ { -brand-shorter-name }
