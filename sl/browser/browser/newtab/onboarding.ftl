@@ -629,4 +629,5 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Če si premislite, lah
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Izberite temo
+onboarding-theme-picker-subtitle = Dodajte { -brand-short-name(sklon: "dajalnik") } malo barve.
 onboarding-theme-picker-button-label = Shrani in nadaljuj

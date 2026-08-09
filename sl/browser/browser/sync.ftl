@@ -79,6 +79,8 @@ fxa-menu-sign-in-promo-button =
 # a reason, and a button to sign back in.
 fxa-menu-signed-out-sign-in-button =
     .label = Prijava
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Ste odjavljeni
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Dokončaj nastavitev
 fxa-avatar-sign-in = Prijava

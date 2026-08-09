@@ -147,6 +147,19 @@ sidebar-bookmarks-context-menu-delete-separator =
 sidebar-opentabs-context-close-tab =
     .label = Zapri zavihek
 
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Razvrsti po
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Vrstnem redu zavihkov
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Času zadnje uporabe
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

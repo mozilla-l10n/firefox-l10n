@@ -483,7 +483,7 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-split-layout-title =
     { PLATFORM() ->
-        [macos] Obdržite si { -brand-short-name(sklon: "tozilnik") } na dosegu roke
+        [macos] Obdržite { -brand-short-name(sklon: "tozilnik") } na dosegu roke
        *[other] Odpiraj vse povezave v { -brand-short-name(sklon: "mestnik") }
     }
 set-default-menu-message-primary-button = Nastavi kot privzeto
@@ -513,6 +513,7 @@ nova-early-access-infobar-primary-button = Razumem
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = Ali želite, da se { -brand-short-name } zažene vsakič, ko se prijavite v Windows?
 launch-options-spotlight-checkbox-launch-on-login = Odpri { -brand-short-name(sklon: "tozilnik") } ob zagonu računalnika
 launch-options-spotlight-checkbox-pin-to-taskbar = Pripni v opravilno vrstico
 # Primary button on the browser-close prompt

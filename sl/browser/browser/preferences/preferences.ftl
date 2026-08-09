@@ -876,6 +876,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Začni iskati ob začetku tipkanja
     .accesskey = k
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Prilagodi bližnjice na tipkovnici
 settings-media-group =
     .label = Predstavnost
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1209,6 +1211,9 @@ containers-remove-button =
     .label = Odstrani
 containers-section-header2 =
     .heading = Nastavitve vsebnikov
+containers-card-header2 =
+    .label = Vsebniki
+    .description = Ločite piškotke po vsebnikih, da lahko isto spletno mesto uporabljate z različnimi računi in omejite sledenje med spletnimi mesti.
 containers-add-button2 =
     .label = Dodaj nov vsebnik
     .accesskey = a
@@ -2510,6 +2515,8 @@ browser-theme-group =
     .description = Preoblecite { -brand-short-name(sklon: "tozilnik") } po svoje. Barve tem veljajo za orodne vrstice, menije in sporočila.
 browser-theme-manage-link =
     .label = Upravljanje tem { -brand-short-name(sklon: "rodilnik") }
+appearance-window-density-radio-group =
+    .aria-label = Gostota oken
 related-settings-group =
     .label = Sorodne nastavitve
 related-settings-accessibility-link =
@@ -2636,6 +2643,8 @@ preferences-etp-level-custom =
     .description = Izberite, pred čim se želite zaščititi in kaj želite dopustiti.
 preferences-etp-status-advanced-button =
     .label = Napredne nastavitve
+preferences-etp-tracker-count-enabled =
+    .label = Prikaži blokirane sledilce v naslovni vrstici
 preferences-etp-status-protections-dashboard-link =
     .label = Ogled osebne nadzorne plošče zaščit
     .description = Oglejte si, koliko skritih sledilcev je { -brand-short-name } blokiral za vas, vključno s sledilci družbenih omrežij, sledilci prstnih odtisov in kriptorudarji.
@@ -2731,6 +2740,11 @@ security-privacy-issue-warning-proxy-autodetection =
 
 ## Referrals Section
 
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Priporoči { -brand-short-name(sklon: "tozilnik") }
+    .description = Povabite nekoga, naj izbere brskalnik, ki postavlja zasebnost na prvo mesto.
 # Link that opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =

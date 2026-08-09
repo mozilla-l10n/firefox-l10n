@@ -404,6 +404,15 @@ topsite-label-pinned =
     .aria-label = { $title } (pripeto)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+newtab-topsites-hover-card-settings =
+    .title = Nastavitve obvestil
+    .aria-label = Nastavitve obvestil
+newtab-topsites-hover-card-dismiss =
+    .title = V redu
+    .aria-label = V redu
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -1109,6 +1118,8 @@ newtab-widget-lists-dropdown-create =
     .label = + Ustvari nov seznam
 newtab-widget-lists-name-label-default =
     .label = Seznam opravil
+newtab-widget-lists-name-label-checklist =
+    .label = Kontrolni seznam
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Seznam opravil
 newtab-widget-lists-name-placeholder-checklist2 =
@@ -1161,6 +1172,7 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Prikaži manj pripomočkov
+newtab-widget-lists-name-default = Kontrolni seznam
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1190,6 +1202,8 @@ newtab-daily-briefing-card-menu-dismiss = Skrij
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = Posodobljeno pred { $minutes } min
 newtab-widget-message-title = Ostanite osredotočeni s seznami in vgrajenim časovnikom
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Vse na enem mestu: osredotočenost, vreme in drugo
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1529,6 +1543,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Rezultati iskanja
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Dodaj "{ $city }" kot uro po meri
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Ime mesta
+    .aria-label = Ime mesta
+    .placeholder = Poimenujte uro
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Časovni pas
+    .aria-label = Časovni pas
+    .placeholder = Iščite po mestu, časovnem pasu ali odmiku od UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Zadetki: Časovni pasovi
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Ni ujemajočih se časovnih pasov
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Nazaj
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
