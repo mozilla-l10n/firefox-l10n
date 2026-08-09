@@ -62,3 +62,11 @@ aiwindow-input-cta-menu-label-navigate = ᱥᱟᱭᱤᱴ ᱨᱮ ᱪᱟᱞᱟᱜ 
 aiwindow-input-cta-menu-label-search = { $searchEngineName } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱢᱮ
 aiwindow-input-cta-menu-label-search-with = ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ…
 aiwindow-input-cta-search-submenu-header = ᱥᱮᱸᱫᱽᱨᱟ
+aiwindow-input-cta-stop-button =
+    .title = ᱛᱮᱞᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .aria-label = ᱛᱮᱞᱟ ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = ᱠᱩᱞᱤ ᱢᱮ, ᱥᱮᱸᱫᱽᱨᱟ ᱢᱮ, ᱟᱨᱵᱟᱝ ᱢᱤᱫ URL ᱚᱞ ᱢᱮ
