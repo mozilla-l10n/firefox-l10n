@@ -297,11 +297,21 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = להישאר מסונכרן בין מכשירים
 appmenu-sync-promo-signin-cta = כניסה
 appmenu-sync-promo-turnonsync =
     .heading = סנכרון הלשוניות וההיסטוריה שלך
 appmenu-sync-promo-turnonsync-cta = הפעלת סנכרון
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = קבלת הלשוניות שלך מהנייד
 appmenu-sync-promo-connectdevice-cta = שירותים מחוברים
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = להביא את הסימניות שלך יחד איתך
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = לקחת את הסימניות שלך איתך
 
 ## Help panel
 

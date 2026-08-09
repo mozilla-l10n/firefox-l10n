@@ -169,6 +169,11 @@ smart-window-opened-tabs-summary-group =
        *[other] הקבוצה ״{ $label }״ נוצרה ונפתחו { $count } לשוניות.
     }
 smart-window-opened-tabs-row-label = נפתחו לשוניות
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = בוצע מעבר בין לשוניות
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = בוצע מעבר ללשונית ״{ $title }״.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = בוטל הקיבוץ של הלשוניות
 # Variables
