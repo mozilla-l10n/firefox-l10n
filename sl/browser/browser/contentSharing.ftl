@@ -29,6 +29,8 @@ content-sharing-modal-sign-in-2 =
     .label = Za deljenje se prijavite
 content-sharing-modal-title-2 = Delite te strani s komerkoli
 content-sharing-modal-title-signed-in = Povezave so pripravljene na deljenje
+content-sharing-modal-description-2 = Prijavite se, da ustvarite stran s povezavami, ki jo lahko enostavno delite. Strani ni mogoče urejati ali izbrisati, poteče pa po 7 dneh.
+content-sharing-modal-description-signed-in = Pripravili smo stran s povezavami, ki jo lahko enostavno delite. Strani ni mogoče urejati ali izbrisati, poteče pa po 7 dneh.
 content-sharing-modal-policy = Z uporabo soglašate z našim <a data-l10n-name="aup-link">pravilnikom o sprejemljivi uporabi</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.

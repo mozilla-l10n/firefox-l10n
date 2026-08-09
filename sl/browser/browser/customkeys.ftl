@@ -111,5 +111,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Išči bližnjice
     .placeholder = Išči bližnjice
+customkeys-description = Nadzirajte, kako upravljate s { -brand-short-name(sklon: "orodnik") }.
 customkeys-support-link-text = Več o tem
 customkeys-reset-all-button = Obnovi privzeto

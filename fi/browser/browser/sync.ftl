@@ -59,6 +59,23 @@ fxa-menu-send-tab-to-device-description = Lähetä välilehti välittömästi mi
 fxa-menu-sign-out =
     .label = Kirjaudu ulos…
 fxa-menu-sync-description = Verkkosi missä tahansa
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Hallinnoi tiliä
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Kirjaudu sisään synkronoidaksesi
+fxa-menu-sign-in-promo-button =
+    .label = Kirjaudu sisään
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Kirjaudu sisään
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Olet kirjautunut ulos
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Viimeistele määritys
 fxa-avatar-sign-in = Kirjaudu sisään
 fxa-avatar-sign-up = Rekisteröidy
 fxa-avatar-tooltip =

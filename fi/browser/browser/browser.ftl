@@ -612,6 +612,8 @@ identity-description-passive-loaded-insecure2 = Tällä sivulla on suojaamatonta
 identity-description-passive-loaded-mixed2 = Vaikka { -brand-short-name } on osittain estänyt suojaamattoman sisällön, osa näkyvästä sisällöstä on edelleen suojaamatonta (kuten kuvat).
 identity-description-active-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten komentosarjoja) eikä yhteytesi sivustoon ei ole yksityinen.
 identity-description-active-loaded-insecure = Sivullisten on mahdollista tarkastella antamiasi tietoja (esim. salasanoja, viestejä, luottokorttitietoja).
+identity-description-tls-key-logging-heading = Yhteytesi ei välttämättä ole suojattu
+identity-description-tls-key-logging-message = Sovellus tai palvelu saattaa nähdä salatun liikenteesi tältä sivustolta.
 identity-disable-mixed-content-blocking =
     .label = Poista suojaus käytöstä
     .accesskey = P
@@ -1123,6 +1125,12 @@ urlbar-searchmode-no-keyword2 =
     .title = Avainsanahaku on poistettu käytöstä
 urlbar-searchmode-dropmarker2 =
     .title = Valitse hakukone
+urlbar-searchmode-bookmarks3 = Kirjanmerkit
+    .accesskey = K
+urlbar-searchmode-tabs3 = Välilehdet
+    .accesskey = V
+urlbar-searchmode-history3 = Sivuhistoria
+    .accesskey = S
 urlbar-searchmode-bookmarks2 = Kirjanmerkit
 urlbar-searchmode-tabs2 = Välilehdet
 urlbar-searchmode-history2 = Sivuhistoria
@@ -1142,6 +1150,10 @@ urlbar-searchmode-popup-one-off-header = Tällä kertaa käytä hakuun:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Hae palvelulla:
+urlbar-searchmode-popup-search-settings = Hakuasetukset
+    .accesskey = H
+urlbar-searchmode-popup-settings = Asetukset
+    .accesskey = A
 urlbar-searchmode-popup-search-settings-panelitem = Hakuasetukset
 urlbar-searchmode-popup-settings-panelitem = Asetukset
 
@@ -1559,6 +1571,11 @@ private-browsing-indicator-label = Yksityinen selaus
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Yksityinen selaus
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Yksityisen selauksen tiedot
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Olet yksityisessä ikkunassa
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

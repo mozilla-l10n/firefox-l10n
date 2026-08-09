@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = შეასრულეთ და მიიღეთ ჯილდოდ მელიის ხატულები, რომ უკეთ მოირგოთ { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = თქვენ გახსენით ყველა სასაჩუქრე ხატულა!
 appearance-browser-icon-set-default-button =
     .label = ნაგულისხმევად დაყენება
 appearance-browser-icon-pin-button =

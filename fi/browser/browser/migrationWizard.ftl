@@ -191,6 +191,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Valmis
 migration-safari-password-import-header = Tuo salasanat Safarista
+migration-safari-password-import-post-sequoia-step3 = Tallenna tiedosto
+migration-safari-password-import-post-sequoia-step4 = Valitse tallentamasi tiedosto
 migration-safari-password-import-steps-header = Tuo Safari-salasanat seuraavasti:
 migration-safari-password-import-step1 = Avaa Safari, napsauta “Safari”-valikkoa vasemmasta yläkulmasta ja valitse Asetukset > Salasanat
 migration-safari-password-import-step2 = Napsauta <img data-l10n-name="safari-icon-3dots"/>-painiketta ja valitse “Vie kaikki salasanat”
@@ -203,6 +205,7 @@ migration-chrome-windows-password-import-step2 = Valitse valikosta “Asetukset�
 migration-chrome-windows-password-import-step3 = Valitse “Lataa tiedosto” ja tallenna se laitteellesi.
 migration-chrome-windows-password-import-step4 = Palaa tänne ja valitse “Valitse tiedosto” tuonnin loppuun saattamiseksi.
 migration-manual-password-import-skip-button = Ohita
+migration-manual-password-import-cancel-button = Peruuta
 migration-manual-password-import-select-button = Valitse tiedosto
 migration-safari-password-import-skip-button = Ohita
 migration-safari-password-import-select-button = Valitse tiedosto

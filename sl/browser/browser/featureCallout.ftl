@@ -128,6 +128,8 @@ taskbar-tabs-chat-callout-title = Klepet v opravilni vrstici
 taskbar-tabs-chat-callout-subtitle = Odprite spletni klepetalnik v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
 taskbar-tabs-email-callout-title = Imejte e-pošto pri roki v opravilni vrstici
 taskbar-tabs-email-callout-subtitle = Odprite svojo spletno pošto v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
+taskbar-tabs-media-callout-title = Nadaljujte s pretakanjem neposredno iz opravilne vrstice
+taskbar-tabs-media-callout-subtitle = Odprite svoja pretočna spletna mesta v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Dodajte si to stran v opravilno vrstico
 taskbar-tabs-value-prop-callout-subtitle = Zaženite jo v svojem oknu in v poenostavljenem vmesniku z enim klikom.
 

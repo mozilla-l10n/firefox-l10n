@@ -15,10 +15,13 @@ unified-extensions-discover-extensions =
     .label = Löydä laajennuksia
 unified-extensions-empty-reason-private-browsing-not-allowed = Sinulla on asennettuna laajennuksia, mutta ne eivät ole käytössä yksityisissä ikkunoissa
 unified-extensions-empty-reason-extension-not-enabled = Sinulla on asennettuja laajennuksia, mutta ne eivät ole käytössä
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Muutamalla laajennuksella pääsee pitkälle
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Nosta selaamisen tasoa laajennuksilla
 unified-extensions-empty-content-explain-enable2 = Ota ne käyttöön valitsemalla ”{ unified-extensions-manage-extensions.label }” asetuksista.
 unified-extensions-empty-content-explain-manage2 = Hallitse niitä valitsemalla ”{ unified-extensions-manage-extensions.label }” asetuksista.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Meillä on suosituksia, jotka auttavat sinua parantamaan keskittymistä, yksityisyyttä ja muita ominaisuuksia.
 unified-extensions-empty-content-explain-extensions-onboarding = Mukauta { -brand-short-name }ia muuttamalla sen ulkoasua ja suorituskykyä tai parantamalla yksityisyyttä sekä turvallisuutta.
 
 ## An extension in the main list

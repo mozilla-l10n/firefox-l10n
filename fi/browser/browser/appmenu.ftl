@@ -145,6 +145,8 @@ fxa-menu-all-devices-panel =
     .title = Kaikki laitteet
 fxa-menu-get-firefox-mobile =
     .label = Hanki { -brand-product-name } Androidille tai iOS:lle
+fxa-menu-secure-sync-subpanel =
+    .title = Suojattu synkronointi
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Tili
 # Variables
@@ -154,6 +156,11 @@ appmenu-fxa-last-sync = Viimeksi synkronoitu { $time }
     .label = Viimeksi synkronoitu { $time }
 appmenu-fxa-sync-and-save-data2 = Synkronoi ja tallenna tiedot
 appmenu-fxa-signed-in-label = Kirjaudu
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Kirjaudu synkronoidaksesi
+appmenu-fxa-sign-in-promo-button =
+    .label = Kirjaudu sisään
 appmenu-fxa-setup-sync =
     .label = Ota synkronointi käyttöön…
 appmenu-fxa-setup-sync-new = Ota käyttöön
@@ -291,6 +298,12 @@ appmenu-sync-promo-signin-cta = Kirjaudu sisään
 appmenu-sync-promo-turnonsync =
     .heading = Synkronoi välilehdet ja historia
 appmenu-sync-promo-turnonsync-cta = Ota synkronointi käyttöön
+appmenu-sync-promo-connectdevice-cta = Yhdistä laite
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Ota kirjanmerkit mukaasi
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Ota kirjanmerkit mukaan
 
 ## Help panel
 
@@ -299,6 +312,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Tietoja: { -brand-shorter-name }
     .accesskey = T
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Jaa { -brand-shorter-name }
+    .accesskey = J
 appmenu-get-help =
     .label = Etsi ohjeita
     .accesskey = h
@@ -357,9 +375,13 @@ appmenuitem-monitor-description = Vastaanota tietovuotovaroituksia
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Pidä sähköpostisi yksityisenä
 appmenuitem-relay-description2 = Auttaa estämään roskapostia
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Näytä sähköpostimaskit
 appmenuitem-relay-description = Peitä oikea sähköpostiosoitteesi ja puhelinnumerosi
 appmenuitem-services-relay-description = Käynnistä sähköpostimaskien hallintapaneeli
 appmenuitem-vpn-title2 = Piilota sijaintisi { -mozilla-vpn-brand-name }:llä
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Avaa { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Tee selaamisestasi vaikeammin jäljitettävää
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Hanki koko laitteen suojaus
@@ -397,8 +419,28 @@ fxa-menu-create-profile-confirm =
     .label = Luo uusi profiili
 fxa-menu-create-profile-learn-more =
     .label = Mitä profiilit ovat?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Jaa { -brand-short-name }
+appmenuitem-share-firefox-description = Kutsu joku yksityisyyden etusijalle asettavan selaimen pariin
 appmenu-profiles-2 =
     .label = Profiilit
 appmenu-profiles-header = Profiilit
 appmenu-all-profiles =
     .label = Kaikki profiilit
+appmenu-secure-sync-header = Suojattu synkronointi
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Viimeisimmät välilehdet
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Näytä synkronoitu { $tabCount } välilehti
+           *[other] Näytä kaikki { $tabCount } synkronoitua välilehteä
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Lähetä nykyinen sivu tähän laitteeseen

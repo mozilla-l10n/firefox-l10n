@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = თქვენი ტელე�
 firefoxview-tabpickup-step-signin-primarybutton = განაგრძეთ
 firefoxview-syncedtabs-signin-header-2 = თქვენი { -brand-product-name } ყველა თქვენს მოწყობილობაზე
 firefoxview-syncedtabs-signin-description-2 = ტელეფონსა და სხვა მოწყობილობებზე გახსნილი ჩანართების სანახავად შედით ან შექმენით ანგარიში. ანგარიშით ასევე შეგიძლიათ დაასინქრონოთ თქვენი პაროლები, ისტორია და სხვ.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = ნოუთბუქიდან ტელეფონამდე, შეუფერხებლად
+firefoxview-syncedtabs-signin-description-3 = შეინარჩუნეთ გვერდების მონახულებისას უწყვეტობა — ჩანართების, პაროლების, ისტორიის დასინქრონებით.
 firefoxview-syncedtabs-signin-primarybutton-2 = შესვლა
 firefoxview-tabpickup-adddevice-header = დაასინქრონეთ { -brand-product-name } თქვენს ტელეფონსა და პლანშეტზე
 firefoxview-tabpickup-adddevice-description = ჩამოტვირთეთ { -brand-product-name } მობილურზე და იქიდანაც შედით.
@@ -40,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = გადმოწერეთ {
 firefoxview-syncedtabs-adddevice-header-2 = წამოიღეთ ჩანართები ნებისმიერი ადგილიდან
 firefoxview-syncedtabs-adddevice-description-2 = შედით ანგარიშით ტელეფონზე ან სხვა კომპიუტერზე, სადაც გიყენიათ { -brand-product-name }, რომ იხილოთ ჩანართები აქ. ვრცლად, თუ როგორ უნდა <a data-l10n-name="url">დააკავშიროთ დამატებითი მოწყობილობები</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = მოსინჯეთ{ -brand-product-name } მობილურზე
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = თქვენი ჩანართები გადმორეკილია. იხილავთ ტელეფონზე.
 firefoxview-tabpickup-synctabs-header = ჩანართთა დასინქრონების ჩართვა
 firefoxview-tabpickup-synctabs-description = საჭიროა ნებართვა, რომ { -brand-short-name } შეძლებს ჩანართების გაზიარებას.
 firefoxview-tabpickup-synctabs-learn-how = იხილეთ, როგორ

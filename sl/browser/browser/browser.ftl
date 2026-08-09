@@ -629,6 +629,7 @@ identity-description-passive-loaded-mixed2 = Čeprav je { -brand-short-name } za
 identity-description-active-loaded = Spletna stran vsebuje elemente, ki niso varni (npr. skripti) in vaša povezava nanjo ni zasebna.
 identity-description-active-loaded-insecure = Podatke, ki jih delite s to stranjo, si lahko ogledajo druge osebe (npr. gesla, sporočila in kreditne kartice).
 identity-description-tls-key-logging-heading = Vaša povezava morda ni zasebna
+identity-description-tls-key-logging-message = Aplikacija ali storitev lahko vidi vaš šifriran promet s tega spletnega mesta.
 identity-disable-mixed-content-blocking =
     .label = Onemogoči zaščito za zdaj
     .accesskey = N
@@ -1621,6 +1622,9 @@ private-browsing-indicator-button =
     .tooltiptext = Informacije o zasebnem brskanju
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Ste v zasebnem oknu
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = To pomaga, da vaše brskanje ostane skrito pred drugimi uporabniki te naprave, vendar vas ne naredi nevidnih na spletu. <a data-l10n-name="learn-more">Kdo lahko vidi mojo dejavnost?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

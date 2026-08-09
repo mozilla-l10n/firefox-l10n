@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Če želite tukaj prikazati zavi
 firefoxview-tabpickup-step-signin-primarybutton = Nadaljuj
 firefoxview-syncedtabs-signin-header-2 = Vaš { -brand-product-name } na vseh napravah
 firefoxview-syncedtabs-signin-description-2 = Če si želite ogledati zavihke, ki jih imate odprte na telefonu in drugih napravah, se prijavite ali ustvarite račun. Z računom lahko sinhronizirate tudi gesla, zgodovino in drugo.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Preprosto preklapljajte med prenosnikom in telefonom
+firefoxview-syncedtabs-signin-description-3 = Vaše brskanje naj bo povezano na vseh napravah — zavihki, gesla in zgodovina bodo vedno usklajeni.
 firefoxview-syncedtabs-signin-primarybutton-2 = Prijava
 firefoxview-tabpickup-adddevice-header = Sinhronizirajte { -brand-product-name } s telefonom ali tablico
 firefoxview-tabpickup-adddevice-description = Prenesite { -brand-product-name } za mobilne naprave in se prijavite vanj.
@@ -40,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Prenesi { -brand-product-name } 
 firefoxview-syncedtabs-adddevice-header-2 = Zajemite zavihke od koderkoli
 firefoxview-syncedtabs-adddevice-description-2 = Za ogled zavihkov se prijavite v { -brand-product-name } na telefonu ali drugem računalniku. Naučite se, kako <a data-l10n-name="url">povežete dodatne naprave</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Preizkusite { -brand-product-name } za mobilne naprave
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Vaši zavihki so vas poklicali. Najdete jih na svojem telefonu.
 firefoxview-tabpickup-synctabs-header = Vklopi sinhronizacijo zavihkov
 firefoxview-tabpickup-synctabs-description = { -brand-short-name(sklon: "dajalnik") } dovoli skupno rabo zavihkov med napravami.
 firefoxview-tabpickup-synctabs-learn-how = Poglejte, kako
