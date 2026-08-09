@@ -43,3 +43,22 @@ ai-window-toggleview-switch-private =
 ai-window-toggleview-open-private =
     .label = ᱱᱟᱶᱟ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = ᱠᱞᱟᱥᱤᱠ ᱡᱟᱨᱞᱟ
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } ᱵᱚᱫᱚᱞᱤᱭᱟᱹ
+    .tooltiptext = ᱥᱢᱟᱨᱴ ᱟᱨ ᱠᱞᱟᱥᱤᱠ ᱡᱟᱨᱞᱟ ᱠᱚ ᱛᱟᱞᱟ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
+
+## Input CTA
+
+aiwindow-input-cta-submit-label-chat = ᱠᱩᱠᱞᱤ ᱢᱮ
+aiwindow-input-cta-submit-label-navigate = ᱪᱟᱞᱟᱜ ᱢᱮ
+aiwindow-input-cta-submit-label-search = ᱥᱮᱸᱫᱽᱨᱟ
+aiwindow-input-cta-submit-label-stop = ᱛᱤᱝᱜᱩᱭ ᱢᱮ
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = ᱛᱮᱞᱟ ᱛᱮᱭᱟᱨ ᱮᱦᱚᱵ ᱮᱱᱟ
+aiwindow-input-cta-menu-label-chat = ᱠᱩᱠᱞᱤ ᱢᱮ
+aiwindow-input-cta-menu-label-navigate = ᱥᱟᱭᱤᱴ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = { $searchEngineName } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱢᱮ
+aiwindow-input-cta-menu-label-search-with = ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ…
+aiwindow-input-cta-search-submenu-header = ᱥᱮᱸᱫᱽᱨᱟ
