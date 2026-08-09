@@ -81,3 +81,18 @@ add-engine-invalid-protocol = Aquest URL no sembla correcte. Feu servir un URL q
 add-engine-missing-terms-url = Proveu d'incloure %s en el lloc del terme de cerca.
 # This error is shown when the user typed post data is missing %s.
 add-engine-missing-terms-post-data = Proveu d'incloure %s en el lloc del terme de cerca.
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Afegeix un motor
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Avançat
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Desa el motor
+    .buttonlabelextra1 = Avançat
+    .buttonaccesskeyaccept = s

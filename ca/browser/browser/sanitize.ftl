@@ -79,12 +79,26 @@ item-active-logins =
 item-cache =
     .label = Memòria cau
     .accesskey = M
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Fitxers i pàgines emmagatzemats temporalment a la memòria cau ({ $amount } { $unit })
+    .accesskey = F
+item-cached-content =
+    .label = Fitxers i pàgines emmagatzemats temporalment a la memòria cau
+    .accesskey = F
+item-cached-content-description = Esborra els elements que ajuden a que els llocs web es carreguin més ràpid
 item-form-search-history =
     .label = Historial de formularis i de cerques
     .accesskey = F
 item-site-prefs =
     .label = Paràmetres del lloc
     .accesskey = P
+item-formdata-prefs =
+    .label = Informació de formularis desats
+    .accesskey = o
+item-site-prefs-description = Restableix els permisos i les preferències del lloc a la configuració original
 data-section-label = Dades
 item-site-settings =
     .label = Paràmetres del lloc

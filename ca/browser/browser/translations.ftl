@@ -85,6 +85,14 @@ translations-panel-error-change-button =
     .label = Canvia la llengua d'origen
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from this language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known-2 = Encara no admetem traduccions de { $language }.
+translations-panel-error-unsupported-hint-unknown-2 = Encara no admetem traduccions d'aquesta llengua.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
 #
 # Variables:
@@ -219,6 +227,8 @@ select-translations-panel-translate-button =
     .label = Tradueix
 select-translations-panel-try-again-button =
     .label = Torna-ho a provar
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = El text traduït apareixerà aquí.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = S’està traduint…
 select-translations-panel-init-failure-message =

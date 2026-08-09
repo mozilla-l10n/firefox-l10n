@@ -33,3 +33,16 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Envieu una pestanya instantàniament a qualsevol dispositiu on hàgiu iniciat la sessió.
 fxa-menu-sign-out =
     .label = Tanca la sessió…
+fxa-avatar-sign-up = Subscriviu-vos
+fxa-avatar-tooltip =
+    .tooltiptext = Inicieu la sessió al vostre compte
+sync-setup-verify-title = Avís de combinació
+sync-setup-verify-heading = Esteu segur que voleu iniciar la sessió per sincronitzar?
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = S'ha assolit el límit de comptes per a aquest perfil
+sync-profile-different-account-header = Aquest perfil s'havia sincronitzat prèviament amb un altre compte
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Aquest compte ja s'usa

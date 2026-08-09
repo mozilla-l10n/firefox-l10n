@@ -11,6 +11,8 @@
 unified-extensions-header-title = Extensions
 unified-extensions-manage-extensions =
     .label = Gestiona les extensions
+unified-extensions-discover-extensions =
+    .label = Descobriu extensions
 
 ## An extension in the main list
 
@@ -47,3 +49,4 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .message = Per protegir les vostres dades, algunes extensions no poden llegir ni canviar les dades d'aquest lloc. Utilitzeu els paràmetres de l'extensió per permetre-la en els llocs restringits per { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Més informació
     .aria-label = Més informació: No es permeten algunes extensions
+unified-extensions-mb-about-addons-link = Aneu a la configuració de l'extensió

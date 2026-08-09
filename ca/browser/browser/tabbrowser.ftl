@@ -183,9 +183,15 @@ tabbrowser-customizemode-tab-title = Personalitzeu el { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Silencia la pestanya
     .accesskey = S
+tabbrowser-context-mute-tab2 =
+    .label = Silencia
+    .accesskey = S
 tabbrowser-context-unmute-tab =
     .label = No silenciïs la pestanya
     .accesskey = s
+tabbrowser-context-unmute-tab2 =
+    .label = No silenciïs
+    .accesskey = N
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Silencia les pestanyes
@@ -254,6 +260,9 @@ tab-group-editor-color-selector2-gray = Gris
     .title = Gris
 tab-group-editor-color-selector2-red = Vermell
     .title = Vermell
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — Tancat
 tab-group-description = { $tabGroupName } — Grup de pestanyes
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Reduït
 tab-group-label-tooltip-expanded = { $tabGroupName } — Ampliat
@@ -262,6 +271,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = Grup sense nom
 tab-group-name-default = Grup sense nom
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Grups de pestanyes
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -305,6 +322,14 @@ tab-group-editor-action-new-tab =
     .label = Pestanya nova al grup
 tab-group-editor-action-new-window =
     .label = Mou el grup a una finestra nova
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Copia un enllaç del grup
+           *[other] Copia { $linkCount } enllaços del grup
+        }
 tab-group-editor-action-save =
     .label = Desa i tanca el grup
 tab-group-editor-action-ungroup =
@@ -314,6 +339,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Fet
     .accessKey = F
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Compartiu el grup de pestanyes
 tab-context-reopen-tab-group =
     .label = Torna a obrir el grup de pestanyes
 # Variables:
@@ -335,6 +363,12 @@ tab-group-overflow-count-tooltip =
         [one] { $tabCount } pestanya més
        *[other] { $tabCount } pestanyes més
     }
+
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Endreceu les pestanyes
 
 ## Open/saved tab group context menu
 
@@ -382,6 +416,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Desa
     .accesskey = s
+tab-note-editor-button-delete =
+    .title = Suprimeix la nota
+    .accesskey = d
+    .aria-label = Suprimeix la nota
+tab-note-preview-edit-icon =
+    .alt = Edita la nota
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Més informació
 tab-note-panel-add-note-new-badge =

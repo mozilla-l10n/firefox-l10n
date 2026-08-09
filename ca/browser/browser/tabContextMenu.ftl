@@ -123,6 +123,28 @@ tab-context-move-tabs =
            *[other] Mou les pestanyes
         }
     .accesskey = M
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Envia a un dispositiu
+            [one] Envia { $tabCount } pestanya a un dispositiu
+           *[other] Envia { $tabCount } pestanyes a un dispositiu
+        }
+    .accesskey = n
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Envia al mòbil
+            [one] Envia { $tabCount } pestanya al mòbil
+           *[other] Envia { $tabCount } pestanyes al mòbil
+        }
+    .accesskey = n
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Creeu un enllaç compartible
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

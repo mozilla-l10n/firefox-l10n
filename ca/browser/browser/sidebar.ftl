@@ -6,8 +6,16 @@ menu-view-genai-chat =
     .label = Bot de conversa d’IA
 menu-view-contextual-password-manager =
     .label = Contrasenyes
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Pestanyes obertes
 sidebar-options-menu-button =
     .title = Obre el menú
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Canvia la mida de la barra lateral
 
 ## Labels for sidebar history panel
 
@@ -58,6 +66,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Gestiona els paràmetres del { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Pestanyes verticals
+sidebar-settings2 =
+    .label = Paràmetres
 sidebar-settings =
     .label = Configuració de la barra lateral
 sidebar-hide-tabs-and-sidebar =
@@ -70,6 +80,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Desplega la barra lateral en passar-hi el ratolí per sobre
+sidebar-manage-extensions2 = Gestiona totes les extensions
+sidebar-customize-extensions-header2 = Extensions
+sidebar-customize-firefox-tools-header2 =
+    .label = Eines
 
 ## Labels for sidebar context menu items
 
@@ -117,6 +131,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Suprimeix les pàgines de l'historial
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Edita l'adreça d'interès…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Suprimeix l’adreça d’interès
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Suprimeix
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -129,6 +152,10 @@ sidebar-menu-bookmarks-label =
     .label = Adreces d'interès
 sidebar-menu-customize-label =
     .label = Personalitza la barra lateral
+sidebar-menu-contextual-password-manager-label =
+    .label = Contrasenyes
+sidebar-menu-more-tools-label =
+    .label = Més eines
 
 ## Tooltips for sidebar menu items.
 
@@ -155,12 +182,20 @@ sidebar-menu-close-bookmarks-tooltip = Tanca les adreces d'interès ({ $shortcut
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
 sidebar-menu-open-ai-chatbot-tooltip-generic = Obre el bot de conversa d’IA ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Obre { $provider } ({ $shortcut })
 sidebar-menu-close-ai-chatbot-tooltip-generic = Tanca el bot de conversa d’IA ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Tanca { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
     .heading = Personalitza la barra lateral
+sidebar-menu-history-header =
+    .heading = Historial
+sidebar-menu-syncedtabs-header =
+    .heading = Pestanyes d'altres dispositius
+sidebar-panel-header-close-button =
+    .tooltiptext = Tanca
 
 ## Context for closing synced tabs when hovering over the items
 
