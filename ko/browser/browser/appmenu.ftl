@@ -155,8 +155,8 @@ appmenu-account-header = 계정
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
-appmenu-fxa-last-sync = { $time }에 마지막으로 동기화됨
-    .label = { $time }에 마지막으로 동기화됨
+appmenu-fxa-last-sync = 최근 동기화: { $time }
+    .label = 최근 동기화: { $time }
 appmenu-fxa-sync-and-save-data2 = 데이터 동기화 및 저장
 appmenu-fxa-signed-in-label = 로그인
 # Sign-in promo shown in the app menu when signed out and no menu message or

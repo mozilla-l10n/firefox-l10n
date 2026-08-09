@@ -39,7 +39,7 @@ show-all-extensions-button =
 detail-version =
     .label = 버전
 detail-last-updated =
-    .label = 마지막 업데이트
+    .label = 최근 업데이트
 addon-detail-description-expand = 더보기
 addon-detail-description-collapse = 접기
 detail-contributions-description = 이 부가 기능의 개발자가 여러분이 작은 기여로 지속적인 개발을 지원해 줄 것을 요청합니다.
@@ -354,7 +354,7 @@ always-activate-button = 항상 사용
 never-activate-button = 사용 안 함
 addon-detail-author-label = 제작자
 addon-detail-version-label = 버전
-addon-detail-last-updated-label = 마지막 업데이트
+addon-detail-last-updated-label = 최근 업데이트
 addon-detail-homepage-label = 홈페이지
 addon-detail-rating-label = 평가
 # Message for add-ons with a staged pending update.

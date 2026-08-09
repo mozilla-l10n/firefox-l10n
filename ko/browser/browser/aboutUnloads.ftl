@@ -20,13 +20,13 @@ about-unloads-intro =
 about-unloads-learn-more =
     이 기능과 이 페이지에 대해 더 알아보려면 
     <a data-l10n-name="doc-link">탭 언로드</a>를 참고하세요.
-about-unloads-last-updated = 마지막 업데이트: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-updated = 최근 업데이트: { DATETIME($date, day: "numeric", hour: "numeric", year: "numeric", month: "numeric", hour12: "false", minute: "numeric", second: "numeric") }
 about-unloads-button-unload = 언로드
     .title = 가장 높은 우선 순위를 가진 탭 언로드
 about-unloads-no-unloadable-tab = 언로드할 수 있는 탭이 없습니다.
 about-unloads-column-priority = 우선 순위
 about-unloads-column-host = 호스트
-about-unloads-column-last-accessed = 마지막 액세스
+about-unloads-column-last-accessed = 최근 액세스
 about-unloads-column-weight = 기본 가중치
     .title = 탭은 먼저 소리 재생, WebRTC 등과 같은 일부 특수 속성에서 파생된 이 값으로 정렬됩니다.
 about-unloads-column-sortweight = 보조 가중치
