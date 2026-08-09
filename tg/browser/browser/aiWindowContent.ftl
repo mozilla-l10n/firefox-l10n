@@ -66,6 +66,12 @@ smart-window-cancelled-label = Дархост бекор карда шуд.
 smart-window-confirm-group-tab = Гурӯҳ
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Кушодан
+smart-window-opened-tabs-row-label = Варақаҳои кушодашуда
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Варақаҳои ивазшуда
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Ба «{ $title }» иваз карда шуд
 
 ## Action log
 
@@ -84,6 +90,8 @@ action-log-searching-web-with-exa = Ҷустуҷӯ дар Интернет ба 
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Ҷустуҷӯ дар Интернет ба воситаи «<a data-l10n-name="exa-link">Exa</a>» ба анҷом расид
+action-log-checking-memories = Санҷиши ёддоштҳо
+action-log-checked-memories = Ёддоштҳои санҷидашуда
 action-log-searching-settings = Ҷустуҷӯ дар танзимот
 action-log-searched-settings = Ҷустуҷӯ дар танзимот иҷро шуд
 

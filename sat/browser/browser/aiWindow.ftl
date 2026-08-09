@@ -162,6 +162,12 @@ aiwindow-fullpage-new-chat =
     .label = ᱱᱟᱶᱟ ᱪᱟᱴ
 aiwindow-fullpage-chat-history =
     .label = ᱪᱟᱴ ᱱᱟᱜᱟᱢ
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = ᱰᱷᱮᱨ
+    .title = ᱰᱷᱮᱨ
 
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
@@ -207,3 +213,30 @@ item-history-downloads-and-chat =
     .label = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ, ᱰᱟᱩᱱᱞᱳᱰ, ᱟᱨ ᱪᱟᱴ ᱱᱟᱜᱟᱢ
     .accesskey = ᱵ
 item-history-downloads-and-chat-description = ᱥᱟᱭᱤᱴ, ᱰᱟᱩᱱᱞᱳᱰ, ᱟᱨ ᱪᱟᱴ ᱱᱟᱜᱟᱢ ᱥᱟᱯᱷᱟᱭ ᱢᱮ
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = ᱡᱷᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .aria-label = ᱡᱷᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+smart-window-confirm-deselect-all =
+    .label = ᱡᱚᱛᱚ ᱠᱚ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .aria-label = ᱡᱚᱛᱚ ᱠᱚ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+smart-window-close-confirm =
+    .aria-label = ᱟᱨᱫᱟᱥ ᱵᱚᱱᱫᱚ ᱢᱮ ᱟᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .tooltiptext = ᱟᱨᱫᱟᱥ ᱵᱚᱱᱫᱚ ᱢᱮ ᱟᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+smart-window-confirm-close-tab = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] { $count } ᱴᱮᱵᱽ ᱵᱚᱱᱫᱚ ᱢᱮ
+        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱱᱫᱚ ᱢᱮ
+       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱱᱫᱚ ᱢᱮ
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭᱮᱱᱟ
