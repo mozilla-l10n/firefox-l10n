@@ -301,6 +301,24 @@
 -firefoxlabs-brand-name = Firefox Labs
 -smart-window-brand-name =
     { $plural-form ->
-        [true] Chytrá okna
-       *[false] Chytré okno
+        [true]
+            { $case ->
+                [gen] Chytrých oken
+                [dat] Chytrým oknům
+                [acc] Chytrá okna
+                [voc] Chytrá okna!
+                [loc] Chytrých oknech
+                [ins] Chytrými okny
+               *[nom] Chytrá okna
+            }
+       *[false]
+            { $case ->
+                [gen] Chytrého okna
+                [dat] Chytrému oknu
+                [acc] Chytré okno
+                [voc] Chytré okno!
+                [loc] Chytrém okně
+                [ins] Chytrým oknem
+               *[nom] Chytré okno
+            }
     }
