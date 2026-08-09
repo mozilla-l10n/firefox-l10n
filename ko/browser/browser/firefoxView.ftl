@@ -106,7 +106,7 @@ firefoxview-closed-tabs-placeholder-body = 이 창에서 탭을 닫으면 여기
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } 닫기
 # refers to the last tab that was used
-firefoxview-pickup-tabs-badge = 마지막 활동
+firefoxview-pickup-tabs-badge = 최근 활동
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =

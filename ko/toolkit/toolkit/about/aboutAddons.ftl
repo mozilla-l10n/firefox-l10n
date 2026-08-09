@@ -605,7 +605,7 @@ mlmodel-remove-addon-button =
     .aria-label = 제거
 # Label for the aggregated value of all files for a model
 mlmodel-addon-detail-totalsize-label = 파일 크기
-mlmodel-addon-detail-last-used-label = 마지막 사용
+mlmodel-addon-detail-last-used-label = 최근 사용
 # This is a section label to describe what extensions or features use a specific local AI model
 mlmodel-addon-detail-used-by-label = 사용됨
 # This is a section label to describe the link to the model card on the Hugging Face website

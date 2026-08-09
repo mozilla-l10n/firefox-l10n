@@ -133,10 +133,10 @@ place-database-stats-efficiency-perc = 효율성 (%)
 place-database-stats-sequentiality-perc = 순차 (%)
 place-database-integrity = 무결성
 place-database-verify-integrity = 무결성 확인
-place-database-last-idle-maintenance-data = 마지막 유지 보수 날짜
+place-database-last-idle-maintenance-data = 최근 유지 보수 날짜
 # Vacuum refers to a type of database maintenance process
-place-database-last-vacuum-date = 마지막 Vacuum 날짜
-place-database-last-integrity-corruption-date = 마지막 무결성 손상 날짜
+place-database-last-vacuum-date = 최근 Vacuum 날짜
+place-database-last-integrity-corruption-date = 최근 무결성 손상 날짜
 a11y-title = 접근성
 a11y-activated = 활성화
 a11y-force-disabled = 접근성 끄기
@@ -412,7 +412,7 @@ support-remote-settings-status = 상태
 support-remote-settings-status-ok = 확인
 # Status when synchronization is not working.
 support-remote-settings-status-broken = 작동 안 함
-support-remote-settings-last-check = 마지막 확인
+support-remote-settings-last-check = 최근 확인
 support-remote-settings-local-timestamp = 로컬 타임스탬프
 support-remote-settings-sync-history = 기록
 support-remote-settings-sync-history-status = 상태

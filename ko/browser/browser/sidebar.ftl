@@ -48,7 +48,7 @@ sidebar-history-sort-option-site =
 sidebar-history-sort-option-date-and-site =
     .label = 날짜 및 사이트
 sidebar-history-sort-option-last-visited =
-    .label = 마지막 방문
+    .label = 최근 방문
 
 ## Labels for sidebar search
 

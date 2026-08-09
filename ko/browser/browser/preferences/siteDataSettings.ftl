@@ -18,7 +18,7 @@ site-data-column-cookies =
 site-data-column-storage =
     .label = 저장소
 site-data-column-last-used =
-    .label = 마지막 사용
+    .label = 최근 사용
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (로컬 파일)
 site-data-remove-selected =

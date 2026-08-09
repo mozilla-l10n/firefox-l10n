@@ -924,27 +924,27 @@ urlbar-result-action-ai-chat = 묻기
 # following relative dates: "yesterday", "today"
 # Variables:
 #   $date (string) - A localized relative date string
-urlbar-result-explanation-last-visited-relative = { $date } 마지막으로 방문함
+urlbar-result-explanation-last-visited-relative = 최근 방문: { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
 #   $daysAgo (number) - The number of days ago
-urlbar-result-explanation-last-visited-days = { $daysAgo }일 전에 마지막으로 방문함
+urlbar-result-explanation-last-visited-days = 최근 방문: { $daysAgo }일 전
 # This explanation is used when the last-visited date is a small number of weeks
 # in the past.
 # Variables:
 #   $weeksAgo (number) - The number of weeks ago
-urlbar-result-explanation-last-visited-weeks = { $weeksAgo }주 전에 마지막으로 방문함
+urlbar-result-explanation-last-visited-weeks = 최근 방문: { $weeksAgo }주 전
 # This explanation is used when the last-visited date is a small number of
 # months in the past.
 # Variables:
 #   $monthsAgo (number) - The number of months ago
-urlbar-result-explanation-last-visited-months = { $monthsAgo }달 전에 마지막으로 방문함
+urlbar-result-explanation-last-visited-months = 최근 방문: { $monthsAgo }달 전
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
 #   $date (string) - A localized absolute date string
-urlbar-result-explanation-last-visited-absolute = { $date }에 마지막으로 방문함
+urlbar-result-explanation-last-visited-absolute = 최근 방문: { $date }
 # This explanation is used when the result is bookmarked. The date will be
 # formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
@@ -954,34 +954,34 @@ urlbar-result-explanation-bookmarked = { $date }에 북마크됨
 # following relative dates: "yesterday", "today"
 # Variables:
 #   $date (string) - A localized relative date string
-urlbar-result-explanation-last-visited-relative-2 = { $date } 마지막으로 방문함
+urlbar-result-explanation-last-visited-relative-2 = 최근 방문: { $date }
 # This explanation is used when the last-visited date is a small number of days,
 # weeks, or months in the past.
 # Variables:
 #   $date (string) - A localized relative date string like one of the following:
 #                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
 #                    "11 months ago"
-urlbar-result-explanation-last-visited-days-weeks-months-ago = { $date } 마지막으로 방문함
+urlbar-result-explanation-last-visited-days-weeks-months-ago = 최근 방문: { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
 #   $daysAgo (number) - The number of days ago
-urlbar-result-explanation-last-visited-days-2 = { $daysAgo }일 전에 마지막으로 방문함
+urlbar-result-explanation-last-visited-days-2 = 최근 방문: { $daysAgo }일 전
 # This explanation is used when the last-visited date is a small number of weeks
 # in the past.
 # Variables:
 #   $weeksAgo (number) - The number of weeks ago
-urlbar-result-explanation-last-visited-weeks-2 = { $weeksAgo }주 전에 마지막으로 방문함
+urlbar-result-explanation-last-visited-weeks-2 = 최근 방문: { $weeksAgo }주 전
 # This explanation is used when the last-visited date is a small number of
 # months in the past.
 # Variables:
 #   $monthsAgo (number) - The number of months ago
-urlbar-result-explanation-last-visited-months-2 = { $monthsAgo }달 전에 마지막으로 방문함
+urlbar-result-explanation-last-visited-months-2 = 최근 방문: { $monthsAgo }달 전
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
 #   $date (string) - A localized absolute date string
-urlbar-result-explanation-last-visited-absolute-2 = { $date } 마지막으로 방문함
+urlbar-result-explanation-last-visited-absolute-2 = 최근 방문: { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
