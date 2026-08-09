@@ -191,6 +191,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = S'ha acabat
 migration-safari-password-import-header = Importeu les contrasenyes del Safari
+migration-safari-password-import-post-sequoia-step3 = Desa el fitxer
 migration-safari-password-import-steps-header = Per a importar les contrasenyes del Safari:
 migration-safari-password-import-step1 = En el Safari, obriu el menú «Safari» i aneu a Preferències > Contrasenyes
 migration-safari-password-import-step2 = Seleccioneu el botó <img data-l10n-name="safari-icon-3dots"/> i trieu «Exporta totes les contrasenyes»
@@ -203,6 +204,7 @@ migration-chrome-windows-password-import-step2 = Seleccioneu "Configuració" al 
 migration-chrome-windows-password-import-step3 = Seleccioneu “Descarregar fitxer” i deseu-lo al vostre dispositiu.
 migration-chrome-windows-password-import-step4 = Torneu aquí i feu clic a “Selecciona el fitxer” per a finalitzar la importació.
 migration-manual-password-import-skip-button = Omet
+migration-manual-password-import-cancel-button = Cancel·la
 migration-manual-password-import-select-button = Selecciona el fitxer
 migration-safari-password-import-skip-button = Omet
 migration-safari-password-import-select-button = Selecciona el fitxer

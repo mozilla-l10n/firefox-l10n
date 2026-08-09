@@ -611,6 +611,7 @@ smartwindow-existing-user-fx-tou-go-back = Vés enrere
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Fes del { -smart-window-brand-name } el teu lloc de referència
 smartwindow-onboarding-primary-button = Continua
 
 ## Smart Window Sidebar Auto-Open Pref

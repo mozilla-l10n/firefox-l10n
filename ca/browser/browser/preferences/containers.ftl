@@ -12,6 +12,13 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Nom
+    .placeholder = Afegiu un nom
+containers-icon-label2 =
+    .label = Icona
+containers-color-label2 =
+    .label = Color
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +89,19 @@ containers-icon-tree =
     .label = Arbre
 containers-icon-chill =
     .label = Relaxació
+containers-window-new3 =
+    .title = Afegiu un nou contenidor
+    .style = min-width: 32em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .title = Paràmetres del contenidor { $name }
+    .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Afegeix un contenidor nou
+containers-panel-create-button =
+    .label = Fet
+containers-panel-cancel-button =
+    .label = Cancel·la

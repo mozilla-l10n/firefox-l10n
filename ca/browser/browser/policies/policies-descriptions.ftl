@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Defineix les polítiques a les quals WebExtensions pot accedir mitjançant chrome.storage.managed.
+policy-AIControls = Configureu els controls d'IA
 policy-AllowedDomainsForApps = Defineix els dominis autoritzats a accedir a Google Workspace.
 policy-AllowFileSelectionDialogs = Permet els diàlegs de selecció de fitxers.
 policy-AppAutoUpdate = Activa o desactiva les actualitzacions automàtiques de l'aplicació.
@@ -38,11 +39,14 @@ policy-DisableDefaultBrowserAgent = Evita que l'agent de navegador per defecte r
 policy-DisableDeveloperTools = Bloca l'accés a les eines per a desenvolupadors.
 policy-DisableFeedbackCommands = Desactiva les ordres per enviar comentaris del menú Ajuda («Envia comentaris» i «Informa que el lloc és enganyós»).
 policy-DisableFirefoxAccounts = Desactiva els serveis basats en el { -fxaccount-brand-name }, que inclou el Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Desactiva els serveis basats en comptes, inclosa la sincronització.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desactiva la funció de captures de pantalla del Firefox Screenshots.
 policy-DisableFirefoxStudies = Impedeix que el { -brand-short-name } executi estudis.
 policy-DisableForgetButton = Evita l'accés al botó Oblida.
 policy-DisableFormHistory = No recorda l'historial de cerca ni de formularis.
+policy-DisableLaunchOnLogin = Evita que el { -brand-short-name } s'iniciï automàticament quan l'usuari inicia sessió.
 policy-DisablePrimaryPasswordCreation = Si és cert, no es pot crear una contrasenya principal.
 policy-DisablePasswordReveal = No permet mostrar les contrasenyes dels inicis de sessió desats.
 policy-DisablePocket2 = Desactiva la funció de desar llocs web al { -pocket-brand-name }.

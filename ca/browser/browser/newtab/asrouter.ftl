@@ -493,3 +493,21 @@ nova-early-access-share-feedback-link = Comparteix els comentaris
     .accesskey = C
 nova-early-access-infobar-primary-button = Entesos
     .accesskey = E
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Voleu iniciar el { -brand-short-name } cada vegada que inicieu la sessió a Windows?
+launch-options-spotlight-title-session-restore = Voleu tornar a obrir la sessió quan es reiniciï el { -brand-short-name }?
+launch-options-spotlight-checkbox-launch-on-login = Obre el { -brand-short-name } a l'inici
+launch-options-spotlight-checkbox-pin-to-taskbar = Fixa'l a la barra de tasques
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Torna a obrir les finestres i pestanyes actuals
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Torna a obrir les finestres i pestanyes anteriors
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Desa i tanca el { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Desa i continua

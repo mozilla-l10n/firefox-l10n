@@ -243,7 +243,15 @@ newtab-privacy-message-promo-monitor-1-cta = Més informació
 newtab-privacy-message-promo-monitor-2 = Protegiu la vostra informació amb la supervisió gratuïta de filtracions de dades, per a un màxim de 20 correus electrònics.
 newtab-privacy-message-promo-monitor-2-cta = Més informació
 newtab-privacy-message-promo-signin-1-cta = Inicia la sessió
+newtab-privacy-message-promo-vpn-1 = Esteu de compres en una xarxa Wi-Fi pública? Activeu la VPN integrada per a una protecció addicional.
 newtab-privacy-message-promo-vpn-1-cta = Obre la VPN
+newtab-privacy-message-promo-vpn-2 = Esteu usant una Wi-Fi a l'aeroport? Protegiu la vostra navegació activant la VPN integrada.
+newtab-privacy-message-promo-vpn-2-cta = Obre la VPN
+newtab-privacy-message-promo-vpn-3 = Activeu la VPN integrada per aconseguir mantenir la vostra ubicació més privada.
+newtab-privacy-message-promo-vpn-3-cta = Obre la VPN
+newtab-privacy-message-promo-private-window-1 = Proveu una finestra privada per a navegar amb més privacitat quan useu un ordinador compartit.
+newtab-privacy-message-promo-private-window-1-cta = Obre una finestra privada
+newtab-privacy-message-promo-relay-1 = Reserveu el vostre correu real per a la gent amb qui confieu. Useu una màscara de correu per als registres.
 
 ## Privacy widget — celebration messages
 ##
@@ -254,6 +262,8 @@ newtab-privacy-message-milestone-year-cta = Mostra les proteccions
 newtab-privacy-message-milestone-total-cta = Mostra les proteccions
 newtab-privacy-message-daily-cap-cta = Mostra les proteccions
 newtab-privacy-message-streak-cta = Mostra les proteccions
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Continua navegant, { -brand-short-name } seguirà bloquejant.
 newtab-privacy-message-first-protection-cta = Mostra les proteccions
 
 ## Strings for the Stocks widget
@@ -293,6 +303,11 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Mostra la llicència { $license }
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
@@ -426,6 +441,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Edita
+newtab-menu-add-topsite = Afegeix una nova drecera
 newtab-menu-open-new-window = Obre en una finestra nova
 newtab-menu-open-new-private-window = Obre en una finestra privada nova
 newtab-menu-dismiss = Descarta
@@ -1068,6 +1084,8 @@ newtab-widget-lists-input-menu-move-up = Mou cap amunt
 newtab-widget-lists-input-menu-move-down = Mou cap avall
 newtab-widget-lists-input-menu-delete = Suprimeix
 newtab-widget-lists-input-menu-edit = Edita
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Edita l'element
 newtab-widget-lists-edit-clear =
     .aria-label = Cancel·la
     .title = Cancel·la
@@ -1160,6 +1178,7 @@ newtab-daily-briefing-card-timestamp = S'ha actualitzat fa { $minutes } min
 newtab-widget-message-title = Mantingueu la concentració amb les llistes i amb un temporitzador integrat
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Des de recordatoris ràpids fins a tasques diàries pendents, sessions de concentració o pauses d'estirament: manteniu la productivitat i la puntualitat.
+newtab-promo-card-cta-addons = Proveu-ho ara
 newtab-promo-card-title = Col·laboreu amb el { -brand-product-name }
 newtab-promo-card-body = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor
 newtab-promo-card-cta = Més informació
@@ -1286,6 +1305,8 @@ newtab-sports-widget-message-add-widgets-cta =
 
 newtab-sports-widget-message-survey-title = Ajudeu-nos a millorar els ginys
 newtab-sports-widget-message-survey-body = Això és el final de la Copa del Món. Compartiu la vostra opinió de l’experiència.
+newtab-sports-widget-message-survey-cta =
+    .label = Fes l’enquesta
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
