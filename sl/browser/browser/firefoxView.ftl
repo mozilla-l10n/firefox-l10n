@@ -64,6 +64,9 @@ firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } se trenut
 firefoxview-tabpickup-network-offline-description-2 = Morda nimate vzpostavljene povezave ali pa jo kaj ovira.
 firefoxview-tabpickup-sync-error-header = Imamo težave s sinhronizacijo
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } trenutno ne more vzpostaviti povezave s storitvijo sinhronizacije. Poskusite znova čez nekaj trenutkov.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Sync je naletel na napako
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } se ni uspel povezati. Počakajte trenutek in poskusite znova
 firefoxview-tabpickup-sync-error-primarybutton = Poskusi znova
 firefoxview-tabpickup-sync-disconnected-header = Vklopite sinhronizacijo za nadaljevanje
 firefoxview-tabpickup-sync-disconnected-description = Za zajem zavihkov morate v { -brand-short-name(sklon: "mestnik") } omogočiti sinhronizacijo.
@@ -224,6 +227,9 @@ firefoxview-show-all-history = Prikaži vso zgodovino
 firefoxview-history-empty-header = Vrnite se tja, kjer ste bili
 firefoxview-history-empty-description = Med brskanjem bodo strani, ki jih obiščete, navedene tukaj.
 firefoxview-history-empty-description-two = Varstvo vaše zasebnosti je v središču našega delovanja. Zato lahko v <a data-l10n-name="history-settings-url">nastavitvah zgodovine</a> odločate, katero dejavnost naj si { -brand-short-name } zapomni.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Tukaj se začne vaša zgodovina brskanja
 
 ##
 
@@ -235,6 +241,8 @@ firefoxview-choose-browser-button = Izberite brskalnik
 
 firefoxview-dont-remember-history-empty-header-2 = Vi imate nadzor nad tem, kaj si { -brand-short-name } zapomni
 firefoxview-dont-remember-history-empty-description-one = Trenutno je { -brand-short-name } nastavljen tako, da si ne zapomni vaše dejavnosti brskanja. To lahko spremenite v <a data-l10n-name="history-settings-url-two">nastavitvah zgodovine</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Zgodovina brskanja se ne bo shranila
 firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } trenutno ne shranjuje zgodovine. To lahko kadarkoli spremenite v <a data-l10n-name="history-settings-url-two">nastavitvah</a>.
 
 ##

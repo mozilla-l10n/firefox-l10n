@@ -23,7 +23,10 @@ ipprotection-title = VPN
 
 ## Buttons used for all feature introduction callouts
 
+ipprotection-feature-introduction-title = Predstavljamo VPN, zdaj neposredno v vašem brskalniku
 ipprotection-feature-introduction-title-1 = Preizkusite { -brand-product-name }ov vgrajeni VPN
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Dodajte še eno raven zasebnosti
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Povezani na javni Wi-Fi? Preizkusite { -brand-product-name }ov vgrajeni VPN.
 ipprotection-feature-introduction-button-primary = Naprej
@@ -36,6 +39,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Odstrani VPN iz orodne vrstice
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odstrani VPN iz orodne vrstice
+ipprotection-feature-introduction-button-open-vpn = Odpri VPN
 ipprotection-feature-introduction-button-get-started = Začni
 
 ## Unlimited bandwidth summer promotion offramp callouts

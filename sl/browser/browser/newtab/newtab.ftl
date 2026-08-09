@@ -1023,6 +1023,7 @@ newtab-new-user-custom-wallpaper-cta = Preizkusite zdaj
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Pravkar so prispela nova ozadja
+newtab-wallpaper-feature-highlight-subtitle = Izberite svoje najljubše ozadje in se v vsakem novem zavihku počutite kot doma.
 newtab-wallpaper-feature-highlight-cta = Izberi ozadje
 
 ## Strings for download mobile highlight
@@ -1210,6 +1211,8 @@ newtab-daily-briefing-card-menu-dismiss = Skrij
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = Posodobljeno pred { $minutes } min
 newtab-widget-message-title = Ostanite osredotočeni s seznami in vgrajenim časovnikom
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Od hitrih opomnikov do dnevnih opravkov, osredotočenih sej in odmorov za raztezanje – ostanite zbrani in pravočasni.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = Vse na enem mestu: osredotočenost, vreme in drugo
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")

@@ -269,6 +269,9 @@ link-preview-onboarding-description-long-press = Oglejte si kratek opis strani, 
 link-preview-key-points-header = Glavni poudarki
 # Disclaimer for AI-generated key points
 link-preview-key-points-disclaimer = Glavni poudarki so ustvarjeni z umetno inteligenco in lahko vsebujejo napake.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Začetna nastavitev • <strong>{ $progress }%</strong>
 # Message indicating faster performance after initial setup
 link-preview-setup-faster-next-time = Naslednjič bodo glavni poudarki prikazani še hitreje.
 # Onboarding card See a preview button
