@@ -150,6 +150,11 @@ home-prefs-support-firefox-header-srd =
     .label = Дастгирӣ кардани «{ -brand-product-name }»
 home-prefs-mission-message-learn-more-link-srd = Бифаҳмед, ки чӣ тавр
 
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Маълумоти бештар
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -257,6 +262,14 @@ newtab-topsite-sponsored = Сарпарастӣ
 topsite-label-pinned =
     .aria-label = { $title } (васлшуда)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Ҳоли ҳозир
+newtab-topsites-hover-card-dismiss =
+    .title = Нодида гузарондан
+    .aria-label = Нодида гузарондан
 
 ## Context Menu - Action Tooltips.
 

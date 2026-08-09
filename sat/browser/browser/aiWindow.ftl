@@ -105,7 +105,44 @@ aiwindow-firstrun-model-fast-label = ᱞᱚᱜᱚᱱ
 aiwindow-firstrun-model-fast-body = ᱞᱚᱜᱚᱱ ᱛᱮᱞᱟ ᱮᱢᱟ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = ᱞᱚᱜᱚᱱ: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = ᱩᱥᱟᱹᱨᱟ ᱛᱮᱞᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱨᱮᱥ ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱞᱚᱜᱚᱱ ᱮᱢ ᱞᱟᱦᱟᱜ ᱠᱟᱱᱟ
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = { $ownerName } ᱫᱟᱨᱟᱭ ᱛᱮ ᱢᱳᱰᱮᱞ { $model }
+aiwindow-firstrun-model-allpurpose-label = ᱞᱤᱪᱟᱹᱲ
+aiwindow-firstrun-model-allpurpose-body = ᱵᱤᱥᱛᱤ ᱞᱟᱹᱠᱛᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱮᱴᱮᱡ ᱯᱷᱤᱴ
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = ᱞᱤᱪᱟᱹᱲ: { $shortName }
+aiwindow-firstrun-model-flexible-body = ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = ᱵᱟᱛᱟᱣᱟᱜ
+aiwindow-firstrun-model-personal-label = ᱱᱚᱡᱚᱨ
+aiwindow-firstrun-model-personal-body = ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ ᱞᱮᱠᱟᱱ ᱛᱮᱞᱟ ᱠᱚ
+aiwindow-firstrun-button = ᱫᱮᱞᱟ ᱵᱚᱱ ᱪᱟᱞᱟᱣ ᱞᱮᱱᱜᱮ
+aiwindow-firstrun-back-button = ᱛᱟᱭᱚᱢ
+aiwindow-firstrun-next-button = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = ᱞᱚᱜᱚᱱ
+aiwindow-input-model-select-button-label-allpurpose = ᱞᱤᱪᱟᱹᱲ
+aiwindow-input-model-select-button-label-personal = ᱱᱚᱡᱚᱨ
+aiwindow-input-model-select-button-label-custom = ᱠᱩᱥᱤᱭᱟᱜ
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+
+## Group My Tabs Toolbar Button
+
+smartwindow-group-tabs-button =
+    .label = ᱤᱧᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱛᱷᱟᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ
+    .tooltiptext = ᱤᱧᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱛᱷᱟᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = ᱪᱟᱴᱠᱚ
+    .title = ᱪᱟᱴᱠᱚ
+firefoxview-chats-header = ᱪᱟᱴᱠᱚ

@@ -449,6 +449,11 @@ onboarding-checklist-pin = Васл кардани «{ -brand-short-name }» б�
 onboarding-checklist-import = Ворид кардани маълумот аз браузери қаблӣ
 onboarding-checklist-extension = Илова кардани васеъшавӣ
 onboarding-checklist-sign-up = Ба ҳисоби худ ворид шавед ё сабти ном кунед
+onboarding-checklist-minimize =
+    .label = Ҳадди ақал сохтан
+onboarding-checklist-remove =
+    .label = Тоза кардани рӯйхати санҷишӣ
+onboarding-checklist-remove-2 = Тоза кардани рӯйхати санҷишӣ
 
 ## Tab Groups feature onboarding strings
 
@@ -594,3 +599,14 @@ smartwindow-existing-user-fx-tou-go-back = Бозгашт
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-primary-button = Идома додан
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-accept = Бале, пӯшида нигоҳ доред
+smartwindow-sidebar-auto-open-callout-dismiss = Не, ташаккур
+smartwindow-sidebar-auto-open-callout-rejected-title = Фаҳмидам
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Мавзуеро интихоб намоед
+onboarding-theme-picker-button-label = Нигоҳ доред ва идома диҳед

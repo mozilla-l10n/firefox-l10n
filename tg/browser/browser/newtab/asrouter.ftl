@@ -456,3 +456,18 @@ set-default-menu-message-primary-button-variant = Гузоштан ҳамчун 
 
 relay-50-masks-announcement-secondary-button = Нодида гузарондан
     .accesskey = Н
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-pin-to-taskbar = Васл кардан ба навори вазифаи шумо
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Аз нав кушодани равзанаҳо ва варақаҳои ҷорӣ
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Аз нав кушодани равзанаҳо ва варақаҳои қаблӣ
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Нигоҳ доштан ва пӯшидани «{ -brand-short-name }»
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Нигоҳ доред ва идома диҳед
