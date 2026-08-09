@@ -97,6 +97,9 @@ delete-profile-logins = Gesla
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Izbriši profil "{ $profilename }"
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Želite izbrisati profil “{ $profilename }”?
 
 ##
 
@@ -280,6 +283,8 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = Spremeni velikost območja obrezovanja
 profiles-appmenu-callout-tour-title = Vaš novi profil je pripravljen
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = V meniju ☰ tapnite na ime svojega profila, da prikažete drugega, uredite tega ali skočite med svojimi digitalnimi življenji.
 profiles-appmenu-callout-tour-primary-button = Pokaži, kako
 barbell-avatar = Uteži
 bike-avatar = Kolo
@@ -296,6 +301,9 @@ briefcase-avatar-tooltip =
     .tooltiptext = Uporabi sličico aktovke
 picture-avatar-tooltip =
     .tooltiptext = Uporabi sličico slike
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Uporabi umetelen avatar
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-tooltip =
     .tooltiptext = Uporabi sličico zemeljske oble
