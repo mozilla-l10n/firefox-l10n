@@ -25,6 +25,41 @@ smart-window-confirm-open-tabs =
 # Fallback name used in place of $label above when the model didn't provide
 # one for the tab group.
 smart-window-default-tab-group-label = مجموعة اللسان
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [zero] فُتح { $count } لسان
+        [one] فُتح لسان واحد
+        [two] فُتح لسانان
+        [few] فُتح { $count } ألسنة
+        [many] فُتح { $count } لسانًا
+       *[other] فُتح { $count } لسان
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [zero] فُتح { $count } لسان.
+        [one] فُتح لسان واحد.
+        [two] فُتح لسانان.
+        [few] فُتح { $count } ألسنة.
+        [many] فُتح { $count } لسانًا.
+       *[other] فُتح { $count } لسان.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [zero] أُنشئ مجموعة “{ $label }” وفُتح { $count } لسان
+        [one] أُنشئ مجموعة “{ $label }” وفُتح لسان واحد
+        [two] أُنشئ مجموعة “{ $label }” وفُتح لسانين
+        [few] أُنشئ مجموعة “{ $label }” وفُتح { $count } ألسنة
+        [many] أُنشئ مجموعة “{ $label }” وفُتح { $count } لسانًا
+       *[other] أُنشئ مجموعة “{ $label }” وفُتح { $count } لسان
+    }
 smart-window-opened-tabs-row-label = الألسنة المفتوحة
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = الألسنة المُبدلة
