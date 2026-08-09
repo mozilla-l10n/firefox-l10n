@@ -54,7 +54,30 @@ smart-window-model-custom-token =
 smart-window-model-custom-save =
     .label = Запазване
 smart-window-model-custom-save-confirmation = Подробностите за модела са запазени. Започнете нов разговор за тест.
+ai-window-memories-section =
+    .label = Спомени
+    .description = { -brand-short-name } може да се учи от вашата активност за създаване на спомени. Те се използват за персонализиране на отговорите и се съхраняват локално на устройството.
 ai-window-delete-all-memories-button =
     .label = Изтриване на всичко
 ai-window-delete-all-memories-confirm = Изтриване
 ai-window-delete-all-memories-cancel = Отмяна
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Изтриване на паметта
+    .aria-label = Изтриване на { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Бърз
+    .description = Най-добър за бързи отговори, когато скоростта е от значение. Пълно име: { $model } от { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Гъвкав
+    .description = Направен за различни задачи. Пълно име: { $model } от { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Личен
+    .description = Създаден за персонализирана помощ за различни езици. Пълно име: { $model } от { $ownerName }

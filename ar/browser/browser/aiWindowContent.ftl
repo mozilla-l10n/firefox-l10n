@@ -12,6 +12,16 @@ aiwindow-memories-learn-more = اطّلع على المزيد
 
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = افتح
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [zero] افتح { $count } لسان
+        [one] افتح لسان واحد
+        [two] افتح لسانان
+        [few] افتح { $count } ألسنة
+        [many] افتح { $count } لسانًا
+       *[other] افتح { $count } لسان
+    }
 # Fallback name used in place of $label above when the model didn't provide
 # one for the tab group.
 smart-window-default-tab-group-label = مجموعة اللسان

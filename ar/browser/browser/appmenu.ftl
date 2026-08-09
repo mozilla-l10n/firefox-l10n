@@ -293,6 +293,15 @@ appmenu-sync-promo-signin-cta = لِج
 appmenu-sync-promo-turnonsync =
     .heading = زامِن الألسنة والتأريخ
 appmenu-sync-promo-turnonsync-cta = فعّل المزامنة
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = احصل على ألسنتك من جوّالك
+appmenu-sync-promo-connectdevice-cta = أوصِل جهازًا
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = أحضر معك علاماتك
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = خُذ معك علاماتك أينما ذهبت
 
 ## Help panel
 

@@ -3,9 +3,26 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count =
+    { $tags ->
+        [one] { $tags } етикет
+       *[other] { $tags } етикета
+    }
+
 ## Error messages in the chat content
 
+smartwindow-assistant-error-generic-header = Нещо се обърка. Моля, опитайте отново.
+smartwindow-retry-btn = Опитайте отново
 smartwindow-signin-btn = Вписване
+
+## Assistant Message footer
+
+aiwindow-applied-memories-list =
+    .aria-label = Спомени
 
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
