@@ -42,7 +42,7 @@ report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Qual o problema?
 report-broken-site-panel-reason-optional-label = Qual o problema? (opcional)
 report-broken-site-panel-reason-choose =
-    .label = Escolha
+    .label = Escolha um motivo
 report-broken-site-panel-reason-load =
     .label = O site não carrega
 # These terms are referring to ecommerce websites
