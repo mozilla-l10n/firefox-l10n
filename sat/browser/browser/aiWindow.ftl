@@ -70,3 +70,40 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = ᱠᱩᱞᱤ ᱢᱮ, ᱥᱮᱸᱫᱽᱨᱟ ᱢᱮ, ᱟᱨᱵᱟᱝ ᱢᱤᱫ URL ᱚᱞ ᱢᱮ
+smartbar-placeholder-hint-1 = ᱱᱮᱛᱟᱨ ᱴᱮᱵᱽ ᱠᱚ ᱥᱚᱫᱚᱨ ᱞᱟᱹᱜᱤᱫ @ ᱵᱮᱵᱷᱟᱨ ᱢᱮ...
+smartbar-placeholder-hint-2 = ᱡᱟᱦᱟᱱᱟᱜ ᱜᱮ ᱠᱩᱞᱤ ᱢᱮ...
+smartbar-placeholder-hint-3 = ᱢᱤᱫᱴᱟᱹᱝ ᱣᱮᱵᱽ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ…
+smartbar-placeholder-hint-4 = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ…
+
+## Mentions
+
+smartbar-mention-typing-placeholder = ᱢᱤᱫ ᱴᱮᱵᱽ ᱵᱟᱝᱠᱷᱟᱱ ᱥᱟᱭᱤᱴ ᱴᱮᱜᱽ ᱢᱮ
+smartbar-mentions-list-no-results-label = ᱪᱮᱫ ᱛᱮᱞᱟ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
+smartbar-mentions-list-recent-tabs-label = ᱱᱮᱛᱟᱨ ᱨᱮᱱᱟᱜ ᱴᱮᱵᱽ
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = ᱢᱤᱫ ᱴᱮᱵᱽ ᱵᱟᱝᱠᱷᱟᱱ ᱥᱟᱭᱤᱴ ᱥᱮᱞᱮᱫ ᱢᱮ
+    .tooltiptext = ᱢᱤᱫ ᱴᱮᱵᱽ ᱵᱟᱝᱠᱷᱟᱱ ᱥᱟᱭᱤᱴ ᱥᱮᱞᱮᱫ ᱢᱮ
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = ᱢᱤᱫ ᱴᱮᱵᱽ ᱵᱟᱝᱠᱷᱟᱱ ᱥᱟᱭᱤᱴ ᱴᱮᱜᱽ ᱢᱮ
+aiwindow-website-chip-history-deleted = ᱱᱟᱜᱟᱢ ᱢᱮᱴᱟᱣᱮᱱᱟ
+aiwindow-website-chip-remove-button =
+    .aria-label = ᱚᱪᱚᱜᱽ ᱢᱮ
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = { -smart-window-brand-name } ᱨᱮ ᱟᱢᱟᱜ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+aiwindow-firstrun-model-title = ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟᱜ ᱠᱟᱱᱟ ?
+aiwindow-firstrun-model-title-v2 = ᱮᱦᱚᱵ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱢᱚᱰᱮᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+aiwindow-firstrun-model-subtitle = ᱯᱟᱣᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱢᱚᱰᱮᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ { -smart-window-brand-name } ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱵᱚᱫᱚᱞ ᱢᱮ᱾
+aiwindow-firstrun-model-subtitle-v2 = ᱥᱟᱱᱟᱢ ᱢᱚᱰᱮᱞ ᱜᱮ ᱟᱢ ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱨᱮ ᱥᱟᱹᱠᱷᱤᱭᱟᱹᱛ, ᱛᱩᱞᱟᱹ ᱡᱚᱠᱷᱟ ᱟᱨ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱢᱟ ᱾ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
+aiwindow-firstrun-model-fast-label = ᱞᱚᱜᱚᱱ
+aiwindow-firstrun-model-fast-body = ᱞᱚᱜᱚᱱ ᱛᱮᱞᱟ ᱮᱢᱟ
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-chip-subtitle = { $ownerName } ᱫᱟᱨᱟᱭ ᱛᱮ ᱢᱳᱰᱮᱞ { $model }
