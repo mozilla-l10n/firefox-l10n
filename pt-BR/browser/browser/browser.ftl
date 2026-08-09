@@ -1718,7 +1718,7 @@ popup-warning-exceeded-message = O { -brand-short-name } impediu este site de ab
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-with-redirect-message =
     { $popupCount ->
-       *[other] O { -brand-short-name } impediu mais de { $popupCount } redirecionamentos e abertura de janelas deste site.
+       *[other] O { -brand-short-name } impediu redirecionamentos e mais de { $popupCount } aberturas de janelas deste site.
     }
 popup-warning-button =
     .label =
