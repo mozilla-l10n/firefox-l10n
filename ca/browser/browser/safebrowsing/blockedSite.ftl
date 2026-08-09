@@ -73,3 +73,4 @@ safeb-blocked-addon-page-error-desc-override = <strong>Per què s'ha blocat aque
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> pot estar relacionat amb activitats enganyoses i malicioses.
 safeb-blocked-addon-page-error-desc3-override = <strong>Què hi podeu fer?</strong>
 safeb-blocked-addon-page-error-desc4-override = Per evitar que això torni a passar, podeu eliminar o desactivar <strong>{ $addonName }</strong> des d'about:addons.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Més informació sobre la protecció  del { -brand-short-name } contra complements nocius</a>.

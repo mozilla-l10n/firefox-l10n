@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Esborra tot l'historial
     .style = min-width: 34em
 clear-data-settings-label = En tancar el { -brand-short-name }, esborra automàticament
+sanitize-on-shutdown-description = Esborra automàticament tots els elements seleccionats quan es tanqui el { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -40,6 +41,10 @@ clear-time-duration-value-last-2-hours =
     .label = Les darreres dues hores
 clear-time-duration-value-last-4-hours =
     .label = Les darreres quatre hores
+# Variables:
+#   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
+clear-time-duration-value-since-midnight =
+    .label = Des de { $midnightTime }
 clear-time-duration-value-today =
     .label = Avui
 clear-time-duration-value-everything =
@@ -54,6 +59,7 @@ history-section-label = Historial
 item-history-and-downloads =
     .label = Historial de navegació i de baixades
     .accesskey = H
+item-history-and-downloads-description2 = Esborra l'historial de llocs i de baixades
 item-cookies =
     .label = Galetes
     .accesskey = G
