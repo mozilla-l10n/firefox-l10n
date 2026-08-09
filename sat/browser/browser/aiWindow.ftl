@@ -103,6 +103,8 @@ aiwindow-firstrun-model-subtitle = ᱯᱟᱣᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ 
 aiwindow-firstrun-model-subtitle-v2 = ᱥᱟᱱᱟᱢ ᱢᱚᱰᱮᱞ ᱜᱮ ᱟᱢ ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱨᱮ ᱥᱟᱹᱠᱷᱤᱭᱟᱹᱛ, ᱛᱩᱞᱟᱹ ᱡᱚᱠᱷᱟ ᱟᱨ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱢᱟ ᱾ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
 aiwindow-firstrun-model-fast-label = ᱞᱚᱜᱚᱱ
 aiwindow-firstrun-model-fast-body = ᱞᱚᱜᱚᱱ ᱛᱮᱞᱟ ᱮᱢᱟ
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = ᱞᱚᱜᱚᱱ: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
