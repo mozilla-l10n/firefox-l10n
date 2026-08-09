@@ -59,6 +59,15 @@ fxa-menu-send-tab-to-device-description = Giriş yaptığınız her cihaza anın
 fxa-menu-sign-out =
     .label = Çıkış yap…
 fxa-menu-sync-description = Web’inize her yerden erişin
+fxa-menu-sign-in-promo-button =
+    .label = Giriş yap
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Giriş yap
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Çıkış yaptınız
 fxa-avatar-sign-in = Giriş yap
 fxa-avatar-sign-up = Kaydol
 fxa-avatar-tooltip =
