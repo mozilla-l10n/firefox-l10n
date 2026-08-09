@@ -6,6 +6,14 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Spletni API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Predstavnost: JPEG XL
 experimental-features-devtools-compatibility-panel =
     .label = Orodja za razvijalce: plošča Združljivost
 experimental-features-devtools-compatibility-panel-description = Stranska plošča ob pregledovalniku strani, ki prikazuje podatke o združljivosti aplikacije med brskalniki. Za več podrobnosti glejte <a data-l10n-name="bugzilla">hrošč 1584464</a>.

@@ -302,6 +302,20 @@ launch-on-login-infobar-final-message = <strong>Želite, da se { -brand-short-na
 launch-on-login-infobar-final-reject-button = Ne, hvala
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } se zdaj zažene, ko se prijavite v Windows. To lahko kadarkoli spremenite v nastavitvah.
+launch-on-login-autostart-infobar-keep-button = Obdrži
+    .accesskey = O
+launch-on-login-autostart-infobar-turn-off-button = Izključi
+    .accesskey = I
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -466,6 +480,11 @@ set-default-menu-message-row-layout-subtitle-variant =
     { PLATFORM() ->
         [macos] Obdržite { -brand-short-name(sklon: "tozilnik") } na dosegu roke – nastavite ga za privzeti brskalnik in ga pripnite v vrstico Dock.
        *[other] Obdržite { -brand-short-name(sklon: "tozilnik") } na dosegu roke – nastavite ga za privzeti brskalnik in ga pripnite v opravilno vrstico.
+    }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Obdržite si { -brand-short-name(sklon: "tozilnik") } na dosegu roke
+       *[other] Odpiraj vse povezave v { -brand-short-name(sklon: "mestnik") }
     }
 set-default-menu-message-primary-button = Nastavi kot privzeto
 set-default-menu-message-primary-button-variant = Nastavi kot glavni brskalnik

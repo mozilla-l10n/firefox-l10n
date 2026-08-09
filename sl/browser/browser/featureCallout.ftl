@@ -167,6 +167,10 @@ link-preview-onboarding-callout-description = Oglejte si kratek opis strani, pre
 ## natural in their language rather than translating literally — the goal is
 ## an inviting, conversational tone, not a word-for-word match.
 
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Napravite konec neredu s skupinami zavihkov
 # "Drag more in as you go" means users can add additional tabs to the group
 # over time, while they’re working. Please adapt for natural phrasing.
 tab-groups-2026-onboarding-callout-subtitle = Združite zavihke po opravilih ali po tematikah. V skupino lahko kadarkoli povlečete nove zavihke.
