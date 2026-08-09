@@ -33,6 +33,13 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Dokončete nastavení a odemkněte bonusové ikony lišek, abyste si mohli { -brand-short-name(case: "acc") } ještě více přizpůsobit.
+           *[no-cases] Dokončete nastavení a odemkněte bonusové ikony lišek, abyste si mohli aplikaci { -brand-short-name } ještě více přizpůsobit.
+        }
 # Shown in place of appearance-browser-icon-requirement once the bonus icons are
 # unlocked (the browser is both the default and pinned to the taskbar).
 appearance-browser-icon-unlocked =

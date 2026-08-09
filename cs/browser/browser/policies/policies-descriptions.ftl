@@ -34,12 +34,21 @@ policy-BlockAboutSupport = Zablokování přístupu na stránku s technickými i
 policy-Bookmarks = Vytvoření záložek na liště, v nabídce nebo vybrané složce.
 policy-CaptivePortal = Povolení nebo zakázání podpory captive portálů.
 policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné certifikáty.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Povolí dohodu o klíčích CNSA 2.0 ML-KEM-1024 pro TLS.
 policy-ContentAnalysis = Povolení nebo zakázání připojení k agentovi pro prevenci ztráty dat.
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Nastavení pravidel souvisejících s kontejnery.
 policy-DisableAccounts = Zakáže služby vyžadující účty, včetně synchronizace.
 policy-DisabledCiphers = Zakázané metody šifrování.
+policy-DefaultBrowserSettingEnabled =
+    { -brand-short-name.case-status ->
+        [with-cases] Určuje, zda si uživatel může nastavit { -brand-short-name(case: "acc") } jako výchozí prohlížeč.
+       *[no-cases] Určuje, zda si uživatel může nastavit aplikaci { -brand-short-name } jako výchozí prohlížeč.
+    }
 policy-DefaultDownloadDirectory = Nastavení výchozího adresáře pro stahování souborů.
 policy-DefaultSerialGuardSetting = Ovládání používání Serial API.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
@@ -64,6 +73,11 @@ policy-DisableFirefoxStudies =
     }
 policy-DisableForgetButton = Zablokování tlačítka Zapomenout.
 policy-DisableFormHistory = Vypnutí ukládání historie vyhledávání a formulářů.
+policy-DisableLaunchOnLogin =
+    { -brand-short-name.case-status ->
+        [with-cases] Zabrání automatickému spuštění { -brand-short-name(case: "gen") } při přihlášení uživatele.
+       *[no-cases] Zabrání automatickému spuštění aplikace { -brand-short-name } při přihlášení uživatele.
+    }
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
 policy-DisablePasswordReveal = Zakázání možnosti zobrazit hesla ve správci přihlašovacích údajů.
 policy-DisablePocket2 = Vypnutí funkce pro ukládání stránek do služby { -pocket-brand-name }.

@@ -80,6 +80,12 @@ pictureinpicture-playback-rate-label = Rychlost přehrávání
 # Variables:
 #   $rate (number) - The current playback rate, e.g. 1.5.
 pictureinpicture-playback-rate-value = { NUMBER($rate) }×
+# Label for a playback speed preset button in the playback speed panel. Unlike
+# the live readout, whole number rates are padded to one decimal place
+# (e.g. "1.0×", "2.0×"). Other rates are shown as-is (e.g. "0.75×", "1.25×").
+# Variables:
+#   $rate (number) - The preset's playback rate, e.g. 1.5.
+pictureinpicture-playback-rate-preset = { NUMBER($rate, minimumFractionDigits: 1) }×
 pictureinpicture-font-size-label = Velikost písma
 pictureinpicture-font-size-small = Malé
 pictureinpicture-font-size-medium = Střední

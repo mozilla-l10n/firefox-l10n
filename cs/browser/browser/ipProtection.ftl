@@ -94,6 +94,15 @@ ipprotection-summer-promo-offramp-subscriber-description = Jako předplatitel sl
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = Ponechejte si svoje dodatečná umístění pro vestavěnou VPN
+ipprotection-summer-promo-offramp-default-browser-incentive-description =
+    { -brand-product-name.case-status ->
+        [with-cases] Nastavte si { -brand-product-name(case: "acc") } jako svůj oblíbený prohlížeč a získejte po 31. srpnu více než 20 umístění k prohlížení.
+       *[no-cases] Nastavte si aplikaci { -brand-product-name } jako svůj oblíbený prohlížeč a získejte po 31. srpnu více než 20 umístění k prohlížení.
+    }
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Posuňte se na vyšší úroveň s { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Zachovejte si neomezenou šířku pásma i po 31. srpnu – díky více než 300 serverům a možnosti připojení až 5 zařízení bude obtížnější vysledovat, že prohlížení webu pochází právě od vás.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otevřít VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Nastavit na výchozí
@@ -215,6 +224,8 @@ ipprotection-connection-status-network-error-title-1 = Zkontrolujte své připoj
 ipprotection-connection-status-network-error-description = Připojte se k internetu a zkuste zapnout VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN není dostupná
     .aria-label = VPN není dostupná
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Místní zákony a omezení určují, kde můžete VPN používat. <a data-l10n-name="learn-more-link">Další informace</a>
 ipprotection-connection-status-blocked-error-description = Místní zákony zakazují poskytovat služby VPN v tomto regionu. <a data-l10n-name="learn-more-link">Zjistit více</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
