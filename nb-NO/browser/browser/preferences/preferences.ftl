@@ -2782,3 +2782,10 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatisk proxykonfigurasjon er aktivert
     .description = Automatisk proxykonfigurasjon kan gjøre det mulig for upålitelige nettverk å overvåke aktiviteten din.
+
+## Referrals Section
+
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Del { -brand-short-name }

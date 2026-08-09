@@ -57,6 +57,9 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Frem
     .tooltip = Frem (→)
+pictureinpicture-playback-rate-btn =
+    .tooltip = Avspillingshastighet
+    .aria-label = Avspillingshastighet
 
 ##
 
@@ -65,6 +68,10 @@ pictureinpicture-seekforward-btn =
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Innstillinger for undertekster
 pictureinpicture-subtitles-label = Undertekster
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the playback speed settings panel
+# after selecting the playback speed button.
+pictureinpicture-playback-rate-panel-accessible = Innstillinger for avspillingshastighet
 # The live readout of the current playback speed shown in the playback speed
 # panel, updated as the user moves the slider. Unlike the preset labels, whole
 # numbers are not padded with a trailing ".0" (e.g. "1×", "1.05×", "1.25×",
