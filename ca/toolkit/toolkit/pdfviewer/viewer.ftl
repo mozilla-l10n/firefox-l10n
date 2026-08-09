@@ -42,6 +42,12 @@ pdfjs-print-button-label = Imprimeix
 pdfjs-save-button =
     .title = Desa
 pdfjs-save-button-label = Desa
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Baixa
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Baixa
 pdfjs-bookmark-button =
     .title = Pàgina actual (mostra l'URL de la pàgina actual)
 pdfjs-bookmark-button-label = Pàgina actual
