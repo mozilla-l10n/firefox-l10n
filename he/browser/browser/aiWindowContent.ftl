@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] קיבוץ לשונית אחת
        *[other] קיבוץ { $count } לשוניות
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = פתיחה
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] פתיחת לשונית אחת
+       *[other] פתיחת { $count } לשוניות
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] לשונית אחת קובצה
        *[other] { $count } לשוניות קובצו
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = קבוצת לשוניות
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,21 @@ smart-window-grouped-tabs-summary =
        *[other] הקבוצה ״{ $label }״ נוצרה ונוספו { $count } לשוניות.
     }
 smart-window-grouped-tabs-row-label = לשוניות מקובצות
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] נפתחה לשונית אחת
+       *[other] נפתחו { $count } לשוניות
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] נפתחה לשונית אחת.
+       *[other] נפתחו { $count } לשוניות.
+    }
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = בוטל הקיבוץ של הלשוניות
 # Variables
