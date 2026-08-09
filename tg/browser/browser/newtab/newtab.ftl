@@ -1093,6 +1093,12 @@ newtab-clock-widget-menu-hide = Пинҳон кардани соат
 newtab-clock-widget-menu-learn-more = Маълумоти бештар
 newtab-clock-widget-menu-edit = Таҳрир кардани соат
 newtab-clock-widget-label-your-clocks = Соатҳои шумо
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Илова кардани соати нав
+    .aria-label = Илова кардани соати нав
 newtab-clock-widget-button-add-clock = Илова кардан
 newtab-clock-widget-button-cancel = Бекор кардан
 newtab-clock-widget-button-back =
@@ -1121,6 +1127,11 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Натиҷаҳои ҷустуҷӯ
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Номи шаҳр
+    .aria-label = Номи шаҳр
+    .placeholder = Ба ин соат номеро гузоред
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

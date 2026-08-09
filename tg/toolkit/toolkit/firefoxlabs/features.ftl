@@ -79,6 +79,9 @@ experimental-features-newtab-widget-timer-description = Вақтсанҷро т�
 experimental-features-newtab-widget-lists-and-timer =
     .label = Рӯйхатҳо ва вақтсанҷ дар «{ -firefox-home-brand-name }»
 experimental-features-newtab-widget-lists-and-timer-description = Ҳангоми кушодани варақаи нав, рӯйхати корҳои худро ҳамеша боинтизом дар хотир нигоҳ доред. Аз рӯйхатҳои бастабандӣ то рӯйхатҳои харидорӣ, нақшаҳои худро дар «{ -brand-product-name }» ба тартиб дароред.  Вақтсанҷро таъин кунед, то тавонед диққати худро нигоҳ доред, худро барои риояи нақша ҳидоят намоед ё дар бораи зарурати барқарор кардани нерӯ хотиррасон кунед. <a data-l10n-name="connect">Назари худро изҳор намоед</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Соатҳо
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Ҷустуҷӯ аз рӯйи таърихи маъноӣ
