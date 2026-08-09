@@ -128,6 +128,7 @@ ipprotection-connection-status-blocked-error-title-1 = VPN ni na voljo
     .aria-label = VPN ni na voljo
 ipprotection-connection-status-blocked-error-description = Lokalna zakonodaja nam prepoveduje zagotavljanje storitve VPN v tej regiji. <a data-l10n-name="learn-more-link">Več o tem</a>
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je na tem spletnem mestu izklopljen
+ipprotection-open-button = Odpri { -brand-product-name }
 ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mogoča
     .aria-label = Povezava z VPN ni bila mogoča
 

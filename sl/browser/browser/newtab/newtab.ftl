@@ -1258,9 +1258,21 @@ newtab-widget-timer-increase-min =
     .title = Dodaj 1 minuto
 newtab-widget-timer-mode-group =
     .aria-label = Način časovnika
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fokus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Odmor
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Skrij časovnik
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Odlično opravljeno
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Odmor je zaključen
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Potrebujete odmor?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Ste pripravljeni na delo?
 
 ##
 
@@ -1324,6 +1336,22 @@ newtab-sports-widget-watch-dialog-close =
     .title = Zapri
 # Tag: user can watch without paying (sign-in may still be required).
 newtab-sports-widget-watch-stream-free = Brezplačno
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Brezplačen preizkus
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Brezplačno in plačljivo
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Plačljivo
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Samo izbrane tekme
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Na voljo v vaši regiji
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Druge regije
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .title = Odpri prenos
+    .aria-label = Odpri prenos
 newtab-sports-widget-group-stage = Skupinski del
 newtab-sports-widget-group-a = Skupina A
 newtab-sports-widget-group-b = Skupina B
@@ -1348,6 +1376,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Pomembni datumi
 newtab-sports-widget-upcoming = Kmalu
+# Used for a match currently ongoing
+newtab-sports-widget-now = Zdaj
 newtab-sports-widget-results = Izidi
 newtab-sports-widget-semi-finals = Polfinala
 newtab-sports-widget-bronze-finals = Tekma za tretje mesto
@@ -1360,10 +1390,12 @@ newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "n
 # Variables:
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-delayed = Zakasnjeno
 newtab-sports-widget-postponed = Prestavljena
 newtab-sports-widget-suspended = Prekinjena
 newtab-sports-widget-cancelled = Odpovedana
 newtab-sports-widget-information = Podatki o tekmi
+newtab-sports-widget-no-live-data = Podatki za tekme v živo se trenutno ne posodabljajo
 newtab-sports-widget-view-results-link = Prikaži izide
 newtab-sports-widget-third-place = Tretje mesto
 # Runner-up is the team in 2nd place.
@@ -1435,6 +1467,15 @@ newtab-sports-widget-match-aria-label-now =
 #   $date (Date) - The scheduled kickoff date/time
 newtab-sports-widget-match-aria-label-upcoming =
     .aria-label = { $homeTeam } : { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } - { $awayTeam }, zakasnjeno
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } - { $awayTeam }, preloženo
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } - { $awayTeam }, prekinjeno
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } : { $awayTeam }, odpovedano
@@ -1459,9 +1500,14 @@ newtab-sports-widget-team-tbd = Še ni določeno
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Začnite svetovno prvenstvo z novimi ozadji
+newtab-sports-widget-message-wallpapers-body = Popestrite svoj brskalnik z navijaškim vzdušjem.
 newtab-sports-widget-message-wallpapers-cta = Izberi ozadje
+newtab-sports-widget-message-wallpapers-semifinals-title = Prenesite novo ozadje za polfinale
 newtab-sports-widget-message-add-widgets-cta =
     .label = Dodaj pripomočke
+newtab-sports-widget-message-day-in-play-title = Ostanite v igri ves dan s pripomočki { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Spremljajte svetovno prvenstvo, ostanite osredotočeni, preverjajte čas po svetu in še več.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Raziščite pripomočke
 
