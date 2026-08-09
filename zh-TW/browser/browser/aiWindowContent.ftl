@@ -120,6 +120,7 @@ smart-window-opened-tabs-summary-single = 已開啟 { $count } 個分頁。
 #   $count (number) - Number of tabs opened
 #   $label (string) - The label of the tab group
 smart-window-opened-tabs-summary-group = 已建立群組「{ $label }」並開啟 { $count } 個分頁。
+smart-window-opened-tabs-row-label = 開啟的分頁
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = 已切換分頁
 # Variables
