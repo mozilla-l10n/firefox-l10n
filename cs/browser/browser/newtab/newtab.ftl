@@ -755,6 +755,9 @@ newtab-custom-shortcuts-toggle =
     .description = Uložené nebo navštěvované stránky
 newtab-custom-shortcuts-nova =
     .label = Zkratky
+newtab-custom-web-notifications-toggle =
+    .label = Webová oznámení
+    .description = Zobrazovat oznámení z vašich stránek na jejich zkratkách
 newtab-custom-row-description =
     .description = Počet řádků
 # Variables

@@ -2919,6 +2919,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = Výčet hlavních myšlenek v náhledech odkazů
     .description = Před otevřením odkazu si nechte zobrazit krátké shrnutí.
+preferences-ai-controls-sidebar-chatbot-group-2 =
+    .label = Poskytovatelé AI chatbotů v postranní liště
+    .description = Mějte chatbota neustále na očích, jak prohlížíte. Vyberte si z následujících služeb: Anthropic Claude, ChatGPT, Copilot, Google Gemini nebo Mistral Vibe.
 preferences-ai-controls-sidebar-chatbot-group =
     .label = Poskytovatelé AI chatbotů v postranní liště
     .description = Při procházení webu mějte chatbota stále na očích. Na výběr máte chatboty Anthropic Claude, ChatGPT, Copilot, Google Gemini a Le Chat Mistral.
@@ -3124,6 +3127,12 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-safe-browsing =
     .label = Nebezpečný a klamavý obsah není blokován
     .description = Vaše vystavení podvodům a malwaru z webových stránek se zvyšuje.
+security-privacy-issue-warning-doh2 =
+    .label = DNS over HTTPS je zakázáno
+    .description = DNS over HTTPS pomáhá skrývat před poskytovatelem sítě, jaké stránky se chystáte navštívit.
+security-privacy-issue-warning-ech2 =
+    .label = Encrypted Client Hello je deaktivováno
+    .description = Encrypted Client Hello pomáhá skrývat stránky, které se chystáte navštívit, před vaším poskytovatelem sítě.
 security-privacy-issue-warning-doh =
     .label = DNS over HTTPS je zakázáno
     .description = DNS over HTTPS před poskytovatelem sítě skryje, jaké stránky navštěvujete.
@@ -3133,3 +3142,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatická konfigurace proxy serverů je povolena
     .description = Automatická konfigurace proxy může umožnit nedůvěryhodným sítím sledovat vaši aktivitu.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Sdílet { -brand-short-name }
+    .description = Pozvěte někoho, aby zvolil prohlížeč, u kterého je soukromí na prvním místě.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Sdílet { -brand-short-name(case: "acc") }

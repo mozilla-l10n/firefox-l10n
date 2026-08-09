@@ -744,5 +744,11 @@ launch-options-spotlight-checkbox-pin-to-taskbar = Připnout na panel úloh
 launch-options-spotlight-checkbox-restore-current = Znovu otevřít aktuální okna a panely
 # Shown on the browser-launch prompt only
 launch-options-spotlight-checkbox-restore-previous = Znovu otevřít předcházející okna a panely
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close =
+    { -brand-short-name.case-status ->
+        [with-cases] Uložit a zavřít { -brand-short-name(case: "acc") }
+       *[no-cases] Uložit a zavřít aplikaci { -brand-short-name }
+    }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Uložit a pokračovat
