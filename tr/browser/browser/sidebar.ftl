@@ -149,6 +149,12 @@ sidebar-bookmarks-context-menu-delete-separator =
 sidebar-opentabs-context-close-tab =
     .label = Sekmeyi kapat
 
+## Labels for the open tabs panel options menu
+
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Sekme sırası
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

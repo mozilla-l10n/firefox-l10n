@@ -1315,7 +1315,7 @@ bookmarks-tools-sidebar-visibility =
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Yer imleri kenar çubuğunu gizle
+            [true] Yer imleri araç çubuğunu gizle
            *[other] Yer imleri araç çubuğunu göster
         }
 bookmarks-tools-toolbar-visibility-panel =

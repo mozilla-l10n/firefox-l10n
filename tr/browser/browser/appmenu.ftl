@@ -159,6 +159,11 @@ appmenu-fxa-last-sync = Son eşitleme: { $time }
     .label = Son eşitleme: { $time }
 appmenu-fxa-sync-and-save-data2 = Verileri eşitle ve kaydet
 appmenu-fxa-signed-in-label = Giriş yap
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Eşitlemek için giriş yapın
+appmenu-fxa-sign-in-promo-button =
+    .label = Giriş yap
 appmenu-fxa-setup-sync =
     .label = Eşitlemeyi aç…
 appmenu-fxa-setup-sync-new = Aç
@@ -286,6 +291,17 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Geçmişte ara
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Giriş yap
+appmenu-sync-promo-turnonsync =
+    .heading = Sekmelerinizi ve geçmişinizi eşitleyin
+appmenu-sync-promo-turnonsync-cta = Eşitlemeyi başlat
+appmenu-sync-promo-connectdevice-cta = Cihaz bağla
 
 ## Help panel
 

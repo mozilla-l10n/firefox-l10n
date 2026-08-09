@@ -418,6 +418,20 @@ topsite-label-pinned =
     .aria-label = { $title } (sabitlendi)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Az önce
+newtab-topsites-hover-card-mark-all-read =
+    .title = Tümünü okundu olarak işaretle
+    .aria-label = Tümünü okundu olarak işaretle
+newtab-topsites-hover-card-settings =
+    .title = Bildirim ayarları
+    .aria-label = Bildirim ayarları
+newtab-topsites-hover-card-dismiss =
+    .title = Kapat
+    .aria-label = Kapat
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -1588,6 +1602,12 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Arama sonuçları
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Saat dilimi sonuçları
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Eşleşen saat dilimi bulunamadı
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Geri
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
