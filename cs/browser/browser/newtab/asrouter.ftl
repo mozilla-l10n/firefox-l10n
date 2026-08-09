@@ -412,6 +412,9 @@ launch-on-login-infobar-final-reject-button = Ne, děkuji
 ## experiment enabled launch-on-login for the user), informing them that this
 ## happened and letting them keep it on or turn it off.
 
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } se nyní spustí při přihlášení do systému Windows. Toto můžete kdykoli změnit v nastavení.
 launch-on-login-autostart-infobar-keep-button = Ponechat zapnuté
     .accesskey = z
 launch-on-login-autostart-infobar-turn-off-button = Vypnout
@@ -721,6 +724,16 @@ nova-early-access-infobar-primary-button = Rozumím
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login =
+    { -brand-short-name.case-status ->
+        [with-cases] Spustit { -brand-short-name(case: "acc") } při každém přihlášení do systému Windows?
+       *[no-cases] Spustit { -brand-short-name } při každém přihlášení do systému Windows?
+    }
+launch-options-spotlight-title-session-restore =
+    { -brand-short-name.case-status ->
+        [with-cases] Chcete znovu otevřít relaci po restartu { -brand-short-name(case: "acc") }?
+       *[no-cases] Chcete znovu otevřít relaci po restartu aplikace { -brand-short-name }?
+    }
 launch-options-spotlight-checkbox-pin-to-taskbar = Připnout na panel úloh
 # Shown on the browser-close prompt only
 launch-options-spotlight-checkbox-restore-current = Znovu otevřít aktuální okna a panely
