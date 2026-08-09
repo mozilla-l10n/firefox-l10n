@@ -54,6 +54,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Smazat
+edit-profile-page-avatar-selector-opener-button =
+    .title = Upravit ikonku
 edit-profile-page-avatar-selector-opener-link = Upravit
 avatar-selector-icon-tab = Ikona
 avatar-selector-custom-tab = Vlastní
@@ -115,6 +117,9 @@ delete-profile-logins = Hesla
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Smazat profil “{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Smazat profil “{ $profilename }”?
 
 ##
 

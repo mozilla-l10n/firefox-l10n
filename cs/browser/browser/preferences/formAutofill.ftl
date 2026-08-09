@@ -210,6 +210,11 @@ autofill-passport-date-year =
 
 # Header of the doorhanger shown when Firefox offers to save a passport.
 passport-capture-save-doorhanger-header = Uložit pas?
+passport-capture-save-doorhanger-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Uložte informace do { -brand-short-name(case: "gen") }, abyste mohli rychle vyplňovat formuláře.
+       *[no-cases] Uložte informace do aplikace { -brand-short-name }, abyste mohli rychle vyplňovat formuláře.
+    }
 # Accessible label for a passport date part input in the capture doorhanger.
 # The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
 # placeholder text rather than a visible label, so the accessible name combines

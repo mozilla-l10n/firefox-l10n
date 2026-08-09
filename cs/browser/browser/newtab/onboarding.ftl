@@ -893,4 +893,9 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Pokud si to rozmyslít
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = Vyberte si motiv vzhledu
+onboarding-theme-picker-subtitle =
+    { -brand-short-name.case-status ->
+        [with-cases] Vneste do { -brand-short-name(case: "gen") } více barev.
+       *[no-cases] Vneste do aplikace { -brand-short-name } více barev.
+    }
 onboarding-theme-picker-button-label = Uložit a pokračovat

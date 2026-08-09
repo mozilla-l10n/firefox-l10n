@@ -16,6 +16,10 @@ menu-application-set-as-default =
             [with-cases] Nastavit { -brand-shorter-name(case: "acc") } jako výchozí prohlížeč
            *[no-cases] Nastavit aplikaci { -brand-shorter-name } jako výchozí prohlížeč
         }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Sdílet { -brand-shorter-name(case: "acc") }
 menu-application-services =
     .label = Služby
 menu-application-hide-this =
@@ -388,3 +392,7 @@ menu-help-not-deceptive =
     .accesskey = l
 menu-report-broken-site =
     .label = Nahlásit nefunkční stránku
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Sdílet { -brand-shorter-name(case: "acc") }
