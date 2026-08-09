@@ -140,9 +140,70 @@ smartwindow-group-tabs-button =
     .label = ᱤᱧᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱛᱷᱟᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ
     .tooltiptext = ᱤᱧᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱛᱷᱟᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = ᱰᱷᱮᱨ ᱮᱴᱟᱜᱟᱜ
+    .tooltiptext = ᱰᱷᱮᱨ ᱮᱴᱟᱜᱟᱜ
+aiwindow-history-menu-chat-history = ᱪᱟᱴ ᱱᱟᱜᱟᱢ
+aiwindow-history-menu-back =
+    .aria-label = ᱛᱟᱭᱚᱢ
+    .tooltiptext = ᱛᱟᱭᱚᱢ
+aiwindow-history-menu-view-all-chats = ᱥᱟᱱᱟᱢ ᱪᱟᱴ ᱠᱚ ᱧᱮᱞ ᱢᱮ
+aiwindow-history-menu-settings = { -smart-window-brand-name } ᱥᱟᱡᱟᱣᱠᱚ
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = ᱱᱟᱶᱟ ᱪᱟᱴ
+aiwindow-fullpage-chat-history =
+    .label = ᱪᱟᱴ ᱱᱟᱜᱟᱢ
+
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
 
 firefoxview-chats-nav = ᱪᱟᱴᱠᱚ
     .title = ᱪᱟᱴᱠᱚ
 firefoxview-chats-header = ᱪᱟᱴᱠᱚ
+firefoxview-chat-context-delete = ᱪᱮᱴ ᱠᱷᱚᱱ ᱰᱤᱞᱤᱴ ᱢᱮ
+    .accesskey = ᱪ
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = ᱪᱮᱴ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱤ ᱢᱮ
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = ᱛᱮᱦᱮᱸᱧ - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = ᱦᱚᱞᱟ - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = ᱟᱢᱟᱜ ᱪᱟᱴ ᱨᱮ ᱨᱩᱣᱟᱹᱲᱚᱜ ᱢᱮ
+firefoxview-chats-empty-description = ᱡᱮᱞᱠᱟ ᱟᱢ { -smart-window-brand-name } ᱮᱢ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ, ᱟᱢᱟᱜ ᱪᱟᱴ ᱠᱚ ᱱᱚᱸᱰᱮ ᱥᱟᱧᱪᱟᱣᱜᱼᱟ ᱾
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } ᱪᱟᱴ
+        [two] { $count } ᱪᱟᱴ ᱠᱤᱱ
+       *[other] { $count } ᱪᱟᱴ ᱠᱚ
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ, ᱰᱟᱩᱱᱞᱳᱰ, ᱟᱨ ᱪᱟᱴ ᱱᱟᱜᱟᱢ
+    .accesskey = ᱵ
+item-history-downloads-and-chat-description = ᱥᱟᱭᱤᱴ, ᱰᱟᱩᱱᱞᱳᱰ, ᱟᱨ ᱪᱟᱴ ᱱᱟᱜᱟᱢ ᱥᱟᱯᱷᱟᱭ ᱢᱮ

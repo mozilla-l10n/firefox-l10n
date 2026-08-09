@@ -151,6 +151,10 @@ ip-protection-autostart-private-checkbox =
 ip-protection-exceptions-dialog-window =
     .title = Идоракунии танзимоти сомона
 
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header-1 = Маҳдудияти моҳонаи маълумот
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Фаҳмидам

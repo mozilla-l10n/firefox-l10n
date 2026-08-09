@@ -451,11 +451,17 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Ҳамчун пешфарз танзим кардан
 set-default-menu-message-primary-button-variant = Гузоштан ҳамчун браузери асосӣ
+set-default-menu-message-primary-button-short-variant = Браузери «{ -brand-short-name }»-ро ҳамчун браузери пешфарз таъин кунед
 
 ## Firefox Relay 50 Masks Announcement
 
 relay-50-masks-announcement-secondary-button = Нодида гузарондан
     .accesskey = Н
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-primary-button = Фаҳмидам
+    .accesskey = Ф
 
 ## Firefox launch options spotlight
 ##

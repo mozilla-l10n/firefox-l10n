@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = Навсозӣ намешавад — низом мувофиқат намекунад
 appmenuitem-banner-update-restart =
     .label = Навсозӣ дастрас аст — ҳозир браузерро аз нав оғоз кунед
+appmenu-nova-update-title = Барои навсозӣ кардани «{ -brand-short-name }», бозоғозӣ кунед.
+appmenu-nova-update-description = Варақаҳои шумо аз нав кушода мешаванд.
 appmenu-nova-fxa-sign-in = Ворид шудан
 appmenu-nova-switch-device-promo =
     .message = Ба қарибӣ дастгоҳи навро мегиред? Браузери «{ -brand-short-name }»-ро бо худ гиред!
@@ -47,6 +49,10 @@ appmenuitem-translate =
     .label = Тарҷума кардани саҳифа…
 appmenuitem-zoom =
     .value = Танзими андоза
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Мубодила кардани «{ -brand-product-name }»
 appmenuitem-more-tools =
     .label = Абзорҳои бештар
 # Menu combining the previous "Help" menu and report broken site
@@ -110,6 +116,7 @@ appmenu-remote-tabs-unverified = Ҳисоби шумо бояд тасдиқ к�
 appmenuitem-fxa-toolbar-sync-now2 = Ҳозир ҳамоҳанг кунед
 appmenuitem-fxa-sign-in = Ворид шудан ба { -brand-product-name }
 appmenuitem-fxa-manage-account = Идоракунии ҳисоб
+fxa-menu-sync-status-on = Ҳамоҳангсозӣ фаъол аст
 fxa-menu-sync-status-off = Ҳамоҳангсозӣ ғайрифаъол аст
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
@@ -121,6 +128,12 @@ fxa-menu-sync-status-turn-on-button =
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Барои ҳамоҳангсозӣ ворид шавед
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Ҳозир ҳамоҳанг кардани «{ $deviceName }»
+fxa-menu-manage-sync-settings =
+    .label = Идоракунии танзимоти ҳамоҳангсозӣ
 fxa-menu-add-device =
     .label = Илова кардани дастгоҳ
 fxa-menu-manage-devices =
@@ -133,6 +146,10 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Ҳамаи дастгоҳҳо
+fxa-menu-get-firefox-mobile =
+    .label = Браузери «{ -brand-product-name }»-ро дар «Android» ё «iOS» насб кунед
+fxa-menu-secure-sync-subpanel =
+    .title = Ҳамоҳангсозии бехатар
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Ҳисоб
 # Variables
@@ -142,6 +159,9 @@ appmenu-fxa-last-sync = Ҳамоҳангсозии охирин { $time }
     .label = Ҳамоҳангсозии охирин { $time }
 appmenu-fxa-sync-and-save-data2 = Ҳамоҳангсозӣ ва нигоҳ доштани маълумот
 appmenu-fxa-signed-in-label = Ворид шудан
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Барои ҳамоҳангсозӣ ворид шавед
 appmenu-fxa-sign-in-promo-button =
     .label = Ворид шудан
 appmenu-fxa-setup-sync =
@@ -382,5 +402,15 @@ appmenu-edit-this-profile =
     .label = Таҳрир кардани ин профил
 fxa-menu-create-profile-subpanel =
     .title = Эҷод кардани профили нав
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Мубодила кардани «{ -brand-short-name }»
 appmenu-profiles-2 =
     .label = Профилҳо
+appmenu-profiles-header = Профилҳо
+appmenu-all-profiles =
+    .label = Ҳамаи профилҳо
+appmenu-secure-sync-header = Ҳамоҳангсозии бехатар
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Варақаҳои охирин

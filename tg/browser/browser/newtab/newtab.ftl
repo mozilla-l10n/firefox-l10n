@@ -161,9 +161,17 @@ newtab-privacy-menu-learn-more = Маълумоти бештар
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-info-2-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-info-3-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-info-4-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-info-5-cta = Намоиши муҳофизатҳо
 newtab-privacy-message-info-6-cta = Маълумоти бештар
+newtab-privacy-message-info-7-cta = Намоиши муҳофизатҳо
 newtab-privacy-message-info-8-cta = Маълумоти бештар
 newtab-privacy-message-info-11-cta = Маълумоти бештар
+newtab-privacy-message-info-12-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-info-13-cta = Намоиши муҳофизатҳо
 
 ## Privacy widget — promotional messages
 ##
@@ -174,6 +182,21 @@ newtab-privacy-message-promo-monitor-1-cta = Маълумоти бештар
 newtab-privacy-message-promo-monitor-2-cta = Маълумоти бештар
 newtab-privacy-message-promo-signin-1-cta = Ворид шудан
 newtab-privacy-message-promo-vpn-1-cta = Кушодани «VPN»
+newtab-privacy-message-promo-vpn-2-cta = Кушодани «VPN»
+newtab-privacy-message-promo-vpn-3-cta = Кушодани «VPN»
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-milestone-month-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-milestone-year-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-milestone-total-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-daily-cap-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-streak-cta = Намоиши муҳофизатҳо
+newtab-privacy-message-first-protection-cta = Намоиши муҳофизатҳо
 
 ## Strings for the Stocks widget
 
@@ -1127,6 +1150,9 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Натиҷаҳои ҷустуҷӯ
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Илова кардани «{ $city }» ҳамчун соати фармоишӣ
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
     .label = Номи шаҳр
@@ -1136,6 +1162,12 @@ newtab-clock-widget-custom-city-input =
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
 newtab-clock-widget-search-no-results = Ягон мутобиқат нест
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Кушодани меню барои соат
+    .aria-label = Кушодани меню барои соат
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Ню-Йорк
