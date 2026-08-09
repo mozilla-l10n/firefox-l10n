@@ -734,6 +734,11 @@ launch-options-spotlight-title-session-restore =
         [with-cases] Chcete znovu otevřít relaci po restartu { -brand-short-name(case: "acc") }?
        *[no-cases] Chcete znovu otevřít relaci po restartu aplikace { -brand-short-name }?
     }
+launch-options-spotlight-checkbox-launch-on-login =
+    { -brand-short-name.case-status ->
+        [with-cases] Otevírat { -brand-short-name } při spuštění
+       *[no-cases] Otevírat aplikaci { -brand-short-name } při spuštění
+    }
 launch-options-spotlight-checkbox-pin-to-taskbar = Připnout na panel úloh
 # Shown on the browser-close prompt only
 launch-options-spotlight-checkbox-restore-current = Znovu otevřít aktuální okna a panely
