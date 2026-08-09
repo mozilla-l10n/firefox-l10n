@@ -41,8 +41,15 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 # $percent (Number) - Percentage of the cache capacity currently in use
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } კბაიტი ({ $percent }%)
 about-networking-ssl-tokens-partition-key = დანაყოფის გასაღები
+about-networking-ssl-tokens-tokens-column = საშვები
 about-networking-ssl-tokens-expires = ვადა
 about-networking-ssl-tokens-certificate = სერტ.
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } საშვი
+       *[other] { $count } საშვი
+    }
 about-networking-ssl-tokens-restored =
     .alt = აღდგენილია საცავიდან
     .title = აღდგენილია საცავიდან
@@ -52,6 +59,11 @@ about-networking-ssl-tokens-new =
 about-networking-ssl-tokens-expired =
     .alt = ვადაგასულია
     .title = ვადაგასულია
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = საშვი: { $tokenLength } ბაიტი. დაშიფრული: { $decompressedLength } → { $compressedLength } ბაიტი.
 about-networking-ssl-tokens-ev-status = EV-სერტ.
 about-networking-ssl-tokens-ct-status = სერტ. გამჭვირვალობის მდგომარეობა
 about-networking-ssl-tokens-built-in-root = ჩაშენებული ძირეული
