@@ -1002,7 +1002,7 @@ urlbar-searchmode-exit-button =
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Šajā reizē meklēt ar:
 urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Meklēšanās iestatījumi
+    .label = Meklēšanas iestatījumi
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1043,7 +1043,7 @@ urlbar-searchmode-popup-one-off-header = Šajā reizē meklēt ar:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Meklēt ar:
-urlbar-searchmode-popup-search-settings-panelitem = Meklēšanās iestatījumi
+urlbar-searchmode-popup-search-settings-panelitem = Meklēšanas iestatījumi
 urlbar-searchmode-popup-settings-panelitem = Iestatījumi
 
 ## Action text shown in urlbar results, usually appended after the search

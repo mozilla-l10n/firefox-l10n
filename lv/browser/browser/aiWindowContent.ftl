@@ -6,3 +6,8 @@
 ## Error messages in the chat content
 
 smartwindow-retry-btn = Mēģināt vēlreiz
+
+## Action log
+
+action-log-searching-settings = Meklē iestatījumus
+action-log-searched-settings = Meklēja iestatījumus
