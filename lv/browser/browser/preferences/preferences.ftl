@@ -31,7 +31,7 @@ category-nav-heading =
 # Do not translate.
 search-input-box2 =
     .style = width: 15.4em
-    .placeholder = Atrast iestatījumos
+    .placeholder = Meklēt iestatījumus
 managed-notice = Jūsu pārlūku pārvalda jūsu organizācija.
 managed-notice-info-icon =
     .alt = Informācija
@@ -1443,6 +1443,10 @@ collection-health-report-link = Uzzināt vairāk
 collection-studies =
     .label = Ļaut { -brand-short-name } instalēt un palaist pētījumus
 collection-studies-link = Aplūkot { -brand-short-name } pētījumus
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Tie paši iestatījumi, jauns izskats.
+    .message = Mēs pārkārtojām šo lapu, lai būtu vienkāršāk pārskatīt un izpētīt. Personīgie iestatījumi nav mainījušies, un viss joprojām ir šeit. Padoms: var izmantot meklēšanu, lai nokļūtu, kur vajag.
 addon-recommendations =
     .label = Ļaut { -brand-short-name } sniegt personalizētus paplašinājumu ieteikumus
 addon-recommendations-link = Uzzināt vairāk

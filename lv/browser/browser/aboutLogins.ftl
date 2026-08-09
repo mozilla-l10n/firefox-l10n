@@ -5,8 +5,8 @@
 
 about-logins-page-title = Lietotājvārdi un paroles
 about-logins-login-filter =
-    .placeholder = Meklēt lietotājvārdus
     .key = F
+    .placeholder = Meklēt pieteikumvārdus
 create-new-login-button =
     .title = Izveidot jaunu lietotājvārdu
 about-logins-page-title-name = Paroles

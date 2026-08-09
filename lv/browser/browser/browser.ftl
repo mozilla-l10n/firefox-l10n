@@ -1043,6 +1043,8 @@ urlbar-searchmode-popup-one-off-header = Šajā reizē meklēt ar:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Meklēt ar:
+urlbar-searchmode-popup-search-settings = Meklēšanas iestatījumi
+    .accesskey = m
 urlbar-searchmode-popup-search-settings-panelitem = Meklēšanas iestatījumi
 urlbar-searchmode-popup-settings-panelitem = Iestatījumi
 
@@ -1424,7 +1426,7 @@ navbar-library =
     .label = Bibliotēka
     .tooltiptext = Skatīt vēsturi, saglabātās grāmatzīmes un daudz ko citu
 navbar-search =
-    .title = Meklēt
+    .title = Meklēšana
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
