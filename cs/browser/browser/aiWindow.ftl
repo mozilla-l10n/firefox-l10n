@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Otevřít nové anonymní okno
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klasické okno
+toolbar-switcher-customizable-label =
+    .label = Přepínač { -smart-window-brand-name(case: "gen") }
+    .tooltiptext = Přepínání mezi chytrým a klasickým oknem.
 
 ## Input CTA
 
@@ -228,6 +231,10 @@ aiwindow-fullpage-more =
     .label = Další
     .title = Další
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Synchronizovaná data zůstanou uložena ve vašem účtu. Otevřením { -smart-window-brand-name(case: "gen", plural-form: "true") } přepnete na klasická okna.
+
 ## Smart Window Toggle Button (in-page)
 
 smartwindow-switch-to-smart-window = Přepnout na { -smart-window-brand-name(case: "acc") }
@@ -271,6 +278,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Zpět na vaše chaty
+firefoxview-chats-empty-description = Když budete používat { -smart-window-brand-name(case: "acc") }, budou se vaše chaty ukládat sem.
 
 ## Count displayed in fxview chat search results
 
@@ -335,6 +343,11 @@ aiwindow-feedback-modal-title = Sdílet zpětnou vazbu
 aiwindow-feedback-what-worked-well = Co fungovalo dobře? Žádné osobní informace, prosím.
 aiwindow-feedback-choose-any = Zvolte všechny položky, které platí
 aiwindow-feedback-add-details = Pokud chcete, přidejte podrobnosti. Žádné osobní informace, prosím.
+aiwindow-feedback-disclaimer =
+    { -brand-shorter-name.case-status ->
+        [with-cases] Odesláním této zprávy sdílíte svou zpětnou vazbu a obsah tohoto chatu, abyste pomohli { -brand-shorter-name(case: "dat") } vylepšit funkci { -smart-window-brand-name }. Vaše ostatní chaty zůstanou soukromé. <a data-l10n-name="learn-more">Další informace</a>
+       *[no-cases] Odesláním této zprávy sdílíte svou zpětnou vazbu a obsah tohoto chatu, abyste pomohli aplikaci { -brand-shorter-name } vylepšit funkci { -smart-window-brand-name }. Vaše ostatní chaty zůstanou soukromé. <a data-l10n-name="learn-more">Další informace</a>
+    }
 aiwindow-feedback-submit = Odeslat
 aiwindow-feedback-cancel = Zrušit
 aiwindow-feedback-reason-incorrect-or-misleading = Nesprávné nebo zavádějící

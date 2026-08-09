@@ -20,6 +20,9 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = Výchozí nastavení
+ai-window-is-default-window =
+    .label = Používat ve výchozím nastavení { -smart-window-brand-name }
+    .description = Otevřít { -smart-window-brand-name } při startu, restartu aplikace { -brand-short-name } nebo při otevírání odkazů z jiné aplikace.
 ai-window-open-sidebar =
     .label = Automaticky otevírat asistenta
     .description = Na každém novém panelu se zobrazí postranní panel asistenta. Můžete jej kdykoli zavřít.
@@ -61,6 +64,9 @@ smart-window-model-custom-more-link = Více o vlastních modelech
 smart-window-model-custom-save =
     .label = Uložit
 smart-window-model-custom-save-confirmation = Podrobnosti o modelu byly uloženy. Pro vyzkoušení spusťte nový chat.
+ai-window-memories-section =
+    .label = Vzpomínky
+    .description = { -brand-short-name } se může z vaší aktivity učit a vytvářet si vzpomínky. Slouží k přizpůsobení odpovědí a ukládají se místně na tomto zařízení.
 ai-window-learn-from-chat-activity =
     .label = Učit se z chatu v { -smart-window-brand-name(case: "loc", plural-form: "true") }
 ai-window-learn-from-browsing-activity =
@@ -79,6 +85,9 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Smazat vše
 ai-window-delete-all-memories-title = Smazat všechny vzpomínky?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Existující vzpomínky budou smazány. Pokud nechcete vytvářet žádné nové vzpomínky, zrušte zaškrtnutí u možnosti „Učit se od…“ v nastavení funkce { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Smazat
 ai-window-delete-all-memories-cancel = Zrušit
 # Variables:

@@ -835,6 +835,12 @@ newtab-custom-appearance-section-title = Vzhled
 # Button that opens the full browser theme selection view.
 newtab-appearance-more-themes-button =
     .label = Zobrazit více vzhledů
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title =
+    { -brand-product-name.case-status ->
+        [with-cases] Motivy vzhledu { -brand-product-name(case: "gen") }
+       *[no-cases] Motivy vzhledu aplikace { -brand-product-name }
+    }
 # Header for the list of the user's already-installed themes in the full theme panel.
 newtab-appearance-your-themes-header = Vaše vzhledy
 # Button that enables an already-installed theme.
@@ -1254,6 +1260,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Zrušit
     .title = Zrušit
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Možnosti seznamu
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Vytvořit nový seznam
@@ -1752,6 +1761,9 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Výsledky vyhledávání
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Přidat „{ $city }“ jako vlastní hodiny
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
     .label = Název města
