@@ -1504,6 +1504,7 @@ newtab-sports-widget-message-wallpapers-title = Začnite svetovno prvenstvo z no
 newtab-sports-widget-message-wallpapers-body = Popestrite svoj brskalnik z navijaškim vzdušjem.
 newtab-sports-widget-message-wallpapers-cta = Izberi ozadje
 newtab-sports-widget-message-wallpapers-semifinals-title = Prenesite novo ozadje za polfinale
+newtab-sports-widget-message-wallpapers-semifinals-body = Pripravite se na največje obračune svetovnega prvenstva.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Dodaj pripomočke
 newtab-sports-widget-message-day-in-play-title = Ostanite v igri ves dan s pripomočki { -brand-product-name }
@@ -1516,6 +1517,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 newtab-sports-widget-message-survey-title = Pomagajte nam izboljšati pripomočke
 newtab-sports-widget-message-survey-body = Svetovno prvenstvo je pri koncu. Sporočite nam svoje mnenje o izkušnji.
 newtab-sports-widget-message-survey-widget-title = Kakšen se vam je zdel pripomoček za svetovno prvenstvo?
+newtab-sports-widget-message-survey-widget-body = Delite svoje mnenje in nam pomagajte izboljšati prihodnje pripomočke. Nato preizkusite še nove v svoji zbirki.
 newtab-sports-widget-message-survey-cta =
     .label = Izpolni vprašalnik
 
