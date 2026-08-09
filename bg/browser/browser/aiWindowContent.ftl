@@ -34,3 +34,7 @@ smart-window-confirm-group-tab = Група
 smart-window-grouped-tabs-row-label = Групирани раздели
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Разделите са разгрупирани
+
+## Action log
+
+action-log-searched-web = Търсене в интернет
