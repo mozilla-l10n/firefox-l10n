@@ -634,3 +634,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = თანაშემწ�
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = შეკითხვით გახსენით ნებისმიერ გვერდზე. შეცვლა ყოველთვის შეგიძლიათ <a data-l10n-name="settings">პარამეტრებიდან</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = გასაგებია
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = თუ გადაიფიქრებთ, ნაგულისხმევის განახლება ნებისმიერ დროს შეგეძლებათ <a data-l10n-name="settings">პარამეტრებიდან</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = აირჩიეთ გაფორმება
+onboarding-theme-picker-subtitle = ცოტა უფრო უკეთ შეაფერადეთ { -brand-short-name }.
+onboarding-theme-picker-button-label = შეინახეთ და განაგრძეთ

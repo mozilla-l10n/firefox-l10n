@@ -66,6 +66,7 @@ about-networking-ssl-tokens-compression-details =
     .title = საშვი: { $tokenLength } ბაიტი. დაშიფრული: { $decompressedLength } → { $compressedLength } ბაიტი.
 about-networking-ssl-tokens-ev-status = EV-სერტ.
 about-networking-ssl-tokens-ct-status = სერტ. გამჭვირვალობის მდგომარეობა
+about-networking-ssl-tokens-overridable-error = გვერდის ასავლელ შეცდომათა ჯგუფი
 about-networking-ssl-tokens-built-in-root = ჩაშენებული ძირეული
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = სერტ. ჯაჭვი ({ $count })
