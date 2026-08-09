@@ -406,6 +406,11 @@ topsite-label-pinned =
 
 ## Top Sites - Web notifications hover card
 
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Pravkar
+newtab-topsites-hover-card-mark-all-read =
+    .title = Označi vse kot prebrano
+    .aria-label = Označi vse kot prebrano
 newtab-topsites-hover-card-settings =
     .title = Nastavitve obvestil
     .aria-label = Nastavitve obvestil
@@ -631,6 +636,9 @@ newtab-custom-shortcuts-toggle =
     .description = Strani, ki jih shranite ali obiščete
 newtab-custom-shortcuts-nova =
     .label = Bližnjice
+newtab-custom-web-notifications-toggle =
+    .label = Spletna obvestila
+    .description = Prikažite obvestila svojih spletnih mest na njihovih bližnjicah
 newtab-custom-row-description =
     .description = Število vrstic
 # Variables
@@ -1482,6 +1490,7 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ta prostor igra po vaših pravilih
+newtab-activation-window-message-values-focus-message = S { -brand-product-name(sklon: "orodnik") } lahko brskate, kakor želite, in si spletni začetek dneva naredite bolj oseben. Prilagodite si { -brand-product-name(sklon: "tožilnik") } po svojem okusu.
 
 ## Strings for the Clock widget
 
