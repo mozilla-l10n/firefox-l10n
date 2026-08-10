@@ -76,6 +76,8 @@ deniedPortAccess-title = Aquesta adreça està restringida
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Tenim problemes per trobar aquest lloc.
+dns-not-found-trr-only-title2 = Hi ha un possible risc de seguretat al cercar aquest domini
+dns-not-found-native-fallback-title2 = Hi ha un possible risc de seguretat al cercar aquest domini
 fileNotFound-title = No s'ha trobat el fitxer
 fileAccessDenied-title = S'ha denegat l'accés al fitxer
 generic-title = Ups.

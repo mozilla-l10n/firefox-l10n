@@ -12,6 +12,8 @@ neterror-blocked-by-policy-page-title = Pàgina blocada
 neterror-captive-portal-page-title = Inicieu la sessió a la xarxa
 neterror-dns-not-found-title = No s'ha trobat el servidor
 neterror-malformed-uri-page-title = L'URL no és vàlid
+general-body-title = Aneu amb compte. Alguna cosa no sembla correcta.
+problem-with-this-site-title = Sembla que hi ha un problema amb aquest lloc web
 
 ## Error page actions
 

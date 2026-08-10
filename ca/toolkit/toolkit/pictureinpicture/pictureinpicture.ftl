@@ -33,6 +33,18 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Subtítols
     .tooltip = Subtítols
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Pantalla completa
+    .tooltip = Pantalla completa (doble clic o { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Surt de la pantalla completa
+    .tooltip = Surt de la pantalla completa (doble clic o { $shortcut })
+
+##
+
+# Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
+pictureinpicture-toggle-fullscreen-shortcut =
+    .key = F
 
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
@@ -48,6 +60,10 @@ pictureinpicture-seekforward-btn =
 
 ##
 
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Paràmetres dels subtítols
 pictureinpicture-subtitles-label = Subtítols
 pictureinpicture-font-size-label = Mida de la lletra
 pictureinpicture-font-size-small = Petita

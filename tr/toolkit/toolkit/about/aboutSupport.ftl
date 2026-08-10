@@ -139,7 +139,7 @@ place-database-verify-integrity = Bütünlüğü doğrula
 place-database-last-idle-maintenance-data = Son boşta bakım tarihi
 # Vacuum refers to a type of database maintenance process
 place-database-last-vacuum-date = Son vakumlama tarihi
-place-database-last-integrity-corruption-date = Son sütünlük bozulması tarihi
+place-database-last-integrity-corruption-date = Son bütünlük bozulması tarihi
 a11y-title = Erişilebilirlik
 a11y-activated = Etkinleştirildi mi?
 a11y-force-disabled = Erişilebilirliği engelle
@@ -183,7 +183,6 @@ media-device-format = Biçim
 media-device-channels = Kanallar
 media-device-rate = Hız
 media-device-latency = Gecikme
-media-capabilities-title = Çoku ortam yetenekleri
 media-codec-support-info = Codec destek bilgileri
 # List all the entries of the database.
 media-capabilities-enumerate = Veritabanını numaralandır

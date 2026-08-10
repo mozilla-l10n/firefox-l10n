@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Adreces d'interès
+sidebar-menu-bookmarks-2 = Adreces d'interès
 sidebar-menu-history =
     .label = Historial
 sidebar-menu-synced-tabs =

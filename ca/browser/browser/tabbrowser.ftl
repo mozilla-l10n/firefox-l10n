@@ -369,6 +369,7 @@ tab-group-overflow-count-tooltip =
 ## recommends that the user create a tab group.
 
 tab-groups-list-empty-header = Endreceu les pestanyes
+tab-groups-list-empty-description = Arrossegueu una pestanya sobre d'una altra o feu-hi clic amb el botó dret per començar a organitzar-les. Es desaran els grups aquí de manera que sigui fàcil de trobar més tard.
 
 ## Open/saved tab group context menu
 

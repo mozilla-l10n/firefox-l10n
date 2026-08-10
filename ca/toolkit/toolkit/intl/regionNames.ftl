@@ -34,6 +34,7 @@ region-name-bl = Saint-Barthélemy
 region-name-bm = Bermuda
 region-name-bn = Brunei
 region-name-bo = Bolívia
+region-name-bq-2018 = Carib Neerlandès
 region-name-br = Brasil
 region-name-bs = Bahames
 region-name-bt = Bhutan

@@ -721,6 +721,43 @@ mlmodel-addon-detail-model-card = Karta modelu
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Zobrazit na Hugging Face
 
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Vytvarujte { -brand-product-name } podle sebe
+    .message = Přidejte si nástroje a styly podle svých potřeb a vkusu.
+find-more-addons-promo-open-amo-button = Prozkoumejte rozšíření a motivy vzhledu
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Najděte své další oblíbené rozšíření
+    .message = Přizpůsobte si { -brand-product-name(case: "acc") } s nástroji pro zaměření, soukromí, nakupování a další.
+find-more-extensions-promo-open-amo-button = Prozkoumat rozšíření
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Objevte další svěží vzhled
+    .message = Vyberte si styl, ve kterém bude { -brand-product-name } vypadat jako váš.
+find-more-themes-promo-open-amo-button = Prozkoumat vzhledy
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Pár rozšíření dokáže hodně
+    .message = Máme pro vás doporučení, která vám pomohou se lépe soustředit, zlepšit soukromí a další věci.
+list-empty-get-extensions-promo-button = Najděte své první rozšíření
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -732,9 +769,30 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Podle zařízení
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading =
+        { -brand-product-name.case-status ->
+            [with-cases] Vzhledy pro { -brand-product-name(case: "acc") }
+           *[no-cases] Vzhledy pro aplikaci { -brand-product-name }
+        }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Zobrazit více
+aboutaddons-themes-picker-see-less = Zobrazit méně
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Povolit
+aboutaddons-themes-picker-disable-button =
+    .label = Zakázat
+aboutaddons-themes-picker-install-button =
+    .label = Instalovat
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Motiv vzhledu se nepodařilo aktualizovat. Zkontrolujte připojení a zkuste to znovu.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

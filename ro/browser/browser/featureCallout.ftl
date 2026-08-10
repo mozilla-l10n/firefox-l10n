@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Lansează-ți site-urile de streaming ca p
 taskbar-tabs-value-prop-callout-title = Adaugă acest site în bara de activități
 taskbar-tabs-value-prop-callout-subtitle = Lansează-l în propria fereastră și o interfață simplificată cu un singur clic.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Rămâi conectat(ă) din bara de activități
+taskbar-tabs-email-callout-title-v3 = Păstrează-ți căsuța poștală în bara de activități
+taskbar-tabs-email-callout-subtitle-v3 = Lansează-ți site-urile de e-mail ca pe o aplicație într-o fereastră simplificată, protejată de { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Păstrează-ți streamingul în bara de activități
+taskbar-tabs-media-callout-subtitle-v3 = Lansează-ți site-urile media ca pe o aplicație într-o fereastră simplificată, protejată de { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Fixează-ți site-urile preferate în bara de activități
+taskbar-tabs-value-prop-callout-subtitle-v3 = Lansează orice site ca pe o aplicație într-o fereastră simplificată, protejată de { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Revino la jocuri din bara de activități
+taskbar-tabs-gaming-callout-subtitle-v3 = Lansează-ți site-urile de jocuri ca pe o aplicație într-o fereastră simplificată, protejată de { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Fixează în bara de activități
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Nu pierde tot ce ai salvat când treci la Windows 11.

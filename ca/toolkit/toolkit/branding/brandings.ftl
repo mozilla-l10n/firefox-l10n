@@ -34,6 +34,7 @@
 -solo-ai-brand-name = Solo
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name = Thunderbird
+-mdn-brand-name = Documentació web de MDN
 -yelp-brand-name = Yelp
 
 ##

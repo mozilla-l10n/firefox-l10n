@@ -98,6 +98,7 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Informació de formularis desats
     .accesskey = o
+item-formdata-description = Esborra informació com ara noms, correus electrònics i altres elements introduïts en formularis
 item-site-prefs-description = Restableix els permisos i les preferències del lloc a la configuració original
 data-section-label = Dades
 item-site-settings =

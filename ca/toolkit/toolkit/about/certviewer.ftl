@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Localitat (empresa)
 certificate-viewer-locality = Localitat
 certificate-viewer-location = Ubicació
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Nom de registre
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID de registre
 certificate-viewer-method = Mètode
 certificate-viewer-modulus = Mòdul
@@ -111,6 +113,8 @@ certificate-viewer-export = Exporta
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = (desconegut)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = certificat
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

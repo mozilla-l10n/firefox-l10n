@@ -15,6 +15,9 @@ column-memory = Memòria
 ## Special values for the Name column
 
 ghost-windows = Pestanyes tancades recentment
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Precarregat: { $title }
 
 ## Values for the Type column
 

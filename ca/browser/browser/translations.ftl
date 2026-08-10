@@ -238,6 +238,16 @@ select-translations-panel-translation-failure-message =
     .message = Hi ha hagut un problema en traduir. Torneu-ho a provar.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from { $language } yet.
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known-2 =
+    .message = Encara no admetem traduccions de { $language }.
+select-translations-panel-unsupported-language-message-unknown-2 =
+    .message = Encara no admetem traduccions d'aquesta llengua.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
 #
 # Variables:

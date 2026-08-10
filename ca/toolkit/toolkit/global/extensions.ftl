@@ -18,6 +18,7 @@ webext-perms-sideload-header = S'ha afegit { $extension }
 webext-perms-optional-perms-header2 = { $extension } sol·licita permisos addicionals.
 webext-perms-optional-perms-header = { $extension } sol·licita permisos addicionals.
 webext-perms-header2 = Afegeix { $extension }
+webext-perms-list-intro-unsigned = Aquesta extensió no verificada pot posar en risc la vostra privadesa o comprometre el vostre dispositiu. Afegiu-lo només si confieu en la font.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -115,6 +116,10 @@ webext-perms-description-data-some-update = El desenvolupador diu que aquesta ex
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some-optional = El desenvolupador diu que aquesta extensió vol recopilar: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } requereix que s'actualitzin paràmetres nous
+webext-perms-update-list-intro-with-data-collection = Cancel·leu per conservar la versió i la configuració actuals o actualitzeu per obtenir la nova versió i aprovar els canvis.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } sol·licita paràmetres addicionals

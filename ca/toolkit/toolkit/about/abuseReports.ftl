@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Informe sobre { $addon-name }
 abuse-report-title-extension = Informeu sobre aquesta extensió a { -vendor-short-name }
+abuse-report-title-sitepermission = Informeu sobre el complement «This Site Permissions» a { -vendor-short-name }
 abuse-report-title-theme = Informeu sobre aquest tema a { -vendor-short-name }
 abuse-report-subtitle = Quin és el problema?
 # Variables:
@@ -41,6 +42,7 @@ abuse-report-messagebar-submitting = S'està enviant l'informe sobre <span data-
 abuse-report-messagebar-submitted = Gràcies per enviar un informe. Voleu eliminar <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Gràcies per enviar un informe.
 abuse-report-messagebar-removed-extension = Gràcies per enviar un informe. Heu eliminat l'extensió <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Gràcies per enviar un informe. Heu eliminat el complement «Site Permissions» <span data-l10n-name="addon-name">{ $addon-name } </span>.
 abuse-report-messagebar-removed-theme = Gràcies per enviar un informe. Heu eliminat el tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = S'ha produït un error en enviar l'informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = L'informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span> no s'ha enviat perquè recentment ja s'ha enviat un altre informe.

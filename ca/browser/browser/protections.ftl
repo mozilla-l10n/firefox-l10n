@@ -239,6 +239,7 @@ privacy-metrics-social =
         [one] { $count } element de seguiment social
        *[other] { $count } elements de seguiment social
     }
+privacy-metrics-empty = No s'ha blocat cap element de seguiment aquesta setmana. El { -brand-short-name } us protegeix de les següents amenaces mentre navegueu.
 privacy-metrics-loading = S'estan carregant les estadístiques de protecció…
 privacy-metrics-error = No s'han pogut carregar les estadístiques de protecció.
 privacy-metrics-private-window = En les finestres privades, el { -brand-short-name } segueix blocant els elements de seguiment, però no conserva cap registre d'allò que bloca.
