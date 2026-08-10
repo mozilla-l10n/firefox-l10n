@@ -34,6 +34,47 @@ about-networking-ssl-tokens-summary-expired =
         [few] ({ $count } пратэрмінавана)
        *[many] ({ $count } пратэрмінавана)
     }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } Б ({ $saved }% зэканомлена)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } КБ ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Ключ раздзела
+about-networking-ssl-tokens-tokens-column = Токены
+about-networking-ssl-tokens-expires = Тэрмін дзеяння
+about-networking-ssl-tokens-certificate = Сертыфікат
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } токен
+        [few] { $count } токены
+       *[many] { $count } токенаў
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Адноўлена з сховішча
+    .title = Адноўлена з сховішча
+about-networking-ssl-tokens-new =
+    .alt = Новы ў гэтым сеансе
+    .title = Новы ў гэтым сеансе
+about-networking-ssl-tokens-expired =
+    .alt = Пратэрмінаваны
+    .title = Пратэрмінаваны
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Токены: { $tokenLength } Б. Закадавана: { $decompressedLength } → { $compressedLength } Б.
+about-networking-ssl-tokens-ev-status = Сертыфікат EV
+about-networking-ssl-tokens-ct-status = Статус празрыстасці сертыфіката
+about-networking-ssl-tokens-overridable-error = Катэгорыя памылкі, якую можна перавызначыць
+about-networking-ssl-tokens-built-in-root = Убудаваны корань
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Ланцуг сертыфікатаў ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Сертыфікаты рукапаціскання ({ $count })
 about-networking-refresh = Паднавіць
 about-networking-auto-refresh = Паднаўляць кожныя 3 секунды
 about-networking-hostname = Назва трымальніка

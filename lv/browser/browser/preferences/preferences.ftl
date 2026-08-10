@@ -135,7 +135,7 @@ extension-controlled-enable = Lai iespējotu paplašinājumu, izvēlnē jādodas
 search-results-header = Meklēšanas iznākums
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Atvainojiet! Iestatījumos vaicājumam “<span data-l10n-name="query"></span>” nav rezultātu.
-search-results-help-link = Vai nepieciešama palīdzība? Apmeklējiet <a data-l10n-name="url">{ -brand-short-name } atbalstu</a>
+search-results-help-link = Vajadzīga palīdzība? Apmeklē <a data-l10n-name="url">{ -brand-short-name } atbalsta vietni</a>!
 
 ## General Section
 

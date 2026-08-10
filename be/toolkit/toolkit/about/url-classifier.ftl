@@ -37,6 +37,20 @@ url-classifier-cache-prefix = Прэфікс
 url-classifier-cache-ncache-expiry = Тэрмін захоўвання негатыўнага кэша мінае
 url-classifier-cache-fullhash = Поўны хэш
 url-classifier-cache-pcache-expiry = Тэрмін захоўвання пазітыўнага кэша мінае
+url-classifier-content-classifier-title = Класіфікатар змесціва
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = URL
+# URL that loads the URL being tested (hence Loading URL)
+# This is the URL of a frame within the document that initiates the request to load another URL
+# (e.g. an iframe that is loading a tracking pixel)
+url-classifier-content-classifier-loading-url = Загрузка URL
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = Уключыць загрузку URL
+# URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+# Most often the site URL show in the address bar.
+url-classifier-content-classifier-top-window-url = URL-адрас верхняга акна
 url-classifier-debug-title = Адладка
 url-classifier-debug-module-btn = Пазначыць модулі журнала
 url-classifier-debug-file-btn = Пазначыць файл журнала
