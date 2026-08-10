@@ -139,10 +139,17 @@ taskbar-tabs-value-prop-callout-subtitle = Starten Sie es in einem eigenen Fenst
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Bleiben Sie von der Taskleiste aus in Verbindung
 taskbar-tabs-email-callout-title-v3 = Behalten Sie Ihren Posteingang in der Taskleiste
 taskbar-tabs-email-callout-subtitle-v3 = Starten Sie Ihre E-Mail-Websites wie eine App in einem optimierten Fenster, das durch { -brand-short-name } geschützt ist.
+taskbar-tabs-media-callout-title-v3 = Behalten Sie Ihr Streaming in Ihrer Taskleiste
 taskbar-tabs-media-callout-subtitle-v3 = Starten Sie Ihre Medien-Websites wie eine App in einem optimierten Fenster, das durch { -brand-short-name } geschützt ist.
 taskbar-tabs-value-prop-callout-title-v3 = Heften Sie Ihre Lieblings-Webseiten an die Taskleiste
+taskbar-tabs-value-prop-callout-subtitle-v3 = Starten Sie eine beliebige Website wie eine App in einem optimierten Fenster, das durch { -brand-short-name } geschützt ist.
+taskbar-tabs-gaming-callout-title-v3 = Kehren Sie über die Taskleiste zum Spiel zurück
+taskbar-tabs-gaming-callout-subtitle-v3 = Starten Sie Ihre Spiele-Websites wie eine App in einem optimierten Fenster, das von { -brand-short-name } geschützt wird.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = An Taskleiste anheften
 

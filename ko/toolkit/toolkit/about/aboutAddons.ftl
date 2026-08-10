@@ -633,6 +633,23 @@ find-more-extensions-promo =
     .message = 집중, 개인정보 보호, 쇼핑 등 다양한 도구로 { -brand-product-name }를 사용자 지정할 수 있습니다.
 find-more-extensions-promo-open-amo-button = 확장 기능 살펴보기
 
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = 더 산뜻한 스타일 찾기
+    .message = 나만의 { -brand-product-name }에 어울리는 스타일을 선택하세요.
+find-more-themes-promo-open-amo-button = 테마 살펴보기
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = 몇 가지 확장 기능이 큰 도움이 됩니다
+    .message = 집중력, 개인정보 보호 등을 개선하는 데 도움이 되는 추천 사항이 있습니다.
+list-empty-get-extensions-promo-button = 나의 첫 번째 확장 기능 찾기
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -644,9 +661,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = 기기
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } 테마
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = 더보기
+aboutaddons-themes-picker-see-less = 접기
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = 사용함
+aboutaddons-themes-picker-disable-button =
+    .label = 사용 안 함
+aboutaddons-themes-picker-install-button =
+    .label = 설치
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = 테마를 업데이트할 수 없습니다. 연결을 확인하고 다시 시도하세요.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

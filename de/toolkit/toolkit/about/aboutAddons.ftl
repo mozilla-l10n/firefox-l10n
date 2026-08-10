@@ -657,6 +657,9 @@ find-more-themes-promo-open-amo-button = Entdecken Sie Themes
 ## Promo shown in about:addons extensions list view when no extension is yet installed
 ## and Project Nova is enabled.
 
+list-empty-get-extensions-promo =
+    .heading = Schon wenige Erweiterungen können viel bewirken
+    .message = Wir haben Empfehlungen, mit denen Sie sich besser konzentrieren, Ihre Privatsphäre und mehr verbessern können.
 list-empty-get-extensions-promo-button = Finden Sie Ihre erste Erweiterung
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
