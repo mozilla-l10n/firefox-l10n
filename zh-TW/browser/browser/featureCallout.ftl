@@ -133,6 +133,15 @@ taskbar-tabs-media-callout-subtitle = 用如同應用程式一般的方式，以
 taskbar-tabs-value-prop-callout-title = 將此網站新增至工具列
 taskbar-tabs-value-prop-callout-subtitle = 只要一點，即可透過簡化的介面，用獨立視窗開啟此網站。
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = 釘選到工作列
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = 別在您升級到 Windows 11 之後遺失所有儲存的資料。

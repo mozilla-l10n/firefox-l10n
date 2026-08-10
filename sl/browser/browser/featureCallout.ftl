@@ -133,6 +133,21 @@ taskbar-tabs-media-callout-subtitle = Odprite svoja pretočna spletna mesta v ob
 taskbar-tabs-value-prop-callout-title = Dodajte si to stran v opravilno vrstico
 taskbar-tabs-value-prop-callout-subtitle = Zaženite jo v svojem oknu in v poenostavljenem vmesniku z enim klikom.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Ostanite povezani kar iz opravilne vrstice
+taskbar-tabs-email-callout-title-v3 = Imejte svojo mapo Prejeto vedno pri roki v opravilni vrstici
+taskbar-tabs-email-callout-subtitle-v3 = Odprite svojo spletno pošto v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Imejte pretočno predvajanje pri roki v opravilni vrstici
+taskbar-tabs-media-callout-subtitle-v3 = Odprite svoje medijske strani v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Pripnite svoja najljubša spletna mesta v opravilno vrstico
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ne izgubite vsega, kar ste shranili, ko preidete na Windows 11.

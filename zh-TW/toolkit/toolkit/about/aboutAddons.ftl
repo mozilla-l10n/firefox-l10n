@@ -601,6 +601,43 @@ mlmodel-addon-detail-model-card = 模型卡
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = 到 Hugging Face 檢視
 
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = 用您的方式塑造 { -brand-product-name }
+    .message = 新增符合您需求與品味的工具與外觀。
+find-more-addons-promo-open-amo-button = 探索擴充套件與佈景主題
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = 尋找您下一套最愛的擴充套件
+    .message = 使用增加專注、保護隱私權、購物加強等功能的工具來自訂 { -brand-product-name }。
+find-more-extensions-promo-open-amo-button = 探索擴充套件
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = 探索更多新鮮外觀
+    .message = 選擇讓 { -brand-product-name } 有您的風格的樣式。
+find-more-themes-promo-open-amo-button = 探索佈景主題
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = 安裝幾套擴充套件就能有很大幫助
+    .message = 我們有一些能幫助您更加專注、保護隱私與更多功能的建議。
+list-empty-get-extensions-promo-button = 尋找您的第一套擴充套件
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -612,9 +649,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = 裝置
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } 佈景主題
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = 顯示更多
+aboutaddons-themes-picker-see-less = 顯示更少
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = 啟用
+aboutaddons-themes-picker-disable-button =
+    .label = 停用
+aboutaddons-themes-picker-install-button =
+    .label = 安裝
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = 無法更新您的佈景主題，請檢查連線是否正常後再試一次。
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.
