@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Thay đổi bất cứ lúc nà
 smartwindow-ask-button =
     .label = Hỏi
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Nhóm các thẻ của tôi
-    .tooltiptext = Nhóm các thẻ của tôi
-
 ## Memories toggle button
 
 aiwindow-memories-on =

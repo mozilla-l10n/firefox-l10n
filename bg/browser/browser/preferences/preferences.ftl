@@ -2758,6 +2758,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Автоматичното конфигуриране на прокси е включено
     .description = Автоматичното конфигуриране на прокси може да позволи на ненадеждни мрежи да наблюдават вашата дейност.
-
-## Referrals Section
-

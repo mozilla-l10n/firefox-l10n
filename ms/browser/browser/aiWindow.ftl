@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Tukar dalam tetapan bila-bila m
 smartwindow-ask-button =
     .label = Tanya
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Kumpulkan tab saya
-    .tooltiptext = Kumpulkan tab saya
-
 ## Memories toggle button
 
 aiwindow-memories-on =

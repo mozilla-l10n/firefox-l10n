@@ -134,12 +134,6 @@ aiwindow-input-model-select-button-label-custom = ᱠᱩᱥᱤᱭᱟᱜ
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = ᱤᱧᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱛᱷᱟᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ
-    .tooltiptext = ᱤᱧᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱛᱷᱟᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ
-
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
 ## view links to the chat history subview and Smart Window settings; the chat

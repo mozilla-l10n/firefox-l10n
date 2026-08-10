@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = 설정에서 언제든 전환 �
 smartwindow-ask-button =
     .label = 묻기
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = 탭 그룹화
-    .tooltiptext = 탭 그룹화
-
 ## Memories toggle button
 
 aiwindow-memories-on =

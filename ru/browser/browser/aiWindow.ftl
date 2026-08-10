@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Переключайтесь в
 smartwindow-ask-button =
     .label = Спросить
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Группировать мои вкладки
-    .tooltiptext = Группировать мои вкладки
-
 ## Memories toggle button
 
 aiwindow-memories-on =

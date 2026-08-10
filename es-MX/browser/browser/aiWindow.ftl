@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Puedes cambiar este ajuste cuan
 smartwindow-ask-button =
     .label = Preguntar
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Agrupar pestañas
-    .tooltiptext = Agrupar pestañas
-
 ## Memories toggle button
 
 aiwindow-memories-on =

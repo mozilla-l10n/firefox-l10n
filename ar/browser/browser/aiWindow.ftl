@@ -6,9 +6,3 @@
 ## Chrome
 
 smartwindow-document-title = لسان جديد
-
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = جمّع ألسنتي
-    .tooltiptext = جمّع ألسنتي

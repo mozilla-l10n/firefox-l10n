@@ -168,12 +168,6 @@ aiwindow-firstrun-default-checkbox-description = Emoambue ñemboheko ejapose vov
 smartwindow-ask-button =
     .label = Porandu
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Ambyaty che rendaykeita
-    .tooltiptext = Ambyaty che rendaykeita
-
 ## Memories toggle button
 
 aiwindow-memories-on =

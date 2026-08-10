@@ -4,6 +4,8 @@
 
 theme-picker-mode-light = Světlá
 theme-picker-mode-dark = Tmavá
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
 theme-picker-mode-device = Podle zařízení
 theme-picker-use-linux-theme =
     .label = Použít systémový motiv Linuxu

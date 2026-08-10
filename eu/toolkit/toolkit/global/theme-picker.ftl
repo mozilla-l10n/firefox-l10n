@@ -4,6 +4,8 @@
 
 theme-picker-mode-light = Argia
 theme-picker-mode-dark = Iluna
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
 theme-picker-mode-device = Gailua
 theme-picker-use-linux-theme =
     .label = Erabili Linuxeko sistemaren itxura

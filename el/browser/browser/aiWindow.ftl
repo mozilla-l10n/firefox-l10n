@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Αλλάξτε τις επιλ�
 smartwindow-ask-button =
     .label = Ερώτηση
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Ομαδοποίηση καρτελών
-    .tooltiptext = Ομαδοποίηση των καρτελών μου
-
 ## Memories toggle button
 
 aiwindow-memories-on =

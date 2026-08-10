@@ -2789,6 +2789,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Увімкнено автоматичну конфігурацію проксі
     .description = Автоматична конфігурація проксі може дозволити ненадійним мережам відстежувати вашу активність.
-
-## Referrals Section
-

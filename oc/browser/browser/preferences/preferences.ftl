@@ -514,15 +514,6 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Performanças
@@ -587,9 +578,6 @@ browsing-cfr-recommendations-learn-more = Ne saber mai
 browsing-group =
     .label = Navegacion
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Paramètres ret
@@ -648,9 +636,6 @@ home-homepage-new-tabs =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Extension ({ $extension })
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -848,11 +833,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal reconnectar { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1085,9 +1065,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ne saber mai
 forms-windows-sso-desc = Gerissètz los compte als paramètres de vòstre periferic
 windows-passkey-settings-label = Gerir las claus d’accès als paramètres sistèma
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -1589,23 +1566,11 @@ preferences-doh-manage-exceptions =
     .label = Gerir las excepcions…
     .accesskey = x
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Burèu
 downloads-folder-name = Telecargaments
 choose-download-folder-title = Causissètz lo dossièr de telecargament :
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
 
 ## Enhanced Tracking Protection (ETP) status section
 
@@ -1613,9 +1578,3 @@ preferences-etp-customize-button =
     .label = Personalizar la proteccion contra lo seguiment
 preferences-etp-customize-header =
     .heading = Personalizar la proteccion contra lo seguiment
-
-## Warnings section
-
-
-## Referrals Section
-

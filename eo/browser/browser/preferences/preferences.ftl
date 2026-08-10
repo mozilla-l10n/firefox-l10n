@@ -2787,6 +2787,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Aŭtomata agordo de retperanto estas aktiva
     .description = La aŭtomata agordo de retperantoj povus permesi al nefiditaj retoj vidi viajn retumon.
-
-## Referrals Section
-

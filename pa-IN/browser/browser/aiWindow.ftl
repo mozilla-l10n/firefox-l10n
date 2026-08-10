@@ -159,12 +159,6 @@ aiwindow-firstrun-default-checkbox-description = ਕਿਸੇ ਵੀ ਵੇਲ�
 smartwindow-ask-button =
     .label = ਪੁੱਛੋ
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = ਮੇਰੀਆਂ ਟੈਬਾਂ ਗਰੁੱਪ
-    .tooltiptext = ਮੇਰੀਆਂ ਟੈਬਾਂ ਗਰੁੱਪ ਕਰੋ
-
 ## Memories toggle button
 
 aiwindow-memories-on =

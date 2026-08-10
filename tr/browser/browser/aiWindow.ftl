@@ -166,12 +166,6 @@ aiwindow-firstrun-default-checkbox-description = İstediğiniz zaman ayarlardan 
 smartwindow-ask-button =
     .label = Sor
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Sekmelerimi gruplandır
-    .tooltiptext = Sekmelerimi gruplandır
-
 ## Memories toggle button
 
 aiwindow-memories-on =

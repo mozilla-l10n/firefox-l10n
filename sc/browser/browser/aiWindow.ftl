@@ -145,12 +145,6 @@ aiwindow-firstrun-default-checkbox-description = Ddu podes cambiare in sa cunfig
 smartwindow-ask-button =
     .label = Pregunta
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Agrupa is ischeda mias
-    .tooltiptext = Agrupa is ischeda mias
-
 ## Memories toggle button
 
 aiwindow-memories-on =

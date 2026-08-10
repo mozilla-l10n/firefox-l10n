@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Ynstellingen op elk winske momi
 smartwindow-ask-button =
     .label = Freegje
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Myn ljepblêden groepearje
-    .tooltiptext = Myn ljepblêden groepearje
-
 ## Memories toggle button
 
 aiwindow-memories-on =

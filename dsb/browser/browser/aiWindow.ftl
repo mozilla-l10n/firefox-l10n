@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Změńśo w nastajenjach kuždy
 smartwindow-ask-button =
     .label = Pšašaś se
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Móje rejtariki zrědowaś
-    .tooltiptext = Móje rejtariki zrědowaś
-
 ## Memories toggle button
 
 aiwindow-memories-on =

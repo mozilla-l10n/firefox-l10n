@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Passar al configurationes quand
 smartwindow-ask-button =
     .label = Demandar
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Regruppar mi schedas
-    .tooltiptext = Regruppar mi schedas
-
 ## Memories toggle button
 
 aiwindow-memories-on =

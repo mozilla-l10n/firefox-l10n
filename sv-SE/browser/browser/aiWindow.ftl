@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Byt i inställningar när som h
 smartwindow-ask-button =
     .label = Fråga
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Gruppera mina flikar
-    .tooltiptext = Gruppera mina flikar
-
 ## Memories toggle button
 
 aiwindow-memories-on =

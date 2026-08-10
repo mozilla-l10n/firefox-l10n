@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = 可隨時到設定中切換。
 smartwindow-ask-button =
     .label = 詢問
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = 將我的分頁分組
-    .tooltiptext = 將我的分頁分組
-
 ## Memories toggle button
 
 aiwindow-memories-on =

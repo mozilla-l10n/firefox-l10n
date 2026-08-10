@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Newid i'r gosodiadau unrhyw bry
 smartwindow-ask-button =
     .label = Gofyn
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Grwpio fy nhabiau
-    .tooltiptext = Grwpio fy nhabiau
-
 ## Memories toggle button
 
 aiwindow-memories-on =

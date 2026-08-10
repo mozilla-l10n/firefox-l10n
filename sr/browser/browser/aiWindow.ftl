@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Промените ово у п
 smartwindow-ask-button =
     .label = Питајте
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Групиши моје језичке
-    .tooltiptext = Групишите своје језичке
-
 ## Memories toggle button
 
 aiwindow-memories-on =

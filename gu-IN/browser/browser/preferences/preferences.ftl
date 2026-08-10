@@ -294,15 +294,6 @@ update-application-use-service =
     .label = સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો
     .accesskey = b
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = કામગીરી
@@ -349,9 +340,6 @@ browsing-cfr-recommendations =
 browsing-cfr-recommendations-learn-more = વધુ શીખો
 browsing-group =
     .label = બ્રાઉઝીંગ
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -402,9 +390,6 @@ choose-bookmark =
     .accesskey = B
 home-homepage-new-tabs =
     .label = નવી ટૅબ્સ
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -501,9 +486,6 @@ containers-add-button =
 containers-remove-button =
     .label = દૂર કરો
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -538,11 +520,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } ચકાસેલ નથી.
 sync-signedin-login-failure = મહેરબાની કરીને ફરી જોડાણ માટે પ્રવેશો { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -554,12 +531,6 @@ sync-remove-account =
 sync-sign-in =
     .label = સાઇન ઇન કરો
     .accesskey = g
-
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
 
 ## The "Choose what to sync" dialog.
 
@@ -652,15 +623,6 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = પાસવર્ડ બદલવાનું નિષ્ફળ
 
-## Privacy Panel Settings
-
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = ઇતિહાસ
@@ -744,12 +706,6 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = કૂકીઝ અને સાઈટ ડેટા
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -884,9 +840,6 @@ collection-health-report-disabled = આ તૈચાર કરેલ રૂપ�
 data-collection-studies-link =
     .label = { -brand-short-name } અભ્યાસો જુઓ
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -919,35 +872,8 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = FIPS સક્રિય કરો
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ડેસ્કટોપ
 downloads-folder-name = ડાઉનલોડ
 choose-download-folder-title = ડાઉનલોડ ફોલ્ડર પસંદ કરો:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

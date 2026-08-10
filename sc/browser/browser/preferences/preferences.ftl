@@ -2257,17 +2257,11 @@ preferences-doh-manage-exceptions2 =
     .label = Gesti is etzetziones
     .accesskey = z
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Iscrivania
 downloads-folder-name = Iscarrigamentos
 choose-download-folder-title = Sèbera sa cartella de iscarrigamentos
-
-## Appearance page
-
 
 ## AI controls page
 
@@ -2326,9 +2320,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Generadores de imprentas digitales suspetos
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Generadores de imprentas digitales suspetos
-
-## Warnings section
-
-
-## Referrals Section
-

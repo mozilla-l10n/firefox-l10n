@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Comută oricând în setări
 smartwindow-ask-button =
     .label = Întreabă
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Grupează filele
-    .tooltiptext = Grupează filele
-
 ## Memories toggle button
 
 aiwindow-memories-on =

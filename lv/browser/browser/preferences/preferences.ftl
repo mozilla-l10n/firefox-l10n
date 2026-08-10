@@ -537,15 +537,6 @@ update-in-progress-ok-button = &Atmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -613,9 +604,6 @@ browsing-cfr-recommendations-learn-more = Uzzināt vairāk
 browsing-group =
     .label = Pārlūkošana
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Tīkla iestatījumi
@@ -667,9 +655,6 @@ choose-bookmark =
     .accesskey = g
 home-homepage-new-tabs =
     .label = Jaunas cilnes
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -872,11 +857,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nav apstiprināts.
 sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1103,9 +1083,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Uzzināt vairāk
 forms-windows-sso-desc = Pārvaldiet kontus savas ierīces iestatījumos
 windows-passkey-settings-label = Pārvaldiet piekļuves atslēgas sistēmas iestatījumos
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -1491,9 +1468,6 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Aplūkot { -brand-short-name } pētījumus
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1605,29 +1579,8 @@ preferences-doh-manage-exceptions =
     .label = Pārvaldīt izņēmumus…
     .accesskey = z
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Darbvirsma
 downloads-folder-name = Lejupielādes
 choose-download-folder-title = Izvēlieties lejupielāžu mapi:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

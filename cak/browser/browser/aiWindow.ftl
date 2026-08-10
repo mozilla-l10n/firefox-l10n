@@ -104,12 +104,6 @@ aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 smartwindow-ask-button =
     .label = Tik'utüx
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Ketzob'ajïx taq nuwi'
-    .tooltiptext = Ketzob'ajïx taq nuwi'
-
 ## New Chat Button
 
 aiwindow-new-chat =

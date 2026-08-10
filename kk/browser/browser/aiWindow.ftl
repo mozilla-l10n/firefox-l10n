@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Кез келген уақыт�
 smartwindow-ask-button =
     .label = Сұрау
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Менің беттерімді топтау
-    .tooltiptext = Менің беттерімді топтау
-
 ## Memories toggle button
 
 aiwindow-memories-on =

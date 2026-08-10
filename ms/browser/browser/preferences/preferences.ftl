@@ -332,15 +332,6 @@ update-in-progress-ok-button = &Buang
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Teruskan
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Prestasi
@@ -399,9 +390,6 @@ browsing-cfr-recommendations-learn-more = Ketahui lebih lanjut
 browsing-group =
     .label = Menyemak
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Tetapan Rangkaian
@@ -451,9 +439,6 @@ choose-bookmark =
     .accesskey = B
 home-homepage-new-tabs =
     .label = Tab baru
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -562,9 +547,6 @@ containers-new-tab-check =
 containers-remove-button =
     .label = Buang
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -601,11 +583,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } tidak disahkan.
 sync-signedin-login-failure = Sila daftar masuk untuk menyambung semula { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -757,9 +734,6 @@ forms-primary-pw-former-name = Dahulu dikenali sebagai Kata Laluan Induk
 forms-primary-pw-fips-title = Anda kini berada dalam mod FIPS. FIPS memerlukan Kata Laluan Utama yang tidak kosong.
 forms-master-pw-fips-desc = Gagal menukar kata laluan
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -770,9 +744,6 @@ primary-password-os-auth-dialog-message-win = Untuk mencipta Kata Laluan Utama, 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = cipta Kata Laluan Utama
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -853,12 +824,6 @@ sitedata-settings =
     .accesskey = U
 cookies-site-data-group =
     .label = Kuki dan Data Laman
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -968,9 +933,6 @@ collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi 
 data-collection-studies-link =
     .label = Papar kajian { -brand-short-name }
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1003,35 +965,8 @@ certs-devices =
     .accesskey = P
 certs-devices-enable-fips = Dayakan FIPS
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Muat turun
 choose-download-folder-title = Pilih Folder Muat turun:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

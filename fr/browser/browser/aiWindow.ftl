@@ -171,12 +171,6 @@ aiwindow-firstrun-default-checkbox-description = Modifiez ce choix à tout momen
 smartwindow-ask-button =
     .label = Poser une question
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Regrouper mes onglets
-    .tooltiptext = Regrouper mes onglets
-
 ## Memories toggle button
 
 aiwindow-memories-on =

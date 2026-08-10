@@ -175,12 +175,6 @@ aiwindow-firstrun-default-checkbox-description = Změnit to můžete kdykoliv v 
 smartwindow-ask-button =
     .label = Zeptat se
 
-## Group My Tabs Toolbar Button
-
-smartwindow-group-tabs-button =
-    .label = Seskupit mé panely
-    .tooltiptext = Seskupit mé panely
-
 ## Memories toggle button
 
 aiwindow-memories-on =
