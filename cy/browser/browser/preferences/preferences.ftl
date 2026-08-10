@@ -998,6 +998,38 @@ use-current-pages =
 choose-bookmark =
     .label = Defnyddio Nod Tudalen…
     .accesskey = N
+home-homepage-title =
+    .label = Tudalen Cartref
+home-homepage-new-windows =
+    .label = Ffenestri newydd
+home-homepage-new-tabs =
+    .label = Tabiau newydd
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Dewis safle penodol
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Cyfeiriad(au) gwefan
+home-custom-homepage-address =
+    .placeholder = Rhowch gyfeiriad
+home-custom-homepage-address-button =
+    .label = Ychwanegu cyfeiriad
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Dim gwefannau wedi'u hychwanegu eto.
+home-custom-homepage-delete-address-button =
+    .aria-label = Dileu cyfeiriad
+    .title = Dileu cyfeiriad
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Amnewid gyda
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Tudalennau ar agor nawr
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Nodau Tudalen…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
