@@ -184,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Праверце падл
 ipprotection-connection-status-network-error-description = Падключыцеся да Інтэрнэту, а затым паспрабуйце ўключыць VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN недаступны
     .aria-label = VPN недаступны
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Мясцовыя законы і абмежаванні лімітуюць, дзе можна карыстацца VPN. <a data-l10n-name="learn-more-link">Падрабязней</a>
 ipprotection-connection-status-blocked-error-description = Мясцовыя законы забараняюць нам прадстаўляць паслугі VPN у гэтым рэгіёне. <a data-l10n-name="learn-more-link">Даведацца больш</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

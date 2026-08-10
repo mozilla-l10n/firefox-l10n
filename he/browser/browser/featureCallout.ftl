@@ -128,6 +128,15 @@ taskbar-tabs-value-prop-callout-subtitle = ניתן להפעיל אותו בחל
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = להישאר מחובר משורת המשימות שלך
 taskbar-tabs-email-callout-title-v3 = לשמור את הדואר הנכנס שלך בשורת המשימות שלך
+taskbar-tabs-email-callout-subtitle-v3 = ניתן להפעיל את אתרי הדוא״ל שלך כמו יישומון, בחלון פשוט ונקי המוגן על־ידי { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = לשמור את הסטרימינג שלך בשורת המשימות שלך
+taskbar-tabs-media-callout-subtitle-v3 = ניתן להפעיל את אתרי המדיה שלך כמו יישומון, בחלון פשוט ונקי המוגן על־ידי { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = הצמדת האתרים האהובים עליך בשורת המשימות
+taskbar-tabs-value-prop-callout-subtitle-v3 = ניתן להפעיל כל אתר שלך כמו יישומון, בחלון פשוט ונקי המוגן על־ידי { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = לחזור לגיימינג משורת המשימות שלך
+taskbar-tabs-gaming-callout-subtitle-v3 = ניתן להפעיל את אתרי הגיימינג שלך כמו יישומון, בחלון פשוט ונקי המוגן על־ידי { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = הצמדה לשורת המשימות
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
