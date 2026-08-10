@@ -1732,6 +1732,12 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Osoitteita ei ole lisätty
+personal-info-group =
+    .label = Henkilökohtaiset tiedot
+autofill-personal-info-checkbox-message =
+    .label = Tallenna ja täytä henkilökohtaiset tiedot automaattisesti
+autofill-personal-info-manage-button =
+    .label = Hallinnoi henkilötietoja
 passports-list-header =
     .label = Passit
 passports-delete-passport-button-label =
@@ -1742,6 +1748,8 @@ passports-delete-passport-prompt-title = Poistetaanko tämä passi?
 passports-delete-passport-prompt-confirm-button = Poista
 passports-delete-passport-prompt-cancel-button = Peruuta
 autofill-passports-add-button = Lisää uusi passi
+autofill-personal-info-manage-title =
+    .heading = Hallinnoi henkilötietoja
 # This message is displayed when no passports are stored in Firefox
 passports-no-passports-stored-message =
     .label = Passeja ei ole lisätty
@@ -2622,6 +2630,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = Pääkohdat linkkien esikatselussa
     .description = Näe nopea yhteenveto ennen linkin avaamista.
+preferences-ai-controls-sidebar-chatbot-group-2 =
+    .label = Chatbot-palveluntarjoajat sivupaneelissa
+    .description = Pidä chatbotti näkyvissä selatessasi. Valitse seuraavista: Anthropic Claude, ChatGPT, Copilot, Google Gemini tai Mistral Vibe.
 preferences-ai-controls-sidebar-chatbot-group =
     .label = Chatbot-palveluntarjoajat sivupalkissa
     .description = Pidä chatbot näkyvissä kun selaat. Vaihtoehdot ovat Anthropic Claude, ChatGPT, Copilot, Google Gemini ja Le Chat Mistral.
@@ -2797,6 +2808,12 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-safe-browsing =
     .label = Vaarallista ja harhaanjohtavaa sisältöä ei estetä
     .description = Altistumisesi verkkosivustojen huijauksille ja haittaohjelmille on kasvanut.
+security-privacy-issue-warning-doh2 =
+    .label = DNS HTTPS:n kautta on poistettu käytöstä
+    .description = HTTPS-yhteyden kautta toimiva DNS auttaa piilottamaan verkko-operaattoriltasi, millä sivustoilla olet käymässä.
+security-privacy-issue-warning-ech2 =
+    .label = Salattu Client Hello on poistettu käytöstä
+    .description = Salatun Client Hellon avulla voit piilottaa verkkopalveluntarjoajaltasi, millä sivustoilla olet käymässä.
 security-privacy-issue-warning-doh =
     .label = DNS HTTPS:n kautta on poistettu käytöstä
     .description = DNS HTTPS:n kautta piilottaa verkkoyhteytesi tarjoajalta vierailemasi sivustot.
@@ -2809,6 +2826,11 @@ security-privacy-issue-warning-proxy-autodetection =
 
 ## Referrals Section
 
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Jaa { -brand-short-name }
+    .description = Pyydä jotakuta valitsemaan yksityisyyden etusijalle asettava selain.
 # Link that opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =

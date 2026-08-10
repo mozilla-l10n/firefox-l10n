@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Заблакаваць доступ да старон
 policy-Bookmarks = Ствараць закладкі ў паліцы закладак, меню закладак, або ў азначаных каталогах унутры іх.
 policy-CaptivePortal = Уключае або выключае падтрымку партала перахаплення.
 policy-CertificatesDescription = Дадаць сертыфікаты або выкарыстоўваць убудаваныя сертыфікаты.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Уключыць пагадненне аб ключах CNSA 2.0 ML-KEM-1024 для TLS.
 policy-ContentAnalysis = Уключыць або адключыць злучэнне з агентам прадухілення страты дадзеных.
 policy-Cookies = Дазволіць або забараніць вэб-сайтам устанаўліваць кукі.
 # Containers in this context is referring to container tabs in Firefox.

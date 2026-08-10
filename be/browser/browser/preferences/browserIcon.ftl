@@ -30,3 +30,40 @@ appearance-browser-icon-basic-group =
     .label = Стандартная
 appearance-browser-icon-bonus-group =
     .label = Спецыяльная
+
+##
+
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Запоўніце і разблакуйце бонусныя значкі лісіц, каб персаналізаваць { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Вы разблакавалі ўсе бонусныя значкі!
+appearance-browser-icon-set-default-button =
+    .label = Зрабіць прадвызначаным
+appearance-browser-icon-pin-button =
+    .label = Замацаваць на панэлі задач
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = Прадвызначана
+appearance-browser-icon-retro2004 =
+    .label = Рэтра 2004
+appearance-browser-icon-retro2017 =
+    .label = Рэтра 2017
+appearance-browser-icon-pride =
+    .label = Гонар
+appearance-browser-icon-minimal =
+    .label = Мінімалізм
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Кіт
+appearance-browser-icon-pixelated =
+    .label = Пікселізаваная
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Момо
+    .description = Створана @heyheymomodraws
