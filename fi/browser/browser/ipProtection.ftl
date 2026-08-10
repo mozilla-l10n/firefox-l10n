@@ -58,10 +58,27 @@ ipprotection-feature-introduction-button-get-started = Aloitetaan
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Sisäänrakennetut VPN-rajoituksesi nollautuvat 1. syyskuuta
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Käytä { $maxUsage } gigatavua ja kuutta sijaintia saadaksesi lisäyksityisyyttä ja vaikeuttaaksesi selaamisesi jäljittämistä sinuun.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Käytä { $maxUsage } gigatavua ja yli 20:tä sijaintia saadaksesi lisäyksityisyyttä ja vaikeuttaaksesi selaamisesi jäljittämistä sinuun.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Sisäänrakennettu VPN-palvelu on nyt entistä parempi
+ipprotection-summer-promo-offramp-subscriber-description = Saat nyt rajattoman kaistanleveyden ja enemmän sijainteja { -mozilla-vpn-brand-name } -tilaajana.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Säilytä sisäänrakennetut VPN-lisäsijainnit
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Tee { -brand-product-name }ista oletusselain ja saat yli 20 lisäsijaintia 31. elokuuta jälkeen.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Nouse seuraavalle tasolle { -mozilla-vpn-brand-name }:llä
+ipprotection-summer-promo-offramp-subscription-upsell-description = Säilytä rajoittamaton kaistanleveys 31. elokuuta jälkeen ja käytä yli 300:aa sijaintia viidellä laitteella, jotta selaamisesi jäljittäminen sinuun on vaikeampaa.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Avaa VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Aseta oletukseksi
@@ -167,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Tarkista Internet-yhteyte
 ipprotection-connection-status-network-error-description = Yhdistä internetiin ja kokeile sitten VPN:n käyttöönottoa.
 ipprotection-connection-status-blocked-error-title-1 = VPN ei ole käytettävissä
     .aria-label = VPN ei ole käytettävissä
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Paikalliset lait ja rajoitukset rajoittavat VPN:n käyttömahdollisuuksia. <a data-l10n-name="learn-more-link">Lisätietoja</a>
 ipprotection-connection-status-blocked-error-description = Paikalliset lait estävät meitä tarjoamasta VPN-palvelua tällä alueella. <a data-l10n-name="learn-more-link">Lisätietoja</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

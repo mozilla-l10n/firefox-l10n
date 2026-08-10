@@ -138,6 +138,18 @@ fxa-menu-add-device =
     .label = Дадаць прыладу
 fxa-menu-manage-devices =
     .label = Кіраваць прыладамі
+fxa-menu-device-missing =
+    .label = Не бачыце вашай прылады?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Усе прылады
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Усе прылады
+fxa-menu-get-firefox-mobile =
+    .label = Атрымаць { -brand-product-name } для Android ці iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Бяспечная сінхранізацыя
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Уліковы запіс
 # Variables
@@ -147,6 +159,12 @@ appmenu-fxa-last-sync = Апошняя сінхранізацыя { $time }
     .label = Апошняя сінхранізацыя { $time }
 appmenu-fxa-sync-and-save-data2 = Сінхранізаваць і захаваць дадзеныя
 appmenu-fxa-signed-in-label = Увайсці
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Увайсці для сінхранізацыі
+appmenu-fxa-sign-in-promo-message = Атрымлівайце свае дадзеныя ўсюды
+appmenu-fxa-sign-in-promo-button =
+    .label = Увайсці
 appmenu-fxa-setup-sync =
     .label = Уключыць сінхранізацыю…
 appmenu-fxa-setup-sync-new = Уключыць
@@ -275,12 +293,38 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Шукаць у гісторыі
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Заставайцеся сінхранізаванымі паміж прыладамі
+appmenu-sync-promo-signin-cta = Увайсці
+appmenu-sync-promo-turnonsync =
+    .heading = Сінхранізуйце карткі і гісторыю
+appmenu-sync-promo-turnonsync-cta = Уключыць сінхранізацыю
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Вазьміце свае мабільныя карткі
+appmenu-sync-promo-connectdevice-cta = Падключыць прыладу
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Вазьміце з сабой свае закладкі
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Вазьміце свае закладкі з сабой
+
 ## Help panel
 
 appmenu-help-header =
     .title = Даведка { -brand-shorter-name }
 appmenu-about =
     .label = Пра { -brand-shorter-name }
+    .accesskey = П
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Падзяліцца { -brand-shorter-name }
     .accesskey = П
 appmenu-get-help =
     .label = Атрымаць дапамогу
@@ -295,6 +339,9 @@ appmenu-help-share-ideas =
     .accesskey = ц
 appmenu-help-switch-device =
     .label = Пераход на новую прыладу
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Даведка і справаздача
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -335,14 +382,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Увайдзіце ў свой уліковы запіс
 appmenuitem-monitor-title2 = Папярэдзьце крадзеж асабістых дадзеных
 appmenuitem-monitor-description2 = Атрымлівайце абвесткі аб уцечках дадзеных
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Папярэджанні аб уцечцы дадзеных { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Атрымлівайце абвесткі аб уцечках дадзеных
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Захоўвайце прыватнасць электроннай пошты
 appmenuitem-relay-description2 = Дапамагае прадухіліць спам у вашай паштовай скрыні
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Праглядзець маскі электроннай пошты
 appmenuitem-relay-description = Маскіруйце сваю сапраўдную электронную пошту і тэлефон
 appmenuitem-services-relay-description = Запусціць панэль масак электроннай пошты
 appmenuitem-vpn-title2 = Схавайце сваё месцазнаходжанне з дапамогай { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Атрымайце дадатковую ахову ў праграмах і на прыладах
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Адкрыць { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Зрабіце, каб за вашым агляданнем было складаней сачыць
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Атрымайце ахову ўсёй прылады
@@ -365,9 +419,16 @@ appmenu-manage-profiles =
     .label = Кіраванне профілямі
 appmenu-copy-profile =
     .label = Скапіяваць гэты профіль
+appmenu-create-profile2 =
+    .label = Стварыць новы профіль
 appmenu-create-profile =
     .label = Новы профіль
 appmenu-edit-profile =
     .aria-label = Рэдагаваць профіль
+appmenu-edit-this-profile =
+    .label = Змяніць гэты профіль
+appmenu-profile-current-in-use = Дзейны профіль выкарыстоўваецца
+fxa-menu-create-profile-subpanel =
+    .title = Стварыць новы профіль
 appmenu-profiles-2 =
     .label = Профілі

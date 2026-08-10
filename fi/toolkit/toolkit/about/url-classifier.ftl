@@ -37,6 +37,21 @@ url-classifier-cache-prefix = Prefix
 url-classifier-cache-ncache-expiry = Negative cache expiry
 url-classifier-cache-fullhash = Full hash
 url-classifier-cache-pcache-expiry = Positive cache expiry
+url-classifier-content-classifier-title = Sisällön luokittelija
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = Osoite
+# URL that loads the URL being tested (hence Loading URL)
+# This is the URL of a frame within the document that initiates the request to load another URL
+# (e.g. an iframe that is loading a tracking pixel)
+url-classifier-content-classifier-loading-url = URL-osoitetta ladataan
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = Ota URL-osoitteen lataus käyttöön
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Virhe ({ $code })
 url-classifier-debug-title = Debug
 url-classifier-debug-module-btn = Set Log Modules
 url-classifier-debug-file-btn = Set Log File

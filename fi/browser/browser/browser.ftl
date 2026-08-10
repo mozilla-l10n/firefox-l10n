@@ -604,6 +604,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Yhteytesi tähän sivustoon ei ole suojattu.
 identity-connection-verified = Yhteytesi tähän sivustoon on suojattu.
 identity-ev-owner-label2 = Varmenne myönnetty taholle
+identity-verifier-label2 = Varmentanut
 identity-ev-owner-label = Varmenne myönnetty taholle:
 identity-verifier-label = Varmentaja:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -1142,6 +1143,8 @@ urlbar-searchmode-tabs3 = Välilehdet
     .accesskey = V
 urlbar-searchmode-history3 = Sivuhistoria
     .accesskey = S
+urlbar-searchmode-actions3 = Toiminnot
+    .accesskey = T
 urlbar-searchmode-bookmarks2 = Kirjanmerkit
 urlbar-searchmode-tabs2 = Välilehdet
 urlbar-searchmode-history2 = Sivuhistoria
@@ -1587,6 +1590,9 @@ private-browsing-indicator-button =
     .tooltiptext = Yksityisen selauksen tiedot
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Olet yksityisessä ikkunassa
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Tämä auttaa pitämään selaamisesi piilossa muilta tällä laitteella, mutta ei tee sinusta näkymätöntä verkossa. <a data-l10n-name="learn-more">Kuka saattaa nähdä toimintani?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

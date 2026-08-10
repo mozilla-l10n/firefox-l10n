@@ -79,3 +79,23 @@ choose-app-btn =
 choose-other-app-window-title = Vaihda ohjelmaa…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Poistettu käytöstä yksityisissä ikkunoissa
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = Valitse sähköpostisovellus
+mailto-handler-picker-subtitle = Valitse sovellus, jota haluat käyttää sähköpostilinkkien avaamiseksi. Voit muuttaa tätä myöhemmin asetuksissa.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Kysy aina, kun napsautan sähköpostilinkkiä
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Aseta oletukseksi
+    .accesskey = A
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Ei nyt
+    .accesskey = E
