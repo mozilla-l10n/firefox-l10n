@@ -2249,6 +2249,8 @@ security-enable-safe-browsing =
     .label = Bloca el contingut enganyós i perillós
     .accesskey = B
 security-enable-safe-browsing-link = Més informació
+security-safe-browsing-warning =
+    .message = Desactivar això redueix la protecció contra estafes, llocs maliciosos i descàrregues perilloses.
 security-block-downloads =
     .label = Bloca les baixades perilloses
     .accesskey = l
@@ -2277,6 +2279,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>El { -brand-short-name } s'està quedant sense espai de disc.</strong> És possible que el contingut dels llocs web no es mostri correctament. Podeu esborrar les dades emmagatzemades dels llocs a «Paràmetres > Privadesa i seguretat > Galetes i dades dels llocs».
 space-alert-under-5gb-message2 = <strong>El { -brand-short-name } s'està quedant sense espai de disc.</strong> És possible que el contingut dels llocs web no es mostri correctament. Vegeu «Més informació» per optimitzar l'ús de disc i millorar l'experiència de navegació.
+certs-description3 =
+    .label = Certificats
+    .description = Configureu els certificats que el { -brand-short-name } usa per a verificar les connexions segures.
 certs-view2 =
     .label = Gestiona els certificats
     .accesskey = c
@@ -2309,6 +2314,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group2 =
+    .label = DNS sobre HTTPS
+    .description = El Sistema de noms de domini sobre HTTPS (DoH) xifra les cerques sobre llocs de manera que fa més difícil que el vostre proveïdor d'internet o altres puguin veure quins llocs webs visitareu.
 preferences-doh-description = El sistema de noms de domini (DNS) sobre HTTPS envia la vostra sol·licitud d'un nom de domini mitjançant una connexió xifrada, creant un DNS segur i dificultant que els altres vegin a quin lloc web esteu a punt d'accedir.
 preferences-doh-description2 = El sistema de noms de domini (DNS) sobre HTTPS envia la vostra sol·licitud d'un nom de domini mitjançant una connexió xifrada, proporcionant un DNS segur i dificultant que els altres vegin a quin lloc web esteu a punt d'accedir.
 # Variables:
@@ -2378,10 +2386,17 @@ choose-download-folder-title = Tria la carpeta de baixades:
 preferences-ai-controls-block-ai-label = Bloca les millores basades en IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = El fet de blocar implica que no veureu millores d'IA noves o actuals al { -brand-short-name }, ni finestres emergents sobre elles. <a data-l10n-name="link">Obteniu més detalls</a> sobre què s'inclou i com controlar les funcions tradicionals d'aprenentatge automàtic, com ara suggeriments de cerca i recomanacions.
 preferences-ai-controls-translations-control =
     .label = Traduccions
     .description = Navegueu sense problemes per la web en la vostra llengua preferida.
 preferences-ai-controls-translations-more-link = Més paràmetres de traducció
+preferences-ai-controls-pdfjs-control =
+    .label = Text alternatiu de la imatge al visor de PDF del { -brand-short-name }
+    .description = Quan afegiu imatges als PDF, això hi afegeix descripcions per fer-les accessibles.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Suggeriments de grups de pestanyes
+    .description = Obteniu suggeriments per anomenar i organitzar les pestanyes
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Disponible
@@ -2392,6 +2407,7 @@ preferences-ai-controls-state-enabled =
 preferences-ai-controls-state-blocked =
     .label = Blocat
 preferences-ai-controls-block-confirmation-translations = Traduccions
+preferences-ai-controls-block-confirmation-pdfjs = Text alternatiu de la imatge al visor de PDF del { -brand-short-name }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Suggeriments de grups de pestanyes
 preferences-ai-controls-block-confirmation-cancel =
     .label = Cancel·la

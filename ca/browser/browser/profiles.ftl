@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-heading = Trieu un perfil del { -brand-short-name }
+profile-window-body = Mantingueu la navegació personal i laboral totalment per separat, incloent-hi coses com ara contrasenyes i adreces d'interès. O creeu perfils per a tothom que utilitzi aquest dispositiu.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Trieu un perfil per quan s'obri el { -brand-short-name }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = El { -brand-short-name } s'obrirà amb el darrer perfil usat.
 profile-window-create-profile = Crea un perfil
 profile-card-edit-button =
     .title = Edita el perfil
@@ -43,6 +50,7 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = Desa
 avatar-selector-upload-file = Puja un fitxer
+avatar-selector-drag-file = O arrossegueu un fitxer aquí
 avatar-selector-add-image = Afegeix una imatge
 avatar-selector-crop = Retalla
 edit-profile-page-no-name = Poseu un nom a aquest perfil per ajudar-vos a trobar-lo més endavant. Canvieu-li el nom en qualsevol moment.
@@ -50,11 +58,15 @@ edit-profile-page-duplicate-name = El nom del perfil ja està usat. Proveu un al
 edit-profile-page-profile-saved = S'ha desat
 new-profile-page-title = Perfil nou
 new-profile-page-header = Personalitzeu el perfil nou
+new-profile-page-header-description = Cada perfil manté l'historial de navegació i configuració únics, separats dels altres perfils. A més, les fortes proteccions de la privadesa del { -brand-short-name } estan activades de manera predeterminada.
 new-profile-page-learn-more = Més informació
 new-profile-page-input-placeholder =
     .placeholder = Trieu un nom com ara «Feina» o «Personal»
 new-profile-page-done-button =
     .label = Edició enllestida
+copied-profile-page-header-description = Hem copiat les dades i la configuració en un perfil nou. Ara poseu-li un nom, trieu una aparença i personalitzeu-lo.
+restored-profile-page-header = Personalitzeu el perfil restaurat
+restored-profile-page-header-description = Cada perfil manté un historial de navegació i configuració únics separats dels altres perfils. A més, les fortes proteccions de privadesa del { -brand-short-name } estan activades per defecte.
 restored-profile-page-learn-more = Més informació
 profile-window-title-2 = { -brand-short-name } - Trieu un perfil
 profile-window-logo =

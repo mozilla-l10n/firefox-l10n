@@ -7,7 +7,7 @@
 
 site-data-settings-window =
     .title = Çerezleri ve Site Verilerini Yönet
-site-data-settings-description = Aşağıdaki web siteleri bilgisayarınızda ve çerez ve site verisi depoluyor. { -brand-short-name } kalıcı depolama yapan web sitelerinin verilerini siz silene dek saklar, geçici depolama yapan web sitelerinin verilerini ise yer ihtiyacı olduğunda siler.
+site-data-settings-description = Aşağıdaki web siteleri bilgisayarınızda çerez ve site verisi depoluyor. { -brand-short-name } kalıcı depolama yapan web sitelerinin verilerini siz silene dek saklar, geçici depolama yapan web sitelerinin verilerini ise yer ihtiyacı olduğunda siler.
 site-data-search-textbox =
     .placeholder = Web sitelerinde ara
     .accesskey = W

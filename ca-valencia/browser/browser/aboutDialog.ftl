@@ -37,6 +37,7 @@ settings-update-policy-disabled =
 update-noUpdatesFound = El { -brand-short-name } està actualitzat
 settings-update-no-updates-found =
     .label = El { -brand-short-name } està actualitzat
+aboutdialog-update-checking-failed = Error al buscar actualitzacions
 update-otherInstanceHandlingUpdates = Una altra instància està actualitzant el { -brand-short-name }
 settings-update-other-instance-handling-updates =
     .label = Una altra instància està actualitzant el { -brand-short-name }

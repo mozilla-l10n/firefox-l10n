@@ -161,7 +161,7 @@ profiles-green-theme-title =
     .title = Yeşil temayı uygula
 profiles-cyan-theme = Açık mavi
 profiles-cyan-theme-title =
-    .title = Cyan temayı uygula
+    .title = Camgöbeği temayı uygula
 profiles-custom-theme-title =
     .title = Özel temayı uygula
 
@@ -277,7 +277,7 @@ video-game-controller-avatar = Video oyun kumandası
 custom-avatar-crop-back-button =
     .aria-label = Geri
 custom-avatar-crop-view =
-    .aria-label = Resim görünümü kırp
+    .aria-label = Resim kırpma görünümü
 custom-avatar-crop-area =
     .aria-label = Kırpma alanını ayarla
 custom-avatar-drag-handle =
