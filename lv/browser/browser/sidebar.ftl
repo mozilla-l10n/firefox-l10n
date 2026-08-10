@@ -36,6 +36,10 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Pārvaldīt { -brand-short-name } iestatījumus
 sidebar-vertical-tabs =
     .label = Vertikālas cilnes
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Izvērst sānjoslu, kad virs tās ir kursors
 
 ## Labels for sidebar context menu items
 
@@ -73,3 +77,11 @@ sidebar-menu-syncedtabs-header =
 show-sidebars =
     .tooltiptext = Rādīt sānu joslas
     .label = Sānu joslas
+
+## Tooltips for the sidebar toolbar widget.
+
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .label = Sānjoslas
+    .tooltiptext = Izvērst sānjoslu ({ $shortcut })

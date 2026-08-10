@@ -19,6 +19,21 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Правераны
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Ключ ізаляцыі
+about-networking-ssl-tokens = Токены TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } токен
+        [few] { $count } токены
+       *[many] { $count } токенаў
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } пратэрмінаваны)
+        [few] ({ $count } пратэрмінавана)
+       *[many] ({ $count } пратэрмінавана)
+    }
 about-networking-refresh = Паднавіць
 about-networking-auto-refresh = Паднаўляць кожныя 3 секунды
 about-networking-hostname = Назва трымальніка
