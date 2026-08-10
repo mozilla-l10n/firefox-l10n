@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Paina uutta näppäintä:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (ei voi muuttaa)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Poistetaanko toinen pikanäppäin?
 customkeys-conflict-confirm-body = Tämä pikanäppäin on jo käytössä toiminnolle “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Käytä silti
 customkeys-conflict-confirm-button-cancel = Peruuta
+customkeys-conflict-unusable-title = Näppäintä ei voi käyttää
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Tämä näppäin on jo määritetty toimintoon “{ $conflict }”, eikä sitä voi käyttää.
 customkeys-reset-all-confirm-title = Palautetaanko oletusarvot?
 customkeys-reset-all-confirm-body = Kaikki luomasi mukautetut pikanäppäimet poistetaan.
 customkeys-reset-all-confirm-button-confirm = Palauta oletusasetukset

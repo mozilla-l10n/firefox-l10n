@@ -56,8 +56,11 @@ ipprotection-feature-introduction-button-get-started = Aloitetaan
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Sisäänrakennetut VPN-rajoituksesi nollautuvat 1. syyskuuta
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Avaa VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Aseta oletukseksi
 ipprotection-summer-promo-offramp-get-subscription-button = Hanki { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Hylkää
 

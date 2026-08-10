@@ -83,4 +83,5 @@ about-private-browsing-nova-info-link = Kuka voi vielä mahdollisesti nähdä to
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Tietojasi ei talleteta
+about-private-browsing-nova-info-subheader2 = Poistamme kaikki haut ja sisäänkirjautumiset, kun suljet kaikki yksityiset ikkunat. { -brand-short-name }in sisäänrakennetut suojaukset, kuten seurainten esto, ovat myös käytössä.
 about-private-browsing-nova-info-subheader = Poistamme kaikki haut ja sisäänkirjautumiset, kun suljet tämän ikkunan. { -brand-short-name }in sisäänrakennetut suojaukset, kuten seurainten esto, ovat myös käytössä.
