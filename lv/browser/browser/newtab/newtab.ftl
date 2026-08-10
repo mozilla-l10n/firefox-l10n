@@ -576,6 +576,11 @@ newtab-section-cancel-button = Ne tagad
 
 ## Strings for the Clock widget
 
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Meklēšanas iznākums
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Ņujorka

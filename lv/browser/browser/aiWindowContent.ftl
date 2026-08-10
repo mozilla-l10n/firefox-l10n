@@ -11,3 +11,10 @@ smartwindow-retry-btn = Mēģināt vēlreiz
 
 action-log-searching-settings = Meklē iestatījumus
 action-log-searched-settings = Meklēja iestatījumus
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Meklēšanas iznākums ielādēts šajā cilnē. Analizē…

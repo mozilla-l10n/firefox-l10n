@@ -26,7 +26,7 @@ sidebar-history-delete =
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
 sidebar-search-results-header =
-    .heading = Meklēšanas rezultāti vaicājumam “{ $query }”
+    .heading = “{ $query }” meklēšanas iznākums
 
 ## Labels for sidebar customize panel
 

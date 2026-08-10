@@ -159,7 +159,7 @@ firefoxview-search-text-box-opentabs =
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
-firefoxview-search-results-header = Meklēšanas rezultāti vaicājumam “{ $query }”
+firefoxview-search-results-header = “{ $query }” meklēšanas iznākums
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =

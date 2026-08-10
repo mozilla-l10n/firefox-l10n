@@ -130,7 +130,7 @@ extension-controlled-enable = Lai iespējotu paplašinājumu, izvēlnē jādodas
 
 ## Preferences UI Search Results
 
-search-results-header = Meklēšanas rezultāti
+search-results-header = Meklēšanas iznākums
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Atvainojiet! Iestatījumos vaicājumam “<span data-l10n-name="query"></span>” nav rezultātu.
 search-results-help-link = Vai nepieciešama palīdzība? Apmeklējiet <a data-l10n-name="url">{ -brand-short-name } atbalstu</a>
@@ -737,30 +737,41 @@ search-show-suggestions-option =
     .label = Rādīt meklēšanas ieteikumus
     .accesskey = s
 search-show-suggestions-url-bar-option =
-    .label = Rādīt meklēšanas ieteikumus adrešu joslā
+    .label = Rādīt meklēšanas ieteikumus adreses joslā
     .accesskey = r
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Adreses joslā rādīt meklēšanas ieteikumus pirms pārlūkošanas vēstures
 search-suggestions-cant-show-2 =
     .message = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
 # When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
 addressbar-header-firefox-suggest-2 =
     .label = { -firefox-suggest-brand-name }
     .description = Ieteikumi no { -brand-short-name } un mūsu partneriem adreses joslā.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
+search-show-search-term-option-2 =
+    .label = Rādīt meklēšanas vaicājumu iznākumu lapu adreses joslā
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
-    .label = Noklusējuma meklētājprogrammas rezultātu lapā rādīt meklēšanas tekstu, nevis URL
+    .label = Noklusējuma meklētāja iznākumu lapā rādīt meklēšanas vaicājumu, nevis URL
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Rādīt meklēšanas ieteikumus pirms pārlūkošanas vēstures adreses joslā
+    .label = Adreses joslā rādīt meklēšanas ieteikumus pirms pārlūkošanas vēstures
 search-show-suggestions-private-windows =
     .label = Rādīt meklēšanas ieteikumus privātajos logos
 suggestions-addressbar-settings-generic2 = Mainīt iestatījumus citiem adreses joslas ieteikumiem
-search-suggestions-cant-show = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
+search-suggestions-cant-show = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir konfigurēts nekad neatcerēties vēsturi.
 search-one-click-header2 = Meklēšanas saīsnes
 search-one-click-desc = Izvēlieties papildu meklētāju, kas parādīsies adrešu joslā un meklēšanas joslā, kad sāksiet rakstīt.
 search-choose-engine-column =

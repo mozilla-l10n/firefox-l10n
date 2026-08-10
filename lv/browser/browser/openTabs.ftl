@@ -8,4 +8,4 @@ opentabs-search-text-box =
 # Variables:
 #   $query (String) - The search query used for searching through open tabs.
 opentabs-search-results-header =
-    .heading = Meklēšanas rezultāti vaicājumam “{ $query }”
+    .heading = “{ $query }” meklēšanas iznākums

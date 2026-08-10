@@ -73,7 +73,7 @@ about-telemetry-filter-all-placeholder =
     .placeholder = Meklēt visās sadaļās
 # Variables:
 #   $searchTerms (string) - The searched terms
-about-telemetry-results-for-search = “{ $searchTerms }” meklēšanas rezultāti
+about-telemetry-results-for-search = “{ $searchTerms }” meklēšanas iznākums
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
 #   $sectionName (string) - The section name from the structure of the ping.

@@ -145,6 +145,13 @@ taskbar-tabs-chat-callout-title-v3 = Bądź w kontakcie z paska zadań
 taskbar-tabs-email-callout-title-v3 = Dodaj skrzynkę odbiorczą do paska zadań
 taskbar-tabs-email-callout-subtitle-v3 = Uruchamiaj pocztę e-mail jak aplikację w uproszczonym oknie chronionym przez { -brand-short-name(case: "acc") }.
 taskbar-tabs-media-callout-title-v3 = Dodaj serwisy streamingowe do paska zadań
+taskbar-tabs-media-callout-subtitle-v3 = Uruchamiaj serwisy streamingowe jak aplikacje w uproszczonym oknie chronionym przez { -brand-short-name(case: "acc") }.
+taskbar-tabs-value-prop-callout-title-v3 = Przypnij swoje ulubione witryny do paska zadań
+taskbar-tabs-value-prop-callout-subtitle-v3 = Uruchamiaj dowolne witryny jak aplikacje w uproszczonym oknie chronionym przez { -brand-short-name(case: "acc") }.
+taskbar-tabs-gaming-callout-title-v3 = Wróć do gry z paska zadań
+taskbar-tabs-gaming-callout-subtitle-v3 = Uruchamiaj serwisy z grami jak aplikacje w uproszczonym oknie chronionym przez { -brand-short-name(case: "acc") }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Przypnij do paska zadań
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
