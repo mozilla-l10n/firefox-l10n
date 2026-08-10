@@ -140,6 +140,8 @@ taskbar-tabs-value-prop-callout-subtitle = Starten Sie es in einem eigenen Fenst
 ## usual browser tabs and toolbars.
 
 taskbar-tabs-value-prop-callout-title-v3 = Heften Sie Ihre Lieblings-Webseiten an die Taskleiste
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = An Taskleiste anheften
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

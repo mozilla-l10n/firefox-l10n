@@ -63,6 +63,7 @@ fxa-menu-manage-account-subtitle = Handsam kontoen
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Logg inn for å synkronisere
+fxa-menu-sign-in-promo-message = Få tilgang til dataa dine overalt
 fxa-menu-sign-in-promo-button =
     .label = Logg inn
 # Card shown in the account menu when a previously signed-in account is

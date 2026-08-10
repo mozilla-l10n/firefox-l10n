@@ -145,6 +145,9 @@ taskbar-tabs-chat-callout-title-v3 = Hald deg tilkopla frå oppgåvelinja
 taskbar-tabs-email-callout-title-v3 = Behald innboksen din i oppgåvelinja
 taskbar-tabs-email-callout-subtitle-v3 = Start e-post-nettstadar som ein app i eit straumlinjeforma vindauge verna av { -brand-short-name }.
 taskbar-tabs-media-callout-title-v3 = Behald strøyminga di på oppgåvelinja
+taskbar-tabs-gaming-callout-title-v3 = Gå tilbake til spelinga frå oppgåvelinja
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Fest til oppgåvelinja
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

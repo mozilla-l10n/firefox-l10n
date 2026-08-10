@@ -472,8 +472,17 @@ topsite-label-pinned =
 
 ## Top Sites - Web notifications hover card
 
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Varsel frå { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Akkurat no
+newtab-topsites-hover-card-mark-all-read =
+    .title = Marker alle som lesne
+    .aria-label = Marker alle som lesne
+newtab-topsites-hover-card-settings =
+    .title = Varslingsinnstillingar
+    .aria-label = Varslingsinnstillingar
 newtab-topsites-hover-card-dismiss =
     .title = Ignorer
     .aria-label = Ignorer
@@ -1649,6 +1658,9 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Søkjeresultat
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Legg til «{ $city }» som ei tilpassa klokke
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
     .label = Bynamn
@@ -1660,6 +1672,10 @@ newtab-clock-widget-custom-timezone-input =
     .label = Tidssone
     .aria-label = Tidssone
     .placeholder = Søk etter by, tidssone eller forskyving frå UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Resultat for tidssone
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Ingen samsvarande tidssoner
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Tilbake
 # Shown in place of the search results when the user's query does not match any

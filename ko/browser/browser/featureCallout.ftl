@@ -133,6 +133,21 @@ taskbar-tabs-media-callout-subtitle = 스트리밍 사이트를 { -brand-short-n
 taskbar-tabs-value-prop-callout-title = 이 사이트를 작업 표시줄에 추가
 taskbar-tabs-value-prop-callout-subtitle = 한 번의 클릭으로 자체 창과 간소화된 인터페이스에서 실행하세요.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = 작업 표시줄에서 바로 소통을 이어가세요
+taskbar-tabs-email-callout-title-v3 = 받은 편지함을 작업 표시줄에 고정해 두세요
+taskbar-tabs-email-callout-subtitle-v3 = { -brand-short-name }가 보호하는 간소화된 창에서 이메일 사이트를 앱처럼 실행해 보세요.
+taskbar-tabs-media-callout-title-v3 = 스트리밍 화면을 작업 표시줄에 고정해 두세요
+taskbar-tabs-media-callout-subtitle-v3 = { -brand-short-name }가 보호하는 간소화된 창에서 미디어 사이트를 앱처럼 실행해 보세요.
+taskbar-tabs-value-prop-callout-title-v3 = 자주 방문하는 사이트를 작업 표시줄에 고정해 두세요
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Windows 11로 전환하여 저장한 모든 항목을 잃어버리지 마세요.
