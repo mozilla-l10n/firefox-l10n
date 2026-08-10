@@ -175,7 +175,7 @@ mr2022-onboarding-secondary-skip-button-label = Pomiń ten krok
 ## MR2022 New User Easy Setup screen strings
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
-mr2022-onboarding-easy-setup-primary-button-label = Zapisz i kontynuuj
+mr2022-onboarding-easy-setup-primary-button-label = Zachowaj i kontynuuj
 # Set Default action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-set-default-checkbox-label = Ustaw przeglądarkę { -brand-short-name } jako domyślną
 # Import action checkbox label used on new user onboarding first screen

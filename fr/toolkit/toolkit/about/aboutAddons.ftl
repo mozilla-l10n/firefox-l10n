@@ -625,7 +625,7 @@ find-more-addons-promo-open-amo-button = Parcourir les extensions et les thèmes
 
 find-more-extensions-promo =
     .heading = Trouvez votre prochaine extension préférée
-    .message = Personnalisez { -brand-product-name } avec des outils qui favorisent la focus, la confidentialité, le shopping, et plus encore.
+    .message = Personnalisez { -brand-product-name } avec des outils dédiés à la concentration, à la confidentialité, au shopping, et bien d’autres choses.
 find-more-extensions-promo-open-amo-button = Parcourir les extensions
 
 ## Promo footer shown in the about:addons themes list view when
@@ -634,7 +634,7 @@ find-more-extensions-promo-open-amo-button = Parcourir les extensions
 
 find-more-themes-promo =
     .heading = Découvrez de nouveaux styles
-    .message = Choisissez un style qui vous ressemble à { -brand-product-name }.
+    .message = Choisissez un style qui vous ressemble pour { -brand-product-name }.
 find-more-themes-promo-open-amo-button = Explorer les thèmes
 
 ## Promo shown in about:addons extensions list view when no extension is yet installed
@@ -643,7 +643,7 @@ find-more-themes-promo-open-amo-button = Explorer les thèmes
 list-empty-get-extensions-promo =
     .heading = Quelques extensions peuvent faire toute la différence
     .message = Nous avons des recommandations pour vous aider à améliorer votre concentration, votre confidentialité et bien plus.
-list-empty-get-extensions-promo-button = Trouvez votre première extension
+list-empty-get-extensions-promo-button = Trouver votre première extension
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
@@ -658,7 +658,7 @@ themes-mode-device =
     .label = Appareil
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
-    .heading = { -brand-product-name } thèmes
+    .heading = Thèmes de { -brand-product-name }
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Afficher plus
 aboutaddons-themes-picker-see-less = Afficher moins

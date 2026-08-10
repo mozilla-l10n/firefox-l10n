@@ -13,7 +13,7 @@ webconsole-commands-usage-block =
     
     Beginnen met het blokkeren van netwerkaanvragen
     
-      Accepteert slechts één argument URLSTRING, een tekenreeks zonder aanhalingstekens die zal worden gebruikt om alle aanvragen waarvan de URL deze tekenreeks bevat te blokkeren.
+      Accepteert slechts één argument URL_STRING, een tekenreeks zonder aanhalingstekens die zal worden gebruikt om alle aanvragen waarvan de URL deze tekenreeks bevat te blokkeren.
       Gebruik :unblock of de aanvraagblokkeringszijbalk van Netwerkmonitor om dit ongedaan te maken.
 # Usage string for :unblock command
 webconsole-commands-usage-unblock =

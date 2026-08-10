@@ -147,9 +147,9 @@ taskbar-tabs-email-callout-subtitle-v3 = Ouvrez vos sites de messagerie sous for
 taskbar-tabs-media-callout-title-v3 = Gardez vos vidéos en streaming dans votre barre des tâches
 taskbar-tabs-media-callout-subtitle-v3 = Ouvrez vos sites multimédia sous forme d’application dans une fenêtre épurée et sécurisée par { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title-v3 = Épinglez vos sites préférés à votre barre des tâches
-taskbar-tabs-value-prop-callout-subtitle-v3 = Lancez n’importe quel site comme une application dans une fenêtre rationalisée protégée par { -brand-short-name }.
+taskbar-tabs-value-prop-callout-subtitle-v3 = Ouvrez n’importe quel site sous forme d’application dans une fenêtre épurée et sécurisée par { -brand-short-name }.
 taskbar-tabs-gaming-callout-title-v3 = Continuez à jouer depuis la barre des tâches
-taskbar-tabs-gaming-callout-subtitle-v3 = Lancez vos sites de jeux comme une application dans une fenêtre simplifiée protégée par { -brand-short-name }.
+taskbar-tabs-gaming-callout-subtitle-v3 = Ouvrez vos sites de jeux sous forme d’application dans une fenêtre épurée et sécurisée par { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Épingler à la barre des tâches
 

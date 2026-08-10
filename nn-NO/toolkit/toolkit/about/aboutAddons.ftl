@@ -633,9 +633,21 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Eining
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name }-tema
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Vis meir
+aboutaddons-themes-picker-see-less = Vis mindre
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Slå på
+aboutaddons-themes-picker-disable-button =
+    .label = Slå av
+aboutaddons-themes-picker-install-button =
+    .label = Installer
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.
