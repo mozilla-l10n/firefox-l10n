@@ -66,6 +66,10 @@ sync-setup-verify-continue = Continua
 sync-setup-verify-title = Avís de combinació
 sync-setup-verify-heading = Esteu segur que voleu iniciar la sessió per sincronitzar?
 
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Inicieu la sessió per a enviar pestanyes
+
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
 # Dialog 1 - different account signing in without option to merge
@@ -89,3 +93,11 @@ sync-account-in-use-header-merge = { $acctEmail } ja ha iniciat la sessió al pe
 sync-account-in-use-description = Només es pot associar aquest compte amb un perfil en aquest ordinador.
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Aquest compte ha iniciat la sessió en un altre perfil. Voleu sincronitzar tots dos perfils?
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Canvia a “{ $profileName }”
+sync-button-create-profile = Crea un perfil nou
+sync-button-sync-and-merge = Sincronitza i fusiona les dades
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Sincronitza “{ $profileName }”

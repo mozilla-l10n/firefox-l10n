@@ -641,6 +641,32 @@ find-more-addons-promo =
     .message = Ychwanegwch offer ac arddulliau yn ôl eich dewis
 find-more-addons-promo-open-amo-button = Archwilio estyniadau a themâu
 
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Canfod eich hoff estyniad nesaf
+    .message = Cyfaddaswch { -brand-product-name } gydag offer  ar gyfer ffocysu, preifatrwydd, siopa a mwy.
+find-more-extensions-promo-open-amo-button = Archwilio'r estyniadau
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Dod o hyd i fwy o weddau ffres
+    .message = Dewiswch arddull sy'n gwneud i { -brand-product-name } deimlo fel eich un chi.
+find-more-themes-promo-open-amo-button = Archwilio themâu
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Mae ychydig o estyniadau'n mynd yn bell
+    .message = Mae gennym ni argymhellion i'ch helpu chi i wella ffocws, preifatrwydd a mwy.
+list-empty-get-extensions-promo-button = Dod o hyd i'ch estyniad cyntaf
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -652,9 +678,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Dyfais
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Themâu { -brand-product-name }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Dangos rhagor
+aboutaddons-themes-picker-see-less = Dangos llai
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Galluogi
+aboutaddons-themes-picker-disable-button =
+    .label = Analluogi
+aboutaddons-themes-picker-install-button =
+    .label = Gosod
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Methu diweddaru'ch thema. Gwiriwch eich cysylltiad a rhowch gynnig arall arni.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

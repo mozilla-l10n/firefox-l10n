@@ -1989,7 +1989,7 @@ addressbar-locbar-engines-option =
     .accesskey = P
 addressbar-locbar-quickactions-option =
     .label = Gweithredoedd cyflym
-    .accesskey = c
+    .accesskey = G
 addressbar-locbar-showrecentsearches-option-2 =
     .label = Chwilio diweddar
     .accesskey = C
@@ -2693,12 +2693,12 @@ security-privacy-status-pending-trackers-label = Yn edrych i weld faint o dracwy
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
 security-privacy-status-trackers-label =
     { $trackerCount ->
-        [zero] { $trackerCount } tracwyr wedi'u rhwystro dros y mis diwethaf
-        [one] { $trackerCount } traciwr wedi'i rwystro dros y mis diwethaf
-        [two] { $trackerCount } draciwr wedi'u rhwystro dros y mis diwethaf
-        [few] { $trackerCount } traciwr wedi'u rhwystro dros y mis diwethaf
-        [many] { $trackerCount } thraciwr wedi'u rhwystro dros y mis diwethaf
-       *[other] { $trackerCount } traciwr wedi'u rhwystro dros y mis diwethaf
+        [zero] Mae { $trackerCount } tracwyr wedi'u rhwystro dros y mis diwethaf
+        [one] Mae { $trackerCount } traciwr wedi'i rwystro dros y mis diwethaf
+        [two] Mae { $trackerCount } draciwr wedi'u rhwystro dros y mis diwethaf
+        [few] Mae { $trackerCount } traciwr wedi'u rhwystro dros y mis diwethaf
+        [many] Mae { $trackerCount } thraciwr wedi'u rhwystro dros y mis diwethaf
+       *[other] Mae { $trackerCount } traciwr wedi'u rhwystro dros y mis diwethaf
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Mae gennych <a data-l10n-name="strict-tracking-protection">ddiogelwch llym</a>
