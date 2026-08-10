@@ -215,6 +215,10 @@ browser-containers-settings =
 startup-group =
     .label = ره وندن
 
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
 ##
 
 containers-disable-alert-cancel-button = فعال بمهنه
@@ -573,6 +577,24 @@ home-homepage-manage-extension-button =
 choose-bookmark =
     .label = و کار گرؽڌن نشووک…
     .accesskey = B
+home-custom-homepage-delete-address-button =
+    .aria-label = پاک کردن نشۊوی
+    .title = پاک کردن نشۊوی
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = جایونی کردن وا
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = بلگه یل گۊشیڌه وابیڌه هیم سکویی
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = نشووکا…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = وردنی ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -820,6 +842,13 @@ sync-connect-another-device = منپیز ی دسگا دیر
 sync-connect-another-device-2 =
     .label = منپیز ی دسگا دیر
 
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
@@ -850,6 +879,9 @@ forms-primary-pw-learn-more-link = قلوه دووسته بۊین
 forms-master-pw-fips-desc = آلشت رزم شکست خرد
 forms-windows-sso-learn-more-link = قلوه دووسته بۊین
 forms-windows-sso-desc = هساوا ن من سامووا دسگا خوتووݩ دؽوۉداری کۊنین
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -953,6 +985,9 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = کۊکیا وو داده یل وبگه
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1140,6 +1175,9 @@ settings-redesign-promo-dismiss-button =
 addon-recommendations-link = قلوه دووسته بۊین
 data-collection-profiles-link = نیشتن پوی پوروفایلا
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1211,6 +1249,9 @@ preferences-connection-link-button =
 desktop-folder-name = ری میزی
 downloads-folder-name = دانلودا
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-block-ai =
@@ -1275,3 +1316,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = جا کلکا مشکۊک
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = جا کلکا مشکۊک
+
+## Warnings section
+
+
+## Referrals Section
+
