@@ -778,6 +778,12 @@ update-in-progress-ok-button = O&dbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -860,6 +866,9 @@ browsing-cfr-recommendations-learn-more = Saznaj više
 browsing-group =
     .label = Pregledavanje
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Postavke mreže
@@ -927,6 +936,43 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
+home-homepage-title =
+    .label = Početna stranica
+home-homepage-new-windows =
+    .label = Novi prozori
+home-homepage-new-tabs =
+    .label = Nove kartice
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Odaberi određenu web-stranicu
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adrese web-stranica
+home-custom-homepage-address =
+    .placeholder = Upiši adresu
+home-custom-homepage-address-button =
+    .label = Dodaj adresu
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Nema dodanih web-stranica.
+home-custom-homepage-delete-address-button =
+    .aria-label = Izbriši adresu
+    .title = Izbriši adresu
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Zamijeni s
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Trenutačno otvorene stranice
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Zabilješke …
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Dodatak ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -1510,6 +1556,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saznaj više
 forms-windows-sso-desc = Upravljaj računima u postavkama uređaja
 windows-passkey-settings-label = Upravljajte pristupnim ključevima u postavkama sustava
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2369,11 +2418,17 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS preko HTTPS-a
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Radna površina
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite mapu za preuzimanja:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2486,3 +2541,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Sumnjivi prikupljači digitalnih otisaka
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Sumnjivi prikupljači digitalnih otisaka
+
+## Warnings section
+
+
+## Referrals Section
+
