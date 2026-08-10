@@ -143,9 +143,13 @@ taskbar-tabs-value-prop-callout-subtitle = Käynnistä se omassa ikkunassaan ja 
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = Pysy yhteydessä tehtäväpalkista
 taskbar-tabs-email-callout-title-v3 = Pidä postilaatikkosi tehtäväpalkissa
+taskbar-tabs-email-callout-subtitle-v3 = Käynnistä sähköpostisivustosi sovelluksen tavoin virtaviivaistetussa { -brand-short-name }in suojaamassa ikkunassa.
 taskbar-tabs-media-callout-title-v3 = Pidä suoratoisto tehtäväpalkissasi
+taskbar-tabs-media-callout-subtitle-v3 = Käynnistä mediasivustosi sovelluksen tavoin virtaviivaistetussa { -brand-short-name }in suojaamassa ikkunassa.
 taskbar-tabs-value-prop-callout-title-v3 = Kiinnitä suosikkisivustosi tehtäväpalkkiin
+taskbar-tabs-value-prop-callout-subtitle-v3 = Käynnistä mikä tahansa sivusto sovelluksen tavoin virtaviivaistetussa { -brand-short-name }in suojaamassa ikkunassa.
 taskbar-tabs-gaming-callout-title-v3 = Palaa pelien pariin tehtäväpalkista
+taskbar-tabs-gaming-callout-subtitle-v3 = Käynnistä pelisivustosi sovelluksen tavoin virtaviivaistetussa { -brand-short-name }in suojaamassa ikkunassa.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Kiinnitä tehtäväpalkkiin
 

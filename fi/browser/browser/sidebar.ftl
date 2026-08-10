@@ -15,7 +15,7 @@ sidebar-options-menu-button =
     .title = Avaa valikko
 # Accessible label for the splitter used to resize the sidebar.
 sidebar-resize-splitter =
-    .aria-label = Muuta sivupalkin kokoa
+    .aria-label = Muuta sivupaneelin kokoa
 
 ## Labels for sidebar history panel
 
@@ -60,7 +60,7 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Sivupalkin laajennukset
+sidebar-customize-extensions-header = Sivupaneelin laajennukset
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name }-työkalut
 sidebar-customize-firefox-settings = Hallitse { -brand-short-name }-asetuksia
@@ -69,17 +69,19 @@ sidebar-vertical-tabs =
 sidebar-settings2 =
     .label = Asetukset
 sidebar-settings =
-    .label = Sivupalkin asetukset
+    .label = Sivupaneelin asetukset
 sidebar-hide-tabs-and-sidebar =
-    .label = Piilota välilehdet ja sivupalkki
+    .label = Piilota välilehdet ja sivupaneeli
+sidebar-open-tools-from-sidebar =
+    .label = Avaa työkalut sivupaneelista
 sidebar-show-on-the-right =
-    .label = Siirrä sivupalkki oikealle
+    .label = Siirrä sivupaneeli oikealle
 sidebar-show-on-the-left =
-    .label = Siirrä sivupalkki vasemmalle
+    .label = Siirrä sivupaneeli vasemmalle
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =
-    .label = Laajenna sivupalkki hiiren päällä
+    .label = Laajenna sivupaneeli hiiren päällä
 sidebar-manage-extensions2 = Hallitse kaikkia laajennuksia
 sidebar-customize-extensions-header2 = Laajennukset
 sidebar-customize-firefox-tools-header2 =
@@ -108,11 +110,11 @@ sidebar-context-menu-bookmark-tab =
 sidebar-context-menu-copy-link =
     .label = Kopioi linkki
 sidebar-context-menu-hide-sidebar =
-    .label = Piilota sivupalkki
+    .label = Piilota sivupaneeli
 sidebar-context-menu-enable-vertical-tabs =
     .label = Ota pystysuuntaiset välilehdet käyttöön
 sidebar-context-menu-customize-sidebar =
-    .label = Mukauta sivupalkkia
+    .label = Mukauta sivupaneelia
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -120,7 +122,7 @@ sidebar-context-menu-close-remote-tab =
 sidebar-context-menu-remove-extension2 =
     .label = Poista { -brand-short-name }ista
 sidebar-context-menu-unpin-extension =
-    .label = Poista sivupalkista
+    .label = Poista sivupaneelista
 
 ## Labels for sidebar history context menu items
 
@@ -153,6 +155,9 @@ sidebar-opentabs-context-close-tab =
 # tab sorting options, which appear directly beneath this heading.
 sidebar-opentabs-sort-by-heading =
     .label = Lajitteluperuste
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Välilehtien järjestys
 # Sort option that lists tabs by most recent activity, newest first.
 sidebar-opentabs-sort-option-recency =
     .label = Äskettäin aktiivinen
@@ -173,7 +178,7 @@ sidebar-menu-open-tabs-label =
 sidebar-menu-bookmarks-label =
     .label = Kirjanmerkit
 sidebar-menu-customize-label =
-    .label = Muokkaa sivupalkkia
+    .label = Muokkaa sivupaneelia
 sidebar-menu-contextual-password-manager-label =
     .label = Salasanat
 sidebar-menu-more-tools-label =
@@ -211,7 +216,7 @@ sidebar-menu-close-ai-chatbot-provider-tooltip = Sulje { $provider } ({ $shortcu
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
-    .heading = Muokkaa sivupalkkia
+    .heading = Muokkaa sivupaneelia
 sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
@@ -236,7 +241,7 @@ sidebar-bookmarks-folder-mobile = Kannettavan laitteen kirjanmerkit
 
 ## Titles for sidebar menu panels.
 
-sidebar-customize-title = Muokkaa sivupalkkia
+sidebar-customize-title = Muokkaa sivupaneelia
 sidebar-history-title = Sivuhistoria
 sidebar-syncedtabs-title = Välilehdet muista laitteista
 # Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs

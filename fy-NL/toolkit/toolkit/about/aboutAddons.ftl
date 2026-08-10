@@ -645,6 +645,23 @@ find-more-extensions-promo =
     .message = Pas { -brand-product-name } oan mei ark foar fokus, privacy, winkelje en mear.
 find-more-extensions-promo-open-amo-button = Utwreidingen ferkenne
 
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Mear frisse looks
+    .message = Kies in styl dy’t { -brand-product-name } as dy fan jo fielt.
+find-more-themes-promo-open-amo-button = Tema’s ferkenne
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = In pear útwreidingen dogge in protte
+    .message = Wy hawwe oanrekommandaasjes om jo te helpen fokus, privacy en mear te ferbetterjen.
+list-empty-get-extensions-promo-button = Jo earste útwreiding sykje
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -656,9 +673,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Apparaat
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name }-tema’s
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Mear toane
+aboutaddons-themes-picker-see-less = Minder toane
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Ynskeakelje
+aboutaddons-themes-picker-disable-button =
+    .label = Utskeakele
+aboutaddons-themes-picker-install-button =
+    .label = Ynstallearje
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Koe jo tema net bywurkje. Kontrolearje jo ferbining en probearje it opnij.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

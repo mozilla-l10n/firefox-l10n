@@ -619,6 +619,12 @@ mlmodel-addon-detail-model-card = Mallikortti
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Näytä Hugging Face -sivustolla
 
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo-open-amo-button = Tutustu teemoihin
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 

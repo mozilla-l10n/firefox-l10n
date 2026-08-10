@@ -630,6 +630,32 @@ find-more-addons-promo =
     .message = Pśidajśo rědy a stile za swóje pótrjebnosći a słod.
 find-more-addons-promo-open-amo-button = Rozšyrjenja a drastwy wuslěźiś
 
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Namakajśo swóje pśiduce nejlubše rozšyrjenje
+    .message = Pśiměŕśo { -brand-product-name } z rědami za fokus, priwatnosć, nakupowanje a wěcej.
+find-more-extensions-promo-open-amo-button = Rozšyrjenja wuslěźiś
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Namakajśo dalšne nowe naglědy
+    .message = Wubjeŕśo stil, kótaryž dajo wam zacuśe, až { -brand-product-name } jo waš.
+find-more-themes-promo-open-amo-button = Drastwy wuslěźiś
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Někotare rozšyrjenja mógu wjeliku pomoc byś
+    .message = Mamy dopórucenja, aby wam pomagali, fokus, priwatnosć a wěcej pólěpšyli.
+list-empty-get-extensions-promo-button = Namakajśo swójo prědne rozšyrjenje
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -641,9 +667,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Rěd
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Drastwy { -brand-product-name }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Wěcej pokazaś
+aboutaddons-themes-picker-see-less = Mjenjej pokazaś
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Zmóžniś
+aboutaddons-themes-picker-disable-button =
+    .label = Znjemóžniś
+aboutaddons-themes-picker-install-button =
+    .label = Instalěrowaś
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Waša drastwa njedajo se aktualizěrowaś. Pśeglědujśo swój zwisk a wopytajśo hyšći raz.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.
