@@ -73,4 +73,6 @@ ssl-error-mac-computation-failure = هساو کردن MAC شکست خرد.
 ssl-error-sym-key-context-failure = وورکل زمینه کیلیت موتقارن شکست خرد.
 ssl-error-sym-key-unwrap-failure = و در کشیڌن کیلیت موتقارن من پیوم Client Key Exchange شکست خرد.
 ssl-error-user-canceled-alert = منتور ری و ری مرهله نیایی ن لقو کرد.
+ssl-error-feature-not-supported-for-servers = SSL سی سرورا لادراری نؽبۊ.
+ssl-error-feature-not-supported-for-clients = SSL سی منتورووݩ لادراری نؽبۊ.
 sec-error-user-cancelled = منتور دویمه لقو ن فشار داڌ.
