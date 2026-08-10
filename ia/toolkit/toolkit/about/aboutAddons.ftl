@@ -611,6 +611,12 @@ mlmodel-addon-detail-model-card = Carta de modello
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Vider sur Hugging Face
 
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo-open-amo-button = Explorar extensiones
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -622,9 +628,18 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Dispositivo
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Monstrar plus
+aboutaddons-themes-picker-see-less = Monstrar minus
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Activar
+aboutaddons-themes-picker-disable-button =
+    .label = Disactivar
+aboutaddons-themes-picker-install-button =
+    .label = Installar
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.
