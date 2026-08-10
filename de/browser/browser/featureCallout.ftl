@@ -139,6 +139,9 @@ taskbar-tabs-value-prop-callout-subtitle = Starten Sie es in einem eigenen Fenst
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+taskbar-tabs-email-callout-title-v3 = Behalten Sie Ihren Posteingang in der Taskleiste
+taskbar-tabs-email-callout-subtitle-v3 = Starten Sie Ihre E-Mail-Websites wie eine App in einem optimierten Fenster, das durch { -brand-short-name } geschützt ist.
+taskbar-tabs-media-callout-subtitle-v3 = Starten Sie Ihre Medien-Websites wie eine App in einem optimierten Fenster, das durch { -brand-short-name } geschützt ist.
 taskbar-tabs-value-prop-callout-title-v3 = Heften Sie Ihre Lieblings-Webseiten an die Taskleiste
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = An Taskleiste anheften

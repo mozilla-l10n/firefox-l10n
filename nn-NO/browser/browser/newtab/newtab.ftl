@@ -705,6 +705,9 @@ newtab-custom-shortcuts-toggle =
     .description = Nettstadar du lagrar eller besøkjer
 newtab-custom-shortcuts-nova =
     .label = Snarvegar
+newtab-custom-web-notifications-toggle =
+    .label = Nettvarsel
+    .description = Vis varsel frå nettstadane dine på snarvegane deira.
 newtab-custom-row-description =
     .description = Antal rader
 # Variables

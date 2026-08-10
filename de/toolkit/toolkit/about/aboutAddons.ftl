@@ -633,7 +633,7 @@ mlmodel-addon-detail-model-card-link-label = Auf Hugging Face anschauen
 
 find-more-addons-promo =
     .heading = { -brand-product-name } nach Ihren Wünschen gestalten
-    .message = Fügen Sie Addons und Themes hinzu, die Ihren Bedürfnissen und Ihrem Geschmack entsprechen.
+    .message = Fügen Sie Erweiterungen und Themes hinzu, die Ihren Bedürfnissen und Ihrem Geschmack entsprechen.
 find-more-addons-promo-open-amo-button = Entdecken Sie Erweiterungen und Themes
 
 ## Promo footer shown in the about:addons extensions list view when
@@ -642,7 +642,22 @@ find-more-addons-promo-open-amo-button = Entdecken Sie Erweiterungen und Themes
 
 find-more-extensions-promo =
     .heading = Finden Sie Ihre nächste Lieblingserweiterung
-    .message = Passen Sie { -brand-product-name } mit Addons für Fokus, Datenschutz, Einkaufen und mehr an.
+    .message = Passen Sie { -brand-product-name } mit Erweiterungen für Fokus, Datenschutz, Einkaufen und mehr an.
+find-more-extensions-promo-open-amo-button = Entdecken Sie Erweiterungen
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Finden Sie mehr frische Looks
+    .message = Wählen Sie einen Stil, der { -brand-product-name } nach Ihnen aussehen lässt.
+find-more-themes-promo-open-amo-button = Entdecken Sie Themes
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo-button = Finden Sie Ihre erste Erweiterung
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
@@ -655,9 +670,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = System
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name }-Themes
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Mehr anzeigen
+aboutaddons-themes-picker-see-less = Weniger anzeigen
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Aktivieren
+aboutaddons-themes-picker-disable-button =
+    .label = Deaktivieren
+aboutaddons-themes-picker-install-button =
+    .label = Installieren
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Ihr Theme konnte nicht aktualisiert werden. Überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

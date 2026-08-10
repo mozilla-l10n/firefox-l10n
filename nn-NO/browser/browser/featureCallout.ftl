@@ -145,7 +145,11 @@ taskbar-tabs-chat-callout-title-v3 = Hald deg tilkopla frå oppgåvelinja
 taskbar-tabs-email-callout-title-v3 = Behald innboksen din i oppgåvelinja
 taskbar-tabs-email-callout-subtitle-v3 = Start e-post-nettstadar som ein app i eit straumlinjeforma vindauge verna av { -brand-short-name }.
 taskbar-tabs-media-callout-title-v3 = Behald strøyminga di på oppgåvelinja
+taskbar-tabs-media-callout-subtitle-v3 = Start medie-nettstadar som ein app i eit straumlinjeforma vindauge verna av { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Fest favorittnettstadane dine til oppgåvelinja
+taskbar-tabs-value-prop-callout-subtitle-v3 = Start kva nettstad som helst som ein app i eit straumlinjeforma vindauge verna av { -brand-short-name }.
 taskbar-tabs-gaming-callout-title-v3 = Gå tilbake til spelinga frå oppgåvelinja
+taskbar-tabs-gaming-callout-subtitle-v3 = Start spelsidene dine som ein app i eit straumlinjeforma vindauge verna av { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Fest til oppgåvelinja
 

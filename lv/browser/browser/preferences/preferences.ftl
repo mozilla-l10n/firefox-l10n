@@ -182,6 +182,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Izvēlieties profilu
 preferences-copy-profile-button = Kopēt
+tabs-browsing-section =
+    .heading = Cilnes un pārlūkošana
+pane-tabs-browsing-title2 = Cilnes un pārlūkošana
+    .title = Cilnes un pārlūkošana
 tabs-group-header2 =
     .label = Cilnes
 tabs-interaction-heading =

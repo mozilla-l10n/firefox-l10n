@@ -2822,6 +2822,11 @@ security-privacy-issue-warning-proxy-autodetection =
 
 ## Referrals Section
 
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Del { -brand-short-name }
+    .description = Inviter nokon til å velje nettlesaren som set personvern først.
 # Link that opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =

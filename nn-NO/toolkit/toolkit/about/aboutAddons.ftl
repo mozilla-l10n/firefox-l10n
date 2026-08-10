@@ -630,6 +630,18 @@ mlmodel-addon-detail-model-card-link-label = Vis på Hugging Face
 
 find-more-addons-promo-open-amo-button = Utforsk utvidingar og tema
 
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo-open-amo-button = Utforsk utvidingar
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo-open-amo-button = Utforsk tema
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 

@@ -147,6 +147,11 @@ taskbar-tabs-email-callout-subtitle-v3 = { -brand-short-name }가 보호하는 �
 taskbar-tabs-media-callout-title-v3 = 스트리밍 화면을 작업 표시줄에 고정해 두세요
 taskbar-tabs-media-callout-subtitle-v3 = { -brand-short-name }가 보호하는 간소화된 창에서 미디어 사이트를 앱처럼 실행해 보세요.
 taskbar-tabs-value-prop-callout-title-v3 = 자주 방문하는 사이트를 작업 표시줄에 고정해 두세요
+taskbar-tabs-value-prop-callout-subtitle-v3 = { -brand-short-name }가 보호하는 간소화된 창에서 어떤 사이트든 앱처럼 실행해 보세요.
+taskbar-tabs-gaming-callout-title-v3 = 작업 표시줄에서 바로 게임으로 돌아가세요
+taskbar-tabs-gaming-callout-subtitle-v3 = { -brand-short-name }가 보호하는 간소화된 창에서 게임 사이트를 앱처럼 실행해 보세요.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = 작업 표시줄에 고정
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
