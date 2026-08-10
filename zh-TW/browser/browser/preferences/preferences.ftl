@@ -974,6 +974,11 @@ use-current-pages =
 choose-bookmark =
     .label = 使用書籤…
     .accesskey = B
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = 擴充套件（{ $extension }）
 
 ## Custom Homepage subpage
 
