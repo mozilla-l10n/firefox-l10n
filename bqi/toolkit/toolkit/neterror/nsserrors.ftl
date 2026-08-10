@@ -67,5 +67,6 @@ ssl-error-rx-unknown-record-type = SSL رکوردی وا نوع موئتوا ن�
 ssl-error-rx-unknown-handshake = SSL ی پیوم ٱولیه وا نوع پیوم نشناخته گرؽڌ.
 ssl-error-rx-unknown-alert = SSL رکورد هوشداری وا تووزیهات هوشدار نشناخته گرؽڌ.
 ssl-error-close-notify-alert = ترف موقابل SSL منپیز ن تموم کرد.
+ssl-error-md5-digest-failure = تابع هزم MD5 شکست خرد.
 ssl-error-user-canceled-alert = منتور ری و ری مرهله نیایی ن لقو کرد.
 sec-error-user-cancelled = منتور دویمه لقو ن فشار داڌ.

@@ -1564,7 +1564,7 @@ popup-notification-xpinstall-prompt-learn-more = زبار پۊرنیڌن ٱمن 
 popup-notification-xpinstall-prompt-block-url = نیشتن جۊزعیات
 # Note: Access key is set to p to match "private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox2 =
-    .label = بهلین وردنی من نیمدری سیخومی ر بوۊفته
+    .label = بهلین وردنی من نیمدری سیخومی ره بوۊفته
     .accesskey = p
 # This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
 # but it is used in the install prompt, and it needs an access key.
