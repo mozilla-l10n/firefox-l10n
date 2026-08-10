@@ -8,7 +8,7 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
-firefox-relay-mask-generation-failed = { -relay-brand-name } nevarēja ģenerēt jaunu masku. HTTP kļūdas kods: { $status }.
+firefox-relay-mask-generation-failed = { -relay-brand-name } nevarēja izveidot jaunu masku. HTTP kļūdas kods: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nevarēja atrast atkārtoti lietojamas maskas. HTTP kļūdas kods: { $status }.
 
 ##
