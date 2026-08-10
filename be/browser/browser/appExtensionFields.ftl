@@ -36,6 +36,22 @@ extension-nova-sun-name = Сонца
 extension-nova-spark-name = Іскра
 # Name for a red-orange theme. Refers to the color of fire.
 extension-nova-flame-name = Полымя
+# Name for a bright pink theme. Refers to a burst of light or fire.
+extension-nova-flare-name = Бляск
+# Name for a soft purple theme. Refers to the lavender flower.
+extension-nova-lavender-name = Лаванда
+# Name for a medium purple theme. Refers to the sky just after sunset.
+extension-nova-dusk-name = Змярканне
+# Name for a medium blue theme. Refers to a sheltered body of water.
+extension-nova-lagoon-name = Лагуна
+# Name for a green theme. Refers to pine trees.
+extension-nova-pine-name = Сасна
+# Name for a soft teal theme. Refers to ocean tides.
+extension-nova-tide-name = Хваля
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+extension-nova-ash-name = Попел
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+extension-nova-smoke-name = Дым
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the

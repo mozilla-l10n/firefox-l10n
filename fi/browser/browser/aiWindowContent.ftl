@@ -160,6 +160,20 @@ smart-window-opened-tabs-summary-single =
         [one] Avattu { $count } välilehti.
        *[other] Avattu { $count } välilehteä.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Luotu ryhmä “{ $label }” ja avattu { $count } välilehti.
+       *[other] Luotu ryhmä “{ $label }” ja avattu { $count } välilehteä.
+    }
+smart-window-opened-tabs-row-label = Avattu välilehtiä
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Vaihdettu välilehtiä
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Vaihdettu välilehteen “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Ryhmästä puretut välilehdet
 # Variables
@@ -186,6 +200,14 @@ action-log-reading-page = Luetaan sivua
 action-log-read-page = Luettiin sivun sisältö
 action-log-searching-web = Haetaan verkosta
 action-log-searched-web = Haettiin verkosta
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Haetaan verkosta <a data-l10n-name="exa-link">Exa</a>lla
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Haettiin verkosta <a data-l10n-name="exa-link">Exa</a>lla
 action-log-checking-memories = Tarkistetaan muistoja
 action-log-checked-memories = Tarkistettiin muistot
 action-log-searching-settings = Etsitään asetuksia
@@ -208,3 +230,10 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = Hakutulokset ladattu tälle välilehdelle. Analysoidaan…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } lisää
