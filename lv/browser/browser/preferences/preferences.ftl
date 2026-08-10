@@ -1612,6 +1612,8 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-custom-cookie-behavior-accept-all =
+    .label = Atļaut visas sīkdatnes
 preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
     .label = Liegt starpvietņu sīkdatnes
 preferences-etp-custom-cookie-behavior-block-unvisited =

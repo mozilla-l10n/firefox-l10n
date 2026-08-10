@@ -36,6 +36,12 @@ detail-update-automatic =
 detail-update-manual =
     .label = Izslēgta
     .tooltiptext = Neinstalēt atjauninājumus automātiski
+detail-private-browsing-on =
+    .label = Atļaut
+    .tooltiptext = Iespējot privātajā pārlūkošanā
+detail-private-browsing-off =
+    .label = Neatļaut
+    .tooltiptext = Atspējot privātajā pārlūkošanā
 detail-home =
     .label = Mājas lapa
 detail-home-value =
@@ -155,6 +161,12 @@ addon-install-from-file-dialog-title = Izvēlieties instalējamo papildinājumu
 addon-install-from-file-filter-name = Papildinājumi
 addon-open-about-debugging = Atkļūdot papildinājumus
     .accesskey = d
+
+## Pending uninstall message bar
+
+addon-detail-updates-label = Atļaut automātiskus atjauninājumus
+addon-detail-private-browsing-allow = Atļaut
+addon-detail-private-browsing-disallow = Neatļaut
 
 ## Page headings
 

@@ -127,7 +127,7 @@ fxa-menu-sync-off-signin-description = Se connecter pour synchroniser
 # Sync is a verb, short for synchronize.
 # Variables:
 #   $deviceName (String): The name of the local device.
-fxa-menu-sync-device-now = Synchronisez { $deviceName } maintenant
+fxa-menu-sync-device-now = Synchroniser { $deviceName } maintenant
 fxa-menu-manage-sync-settings =
     .label = Gérer les paramètres de synchronisation
 fxa-menu-add-device =

@@ -287,6 +287,9 @@ privacy-metrics-private-window = { -brand-short-name } še naprej blokira sledil
 
 ## VPN promo card and banner
 
+protections-vpn-title = Razširite zaščito zasebnosti tudi izven brskalnika
+protections-vpn-header-content = Zaščitite celotno napravo z { -mozilla-vpn-brand-name }. Z enim dotikom šifrirate ves promet in skrijete svojo lokacijo.
 protections-get-vpn-link = Prenesi { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Naročeni
+protections-vpn-banner-header = Zaščita, ki presega zgolj brskalnik
 protections-vpn-banner-link = Prenesi { -mozilla-vpn-brand-name }

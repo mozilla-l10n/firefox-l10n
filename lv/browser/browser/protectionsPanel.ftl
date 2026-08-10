@@ -72,6 +72,15 @@ protections-panel-blocking-label = Bloķēts
 protections-panel-not-blocking-label = Atļauts
 protections-panel-not-found-label = Nav konstatēts
 
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Atļaut { $trackername }
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Atļaut { $websitehost }
+
 ##
 
 protections-panel-settings-label = Aizsardzības iestatījumi
