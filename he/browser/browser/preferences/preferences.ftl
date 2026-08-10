@@ -986,6 +986,38 @@ use-current-pages =
 choose-bookmark =
     .label = שימוש בסימנייה…
     .accesskey = ס
+home-homepage-title =
+    .label = דף הבית
+home-homepage-new-windows =
+    .label = חלונות חדשים
+home-homepage-new-tabs =
+    .label = לשוניות חדשות
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = בחירה באתר מסוים
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = כתובות אתרי אינטרנט
+home-custom-homepage-address =
+    .placeholder = נא להכניס כתובת
+home-custom-homepage-address-button =
+    .label = הוספת כתובת
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = עדיין לא נוספו אתרים.
+home-custom-homepage-delete-address-button =
+    .aria-label = מחיקת כתובת
+    .title = מחיקת כתובת
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = החלפה עם
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = הדפים הפתוחים הנוכחיים
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = סימניות…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
