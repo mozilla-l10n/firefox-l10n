@@ -207,8 +207,8 @@ media-codec-support-lack-of-extension = Zainstaluj rozszerzenie
 
 media-content-decryption-modules-title = Informacje o modułach deszyfrowania treści
 media-key-system-name = Nazwa systemu kluczy
-media-video-robustness = Siła wideo
-media-audio-robustness = Siła dźwięku
+media-video-robustness = Poziom zabezpieczeń wideo
+media-audio-robustness = Poziom zabezpieczeń dźwięku
 media-cdm-capabilities = Możliwości
 # Clear Lead isn't defined in the spec, which means the the first few seconds
 # are not encrypted. It allows playback to start without having to wait for

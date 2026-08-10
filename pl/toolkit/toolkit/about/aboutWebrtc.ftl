@@ -19,11 +19,11 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Ukryj zamknięte PeerCo
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
-about-webrtc-aec-logging-msg-label = Dziennik redukcji szumów otoczenia
-about-webrtc-aec-logging-off-state-label = Zapisuj informacje redukcji szumów otoczenia
-about-webrtc-aec-logging-on-state-label = Zatrzymaj zapisywanie informacji redukcji szumów otoczenia
-about-webrtc-aec-logging-on-state-msg = Zapisywanie informacji redukcji szumów otoczenia (rozmawiaj przez kilka minut, po czym zatrzymaj zapisywanie)
-about-webrtc-aec-logging-toggled-on-state-msg = Zapisywanie informacji redukcji szumów otoczenia (rozmawiaj przez kilka minut, po czym zatrzymaj zapisywanie)
+about-webrtc-aec-logging-msg-label = Dziennik usuwania echa akustycznego (AEC)
+about-webrtc-aec-logging-off-state-label = Rozpocznij rejestrowanie informacji o usuwaniu echa akustycznego (AEC)
+about-webrtc-aec-logging-on-state-label = Zatrzymaj rejestrowanie informacji o usuwaniu echa akustycznego (AEC)
+about-webrtc-aec-logging-on-state-msg = Rejestrowanie informacji o usuwaniu echa akustycznego (AEC) (rozmawiaj przez kilka minut, po czym zatrzymaj rejestrowanie)
+about-webrtc-aec-logging-toggled-on-state-msg = Rejestrowanie informacji o usuwaniu echa akustycznego (AEC) (rozmawiaj przez kilka minut, po czym zatrzymaj rejestrowanie)
 about-webrtc-aec-logging-unavailable-sandbox = Eksport dzienników AEC wymaga zmiennej środowiskowej „MOZ_DISABLE_CONTENT_SANDBOX=1”. Ustaw tę zmienną wyłącznie wtedy, gdy rozumiesz możliwe ryzyko.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.

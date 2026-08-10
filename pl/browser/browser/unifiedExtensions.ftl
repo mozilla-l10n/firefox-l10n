@@ -95,7 +95,7 @@ unified-extensions-mb-blocklist-warning-multiple2 =
            *[many] Wyłączono { $extensionsCount } rozszerzeń
         }
     .message =
-        Część zainstalowanych rozszerzeń jest objętych ograniczeniami i zostały wyłączone.
+        Część zainstalowanych rozszerzeń jest objęta ograniczeniami i została wyłączona.
         Można je włączyć w ustawieniach, ale może to być ryzykowne.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
@@ -107,7 +107,7 @@ unified-extensions-mb-blocklist-warning-multiple =
            *[many] Wyłączono { $extensionsCount } rozszerzeń
         }
     .message =
-        Część zainstalowanych rozszerzeń zostało wyłączonych z powodu naruszania zasad Mozilli.
+        Część zainstalowanych rozszerzeń została wyłączona z powodu naruszania zasad Mozilli.
         Można je włączyć w ustawieniach, ale może to być ryzykowne.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
@@ -118,6 +118,6 @@ unified-extensions-mb-blocklist-error-multiple =
             [few] Wyłączono { $extensionsCount } rozszerzenia
            *[many] Wyłączono { $extensionsCount } rozszerzeń
         }
-    .message = Część zainstalowanych rozszerzeń zostało wyłączonych z powodu naruszania zasad Mozilli.
+    .message = Część zainstalowanych rozszerzeń została wyłączona z powodu naruszania zasad Mozilli.
 unified-extensions-notice-safe-mode =
     .message = Wszystkie rozszerzenia zostały wyłączone z powodu działania w trybie rozwiązywania problemów.

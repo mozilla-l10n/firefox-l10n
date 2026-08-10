@@ -1464,7 +1464,7 @@ qrcode-save-filename-with-domain-base = kod-qr-{ $domain }
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Dźwięk lub obraz na tej stronie używają oprogramowania DRM, które może ograniczać możliwości oferowane przez { -brand-short-name(case: "acc") }.
+eme-notifications-drm-content-playing = Dźwięk lub obraz na tej stronie używa oprogramowania DRM, które może ograniczać możliwości oferowane przez { -brand-short-name(case: "acc") }.
 eme-notifications-drm-content-playing-manage = Zarządzaj ustawieniami
 eme-notifications-drm-content-playing-manage-accesskey = u
 eme-notifications-drm-content-playing-dismiss = Zamknij

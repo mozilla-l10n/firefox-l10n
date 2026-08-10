@@ -1395,7 +1395,7 @@ newtab-sports-widget-show-less =
 newtab-sports-widget-followed-only-toggle =
     .label = Tylko obserwowane drużyny
 # Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Wczytywanie meczy…
+newtab-sports-widget-loading-more = Wczytywanie meczów…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Oglądaj

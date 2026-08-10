@@ -142,6 +142,7 @@ taskbar-tabs-value-prop-callout-subtitle = Εκκινήστε το σε δικό
 taskbar-tabs-email-callout-title-v3 = Κρατήστε τα εισερχόμενα σας στη γραμμή εργασιών
 taskbar-tabs-email-callout-subtitle-v3 = Εκκινήστε τους ιστοτόπους εμαιλ σας σαν εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
 taskbar-tabs-media-callout-subtitle-v3 = Εκκινήστε τους ιστοτόπους πολυμέσων σας μια εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Καρφιτσώστε τις αγαπημένες σας ιστοσελίδες στη γραμμή εργασιών
 taskbar-tabs-value-prop-callout-subtitle-v3 = Εκκινήστε οποιοδήποτε ιστότοπο σαν εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
 taskbar-tabs-gaming-callout-title-v3 = Επιστρέψτε στα παιχνίδια από τη γραμμή εργαλείων
 taskbar-tabs-gaming-callout-subtitle-v3 = Εκκινήστε τους ιστοτόπους παιχνιδιών σαν εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.

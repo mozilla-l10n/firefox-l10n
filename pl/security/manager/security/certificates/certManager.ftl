@@ -80,7 +80,7 @@ exception-mgr =
 exception-mgr-extra-button =
     .label = Potwierdź wyjątek bezpieczeństwa
     .accesskey = P
-exception-mgr-supplemental-warning = Godne zaufania witryny, banki i inne witryny publiczne nie powinny tego żądać.
+exception-mgr-supplemental-warning = Wiarygodne banki, sklepy i inne witryny publiczne nie będą o to prosić.
 exception-mgr-cert-location-url =
     .value = Adres:
 exception-mgr-cert-location-download =
@@ -151,7 +151,7 @@ certificate-not-available = (niedostępny)
 
 ## Used to show whether an override is temporary or permanent
 
-permanent-override = Na stałe
+permanent-override = Stały
 temporary-override = Tymczasowy
 
 ## Add Security Exception dialog

@@ -161,9 +161,9 @@ about-glean-metrics-table-settings-timelines-chart-padding = Odstęp wykresu
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Promień okręgu
 # The offset on the x-axis from the end of the horizontal line for the y-axis line
-about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Przesunięcie osi X względem osi Y
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Poziome przesunięcie osi Y
 # The offset on the y-axis from the x-axis for the y-axis line
-about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Przesunięcie osi Y względem osi Y
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Pionowe przesunięcie osi Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtruj
 # This message sits alongside an input field, further describing its purpose.

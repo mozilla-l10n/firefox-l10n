@@ -205,7 +205,7 @@ newtab-menu-show-privacy-info = Mūsu sponsori un jūsu privātums
 newtab-menu-about-fakespot = Par { -fakespot-brand-name }
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
-newtab-menu-section-block = Bloķēt
+newtab-menu-section-block = Liegt
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Uzzināt vairāk
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
@@ -570,9 +570,22 @@ newtab-section-follow-button = Sekot
 newtab-section-following-button = Seko
 newtab-section-unfollow-button = Pārtraukt sekošanu
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+newtab-section-block-button = Liegt
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Liegt { $topic }
+
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Ne tagad
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Liegt { $topic }
 
 ## Strings for the Clock widget
 
