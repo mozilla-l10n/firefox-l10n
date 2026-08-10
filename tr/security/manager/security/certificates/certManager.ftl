@@ -103,7 +103,7 @@ pkcs12-dup-data = Sertifika ve özel anahtar zaten güvenlik aygıtında mevcut.
 ## PKCS#12 file dialogs
 
 choose-p12-backup-file-dialog = Yedekleme için dosya adı
-file-browse-pkcs12-spec = PKSC12 Dosyaları
+file-browse-pkcs12-spec = PKCS12 Dosyaları
 choose-p12-restore-file-dialog = İçe aktarılacak sertifika dosyası
 
 ## Import certificate(s) file dialog

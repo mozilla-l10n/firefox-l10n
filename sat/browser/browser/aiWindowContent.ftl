@@ -76,3 +76,20 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = ᱫᱚᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ
+smartwindow-nl-retry-message = ᱡᱩᱫᱤ ᱟᱢ ᱱᱤᱛ ᱦᱚᱸ ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ, <strong>ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ</strong> ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ ᱡᱷᱤᱡᱚᱜ ᱠᱟᱱ ᱠᱟᱨᱰ ᱨᱮ ᱟᱢᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
+smartwindow-nl-retry-group-tabs-message = ᱡᱩᱫᱤ ᱟᱢ ᱱᱤᱛ ᱦᱚᱸ ᱴᱮᱵᱽ ᱜᱟᱫᱮᱞ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ, <strong>ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ</strong> ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ ᱚᱠᱟ ᱠᱟᱨᱰ ᱨᱮ ᱡᱷᱤᱡᱽᱚᱜᱼᱟ ᱚᱱᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ  ᱾
+smartwindow-nl-thinking = ᱢᱮᱪᱤᱝ ᱴᱮᱵᱽ ᱠᱚ ᱧᱮᱞ ᱮᱫᱟᱹᱧ...
+smartwindow-loading-assistant-response =
+    .aria-label = ᱜᱚᱲᱚᱭᱤᱡ ᱛᱮᱞᱟ ᱞᱳᱰᱤᱝ
+smartwindow-nl-undo-button =
+    .label = ᱨᱩᱣᱟᱹᱲ
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] { $count } ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    }

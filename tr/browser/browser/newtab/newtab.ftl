@@ -880,7 +880,7 @@ newtab-weather-menu-weather-display-option-detailed = Ayrıntılı
 newtab-weather-menu-change-weather-display-detailed = Ayrıntılı görünüme geç
 newtab-weather-menu-temperature-units = Sıcaklık birimi
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenhayt
-newtab-weather-menu-temperature-option-celsius = Celcius
+newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Fahrenhayta geç
 newtab-weather-menu-change-temperature-units-celsius = Celsius’a geç
 newtab-weather-menu-hide-weather = Yeni sekmede hava durumunu gizle
@@ -1514,7 +1514,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Araçları iyileştirmemize yardım edin
-newtab-sports-widget-message-survey-body = Dünya Kupaları sona erdi. Bu deneyimle ilgili görüşlerinizi paylaşın.
+newtab-sports-widget-message-survey-body = Dünya Kupası sona erdi. Bu deneyimle ilgili görüşlerinizi paylaşın.
 newtab-sports-widget-message-survey-widget-title = Dünya Kupası aracını nasıl buldunuz?
 newtab-sports-widget-message-survey-widget-body = Yeni araçlar geliştirmemize yardımcı olmak için geri bildiriminizi bizimle paylaşın. Sonra da sıradaki aracımızı deneyin.
 newtab-sports-widget-message-survey-cta =

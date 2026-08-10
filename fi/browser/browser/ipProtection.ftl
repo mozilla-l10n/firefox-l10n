@@ -58,6 +58,10 @@ ipprotection-feature-introduction-button-get-started = Aloitetaan
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Sisäänrakennetut VPN-rajoituksesi nollautuvat 1. syyskuuta
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Sisäänrakennettu VPN-palvelu on nyt entistä parempi
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Avaa VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Aseta oletukseksi

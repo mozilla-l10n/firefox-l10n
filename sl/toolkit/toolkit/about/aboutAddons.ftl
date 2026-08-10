@@ -631,7 +631,7 @@ mlmodel-addon-detail-model-card-link-label = Prikaži na Hugging Face
 ## "styles" refers to Firefox themes.
 
 find-more-addons-promo =
-    .heading = Oblikujte { -brand-product-name(sklon: "tožilnik") } po svoje
+    .heading = Oblikujte { -brand-product-name(sklon: "tozilnik") } po svoje
     .message = Dodajte orodja in sloge, ki ustrezajo vašim potrebam in okusu.
 find-more-addons-promo-open-amo-button = Odkrijte razširitve in teme
 
@@ -641,7 +641,7 @@ find-more-addons-promo-open-amo-button = Odkrijte razširitve in teme
 
 find-more-extensions-promo =
     .heading = Odkrijte svojo naslednjo priljubljeno razširitev
-    .message = Prilagodite { -brand-product-name(sklon: "tožilnik") } z orodji za osredotočenost, zasebnost, nakupovanje in drugo.
+    .message = Prilagodite { -brand-product-name(sklon: "tozilnik") } z orodji za osredotočenost, zasebnost, nakupovanje in drugo.
 find-more-extensions-promo-open-amo-button = Razišči razširitve
 
 ## Promo footer shown in the about:addons themes list view when
@@ -674,7 +674,7 @@ themes-mode-device =
     .label = Naprava
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
-    .heading = Teme za { -brand-product-name(sklon: "tožilnik") }
+    .heading = Teme za { -brand-product-name(sklon: "tozilnik") }
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Prikaži več
 aboutaddons-themes-picker-see-less = Prikaži manj

@@ -45,7 +45,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Za ogled zavihkov se prijavite 
 firefoxview-syncedtabs-adddevice-primarybutton = Preizkusite { -brand-product-name } za mobilne naprave
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Vaši zavihki so vas poklicali. Najdete jih na svojem telefonu.
-firefoxview-syncedtabs-adddevice-description-3 = Skenirajte kodo QR , prenesite { -brand-product-name(sklon: "tožilnik") } za mobilne naprave ter začnite sinhronizacijo odprtih zavihkov in drugih vsebin. Naučite se, kako <a data-l10n-name="url">povežete dodatne naprave</a>.
+firefoxview-syncedtabs-adddevice-description-3 = Skenirajte kodo QR , prenesite { -brand-product-name(sklon: "tozilnik") } za mobilne naprave ter začnite sinhronizacijo odprtih zavihkov in drugih vsebin. Naučite se, kako <a data-l10n-name="url">povežete dodatne naprave</a>.
 firefoxview-tabpickup-synctabs-header = Vklopi sinhronizacijo zavihkov
 firefoxview-tabpickup-synctabs-description = { -brand-short-name(sklon: "dajalnik") } dovoli skupno rabo zavihkov med napravami.
 firefoxview-tabpickup-synctabs-learn-how = Poglejte, kako
