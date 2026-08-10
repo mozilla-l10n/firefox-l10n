@@ -429,6 +429,12 @@ topsite-label-pinned =
     .aria-label = { $title } (mbojapyre)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+newtab-topsites-hover-card-dismiss =
+    .title = Emboyke
+    .aria-label = Emboyke
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

@@ -307,6 +307,11 @@ appmenu-sync-promo-turnonsync-cta = Emyandy ñembojuehe
 appmenu-sync-promo-connectdevice =
     .heading = Ejagarra nde tabletaita
 appmenu-sync-promo-connectdevice-cta = Embojuaju mba’e’oka
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Egueru nde rechaukaha nendive
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Eraha nde rechaukaha ehohápe
 
 ## Help panel
 
@@ -383,9 +388,14 @@ appmenuitem-monitor-description = Ejapyhy mongyhyje mba’ekuaarã ñembogua reh
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Ereko ne ñanduti veve ñemíme
 appmenuitem-relay-description2 = Emboyke spam ne ñe’ẽmondo guahẽhágui
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Ehecha ñanduti veve rovamo’ãha
 appmenuitem-relay-description = Ehovamo’ã ne ñanduti veve ha pumbyry
 appmenuitem-services-relay-description = Emoñepyrũ ñanduti veve rovara’ãnga rupa
 appmenuitem-vpn-title2 = Eñomi ne rendaite { -mozilla-vpn-brand-name } ndive
+appmenuitem-vpn-description4 = Ereko ñemo’ãve opaite tembiporu’i ha mba’e’okápe
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Embojuruja { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Embohasy ani ojehapykueho ne ñeikundaha
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Eheka ñemo’ã mba’e’okápe g̃uarã

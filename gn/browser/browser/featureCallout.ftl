@@ -133,6 +133,15 @@ taskbar-tabs-media-callout-subtitle = Embojuruja ne streaming renda peteĩ tembi
 taskbar-tabs-value-prop-callout-title = Embojuaju tenda ne rembiaporãre
 taskbar-tabs-value-prop-callout-subtitle = Eiporúke ne rovetã teetépe ha jehechaha momichĩmbyréva peteĩ jekutúpe.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Emboja tembiaporã rendáre
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ani ehundi opa mba’e eñongatuva’ekue ehasávo Windows 11 ndive.
