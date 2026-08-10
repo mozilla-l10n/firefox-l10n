@@ -986,6 +986,38 @@ use-current-pages =
 choose-bookmark =
     .label = Uzi legosignon…
     .accesskey = s
+home-homepage-title =
+    .label = Eka paĝo
+home-homepage-new-windows =
+    .label = Novaj fenestroj
+home-homepage-new-tabs =
+    .label = Novaj langetoj
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Elekti specifan retejon
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adreso(j) de retejo
+home-custom-homepage-address =
+    .placeholder = Tajpi adreson
+home-custom-homepage-address-button =
+    .label = Aldoni adreson
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ankoraŭ neniu retejo aldonita.
+home-custom-homepage-delete-address-button =
+    .aria-label = Forigi adreson
+    .title = Forigi adreson
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Anstataŭigi per
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Nune malfermitaj paĝoj
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Legosignoj…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
