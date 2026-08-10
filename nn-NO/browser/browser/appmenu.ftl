@@ -162,6 +162,7 @@ appmenu-fxa-signed-in-label = Logg inn
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Logg inn for å synkronisere
+appmenu-fxa-sign-in-promo-message = Få tilgang til dataa dine overalt
 appmenu-fxa-sign-in-promo-button =
     .label = Logg inn
 appmenu-fxa-setup-sync =
@@ -297,11 +298,21 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = Hald einingane dine synkroniserte
 appmenu-sync-promo-signin-cta = Logg inn
 appmenu-sync-promo-turnonsync =
     .heading = Synkroniser faner og historikk
 appmenu-sync-promo-turnonsync-cta = Slå på synkronisering
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Hent mobilfanene dine
 appmenu-sync-promo-connectdevice-cta = Kople til ei eining
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Ta med deg bokmerka dine
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Ta med deg bokmerka på vegen
 
 ## Help panel
 

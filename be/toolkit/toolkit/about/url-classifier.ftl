@@ -90,6 +90,23 @@ url-classifier-content-classifier-col-matched = Адпавядае
 # Column header: whether this feature matched an exception/allow-list entry that
 # spares the request (true/false).
 url-classifier-content-classifier-col-exception = Выключэнне
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Важны
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Вынік рухавіка
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Трапіў
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = Выключэнне
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Не трапіў
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Памылка ({ $code })
 url-classifier-debug-title = Адладка
 url-classifier-debug-module-btn = Пазначыць модулі журнала
 url-classifier-debug-file-btn = Пазначыць файл журнала
