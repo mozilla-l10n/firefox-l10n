@@ -989,6 +989,11 @@ use-current-pages =
 choose-bookmark =
     .label = Użyj zakładki…
     .accesskey = z
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Rozszerzenie ({ $extension })
 
 ## Custom Homepage subpage
 
