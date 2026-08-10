@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = Даступна абнаўленне — сістэма несумяшчальная
 appmenuitem-banner-update-restart =
     .label = Даступна абнаўленне — перазапусціць зараз
+appmenu-nova-update-title = Перазапуск для абнаўлення { -brand-short-name }
+appmenu-nova-update-description = Вашы карткі будуць пераадкрыты.
 appmenu-nova-fxa-sign-in = Увайсці
 appmenu-nova-switch-device-promo =
     .message = Хутка атрымаеце новую прыладу? Вазьміце з сабой { -brand-short-name }!
@@ -47,8 +49,15 @@ appmenuitem-translate =
     .label = Перакласці старонку…
 appmenuitem-zoom =
     .value = Павелічэнне
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Падзяліцца { -brand-product-name }
 appmenuitem-more-tools =
     .label = Іншыя інструменты
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Даведка і справаздача
 appmenuitem-help =
     .label = Даведка
 appmenuitem-exit2 =
@@ -107,6 +116,28 @@ appmenu-remote-tabs-unverified = Ваш уліковы запіс патрабу
 appmenuitem-fxa-toolbar-sync-now2 = Сінхранізаваць зараз
 appmenuitem-fxa-sign-in = Увайсці ў { -brand-product-name }
 appmenuitem-fxa-manage-account = Кіраванне ўліковым запісам
+fxa-menu-sync-status-on = Сінхранізацыя ўключана
+fxa-menu-sync-status-off = Сінхранізацыя выключана
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Вашы звесткі не сінхранізуюцца
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Уключыць
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Увайсці для сінхранізацыі
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Сінхранізаваць { $deviceName } зараз
+fxa-menu-manage-sync-settings =
+    .label = Кіраваць наладамі сінхранізацыі
+fxa-menu-add-device =
+    .label = Дадаць прыладу
+fxa-menu-manage-devices =
+    .label = Кіраваць прыладамі
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Уліковы запіс
 # Variables
