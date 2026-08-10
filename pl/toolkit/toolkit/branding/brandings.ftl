@@ -233,3 +233,48 @@
                *[upper] Laboratorium Firefoksa
             }
     }
+-smart-window-brand-name =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [upper-singular] Inteligentnego okna
+                [lower-plural] inteligentnych okien
+                [upper-plural] Inteligentnych okien
+               *[lower-singular] inteligentnego okna
+            }
+        [dat]
+            { $capitalization ->
+                [upper-singular] Inteligentnemu oknu
+                [lower-plural] inteligentnym oknom
+                [upper-plural] Inteligentnym oknom
+               *[lower-singular] inteligentnemu oknu
+            }
+        [acc]
+            { $capitalization ->
+                [upper-singular] Inteligentne okno
+                [lower-plural] inteligentne okna
+                [upper-plural] Inteligentne okna
+               *[lower-singular] inteligentne okno
+            }
+        [ins]
+            { $capitalization ->
+                [upper-singular] Inteligentnym oknem
+                [lower-plural] inteligentnymi oknami
+                [upper-plural] Inteligentnymi oknami
+               *[lower-singular] inteligentnym oknem
+            }
+        [loc]
+            { $capitalization ->
+                [upper-singular] Inteligentnym oknie
+                [lower-plural] inteligentnych oknach
+                [upper-plural] Inteligentnych oknach
+               *[lower-singular] inteligentnym oknie
+            }
+       *[nom]
+            { $capitalization ->
+                [upper-singular] Inteligentne okno
+                [lower-plural] inteligentne okna
+                [upper-plural] Inteligentne okna
+               *[lower-singular] inteligentne okno
+            }
+    }

@@ -133,6 +133,15 @@ taskbar-tabs-media-callout-subtitle = Εκκινήστε τους ιστοτόπ
 taskbar-tabs-value-prop-callout-title = Προσθήκη αυτού του ιστοτόπου στη γραμμή εργασιών
 taskbar-tabs-value-prop-callout-subtitle = Εκκινήστε το σε δικό του παράθυρο με απλοποιημένο περιβάλλον χρήστη, με ένα μόνο κλικ.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+taskbar-tabs-email-callout-title-v3 = Κρατήστε τα εισερχόμενα σας στη γραμμή εργασιών
+taskbar-tabs-email-callout-subtitle-v3 = Εκκινήστε τους ιστοτόπους εμαιλ σαν εφαρμογές, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Μην χάσετε ό,τι έχετε αποθηκεύσει κατά τη μεταφορά στα Windows 11.

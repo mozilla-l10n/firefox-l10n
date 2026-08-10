@@ -119,6 +119,12 @@ smart-window-confirm-group-tabs =
     }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Άνοιγμα
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Άνοιγμα { $count } καρτέλας
+       *[other] Άνοιγμα { $count } καρτελών
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -127,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] Ομαδοποιήθηκε { $count } καρτέλα
        *[other] Ομαδοποιήθηκαν { $count } καρτέλες
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Ομάδα καρτελών
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -136,6 +145,33 @@ smart-window-grouped-tabs-summary =
        *[other] Δημιουργήθηκε η ομάδα «{ $label }» και προστέθηκαν { $count } καρτέλες.
     }
 smart-window-grouped-tabs-row-label = Ομαδοποιημένες καρτέλες
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Άνοιξε { $count } καρτέλα
+       *[other] Άνοιξαν { $count } καρτέλες
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Άνοιξε { $count } καρτέλα.
+       *[other] Άνοιξαν { $count } καρτέλες.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Δημιουργήθηκε η ομάδα “{ $label }” και άνοιξε { $count } καρτέλα.
+       *[other] Δημιουργήθηκε η ομάδα “{ $label }” και άνοιξαν { $count } καρτέλες.
+    }
+smart-window-opened-tabs-row-label = Ανοικτές καρτέλες
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Έγινε εναλλαγή σε «{ $title }».
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Καταργήθηκε η ομαδοποίηση των καρτελών
 # Variables

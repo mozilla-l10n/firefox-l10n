@@ -159,6 +159,11 @@ appmenu-fxa-last-sync = Τελευταίος συγχρονισμός: { $time }
     .label = Τελευταίος συγχρονισμός: { $time }
 appmenu-fxa-sync-and-save-data2 = Συγχρονισμός και αποθήκευση δεδομένων
 appmenu-fxa-signed-in-label = Σύνδεση
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Σύνδεση στο Sync
+appmenu-fxa-sign-in-promo-button =
+    .label = Σύνδεση
 appmenu-fxa-setup-sync =
     .label = Ενεργοποίηση συγχρονισμού…
 appmenu-fxa-setup-sync-new = Ενεργοποίηση
@@ -286,6 +291,23 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Αναζήτηση ιστορικού
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Σύνδεση
+appmenu-sync-promo-turnonsync =
+    .heading = Συγχρονίστε τις καρτέλες και το ιστορικό σας
+appmenu-sync-promo-turnonsync-cta = Ενεργοποίηση συγχρονισμού
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Λάβετε τις καρτέλες του τηλεφ΄ώνου σας
+appmenu-sync-promo-connectdevice-cta = Συνδέστε μια συσκευή
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Πάρτε τους σελιδοδείκτες σας μαζί σας
 
 ## Help panel
 
