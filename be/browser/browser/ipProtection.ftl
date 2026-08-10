@@ -56,6 +56,11 @@ ipprotection-feature-introduction-button-get-started = Пачаць
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Вашы ўбудаваныя ліміты VPN будуць скінуты 1 верасня
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Выкарыстоўвайце { $maxUsage } ГБ і 6 месцазнаходжанняў для дадатковай прыватнасці, каб зрабіць сваё агляданне цяжэйшым для асочвання.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Адкрыць VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Атрымаць { -mozilla-vpn-brand-name }
