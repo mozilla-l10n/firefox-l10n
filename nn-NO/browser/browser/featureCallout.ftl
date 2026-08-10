@@ -133,6 +133,19 @@ taskbar-tabs-media-callout-subtitle = Start strøymetenestene som ein app i eit 
 taskbar-tabs-value-prop-callout-title = Legg til denne nettstaden i oppgåvelinja
 taskbar-tabs-value-prop-callout-subtitle = Start han i eit eige vindauge og eit forenkla grensesnitt med eit enkelt klikk.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Hald deg tilkopla frå oppgåvelinja
+taskbar-tabs-email-callout-title-v3 = Behald innboksen din i oppgåvelinja
+taskbar-tabs-email-callout-subtitle-v3 = Start e-post-nettstadar som ein app i eit straumlinjeforma vindauge verna av { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Behald strøyminga di på oppgåvelinja
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ikkje mist alt du har lagra når du flyttar til Windows 11.
