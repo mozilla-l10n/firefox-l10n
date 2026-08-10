@@ -95,17 +95,26 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Tervetuloa, tämä on { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Mikä on sinulle tärkeää?
+aiwindow-firstrun-model-title-v2 = Valitse malli aloittaaksesi
 aiwindow-firstrun-model-subtitle = Valitse malli, jota { -smart-window-brand-name } käyttää. Vaihda milloin tahansa.
 aiwindow-firstrun-model-fast-label = Nopea
 aiwindow-firstrun-model-fast-body = Vastaa nopeasti
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Nopea: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Malli { $model }, tekijä { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Joustava
 aiwindow-firstrun-model-allpurpose-body = Vastaa useimpia tarpeita
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Joustava: { $shortName }
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Suositeltu
 aiwindow-firstrun-model-personal-label = Henkilökohtainen
 aiwindow-firstrun-model-personal-body = Räätälöidyimmät vastaukset
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Henkilökohtainen: { $shortName }
 aiwindow-firstrun-button = Aloitetaan
 aiwindow-firstrun-back-button = Takaisin
 aiwindow-firstrun-next-button = Seuraava
@@ -116,6 +125,7 @@ aiwindow-input-model-select-button-label-fast = Nopea
 aiwindow-input-model-select-button-label-allpurpose = Joustava
 aiwindow-input-model-select-button-label-personal = Henkilökohtainen
 aiwindow-input-model-select-button-label-custom = Mukautettu
+aiwindow-input-model-select-button-description-custom = Käytä omaa kielimallia
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -174,6 +184,32 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Sulje
     .tooltiptext = Sulje
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu-chat-history = Keskusteluhistoria
+aiwindow-history-menu-back =
+    .aria-label = Takaisin
+    .tooltiptext = Takaisin
+aiwindow-history-menu-view-all-chats = Näytä kaikki keskustelut
+aiwindow-history-menu-settings = { -smart-window-brand-name } -asetukset
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Uusi keskustelu
+aiwindow-fullpage-chat-history =
+    .label = Keskusteluhistoria
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Lisää
+    .title = Lisää
 
 ## Sign out dialog
 
@@ -306,3 +342,14 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Vaihda tilaa: Ruudukkonäkymä
     .tooltiptext = Ruudukkonäkymä
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Kirjoita ensimmäinen luonnos
+aiwindow-starter-writing-improve = Paranna kirjoitusta
+aiwindow-starter-writing-proofread = Oikolue viesti
+aiwindow-starter-planning-simplify = Yksinkertaista aihetta

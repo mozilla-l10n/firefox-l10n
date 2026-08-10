@@ -191,6 +191,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Valmis
 migration-safari-password-import-header = Tuo salasanat Safarista
+migration-safari-password-import-post-sequoia-step1 = Avaa <a data-l10n-name="macos-passwords-app">Salasanat-sovellus</a> Macillasi
+migration-safari-password-import-post-sequoia-step2 = Valitse näytön yläreunan valikkoriviltä Arkisto > Vie kaikki salasanat tiedostoon…
 migration-safari-password-import-post-sequoia-step3 = Tallenna tiedosto
 migration-safari-password-import-post-sequoia-step4 = Valitse tallentamasi tiedosto
 migration-safari-password-import-steps-header = Tuo Safari-salasanat seuraavasti:

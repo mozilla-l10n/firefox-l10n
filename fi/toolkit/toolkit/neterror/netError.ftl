@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Jatka aina
 neterror-pref-reset = Vaikuttaa siltä, että verkon turvallisuusasetukset aiheuttavat tämän. Haluatko palauttaa oletusasetukset?
 neterror-error-reporting-automatic = Auta { -vendor-short-name }a tunnistamaan ja estämään haitallisia sivustoja ilmoittamalla tällaisista virheistä
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Yhteytesi ei välttämättä ole suojattu
+    .message = Sovellus tai palvelu saattaa nähdä salatun liikenteesi tältä sivustolta.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ei kykene lataamaan sivua jostain syystä.

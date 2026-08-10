@@ -710,6 +710,9 @@ newtab-custom-shortcuts-toggle =
     .description = Tallentamasi tai vierailemasi sivustot
 newtab-custom-shortcuts-nova =
     .label = Oikotiet
+newtab-custom-web-notifications-toggle =
+    .label = Verkkoilmoitukset
+    .description = Näytä sivustojen ilmoitukset niiden oikoteissä
 newtab-custom-row-description =
     .description = Rivien lukumäärä
 # Variables
@@ -789,6 +792,12 @@ newtab-appearance-more-themes-button =
 newtab-appearance-manage-title = { -brand-product-name }-teemat
 # Header for the list of the user's already-installed themes in the full theme panel.
 newtab-appearance-your-themes-header = Omat teemat
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Ota käyttöön
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Poista käytöstä
 # Button that installs a theme.
 newtab-appearance-install-theme-button =
     .label = Asenna teema

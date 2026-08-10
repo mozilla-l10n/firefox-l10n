@@ -128,6 +128,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Hallitse ponnahdusikkunoiden ja kolmannen osapuolen uudelleenohjausten asetuksia…
     .accesskey = m
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Näytä sivuston tiedot
+            [1] Näytä sivuston tiedot (1 seurain estetty)
+            [one] Näytä sivuston tiedot ({ $count } seurain estetty)
+           *[other] Näytä sivuston tiedot ({ $count } seurainta estetty)
+        }
 
 ##
 
@@ -593,6 +603,7 @@ identity-clear-site-data =
     .label = Poista evästeet ja sivustotiedot…
 identity-connection-not-secure-security-view = Yhteytesi tähän sivustoon ei ole suojattu.
 identity-connection-verified = Yhteytesi tähän sivustoon on suojattu.
+identity-ev-owner-label2 = Varmenne myönnetty taholle
 identity-ev-owner-label = Varmenne myönnetty taholle:
 identity-verifier-label = Varmentaja:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.

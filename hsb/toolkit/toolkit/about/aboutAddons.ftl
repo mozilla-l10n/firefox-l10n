@@ -630,9 +630,18 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Grat
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Wjace pokazać
+aboutaddons-themes-picker-see-less = Mjenje pokazać
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Zmóžnić
+aboutaddons-themes-picker-disable-button =
+    .label = Znjemóžnić
+aboutaddons-themes-picker-install-button =
+    .label = Instalować
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

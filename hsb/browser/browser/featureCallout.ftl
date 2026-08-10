@@ -133,6 +133,22 @@ taskbar-tabs-media-callout-subtitle = Startujće swoje streamingowe sydła kaž 
 taskbar-tabs-value-prop-callout-title = Wašej nadawkowej lajsće tute sydło přidać
 taskbar-tabs-value-prop-callout-subtitle = Startujće w swójskim woknje a zjednorjenym wužiwarskim powjerchu z jeničkim klikom.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+taskbar-tabs-email-callout-subtitle-v3 = Startujće swoje e-mejlowe sydła kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.
+taskbar-tabs-media-callout-title-v3 = Wobchowajće swój streaming w swojej nadawkowej lajsće
+taskbar-tabs-media-callout-subtitle-v3 = Startujće swoje medijowe sydła kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.
+taskbar-tabs-value-prop-callout-title-v3 = Připniće swoje najlubše sydła w swojej nadawkowej lajsće
+taskbar-tabs-value-prop-callout-subtitle-v3 = Startujće někajke sydło kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.
+taskbar-tabs-gaming-callout-title-v3 = Wróćće so k hraću ze swojeje nadawkoweje lajsty wróćo
+taskbar-tabs-gaming-callout-subtitle-v3 = Startujće swoje hrajne sydła kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = K nadawkowej lajsće připjeć
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Njezhubjejće ničo, štož sće składował, hdyž do Windows 11 přećahaće.

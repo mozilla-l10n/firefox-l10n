@@ -65,6 +65,7 @@ fxa-menu-manage-account-subtitle = Hallinnoi tiliä
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Kirjaudu sisään synkronoidaksesi
+fxa-menu-sign-in-promo-message = Käytä tietojasi missä tahansa
 fxa-menu-sign-in-promo-button =
     .label = Kirjaudu sisään
 # Card shown in the account menu when a previously signed-in account is
