@@ -133,6 +133,17 @@ taskbar-tabs-media-callout-subtitle = Spúšťajte svoje streamovacie stránky a
 taskbar-tabs-value-prop-callout-title = Pridajte túto stránku na panel úloh
 taskbar-tabs-value-prop-callout-subtitle = Spúšťajte ju v samostatnom okne a zjednodušenom rozhraní jediným kliknutím.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+taskbar-tabs-gaming-callout-title-v3 = Vráťte sa k hraniu hier z panela úloh
+taskbar-tabs-gaming-callout-subtitle-v3 = Spúšťajte svoje herné stránky ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Pripnúť na panel úloh
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Nestraťte všetko, čo ste si uložili, keď prejdete na Windows 11.

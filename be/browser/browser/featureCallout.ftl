@@ -133,6 +133,22 @@ taskbar-tabs-media-callout-subtitle = Запускайце свае стрымі
 taskbar-tabs-value-prop-callout-title = Дадаць гэты сайт на панэль задач
 taskbar-tabs-value-prop-callout-subtitle = Запускайце яго ў асобным акне і спрошчаным інтэрфейсе адным націскам мышы.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Заставайцеся на сувязі з дапамогай панэлі задач
+taskbar-tabs-email-callout-title-v3 = Трымайце сваю ўваходную пошту ў панэлі задач
+taskbar-tabs-email-callout-subtitle-v3 = Запускайце свае сайты электроннай пошты як праграму ў аптымізаваным акне, абароненым { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Трымайце сваю трансляцыю ў панэлі задач
+taskbar-tabs-media-callout-subtitle-v3 = Запускайце свае медыясайты як праграму ў аптымізаваным акне, абароненым { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Замацуйце свае любімыя сайты на панэлі задач
+taskbar-tabs-value-prop-callout-subtitle-v3 = Запускайце любы сайт, як праграму, у аптымізаваным акне, абароненым { -brand-short-name }.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Не страцьце ўсё, што вы захавалі, пры пераходзе на Windows 11.

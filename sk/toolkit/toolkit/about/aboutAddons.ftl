@@ -624,6 +624,26 @@ mlmodel-addon-detail-model-card = Karta modelu
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Zobraziť na Hugging Face
 
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo-open-amo-button = Pozrite si ďalšie rozšírenia
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo-open-amo-button = Pozrite si ďalšie témy vzhľadu
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Niekoľko rozšírení stačí
+    .message = Máme pre vás odporúčania, ktoré vám pomôžu zlepšiť sústredenie, súkromie a ďalšie.
+list-empty-get-extensions-promo-button = Nájdite si svoje prvé rozšírenie
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -635,9 +655,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Podľa zariadenia
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Témy vzhľadu pre { -brand-product-name(case: "acc") }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Zobraziť viac
+aboutaddons-themes-picker-see-less = Zobraziť menej
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Povoliť
+aboutaddons-themes-picker-disable-button =
+    .label = Zakázať
+aboutaddons-themes-picker-install-button =
+    .label = Nainštalovať
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Tému sa nepodarilo aktualizovať. Skontrolujte pripojenie a skúste to znova.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.
