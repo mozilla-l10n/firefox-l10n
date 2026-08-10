@@ -56,8 +56,32 @@ ipprotection-feature-introduction-button-get-started = Пачаць
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Вашы ўбудаваныя ліміты VPN будуць скінуты 1 верасня
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Выкарыстоўвайце { $maxUsage } ГБ і 6 месцазнаходжанняў для дадатковай прыватнасці, каб зрабіць сваё агляданне цяжэйшым для асочвання.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Выкарыстоўвайце { $maxUsage } ГБ і больш за 20 месцазнаходжанняў для дадатковай прыватнасці, каб зрабіць сваё агляданне цяжэйшым для асочвання.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Ваш убудаваны VPN стаў яшчэ лепшым
+ipprotection-summer-promo-offramp-subscriber-description = Цяпер вы атрымліваеце неабмежаваную прапускную здольнасць і больш месцаў як падпісчык { -mozilla-vpn-brand-name }.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Захавайце свае дадатковыя месцазнаходжанні ўбудаванага VPN
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Зрабіце { -brand-product-name } сваім асноўным браўзерам і атрымайце больш за 20 дадатковых месцаў для аглядання пасля 31 жніўня.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Выйдзіце на новы ўзровень з { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Захавайце неабмежаваную прапускную здольнасць пасля 31 жніўня з больш чым 300 месцамі на 5 прыладах, каб зрабіць сваё агляданне больш цяжкім для асочвання.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Адкрыць VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Зрабіць прадвызначаным
 ipprotection-summer-promo-offramp-get-subscription-button = Атрымаць { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Адхіліць
 

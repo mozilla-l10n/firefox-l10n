@@ -22,3 +22,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Ne plus afficher
     .accesskey = p
 sandbox-unprivileged-namespaces-howtofix = Résoudre ce problème
+sandbox-content-disabled-warning = Le bac à sable de sécurité est désactivé. Votre configuration n’est pas compatible et offre une sécurité réduite.

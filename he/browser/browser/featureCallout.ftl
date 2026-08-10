@@ -118,6 +118,17 @@ taskbar-tabs-media-callout-subtitle = ניתן להפעיל את אתרי הסט
 taskbar-tabs-value-prop-callout-title = הוספת אתר זה לשורת המשימות שלך
 taskbar-tabs-value-prop-callout-subtitle = ניתן להפעיל אותו בחלון משל עצמו ובממשק פשוט בלחיצה אחת.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = להישאר מחובר משורת המשימות שלך
+taskbar-tabs-email-callout-title-v3 = לשמור את הדואר הנכנס שלך בשורת המשימות שלך
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = לא לאבד את כל מה ששמרת בעת המעבר ל־Windows 11.
