@@ -615,6 +615,43 @@ mlmodel-addon-detail-model-card = Картица модела
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Погледајте на Hugging Face
 
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Обликујте { -brand-product-name } на свој начин
+    .message = Додајте алате и стилове који одговарају вашим потребама и укусу.
+find-more-addons-promo-open-amo-button = Истражите додатке и теме
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Пронађите свој следећи омиљени додатак
+    .message = Прилагодите { -brand-product-name } помоћу алата за фокус, приватност, куповину и још много тога.
+find-more-extensions-promo-open-amo-button = Истражите додатке
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Пронађите још свежих изгледа
+    .message = Изаберите стил који ће { -brand-product-name } учинити вашим.
+find-more-themes-promo-open-amo-button = Истражите теме
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Неколико додатака може много помоћи
+    .message = Имамо препоруке које ће вам помоћи да побољшате фокус, приватност и још много тога.
+list-empty-get-extensions-promo-button = Пронађите свој први додатак
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -626,9 +663,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Уређај
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } теме
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Прикажи више
+aboutaddons-themes-picker-see-less = Прикажи мање
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Омогући
+aboutaddons-themes-picker-disable-button =
+    .label = Онемогући
+aboutaddons-themes-picker-install-button =
+    .label = Инсталирај
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Није могуће ажурирати тему. Проверите везу и покушајте поново.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

@@ -148,6 +148,11 @@ sidebar-menu-history-label =
     .label = Historial
 sidebar-menu-synced-tabs-label =
     .label = Pestanyes d'altres dispositius
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Pestanyes obertes
 sidebar-menu-bookmarks-label =
     .label = Adreces d'interès
 sidebar-menu-customize-label =
@@ -194,11 +199,84 @@ sidebar-menu-history-header =
     .heading = Historial
 sidebar-menu-syncedtabs-header =
     .heading = Pestanyes d'altres dispositius
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Pestanyes obertes
+sidebar-menu-cpm-header =
+    .heading = Contrasenyes
+sidebar-menu-bookmarks-header =
+    .heading = Adreces d'interès
 sidebar-panel-header-close-button =
     .tooltiptext = Tanca
 
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Menú de les adreces d'interès
+sidebar-bookmarks-folder-toolbar = Barra de les adreces d'interès
+sidebar-bookmarks-folder-other = Altres adreces d'interès
+sidebar-bookmarks-folder-mobile = Adreces d'interès del mòbil
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Personalitza la barra lateral
+sidebar-history-title = Històrial
+sidebar-syncedtabs-title = Pestanyes d'altres dispositius
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Pestanyes obertes
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Pestanyes fixes
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Finestra { $winID } (actual)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Finestra { $winID }
+
 ## Context for closing synced tabs when hovering over the items
 
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Tanca la pestanya a { $deviceName }
 show-sidebars =
     .tooltiptext = Mostra les barres laterals
     .label = Barres laterals
+
+## Tooltips for the sidebar toolbar widget.
+
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .label = Barres laterals
+    .tooltiptext = Expandeix la barra lateral ({ $shortcut })
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .label = Barres laterals
+    .tooltiptext = Replega la barra lateral ({ $shortcut })
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .label = Barres laterals
+    .tooltiptext = Mostra la barra lateral ({ $shortcut })
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .label = Barres laterals
+    .tooltiptext = Amaga la barra lateral ({ $shortcut })
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = Arrossega les pestanyes importants aquí per tenir-les a l'abast

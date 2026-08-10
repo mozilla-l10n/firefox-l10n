@@ -390,6 +390,7 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Tanca la barra lateral
     .aria-label = Tanca la barra lateral
 pdfjs-editor-comments-sidebar-close-button-label = Tanca la barra lateral
+pdfjs-editor-comments-sidebar-no-comments-link = Més informació
 
 ## Alt-text dialog
 
@@ -408,10 +409,79 @@ pdfjs-editor-alt-text-decorative-tooltip = S'ha marcat com a decoratiu
 # .placeholder: This is a placeholder for the alt text input area
 pdfjs-editor-alt-text-textarea =
     .placeholder = Per exemple, “Un jove seu a taula per menjar un àpat”
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = Text alternatiu
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Color de ressaltat
+pdfjs-editor-colorpicker-button =
+    .title = Canvia el color
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Opcions de color
+pdfjs-editor-colorpicker-yellow =
+    .title = Groc
+pdfjs-editor-colorpicker-green =
+    .title = Verd
+pdfjs-editor-colorpicker-blue =
+    .title = Blau
+pdfjs-editor-colorpicker-pink =
+    .title = Rosa
+pdfjs-editor-colorpicker-red =
+    .title = Vermell
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+pdfjs-editor-highlight-show-all-button-label = Mostra-ho tot
+pdfjs-editor-highlight-show-all-button =
+    .title = Mostra-ho tot
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Edita el text alternatiu (descripció de la imatge)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Afegeix text alternatiu (descripció de la imatge)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Escriviu la vostra descripció aquí...
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Descripció breu per a les persones que no poden veure la imatge o quan la imatge no es carrega.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Aquest text alternatiu ha estat creat automàticament i pot ser inexacte.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Més informació
+pdfjs-editor-new-alt-text-create-automatically-button-label = Crea el text alternatiu automàticament
+pdfjs-editor-new-alt-text-not-now-button = Ara no
+pdfjs-editor-new-alt-text-error-title = No s'ha pogut crear el text alternatiu automàticament
+pdfjs-editor-new-alt-text-error-description = Escriviu el vostre propi text alternatiu o proveu més tard.
+pdfjs-editor-new-alt-text-error-close-button = Tanca
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = Text alternatiu afegit.
+pdfjs-editor-new-alt-text-added-button-label = Text alternatiu afegit.
+
+## Image alt-text settings
+
+pdfjs-editor-alt-text-settings-delete-model-button = Suprimeix
+pdfjs-editor-alt-text-settings-download-model-button = Baixa
+pdfjs-editor-alt-text-settings-downloading-model-button = S'està descarregant…
+pdfjs-editor-alt-text-settings-close-button = Tanca
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-ink = S'ha eliminat el dibuix
+pdfjs-editor-undo-bar-message-stamp = S'ha eliminat la imatge
 pdfjs-editor-undo-bar-message-signature = S’ha eliminat la signatura
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] S'ha eliminat una anotació
+       *[other] S'han eliminat { $count } anotacions
+    }
 pdfjs-editor-undo-bar-undo-button =
     .title = Desfés
 pdfjs-editor-undo-bar-undo-button-label = Desfés

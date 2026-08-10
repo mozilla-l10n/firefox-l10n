@@ -311,7 +311,7 @@ newtab-section-header-todays-picks = Šodienas izlase jums
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Sāciet pārlūkošanu un mēs šeit parādīsim lieliskus rakstus, video un citas apmeklētās lapas.
+newtab-empty-section-highlights = Sāc pārlūkošanu, un mēs šeit parādīsim dažus lieliskus rakstus, video un citas lapas, kuras nesen apmeklēji vai pievienoji grāmatzīmēm!
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".

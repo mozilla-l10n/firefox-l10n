@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Покрените своје сајтов
 taskbar-tabs-value-prop-callout-title = Додајте овај сајт на своју траку задатака
 taskbar-tabs-value-prop-callout-subtitle = Покрените га у сопственом прозору и поједностављеном прочељу само једним кликом.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Останите повезани са траке задатака
+taskbar-tabs-email-callout-title-v3 = Држите пријемно сандуче у траци задатака
+taskbar-tabs-email-callout-subtitle-v3 = Покрените своје странице е-поште као програм у поједностављеном прозору заштићеним { -brand-short-name }-ом.
+taskbar-tabs-media-callout-title-v3 = Задржите стримовање у траци задатака
+taskbar-tabs-media-callout-subtitle-v3 = Покрените своје медијске странице као програм у поједностављеном прозору заштићеним помоћу { -brand-short-name }-а.
+taskbar-tabs-value-prop-callout-title-v3 = Закачите своје омиљене странице на траку задатака
+taskbar-tabs-value-prop-callout-subtitle-v3 = Покрените било коју страницу попут програма у поједностављеном прозору заштићеним помоћу { -brand-short-name }-а.
+taskbar-tabs-gaming-callout-title-v3 = Вратите се игрању игара са траке задатака
+taskbar-tabs-gaming-callout-subtitle-v3 = Покрените своје странице за игре као програм у поједностављеном прозору заштићеним помоћу { -brand-short-name }-а.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Закачи на траку задатака
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Немојте изгубити све што сте сачували када пређете на Windows 11.
