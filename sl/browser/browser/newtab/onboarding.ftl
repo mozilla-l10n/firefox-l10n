@@ -602,6 +602,10 @@ onboarding-refresh-gratitude-subtitle = Hvala, ker uporabljate { -brand-short-na
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vam krije hrbet
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Kadarkoli lahko preklapljate med pametnimi in običajnimi okni.
+
 ## Smart Window ToU modal
 
 # Existing users

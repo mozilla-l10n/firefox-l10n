@@ -7,7 +7,7 @@ xpinstall-prompt = { -brand-short-name } liedza šai vietnei vaicāt atļauju in
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
-xpinstall-prompt-header = Vai atļaut { $host } uzstādīt papildinājumu?
+xpinstall-prompt-header = Atļaut { $host } uzstādīt papildinājumu?
 xpinstall-prompt-message = Tu mēģini uzstādīt papildinājumu no { $host }. Pirms turpināšanas jāpārliecinās, ka šī vietne ir uzticama.
 
 ##

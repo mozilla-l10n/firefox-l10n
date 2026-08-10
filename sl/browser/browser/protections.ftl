@@ -291,5 +291,15 @@ protections-vpn-title = Razširite zaščito zasebnosti tudi izven brskalnika
 protections-vpn-header-content = Zaščitite celotno napravo z { -mozilla-vpn-brand-name }. Z enim dotikom šifrirate ves promet in skrijete svojo lokacijo.
 protections-get-vpn-link = Prenesi { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Naročeni
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Z uporabo { -mozilla-vpn-brand-name } je ves vaš promet šifriran in vaša lokacija skrita — na do { $count } napravi. Izkoristite svojo naročnino v celoti — dodajte jo prek <a data-l10n-name="playstore-link">Google Play Store</a> ali <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [two] Z uporabo { -mozilla-vpn-brand-name } je ves vaš promet šifriran in vaša lokacija skrita — na do { $count } napravah. Izkoristite svojo naročnino v celoti — dodajte jo prek <a data-l10n-name="playstore-link">Google Play Store</a> ali <a data-l10n-name="appstore-link">Apple App Store</a>.
+        [few] Z uporabo { -mozilla-vpn-brand-name } je ves vaš promet šifriran in vaša lokacija skrita — na do { $count } napravah. Izkoristite svojo naročnino v celoti — dodajte jo prek <a data-l10n-name="playstore-link">Google Play Store</a> ali <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Z uporabo { -mozilla-vpn-brand-name } je ves vaš promet šifriran in vaša lokacija skrita — na do { $count } napravah. Izkoristite svojo naročnino v celoti — dodajte jo prek <a data-l10n-name="playstore-link">Google Play Store</a> ali <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
 protections-vpn-banner-header = Zaščita, ki presega zgolj brskalnik
+protections-vpn-banner-content = Preizkusite { -mozilla-vpn-brand-name } brez tveganja in odkrijte, zakaj TechRadar pravi: »Njegova hitrost, enostavna uporaba in nizka mesečna cena so vredni vaše pozornosti.«
 protections-vpn-banner-link = Prenesi { -mozilla-vpn-brand-name }
