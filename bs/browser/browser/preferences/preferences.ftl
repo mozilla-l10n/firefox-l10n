@@ -559,6 +559,15 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanse
@@ -628,6 +637,9 @@ browsing-cfr-recommendations-learn-more = Saznajte više
 browsing-group =
     .label = Surfanje
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Mrežne postavke
@@ -677,6 +689,16 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
+home-homepage-new-tabs =
+    .label = Novi tabovi
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Ekstenzija ({ $extension })
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -895,6 +917,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1134,6 +1161,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saznajte više
 forms-windows-sso-desc = Upravljajte računima u postavkama uređaja
 windows-passkey-settings-label = Upravljajte pristupnim ključevima u sistemskim postavkama
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1725,8 +1755,29 @@ preferences-doh-manage-exceptions =
     .label = Upravljaj izuzecima…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite direktorij za preuzimanja:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+
