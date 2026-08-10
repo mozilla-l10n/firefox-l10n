@@ -201,16 +201,24 @@ newtab-privacy-across-sites =
        *[other] na { $count } spletnih mestih
     }
 
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } med brskanjem zavrača sledilce. Prikazani bodo tukaj.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } med brskanjem samodejno zavrača sledilce.
 newtab-privacy-message-info-1-cta = Ogled zaščit
 newtab-privacy-message-info-2 = Blokiranje sledilcev otežuje podjetjem, da bi vas spremljala na spletu.
 newtab-privacy-message-info-2-cta = Ogled zaščit
+newtab-privacy-message-info-3 = Številna spletna mesta uporabljajo sledilce, zato vas lahko na spletu spremljajo tudi podjetja, ki jih nikoli niste obiskali.
 newtab-privacy-message-info-3-cta = Ogled zaščit
+newtab-privacy-message-info-4 = Če izberete { -brand-short-name }, izberete tudi privzeto zaščito.
 newtab-privacy-message-info-4-cta = Ogled zaščit
 newtab-privacy-message-info-5 = Blokirani sledilci pomenijo manj podjetij, ki vam lahko sledijo med spletnimi mesti.
 newtab-privacy-message-info-5-cta = Ogled zaščit
@@ -262,6 +270,8 @@ newtab-privacy-message-first-protection-cta = Ogled zaščit
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Poiščite oznake delnic
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Več o tem
 # Shown in the Stocks widget when its data could not be loaded.
@@ -274,6 +284,19 @@ newtab-stocks-widget-menu-button =
     .aria-label = Možnosti pripomočka za delnice
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Delnice
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, rast za { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, padec za { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, brez sprememb, { $change }, { $price }
 
 ## Strings for the Picture of the Day widget
 
@@ -406,6 +429,9 @@ topsite-label-pinned =
 
 ## Top Sites - Web notifications hover card
 
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Obvestila s strani { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Pravkar
 newtab-topsites-hover-card-mark-all-read =
@@ -1215,6 +1241,7 @@ newtab-widget-message-title = Ostanite osredotočeni s seznami in vgrajenim čas
 newtab-widget-message-copy = Od hitrih opomnikov do dnevnih opravkov, osredotočenih sej in odmorov za raztezanje – ostanite zbrani in pravočasni.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = Vse na enem mestu: osredotočenost, vreme in drugo
+newtab-widget-message-focus-forecasts-body = Naj bo vaš dan tekoč s pripomočki { -brand-product-name }. Preverite vremensko napoved, ostanite osredotočeni ali spremljajte čas po svetu.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.

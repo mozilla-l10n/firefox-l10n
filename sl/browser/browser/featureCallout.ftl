@@ -148,6 +148,10 @@ taskbar-tabs-media-callout-title-v3 = Imejte pretočno predvajanje pri roki v op
 taskbar-tabs-media-callout-subtitle-v3 = Odprite svoje medijske strani v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title-v3 = Pripnite svoja najljubša spletna mesta v opravilno vrstico
 taskbar-tabs-value-prop-callout-subtitle-v3 = Odprite katerokoli spletno mesto v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Nadaljujte z igranjem neposredno iz opravilne vrstice
+taskbar-tabs-gaming-callout-subtitle-v3 = Odprite svoje igralne strani v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Pripni v opravilno vrstico
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
