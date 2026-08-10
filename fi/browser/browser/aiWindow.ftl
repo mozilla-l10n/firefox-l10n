@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Avaa uusi yksityinen ikkuna
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Perinteinen ikkuna
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } -vaihtaja
+    .tooltiptext = Vaihda älykkäiden ja perinteisten ikkunoiden välillä.
 
 ## Input CTA
 
@@ -97,10 +100,12 @@ aiwindow-firstrun-title = Tervetuloa, tämä on { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Mikä on sinulle tärkeää?
 aiwindow-firstrun-model-title-v2 = Valitse malli aloittaaksesi
 aiwindow-firstrun-model-subtitle = Valitse malli, jota { -smart-window-brand-name } käyttää. Vaihda milloin tahansa.
+aiwindow-firstrun-model-subtitle-v2 = Jokainen malli voi auttaa sinua tekemään yhteenvetoja, sekä vertailemaan ja tutkimaan välilehtiä. Voit vaihtaa milloin tahansa.
 aiwindow-firstrun-model-fast-label = Nopea
 aiwindow-firstrun-model-fast-body = Vastaa nopeasti
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Nopea: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Paras nopeisiin vastauksiin
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -109,12 +114,14 @@ aiwindow-firstrun-model-allpurpose-label = Joustava
 aiwindow-firstrun-model-allpurpose-body = Vastaa useimpia tarpeita
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Joustava: { $shortName }
+aiwindow-firstrun-model-flexible-body = Valmis monenlaisiin tehtäviin
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Suositeltu
 aiwindow-firstrun-model-personal-label = Henkilökohtainen
 aiwindow-firstrun-model-personal-body = Räätälöidyimmät vastaukset
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Henkilökohtainen: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Luotu räätälöityä apua varten eri kielillä
 aiwindow-firstrun-button = Aloitetaan
 aiwindow-firstrun-back-button = Takaisin
 aiwindow-firstrun-next-button = Seuraava
@@ -190,6 +197,9 @@ aiwindow-close-sidebar =
 ## view links to the chat history subview and Smart Window settings; the chat
 ## history subview lists recent chats and a shortcut to all chats.
 
+aiwindow-history-menu =
+    .aria-label = Lisää valintoja
+    .tooltiptext = Lisää valintoja
 aiwindow-history-menu-chat-history = Keskusteluhistoria
 aiwindow-history-menu-back =
     .aria-label = Takaisin
@@ -353,3 +363,8 @@ aiwindow-starter-writing-first-draft = Kirjoita ensimmäinen luonnos
 aiwindow-starter-writing-improve = Paranna kirjoitusta
 aiwindow-starter-writing-proofread = Oikolue viesti
 aiwindow-starter-planning-simplify = Yksinkertaista aihetta
+aiwindow-starter-planning-brainstorm = Kehitä ideoita
+aiwindow-starter-planning-plan = Auta tekemään suunnitelma
+aiwindow-starter-browsing-history = Etsi välilehtiä historiasta
+aiwindow-starter-browsing-summarize = Tee yhteenveto välilehdistä
+aiwindow-starter-browsing-compare = Vertaile välilehtiä

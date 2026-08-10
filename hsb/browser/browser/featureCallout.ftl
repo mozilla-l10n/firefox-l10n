@@ -139,6 +139,10 @@ taskbar-tabs-value-prop-callout-subtitle = Startujće w swójskim woknje a zjedn
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Wostańće ze swojeje nadawkoweje lajsty zwjazany
+taskbar-tabs-email-callout-title-v3 = Wobchowajće swój póstowy dochad w swojej nadawkowej lajsće
 taskbar-tabs-email-callout-subtitle-v3 = Startujće swoje e-mejlowe sydła kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.
 taskbar-tabs-media-callout-title-v3 = Wobchowajće swój streaming w swojej nadawkowej lajsće
 taskbar-tabs-media-callout-subtitle-v3 = Startujće swoje medijowe sydła kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.

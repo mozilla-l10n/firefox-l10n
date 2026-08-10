@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Noutaaksesi puhelimen välilehde
 firefoxview-tabpickup-step-signin-primarybutton = Jatka
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } kaikilla laitteillasi
 firefoxview-syncedtabs-signin-description-2 = Näet puhelimellasi ja muilla laitteilla avoinna olevat välilehdet kirjautumalla sisään tai luomalla tilin. Tilin avulla voit myös synkronoida salasanasi, historiasi ja paljon muuta.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Kannettavasta puhelimeen, saumattomasti
+firefoxview-syncedtabs-signin-description-3 = Pidä selauksesi yhdistettynä laitteiden välillä – välilehdet, salasanat ja sivuhistoria, kaikki synkronoituna.
 firefoxview-syncedtabs-signin-primarybutton-2 = Kirjaudu sisään
 firefoxview-tabpickup-adddevice-header = Synkronoi { -brand-product-name } puhelimellasi tai tablet-laitteellasi
 firefoxview-tabpickup-adddevice-description = Lataa { -brand-product-name } mobiililaitteelle ja kirjaudu sisään.
@@ -40,20 +43,31 @@ firefoxview-tabpickup-adddevice-primarybutton = Hanki { -brand-product-name } mo
 firefoxview-syncedtabs-adddevice-header-2 = Nappaa välilehdet mistä tahansa
 firefoxview-syncedtabs-adddevice-description-2 = Kirjaudu sisään { -brand-product-name }iin puhelimellasi tai toisella tietokoneella nähdäksesi välilehdet täällä. Lue lisää <a data-l10n-name="url">laitteiden yhdistämisestä</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Kokeile { -brand-product-name }ia mobiililaitteella
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Välilehdet yrittivät tavoitella sinua. Ne ovat puhelimessasi.
 firefoxview-tabpickup-synctabs-header = Ota välilehtien synkronointi käyttöön
 firefoxview-tabpickup-synctabs-description = Salli { -brand-short-name }in jakaa välilehtiä laitteiden välillä.
 firefoxview-tabpickup-synctabs-learn-how = Lue lisää
 firefoxview-tabpickup-synctabs-primarybutton = Synkronoi avoimet välilehdet
+firefoxview-tabpickup-synctabs-primarybutton-2 = Ota välilehtien synkronointi käyttöön
 firefoxview-syncedtabs-synctabs-header = Päivitä synkronointiasetukset
 firefoxview-syncedtabs-synctabs-description = Jos haluat nähdä muiden laitteiden välilehdet, sinun on synkronoitava avoimet välilehdet.
+firefoxview-syncedtabs-synctabs-header-2 = Välilehtien synkronointi on pois päältä
+firefoxview-syncedtabs-synctabs-description-2 = Ota synkronointi takaisin käyttöön, niin saat kaikki välilehdet muilta laitteilta.
 firefoxview-syncedtabs-loading-header = Synkronointi käynnissä
 firefoxview-syncedtabs-loading-description = Kun se valmistuu, näet kaikki muilla laitteilla avoinna olevat välilehdet. Tarkista pian uudelleen.
+firefoxview-syncedtabs-loading-header-2 = Noudetaan välilehtiä…
+firefoxview-syncedtabs-loading-description-2 = Synkronointi on käynnissä. Välilehdet ovat pian täällä.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisaatiosi on poistanut synkronoinnin käytöstä
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ei voi synkronoida välilehtiä laitteiden välillä, koska laitteesi järjestelmänvalvoja on poistanut synkronoinnin käytöstä.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ei voi synkronoida välilehtiä laitteiden välillä, koska organisaatiosi on poistanut synkronoinnin käytöstä.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Välilehtien synkronointi on pois päältä
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Organisaatiosi esti tämän ominaisuuden.
 firefoxview-tabpickup-network-offline-header = Tarkista Internet-yhteytesi
 firefoxview-tabpickup-network-offline-description = Jos käytät palomuuria tai välityspalvelinta, tarkista että { -brand-short-name } on oikeutettu käyttämään verkkoa.
 firefoxview-tabpickup-network-offline-primarybutton = Yritä uudelleen
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } ei voi muodostaa yhteyttä juuri nyt
+firefoxview-tabpickup-network-offline-description-2 = Saatat olla yhteydettömässä tilassa, tai jokin saattaa estää yhteyden.
 firefoxview-tabpickup-sync-error-header = Synkronoinnin kanssa on ongelmia
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } ei saa yhteyttä synkronointipalveluun juuri nyt. Yritä uudelleen hetken kuluttua.
 firefoxview-tabpickup-sync-error-primarybutton = Yritä uudelleen
@@ -69,6 +83,8 @@ firefoxview-tabpickup-signed-out-header = Kirjaudu yhdistääksesi uudelleen
 firefoxview-tabpickup-signed-out-description = Muodosta yhteys uudelleen ja nouda välilehdet kirjautumalla sisään { -fxaccount-brand-name }llesi.
 firefoxview-tabpickup-signed-out-description2 = Muodosta yhteys uudelleen ja nouda välilehdet kirjautumalla sisään tilillesi.
 firefoxview-tabpickup-signed-out-primarybutton = Kirjaudu sisään
+firefoxview-tabpickup-signed-out-header-2 = Kirjaudu sisään nähdäksesi välilehdet
+firefoxview-tabpickup-signed-out-description-2 = Yhdistä uudelleen nähdäksesi välilehdet muilta laitteilta.
 firefoxview-tabpickup-syncing = Odota, kun välilehdet synkronoidaan. Siinä kestää vain hetki.
 firefoxview-mobile-promo-header = Nappaa välilehtiä puhelimestasi tai tabletistasi
 firefoxview-mobile-promo-description = Voit tarkastella uusimpia mobiililaitteellasi olevia välilehtiä kirjautumalla sisään { -brand-product-name }iin iOS- tai Android-laitteella.
@@ -210,6 +226,9 @@ firefoxview-show-all-history = Näytä koko historia
 firefoxview-history-empty-header = Palaa sinne missä olit
 firefoxview-history-empty-description = Kun selaat, vierailemasi sivut näkyvät tässä.
 firefoxview-history-empty-description-two = Yksityisyytesi suojaaminen on toimintamme ydin. Tästä syystä voit hallita <a data-l10n-name="history-settings-url">historia-asetuksissa</a>, mitä toimintaa { -brand-short-name } muistaa.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Selauspolkusi alkaa tästä
 
 ##
 
