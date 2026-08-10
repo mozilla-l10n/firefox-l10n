@@ -878,9 +878,9 @@ browsing-picture-in-picture-learn-more = 詳細情報
 browsing-media-control =
     .label = メディアをキーボード、ヘッドセット、仮想インターフェイスで操作する
     .accesskey = v
-browsing-media-control-learn-more = 詳細情報
 recommendations-group =
     .label = おすすめ
+browsing-media-control-learn-more = 詳細情報
 browsing-cfr-recommendations =
     .label = おすすめの拡張機能を紹介する
     .accesskey = R
@@ -974,6 +974,11 @@ use-current-pages =
 choose-bookmark =
     .label = ブックマークを使用...
     .accesskey = B
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = 拡張機能 ({ $extension })
 
 ## Custom Homepage subpage
 
