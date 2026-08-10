@@ -990,6 +990,11 @@ use-current-pages =
 choose-bookmark =
     .label = Käytä kirjanmerkkiä…
     .accesskey = m
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Laajennus ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2754,3 +2759,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Välityspalvelimen automaattinen määritys on käytössä
     .description = Välityspalvelimen automaattinen määritys saattaa mahdollistaa ei-luotettujen verkkojen tarkkailla toimiasi.
+
+## Referrals Section
+
