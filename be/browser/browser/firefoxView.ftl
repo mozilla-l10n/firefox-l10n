@@ -45,22 +45,35 @@ firefoxview-syncedtabs-adddevice-description-2 = Увайдзіце ў { -brand
 firefoxview-syncedtabs-adddevice-primarybutton = Паспрабаваць { -brand-product-name } для мабільных прылад
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Вашы карткі выкліканы. Яны на вашым тэлефоне.
+firefoxview-syncedtabs-adddevice-description-3 = Скануйце QR-код, каб атрымаць { -brand-product-name } для мабільных прылад і пачаць сінхранізацыю адкрытых картак і іншага. Даведайцеся, як <a data-l10n-name="url">падключыць дадатковыя прылады</a>.
 firefoxview-tabpickup-synctabs-header = Уключыць сінхранізацыю картак
 firefoxview-tabpickup-synctabs-description = Дазволіць { -brand-short-name } дзяліцца карткамі паміж прыладамі.
 firefoxview-tabpickup-synctabs-learn-how = Даведацца, як
 firefoxview-tabpickup-synctabs-primarybutton = Сінхранізаваць адкрытыя карткі
+firefoxview-tabpickup-synctabs-primarybutton-2 = Уключыць сінхранізацыю картак
 firefoxview-syncedtabs-synctabs-header = Абнавіце налады сінхранізацыі
 firefoxview-syncedtabs-synctabs-description = Каб бачыць карткі з іншых прылад, трэба сінхранізаваць адкрытыя карткі.
+firefoxview-syncedtabs-synctabs-header-2 = Сінхранізацыя картак адключана
+firefoxview-syncedtabs-synctabs-description-2 = Уключыце сінхранізацыю зноў, каб атрымаць доступ да ўсіх картак з іншых прылад.
 firefoxview-syncedtabs-loading-header = Ідзе сінхранізацыя
 firefoxview-syncedtabs-loading-description = Па заканчэнні вы ўбачыце ўсе карткі, адкрытыя на іншых прыладах. Праверце пазней.
+firefoxview-syncedtabs-loading-header-2 = Атрыманне вашых картак…
+firefoxview-syncedtabs-loading-description-2 = Ідзе сінхранізацыя. Карткі хутка з'явяцца тут.
 firefoxview-tabpickup-fxa-admin-disabled-header = У ваша арганізацыі сінхранізацыя адключана
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не можа сінхранізаваць карткі паміж прыладамі, таму што ваш адміністратар адключыў сінхранізацыю.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } не можа сінхранізаваць карткі паміж прыладамі, таму што ваша арганізацыя адключыла сінхранізацыю.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Сінхранізацыя картак адключана
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ваша арганізацыя заблакавала гэту функцыю.
 firefoxview-tabpickup-network-offline-header = Праверце падлучэнне да Інтэрнэту
 firefoxview-tabpickup-network-offline-description = Калі вы карыстаецеся фаерволам або проксі, пераканайцеся, што { -brand-short-name } мае дазвол на доступ у сеціва.
 firefoxview-tabpickup-network-offline-primarybutton = Паспрабаваць зноў
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } не можа падключыцца прама зараз
+firefoxview-tabpickup-network-offline-description-2 = Магчыма, вы знаходзіцеся па-за сеткай, альбо нешта блакуе падключэнне.
 firefoxview-tabpickup-sync-error-header = У нас узніклі праблемы з сінхранізацыяй
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } зараз не можа падключыцца да службы сінхранізацыі. Паспрабуйце зноў праз хвіліну.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Сінхранізацыя сутыкнулася з праблемай
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } не ўдалося падключыцца. Пачакайце хвілінку і паспрабуйце зноў.
 firefoxview-tabpickup-sync-error-primarybutton = Паспрабаваць зноў
 firefoxview-tabpickup-sync-disconnected-header = Каб працягнуць, уключыце сінхранізацыю
 firefoxview-tabpickup-sync-disconnected-description = Каб забраць свае карткі, вам трэба дазволіць сінхранізацыю ў { -brand-short-name }.
@@ -70,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = Каб забраць сва
 firefoxview-tabpickup-password-locked-link = Падрабязней
 firefoxview-tabpickup-password-locked-primarybutton = Увядзіце галоўны пароль
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Падрабязней</a>
+firefoxview-tabpickup-password-locked-header-2 = Разблакуйце карткі з дапамогай галоўнага пароля
+firefoxview-tabpickup-password-locked-description-2 = Дзеля вашай прыватнасці сінхранізаваныя карткі абаронены. Увядзіце свой галоўны пароль { -brand-short-name }, каб убачыць карткі з іншых прылад.
 firefoxview-tabpickup-signed-out-header = Увайдзіце, каб злучыцца зноў
 firefoxview-tabpickup-signed-out-description = Каб аднавіць падключэнне і атрымаць карткі, увайдзіце ў свой { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Каб аднавіць падключэнне і атрымаць карткі, увайдзіце ў свой уліковы запіс.
 firefoxview-tabpickup-signed-out-primarybutton = Увайсці
+firefoxview-tabpickup-signed-out-header-2 = Увайдзіце, каб убачыць свае карткі
+firefoxview-tabpickup-signed-out-description-2 = Падключыцеся зноў, каб паглядзець карткі з іншых прылад.
 firefoxview-tabpickup-syncing = Пачакайце, пакуль вашы карткі сінхранізуюцца. Гэта толькі на імгненне.
 firefoxview-mobile-promo-header = Атрымайце карткі з тэлефона або планшэта
 firefoxview-mobile-promo-description = Каб паглядзець свае апошнія мабільныя карткі, увайдзіце ў { -brand-product-name } на iOS або Android.
@@ -216,6 +233,9 @@ firefoxview-show-all-history = Паказаць усю гісторыю
 firefoxview-history-empty-header = Вярнуцца туды, дзе былі
 firefoxview-history-empty-description = У часе аглядання, старонкі, якія вы наведваеце, будуць з'яўляцца тут.
 firefoxview-history-empty-description-two = Ахова вашай прыватнасці — гэта сутнасць нашай дзейнасці. Вось чаму вы можаце кантраляваць дзеянні, якія запамінае { -brand-short-name }, у сваіх <a data-l10n-name="history-settings-url">наладах гісторыі</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Ваш шлях аглядання пачынаецца тут
 
 ##
 
