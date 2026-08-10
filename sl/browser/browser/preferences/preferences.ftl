@@ -992,6 +992,11 @@ use-current-pages =
 choose-bookmark =
     .label = Uporabi zaznamek …
     .accesskey = z
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Razširitev ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -1602,6 +1607,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
