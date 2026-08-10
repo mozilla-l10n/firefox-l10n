@@ -161,6 +161,11 @@ smart-window-opened-tabs-summary-single =
        *[other] { $count } tendaykeita ijurujáva.
     }
 smart-window-opened-tabs-row-label = Tendayke ijurujáva
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Amoambue tendaykeita
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Iñambue “{ $title }”-pe.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Tendayke jepe’apyre
 # Variables

@@ -133,6 +133,17 @@ taskbar-tabs-media-callout-subtitle = شغِّل مواقع البث الخاص�
 taskbar-tabs-value-prop-callout-title = أضف هذا الموقع إلى شريط مهامك
 taskbar-tabs-value-prop-callout-subtitle = شغله في نافذة خاصة به وواجهة مبسطة بنقرة واحدة.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = ابقَ على اتصال من شريط مهامك
+taskbar-tabs-email-callout-title-v3 = احتفظ بصندوقك الوارد في شريط المهام
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-subtitle-1 = مزامن الآن للحفاظ على علاماتك وكلمات سرك والإعدادات الخاصة بعلامتك التجارية { -brand-short-name } آمنة وسهلة الاستعادة.
