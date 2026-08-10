@@ -99,7 +99,7 @@ settings-pane-labs-header =
     .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
-pane-experimental-description4 = Deneysel özelliklerimizi deneyin! Bu özellikler henüz geliştirme aşamasında oldıkları için her an değişebilirler ve { -brand-short-name } uygulamasının çalışma şeklini etkileyebilirler. <a data-l10n-name="data-collection">Teknik verileri ve etkileşim verilerini</a> açtıysanız bu özellikleri kullanımınızla ilgili veri toplayabiliriz.
+pane-experimental-description4 = Deneysel özelliklerimizi deneyin! Bu özellikler henüz geliştirme aşamasında oldukları için her an değişebilir ve { -brand-short-name } uygulamasının çalışma şeklini etkileyebilir. <a data-l10n-name="data-collection">Teknik verileri ve etkileşim verilerini</a> açtıysanız bu özellikleri kullanımınızla ilgili veri toplayabiliriz.
 pane-experimental-description3 = Deneysel özelliklerimizi deneyin! Bu özellikler sürekli geliştikleri ve değiştikleri için { -brand-short-name } tarayıcınızın çalışma şeklini etkileyebilirler.
 pane-experimental-reset =
     .label = Varsayılanları geri yükle
@@ -122,7 +122,7 @@ applications-setting-new-file-types =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = Bu özelliği etkinleştirmek için { -brand-short-name } yeniden başlatılmalıdır.
-feature-disable-requires-restart = Bu özelliği devre dışı bırakmak { -brand-short-name } için yeniden başlatılmalıdır.
+feature-disable-requires-restart = Bu özelliği devre dışı bırakmak için { -brand-short-name } yeniden başlatılmalıdır.
 should-restart-title = { -brand-short-name } tarayıcısını yeniden başlat
 should-restart-ok = { -brand-short-name } tarayıcısını yeniden başlat
 cancel-no-restart-button = Vazgeç
@@ -225,7 +225,7 @@ preferences-profiles-settings-button =
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
     .label = Mevcut bir profili kopyala
-    .description = Ayarlar, eklentiler, geçmiş, yer imleri ve parolarar gibi kayıtlı verileriniz yeni profile kopyalanır ama hesabınız ve eşitleme bilgileriniz kopyalanmaz.
+    .description = Ayarlar, eklentiler, geçmiş, yer imleri ve parolalar gibi kayıtlı verileriniz yeni profile kopyalanır ama hesabınız ve eşitleme bilgileriniz kopyalanmaz.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -463,7 +463,7 @@ preferences-zoom-text-only =
     .label = Sadece metni yakınlaştır
     .accesskey = S
 preferences-text-zoom-override-warning2 =
-    .message = “Yalnızca metni yakınlaştır” açıksa ve varsayılan yakınlaştırmanız %100 değilse bazı sitelerde içerikler düzgün görünmeyebilir.
+    .message = “Sadece metni yakınlaştır” açıksa ve varsayılan yakınlaştırmanız %100 değilse bazı sitelerde içerikler düzgün görünmeyebilir.
 preferences-text-zoom-override-warning =
     .message = Uyarı: “Sadece metni yakınlaştır”ı seçerseniz ve varsayılan yakınlaştırmanız %100 olarak ayarlanmazsa bazı siteler ve içerikler düzgün görünmeyebilir.
 language-header = Dil
@@ -825,7 +825,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = İçerik işlemi sınırı
     .accesskey = L
 performance-limit-content-process-enabled-desc = Daha fazla içerik işlemine izin verdiğinizde, çok sayıda sekme açıkken performans artar ama daha fazla bellek kullanılır.
-performance-limit-content-process-blocked-desc = İçerik işlemi sayısını değiştirmek yalnızca çok işlemli { -brand-short-name } ile mümkündür. <a data-l10n-name="learn-more">Çok işlemin etkin olmadığını kontrol etmeyi öğrenin</a>
+performance-limit-content-process-blocked-desc = İçerik işlemi sayısını değiştirmek yalnızca çok işlemli { -brand-short-name } ile mümkündür. <a data-l10n-name="learn-more">Çok işlemin etkin olup olmadığını kontrol etmeyi öğrenin</a>
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -1849,7 +1849,7 @@ sitedata-total-size3 = Web siteleri şu anda <strong>{ $value } { $unit }</stron
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Depolanmış site verileriniz ve önbelleğiniz şu anda { $value } { $unit } disk alanı kullanıyor.
+sitedata-total-size = Depolanmış çerezleriniz, site verileriniz ve önbelleğiniz şu anda { $value } { $unit } disk alanı kullanıyor.
 sitedata-learn-more = Daha fazla bilgi al
 sitedata-delete-on-close2 =
     .label = { -brand-short-name } tarayıcısını her kapattığımda çerezleri ve site verilerini temizle

@@ -460,15 +460,15 @@ onboarding-checklist-remove-2 = Kontrol listesini kaldır
 tab-groups-onboarding-feature-callout-title = Dağınıklığı azaltarak daha iyi odaklanmak için sekme gruplarını deneyin
 tab-groups-onboarding-feature-callout-subtitle = İlk grubunuzu oluşturmak için sekmeleri üst üste sürükleyin.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-create-group-title-3 = Sekme gruplarınızı istediğiniz zaman “Tüm sekmeleri listele“ menüsünde bulabilirsiniz.
+tab-groups-onboarding-create-group-title-3 = Sekme gruplarınızı istediğiniz zaman “Tüm sekmeleri listele” menüsünde bulabilirsiniz.
 tab-groups-onboarding-create-group-title-2 = Sekme gruplarınıza istediğiniz zaman buradan ulaşabilirsiniz.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Gruplarınızı adres çubuğundan arayarak bulabilirsiniz.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-saved-groups-title-3 = Bir sekme grubunu kapattığınızda istediğiniz zaman “Tüm sekmeleri listele“ menüsünden yeniden açabilirsiniz.
+tab-groups-onboarding-saved-groups-title-3 = Bir sekme grubunu kapattığınızda istediğiniz zaman “Tüm sekmeleri listele” menüsünden yeniden açabilirsiniz.
 tab-groups-onboarding-saved-groups-title-2 = Bir sekme grubunu kapatırsanız istediğiniz zaman buradan yeniden açabilirsiniz.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Kapattığınız grupları adres çubuğundan arayarak bulabilirsiniz.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-session-restore-title-2 = İstediğiniz zaman “Tüm sekmeleri listele“ menüsünden sekme gruplarınızı yeniden açabilirsiniz.
+tab-groups-onboarding-session-restore-title-2 = İstediğiniz zaman “Tüm sekmeleri listele” menüsünden sekme gruplarınızı yeniden açabilirsiniz.
 tab-groups-onboarding-session-restore-title = Sekme gruplarınızı istediğiniz zaman buradan yeniden açabilirsiniz.
 tab-groups-onboarding-dismiss = Tamam
 
@@ -592,7 +592,7 @@ onboarding-refresh-pin-set-default-subtitle = Verilerinizi koruyoruz ve şirketl
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Emin ellerdesiniz
-onboarding-refresh-import-subtitle = Parolalarınızı, yer imlerinizi, geçmişinizi ve ve diğer verilerinizi yeni tarayıcınıza taşıyın.
+onboarding-refresh-import-subtitle = Parolalarınızı, yer imlerinizi, geçmişinizi ve diğer verilerinizi yeni tarayıcınıza taşıyın.
 onboarding-refresh-import-title = { -brand-short-name } ile kendinizi evinizde hissedin
 onboarding-refresh-onboarding-addons-subtitle = Uzantılar { -brand-short-name } tarayıcınızı özelleştiren küçük uygulamalardır. Gizliliğinizi ve verimliliğinizi artırabilir, { -brand-short-name } tarayıcısının görünümünü değiştirebilir, daha pek çok şey yapabilirler.
 # "Give your browsing a boost" means to enhance or improve the browsing experience

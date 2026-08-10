@@ -695,7 +695,7 @@ applications-use-os-default-label =
 
 applications-handle-new-file-types-description = Què ha de fer el { -brand-short-name } amb els altres fitxers?
 applications-save-for-new-types =
-    .label = Desa el fitxers
+    .label = Desa els fitxers
     .accesskey = s
 applications-save-for-new-types2 =
     .label = Desa els fitxers automàticament
@@ -1092,6 +1092,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Motor de cerca per defecte en les finestres privades
+search-suggestions-header-2 =
+    .label = Suggeriments de motors de cerca
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -2142,6 +2144,8 @@ collection-description = Ens esforcem per oferir-vos opcions i només recollim a
 collection-privacy-notice = Avís de privadesa
 collection-health-report-telemetry-disabled = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'aquí a 30 dies.
 collection-health-report-telemetry-disabled-link = Més informació
+backup-multi-profile-warning-message =
+    .message = Per assegurar-vos que aquest canvi s'inclou a les vostres còpies de seguretat, obriu cada perfil i seleccioneu "Fes una còpia de seguretat ara" a  la configuració.
 nimbus-rollouts =
     .label = Permet que el { -brand-short-name } millori les funcions, el rendiment i l'estabilitat entre actualitzacions
     .description = Els canvis s'aplicaran de manera remota.
@@ -2196,6 +2200,8 @@ data-collection =
     .description = Ens esforcem per oferir-vos opcions i només recollim el mínim de dades necessàries per millorar el { -brand-product-name } per a tothom.
     .searchkeywords = telemetria
 data-collection-link = Mostra l'avís de privadesa
+data-collection-preferences-across-profiles =
+    .message = Aquesta configuració s'aplica a tots els perfils del { -brand-product-name } en aquest dispositiu.
 data-collection-profiles-link = Mostra tots els perfils
 data-collection-health-report-telemetry-disabled =
     .message = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'aquí a 30 dies.
@@ -2235,6 +2241,9 @@ website-advertising-private-attribution-description = Això ajuda els llocs a en
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguretat
+browsing-protection-group2 =
+    .label = Protecció contra contingut enganyós i programari perillós
+    .description = Els llocs o les descàrregues perilloses poden posar les vostres dades i dispositiu en risc. El { -brand-short-name } automàticament els bloca, i us avisa sobre programari perillós o no sol·licitat.
 security-browsing-protection = Protecció contra contingut enganyós i programari perillós
 security-enable-safe-browsing =
     .label = Bloca el contingut enganyós i perillós

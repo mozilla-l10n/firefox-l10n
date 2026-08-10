@@ -54,7 +54,7 @@ connection-proxy-noproxy = Aşağıdakiler için vekil sunucu kullanılmasın
     .accesskey = A
 connection-proxy-noproxy-desc = Örnek: .mozilla.org, .com.tr, 192.168.1.0/24
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
-connection-proxy-noproxy-localhost-desc-2 = Localhost, 127.0.0.1/8, ve ::1 ile olan bağlantılar asla vekil sunucudan geçmez.
+connection-proxy-noproxy-localhost-desc-2 = localhost, 127.0.0.1/8 ve ::1 ile olan bağlantılar asla vekil sunucudan geçmez.
 connection-proxy-autotype =
     .label = Otomatik vekil sunucu yapılandırma URL’si
     .accesskey = O
