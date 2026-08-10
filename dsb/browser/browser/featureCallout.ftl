@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Startujśo swóje streamingowe sedła ako 
 taskbar-tabs-value-prop-callout-title = Nadawkowej rědce toś to sedło pśidaś
 taskbar-tabs-value-prop-callout-subtitle = Startujśo w swójskem woknje a zjadnorjonem wužywaŕskem pówjerchu z jadnučkim kliknjenim.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Wóstańśo ze swójeje nadawkoweje rědki zwězany
+taskbar-tabs-email-callout-title-v3 = Wobchowajśo swój postowy dochad w swójej nadawkowej rědce
+taskbar-tabs-email-callout-subtitle-v3 = Startujśo swóje e-mailowe sedła ako nałoženje w optiměrowanem woknje, kótarež se pśez  { -brand-short-name } šćita.
+taskbar-tabs-media-callout-title-v3 = Wobchowajśo swój streaming w swójej nadawkowej rědce
+taskbar-tabs-media-callout-subtitle-v3 = Startujśo swóje medijowe sedła ako nałoženje w optiměrowanem woknje, kótarež se pśez  { -brand-short-name } šćita.
+taskbar-tabs-value-prop-callout-title-v3 = Pśipnějśo swóje nejlubše sedła k swójej nadawkowej rědce
+taskbar-tabs-value-prop-callout-subtitle-v3 = Startujśo někake sedło ako nałoženje w optiměrowanem woknje, kótarež se pśez  { -brand-short-name } šćita.
+taskbar-tabs-gaming-callout-title-v3 = Wrośćo se k graśeju ze swójeje nadawkoweje rědki
+taskbar-tabs-gaming-callout-subtitle-v3 = Startujśo swóje grajne sedła ako nałoženje w optiměrowanem woknje, kótarež se pśez  { -brand-short-name } šćita.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = K nadawkowej rědce pśipěś
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Njezgubujśo nic, což sćo składował, gaž do Windows 11 pśeśěgujośo.

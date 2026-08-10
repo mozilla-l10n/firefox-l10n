@@ -168,6 +168,11 @@ newtab-confirm-delete-history-p2 = Šī ir neatgriezeniska darbība.
 
 newtab-topsite-sponsored = Apmaksāts
 
+## Top Sites - Web notifications hover card
+
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Tikko
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

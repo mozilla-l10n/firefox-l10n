@@ -1473,7 +1473,7 @@ addon-recommendations-link = Uzzināt vairāk
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datu ziņošana ir atspējota šajā būvējuma konfigurācija
-collection-backlogged-crash-reports-with-link = Atļaut { -brand-short-name } jūsu vārdā sūtīt uzkrātos avāriju pārskatus. <a data-l10n-name="crash-reports-link">Uzzināt vairāk</a>.
+collection-backlogged-crash-reports-with-link = Atļaut { -brand-short-name } Tavā vietā nosūtīt uzkrātos avāriju pārskatus. <a data-l10n-name="crash-reports-link">Uzzināt vairāk</a>.
     .accesskey = A
 privacy-segmentation-section-header = Jaunas funkcijas, kas uzlabo jūsu pārlūkošanu
 privacy-segmentation-section-description = Kad mēs piedāvājam funkcijas, kas izmanto jūsu datus, lai sniegtu jums personiskāku pieredzi:

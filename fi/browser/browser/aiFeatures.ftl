@@ -107,3 +107,6 @@ smart-window-model-fast-v2 =
 smart-window-model-flexible-v2 =
     .label = { $shortName }: Joustava
     .description = Valmis monenlaisiin tehtäviin. Koko nimi: { $model }, tehnyt { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Henkilökohtainen
+    .description = Luotu räätälöityä apua varten eri kielillä. Koko nimi: { $model }, tehnyt { $ownerName }
