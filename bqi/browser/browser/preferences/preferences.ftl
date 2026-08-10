@@ -577,6 +577,25 @@ home-homepage-manage-extension-button =
 choose-bookmark =
     .label = و کار گرؽڌن نشووک…
     .accesskey = B
+home-homepage-title =
+    .label = بلگه هووه ای
+home-homepage-new-windows =
+    .label = نیمدری یل نۊ
+home-homepage-new-tabs =
+    .label = بلگه یل نۊ
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = ی وبگه خاس ن پسند کۊنین
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = نشۊوی (ا) وبگه
+home-custom-homepage-address =
+    .placeholder = زیذن نشۊوی
+home-custom-homepage-address-button =
+    .label = ٱووردن نشۊوی
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = هنی هیچ وبگهی ازاف نوابیڌه.
 home-custom-homepage-delete-address-button =
     .aria-label = پاک کردن نشۊوی
     .title = پاک کردن نشۊوی
