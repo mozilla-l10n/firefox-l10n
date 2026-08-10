@@ -989,6 +989,43 @@ use-current-pages =
 choose-bookmark =
     .label = Использовать закладку…
     .accesskey = в
+home-homepage-title =
+    .label = Домашняя страница
+home-homepage-new-windows =
+    .label = Новые окна
+home-homepage-new-tabs =
+    .label = Новые вкладки
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Выбрать определённый сайт
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Адрес(а) веб-сайтов
+home-custom-homepage-address =
+    .placeholder = Введите адрес
+home-custom-homepage-address-button =
+    .label = Добавить адрес
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Пока не добавлено ни одного веб-сайта.
+home-custom-homepage-delete-address-button =
+    .aria-label = Удалить адрес
+    .title = Удалить адрес
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Заменить на
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Текущие открытые страницы
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Закладки…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Расширение ({ $extension })
 
 ## Custom Homepage subpage
 

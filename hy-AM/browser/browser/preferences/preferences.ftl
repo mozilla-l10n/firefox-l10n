@@ -890,6 +890,43 @@ use-current-pages =
 choose-bookmark =
     .label = Օգտագործել էջանիշ...
     .accesskey = է
+home-homepage-title =
+    .label = Տնային էջ
+home-homepage-new-windows =
+    .label = Նոր պատուհաններ
+home-homepage-new-tabs =
+    .label = Նոր ներդիրներ
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Ընտրեք որոշակի կայք
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Վեբ-կայքի հասցե(ներ)
+home-custom-homepage-address =
+    .placeholder = Մուտքագրեք հասցե
+home-custom-homepage-address-button =
+    .label = Ավելացնել հասցե
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Դեռևս կայքեր չեն ավելացվել։
+home-custom-homepage-delete-address-button =
+    .aria-label = Ջնջել հասցեն
+    .title = Ջնջել հասցեն
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Փոխարինել՝
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Բացված էջեր
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Էջանիշներ…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Ընդլայնում ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -1461,6 +1498,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2279,3 +2319,9 @@ preferences-etp-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Մեկուսացնել միջկայքային թխուկները
+
+## Warnings section
+
+
+## Referrals Section
+

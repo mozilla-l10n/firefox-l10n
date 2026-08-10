@@ -911,6 +911,37 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+home-homepage-title =
+    .label = Pàgina printzipale
+home-homepage-new-windows =
+    .label = Ventanas noas
+home-homepage-new-tabs =
+    .label = Ischedas noas
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Indiritzos de sitos web
+home-custom-homepage-address =
+    .placeholder = Inserta un’indiritzu
+home-custom-homepage-address-button =
+    .label = Agiunghe un’indiritzu
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Nissunu situ web galu agiuntu.
+home-custom-homepage-delete-address-button =
+    .aria-label = Cantzella s’indiritzu
+    .title = Cantzella s’indiritzu
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Sostitui cun
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Sinnalibros…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Estensione ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2226,11 +2257,17 @@ preferences-doh-manage-exceptions2 =
     .label = Gesti is etzetziones
     .accesskey = z
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Iscrivania
 downloads-folder-name = Iscarrigamentos
 choose-download-folder-title = Sèbera sa cartella de iscarrigamentos
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2289,3 +2326,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Generadores de imprentas digitales suspetos
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Generadores de imprentas digitales suspetos
+
+## Warnings section
+
+
+## Referrals Section
+

@@ -712,6 +712,9 @@ update-in-progress-ok-button = &Рад кардан
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
 
+## About Firefox
+
+
 ## Firefox updates
 
 update-application-suppress-prompts-heading =
@@ -872,6 +875,43 @@ use-current-pages =
 choose-bookmark =
     .label = Истифодаи хатбарак…
     .accesskey = И
+home-homepage-title =
+    .label = Саҳифаи асосӣ
+home-homepage-new-windows =
+    .label = Равзанаи нав
+home-homepage-new-tabs =
+    .label = Варақаҳои нав
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Интихоб кардани сомонаи муайян
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Нишони(ҳо)и сомона
+home-custom-homepage-address =
+    .placeholder = Нишониеро ворид намоед
+home-custom-homepage-address-button =
+    .label = Илова кардани нишонӣ
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = То ҳол ягон сомона илова карда нашудааст.
+home-custom-homepage-delete-address-button =
+    .aria-label = Нест кардани нишонӣ
+    .title = Нест кардани нишонӣ
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Иваз кардан бо
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Саҳифаҳои кушодашудаи ҷорӣ
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Хатбаракҳо…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Васеъшавӣ ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -1447,6 +1487,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Маълумоти бештар
 forms-windows-sso-desc = Ҳисобҳоро дар танзимоти дастгоҳи худ идора кунед
 windows-passkey-settings-label = Идоракунии шоҳкалидҳо дар танзимоти низоми компютерӣ
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2213,6 +2256,9 @@ desktop-folder-name = Мизи корӣ
 downloads-folder-name = Боргириҳо
 choose-download-folder-title = Интихоби ҷузвдон барои боргириҳо:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-block-ai-label = Манъ кардани такмилҳои зеҳни сунъӣ (AI)
@@ -2280,3 +2326,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Хонандаи нақши ангуштони номаълум
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Хонандаи нақши ангуштони номаълум
+
+## Warnings section
+
+
+## Referrals Section
+

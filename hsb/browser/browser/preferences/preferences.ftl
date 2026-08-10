@@ -992,6 +992,43 @@ use-current-pages =
 choose-bookmark =
     .label = Zapołožku wužiwać…
     .accesskey = Z
+home-homepage-title =
+    .label = Startowa strona
+home-homepage-new-windows =
+    .label = Nowe wokna
+home-homepage-new-tabs =
+    .label = Nowe rajtarki
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Wubjerće wěste sydło
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adresy websydłow
+home-custom-homepage-address =
+    .placeholder = Adresu zapodać
+home-custom-homepage-address-button =
+    .label = Adresu přidać
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Hišće žane websydła přidate.
+home-custom-homepage-delete-address-button =
+    .aria-label = Adresu zhašeć
+    .title = Adresu zhašeć
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Wuměnić z
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Aktualne wočinjene strony
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Zapołožki…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Rozšěrjenje ({ $extension })
 
 ## Custom Homepage subpage
 

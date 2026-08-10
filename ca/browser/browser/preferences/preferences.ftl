@@ -861,6 +861,9 @@ browsing-cfr-recommendations-learn-more = Més informació
 browsing-group =
     .label = Navegació
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Paràmetres de xarxa
@@ -928,6 +931,43 @@ use-current-pages =
 choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
+home-homepage-title =
+    .label = Pàgina d’inici
+home-homepage-new-windows =
+    .label = Finestres noves
+home-homepage-new-tabs =
+    .label = Pestanyes noves
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Tria un lloc específic
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adreces de llocs web
+home-custom-homepage-address =
+    .placeholder = Escriviu una adreça
+home-custom-homepage-address-button =
+    .label = Afegeix l'adreça
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Encara no heu afegit cap lloc web.
+home-custom-homepage-delete-address-button =
+    .aria-label = Suprimeix l’adreça
+    .title = Suprimeix l’adreça
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Reemplaça amb
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pàgines obertes actualment
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Adreces d'interès…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensió ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -1522,6 +1562,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Més informació
 forms-windows-sso-desc = Gestioneu els comptes en els paràmetres del dispositiu
 windows-passkey-settings-label = Gestiona les claus d'accés en els paràmetres del sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2321,11 +2364,17 @@ preferences-doh-manage-exceptions =
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
 choose-download-folder-title = Tria la carpeta de baixades:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2380,3 +2429,9 @@ issue-card-dismiss-button =
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Aïlla les galetes entre llocs
+
+## Warnings section
+
+
+## Referrals Section
+

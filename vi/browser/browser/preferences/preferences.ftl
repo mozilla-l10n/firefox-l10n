@@ -974,6 +974,43 @@ use-current-pages =
 choose-bookmark =
     .label = Sử dụng dấu trang…
     .accesskey = B
+home-homepage-title =
+    .label = Trang chủ
+home-homepage-new-windows =
+    .label = Cửa sổ mới
+home-homepage-new-tabs =
+    .label = Thẻ mới
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Chọn một trang web cụ thể
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Địa chỉ trang web
+home-custom-homepage-address =
+    .placeholder = Nhập địa chỉ
+home-custom-homepage-address-button =
+    .label = Thêm địa chỉ
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Chưa có trang web nào được thêm vào.
+home-custom-homepage-delete-address-button =
+    .aria-label = Xóa địa chỉ
+    .title = Xóa địa chỉ
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Thay thế bằng
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Các trang hiện đang mở
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Dấu trang…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Tiện ích mở rộng ({ $extension })
 
 ## Custom Homepage subpage
 

@@ -989,6 +989,43 @@ use-current-pages =
 choose-bookmark =
     .label = Folosește un marcaj…
     .accesskey = B
+home-homepage-title =
+    .label = Pagină de start
+home-homepage-new-windows =
+    .label = Ferestre noi
+home-homepage-new-tabs =
+    .label = File noi
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Alege un anumit site
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adresă(e) site web
+home-custom-homepage-address =
+    .placeholder = Introdu adresa
+home-custom-homepage-address-button =
+    .label = Adaugă o adresă
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Nu au fost adăugate încă site-uri web.
+home-custom-homepage-delete-address-button =
+    .aria-label = Șterge adresa
+    .title = Șterge adresa
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Înlocuiește cu
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pagini deschise acum
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Marcaje…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensie ({ $extension })
 
 ## Custom Homepage subpage
 

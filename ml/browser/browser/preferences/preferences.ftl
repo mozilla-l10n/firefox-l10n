@@ -81,6 +81,17 @@ should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാര�
 cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
@@ -418,6 +429,12 @@ update-in-progress-ok-button = &കളയുക
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &തുടരുക
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-get-help =
@@ -471,6 +488,9 @@ browsing-cfr-recommendations-learn-more = കൂടുതല്‍ അറിയ�
 browsing-group =
     .label = തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = നെറ്റ്വർക്ക് ക്രമീകരണങ്ങൾ
@@ -518,6 +538,31 @@ use-current-pages =
 choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
+home-homepage-title =
+    .label = പൂമുഖം
+home-homepage-new-tabs =
+    .label = പുതിയ ടാബുകൾ
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = വെബ്ബിട വിലാസം(കൾ)
+home-custom-homepage-address =
+    .placeholder = വിലാസം നല്കുക
+home-custom-homepage-address-button =
+    .label = വിലാസം ചേൎക്കുക
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = വെബ്ബിടങ്ങൾ ചേൎത്തിട്ടില്ല
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = നിലവിൽ തുറന്നിരിക്കുന്ന താളുകൾ
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = അടയാളക്കുറിപ്പുകൾ…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = വിപുലീകരണം ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -699,6 +744,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ഉറപ്പാക്കിയിട്ടില്ല.
 sync-signedin-login-failure = വീണ്ടും കണക്ട് ചെയ്യുന്നതിന് പ്രവേശിയ്ക്കുക { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -896,6 +946,9 @@ forms-master-pw-fips-desc = ഒളിവാക്കുമാറ്റം പര
 forms-windows-sso-learn-more-link = കൂടുതലറിയുക
 forms-windows-sso-desc = ഉപകരണ ക്രമീകരണങ്ങളിൽ അക്കൗണ്ടുകൾ കൈകാര്യം ചെയ്യുക
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
@@ -992,6 +1045,9 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = കുക്കികളും സൈറ്റ് ഡാറ്റയും
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1102,6 +1158,9 @@ content-blocking-known-fingerprinters-label =
 content-blocking-suspected-fingerprinters-label =
     .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
     .accesskey = വ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -1248,13 +1307,31 @@ preferences-doh-setting-off =
     .label = അണച്ചതു്
     .accesskey = അ
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ഉപരിഫലകം
 downloads-folder-name = ഇറക്കിവയ്ക്കലുകൾ
 choose-download-folder-title = ഇറക്കിവയ്പ്പറ തിരഞ്ഞെടുക്കുക
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-block-confirmation-cancel =
     .label = റദ്ദാക്കുക
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+

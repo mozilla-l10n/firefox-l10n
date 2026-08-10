@@ -981,6 +981,17 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+home-homepage-title =
+    .label = Начална страница
+home-homepage-new-windows =
+    .label = Нови прозорци
+home-homepage-new-tabs =
+    .label = Нов раздел
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Разширение ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2747,3 +2758,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Автоматичното конфигуриране на прокси е включено
     .description = Автоматичното конфигуриране на прокси може да позволи на ненадеждни мрежи да наблюдават вашата дейност.
+
+## Referrals Section
+

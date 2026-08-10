@@ -375,8 +375,6 @@ set-as-my-default-browser-2 =
 
 home-homepage-mode-label = হোম পেজ এবং নতুন উইন্ডোজ
 home-newtabs-mode-label = নতুন ট্যাবগুলি
-home-homepage-new-tabs =
-    .label = নতুন ট্যাবগুলি
 home-restore-defaults =
     .label = ডিফল্টে পুনরায় স্থাপন করুন
     .accesskey = R
@@ -400,9 +398,8 @@ use-current-pages =
 choose-bookmark =
     .label = বুকমার্ক প্রয়োগ করা হবে…
     .accesskey = B
-
-## Home Section - Home Page Customization
-
+home-homepage-new-tabs =
+    .label = নতুন ট্যাবগুলি
 
 ## Custom Homepage subpage
 
@@ -496,8 +493,6 @@ search-default-engine =
 ## Containers Section
 
 containers-header = কন্টেইনার ট্যাব
-containers-section-header =
-    .heading = কন্টেইনার ট্যাব
 containers-add-button =
     .label = একটি কন্টেইনার যোগ করুন
     .accesskey = A
@@ -900,4 +895,7 @@ choose-download-folder-title = ডাউনলোড ফোল্ডার ন�
 
 
 ## Warnings section
+
+
+## Referrals Section
 

@@ -338,11 +338,17 @@ update-application-use-service =
     .label = Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et
     .accesskey = a
 
+## About Firefox
+
+
 ## Firefox updates
 
 update-application-heading =
     .label = { -brand-short-name } yeniləmələri
     .description = Yeniləmələr { -brand-short-name } səyyahının sürətini, stabilliyini və təhlükəsizliyini artırır.
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -392,6 +398,9 @@ browsing-cfr-recommendations =
 browsing-cfr-recommendations-learn-more = Ətraflı Öyrən
 browsing-group =
     .label = Səyahət
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -444,6 +453,25 @@ use-current-pages =
 choose-bookmark =
     .label = Əlfəcin istifadə et…
     .accesskey = Ə
+home-homepage-title =
+    .label = Ana Səhifə
+home-homepage-new-windows =
+    .label = Yeni pəncərə
+home-homepage-new-tabs =
+    .label = Yeni vərəqlər
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Müəyyən bir sayt seç
+home-custom-homepage-address =
+    .placeholder = Ünvanı daxil et
+home-custom-homepage-address-button =
+    .label = Ünvan əlavə et
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Əlfəcinlər…
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -585,6 +613,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } təsdiqlənməyib.
 sync-signedin-login-failure = Yenidən qoşulmaq üçün daxil olun { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -596,6 +629,9 @@ sync-remove-account =
 sync-sign-in =
     .label = Daxil ol
     .accesskey = x
+
+## Sync section - enabling or disabling sync.
+
 
 ## The list of things currently syncing.
 
@@ -714,6 +750,9 @@ forms-primary-pw-change =
 forms-primary-pw-fips-title = Hazırda FIPS rejimindəsiniz. FIPS rejimi üçün boş buraxılmamış Baş Parol lazımdır.
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -809,6 +848,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = Çərəzlər və Sayt Məlumatları
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -944,6 +989,9 @@ collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məl
 data-collection-studies-link =
     .label = { -brand-short-name } tədqiqatlarını gör
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -976,6 +1024,15 @@ certs-devices =
     .accesskey = T
 certs-devices-enable-fips = FIPS aktivləşdir
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = İşçi masası
@@ -1000,3 +1057,15 @@ preferences-ai-controls-sidebar-chatbot-control =
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Yan paneldə söhbət botu təminatçıları
 preferences-ai-controls-header3 =
     .heading = Süni intellekt idarəetmələri
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+

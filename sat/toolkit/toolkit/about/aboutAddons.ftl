@@ -505,3 +505,51 @@ plugins-openh264-name = ᱥᱤᱥᱠᱚ ᱥᱮᱥᱴᱮᱢ ,ᱤᱸᱠ ᱫᱟᱨ�
 plugins-openh264-description = WebRTC ᱵᱟᱛᱟᱣᱱᱤᱨᱫᱮᱥ ᱥᱟᱞᱟᱜ ᱢᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱨ WebRTC ᱠᱚᱞ ᱫᱚ ᱥᱟᱫᱷᱚᱱ ᱥᱟᱞᱟᱜ ᱮᱢ ᱦᱚᱪᱚ ᱡᱟᱦᱟᱸ H.264 ᱣᱤᱰᱤᱭᱚ ᱠᱳᱰᱮᱠ ᱞᱟᱹᱠᱛᱤ.ᱭᱟᱭ ᱱᱚᱶᱟ ᱯᱞᱚᱜᱤᱱ ᱫᱚ Mozilla ᱟᱡ ᱛᱮ ᱵᱚᱦᱟᱞᱟᱭ ᱾ ᱠᱳᱰᱮᱠ ᱥᱨᱚᱛ ᱵᱚᱵᱛ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ https://www.openh264.org/ ᱪᱟᱞᱟᱜ ᱢᱮ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾
 plugins-widevine-name = Google Inc ᱮᱢ ᱠᱟᱫ ᱣᱟᱭᱤᱰᱣᱟᱭᱤᱱ ᱠᱚᱱᱴᱮᱱᱴ ᱰᱤᱠᱨᱤᱯᱴ ᱢᱳᱰᱭᱩᱞ ᱾
 plugins-widevine-description = ᱱᱚᱶᱟ ᱯᱞᱚᱜᱤᱱ ᱫᱚ ᱮᱱᱠᱨᱤᱯᱴᱮᱰ ᱢᱤᱰᱤᱭᱟ ᱮᱢ ᱪᱷᱚᱭᱚᱭ ᱡᱟᱦᱟᱸ ᱫᱚ ᱮᱱᱠᱨᱤᱯᱴ ᱢᱮᱰᱤᱭᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱥᱯᱮᱥᱤᱯᱷᱤᱠᱮᱥᱚᱱ ᱥᱟᱞᱟᱜ ᱡᱚᱲᱟᱣ ᱨᱮ ᱮᱢ ᱪᱷᱚᱭᱚᱭ ᱾ ᱮᱱᱠᱨᱤᱯᱴᱮᱰ ᱢᱤᱰᱤᱭᱟ ᱫᱚ ᱥᱟᱭᱤᱴᱠᱚ ᱯᱨᱤᱢᱤᱭᱚᱢ ᱢᱩᱱᱤᱥ ᱠᱚ ᱱᱚᱠᱚᱞ ᱠᱷᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢᱟᱭ ᱾  ᱮᱱᱠᱨᱤᱯᱴ ᱢᱮᱰᱤᱭᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ ᱵᱮᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱲᱭ ᱞᱟᱹᱜᱤᱫ https://www.w3.org/TR/encrypted-media/ ᱴᱷᱮᱱ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = ᱢᱟᱨᱥᱟᱞ
+themes-mode-dark =
+    .label = ᱧᱩᱛ
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = ᱥᱟᱫᱷᱚᱱ
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = ᱞᱤᱱᱚᱠᱥ ᱥᱤᱥᱴᱚᱢ ᱛᱷᱤᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
