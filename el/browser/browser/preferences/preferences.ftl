@@ -986,6 +986,38 @@ use-current-pages =
 choose-bookmark =
     .label = Χρήση σελιδοδείκτη…
     .accesskey = σ
+home-homepage-title =
+    .label = Αρχική σελίδα
+home-homepage-new-windows =
+    .label = Νέα παράθυρα
+home-homepage-new-tabs =
+    .label = Νέες καρτέλες
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Επιλογή συγκεκριμένου ιστοτόπου
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Διευθύνσεις ιστοτόπων
+home-custom-homepage-address =
+    .placeholder = Εισαγάγετε διεύθυνση
+home-custom-homepage-address-button =
+    .label = Προσθήκη διεύθυνσης
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Δεν έχουν προστεθεί ακόμα ιστότοποι.
+home-custom-homepage-delete-address-button =
+    .aria-label = Διαγραφή διεύθυνσης
+    .title = Διαγραφή διεύθυνσης
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Αντικατάσταση με
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Τρέχουσες ανοικτές σελίδες
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Σελιδοδείκτες…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
