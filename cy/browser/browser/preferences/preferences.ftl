@@ -285,7 +285,7 @@ warn-on-open-many-tabs =
     .label = Rhybuddio y gall agor mwy nag un tab arafu { -brand-short-name }
     .accesskey = a
 switch-to-new-tabs-2 =
-    .label = Wrth agor dolenni neu gyfryngau mewn tab newydd, newid iddo ar unwaith
+    .label = Wrth agor dolenni neu gyfryngau mewn tab newydd, symud iddo ar unwaith
     .accesskey = W
 switch-to-new-tabs =
     .label = Wrth agor dolen, delwedd neu gyfrwng mewn tab newydd, symud yn syth iddo
@@ -620,7 +620,7 @@ download-always-ask-where2 =
     .accesskey = G
 download-private-browsing-delete2 =
     .label = Dileu llwytho i lawr ffenestr preifat wrth gau
-    .accesskey = l
+    .accesskey = D
 download-header = Llwythi i lawr
 download-save-where = Cadw ffeiliau yn
     .accesskey = a
@@ -736,7 +736,7 @@ drm-group =
 drm-content-header = Cynnwys Rheoli Hawliau Digidol (DRM)
 play-drm-content =
     .label = Chwarae cynnwys wedi ei reoli gan DRM
-    .accesskey = D
+    .accesskey = C
 play-drm-content-learn-more = Darllen rhagor
 update-application-title = Diweddariadau { -brand-short-name }
 update-application-description = Cadwch { -brand-short-name } yn gyfredol am y perfformiad, y sefydlogrwydd a'r diogelwch gorau.
@@ -875,7 +875,7 @@ browsing-use-onscreen-keyboard =
     .accesskey = b
 browsing-use-cursor-navigation =
     .label = Defnyddio bysellau'r cyrchwr i symud o fewn tudalennau
-    .accesskey = D
+    .accesskey = b
 browsing-use-full-keyboard-navigation =
     .label = Defnyddiwch y bysell tab i symud ffocws rhwng rheolyddion ffurf a chysylltiadau
     .accesskey = D
@@ -910,7 +910,7 @@ browsing-cfr-recommendations =
     .accesskey = A
 browsing-cfr-features =
     .label = Argymell nodweddion wrth i chi bori
-    .accesskey = A
+    .accesskey = n
 browsing-cfr-recommendations-learn-more = Darllen rhagor
 browsing-group =
     .label = Pori
@@ -1725,7 +1725,7 @@ payments-no-payments-stored-message =
     .label = Dim dulliau talu wedi'u hychwanegu
 autofill-addresses-checkbox-message =
     .label = Cadw ac awtolenwi cyfeiriadau
-    .accesskey = C
+    .accesskey = a
 autofill-addresses-manage-addresses-button =
     .label = Rheoli cyfeiriadau a mwy
     .accesskey = R
@@ -2693,12 +2693,12 @@ security-privacy-status-pending-trackers-label = Yn edrych i weld faint o dracwy
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
 security-privacy-status-trackers-label =
     { $trackerCount ->
-        [zero] Mae { $trackerCount } tracwyr wedi'u rhwystro dros y mis diwethaf
-        [one] Mae { $trackerCount } traciwr wedi'i rwystro dros y mis diwethaf
-        [two] Mae { $trackerCount } draciwr wedi'u rhwystro dros y mis diwethaf
-        [few] Mae { $trackerCount } traciwr wedi'u rhwystro dros y mis diwethaf
-        [many] Mae { $trackerCount } thraciwr wedi'u rhwystro dros y mis diwethaf
-       *[other] Mae { $trackerCount } traciwr wedi'u rhwystro dros y mis diwethaf
+        [zero] Cafodd { $trackerCount } tracwyr eu rhwystro dros y mis diwethaf
+        [one] Cafodd { $trackerCount } traciwr ei rwystro dros y mis diwethaf
+        [two] Cafodd { $trackerCount } draciwr eu rhwystro dros y mis diwethaf
+        [few] Cafodd { $trackerCount } traciwr eu rhwystro dros y mis diwethaf
+        [many] Cafodd { $trackerCount } thraciwr eu rhwystro dros y mis diwethaf
+       *[other] Cafodd { $trackerCount } traciwr eu rhwystro dros y mis diwethaf
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Mae gennych <a data-l10n-name="strict-tracking-protection">ddiogelwch llym</a>
