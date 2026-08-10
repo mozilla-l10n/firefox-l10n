@@ -15,9 +15,11 @@ crashreporter-loading-details = S'està carregant…
 crashreporter-view-report-title = Contingut de l'informe
 crashreporter-comment-prompt = Afegiu-hi un comentari (els comentaris són visibles públicament)
 crashreporter-report-info = L'informe conté també informació tècnica de l'estat de l'aplicació quan va fallar.
+crashreporter-checkbox-test-hardware = Comprova si hi ha problemes de maquinari o de configuració al meu dispositiu.
 crashreporter-checkbox-send-report = Comunica la fallada a { -vendor-short-name } per intentar solucionar-la.
 crashreporter-checkbox-include-url = Inclou l'adreça de la pàgina on era.
 crashreporter-submit-status = El vostre informe de fallada es trametrà quan sortiu o reinicieu.
+crashreporter-submit-waiting-hardware-tests = S'està comprovant si hi ha problemes de maquinari o de configuració…
 crashreporter-submit-in-progress = S'està enviant el vostre informe…
 crashreporter-submit-success = L'informe s'ha tramès correctament!
 crashreporter-submit-failure = S'ha produït un problema en trametre el vostre informe.
@@ -28,6 +30,8 @@ crashreporter-button-ok = D'acord
 crashreporter-button-close = Tanca
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = ID de fallada: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Podeu veure els detalls d'aquesta fallada a { $url }.
 
 # Error strings
 
@@ -38,3 +42,7 @@ crashreporter-error-loading-file = No s'ha pogut carregar el fitxer ({ $path })
 # $path (String) - the path
 crashreporter-error-creating-dir = No s'ha pogut crear el directori ({ $path })
 crashreporter-error-no-home-dir = Falta el directori d'inici
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = No s'ha pogut moure { $from } a { $to }
+crashreporter-error-failed-to-generate-minidump = L'aplicació no ha pogut generar informació sobre la fallada.

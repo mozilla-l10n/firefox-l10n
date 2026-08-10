@@ -27,12 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Gestiona els contenidors
     .accesskey = o
+user-context-new-tab =
+    .label = Pestanya nova
+    .accesskey = n
+user-context-add-container =
+    .label = Afegeix un contenidor nou
+    .accesskey = A
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
 
 user-context-color-blue =
     .label = Blau
+user-context-color-cyan =
+    .label = Cian
 user-context-color-green =
     .label = Verd
 user-context-color-yellow =
@@ -45,6 +53,10 @@ user-context-color-pink =
     .label = Rosa
 user-context-color-purple =
     .label = Porpra
+user-context-color-violet =
+    .label = Violeta
+user-context-color-gray =
+    .label = Gris
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.

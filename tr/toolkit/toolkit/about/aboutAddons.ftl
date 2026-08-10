@@ -271,7 +271,7 @@ header-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Uzantılar ve temalar tarayıcınızın içinde çalışan uygulamalar gibidir. Parolalarınızı saklamanıza, video indirmenize, indirimleri bulmanıza, sinir bozucu reklamları engellemenize, tarayıcınızın görünümü değiştirmenize ve daha birçok şey yapmanıza olanak tanırlar. Bu küçük yazılımlar genellikle üçüncü şahıslar tarafından geliştirilir. Ekstra güvenlik, performans ve işlevsellik için { -brand-product-name } tarafından <a data-l10n-name="learn-more-trigger">önerilen</a> uzantı ve temaları aşağıda bulabilirsiniz.
+discopane-intro = Uzantılar ve temalar tarayıcınızın içinde çalışan uygulamalar gibidir. Parolalarınızı saklamanıza, video indirmenize, indirimleri bulmanıza, sinir bozucu reklamları engellemenize, tarayıcınızın görünümünü değiştirmenize ve daha birçok şey yapmanıza olanak tanır. Bu küçük yazılımlar genellikle üçüncü şahıslar tarafından geliştirilir. Ekstra güvenlik, performans ve işlevsellik için { -brand-product-name } tarafından <a data-l10n-name="learn-more-trigger">önerilen</a> uzantı ve temaları aşağıda bulabilirsiniz.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Bu önerilerden bazıları size özeldir. Önerilerimiz; yüklediğiniz
@@ -551,7 +551,7 @@ details-notification-soft-blocked-extension-disabled =
 details-notification-soft-blocked-extension-enabled =
     .message = Bu uzantı Mozilla politikalarını ihlal ediyor. Kullanılması riskli olabilir.
 details-notification-soft-blocked-other-disabled =
-    .message = Bu eklenti Mozilla’nın politikalarını ihlal ettiği için kısıtlandı ve devre dışı bırakıldı. Uzantıyı etkinleştirebilirsiniz ama bu riskli olabilir.
+    .message = Bu eklenti Mozilla’nın politikalarını ihlal ettiği için kısıtlandı ve devre dışı bırakıldı. Eklentiyi etkinleştirebilirsiniz ama bu riskli olabilir.
 details-notification-soft-blocked-other-enabled =
     .message = Bu eklenti Mozilla politikalarını ihlal ediyor. Kullanılması riskli olabilir.
 details-notification-softblocked-link2 = Ayrıntıları göster

@@ -30,13 +30,24 @@ webext-perms-description-sessions = Accedir a les pestanyes tancades recentment
 webext-perms-description-tabs = Accedir a les pestanyes del navegador
 webext-perms-description-tabHide = Amagar i mostrar pestanyes del navegador
 webext-perms-description-topSites = Accedir a l'historial de navegació
+webext-perms-description-trialML = Baixeu i executeu models d’IA al dispositiu
+webext-perms-description-userScripts = Permeteu que scripts no verificats de tercers accedeixin a les vostres dades
 webext-perms-description-webNavigation = Accedir a l'activitat durant la navegació
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Els scripts no verificats comporten riscos de privacitat i seguretat, com ara l'execució de codi maliciós o el seguiment de l'activitat en llocs web. Només executeu scripts d'extensions o fonts de la vostra confian
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Els scripts no verificats poden comportar riscos de seguretat i de privadesa. Executeu només els scripts procedents d’extensions o de fonts de confiança.
 
 ## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
 ## that formats some of the data collection permissions below using `Intl.ListFormat`.
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = informació d’autenticació
+webext-perms-description-data-short-bookmarksInfo = adreces d'interès
 webext-perms-description-data-short-browsingActivity = activitat de navegació
 webext-perms-description-data-short-financialAndPaymentInfo = informació financera i de pagament
 webext-perms-description-data-short-healthInfo = informació de salut

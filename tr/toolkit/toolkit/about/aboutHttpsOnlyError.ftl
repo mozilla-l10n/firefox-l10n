@@ -12,7 +12,7 @@ about-httpsonly-explanation-nosupport = Büyük olasılıkla bu web sitesi HTTPS
 about-httpsonly-explanation-risk = Bir saldırı girişimi olması da mümkündür. Siteyi ziyaret etmeye karar verirseniz parola, e-posta veya kredi kartı gibi hassas bilgilerinizi girmemelisiniz.
 about-httpsonly-explanation-continue = Devam ederseniz bu site için Yalnızca HTTPS modu geçici olarak kapatılacak.
 about-httpsonly-explanation-iframe = Karma içerik engelleme nedeniyle bu çerçevenin yüklenmesine izin verilmesi mümkün değil.
-about-httpsonly-button-continue-to-site = HTTP siteye devam et
+about-httpsonly-button-continue-to-site = HTTP sitesine devam et
 about-httpsonly-button-go-back = Geri dön
 about-httpsonly-link-learn-more = Daha fazla bilgi al…
 

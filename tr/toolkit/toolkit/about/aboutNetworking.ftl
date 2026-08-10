@@ -118,4 +118,4 @@ about-networking-moved-about-logging = Bu sayfa <a data-l10n-name="about-logging
 ## Link is intended as "network link"
 
 about-networking-networkid-is-up = Bağlantı çalışıyor
-about-networking-networkid-status-known = Bağlantı durumu bilinmiyor
+about-networking-networkid-status-known = Bağlantı durumu biliniyor

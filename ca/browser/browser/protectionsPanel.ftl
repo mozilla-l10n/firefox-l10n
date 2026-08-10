@@ -72,6 +72,19 @@ protections-panel-blocking-label = Blocat
 protections-panel-not-blocking-label = Permès
 protections-panel-not-found-label = Cap detectat
 
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } bloqueja el contingut de seguiment mentre esteu en aquest lloc, tret que ho permeteu.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Permet { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Els rastrejadors i el contingut de { $trackername } han estat bloquejats
+smartblock-placeholder-desc = Les configuracions de { -brand-short-name } han bloquejat aquest contingut per evitar que us faci seguiment a través de llocs web o s'utilitzi per a anuncis.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Permet a { $websitehost }
+
 ##
 
 protections-panel-settings-label = Paràmetres de protecció

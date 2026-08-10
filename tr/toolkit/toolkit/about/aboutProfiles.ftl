@@ -28,7 +28,7 @@ profiles-localdir = Yerel klasör
 profiles-current-profile = Bu profil şu anda kullanıldığı için silinemez.
 profiles-in-use-profile = Bu profil başka bir uygulama tarafından kullanılmakta olduğu için silinemez.
 profiles-cannot-delete-profile = Başka profillerle bağlantılı bir profili silemezsiniz.
-profiles-rename = Adını değiștir
+profiles-rename = Adını değiştir
 profiles-remove = Sil
 profiles-set-as-default = Varsayılan profil yap
 profiles-launch-profile = Profili yeni tarayıcıda aç
@@ -49,7 +49,7 @@ profiles-delete-profile-title = Profili sil
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
     Bir profili silerseniz o profil, kullanılabilir profiller listesinden kaldırılır ve bu eylem geri alınamaz.
-    Ayarlarınızı, sertifikalarınızı ve kullanıcıyla ilişkili diğer verileri içeren profil veri dosyalarını da silebilirsiniz. Bu eylem  “{ $dir }” klasörünü siler ve geri alınamaz.
+    Ayarlarınızı, sertifikalarınızı ve kullanıcıyla ilişkili diğer verileri içeren profil veri dosyalarını da silebilirsiniz. Bu eylem “{ $dir }” klasörünü siler ve geri alınamaz.
     Profil veri dosyalarını silmek istiyor musunuz?
 profiles-delete-files = Dosyaları sil
 profiles-dont-delete-files = Dosyaları silme

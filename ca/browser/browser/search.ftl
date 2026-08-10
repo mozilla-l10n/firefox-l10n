@@ -38,12 +38,14 @@ remove-search-engine-button = D'acord
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = A causa d'un problema tècnic, el motor de cerca predeterminat ha estat restaurat a { $newEngine }. Per canviar el motor de cerca predeterminat, aneu a la configuració.
 reset-search-settings-button = D’acord
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Voleu afegir { $engineName } com a motor de cerca?
 install-search-engine-add = Afegeix
 install-search-engine-no = No
 
@@ -59,6 +61,9 @@ add-engine-button = Afegeix un motor personalitzat
 add-engine-name = Nom del motor de cerca
 add-engine-url2 = URL amb %s en el lloc del terme de cerca
 add-engine-keyword2 = Paraula clau (opcional)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Dades POST amb %s en el lloc del terme de cerca (deixeu-ho en blanc per a GET)
+add-engine-suggest-url = URL de suggeriments amb %s en el lloc del terme de cerca (opcional)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
