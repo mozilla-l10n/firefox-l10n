@@ -992,6 +992,38 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+home-homepage-title =
+    .label = صفحة البداية
+home-homepage-new-windows =
+    .label = نوافذ جديدة
+home-homepage-new-tabs =
+    .label = الألسنة الجديدة
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = اختر موقعًا محددًا
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = عنوان(عناوين) الموقع الإلكتروني
+home-custom-homepage-address =
+    .placeholder = أدخل العنوان
+home-custom-homepage-address-button =
+    .label = أضف عنوانًا
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = لم تُضاف أي مواقع إلكترونية حتى الآن.
+home-custom-homepage-delete-address-button =
+    .aria-label = احذف العنوان
+    .title = احذف العنوان
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = استبدل ب
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = الصفحات المفتوحة حاليًا
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = العلامات…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
