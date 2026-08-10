@@ -620,6 +620,33 @@ mlmodel-addon-detail-model-card-link-label = Ikusi Hugging Face webgunean
 find-more-addons-promo =
     .heading = Moldatu { -brand-product-name } zure gustura
     .message = Gehitu tresnak eta estiloak zure behar eta nahierara moldatzeko.
+find-more-addons-promo-open-amo-button = Arakatu hedapenak eta itxurak
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Bilatu zure hurrengo gogoko hedapena
+    .message = Pertsonalizatu { -brand-product-name } arreta, pribatutasuna, erosketak eta gehiagorako tresnekin.
+find-more-extensions-promo-open-amo-button = Arakatu hedapenak
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Bilatu itxura berri gehiago
+    .message = Aukeratu { -brand-product-name } zure erara moldatzeko estiloak.
+find-more-themes-promo-open-amo-button = Arakatu itxurak
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Hedapen gutxi batzuekin asko lor daiteke
+    .message = Zure arreta, pribatutasuna eta gehiago hobetzen laguntzeko gomendioak ditugu.
+list-empty-get-extensions-promo-button = Bilatu zure lehen hedapena
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
@@ -632,9 +659,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Gailua
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } itxurak
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Erakutsi gehiago
+aboutaddons-themes-picker-see-less = Erakutsi gutxiago
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Gaitu
+aboutaddons-themes-picker-disable-button =
+    .label = Desgaitu
+aboutaddons-themes-picker-install-button =
+    .label = Instalatu
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Ezin izan dugu zure itxura eguneratu. Egiaztatu zure konexioa eta saiatu berriro.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

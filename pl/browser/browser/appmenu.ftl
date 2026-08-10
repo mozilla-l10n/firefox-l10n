@@ -324,8 +324,8 @@ appmenu-about =
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
-    .label = Udostępnij { -brand-shorter-name(case: "acc") }
-    .accesskey = U
+    .label = Podziel się { -brand-shorter-name(case: "ins") }
+    .accesskey = d
 appmenu-get-help =
     .label = Pomoc
     .accesskey = P

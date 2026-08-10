@@ -133,6 +133,14 @@ taskbar-tabs-media-callout-subtitle = Starten Sie Ihre Streaming-Websites wie ei
 taskbar-tabs-value-prop-callout-title = Diese Website zur Taskleiste hinzufügen
 taskbar-tabs-value-prop-callout-subtitle = Starten Sie es in einem eigenen Fenster und einer vereinfachten Benutzeroberfläche mit einem einzigen Klick.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+taskbar-tabs-value-prop-callout-title-v3 = Heften Sie Ihre Lieblings-Webseiten an die Taskleiste
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Verlieren Sie beim Umstieg zu Windows 11 nicht alles, was Sie gespeichert haben.

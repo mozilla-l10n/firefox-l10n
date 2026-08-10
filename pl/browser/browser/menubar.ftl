@@ -15,7 +15,7 @@ menu-application-set-as-default =
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
-    .label = Udostępnij { -brand-shorter-name(case: "acc") }
+    .label = Podziel się { -brand-shorter-name(case: "ins") }
 menu-application-services =
     .label = Usługi
 menu-application-hide-this =
@@ -383,4 +383,4 @@ menu-report-broken-site =
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 menu-referrals =
-    .label = Udostępnij { -brand-shorter-name(case: "acc") }
+    .label = Podziel się { -brand-shorter-name(case: "ins") }

@@ -1445,7 +1445,7 @@ pinned-tabs-drop-indicator = Nometiet šeit cilni, lai to piespraustu
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Vai atvērt iepriekšējās cilnes?</strong> Iepriekšējo sesiju varat atjaunot { -brand-short-name } lietotnes izvēlnē <img data-l10n-name="icon"/> sadaļā Vēsture.
+restore-session-startup-suggestion-message = <strong>Vai atvērt iepriekšējās cilnes?</strong> Iepriekšējo sesiju var atjaunot { -brand-short-name } lietotnes izvēlnē <img data-l10n-name="icon"/> sadaļā “Vēsture”.
 restore-session-startup-suggestion-button = Atvērt pamācību
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy

@@ -12,4 +12,4 @@ refresh-profile =
 troubleshoot-mode-description = Izmantojiet šo īpašo { -brand-short-name } režīmu, lai diagnosticētu problēmas. Jūsu paplašinājumi un pielāgojumi tiks īslaicīgi izslēgti.
 skip-troubleshoot-refresh-profile = Varat arī izlaist problēmu novēršanu un tā vietā atsvaidzināt { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes.
-auto-safe-mode-description = { -brand-short-name } negaidīti aizvērās ielādes laikā. Šo var izraisīt papildinājumi vai citas problēmas. Lai atrisinātu šo varat atjaunot { -brand-short-name } uz sākotnējo stāvokli vai arī meklēt problēmas risinājumu Drošajā režīmā.
+auto-safe-mode-description = { -brand-short-name } negaidīti aizvērās palaišanas laikā. To var izraisīt papildinājumi vai citas nebūšanas. To var mēģināt risināt ar nepilnību novēršanu drošajā režīmā.
