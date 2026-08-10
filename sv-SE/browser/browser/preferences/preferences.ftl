@@ -986,6 +986,38 @@ use-current-pages =
 choose-bookmark =
     .label = Använd bokmärke…
     .accesskey = d
+home-homepage-title =
+    .label = Startsida
+home-homepage-new-windows =
+    .label = Nya fönster
+home-homepage-new-tabs =
+    .label = Nya flikar
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Välj en specifik webbplats
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Webbadress(er)
+home-custom-homepage-address =
+    .placeholder = Ange adress
+home-custom-homepage-address-button =
+    .label = Lägg till adress
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Inga webbplatser tillagda ännu.
+home-custom-homepage-delete-address-button =
+    .aria-label = Ta bort adress
+    .title = Ta bort adress
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Ersätt med
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = För närvarande öppna sidor
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Bokmärken…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
