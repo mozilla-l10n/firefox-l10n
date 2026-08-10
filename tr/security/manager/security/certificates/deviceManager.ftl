@@ -39,7 +39,7 @@ devmgr-button-disable-fips =
 ## Strings used for load device
 
 load-device =
-    .title = PKCS #11 aygıt sürücüsünü yükle
+    .title = PKCS#11 aygıt sürücüsünü yükle
 load-device-info = Eklemek istediğiniz modülle ilgili bilgileri girin.
 load-device-modname =
     .value = Modül adı

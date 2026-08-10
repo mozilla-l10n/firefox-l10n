@@ -634,6 +634,9 @@ find-more-addons-promo-open-amo-button = Rozšěrjenja a drasty wuslědźić
 ## Project Nova styles are enabled.
 ## In the message, "tools" refers to Firefox extensions.
 
+find-more-extensions-promo =
+    .heading = Namakajće swoje přichodne najlubše rozšěrjenje
+    .message = Přiměrće { -brand-product-name } z nastrojemi za fokus, priwatnosć, nakupowanje a wjace.
 find-more-extensions-promo-open-amo-button = Rozšěrjenja wuslědźić
 
 ## Promo footer shown in the about:addons themes list view when
