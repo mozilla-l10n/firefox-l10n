@@ -986,6 +986,11 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensión ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2768,3 +2773,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = La autoconfiguración de proxy está activada
     .description = La autoconfiguración de proxy podría permitir que redes no confiables supervisen tu actividad.
+
+## Referrals Section
+
