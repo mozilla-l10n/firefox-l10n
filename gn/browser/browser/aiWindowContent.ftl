@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] Embyaty { $count } tendayke
        *[other] Embyaty { $count } tendaykeita
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Jeike
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Embojuruja { $count } tendayke
+       *[other] Embojuruja { $count } tendaykeita
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } tendayke mbyatypyre
        *[other] { $count } tendaykeita mbyatypyre
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Tendaykeita aty
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,22 @@ smart-window-grouped-tabs-summary =
        *[other] Heñóima aty “{ $label }” ha ojuajúma { $count } tendaykeita.
     }
 smart-window-grouped-tabs-row-label = Tendayke mbyatypyre
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } tendayke ijurujáva
+       *[other] { $count } tendaykeita ijurujáva
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } tendayke ijurujáva.
+       *[other] { $count } tendaykeita ijurujáva.
+    }
+smart-window-opened-tabs-row-label = Tendayke ijurujáva
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Tendayke jepe’apyre
 # Variables
