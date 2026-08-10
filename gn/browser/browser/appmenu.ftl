@@ -299,6 +299,14 @@ appmenu-search-history =
 
 appmenu-sync-promo-signin =
     .heading = Ereko mba’e’okaita mbojuehépe
+appmenu-sync-promo-signin-cta = Eike
+appmenu-sync-promo-turnonsync =
+    .heading = Embojuehe tendayke ha tembiasakue
+appmenu-sync-promo-turnonsync-cta = Emyandy ñembojuehe
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Ejagarra nde tabletaita
+appmenu-sync-promo-connectdevice-cta = Embojuaju mba’e’oka
 
 ## Help panel
 
