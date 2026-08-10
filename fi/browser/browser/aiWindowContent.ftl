@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] Ryhmitä { $count } välilehti
        *[other] Ryhmitä { $count } välilehteä
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Avaa
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Avaa { $count } välilehti
+       *[other] Avaa { $count } välilehteä
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] Ryhmitetty { $count } välilehti
        *[other] Ryhmitetty { $count } välilehteä
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Välilehtiryhmä
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,21 @@ smart-window-grouped-tabs-summary =
        *[other] Luotiin ryhmä “{ $label }” ja lisättiin { $count } välilehteä.
     }
 smart-window-grouped-tabs-row-label = Ryhmitetyt välilehdet
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Avattu { $count } välilehti
+       *[other] Avattu { $count } välilehteä
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Avattu { $count } välilehti.
+       *[other] Avattu { $count } välilehteä.
+    }
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Ryhmästä puretut välilehdet
 # Variables

@@ -19,6 +19,28 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validated
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Isolation Key
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } vanhentunut)
+       *[other] ({ $count } vanhentunut)
+    }
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } kt ({ $percent } %)
+about-networking-ssl-tokens-expires = Vanhenee
+about-networking-ssl-tokens-certificate = Varmenne
+about-networking-ssl-tokens-expired =
+    .alt = Vanhentunut
+    .title = Vanhentunut
+about-networking-ssl-tokens-ev-status = EV-varmenne
+about-networking-ssl-tokens-ct-status = Varmenteiden läpinäkyvyyden CT-tila
+about-networking-ssl-tokens-built-in-root = Sisäänrakennettu juuri
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Varmenneketju ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Kättelyvarmenteet ({ $count })
 about-networking-refresh = Refresh
 about-networking-auto-refresh = Autorefresh every 3 seconds
 about-networking-hostname = Hostname
