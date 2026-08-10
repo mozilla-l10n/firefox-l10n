@@ -43,6 +43,8 @@ pane-general-title = Vispārīgi
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Sākums
+pane-home-startup-title2 = Sākums un palaišana
+    .title = Sākums un palaišana
 pane-search-title2 = Meklēšana
     .title = Meklēšana
 pane-privacy-title3 = Privātums un drošība
@@ -617,6 +619,8 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Jaunus logus un cilnes
 home-new-windows-tabs-description2 = Izvēlieties, ko rādīt atverot jaunu lapu, logu vai cilni.
+home-section =
+    .heading = Sākums un palaišana
 
 ## Home Section - Default Browser
 

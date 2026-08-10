@@ -146,6 +146,12 @@ taskbar-tabs-email-callout-title-v3 = Mantene tu cassa de entrata in tu barra de
 taskbar-tabs-email-callout-subtitle-v3 = Lancea tu sitos de e-mails como un application in un fenestra simplificate protecte per { -brand-short-name }.
 taskbar-tabs-media-callout-title-v3 = Mantene tu diffusiones multimedial in tu barra del cargas
 taskbar-tabs-media-callout-subtitle-v3 = Lancea tu sitos multimedial como un application in un fenestra simplificate protecte per { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Affixa tu sitos favorite a tu barra del cargas
+taskbar-tabs-value-prop-callout-subtitle-v3 = Lancea qualcunque sito como un application in un fenestra simplificate protecte per { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Retorna al jocos ab tu barra del cargas
+taskbar-tabs-gaming-callout-subtitle-v3 = Lancea tu sitos de jocos como un application in un fenestra simplificate protecte per { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Affixa a barra del cargas
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
