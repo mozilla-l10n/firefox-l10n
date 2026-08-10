@@ -974,6 +974,38 @@ use-current-pages =
 choose-bookmark =
     .label = 使用書籤…
     .accesskey = B
+home-homepage-title =
+    .label = 首頁
+home-homepage-new-windows =
+    .label = 新視窗
+home-homepage-new-tabs =
+    .label = 新分頁
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = 選擇特定網站
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = 網站網址
+home-custom-homepage-address =
+    .placeholder = 請輸入網址
+home-custom-homepage-address-button =
+    .label = 新增網址
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = 尚未加入任何網站。
+home-custom-homepage-delete-address-button =
+    .aria-label = 刪除地址
+    .title = 刪除地址
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = 取代為
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = 目前開啟的頁面
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = 書籤…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
