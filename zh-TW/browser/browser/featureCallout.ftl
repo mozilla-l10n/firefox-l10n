@@ -139,6 +139,17 @@ taskbar-tabs-value-prop-callout-subtitle = 只要一點，即可透過簡化的�
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = 從工具列保持連線
+taskbar-tabs-email-callout-title-v3 = 從工具列直接開啟收件匣
+taskbar-tabs-email-callout-subtitle-v3 = 用如同應用程式一般的方式，以流線化的視窗開啟您的網頁郵件服務，同時受到 { -brand-short-name } 保護。
+taskbar-tabs-media-callout-title-v3 = 將您的影片網站放在工具列
+taskbar-tabs-media-callout-subtitle-v3 = 用如同應用程式一般的方式，以流線化的視窗開啟您的影音媒體網站，同時受到 { -brand-short-name } 保護。
+taskbar-tabs-value-prop-callout-title-v3 = 將您最愛的網站釘選至工具列
+taskbar-tabs-value-prop-callout-subtitle-v3 = 用如同應用程式一般的方式，以流線化的視窗開啟任何網站，同時受到 { -brand-short-name } 保護。
+taskbar-tabs-gaming-callout-title-v3 = 從工作列直接回到遊戲
+taskbar-tabs-gaming-callout-subtitle-v3 = 用如同應用程式一般的方式，以流線化的視窗開啟您的遊戲網站，同時受到 { -brand-short-name } 保護。
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = 釘選到工作列
 
