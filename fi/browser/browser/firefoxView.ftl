@@ -45,6 +45,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Kirjaudu sisään { -brand-prod
 firefoxview-syncedtabs-adddevice-primarybutton = Kokeile { -brand-product-name }ia mobiililaitteella
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Välilehdet yrittivät tavoitella sinua. Ne ovat puhelimessasi.
+firefoxview-syncedtabs-adddevice-description-3 = Skannaa QR-koodi saadaksesi { -brand-product-name }in mobiililaitteille, ja aloittaaksesi avointen välilehtien synkronoinnin ja paljon muuta. Lue lisää <a data-l10n-name="url">lisälaitteiden yhdistämisestä</a>.
 firefoxview-tabpickup-synctabs-header = Ota välilehtien synkronointi käyttöön
 firefoxview-tabpickup-synctabs-description = Salli { -brand-short-name }in jakaa välilehtiä laitteiden välillä.
 firefoxview-tabpickup-synctabs-learn-how = Lue lisää
@@ -70,6 +71,9 @@ firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } ei voi mu
 firefoxview-tabpickup-network-offline-description-2 = Saatat olla yhteydettömässä tilassa, tai jokin saattaa estää yhteyden.
 firefoxview-tabpickup-sync-error-header = Synkronoinnin kanssa on ongelmia
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } ei saa yhteyttä synkronointipalveluun juuri nyt. Yritä uudelleen hetken kuluttua.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Synkronointi kohtasi ongelman
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } ei voinut muodostaa yhteyttä. Odota hetki ja yritä uudelleen.
 firefoxview-tabpickup-sync-error-primarybutton = Yritä uudelleen
 firefoxview-tabpickup-sync-disconnected-header = Ota synkronointi käyttöön jatkaaksesi
 firefoxview-tabpickup-sync-disconnected-description = Jotta pääset käyttämään välilehtiäsi, sinun tulee sallia { -brand-short-name }in synkronointi.
@@ -79,6 +83,8 @@ firefoxview-tabpickup-password-locked-description = Jotta pääset käyttämää
 firefoxview-tabpickup-password-locked-link = Lue lisää
 firefoxview-tabpickup-password-locked-primarybutton = Kirjoita pääsalasana
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Lisätietoja</a>
+firefoxview-tabpickup-password-locked-header-2 = Avaa välilehtien suojaus pääsalasanalla
+firefoxview-tabpickup-password-locked-description-2 = Tietosuojan vuoksi synkronoidut välilehdet on suojattu. Syötä { -brand-short-name }in pääsalasana nähdäksesi välilehdet muilta laitteiltasi.
 firefoxview-tabpickup-signed-out-header = Kirjaudu yhdistääksesi uudelleen
 firefoxview-tabpickup-signed-out-description = Muodosta yhteys uudelleen ja nouda välilehdet kirjautumalla sisään { -fxaccount-brand-name }llesi.
 firefoxview-tabpickup-signed-out-description2 = Muodosta yhteys uudelleen ja nouda välilehdet kirjautumalla sisään tilillesi.
@@ -229,6 +235,7 @@ firefoxview-history-empty-description-two = Yksityisyytesi suojaaminen on toimin
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
 firefoxview-history-empty-header-2 = Selauspolkusi alkaa tästä
+firefoxview-history-empty-description-2 = Kun vierailet sivuilla, sivuhistoria ilmestyy tänne. Voit hallita muistettavia tietoja <a data-l10n-name="history-settings-url">asetuksissa</a>.
 
 ##
 
@@ -240,6 +247,9 @@ firefoxview-choose-browser-button = Valitse selain
 
 firefoxview-dont-remember-history-empty-header-2 = Sinä hallitset, mitä { -brand-short-name } muistaa
 firefoxview-dont-remember-history-empty-description-one = Tällä hetkellä { -brand-short-name } ei muista selaustoimintaasi. Voit muuttaa tätä <a data-l10n-name="history-settings-url-two">päivittämällä historia-asetukset</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Tietojasi ei talleteta
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } ei tallenna sivuhistoriaa juuri nyt. Voit muuttaa tätä milloin tahansa <a data-l10n-name="history-settings-url-two">asetuksissa</a>.
 
 ##
 

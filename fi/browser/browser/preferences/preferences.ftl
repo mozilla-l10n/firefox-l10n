@@ -1732,6 +1732,19 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Osoitteita ei ole lisätty
+passports-list-header =
+    .label = Passit
+passports-delete-passport-button-label =
+    .aria-label = Poista
+passports-edit-passport-button-label =
+    .aria-label = Muokkaa
+passports-delete-passport-prompt-title = Poistetaanko tämä passi?
+passports-delete-passport-prompt-confirm-button = Poista
+passports-delete-passport-prompt-cancel-button = Peruuta
+autofill-passports-add-button = Lisää uusi passi
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Passeja ei ole lisätty
 pane-passwords-autofill-title2 = Salasanat ja automaattinen täyttö
     .title = Salasanat ja automaattinen täyttö
 preferences-passwords-autofill-header =
