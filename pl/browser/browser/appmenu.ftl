@@ -52,7 +52,7 @@ appmenuitem-zoom =
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 appmenuitem-referrals =
-    .label = Udostępnij { -brand-product-name(case: "acc") }
+    .label = Podziel się { -brand-product-name(case: "ins") }
 appmenuitem-more-tools =
     .label = Więcej narzędzi
 # Menu combining the previous "Help" menu and report broken site
@@ -336,7 +336,7 @@ appmenu-help-report-site-issue =
     .label = Zgłoś problem ze stroną…
 appmenu-help-share-ideas =
     .label = Podziel się pomysłami i opiniami…
-    .accesskey = d
+    .accesskey = m
 appmenu-help-switch-device =
     .label = Przechodzenie na nowe urządzenie
 # Menu header for combination of "Help" menu and report broken site
@@ -437,7 +437,7 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = Czym są profile?
 # Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = Udostępnij { -brand-short-name(case: "acc") }
+appmenuitem-share-firefox-title = Podziel się { -brand-short-name(case: "ins") }
 appmenuitem-share-firefox-description = Zachęć kogoś do wybrania przeglądarki, która stawia prywatność na pierwszym miejscu
 appmenu-profiles-2 =
     .label = Profile

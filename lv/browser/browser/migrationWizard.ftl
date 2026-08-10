@@ -130,7 +130,7 @@ migration-wizard-progress-success-updated-passwords =
 migration-bookmarks-from-file-picker-title = Importēt grāmatzīmju datni
 migration-bookmarks-from-file-progress-header = Importē grāmatzīmes
 migration-bookmarks-from-file = Grāmatzīmes
-migration-bookmarks-from-file-success-header = Grāmatzīmes ir veiksmīgi importētas
+migration-bookmarks-from-file-success-header = Grāmatzīmes sekmīgi ievietotas
 migration-bookmarks-from-file-no-valid-data = Datne nesatur nekādus grāmatzīmju datus. Izvēlieties citu datni.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
