@@ -389,6 +389,16 @@ use-current-pages =
 choose-bookmark =
     .label = Úsáid Leabharmharc…
     .accesskey = L
+home-homepage-title =
+    .label = Leathanach Baile
+home-homepage-new-windows =
+    .label = Fuinneoga nua
+home-homepage-new-tabs =
+    .label = Cluaisíní nua
+home-custom-homepage-address =
+    .placeholder = Cuir isteach seoladh
+home-custom-homepage-address-button =
+    .label = Cuir seoladh leis
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Leabharmharcanna…
