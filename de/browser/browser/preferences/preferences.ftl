@@ -986,6 +986,38 @@ use-current-pages =
 choose-bookmark =
     .label = Lesezeichen verwenden…
     .accesskey = L
+home-homepage-title =
+    .label = Startseite
+home-homepage-new-windows =
+    .label = Neue Fenster
+home-homepage-new-tabs =
+    .label = Neue Tabs
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Wählen Sie eine bestimmte Website
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Website-Adresse(n)
+home-custom-homepage-address =
+    .placeholder = Adresse eingeben
+home-custom-homepage-address-button =
+    .label = Adresse hinzufügen
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Noch keine Websites hinzugefügt.
+home-custom-homepage-delete-address-button =
+    .aria-label = Adresse löschen
+    .title = Adresse löschen
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Ersetzen durch
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Derzeit geöffnete Seiten
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Lesezeichen…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
