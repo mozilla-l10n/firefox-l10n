@@ -986,6 +986,11 @@ use-current-pages =
 choose-bookmark =
     .label = Χρήση σελιδοδείκτη…
     .accesskey = σ
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Επέκταση ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2782,3 +2787,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Η αυτόματη ρύθμιση διακομιστή μεσολάβησης είναι ενεργή
     .description = Η αυτόματη ρύθμιση διακομιστή μεσολάβησης θα μπορούσε να επιτρέψει σε αναξιόπιστα δίκτυα να παρακολουθήσουν τη δραστηριότητά σας.
+
+## Referrals Section
+
