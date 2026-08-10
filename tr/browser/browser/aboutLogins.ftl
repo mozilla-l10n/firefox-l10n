@@ -254,7 +254,7 @@ about-logins-confirm-remove-all-dialog-message =
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] { $count } hesap hepsi tüm cihazlardan kaldırılsın mı?
+        [one] { $count } hesap tüm cihazlardan kaldırılsın mı?
        *[other] { $count } hesabın hepsi tüm cihazlardan kaldırılsın mı?
     }
 about-logins-confirm-remove-all-sync-dialog-message =

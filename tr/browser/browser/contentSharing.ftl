@@ -49,7 +49,7 @@ content-sharing-modal-too-many-pages =
             [one] { $count } sayfa paylaştınız
            *[other] { $count } sayfa paylaştınız
         }
-    .message = Sayfalarınızından birinin süresi dolduktan sonra yeniden deneyin.
+    .message = Sayfalarınızdan birinin süresi dolduktan sonra yeniden deneyin.
 content-sharing-modal-some-invalid-links = Bazı bağlantılar paylaşılamıyor.
 content-sharing-modal-generic-error-2 =
     .heading = Bir sorun oluştu
