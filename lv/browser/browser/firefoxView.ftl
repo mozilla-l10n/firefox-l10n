@@ -174,7 +174,7 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Nav rezultātu vaicājumam “{ $query }”
 firefoxview-sort-history-by-date-label = Kārtot pēc datuma
 firefoxview-sort-history-by-site-label = Kārtot pēc vietnes
-firefoxview-sort-open-tabs-by-recency-label = Kārtot pēc nesenākās aktivitātes
+firefoxview-sort-open-tabs-by-recency-label = Kārtot pēc nesenākās darbības
 firefoxview-sort-open-tabs-by-order-label = Kārtot pēc ciļņu secības
 
 ## Variables:

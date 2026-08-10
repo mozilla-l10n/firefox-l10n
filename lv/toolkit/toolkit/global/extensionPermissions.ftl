@@ -29,4 +29,4 @@ webext-perms-description-sessions = Pieeja nesen aizvērtajām cilnēm
 webext-perms-description-tabs = Pieeja pārlūka cilnēm
 webext-perms-description-tabHide = Paslēpt un parādīt pārlūka cilnes
 webext-perms-description-topSites = Pieeja pārlūkošanas vēsturei
-webext-perms-description-webNavigation = Pieeja pārlūkošanas aktivitātēm navigācijas laikā
+webext-perms-description-webNavigation = Piekļuve pārlūkošanas darbībām pārvietošanās laikā

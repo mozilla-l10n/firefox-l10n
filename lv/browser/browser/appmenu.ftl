@@ -300,7 +300,7 @@ appmenuitem-relay-description = Maskējiet savu īsto e-pastu un tālruni
 appmenuitem-services-relay-description = Atvērt e-pasta masku informācijas paneli
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Iegūstiet visas ierīces aizsardzību
-appmenuitem-vpn-description = Aizsargājiet savas tiešsaistes aktivitātes
+appmenuitem-vpn-description = Aizsargā savas tiešsaistes darbības
 appmenu-services-header = Mani pakalpojumi
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
