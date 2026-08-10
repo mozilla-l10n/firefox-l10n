@@ -969,6 +969,11 @@ use-current-pages =
 choose-bookmark =
     .label = ใช้ที่คั่นหน้า…
     .accesskey = ท
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = ส่วนขยาย ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2706,3 +2711,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = การกำหนดค่าพร็อกซีอัตโนมัติถูกเปิดใช้งาน
     .description = การกำหนดค่าพร็อกซีอัตโนมัติอาจทำให้เครือข่ายที่ไม่เชื่อถือเฝ้าสังเกตกิจกรรมของคุณได้
+
+## Referrals Section
+
