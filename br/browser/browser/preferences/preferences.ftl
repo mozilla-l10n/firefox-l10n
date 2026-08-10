@@ -482,6 +482,15 @@ update-in-progress-ok-button = &Argas
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Digonusted
@@ -543,6 +552,9 @@ browsing-cfr-recommendations-learn-more = Gouzout hiroc’h
 browsing-group =
     .label = Furchal
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Arventennoù ar rouedad
@@ -592,6 +604,16 @@ use-current-pages =
 choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
+home-homepage-new-tabs =
+    .label = Ivinelloù nevez
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Askouezh ({ $extension })
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -785,6 +807,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } n'eo ket gwiriet.
 sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1004,6 +1031,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Gouzout hiroc’h
 forms-windows-sso-desc = Merañ ar c'hontoù e arventennoù ho trevnad
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -1121,6 +1151,9 @@ sitedata-cookies-exceptions =
     .accesskey = M
 cookies-site-data-group =
     .label = Toupinoù ha roadennoù lec'hienn
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1344,6 +1377,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Gwelout studiadennoù { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1426,8 +1462,29 @@ preferences-doh-manage-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Burev
 downloads-folder-name = Pellgargadurioù
 choose-download-folder-title = Dibab un teuliad pellgargañ
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+
