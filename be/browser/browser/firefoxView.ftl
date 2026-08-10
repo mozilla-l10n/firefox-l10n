@@ -236,6 +236,7 @@ firefoxview-history-empty-description-two = Ахова вашай прыватн
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
 firefoxview-history-empty-header-2 = Ваш шлях аглядання пачынаецца тут
+firefoxview-history-empty-description-2 = Па меры наведвання старонак ваша гісторыя будзе адлюстроўвацца тут. Кіруйце тым, што запамінаецца, у <a data-l10n-name="history-settings-url">наладах</a>.
 
 ##
 
@@ -247,6 +248,9 @@ firefoxview-choose-browser-button = Выбраць браўзер
 
 firefoxview-dont-remember-history-empty-header-2 = Вы самі кіруеце тым, што запамінае { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = На дадзены момант { -brand-short-name } не запамінае вашу дзейнасць у сеціве. Каб змяніць гэта, <a data-l10n-name="history-settings-url-two">абнавіце налады гісторыі</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Вас не запісваюць
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } зараз не захоўвае вашу гісторыю. Змяніць гэта можна ў кожную хвіліну ў <a data-l10n-name="history-settings-url-two">наладах</a>.
 
 ##
 
