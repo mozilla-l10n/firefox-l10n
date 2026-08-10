@@ -54,7 +54,7 @@ webauthn-select-device-prompt = { $hostname } için birden fazla cihaz bulundu. 
 webauthn-device-blocked-prompt = { $hostname } adresinde kullanıcı doğrulaması başarısız oldu. Pek çok kez yanlış PIN girildiği için deneme hakkı kalmadı ve cihazınız kilitlendi. Cihazın sıfırlanması gerekiyor.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
-webauthn-pin-auth-blocked-prompt = { $hostname } kullanıcı doğrulaması başarısız oldu. Arka arkaya çok fazla başarısız deneme yaptığınız için PIN kimlik doğrulaması geçici olarak engellendi. Cihazınızı kapatıp açmanız gerekiyor. (Söküp yeniden takın.)
+webauthn-pin-auth-blocked-prompt = { $hostname } sitesinde kullanıcı doğrulaması başarısız oldu. Arka arkaya çok fazla başarısız deneme yaptığınız için PIN kimlik doğrulaması geçici olarak engellendi. Cihazınızı kapatıp açmanız gerekiyor. (Söküp yeniden takın.)
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-not-set-prompt = { $hostname } sitesinde kullanıcı doğrulaması başarısız oldu. Cihazınıza PIN tanımlamanız gerekebilir.

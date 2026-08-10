@@ -48,8 +48,8 @@ profiles-delete-profile-title = Profili sil
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
-    Bir profili silerseniz o profil, kullanılabilir profiller listesinden kaldırılır ve bu eylem geri alınamaz.
-    Ayarlarınızı, sertifikalarınızı ve kullanıcıyla ilişkili diğer verileri içeren profil veri dosyalarını da silebilirsiniz. Bu eylem “{ $dir }” klasörünü siler ve geri alınamaz.
+    Bir profili silmek, profili kullanılabilir profiller listesinden kaldırır ve bu eylem geri alınamaz.
+    Ayarlarınızı, sertifikalarınızı ve kullanıcıyla ilişkili diğer verileri içeren profil veri dosyalarını da silebilirsiniz. Bu seçenek “{ $dir }” klasörünü siler ve bu eylem geri alınamaz.
     Profil veri dosyalarını silmek istiyor musunuz?
 profiles-delete-files = Dosyaları sil
 profiles-dont-delete-files = Dosyaları silme
