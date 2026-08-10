@@ -430,5 +430,35 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Дзейны профіль выкарыстоўваецца
 fxa-menu-create-profile-subpanel =
     .title = Стварыць новы профіль
+fxa-menu-create-profile-heading = Выйдзіце на новы ўзровень аглядання з дапамогай новага профілю
+fxa-menu-create-profile-description = Трымайце свае закладкі, паролі і гісторыю асобна для працы і для асабістага аглядання.
+fxa-menu-create-profile-confirm =
+    .label = Стварыць новы профіль
+fxa-menu-create-profile-learn-more =
+    .label = Што такое профілі?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Падзяліцца { -brand-short-name }
+appmenuitem-share-firefox-description = Запрасіце каго-небудзь выбраць браўзер, які ставіць прыватнасць на першае месца
 appmenu-profiles-2 =
     .label = Профілі
+appmenu-profiles-header = Профілі
+appmenu-all-profiles =
+    .label = Усе профілі
+appmenu-secure-sync-header = Бяспечная сінхранізацыя
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Нядаўнія карткі
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Паглядзець { $tabCount } сінхранізаваную картку
+            [few] Паглядзець { $tabCount } сінхранізаваныя карткі
+           *[many] Паглядзець { $tabCount } сінхранізаваных картак
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Адправіць дзейную старонку на гэту прыладу

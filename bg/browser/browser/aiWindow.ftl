@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chrome
+
+smartwindow-fullpage-heading = { -smart-window-brand-name }
+
 ## Smart Window Toggle Button
 
 ai-window-toggleview-switch-ai =

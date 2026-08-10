@@ -32,6 +32,7 @@ smart-window-closed-and-restored-label = Затворени и възстано�
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Група
 smart-window-grouped-tabs-row-label = Групирани раздели
+smart-window-opened-tabs-row-label = Отворени раздели
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Разделите са разгрупирани
 
