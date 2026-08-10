@@ -142,6 +142,10 @@ taskbar-tabs-value-prop-callout-subtitle = Lancea lo in su proprie fenestra e in
 # Treatment B changes only the title for chat; the subtitle is unchanged from
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = Resta connexe ab tu barra del cargas
+taskbar-tabs-email-callout-title-v3 = Mantene tu cassa de entrata in tu barra del cargas
+taskbar-tabs-email-callout-subtitle-v3 = Lancea tu sitos de e-mails como un application in un fenestra simplificate protecte per { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Mantene tu diffusiones multimedial in tu barra del cargas
+taskbar-tabs-media-callout-subtitle-v3 = Lancea tu sitos multimedial como un application in un fenestra simplificate protecte per { -brand-short-name }.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

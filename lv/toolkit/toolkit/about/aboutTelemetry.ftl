@@ -78,10 +78,10 @@ about-telemetry-results-for-search = “{ $searchTerms }” meklēšanas iznāku
 # Variables:
 #   $sectionName (string) - The section name from the structure of the ping.
 #   $currentSearchText (string) - The current text in the search input
-about-telemetry-no-search-results = Diemžēl meklējot “{ $currentSearchText }” iekš { $sectionName } nekas netika atrasts
+about-telemetry-no-search-results = Atvainojamies! { $sectionName } nav nekā ar “{ $currentSearchText }”
 # Variables:
 #   $searchTerms (string) - The searched terms
-about-telemetry-no-search-results-all = Diemžēl meklējot “{ $searchTerms }” visās sadaļās nekas netika atrasts
+about-telemetry-no-search-results-all = Atvainojamies! Nevienā sadaļā nav nekā ar “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (string) - Is replaced by the section name.

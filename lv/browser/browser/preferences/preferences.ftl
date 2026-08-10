@@ -745,7 +745,7 @@ search-show-suggestions-url-bar-option =
 # "before" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option-2 =
-    .label = Adreses joslā rādīt meklēšanas ieteikumus pirms pārlūkošanas vēstures
+    .label = Meklēšanas ieteikumus adreses joslā rādīt pirms pārlūkošanas vēstures
 search-suggestions-cant-show-2 =
     .message = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
 # When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
@@ -755,7 +755,7 @@ addressbar-header-firefox-suggest-2 =
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
-    .label = Rādīt meklēšanas vaicājumu iznākumu lapu adreses joslā
+    .label = Iznākumu lapu adreses joslā rādīt meklēšanas vaicājumu
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -767,7 +767,7 @@ search-show-search-term-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Adreses joslā rādīt meklēšanas ieteikumus pirms pārlūkošanas vēstures
+    .label = Meklēšanas ieteikumus adreses joslā rādīt pirms pārlūkošanas vēstures
 search-show-suggestions-private-windows =
     .label = Rādīt meklēšanas ieteikumus privātajos logos
 suggestions-addressbar-settings-generic2 = Mainīt iestatījumus citiem adreses joslas ieteikumiem
