@@ -12,6 +12,7 @@ webext-perms-description-browserSettings = Lasīt un mainīt pārlūka iestatīj
 webext-perms-description-browsingData = Pārlūkošanas vēstures, sīkdatņu un citu datu tīrīšana
 webext-perms-description-clipboardRead = Nolasīt datus no starpliktuves
 webext-perms-description-clipboardWrite = Nolikt datus starpliktuvē
+webext-perms-description-declarativeNetRequest = Liegt saturu jebkurā lapā
 webext-perms-description-devtools = Paplašiniet izstrādātāju rīkus, lai piekļūtu datiem atvērtajās cilnēs
 webext-perms-description-downloads = Lejupielādēt failus, lasīt un mainīt pārlūka vēsturi
 webext-perms-description-downloads-open = Atvērt failus, kas lejupielādēti jūsu datorā
