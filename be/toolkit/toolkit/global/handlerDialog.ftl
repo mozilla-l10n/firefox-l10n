@@ -79,3 +79,23 @@ choose-app-btn =
 choose-other-app-window-title = Іншая праграма…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Адключана ў прыватных вокнах
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .title = Выберыце праграму электроннай пошты
+    .style = min-width: 26em; min-height: 26em;
+mailto-handler-picker-subtitle = Выберыце праграму, якую вы хочаце выкарыстоўваць для спасылак на электронную пошту. Вы можаце змяніць гэта пазней у наладах.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Заўсёды пытацца ў мяне, калі я націскаю на спасылку ў электроннай пошце
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Зрабіць прадвызначанай
+    .accesskey = ы
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Не зараз
+    .accesskey = Н

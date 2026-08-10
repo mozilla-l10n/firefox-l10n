@@ -96,7 +96,7 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
-aiwindow-firstrun-title = Vítá vás { -smart-window-brand-name }
+aiwindow-firstrun-title = Vítá vás funkce { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Co je pro vás důležité?
 aiwindow-firstrun-model-title-v2 = Vyberte si model, se kterým chcete začít
 aiwindow-firstrun-model-subtitle = Vyberte si model pro funkci { -smart-window-brand-name }. Změnit ho můžete kdykoliv.
@@ -154,7 +154,7 @@ aiwindow-firstrun-memories-relevance-body = Díky informacím získaným při pr
 aiwindow-firstrun-memories-privacy-title = Soukromí již od návrhu
 aiwindow-firstrun-memories-privacy-body = Na tomto zařízení jsou uloženy vzpomínky. Můžete je kdykoli smazat nebo vypnout.
 aiwindow-firstrun-memories-choose-label = Vyberte, z čeho se { -smart-window-brand-name } učí
-aiwindow-firstrun-memories-checkbox-chats = Chaty v { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-chats = Chaty v { -smart-window-brand-name(case: "loc") }
 aiwindow-firstrun-memories-checkbox-browsing =
     { -brand-product-name.case-status ->
         [with-cases] Prohlížení ve { -brand-product-name(case: "loc") }

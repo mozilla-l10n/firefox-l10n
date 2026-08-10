@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
-smart-window-block-title = Blokovat { -smart-window-brand-name }?
+smart-window-block-title = Blokovat { -smart-window-brand-name(case: "acc") }?
 smart-window-block-description-both = Tímto smažete své chaty a vzpomínky funkce { -smart-window-brand-name }.
-smart-window-block-description-chats = Tímto smažete své chaty v { -smart-window-brand-name }.
-smart-window-block-description-memories = Tímto smažete vaše vzpomínky v { -smart-window-brand-name }.
+smart-window-block-description-chats = Tímto smažete své chaty v { -smart-window-brand-name(case: "loc") }.
+smart-window-block-description-memories = Tímto smažete vaše vzpomínky v { -smart-window-brand-name(case: "loc") }.
 ai-window-features-group =
     .label = { -smart-window-brand-name }
     .description = Ptejte se na otázky, porovnávejte stránky, a získejte personalizované nabídky s vestavěným asistentem
@@ -21,7 +21,7 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Výchozí nastavení
 ai-window-is-default-window =
-    .label = Používat ve výchozím nastavení { -smart-window-brand-name }
+    .label = Používat ve výchozím nastavení funkci { -smart-window-brand-name }
     .description = Otevřít { -smart-window-brand-name } při startu, restartu aplikace { -brand-short-name } nebo při otevírání odkazů z jiné aplikace.
 ai-window-open-sidebar =
     .label = Automaticky otevírat asistenta

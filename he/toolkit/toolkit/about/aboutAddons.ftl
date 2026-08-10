@@ -611,6 +611,9 @@ find-more-addons-promo-open-amo-button = עיון בהרחבות וערכות נ
 ## Project Nova styles are enabled.
 ## In the message, "tools" refers to Firefox extensions.
 
+find-more-extensions-promo =
+    .heading = למצוא את ההרחבה המועדפת הבאה שלך
+    .message = ניתן להתאים אישית את { -brand-product-name } בעזרת כלים לשיפור הריכוז, פרטיות, קניות ועוד.
 find-more-extensions-promo-open-amo-button = עיון בהרחבות
 
 ## Promo footer shown in the about:addons themes list view when
@@ -628,6 +631,7 @@ find-more-themes-promo-open-amo-button = עיון בערכות נושא
 list-empty-get-extensions-promo =
     .heading = מספיקות כמה הרחבות כדי לעשות הבדל משמעותי
     .message = יש לנו המלצות שיעזרו לך לשפר את הריכוז, הפרטיות ועוד.
+list-empty-get-extensions-promo-button = בואו ונמצא את ההרחבה הראשונה שלך
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
@@ -640,9 +644,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = מכשיר
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = ערכות נושא של { -brand-product-name }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = להציג יותר
+aboutaddons-themes-picker-see-less = להציג פחות
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = הפעלה
+aboutaddons-themes-picker-disable-button =
+    .label = השבתה
+aboutaddons-themes-picker-install-button =
+    .label = התקנה
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = לא ניתן היה לעדכן את ערכת הנושא שלך. נא לבדוק את החיבור שלך ולנסות שוב.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

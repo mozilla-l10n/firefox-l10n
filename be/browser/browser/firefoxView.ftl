@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Каб атрымаць тут �
 firefoxview-tabpickup-step-signin-primarybutton = Працягнуць
 firefoxview-syncedtabs-signin-header-2 = Ваш { -brand-product-name } на ўсіх вашых прыладах
 firefoxview-syncedtabs-signin-description-2 = Каб пабачыць адкрытыя карткі на тэлефоне і іншых прыладах, увайдзіце ў сістэму або зарэгіструйцеся. З уліковым запісам вы таксама можаце сінхранізаваць свае паролі, гісторыю і многае іншае.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = З ноўтбука на тэлефон, без праблем
+firefoxview-syncedtabs-signin-description-3 = Захоўвайце агляданне звязным паміж прыладамі — карткі, паролі і гісторыя сінхранізуюцца.
 firefoxview-syncedtabs-signin-primarybutton-2 = Увайсці
 firefoxview-tabpickup-adddevice-header = Сінхранізуйце { -brand-product-name } на сваім тэлефоне або планшэце
 firefoxview-tabpickup-adddevice-description = Сцягніце { -brand-product-name } для мабільнага і ўвайдзіце там.
@@ -40,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Атрымаць { -brand-produc
 firefoxview-syncedtabs-adddevice-header-2 = Захоплівайце карткі адусюль
 firefoxview-syncedtabs-adddevice-description-2 = Увайдзіце ў { -brand-product-name } на сваім тэлефоне або іншым камп'ютары, каб убачыць тут карткі. Даведайцеся, як <a data-l10n-name="url">падключыць дадатковыя прылады</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Паспрабаваць { -brand-product-name } для мабільных прылад
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Вашы карткі выкліканы. Яны на вашым тэлефоне.
 firefoxview-tabpickup-synctabs-header = Уключыць сінхранізацыю картак
 firefoxview-tabpickup-synctabs-description = Дазволіць { -brand-short-name } дзяліцца карткамі паміж прыладамі.
 firefoxview-tabpickup-synctabs-learn-how = Даведацца, як
