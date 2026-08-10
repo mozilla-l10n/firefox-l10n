@@ -259,8 +259,8 @@ urlbar-dismissal-acknowledgment-weather = Paldies par atsauksmi! Tev vairs netik
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Rakstiet mazāk, atrodiet vairāk: Meklējiet ar { $engineName } adreses joslā.
-urlbar-search-tips-redirect-2 = Sāciet meklēšanu adreses joslā, lai redzētu ieteikumus no { $engineName } un pārlūkošanas vēstures.
+urlbar-search-tips-onboard = Raksti mazāk, atrodi vairāk: meklē ar { $engineName } adreses joslā!
+urlbar-search-tips-redirect-2 = Sāc meklēšanu adreses joslā, lai redzētu ieteikumus no { $engineName } un pārlūkošanas vēstures!
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Meklēšana ir kļuvusi vienkāršāka. Mēģiniet precizēt meklēšanu adreses joslā. Lai tā vietā rādītu URL, iestatījumos atveriet Meklēšana.
 # Prompts users to use the Urlbar when they are typing in the domain of a
@@ -372,8 +372,8 @@ search-one-offs-engine-with-alias =
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
     .label = Pievienot “{ $engineName }”
-    .tooltiptext = Pievienot meklētājprogrammu “{ $engineName }”
-    .aria-label = Pievienot meklētājprogrammu “{ $engineName }”
+    .aria-label = Pievienot meklētāju “{ $engineName }”
+    .tooltiptext = Pievienot meklētāju “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =

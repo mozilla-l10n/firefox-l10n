@@ -160,6 +160,11 @@ smart-window-opened-tabs-summary-single =
         [one] Åpnet { $count } fane.
        *[other] Åpnet { $count } faner.
     }
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Byttet fane
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Byttet til «{ $title }».
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Opphevde grupperinger
 # Variables
