@@ -87,7 +87,7 @@ inactive-css-no-principal-box = <strong>{ $property }</strong> heeft geen effect
 
 inactive-css-not-grid-or-flex-container-fix = Probeer <strong>display:grid</strong> of <strong>display:flex</strong> toe te voegen. { learn-more }
 inactive-css-not-grid-or-flex-or-block-container-fix = Probeer <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>display:block</strong> toe te voegen. { learn-more }
-inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Probeer <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>colums:2</strong> toe te voegen. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Probeer <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>columns:2</strong> toe te voegen. { learn-more }
 inactive-css-not-multicol-container-fix = Probeer <strong>column-count</strong> of <strong>column-width</strong> toe te voegen. { learn-more }
 inactive-css-column-span-fix = Probeer <strong>column-count</strong> of <strong>column-width</strong> aan een van de voorlopende elementen toe te voegen. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Probeer <strong>position:absolute</strong> aan het element toe te voegen, of <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> aan het bovenliggende niveau van het element. { learn-more }
