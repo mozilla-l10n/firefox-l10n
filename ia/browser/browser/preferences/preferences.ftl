@@ -986,6 +986,38 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcapagina…
     .accesskey = m
+home-homepage-title =
+    .label = Pagina initial
+home-homepage-new-windows =
+    .label = Nove fenestras
+home-homepage-new-tabs =
+    .label = Nove schedas
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Eliger un sito specific
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adresse(s) de sito web
+home-custom-homepage-address =
+    .placeholder = Insere adresse
+home-custom-homepage-address-button =
+    .label = Adder adresse
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Necun sito web ancora addite
+home-custom-homepage-delete-address-button =
+    .aria-label = Deler adresse
+    .title = Deler adresse
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Substituer con
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Paginas actualmente aperte
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Marcapaginas…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
