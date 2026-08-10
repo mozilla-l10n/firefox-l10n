@@ -986,6 +986,11 @@ use-current-pages =
 choose-bookmark =
     .label = Uzi legosignon…
     .accesskey = s
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Etendaĵo ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2750,3 +2755,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Aŭtomata agordo de retperanto estas aktiva
     .description = La aŭtomata agordo de retperantoj povus permesi al nefiditaj retoj vidi viajn retumon.
+
+## Referrals Section
+
