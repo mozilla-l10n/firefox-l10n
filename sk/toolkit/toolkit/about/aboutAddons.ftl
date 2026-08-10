@@ -624,33 +624,16 @@ mlmodel-addon-detail-model-card = Karta modelu
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Zobraziť na Hugging Face
 
-## Promo footer shown in the about:addons recommendations view when
-## Project Nova styles are enabled.
-## The heading refers to the user choosing a Firefox theme or extension to
-## install. In the message, "tools" refers to Firefox extensions and
-## "styles" refers to Firefox themes.
-
-find-more-addons-promo =
-    .heading = Vytvarujte si { -brand-product-name(case: "acc") } podľa seba
-    .message = Pridajte nástroje a štýly podľa svojich potrieb a vkusu.
-find-more-addons-promo-open-amo-button = Preskúmajte rozšírenia a témy
-
 ## Promo footer shown in the about:addons extensions list view when
 ## Project Nova styles are enabled.
 ## In the message, "tools" refers to Firefox extensions.
 
-find-more-extensions-promo =
-    .heading = Nájdite si svoje ďalšie obľúbené rozšírenie
-    .message = Prispôsobte si { -brand-product-name(case: "acc") } pomocou nástrojov na sústredenie, súkromie, nakupovanie a ďalšie.
 find-more-extensions-promo-open-amo-button = Pozrite si ďalšie rozšírenia
 
 ## Promo footer shown in the about:addons themes list view when
 ## Project Nova styles are enabled.
 ## "Find more fresh looks" refers to the user looking for more Firefox themes.
 
-find-more-themes-promo =
-    .heading = Objavte viac sviežich vzhľadov
-    .message = Vyberte si štýl, v ktorom bude { -brand-product-name } proste váš.
 find-more-themes-promo-open-amo-button = Pozrite si ďalšie témy vzhľadu
 
 ## Promo shown in about:addons extensions list view when no extension is yet installed
