@@ -986,6 +986,38 @@ use-current-pages =
 choose-bookmark =
     .label = Erabili laster-marka…
     .accesskey = b
+home-homepage-title =
+    .label = Hasiera-orria
+home-homepage-new-windows =
+    .label = Leiho berriak
+home-homepage-new-tabs =
+    .label = Fitxa berriak
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Aukeratu gune zehatza
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Webgunearen helbidea
+home-custom-homepage-address =
+    .placeholder = Idatzi helbidea
+home-custom-homepage-address-button =
+    .label = Gehitu helbidea
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ez da webgunerik gehitu oraindik.
+home-custom-homepage-delete-address-button =
+    .aria-label = Ezabatu helbidea
+    .title = Ezabatu helbidea
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Ordeztu honekin
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Unean irekitako orriak
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Laster-markak…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
