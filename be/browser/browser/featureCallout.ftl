@@ -148,6 +148,10 @@ taskbar-tabs-media-callout-title-v3 = Трымайце сваю трансляц
 taskbar-tabs-media-callout-subtitle-v3 = Запускайце свае медыясайты як праграму ў аптымізаваным акне, абароненым { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title-v3 = Замацуйце свае любімыя сайты на панэлі задач
 taskbar-tabs-value-prop-callout-subtitle-v3 = Запускайце любы сайт, як праграму, у аптымізаваным акне, абароненым { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Вяртайцеся да гульняў з панэлі задач
+taskbar-tabs-gaming-callout-subtitle-v3 = Запускайце свае гульнявыя сайты як праграму ў аптымізаваным акне, абароненым { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Замацаваць на панэлі задач
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

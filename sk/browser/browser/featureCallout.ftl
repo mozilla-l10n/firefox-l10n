@@ -139,6 +139,15 @@ taskbar-tabs-value-prop-callout-subtitle = Spúšťajte ju v samostatnom okne a 
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Zostaňte v spojení z panela úloh
+taskbar-tabs-email-callout-title-v3 = Majte svoju doručenú poštu na paneli úloh
+taskbar-tabs-email-callout-subtitle-v3 = Spúšťajte svoje e‑mailové stránky ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Udržujte si streamovanie z panela úloh
+taskbar-tabs-media-callout-subtitle-v3 = Spúšťajte svoje mediálne stránky ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Pripnite si obľúbené stránky na panel úloh
+taskbar-tabs-value-prop-callout-subtitle-v3 = Spustite ľubovoľnú stránku ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
 taskbar-tabs-gaming-callout-title-v3 = Vráťte sa k hraniu hier z panela úloh
 taskbar-tabs-gaming-callout-subtitle-v3 = Spúšťajte svoje herné stránky ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab
