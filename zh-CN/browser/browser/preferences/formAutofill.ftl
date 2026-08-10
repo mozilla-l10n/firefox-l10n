@@ -171,6 +171,16 @@ autofill-card-network = 卡片类型
 # methods in their region.
 autofill-card-search-term-credit-cards = 信用卡, 贷记卡, 信用, 贷记, 卡, 银行卡, 借记卡, 借记, 钱包, 结账, 结算
 
+## The passport capture doorhanger
+
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = 美国运通
