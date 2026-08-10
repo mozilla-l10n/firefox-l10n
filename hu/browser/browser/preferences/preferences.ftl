@@ -986,6 +986,11 @@ use-current-pages =
 choose-bookmark =
     .label = Könyvjelző használata…
     .accesskey = n
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Kiegészítő ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2756,3 +2761,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatikus proxybeállítás engedélyezve
     .description = Az automatikus proxybeállítás lehetővé teheti, hogy a nem megbízható hálózatok kövessék a tevékenységét.
+
+## Referrals Section
+
