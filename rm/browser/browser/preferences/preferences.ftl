@@ -592,6 +592,12 @@ update-in-progress-ok-button = &Annullar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -674,6 +680,9 @@ browsing-cfr-recommendations-learn-more = Ulteriuras infurmaziuns
 browsing-group =
     .label = Navigaziun
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Parameters da la rait
@@ -726,6 +735,33 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
+home-homepage-new-tabs =
+    .label = Novs tabs
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adressa(s) da website(s)
+home-custom-homepage-address =
+    .placeholder = Endatar in’adressa
+home-custom-homepage-address-button =
+    .label = Agiuntar in’adressa
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Anc n’agiuntà naginas websites.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Remplazzar cun
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Paginas avertas actualmain
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Segnapaginas…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Extensiun ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -959,6 +995,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1224,6 +1265,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ulteriuras infurmaziuns
 forms-windows-sso-desc = Administrar ils contos en ils parameters da tes apparat
 windows-passkey-settings-label = Administrar las clavs d’access (passkeys) en ils parameters dal sistem
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1885,13 +1929,31 @@ preferences-doh-manage-exceptions =
     .label = Administrar las excepziuns…
     .accesskey = A
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Telechargiadas
 choose-download-folder-title = Tscherner l'ordinatur per telechargiar:
 
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isolar cookies interpaginals
+
+## Warnings section
+
+
+## Referrals Section
+
