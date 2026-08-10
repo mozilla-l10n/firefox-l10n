@@ -708,7 +708,7 @@ urlbar-search-mode-indicator-close =
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Meklējiet vai ievadiet adresi
+    .placeholder = Meklē vai ievadi adresi
 # This placeholder is used when not in search mode and searching in the urlbar
 # is disabled via the keyword.enabled pref.
 urlbar-placeholder-keyword-disabled =

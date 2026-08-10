@@ -139,7 +139,19 @@ taskbar-tabs-value-prop-callout-subtitle = Abia ezazu klik bakarrean interfaze s
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Egon konektatuta ataza-barratik
 taskbar-tabs-email-callout-title-v3 = Mantendu sarrera-ontzia ataza-barran
+taskbar-tabs-email-callout-subtitle-v3 = Abiatu posta elektronikoko guneak aplikazioak bailiran { -brand-short-name }(e)n babespeko leiho sinplifikatu batean.
+taskbar-tabs-media-callout-title-v3 = Mantendu streaminga ataza-barran
+taskbar-tabs-media-callout-subtitle-v3 = Abiatu multimedia guneak aplikazioak bailiran { -brand-short-name }(e)n babespeko leiho sinplifikatu batean.
+taskbar-tabs-value-prop-callout-title-v3 = Ainguratu gune gogokoenak ataza-barran
+taskbar-tabs-value-prop-callout-subtitle-v3 = Abiatu edozein gune aplikazioa bailitzan, { -brand-short-name }(e)n babespeko leiho sinplifikatu batean.
+taskbar-tabs-gaming-callout-title-v3 = Itzuli jolastera ataza-barratik
+taskbar-tabs-gaming-callout-subtitle-v3 = Abiatu jolasetako guneak aplikazioak bailiran, { -brand-short-name }(e)n babespeko leiho sinplifikatu batean.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Ainguratu ataza-barran
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

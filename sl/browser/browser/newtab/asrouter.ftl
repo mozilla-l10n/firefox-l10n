@@ -488,6 +488,11 @@ set-default-menu-message-split-layout-title =
         [macos] Obdržite { -brand-short-name(sklon: "tozilnik") } na dosegu roke
        *[other] Odpiraj vse povezave v { -brand-short-name(sklon: "mestnik") }
     }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Nastavite ga za privzetega in ga obdržite v Docku.
+       *[other] Brskajte hitreje in uživajte v samodejni zaščiti zasebnosti.
+    }
 set-default-menu-message-primary-button = Nastavi kot privzeto
 set-default-menu-message-primary-button-variant = Nastavi kot glavni brskalnik
 set-default-menu-message-primary-button-short-variant = Nastavi { -brand-short-name(sklon: "tozilnik") } kot privzeti brskalnik
@@ -516,8 +521,13 @@ nova-early-access-infobar-primary-button = Razumem
 ## launch-on-login, taskbar pinning, and session restore.
 
 launch-options-spotlight-title-launch-on-login = Ali želite, da se { -brand-short-name } zažene vsakič, ko se prijavite v Windows?
+launch-options-spotlight-title-session-restore = Ali želite ob ponovnem zagonu { -brand-short-name(sklon: "rodilnik") } ponovno odpreti svojo sejo?
 launch-options-spotlight-checkbox-launch-on-login = Odpri { -brand-short-name(sklon: "tozilnik") } ob zagonu računalnika
 launch-options-spotlight-checkbox-pin-to-taskbar = Pripni v opravilno vrstico
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Znova odpri trenutno odprta okna in zavihke
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Znova odpri prejšnja okna in zavihke
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = Shrani in zapri { -brand-short-name(sklon: "tozilnik") }
 # Primary button on the browser-launch prompt

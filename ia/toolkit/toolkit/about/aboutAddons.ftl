@@ -631,6 +631,23 @@ find-more-extensions-promo =
     .message = Personalisa { -brand-product-name } con utensiles pro concentration, confidentialitate, compras, e plus.
 find-more-extensions-promo-open-amo-button = Explora extensiones
 
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Trova apparentias plus fresc
+    .message = Elige un stilo que te face sentir { -brand-product-name } tue.
+find-more-themes-promo-open-amo-button = Explora themas
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Alcun extensiones es utilissime
+    .message = Nos ha recipite recommendationes pro adjutar te meliorar concentration, confidentialitate, e plus.
+list-empty-get-extensions-promo-button = Trova tu prime extension
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -642,6 +659,9 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Dispositivo
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Themas de { -brand-product-name }
 # Show more / show less button at the bottom of the themes picker
 aboutaddons-themes-picker-see-more = Monstrar plus
 aboutaddons-themes-picker-see-less = Monstrar minus
@@ -654,6 +674,11 @@ aboutaddons-themes-picker-disable-button =
     .label = Disactivar
 aboutaddons-themes-picker-install-button =
     .label = Installar
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Impossibile actualisar tu thema. Controla tu connexion e retenta.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

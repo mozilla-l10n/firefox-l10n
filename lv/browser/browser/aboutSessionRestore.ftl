@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = Atjaunot visus logus un cilnes
 welcome-back-restore-some-label = Atjaunot tikai atlasītos
-welcome-back-page-info-link = Jūsu papildinājumu un pārlūka pielāgojumi ir izņemti. Iestatījumi ir atjaunoti uz noklusējumu. Ja tas neatrisina problēmu, <a data-l10n-name="link-more">uzziniet ko vēl varat darīt.</a>
+welcome-back-page-info-link = Tavi papildinājumu un pārlūka pielāgojumi ir izņemti. Iestatījumi ir atjaunoti uz noklusējumu. Ja tas neatrisināja nebūšanu, <a data-l10n-name="link-more">uzzini vairāk par to, ko vēl var darīt</a>.

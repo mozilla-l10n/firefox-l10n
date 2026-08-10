@@ -111,18 +111,18 @@ newtab-search-box-search-button =
     .aria-label = Meklēt
 # Variables:
 #   $engine (string) - The name of the user's default search engine
-newtab-search-box-handoff-text = Meklējiet, izmantojot { $engine }, vai ievadiet adresi
-newtab-search-box-handoff-text-no-engine = Meklējiet vai ievadiet adresi
+newtab-search-box-handoff-text = Meklē ar { $engine } vai ievadi adresi
+newtab-search-box-handoff-text-no-engine = Meklē vai ievadi adresi
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
-    .placeholder = Meklējiet ar { $engine } vai ievadiet adresi
-    .title = Meklējiet ar { $engine } vai ievadiet adresi
-    .aria-label = Meklējiet ar { $engine } vai ievadiet adresi
+    .title = Meklē ar { $engine } vai ievadi adresi
+    .aria-label = Meklē ar { $engine } vai ievadi adresi
+    .placeholder = Meklē ar { $engine } vai ievadi adresi
 newtab-search-box-handoff-input-no-engine =
-    .placeholder = Meklējiet vai ievadiet adresi
-    .title = Meklējiet vai ievadiet adresi
-    .aria-label = Meklējiet vai ievadiet adresi
+    .title = Meklē vai ievadi adresi
+    .aria-label = Meklē vai ievadi adresi
+    .placeholder = Meklē vai ievadi adresi
 newtab-search-box-text = Meklēt tīmeklī
 newtab-search-box-input =
     .placeholder = Meklēt tīmeklī

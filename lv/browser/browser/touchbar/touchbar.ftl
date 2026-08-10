@@ -15,7 +15,7 @@ new-tab = Jauna cilne
 add-bookmark = Pievienot grāmatzīmi
 reader-view = Lasītāja skats
 # Meant to match the string displayed in an empty URL bar.
-open-location = Meklējiet vai ievadiet adresi
+open-location = Meklē vai ievadi adresi
 share = Dalīties
 close-window = Aizvērt logu
 open-sidebar = Sānu joslas

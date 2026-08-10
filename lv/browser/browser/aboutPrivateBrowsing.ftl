@@ -11,13 +11,13 @@ about-private-browsing-search-btn =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
-    .title = Meklējiet ar { $engine } vai ievadiet adresi
+    .title = Meklē ar { $engine } vai ievadi adresi
 about-private-browsing-handoff-no-engine =
-    .title = Meklējiet vai ievadiet adresi
+    .title = Meklē vai ievadi adresi
 # Variables
 #  $engine (String): the name of the user's default search engine
-about-private-browsing-handoff-text = Meklējiet ar { $engine } vai ievadiet adresi
-about-private-browsing-handoff-text-no-engine = Meklējiet vai ievadiet adresi
+about-private-browsing-handoff-text = Meklē ar { $engine } vai ievadi adresi
+about-private-browsing-handoff-text-no-engine = Meklē vai ievadi adresi
 about-private-browsing-not-private = Šobrīd jūs neesat privātajā logā.
 about-private-browsing-info-description-private-window = Privāts logs: { -brand-short-name } notīra jūsu meklēšanas un pārlūkošanas vēsturi, kad aizverat visus privātos logus. Tas nepadara jūs anonīmu.
 about-private-browsing-info-description-simplified = { -brand-short-name } notīra jūsu meklēšanas un pārlūkošanas vēsturi, kad aizverat visus privātos logus, taču tas nepadara jūs anonīmu.

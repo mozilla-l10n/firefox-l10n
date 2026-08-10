@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Spoof Accept-Language prompt
-privacy-spoof-english = Iestatot Angļu valodu, jūs būs grūtāk izsekot internetā. Vai vēlaties pieprasīt lapu angļu valodas versijas?
+privacy-spoof-english = Pēc valodas nomainīšanas uz angļu būs grūtāk noteikt Tavu identitāti, un tas uzlabos privātumu. Vai pieprasīt tīmekļa vietņu angļu valodas versiju?
