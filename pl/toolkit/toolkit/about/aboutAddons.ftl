@@ -616,6 +616,26 @@ mlmodel-addon-detail-model-card = Karta modelu
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Otwórz na Hugging Face
 
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Ukształtuj { -brand-product-name(case: "acc") } po swojemu
+    .message = Dodaj narzędzia i style odpowiadające Twoim potrzebom i upodobaniom.
+find-more-addons-promo-open-amo-button = Odkrywaj rozszerzenia i motywy
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Znajdź swoje nowe ulubione rozszerzenie
+    .message = Dostosuj { -brand-product-name(case: "acc") } za pomocą narzędzi do poprawiania koncentracji, prywatności, zakupów i nie tylko.
+find-more-extensions-promo-open-amo-button = Odkrywaj rozszerzenia
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
