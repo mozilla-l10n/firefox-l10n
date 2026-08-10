@@ -159,6 +159,7 @@ appmenu-fxa-signed-in-label = Kirjaudu
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Kirjaudu synkronoidaksesi
+appmenu-fxa-sign-in-promo-message = Käytä tietojasi missä tahansa
 appmenu-fxa-sign-in-promo-button =
     .label = Kirjaudu sisään
 appmenu-fxa-setup-sync =
@@ -294,10 +295,15 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = Pysy synkronoituna eri laitteiden välillä
 appmenu-sync-promo-signin-cta = Kirjaudu sisään
 appmenu-sync-promo-turnonsync =
     .heading = Synkronoi välilehdet ja historia
 appmenu-sync-promo-turnonsync-cta = Ota synkronointi käyttöön
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Nappaa välilehdet mobiililaitteeltasi
 appmenu-sync-promo-connectdevice-cta = Yhdistä laite
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = Ota kirjanmerkit mukaasi
@@ -370,6 +376,8 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Kirjaudu tilillesi
 appmenuitem-monitor-title2 = Pysy identiteettivarkauksien edellä
 appmenuitem-monitor-description2 = Vastaanota hälytyksiä tietovuodoista
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } -tietovuotohälytykset
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Vastaanota tietovuotovaroituksia
 appmenuitem-relay-title = { -relay-brand-short-name }
@@ -380,6 +388,7 @@ appmenuitem-relay-title-signed-in = Näytä sähköpostimaskit
 appmenuitem-relay-description = Peitä oikea sähköpostiosoitteesi ja puhelinnumerosi
 appmenuitem-services-relay-description = Käynnistä sähköpostimaskien hallintapaneeli
 appmenuitem-vpn-title2 = Piilota sijaintisi { -mozilla-vpn-brand-name }:llä
+appmenuitem-vpn-description4 = Hanki lisäsuojaa sovelluksiin ja laitteisiin
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in = Avaa { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Tee selaamisestasi vaikeammin jäljitettävää
@@ -415,6 +424,8 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Käytössä oleva profiili
 fxa-menu-create-profile-subpanel =
     .title = Luo uusi profiili
+fxa-menu-create-profile-heading = Nosta selaamisen tasoa uudella profiililla
+fxa-menu-create-profile-description = Pidä kirjanmerkit, salasanat ja sivuhistoria erillään eriyttämällä työhön liittyvä ja henkilökohtainen selaaminen.
 fxa-menu-create-profile-confirm =
     .label = Luo uusi profiili
 fxa-menu-create-profile-learn-more =

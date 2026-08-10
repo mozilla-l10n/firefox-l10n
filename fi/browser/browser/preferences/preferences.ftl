@@ -2712,6 +2712,8 @@ preferences-etp-level-custom =
     .description = Valitse mitkä suojaukset ovat käytössä tai pois käytöstä.
 preferences-etp-status-advanced-button =
     .label = Lisäasetukset
+preferences-etp-tracker-count-enabled =
+    .label = Näytä estetyt seuraimet osoiterivillä
 preferences-etp-status-protections-dashboard-link =
     .label = Tarkastele mukautettua suojaushallintapaneeliasi
     .description = Näe, kuinka monta seurainta { -brand-short-name } on estänyt puolestasi, mukaan lukien sosiaalisen median seuraimet, yksilöijät ja kryptolouhijat.
@@ -2804,3 +2806,10 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Välityspalvelimen automaattinen määritys on käytössä
     .description = Välityspalvelimen automaattinen määritys saattaa mahdollistaa ei-luotettujen verkkojen tarkkailla toimiasi.
+
+## Referrals Section
+
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Jaa { -brand-short-name }
