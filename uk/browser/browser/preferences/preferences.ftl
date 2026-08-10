@@ -989,6 +989,40 @@ use-current-pages =
 choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
+home-homepage-title =
+    .label = Домівка
+home-homepage-new-windows =
+    .label = Нові вікна
+home-homepage-new-tabs =
+    .label = Нові вкладки
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Вибрати певний сайт
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Адреса вебсайту
+home-custom-homepage-address =
+    .placeholder = Введіть адресу
+home-custom-homepage-address-button =
+    .label = Додати адресу
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ще не додано жодного вебсайту.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Замінити на
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Поточні відкриті сторінки
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Закладки…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Розширення ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2755,3 +2789,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Увімкнено автоматичну конфігурацію проксі
     .description = Автоматична конфігурація проксі може дозволити ненадійним мережам відстежувати вашу активність.
+
+## Referrals Section
+
