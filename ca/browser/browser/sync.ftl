@@ -74,5 +74,18 @@ sync-profile-different-account-header = Aquest perfil s'havia sincronitzat prèv
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 sync-profile-different-account-description = Per mantenir les vostres dades organitzades i segures, cada perfil del { -brand-product-name } només es pot sincronitzar amb un compte. Per iniciar la sessió amb { $acctEmail }, creeu un perfil nou.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Perfil sincronitzat amb un compte diferent
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Per mantenir les vostres dades organitzades i segures, es recomana que creeu un perfil nou per iniciar la sessió amb { $acctEmail }. Si decidiu continuar la sincronització en aquest perfil, les dades dels dos comptes es fusionaran permanentment a “{ $profileName }”.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Aquest compte ja s'usa
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } ja ha iniciat la sessió al perfil “{ $otherProfile }”
+sync-account-in-use-description = Només es pot associar aquest compte amb un perfil en aquest ordinador.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Aquest compte ha iniciat la sessió en un altre perfil. Voleu sincronitzar tots dos perfils?

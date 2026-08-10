@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Agor eich gwefannau cymdeithasol fel ap me
 taskbar-tabs-value-prop-callout-title = Ychwanegu'r wefan hon at eich bar tasgau
 taskbar-tabs-value-prop-callout-subtitle = Ei agor yn ei ffenestr ei hun a rhyngwyneb symlach gydag un clic.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Cadw wedi'ch cysylltu o'ch bar tasgau
+taskbar-tabs-email-callout-title-v3 = Cadw'ch blwch derbyn yn eich bar tasgau
+taskbar-tabs-email-callout-subtitle-v3 = Agor eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Cadw'ch ffrydio yn eich bar tasgau
+taskbar-tabs-media-callout-subtitle-v3 = Agor eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Pinio'ch hoff wefannau i'ch bar tasgau
+taskbar-tabs-value-prop-callout-subtitle-v3 = Agor eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Nôl i'ch gemau o'ch bar tasgau
+taskbar-tabs-gaming-callout-subtitle-v3 = Agor eich gwefannau gemau fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Pinio i'r bar tasgau
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Peidiwch colli popeth rydych chi wedi'u cadw pan fyddwch chi'n symud i Windows 11.

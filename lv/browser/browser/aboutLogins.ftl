@@ -27,9 +27,9 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importēt datus no cita pārlūka…
 about-logins-menu-menuitem-import-from-a-file = Importēt no datnes…
-about-logins-menu-menuitem-export-logins = Eksportēt lietotājvārdus…
+about-logins-menu-menuitem-export-logins = Izgūt pieteikšanās vienumus…
 about-logins-menu-menuitem-remove-all-logins = Noņemt visus lietotājvārdus…
-about-logins-menu-menuitem-export-logins2 = Eksportēt paroles…
+about-logins-menu-menuitem-export-logins2 = Izgūt paroles…
 about-logins-menu-menuitem-remove-all-logins2 = Izņemt visas paroles…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -208,7 +208,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = izgūt saglabātos 
 about-logins-export-password-os-auth-dialog-message2-win = Lai eksportētu savas paroles, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message2-macosx = eksportēt saglabātās paroles
+about-logins-export-password-os-auth-dialog-message2-macosx = izgūt saglabātās paroles
 
 ## Primary Password notification
 
@@ -315,9 +315,9 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 ##
 
 about-logins-confirm-export-dialog-title = Izgūt lietotājvārdus un paroles
-about-logins-confirm-export-dialog-message = Jūsu paroles tiks saglabātas kā lasāms teksts (piemēram, S1ikt@Pa0le), tāpēc ikviens, kurš var atvērt eksportēto datni, varēs tās apskatīt.
-about-logins-confirm-export-dialog-confirm-button = Eksportēt…
-about-logins-confirm-export-dialog-title2 = Piezīme par paroļu eksportēšanu
+about-logins-confirm-export-dialog-message = Tavas paroles tiks saglabātas kā lasāms teksts (piemēram, S1ikt@Pa0le), tāpēc ikviens, kurš var atvērt izgūto datni, varēs tās apskatīt.
+about-logins-confirm-export-dialog-confirm-button = Izgūt…
+about-logins-confirm-export-dialog-title2 = Piezīme par paroļu izgūšanu
 about-logins-confirm-export-dialog-message2 =
     Eksportējot, jūsu paroles tiek saglabātas datnē ar lasāmu tekstu.
     Kad esat pabeidzis lietot datni, ieteicams to izdzēst, lai citi, kas izmanto šo ierīci, nevarētu redzēt jūsu paroles.

@@ -13,7 +13,7 @@ extension-firefox-compact-light-description = In tema mei in ljocht kleureskema.
 extension-firefox-compact-dark-name = Donker
 extension-firefox-compact-dark-description = In tema mei in donker kleureskema.
 extension-firefox-alpenglow-name = Firefox Alpenglow
-extension-firefox-alpenglow-description = In kleurich uterlik brûke foar knoppen, menu‘s en finsters.
+extension-firefox-alpenglow-description = In kleurich uterlik brûke foar knoppen, menu’s en finsters.
 
 ## Theme names shown in the Firefox Themes picker in about:addons and theme add-on card,
 ## and new default-theme description for the theme add-on card.
