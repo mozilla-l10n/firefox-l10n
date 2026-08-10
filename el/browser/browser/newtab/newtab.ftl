@@ -470,6 +470,23 @@ topsite-label-pinned =
     .aria-label = { $title } (καρφιτσώθηκε)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Ειδοποιήσεις από το { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Μόλις τώρα
+newtab-topsites-hover-card-mark-all-read =
+    .title = Επισήμανση όλων ως αναγνωσμένων
+    .aria-label = Επισήμανση όλων ως αναγνωσμένων
+newtab-topsites-hover-card-settings =
+    .title = Ρυθμίσεις ειδοποιήσεων
+    .aria-label = Ρυθμίσεις ειδοποιήσεων
+newtab-topsites-hover-card-dismiss =
+    .title = Απόρριψη
+    .aria-label = Απόρριψη
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -689,6 +706,9 @@ newtab-custom-shortcuts-toggle =
     .description = Ιστότοποι από σελιδοδείκτες ή ιστορικό
 newtab-custom-shortcuts-nova =
     .label = Συντομεύσεις
+newtab-custom-web-notifications-toggle =
+    .label = Ειδοποιήσεις ιστότοπου
+    .description = Εμφάνιση ειδοποιήσεων από τους ιστότοπούς σας στις συντομεύσεις τους
 newtab-custom-row-description =
     .description = Αριθμός σειρών
 # Variables
@@ -1643,6 +1663,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Αποτελέσματα αναζήτησης
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Προσθήκη του «{ $city }» ως προσαρμοσμένου ρολογιού
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Όνομα πόλης
+    .aria-label = Όνομα πόλης
+    .placeholder = Όνομα ρολογιού
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Ζώνη ώρας
+    .aria-label = Ζώνη ώρας
+    .placeholder = Αναζήτηση πόλης, ζώνης ώρας ή μετατόπιση UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Αποτελέσματα ζώνης ώρας
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Δεν υπάρχει αντίστοιχη ζώνη ώρας
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Πίσω
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

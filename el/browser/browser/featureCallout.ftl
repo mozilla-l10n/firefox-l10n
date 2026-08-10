@@ -140,7 +140,13 @@ taskbar-tabs-value-prop-callout-subtitle = Εκκινήστε το σε δικό
 ## usual browser tabs and toolbars.
 
 taskbar-tabs-email-callout-title-v3 = Κρατήστε τα εισερχόμενα σας στη γραμμή εργασιών
-taskbar-tabs-email-callout-subtitle-v3 = Εκκινήστε τους ιστοτόπους εμαιλ σαν εφαρμογές, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
+taskbar-tabs-email-callout-subtitle-v3 = Εκκινήστε τους ιστοτόπους εμαιλ σας σαν εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
+taskbar-tabs-media-callout-subtitle-v3 = Εκκινήστε τους ιστοτόπους πολυμέσων σας μια εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
+taskbar-tabs-value-prop-callout-subtitle-v3 = Εκκινήστε οποιοδήποτε ιστότοπο σαν εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Επιστρέψτε στα παιχνίδια από τη γραμμή εργαλείων
+taskbar-tabs-gaming-callout-subtitle-v3 = Εκκινήστε τους ιστοτόπους παιχνιδιών σαν εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Καρφίτσωμα στη γραμμή εργασιών
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

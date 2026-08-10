@@ -54,7 +54,7 @@ cryptominer-tab-content = Te elementy wykorzystują moc obliczeniową Twojego ko
 protections-close-button2 =
     .aria-label = Zamknij
     .title = Zamknij
-mobile-app-title = Blokuj śledzące reklamy na wszystkich urządzeniach
+mobile-app-title = Blokuj śledzące reklamy na większej liczbie urządzeń
 mobile-app-card-content = Używaj przeglądarki na telefon z wbudowaną ochroną przed śledzącymi Cię reklamami.
 mobile-app-links = Przeglądarka { -brand-product-name } na <a data-l10n-name="android-mobile-inline-link">Androida</a> i <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Już nigdy nie zapomnij żadnego hasła

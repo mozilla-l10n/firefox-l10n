@@ -2819,3 +2819,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Η αυτόματη ρύθμιση διακομιστή μεσολάβησης είναι ενεργή
     .description = Η αυτόματη ρύθμιση διακομιστή μεσολάβησης θα μπορούσε να επιτρέψει σε αναξιόπιστα δίκτυα να παρακολουθήσουν τη δραστηριότητά σας.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Κοινή χρήση { -brand-short-name }
+    .description = Προσκαλέστε κάποιον να επιλέξει το πρόγραμμα περιήγησης που δίνει προτεραιότητα στο απόρρητο.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Κοινή χρήση { -brand-short-name }
