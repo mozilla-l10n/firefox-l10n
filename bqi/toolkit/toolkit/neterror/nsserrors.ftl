@@ -75,4 +75,6 @@ ssl-error-sym-key-unwrap-failure = و در کشیڌن کیلیت موتقارن 
 ssl-error-user-canceled-alert = منتور ری و ری مرهله نیایی ن لقو کرد.
 ssl-error-feature-not-supported-for-servers = SSL سی سرورا لادراری نؽبۊ.
 ssl-error-feature-not-supported-for-clients = SSL سی منتورووݩ لادراری نؽبۊ.
+ssl-error-invalid-version-range = رنج نوسخه SSL موعتبر نؽ.
+ssl-error-digest-failure = تابع خولاسه ساز شکست خرد.
 sec-error-user-cancelled = منتور دویمه لقو ن فشار داڌ.
