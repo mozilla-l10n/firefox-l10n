@@ -978,6 +978,11 @@ use-current-pages =
 choose-bookmark =
     .label = 使用书签…
     .accesskey = B
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = 扩展（{ $extension }）
 
 ## Custom Homepage subpage
 
@@ -2734,3 +2739,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = 代理自动配置已启用
     .description = 代理自动配置可能让不受信任的网络监控您的活动。
+
+## Referrals Section
+
