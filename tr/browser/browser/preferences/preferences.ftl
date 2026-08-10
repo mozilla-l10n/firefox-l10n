@@ -986,6 +986,11 @@ use-current-pages =
 choose-bookmark =
     .label = Yer imi kullan…
     .accesskey = m
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Uzantı ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2782,3 +2787,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Vekil sunucu otomatik yapılandırması etkin
     .description = Vekil sunucu otomatik yapılandırması, güvenilmeyen ağların web’de yaptıklarınızı izlemesine olanak verebilir.
+
+## Referrals Section
+
