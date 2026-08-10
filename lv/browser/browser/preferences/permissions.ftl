@@ -10,8 +10,8 @@ permissions-close-key =
 permissions-address = Mājas lapas adrese
     .accesskey = d
 permissions-block =
-    .label = Bloķēt
-    .accesskey = B
+    .label = Liegt
+    .accesskey = L
 permissions-disable-etp =
     .label = Pievienot izņēmumu
     .accesskey = e
@@ -49,19 +49,19 @@ permissions-searchbox =
 permissions-capabilities-autoplay-allow =
     .label = Atļaut audio un video
 permissions-capabilities-autoplay-block =
-    .label = Bloķēt audio
+    .label = Liegt skaņu
 permissions-capabilities-autoplay-blockall =
-    .label = Bloķēt audio un video
+    .label = Liegt skaņu un video
 permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
-    .label = Bloķēt
+    .label = Liegt
 permissions-capabilities-prompt =
     .label = Vienmēr jautāt
 permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
-    .value = Bloķēt
+    .value = Liegt
 permissions-capabilities-listitem-allow-session =
     .value = Atļaut uz šo sesiju
 permissions-capabilities-listitem-off =
@@ -138,7 +138,7 @@ permissions-site-notification-window2 =
     .style = { permissions-window2.style }
 permissions-site-notification-desc = Šīs lapas ir lūgušas atļauju jums sūtīt paziņojumus. Jūs varat norādīt kurām lapām ir atļaut sūtīt paziņojumus. Tāpat varat bloķēt lūgumus pēc paziņojumu sūtīšanas atļaujas.
 permissions-site-notification-disable-label =
-    .label = Bloķēt nākotnes lūgumus atļaut paziņojumu sūtīšanu
+    .label = Liegt jaunus pieprasījumus, kuros tiek lūgts atļaut paziņojumu sūtīšanu
 permissions-site-notification-disable-desc = Tas liegs jebkurām lapām, kas nav uzskaitītas zemāk, iesniedzēju lūgt paziņojumu sūtīšanas atļauju. Paziņojumu bloķēšana var kaitēt daļai no konkrētās lapas lapas funkcionalitātes.
 
 ## Site Permissions - Location
@@ -148,7 +148,7 @@ permissions-site-location-window2 =
     .style = { permissions-window2.style }
 permissions-site-location-desc = Šīs lapas ir lūgušas pieeju jūsu atrašanās vietai. Jūs varat norādīt kurām lapām ir atļauts piekļūt jūsu atrašanās vietai. Tāpat varat bloķēt visus nākotnes lūgumus pēc atļaujas piekļūt jūsu atrašanās vietai.
 permissions-site-location-disable-label =
-    .label = Bloķēt nākotnes lūgumus atļaut piekļuvi atrašanās vietai
+    .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt atrašanās vietai
 permissions-site-location-disable-desc = Tas liegs jebkurām lapām, kas nav uzskaitītas zemāk, iesniedzēju lūgt piekļuvi atrašanās vietai. Paziņojumu bloķēšana var kaitēt daļai no konkrētās lapas lapas funkcionalitātes.
 
 ## Site Permissions - Virtual Reality
@@ -158,7 +158,7 @@ permissions-site-xr-window2 =
     .style = { permissions-window2.style }
 permissions-site-xr-desc = Tālāk norādītās vietnes ir pieprasījušas piekļuvi jūsu virtuālās realitātes ierīcēm. Varat norādīt, kurām vietnēm ir atļauts piekļūt jūsu virtuālās realitātes ierīcēm. Varat arī bloķēt jaunus pieprasījumus, kuros tiek lūgts piekļūt jūsu virtuālās realitātes ierīcēm.
 permissions-site-xr-disable-label =
-    .label = Bloķēt jaunus pieprasījumus, kuros tiek lūgts piekļūt jūsu virtuālās realitātes ierīcēm
+    .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt virtuālās realitātes ierīcēm
 permissions-site-xr-disable-desc = Tas liegs vietnēm, kas nav norādītas iepriekš, pieprasīt atļauju piekļūt jūsu virtuālās realitātes ierīcēm. Bloķējot piekļuvi virtuālās realitātes ierīcēm, var nestrādāt dažu vietņu funkcijas.
 
 ## Site Permissions - Camera
@@ -168,8 +168,18 @@ permissions-site-camera-window2 =
     .style = { permissions-window2.style }
 permissions-site-camera-desc = Šīs lapas ir lūgušas pieeju jūsu kamerai. Jūs varat norādīt kurām lapām ir atļauts piekļūt jūsu kamerai. Tāpat varat bloķēt visus nākotnes lūgumus pēc atļaujas piekļūt jūsu kamerai.
 permissions-site-camera-disable-label =
-    .label = Bloķēt nākotnes lūgumus atļaut piekļuvi kamerai
+    .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt kamerai
 permissions-site-camera-disable-desc = Tas liegs jebkurām lapām, kas nav uzskaitītas zemāk, iesniedzēju lūgt piekļuvi kamerai. Paziņojumu bloķēšana var kaitēt daļai no konkrētās lapas lapas funkcionalitātes.
+
+## Site Permissions - Loopback network
+
+permissions-site-localhost-disable-label =
+    .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt šīs ierīces lietotnēm un pakalpojumiem
+
+## Site Permissions - Local network
+
+permissions-site-local-network-disable-label =
+    .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt ierīču, kuras ir savienotas ar Wi-Fi vai vietējo tīklu, lietotnēm un pakalpojumiem.
 
 ## Site Permissions - Microphone
 
@@ -178,7 +188,7 @@ permissions-site-microphone-window2 =
     .style = { permissions-window2.style }
 permissions-site-microphone-desc = Šīs lapas ir lūgušas pieeju jūsu mikrofonam. Jūs varat norādīt kurām lapām ir atļauts piekļūt jūsu mikrofonam. Tāpat varat bloķēt visus nākotnes lūgumus pēc atļaujas piekļūt jūsu mikrofonam.
 permissions-site-microphone-disable-label =
-    .label = Bloķēt nākotnes lūgumus atļaut piekļuvi mikrofonam
+    .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt mikrofonam
 permissions-site-microphone-disable-desc = Tas liegs jebkurām lapām, kas nav uzskaitītas zemāk, iesniedzēju lūgt piekļuvi mikrofonam. Paziņojumu bloķēšana var kaitēt daļai no konkrētās lapas lapas funkcionalitātes.
 
 ## Site Permissions - Speaker

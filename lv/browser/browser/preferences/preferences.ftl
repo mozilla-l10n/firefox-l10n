@@ -1194,8 +1194,8 @@ sitedata-allow-cookies-option =
     .label = Pieņemt sīkdatnes un lapu datus
     .accesskey = a
 sitedata-disallow-cookies-option =
-    .label = Bloķēt sīkdatnes un lapu datus
-    .accesskey = b
+    .label = Liegt sīkdatnes un vietņu datus
+    .accesskey = L
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Bloķētais tips
@@ -1418,9 +1418,12 @@ permissions-autoplay = Automātiskā atskaņošana
 permissions-autoplay-settings =
     .label = Iestatījumi…
     .accesskey = t
+permissions-block-popups2 =
+    .label = Liegt uzlecošos logus un trešo pušu pārvirzīšanu
+    .accesskey = p
 permissions-block-popups =
-    .label = Bloķēt jaunos logus
-    .accesskey = B
+    .label = Liegt uzlecošos logus
+    .accesskey = u
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
@@ -1491,11 +1494,11 @@ data-collection-studies-link =
 security-header = Drošība
 security-browsing-protection = Maldinoša satura un bīstamas programmatūras aizsardzība
 security-enable-safe-browsing =
-    .label = Bloķēt bīstamu un maldinošu saturu
-    .accesskey = B
+    .label = Liegt bīstamu un maldinošu saturu
+    .accesskey = L
 security-enable-safe-browsing-link = Uzzināt vairāk
 security-block-downloads =
-    .label = Bloķēt bīstamas lejupielādes
+    .label = Liegt bīstamas lejupielādes
     .accesskey = d
 security-block-uncommon-software =
     .label = Brīdināt mani par nevēlamu vai neparastu programmatūru
@@ -1599,3 +1602,21 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Darbvirsma
 downloads-folder-name = Lejupielādes
 choose-download-folder-title = Izvēlieties lejupielāžu mapi:
+
+## AI controls page
+
+preferences-ai-controls-block-ai-label = Liegt MI uzlabojumus
+preferences-ai-controls-block-confirmation-heading = Liegt MI uzlabojumus?
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Liegt
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Liegt starpvietņu sīkdatnes
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Liegt sīkdatnes no neapmeklētām tīmekļvietnēm
+preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
+    .label = Liegt visas starpvietņu sīkdatnes (var izraisīt tīmekļvietņu salūšanu)
+preferences-etp-custom-cookie-behavior-block-all =
+    .label = Liegt visas sīkdatnes (izraisīs tīmekļvietņu salūšanu)

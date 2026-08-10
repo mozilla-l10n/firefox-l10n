@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window2 =
-    .title = Bloķēto saraksts
     .style = min-width: 50em
+    .title = Liegumu saraksti
 blocklist-description = Izvēlieties sarakstu { -brand-short-name }, ko izmantot tiešsaistes izsekotāju bloķēšanai. Sarakstu nodrošina  <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w

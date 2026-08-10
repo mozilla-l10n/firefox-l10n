@@ -45,6 +45,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Za ogled zavihkov se prijavite 
 firefoxview-syncedtabs-adddevice-primarybutton = Preizkusite { -brand-product-name } za mobilne naprave
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Vaši zavihki so vas poklicali. Najdete jih na svojem telefonu.
+firefoxview-syncedtabs-adddevice-description-3 = Skenirajte kodo QR , prenesite { -brand-product-name(sklon: "tožilnik") } za mobilne naprave ter začnite sinhronizacijo odprtih zavihkov in drugih vsebin. Naučite se, kako <a data-l10n-name="url">povežete dodatne naprave</a>.
 firefoxview-tabpickup-synctabs-header = Vklopi sinhronizacijo zavihkov
 firefoxview-tabpickup-synctabs-description = { -brand-short-name(sklon: "dajalnik") } dovoli skupno rabo zavihkov med napravami.
 firefoxview-tabpickup-synctabs-learn-how = Poglejte, kako
@@ -53,6 +54,7 @@ firefoxview-tabpickup-synctabs-primarybutton-2 = Vklopi sinhronizacijo zavihkov
 firefoxview-syncedtabs-synctabs-header = Spremeni nastavitve sinhronizacije
 firefoxview-syncedtabs-synctabs-description = Za ogled zavihkov z drugih naprav se morajo odprti zavihki sinhronizirati.
 firefoxview-syncedtabs-synctabs-header-2 = Sinhroniziranje zavihkov je izklopljeno
+firefoxview-syncedtabs-synctabs-description-2 = Ponovno vključite sinhronizacijo in pridobite vse zavihke iz drugih naprav.
 firefoxview-syncedtabs-loading-header = Sinhronizacija v teku
 firefoxview-syncedtabs-loading-description = Ko se bo končala, se bodo prikazali vsi zavihki, ki jih imate odprte na drugih napravah. Vrnite se čez nekaj trenutkov.
 firefoxview-syncedtabs-loading-header-2 = Pridobivanje zavihkov …
@@ -235,6 +237,7 @@ firefoxview-history-empty-description-two = Varstvo vaše zasebnosti je v sredi�
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
 firefoxview-history-empty-header-2 = Tukaj se začne vaša zgodovina brskanja
+firefoxview-history-empty-description-2 = Ko boste obiskovali spletne strani, se bo vaša zgodovina prikazala tukaj. V <a data-l10n-name="history-settings-url">nastavitvah</a> lahko upravljate, kaj se shranjuje.
 
 ##
 

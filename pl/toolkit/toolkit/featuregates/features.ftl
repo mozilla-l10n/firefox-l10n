@@ -22,8 +22,8 @@ experimental-features-devtools-compatibility-panel =
 experimental-features-devtools-compatibility-panel-description = Panel boczny inspektora stron, wyświetlający informacje o stanie zgodności aplikacji z różnymi przeglądarkami. <a data-l10n-name="bugzilla">Zgłoszenie 1584464</a> zawiera więcej informacji.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
-    .label = Ciasteczka: „SameSite=None” wymaga atrybutu bezpieczeństwa
-experimental-features-cookie-samesite-none-requires-secure2-description = Ciasteczka z atrybutem „SameSite=None” wymagają atrybutu bezpieczeństwa. Ta funkcja wymaga włączenia „Ciasteczka: »SameSite=Lax« jest domyślne”.
+    .label = Ciasteczka: „SameSite=None” wymaga atrybutu Secure
+experimental-features-cookie-samesite-none-requires-secure2-description = Ciasteczka z atrybutem „SameSite=None” wymagają atrybutu Secure. Ta funkcja wymaga włączenia „Ciasteczka: »SameSite=Lax« jest domyślne”.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
