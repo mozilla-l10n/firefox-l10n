@@ -143,6 +143,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>S'ha canviat la configuració de recopilació de dades.</strong> Els canvis fets en un altre perfil s'apliquen a tots els perfils d'aquest dispositiu.
 # Secondary button label to dismiss the infobar without action
 multiprofile-data-collection-dismiss = Descarta
 

@@ -1717,8 +1717,8 @@ redirect-warning-with-popup-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message =
     { $popupCount ->
-        [one] { -brand-short-name } bu sitenin { $popupCount } açılır pencere açmasını engelledi.
-       *[other] { -brand-short-name } bu sitenin { $popupCount } açılır pencere açmasını engelledi.
+        [one] { -brand-short-name } bu sitenin { $popupCount } adetten fazla açılır pencere açmasını engelledi.
+       *[other] { -brand-short-name } bu sitenin { $popupCount } adetten fazla açılır pencere açmasını engelledi.
     }
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.

@@ -26,6 +26,7 @@ about-processes-column-cpu-total = CPU
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Procés web compartit ({ $pid })
 about-processes-file-process = Fitxers ({ $pid })
 about-processes-extension-process = Extensions ({ $pid })
 about-processes-plugin-process = Connectors ({ $pid })
@@ -79,11 +80,17 @@ about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDi
 
 ## Duration units
 
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
+duration-unit-m = m
 duration-unit-h = h
 duration-unit-d = d
 
 ## Memory units
 
+memory-unit-B = B
 memory-unit-KB = kB
 memory-unit-MB = MB
 memory-unit-GB = GB

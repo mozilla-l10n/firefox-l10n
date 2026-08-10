@@ -104,6 +104,7 @@ permissions-exceptions-https-only-desc2 = Podeu desactivar el mode només HTTPS 
 permissions-exceptions-popup-window3 =
     .title = Llocs web permesos - Finestres emergents i redireccions de tercers
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Podeu especificar quins llocs web poden obrir finestres emergents i ser redirigits per marcs de tercers.
 
 ## Exceptions - Pop-ups
 
@@ -185,12 +186,20 @@ permissions-site-camera-disable-desc = Això impedirà que els llocs web que no 
 permissions-site-localhost-window =
     .style = { permissions-window2.style }
     .title = Paràmetres - Aplicacions i serveis del dispositiu
+permissions-site-localhost-desc = Aquests llocs web han sol·licitat accés a aplicacions i serveis en aquest dispositiu. Podeu optar per permetre o bloquejar quins llocs web ho fan.
+permissions-site-localhost-disable-label =
+    .label = Bloca les noves sol·licituds d'accés a aplicacions i serveis en aquest dispositiu
+permissions-site-localhost-disable-desc = Això impedirà que qualsevol lloc web que no estigui a la llista anterior sol·liciti accés a aplicacions i serveis en aquest dispositiu. Si ho feu, és possible que algunes funcions de llocs web no funcionin correctament.
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
     .style = { permissions-window2.style }
     .title = Paràmetres - Dispositius de la xarxa local
+permissions-site-local-network-desc = Aquests llocs web han sol·licitat accés a aplicacions i serveis en dispositius connectats a la vostra xarxa Wi-Fi o xarxa local. Podeu optar per permetre o bloquejar quins llocs web ho fan.
+permissions-site-local-network-disable-label =
+    .label = Bloca les noves sol·licituds per accedir a aplicacions i serveis en dispositius connectats a la vostra xarxa Wi-Fi o xarxa local.
+permissions-site-local-network-disable-desc = Això impedirà que qualsevol lloc web que no estigui a la llista anterior sol·liciti accés a aplicacions i serveis en dispositius connectats a la vostra xarxa Wi-Fi o xarxa local. Si ho feu, és possible que algunes funcions de llocs web no funcionin correctament.
 
 ## Site Permissions - Microphone
 

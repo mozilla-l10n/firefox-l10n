@@ -13,9 +13,16 @@
 permission-dialog-description = Voleu permetre que aquest lloc obri l'enllaç { $scheme }?
 permission-dialog-description-file = Voleu permetre que aquest fitxer obri l'enllaç { $scheme }?
 permission-dialog-description-host = Voleu permetre que { $host } obri l'enllaç { $scheme }?
+permission-dialog-description-extension = Voleu permetre que l'extensió { $extension } obri l'enllaç { $scheme }?
 permission-dialog-description-app = Voleu permetre que aquest lloc obri l'enllaç { $scheme } amb { $appName }?
 permission-dialog-description-host-app = Voleu permetre que { $host } obri l'enllaç { $scheme } amb { $appName }?
 permission-dialog-description-file-app = Voleu permetre que aquest fitxer obri l'enllaç { $scheme } amb { $appName }?
+permission-dialog-description-extension-app = Voleu permetre que l'extensió { $extension } obri l'enllaç { $scheme } amb { $appName }?
+permission-dialog-description-system-app = Voleu obrir l'enllaç { $scheme } amb { $appName }?
+permission-dialog-description-system-noapp = Voleu obrir l'enllaç { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Voleu permetre que aquest lloc obri la vostra cartera electrònica?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -26,6 +33,7 @@ permission-dialog-description-file-app = Voleu permetre que aquest fitxer obri l
 
 permission-dialog-remember = Permet sempre que <strong>{ $host }</strong> obri els enllaços <strong>{ $scheme }</strong>
 permission-dialog-remember-file = Permet sempre que aquest fitxer obri els enllaços <strong>{ $scheme }</strong>
+permission-dialog-remember-extension = Permet sempre que aquesta extensió obri enllaços <strong> { $scheme } </strong>
 
 ##
 
@@ -63,3 +71,11 @@ choose-app-btn =
 choose-other-app-window-title = Una altra aplicació…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Desactivat en finestres privades
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Demana-m'ho sempre quan faci clic a un enllaç de correu electrònic

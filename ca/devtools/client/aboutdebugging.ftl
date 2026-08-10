@@ -255,12 +255,27 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID d'extensió
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+# .disabledTitle is processed by the fluent-react / ActionButton code.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = La funció push de Service Worker està actualment desactivada per a multiprocessos { -brand-shorter-name }
 # This string is displayed as a label of the button that starts a service worker.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-start2 = Inicia
     .disabledTitle = L'inici d'un procés de treball de servei està desactivat pel multiprocés del { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Suprimeix el registre
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = S'està escoltant per esdeveniments de tipus fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = No s'està escoltant per esdeveniments de tipus fetch
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = S'està executant
@@ -275,6 +290,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Servei de transferència Push
+# Displayed for service workers in runtime pages, to label the origin of a worker.
+about-debugging-worker-origin =
+    .label = Origen
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
     .title = La inspecció dels processos de treball de servei està desactivada pel multiprocés del { -brand-shorter-name }
@@ -287,6 +305,12 @@ about-debugging-multiprocess-toolbox-name = Caixa d'eines de multiprocés
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Processos principal i de contingut del navegador de destinació
+about-debugging-message-error-icon =
+    .alt = Icona d’error
+about-debugging-message-info-icon =
+    .alt = Icona d'informació
+about-debugging-message-warning-icon =
+    .alt = Icona d'avís
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Tanca el missatge
@@ -299,3 +323,5 @@ about-debugging-message-details-label-error = Detalls de l'error
 about-debugging-message-details-label-warning = Detalls de l'avís
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Detalls
+about-debugging-sidebar =
+    .heading = Depuració

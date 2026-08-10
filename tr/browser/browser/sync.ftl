@@ -120,7 +120,7 @@ sync-account-already-signed-in-header = Bu hesap başka bir profile giriş yapm�
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $currentProfile (String): Name of the current profile signing in
 #   $otherProfile (String): Name of the profile that is already signed in
-sync-account-in-use-description-merge = { $acctEmail } bu bilgisayardaki “{ $otherProfile }” profiline giriş yapmış. “{ $currentProfile }” profilini eşitlerseniz her iki profildeki veriler (örn. parolalar ve yer imleri) kalıcı olarak birleştirecektir.
+sync-account-in-use-description-merge = { $acctEmail } bu bilgisayardaki “{ $otherProfile }” profiline giriş yapmış. “{ $currentProfile }” profilini eşitlerseniz her iki profildeki veriler (ör. parolalar ve yer imleri) kalıcı olarak birleştirilir.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = “{ $profileName }” profiline geç

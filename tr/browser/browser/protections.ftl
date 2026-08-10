@@ -157,7 +157,7 @@ monitor-partial-breaches-percentage = %{ $percentageResolved } tamamlandı
 monitor-partial-breaches-motivation-title-start = İyi başladınız!
 monitor-partial-breaches-motivation-title-middle = Aynen böyle devam!
 monitor-partial-breaches-motivation-title-end = Bitmek üzere! Aynen böyle devam.
-monitor-partial-breaches-motivation-description = Geri kalan ihallerinizi { -monitor-brand-short-name }’de çözün.
+monitor-partial-breaches-motivation-description = Geri kalan ihlallerinizi { -monitor-brand-short-name }’de çözün.
 monitor-resolve-breaches-link = İhlalleri çöz
     .title = İhlalleri { -monitor-brand-short-name }’de çözün
 
@@ -255,8 +255,8 @@ protections-vpn-title-subscribed = VPN: Abonesiniz
 #   $count (number): Number of devices
 protections-vpn-header-content-subscribed =
     { $count ->
-        [one] { -mozilla-vpn-brand-name }  { $count } ayrı cihazınızda tüm trafiğinizi şifreler ve konumunuzu gizler. Aboneliğinizden en iyi şekilde yararlanmak için <a data-l10n-name="playstore-link">Google Play Store</a> veya <a data-l10n-name="appstore-link">Apple App Store</a>’dan uygulamayı yükleyin.
-       *[other] { -mozilla-vpn-brand-name }  { $count } ayrı cihazınızda tüm trafiğinizi şifreler ve konumunuzu gizler. Aboneliğinizden en iyi şekilde yararlanmak için <a data-l10n-name="playstore-link">Google Play Store</a> veya <a data-l10n-name="appstore-link">Apple App Store</a>’dan uygulamayı yükleyin.
+        [one] { -mozilla-vpn-brand-name }, en fazla { $count } ayrı cihazda tüm trafiğinizi şifreler ve konumunuzu gizler. Aboneliğinizden en iyi şekilde yararlanmak için <a data-l10n-name="playstore-link">Google Play Store</a> veya <a data-l10n-name="appstore-link">Apple App Store</a>’dan uygulamayı yükleyin.
+       *[other] { -mozilla-vpn-brand-name }, en fazla { $count } ayrı cihazda tüm trafiğinizi şifreler ve konumunuzu gizler. Aboneliğinizden en iyi şekilde yararlanmak için <a data-l10n-name="playstore-link">Google Play Store</a> veya <a data-l10n-name="appstore-link">Apple App Store</a>’dan uygulamayı yükleyin.
     }
 protections-vpn-banner-header = Tarayıcının ötesine geçen koruma
 protections-vpn-banner-content = { -mozilla-vpn-brand-name }’i risksiz deneyin, TechRadar’ın neden “hızı, basitliği ve uygun fiyatıyla denemeye değer” dediğini kendiniz görün.

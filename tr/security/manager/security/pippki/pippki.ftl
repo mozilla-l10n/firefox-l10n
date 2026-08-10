@@ -99,7 +99,7 @@ set-password-backup-pw =
     .value = Sertifika yedek parolası:
 set-password-repeat-backup-pw =
     .value = Sertifika yedek parolası (tekrar):
-set-password-reminder = Önemli: Eğer sertifika yedek parolanızı unutursanız bu yedeği daha sonra geri yükleyemezsiniz.  Lütfen bunu güvenli bir yere kaydedin.
+set-password-reminder = Önemli: Sertifika yedek parolanızı unutursanız bu yedeği daha sonra geri yükleyemezsiniz. Lütfen bunu güvenli bir yere kaydedin.
 
 ## Protected authentication dialog
 

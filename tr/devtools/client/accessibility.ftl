@@ -39,7 +39,7 @@ accessibility-best-practices =
 
 accessibility-text-label-issue-area = <span>href</span> özniteliğine sahip <div>area</div> elemanlarını etiketlemek için <code>alt</code> özniteliğini kullanın. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-dialog = İletişim kutuları etiketlenmeli. <a>Daha fazla bilgi alın</a>
-accessibility-text-label-issue-document-title = Belgelerin <code>başlığı</code> olmalı. <a>Daha fazla bilgi alın</a>
+accessibility-text-label-issue-document-title = Belgelerde <code>başlık</code> olmalıdır. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-embed = Gömülü içerikler etiketlenmeli. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-figure = İsteğe bağlı caption’ları olan figürler etiketlenmelidir. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-fieldset = <code>fieldset</code> elemanları etiketlenmelidir. <a>Daha fazla bilgi alın</a>

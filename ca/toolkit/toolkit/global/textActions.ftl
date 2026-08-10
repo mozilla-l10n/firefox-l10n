@@ -22,6 +22,12 @@ text-action-copy =
     .accesskey = C
 text-action-copy-shortcut =
     .key = C
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+text-action-copy-clean-link =
+    .label = Copia l'enllaç net
+    .accesskey = n
 text-action-paste =
     .label = Enganxa
     .accesskey = x
@@ -33,6 +39,9 @@ text-action-paste-shortcut =
 text-action-delete =
     .label = Suprimeix
     .accesskey = u
+text-action-reveal-password =
+    .label = Mostra la contrasenya
+    .accesskey = M
 text-action-select-all =
     .label = Selecciona-ho tot
     .accesskey = a
@@ -57,3 +66,28 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Esborra
+text-action-highlight-selection =
+    .label = Ressalta la selecció
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Afegeix un comentari a la selecció
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = Copia l'enllaç per a ressaltar
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight =
+    .label = Copia l'enllaç net per a ressaltar
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = Elimina el ressaltat
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-all-highlights =
+    .label = Elimina tot el ressaltat
+profile-window-menu-edit =
+    .label = Edita
+    .accesskey = E
