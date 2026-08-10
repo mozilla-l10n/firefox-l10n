@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Start uw streamingwebsites als een app in 
 taskbar-tabs-value-prop-callout-title = Voeg deze website aan uw taakbalk toe
 taskbar-tabs-value-prop-callout-subtitle = Start hem met één klik in een eigen venster en met een vereenvoudigde interface.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Blijf verbonden vanaf uw taakbalk
+taskbar-tabs-email-callout-title-v3 = Houd uw Postvak IN in uw taakbalk
+taskbar-tabs-email-callout-subtitle-v3 = Start uw e-mailwebsites als een app in een gestroomlijnd venster, beschermd door { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Houd uw streaming in uw taakbalk
+taskbar-tabs-media-callout-subtitle-v3 = Start uw mediawebsites als een app in een gestroomlijnd venster, beschermd door { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Houd uw favoriete websites in uw taakbalk
+taskbar-tabs-value-prop-callout-subtitle-v3 = Start elke gewenste website als een app in een gestroomlijnd venster, beschermd door { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Terug naar gamen vanaf uw taakbalk
+taskbar-tabs-gaming-callout-subtitle-v3 = Start uw gamingwebsites als een app in een gestroomlijnd venster, beschermd door { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Aan taakbalk vastzetten
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Verlies niet alles wat u hebt opgeslagen als u overstapt naar Windows 11.
