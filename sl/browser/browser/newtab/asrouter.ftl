@@ -343,6 +343,7 @@ tail-fox-spotlight-secondary-button = Ne zdaj
 
 ## Welcome Back Spotlight and Import
 
+welcome-back-spotlight-title = Ponovno odkrijte vgrajeno zasebnost
 welcome-back-spotlight-subtitle = Dobrodošli nazaj v edinem večjem brskalniku, za katerim stoji neprofitna organizacija. Sprejemamo dodatne ukrepe za zaščito vaših podatkov, kamorkoli se odpravite.
 welcome-back-embedded-import-title = Uvozite svoje podatke in se počutite v { -brand-short-name(sklon: "mestnik") } kot doma
 
@@ -423,6 +424,7 @@ windows-10-eos-sync-toast-secondary-label = Opomni me pozneje
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } ni prednameščen kot drugi brskalniki tehnoloških velikanov. To je bistvo.
+windows-10-eos-challenger-sync-callout-subtitle = Če varnostno kopirate zaznamke in gesla { -brand-product-name(sklon: "rodilnik") }, svoj brskalnik lažje prenesete na novo napravo.
 windows-10-eos-challenger-pin-callout-subtitle = Pripnite si { -brand-shorter-name(sklon: "tozilnik") } v opravilno vrstico in imejte brskalnik, ki ste ga izbrali, vedno pri roki, ko ga potrebujete.
 windows-10-eos-challenger-sync-primary-button = Varnostno kopirajte { -brand-shorter-name(sklon: "tozilnik") }
 windows-10-eos-challenger-pin-primary-button = Pripni { -brand-shorter-name(sklon: "tozilnik") }

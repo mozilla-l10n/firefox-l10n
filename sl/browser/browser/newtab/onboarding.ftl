@@ -610,11 +610,14 @@ smartwindow-switcher-callout = Kadarkoli lahko preklapljate med pametnimi in obi
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Pogoji uporabe { -brand-product-name(sklon: "rodilnik") }
+smartwindow-existing-user-fx-tou-body = Če želite uporabljati { -smart-window-brand-name }, sprejmite <a data-l10n-name="terms_of_use">pogoje uporabe</a> in posodobljeno <a data-l10n-name="privacy_notice">obvestilo o zasebnosti</a>.
 smartwindow-existing-user-fx-tou-accept = Sprejmi
 smartwindow-existing-user-fx-tou-go-back = Nazaj
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Naj bo { -smart-window-brand-name } vaša prva izbira
+smartwindow-onboarding-subtitle = Povzemajte, primerjajte in sprašujte, ne da bi kaj zamudili.
 smartwindow-onboarding-primary-button = Nadaljuj
 # Kit is referring to the Firefox mascot
 smartwindow-onboarding-image-alt =
@@ -627,6 +630,7 @@ smartwindow-sidebar-auto-open-callout-body = Še vedno ga boste lahko odprli, č
 smartwindow-sidebar-auto-open-callout-accept = Da, pusti zaprto
 smartwindow-sidebar-auto-open-callout-dismiss = Ne, hvala
 smartwindow-sidebar-auto-open-callout-accepted-title = Pomočnik bo ostal zaprt
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Za odpiranje na kateri koli strani uporabite zmogljivost Vprašaj. To lahko kadarkoli spremenite v <a data-l10n-name="settings">Nastavitvah</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Razumem
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Če si premislite, lahko kadarkoli spremenite privzete <a data-l10n-name="settings">nastavitve</a>.
 

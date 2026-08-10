@@ -133,6 +133,14 @@ taskbar-tabs-media-callout-subtitle = Abiatu streamingeko guneak aplikazioak bal
 taskbar-tabs-value-prop-callout-title = Gehitu gune hau zure ataza-barran
 taskbar-tabs-value-prop-callout-subtitle = Abia ezazu klik bakarrean interfaze sinplifikatudun bere leiho propioan.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+taskbar-tabs-email-callout-title-v3 = Mantendu sarrera-ontzia ataza-barran
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ez galdu gordeta daukazuna Windows 11ra aldatzean.
