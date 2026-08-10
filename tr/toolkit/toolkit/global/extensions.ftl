@@ -53,7 +53,7 @@ webext-perms-sideload-cancel =
     .accesskey = a
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text2 = { $extension } güncellendi. Güncellenen sürüm yüklenmeden önce yeni izinleri onaylamanız gerekiyor. “İptal”i seçerseniz mevcut uzantı sürümünüz korunacaktır.
+webext-perms-update-text2 = { $extension } güncellendi. Güncellenen sürüm yüklenmeden önce yeni izinleri onaylamanız gerekiyor. “Vazgeç”i seçerseniz mevcut uzantı sürümünüz korunacaktır.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } güncellendi. Güncellenen sürümü yüklemek için yeni izinleri onaylamanız gerekiyor. “Vazgeç”i seçerseniz mevcut sürümünüz korunacaktır. Güncellerseniz bu uzantı şu izinlere sahip olacaktır:

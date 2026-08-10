@@ -155,6 +155,7 @@ aiwindow-firstrun-memories-privacy-title = Privado por diseño
 aiwindow-firstrun-memories-privacy-body = Los recuerdos están almacenados en este dispositivo. Se pueden borrar o desactivar en cualquier momento.
 aiwindow-firstrun-memories-choose-label = Elegir de donde aprende { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-chats = Chats en { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Navegando por { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Se puede actualizar en la configuración en cualquier momento.
 aiwindow-firstrun-memories-no-create = Entendido. { -smart-window-brand-name } no creará recuerdos. Se puede actualizar en la configuración en cualquier momento.
 

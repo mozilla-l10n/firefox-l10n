@@ -48,7 +48,7 @@ experimental-features-link-previews-description =
 # This version of the link previews description does not mention AI.
 experimental-features-link-previews-description-no-ai =
     { PLATFORM() ->
-        [macos] Bir web sayfasına tıklamadan önce sayfa hakkında bilgi almak isterseniz bağlantının üzerine gelip  Shift (⇧) + Option (⌥) veya Alt tuşlarına basın. Ön izlemede sayfa başlığı ve okuma süresi gibi ayrıntıları görebilirsiniz. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
+        [macos] Bir web sayfasına tıklamadan önce sayfa hakkında bilgi almak isterseniz bağlantının üzerine gelip Shift (⇧) + Option (⌥) veya Alt tuşlarına basın. Ön izlemede sayfa başlığı ve okuma süresi gibi ayrıntıları görebilirsiniz. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
        *[other] Bir web sayfasına tıklamadan önce sayfa hakkında bilgi almak isterseniz bağlantının üzerine gelip Shift + Alt tuşlarına basın. Ön izlemede sayfa başlığı ve okuma süresi gibi ayrıntıları görebilirsiniz. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
     }
 # New Tab Sections with follow and block

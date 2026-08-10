@@ -48,6 +48,9 @@ url-classifier-content-classifier-loading-url = URL yükleniyor
 # Label for a dropdown choosing what type of resource is at the destination (the destination type),
 # such as script, image, stylesheet, etc.
 url-classifier-content-classifier-destination-type = Hedef türü
+# Header for a group of on/off options (the checkboxes below) that modify how
+# the hypothetical request is classified.
+url-classifier-content-classifier-flags = Bayraklar
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Sonuçlar
 url-classifier-content-classifier-pbm = Gizli gezinti

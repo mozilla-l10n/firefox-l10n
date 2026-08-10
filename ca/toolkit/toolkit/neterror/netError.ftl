@@ -43,6 +43,8 @@ neterror-generic-error = El { -brand-short-name } no ha pogut carregar la pàgin
 neterror-load-error-try-again = El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'aquí a uns moments.
 neterror-load-error-connection = Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre ordinador.
 neterror-load-error-firewall = Si el vostre ordinador o la vostra xarxa estan protegits per un tallafoc o per un servidor intermediari, assegureu-vos que el { -brand-short-name } tingui permís per accedir al web.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Si esteu intentant carregar una pàgina de xarxa local, comproveu que { -brand-short-name } hagi rebut permisos de xarxa local a la configuració de privadesa i seguretat de macOS.
 neterror-captive-portal = Heu d'iniciar la sessió en aquesta xarxa per poder accedir a Internet.
 neterror-dns-not-found-hint-try-again = Torneu a provar-ho més tard
 neterror-dns-not-found-hint-check-network = Comproveu la connexió de xarxa

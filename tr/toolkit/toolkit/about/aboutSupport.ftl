@@ -183,6 +183,7 @@ media-device-format = Biçim
 media-device-channels = Kanallar
 media-device-rate = Hız
 media-device-latency = Gecikme
+media-capabilities-title = Çoklu ortam yetenekleri
 media-codec-support-info = Codec destek bilgileri
 # List all the entries of the database.
 media-capabilities-enumerate = Veritabanını numaralandır
