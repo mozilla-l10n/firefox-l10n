@@ -915,6 +915,11 @@ use-current-pages =
 choose-bookmark =
     .label = Anvend bogmærke…
     .accesskey = b
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Udvidelse ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -1503,6 +1508,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Læs mere
 forms-windows-sso-desc = Håndter konti i dine enhedsindstillinger
 windows-passkey-settings-label = Håndter adgangsnøgler i operativsystemets indstillinger
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2451,3 +2459,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
+
+## Warnings section
+
+
+## Referrals Section
+
