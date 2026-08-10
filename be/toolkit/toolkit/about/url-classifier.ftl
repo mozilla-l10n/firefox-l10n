@@ -51,6 +51,45 @@ url-classifier-content-classifier-loading-url-enabled = Уключыць заг�
 # URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
 # Most often the site URL show in the address bar.
 url-classifier-content-classifier-top-window-url = URL-адрас верхняга акна
+# Checkbox label to enable a Top-window URL.
+# When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
+url-classifier-content-classifier-top-window-url-enabled = Уключыць URL-адрас верхняга акна
+# Label for a dropdown choosing what type of resource is at the destination (the destination type),
+# such as script, image, stylesheet, etc.
+url-classifier-content-classifier-destination-type = Тып прызначэння
+# Header for a group of on/off options (the checkboxes below) that modify how
+# the hypothetical request is classified.
+url-classifier-content-classifier-flags = Сцягі
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = Зонды
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Вынікі
+url-classifier-content-classifier-pbm = Прыватнае агляданне
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Лічыць запыт староннім адносна рамкі верхняга ўзроўню
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Нерэкамендаваны дадатак
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Зандаваць блакаванне
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Зандаваць анатацыю
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Зандаваць функцыю
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Падрабязнасці рухавіка
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = Функцыя
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = Адпавядае
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Выключэнне
 url-classifier-debug-title = Адладка
 url-classifier-debug-module-btn = Пазначыць модулі журнала
 url-classifier-debug-file-btn = Пазначыць файл журнала

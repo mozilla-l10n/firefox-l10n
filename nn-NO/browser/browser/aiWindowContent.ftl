@@ -160,7 +160,20 @@ smart-window-opened-tabs-summary-single =
         [one] Opna { $count } fane.
        *[other] Opna { $count } faner.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Oppretta gruppa «{ $label }» og opna { $count } fane.
+       *[other] Oppretta gruppa «{ $label }» og opna { $count } faner.
+    }
 smart-window-opened-tabs-row-label = Opna faner
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Bytte fane
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Bytte til «{ $title }».
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Oppheva fanegruppering
 # Variables
