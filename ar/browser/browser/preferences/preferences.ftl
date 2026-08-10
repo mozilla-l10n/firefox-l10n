@@ -992,6 +992,11 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = الامتداد ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -2767,3 +2772,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = فُعِّل التضيبط التلقائي للوسيط
     .description = قد التضيبط التلقائي للوسيط للشبكات غير الموثوقة بمراقبة نشاطك.
+
+## Referrals Section
+
