@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = Jaa { -brand-product-name }
 appmenuitem-more-tools =
     .label = Lisää työkaluja
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Ohje ja sivusto-ongelmat
 appmenuitem-help =
     .label = Ohje
 appmenuitem-exit2 =
@@ -336,6 +339,9 @@ appmenu-help-share-ideas =
     .accesskey = d
 appmenu-help-switch-device =
     .label = Uuteen laitteeseen vaihtaminen
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Ohje ja sivusto-ongelmat
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

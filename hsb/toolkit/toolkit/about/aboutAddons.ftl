@@ -643,6 +643,9 @@ find-more-extensions-promo-open-amo-button = Rozšěrjenja wuslědźić
 ## Project Nova styles are enabled.
 ## "Find more fresh looks" refers to the user looking for more Firefox themes.
 
+find-more-themes-promo =
+    .heading = Namakajće dalše nowe napohlady
+    .message = Wubjerće stil, kotryž da wam začuće, zo { -brand-product-name } je waš.
 find-more-themes-promo-open-amo-button = Drasty wuslědźić
 
 ## Promo shown in about:addons extensions list view when no extension is yet installed

@@ -321,7 +321,7 @@ launch-on-login-autostart-infobar-turn-off-button = Wyłącz uruchamianie
 ## { -brand-short-name } to launch when the computer starts up.
 
 launch-on-login-spotlight-title = Czy automatycznie otwierać { -brand-short-name(case: "acc") } po włączeniu komputera?
-launch-on-login-spotlight-startup-checkbox = Otwieraj { -brand-short-name(case: "acc") } po włączeniu urządzenia
+launch-on-login-spotlight-startup-checkbox = Otwieraj { -brand-short-name(case: "acc") } po włączeniu komputera
 launch-on-login-spotlight-pin-taskbar-checkbox = Przypnij do paska zadań
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
 # in the Settings (preferences.ftl). Localizers can reuse the existing
