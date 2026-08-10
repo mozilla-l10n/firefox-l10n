@@ -345,6 +345,15 @@ update-in-progress-ok-button = &বাতিল
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &চালিয়ে যান
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = কার্যকারিতা
@@ -400,6 +409,9 @@ browsing-cfr-recommendations-learn-more = আরও জানুন
 browsing-group =
     .label = ব্রাউজ করা
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = নেটওয়ার্ক সেটিং
@@ -447,6 +459,11 @@ use-current-pages =
 choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
+home-homepage-new-tabs =
+    .label = নতুন ট্যাবগুলি
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -599,6 +616,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } যাচাইকৃত নয়।
 sync-signedin-login-failure = { $email } পুনরায় সংযোগ করতে অনুগ্রহ করে সাইন ইন করুন
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -759,9 +781,15 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন করতে ব্যর্থ
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -849,6 +877,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = কুকি এবং সাইট ডাটা
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1016,6 +1050,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = { -brand-short-name } অধ্যয়ন দেখুন
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1048,8 +1085,35 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = FIPS সক্রিয় করা হবে
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ডেস্কটপ
 downloads-folder-name = ডাউনলোড
 choose-download-folder-title = ডাউনলোড ফোল্ডার নির্বাচন করুন:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+
