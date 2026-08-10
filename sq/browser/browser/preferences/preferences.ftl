@@ -707,6 +707,12 @@ update-in-progress-ok-button = &Hidhe Tej
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -789,6 +795,9 @@ browsing-cfr-recommendations-learn-more = Mësoni më tepër
 browsing-group =
     .label = Shfletim
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Rregullime Rrjeti
@@ -856,6 +865,43 @@ use-current-pages =
 choose-bookmark =
     .label = Përdorni Faqerojtës…
     .accesskey = F
+home-homepage-title =
+    .label = Faqe hyrëse
+home-homepage-new-windows =
+    .label = Dritare të reja
+home-homepage-new-tabs =
+    .label = Skeda të reja
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Zgjidhni një sajt specifik
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adresë(a) sajti
+home-custom-homepage-address =
+    .placeholder = Jepni adresë
+home-custom-homepage-address-button =
+    .label = Shtoni adresë
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ende pa sajte të shtuar.
+home-custom-homepage-delete-address-button =
+    .aria-label = Fshije adresën
+    .title = Fshije adresën
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Zëvendësoje me
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Faqe aktualisht të hapura
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Faqerojtës…
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Zgjerim ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -1424,6 +1470,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Mësoni më tepër
 forms-windows-sso-desc = Administroni llogari që nga rregullimet e pajisjes tuaj
 windows-passkey-settings-label = Administroni kyçkalime te rregullime sistemi
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2272,11 +2321,17 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
 choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2477,3 +2532,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Vetëformësimi i ndërmjetësit është i aktivizuar
     .description = Vetëformësimi i ndërmjetësit mund të lejonte rrjete jo të besueshëm të mbikëqyrin veprimtarinë tuaj.
+
+## Referrals Section
+
