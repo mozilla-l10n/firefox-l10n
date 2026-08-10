@@ -303,6 +303,7 @@ sandbox-proc-type-data-decoder = descodificador de dades
 startup-cache-title = Memòria cau d'inici
 startup-cache-disk-cache-path = Ruta de la memòria cau del disc
 startup-cache-ignore-disk-cache = Ignora la memòria cau del disc
+startup-cache-found-disk-cache-on-init = S'ha trobat una memòria cau al disc en inicialitzar-se
 startup-cache-wrote-to-disk-cache = Ha escrit a la memòria cau del disc
 launcher-process-status-0 = Activat
 launcher-process-status-1 = Desactivat a causa d'un error
@@ -351,6 +352,7 @@ policies-error = Error
 support-printing-title = Impressió
 support-printing-troubleshoot = Resolució de problemes
 support-printing-clear-settings-button = Esborra la configuració d'impressió desada
+support-printing-modified-settings = Configuració d'impressió modificada
 support-printing-prefs-name = Nom
 support-printing-prefs-value = Valor
 

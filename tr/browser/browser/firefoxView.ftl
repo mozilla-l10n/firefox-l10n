@@ -170,7 +170,7 @@ firefoxview-search-text-box-recentbrowsing =
     .placeholder = Ara
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
-    .placeholder = Arama geçmişi
+    .placeholder = Geçmişte ara
 # Placeholder for the input field to search in bookmarks ("search" is a verb).
 firefoxview-search-text-box-bookmarks =
     .placeholder = Yer imlerinde ara

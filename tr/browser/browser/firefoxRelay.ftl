@@ -13,7 +13,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } yeniden kullanı
 
 ##
 
-firefox-relay-must-login-to-fxa = { -relay-brand-name }’i kullanak için { -fxaccount-brand-name }nıza giriş yapmalısınız.
+firefox-relay-must-login-to-fxa = { -relay-brand-name }’i kullanmak için { -fxaccount-brand-name }nıza giriş yapmalısınız.
 firefox-relay-must-login-to-account = { -relay-brand-name } e-posta maskelerinizi kullanmak için hesabınıza giriş yapın.
 firefox-relay-get-unlimited-masks =
     .label = Maskeleri yönet

@@ -119,7 +119,7 @@ cfr-doorhanger-doh-secondary-button = Devre dışı bırak
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Bu sitedeki videolar { -brand-short-name }’un bu sürümünde düzgün oynatılamayabilir. Eksiksiz video desteği için { -brand-short-name } tarayıcınızı güncellemelisiniz.
-cfr-doorhanger-video-support-header = Videoları izlemek için { -brand-short-name }’ güncelleyin
+cfr-doorhanger-video-support-header = Videoları izlemek için { -brand-short-name } tarayıcısını güncelleyin
 cfr-doorhanger-video-support-primary-button = Şimdi güncelle
     .accesskey = m
 

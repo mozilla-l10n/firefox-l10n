@@ -226,8 +226,8 @@ ip-protection-site-exceptions-all-sites-button =
     .label = Web sitesi ayarlarını yönet
     .description =
         { $count ->
-            [one] { $count } web site
-           *[other] { $count } web site
+            [one] { $count } web sitesi
+           *[other] { $count } web sitesi
         }
 ip-protection-autostart =
     .label = VPN’i otomatik olarak aç

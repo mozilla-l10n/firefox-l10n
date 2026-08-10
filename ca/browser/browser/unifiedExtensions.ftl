@@ -13,6 +13,13 @@ unified-extensions-manage-extensions =
     .label = Gestiona les extensions
 unified-extensions-discover-extensions =
     .label = Descobriu extensions
+unified-extensions-empty-reason-private-browsing-not-allowed = Teniu extensions instal·lades, però no estan activades en finestres privades
+unified-extensions-empty-reason-extension-not-enabled = Teniu extensions instal·lades, però no estan activades
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Milloreu la navegació amb extensions
+unified-extensions-empty-content-explain-enable2 = Seleccioneu { unified-extensions-manage-extensions.label } per activar-les a la configuració.
+unified-extensions-empty-content-explain-manage2 = Seleccioneu “{ unified-extensions-manage-extensions.label }” per gestionar-les a la configuració.
+unified-extensions-empty-content-explain-extensions-onboarding = Personalitzeu el { -brand-short-name } canviant-ne l'aspecte i el rendiment o millorant la privadesa i la seguretat.
 
 ## An extension in the main list
 
@@ -23,6 +30,12 @@ unified-extensions-discover-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Obre el menú de { $extensionName }
 unified-extensions-item-message-manage = Gestiona l'extensió
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } està restringida. Usar-la pot ser arriscat.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } infringeix les polítiques de Mozilla. Usar-la pot ser arriscat.
 
 ## Extension's context menu
 

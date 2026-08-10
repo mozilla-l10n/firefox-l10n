@@ -67,7 +67,7 @@ import-items-page-title = İçe aktarılacak öğeler
 import-items-description = İçe aktarılacak öğeleri seçin:
 import-permissions-page-title = Lütfen { -brand-short-name } izinlerini verin
 # Do not translate "Safari" (the name of the browser on Apple devices)
-import-safari-permissions-string = { -brand-short-name } tarayıcınızın Safari verilerine erişmesi için izin vermeniz gerekiyor. “Devam et”e tıklayın, açılan Finder iletişim kutusundan “Safari“ klasörünü seçin ve “Aç”a tıklayın.
+import-safari-permissions-string = { -brand-short-name } tarayıcınızın Safari verilerine erişmesi için izin vermeniz gerekiyor. “Devam et”e tıklayın, açılan Finder iletişim kutusundan “Safari” klasörünü seçin ve “Aç”a tıklayın.
 import-migrating-page-title = İçe aktarılıyor…
 import-migrating-description = Aşağıdaki öğeler şu anda içe aktarılıyor…
 import-select-profile-page-title = Profil seçin
