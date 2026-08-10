@@ -986,6 +986,38 @@ use-current-pages =
 choose-bookmark =
     .label = Blêdwizer brûke…
     .accesskey = B
+home-homepage-title =
+    .label = Startside
+home-homepage-new-windows =
+    .label = Nije finsters
+home-homepage-new-tabs =
+    .label = Nije ljepblêden
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Kies in spesifike website
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Websiteadres(sen)
+home-custom-homepage-address =
+    .placeholder = Fier adres yn
+home-custom-homepage-address-button =
+    .label = Adres tafoegje
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Noch gjin websites tafoege.
+home-custom-homepage-delete-address-button =
+    .aria-label = Adres fuortsmite
+    .title = Adres fuortsmite
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Ferfange troch
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Aktuele iepene siden
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Blêdwizers…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
