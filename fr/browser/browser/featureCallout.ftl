@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Ouvrez vos sites de streaming sous forme d
 taskbar-tabs-value-prop-callout-title = Ajouter ce site à votre barre des tâches
 taskbar-tabs-value-prop-callout-subtitle = Lancez-le dans sa propre fenêtre et dans une interface simplifiée d’un simple clic.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Restez connecté·e depuis votre barre des tâches
+taskbar-tabs-email-callout-title-v3 = Gardez votre boîte de réception dans votre barre des tâches
+taskbar-tabs-email-callout-subtitle-v3 = Lancez vos sites de messagerie comme une application dans une fenêtre simplifiée protégée par { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Conservez votre streaming dans votre barre des tâches
+taskbar-tabs-media-callout-subtitle-v3 = Lancez vos sites multimédia comme une application dans une fenêtre simplifiée protégée par { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Épinglez vos sites préférés à votre barre des tâches
+taskbar-tabs-value-prop-callout-subtitle-v3 = Lancez n’importe quel site comme une application dans une fenêtre rationalisée protégée par { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Continuez à jouer depuis la barre des tâches
+taskbar-tabs-gaming-callout-subtitle-v3 = Lancez vos sites de jeux comme une application dans une fenêtre simplifiée protégée par { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Épingler à la barre des tâches
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ne perdez pas tout ce que vous avez enregistré lorsque vous passez à Windows 11.
