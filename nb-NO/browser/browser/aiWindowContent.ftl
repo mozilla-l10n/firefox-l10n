@@ -160,6 +160,7 @@ smart-window-opened-tabs-summary-single =
         [one] Åpnet { $count } fane.
        *[other] Åpnet { $count } faner.
     }
+smart-window-opened-tabs-row-label = Åpnede faner
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Byttet fane
 # Variables

@@ -162,6 +162,7 @@ appmenu-fxa-signed-in-label = Logg inn
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Logg inn for å synkronisere
+appmenu-fxa-sign-in-promo-message = Få tilgang til dataene dine overalt
 appmenu-fxa-sign-in-promo-button =
     .label = Logg inn
 appmenu-fxa-setup-sync =
@@ -297,7 +298,21 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = Hold enhetene dine synkronisert
 appmenu-sync-promo-signin-cta = Logg inn
+appmenu-sync-promo-turnonsync =
+    .heading = Synkroniser dine faner og historikk
+appmenu-sync-promo-turnonsync-cta = Slå på synkronisering
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Hent dine mobilfaner
+appmenu-sync-promo-connectdevice-cta = Koble til en enhet
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Ta med deg dine bokmerker
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Ta med deg bokmerkene på veien
 
 ## Help panel
 
@@ -374,9 +389,14 @@ appmenuitem-monitor-description = Få varsler om datalekkasjer
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Hold e-posten din privat
 appmenuitem-relay-description2 = Hjelper med å forhindre søppelpost (spam) i innboksen din
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Vis e-postalias
 appmenuitem-relay-description = Skjul din ekte e-postadresse og ditt telefonnummer
 appmenuitem-services-relay-description = Start oversikten for e-postalias
 appmenuitem-vpn-title2 = Skjul plasseringen din med { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Få ekstra beskyttelse på tvers av apper og enheter
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Åpne { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Gjør surfingen din vanskeligere å spore
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få beskyttelse for hele enheten

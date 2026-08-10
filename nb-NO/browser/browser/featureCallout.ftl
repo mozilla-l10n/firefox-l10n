@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Start strømmetjenestene som en app i et s
 taskbar-tabs-value-prop-callout-title = Legg til dette nettstedet på oppgavelinjen
 taskbar-tabs-value-prop-callout-subtitle = Start den i et eget vindu og et forenklet grensesnitt med et enkelt klikk.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Hold deg tilkoblet fra oppgavelinjen
+taskbar-tabs-email-callout-title-v3 = Behold innboksen din i oppgavelinjen
+taskbar-tabs-email-callout-subtitle-v3 = Start e-post-nettsteder som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Behold strømmingen din på oppgavelinjen
+taskbar-tabs-media-callout-subtitle-v3 = Start medie-nettsteder som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Fest favorittnettstedene dine til oppgavelinjen
+taskbar-tabs-value-prop-callout-subtitle-v3 = Start et hvilket som helst nettsted som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Gå tilbake til spillingen fra oppgavelinjen
+taskbar-tabs-gaming-callout-subtitle-v3 = Start spillsidene dine som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Fest til oppgavelinjen
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ikke mist alt du har lagret når du flytter til Windows 11.

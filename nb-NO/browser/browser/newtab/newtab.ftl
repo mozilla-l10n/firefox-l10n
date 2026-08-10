@@ -470,6 +470,23 @@ topsite-label-pinned =
     .aria-label = { $title } (festet)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Varsler fra { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Akkurat nå
+newtab-topsites-hover-card-mark-all-read =
+    .title = Merk alle som lest
+    .aria-label = Merk alle som lest
+newtab-topsites-hover-card-settings =
+    .title = Varslingsinnstillinger
+    .aria-label = Varslingsinnstillinger
+newtab-topsites-hover-card-dismiss =
+    .title = Ignorer
+    .aria-label = Ignorer
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
