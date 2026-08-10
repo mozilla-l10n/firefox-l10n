@@ -14,8 +14,23 @@ ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Препоръчан
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Личен: { $shortName }
 
 ## These are labels describing model types in the smartbar model select.
 
 aiwindow-input-model-select-button-label-personal = Личен
 aiwindow-input-model-select-button-label-custom = По избор
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-default-badge =
+    .label = По подразбиране
+    .title = Избраният модел по подразбиране
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Затваряне
+    .tooltiptext = Затваряне
