@@ -705,6 +705,9 @@ newtab-custom-shortcuts-toggle =
     .description = Nettsteder du lagrer eller besøker
 newtab-custom-shortcuts-nova =
     .label = Snarveier
+newtab-custom-web-notifications-toggle =
+    .label = Nettvarsler
+    .description = Vis varsler fra nettstedene dine på snarveiene deres.
 newtab-custom-row-description =
     .description = Antall rader
 # Variables
@@ -1654,6 +1657,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Søkeresultat
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Legg til «{ $city }» som en tilpasset klokke
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Bynavn
+    .aria-label = Bynavn
+    .placeholder = Navngi denne klokken
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Tidssone
+    .aria-label = Tidssone
+    .placeholder = Søk etter by, tidssone eller forskyvning fra UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Resultater for tidssone
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Ingen samsvarende tidssoner
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Tilbake
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

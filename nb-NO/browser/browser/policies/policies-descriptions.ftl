@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Deaktiver funksjonen Firefox Screenshots
 policy-DisableFirefoxStudies = Forhindre { -brand-short-name } fra å kjøre undersøkelser.
 policy-DisableForgetButton = Forhindre tilgang til knappen Glem.
 policy-DisableFormHistory = Ikke lagre søke- og skjemahistorikk.
+policy-DisableLaunchOnLogin = Hindre at { -brand-short-name } starter automatisk når brukeren logger inn.
 policy-DisablePrimaryPasswordCreation = Om aktiv, kan ikke et hovedpassord lages.
 policy-DisablePasswordReveal = Ikke la passord bli avslørt for lagrede innlogginger.
 policy-DisablePocket2 = Deaktiver funksjonen for å lagre nettsider til { -pocket-brand-name }.

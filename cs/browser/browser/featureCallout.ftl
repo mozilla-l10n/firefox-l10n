@@ -169,6 +169,26 @@ taskbar-tabs-media-callout-subtitle =
 taskbar-tabs-value-prop-callout-title = Přidejte tuto stránku na systémový hlavní panel
 taskbar-tabs-value-prop-callout-subtitle = Spouštějte ji jedním klepnutím v samostatném okně se zjednodušeným rozhraním.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Zůstaňte ve spojení ze svého hlavního panelu
+taskbar-tabs-email-callout-title-v3 = Nechte si doručenou poštu na hlavním panelu
+taskbar-tabs-email-callout-subtitle-v3 = Spouštějte své e-mailové stránky jako aplikaci v optimalizovaném okně chráněném aplikací { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Streamování si nechte na hlavním panelu
+taskbar-tabs-media-callout-subtitle-v3 = Spouštějte své multimediální stránky jako aplikaci v jednoduchém okně chráněném aplikací { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Připněte si své oblíbené stránky na lištu
+taskbar-tabs-value-prop-callout-subtitle-v3 = Spouštějte libovolnou stránku typu "aplikace" v jednoduchém okně chráněném aplikací { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Vraťte se k hraní her z hlavního panelu
+taskbar-tabs-gaming-callout-subtitle-v3 = Spouštějte své herní stránky jako aplikaci v jednoduchém okně chráněném aplikací { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Připnout na hlavní panel
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Nepřijďe při přechodu na Windows 11 o vše, co jste si uložili,
