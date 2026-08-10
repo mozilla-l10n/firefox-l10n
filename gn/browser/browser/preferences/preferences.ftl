@@ -983,6 +983,11 @@ use-current-pages =
 choose-bookmark =
     .label = Techaukaha poru…
     .accesskey = B
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Jepysokue ({ $extension })
 
 ## Custom Homepage subpage
 
