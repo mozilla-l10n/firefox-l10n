@@ -712,6 +712,9 @@ update-in-progress-ok-button = &Рад кардан
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
 
+## About Firefox
+
+
 ## Firefox updates
 
 update-application-suppress-prompts-heading =
@@ -872,6 +875,11 @@ use-current-pages =
 choose-bookmark =
     .label = Истифодаи хатбарак…
     .accesskey = И
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Васеъшавӣ ({ $extension })
 
 ## Custom Homepage subpage
 
@@ -1447,6 +1455,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Маълумоти бештар
 forms-windows-sso-desc = Ҳисобҳоро дар танзимоти дастгоҳи худ идора кунед
 windows-passkey-settings-label = Идоракунии шоҳкалидҳо дар танзимоти низоми компютерӣ
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2213,6 +2224,9 @@ desktop-folder-name = Мизи корӣ
 downloads-folder-name = Боргириҳо
 choose-download-folder-title = Интихоби ҷузвдон барои боргириҳо:
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-block-ai-label = Манъ кардани такмилҳои зеҳни сунъӣ (AI)
@@ -2280,3 +2294,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Хонандаи нақши ангуштони номаълум
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Хонандаи нақши ангуштони номаълум
+
+## Warnings section
+
+
+## Referrals Section
+
