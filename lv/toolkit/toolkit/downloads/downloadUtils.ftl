@@ -101,6 +101,6 @@ download-utils-time-unknown = Atlikušais laiks nav zināms
 download-utils-done-scheme = { $scheme } resurss
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = lokāls fails
+download-utils-done-file-scheme = vietēja datne
 # Displayed time for files finished yesterday
 download-utils-yesterday = Vakar

@@ -56,7 +56,7 @@ modified-key-prefs-title = Svarīgie modificētie iestatījumi
 modified-prefs-name = Nosaukums
 modified-prefs-value = Vērtība
 user-js-title = user.js iestatījumi
-user-js-description = Jūsu profila mapē atrodas <a data-l10n-name="user-js-link">user.js fails</a>, kas satur iestatījumus, ko nav izveidojis { -brand-short-name }.
+user-js-description = Profila mapē atrodas <a data-l10n-name="user-js-link">datne user.js</a>, kas satur iestatījumus, ko neizveidoja{ -brand-short-name }.
 locked-key-prefs-title = Svarīgi bloķētie iestatījumi
 locked-prefs-name = Nosaukums
 locked-prefs-value = Vērtība

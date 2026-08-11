@@ -5,7 +5,7 @@
 
 ## Error page titles
 
-neterror-page-title = Problēma ar lapas ielādi
+neterror-page-title = Sarežģījumi ar lapas ielādi
 certerror-page-title = Brīdinājums: Potenciāls drošības risks
 certerror-sts-page-title = Netika izveidots savienojums: potenciāla drošības problēma
 neterror-blocked-by-policy-page-title = Bloķēta lapa
@@ -42,10 +42,11 @@ neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</str
 ##
 
 neterror-file-not-found-filename = Pārbaudiet, vai faila vārds ir uzrakstīts pareizi un ar pareizā lieluma burtiem.
-neterror-file-not-found-moved = Pārliecinieties, ka fails nav pārvietots, pārsaukts vai izdzēsts.
+neterror-file-not-found-moved = Jāpārliecinās, ka datne nav pārvietota, pārdēvēta vai izdzēsta.
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } nevar atrast datni <strong>{ $path }</strong>. Vai nu tā nepastāv, vai arī ceļš ir nepareizs.
+neterror-file-not-found-what-can-you-do = Ja adrese tika ierakstīta pašrocīgi, datnes nosaukumā vai ceļā jāpārbauda lielo un mazo burtu vai citas rakstības kļūdas. Ja tika atvērta saglabāta grāmatzīme vai saite, kopš tās saglabāšanas brīža datne var būt pārvietota, pārdēvēta vai izdzēsta. Jāmēģina atrast to datņu pārvaldniekā vai ar meklēšanu nesenajos vienumos.
 neterror-access-denied = Tas varētu būt aizvākts, pārvietots vai arī faila piekļuves tiesības liedz piekļuvi tam.
 neterror-unknown-protocol = Iespējams, jums jāuzinstalē kāda cita programma, lai apstrādātu šī tipa adreses.
 neterror-redirect-loop = Šo problēmu reizēm var atrisināt, deaktivējot sīkdatnes vai nepieņemot tās no šīs lapas.

@@ -7,4 +7,4 @@
 browser-utils-url-scheme = { $scheme } resurss
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
-browser-utils-file-scheme = lokāls fails
+browser-utils-file-scheme = vietēja datne
