@@ -2802,6 +2802,11 @@ security-privacy-issue-warning-proxy-autodetection =
 
 ## Referrals Section
 
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Emoherakuã { -brand-short-name }
+    .description = Eipepirũ peteĩme toiporavo kundahára omotenondéva tekoñemi.
 # Link that opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =

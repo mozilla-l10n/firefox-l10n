@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Ejoko about:support kuatiaroguépe jeike.
 policy-Bookmarks = Emoheñói techaukaha tembiporu renda rechaukahápe, pe techaukaha poravorãme térã peteĩ ñongatuhaitépe oĩva hyepýpe voi.
 policy-CaptivePortal = Embojuruja térã eipe’a pe pytyvõha ñapytĩmbýva.
 policy-CertificatesDescription = Embojuaju mboajepyre térã eiporu mboajepyre moingepyre.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Embojuruja ñe’ẽñemi jokupyty CNSA 2.0 ML-KEM-1024 TLS-pe g̃uarã.
 policy-ContentAnalysis = Embojuruja térã eipe’a jeikerã omboykekuaáava mba’ekuaarã ñehundi.
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
 # Containers in this context is referring to container tabs in Firefox.

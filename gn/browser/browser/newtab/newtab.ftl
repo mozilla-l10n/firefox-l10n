@@ -664,6 +664,9 @@ newtab-custom-shortcuts-toggle =
     .description = Tenda eñongatúva térã eikeha
 newtab-custom-shortcuts-nova =
     .label = Jeike pya’eha
+newtab-custom-web-notifications-toggle =
+    .label = Marandu’i ñandutigua
+    .description = Ehechauka marandu’i tendaguigua nde jeike pya’ehápe
 newtab-custom-row-description =
     .description = Tysýi papapy
 # Variables

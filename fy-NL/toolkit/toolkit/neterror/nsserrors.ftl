@@ -15,8 +15,8 @@ psmerr-hostreusedissuerandserial =
     Jo hawwe in ûnjildich sertifikaat ûntfangen. Nim kontakt op mei de serverbehearder of e-mailkorrespondint en jou harren de folgjende ynformaasje:
     
     Jo sertifikaat hat itselde searjenûmer as in oar troch de sertifikaatautoriteit útjûn sertifikaat. Helje in nij sertifikaat mei in unyk searjenûmer op.
-ssl-error-export-only-server = Befeilige kommunikaasje net mooglik.  Peer stipet gjin hege graad fan fersifering.
-ssl-error-us-only-server = Befeilige kommunikaasje net mooglik.  Peer fereasket hege graad fan fersifering, hokker net stipe wurd.
+ssl-error-export-only-server = Befeilige kommunikaasje net mooglik. Peer stipet gjin hege graad fan fersifering.
+ssl-error-us-only-server = Befeilige kommunikaasje net mooglik. Peer fereasket hege graad fan fersifering, hokker net stipe wurd.
 ssl-error-no-cypher-overlap = Kin net befeiligd kommunisearje mei peer: gjin algemien(e) fersiferingsalgoritme(n).
 ssl-error-no-certificate = Foar autentikaasje benedige sertifikaat of kaai koe net fûn wurde.
 ssl-error-bad-certificate = Kin net befeiligd kommunisearje mei peer: peers sertifikaat wurde ferworpen.
@@ -181,8 +181,8 @@ sec-error-no-key = De priveekaai foar dit sertifikaat kin net fûn wurde yn de k
 sec-error-cert-valid = Dit sertifikaat is jildich.
 sec-error-cert-not-valid = Dit sertifikaat is net jildich.
 sec-error-cert-no-response = Sertifikaatbiblioteek: gjin antwurd
-sec-error-expired-issuer-certificate = It sertifikaat fan de sertifikaatútjouwer is ferrûn.  Kontrolear jo systeemdatum en -tiid.
-sec-error-crl-expired = De CRL foar de sertifikaatútjouwer is ferrûn.  Wurk dizze by of kontrolear uw systeemdatum en -tiid.
+sec-error-expired-issuer-certificate = It sertifikaat fan de sertifikaatútjouwer is ferrûn. Kontrolearje jo systeemdatum en -tiid.
+sec-error-crl-expired = De CRL foar de sertifikaatútjouwer is ferrûn. Wurkje dizze by of kontrolearje jo systeemdatum en -tiid.
 sec-error-crl-bad-signature = De CRL foar de sertifikaatútjouwer hat in ûnjildiche ûndertekening.
 sec-error-crl-invalid = Nije CRL hat in ûnjildich formaat.
 sec-error-extension-value-invalid = Wearde fan sertifikaatútwreiding is ûnjildich.
@@ -218,9 +218,9 @@ sec-error-baggage-not-created = flater tiidens it meitesjen fan bagage objekt
 sec-error-bad-export-algorithm = Fereaske algoritme is net tastien.
 sec-error-exporting-certificates = Flater by poging ta eksportearjen fan sertifikaten.
 sec-error-importing-certificates = Flater by poging ta ymportearjen fan sertifikaten.
-sec-error-pkcs12-decoding-pfx = Kin net ymportearje.  Flater by dekodearjen.  Bestân net jildich.
-sec-error-pkcs12-invalid-mac = Kin net ymportearje.  Unjildige MAC.  Ferkeard wachtwurd of skansearre bestân.
-sec-error-pkcs12-unsupported-mac-algorithm = Kin net ymportearje.  MAC-algoritme net stipe.
+sec-error-pkcs12-decoding-pfx = Kin net ymportearje. Flater by dekodearjen. Bestân net jildich.
+sec-error-pkcs12-invalid-mac = Kin net ymportearje. Unjildige MAC. Ferkeard wachtwurd of skansearre bestân.
+sec-error-pkcs12-unsupported-mac-algorithm = Kin net ymportearje. MAC-algoritme net stipe.
 sec-error-pkcs12-unsupported-transport-mode = Kin net ymportearje.  Allinnich wachtwurdyntegriteits- en privacymodi wurde stipe.
 sec-error-pkcs12-corrupt-pfx-structure = Kin net ymportearje.  Bestânsstruktuer is skansearre.
 sec-error-pkcs12-unsupported-pbe-algorithm = Kin net ymportearje.  Fersiferingsalgoritme net stipe.
