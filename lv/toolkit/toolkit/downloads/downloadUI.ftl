@@ -45,4 +45,4 @@ download-ui-cancel-downloads-ok =
 download-ui-file-executable-security-warning-title = Vai palaist izpildāmu failu?
 # Variables:
 #   $executable (String): The executable file to be opened.
-download-ui-file-executable-security-warning = "{ $executable }" ir izpildāms fails. Izpildāmie faili var saturēt vīrusus vai citu ļaunprātīgu kodu, kas var kaitēt jūsu datoram. Uzmanieties, to atverot. Vai tiešām vēlaties palaist "{ $executable }"?
+download-ui-file-executable-security-warning = "{ $executable }" ir izpildāma datne. Izpildāmās datnes var saturēt vīrusus vai citu ļaunprātīgu kodu, kas var kaitēt datoram. Ar tās atvēršanu ir jāuzmanās. Tiešām palaist “{ $executable }”?
