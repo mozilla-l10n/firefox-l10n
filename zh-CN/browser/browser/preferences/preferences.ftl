@@ -191,6 +191,10 @@ windows-launch-on-login =
     .label = 启动电脑时自动打开 { -brand-short-name }
     .accesskey = O
 windows-launch-on-login-disabled = 此首选项在 Windows 中被禁用。请在系统设置中打开<a data-l10n-name="startup-link">启动应用</a>以更改。
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
+windows-launch-on-login-open-new-tab =
+    .label = 同时打开新标签页
+    .accesskey = n
 windows-launch-on-login-profile-disabled = 在“选择用户配置文件”窗口中勾选“{ profile-manager-use-selected.label }”以启用此首选项。
 startup-restore-warn-on-quit =
     .label = 退出浏览器时向您确认

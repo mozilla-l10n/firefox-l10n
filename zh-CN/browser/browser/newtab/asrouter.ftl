@@ -293,6 +293,20 @@ launch-on-login-infobar-final-message = <strong>想在重启电脑后自动打�
 launch-on-login-infobar-final-reject-button = 不了，谢谢
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } 现在会在您登录 Windows 时启动。您随时可以在设置中更改。
+launch-on-login-autostart-infobar-keep-button = 保持开启
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = 关闭
+    .accesskey = T
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -497,6 +511,7 @@ nova-early-access-infobar-primary-button = 知道了
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = 要在每次登录 Windows 时启动 { -brand-short-name } 吗？
 launch-options-spotlight-title-session-restore = 要在 { -brand-short-name } 重启时恢复浏览状态吗？
 launch-options-spotlight-checkbox-launch-on-login = 开机时启动 { -brand-short-name }
 launch-options-spotlight-checkbox-pin-to-taskbar = 固定到任务栏
