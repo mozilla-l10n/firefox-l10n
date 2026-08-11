@@ -148,6 +148,8 @@ fxa-menu-all-devices-panel =
     .title = Ĉiuj aparatoj
 fxa-menu-get-firefox-mobile =
     .label = Elŝutu { -brand-product-name } por Android aŭ iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sekura spegulado
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
@@ -157,6 +159,12 @@ appmenu-fxa-last-sync = Laste spegulita: { $time }
     .label = Laste spegulita: { $time }
 appmenu-fxa-sync-and-save-data2 = Speguli kaj konservi datumojn
 appmenu-fxa-signed-in-label = Komenci seancon
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Komenci seancon por speguli
+appmenu-fxa-sign-in-promo-message = Aliru viajn datumojn el ie ajn
+appmenu-fxa-sign-in-promo-button =
+    .label = Komenci seancon
 appmenu-fxa-setup-sync =
     .label = Ŝalti speguladon…
 appmenu-fxa-setup-sync-new = Ŝalti
@@ -285,6 +293,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Serĉi en historio
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Restu spegulita inter aparatoj
+appmenu-sync-promo-signin-cta = Komenci seancon
+appmenu-sync-promo-turnonsync =
+    .heading = Speguli viajn langetojn kaj historion
+appmenu-sync-promo-turnonsync-cta = Ŝalti speguladon
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Alporti viajn poŝaparatajn langetojn
+appmenu-sync-promo-connectdevice-cta = Konekti aparaton
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Kunporti viajn legosignojn kun vi
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Kunportu viajn legosignojn kun vi
+
 ## Help panel
 
 appmenu-help-header =
@@ -292,6 +321,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Pri { -brand-shorter-name }
     .accesskey = P
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Rekomendi { -brand-shorter-name }
+    .accesskey = R
 appmenu-get-help =
     .label = Helpo
     .accesskey = H
@@ -305,6 +339,9 @@ appmenu-help-share-ideas =
     .accesskey = D
 appmenu-help-switch-device =
     .label = Iro al nova aparato
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Helpo kaj raportado
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -345,14 +382,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Komenci seancon per via konto
 appmenuitem-monitor-title2 = Anticipu la ŝtelon de identeco
 appmenuitem-monitor-description2 = Ricevu avertojn pri datumfuĝoj
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } atentigoj pri datumfuĝoj
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ricevu atentigojn pri datumfuĝoj
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Tenu vian repoŝton privata
 appmenuitem-relay-description2 = Tio ĉi helpas eviti trudmesaĝojn en via enirkesto
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Montri retpoŝtajn maskojn
 appmenuitem-relay-description = Maski vian veran retpoŝton kaj telefonnumeron
 appmenuitem-services-relay-description = Malfermi la panelon pri retpoŝtaj maskoj
 appmenuitem-vpn-title2 = Kaŝu vian pozicion per { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Profitu aldonan protekton en ĉiuj programoj kaj aparatoj
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Malfermi { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Igu vian retumon pli malfacile spurebla
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Protekto por la integra aparato
@@ -375,9 +419,45 @@ appmenu-manage-profiles =
     .label = Administri profilojn
 appmenu-copy-profile =
     .label = Kopii tiun ĉi profilon
+appmenu-create-profile2 =
+    .label = Krei novan profilon
 appmenu-create-profile =
     .label = Nova profilo
 appmenu-edit-profile =
     .aria-label = Modifi profilon
+appmenu-edit-this-profile =
+    .label = Modifi tiun ĉi profilon
+appmenu-profile-current-in-use = Nune uzata profilo
+fxa-menu-create-profile-subpanel =
+    .title = Krei novan profilon
+fxa-menu-create-profile-heading = Plibonigu vian retumon per nova profilo
+fxa-menu-create-profile-description = Apartigu viajn legosignojn, pasvortojn kaj historiojn inter labora kaj persona retumo.
+fxa-menu-create-profile-confirm =
+    .label = Krei novan profilon
+fxa-menu-create-profile-learn-more =
+    .label = Kio estas profiloj?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Rekomendi { -brand-short-name }
+appmenuitem-share-firefox-description = Invitu iun elekti la retumilon kiu zorgas unue pri via privateco
 appmenu-profiles-2 =
     .label = Profiloj
+appmenu-profiles-header = Profiloj
+appmenu-all-profiles =
+    .label = Ĉiuj profiloj
+appmenu-secure-sync-header = Sekura spegulado
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Ĵusaj langetoj
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Montri spegulitan langeton
+           *[other] Montri ĉiujn { $tabCount } spegulitajn langetojn
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Sendi nunan paĝon al tiu aparato
