@@ -359,7 +359,7 @@ newtab-toast-dismiss-button =
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Atklājiet labāko no tīmekļa
-newtab-pocket-onboarding-cta = { -pocket-brand-name } izpēta daudzveidīgu publikāciju klāstu, lai sniegtu visinformatīvāko, iedvesmojošāko un uzticamāko saturu tieši jūsu { -brand-product-name } pārlūkā.
+newtab-pocket-onboarding-cta = { -pocket-brand-name } izpēta daudzveidīgu publikāciju klāstu, lai sniegtu visinformatīvāko, iedvesmojošāko un uzticamāko saturu tieši Tavā { -brand-product-name } pārlūkā.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
