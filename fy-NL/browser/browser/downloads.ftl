@@ -203,7 +203,7 @@ downloads-private-browsing-accept-button =
 downloads-files-not-downloaded =
     { $num ->
         [one] Bestân net download.
-       *[other] { $num } bestanden niet gedownload.
+       *[other] { $num } bestannen net download.
     }
 downloads-blocked-from-url = Downloads blokkearre fan { $url }.
 downloads-blocked-download-detailed-info = { $url } hat probearre automatysk meardere bestannen te downloaden. De website kin defekt wêze of probearje spambestannen op jo apparaat te bewarjen.

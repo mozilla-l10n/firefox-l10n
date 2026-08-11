@@ -115,7 +115,7 @@ addon-confirm-install-unsigned-message =
     }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
-addon-confirm-install-some-unsigned-message = Waarschuwing: deze website wil { $addonCount } add-ons installeren in { -brand-short-name }, waarvan enkele niet zijn geverifieerd. Ga verder op eigen risico.
+addon-confirm-install-some-unsigned-message = Warskôging: dizze website wol { $addonCount } add-ons ynstallearje yn { -brand-short-name }, wêrfan inkelde net ferifiearre binne. Gean fierder op eigen risiko.
 
 ## Add-on install errors
 ## Variables:

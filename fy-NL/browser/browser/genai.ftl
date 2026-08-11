@@ -79,10 +79,10 @@ genai-input-ask-provider =
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning-generic =
-    .heading = AI-chatbot krijt net jo folsleine seleksje
+    .heading = AI-chatbot ûntfangt net jo folsleine seleksje
     .message =
         { $selectionLength ->
-           *[other] U hebt ongeveer { $selectionLength } tekens geselecteerd.. Het aantal tekens dat we naar de AI chatbot kunnen sturen is ongeveer { $maxLength }.
+           *[other] Jo hawwe ûngefear { $selectionLength } tekens selektearre. It oantal tekens dat wy nei de AI-chatbot stjoere kinne is ûngefear { $maxLength }.
         }
 # $provider (string) - name of the provider
 # $selectionLength (number) - selected text length
@@ -91,7 +91,7 @@ genai-shortcuts-selected-warning =
     .heading = { $provider } ûntfangt net jo folsleine seleksje
     .message =
         { $selectionLength ->
-           *[other] U hebt ongeveer { $selectionLength } tekens geselecteerd. Het aantal tekens dat we naar { $provider } kunnen sturen is ongeveer { $maxLength }.
+           *[other] Jo hawwe ûngefear { $selectionLength } tekens selektearre. It oantal tekens dat wy nei { $provider } stjoere kinne is ûngefear { $maxLength }.
         }
 genai-shortcuts-hide =
     .label = Chatbot-fluchkeppeling ferstopje

@@ -167,7 +167,7 @@ add-exception-unverified-or-bad-signature-long = It sertifikaat wurdt net fertro
 add-exception-valid-short = Jildich sertifikaat
 add-exception-valid-long = Dizze website jout falide, ferifiearre identifikaasje.  It is net nedich om in útsûndering ta te foegjen.
 add-exception-checking-short = Kontrolearret ynformaasje
-add-exception-checking-long = Poging ta identifikaasje fan dizze website…
+add-exception-checking-long = Besykjen ta identifikaasje fan dizze website…
 add-exception-no-cert-short = Gjin ynformaasje beskikber
 add-exception-no-cert-long = Identifikaasjesteat fan dizze website is net te krijen.
 
