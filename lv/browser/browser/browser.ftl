@@ -307,7 +307,7 @@ urlbar-midi-blocked =
 urlbar-serial-blocked =
     .tooltiptext = Jūs esat bloķējis šīs vietnes piekļuvi seriālajam portam.
 urlbar-install-blocked =
-    .tooltiptext = Jūs liedzāt papildinājumu instalēšanu šai tīmekļa vietnei.
+    .tooltiptext = Tu šai tīmekļvietnei liedzi papildinājumu uzstādīšanu.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
