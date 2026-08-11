@@ -706,6 +706,9 @@ newtab-custom-shortcuts-toggle =
     .description = Mentett vagy felkeresett webhelyek
 newtab-custom-shortcuts-nova =
     .label = Indítóikonok
+newtab-custom-web-notifications-toggle =
+    .label = Webes értesítések
+    .description = Értesítések megjelenítése a webhelyekről az indítóikonjaikon
 newtab-custom-row-description =
     .description = Sorok száma
 # Variables
@@ -773,6 +776,29 @@ newtab-custom-close-menu-button =
     .aria-label = Menü bezárása
 newtab-custom-close-button = Bezárás
 newtab-custom-settings = További beállítások kezelése
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Megjelenés
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = További témák megtekintése
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } témák
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Saját témák
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Engedélyezés
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Letiltás
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Téma telepítése
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = További témák felfedezése
 
 ## New Tab Wallpapers
 
@@ -1638,6 +1664,26 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Találatok
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = „{ $city }” hozzáadása egyéni óraként
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Város
+    .aria-label = Város
+    .placeholder = Nevezze el az órát
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Időzóna
+    .aria-label = Időzóna
+    .placeholder = Keresés város, időzóna vagy UTC-eltolás alapján
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Időzónák
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Nincs megfelelő időzóna
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Vissza
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

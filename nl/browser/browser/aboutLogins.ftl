@@ -113,7 +113,7 @@ login-intro-instructions-fxa2 = Maak op het apparaat waarop uw aanmeldgegevens s
 login-intro-instructions-fxa-settings = Ga naar Instellingen > Synchronisatie > Synchronisatie inschakelen… Plaats een vinkje bij Aanmeldingen en wachtwoorden.
 login-intro-instructions-fxa-passwords-help = Bezoek <a data-l10n-name="passwords-help-link">hulp bij wachtwoorden</a> voor meer hulp.
 about-logins-intro-browser-only-import = Als uw aanmeldingen in een andere browser worden opgeslagen, kunt u <a data-l10n-name="import-link">ze importeren in { -brand-product-name }</a>
-about-logins-intro-import2 = Als uw aanmeldingen buiten { -brand-product-name } zijn opgeslagen, dan kunt u ze importeren <a data-l10n-name="import-browser-link">vanuit een andere browser</a> of <a data-l10n-name = "import-file-link">vanuit een bestand</a>
+about-logins-intro-import2 = Als uw aanmeldingen buiten { -brand-product-name } zijn opgeslagen, dan kunt u ze importeren <a data-l10n-name="import-browser-link">vanuit een andere browser</a> of <a data-l10n-name="import-file-link">vanuit een bestand</a>
 about-logins-intro-import3 = Selecteer de knop met het plusteken hierboven om direct een wachtwoord toe te voegen. U kunt ook <a data-l10n-name="import-browser-link">wachtwoorden uit een andere browser</a> of  <a data-l10n-name="import-file-link">uit een bestand importeren</a>.
 
 ## Login

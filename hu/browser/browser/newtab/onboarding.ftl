@@ -633,3 +633,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = Az asszisztens zárva mar
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = A Kérdés gombbal bármelyik oldalon megnyithatja. Ezt bármikor módosíthatja a <a data-l10n-name="settings">Beállításokban</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Megértettem
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Ha meggondolja magát, bármikor frissítheti az alapértelmezést a <a data-l10n-name="settings">Beállításokban</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Válasszon témát
+onboarding-theme-picker-subtitle = Vigyen egy kis színt a { -brand-short-name }ba.
+onboarding-theme-picker-button-label = Mentés és folytatás

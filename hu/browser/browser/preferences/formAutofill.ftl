@@ -31,6 +31,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Most nem
     .accessKey = n
+address-capture-never-save-button =
+    .label = Sose mentse
+    .accessKey = S
 address-capture-cancel-button =
     .label = Mégse
     .accessKey = s
@@ -170,6 +173,37 @@ autofill-card-network = Kártyatípus
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = hitelkártyák, hitelkártya, hitel, kártyák, kártya, bankkártyák, bankkártya, bank, pénztárca, pénztár, fizetés, vásárlás
+
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Útlevél hozzáadása
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Útlevél szerkesztése
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Név
+autofill-passport-country =
+    .label = Ország
+autofill-passport-number =
+    .label = Szám
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Kiállítás dátuma
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Lejárat dátuma
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = HH
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = NN
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = ÉÉÉÉ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
