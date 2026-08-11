@@ -145,6 +145,8 @@ taskbar-tabs-value-prop-callout-title-v3 = Fixe seus sites preferidos na barra d
 taskbar-tabs-value-prop-callout-subtitle-v3 = Abra qualquer site como um aplicativo, em uma janela simplificada e protegida pelo { -brand-short-name }.
 taskbar-tabs-gaming-callout-title-v3 = Volte a jogos a partir da barra de tarefas
 taskbar-tabs-gaming-callout-subtitle-v3 = Abra sites de jogos como um aplicativo, em uma janela simplificada e protegida pelo { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Fixar na barra de tarefas
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
