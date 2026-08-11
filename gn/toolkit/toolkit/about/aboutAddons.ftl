@@ -624,6 +624,11 @@ find-more-extensions-promo-open-amo-button = Ejeporeka jepysokuére
 
 find-more-themes-promo-open-amo-button = Eheka temakuéra
 
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo-button = Ejuhúta jepysokue ñepyrũha
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -650,6 +655,11 @@ aboutaddons-themes-picker-disable-button =
     .label = Eipe’a
 aboutaddons-themes-picker-install-button =
     .label = Emohenda
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Pe téma ndaikatúi hekopyahu. Ehechjey nde jeike ha eha’ã jey.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.
