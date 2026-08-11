@@ -41,7 +41,7 @@ appearance-browser-icon-requirement =
 appearance-browser-icon-unlocked =
     .message = 您已解鎖所有獎勵圖示！
 appearance-browser-icon-set-default-button =
-    .label = 設為預設圖示
+    .label = 設為預設瀏覽器
 appearance-browser-icon-pin-button =
     .label = 釘選到工作列
 
