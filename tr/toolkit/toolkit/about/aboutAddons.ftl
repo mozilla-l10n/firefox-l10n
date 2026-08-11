@@ -614,6 +614,11 @@ mlmodel-addon-detail-model-card = Model kartı
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Hugging Face’te görüntüle
 
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo-button = İlk uzantınızı bulun
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -625,9 +630,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Cihaz
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } temaları
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Daha fazla göster
+aboutaddons-themes-picker-see-less = Daha az göster
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Etkinleştir
+aboutaddons-themes-picker-disable-button =
+    .label = Devre dışı bırak
+aboutaddons-themes-picker-install-button =
+    .label = Yükle
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Temanız güncellenemedi. Bağlantınızı kontrol edip yeniden deneyin.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

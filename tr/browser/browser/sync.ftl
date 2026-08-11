@@ -65,6 +65,7 @@ fxa-menu-manage-account-subtitle = Hesabı yönet
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Eşitlemek için giriş yapın
+fxa-menu-sign-in-promo-message = Verilerinizi her yere taşıyın
 fxa-menu-sign-in-promo-button =
     .label = Giriş yap
 # Card shown in the account menu when a previously signed-in account is

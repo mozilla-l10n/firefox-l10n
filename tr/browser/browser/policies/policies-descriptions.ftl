@@ -57,6 +57,7 @@ policy-DisableFirefoxScreenshots = Firefox Screenshots özelliğini devre dış�
 policy-DisableFirefoxStudies = { -brand-short-name } tarayıcısının araştırma yürütmesini engelle.
 policy-DisableForgetButton = Unut düğmesine erişimi engelle.
 policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
+policy-DisableLaunchOnLogin = Kullanıcı oturum açtığında { -brand-short-name } uygulamasının otomatik olarak başlatılmasını engelle.
 policy-DisablePrimaryPasswordCreation = True olarak ayarlanırsa ana parola oluşturulamaz.
 policy-DisablePasswordReveal = Kayıtlı hesaplardaki parolaların görüntülenmesine izin verme.
 policy-DisablePocket2 = Web sayfalarını { -pocket-brand-name }’a kaydetme özelliğini devre dışı bırak.
