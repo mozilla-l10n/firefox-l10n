@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Yeni gizli pencere aç
 ai-window-toggleview-status-label-active = { -smart-window-brand-name(form: "uppercase-singular") }
 ai-window-toggleview-status-label-inactive = Klasik pencere
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } değiştirici
+    .tooltiptext = Akıllı pencereyle klasik pencere arasında geçiş yapın.
 
 ## Input CTA
 
