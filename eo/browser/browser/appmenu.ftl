@@ -49,8 +49,15 @@ appmenuitem-translate =
     .label = Traduki paĝon…
 appmenuitem-zoom =
     .value = Grandeco
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Rekomendi { -brand-product-name }
 appmenuitem-more-tools =
     .label = Pli da iloj
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Helpo kaj raportado
 appmenuitem-help =
     .label = Helpo
 appmenuitem-exit2 =
@@ -109,6 +116,38 @@ appmenu-remote-tabs-unverified = Via konto bezonas esti kontrolita.
 appmenuitem-fxa-toolbar-sync-now2 = Speguli nun
 appmenuitem-fxa-sign-in = Komenci seancon en { -brand-product-name }
 appmenuitem-fxa-manage-account = Administri konton
+fxa-menu-sync-status-on = Spegulado ŝaltita
+fxa-menu-sync-status-off = Spegulado malŝaltita
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Viaj datumoj ne estas spegulataj
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Ŝalti
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Komenci seancon por speguli
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Speguli aparaton { $deviceName } nun
+fxa-menu-manage-sync-settings =
+    .label = Administri agordojn de spegulado
+fxa-menu-add-device =
+    .label = Aldoni aparaton
+fxa-menu-manage-devices =
+    .label = Administri viajn aparatojn
+fxa-menu-device-missing =
+    .label = Ĉu via aparato ne videblas?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Ĉiuj aparatoj
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Ĉiuj aparatoj
+fxa-menu-get-firefox-mobile =
+    .label = Elŝutu { -brand-product-name } por Android aŭ iOS
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
