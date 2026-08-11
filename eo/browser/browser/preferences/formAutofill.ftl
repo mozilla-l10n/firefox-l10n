@@ -31,6 +31,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Ne nun
     .accessKey = N
+address-capture-never-save-button =
+    .label = Neniam konservi
+    .accessKey = N
 address-capture-cancel-button =
     .label = Nuligi
     .accessKey = N
@@ -170,6 +173,59 @@ autofill-card-network = Tipo de karto
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = kreditkartoj, kredito, karto, debitkartoj, debito, monujo, pagi
+
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Aldoni pasporton
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Modifi pasporton
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Nomo
+autofill-passport-country =
+    .label = Lando
+autofill-passport-number =
+    .label = Numero
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Dato de livero
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Dato de senvalidiĝo
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = JJJJ
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Ĉu konservi pasporton?
+passport-capture-save-doorhanger-description = Konservi informon en { -brand-short-name } por povi rapide plenigi formularojn.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = Konservi
+    .accessKey = K
+passport-capture-not-now-button =
+    .label = Ne nun
+    .accessKey = e
+passport-capture-never-save-button =
+    .label = Neniam konservi pasportojn
+    .accessKey = N
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

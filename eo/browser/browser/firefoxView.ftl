@@ -247,6 +247,9 @@ firefoxview-choose-browser-button = Elekti retumilon
 
 firefoxview-dont-remember-history-empty-header-2 = Vi decidas, kion { -brand-short-name } memoros
 firefoxview-dont-remember-history-empty-description-one = Nun { -brand-short-name } ne memoras vian retumon. Por ŝanĝi tion, <a data-l10n-name="history-settings-url-two">modifu viajn agordojn pri historio</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Via retuma historio ne estos registrita.
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } ne konservas vian historion nun. Vi povas ŝanĝi tion iam ajn en la <a data-l10n-name="history-settings-url-two">agordoj</a>.
 
 ##
 

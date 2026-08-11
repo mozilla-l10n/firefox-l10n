@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Malfermi novan privatan fenestron
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klasika fenestro
+toolbar-switcher-customizable-label =
+    .label = Elektilo de { -smart-window-brand-name }
+    .tooltiptext = Baskuli inter inteligentaj kaj klasikaj fenestroj.
 
 ## Input CTA
 
@@ -95,17 +98,29 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Bonvenon al { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Kio estas grava por vi?
+aiwindow-firstrun-model-title-v2 = Elektu modelon por komenci
 aiwindow-firstrun-model-subtitle = Elektu modelon por funkciigi { -smart-window-brand-name }. Ŝanĝu iam ajn.
+aiwindow-firstrun-model-subtitle-v2 = Ĉiu modelo povas helpi vin resumi, kompari kaj esplori viajn langetojn. Vi povos ŝanĝi la modelon iam ajn.
 aiwindow-firstrun-model-fast-label = Rapida
 aiwindow-firstrun-model-fast-body = Rapidaj respondoj
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Rapida: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Plej bona por respondoj, en kiuj rapideco gravas
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Modelo { $model } de { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Adaptebla
 aiwindow-firstrun-model-allpurpose-body = Adaptita al la plimulto de bezonoj
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Adaptebla: { $shortName }
+aiwindow-firstrun-model-flexible-body = Preta por pluraj taskoj
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Rekomendita
 aiwindow-firstrun-model-personal-label = Persona
 aiwindow-firstrun-model-personal-body = La plej personecigitaj respondoj
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Persona: { $shortName }
 aiwindow-firstrun-button = Komenci
 aiwindow-firstrun-back-button = Malantaŭen
 aiwindow-firstrun-next-button = Antaŭen
