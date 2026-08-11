@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Premeu una tecla nova:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (no es pot canviar)
 
 ## Confirmation dialogs
 
@@ -90,6 +92,10 @@ customkeys-conflict-confirm-title = Voleu suprimir una altra drecera?
 customkeys-conflict-confirm-body = Aquesta tecla ja la utilitza “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Utilitza-la igualment
 customkeys-conflict-confirm-button-cancel = Cancel·la
+customkeys-conflict-unusable-title = No es pot utilitzar la clau
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Aquesta clau ja és utilitzada per «{ $conflict }» i no es pot utilitzar.
 customkeys-reset-all-confirm-title = Voleu restaurar els valors per defecte?
 customkeys-reset-all-confirm-body = S'eliminaran totes les dreceres de teclat personalitzades que hàgiu creat.
 customkeys-reset-all-confirm-button-confirm = Restaura els valors per defecte
