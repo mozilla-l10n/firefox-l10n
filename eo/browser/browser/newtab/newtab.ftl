@@ -477,6 +477,15 @@ topsite-label-pinned =
 newtab-topsites-hover-card-header = Sciigoj de { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Ĵus
+newtab-topsites-hover-card-mark-all-read =
+    .title = Marki ĉiujn kiel legitajn
+    .aria-label = Marki ĉiujn kiel legitajn
+newtab-topsites-hover-card-settings =
+    .title = Agordoj de sciigoj
+    .aria-label = Agordoj de sciigoj
+newtab-topsites-hover-card-dismiss =
+    .title = Ignori
+    .aria-label = Ignori
 
 ## Context Menu - Action Tooltips.
 
@@ -693,6 +702,9 @@ newtab-custom-shortcuts-toggle =
     .description = Retejoj konservitaj aŭ vizititaj de vi
 newtab-custom-shortcuts-nova =
     .label = Ŝparvojoj
+newtab-custom-web-notifications-toggle =
+    .label = Retaj sciigoj
+    .description = Montri sciigojn de viaj retejoj sur ĝiaj ŝparvojoj
 newtab-custom-row-description =
     .description = Nombro de vicoj
 # Variables
@@ -760,6 +772,29 @@ newtab-custom-close-menu-button =
     .aria-label = Fermi menuon
 newtab-custom-close-button = Fermi
 newtab-custom-settings = Administri aliajn agordojn
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Aspekto
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Montri pli da etosoj
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Etosoj de { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Viaj etosoj
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Aktivigi
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Malaktivigi
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Instali etoson
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Malkovri aliajn etosojn
 
 ## New Tab Wallpapers
 
@@ -1629,6 +1664,14 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Rezulto de serĉo
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Aldoni “{ $city }” kiel personecigitan horloĝon
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Nomo de urbo
+    .aria-label = Nomo de urbo
+    .placeholder = Nomu tiun ĉi horloĝon
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
