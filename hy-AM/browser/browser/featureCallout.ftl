@@ -154,11 +154,23 @@ windows-10-eos-sync-callout-primary-advance-button-label = Հաջորդը
 
 link-preview-onboarding-callout-title = Նոր. Սեղմեք և պահեք՝ հղումները նախադիտելու համար
 
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Սկսել խումբ
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ցուցադրել ներդիրների վերնագրերը կողագոտիում
 sidebar-button-callout-subtitle = Օգտագործեք կողագոտի կոճակը՝ կողագոտին ընդլայնելու համար, որպեսզի կարողանաք տեսնել ներդիրների վերնագրերը:
 sidebar-button-callout-vertical-tabs = Ձեր ներդիրները ցուցադրելու համար ընտրեք կողագոտու կոճակը գործիքագոտիում:
+sidebar-deprecation-callout-title = Թարմացված կողային վահանակը շուտով կհայտնվի
 sidebar-deprecation-cta-button = Փորձել հիմա
 
 ## Sidebar Vertical Tabs Strings

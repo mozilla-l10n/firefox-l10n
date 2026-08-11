@@ -63,12 +63,15 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Համաժամեցրեք ձեր էջանիշերը ամեն տեղ:
 cfr-doorhanger-bookmark-fxa-body = Մեծ գտածո: Այժմ մի մնացեք առանց այս էջանիշի ձեր բջջային սարքերում: Խորհուրդ ենք տալիս սկսել { -fxaccount-brand-name }-ի հետ։
+cfr-doorhanger-bookmark-fxa-body-2 = Հիանալի գտածո է։ Հիմա մի՛ մնացեք առանց այս էջանիշի ձեր բջջային սարքերում։ Սկսեք հաշիվ ստեղծելով։
 cfr-doorhanger-bookmark-fxa-link-text = Համաժամեցնել էջանիշերը...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Փակելու կոճակ
     .title = Փակել
 fxa-adoption-addresses-backup-title = Եկեք պահուստավորենք ձեր պահպանված հասցեները
+fxa-adoption-addresses-backup-subtitle = Պաշտպանեք ձեր պահպանված հասցեները՝ համաժամեցնելով դրանք ձեր սարքերի հետ կոդավորմամբ։
 fxa-adoption-credit-cards-backup-title = Եկեք պահուստավորենք ձեր վճարման եղանակները
+fxa-adoption-credit-cards-backup-subtitle = Պաշտպանեք ձեր վճարման եղանակները՝ համաժամեցնելով դրանք ձեր սարքերի հետ կոդավորմամբ։
 fxa-adoption-bookmarks-treatment-backup-title = Եկեք պահուստավորենք ձեր էջանիշները
 fxa-adoption-bookmarks-treatment-backup-subtitle = Պաշտպանեք ձեր էջանիշները՝ համաժամեցնելով դրանք ձեր սարքերի հետ կոդավորմամբ։
 fxa-adoption-primary-button-label = Գրանցվել
@@ -128,6 +131,7 @@ cfr-doorhanger-video-support-primary-button = Արդիացնել
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Կարծես թե դուք օգտագործում եք հանրային Wi-Fi
+spotlight-public-wifi-vpn-body = Ձեր գտնվելու վայրը և զննարկման գործունեությունը թաքցնելու համար մտածեք վիրտուալ մասնավոր ցանցի մասին։ Այն կօգնի ձեզ պաշտպանված լինել հանրային վայրերում, ինչպիսիք են օդանավակայանները և սրճարանները, զննարկելիս։
 spotlight-public-wifi-vpn-primary-button = Մնացեք գաղտնի { -mozilla-vpn-brand-name }-ի հետ
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ոչ հիմա
@@ -136,7 +140,9 @@ spotlight-public-wifi-vpn-link = Ոչ հիմա
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Լավ համացանցը սկսվում է Ձեզանից
+spotlight-better-internet-body = Երբ դուք օգտագործում եք { -brand-short-name }-ը, դուք քվեարկում եք բաց և հասանելի ինտերնետի օգտին, որն ավելի լավն է բոլորի համար։
 spotlight-peace-mind-header = Մենք ձեզ համար ամեն ինչ ունենք
+spotlight-peace-mind-body = Ամեն ամիս { -brand-short-name }-ը արգելափակում է միջինում ավելի քան 3000 հետևորդ մեկ օգտատիրոջ համար։ Որովհետև ոչինչ, հատկապես գաղտնիության խախտումները, ինչպիսիք են հետևորդները, չպետք է կանգնեն ձեզ և լավ ինտերնետի միջև։
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Պահել Dock-ում
@@ -157,6 +163,8 @@ spotlight-pin-secondary-button = Ոչ հիմա
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Նոր { -brand-short-name }: Ավելի գաղտնի: Ավելի քիչ հետևորդներ: Առանց զիջումների:
+mr2022-background-update-toast-text = Փորձեք ամենանոր { -brand-short-name }-ը հիմա, որը թարմացվել է մեր մինչ օրս ամենաուժեղ հակահետևողական պաշտպանությամբ։
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -175,6 +183,7 @@ firefoxview-cfr-primarybutton = Փորձիր
 firefoxview-cfr-secondarybutton = Ոչ հիմա
     .accesskey = N
 firefoxview-cfr-header-v2 = Արագ շարունակեք այնտեղից, որտեղ կանգ եք առել
+firefoxview-cfr-body-v2 = Վերադարձրեք վերջերս փակված ներդիրները, ինչպես նաև անխափան անցեք սարքերի միջև { -firefoxview-brand-name }-ի միջոցով։
 
 ## Firefox View Spotlight
 
@@ -188,22 +197,34 @@ firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
 
 colorways-cfr-primarybutton = Ընտրեք գունային գամմա
     .accesskey = C
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Գունավորեք ձեր դիտարկիչը { -brand-short-name } բացառիկ երանգներով, որոնք ոգեշնչված են մշակույթը փոխած ձայներից։
+colorways-cfr-header-28days = «Անկախ ձայներ» գունային գամման ավարտվում է հունվարի 16-ին
+colorways-cfr-header-14days = «Անկախ ձայներ» գունային գամման ժամկետը լրանում է երկու շաբաթից
+colorways-cfr-header-7days = «Անկախ ձայներ» գունային գամման ժամկետը լրանում է այս շաբաթ
+colorways-cfr-header-today = «Անկախ ձայներ» գունային գամմաների ժամկետը լրանում է այսօր
 
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = Թույլատրե՞լ { -brand-short-name }-ին մերժել թխուկների պաստառները:
+cfr-cbh-body = { -brand-short-name }-ը կարող է ավտոմատ կերպով մերժել cookie-ների բազմաթիվ բաններային հարցումներ։
 cfr-cbh-confirm-button = Մերժել թխուկների պաստառները
     .accesskey = R
 cfr-cbh-dismiss-button = Ոչ հիմա
     .accesskey = N
+cookie-banner-blocker-onboarding-header = { -brand-short-name }-ը հենց նոր մերժեց ձեզ համար cookie-ի պաստառը
 cookie-banner-blocker-onboarding-body = Ավելի քիչ շեղումներ, ավելի քիչ թխուկներ, որոնք հետևում են ձեզ այս կայքում:
 cookie-banner-blocker-onboarding-learn-more = Իմանալ ավելին
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Մենք ձեզ համար ամեն ինչ ունենք
+july-jam-body = Ամեն ամիս { -brand-short-name }-ը արգելափակում է միջինում 3000+ հետևորդ մեկ օգտատիրոջ համար, ապահովելով ձեզ անվտանգ և արագ մուտք դեպի լավ ինտերնետ։
 july-jam-set-default-primary = Բացել իմ հղումները { -brand-short-name }-ով
 fox-doodle-pin-headline = Բարի վերադարձ
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Ահա մի կարճ հիշեցում, որ դուք կարող եք ձեր սիրելի անկախ զննարկիչը պահել ընդամենը մեկ սեղմումով։
 fox-doodle-pin-primary = Բացել իմ հղումները { -brand-short-name }-ով
 fox-doodle-pin-secondary = Ոչ հիմա
 
@@ -222,12 +243,14 @@ annotations-default-pdf-handler-headline = Ստորագրեք կետավոր գ�
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Նկարեք, տպեք կամ վերբեռնեք ձեր ստորագրությունը, ապա տեղադրեք այն ճիշտ այնտեղ, որտեղ ցանկանում եք: Պահպանեք ձեր ստորագրությունները՝ հաջորդ անգամ դրանք օգտագործելու համար:
 annotations-make-default-pdf-handler-title = Դարձնե՞լ { -brand-short-name }-ը ձեր սկզբնադիր PDF խմբագրիչը։
+annotations-make-default-pdf-handler-subtitle = Դուք կունենաք մեր գործիքներին հասանելիություն ամեն անգամ, երբ PDF ֆայլ բացեք։
 annotations-make-default-pdf-primary-cta-label = Կայել որպես սկզբնադիր
 annotations-make-default-pdf-next-label = Հաջորդը
 
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Ձեր ապագայում նոր սարք:
+fxa-sync-cfr-body = Համոզվեք, որ ձեր վերջին էջանիշները, գաղտնաբառերը և ներդիրները ձեզ հետ են ամեն անգամ, երբ բացում եք նոր { -brand-product-name } դիտարկիչ։
 fxa-sync-cfr-primary = Իմանալ ավելին
     .accesskey = L
 fxa-sync-cfr-secondary = Հիշեցնել ավելի ուշ
@@ -236,11 +259,16 @@ fxa-sync-cfr-secondary = Հիշեցնել ավելի ուշ
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-header = Մի մոռացեք կրկնօրինակել ձեր տվյալները
+device-migration-fxa-spotlight-heavy-user-body = Համոզվեք, որ կարևոր տեղեկությունները, ինչպիսիք են էջանիշները և գաղտնաբառերը, թարմացված և պաշտպանված են ձեր բոլոր սարքերում:
 device-migration-fxa-spotlight-heavy-user-primary-button = Սկսեք
 device-migration-fxa-spotlight-older-device-header = Մտքի խաղաղություն { -brand-product-name }-ից
+device-migration-fxa-spotlight-older-device-body = Հաշիվը պահպանում է ձեր կարևոր տեղեկությունները թարմացված և պաշտպանված ձեր միացված ցանկացած սարքի վրա։
 device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հաշիվ
 device-migration-fxa-spotlight-getting-new-device-header-2 = Ձեր ապագայում նոր սարք:
+device-migration-fxa-spotlight-getting-new-device-body-2 = Հետևեք մի քանի պարզ քայլերի՝ նոր սարքից օգտվելիս ձեզ հետ վերցնելու ձեր էջանիշները, պատմությունը և գաղտնաբառերը։
 device-migration-fxa-spotlight-getting-new-device-primary-button = Ինչպես պահուստավորել իմ տվյալները
+device-migration-fxa-spotlight-sync-header = Զննեք առանց որևէ բան բաց թողնելու
+device-migration-fxa-spotlight-sync-body = Համաժամեցրեք ձեր բոլոր կարևոր տեղեկությունները կոդավորմամբ՝ օրինակ՝ էջանիշեր և գաղտնաբառեր: Դուք կարող եք ամեն ինչ բացել ցանկացած վայրից, որտեղ օգտագործում եք { -brand-product-name }:
 device-migration-fxa-spotlight-sync-primary-button = Սկսեք
 
 ## Set as Default PDF Reader Infobar
@@ -268,11 +296,26 @@ launch-on-login-infobar-final-message = <strong>Բացե՞լ { -brand-short-name
 launch-on-login-infobar-final-reject-button = Ոչ, շնորհակալություն
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name }-ը այժմ գործարկվում է, երբ դուք մուտք եք գործում Windows: Դուք միշտ կարող եք փոխել սա կարգավորումներում:
+launch-on-login-autostart-infobar-keep-button = Շարունակեք
+    .accesskey = Շ
+launch-on-login-autostart-infobar-turn-off-button = Անջատել
+    .accesskey = Ա
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
+launch-on-login-spotlight-title = Հաջորդ անգամ համակարգիչը միացնելիս բացե՞լ { -brand-short-name }-ը։
 launch-on-login-spotlight-startup-checkbox = Գործարկել { -brand-short-name }-ը մեկնարկի ժամանակ
 launch-on-login-spotlight-pin-taskbar-checkbox = Ամրացնել Խնդրագոտուն
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
@@ -283,11 +326,24 @@ launch-on-login-spotlight-primary-button = Պահպանել և փակել { -bra
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Հեռու պահեք նյարդայնացնող հետևորդներին ձեր հետևից
+tail-fox-spotlight-subtitle = Հրաժեշտ տվեք նյարդայնացնող գովազդի հետևորդներին և վայելեք ավելի անվտանգ, արագ ինտերնետային փորձը։
 tail-fox-spotlight-primary-button = Բացել իմ հղումները { -brand-short-name }-ով
 tail-fox-spotlight-secondary-button = Ոչ հիմա
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Վերադարձեք ներկառուցված գաղտնիությանը
+welcome-back-spotlight-subtitle = Բարի վերադարձ ոչ առևտրային կազմակերպության կողմից աջակցվող միակ խոշոր դիտարկիչ: Մենք լրացուցիչ քայլեր ենք ձեռնարկում ձեր տվյալները պաշտպանելու համար, որտեղ էլ որ դուք շրջեք:
+welcome-back-embedded-import-title = Ներմուծեք ձեր տվյալները և դարձրեք { -brand-short-name }-ը ձեր տանը զգացողության պես
+
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>{ -brand-short-name }-ի հին տարբերակները կարող են խնդիրներ ունենալ 2025 թվականի հունվարի 14-ին։</strong>
 root-certificate-succession-infobar-march-message = <strong>Մինչև 2025 թ. մարտի 14-ն արդիացրեք { -brand-short-name }-ը, որպեսզի կարողանաք այն օգտագործել:</strong>
 root-certificate-succession-infobar-link = Ինչո՞ւ է պետք արդիացնել:
 root-certificate-succession-infobar-primary-button =
@@ -300,6 +356,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Դուք բաց եք թողել կարևոր { -brand-short-name } թարմացումը
+root-certificate-windows-background-notification-subtitle = Եթե չթարմացնեք դիտարկիչի որոշ մասեր շուտով կդադարեն աշխատել։ Հիմա հիանալի ժամանակ է մեր վերջին պաշտպանություններն ու գործառույթները ստանալու համար։
 root-certificate-windows-background-notification-learn-more-button = Իմանալ ավելին
 root-certificate-windows-background-notification-update-button = Արդիացնել { -brand-short-name }­-ը
 

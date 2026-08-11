@@ -25,6 +25,8 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Ներկայացնում ենք VPN-ը, այժմ՝ անմիջապես ձեր դիտարկիչում
 ipprotection-feature-introduction-title-1 = Փորձեք { -brand-product-name }-ի ներկառուցված VPN-ը
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Ավելացրեք գաղտնիության ևս մեկ շերտ
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -52,6 +54,7 @@ ipprotection-summer-promo-offramp-generic-title = Ձեր ներկառուցվա�
 ipprotection-summer-promo-offramp-subscriber-title = Ձեր ներկառուցված VPN-ը հենց նոր ավելի լավն է դարձել
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Բացել VPN-ը
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Կայել որպես սկզբնադիր
 ipprotection-summer-promo-offramp-get-subscription-button = Ստանալ { -mozilla-vpn-brand-name }-ը
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Բաց թողնել
 
@@ -121,6 +124,11 @@ ipprotection-locations-subview-description = Ընտրեք այլ տեղադրո�
 ipprotecion-locations-subview-recommended-label = Առաջարկվող
 ipprotection-locations-subview-recommended-description = Գտնում է ամենաարագ տեղադրությունը
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Անհասանելի
+    .aria-label = Անհասանելի է, անջատված է
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Անհասանելի
 ipprotection-locations-subview-promo =
     .heading = Ուժեղացրեք պաշտպանությունը { -mozilla-vpn-brand-name }-ի միջոցով
@@ -129,6 +137,7 @@ ipprotection-locations-subview-promo-button = Ստանալ { -mozilla-vpn-brand-
 
 ## VPN paused state
 
+upgrade-vpn-title = Ստացեք լրացուցիչ պաշտպանություն՝ բացի զննարկիչից
 upgrade-vpn-button = Փորձեք { -mozilla-vpn-brand-name }-ը
 ipprotection-connection-status-paused-title-2 = VPN-ը դադարեցված է
     .aria-label = VPN-ը դադարեցված է

@@ -76,6 +76,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Որոնում
+home-prefs-stories-header2 =
+    .label = Պատմություններ
+    .description = { -brand-product-name } ընտանիքի կողմից ընտրված բացառիկ բովանդակություն
 home-prefs-widgets-header =
     .label = Վիջեթներ
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -90,6 +93,18 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Ժամացույց
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Գաղտնիություն
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Խաչբառ
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Բաժնետոմսեր
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Օրվա նկարը
 home-prefs-mission-message2 =
     .message = Մեր հովանավորները աջակցում են մեր առաքելությանը՝ ստեղծել ավելի լավ կայք։
 home-prefs-manage-topics-link2 =
@@ -98,6 +113,11 @@ home-prefs-choose-wallpaper-link2 =
     .label = Ընտրեք պաստառ
 home-prefs-firefox-logo-header =
     .label = { -brand-short-name }-ի լոգո
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Այս հնարավորություններն օգտագործելու համար նոր ներդիրների կամ նոր պատուհանների համար սահմանեք { -firefox-home-brand-name } արժեքը։
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -144,12 +164,61 @@ home-prefs-support-firefox-header-srd =
     .label = { -brand-product-name }-ի աջակցում
 home-prefs-mission-message-learn-more-link-srd = Իմացեք, թե ինչպես
 
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Իմանալ ավելին
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Հետագծիչն այսօր արգելափակված է
+       *[other] Հետագծիչներն այսօր արգելափակված են
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] { $count } կայքում
+       *[other] { $count } կայքերում
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name }-ը արգելափակում է հետևորդներին, երբ դուք զննում եք կայքը։ Դուք կտեսնեք դրանք այստեղ։
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name }-ը ավտոմատ կերպով արգելափակում է հետևորդներին, երբ դուք զննարկում եք։
+newtab-privacy-message-info-1-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-info-2 = Հետևորդների արգելափակումը օգնում է կանխել ընկերություններին ձեզ առցանց հետևելը։
+newtab-privacy-message-info-2-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-info-3 = Շատ կայքեր ունեն հետևորդներ, այնպես որ ընկերությունները, որոնք դուք երբեք չեք այցելել, կարող են հետևել ձեզ առցանց։
+newtab-privacy-message-info-3-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-info-4 = { -brand-short-name }-ի ընտրությունը նշանակում է ընտրել սկզբնադիր պաշտպանություն։
+newtab-privacy-message-info-4-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-info-5 = Արգելափակված հետևորդները նշանակում են, որ ավելի քիչ ընկերություններ կարող են հետևել ձեզ տարբեր կայքերում։
+newtab-privacy-message-info-5-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-info-6 = Պահպանեք ձեր տվյալները { -brand-short-name }-ի հետ։ Մենք երբեք չենք վաճառում դրանք, բայց այլ զննարկիչներ կարող են դա անել։
+newtab-privacy-message-info-6-cta = Իմանալ ավելին
+newtab-privacy-message-info-7 = Տեսեք, թե որ { -brand-short-name } հետևորդներն են արգելափակված։
 newtab-privacy-message-info-11 = Իմացեք, թե ինչպես է { -brand-short-name }-ն օգնում ձեր դիտարկիչն ավելի գաղտնի պահել։
 newtab-privacy-message-info-13 = { -brand-short-name }-ն արգելափակում է հետագծողներին՝ ազատելով թողունակություն՝ ավելի սահուն հոսքի համար։
 

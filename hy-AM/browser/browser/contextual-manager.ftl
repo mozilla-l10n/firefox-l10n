@@ -201,6 +201,7 @@ contextual-manager-passwords-password-field =
     .label = Գաղտնաբառ
 contextual-manager-passwords-password-field-description = Մուտքագրեք գաղտնաբառը՝ այս հաշիվ մուտք գործելու համար։
 contextual-manager-passwords-password-tooltip-2 = Մուտքագրեք գաղտնաբառը՝ այս հաշիվ մուտք գործելու համար։
+contextual-manager-passwords-password-tooltip = Մուտքագրեք այս հաշիվ մուտք գործելու համար օգտագործված գաղտնաբառը։
 
 ## Password Card
 

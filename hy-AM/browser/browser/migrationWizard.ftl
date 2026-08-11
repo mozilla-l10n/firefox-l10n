@@ -181,16 +181,21 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Ավարտված է
 migration-safari-password-import-header = Ներմուծեք գաղտնաբառեր Safari-ից
+migration-safari-password-import-post-sequoia-step3 = Պահպանել ֆայլը
+migration-safari-password-import-post-sequoia-step4 = Ընտրեք պահպանված ֆայլը
 migration-safari-password-import-steps-header = Safari-ի գաղտնաբառերը ներմուծելու համար՝
 migration-safari-password-import-step1 = Safari-ում՝ բացեք «Safari» ցանկը և գնացեք դեպի «Նախապատվություններ» > «Գաղտնաբառեր»
 migration-safari-password-import-step2 = Ընտրեք <img data-l10n-name="safari-icon-3dots"/> կոճակը և ընտրեք «Արտահանել բոլոր գաղտնաբառերը»
 migration-safari-password-import-step3 = Պահեք գաղտնաբառերի ֆայլը
 migration-safari-password-import-step4 = Օգտագործեք «Ընտրեք ֆայլը» ստորև՝ ձեր պահած գաղտնաբառերի ֆայլը ընտրելու համար
+migration-chrome-windows-password-import-header = Ինչպես ներմուծել գաղտնաբառեր Chrome-ից
 migration-chrome-windows-password-import-steps-header = Chrome-ում.
+migration-chrome-windows-password-import-step1 = Բացեք գլխավոր ցանկը <img data-l10n-name="chrome-icon-3dots"/> և անցեք «Գաղտնաբառեր և ավտոմատ լրացում» > Google գաղտնաբառերի կառավարիչ։
 migration-chrome-windows-password-import-step2 = Ընտրեք «Կարգավորումներ» ցանկից։
 migration-chrome-windows-password-import-step3 = Ընտրեք «Ներբեռնել ֆայլը» և պահպանեք այն ձեր սարքում։
 migration-chrome-windows-password-import-step4 = Վերադարձեք այստեղ և սեղմեք «Ընտրեք ֆայլը»՝ ներմուծումն ավարտելու համար։
 migration-manual-password-import-skip-button = Բաց թողնել
+migration-manual-password-import-cancel-button = Չեղարկել
 migration-manual-password-import-select-button = Ընտրեք Ֆայլ
 migration-safari-password-import-skip-button = Բաց թողնել
 migration-safari-password-import-select-button = Ընտրեք Ֆայլ

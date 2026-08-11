@@ -49,6 +49,10 @@ appmenuitem-translate =
     .label = Թարգմանել էջը…
 appmenuitem-zoom =
     .value = Դիտափոխում
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Կիսվել { -brand-product-name }-ով
 appmenuitem-more-tools =
     .label = Լրացուցիչ գործիքներ
 # Menu combining the previous "Help" menu and report broken site
@@ -155,6 +159,12 @@ appmenu-fxa-last-sync = Վերջին համաժամացումը { $time }
     .label = Վերջին համաժամացումը { $time }
 appmenu-fxa-sync-and-save-data2 = Համաժամեցնել և պահել տվյալները
 appmenu-fxa-signed-in-label = Մուտք գործել
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Մուտք գործել համաժամեցում
+appmenu-fxa-sign-in-promo-message = Ստացեք ձեր տվյալները ամենուրեք
+appmenu-fxa-sign-in-promo-button =
+    .label = Մուտք գործել
 appmenu-fxa-setup-sync =
     .label = Միացնել համաժամացումը…
 appmenu-fxa-setup-sync-new = Միացնել
@@ -283,6 +293,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Որոնման պատմություն
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Մնացեք համաժամեցված տարբեր սարքերում
+appmenu-sync-promo-signin-cta = Մուտք գործել
+appmenu-sync-promo-turnonsync =
+    .heading = Համաժամեցրեք ձեր ներդիրները և պատմությունը
+appmenu-sync-promo-turnonsync-cta = Միացնել համաժամացումը
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Վերցրեք ձեր բջջային պլանշետները
+appmenu-sync-promo-connectdevice-cta = Կապակցեք սարք
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Վերցրեք ձեր էջանիշները ձեզ հետ
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Վերցրեք ձեր էջանիշները ձեզ հետ
+
 ## Help panel
 
 appmenu-help-header =
@@ -290,6 +321,11 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = մ
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Կիսվել { -brand-shorter-name }-ով
+    .accesskey = r
 appmenu-get-help =
     .label = Ստանալ օգնություն
     .accesskey = օ
@@ -346,14 +382,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Մուտք գործեք ձեր հաշիվ
 appmenuitem-monitor-title2 = Մնացեք անձնական տվյալների գողության առջև
 appmenuitem-monitor-description2 = Ստացեք ծանուցումներ տվյալների արտահոսքի մասին
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Տվյալների արտահոսքի մասին ահազանգեր
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ստացեք ծանուցումներ տվյալների արտահոսման մասին
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Պահպանեք ձեր էլ. փոստը գաղտնի
 appmenuitem-relay-description2 = Օգնում է կանխել սպամի ուղարկումը ձեր մուտքի արկղում
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Դիտել էլ. փոստի դիմակները
 appmenuitem-relay-description = Քողարկեք ձեր իրական էլ. փոստը և հեռախոսը
 appmenuitem-services-relay-description = Գործարկել էլ. փոստի դիմակների վահանակը
 appmenuitem-vpn-title2 = Թաքցրեք ձեր տեղադրությունը { -mozilla-vpn-brand-name }-ի միջոցով
+appmenuitem-vpn-description4 = Ստացեք լրացուցիչ պաշտպանություն բոլոր հավելվածներում և սարքերում
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = Բացել { -mozilla-vpn-brand-name }-ը
 appmenuitem-vpn-description3 = Ձեր դիտարկումը դժվարացրեք հետևելը
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
 appmenuitem-vpn-description-2 = Ստացեք ամբողջ սարքի պաշտպանություն
@@ -393,9 +436,16 @@ fxa-menu-create-profile-confirm =
     .label = Ստեղծել նոր պրոֆիլ
 fxa-menu-create-profile-learn-more =
     .label = Ի՞նչ են պրոֆիլները։
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Կիսվել { -brand-short-name }-ով
+appmenuitem-share-firefox-description = Հրավիրեք մեկին ընտրել այն դիտարկիչը, որը գաղտնիությունը դնում է առաջին տեղում
 appmenu-profiles-2 =
     .label = Հատկագրեր
 appmenu-profiles-header = Պրոֆիլներ
 appmenu-all-profiles =
     .label = Բոլոր պրոֆիլները
 appmenu-secure-sync-header = Անվտանգ համաժամեցում
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Վերջին ներդիրները

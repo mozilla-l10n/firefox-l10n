@@ -365,3 +365,7 @@ menu-help-not-deceptive =
     .accesskey = խ
 menu-report-broken-site =
     .label = Զեկուցել խոտանված կայքի մասին
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Կիսվել { -brand-shorter-name }-ով

@@ -598,6 +598,7 @@ identity-clear-site-data =
     .label = 清除 Cookie 和网站数据…
 identity-connection-not-secure-security-view = 您并未安全地连接至此网站。
 identity-connection-verified = 您已安全地连接至此网站。
+identity-ev-owner-label2 = 证书颁发给
 identity-verifier-label2 = 验证者：
 identity-ev-owner-label = 证书颁发给：
 identity-verifier-label = 验证者：

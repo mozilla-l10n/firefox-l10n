@@ -77,7 +77,7 @@ about-private-browsing-cookie-banners-promo-body = 我们现在可自动拒绝�
 
 about-private-browsing-felt-privacy-v1-info-header = 不在设备上留痕迹
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } 会在您关闭所有隐私窗口后删除 Cookie、历史记录、网站数据。
-about-private-browsing-felt-privacy-v1-info-link = 谁有可能看到我的活动？
+about-private-browsing-felt-privacy-v1-info-link = 谁可以看到我的活动？
 
 ## Strings for the Nova redesign of about:privatebrowsing
 

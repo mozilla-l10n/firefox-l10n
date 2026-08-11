@@ -78,6 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Լռեցնել ներդիրը
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ապալռեցնել ներդիրը
+fxviewtabrow-send-to-mobile-connect-device = Միացրեք սարքը՝ հղում ուղարկելու համար
 fxviewtabrow-send-to-mobile-device-missing2 = Չե՞ք տեսնում ձեր սարքը։
 fxviewtabrow-send-to-mobile-not-verified = Հաշիվը ստուգված չէ
 fxviewtabrow-send-to-mobile-verify-account = Ստուգել հաշիվը

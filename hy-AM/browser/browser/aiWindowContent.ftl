@@ -76,9 +76,17 @@ smart-window-cancelled-label = Հարցումը չեղարկվել է։
 smart-window-confirm-group-tab = Խումբ
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Բացել
+smart-window-grouped-tabs-row-label = Խմբավորված ներդիրներ
+smart-window-opened-tabs-row-label = Բացված ներդիրներ
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Փոխարկված ներդիրներ
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Ներդիրները խմբավորված չեն
 
 ## Action log
 
+action-log-searching-history = Որոնման պատմություն
+action-log-searched-history = Որոնումների պատմություն
 action-log-reading-page = Ընթերցանության էջ
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Կարդալ էջի բովանդակությունը

@@ -41,13 +41,17 @@ firefoxview-tabpickup-synctabs-description = Թույլատրել { -brand-short
 firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
 firefoxview-syncedtabs-synctabs-header = Թարմացրեք ձեր համաժամացման կարգավորումները
+firefoxview-syncedtabs-synctabs-header-2 = Ներդիրների համաժամեցումն անջատված է
 firefoxview-syncedtabs-loading-header = Համաժամացում
 firefoxview-tabpickup-fxa-admin-disabled-header = Ձեր կազմակերպությունն անջատել է համաժամացումը
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }-ը չի կարողանում համաժամացնել ներդիրները սարքերի միջև, քանզի Ձեր ադմինիստրատորն անջատել է համաժամացումը:
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name }-ը չի կարողանում համաժամացնել ներդիրները սարքերի միջև, քանզի Ձեր կազմակերպությունն անջատել է համաժամացումը:
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Ներդիրների համաժամեցումն անջատված է
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ձեր կազմակերպությունը արգելափակել է այս գործառույթը։
 firefoxview-tabpickup-network-offline-header = Ստուգեք կապակցումը համացանցին
 firefoxview-tabpickup-network-offline-description = Եթե դուք օգտվում եք հրապատից կամ փոխանորդից, ստուգեք, թե արդյոք { -brand-short-name }-ն ունի համացանցին հասանելիության թույլտվություն:
 firefoxview-tabpickup-network-offline-primarybutton = Կրկին փորձել
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name }-ը չի կարողանում միանալ այս պահին
 firefoxview-tabpickup-sync-error-header = Մենք խնդիրներ ունենք համաժամեցման հետ
 firefoxview-tabpickup-sync-error-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-disconnected-header = Շարունակելու համար միացրեք համաժամացումը
@@ -57,8 +61,11 @@ firefoxview-tabpickup-password-locked-description = Ձեր ներդիրները 
 firefoxview-tabpickup-password-locked-link = Իմանալ ավելին
 firefoxview-tabpickup-password-locked-primarybutton = Մուտքագրել Հիմնական գաղտնաբառը
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Իմանալ ավելին</a>
+firefoxview-tabpickup-password-locked-header-2 = Բացեք ներդիրները ձեր հիմնական գաղտնաբառով
 firefoxview-tabpickup-signed-out-header = Մուտք գործեք՝ կրկին կապակցվելու համար
 firefoxview-tabpickup-signed-out-primarybutton = Մուտք գործել
+firefoxview-tabpickup-signed-out-header-2 = Մուտք գործեք՝ ձեր ներդիրները տեսնելու համար
+firefoxview-tabpickup-signed-out-description-2 = Վերամիացեք՝ այլ սարքերից ներդիրները դիտելու համար։
 firefoxview-mobile-promo-header = Բերեք ներդիրները ձեր հեռախոսից կամ թաբլեթից
 firefoxview-mobile-promo-primarybutton = Ստացեք { -brand-product-name }-ը բջջայինի համար
 firefoxview-mobile-confirmation-header = 🎉 Լավ է գնալ:
@@ -201,6 +208,11 @@ firefoxview-history-empty-description = Ինչպես որ դիտարկում ե�
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = Ընտրեք դիտարկիչը
     .title = Ընտրեք դիտարկիչը
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Դուք գրառումից դուրս եք
 
 ##
 

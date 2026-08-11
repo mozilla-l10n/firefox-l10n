@@ -434,6 +434,9 @@ quickactions-cmd-help = օգնություն, աջակցում
 # Opens the devtools web inspector
 quickactions-inspector2 = Բացել Մշակողի գործիքները
 quickactions-cmd-inspector2 = տեսուչ, մշակողների գործիքներ, մշակողների գործիքներ
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Ընտրեք գույն
+quickactions-cmd-colorpicker = գույնի ընտրիչ, աչքի կաթիլ, գույն ընտրել
 # Opens Firefox Library
 quickactions-cmd-library = գրադարան
 quickactions-library = Բաց գրադարան
@@ -456,6 +459,8 @@ quickactions-cmd-print = տպել
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Պահել էջը որպես PDF
 quickactions-cmd-savepdf2 = pdf, պահել էջը
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Բացել PDF խմբագրիչը
 # Opens a new private browsing window
 quickactions-private2 = Բացել գաղտնի պատուհան
 quickactions-cmd-private = գաղտնի դիտարկում

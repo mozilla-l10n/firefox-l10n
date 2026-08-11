@@ -95,9 +95,12 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Բարի գալուստ { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Ի՞նչն է կարևոր ձեզ համար։
+aiwindow-firstrun-model-title-v2 = Սկսելու համար ընտրեք մոդել
 aiwindow-firstrun-model-subtitle = Ընտրեք { -smart-window-brand-name }-ը աշխատեցնելու մոդել։ Փոխարկեք ցանկացած ժամանակ։
 aiwindow-firstrun-model-fast-label = Արագ
 aiwindow-firstrun-model-fast-body = Արագ պատասխաններ
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Արագ՝ { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -146,6 +149,10 @@ aiwindow-firstrun-memories-choose-label = Ընտրեք, թե ինչից է սո�
 aiwindow-firstrun-memories-checkbox-chats = Զրույցներ { -smart-window-brand-name }-ում
 aiwindow-firstrun-memories-update-settings = Թարմացրեք կարգավորումներում ցանկացած ժամանակ։
 
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-description = Անջատեք կարգավորումները ցանկացած ժամանակ
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
@@ -162,6 +169,20 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Փակել
     .tooltiptext = Փակել
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu-view-all-chats = Դիտել բոլոր զրույցները
+aiwindow-history-menu-settings = { -smart-window-brand-name }-ի կարգավորումներ
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Նոր զրույց
 
 ## Fullpage Footer Actions
 
@@ -241,8 +262,15 @@ smart-window-confirm-close-tabs =
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Ներդիրը փակվեց
 
+## Smart Window new tab promo
+
+smart-window-default-promo-message = { -brand-short-name }-ը ամեն անգամ կբացվի { -smart-window-brand-name }-ում։
+smart-window-default-promo-primary-button = Կայել որպես սկզբնադիր
+smart-window-default-promo-additional-button = Ոչ հիմա
+
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Կիսվեք ձեր կարծիքով
 aiwindow-feedback-what-worked-well = Ի՞նչն էր լավ ստացվել։ Խնդրում եմ, անձնական տեղեկություններ չտրամադրել։
 aiwindow-feedback-choose-any = Ընտրեք համապատասխաններից որևէ մեկը
 aiwindow-feedback-submit = Ուղարկել
