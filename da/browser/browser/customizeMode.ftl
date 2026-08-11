@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Kompakt (ikke understøttet)
 customize-mode-undo-cmd =
     .label = Fortryd
+customize-mode-lwthemes-link-2 = Håndter temaer
 customize-mode-lwthemes-link = Håndter temaer
 customize-mode-touchbar-cmd =
     .label = Tilpas Touch Bar…

@@ -291,7 +291,15 @@ appmenu-sync-promo-signin-cta = Log ind
 appmenu-sync-promo-turnonsync =
     .heading = Synkroniser dine faneblade og din historik
 appmenu-sync-promo-turnonsync-cta = Slå synkronisering til
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Hent faneblade fra din mobil
 appmenu-sync-promo-connectdevice-cta = Opret forbindelse til en enhed
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Tag dine bogmærker med dig
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Tag dine bogmærker med på farten
 
 ## Help panel
 

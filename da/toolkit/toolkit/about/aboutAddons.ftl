@@ -622,3 +622,45 @@ mlmodel-addon-detail-used-by-label = Brugt af
 mlmodel-addon-detail-model-card = Model-kort
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Vis på Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo-open-amo-button = Udforsk udvidelser og temaer
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo-open-amo-button = Udforsk temaer
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = Lyst
+themes-mode-dark =
+    .label = Mørkt
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name }-temaer
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Vis flere
+aboutaddons-themes-picker-see-less = Vis færre
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = Aktiver
+aboutaddons-themes-picker-disable-button =
+    .label = Deaktiver
+aboutaddons-themes-picker-install-button =
+    .label = Installer
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Dit tema kunne ikke opdateres. Kontroller din forbindelse, og prøv igen.

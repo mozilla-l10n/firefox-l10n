@@ -23,6 +23,9 @@ customkeys-history-reopen-window = Åbn senest lukkede vindue igen
 customkeys-sidebar-toggle = Slå sidepanel til eller fra
 customkeys-view-bookmarks-toolbar = Slå bogmærkelinjen til/fra
 customkeys-view-picture-in-picture = Billede-i-billede
+customkeys-view-add-split-view = Tilføj opdelt visning
+# Separate is a verb
+customkeys-view-separate-split-view = Adskil opdelt visning
 customkeys-dev-tools = Udviklerværktøj
 customkeys-dev-inspector = DOM- og stil-inspektør
 customkeys-dev-webconsole = Webkonsol
@@ -59,11 +62,47 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Denne funktion er eksperimentel og virker muligvis ikke som forventet.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ugyldig
+customkeys-shortcut-unassigned =
+    .placeholder = Tilføj genvej
+customkeys-key-edit =
+    .aria-label = Rediger
+    .tooltiptext = Rediger
 customkeys-key-clear =
     .aria-label = Ryd
     .tooltiptext = Ryd
+customkeys-key-reset =
+    .aria-label = Gendan
+    .tooltiptext = Gendan
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Tryk på en ny tast:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (kan ikke ændres)
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Fjern en anden genvej?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Denne tast bruges allerede af "{ $conflict }".
+customkeys-conflict-confirm-button-confirm = Brug alligevel
+customkeys-conflict-confirm-button-cancel = Annuller
+customkeys-conflict-unusable-title = Tasten kan ikke bruges
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Denne tast bruges allerede af "{ $conflict }" og kan ikke bruges.
+customkeys-reset-all-confirm-button-cancel = Annuller
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Sidepanel
+customkeys-title-heading =
+    .heading = Tastaturgenveje
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Søg i genveje
+    .placeholder = Søg i genveje
+customkeys-support-link-text = Lær mere

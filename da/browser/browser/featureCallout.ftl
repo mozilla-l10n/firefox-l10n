@@ -133,6 +133,16 @@ taskbar-tabs-media-callout-subtitle = Åbn dine streaming-websteder som en app i
 taskbar-tabs-value-prop-callout-title = Føj dette websted til din proceslinje
 taskbar-tabs-value-prop-callout-subtitle = Åbn det i sit eget vindue med en forenklet brugerflade med et enkelt klik.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+taskbar-tabs-email-callout-title-v3 = Få adgang til din indbakke i proceslinjen
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Fastgør til proceslinjen
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Mist ikke alt, hvad du har gemt, når du skifter til Windows 11.
@@ -161,6 +171,17 @@ windows-10-eos-sync-callout-primary-advance-button-label = Næste
 
 link-preview-onboarding-callout-title = Nyt: Klik og hold på et link for at se forhåndsvisning
 link-preview-onboarding-callout-description = Se en kort beskrivelse, hvor lang tid det tager at læse teksten med mere. Så kan du hurtigere træffe en beslutning, om det er værd at klikke på linket. Virker også ved højreklik.
+
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Start en gruppe
 
 ## Sidebar Strings
 

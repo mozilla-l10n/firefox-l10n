@@ -449,6 +449,11 @@ onboarding-checklist-pin = Fastgør { -brand-short-name } til proceslinjen
 onboarding-checklist-import = Importer fra tidligere browser
 onboarding-checklist-extension = Tilføj en udvidelse
 onboarding-checklist-sign-up = Tilmeld dig eller log ind på din konto
+onboarding-checklist-minimize =
+    .label = Minimer
+onboarding-checklist-remove =
+    .label = Fjern tjekliste
+onboarding-checklist-remove-2 = Fjern tjekliste
 
 ## Tab Groups feature onboarding strings
 
@@ -597,3 +602,23 @@ onboarding-refresh-sync-title = Gå hvorhen du vil. Synkroniser overalt.
 onboarding-refresh-gratitude-subtitle = Tak for at du bruger { -brand-short-name }, den eneste store browser, der er støttet af en nonprofit-organisation. Med din hjælp gør vi internettet mere sikkert og tilgængeligt for alle.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } passer på dig
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Betingelser for brug af { -brand-product-name }
+smartwindow-existing-user-fx-tou-accept = Accepter
+smartwindow-existing-user-fx-tou-go-back = Gå tilbage
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Fortsæt
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-dismiss = Nej tak
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Vælg et tema
+onboarding-theme-picker-button-label = Gem og fortsæt

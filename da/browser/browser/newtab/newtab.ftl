@@ -643,6 +643,24 @@ newtab-custom-settings = Håndter flere indstillinger
 
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Udseende
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Se flere temaer
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name }-temaer
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Dine temaer
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Aktiver
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Deaktiver
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Installer tema
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Udforsk flere temaer
 
 ## New Tab Wallpapers
 
@@ -1295,6 +1313,8 @@ newtab-sports-widget-match-penalties = Straffe
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
 newtab-sports-widget-match-vs = mod
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Hold øje med detaljer om kommende kampe
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1385,6 +1405,10 @@ newtab-sports-widget-message-add-widgets-cta =
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Udforsk widgets
 
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Hjælp os med at gøre widgets bedre
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -1453,6 +1477,8 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Søgeresultater
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Ingen matchende tidszoner
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

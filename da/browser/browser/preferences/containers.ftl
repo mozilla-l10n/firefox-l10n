@@ -97,3 +97,11 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Indstillinger for konteksten { $name }
     .style = min-width: 32em
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Tilføj ny kontekst
+containers-panel-create-button =
+    .label = Færdig
+containers-panel-cancel-button =
+    .label = Annuller

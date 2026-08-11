@@ -1675,6 +1675,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Ikke sikker
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } sporings-mekanisme blokeret
+       *[other] { $count } sporings-mekanismer blokeret
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

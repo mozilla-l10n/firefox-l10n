@@ -31,6 +31,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Ikke nu
     .accessKey = k
+address-capture-never-save-button =
+    .label = Gem aldrig
+    .accessKey = m
 address-capture-cancel-button =
     .label = Annuller
     .accessKey = A
@@ -153,6 +156,10 @@ autofill-card-number = Kortnummer
 autofill-card-invalid-number = Angiv et gyldigt kortnummer
 autofill-card-name-on-card-2 =
     .label = Navn på kort
+autofill-card-expires-month-2 =
+    .label = Udløbsmåned
+autofill-card-expires-year-2 =
+    .label = Udløbsår
 autofill-card-billing-address-2 =
     .label = Faktureringsadresse
 autofill-card-name-on-card = Navn på kort
@@ -167,8 +174,49 @@ autofill-card-network = Type af kort
 # methods in their region.
 autofill-card-search-term-credit-cards = betalingskort, kreditkort, kredit, kort, debetkort, debet, pung, kassen, betaling, wallet
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Tilføj pas
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Rediger pas
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Navn
+autofill-passport-country =
+    .label = Land
+autofill-passport-number =
+    .label = Nummer
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Udstedelsesdato
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Gyldig indtil
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = ÅÅÅÅ
+
 ## The passport capture doorhanger
 
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = Gem pas?
+passport-capture-save-doorhanger-description = Gem oplysninger i { -brand-short-name } så du hurtigt kan udfylde formularer.
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
 passport-capture-save-button =
     .label = Gem
     .accessKey = G
