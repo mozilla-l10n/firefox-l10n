@@ -30,6 +30,10 @@ policy-BlockAboutSupport = Bloki aliron al la paĝo about:support.
 policy-Bookmarks = Krei legosignojn en la ilaro de legosignoj, en la menuo de legosignoj, aŭ en dosierujo sub ili.
 policy-CaptivePortal = Aktivigi aŭ malaktivigi subtenon por kapta portalo.
 policy-CertificatesDescription = Aldoni atestilojn aŭ uzi inkluzivitajn atestilojn.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Ŝalti la ŝlosilan interkonsenton CNSA 2.0 ML-KEM-1024 por TLS.
 policy-ContentAnalysis = Aktivigi aŭ malaktivigi la konekton al la agento kontraŭ perdo de datumoj.
 policy-Cookies = Permesi aŭ bloki al retejoj konservi kuketojn.
 # Containers in this context is referring to container tabs in Firefox.
@@ -53,6 +57,7 @@ policy-DisableFirefoxScreenshots = Malaktivigi la etendaĵon Firefox Screenshots
 policy-DisableFirefoxStudies = Malpermesi al { -brand-short-name } fari studojn.
 policy-DisableForgetButton = Malpermesi aliron al la butono "Forgesi".
 policy-DisableFormHistory = Ne memori serĉan kah formularan historion.
+policy-DisableLaunchOnLogin = Eviti ke { -brand-short-name } aŭtomate komencu kiam la uzanto komencas seancon.
 policy-DisablePrimaryPasswordCreation = Se tio estas aktiva, ne eblos krei ĉefan pasvorton.
 policy-DisablePasswordReveal = Ne permesi malkaŝi pasvortojn en konservitaj legitimiloj.
 policy-DisablePocket2 = Malaktivigi la eblon konservi retpaĝojn en { -pocket-brand-name }.
