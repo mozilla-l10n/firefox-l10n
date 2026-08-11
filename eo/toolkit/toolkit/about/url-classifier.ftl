@@ -37,6 +37,7 @@ url-classifier-cache-prefix = Prefikso
 url-classifier-cache-ncache-expiry = Senvalidiĝo de negativa stokejo
 url-classifier-cache-fullhash = Tuta hakvaloro
 url-classifier-cache-pcache-expiry = Senvalidiĝo de pozitiva stokejo
+url-classifier-content-classifier-title = Klasigilo de enhavo
 # URL of the resource being tested, i.e. the thing that would be loaded
 # (e.g. an image, script, or tracking pixel).
 url-classifier-content-classifier-url = Retadreso
@@ -84,6 +85,28 @@ url-classifier-content-classifier-probe-feature-btn = Sondi trajton
 url-classifier-content-classifier-engine-details = Detaloj de klasigilo
 # Column header: the name of the classifier feature that produced the row.
 url-classifier-content-classifier-col-feature = Trajto
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = Kongrua
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Escepto
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Grava
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Rezulto de klasigilo
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Trafo
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = Escepto
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Maltrafo
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Eraro ({ $code })
 url-classifier-debug-title = Senerarigo
 url-classifier-debug-module-btn = Elekti registrajn modulojn
 url-classifier-debug-file-btn = Elekti registran dosieron
