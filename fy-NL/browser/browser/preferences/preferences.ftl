@@ -1626,7 +1626,7 @@ forms-primary-pw-change =
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
-forms-primary-pw-former-name = ""
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Jo binne no yn FIPS-modus. FIPS fereasket dat it haadwachtwurd net leech is.
 forms-master-pw-fips-desc = Wachtwurdwiziging mislearre.
 forms-windows-sso =
