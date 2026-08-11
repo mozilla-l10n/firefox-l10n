@@ -128,6 +128,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Administri agordojn pri ŝprucaĵoj kaj redirektoj de aliaj retejoj…
     .accesskey = A
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Vidi informon pri retejo
+            [1] Vidi informon pri retejo (1 spurilo blokita)
+            [one] Vidi informon pri retejo ({ $count } spurilo blokita)
+           *[other] Vidi informon pri retejo ({ $count } spuriloj blokitaj)
+        }
 
 ##
 

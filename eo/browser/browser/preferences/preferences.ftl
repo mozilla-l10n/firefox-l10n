@@ -2807,6 +2807,9 @@ security-privacy-issue-warning-safe-browsing =
 security-privacy-issue-warning-doh2 =
     .label = DNS per HTTPS estas malŝaltita
     .description = DNS per HTTPS helpas kaŝi de via retprovizanto la retejojn, kiujn vi pretas viziti.
+security-privacy-issue-warning-ech2 =
+    .label = Ĉifrita Client Hello estas malaktiva
+    .description = Ĉifrita Client Hello helpas kaŝi de via retprovizanto la retejojn, kiujn vi pretas viziti.
 security-privacy-issue-warning-doh =
     .label = DNS per HTTPS estas malŝaltita
     .description = DNS per HTTPS kaŝas de via retprovizanto la retejojn kiujn vi vizitas.
@@ -2816,3 +2819,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Aŭtomata agordo de retperanto estas aktiva
     .description = La aŭtomata agordo de retperantoj povus permesi al nefiditaj retoj vidi viajn retumon.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Rekomendi { -brand-short-name }
+    .description = Invitu iun elekti la retumilon kiu zorgas unue pri via privateco.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Rekomendi { -brand-short-name }

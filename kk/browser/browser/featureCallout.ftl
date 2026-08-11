@@ -133,6 +133,17 @@ taskbar-tabs-media-callout-subtitle = Стимингтік сайттарыңы�
 taskbar-tabs-value-prop-callout-title = Бұл сайтты тапсырмалар панеліне қосыңыз
 taskbar-tabs-value-prop-callout-subtitle = Оны бір рет басу арқылы жеке терезеде және оңтайландырылған интерфейспен іске қосыңыз.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Тапсырмалар панелінен байланыста болыңыз
+taskbar-tabs-email-callout-title-v3 = Кіріс жәшігін тапсырмалар панелінде ұстаңыз
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Windows 11-ге ауысқан кезде сақталған деректеріңіздің барлығын жоғалтып алмаңыз.
