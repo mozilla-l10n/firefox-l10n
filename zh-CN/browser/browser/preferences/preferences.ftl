@@ -1716,6 +1716,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = 未添加地址
+personal-info-group =
+    .label = 个人信息
+autofill-personal-info-checkbox-message =
+    .label = 保存并自动填写个人信息
+autofill-personal-info-manage-button =
+    .label = 管理个人信息
+passports-list-header =
+    .label = 护照
+passports-delete-passport-button-label =
+    .aria-label = 删除
+passports-edit-passport-button-label =
+    .aria-label = 编辑
+passports-delete-passport-prompt-title = 确定要删除此护照吗？
+passports-delete-passport-prompt-confirm-button = 删除
+passports-delete-passport-prompt-cancel-button = 取消
+autofill-passports-add-button = 添加新护照
+autofill-personal-info-manage-title =
+    .heading = 管理个人信息
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = 未添加护照
 pane-passwords-autofill-title2 = 密码与自动填写
     .title = 密码与自动填写
 preferences-passwords-autofill-header =
@@ -2593,6 +2614,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = 链接预览中的要点
     .description = 打开链接前快速查看摘要。
+preferences-ai-controls-sidebar-chatbot-group-2 =
+    .label = 侧栏中 AI 聊天机器人的提供方
+    .description = 同屏使用聊天机器人和浏览网页，可选择 Anthropic Claude、ChatGPT、Copilot、Google Gemini 或 Mistral Vibe。
 preferences-ai-controls-sidebar-chatbot-group =
     .label = 侧栏中 AI 聊天机器人的提供方
     .description = 同屏使用聊天机器人和浏览网页，可选择 Anthropic Claude、ChatGPT、Copilot、Google Gemini 或 Le Chat Mistral。
@@ -2679,6 +2703,8 @@ preferences-etp-level-custom =
     .description = 选择开启和关闭的保护。
 preferences-etp-status-advanced-button =
     .label = 高级设置
+preferences-etp-tracker-count-enabled =
+    .label = 在地址栏显示拦截的跟踪器
 preferences-etp-status-protections-dashboard-link =
     .label = 查看个性化保护信息面板
     .description = 查看 { -brand-short-name } 为您拦截的跟踪器数量，包括社交媒体跟踪器、数字指纹跟踪程序和加密货币挖矿程序。
@@ -2762,6 +2788,12 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-safe-browsing =
     .label = 未拦截危险与诈骗内容
     .description = 您将更容易遭遇网站上的诈骗和恶意软件。
+security-privacy-issue-warning-doh2 =
+    .label = 基于 HTTPS 的 DNS 已禁用
+    .description = 基于 HTTPS 的 DNS 可帮助您对网络提供商隐藏即将访问的网站。
+security-privacy-issue-warning-ech2 =
+    .label = 加密客户端问候（ECH）已禁用
+    .description = 加密客户端问候可帮助您对网络提供商隐藏即将访问的网站。
 security-privacy-issue-warning-doh =
     .label = 基于 HTTPS 的 DNS 已禁用
     .description = 基于 HTTPS 的 DNS 可向您的网络提供商隐藏您访问的网站。
@@ -2771,3 +2803,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = 代理自动配置已启用
     .description = 代理自动配置可能让不受信任的网络监控您的活动。
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = 分享 { -brand-short-name }
+    .description = 邀请其他人选择隐私为先的浏览器。
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = 分享 { -brand-short-name }
