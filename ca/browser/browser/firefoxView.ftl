@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Per poder recuperar les pestanye
 firefoxview-tabpickup-step-signin-primarybutton = Continua
 firefoxview-syncedtabs-signin-header-2 = El { -brand-product-name } a tots els vostres dispositius
 firefoxview-syncedtabs-signin-description-2 = Per veure les pestanyes que teniu obertes al telèfon i altres dispositius, inicieu la sessió o registreu-vos per obtenir un compte. Amb un compte, també es poden sincronitzar les contrasenyes, l'historial i molt més.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = De l'ordinador portàtil al telèfon, sense problemes
+firefoxview-syncedtabs-signin-description-3 = Mantingueu la navegació connectada entre dispositius: pestanyes, contrasenyes i historial, tots sincronitzats.
 firefoxview-syncedtabs-signin-primarybutton-2 = Inicia la sessió
 firefoxview-tabpickup-adddevice-header = Sincronitzeu el { -brand-product-name } en el telèfon o tauleta
 firefoxview-tabpickup-adddevice-description = Baixeu el { -brand-product-name } per al mòbil i inicieu-hi la sessió.
@@ -40,22 +43,37 @@ firefoxview-tabpickup-adddevice-primarybutton = Instal·la el { -brand-product-n
 firefoxview-syncedtabs-adddevice-header-2 = Recupereu les pestanyes de qualsevol dispositiu
 firefoxview-syncedtabs-adddevice-description-2 = Inicieu la sessió al { -brand-product-name } des del telèfon o des d'un altre ordinador per veure'n les pestanyes aquí. Obteniu informació sobre com <a data-l10n-name="url">connectar dispositius addicionals</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prova el { -brand-product-name } per al mòbil
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Les vostres pestanyes s'han enviat al telèfon.
+firefoxview-syncedtabs-adddevice-description-3 = Escanegeu el codi QR per a obtenir { -brand-product-name } per al mòbil i comenceu a sincronitzar les pestanyes obertes i més. Apreneu com connectar <a data-l10n-name="url">dispositius addicionals</a>.
 firefoxview-tabpickup-synctabs-header = Activeu la sincronització de pestanyes
 firefoxview-tabpickup-synctabs-description = Permeteu que el { -brand-short-name } comparteixi les pestanyes entre els vostres dispositius.
 firefoxview-tabpickup-synctabs-learn-how = Vegeu com fer-ho
 firefoxview-tabpickup-synctabs-primarybutton = Sincronitza les pestanyes obertes
+firefoxview-tabpickup-synctabs-primarybutton-2 = Activeu la sincronització de pestanyes
 firefoxview-syncedtabs-synctabs-header = Actualitzeu la configuració de sincronització
 firefoxview-syncedtabs-synctabs-description = Per veure les pestanyes d'altres dispositius, heu de sincronitzar les pestanyes obertes.
+firefoxview-syncedtabs-synctabs-header-2 = La sincronització de pestanyes està desactivada
+firefoxview-syncedtabs-synctabs-description-2 = Torneu a activar la sincronització per agafar totes les pestanyes d'altres dispositius.
 firefoxview-syncedtabs-loading-header = S'està sincronitzant…
 firefoxview-syncedtabs-loading-description = Quan hagi acabat, veureu les pestanyes que tingueu obertes en altres dispositius. Torneu-ho a comprovar més tard.
+firefoxview-syncedtabs-loading-header-2 = S'estan recuperant les pestanyes...
+firefoxview-syncedtabs-loading-description-2 = Sincronització en curs. Les pestanyes seran aquí aviat.
 firefoxview-tabpickup-fxa-admin-disabled-header = La vostra organització ha desactivat la sincronització
 firefoxview-tabpickup-fxa-admin-disabled-description = El { -brand-short-name } no pot sincronitzar les pestanyes entre dispositius perquè el vostre administrador ha desactivat la sincronització.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = El { -brand-short-name } no pot sincronitzar les pestanyes entre dispositius perquè la vostra organització ha desactivat la sincronització.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = La sincronització de pestanyes està desactivada
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = La vostra organització ha blocat aquesta funció.
 firefoxview-tabpickup-network-offline-header = Comproveu la connexió a Internet
 firefoxview-tabpickup-network-offline-description = Si utilitzeu un tallafoc o un servidor intermediari, comproveu que el { -brand-short-name } tingui permís per accedir al web.
 firefoxview-tabpickup-network-offline-primarybutton = Torna-ho a provar
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } no es pot connectar ara mateix
+firefoxview-tabpickup-network-offline-description-2 = És possible que estigueu fora de línia, o alguna cosa pot estar bloquejant la connexió.
 firefoxview-tabpickup-sync-error-header = Tenim problemes per sincronitzar
 firefoxview-tabpickup-generic-sync-error-description = El { -brand-short-name } no pot accedir al servei de sincronització ara mateix. Torneu-ho a provar d'aquí a una estona.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = El procés de sincronització està tenint problemes
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } no s'ha pogut connectar. Doneu-li un moment i torneu-ho a provar
 firefoxview-tabpickup-sync-error-primarybutton = Torna-ho a provar
 firefoxview-tabpickup-sync-disconnected-header = Activeu la sincronització per continuar
 firefoxview-tabpickup-sync-disconnected-description = Per recuperar les vostres pestanyes, heu de permetre la sincronització en el { -brand-short-name }.
@@ -65,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = Per a recuperar les vostres 
 firefoxview-tabpickup-password-locked-link = Més informació
 firefoxview-tabpickup-password-locked-primarybutton = Introduïu la contrasenya principal
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Més informació</a>
+firefoxview-tabpickup-password-locked-header-2 = Desbloquegeu les pestanyes amb la contrasenya principal
+firefoxview-tabpickup-password-locked-description-2 = Per a la vostra privadesa, les pestanyes sincronitzades estan protegides. Introduïu la contrasenya principal del { -brand-short-name } per veure les pestanyes dels altres dispositius.
 firefoxview-tabpickup-signed-out-header = Inicieu la sessió per tornar a connectar
 firefoxview-tabpickup-signed-out-description = Per a tornar a connectar i recuperar les vostres pestanyes, inicieu la sessió en el { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Per a tornar a connectar i recuperar les vostres pestanyes, inicieu la sessió al vostre compte.
 firefoxview-tabpickup-signed-out-primarybutton = Inicia la sessió
+firefoxview-tabpickup-signed-out-header-2 = Inicieu la sessió per a veure les pestanyes
+firefoxview-tabpickup-signed-out-description-2 = Reconnecta per a veure les pestanyes d'altres dispositius.
 firefoxview-tabpickup-syncing = Espereu mentre se sincronitzen les pestanyes. Només serà un moment.
 firefoxview-mobile-promo-header = Recupereu les pestanyes del telèfon o tauleta
 firefoxview-mobile-promo-description = Per veure les últimes pestanyes que heu obert en el dispositiu mòbil, inicieu la sessió al { -brand-product-name } per a l'iOS o l'Android.
@@ -210,6 +232,10 @@ firefoxview-show-all-history = Mostra tot l'historial
 firefoxview-history-empty-header = Recupereu els llocs que heu visitat
 firefoxview-history-empty-description = A mesura que navegueu, les pàgines que visiteu apareixeran aquí.
 firefoxview-history-empty-description-two = La nostra prioritat és protegir la vostra privadesa. És per això que podeu controlar l'activitat que el { -brand-short-name } recorda en els <a data-l10n-name="history-settings-url">paràmetres de l'historial</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = La vostra ruta de navegació comença aquí
+firefoxview-history-empty-description-2 = A mesura que visiteu pàgines, el vostre historial apareixerà aquí. Controleu el que es recorda a la <a data-l10n-name="history-settings-url">configuració</a>.
 
 ##
 
@@ -221,6 +247,9 @@ firefoxview-choose-browser-button = Trieu un navegador
 
 firefoxview-dont-remember-history-empty-header-2 = Teniu el control del que el { -brand-short-name } recorda
 firefoxview-dont-remember-history-empty-description-one = Actualment el { -brand-short-name } no recorda l'historial de navegació. Per canviar-ho, <a data-l10n-name="history-settings-url-two">actualitzeu els paràmetres de l'historial</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = No s'està registrant res
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } no està desant el vostre historial ara mateix. Canvieu això en qualsevol moment a la <a data-l10n-name="history-settings-url-two">configuració</a>.
 
 ##
 
