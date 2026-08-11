@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = 定制浏览体验
 experimental-features-group-productivity =
     .label = 效率
+experimental-features-group-newtab-widgets =
+    .label = { -firefox-home-brand-name } 的小组件
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = 在侧栏中显示密码
@@ -97,3 +99,7 @@ experimental-features-semantic-history-search-description = 使用本地机器�
 experimental-features-tab-notes =
     .label = 标签页备注
 experimental-features-tab-notes-description = 标签页备注是一项实验功能，可让您为浏览器标签页添加“便签”。您可以随手记下背景信息、提醒事项，或接下来要做的事情，以便回想起打开该页面的原因。我们正持续改进此功能，期待收到您的反馈。<a data-l10n-name="connect">分享反馈</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = 标签页菜单已简化
+experimental-features-tab-context-menu-description = 右键单击标签页时，将显示精简的上下文菜单，更方便寻找常用操作。 <a data-l10n-name="connect">分享反馈</a>

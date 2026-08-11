@@ -30,7 +30,7 @@ unknowncontenttype-choose-handler =
            *[other] P
         }
 unknowncontenttype-save-file =
-    .label = Saglabāt failu
+    .label = Saglabāt datni
     .accesskey = S
 unknowncontenttype-remember-choice =
     .label = Nākamreiz automātiski tā rīkoties ar šādiem failiem.
