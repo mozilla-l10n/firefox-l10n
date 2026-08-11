@@ -635,9 +635,21 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Mba’e’oka
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Témaita { -brand-product-name } rehegua
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Ehechaukave
+aboutaddons-themes-picker-see-less = Ehechauka’ive
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Emyandy
+aboutaddons-themes-picker-disable-button =
+    .label = Eipe’a
+aboutaddons-themes-picker-install-button =
+    .label = Emohenda
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

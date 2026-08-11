@@ -19,7 +19,7 @@ password-manager-save-password-button-never =
     .accesskey = e
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
-password-manager-update-password-message = Czy uaktualnić hasło dla { $host }?
+password-manager-update-password-message = Czy uaktualnić hasło dla „{ $host }”?
 password-manager-update-password-button-delete =
     .label = Usuń zachowane hasło
     .accesskey = U
