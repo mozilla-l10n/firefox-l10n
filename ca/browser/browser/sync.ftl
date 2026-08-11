@@ -58,6 +58,25 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Envieu una pestanya instantàniament a qualsevol dispositiu on hàgiu iniciat la sessió.
 fxa-menu-sign-out =
     .label = Tanca la sessió…
+fxa-menu-sync-description = Accediu a la vostra web en qualsevol lloc
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Gestiona el compte
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Inicia la sessió per sincronitzar
+fxa-menu-sign-in-promo-message = Obteniu les vostres dades a tot arreu
+fxa-menu-sign-in-promo-button =
+    .label = Inicia la sessió
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Inicia la sessió
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = No esteu identificat
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Finalitza la configuració
 fxa-avatar-sign-in = Inicia la sessió
 fxa-avatar-sign-up = Subscriviu-vos
 fxa-avatar-tooltip =
@@ -65,6 +84,11 @@ fxa-avatar-tooltip =
 sync-setup-verify-continue = Continua
 sync-setup-verify-title = Avís de combinació
 sync-setup-verify-heading = Esteu segur que voleu iniciar la sessió per sincronitzar?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Un usuari diferent havia iniciat la sessió prèviament per sincronitzar-se en aquest ordinador. L'inici de sessió fusionarà les adreces d'interès, contrasenyes i altres paràmetres d'aquest navegador amb { $email }
 
 ## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
 
@@ -93,6 +117,11 @@ sync-account-in-use-header-merge = { $acctEmail } ja ha iniciat la sessió al pe
 sync-account-in-use-description = Només es pot associar aquest compte amb un perfil en aquest ordinador.
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Aquest compte ha iniciat la sessió en un altre perfil. Voleu sincronitzar tots dos perfils?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } ha iniciat la sessió al perfil «{ $otherProfile }» d'aquest ordinador. La sincronització del perfil «{ $currentProfile }» combinarà permanentment dades d'ambdós perfils, com ara contrasenyes i adreces d'interès.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Canvia a “{ $profileName }”
