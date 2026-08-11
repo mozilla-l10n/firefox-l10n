@@ -143,6 +143,15 @@ taskbar-tabs-value-prop-callout-subtitle = Оны бір рет басу арқ�
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = Тапсырмалар панелінен байланыста болыңыз
 taskbar-tabs-email-callout-title-v3 = Кіріс жәшігін тапсырмалар панелінде ұстаңыз
+taskbar-tabs-email-callout-subtitle-v3 = Эл.пошта сайттарыңызды { -brand-short-name } арқылы қорғалған, оңтайландырылған терезеде қолданба ретінде іске қосыңыз.
+taskbar-tabs-media-callout-title-v3 = Ағынды медианы тапсырмалар панелінде ұстаңыз
+taskbar-tabs-media-callout-subtitle-v3 = Медиа сайттарыңызды { -brand-short-name } арқылы қорғалған, оңтайландырылған терезеде қолданба ретінде іске қосыңыз.
+taskbar-tabs-value-prop-callout-title-v3 = Таңдамалы сайттарды тапсырмалар панеліне бекітіңіз
+taskbar-tabs-value-prop-callout-subtitle-v3 = Кез келген сайтты { -brand-short-name } арқылы қорғалған, оңтайландырылған терезеде қолданба ретінде іске қосыңыз.
+taskbar-tabs-gaming-callout-title-v3 = Тапсырмалар панелі арқылы ойынға қайта оралыңыз
+taskbar-tabs-gaming-callout-subtitle-v3 = Ойын сайттарыңызды { -brand-short-name } арқылы қорғалған, оңтайландырылған терезеде қолданба ретінде іске қосыңыз.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Тапсырмалар панеліне бекіту
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

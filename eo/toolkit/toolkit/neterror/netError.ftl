@@ -45,7 +45,7 @@ neterror-error-reporting-automatic = Raporti erarojn kiel tiu ĉi por helpi { -v
 
 neterror-sslkeylogging-warning =
     .heading = Via konekto eble ne estas privata
-    .message = Programo aŭ servo povas vidi vian ĉifritan datumtrafikon el tiu ĉi retejo.
+    .message = Programo aŭ servo povus vidi vian ĉifritan datumtrafikon el tiu ĉi retejo.
 
 ## Specific error messages
 

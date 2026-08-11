@@ -603,6 +603,8 @@ identity-clear-site-data =
     .label = Viŝi kuketojn kaj retejajn datumojn…
 identity-connection-not-secure-security-view = Vi ne estas sekure konektita al tiu ĉi retejo.
 identity-connection-verified = Vi estas sekure konektita al tiu ĉi retejo.
+identity-ev-owner-label2 = Atestilo eldonita por
+identity-verifier-label2 = Kontrolita de
 identity-ev-owner-label = Atestilo eldonita por:
 identity-verifier-label = Kontrolita de:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -622,6 +624,8 @@ identity-description-passive-loaded-insecure2 = Tiu ĉi retejo enhavas nesekuraj
 identity-description-passive-loaded-mixed2 = Kvankam { -brand-short-name } blokis iom de la enhavo, ankoraŭ estas nesekuraj elementoj en la paĝo (bildoj, ekzemple).
 identity-description-active-loaded = Tiu ĉi retejo enhavas nesekurajn elementojn (skriptojn, ekzemple) kaj via konekto al ĝi ne estas privata.
 identity-description-active-loaded-insecure = Datumoj, kiujn vi dividas kun tiu ĉi retejo, povus esti viditaj de aliaj (ekzemple pasvortoj, mesaĝoj, kreditkartoj, ktp.
+identity-description-tls-key-logging-heading = Via konekto povas ne esti privata
+identity-description-tls-key-logging-message = Programo aŭ servo povus vidi vian ĉifritan trafikon el tiu ĉi retejo.
 identity-disable-mixed-content-blocking =
     .label = Momente malaktivigi la protekton
     .accesskey = M
@@ -968,6 +972,13 @@ urlbar-result-explanation-bookmarked = Aldonita al legosignoj { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Lasta vizito { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Lasta vizito { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1573,6 +1584,14 @@ private-browsing-indicator-label = Privata retumo
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Privata retumo
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informo pri privata retumo
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Vi estas en privata fenestro
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Tio ĉi helpas kaŝi vian retumon de la aliaj en tiu ĉi aparato, sed ĝi ne igas vin nevidebla en la reto. <a data-l10n-name="learn-more">Kiu povus vidi mian retumon?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1799,6 +1818,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Nesekura
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } spurilo blokita
+       *[other] { $count } spuriloj blokitaj
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

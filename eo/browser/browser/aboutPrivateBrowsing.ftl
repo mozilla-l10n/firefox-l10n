@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Kio plu povus vidi mian retumon?
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Via retuma historio ne estos registrita.
+about-private-browsing-nova-info-subheader2 = Ni viŝos ĉiujn serĉojn kaj seancojn kiam vi fermos ĉiujn viajn privatajn fenestrojn. La integritaj protektoj de { -brand-short-name }, ekzemple la blokado de spuriloj, ankaŭ ekzistas ĉi tie.
 about-private-browsing-nova-info-subheader = Ni viŝos ĉiun serĉon kaj seancon kiam vi fermos tiun ĉi fenestron. La integritaj protektoj de { -brand-short-name }, ekzemple la blokado de spuriloj, ankaŭ ekzistas ĉi tie.
