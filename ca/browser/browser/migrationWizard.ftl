@@ -191,7 +191,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = S'ha acabat
 migration-safari-password-import-header = Importeu les contrasenyes del Safari
+migration-safari-password-import-post-sequoia-step1 = Obre l'aplicació <a data-l10n-name="macos-passwords-app">Contrasenyes</a> al Mac
+migration-safari-password-import-post-sequoia-step2 = Des de la barra de menús de la part superior de la pantalla, trieu Fitxer > Exporta totes les contrasenyes a un fitxer...
 migration-safari-password-import-post-sequoia-step3 = Desa el fitxer
+migration-safari-password-import-post-sequoia-step4 = Seleccioneu el fitxer que heu desat
 migration-safari-password-import-steps-header = Per a importar les contrasenyes del Safari:
 migration-safari-password-import-step1 = En el Safari, obriu el menú «Safari» i aneu a Preferències > Contrasenyes
 migration-safari-password-import-step2 = Seleccioneu el botó <img data-l10n-name="safari-icon-3dots"/> i trieu «Exporta totes les contrasenyes»

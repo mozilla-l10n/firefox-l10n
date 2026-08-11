@@ -295,6 +295,20 @@ launch-on-login-infobar-final-message = <strong>Voleu que s’obri el { -brand-s
 launch-on-login-infobar-final-reject-button = No, gràcies
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } s'inicia ara quan inicieu la sessió al Windows. Sempre podeu canviar-ho més tard a la configuració.
+launch-on-login-autostart-infobar-keep-button = Continua
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = Desactiva
+    .accesskey = T
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set

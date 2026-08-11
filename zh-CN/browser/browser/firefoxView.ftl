@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = 请先登录或创建账户，�
 firefoxview-tabpickup-step-signin-primarybutton = 继续
 firefoxview-syncedtabs-signin-header-2 = 您各设备上的 { -brand-product-name }
 firefoxview-syncedtabs-signin-description-2 = 若要查看您在手机等其他设备上打开的标签页，请登录或注册账户。您还可以借助账户来同步密码、历史记录等数据。
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = 笔记本电脑与手机，无缝相连
 firefoxview-syncedtabs-signin-primarybutton-2 = 登录
 firefoxview-tabpickup-adddevice-header = 与您的手机或平板电脑同步 { -brand-product-name }
 firefoxview-tabpickup-adddevice-description = 下载移动版 { -brand-product-name } 并登录。
@@ -63,6 +65,8 @@ firefoxview-tabpickup-network-offline-primarybutton = 重试
 firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } 目前无法连接
 firefoxview-tabpickup-sync-error-header = 同步时遇到问题
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } 目前无法连接到同步服务，请稍后再试。
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = 同步遇到问题
 firefoxview-tabpickup-sync-error-primarybutton = 重试
 firefoxview-tabpickup-sync-disconnected-header = 开启同步服务以继续
 firefoxview-tabpickup-sync-disconnected-description = 若要接收您的标签页，需先启用 { -brand-short-name } 的同步服务。
@@ -76,6 +80,8 @@ firefoxview-tabpickup-signed-out-header = 登录以重新连接
 firefoxview-tabpickup-signed-out-description = 登录 { -fxaccount-brand-name }即可重新连接并接收标签页。
 firefoxview-tabpickup-signed-out-description2 = 登录账户即可重新连接并接收标签页。
 firefoxview-tabpickup-signed-out-primarybutton = 登录
+firefoxview-tabpickup-signed-out-header-2 = 登录以查看您的标签页
+firefoxview-tabpickup-signed-out-description-2 = 重新连接以查看其他设备上的标签页。
 firefoxview-tabpickup-syncing = 正在同步您的标签页，请稍等片刻。
 firefoxview-mobile-promo-header = 从手机或平板电脑接收标签页
 firefoxview-mobile-promo-description = 若要查看近期您移动设备上的标签页，请登录 iOS/Android 版 { -brand-product-name }。
@@ -217,6 +223,9 @@ firefoxview-show-all-history = 显示所有历史
 firefoxview-history-empty-header = 接续上次浏览
 firefoxview-history-empty-description = 浏览时，您访问过的页面会记录在此处。
 firefoxview-history-empty-description-two = 保护隐私是我们的首要事项。因此，您可以在<a data-l10n-name="history-settings-url">历史记录设置</a>中控制 { -brand-short-name } 所记录的活动。
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = 您的浏览足迹，始于这里
 
 ##
 
@@ -228,6 +237,8 @@ firefoxview-choose-browser-button = 选择浏览器
 
 firefoxview-dont-remember-history-empty-header-2 = 您已控制 { -brand-short-name } 可记录的内容
 firefoxview-dont-remember-history-empty-description-one = { -brand-short-name } 当前不会记录您的浏览历史。若要更改，请<a data-l10n-name="history-settings-url-two">更新历史记录设置</a>。
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = 您的浏览不会被记录
 
 ##
 

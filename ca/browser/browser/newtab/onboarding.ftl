@@ -602,17 +602,26 @@ onboarding-refresh-gratitude-subtitle = Gràcies per utilitzar el { -brand-short
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = El { -brand-short-name } està de part vostra
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Canvia entre finestres intel·ligents i clàssiques en qualsevol moment.
+
 ## Smart Window ToU modal
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Condicions d'ús del { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Per utilitzar { -smart-window-brand-name }, accepteu les <a data-l10n-name="terms_of_use">Condicions d'ús</a> i actualitzeu l'<a data-l10n-name="privacy_notice">Avís de privadesa</a>.
 smartwindow-existing-user-fx-tou-accept = Accepta
 smartwindow-existing-user-fx-tou-go-back = Vés enrere
 
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = Fes del { -smart-window-brand-name } el teu lloc de referència
+smartwindow-onboarding-subtitle = Resumiu, compareu i feu preguntes sense perdre un toc.
 smartwindow-onboarding-primary-button = Continua
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } mascota (Kit) amb atrezzo estrella
 
 ## Smart Window Sidebar Auto-Open Pref
 
@@ -621,4 +630,12 @@ smartwindow-sidebar-auto-open-callout-body = El podeu obrir sempre que us calgui
 smartwindow-sidebar-auto-open-callout-accept = Sí, mantén-lo tancat
 smartwindow-sidebar-auto-open-callout-dismiss = No, gràcies
 smartwindow-sidebar-auto-open-callout-accepted-title = L’assistent romandrà tancat
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Utilitzeu Demana per obrir-lo en qualsevol pàgina. Canvieu això en qualsevol moment a <a data-l10n-name="settings">Configuració</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Entesos
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si canvieu d'opinió, podeu actualitzar el valor predeterminat a <a data-l10n-name="settings">Configuració</a> en qualsevol moment.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Trieu un tema
+onboarding-theme-picker-subtitle = Porta una mica més de color a { -brand-short-name }.
+onboarding-theme-picker-button-label = Desa i continua

@@ -125,6 +125,29 @@ fxa-menu-sync-off-data-description = 未同步您的数据
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = 开启
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = 登录同步服务
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = 立即同步 { $deviceName }
+fxa-menu-manage-sync-settings =
+    .label = 管理同步设置
+fxa-menu-add-device =
+    .label = 添加设备
+fxa-menu-manage-devices =
+    .label = 管理设备
+fxa-menu-device-missing =
+    .label = 看不到您的设备？
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = 所有设备
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = 所有设备
+fxa-menu-get-firefox-mobile =
+    .label = 下载 Android 或 iOS 版 { -brand-product-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = 账户
 # Variables
@@ -134,6 +157,12 @@ appmenu-fxa-last-sync = 上次同步：{ $time }
     .label = 上次同步：{ $time }
 appmenu-fxa-sync-and-save-data2 = 同步并保存数据
 appmenu-fxa-signed-in-label = 登录
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = 登录同步服务
+appmenu-fxa-sign-in-promo-message = 数据随身带着走
+appmenu-fxa-sign-in-promo-button =
+    .label = 登录
 appmenu-fxa-setup-sync =
     .label = 开启同步...
 appmenu-fxa-setup-sync-new = 开启
@@ -262,6 +291,22 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = 搜索历史记录
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = 登录
+appmenu-sync-promo-turnonsync =
+    .heading = 同步标签页和历史记录
+appmenu-sync-promo-turnonsync-cta = 开启同步
+appmenu-sync-promo-connectdevice-cta = 连接设备
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = 书签随身带着走
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = 书签随身带着走
+
 ## Help panel
 
 appmenu-help-header =
@@ -269,6 +314,11 @@ appmenu-help-header =
 appmenu-about =
     .label = 关于 { -brand-shorter-name }
     .accesskey = A
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = 分享 { -brand-shorter-name }
+    .accesskey = r
 appmenu-get-help =
     .label = 获取帮助
     .accesskey = H
@@ -282,6 +332,9 @@ appmenu-help-share-ideas =
     .accesskey = S
 appmenu-help-switch-device =
     .label = 转入新设备
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = 帮助和反馈
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -322,11 +375,15 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = 登录账户
 appmenuitem-monitor-title2 = 抢先作出反应，阻断身份盗用
 appmenuitem-monitor-description2 = 接收数据外泄事件警报
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } 数据外泄事件警报
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = 接收数据外泄警报
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = 保密您的邮箱地址
 appmenuitem-relay-description2 = 保护收件箱免受垃圾邮件侵扰
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = 查看马甲邮箱
 appmenuitem-relay-description = 掩藏真实邮箱地址和电话号码
 appmenuitem-services-relay-description = 打开马甲邮箱面板
 appmenuitem-vpn-title2 = 使用 { -mozilla-vpn-brand-name } 隐藏真实位置
@@ -367,6 +424,8 @@ fxa-menu-create-profile-confirm =
     .label = 创建新配置文件
 fxa-menu-create-profile-learn-more =
     .label = 什么是配置文件？
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = 分享 { -brand-short-name }
 appmenu-profiles-2 =
     .label = 配置文件
 appmenu-profiles-header = 配置文件
