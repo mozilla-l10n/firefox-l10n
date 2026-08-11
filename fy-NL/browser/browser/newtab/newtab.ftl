@@ -1546,7 +1546,7 @@ newtab-sports-widget-match-aria-label-upcoming-cancelled =
 ## internationalization tooling.
 
 newtab-sports-widget-team-name-label-bih =
-    .label = Bosnje en Herzgovina
+    .label = Bosnië en Hertsegowina
 newtab-sports-widget-team-name-label-civ =
     .label = Ivoarkust
 newtab-sports-widget-team-name-label-cod =
