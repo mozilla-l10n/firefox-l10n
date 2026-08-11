@@ -132,7 +132,7 @@ autofill-address-tel = Phone
 autofill-address-email = Email
 autofill-cancel-button = Cancel
 autofill-save-button = Save
-autofill-country-warning-message = Form Autofill is currently available only for certain countries.
+autofill-country-warning-message = Form autofill is currently available only for certain countries.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Add New Credit Card
 # The dialog title for editing credit cards in browser preferences.
@@ -151,17 +151,17 @@ autofill-add-card-title = Add card
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = Edit card
 autofill-card-number-2 =
-    .label = Card Number
+    .label = Card number
 autofill-card-number = Card Number
 autofill-card-invalid-number = Please enter a valid card number
 autofill-card-name-on-card-2 =
-    .label = Name on Card
+    .label = Name on card
 autofill-card-expires-month-2 =
     .label = Expires month
 autofill-card-expires-year-2 =
     .label = Expires year
 autofill-card-billing-address-2 =
-    .label = Billing Address
+    .label = Billing address
 autofill-card-name-on-card = Name on Card
 autofill-card-expires-month = Exp. Month
 autofill-card-expires-year = Exp. Year

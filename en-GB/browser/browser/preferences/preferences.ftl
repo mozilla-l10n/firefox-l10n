@@ -431,8 +431,8 @@ preferences-contrast-control-custom =
     .label = Custom
     .accesskey = C
 preferences-colors-manage-button2 =
-    .label = Manage Colours
-    .accesskey = C
+    .label = Manage colours
+    .accesskey = c
 preferences-colors-header = Colours
 preferences-colors-description = Override { -brand-short-name }’s default colours for text, web site backgrounds, and links.
 preferences-colors-manage-button =
@@ -777,7 +777,7 @@ update-setting-write-failure-title2 = Error saving Update settings
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     { -brand-short-name } encountered an error and didn’t save this change. Note that changing this update setting requires permission to write to the file below. You or a system administrator may be able resolve the error by granting the Users group full control to this file.
-    
+
     Could not write to file: { $path }
 update-in-progress-title = Update In Progress
 update-in-progress-message = Do you want { -brand-short-name } to continue with this update?

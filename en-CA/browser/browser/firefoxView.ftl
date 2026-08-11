@@ -81,7 +81,7 @@ firefoxview-tabpickup-sync-disconnected-primarybutton = Turn on sync in settings
 firefoxview-tabpickup-password-locked-header = Enter your Primary Password to view tabs
 firefoxview-tabpickup-password-locked-description = To grab your tabs, you’ll need to enter the Primary Password for { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Learn more
-firefoxview-tabpickup-password-locked-primarybutton = Enter Primary Password
+firefoxview-tabpickup-password-locked-primarybutton = Enter primary password
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Learn more</a>
 firefoxview-tabpickup-password-locked-header-2 = Unlock tabs with your primary password
 firefoxview-tabpickup-password-locked-description-2 = For your privacy, synced tabs are protected. Enter your { -brand-short-name } primary password to see tabs from your other devices.

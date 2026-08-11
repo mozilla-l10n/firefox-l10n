@@ -84,7 +84,7 @@ appmenuitem-zoom-enlarge =
 appmenuitem-zoom-reduce =
     .label = Zoom Out
 appmenuitem-fullscreen =
-    .label = Full Screen
+    .label = Full screen
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
@@ -157,7 +157,7 @@ appmenu-account-header = Account
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Last synchronised { $time }
     .label = Last synchronised { $time }
-appmenu-fxa-sync-and-save-data2 = Sync and save data
+appmenu-fxa-sync-and-save-data2 = Sync and Save Data
 appmenu-fxa-signed-in-label = Sign In
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.

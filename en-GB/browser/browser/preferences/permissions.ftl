@@ -41,10 +41,10 @@ permissions-remove-all =
     .label = Remove All Web Sites
     .accesskey = e
 permissions-save-changes-2 =
-    .buttonlabelaccept = Save Changes
+    .buttonlabelaccept = Save changes
     .buttonaccesskeyaccept = S
 permission-dialog =
-    .buttonlabelaccept = Save Changes
+    .buttonlabelaccept = Save changes
     .buttonaccesskeyaccept = S
 permissions-autoplay-menu = Default for all web sites:
 permissions-searchbox =
@@ -130,7 +130,7 @@ permissions-exceptions-saved-logins-desc = Logins for the following web sites wi
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Exceptions - Saved Passwords
+    .title = Exceptions - saved passwords
     .style = { permissions-window2.style }
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } won’t save passwords for sites listed here.
 

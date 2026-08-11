@@ -6,7 +6,7 @@
 all-tabs-menu-search-tabs =
     .label = Search tabs
 all-tabs-menu-new-user-context =
-    .label = New container tab
+    .label = New Container Tab
 all-tabs-menu-hidden-tabs =
     .label = Hidden tabs
 all-tabs-menu-close-duplicate-tabs =
