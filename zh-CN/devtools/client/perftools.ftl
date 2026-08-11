@@ -169,6 +169,7 @@ perftools-presets-ml-description2 = 排查 { -brand-shorter-name } 机器学习 
 perftools-presets-networking-label = 网络
 perftools-presets-networking-description = 排查 { -brand-shorter-name } 网络 Bug 时使用。
 perftools-presets-networking-with-logs-label = 网络（含日志）
+perftools-presets-networking-with-logs-description = 适用于调查 { -brand-shorter-name } 下的网络 Bug，包含网络日志。这些日志可能包含敏感信息，例如您访问的网址。
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = 功耗
 perftools-presets-power-description = 排查 { -brand-shorter-name } 功耗 Bug 时使用，开销较低。

@@ -306,7 +306,7 @@ appmenu-services-header = Mani pakalpojumi
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Izmēģiniet citus Mozilla aizsardzības rīkus:
-appmenu-other-protection-header = Izmēģiniet citus aizsardzības rīkus no { -vendor-short-name }:
+appmenu-other-protection-header = Izmēģini citus aizsardzības rīkus no { -vendor-short-name }:
 
 ## Profiles panel
 

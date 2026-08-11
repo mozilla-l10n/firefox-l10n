@@ -84,7 +84,7 @@ addon-removal-message = Vai noņemt { $name } no { -brand-shorter-name }?
 addon-removal-button = Noņemt
 addon-removal-abuse-report-checkbox = Ziņot par šo paplašinājumu { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
-addon-mlmodel-removal-body = Ja izmantojat iespējas vai paplašinājumus, kuri izmanto šo modeli, tas tiks pievienots no jauna.
+addon-mlmodel-removal-body = Ja izmanto iespējas vai paplašinājumus, kas izmanto šo modeli, tas tiks pievienots no jauna.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

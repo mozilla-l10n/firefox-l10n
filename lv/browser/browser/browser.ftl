@@ -279,11 +279,11 @@ urlbar-search-mode-actions = Darbības
 urlbar-geolocation-blocked =
     .tooltiptext = Jūs esat bloķējis atrašanās vietas informācijas koplietošanu ar šo tīmekļa vietni.
 urlbar-localhost-blocked =
-    .tooltiptext = Jūs šai vietnei liedzāt vietējo ierīču savienojumus.
+    .tooltiptext = Tu šai vietnei liedzi vietējo ierīču savienojumus.
 urlbar-local-network-blocked =
-    .tooltiptext = Jūs šai vietnei liedzāt vietējā tīkla savienojumus.
+    .tooltiptext = Tu šai vietnei liedzi vietējā tīkla savienojumus.
 urlbar-xr-blocked =
-    .tooltiptext = Jūs liedzāt virtuālajām realitātes ierīcēm piekļūt šai vietnei.
+    .tooltiptext = Tu liedzi virtuālās realitātes ierīču piekļuvi šai tīmekļvietnei.
 urlbar-web-notifications-blocked =
     .tooltiptext = Jūs esat bloķējis paziņojumu saņemšanu no šīs tīmekļa vietnes.
 urlbar-camera-blocked =
@@ -467,7 +467,7 @@ quickactions-refresh = Atsvaidzināt { -brand-short-name }
 quickactions-cmd-refresh = atsvaidzināt
 # Restarts the browser
 quickactions-restart = Pārstartēt { -brand-short-name }
-quickactions-cmd-restart = pārstartēt
+quickactions-cmd-restart = atkārtoti palaist
 # Opens the screenshot tool
 quickactions-screenshot3 = Uzņemt ekrānuzņēmumu
 quickactions-cmd-screenshot2 = ekrānuzņēmums, veikt ekrānuzņēmumu, ekrānattēls
@@ -503,7 +503,7 @@ quickactions-learn-more =
 # Will be shown to users the first configurable number of times
 # they experience actions giving them instructions on how to
 # select the action shown by pressing the tab key.
-press-tab-label = Spiediet Tab, lai atlasītu:
+press-tab-label = Spiest Tab, lai atlasītu:
 
 ## Bookmark Panel
 
