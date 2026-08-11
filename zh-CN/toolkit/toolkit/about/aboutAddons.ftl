@@ -603,10 +603,67 @@ mlmodel-addon-detail-model-card = 模型卡片
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = 到 Hugging Face 查看
 
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo-open-amo-button = 探索扩展和主题
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = 寻找下一个真爱扩展
+    .message = 添加专注、购物、保护隐私等用途的工具，定制您的 { -brand-product-name }。
+find-more-extensions-promo-open-amo-button = 发现更多扩展
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo-open-amo-button = 发现更多主题
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo-button = 挑选第一个扩展
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
+themes-mode-light =
+    .label = 明亮
+themes-mode-dark =
+    .label = 深邃
 # "Device" refers to the mode that makes the Firefox active theme's selected color scheme
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = 跟随设备
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } 主题
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = 展开
+aboutaddons-themes-picker-see-less = 折叠
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = 启用
+aboutaddons-themes-picker-disable-button =
+    .label = 禁用
+aboutaddons-themes-picker-install-button =
+    .label = 安装
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = 无法更新主题。请检查您的连接情况，然后重试。
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = 使用 Linux 系统主题

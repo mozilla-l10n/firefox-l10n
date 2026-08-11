@@ -145,6 +145,8 @@ taskbar-tabs-media-callout-title-v3 = 从任务栏直达流媒体
 taskbar-tabs-media-callout-subtitle-v3 = 如打开应用般，在简化窗口中打开媒体网站，同时仍享 { -brand-short-name } 保护。
 taskbar-tabs-value-prop-callout-title-v3 = 从任务栏直达常用网站
 taskbar-tabs-value-prop-callout-subtitle-v3 = 如打开应用般，在简化窗口中打开任何网站，同时仍享 { -brand-short-name } 保护。
+taskbar-tabs-gaming-callout-title-v3 = 从任务栏直接重返游戏
+taskbar-tabs-gaming-callout-subtitle-v3 = 如打开应用般，在简化窗口中打开游戏网站，同时仍享 { -brand-short-name } 保护。
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = 固定到任务栏
 
