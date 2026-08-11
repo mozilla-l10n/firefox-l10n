@@ -294,8 +294,8 @@ newtab-picture-widget-menu-button =
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
-    .label = 设置壁纸
-    .title = 设置壁纸
+    .label = 设为壁纸
+    .title = 设为壁纸
     .aria-label = 将今日图片设置为壁纸
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 管理壁纸
@@ -673,6 +673,22 @@ newtab-custom-close-menu-button =
     .aria-label = 关闭菜单
 newtab-custom-close-button = 关闭
 newtab-custom-settings = 管理更多设置
+
+## New Tab Appearance (browser theme picker)
+
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = 您的主题
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = 启用
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = 禁用
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = 安装主题
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = 探索更多主题
 
 ## New Tab Wallpapers
 
@@ -1059,6 +1075,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = 取消
     .title = 取消
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = 清单选项
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + 创建新清单
@@ -1523,6 +1542,14 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = 搜索结果
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = 将“{ $city }”添加为自定义时钟
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = 城市名
+    .aria-label = 城市名
+    .placeholder = 为时钟命名
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
