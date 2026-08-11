@@ -601,7 +601,7 @@ smartwindow-existing-user-fx-tou-go-back = 返回
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = 将{ -smart-window-brand-name }设为默认窗口
-smartwindow-onboarding-subtitle = 摘要、比较、提问，随手就办到。
+smartwindow-onboarding-subtitle = 摘要、比较、提问，顺手就办到。
 smartwindow-onboarding-primary-button = 继续
 # Kit is referring to the Firefox mascot
 smartwindow-onboarding-image-alt =
