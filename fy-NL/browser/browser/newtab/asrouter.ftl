@@ -190,7 +190,7 @@ firefoxview-cfr-body-v2 = Untfang koartlyn sluten ljepblêden werom en skeakelje
 firefoxview-spotlight-promo-title = Sis hallo tsjin { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Wolle jo dat iepen ljepblêd op jo telefoan? Pak it. Need oan dy side dy’t jo krekt besocht hawwe? Poef, it is werom mei { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Sjen hoe't dit wurket
+firefoxview-spotlight-promo-primarybutton = Sjen hoe’t dit wurket
 firefoxview-spotlight-promo-secondarybutton = Oerslaan
 
 ## Colorways expiry reminder CFR
@@ -370,7 +370,7 @@ fxa-menu-message-sign-in-button = Oanmelde
 fxa-menu-message-sync-button = Begjin mei syngronisearjen
 fxa-menu-message-sync-devices-primary-text = Al jo apparaten syngronisearje
 fxa-menu-message-sync-devices-secondary-text = Untfang daliks jo gegevens – lykas blêdwizers en wachtwurden – oeral wêr’t jo { -brand-short-name } brûke.
-fxa-menu-message-sync-devices-secondary-text2 = Nim daliks jo blêdwizers, wachtwurden en mear mei — nei oeral wêr't jo oanmeld binne by { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Nim daliks jo blêdwizers, wachtwurden en mear mei — nei oeral wêr’t jo oanmeld binne by { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Al jo apparaten syngronisearje
 fxa-menu-message-backup-data-primary-text = In reservekopy fan jo browsergegevens meitsje
 fxa-menu-message-backup-data-secondary-text = Beskermje automatysk blêdwizers, wachtwurden en oare gegevens op al jo apparaten.

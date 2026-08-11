@@ -46,7 +46,7 @@ social-tab-contant = Sociālie tīkli izvieto izsekotājus citās vietnēs, lai 
 cookie-tab-title = Starpvietņu izsekošanas sīkdatnes
 cookie-tab-content = Šīs sīkdatnes seko jums no vietnes uz vietni, lai ievāktu datus par to, ko jūs darāt tiešsaistē. Tos uzliek trešās puses, piemēram, reklāmdevēji un analītikas uzņēmumi. Bloķējot starpvietņu izsekošanas sīkdatnes, tiek samazināts jums sekojošo reklāmu skaits. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
 tracker-tab-title = Izsekošanas saturs
-tracker-tab-description = Vietnes var ielādēt ārējās reklāmas, videoklipus un citu saturu ar izsekošanas kodu. Izsekošanas satura bloķēšana var palīdzēt vietnēm ielādēties ātrāk, taču dažas pogas, veidlapas un ierakstīšanās lauki var nedarboties. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+tracker-tab-description = Vietnes var ielādēt ārējas reklāmas, videoklipus un citu saturu ar izsekošanas kodu. Izsekošanas satura liegšana var palīdzēt vietnēm ielādēties ātrāk, taču dažas pogas, veidlapas un pieteikšanās lauki var nedarboties. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 fingerprinter-tab-title = Ciparnospiedumi
 fingerprinter-tab-content = Ciparnospiedumi apkopo iestatījumus no jūsu pārlūkprogrammas un datora, lai izveidotu jūsu profilu. Izmantojot šo digitālo nospiedumu, viņi var izsekot jums dažādās vietnēs. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
 cryptominer-tab-title = Kriptominētāji

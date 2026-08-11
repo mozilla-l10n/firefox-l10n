@@ -306,6 +306,10 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Pretstata pārvaldības iestatījumi pārveido vietnes izskatu.
 preferences-web-appearance-link =
     .label = Pārvaldiet { -brand-short-name } motīvus sadaļā Paplašinājumi un motīvi
 # This can appear when using windows HCM or "Override colors: always" without
@@ -1162,13 +1166,13 @@ history-remember-description4 =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } izmantos tādus pat iestatījumus kā privātās pārlūkošanas režīmā un pārlūkojot internetu nesaglabās vēsturi.
-history-remember-description = { -brand-short-name } atcerēsies jūsu pārlūkošanas, lejupielāžu, veidlapu un meklēšanas vēsturi.
+history-remember-description = { -brand-short-name } atcerēsies pārlūkošanas, lejupielāžu, veidlapu un meklēšanas vēsturi.
 history-dontremember-description = { -brand-short-name } izmantos tādus pat iestatījumus kā privātās pārlūkošanas režīmā un pārlūkojot internetu nesaglabās vēsturi.
 history-private-browsing-permanent =
     .label = Vienmēr izmantot privātās pārlūkošanas režīmu
     .accesskey = z
 history-remember-browser-option =
-    .label = Atcerēties manu pārlūkošanas un lejupielāžu vēsturi
+    .label = Atcerēties pārlūkošanas un lejupielāžu vēsturi
     .accesskey = a
 history-remember-search-option =
     .label = Atcerēties meklēšanas un veidlapu vēsturi

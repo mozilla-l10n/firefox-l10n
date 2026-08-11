@@ -105,7 +105,7 @@ protections-panel-site-not-working-view-send-report = Sūtīt ziņojumu
 protections-panel-cross-site-tracking-cookies = Šīs sīkdantes seko jums no vietnes uz vietni, lai ievāktu datus par to, ko jūs darāt tiešsaistē. Tos ievieto trešās puses, piemēram, reklāmdevēji un analītikas uzņēmumi.
 protections-panel-cryptominers = Kriptominētāji izmanto jūsu sistēmas skaitļošanas jaudu, lai iegūtu digitālo naudu. Kriptominētāju skripti iztukšo akumulatoru, palēnina datora darbību un var palielināt rēķinu par elektrību.
 protections-panel-fingerprinters = Ciparnospiedumi apkopo iestatījumus no jūsu pārlūkprogrammas un datora, lai izveidotu jūsu profilu. Izmantojot šo digitālo nospiedumu, viņi var izsekot jums dažādās vietnēs.
-protections-panel-tracking-content = Vietnes var ielādēt ārējās reklāmas, videoklipus un citu saturu ar izsekošanas kodu. Izsekošanas satura bloķēšana var palīdzēt vietnēm ielādēties ātrāk, taču dažas pogas, veidlapas un ierakstīšanās lauki var nedarboties.
+protections-panel-tracking-content = Vietnes var ielādēt ārējas reklāmas, videoklipus un citu saturu ar izsekošanas kodu. Izsekošanas satura liegšana var palīdzēt vietnēm ielādēties ātrāk, taču dažas pogas, veidlapas un pieteikšanāš lauki var nedarboties.
 protections-panel-social-media-trackers = Sociālie tīkli izvieto izsekotājus citās vietnēs, lai sekotu līdzi tam, ko darāt, redzat un skatāties tiešsaistē. Tas ļauj sociālo mediju uzņēmumiem uzzināt vairāk par jums — ne tikai to, ar ko dalāties savos sociālo mediju profilos.
 protections-panel-description-shim-allowed = Daži tālāk atzīmētie izsekotāji šajā lapā ir daļēji atbloķēti, jo jūs ar tiem mijiedarbojāties.
 protections-panel-description-shim-allowed-learn-more = Uzzināt vairāk
@@ -147,7 +147,7 @@ protections-panel-cookie-banner-blocker-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vai izslēgt sīkdatņu paziņojumu bloķētāju vietnei { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Vai izslēgt sīkdatņu paziņojumu bloķētāju šai vietnei?
-protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } notīrīs šīs vietnes sīkdatnes un atsvaidzinās lapu. Notīrot visas sīkdatnes, jūs varat tikt izrakstīts vai tiks iztukšoti iepirkumu grozi.
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } notīrīs šīs vietnes sīkdatnes un atsvaidzinās lapu. Visu sīkdatņu notīrīšana var izraisīt izrakstīšanos vai iepirkumu grožu iztukšošanu.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } mēģina automātiski noraidīt visus sīkdatņu pieprasījumus atbalstītajās vietnēs.
 protections-panel-cookie-banner-view-cancel = Atcelt
 protections-panel-cookie-banner-view-turn-off = Izslēgt

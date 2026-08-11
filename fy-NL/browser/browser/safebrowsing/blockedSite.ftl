@@ -4,7 +4,7 @@
 
 safeb-blocked-phishing-page-title = Misliedende website
 safeb-blocked-malware-page-title = Dizze website kin skeadlik wêze foar jo kompjûter
-safeb-blocked-unwanted-page-title = De folgjende website kin skeadlike programma's befetsje
+safeb-blocked-unwanted-page-title = De folgjende website kin skeadlike programma’s befetsje
 safeb-blocked-harmful-page-title = De folgjende website kin malware befetsje
 safeb-blocked-addon-page-title = Website blokkearre foar jo feilichheid
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } hat dizze side blokkearre, omdat dizze probearje kin jo wat gefaarliks dwaan te litten, lykas it ynstallearjen fan software of it dielen fan persoanlike gegevens lykas wachtwurden of creditcardgegevens.
