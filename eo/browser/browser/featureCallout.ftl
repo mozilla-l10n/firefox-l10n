@@ -143,6 +143,15 @@ taskbar-tabs-value-prop-callout-subtitle = Lanĉu ĝin en aparta propra fenestro
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = Restu konektita per la taska ilaro
 taskbar-tabs-email-callout-title-v3 = Tenu vian retpoŝtan enirkeston en via taska ilaro
+taskbar-tabs-email-callout-subtitle-v3 = Lanĉu viajn retpoŝtajn retejojn kiel programon en simpligita fenestro, protektita de { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Tenu viajn elsendfluojn en via taska ilaro
+taskbar-tabs-media-callout-subtitle-v3 = Lanĉu viajn aŭdvidajn retejojn kiel programon en simpligita fenestro, protektita de { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Alpinglu viajn plej ŝatatajn kanalojn al via taska ilaro
+taskbar-tabs-value-prop-callout-subtitle-v3 = Lanĉu iun ajn retejon kiel programon en simpligita fenestro, protektita de { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Reiru al ludado el via taska ilaro
+taskbar-tabs-gaming-callout-subtitle-v3 = Lanĉu viajn ludajn retejojn kiel programon en simpligita fenestro, protektita de { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Alpingli al la taska ilaro
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

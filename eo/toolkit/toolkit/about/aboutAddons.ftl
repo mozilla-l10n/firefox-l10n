@@ -602,3 +602,13 @@ mlmodel-addon-detail-used-by-label = Uzita de
 mlmodel-addon-detail-model-card = Karto de la modelo
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Montri en Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Personecigu { -brand-product-name } laŭ via ŝato
+    .message = Aldonu ilojn kaj stilojn taŭgajn por viaj bezonoj kaj gusto
