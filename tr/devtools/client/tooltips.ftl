@@ -55,7 +55,7 @@ inactive-css-not-table-cell = Bu eleman bir tablo hücresi olmadığı için <st
 inactive-scroll-padding-when-not-scroll-container = Bu eleman scroll edilemediği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-border-image = <strong>border-collapse</strong> özelliğinin ana tablo elemanında <strong>collapse</strong> olarak ayarlandığı dahili tablo elemanlarına <strong>{ $property }</strong> özelliği uygulanamayacağı için bu özellik bu eleman üzerinde hiçbir etkiye sahip değildir.
 inactive-css-resize = <strong>{ $property }</strong> özelliği yalnızca visible dışında bir taşma değerine sahip elemanlara ve textarea gibi belirli değiştirilmiş elemanlara uygulanabileceği için bu eleman üzerinde bir etkisi yoktur.
-inactive-css-ruby-element = <strong>{ $property }</strong> bir ruby elemanı olduğundan bu eleman üzerinde hiçbir etkisi yoktur. Boyutu ruby metninin yazı tipi boyutuna göre belirlenir.
+inactive-css-ruby-element = Bu eleman bir ruby elemanı olduğundan <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur. Elemanın boyutu ruby metninin yazı tipi boyutuna göre belirlenir.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -68,7 +68,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> bir ruby elemanı old
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> özelliği, vurgulanmış sözde elemanlarda desteklenmez.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::cue sözde elemanlarında desteklenmez.
-inactive-css-at-position-try-not-supported = <strong>@position-try</strong> kurallarında <strong>{ $property }</strong> kuralı desteklenmiyor.
+inactive-css-at-position-try-not-supported = <strong>@position-try</strong> kurallarında <strong>{ $property }</strong> desteklenmiyor.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -78,7 +78,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = Bu eleman parçalı olduğu için, yani içeriği birden fazla sütuna veya sayfaya bölünmüş olduğu için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-no-width-height = Bu elemanın genişliği ve yüksekliği ayarlanamadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
-inactive-css-no-principal-box = <strong>{ $property }</strong> bir ana kutu oluşturmadığı için bu eleman üzerinde etkisi yoktur.
+inactive-css-no-principal-box = Bu eleman bir ana kutu oluşturmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

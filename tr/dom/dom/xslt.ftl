@@ -33,9 +33,9 @@ xpath-binary-expected = XPath işleme hatası: binary operatörü gerekli:
 xslt-load-blocked-error = Güvenlik önlemi olarak XSLT stil dosyasının yüklenmesi durduruldu.
 xpath-invalid-expression-evaluated = Geçersiz bir ifade değerlendiriliyor.
 xpath-unbalanced-curly-brace = Dengesiz küme parantezi.
-xslt-bad-node-name = Geçersiz QName sahibi bir bileşen yaratılıyor.
+xslt-bad-node-name = Geçersiz QName sahibi bir eleman yaratılıyor.
 xslt-var-already-set = Aynı şablondaki değişken bağlama, değişken bağlamayı gölgeliyor.
-xslt-call-to-key-not-allowed = Anahtar işleve çağrı yapılamaz.
+xslt-call-to-key-not-allowed = Key fonksiyonuna çağrı yapılamaz.
 # Other failures, not found in the previous ones.
 # Variables:
 #   $errorCode (String) - The error code (formatted in hexadecimal)

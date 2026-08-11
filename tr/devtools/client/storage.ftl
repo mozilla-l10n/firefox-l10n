@@ -20,10 +20,10 @@ storage-table-type-localstorage-hint = Bir sunucu seçerek yerel depoyu görünt
 storage-table-type-sessionstorage-hint = Bir sunucu seçerek oturum deposunu görüntüleyin ve düzenleyin. <a data-l10n-name="learn-more-link">Daha fazla bilgi al</a>
 # Hint shown when the IndexedDB storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/indexeddb/
-storage-table-type-indexeddb-hint = Bir sunucu seçerek IndexedDB girdilerini görüntüleyin ve silin. <a data-l10n-name="learn-more-link">Daha fazla bilgi al</a>
+storage-table-type-indexeddb-hint = Bir veritabanı seçerek IndexedDB girdilerini görüntüleyebilir ve silebilirsiniz. <a data-l10n-name="learn-more-link">Daha fazla bilgi al</a>
 # Hint shown when the cache storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cache_storage/
-storage-table-type-cache-hint = Bir sunucu seçerek önbellek deposunu görüntüleyin ve düzenleyin. <a data-l10n-name="learn-more-link">Daha fazla bilgi al</a>
+storage-table-type-cache-hint = Bir depolama alanı seçerek önbellek deposundaki kayıtları görebilir ve silebilirsiniz. <a data-l10n-name="learn-more-link">Daha fazla bilgi al</a>
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
 storage-table-type-extensionstorage-hint = Bir sunucu seçerek uzantı deposunu görüntüleyin ve düzenleyin. <a data-l10n-name="learn-more-link">Daha fazla bilgi al</a>

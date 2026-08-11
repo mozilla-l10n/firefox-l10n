@@ -20,7 +20,7 @@ pippki-pw-change-ok = Parola başarıyla değiştirildi.
 pippki-pw-empty-warning = Kayıtlı parolalarınız ve özel anahtarlarınız korunmayacak.
 pippki-pw-erased-ok = Parolanızı sildiniz. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Uyarı! Parola kullanmamaya karar verdiniz. { pippki-pw-empty-warning }
-pippki-pw-change2empty-in-fips-mode = Şu anda FIPS kipindesiniz. FIPS için boş olmayan bir ana parola gereklidir.
+pippki-pw-change2empty-in-fips-mode = Şu anda FIPS kipindesiniz. FIPS için boş olmayan bir parola gereklidir.
 
 ## Reset Primary Password dialog
 

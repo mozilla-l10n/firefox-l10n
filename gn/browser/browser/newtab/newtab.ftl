@@ -253,6 +253,7 @@ newtab-privacy-message-promo-private-window-1-cta = Embojuruja ovetã ñemi
 newtab-privacy-message-promo-relay-1-cta = Erekóke jurumo’ãha
 newtab-privacy-message-promo-relay-2 = Emo’ã ñe’ẽmondo g̃uahẽha spam-gui ñanduti veve rovamo’ãha reívandi.
 newtab-privacy-message-promo-relay-2-cta = Erekóke jurumo’ãha
+newtab-privacy-message-promo-relay-3 = Ehupyty 50 ñanduti veve rovamo’ãha rei emohekorosã hag̃ua ne ñanduti veve.
 newtab-privacy-message-promo-relay-3-cta = Erekóke jurumo’ãha
 
 ## Privacy widget — celebration messages

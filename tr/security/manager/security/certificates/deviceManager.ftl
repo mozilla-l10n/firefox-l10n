@@ -86,7 +86,7 @@ devinfo-label =
     .label = Etiket
 devinfo-serialnum =
     .label = Seri numarası
-fips-nonempty-primary-password-required = FIPS kipi, her güvenlik cihazı bir ana parolaya ihtiyaç duyar. FIPS kipini etkinleştirmeden önce lütfen parolayı ayarlayın.
+fips-nonempty-primary-password-required = FIPS kipinde her güvenlik cihazınızın ana parolasının ayarlanmış olması gerekir. FIPS kipini etkinleştirmeden önce lütfen parolayı ayarlayın.
 unable-to-toggle-fips = FIPS kipi güvenlik aygıtı için değiştirilemiyor. Bu uygulamadan çıkıp uygulamayı yeniden başlatmanız tavsiye edilir.
 load-pk11-module-file-picker-title = Yüklemek için bir PKCS#11 aygıt sürücüsü seçin
 # Load Module Dialog

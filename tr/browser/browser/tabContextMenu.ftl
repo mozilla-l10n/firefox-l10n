@@ -190,7 +190,7 @@ tab-context-send-to-device =
         }
     .accesskey = C
 tab-context-send-to-device2 =
-    .label = Cihazıma gönder
+    .label = Cihazlarıma gönder
     .accesskey = C
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =

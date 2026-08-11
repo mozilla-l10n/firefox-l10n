@@ -70,7 +70,7 @@ perftools-status-restart-required = Bu özelliği etkinleştirmek için tarayıc
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
-perftools-request-to-stop-profiler = Kaydı durdur
+perftools-request-to-stop-profiler = Kayıt durduruluyor
 perftools-request-to-get-profile-and-stop-profiler = Profil yakalanıyor
 
 ##
