@@ -69,10 +69,45 @@ more-from-moz-new-products-button = Vegeu els nous productes
 ## These strings are for the config-based (SRD) moreFromMozilla page using
 ## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
 
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Escanegeu amb el telèfon o càmera de tauleta per aconseguir l'app. Toqueu l'enllaç quan aparegui.
 more-from-moz-firefox-mobile-email-link = Envieu per correu electrònic l'enllaç de descàrrega al mòbil
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Descobriu on s'ha exposat la vostra informació personal en línia amb un escaneig gratuït.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Obteniu una protecció addicional per a totes les aplicacions, no només per al navegador. Mantingues les dades segures en xarxes Wi-Fi públiques i insegures.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Protegiu la safata d'entrada del correu brossa amb màscares d'adreça electrònica gratuïtes.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Apreneu desenvolupament web amb guies i referències gratuïtes.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Accediu al correu electrònic, calendaris i contactes en una aplicació ràpida.
+more-from-moz-solo-card-1 =
+    .label = { -solo-ai-brand-name }
+    .description = Creeu el vostre web a l'instant i connecteu el vostre propi domini personalitzat de forma gratuïta.
+more-from-moz-new-products-card2 =
+    .label = Productes nous de { -vendor-short-name }
+    .description = Exploreu les nostres últimes idees i tecnologies experimentals.
+more-from-moz-mozilla-monitor-box-link =
+    .label = Prova el { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Obteniu { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-box-link =
     .label = Proveu el { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Accedeix al MDN
+more-from-moz-thunderbird-box-link =
+    .label = Obté { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Proveu amb { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Mostra els nous productes
