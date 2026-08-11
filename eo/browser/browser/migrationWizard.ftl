@@ -192,6 +192,9 @@ migration-wizard-progress-icon-completed =
     .aria-label = Kompleta
 migration-safari-password-import-header = Importi pasvortojn el Safari
 migration-safari-password-import-post-sequoia-step1 = Malfermu la <a data-l10n-name="macos-passwords-app">pasvortan programon</a> en via Mac
+migration-safari-password-import-post-sequoia-step2 = En la menua strio ĉe la supro de via ekrano, elektu "Dosiero" > "Eksporti ĉiujn pasvortojn al dosiero…"
+migration-safari-password-import-post-sequoia-step3 = Konservu la dosieron
+migration-safari-password-import-post-sequoia-step4 = Elektu la dosieron, kiun vi konservis
 migration-safari-password-import-steps-header = Por importi pasvortojn el Safari:
 migration-safari-password-import-step1 = En Safari, malfermu la menuon “Safari“ kaj iru al Preferoj > Pasvortoj
 migration-safari-password-import-step2 = Elektu la butonon <img data-l10n-name="safari-icon-3dots"/> kaj “Eksporti ĉiujn pasvortojn”
@@ -204,6 +207,7 @@ migration-chrome-windows-password-import-step2 = Elektu “Agoroj” en la menuo
 migration-chrome-windows-password-import-step3 = Elektu “Elŝuti dosieron” kaj konservu ĝin en via aparato.
 migration-chrome-windows-password-import-step4 = Revenu ĉi tien kaj elektu “Elekti dosieron”  por fini la importon.
 migration-manual-password-import-skip-button = Ignori
+migration-manual-password-import-cancel-button = Nuligi
 migration-manual-password-import-select-button = Elekti dosieron
 migration-safari-password-import-skip-button = Ignori
 migration-safari-password-import-select-button = Elekti dosieron

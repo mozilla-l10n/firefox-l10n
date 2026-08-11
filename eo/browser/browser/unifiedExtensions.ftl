@@ -21,6 +21,7 @@ unified-extensions-empty-reason-zero-extensions-onboarding2 = Eĉ eta nombro da 
 unified-extensions-empty-reason-zero-extensions-onboarding = Plibonigu vian retumon per etendaĵoj
 unified-extensions-empty-content-explain-enable2 = Elektu “{ unified-extensions-manage-extensions.label }” por aktivigi ilin en la agordoj.
 unified-extensions-empty-content-explain-manage2 = Elektu “{ unified-extensions-manage-extensions.label }” por administri ilin en la agordoj.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Ni havas rekomendojn por helpi vin plibonigi vian fokuson, privatecon, kaj pli.
 unified-extensions-empty-content-explain-extensions-onboarding = Personecigu { -brand-short-name } per alĝustigo de ĝia aspekto kaj efikeco aŭ per plibonigo de privateco kaj sekureco.
 
 ## An extension in the main list

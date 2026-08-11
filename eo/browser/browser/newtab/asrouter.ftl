@@ -295,6 +295,20 @@ launch-on-login-infobar-final-message = <strong>Ĉu malfermi { -brand-short-name
 launch-on-login-infobar-final-reject-button = Ne, dankon
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } nun startas, kiam vi komenciĝas la seanco de Windows. Vi povas ĉiam ŝanĝi tion en la agordoj.
+launch-on-login-autostart-infobar-keep-button = Teni ŝaltita
+    .accesskey = T
+launch-on-login-autostart-infobar-turn-off-button = Malŝalti
+    .accesskey = M
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -493,3 +507,21 @@ nova-early-access-share-feedback-link = Sendi komentojn
     .accesskey = k
 nova-early-access-infobar-primary-button = Mi komprenis
     .accesskey = k
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Ĉu startigi { -brand-short-name } ĉiufoje, kiam vi komencas la seancon de Windows?
+launch-options-spotlight-title-session-restore = Ĉu remalfermi vian seancon kiam { -brand-short-name } restartas?
+launch-options-spotlight-checkbox-launch-on-login = Malfermi { -brand-short-name } je starto
+launch-options-spotlight-checkbox-pin-to-taskbar = Alpingli al via taska ilaro
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Remalfermi nunajn fenestrojn kaj langetojn
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Remalfermi antaŭajn fenestrojn kaj langetojn
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Konservi kaj fermi { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Konservi kaj daŭrigi
