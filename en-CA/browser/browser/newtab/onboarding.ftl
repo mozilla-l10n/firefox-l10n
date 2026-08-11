@@ -449,6 +449,13 @@ onboarding-checklist-pin = Pin { -brand-short-name } to taskbar
 onboarding-checklist-import = Import from previous browser
 onboarding-checklist-extension = Add an extension
 onboarding-checklist-sign-up = Sign up or sign in to your account
+onboarding-checklist-minimize =
+    .label = Minimize
+
+onboarding-checklist-remove =
+    .label = Remove checklist
+
+onboarding-checklist-remove-2 = Remove checklist
 
 ## Tab Groups feature onboarding strings
 
@@ -597,6 +604,15 @@ onboarding-refresh-sync-title = Go anywhere. Sync everything.
 onboarding-refresh-gratitude-subtitle = Thank you for using { -brand-short-name }, the only major browser backed by a non-profit. With your support, we’re working to make the internet safer and more accessible for everyone.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } has your back
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Switch between Smart and Classic Windows anytime.
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name } Terms of Use
+
+smartwindow-existing-user-fx-tou-body = To use { -smart-window-brand-name }, please accept the <a data-l10n-name="terms_of_use">Terms of Use</a> and updated <a data-l10n-name="privacy_notice">Privacy Notice</a>.
 
 ## Smart Window ToU modal
 

@@ -93,6 +93,21 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Clock
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Privacy
+
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Crossword
+
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Stocks
+
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Picture of the day
 home-prefs-mission-message2 =
     .message = Our sponsors support our mission to build a better web.
 home-prefs-manage-topics-link2 =
@@ -151,6 +166,59 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = Support { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Find out how
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Learn more
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Tracker blocked today
+       *[other] Trackers blocked today
+    }
+
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Across { $count } site
+       *[other] Across { $count } sites
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blocks trackers as you browse. You’ll see them here.
+
+newtab-privacy-message-info-1 = { -brand-short-name } blocks trackers automatically as you browse.
+
+newtab-privacy-message-info-1-cta = View protections
+
+newtab-privacy-message-info-2 = Tracker blocking helps stop companies from following you online.
+
+newtab-privacy-message-info-2-cta = View protections
+
+newtab-privacy-message-info-3 = Many sites have trackers so companies you’ve never visited may follow you online.
+
+newtab-privacy-message-info-3-cta = View protections
+
+newtab-privacy-message-info-4 = Choosing { -brand-short-name } means choosing protection by default.
+
+newtab-privacy-message-info-4-cta = View protections
 
 ## Privacy widget — informational messages
 ##
@@ -254,6 +322,11 @@ newtab-privacy-message-streak-cta = View protections
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Keep browsing, { -brand-short-name } will keep blocking.
 newtab-privacy-message-first-protection-cta = View protections
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Search ticker symbols
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Learn more
 
 ## Strings for the Stocks widget
 
@@ -280,6 +353,9 @@ newtab-stocks-ticker-status-up = { $name }, up { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, down { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, no change, { $change }, { $price }
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Picture of the day · Wikimedia Commons
 
 ## Strings for the Picture of the Day widget
 
@@ -303,6 +379,33 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .title = Picture of the day options
     .aria-label = Picture of the day options
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Set wallpaper
+    .title = Set wallpaper
+    .aria-label = Set today’s picture as your wallpaper
+
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Manage wallpaper
+
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Hide today’s picture
+
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Show today’s picture
+
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Learn more
+
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Show today’s picture
+    .aria-label = Show today’s picture
+
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Check back tomorrow for a new picture
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons picture of the day

@@ -304,6 +304,11 @@ launch-on-login-infobar-final-reject-button = No thanks
 # "settings" refers to the Firefox settings (about:preferences), where
 # launch-on-login can be toggled, not the Windows system settings.
 launch-on-login-autostart-infobar-message = { -brand-short-name } now starts up when you sign in to Windows. You can always change this later in settings.
+launch-on-login-autostart-infobar-keep-button = Keep on
+    .accesskey = K
+
+launch-on-login-autostart-infobar-turn-off-button = Turn off
+    .accesskey = T
 
 ## Launch on login spotlight
 ##
@@ -312,6 +317,14 @@ launch-on-login-autostart-infobar-message = { -brand-short-name } now starts up 
 
 launch-on-login-spotlight-title = Open { -brand-short-name } next time your computer starts up?
 launch-on-login-spotlight-startup-checkbox = Launch { -brand-short-name } at startup
+launch-on-login-spotlight-pin-taskbar-checkbox = Pin to taskbar
+
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Open previous windows and tabs
+
+launch-on-login-spotlight-primary-button = Save and close { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
 
@@ -466,8 +479,20 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Keep { -brand-short-name } at your fingertips — make it your default and keep it in your Dock.
        *[other] Keep { -brand-short-name } at your fingertips — make it your default and keep it in your taskbar.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Keep { -brand-short-name } at your fingertips
+       *[other] Open all links with { -brand-short-name }
+    }
+
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Make it your default and keep it in your Dock.
+       *[other] Get faster browsing and automatic privacy protection.
+    }
 set-default-menu-message-primary-button = Set as default
 set-default-menu-message-primary-button-variant = Set as primary browser
+set-default-menu-message-primary-button-short-variant = Make { -brand-short-name } default
 
 ## Firefox Relay 50 Masks Announcement
 
@@ -486,3 +511,28 @@ nova-early-access-share-feedback-link = Share feedback
     .accesskey = S
 nova-early-access-infobar-primary-button = Got it
     .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Start { -brand-short-name } every time you sign in to Windows?
+
+launch-options-spotlight-title-session-restore = Reopen your session when { -brand-short-name } restarts?
+
+launch-options-spotlight-checkbox-launch-on-login = Open { -brand-short-name } at startup
+
+launch-options-spotlight-checkbox-pin-to-taskbar = Pin to your taskbar
+
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Reopen current windows and tabs
+
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Reopen previous windows and tabs
+
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Save and close { -brand-short-name }
+
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Save and continue

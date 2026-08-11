@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Resize split view tabs
+tab-devtools-splitter =
+    .aria-label = Resize Developer Tools panel
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -182,6 +184,9 @@ tabbrowser-customizemode-tab-title = Customize { -brand-short-name }
 
 tabbrowser-context-mute-tab =
     .label = Mute Tab
+    .accesskey = M
+tabbrowser-context-mute-tab2 =
+    .label = Mute
     .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = Unmute Tab

@@ -1732,6 +1732,32 @@ personal-info-group =
     .label = Personal info
 autofill-personal-info-checkbox-message =
     .label = Save and autofill personal info
+autofill-personal-info-manage-button =
+    .label = Manage personal info
+
+passports-list-header =
+    .label = Passports
+
+passports-delete-passport-button-label =
+    .aria-label = Delete
+
+passports-edit-passport-button-label =
+    .aria-label = Edit
+
+passports-delete-passport-prompt-title = Delete this passport?
+
+passports-delete-passport-prompt-confirm-button = Delete
+
+passports-delete-passport-prompt-cancel-button = Cancel
+
+autofill-passports-add-button = Add new passport
+
+autofill-personal-info-manage-title =
+    .heading = Manage personal info
+
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = No passports added
 pane-passwords-autofill-title2 = Passwords and autofill
     .title = Passwords and autofill
 preferences-passwords-autofill-header =
@@ -1800,6 +1826,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Settings…
     .accesskey = t
+history-shutdown-exceptions =
+    .label = Manage Exceptions
+    .accesskey = x
 history-clear-button =
     .label = Clear History…
     .accesskey = s
@@ -2550,6 +2579,35 @@ browser-theme-group =
     .description = Style { -brand-short-name } your way. Theme colours apply to toolbars, menus, and messages.
 browser-theme-manage-link =
     .label = Manage { -brand-short-name } themes
+appearance-window-density-group =
+    .label = Window density
+    .description = Adjust the spacing around window elements like toolbar, tabs, and sidebar.
+
+appearance-window-density-radio-group =
+    .aria-label = Window density
+
+appearance-window-density-automatic =
+    .label = Automatic (default)
+    .description = Standard, compact, or touch spacing is applied automatically
+
+appearance-window-density-automatic-no-touch =
+    .label = Automatic (default)
+    .description = Standard or compact spacing is applied automatically
+
+appearance-window-density-standard =
+    .label = Standard
+    .description = Balanced spacing for most screens
+
+appearance-window-density-auto-touch-mode =
+    .label = Use touch spacing for tablet mode
+
+appearance-window-density-compact =
+    .label = Compact
+    .description = Reduced spacing for smaller screens
+
+appearance-window-density-touch =
+    .label = Touch
+    .description = Larger window elements and click targets, optimized for touch screens
 related-settings-group =
     .label = Related settings
 related-settings-accessibility-link =
@@ -2584,6 +2642,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = Key points in link previews
     .description = See a quick summary before opening a link.
+preferences-ai-controls-sidebar-chatbot-group-2 =
+    .label = AI chatbot providers in sidebar
+    .description = Keep a chatbot in view as you browse. Choose from Anthropic Claude, ChatGPT, Copilot, Google Gemini, and Mistral Vibe.
 preferences-ai-controls-sidebar-chatbot-group =
     .label = AI chatbot providers in sidebar
     .description = Keep a chatbot in view as you browse. Choose from Anthropic Claude, ChatGPT, Copilot, Google Gemini, and Le Chat Mistral.
@@ -2674,6 +2735,8 @@ preferences-etp-level-custom =
     .description = Choose which protections to turn on or off.
 preferences-etp-status-advanced-button =
     .label = Advanced settings
+preferences-etp-tracker-count-enabled =
+    .label = Show trackers blocked in address bar
 preferences-etp-status-protections-dashboard-link =
     .label = View your personalized protections dashboard
     .description = See how many sneaky trackers { -brand-short-name } has blocked for you, including social media trackers, fingerprinters, and cryptominers.
@@ -2757,6 +2820,13 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-safe-browsing =
     .label = Dangerous and deceptive content is not blocked
     .description = Your exposure to scams and malware from websites is increased.
+security-privacy-issue-warning-doh2 =
+    .label = DNS over HTTPS is disabled
+    .description = DNS over HTTPS helps hide what sites you’re about to visit from your network provider.
+
+security-privacy-issue-warning-ech2 =
+    .label = Encrypted Client Hello is disabled
+    .description = Encrypted Client Hello helps hide what sites you’re about to visit from your network provider.
 security-privacy-issue-warning-doh =
     .label = DNS over HTTPS is disabled
     .description = DNS over HTTPS hides what sites you visit from your network provider.
@@ -2766,3 +2836,16 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Proxy auto-configuration is enabled
     .description = Proxy auto-configuration could let untrusted networks to monitor your activity.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Share { -brand-short-name }
+    .description = Invite someone to choose the browser that puts privacy first.
+
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Share { -brand-short-name }
