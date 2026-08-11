@@ -14,7 +14,7 @@ deprecation-description = Kaut kas pietrūkst? Daži spraudņi vairs netiek atba
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
-file-dd = <span data-l10n-name="file">Fails:</span> { $pluginLibraries }
+file-dd = <span data-l10n-name="file">Datne:</span> { $pluginLibraries }
 path-dd = <span data-l10n-name="path">Ceļš:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Versija:</span> { $version }
 

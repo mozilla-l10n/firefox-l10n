@@ -42,6 +42,9 @@ neterror-captive-portal = Pieslēdzieties tīklam, lai piekļūtu Internetam.
 
 neterror-file-not-found-filename = Pārbaudiet, vai faila vārds ir uzrakstīts pareizi un ar pareizā lieluma burtiem.
 neterror-file-not-found-moved = Pārliecinieties, ka fails nav pārvietots, pārsaukts vai izdzēsts.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } nevar atrast datni <strong>{ $path }</strong>. Vai nu tā nepastāv, vai arī ceļš ir nepareizs.
 neterror-access-denied = Tas varētu būt aizvākts, pārvietots vai arī faila piekļuves tiesības liedz piekļuvi tam.
 neterror-unknown-protocol = Iespējams, jums jāuzinstalē kāda cita programma, lai apstrādātu šī tipa adreses.
 neterror-redirect-loop = Šo problēmu reizēm var atrisināt, deaktivējot sīkdatnes vai nepieņemot tās no šīs lapas.

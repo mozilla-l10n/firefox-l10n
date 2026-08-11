@@ -160,7 +160,7 @@ migration-cancel-button-label = Atcelt
 migration-done-button-label = Gatavs
 migration-continue-button-label = Turpināt
 migration-wizard-import-browser-no-browsers = { -brand-short-name } nevarēja atrast nevienu programmu, kas satur grāmatzīmju, vēstures vai paroļu datus.
-migration-wizard-import-browser-no-resources = Radās kļūda. { -brand-short-name } nevar atrast datus, ko importēt no tā pārlūka profila.
+migration-wizard-import-browser-no-resources = Radās kļūda. { -brand-short-name } tajā pārlūka profilā nevar atrast ievietojamus datus.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will

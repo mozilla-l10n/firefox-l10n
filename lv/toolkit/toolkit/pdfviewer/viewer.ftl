@@ -199,7 +199,7 @@ pdfjs-page-scale-percent = { $scale }%
 
 pdfjs-loading-error = Ielādējot PDF notika kļūda.
 pdfjs-invalid-file-error = Nederīgs vai bojāts PDF fails.
-pdfjs-missing-file-error = PDF fails nav atrasts.
+pdfjs-missing-file-error = PDF datne nav atrasta.
 pdfjs-unexpected-response-error = Negaidīa servera atbilde.
 pdfjs-rendering-error = Attēlojot lapu radās kļūda
 
