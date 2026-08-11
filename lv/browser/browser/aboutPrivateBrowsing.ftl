@@ -81,4 +81,4 @@ about-private-browsing-felt-privacy-v1-info-link = Kas varētu redzēt manas dar
 
 ## Strings for the Nova redesign of about:privatebrowsing
 
-about-private-browsing-nova-info-body = Aizverot visus privātos logus, tiek dzēsti sīkfaili, vēsture un vietņu dati.
+about-private-browsing-nova-info-body = Visu privāto logu aizvēršana izdzēš sīkdatnes, vēsturi un vietņu datus.
