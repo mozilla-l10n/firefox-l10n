@@ -67,6 +67,7 @@ firefoxview-tabpickup-sync-error-header = 同步时遇到问题
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } 目前无法连接到同步服务，请稍后再试。
 # “Sync hit a snag” means that the sync process is having a problem and can’t connect.
 firefoxview-tabpickup-sync-error-header-2 = 同步遇到问题
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } 无法连接。请稍等片刻，然后重试
 firefoxview-tabpickup-sync-error-primarybutton = 重试
 firefoxview-tabpickup-sync-disconnected-header = 开启同步服务以继续
 firefoxview-tabpickup-sync-disconnected-description = 若要接收您的标签页，需先启用 { -brand-short-name } 的同步服务。

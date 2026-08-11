@@ -41,7 +41,7 @@ appearance-browser-icon-requirement =
 appearance-browser-icon-unlocked =
     .message = Odomkli ste všetky bonusové ikony!
 appearance-browser-icon-set-default-button =
-    .label = Nastaviť ako predvolenú
+    .label = Nastaviť ako predvolený
 appearance-browser-icon-pin-button =
     .label = Pripnúť na panel úloh
 

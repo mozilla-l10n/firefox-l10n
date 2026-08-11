@@ -148,6 +148,8 @@ fxa-menu-all-devices-panel =
     .title = 所有设备
 fxa-menu-get-firefox-mobile =
     .label = 下载 Android 或 iOS 版 { -brand-product-name }
+fxa-menu-secure-sync-subpanel =
+    .title = 安全同步
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = 账户
 # Variables
