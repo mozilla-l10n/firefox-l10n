@@ -14,6 +14,12 @@ webext-perms-header = Pievienot { $extension }?
 webext-perms-sideload-header = { $extension } pievienots
 webext-perms-optional-perms-header = { $extension } ir nepieciešamas papildu tiesības.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+webext-perms-header-required-perms = Nepieciešamās atļaujas:
+webext-perms-header-optional-settings = Izvēles iestatījumi:
+webext-perms-header-update-required-perms = Jaunas nepieciešamās atļaujas:
+
 ##
 
 webext-perms-add =
@@ -40,10 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Neatļaut
     .accesskey = N
-webext-perms-host-description-all-urls = Pieeja visai jūsu informācijām visās lapās
+webext-perms-host-description-all-urls = Piekļuve visiem datiem visās tīmekļvietnēs
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
-webext-perms-host-description-wildcard = Pieeja jūsu informācijām lapās no { $domain } domēna
+webext-perms-host-description-wildcard = Piekļuve visiem datiem { $domain } domēna vietnēs
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

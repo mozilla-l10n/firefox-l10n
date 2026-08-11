@@ -1553,7 +1553,7 @@ firefox-relay-offer-legal-notice-1 = Reģistrējoties un izveidojot e-pasta mask
 
 popup-notification-addon-install-unsigned =
     .value = (Nepārbaudīts)
-popup-notification-xpinstall-prompt-learn-more = Uzziniet vairāk par papildinājumu drošu instalēšanu
+popup-notification-xpinstall-prompt-learn-more = Uzzini vairāk par drošu papildinājumu uzstādīšanu
 popup-notification-xpinstall-prompt-block-url = Apskatīt informāciju
 # Note: Access key is set to p to match "private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox2 =

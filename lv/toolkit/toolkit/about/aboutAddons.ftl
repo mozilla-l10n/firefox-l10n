@@ -168,6 +168,10 @@ addon-detail-updates-label = Atļaut automātiskus atjauninājumus
 addon-detail-private-browsing-allow = Atļaut
 addon-detail-private-browsing-disallow = Neatļaut
 
+##
+
+addon-permissions-required = Nepieciešamās atļaujas pamata darbībai:
+
 ## Page headings
 
 addon-page-options-button =
