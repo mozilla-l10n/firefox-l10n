@@ -179,6 +179,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = 已完成
 migration-safari-password-import-header = 从 Safari 浏览器导入密码
+migration-safari-password-import-post-sequoia-step1 = 在 Mac 上打开<a data-l10n-name="macos-passwords-app">“密码”App</a>
+migration-safari-password-import-post-sequoia-step2 = 在屏幕顶部的菜单栏中，选择“文件”>“将所有密码导出至文件…”
+migration-safari-password-import-post-sequoia-step3 = 保存文件
+migration-safari-password-import-post-sequoia-step4 = 选择您刚才保存的文件
 migration-safari-password-import-steps-header = 如需导入 Safari 浏览器密码：
 migration-safari-password-import-step1 = 在 Safari 浏览器中，打开“Safari 浏览器”菜单，前往“偏好设置”>“密码”
 migration-safari-password-import-step2 = 点按 <img data-l10n-name="safari-icon-3dots"/> 按钮，然后选取“导出所有密码”
@@ -191,6 +195,7 @@ migration-chrome-windows-password-import-step2 = 选择菜单中的“设置”�
 migration-chrome-windows-password-import-step3 = 选择“下载文件”并将其保存到设备。
 migration-chrome-windows-password-import-step4 = 回到此处，选择“选择文件”以完成导入。
 migration-manual-password-import-skip-button = 跳过
+migration-manual-password-import-cancel-button = 取消
 migration-manual-password-import-select-button = 选择文件
 migration-safari-password-import-skip-button = 跳过
 migration-safari-password-import-select-button = 选择文件
