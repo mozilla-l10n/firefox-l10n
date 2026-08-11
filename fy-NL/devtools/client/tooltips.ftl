@@ -18,7 +18,7 @@ devtools-tooltip-learn-more = Mear ynformaasje
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin flexcontainer of gridcontainer is.
-inactive-css-not-grid-or-flex-container-or-multicol-container = <strong> { $property } </strong> hat gjin effekt op dit elemint, omdat it gjin flex-container, grid-container of in container mei mear kolommen is.
+inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it gjin flex-container, grid-container of in container mei mear kolommen is.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it gjin container mei meardere kolommen is.
 inactive-css-column-span = <strong>{ $property }</strong> hat gjin spanning-effekt op dit elemint, omdat it net yn in container mei meardere kolommen is.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin grid- of flexitem is.
@@ -171,7 +171,7 @@ inactive-css-no-principal-box-fix-1 = Probearje in <strong>display</strong>-wear
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
-css-compatibility-default-message = <strong> { $property } </strong> wurdt net stipe yn de folgjende browsers:
+css-compatibility-default-message = <strong>{ $property }</strong> wurdt net stipe yn de folgjende browsers:
 css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> wie in eksperimintele property dy’t neffens de W3C-standerts no ferâldere is. Hy wurdt net stipe yn de folgjende browsers:
 css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> wie in eksperimintele property dy’t neffens de W3C-standerts no ferâldere is.
 css-compatibility-deprecated-message = <strong>{ $property }</strong> is ferâldere neffens W3C-standerts. It wurdt net stipe yn de folgjende browsers:

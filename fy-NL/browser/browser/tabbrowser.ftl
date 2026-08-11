@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nij ljepblêd
-tabbrowser-empty-private-tab-title = Nij privee­ljepblêd
+tabbrowser-empty-private-tab-title = Nij priveeljepblêd
 tabbrowser-menuitem-close-tab =
     .label = Ljepblêd slute
 tabbrowser-menuitem-close =

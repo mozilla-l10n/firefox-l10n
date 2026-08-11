@@ -501,7 +501,7 @@ recommended-themes-heading = Oanrekommandearre tema’s
 addon-sitepermissions-required = Jout <span data-l10n-name="hostname">{ $hostname }</span> de folgjende mooglikheden:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
-recommended-theme-1 = Fiele jo jo kreätyf? <a data-l10n-name="link"> Bou jo eigen tema mei Firefox Color.</a>
+recommended-theme-1 = Fiele jo jo kreatyf? <a data-l10n-name="link">Bou jo eigen tema mei Firefox Color.</a>
 
 ## Page headings
 
