@@ -646,6 +646,14 @@ find-more-themes-promo =
     .message = Escolha um estilo que faça o { -brand-product-name } ficar do seu jeito.
 find-more-themes-promo-open-amo-button = Descobrir temas
 
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Algumas poucas extensões podem fazer uma enorme diferença
+    .message = Temos recomendações para te ajudar a melhorar foco, privacidade e muito mais.
+list-empty-get-extensions-promo-button = Encontre sua primeira extensão
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -657,9 +665,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Dispositivo
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Temas do { -brand-product-name }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Mostrar mais
+aboutaddons-themes-picker-see-less = Mostrar menos
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = Ativar
+aboutaddons-themes-picker-disable-button =
+    .label = Desativar
+aboutaddons-themes-picker-install-button =
+    .label = Instalar
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Não foi possível atualizar o tema. Verifique a conexão e tente novamente.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

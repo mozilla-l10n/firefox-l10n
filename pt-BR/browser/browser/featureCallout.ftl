@@ -139,7 +139,12 @@ taskbar-tabs-value-prop-callout-subtitle = Abra em uma janela separada de interf
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Permaneça conectado a partir da barra de tarefas
+taskbar-tabs-email-callout-title-v3 = Acesse sua caixa de entrada a partir da barra de tarefas
 taskbar-tabs-email-callout-subtitle-v3 = Abra sites de email como um aplicativo, em uma janela simplificada e protegida pelo { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Acesse suas transmissões a partir da barra de tarefas
 taskbar-tabs-media-callout-subtitle-v3 = Abra sites de mídia como um aplicativo, em uma janela simplificada e protegida pelo { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title-v3 = Fixe seus sites preferidos na barra de tarefas
 taskbar-tabs-value-prop-callout-subtitle-v3 = Abra qualquer site como um aplicativo, em uma janela simplificada e protegida pelo { -brand-short-name }.
