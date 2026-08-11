@@ -94,7 +94,7 @@ about-debugging-refresh-usb-devices-button = Apparaten fernije
 # Title of the Setup page.
 about-debugging-setup-title = Konfiguraasje
 # Introduction text in the Setup page to explain how to configure remote debugging.
-about-debugging-setup-intro = Konfigurearje de ferbiningsmetoade wêrmei't jo jo apparaat ekstern debugge wolle.
+about-debugging-setup-intro = Konfigurearje de ferbiningsmetoade wêrmei’t jo jo apparaat ekstern debugge wolle.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = Brûk <a>{ about-debugging-this-firefox-runtime-name }</a> om útwreidingen en service workers op dizze ferzje fan { -brand-shorter-name } te debuggen.
 # Title of the heading Connect section of the Setup page.

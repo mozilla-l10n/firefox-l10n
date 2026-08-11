@@ -161,7 +161,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = My warskôgje as it iepenjen fa
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = Kursornavigaasje
-tabbrowser-confirm-caretbrowsing-message = Troch op F7 te drukken, wurdt kursornavigaasje yn- of útskeakele. Dizze funksje pleatst in beweegbere kursor yn websiden, wêrmei't jo yn steat binne tekst mei it toetseboerd te selektearjen. Wolle jo kursornavigaasje ynskeakelje?
+tabbrowser-confirm-caretbrowsing-message = Troch op F7 te drukken, wurdt kursornavigaasje yn- of útskeakele. Dizze funksje pleatst in beweechbere kursor yn websiden, wêrmei’t jo yn steat binne tekst mei it toetseboerd te selektearjen. Wolle jo kursornavigaasje ynskeakelje?
 tabbrowser-confirm-caretbrowsing-checkbox = Dit dialoochfinster net mear toane.
 
 ## Confirmation dialog for closing all duplicate tabs

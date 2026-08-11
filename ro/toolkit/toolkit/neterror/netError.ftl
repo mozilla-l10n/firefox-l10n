@@ -107,7 +107,7 @@ neterror-file-not-found-moved = Verifică fișierul - să nu fi fost mutat, rede
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } nu poate găsi fișierul de la <strong>{ $path }</strong>. Ori nu există, ori calea este incorectă.
-neterror-file-not-found-what-can-you-do = Dacă ai tastat manual adresa, verifică pentru erori de majuscule și minuscule sau erori de tastare din denumirea fișierului sau a căii. Dacă ai urmat un marcaj salvat sau un link, este posibil ca fișierul să fi fost mutat, redenumit sau șters de la salvare. Încearcă să îl găsești folosind gestionarul de fișiere sau prin căutările recente.
+neterror-file-not-found-what-can-you-do = Dacă ai tastat manual adresa, verifică pentru erori de majuscule și minuscule sau erori de tastare din denumirea fișierului sau a căii. Dacă ai urmat un marcaj salvat sau un link, este posibil ca fișierul să fi fost mutat, redenumit sau șters de la salvare. Încearcă să îl găsești folosind managerul de fișiere sau prin căutările recente.
 neterror-access-denied = Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.
 neterror-unknown-protocol = S-ar putea să fie necesară instalarea altui program pentru a deschide această adresă.
 neterror-redirect-loop = Această problemă poate fi uneori cauzată de dezactivarea sau refuzarea acceptării de cookie-uri.
