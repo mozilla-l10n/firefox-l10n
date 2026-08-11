@@ -41,7 +41,7 @@ appearance-browser-icon-requirement =
 appearance-browser-icon-unlocked =
     .message = ¡Se desbloquearon todos los íconos bonus!
 appearance-browser-icon-set-default-button =
-    .label = Hacer predeterminado
+    .label = Hacer predeterminados
 appearance-browser-icon-pin-button =
     .label = Pegar a la barra de tareas
 

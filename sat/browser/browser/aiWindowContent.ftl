@@ -113,3 +113,61 @@ smart-window-restore-success-summary =
         [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚ ᱮᱱᱟ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱫᱚᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱮᱱᱟ ᱾
        *[other] ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚ ᱮᱱᱟ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱫᱚᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱮᱱᱟ ᱾
     }
+smart-window-cancelled-label = ᱟᱨᱫᱟᱥ ᱵᱟᱛᱤᱞ ᱮᱱᱟ ᱾
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = ᱫᱳᱞ
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] { $count } ᱴᱮᱵᱽ ᱫᱳᱞ ᱠᱟᱠᱚ ᱢᱮ
+        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱫᱳᱞ ᱠᱟᱠᱚ ᱢᱮ
+       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱫᱳᱞ ᱠᱟᱠᱚ ᱢᱮ
+    }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = ᱡᱷᱤᱡᱽ ᱢᱮ
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] { $count } ᱴᱮᱵᱽ ᱡᱷᱤᱡᱽ ᱢᱮ
+        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱡᱷᱤᱡᱽ ᱢᱮ
+       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] { $count } ᱴᱮᱵᱽ ᱫᱳᱞ ᱠᱟᱱᱟ
+        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱫᱳᱞ ᱠᱟᱱᱟ
+       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱫᱳᱞ ᱠᱟᱱᱟ
+    }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = ᱴᱮᱵᱽ ᱫᱳᱞ ᱠᱚ
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] “{ $label }” ᱜᱟᱫᱮᱞ ᱛᱮᱭᱟᱨ ᱮᱱᱟ ᱟᱨ { $count } ᱴᱮᱵᱽ ᱥᱮᱞᱮᱫ ᱮᱱᱟ ᱾
+        [two] “{ $label }” ᱜᱟᱫᱮᱞ ᱛᱮᱭᱟᱨ ᱮᱱᱟ ᱟᱨ { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱥᱮᱞᱮᱫ ᱮᱱᱟ ᱾
+       *[other] “{ $label }” ᱜᱟᱫᱮᱞ ᱛᱮᱭᱟᱨ ᱮᱱᱟ ᱟᱨ { $count } ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ ᱾
+    }
+smart-window-grouped-tabs-row-label = ᱫᱳᱞ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } ᱴᱮᱵᱽ ᱡᱷᱤᱡᱽ ᱮᱱᱟ
+        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱡᱷᱤᱡᱽ ᱮᱱᱟ
+       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱡᱷᱤᱡᱽ ᱮᱱᱟ
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } ᱴᱮᱵᱽ ᱡᱷᱤᱡᱽ ᱮᱱᱟ ᱾
+        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱡᱷᱤᱡᱽ ᱮᱱᱟ ᱾
+       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱡᱷᱤᱡᱽ ᱮᱱᱟ ᱾
+    }
