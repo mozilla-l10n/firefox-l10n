@@ -133,6 +133,16 @@ taskbar-tabs-media-callout-subtitle = ਆਪਣੀਆਂ ਸਟਰੀਮ ਸਾ�
 taskbar-tabs-value-prop-callout-title = ਇਸ ਸਾਈਟ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਜੋੜੋ
 taskbar-tabs-value-prop-callout-subtitle = ਇਸ ਨੂੰ ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਆਪਣੀ ਵਿੰਡੋ ਵਿੱਚ ਅਤੇ ਸਰਲ ਕੀਤੇ ਇੰਟਰਫੇਸ ਵਿੱਚ ਚਲਾਓ।
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਤੋਂ ਕਨੈਕਟ ਰਹੋ
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = ਜਦੋਂ ਤੁਸੀਂ Windows 11 ਉੱਤੇ ਜਾਓ ਤਾਂ ਆਪਣੀਆਂ ਸੰਭਾਲੀਆਂ ਹੋਈਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਨਾ ਗੁਆਓ।

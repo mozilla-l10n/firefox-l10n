@@ -95,3 +95,18 @@ ai-window-delete-all-memories-cancel = Nuligi
 ai-window-memory-delete-button =
     .title = Forigi memoraĵon
     .aria-label = Forigi { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: Rapida
+    .description = Plej bona, kiam rapideco gravas. Plena nomo: { $model } de { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: Adaptebla
+    .description = Preta por pluraj taskoj. Plena nomo: { $model } de { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Persona
+    .description = Konstruita por personigita helpo en multaj lingvoj. Plena nomo: { $model } de { $ownerName }

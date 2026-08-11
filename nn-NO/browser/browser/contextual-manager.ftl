@@ -20,7 +20,7 @@ contextual-manager-passwords-command-export = Eksporter passord
 contextual-manager-passwords-command-remove-all = Slett alle passorda
 contextual-manager-passwords-command-options = Innstillingar
 contextual-manager-passwords-command-settings = Innstillingar
-contextual-manager-passwords-command-help = HJelp
+contextual-manager-passwords-command-help = Hjelp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å eksportere passorda dine. Dette vil gjere kontoane dine tryggare.

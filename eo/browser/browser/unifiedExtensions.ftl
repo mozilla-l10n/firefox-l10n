@@ -15,6 +15,8 @@ unified-extensions-discover-extensions =
     .label = Malkovri etendaĵojn
 unified-extensions-empty-reason-private-browsing-not-allowed = Vi havas instalitajn etendaĵojn sed ili ne estas aktivaj en privataj fenestroj
 unified-extensions-empty-reason-extension-not-enabled = Vi havas instalitajn etendaĵojn sed ili ne estas aktivaj
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Eĉ eta nombro da etendaĵoj povas ege helpi vin
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Plibonigu vian retumon per etendaĵoj
 unified-extensions-empty-content-explain-enable2 = Elektu “{ unified-extensions-manage-extensions.label }” por aktivigi ilin en la agordoj.

@@ -36,7 +36,7 @@ menu-menuitem-preferences =
         [windows] Innstillingar
        *[other] Val
     }
-about-logins-menu-menuitem-help = HJelp
+about-logins-menu-menuitem-help = Hjelp
 
 ## Login List
 

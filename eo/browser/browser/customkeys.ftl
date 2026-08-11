@@ -92,6 +92,10 @@ customkeys-conflict-confirm-title = Ĉu forigi alian ŝparvojon?
 customkeys-conflict-confirm-body = Tiu ĉi klavo estas jam uzata de “{ $conflict }”.
 customkeys-conflict-confirm-button-confirm = Tamen uzi.
 customkeys-conflict-confirm-button-cancel = Nuligi
+customkeys-conflict-unusable-title = Klavo ne uzebla
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = Tiu ĉi klavo estas ankaŭ uzata de “{ $conflict }” kaj ne povas esti reuzata.
 customkeys-reset-all-confirm-title = Ĉu restarigi normojn?
 customkeys-reset-all-confirm-body = Ĉiuj ŝparvojoj personecigitaj de vi estos forigitaj.
 customkeys-reset-all-confirm-button-confirm = Restarigi normojn

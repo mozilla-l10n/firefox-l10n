@@ -191,6 +191,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Kompleta
 migration-safari-password-import-header = Importi pasvortojn el Safari
+migration-safari-password-import-post-sequoia-step1 = Malfermu la <a data-l10n-name="macos-passwords-app">pasvortan programon</a> en via Mac
 migration-safari-password-import-steps-header = Por importi pasvortojn el Safari:
 migration-safari-password-import-step1 = En Safari, malfermu la menuon “Safari“ kaj iru al Preferoj > Pasvortoj
 migration-safari-password-import-step2 = Elektu la butonon <img data-l10n-name="safari-icon-3dots"/> kaj “Eksporti ĉiujn pasvortojn”
