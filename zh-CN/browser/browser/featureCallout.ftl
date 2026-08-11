@@ -133,6 +133,21 @@ taskbar-tabs-media-callout-subtitle = 如打开应用般，在简化窗口中打
 taskbar-tabs-value-prop-callout-title = 将此网站添加到任务栏
 taskbar-tabs-value-prop-callout-subtitle = 只需一点，即可在有着简化界面的独立窗口中打开此网站。
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+taskbar-tabs-email-callout-title-v3 = 从任务栏直达邮箱
+taskbar-tabs-email-callout-subtitle-v3 = 如打开应用般，在简化窗口中打开邮件网站，同时仍享 { -brand-short-name } 保护。
+taskbar-tabs-media-callout-title-v3 = 从任务栏直达流媒体
+taskbar-tabs-media-callout-subtitle-v3 = 如打开应用般，在简化窗口中打开媒体网站，同时仍享 { -brand-short-name } 保护。
+taskbar-tabs-value-prop-callout-title-v3 = 从任务栏直达常用网站
+taskbar-tabs-value-prop-callout-subtitle-v3 = 如打开应用般，在简化窗口中打开任何网站，同时仍享 { -brand-short-name } 保护。
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = 固定到任务栏
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = 换用 Windows 11 前，别忘了带走珍贵的数据。

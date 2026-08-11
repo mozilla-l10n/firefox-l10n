@@ -151,6 +151,7 @@ sandbox-sys-call-proc-type = نوع السيرورة
 sandbox-sys-call-number = نداء النظام
 sandbox-sys-call-args = المعطيات
 troubleshoot-mode-title = تشخيص المشاكل
+restart-in-troubleshoot-mode-label = وضع مواجهة الأعطال…
 clear-startup-cache-title = جرّب مسح خبيئة البدء
 clear-startup-cache-label = امسح خبيئة البدء…
 startup-cache-dialog-title2 = أعِد تشغيل { -brand-short-name } لمسح ذاكرة التخزين المؤقت عند بدء التشغيل؟
@@ -347,6 +348,9 @@ sandbox-proc-type-content = محتوى
 sandbox-proc-type-file = محتوى الملف
 sandbox-proc-type-media-plugin = ملحقة وسائط
 startup-cache-ignore-disk-cache = تجاهل ذاكرة التخزين المؤقت للقرص
+launcher-process-status-0 = مفعّل
+launcher-process-status-1 = معطّل بسبب فشل
+launcher-process-status-2 = عُطِّل إجبارًا
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

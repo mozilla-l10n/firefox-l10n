@@ -72,6 +72,8 @@ sidebar-settings =
     .label = 侧栏设置
 sidebar-hide-tabs-and-sidebar =
     .label = 隐藏标签页和侧栏
+sidebar-open-tools-from-sidebar =
+    .label = 从侧栏打开工具
 sidebar-show-on-the-right =
     .label = 移动侧栏到右侧
 sidebar-show-on-the-left =
@@ -139,6 +141,26 @@ sidebar-bookmarks-context-menu-delete-bookmark =
     .label = 删除书签
 sidebar-bookmarks-context-menu-delete-separator =
     .label = 删除
+
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = 关闭标签页
+
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = 排序方式
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = 标签页顺序
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = 上次使用时间
 
 ## Labels for sidebar menu items.
 

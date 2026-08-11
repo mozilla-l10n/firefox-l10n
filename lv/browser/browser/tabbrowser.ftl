@@ -152,7 +152,7 @@ tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Aizvērt cilnes
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
-    .label = Ļaujiet šādiem paziņojumiem no { $domain } novirzīt jūs uz viņu cilni
+    .label = Ļaut tādiem paziņojumiem no { $domain } kā šis vest uz to cilni
 tabbrowser-customizemode-tab-title = Pielāgot { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
