@@ -171,3 +171,15 @@ smart-window-opened-tabs-summary-single =
         [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱡᱷᱤᱡᱽ ᱮᱱᱟ ᱾
        *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱡᱷᱤᱡᱽ ᱮᱱᱟ ᱾
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] “{ $label }” ᱜᱟᱫᱮᱞ ᱛᱮᱭᱟᱨ ᱮᱱᱟ ᱟᱨ { $count } ᱴᱮᱵᱽ ᱡᱷᱤᱡᱽ ᱮᱱᱟ ᱾
+        [two] “{ $label }” ᱜᱟᱫᱮᱞ ᱛᱮᱭᱟᱨ ᱮᱱᱟ ᱟᱨ { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱡᱷᱤᱡᱽ ᱮᱱᱟ ᱾
+       *[other] “{ $label }” ᱜᱟᱫᱮᱞ ᱛᱮᱭᱟᱨ ᱮᱱᱟ ᱟᱨ { $count } ᱴᱮᱵᱽ ᱠᱚ ᱡᱷᱤᱡᱽ ᱮᱱᱟ ᱾
+    }
+smart-window-opened-tabs-row-label = ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = ᱵᱚᱫᱚᱞ ᱟᱠᱟᱱ ᱴᱮᱵᱽ

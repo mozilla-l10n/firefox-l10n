@@ -133,6 +133,21 @@ taskbar-tabs-media-callout-subtitle = Abra sus sitios de streaming como una apli
 taskbar-tabs-value-prop-callout-title = Agregar este sitio a la barra de tareas
 taskbar-tabs-value-prop-callout-subtitle = Iniciarlo en su propia ventana y una interfaz simplificada con un solo clic.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+taskbar-tabs-email-callout-title-v3 = Mantener la bandeja de entrada en la barra de tareas
+taskbar-tabs-email-callout-subtitle-v3 = Abra sus sitios de correo electrónico como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-media-callout-subtitle-v3 = Abra sus sitios de medios como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Pegue sus sitios favoritos a la barra de tareas
+taskbar-tabs-value-prop-callout-subtitle-v3 = Abra cualquier sitios como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-gaming-callout-subtitle-v3 = Abra sus sitios de juego como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Pegar a la barra de tareas
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = No pierda todo lo que guardó cuando se mude a Windows 11.
