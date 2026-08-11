@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = Kan ikke opdatere — system ikke kompatibelt
 appmenuitem-banner-update-restart =
     .label = Opdatering tilgængelig — genstart nu
+appmenu-nova-update-title = Genstart for at opdatere { -brand-short-name }
 appmenu-nova-fxa-sign-in = Log ind
 appmenu-nova-switch-device-promo =
     .message = Skal du snart have en ny enhed? Tag { -brand-short-name } med dig!
@@ -46,6 +47,10 @@ appmenuitem-translate =
     .label = Oversæt side…
 appmenuitem-zoom =
     .value = Zoom
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Del { -brand-product-name }
 appmenuitem-more-tools =
     .label = Flere værktøjer
 appmenuitem-help =
@@ -106,6 +111,38 @@ appmenu-remote-tabs-unverified = Din konto skal bekræftes.
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser nu
 appmenuitem-fxa-sign-in = Log ind på { -brand-product-name }
 appmenuitem-fxa-manage-account = Håndter konto
+fxa-menu-sync-status-on = Synkronisering er slået til
+fxa-menu-sync-status-off = Synkronisering er slået fra
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Dine data synkroniseres ikke
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Slå til
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Log ind for at synkronisere
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Synkroniser { $deviceName } nu
+fxa-menu-manage-sync-settings =
+    .label = Håndter indstillinger for synkronisering
+fxa-menu-add-device =
+    .label = Tilføj en enhed
+fxa-menu-manage-devices =
+    .label = Håndter dine enheder
+fxa-menu-device-missing =
+    .label = Kan du ikke se din enhed?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Alle enheder
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Alle enheder
+fxa-menu-secure-sync-subpanel =
+    .title = Sikker synkronisering
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
@@ -115,6 +152,11 @@ appmenu-fxa-last-sync = Senest synkroniseret { $time }
     .label = Senest synkroniseret { $time }
 appmenu-fxa-sync-and-save-data2 = Synkroniser og gem data
 appmenu-fxa-signed-in-label = Log ind
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Log ind for at synkronisere
+appmenu-fxa-sign-in-promo-button =
+    .label = Log ind
 appmenu-fxa-setup-sync =
     .label = Slå synkronisering til…
 appmenu-fxa-setup-sync-new = Slå til
@@ -239,6 +281,16 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Søg i historik
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Log ind
+appmenu-sync-promo-turnonsync =
+    .heading = Synkroniser dine faneblade og din historik
+appmenu-sync-promo-turnonsync-cta = Slå synkronisering til
 
 ## Help panel
 

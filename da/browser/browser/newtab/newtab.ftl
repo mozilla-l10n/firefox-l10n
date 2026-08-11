@@ -93,9 +93,15 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Ur
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Krydsord
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Aktier
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Dagens billede
 home-prefs-mission-message2 =
     .message = Vores sponsorer støtter vores mission om at bygge et bedre internet.
 home-prefs-manage-topics-link2 =
@@ -162,6 +168,7 @@ newtab-privacy-menu-learn-more = Læs mere
 ## yet; the labels are authored so the pairing is ready).
 
 newtab-privacy-message-info-6-cta = Læs mere
+newtab-privacy-message-info-7 = Se hvilke sporings-mekanismer { -brand-short-name } har blokeret.
 newtab-privacy-message-info-8-cta = Læs mere
 newtab-privacy-message-info-11-cta = Læs mere
 

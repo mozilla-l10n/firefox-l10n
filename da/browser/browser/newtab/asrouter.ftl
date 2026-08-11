@@ -471,3 +471,18 @@ relay-50-masks-announcement-primary-button = Gå til { -relay-brand-name }
     .accesskey = G
 relay-50-masks-announcement-secondary-button = Afvis
     .accesskey = A
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>{ -brand-product-name } får et nyt udseende.</strong> Du ser en tidlig og ufærdig version, før den officielle lancering senere på året.
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-pin-to-taskbar = Fastgør til din proceslinje
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Gem og luk { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Gem og fortsæt

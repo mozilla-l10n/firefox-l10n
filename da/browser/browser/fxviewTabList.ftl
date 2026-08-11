@@ -78,6 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Slå lyden fra i faneblad
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Slå lyden til i faneblad
+fxviewtabrow-send-to-mobile-connect-device = Tilslut en enhed for at sende faneblade
 fxviewtabrow-send-to-mobile-device-missing2 = Kan du ikke se din enhed?
 fxviewtabrow-send-to-mobile-not-verified = Kontoen er ikke bekræftet
 fxviewtabrow-send-to-mobile-verify-account = Bekræft din konto
