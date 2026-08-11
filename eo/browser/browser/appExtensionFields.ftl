@@ -44,6 +44,14 @@ extension-nova-lavender-name = Lavendo
 extension-nova-dusk-name = Sunsubiro
 # Name for a medium blue theme. Refers to a sheltered body of water.
 extension-nova-lagoon-name = Laguno
+# Name for a green theme. Refers to pine trees.
+extension-nova-pine-name = Pino
+# Name for a soft teal theme. Refers to ocean tides.
+extension-nova-tide-name = Tajdo
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+extension-nova-ash-name = Cindro
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+extension-nova-smoke-name = Fumo
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the

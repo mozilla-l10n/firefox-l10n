@@ -20,3 +20,6 @@ colorpicker-tooltip-hue-slider-title = Tono
 colorpicker-tooltip-alpha-slider-title = Diafaneco
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseŭdoklasoj specifaj por elemento
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = Baskuli ŝajnigon de hela koloraro por la paĝo
