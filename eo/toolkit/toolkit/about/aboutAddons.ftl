@@ -612,3 +612,67 @@ mlmodel-addon-detail-model-card-link-label = Montri en Hugging Face
 find-more-addons-promo =
     .heading = Personecigu { -brand-product-name } laŭ via ŝato
     .message = Aldonu ilojn kaj stilojn taŭgajn por viaj bezonoj kaj gusto
+find-more-addons-promo-open-amo-button = Esplori etendaĵojn kaj etosojn
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Malkovru vian venontan plej ŝatatan etendaĵon
+    .message = Personecigu { -brand-product-name } per iloj por fokuso, privateco, aĉetumo kaj pli.
+find-more-extensions-promo-open-amo-button = Esplori etendaĵojn
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Malkovru novajn freŝajn aspektojn
+    .message = Elektu stilon kiu igas { -brand-product-name } propra.
+find-more-themes-promo-open-amo-button = Esplori etosojn
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Eĉ eta nombro da etendaĵoj povas ege helpi vin
+    .message = Ni havas rekomendojn por helpi vin plibonigi vian fokuson, privatecon, kaj pli.
+list-empty-get-extensions-promo-button = Malkovru vian unuan etendaĵon
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = Hela
+themes-mode-dark =
+    .label = Malhela
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Aparato
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Etosoj de { -brand-product-name }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Montri pli
+aboutaddons-themes-picker-see-less = Montri malpli
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = Aktivigi
+aboutaddons-themes-picker-disable-button =
+    .label = Malaktivigi
+aboutaddons-themes-picker-install-button =
+    .label = Instali
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Ne eblis ĝisdatigi vian etoson. Kontrolu vian retaliron kaj provu denove.
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = Uzi la sisteman etoson de Linux
