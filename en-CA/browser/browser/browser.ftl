@@ -426,7 +426,7 @@ quickactions-addons = View add-ons
 quickactions-cmd-addons3 = extensions, themes, addons, add-ons
 # Opens preferences page at AI controls
 quickactions-manageai = Manage AI controls
-quickactions-cmd-manageai = disable ai, off ai, manage ai, llm
+quickactions-cmd-manageai = disable ai, off ai, manage ai
 quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Manage bookmarks

@@ -194,9 +194,9 @@ action-log-searching-tabs = Searching tabs
 action-log-searched-open-tabs = Searched open tabs
 action-log-searching-history = Searching history
 action-log-searched-history = Searched history
-action-log-reading-page = Adding page contents to input
+action-log-reading-page = Reading page
 # Read is past tense, to indicate that the action has been completed.
-action-log-read-page = Added page contents to input
+action-log-read-page = Read page content
 action-log-searching-web = Searching the web
 action-log-searched-web = Searched the web
 # Exa is the name of a third-party web search API and a brand name that
@@ -207,8 +207,8 @@ action-log-searching-web-with-exa = Searching the web with <a data-l10n-name="ex
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searched-web-with-exa = Searched the web with <a data-l10n-name="exa-link">Exa</a>
-action-log-checking-memories = Adding memories as inputs
-action-log-checked-memories = Added memories as inputs
+action-log-checking-memories = Checking memories
+action-log-checked-memories = Checked memories
 action-log-searching-settings = Searching settings
 action-log-searched-settings = Searched settings
 action-log-searching-world-cup-matches = Searching World Cup matches
@@ -228,7 +228,7 @@ action-log-completed-steps =
 # Shown while the assistant analyzes search results that it loaded into the
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
-smartwindow-search-loader-text = Loaded search results in this tab. Adding as input...
+smartwindow-search-loader-text = Loaded search results in this tab. Analyzing…
 
 ## Citations
 

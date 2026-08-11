@@ -40,13 +40,13 @@ smart-window-model-learn-link = Learn about models
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
-    .label = Fast: Outputs quickly
+    .label = Fast: Answers quickly
     .description = Model { $model } by { $ownerName }
 smart-window-model-flexible =
     .label = Flexible: Solid fit for most needs
     .description = Model { $model } by { $ownerName }
 smart-window-model-personal =
-    .label = Personal: Weights your personal inputs more heavily
+    .label = Personal: Most tailored answers
     .description = Model { $model } by { $ownerName }
 smart-window-model-custom =
     .label = Custom: Use your own LLM
@@ -103,10 +103,10 @@ ai-window-memory-delete-button =
 
 smart-window-model-fast-v2 =
     .label = { $shortName }: Fast
-    .description = Best for quick outputs when speed matters. Full name: { $model } by { $ownerName }
+    .description = Best for quick answers when speed matters. Full name: { $model } by { $ownerName }
 smart-window-model-flexible-v2 =
     .label = { $shortName }: Flexible
-    .description = Can output a variety of texts. Full name: { $model } by { $ownerName }
+    .description = Ready for a variety of tasks. Full name: { $model } by { $ownerName }
 smart-window-model-personal-v2 =
     .label = { $shortName }: Personal
-    .description = Built for personalized outputs across languages. Full name: { $model } by { $ownerName }
+    .description = Built for personalized help across languages. Full name: { $model } by { $ownerName }

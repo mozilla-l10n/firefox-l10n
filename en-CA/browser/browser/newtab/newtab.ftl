@@ -1462,7 +1462,7 @@ newtab-sports-widget-match-aria-label-upcoming-cancelled =
 newtab-sports-widget-team-name-label-bih =
     .label = Bosnia and Herzegovina
 newtab-sports-widget-team-name-label-civ =
-    .label = Ivory Coast (Côte d'Ivoire)
+    .label = Ivory Coast
 newtab-sports-widget-team-name-label-cod =
     .label = DR Congo
 newtab-sports-widget-team-name-label-eng =
@@ -1476,7 +1476,7 @@ newtab-sports-widget-team-tbd = To be determined
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Kick off the World Cup with new wallpapers
-newtab-sports-widget-message-wallpapers-body = Bring some game-day energy to your browser for the tournament.
+newtab-sports-widget-message-wallpapers-body = Bring some match-day energy to your browser for the tournament.
 newtab-sports-widget-message-wallpapers-cta = Choose wallpaper
 newtab-sports-widget-message-wallpapers-semifinals-title = Get a new wallpaper for the semi-finals
 newtab-sports-widget-message-wallpapers-semifinals-body = Set the stage for the World Cup’s biggest matches.

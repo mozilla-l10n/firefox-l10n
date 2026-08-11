@@ -71,7 +71,7 @@ aiwindow-input-cta-stop-button =
 smartbar-placeholder =
     .placeholder = Ask, search, or type a URL
 smartbar-placeholder-hint-1 = Use @ to mention recent tabs…
-smartbar-placeholder-hint-2 = Supply input...
+smartbar-placeholder-hint-2 = Ask anything…
 smartbar-placeholder-hint-3 = Enter a web address…
 smartbar-placeholder-hint-4 = Search the web…
 
@@ -99,13 +99,13 @@ aiwindow-website-chip-remove-button =
 aiwindow-firstrun-title = Welcome to { -smart-window-brand-name }
 aiwindow-firstrun-model-title = What’s important to you?
 aiwindow-firstrun-model-title-v2 = Pick a model to start
-aiwindow-firstrun-model-subtitle = Pick a model to send your { -smart-window-brand-name } inputs to. Switch anytime.
-aiwindow-firstrun-model-subtitle-v2 = Each model can generate outputs using page contents. Switch anytime.
+aiwindow-firstrun-model-subtitle = Pick a model to power { -smart-window-brand-name }. Switch anytime.
+aiwindow-firstrun-model-subtitle-v2 = Each model can help you to summarize, compare, and explore across your tabs. Switch anytime.
 aiwindow-firstrun-model-fast-label = Fast
-aiwindow-firstrun-model-fast-body = Generates outputs quickly
+aiwindow-firstrun-model-fast-body = Answers quickly
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Fast: { $shortName }
-aiwindow-firstrun-model-fast-body-v2 = Best for quick outputs when you’re moving fast
+aiwindow-firstrun-model-fast-body-v2 = Best for quick answers when you’re moving fast
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -114,14 +114,14 @@ aiwindow-firstrun-model-allpurpose-label = Flexible
 aiwindow-firstrun-model-allpurpose-body = Solid fit for most needs
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Flexible: { $shortName }
-aiwindow-firstrun-model-flexible-body = Supplies a variety of outputs
+aiwindow-firstrun-model-flexible-body = Ready for a variety of tasks
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Recommended
 aiwindow-firstrun-model-personal-label = Personal
-aiwindow-firstrun-model-personal-body = Most tailored outputs
+aiwindow-firstrun-model-personal-body = Most tailored answers
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
-aiwindow-firstrun-model-personal-body-v2 = Built for outputs using inputs across languages
+aiwindow-firstrun-model-personal-body-v2 = Built for personalized help across languages
 aiwindow-firstrun-button = Let’s go
 aiwindow-firstrun-back-button = Back
 aiwindow-firstrun-next-button = Next
@@ -145,15 +145,15 @@ aiwindow-input-model-select-settings-link = Model settings
 
 ## Firstrun memories onboarding
 
-aiwindow-firstrun-memories-title = Additional inputs from your activity
-aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } can use your chats, browsing, or both to create memories. They are used as inputs in future chats.
-aiwindow-firstrun-memories-conversation-title = Keep supplying inputs
-aiwindow-firstrun-memories-conversation-body = Using your chats as inputs means you’ll have to repeat yourself less.
-aiwindow-firstrun-memories-relevance-title = More relevant outputs
-aiwindow-firstrun-memories-relevance-body = Using your browsing as inputs gives { -smart-window-brand-name } more inputs.
+aiwindow-firstrun-memories-title = More helpful answers, on your terms
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } can learn from your chats, browsing, or both to create memories. They make answers more helpful over time.
+aiwindow-firstrun-memories-conversation-title = Keep the conversation going
+aiwindow-firstrun-memories-conversation-body = Learning from chats means you’ll have to repeat yourself less.
+aiwindow-firstrun-memories-relevance-title = More relevant answers
+aiwindow-firstrun-memories-relevance-body = Learning from browsing gives { -smart-window-brand-name } the bigger picture.
 aiwindow-firstrun-memories-privacy-title = Private by design
 aiwindow-firstrun-memories-privacy-body = Memories are stored on this device. Delete or turn off anytime.
-aiwindow-firstrun-memories-choose-label = Choose what { -smart-window-brand-name } uses as inputs
+aiwindow-firstrun-memories-choose-label = Choose what { -smart-window-brand-name } learns from
 aiwindow-firstrun-memories-checkbox-chats = Chats in { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = Browsing across { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Update in settings anytime.
@@ -174,10 +174,10 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .tooltiptext = Use memories in outputs
+    .tooltiptext = Use memories in responses when helpful
     .aria-label = Memories on
 aiwindow-memories-off =
-    .tooltiptext = Don’t use memories in outputs
+    .tooltiptext = Don’t use memories in responses
     .aria-label = Memories off
 
 ## New Chat Button
@@ -243,7 +243,7 @@ smartwindow-footer-history =
 ## Disclaimer
 ## Text displayed to user to warn user about potential mistakes.
 
-smartwindow-disclaimer = AI can output lies.
+smartwindow-disclaimer = AI can make mistakes.
 
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
