@@ -142,6 +142,26 @@ sidebar-bookmarks-context-menu-delete-bookmark =
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Forigi
 
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Fermi langeton
+
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Ordigi laŭ
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Taba ordo
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Ĵuse aktivaj
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

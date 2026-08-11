@@ -1672,6 +1672,18 @@ newtab-clock-widget-custom-city-input =
     .label = Nomo de urbo
     .aria-label = Nomo de urbo
     .placeholder = Nomu tiun ĉi horloĝon
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Horzono
+    .aria-label = Horzono
+    .placeholder = Serĉi laŭ urbo, horzono aŭ diferenco hora
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Rezultoj de horzonoj
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Neniu kongrua horzono
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Malantaŭen
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

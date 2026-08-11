@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Agordoj…
 menu-application-set-as-default =
     .label = Difini { -brand-shorter-name } kiel la norman retumilon
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Rekomendi { -brand-shorter-name }
 menu-application-services =
     .label = Servoj
 menu-application-hide-this =
@@ -215,6 +219,8 @@ menu-history-show-all-history =
     .label = Montri tutan historion
 menu-history-clear-recent-history =
     .label = Viŝi ĵusan historion…
+menu-history-remote-tabs-promo =
+    .label = Langetoj el aliaj aparatoj
 menu-history-synced-tabs =
     .label = Spegulitaj langetoj
 menu-history-restore-last-session =
@@ -236,6 +242,8 @@ menu-bookmarks-menu =
     .accesskey = L
 menu-bookmarks-manage =
     .label = Administri legosignojn
+menu-bookmarks-remote-tabs-promo =
+    .label = Speguli legosignojn al poŝaparatoj
 menu-bookmark-tab =
     .label = Aldoni legosignon por la nuna langeto…
 menu-edit-bookmark =
@@ -371,3 +379,7 @@ menu-help-not-deceptive =
     .accesskey = t
 menu-report-broken-site =
     .label = Raporti ne bone funkciantan retejon
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Rekomendi { -brand-shorter-name }

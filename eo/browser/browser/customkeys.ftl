@@ -81,6 +81,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Premu novan klavon:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (neŝanĝebla)
 
 ## Confirmation dialogs
 
