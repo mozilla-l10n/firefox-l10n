@@ -31,6 +31,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Şimdi değil
     .accessKey = d
+address-capture-never-save-button =
+    .label = Asla kaydetme
+    .accessKey = A
 address-capture-cancel-button =
     .label = Vazgeç
     .accessKey = V
@@ -188,6 +191,10 @@ autofill-passport-country =
     .label = Ülke
 autofill-passport-number =
     .label = Numara
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Veriliş tarihi
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Bitiş tarihi
 # Month dropdown label for passport dates.
 autofill-passport-date-month =
     .label = AA
