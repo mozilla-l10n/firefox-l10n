@@ -712,7 +712,7 @@ urlbar-placeholder =
 # This placeholder is used when not in search mode and searching in the urlbar
 # is disabled via the keyword.enabled pref.
 urlbar-placeholder-keyword-disabled =
-    .placeholder = Ievadiet adresi
+    .placeholder = Ievadi adresi
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -748,7 +748,7 @@ urlbar-placeholder-search-mode-other-actions =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Meklēt ar { $name } vai ievadiet adresi
+    .placeholder = Meklē ar { $name } vai ievadi adresi
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -918,13 +918,13 @@ urlbar-result-realtime-opt-in-dismiss-all =
 urlbar-result-menu-dont-show-market =
     .label = Nerādīt tirgus ieteikumus
 # A message that replaces a result when the user dismisses Market suggestions.
-urlbar-result-dismissal-acknowledgment-market = Paldies par atsauksmi! Vairs neredzēsiet tirgus ieteikumus.
+urlbar-result-dismissal-acknowledgment-market = Paldies par atsauksmi! Vairs neredzēsi tirgus ieteikumus.
 # This a11y label is read by screen readers when an item in the row is selected.
 urlbar-result-aria-group-market =
     .aria-label = Akciju tirgus ieteikumi
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
-urlbar-result-dismissal-acknowledgment-all = Paldies par atsauksmi! Vairs neredzēsiet šos ieteikumus.
+urlbar-result-dismissal-acknowledgment-all = Paldies par atsauksmi! Vairs neredzēsi šos ieteikumus.
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
@@ -987,7 +987,7 @@ urlbar-result-search-with-local-search-mode = { $keywords } — meklēt { $local
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } — meklēt ar { $engine }
 urlbar-searchmode-dropmarker =
-    .tooltiptext = Izvēlieties meklēšanas dzini
+    .tooltiptext = Izvēlēties meklētāju
 urlbar-searchmode-bookmarks =
     .label = Grāmatzīmes
 urlbar-searchmode-tabs =
@@ -1440,7 +1440,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Drop indicator text for pinned tabs when no tabs are pinned.
 
-pinned-tabs-drop-indicator = Nometiet šeit cilni, lai to piespraustu
+pinned-tabs-drop-indicator = Nomet šeit cilni, lai to piespraustu
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1545,7 +1545,7 @@ refresh-blocked-allow =
 firefox-relay-offer-why-to-use-relay = Mūsu drošās, ērti lietojamās maskas aizsargā jūsu identitāti un novērš mēstules, slēpjot jūsu e-pasta adresi.
 # Variables:
 #  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-provides = Visas e-pasta vēstules, kas ir nosūtītas uz jūsu e-pasta maskām, tiks pārsūtītas uz <strong>{ $useremail }</strong> (ja vien neizlemsiet tās aizturēt).
+firefox-relay-offer-what-relay-provides = Visi uz Tavām e-pasta maskām nosūtītie e-pasta ziņojumi tiks pārvirzīti uz <strong>{ $useremail }</strong> (ja vien neizlemsi aizturēt tos).
 firefox-relay-offer-legal-notice = Noklikšķinot uz “Izmantot e-pasta masku”, jūs piekrītat <label data-l10n-name="tos-url">pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">privātuma paziņojumam </label>.
 firefox-relay-offer-legal-notice-1 = Reģistrējoties un izveidojot e-pasta masku, jūs piekrītat <label data-l10n-name="tos-url">Pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">Paziņojumam par privātumu</label>.
 
