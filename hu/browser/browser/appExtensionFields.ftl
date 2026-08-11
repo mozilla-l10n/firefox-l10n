@@ -34,6 +34,24 @@ extension-default-theme-name2 = Alapértelmezett
 extension-nova-sun-name = Nap
 # Name for a warm orange theme. Refers to a small burst of fire.
 extension-nova-spark-name = Szikra
+# Name for a red-orange theme. Refers to the color of fire.
+extension-nova-flame-name = Láng
+# Name for a bright pink theme. Refers to a burst of light or fire.
+extension-nova-flare-name = Fáklya
+# Name for a soft purple theme. Refers to the lavender flower.
+extension-nova-lavender-name = Levendula
+# Name for a medium purple theme. Refers to the sky just after sunset.
+extension-nova-dusk-name = Alkonyat
+# Name for a medium blue theme. Refers to a sheltered body of water.
+extension-nova-lagoon-name = Lagúna
+# Name for a green theme. Refers to pine trees.
+extension-nova-pine-name = Fenyő
+# Name for a soft teal theme. Refers to ocean tides.
+extension-nova-tide-name = Hullám
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+extension-nova-ash-name = Hamu
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+extension-nova-smoke-name = Füst
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the

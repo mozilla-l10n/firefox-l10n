@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Beállítások…
 menu-application-set-as-default =
     .label = A { -brand-shorter-name } beállítása alapértelmezett böngészőként
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = A { -brand-shorter-name } megosztása
 menu-application-services =
     .label = Szolgáltatások
 menu-application-hide-this =
@@ -375,3 +379,7 @@ menu-help-not-deceptive =
     .accesskey = n
 menu-report-broken-site =
     .label = Hibás webhely bejelentése
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = A { -brand-shorter-name } megosztása

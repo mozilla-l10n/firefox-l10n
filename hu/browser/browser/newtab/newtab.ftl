@@ -470,6 +470,23 @@ topsite-label-pinned =
     .aria-label = { $title } (rögzítve)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Értesítések innen: { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Épp most
+newtab-topsites-hover-card-mark-all-read =
+    .title = Összes megjelölése olvasottként
+    .aria-label = Összes megjelölése olvasottként
+newtab-topsites-hover-card-settings =
+    .title = Értesítési beállítások
+    .aria-label = Értesítési beállítások
+newtab-topsites-hover-card-dismiss =
+    .title = Elutasítás
+    .aria-label = Elutasítás
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

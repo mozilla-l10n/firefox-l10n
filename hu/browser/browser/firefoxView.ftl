@@ -56,6 +56,9 @@ firefoxview-tabpickup-network-offline-description = Ha tűzfalat vagy proxyt has
 firefoxview-tabpickup-network-offline-primarybutton = Újrapróbálkozás
 firefoxview-tabpickup-sync-error-header = Problémáink vannak a szinkronizálással
 firefoxview-tabpickup-generic-sync-error-description = A { -brand-short-name } jelenleg nem tudja elérni a szinkronizálási szolgáltatást. Próbálja újra néhány pillanat múlva.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = A szinkronizálás akadozik
+firefoxview-tabpickup-generic-sync-error-description-2 = A { -brand-short-name } nem tud kapcsolódni. Várjon egy kicsit, majd próbálja újra
 firefoxview-tabpickup-sync-error-primarybutton = Újrapróbálkozás
 firefoxview-tabpickup-sync-disconnected-header = A folytatáshoz kapcsolja be a szinkronizálást
 firefoxview-tabpickup-sync-disconnected-description = A lapok átvételéhez engedélyeznie kell a szinkronizálást a { -brand-short-name }ban.
@@ -65,10 +68,13 @@ firefoxview-tabpickup-password-locked-description = A lapok átvételéhez meg k
 firefoxview-tabpickup-password-locked-link = További tudnivalók
 firefoxview-tabpickup-password-locked-primarybutton = Írja be az elsődleges jelszót
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">További tudnivalók</a>
+firefoxview-tabpickup-password-locked-header-2 = Lapok feloldása az elsődleges jelszavával
+firefoxview-tabpickup-password-locked-description-2 = Adatvédelmi okokból a szinkronizált lapok védettek. Adja meg a { -brand-short-name } elsődleges jelszavát a többi eszközről származó lapok megjelenítéséhez.
 firefoxview-tabpickup-signed-out-header = Jelentkezzen be az újrakapcsolódáshoz
 firefoxview-tabpickup-signed-out-description = Az újbóli csatlakozáshoz és a lapok megszerzéséhez jelentkezzen be a { -fxaccount-brand-name } fiókjába.
 firefoxview-tabpickup-signed-out-description2 = Az újbóli csatlakozáshoz és a lapok megszerzéséhez jelentkezzen be a fiókjába.
 firefoxview-tabpickup-signed-out-primarybutton = Bejelentkezés
+firefoxview-tabpickup-signed-out-header-2 = Jelentkezzen be a lapok megjelenítéséhez
 firefoxview-tabpickup-syncing = Várjon amíg a lapjai szinkronizálódnak. Csak egy pillanat lesz.
 firefoxview-mobile-promo-header = Vegye át a lapjait a telefonjáról vagy táblagépéről
 firefoxview-mobile-promo-description = A legújabb mobillapok megtekintéséhez jelentkezzen be a { -brand-product-name }be iOS-en vagy Androidon.

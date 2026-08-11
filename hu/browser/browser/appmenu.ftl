@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = A { -brand-product-name } megosztása
 appmenuitem-more-tools =
     .label = További eszközök
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Súgó és jelentés
 appmenuitem-help =
     .label = Súgó
 appmenuitem-exit2 =
@@ -156,6 +159,12 @@ appmenu-fxa-last-sync = Utoljára szinkronizálva: { $time }
     .label = Utoljára szinkronizálva: { $time }
 appmenu-fxa-sync-and-save-data2 = Adatok szinkronizálása és mentése
 appmenu-fxa-signed-in-label = Bejelentkezés
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Jelentkezzen be a szinkronizáláshoz
+appmenu-fxa-sign-in-promo-message = Vigye magával az adatait mindenhová
+appmenu-fxa-sign-in-promo-button =
+    .label = Bejelentkezés
 appmenu-fxa-setup-sync =
     .label = Szinkronizálás bekapcsolása…
 appmenu-fxa-setup-sync-new = Bekapcsolás
@@ -284,6 +293,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Keresés előzményei
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Maradjon szinkronban az összes eszközén
+appmenu-sync-promo-signin-cta = Bejelentkezés
+appmenu-sync-promo-turnonsync =
+    .heading = Szinkronizálja a lapjait és az előzményeit
+appmenu-sync-promo-turnonsync-cta = Szinkronizálás bekapcsolása
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Vegye át a mobilos lapjait
+appmenu-sync-promo-connectdevice-cta = Csatlakoztasson egy eszközt
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Vigye magával a könyvjelzőit
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Vigye magával a könyvjelzőit
+
 ## Help panel
 
 appmenu-help-header =
@@ -291,6 +321,11 @@ appmenu-help-header =
 appmenu-about =
     .label = A { -brand-shorter-name } névjegye
     .accesskey = A
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = A { -brand-shorter-name } megosztása
+    .accesskey = m
 appmenu-get-help =
     .label = Segítség kérése
     .accesskey = S
@@ -304,6 +339,9 @@ appmenu-help-share-ideas =
     .accesskey = o
 appmenu-help-switch-device =
     .label = Váltás új eszközre
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Súgó és jelentés
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -344,11 +382,15 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Jelentkezzen be a fiókjába
 appmenuitem-monitor-title2 = Előzze meg a személyazonosság-lopást
 appmenuitem-monitor-description2 = Kapjon figyelmeztetéseket az adatvédelmi incidensekről
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = A { -monitor-brand-short-name } adatvédelmi incidensekről szóló figyelmeztetései
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Kapjon figyelmeztetést az adatvédelmi incidensekről
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Tartsa bizalmasan az e-mail-címét
 appmenuitem-relay-description2 = Segít megakadályozni a levélszemetet a postaládájában
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = E-mail-maszkok megtekintése
 appmenuitem-relay-description = Maszkolja a valódi e-mail-címét és telefonszámát
 appmenuitem-services-relay-description = E-mail-maszkok irányítópultjának elindítása
 appmenuitem-vpn-title2 = Rejtse el a helyét a { -mozilla-vpn-brand-name } segítségével

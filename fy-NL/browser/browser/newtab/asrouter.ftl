@@ -99,8 +99,8 @@ cfr-whatsnew-release-notes-link-text = Utjefteopmerkingen lêze
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-        [one] { -brand-short-name } hat sûnt { DATETIME($date, month: "long", year: "numeric") } b>{ $blockedCount }</b> tracker blokkearre!
-       *[other] { -brand-short-name } hat sûnt { DATETIME($date, month: "long", year: "numeric") } mear as <b>{ $blockedCount }</b> trackers blokkearre!
+        [one] { -brand-short-name } hat sûnt { DATETIME($date, year: "numeric", month: "long") } <b>{ $blockedCount }</b> tracker blokkearre!
+       *[other] { -brand-short-name } hat sûnt { DATETIME($date, year: "numeric", month: "long") } mear as <b>{ $blockedCount }</b> trackers blokkearre!
     }
 cfr-doorhanger-milestone-ok-button = Alles besjen
     .accesskey = A
