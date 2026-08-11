@@ -144,6 +144,14 @@ taskbar-tabs-value-prop-callout-subtitle = Запустите его в собс
 taskbar-tabs-chat-callout-title-v3 = Оставайтесь на связи с панели задач
 taskbar-tabs-email-callout-title-v3 = Держите ваши папки входящих писем на панели задач
 taskbar-tabs-email-callout-subtitle-v3 = Запускайте свои почтовые сайты, как приложения, в удобном окне, защищённом { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Держите ваши стримы на панели задач
+taskbar-tabs-media-callout-subtitle-v3 = Запускайте свои медиа-сайты как приложения в удобном окне, защищённом { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Закрепите свои любимые сайты на панели задач
+taskbar-tabs-value-prop-callout-subtitle-v3 = Запускайте любой сайт как приложение в удобном окне, защищённом { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Вернитесь к играм с панели задач
+taskbar-tabs-gaming-callout-subtitle-v3 = Запускайте свои игровые сайты как приложение в удобном окне, защищённом { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Закрепить на панели задач
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Antaŭ ol povi malfermi ĉi tie 
 firefoxview-tabpickup-step-signin-primarybutton = Daŭrigi
 firefoxview-syncedtabs-signin-header-2 = Via { -brand-product-name } en ĉiuj viaj aparatoj
 firefoxview-syncedtabs-signin-description-2 = Por vidi langetojn malfermitaj en via telefono kaj aliaj aparatoj, komencu seancon aŭ kreu konton. Per konto vi povas ankaŭ speguli viajn pasvortojn, historion, kaj pli.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Senpene iri el la komputilo al la telefono
+firefoxview-syncedtabs-signin-description-3 = Tenu vian retumon konektita inter aparatoj — langetojn, pasvortojn kaj historion, ĉiujn spegulitajn.
 firefoxview-syncedtabs-signin-primarybutton-2 = Komenci seancon
 firefoxview-tabpickup-adddevice-header = Speguli { -brand-product-name } en via telefono aŭ tabulkomputilo
 firefoxview-tabpickup-adddevice-description = Elŝutu { -brand-product-name } por poŝaparatoj kaj komencu seancon tie.
@@ -40,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Elŝutu { -brand-product-name } 
 firefoxview-syncedtabs-adddevice-header-2 = Reprenu viajn langetojn kie ajn vi estas
 firefoxview-syncedtabs-adddevice-description-2 = Komencu seancon de { -brand-product-name } en via telefono aŭ alia komputilo por vidi la ĉi tieajn langetojn. Jen pli da informo pri <a data-l10n-name="url">konekto de aldonaj aparatoj</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Provu { -brand-product-name } por poŝaparatoj
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Langetoj spegulitaj, ili estas en via telefono.
 firefoxview-tabpickup-synctabs-header = Ŝalti speguladon de langetoj
 firefoxview-tabpickup-synctabs-description = Permesi al { -brand-short-name } dividi langetojn inter aparatoj.
 firefoxview-tabpickup-synctabs-learn-how = Lernu kiel fari
