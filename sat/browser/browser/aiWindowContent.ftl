@@ -93,3 +93,23 @@ smart-window-closed-tabs-label =
         [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
        *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] ᱦᱩᱭᱮᱱᱟ! ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚ ᱮᱱᱟ ᱾
+        [two] ᱦᱩᱭᱮᱱᱟ! ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚ ᱮᱱᱟ ᱾
+       *[other] ᱦᱩᱭᱮᱱᱟ! ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚ ᱮᱱᱟ ᱾
+    }
+smart-window-closed-tabs-row-label = ᱵᱚᱸᱫᱚ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ
+smart-window-closed-and-restored-label = ᱵᱚᱸᱫᱚ ᱟᱨ ᱫᱚᱦᱚ ᱟᱠᱟᱱ ᱴᱮᱵᱽ
+smart-window-restored-row-label =
+    { $count ->
+        [one] ᱫᱚᱦᱲᱟ ᱛᱮ ᱫᱚᱦᱚ ᱟᱠᱟᱱ { $count } ᱴᱮᱵᱽ
+        [two] ᱫᱚᱦᱲᱟ ᱛᱮ ᱫᱚᱦᱚ ᱟᱠᱟᱱ { $count } ᱴᱮᱵᱽ ᱠᱤᱱ
+       *[other] ᱫᱚᱦᱲᱟ ᱛᱮ ᱫᱚᱦᱚ ᱟᱠᱟᱱ { $count } ᱴᱮᱵᱽ ᱠᱚ
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚ ᱮᱱᱟ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱫᱚᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱮᱱᱟ ᱾
+        [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚ ᱮᱱᱟ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱫᱚᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱮᱱᱟ ᱾
+       *[other] ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚ ᱮᱱᱟ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱫᱚᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱮᱱᱟ ᱾
+    }
