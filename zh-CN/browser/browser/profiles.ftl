@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = 图标
 edit-profile-page-delete-button =
     .label = 删除
+edit-profile-page-avatar-selector-opener-button =
+    .title = 编辑图标
 edit-profile-page-avatar-selector-opener-link = 编辑
 avatar-selector-icon-tab = 图标
 avatar-selector-custom-tab = 自定义
@@ -95,6 +97,9 @@ delete-profile-logins = 密码
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = 删除“{ $profilename }”配置文件
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = 确定要删除“{ $profilename }”配置文件吗？
 
 ##
 

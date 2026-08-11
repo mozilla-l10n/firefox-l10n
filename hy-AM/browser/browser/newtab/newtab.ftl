@@ -219,8 +219,40 @@ newtab-privacy-message-info-5-cta = Դիտել պաշտպանություննե�
 newtab-privacy-message-info-6 = Պահպանեք ձեր տվյալները { -brand-short-name }-ի հետ։ Մենք երբեք չենք վաճառում դրանք, բայց այլ զննարկիչներ կարող են դա անել։
 newtab-privacy-message-info-6-cta = Իմանալ ավելին
 newtab-privacy-message-info-7 = Տեսեք, թե որ { -brand-short-name } հետևորդներն են արգելափակված։
+newtab-privacy-message-info-7-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-info-8-cta = Իմանալ ավելին
+newtab-privacy-message-info-9 = Դարձրեք { -brand-short-name }-ը ձեր հիմնական դիտարկիչը՝ ներկառուցված գաղտնիության համար։
+newtab-privacy-message-info-9-cta = Դարձնել սկզբնադիր
+newtab-privacy-message-info-10 = Պահպանեք գաղտնաբառերը { -brand-short-name }-ում՝ ամենուրեք ուժեղ, եզակի մուտքեր օգտագործելու համար։
+newtab-privacy-message-info-10-cta = Անցնել գաղտնաբառերին
 newtab-privacy-message-info-11 = Իմացեք, թե ինչպես է { -brand-short-name }-ն օգնում ձեր դիտարկիչն ավելի գաղտնի պահել։
+newtab-privacy-message-info-11-cta = Իմանալ ավելին
+newtab-privacy-message-info-12 = Հետևորդների արգելափակումը կարող է օգնել խնայել թողունակությունը սահմանափակ տվյալների պլանների դեպքում։
+newtab-privacy-message-info-12-cta = Դիտել պաշտպանությունները
 newtab-privacy-message-info-13 = { -brand-short-name }-ն արգելափակում է հետագծողներին՝ ազատելով թողունակություն՝ ավելի սահուն հոսքի համար։
+newtab-privacy-message-info-13-cta = Դիտել պաշտպանությունները
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Պարզեք, թե արդյոք ձեր անձնական տվյալները հայտնվում են տվյալների արտահոսքի ժամանակ։
+newtab-privacy-message-promo-monitor-1-cta = Իմանալ ավելին
+newtab-privacy-message-promo-monitor-2 = Պաշտպանեք ձեր տեղեկությունները մինչև 20 էլեկտրոնային նամակի համար նախատեսված անվճար տվյալների արտահոսքի մոնիթորինգի միջոցով։
+newtab-privacy-message-promo-monitor-2-cta = Իմանալ ավելին
+newtab-privacy-message-promo-signin-1 = Պահպանեք էջանիշերը, գաղտնաբառերը և ներդիրները կոդավորված տարբեր սարքերում՝ օգտագործելով ձեր { -vendor-short-name } հաշիվը։
+newtab-privacy-message-promo-signin-1-cta = Մուտք գործել
+newtab-privacy-message-promo-vpn-1 = Գնումներ եք կատարում հանրային Wi-Fi-ով։ Միացրեք ներկառուցված VPN-ը՝ լրացուցիչ պաշտպանության համար։
+newtab-privacy-message-promo-vpn-1-cta = Բացել VPN-ը
+newtab-privacy-message-promo-vpn-2 = Օդանավակայանի Wi-Fi օգտագործո՞ւմ եք։ Պաշտպանեք ձեր զննարկչը՝ միացնելով ներկառուցված VPN-ը։
+newtab-privacy-message-promo-vpn-2-cta = Բացել VPN-ը
+newtab-privacy-message-promo-vpn-3 = Միացրեք ներկառուցված VPN-ը՝ ձեր գտնվելու վայրն ավելի գաղտնի պահելու համար։
+newtab-privacy-message-promo-vpn-3-cta = Բացել VPN-ը
+newtab-privacy-message-promo-private-window-1 = Փորձեք անձնական պատուհան՝ համօգտագործվող համակարգիչն օգտագործելիս ավելի անձնական զննարկիչ օգտագործելու համար։
+newtab-privacy-message-promo-private-window-1-cta = Բացել գաղտնի պատուհան
+newtab-privacy-message-promo-relay-1 = Պահպանեք ձեր իրական էլ. փոստի հասցեն այն մարդկանց համար, ում վստահում եք. օգտագործեք էլ. փոստի դիմակ գրանցումների համար։
+newtab-privacy-message-promo-relay-1-cta = Գնեք դիմակներ
 
 ## Search box component.
 
@@ -300,6 +332,15 @@ topsite-label-pinned =
     .aria-label = { $title } (ամրացված)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+newtab-topsites-hover-card-settings =
+    .title = Ծանուցման կարգավորումներ
+    .aria-label = Ծանուցման կարգավորումներ
+newtab-topsites-hover-card-dismiss =
+    .title = Բաց թողնել
+    .aria-label = Բաց թողնել
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -324,6 +365,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Խմբագրել
+newtab-menu-add-topsite = Ավելացնել դյուրանցում
 newtab-menu-open-new-window = Բացել նոր պատուհանում
 newtab-menu-open-new-private-window = Բացել նոր գաղտնի պատուհանում
 newtab-menu-dismiss = Բաց թողնել
@@ -553,6 +595,14 @@ newtab-custom-widget-timer-toggle =
     .label = ժամաչափ
 newtab-custom-widget-clock-toggle =
     .label = Ժամացույց
+newtab-custom-widget-sports-toggle2 =
+    .label = Սպորտ
+newtab-custom-widget-privacy-toggle =
+    .label = Գաղտնիություն
+newtab-custom-widget-stocks-toggle =
+    .label = Բաժնետոմսեր
+newtab-custom-widget-picture-toggle =
+    .label = Օրվա նկարը
 newtab-custom-widget-section-title = Վիջեթներ
 newtab-custom-widget-section-toggle =
     .label = Վիջեթներ
@@ -565,6 +615,29 @@ newtab-custom-close-menu-button =
     .aria-label = Փակել ցանկը
 newtab-custom-close-button = Փակել
 newtab-custom-settings = Կառավարել լրացուցիչ կարգավորումները
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Տեսք
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Ավելի շատ ոճեր
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name }-ի ոճեր
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Ձեր ոճերը
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Միացնել
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Անջատել
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Տեղադրել ոճը
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Բացահայտեք ավելի շատ ոճեր
 
 ## New Tab Wallpapers
 
