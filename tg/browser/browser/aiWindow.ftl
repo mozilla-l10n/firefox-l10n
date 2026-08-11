@@ -78,6 +78,7 @@ aiwindow-firstrun-model-recommended = Тавсияшуда
 aiwindow-firstrun-model-personal-label = Шахсӣ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Шахсӣ: { $shortName }
+aiwindow-firstrun-button = Ба пеш
 aiwindow-firstrun-back-button = Ба қафо
 aiwindow-firstrun-next-button = Навбатӣ
 
@@ -87,6 +88,7 @@ aiwindow-input-model-select-button-label-fast = Тез
 aiwindow-input-model-select-button-label-allpurpose = Фасеҳ
 aiwindow-input-model-select-button-label-personal = Шахсӣ
 aiwindow-input-model-select-button-label-custom = Фармоишӣ
+aiwindow-input-model-select-button-description-custom = Аз «LLM»-и худ истифода баред
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -119,6 +121,9 @@ aiwindow-close-sidebar =
 ## view links to the chat history subview and Smart Window settings; the chat
 ## history subview lists recent chats and a shortcut to all chats.
 
+aiwindow-history-menu =
+    .aria-label = Имконоти бештар
+    .tooltiptext = Имконоти бештар
 aiwindow-history-menu-back =
     .aria-label = Ба қафо
     .tooltiptext = Ба қафо

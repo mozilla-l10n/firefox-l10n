@@ -66,6 +66,9 @@ smart-window-cancelled-label = Дархост бекор карда шуд.
 smart-window-confirm-group-tab = Гурӯҳ
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Кушодан
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Гурӯҳи варақаҳо
 smart-window-opened-tabs-row-label = Варақаҳои кушодашуда
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Варақаҳои ивазшуда
