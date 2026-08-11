@@ -45,22 +45,35 @@ firefoxview-syncedtabs-adddevice-description-2 = Komencu seancon de { -brand-pro
 firefoxview-syncedtabs-adddevice-primarybutton = Provu { -brand-product-name } por poŝaparatoj
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Langetoj spegulitaj, ili estas en via telefono.
+firefoxview-syncedtabs-adddevice-description-3 = Saknu la kodon QR por elŝuti { -brand-product-name } por poŝaparatoj kaj komenci speguli viajn malfermitajn langetojn kaj pli. Malkovru kiel <a data-l10n-name="url">konekti aldonajn aparatojn</a>.
 firefoxview-tabpickup-synctabs-header = Ŝalti speguladon de langetoj
 firefoxview-tabpickup-synctabs-description = Permesi al { -brand-short-name } dividi langetojn inter aparatoj.
 firefoxview-tabpickup-synctabs-learn-how = Lernu kiel fari
 firefoxview-tabpickup-synctabs-primarybutton = Speguli malfermitajn langetojn
+firefoxview-tabpickup-synctabs-primarybutton-2 = Ŝalti speguladon de langetoj
 firefoxview-syncedtabs-synctabs-header = Ĝisdatigi viajn spegulajn agordojn
 firefoxview-syncedtabs-synctabs-description = Por vidi langetojn el aliaj aparatoj, vi bezonas speguli viajn malfermitajn langetojn.
+firefoxview-syncedtabs-synctabs-header-2 = La spegulado de langetoj estas malŝaltita
+firefoxview-syncedtabs-synctabs-description-2 = Reŝaltu speguladon por ricevi ĉiujn langetojn el viaj aliaj aparatoj.
 firefoxview-syncedtabs-loading-header = Nuntempe spegulanta
 firefoxview-syncedtabs-loading-description = Kiam tio finiĝos, vi vidos langetojn, kiuj etas malfermitaj en aliaj aparatoj. Rekontrolu baldaŭ.
+firefoxview-syncedtabs-loading-header-2 = Langetoj ricevataj…
+firefoxview-syncedtabs-loading-description-2 = Spegulado farata. Viaj langetoj estos baldaŭ ĉi tie.
 firefoxview-tabpickup-fxa-admin-disabled-header = Via organizo malaktivigis la speguladon
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne povas speguli langetojn inter aparatoj ĉar via administranto malaktivigis la speguladon.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne povas speguli langetojn inter aparatoj ĉar via organizo malaktivigis la speguladon.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = La spegulado de langetoj estas malŝaltita
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Via organizo blokis tiun ĉi trajton.
 firefoxview-tabpickup-network-offline-header = Kontrolu vian retaliron
 firefoxview-tabpickup-network-offline-description = Se vi uzas retbarilon aŭ retperanton, kontrolu ĉu { -brand-short-name } rajtas aliri la reton.
 firefoxview-tabpickup-network-offline-primarybutton = Klopodi denove
+firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } ne povas konektiĝi nun
+firefoxview-tabpickup-network-offline-description-2 = Vi povus esti malkonektita aŭ io povus bloki la konekton.
 firefoxview-tabpickup-sync-error-header = Problemo evitas normalan speguladon
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } ne povas nuntempe aliri la spegulan servon. Klopodu denove post iom da tempo.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Okazis problemo dum spegulado
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } ne povas konektiĝi. Atendu iomete kaj provu denove.
 firefoxview-tabpickup-sync-error-primarybutton = Klopodi denove
 firefoxview-tabpickup-sync-disconnected-header = Ŝalti speguladon por daŭrigi
 firefoxview-tabpickup-sync-disconnected-description = Por rehavi viajn langetojn, vi bezonos permesi speguladon en { -brand-short-name }.
@@ -70,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = Por rehavi viajn langetojn, 
 firefoxview-tabpickup-password-locked-link = Pli da informo
 firefoxview-tabpickup-password-locked-primarybutton = Tajpi ĉefan pasvorton
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Pli da informo</a>
+firefoxview-tabpickup-password-locked-header-2 = Malbloki langetojn per via ĉefa pasvorto
+firefoxview-tabpickup-password-locked-description-2 = Por respekti vian privatecon, spegulitaj langetoj estas protektitaj. Tajpu la ĉefan pasvorton de { -brand-short-name } por vidi langetojn el viaj aliaj aparatoj.
 firefoxview-tabpickup-signed-out-header = Komenci seancon por rekonekti
 firefoxview-tabpickup-signed-out-description = Por rekonektiĝi kaj repreni viajn langetojn, komencu seancon en via { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Por rekonektiĝi kaj repreni viajn langetojn, komencu seancon en via konto.
 firefoxview-tabpickup-signed-out-primarybutton = Komenci seancon
+firefoxview-tabpickup-signed-out-header-2 = Komencu seancon por vidi viajn langetojn
+firefoxview-tabpickup-signed-out-description-2 = Rekonektiĝu por vidi langetojn el aliaj aparatoj.
 firefoxview-tabpickup-syncing = Atendu la speguladon de langetoj. Estas rapida afero.
 firefoxview-mobile-promo-header = Malfermi langetojn el via telefono aŭ tabulkomputilo
 firefoxview-mobile-promo-description = Por vidi viajn lastajn poŝaparatajn langetojn, komencu seancon de { -brand-product-name } en iOS aŭ Android.
@@ -215,6 +232,10 @@ firefoxview-show-all-history = Montri la tutan historion
 firefoxview-history-empty-header = Reiru al retejo, kie vi jam estis
 firefoxview-history-empty-description = La paĝoj vizititaj dum via retumo estos listigitaj ĉi tie.
 firefoxview-history-empty-description-two = Protekto de via privateco estas kerna afero por ni. Tial vi povas regi kion { -brand-short-name } memoras en la <a data-l10n-name="history-settings-url">agordoj de historio</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Via retuma historio komenciĝas ĉi tie
+firefoxview-history-empty-description-2 = Dum vi retumas via historio aperos ĉi tie. Regu tion, kio estos memorita en la <a data-l10n-name="history-settings-url">agordoj</a>.
 
 ##
 
