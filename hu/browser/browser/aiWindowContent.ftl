@@ -169,6 +169,11 @@ smart-window-opened-tabs-summary-group =
        *[other] Létrehozta a(z) „{ $label }” csoportot, és megnyitott { $count } lapot.
     }
 smart-window-opened-tabs-row-label = Megnyitott lapok
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Átváltott lapok
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Átváltva erre: „{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Lapok csoportosítása megszüntetve
 # Variables
@@ -195,6 +200,14 @@ action-log-reading-page = Oldal olvasása
 action-log-read-page = Oldal tartalma elolvasva
 action-log-searching-web = Keresés a weben
 action-log-searched-web = Keresve a weben
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Keresés a weben az <a data-l10n-name="exa-link">Exa</a> segítségével
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Keresve a weben az <a data-l10n-name="exa-link">Exa</a> segítségével
 action-log-checking-memories = Memóriák ellenőrzése
 action-log-checked-memories = Memóriák ellenőrizve
 action-log-searching-settings = Beállítások keresése
@@ -217,3 +230,10 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = Keresési találatok betöltve ezen a lapon. Elemzés…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } további

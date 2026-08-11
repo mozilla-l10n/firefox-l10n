@@ -192,6 +192,35 @@ aiwindow-close-sidebar =
     .aria-label = Bezárás
     .tooltiptext = Bezárás
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = További beállítások
+    .tooltiptext = További beállítások
+aiwindow-history-menu-chat-history = Csevegési előzmények
+aiwindow-history-menu-back =
+    .aria-label = Vissza
+    .tooltiptext = Vissza
+aiwindow-history-menu-view-all-chats = Összes csevegés megtekintése
+aiwindow-history-menu-settings = { -smart-window-brand-name } beállításai
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Új csevegés
+aiwindow-fullpage-chat-history =
+    .label = Csevegési előzmények
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Több
+    .title = Több
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = A szinkronizált adatok a fiókjában maradnak. A megnyitott { -smart-window-brand-name(case: "lower") }ok klasszikus ablakká változnak.
