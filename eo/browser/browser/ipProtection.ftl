@@ -61,8 +61,27 @@ ipprotection-summer-promo-offramp-generic-title = La limoj de via integrita VPN 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-summer-promo-offramp-generic-description = Uzu viajn { $maxUsage } GB kaj 6 lokojn por aldona privateco, kiu malhelpas rilatigon inter via retumo kaj vi.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Uzu viajn { $maxUsage } GB kaj 20 lokojn por aldona privateco, kiu malhelpas rilatigon inter via retumo kaj vi.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Via integrita VPN ĵus pliboniĝis
+ipprotection-summer-promo-offramp-subscriber-description = Kiel abonanto de { -mozilla-vpn-brand-name } vi nun ricevas senliman datumtrafikon kaj pli da lokoj.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Gardu viajn aldonajn lokojn por integrita VPN
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Igu { -brand-product-name } via norma retumilo, kaj ricevu pli ol 20 aldonaj lokoj, el kiuj vi povos retumi ekde la 31an de aŭgusto.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Atingu novan nivelon per { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Gardu senliman datumtrafikon post la 31an de aŭgusto, kun pli ol 300 lokoj sur 5 aparatoj, por malhelpi rilatigon de via retumo kaj vi.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Malfermi VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Agordi kiel norma
 ipprotection-summer-promo-offramp-get-subscription-button = Elŝuti { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Ignori
 
@@ -165,6 +184,8 @@ ipprotection-connection-status-network-error-title-1 = Kontrolu vian retaliron
 ipprotection-connection-status-network-error-description = Konektiĝu al la reto kaj poste provu ŝalti la VPN.
 ipprotection-connection-status-blocked-error-title-1 = La VPN ne disponeblas
     .aria-label = La VPN ne disponeblas
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Lokaj leĝoj kaj restriktoj limigas la lokojn kie vi povas uzi VPN. <a data-l10n-name="learn-more-link">Pli da informo</a>
 ipprotection-connection-status-blocked-error-description = Lokaj reguloj malpermesas al ni provizi VPN servon en tiu ĉi regiono. <a data-l10n-name="learn-more-link">Pli da informo</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)

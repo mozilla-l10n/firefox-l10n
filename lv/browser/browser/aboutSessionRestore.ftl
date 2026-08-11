@@ -5,9 +5,9 @@
 restore-page-tab-title = Atjaunot sesiju
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
-restore-page-error-title = Atvainojiet. Mums neizdevās atgūt jūsu lapas.
-restore-page-problem-desc = Mums neizdodas atjaunot jūsu iepriekšējo pārlūkošanas sesiju. Izvēlieties Atjaunot sesiju, lai mēģinātu vēlreiz.
-restore-page-try-this = Joprojām neizdodas atjaunot sesiju? Reizēm kāda konkrēta cilne traucē sesijas atjaunošanai. Aplūkojiet cilnes un izņemiet ķeksīti no tām, ko jums nevajag atjaunot, tad mēģiniet vēlreiz.
+restore-page-error-title = Atvainojamies! Mums neizdevās atgūt Tavas lapas.
+restore-page-problem-desc = Mums neizdodas atjaunot iepriekšējo pārlūkošanas sesiju. Lai mēģinātu vēlreiz, jāizvēlas “Atjaunot sesiju”.
+restore-page-try-this = Joprojām neizdodas atjaunot sesiju? Reizēm kāda cilne rada sarežģījumus. Aplūko iepriekšējās cilnes un noņem atzīmi no tām, kuras nav nepieciešamas atjaunot, tad mēģini vēlreiz!
 restore-page-hide-tabs = Paslēpt iepriekšējās cilnes
 restore-page-show-tabs = Rādīt iepriekšējās cilnes
 # When tabs are distributed across multiple windows, this message is used as a

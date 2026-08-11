@@ -57,6 +57,24 @@ fxa-menu-send-tab-to-device-description = Sendi langeton tuj al iu ajn aparato, 
 fxa-menu-sign-out =
     .label = Fini seancon…
 fxa-menu-sync-description = Aliri viajn retejojn el ie ajn
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Administri konton
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Komenci seancon por speguli
+fxa-menu-sign-in-promo-message = Aliru viajn datumojn el ie ajn
+fxa-menu-sign-in-promo-button =
+    .label = Komenci seancon
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Komenci seancon
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Vi finis vian seancon
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Fini agordadon
 fxa-avatar-sign-in = Komenci seancon
 fxa-avatar-sign-up = Krei konton
 fxa-avatar-tooltip =

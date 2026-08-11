@@ -79,3 +79,12 @@ choose-app-btn =
 choose-other-app-window-title = Alia programo…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Malŝaltita en privataj fenestroj
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = Elektu vian retpoŝtan programon
+mailto-handler-picker-subtitle = Elektu la programon, kiun vi volas uzi por retpoŝtaj ligiloj. Vi povas poste ŝangi tion ĉi en Agordoj.
