@@ -227,3 +227,10 @@ tab-context-add-note =
 tab-note-editor-title-create = Pievienot piezīmi
 tab-note-panel-add-note-new-badge =
     .label = Jaunums
+
+## Split View
+
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Pievienot sadalīto skatu
+    .accesskey = P

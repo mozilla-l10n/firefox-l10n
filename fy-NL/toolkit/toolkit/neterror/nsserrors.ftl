@@ -14,7 +14,7 @@ psmerr-ssl2-disabled = Kin gjin befeilige ferbining opsette, omdat de side in â
 psmerr-hostreusedissuerandserial =
     Jo hawwe in ûnjildich sertifikaat ûntfangen. Nim kontakt op mei de serverbehearder of e-mailkorrespondint en jou harren de folgjende ynformaasje:
     
-    Jo sertifikaat hat itselde searjenûmer as in oar troch de sertifikaatautoriteit útjûn sertifikaat. Helje in nij sertifikaat mei in unyk searjenûmer op.
+    Jo sertifikaat hat itselde searjenûmer as in oare troch de sertifikaatautoriteit útjûne sertifikaat. Helje in nij sertifikaat mei in unyk searjenûmer op.
 ssl-error-export-only-server = Befeilige kommunikaasje net mooglik. Peer stipet gjin hege graad fan fersifering.
 ssl-error-us-only-server = Befeilige kommunikaasje net mooglik. Peer fereasket hege graad fan fersifering, hokker net stipe wurd.
 ssl-error-no-cypher-overlap = Kin net befeiligd kommunisearje mei peer: gjin algemien(e) fersiferingsalgoritme(n).
@@ -335,6 +335,7 @@ mozilla-pkix-error-issuer-no-longer-trusted = De sertifikaatautoriteit dy’t it
 xp-java-remove-principal-error = Koe de haadpersoan net fuortsmite
 xp-java-delete-privilege-error = Koe it privilege net fuortsmite
 xp-java-cert-not-exists-error = Dit haadpersoan hat gjin sertifikaat
+xp-sec-fortezza-bad-card = Fortezza-kaart is net goed inisjalisearre. Smyt de kaart fuort en retoernearje dizze nei jo útjouwer.
 xp-sec-fortezza-no-card = Gjin Fortezza-kaarten fûn
 xp-sec-fortezza-none-selected = Gjin Fortezza-kaart selektearre
 xp-sec-fortezza-more-info = Selektearje in persoan om mear ynformaasje oer te krijen

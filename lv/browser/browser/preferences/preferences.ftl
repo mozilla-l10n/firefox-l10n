@@ -188,6 +188,8 @@ pane-tabs-browsing-title2 = Cilnes un pārlūkošana
     .title = Cilnes un pārlūkošana
 tabs-group-header2 =
     .label = Cilnes
+tabs-opening-heading =
+    .label = Atver
 tabs-interaction-heading =
     .label = Mijiedarbība
 tabs-containers-heading =
@@ -267,6 +269,8 @@ containers-remove-cancel-button = Nenoņemt šo konteineru
 settings-tabs-show-image-in-preview =
     .label = Rādīt attēla priekšskatījumu, virzot kursoru uz cilnes
     .accessKey = d
+browser-layout-header2 =
+    .label = Pārlūka izkārtojums
 browser-layout-header = Pārlūkprogrammas izkārtojums
 browser-layout-horizontal-tabs =
     .label = Horizontālas cilnes
@@ -318,6 +322,13 @@ preferences-web-appearance-override-warning = Jūsu izvēlētās krāsas ir svar
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Pārvaldiet { -brand-short-name } motīvus sadaļā <a data-l10n-name="themes-link">Paplašinājumi un motīvi</a>
+preferences-contrast-control-header = Pretstata pārvaldība
+preferences-contrast-control-off =
+    .label = Izslēgts
+    .accesskey = z
+preferences-contrast-control-custom =
+    .label = Pielāgots
+    .accesskey = s
 preferences-colors-manage-button2 =
     .label = Pārvaldīt krāsas
     .accesskey = k
@@ -521,10 +532,10 @@ update-history =
     .accesskey = v
 update-application-allow-description = Ļaut { -brand-short-name }
 update-application-auto =
-    .label = Instalēt jauninājumus automātiski (ieteicams)
+    .label = Automātiski uzstādīt atjauninājumus (ieteicams)
     .accesskey = A
 update-application-check-choose =
-    .label = Pārbaudīt atjauninājumu pieejamību, bet ļaut man izvēlēties vai instalēt tos
+    .label = Pārbaudīt atjauninājumu pieejamību, bet ļaut izvēlēties, vai tos uzstādīt
     .accesskey = P
 update-application-manual =
     .label = Nekad nepārbaudīt atjauninājumus (nav ieteicams)
@@ -536,7 +547,7 @@ update-application-warning-cross-user-setting-2 =
     .message = Šis iestatījums attieksies uz visiem Windows kontiem un { -brand-short-name } profiliem, kuri izmanto šo { -brand-short-name } instalāciju.
 update-application-warning-cross-user-setting = Šis iestatījums attieksies uz visiem Windows kontiem un { -brand-short-name } profiliem, kuri izmanto šo { -brand-short-name } instalāciju.
 update-application-use-service =
-    .label = Instalēt atjauninājumus fonā
+    .label = Atjauninājumu uzstādīšanai izmantot fona pakalpojumu
     .accesskey = f
 update-application-suppress-prompts =
     .label = Rādīt mazāk atjauninājumu paziņojumu uzvedņu
@@ -1222,7 +1233,7 @@ sitedata-delete-on-close =
     .accesskey = D
 sitedata-delete-on-close-private-browsing3 =
     .message = Pamatojoties uz jūsu vēstures iestatījumiem, { -brand-short-name } dzēš sīkdatnes un vietņu datus no jūsu sesijas, kad aizverat pārlūkprogrammu.
-sitedata-delete-on-close-private-browsing = Pastāvīgās privātās pārlūkošanas režīmā sīkdatnes un vietņu dati vienmēr tiks notīrīti, kad tiek aizvērts { -brand-short-name }.
+sitedata-delete-on-close-private-browsing = Pastāvīgās privātās pārlūkošanas režīmā sīkdatnes un vietņu dati vienmēr tiks notīrīti, kad { -brand-short-name } tiek aizvērts.
 sitedata-delete-on-close-private-browsing2 = Pamatojoties uz jūsu vēstures iestatījumiem, { -brand-short-name } dzēš sīkdatnes un vietņu datus no jūsu sesijas, kad aizverat pārlūkprogrammu.
 sitedata-allow-cookies-option =
     .label = Pieņemt sīkdatnes un lapu datus
@@ -1279,6 +1290,9 @@ addressbar-header = Adrešu josla
 addressbar-suggest = Meklējot adreses joslā, ieteikt
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adrešu josla — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Uzzināt vairāk
 addressbar-locbar-history-option =
     .label = Pārlūkošanas vēsturi
     .accesskey = V
@@ -1319,7 +1333,7 @@ content-blocking-fpi-incompatibility-warning = Jūs izmantojat First Party Isola
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
-content-blocking-rfp-incompatibility-warning = Jūs izmantojat funkciju Resist Fingerprinting (RFP), kas aizstāj dažus { -brand-short-name } pirkstu nospiedumu aizsardzības iestatījumus. Tas var izraisīt dažu vietņu darbības traucējumus.
+content-blocking-rfp-incompatibility-warning = Tu izmanto Resist Fingerprinting (RFP), kas aizstāj dažus { -brand-short-name } pirkstu nospiedumu aizsardzības iestatījumus. Tas var izraisīt dažu vietņu darbības traucējumus.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

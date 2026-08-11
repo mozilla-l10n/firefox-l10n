@@ -94,7 +94,7 @@ load-module-help-empty-module-name =
     .value = De modulenamme mei net leech wêze.
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
-    .value = ‘Root Certs‘ is reservearre en kin net brûkt wurde as de modulenamme.
+    .value = ‘Root Certs’ is reservearre en kin net brûkt wurde as de modulenamme.
 add-module-failure = Net yn steat module ta te foegjen
 del-module-warning = Binne jo wis dat jo dizze feilichheidsmodule fuortsmite wolle?
 del-module-error = Net yn steat module fuort te smiten

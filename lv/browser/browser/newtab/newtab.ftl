@@ -27,6 +27,11 @@ newtab-logo-and-wordmark =
 home-homepage-new-tabs =
     .label = Jaunas cilnes
 
+## Custom URLs subpage
+
+home-custom-homepage-address-button =
+    .label = Pievienot adresi
+
 ## Firefox Home content
 
 # Variables:
@@ -596,6 +601,8 @@ newtab-section-block-topic-button = Liegt { $topic }
 
 ## Strings for task / to-do list productivity widget
 
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Iespējas ir neierobežotas. Pievieno kādu!
 newtab-widget-lists-button-add-item = Pievienot vienumu
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Pievienot vienumu
