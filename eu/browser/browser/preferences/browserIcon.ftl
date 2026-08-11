@@ -41,7 +41,7 @@ appearance-browser-icon-requirement =
 appearance-browser-icon-unlocked =
     .message = Ikono gehigarri guztiak desblokeatu dituzu!
 appearance-browser-icon-set-default-button =
-    .label = Erabili lehenetsia
+    .label = Ezarri lehenetsi gisa
 appearance-browser-icon-pin-button =
     .label = Ainguratu ataza-barran
 
