@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-clear-data-for-site-title = Очистити всі дані для цього вебсайту?
+clear-data-for-site-title = Стерти всі дані для цього вебсайту?
 # Variables:
 #   $site (string) - Website name
-clear-data-for-site-list = Ця дія очистить усі дані для { $site }, зокрема:
+clear-data-for-site-list = Ця дія зітре всі дані для { $site }, зокрема:
 clear-data-for-site-browsing-history = Історію переглядів та завантажень
 clear-data-for-site-cookies = Файли cookie та дані сайту, що може призвести до виходу з облікового запису
 clear-data-for-site-cache = Кешовані файли та сторінки

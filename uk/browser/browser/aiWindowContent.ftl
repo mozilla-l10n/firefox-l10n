@@ -123,6 +123,15 @@ smart-window-confirm-group-tabs =
         [few] Групувати { $count } вкладки
        *[many] Групувати { $count } вкладок
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Відкрити
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Відкрити { $count } вкладку
+        [few] Відкрити { $count } вкладки
+       *[many] Відкрити { $count } вкладок
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -132,6 +141,9 @@ smart-window-grouped-tabs-label =
         [few] Згруповано { $count } вкладки
        *[many] Згруповано { $count } вкладок
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Група вкладок
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -142,6 +154,38 @@ smart-window-grouped-tabs-summary =
        *[many] Створено групу “{ $label }” і додано { $count } вкладок.
     }
 smart-window-grouped-tabs-row-label = Згруповані вкладки
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Відкрито { $count } вкладку
+        [few] Відкрито { $count } вкладки
+       *[many] Відкрито { $count } вкладок
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Відкрито { $count } вкладку.
+        [few] Відкрито { $count } вкладки.
+       *[many] Відкрито { $count } вкладок.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Створено групу “{ $label }” і відкрито { $count } вкладку.
+        [few] Створено групу “{ $label }” і відкрито { $count } вкладки.
+       *[many] Створено групу “{ $label }” і відкрито { $count } вкладок.
+    }
+smart-window-opened-tabs-row-label = Відкриті вкладки
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Змінено вкладку
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Змінено вкладку на “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Вкладки розгруповано
 # Variables
@@ -170,6 +214,14 @@ action-log-reading-page = Читання сторінки
 action-log-read-page = Виконано читання вмісту сторінки
 action-log-searching-web = Пошук в інтернеті
 action-log-searched-web = Виконано пошук в інтернеті
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Пошук в інтернеті за допомогою <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Виконано пошук в інтернеті за допомогою <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Перевірка пам'яті
 action-log-checked-memories = Перевірено пам'ять
 action-log-searching-settings = Пошук налаштувань
@@ -193,3 +245,10 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = Завантажено результати пошуку в цій вкладці. Аналіз…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = + ще { $count }
