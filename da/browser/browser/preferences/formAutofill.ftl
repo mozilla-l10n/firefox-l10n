@@ -167,6 +167,18 @@ autofill-card-network = Type af kort
 # methods in their region.
 autofill-card-search-term-credit-cards = betalingskort, kreditkort, kredit, kort, debetkort, debet, pung, kassen, betaling, wallet
 
+## The passport capture doorhanger
+
+passport-capture-save-button =
+    .label = Gem
+    .accessKey = G
+passport-capture-not-now-button =
+    .label = Ikke nu
+    .accessKey = n
+passport-capture-never-save-button =
+    .label = Gem aldrig pas
+    .accessKey = a
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express

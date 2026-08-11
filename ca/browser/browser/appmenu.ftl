@@ -55,6 +55,9 @@ appmenuitem-referrals =
     .label = Comparteix { -brand-product-name }
 appmenuitem-more-tools =
     .label = Més eines
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Ajuda i informes
 appmenuitem-help =
     .label = Ajuda
 appmenuitem-exit2 =
@@ -129,8 +132,12 @@ fxa-menu-sync-off-signin-description = Inicia la sessió per sincronitzar
 # Variables:
 #   $deviceName (String): The name of the local device.
 fxa-menu-sync-device-now = Sincronitza { $deviceName } ara
+fxa-menu-manage-sync-settings =
+    .label = Gestiona els paràmetres de sincronització
 fxa-menu-add-device =
     .label = Afegeix un dispositiu
+fxa-menu-manage-devices =
+    .label = Gestioneu els vostres dispositius
 fxa-menu-device-missing =
     .label = No veieu el vostre dispositiu?
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
@@ -141,6 +148,8 @@ fxa-menu-all-devices-panel =
     .title = Tots els dispositius
 fxa-menu-get-firefox-mobile =
     .label = Instal·leu el { -brand-product-name } per a l'Android o l'iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sincronització segura
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Compte
 # Variables
@@ -150,6 +159,12 @@ appmenu-fxa-last-sync = Última sincronització: { $time }
     .label = Última sincronització: { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronitza i desa les dades
 appmenu-fxa-signed-in-label = Inicia la sessió
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Inicia la sessió per a sincronitzar
+appmenu-fxa-sign-in-promo-message = Obteniu les vostres dades a tot arreu
+appmenu-fxa-sign-in-promo-button =
+    .label = Inicia la sessió
 appmenu-fxa-setup-sync =
     .label = Activa la sincronització…
 appmenu-fxa-setup-sync-new = Activa
@@ -278,6 +293,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Cerca en l'historial
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Manteniu-vos sincronitzat entre dispositius
+appmenu-sync-promo-signin-cta = Inicia la sessió
+appmenu-sync-promo-turnonsync =
+    .heading = Sincronitzeu les pestanyes i l'historial
+appmenu-sync-promo-turnonsync-cta = Activa la sincronització
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Agafeu les pestanyes del mòbil
+appmenu-sync-promo-connectdevice-cta = Connecta un dispositiu
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Porteu les vostres adreces d'interès
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Adreces d'interès per emportar
+
 ## Help panel
 
 appmenu-help-header =
@@ -285,6 +321,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Quant al { -brand-shorter-name }
     .accesskey = Q
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Comparteix { -brand-shorter-name }
+    .accesskey = r
 appmenu-get-help =
     .label = Obteniu ajuda
     .accesskey = j
@@ -298,6 +339,9 @@ appmenu-help-share-ideas =
     .accesskey = s
 appmenu-help-switch-device =
     .label = Canvi a un dispositiu nou
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Ajuda i informes
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -338,14 +382,19 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Inicieu la sessió al vostre compte
 appmenuitem-monitor-title2 = Anticipeu-vos al robatori d'identitat
 appmenuitem-monitor-description2 = Rebeu alertes sobre filtracions de dades
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Alertes de bretxa de dades de { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Obteniu alertes sobre filtracions de dades
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Protegiu la privadesa del correu electrònic
 appmenuitem-relay-description2 = Ajuda a evitar el correu brossa a la safata d'entrada
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Visualitza les màscares de correu
 appmenuitem-relay-description = Emmascareu el vostre correu electrònic i telèfon reals
 appmenuitem-services-relay-description = Obre el tauler de màscares d’adreça electrònica
 appmenuitem-vpn-title2 = Amagueu la vostra ubicació amb { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description4 = Obteniu una protecció addicional a través d'aplicacions i dispositius
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in = Obre { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Feu que la vostra navegació sigui més difícil de rastrejar
@@ -381,17 +430,21 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Perfil actual en ús
 fxa-menu-create-profile-subpanel =
     .title = Crea un perfil nou
+fxa-menu-create-profile-heading = Milloreu la navegació amb un nou perfil
+fxa-menu-create-profile-description = Mantingueu les adreces d'interès, contrasenyes i historial separats per a la navegació laboral i personal.
 fxa-menu-create-profile-confirm =
     .label = Crea un perfil nou
 fxa-menu-create-profile-learn-more =
     .label = Què són els perfils?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Comparteix { -brand-short-name }
+appmenuitem-share-firefox-description = Convideu a algú a triar el navegador que posa la privacitat primer
 appmenu-profiles-2 =
     .label = Perfils
 appmenu-profiles-header = Perfils
 appmenu-all-profiles =
     .label = Tots els perfils
+appmenu-secure-sync-header = Sincronització segura
 # Panel shown when clicking a synced device in the Mozilla account menu.
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =

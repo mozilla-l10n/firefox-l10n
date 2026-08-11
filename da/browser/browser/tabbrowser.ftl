@@ -340,6 +340,9 @@ tab-group-editor-done =
     .label = Færdig
     .accessKey = F
 # Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = Del gruppe
+# Share is a verb here. Meaning to "Share" the "tab group"
 tab-group-editor-action-share-tab-group =
     .label = Del fanebladsgruppe
 tab-context-reopen-tab-group =

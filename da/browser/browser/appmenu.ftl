@@ -291,6 +291,7 @@ appmenu-sync-promo-signin-cta = Log ind
 appmenu-sync-promo-turnonsync =
     .heading = Synkroniser dine faneblade og din historik
 appmenu-sync-promo-turnonsync-cta = Slå synkronisering til
+appmenu-sync-promo-connectdevice-cta = Opret forbindelse til en enhed
 
 ## Help panel
 
@@ -339,6 +340,8 @@ appmenu-customizetoolbar =
     .label = Tilpas værktøjslinje…
 appmenu-abouttranslations =
     .label = Oversæt…
+appmenu-edit-pdf =
+    .label = Rediger PDF…
 appmenu-developer-tools-subheader = Browser-værktøj
 appmenu-developer-tools-extensions =
     .label = Udvidelser til udviklere
@@ -351,8 +354,11 @@ appmenuitem-sign-in-account = Log in på din konto
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få advarsler om datalæk
 appmenuitem-relay-title = { -relay-brand-short-name }
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Vis mail-masker
 appmenuitem-relay-description = Skjul din rigtige mailadresse og dit telefonnummer
 appmenuitem-services-relay-description = Vis oversigt over mail-masker
+appmenuitem-vpn-title2 = Skjul din placering med { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få beskyttelse af hele din enhed
 appmenuitem-vpn-description = Beskyt din aktivitet på nettet
@@ -370,9 +376,36 @@ appmenu-manage-profiles =
     .label = Håndter profiler
 appmenu-copy-profile =
     .label = Kopier denne profil
+appmenu-create-profile2 =
+    .label = Opret en ny profil
 appmenu-create-profile =
     .label = Ny profil
 appmenu-edit-profile =
     .aria-label = Rediger profil
+appmenu-edit-this-profile =
+    .label = Rediger denne profil
+fxa-menu-create-profile-subpanel =
+    .title = Opret en ny profil
+fxa-menu-create-profile-confirm =
+    .label = Opret ny profil
+fxa-menu-create-profile-learn-more =
+    .label = Hvad er profiler?
 appmenu-profiles-2 =
     .label = Profiler
+appmenu-profiles-header = Profiler
+appmenu-all-profiles =
+    .label = Alle profiler
+appmenu-secure-sync-header = Sikker synkronisering
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Seneste faneblade
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Vis { $tabCount } synkroniseret faneblad
+           *[other] Vis alle { $tabCount } synkroniserede faneblade
+        }

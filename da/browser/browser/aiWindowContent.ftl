@@ -142,3 +142,16 @@ action-log-searched-web = Søgte på nettet
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searching-web-with-exa = Søger på nettet med <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Søgte på nettet med <a data-l10n-name="exa-link">Exa</a>
+action-log-searching-settings = Søger i indstillinger
+action-log-searched-settings = Søgte i indstillinger
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Søgeresultater blev indlæst i dette faneblad. Analyserer…

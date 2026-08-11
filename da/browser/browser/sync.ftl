@@ -48,6 +48,23 @@ fxa-menu-send-tab-to-device-description = Send hurtigt og nemt faneblade til and
 fxa-menu-sign-out =
     .label = Log ud…
 fxa-menu-sync-description = Få adgang til dit internet overalt
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Håndter konto
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Log ind for at synkronisere
+fxa-menu-sign-in-promo-button =
+    .label = Log ind
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Log ind
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Du er logget ud
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Afslut opsætning
 fxa-avatar-sign-in = Log ind
 fxa-avatar-sign-up = Tilmeld dig
 fxa-avatar-tooltip =

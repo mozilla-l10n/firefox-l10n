@@ -283,6 +283,9 @@ switch-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Vis forhåndsvisning for faneblade på Windows Proceslinje
     .accesskey = W
+browser-containers-enabled-2 =
+    .label = Brug kontekst-faneblade
+    .accesskey = k
 browser-containers-enabled =
     .label = Aktiver kontekst-faneblade
     .accesskey = A
@@ -749,7 +752,7 @@ about-firefox-header =
 
 update-application-heading =
     .label = { -brand-short-name }-opdateringer
-    .description = Opdateringer forbedrer { -brand-short-name }' hastighed, stabilitet og sikkerhed.
+    .description = Opdateringer forbedrer hastighed, stabilitet og sikkerhed i { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = Meddelelser
 update-application-updates-managed-by-os =
@@ -818,6 +821,9 @@ browsing-search-on-start-typing =
     .accesskey = s
 settings-media-group =
     .label = Medieindhold
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Brug Billede-i-billede
+    .accesskey = u
 browsing-picture-in-picture-toggle-enabled =
     .label = Vis kontrol-knapper for Billede-i-billede
     .accesskey = v
@@ -1170,8 +1176,13 @@ containers-remove-button =
     .label = Fjern
 containers-section-header2 =
     .heading = Indstillinger for kontekst
+containers-card-header2 =
+    .label = Kontekster
+    .description = Adskil cookies ved hjælp af kontekster, så du kan bruge forskellige konti på samme websted og begrænse sporing på tværs af websteder.
 containers-settings-button2 =
     .title = Indstillinger
+containers-remove-button3 =
+    .title = Slet
 containers-remove-button2 =
     .title = Fjern
 
@@ -1623,6 +1634,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Ingen adresser tilføjet
+personal-info-group =
+    .label = Personlige oplysninger
+autofill-personal-info-checkbox-message =
+    .label = Gem og autofyld personlige oplysninger
+autofill-personal-info-manage-button =
+    .label = Håndter personlige oplysninger
+passports-list-header =
+    .label = Pas
+passports-delete-passport-button-label =
+    .aria-label = Slet
+passports-edit-passport-button-label =
+    .aria-label = Rediger
+passports-delete-passport-prompt-title = Slet dette pas?
+passports-delete-passport-prompt-confirm-button = Slet
+passports-delete-passport-prompt-cancel-button = Annuller
+autofill-passports-add-button = Tilføj nyt pas
+autofill-personal-info-manage-title =
+    .heading = Håndter personlige oplysninger
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Intet pas tilføjet
 pane-passwords-autofill-title2 = Adgangskoder og autofyld
     .title = Adgangskoder og autofyld
 preferences-passwords-autofill-header =
@@ -1700,6 +1732,10 @@ history-remember-option-all2 =
 
 sitedata-header = Cookies og websteds-data
 sitedata-total-size-calculating = Udregner størrelse på cache og websteds-data…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Websteder bruger lige nu <strong>{ $value } { $unit } </strong> diskplads.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2423,6 +2459,15 @@ security-privacy-status-ok-header = { -brand-short-name } beskytter dig
 security-privacy-status-ok-label = Udvidet beskyttelse mod sporing er slået til
 security-privacy-status-problem-label = Vi fandt indstillinger, der påvirker din beskyttelse
 security-privacy-status-problem-helper-label = Vis problemer
+security-privacy-status-pending-trackers-label = Finder ud af, hvor mange sporings-mekanismer { -brand-short-name } har blokeret i løbet af den sidste måned
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } sporings-mekanisme blokeret i løbet af den sidste måned
+       *[other] { $trackerCount } sporings-mekanismer blokeret i løbet af den sidste måned
+    }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Du har <a data-l10n-name="strict-tracking-protection">striks beskyttelse</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
@@ -2488,3 +2533,12 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
+
+## Warnings section
+
+security-privacy-issue-warning-third-party-cookies =
+    .label = Tredjeparts-cookies er aktiveret
+    .description = Tredjeparts-cookies bruges til at spore dig på tværs af websteder.
+security-privacy-issue-warning-ech =
+    .label = Encrypted Client Hello er deaktiveret
+    .description = Encrypted Client Hello skjuler hvilke websteder du besøger for din netværksudbyder.

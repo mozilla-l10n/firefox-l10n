@@ -455,6 +455,8 @@ quickactions-cmd-print = udskriv
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Gem side som PDF
 quickactions-cmd-savepdf2 = pdf, gem side
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Åbn PDF-editoren
 quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Åbn privat vindue
@@ -572,6 +574,8 @@ identity-clear-site-data =
     .label = Ryd cookies og webstedsdata…
 identity-connection-not-secure-security-view = Din forbindelse til webstedet er ikke sikker.
 identity-connection-verified = Din forbindelse til dette websted er sikker.
+identity-ev-owner-label2 = Certifikatet er udstedt til
+identity-verifier-label2 = Bekræftet af
 identity-ev-owner-label = Certifikatet er udstedt til:
 identity-verifier-label = Bekræftet af:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -1443,6 +1447,8 @@ private-browsing-indicator-label = Privat browsing
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Privat browsing
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Du befinder dig i et privat vindue
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

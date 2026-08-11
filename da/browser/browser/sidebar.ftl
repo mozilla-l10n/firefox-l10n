@@ -137,6 +137,20 @@ sidebar-bookmarks-context-menu-delete-bookmark =
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Slet
 
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Luk faneblad
+
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Sorter efter
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -226,6 +240,18 @@ sidebar-opentabs-title = Åbne faneblade
 # panel.
 sidebar-opentabs-pinned-tabs =
     .title = Fastgjorte faneblade
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Vindue { $winID } (aktuelle)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Vindue { $winID }
 
 ## Context for closing synced tabs when hovering over the items
 

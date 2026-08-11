@@ -170,6 +170,7 @@ newtab-privacy-menu-learn-more = Læs mere
 newtab-privacy-message-info-6-cta = Læs mere
 newtab-privacy-message-info-7 = Se hvilke sporings-mekanismer { -brand-short-name } har blokeret.
 newtab-privacy-message-info-8-cta = Læs mere
+newtab-privacy-message-info-10-cta = Gå til adgangskoder
 newtab-privacy-message-info-11-cta = Læs mere
 
 ## Privacy widget — promotional messages
@@ -184,14 +185,74 @@ newtab-privacy-message-promo-private-window-1-cta = Åbn privat vindue
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Søg efter aktiesymbol
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Lær mere
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .title = Indstillinger for aktie-widget
+    .aria-label = Indstillinger for aktie-widget
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Aktier
 
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, op { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, ned { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, ingen ændring, { $change }, { $price }
+
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Dagens billede · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Dagens billede
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Se { $license }-licensen
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Indstil baggrund
+    .title = Indstil baggrund
+    .aria-label = Indstil dagens billede som din baggrund
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Håndter baggrund
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Skjul dagens billede
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Vis dagens billede
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Lær mere
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .title = Vis dagens billede
+    .aria-label = Vis dagens billede
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Dagens billede fra Wikimedia Commons
 
 ## Search box component.
 
@@ -228,6 +289,7 @@ newtab-topsites-add-shortcut-label = Tilføj genvej
 newtab-topsites-add-shortcut-title =
     .title = Tilføj genvej
     .aria-label = Tilføj genvej
+newtab-shortcuts-pinned-area = Fastgjort område
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Indtast en titel
@@ -271,6 +333,23 @@ topsite-label-pinned =
     .aria-label = { $title } (fastgjort)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Beskeder fra { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Nu
+newtab-topsites-hover-card-mark-all-read =
+    .title = Marker alle som læste
+    .aria-label = Marker alle som læste
+newtab-topsites-hover-card-settings =
+    .title = Indstillinger for beskeder
+    .aria-label = Indstillinger for beskeder
+newtab-topsites-hover-card-dismiss =
+    .title = Afvis
+    .aria-label = Afvis
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -295,6 +374,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Rediger
+newtab-menu-add-topsite = Tilføj ny genvej
 newtab-menu-open-new-window = Åbn i et nyt vindue
 newtab-menu-open-new-private-window = Åbn i et nyt privat vindue
 newtab-menu-dismiss = Afvis
@@ -490,6 +570,9 @@ newtab-custom-shortcuts-toggle =
     .description = Gemte eller besøgte websteder
 newtab-custom-shortcuts-nova =
     .label = Genveje
+newtab-custom-web-notifications-toggle =
+    .label = Webbeskeder
+    .description = Vis beskeder fra dine websteder på deres genveje
 newtab-custom-row-description =
     .description = Antal rækker
 # Variables
@@ -541,6 +624,8 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-stocks-toggle =
     .label = Aktier
+newtab-custom-widget-picture-toggle =
+    .label = Dagens billede
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -553,6 +638,11 @@ newtab-custom-close-menu-button =
     .aria-label = Luk menu
 newtab-custom-close-button = Luk
 newtab-custom-settings = Håndter flere indstillinger
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Udseende
 
 ## New Tab Wallpapers
 
