@@ -626,6 +626,25 @@ mlmodel-addon-detail-model-card-link-label = Ver no Hugging Face
 find-more-addons-promo =
     .heading = Deixe o { -brand-product-name } do seu jeito
     .message = Adicione ferramentas e estilos conforme o que você gosta e precisa.
+find-more-addons-promo-open-amo-button = Descubra extensões e temas
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Encontre sua próxima extensão preferida
+    .message = Personalize o { -brand-product-name } com ferramentas para foco, privacidade, compras e muito mais.
+find-more-extensions-promo-open-amo-button = Descobrir extensões
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Encontre mais visuais renovados
+    .message = Escolha um estilo que faça o { -brand-product-name } ficar do seu jeito.
+find-more-themes-promo-open-amo-button = Descobrir temas
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
