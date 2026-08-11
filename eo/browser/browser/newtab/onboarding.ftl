@@ -633,3 +633,9 @@ smartwindow-sidebar-auto-open-callout-accepted-title = La asistanto restos fermi
 smartwindow-sidebar-auto-open-callout-accepted-subtitle = Uzu "Demandi" por malfermi ĝin en iu ajn paĝo. Vi povas modifi tiun decidon iam ajn en <a data-l10n-name="settings">Agordoj</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Mi komprenis
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Se vi ŝanĝas vian elekto, vi povas iam ajn ŝanĝi la normon en <a data-l10n-name="settings">Agordoj</a>.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Elektu etoson
+onboarding-theme-picker-subtitle = Alportu iom pli da koloro al { -brand-short-name }.
+onboarding-theme-picker-button-label = Konservi kaj daŭrigi

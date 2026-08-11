@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Lanza tus sitios de streaming como una apl
 taskbar-tabs-value-prop-callout-title = Añade este sitio a tu barra de tareas
 taskbar-tabs-value-prop-callout-subtitle = Ejecútalo en su propia ventana y en una interfaz simplificada con un solo clic.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Mantén la conexión desde tu barra de tareas
+taskbar-tabs-email-callout-title-v3 = Mantén tu bandeja de entrada en la barra de tareas
+taskbar-tabs-email-callout-subtitle-v3 = Lanza tus sitios de correo como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Mantén tu transmisión en la barra de tareas
+taskbar-tabs-media-callout-subtitle-v3 = Lanza tus sitios de medios como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Fija tus sitios favoritos en la barra de tareas
+taskbar-tabs-value-prop-callout-subtitle-v3 = Lanza cualquier sitio como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Regresa a jugar desde tu barra de tareas
+taskbar-tabs-gaming-callout-subtitle-v3 = Lanza tus sitios de juego como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Fijar a la barra de tareas
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = No pierdas todo lo que hayas guardado al migrar a Windows 11.

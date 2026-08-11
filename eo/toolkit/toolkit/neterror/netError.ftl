@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = Ĉiam daŭrigi
 neterror-pref-reset = Ŝajne viaj retaj sekurecaj agordoj povus esti la kaŭzo. Ĉu vi volas restarigi la normajn agordojn?
 neterror-error-reporting-automatic = Raporti erarojn kiel tiu ĉi por helpi { -vendor-short-name }n identigi kaj bloki malicajn retejojn
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Via konekto eble ne estas privata
+    .message = Programo aŭ servo povas vidi vian ĉifritan datumtrafikon el tiu ĉi retejo.
+
 ## Specific error messages
 
 neterror-generic-error = Pro iu kialo { -brand-short-name } ne povas ŝargi tiun ĉi paĝon.

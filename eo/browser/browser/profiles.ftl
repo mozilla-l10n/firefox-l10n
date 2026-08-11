@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avataro
 edit-profile-page-delete-button =
     .label = Forigi
+edit-profile-page-avatar-selector-opener-button =
+    .title = Modifi avataron
 edit-profile-page-avatar-selector-opener-link = Modifi
 avatar-selector-icon-tab = Emblemo
 avatar-selector-custom-tab = Personecigita
@@ -95,6 +97,9 @@ delete-profile-logins = Pasvortoj
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Forigi profilon “{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Ĉu forigi la profilon “{ $profilename }”?
 
 ##
 
