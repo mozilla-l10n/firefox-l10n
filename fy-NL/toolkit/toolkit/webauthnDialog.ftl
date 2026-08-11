@@ -41,7 +41,7 @@ webauthn-user-presence-prompt = Reitsje jo befeiligingskaai oan om troch te gean
 # for different accounts on this website.
 # Variables:
 #  $hostname (String): the origin (website) asking for the extended information.
-webauthn-register-direct-prompt = { $hostname } freget wiidweidige ynformaasje oer jo befeiligingskaai, dy't ynfloed kin op jo privacy.
+webauthn-register-direct-prompt = { $hostname } freget wiidweidige ynformaasje oer jo befeiligingskaai, dy’t ynfloed hawwe kin op jo privacy.
 webauthn-register-direct-prompt-hint = { -brand-short-name } kin dit foar jo anonimisearje, mar de website kin dizze kaai ôfwize. As it ôfwiisd wurdt, kinne jo it nochris besykje.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.

@@ -74,6 +74,8 @@ smart-window-restore-success-summary =
 smart-window-cancelled-label = Հարցումը չեղարկվել է։
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Խումբ
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Բացել
 
 ## Action log
 

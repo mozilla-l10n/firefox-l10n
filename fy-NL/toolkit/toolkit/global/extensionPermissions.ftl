@@ -21,7 +21,7 @@ webext-perms-description-find = De tekst fan alle iepen ljepblêden lêze
 webext-perms-description-geolocation = Tagong ta jo lokaasje
 webext-perms-description-history = Browserskiednis benaderje
 webext-perms-description-management = Utwreidigsgebrûk kontrolearje en tema’s beheare
-webext-perms-description-nativeMessaging = Berjochten útwikselje mei programma's oars as { -brand-short-name }
+webext-perms-description-nativeMessaging = Berjochten mei programma’s oars as { -brand-short-name } útwikselje
 webext-perms-description-notifications = Meldingen oan jo werjaan
 webext-perms-description-pkcs11 = Kryptografyske autentikaasjetsjinsten biede
 webext-perms-description-privacy = Privacyynstellingen lêze en bewurkje
@@ -39,7 +39,7 @@ webext-perms-description-webNavigation = Browseraktiviteit wylst navigearjen ben
 
 webext-perms-extra-warning-userScripts-long = Net ferifiearre scripts kinne befeiligings- en privacyrisiko’s foarmje, lykas it útfieren fan skealike koade of it folgjen fan website-aktiviteit. Fier allinnich scripts út fan útwreidingen of boarnen dy’t jo fertrouwe.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
-webext-perms-extra-warning-userScripts-short = Net ferifiearre scripts kinne befeiligings- en privacyrisiko’s foarmje. Fier allinnich scripts út fan útwreidingen of boarnen dy’'t jo fertrouwe.
+webext-perms-extra-warning-userScripts-short = Net ferifiearre scripts kinne befeiligings- en privacyrisiko’s foarmje. Fier allinnich scripts út fan útwreidingen of boarnen dy’t jo fertrouwe.
 
 ## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
 ## that formats some of the data collection permissions below using `Intl.ListFormat`.
