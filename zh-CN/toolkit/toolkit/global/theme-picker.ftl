@@ -39,6 +39,9 @@ theme-picker-lavender =
 # Name for a medium purple theme. Refers to the sky just after sunset.
 theme-picker-dusk =
     .label = 薄暮
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon =
+    .label = 潟湖
 # Name for a green theme. Refers to pine trees.
 theme-picker-pine =
     .label = 苍松
@@ -81,6 +84,9 @@ theme-picker-lavender-aria-label =
 # Name for a medium purple theme. Refers to the sky just after sunset.
 theme-picker-dusk-aria-label =
     .aria-label = 薄暮
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon-aria-label =
+    .aria-label = 潟湖
 # Name for a green theme. Refers to pine trees.
 theme-picker-pine-aria-label =
     .aria-label = 苍松
