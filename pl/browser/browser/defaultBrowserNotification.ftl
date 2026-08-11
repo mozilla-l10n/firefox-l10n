@@ -28,7 +28,7 @@ default-browser-prompt-button-secondary = Nie teraz
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
-default-browser-guidance-notification-title = Dokończ ustawianie { -brand-short-name(case: "gen") } jako domyślną przeglądarkę
+default-browser-guidance-notification-title = Dokończ ustawianie { -brand-short-name(case: "gen") } jako domyślnej przeglądarki
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
     1. krok: otwórz Ustawienia → Aplikacje domyślne

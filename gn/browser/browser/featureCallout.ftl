@@ -139,6 +139,13 @@ taskbar-tabs-value-prop-callout-subtitle = Eiporúke ne rovetã teetépe ha jehe
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Eike ne rembiaporãita rupa guive
+taskbar-tabs-email-callout-title-v3 = Ereko ne ñe’ẽmondo g̃uahẽha tembiaporã rupápe
+taskbar-tabs-media-callout-title-v3 = Ereko ne ñe’ẽmbyry tembiaporãita rupápe
+taskbar-tabs-value-prop-callout-title-v3 = Emboja tenda erohoryvéva tembiaporãita rupápe
+taskbar-tabs-gaming-callout-title-v3 = Ehugajey ne rembiaporãita rupa guive
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Emboja tembiaporã rendáre
 

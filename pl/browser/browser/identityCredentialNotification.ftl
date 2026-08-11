@@ -25,5 +25,5 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = Zaloguj się
     .accesskey = Z
-identity-credential-policy-title = Używaj konta { $provider } jako dostawcę logowania
+identity-credential-policy-title = Używaj konta { $provider } jako dostawcy logowania
 identity-credential-policy-description = Logowanie na { $host } za pomocą konta { $provider } podlega <label data-l10n-name="privacy-url">zasadom ochrony prywatności</label> i <label data-l10n-name="tos-url">regulaminowi usługi</label> danego konta.

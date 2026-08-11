@@ -24,4 +24,4 @@ csp-error-missing-source = „{ $directive }” musi zawierać źródło „{ $s
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
-csp-error-illegal-host-wildcard = { $scheme }: źródła z gwiazdką w dyrektywie „{ $directive }” muszą zawierać przynajmniej jedną nieogólną domenę (np. *.example.com, a nie *.com)
+csp-error-illegal-host-wildcard = { $scheme }: źródła z gwiazdką w dyrektywie „{ $directive }” muszą zawierać przynajmniej jedną nieogólną poddomenę (np. *.example.com, a nie *.com)

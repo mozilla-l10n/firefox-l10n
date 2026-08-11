@@ -431,6 +431,17 @@ topsite-label-pinned =
 
 ## Top Sites - Web notifications hover card
 
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Marandu’i { $site } guive
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Ko’ag̃aite
+newtab-topsites-hover-card-mark-all-read =
+    .title = Emongurusu moñe’ẽmbyrerõ
+    .aria-label = Emongurusu moñe’ẽmbyrerõ
+newtab-topsites-hover-card-settings =
+    .title = Momarandu ñemboheko
+    .aria-label = Momarandu ñemboheko
 newtab-topsites-hover-card-dismiss =
     .title = Emboyke
     .aria-label = Emboyke
