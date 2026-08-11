@@ -8,10 +8,10 @@ unknowncontenttype-settingschange =
             [windows] Iestatījumus var mainīt { -brand-short-name } iestatījumos.
            *[other] Iestatījumus var mainīt { -brand-short-name } iestatījumos, lejupielāžu sadaļā.
         }
-unknowncontenttype-intro = Jūs esat izvēlējies atvērt:
-unknowncontenttype-which-is = kurš ir:
+unknowncontenttype-intro = Tu izvēlējies atvērt:
+unknowncontenttype-which-is = kas ir:
 unknowncontenttype-from = no:
-unknowncontenttype-prompt = Vai vēlaties saglabāt šo failu?
+unknowncontenttype-prompt = Vai saglabāt šo datni?
 unknowncontenttype-action-question = Ko { -brand-short-name } vajadzētu darīt ar šo failu?
 unknowncontenttype-open-with =
     .label = Atvērt ar

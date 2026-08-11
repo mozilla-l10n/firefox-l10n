@@ -197,6 +197,9 @@ newtab-privacy-empty = { -brand-short-name } 会在您浏览时拦截跟踪器�
 newtab-privacy-message-info-1 = { -brand-short-name } 会在您浏览时自动拦截跟踪器。
 newtab-privacy-message-info-2 = 拦截跟踪器有助于阻止大公司在网络上跟踪您。
 newtab-privacy-message-info-3 = 许多网站都藏有跟踪器，使得您未曾打过交道的公司也可以在网络上跟踪您。
+newtab-privacy-message-info-5 = 拦截跟踪器后，大公司将更难跨网站跟踪您。
+newtab-privacy-message-info-6-cta = 详细了解
+newtab-privacy-message-info-7 = 看看 { -brand-short-name } 拦截了哪些跟踪器。
 newtab-privacy-message-info-8 = 使用 { -brand-short-name } 浏览，即是在支持 { -vendor-short-name } 的使命：建设更好的网络。
 newtab-privacy-message-info-8-cta = 详细了解
 newtab-privacy-message-info-9 = 将 { -brand-short-name } 设为默认浏览器，享受内置隐私保护。
@@ -217,6 +220,7 @@ newtab-privacy-message-promo-monitor-1 = 看看您的个人信息是否出现在
 newtab-privacy-message-promo-monitor-1-cta = 详细了解
 newtab-privacy-message-promo-monitor-2 = 使用免费的数据外泄事件监控来保护您的信息，最多可监控 20 个邮箱。
 newtab-privacy-message-promo-monitor-2-cta = 详细了解
+newtab-privacy-message-promo-signin-1 = 使用 { -vendor-short-name } 账户，跨设备同步并加密保护书签、密码和标签页。
 newtab-privacy-message-promo-signin-1-cta = 登录
 newtab-privacy-message-promo-vpn-1 = 使用公共 Wi-Fi 购物？开启内置 VPN，获得额外防护。
 newtab-privacy-message-promo-vpn-1-cta = 打开 VPN
@@ -241,6 +245,8 @@ newtab-privacy-message-promo-relay-3-cta = 获取马甲邮箱
 # Variables:
 #   $count (number) - Trackers blocked this month
 newtab-privacy-message-milestone-month = 本月已拦截 { $count } 个跟踪器。隐私一小步，心安一大步。
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = 继续浏览，{ -brand-short-name } 将持续拦截。
 
 ## Strings for the Stocks widget
 
@@ -248,6 +254,8 @@ newtab-privacy-message-milestone-month = 本月已拦截 { $count } 个跟踪器
 newtab-stocks-menu-search = 搜索股票代码
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = 详细了解
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = 无法获取股市数据。
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -263,6 +271,10 @@ newtab-stocks-widget-title = 股市
 ##   $change (String) - the day's percentage change, e.g. "+2.1%".
 ##   $price (String) - the last price, e.g. "$559.44".
 
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }，上涨 { $change }，{ $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }，下跌 { $change }，{ $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }，平盘，{ $change }，{ $price }
 
@@ -394,6 +406,23 @@ topsite-label-pinned =
     .aria-label = { $title }（已固定）
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = 来自 { $site } 的通知
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = 刚刚
+newtab-topsites-hover-card-mark-all-read =
+    .title = 标为已读
+    .aria-label = 标为已读
+newtab-topsites-hover-card-settings =
+    .title = 通知设置
+    .aria-label = 通知设置
+newtab-topsites-hover-card-dismiss =
+    .title = 知道了
+    .aria-label = 知道了
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -418,6 +447,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = 编辑
+newtab-menu-add-topsite = 添加新快捷方式
 newtab-menu-open-new-window = 新建窗口打开
 newtab-menu-open-new-private-window = 新建隐私浏览窗口打开
 newtab-menu-dismiss = 隐藏
@@ -608,6 +638,9 @@ newtab-custom-shortcuts-toggle =
     .description = 您保存或访问过的网站
 newtab-custom-shortcuts-nova =
     .label = 快捷方式
+newtab-custom-web-notifications-toggle =
+    .label = 网站通知
+    .description = 在网站快捷方式上显示来自该网站的通知
 newtab-custom-row-description =
     .description = 行数
 # Variables
@@ -676,6 +709,13 @@ newtab-custom-settings = 管理更多设置
 
 ## New Tab Appearance (browser theme picker)
 
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = 外观
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = 查看更多主题
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } 主题
 # Header for the list of the user's already-installed themes in the full theme panel.
 newtab-appearance-your-themes-header = 您的主题
 # Button that enables an already-installed theme.
@@ -1550,6 +1590,18 @@ newtab-clock-widget-custom-city-input =
     .label = 城市名
     .aria-label = 城市名
     .placeholder = 为时钟命名
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = 时区
+    .aria-label = 时区
+    .placeholder = 输入城市、时区或 UTC 时差搜索
+newtab-clock-widget-custom-zone-results =
+    .aria-label = 时区结果
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = 没有匹配的时区
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = 返回
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
