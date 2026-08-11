@@ -27,6 +27,9 @@ user-context-none =
 user-context-manage-containers =
     .label = Pārvaldīt konteinerus
     .accesskey = O
+user-context-add-container =
+    .label = Pievienot jaunu konteineru
+    .accesskey = P
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.

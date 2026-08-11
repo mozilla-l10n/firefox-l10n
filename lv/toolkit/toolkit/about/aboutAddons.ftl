@@ -16,6 +16,9 @@ list-empty-find-updates =
     .label = Meklēt atjauninājumus
 list-empty-button =
     .label = Uzziniet vairāk par papildinājumiem
+help-button = Papildinājumu atbalsts
+sidebar-help-button-title =
+    .title = Papildinājumu atbalsts
 show-unsigned-extensions-button =
     .label = Dažus papildinājumus nevar pārbaudīt
 show-all-extensions-button =
@@ -84,6 +87,8 @@ legacy-warning-show-legacy = Rādīt vēsturiskos papildinājumus
 legacy-extensions =
     .value = Vēsturiskie papildinājumi
 legacy-extensions-description = Šie paplašinājumi neatbilst pašreizējiem { -brand-short-name } standartiem, tāpēc tie tika deaktivizēti. <label data-l10n-name="legacy-learn-more">Uzzināt vairāk par papildinājumu izmaiņām</label>
+aboutaddons-sidebar =
+    .heading = Papildinājumi
 addon-category-extension = Papildinājumi
 addon-category-extension-title =
     .title = Papildinājumi
@@ -157,10 +162,18 @@ addon-updates-manual-updates-found = Aplūkot pieejamos atjauninājumus
 
 addon-install-from-file = Instalēt no faila…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Uzstādīt vai atjaunināt papildinājumu no datnes…
+    .accesskey = U
 addon-install-from-file-dialog-title = Izvēlieties instalējamo papildinājumu
 addon-install-from-file-filter-name = Papildinājumi
 addon-open-about-debugging = Atkļūdot papildinājumus
     .accesskey = d
+
+## Recommended add-ons page
+
+install-extension-button = Pievienot { -brand-product-name }
 
 ## Pending uninstall message bar
 
@@ -211,3 +224,13 @@ plugins-gmp-privacy-info = Privātuma informācija
 plugins-openh264-name = OpenH264 video kodeks, ko piedāvā Cisco Systems, Inc.
 plugins-openh264-description = Šo spraudni automātiski uzstāda Mozilla, lai ievērotu WebRTC tehniskās prasības un ļautu iespējot WebRTC zvanus ar ierīcēm, kurās ir nepieciešams H.264 video saspiedatspiedējs. Var apmeklēt http://www.openh264.org/, lai apskatītu pirmkodu un uzzinātu vairāk par īstenojumu.
 plugins-widevine-name = Google Inc piedāvātais Widevine Content Decryption Module
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Pielāgo { -brand-product-name } savām vēlmēm
+    .message = Pievieno rīkus un noformējumu atbilstoši savām vajadzībām un gaumei!

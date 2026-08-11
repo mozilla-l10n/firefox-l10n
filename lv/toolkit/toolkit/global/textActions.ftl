@@ -35,5 +35,17 @@ text-action-select-all =
     .accesskey = v
 text-action-select-all-shortcut =
     .key = A
+text-action-spell-add-to-dictionary =
+    .label = Pievienot vārdnīcai
+    .accesskey = P
+text-action-spell-undo-add-to-dictionary =
+    .label = Atcelt pievienošanu vārdnīcai
+    .accesskey = A
+text-action-spell-add-dictionaries =
+    .label = Pievienot vārdnīcas…
+    .accesskey = P
 text-action-search-text-box-clear =
     .title = Notīrīt
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Pievienot atlasei piebildi

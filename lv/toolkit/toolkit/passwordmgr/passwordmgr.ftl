@@ -11,6 +11,7 @@ password-manager-save-password-button-allow =
 password-manager-save-password-button-never =
     .label = Nekad nesaglabāt
     .accesskey = e
+password-manager-update-login-add-username = Pievienot lietotājvārdu saglabātai parolei?
 password-manager-password-password-button-allow =
     .label = Atjaunināt
     .accesskey = U

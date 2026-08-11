@@ -9,6 +9,7 @@ crashes-id = Ziņojuma ID
 crashes-send-date = Nosūtīts
 crashes-all-reports = Visi avārijas ziņojumi
 crashes-no-config = Šī aplikācija nav nokonfigurēta avārijas ziņojumu attēlošanai.
+support-addons-title = Papildinājumi
 support-addons-name = Nosaukums
 support-addons-version = Versija
 support-addons-id = ID

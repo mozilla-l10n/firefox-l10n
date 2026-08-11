@@ -11,8 +11,10 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Pievienot { $extension }?
+webext-perms-header-with-perms = Pievienot { $extension }? Šim paplašinājumam būs atļauja:
 webext-perms-sideload-header = { $extension } pievienots
 webext-perms-optional-perms-header = { $extension } ir nepieciešamas papildu tiesības.
+webext-perms-header2 = Pievienot { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -71,3 +73,11 @@ webext-perms-host-description-too-many-sites =
         [one] Pieeja jūsu datiem { $domainCount } citā lapā
        *[other] Pieeja jūsu datiem { $domainCount } citās lapās
     }
+
+## Headers used in the webextension permissions dialog.
+## Note: This string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $extension (String): replaced with the localized name of the extension being installed.
+##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
+
+webext-site-perms-header-with-perms = Pievienot { $extension }? Šis paplašinājums nodrošina { $hostname } šādas spējas:

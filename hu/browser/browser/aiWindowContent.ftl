@@ -160,6 +160,15 @@ smart-window-opened-tabs-summary-single =
         [one] { $count } lap megnyitva.
        *[other] { $count } lap megnyitva.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Létrehozta a(z) „{ $label }” csoportot, és megnyitott { $count } lapot.
+       *[other] Létrehozta a(z) „{ $label }” csoportot, és megnyitott { $count } lapot.
+    }
+smart-window-opened-tabs-row-label = Megnyitott lapok
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Lapok csoportosítása megszüntetve
 # Variables
