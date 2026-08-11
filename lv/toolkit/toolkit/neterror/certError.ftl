@@ -105,3 +105,7 @@ networkProtocolError-title = Tīkla protokola kļūda
 nssBadCert-title = Brīdinājums: Potenciāls drošības risks
 nssBadCert-sts-title = Netika izveidots savienojums: potenciāla drošības problēma
 certerror-mitm-title = Programmatūra neļauj { -brand-short-name } droši izveidot savienojumu ar šo vietni
+
+## Felt Privacy V1 Strings
+
+fp-certerror-what-can-you-do = Ko ar šo var iesākt?

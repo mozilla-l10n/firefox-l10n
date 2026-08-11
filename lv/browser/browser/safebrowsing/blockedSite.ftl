@@ -62,3 +62,9 @@ safeb-blocked-harmful-page-learn-more = Uzziniet vairāk par { -brand-short-name
 safeb-palm-notdeceptive =
     .label = Šī nav maldinoša lapa…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc3-override = <strong>Ko ar šo var iesākt?</strong>

@@ -37,6 +37,7 @@ neterror-load-error-try-again = Lapa var būt īslaicīgi nepieejama vai pārāk
 neterror-load-error-connection = Ja nevarat atvērt nevienu lapu, pārbaudiet sava datora tīkla savienojumu.
 neterror-load-error-firewall = Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 neterror-captive-portal = Pieslēdzieties tīklam, lai piekļūtu Internetam.
+neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
 
 ##
 
@@ -89,7 +90,7 @@ neterror-network-protocol-error-intro = Lapu, kuru mēģināt skatīt, nevar tik
 neterror-network-protocol-error-contact-website = Lūdzu, sazinieties ar vietņu īpašniekiem, lai informētu viņus par šo problēmu.
 certerror-expired-cert-second-para = Iespējams, ka vietnes sertifikāta derīguma termiņš ir beidzies, un tas neļauj { -brand-short-name } droši savienoties. Ja apmeklēsiet šo vietni, uzbrucēji varētu mēģināt nozagt informāciju, piemēram, jūsu paroles, epastus vai kredītkartes datus.
 certerror-expired-cert-sts-second-para = Iespējams, ka vietnes sertifikāta derīguma termiņš ir beidzies, un tas neļauj { -brand-short-name } droši savienoties.
-certerror-what-can-you-do-about-it-title = Ko jūs varat darīt?
+certerror-what-can-you-do-about-it-title = Ko ar šo var iesākt?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Problēma visdrīzāk ir saistīta ar mājas lapu un jūs neko nevarat darīt, lai to atrisinātu.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ja izmantojat uzņēmuma tīklu vai pretvīrusu programmu, varat lūgt palīdzīgu lietotāju atbalsta nodaļai. Tāpat varat ziņot lapas īpašniekiem par šo problēmu.
 # Variables:
