@@ -19,6 +19,13 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validigita
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Izola ŝlosilo
+about-networking-ssl-tokens = Ĵetonoj TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } ĵetono
+       *[other] { $count } ĵetonoj
+    }
 about-networking-refresh = Refreŝigi
 about-networking-auto-refresh = Aŭtomata refreŝigado ĉiun trian sekundon
 about-networking-hostname = Nomo de servilo

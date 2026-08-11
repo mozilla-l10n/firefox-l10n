@@ -121,6 +121,7 @@ aiwindow-firstrun-model-personal-label = Persona
 aiwindow-firstrun-model-personal-body = La plej personecigitaj respondoj
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Persona: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Konstruita por personecigita helpo en multaj lingvoj
 aiwindow-firstrun-button = Komenci
 aiwindow-firstrun-back-button = Malantaŭen
 aiwindow-firstrun-next-button = Antaŭen
@@ -131,6 +132,7 @@ aiwindow-input-model-select-button-label-fast = Rapida
 aiwindow-input-model-select-button-label-allpurpose = Adaptebla
 aiwindow-input-model-select-button-label-personal = Persona
 aiwindow-input-model-select-button-label-custom = Personecigita
+aiwindow-input-model-select-button-description-custom = Uzu vian propran modelon
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
@@ -189,6 +191,35 @@ aiwindow-new-chat =
 aiwindow-close-sidebar =
     .aria-label = Fermi
     .tooltiptext = Fermi
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Pi da ebloj
+    .tooltiptext = Pli da ebloj
+aiwindow-history-menu-chat-history = Historio de konversacioj
+aiwindow-history-menu-back =
+    .aria-label = Reen
+    .tooltiptext = Reen
+aiwindow-history-menu-view-all-chats = Montri ĉiujn konversaciojn
+aiwindow-history-menu-settings = Agordoj de { -smart-window-brand-name }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Nova konversacio
+aiwindow-fullpage-chat-history =
+    .label = Historio de konversacioj
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Pli
+    .title = Pli
 
 ## Sign out dialog
 
@@ -321,3 +352,19 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Ŝanĝi reĝimon: krada montro
     .tooltiptext = Krada montro
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Skribu unuan malneton
+aiwindow-starter-writing-improve = Plibonigu skribadon
+aiwindow-starter-writing-proofread = Reviziu mesaĝon
+aiwindow-starter-planning-simplify = Simpligu temon
+aiwindow-starter-planning-brainstorm = Sugestu ideojn
+aiwindow-starter-planning-plan = Helpu fari planon
+aiwindow-starter-browsing-history = Trovu langetojn en historio
+aiwindow-starter-browsing-summarize = Resumu langetojn
+aiwindow-starter-browsing-compare = Komparu langetojn
