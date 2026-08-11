@@ -88,3 +88,14 @@ mailto-handler-picker-window =
     .style = min-width: 26em; min-height: 26em;
     .title = Elektu vian retpoŝtan programon
 mailto-handler-picker-subtitle = Elektu la programon, kiun vi volas uzi por retpoŝtaj ligiloj. Vi povas poste ŝangi tion ĉi en Agordoj.
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = Ĉiam demandi kiam mi alklakas retpoŝtan ligilon
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Elekti kiel norman
+    .accesskey = E
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Ne nun
+    .accesskey = N

@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] Grupigi { $count } langeton
        *[other] Grupigi { $count } langetojn
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Malfermi
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Malfermi langeton
+       *[other] Malfermi { $count } langetojn
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } grupigita langeto
        *[other] { $count } grupigitaj langetoj
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Grupo de langetoj
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,35 @@ smart-window-grouped-tabs-summary =
        *[other] Grupo “{ $label }” kreita kaj { $count } langetoj aldonitaj.
     }
 smart-window-grouped-tabs-row-label = Grupigitaj langetoj
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Langeto malfermita
+       *[other] { $count } langetoj malfermitaj
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Langeto malfermita.
+       *[other] { $count } langetoj malfermitaj.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Grupo “{ $label }” kreita kaj langeto malfermita.
+       *[other] Grupo “{ $label }” kreita kaj { $count } langetoj malfermitaj.
+    }
+smart-window-opened-tabs-row-label = Malfermitaj langetoj
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Ŝanĝo de langetoj
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Ŝanĝita al “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Negrupigitaj langetoj
 # Variables
@@ -160,6 +200,14 @@ action-log-reading-page = Paĝo legata
 action-log-read-page = Legi enhavon de paĝo
 action-log-searching-web = Interreto serĉata
 action-log-searched-web = Interreto serĉita
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Serĉi la reton per <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Reto serĉita per <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Memoraĵoj kontrolataj
 action-log-checked-memories = Memoraĵoj kontrolitaj
 action-log-searching-settings = Agordoj serĉataj
@@ -182,3 +230,10 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = Serĉaj rezultoj ŝargitaj en tiu ĉi paĝo. Analizo…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } pli
