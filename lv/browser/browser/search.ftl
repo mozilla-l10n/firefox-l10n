@@ -39,6 +39,7 @@ remove-search-engine-button = Labi
 ## $engineName (String) - the name of the search engine to install.
 
 install-search-engine = Pievienot { $engineName } kā meklētāju?
+install-search-engine-add = Pievienot
 
 ## The following strings are used as input labels.
 
@@ -47,3 +48,12 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Pievienojiet pielāgotu meklētāju
 add-engine-name = Meklētāja nosaukums
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Pievienot meklētāju
+    .buttonlabelextra1 = Papildu
+    .buttonaccesskeyaccept = A

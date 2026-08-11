@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] { $count } lap csoportosítása
        *[other] { $count } lap csoportosítása
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Megnyitás
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] { $count } lap megnyitása
+       *[other] { $count } lap megnyitása
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } lap csoportosítva
        *[other] { $count } lap csoportosítva
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Lapcsoport
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group
@@ -134,6 +145,21 @@ smart-window-grouped-tabs-summary =
        *[other] A(z) „{ $label }” csoport létrehozva és { $count } lap hozzáadva.
     }
 smart-window-grouped-tabs-row-label = Csoportosított lapok
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } lap megnyitva
+       *[other] { $count } lap megnyitva
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } lap megnyitva.
+       *[other] { $count } lap megnyitva.
+    }
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Lapok csoportosítása megszüntetve
 # Variables

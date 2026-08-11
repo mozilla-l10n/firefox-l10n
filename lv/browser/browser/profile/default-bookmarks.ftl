@@ -10,7 +10,7 @@
 default-bookmarks-title = Grāmatzīmes
 default-bookmarks-heading = Grāmatzīmes
 default-bookmarks-toolbarfolder = Grāmatzīmju rīkjoslas mape
-default-bookmarks-toolbarfolder-description = Pievienojiet grāmatzīmes šai mapei, lai redzētu tās savā grāmatzīmju rīkjoslā
+default-bookmarks-toolbarfolder-description = Pievieno grāmatzīmes šai mapei, lai redzētu tās savā grāmatzīmju rīkjoslā
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Pirmie soļi
 # Firefox links folder name

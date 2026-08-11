@@ -198,7 +198,32 @@ tabbrowser-manager-unmute-tab =
 tabbrowser-manager-close-tab =
     .tooltiptext = Aizvērt cilni
 
+##
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Pievienot cilni jaunai kopai
+            [zero] Pievienot cilnes jaunai kopai
+            [one] Pievienot cilni jaunai kopai
+           *[other] Pievienot cilnes jaunai kopai
+        }
+    .accesskey = k
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Pievienot cilni kopai
+            [zero] Pievienot cilnes kopai
+            [one] Pievienot cilni kopai
+           *[other] Pievienot cilnes kopai
+        }
+    .accesskey = k
+
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Pievienot piezīmi
+    .accesskey = P
+tab-note-editor-title-create = Pievienot piezīmi
 tab-note-panel-add-note-new-badge =
     .label = Jaunums

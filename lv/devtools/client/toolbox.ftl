@@ -43,3 +43,8 @@ toolbox-always-on-top-enabled2 = Izslēgt, ka vienmēr augšpusē
     .title = Tas pārstartēs Izstrādātāju Rīkus
 toolbox-always-on-top-disabled2 = Ieslēgt, ka vienmēr augšpusē
     .title = Tas pārstartēs Izstrādātāju Rīkus
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = Pievienot iestatījumiem

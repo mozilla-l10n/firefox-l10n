@@ -103,6 +103,8 @@ appmenu-remote-tabs-unverified = Jūsu kontam nepieciešams apstiprinājums.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhronizēt tagad
 appmenuitem-fxa-sign-in = Pierakstieties { -brand-product-name }
 appmenuitem-fxa-manage-account = Pārvaldīt kontu
+fxa-menu-add-device =
+    .label = Pievienot ierīci
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = Konts
 # Variables

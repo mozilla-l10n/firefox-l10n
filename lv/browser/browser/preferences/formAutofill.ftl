@@ -167,6 +167,11 @@ autofill-card-network = Kartes veids
 # methods in their region.
 autofill-card-search-term-credit-cards = kredītkartes, kredīts, kartes, debetkartes, debets, maks, norēķināšanās
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Pievienot pasi
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = American Express

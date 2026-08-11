@@ -354,6 +354,11 @@ preferences-text-zoom-override-warning =
     .message = Brīdinājums. Ja atlasāt “Mērogot tikai tekstu” un noklusējuma tālummaiņa nav iestatīta uz 100%, dažas vietnes varētu tikt salauztas.
 language-header = Valoda
 choose-language-description = Izvēlieties vēlamo valodu, kurā attēlot lapas
+website-add-language =
+    .label = Pievienot valodu
+website-add-language-button =
+    .title = Pievienot atlasīto valodu
+    .aria-label = Pievienot atlasīto valodu
 choose-button =
     .label = Izvēlēties...
     .accesskey = v
@@ -375,6 +380,11 @@ translate-attribution = Tulkojumi no <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Izņēmumi…
     .accesskey = z
+settings-translations-subpage-language-select-option =
+    .label = Pievienot valodu
+settings-translations-subpage-language-add-button =
+    .title = Pievienot valodu
+    .aria-label = Pievienot valodu
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -667,6 +677,8 @@ choose-bookmark =
     .accesskey = g
 home-homepage-new-tabs =
     .label = Jaunas cilnes
+home-custom-homepage-address-button =
+    .label = Pievienot adresi
 
 ## Home Section - Firefox Home Content Customization
 
@@ -806,6 +818,7 @@ search-add-engine-2 =
     .label = Pievienot meklētāju
     .accesskey = P
 search-find-more-link = Pievienot meklētājus
+search-filtering-for-add-engine = Pievienot meklētāju
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Šāds atslēgas vārds jau tiek izmantots
@@ -834,6 +847,9 @@ containers-settings-button =
     .label = Iestatījumi
 containers-remove-button =
     .label = Noņemt
+containers-add-button2 =
+    .label = Pievienot jaunu konteineru
+    .accesskey = a
 
 ## Account and sync
 
@@ -1139,6 +1155,9 @@ autofill-payment-methods-checkbox-submessage = Ietver kredītkartes un debetkart
     .accesskey = I
 autofill-saved-payment-methods-button = Saglabātās maksājumu metodes
     .accesskey = g
+autofill-payment-methods-add-button = Pievienot jaunu maksājumu veidu
+autofill-addresses-add-button = Pievienot jaunu adresi
+autofill-passports-add-button = Pievienot jaunu pasi
 
 ## Privacy Section - History
 
@@ -1436,6 +1455,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Liegt uzlecošos logus un trešo pušu pārvirzīšanu
     .accesskey = p
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Pārvaldīt izņēmumus
+    .accesskey = i
+    .description = Pievienot tīmekļvietnes, kas var atvērt uznirstošos logs un izmantot trešo pušu pārvirzīšanu.
+    .searchkeywords = uznirstošie logi
 permissions-block-popups =
     .label = Liegt uzlecošos logus
     .accesskey = u

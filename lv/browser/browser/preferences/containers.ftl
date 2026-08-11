@@ -12,6 +12,9 @@ containers-window-update-settings2 =
     .style = min-width: 45em
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Nosaukums
+    .placeholder = Pievienot nosaukumu
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -82,3 +85,10 @@ containers-icon-tree =
     .label = Koks
 containers-icon-chill =
     .label = Atpūta
+containers-window-new3 =
+    .style = min-width: 32em
+    .title = Pievienot jaunu konteineru
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Pievienot jaunu konteineru

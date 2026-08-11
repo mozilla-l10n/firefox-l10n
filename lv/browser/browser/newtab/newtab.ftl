@@ -197,6 +197,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Rediģēt
+newtab-menu-add-topsite = Pievienot jaunu saīsni
 newtab-menu-open-new-window = Atvērt jaunā logā
 newtab-menu-open-new-private-window = Atvērt jaunā privātajā logā
 newtab-menu-dismiss = Noraidīt
@@ -420,6 +421,7 @@ newtab-custom-settings = Pārvaldīt vairāk iestatījumu
 newtab-wallpaper-title = Tapetes
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. Nova has no reset button; the wallpapers toggle handles reset
 newtab-wallpaper-reset = Atiestatīt uz noklusējumu
+newtab-wallpaper-add-an-image = Pievienot attēlu
 newtab-wallpaper-toggle-title =
     .label = Tapetes
 newtab-wallpaper-light-red-panda = Sarkana panda
@@ -592,13 +594,48 @@ newtab-section-cancel-button = Ne tagad
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Liegt { $topic }
 
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-button-add-item = Pievienot vienumu
+newtab-widget-lists-input-add-an-item2 =
+    .aria-label = Pievienot vienumu
+    .placeholder = Pievienot vienumu
+newtab-widget-add-widgets-button =
+    .title = Pievienot logrīku
+    .aria-label = Pievienot logrīku
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Pievienot logrīkus
+
 ## Strings for the Clock widget
 
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Segvārds (izvēles)
+    .aria-label = Segvārds (izvēles)
+    .placeholder = Pievienot segvārdu
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Pievienot jaunu pulksteni
+    .aria-label = Pievienot jaunu pulksteni
+newtab-clock-widget-button-add-clock = Pievienot
+newtab-clock-widget-add-clock-form =
+    .aria-label = Pievienot pulksteni
 # "Search results" is the accessible label for the listbox dropdown that appears
 # below the location search field, listing matching cities as the user types.
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Meklēšanas iznākums
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Pievienot “{ $city }” kā pielāgotu pulksteni
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Ņujorka

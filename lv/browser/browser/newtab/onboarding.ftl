@@ -360,6 +360,10 @@ onboarding-new-user-survey-familiarity-based-option-2 = Esmu to izmantojis
 onboarding-new-user-survey-familiarity-based-option-3 = Esmu ar to ļoti pazīstams
 onboarding-new-user-survey-familiarity-based-option-4 = Esmu to izmantojis, bet tas bija sen
 
+## New user onboarding checklist
+
+onboarding-checklist-extension = Pievienot paplašinājumu
+
 ## Fx Backup onboarding: Create Backup spotlight
 
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Uzzināt vairāk</a>

@@ -12,3 +12,7 @@ smartbar-context-menu-button =
 ## Clear browsing data dialog
 
 item-history-downloads-and-chat-description = Notīra vietņu, lejupielāžu un tērzēšanas vēsturi
+
+## Feedback modal
+
+aiwindow-feedback-add-details = Ja ir vēlēšanās, var pievienot informāciju. Lūgums ne personīgu informāciju.
