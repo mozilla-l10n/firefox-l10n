@@ -142,6 +142,10 @@ taskbar-tabs-value-prop-callout-subtitle = ਇਸ ਨੂੰ ਇੱਕ ਕਲਿ�
 # Treatment B changes only the title for chat; the subtitle is unchanged from
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਤੋਂ ਕਨੈਕਟ ਰਹੋ
+taskbar-tabs-email-callout-title-v3 = ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਰੱਖੋ
+taskbar-tabs-value-prop-callout-title-v3 = ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਸਾਈਟਾਂ ਨੂੰ ਆਪਣੀ ਟਾਸਕਪੱਟੀ ਵਿੱਚ ਟੰਗੋ
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = ਟਾਸਕਬਾਰ ਵਿੱਚ ਟੰਗੋ
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

@@ -611,6 +611,25 @@ mlmodel-addon-detail-model-card = ਮਾਡਲ ਕਾਰਡ
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Hugging Face ਉੱਤੇ ਵੇਖੋ
 
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ Dਤੇ ਥੀਮ ਲੱਭੋ
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਪੜਤਾਲ ਕਰੋ
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo-button = ਆਪਣੀ ਪਹਿਲੀਂ ਇਕਸਟੈਨਸ਼ਨ ਲਵੋ
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -622,9 +641,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = ਡਿਵਾਈਸ
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } ਥੀਮ
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = ਹੋਰ ਵੇਖਾਓ
+aboutaddons-themes-picker-see-less = ਘੱਟ ਵੇਖਾਓ
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = ਸਮਰੱਥ ਕਰੋ
+aboutaddons-themes-picker-disable-button =
+    .label = ਅਸਮਰੱਥ ਕਰੋ
+aboutaddons-themes-picker-install-button =
+    .label = ਇੰਸਟਾਲ ਕਰੋ
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = ਤੁਹਾਡੇ ਥੀਮ ਨੂੰ ਅੱਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਆਪਣੇ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

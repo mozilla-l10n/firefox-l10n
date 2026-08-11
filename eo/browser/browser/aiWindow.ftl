@@ -102,7 +102,7 @@ aiwindow-firstrun-model-fast-body = Rapidaj respondoj
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = Modelo { $model } de { $ownerName }
-aiwindow-firstrun-model-allpurpose-label = Fleksema
+aiwindow-firstrun-model-allpurpose-label = Adaptebla
 aiwindow-firstrun-model-allpurpose-body = Adaptita al la plimulto de bezonoj
 aiwindow-firstrun-model-personal-label = Persona
 aiwindow-firstrun-model-personal-body = La plej personecigitaj respondoj
@@ -113,7 +113,7 @@ aiwindow-firstrun-next-button = Antaŭen
 ## These are labels describing model types in the smartbar model select.
 
 aiwindow-input-model-select-button-label-fast = Rapida
-aiwindow-input-model-select-button-label-allpurpose = Fleksema
+aiwindow-input-model-select-button-label-allpurpose = Adaptebla
 aiwindow-input-model-select-button-label-personal = Persona
 aiwindow-input-model-select-button-label-custom = Personecigita
 # Variables:
