@@ -78,7 +78,7 @@ experimental-features-newtab-widget-timer-description = Stel in timer yn om jo t
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listen en timer op { -firefox-home-brand-name }
-experimental-features-newtab-widget-lists-and-timer-description = Hâld jo to-dolist in gedachten wannear’t jo in nij ljepblêd iepenje. Fan paklisten oant boodskippelistkes, meitsje jo plannen yn { -brand-product-name }. Stel in timer yn om jo fokust te hâlden, in triuwke yn de rêch te jaan om op it goede spoar te bliuwen of jo yn it sin te bringen dat jo oplade moatte. <a data-l10n-name="connect">Kommentaar diele</a>
+experimental-features-newtab-widget-lists-and-timer-description = Hâld jo to-dolist yn gedachten wannear’t jo in nij ljepblêd iepenje. Fan paklisten oant boadskippelistkes, meitsje jo plannen yn { -brand-product-name }. Stel in timer yn om jo fokus te hâlden, in triuwke yn de rêch te jaan om op it goede spoar te bliuwen of jo yn it sin te bringen dat jo oplade moatte. <a data-l10n-name="connect">Kommentaar diele</a>
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Waarfoarsizzingen

@@ -354,7 +354,7 @@ target-frame-rate = Doelframerate
 min-lib-versions = Minimale ferzje ferwachte
 loaded-lib-versions = Brûkte ferzje
 has-seccomp-bpf = Seccomp-BPF (Systeemoanropfiltering)
-has-seccomp-tsync = Seccomp-threadsynchronisatie
+has-seccomp-tsync = Seccomp-threadsyngronisaasje
 has-user-namespaces = Namespaces fan brûker
 has-privileged-user-namespaces = Namespaces fan brûker foar proscessen mei foech
 # Variables

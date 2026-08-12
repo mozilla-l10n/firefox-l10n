@@ -23,7 +23,7 @@ about-webauthn-bio-enrollment-section-title = Biometryske ynskriuwingen
 
 ## Info field texts
 
-about-webauthn-text-connect-device = Keppel in befveiligingstoken.
+about-webauthn-text-connect-device = Keppelje in befeiligingstoken.
 # If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
 about-webauthn-text-select-device = Selektearje it winske befeiligingstoken troch it apparaat oan te reitsjen.
 # CTAP2 refers to Client to Authenticator Protocol version 2

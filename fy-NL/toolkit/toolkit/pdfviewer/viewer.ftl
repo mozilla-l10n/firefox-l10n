@@ -182,8 +182,8 @@ pdfjs-print-progress-message = Dokumint tariede oar ôfdrukken…
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = Annulearje
-pdfjs-printing-not-supported = Warning: Printen is net folslein stipe troch dizze browser.
-pdfjs-printing-not-ready = Warning: PDF is net folslein laden om ôf te drukken.
+pdfjs-printing-not-supported = Warskôging: ôfdrukken wurdt net folslein stipe troch dizze browser.
+pdfjs-printing-not-ready = Warskôging: PDF is net folslein laden om ôf te drukken.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
