@@ -430,6 +430,7 @@ appmenu-profile-current-in-use = 当前使用的配置文件
 fxa-menu-create-profile-subpanel =
     .title = 新建配置文件
 fxa-menu-create-profile-heading = 新建配置文件，提升浏览体验
+fxa-menu-create-profile-description = 分隔办公和私人浏览体验，让各情境下的书签、密码、历史记录互不相通。
 fxa-menu-create-profile-confirm =
     .label = 新建配置文件
 fxa-menu-create-profile-learn-more =
