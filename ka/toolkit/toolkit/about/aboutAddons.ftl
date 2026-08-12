@@ -641,7 +641,24 @@ find-more-addons-promo-open-amo-button = მონახეთ გაფარ�
 find-more-extensions-promo =
     .heading = იპოვეთ ახალი რჩეული გაფართოება
     .message = მოირგეთ { -brand-product-name } ხელსაწყოებით ყურადღების მოსაკრებად, პირადი მონაცემების დასაცავად, საყიდლებისთვის და სხვ.
-find-more-extensions-promo-open-amo-button = მოიძიეთ გაფართოებები
+find-more-extensions-promo-open-amo-button = მონახეთ გაფართოებები
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = მოიძიეთ ახალი იერსახე
+    .message = შეარჩიეთ სახასიათო გაფორმება, რომლითაც { -brand-product-name } მეტად თქვენებური გახდება.
+find-more-themes-promo-open-amo-button = მონახეთ გაფორმებები
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = მცირეოდენი გაფართოებები უსაზღვრო შესაძლებლობით
+    .message = შერჩეული გვაქვს თქვენთვის ყურადღების მოსაკრები, პირადულობის დასაცავი თუ სხვა სასარგებლო საშუალებები.
+list-empty-get-extensions-promo-button = მონახეთ თქვენი პირველი გაფართოება
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
@@ -654,9 +671,26 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = მოწყობილობის
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } – გაფორმებები
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = ვრცლად
+aboutaddons-themes-picker-see-less = შემოკლებულად
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 
+aboutaddons-themes-picker-enable-button =
+    .label = ჩართვა
+aboutaddons-themes-picker-disable-button =
+    .label = გამორთვა
+aboutaddons-themes-picker-install-button =
+    .label = ჩადგმა
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = თქვენი გაფორმება ვერ განახლდა. შეამოწმეთ კავშირი და კვლავ სცადეთ.
 # Checkbox shown inside the enabled default theme's addon-card, on Linux
 # only, to opt-in/opt-out matching the GTK/system theme colors instead of
 # the built-in default theme colors.

@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Bloķēta lapa
 neterror-captive-portal-page-title = Pieteikšanās tīklā
 neterror-dns-not-found-title = Serveris nav atrasts
 neterror-malformed-uri-page-title = Nederīga adrese
+problem-with-this-site-title = Izskatās, ka ar šo vietni ir sarežģījumi
 
 ## Error page actions
 
