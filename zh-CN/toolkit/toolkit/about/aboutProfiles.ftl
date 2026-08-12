@@ -4,7 +4,7 @@
 
 profiles-title = 关于配置文件
 profiles-subtitle = 此页面有助于您管理您的配置文件。每个配置文件都是一个独立的空间，其中存放着各自的历史记录、书签、设置及附加组件。
-profiles-create = 创建新配置文件
+profiles-create = 新建配置文件
 profiles-restart-title = 重启浏览器
 profiles-restart-in-safe-mode = 重启并禁用附加组件…
 profiles-restart-normal = 正常重启…

@@ -92,9 +92,12 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = 欢迎使用{ -smart-window-brand-name }
 aiwindow-firstrun-model-title = 您侧重于哪一需求？
+aiwindow-firstrun-model-title-v2 = 选择模型开始使用
 aiwindow-firstrun-model-subtitle = 选择驱动{ -smart-window-brand-name }的模型。以后可随时切换。
 aiwindow-firstrun-model-fast-label = 快速
 aiwindow-firstrun-model-fast-body = 迅捷回答
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = 快速：{ $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version

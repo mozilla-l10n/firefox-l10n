@@ -115,7 +115,7 @@ sync-account-in-use-description-merge = { $acctEmail } 已在此计算机上的�
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = 切换到“{ $profileName }”
-sync-button-create-profile = 创建新配置文件
+sync-button-create-profile = 新建配置文件
 sync-button-sync-and-merge = 同步并合并数据
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
