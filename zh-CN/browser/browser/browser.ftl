@@ -49,7 +49,7 @@ browser-main-window-title = { -brand-full-name }
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } 隐私浏览
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
-browser-shortcut-description = 浏览快如风，隐私不透风
+browser-shortcut-description = 浏览快如风，隐私断跟踪
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:

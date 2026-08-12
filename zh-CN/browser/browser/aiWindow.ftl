@@ -101,6 +101,10 @@ aiwindow-firstrun-model-fast-body = 迅捷回答
 aiwindow-firstrun-model-chip-subtitle = { $ownerName } 的 { $model } 模型
 aiwindow-firstrun-model-allpurpose-label = 灵活
 aiwindow-firstrun-model-allpurpose-body = 满足大多数需求
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = 灵活：{ $shortName }
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = 推荐
 aiwindow-firstrun-model-personal-label = 个人化
 aiwindow-firstrun-model-personal-body = 提供最懂您的回答
 aiwindow-firstrun-button = 开始使用

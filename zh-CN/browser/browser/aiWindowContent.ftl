@@ -100,6 +100,7 @@ smart-window-grouped-tabs-label = 已将 { $count } 个标签页创建群组
 #   $label (string) - The label of the tab group
 smart-window-grouped-tabs-summary = 已创建群组“{ $label }”并添加 { $count } 个标签页。
 smart-window-grouped-tabs-row-label = 已将标签页创建群组
+smart-window-opened-tabs-row-label = 打开的标签页
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = 已将标签页取消分组
 smart-window-ungrouped-row-label = 已将 { $count } 个标签页取消分组
