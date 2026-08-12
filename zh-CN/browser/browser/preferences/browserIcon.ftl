@@ -33,6 +33,10 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = 您已解锁所有奖励图标！
 appearance-browser-icon-set-default-button =
     .label = 设为默认浏览器
 appearance-browser-icon-pin-button =

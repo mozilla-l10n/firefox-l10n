@@ -174,21 +174,42 @@ autofill-card-network = 卡片类型
 # methods in their region.
 autofill-card-search-term-credit-cards = 信用卡, 贷记卡, 信用, 贷记, 卡, 银行卡, 借记卡, 借记, 钱包, 结账, 结算
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = 添加护照信息
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = 编辑护照信息
+
 ## Passport field labels shared by the passport capture doorhanger and the
 ## passport management dialog. The labels are exposed as a .label attribute so
 ## they can be assigned directly to moz-input-text and moz-select fields.
 
 autofill-passport-name =
     .label = 姓名
+autofill-passport-country =
+    .label = 签发国
 autofill-passport-number =
     .label = 护照号码
 # Heading shown above the passport issue date fields.
 autofill-passport-issue-date = 签发日期
 # Heading shown above the passport expiration date fields.
 autofill-passport-expiry-date = 有效期至
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = YYYY
 
 ## The passport capture doorhanger
 
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = 要保存护照信息吗？
+passport-capture-save-doorhanger-description = 将信息保存到 { -brand-short-name }，方便快速填写表单。
 # Accessible label for a passport date part input in the capture doorhanger.
 # The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
 # placeholder text rather than a visible label, so the accessible name combines
@@ -196,6 +217,12 @@ autofill-passport-expiry-date = 有效期至
 # (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
 # reorder them to match their locale.
 passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = 保存
+    .accessKey = S
+passport-capture-not-now-button =
+    .label = 暂时不要
+    .accessKey = w
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

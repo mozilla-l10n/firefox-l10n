@@ -336,7 +336,10 @@ aiwindow-ai-chat-grid-grid-view =
 
 aiwindow-starter-writing-first-draft = 撰写初稿
 aiwindow-starter-writing-improve = 润色文笔
+aiwindow-starter-writing-proofread = 核对消息
+aiwindow-starter-planning-simplify = 简化主题
 aiwindow-starter-planning-brainstorm = 集思广益
 aiwindow-starter-planning-plan = 帮助制定计划
 aiwindow-starter-browsing-history = 查找历史标签页
 aiwindow-starter-browsing-summarize = 生成标签页摘要
+aiwindow-starter-browsing-compare = 比较标签页

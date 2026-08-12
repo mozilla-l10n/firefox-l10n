@@ -53,6 +53,9 @@ fxa-menu-send-tab-to-device-description = 立即发送标签页到任何您登�
 fxa-menu-sign-out =
     .label = 退出登录…
 fxa-menu-sync-description = 让您个性化的网络体验随身相伴
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = 管理账户
 fxa-menu-sign-in-promo-button =
     .label = 登录
 # Card shown in the account menu when a previously signed-in account is
