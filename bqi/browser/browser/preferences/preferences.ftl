@@ -651,6 +651,7 @@ home-prefs-weather-learn-more-link = قلوه دووسته بۊین
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = لادرار { -brand-product-name }
+home-prefs-mission-message-learn-more-link = بجۊرین ک چتاور
 home-prefs-manage-topics-link = دؽوۉداری سرتالا
 home-prefs-choose-wallpaper-link = پسند شؽوات زمینه
 # Variables:
@@ -1046,6 +1047,10 @@ content-blocking-learn-more = قلوه دووسته بۊین
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = استاندارد
+    .accesskey = d
 enhanced-tracking-protection-setting-strict =
     .label = سخت گرووه
     .accesskey = r

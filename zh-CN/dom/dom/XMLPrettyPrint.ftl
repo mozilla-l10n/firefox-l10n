@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 xml-nostylesheet = 该 XML 文件并未包含任何关联的样式信息。文档树显示如下。
+xml-nostylesheet-xslt-disabled = 此文档无法正确格式化，因为它使用了 XSLT，而浏览器并不支持。您或许可以通过<a data-l10n-name="addons-link">安装一个浏览器扩展</a>来查看。
