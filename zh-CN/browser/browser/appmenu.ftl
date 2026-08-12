@@ -298,6 +298,8 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = 跨设备保持同步
 appmenu-sync-promo-signin-cta = 登录
 appmenu-sync-promo-turnonsync =
     .heading = 同步标签页和历史记录

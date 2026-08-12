@@ -171,6 +171,13 @@ autofill-card-network = 卡片类型
 # methods in their region.
 autofill-card-search-term-credit-cards = 信用卡, 贷记卡, 信用, 贷记, 卡, 银行卡, 借记卡, 借记, 钱包, 结账, 结算
 
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-number =
+    .label = 护照号码
+
 ## The passport capture doorhanger
 
 # Accessible label for a passport date part input in the capture doorhanger.

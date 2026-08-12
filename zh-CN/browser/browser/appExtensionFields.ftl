@@ -33,6 +33,8 @@ extension-nova-spark-name = 火花
 extension-nova-flame-name = 烈焰
 # Name for a bright pink theme. Refers to a burst of light or fire.
 extension-nova-flare-name = 耀光
+# Name for a soft purple theme. Refers to the lavender flower.
+extension-nova-lavender-name = 草紫
 # Name for a medium purple theme. Refers to the sky just after sunset.
 extension-nova-dusk-name = 暮紫
 # Name for a medium blue theme. Refers to a sheltered body of water.

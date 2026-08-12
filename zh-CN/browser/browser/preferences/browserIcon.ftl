@@ -6,6 +6,12 @@
 ### Preview strings for the custom browser-icon feature (Bug 2049877), which
 ### will show these strings in about:settings.
 
+# Entry in the Appearance pane (Windows only) that opens the browser-icon
+# subpage. The browser icon is the icon shown on the desktop, taskbar, and
+# Start Menu.
+appearance-browser-icon-entry-group =
+    .label = 浏览器图标
+    .description = 选择在任务栏、桌面和开始菜单显示的自定义图标。
 appearance-browser-icon-button =
     .label = 更改浏览器图标
 
@@ -15,3 +21,30 @@ appearance-browser-icon-button =
 
 appearance-browser-icon-subpage-title =
     .heading = 更多图标
+
+## Icons are organized into two groups: "Standard" and "Special". The icons in
+## the "Special" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-basic-group =
+    .label = 标准
+appearance-browser-icon-bonus-group =
+    .label = 特殊
+
+##
+
+appearance-browser-icon-pin-button =
+    .label = 固定到任务栏
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = 默认
+appearance-browser-icon-retro2004 =
+    .label = 怀旧 2004
+appearance-browser-icon-retro2017 =
+    .label = 怀旧 2017
+appearance-browser-icon-pride =
+    .label = 骄傲
+appearance-browser-icon-minimal =
+    .label = 极简

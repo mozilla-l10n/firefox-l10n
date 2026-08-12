@@ -364,6 +364,7 @@ newtab-topsites-add-shortcut-label = 添加快捷方式
 newtab-topsites-add-shortcut-title =
     .title = 添加快捷方式
     .aria-label = 添加快捷方式
+newtab-shortcuts-pinned-area = 固定区域
 newtab-topsites-title-label = 标题
 newtab-topsites-title-input =
     .placeholder = 输入标题
