@@ -176,3 +176,26 @@ action-log-searching-settings = Ezarpenak bilatzen
 action-log-searched-settings = Ezarpenak bilatuta
 action-log-searching-world-cup-matches = Munduko Kopako partidak bilatzen
 action-log-searched-world-cup-matches = Munduko Kopako partidak bilatuta
+action-log-checking-world-cup-live = Munduko Kopako zuzeneko partidak egiaztatzen
+action-log-checked-world-cup-live = Munduko Kopako zuzeneko partidak egiaztatuta
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Urrats bat burututa
+       *[other] { $count } urrats burututa
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Bilaketa-emaitzak fitxa honetan kargatuta. Analizatzen…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } gehiago
