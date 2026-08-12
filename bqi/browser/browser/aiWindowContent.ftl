@@ -108,6 +108,14 @@ smart-window-confirm-group-tabs =
         [one] بونکۊ کردن { $count } بلگه
        *[other] بونکۊ کردن { $count } بلگه
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = گۊشیڌن
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] گۊشیڌن { $count } بلگه
+       *[other] گۊشیڌن { $count } بلگه
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -116,6 +124,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } بلگه بونکۊ بندی وابیڌه
        *[other] { $count } بلگه بونکۊ بندی وابیڌه
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = بونکۊ بلگه
 smart-window-grouped-tabs-row-label = بلگه یل بونکۊ بندی وابیڌه
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = بلگه یل بونکۊ بندی نوابیڌه
