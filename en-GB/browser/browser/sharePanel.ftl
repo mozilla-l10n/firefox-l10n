@@ -7,28 +7,28 @@
 
 # Address bar button that opens the share panel.
 urlbar-share-button =
-    .aria-label = Tutu stronu dźělić
-    .tooltiptext = Tutu stronu dźělić
-share-panel-heading = Stronu dźělić
+    .tooltiptext = Share this page
+    .aria-label = Share this page
+share-panel-heading = Share Page
 share-panel-copy-link =
-    .label = Wotkaz kopěrować
+    .label = Copy link
 share-panel-os-share =
-    .label = Dźělić z…
+    .label = Share with…
 share-panel-mail =
-    .label = Mejlku pósłać
+    .label = Send email
 share-panel-screenshot =
-    .label = Foto wobrazowki činić
+    .label = Take a screenshot
 share-panel-qr-code =
-    .label = QR-kod dźělić
+    .label = Share QR code
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
-    .label = Na grat pósłać
+    .label = Send to device
 # This string is shown when the user has no other devices signed in to their account.
 # Clicking this will bring them to a place where they can connect other devices.
 share-panel-send-to-mobile =
-    .label = Na mobilny grat pósłać
+    .label = Send to mobile
 share-panel-device-subview =
-    .title = Wšě graty
+    .title = All Devices
 share-panel-os-share-subview =
-    .title = Dźělić z…
+    .title = Share With…
