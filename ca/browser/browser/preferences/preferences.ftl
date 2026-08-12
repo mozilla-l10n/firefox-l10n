@@ -355,6 +355,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Mostra la barra lateral
     .description = Accediu ràpidament a les adreces d'interès, a les pestanyes del telèfon, als bots de conversa d'IA i molt més sense sortir de la vista principal.
+page-navigation-group =
+    .label = Navegació de la pàgina
 browser-layout-header = Disposició del navegador
 browser-layout-horizontal-tabs =
     .label = Pestanyes horitzontals
@@ -500,6 +502,9 @@ browser-language-heading =
     .description = Trieu la llengua usada per a mostrar els menús, missatges i notificacions del { -brand-short-name }.
 browser-language-preferred-label =
     .label = Llengua preferida
+browser-language-fallback-label =
+    .label = Idioma alternatiu
+    .description = S'utilitza quan la localització de l'idioma preferit és incompleta.
 browser-language-install-error =
     .message = El { -brand-short-name } no ha pogut actualitzar les llengües. Comproveu que esteu connectat a Internet o torneu-ho a provar.
 translate-web-pages =
@@ -596,6 +601,12 @@ download-save-files-header =
     .label = Desa els fitxers a
 download-save-where-3 =
     .aria-label = Desa els fitxers a
+download-always-ask-where2 =
+    .label = Demana on desar els fitxers abans de baixar
+    .accesskey = A
+download-private-browsing-delete2 =
+    .label = Suprimeix les baixades de les finestres privades en tancar
+    .accesskey = D
 download-header = Baixades
 download-save-where = Desa els fitxers a
     .accesskey = s
@@ -703,6 +714,9 @@ applications-save-for-new-types2 =
 applications-ask-before-handling =
     .label = Demana si els fitxers s'han d'obrir o de desar
     .accesskey = a
+applications-ask-before-handling2 =
+    .label = Demana obrir o desar fitxers
+    .accesskey = A
 drm-group =
     .label = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 drm-content-header = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
@@ -720,6 +734,9 @@ update-history-2 =
     .accesskey = h
 update-application-installation =
     .label = Instal·lació
+update-application-auto-2 =
+    .label = Instal·la les actualitzacions automàticament (recomanat)
+    .accesskey = A
 update-history =
     .label = Mostra l'historial d'actualitzacions…
     .accesskey = h
@@ -727,6 +744,9 @@ update-application-allow-description = Actualitzacions del { -brand-short-name }
 update-application-auto =
     .label = Instal·la les actualitzacions automàticament (recomanat)
     .accesskey = a
+update-application-check-choose-2 =
+    .label = Comprova si hi ha actualitzacions, però tria quan instal·lar
+    .accesskey = C
 update-application-check-choose =
     .label = Cerca actualitzacions, però demana'm si vull instal·lar-les
     .accesskey = C
@@ -776,6 +796,8 @@ update-application-heading =
     .description = Les actualitzacions milloren la velocitat, l'estabilitat i la seguretat del { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = Notificacions
+update-application-updates-managed-by-os =
+    .message = Les actualitzacions són gestionades pel vostre sistema operatiu
 
 ## Firefox support
 
@@ -808,6 +830,10 @@ performance-default-content-process-count =
     .label = { $num } (per defecte)
 performance-group =
     .label = Rendiment
+performance-use-recommended-settings-checkbox-2 =
+    .label = Utilitza els paràmetres de rendiment recomanats
+    .description = Aquests ajustos s'adapten al vostre maquinari i sistema operatiu.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -817,6 +843,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Utilitza el desplaçament automàtic
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Navegació i desplaçament del teclat
+motion-and-link-group =
+    .label = Moviment i estil d'enllaços
 browsing-use-smooth-scrolling =
     .label = Utilitza el desplaçament suau
     .accesskey = s
@@ -838,6 +868,16 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Cerca el text en començar a teclejar
     .accesskey = x
+settings-keyboard-shortcuts-group =
+    .label = Dreceres de teclat
+    .description = Controleu com us moveu i interactueu amb el { -brand-short-name }.
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Personalitza les dreceres de teclat
+settings-media-group =
+    .label = Multimèdia
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Usa la imatge sobre imatge
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Activa els controls de vídeo d'imatge sobre imatge
     .accesskey = A
@@ -860,6 +900,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Més informació
 browsing-group =
     .label = Navegació
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accessibilitat
+preferences-default-zoom-select =
+    .aria-label = Zoom per defecte
+preferences-fonts-family =
+    .label = Família de la lletra
+    .accesskey = D
+preferences-fonts-size =
+    .label = Mida de la lletra
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Paràmetres avançats
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -1183,9 +1239,21 @@ containers-settings-button =
     .label = Paràmetres
 containers-remove-button =
     .label = Elimina
+containers-section-header2 =
+    .heading = Configuració del contenidor
+containers-card-header2 =
+    .label = Contenidors
+    .description = Separeu les galetes per contenidor per poder utilitzar diferents comptes en un mateix lloc i limitar el seguiment entre llocs.
+containers-add-button2 =
+    .label = Afegeix un contenidor nou
+    .accesskey = A
 containers-new-tab-check3 =
     .label = Selecciona un contenidor per a cada pestanya nova
     .accesskey = S
+containers-new-tab-check2 =
+    .label = Selecciona un contenidor per a cada pestanya nova
+    .accesskey = S
+    .description = Això obrirà el menú contenidors cada vegada que premeu el botó Obre una pestanya nova.
 containers-settings-button2 =
     .title = Paràmetres
 containers-remove-button3 =
@@ -1207,6 +1275,8 @@ account-placeholder2 =
     .description = Inicieu la sessió i mantingueu les vostres dades privades, xifrades i accessibles instantàniament arreu on useu el { -brand-short-name }
 account-sync-section =
     .heading = Compte i sincronització
+pane-account-sync-title2 = Compte i sincronització
+    .title = Compte i sincronització
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1528,6 +1598,7 @@ forms-primary-pw-use-2 =
     .accesskey = U
 forms-primary-pw-set =
     .label = Defineix la contrasenya principal
+forms-primary-pw-on-2 = La contrasenya principal està <strong>ACTIVADA</strong>
 forms-primary-pw-on =
     .label = La contrasenya principal està ACTIVADA
 forms-primary-pw-change-2 =
@@ -1561,6 +1632,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Més informació
 forms-windows-sso-desc = Gestioneu els comptes en els paràmetres del dispositiu
 windows-passkey-settings-label = Gestiona les claus d'accés en els paràmetres del sistema
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Configuració del panell de privacitat
+    .description = Obteniu ajuda per protegir la vostra informació en línia a { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Mostra els missatges de filtratge
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -1656,9 +1738,19 @@ passports-delete-passport-button-label =
     .aria-label = Suprimeix
 passports-edit-passport-button-label =
     .aria-label = Edita
+passports-delete-passport-prompt-title = Voleu suprimir aquest passaport?
 passports-delete-passport-prompt-confirm-button = Suprimeix
 passports-delete-passport-prompt-cancel-button = Cancel·la
 autofill-passports-add-button = Afegeix un passaport nou
+autofill-personal-info-manage-title =
+    .heading = Gestiona la informació personal
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = No s'han afegit passaports
+pane-passwords-autofill-title2 = Contrasenyes i emplenament automàtic
+    .title = Contrasenyes i emplenament automàtic
+preferences-passwords-autofill-header =
+    .heading = Contrasenyes i emplenament automàtic
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1723,6 +1815,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Paràmetres…
     .accesskey = t
+history-shutdown-exceptions =
+    .label = Gestiona les excepcions
+    .accesskey = x
 history-clear-button =
     .label = Esborra l'historial…
     .accesskey = s
@@ -2130,6 +2225,10 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permisos
     .description = Gestiona a què poden accedir, controlar o activar els llocs web.
+permissions-data-section =
+    .heading = Permisos i dades
+pane-permissions-data-title2 = Permisos i dades
+    .title = Permisos i dades
 
 ## Privacy Section - Data Collection
 
@@ -2180,6 +2279,12 @@ collection-backlogged-crash-reports2 =
     .label = Envia automàticament informes de fallada
     .accesskey = c
 collection-backlogged-crash-reports-description = Això ajuda a { -vendor-short-name } a diagnosticar i solucionar problemes del navegador. Els informes poden incloure dades personals o confidencials.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = La mateixa configuració, aparença nova!
+    .message = Hem reorganitzat aquesta pàgina perquè sigui més fàcil escanejar i explorar. La vostra configuració personal no ha canviat, i tot segueix aquí. Consell: utilitza la cerca per a saltar directament al que necessites.
+settings-redesign-promo-dismiss-button =
+    .label = Entesos
 addon-recommendations =
     .label = Permet que el { -brand-short-name } faci recomanacions personalitzades d'extensions
 addon-recommendations-link = Més informació
@@ -2372,8 +2477,79 @@ preferences-doh-exceptions-description = El { -brand-short-name } no utilitzarà
 preferences-doh-manage-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
+preferences-doh-overview-default =
+    .label = Protecció predeterminada
+    .description = Utilitza DNS segur en regions on està disponible.
+preferences-doh-overview-custom =
+    .label = Personalitzat
+    .description = Utilitzeu sempre DNS segurs amb control sobre el vostre proveïdor i el comportament alternatiu.
+preferences-doh-overview-off =
+    .label = Desactivat
+    .description = Utilitza el vostre sistema de resolució de DNS per defecte.
+preferences-doh-advanced-button =
+    .label = Paràmetres avançats
+preferences-doh-advanced-section =
+    .label = Paràmetres avançats
+    .description = El Sistema de noms de domini sobre HTTPS (DoH) xifra les cerques sobre llocs de manera que fa més difícil que el vostre proveïdor d'internet o altres puguin veure quins llocs webs visitareu.
+preferences-doh-manage-exceptions2 =
+    .label = Gestiona les excepcions
+    .accesskey = x
+preferences-doh-radio-default =
+    .label = Per defecte
+    .description = Utilitza el DNS segur en les regions on estigui disponible
+preferences-doh-radio-custom =
+    .label = Personalitzat
+    .description = Utilitzeu sempre DNS segurs amb control sobre el vostre proveïdor i el comportament alternatiu
+preferences-doh-radio-off =
+    .label = Desactivat
+    .description = Utilitza el vostre sistema de resolució de DNS per defecte
+preferences-doh-fallback-label =
+    .label = Avisa'm sempre si el DNS segur no està disponible
+preferences-doh-status-item-off =
+    .message = El DNS sobre HTTPS està desactivat
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = El DNS sobre HTTPS no funciona perquè hem trobat un error ({ $reason }) en intentar utilitzar el proveïdor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = El DNS sobre HTTPS no funciona perquè hem rebut un URL no vàlid ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS sobre HTTPS està utilitzant el proveïdor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = El DNS sobre HTTPS no funciona perquè hem trobat un error ({ $reason }) en intentar utilitzar el proveïdor local { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS sobre HTTPS utilitza el proveïdor local { $name }
+preferences-doh-select-resolver-label =
+    .label = Trieu el proveïdor:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Utilitza aquest proveïdor per a resoldre DNS a través d'HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Introduïu un URL de proveïdor personalitzat
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Connexió i seguretat del programari
+preferences-connection-link-section =
+    .label = Connexió i seguretat del programari
+    .description = Vegeu com les connexions es mantenen segures, es bloqueja el programari nociu i es verifiquen els llocs web.
+preferences-connection-link-button =
+    .label = Paràmetres avançats
 
 ## The following strings are used in the Download section of settings
 
@@ -2381,12 +2557,53 @@ desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
 choose-download-folder-title = Tria la carpeta de baixades:
 
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Aparença
+browser-theme-group =
+    .label = Tema del navegador
+    .description = Estilitzeu el { -brand-short-name } a la vostra manera. Els colors del tema s'apliquen a les barres d'eines, menús i missatges.
+browser-theme-manage-link =
+    .label = Gestiona els temes del { -brand-short-name }
+appearance-window-density-group =
+    .label = Densitat de la finestra
+    .description = Ajusta l'espaiat al voltant dels elements de la finestra com la barra d'eines, les pestanyes i la barra lateral.
+appearance-window-density-radio-group =
+    .aria-label = Densitat de la finestra
+appearance-window-density-automatic =
+    .label = Automàtic (predeterminat)
+    .description = L'espaiat estàndard, compacte o tàctil s'aplica automàticament
+appearance-window-density-automatic-no-touch =
+    .label = Automàtic (predeterminat)
+    .description = L'espaiat estàndard o compacte s'aplica automàticament
+appearance-window-density-standard =
+    .label = Estàndard
+    .description = Espaiat equilibrat per a la majoria de pantalles
+appearance-window-density-auto-touch-mode =
+    .label = Utilitza l'espaiat tàctil per al mode tauleta
+appearance-window-density-compact =
+    .label = Compacta
+    .description = Espaiat reduït per a pantalles més petites
+appearance-window-density-touch =
+    .label = Tàctil
+    .description = Elements de finestra i objectius de clic més grans, optimitzats per a pantalles tàctils
+related-settings-group =
+    .label = Paràmetres relacionats
+related-settings-home-link =
+    .label = Personalitza { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Personalitza la disposició del navegador
+
 ## AI controls page
 
+preferences-ai-controls-description = Sempre teniu una opció a { -brand-short-name }, incloent-hi si voleu utilitzar funcions millorades amb IA. Aviat arribaran més controls.
 preferences-ai-controls-block-ai-label = Bloca les millores basades en IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = El fet de blocar implica que no veureu millores d'IA noves o actuals al { -brand-short-name }, ni finestres emergents sobre elles. <a data-l10n-name="link">Obteniu més detalls</a> sobre què s'inclou i com controlar les funcions tradicionals d'aprenentatge automàtic, com ara suggeriments de cerca i recomanacions.
+preferences-ai-controls-blocked-message =
+    .message = Les millores noves i actuals de la IA estan bloquejades per defecte. Per a desbloquejar una característica específica, utilitzeu els controls següents.
 preferences-ai-controls-translations-control =
     .label = Traduccions
     .description = Navegueu sense problemes per la web en la vostra llengua preferida.
@@ -2406,9 +2623,18 @@ preferences-ai-controls-state-enabled =
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = Blocat
+preferences-ai-controls-state-description-before = Què signifiquen les opcions:
+preferences-ai-controls-state-description-available = <strong>Disponible:</strong> Veureu la funció i la podreu utilitzar.
+preferences-ai-controls-state-description-enabled = <strong>Activat:</strong> Heu optat per utilitzar la funció.
+preferences-ai-controls-state-description-blocked = <strong>Blocat</strong>: No veureu la funció ni la podreu utilitzar. Per a la IA en el dispositiu, s’eliminaran tots els models baixats.
+preferences-ai-controls-block-confirmation-heading = Voleu blocar les millores basades en IA?
+preferences-ai-controls-block-confirmation-features-start = Què es blocarà:
 preferences-ai-controls-block-confirmation-translations = Traduccions
 preferences-ai-controls-block-confirmation-pdfjs = Text alternatiu de la imatge al visor de PDF del { -brand-short-name }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Suggeriments de grups de pestanyes
+preferences-ai-controls-block-confirmation-key-points = Punts clau a les previsualitzacions dels enllaços
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Proveïdors de xat a la barra lateral
+preferences-ai-controls-block-confirmation-features-after = El bloqueig també afecta les extensions que utilitzen la IA proporcionada per { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Cancel·la
 preferences-ai-controls-block-confirmation-confirm =
@@ -2424,10 +2650,16 @@ security-privacy-status-problem-header = El { -brand-short-name } recomana algun
 security-privacy-status-ok-label = La protecció contra el seguiment millorada està activada
 security-privacy-status-problem-label = Hem trobat paràmetres que afecten la vostra protecció
 security-privacy-status-problem-helper-label = Mostra els problemes
+security-privacy-status-pending-trackers-label = S'està cercant quants elements de seguiment { -brand-short-name } s'han blocat durant l'últim mes
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Teniu <a data-l10n-name="strict-tracking-protection">protecció estricta</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Teniu <a data-l10n-name="custom-tracking-protection">protecció personalitzada</a>
 security-privacy-status-up-to-date-label = Teniu la versió més recent i segura del { -brand-short-name }
 security-privacy-status-update-needed-label = Hi ha disponible una nova versió del { -brand-short-name }.
 security-privacy-status-update-error-label = El { -brand-short-name } té problemes per actualitzar-se
 security-privacy-status-update-checking-label = El { -brand-short-name } està comprovant si hi ha actualitzacions
+security-privacy-status-update-needed-description = Actualitzeu per a les últimes actualitzacions de velocitat, estabilitat i seguretat.
 security-privacy-status-update-button-label =
     .label = Actualitza el { -brand-short-name }
 security-privacy-issue-card =
