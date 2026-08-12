@@ -98,6 +98,7 @@ aiwindow-firstrun-model-fast-label = 快速
 aiwindow-firstrun-model-fast-body = 迅捷回答
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = 快速：{ $shortName }
+aiwindow-firstrun-model-fast-body-v2 = 最适合日常快速对话
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -198,6 +199,8 @@ aiwindow-history-menu-settings = { -smart-window-brand-name }设置
 ## Fullpage top actions
 ## Labeled buttons shown at the top of the fullpage Smart Window.
 
+aiwindow-fullpage-new-chat =
+    .label = 开启新对话
 aiwindow-fullpage-chat-history =
     .label = 聊天记录
 # "More" is the label for a button that opens a menu of additional Smart Window
