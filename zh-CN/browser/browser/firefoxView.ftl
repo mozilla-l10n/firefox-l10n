@@ -64,6 +64,7 @@ firefoxview-tabpickup-network-offline-header = 请检查您的互联网连接
 firefoxview-tabpickup-network-offline-description = 若您正在使用防火墙或代理，请检查 { -brand-short-name } 是否有联网权限。
 firefoxview-tabpickup-network-offline-primarybutton = 重试
 firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } 目前无法连接
+firefoxview-tabpickup-network-offline-description-2 = 您可能已离线，或某些问题影响了连接。
 firefoxview-tabpickup-sync-error-header = 同步时遇到问题
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } 目前无法连接到同步服务，请稍后再试。
 # “Sync hit a snag” means that the sync process is having a problem and can’t connect.

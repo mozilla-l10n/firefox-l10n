@@ -62,9 +62,11 @@ ipprotection-summer-promo-offramp-generic-title = 您的内置 VPN 限制将于 
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = 您的内置 VPN 更强了
+ipprotection-summer-promo-offramp-default-browser-incentive-description = 将 { -brand-product-name } 设为默认浏览器，即可在 8 月 31 日之后使用额外 20 余个浏览位置。
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = 让 { -mozilla-vpn-brand-name } 升级
+ipprotection-summer-promo-offramp-subscription-upsell-description = 在 8 月 31 日之后，继续享受限带宽，并在 5 台设备上任意使用 300 多个位置，让您的浏览活动难觅踪迹。
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = 打开 VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = 设为默认

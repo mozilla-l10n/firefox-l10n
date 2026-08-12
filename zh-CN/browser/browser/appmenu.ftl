@@ -304,6 +304,9 @@ appmenu-sync-promo-signin-cta = 登录
 appmenu-sync-promo-turnonsync =
     .heading = 同步标签页和历史记录
 appmenu-sync-promo-turnonsync-cta = 开启同步
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = 获取移动设备上的标签页
 appmenu-sync-promo-connectdevice-cta = 连接设备
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = 书签随身带着走
@@ -393,6 +396,7 @@ appmenuitem-services-relay-description = 打开马甲邮箱面板
 appmenuitem-vpn-title2 = 使用 { -mozilla-vpn-brand-name } 隐藏真实位置
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in = 打开 { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description3 = 让您的浏览难觅踪迹
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 获取全方位设备保护
 appmenuitem-vpn-description = 保护在线活动
