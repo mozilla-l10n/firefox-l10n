@@ -38,6 +38,9 @@ felt-browser-error-sso-timeout2 =
 felt-browser-error-token-refresh-failed =
     .heading = Sei stato disconnesso
     .message = Accedi nuovamente o contatta il tuo amministratore per qualsiasi domanda.
+felt-browser-error-session-interrupted =
+    .heading = La sessione è stata interrotta
+    .message = Accedi nuovamente o contatta l’amministratore se il problema persiste.
 felt-browser-error-multiple-crashes2 =
     .heading = { -brand-short-name } si è bloccato più volte
 felt-browser-error-launch-failure =
@@ -62,6 +65,14 @@ felt-browser-error-connection2 =
     .heading = Impossibile connettersi. Contattare l’amministratore.
 felt-browser-error-no-network =
     .heading = Nessuna connessione di rete
+
+## Captive portal (network sign-in required before signing in to { -brand-short-name })
+
+felt-browser-error-captive-portal =
+    .heading = Accedi alla rete
+    .message = È necessario accedere a questa rete prima di poter utilizzare Internet. Se la pagina di accesso non si è già aperta, utilizza il pulsante qui sotto.
+felt-captive-portal-open-login =
+    .label = Apri la pagina di accesso alla rete
 
 ## Network error details.
 
