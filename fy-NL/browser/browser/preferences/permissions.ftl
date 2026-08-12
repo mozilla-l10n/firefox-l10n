@@ -156,7 +156,7 @@ permissions-site-notification-window2 =
 permissions-site-notification-desc = De folgjende websites hawwe frege oft se jo notifikaasjes stjoere meie. Jo kinne opjaan hokker websites jo notifikaasjes stjoere meie. Jo kinne ek nije fersiken foar it jaan fan tastimming hjirfoar blokkearje.
 permissions-site-notification-disable-label =
     .label = Nije fersiken foar it tastean fan notifikaasjes blokkearje
-permissions-site-notification-disable-desc = Dit soarget derfoar dat websites dy’t hjirboppe net fermeld wurde om tastimming foar it stjoeren fan notifikaasjes freegje. It blokkearjen fan notifikaasjes kin bepaalde funksjes fan websites fersteure.
+permissions-site-notification-disable-desc = Dit foarkomt dat websites dy’t hjirboppe net fermeld wurde, om tastimming foar it stjoeren fan notifikaasjes freegje. It blokkearjen fan notifikaasjes kin bepaalde funksjes fan websites fersteure.
 
 ## Site Permissions - Location
 
@@ -166,7 +166,7 @@ permissions-site-location-window2 =
 permissions-site-location-desc = De folgjende websites hawwe om tagong ta jo lokaasje frege. Jo kinne opjaan hokker websites jo lokaasje benaderje meie. Jo kinne ek nije fersiken om tagong ta jo lokaasje blokkearje.
 permissions-site-location-disable-label =
     .label = Nije fersiken om tagong ta jo lokaasje blokkearje
-permissions-site-location-disable-desc = Dit soarget derfoar dat websites dy’t hjirboppe net fermeld wurde om tastimming foar tagong ta jo lokaasje freegje. It blokkearjen fan tagong ta jo lokaasje kin bepaalde funksjes fan websites fersteure.
+permissions-site-location-disable-desc = Dit foarkomt dat websites dy’t hjirboppe net fermeld wurde, om tastimming foar tagong ta jo lokaasje freegje. It blokkearjen fan tagong ta jo lokaasje kin bepaalde funksjes fan websites fersteure.
 
 ## Site Permissions - Virtual Reality
 
@@ -186,7 +186,7 @@ permissions-site-camera-window2 =
 permissions-site-camera-desc = De folgjende websites hawwe om tagong ta jo kamera frege. Jo kinne opjaan hokker websites jo kamera benaderje meie. Jo kinne ek nije fersiken om tagong ta jo kamera blokkearje.
 permissions-site-camera-disable-label =
     .label = Nije fersiken om tagong ta jo kamera blokkearje
-permissions-site-camera-disable-desc = Dit soarget derfoar dat websites dy’t hjirboppe net fermeld wurde om tastimming foar tagong ta jo kamera freegje. It blokkearjen fan tagong ta jo kamera kin bepaalde funksjes fan websites fersteure.
+permissions-site-camera-disable-desc = Dit foarkomt dat websites dy’t hjirboppe net fermeld wurde, om tastimming foar tagong ta jo kamera freegje. It blokkearjen fan tagong ta jo kamera kin bepaalde funksjes fan websites fersteure.
 
 ## Site Permissions - Loopback network
 
@@ -216,7 +216,7 @@ permissions-site-microphone-window2 =
 permissions-site-microphone-desc = De folgjende websites hawwe om tagong ta jo mikrofoan frege. Jo kinne opjaan hokker websites jo kamera benaderje meie. Jo kinne ek nije fersiken om tagong ta jo mikrofoan blokkearje.
 permissions-site-microphone-disable-label =
     .label = Nije fersiken om tagong ta jo mikrofoan blokkearje
-permissions-site-microphone-disable-desc = Dit soarget derfoar dat websites dy’t hjirboppe net fermeld wurde om tastimming foar tagong ta jo mikrofoan freegje. It blokkearjen fan tagong ta jo mikrofoan kin bepaalde funksjes fan websites fersteure.
+permissions-site-microphone-disable-desc = Dit foarkomt dat websites dy’t hjirboppe net fermeld wurde, om tastimming foar tagong ta jo mikrofoan freegje. It blokkearjen fan tagong ta jo mikrofoan kin bepaalde funksjes fan websites fersteure.
 
 ## Site Permissions - Speaker
 ##
