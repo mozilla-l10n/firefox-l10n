@@ -103,6 +103,9 @@ appmenu-remote-tabs-unverified = Jūsu kontam nepieciešams apstiprinājums.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhronizēt tagad
 appmenuitem-fxa-sign-in = Pierakstieties { -brand-product-name }
 appmenuitem-fxa-manage-account = Pārvaldīt kontu
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Vienādo savus datus
 fxa-menu-add-device =
     .label = Pievienot ierīci
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
