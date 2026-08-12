@@ -97,6 +97,13 @@ action-log-checking-memories = Санҷиши ёддоштҳо
 action-log-checked-memories = Ёддоштҳои санҷидашуда
 action-log-searching-settings = Ҷустуҷӯ дар танзимот
 action-log-searched-settings = Ҷустуҷӯ дар танзимот иҷро шуд
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 қадам иҷро шуд
+       *[other] { $count } қадам иҷро шуданд
+    }
 
 ## Citations
 

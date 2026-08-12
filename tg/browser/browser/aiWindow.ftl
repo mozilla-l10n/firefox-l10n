@@ -44,6 +44,8 @@ aiwindow-input-cta-submit-label-search = Ҷустуҷӯ
 aiwindow-input-cta-submit-label-stop = Истодан
 aiwindow-input-cta-menu-label-chat = Пурсидан
 aiwindow-input-cta-menu-label-navigate = Ба сомона гузаред
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Ҷустуҷӯ ба воситаи «{ $searchEngineName }»
 aiwindow-input-cta-menu-label-search-with = Ҷустуҷӯ тавассути…
 aiwindow-input-cta-search-submenu-header = Ҷустуҷӯ
 
@@ -98,6 +100,10 @@ aiwindow-input-model-select-default-badge =
     .label = Пешфарз
     .title = Модели пешфарзии интихобшуда
 aiwindow-input-model-select-settings-link = Танзимоти намуна
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-checkbox-chats = Суҳбатҳо дар «{ -smart-window-brand-name }»
 
 ## Ask Toolbar Button
 
