@@ -183,7 +183,7 @@ options-local-mode-new-mapping = Dodaj nowe mapowanie lokalne
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Zaawansowane
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = Wyłącz pamięć podręczną HTTP (gdy otworzone są narzędzia)
+options-disable-http-cache-label = Wyłącz pamięć podręczną HTTP (gdy narzędzia są otwarte)
 options-disable-http-cache-tooltip =
     .title = Wyłącza pamięć podręczną dla żądań HTTP we wszystkich kartach, dla których narzędzia są otwarte. To ustawienie nie ma wpływu na wątki usługowe.
 # The label for checkbox that toggles JavaScript on or off

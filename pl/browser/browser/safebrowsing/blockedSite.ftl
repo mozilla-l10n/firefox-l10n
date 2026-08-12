@@ -27,7 +27,7 @@ safeb-blocked-phishing-page-error-desc-no-override = Strona „<span data-l10n-n
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-phishing-page-learn-more = Więcej informacji o stronach będącymi próbami oszustwa i złośliwym oprogramowaniu można znaleźć w witrynie <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-blocked-phishing-page-learn-more = Więcej informacji o stronach będących próbami oszustwa i złośliwym oprogramowaniu można znaleźć w witrynie <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

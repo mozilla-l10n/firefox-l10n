@@ -603,10 +603,15 @@ onboarding-refresh-gratitude-subtitle = Eskerrik asko { -brand-short-name } erab
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name }(e)n babespean zaude
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Aldatu leiho adimendun eta klasikoen artean noiznahi.
+
 ## Smart Window ToU modal
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = { -brand-product-name } erabilera-baldintzak
+smartwindow-existing-user-fx-tou-body = { -smart-window-brand-name } erabiltzeko, mesedez onartu <a data-l10n-name="terms_of_use">erabiltzeko baldintzak</a> eta eguneratutako <a data-l10n-name="privacy_notice">pribatutasun-oharra</a>.
 smartwindow-existing-user-fx-tou-accept = Onartu
 smartwindow-existing-user-fx-tou-go-back = Joan atzera
 
