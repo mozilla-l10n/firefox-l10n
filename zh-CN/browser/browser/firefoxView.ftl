@@ -50,6 +50,7 @@ firefoxview-tabpickup-synctabs-primarybutton-2 = 开启标签页同步
 firefoxview-syncedtabs-synctabs-header = 更新您的同步设置
 firefoxview-syncedtabs-synctabs-description = 要查看来自其他设备的标签页，您需要同步打开的标签页。
 firefoxview-syncedtabs-synctabs-header-2 = 标签页同步已关闭
+firefoxview-syncedtabs-synctabs-description-2 = 重新开启同步，即可获取您在其他设备上的所有标签页。
 firefoxview-syncedtabs-loading-header = 正在同步
 firefoxview-syncedtabs-loading-description = 完成后即可看到其他设备上打开的标签页，请稍后回来查看。
 firefoxview-syncedtabs-loading-header-2 = 正在获取标签页…

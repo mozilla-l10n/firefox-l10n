@@ -47,11 +47,11 @@ aiwindow-copy-table =
     .tooltiptext = 复制表格
 aiwindow-table-scroll-indicator = 滚动查看更多内容
 aiwindow-thumbs-up =
-    .aria-label = 分享好评
-    .tooltiptext = 分享好评
+    .aria-label = 点赞
+    .tooltiptext = 点赞
 aiwindow-thumbs-down =
-    .aria-label = 分享差评
-    .tooltiptext = 分享差评
+    .aria-label = 点踩
+    .tooltiptext = 点踩
 aiwindow-applied-memories-popover =
     .aria-label = 记忆面板
 aiwindow-applied-memories-list =
@@ -85,7 +85,9 @@ smartwindow-nl-undo-button =
 smart-window-closed-tabs-label = 已关闭 { $count } 个标签页
 smart-window-closed-tabs-summary = 完成！标签页已关闭。
 smart-window-closed-tabs-row-label = 已关闭标签页
+smart-window-closed-and-restored-label = 已关闭标签页，后又恢复
 smart-window-restored-row-label = 已恢复 { $count } 个标签页
+smart-window-restore-success-summary = 已关闭标签页，后又恢复。
 smart-window-cancelled-label = 请求已取消。
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = 创建群组
@@ -126,6 +128,9 @@ smart-window-switched-tab-label = 已切换标签页
 smart-window-switched-tab-summary = 已切换到“{ $title }”。
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = 已将标签页取消分组
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary = 已将 { $count } 个标签页创建群组，后又取消分组。
 smart-window-ungrouped-row-label = 已将 { $count } 个标签页取消分组
 
 ## Action log
