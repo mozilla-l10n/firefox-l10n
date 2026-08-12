@@ -162,6 +162,7 @@ appmenu-fxa-signed-in-label = و من ٱووڌن
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = سی هوم گوم کردن و من بیاین
+appmenu-fxa-sign-in-promo-message = داده یل خوتووݩ ز همه جا بگرین
 appmenu-fxa-sign-in-promo-button =
     .label = و من ٱووڌن
 appmenu-fxa-setup-sync =
@@ -291,6 +292,18 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = پیتینیڌن ویرگار
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = منجا دسگایل هوم گوم بۊوین
+appmenu-sync-promo-signin-cta = و من ٱووڌن
+appmenu-sync-promo-turnonsync =
+    .heading = هوم گوم کردن بلگه یل وو ویرگار ایسا
+appmenu-sync-promo-turnonsync-cta = رۊشن کردن هوم گوم کردن
 
 ## Help panel
 
