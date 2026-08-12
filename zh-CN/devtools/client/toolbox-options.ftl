@@ -76,6 +76,11 @@ options-webconsole-split-console-label = 启用分离式控制台
 options-webconsole-split-console-tooltip =
     .title = 使用 ESC 键打开分离式控制台
 
+## Network Monitor section
+
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = 无限制
+
 ## Style Editor section
 
 # The heading

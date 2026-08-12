@@ -33,6 +33,8 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+appearance-browser-icon-set-default-button =
+    .label = 设为默认浏览器
 appearance-browser-icon-pin-button =
     .label = 固定到任务栏
 
@@ -48,3 +50,13 @@ appearance-browser-icon-pride =
     .label = 骄傲
 appearance-browser-icon-minimal =
     .label = 极简
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Kit
+appearance-browser-icon-pixelated =
+    .label = 像素风
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Momo
+    .description = 由 @heyheymomodraws 创作

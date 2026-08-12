@@ -78,7 +78,7 @@ abuse-report-broken-suggestions-extension = It liket as oft jo in bug fûn hawwe
 abuse-report-broken-suggestions-sitepermission =
     It klinkt as oft jo in bug fûn hawwe. Neist it hjir yntsjinjen fan in rapport, is de bêste manier
     om in funksjoneel probleem op te lossen, kontakt op te nimmen mei de website-ûntwikkeler.
-    <a data-l10n-name="support-link">Besykje de website fan it tema</a> foar ynformaasje oer de ûntwikkeler.
+    <a data-l10n-name="support-link">Besykje de website</a> foar ynformaasje oer de ûntwikkeler.
 abuse-report-broken-suggestions-theme =
     It klinkt as oft jo in bug fûn hawwe. Neist it hjir yntsjinjen fan in rapport, is de bêste manier
     om in funksjoneel probleem op te lossen, kontakt op te nimmen mei de ûntwikkeler fan it tema.

@@ -420,7 +420,7 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Sykmasine tafoegje
 newtab-topsites-add-shortcut-header = Nije fluchkeppeling
-newtab-topsites-edit-topsites-header = Topwebsite tafoegje
+newtab-topsites-edit-topsites-header = Topwebsite bewurkje
 newtab-topsites-edit-shortcut-header = Fluchkeppeling bewurkje
 newtab-topsites-add-shortcut-label = Fluchkeppeling tafoegje
 newtab-topsites-add-shortcut-title =

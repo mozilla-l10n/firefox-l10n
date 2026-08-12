@@ -31,6 +31,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = 暂时不要
     .accessKey = N
+address-capture-never-save-button =
+    .label = 永不保存
+    .accessKey = v
 address-capture-cancel-button =
     .label = 取消
     .accessKey = C
@@ -175,8 +178,14 @@ autofill-card-search-term-credit-cards = 信用卡, 贷记卡, 信用, 贷记, �
 ## passport management dialog. The labels are exposed as a .label attribute so
 ## they can be assigned directly to moz-input-text and moz-select fields.
 
+autofill-passport-name =
+    .label = 姓名
 autofill-passport-number =
     .label = 护照号码
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = 签发日期
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = 有效期至
 
 ## The passport capture doorhanger
 

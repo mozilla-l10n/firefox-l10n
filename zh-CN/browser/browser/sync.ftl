@@ -53,6 +53,17 @@ fxa-menu-send-tab-to-device-description = 立即发送标签页到任何您登�
 fxa-menu-sign-out =
     .label = 退出登录…
 fxa-menu-sync-description = 让您个性化的网络体验随身相伴
+fxa-menu-sign-in-promo-button =
+    .label = 登录
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = 登录
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = 您已退出登录
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = 完成设置
 fxa-avatar-sign-in = 登录
 fxa-avatar-sign-up = 注册
 fxa-avatar-tooltip =

@@ -56,6 +56,8 @@ ipprotection-feature-introduction-button-get-started = 开始使用
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = 您的内置 VPN 限制将于 9 月 1 日重置
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = 打开 VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = 设为默认

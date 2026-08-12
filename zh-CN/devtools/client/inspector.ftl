@@ -20,3 +20,7 @@ colorpicker-tooltip-hue-slider-title = 色调
 colorpicker-tooltip-alpha-slider-title = 不透明度
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = 特定元素伪类
+inspector-emulation-panel-color-scheme = 配色方案模拟
+# A label text for the print emulation options
+inspector-emulation-panel-print = 启用
+    .aria-label = 启用打印媒体模拟
