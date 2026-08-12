@@ -1475,6 +1475,11 @@ private-browsing-indicator-label = گشتن سیخومی
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = گشتن سیخومی
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = دووسمندیا گشتن سیخومی
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = ایسا من ی نیمدری سیخومی هڌین
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1523,6 +1528,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = دیندا نشست سیخومی
     .tooltiptext = دیندا نشست سیخومی
+reset-pbm-panel-heading2 = اخۊین داده یل ن برۊفنین وو بنین پا ی نشست سیخومی نۊ؟
 reset-pbm-panel-heading = اخۊین نشست سیخومی خوتووݩ ن تموم کۊنین؟
 reset-pbm-panel-description = پوی بلگه یل سیخومی بسته وابیڌه وو ویرگار وو کۊکیا وو داده پوی وبگه یل دی پاک ابۊن.
 reset-pbm-panel-always-ask-checkbox =
