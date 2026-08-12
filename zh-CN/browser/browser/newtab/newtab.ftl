@@ -199,6 +199,7 @@ newtab-privacy-message-info-2 = 拦截跟踪器有助于阻止大公司在网络
 newtab-privacy-message-info-3 = 许多网站都藏有跟踪器，使得您未曾打过交道的公司也可以在网络上跟踪您。
 newtab-privacy-message-info-4 = 选择 { -brand-short-name }，即是选择无需您费心的保护功能。
 newtab-privacy-message-info-5 = 拦截跟踪器后，大公司将更难跨网站跟踪您。
+newtab-privacy-message-info-6 = 用 { -brand-short-name } 守护您的数据。我们绝不会出售您的数据，无论其他浏览器作何选择。
 newtab-privacy-message-info-6-cta = 详细了解
 newtab-privacy-message-info-7 = 看看 { -brand-short-name } 拦截了哪些跟踪器。
 newtab-privacy-message-info-8 = 使用 { -brand-short-name } 浏览，即是在支持 { -vendor-short-name } 的使命：建设更好的网络。
