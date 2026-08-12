@@ -20,7 +20,24 @@ colorpicker-tooltip-hue-slider-title = 色调
 colorpicker-tooltip-alpha-slider-title = 不透明度
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = 特定元素伪类
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = 切换页面的深色配色方案模拟
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = 切换 CSS 模拟功能
+    .aria-label = 切换 CSS 模拟功能
 inspector-emulation-panel-color-scheme = 配色方案模拟
 # A label text for the print emulation options
 inspector-emulation-panel-print = 启用
     .aria-label = 启用打印媒体模拟
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = 浅色
+    .aria-label = 启用浅色方案模拟
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = 深色
+    .aria-label = 启用深色方案模拟
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = 不模拟
+    .aria-label = 禁用配色方案模拟
