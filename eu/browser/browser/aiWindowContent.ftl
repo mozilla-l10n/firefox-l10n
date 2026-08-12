@@ -65,3 +65,114 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Saiatu berriro
+smartwindow-nl-retry-message = Fitxak itxi nahi badituzu halere, aukeratu <strong>Saiatu berriro</strong> eta egizu hautapena irekitzen den txartelean.
+smartwindow-nl-retry-group-tabs-message = Fitxak taldekatu nahi badituzu halere, aukeratu <strong>Saiatu berriro</strong> eta hautatu zeintzuk irekitzen den txartelean.
+smartwindow-nl-thinking = Bat datozen fitxen bila…
+smartwindow-loading-assistant-response =
+    .aria-label = Laguntzailearen erantzuna kargatzen
+smartwindow-nl-undo-button =
+    .label = Desegin
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] Fitxa { $count } itxita
+       *[other] { $count } fitxa itxita
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Eginda! Fitxa itxita.
+       *[other] Eginda! Fitxak itxita.
+    }
+smart-window-cancelled-label = Eskaera bertan behera utzita.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Taldekatu
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Taldekatu fitxa { $count }
+       *[other] Taldekatu { $count } fitxa
+    }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Ireki
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Ireki fitxa { $count }
+       *[other] Ireki { $count } fitxa
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Fitxa { $count } taldekatuta
+       *[other] { $count } fitxa taldekatuta
+    }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Fitxa-taldea
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] "{ $label }" fitxa-taldea sortuta eta fitxa { $count } gehituta.
+       *[other] "{ $label }" fitxa-taldea sortuta eta { $count } fitxa gehituta.
+    }
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Fitxa { $count } irekita
+       *[other] { $count } fitxa irekita
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Fitxa { $count } irekita.
+       *[other] { $count } fitxa irekita.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] "{ $label }" fitxa-taldea sortuta eta fitxa { $count } irekita.
+       *[other] "{ $label }" fitxa-taldea sortuta eta { $count } fitxa irekita.
+    }
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = "{ $title }" fitxara aldatuta.
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Fitxak destaldekatuta
+
+## Action log
+
+action-log-searching-tabs = Fitxak bilatzen
+action-log-searched-open-tabs = Irekitako fitxak bilatuta
+action-log-searching-history = Historia bilatzen
+action-log-searched-history = Historia bilatuta
+action-log-reading-page = Orria irakurtzen
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Orriaren edukia irakurrita
+action-log-searching-web = Webean bilatzen
+action-log-searched-web = Webean bilatuta
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Webean bilatzen <a data-l10n-name="exa-link">Exa</a> erabiliz
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Webean bilatuta <a data-l10n-name="exa-link">Exa</a> erabiliz
+action-log-checking-memories = Memoriak egiaztatzen
+action-log-checked-memories = Memoriak egiaztatuta
+action-log-searching-settings = Ezarpenak bilatzen
+action-log-searched-settings = Ezarpenak bilatuta
+action-log-searching-world-cup-matches = Munduko Kopako partidak bilatzen
+action-log-searched-world-cup-matches = Munduko Kopako partidak bilatuta
