@@ -49,6 +49,8 @@ sidebar-context-menu-remove-extension =
     .label = Izņemt paplašinājumu
 sidebar-context-menu-report-extension =
     .label = Ziņot par paplašinājumu
+sidebar-context-menu-customize-sidebar =
+    .label = Pielāgot sānjoslu
 
 ## Labels for sidebar menu items.
 
@@ -71,6 +73,10 @@ sidebar-menu-history-header =
     .heading = Vēsture
 sidebar-menu-syncedtabs-header =
     .heading = Cilnes no citām ierīcēm
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Pielāgot sānjoslu
 
 ## Context for closing synced tabs when hovering over the items
 

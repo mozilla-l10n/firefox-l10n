@@ -77,6 +77,10 @@ taskbar-tabs-value-prop-callout-title = Pievienot šo saiti uzdevumjoslai
 sidebar-button-callout-title = Sānjoslā rādīt ciļņu virsrakstus
 sidebar-button-callout-subtitle = Sānjoslas poga ir izmantojama, lai izvērstu sānjoslu, lai varētu redzēt ciļņu virsrakstus.
 
+## Sidebar Onboarding Strings
+
+sidebar-customization-callout-callout-button = Pielāgot sānjoslu
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Palīdziet uzlabot { -brand-short-name }

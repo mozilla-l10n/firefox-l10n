@@ -67,6 +67,8 @@ category-privacy =
 pane-sync-title3 = Sinhronizēšana
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-accessibility-title = Piekļūstamība
+    .title = { pane-accessibility-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 pane-experimental-title = { -brand-short-name } eksperimenti
@@ -622,6 +624,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Meklēt rakstīto tekstu, kolīdz es sāku rakstīt
     .accesskey = m
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Pielāgot īsinājumtaustiņus
 browsing-picture-in-picture-toggle-enabled =
     .label = Ieslēgt attēls-attēlā video vadīklas
     .accesskey = e
@@ -639,6 +643,11 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Uzzināt vairāk
 browsing-group =
     .label = Pārlūkošana
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Piekļūstamība
 
 ## General Section - Proxy
 
@@ -1192,6 +1201,8 @@ history-remember-label = { -brand-short-name }
     .accesskey = v
 history-remember-option-all =
     .label = Atcerēsies vēsturi
+history-remember-option-custom2 =
+    .label = Pielāgot vēsturi
 history-remember-option-never =
     .label = Nekad neatcerēsies vēsturi
 history-remember-option-custom =
@@ -1222,6 +1233,9 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Notīrīt vēsturi…
     .accesskey = v
+history-custom-section-header =
+    .label = Paplašinātie iestatījumi
+    .description = Pielāgo, ko vēlies, lai { -brand-short-name } atcerētos, kad aizver pārlūku.
 history-group =
     .label = Vēsture
 
@@ -1666,6 +1680,15 @@ desktop-folder-name = Darbvirsma
 downloads-folder-name = Lejupielādes
 choose-download-folder-title = Izvēlieties lejupielāžu mapi:
 
+## Appearance page
+
+related-settings-accessibility-link =
+    .label = Tālummaiņa un fonta iestatījumi ir pielāgojami sadaļā “Piekļūstamība”
+related-settings-home-link =
+    .label = Pielāgot { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = Pielāgot pārlūka izkārtojumu
+
 ## AI controls page
 
 preferences-ai-controls-block-ai-label = Liegt MI uzlabojumus
@@ -1675,6 +1698,10 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-customize-button =
+    .label = Pielāgot aizsardzību pret izsekošanu
+preferences-etp-customize-header =
+    .heading = Pielāgot aizsardzību pret izsekošanu
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Atļaut visas sīkdatnes
 preferences-etp-custom-cookie-behavior-block-cross-site-cookies =

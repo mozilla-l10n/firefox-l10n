@@ -124,7 +124,7 @@ policy-PromptForDownloadLocation = Lejuplādējot vaicāt, kur saglabāt datnes.
 policy-Proxy = Konfigurē starpniekservera iestatījumus.
 policy-RequestedLocales = Iestatiet pieejamo valodu sarakstu prioritātes secībā.
 policy-SanitizeOnShutdown2 = Izslēdzot notīrīt navigācijas datus.
-policy-SearchBar = Iestata noklusēto meklēšanas joslas atrašanos. Šis joprojām ļauj lietotājam to mainīt.
+policy-SearchBar = Iestata noklusējuma meklēšanas joslas atrašanās vietu. Lietotājam joprojām ir ļauts to pielāgot.
 policy-SearchEngines = Konfigurē meklētāju iestatījumus. Šī politika ir pieejama vienīgi pagarinātā atbalsta laidienos (ESR).
 policy-SearchSuggestEnabled = Ieslēgt vai izslēgt meklēšanas ieteikumus.
 # For more information, see https://wikipedia.org/wiki/PKCS_11

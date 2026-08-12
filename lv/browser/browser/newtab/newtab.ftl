@@ -8,6 +8,13 @@
 newtab-page-title = Jauna cilne
 newtab-settings-button =
     .title = Pielāgojiet jaunās cilnes lapu
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
+newtab-customize-panel-icon-button =
+    .title = Pielāgot šo lapu
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
+newtab-customize-panel-icon-button-label = Pielāgot
+newtab-customize-panel-label =
+    .label = Pielāgot
 newtab-personalize-settings-icon-label =
     .title = Personalizēt jauno cilni
     .aria-label = Iestatījumi
