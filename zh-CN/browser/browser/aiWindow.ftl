@@ -124,12 +124,12 @@ aiwindow-input-model-select-button-label-fast = 快速
 aiwindow-input-model-select-button-label-allpurpose = 灵活
 aiwindow-input-model-select-button-label-personal = 个人化
 aiwindow-input-model-select-button-label-custom = 自定义
-aiwindow-input-model-select-button-description-custom = 自行选择大语言模型
+aiwindow-input-model-select-button-description-custom = 使用您自己的大语言模型
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
-aiwindow-input-model-select-menu-item-description-custom = 自行选择大语言模型
+aiwindow-input-model-select-menu-item-description-custom = 使用您自己的大语言模型
 aiwindow-input-model-select-default-badge =
     .label = 默认
     .title = 已选择的默认模型
