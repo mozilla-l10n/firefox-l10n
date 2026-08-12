@@ -8,3 +8,10 @@ about-logging-set-log-file = Iestatīt reģistrēšanas failu
 about-logging-set-log-modules = Iestatīt reģistrēšanas moduli
 about-logging-start-logging = Sākt reģistrēšanu
 about-logging-stop-logging = Pārtraukt reģistrēšanu
+
+## Uploaded Profiles section
+
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Vai tiešām izdzēst profilu “{ $profileName }”? Tas ir neatgriezeniski.

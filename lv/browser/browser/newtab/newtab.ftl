@@ -165,7 +165,7 @@ newtab-topsites-add-button = Pievienot
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = Vai tiešām vēlaties dzēst visas šīs lapas versijas no jūsu vēstures?
+newtab-confirm-delete-history-p1 = Vai tiešām izdzēst no vēstures visas šīs lapas versijas?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Šī ir neatgriezeniska darbība.
 
@@ -595,6 +595,7 @@ newtab-section-block-topic =
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Ne tagad
+newtab-section-confirm-block-topic-p1 = Vai tiešām liegt šo tēmu?
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Liegt { $topic }

@@ -35,3 +35,4 @@ fxa-menu-send-tab-to-device-description = Uzreiz nosūtīt cilni uz jebkuru ier�
 fxa-menu-sign-out =
     .label = Izrakstīties...
 fxa-menu-sync-description = Piekļūstiet savam tīmeklim no jebkuras vietas
+sync-setup-verify-heading = Vai tiešām pieteikties, lai vienādotu?

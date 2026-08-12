@@ -5,6 +5,7 @@
 
 ## Added shortcuts:
 
+customkeys-reset-all-confirm = Vai  tiešām atiestatīt visus īsinājumtaustiņus uz noklusējumu?
 customkeys-view-add-split-view = Pievienot sadalīto skatu
 customkeys-shortcut-unassigned =
     .placeholder = Pievienot īsceļu

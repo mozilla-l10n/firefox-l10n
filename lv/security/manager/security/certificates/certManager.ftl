@@ -116,6 +116,7 @@ delete-user-cert-title =
     .title = Dzēst savus sertifikātus
 delete-user-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šos sertifikātus?
 delete-user-cert-impact = Ja izdzēsīsiet vienu no saviem sertifikātiem, vairs nevarēsiet to izmantot sevis identificēšanai tīmeklī.
+delete-ssl-override-confirm = Vai tiešām izdzēst šo servera izņēmumu?
 delete-ca-cert-title =
     .title = Dzēst CA sertifikātus
 delete-ca-cert-confirm = Tu izvēlējies izdzēst šos CA sertifikātus. Tiks noņemta visa Iebūvēto sertifikātu uzticamība, kam ir tāda pati iedarbība. Vai tiešām izdzēst sertifikātus vai atsaukt to uzticamību?

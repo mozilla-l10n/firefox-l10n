@@ -837,6 +837,7 @@ search-keyword-warning-title = Šāds atslēgas vārds jau tiek izmantots
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Jūs izvēlējāties atslēgas vārdu, ko šobrīd jau izmanto "{ $name }". Lūdzu, izvēlieties citu.
 search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau izmanto kāda grāmatzīme. Lūdzu, izvēlieties citu.
+remove-engine-confirmation = Vai tiešām noņemt šo meklētāju?
 remove-addon-engine-alert = Lai noņemtu šo meklētāju, jānoņem saistītais papildinājums.
 search-engine-group =
     .label = Noklusējuma meklētājs
@@ -1381,6 +1382,7 @@ content-blocking-etp-standard-tcp-title = Ietver Totālu Sīkdatņu Aizsardzību
 content-blocking-warning-title = Uzmanību!
 content-blocking-and-isolating-etp-warning-description-2 = Šī iestatījuma dēļ dažas vietnes var nerādīt saturu vai nedarboties pareizi. Ja šķiet, ka vietne ir salauzta, iespējams, vēlēsities šai vietnei izslēgt izsekošanas aizsardzību, lai ielādētu visu saturu.
 content-blocking-warning-learn-how = Uzziniet kā
+content-blocking-baseline-uncheck-warning-dialog-title = Vai tiešām izslēgt labojumus?
 content-blocking-reload-description = Lai šīs izmaiņas stātos spēkā, jums būs jāpārlādē cilnes.
 content-blocking-reload-tabs-button =
     .label = Pārlādēt visas cilnes
@@ -1677,3 +1679,9 @@ preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
     .label = Liegt visas starpvietņu sīkdatnes (var izraisīt tīmekļvietņu salūšanu)
 preferences-etp-custom-cookie-behavior-block-all =
     .label = Liegt visas sīkdatnes (izraisīs tīmekļvietņu salūšanu)
+
+## Warnings section
+
+security-privacy-issue-warning-safe-browsing =
+    .label = Bīstams un maldinošs saturs netiek aizturēts
+    .description = Palielinās iespējamība vietnēs kļūt par krāpniecības un ļaunatūras upuri.
