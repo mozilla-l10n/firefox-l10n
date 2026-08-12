@@ -33,7 +33,7 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> hat gjin effekt
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it gjin inline of table-cell-elemint is.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::first-line-pseudo-eleminten
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::first-letter-pseudo-eleminten
-inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::placeholder-pseudo-elementen.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::placeholder-pseudo-eleminten.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it in werjefte fan <strong>{ $display }</strong> hat.
 inactive-css-not-display-block-on-floated = De wearde <strong>display</strong> is troch de engine yn <strong>block</strong> wizige, omdat it elemint <strong>floated</strong> is.
 inactive-css-not-display-block-on-floated-2 = De wearde <strong>display</strong> is troch de engine yn <strong>{ $display }</strong> wizige, omdat it elemint <strong>floated</strong> is.
@@ -67,7 +67,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> hat gjin effekt op di
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> wurdt net stipe op markearre pseudo-eleminten.
-inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::cue-pseudo-elementen.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::cue-pseudo-eleminten.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> wurdt net stipe yn de folgjende browsers <strong>@position-try</strong>-regels:
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.

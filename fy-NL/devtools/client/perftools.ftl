@@ -174,7 +174,7 @@ perftools-presets-media-description2 = Foarynstelling foar it ûndersykjen fan a
 perftools-presets-ml-label = Masinaal leare
 perftools-presets-ml-description2 = Foarynstelling foar it ûndersykjen fan masineoersettingsbugs yn { -brand-shorter-name }.
 perftools-presets-networking-label = Netwurk
-perftools-presets-networking-description = Foarynstelling foar it ûndersykjen fan netwerkbugs yn { -brand-shorter-name }.
+perftools-presets-networking-description = Foarynstelling foar it ûndersykjen fan netwurkbugs yn { -brand-shorter-name }.
 perftools-presets-networking-with-logs-label = Netwurken mei lochboeken
 perftools-presets-networking-with-logs-description = Foarynstelling foar it ûndersykjen fan netwurkbugs yn { -brand-shorter-name }, ynklusyf netwurklochboeken. Dizze lochboeken kinne gefoelige ynformaasje befetsje, lykas de URL’s dy’t jo besykje
 # "Power" is used in the sense of energy (electricity used by the computer).

@@ -65,7 +65,7 @@ abuse-report-damage-example = Foarbyld: hat malware ynjektearre of gegevens stel
 abuse-report-spam-reason-v2 = It befettet spam of foeget net winske advertinsjes ta
 abuse-report-spam-example = Foarbyld: foeget advertinsjes ta oan websiden
 abuse-report-settings-reason-v2 = It hat sûnder dit te melden of te freegjen myn sykmasine, startside of nije ljepblêd wizige
-abuse-report-settings-suggestions = Eardat jo de útwreiding meldt, kinne jo probearje jo ynstellingen te wizigjen:
+abuse-report-settings-suggestions = Eardat jo de útwreiding melde, kinne jo probearje jo ynstellingen te wizigjen:
 abuse-report-settings-suggestions-search = Jo standert sykynstellingen wizigje
 abuse-report-settings-suggestions-homepage = Jo startside en nij ljepblêd wizigje
 abuse-report-deceptive-reason-v2 = It docht him foar as wat oars
@@ -85,7 +85,7 @@ abuse-report-broken-suggestions-theme =
     <a data-l10n-name="support-link">Besykje de website fan it tema</a> foar ynformaasje oer de ûntwikkeler.
 abuse-report-policy-reason-v2 = It befettet haatdragende, gewelddiedige of yllegale ynhâld
 abuse-report-policy-suggestions =
-    Opmerking: problemen mei auteursrjochten en hannelsmerken moatte yn in ôfsûnderlik proses melden wurde.
+    Opmerking: problemen mei auteursrjochten en hannelsmerken moatte yn in ôfsûnderlik proses meld wurde.
     <a data-l10n-name="report-infringement-link">Folgje dizze ynstruksjes</a> om it probleem te melden.
 abuse-report-unwanted-reason-v2 = Ik haw it nea wold en wit net hoe’t ik der fan ôf komme moat
 abuse-report-unwanted-example = Foarbyld: in tapassing hat dizze sûnder myn tastimming ynstallearre
