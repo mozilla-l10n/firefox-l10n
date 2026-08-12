@@ -43,6 +43,16 @@ url-classifier-content-classifier-url = 网址
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = 结果
 url-classifier-content-classifier-pbm = 隐私浏览
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = 功能
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = 匹配
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = 例外
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = 重要
 url-classifier-debug-title = 调试
 url-classifier-debug-module-btn = 设置日志模块
 url-classifier-debug-file-btn = 设置日志文件

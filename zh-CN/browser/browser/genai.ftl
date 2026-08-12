@@ -51,7 +51,7 @@ genai-menu-ask-generic =
     .label = 询问 AI 聊天机器人
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
-    .label = 询问 { $provider }
+    .label = 询问 { $provider }
 genai-menu-open-generic =
     .label = 打开 AI 聊天机器人
 # $provider (string) - name of the provider
@@ -66,7 +66,7 @@ genai-menu-remove-sidebar =
     .label = 从侧栏移除
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
-    .aria-label = 询问 { $provider }
+    .aria-label = 询问 { $provider }
 genai-menu-new-badge = 新
 genai-menu-summarize-page = 生成页面摘要
 genai-input-ask-smart-window =
@@ -75,7 +75,7 @@ genai-input-ask-generic =
     .placeholder = 询问 AI 聊天机器人…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
-    .placeholder = 询问 { $provider }…
+    .placeholder = 询问 { $provider }…
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning-generic =
@@ -96,7 +96,7 @@ genai-menu-ask-generic-2 =
     .accesskey = h
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
-    .label = 询问 { $provider }
+    .label = 询问 { $provider }
     .accesskey = h
 genai-menu-no-provider-2 =
     .label = 询问 AI 聊天机器人
