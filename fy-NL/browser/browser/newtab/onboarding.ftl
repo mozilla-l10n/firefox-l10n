@@ -468,7 +468,7 @@ tab-groups-onboarding-saved-groups-title-3 = Wannear’t jo in ljepblêdgroep sl
 tab-groups-onboarding-saved-groups-title-2 = Wannear’t jo in ljepblêdgroep slute, kinne jo dizze hjir altyd opnij iepenje.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Fyn jo sletten groepen troch dernei te sykjen yn de adresbalke.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-session-restore-title-2 = Jo kinne jo ljepblêdgroepen op elk winske momint opnij iepenje fan it menu Alle tabbladtitels toane út.
+tab-groups-onboarding-session-restore-title-2 = Jo kinne jo ljepblêdgroepen op elk winske momint opnij iepenje fan it menu Alle ljepblêdtitels toane út.
 tab-groups-onboarding-session-restore-title = Iepenje hjir altyd jo ljepblêdgroepen.
 tab-groups-onboarding-dismiss = OK
 

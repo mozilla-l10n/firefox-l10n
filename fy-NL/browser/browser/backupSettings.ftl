@@ -237,7 +237,7 @@ backup-file-other-browser-restore-step-1 = { -brand-short-name } downloade en yn
 backup-file-download-moz-browser-button = Downloade
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
-backup-file-other-browser-restore-step-2 = Start { -brand-short-name }, iepenje it tapassingsmenu ☰ en gean nei Ynstellingen > Synchronisaasje
+backup-file-other-browser-restore-step-2 = Start { -brand-short-name }, iepenje it tapassingsmenu ☰ en gean nei Ynstellingen > Syngronisaasje
 backup-file-other-browser-restore-step-3-1 = Klik op ‘Jo gegevens werstelle’ en selektearje dit bestân
 backup-file-other-browser-restore-step-4 = Start { -brand-short-name } opnij as dêrom frege wurdt
 

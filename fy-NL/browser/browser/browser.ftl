@@ -1802,7 +1802,7 @@ trustpanel-privacy-link = Privacyynstellingen
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Cookies en websitegegevens wiskje foar { $host }
-trustpanel-clear-cookies-description = It fuortsmiten fan cookies en websitegegevens kin jo by websites ôfmelde en winkelweinen wiskje.
+trustpanel-clear-cookies-description = It fuortsmiten fan cookies en websitegegevens kin jo by websites ôfmelde en winkelweintsjes leech meitsje.
 trustpanel-clear-cookies-subview-button-clear = Wiskje
 trustpanel-clear-cookies-subview-button-cancel = Annulearje
 # Variables

@@ -315,7 +315,7 @@ launch-on-login-autostart-infobar-turn-off-button = Utskeakelje
 ## Shown as a spotlight message when the user closes the browser, offering to set
 ## { -brand-short-name } to launch when the computer starts up.
 
-launch-on-login-spotlight-title = { -brand-short-name } iepenje de folgjende kear dat jo computer opstart?
+launch-on-login-spotlight-title = { -brand-short-name } iepenje de folgjende kear dat jo kompjûter opstart?
 launch-on-login-spotlight-startup-checkbox = { -brand-short-name } starte by opstarten
 launch-on-login-spotlight-pin-taskbar-checkbox = Oan taakbalke fêstsette
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”

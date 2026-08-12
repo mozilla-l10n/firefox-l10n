@@ -476,7 +476,7 @@ pdfjs-editor-colorpicker-green =
 pdfjs-editor-colorpicker-blue =
     .title = Blau
 pdfjs-editor-colorpicker-pink =
-    .title = Roze
+    .title = Rôs
 pdfjs-editor-colorpicker-red =
     .title = Read
 

@@ -188,7 +188,7 @@ startup-restore-windows-and-tabs =
 startup-windows-launch-on-login-profile-disabled =
     .message = Skeakelje dizze foarkar yn troch ‘{ profile-manager-use-selected.label }’ yn it finster ‘Brûkersprofyl kieze’ oan te finken.
 windows-launch-on-login =
-    .label = { -brand-short-name } automatysk iepenje by it opstarten fan jo computer
+    .label = { -brand-short-name } automatysk iepenje by it opstarten fan jo kompjûter
     .accesskey = a
 windows-launch-on-login-disabled = Dizze foarkar is útskeakele yn Windows. Gean nei <a data-l10n-name="startup-link">Apps</a> yn Systeemynstellingen om dit te wizigjen.
 # Option to also opens a new tab, in addition to restoring previous tabs and windows
