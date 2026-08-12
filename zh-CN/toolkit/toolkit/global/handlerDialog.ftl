@@ -84,6 +84,17 @@ choose-dialog-privatebrowsing-disabled = 已在隐私窗口中禁用
 ## Shown when the user clicks a mailto: link and lets them pick which configured
 ## web mail service (or the OS default app) should handle email links.
 
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = 选择邮件应用
+mailto-handler-picker-subtitle = 选取用于打开邮件链接的应用。以后可在“设置”中更改。
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = 每次点击邮件链接时询问我
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = 设为默认
+    .accesskey = S
 # Dismisses the picker without choosing an email app for now.
 mailto-handler-picker-not-now =
     .label = 暂时不要

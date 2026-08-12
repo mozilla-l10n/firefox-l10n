@@ -114,6 +114,10 @@ smart-window-opened-tabs-label = 已打开 { $count } 个标签页
 # Variables
 #   $count (number) - Number of tabs opened
 smart-window-opened-tabs-summary-single = 已打开 { $count } 个标签页。
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group = 已创建群组“{ $label }”并打开 { $count } 个标签页。
 smart-window-opened-tabs-row-label = 打开的标签页
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = 已切换标签页
@@ -135,6 +139,14 @@ action-log-reading-page = 正在读取页面
 action-log-read-page = 已读取页面
 action-log-searching-web = 正在搜索网页
 action-log-searched-web = 已搜索网页
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = 正在使用 <a data-l10n-name="exa-link">Exa</a> 在网上搜索
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = 已使用 <a data-l10n-name="exa-link">Exa</a> 在网上搜索
 action-log-checking-memories = 正在检查记忆
 action-log-checked-memories = 已检查记忆
 action-log-searching-settings = 正在搜索设置
@@ -153,3 +165,10 @@ action-log-completed-steps = 已完成 { $count } 个步骤
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = 已加载此标签页中的搜索结果。正在分析…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +其他 { $count } 个
