@@ -4,7 +4,7 @@
 
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-intro = Der is in flater bard by in ferbining mei { $hostname }, omdat it in ferkeard feiligheidssertifikaat brûkt.
+cert-error-intro = { $hostname } brûkt in ûnjildich befeiligingssertifikaat.
 cert-error-mitm-intro = Websites bewize harren identiteit fia sertifikaten, dy’t troch sertifikaatautoriteiten útjûn wurde.
 cert-error-mitm-mozilla = { -brand-short-name } wurdt stipe troch de non-profitorganisaasje Mozilla, dy’t in folslein iepen argyf foar sertifikaatautoriteiten (CA) beheart. It CA-argyf helpt te fersekerjen dat sertifikaatautoriteiten de bêste prosedueren foar brûkersbefeiliging folgje.
 cert-error-mitm-connection = { -brand-short-name } brûkt it CA-argyf fan Mozilla om te ferifiearjen dat in ferbining befeilige is yn stee fan sertifikaten dy’t troch it bestjoeringssysteem fan de brûker levere wurde. As in antifirusprogramma of in netwurk dus in ferbining ûnderskept mei in troch in CA útjûn befeiligingssertifikaat dat him yn it CA-argyf fan Mozilla stiet, wurdt de ferbining as ûnfeilich beskôge.
