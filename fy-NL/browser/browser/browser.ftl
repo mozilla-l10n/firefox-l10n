@@ -1633,7 +1633,7 @@ unified-extensions-button-quarantined =
 ## Note that the new line is intentionally part of the tooltip.
 
 unified-extensions-button-blocklisted =
-    .label = Extensies
+    .label = Utwreidingen
     .tooltiptext =
         Utwreidingen
         Guon útwreidingen binne útskeakele

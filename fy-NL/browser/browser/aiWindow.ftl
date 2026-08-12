@@ -328,7 +328,7 @@ smart-window-default-promo-additional-button = No net
 aiwindow-feedback-modal-title = Kommentaar diele
 aiwindow-feedback-what-worked-well = Wat wurke goed? Nim gjin persoanlike gegevens op.
 aiwindow-feedback-choose-any = Kies wat fan tapassing is
-aiwindow-feedback-add-details = Foegje as jo winske details ta. Nim gjin persoanlijke gegevens op.
+aiwindow-feedback-add-details = Foegje as jo winske details ta. Nim gjin persoanlike gegevens op.
 aiwindow-feedback-disclaimer = It yntsjinjen dielt jo kommentaar en dizze chat om { -brand-shorter-name } te helpen { -smart-window-brand-name } te ferbetterjen. Jo oare chats bliuwe privee. <a data-l10n-name="learn-more">Mear ynfo</a>
 aiwindow-feedback-submit = Yntsjinje
 aiwindow-feedback-cancel = Annulearje

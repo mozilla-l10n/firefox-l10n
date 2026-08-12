@@ -97,7 +97,7 @@ pkcs12-decode-err = It ûntsiferjen fan dit bestân is mislearre. It is net yn d
 pkcs12-unknown-err-restore = It werom bringen fan it PKCS #12-bestân is om ûnbekende redenen mislearre.
 pkcs12-unknown-err-backup = It meitsjen fan in reservekopy fan it PKCS #12-bestân is om ûnbekende redenen mislearre.
 pkcs12-unknown-err = De PKCS #12-ferwurking is om ûnbekende redenen mislearre.
-pkcs12-info-no-smartcard-backup = It is net mooglik om in reservekopy te meitsjen fan sertifikaten die op in befeiligingsapparaat, lykas in smart card, stean.
+pkcs12-info-no-smartcard-backup = It is net mooglik om in reservekopy te meitsjen fan sertifikaten dy op in befeiligingsapparaat, lykas in smartcard, stean.
 pkcs12-dup-data = It sertifikaat en de privé-kaai bestean al op it befeiligingsapparaat.
 
 ## PKCS#12 file dialogs

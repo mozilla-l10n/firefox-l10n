@@ -11,7 +11,7 @@
 # Start Menu.
 appearance-browser-icon-entry-group =
     .label = Browserpiktogram
-    .description = Kies in oanpast piktogram foar jo taakbalke, bureaublêd en startmenu.
+    .description = Kies in oanpast piktogram foar jo taakbalke, buroblêd en startmenu.
 appearance-browser-icon-button =
     .label = Browserpiktogram wizigje
 
