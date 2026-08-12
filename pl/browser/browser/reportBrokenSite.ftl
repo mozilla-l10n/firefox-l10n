@@ -14,7 +14,7 @@ report-broken-site-panel-reason-load-moz-box-button =
     .label = Strona się nie wczytuje
 # These terms are referring to ecommerce websites
 report-broken-site-panel-reason-checkout-moz-box-button =
-    .label = Nie można zapłacić, dokonać płatności ani zrobić zakupów
+    .label = Nie można zapłacić, sfinalizować zamówienia ani zrobić zakupów
 report-broken-site-panel-reason-slow-moz-box-button =
     .label = Strona jest wolna
 report-broken-site-panel-reason-media-moz-box-button =
@@ -47,7 +47,7 @@ report-broken-site-panel-reason-load =
     .label = Strona się nie wczytuje
 # These terms are referring to ecommerce websites
 report-broken-site-panel-reason-checkout =
-    .label = Nie można zapłacić, dokonać płatności ani zrobić zakupów
+    .label = Nie można zapłacić, sfinalizować zamówienia ani zrobić zakupów
 report-broken-site-panel-reason-slow2 =
     .label = Strona jest wolna
 report-broken-site-panel-reason-media2 =

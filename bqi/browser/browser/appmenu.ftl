@@ -304,6 +304,15 @@ appmenu-sync-promo-signin-cta = و من ٱووڌن
 appmenu-sync-promo-turnonsync =
     .heading = هوم گوم کردن بلگه یل وو ویرگار ایسا
 appmenu-sync-promo-turnonsync-cta = رۊشن کردن هوم گوم کردن
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = بلگه یل موبایل خوتووݩ ن من دست بگرین
+appmenu-sync-promo-connectdevice-cta = منپیز ی دسگا
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = نشووکا تووݩ ن وا خوتووݩ داشته بۊین
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = نشووکا تووݩ ن ووردارین وو ریوین
 
 ## Help panel
 
@@ -373,14 +382,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = و من هساو منتوری خوتووݩ بیاین
 appmenuitem-monitor-title2 = ز دۊزیڌن هۊویت جلاوگری کۊنین
 appmenuitem-monitor-description2 = گرؽڌن هوشدار زبار نقز داده یل
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } هوشدارا نقز داده
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = گرؽڌن بپایل نقز داده یل
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = ایمیل خوتووݩ ن سیخومی واڌارنین
 appmenuitem-relay-description2 = و جلاوگری ز ٱووڌن اسپم و سندوق وۊرۊدی ایسا هیاری اده
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = نیشتن ماسکا ایمیل
 appmenuitem-relay-description = بؽڌار کردن ایمیل وو شوماره تیلیفووݩ واقعی ایسا
 appmenuitem-services-relay-description = داشبورد ره وندن ماسکا ایمیل
 appmenuitem-vpn-title2 = جاگه خوتووݩ ن وا { -mozilla-vpn-brand-name } بؽڌار کۊنین
+appmenuitem-vpn-description4 = زفت وابیڌن قلوه من برنومه یل وو دسگایل
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = گۊشیڌن { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = رڌجۊری گشتن خوتووݩ ن سخت تر کۊنین
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = پوی دسگا ن زفت کۊنین
@@ -422,6 +438,7 @@ fxa-menu-create-profile-learn-more =
     .label = پوروفایل چنه؟
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = یک رسۊوی { -brand-short-name }
+appmenuitem-share-firefox-description = کسؽ ن موکش کۊنین تا گشت گری ن پسند کونه ک هریم سیخومی سیس موهم بۊ
 appmenu-profiles-2 =
     .label = پوروفایلا
 appmenu-profiles-header = پوروفایلا
