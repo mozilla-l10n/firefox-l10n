@@ -30,3 +30,40 @@ appearance-browser-icon-basic-group =
     .label = Norma
 appearance-browser-icon-bonus-group =
     .label = Speciala
+
+##
+
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Plenumu la agojn kaj malŝlosu premiajn vulpajn emblemojn por personecigi { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Vi malŝlosis ĉiujn premiajn emblemojn!
+appearance-browser-icon-set-default-button =
+    .label = Elekti kiel norma
+appearance-browser-icon-pin-button =
+    .label = Alpingli al la taska ilaro
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = Norma
+appearance-browser-icon-retro2004 =
+    .label = Retro 2004
+appearance-browser-icon-retro2017 =
+    .label = Retro 2017
+appearance-browser-icon-pride =
+    .label = Fiero
+appearance-browser-icon-minimal =
+    .label = Minimuma
+# Kit is the name of the new Firefox mascot, it shouldn't be translated.
+appearance-browser-icon-kit =
+    .label = Kit
+appearance-browser-icon-pixelated =
+    .label = Grandaj bilderoj
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = Momo
+    .description = Kreita de @heyheymomodraws
