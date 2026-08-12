@@ -56,6 +56,9 @@ fxa-menu-sync-description = 让您个性化的网络体验随身相伴
 # Subtitle shown under the account email on the signed-in account button in the
 # account menu, indicating that activating it opens account management.
 fxa-menu-manage-account-subtitle = 管理账户
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = 登录同步服务
 fxa-menu-sign-in-promo-button =
     .label = 登录
 # Card shown in the account menu when a previously signed-in account is

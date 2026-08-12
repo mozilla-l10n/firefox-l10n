@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = 新建隐私窗口
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = 经典窗口
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } 切换器
+    .tooltiptext = 切换使用智能和经典窗口
 
 ## Input CTA
 

@@ -78,6 +78,8 @@ options-webconsole-split-console-tooltip =
 
 ## Network Monitor section
 
+# The heading
+options-netmonitor-label = 网络监视器
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = 无限制
 
