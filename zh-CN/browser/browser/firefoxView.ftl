@@ -77,6 +77,7 @@ firefoxview-tabpickup-password-locked-description = 若要接收您的标签页�
 firefoxview-tabpickup-password-locked-link = 详细了解
 firefoxview-tabpickup-password-locked-primarybutton = 请输入主密码
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">详细了解</a>
+firefoxview-tabpickup-password-locked-header-2 = 使用主密码解锁标签页
 firefoxview-tabpickup-signed-out-header = 登录以重新连接
 firefoxview-tabpickup-signed-out-description = 登录 { -fxaccount-brand-name }即可重新连接并接收标签页。
 firefoxview-tabpickup-signed-out-description2 = 登录账户即可重新连接并接收标签页。

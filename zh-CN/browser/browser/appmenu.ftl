@@ -391,6 +391,8 @@ appmenuitem-relay-title-signed-in = 查看马甲邮箱
 appmenuitem-relay-description = 掩藏真实邮箱地址和电话号码
 appmenuitem-services-relay-description = 打开马甲邮箱面板
 appmenuitem-vpn-title2 = 使用 { -mozilla-vpn-brand-name } 隐藏真实位置
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in = 打开 { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 获取全方位设备保护
 appmenuitem-vpn-description = 保护在线活动
