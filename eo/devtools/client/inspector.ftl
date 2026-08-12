@@ -22,4 +22,34 @@ colorpicker-tooltip-alpha-slider-title = Diafaneco
 inspector-element-specific-pseudo-classes-heading = Pseŭdoklasoj specifaj por elemento
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
-    .title = Baskuli ŝajnigon de hela koloraro por la paĝo
+    .title = Ŝalti/malŝalti imiton de hela koloraro por la paĝo
+# A title text for the dark color scheme emulation options
+inspector-color-scheme-emulation-dark =
+    .title = Ŝalti/malŝalti imiton de malhela koloraro por la paĝo
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = Ŝalti/malŝalti trajtojn de imito CSS
+    .aria-label = Ŝalti/malŝalti trajtojn de imito CSS
+inspector-emulation-panel-color-scheme = Imito de koloraro
+# A label text for the print emulation options
+inspector-emulation-panel-print = Ŝalti
+    .aria-label = Ŝalti imiton de presa medio
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Hela
+    .aria-label = Ŝalti imiton de hela koloraro
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Malhela
+    .aria-label = Ŝalti imiton de malhela koloraro
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Neniu imito
+    .aria-label = Malŝalti imiton de koloraro
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Redukti
+    .aria-label = Ŝalti imiton de reduktita movo
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Sen prefero
+    .aria-label = Ŝalti neniun preferon por imito de reduktita movo
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Sen imito
+    .aria-label = Malŝalti imiton de reduktita movo
