@@ -402,6 +402,8 @@ appmenu-edit-this-profile =
     .label = Таҳрир кардани ин профил
 fxa-menu-create-profile-subpanel =
     .title = Эҷод кардани профили нав
+fxa-menu-create-profile-confirm =
+    .label = Эҷод кардани профили нав
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Мубодила кардани «{ -brand-short-name }»
 appmenu-profiles-2 =

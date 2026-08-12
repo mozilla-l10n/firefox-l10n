@@ -130,15 +130,20 @@ aiwindow-close-sidebar =
 aiwindow-history-menu =
     .aria-label = Имконоти бештар
     .tooltiptext = Имконоти бештар
+aiwindow-history-menu-chat-history = Таърихи суҳбатҳо
 aiwindow-history-menu-back =
     .aria-label = Ба қафо
     .tooltiptext = Ба қафо
+aiwindow-history-menu-view-all-chats = Дидани ҳамаи суҳбатҳо
+aiwindow-history-menu-settings = Танзимоти «{ -smart-window-brand-name }»
 
 ## Fullpage top actions
 ## Labeled buttons shown at the top of the fullpage Smart Window.
 
 aiwindow-fullpage-new-chat =
     .label = Суҳбати нав
+aiwindow-fullpage-chat-history =
+    .label = Таърихи суҳбатҳо
 # "More" is the label for a button that opens a menu of additional Smart Window
 # options (currently Smart Window settings) — i.e. "more actions/options", not
 # more content or more chat history.
@@ -182,6 +187,30 @@ firefoxview-chat-date-yesterday = Дирӯз - { DATETIME($date, dateStyle: "ful
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Бозгашт ба суҳбатҳои худ
+firefoxview-chats-empty-description = Ҳангоми истифодаи «{ -smart-window-brand-name }», суҳбатҳои шумо дар ин ҷой нигоҳ дошта мешаванд.
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } суҳбат
+       *[other] { $count } суҳбат
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Таърихи тамошобинӣ, боргирӣ ва суҳбатҳо
+    .accesskey = Т
+item-history-downloads-and-chat-description = Таърихи саҳифаҳои сомонаҳо, боргириҳо ва суҳбатҳоро тоза мекунад
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
@@ -219,3 +248,5 @@ aiwindow-feedback-modal-title = Изҳори назари худро мубод�
 aiwindow-feedback-submit = Пешниҳод кардан
 aiwindow-feedback-cancel = Бекор кардан
 aiwindow-feedback-reason-other = Дигар
+aiwindow-feedback-preview-report = Дидани тафсилоти суҳбат
+aiwindow-feedback-preview-report-with-page = Дидани тафсилоти суҳбат ва саҳифа

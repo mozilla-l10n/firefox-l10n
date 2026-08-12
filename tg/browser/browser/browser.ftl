@@ -215,6 +215,11 @@ urlbar-result-menu-manage-firefox-suggest2 = Идоракунии «{ -firefox-s
 urlbar-result-menu-report-inaccurate-location2 = Фиристодани гузориш дар бораи ҷойгиршавии нодуруст
 urlbar-result-menu-show-less-frequently2 = Бисёр маротиба нишон дода нашавад
 urlbar-result-menu-dont-show-weather-suggestions2 = Пешниҳодҳои обу ҳаво нишон дода нашаванд
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Нест кардан аз таърих
+    .accesskey = Н
 urlbar-result-menu-learn-more =
     .label = Маълумоти бештар
     .accesskey = М
@@ -405,6 +410,8 @@ quickactions-addons = Намоиши ҷузъҳои иловагӣ
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = васеъшавиҳо, мавзуъҳо, ҷузъҳои иловагӣ, ҷузъи иловагӣ, extensions, themes, addons, add-ons
+# Opens preferences page at AI controls
+quickactions-manageai = Идоракунии унсурҳои идоракунии зеҳни сунъӣ (AI)
 quickactions-cmd-addons2 = ҷузъҳои иловагӣ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Идоракунии хатбаракҳо
