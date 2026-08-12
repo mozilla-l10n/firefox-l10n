@@ -135,9 +135,9 @@ fxa-menu-sync-device-now = Synchronise { $deviceName } Now
 fxa-menu-manage-sync-settings =
     .label = Manage Synchronisation Settings
 fxa-menu-add-device =
-    .label = Add a device
+    .label = Add a Device
 fxa-menu-manage-devices =
-    .label = Manage your devices
+    .label = Manage Your Devices
 fxa-menu-device-missing =
     .label = Don’t See Your Device?
 # Mozilla account menu item when selected opens a panel with all devices synced to the user's account
@@ -433,7 +433,7 @@ fxa-menu-create-profile-subpanel =
 fxa-menu-create-profile-heading = Level up your browsing with a new profile
 fxa-menu-create-profile-description = Keep your bookmarks, passwords and history separate for work and personal browsing.
 fxa-menu-create-profile-confirm =
-    .label = Create New profile
+    .label = Create new profile
 fxa-menu-create-profile-learn-more =
     .label = What Are Profiles?
 # Button in the account menu that links to the Referrals page

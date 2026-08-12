@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = { -brand-product-name } – შესვლა
 appmenuitem-fxa-manage-account = ანგარიშის მართვა
 fxa-menu-sync-status-on = დასინქ. ჩართ.
 fxa-menu-sync-status-off = დასინქ. გამორთ.
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = დაასინქრონეთ მონაცემები
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = თქვენი მონაცემები არ დასინქრონდება
