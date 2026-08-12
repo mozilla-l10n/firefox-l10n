@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Sūtīt lapām “Neizsekot” signālu, lai norādītu, ka nevēlaties, lai jūs izseko
+do-not-track-removal = Mēs vairs neatbalstām “Neizsekot” vērtību
 do-not-track-learn-more = Uzzināt vairāk
 do-not-track-option-default-content-blocking-known =
     .label = Tikai tad, ja { -brand-short-name } ir iestatīts bloķēt zināmos izsekotājus
@@ -13,6 +14,10 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Vietņu privātuma preferences
+do-not-track-removal3 =
+    .message = Mēs vairs neatbalstām iespēju “Neizsekot”.
+non-technical-privacy-heading =
+    .label = Papildu aizsardzība
 non-technical-privacy-header = Vietņu privātuma preferences
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -1488,7 +1493,7 @@ permissions-block-popups-exceptions-button =
     .accesskey = I
     .searchkeywords = uzlecošie
 permissions-addon-install-warning =
-    .label = Brīdināt mani, ja lapas mēģina instalēt papildinājumus
+    .label = Brīdināt mani, ja tīmekļvietnes mēģina uzstādīt papildinājumus
     .accesskey = B
 permissions-addon-exceptions =
     .label = Izņēmumi...
@@ -1586,6 +1591,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } nepietiek vietas 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Tikai-HTTPS režīms
+httpsonly-description3 = Ļauj tikai drošus savienojumus ar tīmekļvietnēm. { -brand-short-name } vaicās apstiprināt nedroša savienojuma izveidošanu.
 httpsonly-description = HTTPS nodrošina drošu, šifrētu savienojumu starp { -brand-short-name } un jūsu apmeklētajām vietnēm. Lielākā daļa vietņu atbalsta HTTPS, un, ja ir ieslēgts tikai-HTTPS režīms, { -brand-short-name } visi savienojumi tiks jaunināti uz HTTPS.
 httpsonly-learn-more = Uzzināt vairāk
 httpsonly-radio-enabled =

@@ -27,7 +27,7 @@ download-ui-confirm-offline-cancel-downloads =
         [1] As jo no de ferbining ferbrekke, sil 1 download annulearre wurde. Binne jo der wis fan dat jo de ferbining ferbrekke wolle?
        *[other] As jo no de ferbining ferbrekke, sille { $downloadsCount } downloads annulearre wurde. Binne jo der wis fan dat jo de ferbining ferbrekke wolle?
     }
-download-ui-dont-go-offline-button = Ferbining beëinige
+download-ui-dont-go-offline-button = Online bliuwe
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] As jo no alle priveenavigaasjefinsters slute, sil 1 download annulearre wurde. Binne jo wis dat jo de priveenavigaasje ferlitte wolle?

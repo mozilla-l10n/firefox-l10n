@@ -1450,7 +1450,7 @@ qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Guon audio of video op dizze website brûkt DRM-software hokker { -brand-short-name } kin beheine yn wat jo der mei dwaan wolle.
+eme-notifications-drm-content-playing = Guon audio- of fideobestannen op dizze side brûke DRM-software, wat beheine kin wat { -brand-short-name } jo dermei dwaan litte kin.
 eme-notifications-drm-content-playing-manage = Ynstellingen beheare
 eme-notifications-drm-content-playing-manage-accesskey = b
 eme-notifications-drm-content-playing-dismiss = Slute

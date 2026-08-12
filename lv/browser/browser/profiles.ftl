@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-heading = Izvēlieties { -brand-short-name } profilu
+profile-window-body = Darba un personīgā pārlūkošana, tajā skaitā paroles un grāmatzīmes, pilnīgi nošķirtas vai arī jāizveido profili ikvienam, kas izmanto šo ierīci.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Izvēlēties profilu, kad tiek atvērts { -brand-short-name }
 profile-window-create-profile = Izveidot profilu
 profile-card-edit-button =
     .title = Rediģēt profilu
@@ -47,8 +51,11 @@ avatar-selector-upload-file = Augšupielādēt failu
 avatar-selector-drag-file = Vai arī velciet failu šeit
 avatar-selector-add-image = Pievienot attēlu
 avatar-selector-crop = Apgriezt
+edit-profile-page-no-name = Šis profils jānodēvē tā, lai to vēlāk būtu vieglāk atrast. To var pārdēvēt jebkurā laikā.
+edit-profile-page-duplicate-name = Profila nosaukums jau tiek izmantots. Jāmēģina cits nosaukums.
 edit-profile-page-profile-saved = Saglabāts
 new-profile-page-title = Jauns profils
+new-profile-page-header = Pielāgo savu jauno profilu
 new-profile-page-learn-more = Uzzināt vairāk
 new-profile-page-done-button =
     .label = Pabeigt rediģēšanu
@@ -187,12 +194,15 @@ bike-avatar-alt =
 
 ## Tooltips for default avatar icons
 
+book-avatar = Grāmata
 clock-avatar = Pulkstenis
 custom-avatar = Pielāgots avatārs
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Dimants
+flower-avatar = Zieds
 folder-avatar = Mape
 hammer-avatar = Āmurs
+heart-avatar = Sirds
 heart-rate-avatar = Sirdsdarbības ātrums
 leaf-avatar = Lapa
 lightbulb-avatar = Spuldze
@@ -205,6 +215,7 @@ paw-print-avatar = Ķepas nospiedums
 plane-avatar = Lidmašīna
 # Present refers to a gift box, not the current time period
 present-avatar = Dāvana
+shopping-avatar = Iepirkumu grozs
 sparkle-single-avatar = Dzirkstele
 video-game-controller-avatar = Videospēļu kontrolieris
 custom-avatar-crop-back-button =

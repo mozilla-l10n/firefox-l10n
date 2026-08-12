@@ -7,7 +7,7 @@
 
 site-data-settings-window =
     .title = Pārvaldīt sīkdatnes un vietņu datus
-site-data-settings-description = Šīs lapas glabā sīkdatnes un kešatmiņu jūsu datorā. { -brand-short-name } glabā mājas lapu datus pastāvīgajā krātuvē līdz brīdim, kad jūs tos izdzēšat, ne-pastāvīgās krātuves dati tiek dzēsti, kad nepieciešama papildu vieta.
+site-data-settings-description = Šīs tīmekļvietnes glabā sīkdatnes un kešatmiņu Tavā datorā. { -brand-short-name } glabā tīmekļvietņu datus pastāvīgajā krātuvē līdz to izdzēšanai, nepastāvīgās krātuves dati tiek izdzēsti, kad nepieciešama papildu vieta.
 site-data-search-textbox =
     .placeholder = Meklēt lapas
     .accesskey = S
@@ -46,9 +46,9 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Aizvākt
-site-data-removing-header = Aizvāc sīkdatnes un kešatmiņu
+site-data-removing-header = Noņem sīkdatnes un vietņu datus
 site-data-removing-desc = Datu aizvākšana var pārtraukt jūsu autorizācijas sesijas lapās. Vai tiešām vēlaties veikt izmaiņas?
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Sīkdatņu un vietņu datu izņemšana var izrakstīt no tīmekļa vietnēm. Vai tiešām izņemt <strong>{ $baseDomain }</strong> sīkdatnes un vietnes datus?
-site-data-removing-table = Šo vietņu sīkdatnes un kešatmiņa tiks aizvākta
+site-data-removing-table = Tiks noņemtas šo tīmekļvietņu sīkdatnes un dati
