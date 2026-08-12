@@ -114,6 +114,9 @@ appmenuitem-fxa-sign-in = Accedi a { -brand-product-name }
 appmenuitem-fxa-manage-account = Gestisci account
 fxa-menu-sync-status-on = La sincronizzazione è attiva
 fxa-menu-sync-status-off = La sincronizzazione è disattivata
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Sincronizza i tuoi dati
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = I dati non vengono sincronizzati
