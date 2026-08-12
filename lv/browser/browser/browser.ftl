@@ -1751,6 +1751,18 @@ trustpanel-tracking-cookies-blocking-tab-header =
         [one] { -brand-product-name } liedza { $count } starpvietņu izsekošanas sīkdatni
        *[other] { -brand-product-name } liedza { $count } starpvietņu izsekošanas sīkdatnes
     }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } atļāva { $count } starpvietņu izsekošanas sīkdatnes
+        [one] { -brand-product-name } atļāva { $count } starpvietņu izsekošanas sīkdatni
+       *[other] { -brand-product-name } atļāva { $count } starpvietņu izsekošanas sīkdatnes
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } aizturēja { $count } izsekotājus
+        [one] { -brand-product-name } aizturēja { $count } izsekotāju
+       *[other] { -brand-product-name } aizturēja { $count } izsekotājus
+    }
 trustpanel-tracking-content-tab-list-header = Šīs vietnes mēģina Tevi izsekot:
 trustpanel-fingerprinter-list-header = Šīs vietnes mēģina noņemt jūsu pirkstu nospiedumus:
 trustpanel-cryptominer-blocking-tab-header =
