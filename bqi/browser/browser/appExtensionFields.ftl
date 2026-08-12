@@ -24,6 +24,9 @@ extension-firefox-alpenglow-description = شؽواتی رنگی سی دویمه 
 ## association in the target language. If no equivalent exists, prioritize color
 ## clarity. One word, 11 characters or fewer.
 
+# Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
+# color word; translate the sense of "standard."
+extension-default-theme-name2 = پؽش فرز
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 extension-nova-smoke-name = دی
 

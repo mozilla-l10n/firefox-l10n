@@ -22,6 +22,10 @@ url-classifier-cache-prefix = Prefikss
 url-classifier-cache-ncache-expiry = Negatīvs kešatmiņas derīguma termiņš
 url-classifier-cache-fullhash = Pilna hešatslēga
 url-classifier-cache-pcache-expiry = Pozitīvs kešatmiņas derīguma termiņš
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = Kļūda ({ $code })
 url-classifier-debug-title = Atkļūdošana
 url-classifier-debug-module-btn = Iestatīt reģistrēšanas moduli
 url-classifier-debug-file-btn = Iestatīt reģistrēšanas failu

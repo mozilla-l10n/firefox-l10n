@@ -63,7 +63,7 @@ neterror-proxy-connect-failure-settings = Pārbaudiet starpniekservera (proxy) i
 neterror-proxy-connect-failure-contact-admin = Sazinieties ar savu tīkla administratoru, lai pārliecinātos, ka starpniekserveris strādā korekti.
 neterror-content-encoding-error = Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.
 neterror-unsafe-content-type = Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.
-neterror-nss-failure-not-verified = Lapu, kuru jūs šobrīd mēģināt aplūkot, nevar parādīt, jo nevar pārbaudīt tās nosūtīto datu autentiskumu.
+neterror-nss-failure-not-verified = Lapu, kuru šobrīd mēģini apskatīt, nevar parādīt, jo nevar pārbaudīt tās nosūtīto datu īstumu.
 neterror-nss-failure-contact-website = Lūdzu, sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -99,7 +99,11 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ja izmantojat 
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = Jūsu datora pulkstenis ir iestatīts uz { DATETIME($now, dateStyle: "medium") }. Pārliecinieties, vai jūsu sistēmas iestatījumos ir iestatīts pareizais datums, laiks un laika josla, un pēc tam atsvaidziniet <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Ja jūsu pulkstenis jau ir iestatīts pareizajā laikā, iespējams, ka vietne ir nepareizi konfigurēta, un jūs nevarat neko darīt, lai atrisinātu problēmu. Jūs varat informēt vietnes administratoru par problēmu.
-certerror-bad-cert-domain-what-can-you-do-about-it = Visdrīzāk šī ir lapas problēma un vienīgais ko jūs varat darīt ir ziņot lapas administratoram par šo problēmu.
+certerror-bad-cert-domain-what-can-you-do-about-it = Visdrīzāk ka iemesls ir tīmekļvietnē, un tur neko nevar darīt, lai to novērstu. Par nepilnību var ziņot tīmekļvietnes pārvaldītājam.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> izmanto drošības politiku, ko sauc HTTP Strict Transport Security (HSTS), kas nozīmē, ka { -brand-short-name } var lapai pieslēgties lapai tikai drošajā režīmā. Jūs nevarat pievienot izņēmumu, lai apmeklētu šo lapu.
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = Kļūdas kods: { $responsestatus } { $responsestatustext }
