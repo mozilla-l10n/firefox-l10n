@@ -92,6 +92,8 @@ aiwindow-firstrun-model-title = چ چیه سی ایسا موهم هڌ؟
 aiwindow-firstrun-model-subtitle = ی مودل سی رۊشن کردن { -smart-window-brand-name } پسند کۊنین. هر سا ک خاستین ترین هو ن آلشت کۊنین.
 aiwindow-firstrun-model-fast-label = زل
 aiwindow-firstrun-model-fast-body = زی جواو اده
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = زل: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -101,6 +103,8 @@ aiwindow-firstrun-model-allpurpose-body = موناسو سی بیشتر نیاز�
 aiwindow-firstrun-model-recommended = پؽشنهاڌ وابیڌه
 aiwindow-firstrun-model-personal-label = سیخومی
 aiwindow-firstrun-model-personal-body = موناسو ترین جواوا
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = سیخومی: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = وورکل وابیڌه سی هیاری سیخومی وابیڌه من زووا موختلف
 aiwindow-firstrun-button = بزن ریویم
 aiwindow-firstrun-back-button = وورگشتن
@@ -159,6 +163,14 @@ aiwindow-close-sidebar =
 ## view links to the chat history subview and Smart Window settings; the chat
 ## history subview lists recent chats and a shortcut to all chats.
 
+aiwindow-history-menu =
+    .aria-label = گۊزینه یل قلوه
+    .tooltiptext = گۊزینه یل قلوه
+aiwindow-history-menu-chat-history = ویرگار چت
+aiwindow-history-menu-back =
+    .aria-label = وورگشتن
+    .tooltiptext = وورگشتن
+aiwindow-history-menu-view-all-chats = نیشتن پوی چتا
 aiwindow-history-menu-settings = سامووا { -smart-window-brand-name }
 
 ## Fullpage top actions
@@ -166,6 +178,8 @@ aiwindow-history-menu-settings = سامووا { -smart-window-brand-name }
 
 aiwindow-fullpage-new-chat =
     .label = چت نۊ
+aiwindow-fullpage-chat-history =
+    .label = ویرگار چت
 # "More" is the label for a button that opens a menu of additional Smart Window
 # options (currently Smart Window settings) — i.e. "more actions/options", not
 # more content or more chat history.

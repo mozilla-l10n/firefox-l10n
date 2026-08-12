@@ -128,6 +128,12 @@ smart-window-grouped-tabs-label =
 # one for the tab group.
 smart-window-default-tab-group-label = بونکۊ بلگه
 smart-window-grouped-tabs-row-label = بلگه یل بونکۊ بندی وابیڌه
+smart-window-opened-tabs-row-label = بلگه یل گۊشیڌه
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = بلگه یل جا گورو وابیڌه
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = و “{ $title }” آلشت وابی.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = بلگه یل بونکۊ بندی نوابیڌه
 smart-window-ungrouped-row-label =
