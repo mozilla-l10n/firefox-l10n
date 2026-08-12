@@ -1763,7 +1763,25 @@ trustpanel-tracking-content-blocking-tab-header =
         [one] { -brand-product-name } aizturēja { $count } izsekotāju
        *[other] { -brand-product-name } aizturēja { $count } izsekotājus
     }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } atļāva { $count } izsekotājus
+        [one] { -brand-product-name } atļāva { $count } izsekotāju
+       *[other] { -brand-product-name } atļāva { $count } izsekotājus
+    }
 trustpanel-tracking-content-tab-list-header = Šīs vietnes mēģina Tevi izsekot:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } aizturēja { $count } pirkstu nospiedumu noteicējus
+        [one] { -brand-product-name } aizturēja { $count } pirkstu nospiedumu noteicēju
+       *[other] { -brand-product-name } aizturēja { $count } pirkstu nospiedumu noteicējus
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } atļāva { $count } pirkstu nospiedumu noteicējus
+        [one] { -brand-product-name } atļāva { $count } pirkstu nospiedumu noteicēju
+       *[other] { -brand-product-name } atļāva { $count } pirkstu nospiedumu noteicējus
+    }
 trustpanel-fingerprinter-list-header = Šīs vietnes mēģina noņemt jūsu pirkstu nospiedumus:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
@@ -1771,11 +1789,23 @@ trustpanel-cryptominer-blocking-tab-header =
         [one] { -brand-product-name } bloķēja { $count } kriptovalūtu ieguvēju
        *[other] { -brand-product-name } bloķēja { $count } kriptovalūtu ieguvējus
     }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } atļāva { $count } kriptovalūtu ieguvējus
+        [one] { -brand-product-name } atļāva { $count } kriptovalūtu ieguvēju
+       *[other] { -brand-product-name } atļāva { $count } kriptovalūtu ieguvējus
+    }
 trustpanel-cryptominer-tab-list-header = Šīs vietnes mēģina iegūt kriptovalūtu:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Vai jums ir konts šajā vietnē?
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Paslēpt
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Sākt bezmaksas skenēšanu
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [zero] Šajā vietnē aizturēti <span data-l10n-name="count">{ $count }</span> izsekotāju
+        [one] Šajā vietnē aizturēts <span data-l10n-name="count">{ $count }</span> izsekotājs
+       *[other] Šajā vietnē aizturēti <span data-l10n-name="count">{ $count }</span> izsekotāji
+    }
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
