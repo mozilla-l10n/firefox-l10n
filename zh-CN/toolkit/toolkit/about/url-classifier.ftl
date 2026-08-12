@@ -37,8 +37,12 @@ url-classifier-cache-prefix = 前缀
 url-classifier-cache-ncache-expiry = 阴性缓存有效期
 url-classifier-cache-fullhash = 完整散列
 url-classifier-cache-pcache-expiry = 阳性缓存有效期
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = 网址
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = 结果
+url-classifier-content-classifier-pbm = 隐私浏览
 url-classifier-debug-title = 调试
 url-classifier-debug-module-btn = 设置日志模块
 url-classifier-debug-file-btn = 设置日志文件

@@ -20,6 +20,9 @@ colorpicker-tooltip-hue-slider-title = 色调
 colorpicker-tooltip-alpha-slider-title = 不透明度
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = 特定元素伪类
+# A title text for the light color scheme emulation options
+inspector-color-scheme-emulation-light =
+    .title = 切换页面的浅色配色方案模拟
 # A title text for the dark color scheme emulation options
 inspector-color-scheme-emulation-dark =
     .title = 切换页面的深色配色方案模拟

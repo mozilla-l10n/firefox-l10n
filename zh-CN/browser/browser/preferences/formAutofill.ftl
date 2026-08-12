@@ -223,6 +223,9 @@ passport-capture-save-button =
 passport-capture-not-now-button =
     .label = 暂时不要
     .accessKey = w
+passport-capture-never-save-button =
+    .label = 永不保存护照信息
+    .accessKey = N
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
