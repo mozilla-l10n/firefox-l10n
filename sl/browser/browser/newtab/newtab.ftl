@@ -260,6 +260,15 @@ newtab-privacy-message-promo-relay-3-cta = Pridobi maske
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] Ta teden je bil blokiran { $count } sledilec. Oglejte si, pred čim vas ščiti { -brand-short-name }
+        [two] Ta teden sta bila blokirana { $count } sledilca. Oglejte si, pred čim vas ščiti { -brand-short-name }
+        [few] Ta teden so bili blokirani { $count } sledilci. Oglejte si, pred čim vas ščiti { -brand-short-name }
+       *[other] Ta teden je bilo blokiranih { $count } sledilcev. Oglejte si, pred čim vas ščiti { -brand-short-name }
+    }
 newtab-privacy-message-milestone-week-cta = Ogled zaščit
 newtab-privacy-message-milestone-month-cta = Ogled zaščit
 newtab-privacy-message-milestone-year-cta = Ogled zaščit

@@ -65,6 +65,7 @@ ipprotection-location-selection-callout-secondary-button = Zapri
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Preizkusite { -brand-product-name }ov vgrajeni VPN
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Zakrijte svojo lokacijo</a>, medtem ko brskate v { -brand-product-name(sklon: "mestnik") }.
 unauthenticated-choose-location-message-1 = Izberite lokacijo ali prepustite { -brand-product-name(sklon: "dajalnik") }, da izbere najhitrejšo.
 unauthenticated-get-started = Začni
 unauthenticated-terms-of-service-privacy-notice = Z nadaljevanjem se strinjate s <a data-l10n-name="vpn-terms-of-service">pogoji uporabe</a> in z <a data-l10n-name="vpn-privacy-notice">obvestilom o zasebnosti</a>.
@@ -111,6 +112,11 @@ ipprotection-locations-subview =
     .title = Izberite lokacijo
 ipprotecion-locations-subview-recommended-label = Priporočena
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Nedosegljiv
+    .aria-label = Ni na voljo, onemogočen
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Nedosegljiv
 ipprotection-locations-subview-promo-button = Prenesi { -mozilla-vpn-brand-name }
 
@@ -143,6 +149,9 @@ ipprotection-bandwidth-upgrade-title = Vam je vgrajeni VPN všeč? Zagotovite si
 ip-protection-description =
     .label = VPN
     .description = Vgrajen VPN za večjo zasebnost pri brskanju s { -brand-short-name(sklon: "orodnik") }
+ip-protection-description-1 =
+    .label = Vgrajeni VPN
+    .description = Okrepite svojo zasebnost in med brskanjem zakrijte svojo lokacijo.
 ip-protection-learn-more = Več o tem
 ip-protection-not-opted-in-button = Začni
 # Variables:
