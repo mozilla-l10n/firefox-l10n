@@ -98,6 +98,10 @@ ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn
 ipprotection-location-selection-callout-primary-button = Provala
 ipprotection-location-selection-callout-secondary-button = Ignora
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = OK
+
 ## Panel
 
 # Also used for the callout shown in private browsing
