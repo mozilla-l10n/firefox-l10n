@@ -378,7 +378,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } izpēta daudzveidīgu publ
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Ak vai, ielādējot saturu kaut kas nogājis greizi.
-newtab-error-fallback-refresh-link = Pārlādējiet lapu, lai mēģinātu vēlreiz.
+newtab-error-fallback-refresh-link = Jāatsvaidzina lapa, lai mēģinātu vēlreiz.
 
 ## New Tab Appearance (browser theme picker)
 

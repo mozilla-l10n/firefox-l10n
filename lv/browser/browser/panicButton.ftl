@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Atvērt jaunu tukšu logu
-panic-button-undo-warning = Šīs darbības rezultātu nevar atcelt, tas ir neatgriezenisks.
+panic-button-undo-warning = Šī darbība ir neatgriezeniska.
 panic-button-forget-button =
     .label = Aizmirst!
 
@@ -25,7 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
-panic-button-action-desc = Turpinot jūs:
-panic-button-delete-cookies = Izdzēsīsiet nesenās <strong>sīkdatnes</strong>
+panic-button-action-desc = Turpinot tiks:
+panic-button-delete-cookies = izdzēstas nesenās <strong>sīkdatnes</strong>
 panic-button-delete-history = Izdzēsīsiet pārlūkošanas <strong>vēsturi</strong>
-panic-button-delete-tabs-and-windows = Aizvērsiet visas <strong>cilnes</strong> un <strong>logus</strong>
+panic-button-delete-tabs-and-windows = aizvērs visas <strong>cilnes</strong> un <strong>logus</strong>
