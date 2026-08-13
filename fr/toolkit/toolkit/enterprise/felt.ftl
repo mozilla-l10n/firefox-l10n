@@ -38,6 +38,9 @@ felt-browser-error-sso-timeout2 =
 felt-browser-error-token-refresh-failed =
     .heading = Vous avez été déconnecté·e
     .message = Veuillez vous reconnecter ou contacter votre administrateur si vous avez des questions.
+felt-browser-error-session-interrupted =
+    .heading = La session a été interrompue
+    .message = Veuillez vous reconnecter ou contacter votre administrateur si le problème persiste.
 felt-browser-error-multiple-crashes2 =
     .heading = { -brand-short-name } a planté à de nombreuses reprises
 felt-browser-error-launch-failure =
@@ -62,6 +65,14 @@ felt-browser-error-connection2 =
     .heading = Connexion impossible. Veuillez contacter votre administrateur.
 felt-browser-error-no-network =
     .heading = Aucune connexion réseau
+
+## Captive portal (network sign-in required before signing in to { -brand-short-name })
+
+felt-browser-error-captive-portal =
+    .heading = Connexion au réseau
+    .message = Ce réseau nécessite que vous vous connectiez à un compte pour accéder à Internet. Si une page de connexion n’est pas déjà ouverte, utilisez le bouton ci-dessous.
+felt-captive-portal-open-login =
+    .label = Ouvrir la page de connexion du réseau
 
 ## Network error details.
 
