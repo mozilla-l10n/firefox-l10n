@@ -37,3 +37,5 @@ serviceworker-worker-updated = Atjaunināts <time>{ DATETIME($date, month: "long
 serviceworker-worker-status-running = Darbojas
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Apturēts
+# Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro-link = Uzzināt vairāk

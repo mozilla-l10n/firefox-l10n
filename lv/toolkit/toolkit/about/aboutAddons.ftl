@@ -173,6 +173,8 @@ addon-open-about-debugging = Atkļūdot papildinājumus
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = Uzzināt vairāk
+colorway-removal-notice-learn-more = Uzzināt vairāk
 install-extension-button = Pievienot { -brand-product-name }
 
 ## Pending uninstall message bar
@@ -184,6 +186,7 @@ addon-detail-private-browsing-disallow = Neatļaut
 ##
 
 addon-permissions-required = Nepieciešamās atļaujas pamata darbībai:
+addon-permissions-learnmore = Uzzināt vairāk par atļaujām
 
 ## Page headings
 

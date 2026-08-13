@@ -55,6 +55,8 @@ about-debugging-sidebar-item-connect-button-connecting = Savienojas…
 
 # Setup Page strings
 
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Pēc iespējošanas tiks lejupielādētas un { -brand-shorter-name } pievienotas nepieciešamās Android USB atkļūdošanas sastāvdaļas.
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Pievienot

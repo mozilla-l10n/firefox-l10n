@@ -31,7 +31,7 @@ styleeditor-find-again =
     .label = Meklēt vēlreiz
     .accesskey = z
 styleeditor-go-to-line =
-    .label = Pāriet uz rindiņu…
+    .label = Pārlēkt uz rindu…
     .accesskey = u
 # This string is shown in the style sheets list
 # Variables:
