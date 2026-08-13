@@ -198,7 +198,7 @@ fp-neterror-offline-body-title = Vaikuttaa siltä, että Internet-yhteydessäsi 
 
 fp-neterror-connection-intro = { -brand-short-name } ei voi luoda suojattua yhteyttä palvelimeen osoitteessa { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } ei saa yhteyttä palvelimeen osoitteessa <strong>{ $hostname }</strong>
-fp-neterror-offline-intro-2 = { -brand-short-name } ei voi yhdistää palvelimeen osoitteessa <strong>{ $hostname }</strong>..
+fp-neterror-offline-intro-2 = { -brand-short-name } ei voi yhdistää palvelimeen osoitteessa <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Palvelin osoitteessa <strong>{ $hostname }</strong> vastaa liian hitaasti.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

@@ -27,5 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = Turpinot tiks:
 panic-button-delete-cookies = izdzēstas nesenās <strong>sīkdatnes</strong>
-panic-button-delete-history = Izdzēsīsiet pārlūkošanas <strong>vēsturi</strong>
-panic-button-delete-tabs-and-windows = aizvērs visas <strong>cilnes</strong> un <strong>logus</strong>
+panic-button-delete-history = izdzēsta pārlūkošanas <strong>vēsture</strong>
+panic-button-delete-tabs-and-windows = aizvērtas visas <strong>cilnes</strong> un <strong>logi</strong>

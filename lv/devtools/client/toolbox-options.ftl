@@ -118,7 +118,7 @@ options-disable-http-cache-tooltip =
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Izslēgt JavaScript *
 options-disable-javascript-tooltip =
-    .title = Šī iestatījuma ieslēgšana izslēgs JavaScript aktīvajā cilnē. Aizverot cilni vai izstrādātāju rīkus, šis iestatījums netiks saglabāts.
+    .title = Šī iestatījuma ieslēgšana izslēgs JavaScript pašreizējā cilnē. Šis iestatījums netiks saglabāts pēc cilnes vai rīklodziņa aizvēršanas.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Ieslēgt pārlūka un papildinājumu atkļūdošanas rīku kastes
 options-enable-chrome-tooltip =

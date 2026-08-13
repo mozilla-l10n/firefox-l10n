@@ -119,7 +119,16 @@ tabbrowser-confirm-close-tabs-with-key-title = Aizvērt logu un iziet no { -bran
 tabbrowser-confirm-close-tabs-with-key-button = Aizvērt { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Apstiprināt pirms aizvērt ar { $quitKey }
+tabbrowser-ask-close-tabs-with-key-checkbox = Vaicāt pirms aizvēršanas ar { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Apstiprināt pirms aizvēršanas ar { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Aizvērt { -brand-short-name } vai pašreizējo cilni?
+tabbrowser-confirm-close-tab-only-button = Aizvērt pašreizējo cilni
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

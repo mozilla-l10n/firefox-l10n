@@ -212,6 +212,14 @@ open-new-link-as-tabs =
     .accesskey = l
 open-external-link-next-to-active-tab =
     .label = Atvērt saites no lietotnēm blakus pašreizējai cilnei
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Vaicāt pirms aizvēršanas ar { $quitKey }
+    .accesskey = p
 confirm-on-close-multiple-tabs =
     .label = Apstiprināt, pirms aizvērt vairākas cilnes
     .accesskey = v
