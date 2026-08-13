@@ -123,7 +123,7 @@ mr2-onboarding-default-theme-label = Посмотреть темы по умол
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Спасибо, что выбрали нас
-mr2-onboarding-thank-you-text = { -brand-short-name } 一 независимый браузер, поддерживаемый некоммерческой организацией. Вместе мы делаем Интернет более безопасным, здоровым и приватным.
+mr2-onboarding-thank-you-text = { -brand-short-name } — независимый браузер, поддерживаемый некоммерческой организацией. Вместе мы делаем Интернет более безопасным, здоровым и приватным.
 mr2-onboarding-start-browsing-button-label = Начать просмотр сети
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
