@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Ki láthatja továbbra is a tevékenysé
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = A böngészési előzményei törölve lesznek
-about-private-browsing-nova-info-subheader = Az összes keresést és bejelentkezést törölni fogjuk, ha bezárja ezt az ablakot. A { -brand-short-name } beépített védelme itt is be van kapcsolva, például a nyomkövetők blokkolása.
+about-private-browsing-nova-info-subheader2 = Az összes keresést és bejelentkezést törölni fogjuk, ha bezárja az összes privát ablakot. A { -brand-short-name } beépített védelme, például a nyomkövetők blokkolása, itt is be van kapcsolva.
+about-private-browsing-nova-info-subheader = Az összes keresést és bejelentkezést törölni fogjuk, ha bezárja ezt az ablakot. A { -brand-short-name } beépített védelme, például a nyomkövetők blokkolása, itt is be van kapcsolva.

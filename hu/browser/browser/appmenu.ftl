@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Jelentkezzen be a { -brand-product-name }ba
 appmenuitem-fxa-manage-account = Fiók kezelése
 fxa-menu-sync-status-on = Szinkronizálás be
 fxa-menu-sync-status-off = Szinkronizálás ki
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Szinkronizálja az adatait
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Az adatai nem szinkronizálódnak
@@ -394,6 +397,7 @@ appmenuitem-relay-title-signed-in = E-mail-maszkok megtekintése
 appmenuitem-relay-description = Maszkolja a valódi e-mail-címét és telefonszámát
 appmenuitem-services-relay-description = E-mail-maszkok irányítópultjának elindítása
 appmenuitem-vpn-title2 = Rejtse el a helyét a { -mozilla-vpn-brand-name } segítségével
+appmenuitem-vpn-description4 = További védelem az alkalmazások és eszközök között
 appmenuitem-vpn-description3 = Legyen nehezebben nyomon követhető a böngészése
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Kapjon teljes eszközvédelmet
