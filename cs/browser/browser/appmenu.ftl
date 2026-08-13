@@ -130,6 +130,9 @@ appmenuitem-fxa-sign-in =
 appmenuitem-fxa-manage-account = Správa účtu
 fxa-menu-sync-status-on = Synchronizace je zapnuta
 fxa-menu-sync-status-off = Synchronizace je vypnuta
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Synchronizace vašich dat
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Vaše data se nesynchronizují
