@@ -59,6 +59,15 @@ fxa-menu-send-tab-to-device-description = Küldjön el egy lapot bármely eszkö
 fxa-menu-sign-out =
     .label = Kijelentkezés…
 fxa-menu-sync-description = Érje el a webet bárhol
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = Bejelentkezés
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Ön kijelentkezett.
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = Beállítás befejezése
 fxa-avatar-sign-in = Bejelentkezés
 fxa-avatar-sign-up = Regisztráció
 fxa-avatar-tooltip =
