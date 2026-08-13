@@ -1,0 +1,34 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## The share panel, opened from the share button in the address bar.
+
+# Address bar button that opens the share panel.
+urlbar-share-button =
+    .aria-label = 이 페이지 공유
+    .tooltiptext = 이 페이지 공유
+share-panel-heading = 페이지 공유
+share-panel-copy-link =
+    .label = 링크 복사
+share-panel-os-share =
+    .label = 공유…
+share-panel-mail =
+    .label = 이메일 보내기
+share-panel-screenshot =
+    .label = 스크린샷 찍기
+share-panel-qr-code =
+    .label = QR 코드 공유
+# This string is shown when the user has more than 1 device signed in to their account.
+# Clicking this will bring them to a subview where all of their devices are listed.
+share-panel-send-to-device =
+    .label = 기기로 보내기
+# This string is shown when the user has no other devices signed in to their account.
+# Clicking this will bring them to a place where they can connect other devices.
+share-panel-send-to-mobile =
+    .label = 모바일로 보내기
+share-panel-device-subview =
+    .title = 모든 기기
+share-panel-os-share-subview =
+    .title = 공유…

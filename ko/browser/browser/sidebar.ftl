@@ -162,6 +162,24 @@ sidebar-opentabs-sort-option-order =
 sidebar-opentabs-sort-option-recency =
     .label = 최근 사용 순
 
+## Labels for the open tabs hover preview
+
+# Heading at the top of the preview shown when hovering the Open Tabs button
+# in the sidebar. "Recent tabs" refers to the tabs that were active most
+# recently, not to tabs that were recently opened.
+sidebar-opentabs-preview-heading = 최근 탭
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = { $tabTitle } 닫기
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = 탭 음소거
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = 탭 음소거 해제
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

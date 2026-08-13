@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = { -brand-product-name }에 로그인
 appmenuitem-fxa-manage-account = 계정 관리
 fxa-menu-sync-status-on = 동기화 켜짐
 fxa-menu-sync-status-off = 동기화 꺼짐
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = 데이터 동기화
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = 데이터가 동기화되고 있지 않음

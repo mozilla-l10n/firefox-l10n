@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Đăng nhập vào { -brand-product-name }
 appmenuitem-fxa-manage-account = Quản lý tài khoản
 fxa-menu-sync-status-on = Đồng bộ hóa đang bật
 fxa-menu-sync-status-off = Đồng bộ hoá đã bị tắt
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Đồng bộ hoá dữ liệu của bạn
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Dữ liệu của bạn không được đồng bộ

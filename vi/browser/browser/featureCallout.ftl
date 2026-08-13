@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Khởi chạy trang web phát trực tuy�
 taskbar-tabs-value-prop-callout-title = Thêm trang web này vào thanh tác vụ của bạn
 taskbar-tabs-value-prop-callout-subtitle = Khởi chạy nó trong cửa sổ riêng nó và giao diện đơn giản chỉ bằng một cú nhấp chuột.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Luôn kết nối từ thanh tác vụ của bạn
+taskbar-tabs-email-callout-title-v3 = Giữ hộp thư đến của bạn trong thanh tác vụ
+taskbar-tabs-email-callout-subtitle-v3 = Khởi chạy các trang email của bạn như một ứng dụng trong một cửa sổ được sắp xếp hợp lý được bảo vệ bởi { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Giữ ứng dụng phát trực tuyến của bạn trong thanh tác vụ
+taskbar-tabs-media-callout-subtitle-v3 = Khởi chạy các trang phát trực tuyến của bạn như một ứng dụng trong một cửa sổ được sắp xếp hợp lý được bảo vệ bởi { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Giữ các trang yêu thích của bạn trong thanh tác vụ
+taskbar-tabs-value-prop-callout-subtitle-v3 = Khởi chạy bất kỳ trang nào như một ứng dụng trong một cửa sổ được sắp xếp hợp lý được bảo vệ bởi { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Quay lại chơi trò chơi từ thanh tác vụ
+taskbar-tabs-gaming-callout-subtitle-v3 = Khởi chạy trang web chơi trò chơi của bạn như một ứng dụng trong cửa sổ được sắp xếp hợp lý được bảo vệ bởi { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Ghim vào thanh tác vụ
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Đừng mất mọi thứ bạn đã lưu khi chuyển sang Windows 11.
