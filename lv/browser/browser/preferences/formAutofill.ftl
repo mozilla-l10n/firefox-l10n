@@ -13,7 +13,7 @@ autofill-manage-payment-methods-title = Saglabātās maksājumu metodes
 autofill-manage-cards-list-header = Kartes
 autofill-manage-dialog =
     .style = min-width: 560px
-autofill-manage-remove-button = Aizvākt
+autofill-manage-remove-button = Noņemt
 autofill-manage-add-button = Pievienot…
 autofill-manage-edit-button = Labot…
 

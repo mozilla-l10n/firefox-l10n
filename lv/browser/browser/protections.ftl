@@ -34,7 +34,7 @@ protection-report-settings-link = Pārvaldiet savus privātuma un drošības ies
 etp-card-title-always = Uzlabota aizsardzība pret izsekošanu: vienmēr ieslēgta
 etp-card-title-custom-not-blocking = Uzlabota aizsardzība pret izsekošanu: izslēgta
 etp-card-content-description = { -brand-short-name } automātiski neļauj uzņēmumiem jums slepeni sekot tīmeklī.
-protection-report-etp-card-content-custom-not-blocking = Visas aizsardzības pašlaik ir izslēgtas. Izvēlieties, kurus izsekotājus bloķēt, pārvaldot savus { -brand-short-name } aizsardzības iestatījumus.
+protection-report-etp-card-content-custom-not-blocking = Visa aizsardzība pašlaik ir izslēgta. Jāizvēlas, kurus izsekotājus aizturēt, pārvaldot savus { -brand-short-name } aizsardzības iestatījumus.
 protection-report-manage-protections = Pārvaldīt iestatījumus
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.

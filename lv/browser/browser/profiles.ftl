@@ -57,20 +57,33 @@ edit-profile-page-profile-saved = Saglabāts
 new-profile-page-title = Jauns profils
 new-profile-page-header = Pielāgo savu jauno profilu
 new-profile-page-learn-more = Uzzināt vairāk
+new-profile-page-input-placeholder =
+    .placeholder = Izvēlies nosaukumu, piemēram, “Darbs” vai “Personīgs”
 new-profile-page-done-button =
     .label = Pabeigt rediģēšanu
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = “{ $profilename }” kopija ir gatava pielāgošanai
 restored-profile-page-header = Pielāgo savu atjaunoto profilu
+profile-window-title-2 = { -brand-short-name } - Izvēlies profilu
+profile-window-logo =
+    .alt = { -brand-short-name } logotips
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Izdzēst profilu { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Izdzēst profilu { $profilename }?
+delete-profile-description = { -brand-short-name } no šīs ierīces neatgriezeniski izdzēsīs šādus datus:
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Atvērti logi
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Atvērtas cilnes
 delete-profile-bookmarks = Grāmatzīmes
+delete-profile-history = Vēsture (apmeklētās lapas, sīkdatnes, vietņu dati)
 delete-profile-logins = Paroles
 
 ##
