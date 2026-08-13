@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Aanmelden bij { -brand-product-name }
 appmenuitem-fxa-manage-account = Account beheren
 fxa-menu-sync-status-on = Synchronisatie is Aan
 fxa-menu-sync-status-off = Synchronisatie is Uit
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Uw gegevens synchroniseren
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Uw gegevens worden niet gesynchroniseerd
