@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = 登入 { -brand-product-name }
 appmenuitem-fxa-manage-account = 管理帳號
 fxa-menu-sync-status-on = 已開啟同步
 fxa-menu-sync-status-off = 已關閉同步
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = 同步您的資料
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = 未同步您的資料
