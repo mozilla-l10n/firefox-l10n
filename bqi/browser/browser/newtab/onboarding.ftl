@@ -139,13 +139,13 @@ fx100-upgrade-thanks-header = 100 ممنووݩ داری
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = زفت کردن وو رئڌن وا پؽش
 # Set Default action checkbox label used on new user onboarding first screen
-mr2022-onboarding-easy-setup-set-default-checkbox-label = سامووݩ { -brand-short-name } و عونوان گشت گر پؽش فرز
+mr2022-onboarding-easy-setup-set-default-checkbox-label = { -brand-short-name } ن و عونوان گشت گر پؽش فرز سامووݩ کۊنین
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = و من ٱووردن ز گشت گر پؽشی
 
 ## MR2022 New User Set Default screen strings
 
-mr2022-onboarding-set-default-primary-button-label = سامووݩ { -brand-short-name } و عونوان گشت گر پؽش فرز
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ن و عونوان گشت گر پؽش فرز سامووݩ کۊنین
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page

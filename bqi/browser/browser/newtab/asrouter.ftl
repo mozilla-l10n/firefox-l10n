@@ -255,6 +255,7 @@ fxa-menu-message-mobile-collapsed-text = هوم گوم کردن وا گۊشی ا
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = خش وورگشتین
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } ن و سۊرت پؽش فرز سامووݩ کۊنین
 multi-cta-fox-doodle-start-browsing-primary-button-label = ناهاڌن پا گشتن
 
 ## Windows 10 EoS Sync messages group 1 toast notification
