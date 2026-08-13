@@ -1242,7 +1242,7 @@ home-prefs-support-firefox-header =
 home-prefs-mission-message = Naši sponzoři podporují naši misi budovat lepší web.
 home-prefs-mission-message-learn-more-link = Zjistěte jak
 home-prefs-manage-topics-link = Správa témat
-home-prefs-choose-wallpaper-link = Zvolte si tapetu
+home-prefs-choose-wallpaper-link = Vybrat tapetu
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
