@@ -36,8 +36,8 @@ ai-window-toggleview-switch-ai =
     .label = { -smart-window-brand-name }
     .value = { -smart-window-brand-name }
 ai-window-toggleview-switch-ai-description =
-    .label = Ptát se během prohlížení
-    .value = Ptát se během prohlížení
+    .label = Ptejte se během prohlížení
+    .value = Ptejte se během prohlížení
 ai-window-toggleview-switch-private =
     .label = Anonymní okno
 ai-window-toggleview-open-private =
@@ -327,7 +327,7 @@ smartwindow-close-tab-callout-subtitle = Panely z historie můžete kdykoli znov
 ## Smart Window new tab promo
 
 smart-window-default-promo-heading = Nastavit { -smart-window-brand-name(case: "acc") } jako výchozí?
-smart-window-default-promo-message = { -brand-short-name } se vždy otevře v režimu { -smart-window-brand-name(case: "loc") }.
+smart-window-default-promo-message = { -brand-short-name } se vždy otevře v režimu { -smart-window-brand-name }.
 smart-window-default-promo-primary-button = Nastavit jako výchozí
 smart-window-default-promo-additional-button = Teď ne
 
