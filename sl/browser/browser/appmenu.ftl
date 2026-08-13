@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Prijava v { -brand-product-name }
 appmenuitem-fxa-manage-account = Upravljanje računa
 fxa-menu-sync-status-on = Sinhronizacija je vklopljena
 fxa-menu-sync-status-off = Sinhronizacija je izklopljena
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Sinhronizirajte podatke
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Vaši podatki se ne sinhronizirajo
