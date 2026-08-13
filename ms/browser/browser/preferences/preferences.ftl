@@ -879,13 +879,43 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Seimbang untuk perlindungan dan prestasi. Halaman akan dimuatkan seperti biasa.
 content-blocking-etp-strict-desc = Perlindungan lebih kuat, tetapi mungkin menyebabkan sesetengah laman web atau kandungan tidak berfungsi.
 content-blocking-etp-custom-desc = Pilih penjejak dan skrip untuk disekat.
+content-blocking-private-windows = Kandungan penjejakan dalam Tetingkap Peribadi
+content-blocking-cross-site-tracking-cookies = Kuki penjejak rentas laman
+content-blocking-cross-site-tracking-cookies-plus-isolate = Kuki penjejak rentas laman, dan asingkan kuki selebihnya
+content-blocking-social-media-trackers = Penjejak media sosial
+content-blocking-all-cookies = Semua kuki
+content-blocking-unvisited-cookies = Kuki daripada laman web yang tidak dilawati
+content-blocking-all-windows-tracking-content = Kandungan penjejakan dalam semua tetingkap
+content-blocking-cryptominers = Pelombong kripto
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+content-blocking-warning-title = Perhatian!
+content-blocking-and-isolating-etp-warning-description-2 = Tetapan ini mungkin menyebabkan sesetengah laman web tidak memaparkan kandungan atau tidak berfungsi dengan betul. Jika sesuatu laman kelihatan rosak, anda mungkin mahu mematikan perlindungan penjejakan bagi laman tersebut untuk memuatkan semua kandungan.
+content-blocking-warning-learn-how = Ketahui caranya
+content-blocking-reload-description = Anda perlu memuat semula tab anda untuk menerapkan perubahan ini.
+content-blocking-reload-tabs-button =
+    .label = Muat Semula Semua Tab
+    .accesskey = M
+content-blocking-tracking-content-label =
+    .label = Kandungan penjejakan
+    .accesskey = K
+content-blocking-tracking-protection-option-all-windows =
+    .label = Dalam semua tetingkap
+    .accesskey = s
+content-blocking-option-private =
+    .label = Hanya dalam Tetingkap Peribadi
+    .accesskey = P
 content-blocking-tracking-protection-change-block-list = Tukar senarai sekatan
 content-blocking-cookies-label =
     .label = Kuki
     .accesskey = K
+content-blocking-expand-section =
+    .tooltiptext = Maklumat lanjut
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Pelombong kripto
+    .accesskey = P
 
 ## Privacy Section - Tracking
 
@@ -900,6 +930,10 @@ permissions-location = Lokasi
 permissions-location-settings =
     .label = Tetapan…
     .accesskey = t
+permissions-xr = Realiti Maya
+permissions-xr-settings =
+    .label = Tetapan...
+    .accesskey = T
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Tetapan…
@@ -916,11 +950,15 @@ permissions-notification-link = Ketahui selanjutnya
 permissions-notification-pause =
     .label = Jeda notifikasi hingga { -brand-short-name } mula semula
     .accesskey = n
+permissions-autoplay = Main automatik
+permissions-autoplay-settings =
+    .label = Tetapan…
+    .accesskey = T
 permissions-block-popups =
-    .label = Sekat tetingkap popup
+    .label = Sekat tetingkap timbul
     .accesskey = S
 permissions-addon-install-warning =
-    .label = Beri amaran apabila laman web cuba memasang add-ons
+    .label = Beri amaran apabila laman web cuba memasang sambungan
     .accesskey = B
 permissions-addon-exceptions =
     .label = Pengecualian…
