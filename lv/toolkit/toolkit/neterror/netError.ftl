@@ -71,7 +71,7 @@ neterror-nss-failure-contact-website = Lūdzu, sazinieties ar lapas īpašniekie
 certerror-intro = { -brand-short-name } atklāja potenciālus draudus drošībai un nepārgāja uz <b>{ $hostname }</b>. Ja apmeklējat šo vietni, uzbrucēji varētu mēģināt nozagt informāciju, piemēram, jūsu paroles, e-pastus vai kredītkartes datus.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-sts-intro = { -brand-short-name } konstatēja potenciālus drošības draudus un nedevās uz <b>{ $hostname }</b>, jo šai vietnei vajadzīgs drošs savienojums.
+certerror-sts-intro = { -brand-short-name } noteica iespējamus drošības draudus un neturpināja uz <b>{ $hostname }</b>, jo šai tīmekļvietnei nepieciešams drošs savienojums.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } konstatēja problēmu un nedevās uz <b>{ $hostname }</b>. Mājas lapa ir nepareizi konfigurēta vai datora pulkstenis ir iestatīts nepareizā laikā.

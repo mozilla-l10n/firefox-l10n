@@ -232,4 +232,4 @@ webrtc-remember-allow-checkbox-camera-and-microphone = Atcerieties par visām ka
 webrtc-mute-notifications-checkbox = Kopīgošanas laikā izslēgt vietņu paziņojumus
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nevar atļaut pastāvīgu piekļuvi jūsu ekrānam.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nevar atļaut pastāvīgu piekļuvi jūsu cilnes audio nejautājot kuru tieši cilni koplietot.
-webrtc-reason-for-no-permanent-allow-insecure = Jūsu savienojums ar šo lapu nav drošs. Lai jūs aizsargātu, { -brand-short-name } atļaus piekļuvi tikai uz šīs darba sesijas laiku.
+webrtc-reason-for-no-permanent-allow-insecure = Savienojums ar šo vietni nav drošs. Lai aizsargātu Tevi, { -brand-short-name } atļaus piekļuvi tikai šai sesijai.

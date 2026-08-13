@@ -30,12 +30,17 @@ policy-BlockAboutSupport = Estä pääsy about:support-sivulle.
 policy-Bookmarks = Luo kirjanmerkkejä kirjanmerkkipalkkiin, Kirjanmerkit-valikkoon tai tiettyyn kansioon niiden sisälle.
 policy-CaptivePortal = Ota käyttöön tai poista käytöstä vahtiportaalien tuki.
 policy-CertificatesDescription = Lisää varmenteita tai käytä sisäänrakennettuja varmenteita.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Ota käyttöön CNSA 2.0 ML-KEM-1024 -avainsopimus TLS:lle.
 policy-ContentAnalysis = Yhdistä tai poista yhteys tietojen menetyksen estämisen agenttiin.
 policy-Cookies = Salli tai estä, että sivustot asettavat evästeitä.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Aseta eristystiloihin liittyvät käytännöt.
 policy-DisableAccounts = Poista käytöstä tilipohjaiset palvelut, mukaan lukien synkronointi.
 policy-DisabledCiphers = Poista salausalgoritmeja käytöstä.
+policy-DefaultBrowserSettingEnabled = Määritä, voiko käyttäjä asettaa { -brand-short-name }-selaimen oletusselaimeksi.
 policy-DefaultDownloadDirectory = Aseta oletuslatauskansio.
 policy-DefaultSerialGuardSetting = Hallitse Serial API:n käyttöä.
 policy-DisableAppUpdate = Estä selainta päivittymästä.
@@ -52,6 +57,7 @@ policy-DisableFirefoxScreenshots = Poista Firefox Screenshots -ominaisuus käyt�
 policy-DisableFirefoxStudies = Estä { -brand-short-name } suorittamasta tutkimuksia.
 policy-DisableForgetButton = Estä pääsy Unohda-painikkeeseen.
 policy-DisableFormHistory = Älä tallenna haku- ja lomakehistoriaa.
+policy-DisableLaunchOnLogin = Estä { -brand-short-name }-selainta käynnistymästä automaattisesti, kun käyttäjä kirjautuu sisään.
 policy-DisablePrimaryPasswordCreation = Jos tosi, pääsalasanaa ei voi luoda.
 policy-DisablePasswordReveal = Älä salli salasanojen paljastamista tallennetuissa kirjautumistiedoissa.
 policy-DisablePocket2 = Poista käytöstä ominaisuus, jolla verkkosivuja voi tallentaa { -pocket-brand-name }-palveluun.
