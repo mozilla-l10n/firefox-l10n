@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Problēmu novēršanas informācija
-page-subtitle = Šī lapa satur tehnisku informāciju, kas var būt noderīga, mēģinot novērst problēmu. Ja meklējat atbildes uz vienkāršiem jautājumiem par { -brand-short-name }, aplūkojiet mūsu <a data-l10n-name="support-link">atbalsta mājas lapu</a>.
+page-subtitle = Šī lapa satur tehnisku informāciju, kas var būt noderīga, mēģinot novērst sarežģījumu. Ja meklē atbildes uz vienkāršiem jautājumiem par { -brand-short-name }, aplūko mūsu <a data-l10n-name="support-link">atbalsta tīmekļvietni</a>!
 crashes-title = Avārijas ziņojumi
 crashes-id = Ziņojuma ID
 crashes-send-date = Nosūtīts

@@ -1570,6 +1570,10 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Aplūkot { -brand-short-name } pētījumus
 
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-private-attribution-description = Tas palīdz vietnēm saprast, kā darbojas to reklāmas bez lietotāju datu ievākšanas.
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:

@@ -116,7 +116,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = P
 protections-panel-content-blocking-breakage-report-view =
     .title = Ziņot par bojātu vietni
-protections-panel-content-blocking-breakage-report-view-description = Dažu izsekotāju bloķēšana var radīt problēmas ar dažām vietnēm. Ziņošana par šīm problēmām palīdz padarīt { -brand-short-name } labāku ikvienam. Nosūtot šo ziņojumu, Mozilla tiks nosūtīts URL un informācija par jūsu pārlūkprogrammas iestatījumiem. <label data-l10n-name="learn-more">Uzziniet vairāk</label>
+protections-panel-content-blocking-breakage-report-view-description = Noteiktu izsekotāju liegšana var radīt sarežģījumus ar dažām vietnēm. Ziņošana par šādiem starpgadījumiem palīdz padarīt { -brand-short-name } labāku ikvienam. Ar šī ziņojuma nosūtīšanu “Mozilla” tiks nosūtīts URL un informācija par pārlūka iestatījumiem. <label data-l10n-name="learn-more">Uzzināt vairāk</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

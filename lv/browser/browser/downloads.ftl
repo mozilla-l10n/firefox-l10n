@@ -187,7 +187,7 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Faili paliek jūsu ierīcē
-downloads-private-browsing-message = Ikviens, kas izmanto šo ierīci, pat ja aizverat visus privātos logus, var redzēt lejupielādes.
+downloads-private-browsing-message = Ikviens, kas izmanto šo ierīci, var redzēt lejupielādes, pat ja ir aizvērti visi privātie logi.
 downloads-private-browsing-delete-button =
     .label = Dzēst failus automātiski
     .accesskey = D

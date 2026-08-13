@@ -25,7 +25,7 @@ cert-error-domain-mismatch = Mājaslapas pierāda savu identitāti izmantojot se
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $alt-name (string) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Mājaslapas pierāda savu identitāti ar sertifikātiem. { -brand-short-name } neuzticas šai vietnei, jo tā izmanto sertifikātu, kas nav derīgs priekš { $hostname }. Sertifikāts ir derīgs tikai priekš <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch-single = Tīmekļvietnes pierāda savu identitāti ar sertifikātiem. { -brand-short-name } neuzticas šai vietnei, jo tā izmanto sertifikātu, kas nav derīgs { $hostname }. Sertifikāts ir derīgs tikai <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $alt-name (string) - Alternate domain name for which the cert is valid.
