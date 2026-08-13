@@ -20,3 +20,24 @@ colorpicker-tooltip-hue-slider-title = Árnyalat
 colorpicker-tooltip-alpha-slider-title = Átlátszatlanság
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Elemfüggő pszeudoosztályok
+# A title text for the emulation panel toggle button in the Rule View toolbar
+# that toggles the emulation features panel.
+inspector-emulation-panel-toggle =
+    .title = CSS emulációs funkciók be/ki
+    .aria-label = CSS emulációs funkciók be/ki
+inspector-emulation-panel-color-scheme = Színséma-emuláció
+# A label text for the light color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-light = Világos
+    .aria-label = Világos színséma emulációjának engedélyezése
+# A label text for the dark color scheme emulation radio button option.
+inspector-emulation-panel-color-scheme-dark = Sötét
+    .aria-label = Sötét színséma emulációjának engedélyezése
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Nincs emuláció
+    .aria-label = Színséma-emuláció letiltása
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Csökkentés
+    .aria-label = Csökkentett mozgás emulációjának engedélyezése
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Nincs emuláció
+    .aria-label = Csökkentett mozgás emulációjának letiltása
