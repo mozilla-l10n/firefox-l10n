@@ -8,20 +8,50 @@ ai-window-activate-link =
     .label = Hasi erabiltzen
 ai-window-default-section =
     .label = Ezarpen lehenetsiak
+ai-window-open-sidebar =
+    .label = Ireki laguntzailea automatikoki
+    .description = Erakutsi laguntzailearen alboko barra fitxa berri bakoitzean. Edonoiz itxi dezakezu.
+ai-window-smart-cursor-in-smart-window =
+    .label = Erakutsi lasterbideak testua hautatzean
+    .description = Izan sarbide azkarra testua laburbiltzeko, azaltzeko eta gehiagorako.
+smart-window-model-section =
+    .label = Laguntzailearen modeloa
+    .description = Aukeratu modeloa zuretzat garrantzitsua denaren arabera.
+smart-window-model-learn-link = Modeloei buruzko argibide gehiago
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .label = Azkarra: berehala erantzuten du
+    .description = { $model } modeloa, egilea: { $ownerName }
+smart-window-model-flexible =
+    .label = Malgua: aukera sendoa ohiko beharretarako
+    .description = { $model } modeloa, egilea: { $ownerName }
+smart-window-model-personal =
+    .label = Pertsonala: neurrira egindako erantzunak
+    .description = { $model } modeloa, egilea: { $ownerName }
+smart-window-model-custom =
+    .label = Pertsonalizatua: erabili zure LLM propioa
 smart-window-model-custom-name =
     .label = Modeloaren izena
     .placeholder = Adibidea: glm4
+smart-window-model-custom-url =
+    .label = Modeloaren amaiera-puntua
+    .placeholder = Adibidea: http://localhost:11434/v1
 smart-window-model-custom-token =
     .label = API gakoa edo autentifikazio-tokena, beharrezkoa bada
+smart-window-model-custom-more-link = Modelo pertsonalizatuei buruzko argibide gehiago
 smart-window-model-custom-save =
     .label = Gorde
 smart-window-model-custom-save-confirmation = Modeloaren xehetasunak gorde dira. Probatzeko, hasi txat berri bat.
+ai-window-memories-section =
+    .label = Memoriak
+    .description = { -brand-short-name }(e)k zure jarduerarengandik ikas dezake memoriak sortzeko. Hauek erantzunak pertsonalizatzeko erabiltzen dira eta gailu honetan modu lokalean biltegiratzen dira.
+ai-window-manage-memories-button =
+    .label = Kudeatu memoriak
 ai-window-delete-all-memories-button =
     .label = Ezabatu denak
 ai-window-delete-all-memories-confirm = Ezabatu

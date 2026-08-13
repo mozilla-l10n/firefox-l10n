@@ -630,6 +630,7 @@ smartwindow-sidebar-auto-open-callout-body = Behar duzunean berriro ireki dezake
 smartwindow-sidebar-auto-open-callout-accept = Bai, mantendu itxita
 smartwindow-sidebar-auto-open-callout-dismiss = Ez, eskerrik asko
 smartwindow-sidebar-auto-open-callout-accepted-title = Laguntzailea itxita egongo da
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Edozein orritan irekitzeko, erabili 'Galdetu' botoia. Aldatu hau edonoiz <a data-l10n-name="settings">ezarpenetan</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = Ulertuta
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Iritziz aldatuz gero, aukera lehenetsia <a data-l10n-name="settings">ezarpenetan</a> alda dezakezu noiznahi.
 
