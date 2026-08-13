@@ -364,6 +364,11 @@ onboarding-new-user-survey-familiarity-based-option-4 = Esmu to izmantojis, bet 
 
 onboarding-checklist-extension = Pievienot paplašinājumu
 
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-create-group-no-alltabs-button-title = Atrodi savas kopas, meklējot tās adrešu joslā!
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Atrodi savas aizvērtās kopas, meklējot tās adrešu joslā!
+
 ## Fx Backup onboarding: Create Backup spotlight
 
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Uzzināt vairāk</a>

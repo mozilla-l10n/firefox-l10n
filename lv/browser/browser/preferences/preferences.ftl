@@ -805,6 +805,9 @@ search-show-suggestions-above-history-option-2 =
     .label = Meklēšanas ieteikumus adreses joslā rādīt pirms pārlūkošanas vēstures
 search-suggestions-cant-show-2 =
     .message = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
+addressbar-header-1 =
+    .label = Adrešu josla
+    .description = Izvēlies, kuri ieteikumi tiek rādīti adrešu joslā
 # When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
 addressbar-header-firefox-suggest-2 =
     .label = { -firefox-suggest-brand-name }

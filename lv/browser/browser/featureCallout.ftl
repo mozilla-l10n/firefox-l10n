@@ -66,6 +66,7 @@ split-dismiss-button-manage-settings-option =
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-title = Pievienot šo vietni grāmatzīmju joslai?
+bookmarks-toolbar-callout-1-subtitle = Grāmatzīme tiks saglabāta tieši zem adrešu joslas ātrai piekļuvei.
 bookmarks-toolbar-callout-1-primary-button-label = Pievienot grāmatzīmi
 
 ## Taskbar Tabs callout strings
