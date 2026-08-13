@@ -35,10 +35,10 @@ contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Lai ap
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = parādīt saglabāto paroli
 # This message can be seen when attempting to edit a login in contextual password manager on Windows.
-contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Lai rediģētu savu paroli, jāievada Windows ierkastīšanās informācija. Tas palīdz aisargāt kontu drošību.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Lai labotu savu paroli, jāievada Windows pieteikšanās dati. Tas palīdz aizsargāt kontu drošību.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = rediģēt saglabāto paroli
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = labot saglabāto paroli
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Lai kopētu savu paroli, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
@@ -226,7 +226,7 @@ contextual-manager-passwords-create-label =
 contextual-manager-passwords-update-label =
     .label = Atjaunināt paroli
 contextual-manager-passwords-edit-label =
-    .label = Rediģēt paroli
+    .label = Labot paroli
 contextual-manager-passwords-remove-label =
     .title = Noņemt paroli
 contextual-manager-passwords-origin-field =
@@ -287,8 +287,8 @@ contextual-manager-password-login-line =
 contextual-manager-password-login-line-with-alert =
     .aria-label = Kopēt paroli (brīdinājums)
     .title = Kopēt paroli (brīdinājums)
-contextual-manager-edit-login-button = Rediģēt
-    .tooltiptext = Rediģēt paroli
+contextual-manager-edit-login-button = Labot
+    .tooltiptext = Labot paroli
 contextual-manager-view-alert-heading =
     .heading = Skatīt brīdinājumu
 contextual-manager-view-alert-button =

@@ -144,8 +144,8 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Pievienot meklētāju
 newtab-topsites-add-shortcut-header = Jauna saīsne
-newtab-topsites-edit-topsites-header = Rediģēt populārās vietnes
-newtab-topsites-edit-shortcut-header = Rediģēt saīsni
+newtab-topsites-edit-topsites-header = Labot populārās vietnes
+newtab-topsites-edit-shortcut-header = Labot saīsni
 newtab-topsites-add-shortcut-label = Pievienot saīsni
 newtab-topsites-add-shortcut-title =
     .title = Pievienot saīsni
@@ -203,12 +203,12 @@ newtab-menu-content-tooltip =
     .aria-label = Atvērt izvēlni { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Rediģēt šo vietni
-    .aria-label = Rediģēt šo vietni
+    .title = Labot šo vietni
+    .aria-label = Labot šo vietni
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
-newtab-menu-edit-topsites = Rediģēt
+newtab-menu-edit-topsites = Labot
 newtab-menu-add-topsite = Pievienot jaunu saīsni
 newtab-menu-open-new-window = Atvērt jaunā logā
 newtab-menu-open-new-private-window = Atvērt jaunā privātajā logā

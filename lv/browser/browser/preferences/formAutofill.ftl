@@ -15,7 +15,7 @@ autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Aizvākt
 autofill-manage-add-button = Pievienot…
-autofill-manage-edit-button = Rediģēt…
+autofill-manage-edit-button = Labot…
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
 ## autofill feature. For more information on the address structure (e.g. levels),
@@ -24,7 +24,7 @@ autofill-manage-edit-button = Rediģēt…
 address-capture-save-doorhanger-header = Saglabāt adresi?
 address-capture-save-doorhanger-description = Saglabājiet informāciju { -brand-short-name }, lai varētu ātri aizpildīt veidlapas.
 address-capture-update-doorhanger-header = Atjaunināt adresi?
-address-capture-edit-doorhanger-header = Rediģēt adresi
+address-capture-edit-doorhanger-header = Labot adresi
 address-capture-save-button =
     .label = Saglabāt
     .accessKey = S
@@ -43,14 +43,14 @@ address-capture-learn-more-button =
     .label = Uzzināt vairāk
 address-capture-open-menu-button =
     .aria-label = Atvērt izvēlni
-address-capture-edit-address-link = Rediģēt adresi
-    .aria-label = Rediģēt adresi
+address-capture-edit-address-link = Labot adresi
+    .aria-label = Labot adresi
 address-capture-edit-address-button =
-    .aria-label = Rediģēt adresi
+    .aria-label = Labot adresi
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Pievienot adresi
 # The dialog title for editing addresses in browser preferences.
-autofill-edit-address-title = Rediģēt adresi
+autofill-edit-address-title = Labot adresi
 autofill-address-given-name = Vārds
 autofill-address-additional-name = Otrs vārds
 autofill-address-family-name = Uzvārds
@@ -133,7 +133,7 @@ autofill-country-warning-message = Formu automātiskās aizpilde šobrīd ir pie
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Paslēpt kredītkarti
 # The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Rediģēt kredītkarti
+autofill-edit-card-title = Labot maksājumu karti
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -146,7 +146,7 @@ autofill-message-tooltip = Skatīt ziņojumu par automātisko aizpildīšanu
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Pievienot karti
 # The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Rediģēt karti
+autofill-edit-card-title2 = Labot karti
 autofill-card-number-2 =
     .label = Kartes numurs
 autofill-card-number = Kartes numurs

@@ -125,7 +125,7 @@ about-logins-intro-import3 = Atlasiet augstāk esošo pluszīmes pogu, lai pievi
 login-item-new-login-title = Jauna lietotājvārda izveide
 # Header for adding a password
 about-logins-login-item-new-login-title = Pievienot paroli
-login-item-edit-button = Rediģēt
+login-item-edit-button = Labot
 about-logins-login-item-remove-button = Noņemt
 login-item-origin-label = Vietnes adrese
 login-item-tooltip-message = Pārliecinieties, vai tas precīzi atbilst tās vietnes adresei, kurā ierakstāties.
@@ -173,10 +173,10 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Lai rediģētu savu lietotājvārdu, jāievada Windows ierkastīšanās informācija. Tas palīdz sargāt kontu drošību.
+about-logins-edit-login-os-auth-dialog-message-win = Lai labotu savu lietotājvārdu, jāievada Windows pieteikšanās informācija. Tas palīdz sargāt kontu drošību.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = rediģēt saglabāto lietotājvārdu un paroli
+about-logins-edit-login-os-auth-dialog-message-macosx = labot saglabāto pieteikšanās vienumu
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -185,10 +185,10 @@ about-logins-os-auth-dialog-message =
        *[other] { -brand-short-name } mēģina mainīt paroļu iestatījumus. Lai to atļautu, izmantojiet savas ierīces ierakstīšanos.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message2-win = Lai rediģētu savu paroli, jāievada Windows ierkastīšanās informācija. Tas palīdz aisargāt kontu drošību.
+about-logins-edit-login-os-auth-dialog-message2-win = Lai labotu savu paroli, jāievada Windows pieteikšanās informācija. Tas palīdz aizsargāt kontu drošību.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message2-macosx = rediģēt saglabāto paroli
+about-logins-edit-login-os-auth-dialog-message2-macosx = labot saglabāto paroli
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Lai apskatītu savu paroli, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
 # This message can be seen when attempting to reveal a password in about:logins

@@ -311,7 +311,7 @@ urlbar-install-blocked =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = Rediģēt šo grāmatzīmi ({ $shortcut })
+    .tooltiptext = Labot šo grāmatzīmi ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -508,7 +508,7 @@ press-tab-label = Spiest Tab, lai atlasītu:
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Pievienot grāmatzīmi
-bookmarks-edit-bookmark = Rediģēt grāmatzīmi
+bookmarks-edit-bookmark = Labot grāmatzīmi
 bookmark-panel-cancel =
     .label = Atcelt
     .accesskey = C
@@ -1214,7 +1214,7 @@ bookmarks-search =
 bookmarks-tools =
     .label = Grāmatzīmju rīki
 bookmarks-subview-edit-bookmark =
-    .label = Rediģēt šo grāmatzīmi…
+    .label = Labot šo grāmatzīmi…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.

@@ -111,8 +111,8 @@ menu-file-go-offline =
 ## Edit Menu
 
 menu-edit =
-    .label = Rediģēt
-    .accesskey = e
+    .label = Labot
+    .accesskey = l
 menu-edit-find-in-page =
     .label = Meklēt lapā…
     .accesskey = M
@@ -237,7 +237,7 @@ menu-bookmarks-manage =
 menu-bookmark-tab =
     .label = Pievienot grāmatzīmēm pašreizējo cilni…
 menu-edit-bookmark =
-    .label = Rediģēt šo grāmatzīmi…
+    .label = Labot šo grāmatzīmi…
 # "Search" is a verb, as in "Search in bookmarks"
 menu-bookmarks-search =
     .label = Meklēt grāmatzīmes

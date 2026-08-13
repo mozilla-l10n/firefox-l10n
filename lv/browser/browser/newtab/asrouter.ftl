@@ -253,7 +253,7 @@ device-migration-fxa-spotlight-getting-new-device-primary-button = Kā dublēt s
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>Vai padarīt { -brand-short-name } par noklusējuma PDF lasītāju?</strong> Izmantojiet { -brand-short-name }, lai lasītu un rediģētu datorā saglabātās PDF datnes.
+pdf-default-notification-message = <strong>Vai padarīt { -brand-short-name } par noklusējuma PDF lasītāju?</strong> Izmanto { -brand-short-name }, lai lasītu un labotu datorā saglabātās PDF datnes!
 pdf-default-notification-set-default-button =
     .label = Iestatīt kā noklusējuma
 pdf-default-notification-decline-button =

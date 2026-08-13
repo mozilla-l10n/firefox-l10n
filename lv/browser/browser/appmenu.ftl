@@ -159,7 +159,7 @@ profiler-popup-settings =
     .value = Iestatījumi
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
-    .label = Rediģēt iestatījumus…
+    .label = Mainīt iestatījumus…
 profiler-popup-recording-screen = Ierakstīšana…
 profiler-popup-start-recording-button =
     .label = Sākt ierakstīšanu
@@ -323,6 +323,6 @@ appmenu-copy-profile =
 appmenu-create-profile =
     .label = Jauns profils
 appmenu-edit-profile =
-    .aria-label = Rediģēt profilu
+    .aria-label = Labot profilu
 appmenu-profiles-2 =
     .label = Profili

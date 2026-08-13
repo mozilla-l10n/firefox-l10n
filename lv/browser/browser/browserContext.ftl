@@ -106,7 +106,7 @@ main-context-menu-bookmark-page-mac =
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
 # so should probably have the same access key if possible.
 main-context-menu-edit-bookmark-mac =
-    .label = Rediģēt grāmatzīmi…
+    .label = Labot grāmatzīmi…
     .accesskey = g
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
@@ -115,15 +115,15 @@ main-context-menu-bookmark-page-with-shortcut =
     .accesskey = g
     .tooltiptext = Saglabāta grāmatzīmēs ({ $shortcut })
 main-context-menu-edit-bookmark =
-    .aria-label = Rediģēt grāmatzīmi…
+    .aria-label = Labot grāmatzīmi…
     .accesskey = g
-    .tooltiptext = Rediģēt grāmatzīmi
+    .tooltiptext = Labot grāmatzīmi
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
-    .aria-label = Rediģēt grāmatzīmi…
+    .aria-label = Labot grāmatzīmi…
     .accesskey = g
-    .tooltiptext = Rediģēt grāmatzīmi ({ $shortcut })
+    .tooltiptext = Labot grāmatzīmi ({ $shortcut })
 main-context-menu-open-link =
     .label = Atvērt saiti
     .accesskey = A
