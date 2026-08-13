@@ -128,6 +128,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Felugró ablakok és harmadik féltől származó átirányítási beállítások kezelése…
     .accesskey = F
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Webhely-információk megtekintése
+            [1] Webhely-információk megtekintése (1 nyomkövető blokkolva)
+            [one] Webhely-információk megtekintése ({ $count } nyomkövető blokkolva)
+           *[other] Webhely-információk megtekintése ({ $count } nyomkövető blokkolva)
+        }
 
 ##
 
@@ -614,6 +624,8 @@ identity-description-passive-loaded-insecure2 = A weboldal nem biztonságos elem
 identity-description-passive-loaded-mixed2 = Noha a { -brand-short-name } blokkolt bizonyos tartalmakat, még mindig van nem biztonságos tartalom (például képek) az oldalon.
 identity-description-active-loaded = A weboldal nem biztonságos elemeket (például parancsfájlokat) tartalmaz, és a kapcsolat nem biztonságos.
 identity-description-active-loaded-insecure = Az oldalnak elküldött információkat mások is láthatják (például a jelszavakat, üzeneteket, bankkártya-adatokat stb.).
+identity-description-tls-key-logging-heading = A kapcsolata nem biztos, hogy privát
+identity-description-tls-key-logging-message = Egy alkalmazás vagy szolgáltatás láthatja a titkosított forgalmát erről az oldalról.
 identity-disable-mixed-content-blocking =
     .label = Védelem kikapcsolása most
     .accesskey = k
@@ -963,6 +975,13 @@ urlbar-result-explanation-bookmarked = Könyvjelzőzve: { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Utoljára felkeresve: { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Utoljára felkeresve: { $date }
 # This explanation is used when the last-visited date is a small number of days
 # in the past.
 # Variables:
@@ -1568,6 +1587,14 @@ private-browsing-indicator-label = Privát böngészés
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Privát böngészés
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Privát böngészés információi
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Jelenleg privát ablakban van
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Ez segít abban, hogy ezen az eszközön rejtve maradjon mások elől, de nem teszi láthatatlanná az interneten. <a data-l10n-name="learn-more">Ki láthatja a tevékenységemet?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1795,6 +1822,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Nem biztonságos
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } nyomkövető blokkolva
+       *[other] { $count } nyomkövető blokkolva
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Ha itt szeretné átvenni a tele
 firefoxview-tabpickup-step-signin-primarybutton = Folytatás
 firefoxview-syncedtabs-signin-header-2 = A { -brand-product-name } az összes eszközén
 firefoxview-syncedtabs-signin-description-2 = Ha szeretné megtekinteni a telefonján és más eszközein megnyitott lapokat, jelentkezzen be, vagy hozzon létre egy fiókot. Egy fiókkal a jelszavait, előzményeit és egyebeket is szinkronizálhatja.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Laptopról telefonra, zökkenőmentesen
+firefoxview-syncedtabs-signin-description-3 = Összekapcsolt böngészés az eszközei között – lapok, jelszavak és az előzmények, minden szinkronizálva.
 firefoxview-syncedtabs-signin-primarybutton-2 = Bejelentkezés
 firefoxview-tabpickup-adddevice-header = Szinkronizálja a telefonján vagy a táblagépén lévő { -brand-product-name }ot
 firefoxview-tabpickup-adddevice-description = Töltse le a mobilos { -brand-product-name }ot, és jelentkezzen be.
@@ -40,10 +43,14 @@ firefoxview-tabpickup-adddevice-primarybutton = Szerezze be a mobilos { -brand-p
 firefoxview-syncedtabs-adddevice-header-2 = Vegye át a lapokat bárhonnan
 firefoxview-syncedtabs-adddevice-description-2 = Jelentkezzen be a { -brand-product-name }be a telefonján vagy egy másik számítógépén, hogy itt jelenjenek meg a lapok. Ismerje meg, hogyan <a data-l10n-name="url">csatlakoztasson további eszközöket</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Próbálja ki a mobilos { -brand-product-name }ot
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = A lapjai hívták. Ott vannak a telefonján.
+firefoxview-syncedtabs-adddevice-description-3 = Olvassa le a QR-kódot, hogy beszerezze a mobilos { -brand-product-name }ot, és szinkronizálja a megnyitott lapjait és egyebeit. Tudjon meg többet a <a data-l10n-name="url">további eszközök összekapcsolásáról</a>.
 firefoxview-tabpickup-synctabs-header = Lapszinkronizálás bekapcsolása
 firefoxview-tabpickup-synctabs-description = Engedélyezés, hogy a { -brand-short-name } lapokat osszon meg az eszközök között
 firefoxview-tabpickup-synctabs-learn-how = Tudja meg hogyan
 firefoxview-tabpickup-synctabs-primarybutton = Nyitott lapok szinkronizálása
+firefoxview-tabpickup-synctabs-primarybutton-2 = Lapszinkronizálás bekapcsolása
 firefoxview-syncedtabs-synctabs-header = Frissítse a szinkronizálási beállításait
 firefoxview-syncedtabs-synctabs-description = A más eszközökről származó lapok megtekintéséhez szinkronizálnia kell a nyitott lapjait.
 firefoxview-syncedtabs-loading-header = Szinkronizáció folyamatban

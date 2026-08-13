@@ -133,6 +133,26 @@ taskbar-tabs-media-callout-subtitle = Indítsa el az élő közvetítési oldala
 taskbar-tabs-value-prop-callout-title = A webhely hozzáadása a tálcához
 taskbar-tabs-value-prop-callout-subtitle = Indítsa el a saját ablakában és egyszerűsített felülettel, egyetlen kattintással.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Maradjon kapcsolatban a tálcáról
+taskbar-tabs-email-callout-title-v3 = Tartsa a postafiókját a tálcán
+taskbar-tabs-email-callout-subtitle-v3 = Indítsa el csevegőoldalait alkalmazásként egy { -brand-short-name } által védett, letisztult ablakban.
+taskbar-tabs-media-callout-title-v3 = Tartsa a közvetítését a tálcán
+taskbar-tabs-media-callout-subtitle-v3 = Indítsa el a médiaoldalait alkalmazásként egy { -brand-short-name } által védett, letisztult ablakban.
+taskbar-tabs-value-prop-callout-title-v3 = Rögzítse a kedvenc oldalait a tálcára
+taskbar-tabs-value-prop-callout-subtitle-v3 = Nyisson meg bármilyen weboldalt alkalmazásként egy { -brand-short-name } által védett, letisztult ablakban.
+taskbar-tabs-gaming-callout-title-v3 = Térjen vissza a játékhoz a tálcáról
+taskbar-tabs-gaming-callout-subtitle-v3 = Indítsa el a játékokkal kapcsolatos oldalait alkalmazásként egy { -brand-short-name } által védett, letisztult ablakban.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Rögzítés a tálcára
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ne veszítsen el mindent, amit elmentett, amikor a Windows 11-re vált.
