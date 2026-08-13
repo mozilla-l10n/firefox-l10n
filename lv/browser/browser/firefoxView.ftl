@@ -106,7 +106,7 @@ firefoxview-overview-header = Nesenā pārlūkošana
 firefoxview-history-nav = Vēsture
     .title = Vēsture
 firefoxview-history-header = Vēsture
-firefoxview-history-context-delete = Dzēst no vēstures
+firefoxview-history-context-delete = Izdzēst no vēstures
     .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser

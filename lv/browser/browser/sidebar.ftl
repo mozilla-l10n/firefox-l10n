@@ -18,7 +18,7 @@ sidebar-history-date-this-month =
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
-    .title = Dzēst no vēstures
+    .title = Izdzēst no vēstures
 
 ## Labels for sidebar search
 

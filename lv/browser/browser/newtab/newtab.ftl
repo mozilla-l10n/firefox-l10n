@@ -165,7 +165,7 @@ newtab-topsites-image-validation = Neizdevās ielādēt attēlu. Izmēģiniet ci
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Atcelt
-newtab-topsites-delete-history-button = Dzēst no vēstures
+newtab-topsites-delete-history-button = Izdzēst no vēstures
 newtab-topsites-save-button = Saglabāt
 newtab-topsites-preview-button = Priekšskatījums
 newtab-topsites-add-button = Pievienot
@@ -215,7 +215,7 @@ newtab-menu-open-new-private-window = Atvērt jaunā privātajā logā
 newtab-menu-dismiss = Noraidīt
 newtab-menu-pin = Piespraust
 newtab-menu-unpin = Atspraust
-newtab-menu-delete-history = Dzēst no vēstures
+newtab-menu-delete-history = Izdzēst no vēstures
 newtab-menu-save-to-pocket = Saglabāt { -pocket-brand-name }
 newtab-menu-delete-pocket = Dzēst no { -pocket-brand-name }
 newtab-menu-archive-pocket = Arhivēt { -pocket-brand-name }
