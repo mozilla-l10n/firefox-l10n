@@ -132,6 +132,7 @@ autofill-address-tel = Telefono
 autofill-address-email = Email
 autofill-cancel-button = Annulla
 autofill-save-button = Salva
+autofill-country-warning-message-2 = La compilazione automatica dei moduli è attualmente disponibile solo in alcuni Paesi
 autofill-country-warning-message = La compilazione automatica dei moduli è attualmente disponibile solo per alcuni Paesi.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nuova carta di credito

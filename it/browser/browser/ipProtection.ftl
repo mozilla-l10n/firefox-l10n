@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Ignora
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Porta la VPN integrata anche su Android
+ipprotection-android-promo-callout-description = Scansiona il codice QR per scaricare { -brand-product-name } per Android e attivare la VPN integrata, per una maggiore privacy anche fuori casa. Presto disponibile su iOS.
 ipprotection-android-promo-callout-primary-button = OK
 
 ## Panel

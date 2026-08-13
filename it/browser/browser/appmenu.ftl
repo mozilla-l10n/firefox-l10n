@@ -393,6 +393,9 @@ appmenuitem-relay-title-signed-in = Visualizza alias di posta elettronica
 appmenuitem-relay-description = Mantieni al sicuro il tuo indirizzo email e telefono
 appmenuitem-services-relay-description = Apri la dashboard per gli alias di posta elettronica
 appmenuitem-vpn-title2 = Nascondi la tua posizione con { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Protezione aggiuntiva su tutti i tuoi dispositivi
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Scarica { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Rendi la tua navigazione più difficile da tracciare
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Ottieni protezione per l’intero dispositivo
