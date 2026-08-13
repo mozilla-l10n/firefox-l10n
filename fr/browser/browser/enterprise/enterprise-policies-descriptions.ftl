@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 policy-BlocklistDomainBrowsedTelemetry = Activer et configurer l’enregistrement des évènements de sécurité lorsque { -brand-short-name } bloque la visite d’un domaine présent sur la liste de blocage.
+policy-ContentAnalysisTelemetry = Activer et configurer l’enregistrement des évènements de sécurité lorsqu’une règle de protection contre la perte de données (DLP) est déclenchée.
+policy-DataLossPrevention = Activer et configurer le moteur intégré de protection contre la perte de données (DLP).
 policy-DisableLocalPolicies = Désactiver toutes les sources de stratégies locales (policies.json, GPO Windows et plist macOS).
 policy-DownloadTelemetry = Activer et configurer l’enregistrement des évènements de sécurité lorsqu’un téléchargement est déclenché.
 policy-EnterpriseStorageEncryption = Activer la gestion du mot de passe principal par l’entreprise pour le stockage chiffré.
