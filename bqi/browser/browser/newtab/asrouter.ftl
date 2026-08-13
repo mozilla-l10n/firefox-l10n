@@ -201,6 +201,15 @@ launch-on-login-infobar-reject-button = سکو ن
 launch-on-login-infobar-final-reject-button = ن ممنووݩ
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+launch-on-login-autostart-infobar-turn-off-button = کۊر کردن
+    .accesskey = T
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -237,6 +246,11 @@ fxa-menu-message-sign-in-button = و من ٱووڌن
 fxa-menu-message-sync-button = ناهاڌن پا هوم گوم کردن
 fxa-menu-message-sync-devices-primary-text = هوم گوم کردن پوی دسگایل خوتووݩ
 fxa-menu-message-sync-devices-collapsed-text = هوم گوم کردن پوی دسگایل خوتووݩ
+fxa-menu-message-backup-data-collapsed-text = لادراری گرؽڌن ز داده یل گشت گر
+fxa-menu-message-backup-sync-primary-text = داده یل خوتووݩ ن ٱمن وو هوم گوم کۊنین
+fxa-menu-message-backup-sync-collapsed-text = هوم گوم کردن وو لادراری گرؽڌن داده یل
+fxa-menu-message-mobile-primary-text = فشناڌن بلگه یل و گۊشی ایسا
+fxa-menu-message-mobile-collapsed-text = هوم گوم کردن وا گۊشی ایسا
 
 ## Multi-CTA Fox Doodle Spotlight
 
