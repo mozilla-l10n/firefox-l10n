@@ -234,7 +234,7 @@ onboarding-genai-sidebar-secondary-button = ناهاڌن پا گشتن
 
 ## New user onboarding checklist
 
-onboarding-checklist-set-default = سامووݩ { -brand-short-name } و عونوان گشت گر پؽش فرز
+onboarding-checklist-set-default = { -brand-short-name } ن و عونوان گشت گر پؽش فرز سامووݩ کۊنین
 onboarding-checklist-import = و من ٱووردن ز گشت گر پؽشی
 onboarding-checklist-extension = ازاف کردن ی وردنی
 onboarding-checklist-minimize =
