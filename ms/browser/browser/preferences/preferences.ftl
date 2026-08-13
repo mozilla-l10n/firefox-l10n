@@ -806,6 +806,7 @@ sitedata-learn-more = Ketahui selanjutnya
 sitedata-delete-on-close =
     .label = Buang kuki dan data laman apabila { -brand-short-name } ditutup
     .accesskey = k
+sitedata-delete-on-close-private-browsing = Dalam mod pelayaran peribadi kekal, kuki dan data laman akan sentiasa dikosongkan apabila { -brand-short-name } ditutup.
 sitedata-allow-cookies-option =
     .label = Terima kuki dan data laman
     .accesskey = T
@@ -816,11 +817,20 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Jenis yang disekat
     .accesskey = J
+sitedata-option-block-cross-site-trackers =
+    .label = Penjejak rentas laman
+sitedata-option-block-unvisited =
+    .label = Kuki daripada laman web yang tidak dilawati
+sitedata-option-block-all =
+    .label = Semua kuki (akan menyebabkan laman web tidak berfungsi)
 sitedata-clear =
     .label = Buang Data…
     .accesskey = u
 sitedata-settings =
     .label = Urus Data…
+    .accesskey = U
+sitedata-cookies-exceptions =
+    .label = Urus Pengecualian...
     .accesskey = U
 cookies-site-data-group =
     .label = Kuki dan Data Laman
@@ -838,11 +848,17 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Buka tab
     .accesskey = b
+addressbar-locbar-topsites-option =
+    .label = Laman teratas
+    .accesskey = t
 addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Perlindungan Penjejakan Dipertingkat
+content-blocking-section-top-level-description = Penjejak mengikuti anda secara dalam talian untuk mengumpul maklumat mengenai tabiat pelayaran dan minat anda. { -brand-short-name } menyekat kebanyakan daripada penjejak ini dan skrip hasad lain.
 content-blocking-learn-more = Ketahui selanjutnya
+content-blocking-fpi-incompatibility-warning = Anda menggunakan Pengasingan Pihak Pertama (First Party Isolation, FPI), yang menggantikan beberapa tetapan kuki { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -860,6 +876,9 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = Seimbang untuk perlindungan dan prestasi. Halaman akan dimuatkan seperti biasa.
+content-blocking-etp-strict-desc = Perlindungan lebih kuat, tetapi mungkin menyebabkan sesetengah laman web atau kandungan tidak berfungsi.
+content-blocking-etp-custom-desc = Pilih penjejak dan skrip untuk disekat.
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
