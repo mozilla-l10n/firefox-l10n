@@ -46,6 +46,12 @@ aiwindow-copy-table =
     .aria-label = Kopiatu taula
     .tooltiptext = Kopiatu taula
 aiwindow-table-scroll-indicator = Korritu gehiago ikusteko
+aiwindow-thumbs-up =
+    .aria-label = Partekatu iritzi positiboa
+    .tooltiptext = Partekatu iritzi positiboa
+aiwindow-thumbs-down =
+    .aria-label = Partekatu iritzi negatiboa
+    .tooltiptext = Partekatu iritzi negatiboa
 aiwindow-applied-memories-popover =
     .aria-label = Memorien panela
 aiwindow-applied-memories-list =
@@ -85,6 +91,18 @@ smart-window-closed-tabs-summary =
     { $count ->
         [one] Eginda! Fitxa itxita.
        *[other] Eginda! Fitxak itxita.
+    }
+smart-window-closed-tabs-row-label = Itxitako fitxak
+smart-window-closed-and-restored-label = Itxitako eta berreskuratutako fitxak
+smart-window-restored-row-label =
+    { $count ->
+        [one] Fitxa { $count } berreskuratuta
+       *[other] { $count } fitxa berreskuratuta
+    }
+smart-window-restore-success-summary =
+    { $count ->
+        [one] Fitxa itxita, gero berreskuratuta.
+       *[other] Fitxak itxita, gero berreskuratuta.
     }
 smart-window-cancelled-label = Eskaera bertan behera utzita.
 # Button label - "Group" is a verb (action to group tabs)
@@ -150,6 +168,18 @@ smart-window-opened-tabs-summary-group =
 smart-window-switched-tab-summary = "{ $title }" fitxara aldatuta.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Fitxak destaldekatuta
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] Fitxa bat taldekatuta, gero destaldekatuta.
+       *[other] { $count } fitxa taldekatuta, gero destaldekatuta.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Fitxa bat destaldekatuta
+       *[other] { $count } fitxa destaldekatuta
+    }
 
 ## Action log
 

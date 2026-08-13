@@ -15,7 +15,7 @@ share-panel-copy-link =
 share-panel-os-share =
     .label = Partager avec…
 share-panel-mail =
-    .label = Envoyer un courriel
+    .label = Envoyer un e-mail
 share-panel-screenshot =
     .label = Effectuer une capture d’écran
 share-panel-qr-code =
@@ -23,11 +23,11 @@ share-panel-qr-code =
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
-    .label = Envoyer à l’appareil
+    .label = Envoyer à un appareil
 # This string is shown when the user has no other devices signed in to their account.
 # Clicking this will bring them to a place where they can connect other devices.
 share-panel-send-to-mobile =
-    .label = Envoyer vers un mobile
+    .label = Envoyer à un mobile
 share-panel-device-subview =
     .title = Tous les appareils
 share-panel-os-share-subview =
