@@ -49,3 +49,12 @@ text-action-search-text-box-clear =
 # This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection-1 =
     .label = Pievienot atlasei piebildi
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = Ievietot starpliktuvē saiti izcelšanai
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight =
+    .label = Ievietot starpliktuvē tīru saiti izcelšanai

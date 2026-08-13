@@ -6,9 +6,9 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-next =
-    .tooltiptext = Meklēt frāzi turpmākajā tekstā
+    .tooltiptext = Atrast nākamo vārdkopas parādīšanos
 findbar-previous =
-    .tooltiptext = Meklēt frāzi virzienā uz sākumu
+    .tooltiptext = Atrast iepriekšējo vārdkopas parādīšanos
 findbar-find-button-close =
     .tooltiptext = Aizvērt meklēšanas joslu
 findbar-case-sensitive =

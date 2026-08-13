@@ -172,7 +172,7 @@ translations-settings-close-dialog =
 # Text displayed in the right-click context menu for translating
 # selected text to a yet-to-be-determined language.
 main-context-menu-translate-selection =
-    .label = Tulkot atlasi…
+    .label = Tulkot iezīmēto…
     .accesskey = l
 # Text displayed in the right-click context menu for translating
 # selected text to a target language.
@@ -180,7 +180,7 @@ main-context-menu-translate-selection =
 # Variables:
 #   $language (string) - The localized display name of the target language
 main-context-menu-translate-selection-to-language =
-    .label = Tulkot atlasi uz { $language }
+    .label = Tulkot iezīmēto uz { $language }
     .accesskey = l
 # Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a yet-to-be-determined language.
