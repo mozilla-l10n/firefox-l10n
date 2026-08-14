@@ -9,8 +9,8 @@ site-data-settings-window =
     .title = Urus Kuki dan Data Laman
 site-data-settings-description = Laman web berikut menyimpan kuki dan data laman dalam komputer anda. { -brand-short-name } menyimpan data dari laman web secara kekal sehinggalah anda membuangnya, dan membuang data dari laman web dengan storan tidak kekal apabila ruang diperlukan.
 site-data-search-textbox =
-    .placeholder = Carian laman web
     .accesskey = C
+    .placeholder = Cari laman web
 site-data-column-host =
     .label = Laman
 site-data-column-cookies =
@@ -19,12 +19,19 @@ site-data-column-storage =
     .label = Storan
 site-data-column-last-used =
     .label = Terakhir Digunakan
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (fail tempatan)
 site-data-remove-selected =
     .label = Buang Pilihan
     .accesskey = u
 site-data-settings-dialog =
     .buttonlabelaccept = Simpan Perubahan
     .buttonaccesskeyaccept = i
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-storage-usage =
+    .value = { $value } { $unit }
 site-data-remove-all =
     .label = Buang Semua
     .accesskey = u

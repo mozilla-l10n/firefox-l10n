@@ -977,6 +977,8 @@ permissions-notification2 =
 collection-header = Pengumpulan dan penggunaan data { -brand-short-name }
 collection-description = Kami berusaha untuk menyediakan anda dengan pilihan dan hanya mengumpulkan apa yang kami perlukan, dan memajukan { -brand-short-name } untuk semua orang. Kami sentiasa meminta izin sebelum menerima maklumat peribadi.
 collection-privacy-notice = Notis Privasi
+collection-health-report-telemetry-disabled = Anda tidak lagi mengizinkan { -vendor-short-name } mengumpul data teknikal dan interaksi. Semua data terdahulu akan dipadamkan dalam masa 30 hari.
+collection-health-report-telemetry-disabled-link = Ketahui lebih lanjut
 collection-health-report =
     .label = Izinkan { -brand-short-name } supaya secara automatik akan menghantarkan data teknikal dan interaksi kepada { -vendor-short-name }
     .accesskey = r
@@ -984,6 +986,9 @@ collection-health-report-link = Ketahui selanjutnya
 collection-studies =
     .label = Izinkan { -brand-short-name } untuk memasang dan melaksanakan kajian
 collection-studies-link = Papar kajian { -brand-short-name }
+addon-recommendations =
+    .label = Izinkan { -brand-short-name } membuat cadangan sambungan yang diperibadikan
+addon-recommendations-link = Ketahui lebih lanjut
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi binaan ini
@@ -1021,6 +1026,18 @@ certs-devices =
     .label = Peranti Keselamatan…
     .accesskey = P
 certs-devices-enable-fips = Dayakan FIPS
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Mod HTTPS Sahaja
+httpsonly-description = HTTPS menyediakan sambungan selamat dan tersulit antara { -brand-short-name } dan laman web yang anda lawati. Kebanyakan laman web menyokong HTTPS, dan jika Mod HTTPS Sahaja didayakan, { -brand-short-name } akan menaik taraf semua sambungan kepada HTTPS.
+httpsonly-learn-more = Ketahui lebih lanjut
+httpsonly-radio-enabled =
+    .label = Dayakan Mod HTTPS Sahaja dalam semua tetingkap
+httpsonly-radio-enabled-pbm =
+    .label = Dayakan Mod HTTPS Sahaja dalam Tetingkap Peribadi sahaja
+httpsonly-radio-disabled =
+    .label = Jangan dayakan Mod HTTPS Sahaja
 
 ## The following strings are used in the Download section of settings
 
