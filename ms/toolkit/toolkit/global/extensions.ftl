@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Tambah { $extension }?
+webext-perms-header-with-perms = Tambah { $extension }? Sambungan ini akan mempunyai kebenaran untuk:
+webext-perms-header-unsigned = Tambah { $extension }? Sambungan ini tidak disahkan. Sambungan berniat jahat boleh mencuri maklumat peribadi anda atau menjejaskan komputer anda. Hanya tambahkannya jika anda mempercayai sumbernya.
+webext-perms-header-unsigned-with-perms = Tambah { $extension }? Sambungan ini tidak disahkan. Sambungan berniat jahat boleh mencuri maklumat peribadi anda atau menjejaskan komputer anda. Hanya tambahkannya jika anda mempercayai sumbernya. Sambungan ini akan mempunyai kebenaran untuk:
 webext-perms-sideload-header = { $extension } ditambah
 webext-perms-optional-perms-header = { $extension } perlukan izin tambahan.
 
@@ -55,3 +58,14 @@ webext-perms-host-description-one-site = Akses data anda untuk { $domain }
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-sites = Akses data anda dalam { $domainCount } laman lain
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Akses data anda untuk laman dalam domain { $domain }
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains = Akses data anda untuk laman dalam { $domainCount } domain

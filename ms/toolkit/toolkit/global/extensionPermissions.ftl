@@ -33,3 +33,10 @@ webext-perms-description-topSites = Akses sejarah pelayaran
 webext-perms-description-trialML = Muat turun dan jalankan model AI pada peranti anda
 webext-perms-description-userScripts = Izinkan skrip pihak ketiga yang tidak disahkan untuk mengakses data anda
 webext-perms-description-webNavigation = Akses aktiviti pelayar semasa navigasi
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Skrip yang tidak disahkan boleh menimbulkan risiko keselamatan dan privasi, seperti menjalankan kod berbahaya atau menjejak aktiviti tapak web. Hanya jalankan skrip daripada sambungan atau sumber yang anda percayai.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Skrip yang tidak disahkan boleh menimbulkan risiko keselamatan dan privasi. Hanya jalankan skrip daripada sambungan atau sumber yang anda percayai.
