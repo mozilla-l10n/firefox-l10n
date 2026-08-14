@@ -19,6 +19,54 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Ellenőrizve
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Izolációs kulcs
+about-networking-ssl-tokens = TLS tokenek
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } token
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } lejárt)
+       *[other] ({ $count } lejárt)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% mentve)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Partíciókulcs
+about-networking-ssl-tokens-tokens-column = Tokenek
+about-networking-ssl-tokens-expires = Lejárat
+about-networking-ssl-tokens-certificate = Tanúsítvány
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } token
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Tárolóból helyreállítva
+    .title = Tárolóból helyreállítva
+about-networking-ssl-tokens-new =
+    .alt = Új ebben a munkamenetben
+    .title = Új ebben a munkamenetben
+about-networking-ssl-tokens-expired =
+    .alt = Lejárt
+    .title = Lejárt
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokenek: { $tokenLength } B. Kódolva: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = EV tanúsítvány
+about-networking-ssl-tokens-ct-status = Tanúsítvány átláthatósági állapota
+about-networking-ssl-tokens-overridable-error = Felülírható hibakategória
 about-networking-refresh = Frissítés
 about-networking-auto-refresh = Autofrissítés 3 másodpercenként
 about-networking-hostname = Gépnév

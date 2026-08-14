@@ -640,4 +640,58 @@ find-more-addons-promo-open-amo-button = Fedezzen fel kiegészítőket és tém�
 find-more-extensions-promo =
     .heading = Találja meg a következő kedvenc kiegészítőjét
     .message = Szabja testre a { -brand-product-name }ot a fókuszt, az adatvédelmet, a vásárlást és sok mást támogató eszközökkel.
-find-more-extensions-promo-open-amo-button = Kiegészítők felfedezése
+find-more-extensions-promo-open-amo-button = Fedezzen fel kiegészítőket
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Találjon több friss külsőt
+    .message = Válasszon olyan stílust, amelytől a { -brand-product-name } olyan lesz, amilyet Ön szeretne.
+find-more-themes-promo-open-amo-button = Fedezzen fel témákat
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Néhány kiegészítő is nagy hatással bír
+    .message = Van néhány javaslatunk, amelyek segítenek javítani a fókuszt, az adatvédelmet és még sok mást.
+list-empty-get-extensions-promo-button = Találja meg az első kiegészítőjét
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = Világos
+themes-mode-dark =
+    .label = Sötét
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Eszköz
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = { -brand-product-name } témák
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Több megjelenítése
+aboutaddons-themes-picker-see-less = Kevesebb megjelenítése
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = Engedélyezés
+aboutaddons-themes-picker-disable-button =
+    .label = Letiltás
+aboutaddons-themes-picker-install-button =
+    .label = Telepítés
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Nem sikerült frissíteni a témát. Ellenőrizze a kapcsolatot, és próbálja újra.
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = Linux rendszertéma használata

@@ -1728,6 +1728,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Nincs cím hozzáadva
+personal-info-group =
+    .label = Személyes adatok
+autofill-personal-info-checkbox-message =
+    .label = Személyes adatok mentése és automatikus kitöltése
+autofill-personal-info-manage-button =
+    .label = Személyes adatok kezelése
+passports-list-header =
+    .label = Útlevelek
+passports-delete-passport-button-label =
+    .aria-label = Törlés
+passports-edit-passport-button-label =
+    .aria-label = Szerkesztés
+passports-delete-passport-prompt-title = Törli ezt az útlevelet?
+passports-delete-passport-prompt-confirm-button = Törlés
+passports-delete-passport-prompt-cancel-button = Mégse
+autofill-passports-add-button = Új útlevél hozzáadása
+autofill-personal-info-manage-title =
+    .heading = Személyes adatok kezelése
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Nincsenek mentett útlevelek
 pane-passwords-autofill-title2 = Jelszavak és automatikus kitöltés
     .title = Jelszavak és automatikus kitöltés
 preferences-passwords-autofill-header =
@@ -2605,6 +2626,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = Kulcspontok a hivatkozás-előnézetekben
     .description = Nézzen meg egy gyors összefoglalót, mielőtt a hivatkozásra kattint.
+preferences-ai-controls-sidebar-chatbot-group-2 =
+    .label = MI csevegőbot-szolgáltatók az oldalsávban
+    .description = Tartson szem előtt egy csevegőbotot böngészés közben. Válasszon az Anthropic Claude, a ChatGPT, a Copilot, a Google Gemini és a Mistral Vibe közül.
 preferences-ai-controls-sidebar-chatbot-group =
     .label = MI csevegőbot-szolgáltatók az oldalsávban
     .description = Tartson szem előtt egy csevegőbotot böngészés közben. Választhat az Anthropic Claude, a ChatGPT, a Copilot, a Google Gemini és a Le Chat Mistral közül.
@@ -2793,3 +2817,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatikus proxybeállítás engedélyezve
     .description = Az automatikus proxybeállítás lehetővé teheti, hogy a nem megbízható hálózatok kövessék a tevékenységét.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = A { -brand-short-name } megosztása
+    .description = Hívjon meg valakit, hogy azt a böngészőt válassza, amely az adatvédelmet helyezi előtérbe.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = A { -brand-short-name } megosztása
