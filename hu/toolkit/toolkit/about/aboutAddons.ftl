@@ -621,3 +621,23 @@ mlmodel-addon-detail-used-by-label = Használja:
 mlmodel-addon-detail-model-card = Modellkártya
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Megtekintés a Hugging Face-en
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Alakítsa a { -brand-product-name }ot saját ízlésének megfelelően
+    .message = Adjon hozzá eszközöket és stílusokat, hogy megfeleljen az Ön igényeinek és ízlésének.
+find-more-addons-promo-open-amo-button = Fedezzen fel kiegészítőket és témákat
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Találja meg a következő kedvenc kiegészítőjét
+    .message = Szabja testre a { -brand-product-name }ot a fókuszt, az adatvédelmet, a vásárlást és sok mást támogató eszközökkel.
+find-more-extensions-promo-open-amo-button = Kiegészítők felfedezése
