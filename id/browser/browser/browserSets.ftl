@@ -9,24 +9,24 @@ window-zoom-command =
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
-    .key = m
+    .key = M
 close-shortcut =
     .key = W
 tab-new-shortcut =
-    .key = t
+    .key = T
 location-open-shortcut =
-    .key = l
+    .key = L
 location-open-shortcut-alt =
-    .key = d
+    .key = D
 search-focus-shortcut =
-    .key = k
+    .key = K
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
 find-shortcut =
-    .key = f
+    .key = F
 search-find-again-shortcut =
-    .key = g
+    .key = G
 search-find-again-shortcut-alt =
     .keycode = VK_F3
 search-find-selection-shortcut =

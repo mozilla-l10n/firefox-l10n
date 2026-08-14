@@ -180,6 +180,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Nākamā
 pdfjs-find-highlight-checkbox = Izcelt visus
 pdfjs-find-match-case-checkbox-label = Lielo un mazo burtu atbilstība
+pdfjs-find-match-diacritics-checkbox-label = Diakritisko zīmju atbilstība
 pdfjs-find-entire-word-checkbox-label = Veselus vārdus
 pdfjs-find-reached-top = Sasniegts dokumenta sākums, turpinām no beigām
 pdfjs-find-reached-bottom = Sasniegtas dokumenta beigas, turpinām no sākuma

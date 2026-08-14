@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Masuk ke { -brand-product-name }
 appmenuitem-fxa-manage-account = Kelola Akun
 fxa-menu-sync-status-on = Sinkronisasi Aktif
 fxa-menu-sync-status-off = Sinkronisasi Nonaktif
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Sinkronkan Data Anda
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Data Anda tidak disinkronkan
@@ -310,6 +313,9 @@ appmenu-sync-promo-connectdevice =
 appmenu-sync-promo-connectdevice-cta = Sambungkan perangkat
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = Bawa markah Anda bersama Anda
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Bawa pergi markah Anda
 
 ## Help panel
 
@@ -386,6 +392,8 @@ appmenuitem-monitor-description = Dapatkan peringatan kebocoran data
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Jaga agar Email Anda Tetap Privat
 appmenuitem-relay-description2 = Membantu mencegah spam di kotak masuk Anda
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Lihat Topeng Surel
 appmenuitem-relay-description = Tutupi surel dan telepon asli Anda
 appmenuitem-services-relay-description = Luncurkan dasbor masker surel
 appmenuitem-vpn-title2 = Sembunyikan Lokasi Anda dengan { -mozilla-vpn-brand-name }
