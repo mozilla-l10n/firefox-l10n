@@ -84,6 +84,7 @@ delete-profile-windows = Atvērti logi
 delete-profile-tabs = Atvērtas cilnes
 delete-profile-bookmarks = Grāmatzīmes
 delete-profile-history = Vēsture (apmeklētās lapas, sīkdatnes, vietņu dati)
+delete-profile-autofill = Automātiskās aizpildes dati (adreses, maksājumu veidi)
 delete-profile-logins = Paroles
 
 ##
