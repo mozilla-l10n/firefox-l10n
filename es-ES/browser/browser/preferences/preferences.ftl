@@ -221,7 +221,7 @@ preferences-profiles-settings-button =
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
     .label = Copiar un perfil existente
-    .description = El nuevo perfil copiará los ajustes, los complementos, el historial y datos guardados como marcadores y contraseñas — pero no copiará la información de tu cuenta ni de la sincronización.
+    .description = El nuevo perfil copiará los ajustes, los complementos, el historial y datos guardados como marcadores y contraseñas — pero no copiará la información de su cuenta ni de la sincronización.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -929,7 +929,7 @@ network-proxy-connection-settings2 =
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
-home-new-windows-tabs-description2 = Elige lo que ves cuando abres tu página de inicio, nuevas ventanas y nuevas pestañas.
+home-new-windows-tabs-description2 = Elija qué ver al abrir su página de inicio, nuevas ventanas y nuevas pestañas.
 home-section =
     .heading = Inicio
 
@@ -955,11 +955,11 @@ home-restore-defaults =
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (Predeterminado)
 home-mode-choice-custom =
-    .label = URLs personalizadas...
+    .label = URLs personalizadas…
 home-mode-choice-blank =
     .label = Página en blanco
 home-homepage-custom-url =
-    .placeholder = Pegar URL...
+    .placeholder = Pegar URL…
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gestionar extensión
@@ -2094,7 +2094,7 @@ content-blocking-suspected-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Administrar excepciones...
+    .label = Administrar excepciones…
     .accesskey = x
 
 ## Privacy Section - Permissions
@@ -2133,7 +2133,7 @@ permissions-autoplay2 =
     .label = Reproducción automática
 permissions-autoplay = Reproducción automática
 permissions-autoplay-settings =
-    .label = Configuración...
+    .label = Configuración…
     .accesskey = C
 permissions-block-popups2 =
     .label = Bloquear ventanas emergentes y redirecciones de terceros

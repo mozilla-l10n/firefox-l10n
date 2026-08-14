@@ -68,7 +68,7 @@ experimental-features-newtab-widget-lists =
     .label = Listas en { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-new =
     .label = Listas
-experimental-features-newtab-widget-lists-description = Mantenga la lista de tareas pendientes al abrir una nueva pestaña. Desde listas de la compra hasta listas para preparar el equipaje, haga sus planes en { -brand-product-name }. <a data-l10n-name="connect">Compartir comentarios</a>
+experimental-features-newtab-widget-lists-description = Mantenga presente sa lista de tareas pendientes al abrir una nueva pestaña. Desde listas de compras hasta listas para preparar el equipaje, haga sus planes en { -brand-product-name }. <a data-l10n-name="connect">Enviar comentarios</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Temporizador en { -firefox-home-brand-name }

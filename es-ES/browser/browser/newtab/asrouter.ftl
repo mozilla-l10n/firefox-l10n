@@ -64,7 +64,7 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-bookmark-fxa-header = Sincronice sus marcadores esté donde esté.
 cfr-doorhanger-bookmark-fxa-body = ¡Gran hallazgo! Ahora no se quede sin este marcador en sus dispositivos móviles. Empiece con una { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = ¡Gran hallazgo! Ahora no se quede sin este marcador en sus dispositivos móviles. Empiece con una cuenta.
-cfr-doorhanger-bookmark-fxa-link-text = Sincronizando marcadores...
+cfr-doorhanger-bookmark-fxa-link-text = Sincronizando marcadores…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Cerrar botón
     .title = Cerrar
@@ -117,7 +117,7 @@ cfr-doorhanger-doh-secondary-button = Deshabilitar
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = Los vídeos en este sitio web podrían no reproducirse correctamente en esta versión de { -brand-short-name }. Para una compatibilidad completa de vídeo, actualiza { -brand-short-name } ahora.
+cfr-doorhanger-video-support-body = Los vídeos en este sitio web podrían no reproducirse correctamente en esta versión de { -brand-short-name }. Para una compatibilidad completa de vídeo, actualice { -brand-short-name } ahora.
 cfr-doorhanger-video-support-header = Actualice { -brand-short-name } para reproducir vídeo
 cfr-doorhanger-video-support-primary-button = Actualizar ahora
     .accesskey = u
@@ -129,7 +129,7 @@ cfr-doorhanger-video-support-primary-button = Actualizar ahora
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 # This header text can be explicitly wrapped.
-spotlight-public-wifi-vpn-header = Parece que estás usando una red Wi-Fi pública
+spotlight-public-wifi-vpn-header = Parece que está usando una red Wi-Fi pública
 spotlight-public-wifi-vpn-body = Para ocultar su ubicación y actividad de navegación, considere usar una red privada virtual. Le ayudará a mantenerse protegido al navegar en lugares públicos como aeropuertos y cafeterías.
 spotlight-public-wifi-vpn-primary-button = Proteja su privacidad con { -mozilla-vpn-brand-name }
     .accesskey = s
@@ -140,8 +140,8 @@ spotlight-public-wifi-vpn-link = Ahora no
 
 spotlight-better-internet-header = Un internet mejor comienza con usted
 spotlight-better-internet-body = Cuando usa { -brand-short-name }, está votando por una internet abierta y accesible que es mejor para todos.
-spotlight-peace-mind-header = Siempre de tu parte
-spotlight-peace-mind-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3.000 rastreadores por usuario. Porque nada, especialmente lo que molesta a su privacidad como los rastreadores, debería interponerse entre usted y lo mejor de internet.
+spotlight-peace-mind-header = Estamos siempre velando por usted
+spotlight-peace-mind-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3 000 rastreadores por usuario. Porque no queremos los rastreadores sean un perjucio de privacidad que se interpongan entre usted y el lado bueno del internet.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Mantener en el Dock
@@ -211,16 +211,16 @@ cfr-cbh-confirm-button = Rechazar los avisos de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Ahora no
     .accesskey = n
-cookie-banner-blocker-onboarding-header = { -brand-short-name } acaba de rechazar un aviso de cookies por ti
+cookie-banner-blocker-onboarding-header = { -brand-short-name } acaba de rechazar un aviso de cookies por usted
 cookie-banner-blocker-onboarding-body = Menos distracciones, menos cookies que le rastrean en este sitio.
 cookie-banner-blocker-onboarding-learn-more = Saber más
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
-july-jam-headline = Siempre de tu parte
+july-jam-headline = Estamos siempre velando por usted
 july-jam-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3.000 rastreadores por usuario, lo que le brinda un acceso rápido y seguro a Internet.
 july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
-fox-doodle-pin-headline = Te damos de nuevo la bienvenida
+fox-doodle-pin-headline = Le damos de nuevo la bienvenida
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Un recordatorio rápido de que puede mantener su navegador independiente favorito a solo un clic de distancia.
@@ -238,7 +238,7 @@ set-default-pdf-handler-primary = Entendido
 # where to place your signature.
 # If this expression doesn’t have a direct translation, please
 # translate this alternative string: "Add your signature anywhere!"
-annotations-default-pdf-handler-headline = ¡Firme en la línea de puntos o en cualquier lugar!
+annotations-default-pdf-handler-headline = ¡Firme en la línea punteada o en cualquier lugar!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Dibuje, escriba o suba su firma, luego colóquela exactamente donde quiera. Guarde sus firmas favoritas para la próxima vez.
 annotations-make-default-pdf-handler-title = Hacer que { -brand-short-name } sea su editor de PDF predeterminado

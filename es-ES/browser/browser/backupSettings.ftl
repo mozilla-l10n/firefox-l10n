@@ -21,7 +21,7 @@ backup-folder-name = Restaurar { -brand-product-name }
 backup-file-name = CopiaDe{ -brand-product-name }
 settings-data-backup-header2 =
     .label = Copia de seguridad
-    .description = Protege automáticamente tus marcadores, historial y otros datos.
+    .description = Protege automáticamente sus marcadores, historial y otros datos.
 settings-data-backup-toggle = Administrar copias de seguridad
 settings-data-backup-toggle-on2 =
     .label = Activar copia de seguridad
@@ -44,17 +44,17 @@ settings-data-backup-last-backup-location-edit = Editar…
 settings-data-create-backup-error = Hubo un error creando la copia de seguridad el { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Haga una copia de seguridad de contraseñas y métodos de pago, además de mantener todos sus datos seguros con cifrado.
 settings-data-toggle-encryption-label2 =
-    .label = Haz una copia de seguridad de tus datos sensibles.
-    .description = Haz una copia de seguridad de tus contraseñas y métodos de pago, y mantén todos tus datos a salvo mediante cifrado.
+    .label = Haga una copia de seguridad de sus datos sensibles.
+    .description = Haga una copia de seguridad de sus contraseñas y métodos de pago, y manténga todos sus datos a salvo mediante cifrado.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nombre de archivo: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Restaura tus datos
-    .description = Recupera tus datos de { -brand-product-name } disponibles en la última copia de seguridad.
+    .label = Restaure sus datos
+    .description = Recupere sus datos de { -brand-product-name } disponibles en la última copia de seguridad.
 settings-data-backup-restore-scheduled-off =
-    .label = Restaura tus datos
-    .description = Utiliza una copia de seguridad en otro dispositivo para restaurar tus datos de { -brand-product-name }.
+    .label = Restaure sus datos
+    .description = Utilice una copia de seguridad en otro dispositivo para restaurar sus datos de { -brand-product-name }.
 
 ##
 

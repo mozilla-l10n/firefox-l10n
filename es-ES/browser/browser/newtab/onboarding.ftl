@@ -358,13 +358,13 @@ amo-picker-collection-link = Explorar más complementos
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
-onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerte a salvo
+onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerlo a salvo
 onboarding-easy-setup-security-and-privacy-subtitle = Nuestro navegador respaldado por una organización sin ánimo de lucro ayuda a evitar que las empresas le sigan en secreto por la web.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Mantenga todo cifrado cuando pase de un dispositivo a otro
 onboarding-mobile-download-security-and-privacy-subtitle = Cuando tenga todo sincronizado, { -brand-short-name } cifra las contraseñas, marcadores y más. Además, puede traer pestañas desde otros dispositivos.
 # Gratitude screen
-onboarding-gratitude-security-and-privacy-title = { -brand-short-name } siempre está de tu parte
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } siempre vela por usted
 onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más seguro y accesible para todos.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronice sus datos entre dispositivos
@@ -435,7 +435,7 @@ onboarding-horizontal-tabs-description =
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Pruebe un chatbot de IA en la barra lateral
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
-onboarding-genai-sidebar-subtitle = Resuma contenido web, genere ideas, redacte mensajes... todo mientras navega. Elija entre varios proveedores. Cambie de proveedor cuando quiera. <a data-l10n-name="learn-more">Saber más</a>
+onboarding-genai-sidebar-subtitle = Resuma contenido web, genere ideas, redacte mensajes… todo mientras navega. Elija entre varios proveedores. Cambie de proveedor cuando quiera. <a data-l10n-name="learn-more">Saber más</a>
 onboarding-genai-sidebar-primary-button = Seleccione un chatbot
 onboarding-genai-sidebar-secondary-button = Empezar a navegar
 

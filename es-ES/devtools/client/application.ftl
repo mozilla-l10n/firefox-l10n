@@ -69,7 +69,7 @@ manifest-item-presentation = Presentación
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Iconos
 # Text displayed while we are loading the manifest file
-manifest-loading = Cargando manifesto...
+manifest-loading = Cargando manifesto…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Se cargó el manifesto.
 # Text displayed as a caption when there has been an error while trying to

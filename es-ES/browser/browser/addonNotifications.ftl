@@ -13,7 +13,7 @@ xpinstall-prompt-message = Está intentando instalar un complemento desde { $hos
 ##
 
 xpinstall-prompt-header-unknown = ¿Permitir que un sitio desconocido instale complementos?
-xpinstall-prompt-message-unknown = Estás intentando instalar un complemento desde un sitio desconocido. Asegúrate de que confías en el sitio antes de continuar.
+xpinstall-prompt-message-unknown = Está intentando instalar un complemento desde un sitio desconocido. Asegúrese de que confía en el sitio antes de continuar.
 xpinstall-prompt-dont-allow =
     .label = No permitir
     .accesskey = N

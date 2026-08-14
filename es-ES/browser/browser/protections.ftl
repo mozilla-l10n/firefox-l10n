@@ -106,8 +106,8 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] La filtración de datos que ha expuesto su información
-       *[other] Las filtraciones de datos que han expuesto su información
+        [one] Filtración de datos que ha expuesto su información
+       *[other] Filtraciones de datos que han expuesto su información
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
@@ -189,7 +189,7 @@ bar-tooltip-tracker =
     .aria-label =
         { $count ->
             [one] { $count } contenido de rastreo ({ $percentage }%)
-           *[other] { $count } contenido de rastreo ({ $percentage }%)
+           *[other] { $count } contenidos de rastreo ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
     .title = Detectores de huellas digitales

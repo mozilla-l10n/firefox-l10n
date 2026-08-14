@@ -1436,7 +1436,7 @@ pinned-tabs-drop-indicator = Soltar la pestaña aquí para pegar
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>¿Abrir pestañas anteriores?</strong> Puedes restaurar tu sesión anterior desde el menú de la aplicación { -brand-short-name } <img data-l10n-name = "icon" />, bajo Historial.
+restore-session-startup-suggestion-message = <strong>¿Abrir pestañas anteriores?</strong> Puede restaurar su sesión anterior desde el menú de la aplicación { -brand-short-name } <img data-l10n-name = "icon" />, bajo Historial.
 restore-session-startup-suggestion-button = Mostrar cómo
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
