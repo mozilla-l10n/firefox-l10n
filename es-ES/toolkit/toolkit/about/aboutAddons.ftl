@@ -273,8 +273,8 @@ discopane-intro =
     Las extensiones y temas son como aplicaciones para el navegador y le permiten
     proteger sus contraseñas, descargar vídeos, encontrar ofertas, bloquear publicidad,
     cambiar la apariencia del navegador y mucho más. Suelen ser terceros los que desarrollan
-    estos pequeños programas de software. Te ofrecemos una selección de { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">recomendados</a> en seguridad, rendimiento
+    estos pequeños programas de software. Le ofrecemos una selección de
+    <a data-l10n-name="learn-more-trigger">recomendaciones</a> de { -brand-product-name }  basadas en seguridad, rendimiento
     y funcionalidad excepcionales.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan en otras extensiones que tiene instaladas, preferencias de su perfil y estadísticas de uso.
@@ -418,7 +418,7 @@ addon-badge-private-browsing-allowed3 =
 addon-badge-private-browsing-allowed2 =
     .title = Permitido en ventanas privadas
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que haces mientras navegas de forma privada. <a data-l10n-name="learn-more">Descubre más</a>
+addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que hace mientras navega de forma privada. <a data-l10n-name="learn-more">Más información</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
 # aria-label associated to the private browsing row to help screen readers to announce the group

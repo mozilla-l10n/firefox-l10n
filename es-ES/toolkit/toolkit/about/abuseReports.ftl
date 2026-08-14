@@ -15,7 +15,7 @@ abuse-report-subtitle = ¿Cuál es el problema?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = por <a data-l10n-name="author-name">{ $author-name }</a>
-abuse-report-learnmore = ¿No sabe qué problema seleccionar? <a data-l10n-name="learnmore-link">Descubre más sobre cómo informar de extensiones y temas</a>
+abuse-report-learnmore = ¿No sabe qué problema seleccionar? <a data-l10n-name="learnmore-link">Más información sobre cómo informar de extensiones y temas</a>
 abuse-report-submit-description = Describir el problema (opcional)
 abuse-report-textarea =
     .placeholder = Para nosotros es más fácil solucionar un problema si tenemos detalles específicos. Describa su problema. Gracias por ayudarnos a que Internet siga siendo saludable.

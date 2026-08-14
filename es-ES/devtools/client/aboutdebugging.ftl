@@ -258,7 +258,7 @@ about-debugging-tmp-extension-terminate-bgscript-button = Terminar secuencia de 
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
-about-debugging-tmp-extension-install-message = Selecciona el archivo manifest.json o .xpi/.zip
+about-debugging-tmp-extension-install-message = Seleccione el archivo manifest.json o .xpi/.zip
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = Esta WebExtension tiene un ID temporal. <a>Saber más</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's

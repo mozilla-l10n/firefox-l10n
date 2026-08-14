@@ -139,7 +139,7 @@ permissions-exceptions-addons-desc = Puede especificar desde qué sitios web est
 permissions-site-autoplay-window2 =
     .title = Ajustes - Reproducción automática
     .style = { permissions-window2.style }
-permissions-site-autoplay-desc = Aquí puedes gestionar los sitios que no cumplen con tus ajustes de reproducción automática predeterminada.
+permissions-site-autoplay-desc = Aquí puede gestionar los sitios que no cumplen con sus ajustes de reproducción automática predeterminada.
 
 ## Site Permissions - Notifications
 

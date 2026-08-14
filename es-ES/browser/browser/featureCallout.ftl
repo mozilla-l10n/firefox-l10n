@@ -15,7 +15,7 @@ callout-firefox-view-tab-pickup-title = Cambie entre dispositivos llevándose su
 callout-firefox-view-tab-pickup-subtitle = Traiga rápidamente las pestañas abiertas de su teléfono y ábralas aquí directamente.
 callout-firefox-view-recently-closed-title = Recupere en un instante sus pestañas cerradas
 callout-firefox-view-recently-closed-subtitle = Todas las pestañas cerradas aparecerán mágicamente aquí. No vuelva a preocuparse por cerrar accidentalmente un sitio.
-callout-firefox-view-colorways-title = Añade un toque de color
+callout-firefox-view-colorways-title = Añada un toque de color
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Elija el tono que le represente con combinaciones de colores. Solo en { -brand-product-name }.
 callout-firefox-view-colorways-reminder-title = Explore nuestras últimas combinaciones de colores
@@ -201,7 +201,7 @@ vertical-tabs-callout-2-subtitle = Este diseño facilita explorar rápidamente l
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = ¿Está perdiendo el rastro de las pestañas importantes?
-sidebar-pins-callout-subtitle = Prueba a fijarlas para que se mantengan en la parte superior de la lista de pestañas. Haga clic con el botón derecho en la pestaña que desee fijar y, a continuación, seleccione Fijar pestaña.
+sidebar-pins-callout-subtitle = Pruebe fijarlas para que se mantengan en la parte superior de la lista de pestañas. Haga clic con el botón derecho en la pestaña que desee fijar y, a continuación, seleccione Fijar pestaña.
 sidebar-pins-callout-cta-button = Fijar pestaña
 
 ## Pinning Tabs Strings

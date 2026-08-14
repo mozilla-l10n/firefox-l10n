@@ -167,9 +167,9 @@ fx100-thank-you-pin-primary-button-label =
 fx100-upgrade-thanks-header = 100 gracias
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
-fx100-upgrade-thank-you-body = Es nuestro lanzamiento número 100 de { -brand-short-name }. Gracias <em>a ti</em> por ayudarnos a construir un Internet mejor y más saludable.
+fx100-upgrade-thank-you-body = Es nuestro lanzamiento número 100 de { -brand-short-name }. Gracias <em>a usted</em> por ayudarnos a construir un Internet mejor y más saludable.
 # Message shown with either a pin-to-taskbar or set-default button.
-fx100-upgrade-thanks-keep-body = ¡Es nuestro lanzamiento número 100! Gracias por ser parte de nuestra comunidad. Mantén { -brand-short-name } a un clic de distancia para los próximos 100.
+fx100-upgrade-thanks-keep-body = ¡Es nuestro lanzamiento número 100! Gracias por ser parte de nuestra comunidad. Mantenga { -brand-short-name } a un clic de distancia para los próximos 100.
 mr2022-onboarding-secondary-skip-button-label = Saltar este paso
 
 ## MR2022 New User Easy Setup screen strings

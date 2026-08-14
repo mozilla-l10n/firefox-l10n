@@ -21,8 +21,8 @@ webauthn-specific-passkey-label = Clave de acceso para { $domain }
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
     { $retriesLeft ->
-        [one] La verificación del usuario ha fallado. Te queda { $retriesLeft } intento. Inténtelo otra vez.
-       *[other] La verificación del usuario ha fallado. Te quedan { $retriesLeft } intentos. Inténtelo otra vez.
+        [one] La verificación del usuario ha fallado. Le queda { $retriesLeft } intento. Pruebe de nuevo.
+       *[other] La verificación del usuario ha fallado. Le quedan { $retriesLeft } intentos. Pruebe de nuevo.
     }
 webauthn-uv-invalid-short-prompt = La verificación del usuario ha fallado. Inténtelo otra vez.
 
