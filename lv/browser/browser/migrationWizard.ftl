@@ -80,7 +80,7 @@ migration-passwords-option-label = Saglabātās paroles
 migration-history-option-label = Pārlūkošanas vēsturi
 migration-extensions-option-label = Papildinājumus
 migration-form-autofill-option-label = Veidlapu automātiskās aizpildes datus
-migration-payment-methods-option-label = Maksājumu metodes
+migration-payment-methods-option-label = Maksājumu veidi
 migration-cookies-option-label = Sīkdatnes
 migration-session-option-label = Logi un cilnes
 migration-otherdata-option-label = Citus datus
@@ -176,7 +176,7 @@ migration-list-password-label = paroles
 migration-list-history-label = vēsture
 migration-list-extensions-label = paplašinājumi
 migration-list-autofill-label = automātiskās aizpildes dati
-migration-list-payment-methods-label = maksājumu metodes
+migration-list-payment-methods-label = maksājumu veidi
 
 ##
 

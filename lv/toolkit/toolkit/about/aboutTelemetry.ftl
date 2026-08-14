@@ -113,6 +113,6 @@ about-telemetry-memory-map-title = Atmiņas karte:
 about-telemetry-error-fetching-symbols = Iegūstot simbolus notikusi kļūda. Pārliecinieties, ka jūsu interneta savienojums darbojas korekti un mēģiniet vēlreiz.
 about-telemetry-time-stamp-header = laika zīmogs
 about-telemetry-category-header = kategorija
-about-telemetry-method-header = metode
+about-telemetry-method-header = veids
 about-telemetry-object-header = objekts
 about-telemetry-extra-header = papildu

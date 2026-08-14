@@ -62,7 +62,7 @@ webauthn-pin-auth-blocked-prompt = { $hostname } lietotāja verifikācija neizde
 webauthn-pin-not-set-prompt = { $hostname } lietotāja verifikācija neizdevās. Iespējams, ierīcē būs jāiestata PIN.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
-webauthn-uv-blocked-prompt = { $hostname } lietotāja verifikācija neizdevās. Bija pārāk daudz neveiksmīgu mēģinājumu, un iebūvētā lietotāja verifikācijas metode ir bloķēta.
+webauthn-uv-blocked-prompt = { $hostname } lietotāja apliecināšana neizdevās. Bija pārāk daudz nesekmīgu mēģinājumu, un iebūvētais lietotāja apliecināšanas veids tika liegts.
 webauthn-already-registered-prompt = Šī ierīce jau ir reģistrēta. Izmēģiniet citu ierīci.
 webauthn-cancel = Atcelt
     .accesskey = c
