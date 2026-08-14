@@ -5,8 +5,8 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] Pavelciet uz leju, lai redzētu vēsturi
-           *[other] Veiciet labo klikšķi un pavelciet uz leju, lai redzētu vēsturi
+            [macos] Pavilkt uz leju, lai redzētu vēsturi
+           *[other] Jāveic labais klikšķis vai jāpavelk uz leju, lai redzētu vēsturi
         }
 
 ## Back

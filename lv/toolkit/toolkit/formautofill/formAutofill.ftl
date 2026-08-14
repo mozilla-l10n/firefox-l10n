@@ -6,8 +6,8 @@
 ## OS Prompt Dialog
 
 # The link leads users to Form Autofill browser preferences.
-autofill-options-link = Formu automātiskās aizpildes iestatījumi
-autofill-options-link-osx = Formu automātiskās aizpildes iestatījumi
+autofill-options-link = Veidlapu automātiskās aizpildes iestatījumi
+autofill-options-link-osx = Veidlapu automātiskās aizpildes preferences
 
 ## The credit card capture doorhanger
 
@@ -15,7 +15,7 @@ autofill-options-link-osx = Formu automātiskās aizpildes iestatījumi
 # Used on the doorhanger when an credit card change is detected.
 
 # Label for the button in the dropdown menu used to clear the populated form.
-autofill-clear-form-label = Notīrīt automātiski saglabāto formu
+autofill-clear-form-label = Notīrīt automātiski aizpildīto veidlapu
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
@@ -46,4 +46,4 @@ autofill-category-tel = telefons
 autofill-category-email = e-pasts
 # This string is used in drop down suggestion when users try to autofill credit
 # card on an insecure website (without https).
-autofill-insecure-field-warning-description = { -brand-short-name } ir atklājis nedrošu lapu. Formu automātiskā aizpilde ir īslaicīgi deaktivēta.
+autofill-insecure-field-warning-description = { -brand-short-name } noteica nedrošu lapu. Veidlapu automātiskā aizpilde ir īslaicīgi atspējota.

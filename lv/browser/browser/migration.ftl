@@ -6,8 +6,8 @@ migration-wizard =
     .title = Importēšanas vednis
 import-from =
     { PLATFORM() ->
-        [windows] Importēt iestatījumus, grāmatzīmes, vēsturi, paroles un citus datus no:
-       *[other] Importēt iestatījumus, grāmatzīmes, vēsturi, paroles un citus datus no:
+        [windows] Ievietot iestatījumus, grāmatzīmes, vēsturi, paroles un citus datus no:
+       *[other] Ievietot iestatījumus, grāmatzīmes, vēsturi, paroles un citus datus no:
     }
 import-from-bookmarks = Importēt grāmatzīmes no:
 import-from-ie =
