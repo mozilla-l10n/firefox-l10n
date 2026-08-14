@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
+smart-window-block-title = Заблакаваць { -smart-window-brand-name }?
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -32,6 +33,12 @@ smart-window-model-learn-link = Даведацца пра мадэлі
 smart-window-model-custom-name =
     .label = Назва мадэлі
     .placeholder = Прыклад: glm4
+smart-window-model-custom-url =
+    .label = Канцавы пункт мадэлі
+    .placeholder = Прыклад: http://localhost:11434/v1
+smart-window-model-custom-token =
+    .label = Ключ API або токен аўтарызацыі, калі патрабуецца
+smart-window-model-custom-more-link = Падрабязней пра карыстальніцкія мадэлі
 smart-window-model-custom-save =
     .label = Захаваць
 ai-window-delete-all-memories-confirm = Выдаліць

@@ -162,6 +162,24 @@ sidebar-opentabs-sort-option-order =
 sidebar-opentabs-sort-option-recency =
     .label = Нядаўна актыўныя
 
+## Labels for the open tabs hover preview
+
+# Heading at the top of the preview shown when hovering the Open Tabs button
+# in the sidebar. "Recent tabs" refers to the tabs that were active most
+# recently, not to tabs that were recently opened.
+sidebar-opentabs-preview-heading = Нядаўнія карткі
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = Закрыць { $tabTitle }
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = Сцішыць картку
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = Разцішыць картку
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
