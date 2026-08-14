@@ -11,10 +11,18 @@ findbar-previous =
     .tooltiptext = Atrast iepriekšējo vārdkopas parādīšanos
 findbar-find-button-close =
     .tooltiptext = Aizvērt meklēšanas joslu
+findbar-highlight-all2 =
+    .label = Izcelt visus
+    .accesskey =
+        { PLATFORM() ->
+            [macos] I
+           *[other] I
+        }
+    .tooltiptext = Izcelt visas atrastās vārdkopas
 findbar-case-sensitive =
-    .label = Lielo, mazo burtu atbilstība
+    .label = Lielo un mazo burtu atbilstība
     .accesskey = l
-    .tooltiptext = Meklēt uztverot lielos un mazos burtus kā atšķirīgus simbolus
+    .tooltiptext = Meklēšanā uztvert lielos un mazos burtus kā atšķirīgas rakstzīmes
 findbar-entire-word =
     .label = Veselus vārdus
     .accesskey = v

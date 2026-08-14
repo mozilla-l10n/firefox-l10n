@@ -251,8 +251,8 @@ places-details-pane-no-items =
 places-details-pane-items-count =
     .value =
         { $count ->
-            [one] Один елемент
-            [few] { $count } елемента
+            [one] { $count } елемент
+            [few] { $count } елементи
            *[many] { $count } елементів
         }
 
