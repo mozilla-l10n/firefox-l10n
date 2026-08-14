@@ -243,6 +243,9 @@ firefoxview-choose-browser-button = Válasszon böngészőt
 
 firefoxview-dont-remember-history-empty-header-2 = Ön irányítja, hogy a { -brand-short-name } mire emlékszik
 firefoxview-dont-remember-history-empty-description-one = Jelenleg a { -brand-short-name } nem jegyzi meg a böngészési tevékenységét. Hogy ezt módosítsa, <a data-l10n-name="history-settings-url-two">frissítse az előzménybeállításokat</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = A böngészési előzményei törölve lesznek
+firefoxview-dont-remember-history-empty-description-2 = A { -brand-short-name } jelenleg nem menti az előzményeit. Ezt bármikor megváltoztathatja a <a data-l10n-name="history-settings-url-two">beállításokban</a>.
 
 ##
 
