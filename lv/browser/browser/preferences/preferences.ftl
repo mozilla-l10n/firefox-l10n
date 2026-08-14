@@ -1640,7 +1640,7 @@ preferences-doh-description = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, n
 preferences-doh-description2 = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, nodrošinot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
 # Variables:
 #   $status (string) - The status of the DoH connection
-preferences-doh-status = Statuss: { $status }
+preferences-doh-status = Stāvoklis: { $status }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Pakalpojuma sniedzējs: { $name }

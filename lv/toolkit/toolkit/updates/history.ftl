@@ -24,4 +24,4 @@ update-details = Sīkāka informācija
 update-installed-on = Uzinstalēts: { $date }
 # Variables:
 #   $status (string) - Status of the last update
-update-status = Statuss: { $status }
+update-status = Stāvoklis: { $status }

@@ -183,7 +183,7 @@ pdfjs-find-match-case-checkbox-label = Lielo, mazo burtu jutīgs
 pdfjs-find-entire-word-checkbox-label = Veselus vārdus
 pdfjs-find-reached-top = Sasniegts dokumenta sākums, turpinām no beigām
 pdfjs-find-reached-bottom = Sasniegtas dokumenta beigas, turpinām no sākuma
-pdfjs-find-not-found = Frāze nav atrasta
+pdfjs-find-not-found = Vārdkopa nav atrasta
 
 ## Predefined zoom values
 

@@ -56,7 +56,7 @@ load-device-browse =
 ## Token Manager
 
 devinfo-status =
-    .label = Statuss
+    .label = Stāvoklis
 devinfo-status-disabled =
     .label = Atslēgta
 devinfo-status-not-present =

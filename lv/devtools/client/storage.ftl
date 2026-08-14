@@ -61,7 +61,7 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nosaukums
 storage-table-headers-cookies-value = Vērtība
-storage-table-headers-cache-status = Statuss
+storage-table-headers-cache-status = Stāvoklis
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
