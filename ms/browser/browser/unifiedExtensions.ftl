@@ -63,3 +63,10 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } dinyahdayakan
     .message = Sambungan ini melanggar dasar Mozilla dan dinyahdayakan.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading = { $extensionsCount } sambungan dinyahdayakan
+    .message =
+        Sesetengah sambungan anda dinyahdayakan kerana melanggar dasar Mozilla.
+        Anda boleh mendayakannya dalam tetapan, tetapi ini mungkin berisiko.
