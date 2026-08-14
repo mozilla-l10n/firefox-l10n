@@ -277,7 +277,7 @@ mr2022-onboarding-privacy-segmentation-title = Mēs vienmēr cienām jūsu priv�
 mr2022-onboarding-privacy-segmentation-subtitle = No viediem ieteikumiem līdz gudrākai meklēšanai mēs pastāvīgi strādājam, lai izveidotu labāku, personiskāku { -brand-product-name }.
 mr2022-onboarding-privacy-segmentation-text-cta = Ko jūs vēlaties redzēt, kad mēs piedāvājam jaunas funkcijas, kas izmanto jūsu datus, lai uzlabotu jūsu pārlūkošanu?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Izmantot { -brand-product-name } ieteikumus
-mr2022-onboarding-privacy-segmentation-button-secondary-label = Rādīt detalizētu informāciju
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Rādīt izvērstu informāciju
 
 ## MR2022 Multistage Gratitude screen strings
 
