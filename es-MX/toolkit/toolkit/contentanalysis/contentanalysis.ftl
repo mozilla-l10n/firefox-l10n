@@ -31,8 +31,8 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está revisando
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } está revisando lo que has imprimido según las políticas de datos de tu organización. Esto puede tomar un tiempo.
 contentanalysis-operationtype-clipboard = portapapeles
-contentanalysis-operationtype-dropped-text = texto colocado
-contentanalysis-operationtype-print = imprimir
+contentanalysis-operationtype-dropped-text = texto arrastrado
+contentanalysis-operationtype-print = impresión
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = cargar de “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
