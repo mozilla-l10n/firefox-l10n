@@ -59,6 +59,15 @@ fxa-menu-send-tab-to-device-description = Küldjön el egy lapot bármely eszkö
 fxa-menu-sign-out =
     .label = Kijelentkezés…
 fxa-menu-sync-description = Érje el a webet bárhol
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Fiók kezelése
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Jelentkezzen be a szinkronizáláshoz
+fxa-menu-sign-in-promo-message = Vigye magával az adatait mindenhová
+fxa-menu-sign-in-promo-button =
+    .label = Bejelentkezés
 # Card shown in the account menu when a previously signed-in account is
 # remembered but the user needs to sign in again. Shows the remembered email,
 # a reason, and a button to sign back in.

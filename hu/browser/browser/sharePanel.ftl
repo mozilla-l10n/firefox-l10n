@@ -24,3 +24,11 @@ share-panel-qr-code =
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
     .label = Küldés eszközre
+# This string is shown when the user has no other devices signed in to their account.
+# Clicking this will bring them to a place where they can connect other devices.
+share-panel-send-to-mobile =
+    .label = Küldés mobilra
+share-panel-device-subview =
+    .title = Összes eszköz
+share-panel-os-share-subview =
+    .title = Megosztás…
