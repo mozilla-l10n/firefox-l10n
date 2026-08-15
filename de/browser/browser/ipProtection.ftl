@@ -98,6 +98,10 @@ ipprotection-location-selection-callout-description-1 = Mit dem integrierten VPN
 ipprotection-location-selection-callout-primary-button = Ausprobieren
 ipprotection-location-selection-callout-secondary-button = Schließen
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = Verstanden
+
 ## Panel
 
 # Also used for the callout shown in private browsing
