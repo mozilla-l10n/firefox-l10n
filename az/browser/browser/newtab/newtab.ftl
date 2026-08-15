@@ -110,7 +110,7 @@ newtab-search-box-search-button =
     .aria-label = Axtar
 # Variables:
 #   $engine (string) - The name of the user's default search engine
-newtab-search-box-handoff-text = Ünvanı daxil et və ya { $engine } ilə axtar
+newtab-search-box-handoff-text = { $engine } ilə axtarın və ya ünvanı daxil edin
 newtab-search-box-handoff-text-no-engine = Ünvanı daxil et və ya axtar
 # Variables:
 #   $engine (string) - The name of the user's default search engine

@@ -123,6 +123,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bu səhifəni əlfəcinlə ({ $shortcut })
+urlbar-split-view-button =
+    .aria-label = Bölünmüş görünüş
+    .tooltiptext = Bölünmüş görünüş
 
 ## Searchbar context menu
 
@@ -325,14 +328,21 @@ urlbar-result-action-search-in-private = Məxfi Pəncərədə axtar
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ilə axtar
 urlbar-result-action-switch-tab = Vərəqə keç
+urlbar-result-action-move-tab-to-split-view = Vərəqi Bölünmüş Görünüşə Daşı
 urlbar-result-action-visit = Ziyarət et
 
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
     .label = Əlfəcinlər
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description = Bu dəfə bununla axtarın:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Axtarış Tənzimləmələri
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Bu dəfə bununla axtarın:
 urlbar-searchmode-popup-search-settings = Axtarış Tənzimləmələri
     .accesskey = S
 urlbar-searchmode-popup-settings = Tənzimləmələr

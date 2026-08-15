@@ -11,12 +11,12 @@ about-private-browsing-search-btn =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
-    .title = { $engine } ilə axtar və ya ünvanı daxil et
+    .title = { $engine } ilə axtarın və ya ünvanı daxil edin
 about-private-browsing-handoff-no-engine =
     .title = Axtar və ya ünvanı daxil et
 # Variables
 #  $engine (String): the name of the user's default search engine
-about-private-browsing-handoff-text = { $engine } ilə axtar və ya ünvanı daxil et
+about-private-browsing-handoff-text = { $engine } ilə axtarın və ya ünvanı daxil edin
 about-private-browsing-handoff-text-no-engine = Axtar və ya ünvanı daxil et
 about-private-browsing-not-private = Hazırda məxfi pəncərədə deyilsiniz.
 about-private-browsing-info-description-private-window = Məxfi pəncərə: { -brand-short-name } siz bütün məxfi pəncərələri bağladıqdan sonra, axtarışlarınızı və baxış tarixçənizi təmizləyir. Bu sizi anonim etmir.

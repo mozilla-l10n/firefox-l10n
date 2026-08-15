@@ -5,6 +5,7 @@
 
 ## Added shortcuts:
 
+customkeys-view-add-split-view = Bölünmüş Görünüşə Əlavə et
 customkeys-dev-accessibility = Əlçatanlıq
 customkeys-nav-reload = Yenilə
 customkeys-nav-reload-skip-cache = Yenilə (keşin üzərinə yaz)
