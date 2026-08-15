@@ -100,6 +100,7 @@ ipprotection-location-selection-callout-secondary-button = סגירה
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-title = לקחת איתך VPN מובנה ב־Android
+ipprotection-android-promo-callout-description = יש לסרוק את קוד ה־QR כדי לקבל את { -brand-product-name } ל־Android ולהפעיל את ה־VPN המובנה לפרטיות רבה יותר בכל מקום. בקרוב גם ב־iOS.
 ipprotection-android-promo-callout-primary-button = הבנתי
 
 ## Panel

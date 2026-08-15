@@ -132,6 +132,7 @@ autofill-address-tel = טלפון
 autofill-address-email = דוא״ל
 autofill-cancel-button = ביטול
 autofill-save-button = שמירה
+autofill-country-warning-message-2 = מילוי טפסים אוטומטי זמין כרגע למדינות מסוימות בלבד
 autofill-country-warning-message = מילוי טפסים אוטומטי זמין כרגע למדינות מסוימות בלבד.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = הוספת כרטיס אשראי חדש

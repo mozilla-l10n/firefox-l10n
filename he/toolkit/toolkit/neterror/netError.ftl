@@ -34,6 +34,38 @@ neterror-view-certificate-link = הצגת אישור
 neterror-trr-continue-this-time = להמשיך רק הפעם
 neterror-disable-native-feedback-warning = תמיד להמשיך
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = לא ניתן להגיע לאתר זה
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = לא ניתן היה להתחבר לשרת ב־{ $domain }.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = אפשר לנסות את השלבים הבאים:
+neterror-search-cta-hint-check-address = לבדוק שוב את כתובת האתר
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = לחפש ברשת כדי למצוא את האתר הזה
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = חיפוש
+    .accesskey = ח
+    .tooltiptext = פותח תוצאות חיפוש בלשונית חדשה
+neterror-search-cta-reload-button =
+    .label = טעינה מחדש
+    .accesskey = ט
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = בטעינה
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = נראה שהינך במצב לא מקוון. נא להתחבר מחדש ולנסות שוב.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = קוד שגיאה: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = מידע נוסף
+
 ##
 
 neterror-pref-reset = נראה שהגדרות אבטחת הרשת שלך עשוי לגרום לכך. האם ברצונך לשחזר להגדרות ברירת מחדל?

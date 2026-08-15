@@ -306,7 +306,7 @@ appmenu-sync-promo-turnonsync-cta = הפעלת סנכרון
 # This refers to getting tabs from your mobile device via sync
 appmenu-sync-promo-connectdevice =
     .heading = קבלת הלשוניות שלך מהנייד
-appmenu-sync-promo-connectdevice-cta = שירותים מחוברים
+appmenu-sync-promo-connectdevice-cta = חיבור מכשיר
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = להביא את הסימניות שלך יחד איתך
 # This refers to having your bookmarks available on your mobile device via sync
