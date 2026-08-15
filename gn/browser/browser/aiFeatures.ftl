@@ -107,3 +107,6 @@ smart-window-model-fast-v2 =
 smart-window-model-flexible-v2 =
     .label = { $shortName }: Pepykuaáva
     .description = Oiko tembiaporãitápe g̃uarã. Heraite: { $model } { $ownerName } rehe
+smart-window-model-personal-v2 =
+    .label = { $shortName }: Mba’eteéva
+    .description = Ojejapo ñepytyvõrã heta ñe’ẽme. Héra tee: { $model } ojapova { $ownerName }
