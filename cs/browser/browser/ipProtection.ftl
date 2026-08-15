@@ -126,6 +126,10 @@ ipprotection-location-selection-callout-description-1 =
 ipprotection-location-selection-callout-primary-button = Vyzkoušejte ho
 ipprotection-location-selection-callout-secondary-button = Zavřít
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = Rozumím
+
 ## Panel
 
 # Also used for the callout shown in private browsing
