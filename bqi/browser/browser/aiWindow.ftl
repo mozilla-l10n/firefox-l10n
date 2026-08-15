@@ -92,6 +92,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = و { -smart-window-brand-name } خش ٱوۊڌین
 aiwindow-firstrun-model-title = چ چیه سی ایسا موهم هڌ؟
+aiwindow-firstrun-model-title-v2 = سی شۊرۊع ی مودل پسند کۊنین
 aiwindow-firstrun-model-subtitle = ی مودل سی رۊشن کردن { -smart-window-brand-name } پسند کۊنین. هر سا ک خاستین ترین هو ن آلشت کۊنین.
 aiwindow-firstrun-model-fast-label = زل
 aiwindow-firstrun-model-fast-body = زی جواو اده
@@ -148,6 +149,12 @@ aiwindow-firstrun-default-checkbox-description = سامووا ن هر سا خا�
 
 smartwindow-ask-button =
     .label = پۊرسیڌن
+
+## Memories toggle button
+
+aiwindow-memories-off =
+    .aria-label = خاترات کۊر
+    .tooltiptext = خاترات ن من ولوما و کار مبرین
 
 ## New Chat Button
 
