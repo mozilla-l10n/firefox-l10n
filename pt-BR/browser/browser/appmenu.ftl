@@ -397,6 +397,7 @@ appmenuitem-relay-title-signed-in = Ver máscaras de email
 appmenuitem-relay-description = Oculte seu email e celular verdadeiros
 appmenuitem-services-relay-description = Abrir painel de máscaras de email
 appmenuitem-vpn-title2 = Oculte sua localização com o { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Tenha proteção extra entre dispositivos
 appmenuitem-vpn-description3 = Torne sua navegação mais difícil de rastrear
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Tenha proteção total em seus dispositivos
