@@ -174,10 +174,17 @@ search-one-offs-bookmarks =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action. English commas should be used, i.e. ,
 
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = uzantılar, mövzular, əlavələr
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Əlfəcinləri idarə et
 quickactions-cmd-bookmarks = əlfəcinlər
 quickactions-cmd-clearhistory = tarixçəni təmizlə
+# Opens about:addons page in the extensions section
+quickactions-extensions = Uzantıları idarə et
+quickactions-cmd-extensions = uzantılar
 quickactions-cmd-private = məxfi səyahət
 # Opens the screenshot tool
 quickactions-screenshot3 = Ekran görüntüsü al
@@ -222,6 +229,8 @@ identity-insecure-login-forms = Bu səhifədə girilən məlumatlar oğurlana bi
 identity-permissions-reload-hint = Dəyişikliklərin işləməsi üçün səhifəni yeniləyin.
 identity-clear-site-data =
     .label = Çərəzlər və Sayt Məlumatlarını Təmizlə…
+identity-connection-not-secure-security-view = Bu sayta təhlükəsiz şəkildə bağlanmamısınız.
+identity-connection-verified = Bu sayta təhlükəsiz şəkildə bağlanmısınız.
 identity-remove-cert-exception =
     .label = İstisnanı sil
     .accesskey = s
@@ -537,6 +546,39 @@ private-browsing-indicator-label = Məxfi səyahət
 private-browsing-indicator-tooltip =
     .tooltiptext = Məxfi səyahət
 
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Uzantılar
+    .tooltiptext = Uzantılar
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Uzantılar
+    .tooltiptext =
+        Uzantılar
+        İcazələr tələb olunur
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-quarantined =
+    .label = Uzantılar
+    .tooltiptext =
+        Uzantılar
+        Bəzi uzantılara icazə verilmədi
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Uzantılar
+    .tooltiptext =
+        Uzantılar
+        Bəzi uzantılar söndürüldü
+
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
@@ -619,6 +661,21 @@ trustpanel-privacy-link = Məxfilik Tənzimləmələri
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = { $host } üçün çərəzləri və sayt məlumatlarını təmizlə
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = { $host } üçün bağlantı qorumaları
+
+## The urlbar trust icon & panel
+
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } izləyici əngəlləndi
+       *[other] { $count } izləyici əngəlləndi
+    }
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

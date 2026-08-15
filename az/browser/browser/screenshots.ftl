@@ -44,3 +44,8 @@ screenshots-component-copy-button-2 = Köçür
 screenshots-component-download-button-2 = Endir
     .title = Endir ({ $shortcut })
     .aria-label = Endir
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Ekran görüntüsü
+    .tooltiptext = Ekran görüntüsü ({ $shortcut })
