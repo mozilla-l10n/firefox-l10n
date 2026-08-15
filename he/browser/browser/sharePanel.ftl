@@ -5,6 +5,33 @@
 
 ## The share panel, opened from the share button in the address bar.
 
+# Address bar button that opens the share panel.
+urlbar-share-button =
+    .aria-label = שיתוף דף זה
+    .tooltiptext = שיתוף דף זה
+share-panel-heading = שיתוף הדף
+share-panel-copy-link =
+    .label = העתקת קישור
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = הקישור הועתק
+share-panel-os-share =
+    .label = שיתוף עם…
+share-panel-mail =
+    .label = שליחת דוא״ל
+share-panel-screenshot =
+    .label = צילום מסך
+share-panel-qr-code =
+    .label = שיתוף קוד QR
+# This string is shown when the user has more than 1 device signed in to their account.
+# Clicking this will bring them to a subview where all of their devices are listed.
+share-panel-send-to-device =
+    .label = שליחה למכשיר
+# This string is shown when the user has no other devices signed in to their account.
+# Clicking this will bring them to a place where they can connect other devices.
+share-panel-send-to-mobile =
+    .label = שליחה לנייד
+share-panel-device-subview =
+    .title = כל המכשירים
+share-panel-os-share-subview =
+    .title = שיתוף עם…
