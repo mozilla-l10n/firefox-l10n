@@ -397,9 +397,6 @@ appmenuitem-relay-title-signed-in = Lihat Topeng Surel
 appmenuitem-relay-description = Tutupi surel dan telepon asli Anda
 appmenuitem-services-relay-description = Luncurkan dasbor masker surel
 appmenuitem-vpn-title2 = Sembunyikan Lokasi Anda dengan { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description4 = Dapatkan perlindungan ekstra di seluruh aplikasi dan perangkat
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = Buka { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Buat penjelajahan Anda lebih sulit dilacak
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Dapatkan perlindungan untuk seluruh perangkat

@@ -394,9 +394,6 @@ appmenuitem-relay-title-signed-in = Näytä sähköpostimaskit
 appmenuitem-relay-description = Peitä oikea sähköpostiosoitteesi ja puhelinnumerosi
 appmenuitem-services-relay-description = Käynnistä sähköpostimaskien hallintapaneeli
 appmenuitem-vpn-title2 = Piilota sijaintisi { -mozilla-vpn-brand-name }:llä
-appmenuitem-vpn-description4 = Hanki lisäsuojaa sovelluksiin ja laitteisiin
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = Avaa { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Tee selaamisestasi vaikeammin jäljitettävää
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Hanki koko laitteen suojaus

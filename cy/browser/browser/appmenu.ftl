@@ -397,9 +397,6 @@ appmenuitem-relay-title-signed-in = Gweld Arallenwau E-bost
 appmenuitem-relay-description = Cuddiwch eich e-bost a'ch ffôn go iawn
 appmenuitem-services-relay-description = Agor dangosfwrdd e-bost enwarall
 appmenuitem-vpn-title2 = Cuddio Eich Lleoliad gyda { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description4 = Cael diogelwch ychwanegol ar draws apiau a dyfeisiau
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = Agor { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Gwneud eich pori yn anos i'w olrhain
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Cael diogelwch dyfais gyfan

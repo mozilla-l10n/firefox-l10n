@@ -397,9 +397,6 @@ appmenuitem-relay-title-signed-in = Vezi măștile de e-mail
 appmenuitem-relay-description = Maschează adresa de e-mail și numărul de telefon reale
 appmenuitem-services-relay-description = Lansează tabloul de bord pentru măști de e-mail
 appmenuitem-vpn-title2 = Ascunde-ți locația cu { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description4 = Obține protecție suplimentară pe aplicații și dispozitive
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = Deschide { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Fă-ți navigarea mai greu de urmărit
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obține protecție pentru întregul dispozitiv

@@ -394,9 +394,6 @@ appmenuitem-relay-title-signed-in = Montri retpoŝtajn maskojn
 appmenuitem-relay-description = Maski vian veran retpoŝton kaj telefonnumeron
 appmenuitem-services-relay-description = Malfermi la panelon pri retpoŝtaj maskoj
 appmenuitem-vpn-title2 = Kaŝu vian pozicion per { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description4 = Profitu aldonan protekton en ĉiuj programoj kaj aparatoj
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = Malfermi { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Igu vian retumon pli malfacile spurebla
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Protekto por la integra aparato

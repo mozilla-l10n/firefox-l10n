@@ -394,9 +394,6 @@ appmenuitem-relay-title-signed-in = ਈਮੇਲ ਮਾਸਕਾਂ ਨੂੰ �
 appmenuitem-relay-description = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਅਤੇ ਫ਼ੋਨ ਨੂੰ ਲੁਕਾਓ
 appmenuitem-services-relay-description = ਈਮੇਲ ਮਾਸਕ ਡੈਸ਼ਬੋਰਡ ਨੂੰ ਚਲਾਓ
 appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } ਨਾਲ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ
-appmenuitem-vpn-description4 = ਸਾਰੇ ਐਪਾਂ ਅਤੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਵਧੀਕ ਸੁਰੱਖਿਆ ਲਵੋ
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = { -mozilla-vpn-brand-name } ਨੂੰ ਖੋਲ੍ਹੋ
 appmenuitem-vpn-description3 = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਸੂਹ ਲੈਣ ਨੂੰ ਔਖਾ ਬਣਾਓ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = ਪੂਰੇ-ਡਿਵਾਈਸ ਲਈ ਸੁਰੱਖਿਆ ਲਵੋ

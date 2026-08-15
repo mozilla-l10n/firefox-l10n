@@ -28,56 +28,11 @@ ipprotection-feature-introduction-button-primary = Nākamais
 ipprotection-feature-introduction-button-secondary-not-now = Ne tagad
 ipprotection-feature-introduction-button-secondary-no-thanks = Nē, paldies
 
-## Unlimited bandwidth summer promotion offramp callouts
-
-
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Izvēlies, kur izmantot VPN
 ipprotection-site-settings-callout-button = Sapratu
 
-## Location selection callout
-
-
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-primary-button = Sapratu
-
-## Panel
-
-
-## Status card
-
-
-## Location controls
-
-
-## VPN paused state
-
-
-## Messages and errors
-
-
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
-## IP Protection Settings
-
-
-## IP Protection dialogs
-
-
-## IP Protection Bandwidth
-
-
-## IP Protection bandwidth reset callout
-
-
-## IP Protection add-on breakage warnings
-
-
-## IP Protection alerts
-

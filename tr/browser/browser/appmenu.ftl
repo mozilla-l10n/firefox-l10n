@@ -383,8 +383,6 @@ appmenuitem-relay-title-signed-in = E-posta maskelerini göster
 appmenuitem-relay-description = Gerçek e-posta adresinizi ve telefon numaranızı maskeleyin
 appmenuitem-services-relay-description = E-posta maskeleri panosunu aç
 appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } ile konumunuzu gizleyin
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = { -mozilla-vpn-brand-name }’i aç
 appmenuitem-vpn-description3 = Gezintilerinizin izlenmesini zorlaştırın
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bütün cihazlarınızı koruyun

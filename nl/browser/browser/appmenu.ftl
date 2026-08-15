@@ -397,9 +397,6 @@ appmenuitem-relay-title-signed-in = E-mailmaskers bekijken
 appmenuitem-relay-description = Maskeer uw echte e-mailadres en telefoonnummer
 appmenuitem-services-relay-description = Dashboard voor e-mailmaskers starten
 appmenuitem-vpn-title2 = Verberg uw locatie met { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description4 = Ontvang extra bescherming in apps en apparaten
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = { -mozilla-vpn-brand-name } openen
 appmenuitem-vpn-description3 = Maak uw navigatie moeilijker te volgen
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bescherming van uw volledige apparaat ontvangen

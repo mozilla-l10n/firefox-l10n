@@ -132,12 +132,6 @@ ipprotection-open-button = Кушодани «{ -brand-product-name }»
 ipprotection-connection-status-generic-error-title-1 = Ба «VPN» пайваст шуда натавонист
     .aria-label = Ба «VPN» пайваст шуда натавонист
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-learn-more = Маълумоти бештар
@@ -168,9 +162,6 @@ ip-protection-bandwidth-header-1 = Маҳдудияти моҳонаи маъл�
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Фаҳмидам
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

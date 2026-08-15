@@ -394,9 +394,6 @@ appmenuitem-relay-title-signed-in = نیشتن ماسکا ایمیل
 appmenuitem-relay-description = بؽڌار کردن ایمیل وو شوماره تیلیفووݩ واقعی ایسا
 appmenuitem-services-relay-description = داشبورد ره وندن ماسکا ایمیل
 appmenuitem-vpn-title2 = جاگه خوتووݩ ن وا { -mozilla-vpn-brand-name } بؽڌار کۊنین
-appmenuitem-vpn-description4 = زفت وابیڌن قلوه من برنومه یل وو دسگایل
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = گۊشیڌن { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = رڌجۊری گشتن خوتووݩ ن سخت تر کۊنین
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = پوی دسگا ن زفت کۊنین

@@ -394,9 +394,6 @@ appmenuitem-relay-title-signed-in = Դիտել էլ. փոստի դիմակներ
 appmenuitem-relay-description = Քողարկեք ձեր իրական էլ. փոստը և հեռախոսը
 appmenuitem-services-relay-description = Գործարկել էլ. փոստի դիմակների վահանակը
 appmenuitem-vpn-title2 = Թաքցրեք ձեր տեղադրությունը { -mozilla-vpn-brand-name }-ի միջոցով
-appmenuitem-vpn-description4 = Ստացեք լրացուցիչ պաշտպանություն բոլոր հավելվածներում և սարքերում
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = Բացել { -mozilla-vpn-brand-name }-ը
 appmenuitem-vpn-description3 = Ձեր դիտարկումը դժվարացրեք հետևելը
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
 appmenuitem-vpn-description-2 = Ստացեք ամբողջ սարքի պաշտպանություն

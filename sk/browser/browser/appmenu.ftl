@@ -394,9 +394,6 @@ appmenuitem-relay-title-signed-in = Zobraziť masky e‑mailov
 appmenuitem-relay-description = Zamaskujte svoju skutočnú e‑mailovú adresu a telefónne číslo
 appmenuitem-services-relay-description = Spustiť informačný panel e‑mailových masiek
 appmenuitem-vpn-title2 = Skryte svoju polohu pomocou { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description4 = Získajte dodatočnú ochranu vo všetkých aplikáciách a zariadeniach
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = Otvoriť { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Sťažte sledovanie vášho prehliadania
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Získajte ochranu celého zariadenia

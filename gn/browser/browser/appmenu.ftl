@@ -393,9 +393,6 @@ appmenuitem-relay-title-signed-in = Ehecha ñanduti veve rovamo’ãha
 appmenuitem-relay-description = Ehovamo’ã ne ñanduti veve ha pumbyry
 appmenuitem-services-relay-description = Emoñepyrũ ñanduti veve rovara’ãnga rupa
 appmenuitem-vpn-title2 = Eñomi ne rendaite { -mozilla-vpn-brand-name } ndive
-appmenuitem-vpn-description4 = Ereko ñemo’ãve opaite tembiporu’i ha mba’e’okápe
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = Embojuruja { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Embohasy ani ojehapykueho ne ñeikundaha
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Eheka ñemo’ã mba’e’okápe g̃uarã

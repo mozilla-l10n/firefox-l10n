@@ -369,8 +369,6 @@ appmenuitem-relay-title2 = Почтаи электронии худро махф
 appmenuitem-relay-title-signed-in = Намоиши ниқобҳои почтаи электронӣ
 appmenuitem-relay-description = Почтаи электронӣ ва рақами телефони воқеии худро бо ниқоб пинҳон намоед
 appmenuitem-services-relay-description = Оғоз кардани лавҳаи вазъияти ниқобҳои почтаи электронӣ
-# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
-appmenuitem-vpn-title-signed-in = Кушодани «{ -mozilla-vpn-brand-name }»
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Муҳофизати пурраи дастгоҳро татбиқ кунед
 appmenuitem-vpn-description = Фаъолияти худро дар Интернет муҳофизат намоед

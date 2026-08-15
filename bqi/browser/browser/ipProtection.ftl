@@ -117,12 +117,6 @@ ipprotection-connection-status-network-error-title-1 = منپیز اینترنت
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
 ipprotection-open-button = گۊشیڌن { -brand-product-name }
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-learn-more = قلوه دووسته بۊین
@@ -155,9 +149,6 @@ ip-protection-bandwidth-header-1 = مئدۊدیت داده ماهانه
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = فئمیم
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 
