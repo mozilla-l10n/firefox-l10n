@@ -72,6 +72,10 @@ start-page-callout-secondary-label = رڌ کردن
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = سبت نوم
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-chat-callout-title = چت ز نوار وزیفه ایسا
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = سکو هوم گوم کوݩ
