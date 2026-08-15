@@ -461,3 +461,4 @@ fxa-menu-device-view-all-synced-tabs =
 fxa-menu-device-send-current-page =
     .label = Invia pagina corrente a questo dispositivo
 
+
