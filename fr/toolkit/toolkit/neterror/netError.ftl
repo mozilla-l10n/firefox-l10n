@@ -38,15 +38,15 @@ neterror-disable-native-feedback-warning = Toujours continuer
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
-neterror-search-cta-title = Ce site ne peut pas être atteint
+neterror-search-cta-title = Impossible d’accéder à ce site web
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Impossible de se connecter au serveur de { $domain }.
+neterror-search-cta-intro = Impossible de se connecter au serveur à l’adresse { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Essayez ces étapes :
-neterror-search-cta-hint-check-address = Veuillez vérifier l’adresse du site web
+neterror-search-cta-hint-check-address = Vérifiez l’adresse du site web
 # Shown when no Search button is offered, so no specific query can be named.
-neterror-search-cta-hint-search = Rechercher sur le Web pour trouver le site
+neterror-search-cta-hint-search = Recherchez le site sur le Web
 # Shown when the Search button is offered, naming the exact query it will run.
 # $query (String) - The search query derived from the address that failed to
 # load, for example "best hiking boots reviews". The query and the quotation
