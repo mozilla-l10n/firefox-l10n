@@ -35,4 +35,6 @@ ipprotection-site-settings-callout-button = Sapratu
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Ņem līdzi iebūvēto VPN Android ierīcē
+ipprotection-android-promo-callout-description = Nolasi kvadrātkodu, lai iegūtu { -brand-product-name } Android, un ieslēdz iebūvēto VPN, lai kustībā iegūtu vairāk privātuma!
 ipprotection-android-promo-callout-primary-button = Sapratu

@@ -129,6 +129,7 @@ autofill-address-tel = Telefons
 autofill-address-email = Epasts
 autofill-cancel-button = Atcelt
 autofill-save-button = Saglabāt
+autofill-country-warning-message-2 = Veidlapu automātiskā aizpilde šobrīd ir pieejama tikai noteiktās valstīs
 autofill-country-warning-message = Veidlapu automātiskā aizpilde šobrīd ir pieejama tikai noteiktās valstīs.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Paslēpt kredītkarti

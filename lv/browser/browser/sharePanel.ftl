@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Kopīgot lapu
 share-panel-copy-link =
     .label = Ievietot saiti starpliktuvē
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Saite ievietota starpliktuvē
 share-panel-os-share =
     .label = Kopīgot ar…
 share-panel-mail =
