@@ -61,6 +61,10 @@ ipprotection-location-selection-callout-title = Novo: Zamenjajte lokacijo
 ipprotection-location-selection-callout-primary-button = Preizkusi
 ipprotection-location-selection-callout-secondary-button = Zapri
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = Razumem
+
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -144,6 +148,9 @@ ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mo
 
 ipprotection-bandwidth-upgrade-title = Vam je vgrajeni VPN všeč? Zagotovite si zaščito tudi zunaj { -brand-product-name(sklon: "rodilnik") } z { -mozilla-vpn-brand-name }.
 
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-description =
@@ -178,9 +185,15 @@ ip-protection-exceptions-dialog-window =
     .title = Nastavitve spletnih mest
 ip-protection-exclusions-desc = VPN naj se uporablja na vseh spletnih mestih, razen na navedenih. Spletno mesto dodate na seznam tukaj ali prek VPN.
 
+## IP Protection Bandwidth
+
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Razumem
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
