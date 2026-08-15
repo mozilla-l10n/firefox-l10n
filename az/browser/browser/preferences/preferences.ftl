@@ -6,6 +6,17 @@ do-not-track-description = Saytlara “Məni İzləmə” siqnalı göndərərə
 do-not-track-learn-more = Ətraflı öyrən
 do-not-track-option-always =
     .label = Həmişə
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Tənzimləmələrdə tap
 pane-general-title = Ümumi
 category-general =
     .tooltiptext = { pane-general-title }
@@ -36,6 +47,8 @@ pane-downloads-title2 = Endirmələr
     .title = Endirmələr
 pane-downloads3 =
     .heading = Endirmələr
+pane-accessibility-title = Əlçatanlıq
+    .title = { pane-accessibility-title }
 pane-languages-title2 = Dillər
     .title = Dillər
 preferences-languages-header3 =
@@ -395,6 +408,11 @@ browsing-cfr-recommendations-learn-more = Ətraflı Öyrən
 browsing-group =
     .label = Səyahət
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Əlçatanlıq
+
 ## General Section - Proxy
 
 network-settings-title = Şəbəkə Tənzimləmələri
@@ -568,6 +586,8 @@ containers-remove-button =
 
 account-sync-section =
     .heading = Hesab və sinxronizasiya
+pane-account-sync-title2 = Hesab və sinxronizasiya
+    .title = Hesab və sinxronizasiya
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -590,6 +610,12 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Profil şəklini dəyiş
     .alt = Profil şəklini dəyiş
+sync-sign-out =
+    .label = Hesabdan çıx…
+    .accesskey = g
+sync-sign-out2 =
+    .label = Hesabdan çıx
+    .accesskey = g
 sync-manage-account = Hesabı idarə et
     .accesskey = b
 sync-manage-account2 =
@@ -602,6 +628,9 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } təsdiqlənməyib.
 sync-signedin-login-failure = Yenidən qoşulmaq üçün daxil olun { $email }
+sync-signedin-login-failure2 =
+    .label = Siz { $email } hesabından çıxış etdiniz
+    .description = Yenidən bağlanmaq və məlumatlarınızı sinxronizə etməyə başlamaq üçün təkrar daxil olun.
 
 ##
 

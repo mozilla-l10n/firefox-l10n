@@ -5,5 +5,6 @@
 
 ## Added shortcuts:
 
+customkeys-dev-accessibility = Əlçatanlıq
 customkeys-nav-reload = Yenilə
 customkeys-nav-reload-skip-cache = Yenilə (keşin üzərinə yaz)

@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-syncing2 = Sinxronlaşır…
 sync-disconnect-dialog-button = Əlaqəni kəs
+fxa-signout-dialog-title2 = Hesabınızdan çıxırsınız?
+fxa-signout-dialog2-button = Hesabdan çıx
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -15,3 +17,7 @@ fxa-menu-send-tab-to-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Cihazlar Sinxronlaşdırılır…
+fxa-menu-sign-out =
+    .label = Hesabdan çıx…
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = Hesabdan çıxdınız
