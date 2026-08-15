@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Stronu dźělić
 share-panel-copy-link =
     .label = Wotkaz kopěrować
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Wotkaz je kopěrowany
 share-panel-os-share =
     .label = Dźělić z…
 share-panel-mail =

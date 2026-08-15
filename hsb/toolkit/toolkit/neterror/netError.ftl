@@ -34,6 +34,13 @@ neterror-view-certificate-link = Certifikat pokazać
 neterror-trr-continue-this-time = Tutón raz pokročować
 neterror-disable-native-feedback-warning = Přeco pokročować
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Spytajće tute kroki:
+
 ##
 
 neterror-pref-reset = Zda so, zo waše nastajenja syćoweje wěstoty móhli to zawinować. Chceće standardne nastajenja wobnowić?
