@@ -43,11 +43,14 @@ neterror-load-error-try-again = Հնարավոր է՝ կայքը անհասան�
 neterror-load-error-connection = Եթե չի ստացվում բացել որևէ էջ, ստուգեք ձեր համակարգչի  ցանցային միացումը:
 neterror-load-error-firewall = Եթե ձեր համակարգիչը կամ ցանցը ապահովագրված է firewall-ով, համոզվեք, որ  { -brand-short-name }-ը ունի ցանցին միանալու արտոնություն:
 neterror-http-error-page = Ստուգեք՝ արդյոք կայքի հասցեն ճիշտ եք մուտքագրել։
+neterror-http-empty-response = Համոզվեք, որ կայքի հասցեն ճիշտ է մուտքագրված, և որոշ ժամանակ անց կրկին փորձեք։
 neterror-captive-portal = Դուք պետք է մուտք գործեք այս ցանց, որ կարողանաք մուտք գործել համացանց։
 neterror-dns-not-found-hint-header = <strong>Եթե ճիշտ հասցե եք մուտքագրել, ապա կարող եք՝</strong>
 neterror-dns-not-found-hint-try-again = Փորձեք ավելի ուշ
 neterror-dns-not-found-hint-check-network = Ստուգեք կապակցումը համացանցին
 neterror-dns-not-found-hint-firewall = Ստուգեք, որ { -brand-short-name }-ն ունի համացանց մուտք գործելու թույլտվություն (դուք կարող եք կապված լինել, բայց firewall-ի հետևում)
+neterror-dns-not-found-hint-check-network-2 = Ստուգեք կապակցումը համացանցին:
+neterror-dns-not-found-hint-firewall-2 = Ստուգեք, որ { -brand-short-name }-ին թույլատրված է մատչել վեբը  (հնարավոր է՝ կապակցված եք, գտնվում եք firewall-ի հետևում):
 neterror-dns-not-found-offline-hint-header = <strong>Ի՞նչ կարող եք անել։</strong>
 neterror-dns-not-found-offline-hint-different-device = Փորձեք կապակցվել այլ սարքից։
 
@@ -146,7 +149,7 @@ neterror-response-status-code = Սխալի կոդ՝ { $responsestatus } { $respo
 
 fp-neterror-connection-intro = { -brand-short-name }-ը չկարողացավ անվտանգ կապակցում հաստատել { $hostname } սպասարկիչի հետ։
 fp-neterror-offline-intro = { -brand-short-name }-ը չի կարողանում կապակցվել <strong>{ $hostname } </strong> սպասարկիչի հետ:
-fp-neterror-offline-intro-2 = { -brand-short-name }-ը չի կարողանում միանալ <strong>{ $hostname } </strong> հասցեով գտնվող սերվերին։
+fp-neterror-offline-intro-2 = { -brand-short-name }-ը չի կարողանում կապակցվել <strong>{ $hostname } </strong>  սպասարկիչին:։
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> սպասարկիչը չափազանց երկար է պատասխանում։
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
