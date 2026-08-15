@@ -90,6 +90,10 @@ home-prefs-highlights-options-bookmarks-srd =
     .label = Əlfəcinlər
 home-prefs-highlights-option-most-recent-download-srd =
     .label = Son Endirmələr
+home-prefs-recent-activity-header-srd =
+    .label = Son fəaliyyət
+home-prefs-recent-activity-select =
+    .aria-label = Son fəaliyyət
 home-prefs-weather-header-srd =
     .label = Hava
 
@@ -104,6 +108,16 @@ newtab-picture-header-main = Günün şəkli
 newtab-search-box-search-button =
     .title = Axtar
     .aria-label = Axtar
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-text = Ünvanı daxil et və ya { $engine } ilə axtar
+newtab-search-box-handoff-text-no-engine = Ünvanı daxil et və ya axtar
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-input =
+    .title = { $engine } ilə axtarın və ya ünvanı daxil edin
+    .aria-label = { $engine } ilə axtarın və ya ünvanı daxil edin
+    .placeholder = { $engine } ilə axtarın və ya ünvanı daxil edin
 newtab-search-box-handoff-input-no-engine =
     .title = Axtar və ya ünvanı daxil et
     .aria-label = Axtar və ya ünvanı daxil et
@@ -231,6 +245,7 @@ newtab-section-menu-privacy-notice = Məxfilik Bildirişi
 ## Section Headers.
 
 newtab-section-header-topsites = Qabaqcıl Saytlar
+newtab-section-header-recent-activity = Son fəaliyyət
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } məsləhət görür
@@ -259,6 +274,7 @@ newtab-error-fallback-refresh-link = Təkrar yoxlamaq üçün səhifəni yenilə
 
 ## New Tab Appearance (browser theme picker)
 
+newtab-custom-recent-title = Son fəaliyyət
 newtab-custom-widget-picture-toggle =
     .label = Günün şəkli
 newtab-custom-widget-section-title = Vicetlər

@@ -427,6 +427,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Əlfəcinlər
+library-recent-activity-title =
+    .value = Son Fəaliyyət
 
 ## Pocket toolbar button
 
@@ -654,7 +656,9 @@ trustpanel-etp-toggle-on =
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
     .aria-label = Artırılmış İzlənmə Qoruması: { $host } üçün bağlı
+trustpanel-etp-description-enabled = Bu saytda nəsə düzgün işləmirsə, qorumanı söndürməyə cəhd edin.
 trustpanel-header-enabled = { -brand-product-name } keşikdədir
+trustpanel-description-enabled2 = Siz qorunursunuz. Nəsə aşkar etsək, sizə bildirəcəyik.
 trustpanel-clear-cookies-button = Çərəzlər və sayt məlumatlarını təmizlə
 trustpanel-privacy-link = Məxfilik Tənzimləmələri
 # Variables
