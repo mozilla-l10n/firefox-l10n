@@ -132,6 +132,7 @@ autofill-address-tel = 電話號碼
 autofill-address-email = 電子郵件
 autofill-cancel-button = 取消
 autofill-save-button = 儲存
+autofill-country-warning-message-2 = 表單自動填寫功能目前僅對部分國家推出
 autofill-country-warning-message = 目前僅能在表單中自動填寫部分國家的地址。
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = 新增信用卡
