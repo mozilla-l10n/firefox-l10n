@@ -39,6 +39,21 @@ neterror-disable-native-feedback-warning = Eku’éke tapiaite
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Ndereikekuaái ko tendápe
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Ndaikatúi eike mba’e’okápe { $domain } rupive.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Eiporu ko’ã jeku’e:
+neterror-search-cta-hint-check-address = Ehechajey ñanduti rogue kundaharape
+neterror-search-cta-reload-button =
+    .label = Myanyhẽjey
+    .accesskey = R
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Henyhẽhína
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Ayvu jejavy; { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Eikuaave
 
 ##
 
