@@ -79,6 +79,10 @@ ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn
 ipprotection-location-selection-callout-primary-button = Deneyin
 ipprotection-location-selection-callout-secondary-button = Kapat
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = Anladım
+
 ## Panel
 
 # Also used for the callout shown in private browsing
