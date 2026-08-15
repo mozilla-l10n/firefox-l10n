@@ -34,10 +34,55 @@ neterror-view-certificate-link = اعرض الشهادة
 neterror-trr-continue-this-time = واصِل هذه المرة
 neterror-disable-native-feedback-warning = واصِل دائمًا
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = تعذّر الوصول إلى هذا الموقع
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = تعذّر الاتصال بالخادم على { $domain }.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = جرب هذه الخطوات:
+neterror-search-cta-hint-check-address = تأكد من عنوان الموقع الإلكتروني
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = ابحث في الإنترنت للعثور على الموقع
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = ابحث في الوِب عن <strong>“{ $query }”</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = ابحث
+    .accesskey = ا
+    .tooltiptext = يفتح نتائج البحث في لسان جديد
+neterror-search-cta-reload-button =
+    .label = أعد التحميل
+    .accesskey = ع
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = يُحمّل
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = يبدو أنك غير متصل بالإنترنت. أعِد الاتصال وحاول مجددًا.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = رمز الخطأ: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = اطّلع على المزيد
+
 ##
 
 neterror-pref-reset = يبدو أن إعدادات أمان الشبكة قد تكون السبب وراء هذا. أتريد استعادة الإعدادات المبدئية؟
 neterror-error-reporting-automatic = أبلغ عن مثل هذه الأعطال لمساعدة { -vendor-short-name } في التعرف على المواقع الخبيثة و حجبها
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = قد لا يكون اتصالك خاصًا
+    .message = قد يتمكن تطبيق أو خدمة ما من رؤية حركة المرور المُعمّاة الخاصة بك من هذا الموقع.
 
 ## Specific error messages
 
@@ -135,7 +180,7 @@ certerror-expired-cert-intro = اكتشف { -brand-short-name } مشكلة ول�
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = أغلب الظن بأن <b>{ $hostname }</b> موقع آمن، إلّا أنه تعذر إجراء اتصال آمن معه. هذه المشكلة بسبب <b>{ $mitm }</b>، وهي إمّا برمجية في الحاسوب لديك أو في الشبكة.
-neterror-corrupted-content-intro = تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.
+neterror-corrupted-content-intro = تعذّر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.
 neterror-corrupted-content-contact-website = الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = معلومات متقدمة: SSL_ERROR_UNSUPPORTED_VERSION

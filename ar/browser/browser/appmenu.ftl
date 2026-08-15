@@ -371,6 +371,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title-signed-in = اعرض أقنعة البريد الإلكتروني
 appmenuitem-relay-description = أخفِ بريدك الإلكتروني ورقم هاتفك الحقيقي
 appmenuitem-services-relay-description = إطلاق لوحة معلومات أقنعة البريد الإلكتروني
+appmenuitem-vpn-description5 = احصل على حماية إضافية عبر جميع الأجهزة
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = احصل على حماية كاملة للجهاز
 appmenuitem-vpn-description = احمِ نشاطك على الإنترنت
