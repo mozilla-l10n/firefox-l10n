@@ -183,3 +183,16 @@ smart-window-opened-tabs-summary-group =
 smart-window-opened-tabs-row-label = ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = ᱵᱚᱫᱚᱞ ᱟᱠᱟᱱ ᱴᱮᱵᱽ
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = “{ $title }” ᱨᱮ ᱵᱚᱫᱚᱞ ᱟᱠᱟᱱᱟ ᱾
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = ᱴᱮᱵᱽ ᱠᱚ ᱫᱚᱞ ᱠᱷᱚᱱ ᱪᱷᱟᱰᱟᱣ ᱮᱱᱟ
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } ᱴᱮᱵᱽ ᱫᱳᱞ ᱟᱠᱟᱱᱟ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱜᱟᱫᱮᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜ ᱮᱱᱟ ᱾
+        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱫᱳᱞ ᱟᱠᱟᱱᱟ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱜᱟᱫᱮᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜ ᱮᱱᱟ ᱾
+       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱫᱳᱞ ᱟᱠᱟᱱᱟ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱜᱟᱫᱮᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜ ᱮᱱᱟ ᱾
+    }
