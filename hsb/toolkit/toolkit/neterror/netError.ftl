@@ -38,9 +38,12 @@ neterror-disable-native-feedback-warning = Přeco pokročować
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
+neterror-search-cta-title = Tute sydło docpějomny njeje
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Spytajće tute kroki:
 neterror-search-cta-hint-check-address = Přepruwujće adresu websydła dwójce
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Přepytajće web, zo byšće sydło namakał
 # Shown when the Search button is offered, naming the exact query it will run.
 # $query (String) - The search query derived from the address that failed to
 # load, for example "best hiking boots reviews". The query and the quotation
