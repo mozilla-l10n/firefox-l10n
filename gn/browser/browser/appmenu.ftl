@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Eike { -brand-product-name }
 appmenuitem-fxa-manage-account = Mba’ete Ñangarekoha
 fxa-menu-sync-status-on = Ñembojuehe hendýma
 fxa-menu-sync-status-off = Ñembojueheha ogue
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Embojuehe mba’ekuaarã
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Mba'ekuaarãita noñembojuehéi
@@ -393,6 +396,7 @@ appmenuitem-relay-title-signed-in = Ehecha ñanduti veve rovamo’ãha
 appmenuitem-relay-description = Ehovamo’ã ne ñanduti veve ha pumbyry
 appmenuitem-services-relay-description = Emoñepyrũ ñanduti veve rovara’ãnga rupa
 appmenuitem-vpn-title2 = Eñomi ne rendaite { -mozilla-vpn-brand-name } ndive
+appmenuitem-vpn-description5 = Ereko ñemo’ãve opaite ne mba’e’okápe
 appmenuitem-vpn-description3 = Embohasy ani ojehapykueho ne ñeikundaha
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Eheka ñemo’ã mba’e’okápe g̃uarã
