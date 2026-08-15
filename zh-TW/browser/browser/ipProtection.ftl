@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = 知道了！
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = 在 Android 把內建 VPN 功能隨身帶著走
+ipprotection-android-promo-callout-description = 掃描 QR Code 即可下載 { -brand-product-name } for Android，並開啟內建 VPN 功能，讓您隨時隨地都有更多隱私保護。iOS 版即將推出。
 ipprotection-android-promo-callout-primary-button = 知道了！
 
 ## Panel
