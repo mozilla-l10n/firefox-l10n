@@ -98,6 +98,10 @@ ipprotection-location-selection-callout-description-1 = Уграђени ВПН 
 ipprotection-location-selection-callout-primary-button = Испробајте
 ipprotection-location-selection-callout-secondary-button = Одбаци
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = Разумем
+
 ## Panel
 
 # Also used for the callout shown in private browsing
