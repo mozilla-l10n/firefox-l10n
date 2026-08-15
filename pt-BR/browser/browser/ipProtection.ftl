@@ -98,6 +98,10 @@ ipprotection-location-selection-callout-description-1 = A <a data-l10n-name="lea
 ipprotection-location-selection-callout-primary-button = Experimentar
 ipprotection-location-selection-callout-secondary-button = Descartar
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = Entendi
+
 ## Panel
 
 # Also used for the callout shown in private browsing

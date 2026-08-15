@@ -71,6 +71,10 @@ ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn
 ipprotection-location-selection-callout-primary-button = Փորձել
 ipprotection-location-selection-callout-secondary-button = Բաց թողնել
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = Հասկացա
+
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -158,6 +162,9 @@ ipprotection-connection-status-generic-error-title-1 = Չհաջողվեց միա
 
 ipprotection-bandwidth-upgrade-title = Հավանո՞ւմ եք ներկառուցված VPN-ը: Ստացեք ավելի շատ պաշտպանություն { -brand-product-name }-ից դուրս՝ { -mozilla-vpn-brand-name }-ի միջոցով:
 
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-description =
@@ -213,6 +220,9 @@ ip-protection-bandwidth-header-1 = Ամսական տվյալների սահմա�
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-bandwidth-reset-title = { $maxUsage } ԳԲ VPN, թարմացված և պատրաստ օգտագործման համար
 ipprotection-bandwidth-reset-button = Հասկացա
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

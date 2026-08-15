@@ -98,6 +98,10 @@ ipprotection-location-selection-callout-description-1 = Vstavaná sieť VPN od <
 ipprotection-location-selection-callout-primary-button = Vyskúšajte to
 ipprotection-location-selection-callout-secondary-button = Zavrieť
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = Rozumiem
+
 ## Panel
 
 # Also used for the callout shown in private browsing
