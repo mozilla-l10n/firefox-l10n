@@ -129,6 +129,7 @@ autofill-address-tel = الهاتف
 autofill-address-email = البريد الإلكتروني
 autofill-cancel-button = ألغِ
 autofill-save-button = احفظ
+autofill-country-warning-message-2 = الملء الآلي للاستمارات متاح حاليًا في بعض الدول فحسب.
 autofill-country-warning-message = الملء الآلي للاستمارات متاح حاليًا في بعض الدول فحسب.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = أضِف بطاقة ائتمان جديدة

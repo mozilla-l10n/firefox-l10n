@@ -11,8 +11,12 @@ firefox-relay-dismiss =
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = زفت وابیڌن نشۊوی ایمیل ایسا:
 firefox-relay-use-mask-title-1 = و کار گرؽڌن ماسک ایمیل
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = بؽڌار کردن نشۊوی ایمیل واقعی ایسا
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = ی ماسک ایمیل مۊفتی بگیرین
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = سندوق وۊرۊدی خوتووݩ ن جلاو هرزنومه زفت کۊنین
 firefox-relay-opt-in-confirmation-enable-button =
     .label = و کار گرؽڌن ماسک ایمیل
     .accesskey = U

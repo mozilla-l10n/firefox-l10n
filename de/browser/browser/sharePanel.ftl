@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Seite teilen
 share-panel-copy-link =
     .label = Link kopieren
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Link kopiert
 share-panel-os-share =
     .label = Teilen mit…
 share-panel-mail =
