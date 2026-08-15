@@ -62,6 +62,10 @@ ipprotection-location-selection-callout-title = جديد: غيّر موقعك
 ipprotection-location-selection-callout-primary-button = جرّبه
 ipprotection-location-selection-callout-secondary-button = رفض
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = فهمت
+
 ## Panel
 
 # Also used for the callout shown in private browsing
