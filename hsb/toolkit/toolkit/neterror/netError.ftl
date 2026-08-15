@@ -40,6 +40,27 @@ neterror-disable-native-feedback-warning = Přeco pokročować
 
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Spytajće tute kroki:
+neterror-search-cta-hint-check-address = Přepruwujće adresu websydła dwójce
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Web za <strong>“{ $query }”</strong> přepytać
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Pytać
+    .accesskey = P
+    .tooltiptext = Wočinja pytanske wuslědki w nowym rajtarku
+neterror-search-cta-reload-button =
+    .label = Znowa začitać
+    .accesskey = Z
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Začituje so
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Zmylkowy kod: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Dalše informacije
 
 ##
 
