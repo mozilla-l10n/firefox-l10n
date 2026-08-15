@@ -182,6 +182,16 @@ ip-protection-exceptions-dialog-window =
     .title = Nastavitve spletnih mest
 ip-protection-exclusions-desc = VPN naj se uporablja na vseh spletnih mestih, razen na navedenih. Spletno mesto dodate na seznam tukaj ali prek VPN.
 
+## IP Protection Bandwidth
+
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Porabili ste vseh { $maxUsage } GB podatkov VPN. Dostop bo ponovno omogočen prihodnji mesec.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Vsak prvi dan v mesecu se ponastavi na { $maxUsage } GB.
+ip-protection-bandwidth-header-1 = Mesečna omejitev prenosa podatkov
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Razumem
@@ -189,6 +199,12 @@ ipprotection-bandwidth-reset-button = Razumem
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN ustavljen
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Porabili ste vseh { $maxUsage } GB podatkov VPN. Dostop bo ponovno omogočen prihodnji mesec.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Porabili ste vseh { $maxUsage } GB podatkov VPN. Dostop bo ponovno omogočen prihodnji mesec.
 vpn-error-page-continue-description = Izberite, kako nadaljevati brez VPN
 vpn-error-page-keep-browsing = Nadaljuj z brskanjem v tej seji
 vpn-error-page-new-session = Začni novo sejo
