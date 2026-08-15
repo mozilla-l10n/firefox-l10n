@@ -51,6 +51,20 @@ neterror-search-cta-hint-search = Buscar en la web para encontrar el sitio
 # load, for example "best hiking boots reviews". The query and the quotation
 # marks around it are emphasized.
 neterror-search-cta-hint-search-query = Buscar en la web <strong>“{ $query }”</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Buscar
+    .accesskey = s
+    .tooltiptext = Abre los resultados de búsqueda en una nueva pestaña
+neterror-search-cta-reload-button =
+    .label = Recargar
+    .accesskey = R
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Cargando
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Parece estar desconectado. Vuelva a conectar e intente nuevamente.
 
 ##
 
