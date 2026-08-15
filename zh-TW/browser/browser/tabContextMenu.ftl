@@ -166,8 +166,8 @@ tab-context-move-tabs =
 tab-context-move-tabs2 =
     .label =
         { $tabCount ->
-            [1] 移動分頁到
-           *[other] 移動 { $tabCount } 個分頁到
+            [1] 移動分頁到…
+           *[other] 移動 { $tabCount } 個分頁到…
         }
     .accesskey = v
 # Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
