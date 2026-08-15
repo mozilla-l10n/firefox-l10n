@@ -130,6 +130,15 @@ taskbar-tabs-media-callout-subtitle = Сомонаҳои пахши онлайн
 taskbar-tabs-value-prop-callout-title = Илова кардани ин сомона ба навори вазифаи худ
 taskbar-tabs-value-prop-callout-subtitle = Онро дар равзанаи хусусии алоҳида ва интерфейси содакардашуда бо як пахш оғоз намоед.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Васл кардан ба навори вазифа
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ҳангоми гузариши ҳамвор ба низоми амалкунандаи «Windows 11» ҳамаи чизҳои нигоҳдошташудаи худро аз даст надиҳед.

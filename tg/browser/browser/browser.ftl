@@ -1047,6 +1047,8 @@ urlbar-searchmode-popup-one-off-header = Ин дафъа бо зерин ҷус�
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Ҷустуҷӯ тавассути:
+urlbar-searchmode-popup-search-settings = Танзимоти ҷустуҷӯ
+    .accesskey = Т
 urlbar-searchmode-popup-settings = Танзимот
     .accesskey = Т
 urlbar-searchmode-popup-search-settings-panelitem = Танзимоти ҷустуҷӯ

@@ -109,6 +109,12 @@ ipprotection-locations-subview =
     .title = Интихоби ҷойгиршавӣ
 ipprotection-locations-subview-description = Барои идомаи тамошобинӣ, ҷойгиршавии дигареро интихоб намоед.
 ipprotecion-locations-subview-recommended-label = Тавсияшуда
+ipprotection-locations-subview-recommended-description = Ҷойгиршавии зудтаринро пайдо мекунад
+# Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Дастнорас
+    .aria-label = Дастнорас, ғайрифаъол
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Дастнорас
 ipprotection-locations-subview-promo-button = Ба даст овардани «{ -mozilla-vpn-brand-name }»

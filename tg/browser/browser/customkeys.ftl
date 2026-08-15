@@ -58,6 +58,11 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Ин хусусият озмоишӣ аст ва метавонад ба таври лозимӣ кор накунад.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Беэътибор
+customkeys-shortcut-unassigned =
+    .placeholder = Илова кардани миёнбур
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Миёнбур барои: { $keyLabel }
 customkeys-key-edit =
     .aria-label = Таҳрир кардан
     .tooltiptext = Таҳрир кардан
@@ -72,6 +77,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Тугмаи навро пахш кунед:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (тағйир дода намешавад)
 
 ## Confirmation dialogs
 

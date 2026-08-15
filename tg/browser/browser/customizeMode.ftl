@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Ҷафс (дастгирӣ намешавад)
 customize-mode-undo-cmd =
     .label = Бекор кардан
+customize-mode-lwthemes-link-2 = Идоракунии мавзуъҳо
 customize-mode-lwthemes-link = Идоракунии мавзуъҳо
 customize-mode-touchbar-cmd =
     .label = Танзим кардани навори ламсӣ…

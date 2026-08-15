@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Ворид шудан ба { -brand-product-name }
 appmenuitem-fxa-manage-account = Идоракунии ҳисоб
 fxa-menu-sync-status-on = Ҳамоҳангсозӣ фаъол аст
 fxa-menu-sync-status-off = Ҳамоҳангсозӣ ғайрифаъол аст
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Маълумоти худро ҳамоҳанг созед
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Маълумоти шумо ҳамоҳангсозӣ намешавад
@@ -299,6 +302,7 @@ appmenu-search-history =
 
 appmenu-sync-promo-signin-cta = Ворид шудан
 appmenu-sync-promo-turnonsync-cta = Фаъол кардани ҳамоҳангсозӣ
+appmenu-sync-promo-connectdevice-cta = Дастгоҳеро пайваст намоед
 
 ## Help panel
 
@@ -307,6 +311,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Дар бораи { -brand-shorter-name }
     .accesskey = Д
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Мубодила кардани «{ -brand-shorter-name }»
+    .accesskey = М
 appmenu-get-help =
     .label = Гирифтани кумак
     .accesskey = Г
