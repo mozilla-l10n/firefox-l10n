@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Condivider pagina
 share-panel-copy-link =
     .label = Copiar ligamine
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Ligamine copiate
 share-panel-os-share =
     .label = Conivider con…
 share-panel-mail =

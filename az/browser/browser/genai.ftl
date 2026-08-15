@@ -17,6 +17,10 @@ genai-prompts-summarize =
 ## Chatbot menu shortcuts
 
 genai-menu-summarize-page = Səhifənin xülasəsini hazırla
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = { $provider } Botundan Soruş
+    .accesskey = z
 
 ## Chatbot header
 

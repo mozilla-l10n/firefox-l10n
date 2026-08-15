@@ -135,3 +135,16 @@ tab-context-move-tab-to-group =
            *[other] Vərəqləri Qrupa Daxil Et
         }
     .accesskey = G
+
+## Split View
+
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Vərəqləri Tərsinə Çevir
+    .accesskey = ç
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Vərəqləri Tərsinə Çevir

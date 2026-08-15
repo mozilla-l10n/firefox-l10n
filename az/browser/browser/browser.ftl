@@ -177,10 +177,13 @@ search-one-offs-bookmarks =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action. English commas should be used, i.e. ,
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Əlavələri gör
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = uzantılar, mövzular, əlavələr
+quickactions-cmd-addons2 = əlavələr
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Əlfəcinləri idarə et
 quickactions-cmd-bookmarks = əlfəcinlər
@@ -330,6 +333,8 @@ urlbar-result-action-search-w-engine = { $engine } ilə axtar
 urlbar-result-action-switch-tab = Vərəqə keç
 urlbar-result-action-move-tab-to-split-view = Vərəqi Bölünmüş Görünüşə Daşı
 urlbar-result-action-visit = Ziyarət et
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Soruş
 
 ## Strings used for buttons in the urlbar
 

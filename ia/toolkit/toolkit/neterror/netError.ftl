@@ -34,6 +34,20 @@ neterror-view-certificate-link = Vider le certificato
 neterror-trr-continue-this-time = Continuar iste vice
 neterror-disable-native-feedback-warning = Sempre continuar
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-reload-button =
+    .label = Recargar
+    .accesskey = R
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Cargamento
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Codice de error: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Pro saper plus
+
 ##
 
 neterror-pref-reset = Pare que le configuration de securitate del rete pote esser le causa de isto. Vole tu restaurar le configuration predefinite?

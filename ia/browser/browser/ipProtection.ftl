@@ -100,6 +100,7 @@ ipprotection-location-selection-callout-secondary-button = Ignorar
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Porta le VPN integrate con te sur Android
 ipprotection-android-promo-callout-primary-button = OK
 
 ## Panel
