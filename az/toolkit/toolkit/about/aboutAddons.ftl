@@ -22,6 +22,9 @@ list-empty-button =
 help-button = Əlavə Dəstəyi
 sidebar-help-button-title =
     .title = Əlavə Dəstəyi
+addons-settings-button = { -brand-short-name } Tənzimləmələri
+sidebar-settings-button-title =
+    .title = { -brand-short-name } Tənzimləmələri
 show-unsigned-extensions-button =
     .label = Bəzi uzantılar təsdiqlənə bilmirlər
 show-all-extensions-button =
@@ -30,6 +33,8 @@ detail-version =
     .label = Buraxılış
 detail-last-updated =
     .label = Son yenilənmə
+addon-detail-description-expand = Daha çox göstər
+addon-detail-description-collapse = Daha az göstər
 detail-contributions-description = Bu əlavəninin inkişaf etdiricisi, sizdən kiçik bir maddi kömək edərək əlavəni inkişaf etdirmə işini dəstəkləməyinizi istəyir.
 detail-update-type =
     .value = Avtomatik yeniləmə
@@ -92,6 +97,11 @@ legacy-warning-show-legacy = Köhnəlmiş qoşmaları göstər
 legacy-extensions =
     .value = Köhnəlmiş Qoşmalar
 legacy-extensions-description = Bu qoşmalar hazırkı { -brand-short-name } standartlarına cavab vermirlər və bu səbəbdən söndürüldülər. <label data-l10n-name="legacy-learn-more">Əlavələrə olan dəyişikliklər haqqında öyrən</label>
+aboutaddons-sidebar =
+    .heading = Əlavələr
+addon-category-discover = Tövsiyələr
+addon-category-discover-title =
+    .title = Tövsiyələr
 addon-category-extension = Uzantılar
 addon-category-extension-title =
     .title = Uzantılar
@@ -201,12 +211,22 @@ header-back-button =
 
 find-more-addons = Daha çox əlavə tap
 find-more-themes = Daha çox mövzu tap
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = Uzantılar və mövzular { -brand-product-name }-u özəlləşdirməyə imkan verir. Onlar məxfiliyi artıra, məhsuldarlığı yüksəldə, media imkanlarını yaxşılaşdıra, { -brand-product-name }-un görünüşünü dəyişə və daha çox şey edə bilər. Bu kiçik proqramlar çox vaxt üçüncü şəxslər tərəfindən hazırlanır. Burada Firefox-un müstəsna təhlükəsizlik, səmərəlilik və funksionallıq üçün <a data-l10n-name="learn-more-trigger">tövsiyə etdiyi</a> məhsullardan bir seçim təqdim olunur.
 
 ## Add-on actions
 
 remove-addon-button = Sil
 disable-addon-button = Söndür
 enable-addon-button = Aktiv et
+permissions-addon-button = İcazələr
+
+##
+
+addon-permissions-heading = İcazələr
 
 ## Page headings
 
