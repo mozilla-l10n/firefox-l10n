@@ -34,6 +34,18 @@ neterror-view-certificate-link = Ver certificado
 neterror-trr-continue-this-time = Continuar desta vez
 neterror-disable-native-feedback-warning = Sempre continuar
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = Este site não pode ser acessado
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Não foi possível conectar ao servidor em { $domain }.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Experimente fazer o seguinte:
+neterror-search-cta-hint-check-address = Verifique novamente o endereço do site
+
 ##
 
 neterror-pref-reset = Parece que as configurações de segurança de rede podem estar causando isso. Quer restaurar as configurações padrão?

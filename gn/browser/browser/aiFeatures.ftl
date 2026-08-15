@@ -85,6 +85,9 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Emboguepaite
 ai-window-delete-all-memories-title = ¿Emboguepaite opaite mandu’arã?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Ojepe’áta umi mandu’a oĩmavavaíkuri. Ndereipotáiramo ojejapo mandu’a ipyahúva, embogue “Eikuaave...…” { -smart-window-brand-name } moĩporãhágui.
 ai-window-delete-all-memories-confirm = Mboguete
 ai-window-delete-all-memories-cancel = Eheja
 # Variables:
