@@ -92,8 +92,8 @@ about-logins-list-section-week = 最近 7 天
 
 about-logins-login-intro-heading-logged-out2 = 在找先前儲存過的登入資訊嗎？可開啟同步功能或直接匯入。
 about-logins-login-intro-heading-logged-in = 找不到同步的登入資訊。
-login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand-product-name } 過，請參考下列步驟，即可在此裝置使用:
-login-intro-instructions-fxa = 在您儲存登入資訊的裝置註冊或登入 { -fxaccount-brand-name }。
+login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand-product-name } 過，請參考下列步驟，即可在此裝置使用：
+login-intro-instructions-fxa = 在您儲存登入資訊的裝置註冊或登入 { -fxaccount-brand-name(capitalization: "sentence") }。
 about-logins-login-intro-heading-message = 將您的密碼儲存於安全的地方
 login-intro-description2 = 您儲存到 { -brand-product-name } 的所有密碼都會加密，另外我們也會注意網路上發生的資料外洩事件，並在您受影響時通知。<a data-l10n-name="breach-alert-link">了解更多資訊</a>
 login-intro-instructions-fxa2 = 在您儲存登入資訊的裝置，註冊或登入帳號。
@@ -284,7 +284,7 @@ confirm-discard-changes-dialog-confirm-button = 捨棄
 
 about-logins-breach-alert-title = 網站資訊外洩
 breach-alert-text = 自您上次更新登入資訊以來，此網站發生了密碼外洩或失竊事件。請務必更改密碼，確保帳戶安全。
-about-logins-breach-alert-date = 此事件發生於: { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = 此事件發生於：{ DATETIME($date, day: "numeric", year: "numeric", month: "long") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = 前往 { $hostname }
@@ -358,27 +358,27 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = 匯入完成
 about-logins-import-dialog-items-added =
     { $count ->
-       *[other] <span>新增的登入資訊:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>新增的登入資訊：</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-       *[other] <span>更新的現有登入資訊:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>更新了現有登入資訊：</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-       *[other] <span>重複的登入資訊:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">（未匯入）</span>
+       *[other] <span>重複的登入資訊：</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">（未匯入）</span>
     }
 about-logins-import-dialog-items-added2 = <span>新增的密碼：</span><span data-l10n-name="count">{ $count }</span> 筆
 about-logins-import-dialog-items-modified2 = <span>更新的現有項目：</span> <span data-l10n-name="count">{ $count }</span> 筆
 about-logins-import-dialog-items-no-change2 = <span>重複的項目：</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">（未匯入）</span>
 about-logins-import-dialog-items-error =
     { $count ->
-       *[other] <span>錯誤:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">（未匯入）</span>
+       *[other] <span>錯誤：</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">（未匯入）</span>
     }
 about-logins-import-dialog-done = 完成
 about-logins-import-dialog-error-title = 匯入錯誤
 about-logins-import-dialog-error-conflicting-values-title = 單筆登入資訊當中有多筆衝突的值
-about-logins-import-dialog-error-conflicting-values-description = 例如: 單一筆登入資訊中出現了多組使用者名稱、密碼、網址等等。
+about-logins-import-dialog-error-conflicting-values-description = 例如：單一筆登入資訊中出現了多組使用者名稱、密碼、網址等等。
 about-logins-import-dialog-error-file-format-title = 檔案格式問題
 about-logins-import-dialog-error-file-format-description = 欄位標題不正確或有缺。請確定檔案中包含正確的使用者名稱、密碼、網址欄位。
 about-logins-import-dialog-error-file-permission-title = 無法讀取檔案
@@ -396,20 +396,20 @@ about-logins-import-report-description2 = 已將密碼匯入到 { -brand-short-n
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = { $number } 行
-about-logins-import-report-row-description-no-change = 重複項目: 與現有的登入資訊完全相符
+about-logins-import-report-row-description-no-change = 重複項目：與現有的登入資訊完全相符
 about-logins-import-report-row-description-modified = 已更新現有的登入資訊
 about-logins-import-report-row-description-added = 已新增登入資訊
 about-logins-import-report-row-description-no-change2 = 重複項目：與現有的資料完全相符
 about-logins-import-report-row-description-modified2 = 已更新現有的項目
 about-logins-import-report-row-description-added2 = 已新增密碼
-about-logins-import-report-row-description-error = 錯誤: 缺少欄位
+about-logins-import-report-row-description-error = 錯誤：缺少欄位
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
-about-logins-import-report-row-description-error-multiple-values = 錯誤: { $field } 欄位有多個值
-about-logins-import-report-row-description-error-missing-field = 錯誤: 缺少 { $field } 欄位
+about-logins-import-report-row-description-error-multiple-values = 錯誤：{ $field } 欄位有多個值
+about-logins-import-report-row-description-error-missing-field = 錯誤：缺少 { $field } 欄位
 
 ##
 ## Variables:

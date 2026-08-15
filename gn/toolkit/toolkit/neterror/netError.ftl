@@ -34,6 +34,12 @@ neterror-view-certificate-link = Mboajapyre jehecha
 neterror-trr-continue-this-time = Eku’ejey ko’ãg̃aite
 neterror-disable-native-feedback-warning = Eku’éke tapiaite
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = Ndereikekuaái ko tendápe
+
 ##
 
 neterror-pref-reset = Ne ñemboheko ñanduti rekorosãrã rehegua ikatu hína ojapo kóva. Emoĩporãsépa ñemboheko ijypyguáva rupi?

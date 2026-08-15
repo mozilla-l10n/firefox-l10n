@@ -1600,7 +1600,7 @@ forms-primary-pw-turn-off =
 forms-os-reauth =
     .label = 填寫與管理密碼時需進行裝置登入驗證
 forms-os-reauth-2 =
-    .label = 需要裝置登入才能管理密碼
+    .label = 需要驗證登入資訊才能管理密碼
 forms-primary-pw-learn-more-link = 了解更多
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -2511,7 +2511,7 @@ preferences-doh-status-item-not-active-bad-url =
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
-    .message = 正在使用 { $name } 提供者的 DNS over HTTPS 服務
+    .message = 正在使用 { $name } 提供的 DNS over HTTPS 服務
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
