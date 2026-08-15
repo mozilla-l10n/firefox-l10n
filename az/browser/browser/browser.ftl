@@ -586,6 +586,15 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Artırılmış İzlənmə Qoruması açıqdır
 trustpanel-etp-label-disabled = Artırılmış İzlənmə Qoruması bağlıdır
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Artırılmış İzlənmə Qoruması: { $host } üçün açıq
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Artırılmış İzlənmə Qoruması: { $host } üçün bağlı
+trustpanel-header-enabled = { -brand-product-name } keşikdədir
 trustpanel-privacy-link = Məxfilik Tənzimləmələri
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")

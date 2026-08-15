@@ -874,6 +874,7 @@ addressbar-suggestions-settings = Axtarış mühərriyi təklifləri üçün niz
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Artırılmış İzlənmə Qoruması
 content-blocking-learn-more = Ətraflı Öyrən
 
 ## These strings are used to define the different levels of
@@ -1047,3 +1048,19 @@ preferences-ai-controls-sidebar-chatbot-control =
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Yan paneldə söhbət botu təminatçıları
 preferences-ai-controls-header3 =
     .heading = Süni intellekt idarəetmələri
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } keşikdədir
+security-privacy-status-ok-label = Artırılmış İzlənmə Qoruması açıqdır
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Artırılmış İzlənmə Qoruması
+    .description = Saytlar sizi onlayn izləmək və narahatedici reklamlar göstərmək üçün izləyicilərdən istifadə edir. { -brand-short-name } internetdə gəzərkən sizi qoruyur, izləyiciləri avtomatik əngəlləyir və rəqəmsal izlərinizə nəzarəti sizə verir.
+preferences-etp-header =
+    .heading = Artırılmış İzlənmə Qoruması
+preferences-etp-manage-exceptions-button =
+    .label = İstisnaları idarə et
+    .description = Artırılmış İzlənmə Qorumasının söndürüldüyü vebsaytları idarə edin.
