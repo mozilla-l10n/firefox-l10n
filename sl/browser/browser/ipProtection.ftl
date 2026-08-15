@@ -44,6 +44,10 @@ ipprotection-feature-introduction-button-get-started = Začni
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = Vaš vgrajeni VPN je zdaj še boljši
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Odpri VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Prenesi { -mozilla-vpn-brand-name }

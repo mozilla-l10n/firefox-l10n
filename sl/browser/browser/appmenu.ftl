@@ -397,6 +397,9 @@ appmenuitem-relay-title-signed-in = Prikaži maske e-pošte
 appmenuitem-relay-description = Zakrijte svoj pravi e-poštni naslov in telefonsko številko
 appmenuitem-services-relay-description = Odpri pregledno ploščo e-poštnih mask
 appmenuitem-vpn-title2 = Skrij svojo lokacijo z { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Dodatno zaščitite svoje naprave
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Prenesite { -mozilla-vpn-brand-name(sklon: "tozilnik") }
 appmenuitem-vpn-description3 = Poskrbite, da bo vaše brskanje težje sledljivo
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Zagotovite si zaščito za celotno napravo

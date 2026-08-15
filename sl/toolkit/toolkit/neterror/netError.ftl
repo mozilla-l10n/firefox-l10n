@@ -38,11 +38,34 @@ neterror-disable-native-feedback-warning = Vedno nadaljuj
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
+neterror-search-cta-title = Spletno mesto ni dosegljivo
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = S strežnikom na naslovu { $domain } se ni bilo mogoče povezati.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Poskusite naslednje:
+neterror-search-cta-hint-check-address = Preverite, ali je naslov spletnega mesta pravilen
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Poiščite spletno mesto z iskanjem po spletu
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Išči <strong>"{ $query }"</strong> na spletu
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Išči
+    .accesskey = I
+    .tooltiptext = Odpre rezultate iskanja v novem zavihku
 neterror-search-cta-reload-button =
     .label = Ponovno naloži
     .accesskey = P
 # Shown in place of the Search button while the search option is being prepared.
 neterror-search-cta-loading = Nalaganje
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Kaže, da niste povezani z internetom. Znova vzpostavite povezavo in poskusite znova.
 # $error (String) - The error code, for example "dnsNotFound".
 neterror-search-cta-error-code = Koda napake: { $error }
 # The search CTA's own "Learn more" link text (no trailing ellipsis).

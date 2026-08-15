@@ -47,6 +47,29 @@ neterror-search-cta-things-to-try = Мына қадамдарды орындап
 neterror-search-cta-hint-check-address = Веб-сайт адресін қайта тексеріңіз
 # Shown when no Search button is offered, so no specific query can be named.
 neterror-search-cta-hint-search = Сайтты табу үшін оны интернеттен іздеңіз
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Интенеттен <strong>«{ $query }»</strong> іздеу
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Іздеу
+    .accesskey = І
+    .tooltiptext = Іздеу нәтижелерін жаңа бетте ашады
+neterror-search-cta-reload-button =
+    .label = Қайта жүктеу
+    .accesskey = й
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Жүктелу
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Сіз желіден тыс сияқтысыз. Қайта қосылып, қайталап көріңіз.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Қате коды: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Көбірек білу
 
 ##
 
