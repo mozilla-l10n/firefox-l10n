@@ -141,3 +141,7 @@ tab-context-send-tabs-to-device =
            *[other] { $tabCount } Vərəqi Cihaza Göndər
         }
     .accesskey = n
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Boşalt
+    .accesskey = U
