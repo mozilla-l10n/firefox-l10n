@@ -99,6 +99,7 @@ ipprotection-location-selection-callout-secondary-button = סגירה
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = לקחת איתך VPN מובנה ב־Android
 ipprotection-android-promo-callout-primary-button = הבנתי
 
 ## Panel
