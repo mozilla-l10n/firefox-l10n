@@ -132,6 +132,7 @@ autofill-address-tel = Teléfono
 autofill-address-email = Correo electrónico
 autofill-cancel-button = Cancelar
 autofill-save-button = Guardar
+autofill-country-warning-message-2 = El autocompletado de formularios por ahora está disponible solo para algunos países.
 autofill-country-warning-message = El formulario de autocompletado por ahora está disponible solo para algunos países.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Agregar nueva tarjeta de crédito

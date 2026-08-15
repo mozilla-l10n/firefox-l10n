@@ -69,6 +69,8 @@ more-from-moz-new-products-button = Ver nuevos productos
 ## These strings are for the config-based (SRD) moreFromMozilla page using
 ## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
 
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Escaneá con la cámara de tu celular o tablet para descargar la app. Tocá el enlace cuando aparezca.
 more-from-moz-firefox-mobile-email-link = Enviar por correo electrónico un enlace de descarga a su teléfono.
 
 ## Product card strings for the config-based path. Each entry provides both

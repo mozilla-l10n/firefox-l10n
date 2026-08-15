@@ -397,6 +397,8 @@ appmenuitem-relay-title-signed-in = 檢視轉寄信箱
 appmenuitem-relay-description = 隱藏您的實際信箱與電話號碼
 appmenuitem-services-relay-description = 啟動轉寄信箱儀錶板
 appmenuitem-vpn-title2 = 使用 { -mozilla-vpn-brand-name } 隱藏您的實際位置
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = 下載 { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = 讓您上網更不容易被追蹤
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 獲得完整裝置保護
