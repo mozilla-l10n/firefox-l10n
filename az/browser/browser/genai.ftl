@@ -27,6 +27,8 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = { $provider } botunu yenilə
+genai-options-about-chatbot =
+    .label = { -brand-short-name } Sİ söhbət botları haqqında
 
 ## Chatbot footer
 
@@ -35,6 +37,8 @@ genai-page-button-summarize = Səhifənin icmalını çıxart
 ## Chatbot onboarding
 
 genai-onboarding-choose-header = { -brand-short-name } yan panelində istifadə edəcəyiniz Sİ söhbət botunu seçin
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = İstənilən vaxt dəyişin. Seçim etməkdə kömək üçün <a data-l10n-name="learn-more">hər bir söhbət botu haqqında ətraflı öyrənin</a>.
 genai-onboarding-primary = Davam et
 genai-onboarding-secondary = Bağla
 genai-onboarding-claude-learn = Claude haqqında daha çox öyrənin

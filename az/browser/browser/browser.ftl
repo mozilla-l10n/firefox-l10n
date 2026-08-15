@@ -179,6 +179,8 @@ quickactions-bookmarks2 = Əlfəcinləri idarə et
 quickactions-cmd-bookmarks = əlfəcinlər
 quickactions-cmd-clearhistory = tarixçəni təmizlə
 quickactions-cmd-private = məxfi səyahət
+# Opens the screenshot tool
+quickactions-screenshot3 = Ekran görüntüsü al
 # Opens about:preferences
 quickactions-settings2 = Tənzimləmələri idarə et
 
@@ -545,6 +547,7 @@ reset-pbm-panel-description2 = Bu prosedur Məxfi Pəncərənizi bağlamadan tar
 reset-pbm-panel-always-ask-checkbox =
     .label = Həmişə soruş
     .accesskey = A
+reset-pbm-panel-complete = Məxfi seans məlumatları silindi
 reset-pbm-toolbar-button2 =
     .label = Məxfi Seansı Təmizlə
     .tooltiptext = Məxfi Seansı Təmizlə
@@ -610,6 +613,7 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Artırılmış İzlənmə Qoruması: { $host } üçün bağlı
 trustpanel-header-enabled = { -brand-product-name } keşikdədir
+trustpanel-clear-cookies-button = Çərəzlər və sayt məlumatlarını təmizlə
 trustpanel-privacy-link = Məxfilik Tənzimləmələri
 # Variables
 #  $host (String): the hostname of the site that is being displayed.

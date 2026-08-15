@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+screenshot-toolbarbutton =
+    .label = Ekran görüntüsü
+    .tooltiptext = Ekran görüntüsü çək
 screenshots-instructions = Səhifədə hər hansı bir yerdə sürüşdürərək və ya basaraq ərazini seçin. Ləğv etmək üçün ESC basın.
 screenshots-cancel-button = Ləğv et
 screenshots-save-visible-button = Görünən ərazini saxla
