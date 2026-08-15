@@ -132,6 +132,7 @@ autofill-address-tel = Телефон
 autofill-address-email = Эл. пошта
 autofill-cancel-button = Бас тарту
 autofill-save-button = Сақтау
+autofill-country-warning-message-2 = Формаларды автотолтыру ағымдағы уақытта тек кейбір елдер үшін қолжетімді
 autofill-country-warning-message = Формаларды автотолтыру ағымдағы уақытта тек кейбір елдер үшін қолжетімді.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Жаңа несиелік картаны қосу

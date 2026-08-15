@@ -397,6 +397,9 @@ appmenuitem-relay-title-signed-in = Эл. пошта маскаларын қар
 appmenuitem-relay-description = Шын эл. пошта және телефоныңызды жасырыңыз
 appmenuitem-services-relay-description = Эл. пошта маскаларын бақылау тақтасын іске қосу
 appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } арқылы орналасуыңызды жасырыңыз
+appmenuitem-vpn-description5 = Құрылғыларда қосымша қорғаныс алыңыз
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } жүктеп алу
 appmenuitem-vpn-description3 = Интернетті шолуыңызды бақылауды қиындатыңыз
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Құрылғыны толығымен қорғауды алыңыз

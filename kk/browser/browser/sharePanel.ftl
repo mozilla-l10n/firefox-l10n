@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Бетті бөлісу
 share-panel-copy-link =
     .label = Сілтемені көшіріп алу
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Сілтеме көшірілді
 share-panel-os-share =
     .label = Көмегімен бөлісу…
 share-panel-mail =

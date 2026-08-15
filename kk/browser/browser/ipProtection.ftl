@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Елемеу
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Android-та кіріктірілген VPN қызметін өзіңізбен бірге алыңыз
+ipprotection-android-promo-callout-description = Android-ке арналған { -brand-product-name } алу үшін QR кодын сканерлеңіз және жолда көбірек жекелік үшін кіріктірілген VPN іске қосыңыз. Жақында iOS жүйесінде қолжетімді болады.
 ipprotection-android-promo-callout-primary-button = Түсіндім
 
 ## Panel
