@@ -397,6 +397,9 @@ appmenuitem-relay-title-signed-in = 이메일 가리기 보기
 appmenuitem-relay-description = 실제 이메일과 전화를 가리세요
 appmenuitem-services-relay-description = 이메일 가리기 대시보드 실행
 appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name }으로 내 위치 숨기기
+appmenuitem-vpn-description5 = 여러 기기에서 추가적인 보호 받기
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } 다운로드
 appmenuitem-vpn-description3 = 탐색 활동 추적 방지
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 전체 기기 보호 받기
