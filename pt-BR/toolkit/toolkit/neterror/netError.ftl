@@ -52,6 +52,24 @@ neterror-search-cta-hint-search = Pesquisar na web para encontrar o site
 # load, for example "best hiking boots reviews". The query and the quotation
 # marks around it are emphasized.
 neterror-search-cta-hint-search-query = Pesquisar <strong>“{ $query }”</strong> na web
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Pesquisar
+    .accesskey = P
+    .tooltiptext = Abre resultados de pesquisa em uma nova aba
+neterror-search-cta-reload-button =
+    .label = Recarregar
+    .accesskey = R
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Carregando
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Parece que você está sem conexão. Reconecte e tente novamente.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Código de erro: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Saiba mais
 
 ##
 
