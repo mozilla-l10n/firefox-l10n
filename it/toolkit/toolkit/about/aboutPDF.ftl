@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Questo file non è supportato. Scegli un PDF p
 about-pdf-dropzone-error-generic = Il caricamento non è stato completato. Riprova più tardi.
 about-pdf-browse-files =
     .label = Esplora file
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Apri PDF
 about-pdf-promo =
     .heading = Rendi { -brand-short-name } il tuo editor PDF preferito
     .message = Apri i PDF in { -brand-short-name } e gestisci le funzioni essenziali in un unico posto, dalle evidenziazioni alle firme, dall’unione dei file ai commenti.
