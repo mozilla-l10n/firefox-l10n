@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = 닫기
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Android에서도 내장 VPN을 함께 이용하세요
+ipprotection-android-promo-callout-description = QR 코드를 스캔하여 Android용 { -brand-product-name }를 다운로드하고, 이동 중에도 더 안전한 개인정보 보호를 위해 내장 VPN을 켜보세요. iOS용도 곧 출시됩니다.
 ipprotection-android-promo-callout-primary-button = 확인
 
 ## Panel

@@ -34,6 +34,26 @@ neterror-view-certificate-link = 인증서 보기
 neterror-trr-continue-this-time = 이번만 계속
 neterror-disable-native-feedback-warning = 항상 계속
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = 검색
+    .accesskey = S
+    .tooltiptext = 새 탭에서 검색 결과를 엽니다
+neterror-search-cta-reload-button =
+    .label = 새로 고침
+    .accesskey = R
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = 로드 중
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = 오류 코드: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = 더 알아보기
+
 ##
 
 neterror-pref-reset = 네트워크 보안 설정이 원인일 수 있습니다. 기본 설정으로 복원하시겠습니까?

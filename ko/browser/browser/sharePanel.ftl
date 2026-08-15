@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = 페이지 공유
 share-panel-copy-link =
     .label = 링크 복사
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = 링크 복사됨
 share-panel-os-share =
     .label = 공유…
 share-panel-mail =
