@@ -596,6 +596,10 @@ trustpanel-etp-toggle-off =
     .aria-label = Artırılmış İzlənmə Qoruması: { $host } üçün bağlı
 trustpanel-header-enabled = { -brand-product-name } keşikdədir
 trustpanel-privacy-link = Məxfilik Tənzimləmələri
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = { $host } üçün çərəzləri və sayt məlumatlarını təmizlə
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

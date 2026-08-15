@@ -29,6 +29,7 @@ ipprotection-feature-introduction-title-1 = Preizkusite { -brand-product-name }o
 ipprotection-feature-introduction-title-privacy = Dodajte še eno raven zasebnosti
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Povezani na javni Wi-Fi? Preizkusite { -brand-product-name }ov vgrajeni VPN.
+ipprotection-feature-introduction-description-captive-portal = Brskajte z dodatno zaščito s skrivanjem vaše lokacije, tudi na javnem omrežju Wi-Fi.
 ipprotection-feature-introduction-button-primary = Naprej
 ipprotection-feature-introduction-button-secondary-not-now = Ne zdaj
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =

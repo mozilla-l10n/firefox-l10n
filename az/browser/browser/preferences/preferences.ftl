@@ -832,6 +832,10 @@ sitedata-total-size-calculating = Sayt məlumatları və keş ölçüsü hesabla
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Saytlar hazırda <strong>{ $value } { $unit }</strong> disk sahəsi istifadə edir.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saxlanılan çərəz, sayt məlumatları və keşləriniz hazırda { $value } { $unit } disk işlədirlər.
 sitedata-learn-more = Ətraflı öyrən
 sitedata-delete-on-close =
@@ -848,12 +852,24 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Əngəllənən növ
     .accesskey = n
+sitedata-clear2 =
+    .label = Səyahət məlumatlarını təmizlə
+    .accesskey = l
+sitedata-settings2 =
+    .label = Səyahət məlumatlarını idarə et
+    .accesskey = M
 sitedata-clear =
     .label = Məlumatları təmizlə…
     .accesskey = l
 sitedata-settings =
     .label = Məlumatları idarə et…
     .accesskey = M
+sitedata-heading =
+    .label = Səyahət məlumatları
+    .description = Çərəzlərinizi, tarixçənizi, keşi, vebsayt məlumatları və daha çoxunu idarə edin.
+sitedata-settings3 =
+    .label = Seçilmiş saytların məlumatlarını təmizlə
+    .accesskey = s
 cookies-site-data-group =
     .label = Çərəzlər və Sayt Məlumatları
 
