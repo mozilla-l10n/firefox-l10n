@@ -4,6 +4,8 @@
 
 etp-card-title-always = Artırılmış İzlənmə Qoruması: Həmişə Açıq
 etp-card-content-description = { -brand-short-name } şirkətlərin sizi vebdə gizlincə təqib etməsini avtomatik dayandırır.
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Bu həftə əngəllənmiş hər izləyici növünün cəmi sayını göstərən qrafik.
 cryptominer-tab-title = Kripto mədənçiləri
 protections-close-button2 =
     .aria-label = Bağla

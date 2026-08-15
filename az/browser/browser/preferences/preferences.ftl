@@ -1090,7 +1090,7 @@ preferences-appearance-header =
 
 preferences-ai-controls-description = { -brand-short-name } səyyahında sizin həmişə seçim imkanınız var. Bura süni intellektlə təkmilləşmiş özəlliklərdən istifadə edib-etməmək də daxildir. Tezliklə daha çox idarəetmə gələcək.
 preferences-ai-controls-block-ai-label = Süni İntellekt təkmilləşdirmələrini əngəlləyin
-preferences-ai-controls-block-ai-description = Əngəlləmək o deməkdir ki, siz { -brand-short-name } proqramında yeni və ya hazırkı Sİ təkmilləşdirmələrini, yaxud onlar barəsində üstə çıxan pəncərələri görməyəcəksiniz. <a data-l10n-name="link">
+preferences-ai-controls-block-ai-description = Əngəlləmək o deməkdir ki, siz { -brand-short-name } səyyahında yeni və ya hazırkı Sİ təkmilləşdirmələrini, yaxud onlar barəsində üstə çıxan pəncərələri görməyəcəksiniz. Təkmilləşdirmələrə nələrin daxil edildiyi və axtarış təklifləri, tövsiyələr kimi ənənəvi maşın öyrənməsi funksiyalarına necə nəzarət etmə barədə <a data-l10n-name="link">ətraflı məlumat əldə edin</a>.
 preferences-ai-controls-on-device-group =
     .label = Daxili Süni İntellekt
     .description = Bunlar özəllikdən istifadə etdiyiniz zaman cihazınıza yüklənən kiçik süni intellekt modellərindən istifadə edir. Bu yanaşma məxfiliyinizi qorumağa kömək edir.
@@ -1099,6 +1099,7 @@ preferences-ai-controls-sidebar-chatbot-group =
     .description = Səyahət edərkən bir söhbət botunu görünən vəziyyətdə saxlayın. Anthropic Claude, ChatGPT, Copilot, Google Gemini və Le Chat Mistral arasında seçim edin.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Yan paneldə söhbət botu
+preferences-ai-controls-state-description-blocked = <strong> Əngəllənib:</strong> Özəlliyi görə və işlədə bilməyəcəksiniz. Daxili Sİ üçün artıq yüklənmiş modellər silinəcəkdir.
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Yan paneldə söhbət botu təminatçıları
 preferences-ai-controls-header3 =
     .heading = Süni intellekt idarəetmələri
