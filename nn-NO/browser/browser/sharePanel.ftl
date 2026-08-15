@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Del side
 share-panel-copy-link =
     .label = Kopier lenke
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Lenke kopiert
 share-panel-os-share =
     .label = Del med…
 share-panel-mail =
