@@ -135,6 +135,9 @@ ipprotection-locations-subview-promo-button = Prenesi { -mozilla-vpn-brand-name 
 
 upgrade-vpn-title = Zagotovite si zaščito, ki presega okvire brskalnika
 upgrade-vpn-button = Preizkusite { -mozilla-vpn-brand-name }
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Porabili ste vseh { $maxUsage } GB podatkov VPN. Dostop bo ponovno omogočen prihodnji mesec.
 ipprotection-connection-status-paused-title-2 = VPN je ustavljen
     .aria-label = VPN je ustavljen
 

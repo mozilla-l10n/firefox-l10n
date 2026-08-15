@@ -75,6 +75,11 @@ urlbar-search-tips-confirm-short = Aydındır
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Məsləhət:
+urlbar-result-menu-remove-from-history2 = Tarixçədən sil
+    .accesskey = x
+urlbar-result-menu-remove-from-history =
+    .label = Tarixçədən sil
+    .accesskey = x
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -86,6 +91,7 @@ urlbar-search-tips-onboard = Daha az yazın, daha çox tapın: Birbaşa ünvan s
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = Əlfəcinlər
+urlbar-search-mode-history = Tarixçə
 
 ##
 
@@ -171,6 +177,7 @@ search-one-offs-bookmarks =
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Əlfəcinləri idarə et
 quickactions-cmd-bookmarks = əlfəcinlər
+quickactions-cmd-clearhistory = tarixçəni təmizlə
 quickactions-cmd-private = məxfi səyahət
 # Opens about:preferences
 quickactions-settings2 = Tənzimləmələri idarə et
@@ -264,6 +271,14 @@ urlbar-placeholder =
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .aria-label = Əlfəcinlərdə axtar
+    .placeholder = Axtarış elementlərini daxil edin
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .aria-label = Axtarış tarixçəsi
+    .placeholder = Axtarış elementlərini daxil edin
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .aria-label = Vərəqlərdə axtar
     .placeholder = Axtarış elementlərini daxil edin
 # Variables
 #  $name (String): the name of the user's default search engine
