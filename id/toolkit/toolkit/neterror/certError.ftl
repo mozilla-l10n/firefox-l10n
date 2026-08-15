@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Buka Situs di Jendela Baru
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Untuk melindungi keamanan Anda, { $hostname } tidak akan mengizinkan { -brand-short-name } untuk menampilkan laman jika situs lain telah menyematkannya. Untuk melihat laman ini, Anda harus membukanya di jendela baru.
 fp-certerror-view-certificate-link = Lihat sertifikat situs
+fp-certerror-return-to-previous-page-recommended-button-2 = Kembali (Disarankan)
+    .accesskey = b
 fp-certerror-return-to-previous-page-recommended-button = Kembali (Disarankan)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:

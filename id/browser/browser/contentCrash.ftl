@@ -36,3 +36,6 @@ requested-crash-reports-message = Anda memiliki { $reportCount } laporan kerusak
 requested-crash-reports-dont-show-again =
     .label = Jangan tampilkan lagi
     .accesskey = J
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new = Anda memiliki { $reportCount } laporan kerusakan yang belum terkirim

@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Dengan memilih Anthropic Claude, Anda menyetu
 genai-settings-chat-copilot-links = Dengan memilih Copilot, Anda menyetujui <a data-l10n-name="link1">Ketentuan Pengalaman Copilot AI</a> dan <a data-l10n-name="link2">Pernyataan Privasi Microsoft</a>.
 genai-settings-chat-gemini-links = Dengan memilih Google Gemini, Anda menyetujui <a data-l10n-name="link1">Persyaratan Layanan Google</a>, <a data-l10n-name="link2">Kebijakan Penggunaan Terlarang untuk AI Generatif</a >, dan <a data-l10n-name="link3">Pemberitahuan Privasi Aplikasi Gemini</a>.
 genai-settings-chat-huggingchat-links = Dengan memilih HuggingChat, Anda menyetujui <a data-l10n-name="link1">Pemberitahuan Privasi HuggingChat</a> dan <a data-l10n-name="link2">Kebijakan Privasi Hugging Face</a>.
+genai-settings-chat-lechat-links-2 = Dengan memilih Mistral Vibe, Anda menyetujui <a data-l10n-name="link1">Ketentuan Layanan</a> dan <a data-l10n-name="link2">Kebijakan Privasi</a> AI Mistral.
 genai-settings-chat-lechat-links = Dengan memilih Le Chat Mistral, Anda menyetujui <a data-l10n-name="link1">Ketentuan Layanan</a> dan <a data-l10n-name="link2">Kebijakan Privasi</a> Mistral AI.
 genai-settings-chat-localhost-links = Bawa chatbot lokal pribadi Anda sendiri misalnya <a data-l10n-name="link1">llamafile</a> dari grup Inovasi { -vendor-short-name }.
 
@@ -68,6 +69,8 @@ genai-shortcut-button =
     .aria-label = Tanyakan { $provider }
 genai-menu-new-badge = Baru
 genai-menu-summarize-page = Ringkaskan Laman
+genai-input-ask-smart-window =
+    .placeholder = Tanya…
 genai-input-ask-generic =
     .placeholder = Tanyakan chatbot AI…
 # $provider (string) - name of the provider
@@ -98,6 +101,9 @@ genai-menu-ask-provider-2 =
 genai-menu-no-provider-2 =
     .label = Tanyakan pada Chatbot AI
     .accesskey = z
+genai-menu-ask-smart-window =
+    .label = Tanya…
+    .accesskey = T
 
 ## Chatbot header
 
@@ -157,6 +163,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Pelajari lebih lanjut tentang Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = Pelajari lebih lanjut tentang HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral

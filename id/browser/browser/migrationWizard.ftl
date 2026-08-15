@@ -183,6 +183,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Selesai
 migration-safari-password-import-header = Impor Sandi dari Safari
+migration-safari-password-import-post-sequoia-step1 = Buka <a data-l10n-name="macos-passwords-app">aplikasi Sandi</a> di Mac Anda
+migration-safari-password-import-post-sequoia-step2 = Dari bilah menu di bagian atas layar, pilih Berkas > Ekspor Semua Sandi ke Berkas…
+migration-safari-password-import-post-sequoia-step3 = Simpan berkas
+migration-safari-password-import-post-sequoia-step4 = Pilih berkas yang Anda simpan
 migration-safari-password-import-steps-header = Untuk mengimpor kata sandi Safari:
 migration-safari-password-import-step1 = Di Safari, buka menu “Safari” dan buka Pengaturan > Kata Sandi
 migration-safari-password-import-step2 = Pilih tombol <img data-l10n-name="safari-icon-3dots"/> dan pilih “Ekspor Semua Kata Sandi”
@@ -195,6 +199,7 @@ migration-chrome-windows-password-import-step2 = Pilih "Pengaturan" dari menu.
 migration-chrome-windows-password-import-step3 = Pilih “Unduh berkas” dan simpan ke perangkat Anda.
 migration-chrome-windows-password-import-step4 = Kembali ke sini dan “Pilih berkas” untuk menyelesaikan impor.
 migration-manual-password-import-skip-button = Lewati
+migration-manual-password-import-cancel-button = Batal
 migration-manual-password-import-select-button = Pilih Berkas
 migration-safari-password-import-skip-button = Lewati
 migration-safari-password-import-select-button = Pilih Berkas

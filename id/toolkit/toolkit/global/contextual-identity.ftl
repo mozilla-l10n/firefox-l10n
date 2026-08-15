@@ -27,6 +27,12 @@ user-context-none =
 user-context-manage-containers =
     .label = Kelola Kontainer
     .accesskey = K
+user-context-new-tab =
+    .label = Tab Baru
+    .accesskey = B
+user-context-add-container =
+    .label = Tambahkan kontainer baru
+    .accesskey = a
 
 ## Container colors, shown as selectable swatches in the container
 ## creation/edit dialog.
