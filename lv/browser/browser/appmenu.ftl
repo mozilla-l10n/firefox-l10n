@@ -303,6 +303,9 @@ appmenuitem-monitor-description = Saņemt brīdinājumus par datu noplūdēm
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskējiet savu īsto e-pastu un tālruni
 appmenuitem-services-relay-description = Atvērt e-pasta masku informācijas paneli
+appmenuitem-vpn-description5 = Iegūsti papildu aizsardzību savās ierīcēs
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Lejupielādēt { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Iegūstiet visas ierīces aizsardzību
 appmenuitem-vpn-description = Aizsargā savas tiešsaistes darbības
