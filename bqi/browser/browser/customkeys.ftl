@@ -73,7 +73,9 @@ customkeys-key-new =
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-button-confirm = و هر هال و کار بگرین
 customkeys-conflict-confirm-button-cancel = لقو
+customkeys-conflict-unusable-title = کیلیت نتره و کار گرؽڌه بۊ
 customkeys-reset-all-confirm-title = وورگندن پؽش فرزا؟
 customkeys-reset-all-confirm-button-confirm = وورگندن پؽش فرزا
 customkeys-reset-all-confirm-button-cancel = لقو
