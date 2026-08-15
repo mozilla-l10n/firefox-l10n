@@ -84,7 +84,7 @@ detail-show-preferences =
            *[other] Bu əlavənin seçimlərini dəyiş
         }
 detail-rating =
-    .value = Bəyənilmə
+    .value = Qiymətləndirmə
 addon-restart-now =
     .label = İndi yenidən başlat
 disabled-unsigned-heading =
@@ -222,10 +222,21 @@ discopane-intro3 = Uzantılar və mövzular { -brand-product-name }-u özəllə�
 remove-addon-button = Sil
 disable-addon-button = Söndür
 enable-addon-button = Aktiv et
+details-addon-button = Təfərrüatlar
+release-notes-addon-button = Buraxılış Qeydləri
 permissions-addon-button = İcazələr
+addon-detail-author-label = Müəllif
+addon-detail-last-updated-label = Son yenilənmə
+addon-detail-homepage-label = Ana səhifə
+addon-detail-rating-label = Qiymətləndirmə
+
+## Pending uninstall message bar
+
+addon-detail-updates-label = Avtomatik yeniləmələrə icazə ver
 
 ##
 
+release-notes-error = Bağışlayın, ancaq buraxılış qeydlərini yükləyəndə bir xəta meydana gəldi.
 addon-permissions-heading = İcazələr
 
 ## Page headings

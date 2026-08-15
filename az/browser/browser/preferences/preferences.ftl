@@ -1088,6 +1088,9 @@ preferences-appearance-header =
 
 ## AI controls page
 
+preferences-ai-controls-description = { -brand-short-name } səyyahında sizin həmişə seçim imkanınız var. Bura süni intellektlə təkmilləşmiş özəlliklərdən istifadə edib-etməmək də daxildir. Tezliklə daha çox idarəetmə gələcək.
+preferences-ai-controls-block-ai-label = Süni İntellekt təkmilləşdirmələrini əngəlləyin
+preferences-ai-controls-block-ai-description = Əngəlləmək o deməkdir ki, siz { -brand-short-name } proqramında yeni və ya hazırkı Sİ təkmilləşdirmələrini, yaxud onlar barəsində üstə çıxan pəncərələri görməyəcəksiniz. <a data-l10n-name="link">
 preferences-ai-controls-on-device-group =
     .label = Daxili Süni İntellekt
     .description = Bunlar özəllikdən istifadə etdiyiniz zaman cihazınıza yüklənən kiçik süni intellekt modellərindən istifadə edir. Bu yanaşma məxfiliyinizi qorumağa kömək edir.
