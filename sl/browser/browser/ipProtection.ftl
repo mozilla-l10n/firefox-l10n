@@ -48,8 +48,10 @@ ipprotection-feature-introduction-button-get-started = Začni
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Vaš vgrajeni VPN je zdaj še boljši
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Nastavite { -brand-product-name(sklon: "tozilnik") } kot privzeti brskalnik in po 31. avgustu pridobite več kot 20 dodatnih lokacij za brskanje.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Odpri VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Nastavi kot privzet brskalnik
 ipprotection-summer-promo-offramp-get-subscription-button = Prenesi { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Zapri
 
@@ -132,6 +134,8 @@ ipprotection-locations-subview-promo-button = Prenesi { -mozilla-vpn-brand-name 
 
 upgrade-vpn-title = Zagotovite si zaščito, ki presega okvire brskalnika
 upgrade-vpn-button = Preizkusite { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-2 = VPN je ustavljen
+    .aria-label = VPN je ustavljen
 
 ## Messages and errors
 
@@ -142,6 +146,8 @@ ipprotection-connection-status-network-error-title-1 = Preverite svojo povezavo 
 ipprotection-connection-status-network-error-description = Povežite se z internetom in nato poskusite vklopiti VPN.
 ipprotection-connection-status-blocked-error-title-1 = VPN ni na voljo
     .aria-label = VPN ni na voljo
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Lokalni zakoni in predpisi določajo, kje lahko uporabljate VPN. <a data-l10n-name="learn-more-link">Več o tem</a>
 ipprotection-connection-status-blocked-error-description = Lokalna zakonodaja nam prepoveduje zagotavljanje storitve VPN v tej regiji. <a data-l10n-name="learn-more-link">Več o tem</a>
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je na tem spletnem mestu izklopljen
 ipprotection-open-button = Odpri { -brand-product-name }
@@ -188,6 +194,32 @@ ip-protection-exclusions-desc = VPN naj se uporablja na vseh spletnih mestih, ra
 
 ## IP Protection Bandwidth
 
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Preostalo ta mesec: { $usageLeft } GB od skupno { $maxUsage } GB
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">Preostalo: { $usageLeft } GB od skupno { $maxUsage } GB
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Preostalo: { $usageLeft } GB od skupno { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Preostalo ta mesec: { $usageLeft } MB od skupno { $maxUsage } GB
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">Preostalo: { $usageLeft } MB od skupno { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Preostalo: { $usageLeft } MB od skupno { $maxUsage } GB
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Porabili ste vseh { $maxUsage } GB podatkov VPN. Dostop bo ponovno omogočen prihodnji mesec.

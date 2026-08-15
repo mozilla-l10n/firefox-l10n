@@ -354,3 +354,5 @@ about-debugging-message-details-label-error = Podrobnosti napake
 about-debugging-message-details-label-warning = Podrobnosti opozorila
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Podrobnosti
+about-debugging-sidebar =
+    .heading = Odpravljanje napak
