@@ -98,6 +98,10 @@ ipprotection-location-selection-callout-description-1 = La VPN integrada del <a 
 ipprotection-location-selection-callout-primary-button = Proveu-ho
 ipprotection-location-selection-callout-secondary-button = Descarta
 
+## VPN for Android promo callout
+
+ipprotection-android-promo-callout-primary-button = Entesos
+
 ## Panel
 
 # Also used for the callout shown in private browsing
