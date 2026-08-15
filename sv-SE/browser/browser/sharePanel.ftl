@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Dela sida
 share-panel-copy-link =
     .label = Kopiera länk
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Länk kopierad
 share-panel-os-share =
     .label = Dela med…
 share-panel-mail =
