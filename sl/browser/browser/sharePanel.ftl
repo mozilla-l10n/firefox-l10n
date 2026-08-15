@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Deli stran
 share-panel-copy-link =
     .label = Kopiraj povezavo
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Povezava kopirana
 share-panel-os-share =
     .label = Deli z …
 share-panel-mail =

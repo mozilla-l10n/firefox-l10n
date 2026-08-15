@@ -34,6 +34,43 @@ neterror-view-certificate-link = Zertifikat anzeigen
 neterror-trr-continue-this-time = Dieses Mal fortfahren
 neterror-disable-native-feedback-warning = Immer fortfahren
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = Diese Website ist nicht erreichbar
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Verbindung mit dem Server auf { $domain } konnte nicht hergestellt werden.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Versuchen Sie Folgendes:
+neterror-search-cta-hint-check-address = Überprüfen Sie die Adresse der Website
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Im Web nach der Website suchen
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Im Web nach <strong>"{ $query }“</strong> suchen
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Suchen
+    .accesskey = S
+    .tooltiptext = Öffnet Suchergebnisse in einem neuen Tab
+neterror-search-cta-reload-button =
+    .label = Neu laden
+    .accesskey = N
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Wird geladen…
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Sie scheinen offline zu sein. Stellen Sie die Verbindung erneut her und versuchen Sie es erneut.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Fehlercode: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Weitere Informationen
+
 ##
 
 neterror-pref-reset = Dies könnte durch die Netzwerk-Sicherheitseinstellungen verursacht werden. Sollen die Standardeinstellungen wiederhergestellt werden?

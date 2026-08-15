@@ -132,6 +132,7 @@ autofill-address-tel = Telefon
 autofill-address-email = E-pošta
 autofill-cancel-button = Prekliči
 autofill-save-button = Shrani
+autofill-country-warning-message-2 = Samodejno izpolnjevanje obrazcev je trenutno na voljo samo v nekaterih državah
 autofill-country-warning-message = Samodejno izpolnjevanje obrazcev je trenutno na voljo samo v nekaterih državah.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Dodaj novo kreditno kartico

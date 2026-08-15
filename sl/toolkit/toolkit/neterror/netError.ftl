@@ -34,6 +34,20 @@ neterror-view-certificate-link = Ogled digitalnega potrdila
 neterror-trr-continue-this-time = Tokrat nadaljuj
 neterror-disable-native-feedback-warning = Vedno nadaljuj
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-reload-button =
+    .label = Ponovno naloži
+    .accesskey = P
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Nalaganje
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Koda napake: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Več o tem
+
 ##
 
 neterror-pref-reset = Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?
