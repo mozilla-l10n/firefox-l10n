@@ -8,11 +8,23 @@
 newtab-page-title = Yeni Vərəq
 newtab-settings-button =
     .title = Yeni Vərəq səhifənizi fərdiləşdirin
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
+newtab-customize-panel-icon-button =
+    .title = Bu səhifəni özəlləşdir
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
+newtab-customize-panel-icon-button-label = Özəlləşdir
+newtab-customize-panel-label =
+    .label = Özəlləşdir
 newtab-personalize-settings-icon-label =
     .title = Yeni Vərəqi Fərdiləşdirin
     .aria-label = Tənzimləmələr
 newtab-settings-dialog-label =
     .aria-label = Tənzimləmələr
+newtab-personalize-icon-label =
+    .title = Yeni vərəqi fərdiləşdir
+    .aria-label = Yeni vərəqi fərdiləşdir
+newtab-personalize-dialog-label =
+    .aria-label = Fərdiləşdir
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -29,10 +41,23 @@ home-homepage-custom-homepage-button =
 
 ## Custom URLs subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Sayt ünvan(lar)ı
 home-custom-homepage-address =
     .placeholder = Ünvanı daxil et
 home-custom-homepage-address-button =
     .label = Ünvan əlavə et
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Hələ vebsayt əlavə edilməyib.
+home-custom-homepage-delete-address-button =
+    .title = Ünvanı sil
+    .aria-label = Ünvanı sil
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Bununla əvəz et:
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Əlfəcinlər…
@@ -178,8 +203,9 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Redaktə et
-newtab-menu-open-new-window = Yeni Pəncərədə Aç
-newtab-menu-open-new-private-window = Yeni Məxfi Pəncərədə Aç
+newtab-menu-add-topsite = Yeni qısayol əlavə et
+newtab-menu-open-new-window = Yeni Pəncərədə aç
+newtab-menu-open-new-private-window = Yeni Məxfi Pəncərədə aç
 newtab-menu-dismiss = Rədd et
 newtab-menu-pin = Bərkid
 newtab-menu-unpin = Çıxart
@@ -274,6 +300,8 @@ newtab-error-fallback-refresh-link = Təkrar yoxlamaq üçün səhifəni yenilə
 
 ## New Tab Appearance (browser theme picker)
 
+newtab-custom-row-description =
+    .description = Sətir sayı
 newtab-custom-recent-title = Son fəaliyyət
 newtab-custom-widget-lists-toggle =
     .label = Siyahılar
@@ -297,6 +325,17 @@ newtab-widget-section-title = Vicetlər
 newtab-widget-section-hide-all-button =
     .title = Vicetləri gizlət
     .aria-label = Bütün vicetləri gizlət
+newtab-widget-section-maximize =
+    .title = Vicetləri genişləndir
+    .aria-label = Bütün vicetləri tam ölçüyə genişləndir
+newtab-widget-section-minimize =
+    .title = Vicetləri kiçilt
+    .aria-label = Bütün vicetləri yığcam ölçüyə sal
+newtab-widget-section-menu-button =
+    .title = Vicetlər menyusu
+    .aria-label = Vicetlər menyusunu aç
+newtab-widget-section-menu-manage = Vicetləri idarə et
+newtab-widget-section-menu-hide-all = Vicetləri gizlət
 # Button shown when additional widgets are hidden beyond the
 # first row, allowing users to show them.
 newtab-widget-section-show-more =
@@ -316,6 +355,14 @@ newtab-widget-timer-menu-button =
 
 newtab-sports-widget-show-less =
     .label = Daha az göstər
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Vicet əlavə et
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Vicetləri kəşf et
 
 ## Strings for the Clock widget
 
