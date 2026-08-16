@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Sidebar Vertical Tabs Strings
+
+vertical-tabs-callout-1-cta-button = Şaquli vərəqləri sına
+
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-callout-button = Yan paneli özəlləşdir

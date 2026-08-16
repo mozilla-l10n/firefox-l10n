@@ -7,6 +7,8 @@ menu-view-genai-chat =
 
 ## Labels for sidebar customize panel
 
+sidebar-vertical-tabs =
+    .label = Şaquli vərəqlər
 sidebar-hide-tabs-and-sidebar =
     .label = Vərəqləri və yan paneli gizlət
 
@@ -14,11 +16,17 @@ sidebar-hide-tabs-and-sidebar =
 
 sidebar-context-menu-hide-sidebar =
     .label = Yan paneli gizlət
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Şaquli vərəqləri aktiv et
+sidebar-context-menu-customize-sidebar =
+    .label = Yan paneli özəlləşdir
 
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
     .label = Sİ söhbət botu
+sidebar-menu-customize-label =
+    .label = Yan paneli özəlləşdir
 sidebar-menu-more-tools-label =
     .label = Daha çox alət
 
@@ -29,6 +37,15 @@ sidebar-menu-more-tools-label =
 
 sidebar-menu-open-ai-chatbot-tooltip-generic = Sİ söhbət botunu aç ({ $shortcut })
 sidebar-menu-close-ai-chatbot-tooltip-generic = Sİ söhbət botunu bağla ({ $shortcut })
+
+## Headings for sidebar menu panels.
+
+sidebar-menu-customize-header =
+    .heading = Yan paneli özəlləşdir
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Yan paneli özəlləşdir
 
 ## Context for closing synced tabs when hovering over the items
 

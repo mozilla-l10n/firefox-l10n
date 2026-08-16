@@ -18,3 +18,12 @@ onboarding-start-browsing-button-label = Səyahətə Başla
 
 mr2022-upgrade-onboarding-pin-private-window-header = Bir toxunuşla məxfi səyahət imkanı əldə edin
 mr2022-upgrade-onboarding-pin-private-window-subtitle = İş masanızdan birbaşa çərəzlər və baxış tarixçəsi saxlanılmadan istifadə edin. Heç kim sizi izləmirmiş kimi internetdə səyahət edin.
+
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Şaquli vərəqlər buradadır
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Şaquli vərəqlərlə tanışlıq
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Şaquli vərəqləri sınayın

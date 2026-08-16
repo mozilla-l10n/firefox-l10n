@@ -174,9 +174,15 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Bu konteyneri sil
 containers-remove-cancel-button = Bu konteyneri silmə
+browser-layout-vertical-tabs2 =
+    .label = Şaquli vərəqlər
+    .title = Yan panelin kənarında vərəqlər
+    .description = Yan panelin kənarında vərəqlər
 browser-layout-show-sidebar2 =
     .label = Yan paneli göstər
     .description = Əsas görünüşdən çıxmadan əlfəcinlərə, telefonunuzdakı vərəqlərə, süni intellekt söhbət botlarına və digər funksiyalara sürətli çıxış əldə edin.
+browser-layout-vertical-tabs =
+    .label = Şaquli vərəqlər
 
 ## General Section - Language & Appearance
 
