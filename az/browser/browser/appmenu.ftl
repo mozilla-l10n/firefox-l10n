@@ -163,9 +163,9 @@ appmenu-clear-history =
     .label = Son Tarixçəni Təmizlə…
 appmenu-recent-history-subheader = Yaxın Tarixçə
 appmenu-recently-closed-tabs =
-    .label = Yeni qapanmış vərəqlər
+    .label = Son qapadılmış vərəqlər
 appmenu-recently-closed-windows =
-    .label = Yeni qapanmış pəncərələr
+    .label = Son qapadılmış pəncərələr
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Axtarış tarixçəsi

@@ -187,9 +187,9 @@ menu-history-restore-last-session =
 menu-history-hidden-tabs =
     .label = Gizli Vərəqlər
 menu-history-undo-menu =
-    .label = Yeni qapanmış vərəqlər
+    .label = Son qapadılmış vərəqlər
 menu-history-undo-window-menu =
-    .label = Yeni qapanmış pəncərələr
+    .label = Son qapadılmış pəncərələr
 
 ## Bookmarks Menu
 
