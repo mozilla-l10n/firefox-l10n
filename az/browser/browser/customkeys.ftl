@@ -10,3 +10,7 @@ customkeys-dev-accessibility = Əlçatanlıq
 customkeys-nav-reload = Yenilə
 customkeys-nav-reload-skip-cache = Yenilə (keşin üzərinə yaz)
 customkeys-tools-screenshot = Ekran görüntüsü al
+
+## Sidebar
+
+customkeys-support-link-text = Ətraflı öyrənin
