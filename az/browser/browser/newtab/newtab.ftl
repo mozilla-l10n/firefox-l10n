@@ -275,12 +275,28 @@ newtab-error-fallback-refresh-link = Təkrar yoxlamaq üçün səhifəni yenilə
 ## New Tab Appearance (browser theme picker)
 
 newtab-custom-recent-title = Son fəaliyyət
+newtab-custom-widget-lists-toggle =
+    .label = Siyahılar
+newtab-custom-widget-timer-toggle =
+    .label = Vaxtölçən
+newtab-custom-widget-clock-toggle =
+    .label = Saat
 newtab-custom-widget-picture-toggle =
     .label = Günün şəkli
 newtab-custom-widget-section-title = Vicetlər
+newtab-custom-widget-section-toggle =
+    .label = Vicetlər
+newtab-widget-manage-title = Vicetlər
+newtab-widget-manage-widget-button =
+    .label = Vicetləri idarə et
 
 ## Strings for task / to-do list productivity widget
 
+newtab-widget-section-title = Vicetlər
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Vicetləri gizlət
+    .aria-label = Bütün vicetləri gizlət
 # Button shown when additional widgets are hidden beyond the
 # first row, allowing users to show them.
 newtab-widget-section-show-more =
@@ -289,6 +305,12 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = Daha az vicet göstər
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-notification-title = Vaxtölçən
+newtab-widget-timer-menu-button =
+    .aria-label = Vaxtölçən seçimləri
 
 ##
 

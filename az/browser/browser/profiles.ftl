@@ -25,3 +25,12 @@ edit-profile-page-explore-themes = Daha çox mövzu kəşf et
 edit-profile-page-desktop-shortcut-header = Masaüstü qısayolu yarat
 edit-profile-page-avatar-header-2 =
     .label = Avatar
+
+## Alternative text for default profile icons
+
+clock-avatar-alt =
+    .alt = Saat
+
+## Tooltips for default avatar icons
+
+clock-avatar = Saat
