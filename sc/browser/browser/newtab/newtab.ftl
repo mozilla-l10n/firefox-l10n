@@ -40,6 +40,9 @@ home-homepage-new-windows =
     .label = Ventanas noas
 home-homepage-new-tabs =
     .label = Ischedas noas
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Sèbera unu situ ispetzìficu
 
 ## Custom URLs subpage
 
@@ -61,6 +64,9 @@ home-custom-homepage-delete-address-button =
 home-custom-homepage-replace-with-prompt =
     .label = Sostitui cun
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pàginas abertas immoe
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Sinnalibros…
 
@@ -70,6 +76,9 @@ home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 home-prefs-search-header2 =
     .label = Chirca
+home-prefs-stories-header2 =
+    .label = Istòrias
+    .description = Cuntenutu de primore curadu dae sa famìlia de { -brand-product-name }
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -87,13 +96,28 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Riservadesa
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Faeddos rugrados
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Atziones
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Immàgine de sa die
+home-prefs-mission-message2 =
+    .message = Is patrotzinadores nostros nos agiudant in sa missione nostra de istantargiare unu web mègius.
 home-prefs-manage-topics-link2 =
     .label = Gesti is argumentos
+home-prefs-choose-wallpaper-link2 =
+    .label = Sèbera un’isfundu
 home-prefs-firefox-logo-header =
     .label = logo de { -brand-short-name }
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Pro impreare custas funtzionalidades, cunfigura  { -firefox-home-brand-name } comente pàgina printzipale pro is ischedas o is ventanas noas.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -145,12 +169,49 @@ home-prefs-mission-message-learn-more-link-srd = Iscoberi comente
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Àteras informatziones
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Sighidore blocadu oe
+       *[other] Sighidores blocados oe
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] In { $count } situ
+       *[other] In { $count } sitos
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = { -brand-short-name } blocat is sighidores mentras nàvigas. Ddos as a bìdere inoghe.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } blocat is sighidores in automàticu mentras nàvigas.
+newtab-privacy-message-info-1-cta = Ammustra is amparos
+newtab-privacy-message-info-2 = Su blocu de is sighidores agiudat a impedire chi is aziendas ti sigant in lìnia.
+newtab-privacy-message-info-2-cta = Ammustra is amparos
+newtab-privacy-message-info-3 = Meda sitos impreant sighidores pro chi aziendas chi no as mai bisitadu ti potzant sighire in lìnia.
+newtab-privacy-message-info-3-cta = Ammustra is amparos
 newtab-privacy-message-info-6-cta = Àteras informatziones
 newtab-privacy-message-info-8-cta = Àteras informatziones
 newtab-privacy-message-info-9-cta = Cunfigura comente predefinidu

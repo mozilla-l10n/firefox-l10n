@@ -159,6 +159,12 @@ appmenu-fxa-last-sync = Ùrtima sincronizatzione { $time }
     .label = Ùrtima sincronizatzione { $time }
 appmenu-fxa-sync-and-save-data2 = Sincroniza e sarva datos
 appmenu-fxa-signed-in-label = Identìfica·ti
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Identìfica·ti a Sync
+appmenu-fxa-sign-in-promo-message = Porta·ti is datos in ònnia logu
+appmenu-fxa-sign-in-promo-button =
+    .label = Identìfica·ti
 appmenu-fxa-setup-sync =
     .label = Ativa sa sincronizatzione...
 appmenu-fxa-setup-sync-new = Ativa
@@ -287,6 +293,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Chirca in sa cronologia
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Abarra sincronizadu intre dispositivos
+appmenu-sync-promo-signin-cta = Identìfica·ti
+appmenu-sync-promo-turnonsync =
+    .heading = Sincroniza is ischedas e sa cronologia
+appmenu-sync-promo-turnonsync-cta = Ativa sa sincronizatzione
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Recùpera is ischedas dae is dispositivos mòbiles
+appmenu-sync-promo-connectdevice-cta = Connete unu dispositivu
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Porta is sinnalibros cun tegus
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Porta is sinnalibros cun tegus
+
 ## Help panel
 
 appmenu-help-header =
@@ -294,6 +321,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Informatziones de { -brand-shorter-name }
     .accesskey = I
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Cumpartzi { -brand-shorter-name }
+    .accesskey = C
 appmenu-get-help =
     .label = Otene agiudu
     .accesskey = O
@@ -350,11 +382,15 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Intra in su contu tuo
 appmenuitem-monitor-title2 = Ampara·ti dae is furas de identidade
 appmenuitem-monitor-description2 = Retzi avisos in contu de violatziones de datos
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Avisos de violatziones de datos de { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Retzi avisos a subra de violatziones de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Mantene sa posta eletrònica privada
 appmenuitem-relay-description2 = Agiudat a evitare s’àliga in sa casella de posta
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Ammustra is alias de posta eletrònica
 appmenuitem-relay-description = Cua s'indiritzu de posta eletrònica e su nùmeru de telèfonu tuos reales
 appmenuitem-services-relay-description = Avia su pannellu de is alias de posta eletrònica
 appmenuitem-vpn-title2 = Cua sa positzione tua cun { -mozilla-vpn-brand-name }
@@ -391,10 +427,15 @@ appmenu-edit-this-profile =
 appmenu-profile-current-in-use = Profilu impreadu immoe
 fxa-menu-create-profile-subpanel =
     .title = Crea unu profilu nou
+fxa-menu-create-profile-heading = Potèntzia sa navigatzione cun unu profilu nou
+fxa-menu-create-profile-description = Separa sinnalibros, craes e cronologia de traballu e de navigatzione personale.
 fxa-menu-create-profile-confirm =
     .label = Crea unu profilu nou
 fxa-menu-create-profile-learn-more =
     .label = Ite sunt is profilos?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Cumpartzi { -brand-short-name }
+appmenuitem-share-firefox-description = Invita a calicunu a seberare su navigadore chi ponet sa riservadesa a primu
 appmenu-profiles-2 =
     .label = Profilos
 appmenu-profiles-header = Profilos

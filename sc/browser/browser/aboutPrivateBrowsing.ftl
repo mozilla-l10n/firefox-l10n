@@ -87,4 +87,5 @@ about-private-browsing-nova-info-link = Chie diat pòdere bìdere galu s’ativi
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Sa navigatzione tua no at a èssere sarvada
+about-private-browsing-nova-info-subheader2 = Amus a cantzellare totu is chircas e is identificatziones de sessione cando as a serrare totu is ventanas privadas. Is amparos integrados de { -brand-short-name } sunt ativos inoghe puru, comente su blocu de is sighiduras.
 about-private-browsing-nova-info-subheader = Amus a cantzellare totu is chircas e is identificatziones de sessione cando as a serrare sa ventana. S’amparu integradu de { -brand-short-name } est ativu puru inoghe, comente su blocu de is sighiduras.
