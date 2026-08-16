@@ -25,8 +25,10 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Predstavljamo VPN, zdaj neposredno v vašem brskalniku
 ipprotection-feature-introduction-title-1 = Preizkusite { -brand-product-name }ov vgrajeni VPN
+ipprotection-feature-introduction-link-text-2 = Z našim novim <a data-l10n-name="learn-more-vpn">vgrajenim VPN-jem</a> skrijte svojo lokacijo in zaščitite svoje podatke.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dodajte še eno raven zasebnosti
+ipprotection-feature-introduction-title-summer-promo = Se odpravljate na pot? Vzemite zasebnost s seboj.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Povezani na javni Wi-Fi? Preizkusite { -brand-product-name }ov vgrajeni VPN.
 ipprotection-feature-introduction-description-captive-portal = Brskajte z dodatno zaščito s skrivanjem vaše lokacije, tudi na javnem omrežju Wi-Fi.
@@ -45,10 +47,16 @@ ipprotection-feature-introduction-button-get-started = Začni
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Omejitve vgrajenega VPN-ja se bodo ponastavile s 1. septembrom
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Vaš vgrajeni VPN je zdaj še boljši
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Obdržite dodatne lokacije vgrajenega VPN
 ipprotection-summer-promo-offramp-default-browser-incentive-description = Nastavite { -brand-product-name(sklon: "tozilnik") } kot privzeti brskalnik in po 31. avgustu pridobite več kot 20 dodatnih lokacij za brskanje.
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Odpri VPN
@@ -115,13 +123,16 @@ ipprotection-connection-status-connecting-1 = VPN se povezuje …
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Lokacija: priporočena
+ipprotection-recommended-location-description = { -brand-product-name } izbere najhitrejšo lokacijo
 ipprotection-recommended-location-badge = NOVO
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Lokacija: { $country }
 ipprotection-locations-subview =
     .title = Izberite lokacijo
+ipprotection-locations-subview-description = Izberite drugo lokacijo, s katere želite brskati.
 ipprotecion-locations-subview-recommended-label = Priporočena
+ipprotection-locations-subview-recommended-description = Izbere najhitrejšo lokacijo
 # Label shown next to a VPN location that the user cannot select.
 # The aria-label is for accessibility, and should communicate that the
 # location is unavailable and the button is disabled.
