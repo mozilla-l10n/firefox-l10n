@@ -173,4 +173,10 @@ confirm-discard-changes-dialog-confirm-button = Ləğv et
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Təhlükəyə açıq parol
-about-logins-vulnerable-alert-learn-more-link = Ətraflı öyrən
+about-logins-vulnerable-alert-learn-more-link = Ətraflı öyrənin
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-error-learn-more = Ətraflı öyrənin

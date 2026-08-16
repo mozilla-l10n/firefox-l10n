@@ -119,7 +119,7 @@ profiler-popup-button-idle =
     .label = Profayler
     .tooltiptext = Məhsuldarlıq profilini qeyd et
 profiler-popup-learn-more-button =
-    .label = Daha çox öyrən
+    .label = Ətraflı öyrənin
 profiler-popup-settings =
     .value = Tənzimləmələr
 # This link takes the user to about:profiling, and is only visible with the Custom preset.

@@ -28,7 +28,7 @@ pocket-panel-saved-tags-saved = Etiketlər əlavə edildi
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = Artıq { -pocket-brand-name } istifadəçisisiniz?
-pocket-panel-signup-learn-more = Ətraflı Öyrən
+pocket-panel-signup-learn-more = Ətraflı öyrənin
 pocket-panel-signup-login = Daxil ol
 pocket-panel-signup-signup-email = E-poçt ilə qeyd ol
 pocket-panel-signup-signup-cta = { -pocket-brand-name } üçün qeyd ol. Bu pulsuzdur.

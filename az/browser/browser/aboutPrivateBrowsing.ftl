@@ -21,7 +21,7 @@ about-private-browsing-handoff-text-no-engine = Axtar və ya ünvanı daxil et
 about-private-browsing-not-private = Hazırda məxfi pəncərədə deyilsiniz.
 about-private-browsing-info-description-private-window = Məxfi pəncərə: { -brand-short-name } siz bütün məxfi pəncərələri bağladıqdan sonra, axtarışlarınızı və baxış tarixçənizi təmizləyir. Bu sizi anonim etmir.
 about-private-browsing-info-description-simplified = Siz bütün məxfi pəncərələri bağladıqdan sonra, { -brand-short-name } axtarışlarınızı və baxış tarixçənizi təmizləyir, ancaq bu sizi anonim etmir.
-about-private-browsing-learn-more-link = Ətraflı öyrən
+about-private-browsing-learn-more-link = Ətraflı öyrənin
 about-private-browsing-hide-activity = İnternetdə gəzdiyiniz hər yerdə fəaliyyətinizi və yerinizi gizlədin.
 about-private-browsing-get-privacy = İnternetdə gəzdiyiniz hər yerdə məxfilik qoruması alın
 
