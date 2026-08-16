@@ -133,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } sekme gruplandırıldı
        *[other] { $count } sekme gruplandırıldı
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Sekme grubu
 # Variables
 #   $count (number) - Number of tabs grouped
 #   $label (string) - The label of the tab group

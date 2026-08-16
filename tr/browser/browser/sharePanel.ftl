@@ -7,31 +7,24 @@
 
 # Address bar button that opens the share panel.
 urlbar-share-button =
-    .aria-label = Падзяліцца старонкай
-    .tooltiptext = Падзяліцца старонкай
-share-panel-heading = Падзяліцца старонкай
+    .aria-label = Bu sayfayı paylaş
+    .tooltiptext = Bu sayfayı paylaş
+share-panel-heading = Sayfayı paylaş
 share-panel-copy-link =
-    .label = Капіяваць спасылку
-# Confirmation hint shown near the share button after the user copies the
-# current page URL from the share panel.
-confirmation-hint-link-copied = Спасылка скапіявана
-share-panel-os-share =
-    .label = Падзяліцца праз…
+    .label = Bağlantıyı kopyala
 share-panel-mail =
-    .label = Даслаць ліст
+    .label = E-posta gönder
 share-panel-screenshot =
-    .label = Зрабіць здымак экрана
+    .label = Ekran görüntüsü al
 share-panel-qr-code =
-    .label = Падзяліцца QR-кодам
+    .label = QR kodunu paylaş
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
-    .label = Даслаць на прыладу
+    .label = Cihaza gönder
 # This string is shown when the user has no other devices signed in to their account.
 # Clicking this will bring them to a place where they can connect other devices.
 share-panel-send-to-mobile =
-    .label = Адаслаць на мабільны
+    .label = Mobil cihaza gönder
 share-panel-device-subview =
-    .title = Усе прылады
-share-panel-os-share-subview =
-    .title = Падзяліцца праз…
+    .title = Tüm cihazlar

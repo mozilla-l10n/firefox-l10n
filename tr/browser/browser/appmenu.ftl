@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = { -brand-product-name }’a giriş yap
 appmenuitem-fxa-manage-account = Hesabı yönet
 fxa-menu-sync-status-on = Eşitleme açık
 fxa-menu-sync-status-off = Eşitleme kapalı
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Verilerinizi eşitleyin
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Verileriniz eşitlenmiyor
@@ -162,6 +165,7 @@ appmenu-fxa-signed-in-label = Giriş yap
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Eşitlemek için giriş yapın
+appmenu-fxa-sign-in-promo-message = Verilerinizi her yere taşıyın
 appmenu-fxa-sign-in-promo-button =
     .label = Giriş yap
 appmenu-fxa-setup-sync =
@@ -302,6 +306,8 @@ appmenu-sync-promo-turnonsync =
     .heading = Sekmelerinizi ve geçmişinizi eşitleyin
 appmenu-sync-promo-turnonsync-cta = Eşitlemeyi başlat
 appmenu-sync-promo-connectdevice-cta = Cihaz bağla
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Yer imlerinizi yanınızda taşıyın
 
 ## Help panel
 

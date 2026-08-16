@@ -159,6 +159,24 @@ sidebar-opentabs-sort-by-heading =
 sidebar-opentabs-sort-option-order =
     .label = Sekme sırası
 
+## Labels for the open tabs hover preview
+
+# Heading at the top of the preview shown when hovering the Open Tabs button
+# in the sidebar. "Recent tabs" refers to the tabs that were active most
+# recently, not to tabs that were recently opened.
+sidebar-opentabs-preview-heading = Son sekmeler
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = { $tabTitle } sekmesini kapat
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = Sekmenin sesini kapat
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = Sekmenin sesini aç
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
