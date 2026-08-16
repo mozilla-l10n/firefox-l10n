@@ -196,6 +196,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Hesabınıza daxil olun
+appmenuitem-relay-title2 = E-poçt ünvanınızı məxfi saxlayın
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
