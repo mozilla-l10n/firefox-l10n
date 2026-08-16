@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = 閉じる
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = 組み込み VPN をあなたの Android へ
+ipprotection-android-promo-callout-description = QR コードをスキャンして Android 版 { -brand-product-name } を入手して、プライバシー保護されたブラウジングのために組み込み VPN を有効にしましょう。まもなく iOS 版も登場します。
 ipprotection-android-promo-callout-primary-button = 了解
 
 ## Panel
