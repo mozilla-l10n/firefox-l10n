@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Zaćisnyć
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Bjerće zatwarjeny VPN na Android sobu
+ipprotection-android-promo-callout-description = Skenujće QR-kod, zo byšće { -brand-product-name } za Android dóstał a zmóžńće zatwarjeny VPN za wjace priwatnosće po puću. Bórze za iOS k dispoziciji.
 ipprotection-android-promo-callout-primary-button = Sym zrozumił
 
 ## Panel

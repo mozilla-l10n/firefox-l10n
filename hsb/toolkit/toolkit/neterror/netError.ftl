@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = Přeco pokročować
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Tute sydło docpějomny njeje
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Zwisk z serwerom na { $domain } móžny njeje.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Spytajće tute kroki:
 neterror-search-cta-hint-check-address = Přepruwujće adresu websydła dwójce
@@ -60,6 +63,9 @@ neterror-search-cta-reload-button =
     .accesskey = Z
 # Shown in place of the Search button while the search option is being prepared.
 neterror-search-cta-loading = Začituje so
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Zda so, zo sće offline. Zwjazajće znowa a spytajće hišće raz.
 # $error (String) - The error code, for example "dnsNotFound".
 neterror-search-cta-error-code = Zmylkowy kod: { $error }
 # The search CTA's own "Learn more" link text (no trailing ellipsis).
