@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Zachyśiś
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Wzejśo zatwarjony VPN na Android sobu
+ipprotection-android-promo-callout-description = Scannujśo QR-kod, aby { -brand-product-name } za Android dostał a zmóžniśo zatwarjony VPN za wěcej priwatnosći pó droze. Skóro za iOS k dispoziciji.
 ipprotection-android-promo-callout-primary-button = Som zrozměł
 
 ## Panel

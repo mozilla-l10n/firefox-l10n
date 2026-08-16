@@ -132,6 +132,7 @@ autofill-address-tel = Telefon
 autofill-address-email = E-mail
 autofill-cancel-button = Pśetergnuś
 autofill-save-button = Składowaś
+autofill-country-warning-message-2 = Awtomatiske wupołnjenje formularow jo tuchylu jano za wěste kraje k dispoziciji.
 autofill-country-warning-message = Awtomatiske wupołnjenje formularow jo tuchylu jano za wěste kraje k dispoziciji.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nowu kreditowu kórtu pśidaś
