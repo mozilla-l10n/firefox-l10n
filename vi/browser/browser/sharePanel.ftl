@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Chia sẻ trang
 share-panel-copy-link =
     .label = Sao chép liên kết
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Đã sao chép liên kết
 share-panel-os-share =
     .label = Chia sẻ với…
 share-panel-mail =

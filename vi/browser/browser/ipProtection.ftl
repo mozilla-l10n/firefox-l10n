@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Bỏ qua
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Mang theo VPN tích hợp sẵn trên Android
+ipprotection-android-promo-callout-description = Quét mã QR để tải ứng dụng { -brand-product-name } cho Android và bật VPN tích hợp để bảo mật thông tin cá nhân tốt hơn khi di chuyển. Sắp có mặt trên iOS.
 ipprotection-android-promo-callout-primary-button = Đã hiểu
 
 ## Panel

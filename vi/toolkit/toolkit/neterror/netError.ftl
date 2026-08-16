@@ -34,6 +34,43 @@ neterror-view-certificate-link = Xem chứng chỉ
 neterror-trr-continue-this-time = Tiếp tục lần này
 neterror-disable-native-feedback-warning = Luôn luôn tiếp tục
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = Không thể truy cập trang web này
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Không thể kết nối đến máy chủ tại { $domain }.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Hãy thử các bước sau:
+neterror-search-cta-hint-check-address = Kiểm tra lại địa chỉ trang web
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Tìm kiếm trên web để tìm trang đó
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Tìm kiếm trang web bằng từ khoá <strong>“{ $query }”</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Tìm kiếm
+    .accesskey = s
+    .tooltiptext = Mở kết quả tìm kiếm trong thẻ mới
+neterror-search-cta-reload-button =
+    .label = Tải lại
+    .accesskey = R
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Đang tải
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Có vẻ như bạn đang ngoại tuyến. Hãy kết nối lại và thử lại.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Mã lỗi: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Tìm hiểu thêm
+
 ##
 
 neterror-pref-reset = Dường như là cài đặt bảo mật mạng của bạn có thể gây ra điều này. Bạn có muốn khôi phục cài đặt mặc định?

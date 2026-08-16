@@ -132,6 +132,7 @@ autofill-address-tel = Điện thoại
 autofill-address-email = Thư điện tử
 autofill-cancel-button = Hủy bỏ
 autofill-save-button = Lưu
+autofill-country-warning-message-2 = Tính năng tự động điền biểu mẫu hiện chỉ khả dụng ở một số quốc gia nhất định
 autofill-country-warning-message = Tự động điền biểu mẫu hiện chỉ có sẵn cho một số quốc gia nhất định.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Thêm thẻ tín dụng mới

@@ -397,6 +397,9 @@ appmenuitem-relay-title-signed-in = Xem email ẩn danh
 appmenuitem-relay-description = Che giấu email và điện thoại thật của bạn
 appmenuitem-services-relay-description = Khởi chạy bảng điều khiển email ẩn danh
 appmenuitem-vpn-title2 = Ẩn vị trí của bạn với { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Tăng cường khả năng bảo vệ trên tất cả thiết bị
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Tải xuống { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Làm cho hoạt động duyệt web của bạn khó bị theo dõi hơn
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bảo vệ toàn diện cho thiết bị
