@@ -261,6 +261,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Kömək
     .accesskey = K
+menu-get-help =
+    .label = Kömək Al
+    .accesskey = K
 menu-help-report-site-issue =
     .label = Sayt Problemini Bildir…
 # Label of the Help menu item. Either this or

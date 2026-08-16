@@ -380,6 +380,11 @@ update-application-heading =
     .label = { -brand-short-name } yeniləmələri
     .description = Yeniləmələr { -brand-short-name } səyyahının sürətini, stabilliyini və təhlükəsizliyini artırır.
 
+## Firefox support
+
+support-get-help =
+    .label = Köməl alın
+
 ## General Section - Performance
 
 performance-title = Məhsuldarlıq

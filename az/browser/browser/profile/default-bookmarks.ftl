@@ -8,3 +8,5 @@
 # versions.
 
 default-bookmarks-toolbarfolder-description = Əlfəcin Alət Sətrində görmək istədiyiniz əlfəcinləri bu qovluğa əlavə edin
+# link title for https://www.mozilla.org/firefox/help/
+default-bookmarks-firefox-get-help = Kömək Al

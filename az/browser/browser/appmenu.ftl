@@ -175,6 +175,9 @@ appmenu-search-history =
 appmenu-about =
     .label = { -brand-shorter-name } Haqqında
     .accesskey = H
+appmenu-get-help =
+    .label = Yardım əldə edin
+    .accesskey = y
 appmenu-help-report-site-issue =
     .label = Sayt Problemini Bildir…
 
