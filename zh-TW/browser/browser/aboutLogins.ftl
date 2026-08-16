@@ -93,7 +93,7 @@ about-logins-list-section-week = 最近 7 天
 about-logins-login-intro-heading-logged-out2 = 在找先前儲存過的登入資訊嗎？可開啟同步功能或直接匯入。
 about-logins-login-intro-heading-logged-in = 找不到同步的登入資訊。
 login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand-product-name } 過，請參考下列步驟，即可在此裝置使用：
-login-intro-instructions-fxa = 在您儲存登入資訊的裝置註冊或登入 { -fxaccount-brand-name(capitalization: "sentence") }。
+login-intro-instructions-fxa = 在您儲存登入資訊的裝置註冊或登入 { -fxaccount-brand-name }。
 about-logins-login-intro-heading-message = 將您的密碼儲存於安全的地方
 login-intro-description2 = 您儲存到 { -brand-product-name } 的所有密碼都會加密，另外我們也會注意網路上發生的資料外洩事件，並在您受影響時通知。<a data-l10n-name="breach-alert-link">了解更多資訊</a>
 login-intro-instructions-fxa2 = 在您儲存登入資訊的裝置，註冊或登入帳號。

@@ -206,7 +206,7 @@ ip-protection-bandwidth-left-this-month-gb = Preostalo ta mesec: { $usageLeft } 
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">Preostalo: { $usageLeft } GB od skupno { $maxUsage } GB
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">Preostalo: { $usageLeft } GB</span> od skupno { $maxUsage } GB
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -219,7 +219,7 @@ ip-protection-bandwidth-left-this-month-mb = Preostalo ta mesec: { $usageLeft } 
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">Preostalo: { $usageLeft } MB od skupno { $maxUsage } GB
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">Preostalo: { $usageLeft } MB</span> od skupno { $maxUsage } GB
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
