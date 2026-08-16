@@ -174,13 +174,22 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Bu konteyneri sil
 containers-remove-cancel-button = Bu konteyneri silmə
+browser-layout-header2 =
+    .label = Səyyah düzəni
+browser-layout-horizontal-tabs2 =
+    .label = Üfüqi vərəqlər
+    .title = Vərəqlər yuxarıda
+    .description = Vərəqlər yuxarıda
 browser-layout-vertical-tabs2 =
     .label = Şaquli vərəqlər
-    .title = Yan panelin kənarında vərəqlər
-    .description = Yan panelin kənarında vərəqlər
+    .title = Yan paneldə, kənarda vərəqlər
+    .description = Yan paneldə, kənarda vərəqlər
 browser-layout-show-sidebar2 =
     .label = Yan paneli göstər
     .description = Əsas görünüşdən çıxmadan əlfəcinlərə, telefonunuzdakı vərəqlərə, süni intellekt söhbət botlarına və digər funksiyalara sürətli çıxış əldə edin.
+browser-layout-header = Səyyah düzəni
+browser-layout-horizontal-tabs =
+    .label = Üfüqi vərəqlər
 browser-layout-vertical-tabs =
     .label = Şaquli vərəqlər
 
@@ -1091,6 +1100,8 @@ choose-download-folder-title = Endirmə qovluğunu seçin:
 
 preferences-appearance-header =
     .heading = Görünüş
+related-settings-tabs-browsing-link =
+    .label = Səyyah düzənini özəlləşdirin
 
 ## AI controls page
 

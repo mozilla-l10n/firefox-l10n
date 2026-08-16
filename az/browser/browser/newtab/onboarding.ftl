@@ -21,9 +21,13 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = İş masanızdan birbaş
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Vərəqlərinizin düzənini seçin
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Şaquli vərəqlər buradadır
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Şaquli vərəqlərlə tanışlıq
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Şaquli vərəqləri sınayın
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Üfüqi vərəqləri saxla
