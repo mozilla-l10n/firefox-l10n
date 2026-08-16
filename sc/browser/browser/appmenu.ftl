@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Identìfica·ti in { -brand-product-name }
 appmenuitem-fxa-manage-account = Gesti su contu
 fxa-menu-sync-status-on = Sa sincronizatzione est ativa
 fxa-menu-sync-status-off = Sa sincronizatzione est disativada
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Sincroniza is datos tuos
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Is datos tuos non sunt sincronizados
@@ -394,6 +397,9 @@ appmenuitem-relay-title-signed-in = Ammustra is alias de posta eletrònica
 appmenuitem-relay-description = Cua s'indiritzu de posta eletrònica e su nùmeru de telèfonu tuos reales
 appmenuitem-services-relay-description = Avia su pannellu de is alias de posta eletrònica
 appmenuitem-vpn-title2 = Cua sa positzione tua cun { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Otene un’amparu megioradu intre is dispositivos tuos
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Iscàrriga { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Faghe sa navigatzione tua prus mala a sighire
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Otene amparu pro su dispositivu intreu

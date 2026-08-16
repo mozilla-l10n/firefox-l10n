@@ -129,6 +129,7 @@ autofill-address-tel = Telèfonu
 autofill-address-email = Indiritzu de posta eletrònica
 autofill-cancel-button = Annulla
 autofill-save-button = Sarva
+autofill-country-warning-message-2 = Su cumpletamentu automàticu de formulàrios est a disponimentu isceti pro unos cantos paisos, pro immoe
 autofill-country-warning-message = Su cumpletamentu automàticu de formulàrios est a disponimentu isceti pro unos cantos paisos, pro immoe.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Agiunghe una carta de crèditu noa

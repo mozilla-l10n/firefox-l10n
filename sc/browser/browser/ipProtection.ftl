@@ -59,6 +59,8 @@ ipprotection-location-selection-callout-secondary-button = Iscarta
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Porta·ti sa VPN integrada cun tegus in Android
+ipprotection-android-promo-callout-description = Iscansiona su còdighe QR pro otènnere { -brand-product-name } pro Android e ativa sa VPN integrada pro una riservadesa megiorada in su telèfonu tuo. A disponimentu pro iOS luego.
 ipprotection-android-promo-callout-primary-button = Apo cumprèndidu
 
 ## Panel

@@ -212,10 +212,18 @@ newtab-privacy-message-info-2 = Su blocu de is sighidores agiudat a impedire chi
 newtab-privacy-message-info-2-cta = Ammustra is amparos
 newtab-privacy-message-info-3 = Meda sitos impreant sighidores pro chi aziendas chi no as mai bisitadu ti potzant sighire in lìnia.
 newtab-privacy-message-info-3-cta = Ammustra is amparos
+newtab-privacy-message-info-4 = Seberare { -brand-short-name } bolet nàrrere a seberare s’amparu dae s’incumintzu.
+newtab-privacy-message-info-4-cta = Ammustra is amparos
+newtab-privacy-message-info-5 = Sighidores blocados bolet nàrrere chi prus pagu aziendas ti podent sighire intre is sitos.
+newtab-privacy-message-info-5-cta = Ammustra is amparos
 newtab-privacy-message-info-6-cta = Àteras informatziones
+newtab-privacy-message-info-7-cta = Ammustra is amparos
 newtab-privacy-message-info-8-cta = Àteras informatziones
 newtab-privacy-message-info-9-cta = Cunfigura comente predefinidu
+newtab-privacy-message-info-10-cta = Bae a is craes
 newtab-privacy-message-info-11-cta = Àteras informatziones
+newtab-privacy-message-info-12-cta = Ammustra is amparos
+newtab-privacy-message-info-13-cta = Ammustra is amparos
 
 ## Privacy widget — promotional messages
 ##
@@ -224,19 +232,40 @@ newtab-privacy-message-info-11-cta = Àteras informatziones
 
 newtab-privacy-message-promo-monitor-1-cta = Àteras informatziones
 newtab-privacy-message-promo-monitor-2-cta = Àteras informatziones
+newtab-privacy-message-promo-signin-1 = Mantenne sinnalibros, craes e ischedas tzifrados intre dispositivos cun su contu tuo de { -vendor-short-name }.
 newtab-privacy-message-promo-signin-1-cta = Identìfica·ti
 newtab-privacy-message-promo-vpn-1-cta = Aberi sa VPN
 newtab-privacy-message-promo-vpn-2-cta = Aberi sa VPN
 newtab-privacy-message-promo-vpn-3-cta = Aberi sa VPN
 newtab-privacy-message-promo-private-window-1-cta = Aberi una ventana privada
 
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Ammustra is amparos
+newtab-privacy-message-milestone-month-cta = Ammustra is amparos
+newtab-privacy-message-milestone-year-cta = Ammustra is amparos
+newtab-privacy-message-milestone-total-cta = Ammustra is amparos
+newtab-privacy-message-daily-cap-cta = Ammustra is amparos
+newtab-privacy-message-streak-cta = Ammustra is amparos
+newtab-privacy-message-first-protection-cta = Ammustra is amparos
+
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Chirca sìmbulos de atziones
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Àteras informatziones
+# Heading for the Stocks widget.
+newtab-stocks-widget-title = Atziones
 
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Immàgine de sa die · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Immàgine de sa die
 # Attribution line shown under the title once a picture loads: an author
@@ -252,6 +281,14 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 newtab-picture-widget-menu-button =
     .title = Cunfiguratzione de s’immàgine de sa die
     .aria-label = Cunfiguratzione de s’immàgine de sa die
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .label = Cunfigura comente isfundu
+    .title = Cunfigura comente isfundu
+    .aria-label = Cunfigura s’immagine de oe comente isfundu
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Gesti is isfundos
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Cua s’immàgine de oe
@@ -263,6 +300,11 @@ newtab-picture-menu-learn-more = Àteras informatziones
 newtab-picture-show-button =
     .title = Ammustra s’immàgine de oe
     .aria-label = A
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Torra cras pro agatare un’immagine noa.
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Immàgine de sa die dae Wikimedia Commons
 
 ## Search box component.
 
