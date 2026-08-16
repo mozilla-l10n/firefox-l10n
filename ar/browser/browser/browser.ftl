@@ -348,7 +348,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = ابحث هذه المرة ب:
+search-one-offs-with-title = ابحث هذه المرة بـ:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = غيّر إعدادات البحث
 search-one-offs-context-open-new-tab =
@@ -769,7 +769,7 @@ urlbar-placeholder-search-mode-other-actions =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = ‫ابحث ب { $name } أو أدخِل عنوانا
+    .placeholder = ‫ابحث بـ { $name } أو أدخِل عنوانا
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -800,14 +800,14 @@ urlbar-revert-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = ابحث ب { $engine } في نافذة خاصة
+urlbar-result-action-search-in-private-w-engine = ابحث بـ { $engine } في نافذة خاصة
 # Used when the private browsing engine is the same as the default engine.
 urlbar-result-action-search-in-private = ابحث في نافذةٍ خاصة
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = ابحث ب { $engine }
+urlbar-result-action-search-w-engine = ابحث بـ { $engine }
 urlbar-result-action-sponsored = نتيجة مموّلة
 urlbar-result-action-switch-tab = انتقل إلى اللسان
 urlbar-result-action-move-tab-to-split-view = انقل اللسان إلى عرض منقسم
@@ -826,7 +826,7 @@ urlbar-result-action-visit-from-clipboard = زر من الحافظة
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-before-tabtosearch-web = اضغط Tab للبحث ب { $engine }
+urlbar-result-action-before-tabtosearch-web = اضغط Tab للبحث بـ { $engine }
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -836,7 +836,7 @@ urlbar-result-action-before-tabtosearch-other = اضغط Tab للبحث عبر {
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = ابحث ب { $engine } مباشرة من شريط العنوان
+urlbar-result-action-tabtosearch-web = ابحث بـ { $engine } مباشرة من شريط العنوان
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
@@ -1031,7 +1031,7 @@ urlbar-result-dates-ends-today = { $name } · ينتهي اليوم
 
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
-urlbar-result-search-with = ابحث ب { $engine }
+urlbar-result-search-with = ابحث بـ { $engine }
 # Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
 #  $keywords (String): the restrict keyword to enter search mode.
 #  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
@@ -1040,7 +1040,7 @@ urlbar-result-search-with-local-search-mode = { $keywords } - بحث { $localSea
 # Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
-urlbar-result-search-with-engine-keywords = { $keywords } - ابحث ب { $engine }
+urlbar-result-search-with-engine-keywords = { $keywords } - ابحث بـ { $engine }
 urlbar-searchmode-dropmarker =
     .tooltiptext = اختر محرك بحث
 urlbar-searchmode-bookmarks =
@@ -1055,7 +1055,7 @@ urlbar-searchmode-exit-button =
     .tooltiptext = أغلق
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-description = ابحث هذه المرة ب:
+urlbar-searchmode-popup-description = ابحث هذه المرة بـ:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = إعدادات البحث
 # Searchmode Switcher button
@@ -1094,10 +1094,10 @@ urlbar-searchmode-popup-add-engine = أضِف ”{ $engineName }“
     .title = أضِف محرك البحث ”{ $engineName }“
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-header = ابحث هذه المرة ب:
+urlbar-searchmode-popup-one-off-header = ابحث هذه المرة بـ:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
-urlbar-searchmode-popup-header = ابحث مستخدمًا:
+urlbar-searchmode-popup-header = ابحث بـ:
 urlbar-searchmode-popup-search-settings-panelitem = إعدادات البحث
 urlbar-searchmode-popup-settings-panelitem = الإعدادات
 

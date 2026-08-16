@@ -228,14 +228,14 @@ newtab-search-box-search-button =
     .aria-label = ابحث
 # Variables:
 #   $engine (string) - The name of the user's default search engine
-newtab-search-box-handoff-text = ‫ابحث ب { $engine } أو أدخِل عنوانا
+newtab-search-box-handoff-text = ‫ابحث بـ { $engine } أو أدخِل عنوانا
 newtab-search-box-handoff-text-no-engine = ابحث أو أدخِل عنوانا
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
-    .placeholder = ‫ابحث ب { $engine } أو أدخِل عنوانا
-    .title = ‫ابحث ب { $engine } أو أدخِل عنوانا
-    .aria-label = ‫ابحث ب { $engine } أو أدخِل عنوانا
+    .title = ‫ابحث بـ { $engine } أو أدخِل عنوانا
+    .aria-label = ‫ابحث بـ { $engine } أو أدخِل عنوانا
+    .placeholder = ‫ابحث بـ { $engine } أو أدخِل عنوانا
 newtab-search-box-handoff-input-no-engine =
     .placeholder = ابحث أو أدخِل عنوانا
     .title = ابحث أو أدخِل عنوانا

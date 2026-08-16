@@ -86,3 +86,14 @@ smart-window-ungrouped-row-label =
         [many] أُلغيَ { $count } لسانًا
        *[other] أُلغيَ { $count } لسان
     }
+
+## Action log
+
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = يبحث في الوِب باستخدام <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = بَحث في الوِب باستخدام <a data-l10n-name="exa-link">Exa</a>

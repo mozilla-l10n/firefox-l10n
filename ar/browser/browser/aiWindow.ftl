@@ -6,3 +6,9 @@
 ## Chrome
 
 smartwindow-document-title = لسان جديد
+
+## Input CTA
+
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = ابحث بـ { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = ابحث بـ…
