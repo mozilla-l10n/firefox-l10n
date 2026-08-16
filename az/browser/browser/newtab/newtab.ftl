@@ -318,6 +318,30 @@ newtab-widget-manage-title = Vicetlər
 newtab-widget-manage-widget-button =
     .label = Vicetləri idarə et
 
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Görünüş
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Daha çox mövzu göstər
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } Mövzuları
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Mövzularınız
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Mövzunu qur
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Daha çox mövzu kəşf et
+
+## New Tab Wallpapers
+
+#  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
+newtab-wallpaper-title = Divar kağızları
+newtab-wallpaper-toggle-title =
+    .label = Divar kağızları
+
 ## Strings for task / to-do list productivity widget
 
 newtab-widget-section-title = Vicetlər
