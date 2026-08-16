@@ -38,6 +38,8 @@ neterror-disable-native-feedback-warning = Заўсёды працягваць
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Паспрабуйце наступныя крокі:
 # Shown in place of the Search button while the search option is being prepared.
 neterror-search-cta-loading = Загрузка
 # $error (String) - The error code, for example "dnsNotFound".
