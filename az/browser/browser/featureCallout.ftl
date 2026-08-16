@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Sidebar Onboarding Strings
+
+sidebar-customization-callout-callout-button = Yan paneli özəlləşdir
+sidebar-customization-callout-dismiss-button = Yan paneli gizlət
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-privacy-notice-link = Məxfilik Bildirişi

@@ -5,6 +5,16 @@
 menu-view-genai-chat =
     .label = Sİ Söhbət Botu
 
+## Labels for sidebar customize panel
+
+sidebar-hide-tabs-and-sidebar =
+    .label = Vərəqləri və yan paneli gizlət
+
+## Labels for sidebar context menu items
+
+sidebar-context-menu-hide-sidebar =
+    .label = Yan paneli gizlət
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -25,3 +35,11 @@ sidebar-menu-close-ai-chatbot-tooltip-generic = Sİ söhbət botunu bağla ({ $s
 show-sidebars =
     .tooltiptext = Yan panelləri göstər
     .label = Yan panellər
+
+## Tooltips for the sidebar toolbar widget.
+
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .label = Yan panellər
+    .tooltiptext = Yan paneli gizlət ({ $shortcut })
