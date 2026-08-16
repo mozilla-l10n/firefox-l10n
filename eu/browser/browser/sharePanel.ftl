@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Partekatu orria
 share-panel-copy-link =
     .label = Kopiatu lotura
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Lotura kopiatuta
 share-panel-os-share =
     .label = Partekatu honekin…
 share-panel-mail =

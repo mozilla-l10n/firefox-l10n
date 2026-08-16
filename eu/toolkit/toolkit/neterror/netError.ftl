@@ -34,6 +34,25 @@ neterror-view-certificate-link = Ikusi ziurtagiria
 neterror-trr-continue-this-time = Jarraitu oraingo honetan
 neterror-disable-native-feedback-warning = Jarraitu beti
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = Ezin da gunearekin konektatu
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Ezin izan da { $domain } ostalariko zerbitzariarekin konektatu.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Probatu ondorengo urratsak:
+neterror-search-cta-hint-check-address = Egiaztatu webgunearen helbidea
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Bilatu gunea webean
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Bilatu <strong>"{ $query }”</strong> webean
+
 ##
 
 neterror-pref-reset = Badirudi zure sareko segurtasun-ezarpenek eragiten dutela hau. Ezarpen lehenetsiak berrezarri nahi dituzu?

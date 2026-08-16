@@ -397,6 +397,9 @@ appmenuitem-relay-title-signed-in = Ikusi posta-maskarak
 appmenuitem-relay-description = Maskaratu zure benetako helbide elektronikoa eta telefonoa
 appmenuitem-services-relay-description = Abiarazi helbide elektronikoen maskaren arbela
 appmenuitem-vpn-title2 = Ezkutatu zure kokapena { -mozilla-vpn-brand-name } erabiliz
+appmenuitem-vpn-description5 = Izan babes estra gailuen artean
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Deskargatu { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Zaildu zure nabigazioaren aztarna jarraitzea
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Eskuratu gailu osoaren babesa

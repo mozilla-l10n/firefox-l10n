@@ -132,6 +132,7 @@ autofill-address-tel = Telefonoa
 autofill-address-email = Helbide elektronikoa
 autofill-cancel-button = Utzi
 autofill-save-button = Gorde
+autofill-country-warning-message-2 = Inprimakiak automatikoki betetzea momentuz zenbait herrialdetan dago erabilgarri soilik
 autofill-country-warning-message = Inprimakiak automatikoki betetzea momentuz zenbait herrialdetan dago erabilgarri soilik.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Gehitu kreditu-txartel berria

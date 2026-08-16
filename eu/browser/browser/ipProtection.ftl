@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Baztertu
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Eraman aldean integratutako VPNa Androiden
+ipprotection-android-promo-callout-description = Eskaneatu QR kodea Androiderako { -brand-product-name } eskuratzeko eta gaitu integratutako VPNa pribatutasun gehiago izateko edonon. Laster iOS-en ere bai.
 ipprotection-android-promo-callout-primary-button = Ulertuta
 
 ## Panel
