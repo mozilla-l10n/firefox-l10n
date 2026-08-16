@@ -38,6 +38,7 @@ neterror-disable-native-feedback-warning = Siempre continuar
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
+neterror-search-cta-title = No se puede acceder a este sitio
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = No se pudo conectar al servidor en { $domain }.
@@ -65,6 +66,10 @@ neterror-search-cta-loading = Cargando
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Parece estar desconectado. Vuelva a conectar e intente nuevamente.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Código de error: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Conocer más
 
 ##
 
