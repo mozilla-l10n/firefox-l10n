@@ -23,6 +23,8 @@ addon-post-install-message = { $addonName } əlavə edildi.
 # Variables:
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = { $addonName } məhdudlaşdırılmış saytlarda çalışdırılsın?
+webext-quarantine-confirmation-line-1 = Məlumatlarınızı qorumaq üçün bu saytda bu uzantıya icazə verilməyəcək.
+webext-quarantine-confirmation-line-2 = Bu uzantıya etibar edirsinizsə, { -vendor-short-name } tərəfindən məhdudlaşdırılmış saytlarda məlumatlarınızı oxumasına və dəyişdirməsinə icazə verin.
 webext-quarantine-confirmation-allow =
     .label = İcazə ver
     .accesskey = A

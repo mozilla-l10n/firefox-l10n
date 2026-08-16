@@ -77,9 +77,19 @@ urlbar-tip-icon-description =
     .alt = Məsləhət:
 urlbar-result-menu-remove-from-history2 = Tarixçədən sil
     .accesskey = x
+urlbar-result-menu-tip-get-help2 = Yardım əldə edin
+    .accesskey = y
 urlbar-result-menu-remove-from-history =
     .label = Tarixçədən sil
     .accesskey = x
+urlbar-result-menu-tip-get-help =
+    .label = Yardım əldə edin
+    .accesskey = y
+urlbar-result-menu-show-less-frequently =
+    .label = Daha az sıxlıqda göstər
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Menyunu aç
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -91,7 +101,9 @@ urlbar-search-tips-onboard = Daha az yazın, daha çox tapın: Birbaşa ünvan s
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = Əlfəcinlər
+urlbar-search-mode-tabs = Vərəqlər
 urlbar-search-mode-history = Tarixçə
+urlbar-search-mode-actions = Əməliyyatlar
 
 ##
 
@@ -188,14 +200,32 @@ quickactions-cmd-addons2 = əlavələr
 quickactions-bookmarks2 = Əlfəcinləri idarə et
 quickactions-cmd-bookmarks = əlfəcinlər
 quickactions-cmd-clearhistory = tarixçəni təmizlə
+quickactions-cmd-downloads = endirilənlər
 # Opens about:addons page in the extensions section
 quickactions-extensions = Uzantıları idarə et
 quickactions-cmd-extensions = uzantılar
+quickactions-cmd-help = yardım, dəstək
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Rəng seçin
+quickactions-library = Kitabxananı aç
+quickactions-cmd-plugins = qoşmalar
+# Opens the print dialog
+quickactions-print2 = Səhifəni çap et
+quickactions-cmd-print = çap et
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Səhifəni PDF kimi saxla
+quickactions-cmd-savepdf2 = pdf, səhifəni saxla
 quickactions-cmd-private = məxfi səyahət
+quickactions-cmd-refresh = yenilə
+quickactions-cmd-restart = yenidən başlat
 # Opens the screenshot tool
 quickactions-screenshot3 = Ekran görüntüsü al
+quickactions-cmd-screenshot = ekran görüntüsü
 # Opens about:preferences
 quickactions-settings2 = Tənzimləmələri idarə et
+# Opens about:addons page in the themes section
+quickactions-themes = Mövzuları idarə et
+quickactions-cmd-themes = mövzular
 
 ## Bookmark Panel
 
@@ -216,6 +246,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Yadda saxlarkən redaktoru göstər
     .accesskey = S
+bookmark-panel-save-button =
+    .label = Saxla
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -224,6 +256,7 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-secure = Bağlantı təhlükəsizdir
 identity-connection-internal = Bu səhifə təhlükəsiz bir { -brand-short-name } səhifəsidir.
 identity-connection-file = Bu səhifə sizin kompüterinizdə saxlanıb.
 identity-extension-page = Bu səhifə uzantıdan yüklənib.
@@ -232,6 +265,7 @@ identity-passive-loaded = Bu səhifənin bəzi hissələri (şəkillər kimi) t�
 identity-active-loaded = Bu səhifədə qorumanı söndürmüsünüz.
 identity-weak-encryption = Bu səhifə zəif şifrləmə istifadə edir.
 identity-insecure-login-forms = Bu səhifədə girilən məlumatlar oğurlana bilər.
+identity-permissions-storage-access-header = Saytlararası çərəzlər
 identity-permissions-reload-hint = Dəyişikliklərin işləməsi üçün səhifəni yeniləyin.
 identity-clear-site-data =
     .label = Çərəzlər və Sayt Məlumatlarını Təmizlə…
@@ -263,6 +297,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Kiçilt
+browser-window-maximize-button =
+    .tooltiptext = Böyüt
 browser-window-close-button =
     .tooltiptext = Qapat
 

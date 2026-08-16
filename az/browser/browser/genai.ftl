@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Generative AI (GenAI) Settings section
+
+genai-settings-chat-chatgpt-links = ChatGPT-ni seçməklə siz, OpenAI-ın <a data-l10n-name="link1">istifadə şərtləri</a> və <a data-l10n-name="link2">məxfilik siyasəti</a> ilə razılaşırsız.
+
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
 ## These prompts have been made concise and direct in English because some chatbot providers
@@ -16,6 +20,8 @@ genai-prompts-summarize =
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Sİ söhbət botundan soruş
 genai-menu-summarize-page = Səhifənin xülasəsini hazırla
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
@@ -48,6 +54,15 @@ genai-onboarding-secondary = Bağla
 genai-onboarding-claude-learn = Claude haqqında daha çox öyrənin
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
+genai-onboarding-chatgpt-learn = ChatGPT haqqında daha çox öyrənin
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Copilot haqqında daha çox öyrənin
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Gemini haqqında daha çox öyrənin
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Le Chat haqqında daha çox öyrən

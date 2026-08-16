@@ -55,6 +55,7 @@ update-restarting = Yenidən başladılır…
 settings-update-restarting =
     .label = Yenidən başladılır…
 update-internal-error2 = Daxili xəta səbəbindən yeniləmələri yoxlamaq mümkün olmadı. Yeniləmələr <label data-l10n-name="manual-link">{ $displayUrl }</label> ünvanında mövcuddur.
+settings-update-internal-error = Daxili xəta səbəbindən yeniləmələri yoxlamaq mümkün olmadı. Yeniləmələr <a data-l10n-name="manual-link">{ $displayUrl }</a> ünvanında mövcuddur.
 
 ##
 

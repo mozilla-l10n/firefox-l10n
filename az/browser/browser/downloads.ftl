@@ -100,6 +100,12 @@ downloads-history =
 downloads-details =
     .title = Endirmə Məlumatları
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-accept-button =
+    .label = Aydındır
+    .accesskey = A
+
 ##
 
 downloads-clear-downloads-button =
@@ -112,10 +118,24 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Bu sessiya üçün endirmələr yoxdur.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } fayl daha endirilir
+       *[other] { $count } fayl daha endirilir
+    }
 
 ## Download errors
 
 downloads-error-alert-title = Endirmə Səhvi
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Endirilən fayl saxlanıla bilmir, çünki { $extension } tərəfindən əngəllənib.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Endirilən fayl saxlanıla bilmir, çünki bir uzantı tərəfindən əngəllənib.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Naməlum bir xəta yarandığı üçün endirilən fayl saxlana bilmir.

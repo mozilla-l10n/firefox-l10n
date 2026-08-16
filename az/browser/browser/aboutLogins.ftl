@@ -110,6 +110,13 @@ login-item-save-changes-button = Dəyişiklikləri yadda saxla
 login-item-save-new-button = Saxla
 login-item-cancel-button = Ləğv et
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-created = Yaradılıb
+login-item-timeline-action-updated = Yenilənib
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -141,6 +148,10 @@ confirmation-dialog-dismiss-button =
     .title = Ləğv et
 about-logins-confirm-remove-dialog-title = Bu hesab silinsin?
 confirm-delete-dialog-message = Bu əməliyyat geri qaytrıla bilməz.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Parol silinsin?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Bu hərəkəti geri qaytara bilmərsiniz.
 about-logins-confirm-remove-dialog-confirm-button = Sil
 
 ## Variables
