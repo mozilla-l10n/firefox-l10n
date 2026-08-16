@@ -621,7 +621,7 @@ mlmodel-addon-detail-model-card-link-label = Visa på Hugging Face
 
 find-more-addons-promo =
     .heading = Forma { -brand-product-name } på ditt sätt
-    .message = Lägg till verktyg och stilar som passar dina behov och smak.
+    .message = Lägg till verktyg och stilar som passar dina behov och din smak.
 find-more-addons-promo-open-amo-button = Utforska tillägg och teman
 
 ## Promo footer shown in the about:addons extensions list view when
@@ -665,8 +665,8 @@ themes-mode-device =
 aboutaddons-themes-picker-heading =
     .heading = { -brand-product-name } teman
 # Show more / show less button at the bottom of the themes picker
-aboutaddons-themes-picker-see-more = Visa mer
-aboutaddons-themes-picker-see-less = Visa mindre
+aboutaddons-themes-picker-see-more = Visa fler
+aboutaddons-themes-picker-see-less = Visa färre
 
 ## Enable/disable/install buttons on each theme card inside the theme picker.
 

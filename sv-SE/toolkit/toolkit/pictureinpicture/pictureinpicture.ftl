@@ -73,13 +73,6 @@ pictureinpicture-subtitles-label = Undertexter
 # after selecting the playback speed button.
 pictureinpicture-playback-rate-panel-accessible = Inställningar för uppspelningshastighet
 pictureinpicture-playback-rate-label = Uppspelningshastighet
-# The live readout of the current playback speed shown in the playback speed
-# panel, updated as the user moves the slider. Unlike the preset labels, whole
-# numbers are not padded with a trailing ".0" (e.g. "1×", "1.05×", "1.25×",
-# "2×").
-# Variables:
-#   $rate (number) - The current playback rate, e.g. 1.5.
-pictureinpicture-playback-rate-value = { NUMBER($rate) }×
 # Label for a playback speed preset button in the playback speed panel. Unlike
 # the live readout, whole number rates are padded to one decimal place
 # (e.g. "1.0×", "2.0×"). Other rates are shown as-is (e.g. "0.75×", "1.25×").
