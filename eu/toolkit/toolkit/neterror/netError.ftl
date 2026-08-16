@@ -52,6 +52,24 @@ neterror-search-cta-hint-search = Bilatu gunea webean
 # load, for example "best hiking boots reviews". The query and the quotation
 # marks around it are emphasized.
 neterror-search-cta-hint-search-query = Bilatu <strong>"{ $query }”</strong> webean
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Bilatu
+    .accesskey = B
+    .tooltiptext = Bilaketa-emaitzak fitxa berrian irekitzen ditu
+neterror-search-cta-reload-button =
+    .label = Berritu
+    .accesskey = B
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Kargatzen
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Badirudi lineaz kanpo zaudela. Birkonektatu eta saiatu berriro.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Errore-kodea: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Argibide gehiago
 
 ##
 
