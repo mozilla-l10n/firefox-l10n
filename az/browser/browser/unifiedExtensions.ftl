@@ -5,3 +5,8 @@
 
 ### These strings appear in the Unified Extensions panel.
 
+
+## Panel
+
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Uzantılarla veb səyahət təcrübənizi yaxşılaşdırın

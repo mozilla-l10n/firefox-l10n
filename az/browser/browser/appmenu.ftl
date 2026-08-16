@@ -88,8 +88,15 @@ appmenu-remote-tabs-connectdevice =
     .label = Başqa Cihazı Qoş
 appmenu-remote-tabs-unverified = Hesabınız təsdiqlənməlidir.
 appmenuitem-fxa-manage-account = Hesabı idarə et
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Məlumatlarınızı Sinxronlaşdırın
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Məlumatlarınız sinxronlaşdırılmır
 appmenu-account-header = Hesab
 appmenu-fxa-signed-in-label = Daxil ol
+appmenu-fxa-sign-in-promo-message = Məlumatlarınız hər yerdə sizinlə olsunlar
 appmenu-fxa-setup-sync-new = Yandır
 appmenuitem-save-page =
     .label = Fərqli Saxla…
@@ -199,6 +206,11 @@ appmenu-other-protection-header3 = Məxfilik alətləri
 appmenu-other-profiles = Digər profillər
 appmenu-manage-profiles =
     .label = Profilləri idarə et
+appmenu-create-profile2 =
+    .label = Yeni Profil Yarat
+fxa-menu-create-profile-subpanel =
+    .title = Yeni profil yarat
+fxa-menu-create-profile-heading = Yeni profillə veb səyahət təcrübənizi yaxşılaşdırın
 fxa-menu-create-profile-description = Əlfəcinləriniz, parollarınız və tarixçənizi iş və fərdi səyahət üçün ayrı tutun.
 appmenu-profiles-2 =
     .label = Profillər

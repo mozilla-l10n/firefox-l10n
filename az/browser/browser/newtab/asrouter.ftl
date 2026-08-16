@@ -62,3 +62,7 @@ spotlight-pin-primary-button =
 ## { -brand-short-name } to launch when the computer starts up.
 
 launch-on-login-spotlight-pin-taskbar-checkbox = Tapşırıq panelinə bərkit
+
+## FxA Menu Message variants
+
+fxa-menu-message-backup-sync-primary-text = Məlumatlarınızı təhlükəsiz və sinxron şəkildə saxlayın
