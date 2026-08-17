@@ -853,6 +853,9 @@ preferences-accessibility-header =
     .heading = Atzessibilidade
 preferences-default-zoom-select =
     .aria-label = Ingrandimentu predefinidu
+preferences-fonts-advanced-settings =
+    .label = Cunfiguratziones avantzadas
+    .accesskey = C
 
 ## General Section - Proxy
 
@@ -2293,6 +2296,11 @@ preferences-doh-manage-exceptions2 =
     .label = Gesti is etzetziones
     .accesskey = z
 
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Cunfiguratziones avantzadas
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Iscrivania
@@ -2344,6 +2352,29 @@ issue-card-reset-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Amparu megioradu contra sa sighidura
+    .description = Is sitos impreant sighidores pro ti sighire in lìnia e t’ammustrare publitzidade non disigiada. { -brand-short-name } t’amparat durante sa navigatzione e blocat is sighidores in automàticu pro chi tèngias su controllu de su rastu digitale tuo.
+preferences-etp-level-standard =
+    .label = Istàndard (predefinidu)
+    .description = Amparu forte e fidadu chi funtzionant bene pro sa majoria de sitos.
+preferences-etp-level-custom =
+    .label = Personalizadu
+    .description = Sèbera cale amparos boles ativare o disativare.
+preferences-etp-status-advanced-button =
+    .label = Cunfiguratziones avantzadas
+preferences-etp-header =
+    .heading = Amparu megioradu contra sa sighidura
+preferences-etp-advanced-settings-group =
+    .label = Cunfiguratziones avantzadas
+    .description = Is sitos impreant sighidores pro ti sighire in lìnia e t’ammustrare publitzidade non disigiada. { -brand-short-name } t’amparat durante sa navigatzione e blocat sa majoria de sighidores in automàticu pro chi tèngias su controllu de su rastu digitale tuo.
+preferences-etp-customize-button =
+    .label = Personaliza s’amparu contra is sighiduras
+preferences-etp-manage-exceptions-button =
+    .label = Gesti is etzetziones
+    .description = Gesti sitos cun s'Amparu megioradu contra sa sighidura disativadu.
+preferences-etp-customize-header =
+    .heading = Personaliza s’amparu contra is sighiduras
 preferences-etp-reset =
     .label = Azera is personalizatziones
     .description = Torra a una cunfiguratzione de livellu de amparu predefinidu.
