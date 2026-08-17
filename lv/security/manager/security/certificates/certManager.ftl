@@ -13,8 +13,8 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Autoritātes
 certmgr-mine = Jums ir jūs identificējoši sertifikāti no šīm organizācijām
-certmgr-people = Jums failā ir šos cilvēkus identificējoši sertifikāti
-certmgr-ca = Jums failā ir šīs sertificēšanas autoritātes identificējoši sertifikāti
+certmgr-people = Datnē ir sertifikāti, kas norāda uz šo cilvēku identitāti
+certmgr-ca = Datnē ir sertifikāti, kas norāda uz šīm sertificēšanas autoritātēm
 certmgr-edit-ca-cert2 =
     .title = Rediģēt CA sertifikātu uzticamības iestatījumus
     .style = min-width: 48em;
@@ -151,7 +151,7 @@ add-exception-no-cert-long = Neizdevās iegūt šīs vietnes identifikācijas st
 
 ## Certificate export "Save as" and error dialogs
 
-save-cert-as = Saglabāt sertifikātu failā
+save-cert-as = Saglabāt sertifikātu datnē
 cert-format-base64 = X.509 sertifikāts (PEM)
 cert-format-base64-chain = X.509 sertifikāts ar ķēdi (PEM)
 cert-format-der = X.509 sertifikāts (DER)

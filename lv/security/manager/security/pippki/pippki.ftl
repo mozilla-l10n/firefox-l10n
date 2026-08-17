@@ -68,9 +68,9 @@ client-auth-cert-remember-label = Atcerēties šo izvēli:
 
 set-password-window =
     .title = Izvēlies sertifikāta dublējuma paroli
-set-password-message = Sertifikāta rezerves kopijas parole aizsargās izveidoto rezerves kopijas failu. Lai turpinātu obligāti jāievada parole.
+set-password-message = Sertifikāta dublējuma parole aizsargās izveidoto rezerves kopijas datni. Jāievada parole, lai turpinātu dublēšanu.
 set-password-backup-pw =
-    .value = Sertifikāta rezerves kopijas parole:
+    .value = Sertifikāta dublējuma parole:
 set-password-repeat-backup-pw =
-    .value = Sertifikāta rezerves kopijas parole (vēlreiz):
-set-password-reminder = Svarīgi: Ja aizmirsīsiet šo paroli, nevarēsiet atjaunot šo rezerves kopiju. Lūdzu saglabājiet to drošā vietā.
+    .value = Sertifikāta dublējuma parole (vēlreiz):
+set-password-reminder = Svarīgi: ja šī parole tiks aizmirsta, nebūs iespējams atjaunot šo dublējumu. Lūgums saglabāt to drošā vietā.
