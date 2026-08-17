@@ -87,7 +87,7 @@ certificate-viewer-authority-key-id = ID cheie de autoritate
 certificate-viewer-authority-info-aia = Informații despre autoritate (AIA)
 certificate-viewer-certificate-policies = Politicile certificatului
 certificate-viewer-embedded-scts = SCT înglobate
-certificate-viewer-crl-endpoints = Puncte de sfârșit CRL
+certificate-viewer-crl-endpoints = Puncte terminale CRL
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Descărcare
