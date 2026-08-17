@@ -87,9 +87,9 @@ exception-mgr-permanent =
 pk11-bad-password = Ievadīta nepareiza parole.
 pkcs12-decode-err = Nevar atkodēt failu.  Vai nu tas nav PKCS #12 formātā, ir bojāts vai arī tika ievadīta nepareiza parole.
 pkcs12-unknown-err-restore = Nezināmu iemeslu dēļ neizdevās atjaunot PKCS #12 failu.
-pkcs12-unknown-err-backup = Nezināmu iemeslu dēļ neizdevās izveidot PKCS #12 faila rezerves kopiju.
+pkcs12-unknown-err-backup = Nezināmu iemeslu dēļ neizdevās izveidot PKCS #12 dublējuma datni.
 pkcs12-unknown-err = Nezināmu iemeslu dēļ PKCS #12 darbība neizdevās.
-pkcs12-info-no-smartcard-backup = Nav iespējama sertifikātu rezerves kopiju veidošana no aparatūras drošības ierīces, piemēram viedkartes.
+pkcs12-info-no-smartcard-backup = Nav iespējams dublēt sertifikātus no aparatūras drošības ierīces, piemēram, viedkartes.
 pkcs12-dup-data = Sertifikāts un privātā atslēga jau ir šajā drošības ierīcē.
 
 ## PKCS#12 file dialogs

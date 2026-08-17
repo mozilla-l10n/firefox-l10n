@@ -67,7 +67,7 @@ client-auth-cert-remember-label = Atcerēties šo izvēli:
 ## Set password (p12) dialog
 
 set-password-window =
-    .title = Izvēlieties sertifikāta rezerves kopijas paroli
+    .title = Izvēlies sertifikāta dublējuma paroli
 set-password-message = Sertifikāta rezerves kopijas parole aizsargās izveidoto rezerves kopijas failu. Lai turpinātu obligāti jāievada parole.
 set-password-backup-pw =
     .value = Sertifikāta rezerves kopijas parole:

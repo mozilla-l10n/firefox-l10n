@@ -93,7 +93,7 @@ load-module-help-empty-module-name =
     .value = Moduļa nosaukums nevar būt tukšs.
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
-    .value = ‘Root Certs‘ ir rezervēts vārds un nevar tikt izmantots kā moduļa nosaukums.
+    .value = ‘Root Certs‘ ir aizņemts un nevar tikt izmantots kā moduļa nosaukums.
 add-module-failure = Nevar pievienot moduli
 del-module-warning = Vai jūs esat pārliecināts, ka vēlaties izdzēst šo drošības moduli?
 del-module-error = Nevar izdzēst moduli
