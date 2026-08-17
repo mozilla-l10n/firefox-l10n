@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Sdílet stránku
 share-panel-copy-link =
     .label = Kopírovat odkaz
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Odkaz zkopírován
 share-panel-os-share =
     .label = Sdílet pomocí…
 share-panel-mail =

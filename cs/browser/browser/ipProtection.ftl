@@ -128,6 +128,7 @@ ipprotection-location-selection-callout-secondary-button = Zavřít
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Vezměte si vestavěnou VPN s sebou na Android
 ipprotection-android-promo-callout-primary-button = Rozumím
 
 ## Panel

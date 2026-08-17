@@ -133,6 +133,15 @@ taskbar-tabs-media-callout-subtitle = Video yayın sitelerini { -brand-short-nam
 taskbar-tabs-value-prop-callout-title = Bu siteyi görev çubuğunuza ekleyin
 taskbar-tabs-value-prop-callout-subtitle = Tek tıklamayla kendi penceresinde ve basitleştirilmiş bir arayüzde başlatın.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Görev çubuğuna sabitle
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Windows 11’e geçerken daha önce kaydettiğiniz şeyleri kaybetmeyin.
