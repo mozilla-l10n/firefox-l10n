@@ -43,3 +43,8 @@ toolbox-always-on-top-enabled2 = Onemogoči možnost "vedno na vrhu"
     .title = Razvojna orodja se bodo znova zagnala
 toolbox-always-on-top-disabled2 = Omogoči možnost "vedno na vrhu"
     .title = Razvojna orodja se bodo znova zagnala
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-navigate-to-existing-mapping = Pojdi na obstoječo preslikavo
