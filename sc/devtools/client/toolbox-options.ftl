@@ -44,6 +44,10 @@ options-sourceeditor-expandtab-tooltip =
 options-sourceeditor-tabsize-label = Mannària de sa tabulatzione
 options-sourceeditor-keybinding-default-label = Predefinidu
 
+## Local Mode section
+
+options-local-mode-domain-label = Domìniu personalizadu:
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
