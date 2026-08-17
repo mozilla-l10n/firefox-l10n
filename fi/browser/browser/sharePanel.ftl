@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Jaa sivu
 share-panel-copy-link =
     .label = Kopioi linkki
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Linkki kopioitu
 share-panel-os-share =
     .label = Jaa…
 share-panel-mail =

@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Hylkää
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Ota sisäänrakennettu VPN mukaasi Androidilla
+ipprotection-android-promo-callout-description = Skannaa QR-koodi saadaksesi { -brand-product-name }in Androidille ja käytä sisäänrakennettua VPN:ää parantaaksesi yksityisyyttäsi liikkeellä ollessasi. Tulossa pian iOS:lle.
 ipprotection-android-promo-callout-primary-button = Selvä
 
 ## Panel

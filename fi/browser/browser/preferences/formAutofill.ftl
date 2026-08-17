@@ -132,6 +132,7 @@ autofill-address-tel = Puhelin
 autofill-address-email = Sähköposti
 autofill-cancel-button = Peruuta
 autofill-save-button = Tallenna
+autofill-country-warning-message-2 = Lomakkeen automaattinen täyttö on tällä hetkellä käytettävissä vain tietyissä maissa.
 autofill-country-warning-message = Lomakkeiden automaattitäyttö on tällä hetkellä käytettävissä vain joillekin maille.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Lisää uusi luottokortti

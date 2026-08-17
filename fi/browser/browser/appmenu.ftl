@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Kirjaudu { -brand-product-name }iin
 appmenuitem-fxa-manage-account = Hallinnoi tiliä
 fxa-menu-sync-status-on = Synkronointi on käytössä
 fxa-menu-sync-status-off = Synkronointi on pois käytöstä
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Synkronoi tietosi
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Tietosi eivät synkronoidu
@@ -394,6 +397,9 @@ appmenuitem-relay-title-signed-in = Näytä sähköpostimaskit
 appmenuitem-relay-description = Peitä oikea sähköpostiosoitteesi ja puhelinnumerosi
 appmenuitem-services-relay-description = Käynnistä sähköpostimaskien hallintapaneeli
 appmenuitem-vpn-title2 = Piilota sijaintisi { -mozilla-vpn-brand-name }:llä
+appmenuitem-vpn-description5 = Hanki lisäsuojausta kaikille laitteille
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Lataa { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Tee selaamisestasi vaikeammin jäljitettävää
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Hanki koko laitteen suojaus
