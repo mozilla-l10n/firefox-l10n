@@ -117,6 +117,14 @@ smart-window-confirm-group-tabs =
         [one] Agrupa { $count } ischeda
        *[other] Agrupa { $count } ischedas
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Aberi
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Aberi un’ischeda
+       *[other] Aberi { $count } ischedas
+    }
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -125,6 +133,9 @@ smart-window-grouped-tabs-label =
         [one] { $count } ischeda agrupada
        *[other] { $count } ischedas agrupadas
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Grupu de ischedas
 smart-window-grouped-tabs-row-label = Ischedas agrupadas
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Ischedas bogadas dae su grupu

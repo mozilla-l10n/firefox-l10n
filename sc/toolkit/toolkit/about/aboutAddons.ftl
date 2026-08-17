@@ -449,6 +449,12 @@ plugins-openh264-description = Mozilla installat in automàticu custu plugin pro
 plugins-widevine-name = Mòdulu de detzifratzione de cuntenutu Widevine frunidu dae Google Inc.
 plugins-widevine-description = Custu plugin permitit sa riprodutzione de cuntenutos multimediales tzifrados in cumpatibilidade cun is ispetzificatziones Encrypted Media Extensions. A s'ispissu, is sitos impreant sa tzifradura pro amparare is cuntenutos multimediales a pagamentu contra de sa copiadura. Bìsita https://www.w3.org/TR/encrypted-media/ pro àteras informatziones subra de Encrypted Media Extension.
 
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permissos e datos
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 

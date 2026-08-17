@@ -1473,6 +1473,9 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Cumpleta cun nòmines utente e craes in automàticu
     .accesskey = C
+forms-fill-usernames-and-passwords-2 =
+    .label = Sarva e cumpleta in automàticu nòmines de utente e craes
+    .accesskey = v
 forms-saved-passwords =
     .label = Craes sarvadas
     .accesskey = C
@@ -1630,6 +1633,10 @@ autofill-personal-info-manage-title =
 # This message is displayed when no passports are stored in Firefox
 passports-no-passports-stored-message =
     .label = No as sarvadu nissunu passaportu
+pane-passwords-autofill-title2 = Craes e cumpletamentu automàticu
+    .title = Craes e cumpletamentu automàticu
+preferences-passwords-autofill-header =
+    .heading = Craes e cumpletamentu automàticu
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -2049,6 +2056,10 @@ permissions-speaker2 =
     .label = Altoparlante
 permissions-notification2 =
     .label = Notìficas
+permissions-data-section =
+    .heading = Permissos e datos
+pane-permissions-data-title2 = Permissos e datos
+    .title = Permissos e datos
 
 ## Privacy Section - Data Collection
 
@@ -2094,6 +2105,10 @@ collection-backlogged-crash-reports2 =
     .label = Imbia sinnalatziones de faddina in automàticu
     .accesskey = I
 collection-backlogged-crash-reports-description = Custu agiudat { -vendor-short-name } a agatare e arrangiare is faddinas de su navigadore. Is informes podent incluire datos personale o sensìbiles.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Un’aspetu nou pro is cunfiguratziones de semper.
+    .message = Amus torradu a organizare custa pàgina pro chi siat prus fàtzile a dda lèghere e esplorare. Is cunfiguratziones personales non sunt istadas modificadas, totu est ancora inoghe. Cussìgiu: imprea sa chirca pro andare deretu a su chi ti serbit.
 settings-redesign-promo-dismiss-button =
     .label = Apo cumprèndidu
 addon-recommendations =
