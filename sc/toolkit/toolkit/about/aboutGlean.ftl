@@ -11,3 +11,8 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Cunfiguratziones aplicadas e ping imbiadu.
 about-glean-metrics-table-settings-button = Cunfiguratzione
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-custom =
+    .label = Pings personalizados

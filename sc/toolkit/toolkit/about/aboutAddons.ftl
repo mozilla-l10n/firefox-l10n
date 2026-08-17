@@ -455,6 +455,14 @@ plugins-widevine-description = Custu plugin permitit sa riprodutzione de cuntenu
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permissos e datos
 
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Agata s’estensione noa preferida tua
+    .message = Personaliza { -brand-product-name } cun ainas pro sa cuntzentratzione, sa riservadesa, is còmporas e àteru.
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 

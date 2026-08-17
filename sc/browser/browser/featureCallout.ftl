@@ -133,6 +133,19 @@ taskbar-tabs-media-callout-subtitle = Imprea is sitos de trasmissiones comente u
 taskbar-tabs-value-prop-callout-title = Agiunghe custu situ a sa barra de tareas
 taskbar-tabs-value-prop-callout-subtitle = Avia·ddu in sa ventanedda sua cun un’interfache simplificada cun unu clic isceti.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Abarra in connessione dae sa barra de tareas
+taskbar-tabs-value-prop-callout-title-v3 = Apica is sitos preferidos tuos a sa barra de tareas
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Apica a sa barra de is tareas
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Non perdas totu su chi as sarvadu durante sa tràmuda a Windows 11.

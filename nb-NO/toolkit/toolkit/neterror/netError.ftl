@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = Fortsett alltid
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Dette nettstedet kan ikke nås
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Klarte ikke å koble til serveren på { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Prøv disse stegene:
 # Shown when the Search button is offered, naming the exact query it will run.
