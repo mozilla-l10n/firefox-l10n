@@ -8,6 +8,9 @@
 
 about-unloads-page-title = پیاڌه کردن بلگه
 about-unloads-last-updated = ورۊ رسۊوی دیندایی: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-button-unload = و در کردن
+    .title = بلگه وا واروء ترین اوولویت ن و در کۊنین
+about-unloads-no-unloadable-tab = هیچ بلگه ای قابل و در کردن نؽ.
 about-unloads-column-priority = اولویت
 about-unloads-column-host = هاست
 about-unloads-column-last-accessed = دسرسی دیندایی
