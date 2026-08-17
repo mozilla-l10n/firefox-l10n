@@ -25,8 +25,8 @@ fxaccounts-avatar-button =
 menu =
     .title = Atvērt izvēlni
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Importēt datus no cita pārlūka…
-about-logins-menu-menuitem-import-from-a-file = Importēt no datnes…
+about-logins-menu-menuitem-import-from-another-browser = Ievietot datus no cita pārlūka…
+about-logins-menu-menuitem-import-from-a-file = Ievietot no datnes…
 about-logins-menu-menuitem-export-logins = Izgūt pieteikšanās vienumus…
 about-logins-menu-menuitem-remove-all-logins = Noņemt visus lietotājvārdus…
 about-logins-menu-menuitem-export-logins2 = Izgūt paroles…
@@ -107,7 +107,7 @@ about-logins-list-section-week = Pēdējās 7 dienās
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Meklējat saglabātos lietotājvārdus un paroles? Ieslēdziet sinhronizāciju vai importējiet tās.
+about-logins-login-intro-heading-logged-out2 = Meklē saglabātos pieteikšanās vienumus? Ieslēdz vienādošanu vai ievieto tās!
 about-logins-login-intro-heading-logged-in = Nav atrastu sinhronizēto lietotājvārdu un paroļu.
 login-intro-description = Ja esat saglabājuši savas paroles iekšā { -brand-product-name } uz citas ierīces,  šeit ir aprakstīts, kā tās dabūt:
 login-intro-instructions-fxa = Izveidojiet jaunu kontu uz sava { -fxaccount-brand-name } uz ierīces, kur tika saglabātas jūsu paroles.
@@ -116,9 +116,9 @@ login-intro-description2 = Visas paroles, kuras saglabājat uz { -brand-product-
 login-intro-instructions-fxa2 = Izveidojiet vai ierakstieties savā kontā uz ierīces, kur ir saglabāti jūsu lietotājvārdi.
 login-intro-instructions-fxa-settings = Ejiet uz Iestatījumi > Sinhronizācija > Ieslēgt sinhronizāciju… Atlasiet atzīmes rūtiņu LIetotājvārdi un paroles.
 login-intro-instructions-fxa-passwords-help = Apmeklējiet <a data-l10n-name="passwords-help-link">paroļu atbalstu</a>, lai saņemtu vairāk palīdzības.
-about-logins-intro-browser-only-import = Ja jūsu lietotājvārdi ir saglabāti citā pārlūkprogrammā, varat <a data-l10n-name="import-link">importēt tos uz { -brand-product-name }</a>.
-about-logins-intro-import2 = Ja jūsu lietotājvārdi ir saglabāti ārpus { -brand-product-name }, varat <a data-l10n-name="import-browser-link">importēt tos no citas pārlūkprogrammas</a> vai <a data-l10n-name="import-file-link">no datnes</a>
-about-logins-intro-import3 = Atlasiet augstāk esošo pluszīmes pogu, lai pievienotu paroli uzreiz. Varat arī <a data-l10n-name="import-browser-link">importēt paroles no citas pārlūkprogrammas</a> vai <a data-l10n-name="import-file-link">no datnes</a>.
+about-logins-intro-browser-only-import = Ja pieteikšanās vienumi ir saglabāti citā pārlūkā, tos var <a data-l10n-name="import-link">ievietot { -brand-product-name }</a>.
+about-logins-intro-import2 = Ja pieteikšanās vienumi ir saglabāti ārpus { -brand-product-name }, tos var <a data-l10n-name="import-browser-link">ievietot no cita pārlūka</a> vai <a data-l10n-name="import-file-link">datnes</a>
+about-logins-intro-import3 = Jāatlasa augstāk esošā plus zīmes poga, lai uzreiz pievienotu paroli. Paroles var arī <a data-l10n-name="import-browser-link">ievietot no cita pārlūka</a> vai <a data-l10n-name="import-file-link">datnes</a>.
 
 ## Login
 
@@ -322,8 +322,8 @@ about-logins-confirm-export-dialog-message2 =
     Izgūšanas laikā paroles tiek saglabātas datnē ar lasāmā veidā.
     Kad datnes izmantošana ir pabeigta, ir ieteicams to izdzēst, lai citi, kuri izmanto šo ierīci, nevarētu redzēt Tavas paroles.
 about-logins-confirm-export-dialog-confirm-button2 = Turpināt izgūšanu
-about-logins-alert-import-title = Importēšana pabeigta
-about-logins-alert-import-message = Skatīt detalizētu importēšanas kopsavilkumu
+about-logins-alert-import-title = Ievietošana pabeigta
+about-logins-alert-import-message = Skatīt izvērstu ievietošanas kopsavilkumu
 confirm-discard-changes-dialog-title = Vai atmest nesaglabātās izmaiņas?
 confirm-discard-changes-dialog-message = Visas nesaglabātās izmaiņas tiks zaudētas.
 confirm-discard-changes-dialog-confirm-button = Atmest
@@ -380,7 +380,7 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Importēt lietotājvārdu datni
+about-logins-import-file-picker-title = Ievietot pieteikšanās vienumu datni
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Importēt paroles uz { -brand-short-name }
 about-logins-import-file-picker-import-button = Importēt
