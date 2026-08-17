@@ -38,8 +38,29 @@ neterror-disable-native-feedback-warning = Hald alltid fram
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
+neterror-search-cta-title = Kan ikkje nå denne nettstaden
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Klarte ikkje å koble til serveren på { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Prøv desse stega:
+neterror-search-cta-hint-check-address = Dobbeltsjekk nettstadsadressa
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Søk på nettet for å finne nettstaden
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Søk på nettet etter <strong>«{ $query }»</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Søk
+    .accesskey = S
+    .tooltiptext = Opnar søkjeresultata i ei ny fane
+neterror-search-cta-reload-button =
+    .label = Last på nytt
+    .accesskey = L
 # Shown in place of the Search button while the search option is being prepared.
 neterror-search-cta-loading = Lastar
 # $error (String) - The error code, for example "dnsNotFound".

@@ -132,6 +132,7 @@ autofill-address-tel = Telefon
 autofill-address-email = E-post
 autofill-cancel-button = Avbryt
 autofill-save-button = Lagre
+autofill-country-warning-message-2 = Automatisk utfylling av skjema er for tida berre tilgjengeleg i enkelte land
 autofill-country-warning-message = Automatisk utfylling av skjema er for tida berre tilgjengeleg i enkelte land.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Legg til nytt kredittkort

@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Ignorer
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Ta med deg innebygd VPN på Android
+ipprotection-android-promo-callout-description = Skann QR-koden for å få { -brand-product-name } for Android, og slå på innebygd VPN for meir personvern på farta. Kjem snart til iOS.
 ipprotection-android-promo-callout-primary-button = Eg forstår
 
 ## Panel
