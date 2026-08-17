@@ -136,6 +136,7 @@ autofill-address-tel = Telefon
 autofill-address-email = E-mailová adresa
 autofill-cancel-button = Zrušit
 autofill-save-button = Uložit
+autofill-country-warning-message-2 = Automatické vyplňování formulářů je v současné době k dispozici pouze v některých zemích
 autofill-country-warning-message = Automatické vyplňování formulářů nyní funguje jenom pro některé země.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Přidat novou platební kartu

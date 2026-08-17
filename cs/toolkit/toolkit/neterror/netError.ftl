@@ -38,6 +38,20 @@ neterror-disable-native-feedback-warning = Vždy pokračovat
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
+neterror-search-cta-title = Tuto stránku nelze načíst
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Nepodařilo se připojit k serveru { $domain }.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Zkuste následující kroky:
+neterror-search-cta-hint-check-address = Důkladně zkontrolujte adresu webové stránky
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Proveďte vyhledávání na webu
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Vyhledejte na webu <strong>„{ $query }"</strong>
 # .tooltiptext doubles as the button's accessible description, so it explains
 # that results open in a new tab.
 neterror-search-cta-search-button =

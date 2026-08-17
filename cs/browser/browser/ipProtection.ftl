@@ -129,6 +129,7 @@ ipprotection-location-selection-callout-secondary-button = Zavřít
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-title = Vezměte si vestavěnou VPN s sebou na Android
+ipprotection-android-promo-callout-description = Naskenujte QR kód a stáhněte si { -brand-product-name } pro Android a zapněte integrovanou VPN, abyste měli větší soukromí i na cestách. Brzy bude k dispozici i pro iOS.
 ipprotection-android-promo-callout-primary-button = Rozumím
 
 ## Panel
