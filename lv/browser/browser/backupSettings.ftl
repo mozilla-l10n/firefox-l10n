@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 settings-data-backup-header2 =
-    .label = Rezerves kopija
-    .description = Automātiski aizsargā jūsu grāmatzīmes, vēsturi un citus datus.
-settings-data-backup-toggle = Pārvaldīt rezerves kopiju
-settings-data-backup-trigger-button = Izveidot rezerves kopiju
+    .label = Dublējums
+    .description = Automātiski aizsargā grāmatzīmes, vēsturi un citus datus.
+settings-data-backup-toggle = Pārvaldīt dublējumu
+settings-data-backup-trigger-button = Dublēt tagad
 settings-data-backup-scheduled-backups-on2 =
-    .label = Rezerves kopija ir ieslēgta
+    .label = Dublēšana ir ieslēgta

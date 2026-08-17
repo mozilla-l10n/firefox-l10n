@@ -11,12 +11,12 @@ compatibility-all-elements-header = Visas problēmas
 ## Message used as labels for the type of issue
 
 compatibility-issue-deprecated = (novecojis)
-compatibility-issue-experimental = (eksperimentāls)
-compatibility-issue-prefixneeded = (nepieciešams prefikss)
-compatibility-issue-deprecated-experimental = (novecojis, eksperimentāls)
-compatibility-issue-deprecated-prefixneeded = (novecojis, nepieciešams prefikss)
-compatibility-issue-experimental-prefixneeded = (eksperimentāls, nepieciešams prefikss)
-compatibility-issue-deprecated-experimental-prefixneeded = (novecojis, eksperimentāls, nepieciešams prefikss)
+compatibility-issue-experimental = (izmēģinājuma)
+compatibility-issue-prefixneeded = (nepieciešams priedēklis)
+compatibility-issue-deprecated-experimental = (novecojis, izmēģinājuma)
+compatibility-issue-deprecated-prefixneeded = (novecojis, nepieciešams priedēklis)
+compatibility-issue-experimental-prefixneeded = (izmēģinājuma, nepieciešams priedēklis)
+compatibility-issue-deprecated-experimental-prefixneeded = (novecojis, izmēģinājuma, nepieciešams priedēklis)
 
 ## Messages used as labels and titles for buttons in the footer
 
