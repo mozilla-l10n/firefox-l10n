@@ -132,6 +132,7 @@ autofill-address-tel = Număr de telefon
 autofill-address-email = E-mail
 autofill-cancel-button = Anulează
 autofill-save-button = Salvează
+autofill-country-warning-message-2 = Completarea automată a formularelor este disponibilă în prezent numai pentru anumite țări
 autofill-country-warning-message = Completarea automată a formularelor este în prezent disponibilă numai pentru anumite țări.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Adaugă card de credit nou

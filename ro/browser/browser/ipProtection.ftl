@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Închide
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Ia VPN-ul încorporat cu tine pe Android
+ipprotection-android-promo-callout-description = Scanează codul QR pentru a obține { -brand-product-name } pentru Android și activează VPN-ul încorporat pentru mai multă confidențialitate din mers. În curând și pe iOS.
 ipprotection-android-promo-callout-primary-button = Am înțeles
 
 ## Panel

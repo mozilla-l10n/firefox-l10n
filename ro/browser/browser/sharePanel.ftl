@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Partajează pagina
 share-panel-copy-link =
     .label = Copiază linkul
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Link copiat
 share-panel-os-share =
     .label = Partajează cu…
 share-panel-mail =
