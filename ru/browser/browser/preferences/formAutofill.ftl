@@ -132,6 +132,7 @@ autofill-address-tel = Телефон
 autofill-address-email = Эл. почта
 autofill-cancel-button = Отмена
 autofill-save-button = Сохранить
+autofill-country-warning-message-2 = В настоящее время автозаполнение форм доступно только для некоторых стран
 autofill-country-warning-message = В настоящее время автозаполнение форм доступно только для некоторых стран.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Добавить новую банковскую карту
