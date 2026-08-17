@@ -397,6 +397,9 @@ appmenuitem-relay-title-signed-in = Просмотреть псевдонимы 
 appmenuitem-relay-description = Скройте свои настоящие электронную почту и телефон
 appmenuitem-services-relay-description = Запустить панель псевдонимов электронной почты
 appmenuitem-vpn-title2 = Скройте свое местоположение с помощью { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Получите дополнительную защиту на всех устройствах
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Скачать { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Усложните отслеживание вашего веб-сёрфинга
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Получите полную защиту устройства
