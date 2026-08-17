@@ -41,6 +41,9 @@ ai-window-toggleview-open-private =
     .label = گۊشیڌن نیمدری سیخومی نۊ
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = نیمدری کلاسیک
+toolbar-switcher-customizable-label =
+    .label = جاگورو کوننده { -smart-window-brand-name }
+    .tooltiptext = منجا نیمدری یل هۊشمند وو کلاسیک جاگورو بۊین.
 
 ## Input CTA
 
@@ -102,7 +105,10 @@ aiwindow-firstrun-model-fast-label-v2 = زل: { $shortName }
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = مودل { $model } و دست { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = انعتاف پزیر
 aiwindow-firstrun-model-allpurpose-body = موناسو سی بیشتر نیازا
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = انعتاف پزیر: { $shortName }
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = پؽشنهاڌ وابیڌه
 aiwindow-firstrun-model-personal-label = سیخومی
@@ -117,6 +123,7 @@ aiwindow-firstrun-next-button = بئڌی
 ## These are labels describing model types in the smartbar model select.
 
 aiwindow-input-model-select-button-label-fast = زل
+aiwindow-input-model-select-button-label-allpurpose = انعتاف پزیر
 aiwindow-input-model-select-button-label-personal = سیخومی
 aiwindow-input-model-select-button-label-custom = سفارشی
 aiwindow-input-model-select-button-description-custom = LLM خوتووݩ ن و کار بگیرین
