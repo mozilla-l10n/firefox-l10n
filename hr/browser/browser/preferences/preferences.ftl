@@ -1639,6 +1639,17 @@ forms-windows-sso-learn-more-link = Saznaj više
 forms-windows-sso-desc = Upravljaj računima u postavkama uređaja
 windows-passkey-settings-label = Upravljajte pristupnim ključevima u postavkama sustava
 
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Postavke ploče privatnosti
+    .description = Zatražite pomoć u zaštiti svojih podataka na mreži u { -brand-short-name }u.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Prikaži poruke o proboju
+    .accesskey = P
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -1721,6 +1732,31 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Nije dodana nijedna adresa
+personal-info-group =
+    .label = Osobni podaci
+autofill-personal-info-checkbox-message =
+    .label = Spremi i automatski ispuni osobne podatke
+autofill-personal-info-manage-button =
+    .label = Upravljaj osobnim informacijama
+passports-list-header =
+    .label = Putovnice
+passports-delete-passport-button-label =
+    .aria-label = Obriši
+passports-edit-passport-button-label =
+    .aria-label = Uredi
+passports-delete-passport-prompt-title = Izbriši ovu putovnicu?
+passports-delete-passport-prompt-confirm-button = Obriši
+passports-delete-passport-prompt-cancel-button = Odustani
+autofill-passports-add-button = Dodaj novu putovnicu
+autofill-personal-info-manage-title =
+    .heading = Upravljaj osobnim informacijama
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Nema dodanih putovnica
+pane-passwords-autofill-title2 = Lozinke i automatska ispuna
+    .title = Lozinke i automatska ispuna
+preferences-passwords-autofill-header =
+    .heading = Lozinke i automatska ispuna
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1785,6 +1821,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Postavke …
     .accesskey = t
+history-shutdown-exceptions =
+    .label = Upravljaj iznimkama
+    .accesskey = r
 history-clear-button =
     .label = Izbriši povijest
     .accesskey = s
@@ -2565,6 +2604,16 @@ preferences-ai-controls-header3 =
 ## Privacy and security status card
 
 security-privacy-status-problem-helper-label = Prikaži probleme
+security-privacy-status-update-needed-label = Dostupna je nova { -brand-short-name } inačica.
+security-privacy-status-update-error-label = { -brand-short-name } ima problema s ažuriranjem
+security-privacy-status-update-checking-label = { -brand-short-name } provjerava ažuriranja
+security-privacy-status-update-needed-description = Ažurirajte za najnovija ažuriranja brzine, stabilnosti i sigurnosti.
+security-privacy-status-update-button-label =
+    .label = Ažuriraj { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Štit s uskličnikom, koji izražava zabrinutost zbog vaših sigurnosnih upozorenja
+security-privacy-image-ok =
+    .alt = Štit s kvačicom, koji pokazuje da nemate neriješenih sigurnosnih problema
 security-privacy-issue-card =
     .heading = Sigurnosna upozorenja
 issue-card-reset-button =
@@ -2575,10 +2624,30 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Poboljšana zaštita od praćenja
+    .description = Stranice koriste alate za praćenje kako bi vas pratile na internetu i prikazivale jezive oglase. { -brand-short-name } vas štiti dok pregledavate, automatski blokirajući alate za praćenje kako biste imali kontrolu nad svojim digitalnim tragom.
+preferences-etp-level-standard =
+    .label = Standardno (zadano)
+    .description = Snažne, pouzdane zaštite koje glatko rade s većinom web stranica.
+preferences-etp-level-strict =
+    .label = Strogo
+    .description = Jače zaštite koje blokiraju više programa za praćenje, ali mogu uzrokovati prekid rada nekih web stranica.
+preferences-etp-level-custom =
+    .label = Prilagođeno
+    .description = Odaberite koje zaštite želite uključiti ili isključiti.
 preferences-etp-status-advanced-button =
     .label = Napredne postavke
+preferences-etp-tracker-count-enabled =
+    .label = Prikaži blokirane pratitelje u adresnoj traci
+preferences-etp-status-protections-dashboard-link =
+    .label = Pogledajte svoju personaliziranu nadzornu ploču za zaštitu
+    .description = Pogledajte koliko je sumnjivih programa za praćenje { -brand-short-name } blokirao za vas, uključujući programe za praćenje na društvenim mrežama, otiske prstiju i kriptorudare.
 preferences-etp-header =
     .heading = Poboljšana zaštita od praćenja
+preferences-etp-advanced-settings-group =
+    .label = Napredne postavke
+    .description = Stranice koriste alate za praćenje kako bi vas pratile na internetu i prikazivale jezive oglase. { -brand-short-name } vas štiti dok pregledavate, automatski blokirajući većinu alata za praćenje kako biste imali kontrolu nad svojim digitalnim tragom.
 preferences-etp-customize-button =
     .label = Prilagodi zaštitu od praćenja
 preferences-etp-reload-tabs-hint =
@@ -2587,6 +2656,14 @@ preferences-etp-reload-tabs-hint-button =
     .label = Ponovo učitaj sve kartice
 preferences-etp-rfp-warning-message =
     .message = Koristi Resist Fingerprinting (RFP) koji zamjenjuje neke { -brand-short-name } postavke zaštite otiska prsta. To može prouzročiti kvar kod nekih web-stranica.
+preferences-etp-level-warning-message =
+    .heading = Upozorenje! Neke stranice možda neće raditi kako se očekuje.
+    .message = Neke stranice ugrađuju alate za praćenje u svoje značajke ili sadržaj. Kada ih { -brand-short-name } blokira, stranica izgleda neispravno. Pokušajte koristiti opciju "Ispravi problem sa stranicom" ili isključiti zaštitu od praćenja na toj stranici.
+preferences-etp-manage-exceptions-button =
+    .label = Upravljaj iznimkama
+    .description = Upravljajte web stranicama na kojima je onemogućena Poboljšana zaštita od praćenja.
+preferences-etp-customize-header =
+    .heading = Prilagodi zaštitu od praćenja
 preferences-etp-reset-standard-button =
     .label = Resetiraj na standardno
 preferences-etp-reset-strict-button =
