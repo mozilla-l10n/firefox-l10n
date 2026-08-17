@@ -70,6 +70,23 @@ options-webconsole-split-console-label = Bật bảng điều khiển chia tách
 options-webconsole-split-console-tooltip =
     .title = Mở bảng điều khiển chia tách với phím Escape
 
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Giám sát mạng
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Kích thước tối đa request và response của body (đặt thành 0 để không giới hạn):
+options-netmonitor-body-limit-tooltip =
+    .title = Request và response của body vượt quá kích thước được chỉ định sẽ bị cắt bớt khi hiển thị hoặc tải xuống trong Trình giám sát mạng. Đặt thành 0 để không giới hạn.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Không giới hạn
+options-netmonitor-body-limit-button =
+    .title = Chỉnh sửa kích thước tối đa của request/response body.
+options-netmonitor-body-limit-restore-default =
+    .title = Khôi phục giá trị mặc định cho kích thước tối đa của request/response body.
+options-netmonitor-body-limit-set =
+    .title = Đặt giá trị hiện tại làm kích thước tối đa cho request/response body.
+
 ## Experimental section
 
 # The heading
@@ -127,6 +144,7 @@ options-sourceeditor-keybinding-default-label = Mặc định
 options-local-mode-label = Chế độ cục bộ (local mode)
 options-local-mode-only-work-locally = Chế độ cục bộ chỉ hoạt động cục bộ và bị vô hiệu hóa khi gỡ lỗi trong môi trường từ xa
 options-local-mode-behavior = Local Mode cho phép tải các tập tin cục bộ qua URL HTTPS mà không cần dependency bên ngoài. Các URL này chỉ có thể được tải từ các thẻ đang mở DevTools.
+options-local-mode-domain-label = Tên miền tùy chỉnh:
 options-local-mode-folder-label = Thư mục cục bộ:
 options-local-mode-choose-folder = Duyệt…
     .title = Chọn một thư mục cục bộ để lưu trữ mapping này
