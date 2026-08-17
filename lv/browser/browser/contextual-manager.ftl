@@ -16,19 +16,19 @@ contextual-manager-more-options-popup =
 contextual-manager-passwords-command-create = Pievienot paroli
 contextual-manager-passwords-command-import-from-browser = Importēt datus no cita pārlūka…
 contextual-manager-passwords-command-import = Importēt no datnes…
-contextual-manager-passwords-command-export = Eksportēt paroles
+contextual-manager-passwords-command-export = Izgūt paroles
 contextual-manager-passwords-command-remove-all = Noņemt visas paroles
 contextual-manager-passwords-command-options = Iespējas
 contextual-manager-passwords-command-settings = Iestatījumi
 contextual-manager-passwords-command-help = Palīdzība
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
-contextual-manager-passwords-export-os-auth-dialog-message-win = Lai eksportētu savas paroles, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Lai izgūtu savas paroles, jāievada Windows pieteikšanās dati. Tas palīdz aizsargāt kontu drošību.
 # This message can be seen when attempting to export a password in about:logins
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
-contextual-manager-passwords-export-os-auth-dialog-message-macosx = eksportēt saglabātās paroles
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = izgūt saglabātās paroles
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Lai apskatītu savu paroli, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
@@ -81,19 +81,19 @@ contextual-manager-passwords-import-error-button-try-again = Mēģināt vēlreiz
 contextual-manager-passwords-import-error-button-cancel = Atcelt
 contextual-manager-passwords-import-learn-more = Uzzināt par paroļu importēšanu
 contextual-manager-passwords-export-success-heading =
-    .heading = Paroles ir eksportētas
+    .heading = Paroles ir izgūtas
 contextual-manager-passwords-export-success-button = Gatavs
 # Export passwords to file dialog
-contextual-manager-export-passwords-dialog-title = Eksportēt paroles datnē?
+contextual-manager-export-passwords-dialog-title = Izgūt paroles datnē?
 # This string recommends to the user that they delete the exported password file that is saved on their local machine.
-contextual-manager-export-passwords-dialog-message = Pēc eksportēšanas iesakām to izdzēst, lai citi, kas varētu izmantot šo ierīci, nevarētu redzēt jūsu paroles.
-contextual-manager-export-passwords-dialog-confirm-button = Turpināt eksportēt
+contextual-manager-export-passwords-dialog-message = Pēc izgūšanas ir ieteicams to izdzēst, lai citi, kas varētu izmantot šo ierīci, nevarētu redzēt Tavas paroles.
+contextual-manager-export-passwords-dialog-confirm-button = Turpināt izgūšanu
 # Title of the file picker dialog
-contextual-manager-passwords-export-file-picker-title = Eksportēt paroles no { -brand-short-name }
+contextual-manager-passwords-export-file-picker-title = Izgūt paroles no { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # The resultant filename will end in .csv (added in code).
 contextual-manager-passwords-export-file-picker-default-filename = paroles
-contextual-manager-passwords-export-file-picker-export-button = Eksportēt
+contextual-manager-passwords-export-file-picker-export-button = Izgūt
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-export-file-picker-csv-filter-title =

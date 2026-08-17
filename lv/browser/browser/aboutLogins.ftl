@@ -200,12 +200,12 @@ about-logins-copy-password-os-auth-dialog-message-win = Lai kopētu savu paroli,
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopēt saglabāto paroli
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Lai eksportētu savus lietotājvārdus, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+about-logins-export-password-os-auth-dialog-message-win = Lai izgūtu savus pieteikšanās vienumus, jāievada savi Windows pieteikšanās dati. Tas palīdz aizsargāt kontu drošību.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = izgūt saglabātos lietotājvārdus un paroles
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message2-win = Lai eksportētu savas paroles, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+about-logins-export-password-os-auth-dialog-message2-win = Lai izgūtu savas paroles, jāievada Windows pieteikšanās dati. Tas palīdz aizsargāt kontu drošību.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = izgūt saglabātās paroles
@@ -319,9 +319,9 @@ about-logins-confirm-export-dialog-message = Tavas paroles tiks saglabātas kā 
 about-logins-confirm-export-dialog-confirm-button = Izgūt…
 about-logins-confirm-export-dialog-title2 = Piezīme par paroļu izgūšanu
 about-logins-confirm-export-dialog-message2 =
-    Eksportējot, jūsu paroles tiek saglabātas datnē ar lasāmu tekstu.
-    Kad esat pabeidzis lietot datni, ieteicams to izdzēst, lai citi, kas izmanto šo ierīci, nevarētu redzēt jūsu paroles.
-about-logins-confirm-export-dialog-confirm-button2 = Turpināt eksportēt
+    Izgūšanas laikā paroles tiek saglabātas datnē ar lasāmā veidā.
+    Kad datnes izmantošana ir pabeigta, ir ieteicams to izdzēst, lai citi, kuri izmanto šo ierīci, nevarētu redzēt Tavas paroles.
+about-logins-confirm-export-dialog-confirm-button2 = Turpināt izgūšanu
 about-logins-alert-import-title = Importēšana pabeigta
 about-logins-alert-import-message = Skatīt detalizētu importēšanas kopsavilkumu
 confirm-discard-changes-dialog-title = Vai atmest nesaglabātās izmaiņas?
@@ -359,16 +359,16 @@ about-logins-error-message-default = Radās kļūda, mēģinot saglabāt šo par
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Eksportēt lietotājvārdu datni
+about-logins-export-file-picker-title = Izgūt pieteikšanās vienumu datni
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = lietotājvārdi.csv
 # Title of the file picker dialog
-about-logins-export-file-picker-title2 = Eksportēt paroles no { -brand-short-name }
+about-logins-export-file-picker-title2 = Izgūt paroles no { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = paroles.csv
-about-logins-export-file-picker-export-button = Eksportēt
+about-logins-export-file-picker-export-button = Izgūt
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
