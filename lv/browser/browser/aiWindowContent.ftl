@@ -52,6 +52,8 @@ smart-window-closed-tabs-summary =
         [zero] Gatavs! Cilnes aizvērtas.
        *[other] Gatavs! Cilnes aizvērtas.
     }
+smart-window-closed-tabs-row-label = Aizvērtās cilnes
+smart-window-closed-and-restored-label = Aizvērtās un atjaunotās cilnes
 
 ## Action log
 
