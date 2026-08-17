@@ -26,7 +26,7 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } está revisando lo
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está revisando el texto que ha soltado según las políticas de datos de su organización. Esto puede tardar un momento.
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está revisando el texto que ha arrastrado según las políticas de datos de su organización. Esto puede tardar un momento.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } está revisando lo que ha imprimido según las políticas de datos de su organización. Esto puede tomar un tiempo.

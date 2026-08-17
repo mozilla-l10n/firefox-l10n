@@ -290,7 +290,7 @@ newtab-menu-report-this-ad = Informar sobre este anuncio
 newtab-privacy-modal-button-done = Cerrar
 newtab-privacy-modal-button-manage = Administrar la configuración de contenido patrocinado
 newtab-privacy-modal-header = Su privacidad es importante.
-newtab-privacy-modal-paragraph-2 = Además de ofrecer historias cautivadoras, también le mostramos contenido relevante y verificado de patrocinadores seleccionados. Tenga la seguridad de que <strong>sus datos de navegación permanecen unicamente en su copia instalada de { -brand-product-name }</strong>: nosotros no los vemos y nuestros patrocinadores tampoco.
+newtab-privacy-modal-paragraph-2 = Además de ofrecer historias cautivadoras, también le mostramos contenido relevante y verificado de patrocinadores seleccionados. Tenga la seguridad de que <strong>sus datos de navegación permanecen únicamente en su copia instalada de { -brand-product-name }</strong>: nosotros no los vemos y nuestros patrocinadores tampoco.
 newtab-privacy-modal-link = Conozca cómo funciona la privacidad en la nueva pestaña
 
 ##

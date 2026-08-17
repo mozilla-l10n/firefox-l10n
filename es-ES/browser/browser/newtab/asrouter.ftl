@@ -141,7 +141,7 @@ spotlight-public-wifi-vpn-link = Ahora no
 spotlight-better-internet-header = Un internet mejor comienza con usted
 spotlight-better-internet-body = Cuando usa { -brand-short-name }, está votando por una internet abierta y accesible que es mejor para todos.
 spotlight-peace-mind-header = Estamos siempre velando por usted
-spotlight-peace-mind-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3 000 rastreadores por usuario. Porque no queremos los rastreadores sean un perjucio de privacidad que se interpongan entre usted y el lado bueno del internet.
+spotlight-peace-mind-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3 000 rastreadores por usuario. Porque no queremos que los rastreadores sean un perjuicio de privacidad que se interpongan entre usted y el lado bueno del internet.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Mantener en el Dock

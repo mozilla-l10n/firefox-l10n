@@ -274,7 +274,7 @@ discopane-intro =
     proteger sus contraseñas, descargar vídeos, encontrar ofertas, bloquear publicidad,
     cambiar la apariencia del navegador y mucho más. Suelen ser terceros los que desarrollan
     estos pequeños programas de software. Le ofrecemos una selección de
-    <a data-l10n-name="learn-more-trigger">recomendaciones</a> de { -brand-product-name }  basadas en seguridad, rendimiento
+    <a data-l10n-name="learn-more-trigger">recomendaciones</a> de { -brand-product-name } basadas en seguridad, rendimiento
     y funcionalidad excepcionales.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan en otras extensiones que tiene instaladas, preferencias de su perfil y estadísticas de uso.

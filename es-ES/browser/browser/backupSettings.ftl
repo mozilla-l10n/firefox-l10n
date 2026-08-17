@@ -45,7 +45,7 @@ settings-data-create-backup-error = Hubo un error creando la copia de seguridad 
 settings-sensitive-data-encryption-description = Haga una copia de seguridad de contraseñas y métodos de pago, además de mantener todos sus datos seguros con cifrado.
 settings-data-toggle-encryption-label2 =
     .label = Haga una copia de seguridad de sus datos sensibles.
-    .description = Haga una copia de seguridad de sus contraseñas y métodos de pago, y manténga todos sus datos a salvo mediante cifrado.
+    .description = Haga una copia de seguridad de sus contraseñas y métodos de pago, y mantenga todos sus datos a salvo mediante cifrado.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nombre de archivo: { $fileName }

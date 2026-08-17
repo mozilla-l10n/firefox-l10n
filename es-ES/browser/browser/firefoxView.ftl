@@ -109,7 +109,7 @@ firefoxview-overview-header = Navegación reciente
 ## History in this context refers to browser history
 
 firefoxview-history-nav = Historial
-    .title = Historia
+    .title = Historial
 firefoxview-history-header = Historial
 firefoxview-history-context-delete = Eliminar del historial
     .accesskey = d
