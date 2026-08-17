@@ -154,6 +154,7 @@ smart-window-ungrouped-row-label =
 
 ## Action log
 
+action-log-searching-tabs = Chirca de ischedas in cursu...
 action-log-reading-page = Letura de sa pàgina
 action-log-searching-web = Chirca in su web
 action-log-searched-web = Chirca in su web cumpleta

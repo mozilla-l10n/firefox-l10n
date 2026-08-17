@@ -963,6 +963,10 @@ newtab-new-user-custom-wallpaper-title = Sèbera un’isfundu pro ti fàghere un
 newtab-new-user-custom-wallpaper-subtitle = Intende·ti a domo cun is isfundos e is colores personalizados pro is ischedas noas.
 newtab-new-user-custom-wallpaper-cta = Proa·ddu immoe
 
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-cta = Sèbera un’isfundu
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Iscàrriga { -brand-product-name } pro dispositivos mòbiles
@@ -1117,6 +1121,8 @@ newtab-widget-timer-menu-hide = Cua su temporizadore
 ##
 
 newtab-sports-widget-menu-learn-more = Àteras informatziones
+newtab-sports-widget-choose-wallpaper =
+    .label = Sèbera un’isfundu
 newtab-sports-widget-skip = Brinca
 newtab-sports-widget-cancel = Annulla
 newtab-sports-widget-back-button =
@@ -1136,6 +1142,11 @@ newtab-sports-widget-group-j = Grupu J
 newtab-sports-widget-group-k = Grupu K
 newtab-sports-widget-group-l = Grupu L
 
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = Sèbera un’isfundu
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -1148,16 +1159,26 @@ newtab-activation-window-message-dismiss-button =
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = Personaliza custu ispàtziu
+newtab-activation-window-message-customization-focus-message = Sèbera un’isfundu nou, agiunghe curtzadòrgios a is sitos preferidos e abarra informadu in pitzus de is istòrias chi ti interessant.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Cumintza a personalizare
 
 ## Strings for the Clock widget
 
+newtab-clock-widget-search-location-input =
+    .label = Positzione
+    .aria-label = Chirca una tzitade
+    .placeholder = Chirca una tzitade
 newtab-clock-widget-button-cancel = Annulla
 newtab-clock-widget-button-back =
     .title = A coa
     .aria-label = A coa
 newtab-clock-widget-button-save = Sarva
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Resurtados de sa chirca
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Noa York

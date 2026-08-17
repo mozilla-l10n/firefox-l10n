@@ -46,6 +46,7 @@ webext-perms-extra-warning-userScripts-short = Is scripts non verificados podent
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-searchTerms = tèrmines de chirca
 webext-perms-description-data-short-technicalAndInteraction = datos tècnicos e de interatzione
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.

@@ -28,6 +28,8 @@ fxa-menu-send-to-device =
             [one] Imbia s’ischeda a unu dispositivu
            *[other] Imbia { $tabCount } ischedas a unu dispositivu
         }
+fxviewtabrow-send-to-mobile-not-verified = Contu non verificadu
+fxviewtabrow-send-to-mobile-verify-account = Verìfica su contu tuo
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
@@ -44,6 +46,9 @@ fxa-menu-send-tab-to-device-description = Imbia deretu un'ischeda a cale si siat
 fxa-menu-sign-out =
     .label = Serra sa sessione…
 fxa-menu-sync-description = Atzede a su web dae ònnia logu
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Gesti su contu
 fxa-avatar-sign-in = Identìfica·ti
 fxa-avatar-sign-up = Registra·ti
 fxa-avatar-tooltip =

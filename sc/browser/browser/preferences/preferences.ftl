@@ -1008,6 +1008,7 @@ home-prefs-support-firefox-header =
 home-prefs-mission-message = Is patrotzinadores nostros nos agiudant in sa missione nostra de istantargiare unu web mègius
 home-prefs-mission-message-learn-more-link = Iscoberi comente
 home-prefs-manage-topics-link = Gesti is argumentos
+home-prefs-choose-wallpaper-link = Sèbera un’isfundu
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1139,6 +1140,9 @@ search-engine-group =
     .label = Motore de chirca predefinidu
 search-default-engine =
     .aria-label = Motore de chirca predefinidu
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Chirca
 
 ## Containers Section
 
@@ -1173,6 +1177,8 @@ containers-remove-button2 =
 
 sync-group-label =
     .label = Sincronizatzione
+account-group-label2 =
+    .label = Contu
 account-disabled-group =
     .label = Contu
     .description = Sa cunfiguratzione de su contu no est a disponimentu.
@@ -2321,6 +2327,17 @@ preferences-ai-controls-header3 =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } est in alerta
+security-privacy-status-ok-label = Amparu megioradu contra sa sighidura ativadu
+security-privacy-status-pending-trackers-label = Càrculu in cursu de su nùmeru de sighidores blocados dae { -brand-short-name } s’ùrtimu mese
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } sighidore blocadu in s’ùrtimu mese
+       *[other] { $trackerCount } sighidores blocados in s’ùrtimu mese
+    }
 security-privacy-status-update-needed-label = Nch’at una versione noa de { -brand-short-name } a disponimentu.
 issue-card-reset-button =
     .label = Azera
