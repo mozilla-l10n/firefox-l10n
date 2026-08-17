@@ -465,6 +465,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zumiraj samo tekst
     .accesskey = t
+preferences-text-zoom-override-warning2 =
+    .message = Ako je uključena mogućnost "Zumiraj samo tekst", a zadano zumiranje nije 100%, neke web stranice možda neće ispravno prikazivati sadržaj.
 preferences-text-zoom-override-warning =
     .message = Upozorenje: Ako odabereš „Zumiraj samo tekst”, a tvoje standardno zumiranje nije postavljeno na 100 %, to može pokvariti prikaz nekih stranica ili sadržaja.
 language-header = Jezik
@@ -737,6 +739,9 @@ update-history-2 =
     .accesskey = P
 update-application-installation =
     .label = Instalacija
+update-application-auto-2 =
+    .label = Automatski instalira dopune (preporučeno)
+    .accesskey = A
 update-history =
     .label = Prikaži povijest aktualiziranja …
     .accesskey = P
@@ -744,6 +749,9 @@ update-application-allow-description = Dozvoli { -brand-short-name(case: "dat") 
 update-application-auto =
     .label = Automatski instaliraj nove verzije (preporučeno)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Provjeri ažuriranja, ali odaberi kada ih instalirati
+    .accesskey = P
 update-application-check-choose =
     .label = Traži nove verzije, ali pitaj prije instaliranja
     .accesskey = T
@@ -755,6 +763,9 @@ update-application-background-enabled =
     .accesskey = K
 update-application-warning-cross-user-setting-2 =
     .message = Ove postavke će se primijeniti na sve račune u Windowsu i profile za { -brand-short-name } koji koriste ovu instalaciju programa { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Prikaži manje podsjetnika za ažuriranje
+    .accesskey = n
 update-application-warning-cross-user-setting = Ove postavke će se primijeniti na sve račune u Windowsu i profile za { -brand-short-name } koji koriste ovu instalaciju programa { -brand-short-name }.
 update-application-use-service =
     .label = Koristi pozadinsku uslugu za instaliranje novih verzija
@@ -777,6 +788,21 @@ update-in-progress-ok-button = O&dbaci
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
+
+## About Firefox
+
+about-firefox-header =
+    .heading = O { -brand-short-name(case: "loc") }
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name } ažuriranja
+    .description = Ažuriranja poboljšavaju { -brand-short-name } brzinu, stabilnost i sigurnost.
+update-application-suppress-prompts-heading =
+    .label = Obavijesti
+update-application-updates-managed-by-os =
+    .message = Ažuriranjima upravlja vaš operativni sustav
 
 ## Firefox support
 
@@ -809,6 +835,10 @@ performance-default-content-process-count =
     .label = { $num } (standardno)
 performance-group =
     .label = Performanca
+performance-use-recommended-settings-checkbox-2 =
+    .label = Koristi preporučene postavke performansi
+    .accesskey = u
+    .description = Ove postavke su prilagođene vašem hardveru i operativnom sustavu.
 
 ## Accessibility page
 
@@ -818,6 +848,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Koristi automatsko klizanje
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Navigacija i pomicanje pomoću tipkovnice
+motion-and-link-group =
+    .label = Stiliziranje pokreta i poveznica
 browsing-use-smooth-scrolling =
     .label = Koristi uglađeno klizanje
     .accesskey = u
@@ -839,6 +873,16 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Traži tekst već prilikom upisivanja
     .accesskey = k
+settings-keyboard-shortcuts-group =
+    .label = Tipkovnički prečaci
+    .description = Kontrolirajte kako se krećete i komunicirate s { -brand-short-name }om.
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Prilagodite tipkovničke prečace
+settings-media-group =
+    .label = Mediji
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Koristite sliku u slici
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Aktiviraj video kontrole za „Slika-u-slici”
     .accesskey = O
@@ -849,6 +893,8 @@ browsing-picture-in-picture-learn-more = Saznaj više
 browsing-media-control =
     .label = Upravljaj medijskim sadržajem pomoću tipkovnice, slušalica ili virtualnog sučelja
     .accesskey = v
+recommendations-group =
+    .label = Preporuke
 browsing-media-control-learn-more = Saznaj više
 browsing-cfr-recommendations =
     .label = Preporuči dodatke tijekom pregledavanja
@@ -859,6 +905,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saznaj više
 browsing-group =
     .label = Pregledavanje
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Pristupačnost
+preferences-default-zoom-select =
+    .aria-label = Standardni postotak zumiranja
+preferences-fonts-family =
+    .label = Obitelj fontova
+    .accesskey = O
+preferences-fonts-size =
+    .label = Veličina fonta
+    .accesskey = V
+preferences-fonts-advanced-settings =
+    .label = Napredne postavke
+    .accesskey = a
 
 ## General Section - Proxy
 
@@ -1145,6 +1207,7 @@ search-edit-engine =
     .label = Uredi
     .accesskey = U
 search-find-more-link = Pronađi daljnje tražilice
+search-filtering-for-add-engine = Dodaj tražilicu
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Postojeća ključna riječ
@@ -1163,6 +1226,9 @@ search-engine-group =
     .label = Standardna tražilica
 search-default-engine =
     .aria-label = Standardna tražilica
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Pretraživanje
 
 ## Containers Section
 
@@ -1179,6 +1245,27 @@ containers-settings-button =
     .label = Postavke
 containers-remove-button =
     .label = Ukloni
+containers-section-header2 =
+    .heading = Postavke kontejnera
+containers-card-header2 =
+    .label = Kontejneri
+    .description = Odvoji kolačiće po kontejnerima da možeš koristiti različite račune na istoj stranici i ograničiti međustranično praćenje.
+containers-add-button2 =
+    .label = Dodaj novi kontejner
+    .accesskey = a
+containers-new-tab-check3 =
+    .label = Odaberi kontejner za svaku novu karticu
+    .accesskey = s
+containers-new-tab-check2 =
+    .label = Odaberi kontejner za svaku novu karticu
+    .accesskey = s
+    .description = Ovo će otvoriti izbornik kontejnera svaki put kada pritisnete tipku za otvaranje nove kartice.
+containers-settings-button2 =
+    .title = Postavke
+containers-remove-button3 =
+    .title = Obriši
+containers-remove-button2 =
+    .title = Ukloni
 
 ## Account and sync
 
@@ -1186,6 +1273,9 @@ sync-group-label =
     .label = Sinkronizacija
 account-group-label2 =
     .label = Račun
+account-disabled-group =
+    .label = Račun
+    .description = Postavke računa nisu dostupne.
 account-placeholder2 =
     .label = Nisi prijavljen/a
     .description = Prijavi se da bi tvoji podaci ostali privatni, šifrirani i odmah dostupni svejedno gdje koristiš { -brand-short-name }.
@@ -1514,6 +1604,7 @@ forms-primary-pw-use-2 =
     .accesskey = u
 forms-primary-pw-set =
     .label = Postavi primarnu lozinku
+forms-primary-pw-on-2 = Primarna lozinka je <strong>UKLJUČENA</strong>
 forms-primary-pw-on =
     .label = Primarna lozinka je UKLJUČENA
 forms-primary-pw-change-2 =
