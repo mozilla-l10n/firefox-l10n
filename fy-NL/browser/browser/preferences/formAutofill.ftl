@@ -132,6 +132,7 @@ autofill-address-tel = Telefoan
 autofill-address-email = E-mailadres
 autofill-cancel-button = Annulearje
 autofill-save-button = Bewarje
+autofill-country-warning-message-2 = Formulieren automatysk ynfolje is allinnich foar bepaalde lannen beskikber.
 autofill-country-warning-message = Formulieren automatysk ynfolje is op dit stuit allinnich foar bepaalde lannen beskikber.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nije creditcard tafoegje

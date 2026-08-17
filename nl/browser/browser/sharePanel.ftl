@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Pagina delen
 share-panel-copy-link =
     .label = Koppeling kopiëren
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Koppeling gekopieerd
 share-panel-os-share =
     .label = Delen met…
 share-panel-mail =

@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Side diele
 share-panel-copy-link =
     .label = Keppeling kopiearje
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Keppeling kopiearre
 share-panel-os-share =
     .label = Diele mei…
 share-panel-mail =

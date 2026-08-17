@@ -100,6 +100,7 @@ ipprotection-location-selection-callout-secondary-button = Slute
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Nim ynboude VPN mei op Android
 ipprotection-android-promo-callout-primary-button = Begrepen
 
 ## Panel
