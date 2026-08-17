@@ -44,6 +44,9 @@ neterror-search-cta-title = Dette nettstedet kan ikke nås
 neterror-search-cta-intro = Klarte ikke å koble til serveren på { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Prøv disse stegene:
+neterror-search-cta-hint-check-address = Dobbeltsjekk nettstedsadressen
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Søk på nettet for å finne nettstedet
 # Shown when the Search button is offered, naming the exact query it will run.
 # $query (String) - The search query derived from the address that failed to
 # load, for example "best hiking boots reviews". The query and the quotation
