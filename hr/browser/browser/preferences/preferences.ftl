@@ -2664,6 +2664,9 @@ preferences-etp-manage-exceptions-button =
     .description = Upravljajte web stranicama na kojima je onemogućena Poboljšana zaštita od praćenja.
 preferences-etp-customize-header =
     .heading = Prilagodi zaštitu od praćenja
+preferences-etp-reset =
+    .label = Poništi prilagodbe
+    .description = Vratite postavke na unaprijed postavljenu razinu zaštite.
 preferences-etp-reset-standard-button =
     .label = Resetiraj na standardno
 preferences-etp-reset-strict-button =
@@ -2677,8 +2680,16 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Kolačići
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Dozvoli sve kolačiće
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Blokiraj međustranične kolačiće
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Izoliraj međustranične kolačiće
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Blokiraj kolačiće s neposjećenih stranica
+preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
+    .label = Blokiraj sve međustranične kolačiće (može uzrokovati neispravno učitavanje web stranice)
+preferences-etp-custom-cookie-behavior-block-all =
+    .label = Blokiraj sve kolačiće (može uzrokovati neispravno učitavanje web stranice)
 preferences-etp-custom-tracking-protection-enabled =
     .label = Sadržaj za praćenje
 preferences-etp-custom-tracking-protection-enabled-context =
@@ -2691,3 +2702,51 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Sumnjivi prikupljači digitalnih otisaka
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Sumnjivi prikupljači digitalnih otisaka
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Poznati čitači otisaka prstiju nisu blokirani
+    .description = To može omogućiti nekim programima za praćenje da vas prate bez kolačića.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Kolačići trećih strana su omogućeni
+    .description = Kolačići trećih strana koriste se za praćenje na web stranicama.
+security-privacy-issue-warning-password-manager =
+    .label = Upravitelj lozinki je onemogućen
+    .description = Upravitelji lozinki pomažu vam u pohranjivanju jakih lozinki za vaše račune.
+security-privacy-issue-warning-popup-blocker =
+    .label = Blokator skočnih prozora je onemogućen
+    .description = Skočni prozori ometaju rad i potencijalno su štetni.
+security-privacy-issue-warning-extension-install =
+    .label = Web stranice mogu instalirati dodatke
+    .description = Web stranice mogu instalirati dodatke za { -brand-short-name } bez pitanja.
+security-privacy-issue-warning-safe-browsing =
+    .label = Opasan i obmanjujući sadržaj nije blokiran
+    .description = Povećana je vaša izloženost prijevarama i zlonamjernom softveru s web stranica.
+security-privacy-issue-warning-doh2 =
+    .label = DNS preko HTTPS-a je onemogućen
+    .description = DNS preko HTTPS-a pomaže u skrivanju web stranica koja ćete posjetiti od vašeg pružatelja usluga.
+security-privacy-issue-warning-ech2 =
+    .label = Pozdrav šifriranog klijenta je onemogućen
+    .description = Šifrirani pozdrav klijenta pomaže u skrivanju web stranica koja ćete posjetiti od vašeg pružatelja usluga.
+security-privacy-issue-warning-doh =
+    .label = DNS preko HTTPS-a je onemogućen
+    .description = DNS preko HTTPS-a skriva koje stranice posjećujete od vašeg pružatelja usluge.
+security-privacy-issue-warning-ech =
+    .label = Pozdrav šifriranog klijenta je onemogućen
+    .description = Šifrirani pozdrav klijenta skriva koje stranice posjećujete od vašeg pružatelja usluge.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Automatska konfiguracija proxyja je omogućena
+    .description = Automatska konfiguracija proxyja mogla bi omogućiti nepouzdanim mrežama da prate vašu aktivnost.
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .label = Podijeli { -brand-short-name }
+    .description = Pozovite nekoga da odabere preglednik koji privatnost stavlja na prvo mjesto.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Podijeli { -brand-short-name }

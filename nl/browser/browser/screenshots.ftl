@@ -22,7 +22,7 @@ screenshots-copy-button-title =
 screenshots-cancel-button-title =
     .title = Annuleren
 screenshots-retry-button-title =
-    .title = Schermafdruk opnieuw proberen
+    .title = Schermafbeelding opnieuw proberen
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -44,7 +44,7 @@ screenshots-private-window-error-title = { -screenshots-brand-name } is uitgesch
 screenshots-private-window-error-details = Sorry voor het ongemak. Voor toekomstige releases wordt aan deze functie gewerkt.
 screenshots-generic-error-title = Ho! Er is iets mis met { -screenshots-brand-name }.
 screenshots-generic-error-details = We weten niet precies wat er zonet is gebeurd. Wilt u het nogmaals proberen, of een schermafbeelding van een andere pagina maken?
-screenshots-too-large-error-title = Uw schermafdruk is bijgesneden omdat deze te groot was
+screenshots-too-large-error-title = Uw schermafbeelding is bijgesneden omdat deze te groot was
 screenshots-too-large-error-details = Probeer een gebied te selecteren dat kleiner is dan 32.700 pixels aan de langste zijde of een totale oppervlakte van 124.900.000 pixels.
 screenshots-component-retry-button =
     .title = Schermafdruk opnieuw proberen

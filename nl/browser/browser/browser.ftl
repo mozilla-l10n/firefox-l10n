@@ -497,7 +497,7 @@ quickactions-restart = { -brand-short-name } herstarten
 quickactions-cmd-restart = herstarten
 # Opens the screenshot tool
 quickactions-screenshot3 = Een schermafbeelding maken
-quickactions-cmd-screenshot2 = schermafdruk, een schermafdruk nemen
+quickactions-cmd-screenshot2 = schermafbeelding, een schermafbeelding maken
 # Opens about:translations
 quickactions-translate = Vertalen
 quickactions-cmd-translate = vertalen
