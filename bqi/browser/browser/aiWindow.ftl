@@ -249,6 +249,10 @@ firefoxview-search-chat-results-count =
        *[other] { $count } چت
     }
 
+## Clear browsing data dialog
+
+item-history-downloads-and-chat-description = ویرگار وبگه، دانلود وو چت ن پاک اکونه
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
@@ -257,6 +261,9 @@ smart-window-confirm-select-all =
 smart-window-confirm-deselect-all =
     .label = لقو پسند پوی
     .aria-label = لقو پسند پوی
+smart-window-close-confirm =
+    .aria-label = لقو درخاست وو بستن
+    .tooltiptext = لقو درخاست وو بستن
 smart-window-confirm-close-tab = بستن
 # Variables
 #   $count (number) - Number of tabs to close
@@ -271,6 +278,7 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = بلگه بسته وابیڌه
+smartwindow-close-tab-callout-subtitle = هر سا خاستین بلگه یل ن ز ویرگار دووارته بۊگۊشین.
 
 ## Smart Window new tab promo
 
