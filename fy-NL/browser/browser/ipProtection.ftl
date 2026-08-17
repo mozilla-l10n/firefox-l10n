@@ -101,6 +101,7 @@ ipprotection-location-selection-callout-secondary-button = Slute
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-title = Nim ynboude VPN mei op Android
+ipprotection-android-promo-callout-description = Scan de QR-koade om { -brand-product-name } foar Android te krijen en ynboude VPN yn te skeakeljen foar mear privacy ûnderweis. Komt gau nei iOS.
 ipprotection-android-promo-callout-primary-button = Begrepen
 
 ## Panel
