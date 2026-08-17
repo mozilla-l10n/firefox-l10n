@@ -495,7 +495,7 @@ quickactions-viewsource2 = Skatīt lapas pirmkodu
 quickactions-cmd-viewsource2 = apskatīt pirmkodu, pirmkods, lapas pirmkods
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Atvērt { -firefoxlabs-brand-name }
-quickactions-cmd-labs = laboratorijas, eksperiments
+quickactions-cmd-labs = laboratorijas, izmēģinājums
 quickactions-cmd-viewsource = apskatīt pirmkodu, pirmkods
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

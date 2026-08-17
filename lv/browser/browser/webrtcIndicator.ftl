@@ -6,9 +6,9 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-webrtc-indicator-title = { -brand-short-name } — Kopīgošanas indikators
+webrtc-indicator-title = { -brand-short-name } — Kopīgošanas rādītājs
 webrtc-indicator-window =
-    .title = { -brand-short-name } — Kopīgošanas indikators
+    .title = { -brand-short-name } — Kopīgošanas rādītājs
 
 ## Used as list items in sharing menu
 
@@ -45,7 +45,7 @@ webrtc-camera-unmuted =
 webrtc-camera-muted =
     .title = Ieslēgt kameru
 webrtc-minimize =
-    .title = Minimizēt indikatoru
+    .title = Samazināt rādītāju
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
