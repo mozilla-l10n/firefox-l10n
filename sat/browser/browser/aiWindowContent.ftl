@@ -206,3 +206,15 @@ smart-window-ungrouped-row-label =
 ## Action log
 
 action-log-searching-tabs = ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱜ ᱠᱟᱱᱟ
+action-log-searched-open-tabs = ᱡᱷᱤᱡ ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱮᱫᱟ
+action-log-searching-history = ᱱᱟᱜᱟᱢ ᱥᱮᱸᱫᱽᱨᱟᱜ ᱠᱟᱱᱟ
+action-log-searched-history = ᱱᱟᱜᱟᱢ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱠᱟᱱᱟ
+action-log-reading-page = ᱥᱟᱦᱴᱟ ᱯᱟᱲᱦᱟᱣᱜ ᱮᱫᱟᱹᱧ
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱡᱤᱱᱤᱥ ᱯᱟᱲᱦᱟᱣ ᱢᱮ
+action-log-searching-web = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ
+action-log-searched-web = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱭ ᱮᱱᱟ
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = <a data-l10n-name="exa-link">Exa</a> ᱥᱟᱶᱛᱮ ᱣᱮᱵᱽ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ
