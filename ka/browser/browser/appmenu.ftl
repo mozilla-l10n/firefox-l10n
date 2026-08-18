@@ -397,6 +397,9 @@ appmenuitem-relay-title-signed-in = იხილეთ ელფოსტის 
 appmenuitem-relay-description = შენიღბეთ თქვენი ელფოსტა და ნომერი
 appmenuitem-services-relay-description = შენიღბვის მაჩვენებლების გვერდის გაშვება
 appmenuitem-vpn-title2 = მდებარეობის დასამალად გამოიყენეთ { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = დამატებითი დაცვა ყველა მოწყობილობაზე
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = ჩამოტვირთეთ { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = გააძნელეთ გვერდების მონახულებისას თქვენი დევნა
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = ისარგებლეთ მთლიანი მოწყობილობის დაცვით

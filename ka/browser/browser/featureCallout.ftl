@@ -133,6 +133,20 @@ taskbar-tabs-media-callout-subtitle = გახსენით ნაკად�
 taskbar-tabs-value-prop-callout-title = დაამატეთ ეს საიტი ამოცანათა ზოლზე
 taskbar-tabs-value-prop-callout-subtitle = გაუშვით ცალკე ფანჯარაში და გამარტივებული გარსით მხოლოდ ერთი დაწკაპებით.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = დარჩით კავშირზე ამოცანათა ზოლიდან
+taskbar-tabs-email-callout-title-v3 = დატოვეთ საფოსტო ყუთი ამოცანათა ზოლში
+taskbar-tabs-email-callout-subtitle-v3 = გახსენით ელფოსტის საიტები პროგრამის მსგავსად სადა იერსახის მქონე ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = დატოვეთ ეთერში გაშვებული მასალები ამოცანათა ზოლში
+taskbar-tabs-media-callout-subtitle-v3 = გახსენით გაშვებული საიტები პროგრამის მსგავსად სადა იერსახის მქონე ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = ნუ დაკარგავთ შენახულ მონაცემებს, როცა დააპირებთ დააყენოთ Windows 11.

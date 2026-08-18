@@ -101,6 +101,7 @@ ipprotection-location-selection-callout-secondary-button = აცილება
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-title = წაიყოლეთ ჩაშენებული VPN თქვენს Android-ზე
+ipprotection-android-promo-callout-description = წააკითხეთ QR-კოდი, რომ Android-ზეც გადმოწეროთ { -brand-product-name } და ჩართეთ ჩაშენებული VPN გაუმჯობესებული პირადულობისთვის გზაში ყოფნისას. მალე იქნება მხარდაჭერილი iOS.
 ipprotection-android-promo-callout-primary-button = გასაგებია
 
 ## Panel
