@@ -14,9 +14,9 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Torna indietro di una pagina ({ $shortcut })
-    .aria-label = Indietro
     .accesskey = I
+    .aria-label = Indietro
+    .tooltiptext = Torna indietro di una pagina ({ $shortcut })
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
     .label = Indietro
@@ -31,9 +31,9 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Vai avanti di una pagina ({ $shortcut })
-    .aria-label = Avanti
     .accesskey = A
+    .aria-label = Avanti
+    .tooltiptext = Vai avanti di una pagina ({ $shortcut })
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
     .label = Avanti
@@ -46,8 +46,8 @@ toolbar-button-forward-2 =
 ## Reload
 
 main-context-menu-reload =
-    .aria-label = Ricarica
     .accesskey = R
+    .aria-label = Ricarica
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Ricarica
@@ -58,8 +58,8 @@ toolbar-button-reload =
 ## Stop
 
 main-context-menu-stop =
-    .aria-label = Stop
     .accesskey = S
+    .aria-label = Stop
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = Stop
@@ -93,8 +93,8 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-page =
-    .aria-label = Aggiungi pagina ai segnalibri…
     .accesskey = u
+    .aria-label = Aggiungi pagina ai segnalibri…
     .tooltiptext = Aggiungi pagina ai segnalibri
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
@@ -111,18 +111,18 @@ main-context-menu-edit-bookmark-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
-    .aria-label = Aggiungi pagina ai segnalibri…
     .accesskey = n
+    .aria-label = Aggiungi pagina ai segnalibri…
     .tooltiptext = Aggiungi pagina ai segnalibri ({ $shortcut })
 main-context-menu-edit-bookmark =
-    .aria-label = Modifica segnalibro…
     .accesskey = n
+    .aria-label = Modifica segnalibro…
     .tooltiptext = Modifica segnalibro
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
-    .aria-label = Modifica segnalibro…
     .accesskey = n
+    .aria-label = Modifica segnalibro…
     .tooltiptext = Modifica segnalibro ({ $shortcut })
 main-context-menu-open-link =
     .label = Apri link
@@ -327,9 +327,6 @@ main-context-menu-use-saved-login =
 main-context-menu-use-saved-password =
     .label = Utilizza password salvata
     .accesskey = U
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Utilizza un alias di posta elettronica { -relay-brand-short-name }
     .accesskey = e

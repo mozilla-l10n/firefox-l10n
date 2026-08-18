@@ -226,9 +226,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistiche frame video - MediaStreamTrack ID: { $track-identifier }
-
-##
-
 about-webrtc-save-page-msg = Pagina salvata in: { $path }
 about-webrtc-debug-mode-off-state-msg = I registri di traccia sono disponibili in: { $path }
 about-webrtc-debug-mode-on-state-msg = Modalità di debug attiva, scrittura registri di traccia in: { $path }

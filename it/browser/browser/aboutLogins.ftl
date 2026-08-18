@@ -5,14 +5,14 @@
 
 about-logins-page-title = Credenziali e password
 about-logins-login-filter =
-    .placeholder = Cerca nelle credenziali
     .key = F
+    .placeholder = Cerca nelle credenziali
 create-new-login-button =
     .title = Inserisci nuove credenziali
 about-logins-page-title-name = Password
 about-logins-login-filter2 =
-    .placeholder = Cerca nelle password
     .key = F
+    .placeholder = Cerca nelle password
 create-login-button =
     .title = Aggiungi password
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
@@ -139,7 +139,7 @@ login-item-cancel-button = Annulla
 
 # Variables
 #   $datetime (date) - Event date
-login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", year: "numeric", month: "short") }
 login-item-timeline-action-created = Creazione
 login-item-timeline-action-updated = Aggiornamento
 login-item-timeline-action-used = Utilizzo
@@ -282,7 +282,7 @@ confirm-discard-changes-dialog-confirm-button = Ignora
 
 about-logins-breach-alert-title = Violazione sito web
 breach-alert-text = Dall’ultima volta in cui hai aggiornato queste credenziali, le password di questo sito web sono state rubate o diffuse pubblicamente. Modifica la tua password per proteggere questo account.
-about-logins-breach-alert-date = Questa violazione si è verificata il giorno { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = Questa violazione si è verificata il giorno { DATETIME($date, day: "numeric", year: "numeric", month: "long") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Apri { $hostname }

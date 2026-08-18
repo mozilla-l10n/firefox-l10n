@@ -71,10 +71,10 @@ browser-shortcut-description = Navigazione veloce e riservata
 browser-main-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } Navigazione anonima
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigazione anonima
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Navigazione anonima
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigazione anonima
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Navigazione anonima
 # These are the default window titles on macOS.
@@ -103,10 +103,10 @@ browser-main-window-titles =
 browser-main-window-titles-mac =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } — Navigazione anonima
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigazione anonima
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Navigazione anonima
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigazione anonima
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navigazione anonima
 # This is the initial default title for the browser window.
@@ -137,9 +137,6 @@ urlbar-identity-button2 =
             [one] Visualizza informazioni sul sito ({ $count } elemento tracciante bloccato)
            *[other] Visualizza informazioni sul sito ({ $count } elementi traccianti bloccati)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Visualizza informazioni sul sito
 
@@ -336,8 +333,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Aggiungi ai segnalibri ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = Schermo diviso
     .aria-label = Schermo diviso
+    .tooltiptext = Schermo diviso
 
 ## Searchbar context menu
 
@@ -391,8 +388,8 @@ search-one-offs-engine-with-alias =
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
     .label = Aggiungi “{ $engineName }”
-    .tooltiptext = Aggiungi motore di ricerca “{ $engineName }”
     .aria-label = Aggiungi motore di ricerca “{ $engineName }”
+    .tooltiptext = Aggiungi motore di ricerca “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -742,32 +739,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Cerca sul Web
     .aria-label = Cerca con { $name }
+    .placeholder = Cerca sul Web
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca in { $name }
+    .placeholder = Immetti i termini di ricerca
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nei segnalibri
+    .placeholder = Immetti i termini di ricerca
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nella cronologia
+    .placeholder = Immetti i termini di ricerca
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nelle schede
+    .placeholder = Immetti i termini di ricerca
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nelle azioni
+    .placeholder = Immetti i termini di ricerca
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -919,11 +916,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizzato
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Chiedi
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1340,9 +1332,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = Barra dei segnalibri
     .accesskey = s
     .aria-label = Segnalibri
+    .toolbarname = Barra dei segnalibri
 bookmarks-toolbar-menu =
     .label = Barra dei segnalibri
 bookmarks-toolbar-placeholder =
@@ -1515,9 +1507,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = s
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1743,13 +1732,6 @@ file-picker-crashed-open = La finestra di selezione file di Windows si è chiusa
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Il file verrà salvato come { $path }.
 file-picker-crashed-save-nowhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Non è stata trovata una cartella predefinita e il file non verrà salvato.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Mostra nella cartella
     .accessKey = M
@@ -1802,9 +1784,6 @@ trustpanel-blocker-see-all = Mostra tutti
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protezioni antitracciamento per { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

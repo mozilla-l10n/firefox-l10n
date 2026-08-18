@@ -11,5 +11,5 @@ moz-message-bar-icon-success =
 moz-message-bar-icon-error =
     .alt = Errore
 moz-message-bar-close-button =
-    .aria-label = Chiudi
     .title = Chiudi
+    .aria-label = Chiudi

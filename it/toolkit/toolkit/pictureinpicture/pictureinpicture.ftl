@@ -13,32 +13,32 @@ pictureinpicture-player-title = Picture-in-Picture
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 pictureinpicture-pause-btn =
-    .aria-label = Pausa
     .tooltip = Pausa (barra spaziatrice)
+    .aria-label = Pausa
 pictureinpicture-play-btn =
-    .aria-label = Riproduci
     .tooltip = Riproduci (barra spaziatrice)
+    .aria-label = Riproduci
 pictureinpicture-mute-btn =
-    .aria-label = Disattiva audio
     .tooltip = Disattiva audio ({ $shortcut })
+    .aria-label = Disattiva audio
 pictureinpicture-unmute-btn =
-    .aria-label = Attiva audio
     .tooltip = Attiva audio ({ $shortcut })
+    .aria-label = Attiva audio
 pictureinpicture-unpip-btn =
-    .aria-label = Rimanda alla scheda
     .tooltip = Rimanda alla scheda
+    .aria-label = Rimanda alla scheda
 pictureinpicture-close-btn =
-    .aria-label = Chiudi
     .tooltip = Chiudi ({ $shortcut })
+    .aria-label = Chiudi
 pictureinpicture-subtitles-btn =
-    .aria-label = Sottotitoli
     .tooltip = Sottotitoli
+    .aria-label = Sottotitoli
 pictureinpicture-fullscreen-btn2 =
-    .aria-label = Schermo intero
     .tooltip = Schermo intero (doppio clic o { $shortcut })
+    .aria-label = Schermo intero
 pictureinpicture-exit-fullscreen-btn2 =
-    .aria-label = Esci da schermo intero
     .tooltip = Esci da schermo intero (doppio clic o { $shortcut })
+    .aria-label = Esci da schermo intero
 
 ##
 
@@ -52,11 +52,11 @@ pictureinpicture-toggle-fullscreen-shortcut =
 ## DOM node that then shows the tooltip.
 
 pictureinpicture-seekbackward-btn =
-    .aria-label = Indietro
     .tooltip = Indietro (←)
+    .aria-label = Indietro
 pictureinpicture-seekforward-btn =
-    .aria-label = Avanti
     .tooltip = Avanti (→)
+    .aria-label = Avanti
 pictureinpicture-playback-rate-btn =
     .tooltip = Velocità di riproduzione
     .aria-label = Velocità di riproduzione

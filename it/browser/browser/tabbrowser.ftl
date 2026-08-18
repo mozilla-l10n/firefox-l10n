@@ -431,8 +431,8 @@ tab-note-editor-button-save =
     .accesskey = S
 tab-note-editor-button-delete =
     .title = Elimina nota
-    .aria-label = Elimina nota
     .accesskey = E
+    .aria-label = Elimina nota
 tab-note-preview-edit-icon =
     .alt = Modifica nota
 # Link to show the full tab note in case it was truncated.

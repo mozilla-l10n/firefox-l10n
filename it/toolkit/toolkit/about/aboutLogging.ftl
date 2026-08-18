@@ -93,7 +93,7 @@ about-logging-upload-button = Carica
 about-logging-saved = Salvato in { $path }
 # Variables:
 #   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
-about-logging-uploading-progress = Caricamento dati profilo: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+about-logging-uploading-progress = Caricamento dati profilo: { NUMBER($percent, style: "percent", maximumSignificantDigits: 2) }
 # Variables:
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = Caricato in <a data-l10n-name="uploaded-message-url">{ $url }</a>

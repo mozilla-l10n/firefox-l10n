@@ -35,4 +35,3 @@ share-panel-device-subview =
     .title = Tutti i dispositivi
 share-panel-os-share-subview =
     .title = Condividi con…
-

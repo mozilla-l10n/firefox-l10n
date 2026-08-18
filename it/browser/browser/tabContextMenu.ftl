@@ -131,10 +131,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nuovo gruppo
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

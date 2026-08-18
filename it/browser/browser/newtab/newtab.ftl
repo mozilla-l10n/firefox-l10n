@@ -57,8 +57,8 @@ home-custom-homepage-address-button =
 home-custom-homepage-no-results =
     .label = Non è stato ancora aggiunto alcun sito.
 home-custom-homepage-delete-address-button =
-    .aria-label = Elimina indirizzo
     .title = Elimina indirizzo
+    .aria-label = Elimina indirizzo
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -404,17 +404,17 @@ newtab-search-box-handoff-text-no-engine = Cerca o inserisci un indirizzo
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
-    .placeholder = Cerca con { $engine } o inserisci un indirizzo
     .title = Cerca con { $engine } o inserisci un indirizzo
     .aria-label = Cerca con { $engine } o inserisci un indirizzo
+    .placeholder = Cerca con { $engine } o inserisci un indirizzo
 newtab-search-box-handoff-input-no-engine =
-    .placeholder = Cerca o inserisci un indirizzo
     .title = Cerca o inserisci un indirizzo
     .aria-label = Cerca o inserisci un indirizzo
+    .placeholder = Cerca o inserisci un indirizzo
 newtab-search-box-text = Cerca sul Web
 newtab-search-box-input =
-    .placeholder = Cerca sul Web
     .aria-label = Cerca sul Web
+    .placeholder = Cerca sul Web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -438,9 +438,6 @@ newtab-topsites-image-url-label = Indirizzo immagine personalizzata
 newtab-topsites-use-custom-image-link = Utilizza un’immagine personalizzata
 newtab-topsites-use-image-link = Utilizza un’immagine personalizzata…
 newtab-topsites-image-validation = Errore durante il caricamento dell’immagine. Prova con un altro indirizzo.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Cancella testo
 
@@ -467,8 +464,8 @@ newtab-topsite-sponsored = Sponsorizzato
 # Variables:
 #   $title (string) - The label or hostname of the site.
 topsite-label-pinned =
-    .aria-label = { $title } (appuntato)
     .title = { $title }
+    .aria-label = { $title } (appuntato)
 
 ## Top Sites - Web notifications hover card
 
@@ -778,9 +775,6 @@ newtab-custom-close-menu-button =
     .aria-label = Chiudi menu
 newtab-custom-close-button = Chiudi
 newtab-custom-settings = Gestisci altre impostazioni
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Aspetto
 # Button that opens the full browser theme selection view.
@@ -898,9 +892,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -927,8 +918,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponsorizzato
 newtab-weather-menu-change-location = Modifica località
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Cerca località
     .aria-label = Cerca località
+    .placeholder = Cerca località
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Utilizza la posizione corrente
@@ -1174,8 +1165,8 @@ newtab-widget-lists-menu-copy = Copia lista negli appunti
 newtab-widget-lists-menu-learn-more = Ulteriori informazioni
 newtab-widget-lists-button-add-item = Aggiungi un elemento
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Aggiungi un elemento
     .aria-label = Aggiungi un elemento
+    .placeholder = Aggiungi un elemento
 newtab-widget-lists-input-error = Includere del testo per aggiungere un elemento.
 newtab-widget-lists-input-menu-open-link = Apri link
 newtab-widget-lists-input-menu-move-up = Sposta in alto
@@ -1185,8 +1176,8 @@ newtab-widget-lists-input-menu-edit = Modifica
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Modifica elemento
 newtab-widget-lists-edit-clear =
-    .aria-label = Annulla
     .title = Annulla
+    .aria-label = Annulla
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Opzioni liste
@@ -1200,12 +1191,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista di attività
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Lista di controllo
     .aria-label = Modifica nome lista
+    .placeholder = Lista di controllo
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Nuova lista
     .aria-label = Modifica nome lista
+    .placeholder = Nuova lista
 newtab-widget-section-title = Widget
 newtab-widget-menu-hide = Nascondi widget
 newtab-widget-menu-change-size = Cambia dimensione
@@ -1235,8 +1226,8 @@ newtab-widget-section-menu-button =
     .title = Menu widget
     .aria-label = Apri il menu widget
 newtab-widget-add-widgets-button =
-    .aria-label = Aggiungi widget
     .title = Aggiungi widget
+    .aria-label = Aggiungi widget
 newtab-widget-section-menu-manage = Gestisci widget
 newtab-widget-section-menu-hide-all = Nascondi widget
 newtab-widget-section-menu-learn-more = Ulteriori informazioni
@@ -1296,9 +1287,6 @@ newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1392,11 +1380,11 @@ newtab-sports-widget-watch =
     .title = Guarda online
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch-icon =
-    .aria-label = Guarda in diretta
     .title = Guarda in diretta
+    .aria-label = Guarda in diretta
 newtab-sports-widget-watch-dialog-close =
-    .aria-label = Chiudi
     .title = Chiudi
+    .aria-label = Chiudi
 # Tag: user can watch without paying (sign-in may still be required).
 newtab-sports-widget-watch-stream-free = Gratuito
 # Tag: user can start watching via a trial; continued access may require payment after it ends.
@@ -1413,8 +1401,8 @@ newtab-sports-widget-watch-available-region = Disponibili nella tua regione
 newtab-sports-widget-watch-available-other-regions = Altre regioni
 # Button that opens the provider’s stream page in a new tab.
 newtab-sports-widget-watch-play =
-    .aria-label = Apri diretta video
     .title = Apri diretta video
+    .aria-label = Apri diretta video
 newtab-sports-widget-group-stage = Fase a gironi
 newtab-sports-widget-group-a = Gruppo A
 newtab-sports-widget-group-b = Gruppo B
@@ -1449,10 +1437,10 @@ newtab-sports-widget-final = Finale
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = In ritardo
 newtab-sports-widget-postponed = Rinviata
 newtab-sports-widget-suspended = Sospesa
@@ -1485,18 +1473,18 @@ newtab-sports-widget-no-upcoming-matches = Torna presto per scoprire i dettagli 
 
 # arrow button that goes to the previous page of live matches.
 newtab-sports-widget-pagination-previous =
-    .aria-label = Precedente
     .title = Precedente
+    .aria-label = Precedente
 # arrow button that goes to the next page of live matches.
 newtab-sports-widget-pagination-next =
-    .aria-label = Successivo
     .title = Successivo
+    .aria-label = Successivo
 # Dot indicator that jumps directly to a given live match.
 # $index (number) - 1-based position of this dot in the list.
 # $total (number) - Total number of live matches.
 newtab-sports-widget-pagination-dot =
-    .aria-label = Partita in diretta { $index } di { $total }
     .title = Partita in diretta { $index } di { $total }
+    .aria-label = Partita in diretta { $index } di { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1617,15 +1605,15 @@ newtab-clock-widget-menu-switch-to-24h = Passa al formato 24 ore
 newtab-clock-widget-label-your-clocks = I tuoi orologi
 newtab-clock-widget-search-location-input =
     .label = Posizione
-    .placeholder = Cerca una città
     .aria-label = Cerca una città
+    .placeholder = Cerca una città
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
     .label = Nome (facoltativo)
-    .placeholder = Aggiungi un nome
     .aria-label = Nome (facoltativo)
+    .placeholder = Aggiungi un nome
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

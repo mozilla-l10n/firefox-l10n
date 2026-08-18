@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 add-engine-window2 =
-    .title = Aggiungi motore di ricerca
     .style = min-width: 32em;
+    .title = Aggiungi motore di ricerca
 add-engine-button = Aggiungi motore personalizzato
 add-engine-name = Nome motore di ricerca
 add-engine-alias = Alias

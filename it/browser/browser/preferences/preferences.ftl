@@ -476,8 +476,8 @@ website-preferred-language =
 website-add-language =
     .label = Aggiungi lingua
 website-add-language-button =
-    .aria-label = Aggiungi lingua selezionata
     .title = Aggiungi lingua selezionata
+    .aria-label = Aggiungi lingua selezionata
 # The pattern used to generate strings presented to the user in the
 # website languages selection list.
 #
@@ -488,8 +488,8 @@ website-add-language-button =
 # Variables:
 #   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
 website-remove-language-button =
-    .aria-label = Rimuovi { $locale }
     .title = Rimuovi { $locale }
+    .aria-label = Rimuovi { $locale }
 choose-button =
     .label = Scegli…
     .accesskey = g
@@ -546,15 +546,15 @@ settings-translations-subpage-never-translate-sites-description = Per aggiungere
 settings-translations-subpage-language-select-option =
     .label = Aggiungi lingua
 settings-translations-subpage-language-add-button =
-    .aria-label = Aggiungi lingua
     .title = Aggiungi lingua
+    .aria-label = Aggiungi lingua
 settings-translations-subpage-download-languages-header =
     .label = Scarica lingue
 settings-translations-subpage-download-languages-select-option =
     .label = Scegli lingua
 settings-translations-subpage-download-languages-button =
-    .aria-label = Scarica lingua
     .title = Scarica lingua
+    .aria-label = Scarica lingua
 # Variables:
 #   $language (string) - Localized name of the language to download.
 #   $size (string) - Download size in megabytes, formatted for the locale.
@@ -834,8 +834,8 @@ performance-group =
     .label = Prestazioni
 performance-use-recommended-settings-checkbox-2 =
     .label = Utilizza le impostazioni consigliate per le prestazioni
-    .description = Queste impostazioni sono personalizzate in base all’hardware e al sistema operativo in uso.
     .accesskey = U
+    .description = Queste impostazioni sono personalizzate in base all’hardware e al sistema operativo in uso.
 
 ## Accessibility page
 
@@ -902,9 +902,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Ulteriori informazioni
 browsing-group =
     .label = Navigazione
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Accessibilità
 preferences-default-zoom-select =
@@ -932,8 +929,8 @@ network-proxy-group2 =
     .description = Configura come { -brand-short-name } si connette a Internet.
 network-proxy-connection-settings2 =
     .label = Configura proxy
-    .description = La modifica di queste impostazioni potrebbe causare problemi di connessione
     .accesskey = x
+    .description = La modifica di queste impostazioni potrebbe causare problemi di connessione
 
 ## Home Section
 
@@ -1006,8 +1003,8 @@ home-custom-homepage-address-button =
 home-custom-homepage-no-results =
     .label = Non è stato ancora aggiunto alcun sito.
 home-custom-homepage-delete-address-button =
-    .aria-label = Elimina indirizzo
     .title = Elimina indirizzo
+    .aria-label = Elimina indirizzo
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -1023,9 +1020,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Estensione ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Pagina iniziale personalizzata
 home-custom-homepage-subpage =
     .heading = Pagina iniziale personalizzata
@@ -1041,9 +1035,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Siti che hai salvato oppure visitato
 home-prefs-shortcuts-by-option-sponsored =
     .label = Scorciatoie sponsorizzate
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Consigliati da { $provider }
 home-prefs-recommended-by-description-new = Contenuti eccezionali a cura di { $provider }, un membro della famiglia { -brand-product-name }
@@ -1309,8 +1300,8 @@ sync-mobile-promo = Scarica Firefox per <img data-l10n-name="android-icon"/> <a 
 sync-profile-picture =
     .tooltiptext = Cambia l’immagine del profilo
 sync-profile-picture-with-alt =
-    .tooltiptext = Cambia l’immagine del profilo
     .alt = Cambia l’immagine del profilo
+    .tooltiptext = Cambia l’immagine del profilo
 sync-profile-picture-account-problem =
     .alt = Immagine del profilo per l’account
 fxa-login-rejected-warning =
@@ -1339,11 +1330,6 @@ sync-signedin-login-failure = Accedi per riattivare la connessione con { $email 
 sync-signedin-login-failure2 =
     .label = Sei disconnesso da { $email }
     .description = Accedi di nuovo per riconnetterti e iniziare a sincronizzare i tuoi dati.
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1382,9 +1368,9 @@ prefs-sync-turn-on-syncing-2 =
     .accesskey = c
 prefs-sync-offer-setup-label2 = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
 prefs-sync-now =
+    .labelsyncing = Sincronizzazione in corso…
     .labelnotsyncing = Sincronizza adesso
     .accesskeynotsyncing = a
-    .labelsyncing = Sincronizzazione in corso…
 prefs-sync-now-button =
     .label = Sincronizza adesso
     .accesskey = a
@@ -1429,11 +1415,11 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Scelta elementi da sincronizzare
     .style = min-width: 36em;
+    .title = Scelta elementi da sincronizzare
     .buttonlabelaccept = Salva modifiche
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnetti…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
 sync-choose-dialog-subtitle = Le modifiche all’elenco di elementi da sincronizzare verranno applicate a tutti i dispositivi connessi.
 sync-engine-bookmarks =
@@ -1444,42 +1430,42 @@ sync-engine-history =
     .accesskey = C
 sync-engine-tabs =
     .label = Schede aperte
-    .tooltiptext = Elementi aperti nei dispositivi sincronizzati
     .accesskey = h
+    .tooltiptext = Elementi aperti nei dispositivi sincronizzati
 sync-engine-logins-passwords =
     .label = Credenziali e password
-    .tooltiptext = Nomi utente e password salvati
     .accesskey = i
+    .tooltiptext = Nomi utente e password salvati
 sync-engine-passwords =
     .label = Password
-    .tooltiptext = Password salvate
     .accesskey = P
+    .tooltiptext = Password salvate
 sync-engine-addresses =
     .label = Indirizzi
-    .tooltiptext = Indirizzi salvati come via, città, ecc. (solo per desktop)
     .accesskey = I
+    .tooltiptext = Indirizzi salvati come via, città, ecc. (solo per desktop)
 sync-engine-creditcards =
     .label = Carte di credito
-    .tooltiptext = Nome, numero e data di scadenza (solo per desktop)
     .accesskey = r
+    .tooltiptext = Nome, numero e data di scadenza (solo per desktop)
 sync-engine-payment-methods2 =
     .label = Metodi di pagamento
-    .tooltiptext = Nomi, numeri di carta, date di scadenza
     .accesskey = M
+    .tooltiptext = Nomi, numeri di carta, date di scadenza
 sync-engine-addons =
     .label = Componenti aggiuntivi
-    .tooltiptext = Estensioni e temi per Firefox desktop
     .accesskey = o
+    .tooltiptext = Estensioni e temi per Firefox desktop
 sync-engine-settings =
     .label = Impostazioni
-    .tooltiptext = Impostazioni modificate nei pannelli “Generale” e “Privacy e sicurezza”
     .accesskey = z
+    .tooltiptext = Impostazioni modificate nei pannelli “Generale” e “Privacy e sicurezza”
 sync-choose-what-to-sync-dialog4 =
-    .title = Gestisci gli elementi da sincronizzare su tutti i dispositivi connessi
     .style = min-width: 40em;
+    .title = Gestisci gli elementi da sincronizzare su tutti i dispositivi connessi
     .buttonlabelaccept = Salva
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnetti…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
 
 ## The device name controls.
@@ -1596,8 +1582,8 @@ forms-primary-pw-use =
     .accesskey = U
 forms-primary-pw-use-2 =
     .label = Utilizza una password principale
-    .description = Aggiunge un ulteriore livello di sicurezza per proteggere le password salvate.
     .accesskey = w
+    .description = Aggiunge un ulteriore livello di sicurezza per proteggere le password salvate.
 forms-primary-pw-set =
     .label = Imposta password principale
 forms-primary-pw-on-2 = La password principale è <strong>ATTIVA</strong>
@@ -1634,9 +1620,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ulteriori informazioni
 forms-windows-sso-desc = Gestisci account nelle impostazioni del dispositivo
 windows-passkey-settings-label = Gestisci passkey nelle impostazioni di sistema
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .label = Impostazioni pannello privacy
     .description = Ottieni assistenza per proteggere le tue informazioni online in { -brand-short-name }.
@@ -2068,9 +2051,6 @@ content-blocking-fingerprinters = Fingerprinter
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Fingerprinter conosciuti e sospetti
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La Protezione totale per i cookie isola i cookie del sito in cui ti trovi. In questo modo non è possibile utilizzarli per seguirti da un sito all’altro.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ulteriori informazioni
@@ -2185,8 +2165,8 @@ permissions-block-popups2 =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button4 =
     .label = Gestisci eccezioni
-    .description = Aggiungi siti web con il permesso di aprire pop-up e utilizzare reindirizzamenti di terze parti.
     .accesskey = z
+    .description = Aggiungi siti web con il permesso di aprire pop-up e utilizzare reindirizzamenti di terze parti.
     .searchkeywords = popup
 permissions-addon-install-warning3 =
     .label = Mostra un avviso quando i siti web tentano di installare estensioni
@@ -2329,12 +2309,12 @@ data-collection-studies-link =
     .label = Visualizza studi di { -brand-short-name }
 data-collection-backlogged-crash-reports =
     .label = Invia automaticamente segnalazioni di arresto anomalo
-    .description = Questo aiuta { -vendor-short-name } a diagnosticare e risolvere problemi con il browser. Le segnalazioni possono includere dati personali o sensibili.
     .accesskey = n
+    .description = Questo aiuta { -vendor-short-name } a diagnosticare e risolvere problemi con il browser. Le segnalazioni possono includere dati personali o sensibili.
 data-collection-usage-ping =
     .label = Invia ping di utilizzo giornaliero a { -vendor-short-name }
-    .description = Questo consente a { -vendor-short-name } di stimare il numero di utenti attivi.
     .accesskey = u
+    .description = Questo consente a { -vendor-short-name } di stimare il numero di utenti attivi.
 
 ## Privacy Section - Website Advertising Preferences
 
@@ -2700,8 +2680,8 @@ security-privacy-issue-card =
 issue-card-reset-button =
     .label = Ripristina
 issue-card-dismiss-button =
-    .tooltiptext = Ignora
     .aria-label = Ignora
+    .tooltiptext = Ignora
 
 ## Enhanced Tracking Protection (ETP) status section
 

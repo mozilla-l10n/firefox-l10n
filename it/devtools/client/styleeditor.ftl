@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-new-button =
-    .tooltiptext = Crea un nuovo foglio di stile e lo aggiunge al documento
     .accesskey = N
+    .tooltiptext = Crea un nuovo foglio di stile e lo aggiunge al documento
 styleeditor-import-button =
-    .tooltiptext = Importa un foglio di stile esistente e lo aggiunge al documento
     .accesskey = m
+    .tooltiptext = Importa un foglio di stile esistente e lo aggiunge al documento
 styleeditor-filter-input =
     .placeholder = Filtra fogli di stile
 styleeditor-visibility-toggle =
-    .tooltiptext = Cambia visibilità del foglio di stile
     .accesskey = S
+    .tooltiptext = Cambia visibilità del foglio di stile
 styleeditor-visibility-toggle-system =
     .tooltiptext = Non è possibile disattivare i fogli di stile di sistema
 styleeditor-save-button = Salva
-    .tooltiptext = Salva questo foglio di stile in un file
     .accesskey = S
+    .tooltiptext = Salva questo foglio di stile in un file
 styleeditor-options-button =
     .tooltiptext = Opzioni Editor stili
 styleeditor-at-rules = At-rules

@@ -217,7 +217,7 @@ firefoxview-sort-open-tabs-by-order-label = Mantieni l’ordine delle schede
 firefoxview-history-date-today = Oggi - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Ieri - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+firefoxview-history-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
 # When history is sorted by site, this heading is used in place of a domain, in
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
@@ -255,8 +255,8 @@ firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } no
 
 # This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
 firefoxview-import-history-close-button =
-    .aria-label = Chiudi
     .title = Chiudi
+    .aria-label = Chiudi
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 

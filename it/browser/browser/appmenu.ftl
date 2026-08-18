@@ -63,11 +63,11 @@ appmenuitem-help =
 appmenuitem-exit2 =
     .label = Esci
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Apri menu applicazione
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Chiudi menu applicazione
     .label = { -brand-short-name }
+    .tooltiptext = Chiudi menu applicazione
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -230,16 +230,6 @@ profiler-button-dropmarker =
 
 ## Profiler presets
 ## They are shown in the popup's select box.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Preset consigliato per il debug della maggior parte delle applicazioni web, con overhead limitato.
 profiler-popup-presets-web-developer-label =
@@ -460,5 +450,3 @@ fxa-menu-device-view-all-synced-tabs =
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =
     .label = Invia pagina corrente a questo dispositivo
-
-

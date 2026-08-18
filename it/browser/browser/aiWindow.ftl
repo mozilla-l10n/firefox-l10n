@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Cerca con { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Cerca con…
 aiwindow-input-cta-search-submenu-header = Cerca
 aiwindow-input-cta-stop-button =
-    .aria-label = Interrompi generazione risposta
     .title = Interrompi risposta
+    .aria-label = Interrompi generazione risposta
 
 ## Smartbar
 
@@ -174,23 +174,23 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .tooltiptext = Utilizza le memorie nelle risposte quando è utile
     .aria-label = Memorie attivate
+    .tooltiptext = Utilizza le memorie nelle risposte quando è utile
 aiwindow-memories-off =
-    .tooltiptext = Non utilizzare le memorie nelle risposte
     .aria-label = Memorie disattivate
+    .tooltiptext = Non utilizzare le memorie nelle risposte
 
 ## New Chat Button
 
 aiwindow-new-chat =
-    .tooltiptext = Nuova chat
     .aria-label = Nuova chat
+    .tooltiptext = Nuova chat
 
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
-    .tooltiptext = Chiudi
     .aria-label = Chiudi
+    .tooltiptext = Chiudi
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
@@ -232,13 +232,13 @@ smartwindow-switch-to-smart-window = Passa alla modalità { -smart-window-brand-
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .tooltiptext = Chat
-    .aria-label = Chat
     .label = Chat
+    .aria-label = Chat
+    .tooltiptext = Chat
 smartwindow-footer-history =
-    .tooltiptext = Cronologia
-    .aria-label = Cronologia
     .label = Cronologia
+    .aria-label = Cronologia
+    .tooltiptext = Cronologia
 
 ## Disclaimer
 ## Text displayed to user to warn user about potential mistakes.
@@ -263,7 +263,7 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Oggi - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Ieri - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
 
 ## Message displayed in Firefox View when the user has no chat data
 
@@ -271,10 +271,6 @@ firefoxview-chats-empty-header = Torna alle tue chat
 firefoxview-chats-empty-description = Quando utilizzi { -smart-window-brand-name }, le tue chat verranno salvate qui.
 
 ## Count displayed in fxview chat search results
-
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
 
 firefoxview-search-chat-results-count = { $count } chat
 
@@ -288,14 +284,14 @@ item-history-downloads-and-chat-description = Cancella la cronologia di navigazi
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .aria-label = Seleziona tutto
     .label = Seleziona tutto
+    .aria-label = Seleziona tutto
 smart-window-confirm-deselect-all =
-    .aria-label = Deseleziona tutto
     .label = Deseleziona tutto
+    .aria-label = Deseleziona tutto
 smart-window-close-confirm =
-    .tooltiptext = Annulla richiesta e chiudi
     .aria-label = Annulla richiesta e chiudi
+    .tooltiptext = Annulla richiesta e chiudi
 smart-window-confirm-close-tab = Chiudi
 # Variables
 #   $count (number) - Number of tabs to close

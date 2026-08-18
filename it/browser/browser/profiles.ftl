@@ -288,9 +288,6 @@ profiles-appmenu-callout-tour-subtitle = Nel menu ☰, tocca il nome del tuo pro
 profiles-appmenu-callout-tour-primary-button = Mostra come fare
 barbell-avatar = Bilanciere
 bike-avatar = Bici
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Usa l’icona bilanciere
 bike-avatar-tooltip =

@@ -55,9 +55,6 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Ripristina i tuoi dati
     .description = Utilizza un backup di { -brand-product-name } da un altro dispositivo per ripristinare i dati.
-
-##
-
 settings-sensitive-data =
     .label = Dati sensibili
 settings-data-toggle-encryption-support-link = Ulteriori informazioni
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> creato il { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } su { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creato il { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } su { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Ripristinato da { $deviceName } il { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } alle { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Ripristinato da { $deviceName } il { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } alle { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Questo file non funziona. Prova a selezionare un altro file. <a data-l10n-name="restore-problems">Hai ancora problemi?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nessun file selezionato

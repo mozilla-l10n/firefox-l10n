@@ -28,7 +28,7 @@ sidebar-history-date-yesterday =
 sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
-    .heading = { DATETIME($date, month: "long", year: "numeric") }
+    .heading = { DATETIME($date, year: "numeric", month: "long") }
 # When history is sorted by site, this heading is used in place of a domain, in
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Segnalibri
 synced-tabs-context-close-tab-title =
     .title = Chiudi scheda su { $deviceName }
 show-sidebars =
-    .tooltiptext = Visualizza le barre laterali
     .label = Barre laterali
+    .tooltiptext = Visualizza le barre laterali
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Espandi la barra laterale ({ $shortcut })
     .label = Barre laterali
+    .tooltiptext = Espandi la barra laterale ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Comprimi la barra laterale ({ $shortcut })
     .label = Barre laterali
+    .tooltiptext = Comprimi la barra laterale ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Mostra la barra laterale ({ $shortcut })
     .label = Barre laterali
+    .tooltiptext = Mostra la barra laterale ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Nascondi la barra laterale ({ $shortcut })
     .label = Barre laterali
+    .tooltiptext = Nascondi la barra laterale ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
