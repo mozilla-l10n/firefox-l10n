@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = הרחבת סרגל הצד בעת ריחוף העכבר עליו
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = הצגת תצוגה מקדימה בעת ריחוף
 sidebar-manage-extensions2 = ניהול כל ההרחבות
 sidebar-customize-extensions-header2 = הרחבות
 sidebar-customize-firefox-tools-header2 =

@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = קובץ זה אינו נתמך. נא לבחו
 about-pdf-dropzone-error-generic = ההעלאה לא הצליחה. נא לנסות שוב מאוחר יותר.
 about-pdf-browse-files =
     .label = עיון בקבצים
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = פתיחת PDF
 about-pdf-promo =
     .heading = להפוך את { -brand-short-name } לעורך ה־PDF ברירת המחדל שלך
     .message = פתיחת קובצי PDF ב־{ -brand-short-name } וניהול כל הפעולות הבסיסיות במקום אחד - החל מהדגשות וחתימות ועד מיזוג קבצים והערות.
