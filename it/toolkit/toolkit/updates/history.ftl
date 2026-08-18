@@ -5,8 +5,8 @@
 history-title = Cronologia aggiornamenti
 history-intro = Sono stati installati i seguenti aggiornamenti
 close-button-label =
-    .title = Cronologia aggiornamenti
     .buttonlabelcancel = Chiudi
+    .title = Cronologia aggiornamenti
 no-updates-label = Nessun aggiornamento installato
 name-header = Nome aggiornamento
 date-header = Data installazione

@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } verrà aperto con il profilo utilizzato più di recente.
 profile-window-create-profile = Crea un profilo
 profile-card-edit-button =
-    .title = Modifica profilo
     .aria-label = Modifica profilo
+    .title = Modifica profilo
 profile-card-delete-button =
-    .title = Elimina profilo
     .aria-label = Elimina profilo
+    .title = Elimina profilo
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Apri { $profileName }
     .aria-label = Apri { $profileName }
+    .title = Apri { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profilo { $number }

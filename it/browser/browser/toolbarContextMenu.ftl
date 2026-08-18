@@ -90,5 +90,5 @@ toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Mostra Altri segnalibri
     .accesskey = A
 toolbar-context-menu-menu-bar-cmd =
-    .accesskey = m
     .toolbarname = Barra dei menu
+    .accesskey = m

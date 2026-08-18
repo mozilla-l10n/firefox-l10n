@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Cerca con { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Cerca con…
 aiwindow-input-cta-search-submenu-header = Cerca
 aiwindow-input-cta-stop-button =
-    .title = Interrompi risposta
     .aria-label = Interrompi generazione risposta
+    .title = Interrompi risposta
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Passa alla modalità { -smart-window-brand-
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Chat
     .aria-label = Chat
+    .label = Chat
     .tooltiptext = Chat
 smartwindow-footer-history =
-    .label = Cronologia
     .aria-label = Cronologia
+    .label = Cronologia
     .tooltiptext = Cronologia
 
 ## Disclaimer
@@ -263,7 +263,7 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Oggi - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Ieri - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Message displayed in Firefox View when the user has no chat data
 
@@ -284,11 +284,11 @@ item-history-downloads-and-chat-description = Cancella la cronologia di navigazi
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Seleziona tutto
     .aria-label = Seleziona tutto
+    .label = Seleziona tutto
 smart-window-confirm-deselect-all =
-    .label = Deseleziona tutto
     .aria-label = Deseleziona tutto
+    .label = Deseleziona tutto
 smart-window-close-confirm =
     .aria-label = Annulla richiesta e chiudi
     .tooltiptext = Annulla richiesta e chiudi

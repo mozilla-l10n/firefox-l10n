@@ -157,7 +157,7 @@ about-processes-utility-actor-pkcs11-module = Security Module Helper
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu = { NUMBER($percent, style: "percent", maximumSignificantDigits: 2) }
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Tempo CPU complessivo: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (misurazione in corso)

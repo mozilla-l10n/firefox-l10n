@@ -35,13 +35,13 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Protezione antitracciamento avanzata
     .aria-label = Protezione antitracciamento avanzata: attiva per { $host }
     .description = Attiva per questo sito
-protections-panel-etp-toggle-off =
     .label = Protezione antitracciamento avanzata
+protections-panel-etp-toggle-off =
     .aria-label = Protezione antitracciamento avanzata: disattivata per { $host }
     .description = Disattivata per questo sito
+    .label = Protezione antitracciamento avanzata
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.

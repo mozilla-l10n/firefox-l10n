@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = di { $name }
 cfr-doorhanger-extension-notification = Suggerimento
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Suggerimento
-    .tooltiptext = Estensione suggerita
     .a11y-announcement = È disponibile un suggerimento per un’estensione
+    .tooltiptext = Estensione suggerita
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Suggerimento
-    .tooltiptext = Funzione suggerita
     .a11y-announcement = È disponibile un suggerimento per una funzione
+    .tooltiptext = Funzione suggerita
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -66,8 +66,8 @@ cfr-doorhanger-bookmark-fxa-body = Ottima scoperta. Assicurati di non restare se
 cfr-doorhanger-bookmark-fxa-body-2 = Ottima scoperta. Assicurati di non restare senza questo segnalibro sul tuo dispositivo mobile. Crea un account.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizza subito i segnalibri…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
-    .title = Chiudi
     .aria-label = Pulsante di chiusura
+    .title = Chiudi
 fxa-adoption-addresses-backup-title = Fai il backup degli indirizzi salvati
 fxa-adoption-addresses-backup-subtitle = Proteggi gli indirizzi che hai salvato sincronizzandoli con i tuoi dispositivi usando la crittografia.
 fxa-adoption-credit-cards-backup-title = Fai il backup dei tuoi metodi di pagamento
@@ -97,7 +97,7 @@ cfr-whatsnew-release-notes-link-text = Leggi le note di versione
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
-cfr-doorhanger-milestone-heading2 = { -brand-short-name } ha bloccato oltre <b>{ $blockedCount }</b> elementi traccianti da { DATETIME($date, year: "numeric", month: "long") }.
+cfr-doorhanger-milestone-heading2 = { -brand-short-name } ha bloccato oltre <b>{ $blockedCount }</b> elementi traccianti da { DATETIME($date, month: "long", year: "numeric") }.
 cfr-doorhanger-milestone-ok-button = Visualizza tutto
     .accesskey = V
 cfr-doorhanger-milestone-close-button = Chiudi
@@ -359,8 +359,8 @@ root-certificate-windows-background-notification-update-button = Aggiorna { -bra
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 fxa-menu-message-sign-up-button = Registrati
 fxa-menu-message-sign-in-button = Accedi
 fxa-menu-message-sync-button = Avvia la sincronizzazione

@@ -9,8 +9,8 @@ site-data-settings-window =
     .title = Gestione cookie e dati dei siti web
 site-data-settings-description = I seguenti siti web stanno salvando cookie e dati su questo computer. I dati salvati nell’archivio permanente vengono mantenuti in { -brand-short-name } fino a quando non vengono rimossi dall’utente, mentre i dati salvati nell’archivio non permanente vengono rimossi quando è necessario recuperare spazio.
 site-data-search-textbox =
-    .accesskey = C
     .placeholder = Cerca sito web
+    .accesskey = C
 site-data-column-host =
     .label = Sito
 site-data-column-cookies =
@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Rimuovi
+    .title = { site-data-removing-header }
 site-data-removing-header = Rimozione cookie e dati dei siti web
 site-data-removing-desc = La rimozione di cookie e dati dei siti web potrebbe comportare la disconnessione dai siti web. Rimuovere i dati?
 # Variables:

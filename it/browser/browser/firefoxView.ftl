@@ -17,8 +17,8 @@ firefoxview-page-heading =
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = adesso
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -217,7 +217,7 @@ firefoxview-sort-open-tabs-by-order-label = Mantieni l’ordine delle schede
 firefoxview-history-date-today = Oggi - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Ieri - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-history-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 # When history is sorted by site, this heading is used in place of a domain, in
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
@@ -255,8 +255,8 @@ firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } no
 
 # This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
 firefoxview-import-history-close-button =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 

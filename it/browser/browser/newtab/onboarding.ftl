@@ -608,7 +608,7 @@ smartwindow-existing-user-fx-tou-go-back = Torna indietro
 
 ## Smart Window about:welcome screen
 
-smartwindow-onboarding-title = Rendi { -smart-window-brand-name(plural-form: "false", capitalization: "uppercase") } il tuo punto di partenza
+smartwindow-onboarding-title = Rendi { -smart-window-brand-name(capitalization: "uppercase", plural-form: "false") } il tuo punto di partenza
 smartwindow-onboarding-subtitle = Riassumi, confronta e fai domande senza perdere un colpo.
 smartwindow-onboarding-primary-button = Continua
 # Kit is referring to the Firefox mascot

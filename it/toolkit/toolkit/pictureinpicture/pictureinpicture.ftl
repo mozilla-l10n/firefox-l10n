@@ -13,32 +13,32 @@ pictureinpicture-player-title = Picture-in-Picture
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 pictureinpicture-pause-btn =
-    .tooltip = Pausa (barra spaziatrice)
     .aria-label = Pausa
+    .tooltip = Pausa (barra spaziatrice)
 pictureinpicture-play-btn =
-    .tooltip = Riproduci (barra spaziatrice)
     .aria-label = Riproduci
+    .tooltip = Riproduci (barra spaziatrice)
 pictureinpicture-mute-btn =
-    .tooltip = Disattiva audio ({ $shortcut })
     .aria-label = Disattiva audio
+    .tooltip = Disattiva audio ({ $shortcut })
 pictureinpicture-unmute-btn =
-    .tooltip = Attiva audio ({ $shortcut })
     .aria-label = Attiva audio
+    .tooltip = Attiva audio ({ $shortcut })
 pictureinpicture-unpip-btn =
-    .tooltip = Rimanda alla scheda
     .aria-label = Rimanda alla scheda
+    .tooltip = Rimanda alla scheda
 pictureinpicture-close-btn =
-    .tooltip = Chiudi ({ $shortcut })
     .aria-label = Chiudi
+    .tooltip = Chiudi ({ $shortcut })
 pictureinpicture-subtitles-btn =
-    .tooltip = Sottotitoli
     .aria-label = Sottotitoli
+    .tooltip = Sottotitoli
 pictureinpicture-fullscreen-btn2 =
-    .tooltip = Schermo intero (doppio clic o { $shortcut })
     .aria-label = Schermo intero
+    .tooltip = Schermo intero (doppio clic o { $shortcut })
 pictureinpicture-exit-fullscreen-btn2 =
-    .tooltip = Esci da schermo intero (doppio clic o { $shortcut })
     .aria-label = Esci da schermo intero
+    .tooltip = Esci da schermo intero (doppio clic o { $shortcut })
 
 ##
 
@@ -52,14 +52,14 @@ pictureinpicture-toggle-fullscreen-shortcut =
 ## DOM node that then shows the tooltip.
 
 pictureinpicture-seekbackward-btn =
-    .tooltip = Indietro (←)
     .aria-label = Indietro
+    .tooltip = Indietro (←)
 pictureinpicture-seekforward-btn =
-    .tooltip = Avanti (→)
     .aria-label = Avanti
+    .tooltip = Avanti (→)
 pictureinpicture-playback-rate-btn =
-    .tooltip = Velocità di riproduzione
     .aria-label = Velocità di riproduzione
+    .tooltip = Velocità di riproduzione
 
 ##
 

@@ -106,21 +106,21 @@ fp-certerror-self-signed-important-note = NOTA IMPORTANTE: se stai tentando di v
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = I siti utilizzano certificati emessi da un’autorità di certificazione per dimostrare di essere veramente chi dichiarano di essere. { -brand-short-name } non considera attendibile questo sito in quanto sembra che il certificato sia scaduto il { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") }.
+fp-certerror-expired-why-dangerous-body = I siti utilizzano certificati emessi da un’autorità di certificazione per dimostrare di essere veramente chi dichiarano di essere. { -brand-short-name } non considera attendibile questo sito in quanto sembra che il certificato sia scaduto il { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = I siti utilizzano certificati emessi da un’autorità di certificazione per dimostrare di essere veramente chi dichiarano di essere. { -brand-short-name } non considera attendibile questo sito in quanto sembra che il certificato non sarà valido fino al { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } .
+fp-certerror-not-yet-valid-why-dangerous-body = I siti utilizzano certificati emessi da un’autorità di certificazione per dimostrare di essere veramente chi dichiarano di essere. { -brand-short-name } non considera attendibile questo sito in quanto sembra che il certificato non sarà valido fino al { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } .
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = L’orologio del dispositivo è impostato su { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") }. Se questa informazione è corretta, probabilmente il problema di sicurezza dipende dal sito stesso. Se è errata, puoi modificarla nelle impostazioni di sistema del dispositivo.
+fp-certerror-expired-what-can-you-do-body = L’orologio del dispositivo è impostato su { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Se questa informazione è corretta, probabilmente il problema di sicurezza dipende dal sito stesso. Se è errata, puoi modificarla nelle impostazioni di sistema del dispositivo.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Codice di errore: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, day: "numeric", year: "numeric", month: "short") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +133,11 @@ fp-learn-more-about-time-related-errors = Scopri di più sulla risoluzione dei p
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } non considera attendibile questo sito in quanto sembra che il certificato fornito sia valido solo a partire dalle { DATETIME($date, timeStyle: "short") } del { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") }
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } non considera attendibile questo sito in quanto sembra che il certificato fornito sia valido solo a partire dalle { DATETIME($date, timeStyle: "short") } del { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = L’orologio del dispositivo è impostato su { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") }. Se questa informazione è corretta, probabilmente il problema di sicurezza dipende dal sito stesso. Se è errata, puoi modificarla nelle impostazioni di sistema del dispositivo.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = L’orologio del dispositivo è impostato su { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Se questa informazione è corretta, probabilmente il problema di sicurezza dipende dal sito stesso. Se è errata, puoi modificarla nelle impostazioni di sistema del dispositivo.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

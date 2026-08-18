@@ -8,7 +8,7 @@ notification-learnmore-default-label =
 # "infobar" (message shown when for example a popup is blocked),
 # and shown when hovering over the button
 notification-close-button =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 close-notification-message =
     .tooltiptext = Chiudi questo avviso

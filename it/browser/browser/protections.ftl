@@ -15,8 +15,8 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] <b>{ $count }</b> elemento tracciante bloccato dal { DATETIME($earliestDate, day: "numeric", year: "numeric", month: "long") }
-       *[other] <b>{ $count }</b> elementi traccianti bloccati dal { DATETIME($earliestDate, day: "numeric", year: "numeric", month: "long") }
+        [one] <b>{ $count }</b> elemento tracciante bloccato dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> elementi traccianti bloccati dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } continua a bloccare gli elementi traccianti in navigazione anonima, ma non tiene traccia di ciò che è stato bloccato.
@@ -50,8 +50,8 @@ fingerprinter-tab-content = I fingerprinter raccolgono informazioni sulle impost
 cryptominer-tab-title = Cryptominer
 cryptominer-tab-content = I cryptominer utilizzano le risorse del sistema per effettuare il “mining” di valute digitali. Questi script consumano la batteria, rallentano il computer e possono aumentare il costo della bolletta elettrica. <a data-l10n-name="learn-more-link">Ulteriori informazioni</a>
 protections-close-button2 =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 mobile-app-title = Blocca le pubblicità traccianti su tutti i tuoi dispositivi
 mobile-app-card-content = Utilizza il browser <em>mobile</em> con protezione integrata contro le pubblicità traccianti.
 mobile-app-links = Browser { -brand-product-name } per <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -169,32 +169,32 @@ monitor-resolve-breaches-link = Risolvi violazioni
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Traccianti dei social media
     .aria-label =
         { $count ->
             [one] { $count } tracciante dei social media ({ $percentage }%)
            *[other] { $count } traccianti dei social media ({ $percentage }%)
         }
+    .title = Traccianti dei social media
 bar-tooltip-cookie =
-    .title = Cookie traccianti intersito
     .aria-label =
         { $count ->
             [one] { $count } cookie tracciante intersito ({ $percentage }%)
            *[other] { $count } cookie traccianti intersito ({ $percentage }%)
         }
+    .title = Cookie traccianti intersito
 bar-tooltip-tracker =
-    .title = Contenuti traccianti
     .aria-label =
         { $count ->
             [one] { $count } contenuto tracciante ({ $percentage }%)
            *[other] { $count } contenuti traccianti ({ $percentage }%)
         }
+    .title = Contenuti traccianti
 bar-tooltip-fingerprinter =
-    .title = Fingerprinter
     .aria-label = { $count } fingerprinter ({ $percentage }%)
+    .title = Fingerprinter
 bar-tooltip-cryptominer =
-    .title = Cryptominer
     .aria-label = { $count } cryptominer ({ $percentage }%)
+    .title = Cryptominer
 # Privacy Metrics Card
 privacy-metrics-title = Protezione della privacy
 # Variables:

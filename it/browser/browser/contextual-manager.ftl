@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .key = F
     .aria-label = Cerca nelle password
+    .key = F
     .placeholder = Cerca nelle password
 contextual-manager-menu-more-options-button =
     .title = Altre opzioni
@@ -249,32 +249,32 @@ contextual-manager-alert-icon =
 # Variables
 #   $url (string) - The url associated with the login
 contextual-manager-origin-login-line =
-    .title = Visita { $url }
     .aria-label = Visita { $url }
+    .title = Visita { $url }
 # "(Warning)" indicates that a login's origin field has an alert icon.
 # Variables
 #   $url (string) - The url associated with the login
 contextual-manager-origin-login-line-with-alert =
-    .title = Visita { $url } (avviso)
     .aria-label = Visita { $url } (avviso)
+    .title = Visita { $url } (avviso)
 # Variables
 #   $username (string) - The username associated with the login
 contextual-manager-username-login-line =
-    .title = Copia nome utente { $username }
     .aria-label = Copia nome utente { $username }
+    .title = Copia nome utente { $username }
 # "(Warning)" indicates that a login's username field has an alert icon.
 # Variables
 #   $username (string) - The username associated with the login
 contextual-manager-username-login-line-with-alert =
-    .title = Copia nome utente { $username } (avviso)
     .aria-label = Copia nome utente { $username } (avviso)
+    .title = Copia nome utente { $username } (avviso)
 contextual-manager-password-login-line =
-    .title = Copia password
     .aria-label = Copia password
+    .title = Copia password
 # "(Warning)" indicates that a login's password field has an alert icon.
 contextual-manager-password-login-line-with-alert =
-    .title = Copia password (avviso)
     .aria-label = Copia password (avviso)
+    .title = Copia password (avviso)
 contextual-manager-edit-login-button = Modifica
     .tooltiptext = Modifica la password
 contextual-manager-view-alert-heading =
@@ -298,11 +298,11 @@ contextual-manager-view-alert-button-2 =
            *[other] Esamina avvisi
         }
 contextual-manager-show-password-button =
-    .title = Mostra password
     .aria-label = Mostra password
+    .title = Mostra password
 contextual-manager-hide-password-button =
-    .title = Nascondi password
     .aria-label = Nascondi password
+    .title = Nascondi password
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nessuna password trovata

@@ -3,5 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 moz-button-more-options =
-    .title = Altre opzioni
     .aria-label = Altre opzioni
+    .title = Altre opzioni

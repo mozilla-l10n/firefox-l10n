@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Personalizza
 newtab-customize-panel-label =
     .label = Personalizza
 newtab-personalize-settings-icon-label =
-    .title = Personalizza Nuova scheda
     .aria-label = Impostazioni
+    .title = Personalizza Nuova scheda
 newtab-settings-dialog-label =
     .aria-label = Impostazioni
 newtab-personalize-icon-label =
-    .title = Personalizza Nuova scheda
     .aria-label = Personalizza Nuova scheda
+    .title = Personalizza Nuova scheda
 newtab-personalize-dialog-label =
     .aria-label = Personalizza
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -57,8 +57,8 @@ home-custom-homepage-address-button =
 home-custom-homepage-no-results =
     .label = Non è stato ancora aggiunto alcun sito.
 home-custom-homepage-delete-address-button =
-    .title = Elimina indirizzo
     .aria-label = Elimina indirizzo
+    .title = Elimina indirizzo
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Ricerca
 home-prefs-stories-header2 =
-    .label = Storie
     .description = Contenuti eccezionali curati dalla famiglia di prodotti { -brand-product-name }
+    .label = Storie
 home-prefs-widgets-header =
     .label = Widget
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -323,8 +323,8 @@ newtab-stocks-error-not-available = I dati sulle azioni non sono disponibili.
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Opzioni del widget Azioni
     .aria-label = Opzioni del widget Azioni
+    .title = Opzioni del widget Azioni
 # Heading for the Stocks widget.
 newtab-stocks-widget-title = Azioni
 
@@ -364,14 +364,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Opzioni immagine del giorno
     .aria-label = Opzioni immagine del giorno
+    .title = Opzioni immagine del giorno
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Imposta l’immagine del giorno come sfondo
     .label = Imposta sfondo
     .title = Imposta sfondo
-    .aria-label = Imposta l’immagine del giorno come sfondo
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gestisci sfondo
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -383,8 +383,8 @@ newtab-picture-menu-show-photo = Mostra immagine del giorno
 newtab-picture-menu-learn-more = Ulteriori informazioni
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Mostra immagine del giorno
     .aria-label = Mostra immagine del giorno
+    .title = Mostra immagine del giorno
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Ricontrolla domani per una nuova immagine
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -395,8 +395,8 @@ newtab-picture-image-alt = Immagine del giorno da Wikimedia Commons
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Cerca
     .aria-label = Cerca
+    .title = Cerca
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cerca con { $engine } o inserisci un indirizzo
@@ -404,13 +404,13 @@ newtab-search-box-handoff-text-no-engine = Cerca o inserisci un indirizzo
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
-    .title = Cerca con { $engine } o inserisci un indirizzo
     .aria-label = Cerca con { $engine } o inserisci un indirizzo
     .placeholder = Cerca con { $engine } o inserisci un indirizzo
+    .title = Cerca con { $engine } o inserisci un indirizzo
 newtab-search-box-handoff-input-no-engine =
-    .title = Cerca o inserisci un indirizzo
     .aria-label = Cerca o inserisci un indirizzo
     .placeholder = Cerca o inserisci un indirizzo
+    .title = Cerca o inserisci un indirizzo
 newtab-search-box-text = Cerca sul Web
 newtab-search-box-input =
     .aria-label = Cerca sul Web
@@ -424,8 +424,8 @@ newtab-topsites-edit-topsites-header = Modifica sito principale
 newtab-topsites-edit-shortcut-header = Modifica scorciatoia
 newtab-topsites-add-shortcut-label = Aggiungi scorciatoia
 newtab-topsites-add-shortcut-title =
-    .title = Aggiungi scorciatoia
     .aria-label = Aggiungi scorciatoia
+    .title = Aggiungi scorciatoia
 newtab-shortcuts-pinned-area = Area siti appuntati
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
@@ -464,8 +464,8 @@ newtab-topsite-sponsored = Sponsorizzato
 # Variables:
 #   $title (string) - The label or hostname of the site.
 topsite-label-pinned =
-    .title = { $title }
     .aria-label = { $title } (appuntato)
+    .title = { $title }
 
 ## Top Sites - Web notifications hover card
 
@@ -475,35 +475,35 @@ newtab-topsites-hover-card-header = Notifiche da { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Adesso
 newtab-topsites-hover-card-mark-all-read =
-    .title = Segna tutte come lette
     .aria-label = Segna tutte come lette
+    .title = Segna tutte come lette
 newtab-topsites-hover-card-settings =
-    .title = Impostazioni notifiche
     .aria-label = Impostazioni notifiche
+    .title = Impostazioni notifiche
 newtab-topsites-hover-card-dismiss =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Apri menu
     .aria-label = Apri menu
+    .title = Apri menu
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Rimuovi
     .aria-label = Rimuovi
+    .title = Rimuovi
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Apri menu
     .aria-label = Apri menu contestuale per { $title }
+    .title = Apri menu
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Modifica questo sito
     .aria-label = Modifica questo sito
+    .title = Modifica questo sito
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -681,8 +681,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Grazie. Conoscere la tua opinione ci aiuta a migliorare il tuo feed.
 newtab-toast-dismiss-button =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -701,13 +701,13 @@ newtab-custom-shortcuts-title = Scorciatoie
 newtab-custom-shortcuts-subtitle = Siti che hai salvato oppure visitato
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Scorciatoie
     .description = Siti che hai salvato oppure visitato
+    .label = Scorciatoie
 newtab-custom-shortcuts-nova =
     .label = Scorciatoie
 newtab-custom-web-notifications-toggle =
-    .label = Notifiche web
     .description = Mostra le notifiche dei siti sulle relative scorciatoie.
+    .label = Notifiche web
 newtab-custom-row-description =
     .description = Numero di righe
 # Variables
@@ -731,8 +731,8 @@ newtab-custom-pocket-title = Consigliati da { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contenuti eccezionali a cura di { -pocket-brand-name }, un membro della famiglia { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Storie consigliate
     .description = Contenuti eccezionali curati dalla famiglia di prodotti { -brand-product-name }
+    .label = Storie consigliate
 newtab-recommended-stories-toggle =
     .label = Storie consigliate
 newtab-custom-stories-personalized-toggle =
@@ -745,8 +745,8 @@ newtab-custom-pocket-show-recent-saves = Mostra elementi salvati di recente
 newtab-custom-recent-title = Attività recente
 newtab-custom-recent-subtitle = Una selezione di siti e contenuti visualizzati di recente
 newtab-custom-weather-toggle =
-    .label = Meteo
     .description = Panoramica delle previsioni meteo per oggi
+    .label = Meteo
 newtab-custom-widget-weather-toggle =
     .label = Meteo
 newtab-custom-widget-lists-toggle =
@@ -771,8 +771,8 @@ newtab-widget-manage-widget-button =
     .label = Gestisci widget
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Chiudi
     .aria-label = Chiudi menu
+    .title = Chiudi
 newtab-custom-close-button = Chiudi
 newtab-custom-settings = Gestisci altre impostazioni
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -887,11 +887,11 @@ newtab-wallpaper-feature-highlight-content = Dai un look diverso alle nuove sche
 newtab-wallpaper-feature-highlight-button = OK
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Chiudi
     .aria-label = Chiudi pop-up
+    .title = Chiudi
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -963,8 +963,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Mostra le previsioni meteo in { $provider }
     .aria-description = { $provider } ∙ Sponsorizzato
+    .title = Mostra le previsioni meteo in { $provider }
 
 ## Topic Labels
 
@@ -1176,8 +1176,8 @@ newtab-widget-lists-input-menu-edit = Modifica
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Modifica elemento
 newtab-widget-lists-edit-clear =
-    .title = Annulla
     .aria-label = Annulla
+    .title = Annulla
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Opzioni liste
@@ -1214,20 +1214,20 @@ newtab-widget-size-medium = Media
 newtab-widget-size-large = Grande
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Nascondi widget
     .aria-label = Nascondi tutti i widget
+    .title = Nascondi widget
 newtab-widget-section-maximize =
-    .title = Espandi widget
     .aria-label = Espandi tutti i widget alla massima dimensione
+    .title = Espandi widget
 newtab-widget-section-minimize =
-    .title = Minimizza widget
     .aria-label = Comprimi tutti i widget alla dimensione più compatta
+    .title = Minimizza widget
 newtab-widget-section-menu-button =
-    .title = Menu widget
     .aria-label = Apri il menu widget
+    .title = Menu widget
 newtab-widget-add-widgets-button =
-    .title = Aggiungi widget
     .aria-label = Aggiungi widget
+    .title = Aggiungi widget
 newtab-widget-section-menu-manage = Gestisci widget
 newtab-widget-section-menu-hide-all = Nascondi widget
 newtab-widget-section-menu-learn-more = Ulteriori informazioni
@@ -1285,8 +1285,8 @@ newtab-promo-card-title = Sostieni { -brand-product-name }
 newtab-promo-card-body = Gli sponsor sostengono la nostra missione per un Web migliore
 newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1380,11 +1380,11 @@ newtab-sports-widget-watch =
     .title = Guarda online
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch-icon =
-    .title = Guarda in diretta
     .aria-label = Guarda in diretta
+    .title = Guarda in diretta
 newtab-sports-widget-watch-dialog-close =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 # Tag: user can watch without paying (sign-in may still be required).
 newtab-sports-widget-watch-stream-free = Gratuito
 # Tag: user can start watching via a trial; continued access may require payment after it ends.
@@ -1401,8 +1401,8 @@ newtab-sports-widget-watch-available-region = Disponibili nella tua regione
 newtab-sports-widget-watch-available-other-regions = Altre regioni
 # Button that opens the provider’s stream page in a new tab.
 newtab-sports-widget-watch-play =
-    .title = Apri diretta video
     .aria-label = Apri diretta video
+    .title = Apri diretta video
 newtab-sports-widget-group-stage = Fase a gironi
 newtab-sports-widget-group-a = Gruppo A
 newtab-sports-widget-group-b = Gruppo B
@@ -1422,8 +1422,8 @@ newtab-sports-widget-quarter-finals = Quarti di finale
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
-    .title = Aggiorna risultati
     .aria-label = Aggiorna risultati
+    .title = Aggiorna risultati
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Date importanti
 newtab-sports-widget-upcoming = In arrivo
@@ -1473,18 +1473,18 @@ newtab-sports-widget-no-upcoming-matches = Torna presto per scoprire i dettagli 
 
 # arrow button that goes to the previous page of live matches.
 newtab-sports-widget-pagination-previous =
-    .title = Precedente
     .aria-label = Precedente
+    .title = Precedente
 # arrow button that goes to the next page of live matches.
 newtab-sports-widget-pagination-next =
-    .title = Successivo
     .aria-label = Successivo
+    .title = Successivo
 # Dot indicator that jumps directly to a given live match.
 # $index (number) - 1-based position of this dot in the list.
 # $total (number) - Total number of live matches.
 newtab-sports-widget-pagination-dot =
-    .title = Partita in diretta { $index } di { $total }
     .aria-label = Partita in diretta { $index } di { $total }
+    .title = Partita in diretta { $index } di { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1578,8 +1578,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1604,34 +1604,34 @@ newtab-clock-widget-menu-switch-to-12h = Passa al formato 12 ore
 newtab-clock-widget-menu-switch-to-24h = Passa al formato 24 ore
 newtab-clock-widget-label-your-clocks = I tuoi orologi
 newtab-clock-widget-search-location-input =
-    .label = Posizione
     .aria-label = Cerca una città
+    .label = Posizione
     .placeholder = Cerca una città
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
-    .label = Nome (facoltativo)
     .aria-label = Nome (facoltativo)
+    .label = Nome (facoltativo)
     .placeholder = Aggiungi un nome
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Aggiungi nuovo orologio
     .aria-label = Aggiungi nuovo orologio
+    .title = Aggiungi nuovo orologio
 newtab-clock-widget-button-add-clock = Aggiungi
 newtab-clock-widget-button-cancel = Annulla
 newtab-clock-widget-button-back =
-    .title = Indietro
     .aria-label = Indietro
+    .title = Indietro
 newtab-clock-widget-button-edit-clock =
-    .title = Modifica orologio
     .aria-label = Modifica orologio
+    .title = Modifica orologio
 newtab-clock-widget-button-save = Salva
 newtab-clock-widget-button-remove-clock =
-    .title = Rimuovi orologio
     .aria-label = Rimuovi orologio
+    .title = Rimuovi orologio
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1659,14 +1659,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Aggiungi “{ $city }” come orologio personalizzato
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Nome della città
     .aria-label = Nome della città
+    .label = Nome della città
     .placeholder = Assegna un nome a questo orologio
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Fuso orario
     .aria-label = Fuso orario
+    .label = Fuso orario
     .placeholder = Cerca per città, fuso orario o differenza con UTC
 newtab-clock-widget-custom-zone-results =
     .aria-label = Risultati fusi orari
@@ -1682,8 +1682,8 @@ newtab-clock-widget-search-no-results = Nessuna corrispondenza
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Apri il menu per l’orologio
     .aria-label = Apri il menu per l’orologio
+    .title = Apri il menu per l’orologio
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Nome: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the
