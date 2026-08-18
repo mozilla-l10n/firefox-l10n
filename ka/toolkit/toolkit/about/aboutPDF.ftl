@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = ეს ფაილი მხარდაუ�
 about-pdf-dropzone-error-generic = ატვირთვა ვერ შედგა. სცადეთ მოგვიანებით.
 about-pdf-browse-files =
     .label = ფაილებიდან არჩევა
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = გახსენით PDF
 about-pdf-promo =
     .heading = აქციეთ { -brand-short-name } თქვენს რჩეულ PDF-შემსწორებლად
     .message = გამოიყენეთ { -brand-short-name }, რომ გახსნათ PDF-ფაილები და დაამუშაოთ ერთ სივრცეში, ნაწერის გამოსარჩევად, ხელმოსაწერად, გვერდების გასაერთიანებლად თუ ჩანიშვნების დასართავად.

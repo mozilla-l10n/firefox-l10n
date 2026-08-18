@@ -34,6 +34,43 @@ neterror-view-certificate-link = სერტიფიკატის ნახ�
 neterror-trr-continue-this-time = განაგრძოს ამჯერად
 neterror-disable-native-feedback-warning = ყოველთვის განაგრძოს
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = ეს საიტი მიუწვდომელია
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = დაკავშირება ვერ ხერხდება მისამართზე { $domain }.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = სცადეთ შემდეგი ნაბიჯები:
+neterror-search-cta-hint-check-address = ხელახლა გადაამოწმეთ ვებსაიტის მისამართი
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = მოიძიეთ ვებსივრცეში მოცემული საიტი
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = მოძებნეთ ინტერნეტში <strong>„{ $query }“</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = ძიება
+    .accesskey = ძ
+    .tooltiptext = გახსნის ძიების შედეგებს ახალ ჩანართში
+neterror-search-cta-reload-button =
+    .label = გაახლება
+    .accesskey = გ
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = იტვირთება
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = როგორც ჩანს, კავშირგარეშედ ხართ. ახლიდან დაუკავშირდით და კვლავ სცადეთ.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = შეცდომის კოდი: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = ვრცლად
+
 ##
 
 neterror-pref-reset = შესაძლოა, ამას თქვენი ქსელის უსაფრთხოების პარამეტრები იწვევდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?

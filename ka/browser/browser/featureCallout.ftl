@@ -145,7 +145,13 @@ taskbar-tabs-chat-callout-title-v3 = დარჩით კავშირზე
 taskbar-tabs-email-callout-title-v3 = დატოვეთ საფოსტო ყუთი ამოცანათა ზოლში
 taskbar-tabs-email-callout-subtitle-v3 = გახსენით ელფოსტის საიტები პროგრამის მსგავსად სადა იერსახის მქონე ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
 taskbar-tabs-media-callout-title-v3 = დატოვეთ ეთერში გაშვებული მასალები ამოცანათა ზოლში
-taskbar-tabs-media-callout-subtitle-v3 = გახსენით გაშვებული საიტები პროგრამის მსგავსად სადა იერსახის მქონე ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
+taskbar-tabs-media-callout-subtitle-v3 = გახსენით საიტები გასაშვები ფაილებით პროგრამის მსგავსად სადა იერსახის მქონე ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = დატოვეთ რჩეული საიტები ამოცანათა ზოლში
+taskbar-tabs-value-prop-callout-subtitle-v3 = გახსენით ნებისმიერი საიტი პროგრამის მსგავსად სადა იერსახის მქონე ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = დაუბრუნდით თამაშებს პირდაპირ ამოცანათა ზოლიდან
+taskbar-tabs-gaming-callout-subtitle-v3 = გახსენით თამაშების საიტები პროგრამის მსგავსად სადა იერსახის მქონე ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = სამუშაო ზოლზე მიმაგრება
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

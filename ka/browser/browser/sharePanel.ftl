@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = გვერდის გაზიარება
 share-panel-copy-link =
     .label = ბმულის ასლი
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = ბმული აღებულია
 share-panel-os-share =
     .label = გაზიარება…
 share-panel-mail =
