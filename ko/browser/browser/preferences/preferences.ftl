@@ -258,7 +258,7 @@ open-new-link-as-tabs =
     .label = 링크를 새 창 대신 새 탭에서 열기
     .accesskey = w
 open-external-link-next-to-active-tab =
-    .label = 다른 앱의 링크를 활성 탭 옆에 열기
+    .label = 외부 앱의 링크를 활성 탭 옆에 열기
 ask-on-close-multiple-tabs =
     .label = 여러 탭을 닫기 전에 묻기
     .accesskey = m
@@ -1236,6 +1236,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = 새 탭마다 컨테이너 선택
     .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = 외부 앱에서 연 링크에 컨테이너 사용 안 함
+    .accesskey = D
 containers-new-tab-check2 =
     .label = 새 탭마다 컨테이너 선택
     .accesskey = S
