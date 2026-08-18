@@ -100,6 +100,7 @@ ipprotection-location-selection-callout-secondary-button = აცილება
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = წაიყოლეთ ჩაშენებული VPN თქვენს Android-ზე
 ipprotection-android-promo-callout-primary-button = გასაგებია
 
 ## Panel

@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = გვერდითი ზოლის გაშლა მაჩვენებლის გადატარებისას
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = შეთვალიერება მაჩვენებლის ზედ გადატარებისას
 sidebar-manage-extensions2 = ყველა გაფართოების მართვა
 sidebar-customize-extensions-header2 = გაფართოებები
 sidebar-customize-firefox-tools-header2 =

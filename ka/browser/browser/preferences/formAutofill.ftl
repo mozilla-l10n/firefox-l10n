@@ -132,6 +132,7 @@ autofill-address-tel = ტელეფონი
 autofill-address-email = ელფოსტა
 autofill-cancel-button = გაუქმება
 autofill-save-button = შენახვა
+autofill-country-warning-message-2 = ველების თვითშევსება ამჟამად ხელმისაწვდომია მხოლოდ ცალკეულ ქვეყნებში
 autofill-country-warning-message = ველების თვითშევსება ამჟამად მიუწვდომელია ცალკეული ქვეყნებისთვის.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ახალი საკრედიტო ბარათის დამატება
