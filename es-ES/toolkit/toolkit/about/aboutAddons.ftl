@@ -115,11 +115,11 @@ legacy-extensions =
     .value = Extensiones clásicas
 legacy-extensions-description = Estas extensiones no cumplen los estándares actuales de { -brand-short-name } por lo que han sido desactivadas. <label data-l10n-name="legacy-learn-more">Conozca sobre los cambios a los complementos</label>
 private-browsing-description2 =
-    { -brand-short-name } está cambiando la forma en que funcionan las extensiones en la navegación privada. Cualquier nueva extensión que agregues a
-    { -brand-short-name } no se ejecutará de forma predeterminada en las ventanas privadas. A menos que lo permitas en los Ajustes, la
-    la extensión no funcionará durante la navegación privada, y no tendrá acceso a tus actividades en línea
-    ahí. Hemos realizado este cambio para mantener privada tu navegación privada.
-    <label data-l10n-name = "private-browsing-learn-more">Descubre cómo administrar la configuración de las extensiones.</label>
+    { -brand-short-name } está cambiando la forma en que funcionan las extensiones en la navegación privada. Cualquier nueva extensión que agregue a
+    { -brand-short-name } no se ejecutará de forma predeterminada en las ventanas privadas. A menos que lo permita en los Ajustes, la
+    extensión no funcionará durante la navegación privada, y no tendrá acceso a sus actividades en línea
+    ahí. Hemos realizado este cambio para mantener privada su navegación privada.
+    <label data-l10n-name = "private-browsing-learn-more">Descubra cómo administrar la configuración de las extensiones.</label>
 aboutaddons-sidebar =
     .heading = Complementos
 addon-category-discover = Recomendaciones
@@ -273,8 +273,8 @@ discopane-intro =
     Las extensiones y temas son como aplicaciones para el navegador y le permiten
     proteger sus contraseñas, descargar vídeos, encontrar ofertas, bloquear publicidad,
     cambiar la apariencia del navegador y mucho más. Suelen ser terceros los que desarrollan
-    estos pequeños programas de software. Te ofrecemos una selección de { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">recomendados</a> en seguridad, rendimiento
+    estos pequeños programas de software. Le ofrecemos una selección de
+    <a data-l10n-name="learn-more-trigger">recomendaciones</a> de { -brand-product-name } basadas en seguridad, rendimiento
     y funcionalidad excepcionales.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan en otras extensiones que tiene instaladas, preferencias de su perfil y estadísticas de uso.
@@ -418,7 +418,7 @@ addon-badge-private-browsing-allowed3 =
 addon-badge-private-browsing-allowed2 =
     .title = Permitido en ventanas privadas
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que haces mientras navegas de forma privada. <a data-l10n-name="learn-more">Descubre más</a>
+addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que hace mientras navega de forma privada. <a data-l10n-name="learn-more">Más información</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
 # aria-label associated to the private browsing row to help screen readers to announce the group
@@ -553,13 +553,13 @@ details-notification-soft-blocked-extension-enabled2 =
 details-notification-soft-blocked-other-disabled2 =
     .message = Este complemento está restringido y ha sido desactivado. Se puede activar, pero podría ser arriesgado.
 details-notification-soft-blocked-other-enabled2 =
-    .message = Este complemento está restringido. Usarla puede ser arriesgado.
+    .message = Este complemento está restringido. Usarlo puede ser arriesgado.
 details-notification-soft-blocked-extension-disabled =
     .message = Esta extensión está restringida por violar las políticas de Mozilla y ha sido desactivada. Se puede activar, pero podría ser arriesgado.
 details-notification-soft-blocked-extension-enabled =
     .message = Esta extensión viola las políticas de Mozilla. Usarla podría ser arriesgado.
 details-notification-soft-blocked-other-disabled =
-    .message = Este complemento está restringido por violar las políticas de Mozilla y ha sido desactivada. Se puede activar, pero podría ser arriesgado.
+    .message = Este complemento está restringido por violar las políticas de Mozilla y ha sido desactivado. Se puede activar, pero podría ser arriesgado.
 details-notification-soft-blocked-other-enabled =
     .message = Este complemento viola las políticas de Mozilla. Usarlo podría ser arriesgado.
 details-notification-softblocked-link2 = Ver detalles

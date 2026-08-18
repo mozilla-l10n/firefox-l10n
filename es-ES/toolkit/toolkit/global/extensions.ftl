@@ -56,7 +56,7 @@ webext-perms-sideload-cancel =
 webext-perms-update-text2 = { $extension } ha sido actualizado. Debe aprobar nuevos permisos antes de que se instale la versión actualizada. Si elige "Cancelar" mantendrá su versión actual de la extensión.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Se ha actualizado { $extension }. Tiene que aprobar nuevos permisos antes de poder instalar la nueva versión. Si seleccionas “Cancelar”, seguirá con la versión actual de la extensión. Esta extensión tendrá permiso para:
+webext-perms-update-text = Se ha actualizado { $extension }. Tiene que aprobar nuevos permisos antes de poder instalar la nueva versión. Si selecciona “Cancelar”, seguirá con la versión actual de la extensión. Esta extensión tendrá permiso para:
 webext-perms-update-accept =
     .label = Actualizar
     .accesskey = U
@@ -175,4 +175,4 @@ webext-site-perms-serial = Acceder a dispositivos serie
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Se ha eliminado el tema de combinación de colores.</b> { -brand-shorter-name } ha actualizado su colección de combinaciones de colores. Se pueden encontrar las últimas versiones en el sitio de complementos.
-webext-colorway-theme-migration-notification-button = Obtenga combinaciones de colores actualizados
+webext-colorway-theme-migration-notification-button = Obtenga combinaciones de colores actualizadas

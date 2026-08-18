@@ -173,7 +173,7 @@ tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Cerrar pestañas
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
-    .label = Permitir que notificaciones como ésta de { $domain } te lleven a su pestaña
+    .label = Permitir que notificaciones como ésta de { $domain } le lleven a su pestaña
 tabbrowser-customizemode-tab-title = Personalizar { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time

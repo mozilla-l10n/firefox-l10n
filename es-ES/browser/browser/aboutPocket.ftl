@@ -49,7 +49,7 @@ pocket-panel-signup-cta-c-updated = Vea sus elementos guardados en cualquier dis
 
 ## about:pocket-home panel
 
-pocket-panel-home-welcome-back = Te damos de nuevo la bienvenida
+pocket-panel-home-welcome-back = Le damos de nuevo la bienvenida
 pocket-panel-home-paragraph = Puede usar { -pocket-brand-name } para explorar y guardar páginas web, artículos, vídeos, podcasts o regresar a lo que había estado leyendo.
 pocket-panel-home-explore-popular-topics = Explorar temas populares
 pocket-panel-home-discover-more = Descubrir más

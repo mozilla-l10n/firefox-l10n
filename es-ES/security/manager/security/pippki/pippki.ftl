@@ -15,7 +15,7 @@ change-password-old = Contraseña actual:
 change-password-new = Nueva contraseña:
 change-password-reenter = Nueva contraseña (confirmar):
 pippki-failed-pw-change = No se puede cambiar la contraseña.
-pippki-incorrect-pw = No ha introducido la actual contraseña maestra correctamente. Vuelva a intentarlo.
+pippki-incorrect-pw = No ha introducido la contraseña actual correctamente. Vuelva a intentarlo.
 pippki-pw-change-ok = Contraseña cambiada correctamente.
 pippki-pw-empty-warning = Sus contraseñas almacenadas y claves privadas no estarán protegidas.
 pippki-pw-erased-ok = Ha eliminado su contraseña. { pippki-pw-empty-warning }
@@ -113,4 +113,4 @@ protected-auth-prompt = Por favor, autentíquese en el dispositivo de seguridad 
 
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Autentíquese utilizando el token “{ $tokenName }”. Cómo hacerlo depende del token (por ejemplo, usando un lector de huellas dactilares o introducoiendo un código con un teclado).
+protected-auth-alert = Autentíquese utilizando el token “{ $tokenName }”. Cómo hacerlo depende del token (por ejemplo, usando un lector de huellas dactilares o introduciendo un código con un teclado).

@@ -16,7 +16,7 @@ more-from-moz-firefox-mobile-description = El navegador para móvil que prioriza
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } para móviles
 more-from-moz-firefox-mobile =
     .label = { -brand-product-name } para móviles
-    .description = El navegador para móviles que prioriza tu privacidad.
+    .description = El navegador para móviles que prioriza su privacidad.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Descubra una capa adicional de navegación y protección anónimas.
 more-from-moz-qr-code-box-firefox-mobile-title = Descárguelo en su dispositivo móvil. Apunte con su cámara al código QR. Cuando aparezca un enlace, púlselo.
@@ -57,7 +57,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
-more-from-moz-thunderbird-description = Correo electrónico, calendario y contactos gratuitos — organizados a tu manera.
+more-from-moz-thunderbird-description = Correo electrónico, calendario y contactos gratuitos — organizados a su manera.
 more-from-moz-thunderbird-button = Obtener { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page

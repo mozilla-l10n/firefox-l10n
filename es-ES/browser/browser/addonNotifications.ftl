@@ -13,7 +13,7 @@ xpinstall-prompt-message = Está intentando instalar un complemento desde { $hos
 ##
 
 xpinstall-prompt-header-unknown = ¿Permitir que un sitio desconocido instale complementos?
-xpinstall-prompt-message-unknown = Estás intentando instalar un complemento desde un sitio desconocido. Asegúrate de que confías en el sitio antes de continuar.
+xpinstall-prompt-message-unknown = Está intentando instalar un complemento desde un sitio desconocido. Asegúrese de que confía en el sitio antes de continuar.
 xpinstall-prompt-dont-allow =
     .label = No permitir
     .accesskey = N
@@ -125,7 +125,7 @@ addon-install-error-network-failure = El complemento no ha podido ser descargado
 addon-install-error-incorrect-hash = Este complemento no ha podido ser instalado porque no concuerda con el complemento { -brand-short-name } esperado.
 addon-install-error-corrupt-file = El complemento descargado desde este sitio no ha podido ser instalado porque parece que está dañado.
 addon-install-error-file-access = { $addonName } no ha podido ser instalado porque { -brand-short-name } no puede modificar el archivo necesario.
-addon-install-error-not-signed = { -brand-short-name } ha evitado que este sitio instala un complemento no verificado.
+addon-install-error-not-signed = { -brand-short-name } ha evitado que este sitio instale un complemento no verificado.
 addon-install-error-invalid-domain = El complemento { $addonName } no se puede instalar desde esta dirección.
 addon-install-error-no-addon-name-file-access = No se ha podido instalar el complemento porque { -brand-short-name } no puede modificar el archivo necesario.
 addon-local-install-error-network-failure = Este complemento no ha podido ser instalado por un error en el sistema de ficheros.

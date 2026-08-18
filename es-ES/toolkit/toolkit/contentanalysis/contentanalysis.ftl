@@ -26,13 +26,13 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } está revisando lo
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está revisando el texto que ha soltado según las políticas de datos de su organización. Esto puede tardar un momento.
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está revisando el texto que ha arrastrado según las políticas de datos de su organización. Esto puede tardar un momento.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } está revisando lo que ha imprimido según las políticas de datos de su organización. Esto puede tomar un tiempo.
 contentanalysis-operationtype-clipboard = portapapeles
-contentanalysis-operationtype-dropped-text = texto soltado
-contentanalysis-operationtype-print = imprimir
+contentanalysis-operationtype-dropped-text = texto arrastrado
+contentanalysis-operationtype-print = impresión
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = Carga de “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -58,11 +58,11 @@ contentanalysis-unspecified-error-message-content = Se ha producido un error al 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
-contentanalysis-no-agent-connected-message-content = No se puede conectar con { $agent }.{ $content }
+contentanalysis-no-agent-connected-message-content = No se puede conectar con { $agent }. { $content }
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
-contentanalysis-invalid-agent-signature-message-content = Verificación de firma fallida para { $agent }.{ $content }
+contentanalysis-invalid-agent-signature-message-content = Verificación de firma fallida para { $agent }. { $content }
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Carga de “{ $filename }” denegada.

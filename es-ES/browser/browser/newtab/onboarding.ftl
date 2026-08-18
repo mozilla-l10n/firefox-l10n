@@ -167,9 +167,9 @@ fx100-thank-you-pin-primary-button-label =
 fx100-upgrade-thanks-header = 100 gracias
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
-fx100-upgrade-thank-you-body = Es nuestro lanzamiento número 100 de { -brand-short-name }. Gracias <em>a ti</em> por ayudarnos a construir un Internet mejor y más saludable.
+fx100-upgrade-thank-you-body = Es nuestro lanzamiento número 100 de { -brand-short-name }. Gracias <em>a usted</em> por ayudarnos a construir un Internet mejor y más saludable.
 # Message shown with either a pin-to-taskbar or set-default button.
-fx100-upgrade-thanks-keep-body = ¡Es nuestro lanzamiento número 100! Gracias por ser parte de nuestra comunidad. Mantén { -brand-short-name } a un clic de distancia para los próximos 100.
+fx100-upgrade-thanks-keep-body = ¡Es nuestro lanzamiento número 100! Gracias por ser parte de nuestra comunidad. Mantenga { -brand-short-name } a un clic de distancia para los próximos 100.
 mr2022-onboarding-secondary-skip-button-label = Saltar este paso
 
 ## MR2022 New User Easy Setup screen strings
@@ -265,11 +265,11 @@ mr2022-onboarding-colorway-description-expressionist = <b>Usted es un expresioni
 mr2022-onboarding-colorway-label-visionary = Visionario
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionario (verde)
-mr2022-onboarding-colorway-description-visionary = <b>Usted es un visionario</b> Cuestiona el status quo y mueve a otros a imaginar un futuro mejor.
+mr2022-onboarding-colorway-description-visionary = <b>Usted es un visionario.</b> Cuestiona el status quo y mueve a otros a imaginar un futuro mejor.
 mr2022-onboarding-colorway-label-activist = Activista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Activista (azul)
-mr2022-onboarding-colorway-description-activist = <b>Usted es un activista</b> Deja el mundo como un lugar mejor de lo que lo encontró y convence a otros a creer en el cambio.
+mr2022-onboarding-colorway-description-activist = <b>Usted es un activista.</b> Deja el mundo como un lugar mejor de lo que lo encontró y convence a otros a creer en el cambio.
 mr2022-onboarding-colorway-label-dreamer = Soñador
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Soñador (púrpura)
@@ -350,7 +350,7 @@ onboarding-device-migration-primary-button-label = Iniciar sesión
 ## Add-ons Picker screen
 
 amo-picker-title = Personalice su { -brand-short-name }
-amo-picker-subtitle = Las extensiones son como aplicaciones para el navegador y permiten proteger contraseñas, descargar videos, encontrar ofertas, bloquear publicidades molestas, cambiar la apariencia del navegador y mucho más.
+amo-picker-subtitle = Las extensiones son como aplicaciones para el navegador y permiten proteger contraseñas, descargar vídeos, encontrar ofertas, bloquear publicidades molestas, cambiar la apariencia del navegador y mucho más.
 amo-picker-install-button-label = Añadir a { -brand-short-name }
 amo-picker-install-complete-label = Instalado
 amo-picker-collection-link = Explorar más complementos
@@ -358,13 +358,13 @@ amo-picker-collection-link = Explorar más complementos
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
-onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerte a salvo
+onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerlo a salvo
 onboarding-easy-setup-security-and-privacy-subtitle = Nuestro navegador respaldado por una organización sin ánimo de lucro ayuda a evitar que las empresas le sigan en secreto por la web.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Mantenga todo cifrado cuando pase de un dispositivo a otro
 onboarding-mobile-download-security-and-privacy-subtitle = Cuando tenga todo sincronizado, { -brand-short-name } cifra las contraseñas, marcadores y más. Además, puede traer pestañas desde otros dispositivos.
 # Gratitude screen
-onboarding-gratitude-security-and-privacy-title = { -brand-short-name } siempre está de tu parte
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } siempre vela por usted
 onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más seguro y accesible para todos.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronice sus datos entre dispositivos
@@ -374,7 +374,7 @@ onboarding-sign-up-secondary-button = Empezar a navegar
 
 ## New user time and familiarity survey strings
 
-onboarding-new-user-time-based-survey-title = ¿Cuanto tiempo ha estado usando { -brand-short-name }?
+onboarding-new-user-time-based-survey-title = ¿Cuánto tiempo ha estado usando { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = ¿Cómo está de familiarizado con { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Su opinión nos ayuda a hacer { -brand-short-name } aún mejor.
 # When translating "next" it means the next screen in onboarding.
@@ -396,7 +396,7 @@ onboarding-new-user-survey-familiarity-based-option-4 = Lo he usado en el pasado
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Díganos dónde quiere las pestañas
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
-onboarding-new-tabs-subtitle = Cámbielo cuando quiera en los ajustes de barra lateral .
+onboarding-new-tabs-subtitle = Cámbielo cuando quiera en los ajustes de barra lateral.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Sus pestañas, a su manera
 # Setup screen for vertical tabs - subtitle for too many tabs variation
@@ -435,7 +435,7 @@ onboarding-horizontal-tabs-description =
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Pruebe un chatbot de IA en la barra lateral
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
-onboarding-genai-sidebar-subtitle = Resuma contenido web, genere ideas, redacte mensajes... todo mientras navega. Elija entre varios proveedores. Cambie de proveedor cuando quiera. <a data-l10n-name="learn-more">Saber más</a>
+onboarding-genai-sidebar-subtitle = Resuma contenido web, genere ideas, redacte mensajes… todo mientras navega. Elija entre varios proveedores. Cambie de proveedor cuando quiera. <a data-l10n-name="learn-more">Saber más</a>
 onboarding-genai-sidebar-primary-button = Seleccione un chatbot
 onboarding-genai-sidebar-secondary-button = Empezar a navegar
 
@@ -593,6 +593,6 @@ onboarding-refresh-onboarding-addons-subtitle = Las extensiones son pequeñas ap
 onboarding-refresh-onboarding-addons-title = Dele un impulso a su navegación
 onboarding-refresh-sync-subtitle = Acceda a sus marcadores, contraseñas y más en cualquier lugar donde haya iniciado sesión en { -brand-short-name }. Además, los datos están cifrados para que solo usted pueda verlos.
 onboarding-refresh-sync-title = En cualquier parte. Todo sincronizado.
-onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una asociación sin ánimo de lucro. Con su apoyo, estamos trabajando para que Internet sea más más segura y accesible para todos.
+onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una asociación sin ánimo de lucro. Con su apoyo, estamos trabajando para que Internet sea más segura y accesible para todos.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } siempre está de su parte

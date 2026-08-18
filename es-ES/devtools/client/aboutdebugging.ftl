@@ -51,7 +51,7 @@ about-debugging-sidebar-no-devices = No se han encontrado dispositivos
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Conectar
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
-about-debugging-sidebar-item-connect-button-connecting = Conectando...
+about-debugging-sidebar-item-connect-button-connecting = Conectando…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = Falló la conexión
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
@@ -62,7 +62,7 @@ about-debugging-sidebar-item-connect-button-connection-timeout = La conexión ha
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-browser = Esperando al navegador...
+about-debugging-sidebar-runtime-item-waiting-for-browser = Esperando al navegador…
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
 about-debugging-sidebar-runtime-item-unplugged = Desconectado
@@ -110,11 +110,11 @@ about-debugging-setup-usb-enable-button = Habilitar dispositivos USB
 about-debugging-setup-usb-disable-button = Deshabilitar dispositivos USB
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
-about-debugging-setup-usb-updating-button = Actualizando...
+about-debugging-setup-usb-updating-button = Actualizando…
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = Habilitado
 about-debugging-setup-usb-status-disabled = Deshabilitado
-about-debugging-setup-usb-status-updating = Actualizando...
+about-debugging-setup-usb-status-updating = Actualizando…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Activar menú de desarrollador en su dispositivo Android.
 # USB section step by step guide
@@ -189,7 +189,7 @@ about-debugging-runtime-processes =
     .name = Procesos
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button2 = Rendimiento del perfil
+about-debugging-runtime-profile-button2 = Analizar rendimiento
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
@@ -240,7 +240,7 @@ about-debugging-debug-target-list-empty = Nada todavía.
 about-debugging-debug-target-inspect-button = Inspeccionar
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
-about-debugging-tmp-extension-install-button = Cargar complemento temporal...
+about-debugging-tmp-extension-install-button = Cargar complemento temporal…
 # Text displayed when trying to install a temporary extension in the "This Firefox" page.
 about-debugging-tmp-extension-install-error = Hubo un error durante la instalación del complemento temporal.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
@@ -258,7 +258,7 @@ about-debugging-tmp-extension-terminate-bgscript-button = Terminar secuencia de 
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
-about-debugging-tmp-extension-install-message = Selecciona el archivo manifest.json o .xpi/.zip
+about-debugging-tmp-extension-install-message = Seleccione el archivo manifest.json o .xpi/.zip
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = Esta WebExtension tiene un ID temporal. <a>Saber más</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's

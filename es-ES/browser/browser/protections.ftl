@@ -42,7 +42,7 @@ graph-legend-description = La gráfica muestra el número total de cada tipo de 
 social-tab-title = Rastreadores de redes sociales
 social-tab-contant = Las redes sociales colocan rastreadores en otros sitios web para saber qué hace, ve y mira en línea. Ese rastreo les permite saber mucho más de lo que comparte en sus perfiles de las redes sociales. <a data-l10n-name="learn-more-link">Saber más</a>
 cookie-tab-title = Cookies de rastreo entre sitios
-cookie-tab-content = Estas cookies le siguen de página en página para recopilar información sobre su vida en línea. Suelen ser las agencias de publicidad y de analítica las que las configuran. Las cookies de rastreo entre sitios reduce el número de anuncios que le siguen. <a data-l10n-name="learn-more-link">Saber más</a>
+cookie-tab-content = Estas cookies le siguen de página en página para recopilar información sobre su vida en línea. Suelen ser las agencias de publicidad y de analítica las que las configuran. El bloqueo de las cookies de rastreo entre sitios reduce el número de anuncios que le siguen. <a data-l10n-name="learn-more-link">Saber más</a>
 tracker-tab-title = Contenido de rastreo
 tracker-tab-description = Los sitios web pueden cargar anuncios externos, vídeos y otro contenido con código de rastreo. El bloqueo del contenido de rastreo puede ayudar a que los sitios se carguen más rápido, pero es posible que algunos botones, formularios y campos de inicio de sesión no funcionen. <a data-l10n-name="learn-more-link">Saber más</a>
 fingerprinter-tab-title = Detectores de huellas digitales
@@ -106,8 +106,8 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] La filtración de datos que ha expuesto su información
-       *[other] La filtraciones de datos que han expuesto su información
+        [one] Filtración de datos que ha expuesto su información
+       *[other] Filtraciones de datos que han expuesto su información
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
@@ -189,7 +189,7 @@ bar-tooltip-tracker =
     .aria-label =
         { $count ->
             [one] { $count } contenido de rastreo ({ $percentage }%)
-           *[other] { $count } contenido de rastreo ({ $percentage }%)
+           *[other] { $count } contenidos de rastreo ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
     .title = Detectores de huellas digitales

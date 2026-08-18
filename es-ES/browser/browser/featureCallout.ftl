@@ -15,7 +15,7 @@ callout-firefox-view-tab-pickup-title = Cambie entre dispositivos llevándose su
 callout-firefox-view-tab-pickup-subtitle = Traiga rápidamente las pestañas abiertas de su teléfono y ábralas aquí directamente.
 callout-firefox-view-recently-closed-title = Recupere en un instante sus pestañas cerradas
 callout-firefox-view-recently-closed-subtitle = Todas las pestañas cerradas aparecerán mágicamente aquí. No vuelva a preocuparse por cerrar accidentalmente un sitio.
-callout-firefox-view-colorways-title = Añade un toque de color
+callout-firefox-view-colorways-title = Añada un toque de color
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Elija el tono que le represente con combinaciones de colores. Solo en { -brand-product-name }.
 callout-firefox-view-colorways-reminder-title = Explore nuestras últimas combinaciones de colores
@@ -131,7 +131,7 @@ taskbar-tabs-email-callout-subtitle = Abra su webmail como una aplicación en un
 taskbar-tabs-media-callout-title = Regresar al streaming desde la barra de tareas
 taskbar-tabs-media-callout-subtitle = Abra sus sitios de streaming como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Añadir este sitio a la barra de tareas
-taskbar-tabs-value-prop-callout-subtitle = Abralo en su propia ventana y en una interfaz simplificada con un solo clic.
+taskbar-tabs-value-prop-callout-subtitle = Ábralo en su propia ventana y en una interfaz simplificada con un solo clic.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -196,12 +196,12 @@ vertical-tabs-callout-1-subtitle = Pruebe nuestro nuevo diseño de pestañas ver
 vertical-tabs-callout-1-cta-button = Pruebe las pestañas verticales
 vertical-tabs-callout-2-cta-button = Pruébelo ahora
 vertical-tabs-callout-2-title = ¿Tiene muchas pestañas abiertas? Pruebe las pestañas verticales.
-vertical-tabs-callout-2-subtitle = Este diseño facilita la explorar rápidamente la lista de pestañas. Además, puede ajustar el ancho para ver más o menos de los títulos de las pestañas.
+vertical-tabs-callout-2-subtitle = Este diseño facilita explorar rápidamente la lista de pestañas. Además, puede ajustar el ancho para ver más o menos de los títulos de las pestañas.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = ¿Está perdiendo el rastro de las pestañas importantes?
-sidebar-pins-callout-subtitle = Prueba a fijarlas para que se mantengan en la parte superior de la lista de pestañas. Haga clic con el botón derecho en la pestaña que desee fijar y, a continuación, seleccione Fijar pestaña.
+sidebar-pins-callout-subtitle = Pruebe fijarlas para que se mantengan en la parte superior de la lista de pestañas. Haga clic con el botón derecho en la pestaña que desee fijar y, a continuación, seleccione Fijar pestaña.
 sidebar-pins-callout-cta-button = Fijar pestaña
 
 ## Pinning Tabs Strings

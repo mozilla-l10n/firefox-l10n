@@ -49,7 +49,7 @@ printui-two-sided-printing-short-edge = Pasar página por el borde corto
 # Section title for miscellaneous print options
 printui-options = Opciones
 printui-headers-footers-checkbox = Imprimir encabezados y pies de página
-printui-backgrounds-checkbox = Imprimir fondo de pantalla
+printui-backgrounds-checkbox = Imprimir fondos
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version

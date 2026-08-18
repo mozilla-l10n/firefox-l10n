@@ -75,7 +75,7 @@ places-edit-bookmark =
     .label = Editar marcador
     .accesskey = i
 places-edit-generic =
-    .label = Editar...
+    .label = Editar…
     .accesskey = E
 places-edit-folder2 =
     .label = Editar carpeta…
@@ -243,7 +243,7 @@ places-back-button =
     .tooltiptext = Ir atrás
 places-forward-button =
     .tooltiptext = Ir adelante
-places-details-pane-select-an-item-description = Selecciona un elemento para ver y editar sus propiedades
+places-details-pane-select-an-item-description = Seleccione un elemento para ver y editar sus propiedades
 places-details-pane-no-items =
     .value = Sin elementos
 # Variables:

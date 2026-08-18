@@ -35,6 +35,6 @@ recently-closed-undo-close-window-label =
 recently-closed-window-panel-tooltip =
     { $tabCount ->
         [0] { $winTitle }
-        [one] { $winTitle } (pestaña { $tabCount }, cerrada hace { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+        [one] { $winTitle } ({ $tabCount } pestaña, cerrada hace { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
        *[other] { $winTitle } ({ $tabCount } pestañas, cerradas hace { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
     }

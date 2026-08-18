@@ -76,7 +76,7 @@ about-private-browsing-cookie-banners-promo-body = Ahora rechazamos automáticam
 ## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = No dejar rastro en este dispositivo
-about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } elimina tus cookies, historial y datos del sitio cuando cierras todas tus ventanas privadas.
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } elimina sus cookies, historial y datos del sitio cuando cierra todas sus ventanas privadas.
 about-private-browsing-felt-privacy-v1-info-link = ¿Quién podría ver mi actividad?
 
 ## Strings for the Nova redesign of about:privatebrowsing

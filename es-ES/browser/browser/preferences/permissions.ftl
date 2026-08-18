@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Administrador de imágenes
+    .title = Excepciones
     .style = min-width: 49em
 permissions-close-key =
     .key = w
@@ -139,7 +139,7 @@ permissions-exceptions-addons-desc = Puede especificar desde qué sitios web est
 permissions-site-autoplay-window2 =
     .title = Ajustes - Reproducción automática
     .style = { permissions-window2.style }
-permissions-site-autoplay-desc = Aquí puedes gestionar los sitios que no cumplen con tus ajustes de reproducción automática predeterminada.
+permissions-site-autoplay-desc = Aquí puede gestionar los sitios que no cumplen con sus ajustes de reproducción automática predeterminada.
 
 ## Site Permissions - Notifications
 
@@ -149,7 +149,7 @@ permissions-site-notification-window2 =
 permissions-site-notification-desc = Los siguientes sitios web han solicitado enviarle notificaciones. Puede especificar qué sitios web tienen permitido ese acceso. También puede bloquear nuevas solicitudes.
 permissions-site-notification-disable-label =
     .label = Bloquear nuevas solicitudes de emisión de notificaciones
-permissions-site-notification-disable-desc = Esto evitará que cualquier sitio web no listado arriba solicite permiso para envirle notificaciones. Bloquear el envío de notificaciones puede afectar a las características de algunos sitios web.
+permissions-site-notification-disable-desc = Esto evitará que cualquier sitio web no listado arriba solicite permiso para enviarle notificaciones. Bloquear el envío de notificaciones puede afectar a las características de algunos sitios web.
 
 ## Site Permissions - Location
 
@@ -169,7 +169,7 @@ permissions-site-xr-window2 =
 permissions-site-xr-desc = Los siguientes sitios web han solicitado permiso para acceder a sus dispositivos de realidad virtual. Puede especificar qué sitios web tienen acceso a sus dispositivos de realidad virtual. También puede bloquear futuras solicitudes de acceso a sus dispositivos de realidad virtual.
 permissions-site-xr-disable-label =
     .label = Bloquear nuevas solicitudes de acceso a sus dispositivos de realidad virtual
-permissions-site-xr-disable-desc = Esto evitará que los sitios web no incluidos en la lista superior soliciten permiso para acceder a su ubicación. Bloquear el acceso a sus dispositivos de realidad virtual puede estropear algunas características de los sitios web.
+permissions-site-xr-disable-desc = Esto evitará que los sitios web no incluidos en la lista superior soliciten permiso para acceder a sus dispositivos de realidad virtual. Bloquear el acceso a sus dispositivos de realidad virtual puede estropear algunas características de los sitios web.
 
 ## Site Permissions - Camera
 
@@ -199,7 +199,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = Estos sitios han solicitado acceso a aplicaciones y servicios en dispositivos conectados al Wi-Fi o red local. Puede elegir permitir o bloquear sitios para que no hagan esto.
 permissions-site-local-network-disable-label =
     .label = Bloquear nuevas solicitudes de acceso a aplicaciones y servicios en dispositivos conectados a su Wi-Fi o red local.
-permissions-site-local-network-disable-desc = Esto evitará que cualquier sitio web no incluido en la lista solicite acceso a aplicaciones y servicios en  dispositivos conectados a su Wi-Fi  o red local. Hacer esto puede romper algunas características del sitio web.
+permissions-site-local-network-disable-desc = Esto evitará que cualquier sitio web no incluido en la lista solicite acceso a aplicaciones y servicios en dispositivos conectados a su Wi-Fi o red local. Hacer esto puede romper algunas características del sitio web.
 
 ## Site Permissions - Microphone
 

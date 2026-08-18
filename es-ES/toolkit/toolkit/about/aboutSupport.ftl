@@ -127,7 +127,7 @@ place-database-stats-show = Mostrar estadísticas
 place-database-stats-hide = Ocultar estadísticas
 place-database-stats-entity = Entidad
 place-database-stats-count = Número
-place-database-stats-size-kib = Tamaño (KB)
+place-database-stats-size-kib = Tamaño (KiB)
 place-database-stats-size-perc = Tamaño (%)
 place-database-stats-efficiency-perc = Eficiencia (%)
 place-database-stats-sequentiality-perc = Secuencialidad (%)
@@ -221,7 +221,7 @@ intl-app-title = Configuración de la aplicación
 intl-locales-requested = Idiomas solicitados
 intl-locales-available = Idiomas disponibles
 intl-locales-supported = Idiomas de la aplicación
-intl-locales-default = Idioma preterminado
+intl-locales-default = Idioma predeterminado
 intl-os-title = Sistema operativo
 intl-os-prefs-system-locales = Idiomas del sistema
 intl-regional-prefs = Preferencias regionales
@@ -235,7 +235,7 @@ intl-regional-prefs = Preferencias regionales
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
-remote-debugging-title = Depuración remota (protocolo de Chromium )
+remote-debugging-title = Depuración remota (protocolo de Chromium)
 remote-debugging-accepting-connections = Aceptando conexiones
 remote-debugging-url = URL
 
@@ -284,7 +284,7 @@ text-copied = Texto copiado al portapapeles
 blocked-driver = Bloqueado para la versión de su controlador gráfico.
 blocked-gfx-card = Bloqueado para su tarjeta gráfica debido a problemas no resueltos del controlador.
 blocked-os-version = Bloqueado para la versión de su sistema operativo.
-blocked-mismatched-version = Bloqueado por la diferencia e versión de su controlador gráfico entre el registro y la DLL.
+blocked-mismatched-version = Bloqueado por la diferencia de versión de su controlador gráfico entre el registro y la DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloqueado para la versión de su controlador gráfico. Pruebe a actualizar su controlador gráfico a la versión { $driverVersion } o más moderna.
@@ -429,7 +429,7 @@ support-printing-prefs-value = Valor
 
 support-remote-settings-title = Configuración remota
 support-remote-settings-status = Estado
-support-remote-settings-status-ok = Aceptar
+support-remote-settings-status-ok = Correcto
 # Status when synchronization is not working.
 support-remote-settings-status-broken = No funciona
 support-remote-settings-last-check = Última revisión

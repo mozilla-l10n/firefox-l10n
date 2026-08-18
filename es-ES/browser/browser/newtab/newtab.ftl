@@ -125,7 +125,7 @@ home-restore-defaults-srd =
 home-mode-choice-default-fx-srd =
     .label = { -firefox-home-brand-name } (Predeterminado)
 home-mode-choice-custom-srd =
-    .label = URLs personalizadas...
+    .label = URLs personalizadas…
 home-mode-choice-blank-srd =
     .label = Página en blanco
 home-prefs-shortcuts-header-srd =
@@ -287,10 +287,10 @@ newtab-menu-report-this-ad = Informar sobre este anuncio
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
-newtab-privacy-modal-button-done = Hecho
+newtab-privacy-modal-button-done = Cerrar
 newtab-privacy-modal-button-manage = Administrar la configuración de contenido patrocinado
 newtab-privacy-modal-header = Su privacidad es importante.
-newtab-privacy-modal-paragraph-2 = Además de ofrecer historias cautivadoras, también le mostramos contenido relevante y altamente revisado de patrocinadores seleccionados. Tenga la seguridad de que, <strong>sus datos de navegación nunca dejan su copia personal de { -brand-product-name }</strong>: nosotros no los vemos y nuestros patrocinadores tampoco.
+newtab-privacy-modal-paragraph-2 = Además de ofrecer historias cautivadoras, también le mostramos contenido relevante y verificado de patrocinadores seleccionados. Tenga la seguridad de que <strong>sus datos de navegación permanecen únicamente en su copia instalada de { -brand-product-name }</strong>: nosotros no los vemos y nuestros patrocinadores tampoco.
 newtab-privacy-modal-link = Conozca cómo funciona la privacidad en la nueva pestaña
 
 ##
@@ -298,7 +298,7 @@ newtab-privacy-modal-link = Conozca cómo funciona la privacidad en la nueva pes
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Eliminar marcador
 # Bookmark is a verb here.
-newtab-menu-bookmark = Marcador
+newtab-menu-bookmark = Añadir marcador
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -378,7 +378,7 @@ newtab-section-header-todays-picks = Las selecciones de hoy para usted
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Empiece a navegar y nosotros le mostraremos aquí algunos de los mejores artículos, videos y otras páginas que haya visitado recientemente o agregado a marcadores.
+newtab-empty-section-highlights = Empiece a navegar y nosotros le mostraremos aquí algunos de los mejores artículos, vídeos y otras páginas que haya visitado recientemente o agregado a marcadores.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -391,7 +391,7 @@ newtab-empty-section-topstories-generic = Ya se ha puesto al día. Vuelva más t
 newtab-discovery-empty-section-topstories-header = ¡Está al día!
 newtab-discovery-empty-section-topstories-content = Vuelva más tarde para obtener más historias.
 newtab-discovery-empty-section-topstories-try-again-button = Volver a intentarlo
-newtab-discovery-empty-section-topstories-loading = Cargando...
+newtab-discovery-empty-section-topstories-loading = Cargando…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Casi se carga la sección al completo.
 
@@ -418,7 +418,7 @@ newtab-pocket-thumbs-down-tooltip =
     .title = No es para mí
 # Used to show the user a message upon clicking the thumbs up or down buttons
 newtab-toast-thumbs-up-or-down2 =
-    .message = Gracias Su opinión nos ayudará a mejorar su canal.
+    .message = Gracias. Su opinión nos ayudará a mejorar su canal.
 newtab-toast-dismiss-button =
     .title = Descartar
     .aria-label = Descartar
@@ -618,7 +618,7 @@ newtab-wallpaper-celestial-earth-night = Foto nocturna desde la órbita baja de 
 newtab-wallpaper-celestial-starry-sky = Cielo estrellado
 newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse de un eclipse lunar
 newtab-wallpaper-celestial-black-hole = Ilustración de una galaxia con un agujero negro
-newtab-wallpaper-celestial-river = Imagen de satelite de un rio
+newtab-wallpaper-celestial-river = Imagen de satélite de un río
 
 ## New Tab Weather
 
