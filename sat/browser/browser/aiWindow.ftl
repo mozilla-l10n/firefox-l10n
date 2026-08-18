@@ -152,7 +152,7 @@ aiwindow-firstrun-memories-conversation-body = ᱪᱟᱴ ᱠᱷᱚᱱ ᱪᱮᱫ�
 aiwindow-firstrun-memories-relevance-title = ᱟᱨᱦᱚᱸ ᱡᱚᱲᱟᱱᱟᱜ ᱛᱮᱞᱟ ᱠᱚ
 aiwindow-firstrun-memories-relevance-body = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ { -smart-window-brand-name } ᱢᱟᱨᱟᱝ ᱪᱤᱛᱟᱹᱨ ᱮᱢᱚᱜ ᱠᱟᱱᱟ ᱾
 aiwindow-firstrun-memories-privacy-title = ᱰᱤᱡᱟᱭᱤᱱ ᱞᱮᱠᱟᱛᱮ ᱯᱨᱟᱭᱣᱮᱴ
-aiwindow-firstrun-memories-privacy-body = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱱᱚᱣᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱡᱟᱣᱨᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱰᱤᱞᱤᱴ ᱥᱮ ᱵᱚᱱᱫᱚ ᱢᱮ ᱾
+aiwindow-firstrun-memories-privacy-body = ᱞᱩᱨ ᱠᱚ ᱱᱚᱣᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱡᱟᱣᱨᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱰᱤᱞᱤᱴ ᱥᱮ ᱵᱚᱱᱫᱚ ᱢᱮ ᱾
 aiwindow-firstrun-memories-choose-label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱪᱮᱫ { -smart-window-brand-name } ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱠᱟᱱᱟ
 aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name } ᱨᱮ ᱪᱟᱴ ᱢᱮ
 aiwindow-firstrun-memories-checkbox-browsing = { -brand-product-name } ᱛᱮ ᱵᱽᱨᱟᱣᱡ ᱢᱮ
@@ -176,6 +176,21 @@ smartwindow-ask-button =
 aiwindow-memories-on =
     .aria-label = ᱨᱮ ᱞᱩᱨ
     .tooltiptext = ᱜᱚᱲᱚ ᱞᱮᱠᱷᱟᱱ ᱛᱮᱞᱟ ᱨᱮ ᱞᱩᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+aiwindow-memories-off =
+    .aria-label = ᱞᱩᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .tooltiptext = ᱛᱮᱞᱟ ᱨᱮ ᱞᱩᱨ ᱠᱚ ᱟᱞᱚᱢ ᱵᱮᱵᱷᱟᱨ ᱟ
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = ᱱᱟᱶᱟ ᱪᱟᱴ
+    .tooltiptext = ᱱᱟᱶᱟ ᱪᱟᱴ
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .tooltiptext = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
@@ -278,3 +293,12 @@ smart-window-confirm-close-tabs =
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭᱮᱱᱟ
 smartwindow-close-tab-callout-subtitle = ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱫᱚᱦᱲᱟ ᱡᱷᱤᱡᱽ ᱢᱮ ᱾
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-improve = ᱚᱞ ᱨᱮ ᱥᱩᱫᱷᱨᱟᱹᱣ ᱢᱮ
+aiwindow-starter-writing-proofread = ᱢᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
