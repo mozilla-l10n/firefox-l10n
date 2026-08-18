@@ -68,8 +68,12 @@ firefoxview-tabpickup-network-offline-header = შეამოწმეთ ქ�
 firefoxview-tabpickup-network-offline-description = თუ გიყენიათ ქსელის ფარი ან პროქსი, უნდა გადაამოწმოთ, რომ { -brand-short-name } ინტერნეტთან წვდომის ნებართვის მქონეა.
 firefoxview-tabpickup-network-offline-primarybutton = ხელახლა ცდა
 firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name } ამჟამად ვერ უკავშირდება
+firefoxview-tabpickup-network-offline-description-2 = შესაძლოა კავშირგარეშედ ხართ ან რამე ზღუდავს კავშირს.
 firefoxview-tabpickup-sync-error-header = სინქრონიზაციისას სიძნელეს წავაწყდით
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } ამჟამად ვერ ახერხებს სინქრონიზაციის მომსახურებასთან წვდომას. კვლავ სცადეთ მოგვიანებით.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = სინქრონიზაცია შეფერხდა
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } ვერ დაუკავშირდა. ცოტა ხანი მოითმინეთ და სცადეთ ხელახლა
 firefoxview-tabpickup-sync-error-primarybutton = ხელახლა ცდა
 firefoxview-tabpickup-sync-disconnected-header = ჩართეთ სინქრონიზაცია, რომ განაგრძოთ
 firefoxview-tabpickup-sync-disconnected-description = ჩანართების წამოსაღებად { -brand-short-name } საჭიროებს სინქრონიზაციის ნებართვას.
@@ -79,10 +83,14 @@ firefoxview-tabpickup-password-locked-description = ჩანართები�
 firefoxview-tabpickup-password-locked-link = ვრცლად
 firefoxview-tabpickup-password-locked-primarybutton = შეიყვანეთ მთავარი პაროლი
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">ვრცლად</a>
+firefoxview-tabpickup-password-locked-header-2 = გახსენით ჩანართები თქვენი მთავარი პაროლით
+firefoxview-tabpickup-password-locked-description-2 = პირადი უსაფრთხოებისთვის დასინქრონებული ჩანართები დაცულია. შეიყვანეთ მთავარი პაროლი, რომელსაც იყენებს { -brand-short-name }, ჩანართების სანახავად სხვა მოწყობილობებიდან.
 firefoxview-tabpickup-signed-out-header = შესვლა ხელახლა დასაკავშირებლად
 firefoxview-tabpickup-signed-out-description = დააკავშირეთ ხელახლა და წამოიღეთ თქვენი ჩანართები ანგარიშიდან { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = ხელახლა დასაკავშირებლად და ჩანართების წამოსაღებად შედით თქვენს ანგარიშზე.
 firefoxview-tabpickup-signed-out-primarybutton = შესვლა
+firefoxview-tabpickup-signed-out-header-2 = შედით თქვენი ჩანართების სანახავად
+firefoxview-tabpickup-signed-out-description-2 = ხელახლა დააკავშირეთ სხვა მოწყობილობებიდან ჩანართების სანახავად.
 firefoxview-tabpickup-syncing = მოკალათდით სინქრონიზაციის დასრულებამდე. ცოტა ხანს გასტანს.
 firefoxview-mobile-promo-header = წამოიღეთ ჩანართები ტელეფონიდან ან პლანშეტიდან
 firefoxview-mobile-promo-description = ტელეფონში ბოლოს გახსნილი ჩანართების სანახავად, გამოიყენეთ { -brand-product-name } iOS-ზე ან Android-ზე და შედით ანგარიშზე.
@@ -224,6 +232,10 @@ firefoxview-show-all-history = სრული ისტორიის ჩვ�
 firefoxview-history-empty-header = დაბრუნდით, სადაც იყავით
 firefoxview-history-empty-description = თვალიერებისას მონახულებული გვერდები აქ აღინუსხება.
 firefoxview-history-empty-description-two = თქვენს პირადულობაზე ზრუნვა ჩვენი საქმიანობის მთავარი შემადგენელია. სწორედ ამიტომ თავად შეგიძლიათ განსაზღვროთ <a data-l10n-name="history-settings-url">ისტორიის პარამეტრებიდან</a>, რას დაიმახსოვრებს { -brand-short-name }.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = მონახულებული გვერდების კვალი აქედან იწყება
+firefoxview-history-empty-description-2 = გვერდების მონახულებისას თქვენი ისტორია გამოჩნდება აქ. მიუთითეთ, რა უნდა დაიმახსოვროს, <a data-l10n-name="history-settings-url">პარამეტრებიდან</a>.
 
 ##
 
@@ -235,6 +247,9 @@ firefoxview-choose-browser-button = ბრაუზერის არჩევ�
 
 firefoxview-dont-remember-history-empty-header-2 = თავად განსაზღვრავთ, რას დაიმახსოვრებს { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = ამჟამად { -brand-short-name } არ იმახსოვრებს თქვენ მიერ მონახულებულ გვერდებს. შესაცვლელად <a data-l10n-name="history-settings-url-two">განაახლეთ თქვენი ისტორიის პარამეტრები</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = აღრიცხვებს მიღმა იმყოფებით
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } ამჟამად არ ინახავს მონახულებულ გვერდებს. შეცვალეთ ნებისმიერ დროს <a data-l10n-name="history-settings-url-two">პარამეტრებიდან</a>.
 
 ##
 

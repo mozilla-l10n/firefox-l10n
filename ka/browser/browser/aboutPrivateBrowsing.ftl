@@ -86,6 +86,6 @@ about-private-browsing-nova-info-link = მაინც ვისთვის �
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
-about-private-browsing-nova-info-header = აღრიცხვების მიღმა იმყოფებით
+about-private-browsing-nova-info-header = აღრიცხვებს მიღმა იმყოფებით
 about-private-browsing-nova-info-subheader2 = ჩვენ წავშლით თქვენი ყველა ძიებისა თუ ანგარიშზე შესვლის მონაცემებს ყველა პირადი ფანჯრის დახურვისთანავე. { -brand-short-name } აქაც იყენებს ჩაშენებულ დაცვას მეთვალყურეების თავისთავად შეზღუდვით.
 about-private-browsing-nova-info-subheader = ჩვენ წავშლით თქვენი ყველა ძიებისა თუ ანგარიშზე შესვლის ჩანაწერს ამ ფანჯრის დახურვისთანავე. { -brand-short-name } აქაც იყენებს ჩაშენებულ დაცვას, მეთვალყურეების თავისთავად შეზღუდვით.
