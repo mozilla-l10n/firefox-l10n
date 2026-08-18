@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window2 =
-    .style = min-width: 55em
     .title = Elenchi per blocco elementi traccianti
+    .style = min-width: 55em
 blocklist-description = Scegliere l’elenco da utilizzare in { -brand-short-name } per bloccare gli elementi traccianti online. Elenchi forniti da <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w

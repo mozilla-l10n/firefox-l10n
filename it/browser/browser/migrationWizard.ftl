@@ -19,6 +19,11 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
+
+# Each migrator is expected to include a display name string, and that display
+# name string should have a key with "migration-wizard-migrator-display-name-"
+# as a prefix followed by the unique identification key for the migrator.
+
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome

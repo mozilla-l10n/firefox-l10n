@@ -35,13 +35,13 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .aria-label = Protezione antitracciamento avanzata: attiva per { $host }
+    .label = Protezione antitracciamento avanzata
     .description = Attiva per questo sito
-    .label = Protezione antitracciamento avanzata
+    .aria-label = Protezione antitracciamento avanzata: attiva per { $host }
 protections-panel-etp-toggle-off =
-    .aria-label = Protezione antitracciamento avanzata: disattivata per { $host }
-    .description = Disattivata per questo sito
     .label = Protezione antitracciamento avanzata
+    .description = Disattivata per questo sito
+    .aria-label = Protezione antitracciamento avanzata: disattivata per { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -136,6 +136,9 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Annulla
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Invia segnalazione
+
+# Cookie Banner Handling
+
 protections-panel-cookie-banner-handling-header = Riduzione banner per i cookie
 protections-panel-cookie-banner-blocker-header = Blocco banner per i cookie
 protections-panel-cookie-banner-handling-enabled = Attivo per questo sito

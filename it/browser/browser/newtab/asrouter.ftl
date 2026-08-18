@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = di { $name }
 cfr-doorhanger-extension-notification = Suggerimento
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Suggerimento
-    .a11y-announcement = È disponibile un suggerimento per un’estensione
     .tooltiptext = Estensione suggerita
+    .a11y-announcement = È disponibile un suggerimento per un’estensione
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Suggerimento
-    .a11y-announcement = È disponibile un suggerimento per una funzione
     .tooltiptext = Funzione suggerita
+    .a11y-announcement = È disponibile un suggerimento per una funzione
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -359,8 +359,8 @@ root-certificate-windows-background-notification-update-button = Aggiorna { -bra
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .aria-label = Chiudi
     .title = Chiudi
+    .aria-label = Chiudi
 fxa-menu-message-sign-up-button = Registrati
 fxa-menu-message-sign-in-button = Accedi
 fxa-menu-message-sync-button = Avvia la sincronizzazione

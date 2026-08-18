@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Scegli tra diverse posizioni o lasci
 unauthenticated-get-started = Inizia
 unauthenticated-terms-of-service-privacy-notice = Procedendo, accetti le <a data-l10n-name="vpn-terms-of-service">condizioni di utilizzo del servizio</a> e l’<a data-l10n-name="vpn-privacy-notice">informativa sulla privacy</a>.
 site-exclusion-toggle-enabled-1 =
+    .label = Utilizza la VPN per questo sito
     .aria-label = La VPN è attiva per questo sito
-    .label = Utilizza la VPN per questo sito
 site-exclusion-toggle-disabled-1 =
-    .aria-label = La VPN è disattivata per questo sito
     .label = Utilizza la VPN per questo sito
+    .aria-label = La VPN è disattivata per questo sito
 site-exclusion-toggle-description = Il sito non funziona? Prova a disattivare la VPN.
 ipprotection-settings-link =
     .label = Impostazioni
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Hai quasi esauri
 ## IP Protection Settings
 
 ip-protection-description =
-    .description = VPN integrata per migliorare la tua privacy durante la navigazione in { -brand-short-name }.
     .label = VPN
+    .description = VPN integrata per migliorare la tua privacy durante la navigazione in { -brand-short-name }.
 ip-protection-description-1 =
-    .description = Aumenta la tua privacy nascondendo la posizione mentre navighi.
     .label = VPN integrata
+    .description = Aumenta la tua privacy nascondendo la posizione mentre navighi.
 ip-protection-learn-more = Ulteriori informazioni
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = Inizia
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
+    .label = Gestisci le impostazioni dei siti web
     .description =
         { $count ->
             [one] { $count } sito web
            *[other] { $count } siti web
         }
-    .label = Gestisci le impostazioni dei siti web
 ip-protection-autostart =
     .label = Attiva VPN automaticamente
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = In finestre anonime
 ip-protection-vpn-upgrade-link =
-    .description = Scegli posizioni VPN personalizzate e aggiungi protezione a tutte le tue app su un massimo di cinque dispositivi, a casa o su reti Wi-Fi pubbliche.
     .label = Ottieni una protezione ancora maggiore al di fuori di { -brand-short-name } con { -mozilla-vpn-brand-name }
+    .description = Scegli posizioni VPN personalizzate e aggiungi protezione a tutte le tue app su un massimo di cinque dispositivi, a casa o su reti Wi-Fi pubbliche.
 ip-protection-vpn-upgrade-link-1 =
-    .description = Scegli tra oltre 300 posizioni e proteggi tutte le tue app su un massimo di 5 dispositivi.
     .label = Aumenta la tua protezione con { -mozilla-vpn-brand-name }
+    .description = Scegli tra oltre 300 posizioni e proteggi tutte le tue app su un massimo di 5 dispositivi.
 
 ## IP Protection dialogs
 
@@ -340,3 +340,4 @@ vpn-paused-alert-close-tabs-button = Chiudi tutte le schede
 vpn-paused-alert-continue-wo-vpn-button = Continua senza VPN
 vpn-error-alert-title = La VPN non è in funzione al momento.
 vpn-error-alert-body = Riprova più tardi.
+

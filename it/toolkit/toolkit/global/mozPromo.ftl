@@ -3,5 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 moz-promo-close-button =
-    .aria-label = Chiudi
     .title = Chiudi
+    .aria-label = Chiudi

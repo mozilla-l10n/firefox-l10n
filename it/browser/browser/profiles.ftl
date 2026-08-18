@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } verrà aperto con il profilo utilizzato più di recente.
 profile-window-create-profile = Crea un profilo
 profile-card-edit-button =
-    .aria-label = Modifica profilo
     .title = Modifica profilo
+    .aria-label = Modifica profilo
 profile-card-delete-button =
-    .aria-label = Elimina profilo
     .title = Elimina profilo
+    .aria-label = Elimina profilo
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .aria-label = Apri { $profileName }
     .title = Apri { $profileName }
+    .aria-label = Apri { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profilo { $number }
@@ -288,6 +288,9 @@ profiles-appmenu-callout-tour-subtitle = Nel menu ☰, tocca il nome del tuo pro
 profiles-appmenu-callout-tour-primary-button = Mostra come fare
 barbell-avatar = Bilanciere
 bike-avatar = Bici
+
+## Tooltips for default avatar icons
+
 barbell-avatar-tooltip =
     .tooltiptext = Usa l’icona bilanciere
 bike-avatar-tooltip =

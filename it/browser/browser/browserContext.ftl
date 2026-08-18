@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .aria-label = Indietro
     .tooltiptext = Torna indietro di una pagina ({ $shortcut })
+    .aria-label = Indietro
     .accesskey = I
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .aria-label = Avanti
     .tooltiptext = Vai avanti di una pagina ({ $shortcut })
+    .aria-label = Avanti
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -94,8 +94,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Aggiungi pagina ai segnalibri…
-    .tooltiptext = Aggiungi pagina ai segnalibri
     .accesskey = u
+    .tooltiptext = Aggiungi pagina ai segnalibri
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +112,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Aggiungi pagina ai segnalibri…
-    .tooltiptext = Aggiungi pagina ai segnalibri ({ $shortcut })
     .accesskey = n
+    .tooltiptext = Aggiungi pagina ai segnalibri ({ $shortcut })
 main-context-menu-edit-bookmark =
     .aria-label = Modifica segnalibro…
-    .tooltiptext = Modifica segnalibro
     .accesskey = n
+    .tooltiptext = Modifica segnalibro
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Modifica segnalibro…
-    .tooltiptext = Modifica segnalibro ({ $shortcut })
     .accesskey = n
+    .tooltiptext = Modifica segnalibro ({ $shortcut })
 main-context-menu-open-link =
     .label = Apri link
     .accesskey = A
@@ -327,6 +327,9 @@ main-context-menu-use-saved-login =
 main-context-menu-use-saved-password =
     .label = Utilizza password salvata
     .accesskey = U
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Utilizza un alias di posta elettronica { -relay-brand-short-name }
     .accesskey = e

@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .aria-label = Cerca nelle password
-    .key = F
     .placeholder = Cerca nelle password
+    .key = F
+    .aria-label = Cerca nelle password
 contextual-manager-menu-more-options-button =
     .title = Altre opzioni
 contextual-manager-more-options-popup =

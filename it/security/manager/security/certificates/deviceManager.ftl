@@ -6,8 +6,8 @@
 ## Strings used for device manager
 
 devmgr-window =
-    .style = min-width: 70em; min-height: 33em;
     .title = Gestione dispositivi
+    .style = min-width: 70em; min-height: 33em;
 devmgr-devlist =
     .label = Moduli e dispositivi di sicurezza
 devmgr-header-details =

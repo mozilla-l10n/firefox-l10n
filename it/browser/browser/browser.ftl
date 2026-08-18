@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Navigazione anonima
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } Navigazione anonima
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Navigazione anonima
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Navigazione anonima
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } — Navigazione anonima
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Navigazione anonima
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = Navigazione veloce e riservata
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Navigazione anonima
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Navigazione anonima
     .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
     .data-title-private = { -brand-full-name } Navigazione anonima
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
     .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigazione anonima
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Navigazione anonima
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Navigazione anonima
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Navigazione anonima
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navigazione anonima
     .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
     .data-title-private = { -brand-full-name } — Navigazione anonima
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
     .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigazione anonima
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Navigazione anonima
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navigazione anonima
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -137,6 +137,9 @@ urlbar-identity-button2 =
             [one] Visualizza informazioni sul sito ({ $count } elemento tracciante bloccato)
            *[other] Visualizza informazioni sul sito ({ $count } elementi traccianti bloccati)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Visualizza informazioni sul sito
 
@@ -333,8 +336,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Aggiungi ai segnalibri ({ $shortcut })
 urlbar-split-view-button =
-    .aria-label = Schermo diviso
     .tooltiptext = Schermo diviso
+    .aria-label = Schermo diviso
 
 ## Searchbar context menu
 
@@ -387,9 +390,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
-    .aria-label = Aggiungi motore di ricerca “{ $engineName }”
     .label = Aggiungi “{ $engineName }”
     .tooltiptext = Aggiungi motore di ricerca “{ $engineName }”
+    .aria-label = Aggiungi motore di ricerca “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -739,32 +742,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .aria-label = Cerca con { $name }
     .placeholder = Cerca sul Web
+    .aria-label = Cerca con { $name }
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .aria-label = Cerca in { $name }
     .placeholder = Immetti i termini di ricerca
+    .aria-label = Cerca in { $name }
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .aria-label = Cerca nei segnalibri
     .placeholder = Immetti i termini di ricerca
+    .aria-label = Cerca nei segnalibri
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .aria-label = Cerca nella cronologia
     .placeholder = Immetti i termini di ricerca
+    .aria-label = Cerca nella cronologia
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .aria-label = Cerca nelle schede
     .placeholder = Immetti i termini di ricerca
+    .aria-label = Cerca nelle schede
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .aria-label = Cerca nelle azioni
     .placeholder = Immetti i termini di ricerca
+    .aria-label = Cerca nelle azioni
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -867,7 +870,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -916,6 +919,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizzato
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Chiedi
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1332,9 +1340,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .aria-label = Segnalibri
     .toolbarname = Barra dei segnalibri
     .accesskey = s
+    .aria-label = Segnalibri
 bookmarks-toolbar-menu =
     .label = Barra dei segnalibri
 bookmarks-toolbar-placeholder =
@@ -1507,6 +1515,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = s
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1732,6 +1743,13 @@ file-picker-crashed-open = La finestra di selezione file di Windows si è chiusa
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Il file verrà salvato come { $path }.
 file-picker-crashed-save-nowhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Non è stata trovata una cartella predefinita e il file non verrà salvato.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostra nella cartella
     .accessKey = M
@@ -1784,6 +1802,9 @@ trustpanel-blocker-see-all = Mostra tutti
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protezioni antitracciamento per { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

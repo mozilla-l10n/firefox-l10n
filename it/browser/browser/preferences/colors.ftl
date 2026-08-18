@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 colors-dialog2 =
-    .style = min-width: 42em
     .title = Colori
+    .style = min-width: 42em
 colors-close-key =
     .key = w
 colors-page-override = Sostituisci i colori specificati nella pagina con quelli selezionati

@@ -24,6 +24,10 @@ fxviewtabrow-dismiss-tab-button =
     .title = Rimuovi { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = adesso
+
+# Strings below are used for context menu options within panel-list.
+# For developers, this duplicates command because the label attribute is required.
+
 fxviewtabrow-delete = Elimina
     .accesskey = E
 fxviewtabrow-forget-about-this-site = Dimentica questo sito…
@@ -78,5 +82,8 @@ fxviewtabrow-send-to-mobile-connect-device = Connetti un dispositivo per inviare
 fxviewtabrow-send-to-mobile-device-missing2 = Non vedi il tuo dispositivo?
 fxviewtabrow-send-to-mobile-not-verified = Account non verificato
 fxviewtabrow-send-to-mobile-verify-account = Verifica il tuo account
+
+## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
 fxviewtabrow-send-to-mobile-sign-in = Accedi per inviare schede
 fxviewtabrow-send-to-mobile-turn-on-sync = Attiva la sincronizzazione per inviare schede

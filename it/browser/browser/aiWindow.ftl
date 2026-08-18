@@ -174,23 +174,23 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .aria-label = Memorie attivate
     .tooltiptext = Utilizza le memorie nelle risposte quando è utile
+    .aria-label = Memorie attivate
 aiwindow-memories-off =
-    .aria-label = Memorie disattivate
     .tooltiptext = Non utilizzare le memorie nelle risposte
+    .aria-label = Memorie disattivate
 
 ## New Chat Button
 
 aiwindow-new-chat =
-    .aria-label = Nuova chat
     .tooltiptext = Nuova chat
+    .aria-label = Nuova chat
 
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
-    .aria-label = Chiudi
     .tooltiptext = Chiudi
+    .aria-label = Chiudi
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
@@ -232,13 +232,13 @@ smartwindow-switch-to-smart-window = Passa alla modalità { -smart-window-brand-
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
+    .tooltiptext = Chat
     .aria-label = Chat
     .label = Chat
-    .tooltiptext = Chat
 smartwindow-footer-history =
+    .tooltiptext = Cronologia
     .aria-label = Cronologia
     .label = Cronologia
-    .tooltiptext = Cronologia
 
 ## Disclaimer
 ## Text displayed to user to warn user about potential mistakes.
@@ -272,6 +272,10 @@ firefoxview-chats-empty-description = Quando utilizzi { -smart-window-brand-name
 
 ## Count displayed in fxview chat search results
 
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
 firefoxview-search-chat-results-count = { $count } chat
 
 ## Clear browsing data dialog
@@ -290,8 +294,8 @@ smart-window-confirm-deselect-all =
     .aria-label = Deseleziona tutto
     .label = Deseleziona tutto
 smart-window-close-confirm =
-    .aria-label = Annulla richiesta e chiudi
     .tooltiptext = Annulla richiesta e chiudi
+    .aria-label = Annulla richiesta e chiudi
 smart-window-confirm-close-tab = Chiudi
 # Variables
 #   $count (number) - Number of tabs to close

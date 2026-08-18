@@ -59,8 +59,8 @@ permission-dialog-set-change-app-link = Scegli un’altra applicazione
 ##  $scheme (string) - The type of link that's being opened.
 
 chooser-window =
-    .style = min-width: 26em; min-height: 26em;
     .title = Scelta applicazione
+    .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = Apri link
     .buttonaccesskeyaccept = A

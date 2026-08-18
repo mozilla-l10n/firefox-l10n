@@ -58,8 +58,8 @@ pictureinpicture-seekforward-btn =
     .aria-label = Avanti
     .tooltip = Avanti (→)
 pictureinpicture-playback-rate-btn =
-    .aria-label = Velocità di riproduzione
     .tooltip = Velocità di riproduzione
+    .aria-label = Velocità di riproduzione
 
 ##
 

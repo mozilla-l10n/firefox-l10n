@@ -4,12 +4,12 @@
 
 printpreview-simplify-page-checkbox =
     .label = Semplifica pagina
-    .tooltiptext = Non è possibile semplificare automaticamente questa pagina
     .accesskey = e
+    .tooltiptext = Non è possibile semplificare automaticamente questa pagina
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
-    .tooltiptext = Modifica il layout della pagina per semplificarne la lettura
     .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Modifica il layout della pagina per semplificarne la lettura
 printpreview-close =
     .label = Chiudi
     .accesskey = C

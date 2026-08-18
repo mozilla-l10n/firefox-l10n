@@ -52,11 +52,11 @@ install-search-engine-no = No
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .style = min-width: 36em;
     .title = Aggiungi motore di ricerca
-edit-engine-window =
     .style = min-width: 36em;
+edit-engine-window =
     .title = Modifica motore di ricerca
+    .style = min-width: 36em;
 add-engine-button = Aggiungi motore personalizzato
 add-engine-name = Nome motore di ricerca
 add-engine-url2 = URL con %s al posto del termine di ricerca
@@ -93,11 +93,11 @@ add-engine-missing-terms-post-data = Prova a includere %s al posto del termine d
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Aggiungi motore
-    .buttonlabelextra1 = Avanzate
     .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Avanzate
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Salva motore
-    .buttonlabelextra1 = Avanzate
     .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Avanzate

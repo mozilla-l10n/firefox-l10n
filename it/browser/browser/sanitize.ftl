@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .style = min-width: 38em
     .title = Impostazioni per la cancellazione della cronologia
+    .style = min-width: 38em
 sanitize-prefs-style =
     .style = width: 21em
 sanitize-dialog-title2 =
-    .style = min-width: 40em
     .title = Elimina dati di navigazione e cookie
+    .style = min-width: 40em
 sanitize-dialog-title =
-    .style = min-width: 38em
     .title = Cancella cronologia recente
+    .style = min-width: 38em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .style = min-width: 38em
     .title = Cancella tutta la cronologia
+    .style = min-width: 38em
 clear-data-settings-label = Alla chiusura di { -brand-short-name } eliminare automaticamente
 sanitize-on-shutdown-description = Elimina automaticamente tutti gli elementi selezionati alla chiusura di { -brand-short-name }.
 

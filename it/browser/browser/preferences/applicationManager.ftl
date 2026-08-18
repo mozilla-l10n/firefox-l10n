@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-manager-window2 =
-    .style = min-width: 30em; min-height: 20em;
     .title = Dettagli applicazioni
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Rimuovi
     .accesskey = R

@@ -17,8 +17,8 @@ firefoxview-page-heading =
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
-    .aria-label = Chiudi
     .title = Chiudi
+    .aria-label = Chiudi
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = adesso
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.

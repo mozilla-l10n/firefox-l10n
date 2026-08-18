@@ -32,6 +32,9 @@ crashreporter-button-close = Chiudi
 crashreporter-crash-identifier = Identificativo arresto anomalo: { $id }
 # $url (String) - the url which the user can use to view the submitted crash report
 crashreporter-crash-details = È possibile visualizzare i dettagli di questo arresto anomalo all’indirizzo { $url }.
+
+# Error strings
+
 # $path (String) - the file path
 crashreporter-error-opening-file = Errore durante l’apertura del file ({ $path })
 # $path (String) - the file path

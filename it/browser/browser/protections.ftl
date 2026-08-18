@@ -169,32 +169,32 @@ monitor-resolve-breaches-link = Risolvi violazioni
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
+    .title = Traccianti dei social media
     .aria-label =
         { $count ->
             [one] { $count } tracciante dei social media ({ $percentage }%)
            *[other] { $count } traccianti dei social media ({ $percentage }%)
         }
-    .title = Traccianti dei social media
 bar-tooltip-cookie =
+    .title = Cookie traccianti intersito
     .aria-label =
         { $count ->
             [one] { $count } cookie tracciante intersito ({ $percentage }%)
            *[other] { $count } cookie traccianti intersito ({ $percentage }%)
         }
-    .title = Cookie traccianti intersito
 bar-tooltip-tracker =
+    .title = Contenuti traccianti
     .aria-label =
         { $count ->
             [one] { $count } contenuto tracciante ({ $percentage }%)
            *[other] { $count } contenuti traccianti ({ $percentage }%)
         }
-    .title = Contenuti traccianti
 bar-tooltip-fingerprinter =
-    .aria-label = { $count } fingerprinter ({ $percentage }%)
     .title = Fingerprinter
+    .aria-label = { $count } fingerprinter ({ $percentage }%)
 bar-tooltip-cryptominer =
-    .aria-label = { $count } cryptominer ({ $percentage }%)
     .title = Cryptominer
+    .aria-label = { $count } cryptominer ({ $percentage }%)
 # Privacy Metrics Card
 privacy-metrics-title = Protezione della privacy
 # Variables:

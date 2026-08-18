@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Si è in modalità FIPS. FIPS richiede che
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .style = min-width: 40em
     .title = Rimozione password principale
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Reimposta
 reset-primary-password-text = La rimozione della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali e delle chiavi private memorizzate. Rimuovere la password principale?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = La password è stata eliminata.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .style = min-width: 46em
     .title = Download certificato
+    .style = min-width: 46em
 download-cert-message = È stato richiesto di dare fiducia a una nuova autorità di certificazione (CA).
 download-cert-trust-ssl =
     .label = Dai fiducia a questa CA per l’identificazione di siti web.
