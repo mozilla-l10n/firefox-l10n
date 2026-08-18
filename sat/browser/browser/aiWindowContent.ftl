@@ -196,3 +196,13 @@ smart-window-ungroup-success-summary =
         [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱫᱳᱞ ᱟᱠᱟᱱᱟ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱜᱟᱫᱮᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜ ᱮᱱᱟ ᱾
        *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱫᱳᱞ ᱟᱠᱟᱱᱟ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱜᱟᱫᱮᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜ ᱮᱱᱟ ᱾
     }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] { $count } ᱴᱮᱵᱽ ᱫᱳᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜ ᱠᱟᱱᱟ
+        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱫᱳᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜ ᱠᱟᱱᱟ
+       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱫᱳᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜ ᱠᱟᱱᱟ
+    }
+
+## Action log
+
+action-log-searching-tabs = ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱜ ᱠᱟᱱᱟ
