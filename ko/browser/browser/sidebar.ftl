@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 마우스를 올려서 사이드바 펼치기
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = 마우스를 올리면 미리 보기 표시
 sidebar-manage-extensions2 = 모든 확장 기능 관리
 sidebar-customize-extensions-header2 = 확장 기능
 sidebar-customize-firefox-tools-header2 =

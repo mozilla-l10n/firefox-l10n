@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = 이 파일은 지원되지 않습니다. 계�
 about-pdf-dropzone-error-generic = 업로드가 되지 않았습니다. 나중에 다시 시도하세요.
 about-pdf-browse-files =
     .label = 파일 찾아보기
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = PDF 열기
 about-pdf-promo =
     .heading = { -brand-short-name }를 기본 PDF 편집기로 만드세요
     .message = { -brand-short-name }에서 PDF 파일을 열고 강조 표시, 서명, 파일 병합, 주석 등 기본적인 작업을 한 곳에서 처리하세요.
