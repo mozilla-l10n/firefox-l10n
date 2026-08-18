@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Cau
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Ewch â VPN mewnol gyda chi ar Android
+ipprotection-android-promo-callout-description = Sganiwch y cod QR i gael { -brand-product-name } ar gyfer Android a throwch y VPN mewnol ymlaen i gael mwy o breifatrwydd wrth fynd. Yn dod i iOS yn fuan.
 ipprotection-android-promo-callout-primary-button = Iawn
 
 ## Panel
