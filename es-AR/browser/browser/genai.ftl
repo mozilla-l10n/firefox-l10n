@@ -256,7 +256,7 @@ link-preview-settings-enable =
 link-preview-settings-key-points =
     .label = Permitir que el motor de IA lea el comienzo de la página y genere puntos clave
 link-preview-settings-long-press =
-    .label = Atajo. Haga clic en el enlace durante 1 segundo (mantenga presionado el botón)
+    .label = Atajo; Haga clic en el enlace durante 1 segundo (mantenga presionado el botón)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Desea ver más información generada con IA?
 # Message that appears when user is shown the opt-in flow for link previews

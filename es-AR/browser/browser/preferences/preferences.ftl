@@ -720,7 +720,7 @@ drm-group =
     .label = Contenido con Digital Rights Management (DRM)
 drm-content-header = Contenido con Digital Rights Management (DRM)
 play-drm-content =
-    .label = Reproducir contenido controlado por DRM-
+    .label = Reproducir contenido controlado por DRM
     .accesskey = p
 play-drm-content-learn-more = Conocer más
 update-application-title = Actualizaciones de { -brand-short-name }
@@ -734,14 +734,14 @@ update-history-2 =
 update-application-installation =
     .label = Instalación
 update-application-auto-2 =
-    .label = Instale actualizaciones automáticamente (recomendado)
+    .label = Instalar actualizaciones automáticamente (recomendado)
     .accesskey = a
 update-history =
     .label = Mostrar historial de actualizaciones…
     .accesskey = h
 update-application-allow-description = Permitir que { -brand-short-name }
 update-application-auto =
-    .label = Instale actualizaciones automáticamente (recomendado)
+    .label = Instalar actualizaciones automáticamente (recomendado)
     .accesskey = a
 update-application-check-choose-2 =
     .label = Buscar actualizaciones, pero elegir cuándo instalarlas
@@ -830,9 +830,9 @@ performance-default-content-process-count =
 performance-group =
     .label = Rendimiento
 performance-use-recommended-settings-checkbox-2 =
-    .label = Uso configuración de rendimiento recomendada
-    .description = Estas configuraciones son a medida del hardware y sistema operativo.
+    .label = Usar configuración de rendimiento recomendada
     .accesskey = U
+    .description = Estas configuraciones son a medida del hardware y sistema operativo.
 
 ## Accessibility page
 
