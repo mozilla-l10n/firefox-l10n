@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Den här filen stöds inte. Välj en PDF för 
 about-pdf-dropzone-error-generic = Uppladdningen misslyckades. Försök igen senare.
 about-pdf-browse-files =
     .label = Bläddra bland filer
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Öppna PDF
 about-pdf-promo =
     .heading = Gör { -brand-short-name } till din standard PDF-redigerare
     .message = Öppna PDF-filer i { -brand-short-name } och hantera grunderna på ett ställe, från markeringar och signaturer till sammanfogade filer och kommentarer.

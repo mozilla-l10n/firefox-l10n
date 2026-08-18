@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Ce fichier n’est pas pris en charge. Choisis
 about-pdf-dropzone-error-generic = Échec de l’envoi. Réessayez plus tard.
 about-pdf-browse-files =
     .label = Parcourir les fichiers
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Ouvrir le PDF
 about-pdf-promo =
     .heading = Faites de { -brand-short-name } votre éditeur PDF par défaut
     .message = Ouvrez des fichiers PDF avec { -brand-short-name } et gérez l’essentiel au même endroit, du surlignage et des signatures aux fichiers fusionnés et aux commentaires.

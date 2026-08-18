@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Déployer le panneau latéral au survol
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Afficher l’aperçu au survol
 sidebar-manage-extensions2 = Gérer toutes les extensions
 sidebar-customize-extensions-header2 = Extensions
 sidebar-customize-firefox-tools-header2 =

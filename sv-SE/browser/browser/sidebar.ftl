@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandera sidofält vid hovring
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Visa förhandsgranskning vid hovring
 sidebar-manage-extensions2 = Hantera alla tillägg
 sidebar-customize-extensions-header2 = Tillägg
 sidebar-customize-firefox-tools-header2 =

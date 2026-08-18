@@ -1252,6 +1252,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Välj en behållare för varje ny flik
     .accesskey = b
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Använd inte behållare för länkar som öppnas från externa appar
+    .accesskey = A
 containers-new-tab-check2 =
     .label = Välj en behållare för varje ny flik
     .accesskey = b
