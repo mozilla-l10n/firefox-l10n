@@ -147,6 +147,16 @@ aiwindow-input-model-select-settings-link = ᱢᱳᱰᱮᱞ ᱥᱟᱡᱟᱣ ᱠ�
 
 aiwindow-firstrun-memories-title = ᱟᱢᱟᱜ ᱥᱚᱨᱛᱚ ᱞᱮᱠᱟᱛᱮ, ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱞᱮᱠᱟᱱ ᱛᱮᱞᱟ ᱠᱚ
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } ᱟᱢᱟᱜ ᱪᱟᱴ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱵᱽᱨᱟᱣᱩᱡᱤᱝ, ᱵᱟᱝᱠᱷᱟᱱ ᱵᱟᱱᱟᱨ ᱩᱭᱦᱟᱹᱨ ᱵᱮᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱾ ᱩᱱᱠᱩ ᱚᱠᱛᱚ ᱥᱟᱶ ᱥᱟᱶ ᱛᱮ ᱛᱮᱞᱟ ᱠᱚ ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚᱣᱟᱱ ᱠᱚ ᱵᱮᱱᱟᱣᱟ ᱾
+aiwindow-firstrun-memories-conversation-title = ᱜᱟᱞᱢᱟᱨᱟᱣ ᱪᱟᱹᱞᱩ ᱫᱚᱦᱚᱭ ᱢᱮ
+aiwindow-firstrun-memories-conversation-body = ᱪᱟᱴ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱮᱛ ᱫᱚ ᱟᱢ ᱟᱢᱛᱮ ᱠᱚᱢ ᱫᱚᱦᱲᱟ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾
+aiwindow-firstrun-memories-relevance-title = ᱟᱨᱦᱚᱸ ᱡᱚᱲᱟᱱᱟᱜ ᱛᱮᱞᱟ ᱠᱚ
+aiwindow-firstrun-memories-relevance-body = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ { -smart-window-brand-name } ᱢᱟᱨᱟᱝ ᱪᱤᱛᱟᱹᱨ ᱮᱢᱚᱜ ᱠᱟᱱᱟ ᱾
+aiwindow-firstrun-memories-privacy-title = ᱰᱤᱡᱟᱭᱤᱱ ᱞᱮᱠᱟᱛᱮ ᱯᱨᱟᱭᱣᱮᱴ
+aiwindow-firstrun-memories-privacy-body = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱱᱚᱣᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱡᱟᱣᱨᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱰᱤᱞᱤᱴ ᱥᱮ ᱵᱚᱱᱫᱚ ᱢᱮ ᱾
+aiwindow-firstrun-memories-choose-label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱪᱮᱫ { -smart-window-brand-name } ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱠᱟᱱᱟ
+aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name } ᱨᱮ ᱪᱟᱴ ᱢᱮ
+aiwindow-firstrun-memories-checkbox-browsing = { -brand-product-name } ᱛᱮ ᱵᱽᱨᱟᱣᱡ ᱢᱮ
+aiwindow-firstrun-memories-update-settings = ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱥᱮᱴᱤᱝ ᱨᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
