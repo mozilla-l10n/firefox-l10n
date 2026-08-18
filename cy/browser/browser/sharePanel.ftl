@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Rhannu Tudalen
 share-panel-copy-link =
     .label = Copïo dolen
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Dolen wedi'i chopïo
 share-panel-os-share =
     .label = Rhannu gyda…
 share-panel-mail =
