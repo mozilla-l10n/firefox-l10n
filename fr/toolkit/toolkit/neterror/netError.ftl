@@ -51,7 +51,7 @@ neterror-search-cta-hint-search = Recherchez le site sur le Web
 # $query (String) - The search query derived from the address that failed to
 # load, for example "best hiking boots reviews". The query and the quotation
 # marks around it are emphasized.
-neterror-search-cta-hint-search-query = Rechercher <strong>« { $query } »</strong> sur le Web
+neterror-search-cta-hint-search-query = Recherchez <strong>« { $query } »</strong> sur le Web
 # .tooltiptext doubles as the button's accessible description, so it explains
 # that results open in a new tab.
 neterror-search-cta-search-button =
