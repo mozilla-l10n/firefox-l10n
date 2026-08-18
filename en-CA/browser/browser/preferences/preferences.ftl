@@ -1734,27 +1734,18 @@ autofill-personal-info-checkbox-message =
     .label = Save and autofill personal info
 autofill-personal-info-manage-button =
     .label = Manage personal info
-
 passports-list-header =
     .label = Passports
-
 passports-delete-passport-button-label =
     .aria-label = Delete
-
 passports-edit-passport-button-label =
     .aria-label = Edit
-
 passports-delete-passport-prompt-title = Delete this passport?
-
 passports-delete-passport-prompt-confirm-button = Delete
-
 passports-delete-passport-prompt-cancel-button = Cancel
-
 autofill-passports-add-button = Add new passport
-
 autofill-personal-info-manage-title =
     .heading = Manage personal info
-
 # This message is displayed when no passports are stored in Firefox
 passports-no-passports-stored-message =
     .label = No passports added
@@ -2582,29 +2573,22 @@ browser-theme-manage-link =
 appearance-window-density-group =
     .label = Window density
     .description = Adjust the spacing around window elements like toolbar, tabs, and sidebar.
-
 appearance-window-density-radio-group =
     .aria-label = Window density
-
 appearance-window-density-automatic =
     .label = Automatic (default)
     .description = Standard, compact, or touch spacing is applied automatically
-
 appearance-window-density-automatic-no-touch =
     .label = Automatic (default)
     .description = Standard or compact spacing is applied automatically
-
 appearance-window-density-standard =
     .label = Standard
     .description = Balanced spacing for most screens
-
 appearance-window-density-auto-touch-mode =
     .label = Use touch spacing for tablet mode
-
 appearance-window-density-compact =
     .label = Compact
     .description = Reduced spacing for smaller screens
-
 appearance-window-density-touch =
     .label = Touch
     .description = Larger window elements and click targets, optimized for touch screens
@@ -2823,7 +2807,6 @@ security-privacy-issue-warning-safe-browsing =
 security-privacy-issue-warning-doh2 =
     .label = DNS over HTTPS is disabled
     .description = DNS over HTTPS helps hide what sites you’re about to visit from your network provider.
-
 security-privacy-issue-warning-ech2 =
     .label = Encrypted Client Hello is disabled
     .description = Encrypted Client Hello helps hide what sites you’re about to visit from your network provider.
@@ -2844,7 +2827,6 @@ security-privacy-issue-warning-proxy-autodetection =
 referrals-section-header =
     .label = Share { -brand-short-name }
     .description = Invite someone to choose the browser that puts privacy first.
-
 # Link that opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =
