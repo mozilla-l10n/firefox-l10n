@@ -157,6 +157,25 @@ aiwindow-firstrun-memories-choose-label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱪᱮᱫ { 
 aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name } ᱨᱮ ᱪᱟᱴ ᱢᱮ
 aiwindow-firstrun-memories-checkbox-browsing = { -brand-product-name } ᱛᱮ ᱵᱽᱨᱟᱣᱡ ᱢᱮ
 aiwindow-firstrun-memories-update-settings = ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱥᱮᱴᱤᱝ ᱨᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾
+aiwindow-firstrun-memories-no-create = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟᱹᱧ ᱾ { -smart-window-brand-name } ᱫᱚ ᱩᱭᱦᱟᱹᱨ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱥᱟᱡᱟᱣ ᱨᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = { -smart-window-brand-name } ᱟᱯᱚᱱ ᱠᱟᱜ ᱢᱮ
+aiwindow-firstrun-default-subtitle = ᱯᱟᱱᱛᱮ ᱢᱮ, ᱥᱮᱸᱫᱽᱨᱟ ᱢᱮ, ᱟᱨ ᱢᱤᱫ ᱡᱟᱭᱜᱟ ᱨᱮ ᱠᱩᱞᱤᱭ ᱢᱮ ᱾ ᱟᱢ ᱱᱤᱛ ᱦᱚᱸ ᱯᱨᱟᱭᱣᱮᱴ ᱟᱨ ᱠᱞᱟᱥᱤᱠ ᱣᱤᱱᱰᱚᱡᱽ ᱡᱷᱤᱡ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱢᱚᱱᱮᱢ ᱠᱷᱚᱡᱚᱜᱼᱟ ᱾
+aiwindow-firstrun-default-checkbox-label = ᱥᱟᱨᱟ ᱜᱷᱟᱹᱲᱤᱡ { -brand-product-name } ᱫᱚ { -smart-window-brand-name } ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
+aiwindow-firstrun-default-checkbox-description = ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱥᱮᱴᱤᱝ ᱵᱚᱫᱚᱞ ᱢᱮ
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = ᱠᱩᱠᱞᱤ ᱢᱮ
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = ᱨᱮ ᱞᱩᱨ
+    .tooltiptext = ᱜᱚᱲᱚ ᱞᱮᱠᱷᱟᱱ ᱛᱮᱞᱟ ᱨᱮ ᱞᱩᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
