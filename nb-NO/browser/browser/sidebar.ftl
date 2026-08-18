@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Utvid sidestolpen når du holder musepekeren over
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Vis forhåndsvisning når du holder musepekeren over
 sidebar-manage-extensions2 = Behandle alle utvidelser
 sidebar-customize-extensions-header2 = Utvidelser
 sidebar-customize-firefox-tools-header2 =
