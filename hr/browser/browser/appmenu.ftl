@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Prijavi se u { -brand-product-name }
 appmenuitem-fxa-manage-account = Upravljaj računom
 fxa-menu-sync-status-on = Sinkronizacija je uključena
 fxa-menu-sync-status-off = Sinkronizacija je isključena
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Sinkroniziraj svoje podatke
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Vaši se podaci ne sinkroniziraju
@@ -159,6 +162,12 @@ appmenu-fxa-last-sync = Zadnja sinkronizacija { $time }
     .label = Zadnja sinkronizacija { $time }
 appmenu-fxa-sync-and-save-data2 = Sinkroniziraj i spremi podatke
 appmenu-fxa-signed-in-label = Prijavi se
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Prijavi se za sinkronizaciju
+appmenu-fxa-sign-in-promo-message = Pristupi svojim podacima bilo gdje
+appmenu-fxa-sign-in-promo-button =
+    .label = Prijavi se
 appmenu-fxa-setup-sync =
     .label = Uključi sinkronizaciju…
 appmenu-fxa-setup-sync-new = Uključi
@@ -287,6 +296,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Pretraži povijest
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Ostanite sinkronizirani na svim uređajima
+appmenu-sync-promo-signin-cta = Prijavi se
+appmenu-sync-promo-turnonsync =
+    .heading = Sinkroniziraj svoje kartice i povijest
+appmenu-sync-promo-turnonsync-cta = Uključi sinkronizaciju
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Dohvati svoje mobilne kartice
+appmenu-sync-promo-connectdevice-cta = Spoji uređaj
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Ponesi svoje zabilješke sa sobom
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Ponesi svoje zabilješke van
+
 ## Help panel
 
 appmenu-help-header =
@@ -294,6 +324,11 @@ appmenu-help-header =
 appmenu-about =
     .label = O { -brand-shorter-name(case: "loc") }
     .accesskey = O
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Podijeli { -brand-shorter-name }
+    .accesskey = d
 appmenu-get-help =
     .label = Dobij pomoć
     .accesskey = D
@@ -350,14 +385,21 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Prijavi se na tvoj račun
 appmenuitem-monitor-title2 = Budite ispred krađe identiteta
 appmenuitem-monitor-description2 = Primajte upozorenja o curenju podataka
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } upozorenja o curenju podataka
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Primaj upozorenja o povredi podataka
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Zaštitite privatnost svoje e-pošte
 appmenuitem-relay-description2 = Pomaže u sprječavanju neželjene pošte u pristigloj pošti
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Prikaži maske e-pošte
 appmenuitem-relay-description = Maskiraj svoju pravu e-mail adresu i telefonski broj
 appmenuitem-services-relay-description = Pokreni nadzornu ploču za maske e-mail adresa
 appmenuitem-vpn-title2 = Sakrijte svoju lokaciju pomoću { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Ostvarite dodatnu zaštitu na svim uređajima
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Preuzmi { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Otežajte praćenje vašeg pregledavanja
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Zaštiti cijeli uređaj
@@ -395,5 +437,31 @@ fxa-menu-create-profile-heading = Podignite svoje pregledavanje na višu razinu 
 fxa-menu-create-profile-description = Odjelite poslovne i privatne zabilješke, lozinke i povijest pregledavanja.
 fxa-menu-create-profile-confirm =
     .label = Stvorite novi profil
+fxa-menu-create-profile-learn-more =
+    .label = Što su profili?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Podijeli { -brand-short-name }
+appmenuitem-share-firefox-description = Pozovite nekoga da odabere preglednik koji privatnost stavlja na prvo mjesto
 appmenu-profiles-2 =
     .label = Profili
+appmenu-profiles-header = Profili
+appmenu-all-profiles =
+    .label = Svi profili
+appmenu-secure-sync-header = Sigurna sinkronizacija
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Nedavne kartice
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Prikaži { $tabCount } sinkroniziranu karticu
+            [few] Prikaži { $tabCount } sinkronizirane kartice
+           *[other] Prikaži { $tabCount } sinkroniziranih kartica
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Pošalji trenutnu stranicu na ovaj uređaj

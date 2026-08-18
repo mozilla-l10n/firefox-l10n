@@ -139,6 +139,7 @@ taskbar-tabs-value-prop-callout-subtitle = Tek tıklamayla kendi penceresinde ve
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+taskbar-tabs-value-prop-callout-title-v3 = En sevdiğiniz siteleri görev çubuğuna sabitleyin
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Görev çubuğuna sabitle
 

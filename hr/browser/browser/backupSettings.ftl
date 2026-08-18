@@ -75,6 +75,8 @@ turn-on-scheduled-backups-location-label = Mjesto
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (preporučeno)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Odaberi lokaciju
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Odaberi …
@@ -89,6 +91,7 @@ turn-on-scheduled-backups-confirm-button = Uključi sigurnosno kopiranje
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Došlo je do problema s tvojom odabranom mapom za sigurnosne kopije. Odaberi jednu drugu mapu i pokušaj ponovo.
+turn-on-scheduled-backups-error-default-dir-denied = Nismo mogli pristupiti vašoj mapi sigurnosnih kopija. Pokušajte odabrati novu lokaciju.
 backup-error-file-system = Dogodila se greška s odabranom mapom sigurnosne kopije tijekom sigurnosnog kopiranja { -brand-short-name(case: "gen") }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
