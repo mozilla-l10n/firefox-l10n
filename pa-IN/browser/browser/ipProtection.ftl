@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = ਖ਼ਾਰਜ ਕ�
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = ਐਂਡਰਾਇਡ ਉੱਤੇ ਆਪਣੇ ਨਾਲ ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਨਾਲ ਰੱਖੋ
+ipprotection-android-promo-callout-description = ਐਂਡਰਾਇਡ ਲਈ { -brand-product-name } ਲੈਣ ਵਾਸਤੇ QR ਕੋਡ ਸਕੈਨ ਕਰੋ ਅਤੇ ਹਰ ਵੇਲੇ ਵੱਧ ਪਰਦੇਦਾਰੀ ਲਈ ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਚਾਲੂ ਕਰੋ। ਛੇਤੀ ਹੀ iOS ਤੇ ਵੀ ਆ ਰਿਹਾ ਹੈ।
 ipprotection-android-promo-callout-primary-button = ਸਮਝੇ
 
 ## Panel

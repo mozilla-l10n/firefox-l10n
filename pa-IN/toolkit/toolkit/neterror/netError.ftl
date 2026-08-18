@@ -34,6 +34,43 @@ neterror-view-certificate-link = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖ
 neterror-trr-continue-this-time = ਇਸ ਵੇਲੇ ਜਾਰੀ ਰੱਖੋ
 neterror-disable-native-feedback-warning = ਹਮੇਸ਼ਾ ਜਾਰੀ ਰੱਖੋ
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = ਇਹ ਸਾਈਟ ਖੋਲ੍ਹੀ ਨਹੀਂ ਜਾ ਸਕਦੀ ਹੈ
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = { $domain } ਉੱਤੇ ਸਰਵਰ ਨੂੰ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਹੈ।
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = ਇਹ ਪੜਾਅ ਅਜ਼ਮਾਓ:
+neterror-search-cta-hint-check-address = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵੇਂ ਲਈ ਦੋ-ਵਾਰ ਕਲਿੱਕ ਕਰੋ
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = ਸਾਈਟ ਲਈ ਵੈੱਬ ਉੱਤੇ ਲੱਭੋ
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = <strong>“{ $query }”</strong> ਲਈ ਵੈੱਬ ਖੋਜੋ
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = ਖੋਜੋ
+    .accesskey = S
+    .tooltiptext = ਖੋਜ ਨਤੀਜੇ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ
+neterror-search-cta-reload-button =
+    .label = ਮੁੜ-ਲੋਡ
+    .accesskey = R
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = ਤੁਸੀਂ ਆਫਲਾਈਨ ਜਾਪਦੇ ਹੋ। ਮੁੜ-ਕਨੈਕਟ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = ਗ਼ਲਤੀ ਕੋਡ: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = ਹੋਰ ਜਾਣੋ
+
 ##
 
 neterror-pref-reset = ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਇਸ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?

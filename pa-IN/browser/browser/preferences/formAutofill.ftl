@@ -132,6 +132,7 @@ autofill-address-tel = ਫ਼ੋਨ
 autofill-address-email = ਈਮੇਲ
 autofill-cancel-button = ਰੱਦ ਕਰੋ
 autofill-save-button = ਸੰਭਾਲੋ
+autofill-country-warning-message-2 = ਆਪਣੇ-ਆਪ ਫਾਰਮ ਕਰਨਾ ਸਿਰਫ਼ ਕੁਝ ਹੀ ਦੇਸ਼ਾਂ ਵਿੱਚ ਮੌਜੂਦ ਹੈ
 autofill-country-warning-message = ਫ਼ਾਰਮ ਖੁਦ-ਭਰੋ ਇਸ ਵੇਲੇ ਕੁਝ ਦੇਸ਼ਾਂ 'ਚ ਹੀ ਉਪਲਬਧ ਹੈ।
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ਨਵਾਂ ਕਰੈਡਿਟ ਕਾਰਡ ਜੋੜੋ
