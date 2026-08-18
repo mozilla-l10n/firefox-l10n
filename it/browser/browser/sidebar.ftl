@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Espandi la barra laterale al passaggio del mouse
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Mostra anteprima al passaggio del mouse
 sidebar-manage-extensions2 = Gestisci tutte le estensioni
 sidebar-customize-extensions-header2 = Estensioni
 sidebar-customize-firefox-tools-header2 =
