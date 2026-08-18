@@ -218,3 +218,19 @@ action-log-searched-web = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱭ �
 # should not be translated. The <a> wraps "Exa" as a link to a support
 # article explaining the third-party web search integration.
 action-log-searching-web-with-exa = <a data-l10n-name="exa-link">Exa</a> ᱥᱟᱶᱛᱮ ᱣᱮᱵᱽ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = <a data-l10n-name="exa-link">Exa</a> ᱥᱟᱶᱛᱮ ᱣᱮᱵᱽ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱭ ᱮᱱᱟ
+action-log-checking-memories = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱧᱮᱞ ᱦᱩᱭᱩᱜ ᱟᱠᱟᱱᱟ
+action-log-checked-memories = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱧᱮᱞ ᱦᱩᱭᱩᱜ ᱮᱱᱟ
+action-log-searching-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱜ ᱠᱟᱱᱟ
+action-log-searched-settings = ᱥᱮᱸᱫᱽᱨᱟ ᱟᱠᱟᱱ ᱥᱟᱡᱟᱣ ᱠᱚ
+action-log-searching-world-cup-matches = ᱣᱟᱨᱞᱰ ᱠᱟᱯ ᱢᱮᱪ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱟᱱᱟ
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } ᱰᱷᱮᱨ

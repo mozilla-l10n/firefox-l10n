@@ -119,6 +119,9 @@ aiwindow-firstrun-model-flexible-body = ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱ ᱠᱟᱹ�
 aiwindow-firstrun-model-recommended = ᱵᱟᱛᱟᱣᱟᱜ
 aiwindow-firstrun-model-personal-label = ᱱᱚᱡᱚᱨ
 aiwindow-firstrun-model-personal-body = ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ ᱞᱮᱠᱟᱱ ᱛᱮᱞᱟ ᱠᱚ
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = ᱱᱤᱡᱮᱨᱟᱜ: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = ᱥᱟᱱᱟᱢ ᱯᱟᱹᱨᱥᱤ ᱨᱮ ᱯᱚᱨᱥᱚᱱᱟᱞ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱛᱮᱭᱟᱨ ᱟᱠᱟᱱᱟ
 aiwindow-firstrun-button = ᱫᱮᱞᱟ ᱵᱚᱱ ᱪᱟᱞᱟᱣ ᱞᱮᱱᱜᱮ
 aiwindow-firstrun-back-button = ᱛᱟᱭᱚᱢ
 aiwindow-firstrun-next-button = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ
@@ -129,10 +132,21 @@ aiwindow-input-model-select-button-label-fast = ᱞᱚᱜᱚᱱ
 aiwindow-input-model-select-button-label-allpurpose = ᱞᱤᱪᱟᱹᱲ
 aiwindow-input-model-select-button-label-personal = ᱱᱚᱡᱚᱨ
 aiwindow-input-model-select-button-label-custom = ᱠᱩᱥᱤᱭᱟᱜ
+aiwindow-input-model-select-button-description-custom = ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨ LLM ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨ LLM ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+aiwindow-input-model-select-default-badge =
+    .label = ᱢᱩᱞ
+    .title = ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱ ᱢᱩᱞ ᱢᱳᱰᱮᱞ
+aiwindow-input-model-select-settings-link = ᱢᱳᱰᱮᱞ ᱥᱟᱡᱟᱣ ᱠᱚ
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = ᱟᱢᱟᱜ ᱥᱚᱨᱛᱚ ᱞᱮᱠᱟᱛᱮ, ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱞᱮᱠᱟᱱ ᱛᱮᱞᱟ ᱠᱚ
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } ᱟᱢᱟᱜ ᱪᱟᱴ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱵᱽᱨᱟᱣᱩᱡᱤᱝ, ᱵᱟᱝᱠᱷᱟᱱ ᱵᱟᱱᱟᱨ ᱩᱭᱦᱟᱹᱨ ᱵᱮᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱾ ᱩᱱᱠᱩ ᱚᱠᱛᱚ ᱥᱟᱶ ᱥᱟᱶ ᱛᱮ ᱛᱮᱞᱟ ᱠᱚ ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚᱣᱟᱱ ᱠᱚ ᱵᱮᱱᱟᱣᱟ ᱾
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
