@@ -30,15 +30,27 @@ theme-picker-spark =
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame =
     .label = ਲਾਟ
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare =
+    .label = ਲਾਟ
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender =
     .label = ਫਿੱਕਾ ਜਾਮਨੀ
 # Name for a medium purple theme. Refers to the sky just after sunset.
 theme-picker-dusk =
     .label = ਆਥਣ
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon =
+    .label = ਹਲਕਾ-ਨੀਲਾ
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine =
+    .label = ਹਰਾ
 # Name for a soft teal theme. Refers to ocean tides.
 theme-picker-tide =
     .label = ਸਮੁੰਦਰੀ ਲਹਿਰ
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+theme-picker-ash =
+    .label = ਸੁਆਹ
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 theme-picker-smoke =
     .label = ਧੂੰਆਂ
@@ -63,15 +75,27 @@ theme-picker-spark-aria-label =
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame-aria-label =
     .aria-label = ਲਾਟ
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare-aria-label =
+    .aria-label = ਲਾਟ
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender-aria-label =
     .aria-label = ਫਿੱਕਾ ਜਾਮਨੀ
 # Name for a medium purple theme. Refers to the sky just after sunset.
 theme-picker-dusk-aria-label =
     .aria-label = ਆਥਣ
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon-aria-label =
+    .aria-label = ਹਲਕਾ-ਨੀਲਾ
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine-aria-label =
+    .aria-label = ਹਰਾ
 # Name for a soft teal theme. Refers to ocean tides.
 theme-picker-tide-aria-label =
     .aria-label = ਸਮੁੰਦਰੀ ਲਹਿਰ
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+theme-picker-ash-aria-label =
+    .aria-label = ਸੁਆਹ
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 theme-picker-smoke-aria-label =
     .aria-label = ਧੂੰਆਂ

@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = { -brand-product-name } ‘ਚ ਸਾਈਨ ਇਨ ਕ
 appmenuitem-fxa-manage-account = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 fxa-menu-sync-status-on = ਸਿੰਕ ਚਾਲੂ ਹੈ
 fxa-menu-sync-status-off = ਸਿੰਕ ਬੰਦ ਹੈ
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸਿੰਕ ਕਰੋ
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = ਤੁਹਾਡਾ ਡਾਟਾ ਸਿੰਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
