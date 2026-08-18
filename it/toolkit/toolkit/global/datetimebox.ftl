@@ -34,11 +34,6 @@ datetime-dayperiod =
 
 ## Date/time picker buttons
 
-
-# This label is used by screenreaders and other assistive technology
-# to indicate the purpose of a toggle button inside of the <input type="date">
-# field that opens/closes a date picker calendar dialog
-
 datetime-calendar =
     .aria-label = Calendario
 datetime-time =

@@ -4,8 +4,8 @@
 
 # Dialog close button
 spotlight-dialog-close-button =
-    .title = Chiudi
     .aria-label = Chiudi
+    .title = Chiudi
 
 ## Mobile download button strings
 

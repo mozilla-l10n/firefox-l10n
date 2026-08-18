@@ -20,7 +20,7 @@ about-unloads-intro =
 about-unloads-learn-more =
     Consultare il documento <a data-l10n-name="doc-link">Tab Unloading</a>
     per ulteriori informazioni su questa funzione e questa pagina.
-about-unloads-last-updated = Ultimo aggiornamento: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-updated = Ultimo aggiornamento: { DATETIME($date, day: "numeric", hour: "numeric", hour12: "false", minute: "numeric", month: "numeric", second: "numeric", year: "numeric") }
 about-unloads-button-unload = Scarica
     .title = Scarica la scheda con la priorità più alta
 about-unloads-no-unloadable-tab = Non ci sono schede scaricabili.
@@ -35,7 +35,7 @@ about-unloads-column-memory = Memoria
     .title = Stima della memoria utilizzata dalla scheda
 about-unloads-column-processes = ID processi
     .title = ID dei processi che ospitano il contenuto della scheda
-about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-accessed = { DATETIME($date, day: "numeric", hour: "numeric", hour12: "false", minute: "numeric", month: "numeric", second: "numeric", year: "numeric") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =
     .title = { NUMBER($mem, maxFractionalUnits: 2) } MB

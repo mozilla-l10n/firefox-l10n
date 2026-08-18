@@ -44,18 +44,18 @@ aiwindow-retry =
     .aria-label = Riprova
     .tooltiptext = Riprova
 aiwindow-copy-message =
-    .tooltiptext = Copia
     .aria-label = Copia messaggio
+    .tooltiptext = Copia
 aiwindow-copy-table =
-    .tooltiptext = Copia tabella
     .aria-label = Copia tabella
+    .tooltiptext = Copia tabella
 aiwindow-table-scroll-indicator = Scorri per altri contenuti
 aiwindow-thumbs-up =
-    .tooltiptext = Condividi feedback positivo
     .aria-label = Condividi feedback positivo
+    .tooltiptext = Condividi feedback positivo
 aiwindow-thumbs-down =
-    .tooltiptext = Condividi feedback negativo
     .aria-label = Condividi feedback negativo
+    .tooltiptext = Condividi feedback negativo
 aiwindow-applied-memories-popover =
     .aria-label = Pannello memorie
 aiwindow-applied-memories-list =
@@ -68,8 +68,8 @@ aiwindow-delete-memory-button =
 ## Jump to Bottom Button
 
 aiwindow-jump-to-bottom =
-    .tooltiptext = Vai in fondo
     .aria-label = Vai alla fine della chat
+    .tooltiptext = Vai in fondo
 
 ## Natural Language Action
 

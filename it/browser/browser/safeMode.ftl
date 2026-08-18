@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 troubleshoot-mode-window =
-    .title = Aprire { -brand-short-name } in Modalità risoluzione problemi?
     .style = max-width: 400px
+    .title = Aprire { -brand-short-name } in Modalità risoluzione problemi?
 start-troubleshoot-mode =
     .label = Apri
 refresh-profile =

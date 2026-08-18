@@ -10,8 +10,8 @@
 # subpage. The browser icon is the icon shown on the desktop, taskbar, and
 # Start Menu.
 appearance-browser-icon-entry-group =
-    .label = Icona del browser
     .description = Scegli un’icona personalizzata per la barra delle applicazioni, il desktop e il menu Start.
+    .label = Icona del browser
 appearance-browser-icon-button =
     .label = Cambia icona del browser
 
@@ -65,5 +65,5 @@ appearance-browser-icon-pixelated =
 # @heyheymomodraws is the social-media handle of the icon's author and must be
 # kept verbatim - do not translate or otherwise change it.
 appearance-browser-icon-momo =
-    .label = Momo
     .description = Realizzata da @heyheymomodraws
+    .label = Momo

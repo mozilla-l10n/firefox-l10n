@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 translation-window2 =
-    .title = Eccezioni - Traduzione
     .style = min-width: 38em
+    .title = Eccezioni - Traduzione
 translation-close-key =
     .key = w
 translation-languages-disabled-desc = Per le seguenti lingue non verrà proposta la traduzione

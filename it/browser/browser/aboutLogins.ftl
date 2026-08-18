@@ -5,14 +5,14 @@
 
 about-logins-page-title = Credenziali e password
 about-logins-login-filter =
-    .placeholder = Cerca nelle credenziali
     .key = F
+    .placeholder = Cerca nelle credenziali
 create-new-login-button =
     .title = Inserisci nuove credenziali
 about-logins-page-title-name = Password
 about-logins-login-filter2 =
-    .placeholder = Cerca nelle password
     .key = F
+    .placeholder = Cerca nelle password
 create-login-button =
     .title = Aggiungi password
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi

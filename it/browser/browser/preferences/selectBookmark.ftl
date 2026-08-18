@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 select-bookmark-window2 =
-    .title = Imposta pagina iniziale
     .style = min-width: 32em;
+    .title = Imposta pagina iniziale
 select-bookmark-desc = Scegliere un segnalibro da utilizzare come pagina iniziale. Se si sceglie una cartella, tutti i segnalibri in essa contenuti verranno aperti in più schede.

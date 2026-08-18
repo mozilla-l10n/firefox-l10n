@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Aggiungi nuovo contenitore
     .style = min-width: 45em
+    .title = Aggiungi nuovo contenitore
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Impostazioni contenitore “{ $name }”
     .style = min-width: 45em
+    .title = Impostazioni contenitore “{ $name }”
 containers-window-close =
     .key = w
 containers-name-label2 =
@@ -30,16 +30,16 @@ containers-color-label2 =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Nome
-    .accesskey = N
     .style = { -containers-labels-style }
+    .accesskey = N
 containers-name-text =
     .placeholder = Inserire il nome del contenitore
 containers-icon-label = Icona
+    .style = { -containers-labels-style }
     .accesskey = I
-    .style = { -containers-labels-style }
 containers-color-label = Colore
-    .accesskey = C
     .style = { -containers-labels-style }
+    .accesskey = C
 containers-dialog =
     .buttonlabelaccept = Fatto
     .buttonaccesskeyaccept = F
@@ -90,13 +90,13 @@ containers-icon-tree =
 containers-icon-chill =
     .label = Svago
 containers-window-new3 =
-    .title = Aggiungi nuovo contenitore
     .style = min-width: 32em
+    .title = Aggiungi nuovo contenitore
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings3 =
-    .title = Impostazioni per contenitore { $name }
     .style = min-width: 32em
+    .title = Impostazioni per contenitore { $name }
 
 ## Container creation panel, anchored to the URL bar.
 

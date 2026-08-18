@@ -5,5 +5,5 @@
 back-nav-button-title =
     .title = Torna indietro
 back-nav-button-title2 =
-    .title = Torna indietro
     .aria-label = Torna indietro
+    .title = Torna indietro

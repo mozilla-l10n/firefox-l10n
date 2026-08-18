@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 create-profile-window2 =
-    .title = Creazione guidata profilo
     .style = min-width: 45em; min-height: 33em;
+    .title = Creazione guidata profilo
 
 ## First wizard page
 

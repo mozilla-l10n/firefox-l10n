@@ -47,25 +47,25 @@ screenshots-generic-error-details = Non sappiamo che cosa sia successo. Riprova,
 screenshots-too-large-error-title = Lo screenshot è stato ritagliato in quanto troppo grande
 screenshots-too-large-error-details = Selezionare un’area inferiore a 32.700 pixel nel lato più lungo, o con una superficie complessiva inferiore a 124.900.000 pixel.
 screenshots-component-retry-button =
-    .title = Riprova cattura
     .aria-label = Riprova cattura
+    .title = Riprova cattura
 screenshots-component-cancel-button =
+    .aria-label = Annulla
     .title =
         { PLATFORM() ->
             [macos] Annulla (esc)
            *[other] Annulla (Esc)
         }
-    .aria-label = Annulla
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button-2 = Copia
-    .title = Copia ({ $shortcut })
     .aria-label = Copia
+    .title = Copia ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
 screenshots-component-download-button-2 = Scarica
-    .title = Scarica ({ $shortcut })
     .aria-label = Scarica
+    .title = Scarica ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the screenshot command.
 screenshot-toolbar-button =
