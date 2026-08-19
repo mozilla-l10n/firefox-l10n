@@ -65,6 +65,29 @@ about-glean-no-ping-label = (ez bidali ping-ik)
 about-glean-label-for-tag-pings = Aurreko eremuan ziurtatu arazketarako etiketa gogoangarri bat dagoela, ondoren zure ping-ak antzeman ahal izan ditzazun.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Ezarri arazketarako etiketa gogoangarri bat <span>(20 karaktere edo gutxiago, alfazenbakiak eta - soilik) </span> geroago zure ping-ak antzeman ahal izan ditzazun.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Hautatu aurreko zerrendatik zure instrumentazioak erabiltzen duen ping-a.
+    <a data-l10n-name="custom-ping-link">Ping pertsonalizatua</a> badarabil, aukeratu horixe bera.
+    Bestela, <code>event</code> metriketarako lehenetsia
+    <code>events</code> ping-a da eta beste edozein metriken lehenetsia
+    <code>metrics</code> ping-a da.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Aukerakoa. Markatu aurreko kontrol-laukia ping-ak bidaltzean hauek erregistratzea ere nahi baduzu.
+    Horrez gain <a data-l10n-name="enable-logging-link">erregistroa gaitu</a> beharko duzu.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Sakatu aurreko botoia { -glean-brand-name } ping gutziak zure etiketarekin etiketatzeko eta hautatutako ping-a bidaltzeko.
+    (Ordutik aurrera eta aplikazioa berrabiarazi arte bidalitako ping guztiak
+    <code>{ $debug-tag }</code> gisa etiketatuko dira.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Bisitatu { glean-debug-ping-viewer-brand-name } orria zure etiketa duten ping-ak ikusteko</a>.
+    Ez luke segundo gutxi batzuk baino gehiago hartu behar botoia sakatzetik zure ping-a iristera.
+    Batzuetan minutu gutxi batzuk har litzake.
 controls-button-label-verbose = Aplikatu ezarpenak eta bidali ping-a
 about-glean-feedback-settings-only =
     .message = Ezarpenak aplikatuta!
