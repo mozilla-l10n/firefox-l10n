@@ -328,6 +328,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Actions
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Markets
+    .label = Markets
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Liste de suivi
+    .label = Liste de suivi
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Recherche par nom ou symbole
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -341,6 +351,61 @@ newtab-stocks-ticker-status-up = { $name }, a gagné { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, a perdu { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, pas de changement, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = Ajouter { $name } à la liste de suivi
+    .aria-label = Ajouter { $name } à la liste de suivi
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = Retirer { $name } de la liste
+    .aria-label = Retirer { $name } de la liste
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } est dans votre liste
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } ajouté à la liste de suivi
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Retiré { $name } de la liste de suivi
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Recherche par nom ou symbole
+    .placeholder = Recherche par nom ou symbole
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Résultats de la recherche
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Retour
+    .aria-label = Retour
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Pas de résultats pour « { $query } »
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Chargement…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Impossible de rechercher actuellement. Réessayer plus tard.
 
 ## Strings for the Picture of the Day widget
 

@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Никаких сохранённых кук или истории, прямо с вашего рабочего стола. Просматривайте сеть так, как будто никто не смотрит.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Вы можете предотвратить спам с помощью псевдонимов электронной почты
+about-private-browsing-relay-promo-title = Скройте свой настоящий адрес с помощью псевдонима электронной почты, когда вы регистрируетесь, делаете покупки или делитесь им в Интернете.
+about-private-browsing-relay-promo-link-text = Попробуйте псевдонимы электронной почты
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

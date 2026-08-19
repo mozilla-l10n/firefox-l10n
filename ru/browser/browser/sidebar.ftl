@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Развернуть боковую панель при наведении
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Показывать предпросмотр при наведении
 sidebar-manage-extensions2 = Управление всеми расширениями
 sidebar-customize-extensions-header2 = Расширения
 sidebar-customize-firefox-tools-header2 =

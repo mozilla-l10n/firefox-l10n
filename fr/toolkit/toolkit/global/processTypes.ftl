@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Utilitaire Media Foundation Engine
 process-type-utility-actor-js-oracle = Utilitaire JavaScript Oracle
 process-type-utility-actor-windows-utils = Utilitaires Windows Utils
 process-type-utility-actor-windows-file-dialog = Utilitaire Boîte de dialogue de fichiers de Windows
+process-type-utility-actor-hw-inference = Inférence accélérée par le matériel d’utilitaire
 
 ##
 ## Other

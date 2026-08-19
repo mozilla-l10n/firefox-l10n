@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Значок
 containers-color-label2 =
     .label = Цвет
+containers-dialog2 =
+    .buttonlabelaccept = Сохранить
+    .buttonaccesskeyaccept = S
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,25 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Настройки контейнера { $name }
     .style = min-width: 32em
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Добавить веб-сайт
+containers-site-label =
+    .label = Веб-сайт
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Контейнер
+containers-site-dialog =
+    .buttonlabelaccept = Сохранить
+    .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Введите действительный, безопасный веб-сайт
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Этот веб-сайт уже в вашем списке
 
 ## Container creation panel, anchored to the URL bar.
 

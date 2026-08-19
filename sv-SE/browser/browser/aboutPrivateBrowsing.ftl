@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Inga sparade kakor eller historik, direkt från ditt skrivbord. Surfa som om ingen tittar.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Hjälp till att förhindra skräppost i inkorgen med e-postalias
+about-private-browsing-relay-promo-title = Dölj din riktiga adress med en e-postalias när du registrerar dig, handlar eller delar den online.
+about-private-browsing-relay-promo-link-text = Testa e-postalias
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

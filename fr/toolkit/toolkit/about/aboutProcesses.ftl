@@ -146,6 +146,7 @@ about-processes-utility-actor-js-oracle = Oracle JavaScript
 about-processes-utility-actor-windows-utils = Utilitaires Windows
 about-processes-utility-actor-windows-file-dialog = Boîte de dialogue de fichiers de Windows
 about-processes-utility-actor-pkcs11-module = Assistant du module de sécurité
+about-processes-utility-actor-hw-inference = Inférence accélérée par le matériel
 
 ## Displaying CPU (percentage and total)
 ## Variables:

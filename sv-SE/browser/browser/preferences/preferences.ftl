@@ -1266,6 +1266,18 @@ containers-settings-button2 =
     .title = Inställningar
 containers-remove-button3 =
     .title = Ta bort
+containers-sites-card-header =
+    .label = Platsspecifika behållare
+    .description = Välj en behållare för en webbplats och { -brand-short-name } kommer att använda den varje gång webbplatsen öppnas.
+containers-sites-add-button =
+    .label = Lägg till webbplats
+    .accesskey = L
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Behållare för { $site }
+containers-site-remove-button =
+    .title = Ta bort
 containers-remove-button2 =
     .title = Ta bort
 
