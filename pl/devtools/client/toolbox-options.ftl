@@ -83,7 +83,7 @@ options-netmonitor-label = Monitor sieci
 # The label for the input defining the limit of stored request and response body size
 options-netmonitor-body-limit-label = Maksymalny rozmiar treści żądania i odpowiedzi (0 oznacza brak ograniczenia):
 options-netmonitor-body-limit-tooltip =
-    .title = Treści żądań lub odpowiedzi przekraczające podany rozmiar będą skrócane podczas wyświetlania lub pobierania w monitorze sieci. Wartość 0 oznacza brak ograniczenia.
+    .title = Treści żądań lub odpowiedzi przekraczające podany rozmiar będą skracane podczas wyświetlania lub pobierania w monitorze sieci. Wartość 0 oznacza brak ograniczenia.
 # Text shown in the input when there is no limitation (instead of showing "0")
 options-netmonitor-body-limit-unlimited-label = Brak ograniczenia
 options-netmonitor-body-limit-button =
@@ -215,7 +215,7 @@ options-enable-service-workers-http-tooltip =
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Mapy źródeł
 options-source-maps-tooltip =
-    .title = Po włączeniu tej funkcji, źródła będą mapowane w narzędziach
+    .title = Po włączeniu tej funkcji źródła będą mapowane w narzędziach
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (tylko bieżąca sesja, odświeża stronę)

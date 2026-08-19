@@ -51,4 +51,4 @@ site-data-removing-desc = Usunięcie ciasteczek i danych witryn może spowodowa
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Usunięcie ciasteczek i danych witryn może spowodować wylogowanie z niektórych witryn. Czy usunąć ciasteczka i dane witryny <strong>{ $baseDomain }</strong>?
-site-data-removing-table = Ciasteczka i dane stron następujących witryn zostaną usunięte:
+site-data-removing-table = Ciasteczka i dane następujących witryn zostaną usunięte:

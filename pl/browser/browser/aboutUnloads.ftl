@@ -8,13 +8,13 @@
 
 about-unloads-page-title = Usypianie kart
 about-unloads-intro =
-    { -brand-short-name } ma funkcję automatycznie usypiającą karty,
+    { -brand-short-name } ma funkcję automatycznego usypiania kart,
     aby zapobiec awariom programu z powodu niewystarczającej pamięci,
     kiedy na komputerze jest mało dostępnej pamięci. Następna karta
     do uśpienia jest wybierana na podstawie kilku cech. Ta strona
     pokazuje, jak { -brand-short-name } ustala priorytety kart i która karta
     zostanie uśpiona po spełnieniu warunków. Można ręcznie wywołać
-    uśpienie karty klikając przycisk <em>Uśpij</em> poniżej.
+    uśpienie karty, klikając przycisk <em>Uśpij</em> poniżej.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =

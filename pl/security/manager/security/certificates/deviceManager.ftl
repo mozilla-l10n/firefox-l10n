@@ -87,7 +87,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = Numer seryjny
 fips-nonempty-primary-password-required = Tryb FIPS wymaga hasła głównego ustawionego dla każdego urządzenia zabezpieczającego. Ustaw hasło przed włączeniem trybu FIPS.
-unable-to-toggle-fips = Nie udało się zmienić trybu FIPS dla urządzenia bezpieczeństwa. Zaleca się zakończenie pracy i ponowne uruchomienie tego programu.
+unable-to-toggle-fips = Nie udało się zmienić trybu FIPS dla urządzenia zabezpieczającego. Zaleca się zakończenie pracy i ponowne uruchomienie tego programu.
 load-pk11-module-file-picker-title = Wybierz sterownik urządzenia PKCS#11 do wczytania
 # Load Module Dialog
 load-module-help-empty-module-name =
