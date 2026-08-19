@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Mở rộng thanh lề khi di chuột tới nó
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Hiển thị bản xem trước khi di chuột
 sidebar-manage-extensions2 = Quản lý tất cả tiện ích
 sidebar-customize-extensions-header2 = Tiện ích mở rộng
 sidebar-customize-firefox-tools-header2 =

@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Tập tin này không được hỗ trợ. Vui
 about-pdf-dropzone-error-generic = Quá trình tải lên không thành công. Vui lòng thử lại sau.
 about-pdf-browse-files =
     .label = Duyệt tập tin
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Mở PDF
 about-pdf-promo =
     .heading = Đặt { -brand-short-name } làm trình chỉnh sửa PDF mặc định của bạn
     .message = Mở các tập tin PDF trong { -brand-short-name } và xử lý các thao tác cơ bản tại một nơi duy nhất, từ đánh dấu và ký tên đến hợp nhất tập tin và thêm chú thích.

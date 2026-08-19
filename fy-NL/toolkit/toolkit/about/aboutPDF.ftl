@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Dit bestân wurdt net stipe. Kies in PDF om tr
 about-pdf-dropzone-error-generic = De oplaad is mislearre. Probearje it letter nochris.
 about-pdf-browse-files =
     .label = Troch bestannen blêdzje
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = PDF iepenje
 about-pdf-promo =
     .heading = { -brand-short-name } jo favorite PDF-bewurker meitsje
     .message = PDF’s yn { -brand-short-name } iepenje en de basishannelingen op ien plak útfiere, fan aksintuearringen en ûndertekeningen oant gearfoege bestannen en opmerkingen.

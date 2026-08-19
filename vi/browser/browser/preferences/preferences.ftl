@@ -1236,6 +1236,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Chọn một ngăn chứa cho mỗi thẻ mới
     .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Không sử dụng ngăn chứa cho liên kết được mở từ các ứng dụng bên ngoài
+    .accesskey = D
 containers-new-tab-check2 =
     .label = Chọn một ngăn chứa cho mỗi thẻ mới
     .accesskey = S
