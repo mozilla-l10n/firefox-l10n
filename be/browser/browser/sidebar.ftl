@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Разгарнуць бакавую панэль пры навядзенні
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Паказваць папярэдні прагляд пры навядзенні
 sidebar-manage-extensions2 = Кіраванне ўсімі пашырэннямі
 sidebar-customize-extensions-header2 = Пашырэнні
 sidebar-customize-firefox-tools-header2 =

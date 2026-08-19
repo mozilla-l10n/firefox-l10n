@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Адхіліць
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Вазьміце ўбудаваны VPN з сабой на Android
+ipprotection-android-promo-callout-description = Скануйце QR-код, каб атрымаць { -brand-product-name } для Android і ўключыць убудаваны VPN для большай прыватнасці ў дарозе. Неўзабаве на iOS.
 ipprotection-android-promo-callout-primary-button = Зразумела
 
 ## Panel
