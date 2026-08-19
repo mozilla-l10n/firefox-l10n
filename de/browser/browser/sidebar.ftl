@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Sidebar ausklappen, wenn der Mauszeiger darauf liegt
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Vorschau beim Darüberfahren anzeigen
 sidebar-manage-extensions2 = Alle Erweiterungen verwalten
 sidebar-customize-extensions-header2 = Erweiterungen
 sidebar-customize-firefox-tools-header2 =
