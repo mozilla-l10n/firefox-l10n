@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = סמל
 containers-color-label2 =
     .label = צבע
+containers-dialog2 =
+    .buttonlabelaccept = שמירה
+    .buttonaccesskeyaccept = ש
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -95,6 +98,25 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = הגדרות המגירה { $name }
     .style = min-width: 32em
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = הוספת אתר
+containers-site-label =
+    .label = אתר
+    .placeholder = example.com
+containers-site-container-label =
+    .label = מגירה
+containers-site-dialog =
+    .buttonlabelaccept = שמירה
+    .buttonaccesskeyaccept = ש
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = נא להכניס כתובת אתר חוקית ומאובטחת
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = אתר זה כבר נמצא ברשימה שלך
 
 ## Container creation panel, anchored to the URL bar.
 

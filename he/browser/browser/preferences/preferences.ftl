@@ -1266,6 +1266,18 @@ containers-settings-button2 =
     .title = הגדרות
 containers-remove-button3 =
     .title = מחיקה
+containers-sites-card-header =
+    .label = מגירות לאתרים ספציפיים
+    .description = יש לבחור במגירה לאתר ו־{ -brand-short-name } ישתמש בו בכל פעם שהאתר ייפתח.
+containers-sites-add-button =
+    .label = הוספת אתר
+    .accesskey = ה
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = מגירה עבור { $site }
+containers-site-remove-button =
+    .title = מחיקה
 containers-remove-button2 =
     .title = הסרה
 
