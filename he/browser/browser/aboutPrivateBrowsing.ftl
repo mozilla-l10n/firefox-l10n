@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = ללא עוגיות או היסטוריה שמורה, היישר משולחן העבודה שלך. לדפדף כאילו אף אחד לא צופה בך.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = קבלת סיוע במניעת דואר זבל בעזרת מסכות דוא״ל
+about-private-browsing-relay-promo-title = ניתן להסתיר את הכתובת האמיתית שלך באמצעות מסכת דוא״ל כשנרשמים עם הכתובת, רוכשים דרכה או משתפים אותה ברשת.
+about-private-browsing-relay-promo-link-text = לנסות מסכות דוא״ל
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
