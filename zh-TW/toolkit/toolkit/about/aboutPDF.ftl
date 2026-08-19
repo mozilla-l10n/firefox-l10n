@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = 不支援這個檔案，請選擇 PDF 檔繼�
 about-pdf-dropzone-error-generic = 檔案上傳失敗，請稍後再試。
 about-pdf-browse-files =
     .label = 瀏覽檔案
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = 開啟 PDF
 about-pdf-promo =
     .heading = 將 { -brand-short-name } 設為您的預設 PDF 編輯器
     .message = 使用 { -brand-short-name } 開啟 PDF 檔案，在同一個位置進行基本編輯，不論是從強調內容到簽名，或是合併檔案與留下註解。

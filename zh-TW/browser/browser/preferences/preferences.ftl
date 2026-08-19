@@ -1240,6 +1240,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = 選擇要分別使用哪個容器來開啟分頁
     .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = 不要將來自外部應用程式的鏈結放入容器開啟
+    .accesskey = D
 containers-new-tab-check2 =
     .label = 選擇要分別使用哪個容器來開啟分頁
     .accesskey = S
