@@ -71,12 +71,12 @@ browser-shortcut-description = Snel en privé surfen op het web
 browser-main-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name }-privénavigatie
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name }-privénavigatie
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name }-privénavigatie
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }-privénavigatie
+    .data-content-title-default = { $content-title } – { -brand-full-name }
+    .data-content-title-private = { $content-title } – { -brand-full-name }-privénavigatie
+    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } – { -brand-full-name }-privénavigatie
+    .data-content-title-default-with-profile = { $content-title } – { $profile-name } – { -brand-full-name }
+    .data-content-title-private-with-profile = { $content-title } – { $profile-name } – { -brand-full-name }-privénavigatie
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -102,13 +102,13 @@ browser-main-window-titles =
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — privénavigatie
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name }-privénavigatie
+    .data-title-private = { -brand-full-name } – privénavigatie
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — privénavigatie
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — privénavigatie
+    .data-content-title-private = { $content-title } – privénavigatie
+    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } – { -brand-full-name } – privénavigatie
+    .data-content-title-default-with-profile = { $content-title } – { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } – { $profile-name } – privénavigatie
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }

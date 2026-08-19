@@ -122,11 +122,11 @@ inactive-css-border-image-fix = Verwijder in het bovenliggende tabelelement de e
 inactive-css-resize-fix = Probeer <strong>overflow</strong> in te stellen op een waarde anders dan <strong>visible</strong> of te richten op een vervangen element dat deze ondersteunt. { learn-more }
 inactive-css-ruby-element-fix = Probeer de <strong>font-size</strong> van de Ruby-tekst te wijzigen. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Probeer het aantal regels te verminderen. { learn-more }
-inactive-css-text-wrap-balance-fragmented-fix = Vermijd het splitsen van de inhoud van het element, b.v. door de kolommen te verwijderen of door <strong>page-break-inside:avoid</strong> te gebruiken. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Vermijd het splitsen van de inhoud van het element, bijv. door de kolommen te verwijderen of door <strong>page-break-inside:avoid</strong> te gebruiken. { learn-more }
 inactive-css-no-principal-box-fix = Probeer een <strong>display</strong>-waarde toe te voegen die een primair veld maakt, zoals <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> of <strong>grid</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-fix-1 = Probeer <strong>display:grid</strong> of <strong>display:flex</strong> toe te voegen.
 inactive-css-not-grid-or-flex-or-block-container-fix-1 = Probeer <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>display:block</strong> toe te voegen.
-inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Probeer <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>colums:2</strong> toe te voegen.
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Probeer <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>columns:2</strong> toe te voegen.
 inactive-css-not-multicol-container-fix-1 = Probeer <strong>column-count</strong> of <strong>column-width</strong> toe te voegen.
 inactive-css-column-span-fix-1 = Probeer <strong>column-count</strong> of <strong>column-width</strong> aan een van de voorlopende elementen toe te voegen.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Probeer <strong>position:absolute</strong> aan het element toe te voegen, of <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> aan het bovenliggende niveau van het element.
@@ -161,7 +161,7 @@ inactive-css-border-image-fix-1 = Verwijder in het bovenliggende tabelelement de
 inactive-css-resize-fix-1 = Probeer <strong>overflow</strong> in te stellen op een waarde anders dan <strong>visible</strong> of te richten op een vervangen element dat deze ondersteunt.
 inactive-css-ruby-element-fix-1 = Probeer de <strong>font-size</strong> van de Ruby-tekst te wijzigen.
 inactive-css-text-wrap-balance-lines-exceeded-fix-1 = Probeer het aantal regels te verminderen.
-inactive-css-text-wrap-balance-fragmented-fix-1 = Vermijd het splitsen van de inhoud van het element, b.v. door de kolommen te verwijderen of door <strong>page-break-inside:avoid</strong> te gebruiken.
+inactive-css-text-wrap-balance-fragmented-fix-1 = Vermijd het splitsen van de inhoud van het element, bijv. door de kolommen te verwijderen of door <strong>page-break-inside:avoid</strong> te gebruiken.
 inactive-css-no-principal-box-fix-1 = Probeer een <strong>display</strong>-waarde toe te voegen die een primair veld maakt, zoals <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> of <strong>grid</strong>.
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers

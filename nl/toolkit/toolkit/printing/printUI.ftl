@@ -22,7 +22,7 @@ printui-page-range-picker =
     .aria-label = Paginabereik kiezen
 printui-page-custom-range-input =
     .aria-label = Aangepast paginabereik invoeren
-    .placeholder = b.v. 2-6, 9, 12-16
+    .placeholder = bijv. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopieën
 printui-orientation = Oriëntatie

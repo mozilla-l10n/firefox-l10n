@@ -68,11 +68,11 @@ add-engine-suggest-url = URL voor suggesties met %s op plaats van zoekterm (opti
 ## The following placeholders are shown in the inputs when adding a new engine.
 
 add-engine-name-placeholder =
-    .placeholder = b.v. Mozilla Developer Network
+    .placeholder = bijv. Mozilla Developer Network
 add-engine-url-placeholder =
-    .placeholder = b.v. https://developer.mozilla.com/search?q=%s
+    .placeholder = bijv. https://developer.mozilla.com/search?q=%s
 add-engine-keyword-placeholder =
-    .placeholder = b.v. @mdn
+    .placeholder = bijv. @mdn
 
 ## The following strings are used as error messages.
 

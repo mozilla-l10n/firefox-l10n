@@ -542,7 +542,7 @@ settings-translations-subpage-never-translate-header =
 settings-translations-subpage-never-translate-sites-header =
     .label = Deze websites nooit vertalen
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
-settings-translations-subpage-never-translate-sites-description = Open om een website toe te voegen het <img data-l10n-name="translations-icon"/>  vertaalpaneel, selecteer <img data-l10n-name="settings-icon"/> vertaalinstellingen en kies ‘Deze website nooit vertalen’
+settings-translations-subpage-never-translate-sites-description = Open om een website toe te voegen het <img data-l10n-name="translations-icon"/> vertaalpaneel, selecteer <img data-l10n-name="settings-icon"/> vertaalinstellingen en kies ‘Deze website nooit vertalen’
 settings-translations-subpage-language-select-option =
     .label = Taal toevoegen
 settings-translations-subpage-language-add-button =
