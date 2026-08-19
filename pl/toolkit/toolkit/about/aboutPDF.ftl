@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Ten plik nie jest obsługiwany. Wybierz plik P
 about-pdf-dropzone-error-generic = Przesłanie się nie powiodło. Spróbuj ponownie później.
 about-pdf-browse-files =
     .label = Przeglądaj pliki
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Otwórz plik PDF
 about-pdf-promo =
     .heading = Używaj { -brand-short-name(case: "gen") } do edycji plików PDF za każdym razem
     .message = Otwieraj dokumenty PDF w { -brand-short-name(case: "loc") } i wykonuj podstawowe działania w jednym miejscu, od wyróżniania i podpisywania po scalanie plików i komentarze.

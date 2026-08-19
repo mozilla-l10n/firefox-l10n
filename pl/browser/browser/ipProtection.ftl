@@ -100,6 +100,7 @@ ipprotection-location-selection-callout-secondary-button = Zamknij
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-description = Zeskanuj kod QR, aby pobrać { -brand-product-name(case: "acc") } na Androida i włączyć wbudowaną sieć VPN, zapewniającą większą prywatność wszędzie tam, gdzie jesteś. Wkrótce także na iOS.
 ipprotection-android-promo-callout-primary-button = OK
 
 ## Panel

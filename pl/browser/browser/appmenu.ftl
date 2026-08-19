@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Zaloguj się w { -brand-product-name(case: "loc") }
 appmenuitem-fxa-manage-account = Zarządzaj kontem
 fxa-menu-sync-status-on = Synchronizacja jest włączona
 fxa-menu-sync-status-off = Synchronizacja jest wyłączona
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Synchronizuj swoje dane
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Twoje dane nie są synchronizowane
@@ -394,6 +397,9 @@ appmenuitem-relay-title-signed-in = Wyświetl maski dla adresu e-mail
 appmenuitem-relay-description = Zamaskuj swój prawdziwy adres e-mail i telefon
 appmenuitem-services-relay-description = Otwórz panel masek dla adresów e-mail
 appmenuitem-vpn-title2 = Ukryj swoje położenie za pomocą { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Korzystaj z dodatkowej ochrony na wszystkich urządzeniach
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Pobierz { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Utrudnij śledzenie Twoich działań w Internecie
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Chroń całe urządzenie
