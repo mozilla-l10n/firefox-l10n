@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Diese Datei wird nicht unterstützt. Wählen S
 about-pdf-dropzone-error-generic = Der Upload wurde nicht durchgeführt. Versuchen Sie es später erneut.
 about-pdf-browse-files =
     .label = Dateien durchsuchen
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = PDF öffnen
 about-pdf-promo =
     .heading = Machen Sie { -brand-short-name } zu Ihrem bevorzugten PDF-Editor
     .message = Öffnen Sie PDF-Dateien in { -brand-short-name } und erledigen Sie alle grundlegenden Aufgaben an einem Ort – von Markierungen und Signaturen bis hin zu zusammengeführten Dateien und Kommentaren.

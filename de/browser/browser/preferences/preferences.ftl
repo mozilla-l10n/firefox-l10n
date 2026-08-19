@@ -1252,6 +1252,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Tab-Umgebung für jeden neuen Tab wählen
     .accesskey = w
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Keine Tab-Umgebungen für Links verwenden, die von externen Apps geöffnet werden
+    .accesskey = K
 containers-new-tab-check2 =
     .label = Tab-Umgebung für jeden neuen Tab wählen
     .accesskey = w
