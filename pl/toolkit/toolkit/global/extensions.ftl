@@ -12,13 +12,13 @@
 
 webext-perms-header = Czy dodać „{ $extension }”?
 webext-perms-header-with-perms = Czy dodać „{ $extension }”? To rozszerzenie wymaga następujących uprawnień:
-webext-perms-header-unsigned = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzanie jedynie, jeśli ufasz jego pochodzeniu.
-webext-perms-header-unsigned-with-perms = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzanie jedynie, jeśli ufasz jego pochodzeniu. To rozszerzenie wymaga następujących uprawnień:
+webext-perms-header-unsigned = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzenie jedynie, jeśli ufasz jego pochodzeniu.
+webext-perms-header-unsigned-with-perms = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzenie jedynie, jeśli ufasz jego pochodzeniu. To rozszerzenie wymaga następujących uprawnień:
 webext-perms-sideload-header = Dodano „{ $extension }”
 webext-perms-optional-perms-header2 = Dodatek „{ $extension }” prosi o nowe uprawnienia
 webext-perms-optional-perms-header = Dodatek „{ $extension }” prosi o nowe uprawnienia.
 webext-perms-header2 = Dodaj „{ $extension }”
-webext-perms-list-intro-unsigned = To niezweryfikowane rozszerzenie może narazić Twoją prywatność na ryzyko lub zainfekować urządzenie. Dodaj rozszerzanie jedynie, jeśli ufasz jego pochodzeniu.
+webext-perms-list-intro-unsigned = To niezweryfikowane rozszerzenie może narazić Twoją prywatność na ryzyko lub zainfekować urządzenie. Dodaj rozszerzenie jedynie, jeśli ufasz jego pochodzeniu.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -167,7 +167,7 @@ webext-site-perms-description-gated-perms-webserial =
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-with-perms = Czy dodać „{ $extension }”? To rozszerzenie daje witrynie { $hostname } te możliwości:
-webext-site-perms-header-unsigned-with-perms = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzanie jedynie, jeśli ufasz jego pochodzeniu. To rozszerzenie daje witrynie { $hostname } te możliwości:
+webext-site-perms-header-unsigned-with-perms = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzenie jedynie, jeśli ufasz jego pochodzeniu. To rozszerzenie daje witrynie { $hostname } te możliwości:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 

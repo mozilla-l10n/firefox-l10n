@@ -93,12 +93,12 @@ client-auth-cert-remember-temporarily =
 ## Set password (p12) dialog
 
 set-password-window =
-    .title = Wybierz hasło kopii bezpieczeństwa certyfikatu
+    .title = Wybierz hasło kopii zapasowej certyfikatu
 set-password-message = Wprowadzane hasło zabezpiecza tworzoną kopię certyfikatu. Utworzenie kopii certyfikatu bez podania hasła zabezpieczającego jest niemożliwe.
 set-password-backup-pw =
-    .value = Hasło kopii bezpieczeństwa certyfikatu:
+    .value = Hasło kopii zapasowej certyfikatu:
 set-password-repeat-backup-pw =
-    .value = Hasło kopii bezpieczeństwa certyfikatu (ponownie):
+    .value = Hasło kopii zapasowej certyfikatu (ponownie):
 set-password-reminder = Ważne: jeżeli hasło zabezpieczające kopię certyfikatu zostanie utracone, późniejsze odtworzenie certyfikatu będzie niemożliwe. Zaleca się zachowanie hasła w bezpiecznym miejscu.
 
 ## Protected authentication dialog

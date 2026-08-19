@@ -494,7 +494,7 @@ desktop-to-mobile-qr-code-alt =
 ## Fx Backup onboarding: Create Backup spotlight
 
 create-backup-screen-1-title =
-    Aktualizujesz system do Windows 11? 
+    Aktualizujesz system do Windows 11?
     Utwórzmy kopię zapasową danych { -brand-product-name(case: "gen") }.
 create-backup-screen-1-subtitle = Automatycznie chroń swoje hasła, zakładki i nie tylko w ciągu 1-2 minut.
 create-backup-screen-1-flair = Zalecane
