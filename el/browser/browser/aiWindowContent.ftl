@@ -169,6 +169,8 @@ smart-window-opened-tabs-summary-group =
        *[other] Δημιουργήθηκε η ομάδα “{ $label }” και άνοιξαν { $count } καρτέλες.
     }
 smart-window-opened-tabs-row-label = Ανοικτές καρτέλες
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Έγινε εναλλαγή καρτελών
 # Variables
 #   $title (String) - Title of the tab switched to
 smart-window-switched-tab-summary = Έγινε εναλλαγή σε «{ $title }».

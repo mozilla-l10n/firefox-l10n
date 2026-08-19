@@ -162,6 +162,7 @@ appmenu-fxa-signed-in-label = Σύνδεση
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Σύνδεση στο Sync
+appmenu-fxa-sign-in-promo-message = Λάβετε τα δεδομένα σας παντού
 appmenu-fxa-sign-in-promo-button =
     .label = Σύνδεση
 appmenu-fxa-setup-sync =
@@ -297,6 +298,8 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = Διατηρήστε συγχρονισμένες τις συσκευές σας
 appmenu-sync-promo-signin-cta = Σύνδεση
 appmenu-sync-promo-turnonsync =
     .heading = Συγχρονίστε τις καρτέλες και το ιστορικό σας
