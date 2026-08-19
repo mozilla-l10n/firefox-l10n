@@ -58,4 +58,4 @@ styleeditor-pretty-print-button-disabled =
 # Title for the pretty print button in the editor footer, when it's disabled because
 # the stylesheet is read-only
 styleeditor-pretty-print-button-disabled-read-only =
-    .title = Nie można poprawiać czytelności arkuszów stylów tylko do odczytu.
+    .title = Nie można poprawiać czytelności arkuszy stylów tylko do odczytu.

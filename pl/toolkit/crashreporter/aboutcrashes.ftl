@@ -19,4 +19,4 @@ crashes-submitted-label = Przesłane zgłoszenia awarii
 date-submitted-heading = Data zgłoszenia
 view-crash-button-label = Wyświetl
 no-reports-label = Nie przesłano żadnych zgłoszeń awarii.
-no-config-label = Ten program nie został właściwie skonfigurowany do wyświetlania zgłoszeń awarii. Konieczne jest prawidłowe ustawienie opcji <code>breakpad.reportURL</code>
+no-config-label = Ten program nie został właściwie skonfigurowany do wyświetlania zgłoszeń awarii. Konieczne jest prawidłowe ustawienie opcji <code>breakpad.reportURL</code>.

@@ -12,7 +12,7 @@ psmerr-ssl-disabled = Nie można nawiązać bezpiecznego połączenia, ponieważ
 psmerr-ssl2-disabled = Nie można nawiązać bezpiecznego połączenia, ponieważ witryna używa niebezpiecznej, przestarzałej wersji protokołu SSL.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Otrzymano nieprawidłowy certyfikat. Należy skontaktować się z administratorem serwera lub osobą, od której ten certyfikat pochodzi, i przekazać jej następującą informację: 
+    Otrzymano nieprawidłowy certyfikat. Należy skontaktować się z administratorem serwera lub osobą, od której ten certyfikat pochodzi, i przekazać jej następującą informację:
     
     Twój certyfikat zawiera taki sam numer seryjny, jak inny certyfikat wystawiony przez organ certyfikacji. Należy uzyskać nowy certyfikat zawierający unikalny numer seryjny.
 ssl-error-export-only-server = Nie można nawiązać bezpiecznego połączenia. Serwer nie obsługuje szyfrowania wysokiego poziomu.

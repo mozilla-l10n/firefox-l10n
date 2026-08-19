@@ -22,7 +22,7 @@ safeb-palm-see-details-label = Szczegóły
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-error-desc-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako <a data-l10n-name='error_desc_link'>próba oszustwa</a>. Możesz <a data-l10n-name='report_detection'>zgłosić problem z wykrywaniem</a> lub <a data-l10n-name='ignore_warning_link'>zignorować ryzyko</a> i przejść do tej niebezpiecznej strony.
-safeb-blocked-phishing-page-error-desc-no-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako strona <a data-l10n-name='error_desc_link'>próba oszustwa</a>. Możesz <a data-l10n-name='report_detection'>zgłosić problem z wykrywaniem</a>.
+safeb-blocked-phishing-page-error-desc-no-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako <a data-l10n-name='error_desc_link'>próba oszustwa</a>. Możesz <a data-l10n-name='report_detection'>zgłosić problem z wykrywaniem</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

@@ -88,6 +88,34 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Bisitatu { glean-debug-ping-viewer-brand-name } orria zure etiketa duten ping-ak ikusteko</a>.
     Ez luke segundo gutxi batzuk baino gehiago hartu behar botoia sakatzetik zure ping-a iristera.
     Batzuetan minutu gutxi batzuk har litzake.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Kasuan kasuko proba gehiagorako,
+    instrumentazio-pieza zehatz baten balioa garatzaile-tresnen bidez ere jakin dezakezu,
+    <code>about:glean</code> helbidean garatzaile-kontsola irekiz eta
+    <code>testGetValue()</code> APIa erabiliz
+    <code>Glean.metricCategory.metricName.testGetValue()</code> gisa.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Kasuan kasuko proba gehiagorako,
+    instrumentazio-pieza zehatz baten balioa garatzaile-tresnen bidez ere jakin dezakezu,
+    <code>about:glean</code> helbidean garatzaile-kontsola irekiz eta
+    <code>testGetValue()</code> APIa erabiliz
+    <code>Glean.metricCategory.metricName.testGetValue()</code> gisa
+    <code>metric.category.metric_name</code> izeneko metrika baterako.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Kontuan izan garatzaile-tresnetan Glean JS APIa darabilzula.
+    Honek esan nahi du, Rust eta C++ APIak ez bezala,
+    metrika-kategoria eta -izenek <code>camelCase</code> formatua darabiltela.
+about-glean-profiler-explanation =
+    Grabatutako metriken ikuspegi osoa izateko, { -profiler-brand-name } erabil dezakezu.
+    Lehenik eta behin <a data-l10n-name="firefox-profiler-link">errendimendu-profil bat kapturatu</a> behar duzu.
+    Behin profila kapturatuta, hautatu <q>marken diagrama</q> eta begiratu <q>Telemetria</q> barruko markak.
+about-glean-profiler-explanation-profiler =
+    Errendimenduaren profilean bildutako metrika guztiak ikus ditzakezu, hauek noiz
+    bildu ziren eta zehazki ze balio bildu diren. Marka bakoitzaren gainetik sagua pasata,
+    egiazta dezakezu balio zuzena bildu dela eta bilketa momentu egokian egin dela.
 controls-button-label-verbose = Aplikatu ezarpenak eta bidali ping-a
 about-glean-feedback-settings-only =
     .message = Ezarpenak aplikatuta!
