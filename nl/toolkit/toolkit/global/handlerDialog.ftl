@@ -64,7 +64,7 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Koppeling openen
     .buttonaccesskeyaccept = o
-chooser-dialog-description = Kies een toepassing om de { $scheme }-mee te openen.
+chooser-dialog-description = Kies een toepassing om de { $scheme }-koppeling mee te openen.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Deze toepassing altijd gebruiken om <strong>{ $scheme }</strong>-koppelingen mee te openen
 chooser-dialog-remember-extra =

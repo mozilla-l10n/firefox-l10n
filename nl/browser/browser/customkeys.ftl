@@ -63,7 +63,7 @@ customkeys-caution-message = Deze functie is experimenteel en werkt mogelijk nie
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Ongeldig
 customkeys-shortcut-unassigned =
-    .placeholder = Snelkoppeling toevoegen
+    .placeholder = Sneltoets toevoegen
 # Variables:
 # $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
 customkeys-shortcut-input = Snelkoppeling voor: { $keyLabel }
