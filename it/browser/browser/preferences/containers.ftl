@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Icona
 containers-color-label2 =
     .label = Colore
+containers-dialog2 =
+    .buttonlabelaccept = Salva
+    .buttonaccesskeyaccept = S
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,25 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .style = min-width: 32em
     .title = Impostazioni per contenitore { $name }
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Aggiungi sito web
+containers-site-label =
+    .label = Sito web
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Contenitore
+containers-site-dialog =
+    .buttonlabelaccept = Salva
+    .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Inserisci un sito web valido e sicuro
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Questo sito web è già presente nell’elenco
 
 ## Container creation panel, anchored to the URL bar.
 

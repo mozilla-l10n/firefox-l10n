@@ -1257,6 +1257,18 @@ containers-settings-button2 =
     .title = Impostazioni
 containers-remove-button3 =
     .title = Elimina
+containers-sites-card-header =
+    .description = Scegli un contenitore da associare a un sito. { -brand-short-name } lo utilizzerà ogni volta che il sito viene aperto.
+    .label = Contenitori dedicati a siti specifici
+containers-sites-add-button =
+    .label = Aggiungi sito web
+    .accesskey = A
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Contenitore per { $site }
+containers-site-remove-button =
+    .title = Elimina
 containers-remove-button2 =
     .title = Rimuovi
 
