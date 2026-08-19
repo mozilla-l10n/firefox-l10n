@@ -25,7 +25,7 @@ preonboarding-terms-of-use-header-button-title-b-v2 = Gebruiksvoorwaarden
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name }-privacyverklaring
 preonboarding-privacy-notice-header-button-title-b-v2 = Privacyverklaring
 # Description under label for header style buttons
-preonboarding-header-button-description = Meer info
+preonboarding-header-button-description = Meer lezen
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Technische en interactiegegevens naar { -vendor-short-name } verzenden
 preonboarding-checklist-interaction-data-description = Gegevens over uw apparaat, hardwareconfiguratie en hoe u { -brand-product-name } gebruikt helpen bij het verbeteren van functies, prestaties en stabiliteit voor gebruikers overal.

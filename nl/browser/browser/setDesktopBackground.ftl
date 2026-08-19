@@ -29,6 +29,6 @@ set-background-center =
 set-background-stretch =
     .label = Uitrekken
 set-background-fill =
-    .label = Uitvullen
+    .label = Vullen
 set-background-fit =
     .label = Passend maken

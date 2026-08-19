@@ -25,7 +25,7 @@ tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } – { $containerN
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
+tabbrowser-container-tab-title = { $title } – { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -264,7 +264,7 @@ tab-group-editor-color-selector2-red = Rood
     .title = Rood
 tab-group-menu-closed-tab-group =
     .label = { $tabGroupName }
-    .title = { $tabGroupName } — Gesloten
+    .title = { $tabGroupName } – Gesloten
 tab-group-description = { $tabGroupName } – Tabbladgroep
 tab-group-label-tooltip-collapsed = { $tabGroupName } – Samengevouwen
 tab-group-label-tooltip-expanded = { $tabGroupName } – Uitgevouwen
@@ -444,7 +444,7 @@ tab-note-editor-button-delete =
 tab-note-preview-edit-icon =
     .alt = Notitie bewerken
 # Link to show the full tab note in case it was truncated.
-tab-note-preview-expand = Meer info
+tab-note-preview-expand = Meer lezen
 tab-note-panel-add-note-new-badge =
     .label = Nieuw
 # Displayed within the tab note edit dialog box when the user has entered more

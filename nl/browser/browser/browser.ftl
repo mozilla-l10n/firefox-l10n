@@ -102,13 +102,13 @@ browser-main-window-titles =
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – privénavigatie
+    .data-title-private = { -brand-full-name }-privénavigatie
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } – privénavigatie
+    .data-content-title-private = { $content-title }-privénavigatie
     .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } – { -brand-full-name } – privénavigatie
+    .data-title-private-with-profile = { $profile-name } – { -brand-full-name }-privénavigatie
     .data-content-title-default-with-profile = { $content-title } – { $profile-name }
-    .data-content-title-private-with-profile = { $content-title } – { $profile-name } – privénavigatie
+    .data-content-title-private-with-profile = { $content-title } – { $profile-name }-privénavigatie
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -116,7 +116,7 @@ browser-main-window-default-title = { -brand-full-name }
 # "Private Browsing" suffix.
 browser-main-private-window-title =
     { PLATFORM() ->
-        [macos] { -brand-full-name } — privénavigatie
+        [macos] { -brand-full-name } – privénavigatie
        *[other] { -brand-full-name }-privénavigatie
     }
 # This is only used on macOS; on other OSes we use the full private window

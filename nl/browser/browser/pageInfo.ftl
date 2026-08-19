@@ -235,6 +235,6 @@ media-block-image =
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =
-    .title = Pagina-info - { $website }
+    .title = Pagina-info – { $website }
 page-info-frame =
-    .title = Deelvensterinfo - { $website }
+    .title = Deelvensterinfo – { $website }
