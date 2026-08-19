@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Iste file non es supportate. Elige un file PDF
 about-pdf-dropzone-error-generic = Le cargamento non iva ben. Retenta plus tarde.
 about-pdf-browse-files =
     .label = Navigar per le files
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Aperir un pdf
 about-pdf-promo =
     .heading = Face de { -brand-short-name } tu editor de files PDF predefinite
     .message = Aperi le files pdf in { -brand-short-name } e gere le elementos in un posto, Ab le evidentia e firmas al files e commentos miscite.

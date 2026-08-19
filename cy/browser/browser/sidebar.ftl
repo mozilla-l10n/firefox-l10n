@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ehangu'r bar ochr wrth hofran
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Dangos rhagolwg wrth hofran
 sidebar-manage-extensions2 = Rheoli pob estyniad
 sidebar-customize-extensions-header2 = Estyniadau
 sidebar-customize-firefox-tools-header2 =

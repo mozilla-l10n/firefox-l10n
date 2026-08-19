@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Dyw'r ffeil hon ddim yn cael ei chefnogi. Dewi
 about-pdf-dropzone-error-generic = Aeth y llwytho i fyny ddim drwodd. Ceisiwch eto yn nes ymlaen.
 about-pdf-browse-files =
     .label = Pori ffeiliau
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Agor PDF
 about-pdf-promo =
     .heading = Gwneud { -brand-short-name } eich prif olygydd PDF?
     .message = Agorwch PDFau yn { -brand-short-name } a thrin y sylfaeni mewn un man, o amlygiadau a llofnodion i ffeiliau wedi'u huno a sylwadau.
