@@ -103,7 +103,10 @@ aiwindow-input-model-select-settings-link = Танзимоти намуна
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-conversation-title = Идома додани суҳбат
 aiwindow-firstrun-memories-checkbox-chats = Суҳбатҳо дар «{ -smart-window-brand-name }»
+aiwindow-firstrun-memories-update-settings = Танзимотро дар вақти дилхоҳ навсозӣ кунед.
+aiwindow-firstrun-memories-no-create = Фаҳмидам. «{ -smart-window-brand-name }» ёддоштҳоро эҷод намекунад. Танзимотро дар вақти дилхоҳ навсозӣ кунед.
 
 ## Ask Toolbar Button
 
