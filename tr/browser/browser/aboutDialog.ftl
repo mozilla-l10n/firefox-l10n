@@ -37,9 +37,9 @@ settings-update-policy-disabled =
 update-noUpdatesFound = { -brand-short-name } güncel
 settings-update-no-updates-found =
     .label = { -brand-short-name } güncel
-aboutdialog-update-checking-failed = Güncellemeler kontrol edilemedi.
+aboutdialog-update-checking-failed = Güncellemeler denetlenemedi.
 settings-update-checking-failed =
-    .label = Güncellemeler kontrol edilemedi.
+    .label = Güncellemeler denetlenemedi.
 update-otherInstanceHandlingUpdates = { -brand-short-name } başka bir kopyası tarafından şu an güncelleniyor
 settings-update-other-instance-handling-updates =
     .label = { -brand-short-name } başka bir kopyası tarafından şu an güncelleniyor
@@ -54,8 +54,8 @@ settings-update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız
 update-restarting = Yeniden başlatılıyor…
 settings-update-restarting =
     .label = Yeniden başlatılıyor…
-update-internal-error2 = Dahili bir hata nedeniyle güncellemeler kontrol edilemiyor. Güncellemeleri <label data-l10n-name="manual-link">{ $displayUrl }</label> adresinde bulabilirsiniz.
-settings-update-internal-error = Dahili bir hata nedeniyle güncellemeler kontrol edilemiyor. Güncellemeleri <a data-l10n-name="manual-link">{ $displayUrl }</a> adresinde bulabilirsiniz.
+update-internal-error2 = Dahili bir hata nedeniyle güncellemeler denetlenemiyor. Güncellemeleri <label data-l10n-name="manual-link">{ $displayUrl }</label> adresinde bulabilirsiniz.
+settings-update-internal-error = Dahili bir hata nedeniyle güncellemeler denetlenemiyor. Güncellemeleri <a data-l10n-name="manual-link">{ $displayUrl }</a> adresinde bulabilirsiniz.
 
 ##
 

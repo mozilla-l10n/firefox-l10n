@@ -158,6 +158,9 @@ sidebar-opentabs-sort-by-heading =
 # Sort option that lists tabs in the order they appear on the tab strip.
 sidebar-opentabs-sort-option-order =
     .label = Sekme sırası
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Son etkin olanlar
 
 ## Labels for the open tabs hover preview
 
