@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Tuta dataja so njepodpěruje. Wubjerće PDF, z
 about-pdf-dropzone-error-generic = Nahraće njeje so přewjedło. Spytajće pozdźišo hišće raz.
 about-pdf-browse-files =
     .label = Dataje přepytać
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = PDF wočinić
 about-pdf-promo =
     .heading = Čińće { -brand-short-name } k swojemu spušćomnemu PDF-editorej
     .message = Wočińće PDF-dataje w { -brand-short-name } a wužiwajće zakłady na jednym městnje, wot wuzběhnjenjow a signaturow do zjednoćenych datajow a komentarow.
