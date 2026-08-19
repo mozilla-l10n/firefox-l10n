@@ -17,6 +17,8 @@ about-pdf-dropzone-invalid-file = Tento soubor není podporován. Pro pokračov�
 about-pdf-dropzone-error-generic = Nahrávání se nezdařilo. Zkuste to znovu později.
 about-pdf-browse-files =
     .label = Procházet soubory
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Otevřít PDF
 about-pdf-promo =
     .heading = Nastavte si aplikaci { -brand-short-name } jako svůj oblíbený editor PDF
     .message = Otevírejte soubory PDF v aplikaci { -brand-short-name } a provádějte základní úkony na jednom místě – od zvýrazňování a podepisování až po slučování souborů a vkládání komentářů.

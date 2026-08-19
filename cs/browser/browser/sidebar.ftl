@@ -90,6 +90,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Rozbalit postranní lištu při najetí myší
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Zobrazit náhled při najetí myší
 sidebar-manage-extensions2 = Spravovat všechna rozšíření
 sidebar-customize-extensions-header2 = Rozšíření
 sidebar-customize-firefox-tools-header2 =
