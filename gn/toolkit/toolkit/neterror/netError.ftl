@@ -45,11 +45,20 @@ neterror-search-cta-intro = Ndaikatúi eike mba’e’okápe { $domain } rupive.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Eiporu ko’ã jeku’e:
 neterror-search-cta-hint-check-address = Ehechajey ñanduti rogue kundaharape
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Eheka
+    .accesskey = S
+    .tooltiptext = Embojuruja hekaha tendayke pyahúpe
 neterror-search-cta-reload-button =
     .label = Myanyhẽjey
     .accesskey = R
 # Shown in place of the Search button while the search option is being prepared.
 neterror-search-cta-loading = Henyhẽhína
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Ha’ete ku ndojuajúiva. Embojuaju ha eha'ã jey upéi.
 # $error (String) - The error code, for example "dnsNotFound".
 neterror-search-cta-error-code = Ayvu jejavy; { $error }
 # The search CTA's own "Learn more" link text (no trailing ellipsis).

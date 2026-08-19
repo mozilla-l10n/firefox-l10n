@@ -88,6 +88,7 @@ ipprotection-location-selection-callout-secondary-button = Emboyke
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Egueraha VPN juajupyre Android-pe
 ipprotection-android-promo-callout-primary-button = Aikũmby
 
 ## Panel
