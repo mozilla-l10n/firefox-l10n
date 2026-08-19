@@ -234,7 +234,7 @@ shortcuts-input =
     .placeholder = Typ een sneltoets
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
-    .aria-label = Snelkoppeling verwijderen
+    .aria-label = Sneltoets verwijderen
 shortcuts-browserAction2 = Werkbalkknop activeren
 shortcuts-pageAction = Pagina-actie activeren
 shortcuts-sidebarAction = De zijbalk in-/uitschakelen
@@ -244,16 +244,16 @@ shortcuts-invalid = Ongeldige combinatie
 shortcuts-letter = Typ een letter
 shortcuts-system = Kan geen bestaande { -brand-short-name }-sneltoets gebruiken
 # String displayed in warning label when there is a duplicate shortcut
-shortcuts-duplicate = Dubbele snelkoppeling
+shortcuts-duplicate = Dubbele sneltoets
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } wordt in meer dan een geval als snelkoppeling gebruikt. Dubbele snelkoppelingen kunnen onverwacht gedrag veroorzaken.
+shortcuts-duplicate-warning-message = { $shortcut } wordt in meer dan een geval als sneltoets gebruikt. Dubbele sneltoetsen kunnen onverwacht gedrag veroorzaken.
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
-    .message = { $shortcut } wordt in meer dan een geval als snelkoppeling gebruikt. Dubbele snelkoppelingen kunnen onverwacht gedrag veroorzaken.
+    .message = { $shortcut } wordt in meer dan een geval als sneltoets gebruikt. Dubbele sneltoetsen kunnen onverwacht gedrag veroorzaken.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

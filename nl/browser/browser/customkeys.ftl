@@ -66,7 +66,7 @@ customkeys-shortcut-unassigned =
     .placeholder = Sneltoets toevoegen
 # Variables:
 # $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
-customkeys-shortcut-input = Snelkoppeling voor: { $keyLabel }
+customkeys-shortcut-input = Sneltoets voor: { $keyLabel }
 customkeys-key-edit =
     .aria-label = Bewerken
     .tooltiptext = Bewerken
@@ -86,7 +86,7 @@ customkeys-key-unchangeable = (kan niet worden gewijzigd)
 
 ## Confirmation dialogs
 
-customkeys-conflict-confirm-title = Nog een snelkoppeling verwijderen?
+customkeys-conflict-confirm-title = Nog een sneltoets verwijderen?
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm-body = Deze toets wordt al door ‘{ $conflict }’ gebruikt.
