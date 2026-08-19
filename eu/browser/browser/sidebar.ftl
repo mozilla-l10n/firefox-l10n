@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zabaldu alboko barra sagua gainetik pasatzean
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Erakutsi aurrebista sagua gainetik pasatzean
 sidebar-manage-extensions2 = Kudeatu hedapen guztiak
 sidebar-customize-extensions-header2 = Hedapenak
 sidebar-customize-firefox-tools-header2 =

@@ -57,8 +57,8 @@ about-glean-about-testing-header = Probei buruz
 about-glean-manual-testing =
     Jarraibide osoak
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } instrumentazioa probatzeko dokumentu</a>etan
-    eta <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentazioa</a>n daude dokumentatuta,
-    baina motzean, zure instrumentazioa badabilela eskuz probatzeko, ondorengoa egin behar zenuke:
+    eta <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentazioa</a>n daude,
+    baina motzean, zure instrumentazioa badabilela eskuz probatzeko ondorengoa egin behar zenuke:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ez bidali ping-ik)
 # An in-line text input field precedes this string.

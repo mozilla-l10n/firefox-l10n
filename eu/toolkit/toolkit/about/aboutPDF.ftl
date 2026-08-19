@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Fitxategi hau ez da onartzen. Jarraitzeko, auk
 about-pdf-dropzone-error-generic = Ezin izan da fitxategia igo. Saiatu berriro geroago.
 about-pdf-browse-files =
     .label = Arakatu fitxategiak
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Ireki PDFa
 about-pdf-promo =
     .heading = Egizu { -brand-short-name } zure PDF editore lehenetsia
     .message = Ireki PDFak { -brand-short-name }(e)n eta egin oinarrizko atazak leku bakarrean, nabarmentze eta sinaduretatik batutako fitxategi eta iruzkinetara.
