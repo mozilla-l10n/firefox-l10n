@@ -248,7 +248,8 @@ newtab-stocks-error-not-available = دووسمندیا سهام من دسرس ن
 newtab-stocks-widget-menu-button =
     .title = گۊزینه یل ویجت سهام
     .aria-label = گۊزینه یل ویجت سهام
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = سهام
 
 ## Screen-reader summary of a stock ticker.

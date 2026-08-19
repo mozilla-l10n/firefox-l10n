@@ -325,7 +325,8 @@ newtab-stocks-error-not-available = Қор биржасы деректері қ�
 newtab-stocks-widget-menu-button =
     .title = Акциялар виджетінің опциялары
     .aria-label = Акциялар виджетінің опциялары
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Акциялар
 
 ## Screen-reader summary of a stock ticker.

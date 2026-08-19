@@ -293,7 +293,8 @@ newtab-stocks-error-not-available = Dữ liệu cổ phiếu hiện không khả
 newtab-stocks-widget-menu-button =
     .title = Tuỳ chọn widget Cổ phiếu
     .aria-label = Tuỳ chọn widget Cổ phiếu
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Cổ phiếu
 
 ## Screen-reader summary of a stock ticker.

@@ -325,7 +325,8 @@ newtab-stocks-error-not-available = ਸਟਾਕ ਡਾਟਾ ਮੌਜੂਦ �
 newtab-stocks-widget-menu-button =
     .title = ਸਟਾਕ ਵਿਜੈਟ ਚੋਣਾਂ
     .aria-label = ਸਟਾਕ ਵਿਜੈੱਟ ਚੋਣਾਂ
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = ਸਟਾਕ
 
 ## Screen-reader summary of a stock ticker.

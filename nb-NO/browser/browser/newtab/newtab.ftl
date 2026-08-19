@@ -325,7 +325,8 @@ newtab-stocks-error-not-available = Aksjedata er ikke tilgjengelig.
 newtab-stocks-widget-menu-button =
     .title = Innstillinger for aksje-widgeten
     .aria-label = Innstillinger for aksje-widgeten
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Aksjer
 
 ## Screen-reader summary of a stock ticker.

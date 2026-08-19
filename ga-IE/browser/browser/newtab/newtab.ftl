@@ -171,7 +171,8 @@ newtab-privacy-message-promo-private-window-1-cta = Oscail fuinneog phríobháid
 
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Tuilleadh eolais
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Stoic
 
 ## Strings for the Picture of the Day widget

@@ -340,7 +340,8 @@ newtab-stocks-error-not-available = Burzové údaje nie sú k dispozícii.
 newtab-stocks-widget-menu-button =
     .title = Možnosti miniaplikácie Akcie
     .aria-label = Možnosti miniaplikácie Akcie
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Akcie
 
 ## Screen-reader summary of a stock ticker.

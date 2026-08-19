@@ -333,7 +333,8 @@ newtab-stocks-error-not-available = Dane giełdowe są niedostępne.
 newtab-stocks-widget-menu-button =
     .title = Opcje widżetu giełdy
     .aria-label = Opcje widżetu giełdy
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Giełda
 
 ## Screen-reader summary of a stock ticker.

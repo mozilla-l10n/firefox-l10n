@@ -333,7 +333,8 @@ newtab-stocks-error-not-available = Фондовые данные недосту
 newtab-stocks-widget-menu-button =
     .title = Настройки виджета акций
     .aria-label = Настройки виджета акций
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Акции
 
 ## Screen-reader summary of a stock ticker.

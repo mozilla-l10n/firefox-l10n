@@ -293,7 +293,8 @@ newtab-stocks-error-not-available = Podatki o delnicah niso na voljo.
 newtab-stocks-widget-menu-button =
     .title = Možnosti pripomočka za delnice
     .aria-label = Možnosti pripomočka za delnice
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Delnice
 
 ## Screen-reader summary of a stock ticker.

@@ -325,7 +325,8 @@ newtab-stocks-error-not-available = A részvényadatok nem érhetők el
 newtab-stocks-widget-menu-button =
     .title = Részvények kisalkalmazások beállításai
     .aria-label = Részvények kisalkalmazások beállításai
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Részvények
 
 ## Screen-reader summary of a stock ticker.

@@ -264,7 +264,8 @@ newtab-stocks-error-not-available = 无法获取股市数据。
 newtab-stocks-widget-menu-button =
     .title = 股市小组件选项
     .aria-label = 股市小组件选项
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = 股市
 
 ## Screen-reader summary of a stock ticker.

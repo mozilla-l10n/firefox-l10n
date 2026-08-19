@@ -195,7 +195,8 @@ newtab-stocks-menu-learn-more = Lær mere
 newtab-stocks-widget-menu-button =
     .title = Indstillinger for aktie-widget
     .aria-label = Indstillinger for aktie-widget
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Aktier
 
 ## Screen-reader summary of a stock ticker.

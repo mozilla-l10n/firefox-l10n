@@ -88,7 +88,8 @@ home-prefs-weather-header-srd =
 newtab-stocks-widget-menu-button =
     .title = Akciju logrīka opcijas
     .aria-label = Akciju logrīka opcijas
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Akcijas
 
 ## Screen-reader summary of a stock ticker.

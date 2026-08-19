@@ -275,7 +275,8 @@ newtab-stocks-error-not-available = Borsa verileri kullanılamıyor.
 newtab-stocks-widget-menu-button =
     .title = Borsa aracı seçenekleri
     .aria-label = Borsa aracı seçenekleri
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Borsa
 
 ## Screen-reader summary of a stock ticker.

@@ -325,7 +325,8 @@ newtab-stocks-error-not-available = Δεν διατίθενται δεδομέν
 newtab-stocks-widget-menu-button =
     .title = Επιλογές γραφικού στοιχείου μετοχών
     .aria-label = Επιλογές γραφικού στοιχείου μετοχών
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Μετοχές
 
 ## Screen-reader summary of a stock ticker.

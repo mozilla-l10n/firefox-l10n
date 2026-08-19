@@ -258,7 +258,8 @@ newtab-privacy-message-first-protection-cta = Ammustra is amparos
 newtab-stocks-menu-search = Chirca sìmbulos de atziones
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Àteras informatziones
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Atziones
 
 ## Strings for the Picture of the Day widget

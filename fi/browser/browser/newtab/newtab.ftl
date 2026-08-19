@@ -325,7 +325,8 @@ newtab-stocks-error-not-available = Osaketietoja ei ole saatavilla.
 newtab-stocks-widget-menu-button =
     .title = Osakkeiden pienoisohjelman asetukset
     .aria-label = Osakkeiden pienoisohjelman asetukset
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Osakkeet
 
 ## Screen-reader summary of a stock ticker.

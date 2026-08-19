@@ -272,7 +272,8 @@ newtab-privacy-message-first-protection-cta = Mostra les proteccions
 newtab-stocks-menu-search = Cerca símbols de tíquer
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Més informació
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Accions
 
 ## Screen-reader summary of a stock ticker.

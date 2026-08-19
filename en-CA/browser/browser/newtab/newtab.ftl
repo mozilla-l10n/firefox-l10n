@@ -96,15 +96,12 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Privacy
-
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Crossword
-
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Stocks
-
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Picture of the day
@@ -186,7 +183,6 @@ newtab-privacy-trackers-blocked-today =
         [one] Tracker blocked today
        *[other] Trackers blocked today
     }
-
 # Second line of the readout, under the large number and "Trackers blocked
 # today". Counts the sites those trackers were blocked on. The English is
 # shortened from "Blocked across { $count } sites" — translate it that fuller way
@@ -204,28 +200,20 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blocks trackers as you browse. You’ll see them here.
 
-newtab-privacy-message-info-1 = { -brand-short-name } blocks trackers automatically as you browse.
-
-newtab-privacy-message-info-1-cta = View protections
-
-newtab-privacy-message-info-2 = Tracker blocking helps stop companies from following you online.
-
-newtab-privacy-message-info-2-cta = View protections
-
-newtab-privacy-message-info-3 = Many sites have trackers so companies you’ve never visited may follow you online.
-
-newtab-privacy-message-info-3-cta = View protections
-
-newtab-privacy-message-info-4 = Choosing { -brand-short-name } means choosing protection by default.
-
-newtab-privacy-message-info-4-cta = View protections
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } blocks trackers automatically as you browse.
+newtab-privacy-message-info-1-cta = View protections
+newtab-privacy-message-info-2 = Tracker blocking helps stop companies from following you online.
+newtab-privacy-message-info-2-cta = View protections
+newtab-privacy-message-info-3 = Many sites have trackers so companies you’ve never visited may follow you online.
+newtab-privacy-message-info-3-cta = View protections
+newtab-privacy-message-info-4 = Choosing { -brand-short-name } means choosing protection by default.
+newtab-privacy-message-info-4-cta = View protections
 newtab-privacy-message-info-5 = Blocked trackers means fewer companies can follow you across sites.
 newtab-privacy-message-info-5-cta = View protections
 newtab-privacy-message-info-6 = Keep your data with { -brand-short-name }. We never sell it, but other browsers might.
@@ -322,14 +310,13 @@ newtab-privacy-message-streak-cta = View protections
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Keep browsing, { -brand-short-name } will keep blocking.
 newtab-privacy-message-first-protection-cta = View protections
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Search ticker symbols
-
-# Context menu item linking to more information about the Stocks widget.
-newtab-stocks-menu-learn-more = Learn more
 
 ## Strings for the Stocks widget
 
+# Context menu item for searching stock ticker symbols.
+newtab-stocks-menu-search = Search ticker symbols
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Learn more
 # Shown in the Stocks widget when its data could not be loaded.
 newtab-stocks-error-not-available = Stock data is not available.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
@@ -338,7 +325,8 @@ newtab-stocks-error-not-available = Stock data is not available.
 newtab-stocks-widget-menu-button =
     .title = Stocks widget options
     .aria-label = Stocks widget options
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Stocks
 
 ## Screen-reader summary of a stock ticker.
@@ -353,12 +341,12 @@ newtab-stocks-ticker-status-up = { $name }, up { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, down { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, no change, { $change }, { $price }
-# Title shown at the top of the widget, with the source name appended.
-# "Wikimedia Commons" is a brand name and should not be translated.
-newtab-picture-header = Picture of the day · Wikimedia Commons
 
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Picture of the day · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Picture of the day
 # Attribution line shown under the title once a picture loads: an author
@@ -385,25 +373,19 @@ newtab-picture-set-wallpaper =
     .label = Set wallpaper
     .title = Set wallpaper
     .aria-label = Set today’s picture as your wallpaper
-
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Manage wallpaper
-
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Hide today’s picture
-
 # Context menu item that restores today’s picture after it has been hidden.
 newtab-picture-menu-show-photo = Show today’s picture
-
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Learn more
-
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .title = Show today’s picture
     .aria-label = Show today’s picture
-
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Check back tomorrow for a new picture
 # Screen-reader text alternative for the picture; fallback used when the source

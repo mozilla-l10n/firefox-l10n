@@ -325,7 +325,8 @@ newtab-stocks-error-not-available = Oandielegegevens binne net beskikber.
 newtab-stocks-widget-menu-button =
     .title = Opsjes foar Oandielenwidget
     .aria-label = Opsjes foar Oandielenwidget
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Oandielen
 
 ## Screen-reader summary of a stock ticker.

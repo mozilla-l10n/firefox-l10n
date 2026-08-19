@@ -318,7 +318,8 @@ newtab-stocks-error-not-available = נתוני מניות אינם זמינים.
 newtab-stocks-widget-menu-button =
     .title = אפשרויות ווידג’ט מניות
     .aria-label = אפשרויות ווידג’ט מניות
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = מניות
 
 ## Screen-reader summary of a stock ticker.

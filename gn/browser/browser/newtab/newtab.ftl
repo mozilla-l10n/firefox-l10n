@@ -285,7 +285,8 @@ newtab-stocks-error-not-available = Mba’ekuaarãita apopyre ndojeporukuaái
 newtab-stocks-widget-menu-button =
     .title = Widget jepovorã jeku’erãva
     .aria-label = Widget jepovorã jeku’erãva
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Jejaporã
 
 ## Screen-reader summary of a stock ticker.
