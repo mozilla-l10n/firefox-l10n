@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Курсорды апарғанда бүйірлік панельді жаю
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Курсор үстінен өткенде алдын ала қарауды көрсету
 sidebar-manage-extensions2 = Барлық кеңейтулерді басқару
 sidebar-customize-extensions-header2 = Кеңейтулер
 sidebar-customize-firefox-tools-header2 =

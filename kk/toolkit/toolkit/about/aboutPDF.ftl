@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Бұл файлға қолдау көрсет�
 about-pdf-dropzone-error-generic = Жүктеу орындалмады. Кейінірек қайталап көріңіз.
 about-pdf-browse-files =
     .label = Файлдарды шолу
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = PDF ашу
 about-pdf-promo =
     .heading = { -brand-short-name } бағдарламасын негізгі PDF өңдегішіңіз етіп қылыңыз
     .message = PDF файлдарын { -brand-short-name } ішінде ашыңыз және түспен ерекшелеу мен қолтаңбадан бастап, біріктірілген файлдар мен түсініктемелерге дейінгі негізгі әрекеттерді бір жерде орындаңыз.
