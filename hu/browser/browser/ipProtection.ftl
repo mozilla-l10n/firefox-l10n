@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Eltüntetés
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Vigye magával a beépített VPN-t Androidon
+ipprotection-android-promo-callout-description = Olvassa le a QR-kódot, hogy beszerezze a { -brand-product-name(case: "accusative") } Androidra, és kapcsolja be a beépített VPN-t, hogy nagyobb biztonságban legyen útközben. Hamarosan iOS-en is.
 ipprotection-android-promo-callout-primary-button = Megértettem
 
 ## Panel

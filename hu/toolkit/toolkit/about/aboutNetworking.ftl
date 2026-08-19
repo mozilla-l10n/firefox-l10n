@@ -67,6 +67,7 @@ about-networking-ssl-tokens-compression-details =
 about-networking-ssl-tokens-ev-status = EV tanúsítvány
 about-networking-ssl-tokens-ct-status = Tanúsítvány átláthatósági állapota
 about-networking-ssl-tokens-overridable-error = Felülírható hibakategória
+about-networking-ssl-tokens-built-in-root = Beépített gyökér
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Tanúsítványlánc ({ $count })
 about-networking-refresh = Frissítés

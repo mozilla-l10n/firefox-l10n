@@ -41,13 +41,13 @@ extension-nova-flare-name = Fáklya
 # Name for a soft purple theme. Refers to the lavender flower.
 extension-nova-lavender-name = Levendula
 # Name for a medium purple theme. Refers to the sky just after sunset.
-extension-nova-dusk-name = Alkonyat
+extension-nova-dusk-name = Szürkület
 # Name for a medium blue theme. Refers to a sheltered body of water.
 extension-nova-lagoon-name = Lagúna
 # Name for a green theme. Refers to pine trees.
 extension-nova-pine-name = Fenyő
 # Name for a soft teal theme. Refers to ocean tides.
-extension-nova-tide-name = Hullám
+extension-nova-tide-name = Áradat
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 extension-nova-ash-name = Hamu
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.

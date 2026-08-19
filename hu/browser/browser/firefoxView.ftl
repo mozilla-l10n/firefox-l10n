@@ -232,6 +232,7 @@ firefoxview-show-all-history = Összes előzmény megjelenítése
 firefoxview-history-empty-header = Térjen vissza oda, ahol volt
 firefoxview-history-empty-description = Böngészés során a felkeresett oldalak itt lesznek felsorolva.
 firefoxview-history-empty-description-two = Az adatvédelme áll tevékenységünk középpontjában. Ezért az <a data-l10n-name="history-settings-url">előzménybeállításokban</a> szabályozhatja, hogy mely tevékenységekre emlékezzen a { -brand-short-name }.
+firefoxview-history-empty-description-2 = Az oldalak felkeresését követően az előzmények itt jelennek meg. Adja meg a <a data-l10n-name="history-settings-url">beállításokban</a>, hogy mi legyen elmentve.
 
 ##
 

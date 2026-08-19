@@ -1252,6 +1252,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Konténer kiválasztása minden új laphoz
     .accesskey = K
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Ne használjon konténereket a külső alkalmazásokból megnyitott hivatkozásokhoz
+    .accesskey = N
 containers-new-tab-check2 =
     .label = Konténer kiválasztása minden új laphoz
     .accesskey = K
@@ -2719,6 +2725,8 @@ preferences-etp-level-custom =
     .description = Válassza ki, hogy mely védelmek legyenek be- vagy kikapcsolva.
 preferences-etp-status-advanced-button =
     .label = Speciális beállítások
+preferences-etp-tracker-count-enabled =
+    .label = A blokkolt nyomkövetők megjelenítése a címsávban
 preferences-etp-status-protections-dashboard-link =
     .label = Tekintse meg a személyre szabott védelmi irányítópultot
     .description = Nézze meg, hány rejtett nyomkövetőt blokkolt Önnek a { -brand-short-name }, beleértve a közösségimédia-nyomkövetőket, az ujjlenyomat-készítőket és a kriptobányászokat.

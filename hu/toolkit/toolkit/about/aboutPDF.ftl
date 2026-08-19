@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Ez a fájl nem támogatott. Válasszon egy PDF
 about-pdf-dropzone-error-generic = A feltöltés nem ment át. Próbálja újra később.
 about-pdf-browse-files =
     .label = Fájlok tallózása
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = PDF megnyitása
 about-pdf-promo =
     .heading = Legyen a { -brand-short-name } a szokásos PDF-szerkesztője
     .message = Nyissa meg a PDF-eket a { -brand-short-name } böngészőben, és kezelje az alapvető feladatokat egy helyen, a kiemelésektől és aláírásoktól az egyesített fájlokig és megjegyzésekig.

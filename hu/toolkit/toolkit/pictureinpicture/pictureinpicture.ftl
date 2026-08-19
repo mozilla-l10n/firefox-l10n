@@ -57,6 +57,9 @@ pictureinpicture-seekbackward-btn =
 pictureinpicture-seekforward-btn =
     .aria-label = Előre
     .tooltip = Előre (→)
+pictureinpicture-playback-rate-btn =
+    .tooltip = Lejátszási sebesség
+    .aria-label = Lejátszási sebesség
 
 ##
 
@@ -65,6 +68,10 @@ pictureinpicture-seekforward-btn =
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Feliratbeállítások
 pictureinpicture-subtitles-label = Feliratok
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the playback speed settings panel
+# after selecting the playback speed button.
+pictureinpicture-playback-rate-panel-accessible = Lejátszási sebesség beállításai
 pictureinpicture-playback-rate-label = Lejátszási sebesség
 # The live readout of the current playback speed shown in the playback speed
 # panel, updated as the user moves the slider. Unlike the preset labels, whole

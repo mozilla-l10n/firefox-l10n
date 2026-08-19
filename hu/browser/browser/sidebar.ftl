@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Oldalsáv kibontása rámutatáskor
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Előnézet megjelenítése rámutatáskor
 sidebar-manage-extensions2 = Összes kiegészítő kezelése
 sidebar-customize-extensions-header2 = Kiegészítők
 sidebar-customize-firefox-tools-header2 =

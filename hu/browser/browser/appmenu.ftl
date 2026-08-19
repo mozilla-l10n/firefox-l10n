@@ -397,6 +397,9 @@ appmenuitem-relay-title-signed-in = E-mail-maszkok megtekintése
 appmenuitem-relay-description = Maszkolja a valódi e-mail-címét és telefonszámát
 appmenuitem-services-relay-description = E-mail-maszkok irányítópultjának elindítása
 appmenuitem-vpn-title2 = Rejtse el a helyét a { -mozilla-vpn-brand-name } segítségével
+appmenuitem-vpn-description5 = Szerezzen extra védelmet az eszközök között
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = A { -mozilla-vpn-brand-name } letöltése
 appmenuitem-vpn-description3 = Legyen nehezebben nyomon követhető a böngészése
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Kapjon teljes eszközvédelmet

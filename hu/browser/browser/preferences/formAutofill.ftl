@@ -132,6 +132,7 @@ autofill-address-tel = Telefonszám
 autofill-address-email = E-mail
 autofill-cancel-button = Mégse
 autofill-save-button = Mentés
+autofill-country-warning-message-2 = Az űrlapkitöltés jelenleg csak egyes országokban érhető el.
 autofill-country-warning-message = Az űrlapkitöltés jelenleg csak egyes országbeli címekre érhető el.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Új bankkártya hozzáadása
