@@ -40,6 +40,10 @@ sidebar-vertical-tabs =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Izvērst sānjoslu, kad virs tās ir kursors
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Rādīt priekšskatījumu, kad kursors atrodas virs
 
 ## Labels for sidebar context menu items
 

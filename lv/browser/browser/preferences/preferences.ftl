@@ -887,6 +887,12 @@ containers-remove-button =
 containers-add-button2 =
     .label = Pievienot jaunu konteineru
     .accesskey = a
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Neizmantot konteinerus saitēm, kas atvērtas no ārējām lietotnēm
+    .accesskey = N
 
 ## Account and sync
 
