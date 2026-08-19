@@ -350,3 +350,4 @@ star-avatar-tooltip =
     .tooltiptext = Usa l’icona stella
 video-game-controller-avatar-tooltip =
     .tooltiptext = Usa l’icona controller per videogiochi
+
