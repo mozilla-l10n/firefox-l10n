@@ -342,6 +342,27 @@ newtab-stocks-ticker-status-down = { $name }, quotisation { $price }, in diminut
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, quotisation { $price }, nulle cambiamento { $change } hodie
 
+## Stocks widget ticker search
+
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Resultatos del recerca
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Retro
+    .aria-label = Retro
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Nulle resultatos pro “{ $query }”
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Cargante…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Impossibile cercar a iste momento. Retenta plus tarde.
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.

@@ -1266,6 +1266,15 @@ containers-settings-button2 =
     .title = Configurationes
 containers-remove-button3 =
     .title = Deler
+containers-sites-add-button =
+    .label = Adder un sito web
+    .accesskey = A
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Container pro { $site }
+containers-site-remove-button =
+    .title = Deler
 containers-remove-button2 =
     .title = Remover
 

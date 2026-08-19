@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Icone
 containers-color-label2 =
     .label = Color
+containers-dialog2 =
+    .buttonlabelaccept = Salvar
+    .buttonaccesskeyaccept = S
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,19 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Parametros del contentor { $name }
     .style = min-width: 32em
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Adder sito web
+containers-site-label =
+    .label = Sito web
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Contentor
+containers-site-dialog =
+    .buttonlabelaccept = Salvar
+    .buttonaccesskeyaccept = S
 
 ## Container creation panel, anchored to the URL bar.
 
