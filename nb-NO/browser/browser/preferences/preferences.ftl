@@ -1266,6 +1266,18 @@ containers-settings-button2 =
     .title = Innstillinger
 containers-remove-button3 =
     .title = Slett
+containers-sites-card-header =
+    .label = Stedsspesifikke beholdere
+    .description = Velg en beholder for et nettsted, og { -brand-short-name } vil bruke den hver gang nettstedet åpnes.
+containers-sites-add-button =
+    .label = Legg til nettsted
+    .accesskey = L
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Beholder for { $site }
+containers-site-remove-button =
+    .title = Slett
 containers-remove-button2 =
     .title = Fjern
 
