@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Ko marandurenda ndojokupytýi. Eiporavo PDF ek
 about-pdf-dropzone-error-generic = Pe jehupi ndoikói hekópete. Eha’ãjey upe rire.
 about-pdf-browse-files =
     .label = Ejeporeka marandurendáre
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Embojuruja PDF
 about-pdf-promo =
     .heading = Ejapo { -brand-short-name }-gui nde PDF moheñoiha ehayhuvévarõ
     .message = Embojuruja PDF { -brand-short-name }-pe ha emoĩmba peteĩ hendápente, taha’e ehechaukaséva, mboheraguapy ha marandurenda je’epyre peve.

@@ -69,6 +69,14 @@ neterror-search-cta-learn-more = Eikuaave
 neterror-pref-reset = Ne ñemboheko ñanduti rekorosãrã rehegua ikatu hína ojapo kóva. Emoĩporãsépa ñemboheko ijypyguáva rupi?
 neterror-error-reporting-automatic = Emomarandu koichagua jejavy eipytyvõ hag̃ua { -vendor-short-name }-pe ojuhúvo ha ojokóvo tenda mba’evai aposéva
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Nde jeike ikatuhína ndahekoñemíri
+    .message = Tembiporu’i térã mba’eporurã ikatu ohecha jeike ipapapýva ko tenda rehegua.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ndaikatúi omyanyhẽ ko kuatiarogue ndojekuaái mba’érepa.
