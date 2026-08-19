@@ -221,16 +221,16 @@ vertical-tabs-callout-2-subtitle = Deze indeling maakt het eenvoudig om snel uw 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = Raakt u uw belangrijke tabbladen kwijt?
-sidebar-pins-callout-subtitle = Probeer ze vast te zetten, zodat ze bovenaan uw lijst met tabbladen blijven. Klik met de rechtermuisknop op een tabblad dat u wilt vastmaken en kies vervolgens Tabblad vastmaken.
+sidebar-pins-callout-subtitle = Probeer ze vast te maken, zodat ze bovenaan uw lijst met tabbladen blijven. Klik met de rechtermuisknop op een tabblad dat u wilt vastmaken en kies vervolgens Tabblad vastmaken.
 sidebar-pins-callout-cta-button = Tabblad vastmaken
 
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Houd belangrijke tabbladen binnen handbereik
-pin-tabs-callout-1-subtitle = Sleep een tabblad naar het begin van de tabbladstrook om het vast te zetten. Of klik met de rechtermuisknop en kies Tabblad vastmaken.
+pin-tabs-callout-1-subtitle = Sleep een tabblad naar het begin van de tabbladstrook om het vast te maken. Of klik met de rechtermuisknop en kies Tabblad vastmaken.
 pin-tabs-callout-cta-1-button = Dit tabblad vastmaken
 pin-tabs-callout-2-title = Meest bezochte tabbladen vastmaken
-pin-tabs-callout-2-subtitle = Sleep een tabblad naar het begin van de tabbladstrook om het vast te zetten. Of klik met de rechtermuisknop en kies Tabblad vastmaken.
+pin-tabs-callout-2-subtitle = Sleep een tabblad naar het begin van de tabbladstrook om het vast te maken. Of klik met de rechtermuisknop en kies Tabblad vastmaken.
 pin-tabs-callout-cta-2-button = Dit tabblad vastmaken
 pin-tabs-callout-3-title = Houd belangrijke websites binnen handbereik
 pin-tabs-callout-4-title = Websites die u het vaakst bezoekt vastmaken

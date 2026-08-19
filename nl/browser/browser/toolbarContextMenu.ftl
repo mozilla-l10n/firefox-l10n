@@ -52,7 +52,7 @@ toolbar-context-menu-report-extension =
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
-    .label = Vastmaken aan overloopmenu
+    .label = Vastzetten aan overloopmenu
     .accesskey = V
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Knop verbergen indien leeg
