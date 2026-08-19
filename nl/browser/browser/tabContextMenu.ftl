@@ -215,12 +215,12 @@ tab-context-send-tabs-to-device =
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
-            [1] Tabblad ontladen
-            [one] { $tabCount } tabblad ontladen
-           *[other] { $tabCount } tabbladen ontladen
+            [1] Tabblad lossen
+            [one] { $tabCount } tabblad lossen
+           *[other] { $tabCount } tabbladen lossen
         }
     .accesskey = o
 # Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
 tab-context-unload-tabs =
-    .label = Ontladen
-    .accesskey = O
+    .label = Lossen
+    .accesskey = L

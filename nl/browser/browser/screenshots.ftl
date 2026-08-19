@@ -47,8 +47,8 @@ screenshots-generic-error-details = We weten niet precies wat er zonet is gebeur
 screenshots-too-large-error-title = Uw schermafbeelding is bijgesneden omdat deze te groot was
 screenshots-too-large-error-details = Probeer een gebied te selecteren dat kleiner is dan 32.700 pixels aan de langste zijde of een totale oppervlakte van 124.900.000 pixels.
 screenshots-component-retry-button =
-    .title = Schermafdruk opnieuw proberen
-    .aria-label = Schermafdruk opnieuw proberen
+    .title = Schermafbeelding opnieuw proberen
+    .aria-label = Schermafbelding opnieuw proberen
 screenshots-component-cancel-button =
     .title =
         { PLATFORM() ->

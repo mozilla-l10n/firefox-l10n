@@ -23,7 +23,7 @@ xpinstall-prompt-never-allow =
 # Long text in this context make the dropdown menu extend awkwardly to the left,
 # avoid a localization that's significantly longer than the English version.
 xpinstall-prompt-never-allow-and-report =
-    .label = Verdachte website melden
+    .label = Verdachte website rapporteren
     .accesskey = m
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
