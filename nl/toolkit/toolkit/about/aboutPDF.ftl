@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Dit bestand wordt niet ondersteund. Kies een P
 about-pdf-dropzone-error-generic = De upload is mislukt. Probeer het later opnieuw.
 about-pdf-browse-files =
     .label = Door bestanden bladeren
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = PDF openen
 about-pdf-promo =
     .heading = { -brand-short-name } uw favoriete PDF-editor maken
     .message = PDF’s in { -brand-short-name } openen en de basishandelingen op één plek verrichten, van accentueringen en ondertekeningen tot samengevoegde bestanden en opmerkingen.
