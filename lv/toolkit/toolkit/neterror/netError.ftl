@@ -145,3 +145,7 @@ certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> izman
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kļūdas kods: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Izskatās, ka ir sarežģījums ar interneta savienojumu

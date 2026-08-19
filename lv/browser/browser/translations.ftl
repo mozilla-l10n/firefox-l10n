@@ -75,7 +75,7 @@ translations-panel-intro-header = Izmēģiniet privātos tulkojumus ar { -brand-
 translations-panel-intro-description = Lai nodrošinātu jūsu privātumu, tulkojumi nekad neatstāj jūsu ierīci. Drīzumā būs pieejamas jaunas valodas un uzlabojumi!
 translations-panel-error-translating = Tulkojot radās problēma. Lūdzu, mēģiniet vēlreiz.
 translations-panel-error-load-languages = Nevarēja ielādēt valodas
-translations-panel-error-load-languages-hint = Pārbaudiet savienojumu ar internetu un mēģiniet vēlreiz.
+translations-panel-error-load-languages-hint = Jāpārbauda savienojums ar internetu un jāmēģina vēlreiz.
 translations-panel-error-load-languages-hint-button =
     .label = Mēģināt vēlreiz
 translations-panel-error-unsupported = Tulkojums šai lapai nav pieejams
@@ -224,7 +224,7 @@ select-translations-panel-idle-placeholder-text = Šeit tiks parādīts tulkotai
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Tulko…
 select-translations-panel-init-failure-message =
-    .message = Nevarēja ielādēt valodas. Pārbaudiet savienojumu ar internetu un mēģiniet vēlreiz.
+    .message = Nevarēja ielādēt valodas. Jāpārbauda savienojums ar internetu un jāmēģina vēlreiz.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Tulkojot radās problēma. Lūdzu, mēģiniet vēlreiz.
