@@ -427,7 +427,7 @@ quickactions-addons = Add-ons bekijken
 quickactions-cmd-addons3 = extensies, thema’s, add-ons
 # Opens preferences page at AI controls
 quickactions-manageai = AI-bedieningselementen beheren
-quickactions-cmd-manageai = ai uitschakelen, ai uitschakelen, ai beheren
+quickactions-cmd-manageai = ai uitschakelen, ai uitzetten, ai beheren
 quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Bladwijzers beheren
@@ -770,8 +770,8 @@ urlbar-placeholder-search-mode-other-tabs =
     .aria-label = Zoeken in tabbladen
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
+    .aria-label = Acties doorzoeken
     .placeholder = Voer zoektermen in
-    .aria-label = Zoekacties
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -1180,7 +1180,7 @@ urlbar-searchmode-popup-settings-panelitem = Instellingen
 urlbar-result-action-search-bookmarks = Bladwijzers doorzoeken
 urlbar-result-action-search-history = Geschiedenis doorzoeken
 urlbar-result-action-search-tabs = Tabbladen doorzoeken
-urlbar-result-action-search-actions = Zoekacties
+urlbar-result-action-search-actions = Acties doorzoeken
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
 urlbar-result-action-switch-to-tabgroup = Omschakelen naar { $group }
@@ -1795,7 +1795,7 @@ trustpanel-description-enabled2 = U bent beschermd. Als we iets ontdekken, laten
 trustpanel-header-enabled-insecure = Wees voorzichtig op deze website
 trustpanel-description-enabled-insecure = { -brand-product-name } heeft iets verdachts opgemerkt.
 trustpanel-header-disabled = U hebt beschermingen uitgeschakeld
-trustpanel-description-disabled = { -brand-product-name } heeft geen dienst. We raden u aan beschermingen weer in te schakelen.
+trustpanel-description-disabled = { -brand-product-name } staat niet op wacht. We raden u aan beschermingen weer in te schakelen.
 trustpanel-clear-cookies-button = Cookies en websitegegevens wissen
 trustpanel-privacy-link = Privacyinstellingen
 # Variables
