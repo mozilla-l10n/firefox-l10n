@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zijbalk bij aanwijzen uitvouwen
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Voorbeeld tonen bij aanwijzen
 sidebar-manage-extensions2 = Alle extensies beheren
 sidebar-customize-extensions-header2 = Extensies
 sidebar-customize-firefox-tools-header2 =
