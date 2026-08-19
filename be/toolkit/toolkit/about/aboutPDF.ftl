@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Гэты файл не падтрымліва�
 about-pdf-dropzone-error-generic = Зацягванне не прайшло. Паўтарыце спробу пазней.
 about-pdf-browse-files =
     .label = Прагляд файлаў
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Адкрыць PDF
 about-pdf-promo =
     .heading = Зрабіце { -brand-short-name } сваім асноўным рэдактарам PDF
     .message = Адкрывайце PDF-файлы ў { -brand-short-name } і кіруйце асноўнымі функцыямі ў адным месцы, ад вылучэнняў і подпісаў да аб'яднання файлаў і каментарыяў.

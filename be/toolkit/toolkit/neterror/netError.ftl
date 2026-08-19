@@ -47,6 +47,17 @@ neterror-search-cta-things-to-try = Паспрабуйце наступныя к
 neterror-search-cta-hint-check-address = Двойчы праверце адрас вэб-сайта
 # Shown when no Search button is offered, so no specific query can be named.
 neterror-search-cta-hint-search = Пашукайце ў інтэрнэце, каб знайсці сайт
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Шукаць у інтэрнэце <strong>«{ $query }»</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Шукаць
+    .accesskey = Ш
+    .tooltiptext = Адкрые вынікі пошуку ў новай картцы
 neterror-search-cta-reload-button =
     .label = Абнавіць
     .accesskey = А
