@@ -325,7 +325,8 @@ newtab-stocks-error-not-available = I dati sulle azioni non sono disponibili.
 newtab-stocks-widget-menu-button =
     .aria-label = Opzioni del widget Azioni
     .title = Opzioni del widget Azioni
-# Heading for the Stocks widget.
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
 newtab-stocks-widget-title = Azioni
 
 ## Screen-reader summary of a stock ticker.
