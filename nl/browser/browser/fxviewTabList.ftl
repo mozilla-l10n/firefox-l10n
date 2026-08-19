@@ -21,7 +21,7 @@ fxviewtabrow-close-tab-button =
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
-    .title = { $tabTitle } sluiten
+    .title = { $tabTitle } uit de lijst verwijderen
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Zojuist
 

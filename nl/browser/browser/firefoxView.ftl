@@ -104,7 +104,7 @@ firefoxview-closed-tabs-placeholder-body = Wanneer u een tabblad in dit venster 
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
-    .title = { $tabTitle } sluiten
+    .title = { $tabTitle } uit de lijst verwijderen
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Laatst actief
 # Variables:

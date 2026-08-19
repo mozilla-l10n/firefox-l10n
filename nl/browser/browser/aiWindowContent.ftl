@@ -170,10 +170,10 @@ smart-window-opened-tabs-summary-group =
     }
 smart-window-opened-tabs-row-label = Geopende tabbladen
 # Action result labels for switching to a single already-open tab
-smart-window-switched-tab-label = Omgewisselde tabbladen
+smart-window-switched-tab-label = Van tabblad gewisseld
 # Variables
 #   $title (String) - Title of the tab switched to
-smart-window-switched-tab-summary = Omgewisseld naar ‘{ $title }’.
+smart-window-switched-tab-summary = Overgeschakeld naar ‘{ $title }’.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Groepering van tabbladen ongedaan gemaakt
 # Variables

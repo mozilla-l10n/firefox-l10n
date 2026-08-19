@@ -502,4 +502,4 @@ about-logins-import-report-error =
 
 ## Logins import report page
 
-about-logins-import-report-page-title = Samenvattend rapport importeren
+about-logins-import-report-page-title = Samenvattend importrapport
