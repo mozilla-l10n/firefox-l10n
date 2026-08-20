@@ -361,7 +361,7 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # name (for example "CC BY-SA 4.0") provided with the picture.
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
-    .aria-label = View the { $license } license
+    .aria-label = View the { $license } licence
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
