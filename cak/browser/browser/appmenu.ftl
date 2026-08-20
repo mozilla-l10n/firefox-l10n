@@ -251,6 +251,18 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Tikanöx natab'äl
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Titikirisäx molojri'ïl
+appmenu-sync-promo-turnonsync-cta = Titzij ximoj
+appmenu-sync-promo-connectdevice-cta = Tokisäx jun okisab'äl
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Ke'ak'waj ri taq yaketal richin yab'e
+
 ## Help panel
 
 appmenu-help-header =
@@ -298,6 +310,8 @@ appmenu-customizetoolbar =
     .label = Tichinäx Rukajtz'ik Samajib'äl…
 appmenu-abouttranslations =
     .label = Titzalq'omïx…
+appmenu-edit-pdf =
+    .label = Tinuk' PDF…
 appmenu-developer-tools-subheader = Rusamajib'al Okik'amaya'l
 appmenu-developer-tools-extensions =
     .label = Kik'amal B'anonela'
@@ -309,7 +323,10 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Katok pa rub'i' ataqoya'l
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Tiqasäx { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenu-services-header = Taq nusamaj
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
