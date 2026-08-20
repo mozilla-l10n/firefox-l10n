@@ -631,9 +631,21 @@ find-more-extensions-promo =
     .message = ਫੋਕਸ, ਪਰਦੇਦਾਰੀ, ਖਰੀਦਦਾਰੀ ਅਤੇ ਹੋਰ ਕੰਮ ਲਈ ਟੂਲਾਂ ਨਾਲ { -brand-product-name } ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ।
 find-more-extensions-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਪੜਤਾਲ ਕਰੋ
 
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = ਹੋਰ ਤਾਜ਼ਾ ਦਿੱਖ ਲੱਭੋ
+    .message = { -brand-product-name } ਲਈ ਕੋਈ ਸਟਾਈਲ ਚੁਣੋ, ਜੋ ਤੁਹਾਡਾ ਬਣਾਵੇ।
+find-more-themes-promo-open-amo-button = ਥੀਮ ਵੇਖੋ
+
 ## Promo shown in about:addons extensions list view when no extension is yet installed
 ## and Project Nova is enabled.
 
+list-empty-get-extensions-promo =
+    .heading = ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੇ ਬਹੁਤ ਕੰਮ ਕੀਤਾ ਹੈ
+    .message = ਅਸੀਂ ਤੁਹਾਨੂੰ ਫੋਕਸ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਹੋਰ ਸੁਧਾਰ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ।
 list-empty-get-extensions-promo-button = ਆਪਣੀ ਪਹਿਲੀਂ ਇਕਸਟੈਨਸ਼ਨ ਲਵੋ
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view

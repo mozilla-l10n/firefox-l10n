@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = ਸਹੂਲਤ ਮੀਡੀਆ ਫ
 process-type-utility-actor-js-oracle = ਸਹੂਲਤ JavaScript Oracle
 process-type-utility-actor-windows-utils = ਸਹੂਲਤ Windows ਸਹੂਲਤਾਂ
 process-type-utility-actor-windows-file-dialog = ਸਹੂਲਤ Windows ਫਾਇਲ ਡਾਈਲਾਗ
+process-type-utility-actor-hw-inference = ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਟ ਕੀਤਾ ਇੰਟਰਫੇਸ ਸਹੂਲਤ
 
 ##
 ## Other
