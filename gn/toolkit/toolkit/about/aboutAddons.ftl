@@ -627,6 +627,9 @@ find-more-themes-promo-open-amo-button = Eheka temakuéra
 ## Promo shown in about:addons extensions list view when no extension is yet installed
 ## and Project Nova is enabled.
 
+list-empty-get-extensions-promo =
+    .heading = Sa’imi jepysokue osẽ porãiterei
+    .message = Roñemoñe’ẽta nepytyvõrã iporãve hag̃ua ñamindu’u, tekoñemi ha hetave.
 list-empty-get-extensions-promo-button = Ejuhúta jepysokue ñepyrũha
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view

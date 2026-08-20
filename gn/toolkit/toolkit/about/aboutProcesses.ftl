@@ -146,6 +146,7 @@ about-processes-utility-actor-js-oracle = JavaScript Ykekoha
 about-processes-utility-actor-windows-utils = Windows kuave’ẽmby
 about-processes-utility-actor-windows-file-dialog = Windows marandurenda ñomongeta
 about-processes-utility-actor-pkcs11-module = Tekorosã Ayvu Pytyvõha
+about-processes-utility-actor-hw-inference = Kuaapy pya’éva hardware rehegua
 
 ## Displaying CPU (percentage and total)
 ## Variables:

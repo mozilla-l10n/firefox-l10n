@@ -45,6 +45,8 @@ neterror-search-cta-intro = Ndaikatúi eike mba’e’okápe { $domain } rupive.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Eiporu ko’ã jeku’e:
 neterror-search-cta-hint-check-address = Ehechajey ñanduti rogue kundaharape
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Eheka ñandutípe ejuhu hag̃ua tenda
 # .tooltiptext doubles as the button's accessible description, so it explains
 # that results open in a new tab.
 neterror-search-cta-search-button =
