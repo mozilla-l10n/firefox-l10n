@@ -168,7 +168,7 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Habilitar
     .title = Habilitar la verificación de las actualizaciones de seguridad
 extensions-warning-imported-addons2 =
-    .message = Finalizce la instalación de extensiones que fueron importadas a { -brand-short-name }.
+    .message = Finalice la instalación de extensiones que fueron importadas a { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar extensiones
 extensions-warning-safe-mode3 =
     .message = Todos los complementos fueron deshabilitados por el modo de solución de problemas.
@@ -212,7 +212,7 @@ addon-install-from-file = Instalar complemento desde archivo…
 # pref is set.
 addon-install-or-update-from-file = Instalar o actualizar complemento desde archivo…
     .accesskey = I
-addon-install-from-file-dialog-title = Selecionar complemento para instalar
+addon-install-from-file-dialog-title = Seleccionar complemento para instalar
 addon-install-from-file-filter-name = Complementos
 addon-open-about-debugging = Depurar complementos
     .accesskey = D
@@ -283,7 +283,7 @@ discopane-notice-learn-more = Conocer más
 colorway-removal-notice-message =
     .heading = Su(s) tema(s) de combinación de colores fueron eliminados.
     .message =
-        { -brand-product-name } actuaizó su colección de combinación de colores. Eliminamos 
+        { -brand-product-name } actualizó su colección de combinaciones de colores. Eliminamos 
         las viejas versiones de la lista de “Temas guardados”. Obtenga las nuevas versiones en
         el sitio de complementos.
 colorway-removal-notice-learn-more = Conocer más
@@ -415,7 +415,7 @@ addon-badge-private-browsing-allowed3 =
 addon-badge-private-browsing-allowed2 =
     .title = Permitida en ventanas privadas
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Cuando está activado, el complemento tendrá acceso a todo lo que hace mientras navega de forma privada. <a data-l10n-name="learn-more">Conozca más más</a>
+addon-detail-private-browsing-help = Cuando está activado, el complemento tendrá acceso a todo lo que hace mientras navega de forma privada. <a data-l10n-name="learn-more">Conocer más</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
 # aria-label associated to the private browsing row to help screen readers to announce the group
@@ -633,7 +633,7 @@ find-more-addons-promo-open-amo-button = Explorar extensiones y temas
 
 find-more-extensions-promo =
     .heading = Encontre su próxima extensión favorita
-    .message = PersonalicPersonalice { -brand-product-name } con herramientas de enfoque, privacidad, compras y más.
+    .message = Personalice { -brand-product-name } con herramientas de enfoque, privacidad, compras y más.
 find-more-extensions-promo-open-amo-button = Explorar extensiones
 
 ## Promo footer shown in the about:addons themes list view when

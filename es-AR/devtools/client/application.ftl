@@ -15,7 +15,7 @@
 serviceworker-list-header = Service Workers
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
-serviceworker-list-aboutdebugging = Abra <a>about:debugging</a> para Service Workers de otros domínios
+serviceworker-list-aboutdebugging = Abra <a>about:debugging</a> para Service Workers de otros dominios
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Desregistrar
 # Text for the debug link displayed for an already started Service Worker. Clicking on the

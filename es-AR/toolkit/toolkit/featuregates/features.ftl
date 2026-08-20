@@ -16,7 +16,7 @@ experimental-features-web-gpu-description3 = La <a data-l10n-name="wikipedia-web
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Medios: JPEG XL
-experimental-features-media-jxl-description = eCon esta función activada, { -brand-short-name } admite el formato JPEG (JXL). Este es un formato mejorado de archivo de imagen que permite la transición desde archivos JPEG tradicionales sin pérdidas. Para más detalles, consulte <a data-l10n-name="bugzilla">bug 1539075</a>.
+experimental-features-media-jxl-description = Con esta función activada, { -brand-short-name } admite el formato JPEG XL (JXL). Este es un formato mejorado de archivo de imagen que permite la transición desde archivos JPEG tradicionales sin pérdidas. Para más detalles, consulte <a data-l10n-name="bugzilla">bug 1539075</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Herramientas para desarrolladores: Panel de compatibilidad
 experimental-features-devtools-compatibility-panel-description = Un panel lateral para el Inspector de página que muestra información que detalla el estado de compatibilidad entre navegadores de su aplicación. Consulte <a data-l10n-name="bugzilla"> bug 1584464 </a> para obtener más detalles.

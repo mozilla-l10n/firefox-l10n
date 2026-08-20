@@ -45,7 +45,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Inicie sesión en { -brand-prod
 firefoxview-syncedtabs-adddevice-primarybutton = Pruebe { -brand-product-name } para dispositivos móviles
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Las pestañas necesarias. Están en el teléfono.
-firefoxview-syncedtabs-adddevice-description-3 = Escanee el código QR para instalar { -brand-product-name } para dispositivos móviles ycempiece a sincronizar las pestañas abiertas y más. Aprenda a <a data-l10n-name="url">conectar dispositivos adicionales</a>.
+firefoxview-syncedtabs-adddevice-description-3 = Escanee el código QR para instalar { -brand-product-name } para dispositivos móviles y empiece a sincronizar las pestañas abiertas y más. Aprenda a <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Conocer cómo
@@ -245,7 +245,7 @@ firefoxview-choose-browser-button = Elegir el navegador
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header-2 = Tiene el control sobre que recuerda { -brand-short-name }
+firefoxview-dont-remember-history-empty-header-2 = Tiene el control sobre qué recuerda { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = En este momento, { -brand-short-name } no recuerda la actividad de navegación. Para cambiar eso, <a data-l10n-name="history-settings-url-two">actualice la configuración del historial</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = El historial de navegación se borrará.

@@ -35,7 +35,7 @@ appearance-browser-icon-bonus-group =
 
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
-    .message = Complete ydesbloqueae íconos de zorros adicionales para personalizar { -brand-short-name }.
+    .message = Complete y desbloquee íconos de zorros adicionales para personalizar { -brand-short-name }.
 # Shown in place of appearance-browser-icon-requirement once the bonus icons are
 # unlocked (the browser is both the default and pinned to the taskbar).
 appearance-browser-icon-unlocked =
