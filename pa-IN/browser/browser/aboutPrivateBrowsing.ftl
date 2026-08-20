@@ -61,6 +61,11 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = ਕੋਈ ਵੀ ਸੰਭਾਲੇ ਕੂਕੀਜ਼ ਜਾਂ ਅਤੀਤ ਨਹੀਂ, ਸਿੱਧੇ ਤੁਹਾਡੇ ਡੈਸਕਟਾਪ ਤੋਂ। ਬਰਾਊਜ਼ ਇੰਞ ਕਰੋ ਕਿ ਕੋਈ ਨਿਗਰਾਨੀ ਨਹੀਂ ਕਰਦਾ।
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = ਇਨਬਾਕਸ ਵਿੱਚ ਸਮੈਪ ਨੂੰ ਰੋਕਣ ਲਈ ਈਮੇਲ ਮਾਸਕ ਮਦਦ ਕਰਦੇ ਹਨ
+about-private-browsing-relay-promo-link-text = ਈਮੇਲ ਮਾਸਕਾਂ ਨੂੰ ਅਜ਼ਮਾਓ
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

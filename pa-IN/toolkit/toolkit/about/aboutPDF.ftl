@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = ਇਹ ਫ਼ਾਇਲ ਸਹਾਇਕ ਨਹੀ�
 about-pdf-dropzone-error-generic = ਅੱਪਲੋਡ ਪੂਰਾ ਨਹੀਂ ਹੋਇਆ। ਬਾਅਦ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ ਕਰਿਓ।
 about-pdf-browse-files =
     .label = ਫ਼ਾਇਲਾਂ ਬਰਾਊਜ਼ ਕਰੋ
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = PDF ਨੂੰ ਖੋਲ੍ਹੋ
 about-pdf-promo =
     .heading = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਫਿਰਤੂ PDF ਐਡੀਟਰ ਬਣਾਓ
     .message = { -brand-short-name } ਵਿੱਚ PDF ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਸਭ ਮੁੱਢਲੇ ਕੰਮ ਜਿਵੇਂ ਹਾਈਲਾਈਟ ਕਰਨਾ, ਦਸਤਖ਼ਤ ਕਰਨੇ ਤੋਂ ਲੈ ਕੇ ਫ਼ਾਇਲਾਂ ਨੂੰ ਆਪਸ 'ਚ ਮਿਲਾਉਣ ਤੇ ਟਿੱਪਣੀਆਂ ਕਰਨ ਤੱਕ ਇੱਕੋ ਥਾਂ ਕਰੋ।

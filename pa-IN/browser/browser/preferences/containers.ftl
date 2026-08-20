@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = ਆਈਕਾਨ
 containers-color-label2 =
     .label = ਰੰਗ
+containers-dialog2 =
+    .buttonlabelaccept = ਸੰਭਾਲੋ
+    .buttonaccesskeyaccept = S
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,14 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = { $name } ਕਨਟੇਨਰ ਸੈਟਿੰਗਾਂ
     .style = min-width: 32em
+
+## Dialog that binds a website to a container.
+
+containers-site-container-label =
+    .label = ਕਨਟੇਨਰ
+containers-site-dialog =
+    .buttonlabelaccept = ਸੰਭਾਲੋ
+    .buttonaccesskeyaccept = S
 
 ## Container creation panel, anchored to the URL bar.
 

@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = ਮਾਊਸ ਕੋਲ ਲੈ ਜਾਣ ਉੱਤੇ ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = ਉੱਤੇ ਲੈ ਜਾਣ ਨਾਲ ਝਲਕ ਵੇਖਾਓ
 sidebar-manage-extensions2 = ਸਾਰੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 sidebar-customize-extensions-header2 = ਇਕਸਟੈਨਸ਼ਨ
 sidebar-customize-firefox-tools-header2 =
