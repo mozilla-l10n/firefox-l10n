@@ -328,6 +328,10 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aksjar
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Marknadar
+    .label = Marknadar
 # "Watchlist" is the user's list of stocks to follow. The value is shown in the
 # menu, and .label is shown on the button that opens it.
 newtab-stocks-list-watchlist = Overvakingsliste

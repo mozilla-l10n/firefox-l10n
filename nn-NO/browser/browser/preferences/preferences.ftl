@@ -1266,6 +1266,9 @@ containers-settings-button2 =
     .title = Innstillingar
 containers-remove-button3 =
     .title = Slett
+containers-sites-add-button =
+    .label = Legg til nettstad
+    .accesskey = L
 # The dropdown that picks which container a site opens in.
 # Variables:
 #   $site (string) - Domain of the website, for example “example.com”.
