@@ -61,6 +61,10 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = 不留下任何 Cookie 與瀏覽紀錄。隱私瀏覽不留痕跡。
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-link-text = 試用轉寄信箱功能
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
