@@ -398,6 +398,10 @@ newtab-stocks-search-results =
 newtab-stocks-search-back-button =
     .title = Zurück
     .aria-label = Zurück
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Keine Ergebnisse für "{ $query }"
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Wird geladen…
 # Shown when a ticker search fails to reach the service.

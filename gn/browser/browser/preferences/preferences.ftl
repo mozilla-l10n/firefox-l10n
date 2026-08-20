@@ -1249,6 +1249,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Eiporavo mbyatyha peteĩteĩva tendayképe g̃uarã
     .accesskey = E
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Ani eiporu mba’yruguasu juajurã ijurujáva tembiporu’i okayguáva
+    .accesskey = D
 containers-new-tab-check2 =
     .label = Eiporavo mbyatyha peteĩteĩva tendayke pyahúpe g̃uarã
     .accesskey = S
@@ -1256,6 +1262,15 @@ containers-new-tab-check2 =
 containers-settings-button2 =
     .title = Ñemboheko
 containers-remove-button3 =
+    .title = Mboguete
+containers-sites-add-button =
+    .label = Embojuaju ñanduti rogue
+    .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Mba’yruguasu { $site }-pe g̃uarã
+containers-site-remove-button =
     .title = Mboguete
 containers-remove-button2 =
     .title = Mboguete
