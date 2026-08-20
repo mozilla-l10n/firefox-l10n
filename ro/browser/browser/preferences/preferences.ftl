@@ -1256,6 +1256,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Selectează un container pentru fiecare filă nouă
     .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Nu folosiți containere pentru linkuri deschise din aplicații externe
+    .accesskey = D
 containers-new-tab-check2 =
     .label = Selectează un container pentru fiecare filă nouă
     .accesskey = S
@@ -1263,6 +1269,18 @@ containers-new-tab-check2 =
 containers-settings-button2 =
     .title = Setări
 containers-remove-button3 =
+    .title = Șterge
+containers-sites-card-header =
+    .label = Containere specifice pentru site-uri
+    .description = Alege un container pentru un site și { -brand-short-name } îl va folosi de fiecare dată când deschizi site-ul.
+containers-sites-add-button =
+    .label = Adaugă site web
+    .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Container pentru { $site }
+containers-site-remove-button =
     .title = Șterge
 containers-remove-button2 =
     .title = Elimină

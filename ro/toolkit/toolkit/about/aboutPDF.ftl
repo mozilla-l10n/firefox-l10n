@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Fișierul nu are suport. Alege un PDF pentru a
 about-pdf-dropzone-error-generic = Încărcarea nu a reușit. Încearcă din nou mai târziu.
 about-pdf-browse-files =
     .label = Răsfoiește fișierele
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Deschide PDF
 about-pdf-promo =
     .heading = Setează { -brand-short-name } ca editor PDF implicit
     .message = Deschide fișiere PDF în { -brand-short-name } și gestionează elementele de bază într-un singur loc, de la evidențieri și semnături până la îmbinare de fișiere și adăugare de comentarii.

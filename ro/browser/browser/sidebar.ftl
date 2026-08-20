@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Extinde bara laterală în momentul plasării cursorului pe ea
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Afișează previzualizarea la trecerea cu mouse-ul peste
 sidebar-manage-extensions2 = Gestionează toate extensiile
 sidebar-customize-extensions-header2 = Extensii
 sidebar-customize-firefox-tools-header2 =
