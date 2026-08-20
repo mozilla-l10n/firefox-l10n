@@ -366,28 +366,28 @@ newtab-stocks-add-to-watchlist =
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = Retirer { $name } de la liste
-    .aria-label = Retirer { $name } de la liste
+    .title = Retirer { $name } de la liste de suivi
+    .aria-label = Retirer { $name } de la liste de suivi
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
 #   $name (String) - the fund/ETF name.
-newtab-stocks-in-watchlist = { $name } est dans votre liste
+newtab-stocks-in-watchlist = { $name } est dans votre liste de suivi
 # Announced to screen readers after a stock is added to the watchlist.
 # Variables:
 #   $name (String) - the fund/ETF name.
-newtab-stocks-added-to-watchlist = { $name } ajouté à la liste de suivi
+newtab-stocks-added-to-watchlist = { $name } a été ajouté à la liste de suivi
 # Announced to screen readers after a stock is removed from the watchlist.
 # Variables:
 #   $name (String) - the fund/ETF name.
-newtab-stocks-removed-from-watchlist = Retiré { $name } de la liste de suivi
+newtab-stocks-removed-from-watchlist = { $name } a été retiré de la liste de suivi
 
 ## Stocks widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.
 newtab-stocks-search-input =
-    .aria-label = Recherche par nom ou symbole
-    .placeholder = Recherche par nom ou symbole
+    .aria-label = Rechercher par nom ou symbole
+    .placeholder = Rechercher par nom ou symbole
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
@@ -405,7 +405,7 @@ newtab-stocks-search-no-results = Pas de résultats pour « { $query } »
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Chargement…
 # Shown when a ticker search fails to reach the service.
-newtab-stocks-search-error = Impossible de rechercher actuellement. Réessayer plus tard.
+newtab-stocks-search-error = La recherche est momentanément indisponible. Réessayez plus tard.
 
 ## Strings for the Picture of the Day widget
 

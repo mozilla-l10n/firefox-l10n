@@ -230,7 +230,7 @@ shortcuts-input =
     .placeholder = Typ in fluchtoets
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
-    .aria-label = Fluchkeppeling fuortsmite
+    .aria-label = Fluchtoets fuortsmite
 shortcuts-browserAction2 = Arkbalkeknop aktivearje
 shortcuts-pageAction = Side-aksje aktivearje
 shortcuts-sidebarAction = De sidebalke yn-/útskeakelje

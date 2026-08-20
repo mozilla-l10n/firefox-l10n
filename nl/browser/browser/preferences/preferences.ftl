@@ -1266,6 +1266,15 @@ containers-settings-button2 =
     .title = Instellingen
 containers-remove-button3 =
     .title = Verwijderen
+containers-sites-add-button =
+    .label = Website toevoegen
+    .accesskey = W
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Container voor { $site }
+containers-site-remove-button =
+    .title = Verwijderen
 containers-remove-button2 =
     .title = Verwijderen
 

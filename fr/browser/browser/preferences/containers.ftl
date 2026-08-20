@@ -21,7 +21,7 @@ containers-color-label2 =
     .label = Couleur
 containers-dialog2 =
     .buttonlabelaccept = Enregistrer
-    .buttonaccesskeyaccept = S
+    .buttonaccesskeyaccept = E
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -112,7 +112,7 @@ containers-site-container-label =
     .label = Conteneur
 containers-site-dialog =
     .buttonlabelaccept = Enregistrer
-    .buttonaccesskeyaccept = S
+    .buttonaccesskeyaccept = E
 # Shown below the website field when the typed website is not a host, or when
 # it is a URL that does not use the https scheme.
 containers-site-invalid-error = Saisissez un site web valide et sécurisé

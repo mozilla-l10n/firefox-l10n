@@ -328,6 +328,14 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aandelen
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Markten
+    .label = Markten
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Volglijst
+    .label = Volglijst
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -341,6 +349,25 @@ newtab-stocks-ticker-status-up = { $name }, { $change } gestegen, { $price }
 newtab-stocks-ticker-status-down = { $name }, { $change } gedaald, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, geen wijziging, { $change }, { $price }
+
+## Stocks widget ticker search
+
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Zoekresultaten
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Terug
+    .aria-label = Terug
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Geen resultaten voor ‘{ $query }’
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Laden…
 
 ## Strings for the Picture of the Day widget
 
