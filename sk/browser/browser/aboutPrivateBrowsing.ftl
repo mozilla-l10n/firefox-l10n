@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Žiadne uložené súbory cookie alebo história prehliadania z vášho počítača. Prehliadajte tak, aby sa nikto nepozeral.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Pomôžte predchádzať nevyžiadanej pošte vo vašej e‑mailovej schránke pomocou e‑mailových masiek
+about-private-browsing-relay-promo-title = Skryte svoju skutočnú adresu pomocou e‑mailovej masky pri registráciách, nakupovaní alebo zdieľaní online.
+about-private-browsing-relay-promo-link-text = Vyskúšajte e‑mailové masky
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

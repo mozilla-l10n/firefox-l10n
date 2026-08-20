@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Prihlásiť sa do aplikácie { -brand-product-name }
 appmenuitem-fxa-manage-account = Spravovať účet
 fxa-menu-sync-status-on = Synchronizácia je zapnutá
 fxa-menu-sync-status-off = Synchronizácia je vypnutá
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Synchronizovať moje údaje
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Vaše údaje sa nesynchronizujú
@@ -394,6 +397,9 @@ appmenuitem-relay-title-signed-in = Zobraziť masky e‑mailov
 appmenuitem-relay-description = Zamaskujte svoju skutočnú e‑mailovú adresu a telefónne číslo
 appmenuitem-services-relay-description = Spustiť informačný panel e‑mailových masiek
 appmenuitem-vpn-title2 = Skryte svoju polohu pomocou { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Získajte dodatočnú ochranu naprieč zariadeniami
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Stiahnuť { -mozilla-vpn-brand-name(case: "acc") }
 appmenuitem-vpn-description3 = Sťažte sledovanie vášho prehliadania
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Získajte ochranu celého zariadenia
