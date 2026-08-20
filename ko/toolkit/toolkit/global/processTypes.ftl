@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = 유틸리티 Media Foundation Engin
 process-type-utility-actor-js-oracle = 유틸리티 JavaScript 오라클
 process-type-utility-actor-windows-utils = 유틸리티 Windows Utils
 process-type-utility-actor-windows-file-dialog = 유틸리티 Windows 파일 대화상자
+process-type-utility-actor-hw-inference = 유틸리티 하드웨어 가속 추론
 
 ##
 ## Other

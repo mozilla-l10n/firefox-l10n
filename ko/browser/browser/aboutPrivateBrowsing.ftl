@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = 쿠키나 기록이 저장되지 않습니다. 아무도 보고 있지 않은 것처럼 탐색하세요.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = 이메일 가리기로 받은 편지함의 스팸을 방지해 보세요
+about-private-browsing-relay-promo-title = 웹 사이트에 가입하거나 쇼핑할 때, 또는 온라인에 이메일을 공유할 때 이메일 가리기로 실제 주소를 숨기세요.
+about-private-browsing-relay-promo-link-text = 이메일 가리기를 사용해 보세요
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

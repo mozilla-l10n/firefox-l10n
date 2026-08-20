@@ -1250,6 +1250,18 @@ containers-settings-button2 =
     .title = 설정
 containers-remove-button3 =
     .title = 삭제
+containers-sites-card-header =
+    .label = 사이트별 컨테이너
+    .description = 사이트의 컨테이너를 선택하면 { -brand-short-name }에서 해당 사이트를 열 때마다 이 컨테이너를 항상 사용합니다.
+containers-sites-add-button =
+    .label = 웹 사이트 추가
+    .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = { $site }의 컨테이너
+containers-site-remove-button =
+    .title = 삭제
 containers-remove-button2 =
     .title = 제거
 

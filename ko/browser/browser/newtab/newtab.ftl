@@ -360,6 +360,20 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = 검색 결과
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = 뒤로
+    .aria-label = 뒤로
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = “{ $query }”에 대한 검색 결과 없음
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = 로딩 중…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = 검색할 수 없습니다. 나중에 다시 시도하세요.
 
 ## Strings for the Picture of the Day widget
 

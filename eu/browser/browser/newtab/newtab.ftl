@@ -352,6 +352,36 @@ newtab-stocks-ticker-status-down = { $name }, { $change } behera, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, aldaketarik ez, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = Gehitu { $name } jarraipen-zerrendan
+    .aria-label = Gehitu { $name } jarraipen-zerrendan
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = Kendu { $name } jarraipen-zerrendatik
+    .aria-label = Kendu { $name } jarraipen-zerrendatik
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } zure jarraipen-zerrendan dago
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } jarraipen-zerrendan gehituta
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } jarraipen-zerrendatik kenduta
+
 ## Stocks widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.
