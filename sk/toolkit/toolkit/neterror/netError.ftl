@@ -34,6 +34,43 @@ neterror-view-certificate-link = Zobraziť certifikát
 neterror-trr-continue-this-time = Tentoraz pokračovať
 neterror-disable-native-feedback-warning = Vždy pokračovať
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = Táto stránka je nedostupná
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Nepodarilo sa pripojiť k serveru na adrese { $domain }.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Vyskúšajte tieto kroky:
+neterror-search-cta-hint-check-address = Skontrolujte adresu webovej stránky
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Vyhľadajte stránku na webe
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Vyhľadajte na webe výraz <strong>“{ $query }”</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Hľadať
+    .accesskey = H
+    .tooltiptext = Otvorí výsledky vyhľadávania na novej karte
+neterror-search-cta-reload-button =
+    .label = Obnoviť
+    .accesskey = O
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Načítava sa
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Zdá sa, že ste offline. Znova sa pripojte a skúste to znova.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Kód chyby: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Ďalšie informácie
+
 ##
 
 neterror-pref-reset = Zdá sa, že príčinou môžu byť vaše nastavenia zabezpečenia internetu. Chceli by ste obnoviť predvolené nastavenia?

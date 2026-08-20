@@ -19,3 +19,19 @@ share-panel-os-share =
     .label = Zdieľať pomocou…
 share-panel-mail =
     .label = Odoslať e‑mail
+share-panel-screenshot =
+    .label = Urobiť snímku obrazovky
+share-panel-qr-code =
+    .label = Zdieľať QR kód
+# This string is shown when the user has more than 1 device signed in to their account.
+# Clicking this will bring them to a subview where all of their devices are listed.
+share-panel-send-to-device =
+    .label = Odoslať do zariadenia
+# This string is shown when the user has no other devices signed in to their account.
+# Clicking this will bring them to a place where they can connect other devices.
+share-panel-send-to-mobile =
+    .label = Odoslať do mobilu
+share-panel-device-subview =
+    .title = Všetky zariadenia
+share-panel-os-share-subview =
+    .title = Zdieľať pomocou…
