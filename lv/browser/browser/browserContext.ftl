@@ -316,7 +316,7 @@ main-context-menu-use-saved-password =
 ##
 
 main-context-menu-use-relay-mask =
-    .label = Izmantot { -relay-brand-short-name } e-pasta masku
+    .label = Izmantot { -relay-brand-short-name } e-pasta aizsegu
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Ieteikt spēcīgu paroli…

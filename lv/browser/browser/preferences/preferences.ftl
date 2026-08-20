@@ -893,6 +893,18 @@ containers-add-button2 =
 containers-external-links-check =
     .label = Neizmantot konteinerus saitēm, kas atvērtas no ārējām lietotnēm
     .accesskey = N
+containers-sites-card-header =
+    .label = Vietnēm atbilstoši konteineri
+    .description = Izvēlies vietnei konteineru, un { -brand-short-name } izmantos to katru reizi, kad tiks atvērta vietne!
+containers-sites-add-button =
+    .label = Pievienot tīmekļvietni
+    .accesskey = t
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = { $site } konteiners
+containers-site-remove-button =
+    .title = Izdzēst
 
 ## Account and sync
 

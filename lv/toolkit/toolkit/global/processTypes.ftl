@@ -37,6 +37,7 @@ process-type-gpu = GPU
 process-type-socket = Ligzda
 # process used to decode media
 process-type-rdd = RDD
+process-type-utility-actor-hw-inference = Aparatūras paātrināts rīku izvedums
 
 ##
 ## Other

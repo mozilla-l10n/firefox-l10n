@@ -1542,10 +1542,10 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-to-use-relay = Mūsu drošās, ērti lietojamās maskas aizsargā jūsu identitāti un novērš mēstules, slēpjot jūsu e-pasta adresi.
+firefox-relay-offer-why-to-use-relay = Mūsu drošie, vienkārši izmantojamie aizsegi aizsargā Tavu identitāti un novērš mēstules ar e-pasta adreses paslēpšanu.
 # Variables:
 #  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-provides = Visi uz Tavām e-pasta maskām nosūtītie e-pasta ziņojumi tiks pārvirzīti uz <strong>{ $useremail }</strong> (ja vien neizlemsi aizturēt tos).
+firefox-relay-offer-what-relay-provides = Visi uz Taviem e-pasta aizsegiem nosūtītie e-pasta ziņojumi tiks pārvirzīti uz <strong>{ $useremail }</strong> (ja vien neizlemsi aizturēt tos).
 firefox-relay-offer-legal-notice = Noklikšķinot uz “Izmantot e-pasta masku”, jūs piekrītat <label data-l10n-name="tos-url">pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">privātuma paziņojumam </label>.
 firefox-relay-offer-legal-notice-1 = Reģistrējoties un izveidojot e-pasta masku, jūs piekrītat <label data-l10n-name="tos-url">Pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">Paziņojumam par privātumu</label>.
 
