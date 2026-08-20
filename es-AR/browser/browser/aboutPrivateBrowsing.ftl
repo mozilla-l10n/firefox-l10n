@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Sin cookies guardadas ni historial, directamente desde tu escritorio. Navegá como si nadie te estuviera mirando.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Ayude a prevenir el spam en la bandeja de entrada con máscaras de correo electrónico
+about-private-browsing-relay-promo-title = Oculte su dirección real con una máscara de correo electrónico cuando se registre, compre o comparta en línea.
+about-private-browsing-relay-promo-link-text = Pruebe máscaras de correo electrónico
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
