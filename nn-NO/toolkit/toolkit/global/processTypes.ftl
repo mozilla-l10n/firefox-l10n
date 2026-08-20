@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Verktøy Media Foundation Engine
 process-type-utility-actor-js-oracle = Verktøy JavaScript Oracle
 process-type-utility-actor-windows-utils = Verktøy Windows Utils
 process-type-utility-actor-windows-file-dialog = Verktøy Windows fildialogvindauge
+process-type-utility-actor-hw-inference = Verktøy for maskinvareakselerert inferens
 
 ##
 ## Other
