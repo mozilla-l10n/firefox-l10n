@@ -352,6 +352,36 @@ newtab-stocks-ticker-status-down = { $name }, { $change } ਘਟੇ, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, { $change } ਤਬਦੀਲੀ ਨਹੀ, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚ ਜੋੜੋ
+    .aria-label = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚ ਜੋੜੋ
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਓ
+    .aria-label = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਓ
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } ਤੁਹਾਡੀ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚ ਹੈ
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ
+
 ## Stocks widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.
@@ -374,6 +404,8 @@ newtab-stocks-search-back-button =
 newtab-stocks-search-no-results = “{ $query }” ਲਈ ਕੋਈ ਖੋਜ ਨਤੀਜੇ ਨਹੀਂ ਹਨ
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = …ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = ਹੁਣ ਲੱਭਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਿਓ।
 
 ## Strings for the Picture of the Day widget
 

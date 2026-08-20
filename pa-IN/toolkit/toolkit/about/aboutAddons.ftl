@@ -617,12 +617,18 @@ mlmodel-addon-detail-model-card-link-label = Hugging Face ਉੱਤੇ ਵੇਖ
 ## install. In the message, "tools" refers to Firefox extensions and
 ## "styles" refers to Firefox themes.
 
+find-more-addons-promo =
+    .heading = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਮੁਤਾਬਕ ਬਣਾਓ
+    .message = ਆਪਣੀਆਂ ਲੋੜਾਂ ਮੁਤਾਬਕ ਟੂਲਾਂ ਅਤੇ ਸਟਾਈਲ ਜੋੜੋ।
 find-more-addons-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ Dਤੇ ਥੀਮ ਲੱਭੋ
 
 ## Promo footer shown in the about:addons extensions list view when
 ## Project Nova styles are enabled.
 ## In the message, "tools" refers to Firefox extensions.
 
+find-more-extensions-promo =
+    .heading = ਆਪਣੀ ਪਸੰਦੀਦਾ ਇਕਸਟੈਨਸ਼ਨ ਲੱਭੋ
+    .message = ਫੋਕਸ, ਪਰਦੇਦਾਰੀ, ਖਰੀਦਦਾਰੀ ਅਤੇ ਹੋਰ ਕੰਮ ਲਈ ਟੂਲਾਂ ਨਾਲ { -brand-product-name } ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ।
 find-more-extensions-promo-open-amo-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਪੜਤਾਲ ਕਰੋ
 
 ## Promo shown in about:addons extensions list view when no extension is yet installed

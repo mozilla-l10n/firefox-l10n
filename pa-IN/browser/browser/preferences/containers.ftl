@@ -113,6 +113,9 @@ containers-site-container-label =
 containers-site-dialog =
     .buttonlabelaccept = ਸੰਭਾਲੋ
     .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = ਵਾਜਬ, ਸੁਰੱਖਿਅਤ ਵੈੱਬਸਾਈਟ ਦਿਓ
 # Shown below the website field when the typed website is already bound to a
 # container.
 containers-site-duplicate-error = ਇਹ ਵੈੱਬਸਾਈਟ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਸੂਚੀ ਵਿੱਚ ਹੈ
