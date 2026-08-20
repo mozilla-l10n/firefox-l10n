@@ -100,16 +100,23 @@ aiwindow-firstrun-model-title = ਤੁਹਾਡੇ ਲਈ ਕੀ ਜ਼ਰੂਰੀ
 aiwindow-firstrun-model-subtitle = { -smart-window-brand-name } ਨੂੰ ਚਲਾਉਣ ਲਈ ਕਿਸੇ ਮਾਡਲ ਨੂੰ ਚੁਣੋ। ਕਿਸੇ ਵੀ ਸਮੇਂ ਬਦਲ ਦਿਓ।
 aiwindow-firstrun-model-fast-label = ਤੇਜ਼
 aiwindow-firstrun-model-fast-body = ਫ਼ੌਰਨ ਜਵਾਬ ਦਿਓ
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = ਤੇਜ਼: { $shortName }
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-chip-subtitle = { $ownerName } ਵਲੋਂ { $model } ਮਾਡਲ
 aiwindow-firstrun-model-allpurpose-label = ਲਚਕਦਾਰ
 aiwindow-firstrun-model-allpurpose-body = ਬਹੁਤੀਆਂ ਲੋੜਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = ਲਚਕੀਲਾ: { $shortName }
+aiwindow-firstrun-model-flexible-body = ਕਈ ਕੰਮਾਂ ਲਈ ਤਿਆਰ
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = ਸਿਫ਼ਾਰਸ਼ੀ
 aiwindow-firstrun-model-personal-label = ਨਿੱਜੀ
 aiwindow-firstrun-model-personal-body = ਸਭ ਤੋਂ ਵੱਧ ਢੁੱਕਵੇਂ ਜਵਾਬ
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = ਨਿੱਜੀ: { $shortName }
 aiwindow-firstrun-button = ਆਓ ਚੱਲੀਏ
 aiwindow-firstrun-back-button = ਪਿੱਛੇ
 aiwindow-firstrun-next-button = ਅੱਗੇ
