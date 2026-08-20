@@ -1274,6 +1274,18 @@ containers-settings-button2 =
     .title = Nastajenja
 containers-remove-button3 =
     .title = Zhašeć
+containers-sites-card-header =
+    .label = Za sydło specifiske kontejnery
+    .description = Wubjerće kontejner za sydło a { -brand-short-name } budźe jón kóždy raz wužiwać, hdyž so sydło wočinja.
+containers-sites-add-button =
+    .label = Websydło přidać
+    .accesskey = W
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Kontejner za { $site }
+containers-site-remove-button =
+    .title = Zhašeć
 containers-remove-button2 =
     .title = Wotstronić
 

@@ -377,6 +377,51 @@ newtab-stocks-ticker-status-flat = { $name }, žana změna, { $change }, { $pric
 newtab-stocks-add-to-watchlist =
     .title = Lisćinje wobkedźbowanjow { $name } přidać
     .aria-label = Lisćinje wobkedźbowanjow { $name } přidać
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = { $name } z lisćiny wobkedźbowanjow wotstronić
+    .aria-label = { $name } z lisćiny wobkedźbowanjow wotstronić
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } je we wašej lisćinje wobkedźbowanjow
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } je so lisćinje wobkedźbowanjow přidate.
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } je so z lisćiny wobkedźbowanjow wotstronjene.
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Po mjenje abo symbolu pytać
+    .placeholder = Po mjenje abo symbolu pytać
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Pytanske wuslědki
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Wróćo
+    .aria-label = Wróćo
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Žane wuslědki za „{ $query }“
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Začituje so…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Pytanje tuchwilu móžne njeje. Spytajće pozdźišo hišće raz.
 
 ## Strings for the Picture of the Day widget
 
