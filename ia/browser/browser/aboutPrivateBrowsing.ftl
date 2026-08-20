@@ -64,6 +64,8 @@ about-private-browsing-pin-promo-title = Nulle cookies o chronologia salvate, di
 ## Strings used in a promotion message for Firefox Relay
 
 about-private-browsing-relay-promo-header = Adjuta impedir le spam del cassa de entrata con le mascas de e-mail
+about-private-browsing-relay-promo-title = Cela tu adresse real con un masca de e-mail quando tu te inscribe, compra, o lo condivide online.
+about-private-browsing-relay-promo-link-text = Essaya le mascas de e-mail
 
 ## Strings used in a promotion message for cookie banner reduction
 
