@@ -47,6 +47,11 @@ neterror-search-cta-things-to-try = Eiporu ko’ã jeku’e:
 neterror-search-cta-hint-check-address = Ehechajey ñanduti rogue kundaharape
 # Shown when no Search button is offered, so no specific query can be named.
 neterror-search-cta-hint-search = Eheka ñandutípe ejuhu hag̃ua tenda
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Eheka ñandutípe <strong>“{ $query }”</strong>
 # .tooltiptext doubles as the button's accessible description, so it explains
 # that results open in a new tab.
 neterror-search-cta-search-button =
@@ -101,6 +106,7 @@ neterror-dns-not-found-hint-try-again = Eha’ã jey ag̃ave
 neterror-dns-not-found-hint-check-network = Ehechajey og̃uahẽ porãpa ñanduti
 neterror-dns-not-found-hint-firewall = Ehechajey { -brand-short-name } oguerekópa ñemoneĩ oike hag̃ua ñandutípe (ikatuhína oike firewall rapykuéguivo)
 neterror-dns-not-found-hint-check-network-2 = Ehechajey og̃uahẽ porãpa ñanduti.
+neterror-dns-not-found-hint-firewall-2 = Ehechajey { -brand-short-name } oguerekópa ñemoneĩ oike hag̃ua ñandutípe (ikatuhína oike firewall rapykuéguivo)
 neterror-dns-not-found-offline-hint-header = <strong>¿Mba’épa ejapóta upévare?</strong>
 neterror-dns-not-found-offline-hint-different-device = Eñeha’ã eike ambue mba’e’okápe.
 neterror-dns-not-found-offline-hint-modem = Ehechajey ne módem térã mbojuajuha.
