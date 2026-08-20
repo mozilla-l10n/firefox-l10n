@@ -328,6 +328,12 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aksjar
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Overvakingsliste
+    .label = Overvakingsliste
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Søk etter namn eller symbol
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -342,8 +348,42 @@ newtab-stocks-ticker-status-down = { $name }, ned { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, inga endring, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = Legg til { $name } i overvakningslista
+    .aria-label = Legg til { $name } i overvakningslista
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = Fjern { $name } frå overvakingslista
+    .aria-label = Fjern { $name } frå overvakingslista
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } er på overvakingslista di
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = La til { $name } i overvakingslista
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Fjerna { $name } frå overvakingslista
+
 ## Stocks widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Søk etter namn eller symbol
+    .placeholder = Søk etter namn eller symbol
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
@@ -360,6 +400,8 @@ newtab-stocks-search-back-button =
 newtab-stocks-search-no-results = Ingen resultat for «{ $query }»
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Lastar…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Klarte ikkje å søkje akkurat no. prøv igjen seinare.
 
 ## Strings for the Picture of the Day widget
 
