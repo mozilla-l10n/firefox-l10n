@@ -9,7 +9,7 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 firefox-relay-mask-generation-failed = { -relay-brand-name } kunne ikke generere en ny maske. HTTP-feilkode: { $status }.
-firefox-relay-get-reusable-masks-failed = { -relay-brand-name } kunne ikke finne gjenbrukbare masker. HTTP-feilkode: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } fant ikke gjenbrukbare masker. HTTP-feilkode: { $status }.
 
 ##
 
