@@ -1275,7 +1275,7 @@ containers-sites-add-button =
 # The dropdown that picks which container a site opens in.
 # Variables:
 #   $site (string) - Domain of the website, for example “example.com”.
-containers-site-container-select = Container pour { $site }
+containers-site-container-select = Conteneur pour { $site }
 containers-site-remove-button =
     .title = Supprimer
 containers-remove-button2 =
