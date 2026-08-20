@@ -1268,6 +1268,9 @@ containers-settings-button2 =
     .title = Nastajenja
 containers-remove-button3 =
     .title = Lašowaś
+containers-sites-add-button =
+    .label = Websedło pśidaś
+    .accesskey = W
 containers-remove-button2 =
     .title = Wótwónoźeś
 

@@ -358,6 +358,25 @@ newtab-stocks-ticker-status-down = { $name }, spadnjona wó { $change }, { $pric
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, žedna změna, { $change }, { $price }
 
+## Stocks widget ticker search
+
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Pytańske wuslědki
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Slědk
+    .aria-label = Slědk
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Žedne wuslědki za „{ $query }“
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Zacytujo se…
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
