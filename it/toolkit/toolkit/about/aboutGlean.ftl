@@ -80,7 +80,7 @@ about-glean-feedback-settings-and-ping =
 about-glean-about-data-header = Informazioni sui dati
 about-glean-about-data-description = Esistono diversi strumenti che puoi utilizzare per visualizzare i tuoi dati, a seconda di ciò che stai cercando.
 about-glean-about-data-description-list-intro = Fare riferimento all’elenco seguente per casi d’uso specifici per ciascuno strumento:
-about-glean-about-data-list-item-dictionary = Per consultare l’elenco dei dati raccolti da { -glean-brand-name } per applicazione, fare riferimento al <a data-l10n-name="glean-dictionary-link">Dizionario { -glean-brand-name }</a >.
+about-glean-about-data-list-item-dictionary = Per consultare l’elenco dei dati raccolti da { -glean-brand-name } per applicazione, fare riferimento al <a data-l10n-name="glean-dictionary-link">Dizionario { -glean-brand-name }</a>.
 about-glean-about-data-list-item-about-telemetry = Per consultare i dati raccolti dalla telemetria legacy, fare riferimento a <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer = Per consultare i tag di debug, visualizzare i ping completi, seguire in diretta lo streaming di un evento o esaminare le visualizzazioni delle metriche, fare riferimento al <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Per registrare un profilo delle prestazioni e visualizzare tutte le metriche registrate, utilizzare <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
