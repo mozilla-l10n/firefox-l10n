@@ -333,6 +333,39 @@ newtab-stocks-remove-from-watchlist =
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-in-watchlist = { $name } oĩ tapykuehoha rysýipe
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = Ojuaju { $name } tapykuehoha rysýire
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Oñemmbogue { $name } tapykuehoha rysýigui
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Eheka téra térã ta’ãnga’i rupi
+    .placeholder = Eheka téra térã ta’ãnga’i rupi
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Jehekaha rembiapokue
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Tapykue
+    .aria-label = Tapykue
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Ndaipóri “{ $query }” rapykuere
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Henyhẽhína…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Ndaikatúi eheka ko’ág̃a. Eha’ã jey ag̃ave.
 
 ## Strings for the Picture of the Day widget
 

@@ -350,8 +350,42 @@ newtab-stocks-ticker-status-down = { $name }, { $change } gedaald, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, geen wijziging, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = { $name } aan volglijst toevoegen
+    .aria-label = { $name } aan volglijst toevoegen
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = { $name } van volglijst verwijderen
+    .aria-label = { $name } van volglijst verwijderen
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } staat op uw volglijst
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } aan volglijst toegevoegd
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } van volglijst verwijderd
+
 ## Stocks widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Zoeken op naam of symbool
+    .placeholder = Zoeken op naam of symbool
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
@@ -368,6 +402,8 @@ newtab-stocks-search-back-button =
 newtab-stocks-search-no-results = Geen resultaten voor ‘{ $query }’
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Laden…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Kan momenteel niet zoeken. Probeer het later nogmaals.
 
 ## Strings for the Picture of the Day widget
 

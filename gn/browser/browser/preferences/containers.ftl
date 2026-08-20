@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Ta’ãngachu’i
 containers-color-label2 =
     .label = Sa’y
+containers-dialog2 =
+    .buttonlabelaccept = Ñongatu
+    .buttonaccesskeyaccept = S
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,19 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = { $name } Mba’yru ñemboheko
     .style = min-width: 32em
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Embojuaju ñanduti rogue
+containers-site-label =
+    .label = Ñanduti regue
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Mba’eryru
+containers-site-dialog =
+    .buttonlabelaccept = Ñongatu
+    .buttonaccesskeyaccept = S
 
 ## Container creation panel, anchored to the URL bar.
 
