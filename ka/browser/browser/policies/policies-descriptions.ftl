@@ -75,7 +75,7 @@ policy-DisableThirdPartyModuleBlocking = მომხმარებლისთ
 policy-DisplayBookmarksToolbar = სანიშნების ზოლის გამოჩენა ნაგულისხმევად.
 policy-DisplayMenuBar = მენიუს ზოლის გამოჩენა ნაგულისხმევად.
 policy-DNSOverHTTPS = DNS-ის HTTPS-ით გადაცემის გამართვა.
-policy-DontCheckDefaultBrowser = გაშვებისას, ბრაუზერის ნაგულისხმევობის შემოწმების გათიშვა.
+policy-DontCheckDefaultBrowser = გაშვებისას ბრაუზერის ნაგულისხმეობის შემოწმების გათიშვა.
 policy-DownloadDirectory = ჩამოტვირთვის ნაგულისხმევი საქაღალდის მითითება და ჩაკეტვა.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = შიგთავსის შეზღუდვის ჩართვა ან გამორთვა და დამატებით ამ პარამეტრების ჩაკეტვა.
