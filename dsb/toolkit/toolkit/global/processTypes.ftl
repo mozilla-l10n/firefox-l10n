@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Rěd Media Foundation Engine
 process-type-utility-actor-js-oracle = Rěd JavaScript Oracle
 process-type-utility-actor-windows-utils = Rěd Windows Utils
 process-type-utility-actor-windows-file-dialog = Rěd Windows File Dialog
+process-type-utility-actor-hw-inference = Rěd Pśez hardware póspěšona inferenca
 
 ##
 ## Other

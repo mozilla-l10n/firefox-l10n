@@ -61,6 +61,10 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Žedne skłaźone cookieje abo žedna historija, direktnje z wašogo desktopa. Pśeglědujśo ako njeby was nichten wobglědował.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-link-text = E-mejlowe maski wopytaś
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

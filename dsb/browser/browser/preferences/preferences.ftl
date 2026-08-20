@@ -1271,6 +1271,12 @@ containers-remove-button3 =
 containers-sites-add-button =
     .label = Websedło pśidaś
     .accesskey = W
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Kontejner za { $site }
+containers-site-remove-button =
+    .title = Lašowaś
 containers-remove-button2 =
     .title = Wótwónoźeś
 

@@ -344,6 +344,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akcije
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Wiki
+    .label = Wiki
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Lisćina wobglědowanjow
+    .label = Lisćina wobglědowanjow
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Pó mjenju abo symbolu pytaś
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -358,8 +368,34 @@ newtab-stocks-ticker-status-down = { $name }, spadnjona wó { $change }, { $pric
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, žedna změna, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = Lisćinje wobglědowanjow { $name } pśidaś
+    .aria-label = Lisćinje wobglědowanjow { $name } pśidaś
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = { $name } z lisćiny wobglědowanjow wótwónoźeś
+    .aria-label = { $name } z lisćiny wobglědowanjow wótwónoźeś
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } jo we wašej lisćinje wobglědowanjow
+
 ## Stocks widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Pó mjenju abo symbolu pytaś
+    .placeholder = Pó mjenju abo symbolu pytaś
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =

@@ -65,7 +65,7 @@ about-private-browsing-pin-promo-title = Žane składowane placki abo žana hist
 
 about-private-browsing-relay-promo-header = Škitajće póstowy dochad z e-mejlowymi maskami před spamom
 about-private-browsing-relay-promo-title = Schowajće swoju woprawdźitu adresu z e-mejlowej masku, hdyž so registrujeće, nakupujeće abo ju online dźěliće.
-about-private-browsing-relay-promo-link-text = E-mejlowu masku wupruwować
+about-private-browsing-relay-promo-link-text = E-mejlowe maski wupruwować
 
 ## Strings used in a promotion message for cookie banner reduction
 
