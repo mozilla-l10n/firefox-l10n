@@ -103,6 +103,11 @@ containers-window-update-settings3 =
 
 ## Dialog that binds a website to a container.
 
+containers-site-window =
+    .title = ਵੈੱਬਸਾਈਟ ਨੂੰ ਜੋੜੋ
+containers-site-label =
+    .label = ਵੈੱਬਸਾਈਟ
+    .placeholder = example.com
 containers-site-container-label =
     .label = ਕਨਟੇਨਰ
 containers-site-dialog =

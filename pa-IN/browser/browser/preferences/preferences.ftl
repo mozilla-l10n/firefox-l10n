@@ -1266,6 +1266,9 @@ containers-settings-button2 =
     .title = ਸੈਟਿੰਗਾਂ
 containers-remove-button3 =
     .title = ਹਟਾਓ
+containers-sites-add-button =
+    .label = ਵੈੱਬਸਾਈਟ ਨੂੰ ਜੋੜੋ
+    .accesskey = w
 containers-remove-button2 =
     .title = ਹਟਾਓ
 
