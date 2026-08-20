@@ -328,6 +328,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akzioak
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Merkatuak
+    .label = Merkatuak
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Jarraipen-zerrenda
+    .label = Jarraipen-zerrenda
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Bilatu izen edo sinboloaren arabera
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -341,6 +351,31 @@ newtab-stocks-ticker-status-up = { $name }, { $change } gora, { $price }
 newtab-stocks-ticker-status-down = { $name }, { $change } behera, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, aldaketarik ez, { $change }, { $price }
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Bilatu izen edo sinboloaren arabera
+    .placeholder = Bilatu izen edo sinboloaren arabera
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Bilaketaren emaitzak
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Atzera
+    .aria-label = Atzera
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Emaitzarik ez "{ $query }" bilaketarako
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Kargatzen…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Ezin da bilatu orain. Saiatu berriro geroago.
 
 ## Strings for the Picture of the Day widget
 

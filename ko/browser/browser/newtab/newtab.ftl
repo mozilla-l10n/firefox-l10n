@@ -336,6 +336,30 @@ newtab-stocks-add-to-watchlist =
 newtab-stocks-remove-from-watchlist =
     .title = 관심 종목에서 { $name } 제거
     .aria-label = 관심 종목에서 { $name } 제거
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } 항목이 관심 종목에 있음
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = 관심 종목에 { $name } 추가됨
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = 관심 종목에서 { $name } 제거됨
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = 이름 또는 기호로 검색
+    .placeholder = 이름 또는 기호로 검색
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = 검색 결과
 
 ## Strings for the Picture of the Day widget
 

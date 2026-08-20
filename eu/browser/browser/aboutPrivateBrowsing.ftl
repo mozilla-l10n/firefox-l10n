@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Gordetako cookie edo historiarik ez. Nabigatu inor begira ez balego bezala.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Lagundu sarrera-ontziko spama eragozten posta-maskarekin
+about-private-browsing-relay-promo-title = Ezkutatu zure benetako helbidea posta-maskara bat erabiliz erregistratzean, erosketak egitean edo online partekatzean.
+about-private-browsing-relay-promo-link-text = Probatu posta-maskarak
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
