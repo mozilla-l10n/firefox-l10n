@@ -56,6 +56,7 @@ smartbar-placeholder =
     .placeholder = Tik'utüx, tikanöx o titz'ib'äx jun URL
 smartbar-placeholder-hint-1 = Tokisäx @ richin yenatäx taq ruwi' etz'eton…
 smartbar-placeholder-hint-2 = Tik'utüx xab'achike…
+smartbar-placeholder-hint-3 = Tatz'ib'aj rochochib'al ajk'am taqoya'l…
 smartbar-placeholder-hint-4 = Tikanöx pan ajk'am…
 
 ## Mentions
@@ -81,6 +82,9 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Ütz apetik pa { -smart-window-brand-name }
 aiwindow-firstrun-model-title = ¿Atux ri k'atzinel chawe?
+aiwindow-firstrun-model-fast-label = Anin
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Anin: { $shortName }
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Chilab'en
 aiwindow-firstrun-model-personal-label = Awichin
@@ -92,12 +96,17 @@ aiwindow-firstrun-next-button = Jun chik
 
 ## These are labels describing model types in the smartbar model select.
 
+aiwindow-input-model-select-button-label-fast = Anin
 aiwindow-input-model-select-button-label-personal = Awichin
 aiwindow-input-model-select-button-label-custom = Ichinan
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-privacy-title = Ichinan ruma wachib'enïk
 
 ## Ask Toolbar Button
 
@@ -231,6 +240,7 @@ smart-window-default-promo-additional-button = Wakami mani
 
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Tikomonïx na'oj
 aiwindow-feedback-submit = Titaq
 aiwindow-feedback-cancel = Tiq'at
 aiwindow-feedback-reason-other = Juley chik

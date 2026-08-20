@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count =
+    { $tags ->
+        [one] { $tags } Yaketal
+       *[other] { $tags } Taq yaketal
+    }
+
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = K'o man xel ta ütz. Tatojtob'ej chik.
@@ -46,6 +56,8 @@ smart-window-confirm-group-tabs =
         [one] Molaj { $count } ruwi'
        *[other] Molaj { $count } taq ruwi'
     }
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Tijaq
 # Action result labels for grouped tabs
 # Variables
 #   $count (number) - Number of tabs grouped
@@ -54,7 +66,11 @@ smart-window-grouped-tabs-label =
         [one] Tzob'ajin { $count } ruwi'
        *[other] Etzob'ajin { $count } taq ruwi'
     }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Molaj taq ruwi'
 smart-window-grouped-tabs-row-label = Tzob'ajin taq ruwi'
+smart-window-opened-tabs-row-label = Xejaq taq ruwi'
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Metzob'ajin taq ruwi'
 

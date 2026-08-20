@@ -131,6 +131,11 @@ appmenu-fxa-last-sync = Ruk'isib'äl ximoj { $time }
     .label = Ruk'isib'äl ximoj { $time }
 appmenu-fxa-sync-and-save-data2 = Tixim chuqa' Tiyak Tzij
 appmenu-fxa-signed-in-label = Titikirisäx Molojri'ïl
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Tatikirisaj molojri'ïl pa yaximon
+appmenu-fxa-sign-in-promo-button =
+    .label = Titikirisäx molojri'ïl
 appmenu-fxa-setup-sync =
     .label = Titzij Ximoj…
 appmenu-fxa-setup-sync-new = Titzij

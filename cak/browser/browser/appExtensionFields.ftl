@@ -15,6 +15,22 @@ extension-firefox-compact-dark-description = Jun wachinel rik'in jun q'equ'm ruc
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Tokisäx jeb'ejöj tzub'al pa taq pitz'b'äl, taq k'utsamaj chuqa' pa taq ruwi'.
 
+## Theme labels
+## These are short, evocative names for color themes in Firefox. Each name
+## suggests a color through nature or fire imagery rather than naming the color
+## directly. Where possible, choose a word that evokes the same imagery or color
+## association in the target language. If no equivalent exists, prioritize color
+## clarity. One word, 11 characters or fewer.
+
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+extension-nova-sun-name = Q'ij
+# Name for a warm orange theme. Refers to a small burst of fire.
+extension-nova-spark-name = Rukis q'aq'
+# Name for a red-orange theme. Refers to the color of fire.
+extension-nova-flame-name = Ruxaq q'aq'
+# Name for a bright pink theme. Refers to a burst of light or fire.
+extension-nova-flare-name = Ruyuk'umal
+
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
 ## $colorway-name variable.
