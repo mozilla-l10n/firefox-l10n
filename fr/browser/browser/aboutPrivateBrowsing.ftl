@@ -63,8 +63,8 @@ about-private-browsing-pin-promo-title = Aucun cookie ni historique enregistré.
 
 ## Strings used in a promotion message for Firefox Relay
 
-about-private-browsing-relay-promo-header = Aidez à prévenir le spam dans la boîte de réception avec des alias de messagerie
-about-private-browsing-relay-promo-title = Masquez votre véritable adresse avec un alias de messagerie lorsque vous vous inscrivez, achetez ou partagez en ligne.
+about-private-browsing-relay-promo-header = Limitez les courriers indésirables grâce aux alias de messagerie
+about-private-browsing-relay-promo-title = Masquez votre véritable adresse avec un alias de messagerie lorsque vous vous inscrivez, faites des achats ou communiquez votre adresse en ligne.
 about-private-browsing-relay-promo-link-text = Essayer les alias de messagerie
 
 ## Strings used in a promotion message for cookie banner reduction

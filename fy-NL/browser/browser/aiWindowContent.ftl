@@ -170,10 +170,10 @@ smart-window-opened-tabs-summary-group =
     }
 smart-window-opened-tabs-row-label = Iepene ljeplêden
 # Action result labels for switching to a single already-open tab
-smart-window-switched-tab-label = Wiksele ljepblêden
+smart-window-switched-tab-label = Fan ljepblêd wiksele
 # Variables
 #   $title (String) - Title of the tab switched to
-smart-window-switched-tab-summary = Wiksele nei ‘{ $title }’.
+smart-window-switched-tab-summary = Oerskeakele nei ‘{ $title }’.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Groepearring fan ljepblêden ûngedien makke
 # Variables

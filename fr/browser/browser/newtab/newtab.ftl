@@ -330,14 +330,14 @@ newtab-stocks-widget-menu-button =
 newtab-stocks-widget-title = Actions
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
-newtab-stocks-list-markets = Markets
-    .label = Markets
+newtab-stocks-list-markets = Marchés
+    .label = Marchés
 # "Watchlist" is the user's list of stocks to follow. The value is shown in the
 # menu, and .label is shown on the button that opens it.
 newtab-stocks-list-watchlist = Liste de suivi
     .label = Liste de suivi
 # Context menu item that opens the stock search (by company name or ticker symbol).
-newtab-stocks-menu-search-stocks = Recherche par nom ou symbole
+newtab-stocks-menu-search-stocks = Rechercher par nom ou symbole
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
