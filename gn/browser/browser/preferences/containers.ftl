@@ -113,6 +113,12 @@ containers-site-container-label =
 containers-site-dialog =
     .buttonlabelaccept = Ñongatu
     .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Ehai ñanduti rogue oiko ha hekorosãva
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Ko ñanduti rogue oñemoĩma tysýipe
 
 ## Container creation panel, anchored to the URL bar.
 

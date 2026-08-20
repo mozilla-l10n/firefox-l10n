@@ -132,6 +132,7 @@ autofill-address-tel = Pumbyry
 autofill-address-email = Ñandutiveve
 autofill-cancel-button = Heja
 autofill-save-button = Ñongatu
+autofill-country-warning-message-2 = Pe myanyhẽha ijeheguíva ko’ág̃a ikatu ojepuru ndahetái tetãme.
 autofill-country-warning-message = Pe myanyhẽha ijeheguíva ko’ág̃a ikatu ojeporu ndahetái tetãme.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Embojoaju kuatia’atã ñemurã pyahu

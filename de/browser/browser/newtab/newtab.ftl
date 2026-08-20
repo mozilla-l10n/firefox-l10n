@@ -336,6 +336,8 @@ newtab-stocks-list-markets = Märkte
 # menu, and .label is shown on the button that opens it.
 newtab-stocks-list-watchlist = Beobachtungsliste
     .label = Beobachtungsliste
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Nach Namen oder Symbol suchen
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:

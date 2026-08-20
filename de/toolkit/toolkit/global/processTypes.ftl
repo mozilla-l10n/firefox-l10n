@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Dienstprogramm Media Foundation Eng
 process-type-utility-actor-js-oracle = Dienstprogramm JavaScript Oracle
 process-type-utility-actor-windows-utils = Dienstprogramm Windows-Dienstprogramme
 process-type-utility-actor-windows-file-dialog = Dienstprogramm Windows-Dateidialog
+process-type-utility-actor-hw-inference = Dienstprogramm Hardware-beschleunigte Inferenz
 
 ##
 ## Other

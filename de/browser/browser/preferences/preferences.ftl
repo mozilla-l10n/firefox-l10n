@@ -1266,6 +1266,18 @@ containers-settings-button2 =
     .title = Einstellungen
 containers-remove-button3 =
     .title = Löschen
+containers-sites-card-header =
+    .label = Seitenspezifische Umgebungen
+    .description = Wählen Sie eine Tab-Umgebung für eine Website und { -brand-short-name } verwendet ihn jedes Mal, wenn die Website geöffnet wird.
+containers-sites-add-button =
+    .label = Website hinzufügen
+    .accesskey = W
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Tab-Umgebung für { $site }
+containers-site-remove-button =
+    .title = Löschen
 containers-remove-button2 =
     .title = Entfernen
 
