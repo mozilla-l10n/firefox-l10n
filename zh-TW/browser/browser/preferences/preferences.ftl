@@ -1254,6 +1254,18 @@ containers-settings-button2 =
     .title = 設定
 containers-remove-button3 =
     .title = 刪除
+containers-sites-card-header =
+    .label = 特定網站容器
+    .description = 為特定網站選擇容器，{ -brand-short-name } 就會使用該容器開啟該網站。
+containers-sites-add-button =
+    .label = 新增網站
+    .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = { $site } 的容器
+containers-site-remove-button =
+    .title = 刪除
 containers-remove-button2 =
     .title = 移除
 

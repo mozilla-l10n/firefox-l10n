@@ -143,6 +143,7 @@ about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Windows Utils
 about-processes-utility-actor-windows-file-dialog = Windows 檔案對話框
 about-processes-utility-actor-pkcs11-module = 安全性模組輔助器
+about-processes-utility-actor-hw-inference = 硬體加速推論
 
 ## Displaying CPU (percentage and total)
 ## Variables:

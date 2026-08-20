@@ -63,6 +63,8 @@ about-private-browsing-pin-promo-title = 不留下任何 Cookie 與瀏覽紀錄�
 
 ## Strings used in a promotion message for Firefox Relay
 
+about-private-browsing-relay-promo-header = 使用轉寄信箱功能幫助防止收到垃圾信
+about-private-browsing-relay-promo-title = 使用轉寄信箱註冊帳號、線上購物，或提供給其他網站，隱藏您的實際信箱地址。
 about-private-browsing-relay-promo-link-text = 試用轉寄信箱功能
 
 ## Strings used in a promotion message for cookie banner reduction
