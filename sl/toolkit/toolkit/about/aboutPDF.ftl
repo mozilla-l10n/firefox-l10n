@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Ta vrsta datoteke ni podprta. Izberite datotek
 about-pdf-dropzone-error-generic = Nalaganje ni bilo mogoče. Poskusite znova pozneje.
 about-pdf-browse-files =
     .label = Prebrskaj
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Odpri PDF
 about-pdf-promo =
     .heading = Nastavite { -brand-short-name } za svoj priljubljen urejevalnik PDF
     .message = Odprite datoteke PDF v { -brand-short-name }u in upravljajte osnove na enem mestu – od poudarkov in podpisov do združenih datotek in komentarjev.

@@ -310,6 +310,17 @@ newtab-stocks-ticker-status-down = { $name }, padec za { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, brez sprememb, { $change }, { $price }
 
+## Stocks widget ticker search
+
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Nazaj
+    .aria-label = Nazaj
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Nalaganje …
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.

@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Ikona
 containers-color-label2 =
     .label = Barva
+containers-dialog2 =
+    .buttonlabelaccept = Shrani
+    .buttonaccesskeyaccept = S
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,19 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Nastavitve vsebnika { $name }
     .style = min-width: 32em
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Dodaj spletno mesto
+containers-site-label =
+    .label = Spletno mesto
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Vsebnik
+containers-site-dialog =
+    .buttonlabelaccept = Shrani
+    .buttonaccesskeyaccept = S
 
 ## Container creation panel, anchored to the URL bar.
 
