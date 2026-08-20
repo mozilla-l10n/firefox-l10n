@@ -199,10 +199,22 @@ action-log-reading-page = ਸਫ਼ੇ ਨੂੰ ਪੜ੍ਹਿਆ ਜਾ ਰਿ�
 action-log-read-page = ਸਫ਼ਾ ਸਮੱਗਰੀ ਨੂੰ ਪੜ੍ਹੋ
 action-log-searching-web = ਵੈੱਬ ਨੂੰ ਖੋਜਿਆ ਜਾ ਰਿਹਾ ਹੈ
 action-log-searched-web = ਵੈੱਬ ਉੱਤੇ ਖੋਜਿਆ
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = <a data-l10n-name="exa-link">Exa</a> ਨਾਲ ਵੈੱਬ ਨੂੰ ਖੋਜਿਆ ਜਾ ਰਿਹਾ ਹੈ
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = <a data-l10n-name="exa-link">Exa</a> ਨਾਲ ਵੈੱਬ ਨੂੰ ਖੋਜਿਆ
 action-log-checking-memories = ਯਾਦਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
 action-log-checked-memories = ਯਾਦਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ
 action-log-searching-settings = ਖੋਜ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ
 action-log-searched-settings = ਖੋਜ ਕੀਤੀਆਂ ਸੈਟਿੰਗਾਂ
+action-log-searching-world-cup-matches = ਸੰਸਾਰ ਕੱਪ ਮੈਚਾਂ ਲਈ ਖੋਜ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+action-log-searched-world-cup-matches = ਸੰਸਾਰ ਕੱਪ ਮੈਚਾਂ ਲਈ ਖੋਜ ਕੀਤੀ
+action-log-checking-world-cup-live = ਲਾਈਵ ਸੰਸਾਰ ਕੱਪ ਮੈਚਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+action-log-checked-world-cup-live = ਲਾਈਵ ਸੰਸਾਰ ਕੱਪ ਮੈਚਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =
@@ -217,3 +229,10 @@ action-log-completed-steps =
 # current tab on the user’s behalf. Communicates both that the tab’s content
 # changed and that the assistant is reviewing the results before responding.
 smartwindow-search-loader-text = ਖੋਜ ਨਤੀਜਿਆਂ ਨੂੰ ਇਸ ਟੈਬ ਵਿੱਚ ਲੋਡ ਕੀਤਾ ਹੈ। ਪੜਤਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } ਹੋਰ

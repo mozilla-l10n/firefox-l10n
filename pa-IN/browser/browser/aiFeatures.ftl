@@ -95,3 +95,12 @@ ai-window-delete-all-memories-cancel = ਰੱਦ ਕਰੋ
 ai-window-memory-delete-button =
     .title = ਯਾਦਾਂ ਨੂੰ ਹਟਾਓ
     .aria-label = { $label } ਨੂੰ ਹਟਾਓ
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: ਤੇਜ਼
+    .description = ਜਦੋਂ ਕਾਹਲੀ ਹੋਵੇ ਤਾਂ ਫ਼ੌਰੀ ਜਵਾਬਾਂ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ। ਪੂਰਾ ਨਾਂ: { $ownerName } ਵਲੋਂ { $model }
