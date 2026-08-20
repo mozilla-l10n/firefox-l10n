@@ -152,6 +152,7 @@ about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Windows Utils
 about-processes-utility-actor-windows-file-dialog = Datajowy dialog Windows
 about-processes-utility-actor-pkcs11-module = Pomocnik wěstotneho modula
+about-processes-utility-actor-hw-inference = Přez hardware pospěšena inferenca
 
 ## Displaying CPU (percentage and total)
 ## Variables:

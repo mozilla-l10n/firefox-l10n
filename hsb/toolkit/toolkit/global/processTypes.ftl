@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Nastroj Media Foundation Engine
 process-type-utility-actor-js-oracle = Nastroj JavaScript Oracle
 process-type-utility-actor-windows-utils = Nastroj Windows Utils
 process-type-utility-actor-windows-file-dialog = Nastroj Windows File Dialog
+process-type-utility-actor-hw-inference = Nastroj Přez hardware pospěšne inferenca
 
 ##
 ## Other
