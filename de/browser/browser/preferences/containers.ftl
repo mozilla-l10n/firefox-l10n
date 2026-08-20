@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Symbol
 containers-color-label2 =
     .label = Farbe
+containers-dialog2 =
+    .buttonlabelaccept = Speichern
+    .buttonaccesskeyaccept = S
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,14 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Einstellungen für Umgebung "{ $name }"
     .style = min-width: 32em
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Website hinzufügen
+containers-site-label =
+    .label = Website
+    .placeholder = example.com
 
 ## Container creation panel, anchored to the URL bar.
 
