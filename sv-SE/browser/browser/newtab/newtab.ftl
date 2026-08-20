@@ -542,7 +542,7 @@ topsite-label-pinned =
 #   $site (string) - The label or hostname of the site the notifications are from.
 newtab-topsites-hover-card-header = Aviseringar från { $site }
 # Relative time shown for a notification posted less than a minute ago.
-newtab-topsites-hover-card-just-now = Nyss
+newtab-topsites-hover-card-just-now = Nu
 newtab-topsites-hover-card-mark-all-read =
     .title = Markera alla som lästa
     .aria-label = Markera alla som lästa
@@ -772,9 +772,6 @@ newtab-custom-shortcuts-toggle =
     .description = Webbplatser du sparar eller besöker
 newtab-custom-shortcuts-nova =
     .label = Genvägar
-newtab-custom-web-notifications-toggle =
-    .label = Webbmeddelanden
-    .description = Visa aviseringar från dina webbplatser på deras genvägar
 newtab-custom-row-description =
     .description = Antal rader
 # Variables
@@ -1734,15 +1731,15 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Lägg till “{ $city }” som en anpassad klocka
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Stadsnamn
-    .aria-label = Stadsnamn
+    .label = Stadens namn
+    .aria-label = Stadens namn
     .placeholder = Ge klockan ett namn
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
     .label = Tidszon
     .aria-label = Tidszon
-    .placeholder = Sök efter stad, tidszon eller UTC-offset
+    .placeholder = Sök efter stad, tidszon eller UTC-förskjutning
 newtab-clock-widget-custom-zone-results =
     .aria-label = Resultat för tidszoner
 # Shown in the time-zone picker when the search matches no time zones.

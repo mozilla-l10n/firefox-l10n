@@ -122,7 +122,7 @@ smart-window-confirm-open-tab = Öppna
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tabs =
     { $count ->
-        [one] Öppna fliken { $count }
+        [one] Öppna { $count } flik
        *[other] Öppna { $count } flikar
     }
 # Action result labels for grouped tabs
@@ -150,14 +150,14 @@ smart-window-grouped-tabs-row-label = Grupperade flikar
 #   $count (number) - Number of tabs opened
 smart-window-opened-tabs-label =
     { $count ->
-        [one] Öppnade fliken { $count }
+        [one] Öppnade { $count } flik
        *[other] Öppnade { $count } flikar
     }
 # Variables
 #   $count (number) - Number of tabs opened
 smart-window-opened-tabs-summary-single =
     { $count ->
-        [one] Öppnade fliken { $count }.
+        [one] Öppnade { $count } flik.
        *[other] Öppnade { $count } flikar.
     }
 # Variables
@@ -165,7 +165,7 @@ smart-window-opened-tabs-summary-single =
 #   $label (string) - The label of the tab group
 smart-window-opened-tabs-summary-group =
     { $count ->
-        [one] Skapade gruppen "{ $label }" och öppnade { $count } flikar.
+        [one] Skapade gruppen "{ $label }" och öppnade { $count } flik.
        *[other] Skapade gruppen "{ $label }" och öppnade { $count } flikar.
     }
 smart-window-opened-tabs-row-label = Öppnade flikar

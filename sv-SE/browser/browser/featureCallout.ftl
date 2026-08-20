@@ -142,7 +142,6 @@ taskbar-tabs-value-prop-callout-subtitle = Starta den i ett eget fönster och et
 # Treatment B changes only the title for chat; the subtitle is unchanged from
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = Håll kontakten från aktivitetsfältet
-taskbar-tabs-email-callout-title-v3 = Spara din inkorg i aktivitetsfältet
 taskbar-tabs-email-callout-subtitle-v3 = Starta dina e-postsidor som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
 taskbar-tabs-media-callout-title-v3 = Behåll din streaming i aktivitetsfältet
 taskbar-tabs-media-callout-subtitle-v3 = Starta dina mediasidor som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
@@ -151,7 +150,7 @@ taskbar-tabs-value-prop-callout-subtitle-v3 = Starta en webbplats som en app i e
 taskbar-tabs-gaming-callout-title-v3 = Gå tillbaka till spel från aktivitetsfältet
 taskbar-tabs-gaming-callout-subtitle-v3 = Starta dina spelsajter som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab
-taskbar-tabs-callout-primary-button-v3 = Fäst till aktivitetsfältet
+taskbar-tabs-callout-primary-button-v3 = Fäst i aktivitetsfältet
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
