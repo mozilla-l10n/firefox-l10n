@@ -61,6 +61,10 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Kookie nongatupyre ha tembiasakue’ỹre, mohendaha guive. Eikundaha ejehecha’ỹrõguáicha.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-link-text = Eiporu ñanduti veve rovamo’ãha
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

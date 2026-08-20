@@ -1268,6 +1268,11 @@ containers-settings-button2 =
     .title = Nastavitve
 containers-remove-button3 =
     .title = Izbriši
+containers-sites-add-button =
+    .label = Dodaj spletno mesto
+    .accesskey = D
+containers-site-remove-button =
+    .title = Izbriši
 containers-remove-button2 =
     .title = Odstrani
 
