@@ -210,7 +210,7 @@ select-translations-panel-from-label = Da
 # Text displayed above the to-language dropdown menu.
 select-translations-panel-to-label = A
 # Text displayed above the try-another-source-language dropdown menu.
-select-translations-panel-try-another-language-label = Prova un’altra lingua sorgente
+select-translations-panel-try-another-language-label = Prova un’altra lingua di origine
 select-translations-panel-cancel-button =
     .label = Annulla
 # Text displayed on the copy button before it is clicked.
