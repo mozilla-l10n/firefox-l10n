@@ -1266,6 +1266,18 @@ containers-settings-button2 =
     .title = Ezarpenak
 containers-remove-button3 =
     .title = Ezabatu
+containers-sites-card-header =
+    .label = Gunearen araberako edukiontziak
+    .description = Aukeratu gune baterako edukiontzia eta gunea irekitzen den aldiro erabiliko du { -brand-short-name }(e)k.
+containers-sites-add-button =
+    .label = Gehitu webgunea
+    .accesskey = G
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = { $site } gunerako edukiontzia
+containers-site-remove-button =
+    .title = Ezabatu
 containers-remove-button2 =
     .title = Kendu
 

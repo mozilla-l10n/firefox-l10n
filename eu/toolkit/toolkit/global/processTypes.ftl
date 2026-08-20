@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Media Foundation Engine tresna
 process-type-utility-actor-js-oracle = JavaScript Oracle tresna
 process-type-utility-actor-windows-utils = Windows Utils tresna
 process-type-utility-actor-windows-file-dialog = Windows File Dialog tresna
+process-type-utility-actor-hw-inference = Hardware bidez azeleratutako inferentziaren tresna
 
 ##
 ## Other

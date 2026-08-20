@@ -296,6 +296,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = 주식
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = 증시
+    .label = 증시
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = 관심 종목
+    .label = 관심 종목
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = 이름 또는 기호로 검색
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -309,6 +319,23 @@ newtab-stocks-ticker-status-up = { $name } 주가 { $price }, 당일 { $change }
 newtab-stocks-ticker-status-down = { $name } 주가 { $price }, 당일 { $change } 하강
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name } 주가 { $price }, 변동 없음 ({ $change })
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = 관심 종목에 { $name } 추가
+    .aria-label = 관심 종목에 { $name } 추가
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = 관심 종목에서 { $name } 제거
+    .aria-label = 관심 종목에서 { $name } 제거
 
 ## Strings for the Picture of the Day widget
 
