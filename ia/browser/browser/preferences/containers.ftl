@@ -113,6 +113,12 @@ containers-site-container-label =
 containers-site-dialog =
     .buttonlabelaccept = Salvar
     .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Insere un valide, sito web secur
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Iste sito web es jam in tu lista
 
 ## Container creation panel, anchored to the URL bar.
 
