@@ -344,6 +344,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akcije
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Wiki
+    .label = Wiki
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Lisćina wobkedźbowanjow
+    .label = Lisćina wobkedźbowanjow
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Po mjenje abo symbolu pytać
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -357,6 +367,16 @@ newtab-stocks-ticker-status-up = { $name }, rosćena wo { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, spadnjena wo { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, žana změna, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = Lisćinje wobkedźbowanjow { $name } přidać
+    .aria-label = Lisćinje wobkedźbowanjow { $name } přidać
 
 ## Strings for the Picture of the Day widget
 
