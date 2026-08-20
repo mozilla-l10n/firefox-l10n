@@ -313,9 +313,6 @@ appmenu-sync-promo-connectdevice =
 appmenu-sync-promo-connectdevice-cta = Anslut en enhet
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = Ta med dina bokmärken
-# This refers to having your bookmarks available on your mobile device via sync
-appmenu-bookmarks-sync-promo-connectdevice =
-    .heading = Ta med dina bokmärken
 
 ## Help panel
 
