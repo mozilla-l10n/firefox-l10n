@@ -1266,6 +1266,12 @@ containers-settings-button2 =
     .title = Innstillingar
 containers-remove-button3 =
     .title = Slett
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Behaldar for { $site }
+containers-site-remove-button =
+    .title = Slett
 containers-remove-button2 =
     .title = Fjern
 
