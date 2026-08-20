@@ -17,7 +17,7 @@ abuse-report-subtitle = ¿Cuál es el problema?
 abuse-report-addon-authored-by = por <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
     ¿No está seguro de qué problema seleccionar?
-    <a data-l10n-name="learnmore-link"> Conozca más información acerca informes de extensiones y temas  </a>
+    <a data-l10n-name="learnmore-link"> Conozca más información acerca de los informes de extensiones y temas  </a>
 abuse-report-submit-description = Describa el problema (opcional)
 abuse-report-textarea =
     .placeholder = Es más fácil para nosotros abordar un problema si tenemos detalles específicos. Por favor, describa lo que le está pasando. Gracias por ayudarnos a mantener la red saludable.
@@ -41,7 +41,7 @@ abuse-report-messagebar-aborted = Se canceló el informe para <span data-l10n-na
 abuse-report-messagebar-submitting = Enviando el informe para <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Gracias por enviar el informe. ¿Quiere eliminar <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Gracias por enviar el informe.
-abuse-report-messagebar-removed-extension = Gracias por enviar el informe. Elimiinó la extensión <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-extension = Gracias por enviar el informe. Eliminó la extensión <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-sitepermission = Gracias por enviar un informe. Eliminaste el complemento Permisos del sitio  <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Gracias por enviar el informe. Eliminó el tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Hubo un error al enviar el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.

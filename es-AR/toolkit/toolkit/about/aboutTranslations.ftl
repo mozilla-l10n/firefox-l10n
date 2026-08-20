@@ -23,7 +23,7 @@ about-translations-feature-blocked-unblock-button = Desbloquear
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = No se pueden cargar los idiomas
-    .message = Verifique la conexión a internet en intente nuevamente.
+    .message = Verifique la conexión a internet e intente nuevamente.
 about-translations-language-load-error-button = Intentar nuevamente
 # An error message displayed when a translation request fails.
 about-translations-translation-error-heading = Hubo un problema al traducir

@@ -103,7 +103,7 @@ appmenu-remote-tabs-show-inactive-tabs =
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Sin pestañas abiertas
 # This is shown when Sync is configured but syncing tabs is disabled.
-appmenu-remote-tabs-tabsnotsyncing = Habilitar sincronización de pestañas para ver una lista de pestañás de los otros dispositivos.
+appmenu-remote-tabs-tabsnotsyncing = Habilitar sincronización de pestañas para ver una lista de pestañas de los otros dispositivos.
 appmenu-remote-tabs-opensettings =
     .label = Preferencias
 # This is shown when Sync is configured but this appears to be the only device attached to
@@ -389,10 +389,10 @@ appmenuitem-relay-title-signed-in = Ver máscaras de correo electrónico
 appmenuitem-relay-description = Enmascarar correo electrónico y teléfono reales
 appmenuitem-services-relay-description = Iniciar panel de máscaras de correo electrónico
 appmenuitem-vpn-title2 = Oculta la ubicación con { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description5 = Obtener protección adicional en todas los dispositivos
+appmenuitem-vpn-description5 = Obtener protección adicional en todos los dispositivos
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Descargar { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = Hace quetla navegación sea más difícil de rastrear
+appmenuitem-vpn-description3 = Hace que la navegación sea más difícil de rastrear
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtener protección para todo el dispositivo
 appmenuitem-vpn-description = Proteger la actividad en línea

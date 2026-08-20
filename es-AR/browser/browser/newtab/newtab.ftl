@@ -744,7 +744,7 @@ newtab-pocket-thumbs-down-tooltip =
     .title = No es para mí
 # Used to show the user a message upon clicking the thumbs up or down buttons
 newtab-toast-thumbs-up-or-down2 =
-    .message = Gracias Su opinión nos ayudará a mejorar su canal.
+    .message = Gracias. Su opinión nos ayudará a mejorar su canal.
 newtab-toast-dismiss-button =
     .title = Ignorar
     .aria-label = Ignorar
@@ -869,7 +869,7 @@ newtab-appearance-explore-more-themes-button = Explorar más temas
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
 newtab-wallpaper-title = Fondos de pantalla
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. Nova has no reset button; the wallpapers toggle handles reset
-newtab-wallpaper-reset = Reniciar como predeterminado
+newtab-wallpaper-reset = Restablecer los valores predeterminados
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Subir una imagen
 newtab-wallpaper-add-an-image = Agregar una imagen
@@ -976,7 +976,7 @@ newtab-wallpaper-celestial-earth-night = Foto nocturna desde la órbita baja de 
 newtab-wallpaper-celestial-starry-sky = Cielo estrellado
 newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse de un eclipse lunar
 newtab-wallpaper-celestial-black-hole = Ilustración de una galaxia con un agujero negro
-newtab-wallpaper-celestial-river = Imagen de satelite de un rio
+newtab-wallpaper-celestial-river = Imagen de satélite de un río
 
 ## New Tab Weather
 
@@ -1301,7 +1301,7 @@ newtab-widget-add-widgets-button =
 newtab-widget-section-menu-manage = Administrar widgets
 newtab-widget-section-menu-hide-all = Ocultar widgets
 newtab-widget-section-menu-learn-more = Conocer más
-newtab-widget-section-feedback = Díganos que piensa
+newtab-widget-section-feedback = Díganos qué piensa
 # Button shown when additional widgets are hidden beyond the
 # first row, allowing users to show them.
 newtab-widget-section-show-more =

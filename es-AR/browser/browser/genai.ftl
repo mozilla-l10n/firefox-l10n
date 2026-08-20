@@ -31,7 +31,7 @@ genai-prompts-simplify =
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Juguemos
-    .value = Por favor, pregúntame sobre esta selección. Pregúntame una variedad de tipos de preguntas, por ejemplo multiple choice, verdadero o falso y respuestas cortas. Espera mí respuesta antes de seguircon la próxima pregunta.
+    .value = Por favor, pregúntame sobre esta selección. Pregúntame una variedad de tipos de preguntas, por ejemplo multiple choice, verdadero o falso y respuestas cortas. Espera mi respuesta antes de seguir con la próxima pregunta.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Explicar esto
@@ -260,7 +260,7 @@ link-preview-settings-long-press =
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Desea ver más información generada con IA?
 # Message that appears when user is shown the opt-in flow for link previews
-link-preview-optin-message = { -brand-short-name } utiliza IA para leer el comiendo de la página y generar puntos clave. Para proteger su privacidad, esto solo ocurre en su dispositivo.
+link-preview-optin-message = { -brand-short-name } utiliza IA para leer el comienzo de la página y generar puntos clave. Para proteger su privacidad, esto solo ocurre en su dispositivo.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Novedad. Mantenga presionado el enlace para obtener una vista previa
 # Onboarding card description for long press

@@ -34,7 +34,7 @@ profiles-set-as-default = Establecer como predeterminado
 profiles-launch-profile = Iniciar perfil en nuevo navegador
 profiles-cannot-set-as-default-title = No se puede establecer predeterminado
 profiles-cannot-set-as-default-message = El perfil predeterminado no se puede cambiar para { -brand-short-name }.
-profiles-yes = si
+profiles-yes = sí
 profiles-no = no
 profiles-rename-profile-title = Renombrar perfil
 # Variables:

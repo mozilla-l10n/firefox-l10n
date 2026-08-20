@@ -80,7 +80,7 @@ bookmarks-toolbar-callout-1-subtitle = El marcador se guardará justo debajo de 
 bookmarks-toolbar-callout-1-primary-button-label = Agregar marcador
 bookmarks-toolbar-callout-1-secondary-button-label = No, gracias
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
-bookmarks-toolbar-callout-2a-title = Agregár más marcadores fácilmente
+bookmarks-toolbar-callout-2a-title = Agregar más marcadores fácilmente
 bookmarks-toolbar-callout-2a-subtitle = Se pueden arrastrar y soltar pestañas aquí para tener más sitios favoritos al alcance.
 bookmarks-toolbar-callout-2a-primary-button-label = Entendido
 # Reverts the bookmarks toolbar to the default setting
@@ -146,7 +146,7 @@ taskbar-tabs-email-callout-title-v3 = Mantener la bandeja de entrada en la barra
 taskbar-tabs-email-callout-subtitle-v3 = Abra sus sitios de correo electrónico como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-media-callout-subtitle-v3 = Abra sus sitios de medios como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title-v3 = Pegue sus sitios favoritos a la barra de tareas
-taskbar-tabs-value-prop-callout-subtitle-v3 = Abra cualquier sitios como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-value-prop-callout-subtitle-v3 = Abra cualquier sitio como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-gaming-callout-subtitle-v3 = Abra sus sitios de juego como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Pegar a la barra de tareas
@@ -221,7 +221,7 @@ pin-tabs-callout-1-title = Mantenga las pestañas importantes a su alcance
 pin-tabs-callout-1-subtitle = Arrastre una pestaña al comienzo de la barra de pestañas para pegarla. O haga clic con el botón derecho y elija Pegar pestaña.
 pin-tabs-callout-cta-1-button = Pegar esta pestaña
 pin-tabs-callout-2-title = Pegar las pestañas más visitadas
-pin-tabs-callout-2-subtitle = Para pegar cualquier pestaña, arrastrela al comienzo de la barra de pestañas. O haga clic con el botón derecho y elija Pegar pestaña.
+pin-tabs-callout-2-subtitle = Para pegar cualquier pestaña, arrástrela al comienzo de la barra de pestañas. O haga clic con el botón derecho y elija Pegar pestaña.
 pin-tabs-callout-cta-2-button = Pegar esta pestaña
 pin-tabs-callout-3-title = Mantenga los sitios importantes a su alcance
 pin-tabs-callout-4-title = Pegar los sitios más visitados

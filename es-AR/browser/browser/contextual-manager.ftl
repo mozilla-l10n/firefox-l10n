@@ -129,9 +129,9 @@ contextual-manager-passwords-remove-all-confirm-button =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
     { $total ->
-        [1] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No sé puede deshacer esta acción.
-        [one] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No sé puede deshacer esta acción.
-       *[other] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. No sé puede deshacer esta acción.
+        [1] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No se puede deshacer esta acción.
+        [one] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No se puede deshacer esta acción.
+       *[other] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. No se puede deshacer esta acción.
     }
 # Message for modal to confirm the removal of all saved passwords when user HAS SYNC
 #   $total (number) - Total number of passwords
@@ -205,7 +205,7 @@ contextual-manager-passwords-breached-origin-link-message = ¿Cómo es que { -br
 contextual-manager-passwords-change-password-button = Cambiar contraseña
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Se recomienda cambio de contraseña
-    .message = Está contraseña es fácil de adivinar. Cambie su contraseña para proteger su cuenta.
+    .message = Esta contraseña es fácil de adivinar. Cambie su contraseña para proteger su cuenta.
 contextual-manager-passwords-vulnerable-password-link-message = ¿Cómo es que { -brand-product-name } sabe sobre contraseñas débiles?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Agregar un nombre de usuario

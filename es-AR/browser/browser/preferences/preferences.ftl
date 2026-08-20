@@ -140,7 +140,7 @@ restart-later = Reiniciar después
 
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla está configuración.
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla esta configuración.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla esta configuración.
@@ -149,10 +149,10 @@ extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{
 extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> requiere pestañas contenedoras.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla está configuración.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla esta configuración.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controla como { -brand-short-name } se conectan a internet.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controla cómo { -brand-short-name } se conecta a internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -197,7 +197,7 @@ windows-launch-on-login-open-new-tab =
     .accesskey = n
 windows-launch-on-login-profile-disabled = Habilitar esta preferencia marcando “{ profile-manager-use-selected.label }” en la ventana “Seleccionar perfil del usuario”.
 startup-restore-warn-on-quit =
-    .label = Avisarle cuando salgas del navegador.
+    .label = Avisarle cuando salga del navegador
 disable-extension =
     .label = Deshabilitar extensión
 preferences-data-migration-group =
@@ -463,7 +463,7 @@ preferences-zoom-text-only =
     .label = Zoom solo en texto
     .accesskey = t
 preferences-text-zoom-override-warning2 =
-    .message = Si “Zoom solo en texto” está activado y el zoom predeterminado no está establecido al 100%, algunos sitios moden mostrar el contenido incorrectamente.
+    .message = Si “Zoom solo en texto” está activado y el zoom predeterminado no está establecido al 100%, algunos sitios pueden mostrar el contenido incorrectamente.
 preferences-text-zoom-override-warning =
     .message = Advertencia: Al seleccionar “Zoom solo en texto” y el zoom predeterminado no esté establecido al 100%, puede causar fallas en algunos sitios o contenido.
 language-header = Idioma
@@ -558,7 +558,7 @@ settings-translations-subpage-download-languages-button =
 settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
     .label = { $language } ({ $size }MB)
 settings-translations-subpage-no-languages-downloaded =
-    .label = No sé descargaron idiomas
+    .label = No se descargaron idiomas
 settings-translations-subpage-no-languages-added =
     .label = No se agregaron idiomas
 settings-translations-subpage-download-progress = Descarga en proceso…
@@ -929,7 +929,7 @@ network-proxy-group2 =
     .description = Configurar como { -brand-short-name } se conecta a internet.
 network-proxy-connection-settings2 =
     .label = Configurar proxy
-    .description = Cambiar está configuración puede causar problemas de conexión
+    .description = Cambiar esta configuración puede causar problemas de conexión
     .accesskey = p
 
 ## Home Section
@@ -1242,7 +1242,7 @@ containers-section-header2 =
     .heading = Configuración del contenedor
 containers-card-header2 =
     .label = Contenedores
-    .description = Cookies separadas por contenedor para para poder usar diferentes cuentas en el mismo sitio y limitar el rastreo de sitios cruzados.
+    .description = Cookies separadas por contenedor para poder usar diferentes cuentas en el mismo sitio y limitar el rastreo de sitios cruzados.
 containers-add-button2 =
     .label = Agregar nuevo contenedor
     .accesskey = A
@@ -2275,14 +2275,14 @@ collection-studies2 =
     .label = Instalar y ejecutar estudios
 collection-studies-description = Probar funciones e ideas antes de que estén disponibles para todos.
 collection-studies =
-    .label = Permitir { -brand-short-name } para instalar y ejecutar estudios
+    .label = Permitir que { -brand-short-name } instale y ejecute estudios
 collection-studies-link = Ver los estudios { -brand-short-name }
 addon-recommendations2 =
     .label = Permitir recomendaciones de extensiones personalizadas
 addon-recommendations-description = Consiga recomendaciones de extensiones para mejorar la experiencia de navegación.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled2 = La información de datos está deshabilitado para esta configuración de compilación.
+collection-health-report-disabled2 = El envío de informes de datos está desactivado para esta configuración de compilación.
 collection-backlogged-crash-reports2 =
     .label = Enviar informes de fallos automáticamente
     .accesskey = c
@@ -2324,7 +2324,7 @@ data-collection-health-report-disabled =
     .description = El envío de informes de datos está desactivado para esta configuración de compilación.
 data-collection-run-studies =
     .label = Permitir que { -brand-short-name } ejecute estudios de funcionalidades
-    .description = { -brand-short-name } selecciona usuarios al azar para probar funcionalidades, lo que ayuda a mejorar la calidad paar todos.
+    .description = { -brand-short-name } selecciona usuarios al azar para probar funcionalidades, lo que ayuda a mejorar la calidad para todos.
 data-collection-studies-link =
     .label = Ver los estudios { -brand-short-name }
 data-collection-backlogged-crash-reports =
@@ -2486,7 +2486,7 @@ preferences-doh-overview-default =
     .description = Usar DNS seguro en regiones donde esté disponible.
 preferences-doh-overview-custom =
     .label = Personalizado
-    .description = Siempre usar DNS seguro con control sobre el del proveedor y comportamiento de respaldo.
+    .description = Siempre usar DNS seguro con control sobre el proveedor y el comportamiento de respaldo.
 preferences-doh-overview-off =
     .label = Desactivado
     .description = Usar el resolvedor de DNS predeterminado.
@@ -2506,7 +2506,7 @@ preferences-doh-radio-custom =
     .description = Siempre usar DNS seguro con control sobre el del proveedor y comportamiento de respaldo.
 preferences-doh-radio-off =
     .label = Desactivado
-    .description = Usar el resolvedor de DNS 0red
+    .description = Usar el resolvedor de DNS predeterminado
 preferences-doh-fallback-label =
     .label = Avisarme siempre si el DNS seguro no está disponible
 preferences-doh-status-item-off =
@@ -2551,7 +2551,7 @@ preferences-connection-header =
     .heading = Seguridad de conexión y software
 preferences-connection-link-section =
     .label = Seguridad de conexión y software
-    .description = Vea como las conexiones se mantienen seguras, el software dañino es bloqueado y los sitios web son verifificados.
+    .description = Vea como las conexiones se mantienen seguras, el software dañino es bloqueado y los sitios web son verificados.
 preferences-connection-link-button =
     .label = Opciones avanzadas
 
@@ -2619,7 +2619,7 @@ preferences-ai-controls-translations-control =
 preferences-ai-controls-translations-more-link = Más opciones de traducciones
 preferences-ai-controls-pdfjs-control =
     .label = Texto alternativo de la imagen en el visor de PDF de { -brand-short-name }
-    .description = Al agregar imágenes a los PDFs, esto agregará descripciones hacerlas más accesibles.
+    .description = Al agregar imágenes a los PDFs, esto agregará descripciones para hacerlas más accesibles.
 preferences-ai-controls-tab-group-suggestions-control =
     .label = Sugerencias de grupos de pestañas
     .description = Ver sugerencias para nombrar y organizar pestañas.
@@ -2739,7 +2739,7 @@ preferences-etp-rfp-warning-message =
     .message = Está usando Resist Fingerprinting (RFP), que reemplaza algunas de las configuraciones de protección de huellas de { -brand-short-name }. Esto podría provocar que algunos sitios fallen.
 preferences-etp-level-warning-message =
     .heading = ¡Atención! Algunos sitios pueden no funcionar como se esperaba.
-    .message = Algunos sitios incluyen a los rastreadores dentro sus funcionalidades o contenido. Cuando { -brand-short-name } los bloquea, el sitio aparece roto. Pruebe usar “Corregir problemas del sitio” o desactivar la protección de rastreo en ese sitio.
+    .message = Algunos sitios incluyen a los rastreadores dentro de sus funcionalidades o contenido. Cuando { -brand-short-name } los bloquea, el sitio aparece roto. Pruebe usar “Corregir problemas del sitio” o desactivar la protección de rastreo en ese sitio.
 preferences-etp-manage-exceptions-button =
     .label = Administrar excepciones
     .description = Administrar sitios web que tengan desactivada la protección contra rastreo avanzada.

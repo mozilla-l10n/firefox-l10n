@@ -17,7 +17,7 @@ profile-selection-rename-button =
 profile-selection-delete-button =
     .label = Borrar perfil…
     .accesskey = B
-profile-selection-conflict-message = Otra copa de { -brand-product-name } ha hecho cambios a los perfiles. Se debe reiniciar { -brand-short-name } antes de hacer más cambios.
+profile-selection-conflict-message = Otra copia de { -brand-product-name } ha hecho cambios a los perfiles. Se debe reiniciar { -brand-short-name } antes de hacer más cambios.
 
 ## Messages used in the profile manager
 

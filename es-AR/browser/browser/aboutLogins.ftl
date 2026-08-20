@@ -280,9 +280,9 @@ about-logins-confirm-remove-all-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
-        [1] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No sé puede deshacer esta acción.
-        [one] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No sé puede deshacer esta acción.
-       *[other] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. No sé puede deshacer esta acción.
+        [1] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No se puede deshacer esta acción.
+        [one] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No se puede deshacer esta acción.
+       *[other] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. No se puede deshacer esta acción.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
@@ -316,7 +316,7 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 about-logins-breach-alert-title = Filtración del sitio web
 breach-alert-text = Las contraseñas fueron filtradas o robadas de este sitio web desde la última vez que actualizó sus datos de inicio de sesión. Cambie su contraseña para proteger su cuenta.
-about-logins-breach-alert-date = Está filtración se produjo el { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = Esta filtración se produjo el { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Vaya a { $hostname }
