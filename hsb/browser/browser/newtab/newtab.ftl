@@ -392,11 +392,11 @@ newtab-stocks-in-watchlist = { $name } je we wašej lisćinje wobkedźbowanjow
 # Announced to screen readers after a stock is added to the watchlist.
 # Variables:
 #   $name (String) - the fund/ETF name.
-newtab-stocks-added-to-watchlist = { $name } je so lisćinje wobkedźbowanjow přidate.
+newtab-stocks-added-to-watchlist = { $name } je so lisćinje wobkedźbowanjow přidało
 # Announced to screen readers after a stock is removed from the watchlist.
 # Variables:
 #   $name (String) - the fund/ETF name.
-newtab-stocks-removed-from-watchlist = { $name } je so z lisćiny wobkedźbowanjow wotstronjene.
+newtab-stocks-removed-from-watchlist = { $name } je so z lisćiny wobkedźbowanjow wotstroniło
 
 ## Stocks widget ticker search
 

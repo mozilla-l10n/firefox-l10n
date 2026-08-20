@@ -63,6 +63,8 @@ about-private-browsing-pin-promo-title = Žedne skłaźone cookieje abo žedna h
 
 ## Strings used in a promotion message for Firefox Relay
 
+about-private-browsing-relay-promo-header = Šćitajśo postowy dochad z e-mailowymi maskami pśed spamom
+about-private-browsing-relay-promo-title = Schowajśo swóju napšawdnu adresu z e-mailoweju masku, gaž se registrěrujośo, nakupujośo abo ju online źěliśo.
 about-private-browsing-relay-promo-link-text = E-mejlowe maski wopytaś
 
 ## Strings used in a promotion message for cookie banner reduction

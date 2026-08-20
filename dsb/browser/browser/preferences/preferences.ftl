@@ -1260,6 +1260,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Kontejner za kuždy nowy rejtark wubraś
     .accesskey = K
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Žedne kontejnery za wótkaze njewužywaś, kótarež su se z eksternych nałoženjow wócynili
+    .accesskey = n
 containers-new-tab-check2 =
     .label = Kontejner za kuždy nowy rejtark wubraś
     .accesskey = K
@@ -1268,6 +1274,9 @@ containers-settings-button2 =
     .title = Nastajenja
 containers-remove-button3 =
     .title = Lašowaś
+containers-sites-card-header =
+    .label = Za sedło specifiske kontejnery
+    .description = Wubjeŕśo kontejner za sedło a { -brand-short-name } buźo jen kuždy raz wužywaś, gaž se sedło wócynja.
 containers-sites-add-button =
     .label = Websedło pśidaś
     .accesskey = W

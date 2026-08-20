@@ -389,6 +389,14 @@ newtab-stocks-remove-from-watchlist =
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-in-watchlist = { $name } jo we wašej lisćinje wobglědowanjow
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } jo se lisćinje wobglědowanjow pśidało
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } jo se z lisćiny wobglědowanjow wótwónoźeło
 
 ## Stocks widget ticker search
 
@@ -412,6 +420,8 @@ newtab-stocks-search-back-button =
 newtab-stocks-search-no-results = Žedne wuslědki za „{ $query }“
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Zacytujo se…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Pytanje tuchylu njejo móžne. Wopytajśo pózdźéj hyšći raz.
 
 ## Strings for the Picture of the Day widget
 
