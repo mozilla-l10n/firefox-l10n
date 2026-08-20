@@ -42,7 +42,7 @@ firefoxview-tabpickup-adddevice-learn-how = Подробнее
 firefoxview-tabpickup-adddevice-primarybutton = Получить { -brand-product-name } для мобильных устройств
 firefoxview-syncedtabs-adddevice-header-2 = Захватывайте вкладки отовсюду
 firefoxview-syncedtabs-adddevice-description-2 = Войдите в { -brand-product-name } на вашем телефоне или другом компьютере, чтобы увидеть здесь вкладки. Узнайте, как <a data-l10n-name="url">подключить дополнительные устройства</a>.
-firefoxview-syncedtabs-adddevice-primarybutton = Попробуйте { -brand-product-name } для мобильных устройств
+firefoxview-syncedtabs-adddevice-primarybutton = Попробовать мобильный { -brand-product-name }
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Ваши вкладки вызваны. Они на вашем телефоне.
 firefoxview-syncedtabs-adddevice-description-3 = Отсканируйте QR-код, чтобы скачать { -brand-product-name } для мобильных устройств и начать синхронизировать открытые вкладки и многое другое. Узнайте, как <a data-l10n-name="url">подключить дополнительные устройства</a>.

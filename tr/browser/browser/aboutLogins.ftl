@@ -106,8 +106,8 @@ about-logins-list-section-week = Son 7 gün
 about-logins-login-intro-heading-logged-out2 = Kayıtlı hesaplarınızı mı arıyorsunuz? Eşitlemeyi açın veya içe aktarın.
 about-logins-login-intro-heading-logged-in = Eşitlenmiş hesap bulunamadı.
 login-intro-description = Hesaplarınızı farklı bir cihazdaki { -brand-product-name } tarayıcınıza kaydettiyseniz onları buraya aktarabilirsiniz:
-login-intro-instructions-fxa = Hesaplarınızın kayıtlı olduğu cihazda { -fxaccount-brand-name } açın veya hesabınıza giriş yapın.
-about-logins-login-intro-heading-message = Parolalarınızı güvenli bir yere kaydedin
+login-intro-instructions-fxa = Hesaplarınızın kayıtlı olduğu cihazda { -fxaccount-brand-name } oluşturun veya hesabınıza giriş yapın.
+about-logins-login-intro-heading-message = Parolalarınızı güvenle kaydedin
 login-intro-description2 = { -brand-product-name } tarayıcınıza kaydettiğiniz tüm parolalar şifrelenir. Ayrıca, parolalarınızın bir ihlalden etkilendiğini tespit edersek size haber veririz. <a data-l10n-name="breach-alert-link">Daha fazla bilgi alın</a>
 login-intro-instructions-fxa2 = Hesaplarınızın kayıtlı olduğu cihazda hesap açın veya hesabınıza giriş yapın.
 login-intro-instructions-fxa-settings = Ayarlar > Eşitleme > “Eşitlemeyi başlat…” kısmına gidip “Hesaplar ve parolalar”ı işaretleyin.

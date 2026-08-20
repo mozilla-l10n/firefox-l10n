@@ -1270,6 +1270,18 @@ containers-settings-button2 =
     .title = Налады
 containers-remove-button3 =
     .title = Выдаліць
+containers-sites-card-header =
+    .label = Кантэйнеры, спецыфічныя для сайтаў
+    .description = Выберыце кантэйнер для сайта, і { -brand-short-name } будзе выкарыстоўваць яго для кожнага адкрыцця гэтага сайта.
+containers-sites-add-button =
+    .label = Дадаць сайт
+    .accesskey = ц
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Кантэйнер для { $site }
+containers-site-remove-button =
+    .title = Выдаліць
 containers-remove-button2 =
     .title = Выдаліць
 
