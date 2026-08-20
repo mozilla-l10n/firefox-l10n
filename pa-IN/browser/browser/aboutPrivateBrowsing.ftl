@@ -64,6 +64,7 @@ about-private-browsing-pin-promo-title = ਕੋਈ ਵੀ ਸੰਭਾਲੇ ਕ
 ## Strings used in a promotion message for Firefox Relay
 
 about-private-browsing-relay-promo-header = ਇਨਬਾਕਸ ਵਿੱਚ ਸਮੈਪ ਨੂੰ ਰੋਕਣ ਲਈ ਈਮੇਲ ਮਾਸਕ ਮਦਦ ਕਰਦੇ ਹਨ
+about-private-browsing-relay-promo-title = ਜਦੋਂ ਤੁਸੀਂ ਸਾਈਨ-ਅੱਪ, ਖਰੀਦਦਾਰੀ ਜਾਂ ਇਸ ਨੂੰ ਆਨਲਾਈਨ ਸਾਂਝਾ ਕਰਦੇ ਹੋ ਤਾਂ ਈਮੇਲ ਮਾਸਕ ਨਾਲ ਆਪਣੇ ਅਸਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਓ।
 about-private-browsing-relay-promo-link-text = ਈਮੇਲ ਮਾਸਕਾਂ ਨੂੰ ਅਜ਼ਮਾਓ
 
 ## Strings used in a promotion message for cookie banner reduction
