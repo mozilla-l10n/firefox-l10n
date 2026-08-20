@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Bóčnicu pod kursorom pokazać
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Přehlad při přejězdźenju z cursorom pokazać
 sidebar-manage-extensions2 = Wšě rozšěrjenja rjadować
 sidebar-customize-extensions-header2 = Rozšěrjenja
 sidebar-customize-firefox-tools-header2 =
