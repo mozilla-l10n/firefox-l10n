@@ -113,6 +113,9 @@ containers-site-container-label =
 containers-site-dialog =
     .buttonlabelaccept = ਸੰਭਾਲੋ
     .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = ਇਹ ਵੈੱਬਸਾਈਟ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਸੂਚੀ ਵਿੱਚ ਹੈ
 
 ## Container creation panel, anchored to the URL bar.
 

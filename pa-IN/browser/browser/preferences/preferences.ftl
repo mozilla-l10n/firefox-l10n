@@ -1269,6 +1269,12 @@ containers-remove-button3 =
 containers-sites-add-button =
     .label = ਵੈੱਬਸਾਈਟ ਨੂੰ ਜੋੜੋ
     .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = { $site } ਲਈ ਕਨਟੇਨਰ
+containers-site-remove-button =
+    .title = ਹਟਾਓ
 containers-remove-button2 =
     .title = ਹਟਾਓ
 

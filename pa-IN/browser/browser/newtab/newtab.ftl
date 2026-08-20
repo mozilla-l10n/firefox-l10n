@@ -352,6 +352,29 @@ newtab-stocks-ticker-status-down = { $name }, { $change } ਘਟੇ, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, { $change } ਤਬਦੀਲੀ ਨਹੀ, { $price }
 
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
+    .placeholder = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = ਖੋਜ ਨਤੀਜੇ
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = ਪਿੱਛੇ
+    .aria-label = ਪਿੱਛੇ
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = “{ $query }” ਲਈ ਕੋਈ ਖੋਜ ਨਤੀਜੇ ਨਹੀਂ ਹਨ
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = …ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
