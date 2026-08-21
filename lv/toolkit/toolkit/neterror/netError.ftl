@@ -71,7 +71,7 @@ neterror-error-reporting-automatic = Ziņojiet par šādām kļūdām { -vendor-
 ## Specific error messages
 
 neterror-generic-error = Kāda nezināma iemesla dēļ { -brand-short-name } nevar atvērt šo lapu.
-neterror-load-error-try-again = Lapa var būt īslaicīgi nepieejama vai pārāk aizņemta. Mēģiniet vēlreiz pēc pāris minūtēm.
+neterror-load-error-try-again = Vietne varētu būt īslaicīgi nepieejama vai pārāk aizņemta. Pēc kāda brīža jāmēģina vēlreiz.
 neterror-load-error-connection = Ja nevarat atvērt nevienu lapu, pārbaudiet sava datora tīkla savienojumu.
 neterror-load-error-firewall = Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 neterror-captive-portal = Pieslēdzieties tīklam, lai piekļūtu Internetam.
@@ -149,3 +149,8 @@ neterror-response-status-code = Kļūdas kods: { $responsestatus } { $responsest
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Izskatās, ka ir sarežģījums ar interneta savienojumu
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-net-timeout-intro = Serveris <strong>{ $hostname }</strong> pārāk ilgi neatbild.

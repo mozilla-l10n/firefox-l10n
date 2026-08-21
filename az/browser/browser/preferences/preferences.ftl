@@ -620,6 +620,9 @@ containers-remove-button =
 
 ## Account and sync
 
+account-placeholder2 =
+    .label = Siz daxil olmamısınız.
+    .description = Daxil olun və məlumatlarınızı məxfi, şifrlənmiş və { -brand-short-name } istifadə etdiyiniz hər yerdə bir anda əlçatan halda saxlayın.
 account-sync-section =
     .heading = Hesab və sinxronizasiya
 pane-account-sync-title2 = Hesab və sinxronizasiya
@@ -1106,6 +1109,9 @@ certs-devices-enable-fips = FIPS aktivləşdir
 ## DoH Section
 
 preferences-doh-header = HTTPS üzərindən DNS
+dns-over-https-group2 =
+    .label = HTTPS üzərindən DNS
+    .description = HTTPS üzərindən Domen Adları Sistemi (DoH) sayt sorğularını (ünvanların axtarışını) şifrələyir ki, internet provayderinizin və ya digər şəxslərin hansı saytlara daxil olmaq üzrə olduğunuzu görməsi daha çətin olsun.
 
 ## The following strings are used in the Download section of settings
 

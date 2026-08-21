@@ -19,5 +19,6 @@ fxa-menu-send-tab-to-device-syncnotready =
     .label = Cihazlar Sinxronlaşdırılır…
 fxa-menu-sign-out =
     .label = Hesabdan çıx…
+fxa-menu-sign-in-promo-message = Məlumatlarınız hər yerdə sizinlə olsun
 # Reason shown when the session expired or credentials are no longer valid.
 fxa-menu-signed-out-message-login-failed = Hesabdan çıxdınız
