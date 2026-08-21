@@ -326,6 +326,11 @@ appmenu-about =
     .accesskey = A
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Chia sẻ { -brand-product-name }
+    .accesskey = r
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = Chia sẻ { -brand-shorter-name }
     .accesskey = r
@@ -439,6 +444,8 @@ fxa-menu-create-profile-confirm =
     .label = Tạo hồ sơ mới
 fxa-menu-create-profile-learn-more =
     .label = Hồ sơ là gì?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Chia sẻ { -brand-product-name }
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Chia sẻ { -brand-short-name }
 appmenuitem-share-firefox-description = Hãy mời ai đó sử dụng trình duyệt ưu tiên quyền riêng tư
