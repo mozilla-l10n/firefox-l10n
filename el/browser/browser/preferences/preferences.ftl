@@ -2836,3 +2836,12 @@ referrals-section-header =
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =
     .label = Κοινή χρήση { -brand-short-name }
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .label = Κοινή χρήση { -brand-product-name }
+    .description = Προσκαλέστε κάποιον να επιλέξει το πρόγραμμα περιήγησης που δίνει προτεραιότητα στο απόρρητο.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = Κοινή χρήση { -brand-product-name }
