@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Отвара се у новом језичку
+moz-box-link-opens-in-new-tab = Отвара се у новом језичку
 moz-box-item-reorder-handle =
     .aria-label = Промени редослед ставке користећи Ctrl+Shift+ArrowUp или Ctrl+Shift+ArrowDown
 # Variables:
