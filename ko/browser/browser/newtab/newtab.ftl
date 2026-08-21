@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = 오늘의 사진
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = 최근 검색
 home-prefs-mission-message2 =
     .message = 스폰서는 더 나은 웹을 만들려는 저희를 지원합니다.
 home-prefs-manage-topics-link2 =
@@ -164,6 +167,10 @@ home-prefs-mission-message-learn-more-link-srd = 방법 알아보기
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 더 알아보기
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = 개인정보 보호
 
 ## Privacy widget — count readout
 
