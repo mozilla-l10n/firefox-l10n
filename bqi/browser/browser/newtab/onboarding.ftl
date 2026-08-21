@@ -303,3 +303,7 @@ smartwindow-onboarding-primary-button = رئڌن وا پؽش
 
 smartwindow-sidebar-auto-open-callout-dismiss = ن ممنووݩ
 smartwindow-sidebar-auto-open-callout-rejected-title = فئمیم
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-button-label = زفت کردن وو رئڌن وا پؽش

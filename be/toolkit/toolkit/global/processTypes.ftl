@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Ўтыліта Media Foundation Eng
 process-type-utility-actor-js-oracle = Ўтыліта JavaScript Oracle
 process-type-utility-actor-windows-utils = Ўтыліта Windows Utils
 process-type-utility-actor-windows-file-dialog = Ўтыліта Файлавы дыялог Windows
+process-type-utility-actor-hw-inference = Утылітны апаратна-паскораны вывад
 
 ##
 ## Other

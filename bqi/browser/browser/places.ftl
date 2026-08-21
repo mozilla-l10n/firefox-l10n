@@ -78,12 +78,51 @@ places-delete-folder =
            *[other] پاک کردن دوبلگه یل
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] پاک کردن بلگه
+            [one] پاک کردن بلگه
+           *[other] پاک کردن بلگه یل
+        }
+    .accesskey = D
 # Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = نشووکا دؽوۉداری وابیڌه
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = نشووکا دیری
+places-show-in-folder =
+    .label = نشووݩ داڌن من دوبلگه
+    .accesskey = F
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] پاک کردن نشووک
+            [one] پاک کردن نشووک
+           *[other] پاک کردن نشووکا
+        }
+    .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] نشووک ناهاڌن بلگه…
+            [one] نشووک ناهاڌن بلگه…
+           *[other] نشووک ناهاڌن بلگه یل…
+        }
+    .accesskey = B
+places-untag-bookmark =
+    .label = پاک کردن برچسب
+    .accesskey = R
+places-manage-bookmarks =
+    .label = دؽوۉداری نشووکا
+    .accesskey = M
 places-forget-about-this-site-forget = ز ویر بوور
 places-library3 =
     .title = کتاو هووه
@@ -168,3 +207,11 @@ places-search-history =
     .placeholder = پیتینیڌن ویرگار
 places-search-downloads =
     .placeholder = پیتینیڌن دانلودا
+
+##
+
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = نۊ
+    .label = یک رسۊوی دوبلگه
