@@ -265,6 +265,21 @@ newtab-stocks-ticker-status-down = { $name }، لم { $change }، { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }، بؽ آلشتکاری { $change }، { $price }
 
+## Stocks widget ticker search
+
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = وورگشتن
+    .aria-label = وورگشتن
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = نتیجه یل پیتینیڌن سی «{ $query }» نجۊرست
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = هونی بار اونه…
+
 ## Strings for the Picture of the Day widget
 
 # Shorter title shown at the top of the widget, without the source name.
@@ -286,6 +301,8 @@ newtab-picture-widget-menu-button =
     .aria-label = گۊزینه یل شؽوات رۊز
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = دؽوۉداری کاقز دیواری
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = نشووݩ داڌن شؽوات ٱمرۊز
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = قلوه دووسته بۊین
 # Icon button shown on the widget once the picture is hidden; restores it.
@@ -371,6 +388,17 @@ newtab-topsite-sponsored = هؽزگری وابیڌه
 topsite-label-pinned =
     .aria-label = { $title } (دیسنیڌه وابی)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = هیم سکو
+newtab-topsites-hover-card-settings =
+    .title = سامووا وارسۊوی
+    .aria-label = سامووا وارسۊوی
+newtab-topsites-hover-card-dismiss =
+    .title = رڌ کردن
+    .aria-label = رڌ کردن
 
 ## Context Menu - Action Tooltips.
 
@@ -604,6 +632,19 @@ newtab-custom-close-menu-button =
     .aria-label = بستن نومگه
 newtab-custom-close-button = بستن
 newtab-custom-settings = دؽوۉداری سامووا قلوه
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = شؽوات
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = فعال کردن
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = قیر فعال کردن
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = پیتینیڌن زمینه یل قلوه
 
 ## New Tab Wallpapers
 

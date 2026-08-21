@@ -255,6 +255,8 @@ multi-profile-callout-cta = وورکل پوروفایل
 ## Desktop to Mobile Adoption feature callout strings
 
 dismiss-button-label = رڌ کردن
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR کود دانلود { -brand-product-name } سی موبایل
 
 ## Fx Backup onboarding: Create Backup spotlight
 
