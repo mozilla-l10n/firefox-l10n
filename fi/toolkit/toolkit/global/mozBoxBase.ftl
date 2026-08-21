@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Avautuu uuteen välilehteen
+moz-box-link-opens-in-new-tab = Avautuu uuteen välilehteen
 moz-box-item-reorder-handle =
     .aria-label = Järjestä kohde uudelleen painamalla Ctrl+Shift+Nuoli ylös tai Ctrl+Shift+Nuoli alas
 # Variables:
