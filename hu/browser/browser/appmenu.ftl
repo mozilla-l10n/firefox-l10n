@@ -445,6 +445,8 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = Mik azok a profilok?
 # Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = A { -brand-product-name } megosztása
+# Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = A { -brand-short-name } megosztása
 appmenuitem-share-firefox-description = Hívjon meg valakit, hogy azt a böngészőt válassza, amely az adatvédelmet helyezi előtérbe
 appmenu-profiles-2 =
