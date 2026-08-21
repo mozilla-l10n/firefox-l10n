@@ -326,6 +326,11 @@ appmenu-about =
     .accesskey = O
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Podijeli { -brand-product-name }
+    .accesskey = d
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = Podijeli { -brand-shorter-name }
     .accesskey = d
@@ -439,6 +444,8 @@ fxa-menu-create-profile-confirm =
     .label = Stvorite novi profil
 fxa-menu-create-profile-learn-more =
     .label = Što su profili?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Podijeli { -brand-product-name }
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Podijeli { -brand-short-name }
 appmenuitem-share-firefox-description = Pozovite nekoga da odabere preglednik koji privatnost stavlja na prvo mjesto
