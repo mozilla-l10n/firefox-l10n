@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Wočinja w nowym rajtarku
+moz-box-link-opens-in-new-tab = Wočinja w nowym rajtarku
 moz-box-item-reorder-handle =
     .aria-label = Přerjadujće zapisk z pomocu Strg+Umsch+Šipk horje abo Strg+Umsch+Šipk dele
 # Variables:
