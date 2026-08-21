@@ -453,6 +453,8 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = Шта су профили?
 # Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Подели { -brand-product-name }
+# Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Подели { -brand-short-name }
 appmenuitem-share-firefox-description = Позовите некога да изабере прегледач којем је приватност на првом месту
 appmenu-profiles-2 =
