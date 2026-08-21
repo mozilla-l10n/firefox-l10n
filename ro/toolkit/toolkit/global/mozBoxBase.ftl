@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Se deschide într-o filă nouă
+moz-box-link-opens-in-new-tab = Se deschide într-o filă nouă
 moz-box-item-reorder-handle =
     .aria-label = Reordonează elementul folosind Ctrl+Shift+Săgeată în sus sau Ctrl+Shift+Săgeată în jos
 # Variables:
