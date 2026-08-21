@@ -137,6 +137,9 @@ urlbar-identity-button2 =
             [one] Visualizza informazioni sul sito ({ $count } elemento tracciante bloccato)
            *[other] Visualizza informazioni sul sito ({ $count } elementi traccianti bloccati)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Visualizza informazioni sul sito
 
@@ -916,6 +919,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizzato
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Chiedi
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1508,6 +1516,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1732,6 +1743,13 @@ file-picker-crashed-open = La finestra di selezione file di Windows si è chiusa
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Il file verrà salvato come { $path }.
 file-picker-crashed-save-nowhere = La finestra di selezione file di Windows si è chiusa in modo anomalo. Non è stata trovata una cartella predefinita e il file non verrà salvato.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostra nella cartella
     .accessKey = M
@@ -1771,7 +1789,7 @@ trustpanel-privacy-link = Impostazioni per la privacy
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Elimina cookie e dati dei siti web per { $host }
-trustpanel-clear-cookies-description = La rimozione di cookie e dati dei siti web potrebbe disconnetterti dai siti o svuotare eventuali carrelli in sospeso.
+trustpanel-clear-cookies-description = La rimozione di cookie e dati dei siti web potrebbe disconnetterti dai siti e svuotare eventuali carrelli in sospeso.
 trustpanel-clear-cookies-subview-button-clear = Elimina
 trustpanel-clear-cookies-subview-button-cancel = Annulla
 # Variables
@@ -1784,6 +1802,9 @@ trustpanel-blocker-see-all = Mostra tutti
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protezioni antitracciamento per { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
