@@ -2849,3 +2849,12 @@ referrals-section-header =
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =
     .label = Condividi { -brand-short-name }
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .label = Condividi { -brand-product-name }
+    .description = Invita qualcuno a scegliere il browser che mette la privacy al primo posto.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = Condividi { -brand-product-name }
