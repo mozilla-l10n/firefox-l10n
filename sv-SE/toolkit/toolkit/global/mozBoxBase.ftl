@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Öppnas i en ny flik
+moz-box-link-opens-in-new-tab = Öppnas i en ny flik
 moz-box-item-reorder-handle =
     .aria-label = Ändra ordning på objekt med Ctrl+Skift+Pil uppåt eller Ctrl+Skift+Pil neråt
 # Variables:
