@@ -322,6 +322,11 @@ appmenu-about =
     .accesskey = A
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = { -brand-product-name } を宣伝
+    .accesskey = r
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = { -brand-shorter-name } を宣伝
     .accesskey = r
