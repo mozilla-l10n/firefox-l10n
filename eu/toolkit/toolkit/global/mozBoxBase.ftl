@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Fitxa berrian irekitzen du
+moz-box-link-opens-in-new-tab = Fitxa berrian irekitzen du
 moz-box-item-reorder-handle =
     .aria-label = Aldatu elementuaren ordena Ctrl+Shift+GeziaGora edo Ctrl+Shift+GeziaBehera erabiliz
 # Variables:
