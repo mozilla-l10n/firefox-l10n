@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Embojuruja tendayke pyahúpe
+moz-box-link-opens-in-new-tab = Embojuruja tendayke pyahúpe
 moz-box-item-reorder-handle =
     .aria-label = Emoĩporã pe mba’eporurã eiporúvo Ctrl+Mayús+Hu’y yvatévo térã Ctrl+Mayús+ Hu’y yvy gotyo
 # Variables:
