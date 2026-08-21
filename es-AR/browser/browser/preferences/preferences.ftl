@@ -1249,6 +1249,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Seleccionar un contenedor para cada nueva pestaña
     .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = No usar contenedores para enlaces abiertos desde aplicaciones externas
+    .accesskey = d
 containers-new-tab-check2 =
     .label = Seleccionar un contenedor para cada nueva pestaña
     .accesskey = S
