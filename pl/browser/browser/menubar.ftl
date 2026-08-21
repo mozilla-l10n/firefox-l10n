@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = Ustaw { -brand-shorter-name(case: "acc") } jako domyślną przeglądarkę
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Podziel się { -brand-product-name(case: "ins") }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = Podziel się { -brand-shorter-name(case: "ins") }
 menu-application-services =
