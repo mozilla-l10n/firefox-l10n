@@ -371,6 +371,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akcie
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Trhy
+    .label = Trhy
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Seznam sledovaných
+    .label = Seznam sledovaných
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Vyhledávání podle názvu nebo symbolu
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -384,6 +394,32 @@ newtab-stocks-ticker-status-up = { $name }, zvýšení o { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, snížení o { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, beze změny, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = Přidat { $name } do seznamu sledovaných
+    .aria-label = Přidat { $name } do seznamu sledovaných
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = Odebrat { $name } ze seznamu sledovaných
+    .aria-label = Odebrat { $name } ze seznamu sledovaných
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } je ve vašem seznamu sledovaných
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = Položka { $name } byla přidána do seznamu sledovaných
 
 ## Strings for the Picture of the Day widget
 

@@ -64,6 +64,7 @@ about-private-browsing-pin-promo-title = Kookie nongatupyre ha tembiasakue’ỹ
 ## Strings used in a promotion message for Firefox Relay
 
 about-private-browsing-relay-promo-header = Eipytyvõ spam ani oike ne ñe’ẽmondo guahẽhápe ñanduti veve rovamo’ãhándi
+about-private-browsing-relay-promo-title = Eñomi ne kundaharape ñanduti veve rovamo’ãhandi eñemboheraguapy, ejogua térã emoherakuãvo ñandutípe.
 about-private-browsing-relay-promo-link-text = Eiporu ñanduti veve rovamo’ãha
 
 ## Strings used in a promotion message for cookie banner reduction

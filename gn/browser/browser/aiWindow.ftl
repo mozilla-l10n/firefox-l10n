@@ -100,6 +100,7 @@ aiwindow-firstrun-title = Eg̃uahẽporã { -smart-window-brand-name }
 aiwindow-firstrun-model-title = ¿Mba’épa upe eipotavéva?
 aiwindow-firstrun-model-title-v2 = Eiporavo peteĩva eñepyrũ hag̃ua
 aiwindow-firstrun-model-subtitle = Eiporavo peteĩchagua eiporu hag̃ua { -smart-window-brand-name }. Emoambue eikotevẽ vove.
+aiwindow-firstrun-model-subtitle-v2 = Peteĩteĩva ne pytyvõkuaa emombyky, ejogua ha embojovake opaite ne rendayke. Emoambuekuaa ejapose vove.
 aiwindow-firstrun-model-fast-label = Ipya’e
 aiwindow-firstrun-model-fast-body = Embohovái pya’e
 # $shortName (string) - The short name of the model version
