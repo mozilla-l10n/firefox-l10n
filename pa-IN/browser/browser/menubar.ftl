@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = { -brand-shorter-name } ਨੂੰ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = { -brand-product-name } ਨੂੰ ਸਾਂਝਾ ਕਰੋ
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = { -brand-shorter-name } ਨੂੰ ਸਾਂਝਾ ਕਰੋ
 menu-application-services =
