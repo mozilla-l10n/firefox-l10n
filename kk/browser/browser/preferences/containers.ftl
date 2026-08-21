@@ -98,6 +98,17 @@ containers-window-update-settings3 =
     .title = { $name } контейнерінің баптаулары
     .style = min-width: 32em
 
+## Dialog that binds a website to a container.
+
+containers-site-label =
+    .label = Вебсайт
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Контейнер
+containers-site-dialog =
+    .buttonlabelaccept = Сақтау
+    .buttonaccesskeyaccept = с
+
 ## Container creation panel, anchored to the URL bar.
 
 containers-panel-title = Жаңа контейнерді қосу
