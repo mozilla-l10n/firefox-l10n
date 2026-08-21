@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = Встановити { -brand-shorter-name } типовим браузером
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Поділитися { -brand-product-name }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = Поділитися { -brand-shorter-name }
 menu-application-services =
