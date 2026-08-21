@@ -6,6 +6,14 @@ do-not-track-description = Saytlara “Məni İzləmə” siqnalı göndərərə
 do-not-track-learn-more = Ətraflı öyrən
 do-not-track-option-always =
     .label = Həmişə
+global-privacy-control-description =
+    .label = Vebsaytlara de ki, məlumatlarımı satmasın və ya paylaşmasın
+    .accesskey = d
+non-technical-privacy-heading =
+    .label = Əlavə qorunma tədbirləri
+preferences-privacy-relay-available =
+    .label = { -relay-brand-name } e-poçt maskalarını təklif et
+    .description = Gerçək e-poçt ünvanınızı gizlədərək poçt qutunuzu spamdan qoruyur.
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -1095,6 +1103,10 @@ certs-devices =
     .accesskey = T
 certs-devices-enable-fips = FIPS aktivləşdir
 
+## DoH Section
+
+preferences-doh-header = HTTPS üzərindən DNS
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = İşçi masası
@@ -1130,6 +1142,15 @@ preferences-ai-controls-header3 =
 
 security-privacy-status-ok-header = { -brand-short-name } keşikdədir
 security-privacy-status-ok-label = Artırılmış İzlənmə Qoruması açıqdır
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] Son bir ayda { $trackerCount } izləyici əngəlləndi
+       *[other] Son bir ayda { $trackerCount } izləyici əngəlləndi
+    }
+security-privacy-status-up-to-date-label = { -brand-short-name } səyyahının ən son və təhlükəsiz versiyasını əldə etmisiniz
 
 ## Enhanced Tracking Protection (ETP) status section
 

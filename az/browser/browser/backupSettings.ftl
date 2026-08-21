@@ -5,6 +5,9 @@
 settings-data-backup-header2 =
     .label = Nüsxələ
     .description = Əlfəcinləriniz, baxış tarixçəsi və digər məlumatlarınızı avtomatik qoruyur.
+settings-data-backup-restore-scheduled-on =
+    .label = Məlumatlarımı geri qaytar
+    .description = { -brand-product-name } məlumatlarınızı sonuncu nüsxələndiyi tarixdən bərpa edin.
 
 ##
 
