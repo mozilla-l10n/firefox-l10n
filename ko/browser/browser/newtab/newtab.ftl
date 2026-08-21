@@ -381,6 +381,10 @@ newtab-stocks-search-no-results = “{ $query }”에 대한 검색 결과 없�
 newtab-stocks-search-loading = 로딩 중…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = 검색할 수 없습니다. 나중에 다시 시도하세요.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full = 주식은 최대 { $limit }개까지 추가할 수 있습니다. 다른 하나를 추가하려면 하나를 제거하세요.
 
 ## Strings for the Picture of the Day widget
 
@@ -431,6 +435,16 @@ newtab-picture-check-back = 새로운 사진은 내일 다시 확인해 주세�
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = 위키미디어 공용 오늘의 사진
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = 최근 검색
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = 최근 검색 옵션
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = 더 알아보기
 
 ## Search box component.
 
@@ -803,6 +817,8 @@ newtab-custom-widget-stocks-toggle =
     .label = 주식
 newtab-custom-widget-picture-toggle =
     .label = 오늘의 사진
+newtab-custom-widget-recent-searches-toggle =
+    .label = 최근 검색
 newtab-custom-widget-section-title = 위젯
 newtab-custom-widget-section-toggle =
     .label = 위젯
