@@ -445,6 +445,8 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = რისთვისაა პროფილები?
 # Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = გააზიარეთ { -brand-product-name }
+# Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = გააზიარეთ { -brand-short-name }
 appmenuitem-share-firefox-description = მოიწვიეთ ვინმე, აირჩიოს ბრაუზერი, რომლისთვისაც უწინარესია პირადულობა
 appmenu-profiles-2 =
