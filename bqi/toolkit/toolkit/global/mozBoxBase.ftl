@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = گۊشیڌن من بلگه نۊ
+moz-box-link-opens-in-new-tab = گۊشیڌن من بلگه نۊ
