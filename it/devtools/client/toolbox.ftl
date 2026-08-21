@@ -49,7 +49,7 @@ toolbox-always-on-top-disabled2 = Attiva Sempre in primo piano
 
 # Variables:
 #   $url (String): The local mode URL
-toolbox-local-mode-notice = È possibile caricare questo documento anche da “{ $url }” utilizzando la funzione “Local Mode” di DevTools, attivabile dal pannello delle impostazioni.
+toolbox-local-mode-notice = È possibile caricare questo documento anche da “{ $url }” utilizzando la funzione “Modalità locale” di DevTools, attivabile dal pannello delle impostazioni.
 toolbox-local-mode-notice-add-to-settings-button = Aggiungi alle impostazioni
 toolbox-local-mode-notice-try-it-button = Prova
 toolbox-local-mode-notice-navigate-to-existing-mapping = Passa alla mappatura esistente
