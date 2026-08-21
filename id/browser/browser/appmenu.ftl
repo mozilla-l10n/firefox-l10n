@@ -442,6 +442,8 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = Apa Itu Profil?
 # Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Bagikan { -brand-product-name }
+# Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Bagikan { -brand-short-name }
 appmenuitem-share-firefox-description = Undang seseorang untuk memilih peramban yang mengutamakan privasi
 appmenu-profiles-2 =
