@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Hapet në skedë të re
+moz-box-link-opens-in-new-tab = Hapet në skedë të re
