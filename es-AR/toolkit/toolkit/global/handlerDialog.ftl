@@ -41,7 +41,7 @@ wallet-custom-scheme-warning = Abrir un enlace <strong>{ $scheme }</strong> perm
 
 permission-dialog-remember = Siempre permitir que <strong> { $host } </strong> abra enlaces <strong> { $scheme }</strong>
 permission-dialog-remember-file = Usar siempre este archivo para abrir enlaces <strong>{ $scheme }</strong>
-permission-dialog-remember-extension = Siempre permitir que está extensión abra enlaces <strong>{ $scheme }</strong>
+permission-dialog-remember-extension = Siempre permitir que esta extensión abra enlaces <strong>{ $scheme }</strong>
 
 ##
 
@@ -64,7 +64,7 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Abrir enlace
     .buttonaccesskeyaccept = e
-chooser-dialog-description = Eligir una aplicación para abrir el enlace { $scheme }.
+chooser-dialog-description = Elegir una aplicación para abrir el enlace { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Usar siempre esta aplicación para abrir enlaces <strong>{ $scheme }</strong>
 chooser-dialog-remember-extra =

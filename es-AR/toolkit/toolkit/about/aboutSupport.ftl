@@ -130,7 +130,7 @@ place-database-stats-show = Mostrar estadísticas
 place-database-stats-hide = Ocultar estadísticas
 place-database-stats-entity = Entidad
 place-database-stats-count = Cantidad
-place-database-stats-size-kib = Tamaño (KiB
+place-database-stats-size-kib = Tamaño (KiB)
 place-database-stats-size-perc = Tamaño (%)
 place-database-stats-efficiency-perc = Eficiencia (%)
 place-database-stats-sequentiality-perc = Secuencialidad (%)
@@ -248,7 +248,7 @@ remote-debugging-url = URL
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] Informes de fallo del ultimo día
+        [one] Informes de fallo del último día
        *[other] Informes de fallos de los últimos { $days } días
     }
 # Variables
@@ -296,9 +296,9 @@ try-newer-driver = Bloqueado para la versión de su driver de video. Intente act
 clear-type-parameters = Parámetros de ClearType
 compositing = Composición
 support-font-determination = Información de depuración de visibilidad de fuente
-hardware-h264 = Decodificación H264 por hadrware
+hardware-h264 = Decodificación H264 por hardware
 main-thread-no-omtc = hilo principal, no OMTC
-yes = Si
+yes = Sí
 no = No
 unknown = Desconocido
 virtual-monitor-disp = Pantalla del monitor virtual
@@ -392,7 +392,7 @@ fission-status-experiment-treatment = Habilitado por el experimento
 fission-status-disabled-by-e10s-env = Deshabilitado por el entorno
 fission-status-enabled-by-env = Habilitado por el entorno
 fission-status-disabled-by-env = Deshabilitado por el entorno
-fission-status-enabled-by-default = Habilitado forma predeterminada
+fission-status-enabled-by-default = Habilitado de forma predeterminada
 fission-status-disabled-by-default = Deshabilitado de forma predeterminada
 fission-status-enabled-by-user-pref = Habilitado por el usuario
 fission-status-disabled-by-user-pref = Deshabilitado por usuario

@@ -17,7 +17,7 @@ webext-perms-header-unsigned-with-perms = ¿Agregar { $extension }? Este complem
 webext-perms-sideload-header = { $extension } agregado
 webext-perms-optional-perms-header2 = { $extension } solicita permisos adicionales
 webext-perms-optional-perms-header = { $extension } solicita permisos adicionales.
-webext-perms-header2 = Agregár { $extension }
+webext-perms-header2 = Agregar { $extension }
 webext-perms-list-intro-unsigned = Esta extensión no verificada podría poner en riesgo la privacidad o comprometer el dispositivo. Solo agréguela si confía en la fuente.
 
 ## Headers used in the webextension permissions dialog, inside the content.

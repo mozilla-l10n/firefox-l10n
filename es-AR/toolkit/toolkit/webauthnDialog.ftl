@@ -45,7 +45,7 @@ webauthn-register-direct-prompt = { $hostname } solicita información ampliada s
 webauthn-register-direct-prompt-hint = { -brand-short-name } puede anonimizar esto por usted, pero el sitio web puede rechazar esta clave. Si se rechaza, puede intentarlo de nuevo.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
-webauthn-select-sign-result-prompt = Se encontraron múltiples cuentas para { $hostname }. Seleccione cual usar o cancelar.
+webauthn-select-sign-result-prompt = Se encontraron múltiples cuentas para { $hostname }. Seleccione cuál usar o cancelar.
 # Variables:
 #  $hostname (String): the origin (website) for which a device needs to be selected.
 webauthn-select-device-prompt = Se encontraron múltiples dispositivos para { $hostname }. Seleccione uno.

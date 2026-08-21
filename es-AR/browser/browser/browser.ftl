@@ -285,7 +285,7 @@ urlbar-search-tips-redirect-2 = Inicie su búsqueda en la barra de direcciones p
 urlbar-search-tips-persist = La búsqueda ahora es más simple. Intente hacer su búsqueda más específica en la barra de direcciones. Para mostrar la URL en su lugar, vaya a Buscar en la configuración.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
-urlbar-tabtosearch-onboard = Seleccione este atajo de tecaldo para encontrar más rápido lo que necesita.
+urlbar-tabtosearch-onboard = Seleccione este atajo de teclado para encontrar más rápido lo que necesita.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -615,7 +615,7 @@ identity-remove-cert-exception =
     .label = Eliminar excepción
     .accesskey = r
 identity-description-insecure = La conexión a este sitio no es privada. La información que envíe puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).
-identity-description-insecure-login-forms = La información de ingreso que se usó en esta página no es segura puede estar comprometida.
+identity-description-insecure-login-forms = La información de ingreso que se usó en esta página no es segura y puede estar comprometida.
 identity-description-weak-cipher-intro = La conexión a este sitio usa cifrado débil y no es privada.
 identity-description-weak-cipher-risk = Otras personas pueden ver la información o modificar el comportamiento del sitio.
 identity-description-active-blocked2 = { -brand-short-name } bloqueó las partes de esta página que no son seguras.
@@ -656,7 +656,7 @@ browser-tab-audio-playing2 = REPRODUCIENDO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = MUDO
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = REPRODUCCIÖN AUTOMÄTICA BLOQUEADA
+browser-tab-audio-blocked = REPRODUCCIÓN AUTOMÁTICA BLOQUEADA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
 
@@ -1435,7 +1435,7 @@ toolbar-button-new-private-window =
     .tooltiptext = Abrir una nueva ventana de navegación privada ({ $shortcut })
 toolbar-button-share-tab =
     .label = Compartir
-    .tooltiptext = Compartir está página
+    .tooltiptext = Compartir esta página
 toolbar-button-tab-groups =
     .label = Grupos de pestañas
     .tooltiptext = Mostrar los grupos de pestañas
@@ -1570,7 +1570,7 @@ pinned-tabs-drop-indicator = Soltar la pestaña acá para pegar
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong> ¿Abrir pestañas anteriores? </strong> Puede restaurar su sesión anterior desde el menú de la aplicación { -brand-short-name } <img data-l10n-name = "icon" />, en Historial.
-restore-session-startup-suggestion-button = Mostrarme como
+restore-session-startup-suggestion-button = Mostrarme cómo
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
@@ -1580,7 +1580,7 @@ filepicker-blocked-infobar = Su organización bloqueó el acceso a los archivos 
 
 data-reporting-notification-message = { -brand-short-name } automáticamente envía algunos datos a { -vendor-short-name } para que podamos mejorar su experiencia.
 data-reporting-notification-button =
-    .label = Seleccionar que compartir
+    .label = Seleccionar qué compartir
     .accesskey = c
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegación privada
@@ -1800,7 +1800,7 @@ trustpanel-privacy-link = Configuración de privacidad
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Borrar cookies y datos del sitio para { $host }
-trustpanel-clear-cookies-description = Eliminar cookies y datos del sitio para puede cerrar sesión en los sitios web y limpiar los carritos de compras.
+trustpanel-clear-cookies-description = Eliminar cookies y datos del sitio puede cerrar sesión en los sitios web y limpiar los carritos de compras.
 trustpanel-clear-cookies-subview-button-clear = Limpiar
 trustpanel-clear-cookies-subview-button-cancel = Cancelar
 # Variables

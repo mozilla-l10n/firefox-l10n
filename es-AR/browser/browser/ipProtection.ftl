@@ -109,7 +109,7 @@ ipprotection-android-promo-callout-primary-button = Entendido
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Probar la VPN integrada de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ocultar ubicación</a> mientras se navega en { -brand-product-name }.
-unauthenticated-private-location-message = Ayuda a <a data-l10n-name="learn-more-vpn">a mantener privada la ubicación</a> en { -brand-product-name }.
+unauthenticated-private-location-message = Ayuda a <a data-l10n-name="learn-more-vpn">mantener privada la ubicación</a> en { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Elija entre varias ubicaciones o deje que { -brand-product-name } elija la más rápida.
 unauthenticated-get-started = Comenzar
 unauthenticated-terms-of-service-privacy-notice = Al continuar, se aceptan los <a data-l10n-name="vpn-terms-of-service">términos de servicio</a> y <a data-l10n-name="vpn-privacy-notice">nota de privacidad</a>.
@@ -162,7 +162,7 @@ ipprotection-locations-subview-recommended-description = Buscar la ubicación m�
 # The aria-label is for accessibility, and should communicate that the
 # location is unavailable and the button is disabled.
 ipprotection-locations-unavailable-label-1 = No disponible
-    .aria-label = No disponible, deshabitado
+    .aria-label = No disponible, deshabilitado
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = No disponible
 ipprotection-locations-subview-promo =
@@ -210,7 +210,7 @@ ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="settin
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } recordará qué sitios web se configuraron para usar VPN. Actualice estos en <a data-l10n-name="setting-link">configuración</a> en cualquier momento.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN desactivada para este sitio
 ipprotection-open-button = Abrir { -brand-product-name }
-ipprotection-come-back-title = Vuelva para probar la VPNinctegrada
+ipprotection-come-back-title = Vuelva para probar la VPN integrada
 ipprotection-message-body-hide-location = Oculte su ubicación cuando navegue en { -brand-product-name } para obtener más privacidad y control.
 ipprotection-connection-status-generic-error-title-1 = No se pudo conectar a la VPN
     .aria-label = No se pudo conectar a la VPN

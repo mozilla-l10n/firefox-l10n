@@ -310,7 +310,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar informac
 
 mr2022-onboarding-gratitude-title = Nos está ayudando a construir una web mejor
 mr2022-onboarding-gratitude-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más abierta, accesible y mejor para todos.
-mr2022-onboarding-gratitude-primary-button-label = Veamos que hay de nuevo
+mr2022-onboarding-gratitude-primary-button-label = Veamos qué hay de nuevo
 mr2022-onboarding-gratitude-secondary-button-label = Empezar a navegar
 
 ## Onboarding spotlight for infrequent users
@@ -366,10 +366,10 @@ onboarding-mobile-download-security-and-privacy-title = Manténgase cifrado cuan
 onboarding-mobile-download-security-and-privacy-subtitle = Cuando tenga todo sincronizado, { -brand-short-name } cifra las contraseñas, marcadores y más. Además, puede traer pestañas desde los otros dispositivos.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } lo cuida
-onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más más segura y accesible para todos.
+onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más segura y accesible para todos.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronizar datos entre dispositivos
-onboarding-sign-up-description = Regístrese para tener una cuenta y toda la información importante — contraseñas, marcadores y más — se guardará de forma segura y estará disponibles al iniciar sesión en cualquier dispositivo.
+onboarding-sign-up-description = Regístrese para tener una cuenta y toda la información importante — contraseñas, marcadores y más — se guardará de forma segura y estará disponible al iniciar sesión en cualquier dispositivo.
 onboarding-sign-up-button = Ingresar o registrarse
 onboarding-sign-up-secondary-button = Empezar a navegar
 
@@ -599,7 +599,7 @@ onboarding-refresh-onboarding-addons-subtitle = Las extensiones son pequeñas ap
 onboarding-refresh-onboarding-addons-title = Mejore la navegación
 onboarding-refresh-sync-subtitle = Tenga sus marcadores, contraseñas y más en cualquier lugar donde haya iniciado sesión en { -brand-short-name }. Además, los datos están encriptados para que solo usted pueda verlos.
 onboarding-refresh-sync-title = En cualquier parte. Todo sincronizado.
-onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una asociación sin fines de lucro. Con su apoyo, estamos trabajando para que Internet sea más más segura y accesible para todos.
+onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una asociación sin fines de lucro. Con su apoyo, estamos trabajando para que Internet sea más segura y accesible para todos.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } lo cuida
 

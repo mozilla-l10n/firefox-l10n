@@ -9,7 +9,7 @@ restore-page-error-title = Disculpe. Tenemos dificultades para recuperar sus pá
 restore-page-problem-desc = Hay algunos problemas intentando restaurar la última sesión. Elegí Restaurar sesión para volver a intentarlo.
 restore-page-try-this = ¿Todavía no pudo restaurar la sesión? A veces una pestaña puede causar el problema. Mire las pestañas previas, quite de la lista las pestañas que no necesite, y vuelva a intentarlo.
 restore-page-hide-tabs = Ocultar pestañas anteriores
-restore-page-show-tabs = Mostrar pestaña anteriores
+restore-page-show-tabs = Mostrar pestañas anteriores
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
