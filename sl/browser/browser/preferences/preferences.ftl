@@ -1645,6 +1645,9 @@ forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2794,3 +2797,12 @@ referrals-section-header =
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =
     .label = Priporoči { -brand-short-name(sklon: "tozilnik") }
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .label = Priporoči { -brand-product-name(sklon: "tozilnik") }
+    .description = Povabite nekoga, naj izbere brskalnik, ki postavlja zasebnost na prvo mesto.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = Priporoči { -brand-product-name(sklon: "tozilnik") }

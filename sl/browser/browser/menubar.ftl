@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = Nastavi { -brand-shorter-name(sklon: "tozilnik") } kot privzeti brskalnik
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Priporoči { -brand-product-name(sklon: "tozilnik") }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = Priporoči { -brand-shorter-name(sklon: "tozilnik") }
 menu-application-services =
