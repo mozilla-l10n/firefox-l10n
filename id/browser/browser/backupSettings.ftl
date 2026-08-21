@@ -202,4 +202,5 @@ disable-backup-encryption-confirm-button = Hapus kata sandi
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-encryption-state-label = Dienkripsi:
 backup-file-encryption-state-value-encrypted = Ya
