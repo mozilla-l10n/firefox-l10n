@@ -429,6 +429,16 @@ newtab-stocks-search-no-results = Žedne wuslědki za „{ $query }“
 newtab-stocks-search-loading = Zacytujo se…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Pytanje tuchylu njejo móžne. Wopytajśo pózdźéj hyšći raz.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Móžośo až do { $limit } akcije pśidaś. Wótwónoźćo jadnu, aby drugu pśidał.
+        [two] Móžośo až do { $limit } akcijowu pśidaś. Wótwónoźćo jadnu, aby drugu pśidał.
+        [few] Móžośo až do { $limit } akcijow pśidaś. Wótwónoźćo jadnu, aby drugu pśidał.
+       *[other] Móžośo až do { $limit } akcijow pśidaś. Wótwónoźćo jadnu, aby drugu pśidał.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -479,6 +489,16 @@ newtab-picture-check-back = Wrośćo se witśe, aby nowy wobraz wiźeł
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wobraz dnja Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Nejnowše pytanja
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Nastajenja nejnowšych pytanjow
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Dalšne informacije
 
 ## Search box component.
 
@@ -857,6 +877,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Akcije
 newtab-custom-widget-picture-toggle =
     .label = Wobraz dnja
+newtab-custom-widget-recent-searches-toggle =
+    .label = Nejnowše pytanja
 newtab-custom-widget-section-title = Asistenty
 newtab-custom-widget-section-toggle =
     .label = Asistenty

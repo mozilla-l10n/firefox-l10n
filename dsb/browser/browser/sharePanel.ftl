@@ -33,5 +33,13 @@ share-panel-send-to-mobile =
     .label = Na mobilny rěd pósłaś
 share-panel-device-subview =
     .title = Wšykne rědy
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Z drugim rědom zwězaś
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Njewiźiśo swój rěd?
 share-panel-os-share-subview =
     .title = Źěliś z…
