@@ -45,6 +45,10 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = İş masanızdan birbaşa çərəzlər və baxış tarixçəsi saxlanılmadan istifadə edin. Heç kim sizi izləmirmiş kimi internetdə səyahət edin.
 
+## Strings used in a promotion message for cookie banner reduction
+
+about-private-browsing-cookie-banners-promo-body = İndi bir çox çərəz bildirişlərini avtomatik olaraq rədd edirik ki, daha az izləniləsiniz və diqqəti yayındırmayan səyahət rejiminə qayıda biləsiniz.
+
 ## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = Bu cihazda iz buraxmayın
@@ -59,3 +63,5 @@ about-private-browsing-nova-info-link = Kim hələ də mənim fəaliyyətimi gö
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Siz qeyddən kənarsınız
+about-private-browsing-nova-info-subheader2 = Bütün Məxfi Pəncərələri bağladığınız zaman bütün axtarışlarınızı və giriş məlumatlarınızı siləcəyik. Burada { -brand-short-name } səyyahının izləyiciləri əngəlləmə kimi daxili qoruma özəllikləri də aktivdir.
+about-private-browsing-nova-info-subheader = Bu pəncərəni bağladığınız zaman bütün axtarışlarınızı və giriş məlumatlarınızı siləcəyik. Burada { -brand-short-name } səyyahının izləyiciləri əngəlləmə kimi daxili qoruma özəllikləri də aktivdir.
