@@ -411,6 +411,8 @@ settings-translations-subpage-language-select-option =
 settings-translations-subpage-language-add-button =
     .title = Pievienot valodu
     .aria-label = Pievienot valodu
+settings-translations-subpage-download-retry-button =
+    .label = Mēģināt vēlreiz
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =

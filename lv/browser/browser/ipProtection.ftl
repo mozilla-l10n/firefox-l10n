@@ -41,5 +41,11 @@ ipprotection-android-promo-callout-primary-button = Sapratu
 
 ## Messages and errors
 
+ipprotection-connection-status-generic-error-description = Pēc dažām minūtēm mēģināt vēlreiz.
+ipprotection-connection-status-generic-error-try-again = Lūgums vēlāk mēģināt vēlreiz.
 ipprotection-connection-status-network-error-title-1 = Pārbaudi savienojumu ar internetu
     .aria-label = Pārbaudi savienojumu ar internetu
+
+## IP Protection alerts
+
+vpn-error-alert-body = Vēlāk jāmēģina vēlreiz.

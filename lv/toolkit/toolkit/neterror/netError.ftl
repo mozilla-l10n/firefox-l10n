@@ -23,6 +23,8 @@ neterror-override-exception-button = Pieņemt risku un turpināt
 neterror-pref-reset-button = Atjaunot noklusētos iestatījumus
 neterror-return-to-previous-page-button = Iet atpakaļ
 neterror-return-to-previous-page-recommended-button = Iet atpakaļ (ieteicams)
+neterror-try-again-button-2 = Mēģināt vēlreiz
+    .accesskey = M
 neterror-try-again-button = Mēģināt vēlreiz
 neterror-view-certificate-link = Aplūkot sertifikātu
 
@@ -72,9 +74,10 @@ neterror-error-reporting-automatic = Ziņojiet par šādām kļūdām { -vendor-
 
 neterror-generic-error = Kāda nezināma iemesla dēļ { -brand-short-name } nevar atvērt šo lapu.
 neterror-load-error-try-again = Vietne varētu būt īslaicīgi nepieejama vai pārāk aizņemta. Pēc kāda brīža jāmēģina vēlreiz.
-neterror-load-error-connection = Ja nevarat atvērt nevienu lapu, pārbaudiet sava datora tīkla savienojumu.
-neterror-load-error-firewall = Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
+neterror-load-error-connection = Ja nevar ielādēt nevienu lapu, jāpārbauda datora savienojums ar tīklu.
+neterror-load-error-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecināš, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 neterror-captive-portal = Pieslēdzieties tīklam, lai piekļūtu Internetam.
+neterror-dns-not-found-hint-try-again = Vēlāk jāmēģina vēlreiz
 neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
 
 ##
@@ -96,7 +99,7 @@ neterror-not-cached-try-again = Jāklikšķina “Mēģināt vēlreiz”, lai at
 neterror-net-offline = Nospiediet “Mēģināt vēlreiz” lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.
 neterror-proxy-resolve-failure-settings = Pārbaudiet starpniekservera (proxy) iestatījumus.
 neterror-proxy-resolve-failure-connection = Pārliecinieties, ka datoram ir strādājošs tīkla savienojums.
-neterror-proxy-resolve-failure-firewall = Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
+neterror-proxy-resolve-failure-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecināš, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 neterror-proxy-connect-failure-settings = Pārbaudiet starpniekservera (proxy) iestatījumus.
 neterror-proxy-connect-failure-contact-admin = Sazinieties ar savu tīkla administratoru, lai pārliecinātos, ka starpniekserveris strādā korekti.
 neterror-content-encoding-error = Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.
@@ -154,3 +157,4 @@ fp-neterror-offline-body-title = Izskatās, ka ir sarežģījums ar interneta sa
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-net-timeout-intro = Serveris <strong>{ $hostname }</strong> pārāk ilgi neatbild.
+fp-neterror-vpn-error-description = Pēc dažām minūtēm jāmēģina vēlreiz.

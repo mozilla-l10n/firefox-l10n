@@ -49,6 +49,10 @@ add-engine-window =
 add-engine-button = Pievienojiet pielāgotu meklētāju
 add-engine-name = Meklētāja nosaukums
 
+## The following strings are used as error messages.
+
+add-engine-invalid-url = Šis URL neizskatās pareizi. Lūgums to pārbaudīt un mēģināt vēlreiz.
+
 ## The following strings are used as labels for the dialog's buttons.
 
 # buttonlabelextra1 is the label of a button to open the advanced section

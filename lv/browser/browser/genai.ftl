@@ -52,3 +52,8 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Jautāt { $provider }…
+
+## Link previews
+
+# Text for the retry link when generation fails
+link-preview-generation-retry = Mēģināt vēlreiz
