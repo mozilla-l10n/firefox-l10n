@@ -111,15 +111,15 @@ browser-data-passwords-label =
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
-            [ie] بلگه یل خاستنی
-            [edge] بلگه یل خاستنی
+            [ie] مووردا خاستنی
+            [edge] مووردا خاستنی
            *[other] نشووکا
         }
 browser-data-bookmarks-label =
     .value =
         { $browser ->
-            [ie] بلگه یل خاستنی
-            [edge] بلگه یل خاستنی
+            [ie] مووردا خاستنی
+            [edge] مووردا خاستنی
            *[other] نشووکا
         }
 browser-data-otherdata-checkbox =

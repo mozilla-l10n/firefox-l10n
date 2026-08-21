@@ -168,6 +168,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = ٱنجوم وابی
 migration-safari-password-import-header = و من ٱووردن رزما ز سافاری
+migration-safari-password-import-post-sequoia-step3 = فایل ن زفت کۊنین
+migration-safari-password-import-post-sequoia-step4 = فایلی ک زفت کردین ن پسند کۊنین
 migration-safari-password-import-steps-header = سی و من ٱووردن رزما ز سافاری
 migration-chrome-windows-password-import-steps-header = من کروم:
 migration-chrome-windows-password-import-step2 = ز نومگه، گۊزینه ”سامووا” ن پسند کۊنین.
@@ -185,6 +187,18 @@ migration-wizard-progress-success-bookmarks =
     { $quantity ->
         [one] { $quantity } نشووک
        *[other] { $quantity } نشووک
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } موورد خاستنی
+       *[other] { $quantity } مووردا خاستنی
     }
 
 ## The import process identifies extensions installed in other supported

@@ -864,7 +864,7 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
-newtab-shortcuts-highlight-title = مووردا دلخا ایسا من دسرس تووݩ هڌ
+newtab-shortcuts-highlight-title = مووردا خاستنی ایسا من دسرس تووݩ هڌ
 
 ## Strings for reporting issues with ads and content
 
