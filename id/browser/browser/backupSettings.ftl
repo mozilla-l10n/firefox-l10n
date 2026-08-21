@@ -195,3 +195,4 @@ password-rules-a11y-warning =
 disable-backup-encryption-header = Hapus perlindungan kata sandi
 disable-backup-encryption-support-link = Apa yang akan dicadangkan?
 disable-backup-encryption-cancel-button = Batal
+disable-backup-encryption-confirm-button = Hapus kata sandi
