@@ -1446,7 +1446,7 @@ newtab-sports-widget-show-less =
     .label = Visa mindre
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
-    .label = Endast följda team
+    .label = Endast följda lag
 # Status shown when more matches are being fetched.
 newtab-sports-widget-loading-more = Laddar fler matchningar…
 # Watch is a verb (as in watch matches online).

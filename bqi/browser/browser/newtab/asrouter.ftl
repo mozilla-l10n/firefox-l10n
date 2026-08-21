@@ -266,6 +266,9 @@ windows-10-eos-sync-toast-secondary-label = دینداتر وا ویروم بی�
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-primary-button = لادراری گرؽڌن ز { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = دیسنیڌن { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-info-button = بنیرین چ چیایی مسدۊد وابینه
 windows-10-eos-callout-addons-primary-button = پسندا ایما ن سیل کۊنین
 windows-10-eos-sync-callout-next-button = بئڌی
 windows-10-eos-sync-callout-get-started-button = ناهاڌن پا کار
@@ -305,3 +308,14 @@ relay-50-masks-announcement-secondary-button = رڌ کردن
 
 nova-early-access-infobar-primary-button = فئمیم
     .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-pin-to-taskbar = و تسکبار بدیسه
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = زفت کردن وو بستن { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = زفت کردن وو رئڌن وا پؽش
