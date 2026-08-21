@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Se abre en una nueva pestaña
+moz-box-link-opens-in-new-tab = Se abre en una nueva pestaña
 moz-box-item-reorder-handle =
     .aria-label = Reordenar elemento usando Ctrl+May+Flecha arriba o Ctrl+May+Flecha abajo
 # Variables:
