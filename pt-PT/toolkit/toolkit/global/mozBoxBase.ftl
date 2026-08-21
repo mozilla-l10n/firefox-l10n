@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Abre num novo separador
+moz-box-link-opens-in-new-tab = Abre num novo separador
