@@ -1260,6 +1260,8 @@ containers-settings-button2 =
     .title = Ajustes
 containers-remove-button3 =
     .title = Eliminar
+containers-site-remove-button =
+    .title = Eliminar
 containers-remove-button2 =
     .title = Eliminar
 

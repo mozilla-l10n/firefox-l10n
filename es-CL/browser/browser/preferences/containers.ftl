@@ -98,6 +98,12 @@ containers-window-update-settings3 =
     .title = Preferencias del contenedor { $name }
     .style = min-width: 32em
 
+## Dialog that binds a website to a container.
+
+containers-site-dialog =
+    .buttonlabelaccept = Guardar
+    .buttonaccesskeyaccept = S
+
 ## Container creation panel, anchored to the URL bar.
 
 containers-panel-title = Añadir nuevo contenedor
