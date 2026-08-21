@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Komenci seancon en { -brand-product-name }
 appmenuitem-fxa-manage-account = Administri konton
 fxa-menu-sync-status-on = Spegulado ŝaltita
 fxa-menu-sync-status-off = Spegulado malŝaltita
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Speguli viajn datumojn
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Viaj datumoj ne estas spegulataj
@@ -394,6 +397,7 @@ appmenuitem-relay-title-signed-in = Montri retpoŝtajn maskojn
 appmenuitem-relay-description = Maski vian veran retpoŝton kaj telefonnumeron
 appmenuitem-services-relay-description = Malfermi la panelon pri retpoŝtaj maskoj
 appmenuitem-vpn-title2 = Kaŝu vian pozicion per { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Profitu aldonan protekton en ĉiuj aparatoj
 appmenuitem-vpn-description3 = Igu vian retumon pli malfacile spurebla
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Protekto por la integra aparato

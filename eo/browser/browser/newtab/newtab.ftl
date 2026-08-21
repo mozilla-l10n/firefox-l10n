@@ -328,6 +328,10 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akcioj
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Merkatoj
+    .label = Merkatoj
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
