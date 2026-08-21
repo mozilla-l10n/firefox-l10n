@@ -143,9 +143,13 @@ taskbar-tabs-value-prop-callout-subtitle = Eiporúke ne rovetã teetépe ha jehe
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = Eike ne rembiaporãita rupa guive
 taskbar-tabs-email-callout-title-v3 = Ereko ne ñe’ẽmondo g̃uahẽha tembiaporã rupápe
+taskbar-tabs-email-callout-subtitle-v3 = Embojuruja ñanduti veve renda peteĩ tembiporu’íramo ovetã oikóvape omo’ãva { -brand-short-name }.
 taskbar-tabs-media-callout-title-v3 = Ereko ne ñe’ẽmbyry tembiaporãita rupápe
+taskbar-tabs-media-callout-subtitle-v3 = Embojuruja ava ñandutieta peteĩ tembiporu’íramo ovetã oikóvape omo’ãva { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title-v3 = Emboja tenda erohoryvéva tembiaporãita rupápe
+taskbar-tabs-value-prop-callout-subtitle-v3 = Embojuruja tendaita peteĩ tembiporu’íramo ovetã oikóvape omo’ãva { -brand-short-name }.
 taskbar-tabs-gaming-callout-title-v3 = Ehugajey ne rembiaporãita rupa guive
+taskbar-tabs-gaming-callout-subtitle-v3 = Embojuruja ñembosasái renda peteĩ tembiporu’íramo ovetã oikóvape omo’ãva { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Emboja tembiaporã rendáre
 
