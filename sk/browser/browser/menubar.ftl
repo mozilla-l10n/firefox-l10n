@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = Nastaviť { -brand-shorter-name(case: "acc") } ako predvolený prehliadač
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Zdieľať { -brand-product-name(case: "acc") }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = Zdieľať { -brand-shorter-name(case: "acc") }
 menu-application-services =

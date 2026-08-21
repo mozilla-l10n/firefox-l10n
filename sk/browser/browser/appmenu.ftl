@@ -445,6 +445,8 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = Čo sú profily?
 # Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Zdieľať { -brand-product-name(case: "acc") }
+# Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Zdieľať { -brand-short-name(case: "acc") }
 appmenuitem-share-firefox-description = Pozvite niekoho, aby si vybral prehliadač, ktorý kladie súkromie na prvé miesto
 appmenu-profiles-2 =
