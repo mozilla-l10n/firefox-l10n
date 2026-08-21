@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = Ange { -brand-shorter-name } som standardwebbläsare
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Dela { -brand-product-name }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = Dela { -brand-shorter-name }
 menu-application-services =
