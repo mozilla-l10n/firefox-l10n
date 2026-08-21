@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Iepenet yn in nij ljepblêd
+moz-box-link-opens-in-new-tab = Iepenet yn in nij ljepblêd
 moz-box-item-reorder-handle =
     .aria-label = Brûk Ctrl+Shift+ArrowUp of Ctrl+Shift+ArrowDown om de folchoarder fan dit item te wizigjen
 # Variables:
