@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = { -brand-shorter-name } をデフォルトウェブブラウザーに設定する
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = { -brand-product-name } を宣伝
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = { -brand-shorter-name } を宣伝
 menu-application-services =
