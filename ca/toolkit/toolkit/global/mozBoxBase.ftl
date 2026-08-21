@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = S'obre en una pestanya nova
+moz-box-link-opens-in-new-tab = S'obre en una pestanya nova
