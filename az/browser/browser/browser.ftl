@@ -217,6 +217,8 @@ search-one-offs-tabs =
     .tooltiptext = Vərəqlər ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Tarixçə ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Əməliyyatlar ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -416,11 +418,16 @@ urlbar-result-action-ai-chat = Soruş
 
 urlbar-searchmode-bookmarks =
     .label = Əlfəcinlər
+urlbar-searchmode-actions =
+    .label = Əməliyyatlar
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Bu dəfə bununla axtarın:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Axtarış Tənzimləmələri
+urlbar-searchmode-actions3 = Əməliyyatlar
+    .accesskey = Ə
+urlbar-searchmode-actions2 = Əməliyyatlar
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Bu dəfə bununla axtarın:
@@ -691,6 +698,9 @@ reset-pbm-panel-heading = Məxfi seansınız sonlandırılsın?
 reset-pbm-panel-always-ask-checkbox =
     .label = Həmişə soruş
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Məxfi seansı təmizlə
+    .accesskey = T
 reset-pbm-panel-confirm-button =
     .label = Seans məlumatlarını sil
     .accesskey = D
