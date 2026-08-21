@@ -445,6 +445,8 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = Што такое профілі?
 # Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Падзяліцца { -brand-product-name }
+# Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Падзяліцца { -brand-short-name }
 appmenuitem-share-firefox-description = Запрасіце каго-небудзь выбраць браўзер, які ставіць прыватнасць на першае месца
 appmenu-profiles-2 =

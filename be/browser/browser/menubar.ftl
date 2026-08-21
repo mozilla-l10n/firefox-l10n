@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = Усталяваць { -brand-shorter-name } як прадвызначаны браўзер
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Падзяліцца { -brand-product-name }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = Падзяліцца { -brand-shorter-name }
 menu-application-services =
