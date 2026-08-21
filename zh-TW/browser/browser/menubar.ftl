@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = 將 { -brand-shorter-name } 設為預設瀏覽器
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = 分享 { -brand-product-name }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = 分享 { -brand-shorter-name }
 menu-application-services =
