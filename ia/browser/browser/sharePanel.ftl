@@ -33,5 +33,13 @@ share-panel-send-to-mobile =
     .label = Inviar a apparato mobile
 share-panel-device-subview =
     .title = Tote le apparatos
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Connecter un altere apparato
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Non vide tu tu apparato?
 share-panel-os-share-subview =
     .title = Conivider con…
