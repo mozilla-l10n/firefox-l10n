@@ -323,6 +323,11 @@ appmenu-about =
     .accesskey = մ
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Կիսվել { -brand-product-name }-ով
+    .accesskey = r
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = Կիսվել { -brand-shorter-name }-ով
     .accesskey = r
