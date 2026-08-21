@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Membuka di tab baru
+moz-box-link-opens-in-new-tab = Membuka di tab baru
