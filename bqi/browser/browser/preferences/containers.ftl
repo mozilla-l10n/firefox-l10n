@@ -74,6 +74,17 @@ containers-icon-tree =
 containers-icon-chill =
     .label = زهشت
 
+## Dialog that binds a website to a container.
+
+containers-site-label =
+    .label = وبگه اینترنتی
+    .placeholder = example.com
+containers-site-container-label =
+    .label = هامل
+containers-site-dialog =
+    .buttonlabelaccept = زفت
+    .buttonaccesskeyaccept = S
+
 ## Container creation panel, anchored to the URL bar.
 
 containers-panel-create-button =

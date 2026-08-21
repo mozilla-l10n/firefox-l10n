@@ -29,6 +29,8 @@ appearance-browser-icon-bonus-group =
 
 appearance-browser-icon-set-default-button =
     .label = سامووݩ و سۊرت پؽش فرز
+appearance-browser-icon-pin-button =
+    .label = دیسنیڌن و تسکبار
 
 ## Icon names
 
@@ -47,3 +49,8 @@ appearance-browser-icon-kit =
     .label = کیت
 appearance-browser-icon-pixelated =
     .label = پیکسلی
+# @heyheymomodraws is the social-media handle of the icon's author and must be
+# kept verbatim - do not translate or otherwise change it.
+appearance-browser-icon-momo =
+    .label = مومو
+    .description = وورکل وابیڌه و دست @heyheymomodraws

@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Ніякіх захаваных кукаў або гісторыі наўпрост з працоўнага стала. Аглядайце так, нібы ніхто не назірае.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Дапамажыце прадухіліць спам у паштовай скрыні з дапамогай масак электроннай пошты
+about-private-browsing-relay-promo-title = Схавайце свой сапраўдны адрас з дапамогай маскі электроннай пошты, калі вы рэгіструецеся, робіце пакупкі або дзеліцеся ім у інтэрнэце.
+about-private-browsing-relay-promo-link-text = Паспрабуйце маскі электроннай пошты
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
