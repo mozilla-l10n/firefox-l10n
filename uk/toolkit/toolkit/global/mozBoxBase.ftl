@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Відкривається в новій вкладці
+moz-box-link-opens-in-new-tab = Відкривається в новій вкладці
 moz-box-item-reorder-handle =
     .aria-label = Змінити порядок елементів за допомогою Ctrl+Shift+↑ або Ctrl+Shift+↓
 # Variables:
