@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Открывается в новой вкладке
+moz-box-link-opens-in-new-tab = Открывается в новой вкладке
 moz-box-item-reorder-handle =
     .aria-label = Пересортировать элементы, используя Ctrl+Shift+СтрелкаВверх или Ctrl+Shift+СтрелкаВниз
 # Variables:
