@@ -61,6 +61,11 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Tidak ada kuki tersimpan atau riwayat, langsung dari desktop Anda. Menjelajah seperti tidak ada yang mengawasi.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Bantu cegah spam kotak masuk dengan topeng surel
+about-private-browsing-relay-promo-title = Sembunyikan alamat asli Anda dengan topeng surel saat Anda mendaftar, berbelanja, atau membagikannya secara daring.
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
