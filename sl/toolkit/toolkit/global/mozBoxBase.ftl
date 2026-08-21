@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Odpre se v novem zavihku
+moz-box-link-opens-in-new-tab = Odpre se v novem zavihku
 moz-box-item-reorder-handle =
     .aria-label = Spremenite položaj predmeta s Ctrl+Shift+PuščicaGor ali Ctrl+Shift+PuščicaDol
 # Variables:
