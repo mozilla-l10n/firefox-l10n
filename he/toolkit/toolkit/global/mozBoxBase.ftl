@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = פותח בלשונית חדשה
+moz-box-link-opens-in-new-tab = פותח בלשונית חדשה
 moz-box-item-reorder-handle =
     .aria-label = סידור מחדש של פריטים באמצעות Ctrl+Shift+ArrowUp או Ctrl+Shift+ArrowDown
 # Variables:
