@@ -326,6 +326,11 @@ appmenu-about =
     .accesskey = P
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Rekomendi { -brand-product-name }
+    .accesskey = R
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = Rekomendi { -brand-shorter-name }
     .accesskey = R
