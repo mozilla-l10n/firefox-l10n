@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Εικονίδιο
 containers-color-label2 =
     .label = Χρώμα
+containers-dialog2 =
+    .buttonlabelaccept = Αποθήκευση
+    .buttonaccesskeyaccept = Α
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,14 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Ρυθμίσεις θεματικής ενότητας «{ $name }»
     .style = min-width: 35em
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Προσθήκη ιστοτόπου
+containers-site-dialog =
+    .buttonlabelaccept = Αποθήκευση
+    .buttonaccesskeyaccept = Α
 
 ## Container creation panel, anchored to the URL bar.
 

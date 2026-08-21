@@ -1260,6 +1260,11 @@ containers-settings-button2 =
     .title = Ρυθμίσεις
 containers-remove-button3 =
     .title = Διαγραφή
+containers-sites-add-button =
+    .label = Προσθήκη ιστοτόπου
+    .accesskey = ι
+containers-site-remove-button =
+    .title = Διαγραφή
 containers-remove-button2 =
     .title = Αφαίρεση
 

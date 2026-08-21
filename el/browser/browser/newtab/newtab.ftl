@@ -328,6 +328,14 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Μετοχές
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Αγορές
+    .label = Αγορές
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Λίστα παρακολούθησης
+    .label = Λίστα παρακολούθησης
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -341,6 +349,21 @@ newtab-stocks-ticker-status-up = { $name }, άνοδος { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, πτώση { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, χωρίς μεταβολή, { $change }, { $price }
+
+## Stocks widget ticker search
+
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Αποτελέσματα αναζήτησης
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Πίσω
+    .aria-label = Πίσω
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Φόρτωση…
 
 ## Strings for the Picture of the Day widget
 
