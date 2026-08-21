@@ -7,6 +7,10 @@
 
 appmenuitem-banner-update-downloading =
     .label = { -brand-shorter-name } yeniləməsi endirilir
+appmenuitem-banner-update-available =
+    .label = Yenilənmə mövcuddur. Elə indi endir.
+appmenuitem-banner-update-manual =
+    .label = Yenilənmə mövcuddur. Elə indi endir.
 appmenu-nova-update-title = { -brand-short-name } səyyahını yeniləmək üçün yenidən başladın
 appmenu-nova-update-description = Vərəqləriniz yenidən açılacaq.
 appmenu-nova-fxa-sign-in = Daxil ol
@@ -170,6 +174,16 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Axtarış tarixçəsi
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Daxil ol
+appmenu-sync-promo-connectdevice-cta = Cihaz qoş
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Əlfəcinlərinizi özünüzlə daşıyın
+
 ## Help panel
 
 appmenu-about =
@@ -180,6 +194,16 @@ appmenu-get-help =
     .accesskey = y
 appmenu-help-report-site-issue =
     .label = Sayt Problemini Bildir…
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Kömək və Hesabat
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Problemlərin Həlli Rejimi...
+    .accesskey = P
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -193,6 +217,11 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-abouttranslations =
+    .label = Tərcümə et…
+appmenu-developer-tools-subheader = Səyyah alətləri
+appmenu-developer-tools-extensions =
+    .label = Tərtibatçılar üçün uzantılar
 appmenuitem-report-broken-site =
     .label = İşləməyən Saytı Bildir
 
@@ -211,12 +240,44 @@ appmenu-other-protection-header3 = Məxfilik alətləri
 appmenu-other-profiles = Digər profillər
 appmenu-manage-profiles =
     .label = Profilləri idarə et
+appmenu-copy-profile =
+    .label = Bu profili kopyala
 appmenu-create-profile2 =
     .label = Yeni Profil Yarat
+appmenu-create-profile =
+    .label = Yeni profil
+appmenu-edit-profile =
+    .aria-label = Profili düzəlt
+appmenu-edit-this-profile =
+    .label = Bu profili düzəlt
+appmenu-profile-current-in-use = İstifadə edilən hazırkı profil
 fxa-menu-create-profile-subpanel =
     .title = Yeni profil yarat
 fxa-menu-create-profile-heading = Yeni profillə veb səyahət təcrübənizi yaxşılaşdırın
 fxa-menu-create-profile-description = Əlfəcinləriniz, parollarınız və tarixçənizi iş və fərdi səyahət üçün ayrı tutun.
+fxa-menu-create-profile-confirm =
+    .label = Yeni profil yarat
+fxa-menu-create-profile-learn-more =
+    .label = Nədir bu profillər?
 appmenu-profiles-2 =
     .label = Profillər
 appmenu-profiles-header = Profillər
+appmenu-all-profiles =
+    .label = Bütün profillər
+appmenu-secure-sync-header = Etibarlı sinxronizasiya
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Son vərəqlər
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } sinxronlaşdırılmış vərəqi göstər
+           *[other] Bütün { $tabCount } sinxronlaşdırılmış vərəqi göstər
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Hazırkı səhifəni bu cihaza göndər

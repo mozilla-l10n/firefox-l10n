@@ -72,6 +72,8 @@ genai-chatbot-summarize-button = Səhifənin icmalını çıxart
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-chatgpt-generate = Mətn, şəkil və kod yaradın
+genai-onboarding-gemini-generate = Mətn, şəkil və kod yaradın
 genai-onboarding-huggingchat-generate = Mətn və kod yaradın
 
 ## Model Optin Component

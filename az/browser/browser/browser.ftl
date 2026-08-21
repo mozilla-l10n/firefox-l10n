@@ -75,12 +75,19 @@ urlbar-search-tips-confirm-short = Aydındır
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Məsləhət:
+urlbar-result-menu-button =
+    .title = Menyunu aç
 urlbar-result-menu-learn-more2 = Ətraflı öyrənin
     .accesskey = Ə
 urlbar-result-menu-remove-from-history2 = Tarixçədən sil
     .accesskey = x
 urlbar-result-menu-tip-get-help2 = Yardım əldə edin
     .accesskey = y
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Tarixçədən sil
+    .accesskey = T
 urlbar-result-menu-learn-more =
     .label = Ətraflı öyrənin
     .accesskey = Ə
@@ -150,6 +157,15 @@ clear-search-history =
     .label = Axtarış Tarixçəsini Təmizlə
     .accesskey = H
 
+## Page Action Context Menu
+
+page-action-manage-extension2 =
+    .label = Uzantıları idarə et…
+    .accesskey = u
+page-action-remove-extension2 =
+    .label = Uzantını sil
+    .accesskey = z
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -175,6 +191,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Məxfi pəncərələr üçün əsas axtarış mühərriki olarak qur
     .accesskey = M
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = “{ $engineName }” əlavə et
+    .aria-label = “{ $engineName }” axtarış mühərrikini əlavə et
+    .tooltiptext = “{ $engineName }” axtarış mühərrikini əlavə et
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -189,6 +213,10 @@ search-one-offs-add-engine-menu =
 
 search-one-offs-bookmarks =
     .tooltiptext = Əlfəcinlər ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Vərəqlər ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Tarixçə ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -204,7 +232,11 @@ quickactions-cmd-addons2 = əlavələr
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Əlfəcinləri idarə et
 quickactions-cmd-bookmarks = əlfəcinlər
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Tarixçəni təmizlə
 quickactions-cmd-clearhistory = tarixçəni təmizlə
+# Opens about:downloads page
+quickactions-downloads2 = Endirmələrə bax
 quickactions-cmd-downloads = endirilənlər
 # Opens about:addons page in the extensions section
 quickactions-extensions = Uzantıları idarə et
@@ -266,6 +298,7 @@ identity-connection-internal = Bu səhifə təhlükəsiz bir { -brand-short-name
 identity-connection-file = Bu səhifə sizin kompüterinizdə saxlanıb.
 identity-extension-page = Bu səhifə uzantıdan yüklənib.
 identity-active-blocked = { -brand-short-name } bu səhifənin təhlükəsiz olmayan hissələrini əngəllədi.
+identity-custom-root = Bağlantı Mozilla tərəfindən tanınmamış sertifikat təchizatçısı tərəfindən təsdiqlənib.
 identity-passive-loaded = Bu səhifənin bəzi hissələri (şəkillər kimi) təhlükəsiz deyil.
 identity-active-loaded = Bu səhifədə qorumanı söndürmüsünüz.
 identity-weak-encryption = Bu səhifə zəif şifrləmə istifadə edir.
@@ -277,6 +310,7 @@ identity-clear-site-data =
     .label = Çərəzlər və Sayt Məlumatlarını Təmizlə…
 identity-connection-not-secure-security-view = Bu sayta təhlükəsiz şəkildə bağlanmamısınız.
 identity-connection-verified = Bu sayta təhlükəsiz şəkildə bağlanmısınız.
+identity-ev-owner-label = Sertifikat təchizatçısı:
 identity-remove-cert-exception =
     .label = İstisnanı sil
     .accesskey = s
@@ -460,6 +494,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Əlfəcin alət sətrini gizlət
            *[other] Əlfəcin alət sətrini gör
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Əlfəcin alət sətrini gizlət
+           *[other] Əlfəcin alət sətrini göstər
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -473,6 +513,8 @@ bookmarks-search =
     .label = Əlfəcinlərdə axtar
 bookmarks-tools =
     .label = Əlfəcin alətləri
+bookmarks-subview-edit-bookmark =
+    .label = Bu əlfəcini düzəlt…
 bookmarks-toolbar-menu =
     .label = Əlfəcin paneli
 bookmarks-toolbar-placeholder =
@@ -645,9 +687,13 @@ reset-pbm-toolbar-button =
     .tooltiptext = Məxfi Seansı Bitir
 reset-pbm-panel-heading2 = Məlumatlar təmizlənilsin və yeni bir məxfi seans başladılsın?
 reset-pbm-panel-description2 = Bu prosedur Məxfi Pəncərənizi bağlamadan tarixçəniz, çərəzləriniz və digər sayt məlumatlarınızı siləcəkdir.
+reset-pbm-panel-heading = Məxfi seansınız sonlandırılsın?
 reset-pbm-panel-always-ask-checkbox =
     .label = Həmişə soruş
     .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Seans məlumatlarını sil
+    .accesskey = D
 reset-pbm-panel-complete = Məxfi seans məlumatları silindi
 reset-pbm-toolbar-button2 =
     .label = Məxfi Seansı Təmizlə

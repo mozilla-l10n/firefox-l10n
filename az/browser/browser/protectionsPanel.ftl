@@ -16,8 +16,17 @@ protections-popup-footer-protection-label-standard = Standart
 
 ##
 
+protections-panel-content-blocking-socialblock = Sosial Media İzləyiciləri
 protections-panel-content-blocking-cryptominers-label = Kriptomaynerlər
 protections-panel-content-blocking-fingerprinters-label = Barmaq izi toplayıcıları
+
+## In the protections panel, Content Blocking category items are in three sections:
+##   "Blocked" for categories being blocked in the current page,
+##   "Allowed" for categories detected but not blocked in the current page, and
+##   "None Detected" for categories not detected in the current page.
+##   These strings are used in the header labels of each of these sections.
+
+protections-panel-blocking-label = Əngəllənib
 
 ##
 

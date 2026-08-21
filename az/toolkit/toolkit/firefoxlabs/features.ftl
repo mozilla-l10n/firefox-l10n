@@ -34,6 +34,22 @@ experimental-features-link-previews =
 
 ## New Tab Productivity Widgets
 
+experimental-features-newtab-widget-lists-new =
+    .label = Siyahılar
+experimental-features-newtab-widget-timer-new =
+    .label = Vaxtölçən
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Hava proqnozu
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Günün şəkli
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Saatlar
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantik Tarixçə Axtarışı
 # Tab Notes
 experimental-features-tab-notes =
     .label = Vərəq qeydləri

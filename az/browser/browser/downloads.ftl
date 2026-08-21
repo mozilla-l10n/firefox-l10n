@@ -79,6 +79,17 @@ downloads-show-more-information =
 downloads-open-file =
     .value = Fayl Aç
 
+## Displayed when the user clicked on a download in process. Indicates that the
+## downloading file will be opened after certain amount of time using an app
+## available in the system.
+## Variables:
+##   $hours (number) - Amount of hours left till the file opens.
+##   $seconds (number) - Amount of seconds left till the file opens.
+##   $minutes (number) - Amount of minutes till the file opens.
+
+downloading-file-click-to-open =
+    .value = Tamamlananda aç
+
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -102,15 +113,32 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Fayllar cihazınızda qalır
+downloads-private-browsing-delete-button =
+    .label = Faylları avtomatik sil
+    .accesskey = S
 downloads-private-browsing-accept-button =
     .label = Aydındır
     .accesskey = A
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Fayl endirilmədi.
+       *[other] { $num } fayl endirilmədi.
+    }
+downloads-blocked-from-url = { $url } ünvanından endirilmə əngəlləndi.
 
 ##
 
 downloads-clear-downloads-button =
     .label = Endirmələri Təmizlə
-    .tooltiptext = Tamamlanan, ləğv edilən və uğursuz olan endirmələr təmizləyir
+    .tooltiptext = Tamamlanan, ləğv edilən və uğursuz olan endirmələri təmizləyir
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
