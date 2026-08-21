@@ -378,6 +378,11 @@ appmenu-about =
     .accesskey = O
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Sdílet { -brand-product-name(case: "acc") }
+    .accesskey = S
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = Sdílet { -brand-shorter-name(case: "acc") }
     .accesskey = S
