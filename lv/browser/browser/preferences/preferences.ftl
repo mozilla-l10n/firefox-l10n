@@ -805,6 +805,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option-2 =
     .label = Meklēšanas ieteikumus adreses joslā rādīt pirms pārlūkošanas vēstures
+search-show-suggestions-private-windows-2 =
+    .label = Meklēšanas ieteikumi privātos logos
 search-suggestions-cant-show-2 =
     .message = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
 addressbar-header-1 =
