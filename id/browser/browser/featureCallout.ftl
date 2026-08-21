@@ -99,6 +99,7 @@ perplexity-callout-theme-2-title = Coba Perplexity: cara baru untuk mencari
 perplexity-callout-theme-1-subtitle-1 = Coba Perplexity. Pilih dari tombol pencarian jika Anda ingin jawaban lengkap, termasuk sumbernya.
 perplexity-callout-theme-1-subtitle-2 = Ajukan pertanyaan. Dapatkan jawaban lengkap dengan referensi. Untuk mencoba Perplexity, pilih dari tombol pencarian.
 perplexity-callout-theme-2-subtitle-1 = Tanya Perplexity. Dapatkan jawaban lengkap beserta referensinya.
+perplexity-callout-theme-2-subtitle-2 = Ajukan pertanyaan. Dapatkan jawaban lengkap dengan referensi.
 perplexity-callout-primary-label = Tanya Perplexity
 perplexity-callout-secondary-label-1 = Tutup
 perplexity-callout-secondary-label-2 = Paham

@@ -196,3 +196,10 @@ disable-backup-encryption-header = Hapus perlindungan kata sandi
 disable-backup-encryption-support-link = Apa yang akan dicadangkan?
 disable-backup-encryption-cancel-button = Batal
 disable-backup-encryption-confirm-button = Hapus kata sandi
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-encryption-state-value-encrypted = Ya
