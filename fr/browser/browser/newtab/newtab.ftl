@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Photo du jour
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Recherches récentes
 home-prefs-mission-message2 =
     .message = Nos sponsors soutiennent notre mission de créer un meilleur Web.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Découvrir comment
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = En savoir plus
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Vie privée
 
 ## Privacy widget — count readout
 
@@ -406,6 +413,14 @@ newtab-stocks-search-no-results = Pas de résultats pour « { $query } »
 newtab-stocks-search-loading = Chargement…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = La recherche est momentanément indisponible. Réessayez plus tard.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Vous pouvez ajouter jusqu’à { $limit } d’actions. Supprimez-en un pour en ajouter un autre.
+       *[other] Vous pouvez totaliser jusqu’à { $limit } actions. Supprimez-en un pour en ajouter un autre.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -456,6 +471,16 @@ newtab-picture-check-back = Revenez demain pour découvrir une nouvelle photo
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Photo du jour par Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Recherches récentes
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Options des recherches récentes
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = En savoir plus
 
 ## Search box component.
 
@@ -826,6 +851,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Actions
 newtab-custom-widget-picture-toggle =
     .label = Photo du jour
+newtab-custom-widget-recent-searches-toggle =
+    .label = Recherches récentes
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

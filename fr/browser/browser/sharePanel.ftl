@@ -33,5 +33,13 @@ share-panel-send-to-mobile =
     .label = Envoyer à un mobile
 share-panel-device-subview =
     .title = Tous les appareils
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Connecter un autre appareil
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Vous ne voyez pas votre appareil ?
 share-panel-os-share-subview =
     .title = Partager avec…
