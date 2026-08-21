@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Blir opna i ei ny fane
+moz-box-link-opens-in-new-tab = Blir opna i ei ny fane
 moz-box-item-reorder-handle =
     .aria-label = Endre rekkjefølgja på elementet ved å bruke Ctrl+Shift+Pil opp eller Ctrl+Shift+Pil ned
 # Variables:
