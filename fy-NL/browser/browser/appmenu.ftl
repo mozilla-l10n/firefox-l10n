@@ -326,6 +326,11 @@ appmenu-about =
     .accesskey = O
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = { -brand-product-name } diele
+    .accesskey = d
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = { -brand-shorter-name } diele
     .accesskey = d
@@ -439,6 +444,8 @@ fxa-menu-create-profile-confirm =
     .label = Nij profyl oanmeitsje
 fxa-menu-create-profile-learn-more =
     .label = Wat binne profilen?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = { -brand-product-name } diele
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = { -brand-short-name } diele
 appmenuitem-share-firefox-description = Nûgje immen út om de browser te kiezen dy’t privacy foarop stelt

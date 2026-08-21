@@ -2837,3 +2837,12 @@ referrals-section-header =
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =
     .label = { -brand-short-name } diele
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .label = { -brand-product-name } diele
+    .description = Nûgje immen út om de browser te kiezen dy’t privacy foarop stelt.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = { -brand-product-name } diele
