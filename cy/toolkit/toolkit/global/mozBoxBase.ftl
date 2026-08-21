@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Yn agor mewn tab newydd
+moz-box-link-opens-in-new-tab = Yn agor mewn tab newydd
 moz-box-item-reorder-handle =
     .aria-label = Ail drefnu eitem gan ddefnyddio Ctrl+Shift+ArrowUp neu Ctrl+Shift+ArrowDown
 # Variables:
