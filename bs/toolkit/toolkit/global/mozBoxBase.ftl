@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Otvara se u novom tabu
+moz-box-link-opens-in-new-tab = Otvara se u novom tabu
