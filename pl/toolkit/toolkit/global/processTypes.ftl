@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Narzędziowy Media Foundation Engin
 process-type-utility-actor-js-oracle = Narzędziowy JavaScript Oracle
 process-type-utility-actor-windows-utils = Narzędziowy narzędzi systemu Windows
 process-type-utility-actor-windows-file-dialog = Narzędziowy okna otwierania pliku w systemie Windows
+process-type-utility-actor-hw-inference = Narzędziowy sprzętowo przyspieszanego wnioskowania
 
 ##
 ## Other
