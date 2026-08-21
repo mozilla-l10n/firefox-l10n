@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Дар варақаи нав кушода мешавад
+moz-box-link-opens-in-new-tab = Дар варақаи нав кушода мешавад
