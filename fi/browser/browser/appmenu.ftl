@@ -445,6 +445,8 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = Mitä profiilit ovat?
 # Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Jaa { -brand-product-name }
+# Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Jaa { -brand-short-name }
 appmenuitem-share-firefox-description = Kutsu joku yksityisyyden etusijalle asettavan selaimen pariin
 appmenu-profiles-2 =
