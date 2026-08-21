@@ -5,13 +5,13 @@
 
 ## Added shortcuts:
 
-customkeys-title = Tastatursnarvegar
+customkeys-title = Hurtigtastar
 customkeys-search = Søk:
 customkeys-change = Endre
 customkeys-reset = Tilbakestill
 customkeys-clear = Tøm
 customkeys-new-key = Trykk på ny hurtigtast:
-customkeys-reset-all = Tilbakestill alle snarvegar til standard
+customkeys-reset-all = Tilbakestill alle hurtigtastar til standard
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Denne tasten er allereie tildelt { $conflict }. Vil du erstatte han?
@@ -106,7 +106,7 @@ customkeys-reset-all-confirm-button-cancel = Avbryt
 customkeys-sidebar =
     .aria-label = Sidestolpe
 customkeys-title-heading =
-    .heading = Tastatursnarvegar
+    .heading = Hurtigtastar
 # Search is a verb, as in "search through shortcuts".
 customkeys-search-input =
     .aria-label = Søk hurtigtastar
