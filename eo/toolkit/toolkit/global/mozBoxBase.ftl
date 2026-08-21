@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Malfermi en nova langeto
+moz-box-link-opens-in-new-tab = Malfermi en nova langeto
 moz-box-item-reorder-handle =
     .aria-label = Reordigi elementon per Stir+Maj+SagetoSupren aŭ Stir+Maj+SagetoMalsupren
 # Variables:
