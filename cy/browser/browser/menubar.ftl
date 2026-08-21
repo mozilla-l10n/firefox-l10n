@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = Gosod { -brand-shorter-name } fel eich Porwr Arferol
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Rhannu { -brand-product-name }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = Rhannu { -brand-shorter-name }
 menu-application-services =
