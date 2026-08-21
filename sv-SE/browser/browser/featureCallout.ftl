@@ -142,11 +142,11 @@ taskbar-tabs-value-prop-callout-subtitle = Starta den i ett eget fönster och et
 # Treatment B changes only the title for chat; the subtitle is unchanged from
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = Håll kontakten från aktivitetsfältet
-taskbar-tabs-email-callout-subtitle-v3 = Starta dina e-postsidor som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
-taskbar-tabs-media-callout-title-v3 = Behåll din streaming i aktivitetsfältet
-taskbar-tabs-media-callout-subtitle-v3 = Starta dina mediasidor som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
-taskbar-tabs-value-prop-callout-title-v3 = Fäst dina favoritplatser i aktivitetsfältet
-taskbar-tabs-value-prop-callout-subtitle-v3 = Starta en webbplats som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
+taskbar-tabs-email-callout-subtitle-v3 = Starta dina e-postwebbplatser som en app i ett strömlinjeformat fönster skyddat av { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Behåll din strömning i aktivitetsfältet
+taskbar-tabs-media-callout-subtitle-v3 = Starta dina mediesidor som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Fäst dina favoritwebbplatser i aktivitetsfältet
+taskbar-tabs-value-prop-callout-subtitle-v3 = Starta vilken webbplats som helst som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
 taskbar-tabs-gaming-callout-title-v3 = Gå tillbaka till spel från aktivitetsfältet
 taskbar-tabs-gaming-callout-subtitle-v3 = Starta dina spelsajter som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab

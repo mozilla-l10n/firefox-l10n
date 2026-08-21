@@ -383,7 +383,7 @@ appmenuitem-sign-in-account = Logga in på ditt konto
 appmenuitem-monitor-title2 = Ligg steget före identitetsstöld
 appmenuitem-monitor-description2 = Få varningar om dataintrång
 # Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
-appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } Varningar om dataintrång
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } varningar om dataintrång
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få varningar om dataintrång
 appmenuitem-relay-title = { -relay-brand-short-name }
