@@ -1270,6 +1270,18 @@ containers-settings-button2 =
     .title = Ustawienia
 containers-remove-button3 =
     .title = Usuń
+containers-sites-card-header =
+    .label = Kontenery dla konkretnych witryn
+    .description = Wybierz kontener dla witryny, a { -brand-short-name } będzie go używać przy każdym jej otwarciu.
+containers-sites-add-button =
+    .label = Dodaj witrynę
+    .accesskey = D
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Kontener dla witryny { $site }
+containers-site-remove-button =
+    .title = Usuń
 containers-remove-button2 =
     .title = Usuń
 
