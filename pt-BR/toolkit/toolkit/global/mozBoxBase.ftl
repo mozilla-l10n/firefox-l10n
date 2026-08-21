@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Abre em uma nova aba
+moz-box-link-opens-in-new-tab = Abre em uma nova aba
 moz-box-item-reorder-handle =
     .aria-label = Reordene item usando Ctrl+Shift+Seta para cima ou Ctrl+Shift+Seta para baixo
 # Variables:
