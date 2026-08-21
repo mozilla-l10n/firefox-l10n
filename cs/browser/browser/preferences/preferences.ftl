@@ -1432,6 +1432,18 @@ containers-settings-button2 =
     .title = Nastavení
 containers-remove-button3 =
     .title = Smazat
+containers-sites-card-header =
+    .label = Kontejnery specifické pro danou stránku
+    .description = Vyberte kontejner pro daný web a aplikace { -brand-short-name } jej bude používat při každém otevření webu.
+containers-sites-add-button =
+    .label = Přidat webovou stránku
+    .accesskey = P
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Kontejner pro { $site }
+containers-site-remove-button =
+    .title = Smazat
 containers-remove-button2 =
     .title = Odebrat
 
