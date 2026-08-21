@@ -326,6 +326,11 @@ appmenu-about =
     .accesskey = W
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = { -brand-product-name } źěliś
+    .accesskey = l
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = { -brand-shorter-name } źěliś
     .accesskey = l
@@ -439,6 +444,8 @@ fxa-menu-create-profile-confirm =
     .label = Nowy profil załožyś
 fxa-menu-create-profile-learn-more =
     .label = Co su profile?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = { -brand-product-name } źěliś
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = { -brand-short-name } źěliś
 appmenuitem-share-firefox-description = Pśepšosujśo někogo, aby wobglědowak wubrał, kótaryž priwatnosć na prědne městno staja
