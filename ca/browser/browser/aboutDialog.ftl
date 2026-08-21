@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Envia comentaris
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> és una <label data-l10n-name="community-exp-creditsLink">comunitat global</label> que treballa conjuntament per mantenir el web obert, públic i accessible per a tothom.
 community-2 = El { -brand-short-name } està dissenyat per <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunitat global</label> que treballa conjuntament per mantenir el web obert, públic i accessible per a tothom.
 helpus = Voleu ajudar? <label data-l10n-name="helpus-donateLink">Feu una donació</label>, o bé <label data-l10n-name="helpus-getInvolvedLink">col·laboreu-hi!</label>
+helpus-referrals2 = Voleu ajudar-nos? <label data-l10n-name="helpus-donateLink">Feu una donació</label>, <label data-l10n-name="helpus-shareFirefoxLink">Compartiu { -brand-product-name }</label>, o <label data-l10n-name="helpus-getInvolvedLink">col·laboreu-hi!</label>
 helpus-referrals = Voleu ajudar-nos? <label data-l10n-name="helpus-donateLink">Feu una donació</label>, <label data-l10n-name="helpus-shareFirefoxLink">Compartiu { -brand-short-name }</label>, o <label data-l10n-name="helpus-getInvolvedLink">col·laboreu-hi!</label>
 bottomLinks-license = Informació de la llicència
 bottom-links-terms = Condicions d’ús

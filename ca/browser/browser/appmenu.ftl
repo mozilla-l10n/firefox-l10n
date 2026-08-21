@@ -445,6 +445,8 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = Què són els perfils?
 # Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Comparteix { -brand-product-name }
+# Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Comparteix { -brand-short-name }
 appmenuitem-share-firefox-description = Convideu a algú a triar el navegador que posa la privacitat primer
 appmenu-profiles-2 =
