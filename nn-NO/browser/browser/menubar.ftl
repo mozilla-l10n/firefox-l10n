@@ -26,6 +26,10 @@ menu-application-set-as-default =
     .label = Bruk { -brand-shorter-name } som standardnettlesar
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Del { -brand-product-name }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals =
     .label = Del { -brand-shorter-name }
 menu-application-services =

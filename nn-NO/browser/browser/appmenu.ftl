@@ -326,6 +326,11 @@ appmenu-about =
     .accesskey = O
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Del { -brand-product-name }
+    .accesskey = e
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = Del { -brand-shorter-name }
     .accesskey = e
@@ -439,6 +444,8 @@ fxa-menu-create-profile-confirm =
     .label = Opprett ny profil
 fxa-menu-create-profile-learn-more =
     .label = Kva er profilar?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Del { -brand-product-name }
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Del { -brand-short-name }
 appmenuitem-share-firefox-description = Inviter nokon til å velje nettlesaren som set personvern først
