@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = เปิดในแท็บใหม่
+moz-box-link-opens-in-new-tab = เปิดในแท็บใหม่
 moz-box-item-reorder-handle =
     .aria-label = จัดเรียงลำดับรายการใหม่โดยใช้ Ctrl+Shift+ArrowUp หรือ Ctrl+Shift+ArrowDown
 # Variables:
