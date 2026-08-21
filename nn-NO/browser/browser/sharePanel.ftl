@@ -33,5 +33,9 @@ share-panel-send-to-mobile =
     .label = Send til mobil
 share-panel-device-subview =
     .title = Alle einingar
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Ser du ikkje eininga di?
 share-panel-os-share-subview =
     .title = Del med…

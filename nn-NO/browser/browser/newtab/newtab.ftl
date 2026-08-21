@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Dagens bilde
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Nylege søk
 home-prefs-mission-message2 =
     .message = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Finn ut korleis
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Les meir
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Personvern
 
 ## Privacy widget — count readout
 
@@ -456,6 +463,13 @@ newtab-picture-check-back = Sjekk tilbake i morgon for eit nytt bilde
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Dagens bilde frå Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Nylege søk
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Les meir
 
 ## Search box component.
 
@@ -829,6 +843,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Aksjar
 newtab-custom-widget-picture-toggle =
     .label = Dagens bilde
+newtab-custom-widget-recent-searches-toggle =
+    .label = Nylege søk
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar
