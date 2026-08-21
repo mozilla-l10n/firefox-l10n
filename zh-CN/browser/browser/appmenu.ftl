@@ -439,6 +439,8 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = 什么是配置文件？
 # Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = 分享 { -brand-product-name }
+# Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = 分享 { -brand-short-name }
 appmenu-profiles-2 =
     .label = 配置文件
