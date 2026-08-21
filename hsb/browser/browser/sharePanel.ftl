@@ -33,5 +33,13 @@ share-panel-send-to-mobile =
     .label = Na mobilny grat pósłać
 share-panel-device-subview =
     .title = Wšě graty
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Z druhim gratom zwjazać
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Njewidźiće swój grat?
 share-panel-os-share-subview =
     .title = Dźělić z…
