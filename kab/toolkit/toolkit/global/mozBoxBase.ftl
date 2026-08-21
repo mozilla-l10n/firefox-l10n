@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Ldi deg yiccer amaynut
+moz-box-link-opens-in-new-tab = Ldi deg yiccer amaynut
