@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Si vierç intune gnove schede
+moz-box-link-opens-in-new-tab = Si vierç intune gnove schede
