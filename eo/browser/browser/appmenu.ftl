@@ -443,6 +443,8 @@ fxa-menu-create-profile-confirm =
 fxa-menu-create-profile-learn-more =
     .label = Kio estas profiloj?
 # Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Rekomendi { -brand-product-name }
+# Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Rekomendi { -brand-short-name }
 appmenuitem-share-firefox-description = Invitu iun elekti la retumilon kiu zorgas unue pri via privateco
 appmenu-profiles-2 =
