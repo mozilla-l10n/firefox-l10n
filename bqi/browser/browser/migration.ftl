@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = جادۊگر و من ٱووردن
 import-from-bookmarks = و من ٱووردن نشووکا ز:
 import-from-ie =
     .label = اینترنت اکسپلورر مایکروسافت
@@ -58,6 +60,7 @@ import-source-page-title = و من ٱووردن سامووا وو داده یل
 import-items-page-title = مووردایی ک و من بیان
 import-items-description = مووردایی ک اخۊین و من بیان، پسند کۊنین:
 import-migrating-page-title = هونی و من ایان…
+import-select-profile-page-title = پسند پوروفایل
 import-done-page-title = و من ٱووردن دووسمندیا کامل وابی
 source-name-ie = اینترنت اکسپلورر
 source-name-edge = مایکروسافت Edge
@@ -105,6 +108,20 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = و من ٱووڌنا وو رزما زفت وابیڌه
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] بلگه یل خاستنی
+            [edge] بلگه یل خاستنی
+           *[other] نشووکا
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] بلگه یل خاستنی
+            [edge] بلگه یل خاستنی
+           *[other] نشووکا
+        }
 browser-data-otherdata-checkbox =
     .label = داده یل دیر
 browser-data-otherdata-label =

@@ -36,6 +36,10 @@ ipprotection-feature-introduction-button-get-started = ناهاڌن پا کار
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = جاگه یل VPN منی ازافی خوتووݩ ݩ واڌارنین
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = گۊشیڌن VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = سامووݩ و سۊرت پؽش فرز
@@ -114,6 +118,8 @@ upgrade-vpn-button = امتهووݩ کردن { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-network-error-title-1 = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
     .aria-label = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
+ipprotection-connection-status-blocked-error-title-1 = VPN من دسرس نؽ
+    .aria-label = VPN من دسرس نؽ
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
 ipprotection-open-button = گۊشیڌن { -brand-product-name }
 

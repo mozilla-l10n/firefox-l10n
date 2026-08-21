@@ -1257,7 +1257,7 @@ containers-new-tab-check3 =
 # this checkbox is checked, such links always open outside of any container.
 containers-external-links-check =
     .label = Använd inte behållare för länkar som öppnas från externa appar
-    .accesskey = A
+    .accesskey = n
 containers-new-tab-check2 =
     .label = Välj en behållare för varje ny flik
     .accesskey = b

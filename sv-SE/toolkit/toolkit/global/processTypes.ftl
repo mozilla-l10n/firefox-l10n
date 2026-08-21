@@ -50,7 +50,7 @@ process-type-utility-actor-mf-media-engine = Vertyg Media Foundation Engine
 process-type-utility-actor-js-oracle = Verktyg JavaScript Oracle
 process-type-utility-actor-windows-utils = Verktyg Windows Utils
 process-type-utility-actor-windows-file-dialog = Verktyg Windows fildialog
-process-type-utility-actor-hw-inference = Hårdvaruaccelererad inferens
+process-type-utility-actor-hw-inference = Accelererad inferens för verktygshårdvara
 
 ##
 ## Other

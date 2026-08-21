@@ -12,6 +12,10 @@ menu-application-settings =
     .label = سامووا…
 menu-application-set-as-default =
     .label = سامووݩ { -brand-shorter-name } و عونوان گشت گر پؽش فرز
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = یک رسۊوی { -brand-shorter-name }
 menu-application-services =
     .label = خدمات
 menu-application-hide-this =
@@ -373,3 +377,7 @@ menu-help-not-deceptive =
     .accesskey = D
 menu-report-broken-site =
     .label = گوزارش خراوی وبگه
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = یک رسۊوی { -brand-shorter-name }

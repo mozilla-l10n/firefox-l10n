@@ -330,8 +330,8 @@ newtab-stocks-widget-menu-button =
 newtab-stocks-widget-title = Aktier
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
-newtab-stocks-list-markets = Marknader
-    .label = Marknader
+newtab-stocks-list-markets = Markets
+    .label = Markets
 # "Watchlist" is the user's list of stocks to follow. The value is shown in the
 # menu, and .label is shown on the button that opens it.
 newtab-stocks-list-watchlist = Bevakningslista
@@ -772,6 +772,9 @@ newtab-custom-shortcuts-toggle =
     .description = Webbplatser du sparar eller besöker
 newtab-custom-shortcuts-nova =
     .label = Genvägar
+newtab-custom-web-notifications-toggle =
+    .label = Webbaviseringar
+    .description = Visa aviseringar från dina webbplatser på deras genvägar
 newtab-custom-row-description =
     .description = Antal rader
 # Variables
