@@ -57,6 +57,9 @@ ipprotection-feature-introduction-button-get-started = Eñepyrũ
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Pe VPN juejupyre ru’ã oiko jeýta 1 jasyporundýpe
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Eiporu { $maxUsage } GB ha 6 tendaite ñemigua rekorosãverã ha ne ñeikundaha hasyve hag̃uáicha ijehapykueho.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
