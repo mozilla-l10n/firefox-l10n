@@ -47,6 +47,7 @@ about-private-browsing-pin-promo-title = İş masanızdan birbaşa çərəzlər 
 
 ## Strings used in a promotion message for cookie banner reduction
 
+about-private-browsing-cookie-banners-promo-button = Çərəz Bildirişlərini Azalt
 about-private-browsing-cookie-banners-promo-body = İndi bir çox çərəz bildirişlərini avtomatik olaraq rədd edirik ki, daha az izləniləsiniz və diqqəti yayındırmayan səyahət rejiminə qayıda biləsiniz.
 
 ## Strings for the info section of about:privatebrowsing
