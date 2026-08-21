@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Åbner i et nyt faneblad
+moz-box-link-opens-in-new-tab = Åbner i et nyt faneblad
