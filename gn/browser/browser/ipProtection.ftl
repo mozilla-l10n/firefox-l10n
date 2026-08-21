@@ -32,6 +32,7 @@ ipprotection-feature-introduction-link-text-privacy-1 = VPN oñemohendapyréva <
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn"> VPN ojuajupyréva { -brand-product-name }</a> rehegua oipytyvõ omo’ãkuaa hag̃ua ne ñeikundaha. Eiporavo heta hendágui eikundaha ñemi hag̃ua.
 ipprotection-feature-introduction-link-text-privacy-3 = Ehupyty <a data-l10n-name="learn-more-vpn">tekoñemive</a> eiporavóvo heta tendaite apytégui eñomi hag̃ua eikundahaha.
 ipprotection-feature-introduction-title-summer-promo = ¿Eviajasépa? Egueraha nendive nde rekoñemi.
+ipprotection-feature-introduction-description-summer-promo = Eg̃uahẽ mombyryve VPN juajupyre { -brand-product-name } ndive: tendaiteve, banda ancha opa’ỹva. Kóva 31 japorundy peve.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua ne rendaite ha emo’ã ne mba’ekuaarã, oĩramo jepe ovetã ñemíme.
 ipprotection-feature-introduction-description-private-browsing = Ñeikundaha ñemo’ãve ndive oñomívo péicha pe hendaite, taha’e jepe ovetã ñemíme.
 # Used for callout shown on login to public wi-fi through a captive portal
