@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = S’aberit in un’ischeda noa
+moz-box-link-opens-in-new-tab = S’aberit in un’ischeda noa

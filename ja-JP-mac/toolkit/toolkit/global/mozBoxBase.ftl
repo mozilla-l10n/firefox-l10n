@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = 新規タブに開きます
+moz-box-link-opens-in-new-tab = 新規タブに開きます
 moz-box-item-reorder-handle =
     .aria-label = Ctrl+Shift+↑ または Ctrl+Shift+↓ キーでアイテムの順序を並べ替えます
 # Variables:

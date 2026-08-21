@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Új lapon nyílik meg
+moz-box-link-opens-in-new-tab = Új lapon nyílik meg
 moz-box-item-reorder-handle =
     .aria-label = Elem átrendezése a Ctrl+Shift+ArrowUp vagy a Ctrl+Shift+ArrowDown gyorsbillentyűkkel
 # Variables:

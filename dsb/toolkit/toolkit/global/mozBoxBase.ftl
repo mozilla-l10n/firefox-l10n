@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Wócynja w nowem rejtariku
+moz-box-link-opens-in-new-tab = Wócynja w nowem rejtariku
 moz-box-item-reorder-handle =
     .aria-label = Pśerědujśo zapisk z pomocu Strg+Umsch+Šypka górjej abo Strg+Umsch+Šypka dołoj
 # Variables:

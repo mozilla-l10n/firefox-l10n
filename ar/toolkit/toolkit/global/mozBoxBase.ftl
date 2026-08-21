@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = يُفتح في لسان جديد
+moz-box-link-opens-in-new-tab = يُفتح في لسان جديد
 moz-box-item-reorder-handle =
     .aria-label = أعد ترتيب العنصر باستخدام Ctrl+‏Shift+سهم أعلى أو Ctrl+‏Shift+سهم أسفل
 # Variables:

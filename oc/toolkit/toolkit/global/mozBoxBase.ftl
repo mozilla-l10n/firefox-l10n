@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Dobrir dins un onglet novèl
+moz-box-link-opens-in-new-tab = Dobrir dins un onglet novèl

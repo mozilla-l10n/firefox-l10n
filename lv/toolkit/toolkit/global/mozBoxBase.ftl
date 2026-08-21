@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Atveras jaunā cilnē
+moz-box-link-opens-in-new-tab = Atveras jaunā cilnē
 moz-box-item-reorder-handle =
     .aria-label = Pārkārtot, izmantojot taustiņu kombināciju Ctrl+Shift+BultaAugšup vai Ctrl+Shift+BultaLejup
 # Variables:

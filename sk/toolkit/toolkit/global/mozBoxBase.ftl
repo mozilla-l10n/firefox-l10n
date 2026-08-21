@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Otvorí sa na novej karte
+moz-box-link-opens-in-new-tab = Otvorí sa na novej karte
 moz-box-item-reorder-handle =
     .aria-label = Usporiadanie položiek zmeníte pomocou skratiek Ctrl+Shift+šípka nahor alebo Ctrl+Shift+šípka nadol
 # Variables:

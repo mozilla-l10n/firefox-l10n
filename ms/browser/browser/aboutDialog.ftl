@@ -67,6 +67,7 @@ aboutdialog-submit-feedback = Hantar maklum balas
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> adalah <label data-l10n-name="community-exp-creditsLink">komuniti global</label> bekerjasama supaya Web ini terbuka kepada umum dan boleh diakses oleh semua.
 community-2 = { -brand-short-name } direka oleh <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, sebuah <label data-l10n-name="community-creditsLink">komuniti global</label> bekerjasama supaya Web ini terbuka kepada umum dan boleh diakses oleh semua.
 helpus = Mahu membantu? <label data-l10n-name="helpus-donateLink">Buat derma</label> atau <label data-l10n-name="helpus-getInvolvedLink">sertai kami!</label>
+helpus-referrals2 = Mahu bantu? <label data-l10n-name="helpus-donateLink">Buat derma</label>, <label data-l10n-name="helpus-shareFirefoxLink">Kongsi { -brand-product-name }</label>, atau <label data-l10n-name="helpus-getInvolvedLink">sertai kami!</label>
 helpus-referrals = Mahu bantu? <label data-l10n-name="helpus-donateLink">Buat derma</label>, <label data-l10n-name="helpus-shareFirefoxLink">Kongsi { -brand-short-name }</label>, atau <label data-l10n-name="helpus-getInvolvedLink">sertai kami!</label>
 bottomLinks-license = Maklumat Perlesenan
 bottom-links-terms = Terma Penggunaan

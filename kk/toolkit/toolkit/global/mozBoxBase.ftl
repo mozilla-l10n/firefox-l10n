@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Жаңа бетте ашылады
+moz-box-link-opens-in-new-tab = Жаңа бетте ашылады
 moz-box-item-reorder-handle =
     .aria-label = Элементті Ctrl+Shift+ArrowUp немесе Ctrl+Shift+ArrowDown пернелерін пайдаланып қайта реттеу
 # Variables:

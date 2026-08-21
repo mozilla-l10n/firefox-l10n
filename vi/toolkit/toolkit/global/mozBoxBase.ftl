@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Mở trong một thẻ mới
+moz-box-link-opens-in-new-tab = Mở trong một thẻ mới
 moz-box-item-reorder-handle =
     .aria-label = Sắp xếp lại mục sử dụng Ctrl+Shift+(Mũi tên lên) hoặc Ctrl+Shift+(Mũi tên xuống)
 # Variables:

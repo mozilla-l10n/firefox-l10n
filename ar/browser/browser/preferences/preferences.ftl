@@ -2811,3 +2811,7 @@ security-privacy-issue-warning-proxy-autodetection =
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =
     .label = شارك { -brand-short-name }
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = شارك { -brand-product-name }

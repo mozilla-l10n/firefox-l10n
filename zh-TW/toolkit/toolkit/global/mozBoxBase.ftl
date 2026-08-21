@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = 用新分頁開啟
+moz-box-link-opens-in-new-tab = 用新分頁開啟
 moz-box-item-reorder-handle =
     .aria-label = 使用 Ctrl+Shift+向上鍵或 Ctrl+Shift+向下鍵重新排序
 # Variables:

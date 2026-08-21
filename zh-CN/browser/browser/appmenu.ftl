@@ -323,6 +323,11 @@ appmenu-about =
     .accesskey = A
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = 分享 { -brand-product-name }
+    .accesskey = r
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = 分享 { -brand-shorter-name }
     .accesskey = r
@@ -433,6 +438,8 @@ fxa-menu-create-profile-confirm =
     .label = 新建配置文件
 fxa-menu-create-profile-learn-more =
     .label = 什么是配置文件？
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = 分享 { -brand-product-name }
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = 分享 { -brand-short-name }
 appmenu-profiles-2 =

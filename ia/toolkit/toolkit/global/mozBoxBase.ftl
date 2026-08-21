@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Se aperi in un nove scheda
+moz-box-link-opens-in-new-tab = Se aperi in un nove scheda
 moz-box-item-reorder-handle =
     .aria-label = Reordinar elemento usante Ctrl+Majusc+FlechaSup o Ctrl+Majusc+FlechaInf
 # Variables:

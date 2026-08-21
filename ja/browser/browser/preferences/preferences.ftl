@@ -878,9 +878,9 @@ browsing-picture-in-picture-learn-more = 詳細情報
 browsing-media-control =
     .label = メディアをキーボード、ヘッドセット、仮想インターフェイスで操作する
     .accesskey = v
-browsing-media-control-learn-more = 詳細情報
 recommendations-group =
     .label = おすすめ
+browsing-media-control-learn-more = 詳細情報
 browsing-cfr-recommendations =
     .label = おすすめの拡張機能を紹介する
     .accesskey = R
@@ -2814,3 +2814,12 @@ referrals-section-header =
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =
     .label = { -brand-short-name } を宣伝
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .label = { -brand-product-name } を宣伝
+    .description = プライバシー優先のブラウザーを選んでもらえるように宣伝してください。
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = { -brand-product-name } を宣伝

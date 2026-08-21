@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = 新建窗口打开
+moz-box-link-opens-in-new-tab = 新建窗口打开
 moz-box-item-reorder-handle =
     .aria-label = 使用 Ctrl+Shift+向上键和 Ctrl+Shift+向下键，可重新排序项目
 # Variables:

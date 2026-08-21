@@ -313,6 +313,11 @@ appmenu-about =
     .accesskey = Д
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Мубодила кардани «{ -brand-product-name }»
+    .accesskey = М
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = Мубодила кардани «{ -brand-shorter-name }»
     .accesskey = М
@@ -411,6 +416,8 @@ fxa-menu-create-profile-subpanel =
     .title = Эҷод кардани профили нав
 fxa-menu-create-profile-confirm =
     .label = Эҷод кардани профили нав
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Мубодила кардани «{ -brand-product-name }»
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Мубодила кардани «{ -brand-short-name }»
 appmenu-profiles-2 =

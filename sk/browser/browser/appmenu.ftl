@@ -326,6 +326,11 @@ appmenu-about =
     .accesskey = O
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Zdieľať { -brand-product-name(case: "acc") }
+    .accesskey = Z
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = Zdieľať { -brand-shorter-name(case: "acc") }
     .accesskey = Z
@@ -439,6 +444,8 @@ fxa-menu-create-profile-confirm =
     .label = Vytvoriť nový profil
 fxa-menu-create-profile-learn-more =
     .label = Čo sú profily?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Zdieľať { -brand-product-name(case: "acc") }
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Zdieľať { -brand-short-name(case: "acc") }
 appmenuitem-share-firefox-description = Pozvite niekoho, aby si vybral prehliadač, ktorý kladie súkromie na prvé miesto

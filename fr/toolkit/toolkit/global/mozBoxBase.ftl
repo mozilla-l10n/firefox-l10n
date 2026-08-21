@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = S’ouvre dans un nouvel onglet
+moz-box-link-opens-in-new-tab = S’ouvre dans un nouvel onglet
 moz-box-item-reorder-handle =
     .aria-label = Réorganisez l’élément en utilisant Ctrl+Maj+Flèche haut ou Ctrl+Maj+Flèche bas
 # Variables:

@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = ਨਵੇਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹਦਾ ਹੈ
+moz-box-link-opens-in-new-tab = ਨਵੇਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹਦਾ ਹੈ
 moz-box-item-reorder-handle =
     .aria-label = Ctrl+Shift+ArrowUp ਜਾਂ Ctrl+Shift+ArrowDown ਵਰਤ ਕੇ ਚੀਜ਼ਾਂ ਦਾ ਕ੍ਰਮ ਬਦਲੋ
 # Variables:

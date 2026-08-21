@@ -68,6 +68,7 @@ aboutdialog-submit-feedback = Pošlji povratne informacije
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">globalna skupnost</label>, ki si prizadeva, da bi splet ostal odprt, javen in dostopen vsem.
 community-2 = { -brand-short-name } razvija <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">globalna skupnost</label>, ki si prizadeva, da bi splet ostal odprt, javen in dostopen vsem.
 helpus = Želite pomagati? <label data-l10n-name="helpus-donateLink">Donirajte</label> ali <label data-l10n-name="helpus-getInvolvedLink">se nam pridružite!</label>
+helpus-referrals2 = Želite pomagati? <label data-l10n-name="helpus-donateLink">Prispevajte</label>, <label data-l10n-name="helpus-shareFirefoxLink">delite { -brand-product-name }</label>, ali <label data-l10n-name="helpus-getInvolvedLink">se nam pridružite!</label>
 helpus-referrals = Želite pomagati? <label data-l10n-name="helpus-donateLink">Prispevajte</label>, <label data-l10n-name="helpus-shareFirefoxLink">delite { -brand-short-name }</label>, ali <label data-l10n-name="helpus-getInvolvedLink">se nam pridružite!</label>
 bottomLinks-license = Dovoljenja
 bottom-links-terms = Pogoji uporabe

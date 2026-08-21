@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Otwiera w nowej karcie
+moz-box-link-opens-in-new-tab = Otwiera w nowej karcie
 moz-box-item-reorder-handle =
     .aria-label = Zmień kolejność elementu za pomocą klawiszy Ctrl+Shift+Strzałka w górę i Ctrl+Shift+Strzałka w dół
 # Variables:

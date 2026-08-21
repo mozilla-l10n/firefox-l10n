@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = გახსნის ახალ ჩანართში
+moz-box-link-opens-in-new-tab = გახსნის ახალ ჩანართში
 moz-box-item-reorder-handle =
     .aria-label = რომ გადაალაგოთ, გამოიყენეთ Ctrl+Shift+ზემოთ ან Ctrl+Shift+ქვემოთ
 # Variables:

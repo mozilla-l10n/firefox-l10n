@@ -323,6 +323,11 @@ appmenu-about =
     .accesskey = մ
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Կիսվել { -brand-product-name }-ով
+    .accesskey = r
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = Կիսվել { -brand-shorter-name }-ով
     .accesskey = r
@@ -433,6 +438,8 @@ fxa-menu-create-profile-confirm =
     .label = Ստեղծել նոր պրոֆիլ
 fxa-menu-create-profile-learn-more =
     .label = Ի՞նչ են պրոֆիլները։
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Կիսվել { -brand-product-name }-ով
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Կիսվել { -brand-short-name }-ով
 appmenuitem-share-firefox-description = Հրավիրեք մեկին ընտրել այն դիտարկիչը, որը գաղտնիությունը դնում է առաջին տեղում

@@ -2854,3 +2854,12 @@ referrals-section-header =
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =
     .label = Podziel się { -brand-short-name(case: "ins") }
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .label = Podziel się { -brand-product-name(case: "ins") }
+    .description = Zachęć kogoś do wybrania przeglądarki, która stawia prywatność na pierwszym miejscu.
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = Podziel się { -brand-product-name(case: "ins") }

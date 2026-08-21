@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Otvara se u novoj kartici
+moz-box-link-opens-in-new-tab = Otvara se u novoj kartici

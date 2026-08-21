@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Otevře se v novém panelu
+moz-box-link-opens-in-new-tab = Otevře se v novém panelu
 moz-box-item-reorder-handle =
     .aria-label = Uspořádání položek změníte stisknutím Ctrl+Shift+Šipka nahoru nebo Ctrl+Shift+Šipka dolu
 # Variables:

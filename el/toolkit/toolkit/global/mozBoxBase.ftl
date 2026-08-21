@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Ανοίγει σε νέα καρτέλα
+moz-box-link-opens-in-new-tab = Ανοίγει σε νέα καρτέλα
 moz-box-item-reorder-handle =
     .aria-label = Αναδιατάξτε το στοιχείο με τα Ctrl+Shift+Πάνω βέλος ή τα Ctrl+Shift+Κάτω βέλος
 # Variables:

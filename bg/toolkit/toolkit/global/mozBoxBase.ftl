@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Отваряне в нов раздел
+moz-box-link-opens-in-new-tab = Отваряне в нов раздел

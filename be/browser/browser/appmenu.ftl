@@ -326,6 +326,11 @@ appmenu-about =
     .accesskey = П
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Падзяліцца { -brand-product-name }
+    .accesskey = П
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals =
     .label = Падзяліцца { -brand-shorter-name }
     .accesskey = П
@@ -439,6 +444,8 @@ fxa-menu-create-profile-confirm =
     .label = Стварыць новы профіль
 fxa-menu-create-profile-learn-more =
     .label = Што такое профілі?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Падзяліцца { -brand-product-name }
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = Падзяліцца { -brand-short-name }
 appmenuitem-share-firefox-description = Запрасіце каго-небудзь выбраць браўзер, які ставіць прыватнасць на першае месца

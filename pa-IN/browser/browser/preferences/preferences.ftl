@@ -2851,3 +2851,12 @@ referrals-section-header =
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =
     .label = { -brand-short-name } ਨੂੰ ਸਾਂਝਾ ਕਰੋ
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .label = { -brand-product-name } ਨੂੰ ਸਾਂਝਾ ਕਰੋ
+    .description = ਕਿਸੇ ਨੂੰ ਉਹ ਬਰਾਊਜ਼ਰ ਚੁਣਨ ਲਈ ਸੱਦਾ ਦਿਓ, ਜੋ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦਿੰਦਾ ਹੈ।
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = { -brand-product-name } ਨੂੰ ਸਾਂਝਾ ਕਰੋ

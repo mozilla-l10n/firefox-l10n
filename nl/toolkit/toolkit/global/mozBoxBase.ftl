@@ -4,6 +4,7 @@
 
 moz-box-link-anchor =
     .title = Opent in een nieuw tabblad
+moz-box-link-opens-in-new-tab = Opent in een nieuw tabblad
 moz-box-item-reorder-handle =
     .aria-label = Gebruik Ctrl+Shift+ArrowUp of Ctrl+Shift+ArrowDown om de volgorde van dit item te wijzigen
 # Variables:

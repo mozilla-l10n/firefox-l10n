@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Opnar í nýjum flipa
+moz-box-link-opens-in-new-tab = Opnar í nýjum flipa
