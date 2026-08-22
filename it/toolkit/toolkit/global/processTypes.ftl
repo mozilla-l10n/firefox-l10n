@@ -57,4 +57,3 @@ process-type-utility-actor-hw-inference = Utility Hardware Accelerated Inference
 
 # fallback
 process-type-unknown = Sconosciuto
-

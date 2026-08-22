@@ -902,9 +902,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Ulteriori informazioni
 browsing-group =
     .label = Navigazione
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Accessibilità
 preferences-default-zoom-select =
@@ -1023,9 +1020,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Estensione ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Pagina iniziale personalizzata
 home-custom-homepage-subpage =
     .heading = Pagina iniziale personalizzata
@@ -1041,9 +1035,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Siti che hai salvato oppure visitato
 home-prefs-shortcuts-by-option-sponsored =
     .label = Scorciatoie sponsorizzate
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Consigliati da { $provider }
 home-prefs-recommended-by-description-new = Contenuti eccezionali a cura di { $provider }, un membro della famiglia { -brand-product-name }
@@ -1357,11 +1348,6 @@ sync-signedin-login-failure = Accedi per riattivare la connessione con { $email 
 sync-signedin-login-failure2 =
     .description = Accedi di nuovo per riconnetterti e iniziare a sincronizzare i tuoi dati.
     .label = Sei disconnesso da { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1652,9 +1638,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ulteriori informazioni
 forms-windows-sso-desc = Gestisci account nelle impostazioni del dispositivo
 windows-passkey-settings-label = Gestisci passkey nelle impostazioni di sistema
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Ottieni assistenza per proteggere le tue informazioni online in { -brand-short-name }.
     .label = Impostazioni pannello privacy
@@ -2086,9 +2069,6 @@ content-blocking-fingerprinters = Fingerprinter
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Fingerprinter conosciuti e sospetti
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La Protezione totale per i cookie isola i cookie del sito in cui ti trovi. In questo modo non è possibile utilizzarli per seguirti da un sito all’altro.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ulteriori informazioni

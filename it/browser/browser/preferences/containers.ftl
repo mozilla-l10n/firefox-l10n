@@ -127,4 +127,3 @@ containers-panel-create-button =
     .label = Fatto
 containers-panel-cancel-button =
     .label = Annulla
-
