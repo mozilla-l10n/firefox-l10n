@@ -617,6 +617,7 @@ smartwindow-existing-user-fx-tou-go-back = Joan atzera
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Lehenetsi { -smart-window-brand-name(form: "nor", number: "plural") }
 smartwindow-onboarding-subtitle = Laburbildu, alderatu eta egin galderak erritmoa moteldu gabe.
 smartwindow-onboarding-primary-button = Jarraitu
 # Kit is referring to the Firefox mascot

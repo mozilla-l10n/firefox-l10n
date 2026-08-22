@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = { -smart-window-brand-name(capitalize: "yes", form: "noren", number: "pl") } txat-mezuak
 
 ## Context chips in the chat content
 
@@ -17,6 +18,8 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Zerbait oker joan da. Saiatu berriro mesedez.
 smartwindow-assistant-error-budget-header = Gaurko txaten mugara heldu zara.
+smartwindow-assistant-error-account-header = Saioa hasi behar duzu { -smart-window-brand-name(form: "nor", number: "pl") } erabiltzeko.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name(form: "nor", number: "pl") } lanez lepo daude orain. Saiatu berriro geroago mesedez.
 smartwindow-assistant-error-budget-body = Leiho honetan nabigatzen jarrai dezakezu halere. Txata berriro egongo da erabilgarri zure eguneko muga berrezartzen denean.
 smartwindow-assistant-error-many-requests-header = Mesedez itxaron pixka bat eta saiatu berriro. Mezu gehiegi bidali dira denbora-tarte laburrean.
 smartwindow-assistant-error-max-length-header = Txat berri bat hasteko unea da. Honek bere luzeraren muga gainditu du jada.
