@@ -378,6 +378,16 @@ newtab-picture-check-back = Pridite spet jutri za novo sliko
 # provides no localized description.
 newtab-picture-image-alt = Slika dneva Wikimedijine zbirke
 
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Nedavna iskanja
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Možnosti nedavnih iskanj
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Več o tem
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -754,6 +764,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Delnice
 newtab-custom-widget-picture-toggle =
     .label = Slika dneva
+newtab-custom-widget-recent-searches-toggle =
+    .label = Nedavna iskanja
 newtab-custom-widget-section-title = Pripomočki
 newtab-custom-widget-section-toggle =
     .label = Pripomočki

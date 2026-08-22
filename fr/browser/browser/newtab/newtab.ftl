@@ -418,8 +418,8 @@ newtab-stocks-search-error = La recherche est momentanément indisponible. Rées
 #   $limit (Number) - the maximum number of stocks the watchlist can hold.
 newtab-stocks-watchlist-full =
     { $limit ->
-        [one] Vous pouvez ajouter jusqu’à { $limit } d’actions. Supprimez-en un pour en ajouter un autre.
-       *[other] Vous pouvez totaliser jusqu’à { $limit } actions. Supprimez-en un pour en ajouter un autre.
+        [1] Vous ne pouvez ajouter qu’une seule action. Supprimez l’action actuelle pour en ajouter une autre.
+       *[other] Vous pouvez ajouter jusqu’à { $limit } actions. Supprimez-en une pour en ajouter une autre.
     }
 
 ## Strings for the Picture of the Day widget
