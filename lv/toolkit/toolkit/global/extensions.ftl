@@ -13,7 +13,8 @@
 webext-perms-header = Pievienot { $extension }?
 webext-perms-header-with-perms = Pievienot { $extension }? Šim paplašinājumam būs atļauja:
 webext-perms-sideload-header = { $extension } pievienots
-webext-perms-optional-perms-header = { $extension } ir nepieciešamas papildu tiesības.
+webext-perms-optional-perms-header2 = { $extension } ir nepieciešamas papildu atļaujas
+webext-perms-optional-perms-header = { $extension } ir nepieciešamas papildu atļaujas.
 webext-perms-header2 = Pievienot { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
@@ -21,6 +22,7 @@ webext-perms-header2 = Pievienot { $extension }
 webext-perms-header-required-perms = Nepieciešamās atļaujas:
 webext-perms-header-optional-settings = Izvēles iestatījumi:
 webext-perms-header-update-required-perms = Jaunas nepieciešamās atļaujas:
+webext-perms-header-optional-required-perms = Jaunas atļaujas:
 
 ##
 
@@ -38,6 +40,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Atcelt
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } tika atjaunināts. Ir nepieciešams apstiprināt atļaujas, lai uzstādītu atjaunināto versiju. “Atcelt” izvēlēšanās paturēs pašreizējo paplašinājuma versiju.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } tika atjaunināts. Ir nepieciešams apstiprināt jaunas atļaujas, lai varētu uzstādīt atjaunināto versiju. “Atcelt” izvēlēšanās paturēs pašreizējo paplašinājuma versiju. Šim paplašinājumam būs atļauja:
 webext-perms-update-accept =
     .label = Atjaunināt
     .accesskey = A
@@ -73,6 +81,15 @@ webext-perms-host-description-too-many-sites =
         [one] Pieeja jūsu datiem { $domainCount } citā lapā
        *[other] Pieeja jūsu datiem { $domainCount } citās lapās
     }
+
+## Strings for data collection permissions in the permission prompt.
+
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } ir nepieciešami papildu iestatījumi
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } ir nepieciešama papildu datu ievākšana
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

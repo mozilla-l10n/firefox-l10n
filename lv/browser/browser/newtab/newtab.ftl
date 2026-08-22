@@ -179,6 +179,15 @@ newtab-stocks-search-no-results = Nav iznākuma vaicājumam “{ $query }”
 newtab-stocks-search-loading = Ielādē…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Šobrīd nevarēja meklēt. Vēlāk jāmēģina vēlreiz.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [zero] Var pievienot līdz { $limit } vērtspapīriem. Viens jānoņem, lai pievienotu citu.
+        [one] Var pievienot līdz { $limit } vērtspapīru. Viens jānoņem, lai pievienotu citu.
+       *[other] Var pievienot līdz { $limit } vērtspapīriem. Viens jānoņem, lai pievienotu citu.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -190,6 +199,16 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Nesenie meklējumi
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Neseno meklējumu iespējas
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Uzzināt vairāk
 
 ## Search box component.
 
@@ -500,6 +519,8 @@ newtab-custom-recent-subtitle = Neseno vietņu un satura izlase
 newtab-custom-weather-toggle =
     .label = Laikapstākļi
     .description = Šodienas prognoze ātrā acu uzmetienā
+newtab-custom-widget-recent-searches-toggle =
+    .label = Nesenie meklējumi
 newtab-custom-close-button = Aizvērt
 newtab-custom-settings = Pārvaldīt vairāk iestatījumu
 

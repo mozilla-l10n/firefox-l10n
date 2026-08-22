@@ -67,7 +67,7 @@ addon-install-full-screen-blocked = Papildinājumu instalēšana nav ļauta, kam
 webext-perms-sideload-menu-item = { $addonName } pievienots { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
-webext-perms-update-menu-item = { $addonName } ir nepieciešamas jaunas tiesības
+webext-perms-update-menu-item = { $addonName } ir nepieciešamas jaunas atļaujas
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
