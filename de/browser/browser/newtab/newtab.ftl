@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Bild des Tages
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Letzte Suchanfragen
 home-prefs-mission-message2 =
     .message = Unsere Sponsoren unterstützen unsere Mission, ein besseres Web zu erschaffen.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Erfahren, wie das geht
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Weitere Informationen
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Datenschutz
 
 ## Privacy widget — count readout
 
@@ -406,6 +413,14 @@ newtab-stocks-search-no-results = Keine Ergebnisse für "{ $query }"
 newtab-stocks-search-loading = Wird geladen…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Die Suche ist derzeit nicht möglich. Versuchen Sie es später erneut.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Sie können bis zu { $limit } Aktien hinzufügen. Entfernen Sie eine, um eine andere hinzuzufügen.
+       *[other] Sie können bis zu { $limit } Aktien hinzufügen. Entfernen Sie eine, um eine andere hinzuzufügen.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -456,6 +471,11 @@ newtab-picture-check-back = Schauen Sie morgen wieder vorbei, um ein neues Bild 
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Bild des Tages der Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Letzte Suchanfragen
 
 ## Search box component.
 
