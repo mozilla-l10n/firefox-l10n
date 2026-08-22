@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Iestatījumi…
 menu-application-set-as-default =
     .label = Iestatīt { -brand-shorter-name } kā noklusējuma pārlūkprogrammu
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Kopīgot { -brand-product-name }
 menu-application-services =
     .label = Servisi
 menu-application-hide-this =
@@ -366,3 +370,7 @@ menu-help-not-deceptive =
     .accesskey = d
 menu-report-broken-site =
     .label = Ziņot par bojātu vietni
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals2 =
+    .label = Kopīgot { -brand-product-name }

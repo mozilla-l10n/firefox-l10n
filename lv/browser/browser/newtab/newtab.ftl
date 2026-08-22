@@ -41,6 +41,9 @@ home-custom-homepage-address-button =
 
 ## Firefox Home content
 
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Nesenie meklējumi
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =
@@ -79,6 +82,13 @@ home-prefs-recent-activity-select =
     .aria-label = Nesenās darbības
 home-prefs-weather-header-srd =
     .label = Laikapstākļi
+
+## Strings for the Privacy widget
+
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Privātums
 
 ## Strings for the Stocks widget
 

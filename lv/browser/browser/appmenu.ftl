@@ -249,6 +249,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Kopīgot { -brand-product-name }
+    .accesskey = K
 appmenu-get-help =
     .label = Iegūt palīdzību
     .accesskey = p
@@ -329,5 +334,7 @@ appmenu-create-profile =
     .label = Jauns profils
 appmenu-edit-profile =
     .aria-label = Labot profilu
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Kopīgot { -brand-product-name }
 appmenu-profiles-2 =
     .label = Profili
