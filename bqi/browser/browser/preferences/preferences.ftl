@@ -485,6 +485,7 @@ update-application-manual =
     .label = هیچ سی ورۊ رسۊویا واجۊری مکوݩ (پؽشنهاڌ نؽبۊ)
     .accesskey = N
 update-setting-write-failure-title2 = ختا مجال زفت کردن سامووا ورۊ رسۊوی
+update-in-progress-title = هونی ورۊ رسۊوی ابۊ
 update-in-progress-ok-button = &دیر وندن
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -526,6 +527,8 @@ browsing-group-label =
 settings-media-group =
     .label = وارسگر
 browsing-picture-in-picture-learn-more = قلوه دووسته بۊین
+recommendations-group =
+    .label = پؽشنهاڌا
 browsing-media-control-learn-more = قلوه دووسته بۊین
 browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
 browsing-group =
@@ -537,6 +540,9 @@ preferences-accessibility-header =
     .heading = دسرسی پزیری
 preferences-default-zoom-select =
     .aria-label = زۊم پؽش فرز
+preferences-fonts-advanced-settings =
+    .label = سامووا پؽش رئڌه
+    .accesskey = A
 
 ## General Section - Proxy
 
