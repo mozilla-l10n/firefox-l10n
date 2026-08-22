@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Foto del día
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Búsquedas recientes
 home-prefs-mission-message2 =
     .message = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Descubra cómo
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Conocer más
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Privacidad
 
 ## Privacy widget — count readout
 
@@ -405,6 +412,14 @@ newtab-stocks-search-no-results = No hay resultados para “{ $query }”
 newtab-stocks-search-loading = Cargando…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = No se pudo buscar ahora. Intente nuevamente más tarde.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Puede agregar hasta { $limit } acción. Se debe eliminar una para agregar otra.
+       *[other] Puede agregar hasta { $limit } acciones. Se debe eliminar una para agregar otra.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -455,6 +470,11 @@ newtab-picture-check-back = Vuelva mañana para una nueva foto
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Foto del día de Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Búsquedas recientes
 
 ## Search box component.
 
