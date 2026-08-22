@@ -63,6 +63,8 @@ about-private-browsing-pin-promo-title = Geen opgeslagen cookies of geschiedenis
 
 ## Strings used in a promotion message for Firefox Relay
 
+about-private-browsing-relay-promo-header = Help spam in uw Postvak IN te voorkomen met e-mailmaskers
+about-private-browsing-relay-promo-title = Verberg uw echte adres met een e-mailmasker wanneer u zich inschrijft, winkelt of online iets deelt.
 about-private-browsing-relay-promo-link-text = E-mailmaskers proberen
 
 ## Strings used in a promotion message for cookie banner reduction

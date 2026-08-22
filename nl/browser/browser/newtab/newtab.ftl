@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Foto van de dag
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Recente zoekopdrachten
 home-prefs-mission-message2 =
     .message = Onze sponsors steunen onze missie om een beter web te bouwen.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Lees hier hoe
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Meer info
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Privacy
 
 ## Privacy widget — count readout
 
@@ -336,6 +343,8 @@ newtab-stocks-list-markets = Markten
 # menu, and .label is shown on the button that opens it.
 newtab-stocks-list-watchlist = Volglijst
     .label = Volglijst
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Zoeken op naam of symbool
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -454,6 +463,13 @@ newtab-picture-check-back = Kom morgen terug voor een nieuwe foto
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons-afbeelding van de dag
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Recente zoekopdrachten
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Meer info
 
 ## Search box component.
 
@@ -828,6 +844,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Aandelen
 newtab-custom-widget-picture-toggle =
     .label = Foto van de dag
+newtab-custom-widget-recent-searches-toggle =
+    .label = Recente zoekopdrachten
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
