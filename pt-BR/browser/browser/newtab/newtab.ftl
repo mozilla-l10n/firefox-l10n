@@ -339,6 +339,8 @@ newtab-stocks-widget-title = Ações
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Mercados
     .label = Mercados
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Pesquisar por nome ou símbolo
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -352,6 +354,39 @@ newtab-stocks-ticker-status-up = { $name }, alta { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, baixa { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sem alteração, { $change }, { $price }
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Pesquisar por nome ou símbolo
+    .placeholder = Pesquisar por nome ou símbolo
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Resultados da pesquisa
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Voltar
+    .aria-label = Voltar
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Nenhum resultado de “{ $query }”
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Carregando…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Não foi possível pesquisar no momento. Tente novamente mais tarde.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Você pode adicionar até { $limit } ação. Remova uma para adicionar outra.
+       *[other] Você pode adicionar até { $limit } ações. Remova uma para adicionar outra.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -402,6 +437,16 @@ newtab-picture-check-back = Volte amanhã para ver uma nova imagem
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Imagem do dia do Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Pesquisas recentes
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Opções de pesquisas recentes
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Saiba mais
 
 ## Search box component.
 
@@ -772,6 +817,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Ações
 newtab-custom-widget-picture-toggle =
     .label = Imagem do dia
+newtab-custom-widget-recent-searches-toggle =
+    .label = Pesquisas recentes
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
