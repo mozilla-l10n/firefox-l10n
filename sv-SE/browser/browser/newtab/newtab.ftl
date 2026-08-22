@@ -174,7 +174,7 @@ newtab-privacy-menu-learn-more = Läs mer
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
-    .aria-label = Sekretess
+    .aria-label = Integritet
 
 ## Privacy widget — count readout
 
@@ -418,8 +418,8 @@ newtab-stocks-search-error = Det gick inte att söka just nu. Försök igen sena
 #   $limit (Number) - the maximum number of stocks the watchlist can hold.
 newtab-stocks-watchlist-full =
     { $limit ->
-        [one] Du kan lägga till upp till { $limit } i aktier. Ta bort en för att lägga till en annan.
-       *[other] Du kan lägga till upp till { $limit } aktier. Ta bort en för att lägga till en annan.
+        [one] Du kan lägga till { $limit } aktie. Ta bort en för att lägga till en annan.
+       *[other] Du kan lägga till { $limit } aktier. Ta bort en för att lägga till en annan.
     }
 
 ## Strings for the Picture of the Day widget
