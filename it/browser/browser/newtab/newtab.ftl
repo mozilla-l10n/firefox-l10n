@@ -745,12 +745,24 @@ newtab-discovery-empty-section-topstories-timed-out = Oops. Sembra che la sezion
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } di { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Precedente
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Successivo
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Sospendi riproduzione automatica
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Riprendi riproduzione automatica
 
 ## Pocket Content Section.
 
