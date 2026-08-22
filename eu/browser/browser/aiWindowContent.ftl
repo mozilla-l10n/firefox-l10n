@@ -23,6 +23,7 @@ smartwindow-assistant-error-capacity-header = { -smart-window-brand-name(form: "
 smartwindow-assistant-error-budget-body = Leiho honetan nabigatzen jarrai dezakezu halere. Txata berriro egongo da erabilgarri zure eguneko muga berrezartzen denean.
 smartwindow-assistant-error-many-requests-header = Mesedez itxaron pixka bat eta saiatu berriro. Mezu gehiegi bidali dira denbora-tarte laburrean.
 smartwindow-assistant-error-max-length-header = Txat berri bat hasteko unea da. Honek bere luzeraren muga gainditu du jada.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name(capitalize: "yes", form: "nork", number: "sing") } ezin du zerbitzariarekin konektatu. Probatu beste sare bat edo desgaitu zure VPNa.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Zerbitzariaren errorea (HTTP { $status }). Saiatu berriro mesedez.
