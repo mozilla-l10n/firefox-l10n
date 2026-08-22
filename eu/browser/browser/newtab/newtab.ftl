@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Eguneko argazkia
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Azken bilaketak
 home-prefs-mission-message2 =
     .message = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Ezagutu nola
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Argibide gehiago
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Pribatutasuna
 
 ## Privacy widget — count readout
 
@@ -406,6 +413,14 @@ newtab-stocks-search-no-results = Emaitzarik ez "{ $query }" bilaketarako
 newtab-stocks-search-loading = Kargatzen…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Ezin da bilatu orain. Saiatu berriro geroago.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Asko jota akzio bat gehi dezakezu. Kendu bat beste bat gehitzeko.
+       *[other] Asko jota { $limit } akzio gehi ditzakezu. Kendu bat beste bat gehitzeko.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -456,6 +471,16 @@ newtab-picture-check-back = Itzuli bihar argazki berri bat ikusteko
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons-eko eguneko argazkia
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Azken bilaketak
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Azken bilaketen aukerak
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Argibide gehiago
 
 ## Search box component.
 
@@ -829,6 +854,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Akzioak
 newtab-custom-widget-picture-toggle =
     .label = Eguneko argazkia
+newtab-custom-widget-recent-searches-toggle =
+    .label = Azken bilaketak
 newtab-custom-widget-section-title = Widgetak
 newtab-custom-widget-section-toggle =
     .label = Widgetak

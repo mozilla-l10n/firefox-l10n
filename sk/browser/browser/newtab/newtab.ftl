@@ -492,6 +492,11 @@ newtab-picture-image-alt = Obrázok dňa z Wikimedia Commons
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Nedávne vyhľadávania
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Nastavenia pre nedávne vyhľadávania
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Ďalšie informácie
 
 ## Search box component.
 
@@ -864,6 +869,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Akcie
 newtab-custom-widget-picture-toggle =
     .label = Obrázok dňa
+newtab-custom-widget-recent-searches-toggle =
+    .label = Nedávne vyhľadávania
 newtab-custom-widget-section-title = Miniaplikácie
 newtab-custom-widget-section-toggle =
     .label = Miniaplikácie
