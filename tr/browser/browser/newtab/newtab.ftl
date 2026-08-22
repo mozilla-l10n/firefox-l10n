@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Günün resmi
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Son aramalar
 home-prefs-mission-message2 =
     .message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Nasıl mı?
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Daha fazla bilgi al
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Gizlilik
 
 ## Privacy widget — count readout
 
@@ -290,6 +297,23 @@ newtab-stocks-ticker-status-up = { $name }, { $change } artış, { $price }
 # Stock decreased (went down) during the day
 newtab-stocks-ticker-status-down = { $name }, { $change } düşüş, { $price }
 
+## Stocks widget ticker search
+
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Arama sonuçları
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Geri
+    .aria-label = Geri
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Yükleniyor…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Şu anda arama yapılamıyor. Daha sonra yeniden deneyin.
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -339,6 +363,11 @@ newtab-picture-check-back = Yarın yeni bir resim burada sizi bekleyecek
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Günün Wikimedia Commons resmi
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Son aramalar
 
 ## Search box component.
 
@@ -421,6 +450,9 @@ topsite-label-pinned =
 
 ## Top Sites - Web notifications hover card
 
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = { $site } bildirimleri
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Az önce
 newtab-topsites-hover-card-mark-all-read =
@@ -703,6 +735,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Borsa
 newtab-custom-widget-picture-toggle =
     .label = Günün resmi
+newtab-custom-widget-recent-searches-toggle =
+    .label = Son aramalar
 newtab-custom-widget-section-title = Araçlar
 newtab-custom-widget-section-toggle =
     .label = Araçlar
@@ -1603,6 +1637,14 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Arama sonuçları
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = “{ $city }” şehrini özel saat olarak ekle
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .label = Şehir adı
+    .aria-label = Şehir adı
+    .placeholder = Bu saati adlandırın
 newtab-clock-widget-custom-zone-results =
     .aria-label = Saat dilimi sonuçları
 # Shown in the time-zone picker when the search matches no time zones.

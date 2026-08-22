@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Simge
 containers-color-label2 =
     .label = Renk
+containers-dialog2 =
+    .buttonlabelaccept = Kaydet
+    .buttonaccesskeyaccept = K
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,14 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = { $name } Kapsayıcısı Ayarları
     .style = min-width: 32em
+
+## Dialog that binds a website to a container.
+
+containers-site-container-label =
+    .label = Kapsayıcı
+containers-site-dialog =
+    .buttonlabelaccept = Kaydet
+    .buttonaccesskeyaccept = K
 
 ## Container creation panel, anchored to the URL bar.
 
