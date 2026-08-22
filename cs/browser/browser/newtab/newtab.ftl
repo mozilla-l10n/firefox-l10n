@@ -456,6 +456,16 @@ newtab-stocks-search-no-results = Žádné výsledky pro “{ $query }”
 newtab-stocks-search-loading = Načítání…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = V tuto chvíli se hledání nepodařilo. Zkuste to později.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Můžete přidat až { $limit } akcii. Pro přidání další jednu odeberte.
+        [few] Můžete přidat až { $limit } akcie. Pro přidání další jednu odeberte.
+        [many] Můžete přidat až { $limit } akcií. Pro přidání další jednu odeberte.
+       *[other] Můžete přidat až { $limit } akcií. Pro přidání další jednu odeberte.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -506,6 +516,16 @@ newtab-picture-check-back = Zítra se sem zase podívejte na novou fotku
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Obrázek dne od Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Nedávno vyhledávané
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Nastavení pro nedávné vyhledávání
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Zjistit více
 
 ## Search box component.
 
@@ -888,6 +908,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Akcie
 newtab-custom-widget-picture-toggle =
     .label = Obrázek dne
+newtab-custom-widget-recent-searches-toggle =
+    .label = Nedávno vyhledávané
 newtab-custom-widget-section-title = Widgety
 newtab-custom-widget-section-toggle =
     .label = Widgety
