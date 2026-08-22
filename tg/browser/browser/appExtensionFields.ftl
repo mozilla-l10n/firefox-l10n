@@ -15,6 +15,23 @@ extension-firefox-compact-dark-description = Мавзуъ бо нақшаи ра
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Намуди зоҳирии рангорангро барои тугмаҳо, менюҳо ва равзанаҳо истифода баред.
 
+## Theme labels
+## These are short, evocative names for color themes in Firefox. Each name
+## suggests a color through nature or fire imagery rather than naming the color
+## directly. Where possible, choose a word that evokes the same imagery or color
+## association in the target language. If no equivalent exists, prioritize color
+## clarity. One word, 11 characters or fewer.
+
+# Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
+# color word; translate the sense of "standard."
+extension-default-theme-name2 = Пешфарз
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+extension-nova-sun-name = Офтоб
+# Name for a warm orange theme. Refers to a small burst of fire.
+extension-nova-spark-name = Шарора
+# Name for a red-orange theme. Refers to the color of fire.
+extension-nova-flame-name = Аланга
+
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
 ## $colorway-name variable.
