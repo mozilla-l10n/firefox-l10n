@@ -339,6 +339,10 @@ newtab-stocks-widget-title = Ações
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Mercados
     .label = Mercados
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Lista de monitoração
+    .label = Lista de monitoração
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Pesquisar por nome ou símbolo
 
@@ -354,6 +358,36 @@ newtab-stocks-ticker-status-up = { $name }, alta { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, baixa { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sem alteração, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = Adicionar { $name } à lista de monitoração
+    .aria-label = Adicionar { $name } à lista de monitoração
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = Remover { $name } da lista de monitoração
+    .aria-label = Remover { $name } da lista de monitoração
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } está na sua lista de monitoração
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } adicionado à lista de monitoração
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } removido da lista de monitoração
 
 ## Stocks widget ticker search
 
