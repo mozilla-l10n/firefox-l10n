@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Imagem do dia
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Pesquisas recentes
 home-prefs-mission-message2 =
     .message = Nossos patrocinadores apoiam nossa missão de construir uma web melhor.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Descubra como
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Saiba mais
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Privacidade
 
 ## Privacy widget — count readout
 
@@ -328,6 +335,10 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Ações
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Mercados
+    .label = Mercados
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
