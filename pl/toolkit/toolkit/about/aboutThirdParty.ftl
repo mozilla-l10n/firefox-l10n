@@ -9,7 +9,7 @@ third-party-intro =
     { -brand-short-name(case: "gen") }. Każdy moduł niepodpisany przez firmę Microsoft lub
     { -vendor-short-name(case: "acc") } jest uważany za moduł zewnętrzny.
 third-party-message-empty = Nie wykryto żadnych modułów zewnętrznych.
-third-party-message-no-duration = Nie nagrano
+third-party-message-no-duration = Nie zarejestrowano
 third-party-detail-version = Wersja pliku
 third-party-detail-vendor = Informacje o dostawcy
 third-party-detail-occurrences = Wystąpienia
