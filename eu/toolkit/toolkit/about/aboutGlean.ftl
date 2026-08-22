@@ -8,7 +8,7 @@
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
-glean-debug-ping-viewer-brand-name = { -glean-brand-name } arazketarako pingen ikustailea
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } arazketarako ping-en ikustailea
 about-glean-page-title2 = { -glean-brand-name }(r)i buruz
 about-glean-header = { -glean-brand-name }(r)i buruz
 about-glean-interface-description =
@@ -85,7 +85,7 @@ about-glean-label-for-controls-submit =
     (Ordutik aurrera eta aplikazioa berrabiarazi arte bidalitako ping guztiak
     <code>{ $debug-tag }</code> gisa etiketatuko dira.)
 about-glean-li-for-visit-gdpv =
-    <a data-l10n-name="gdpv-tagged-pings-link">Bisitatu { glean-debug-ping-viewer-brand-name } orria zure etiketa duten ping-ak ikusteko</a>.
+    <a data-l10n-name="gdpv-tagged-pings-link">Bisitatu '{ glean-debug-ping-viewer-brand-name }' orria zure etiketa duten ping-ak ikusteko</a>.
     Ez luke segundo gutxi batzuk baino gehiago hartu behar botoia sakatzetik zure ping-a iristera.
     Batzuetan minutu gutxi batzuk har litzake.
 # Do not translate strings between <code> </code> tags.
