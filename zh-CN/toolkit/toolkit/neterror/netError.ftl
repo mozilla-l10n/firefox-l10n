@@ -39,6 +39,14 @@ neterror-disable-native-feedback-warning = 总是继续打开
 neterror-pref-reset = 看来可能是您的网络安全设置造成了此问题。您想还原到默认设置吗？
 neterror-error-reporting-automatic = 报告此类错误，帮助 { -vendor-short-name } 识别与拦截恶意网站
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = 连接可能不私密
+    .message = 应用或服务可能可以窥探来自此网站的加密流量。
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } 因某些不明原因无法加载此页面。
