@@ -476,6 +476,9 @@ newtab-picture-image-alt = Wikimedia Commons-afbeelding van de dag
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Recente zoekopdrachten
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Recente-zoekresultatenopties
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Meer info
 

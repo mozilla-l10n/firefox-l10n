@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Hulpprogramma Media Foundation Engi
 process-type-utility-actor-js-oracle = Hulpprogramma JavaScript Oracle
 process-type-utility-actor-windows-utils = Hulpprogramma Windows Utils
 process-type-utility-actor-windows-file-dialog = Hulpprogramma Windows-bestandsdialoogvenster
+process-type-utility-actor-hw-inference = Hulpprogramma hardware-versnelde inferentie
 
 ##
 ## Other
