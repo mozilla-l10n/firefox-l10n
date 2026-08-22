@@ -2838,3 +2838,4 @@ referrals-section-header2 =
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link2 =
     .label = Condividi { -brand-product-name }
+

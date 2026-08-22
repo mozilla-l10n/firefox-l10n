@@ -373,3 +373,4 @@ menu-referrals2 =
 # use the browser. "Share" here means recommending or referring the browser
 menu-referrals =
     .label = Condividi { -brand-shorter-name }
+
