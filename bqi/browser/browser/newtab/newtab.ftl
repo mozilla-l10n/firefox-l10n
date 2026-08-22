@@ -310,6 +310,13 @@ newtab-picture-show-button =
     .title = نشووݩ داڌن شؽوات ٱمرۊز
     .aria-label = نشووݩ داڌن شؽوات ٱمرۊز
 
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = پیتینیڌنا دیندایی
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -620,6 +627,8 @@ newtab-custom-widget-stocks-toggle =
     .label = سهام
 newtab-custom-widget-picture-toggle =
     .label = شؽوات رۊز
+newtab-custom-widget-recent-searches-toggle =
+    .label = پیتینیڌنا دیندایی
 newtab-custom-widget-section-title = ویجتا
 newtab-custom-widget-section-toggle =
     .label = ویجتا
@@ -785,6 +794,7 @@ newtab-weather-opt-in-not-now =
 newtab-weather-opt-in-yes =
     .label = هری
 newtab-weather-opt-in-headline = پؽش بینی ٱو وو هوا مهلی خوتووݩ ن بگرین
+newtab-weather-opt-in-choose-location = پسند جاگه
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = شئر نیویورک
 # "Highest" here refers to the highest temperature of the day
@@ -793,6 +803,11 @@ newtab-weather-high =
 # "Lowest" here refers to the lowest temperature of the day
 newtab-weather-low =
     .aria-label = کم
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = پؽش بینی ن من { $provider } بوینین
+    .aria-description = { $provider } ∙ هؽزگری وابیڌه
 
 ## Topic Labels
 
