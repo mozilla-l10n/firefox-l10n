@@ -476,6 +476,11 @@ newtab-picture-image-alt = Bild des Tages der Wikimedia Commons
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Letzte Suchanfragen
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Optionen für kürzlich durchgeführte Suchen
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Weitere Informationen
 
 ## Search box component.
 
@@ -850,6 +855,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Aktien
 newtab-custom-widget-picture-toggle =
     .label = Bild des Tages
+newtab-custom-widget-recent-searches-toggle =
+    .label = Letzte Suchanfragen
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
