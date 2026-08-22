@@ -57,3 +57,72 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
+-smart-window-brand-name =
+    { $capitalize ->
+        [yes]
+            { $form ->
+                [nork]
+                    { $number ->
+                        [sing] Leiho adimendunak
+                        [pl] Leiho adimendunek
+                       *[mugg] Leiho adimendunek
+                    }
+                [nori]
+                    { $number ->
+                        [sing] Leiho adimendunari
+                        [pl] Leiho adimendunei
+                       *[mugg] Leiho adimenduni
+                    }
+                [noren]
+                    { $number ->
+                        [sing] Leiho adimendunaren
+                        [pl] Leiho adimendunen
+                       *[mugg] Leiho adimendunen
+                    }
+                [norekin]
+                    { $number ->
+                        [sing] Leiho adimendunarekin
+                        [pl] Leiho adimendunekin
+                       *[mugg] Leiho adimendunekin
+                    }
+               *[nor]
+                    { $number ->
+                        [sing] Leiho adimenduna
+                        [pl] Leiho adimendunak
+                       *[mugg] Leiho adimendun
+                    }
+            }
+       *[no]
+            { $form ->
+                [nork]
+                    { $number ->
+                        [sing] leiho adimendunak
+                        [pl] leiho adimendunek
+                       *[mugg] leiho adimendunek
+                    }
+                [nori]
+                    { $number ->
+                        [sing] leiho adimendunari
+                        [pl] leiho adimendunei
+                       *[mugg] leiho adimenduni
+                    }
+                [noren]
+                    { $number ->
+                        [sing] leiho adimendunaren
+                        [pl] leiho adimendunen
+                       *[mugg] leiho adimendunen
+                    }
+                [norekin]
+                    { $number ->
+                        [sing] leiho adimendunarekin
+                        [pl] leiho adimendunekin
+                       *[mugg] leiho adimendunekin
+                    }
+               *[nor]
+                    { $number ->
+                        [sing] leiho adimenduna
+                        [pl] leiho adimendunak
+                       *[mugg] leiho adimendun
+                    }
+            }
+    }
