@@ -413,6 +413,14 @@ newtab-stocks-search-no-results = Nulle resultatos pro “{ $query }”
 newtab-stocks-search-loading = Cargante…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Impossibile cercar a iste momento. Retenta plus tarde.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Tu pote adder usque { $limit } stock. Remove un pro adder un altere.
+       *[other] Tu pote adder usque { $limit } stocks. Remove un pro adder un altere.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -468,6 +476,9 @@ newtab-picture-image-alt = Imagine del die de Wikimedia Commons
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Recercas recente
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Optiones de recerca recente
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Pro saper plus
 
