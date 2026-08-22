@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Obrázek dne
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Nedávno vyhledávané
 home-prefs-mission-message2 =
     .message = Naši sponzoři podporují naši misi budovat lepší web.
 home-prefs-manage-topics-link2 =
@@ -177,6 +180,10 @@ home-prefs-mission-message-learn-more-link-srd = Zjistěte jak
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Zjistit více
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Soukromí
 
 ## Privacy widget — count readout
 
