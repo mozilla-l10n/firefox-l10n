@@ -33,5 +33,13 @@ share-panel-send-to-mobile =
     .label = Мобильді құрылғыға жіберу
 share-panel-device-subview =
     .title = Барлық құрылғылар
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Басқа құрылғыны байланыстыру
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Құрылғыңыз көрінбей ме?
 share-panel-os-share-subview =
     .title = Көмегімен бөлісу…

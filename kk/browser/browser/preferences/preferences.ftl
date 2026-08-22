@@ -1266,6 +1266,8 @@ containers-settings-button2 =
     .title = Баптаулар
 containers-remove-button3 =
     .title = Өшіру
+containers-site-remove-button =
+    .title = Өшіру
 containers-remove-button2 =
     .title = Өшіру
 
