@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Осы күннің суреті
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Жуырдағы іздеулер
 home-prefs-mission-message2 =
     .message = Біздің демеушілеріміз жақсырақ интернет құру миссиямызға қолдау көрсетеді.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Қалай екенін біл�
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Көбірек білу
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Жекелік
 
 ## Privacy widget — count readout
 
@@ -352,6 +359,39 @@ newtab-stocks-ticker-status-down = { $name }, кемуі { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, өзгеріссіз, { $change }, { $price }
 
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Аты немесе белгісі бойынша іздеу
+    .placeholder = Аты немесе белгісі бойынша іздеу
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Іздеу нәтижелері
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Артқа
+    .aria-label = Артқа
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = "{ $query }" бойынша нәтиже жоқ
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Жүктелуде…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Қазір іздеу мүмкін емес. Кейінірек қайталап көріңіз.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Сіз { $limit } акцияға дейін қоса аласыз. Басқасын қосу үшін біреуін алып тастаңыз.
+       *[other] Сіз { $limit } акцияға дейін қоса аласыз. Басқасын қосу үшін біреуін алып тастаңыз.
+    }
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -401,6 +441,16 @@ newtab-picture-check-back = Жаңа суретті көру үшін ертең
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons: күн суреті
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Жуырдағы іздеулер
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Жуырдағы іздеулер опциялары
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Көбірек білу
 
 ## Search box component.
 
@@ -773,6 +823,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Акциялар
 newtab-custom-widget-picture-toggle =
     .label = Осы күннің суреті
+newtab-custom-widget-recent-searches-toggle =
+    .label = Жуырдағы іздеулер
 newtab-custom-widget-section-title = Виджеттер
 newtab-custom-widget-section-toggle =
     .label = Виджеттер

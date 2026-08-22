@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Таңбаша
 containers-color-label2 =
     .label = Түс
+containers-dialog2 =
+    .buttonlabelaccept = Сақтау
+    .buttonaccesskeyaccept = с
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -100,6 +103,8 @@ containers-window-update-settings3 =
 
 ## Dialog that binds a website to a container.
 
+containers-site-window =
+    .title = Веб-сайтты қосу
 containers-site-label =
     .label = Вебсайт
     .placeholder = example.com
@@ -108,6 +113,9 @@ containers-site-container-label =
 containers-site-dialog =
     .buttonlabelaccept = Сақтау
     .buttonaccesskeyaccept = с
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Жарамды, қауіпсіз веб-сайтты енгізіңіз
 
 ## Container creation panel, anchored to the URL bar.
 
