@@ -181,6 +181,7 @@ mr2022-onboarding-colorway-label-innovator = نۊ ٱوورد
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = گرؽڌن آزاڌی گشتن مهرمووه وا ی کلیک
+mr2022-upgrade-onboarding-pin-private-window-subtitle = ی جۊری من اینترنت بگردین ک منی هیچکس نؽنیرتووݩ، بؽ زفت کردن کۊکی یا ویرگار همچونووݩ ک دسکتاپ ایسا ن برازنه.
 
 ## MR2022 Privacy Segmentation screen strings
 
