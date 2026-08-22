@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Фота дня
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Нядаўнія пошукі
 home-prefs-mission-message2 =
     .message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту.
 home-prefs-manage-topics-link2 =
@@ -169,6 +172,10 @@ home-prefs-mission-message-learn-more-link-srd = Даведацца, як
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Падрабязней
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Прыватнасць
 
 ## Privacy widget — count readout
 
@@ -336,6 +343,14 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Акцыі
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Рынкі
+    .label = Рынкі
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Спіс назірання
+    .label = Спіс назірання
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -399,6 +414,11 @@ newtab-picture-check-back = Зазірніце заўтра, каб убачыц
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Фота дня з Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Нядаўнія пошукі
 
 ## Search box component.
 
