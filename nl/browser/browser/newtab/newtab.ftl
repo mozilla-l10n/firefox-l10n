@@ -413,6 +413,14 @@ newtab-stocks-search-no-results = Geen resultaten voor ‘{ $query }’
 newtab-stocks-search-loading = Laden…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Kan momenteel niet zoeken. Probeer het later nogmaals.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] U kunt maximaal { $limit } aandeel toevoegen. Verwijder er een om een andere toe te voegen.
+       *[other] U kunt maximaal { $limit } aandelen toevoegen. Verwijder er een om een andere toe te voegen.
+    }
 
 ## Strings for the Picture of the Day widget
 
