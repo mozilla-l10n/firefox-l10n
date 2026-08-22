@@ -33,5 +33,13 @@ share-panel-send-to-mobile =
     .label = Emondo pumbyrýpe
 share-panel-device-subview =
     .title = Opaite mba’e’oka
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Embojuaju ambue mba’e’oka
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = ¿Nderehechái mba’e’oka?
 share-panel-os-share-subview =
     .title = Emoherakuã kóvandi…

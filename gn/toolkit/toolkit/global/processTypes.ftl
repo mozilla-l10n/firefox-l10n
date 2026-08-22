@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Media Foundation Engine jeporurã
 process-type-utility-actor-js-oracle = JavaScript Oracle jeporurã
 process-type-utility-actor-windows-utils = Windows Utils jeporurã
 process-type-utility-actor-windows-file-dialog = Windows File Dialog jeporurã
+process-type-utility-actor-hw-inference = Kuaapy pya’éva hardware rehegua
 
 ##
 ## Other
