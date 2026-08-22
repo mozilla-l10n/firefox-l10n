@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = 每日一圖
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = 最近搜尋內容
 home-prefs-mission-message2 =
     .message = 贊助商支持我們打造出一個更好的網路環境的使命。
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = 看看是如何達成的
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 更多資訊
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = 隱私權
 
 ## Privacy widget — count readout
 
@@ -378,6 +385,10 @@ newtab-stocks-search-no-results = 沒有「{ $query }」的搜尋結果
 newtab-stocks-search-loading = 載入中…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = 目前無法搜尋，請稍後再試。
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full = 您最多可加入 { $limit } 支股票。移除現有的即可新增。
 
 ## Strings for the Picture of the Day widget
 
@@ -428,6 +439,16 @@ newtab-picture-check-back = 請於明天再回來看看新照片
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = 來自維基共享資源的每日一圖
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = 最近搜尋內容
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = 最近搜尋選項
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = 更多資訊
 
 ## Search box component.
 
@@ -798,6 +819,8 @@ newtab-custom-widget-stocks-toggle =
     .label = 股市
 newtab-custom-widget-picture-toggle =
     .label = 每日一圖
+newtab-custom-widget-recent-searches-toggle =
+    .label = 最近搜尋內容
 newtab-custom-widget-section-title = 小工具
 newtab-custom-widget-section-toggle =
     .label = 小工具
