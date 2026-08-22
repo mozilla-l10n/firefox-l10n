@@ -1266,6 +1266,18 @@ containers-settings-button2 =
     .title = Ynstellingen
 containers-remove-button3 =
     .title = Fuortsmite
+containers-sites-card-header =
+    .label = Website-spesifike konteners
+    .description = Kies in kontener foar in website en { -brand-short-name } sil dizze brûke elke kear as de website iepene wurdt.
+containers-sites-add-button =
+    .label = Website tafoegje
+    .accesskey = W
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Kontener foar { $site }
+containers-site-remove-button =
+    .title = Fuortsmite
 containers-remove-button2 =
     .title = Fuortsmite
 

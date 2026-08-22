@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Foto fan de dei
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Resinte sykopdrachten
 home-prefs-mission-message2 =
     .message = Us sponsors stypje ús misje om in better web te bouwen.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Lês hjir hoe
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Mear ynfo
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Privacy
 
 ## Privacy widget — count readout
 
@@ -328,6 +335,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Oandielen
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Merken
+    .label = Merken
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Folchlist
+    .label = Folchlist
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Sykje op namme of symboal
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -341,6 +358,69 @@ newtab-stocks-ticker-status-up = { $name }, { $change } stige, { $price }
 newtab-stocks-ticker-status-down = { $name }, { $change } dale, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, gjin wiziging, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = { $name } oan folchlist tafoegje
+    .aria-label = { $name } oan folchlist tafoegje
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = { $name } fan folchlist fuortsmite
+    .aria-label = { $name } fan folchlist fuortsmite
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } stiet op jo folchlist
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } oan folchlist tafoege
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } fan folchlist fuortsmiten
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Sykje op namme of symboal
+    .placeholder = Sykje op namme of symboal
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Sykresultaten
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Tebek
+    .aria-label = Tebek
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Gjin resultaten foar ‘{ $query }’
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Lade…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Kin op dit stuit net sykje. Probearje it letter nochris.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Jo kinne oant { $limit } oandiel tafoegje. Ferwiderje ien om in oare ta te foegjen.
+       *[other] Jo kinne maksimaal { $limit } oandielen tafoegje. Ferwiderje ien om in oare ta te foegjen.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -391,6 +471,16 @@ newtab-picture-check-back = Kom moarn werom foar in nije foto
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons-ôfbylding fan ’e dei
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Resinte sykopdrachten
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Resinte-sykresultatenopsjes
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Mear ynfo
 
 ## Search box component.
 
@@ -765,6 +855,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Oandielen
 newtab-custom-widget-picture-toggle =
     .label = Foto fan de dei
+newtab-custom-widget-recent-searches-toggle =
+    .label = Resinte sykopdrachten
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Gjin bewarre cookies of skiednis, streekrjocht fan jo buroblêd ôf. Blêdzje as oft net ien sjocht.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Help spam yn jo Postfek YN foar te kommen mei e-mailmaskers
+about-private-browsing-relay-promo-title = Ferbergje jo echte adres mei in e-mailmasker as jo jo ynskriuwe, winkelje of online wat diele.
+about-private-browsing-relay-promo-link-text = E-mailmaskers probearje
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
