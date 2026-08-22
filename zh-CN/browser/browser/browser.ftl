@@ -1543,6 +1543,9 @@ private-browsing-indicator-button =
     .tooltiptext = 隐私浏览信息
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = 您已进入隐私窗口
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = 此功能可以让使用此设备的其他人无法得知您的浏览活动，但并不能让您在网络上隐身。<a data-l10n-name="learn-more">谁可以看到我的活动？</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
