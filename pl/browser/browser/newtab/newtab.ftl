@@ -421,6 +421,15 @@ newtab-stocks-search-no-results = Brak wyników dla „{ $query }”
 newtab-stocks-search-loading = Wczytywanie…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Nie można teraz wyszukać. Spróbuj ponownie później.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Nie można dodać więcej niż { $limit } akcję. Usuń ją, aby dodać kolejną.
+        [few] Nie można dodać więcej niż { $limit } akcje. Usuń jedną, aby dodać kolejną.
+       *[many] Nie można dodać więcej niż { $limit } akcji. Usuń jedną, aby dodać kolejną.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -471,6 +480,16 @@ newtab-picture-check-back = Wróć jutro po nowe zdjęcie
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Zdjęcie dnia z Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Ostatnie wyszukiwania
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Opcje ostatnich wyszukiwań
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Więcej informacji
 
 ## Search box component.
 
@@ -846,6 +865,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Giełda
 newtab-custom-widget-picture-toggle =
     .label = Zdjęcie dnia
+newtab-custom-widget-recent-searches-toggle =
+    .label = Ostatnie wyszukiwania
 newtab-custom-widget-section-title = Widżety
 newtab-custom-widget-section-toggle =
     .label = Widżety

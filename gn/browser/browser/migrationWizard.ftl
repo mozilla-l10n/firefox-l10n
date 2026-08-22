@@ -191,6 +191,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Opámava
 migration-safari-password-import-header = Emba’egueru Safari ñe’ẽñemi
+migration-safari-password-import-post-sequoia-step1 = Embojuruja <a data-l10n-name="macos-passwords-app">tembiporu’i ñe’ẽñemi</a> ne Mac-pe
 migration-safari-password-import-post-sequoia-step3 = Eñongatu marandurenda
 migration-safari-password-import-post-sequoia-step4 = Eiporavo maranurenda eñongatúva
 migration-safari-password-import-steps-header = Emba’egueru hag̃ua Safari ñe’ẽñemi:

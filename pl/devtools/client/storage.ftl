@@ -35,12 +35,12 @@ storage-variable-view-search-box =
     .placeholder = Filtruj wartości
 # Add Item button title
 storage-add-button =
-    .title = Dodaj obiekt
+    .title = Dodaj element
 storage-delete-all-button =
     .title = Usuń wszystko
 # Refresh button title
 storage-refresh-button =
-    .title = Odśwież obiekty
+    .title = Odśwież elementy
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Usuń wszystko
@@ -57,7 +57,7 @@ storage-context-menu-delete =
     .label = Usuń „{ $itemName }”
 # Context menu action to add an item
 storage-context-menu-add-item =
-    .label = Dodaj obiekt
+    .label = Dodaj element
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
