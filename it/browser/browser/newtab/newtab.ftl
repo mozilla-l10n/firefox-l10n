@@ -525,6 +525,9 @@ newtab-topsites-image-url-label = Indirizzo immagine personalizzata
 newtab-topsites-use-custom-image-link = Utilizza un’immagine personalizzata
 newtab-topsites-use-image-link = Utilizza un’immagine personalizzata…
 newtab-topsites-image-validation = Errore durante il caricamento dell’immagine. Prova con un altro indirizzo.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Cancella testo
 
@@ -743,6 +746,15 @@ newtab-discovery-empty-section-topstories-loading = Caricamento in corso…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oops. Sembra che la sezione non si sia caricata completamente.
 
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Precedente
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Successivo
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -864,6 +876,9 @@ newtab-custom-close-menu-button =
     .title = Chiudi
 newtab-custom-close-button = Chiudi
 newtab-custom-settings = Gestisci altre impostazioni
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Aspetto
 # Button that opens the full browser theme selection view.
@@ -981,6 +996,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1376,6 +1394,9 @@ newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
     .aria-label = Chiudi
     .title = Chiudi
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1877,4 +1898,3 @@ newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Città di Ho Chi Minh
 newtab-clock-city-np-kathmandu = Katmandu
 newtab-clock-city-mm-yangon = Yangon
-
