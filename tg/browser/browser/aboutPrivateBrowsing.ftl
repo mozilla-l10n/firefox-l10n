@@ -61,6 +61,10 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Рост аз мизи кории шумо меояд ва ягон куки ё таърих нигоҳ дошта намешавад. Аз Интернет истифода баред ба мисли ҳеҷ кас ба шумо нигоҳ намедорад.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-link-text = Ниқобҳои почтаи электрониро кӯшиш кунед
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
