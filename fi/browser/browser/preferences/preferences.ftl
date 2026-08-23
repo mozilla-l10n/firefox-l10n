@@ -1264,6 +1264,11 @@ containers-settings-button2 =
     .title = Asetukset
 containers-remove-button3 =
     .title = Poista
+containers-sites-add-button =
+    .label = Lisää verkkosivusto
+    .accesskey = L
+containers-site-remove-button =
+    .title = Poista
 containers-remove-button2 =
     .title = Poista
 
