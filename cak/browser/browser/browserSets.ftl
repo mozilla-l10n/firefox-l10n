@@ -79,6 +79,12 @@ nav-reload-shortcut =
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
+ai-chatbot-sidebar-shortcut =
+    .key = X
+open-tabs-sidebar-shortcut2 =
+    .key = U
+toggle-sidebar-shortcut =
+    .key = Z
 history-show-all-shortcut =
     .key = H
 history-show-all-shortcut-mac =

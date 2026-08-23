@@ -1015,6 +1015,11 @@ toolbar-button-logins =
     .label = Ewan taq tzij
     .tooltiptext = Ketz'et chuqa' kenuk'samajïx ri yakon ewan taq atzij
 qrcode-window-title = QR b'itz'ib'
+qrcode-dialog-title = QR b'itz'ib'
+qrcode-image =
+    .aria-label = QR b'itz'ib'
+qrcode-close-button =
+    .aria-label = Titz'apïx
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1033,6 +1038,17 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = K'ak'a' ichinan tzuwäch
     .tooltiptext = Tijaq jun k'ak'a' rutzuwäch ichinan okik'amaya'l ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Tikomonïx
+    .tooltiptext = Tikomonïx re ruxaq re'
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
@@ -1056,6 +1072,11 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = Ch'aqa' chik…
+menu-share-windows =
+    .label = Ch'aqa' chik taq Cha'oj
+menu-share-copy-link =
+    .label = Tiwachib'ëx Ximonel
+    .accesskey = w
 ui-tour-info-panel-close =
     .tooltiptext = Titz'apïx
 
@@ -1103,6 +1124,8 @@ navbar-accessible =
     .aria-label = Okem pa k'amaya'l
 navbar-downloads =
     .label = Taq qasanïk
+navbar-overflow-2 =
+    .tooltiptext = Ch'aqa' samajib'äl
 navbar-overflow =
     .tooltiptext = Ch'aqa' chik Samajib'äl…
 # Variables:
@@ -1143,6 +1166,14 @@ data-reporting-notification-button =
     .accesskey = T
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Ichinan okem
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Ichinan okem pa k'amaya'l
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Rutzijol ichinan okem pa k'amaya'l
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = At k'o pa jun Ichinan Tzuwäch
 
 ## Unified extensions (toolbar) button
 
@@ -1194,6 +1225,16 @@ refresh-blocked-allow =
 popup-notification-addon-install-unsigned =
     .value = (Man jikib'an ta)
 popup-notification-xpinstall-prompt-learn-more = Tetamäx ch'aqa' chik chi rij ri ütz rub'eyal ye'ayäk taq tz'aqat
+popup-notification-xpinstall-prompt-block-url = Ketz'et ri taq rub'anikil
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Tiya' q'ij chi ri k'amal nisamäj pan Ichinan Tzuwäch
+    .accesskey = l
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Tikomonïx samajel taq tzij chuqa' samajinem rik'in ri runuk'samajel k'amal
+    .accesskey = T
 
 ## Pop-up warning
 
@@ -1223,3 +1264,46 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Tik'ut pe ri “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Tik'ut “{ $redirectURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Tik'ut pa Molyakb'äl
+    .accessKey = M
+
+## The urlbar trust icon & panel
+
+trustpanel-clear-cookies-subview-button-clear = Tijosq'ïx
+trustpanel-clear-cookies-subview-button-cancel = Tiq'at
+trustpanel-blocker-see-all = Titzet Ronojel
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Man Ütz ta
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-list-label-tracking-content = Rupam ojqanem
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = ¿La k'o rub'i' ataqoya'l pa re ruxaq re'?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Tichup ruwäch
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Tisamajib'ëx chik
+    .accesskey = s
