@@ -224,6 +224,8 @@ containers-disable-alert-cancel-button = فعال بمهنه
 browser-layout-header2 =
     .label = تئر بندی گشت گر
 browser-layout-header = تئر بندی گشت گر
+browser-layout-show-sidebar =
+    .label = نشووݩ داڌن نوار کلی
 
 ## General Section - Language & Appearance
 
@@ -648,6 +650,8 @@ home-prefs-stories-header =
 home-prefs-recommended-by-learn-more = یو چتاور کار اکونه
 home-prefs-recommended-by-option-sponsored-stories =
     .label = وزعیتا هؽزگرووݩ
+home-prefs-recommended-by-option-recent-saves =
+    .label = نشووݩ داڌن زفت وابیڌنا دیندایی
 home-prefs-highlights-option-visited-pages =
     .label = بلگه یل نیشته وابیڌه
 home-prefs-highlights-options-bookmarks =
