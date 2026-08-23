@@ -80,7 +80,7 @@ webext-imported-addons = { -brand-short-name } tarayıcınıza aktarılan uzant�
 addon-removal-title = { $name } kaldırılsın mı?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { $name }, { -brand-shorter-name } tarayıcınızdan kaldırılsın mı?
+addon-removal-message = { $name } uzantısı { -brand-shorter-name } tarayıcınızdan kaldırılsın mı?
 addon-removal-button = Kaldır
 addon-removal-abuse-report-checkbox = Bu uzantıyı { -vendor-short-name }’ya şikâyet et
 # "it" refers to the local AI model that is paired to the AI feature

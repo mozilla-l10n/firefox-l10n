@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Bu dosya desteklenmiyor. Devam etmek için bir
 about-pdf-dropzone-error-generic = Dosya yüklenemedi. Daha sonra yeniden deneyin.
 about-pdf-browse-files =
     .label = Dosyalara göz at
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = PDF aç
 about-pdf-promo =
     .heading = { -brand-short-name } varsayılan PDF düzenleyiciniz olsun
     .message = PDF’leri { -brand-short-name } ile açın; işaretleme, imza ekleme, dosya birleştirme ve yorum yazma gibi basit işlemleri tek yerden yönetin.

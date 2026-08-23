@@ -28,7 +28,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Başka bir tarayıcıdan içe aktar…
 about-logins-menu-menuitem-import-from-a-file = Dosyadan içe aktar…
 about-logins-menu-menuitem-export-logins = Hesapları dışa aktar…
-about-logins-menu-menuitem-remove-all-logins = Tüm hesapları kaldır…
+about-logins-menu-menuitem-remove-all-logins = Tüm hesapları sil…
 about-logins-menu-menuitem-export-logins2 = Parolaları dışa aktar…
 about-logins-menu-menuitem-remove-all-logins2 = Tüm parolaları sil…
 menu-menuitem-preferences =
@@ -122,7 +122,7 @@ login-item-new-login-title = Yeni hesap oluştur
 # Header for adding a password
 about-logins-login-item-new-login-title = Parola ekle
 login-item-edit-button = Düzenle
-about-logins-login-item-remove-button = Kaldır
+about-logins-login-item-remove-button = Sil
 login-item-origin-label = Web sitesi adresi
 login-item-tooltip-message = Giriş yaptığınız web sitesinin tam adresiyle aynı olmalı.
 about-logins-origin-tooltip2 = Tam adresi yazın ve giriş yaptığınız adresle tam olarak aynı olduğundan emin olun.
@@ -218,50 +218,50 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Vazgeç
 confirmation-dialog-dismiss-button =
     .title = Vazgeç
-about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
+about-logins-confirm-remove-dialog-title = Bu hesap silinsin mi?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Parola silinsin mi?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Bu işlemi geri alamazsınız.
-about-logins-confirm-remove-dialog-confirm-button = Kaldır
+about-logins-confirm-remove-dialog-confirm-button = Sil
 
 ## Variables
 ##   $count (number) - Number of items
 
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
-        [1] Kaldır
-        [one] Kaldır
-       *[other] Tümünü kaldır
+        [1] Sil
+        [one] Sil
+       *[other] Tümünü sil
     }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
-        [1] Evet, bu hesabı kaldır
-        [one] Evet, bu hesabı kaldır
-       *[other] Evet, bu hesapları kaldır
+        [1] Evet, bu hesabı sil
+        [one] Evet, bu hesabı sil
+       *[other] Evet, bu hesapları sil
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
-        [one] { $count } hesap kaldırılsın mı?
-       *[other] { $count } hesap kaldırılsın mı?
+        [one] { $count } hesap silinsin mi?
+       *[other] { $count } hesap silinsin mi?
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı ve burada görünen ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
-        [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı ve burada görünen ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
-       *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesapları ve burada görünen ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+        [1] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı ve burada görünen ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı ve burada görünen ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesapları ve burada görünen ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] { $count } hesap tüm cihazlardan kaldırılsın mı?
-       *[other] { $count } hesabın hepsi tüm cihazlardan kaldırılsın mı?
+        [one] { $count } hesap tüm cihazlardan silinsin mi?
+       *[other] { $count } hesabın hepsi tüm cihazlardan silinsin mi?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
-        [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
-       *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesapları { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
+        [1] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan silecektir. Burada görünen ihlal uyarıları da silinecektir. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan silecektir. Burada görünen ihlal uyarıları da silinecektir. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesapları { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan silecektir. Burada görünen ihlal uyarıları da silinecektir. Bu işlemi geri alamazsınız.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -279,9 +279,9 @@ about-logins-confirm-remove-all-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
-        [1] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
-        [one] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
-       *[other] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolalarınızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+        [1] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolalarınızı ve tüm ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
@@ -292,9 +292,9 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
-        [1] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen tüm ihlal uyarıları kaldırılacaktır. Bu işlemi geri alamazsınız.
-        [one] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen tüm ihlal uyarıları kaldırılacaktır. Bu işlemi geri alamazsınız.
-       *[other] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen tüm ihlal uyarıları kaldırılacaktır. Bu işlemi geri alamazsınız.
+        [1] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan silecektir. Burada görünen tüm ihlal uyarıları silinecektir. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan silecektir. Burada görünen tüm ihlal uyarıları silinecektir. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan silecektir. Burada görünen tüm ihlal uyarıları silinecektir. Bu işlemi geri alamazsınız.
     }
 
 ##

@@ -129,17 +129,17 @@ contextual-manager-passwords-remove-all-confirm-button =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
     { $total ->
-        [1] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
-        [one] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
-       *[other] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolalarınızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+        [1] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolalarınızı ve tüm ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
     }
 # Message for modal to confirm the removal of all saved passwords when user HAS SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message-sync =
     { $total ->
-        [1] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz parolayı ve ihlal uyarılarını eşitlenen tüm cihazlardan kaldıracaktır. Bu işlemi geri alamazsınız.
-        [one] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz parolayı ve ihlal uyarılarını eşitlenen tüm cihazlardan kaldıracaktır. Bu işlemi geri alamazsınız.
-       *[other] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları ve ihlal uyarılarını eşitlenen tüm cihazlardan kaldıracaktır. Bu işlemi geri alamazsınız.
+        [1] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz parolayı ve ihlal uyarılarını eşitlenen tüm cihazlardan silecektir. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz parolayı ve ihlal uyarılarını eşitlenen tüm cihazlardan silecektir. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları ve ihlal uyarılarını eşitlenen tüm cihazlardan silecektir. Bu işlemi geri alamazsınız.
     }
 contextual-manager-passwords-origin-label = Web sitesi
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
