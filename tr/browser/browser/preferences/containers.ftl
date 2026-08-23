@@ -103,11 +103,22 @@ containers-window-update-settings3 =
 
 ## Dialog that binds a website to a container.
 
+containers-site-window =
+    .title = Site ekle
+containers-site-label =
+    .label = Web sitesi
+    .placeholder = example.com
 containers-site-container-label =
     .label = Kapsayıcı
 containers-site-dialog =
     .buttonlabelaccept = Kaydet
     .buttonaccesskeyaccept = K
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Geçerli ve güvenli bir web sitesi yazın
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Bu web sitesi zaten listenizde mevcut
 
 ## Container creation panel, anchored to the URL bar.
 

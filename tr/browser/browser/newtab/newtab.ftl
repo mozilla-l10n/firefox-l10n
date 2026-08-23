@@ -309,6 +309,10 @@ newtab-stocks-search-results =
 newtab-stocks-search-back-button =
     .title = Geri
     .aria-label = Geri
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = “{ $query }” için sonuç bulunamadı
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Yükleniyor…
 # Shown when a ticker search fails to reach the service.
@@ -368,6 +372,9 @@ newtab-picture-image-alt = Günün Wikimedia Commons resmi
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Son aramalar
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Son aramalar seçenekleri
 
 ## Search box component.
 

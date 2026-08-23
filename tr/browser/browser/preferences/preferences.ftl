@@ -1260,6 +1260,9 @@ containers-settings-button2 =
     .title = Ayarlar
 containers-remove-button3 =
     .title = Sil
+containers-sites-add-button =
+    .label = Web sitesi ekle
+    .accesskey = W
 # The dropdown that picks which container a site opens in.
 # Variables:
 #   $site (string) - Domain of the website, for example “example.com”.

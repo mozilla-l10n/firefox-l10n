@@ -38,6 +38,20 @@ neterror-disable-native-feedback-warning = Her zaman devam et
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Şu adımları deneyin:
+neterror-search-cta-hint-check-address = Sitenin adresini kontrol edin
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Siteyi bulmak için web’de arama yapın
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Ara
+    .accesskey = A
+    .tooltiptext = Arama sonuçlarını yeni sekmede açar
+neterror-search-cta-reload-button =
+    .label = Tazele
+    .accesskey = T
 # Shown in place of the Search button while the search option is being prepared.
 neterror-search-cta-loading = Yükleniyor
 # $error (String) - The error code, for example "dnsNotFound".

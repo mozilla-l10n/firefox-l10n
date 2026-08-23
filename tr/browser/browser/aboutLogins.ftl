@@ -156,9 +156,9 @@ login-item-cancel-button = Vazgeç
 # Variables
 #   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
-login-item-timeline-action-created = Oluşturma
-login-item-timeline-action-updated = Güncelleme
-login-item-timeline-action-used = Kullanma
+login-item-timeline-action-created = Oluşturuldu
+login-item-timeline-action-updated = Güncellendi
+login-item-timeline-action-used = Kullanıldı
 
 ## OS Authentication dialog
 
