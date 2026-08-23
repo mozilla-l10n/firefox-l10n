@@ -510,6 +510,7 @@ update-application-use-service =
     .accesskey = b
 update-setting-write-failure-title2 = ختا مجال زفت کردن سامووا ورۊ رسۊوی
 update-in-progress-title = هونی ورۊ رسۊوی ابۊ
+update-in-progress-message = اخۊین { -brand-short-name } ای ورۊ رسۊوی ن وا پؽش بووره؟
 update-in-progress-ok-button = &دیر وندن
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -529,10 +530,16 @@ update-application-suppress-prompts-heading =
 
 support-get-help =
     .label = گرؽڌن هیاری
+support-share-ideas =
+    .label = یک رسۊوی ایده یل وو منشڌا
 
 ## General Section - Performance
 
 performance-title = کارایی
+performance-use-recommended-settings-checkbox =
+    .label = و کار گرؽڌن سامووا کارایی پؽشنهاڌ وابیڌه
+    .accesskey = U
+performance-use-recommended-settings-desc = ای سامووا و ری سخت ٱفزار وو سیستوم عامل کامپیتر ایسا سامووݩ ابۊن.
 performance-settings-learn-more = قلوه دووسته بۊین
 performance-limit-content-process-option = مئدۊدیت پروسه موئتوا
     .accesskey = l
