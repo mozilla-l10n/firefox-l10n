@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Tämä tiedosto ei ole tuettu. Valitse PDF jat
 about-pdf-dropzone-error-generic = Lähetys ei onnistunut. Yritä myöhemmin uudelleen.
 about-pdf-browse-files =
     .label = Selaa tiedostoja
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Avaa PDF-tiedosto
 about-pdf-promo =
     .heading = Aseta { -brand-short-name } oletusarvoiseksi PDF-muokkaimeksi
     .message = Avaa PDF-asiakirjat { -brand-short-name }issa ja hoida keskeisimmät asiat yhdessä paikassa - korostuksista allekirjoituksiin, ja yhdistetyistä tiedostoista kommentteihin.

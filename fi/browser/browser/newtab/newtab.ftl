@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Päivän kuva
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Viimeisimmät haut
 home-prefs-mission-message2 =
     .message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Lue lisää
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Lue lisää
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Tietosuoja
 
 ## Privacy widget — count readout
 
@@ -342,6 +349,15 @@ newtab-stocks-ticker-status-down = { $name }, laski { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, ei muutosta, { $change }, { $price }
 
+## Stocks widget ticker search
+
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Hakutulokset
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Ladataan…
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -391,6 +407,13 @@ newtab-picture-check-back = Palaa huomenna uuden kuvan luokse
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commonsin päivän kuva
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Viimeisimmät haut
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Lue lisää
 
 ## Search box component.
 
@@ -769,6 +792,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Osakkeet
 newtab-custom-widget-picture-toggle =
     .label = Päivän kuva
+newtab-custom-widget-recent-searches-toggle =
+    .label = Viimeisimmät haut
 newtab-custom-widget-section-title = Pienoisohjelmat
 newtab-custom-widget-section-toggle =
     .label = Pienoisohjelmat
