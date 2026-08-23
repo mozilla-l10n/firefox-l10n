@@ -842,6 +842,9 @@ urlbar-result-action-search-bookmarks = Kekanöx taq Yaketal
 urlbar-result-action-search-history = Tikanöx Natab'äl
 urlbar-result-action-search-tabs = Kekanöx taq Ruwi'
 urlbar-result-action-search-actions = Kekanöx taq b'anoj
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Tijaq { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -1011,6 +1014,7 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Ewan taq tzij
     .tooltiptext = Ketz'et chuqa' kenuk'samajïx ri yakon ewan taq atzij
+qrcode-window-title = QR b'itz'ib'
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
