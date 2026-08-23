@@ -1295,7 +1295,7 @@ preferences-doh-header = دی ان اس ری HTTPS
 preferences-doh-status = وزعیت: { $status }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
-preferences-doh-resolver = جۊر کوݩ: { $name }
+preferences-doh-resolver = جۊر کوننده: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = نشۊوی اینترنتی زبال نؽ
@@ -1303,23 +1303,23 @@ preferences-doh-status-active = فعال
 preferences-doh-status-disabled = کۊر
 preferences-doh-expand-section =
     .tooltiptext = دووسمندیا قلوه
-preferences-doh-default-detailed-desc-2 = ٱر موشکلی وا جۊر کوݩ DNS ٱمن هڌه، DNS پؽش فرز خوتووݩ ن و کار بگیرین
+preferences-doh-default-detailed-desc-2 = ٱر موشکلی وا جۊر کوننده DNS ٱمن هڌه، DNS پؽش فرز خوتووݩ ن و کار بگیرین
 preferences-doh-default-detailed-desc-4 = کۊر من مجالی ک وی پی ان، کونتورول والدین یا سیاستا سازمۊوی فعال بۊن
 preferences-doh-enabled-desc = ایسا اگۊین ک چ مجالی DNS ٱمن و کار روه وو جۊر کونسه پسند اکۊنین.
-preferences-doh-enabled-detailed-desc-1 = و کار گرؽڌن جۊر کوݩ پسند بیڌه ایسا
+preferences-doh-enabled-detailed-desc-1 = و کار گرؽڌن جۊر کوننده پسند بیڌه ایسا
 preferences-doh-enabled-detailed-desc-2 = تینا ٱر موشکلی وا جۊر کوݩ DNS ٱمن هڌه، DNS پؽش فرز خوتووݩ ن و کار بگیرین
 preferences-doh-setting-strict =
     .label = هدکسر زفت وابیڌن
     .accesskey = M
 preferences-doh-strict-desc = { -brand-short-name } هی و عونوان DNS ٱمن و کار روه. پؽش ز یوکه DNS سیستوم و کار روه، و ایسا ی هوشتار اختار ٱمنیتی داڌه ابۊ.
-preferences-doh-strict-detailed-desc-1 = تینا و کار گرؽڌن جۊر کوݩ پسند بیڌه
+preferences-doh-strict-detailed-desc-1 = تینا و کار گرؽڌن جۊر کوننده پسند بیڌه
 preferences-doh-strict-detailed-desc-2 = ٱر DNS ٱمن من دسرس نبی، هی اختار بڌه
 preferences-doh-strict-detailed-desc-3 = ٱر DNS ٱمن من دسرس نبۊ، وبگه یل بار ونی نؽبۊن وو یا و خۊوی کار نؽکونن
 preferences-doh-setting-off =
     .label = کۊر
     .accesskey = O
 preferences-doh-off-desc = موبدل DNS پؽش فرز خوته و کار بگر
-preferences-doh-select-resolver = پسند جۊر کوݩ:
+preferences-doh-select-resolver = پسند جۊر کوننده:
 preferences-doh-manage-exceptions =
     .label = دؽوۉداری استسنایل…
     .accesskey = x
