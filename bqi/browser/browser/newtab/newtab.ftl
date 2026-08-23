@@ -549,6 +549,8 @@ newtab-section-header-stories = داستانا فرگ کردنی
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = تموم وابی!
+newtab-discovery-empty-section-topstories-content = دیندا تر سر بزݩ تا متالو قلوه ای بوینی.
 newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دووارته
 newtab-discovery-empty-section-topstories-loading = هونی بار اونه…
 
