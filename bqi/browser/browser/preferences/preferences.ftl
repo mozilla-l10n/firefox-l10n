@@ -980,6 +980,12 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = پور کردن خوتکار
+autofill-addresses-checkbox = زفت وو پور کردن نشۊویا
+    .accesskey = a
+autofill-saved-addresses-button = نشۊویا زفت وابیڌه
+    .accesskey = S
+autofill-payment-methods-checkbox-message = زفت وو پور کردن بارتا پرداخت
+    .accesskey = m
 autofill-payment-methods-header =
     .aria-label = بارتا پرداخت
 autofill-payment-methods-manage-payments-title =
