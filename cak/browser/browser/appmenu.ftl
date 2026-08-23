@@ -105,6 +105,8 @@ appmenu-remote-tabs-unverified = K'atzinel nijikib'äx ri rub'i' ataqoya'l.
 appmenuitem-fxa-toolbar-sync-now2 = Tixim Wakami
 appmenuitem-fxa-sign-in = Titikirisäx molojri'ïl pa { -brand-product-name }
 appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
+fxa-menu-sync-status-on = Tzijïl sync
+fxa-menu-sync-status-off = Chupül sync
 # Button shown next to "Sync is Off" when the user is signed in but sync is
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
@@ -112,6 +114,12 @@ fxa-menu-sync-status-turn-on-button =
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Tatikirisaj molojri'ïl pa yaximon
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Tikomonïx { $deviceName } wakami
+fxa-menu-manage-sync-settings =
+    .label = Tinuk'samajïx Runuk'ulem Sync
 fxa-menu-add-device =
     .label = Titz'aqatisäx jun okisaxel
 fxa-menu-manage-devices =
@@ -141,6 +149,7 @@ appmenu-fxa-setup-sync =
 appmenu-fxa-setup-sync-new = Titzij
 appmenuitem-save-page =
     .label = Tiyak Ruxaq Achi'el…
+appmenuitem-fxa-sync-off-title = Chupül sync
 
 ## What's New panel in App menu.
 
@@ -342,6 +351,10 @@ appmenu-edit-profile =
     .aria-label = Tinuk' ruwäch b'i'aj
 fxa-menu-create-profile-confirm =
     .label = Tinuk' jun k'ak'a' ruwäch b'i'aj
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Tikomonïx { -brand-product-name }
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title = Tikomonïx { -brand-short-name }
 appmenu-profiles-2 =
     .label = Ruwäch taq b'i'aj
 appmenu-profiles-header = Ruwäch taq b'i'aj

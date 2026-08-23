@@ -30,6 +30,9 @@ settings-data-backup-in-progress-message =
     .message = Tajin niwachib'ëx…
 settings-data-backup-last-backup-location-show-in-folder = Tik'ut pa molyakb'äl
 settings-data-backup-last-backup-location-edit = Tinuk'…
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Rub'i' yakb'äl: { $fileName }
 
 ##
 
@@ -57,6 +60,7 @@ turn-on-scheduled-backups-encryption-create-password-label = Ewan tzij
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Tikamulüx ewan tzij
 turn-on-scheduled-backups-cancel-button = Tiq'at
+turn-on-scheduled-backups-confirm-button = Titzij ruwachib'al
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
@@ -66,6 +70,11 @@ turn-off-scheduled-backups-cancel-button = Tiq'at
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Ticha'…
+       *[other] Tinik'öx…
+    }
 restore-from-backup-password-label = Ewan tzij
 restore-from-backup-cancel-button = Tiq'at
 
@@ -78,6 +87,10 @@ enable-backup-encryption-repeat-password-label = Tikamulüx ewan tzij
 enable-backup-encryption-cancel-button = Tiq'at
 enable-backup-encryption-confirm-button = Tiyak
 
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-validity-do-not-match = Man nikik'äm ta ki' ri taq ewan tzij
+
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
 password-rules-a11y-success =
@@ -87,6 +100,7 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = Tiyuj ruchajixik ewan tzij
 disable-backup-encryption-cancel-button = Tiq'at
 disable-backup-encryption-confirm-button = Tiyuj ri ewan tzij
 
@@ -105,6 +119,16 @@ backup-error-retry = K'o man xel ta ütz. Tatojtob'ej chik.
 ## default) within a folder labelled with the "backup-folder-name" string.
 
 backup-file-title = Tichojmirisäx { -brand-short-name }
+backup-file-encryption-state-label = Ewan rusik'ixik:
+backup-file-encryption-state-value-encrypted = Ja'
+backup-file-encryption-state-value-not-encrypted = Mani
+backup-file-creation-device-label = Okisab'äl:
+backup-file-creation-date-label = Xtz'uk:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-other-browser-restore-step-1 = Tiqasäx chuqa' tiyak { -brand-short-name }
+backup-file-download-moz-browser-button = Tiqasäx
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup

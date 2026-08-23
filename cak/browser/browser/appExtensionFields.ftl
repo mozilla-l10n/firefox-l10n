@@ -22,6 +22,9 @@ extension-firefox-alpenglow-description = Tokisäx jeb'ejöj tzub'al pa taq pitz
 ## association in the target language. If no equivalent exists, prioritize color
 ## clarity. One word, 11 characters or fewer.
 
+# Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
+# color word; translate the sense of "standard."
+extension-default-theme-name2 = K'o wi
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 extension-nova-sun-name = Q'ij
 # Name for a warm orange theme. Refers to a small burst of fire.
