@@ -465,6 +465,16 @@ newtab-picture-check-back = כדאי לחזור מחר לתמונה חדשה
 # provides no localized description.
 newtab-picture-image-alt = תמונה של היום של Wikimedia Commons
 
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = חיפושים אחרונים
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = אפשרויות חיפושים אחרונים
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = מידע נוסף
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -832,6 +842,8 @@ newtab-custom-widget-stocks-toggle =
     .label = מניות
 newtab-custom-widget-picture-toggle =
     .label = התמונה של היום
+newtab-custom-widget-recent-searches-toggle =
+    .label = חיפושים אחרונים
 newtab-custom-widget-section-title = ווידג’טים
 newtab-custom-widget-section-toggle =
     .label = ווידג’טים
