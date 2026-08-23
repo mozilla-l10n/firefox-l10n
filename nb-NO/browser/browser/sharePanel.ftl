@@ -33,5 +33,13 @@ share-panel-send-to-mobile =
     .label = Send til mobil
 share-panel-device-subview =
     .title = Alle enheter
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Koble til en annen enhet
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Ser du ikke enheten din?
 share-panel-os-share-subview =
     .title = Del med…

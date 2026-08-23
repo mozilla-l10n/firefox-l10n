@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Dagens bilde
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Nylige søk
 home-prefs-mission-message2 =
     .message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Finn ut hvordan
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Les mer
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Personvern
 
 ## Privacy widget — count readout
 
@@ -406,6 +413,14 @@ newtab-stocks-search-no-results = Ingen resultater for «{ $query }»
 newtab-stocks-search-loading = Laster …
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Kunne ikke søke akkurat nå. Prøv igjen senere.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Du kan legge til opptil { $limit } aksje. Fjern én for å legge til en annen.
+       *[other] Du kan legge til opptil { $limit } aksjer. Fjern én for å legge til en annen.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -456,6 +471,16 @@ newtab-picture-check-back = Sjekk tilbake i morgen for et nytt bilde
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Dagens bilde fra Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Nylige søk
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Alternativer for nylige søk
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Les mer
 
 ## Search box component.
 
@@ -829,6 +854,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Aksjer
 newtab-custom-widget-picture-toggle =
     .label = Dagens bilde
+newtab-custom-widget-recent-searches-toggle =
+    .label = Nylige søk
 newtab-custom-widget-section-title = Widgeter
 newtab-custom-widget-section-toggle =
     .label = Widgeter
