@@ -309,6 +309,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = سی ائمال ای آلشتکاری یل { -brand-short-name } ن دووارته ره ونین
 confirm-browser-language-change-button = ائمال وو ره وندن دووارته
+browser-language-preferred-label =
+    .label = زووݩ ترجیهی
 translate-web-pages =
     .label = ولرنیڌن موئتوا وب
     .accesskey = T
@@ -349,10 +351,14 @@ settings-translations-subpage-download-delete-button =
     .label = پاک کردن
 settings-translations-subpage-download-cancel-button =
     .label = لقو
+settings-translations-subpage-no-sites-added =
+    .label = هیچ وبگهی ٱوورده نوابیڌه
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = سی قالوو ویرگار، زمووݩ، ٱعداد وو واهدا هنداگیری، سامووا سیستوم عامل سی «{ $localeName }» و کار گرؽڌه بۊ.
+settings-spellcheck-header =
+    .label = واجۊری املا
 check-user-spelling =
     .label = واجۊری املا هوم زمووݩ وا هؽل کردن
     .accesskey = t
@@ -462,6 +468,9 @@ applications-handle-new-file-types-description = { -brand-short-name } وا فا
 applications-save-for-new-types =
     .label = زفت فایل
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = زفت کردن خوتکار فایلا
+    .accesskey = S
 drm-group =
     .label = موئتوا دؽوۉداری هۊقۊق دیجیتال (DRM)
 drm-content-header = موئتوا دؽوۉداری هۊقۊق دیجیتال (DRM)
@@ -470,6 +479,9 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = قلوه دووسته بۊین
 update-application-title = ورۊ رسۊوی یل { -brand-short-name }:
+# Variables:
+# $version (string) - Firefox version
+update-application-version = نوسخه { $version } <a data-l10n-name="learn-more">چ چیه نۊ هڌ</a>
 update-history-2 =
     .label = نشووݩ داڌن ویرگار ورۊ رسۊوی
     .accesskey = p
@@ -486,6 +498,13 @@ update-application-check-choose =
 update-application-manual =
     .label = هیچ سی ورۊ رسۊویا واجۊری مکوݩ (پؽشنهاڌ نؽبۊ)
     .accesskey = N
+update-application-background-enabled =
+    .label = مجالی ک { -brand-short-name } ره نوسته
+    .accesskey = W
+update-application-suppress-prompts-2 =
+    .label = ویر ونی یل ورۊ رسۊوی کمتری نشووݩ بڌین
+    .accesskey = n
+update-application-warning-cross-user-setting = ای سامووݩ سی پوی هساوا ویندۉز وو پوروفایلا { -brand-short-name } وا و کار گرؽڌن ای پۊرنیڌن { -brand-short-name } ائمال ابۊ.
 update-setting-write-failure-title2 = ختا مجال زفت کردن سامووا ورۊ رسۊوی
 update-in-progress-title = هونی ورۊ رسۊوی ابۊ
 update-in-progress-ok-button = &دیر وندن

@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = התמונה של היום
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = חיפושים אחרונים
 home-prefs-mission-message2 =
     .message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = כיצד?
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = מידע נוסף
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = פרטיות
 
 ## Privacy widget — count readout
 
@@ -399,6 +406,14 @@ newtab-stocks-search-no-results = אין תוצאות עבור ״{ $query }״
 newtab-stocks-search-loading = בטעינה…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = לא ניתן היה לחפש כרגע. נא לנסות שוב מאוחר יותר.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] ניתן להוסיף עד { $limit } מניות. יש להסיר מניה כדי להוסיף מניה אחרת.
+       *[other] ניתן להוסיף עד { $limit } מניות. יש להסיר מניה כדי להוסיף מניה אחרת.
+    }
 
 ## Strings for the Picture of the Day widget
 
