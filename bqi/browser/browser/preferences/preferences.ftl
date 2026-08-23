@@ -541,6 +541,9 @@ performance-use-recommended-settings-checkbox =
     .accesskey = U
 performance-use-recommended-settings-desc = ای سامووا و ری سخت ٱفزار وو سیستوم عامل کامپیتر ایسا سامووݩ ابۊن.
 performance-settings-learn-more = قلوه دووسته بۊین
+performance-allow-hw-accel =
+    .label = ٱر شتاب سخت ٱفزاری من دسرس بی و کار گرؽڌه بۊ
+    .accesskey = r
 performance-limit-content-process-option = مئدۊدیت پروسه موئتوا
     .accesskey = l
 # Variables:
