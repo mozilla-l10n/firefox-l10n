@@ -70,6 +70,10 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = Спытайце, шукайце або ўвядзіце URL-адрас
+smartbar-placeholder-hint-1 = Выкарыстоўвайце @, каб згадаць нядаўнія карткі…
+smartbar-placeholder-hint-2 = Спытайце што-небудзь…
+smartbar-placeholder-hint-3 = Увядзіце вэб-адрас…
+smartbar-placeholder-hint-4 = Пошук у сеціве…
 
 ## Mentions
 
@@ -84,6 +88,8 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-model-title = Што для вас важна?
+aiwindow-firstrun-model-title-v2 = Выберыце мадэль для пачатку
 aiwindow-firstrun-model-fast-label = Хуткая
 
 ## Firstrun set as default onboarding
@@ -132,10 +138,30 @@ aiwindow-fullpage-more =
     .label = Больш
     .title = Больш
 
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Чаты
+    .aria-label = Чаты
+    .tooltiptext = Чаты
+smartwindow-footer-history =
+    .label = Гісторыя
+    .aria-label = Гісторыя
+    .tooltiptext = Гісторыя
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = Штучны інтэлект можа памыляцца.
+
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
 
+firefoxview-chats-nav = Чаты
+    .title = Чаты
 firefoxview-chats-header = Чаты
+firefoxview-chat-context-delete = Выдаліць з чатаў
+    .accesskey = В
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-chats =
     .placeholder = Пошук у чатах
@@ -146,9 +172,39 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Сёння - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Учора - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .label = Вылучыць усе
+    .aria-label = Вылучыць усе
+smart-window-confirm-close-tab = Закрыць
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Закрыць { $count } картку
+        [few] Закрыць { $count } карткі
+       *[many] Закрыць { $count } картак
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Картка закрыта
+smartwindow-close-tab-callout-subtitle = Адкрывайце карткі з гісторыі ў любы час.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Зрабіць { -smart-window-brand-name } прадвызначаным?
+smart-window-default-promo-primary-button = Зрабіць прадвызначаным
+smart-window-default-promo-additional-button = Не зараз
 
 ## Feedback modal
 
+aiwindow-feedback-modal-title = Падзяліцца водгукам
 aiwindow-feedback-submit = Даслаць
 aiwindow-feedback-cancel = Скасаваць
 aiwindow-feedback-reason-other = Іншае
