@@ -30,3 +30,55 @@ settings-data-backup-in-progress-message =
     .message = Tajin niwachib'ëx…
 settings-data-backup-last-backup-location-show-in-folder = Tik'ut pa molyakb'äl
 settings-data-backup-last-backup-location-edit = Tinuk'…
+
+##
+
+settings-data-toggle-encryption-support-link = Tetamäx ch'aqa' chik
+settings-data-change-password2 =
+    .label = Tijal ewan tzij
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = Titzij ruwachib'al
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = K'ojlib'äl
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (chilab'en)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Ticha' jun k'ojlib'äl
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Ticha'…
+       *[other] Tinik'öx…
+    }
+turn-on-scheduled-backups-encryption-create-password-label = Ewan tzij
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Tikamulüx ewan tzij
+turn-on-scheduled-backups-cancel-button = Tiq'at
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = ¿La nichup ruwachib'al?
+turn-off-scheduled-backups-support-link = Tetamäx ch'aqa' chik
+turn-off-scheduled-backups-cancel-button = Tiq'at
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-password-label = Ewan tzij
+restore-from-backup-cancel-button = Tiq'at
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-support-link = Tetamäx ch'aqa' chik
+enable-backup-encryption-create-password-label = Ewan tzij
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Tikamulüx ewan tzij
+enable-backup-encryption-cancel-button = Tiq'at
+enable-backup-encryption-confirm-button = Tiyak
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Xojtikïr
