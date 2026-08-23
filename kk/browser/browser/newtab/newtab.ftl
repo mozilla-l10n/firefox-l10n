@@ -359,6 +359,36 @@ newtab-stocks-ticker-status-down = { $name }, кемуі { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, өзгеріссіз, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = { $name } бақылау тізіміне қосу
+    .aria-label = { $name } бақылау тізіміне қосу
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = { $name } бақылау тізімінен өшіру
+    .aria-label = { $name } бақылау тізімінен өшіру
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } сіздің бақылау тізіміңізде
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } бақылау тізіміне қосылды
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } бақылау тізімінен өшірілді
+
 ## Stocks widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.

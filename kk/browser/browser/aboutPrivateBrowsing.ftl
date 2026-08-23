@@ -64,6 +64,7 @@ about-private-browsing-pin-promo-title = Сақталған cookie файлда�
 ## Strings used in a promotion message for Firefox Relay
 
 about-private-browsing-relay-promo-header = Эл. пошта маскаларымен кіріс жәшігінде спамның алдын алуға көмектесуге болады
+about-private-browsing-relay-promo-title = Тіркелгенде, сауда жасағанда немесе онлайн бөліскенде эл. пошта маскасымен нақты адресіңізді жасырыңыз.
 about-private-browsing-relay-promo-link-text = Эл. пошта маскаларын қолданып көріңіз
 
 ## Strings used in a promotion message for cookie banner reduction

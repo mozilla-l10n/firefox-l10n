@@ -1266,6 +1266,16 @@ containers-settings-button2 =
     .title = Баптаулар
 containers-remove-button3 =
     .title = Өшіру
+containers-sites-card-header =
+    .label = Сайттарға тән контейнерлер
+    .description = Сайт үшін контейнерді таңдаңыз, сонда { -brand-short-name } оны сайт ашылған сайын пайдаланады.
+containers-sites-add-button =
+    .label = Веб-сайтты қосу
+    .accesskey = В
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = { $site } үшін контейнер
 containers-site-remove-button =
     .title = Өшіру
 containers-remove-button2 =
