@@ -78,6 +78,12 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Rub'i' taqoya'l
+    .tooltiptext = Rub'i' taqoya'l
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -270,6 +276,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Titaq k'oxomal…
     .accesskey = t
+main-context-menu-send-to-device-2 =
+    .label = Titaq pa okisaxel
+    .accesskey = T
 main-context-menu-save-to-pocket =
     .label = Tiyak Ruxaq pa { -pocket-brand-name }
     .accesskey = k
@@ -298,9 +307,15 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins2 =
     .label = Kenuk'samajïx ri taq Kitikirisab'al Moloj
     .accesskey = K
+main-context-menu-manage-passwords =
+    .label = Kenuk'samajïx Ewan taq Tzij
+    .accesskey = n
 main-context-menu-keyword =
     .label = Titz'aqatisäx jun ewan tzij richin re Rukanoxik re'…
     .accesskey = e
+main-context-menu-add-engine =
+    .label = Titz'aqatisäx Kanob'äl
+    .accesskey = t
 main-context-menu-link-send-to-device =
     .label = Titaq Ximojri'ïl pa Okisaxel
     .accesskey = O
@@ -371,3 +386,13 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = Tik'ut ewan tzij
     .accesskey = k
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = K'ak'a'
+main-context-menu-pdfjs-copy-page =
+    .label = Tiwachib'ëx ruxaq
+main-context-menu-pdfjs-cut-page =
+    .label = Tiqupïx ruxaq
+main-context-menu-pdfjs-delete-page =
+    .label = Tiyuj ruxaq
+main-context-menu-pdfjs-save-page =
+    .label = Tiyak achi'el…

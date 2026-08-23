@@ -48,6 +48,12 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Ichinan Okem
+# This is the initial default title for the browser window.
+# It gets updated based on loaded tabs or private browsing state.
+browser-main-window-default-title = { -brand-full-name }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Ichinan okem pa k'amaya'l
 
 ##
 
@@ -117,6 +123,13 @@ urlbar-result-menu-remove-from-history2 = Tiyuj pa natab'äl
     .accesskey = y
 urlbar-result-menu-tip-get-help2 = Tk'ul to'ïk
     .accesskey = t
+urlbar-result-menu-manage-firefox-suggest2 = Tinuk'samajïx { -firefox-suggest-brand-name }
+    .accesskey = n
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Tiyuj pa natab'äl
+    .accesskey = y
 urlbar-result-menu-learn-more =
     .label = Tetamäx ch'aqa' chik
     .accesskey = t
@@ -268,6 +281,8 @@ quickactions-cmd-addons2 = taq tz'aqat
 quickactions-bookmarks2 = Kenuk'samajïx taq yaketal
 quickactions-cmd-bookmarks = taq yaketal
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Tiyuj K'ak'a' Natab'äl
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tiyuj el ri natab'äl
 quickactions-cmd-clearhistory = tiyuj natab'äl
 # Opens about:downloads page
@@ -276,8 +291,14 @@ quickactions-cmd-downloads = taq qasanïk
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kinuk'samajixik taq k'amal
 quickactions-cmd-extensions = taq k'amal
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } tob'äl
+quickactions-cmd-help = to'ïk, to'onem
 # Opens the devtools web inspector
 quickactions-inspector2 = Kejaq taq Rusamajib'al Nuk'unel
+# Opens Firefox Library
+quickactions-cmd-library = wujb'äl
+quickactions-library = Tijaq Wujb'äl
 quickactions-cmd-inspector = nik'onel, rusamajib'al nuk'unel
 # Opens about:logins
 quickactions-logins2 = Kenuk'samajïx ewan taq tzij
@@ -288,6 +309,7 @@ quickactions-cmd-plugins = taq nak'ab'äl
 # Opens the print dialog
 quickactions-print2 = Titz'ajb'äx ruxaq
 quickactions-cmd-print = titz'ajb'äx
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Tijaq ichinan tzuwäch
 quickactions-cmd-private = ichinan okem
@@ -299,6 +321,9 @@ quickactions-restart = Titikirisäx chik { -brand-short-name }
 quickactions-cmd-restart = titikirisäx chik
 # Opens the screenshot tool
 quickactions-screenshot3 = Tichap jun chapoj wachib'äl
+# Opens about:translations
+quickactions-translate = Titzalq'omïx
+quickactions-cmd-translate = titzalq'omïx
 quickactions-cmd-screenshot = chapoj ruwäch
 # Opens about:preferences
 quickactions-settings2 = Tinuk'samajïx runuk'ulem

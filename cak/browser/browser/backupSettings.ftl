@@ -82,3 +82,33 @@ enable-backup-encryption-confirm-button = Tiyak
 
 password-rules-a11y-success =
     .alt = Xojtikïr
+password-rules-a11y-warning =
+    .alt = K'ayewal
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-cancel-button = Tiq'at
+disable-backup-encryption-confirm-button = Tiyuj ri ewan tzij
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = K'o man xel ta ütz. Tatojtob'ej chik.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-title = Tichojmirisäx { -brand-short-name }
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+restore-from-backup-filepicker-input =
+    .placeholder = Majun yakb'äl cha'on
