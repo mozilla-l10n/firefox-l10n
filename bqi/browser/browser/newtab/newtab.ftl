@@ -553,6 +553,8 @@ newtab-discovery-empty-section-topstories-header = تموم وابی!
 newtab-discovery-empty-section-topstories-content = دیندا تر سر بزݩ تا متالو قلوه ای بوینی.
 newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دووارته
 newtab-discovery-empty-section-topstories-loading = هونی بار اونه…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ای بوۊمی! ایما تقریبن ای بشن ن بار ونی کردیم بی، ٱما بس نؽ.
 
 ## Pocket Content Section.
 
