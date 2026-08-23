@@ -663,6 +663,9 @@ urlbar-result-dates-today = { $name } · Wakami
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Tikanöx pa { $engine }
 urlbar-searchmode-bookmarks =
     .label = Taq yaketal
 urlbar-searchmode-tabs =
@@ -671,15 +674,46 @@ urlbar-searchmode-history =
     .label = Natab'äl
 urlbar-searchmode-actions =
     .label = Taq b'anoj
+urlbar-searchmode-exit-button =
+    .tooltiptext = Titz'apïx
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description = Wakami tikanöx rik'in:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Kinuk'ulem taq kanoxïk
+urlbar-searchmode-bookmarks3 = Taq yaketal
+    .accesskey = y
+urlbar-searchmode-tabs3 = Taq ruwi'
+    .accesskey = w
+urlbar-searchmode-history3 = Natab'äl
+    .accesskey = N
+urlbar-searchmode-actions3 = Taq b'anoj
+    .accesskey = b
 urlbar-searchmode-bookmarks2 = Taq yaketal
 urlbar-searchmode-tabs2 = Taq ruwi'
 urlbar-searchmode-history2 = Natab'äl
 urlbar-searchmode-actions2 = Taq b'anoj
+urlbar-searchmode-exit-button2 =
+    .title = Titz'apïx
+urlbar-searchmode-default2 =
+    .title = K'o wi chi Kanob'äl
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Titz'aqatisäx “{ $engineName }”
     .title = Titz'aqatisäx kanob'äl “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Wakami tikanöx rik'in:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Tikanöx pa:
+urlbar-searchmode-popup-search-settings = Kinuk'ulem taq kanoxïk
+    .accesskey = n
+urlbar-searchmode-popup-settings = Taq nuk'ulem
+    .accesskey = n
+urlbar-searchmode-popup-search-settings-panelitem = Kinuk'ulem taq kanoxïk
+urlbar-searchmode-popup-settings-panelitem = Taq nuk'ulem
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
