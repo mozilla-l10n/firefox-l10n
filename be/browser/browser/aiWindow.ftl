@@ -5,6 +5,12 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Адкрыць спасылку ў новым { -smart-window-brand-name }
+    .accesskey = ы
+appmenuitem-new-ai-window =
+    .label = Новае { -smart-window-brand-name }
+    .value = Новае { -smart-window-brand-name }
 appmenuitem-new-classic-window =
     .label = Новае класічнае акно
 menu-file-new-ai-window =
@@ -23,10 +29,24 @@ smartwindow-document-title = Новая картка
 ai-window-toggleview-switch-classic =
     .label = Класічнае акно
     .value = Класічнае акно
+ai-window-toggleview-switch-classic-description =
+    .label = Стандартнае агляданне
+    .value = Стандартнае агляданне
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Пытайцеся пры агляданні
+    .value = Пытайцеся пры агляданні
 ai-window-toggleview-switch-private =
     .label = Прыватнае акно
+ai-window-toggleview-open-private =
+    .label = Адкрыць новае прыватнае акно
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Класічнае акно
+toolbar-switcher-customizable-label =
+    .label = Пераключальнік { -smart-window-brand-name }
+    .tooltiptext = Пераключэнне паміж разумнымі і класічнымі вокнамі.
 
 ## Input CTA
 
@@ -34,9 +54,22 @@ aiwindow-input-cta-submit-label-chat = Спытаць
 aiwindow-input-cta-submit-label-navigate = Перайсці
 aiwindow-input-cta-submit-label-search = Пошук
 aiwindow-input-cta-submit-label-stop = Спыніць
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Пачалася генерацыя адказаў
 aiwindow-input-cta-menu-label-chat = Спытаць
 aiwindow-input-cta-menu-label-navigate = Перайсці на сайт
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Пошук у { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = Шукаць з…
 aiwindow-input-cta-search-submenu-header = Пошук
+aiwindow-input-cta-stop-button =
+    .title = Спыніць адказ
+    .aria-label = Спыніць генерацыю адказаў
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = Спытайце, шукайце або ўвядзіце URL-адрас
 
 ## Mentions
 
