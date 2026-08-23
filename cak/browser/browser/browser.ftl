@@ -336,6 +336,8 @@ quickactions-update = Tik'ex { -brand-short-name }
 quickactions-cmd-update = tik'ex
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Titz'et Ruxe'el Ruxaq
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Tijaq { -firefoxlabs-brand-name }
 quickactions-cmd-viewsource = titz'et ruxe'el, xe'el
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -411,8 +413,14 @@ identity-clear-site-data =
     .label = Keyuj ri Kaxlanwäy chuqa' Kitzij Ruxaq K'amaya'l…
 identity-connection-not-secure-security-view = Man ütz ta ri awokem pa re ruxaq k'amaya'l re'.
 identity-connection-verified = Ütz ri awokem pa re ruxaq k'amaya'l re'.
+identity-ev-owner-label2 = Iqitzijib'äl talun richin:
+identity-verifier-label2 = Jikib'an ruma:
 identity-ev-owner-label = Iqitzijib'äl talun richin:
+identity-verifier-label = Jikib'an ruma:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Rojqan taq ajowaxïk ejikib'an pa ri Rutaqonem (EU) 2024/1183.
 identity-description-custom-root2 = Ri Mozilla man retaman ta ruwäch ri ruya'öl iqitzijib'äl Mozilla. Rik'in jub'a' xtz'aqatisäx pa jun samajel q'inoj o ruma jun nuk'samajel.
+identity-cert-exception-overridden = Xatz'aqatisaj jun man relik ta chajixik pa re jun k'amaya'l re'.
 identity-remove-cert-exception =
     .label = Tiyuj Man Relik Ta
     .accesskey = y
@@ -445,6 +453,9 @@ browser-window-restore-down-button =
     .tooltiptext = Tich'utinisäx Ikim
 browser-window-close-button =
     .tooltiptext = Titz'apïx
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Titzolin
 
 ## Tab actions
 
@@ -630,6 +641,25 @@ urlbar-result-action-copy-to-clipboard = Tiwachib'ëx
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Chilab'en
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Kek'ut taq chilab'enïk
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Wakami mani
+urlbar-result-realtime-opt-in-dismiss = Tewäx
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Wakami
 
 ## Strings used for buttons in the urlbar
 
