@@ -961,6 +961,12 @@ forms-saved-passwords =
 forms-saved-passwords-2 =
     .label = دؽوۉداری رزما زفت وابیڌه
     .accesskey = d
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = زفت وابیڌنا ازافه
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = کۊرس کوݩ
 forms-primary-pw-learn-more-link = قلوه دووسته بۊین
 forms-master-pw-fips-desc = آلشت رزم شکست خرد
 forms-windows-sso-learn-more-link = قلوه دووسته بۊین
