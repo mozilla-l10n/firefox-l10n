@@ -144,6 +144,7 @@ about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Windows утилиталары
 about-processes-utility-actor-windows-file-dialog = Windows файл сұхбаты
 about-processes-utility-actor-pkcs11-module = Қауіпсіздік модулінің көмекшісі
+about-processes-utility-actor-hw-inference = Құрылғылық жеделдетілген шығыс
 
 ## Displaying CPU (percentage and total)
 ## Variables:
