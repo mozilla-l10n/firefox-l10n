@@ -308,6 +308,9 @@ appmenu-sync-promo-turnonsync-cta = Eşitlemeyi başlat
 appmenu-sync-promo-connectdevice-cta = Cihaz bağla
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = Yer imlerinizi yanınızda taşıyın
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Yer imlerinizi yanınızda taşıyın
 
 ## Help panel
 
@@ -394,6 +397,8 @@ appmenuitem-relay-title-signed-in = E-posta maskelerini göster
 appmenuitem-relay-description = Gerçek e-posta adresinizi ve telefon numaranızı maskeleyin
 appmenuitem-services-relay-description = E-posta maskeleri panosunu aç
 appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } ile konumunuzu gizleyin
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name }’i indirin
 appmenuitem-vpn-description3 = Gezintilerinizin izlenmesini zorlaştırın
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bütün cihazlarınızı koruyun

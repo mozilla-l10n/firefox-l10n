@@ -12,6 +12,9 @@ urlbar-share-button =
 share-panel-heading = Sayfayı paylaş
 share-panel-copy-link =
     .label = Bağlantıyı kopyala
+# Confirmation hint shown near the share button after the user copies the
+# current page URL from the share panel.
+confirmation-hint-link-copied = Bağlantı kopyalandı
 share-panel-os-share =
     .label = Paylaş…
 share-panel-mail =
@@ -30,5 +33,13 @@ share-panel-send-to-mobile =
     .label = Mobil cihaza gönder
 share-panel-device-subview =
     .title = Tüm cihazlar
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Başka bir cihaz bağla
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Cihazınızı göremiyor musunuz?
 share-panel-os-share-subview =
     .title = Paylaş…

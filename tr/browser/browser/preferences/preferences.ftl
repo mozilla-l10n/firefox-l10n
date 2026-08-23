@@ -1260,6 +1260,12 @@ containers-settings-button2 =
     .title = Ayarlar
 containers-remove-button3 =
     .title = Sil
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = { $site } kapsayıcısı
+containers-site-remove-button =
+    .title = Sil
 containers-remove-button2 =
     .title = Sil
 
@@ -2819,3 +2825,14 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .label = Vekil sunucu otomatik yapılandırması etkin
     .description = Vekil sunucu otomatik yapılandırması, güvenilmeyen ağların web’de yaptıklarınızı izlemesine olanak verebilir.
+
+## Referrals Section
+
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = { -brand-short-name } tarayıcısını paylaş
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = { -brand-product-name } tarayıcısını paylaş

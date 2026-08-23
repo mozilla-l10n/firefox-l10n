@@ -60,6 +60,9 @@ ipprotection-summer-promo-offramp-generic-title = VPN limitleriniz 1 Eylül’de
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Yerleşik VPN’iniz artık daha iyi
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = { -mozilla-vpn-brand-name } ile seviye atlayın
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN’i aç
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Varsayılan yap

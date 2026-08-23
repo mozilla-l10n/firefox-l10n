@@ -400,6 +400,9 @@ topsite-label-pinned =
 
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = هیم سکو
+newtab-topsites-hover-card-mark-all-read =
+    .title = علامت زیڌن پوی و عونوان خونده وابیڌه
+    .aria-label = علامت زیڌن پوی و عونوان خونده وابیڌه
 newtab-topsites-hover-card-settings =
     .title = سامووا وارسۊوی
     .aria-label = سامووا وارسۊوی
@@ -500,10 +503,19 @@ newtab-label-removed-bookmark = نشووک پاک وابی
 newtab-label-recommended = سرتالا ترند
 newtab-label-saved = من { -pocket-brand-name } زفت وابیڌه
 newtab-label-download = دانلود وابیڌه
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#   $sponsorOrSource (string) - The name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · هؽزگری وابیڌه
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = هؽزگری وابیڌه و دست { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } دیقه
 # This string is used under fixed size ads to indicate sponsored content
 newtab-label-sponsored-fixed = هؽزگری وابیڌه
 

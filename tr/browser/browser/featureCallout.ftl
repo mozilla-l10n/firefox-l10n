@@ -139,7 +139,12 @@ taskbar-tabs-value-prop-callout-subtitle = Tek tıklamayla kendi penceresinde ve
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+taskbar-tabs-email-callout-title-v3 = Gelen kutunuzu görev çubuğunuzda tutun
+taskbar-tabs-email-callout-subtitle-v3 = E-posta sitelerini { -brand-short-name } güvencesiyle korunan yalın bir pencerede uygulama gibi açabilirsiniz.
 taskbar-tabs-value-prop-callout-title-v3 = En sevdiğiniz siteleri görev çubuğuna sabitleyin
+taskbar-tabs-value-prop-callout-subtitle-v3 = İstediğiniz siteyi { -brand-short-name } güvencesiyle korunan yalın bir pencerede uygulama gibi açabilirsiniz.
+taskbar-tabs-gaming-callout-title-v3 = Görev çubuğunuzdan oyununuza geri dönün
+taskbar-tabs-gaming-callout-subtitle-v3 = Oyun sitelerini { -brand-short-name } güvencesiyle korunan daha yalın bir pencerede açabilirsiniz.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Görev çubuğuna sabitle
 

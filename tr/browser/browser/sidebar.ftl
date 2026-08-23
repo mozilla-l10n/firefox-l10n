@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Üzerine gelince kenar çubuğunu genişlet
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Üzerine gelince ön izlemeyi göster
 sidebar-manage-extensions2 = Tüm uzantıları yönet
 sidebar-customize-extensions-header2 = Uzantılar
 sidebar-customize-firefox-tools-header2 =
