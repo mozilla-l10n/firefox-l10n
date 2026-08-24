@@ -77,6 +77,7 @@ smartbar-placeholder-hint-4 = Пошук у сеціве…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = Пазначыць тэгам картку ці сайт
 smartbar-mentions-list-no-results-label = Нічога не знойдзена
 smartbar-mentions-list-recent-tabs-label = Нядаўнія карткі
 
