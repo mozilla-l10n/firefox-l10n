@@ -626,17 +626,26 @@ find-more-addons-promo-open-amo-button = Uzantıları ve temaları keşfet
 ## Project Nova styles are enabled.
 ## In the message, "tools" refers to Firefox extensions.
 
+find-more-extensions-promo =
+    .heading = Yeni favori uzantınızı keşfedin
+    .message = { -brand-product-name } tarayıcınızı odaklanma, gizlilik, alışveriş araçları ve çeşit çeşit araçlarla özelleştirin.
 find-more-extensions-promo-open-amo-button = Uzantıları keşfet
 
 ## Promo footer shown in the about:addons themes list view when
 ## Project Nova styles are enabled.
 ## "Find more fresh looks" refers to the user looking for more Firefox themes.
 
+find-more-themes-promo =
+    .heading = Yeni temaları keşfedin
+    .message = Tarzınıza uygun { -brand-product-name } stilini seçin.
 find-more-themes-promo-open-amo-button = Temaları keşfet
 
 ## Promo shown in about:addons extensions list view when no extension is yet installed
 ## and Project Nova is enabled.
 
+list-empty-get-extensions-promo =
+    .heading = Uzantılarla tarayıcınızı geliştirin
+    .message = Odaklanmayı, gizliliği ve daha fazlasını geliştirmenize yardımcı olacak önerilerimiz var.
 list-empty-get-extensions-promo-button = İlk uzantınızı bulun
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view

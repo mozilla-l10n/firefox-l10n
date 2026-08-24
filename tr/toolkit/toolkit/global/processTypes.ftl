@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Media Foundation Engine aracı
 process-type-utility-actor-js-oracle = JavaScript Oracle aracı
 process-type-utility-actor-windows-utils = Windows yardımcı uygulamaları aracı
 process-type-utility-actor-windows-file-dialog = Windows dosya iletişim kutusu aracı
+process-type-utility-actor-hw-inference = Donanım hızlandırmalı çıkarım aracı
 
 ##
 ## Other

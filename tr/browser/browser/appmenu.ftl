@@ -301,6 +301,8 @@ appmenu-search-history =
 ## all three call-to-action labels are shared by both panels; the remaining
 ## headings are specific to the panel they appear in.
 
+appmenu-sync-promo-signin =
+    .heading = Verilerinize tüm cihazlarınızdan erişin
 appmenu-sync-promo-signin-cta = Giriş yap
 appmenu-sync-promo-turnonsync =
     .heading = Sekmelerinizi ve geçmişinizi eşitleyin
