@@ -72,6 +72,7 @@ firefoxview-tabpickup-sync-error-header = Eşitlemede sorun yaşıyoruz
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } şu anda eşitleme hizmetine ulaşamıyor. Birkaç dakika sonra yeniden deneyin.
 # “Sync hit a snag” means that the sync process is having a problem and can’t connect.
 firefoxview-tabpickup-sync-error-header-2 = Eşitlemede bir sorun yaşandı
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name } bağlantı kuramadı. Biraz bekleyip yeniden deneyin
 firefoxview-tabpickup-sync-error-primarybutton = Yeniden dene
 firefoxview-tabpickup-sync-disconnected-header = Devam etmek için eşitlemeyi açın
 firefoxview-tabpickup-sync-disconnected-description = Sekmelerinizi almak için { -brand-short-name } tarayıcısında eşitlemeye izin vermeniz gerekir.
