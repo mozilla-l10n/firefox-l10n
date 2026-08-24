@@ -227,6 +227,24 @@ action-log-checked-memories = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱧᱮᱞ ᱦᱩᱭᱩ�
 action-log-searching-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱜ ᱠᱟᱱᱟ
 action-log-searched-settings = ᱥᱮᱸᱫᱽᱨᱟ ᱟᱠᱟᱱ ᱥᱟᱡᱟᱣ ᱠᱚ
 action-log-searching-world-cup-matches = ᱣᱟᱨᱞᱰ ᱠᱟᱯ ᱢᱮᱪ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱟᱱᱟ
+action-log-searched-world-cup-matches = ᱣᱟᱨᱞᱰ ᱠᱟᱯ ᱢᱮᱪ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱠᱟᱱᱟ
+action-log-checking-world-cup-live = ᱞᱟᱭᱤᱵᱽ ᱣᱟᱨᱞᱰ ᱠᱟᱯ ᱢᱮᱪ ᱠᱚ ᱧᱮᱞ ᱮᱫᱟᱹᱧ
+action-log-checked-world-cup-live = ᱞᱟᱭᱤᱵᱽ ᱣᱟᱨᱞᱰ ᱠᱟᱯ ᱢᱮᱪ ᱠᱚ ᱧᱮᱞ ᱠᱮᱫᱟ
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] 1 ᱫᱷᱟᱯ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+        [two] 1 ᱫᱷᱟᱯ ᱠᱤᱱ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+       *[other] 1 ᱫᱷᱟᱯ ᱠᱚ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = ᱱᱚᱣᱟ ᱴᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟ ᱚᱨᱡᱚ ᱞᱟᱫᱮ ᱦᱩᱭ ᱟᱠᱟᱱᱟ ᱾ ᱵᱤᱥᱲᱤ ᱛᱮ ...
 
 ## Citations
 

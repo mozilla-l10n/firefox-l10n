@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = ᱰᱮᱥᱠᱴᱚᱯ ᱠᱷᱚᱱ ᱪᱮᱫ ᱠᱩᱠᱤᱡᱽ ᱟᱨᱵᱟᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱵᱮᱝ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ ᱾ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱢᱮ ᱡᱮᱞᱠᱟ ᱚᱠᱚᱭ ᱦᱚᱸ ᱵᱟᱠᱚ ᱧᱮᱞᱮᱫ ᱢᱮᱭᱟ
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱥᱟᱶ ᱤᱱᱵᱚᱠᱥ ᱥᱯᱟᱢ ᱵᱚᱱᱫᱚ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱢᱮ
+about-private-browsing-relay-promo-title = ᱟᱢ ᱥᱟᱭᱤᱱ ᱟᱯ, ᱠᱤᱨᱤᱧ ᱥᱮ ᱚᱱᱞᱟᱭᱤᱱ ᱥᱮᱭᱟᱨ ᱡᱷᱚᱜ ᱟᱢᱟᱜ ᱥᱟᱹᱨᱤ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱛᱮ ᱩᱠᱩᱭ ᱢᱮ᱾
+about-private-browsing-relay-promo-link-text = ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱠᱚ ᱪᱮᱥᱴᱟᱭ ᱢᱮ
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

@@ -221,6 +221,30 @@ aiwindow-fullpage-more =
     .label = ᱰᱷᱮᱨ
     .title = ᱰᱷᱮᱨ
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = ᱥᱤᱱᱠᱮᱰ ᱰᱟᱴᱟ ᱟᱢᱟᱜ ᱮᱠᱟᱣᱩᱱᱴ ᱨᱮ ᱛᱟᱦᱮᱱᱟ ᱾ ᱡᱷᱤᱡᱽ ᱢᱮ { -smart-window-brand-name(plural-form: "true") } ᱠᱞᱟᱥᱤᱠ ᱣᱤᱱᱰᱚᱣ ᱨᱮ ᱵᱚᱫᱚᱞᱚᱜᱼᱟ ᱾
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = { -smart-window-brand-name } ᱛᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = ᱪᱟᱴᱠᱚ
+    .aria-label = ᱪᱟᱴᱠᱚ
+    .tooltiptext = ᱪᱟᱴᱠᱚ
+smartwindow-footer-history =
+    .label = ᱱᱟᱜᱟᱢ
+    .aria-label = ᱱᱟᱜᱟᱢ
+    .tooltiptext = ᱱᱟᱜᱟᱢ
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = AI ᱵᱷᱩᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ᱾
+
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
 
@@ -293,6 +317,10 @@ smart-window-confirm-close-tabs =
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭᱮᱱᱟ
 smartwindow-close-tab-callout-subtitle = ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱫᱚᱦᱲᱟ ᱡᱷᱤᱡᱽ ᱢᱮ ᱾
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = { -smart-window-brand-name } ᱟᱢᱟᱜ ᱠᱟᱜ ᱢᱮ ?
 
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.
