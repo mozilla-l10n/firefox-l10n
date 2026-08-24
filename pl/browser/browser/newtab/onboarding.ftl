@@ -189,7 +189,7 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Importuj z poprzedniej prz
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Odkrywaj fantastyczny Internet
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
-mr2022-onboarding-welcome-pin-subtitle = Uruchamiaj { -brand-short-name(case: "acc") } gdziekolwiek jesteś jednym kliknięciem. Za każdym razem, gdy to robisz, wybierasz bardziej otwartą i niezależną sieć.
+mr2022-onboarding-welcome-pin-subtitle = Uruchamiaj { -brand-short-name(case: "acc") } jednym kliknięciem, gdziekolwiek jesteś. Za każdym razem, gdy to robisz, wybierasz bardziej otwartą i niezależną sieć.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -209,7 +209,7 @@ mr2022-onboarding-set-default-only-subtitle = Zaczynaj od przeglądarki wspieran
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Dziękujemy za waszą miłość do przeglądarki { -brand-product-name }
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-subtitle = Uruchamiaj zdrowszy Internet gdziekolwiek jesteś jednym kliknięciem. Nasza najnowsza aktualizacja jest wypełniona nowościami, które naszym zdaniem pokochasz.
+mr2022-onboarding-existing-pin-subtitle = Uruchamiaj zdrowszy Internet jednym kliknięciem, gdziekolwiek jesteś. Nasza najnowsza aktualizacja jest wypełniona nowościami, które naszym zdaniem pokochasz.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Korzystaj z przeglądarki broniącej Twojej prywatności, kiedy śmigasz po sieci. Nasza najnowsza aktualizacja jest wypełniona rzeczami, które uwielbiasz.
