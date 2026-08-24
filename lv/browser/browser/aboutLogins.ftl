@@ -132,8 +132,8 @@ login-item-tooltip-message = Pārliecinieties, vai tas precīzi atbilst tās vie
 about-logins-origin-tooltip2 = Ievadiet pilnu adresi un pārliecinieties, vai tā precīzi atbilst vietai, kur ierakstāties.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
-about-logins-edit-password-tooltip = Pārliecinieties, ka parole, kuru saglabājat, ir šai vietnei. Mainot paroli šeit, tā netiek mainīta vietnei { $webTitle }.
-about-logins-add-password-tooltip = Jāpārliecinās, ka saglabā savu pašreizējo šīs vietnes paroli.
+about-logins-edit-password-tooltip = Jāpārliecinās, ka tiek saglabāta šīs vietnes pašreizējā parole. Paroles mainīšana šeit nemaina to { $webTitle }.
+about-logins-add-password-tooltip = Jāpārliecinās, ka tiek saglabāta pašreizējā šīs vietnes parole.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Lietotājvārds
