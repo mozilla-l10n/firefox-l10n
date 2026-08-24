@@ -60,6 +60,9 @@ url-classifier-content-classifier-destination-type = Tipo de destino
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Resultados
 url-classifier-content-classifier-pbm = Navegación privada
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Forzar pedido de terceros al marco superior
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Complemento no recomendado
