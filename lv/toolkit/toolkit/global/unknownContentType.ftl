@@ -33,5 +33,5 @@ unknowncontenttype-save-file =
     .label = Saglabāt datni
     .accesskey = S
 unknowncontenttype-remember-choice =
-    .label = Turpmāk tā rīkoties ar šāda veida datnēm automātiski.
+    .label = Turpmāk ar šāda veida datnēm rīkoties tā automātiski.
     .accesskey = T
