@@ -256,7 +256,7 @@ sidebar-callout-survey-dissatisfied-2 = Insatisfait·e
 sidebar-callout-survey-very-dissatisfied-2 = Très insatisfait·e
 sidebar-callout-survey-dont-use-it = Je ne l’utilise pas
 sidebar-callout-survey-productive-question =
-    Jusqu’à quel point êtes-vous d’accord ou non avec cette affirmation :</br>
+    Jusqu’à quel point êtes-vous d’accord ou non avec cette affirmation :<br/>
     « Le panneau latéral de { -brand-short-name } m’aide à être plus productif·tive » ?
 sidebar-callout-survey-strongly-agree = Tout à fait d’accord
 sidebar-callout-survey-agree = D’accord
