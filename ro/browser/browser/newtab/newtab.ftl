@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Imaginea zilei
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Căutări recente
 home-prefs-mission-message2 =
     .message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun.
 home-prefs-manage-topics-link2 =
@@ -169,6 +172,10 @@ home-prefs-mission-message-learn-more-link-srd = Află cum
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Află mai multe
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Confidențialitate
 
 ## Privacy widget — count readout
 
@@ -414,6 +421,15 @@ newtab-stocks-search-no-results = Niciun rezultat pentru „{ $query }”
 newtab-stocks-search-loading = Se încarcă…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Nu s-a putut căuta acum. Încearcă din nou mai târziu.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Poți adăuga până la { $limit } acțiune. Elimină una pentru a adăuga alta.
+        [few] Poți adăuga până la { $limit } acțiuni. Elimină una pentru a adăuga alta.
+       *[other] Poți adăuga până la { $limit } de acțiuni. Elimină una pentru a adăuga alta.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -464,6 +480,11 @@ newtab-picture-check-back = Revino mâine pentru o imagine nouă
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Imaginea zilei de pe Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Căutări recente
 
 ## Search box component.
 
