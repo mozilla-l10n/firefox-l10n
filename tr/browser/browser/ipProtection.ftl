@@ -84,6 +84,7 @@ ipprotection-location-selection-callout-secondary-button = Kapat
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Yerleşik VPN’i Android’de de kullanın
 ipprotection-android-promo-callout-primary-button = Anladım
 
 ## Panel
