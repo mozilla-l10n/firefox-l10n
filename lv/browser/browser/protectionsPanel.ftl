@@ -21,8 +21,8 @@ protections-popup-footer-protection-label-standard = Standarta
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Vairāk informācijas par uzlaboto aizsardzību pret izsekošanu
-protections-panel-etp-on-header = Uzlabotā aizsardzība pret izsekošanu šai vietnei ir ieslēgta
-protections-panel-etp-off-header = Uzlabotā aizsardzība pret izsekošanu šai vietnei ir izslēgta
+protections-panel-etp-on-header = Uzlabotā pretizsekošanas aizsardzība šajā vietnē ir IESLĒGTA
+protections-panel-etp-off-header = Uzlabotā pretizsekošanas aizsardzība šajā vietnē ir IZSLĒGTA
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Vietne nedarbojas?
 # The heading/title of the sub-panel view
@@ -35,13 +35,13 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Uzlabota aizsardzība pret izsekošanu
-    .description = Ieslēgta šai vietnei
-    .aria-label = Uzlabota aizsardzība pret izsekošanu: ieslēgta vietnei { $host }
+    .label = Uzlabotā pretizsekošanas aizsardzība
+    .aria-label = Uzlabotā pretizsekošānas aizsardzība: ieslēgta { $host }
+    .description = Ieslēgta šajā vietnē
 protections-panel-etp-toggle-off =
-    .label = Uzlabota aizsardzība pret izsekošanu
-    .description = Šai vietnei izslēgta
-    .aria-label = Uzlabota aizsardzība pret izsekošanu: izslēgta vietnei { $host }
+    .label = Uzlabotā pretizsekošanas aizsardzība
+    .aria-label = Uzlabotā pretizsekošanas aizsardzība: izslēgta { $host }
+    .description = Izslēgta šajā vietnē
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.

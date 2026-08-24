@@ -1652,16 +1652,16 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust icon & panel
 
-trustpanel-etp-label-enabled = Uzlabotā aizsardzība pret izsekošanu ir ieslēgta
-trustpanel-etp-label-disabled = Uzlabotā aizsardzība pret izsekošanu ir izslēgta
+trustpanel-etp-label-enabled = Uzlabotā pretizsekošanas aizsardzība ir ieslēgta
+trustpanel-etp-label-disabled = Uzlabotā pretizsekošanas aizsardzība ir izslēgta
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
-    .aria-label = Uzlabotā aizsardzība pret izsekošanu: ieslēgta { $host }
+    .aria-label = Uzlabotā pretizsekošanas aizsardzība: ieslēgta { $host }
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
-    .aria-label = Uzlabotā aizsardzība pret izsekošanu: izslēgta { $host }
+    .aria-label = Uzlabotā pretizsekošanas aizsardzība: izslēgta { $host }
 trustpanel-etp-description-enabled = Ja kaut kas šajā vietnē izskatās salūzis, jāmēģina izslēgt aizsardzību.
 trustpanel-etp-description-disabled = { -brand-product-name } uzskata, ka uzņēmumiem vajadzētu Tevi mazāk izsekot. Mēs aizturam tik daudz izsekotāju, cik vien mēs varam, kad ir ieslēgta aizsardzība.
 trustpanel-connection-label-secure = Savienojums ir drošs
@@ -1690,7 +1690,7 @@ trustpanel-blocker-see-all = Redzēt visu
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
-    .title = Aizsardzība pret izsekošanu { $host }
+    .title = Pretizsekošanas aizsardzība { $host }
 
 ## The urlbar trust icon & panel
 
