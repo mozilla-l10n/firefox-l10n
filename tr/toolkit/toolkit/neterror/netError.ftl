@@ -63,8 +63,13 @@ neterror-search-cta-reload-button =
     .accesskey = T
 # Shown in place of the Search button while the search option is being prepared.
 neterror-search-cta-loading = Yükleniyor
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Çevrimdışı görünüyorsunuz. Bağlandıktan sonra yeniden deneyin.
 # $error (String) - The error code, for example "dnsNotFound".
 neterror-search-cta-error-code = Hata kodu: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Daha fazla bilgi al
 
 ##
 

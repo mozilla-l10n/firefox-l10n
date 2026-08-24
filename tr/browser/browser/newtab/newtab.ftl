@@ -375,6 +375,8 @@ newtab-recent-searches-widget-title = Son aramalar
 # Screen reader label for the widget's icon-only menu button.
 newtab-recent-searches-widget-menu-button =
     .aria-label = Son aramalar seçenekleri
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Daha fazla bilgi al
 
 ## Search box component.
 
@@ -687,6 +689,9 @@ newtab-custom-shortcuts-toggle =
     .description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
 newtab-custom-shortcuts-nova =
     .label = Kısayollar
+newtab-custom-web-notifications-toggle =
+    .label = Web bildirimleri
+    .description = Sitelerden gelen bildirimleri sitelerin kısayollarında göster
 newtab-custom-row-description =
     .description = Satır sayısı
 # Variables
@@ -1652,6 +1657,12 @@ newtab-clock-widget-custom-city-input =
     .label = Şehir adı
     .aria-label = Şehir adı
     .placeholder = Bu saati adlandırın
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .label = Saat dilimi
+    .aria-label = Saat dilimi
+    .placeholder = Şehre, saat dilimine veya UTC farklılığına göre ara
 newtab-clock-widget-custom-zone-results =
     .aria-label = Saat dilimi sonuçları
 # Shown in the time-zone picker when the search matches no time zones.

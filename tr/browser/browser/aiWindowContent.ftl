@@ -160,6 +160,14 @@ smart-window-opened-tabs-summary-single =
         [one] { $count } sekme açıldı.
        *[other] { $count } sekme açıldı.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] “{ $label }” grubu oluşturuldu ve { $count } sekme açıldı.
+       *[other] “{ $label }” grubu oluşturuldu ve { $count } sekme açıldı.
+    }
 smart-window-opened-tabs-row-label = Açılan sekmeler
 # Variables
 #   $title (String) - Title of the tab switched to

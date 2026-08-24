@@ -63,6 +63,8 @@ about-private-browsing-pin-promo-title = Çerezleriniz ve geçmişiniz kaydedilm
 
 ## Strings used in a promotion message for Firefox Relay
 
+about-private-browsing-relay-promo-header = Gelen kutunuzda spam’i e-posta maskeleriyle önleyin
+about-private-browsing-relay-promo-title = Sitelere kaydolurken, alışveriş yaparken veya e-posta adresinizi paylaşırken gerçek e-posta adresinizi gizleyin.
 about-private-browsing-relay-promo-link-text = E-posta maskelerini deneyin
 
 ## Strings used in a promotion message for cookie banner reduction

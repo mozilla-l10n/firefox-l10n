@@ -305,6 +305,9 @@ appmenu-sync-promo-signin-cta = Giriş yap
 appmenu-sync-promo-turnonsync =
     .heading = Sekmelerinizi ve geçmişinizi eşitleyin
 appmenu-sync-promo-turnonsync-cta = Eşitlemeyi başlat
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Mobil sekmelerinize ulaşın
 appmenu-sync-promo-connectdevice-cta = Cihaz bağla
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = Yer imlerinizi yanınızda taşıyın
@@ -397,6 +400,7 @@ appmenuitem-relay-title-signed-in = E-posta maskelerini göster
 appmenuitem-relay-description = Gerçek e-posta adresinizi ve telefon numaranızı maskeleyin
 appmenuitem-services-relay-description = E-posta maskeleri panosunu aç
 appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } ile konumunuzu gizleyin
+appmenuitem-vpn-description5 = Tüm cihazlarınızda ekstra korumaya kavuşun
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name }’i indirin
 appmenuitem-vpn-description3 = Gezintilerinizin izlenmesini zorlaştırın
@@ -442,6 +446,7 @@ fxa-menu-create-profile-learn-more =
 appmenuitem-share-firefox-title2 = { -brand-product-name } tarayıcısını paylaş
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = { -brand-short-name } tarayıcısını paylaş
+appmenuitem-share-firefox-description = Gizliliği ön planda tutan tarayıcıyı arkadaşlarınıza önerin
 appmenu-profiles-2 =
     .label = Profiller
 appmenu-profiles-header = Profiller
