@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = A nap képe
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Legutóbbi keresések
 home-prefs-mission-message2 =
     .message = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Tudja meg hogyan
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = További tudnivalók
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Adatvédelem
 
 ## Privacy widget — count readout
 
@@ -328,6 +335,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Részvények
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Piacok
+    .label = Piacok
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Figyelőlista
+    .label = Figyelőlista
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Keresés név vagy szimbólum szerint
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -341,6 +358,69 @@ newtab-stocks-ticker-status-up = { $name }, { $change } felfelé, { $price }
 newtab-stocks-ticker-status-down = { $name }, { $change } lefelé, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, nincs változás, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = { $name } hozzáadása a figyelőlistához
+    .aria-label = { $name } hozzáadása a figyelőlistához
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = { $name } eltávolítása a figyelőlistáról
+    .aria-label = { $name } eltávolítása a figyelőlistáról
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } rajta van a figyelőlistán
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } hozzáadva a figyelőlistához
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } eltávolítva a figyelőlistáról
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Keresés név vagy szimbólum szerint
+    .placeholder = Keresés név vagy szimbólum szerint
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Találatok
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Vissza
+    .aria-label = Vissza
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Nincs találat a következőre: „{ $query }”
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Betöltés…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Most nem lehetett keresni. Próbálja újra később.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Legfeljebb { $limit } részvényt adhat hozzá. Távolítson el egyet egy másik hozzáadásához.
+       *[other] Legfeljebb { $limit } részvényt adhat hozzá. Távolítson el egyet egy másik hozzáadásához.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -391,6 +471,16 @@ newtab-picture-check-back = Nézzen vissza holnap új képért
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = A nap képe a Wikimedia Commonson
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Legutóbbi keresések
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Legutóbbi keresési lehetőségek
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = További tudnivalók
 
 ## Search box component.
 
@@ -765,6 +855,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Részvények
 newtab-custom-widget-picture-toggle =
     .label = A nap képe
+newtab-custom-widget-recent-searches-toggle =
+    .label = Legutóbbi keresések
 newtab-custom-widget-section-title = Kisalkalmazások
 newtab-custom-widget-section-toggle =
     .label = Kisalkalmazások

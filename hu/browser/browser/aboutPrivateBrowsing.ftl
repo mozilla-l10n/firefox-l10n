@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Nincsenek mentett sütik vagy előzmények, közvetlenül az asztaláról. Böngésszen úgy, mintha senki sem nézné.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Segítsen megakadályozni a kéretlen leveleket az e-mail-maszkokkal
+about-private-browsing-relay-promo-title = Rejtse el a valódi címét egy e-mail-maszkkal, amikor regisztrál, vásárol vagy online tartalmat oszt meg.
+about-private-browsing-relay-promo-link-text = Próbálja ki az e-mail-maszkokat
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

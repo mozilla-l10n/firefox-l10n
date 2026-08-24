@@ -38,6 +38,7 @@ neterror-disable-native-feedback-warning = Folytatás mindig
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
+neterror-search-cta-title = Ez a webhely nem érhető el
 # .tooltiptext doubles as the button's accessible description, so it explains
 # that results open in a new tab.
 neterror-search-cta-search-button =

@@ -1266,6 +1266,18 @@ containers-settings-button2 =
     .title = Beállítások
 containers-remove-button3 =
     .title = Törlés
+containers-sites-card-header =
+    .label = Webhelyfüggő konténerek
+    .description = Válasszon egy konténert a webhelyhez, és a { -brand-short-name } mindig ezt fogja használni a webhely megnyitásakor.
+containers-sites-add-button =
+    .label = Webhely hozzáadása
+    .accesskey = W
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Konténer a következőhöz: { $site }
+containers-site-remove-button =
+    .title = Törlés
 containers-remove-button2 =
     .title = Eltávolítás
 

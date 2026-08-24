@@ -33,5 +33,13 @@ share-panel-send-to-mobile =
     .label = Küldés mobilra
 share-panel-device-subview =
     .title = Összes eszköz
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Másik eszköz csatlakoztatása
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Nem látja az eszközét?
 share-panel-os-share-subview =
     .title = Megosztás…

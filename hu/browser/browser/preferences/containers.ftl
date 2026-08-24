@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Ikon
 containers-color-label2 =
     .label = Szín
+containers-dialog2 =
+    .buttonlabelaccept = Mentés
+    .buttonaccesskeyaccept = M
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,25 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = { $name } konténer beállításai
     .style = min-width: 32em
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Webhely hozzáadása
+containers-site-label =
+    .label = Webhely
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Konténerek
+containers-site-dialog =
+    .buttonlabelaccept = Mentés
+    .buttonaccesskeyaccept = M
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Adjon meg egy érvényes, biztonságos weboldalt
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Ez a webhely már szerepel a listáján
 
 ## Container creation panel, anchored to the URL bar.
 
