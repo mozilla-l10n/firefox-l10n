@@ -61,6 +61,17 @@ smart-window-closed-tabs-row-label = Aizvērtās cilnes
 smart-window-closed-and-restored-label = Aizvērtās un atjaunotās cilnes
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Atvērt
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [zero] Atvērt { $count } ciļņu
+        [one] Atvērt { $count } cilni
+       *[other] Atvērt { $count } cilnes
+    }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Ciļņu kopa
+smart-window-opened-tabs-row-label = Atvērtās cilnes
 
 ## Action log
 
