@@ -39,6 +39,11 @@ neterror-disable-native-feedback-warning = Folytatás mindig
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Ez a webhely nem érhető el
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Nem sikerült kapcsolódni a(z) { $domain } kiszolgálóhoz.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Próbálja ki ezeket a lépéseket:
 # .tooltiptext doubles as the button's accessible description, so it explains
 # that results open in a new tab.
 neterror-search-cta-search-button =
