@@ -87,6 +87,7 @@ captivePortal-title = Pieteikšanās tīklā
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. Šķiet šī adrese nav korekta.
 netInterrupt-title = Savienojums tika pārtraukts
+notCached-title = Ir beidzies dokumenta derīgums
 netOffline-title = Nesaistes režīms
 contentEncodingError-title = Satura kodējuma kļūda
 unsafeContentType-title = Nedrošs faila tips
