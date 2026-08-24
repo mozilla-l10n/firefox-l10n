@@ -44,6 +44,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Sekmeleri burada görmek için 
 firefoxview-syncedtabs-adddevice-primarybutton = Mobil cihazlar için { -brand-product-name }’u deneyin
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Sekmeleriniz telefonunuzda sizi bekliyor.
+firefoxview-syncedtabs-adddevice-description-3 = Mobil cihazınıza { -brand-product-name } tarayıcısını indirip açık sekmelerinizle diğer verilerinizi eşitlemek için QR kodunu okutun. <a data-l10n-name="url">Başka cihazları nasıl bağlayacağınızı</a> öğrenin.
 firefoxview-tabpickup-synctabs-header = Sekme eşitlemeyi açın
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } tarayıcınızın sekmeleri cihazlar arasında paylaşmasına izin verin.
 firefoxview-tabpickup-synctabs-learn-how = Nasıl yapılacağını öğrenin
