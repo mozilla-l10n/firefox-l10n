@@ -41,7 +41,7 @@ certificate-viewer-log-name = Nazwa dziennika
 # Log is a noun meaning a record of events.
 certificate-viewer-logid = Identyfikator dziennika
 certificate-viewer-method = Metoda
-certificate-viewer-modulus = Modulo
+certificate-viewer-modulus = Moduł
 certificate-viewer-name = Nazwa
 certificate-viewer-surname = Nazwisko
 # See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12

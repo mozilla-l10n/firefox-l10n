@@ -485,6 +485,11 @@ newtab-picture-image-alt = Imaginea zilei de pe Wikimedia Commons
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Căutări recente
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Opțiuni căutări recente
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Află mai multe
 
 ## Search box component.
 
@@ -857,6 +862,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Acțiuni
 newtab-custom-widget-picture-toggle =
     .label = Imaginea zilei
+newtab-custom-widget-recent-searches-toggle =
+    .label = Căutări recente
 newtab-custom-widget-section-title = Widgeturi
 newtab-custom-widget-section-toggle =
     .label = Widgeturi
