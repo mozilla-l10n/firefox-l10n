@@ -413,6 +413,14 @@ newtab-stocks-search-no-results = Ingen resultat for «{ $query }»
 newtab-stocks-search-loading = Lastar…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Klarte ikkje å søkje akkurat no. prøv igjen seinare.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Du kan leggje til opptil { $limit } aksje. Fjern éin for å leggje til ein annan.
+       *[other] Du kan leggje til opptil { $limit } aksjar. Fjern éin for å leggje til ein annan.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -468,6 +476,9 @@ newtab-picture-image-alt = Dagens bilde frå Wikimedia Commons
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Nylege søk
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Alternativ for nylege søk
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Les meir
 

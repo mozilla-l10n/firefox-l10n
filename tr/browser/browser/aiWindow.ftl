@@ -114,6 +114,7 @@ aiwindow-firstrun-model-allpurpose-label = Esnek
 aiwindow-firstrun-model-allpurpose-body = Çoğu ihtiyaç için ideal
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = Esnek: { $shortName }
+aiwindow-firstrun-model-flexible-body = Farklı görevlere hazır
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Önerilen
 aiwindow-firstrun-model-personal-label = Kişisel
@@ -144,6 +145,7 @@ aiwindow-input-model-select-settings-link = Model ayarları
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-title = Tercihlerinize göre daha faydalı cevaplar
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } kendini eğitmek amacıyla sohbetlerinizi, gezintilerinizi veya ikisini birden kullanarak anılar oluşturabilir. Anılar zaman içinde size daha faydalı yanıtlar verilmesini sağlar.
 aiwindow-firstrun-memories-conversation-title = Sohbete devam edin
 aiwindow-firstrun-memories-conversation-body = Sohbetlerden öğrenme sayesinde kendinizi baştan açıklamanıza gerek kalmaz.

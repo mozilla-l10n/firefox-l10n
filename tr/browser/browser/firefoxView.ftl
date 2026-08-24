@@ -32,6 +32,8 @@ firefoxview-tabpickup-step-signin-description = Telefondaki sekmelerinizi burada
 firefoxview-tabpickup-step-signin-primarybutton = Devam et
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } tüm cihazlarınızda
 firefoxview-syncedtabs-signin-description-2 = Telefonunuzdaki ve diğer cihazlardaki açık sekmeleri görmek için giriş yapın veya hesap açın. Hesap açarak parolalarınızı, geçmişinizi ve daha fazlasını eşitleyebilirsiniz.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Bilgisayardan telefona anında geçin
 firefoxview-syncedtabs-signin-primarybutton-2 = Giriş yap
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } tarayıcınızı telefonunuz veya tabletinizle eşitleyin
 firefoxview-tabpickup-adddevice-description = Mobil cihazlar için { -brand-product-name }’u indirin ve hesabınıza giriş yapın.
@@ -40,6 +42,8 @@ firefoxview-tabpickup-adddevice-primarybutton = Mobil cihazlar için { -brand-pr
 firefoxview-syncedtabs-adddevice-header-2 = Sekmelerinize her yerden ulaşın
 firefoxview-syncedtabs-adddevice-description-2 = Sekmeleri burada görmek için telefonunuzdan veya başka bir bilgisayarınızdan { -brand-product-name }’a giriş yapın. <a data-l10n-name="url">Cihazlarınızı bağlamayı</a> öğrenin.
 firefoxview-syncedtabs-adddevice-primarybutton = Mobil cihazlar için { -brand-product-name }’u deneyin
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Sekmeleriniz telefonunuzda sizi bekliyor.
 firefoxview-tabpickup-synctabs-header = Sekme eşitlemeyi açın
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } tarayıcınızın sekmeleri cihazlar arasında paylaşmasına izin verin.
 firefoxview-tabpickup-synctabs-learn-how = Nasıl yapılacağını öğrenin
