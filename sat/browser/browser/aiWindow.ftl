@@ -321,6 +321,20 @@ smartwindow-close-tab-callout-subtitle = ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜ�
 ## Smart Window new tab promo
 
 smart-window-default-promo-heading = { -smart-window-brand-name } ᱟᱢᱟᱜ ᱠᱟᱜ ᱢᱮ ?
+smart-window-default-promo-message = { -brand-short-name } ᱫᱚ { -smart-window-brand-name } ᱨᱮ ᱜᱷᱤᱲ ᱜᱮ ᱚᱰᱚᱠᱚᱜᱼᱟ ᱾
+smart-window-default-promo-primary-button = ᱢᱩᱞ ᱞᱮᱠᱷᱟ ᱛᱮ ᱥᱮᱴ ᱢᱮ
+smart-window-default-promo-additional-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = ᱢᱚᱱᱚᱛ ᱦᱟᱹᱴᱤᱧ ᱢᱮ
+aiwindow-feedback-what-worked-well = ᱪᱮᱫ ᱱᱟᱯᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱮᱫᱟᱭ? ᱫᱟᱭᱟ ᱠᱟᱛᱮ, ᱪᱮᱫ ᱯᱚᱨᱥᱚᱱᱟᱞ ᱵᱟᱯᱟᱰᱟᱭ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾
+aiwindow-feedback-choose-any = ᱡᱟᱦᱟᱸ ᱜᱮ ᱞᱟᱹᱜᱩᱜ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+aiwindow-feedback-add-details = ᱟᱢ ᱢᱚᱱᱮ ᱠᱷᱟᱱ ᱵᱤᱵᱨᱚᱬ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾ ᱫᱟᱭᱟ ᱠᱟᱛᱮ, ᱪᱮᱫ ᱯᱚᱨᱥᱚᱱᱟᱞ ᱵᱟᱯᱟᱰᱟᱭ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾
+aiwindow-feedback-disclaimer = ᱡᱚᱢᱟᱣ ᱢᱮ ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱟᱨ ᱱᱚᱣᱟ ᱪᱟᱴ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ { -brand-shorter-name }ᱥᱩᱫᱷᱨᱟᱹᱣ { -smart-window-brand-name } ᱾ ᱟᱢᱟᱜ ᱮᱴᱟᱜ ᱪᱟᱴ ᱠᱚ ᱫᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱛᱟᱦᱮᱱᱟ ᱾ <a data-l10n-name="learn-more">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ</a>
+aiwindow-feedback-submit = ᱡᱚᱢᱟᱭ ᱢᱮ
+aiwindow-feedback-cancel = ᱵᱟᱹᱰᱨᱟᱹ
+aiwindow-feedback-reason-incorrect-or-misleading = ᱵᱷᱩᱞ ᱥᱮ ᱵᱟᱲᱤᱡ ᱪᱷᱚ
 
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.
