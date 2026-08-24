@@ -81,17 +81,28 @@ smartbar-mention-typing-placeholder = Пазначыць тэгам картку
 smartbar-mentions-list-no-results-label = Нічога не знойдзена
 smartbar-mentions-list-recent-tabs-label = Нядаўнія карткі
 
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Дадаць картку ці сайт
+    .tooltiptext = Дадаць картку ці сайт
+
 ## Website Chip
 
+aiwindow-website-chip-placeholder = Пазначыць тэгам картку ці сайт
 aiwindow-website-chip-history-deleted = Гісторыя выдалена
 aiwindow-website-chip-remove-button =
     .aria-label = Выдаліць
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-title = Вітаем у { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Што для вас важна?
 aiwindow-firstrun-model-title-v2 = Выберыце мадэль для пачатку
 aiwindow-firstrun-model-fast-label = Хуткая
+aiwindow-firstrun-model-fast-body = Адказвае хутка
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Хутка: { $shortName }
 
 ## Firstrun set as default onboarding
 
