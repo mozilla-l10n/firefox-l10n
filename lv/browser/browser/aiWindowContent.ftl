@@ -6,11 +6,13 @@
 ## Error messages in the chat content
 
 smartwindow-retry-btn = Mēģināt vēlreiz
+smartwindow-clear-btn = Jauna tērzēšana
 smartwindow-signin-btn = Pieteikties
 
 ## Assistant Message footer
 
 aiwindow-memories-used = Izmantotās atmiņas
+aiwindow-memories-callout-description = Atmiņas palīdzēja personificēt atbildi.
 aiwindow-memories-learn-more = Uzzināt vairāk
 aiwindow-manage-memories =
     .label = Atmiņas iestatījumi
@@ -19,6 +21,9 @@ aiwindow-retry-without-memories =
 aiwindow-retry =
     .aria-label = Mēģināt vēlreiz
     .tooltiptext = Mēģināt vēlreiz
+aiwindow-copy-message =
+    .aria-label = Ievietot ziņojumu starpliktuvē
+    .tooltiptext = Kopēt
 aiwindow-applied-memories-list =
     .aria-label = Atmiņas
 # Variables:
@@ -54,6 +59,8 @@ smart-window-closed-tabs-summary =
     }
 smart-window-closed-tabs-row-label = Aizvērtās cilnes
 smart-window-closed-and-restored-label = Aizvērtās un atjaunotās cilnes
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Atvērt
 
 ## Action log
 
