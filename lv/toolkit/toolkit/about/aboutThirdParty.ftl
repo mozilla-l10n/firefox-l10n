@@ -5,9 +5,9 @@
 third-party-page-title = Trešo pušu moduļu informācija
 third-party-section-title = Trešo pušu moduļu saraksts { -brand-short-name }
 third-party-intro =
-    Šajā lapā ir parādīti trešo pušu moduļi, kas tika injicēti jūsu ierīcē
+    Šajā lapā ir parādīti trešo pušu moduļi, kas tika ievietoti
     { -brand-short-name }. Jebkurš modulis, kuru nav parakstījis Microsoft vai
-    { -vendor-short-name } tiek uzskatīts par trešās puses moduli.
+    { -vendor-short-name }, tiek uzskatīts par trešās puses moduli.
 third-party-message-empty = Trešo pušu moduļi netika atklāti.
 third-party-message-no-duration = Nav ierakstīts
 third-party-detail-version = Datnes versija
