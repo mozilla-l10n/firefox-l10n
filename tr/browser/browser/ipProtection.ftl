@@ -85,6 +85,7 @@ ipprotection-location-selection-callout-secondary-button = Kapat
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-title = Yerleşik VPN’i Android’de de kullanın
+ipprotection-android-promo-callout-description = QR kodunu okutarak Android için { -brand-product-name } uygulamasını indirin, yoldayken daha fazla gizlilik için VPN’i açın. Çok yakında iOS’e de geliyor.
 ipprotection-android-promo-callout-primary-button = Anladım
 
 ## Panel
@@ -262,6 +263,11 @@ ip-protection-exclusions-desc = Bu listedeki siteler hariç tüm web siteleri i�
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Bu ay { $maxUsage } GB kotanızdan { $usageLeft } GB kaldı
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } GB</span> / { $maxUsage } GB kaldı
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -270,6 +276,11 @@ ip-protection-bandwidth-left-gb = { $maxUsage } GB kotanızdan { $usageLeft } GB
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = Bu ay { $maxUsage } GB kotanızdan { $usageLeft } MB kaldı
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } MB</span> / { $maxUsage } GB kaldı
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

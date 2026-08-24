@@ -217,6 +217,7 @@ newtab-privacy-message-info-1 = Siz internette gezinirken { -brand-short-name } 
 newtab-privacy-message-info-1-cta = Korumaları göster
 newtab-privacy-message-info-2 = Takip kodu engelleme, şirketlerin sizi internette takip etmesini engeller.
 newtab-privacy-message-info-2-cta = Korumaları göster
+newtab-privacy-message-info-3 = Birçok sitede takip kodları bulunduğundan, hiç ziyaret etmediğiniz şirketler bile sizi internette izleyebilir.
 newtab-privacy-message-info-3-cta = Korumaları göster
 newtab-privacy-message-info-4-cta = Korumaları göster
 newtab-privacy-message-info-5 = Takip kodları engellendikçe farklı sitelerde sizi takip edebilen şirket sayısı azalır.
