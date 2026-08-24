@@ -234,9 +234,9 @@ action-log-checked-world-cup-live = ᱞᱟᱭᱤᱵᱽ ᱣᱟᱨᱞᱰ ᱠᱟᱯ
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =
     { $count ->
-        [one] 1 ᱫᱷᱟᱯ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
-        [two] 1 ᱫᱷᱟᱯ ᱠᱤᱱ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
-       *[other] 1 ᱫᱷᱟᱯ ᱠᱚ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+        [one] { $count } ᱫᱷᱟᱯ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+        [two] { $count } ᱫᱷᱟᱯ ᱠᱤᱱ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+       *[other] { $count } ᱫᱷᱟᱯ ᱠᱚ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
     }
 
 ## Assistant Loader
