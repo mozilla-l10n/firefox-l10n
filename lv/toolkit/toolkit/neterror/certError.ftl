@@ -15,7 +15,7 @@ cert-error-trust-unknown-issuer = Mājaslapām jāpierāda savu identitāti ar s
 cert-error-trust-cert-invalid = Šis sertifikāts nav uzticams, jo to ir izdevis nederīgs CA sertifikāts.
 cert-error-trust-untrusted-issuer = Šis sertifikāts nav uzticams, jo tā izdevēja sertifikāts nav uzticams.
 cert-error-trust-signature-algorithm-disabled = Sertifikāts nav uzticams, jo ir parakstīts ar algoritmu, kas nav uzskatāms par drošu.
-cert-error-trust-expired-issuer = Šis sertifikāts nav uzticams, jo tā izdevēja sertifikāta derīguma termiņš ir beidzies.
+cert-error-trust-expired-issuer = Šis sertifikāts nav uzticams, jo ir beidzies tā izdevēja sertifikāta derīgums.
 cert-error-trust-self-signed = Šis sertifikāts nav uzticams, jo tas ir pašparakstīts.
 cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte un VeriSign izsniegtie sertifikāti vairs netiek uzskatīti par drošiem, jo šīs sertifikātu iestādes iepriekš nav ievērojušas drošības praksi.
 cert-error-untrusted-default = Sertifikāts nāk no nedroša avota.
@@ -87,7 +87,6 @@ captivePortal-title = Pieteikšanās tīklā
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. Šķiet šī adrese nav korekta.
 netInterrupt-title = Savienojums tika pārtraukts
-notCached-title = Dokumenta derīguma termiņš beidzies
 netOffline-title = Nesaistes režīms
 contentEncodingError-title = Satura kodējuma kļūda
 unsafeContentType-title = Nedrošs faila tips
