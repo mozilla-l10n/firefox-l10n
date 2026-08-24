@@ -33,5 +33,13 @@ share-panel-send-to-mobile =
     .label = Anfon i'r symudol
 share-panel-device-subview =
     .title = Pob Dyfais
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Cysylltu dyfais arall
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Ddim yn gweld eich dyfais?
 share-panel-os-share-subview =
     .title = Rhannu gyda…

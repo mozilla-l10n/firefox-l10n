@@ -620,6 +620,9 @@ mlmodel-addon-detail-model-card-link-label = Hugging Face’te görüntüle
 ## install. In the message, "tools" refers to Firefox extensions and
 ## "styles" refers to Firefox themes.
 
+find-more-addons-promo =
+    .heading = { -brand-product-name } tarayıcısını özelleştirin
+    .message = İhtiyaçlarınıza ve zevkinize uyan araçlar ve stiller ekleyin.
 find-more-addons-promo-open-amo-button = Uzantıları ve temaları keşfet
 
 ## Promo footer shown in the about:addons extensions list view when

@@ -40,6 +40,7 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB (%{ $percent })
+about-networking-ssl-tokens-partition-key = Bölüm anahtarı
 about-networking-ssl-tokens-tokens-column = Jetonlar
 about-networking-ssl-tokens-expires = Bitiş tarihi
 about-networking-ssl-tokens-certificate = Sertifika
@@ -58,6 +59,11 @@ about-networking-ssl-tokens-new =
 about-networking-ssl-tokens-expired =
     .alt = Süresi doldu
     .title = Süresi doldu
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Jetonlar: { $tokenLength } B. Kodlanmış: { $decompressedLength } → { $compressedLength } B.
 about-networking-ssl-tokens-ev-status = EV sertifikası
 about-networking-ssl-tokens-ct-status = Sertifika şeffaflığı durumu
 about-networking-ssl-tokens-overridable-error = Geçersiz kılınabilir hata kategorisi

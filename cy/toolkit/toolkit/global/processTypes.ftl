@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Gwasanaeth Media Foundation Engine
 process-type-utility-actor-js-oracle = Gwasanaeth JavaScript Oracle
 process-type-utility-actor-windows-utils = Gwasanaeth Windows Utils
 process-type-utility-actor-windows-file-dialog = Gwasanaeth Windows File Dialog
+process-type-utility-actor-hw-inference = Rhyngwyneb Caledwedd Gwasanaethau wedi'u Cyflymu
 
 ##
 ## Other

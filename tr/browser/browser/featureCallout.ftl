@@ -139,8 +139,12 @@ taskbar-tabs-value-prop-callout-subtitle = Tek tıklamayla kendi penceresinde ve
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Sohbet sitelerini görev çubuğunuzda tutun
 taskbar-tabs-email-callout-title-v3 = Gelen kutunuzu görev çubuğunuzda tutun
 taskbar-tabs-email-callout-subtitle-v3 = E-posta sitelerini { -brand-short-name } güvencesiyle korunan yalın bir pencerede uygulama gibi açabilirsiniz.
+taskbar-tabs-media-callout-title-v3 = Video sitelerini görev çubuğunuzda tutun
 taskbar-tabs-media-callout-subtitle-v3 = Medya sitelerini { -brand-short-name } güvencesiyle korunan yalın bir pencerede uygulama gibi açabilirsiniz.
 taskbar-tabs-value-prop-callout-title-v3 = En sevdiğiniz siteleri görev çubuğuna sabitleyin
 taskbar-tabs-value-prop-callout-subtitle-v3 = İstediğiniz siteyi { -brand-short-name } güvencesiyle korunan yalın bir pencerede uygulama gibi açabilirsiniz.

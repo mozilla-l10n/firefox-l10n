@@ -158,6 +158,7 @@ about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Windows Utils
 about-processes-utility-actor-windows-file-dialog = Deialog Ffeil Windows
 about-processes-utility-actor-pkcs11-module = Cynorthwyydd Modiwl Diogelwch
+about-processes-utility-actor-hw-inference = Rhyngwyneb Caledwedd wedi'u Cyflymu
 
 ## Displaying CPU (percentage and total)
 ## Variables:

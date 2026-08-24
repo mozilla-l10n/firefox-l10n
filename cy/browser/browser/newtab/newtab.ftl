@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Darlun y dydd
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Chwilio diweddar
 home-prefs-mission-message2 =
     .message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-manage-topics-link2 =
@@ -172,6 +175,10 @@ home-prefs-mission-message-learn-more-link-srd = Dyma sut
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Dysgu rhagor
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Preifatrwydd
 
 ## Privacy widget — count readout
 
@@ -360,6 +367,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Stociau
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Marchnadoedd
+    .label = Marchnadoedd
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Rhestr wylio
+    .label = Rhestr wylio
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Chwilio yn ôl enw neu symbol
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -373,6 +390,73 @@ newtab-stocks-ticker-status-up = { $name }, i fyny { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, i lawr { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, dim newid, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = Ychwanegu { $name } at y rhestr wylio
+    .aria-label = Ychwanegu { $name } at y rhestr wylio
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = Tynnu { $name } o'r rhestr wylio
+    .aria-label = Tynnu { $name } o'r rhestr wylio
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = Mae { $name } yn eich rhestr wylio
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = Wedi ychwanegu { $name } at y rhestr wylio
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Wedi tynnu { $name } o'r rhestr wylio
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Chwilio yn ôl enw neu symbol
+    .placeholder = Chwilio yn ôl enw neu symbol
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Canlyniadau chwilio
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Nôl
+    .aria-label = Nôl
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Dim canlyniadau ar gyfer "{ $query }"
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Wrthi'n llwytho…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Methu chwilio ar hyn o bryd. Ceisiwch eto yn nes ymlaen.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Gallwch ychwanegu hyd at { $limit } stoc. Tynnwch un i ychwanegu un arall.
+        [zero] Gallwch ychwanegu hyd at { $limit } stoc. Tynnwch un i ychwanegu un arall.
+        [two] Gallwch ychwanegu hyd at { $limit } stoc. Tynnwch un i ychwanegu un arall.
+        [few] Gallwch ychwanegu hyd at { $limit } stoc. Tynnwch un i ychwanegu un arall.
+        [many] Gallwch ychwanegu hyd at { $limit } stoc. Tynnwch un i ychwanegu un arall.
+       *[other] Gallwch ychwanegu hyd at { $limit } stoc. Tynnwch un i ychwanegu un arall.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -423,6 +507,16 @@ newtab-picture-check-back = Dewch nôl yfory am lun newydd
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Darlun y dydd Comin Wikimedia
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Chwilio diweddar
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Dewisiadau chwilio diweddar
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Dysgu rhagor
 
 ## Search box component.
 
@@ -806,6 +900,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Stociau
 newtab-custom-widget-picture-toggle =
     .label = Darlun y dydd
+newtab-custom-widget-recent-searches-toggle =
+    .label = Chwilio diweddar
 newtab-custom-widget-section-title = Teclynnau
 newtab-custom-widget-section-toggle =
     .label = Teclynnau

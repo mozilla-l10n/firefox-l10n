@@ -1282,6 +1282,18 @@ containers-settings-button2 =
     .title = Gosodiadau
 containers-remove-button3 =
     .title = Dileu
+containers-sites-card-header =
+    .label = Cynwysyddion gwefan-benodol
+    .description = Dewiswch gynhwysydd ar gyfer gwefan a bydd { -brand-short-name } yn ei ddefnyddio bob tro y bydd y wefan yn agor.
+containers-sites-add-button =
+    .label = Ychwanegu gwefan
+    .accesskey = Y
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Cynhwysydd ar gyfer { $site }
+containers-site-remove-button =
+    .title = Dileu
 containers-remove-button2 =
     .title = Tynnu
 

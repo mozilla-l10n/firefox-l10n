@@ -611,6 +611,7 @@ smartwindow-switcher-callout = İstediğiniz zaman akıllı pencereyle klasik pe
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = { -brand-product-name } Kullanım Koşulları
+smartwindow-existing-user-fx-tou-body = { -smart-window-brand-name }yi kullanmak için lütfen <a data-l10n-name="terms_of_use">Kullanım Koşulları</a>’nı ve güncellenmiş <a data-l10n-name="privacy_notice">Gizlilik Bildirimi</a>’ni kabul edin.
 smartwindow-existing-user-fx-tou-accept = Kabul et
 smartwindow-existing-user-fx-tou-go-back = Geri dön
 

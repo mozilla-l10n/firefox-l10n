@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Dim cwcis na hanes wedi'u cadw, o'ch bwrdd gwaith. Porwch fel petai neb yn gwylio.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Helpwch i atal sbam mewnflwch gyda arallenwau e-bost
+about-private-browsing-relay-promo-title = Cuddiwch eich cyfeiriad go iawn gydag arallenwau e-bost pan fyddwch chi'n cofrestru, yn siopa neu'n ei rannu ar-lein.
+about-private-browsing-relay-promo-link-text = Rhowch gynnig ar arallenwau e-bost
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
