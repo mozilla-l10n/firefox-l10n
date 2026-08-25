@@ -1252,6 +1252,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Select a container for each new tab
     .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Don’t use containers for links opened from external apps
+    .accesskey = D
 containers-new-tab-check2 =
     .label = Select a container for each new tab
     .accesskey = S
@@ -1259,6 +1265,18 @@ containers-new-tab-check2 =
 containers-settings-button2 =
     .title = Settings
 containers-remove-button3 =
+    .title = Delete
+containers-sites-card-header =
+    .label = Site-specific containers
+    .description = Choose a container for a site and { -brand-short-name } will use it every time the site opens.
+containers-sites-add-button =
+    .label = Add website
+    .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Container for { $site }
+containers-site-remove-button =
     .title = Delete
 containers-remove-button2 =
     .title = Remove

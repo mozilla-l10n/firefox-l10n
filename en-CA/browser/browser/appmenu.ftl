@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Sign in to { -brand-product-name }
 appmenuitem-fxa-manage-account = Manage account
 fxa-menu-sync-status-on = Sync is On
 fxa-menu-sync-status-off = Sync is Off
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Sync Your Data
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Your data isn’t syncing
@@ -399,6 +402,9 @@ appmenuitem-relay-title-signed-in = View Email Masks
 appmenuitem-relay-description = Mask your real email and phone
 appmenuitem-services-relay-description = Launch email masks dashboard
 appmenuitem-vpn-title2 = Hide Your Location with { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Get extra protection across devices
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Download { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Make your browsing harder to trace
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Get whole-device protection

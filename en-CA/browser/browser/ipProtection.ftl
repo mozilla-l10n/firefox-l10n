@@ -97,6 +97,8 @@ ipprotection-location-selection-callout-title = New: Switch up your location
 ipprotection-location-selection-callout-description-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }’s built-in VPN</a> lets you choose from several browsing locations, or let us pick the fastest one for you.
 ipprotection-location-selection-callout-primary-button = Try it
 ipprotection-location-selection-callout-secondary-button = Dismiss
+ipprotection-android-promo-callout-title = Take built-in VPN with you on Android
+ipprotection-android-promo-callout-description = Scan the QR code to get { -brand-product-name } for Android and turn on built-in VPN for more privacy on the go. Coming soon to iOS.
 
 ## VPN for Android promo callout
 
