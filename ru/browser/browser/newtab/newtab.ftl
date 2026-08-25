@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Изображение дня
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Последние запросы
 home-prefs-mission-message2 =
     .message = Наши спонсоры поддерживают нашу миссию по созданию лучшего Интернета.
 home-prefs-manage-topics-link2 =
@@ -169,6 +172,10 @@ home-prefs-mission-message-learn-more-link-srd = Узнать как
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Подробнее
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Конфиденциальность
 
 ## Privacy widget — count readout
 
@@ -464,6 +471,16 @@ newtab-picture-check-back = Зайдите завтра за новым изоб
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Изображение дня от Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Последние запросы
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Настройки последних запросов
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Подробнее
 
 ## Search box component.
 
@@ -836,6 +853,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Акции
 newtab-custom-widget-picture-toggle =
     .label = Изображение дня
+newtab-custom-widget-recent-searches-toggle =
+    .label = Последние запросы
 newtab-custom-widget-section-title = Виджеты
 newtab-custom-widget-section-toggle =
     .label = Виджеты
