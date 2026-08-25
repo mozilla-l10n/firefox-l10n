@@ -346,6 +346,12 @@ newtab-stocks-ticker-status-down = { $name }, malsupreniras { $change }, { $pric
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, senŝanĝa, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -395,6 +401,13 @@ newtab-picture-check-back = Kontrolu denove morgaŭ por malkovri novan bildon
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Bildo de la tago de Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -657,6 +670,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Klopodu denove
 newtab-discovery-empty-section-topstories-loading = Ŝargado…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Fuŝ! Ni preskaŭ tute ŝargis tiun ĉi sekcion, sed tamen ne.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Antaŭa
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Venonta
 
 ## Pocket Content Section.
 
