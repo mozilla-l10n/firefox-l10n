@@ -446,6 +446,10 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Tìm hiểu thêm
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -711,6 +715,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Thử lại
 newtab-discovery-empty-section-topstories-loading = Đang tải…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Rất tiếc! Chúng tôi gần như tải phần này, nhưng không hoàn toàn.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Trước
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Tiếp
 
 ## Pocket Content Section.
 
