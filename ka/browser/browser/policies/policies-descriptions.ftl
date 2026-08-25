@@ -10,11 +10,11 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-3rdparty = მიუთითეთ დებულებები, რომ WebExtension-ებს შეეძლოს chrome.storage.managed-ით წვდომა.
+policy-3rdparty = დებულების მითითება, რითაც WebExtension შეძლებს წვდომისთვის გამოიყენოს chrome.storage.managed.
 policy-AIControls = ხელგონის სამართავის გაწყობა.
 policy-AllowedDomainsForApps = განსაზღვრა სამისამართო ჯგუფებისა, რომელთა წვდომასაც დაუშვებს Google Workspace.
-policy-AllowFileSelectionDialogs = ფაილის შერჩევის ფანჯრების ნებართვა.
-policy-AppAutoUpdate = ჩართვა ან გამორთვა, აპლიკაციის თვითგანახლების.
+policy-AllowFileSelectionDialogs = ფაილის ასარჩევი სარკმლების ნებართვა.
+policy-AppAutoUpdate = ჩართოს ან გამოირთოს პროგრამის თვითგანახლება.
 policy-AppUpdatePin = არ განახლდეს { -brand-short-name } მითითებული ვერსიის გარდა.
 policy-AppUpdateURL = პროგრამის გასაახლებელი URL-მისამართის დაყენება.
 policy-Authentication = ჩაშენებული დამოწმების გამართვა ვებსაიტებზე, რომლებზეც მხარდაჭერილია.
