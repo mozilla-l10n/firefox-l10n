@@ -505,6 +505,7 @@ newtab-recent-searches-menu-learn-more = Dalše informacije
 
 newtab-spaces-tab-stories = Stawiznički
 newtab-spaces-tab-widgets = Asistenty
+newtab-spaces-tab-activity = Aktiwita
 
 ## Search box component.
 
@@ -771,6 +772,12 @@ newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy tutón wotrězk
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } z { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Předchadny
