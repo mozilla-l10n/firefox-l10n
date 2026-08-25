@@ -169,6 +169,8 @@ smart-window-opened-tabs-summary-group =
        *[other] Se creó el grupo “{ $label }” y se abrieron { $count } pestañas.
     }
 smart-window-opened-tabs-row-label = Pestañas abiertas
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Pestañas cambiadas
 # Variables
 #   $title (String) - Title of the tab switched to
 smart-window-switched-tab-summary = Se cambió a “{ $title }”.
