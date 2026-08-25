@@ -88,6 +88,7 @@ ipprotection-location-selection-callout-secondary-button = 知道了
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = VPN 装进 Android，隐私随你而行
 ipprotection-android-promo-callout-primary-button = 知道了
 
 ## Panel

@@ -110,6 +110,7 @@ aiwindow-firstrun-model-allpurpose-label = 灵活
 aiwindow-firstrun-model-allpurpose-body = 满足大多数需求
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = 灵活：{ $shortName }
+aiwindow-firstrun-model-flexible-body = 各种任务都能应对
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = 推荐
 aiwindow-firstrun-model-personal-label = 个人化
