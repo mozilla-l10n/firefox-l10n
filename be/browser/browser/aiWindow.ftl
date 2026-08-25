@@ -150,10 +150,20 @@ aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } можа ву
 aiwindow-firstrun-memories-conversation-title = Працягвайце размову
 aiwindow-firstrun-memories-conversation-body = Навучанне з чатаў азначае, што вам прыйдзецца менш паўтарацца.
 aiwindow-firstrun-memories-relevance-title = Больш адпаведных адказаў
+aiwindow-firstrun-memories-relevance-body = Навучанне, атрыманае ў часе аглядання, дае { -smart-window-brand-name } больш поўную карціну.
+aiwindow-firstrun-memories-privacy-title = Створана для прыватнасці
+aiwindow-firstrun-memories-privacy-body = Успаміны захоўваюцца на гэтай прыладзе. Вы можаце выдаліць або адключыць іх у кожны момант.
+aiwindow-firstrun-memories-choose-label = Выберыце, з чаго вучыцца { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-chats = Чаты ў { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Агляданне ў { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Абнаўляйце ў наладах у любы час.
+aiwindow-firstrun-memories-no-create = Зразумела. { -smart-window-brand-name } не будзе ствараць успаміны. Абнавіце налады ў любы час.
 
 ## Firstrun set as default onboarding
 
 aiwindow-firstrun-default-title = Зрабіце { -smart-window-brand-name } сваім выбарам
+aiwindow-firstrun-default-subtitle = Аглядайце, шукайце і задавайце пытанні ў адным месцы. Вы ўсё яшчэ можаце адкрываць прыватныя і класічныя вокны, калі захочаце.
+aiwindow-firstrun-default-checkbox-label = Заўсёды адкрываць { -brand-product-name } у { -smart-window-brand-name }
 
 ## Ask Toolbar Button
 

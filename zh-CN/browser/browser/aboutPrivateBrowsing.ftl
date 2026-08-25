@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } 可提供隐�
 about-private-browsing-focus-promo-cta = 下载 { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }：随手可得的隐私浏览
 about-private-browsing-focus-promo-text = 我们的隐私浏览专用应用，可自动清除您每次上网的历史记录和 Cookie。
-
-##
-
 about-private-browsing-focus-promo-header-b = 手机上亦可私密浏览
 about-private-browsing-focus-promo-text-b = 在 { -focus-brand-name } 上隐私搜索不愿被主浏览器记录的内容。
 about-private-browsing-focus-promo-header-c = 移动端更强大的隐私保护
@@ -60,6 +57,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] 固定到任务栏
     }
 about-private-browsing-pin-promo-title = 不保存任何 Cookie 和历史记录，隐私浏览不留痕迹。
+
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = 使用马甲邮箱，将垃圾邮件拒之门外
+about-private-browsing-relay-promo-link-text = 试用马甲邮箱
 
 ## Strings used in a promotion message for cookie banner reduction
 
