@@ -438,6 +438,8 @@ newtab-recent-searches-menu-learn-more = Eikuaave
 ## split into.
 
 newtab-spaces-tab-stories = Tembiasakue
+newtab-spaces-tab-widgets = Widgets
+newtab-spaces-tab-activity = Tembiapo
 
 ## Search box component.
 
@@ -703,12 +705,24 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Háke! Haimete ñamyanyh
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } { $total } rehegua
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Mboyvegua
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Tenonde
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Ejoko ñembopu ijeheguíva
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Embopu ñembopu ijeheguíva
 
 ## Pocket Content Section.
 
@@ -1621,6 +1635,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = Ore pytyvõ widgets porãverã
+newtab-sports-widget-message-survey-body = Opáma upe Copa del Mundo. Emoherakuã ne remiandu oikova’ekue hesegua.
 newtab-sports-widget-message-survey-widget-title = ¿Mba’éicha oĩ Copa del Mundo widget?
 newtab-sports-widget-message-survey-cta =
     .label = Ejapo encuesta

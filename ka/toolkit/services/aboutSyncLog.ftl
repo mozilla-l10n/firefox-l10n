@@ -72,6 +72,7 @@ about-sync-log-clear-confirm-title = გასუფთავდეს დას
 #   $count (Number) - Number of logs that will be deleted.
 about-sync-log-clear-confirm-message =
     { $count ->
-        [one] შედეგად სამუდამოდ წაიშლება { $count } ხილული აღრიცხვის ფაილი.
-       *[other] შედეგად სამუდამოდ წაიშლება { $count } ხილული აღრიცხვის ფაილი.
+        [one] შედეგად სამუდამოდ წაიშლება ხილული აღრიცხვის { $count } ფაილი.
+       *[other] შედეგად სამუდამოდ წაიშლება ხილული აღრიცხვის { $count } ფაილი.
     }
+about-sync-log-clear-confirm-accept = წაშლა
