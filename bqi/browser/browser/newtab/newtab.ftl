@@ -187,6 +187,9 @@ newtab-privacy-across-sites =
        *[other] من پوی { $count } وبگه
     }
 
+## Privacy widget — empty state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -265,6 +268,9 @@ newtab-stocks-ticker-status-down = { $name }، لم { $change }، { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }، بؽ آلشتکاری { $change }، { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
 ## Stocks widget ticker search
 
 # "Back" is an icon-only button in the search panel header that returns to the
@@ -316,6 +322,10 @@ newtab-picture-show-button =
 newtab-recent-searches-widget-title = پیتینیڌنا دیندایی
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -547,6 +557,9 @@ newtab-section-header-recent-activity = فعالیتا دیندایی
 newtab-section-header-pocket = پؽشنهاڌ وابیڌه و دست { $provider }
 newtab-section-header-stories = داستانا فرگ کردنی
 
+## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
+
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = تموم وابی!
@@ -555,6 +568,15 @@ newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دوو�
 newtab-discovery-empty-section-topstories-loading = هونی بار اونه…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ای بوۊمی! ایما تقریبن ای بشن ن بار ونی کردیم بی، ٱما بس نؽ.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = دیندایی
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = بئڌی
 
 ## Pocket Content Section.
 
@@ -1196,6 +1218,9 @@ newtab-sports-widget-team-name-label-sco =
 
 newtab-sports-widget-message-add-widgets-cta =
     .label = ٱووردن ویجتا
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
