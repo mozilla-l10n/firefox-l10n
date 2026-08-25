@@ -21,3 +21,6 @@ theme-picker-use-linux-theme =
 # color word; translate the sense of "standard."
 theme-picker-default =
     .label = ნაგულისხმევი
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+theme-picker-sun =
+    .label = მზიანი
