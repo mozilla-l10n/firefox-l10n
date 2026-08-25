@@ -168,3 +168,85 @@ aiwindow-close-sidebar =
 aiwindow-history-menu =
     .aria-label = Więcej opcji
     .tooltiptext = Więcej opcji
+aiwindow-history-menu-back =
+    .aria-label = Wstecz
+    .tooltiptext = Wstecz
+aiwindow-history-menu-settings = Ustawienia { -smart-window-brand-name(case: "gen", capitalization: "lower-singular") }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Nowa rozmowa
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Więcej
+    .title = Więcej
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .label = Rozmowy
+    .aria-label = Rozmowy
+    .tooltiptext = Rozmowy
+smartwindow-footer-history =
+    .label = Historia
+    .aria-label = Historia
+    .tooltiptext = Historia
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = Sztuczna inteligencja może popełniać błędy.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Rozmowy
+    .title = Rozmowy
+firefoxview-chats-header = Rozmowy
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Dzisiaj – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Wczoraj – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Count displayed in fxview chat search results
+
+
+# Variables:
+#   $count (Number) - The number of chats matching the search query.
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } rozmowa
+        [few] { $count } rozmowy
+       *[many] { $count } rozmów
+    }
+
+## Natural Language Interactions
+
+smart-window-confirm-close-tab = Zamknij
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Zamknij { $count } kartę
+        [few] Zamknij { $count } karty
+       *[many] Zamknij { $count } kart
+    }
+
+## Smart Window new tab promo
+
+smart-window-default-promo-additional-button = Nie teraz
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Podziel się opinią
+aiwindow-feedback-submit = Wyślij
+aiwindow-feedback-cancel = Anuluj

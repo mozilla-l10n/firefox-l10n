@@ -169,6 +169,8 @@ smart-window-opened-tabs-summary-group =
        *[other] “{ $label }” grubu oluşturuldu ve { $count } sekme açıldı.
     }
 smart-window-opened-tabs-row-label = Açılan sekmeler
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Sekme değiştirildi
 # Variables
 #   $title (String) - Title of the tab switched to
 smart-window-switched-tab-summary = “{ $title }” sekmesine geçildi.
