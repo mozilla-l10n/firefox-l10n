@@ -81,7 +81,7 @@ options-webconsole-split-console-tooltip =
 # The heading
 options-netmonitor-label = Monitor de red
 # The label for the input defining the limit of stored request and response body size
-options-netmonitor-body-limit-label = Tamaño máximo de la solicitud y del cuerpo dela respuesta establecer en 0 para ilimitado):
+options-netmonitor-body-limit-label = Tamaño máximo del cuerpo de la solicitud y de la respuesta (establecer en 0 para ilimitado):
 options-netmonitor-body-limit-tooltip =
     .title = Las solicitudes o cuerpos de respuestas que excedan el tamaño especificado serán truncados cuando se muestren o descarguen en el Monitor de red. Establecer a 0 para no tener limitación.
 # Text shown in the input when there is no limitation (instead of showing "0")
@@ -207,7 +207,7 @@ options-enable-f12-tooltip =
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Habilitar los formateadores personalizados
 options-enable-custom-formatters-tooltip =
-    .title = Habilitar esta opción permitirá a los sitios definir fomateadores personalizados para los objetos DOM
+    .title = Habilitar esta opción permitirá a los sitios definir formateadores personalizados para los objetos DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Habilitar Service Workers sobre HTTP (cuando esté abierta la caja de herramientas)
 options-enable-service-workers-http-tooltip =

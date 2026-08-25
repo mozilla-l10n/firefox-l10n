@@ -222,5 +222,5 @@ tab-context-unload-n-tabs =
     .accesskey = b
 # Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
 tab-context-unload-tabs =
-    .label = Descargar
-    .accesskey = g
+    .label = Liberar
+    .accesskey = L

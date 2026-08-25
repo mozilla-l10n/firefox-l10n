@@ -36,5 +36,5 @@ unknowncontenttype-save-file =
     .label = Guardar archivo
     .accesskey = v
 unknowncontenttype-remember-choice =
-    .label = Hacer ésto automáticamente para estos archivos de ahora en más.
+    .label = Hacer esto automáticamente para estos archivos de ahora en más.
     .accesskey = a

@@ -67,7 +67,7 @@ about-networking-ssl-tokens-compression-details =
 about-networking-ssl-tokens-ev-status = Certificado EV
 about-networking-ssl-tokens-ct-status = Estado de transparencia del certificado
 about-networking-ssl-tokens-overridable-error = Categoría de error ignorable
-about-networking-ssl-tokens-built-in-root = Raíz integrado
+about-networking-ssl-tokens-built-in-root = Raíz integrada
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Cadena de certificados ({ $count })
 # $count (Number) - Number of certs seen during the TLS handshake
@@ -104,7 +104,7 @@ about-networking-dns-https-rr-lookup-table-column = RRs HTTP
 about-networking-rcwn = Estadísticas RCWN
 about-networking-rcwn-status = Estado RCWN
 about-networking-rcwn-cache-won-count = Cuenta de ganancia de caché
-about-networking-rcwn-net-won-count = Cuenta de ganacia en la Red
+about-networking-rcwn-net-won-count = Cuenta de ganancias en la red
 about-networking-total-network-requests = Cantidad de pedidos de red
 about-networking-rcwn-operation = Operación de cache
 about-networking-rcwn-perf-open = Abrir

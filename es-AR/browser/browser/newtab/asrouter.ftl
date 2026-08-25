@@ -163,7 +163,7 @@ spotlight-pin-secondary-button = No ahora
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
-mr2022-background-update-toast-title = Nuevo { -brand-short-name }. Mas privado. Menos rastreadores. Sin compromisos.
+mr2022-background-update-toast-title = Nuevo { -brand-short-name }. Más privado. Menos rastreadores. Sin compromisos.
 mr2022-background-update-toast-text = Pruebe el { -brand-short-name } más nuevo ahora, actualizado con nuestra protección contra rastreo más sólida hasta el momento.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
@@ -190,7 +190,7 @@ firefoxview-cfr-body-v2 = Recupere las pestañas cerradas recientemente y salte 
 firefoxview-spotlight-promo-title = Salude a { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ¿Quiere esa pestaña abierta en su teléfono? Tómela. ¿Necesita ese sitio que acaba de visitar? Volvió con { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Vea como funciona
+firefoxview-spotlight-promo-primarybutton = Vea cómo funciona
 firefoxview-spotlight-promo-secondarybutton = Omitir
 
 ## Colorways expiry reminder CFR
@@ -241,7 +241,7 @@ set-default-pdf-handler-primary = Entendido
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Firme en la línea de puntos — ¡o en cualquier parte!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
-annotations-default-pdf-handler-body = Dibuje, tipee o suba su firma, luego coloquela exactamente donde quiera. Guarde sus firmas favoritas para la próxima vez.
+annotations-default-pdf-handler-body = Dibuje, tipee o suba su firma, luego colóquela exactamente donde quiera. Guarde sus firmas favoritas para la próxima vez.
 annotations-make-default-pdf-handler-title = ¿Hacer que { -brand-short-name } sea el editor de PDF predeterminado?
 annotations-make-default-pdf-handler-subtitle = Tendrá acceso a nuestras herramientas cada vez que abra un PDF.
 annotations-make-default-pdf-primary-cta-label = Hacer predeterminado
@@ -337,7 +337,7 @@ tail-fox-spotlight-secondary-button = Ahora no
 
 ## Welcome Back Spotlight and Import
 
-welcome-back-spotlight-subtitle = Bienvenido de nuevo al único navegador importante respaldado por una organización sin fines de lucro. Tomamos medidas adicionales para proteger tus datos donde quiera que vaya.
+welcome-back-spotlight-subtitle = Bienvenido de nuevo al único navegador importante respaldado por una organización sin fines de lucro. Tomamos medidas adicionales para proteger sus datos donde quiera que vaya.
 welcome-back-embedded-import-title = Importe sus datos y haga que { -brand-short-name } se sienta más suyo
 
 ## Root Certificate Succession Infobar

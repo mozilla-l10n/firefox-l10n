@@ -123,7 +123,7 @@ addon-confirm-install-some-unsigned-message = Advertencia: Este sitio desea inst
 
 addon-install-error-network-failure = El complemento no pudo descargarse por una falla en la conexión.
 addon-install-error-incorrect-hash = El complemento no pudo instalarse porque no coincide con el complemento que esperaba { -brand-short-name }.
-addon-install-error-corrupt-file = El complemento descargdo de este sitio no pudo instalarse porque parece estar corrupto.
+addon-install-error-corrupt-file = El complemento descargado de este sitio no pudo instalarse porque parece estar corrupto.
 addon-install-error-file-access = { $addonName } no pudo instalarse porque { -brand-short-name } no pudo modificar el archivo necesario.
 addon-install-error-not-signed = { -brand-short-name } ha evitado que este sitio instale un complemento no verificado.
 addon-install-error-invalid-domain = El complemento { $addonName } no se puede instalar desde esta ubicación.
