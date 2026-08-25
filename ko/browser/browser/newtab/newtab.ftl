@@ -446,6 +446,10 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = 더 알아보기
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -711,6 +715,15 @@ newtab-discovery-empty-section-topstories-try-again-button = 다시 시도
 newtab-discovery-empty-section-topstories-loading = 로드 중…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = 이런! 이 섹션을 거의 다 로드했지만, 안 된 부분이 있습니다.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = 이전
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = 다음
 
 ## Pocket Content Section.
 
