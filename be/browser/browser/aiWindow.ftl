@@ -100,6 +100,7 @@ aiwindow-firstrun-title = Вітаем у { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Што для вас важна?
 aiwindow-firstrun-model-title-v2 = Выберыце мадэль для пачатку
 aiwindow-firstrun-model-subtitle = Выберыце мадэль для { -smart-window-brand-name }. Пераключайцеся ў любы час.
+aiwindow-firstrun-model-subtitle-v2 = Кожная мадэль зможа дапаможа вам падсумаваць, параўнаць або прааналізаваць вашы карткі. Пераключыцца можна ў кожную хвіліну.
 aiwindow-firstrun-model-fast-label = Хуткая
 aiwindow-firstrun-model-fast-body = Адказвае хутка
 # $shortName (string) - The short name of the model version
@@ -131,6 +132,24 @@ aiwindow-input-model-select-button-label-fast = Хуткая
 aiwindow-input-model-select-button-label-allpurpose = Гнуткая
 aiwindow-input-model-select-button-label-personal = Асабістая
 aiwindow-input-model-select-button-label-custom = Адмысловая
+aiwindow-input-model-select-button-description-custom = Выкарыстоўваць сваю уласную LLM
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Выкарыстоўваць сваю уласную LLM
+aiwindow-input-model-select-default-badge =
+    .label = Прадвызначана
+    .title = Выбраная прадвызначаная мадэль
+aiwindow-input-model-select-settings-link = Налады мадэлі
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Больш карысных адказаў, на вашых умовах
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } можа вучыцца з вашых чатаў, аглядання або абодвух, каб ствараць успаміны. З цягам часу яны робяць адказы больш карыснымі.
+aiwindow-firstrun-memories-conversation-title = Працягвайце размову
+aiwindow-firstrun-memories-conversation-body = Навучанне з чатаў азначае, што вам прыйдзецца менш паўтарацца.
+aiwindow-firstrun-memories-relevance-title = Больш адпаведных адказаў
 
 ## Firstrun set as default onboarding
 
