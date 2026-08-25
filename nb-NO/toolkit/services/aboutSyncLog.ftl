@@ -61,6 +61,9 @@ about-sync-log-empty-filtered = Ingen logger samsvarer med de gjeldende filtrene
 ## Inline viewer
 
 about-sync-log-view-error = Kunne ikke lese denne loggfilen.
+# Opens the raw log file in a new browser tab.
+about-sync-log-open-raw =
+    .label = Åpne råfil
 
 ## Clear logs confirmation
 
