@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Налаштувати
 newtab-customize-panel-label =
     .label = Налаштувати
 newtab-personalize-settings-icon-label =
-    .title = Персоналізувати нову вкладку
     .aria-label = Налаштування
+    .title = Персоналізувати нову вкладку
 newtab-settings-dialog-label =
     .aria-label = Налаштування
 newtab-personalize-icon-label =
-    .title = Персоналізувати нову вкладку
     .aria-label = Персоналізувати нову вкладку
+    .title = Персоналізувати нову вкладку
 newtab-personalize-dialog-label =
     .aria-label = Персоналізувати
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Відхилити
     .aria-label = Відхилити
+    .title = Відхилити
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -74,8 +74,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Пошук
 home-prefs-stories-header2 =
-    .label = Історії
     .description = Добірні матеріали від { -brand-product-name }
+    .label = Історії
 home-prefs-widgets-header =
     .label = Віджети
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -143,8 +143,8 @@ home-prefs-mission-message-learn-more-link-srd = Дізнайтеся як
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Пошук
     .aria-label = Пошук
+    .title = Пошук
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Шукайте за допомогою { $engine } або введіть адресу
@@ -152,17 +152,17 @@ newtab-search-box-handoff-text-no-engine = Введіть запит чи адр
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Шукайте за допомогою { $engine } або введіть адресу
     .placeholder = Шукайте за допомогою { $engine } або введіть адресу
     .title = Шукайте за допомогою { $engine } або введіть адресу
-    .aria-label = Шукайте за допомогою { $engine } або введіть адресу
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Введіть запит чи адресу
     .placeholder = Введіть запит чи адресу
     .title = Введіть запит чи адресу
-    .aria-label = Введіть запит чи адресу
 newtab-search-box-text = Пошук в Інтернеті
 newtab-search-box-input =
-    .placeholder = Пошук в Інтернеті
     .aria-label = Пошук в Інтернеті
+    .placeholder = Пошук в Інтернеті
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -172,8 +172,8 @@ newtab-topsites-edit-topsites-header = Редагувати популярний
 newtab-topsites-edit-shortcut-header = Редагувати ярлик
 newtab-topsites-add-shortcut-label = Додати ярлик
 newtab-topsites-add-shortcut-title =
-    .title = Додати ярлик
     .aria-label = Додати ярлик
+    .title = Додати ярлик
 newtab-topsites-title-label = Заголовок
 newtab-topsites-title-input =
     .placeholder = Введіть назву
@@ -185,9 +185,6 @@ newtab-topsites-image-url-label = URL власного зображення
 newtab-topsites-use-custom-image-link = Використати власне зображення
 newtab-topsites-use-image-link = Використати власне зображення…
 newtab-topsites-image-validation = Не вдалося завантажити зображення. Спробуйте інший URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Очистити текст
 
@@ -221,22 +218,22 @@ topsite-label-pinned =
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Відкрити меню
     .aria-label = Відкрити меню
+    .title = Відкрити меню
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Вилучити
     .aria-label = Вилучити
+    .title = Вилучити
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Відкрити меню
     .aria-label = Відкрити контекстне меню для { $title }
+    .title = Відкрити меню
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Змінити цей сайт
     .aria-label = Змінити цей сайт
+    .title = Змінити цей сайт
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -411,8 +408,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Дякуємо. Ваш відгук допоможе нам покращити вашу стрічку.
 newtab-toast-dismiss-button =
-    .title = Відхилити
     .aria-label = Відхилити
+    .title = Відхилити
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -431,8 +428,8 @@ newtab-custom-shortcuts-title = Ярлики
 newtab-custom-shortcuts-subtitle = Сайти, які ви зберігаєте чи відвідуєте
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Ярлики
     .description = Сайти, які ви зберігаєте чи відвідуєте
+    .label = Ярлики
 newtab-custom-shortcuts-nova =
     .label = Ярлики
 newtab-custom-row-description =
@@ -460,8 +457,8 @@ newtab-custom-pocket-title = Рекомендації від { -pocket-brand-nam
 newtab-custom-pocket-subtitle = Добірні матеріали від { -pocket-brand-name }, що входить до родини { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Рекомендовані матеріали
     .description = Виняткові матеріали, відібрані командою { -brand-product-name }
+    .label = Рекомендовані матеріали
 newtab-recommended-stories-toggle =
     .label = Рекомендовані матеріали
 newtab-custom-stories-personalized-toggle =
@@ -474,8 +471,8 @@ newtab-custom-pocket-show-recent-saves = Показати останні збе�
 newtab-custom-recent-title = Недавня активність
 newtab-custom-recent-subtitle = Добірка недавніх сайтів та вмісту
 newtab-custom-weather-toggle =
-    .label = Погода
     .description = Точний прогноз на сьогодні
+    .label = Погода
 newtab-custom-widget-weather-toggle =
     .label = Погода
 newtab-custom-widget-lists-toggle =
@@ -494,8 +491,8 @@ newtab-widget-manage-widget-button =
     .label = Керувати віджетами
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Закрити
     .aria-label = Закрити меню
+    .title = Закрити
 newtab-custom-close-button = Закрити
 newtab-custom-settings = Керувати іншими налаштуваннями
 
@@ -590,14 +587,11 @@ newtab-wallpaper-feature-highlight-content = Надайте своїй нові�
 newtab-wallpaper-feature-highlight-button = Зрозуміло
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Відхилити
     .aria-label = Закрити спливне вікно
+    .title = Відхилити
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -624,8 +618,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Спонсоровано
 newtab-weather-menu-change-location = Змінити розташування
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Пошук розташування
     .aria-label = Пошук розташування
+    .placeholder = Пошук розташування
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Використовувати поточне розташування
@@ -669,8 +663,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Дивіться прогноз у { $provider }
     .aria-description = { $provider } ∙ Спонсоровано
+    .title = Дивіться прогноз у { $provider }
 
 ## Topic Labels
 
@@ -871,8 +865,8 @@ newtab-widget-lists-menu-copy = Копіювати список до буфер�
 newtab-widget-lists-menu-learn-more = Докладніше
 newtab-widget-lists-button-add-item = Додати запис
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Додати запис
     .aria-label = Додати запис
+    .placeholder = Додати запис
 newtab-widget-lists-input-error = Введіть текст, щоб додати запис
 newtab-widget-lists-input-menu-open-link = Відкрити посилання
 newtab-widget-lists-input-menu-move-up = Посунути вгору
@@ -882,8 +876,8 @@ newtab-widget-lists-input-menu-edit = Редагувати
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Редагувати елемент
 newtab-widget-lists-edit-clear =
-    .title = Скасувати
     .aria-label = Скасувати
+    .title = Скасувати
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Створити новий список
@@ -898,8 +892,8 @@ newtab-widget-lists-name-placeholder-checklist2 =
     .placeholder = Контрольний список
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Новий список
     .aria-label = Редагувати назву списку
+    .placeholder = Новий список
 newtab-widget-section-title = Віджети
 newtab-widget-menu-hide = Приховати віджет
 newtab-widget-menu-change-size = Змінити розмір
@@ -917,17 +911,17 @@ newtab-widget-size-medium = Середній
 newtab-widget-size-large = Великий
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Приховати віджети
     .aria-label = Приховати всі віджети
+    .title = Приховати віджети
 newtab-widget-section-maximize =
-    .title = Розгорнути віджети
     .aria-label = Розгорнути всі віджети до повного розміру
+    .title = Розгорнути віджети
 newtab-widget-section-minimize =
-    .title = Згорнути віджети
     .aria-label = Згорнути всі віджети до компактного розміру
+    .title = Згорнути віджети
 newtab-widget-section-menu-button =
-    .title = Меню віджетів
     .aria-label = Відкрити меню віджетів
+    .title = Меню віджетів
 newtab-widget-add-widgets-button =
     .aria-label = Додати віджет
     .title = Додати віджет
@@ -975,8 +969,8 @@ newtab-promo-card-title = Підтримка { -brand-product-name }
 newtab-promo-card-body = Наші спонсори підтримують нашу місію зі створення кращого інтернету
 newtab-promo-card-cta = Докладніше
 newtab-promo-card-dismiss-button =
-    .title = Відхилити
     .aria-label = Відхилити
+    .title = Відхилити
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -984,8 +978,8 @@ newtab-promo-card-dismiss-button =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Відхилити
     .aria-label = Відхилити
+    .title = Відхилити
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.

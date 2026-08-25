@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } అంతరంగిక విహరణ
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } అంతరంగిక విహరణ
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } అంతరంగిక విహరణ
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — అంతరంగిక విహారణ
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — అంతరంగిక విహారణ
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — అంతరంగిక విహారణ
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,14 +67,14 @@ private-browsing-shortcut-text-2 = { -brand-shortcut-name } అంతరంగ�
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } ఆంతరంగిక విహారణ
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ఆంతరంగిక విహారణ
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } ఆంతరంగిక విహారణ
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } ఆంతరంగిక విహారణ
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } ఆంతరంగిక విహారణ
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } ఆంతరంగిక విహారణ
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ఆంతరంగిక విహారణ
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -99,14 +99,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name }— ఆంతరంగిక విహారణ
-    .data-title-default-with-profile = { $profile-name }—{ -brand-full-name }
-    .data-title-private-with-profile = { $profile-name }—{ -brand-full-name } ఆంతరంగిక విహారణ
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title }— ఆంతరంగిక విహారణ
     .data-content-title-default-with-profile = { $content-title }—{ $profile-name }
+    .data-content-title-private = { $content-title }— ఆంతరంగిక విహారణ
     .data-content-title-private-with-profile = { $content-title }—{ $profile-name }— ఆంతరంగిక విహారణ
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name }—{ -brand-full-name }
+    .data-title-private = { -brand-full-name }— ఆంతరంగిక విహారణ
+    .data-title-private-with-profile = { $profile-name }—{ -brand-full-name } ఆంతరంగిక విహారణ
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -120,9 +120,6 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = అంతరంగిక విహరణ
-
-##
-
 urlbar-identity-button =
     .aria-label = సైటు సమాచారం చూడండి
 
@@ -306,9 +303,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = “{ $engineName }” సెర్చింజనును చేర్చు
     .label = “{ $engineName }”ని చేర్చు
     .tooltiptext = “{ $engineName }” సెర్చింజనును చేర్చు
-    .aria-label = “{ $engineName }” సెర్చింజనును చేర్చు
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -539,28 +536,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = జాలంలో వెతకండి
     .aria-label = { $name }తో జాలంలో వెతకండి
+    .placeholder = జాలంలో వెతకండి
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
     .aria-label = { $name }‌లో వెతకండి
+    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
     .aria-label = ఇష్టాంశాలలో వెతకండి
+    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
     .aria-label = చరిత్రలో వెతకండి
+    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
     .aria-label = ట్యాబులలో వెతకండి
+    .placeholder = వెతుకుడు పదాలను ఇవ్వండి
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -662,10 +659,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = ఈసారి దీనితో వెతుకు:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = వెతుకుడు అమరికలు
-urlbar-searchmode-bookmarks2 = ఇష్టాంశాలు
-urlbar-searchmode-tabs2 = ట్యాబులు
-urlbar-searchmode-history2 = చరిత్ర
-urlbar-searchmode-actions2 = చర్యలు
 urlbar-searchmode-exit-button2 =
     .title = మూసివేయి
 # Shown when adding new search engines from the search mode switcher.
@@ -676,7 +669,6 @@ urlbar-searchmode-popup-add-engine = “{ $engineName }”ని చేర్చ
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = ఈసారి దీనితో వెతుకు:
-urlbar-searchmode-popup-search-settings-panelitem = వెతుకుడు అమరికలు
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -800,9 +792,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = ఇష్టాంశాలు
     .toolbarname = ఇష్టాంశాల పట్టీ
     .accesskey = B
-    .aria-label = ఇష్టాంశాలు
 bookmarks-toolbar-menu =
     .label = ఇష్టాంశాల పట్టీ
 bookmarks-toolbar-placeholder =
@@ -908,9 +900,6 @@ popups-infobar-dont-show-message =
     .accesskey = D
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1047,13 +1036,6 @@ popup-show-popup-menuitem =
     .label = '{ $popupURI }' చూపించు
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
 
 file-picker-crashed-show-in-folder =
     .label = సంచయంలో చూపించు

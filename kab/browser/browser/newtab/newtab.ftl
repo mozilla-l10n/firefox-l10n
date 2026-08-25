@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Sagen
 newtab-customize-panel-label =
     .label = Sagen
 newtab-personalize-settings-icon-label =
-    .title = Sagen iccer amaynut
     .aria-label = Iɣewwaren
+    .title = Sagen iccer amaynut
 newtab-settings-dialog-label =
     .aria-label = Iɣewwaṛen
 newtab-personalize-icon-label =
-    .title = Sagen iccer amaynut
     .aria-label = Sagen iccer amaynut
+    .title = Sagen iccer amaynut
 newtab-personalize-dialog-label =
     .aria-label = Sagen
 newtab-logo-and-wordmark =
@@ -87,8 +87,8 @@ home-prefs-support-firefox-header-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Nadi
     .aria-label = Nadi
+    .title = Nadi
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Nadi s { $engine } neɣ sekcem tansa
@@ -96,17 +96,17 @@ newtab-search-box-handoff-text-no-engine = Nadi neɣ sekcem tansa
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Nadi s { $engine } neɣ sekcem tansa
     .placeholder = Nadi s { $engine } neɣ sekcem tansa
     .title = Nadi s { $engine } neɣ sekcem tansa
-    .aria-label = Nadi s { $engine } neɣ sekcem tansa
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Nadi neɣ sekcem tansa
     .placeholder = Nadi neɣ sekcem tansa
     .title = Nadi neɣ sekcem tansa
-    .aria-label = Nadi neɣ sekcem tansa
 newtab-search-box-text = Nadi di web
 newtab-search-box-input =
-    .placeholder = Nadi di web
     .aria-label = Nadi di web
+    .placeholder = Nadi di web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -116,8 +116,8 @@ newtab-topsites-edit-topsites-header = Ẓreg asmel ifazen
 newtab-topsites-edit-shortcut-header = Ẓreg anegzum
 newtab-topsites-add-shortcut-label = Rnu anegzum
 newtab-topsites-add-shortcut-title =
-    .title = Rnu anegzum
     .aria-label = Rnu anegzum
+    .title = Rnu anegzum
 newtab-topsites-title-label = Azwel
 newtab-topsites-title-input =
     .placeholder = Sekcem azwel
@@ -152,22 +152,22 @@ newtab-topsite-sponsored = S lmendad
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Ldi umuɣ
     .aria-label = Ldi umuɣ
+    .title = Ldi umuɣ
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Kkes
     .aria-label = Kkes
+    .title = Kkes
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Ldi umuɣ
     .aria-label = Ldi umuɣ asatal i { $title }
+    .title = Ldi umuɣ
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Ẓreg asmel-agi
     .aria-label = Ẓreg asmel-agi
+    .title = Ẓreg asmel-agi
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -335,8 +335,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Tanemmirt. Tamawt-ik ad ak-tall ad tesnerniḍ asuddem-ik.
 newtab-toast-dismiss-button =
-    .title = Zgel
     .aria-label = Zgel
+    .title = Zgel
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -354,8 +354,8 @@ newtab-custom-shortcuts-title = Inegzumen
 newtab-custom-shortcuts-subtitle = Ismal i teskelseḍ neɣ wuɣur terziḍ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Inegzumen
     .description = Ismal i teskelseḍ neɣ wuɣur terziḍ
+    .label = Inegzumen
 newtab-custom-shortcuts-nova =
     .label = Inegzumen
 # Variables
@@ -395,8 +395,8 @@ newtab-custom-widget-section-toggle =
 newtab-widget-manage-title = Iwiǧiten
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Mdel
     .aria-label = Mdel umuɣ
+    .title = Mdel
 newtab-custom-close-button = Mdel
 newtab-custom-settings = Sefrek ugar n yiɣewwaṛen
 
@@ -451,11 +451,11 @@ newtab-wallpaper-feature-highlight-header = Ɛreḍ aṛuccu n yini
 newtab-wallpaper-feature-highlight-button = Awi-t
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Zgel
     .aria-label = Mdel asfaylu udhim
+    .title = Zgel
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## New Tab Weather
 
@@ -464,8 +464,8 @@ feature-highlight-wallpaper =
 newtab-weather-sponsored = { $provider } ∙ S lmendad
 newtab-weather-menu-change-location = Ẓreg adig
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Adig n unadi
     .aria-label = Adig n unadi
+    .placeholder = Adig n unadi
 newtab-weather-menu-weather-display = Askan n tegnawt
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -594,8 +594,8 @@ newtab-widget-lists-menu-copy = Nɣel tabdart ɣer tecfawt
 newtab-widget-lists-menu-learn-more = Issin ugar
 newtab-widget-lists-button-add-item = Rnu aferdis
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Rnu aferdis
     .aria-label = Rnu aferdis
+    .placeholder = Rnu aferdis
 newtab-widget-lists-input-menu-open-link = Ldi aseɣwen
 newtab-widget-lists-input-menu-move-up = Ali
 newtab-widget-lists-input-menu-move-down = Ader
@@ -618,8 +618,8 @@ newtab-widget-timer-menu-learn-more = Issin ugar
 newtab-promo-card-title = Allel { -brand-product-name }
 newtab-promo-card-cta = Issin ugar
 newtab-promo-card-dismiss-button =
-    .title = Zgel
     .aria-label = Zgel
+    .title = Zgel
 
 ## Strings for the Clock widget
 

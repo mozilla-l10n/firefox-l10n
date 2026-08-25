@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Personalizar
 newtab-customize-panel-label =
     .label = Personalizar
 newtab-personalize-settings-icon-label =
-    .title = Personalizar a nova pestana
     .aria-label = Configuración
+    .title = Personalizar a nova pestana
 newtab-settings-dialog-label =
     .aria-label = Configuración
 newtab-personalize-icon-label =
-    .title = personalizar lapela nova
     .aria-label = personalizar lapela nova
+    .title = personalizar lapela nova
 newtab-personalize-dialog-label =
     .aria-label = Personalizar
 newtab-logo-and-wordmark =
@@ -88,8 +88,8 @@ home-prefs-mission-message-learn-more-link-srd = Descubre como
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Buscar
     .aria-label = Buscar
+    .title = Buscar
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Buscar con { $engine } ou escribir enderezo
@@ -97,17 +97,17 @@ newtab-search-box-handoff-text-no-engine = Buscar ou introducir enderezo
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Buscar con { $engine } ou introducir enderezo
     .placeholder = Buscar con { $engine } ou introducir enderezo
     .title = Buscar con { $engine } ou introducir enderezo
-    .aria-label = Buscar con { $engine } ou introducir enderezo
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Buscar ou introducir enderezo
     .placeholder = Buscar ou introducir enderezo
     .title = Buscar ou introducir enderezo
-    .aria-label = Buscar ou introducir enderezo
 newtab-search-box-text = Buscar na Rede
 newtab-search-box-input =
-    .placeholder = Buscar na web
     .aria-label = Buscar na web
+    .placeholder = Buscar na web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -117,8 +117,8 @@ newtab-topsites-edit-topsites-header = Editar sitio favorito
 newtab-topsites-edit-shortcut-header = Editar o atallo
 newtab-topsites-add-shortcut-label = Engadir atallo
 newtab-topsites-add-shortcut-title =
-    .title = Engadir atallo
     .aria-label = Engadir atallo
+    .title = Engadir atallo
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Escribir un título
@@ -161,22 +161,22 @@ topsite-label-pinned =
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Abrir menú
     .aria-label = Abrir menú
+    .title = Abrir menú
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Eliminar
     .aria-label = Eliminar
+    .title = Eliminar
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Abrir menú
     .aria-label = Abrir o menú contextual para { $title }
+    .title = Abrir menú
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Editar este sitio
     .aria-label = Editar este sitio
+    .title = Editar este sitio
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -348,8 +348,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Grazas. Os teus comentarios axudaranos a mellorar o teu feed.
 newtab-toast-dismiss-button =
-    .title = Rexeitar
     .aria-label = Rexeitar
+    .title = Rexeitar
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -368,8 +368,8 @@ newtab-custom-shortcuts-title = Atallos
 newtab-custom-shortcuts-subtitle = Sitios gardados ou visitados
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Atallos
     .description = Sitios gardados ou visitados
+    .label = Atallos
 newtab-custom-shortcuts-nova =
     .label = Atallos
 # Variables
@@ -393,8 +393,8 @@ newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contido excepcional patrocinado por { -pocket-brand-name }, parte da familia { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Historias recomendadas
     .description = Contido excepcional seleccionado pola familia de { -brand-product-name }
+    .label = Historias recomendadas
 newtab-recommended-stories-toggle =
     .label = Historias recomendadas
 newtab-custom-stories-personalized-toggle =
@@ -404,8 +404,8 @@ newtab-custom-pocket-show-recent-saves = Mostrar o gardado recentemente
 newtab-custom-recent-title = Actividade recente
 newtab-custom-recent-subtitle = Unha selección de sitios e contido recentes
 newtab-custom-weather-toggle =
-    .label = Tempo
     .description = Predición de hoxe dunha ollada
+    .label = Tempo
 newtab-custom-widget-weather-toggle =
     .label = Tempo
 newtab-custom-widget-lists-toggle =
@@ -507,11 +507,11 @@ newtab-wallpaper-feature-highlight-content = Dálle un aspecto novo á túa nova
 newtab-wallpaper-feature-highlight-button = Entendido
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Rexeitar
     .aria-label = Pechar ventá emerxente
+    .title = Rexeitar
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## Celestial
 
@@ -537,8 +537,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Patrocinado
 newtab-weather-menu-change-location = Cambiar localización
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Busca localización
     .aria-label = Busca localización
+    .placeholder = Busca localización
 newtab-weather-menu-weather-display = Pantalla do tempo
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -559,8 +559,8 @@ newtab-weather-error-not-available = Os datos meteorolóxicos non están dispoñ
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Ver a previsión en { $provider }
     .aria-description = { $provider } ∙ Patrocinado
+    .title = Ver a previsión en { $provider }
 
 ## Topic Labels
 
@@ -705,8 +705,8 @@ newtab-widget-lists-menu-copy = Copiar a lista no portapapeis
 newtab-widget-lists-menu-learn-more = Máis información
 newtab-widget-lists-button-add-item = Engadir un elemento
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Engadir un elemento
     .aria-label = Engadir un elemento
+    .placeholder = Engadir un elemento
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -721,8 +721,8 @@ newtab-promo-card-title = Apoiar a { -brand-product-name }
 newtab-promo-card-body = Os nosos patrocinadores apoian a nosa misión de construír unha web mellor
 newtab-promo-card-cta = Máis información
 newtab-promo-card-dismiss-button =
-    .title = Rexeitar
     .aria-label = Rexeitar
+    .title = Rexeitar
 
 ## Strings for the Clock widget
 

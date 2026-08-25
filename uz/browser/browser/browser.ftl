@@ -10,9 +10,6 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Maxfiy koʻrish
-
-##
-
 urlbar-identity-button =
     .aria-label = Sayt maʼlumotini koʻrish
 
@@ -160,9 +157,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = { $engineName } qidiruv tizimini qoʻshish
     .label = { $engineName } qoʻshish
     .tooltiptext = { $engineName } qidiruv tizimini qoʻshish
-    .aria-label = { $engineName } qidiruv tizimini qoʻshish
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -303,20 +300,20 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Internetdan qidirish
     .aria-label = { $name } bilan qidirish
+    .placeholder = Internetdan qidirish
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Qidiriladigan soʻzni kiriting
     .aria-label = { $name }ni qidirish
+    .placeholder = Qidiriladigan soʻzni kiriting
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Qidiriladigan soʻzni kiriting
     .aria-label = Xalachoʻplarni qidirish
+    .placeholder = Qidiriladigan soʻzni kiriting
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -378,10 +375,6 @@ urlbar-searchmode-history =
     .label = Tarix
 urlbar-searchmode-actions =
     .label = Amallar
-urlbar-searchmode-bookmarks2 = Xatchoʻplar
-urlbar-searchmode-tabs2 = Varaqlar
-urlbar-searchmode-history2 = Tarix
-urlbar-searchmode-actions2 = Amallar
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -467,9 +460,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Xatchoʻplar
     .toolbarname = Xatchoʻplar paneli
     .accesskey = X
-    .aria-label = Xatchoʻplar
 bookmarks-toolbar-menu =
     .label = Xatchoʻplar paneli
 bookmarks-toolbar-placeholder =
@@ -572,9 +565,6 @@ picture-in-picture-hide-toggle =
     .accesskey = H
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

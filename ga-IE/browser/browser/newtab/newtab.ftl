@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Cur in Oiriúint é
 newtab-customize-panel-label =
     .label = Cur in Oiriúint é
 newtab-personalize-settings-icon-label =
-    .title = Cluaisín Nua a chur in Oiriúint
     .aria-label = Socruithe
+    .title = Cluaisín Nua a chur in Oiriúint
 newtab-settings-dialog-label =
     .aria-label = Socruithe
 newtab-personalize-icon-label =
-    .title = Cuir an chluaisín nua in oiriúint duit féin
     .aria-label = Cuir an chluaisín nua in oiriúint duit féin
+    .title = Cuir an chluaisín nua in oiriúint duit féin
 newtab-personalize-dialog-label =
     .aria-label = Cuir in oiriúint duit féin é
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Ruaig
     .aria-label = Ruaig
+    .title = Ruaig
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -151,9 +151,6 @@ newtab-privacy-trackers-blocked-today =
        *[other] $count lorgaire blocáilte inniu
     }
 
-## Privacy widget — empty state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -170,12 +167,6 @@ newtab-privacy-message-info-6-cta = Tuilleadh eolais
 newtab-privacy-message-promo-signin-1-cta = Logáil isteach
 newtab-privacy-message-promo-private-window-1-cta = Oscail fuinneog phríobháideach
 
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
@@ -184,41 +175,21 @@ newtab-stocks-menu-learn-more = Tuilleadh eolais
 # shown in place of the title.
 newtab-stocks-widget-title = Stoic
 
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
-
 ## Strings for the Picture of the Day widget
 
 # Context menu item that restores today’s picture after it has been hidden.
 newtab-picture-menu-show-photo = Taispeáin pictiúr an lae inniu
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Taispeáin pictiúr an lae inniu
     .aria-label = Taispeáin pictiúr an lae inniu
-
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
+    .title = Taispeáin pictiúr an lae inniu
 
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Cuardaigh
     .aria-label = Cuardaigh
+    .title = Cuardaigh
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cuardaigh le { $engine } nó cuir isteach seoladh
@@ -226,17 +197,17 @@ newtab-search-box-handoff-text-no-engine = Cuardaigh nó cuir isteach seoladh
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Cuardaigh le { $engine } nó cuir isteach seoladh
     .placeholder = Cuardaigh le { $engine } nó cuir isteach seoladh
     .title = Cuardaigh le { $engine } nó cuir isteach seoladh
-    .aria-label = Cuardaigh le { $engine } nó cuir isteach seoladh
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Cuardaigh nó cuir isteach seoladh
     .placeholder = Cuardaigh nó cuir isteach seoladh
     .title = Cuardaigh nó cuir isteach seoladh
-    .aria-label = Cuardaigh nó cuir isteach seoladh
 newtab-search-box-text = Cuardaigh an gréasán
 newtab-search-box-input =
-    .placeholder = Cuardaigh an Gréasán
     .aria-label = Cuardaigh an Gréasán
+    .placeholder = Cuardaigh an Gréasán
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -246,8 +217,8 @@ newtab-topsites-edit-topsites-header = Cuir an Barrshuíomh in Eagar
 newtab-topsites-edit-shortcut-header = Cuir an tAicearra in Eagar
 newtab-topsites-add-shortcut-label = Cuir Aicearra leis
 newtab-topsites-add-shortcut-title =
-    .title = Cuir Aicearra leis
     .aria-label = Cuir Aicearra leis
+    .title = Cuir Aicearra leis
 newtab-topsites-title-label = Teideal
 newtab-topsites-title-input =
     .placeholder = Cuir teideal isteach
@@ -256,9 +227,6 @@ newtab-topsites-url-input =
     .placeholder = Clóscríobh nó greamaigh URL
 newtab-topsites-url-validation = URL neamhbhailí
 newtab-topsites-image-validation = Theip ar an íomhá lódáil. Bain triail as URL eile.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Glan an téacs
 
@@ -280,32 +248,26 @@ newtab-confirm-delete-history-p2 = Ní féidir an gníomh seo a chur ar ceal.
 
 newtab-topsite-sponsored = Urraithe
 
-## Label used by screen readers for pinned top sites
-
-
-## Top Sites - Web notifications hover card
-
-
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Oscail roghchlár
     .aria-label = Oscail roghchlár
+    .title = Oscail roghchlár
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Bain
     .aria-label = Bain
+    .title = Bain
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Oscail roghchlár
     .aria-label = Oscail roghchlár comhthéacs i gcomhair { $title }
+    .title = Oscail roghchlár
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Cuir an suíomh seo in eagar
     .aria-label = Cuir an suíomh seo in eagar
+    .title = Cuir an suíomh seo in eagar
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -334,9 +296,6 @@ newtab-menu-section-learn-more = Tuilleadh eolais
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Ná lean an topaic
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -381,18 +340,12 @@ newtab-section-menu-add-search-engine = Cuir Inneall Cuardaigh Leis
 newtab-section-menu-move-up = Bog Suas
 newtab-section-menu-move-down = Bog Síos
 
-## Section aria-labels
-
-
 ## Section Headers.
 
 newtab-section-header-topsites = Barrshuímh
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Molta ag { $provider }
-
-## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -413,23 +366,13 @@ newtab-pocket-cta-button = Faigh { -pocket-brand-name }
 newtab-pocket-save = Sábháil
 newtab-pocket-saved = Sábháilte
 
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-
-## Error Fallback Content.
-## This message and suggested action link are shown in each section of UI that fails to render.
-
-
 ## New Tab Appearance (browser theme picker)
 
 newtab-custom-shortcuts-title = Aicearraí
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Aicearraí
     .description = Suímh a shábháil tú nó a thugann tú cuairt orthu
+    .label = Aicearraí
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -459,12 +402,9 @@ newtab-widget-manage-widget-button =
     .label = Bainistigh giuirléidí
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Dún
     .aria-label = Dún an roghchlár
+    .title = Dún
 newtab-custom-settings = Bainistigh tuilleadh socruithe
-
-## New Tab Appearance (browser theme picker)
-
 
 ## New Tab Wallpapers
 
@@ -480,9 +420,6 @@ newtab-wallpaper-pink = Bándearg
 newtab-wallpaper-light-pink = Bándearg éadrom
 newtab-wallpaper-red = Dearg
 
-## Abstract
-
-
 ## Firefox
 
 # Variables
@@ -491,13 +428,7 @@ newtab-wallpaper-red = Dearg
 newtab-wallpaper-attribution = Grianghraf a ghlac <a data-l10n-name="name-link">{ $author_string }</a> ar an <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Cuir beagán datha leis
 newtab-wallpaper-feature-highlight-button = Tuigim
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
-
-## Celestial
-
 
 ## New Tab Weather
 
@@ -560,18 +491,6 @@ newtab-section-block-cancel-button = Cealaigh
 newtab-section-mangage-topics-title = Topaicí
 newtab-custom-wallpaper-cta = Bain triail as
 
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
 ## Strings for reporting issues with ads and content
 
 newtab-report-ads-reason-not-interested =
@@ -587,16 +506,10 @@ newtab-report-content-outdated =
 newtab-report-content-inappropriate-offensive =
     .label = Míchuí nó déistineach
 
-## Strings for task / to-do list productivity widget
-
-
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-menu-button =
     .aria-label = Roghanna an amadóra
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 newtab-widget-timer-pause-aria =
     .aria-label = Cuir an t-amadóir ar sos
 # Variables:
@@ -676,11 +589,11 @@ newtab-sports-widget-watch =
     .title = Féach air beo
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch-icon =
-    .title = Féach air beo
     .aria-label = Féach air beo
+    .title = Féach air beo
 newtab-sports-widget-watch-dialog-close =
-    .title = Dún
     .aria-label = Dún
+    .title = Dún
 # Tag: user can watch without paying (sign-in may still be required).
 newtab-sports-widget-watch-stream-free = Saor in aisce
 # Tag: user can start watching via a trial; continued access may require payment after it ends.
@@ -697,8 +610,8 @@ newtab-sports-widget-watch-available-region = Ar fáil i do réigiún
 newtab-sports-widget-watch-available-other-regions = Réigiúin eile
 # Button that opens the provider’s stream page in a new tab.
 newtab-sports-widget-watch-play =
-    .title = Oscail an sruth
     .aria-label = Oscail an sruth
+    .title = Oscail an sruth
 newtab-sports-widget-group-stage = Babhta na nGrúpaí
 newtab-sports-widget-group-a = Grúpa A
 newtab-sports-widget-group-b = Grúpa B
@@ -718,8 +631,8 @@ newtab-sports-widget-quarter-finals = Ceathrú ceannais
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = BEO
 newtab-custom-widget-live-refresh =
-    .title = Athnuaigh na scóir
     .aria-label = Athnuaigh na scóir
+    .title = Athnuaigh na scóir
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Na príomhdhátaí
 newtab-sports-widget-upcoming = Ar na bacáin
@@ -761,14 +674,14 @@ newtab-sports-widget-match-penalties = C. éirice
 
 # arrow button that goes to the previous page of live matches.
 newtab-sports-widget-pagination-previous =
-    .title = Roimhe seo
     .aria-label = Roimhe seo
+    .title = Roimhe seo
 # Dot indicator that jumps directly to a given live match.
 # $index (number) - 1-based position of this dot in the list.
 # $total (number) - Total number of live matches.
 newtab-sports-widget-pagination-dot =
-    .title = Cluiche beo { $index } de { $total }
     .aria-label = Cluiche beo { $index } de { $total }
+    .title = Cluiche beo { $index } de { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -852,12 +765,6 @@ newtab-sports-widget-message-survey-widget-title = Céard a cheap tú de ghiuirl
 newtab-sports-widget-message-survey-widget-body = Roinn do thuairimí le cabhrú linn giuirléidí amach anseo a fheabhsú. Ansin, bain triail as an gceann nua i do liosta.
 newtab-sports-widget-message-survey-cta =
     .label = Tóg suirbhé
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
 
 ## Strings for the Clock widget
 

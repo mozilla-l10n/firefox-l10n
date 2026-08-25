@@ -10,8 +10,8 @@
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Ŕmee
     .aria-label = Ŕmee
+    .title = Ŕmee
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 

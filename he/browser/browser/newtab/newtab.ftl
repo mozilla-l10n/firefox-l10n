@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = התאמה אישית
 newtab-customize-panel-label =
     .label = התאמה אישית
 newtab-personalize-settings-icon-label =
-    .title = התאמה אישית של דף הלשונית החדשה
     .aria-label = הגדרות
+    .title = התאמה אישית של דף הלשונית החדשה
 newtab-settings-dialog-label =
     .aria-label = הגדרות
 newtab-personalize-icon-label =
-    .title = התאמה אישית של דף הלשונית החדשה
     .aria-label = התאמה אישית של דף הלשונית החדשה
+    .title = התאמה אישית של דף הלשונית החדשה
 newtab-personalize-dialog-label =
     .aria-label = התאמה אישית
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = סגירה
     .aria-label = סגירה
+    .title = סגירה
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = חיפוש
 home-prefs-stories-header2 =
-    .label = סיפורים
     .description = תוכן יוצא דופן שנבחר בקפידה על־ידי משפחת { -brand-product-name }
+    .label = סיפורים
 home-prefs-widgets-header =
     .label = ווידג’טים
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -323,8 +323,8 @@ newtab-stocks-error-not-available = נתוני מניות אינם זמינים.
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = אפשרויות ווידג’ט מניות
     .aria-label = אפשרויות ווידג’ט מניות
+    .title = אפשרויות ווידג’ט מניות
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = מניות
@@ -359,15 +359,15 @@ newtab-stocks-ticker-status-flat = ‏{ $name }, ללא שינוי, { $change },
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = הוספת { $name } לרשימת המעקב
     .aria-label = הוספת { $name } לרשימת המעקב
+    .title = הוספת { $name } לרשימת המעקב
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = הסרת { $name } מרשימת המעקב
     .aria-label = הסרת { $name } מרשימת המעקב
+    .title = הסרת { $name } מרשימת המעקב
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -396,8 +396,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = חזרה
     .aria-label = חזרה
+    .title = חזרה
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -438,14 +438,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = אפשרויות של התמונה של היום
     .aria-label = אפשרויות של התמונה של היום
+    .title = אפשרויות של התמונה של היום
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = הגדרת התמונה של היום כתמונת הרקע שלך
     .label = הגדרת תמונת רקע
     .title = הגדרת תמונת רקע
-    .aria-label = הגדרת התמונה של היום כתמונת הרקע שלך
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = ניהול תמונת רקע
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -457,8 +457,8 @@ newtab-picture-menu-show-photo = הצגת התמונה של היום
 newtab-picture-menu-learn-more = מידע נוסף
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = הצגת התמונה של היום
     .aria-label = הצגת התמונה של היום
+    .title = הצגת התמונה של היום
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = כדאי לחזור מחר לתמונה חדשה
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -475,16 +475,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = מידע נוסף
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = חיפוש
     .aria-label = חיפוש
+    .title = חיפוש
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ‏ניתן לחפש עם { $engine } או להקליד כתובת
@@ -492,17 +488,17 @@ newtab-search-box-handoff-text-no-engine = חיפוש או הכנסת כתובת
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = ‏ניתן לחפש עם { $engine } או להקליד כתובת
     .placeholder = ‏ניתן לחפש עם { $engine } או להקליד כתובת
     .title = ‏ניתן לחפש עם { $engine } או להקליד כתובת
-    .aria-label = ‏ניתן לחפש עם { $engine } או להקליד כתובת
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = חיפוש או הכנסת כתובת
     .placeholder = חיפוש או הכנסת כתובת
     .title = חיפוש או הכנסת כתובת
-    .aria-label = חיפוש או הכנסת כתובת
 newtab-search-box-text = חיפוש ברשת
 newtab-search-box-input =
-    .placeholder = חיפוש ברשת
     .aria-label = חיפוש ברשת
+    .placeholder = חיפוש ברשת
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -512,8 +508,8 @@ newtab-topsites-edit-topsites-header = עריכת אתר מוביל
 newtab-topsites-edit-shortcut-header = עריכת קיצור דרך
 newtab-topsites-add-shortcut-label = הוספת קיצור דרך
 newtab-topsites-add-shortcut-title =
-    .title = הוספת קיצור דרך
     .aria-label = הוספת קיצור דרך
+    .title = הוספת קיצור דרך
 newtab-shortcuts-pinned-area = אזור מוצמד
 newtab-topsites-title-label = כותרת
 newtab-topsites-title-input =
@@ -526,9 +522,6 @@ newtab-topsites-image-url-label = כתובת תמונה מותאמת אישית
 newtab-topsites-use-custom-image-link = שימוש בתמונה מותאמת אישית
 newtab-topsites-use-image-link = שימוש בתמונה מותאמת אישית…
 newtab-topsites-image-validation = טעינת התמונה נכשלה. נא לנסות כתובת שונה.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = ניקוי טקסט
 
@@ -566,35 +559,35 @@ newtab-topsites-hover-card-header = התרעות מ־{ $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = ממש עכשיו
 newtab-topsites-hover-card-mark-all-read =
-    .title = סימון הכל כנקרא
     .aria-label = סימון הכל כנקרא
+    .title = סימון הכל כנקרא
 newtab-topsites-hover-card-settings =
-    .title = הגדרות התרעה
     .aria-label = הגדרות התרעה
+    .title = הגדרות התרעה
 newtab-topsites-hover-card-dismiss =
-    .title = סגירה
     .aria-label = סגירה
+    .title = סגירה
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = פתיחת תפריט
     .aria-label = פתיחת תפריט
+    .title = פתיחת תפריט
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = הסרה
     .aria-label = הסרה
+    .title = הסרה
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = פתיחת תפריט
     .aria-label = פתיחת תפריט ההקשר עבור { $title }
+    .title = פתיחת תפריט
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = עריכת אתר זה
     .aria-label = עריכת אתר זה
+    .title = עריכת אתר זה
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -773,8 +766,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = תודה. המשוב שלך יעזור לנו לשפר את הפיד שלך.
 newtab-toast-dismiss-button =
-    .title = סגירה
     .aria-label = סגירה
+    .title = סגירה
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -793,13 +786,13 @@ newtab-custom-shortcuts-title = קיצורי דרך
 newtab-custom-shortcuts-subtitle = אתרים ששמרת או ביקרת בהם
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = קיצורי דרך
     .description = אתרים ששמרת או ביקרת בהם
+    .label = קיצורי דרך
 newtab-custom-shortcuts-nova =
     .label = קיצורי דרך
 newtab-custom-web-notifications-toggle =
-    .label = התרעות מהרשת
     .description = הצגת התרעות מהאתרים שלך על קיצורי הדרך שלהם
+    .label = התרעות מהרשת
 newtab-custom-row-description =
     .description = מספר שורות
 # Variables
@@ -823,8 +816,8 @@ newtab-custom-pocket-title = מומלץ על־ידי { -pocket-brand-name }
 newtab-custom-pocket-subtitle = תוכן יוצא דופן שנבחר בקפידה על־ידי { -pocket-brand-name }, חלק ממשפחת { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = סיפורים מומלצים
     .description = תוכן יוצא דופן שנבחר בקפידה על־ידי משפחת { -brand-product-name }
+    .label = סיפורים מומלצים
 newtab-recommended-stories-toggle =
     .label = סיפורים מומלצים
 newtab-custom-stories-personalized-toggle =
@@ -837,8 +830,8 @@ newtab-custom-pocket-show-recent-saves = הצגת שמירות אחרונות
 newtab-custom-recent-title = פעילות אחרונה
 newtab-custom-recent-subtitle = מבחר של אתרים ותכנים אחרונים
 newtab-custom-weather-toggle =
-    .label = מזג אוויר
     .description = התחזית של היום
+    .label = מזג אוויר
 newtab-custom-widget-weather-toggle =
     .label = מזג אוויר
 newtab-custom-widget-lists-toggle =
@@ -865,13 +858,10 @@ newtab-widget-manage-widget-button =
     .label = ניהול ווידג’טים
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = סגירה
     .aria-label = סגירת תפריט
+    .title = סגירה
 newtab-custom-close-button = סגירה
 newtab-custom-settings = ניהול הגדרות נוספות
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = מראה
 # Button that opens the full browser theme selection view.
@@ -984,14 +974,11 @@ newtab-wallpaper-feature-highlight-content = תנו ללשונית החדשה ש
 newtab-wallpaper-feature-highlight-button = הבנתי
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = סגירה
     .aria-label = סגירת ההודעה הקופצת
+    .title = סגירה
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1018,8 +1005,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = ‏{ $provider } ∙ ממומן
 newtab-weather-menu-change-location = שינוי מקום
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = חיפוש מקום
     .aria-label = חיפוש מקום
+    .placeholder = חיפוש מקום
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = שימוש במיקום הנוכחי
@@ -1063,8 +1050,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = הצגת התחזית ב־{ $provider }
     .aria-description = ‏{ $provider } ∙ ממומן
+    .title = הצגת התחזית ב־{ $provider }
 
 ## Topic Labels
 
@@ -1265,8 +1252,8 @@ newtab-widget-lists-menu-copy = העתקת הרשימה ללוח העריכה
 newtab-widget-lists-menu-learn-more = מידע נוסף
 newtab-widget-lists-button-add-item = הוספת פריט
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = הוספת פריט
     .aria-label = הוספת פריט
+    .placeholder = הוספת פריט
 newtab-widget-lists-input-error = נא לכלול טקסט כדי להוסיף פריט.
 newtab-widget-lists-input-menu-open-link = פתיחת קישור
 newtab-widget-lists-input-menu-move-up = להזיז מעלה
@@ -1291,12 +1278,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = רשימת משימות
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = רשימת תיוג
     .aria-label = עריכת שם הרשימה
+    .placeholder = רשימת תיוג
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = רשימה חדשה
     .aria-label = עריכת שם הרשימה
+    .placeholder = רשימה חדשה
 newtab-widget-section-title = ווידג’טים
 newtab-widget-menu-hide = הסתרת הווידג׳ט
 newtab-widget-menu-change-size = שינוי גודל
@@ -1314,17 +1301,17 @@ newtab-widget-size-medium = בינוני
 newtab-widget-size-large = גדול
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = הסתרת ווידג׳טים
     .aria-label = הסתרת כל הווידג׳טים
+    .title = הסתרת ווידג׳טים
 newtab-widget-section-maximize =
-    .title = הרחבת ווידג׳טים
     .aria-label = הרחבת כל הווידג׳טים לגודל מלא
+    .title = הרחבת ווידג׳טים
 newtab-widget-section-minimize =
-    .title = מזעור ווידג׳טים
     .aria-label = צמצום כל הווידג׳טים לגודל קומפקטי
+    .title = מזעור ווידג׳טים
 newtab-widget-section-menu-button =
-    .title = תפריט ווידג’טים
     .aria-label = פתיחת תפריט ווידג’טים
+    .title = תפריט ווידג’טים
 newtab-widget-add-widgets-button =
     .aria-label = הוספת ווידג׳ט
     .title = הוספת ווידג׳ט
@@ -1389,11 +1376,8 @@ newtab-promo-card-title = תמיכה ב־{ -brand-product-name }
 newtab-promo-card-body = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר
 newtab-promo-card-cta = מידע נוסף
 newtab-promo-card-dismiss-button =
-    .title = סגירה
     .aria-label = סגירה
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = סגירה
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1461,8 +1445,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = בחירת תמונת רקע
 newtab-sports-widget-skip = דילוג
 newtab-sports-widget-search-country =
-    .placeholder = חיפוש מדינה
     .aria-label = חיפוש מדינה
+    .placeholder = חיפוש מדינה
 newtab-sports-widget-cancel = ביטול
 newtab-sports-widget-back-button =
     .aria-label = חזרה
@@ -1529,8 +1513,8 @@ newtab-sports-widget-quarter-finals = רבע גמר
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = חי
 newtab-custom-widget-live-refresh =
-    .title = ריענון תוצאות
     .aria-label = ריענון תוצאות
+    .title = ריענון תוצאות
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = תאריכי מפתח
 newtab-sports-widget-upcoming = המשחקים הבאים
@@ -1544,10 +1528,10 @@ newtab-sports-widget-final = גמר
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = מתעכב
 newtab-sports-widget-postponed = נדחה
 newtab-sports-widget-suspended = מושהה
@@ -1685,8 +1669,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = סגירה
     .aria-label = סגירה
+    .title = סגירה
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1711,34 +1695,34 @@ newtab-clock-widget-menu-switch-to-12h = מעבר לתבנית של 12 שעות
 newtab-clock-widget-menu-switch-to-24h = מעבר לתבנית של 24 שעות
 newtab-clock-widget-label-your-clocks = השעונים שלך
 newtab-clock-widget-search-location-input =
+    .aria-label = חיפוש אחר עיר
     .label = מיקום
     .placeholder = חיפוש אחר עיר
-    .aria-label = חיפוש אחר עיר
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = כינוי (אופציונלי)
     .label = כינוי (אופציונלי)
     .placeholder = הוספת כינוי
-    .aria-label = כינוי (אופציונלי)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = הוספת שעון חדש
     .aria-label = הוספת שעון חדש
+    .title = הוספת שעון חדש
 newtab-clock-widget-button-add-clock = הוספה
 newtab-clock-widget-button-cancel = ביטול
 newtab-clock-widget-button-back =
-    .title = חזרה
     .aria-label = חזרה
+    .title = חזרה
 newtab-clock-widget-button-edit-clock =
-    .title = עריכת שעון
     .aria-label = עריכת שעון
+    .title = עריכת שעון
 newtab-clock-widget-button-save = שמירה
 newtab-clock-widget-button-remove-clock =
-    .title = הסרת שעון
     .aria-label = הסרת שעון
+    .title = הסרת שעון
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1766,14 +1750,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = הוספת ״{ $city }״ כשעון מותאם אישית
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = שם העיר
     .aria-label = שם העיר
+    .label = שם העיר
     .placeholder = שם לשעון הזה
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = אזור זמן
     .aria-label = אזור זמן
+    .label = אזור זמן
     .placeholder = חיפוש לפי עיר, אזור זמן או היסט UTC
 newtab-clock-widget-custom-zone-results =
     .aria-label = תוצאות אזור זמן
@@ -1789,8 +1773,8 @@ newtab-clock-widget-search-no-results = אין התאמות
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = פתיחת תפריט עבור השעון
     .aria-label = פתיחת תפריט עבור השעון
+    .title = פתיחת תפריט עבור השעון
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = כינוי: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

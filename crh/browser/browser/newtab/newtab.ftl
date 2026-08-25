@@ -45,8 +45,8 @@ home-prefs-highlights-option-most-recent-download-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Qıdır
     .aria-label = Qıdır
+    .title = Qıdır
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -79,8 +79,8 @@ newtab-confirm-delete-history-p2 = Bu amel keri yapılalmaz.
 
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Bu saytnı tahrir et
     .aria-label = Bu saytnı tahrir et
+    .title = Bu saytnı tahrir et
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 

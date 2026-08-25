@@ -9,8 +9,8 @@ newtab-page-title = Նոր ներդիր
 newtab-settings-button =
     .title = Յարմարեցրէք Ձեր նոր ներդիր էջը
 newtab-personalize-icon-label =
-    .title = Անհատականացնել նոր ներդիրը
     .aria-label = Անհատականացնել նոր ներդիրը
+    .title = Անհատականացնել նոր ներդիրը
 newtab-personalize-dialog-label =
     .aria-label = Անհատականացնել
 
@@ -60,8 +60,8 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Որոնում
     .aria-label = Որոնում
+    .title = Որոնում
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Որոնել { $engine }-ով կամ մուտքագրել հասցէն
@@ -69,21 +69,21 @@ newtab-search-box-handoff-text-no-engine = Որոնել կամ մուտքագր�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Որոնել { $engine }֊ով  կամ մուտքագրել հասցէն
     .placeholder =
         Որոնել { $engine }֊ով կամ մուտքագրել հասցէն
         որոնում 
         որոնում 
         Որոնել { $engine } կամ մուտքագրել հասցէն
     .title = Որոնել { $engine }֊ով կամ մուտքագրել հասցէն
-    .aria-label = Որոնել { $engine }֊ով  կամ մուտքագրել հասցէն
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Որոնել կամ մուտքագրել հասցէն
     .placeholder = Որոնել կամ մուտքագրել հասցէն
     .title = Որոնել կամ մուտքագրել հասցէն
-    .aria-label = Որոնել կամ մուտքագրել հասցէն
 newtab-search-box-text = Որոնել համացանցում
 newtab-search-box-input =
-    .placeholder = Որոնել առցանց
     .aria-label = Որոնել առցանց
+    .placeholder = Որոնել առցանց
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -125,22 +125,22 @@ newtab-topsite-sponsored = Հովանաւորուում է
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Բացել ցանկը
     .aria-label = Բացել ցանկը
+    .title = Բացել ցանկը
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Հեռացնել
     .aria-label = Հեռացնել
+    .title = Հեռացնել
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Բացել ցանկը
     .aria-label = Բացել համատեքստի ցանկը { $title }-ի համար
+    .title = Բացել ցանկը
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Խմբագրել այս կայքը
     .aria-label = Խմբագրել այս կայքը
+    .title = Խմբագրել այս կայքը
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -282,8 +282,8 @@ newtab-custom-shortcuts-title = Դիւրանցումներ
 newtab-custom-shortcuts-subtitle = Կայքեր, որոնք Դուք պահում էք կամ այցելում
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Դիւրանցումներ
     .description = Կայքեր, որոնք Դուք պահում էք կամ այցելում
+    .label = Դիւրանցումներ
 newtab-custom-shortcuts-nova =
     .label = Դիւրանցումներ
 # Variables

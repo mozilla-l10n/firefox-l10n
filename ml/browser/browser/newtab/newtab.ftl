@@ -13,13 +13,13 @@ newtab-customize-panel-icon-button-label = ഇച്ഛാനുസൃതമാ�
 newtab-customize-panel-label =
     .label = ഇച്ഛാനുസൃതമാക്കുക
 newtab-personalize-settings-icon-label =
-    .title = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
     .aria-label = ക്രമീകരണങ്ങൾ
+    .title = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
 newtab-settings-dialog-label =
     .aria-label = ക്രമീകരണങ്ങള്‍
 newtab-personalize-icon-label =
-    .title = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
     .aria-label = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
+    .title = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
 newtab-personalize-dialog-label =
     .aria-label = വ്യക്തിപരമാക്കുക
 newtab-logo-and-wordmark =
@@ -103,8 +103,8 @@ home-prefs-weather-header-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = തിരയുക
     .aria-label = തിരയുക
+    .title = തിരയുക
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
@@ -112,17 +112,17 @@ newtab-search-box-handoff-text-no-engine = വിലാസം തിരയുക
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = { $engine } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
     .placeholder = { $engine } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
     .title = { $engine } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
-    .aria-label = { $engine } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = വിലാസം തിരയുക അല്ലെങ്കില്‍ നല്‍കുക
     .placeholder = വിലാസം തിരയുക അല്ലെങ്കില്‍ നല്‍കുക
     .title = വിലാസം തിരയുക അല്ലെങ്കില്‍ നല്‍കുക
-    .aria-label = വിലാസം തിരയുക അല്ലെങ്കില്‍ നല്‍കുക
 newtab-search-box-text = ആഗോളാന്തരവലയിൽ തിരയുക
 newtab-search-box-input =
-    .placeholder = ആഗോളാന്തരവലയിൽ തിരയുക
     .aria-label = ആഗോളാന്തരവലയിൽ തിരയുക
+    .placeholder = ആഗോളാന്തരവലയിൽ തിരയുക
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -132,8 +132,8 @@ newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് പ
 newtab-topsites-edit-shortcut-header = കുറുക്കുവഴി തിരുത്തുക
 newtab-topsites-add-shortcut-label = കുറുക്കുവഴി ചേർക്കുക
 newtab-topsites-add-shortcut-title =
-    .title = കുറുക്കുവഴി ചേർക്കുക
     .aria-label = കുറുക്കുവഴി ചേർക്കുക
+    .title = കുറുക്കുവഴി ചേർക്കുക
 newtab-topsites-title-label = തലക്കെട്ട്
 newtab-topsites-title-input =
     .placeholder = തലക്കെട്ട് നൽകൂ
@@ -168,22 +168,22 @@ newtab-topsite-sponsored = പണം കൊണ്ടു് പ്രചരിപ
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = കുറിപ്പടിക്കട്ട തുറക്കുക
     .aria-label = കുറിപ്പടിക്കട്ട തുറക്കുക
+    .title = കുറിപ്പടിക്കട്ട തുറക്കുക
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = മാറ്റുക
     .aria-label = മാറ്റുക
+    .title = മാറ്റുക
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = കുറിപ്പടികട്ട തുറക്കുക
     .aria-label = { $title }-നു് കുറിപ്പടികട്ട തുറക്കുക
+    .title = കുറിപ്പടികട്ട തുറക്കുക
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = ഈ സൈറ്റ് തിരുത്തുക
     .aria-label = ഈ സൈറ്റ് തിരുത്തുക
+    .title = ഈ സൈറ്റ് തിരുത്തുക
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -343,8 +343,8 @@ newtab-pocket-thumbs-up-tooltip =
 newtab-pocket-thumbs-down-tooltip =
     .title = എനിക്കു് വേണ്ടിയല്ല ഇതു്
 newtab-toast-dismiss-button =
-    .title = കളയുക
     .aria-label = കളയുക
+    .title = കളയുക
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -362,8 +362,8 @@ newtab-custom-shortcuts-title = കുറുക്കുവഴികൾ
 newtab-custom-shortcuts-subtitle = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = കുറുക്കുവഴികൾ
     .description = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
+    .label = കുറുക്കുവഴികൾ
 newtab-custom-shortcuts-nova =
     .label = കുറുക്കുവഴികൾ
 # Variables
@@ -387,14 +387,14 @@ newtab-custom-pocket-title = { -pocket-brand-name } ശുപാൎശ ചെയ
 newtab-custom-pocket-show-recent-saves = അടുത്തിടെ കരുതിവയ്ക്കലുകൾ കാണിക്കുക
 newtab-custom-recent-title = ഒടുവിലുള്ള പ്രവർത്തനം
 newtab-custom-weather-toggle =
-    .label = കാലാവസ്ഥ
     .description = ഒരു നോട്ടത്തിൽ ഇന്നത്തെ കാലാവസ്ഥ
+    .label = കാലാവസ്ഥ
 newtab-custom-widget-weather-toggle =
     .label = കാലാവസ്ഥ
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = അടയ്ക്കുക
     .aria-label = കുറിപ്പടി അടയ്ക്കുക
+    .title = അടയ്ക്കുക
 newtab-custom-close-button = അടയ്ക്കുക
 
 ## New Tab Wallpapers
@@ -450,11 +450,11 @@ newtab-wallpaper-feature-highlight-header = നിറത്തിന്റെ �
 newtab-wallpaper-feature-highlight-button = മനസ്സിലായി
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = കളയുക
     .aria-label = പൊന്തുവരൽ അടയ്ക്കുക
+    .title = കളയുക
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## New Tab Weather
 
@@ -463,8 +463,8 @@ feature-highlight-wallpaper =
 newtab-weather-sponsored = { $provider } ∙ പണമടച്ചുപ്രചരിപ്പിച്ചതു്
 newtab-weather-menu-change-location = സ്ഥാനം മാറ്റുക
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = സ്ഥാനം തപ്പുക
     .aria-label = സ്ഥാനം തപ്പുക
+    .placeholder = സ്ഥാനം തപ്പുക
 newtab-weather-menu-weather-display = കാലാവസ്ഥ പ്രദർശകം
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -587,8 +587,8 @@ newtab-widget-task-list-menu-copy = പകൎത്തുക
 newtab-widget-lists-menu-learn-more = കൂടുതല്‍ അറിയുക
 newtab-widget-lists-button-add-item = ഇനം ചേർക്കുക
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = ഇനം ചേർക്കുക
     .aria-label = ഇനം ചേർക്കുക
+    .placeholder = ഇനം ചേർക്കുക
 newtab-widget-lists-input-menu-open-link = കണ്ണി തുറക്കുക
 newtab-widget-lists-input-menu-move-up = മുകളിലേക്കു് നീക്കു്
 newtab-widget-lists-input-menu-move-down = താഴോട്ടു നീക്കു്

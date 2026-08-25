@@ -9,8 +9,8 @@ newtab-page-title = Yangi varaq
 newtab-settings-button =
     .title = Yangi varaq sahifasini sozlash
 newtab-personalize-icon-label =
-    .title = Yangi varaqni moslashtirish
     .aria-label = Yangi varaqni moslashtirish
+    .title = Yangi varaqni moslashtirish
 newtab-personalize-dialog-label =
     .aria-label = Moslashtirish
 
@@ -50,8 +50,8 @@ home-prefs-highlights-option-most-recent-download-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Qidiruv
     .aria-label = Qidiruv
+    .title = Qidiruv
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } orqali qidiring yoki manzilni kiriting
@@ -59,17 +59,17 @@ newtab-search-box-handoff-text-no-engine = Izlang yoki manzilni kiriting
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = { $engine } orqali qidiring yoki manzilni kiriting
     .placeholder = { $engine } orqali qidiring yoki manzilni kiriting
     .title = { $engine } orqali qidiring yoki manzilni kiriting
-    .aria-label = { $engine } orqali qidiring yoki manzilni kiriting
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Qidiring yoki manzilni kiriting
     .placeholder = Qidiring yoki manzilni kiriting
     .title = Qidiring yoki manzilni kiriting
-    .aria-label = Qidiring yoki manzilni kiriting
 newtab-search-box-text = Internetdan qidirish
 newtab-search-box-input =
-    .placeholder = Internetdan qidirish
     .aria-label = Internetdan izlash
+    .placeholder = Internetdan qidirish
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -111,22 +111,22 @@ newtab-topsite-sponsored = Homiylik qilgan
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Menyuni ochish
     .aria-label = Menyuni ochish
+    .title = Menyuni ochish
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Olib tashlash
     .aria-label = Olib tashlash
+    .title = Olib tashlash
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Menyuni ochish
     .aria-label = { $title } uchun matn menyusini ochish
+    .title = Menyuni ochish
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Bu saytni tahrirlash
     .aria-label = Bu saytni tahrirlash
+    .title = Bu saytni tahrirlash
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 

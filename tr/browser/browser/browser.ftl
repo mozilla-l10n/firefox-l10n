@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Gizli Gezinti
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Gizli Gezinti
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Gizli Gezinti
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Gizli Gezinti
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Gizli Gezinti
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Gizli Gezinti
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = Hızlı ve gizli web gezintisi
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Gizli Gezinti
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Gizli Gezinti
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Gizli Gezinti
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Gizli Gezinti
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Gizli Gezinti
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } Gizli Gezinti
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Gizli Gezinti
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Gizli Gezinti
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Gizli Gezinti
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Gizli Gezinti
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — Gizli Gezinti
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Gizli Gezinti
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Gizli Gezinti
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Gizli Gezinti
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -138,9 +138,6 @@ urlbar-identity-button2 =
             [one] Site bilgilerini göster ({ $count } takip kodu engellendi)
            *[other] Site bilgilerini göster ({ $count } takip kodu engellendi)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Site bilgilerini göster
 
@@ -337,8 +334,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Bu sayfayı yer imlerine ekle ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = Ayrık görünüm
     .aria-label = Ayrık görünüm
+    .tooltiptext = Ayrık görünüm
 
 ## Searchbar context menu
 
@@ -391,9 +388,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = “{ $engineName }” arama motorunu ekle
     .label = “{ $engineName }” arama motorunu ekle
     .tooltiptext = “{ $engineName }” arama motorunu ekle
-    .aria-label = “{ $engineName }” arama motorunu ekle
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -745,32 +742,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Web’de ara
     .aria-label = { $name } ile ara
+    .placeholder = Web’de ara
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Aranacak terimleri yazın
     .aria-label = { $name } ile ara
+    .placeholder = Aranacak terimleri yazın
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Aranacak terimleri yazın
     .aria-label = Yer imlerinde ara
+    .placeholder = Aranacak terimleri yazın
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Aranacak terimleri yazın
     .aria-label = Geçmişte ara
+    .placeholder = Aranacak terimleri yazın
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Aranacak terimleri yazın
     .aria-label = Sekmelerde ara
+    .placeholder = Aranacak terimleri yazın
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Aranacak terimleri yazın
     .aria-label = Eylemlerde ara
+    .placeholder = Aranacak terimleri yazın
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -873,7 +870,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -922,11 +919,6 @@ urlbar-result-weather-title-city-only = { $city } şu anda <strong>{ $temperatur
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorlu
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Sor
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1146,10 +1138,6 @@ urlbar-searchmode-history3 = Geçmiş
     .accesskey = G
 urlbar-searchmode-actions3 = Eylemler
     .accesskey = E
-urlbar-searchmode-bookmarks2 = Yer imleri
-urlbar-searchmode-tabs2 = Sekmeler
-urlbar-searchmode-history2 = Geçmiş
-urlbar-searchmode-actions2 = Eylemler
 urlbar-searchmode-exit-button2 =
     .title = Kapat
 urlbar-searchmode-default2 =
@@ -1169,8 +1157,6 @@ urlbar-searchmode-popup-search-settings = Arama ayarları
     .accesskey = A
 urlbar-searchmode-popup-settings = Ayarlar
     .accesskey = A
-urlbar-searchmode-popup-search-settings-panelitem = Arama ayarları
-urlbar-searchmode-popup-settings-panelitem = Ayarlar
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1343,9 +1329,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Yer imleri
     .toolbarname = Yer imleri araç çubuğu
     .accesskey = Y
-    .aria-label = Yer imleri
 bookmarks-toolbar-menu =
     .label = Yer imleri araç çubuğu
 bookmarks-toolbar-placeholder =
@@ -1522,9 +1508,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = ö
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1757,13 +1740,6 @@ file-picker-crashed-open = Windows dosya iletişim kutusu çöktü. Hiçbir dosy
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows dosya iletişim kutusu çöktü. Dosya { $path } konumuna kaydedilecek.
 file-picker-crashed-save-nowhere = Windows dosya iletişim kutusu çöktü. Varsayılan klasör bulunamadı. Dosya kaydedilmeyecektir.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Klasörde göster
     .accessKey = l
@@ -1816,9 +1792,6 @@ trustpanel-blocker-see-all = Tümünü göster
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } izlenme korumaları
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -45,8 +45,8 @@ home-prefs-highlights-option-most-recent-download-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = शोधा
     .aria-label = शोधा
+    .title = शोधा
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -82,18 +82,18 @@ newtab-confirm-delete-history-p2 = ही क्रिया पूर्वव�
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = मेनु उघडा
     .aria-label = मेनु उघडा
+    .title = मेनु उघडा
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = मेनु उघडा
     .aria-label = { $title } साठी संदर्भ मेनू उघडा
+    .title = मेनु उघडा
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = ही साइट संपादित करा
     .aria-label = ही साइट संपादित करा
+    .title = ही साइट संपादित करा
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 

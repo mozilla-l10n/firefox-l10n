@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Prilagodi
 newtab-customize-panel-label =
     .label = Prilagodi
 newtab-personalize-settings-icon-label =
-    .title = Personalizujte novi tab
     .aria-label = Postavke
+    .title = Personalizujte novi tab
 newtab-settings-dialog-label =
     .aria-label = Postavke
 newtab-personalize-icon-label =
-    .title = Personalizujte novi tab
     .aria-label = Personalizujte novi tab
+    .title = Personalizujte novi tab
 newtab-personalize-dialog-label =
     .aria-label = Personalizuj
 newtab-logo-and-wordmark =
@@ -89,8 +89,8 @@ home-prefs-mission-message-learn-more-link-srd = Saznajte kako
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Traži
     .aria-label = Traži
+    .title = Traži
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Pretražite pomoću { $engine } ili unesite adresu
@@ -98,17 +98,17 @@ newtab-search-box-handoff-text-no-engine = Unesite termin za pretragu ili adresu
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Pretražite pomoću { $engine } ili unesite adresu
     .placeholder = Pretražite pomoću { $engine } ili unesite adresu
     .title = Pretražite pomoću { $engine } ili unesite adresu
-    .aria-label = Pretražite pomoću { $engine } ili unesite adresu
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Tražite ili upišite adresu
     .placeholder = Tražite ili upišite adresu
     .title = Tražite ili upišite adresu
-    .aria-label = Tražite ili upišite adresu
 newtab-search-box-text = Pretraži web
 newtab-search-box-input =
-    .placeholder = Pretraži web
     .aria-label = Pretraži web
+    .placeholder = Pretraži web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -118,8 +118,8 @@ newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
 newtab-topsites-edit-shortcut-header = Uredi prečicu
 newtab-topsites-add-shortcut-label = Dodaj prečicu
 newtab-topsites-add-shortcut-title =
-    .title = Dodaj prečicu
     .aria-label = Dodaj prečicu
+    .title = Dodaj prečicu
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Unesi naslov
@@ -154,22 +154,22 @@ newtab-topsite-sponsored = Sponzorisano
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Otvori meni
     .aria-label = Otvori meni
+    .title = Otvori meni
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Ukloni
     .aria-label = Ukloni
+    .title = Ukloni
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Otvori meni
     .aria-label = Otvori kontekstni meni za { $title }
+    .title = Otvori meni
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Uredi ovu stranicu
     .aria-label = Uredi ovu stranicu
+    .title = Uredi ovu stranicu
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -341,8 +341,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Hvala. Vaše povratne informacije pomoći će nam da poboljšamo predlaganje tema.
 newtab-toast-dismiss-button =
-    .title = Odbaci
     .aria-label = Odbaci
+    .title = Odbaci
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -361,8 +361,8 @@ newtab-custom-shortcuts-title = Prečice
 newtab-custom-shortcuts-subtitle = Web stranice koje sačuvate ili posjetite
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Prečice
     .description = Stranice koje ste sačuvali ili posjetili
+    .label = Prečice
 newtab-custom-shortcuts-nova =
     .label = Prečice
 # Variables
@@ -388,8 +388,8 @@ newtab-custom-pocket-title = Preporučuje { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Izuzetan sadržaj koji je kurirao { -pocket-brand-name }, dio porodice { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Preporučene priče
     .description = Izuzetan sadržaj koji je kurirala porodica { -brand-product-name }
+    .label = Preporučene priče
 newtab-recommended-stories-toggle =
     .label = Preporučene priče
 newtab-custom-pocket-sponsored = Sponzorisane priče
@@ -397,8 +397,8 @@ newtab-custom-pocket-show-recent-saves = Prikaži nedavno sačuvane
 newtab-custom-recent-title = Nedavne aktivnosti
 newtab-custom-recent-subtitle = Izbor najnovijih stranica i sadržaja
 newtab-custom-weather-toggle =
-    .label = Vrijeme
     .description = Ukratko o današnjoj prognozi
+    .label = Vrijeme
 newtab-custom-close-button = Zatvori
 newtab-custom-settings = Upravljajte više postavki
 
@@ -490,11 +490,11 @@ newtab-wallpaper-feature-highlight-content = Dajte svojom novom tabu svjež izgl
 newtab-wallpaper-feature-highlight-button = Razumijem
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Odbaci
     .aria-label = Zatvori iskočni prozor
+    .title = Odbaci
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## Celestial
 
@@ -520,8 +520,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponzorisano
 newtab-weather-menu-change-location = Promijeni lokaciju
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Traži lokaciju
     .aria-label = Traži lokaciju
+    .placeholder = Traži lokaciju
 newtab-weather-menu-weather-display = Prikaz vremena
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -542,8 +542,8 @@ newtab-weather-error-not-available = Vremenski podaci trenutno nisu dostupni.
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Pogledajte prognozu na { $provider }
     .aria-description = { $provider } ∙ Sponzorisano
+    .title = Pogledajte prognozu na { $provider }
 
 ## Topic Labels
 

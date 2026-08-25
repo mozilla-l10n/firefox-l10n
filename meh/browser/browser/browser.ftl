@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Kaka yu'u jii { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = Kaka yu'u jii { $content-title } — { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Kaka yu'u jii { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,18 +36,15 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Nánuku jii { -brand-full-name }
     .data-content-title-default = { $content-title }
     .data-content-title-private = Nánuku jii { $content-title }
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Nánuku jii { -brand-full-name }
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = Kune´ya tu´un sitio
 
@@ -216,9 +213,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Tee ka̱a̱ nánuku “{ $engineName }”
     .label = Tee “{ $engineName }”
     .tooltiptext = Tee ka̱a̱ nánuku “{ $engineName }”
-    .aria-label = Tee ka̱a̱ nánuku “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -413,28 +410,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Nánuku nuu Web
     .aria-label = Nánuku nuu Web { $name }
+    .placeholder = Nánuku nuu Web
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Tee a nánukunu
     .aria-label = Nánuku { $name }
+    .placeholder = Tee a nánukunu
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Tee a nánukunu
     .aria-label = Nánuku marcadores
+    .placeholder = Tee a nánukunu
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Tee a nánukunu
     .aria-label = Nánuku historia
+    .placeholder = Tee a nánukunu
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Tee a nánukunu
     .aria-label = Nánuku pestañas
+    .placeholder = Tee a nánukunu
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -511,10 +508,6 @@ urlbar-searchmode-history =
     .label = Historial
 urlbar-searchmode-actions =
     .label = Acciones
-urlbar-searchmode-bookmarks2 = A ta´a ini noo´o
-urlbar-searchmode-tabs2 = Da sukua
-urlbar-searchmode-history2 = Historial
-urlbar-searchmode-actions2 = Acciones
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -598,9 +591,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = A ta´a ini noo´o
     .toolbarname = A ta´a ini noo´o
     .accesskey = B
-    .aria-label = A ta´a ini noo´o
 bookmarks-toolbar-menu =
     .label = A ta´a ini noo´o
 bookmarks-toolbar-placeholder =
@@ -689,9 +682,6 @@ popups-infobar-block =
     .accesskey = p
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

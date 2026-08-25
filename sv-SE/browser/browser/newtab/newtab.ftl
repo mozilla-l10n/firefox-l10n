@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Anpassa
 newtab-customize-panel-label =
     .label = Anpassa
 newtab-personalize-settings-icon-label =
-    .title = Anpassa ny flik
     .aria-label = Inställningar
+    .title = Anpassa ny flik
 newtab-settings-dialog-label =
     .aria-label = Inställningar
 newtab-personalize-icon-label =
-    .title = Anpassa ny flik
     .aria-label = Anpassa ny flik
+    .title = Anpassa ny flik
 newtab-personalize-dialog-label =
     .aria-label = Anpassa
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Ignorera
     .aria-label = Ignorera
+    .title = Ignorera
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Sök
 home-prefs-stories-header2 =
-    .label = Berättelser
     .description = Exceptionellt innehåll kurerat av { -brand-product-name }-familjen
+    .label = Berättelser
 home-prefs-widgets-header =
     .label = Widgetar
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -330,8 +330,8 @@ newtab-stocks-error-not-available = Aktiedata är inte tillgänglig.
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Alternativ för widgetar för aktier
     .aria-label = Alternativ för widgetar för aktier
+    .title = Alternativ för widgetar för aktier
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aktier
@@ -366,15 +366,15 @@ newtab-stocks-ticker-status-flat = { $name }, ingen förändring, { $change }, {
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = Lägg till { $name } till bevakningslistan
     .aria-label = Lägg till { $name } till bevakningslistan
+    .title = Lägg till { $name } till bevakningslistan
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = Ta bort { $name } från bevakningslistan
     .aria-label = Ta bort { $name } från bevakningslistan
+    .title = Ta bort { $name } från bevakningslistan
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -403,8 +403,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Tillbaka
     .aria-label = Tillbaka
+    .title = Tillbaka
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -445,14 +445,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Alternativ för dagens bild
     .aria-label = Alternativ för dagens bild
+    .title = Alternativ för dagens bild
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Ställ in dagens bild som bakgrundsbild
     .label = Ställ in bakgrundsbild
     .title = Ställ in bakgrundsbild
-    .aria-label = Ställ in dagens bild som bakgrundsbild
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Hantera bakgrundsbild
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -464,8 +464,8 @@ newtab-picture-menu-show-photo = Visa dagens bild
 newtab-picture-menu-learn-more = Läs mer
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Visa dagens bild
     .aria-label = Visa dagens bild
+    .title = Visa dagens bild
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Kom tillbaka imorgon för en ny bild
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -482,16 +482,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Läs mer
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Sök
     .aria-label = Sök
+    .title = Sök
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Sök med { $engine } eller ange en adress
@@ -499,17 +495,17 @@ newtab-search-box-handoff-text-no-engine = Sök eller ange adress
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Sök med { $engine } eller ange en adress
     .placeholder = Sök med { $engine } eller ange en adress
     .title = Sök med { $engine } eller ange en adress
-    .aria-label = Sök med { $engine } eller ange en adress
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Sök eller ange adress
     .placeholder = Sök eller ange adress
     .title = Sök eller ange adress
-    .aria-label = Sök eller ange adress
 newtab-search-box-text = Sök på webben
 newtab-search-box-input =
-    .placeholder = Sök på webben
     .aria-label = Sök på webben
+    .placeholder = Sök på webben
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -519,8 +515,8 @@ newtab-topsites-edit-topsites-header = Redigera mest besökta
 newtab-topsites-edit-shortcut-header = Redigera genväg
 newtab-topsites-add-shortcut-label = Lägg till genväg
 newtab-topsites-add-shortcut-title =
-    .title = Lägg till genväg
     .aria-label = Lägg till genväg
+    .title = Lägg till genväg
 newtab-shortcuts-pinned-area = Fäst område
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
@@ -533,9 +529,6 @@ newtab-topsites-image-url-label = Anpassa bild-URL
 newtab-topsites-use-custom-image-link = Använd en anpassad bild
 newtab-topsites-use-image-link = Använd en anpassad bild…
 newtab-topsites-image-validation = Bilden misslyckades att ladda. Prova en annan URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Rensa text
 
@@ -573,35 +566,35 @@ newtab-topsites-hover-card-header = Aviseringar från { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Nu
 newtab-topsites-hover-card-mark-all-read =
-    .title = Markera alla som lästa
     .aria-label = Markera alla som lästa
+    .title = Markera alla som lästa
 newtab-topsites-hover-card-settings =
-    .title = Aviseringsinställningar
     .aria-label = Aviseringsinställningar
+    .title = Aviseringsinställningar
 newtab-topsites-hover-card-dismiss =
-    .title = Ignorera
     .aria-label = Ignorera
+    .title = Ignorera
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Öppna meny
     .aria-label = Öppna meny
+    .title = Öppna meny
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Ta bort
     .aria-label = Ta bort
+    .title = Ta bort
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Öppna meny
     .aria-label = Öppna snabbmeny för { $title }
+    .title = Öppna meny
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Redigera denna webbplats
     .aria-label = Redigera denna webbplats
+    .title = Redigera denna webbplats
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -786,8 +779,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Tack. Din feedback hjälper oss att förbättra ditt flöde.
 newtab-toast-dismiss-button =
-    .title = Ignorera
     .aria-label = Ignorera
+    .title = Ignorera
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -806,13 +799,13 @@ newtab-custom-shortcuts-title = Genvägar
 newtab-custom-shortcuts-subtitle = Webbplatser du sparar eller besöker
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Genvägar
     .description = Webbplatser du sparar eller besöker
+    .label = Genvägar
 newtab-custom-shortcuts-nova =
     .label = Genvägar
 newtab-custom-web-notifications-toggle =
-    .label = Webbaviseringar
     .description = Visa aviseringar från dina webbplatser på deras genvägar
+    .label = Webbaviseringar
 newtab-custom-row-description =
     .description = Antal rader
 # Variables
@@ -836,8 +829,8 @@ newtab-custom-pocket-title = Rekommenderas av { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Särskilt innehåll valt av { -pocket-brand-name }, en del av familjen { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Rekommenderade berättelser
     .description = Exceptionellt innehåll kurerat av { -brand-product-name }-familjen
+    .label = Rekommenderade berättelser
 newtab-recommended-stories-toggle =
     .label = Rekommenderade berättelser
 newtab-custom-stories-personalized-toggle =
@@ -850,8 +843,8 @@ newtab-custom-pocket-show-recent-saves = Visa senast sparade
 newtab-custom-recent-title = Senaste aktivitet
 newtab-custom-recent-subtitle = Ett urval av senaste webbplatser och innehåll
 newtab-custom-weather-toggle =
-    .label = Väder
     .description = Dagens prognos i korthet
+    .label = Väder
 newtab-custom-widget-weather-toggle =
     .label = Väder
 newtab-custom-widget-lists-toggle =
@@ -878,13 +871,10 @@ newtab-widget-manage-widget-button =
     .label = Hantera widgetar
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Stäng
     .aria-label = Stäng meny
+    .title = Stäng
 newtab-custom-close-button = Stäng
 newtab-custom-settings = Hantera fler inställningar
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Utseende
 # Button that opens the full browser theme selection view.
@@ -997,14 +987,11 @@ newtab-wallpaper-feature-highlight-content = Ge din Nya flik ett fräscht utseen
 newtab-wallpaper-feature-highlight-button = Jag förstår
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Ignorera
     .aria-label = Stäng popup
+    .title = Ignorera
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1031,8 +1018,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponsrad
 newtab-weather-menu-change-location = Ändra plats
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Sök plats
     .aria-label = Sök plats
+    .placeholder = Sök plats
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Använd aktuell plats
@@ -1076,8 +1063,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Se prognos i { $provider }
     .aria-description = { $provider } ∙ Sponsrad
+    .title = Se prognos i { $provider }
 
 ## Topic Labels
 
@@ -1278,8 +1265,8 @@ newtab-widget-lists-menu-copy = Kopiera lista till urklipp
 newtab-widget-lists-menu-learn-more = Läs mer
 newtab-widget-lists-button-add-item = Lägg till ett objekt
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Lägg till ett objekt
     .aria-label = Lägg till ett objekt
+    .placeholder = Lägg till ett objekt
 newtab-widget-lists-input-error = Inkludera text för att lägga till ett objekt.
 newtab-widget-lists-input-menu-open-link = Öppna länk
 newtab-widget-lists-input-menu-move-up = Flytta upp
@@ -1304,12 +1291,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Uppgiftslista
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Checklista
     .aria-label = Redigera listnamn
+    .placeholder = Checklista
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Ny lista
     .aria-label = Redigera listnamn
+    .placeholder = Ny lista
 newtab-widget-section-title = Widgetar
 newtab-widget-menu-hide = Dölj widget
 newtab-widget-menu-change-size = Ändra storlek
@@ -1327,17 +1314,17 @@ newtab-widget-size-medium = Medium
 newtab-widget-size-large = Stor
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Dölj widgetar
     .aria-label = Dölj alla widgetar
+    .title = Dölj widgetar
 newtab-widget-section-maximize =
-    .title = Expandera widgetar
     .aria-label = Expandera alla widgetar till full storlek
+    .title = Expandera widgetar
 newtab-widget-section-minimize =
-    .title = Minimera widgets
     .aria-label = Komprimera alla widgetar till kompakt storlek
+    .title = Minimera widgets
 newtab-widget-section-menu-button =
-    .title = Widgetmeny
     .aria-label = Öppna widgetmenyn
+    .title = Widgetmeny
 newtab-widget-add-widgets-button =
     .aria-label = Lägg till widget
     .title = Lägg till widget
@@ -1398,11 +1385,8 @@ newtab-promo-card-title = Stöd { -brand-product-name }
 newtab-promo-card-body = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb
 newtab-promo-card-cta = Läs mer
 newtab-promo-card-dismiss-button =
-    .title = Ignorera
     .aria-label = Ignorera
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Ignorera
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1469,8 +1453,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Välj en bakgrundsbild
 newtab-sports-widget-skip = Hoppa över
 newtab-sports-widget-search-country =
-    .placeholder = Sök land
     .aria-label = Sök land
+    .placeholder = Sök land
 newtab-sports-widget-cancel = Avbryt
 newtab-sports-widget-back-button =
     .aria-label = Tillbaka
@@ -1537,8 +1521,8 @@ newtab-sports-widget-quarter-finals = Kvartsfinaler
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
-    .title = Uppdatera poäng
     .aria-label = Uppdatera poäng
+    .title = Uppdatera poäng
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Viktiga datum
 newtab-sports-widget-upcoming = Kommande
@@ -1552,10 +1536,10 @@ newtab-sports-widget-final = Final
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Försenad
 newtab-sports-widget-postponed = Uppskjuten
 newtab-sports-widget-suspended = Avstängd
@@ -1693,8 +1677,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Ignorera
     .aria-label = Ignorera
+    .title = Ignorera
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1719,34 +1703,34 @@ newtab-clock-widget-menu-switch-to-12h = Växla till 12-timmarsformat
 newtab-clock-widget-menu-switch-to-24h = Växla till 24-timmarsformat
 newtab-clock-widget-label-your-clocks = Dina klockor
 newtab-clock-widget-search-location-input =
+    .aria-label = Sök efter en stad
     .label = Plats
     .placeholder = Sök efter en stad
-    .aria-label = Sök efter en stad
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Smeknamn (valfritt)
     .label = Smeknamn (valfritt)
     .placeholder = Lägg till ett smeknamn
-    .aria-label = Smeknamn (valfritt)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Lägg till ny klocka
     .aria-label = Lägg till ny klocka
+    .title = Lägg till ny klocka
 newtab-clock-widget-button-add-clock = Lägg till
 newtab-clock-widget-button-cancel = Avbryt
 newtab-clock-widget-button-back =
-    .title = Tillbaka
     .aria-label = Tillbaka
+    .title = Tillbaka
 newtab-clock-widget-button-edit-clock =
-    .title = Redigera klocka
     .aria-label = Redigera klocka
+    .title = Redigera klocka
 newtab-clock-widget-button-save = Spara
 newtab-clock-widget-button-remove-clock =
-    .title = Ta bort klocka
     .aria-label = Ta bort klocka
+    .title = Ta bort klocka
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1774,14 +1758,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Lägg till “{ $city }” som en anpassad klocka
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Stadens namn
     .aria-label = Stadens namn
+    .label = Stadens namn
     .placeholder = Ge klockan ett namn
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Tidszon
     .aria-label = Tidszon
+    .label = Tidszon
     .placeholder = Sök efter stad, tidszon eller UTC-förskjutning
 newtab-clock-widget-custom-zone-results =
     .aria-label = Resultat för tidszoner
@@ -1797,8 +1781,8 @@ newtab-clock-widget-search-no-results = Inga matchningar
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Öppna menyn för klocka
     .aria-label = Öppna menyn för klocka
+    .title = Öppna menyn för klocka
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Smeknamn: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

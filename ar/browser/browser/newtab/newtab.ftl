@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = خصّص
 newtab-customize-panel-label =
     .label = خصّص
 newtab-personalize-settings-icon-label =
-    .title = خصّص صفحة اللسان الجديد
     .aria-label = إعدادات
+    .title = خصّص صفحة اللسان الجديد
 newtab-settings-dialog-label =
     .aria-label = الإعدادات
 newtab-personalize-icon-label =
-    .title = خصّص صفحة اللسان الجديد
     .aria-label = خصّص صفحة اللسان الجديد
+    .title = خصّص صفحة اللسان الجديد
 newtab-personalize-dialog-label =
     .aria-label = خصّص
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = ارفض
     .aria-label = ارفض
+    .title = ارفض
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = ابحث
 home-prefs-stories-header2 =
-    .label = القصص
     .description = محتوى استثنائي برعاية عائلة { -brand-product-name }
+    .label = القصص
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = قوائم
@@ -224,8 +224,8 @@ newtab-picture-menu-learn-more = اطّلع على المزيد
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = ابحث
     .aria-label = ابحث
+    .title = ابحث
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ‫ابحث بـ { $engine } أو أدخِل عنوانا
@@ -233,17 +233,17 @@ newtab-search-box-handoff-text-no-engine = ابحث أو أدخِل عنوانا
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
-    .title = ‫ابحث بـ { $engine } أو أدخِل عنوانا
     .aria-label = ‫ابحث بـ { $engine } أو أدخِل عنوانا
     .placeholder = ‫ابحث بـ { $engine } أو أدخِل عنوانا
+    .title = ‫ابحث بـ { $engine } أو أدخِل عنوانا
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = ابحث أو أدخِل عنوانا
     .placeholder = ابحث أو أدخِل عنوانا
     .title = ابحث أو أدخِل عنوانا
-    .aria-label = ابحث أو أدخِل عنوانا
 newtab-search-box-text = ابحث في الوِب
 newtab-search-box-input =
-    .placeholder = ابحث في الوِب
     .aria-label = ابحث في الوِب
+    .placeholder = ابحث في الوِب
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -253,8 +253,8 @@ newtab-topsites-edit-topsites-header = حرّر الموقع الشائع
 newtab-topsites-edit-shortcut-header = حرّر الاختصار
 newtab-topsites-add-shortcut-label = أضِف اختصارًا
 newtab-topsites-add-shortcut-title =
-    .title = أضِف اختصارًا
     .aria-label = أضِف اختصارًا
+    .title = أضِف اختصارًا
 newtab-topsites-title-label = العنوان
 newtab-topsites-title-input =
     .placeholder = أدخل عنوانًا
@@ -266,9 +266,6 @@ newtab-topsites-image-url-label = مسار الصورة المخصصة
 newtab-topsites-use-custom-image-link = استخدم صورة مخصصة
 newtab-topsites-use-image-link = استخدم صورة مخصصة…
 newtab-topsites-image-validation = فشل تحميل الصورة. جرّب مسارا آخر.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = امحُ النص
 
@@ -306,35 +303,35 @@ newtab-topsites-hover-card-header = الإشعارات من { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = منذ لحظات
 newtab-topsites-hover-card-mark-all-read =
-    .title = علِّمهم مقروءة
     .aria-label = علِّمهم مقروءة
+    .title = علِّمهم مقروءة
 newtab-topsites-hover-card-settings =
-    .title = إعدادات الإشعارات
     .aria-label = إعدادات الإشعارات
+    .title = إعدادات الإشعارات
 newtab-topsites-hover-card-dismiss =
-    .title = أهمِل
     .aria-label = أهمِل
+    .title = أهمِل
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = افتح القائمة
     .aria-label = افتح القائمة
+    .title = افتح القائمة
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = أزِل
     .aria-label = أزِل
+    .title = أزِل
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = افتح القائمة
     .aria-label = افتح قائمة { $title } السياقية
+    .title = افتح القائمة
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = حرّر هذا الموقع
     .aria-label = حرّر هذا الموقع
+    .title = حرّر هذا الموقع
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -505,8 +502,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = شكرًا لك. ستساعدنا تعليقاتك في تحسين خلاصتك.
 newtab-toast-dismiss-button =
-    .title = أهمِل
     .aria-label = أهمِل
+    .title = أهمِل
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -525,13 +522,13 @@ newtab-custom-shortcuts-title = الاختصارات
 newtab-custom-shortcuts-subtitle = المواقع التي حفظتها أو زرتها
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = الاختصارات
     .description = المواقع التي حفظتها أو زرتها
+    .label = الاختصارات
 newtab-custom-shortcuts-nova =
     .label = الاختصارات
 newtab-custom-web-notifications-toggle =
-    .label = إشعارات الوِب
     .description = أظهر إشعارات من مواقعك على إختصاراتهم
+    .label = إشعارات الوِب
 newtab-custom-row-description =
     .description = عدد الصفوف
 # Variables
@@ -584,8 +581,8 @@ newtab-widget-manage-widget-button =
     .label = أدر الويدجات
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = أغلق
     .aria-label = أغلق القائمة
+    .title = أغلق
 newtab-custom-close-button = أغلِق
 newtab-custom-settings = أدِر المزيد من الإعدادات
 
@@ -675,14 +672,11 @@ newtab-wallpaper-feature-highlight-content = امنح صفحة لسانك الج
 newtab-wallpaper-feature-highlight-button = فهمت
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = أهمِل
     .aria-label = أغلق النافذة المنبثقة
+    .title = أهمِل
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -704,8 +698,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ مموّل
 newtab-weather-menu-change-location = غيّر المكان
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = ابحث عن الموقع
     .aria-label = ابحث عن الموقع
+    .placeholder = ابحث عن الموقع
 newtab-weather-menu-weather-display = عرض الطقس
 newtab-weather-todays-forecast = توقعات الطقس اليوم
 newtab-weather-see-full-forecast = اطّلع على التوقعات كاملة
@@ -886,8 +880,8 @@ newtab-widget-lists-menu-copy = انسخ القائمة إلى الحافظة
 newtab-widget-lists-menu-learn-more = اطّلع على المزيد
 newtab-widget-lists-button-add-item = أضف عنصر
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = أضف عنصر
     .aria-label = أضف عنصر
+    .placeholder = أضف عنصر
 newtab-widget-lists-input-error = يُرجى إدخال نص لإضافة عنصر.
 newtab-widget-lists-input-menu-open-link = افتح الرابط
 newtab-widget-lists-input-menu-move-up = انقل لأعلى
@@ -906,12 +900,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = قائمة المهام
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = قائمة التحقق
     .aria-label = حرِّر اسم القائمة
+    .placeholder = قائمة التحقق
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = قائمة جديدة
     .aria-label = حرّر اسم القائمة
+    .placeholder = قائمة جديدة
 newtab-widget-menu-hide = أخفِ الويدجت
 newtab-widget-menu-change-size = غيّر الحجم
 newtab-widget-size-small = صغير
@@ -919,11 +913,11 @@ newtab-widget-size-medium = متوسط
 newtab-widget-size-large = كبير
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = أخف الويدجات
     .aria-label = أخف الويدجات
+    .title = أخف الويدجات
 newtab-widget-section-menu-button =
-    .title = قائمة الويدجات
     .aria-label = افتح قائمة الويدجات
+    .title = قائمة الويدجات
 newtab-widget-section-menu-manage = أدر الويدجات
 newtab-widget-section-menu-hide-all = أخفِ الويدجات
 newtab-widget-section-menu-learn-more = اطّلع على المزيد
@@ -969,11 +963,8 @@ newtab-promo-card-title = ادعم { -brand-product-name }
 newtab-promo-card-body = يدعم رعاتنا مهمتنا في بناء شبكة إنترنت أفضل
 newtab-promo-card-cta = اطّلع على المزيد
 newtab-promo-card-dismiss-button =
-    .title = أهمِل
     .aria-label = أهمِل
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = أهمِل
 newtab-widget-timer-pause-aria =
     .aria-label = ألبِث المؤقت
 newtab-widget-timer-decrease-min =
@@ -1007,8 +998,8 @@ newtab-sports-widget-skip = تخطَّ
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = أهمِل
     .aria-label = أهمِل
+    .title = أهمِل
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1031,20 +1022,20 @@ newtab-clock-widget-menu-switch-to-12h = بدّل إلى نظام الـ 12 سا
 newtab-clock-widget-menu-switch-to-24h = بدّل إلى نظام الـ 24 ساعة
 newtab-clock-widget-label-your-clocks = ساعاتك
 newtab-clock-widget-search-location-input =
+    .aria-label = ابحث عن مدينة
     .label = الموقع
     .placeholder = ابحث عن مدينة
-    .aria-label = ابحث عن مدينة
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = الاسم المستعار (اختياري)
     .label = الاسم المستعار (اختياري)
     .placeholder = أضف اسم مستعار
-    .aria-label = الاسم المستعار (اختياري)
 newtab-clock-widget-button-save = احفظ
 newtab-clock-widget-button-remove-clock =
-    .title = أزِل الساعة
     .aria-label = أزِل الساعة
+    .title = أزِل الساعة
 newtab-clock-widget-add-clock-form =
     .aria-label = أضف ساعة
 newtab-clock-widget-edit-clock-form =
@@ -1058,8 +1049,8 @@ newtab-clock-widget-search-results =
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = افتح قائمة الساعة
     .aria-label = افتح قائمة الساعة
+    .title = افتح قائمة الساعة
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = الاسم المستعار: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

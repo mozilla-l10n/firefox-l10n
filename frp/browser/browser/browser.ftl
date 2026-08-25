@@ -57,9 +57,6 @@ bookmarks-toolbar-menu =
 
 ##
 
-
-# Navigator Toolbox
-
 tabs-toolbar-list-all-tabs =
     .label = Listar totes les ongllètes
     .tooltiptext = Listar totes les ongllètes

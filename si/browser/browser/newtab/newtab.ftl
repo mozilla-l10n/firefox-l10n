@@ -9,11 +9,11 @@ newtab-page-title = නව පටිත්ත
 newtab-settings-button =
     .title = නව පටිත්ත පිටුව අභිරුචිකරණය
 newtab-personalize-settings-icon-label =
-    .title = නව පටිත්ත පුද්ගලීකරණය
     .aria-label = සැකසුම්
-newtab-personalize-icon-label =
     .title = නව පටිත්ත පුද්ගලීකරණය
+newtab-personalize-icon-label =
     .aria-label = නව පටිත්ත පුද්ගලීකරණය
+    .title = නව පටිත්ත පුද්ගලීකරණය
 newtab-personalize-dialog-label =
     .aria-label = පුද්ගලීකරණය
 newtab-logo-and-wordmark =
@@ -74,8 +74,8 @@ home-prefs-weather-header-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = සොයන්න
     .aria-label = සොයන්න
+    .title = සොයන්න
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } සමඟ සොයන්න හෝ ලිපිනය ලියන්න
@@ -83,17 +83,17 @@ newtab-search-box-handoff-text-no-engine = සොයන්න හෝ ලිප�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = { $engine } සමඟ සොයන්න හෝ ලිපිනය ලියන්න
     .placeholder = { $engine } සමඟ සොයන්න හෝ ලිපිනය ලියන්න
     .title = { $engine } සමඟ සොයන්න හෝ ලිපිනය ලියන්න
-    .aria-label = { $engine } සමඟ සොයන්න හෝ ලිපිනය ලියන්න
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = සොයන්න හෝ ලිපිනය ලියන්න
     .placeholder = සොයන්න හෝ ලිපිනය ලියන්න
     .title = සොයන්න හෝ ලිපිනය ලියන්න
-    .aria-label = සොයන්න හෝ ලිපිනය ලියන්න
 newtab-search-box-text = සොයන්න
 newtab-search-box-input =
-    .placeholder = සොයන්න
     .aria-label = සොයන්න
+    .placeholder = සොයන්න
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -103,8 +103,8 @@ newtab-topsites-edit-topsites-header = ප්‍රචලිත අඩවිය 
 newtab-topsites-edit-shortcut-header = කෙටිමඟ සංස්කරණය
 newtab-topsites-add-shortcut-label = කෙටිමඟක් යොදන්න
 newtab-topsites-add-shortcut-title =
-    .title = කෙටිමඟක් යොදන්න
     .aria-label = කෙටිමඟක් යොදන්න
+    .title = කෙටිමඟක් යොදන්න
 newtab-topsites-title-label = සිරැසිය
 newtab-topsites-title-input =
     .placeholder = සිරැසියක් යොදන්න
@@ -138,22 +138,22 @@ newtab-topsite-sponsored = අනුග්‍රහය ලද
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = වට්ටෝරුව අරින්න
     .aria-label = වට්ටෝරුව අරින්න
+    .title = වට්ටෝරුව අරින්න
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = ඉවත් කරන්න
     .aria-label = ඉවත් කරන්න
+    .title = ඉවත් කරන්න
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = වට්ටෝරුව අරින්න
     .aria-label = { $title } සඳහා සන්දර්භය අරින්න
+    .title = වට්ටෝරුව අරින්න
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = අඩවිය සංස්කරණය
     .aria-label = අඩවිය සංස්කරණය
+    .title = අඩවිය සංස්කරණය
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -276,8 +276,8 @@ newtab-pocket-saved = සුරැකිණි
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
 newtab-toast-dismiss-button =
-    .title = ඉවතලන්න
     .aria-label = ඉවතලන්න
+    .title = ඉවතලන්න
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -291,8 +291,8 @@ newtab-custom-shortcuts-title = කෙටිමං
 newtab-custom-shortcuts-subtitle = ඔබ සුරකින හෝ ගොඩවදින අඩවි
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = කෙටිමං
     .description = ඔබ සුරකින හෝ ගොඩවදින අඩවි
+    .label = කෙටිමං
 newtab-custom-shortcuts-nova =
     .label = කෙටිමං
 # Variables
@@ -345,11 +345,11 @@ newtab-wallpaper-red = රතු
 newtab-wallpaper-feature-highlight-button = තේරුණා
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = ඉවතලන්න
     .aria-label = උත්පතනය වසන්න
+    .title = ඉවතලන්න
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## New Tab Weather
 
@@ -358,8 +358,8 @@ feature-highlight-wallpaper =
 newtab-weather-sponsored = { $provider } ∙ අනුග්‍රහය
 newtab-weather-menu-change-location = ස්ථානය වෙනස් කරන්න
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = ස්ථානයක් සොයන්න
     .aria-label = ස්ථානයක් සොයන්න
+    .placeholder = ස්ථානයක් සොයන්න
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

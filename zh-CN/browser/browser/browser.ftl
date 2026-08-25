@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } 隐私浏览
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } 隐私浏览
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } 隐私浏览
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — 隐私浏览
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — 隐私浏览
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — 隐私浏览
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = 浏览快如风，隐私断跟踪
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } 隐私浏览
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } 隐私浏览
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } 隐私浏览
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } 隐私浏览
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } 隐私浏览
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } 隐私浏览
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } 隐私浏览
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — 隐私浏览
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } 隐私浏览
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — 隐私浏览
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — 隐私浏览
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — 隐私浏览
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — 隐私浏览
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } 隐私浏览
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -137,9 +137,6 @@ urlbar-identity-button2 =
             [1] 查看网站信息（已拦截 1 个跟踪器）
            *[other] 查看网站信息（已拦截 { $count } 个跟踪器）
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = 查看网站信息
 
@@ -336,8 +333,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = 为此页面添加书签 ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = 分屏视图
     .aria-label = 分屏视图
+    .tooltiptext = 分屏视图
 
 ## Searchbar context menu
 
@@ -390,9 +387,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = 添加搜索引擎“{ $engineName }”
     .label = 添加“{ $engineName }”
     .tooltiptext = 添加搜索引擎“{ $engineName }”
-    .aria-label = 添加搜索引擎“{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -737,32 +734,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = 网上搜索
     .aria-label = 使用 { $name } 搜索
+    .placeholder = 网上搜索
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = 输入搜索词
     .aria-label = 搜索 { $name }
+    .placeholder = 输入搜索词
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = 输入搜索词
     .aria-label = 搜索书签
+    .placeholder = 输入搜索词
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = 输入搜索词
     .aria-label = 搜索历史记录
+    .placeholder = 输入搜索词
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = 输入搜索词
     .aria-label = 搜索标签页
+    .placeholder = 输入搜索词
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = 输入搜索词
     .aria-label = 搜索操作
+    .placeholder = 输入搜索词
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -865,7 +862,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -914,11 +911,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · 赞助
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 询问
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1102,10 +1094,6 @@ urlbar-searchmode-history3 = 历史记录
     .accesskey = H
 urlbar-searchmode-actions3 = 操作
     .accesskey = A
-urlbar-searchmode-bookmarks2 = 书签
-urlbar-searchmode-tabs2 = 标签页
-urlbar-searchmode-history2 = 历史记录
-urlbar-searchmode-actions2 = 操作
 urlbar-searchmode-exit-button2 =
     .title = 关闭
 urlbar-searchmode-default2 =
@@ -1125,8 +1113,6 @@ urlbar-searchmode-popup-search-settings = 搜索设置
     .accesskey = S
 urlbar-searchmode-popup-settings = 设置
     .accesskey = S
-urlbar-searchmode-popup-search-settings-panelitem = 搜索设置
-urlbar-searchmode-popup-settings-panelitem = 设置
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1299,9 +1285,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = 书签
     .toolbarname = 书签工具栏
     .accesskey = B
-    .aria-label = 书签
 bookmarks-toolbar-menu =
     .label = 书签工具栏
 bookmarks-toolbar-placeholder =
@@ -1474,9 +1460,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1696,13 +1679,6 @@ file-picker-crashed-open = Windows 文件对话框发生崩溃，无法选择文
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 文件对话框发生崩溃，此文件将保存至 { $path }。
 file-picker-crashed-save-nowhere = Windows 文件对话框发生崩溃，且找不到默认文件夹，此文件将不会保存。
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = 在文件夹中显示
     .accessKey = F
@@ -1755,9 +1731,6 @@ trustpanel-blocker-see-all = 查看全部
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = 跟踪保护：{ $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

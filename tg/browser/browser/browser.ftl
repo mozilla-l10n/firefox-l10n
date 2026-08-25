@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Тамошобинии хусусии { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = Тамошобинии хусусии { $content-title } — { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Тамошобинии хусусии { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Тамошобинии хусусӣ
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Тамошобинии хусусӣ
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Тамошобинии хусусӣ
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = Тамошобинии тезкор ва хусу
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Тамошобинии хусусии «{ -brand-full-name }»
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Тамошобинии хусусии «{ -brand-full-name }»
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Тамошобинии хусусии «{ -brand-full-name }»
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — Тамошобинии хусусии «{ -brand-full-name }»
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Тамошобинии хусусии «{ -brand-full-name }»
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = Тамошобинии хусусии «{ -brand-full-name }»
+    .data-title-private-with-profile = { $profile-name } — Тамошобинии хусусии «{ -brand-full-name }»
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Тамошобинии хусусӣ
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Тамошобинии хусусии «{ -brand-full-name }»
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Тамошобинии хусусӣ
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — Тамошобинии хусусӣ
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Тамошобинии хусусӣ
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Тамошобинии хусусӣ
+    .data-title-private-with-profile = { $profile-name } — Тамошобинии хусусии «{ -brand-full-name }»
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -128,9 +128,6 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Идоракунии танзимоти равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм…
     .accesskey = И
-
-##
-
 urlbar-identity-button =
     .aria-label = Дидани маълумот дар бораи сомона
 
@@ -322,8 +319,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Гузоштани хатбарак барои ин саҳифа ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = Намоиши тақсимшуда
     .aria-label = Намоиши тақсимшуда
+    .tooltiptext = Намоиши тақсимшуда
 
 ## Searchbar context menu
 
@@ -376,9 +373,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Илова кардани низоми ҷустуҷӯии  “{ $engineName }”
     .label = Илова кардани “{ $engineName }”
     .tooltiptext = Илова кардани низоми ҷустуҷӯии “{ $engineName }”
-    .aria-label = Илова кардани низоми ҷустуҷӯии  “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -718,32 +715,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Ҷустуҷӯ дар Интернет
     .aria-label = Ҷустуҷӯ тавассути { $name }
+    .placeholder = Ҷустуҷӯ дар Интернет
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯи { $name }
+    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯ дар хатбаракҳо
+    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯ дар таърих
+    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯ дар варақаҳо
+    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯи амалҳо
+    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -846,7 +843,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -1028,10 +1025,6 @@ urlbar-searchmode-history3 = Таърих
     .accesskey = Т
 urlbar-searchmode-actions3 = Амалҳо
     .accesskey = А
-urlbar-searchmode-bookmarks2 = Хатбаракҳо
-urlbar-searchmode-tabs2 = Варақаҳо
-urlbar-searchmode-history2 = Таърих
-urlbar-searchmode-actions2 = Амалҳо
 urlbar-searchmode-exit-button2 =
     .title = Пӯшидан
 urlbar-searchmode-default2 =
@@ -1051,8 +1044,6 @@ urlbar-searchmode-popup-search-settings = Танзимоти ҷустуҷӯ
     .accesskey = Т
 urlbar-searchmode-popup-settings = Танзимот
     .accesskey = Т
-urlbar-searchmode-popup-search-settings-panelitem = Танзимоти ҷустуҷӯ
-urlbar-searchmode-popup-settings-panelitem = Танзимот
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1222,9 +1213,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Хатбаракҳо
     .toolbarname = Навори хатбаракҳо
     .accesskey = Н
-    .aria-label = Хатбаракҳо
 bookmarks-toolbar-menu =
     .label = Навори хатбаракҳо
 bookmarks-toolbar-placeholder =
@@ -1393,9 +1384,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = Г
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1615,13 +1603,6 @@ file-picker-crashed-open = Равзанаи «Файл» дар «Windows» ва
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Равзанаи «Файл» дар «Windows» вайрон шудааст. Файл ба «{ $path }» нигоҳ дошта мешавад.
 file-picker-crashed-save-nowhere = Равзанаи «Файл» дар «Windows» вайрон шудааст. Ягон ҷузвдон ба таври пешфарз ёфт нашуд ва файл нигоҳ дошта намешавад.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Намоиш додан дар ҷузвдон
     .accessKey = Н
@@ -1674,9 +1655,6 @@ trustpanel-blocker-see-all = Ҳамаро дидан
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Воситаҳои муҳофизат аз пайгирӣ барои { $host } фаъол аст
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

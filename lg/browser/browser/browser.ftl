@@ -73,9 +73,6 @@ popups-infobar-dont-show-message =
 
 ##
 
-
-# Navigator Toolbox
-
 navbar-downloads =
     .label = Ebiwanulwa
 # Name for the tabs toolbar as spoken by screen readers. The word

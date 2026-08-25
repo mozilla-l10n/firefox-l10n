@@ -20,9 +20,6 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Məxfi Səyahət
-
-##
-
 urlbar-identity-button =
     .aria-label = Sayt məlumatlarını gör
 
@@ -196,8 +193,8 @@ search-one-offs-context-set-as-default-private =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
-    .label = “{ $engineName }” əlavə et
     .aria-label = “{ $engineName }” axtarış mühərrikini əlavə et
+    .label = “{ $engineName }” əlavə et
     .tooltiptext = “{ $engineName }” axtarış mühərrikini əlavə et
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
@@ -427,7 +424,6 @@ urlbar-searchmode-popup-search-settings-menuitem =
     .label = Axtarış Tənzimləmələri
 urlbar-searchmode-actions3 = Əməliyyatlar
     .accesskey = Ə
-urlbar-searchmode-actions2 = Əməliyyatlar
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Bu dəfə bununla axtarın:
@@ -435,8 +431,6 @@ urlbar-searchmode-popup-search-settings = Axtarış Tənzimləmələri
     .accesskey = S
 urlbar-searchmode-popup-settings = Tənzimləmələr
     .accesskey = S
-urlbar-searchmode-popup-search-settings-panelitem = Axtarış Tənzimləmələri
-urlbar-searchmode-popup-settings-panelitem = Tənzimləmələr
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -609,9 +603,6 @@ edit-popup-settings =
 
 ##
 
-
-# Navigator Toolbox
-
 navbar-downloads =
     .label = Endirilənlər
 navbar-overflow-2 =
@@ -782,9 +773,6 @@ trustpanel-clear-cookies-header =
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = { $host } üçün bağlantı qorumaları
-
-## The urlbar trust icon & panel
-
 # Keep this string as short as possible, this is displayed in the URL bar
 # Variables
 #  $count (number): the number of trackers blocked.

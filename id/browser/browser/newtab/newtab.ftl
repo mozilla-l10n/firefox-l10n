@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Sesuaikan
 newtab-customize-panel-label =
     .label = Sesuaikan
 newtab-personalize-settings-icon-label =
-    .title = Personalisasikan Tab Baru
     .aria-label = Pengaturan
+    .title = Personalisasikan Tab Baru
 newtab-settings-dialog-label =
     .aria-label = Pengaturan
 newtab-personalize-icon-label =
-    .title = Personalisasikan tab baru
     .aria-label = Personalisasikan tab baru
+    .title = Personalisasikan tab baru
 newtab-personalize-dialog-label =
     .aria-label = Personalisasikan
 newtab-logo-and-wordmark =
@@ -84,8 +84,8 @@ home-prefs-mission-message-learn-more-link-srd = Cari tahu bagaimana
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Cari
     .aria-label = Cari
+    .title = Cari
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cari lewat { $engine } atau masukkan alamat
@@ -93,17 +93,17 @@ newtab-search-box-handoff-text-no-engine = Cari atau masukkan alamat
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Cari lewat { $engine } atau masukkan alamat
     .placeholder = Cari lewat { $engine } atau masukkan alamat
     .title = Cari lewat { $engine } atau masukkan alamat
-    .aria-label = Cari lewat { $engine } atau masukkan alamat
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Cari atau masukkan alamat
     .placeholder = Cari atau masukkan alamat
     .title = Cari atau masukkan alamat
-    .aria-label = Cari atau masukkan alamat
 newtab-search-box-text = Cari di Web
 newtab-search-box-input =
-    .placeholder = Cari di web
     .aria-label = Cari di web
+    .placeholder = Cari di web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -113,8 +113,8 @@ newtab-topsites-edit-topsites-header = Ubah Situs Pilihan
 newtab-topsites-edit-shortcut-header = Edit Pintasan
 newtab-topsites-add-shortcut-label = Tambahkan Pintasan
 newtab-topsites-add-shortcut-title =
-    .title = Tambahkan Pintasan
     .aria-label = Tambahkan Pintasan
+    .title = Tambahkan Pintasan
 newtab-topsites-title-label = Judul
 newtab-topsites-title-input =
     .placeholder = Masukkan judul
@@ -157,22 +157,22 @@ topsite-label-pinned =
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Buka menu
     .aria-label = Buka menu
+    .title = Buka menu
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Hapus
     .aria-label = Hapus
+    .title = Hapus
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Buka menu
     .aria-label = Buka menu konteks untuk { $title }
+    .title = Buka menu
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Edit situs ini
     .aria-label = Edit situs ini
+    .title = Edit situs ini
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -340,8 +340,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Terima kasih. Umpan balik Anda akan membantu kami meningkatkan umpan Anda.
 newtab-toast-dismiss-button =
-    .title = Tutup
     .aria-label = Tutup
+    .title = Tutup
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -360,8 +360,8 @@ newtab-custom-shortcuts-title = Pintasan
 newtab-custom-shortcuts-subtitle = Situs yang Anda simpan atau kunjungi
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Pintasan
     .description = Situs yang Anda simpan atau kunjungi
+    .label = Pintasan
 newtab-custom-shortcuts-nova =
     .label = Pintasan
 # Variables
@@ -383,8 +383,8 @@ newtab-custom-pocket-title = Disarankan oleh { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Konten luar biasa yang dikelola oleh { -pocket-brand-name }, bagian dari keluarga { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Cerita yang direkomendasikan
     .description = Konten luar biasa yang dikurasi oleh keluarga { -brand-product-name }
+    .label = Cerita yang direkomendasikan
 newtab-recommended-stories-toggle =
     .label = Cerita yang direkomendasikan
 newtab-custom-stories-personalized-toggle =
@@ -397,8 +397,8 @@ newtab-custom-pocket-show-recent-saves = Tampilkan penyimpanan terbaru
 newtab-custom-recent-title = Aktivitas terbaru
 newtab-custom-recent-subtitle = Pilihan situs dan konten terbaru
 newtab-custom-weather-toggle =
-    .label = Cuaca
     .description = Sekilas prakiraan cuaca hari ini
+    .label = Cuaca
 newtab-custom-widget-weather-toggle =
     .label = Cuaca
 newtab-custom-widget-lists-toggle =
@@ -409,8 +409,8 @@ newtab-custom-widget-section-toggle =
 newtab-widget-manage-title = Widget
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Tutup
     .aria-label = Tutup menu
+    .title = Tutup
 newtab-custom-close-button = Tutup
 newtab-custom-settings = Kelola pengaturan lainnya
 
@@ -503,11 +503,11 @@ newtab-wallpaper-feature-highlight-content = Berikan Tab Baru Anda tampilan sega
 newtab-wallpaper-feature-highlight-button = Paham
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Tutup
     .aria-label = Tutup popup
+    .title = Tutup
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## Celestial
 
@@ -533,8 +533,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Bersponsor
 newtab-weather-menu-change-location = Ubah lokasi
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Cari lokasi
     .aria-label = Cari lokasi
+    .placeholder = Cari lokasi
 newtab-weather-menu-weather-display = Tampilan cuaca
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -555,8 +555,8 @@ newtab-weather-error-not-available = Data cuaca tidak tersedia saat ini.
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Lihat prakiraan di { $provider }
     .aria-description = { $provider } ∙ Bersponsor
+    .title = Lihat prakiraan di { $provider }
 
 ## Topic Labels
 
@@ -696,8 +696,8 @@ newtab-widget-lists-name-placeholder-default =
     .placeholder = Daftar tugas
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Daftar baru
     .aria-label = Sunting nama daftar
+    .placeholder = Daftar baru
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

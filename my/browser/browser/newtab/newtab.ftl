@@ -44,8 +44,8 @@ home-prefs-highlights-option-most-recent-download-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = ရှာ
     .aria-label = ရှာ
+    .title = ရှာ
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -81,12 +81,12 @@ newtab-confirm-delete-history-p2 = ယခုလုပ်ဆောင်မှု
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = မီနူးကို ဖွင့်ပါ
     .aria-label = မီနူးကို ဖွင့်ပါ
+    .title = မီနူးကို ဖွင့်ပါ
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = ဆိုက်အားပြင်မည်
     .aria-label = ဆိုက်အားပြင်မည်
+    .title = ဆိုက်အားပြင်မည်
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 

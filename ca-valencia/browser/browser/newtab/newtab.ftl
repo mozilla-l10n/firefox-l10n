@@ -9,8 +9,8 @@ newtab-page-title = Pestanya nova
 newtab-settings-button =
     .title = Personalitzeu la pàgina de pestanya nova
 newtab-personalize-icon-label =
-    .title = Personalitza la pestanya nova
     .aria-label = Personalitza la pestanya nova
+    .title = Personalitza la pestanya nova
 newtab-personalize-dialog-label =
     .aria-label = Personalitza
 
@@ -60,8 +60,8 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Cerca
     .aria-label = Cerca
+    .title = Cerca
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cerqueu amb { $engine } o escriviu una adreça
@@ -69,17 +69,17 @@ newtab-search-box-handoff-text-no-engine = Escriviu una cerca o adreça
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Cerqueu amb { $engine } o escriviu una adreça
     .placeholder = Cerqueu amb { $engine } o escriviu una adreça
     .title = Cerqueu amb { $engine } o escriviu una adreça
-    .aria-label = Cerqueu amb { $engine } o escriviu una adreça
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Escriviu una cerca o adreça
     .placeholder = Escriviu una cerca o adreça
     .title = Escriviu una cerca o adreça
-    .aria-label = Escriviu una cerca o adreça
 newtab-search-box-text = Cerca al web
 newtab-search-box-input =
-    .placeholder = Cerca al web
     .aria-label = Cerca al web
+    .placeholder = Cerca al web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -121,22 +121,22 @@ newtab-topsite-sponsored = Patrocinat
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Obri el menú
     .aria-label = Obri el menú
+    .title = Obri el menú
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Elimina
     .aria-label = Elimina
+    .title = Elimina
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Obri el menú
     .aria-label = Obri el menú contextual de { $title }
+    .title = Obri el menú
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Edita este lloc
     .aria-label = Edita este lloc
+    .title = Edita este lloc
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -282,8 +282,8 @@ newtab-custom-shortcuts-title = Dreceres
 newtab-custom-shortcuts-subtitle = Llocs que guardeu o visiteu
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Dreceres
     .description = Llocs que guardeu o visiteu
+    .label = Dreceres
 newtab-custom-shortcuts-nova =
     .label = Dreceres
 # Variables

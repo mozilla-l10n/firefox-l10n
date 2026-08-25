@@ -9,8 +9,8 @@ newtab-page-title = নতুন ট্যাব
 newtab-settings-button =
     .title = আপনার নতুন ট্যাবের পাতাটি কাস্টমাইজ করুন
 newtab-personalize-icon-label =
-    .title = নতুন ট্যাব ব্যক্তিগত করুন
     .aria-label = নতুন ট্যাব ব্যক্তিগত করুন
+    .title = নতুন ট্যাব ব্যক্তিগত করুন
 newtab-personalize-dialog-label =
     .aria-label = ব্যক্তিগতকরণ
 
@@ -50,8 +50,8 @@ home-prefs-highlights-option-most-recent-download-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = অনুসন্ধান
     .aria-label = অনুসন্ধান
+    .title = অনুসন্ধান
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
@@ -59,17 +59,17 @@ newtab-search-box-handoff-text-no-engine = অনুসন্ধান করু
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
     .placeholder = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
     .title = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
-    .aria-label = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = অনুসন্ধান করুন বা ঠিকানা লিখুন
     .placeholder = অনুসন্ধান করুন বা ঠিকানা লিখুন
     .title = অনুসন্ধান করুন বা ঠিকানা লিখুন
-    .aria-label = অনুসন্ধান করুন বা ঠিকানা লিখুন
 newtab-search-box-text = ওয়েবে অনুসন্ধান করুন
 newtab-search-box-input =
-    .placeholder = ওয়েবে অনুসন্ধান করুন
     .aria-label = ওয়েবে অনুসন্ধান করুন
+    .placeholder = ওয়েবে অনুসন্ধান করুন
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -111,22 +111,22 @@ newtab-topsite-sponsored = স্পন্সরকৃত
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = মেনু খুলুন
     .aria-label = মেনু খুলুন
+    .title = মেনু খুলুন
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = মুছে ফেলুন
     .aria-label = মুছে ফেলুন
+    .title = মুছে ফেলুন
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = মেনু খুলুন
     .aria-label = { $title } থেকে কনটেক্সট মেনু খুলুন
+    .title = মেনু খুলুন
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = সাইটটি সম্পাদনা করুন
     .aria-label = সাইটটি সম্পাদনা করুন
+    .title = সাইটটি সম্পাদনা করুন
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -271,8 +271,8 @@ newtab-custom-shortcuts-title = শর্টকাট
 newtab-custom-shortcuts-subtitle = আপনার সংরক্ষণ বা পরিদর্শন করা সাইট
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = শর্টকাট
     .description = আপনার সংরক্ষণ বা পরিদর্শন করা সাইট
+    .label = শর্টকাট
 newtab-custom-shortcuts-nova =
     .label = শর্টকাট
 # Variables

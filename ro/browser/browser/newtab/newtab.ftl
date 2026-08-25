@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Personalizează
 newtab-customize-panel-label =
     .label = Personalizează
 newtab-personalize-settings-icon-label =
-    .title = Personalizează pagina de filă nouă
     .aria-label = Setări
+    .title = Personalizează pagina de filă nouă
 newtab-settings-dialog-label =
     .aria-label = Setări
 newtab-personalize-icon-label =
-    .title = Personalizează pagina pentru filă nouă
     .aria-label = Personalizează pagina pentru filă nouă
+    .title = Personalizează pagina pentru filă nouă
 newtab-personalize-dialog-label =
     .aria-label = Personalizează
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Închide
     .aria-label = Închide
+    .title = Închide
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Caută
 home-prefs-stories-header2 =
-    .label = Articole
     .description = Conținut excepțional, selecționat de familia { -brand-product-name }
+    .label = Articole
 home-prefs-widgets-header =
     .label = Widgeturi
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -338,8 +338,8 @@ newtab-stocks-error-not-available = Datele despre acțiuni nu sunt disponibile.
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Opțiuni widget acțiuni
     .aria-label = Opțiuni widget acțiuni
+    .title = Opțiuni widget acțiuni
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Acțiuni
@@ -374,15 +374,15 @@ newtab-stocks-ticker-status-flat = { $name }, nicio modificare, { $change }, { $
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = Adaugă { $name } pe lista de urmărire
     .aria-label = Adaugă { $name } pe lista de urmărire
+    .title = Adaugă { $name } pe lista de urmărire
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = Elimină { $name } de pe lista de urmărire
     .aria-label = Elimină { $name } de pe lista de urmărire
+    .title = Elimină { $name } de pe lista de urmărire
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -411,8 +411,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Înapoi
     .aria-label = Înapoi
+    .title = Înapoi
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -454,14 +454,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Opțiuni pentru imaginea zilei
     .aria-label = Opțiuni pentru imaginea zilei
+    .title = Opțiuni pentru imaginea zilei
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Setează imaginea zilei ca imagine de fundal
     .label = Setează imaginea de fundal
     .title = Setează imaginea de fundal
-    .aria-label = Setează imaginea zilei ca imagine de fundal
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gestionează imaginea de fundal
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -473,8 +473,8 @@ newtab-picture-menu-show-photo = Afișează imaginea zilei
 newtab-picture-menu-learn-more = Află mai multe
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Afișează imaginea zilei
     .aria-label = Afișează imaginea zilei
+    .title = Afișează imaginea zilei
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Revino mâine pentru o imagine nouă
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -491,16 +491,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Află mai multe
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Caută
     .aria-label = Caută
+    .title = Caută
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Caută cu { $engine } sau introdu adresa
@@ -508,17 +504,17 @@ newtab-search-box-handoff-text-no-engine = Caută sau introdu adresa
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Caută cu { $engine } sau introdu adresa
     .placeholder = Caută cu { $engine } sau introdu adresa
     .title = Caută cu { $engine } sau introdu adresa
-    .aria-label = Caută cu { $engine } sau introdu adresa
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Caută sau introdu adresa
     .placeholder = Caută sau introdu adresa
     .title = Caută sau introdu adresa
-    .aria-label = Caută sau introdu adresa
 newtab-search-box-text = Caută pe web
 newtab-search-box-input =
-    .placeholder = Caută pe web
     .aria-label = Caută pe web
+    .placeholder = Caută pe web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -528,8 +524,8 @@ newtab-topsites-edit-topsites-header = Editează site-ul de top
 newtab-topsites-edit-shortcut-header = Editează comanda rapidă
 newtab-topsites-add-shortcut-label = Adaugă comanda rapidă
 newtab-topsites-add-shortcut-title =
-    .title = Adaugă comanda rapidă
     .aria-label = Adaugă comanda rapidă
+    .title = Adaugă comanda rapidă
 newtab-shortcuts-pinned-area = Zonă fixată
 newtab-topsites-title-label = Titlu
 newtab-topsites-title-input =
@@ -542,9 +538,6 @@ newtab-topsites-image-url-label = URL pentru imagine personalizată
 newtab-topsites-use-custom-image-link = Folosește o imagine personalizată
 newtab-topsites-use-image-link = Folosește o imagine personalizată…
 newtab-topsites-image-validation = Imaginea nu s-a încărcat. Încearcă o altă adresă.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Șterge textul
 
@@ -582,35 +575,35 @@ newtab-topsites-hover-card-header = Notificări de la { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Adineauri
 newtab-topsites-hover-card-mark-all-read =
-    .title = Marchează tot ca citit
     .aria-label = Marchează tot ca citit
+    .title = Marchează tot ca citit
 newtab-topsites-hover-card-settings =
-    .title = Setări privind notificările
     .aria-label = Setări privind notificările
+    .title = Setări privind notificările
 newtab-topsites-hover-card-dismiss =
-    .title = Închide
     .aria-label = Închide
+    .title = Închide
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Deschide meniul
     .aria-label = Deschide meniul
+    .title = Deschide meniul
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Elimină
     .aria-label = Elimină
+    .title = Elimină
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Deschide meniul
     .aria-label = Deschide meniul contextual pentru { $title }
+    .title = Deschide meniul
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Editează acest site
     .aria-label = Editează acest site
+    .title = Editează acest site
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -791,8 +784,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Îți mulțumim. Feedback-ul tău ne va ajuta să-ți îmbunătățim fluxul.
 newtab-toast-dismiss-button =
-    .title = Respinge
     .aria-label = Respinge
+    .title = Respinge
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -811,13 +804,13 @@ newtab-custom-shortcuts-title = Comenzi rapide
 newtab-custom-shortcuts-subtitle = Site-uri pe care le salvezi sau le vizitezi
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Comenzi rapide
     .description = Site-uri pe care le salvezi sau le vizitezi
+    .label = Comenzi rapide
 newtab-custom-shortcuts-nova =
     .label = Comenzi rapide
 newtab-custom-web-notifications-toggle =
-    .label = Notificări web
     .description = Afișează notificările de la site-uri pe comenzile lor rapide
+    .label = Notificări web
 newtab-custom-row-description =
     .description = Număr de rânduri
 # Variables
@@ -843,8 +836,8 @@ newtab-custom-pocket-title = Recomandat de { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Conținut excepțional, creat de { -pocket-brand-name }, parte a familiei { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Articole recomandate
     .description = Conținut excepțional îngrijit de familia { -brand-product-name }
+    .label = Articole recomandate
 newtab-recommended-stories-toggle =
     .label = Articole recomandate
 newtab-custom-stories-personalized-toggle =
@@ -857,8 +850,8 @@ newtab-custom-pocket-show-recent-saves = Afișează salvările recente
 newtab-custom-recent-title = Activitate recentă
 newtab-custom-recent-subtitle = O selecție de site-uri și conținut recente
 newtab-custom-weather-toggle =
-    .label = Meteo
     .description = Vremea de astăzi dintr-o privire
+    .label = Meteo
 newtab-custom-widget-weather-toggle =
     .label = Meteo
 newtab-custom-widget-lists-toggle =
@@ -885,13 +878,10 @@ newtab-widget-manage-widget-button =
     .label = Gestionează widgeturile
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Închide
     .aria-label = Închide meniul
+    .title = Închide
 newtab-custom-close-button = Închide
 newtab-custom-settings = Gestionează mai multe setări
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Aspect
 # Button that opens the full browser theme selection view.
@@ -1004,14 +994,11 @@ newtab-wallpaper-feature-highlight-content = Dă-i filei noi un aspect proaspăt
 newtab-wallpaper-feature-highlight-button = Am înțeles
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Respinge
     .aria-label = Închide pop-up-ul
+    .title = Respinge
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1038,8 +1025,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponsorizat
 newtab-weather-menu-change-location = Schimbă locația
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Caută locație
     .aria-label = Caută locație
+    .placeholder = Caută locație
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Folosește locația curentă
@@ -1083,8 +1070,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Vezi prognoza meteo în { $provider }
     .aria-description = { $provider } ∙ Sponsorizat
+    .title = Vezi prognoza meteo în { $provider }
 
 ## Topic Labels
 
@@ -1285,8 +1272,8 @@ newtab-widget-lists-menu-copy = Copiază lista în clipboard
 newtab-widget-lists-menu-learn-more = Află mai multe
 newtab-widget-lists-button-add-item = Adaugă un element
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Adaugă un element
     .aria-label = Adaugă un element
+    .placeholder = Adaugă un element
 newtab-widget-lists-input-error = Te rugăm să incluzi text ca să adaugi un element.
 newtab-widget-lists-input-menu-open-link = Deschide linkul
 newtab-widget-lists-input-menu-move-up = Mută în sus
@@ -1311,12 +1298,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Listă de sarcini
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Listă de verificare
     .aria-label = Editează denumirea listei
+    .placeholder = Listă de verificare
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Listă nouă
     .aria-label = Editează denumirea listei
+    .placeholder = Listă nouă
 newtab-widget-section-title = Widgeturi
 newtab-widget-menu-hide = Ascunde widgetul
 newtab-widget-menu-change-size = Modifică mărimea
@@ -1334,17 +1321,17 @@ newtab-widget-size-medium = Mediu
 newtab-widget-size-large = Mare
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Ascunde widgeturile
     .aria-label = Ascunde toate widgeturile
+    .title = Ascunde widgeturile
 newtab-widget-section-maximize =
-    .title = Extinde widgeturile
     .aria-label = Extinde toate widgeturile la mărimea maximă
+    .title = Extinde widgeturile
 newtab-widget-section-minimize =
-    .title = Minimizează widgeturile
     .aria-label = Minimizează toate widgeturile la mărimea compactă
+    .title = Minimizează widgeturile
 newtab-widget-section-menu-button =
-    .title = Meniu de widgeturi
     .aria-label = Deschide meniul de widgeturi
+    .title = Meniu de widgeturi
 newtab-widget-add-widgets-button =
     .aria-label = Adaugă widget
     .title = Adaugă widget
@@ -1405,11 +1392,8 @@ newtab-promo-card-title = Susține { -brand-product-name }
 newtab-promo-card-body = Sponsorii noștri ne susțin misiunea de a construi un web mai bun
 newtab-promo-card-cta = Află mai multe
 newtab-promo-card-dismiss-button =
-    .title = Respinge
     .aria-label = Respinge
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Respinge
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1480,8 +1464,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Alege o imagine de fundal
 newtab-sports-widget-skip = Omite
 newtab-sports-widget-search-country =
-    .placeholder = Caută țara
     .aria-label = Caută țara
+    .placeholder = Caută țara
 newtab-sports-widget-cancel = Anulează
 newtab-sports-widget-back-button =
     .aria-label = Înapoi
@@ -1548,8 +1532,8 @@ newtab-sports-widget-quarter-finals = Sferturi de finală
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
-    .title = Împrospătează scorurile
     .aria-label = Împrospătează scorurile
+    .title = Împrospătează scorurile
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Date importante
 newtab-sports-widget-upcoming = Evenimente viitoare
@@ -1563,10 +1547,10 @@ newtab-sports-widget-final = Finală
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Întârziat
 newtab-sports-widget-postponed = Amânat
 newtab-sports-widget-suspended = Suspendat
@@ -1704,8 +1688,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Închide
     .aria-label = Închide
+    .title = Închide
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1730,34 +1714,34 @@ newtab-clock-widget-menu-switch-to-12h = Treci la formatul de 12 ore
 newtab-clock-widget-menu-switch-to-24h = Treci la formatul de 24 de ore
 newtab-clock-widget-label-your-clocks = Ceasurile tale
 newtab-clock-widget-search-location-input =
+    .aria-label = Caută un oraș
     .label = Locație
     .placeholder = Caută un oraș
-    .aria-label = Caută un oraș
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Pseudonim (opțional)
     .label = Pseudonim (opțional)
     .placeholder = Adaugă un pseudonim
-    .aria-label = Pseudonim (opțional)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Adaugă un ceas nou
     .aria-label = Adaugă un ceas nou
+    .title = Adaugă un ceas nou
 newtab-clock-widget-button-add-clock = Adaugă
 newtab-clock-widget-button-cancel = Anulează
 newtab-clock-widget-button-back =
-    .title = Înapoi
     .aria-label = Înapoi
+    .title = Înapoi
 newtab-clock-widget-button-edit-clock =
-    .title = Editează ceasul
     .aria-label = Editează ceasul
+    .title = Editează ceasul
 newtab-clock-widget-button-save = Salvează
 newtab-clock-widget-button-remove-clock =
-    .title = Elimină ceasul
     .aria-label = Elimină ceasul
+    .title = Elimină ceasul
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1785,14 +1769,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Adaugă „{ $city }” ca ceas personalizat
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Numele orașului
     .aria-label = Numele orașului
+    .label = Numele orașului
     .placeholder = Denumește acest ceas
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Fus orar
     .aria-label = Fus orar
+    .label = Fus orar
     .placeholder = Căută după oraș, fus orar sau decalaj UTC
 newtab-clock-widget-custom-zone-results =
     .aria-label = Rezultate fus orar
@@ -1808,8 +1792,8 @@ newtab-clock-widget-search-no-results = Nicio potrivire
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Deschide meniul pentru ceas
     .aria-label = Deschide meniul pentru ceas
+    .title = Deschide meniul pentru ceas
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Pseudonim: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

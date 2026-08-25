@@ -9,8 +9,8 @@ newtab-page-title = K'ak'a' Ruwi'
 newtab-settings-button =
     .title = Tawichinaj ri ruxaq richin K'ak'a' Ruwi'
 newtab-personalize-icon-label =
-    .title = Tichinäx k'ak'a' ruwi'
     .aria-label = Tichinäx k'ak'a' ruwi'
+    .title = Tichinäx k'ak'a' ruwi'
 newtab-personalize-dialog-label =
     .aria-label = Tichinäx
 
@@ -62,8 +62,8 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Tikanöx
     .aria-label = Tikanöx
+    .title = Tikanöx
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
@@ -71,17 +71,17 @@ newtab-search-box-handoff-text-no-engine = Tikanöx chuqa' titz'ib'äx ri ochoch
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
     .placeholder = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
     .title = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
-    .aria-label = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
     .placeholder = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
     .title = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
-    .aria-label = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
 newtab-search-box-text = Tikanöx pan ajk'amaya'l
 newtab-search-box-input =
-    .placeholder = Tikanöx pan ajk'amaya'l
     .aria-label = Tikanöx pan ajk'amaya'l
+    .placeholder = Tikanöx pan ajk'amaya'l
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -123,22 +123,22 @@ newtab-topsite-sponsored = To'on
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Tijaq k'utsamaj
     .aria-label = Tijaq k'utsamaj
+    .title = Tijaq k'utsamaj
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Tiyuj
     .aria-label = Tiyuj
+    .title = Tiyuj
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Tijaq k'utsamaj
     .aria-label = Tijar ri ruk'utsamaj k'ojlem richin { $title }
+    .title = Tijaq k'utsamaj
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Tinuk' re ruxaq k'amaya'l re'
     .aria-label = Tinuk' re ruxaq k'amaya'l re'
+    .title = Tinuk' re ruxaq k'amaya'l re'
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -289,8 +289,8 @@ newtab-custom-shortcuts-title = Chojmin Okem
 newtab-custom-shortcuts-subtitle = Taq ruxaq xe'ayäk o xe'atz'ët
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Chojmin Okem
     .description = Taq ruxaq xe'ayäk o xe'atz'ët
+    .label = Chojmin Okem
 newtab-custom-shortcuts-nova =
     .label = Chojmin Okem
 # Variables

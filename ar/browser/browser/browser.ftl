@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } التصفح الخاص
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } التصفح الخاص
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } التصفح الخاص
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — التصفح الخاص
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — التصفح الخاص
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — التصفح الخاص
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = تصفح الوِب بسرعة وخصوصية
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } التصفح الخاص
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } التصفح الخاص
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } التصفح الخاص
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } التصفح الخاص
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } التصفح الخاص
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } التصفح الخاص
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } التصفح الخاص
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — التصفح الخاص
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } التصفح الخاص
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — التصفح الخاص
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — التصفح الخاص
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — التصفح الخاص
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — التصفح الخاص
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } التصفح الخاص
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -128,9 +128,6 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = أدر إعدادات إعادة التوجيه المنبثقة والجهات الخارجية…
     .accesskey = د
-
-##
-
 urlbar-identity-button =
     .aria-label = اعرض معلومات الموقع
 
@@ -317,8 +314,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = علّم هذه الصفحة ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = عرض منقسم
     .aria-label = عرض منقسم
+    .tooltiptext = عرض منقسم
 
 ## Searchbar context menu
 
@@ -371,9 +368,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = أضِف محرك البحث ”{ $engineName }“
     .label = أضِف ”{ $engineName }“
     .tooltiptext = أضِف محرك البحث ”{ $engineName }“
-    .aria-label = أضِف محرك البحث ”{ $engineName }“
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -740,32 +737,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = ابحث في الوِب
     .aria-label = ابحث مستعملًا { $name }
+    .placeholder = ابحث في الوِب
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = أدخِل نص البحث
     .aria-label = ابحث عن { $name }
+    .placeholder = أدخِل نص البحث
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = أدخِل نص البحث
     .aria-label = ابحث في العلامات
+    .placeholder = أدخِل نص البحث
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = أدخِل نص البحث
     .aria-label = ابحث في التأريخ
+    .placeholder = أدخِل نص البحث
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = أدخِل نص البحث
     .aria-label = ابحث في الألسنة
+    .placeholder = أدخِل نص البحث
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = أدخِل نص البحث
     .aria-label = إجراءات البحث
+    .placeholder = أدخِل نص البحث
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -868,7 +865,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -917,11 +914,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · مموّل
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = اسأل
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1079,10 +1071,6 @@ urlbar-searchmode-no-keyword2 =
     .title = عُطّل البحث بالكلمات المفتاحية
 urlbar-searchmode-dropmarker2 =
     .title = اختر محرك بحث
-urlbar-searchmode-bookmarks2 = العلامات
-urlbar-searchmode-tabs2 = الألسنة
-urlbar-searchmode-history2 = التأريخ
-urlbar-searchmode-actions2 = الإجراءات
 urlbar-searchmode-exit-button2 =
     .title = أغلق
 urlbar-searchmode-default2 =
@@ -1098,8 +1086,6 @@ urlbar-searchmode-popup-one-off-header = ابحث هذه المرة بـ:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = ابحث بـ:
-urlbar-searchmode-popup-search-settings-panelitem = إعدادات البحث
-urlbar-searchmode-popup-settings-panelitem = الإعدادات
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1272,9 +1258,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = العلامات
     .toolbarname = شريط العلامات
     .accesskey = ش
-    .aria-label = العلامات
 bookmarks-toolbar-menu =
     .label = شريط العلامات
 bookmarks-toolbar-placeholder =
@@ -1455,9 +1441,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = س
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1673,13 +1656,6 @@ file-picker-crashed-open = انهار مربع حوار ملف ويندوز. ل�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = انهار مربع حوار ملف ويندوز. سيتم حفظ الملف في { $path }.
 file-picker-crashed-save-nowhere = انهار مربع حوار ملف ويندوز. لم يتم العثور على المجلد المبدئي؛ ولن يُحفظ الملف.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = اعرض في المجلد
     .accessKey = م
@@ -1732,9 +1708,6 @@ trustpanel-blocker-see-all = اعرض الكل
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = حماية التتبع لـ { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

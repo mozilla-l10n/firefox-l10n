@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = زانیاری مالپەڕ پیشان بدە
 
@@ -247,28 +244,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = بە وێبدا بگەڕێ
     .aria-label = بگەڕێ لەگەڵ { $name }
+    .placeholder = بە وێبدا بگەڕێ
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە { $name }
+    .placeholder = دەقی گەڕان بنووسە
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە دڵخوازەکان
+    .placeholder = دەقی گەڕان بنووسە
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە مێژوو
+    .placeholder = دەقی گەڕان بنووسە
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە بازدەرەکان
+    .placeholder = دەقی گەڕان بنووسە
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -333,9 +330,6 @@ urlbar-searchmode-tabs =
     .label = بازدەرەکان
 urlbar-searchmode-history =
     .label = مێژوو
-urlbar-searchmode-bookmarks2 = دڵخوازەکان
-urlbar-searchmode-tabs2 = بازدەرەکان
-urlbar-searchmode-history2 = مێژوو
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -416,9 +410,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = دڵخوازەکان
     .toolbarname = توڵامرازی دڵخوازەکان
     .accesskey = B
-    .aria-label = دڵخوازەکان
 bookmarks-toolbar-menu =
     .label = توڵامرازی دڵخوازەکان
 bookmarks-toolbar-placeholder =
@@ -485,9 +479,6 @@ picture-in-picture-hide-toggle =
     .accesskey = H
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

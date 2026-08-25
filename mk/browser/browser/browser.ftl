@@ -15,9 +15,6 @@ browser-shortcut-description = Брзи и приватно прелистува
 edit-popup-settings2 =
     .label = Управувај со поставките за скокачки прозорци и пренасочувања од трети страни…
     .accesskey = У
-
-##
-
 urlbar-identity-button =
     .aria-label = Видете ги информациите за веб-сајтот
 
@@ -168,9 +165,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Додајте пребарувач „{ $engineName }“
     .label = Додадете „{ $engineName }“
     .tooltiptext = Додајте пребарувач „{ $engineName }“
-    .aria-label = Додајте пребарувач „{ $engineName }“
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -374,28 +371,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Пребарајте на Интернет
     .aria-label = Пребарај со { $name }
+    .placeholder = Пребарајте на Интернет
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Внесете термини за пребарување
     .aria-label = Пребарај { $name }
+    .placeholder = Внесете термини за пребарување
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Внесете термини за пребарување
     .aria-label = Пребарајте обележувачи
+    .placeholder = Внесете термини за пребарување
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Внесете термини за пребарување
     .aria-label = Историја на пребарување
+    .placeholder = Внесете термини за пребарување
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Внесете термини за пребарување
     .aria-label = Јазичиња за пребарување
+    .placeholder = Внесете термини за пребарување
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -475,9 +472,6 @@ urlbar-searchmode-tabs =
     .label = Јазичиња
 urlbar-searchmode-history =
     .label = Историја
-urlbar-searchmode-bookmarks2 = Обележувачи
-urlbar-searchmode-tabs2 = Јазичиња
-urlbar-searchmode-history2 = Историја
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -576,9 +570,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Обележувачи
     .toolbarname = Алатник со обележувачи
     .accesskey = Б
-    .aria-label = Обележувачи
 bookmarks-toolbar-menu =
     .label = Алатник со обележувачи
 bookmarks-toolbar-placeholder =
@@ -699,9 +693,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = Л
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

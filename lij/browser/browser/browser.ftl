@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Navegaçion privâ
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Navegaçion privâ
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Navegaçion privâ
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Navegaçion privâ
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Navegaçion privâ
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navegaçion privâ
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,14 +67,14 @@ private-browsing-shortcut-text-2 = { -brand-shortcut-name } Navegaçion privâ
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name }  Navegaçion Privâ
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navegaçion Privâ
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Navegaçion Privâ
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Navegaçion Privâ
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Navegaçion Privâ
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name }  Navegaçion Privâ
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navegaçion Privâ
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -99,14 +99,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Navegaçion Privâ
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navegaçion Privâ
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Navegaçion Privâ
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — Navegaçion Privâ
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navegaçion Privâ
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navegaçion Privâ
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navegaçion Privâ
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -120,9 +120,6 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navegaçion Privâ
-
-##
-
 urlbar-identity-button =
     .aria-label = Fanni vedde informaçioin in sciô scito
 
@@ -563,8 +560,8 @@ urlbar-placeholder-search-mode-web-2 =
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Scrivi termini de riçerca
     .aria-label = Çerca { $name }
+    .placeholder = Scrivi termini de riçerca
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .aria-label = Çerca segnalibbri
@@ -622,8 +619,6 @@ urlbar-searchmode-history =
     .label = Stöia
 urlbar-searchmode-actions =
     .label = Açioin
-urlbar-searchmode-history2 = Stöia
-urlbar-searchmode-actions2 = Açioin
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -787,9 +782,6 @@ popups-infobar-dont-show-message =
     .accesskey = N
 
 ##
-
-
-# Navigator Toolbox
 
 navbar-downloads =
     .label = Descaregamenti

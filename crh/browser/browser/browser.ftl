@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = Sayt malümatını kör
 
@@ -364,9 +361,6 @@ popups-infobar-dont-show-message =
     .accesskey = d
 
 ##
-
-
-# Navigator Toolbox
 
 navbar-downloads =
     .label = Endirmeler

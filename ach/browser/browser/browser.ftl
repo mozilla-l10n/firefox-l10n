@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = Nen ngec ikom kakube
 
@@ -137,9 +134,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Med ingin yeny “{ $engineName }”
     .label = Med “{ $engineName }”
     .tooltiptext = Med ingin yeny “{ $engineName }”
-    .aria-label = Med ingin yeny “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -323,9 +320,6 @@ urlbar-searchmode-tabs =
     .label = Dirica matino
 urlbar-searchmode-history =
     .label = Gin mukato
-urlbar-searchmode-bookmarks2 = Alama buk
-urlbar-searchmode-tabs2 = Dirica matino
-urlbar-searchmode-history2 = Gin mukato
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -418,9 +412,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Alamabuk
     .toolbarname = Gintic me alama buk
     .accesskey = G
-    .aria-label = Alamabuk
 bookmarks-toolbar-menu =
     .label = Gintic me alama buk
 bookmarks-toolbar-placeholder =
@@ -495,9 +489,6 @@ popups-infobar-dont-show-message =
     .accesskey = D
 
 ##
-
-
-# Navigator Toolbox
 
 navbar-downloads =
     .label = Gam

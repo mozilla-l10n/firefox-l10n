@@ -11,8 +11,8 @@ newtab-settings-button =
 newtab-settings-dialog-label =
     .aria-label = అమరికలు
 newtab-personalize-icon-label =
-    .title = కొత్త ట్యాబును వ్యక్తిగతీకరించుకోండి
     .aria-label = కొత్త ట్యాబును వ్యక్తిగతీకరించుకోండి
+    .title = కొత్త ట్యాబును వ్యక్తిగతీకరించుకోండి
 newtab-personalize-dialog-label =
     .aria-label = వ్యక్తిగతీకరించు
 newtab-logo-and-wordmark =
@@ -64,8 +64,8 @@ home-prefs-weather-header-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = వెతకండి
     .aria-label = వెతకండి
+    .title = వెతకండి
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
@@ -73,17 +73,17 @@ newtab-search-box-handoff-text-no-engine = వెతకండి లేదా �
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
     .placeholder = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
     .title = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
-    .aria-label = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = వెతకండి లేదా చిరునామాను ఇవ్వండి
     .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
     .title = వెతకండి లేదా చిరునామాను ఇవ్వండి
-    .aria-label = వెతకండి లేదా చిరునామాను ఇవ్వండి
 newtab-search-box-text = జాలంలో వెతకండి
 newtab-search-box-input =
-    .placeholder = జాలంలో వెతకండి
     .aria-label = జాలంలో వెతకండి
+    .placeholder = జాలంలో వెతకండి
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -123,22 +123,22 @@ newtab-topsite-sponsored = ప్రాయోజితం
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = మెనూని తెరువు
     .aria-label = మెనూని తెరువు
+    .title = మెనూని తెరువు
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = తీసివేయి
     .aria-label = తీసివేయి
+    .title = తీసివేయి
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = మెనూని తెరువు
     .aria-label = { $title } కోసం సందర్భోచిత మెనూని తెరవు
+    .title = మెనూని తెరువు
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = ఈ సైటును మార్చు
     .aria-label = ఈ సైటును మార్చు
+    .title = ఈ సైటును మార్చు
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -304,8 +304,8 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-pocket-sponsored = ప్రాయోజిక కథనాలు
 newtab-custom-recent-title = ఇటీవలి కార్యకలాపం
 newtab-custom-weather-toggle =
-    .label = వాతావరణం
     .description = నేటి వాతావరణ అంచనా
+    .label = వాతావరణం
 newtab-custom-widget-lists-toggle =
     .label = జాబితాలు
 newtab-custom-close-button = మూసివేయి

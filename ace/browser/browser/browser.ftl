@@ -96,9 +96,6 @@ ui-tour-info-panel-close =
 
 ##
 
-
-# Navigator Toolbox
-
 navbar-downloads =
     .label = Beureukaih teukeubah
 navbar-overflow =

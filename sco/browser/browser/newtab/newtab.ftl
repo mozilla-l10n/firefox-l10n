@@ -9,8 +9,8 @@ newtab-page-title = New Tab
 newtab-settings-button =
     .title = Mak yer New Tab page yer ain
 newtab-personalize-icon-label =
-    .title = Personalise new tab
     .aria-label = Personalise new tab
+    .title = Personalise new tab
 newtab-personalize-dialog-label =
     .aria-label = Personalise
 
@@ -60,8 +60,8 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Sairch
     .aria-label = Sairch
+    .title = Sairch
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Sairch wi { $engine } or inpit address
@@ -69,17 +69,17 @@ newtab-search-box-handoff-text-no-engine = Sairch or inpit address
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Sairch wi { $engine } or inpit address
     .placeholder = Sairch wi { $engine } or inpit address
     .title = Sairch wi { $engine } or inpit address
-    .aria-label = Sairch wi { $engine } or inpit address
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Sairch or inpit address
     .placeholder = Sairch or inpit address
     .title = Sairch or inpit address
-    .aria-label = Sairch or inpit address
 newtab-search-box-text = Sairch the wab
 newtab-search-box-input =
-    .placeholder = Sairch the wab
     .aria-label = Sairch the wab
+    .placeholder = Sairch the wab
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -121,22 +121,22 @@ newtab-topsite-sponsored = Sponsored
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Open menu
     .aria-label = Open menu
+    .title = Open menu
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Remuive
     .aria-label = Remuive
+    .title = Remuive
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Open menu
     .aria-label = Open context menu fur { $title }
+    .title = Open menu
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Edit this site
     .aria-label = Edit this site
+    .title = Edit this site
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -281,8 +281,8 @@ newtab-custom-shortcuts-title = Shortcuts
 newtab-custom-shortcuts-subtitle = Sites ye save or veesit
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Shortcuts
     .description = Sites ye save or veesit
+    .label = Shortcuts
 newtab-custom-shortcuts-nova =
     .label = Shortcuts
 # Variables

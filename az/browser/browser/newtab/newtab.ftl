@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Özəlləşdir
 newtab-customize-panel-label =
     .label = Özəlləşdir
 newtab-personalize-settings-icon-label =
-    .title = Yeni Vərəqi Fərdiləşdirin
     .aria-label = Tənzimləmələr
+    .title = Yeni Vərəqi Fərdiləşdirin
 newtab-settings-dialog-label =
     .aria-label = Tənzimləmələr
 newtab-personalize-icon-label =
-    .title = Yeni vərəqi fərdiləşdir
     .aria-label = Yeni vərəqi fərdiləşdir
+    .title = Yeni vərəqi fərdiləşdir
 newtab-personalize-dialog-label =
     .aria-label = Fərdiləşdir
 
@@ -52,8 +52,8 @@ home-custom-homepage-address-button =
 home-custom-homepage-no-results =
     .label = Hələ vebsayt əlavə edilməyib.
 home-custom-homepage-delete-address-button =
-    .title = Ünvanı sil
     .aria-label = Ünvanı sil
+    .title = Ünvanı sil
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -67,8 +67,8 @@ home-custom-homepage-bookmarks-button =
 home-prefs-search-header2 =
     .label = Axtarış
 home-prefs-stories-header2 =
-    .label = Hekayələr
     .description = { -brand-product-name } ailəsi tərəfindən seçilmiş xüsusi məzmun
+    .label = Hekayələr
 home-prefs-widgets-header =
     .label = Vicetlər
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -131,8 +131,8 @@ newtab-picture-header-main = Günün şəkli
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Axtar
     .aria-label = Axtar
+    .title = Axtar
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } ilə axtarın və ya ünvanı daxil edin
@@ -140,13 +140,13 @@ newtab-search-box-handoff-text-no-engine = Ünvanı daxil et və ya axtar
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
-    .title = { $engine } ilə axtarın və ya ünvanı daxil edin
     .aria-label = { $engine } ilə axtarın və ya ünvanı daxil edin
     .placeholder = { $engine } ilə axtarın və ya ünvanı daxil edin
+    .title = { $engine } ilə axtarın və ya ünvanı daxil edin
 newtab-search-box-handoff-input-no-engine =
-    .title = Axtar və ya ünvanı daxil et
     .aria-label = Axtar və ya ünvanı daxil et
     .placeholder = Axtar və ya ünvanı daxil et
+    .title = Axtar və ya ünvanı daxil et
 newtab-search-box-text = İnternetdə axtar
 newtab-search-box-input =
     .aria-label = İnternetdə axtar
@@ -187,18 +187,18 @@ newtab-confirm-delete-history-p2 = Bu əməliyyat geri alına bilməz.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Menyunu aç
     .aria-label = Menyunu aç
+    .title = Menyunu aç
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Menyunu aç
     .aria-label = { $title } üçün kontekst menyusunu aç
+    .title = Menyunu aç
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Bu saytı düzəlt
     .aria-label = Bu saytı düzəlt
+    .title = Bu saytı düzəlt
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -317,9 +317,6 @@ newtab-custom-widget-section-toggle =
 newtab-widget-manage-title = Vicetlər
 newtab-widget-manage-widget-button =
     .label = Vicetləri idarə et
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Görünüş
 # Button that opens the full browser theme selection view.
@@ -347,17 +344,17 @@ newtab-wallpaper-toggle-title =
 newtab-widget-section-title = Vicetlər
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Vicetləri gizlət
     .aria-label = Bütün vicetləri gizlət
+    .title = Vicetləri gizlət
 newtab-widget-section-maximize =
-    .title = Vicetləri genişləndir
     .aria-label = Bütün vicetləri tam ölçüyə genişləndir
+    .title = Vicetləri genişləndir
 newtab-widget-section-minimize =
-    .title = Vicetləri kiçilt
     .aria-label = Bütün vicetləri yığcam ölçüyə sal
+    .title = Vicetləri kiçilt
 newtab-widget-section-menu-button =
-    .title = Vicetlər menyusu
     .aria-label = Vicetlər menyusunu aç
+    .title = Vicetlər menyusu
 newtab-widget-section-menu-manage = Vicetləri idarə et
 newtab-widget-section-menu-hide-all = Vicetləri gizlət
 # Button shown when additional widgets are hidden beyond the

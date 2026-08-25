@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } निजी ब्राउजिङ
     .data-content-title-default = { $content-title }—{ -brand-full-name }
     .data-content-title-private = { $content-title }—{ -brand-full-name } निजी ब्राउजिङ
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } निजी ब्राउजिङ
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name }—निजी ब्राउजिङ
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title }—निजी ब्राउजिङ
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name }—निजी ब्राउजिङ
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -48,9 +48,6 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } निजी ब्राउजिङ
-
-##
-
 urlbar-identity-button =
     .aria-label = साइट जानकारी हेर्नुहोस्
 
@@ -233,9 +230,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = "{ $engineName }" थप्नुहोस्
     .label = "{ $engineName }" थप्नुहोस्
     .tooltiptext = "{ $engineName }" थप्नुहोस्
-    .aria-label = "{ $engineName }" थप्नुहोस्
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -513,32 +510,32 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = वेबमा खोजी गर्नुहोस्
     .aria-label = { $name } को साथ खोज्नुहोस्
+    .placeholder = वेबमा खोजी गर्नुहोस्
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = खोजी स्ट्रिङ प्रविष्ट गर्नुहोस्
     .aria-label = { $name } खोज्नुहोस्
+    .placeholder = खोजी स्ट्रिङ प्रविष्ट गर्नुहोस्
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
     .aria-label = बुकमार्कहरू खोज्नुहोस्
+    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
     .aria-label = इतिहास खोज्नुहोस्
+    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
     .aria-label = ट्याबहरू खोज्नुहोस्
+    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
     .aria-label = खोजी कार्यहरू
+    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -632,10 +629,6 @@ urlbar-searchmode-history =
     .label = इतिहास
 urlbar-searchmode-actions =
     .label = कार्य
-urlbar-searchmode-bookmarks2 = बुकमार्कहरु
-urlbar-searchmode-tabs2 = ट्याबहरू
-urlbar-searchmode-history2 = इतिहास
-urlbar-searchmode-actions2 = कार्य
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -786,9 +779,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = बुकमार्कहरू
     .toolbarname = बुकमार्क उपकरणपट्टी
     .accesskey = B
-    .aria-label = बुकमार्कहरू
 bookmarks-toolbar-menu =
     .label = पुस्तकचिनो उपकरणपट्टि
 bookmarks-toolbar-placeholder =
@@ -915,9 +908,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1080,13 +1070,6 @@ file-picker-crashed-open = Windows फाइल-संवाद क्र्य�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows फाइल-संवाद क्र्यास भएको छ। फाइल { $path } मा सुरक्षित हुनेछ।
 file-picker-crashed-save-nowhere = Windows फाइल-संवाद क्र्यास भएको छ। कुनै पूर्वनिर्धारित फोल्डर फेला परेन; फाइल बचत हुनेछैन।
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = फोल्डरमा देखाउनुहोस्
     .accessKey = F

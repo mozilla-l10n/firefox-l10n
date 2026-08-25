@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Brabhsáil Phríobháideach
     .data-content-title-default = { $content-title }—{ -brand-full-name }
     .data-content-title-private = { $content-title }—{ -brand-full-name } Brabhsáil Phríobháideach
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Brabhsáil Phríobháideach
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,18 +36,15 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Brabhsáil Phríobháideach
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } —Brabhsáil Phríobháideach
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Brabhsáil Phríobháideach
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = Eolas faoin suíomh
 
@@ -206,9 +203,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Cuir an t-inneall cuardaigh “{ $engineName }” leis
     .label = Cuir “{ $engineName }” leis
     .tooltiptext = Cuir an t-inneall cuardaigh “{ $engineName }” leis
-    .aria-label = Cuir an t-inneall cuardaigh “{ $engineName }” leis
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -378,28 +375,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Cuardaigh an Gréasán
     .aria-label = Cuardaigh le { $name }
+    .placeholder = Cuardaigh an Gréasán
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Cuir isteach focail le cuardach
     .aria-label = Cuardaigh { $name }
+    .placeholder = Cuir isteach focail le cuardach
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Cuir isteach focail le cuardach
     .aria-label = Cuardaigh na leabharmharcanna
+    .placeholder = Cuir isteach focail le cuardach
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Cuir isteach focail le cuardach
     .aria-label = Cuardaigh san oireas
+    .placeholder = Cuir isteach focail le cuardach
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Cuir isteach focail le cuardach
     .aria-label = Cuardaigh sna cluaisíní
+    .placeholder = Cuir isteach focail le cuardach
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -475,7 +472,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -532,10 +529,6 @@ urlbar-searchmode-button-no-engine2 =
     .title = Níor roghnaíodh aicearra. Roghnaigh aicearra.
 urlbar-searchmode-dropmarker2 =
     .title = Roghnaigh inneall cuardaigh
-urlbar-searchmode-bookmarks2 = Leabharmharcanna
-urlbar-searchmode-tabs2 = Cluaisíní
-urlbar-searchmode-history2 = Oireas
-urlbar-searchmode-actions2 = Gníomhartha
 urlbar-searchmode-exit-button2 =
     .title = Dún
 # Shown when adding new search engines from the search mode switcher.
@@ -546,7 +539,6 @@ urlbar-searchmode-popup-add-engine = Cuir “{ $engineName }” leis
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = An uair seo, cuardaigh le:
-urlbar-searchmode-popup-search-settings-panelitem = Socruithe Cuardaigh
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -656,9 +648,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Leabharmharcanna
     .toolbarname = Barra Leabharmharc
     .accesskey = L
-    .aria-label = Leabharmharcanna
 bookmarks-toolbar-menu =
     .label = Barra leabharmharc
 bookmarks-toolbar-placeholder =
@@ -760,9 +752,6 @@ picture-in-picture-hide-toggle =
     .accesskey = F
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -889,13 +878,6 @@ popup-show-popup-menuitem =
     .label = Taispeáin “{ $popupURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
 
 file-picker-crashed-show-in-folder =
     .label = Taispeáin san Fhillteán

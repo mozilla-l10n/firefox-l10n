@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } प्राइवेट ब्रॉउजिंग
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } प्राइवेट ब्रॉउजिंग
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } प्राइवेट ब्रॉउजिंग
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — प्राइवेट ब्रॉउजिंग
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — प्राइवेट ब्रॉउजिंग
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — प्राइवेट ब्रॉउजिंग
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -48,9 +48,6 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } प्राइवेट ब्रॉउजिंग
-
-##
-
 urlbar-identity-button =
     .aria-label = साइट केर जानकारी देखू
 
@@ -198,9 +195,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = खोज इंजिन जोड़ू“{ $engineName }”
     .label = जोड़ू“{ $engineName }”
     .tooltiptext = खोज इंजिन जोड़ू “{ $engineName }”
-    .aria-label = खोज इंजिन जोड़ू“{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -309,9 +306,6 @@ urlbar-searchmode-tabs =
     .label = टैब
 urlbar-searchmode-history =
     .label = इतिहास
-urlbar-searchmode-bookmarks2 = पुस्तकचिह्न
-urlbar-searchmode-tabs2 = टैब
-urlbar-searchmode-history2 = इतिहास
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -418,9 +412,6 @@ popups-infobar-dont-show-message =
     .accesskey = D
 
 ##
-
-
-# Navigator Toolbox
 
 navbar-downloads =
     .label = डाउनलोड

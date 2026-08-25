@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = navegacion privada { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — navegacion privada { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-private = navegacion privada { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Navegacion privada
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Navegacion privada
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navegacion privada
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,14 +67,14 @@ private-browsing-shortcut-text-2 = Navegacion privada de { -brand-shortcut-name 
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } navegacion privada
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Navegacion privada { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Navegacion privada { -brand-full-name }
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — Navegacion privada { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navegacion privada { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } navegacion privada
+    .data-title-private-with-profile = { $profile-name } — Navegacion privada { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -99,14 +99,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Navegacion privada
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Navegacion privada { -brand-full-name }
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Navegacion privada
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — Navegacion privada
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navegacion privada
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navegacion privada
+    .data-title-private-with-profile = { $profile-name } — Navegacion privada { -brand-full-name }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -117,9 +117,6 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Navegacion privada
        *[other] { -brand-full-name } navegacion privada
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Afichar las informacions sul site internet
 
@@ -302,9 +299,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Apondre lo motor de recèrca « { $engineName } »
     .label = Apondre « { $engineName } »
     .tooltiptext = Apondre lo motor de recèrca « { $engineName } »
-    .aria-label = Apondre lo motor de recèrca « { $engineName } »
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -581,32 +578,32 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Recèrca sul web
     .aria-label = Recercar amb { $name }
+    .placeholder = Recèrca sul web
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Picatz un tèrme de recèrca
     .aria-label = Recercar sus { $name }
+    .placeholder = Picatz un tèrme de recèrca
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Picatz un tèrme de recèrca
     .aria-label = Recercar pels marcapaginas
+    .placeholder = Picatz un tèrme de recèrca
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Picatz un tèrme de recèrca
     .aria-label = Recercar per l’istoric
+    .placeholder = Picatz un tèrme de recèrca
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Picatz un tèrme de recèrca
     .aria-label = Recercar pels onglets
+    .placeholder = Picatz un tèrme de recèrca
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Picatz de tèrmes de recèrca
     .aria-label = Accions de recèrca
+    .placeholder = Picatz de tèrmes de recèrca
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -739,10 +736,6 @@ urlbar-searchmode-button3 =
     .title = { $engine }, seleccionar un motor de recèrca
 urlbar-searchmode-dropmarker2 =
     .title = Causir un motor de recèrca
-urlbar-searchmode-bookmarks2 = Marcapaginas
-urlbar-searchmode-tabs2 = Onglets
-urlbar-searchmode-history2 = Istoric
-urlbar-searchmode-actions2 = Accions
 urlbar-searchmode-exit-button2 =
     .title = Tampar
 # Shown when adding new search engines from the search mode switcher.
@@ -753,7 +746,6 @@ urlbar-searchmode-popup-add-engine = Apondre « { $engineName } »
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Aqueste còp, recercar amb :
-urlbar-searchmode-popup-search-settings-panelitem = Paramètres de recèrca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -899,9 +891,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Marcapaginas
     .toolbarname = Barra personala
     .accesskey = B
-    .aria-label = Marcapaginas
 bookmarks-toolbar-menu =
     .label = Barra personala
 bookmarks-toolbar-placeholder =
@@ -1031,9 +1023,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = D
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1195,13 +1184,6 @@ popup-show-popup-menuitem =
     .label = Afichar « { $popupURI } »
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
 
 file-picker-crashed-show-in-folder =
     .label = Mostrar dins lo dossièr

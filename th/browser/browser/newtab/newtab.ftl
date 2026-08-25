@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = ปรับแต่ง
 newtab-customize-panel-label =
     .label = ปรับแต่ง
 newtab-personalize-settings-icon-label =
-    .title = ปรับแต่งแท็บใหม่
     .aria-label = การตั้งค่า
+    .title = ปรับแต่งแท็บใหม่
 newtab-settings-dialog-label =
     .aria-label = การตั้งค่า
 newtab-personalize-icon-label =
-    .title = ปรับแท็บใหม่ให้เป็นส่วนตัว
     .aria-label = ปรับแท็บใหม่ให้เป็นส่วนตัว
+    .title = ปรับแท็บใหม่ให้เป็นส่วนตัว
 newtab-personalize-dialog-label =
     .aria-label = ปรับให้เป็นแบบส่วนตัว
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = ปิด
     .aria-label = ปิด
+    .title = ปิด
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = ค้นหา
 home-prefs-stories-header2 =
-    .label = เรื่องราว
     .description = เนื้อหาคัดสรรพิเศษโดยผลิตภัณฑ์ตระกูล { -brand-product-name }
+    .label = เรื่องราว
 home-prefs-widgets-header =
     .label = วิดเจ็ต
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -201,37 +201,12 @@ newtab-privacy-message-info-2-cta = ดูการป้องกัน
 newtab-privacy-message-info-3 = หลายเว็บไซต์มีตัวติดตาม ทำให้บริษัทที่คุณไม่เคยเข้าเยี่ยมชมไซต์สามารถติดตามคุณทางออนไลน์ได้
 newtab-privacy-message-info-3-cta = ดูการป้องกัน
 
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = ค้นหาสัญลักษณ์ย่อหลักทรัพย์
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = เรียนรู้เพิ่มเติม
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
 
 ## Strings for the Picture of the Day widget
 
@@ -241,9 +216,9 @@ newtab-picture-header = ภาพประจำวัน · วิกิมี�
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = ตั้งค่าภาพประจำวันนี้เป็นรูปพื้นหลังของคุณ
     .label = ตั้งค่ารูปพื้นหลัง
     .title = ตั้งค่ารูปพื้นหลัง
-    .aria-label = ตั้งค่าภาพประจำวันนี้เป็นรูปพื้นหลังของคุณ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = จัดการรูปพื้นหลัง
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -254,19 +229,12 @@ newtab-picture-menu-show-photo = แสดงภาพประจำวัน�
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = เรียนรู้เพิ่มเติม
 
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = ค้นหา
     .aria-label = ค้นหา
+    .title = ค้นหา
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ค้นหาด้วย { $engine } หรือป้อนที่อยู่
@@ -274,17 +242,17 @@ newtab-search-box-handoff-text-no-engine = ค้นหาหรือป้อ�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = ค้นหาด้วย { $engine } หรือป้อนที่อยู่
     .placeholder = ค้นหาด้วย { $engine } หรือป้อนที่อยู่
     .title = ค้นหาด้วย { $engine } หรือป้อนที่อยู่
-    .aria-label = ค้นหาด้วย { $engine } หรือป้อนที่อยู่
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = ค้นหาหรือป้อนที่อยู่
     .placeholder = ค้นหาหรือป้อนที่อยู่
     .title = ค้นหาหรือป้อนที่อยู่
-    .aria-label = ค้นหาหรือป้อนที่อยู่
 newtab-search-box-text = ค้นหาเว็บ
 newtab-search-box-input =
-    .placeholder = ค้นหาเว็บ
     .aria-label = ค้นหาเว็บ
+    .placeholder = ค้นหาเว็บ
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -294,8 +262,8 @@ newtab-topsites-edit-topsites-header = แก้ไขไซต์เด่น
 newtab-topsites-edit-shortcut-header = แก้ไขทางลัด
 newtab-topsites-add-shortcut-label = เพิ่มทางลัด
 newtab-topsites-add-shortcut-title =
-    .title = เพิ่มทางลัด
     .aria-label = เพิ่มทางลัด
+    .title = เพิ่มทางลัด
 newtab-topsites-title-label = ชื่อเรื่อง
 newtab-topsites-title-input =
     .placeholder = ป้อนชื่อเรื่อง
@@ -307,9 +275,6 @@ newtab-topsites-image-url-label = URL ภาพกำหนดเอง
 newtab-topsites-use-custom-image-link = ใช้ภาพกำหนดเอง
 newtab-topsites-use-image-link = ใช้ภาพกำหนดเอง…
 newtab-topsites-image-validation = ไม่สามารถโหลดภาพ ลอง URL อื่น
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = ล้างข้อความ
 
@@ -339,29 +304,26 @@ topsite-label-pinned =
     .aria-label = { $title } (ปักหมุดอยู่)
     .title = { $title }
 
-## Top Sites - Web notifications hover card
-
-
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = เปิดเมนู
     .aria-label = เปิดเมนู
+    .title = เปิดเมนู
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = เอาออก
     .aria-label = เอาออก
+    .title = เอาออก
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = เปิดเมนู
     .aria-label = เปิดเมนูบริบทสำหรับ { $title }
+    .title = เปิดเมนู
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = แก้ไขไซต์นี้
     .aria-label = แก้ไขไซต์นี้
+    .title = แก้ไขไซต์นี้
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -545,8 +507,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = ขอบคุณ ความคิดเห็นของคุณจะช่วยเราปรับปรุงฟีดของคุณให้ดีขึ้น
 newtab-toast-dismiss-button =
-    .title = ปิด
     .aria-label = ปิด
+    .title = ปิด
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -565,8 +527,8 @@ newtab-custom-shortcuts-title = ทางลัด
 newtab-custom-shortcuts-subtitle = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = ทางลัด
     .description = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
+    .label = ทางลัด
 newtab-custom-shortcuts-nova =
     .label = ทางลัด
 newtab-custom-row-description =
@@ -590,8 +552,8 @@ newtab-custom-pocket-title = แนะนำโดย { -pocket-brand-name }
 newtab-custom-pocket-subtitle = เนื้อหาคัดสรรพิเศษโดย { -pocket-brand-name } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = เรื่องราวแนะนำ
     .description = เนื้อหาคัดสรรพิเศษโดยผลิตภัณฑ์ตระกูล { -brand-product-name }
+    .label = เรื่องราวแนะนำ
 newtab-recommended-stories-toggle =
     .label = เรื่องราวแนะนำ
 newtab-custom-stories-personalized-toggle =
@@ -604,8 +566,8 @@ newtab-custom-pocket-show-recent-saves = แสดงบันทึกล่า
 newtab-custom-recent-title = กิจกรรมล่าสุด
 newtab-custom-recent-subtitle = ไซต์และเนื้อหาล่าสุดที่คัดสรรมา
 newtab-custom-weather-toggle =
-    .label = พยากรณ์อากาศ
     .description = ดูพยากรณ์อากาศประจำวันนี้ได้อย่างรวดเร็ว
+    .label = พยากรณ์อากาศ
 newtab-custom-widget-weather-toggle =
     .label = พยากรณ์อากาศ
 newtab-custom-widget-lists-toggle =
@@ -624,13 +586,10 @@ newtab-widget-manage-widget-button =
     .label = จัดการวิดเจ็ต
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = ปิด
     .aria-label = ปิดเมนู
+    .title = ปิด
 newtab-custom-close-button = ปิด
 newtab-custom-settings = จัดการการตั้งค่าเพิ่มเติม
-
-## New Tab Appearance (browser theme picker)
-
 
 ## New Tab Wallpapers
 
@@ -723,14 +682,11 @@ newtab-wallpaper-feature-highlight-content = เปลี่ยนโฉมแ�
 newtab-wallpaper-feature-highlight-button = เข้าใจแล้ว
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = ปิด
     .aria-label = ปิดป็อปอัป
+    .title = ปิด
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -757,8 +713,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = สนับสนุนโดย { $provider }
 newtab-weather-menu-change-location = เปลี่ยนตำแหน่งที่ตั้ง
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = ค้นหาตำแหน่งที่ตั้ง
     .aria-label = ค้นหาตำแหน่งที่ตั้ง
+    .placeholder = ค้นหาตำแหน่งที่ตั้ง
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = ใช้ตำแหน่งที่ตั้งปัจจุบัน
@@ -802,8 +758,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = ดูพยากรณ์ใน { $provider }
     .aria-description = สนับสนุนโดย { $provider }
+    .title = ดูพยากรณ์ใน { $provider }
 
 ## Topic Labels
 
@@ -1004,8 +960,8 @@ newtab-widget-lists-menu-copy = คัดลอกรายการไปยั
 newtab-widget-lists-menu-learn-more = เรียนรู้เพิ่มเติม
 newtab-widget-lists-button-add-item = เพิ่มงาน
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = เพิ่มงาน
     .aria-label = เพิ่มงาน
+    .placeholder = เพิ่มงาน
 newtab-widget-lists-input-error = โปรดระบุข้อความเพื่อเพิ่มงาน
 newtab-widget-lists-input-menu-open-link = เปิดลิงก์
 newtab-widget-lists-input-menu-move-up = เลื่อนขึ้น
@@ -1027,12 +983,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = รายการงาน
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = รายการตรวจสอบ
     .aria-label = แก้ไขชื่อรายการ
+    .placeholder = รายการตรวจสอบ
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = รายการใหม่
     .aria-label = แก้ไขชื่อรายการ
+    .placeholder = รายการใหม่
 newtab-widget-section-title = วิดเจ็ต
 newtab-widget-menu-hide = ซ่อนวิดเจ็ต
 newtab-widget-menu-change-size = เปลี่ยนขนาด
@@ -1050,17 +1006,17 @@ newtab-widget-size-medium = ปานกลาง
 newtab-widget-size-large = ใหญ่
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = ซ่อนวิดเจ็ต
     .aria-label = ซ่อนวิดเจ็ตทั้งหมด
+    .title = ซ่อนวิดเจ็ต
 newtab-widget-section-maximize =
-    .title = ขยายวิดเจ็ต
     .aria-label = ขยายวิดเจ็ตทั้งหมดให้เต็มขนาด
+    .title = ขยายวิดเจ็ต
 newtab-widget-section-minimize =
-    .title = ย่อขนาดวิดเจ็ด
     .aria-label = ยุบวิดเจ็ตทั้งหมดให้เป็นขนาดกะทัดรัด
+    .title = ย่อขนาดวิดเจ็ด
 newtab-widget-section-menu-button =
-    .title = เมนูวิดเจ็ต
     .aria-label = เปิดเมนูวิดเจ็ต
+    .title = เมนูวิดเจ็ต
 newtab-widget-add-widgets-button =
     .aria-label = เพิ่มวิดเจ็ต
     .title = เพิ่มวิดเจ็ต
@@ -1119,11 +1075,8 @@ newtab-promo-card-title = ร่วมสนับสนุน { -brand-product-
 newtab-promo-card-body = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
 newtab-promo-card-cta = เรียนรู้เพิ่มเติม
 newtab-promo-card-dismiss-button =
-    .title = ปิด
     .aria-label = ปิด
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = ปิด
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1179,8 +1132,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = เลือกรูปพื้นหลัง
 newtab-sports-widget-skip = ข้าม
 newtab-sports-widget-search-country =
-    .placeholder = ค้นหาประเทศ
     .aria-label = ค้นหาประเทศ
+    .placeholder = ค้นหาประเทศ
 newtab-sports-widget-cancel = ยกเลิก
 newtab-sports-widget-back-button =
     .aria-label = ย้อนกลับ
@@ -1245,8 +1198,8 @@ newtab-sports-widget-quarter-finals = รอบก่อนรองชนะเ
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = สด
 newtab-custom-widget-live-refresh =
-    .title = เรียกคะแนนใหม่
     .aria-label = เรียกคะแนนใหม่
+    .title = เรียกคะแนนใหม่
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = วันสำคัญ
 newtab-sports-widget-upcoming = กำลังจะมาถึง
@@ -1260,10 +1213,10 @@ newtab-sports-widget-final = รอบชิงชนะเลิศ
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = ล่าช้า
 newtab-sports-widget-postponed = เลื่อนออกไป
 newtab-sports-widget-suspended = ถูกระงับ
@@ -1381,17 +1334,14 @@ newtab-sports-widget-message-day-in-play-body = ติดตามการแ�
 newtab-sports-widget-message-explore-widgets-cta =
     .label = สำรวจวิดเจ็ต
 
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = ปิด
     .aria-label = ปิด
+    .title = ปิด
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1416,34 +1366,34 @@ newtab-clock-widget-menu-switch-to-12h = สลับเป็นรูปแบ
 newtab-clock-widget-menu-switch-to-24h = สลับเป็นรูปแบบ 24 ชั่วโมง
 newtab-clock-widget-label-your-clocks = นาฬิกาของคุณ
 newtab-clock-widget-search-location-input =
+    .aria-label = ค้นหาเมือง
     .label = ตำแหน่งที่ตั้ง
     .placeholder = ค้นหาเมือง
-    .aria-label = ค้นหาเมือง
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = ชื่อเล่น (ไม่บังคับ)
     .label = ชื่อเล่น (ไม่บังคับ)
     .placeholder = เพิ่มชื่อเล่น
-    .aria-label = ชื่อเล่น (ไม่บังคับ)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = เพิ่มนาฬิกาใหม่
     .aria-label = เพิ่มนาฬิกาใหม่
+    .title = เพิ่มนาฬิกาใหม่
 newtab-clock-widget-button-add-clock = เพิ่ม
 newtab-clock-widget-button-cancel = ยกเลิก
 newtab-clock-widget-button-back =
-    .title = ย้อนกลับ
     .aria-label = ย้อนกลับ
+    .title = ย้อนกลับ
 newtab-clock-widget-button-edit-clock =
-    .title = แก้ไขนาฬิกา
     .aria-label = แก้ไขนาฬิกา
+    .title = แก้ไขนาฬิกา
 newtab-clock-widget-button-save = บันทึก
 newtab-clock-widget-button-remove-clock =
-    .title = เอานาฬิกาออก
     .aria-label = เอานาฬิกาออก
+    .title = เอานาฬิกาออก
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1474,8 +1424,8 @@ newtab-clock-widget-search-no-results = ไม่มีที่ตรงกั�
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = เปิดเมนูสำหรับนาฬิกา
     .aria-label = เปิดเมนูสำหรับนาฬิกา
+    .title = เปิดเมนูสำหรับนาฬิกา
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = ชื่อเล่น: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

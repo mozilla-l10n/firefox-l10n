@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Prilagodi
 newtab-customize-panel-label =
     .label = Prilagodi
 newtab-personalize-settings-icon-label =
-    .title = Prilagodite stran novega zavihka
     .aria-label = Nastavitve
+    .title = Prilagodite stran novega zavihka
 newtab-settings-dialog-label =
     .aria-label = Nastavitve
 newtab-personalize-icon-label =
-    .title = Prilagodite nov zavihek
     .aria-label = Prilagodite nov zavihek
+    .title = Prilagodite nov zavihek
 newtab-personalize-dialog-label =
     .aria-label = Prilagodi
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Zapri
     .aria-label = Zapri
+    .title = Zapri
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Iskanje
 home-prefs-stories-header2 =
-    .label = Zgodbe
     .description = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
+    .label = Zgodbe
 home-prefs-widgets-header =
     .label = Pripomočki
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -298,8 +298,8 @@ newtab-stocks-error-not-available = Podatki o delnicah niso na voljo.
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Možnosti pripomočka za delnice
     .aria-label = Možnosti pripomočka za delnice
+    .title = Možnosti pripomočka za delnice
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Delnice
@@ -317,17 +317,14 @@ newtab-stocks-ticker-status-down = { $name }, padec za { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, brez sprememb, { $change }, { $price }
 
-## Stocks widget watchlist add and remove controls
-
-
 ## Stocks widget ticker search
 
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Nazaj
     .aria-label = Nazaj
+    .title = Nazaj
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Nalaganje …
 
@@ -354,14 +351,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Možnosti slike dneva
     .aria-label = Možnosti slike dneva
+    .title = Možnosti slike dneva
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Nastavi današnjo sliko kot ozadje
     .label = Nastavi ozadje
     .title = Nastavi ozadje
-    .aria-label = Nastavi današnjo sliko kot ozadje
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Upravljanje ozadja
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -373,8 +370,8 @@ newtab-picture-menu-show-photo = Prikaži današnjo sliko
 newtab-picture-menu-learn-more = Več o tem
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Prikaži današnjo sliko
     .aria-label = Prikaži današnjo sliko
+    .title = Prikaži današnjo sliko
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Pridite spet jutri za novo sliko
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -391,16 +388,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Več o tem
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Iskanje
     .aria-label = Iskanje
+    .title = Iskanje
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Iščite z iskalnikom { $engine } ali vnesite naslov
@@ -408,17 +401,17 @@ newtab-search-box-handoff-text-no-engine = Iskanje ali naslov strani
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Iščite z iskalnikom { $engine } ali vnesite naslov
     .placeholder = Iščite z iskalnikom { $engine } ali vnesite naslov
     .title = Iščite z iskalnikom { $engine } ali vnesite naslov
-    .aria-label = Iščite z iskalnikom { $engine } ali vnesite naslov
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Iskanje ali naslov strani
     .placeholder = Iskanje ali naslov strani
     .title = Iskanje ali naslov strani
-    .aria-label = Iskanje ali naslov strani
 newtab-search-box-text = Išči po spletu
 newtab-search-box-input =
-    .placeholder = Iskanje po spletu
     .aria-label = Iskanje po spletu
+    .placeholder = Iskanje po spletu
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -428,8 +421,8 @@ newtab-topsites-edit-topsites-header = Uredi glavno stran
 newtab-topsites-edit-shortcut-header = Uredi bližnjico
 newtab-topsites-add-shortcut-label = Dodaj bližnjico
 newtab-topsites-add-shortcut-title =
-    .title = Dodaj bližnjico
     .aria-label = Dodaj bližnjico
+    .title = Dodaj bližnjico
 newtab-shortcuts-pinned-area = Pripeto območje
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
@@ -442,9 +435,6 @@ newtab-topsites-image-url-label = Spletni naslov slike po meri
 newtab-topsites-use-custom-image-link = Uporabi sliko po meri
 newtab-topsites-use-image-link = Uporabi sliko po meri …
 newtab-topsites-image-validation = Slike ni bilo mogoče naložiti. Poskusite drug spletni naslov.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Počisti besedilo
 
@@ -482,35 +472,35 @@ newtab-topsites-hover-card-header = Obvestila s strani { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Pravkar
 newtab-topsites-hover-card-mark-all-read =
-    .title = Označi vse kot prebrano
     .aria-label = Označi vse kot prebrano
+    .title = Označi vse kot prebrano
 newtab-topsites-hover-card-settings =
-    .title = Nastavitve obvestil
     .aria-label = Nastavitve obvestil
+    .title = Nastavitve obvestil
 newtab-topsites-hover-card-dismiss =
-    .title = V redu
     .aria-label = V redu
+    .title = V redu
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Odpri meni
     .aria-label = Odpri meni
+    .title = Odpri meni
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Odstrani
     .aria-label = Odstrani
+    .title = Odstrani
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Odpri meni
     .aria-label = Odpri priročni meni za { $title }
+    .title = Odpri meni
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Uredi to stran
     .aria-label = Uredi to stran
+    .title = Uredi to stran
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -694,8 +684,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Hvala. Povratne informacije nam bodo pomagale izboljšati vaš vir.
 newtab-toast-dismiss-button =
-    .title = Skrij
     .aria-label = Skrij
+    .title = Skrij
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -714,13 +704,13 @@ newtab-custom-shortcuts-title = Bližnjice
 newtab-custom-shortcuts-subtitle = Strani, ki jih shranite ali obiščete
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Bližnjice
     .description = Strani, ki jih shranite ali obiščete
+    .label = Bližnjice
 newtab-custom-shortcuts-nova =
     .label = Bližnjice
 newtab-custom-web-notifications-toggle =
-    .label = Spletna obvestila
     .description = Prikažite obvestila svojih spletnih mest na njihovih bližnjicah
+    .label = Spletna obvestila
 newtab-custom-row-description =
     .description = Število vrstic
 # Variables
@@ -748,8 +738,8 @@ newtab-custom-pocket-title = Priporoča { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Izjemna vsebina, ki jo pripravlja { -pocket-brand-name }, del družine { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Priporočene zgodbe
     .description = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
+    .label = Priporočene zgodbe
 newtab-recommended-stories-toggle =
     .label = Priporočene zgodbe
 newtab-custom-stories-personalized-toggle =
@@ -762,8 +752,8 @@ newtab-custom-pocket-show-recent-saves = Prikaži nedavno shranjene strani
 newtab-custom-recent-title = Nedavna dejavnost
 newtab-custom-recent-subtitle = Izbor nedavnih spletnih mest in vsebin
 newtab-custom-weather-toggle =
-    .label = Vreme
     .description = Današnja napoved vedno na očeh
+    .label = Vreme
 newtab-custom-widget-weather-toggle =
     .label = Vreme
 newtab-custom-widget-lists-toggle =
@@ -790,13 +780,10 @@ newtab-widget-manage-widget-button =
     .label = Upravljanje pripomočkov
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Zapri
     .aria-label = Zapri meni
+    .title = Zapri
 newtab-custom-close-button = Zapri
 newtab-custom-settings = Več nastavitev
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Videz
 # Button that opens the full browser theme selection view.
@@ -909,14 +896,11 @@ newtab-wallpaper-feature-highlight-content = Vdahnite strani novega zavihka sve�
 newtab-wallpaper-feature-highlight-button = Razumem
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Skrij
     .aria-label = Zapri okence
+    .title = Skrij
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -943,8 +927,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponzorirano
 newtab-weather-menu-change-location = Spremeni lokacijo
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Išči lokacijo
     .aria-label = Išči lokacijo
+    .placeholder = Išči lokacijo
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Uporabi trenutno lokacijo
@@ -988,8 +972,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Prikaži napoved v storitvi { $provider }
     .aria-description = { $provider } ∙ Sponzorirano
+    .title = Prikaži napoved v storitvi { $provider }
 
 ## Topic Labels
 
@@ -1190,8 +1174,8 @@ newtab-widget-lists-menu-copy = Kopiraj seznam v odložišče
 newtab-widget-lists-menu-learn-more = Več o tem
 newtab-widget-lists-button-add-item = Dodaj element
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Dodaj element
     .aria-label = Dodaj element
+    .placeholder = Dodaj element
 newtab-widget-lists-input-error = Za dodajanje predmeta vključite besedilo.
 newtab-widget-lists-input-menu-open-link = Odpri povezavo
 newtab-widget-lists-input-menu-move-up = Premakni gor
@@ -1220,8 +1204,8 @@ newtab-widget-lists-name-placeholder-checklist2 =
     .placeholder = Kontrolni seznam
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Nov seznam
     .aria-label = Uredi ime seznama
+    .placeholder = Nov seznam
 newtab-widget-section-title = Pripomočki
 newtab-widget-menu-hide = Skrij pripomoček
 newtab-widget-menu-change-size = Spremeni velikost
@@ -1239,17 +1223,17 @@ newtab-widget-size-medium = Srednja
 newtab-widget-size-large = Velika
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Skrij pripomočke
     .aria-label = Skrij vse pripomočke
+    .title = Skrij pripomočke
 newtab-widget-section-maximize =
-    .title = Razširi pripomočke
     .aria-label = Povečaj vse pripomočke na polno velikost
+    .title = Razširi pripomočke
 newtab-widget-section-minimize =
-    .title = Pomanjšaj pripomočke
     .aria-label = Skrči vse pripomočke
+    .title = Pomanjšaj pripomočke
 newtab-widget-section-menu-button =
-    .title = Meni Pripomočki
     .aria-label = Odpri meni pripomočkov
+    .title = Meni Pripomočki
 newtab-widget-add-widgets-button =
     .aria-label = Dodaj pripomoček
     .title = Dodaj pripomoček
@@ -1310,11 +1294,8 @@ newtab-promo-card-title = Podprite { -brand-product-name(sklon: "tozilnik") }
 newtab-promo-card-body = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta
 newtab-promo-card-cta = Več o tem
 newtab-promo-card-dismiss-button =
-    .title = Opusti
     .aria-label = Opusti
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Opusti
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1388,8 +1369,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Izberite si ozadje
 newtab-sports-widget-skip = Preskoči
 newtab-sports-widget-search-country =
-    .placeholder = Išči državo
     .aria-label = Iskanje držav
+    .placeholder = Išči državo
 newtab-sports-widget-cancel = Prekliči
 newtab-sports-widget-back-button =
     .aria-label = Nazaj
@@ -1435,8 +1416,8 @@ newtab-sports-widget-watch-available-region = Na voljo v vaši regiji
 newtab-sports-widget-watch-available-other-regions = Druge regije
 # Button that opens the provider’s stream page in a new tab.
 newtab-sports-widget-watch-play =
-    .title = Odpri prenos
     .aria-label = Odpri prenos
+    .title = Odpri prenos
 newtab-sports-widget-group-stage = Skupinski del
 newtab-sports-widget-group-a = Skupina A
 newtab-sports-widget-group-b = Skupina B
@@ -1456,8 +1437,8 @@ newtab-sports-widget-quarter-finals = Četrtfinale
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = V ŽIVO
 newtab-custom-widget-live-refresh =
-    .title = Osveži izide
     .aria-label = Osveži izide
+    .title = Osveži izide
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Pomembni datumi
 newtab-sports-widget-upcoming = Kmalu
@@ -1471,10 +1452,10 @@ newtab-sports-widget-final = Finale
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") }–{ DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") }–{ DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Zakasnjeno
 newtab-sports-widget-postponed = Prestavljena
 newtab-sports-widget-suspended = Prekinjena
@@ -1492,7 +1473,7 @@ newtab-sports-widget-world-cup-champions = Zmagovalci svetovnega prvenstva 2026
 newtab-sports-widget-world-cup-champions-short = Prvaki 2026
 # Variables:
 #   $date (Date) - The match start time
-newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit", hourCycle: "h23") }
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", hourCycle: "h23", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Končni rezultat
 newtab-sports-widget-match-halftime = Polčas
 newtab-sports-widget-match-extra-time = Podaljški
@@ -1507,18 +1488,18 @@ newtab-sports-widget-no-upcoming-matches = Ostanite z nami za podrobnosti o prih
 
 # arrow button that goes to the previous page of live matches.
 newtab-sports-widget-pagination-previous =
-    .title = Prejšnja
     .aria-label = Prejšnja
+    .title = Prejšnja
 # arrow button that goes to the next page of live matches.
 newtab-sports-widget-pagination-next =
-    .title = Naslednja
     .aria-label = Naslednja
+    .title = Naslednja
 # Dot indicator that jumps directly to a given live match.
 # $index (number) - 1-based position of this dot in the list.
 # $total (number) - Total number of live matches.
 newtab-sports-widget-pagination-dot =
-    .title = Tekma v živo { $index } od { $total }
     .aria-label = Tekma v živo { $index } od { $total }
+    .title = Tekma v živo { $index } od { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1612,8 +1593,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Zapri
     .aria-label = Zapri
+    .title = Zapri
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1638,34 +1619,34 @@ newtab-clock-widget-menu-switch-to-12h = Preklopi na 12-urni zapis
 newtab-clock-widget-menu-switch-to-24h = Preklopi na 24-urni zapis
 newtab-clock-widget-label-your-clocks = Vaše ure
 newtab-clock-widget-search-location-input =
-    .label = Kraj
     .aria-label = Poiščite mesto
+    .label = Kraj
     .placeholder = Poiščite mesto
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
-    .label = Vzdevek (neobvezno)
     .aria-label = Vzdevek (neobvezno)
+    .label = Vzdevek (neobvezno)
     .placeholder = Dodajte vzdevek
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Dodaj novo uro
     .aria-label = Dodaj novo uro
+    .title = Dodaj novo uro
 newtab-clock-widget-button-add-clock = Dodaj
 newtab-clock-widget-button-cancel = Prekliči
 newtab-clock-widget-button-back =
-    .title = Nazaj
     .aria-label = Nazaj
+    .title = Nazaj
 newtab-clock-widget-button-edit-clock =
-    .title = Uredi uro
     .aria-label = Uredi uro
+    .title = Uredi uro
 newtab-clock-widget-button-save = Shrani
 newtab-clock-widget-button-remove-clock =
-    .title = Odstrani uro
     .aria-label = Odstrani uro
+    .title = Odstrani uro
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1693,14 +1674,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Dodaj "{ $city }" kot uro po meri
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Ime mesta
     .aria-label = Ime mesta
+    .label = Ime mesta
     .placeholder = Poimenujte uro
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Časovni pas
     .aria-label = Časovni pas
+    .label = Časovni pas
     .placeholder = Iščite po mestu, časovnem pasu ali odmiku od UTC
 newtab-clock-widget-custom-zone-results =
     .aria-label = Zadetki: Časovni pasovi
@@ -1716,8 +1697,8 @@ newtab-clock-widget-search-no-results = Ni zadetkov
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Odpri meni z uro
     .aria-label = Odpri meni z uro
+    .title = Odpri meni z uro
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Vzdevek: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

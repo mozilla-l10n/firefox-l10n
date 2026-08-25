@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Personaliza
 newtab-customize-panel-label =
     .label = Personaliza
 newtab-personalize-settings-icon-label =
-    .title = Personaliza s’ischeda noa
     .aria-label = Cunfiguratziones
+    .title = Personaliza s’ischeda noa
 newtab-settings-dialog-label =
     .aria-label = Cunfiguratzione
 newtab-personalize-icon-label =
-    .title = Personaliza s’ischeda noa
     .aria-label = Personaliza s’ischeda noa
+    .title = Personaliza s’ischeda noa
 newtab-personalize-dialog-label =
     .aria-label = Personaliza
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Iscarta
     .aria-label = Iscarta
+    .title = Iscarta
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Chirca
 home-prefs-stories-header2 =
-    .label = Istòrias
     .description = Cuntenutu de primore curadu dae sa famìlia de { -brand-product-name }
+    .label = Istòrias
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -280,14 +280,14 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Cunfiguratzione de s’immàgine de sa die
     .aria-label = Cunfiguratzione de s’immàgine de sa die
+    .title = Cunfiguratzione de s’immàgine de sa die
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Cunfigura s’immagine de oe comente isfundu
     .label = Cunfigura comente isfundu
     .title = Cunfigura comente isfundu
-    .aria-label = Cunfigura s’immagine de oe comente isfundu
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gesti is isfundos
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -299,8 +299,8 @@ newtab-picture-menu-show-photo = Ammustra s’immàgine de oe
 newtab-picture-menu-learn-more = Àteras informatziones
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Ammustra s’immàgine de oe
     .aria-label = A
+    .title = Ammustra s’immàgine de oe
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Torra cras pro agatare un’immagine noa.
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -311,8 +311,8 @@ newtab-picture-image-alt = Immàgine de sa die dae Wikimedia Commons
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Chirca
     .aria-label = Chirca
+    .title = Chirca
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Chirca cun { $engine } o inserta un'indiritzu
@@ -320,17 +320,17 @@ newtab-search-box-handoff-text-no-engine = Chirca o inserta un'indiritzu
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Chirca cun { $engine } o inserta un'indiritzu
     .placeholder = Chirca cun { $engine } o inserta un'indiritzu
     .title = Chirca cun { $engine } o inserta un'indiritzu
-    .aria-label = Chirca cun { $engine } o inserta un'indiritzu
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Chirca o inserta un'indiritzu
     .placeholder = Chirca o inserta un'indiritzu
     .title = Chirca o inserta un'indiritzu
-    .aria-label = Chirca o inserta un'indiritzu
 newtab-search-box-text = Chirca in rete
 newtab-search-box-input =
-    .placeholder = Chirca in rete
     .aria-label = Chirca in rete
+    .placeholder = Chirca in rete
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -340,8 +340,8 @@ newtab-topsites-edit-topsites-header = Modìfica su situ populare
 newtab-topsites-edit-shortcut-header = Modìfica s'incurtzadura
 newtab-topsites-add-shortcut-label = Agiunghe curtzadòrgiu
 newtab-topsites-add-shortcut-title =
-    .title = Agiunghe curtzadòrgiu
     .aria-label = Agiunghe curtzadòrgiu
+    .title = Agiunghe curtzadòrgiu
 newtab-topsites-title-label = Tìtulu
 newtab-topsites-title-input =
     .placeholder = Inserta unu tìtulu
@@ -353,9 +353,6 @@ newtab-topsites-image-url-label = URL de s'immàgine personalizada
 newtab-topsites-use-custom-image-link = Imprea un'immàgine personalizada
 newtab-topsites-use-image-link = Imprea un'immàgine personalizada…
 newtab-topsites-image-validation = Carrigamentu de s'immàgine fallidu. Proa un'URL diferente.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Cantzella su testu
 
@@ -389,22 +386,22 @@ topsite-label-pinned =
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Aberi su menù
     .aria-label = Aberi su menù
+    .title = Aberi su menù
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Boga
     .aria-label = Boga
+    .title = Boga
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Aberi su menù
     .aria-label = Aberi su menù de cuntestu pro { $title }
+    .title = Aberi su menù
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Modìfica custu situ
     .aria-label = Modìfica custu situ
+    .title = Modìfica custu situ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -579,8 +576,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Gràtzias. Torrende·nos cumprou nos agiudas a megiorare su feed tuo.
 newtab-toast-dismiss-button =
-    .title = Iscarta
     .aria-label = Iscarta
+    .title = Iscarta
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -599,8 +596,8 @@ newtab-custom-shortcuts-title = Curtzadòrgios
 newtab-custom-shortcuts-subtitle = Sitos chi as sarvadu o bisitadu
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Curtzadòrgios
     .description = Sitos chi as sarvadu o bisitadu
+    .label = Curtzadòrgios
 newtab-custom-shortcuts-nova =
     .label = Curtzadòrgios
 # Variables
@@ -624,8 +621,8 @@ newtab-custom-pocket-title = Cussigiadu dae { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Cuntenutos de primore curados dae { -pocket-brand-name }, parte de sa famìlia de { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Istòrias cussigiadas
     .description = Cuntenutu de primore curadu dae sa famìlia de { -brand-product-name }
+    .label = Istòrias cussigiadas
 newtab-recommended-stories-toggle =
     .label = Istòrias cussigiadas
 newtab-custom-stories-personalized-toggle =
@@ -638,8 +635,8 @@ newtab-custom-pocket-show-recent-saves = Ammustra is elementos sarvados de reghe
 newtab-custom-recent-title = Atividade reghente
 newtab-custom-recent-subtitle = Una seletzione de sitos e cuntenutos reghentes
 newtab-custom-weather-toggle =
-    .label = Tempus
     .description = Is previsiones de oe in curtzu
+    .label = Tempus
 newtab-custom-widget-weather-toggle =
     .label = Tempus
 newtab-custom-widget-lists-toggle =
@@ -662,13 +659,10 @@ newtab-widget-manage-widget-button =
     .label = Gesti is widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Serra
     .aria-label = Serra su menù
+    .title = Serra
 newtab-custom-close-button = Serra
 newtab-custom-settings = Gesti prus cunfiguratziones
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the full theme selection sub-panel, also used as its back button label.
 newtab-appearance-manage-title = Temas de { -brand-product-name }
 # Header for the list of the user's already-installed themes in the full theme panel.
@@ -776,14 +770,11 @@ newtab-wallpaper-feature-highlight-content = Dona a s’ischeda noa una bisura f
 newtab-wallpaper-feature-highlight-button = Apo cumprèndidu
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Serra
     .aria-label = Serra ventanedda
+    .title = Serra
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -810,8 +801,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Patrotzinadu
 newtab-weather-menu-change-location = Càmbia positzione
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Chirca positzione
     .aria-label = Chirca positzione
+    .placeholder = Chirca positzione
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Imprea sa positzione atuale
@@ -848,8 +839,8 @@ newtab-weather-static-city = New York
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Càstia is previsiones in { $provider }
     .aria-description = { $provider } ∙ Patrotzinadu
+    .title = Càstia is previsiones in { $provider }
 
 ## Topic Labels
 
@@ -1034,8 +1025,8 @@ newtab-widget-lists-menu-copy = Còpia sa lista in punta de billete
 newtab-widget-lists-menu-learn-more = Àteras informatziones
 newtab-widget-lists-button-add-item = Agiunghe un’elementu
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Agiunghe un’elementu
     .aria-label = Agiunghe un’elementu
+    .placeholder = Agiunghe un’elementu
 newtab-widget-lists-input-error = Include testu pro agiùnghere un’elementu.
 newtab-widget-lists-input-menu-open-link = Aberi su ligòngiu
 newtab-widget-lists-input-menu-move-up = Move in artu
@@ -1051,8 +1042,8 @@ newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista de tareas
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Lista noa
     .aria-label = Modifica su nòmine de sa lista
+    .placeholder = Lista noa
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Cua su widget
 # Submenu item under "Move"; moves the widget one position to the left.
@@ -1066,8 +1057,8 @@ newtab-widget-size-medium = Mèdia
 newtab-widget-size-large = Manna
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Cua is widgets
     .aria-label = Cua totu is widgets
+    .title = Cua is widgets
 newtab-widget-section-menu-manage = Gesti is widgets
 newtab-widget-section-feedback = Nara·nos ite nde pensas
 
@@ -1102,11 +1093,8 @@ newtab-promo-card-title = Agiuda a { -brand-product-name }
 newtab-promo-card-body = Is patrotzinadores nostros nos agiudant in sa missione nostra de istantargiare unu web mègius
 newtab-promo-card-cta = Àteras informatziones
 newtab-promo-card-dismiss-button =
-    .title = Iscarta
     .aria-label = Iscarta
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Iscarta
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -1154,8 +1142,8 @@ newtab-sports-widget-message-wallpapers-cta = Sèbera un’isfundu
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Iscarta
     .aria-label = Iscarta
+    .title = Iscarta
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1167,13 +1155,13 @@ newtab-activation-window-message-customization-focus-primary-button =
 ## Strings for the Clock widget
 
 newtab-clock-widget-search-location-input =
-    .label = Positzione
     .aria-label = Chirca una tzitade
+    .label = Positzione
     .placeholder = Chirca una tzitade
 newtab-clock-widget-button-cancel = Annulla
 newtab-clock-widget-button-back =
-    .title = A coa
     .aria-label = A coa
+    .title = A coa
 newtab-clock-widget-button-save = Sarva
 # "Search results" is the accessible label for the listbox dropdown that appears
 # below the location search field, listing matching cities as the user types.

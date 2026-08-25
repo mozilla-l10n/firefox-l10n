@@ -9,9 +9,6 @@
 browser-main-window-title = { -brand-full-name }
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Navicazzioni privata e lesta
-
-##
-
 urlbar-identity-button =
     .aria-label = Talìa nfurmazzioni dû situ
 
@@ -245,12 +242,12 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Riscedi nnâ riti
     .aria-label = Riscedi cu { $name }
+    .placeholder = Riscedi nnâ riti
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Scrivi i tèrmini dâ risciduta
     .aria-label = Riscedi nnê nzingalibbra
+    .placeholder = Scrivi i tèrmini dâ risciduta
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -312,11 +309,9 @@ urlbar-searchmode-bookmarks =
 urlbar-searchmode-popup-description = Sta vota riscedi cu:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Mpustazzioni di risciduta
-urlbar-searchmode-bookmarks2 = Nzingalibbra
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Sta vota riscedi cu:
-urlbar-searchmode-popup-search-settings-panelitem = Mpustazzioni di risciduta
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -404,9 +399,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Nzingalibbra
     .toolbarname = Sbarra dî nzingalibbra
     .accesskey = n
-    .aria-label = Nzingalibbra
 bookmarks-toolbar-menu =
     .label = Sbarra dî nzingalibbra
 bookmarks-toolbar-placeholder =
@@ -451,9 +446,6 @@ picture-in-picture-hide-toggle =
     .accesskey = A
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

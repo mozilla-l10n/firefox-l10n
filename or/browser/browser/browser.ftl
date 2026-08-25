@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = ୱେବସାଇଟ ସୂଚନା ଦେଖନ୍ତୁ
 
@@ -196,7 +193,6 @@ urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍�
 
 urlbar-searchmode-history =
     .label = ଇତିହାସ
-urlbar-searchmode-history2 = ଇତିହାସ
 
 ## Bookmarks panels, menus and toolbar
 
@@ -268,9 +264,6 @@ popups-infobar-dont-show-message =
     .accesskey = D
 
 ##
-
-
-# Navigator Toolbox
 
 navbar-downloads =
     .label = ଆହରଣଗୁଡ଼ିକ

@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Pelayaran Peribadi
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Pelayaran Peribadi
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Pelayaran Peribadi
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Pelayaran Peribadi
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Pelayaran Peribadi
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Pelayaran Peribadi
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,14 +67,14 @@ private-browsing-shortcut-text-2 = { -brand-shortcut-name } Pelayaran Peribadi
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Pelayaran Peribadi
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Pelayaran Peribadi
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Pelayaran Peribadi
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Pelayaran Peribadi
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Pelayaran Peribadi
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } Pelayaran Peribadi
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Pelayaran Peribadi
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -99,14 +99,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Pelayaran Peribadi
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Pelayaran Peribadi
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Pelayaran Peribadi
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — Pelayaran Peribadi
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Pelayaran Peribadi
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Pelayaran Peribadi
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Pelayaran Peribadi
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -126,9 +126,6 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Urus tetapan pop-up dan lencongan pihak ketiga...
     .accesskey = U
-
-##
-
 urlbar-identity-button =
     .aria-label = Papar maklumat laman
 
@@ -379,8 +376,8 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
-    .label = Tambah “{ $engineName }”
     .aria-label = Tambah enjin carian “{ $engineName }”
+    .label = Tambah “{ $engineName }”
     .tooltiptext = Tambah enjin carian “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
@@ -679,20 +676,20 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Masukkan istilah carian
     .aria-label = Cari { $name }
+    .placeholder = Masukkan istilah carian
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Masukkan istilah carian
     .aria-label = Cari tandabuku
+    .placeholder = Masukkan istilah carian
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Masukkan istilah carian
     .aria-label = Cari sejarah
+    .placeholder = Masukkan istilah carian
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Masukkan istilah carian
     .aria-label = Cari tab
+    .placeholder = Masukkan istilah carian
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -844,9 +841,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Tandabuku
     .toolbarname = Bar alatan Tandabuku
     .accesskey = b
-    .aria-label = Tandabuku
 bookmarks-toolbar-menu =
     .label = Bar alat Tandabuku
 bookmarks-toolbar-placeholder =
@@ -933,9 +930,6 @@ popups-infobar-dont-show-message =
     .accesskey = J
 
 ##
-
-
-# Navigator Toolbox
 
 navbar-downloads =
     .label = Muat turun

@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = سائٹ کی معلومات کا نظارہ کریں
 
@@ -299,12 +296,12 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = ویب پر تلاش کریں
     .aria-label = { $name } کے ساتھ تلاش کریں
+    .placeholder = ویب پر تلاش کریں
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = تلاش کی شرائط درج کریں
     .aria-label = ٹیب  تلاش کریں
+    .placeholder = تلاش کی شرائط درج کریں
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -359,9 +356,6 @@ urlbar-searchmode-tabs =
     .label = ٹیبز
 urlbar-searchmode-history =
     .label = سابقات
-urlbar-searchmode-bookmarks2 = بک مارک
-urlbar-searchmode-tabs2 = ٹیبز
-urlbar-searchmode-history2 = سابقات
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -458,9 +452,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = بک مارکس
     .toolbarname = بک مارک ٹولبار
     .accesskey = B
-    .aria-label = بک مارکس
 bookmarks-toolbar-menu =
     .label = بک مارک ٹولبار
 bookmarks-toolbar-placeholder =
@@ -562,9 +556,6 @@ picture-in-picture-hide-toggle =
     .accesskey = H
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

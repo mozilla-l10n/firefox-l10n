@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Private Browsing
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Private Browsing
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Private Browsing
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Private Browsing
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Private Browsing
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Private Browsing
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -48,9 +48,6 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Pribadong Pagba-browse
-
-##
-
 urlbar-identity-button =
     .aria-label = Tingnan ang impormasyon ng site
 
@@ -201,9 +198,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = I-dagdag ang search engine na “{ $engineName }”
     .label = I-dagdag ang “{ $engineName }”
     .tooltiptext = I-dagdag ang search engine na “{ $engineName }”
-    .aria-label = I-dagdag ang search engine na “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -461,28 +458,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Hanapin sa Web
     .aria-label = Maghanap gamit ang { $name }
+    .placeholder = Hanapin sa Web
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin { $name }
+    .placeholder = Ipasok ang mga search term
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin sa mga bookmark
+    .placeholder = Ipasok ang mga search term
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin sa kasaysayan
+    .placeholder = Ipasok ang mga search term
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin sa mga tab
+    .placeholder = Ipasok ang mga search term
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -569,9 +566,6 @@ urlbar-searchmode-tabs =
     .label = Mga Tab
 urlbar-searchmode-history =
     .label = Kasaysayan
-urlbar-searchmode-bookmarks2 = Mga Bookmark
-urlbar-searchmode-tabs2 = Mga Tab
-urlbar-searchmode-history2 = Kasaysayan
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -689,9 +683,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Mga bookmark
     .toolbarname = Bookmark Toolbar
     .accesskey = B
-    .aria-label = Mga bookmark
 bookmarks-toolbar-menu =
     .label = Bookmark Toolbar
 bookmarks-toolbar-placeholder =
@@ -808,9 +802,6 @@ picture-in-picture-hide-toggle =
     .accesskey = H
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

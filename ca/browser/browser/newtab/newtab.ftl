@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Personalitza
 newtab-customize-panel-label =
     .label = Personalitza
 newtab-personalize-settings-icon-label =
-    .title = Personalitza la pestanya nova
     .aria-label = Paràmetres
+    .title = Personalitza la pestanya nova
 newtab-settings-dialog-label =
     .aria-label = Paràmetres
 newtab-personalize-icon-label =
-    .title = Personalitza la pestanya nova
     .aria-label = Personalitza la pestanya nova
+    .title = Personalitza la pestanya nova
 newtab-personalize-dialog-label =
     .aria-label = Personalitza
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Tanca
     .aria-label = Tanca
+    .title = Tanca
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Cerca
 home-prefs-stories-header2 =
-    .label = Articles
     .description = Contingut excepcional seleccionat per la família del { -brand-product-name }
+    .label = Articles
 home-prefs-widgets-header =
     .label = Ginys
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -289,12 +289,6 @@ newtab-stocks-ticker-status-down = { $name }, baixa un { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sense canvis, { $change }, { $price }
 
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
-
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -318,14 +312,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Opcions de la imatge del dia
     .aria-label = Opcions de la imatge del dia
+    .title = Opcions de la imatge del dia
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Establiu la imatge d'avui com a fons de pantalla
     .label = Estableix un fons de pantalla
     .title = Estableix un fons de pantalla
-    .aria-label = Establiu la imatge d'avui com a fons de pantalla
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gestiona el fons de pantalla
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -337,27 +331,20 @@ newtab-picture-menu-show-photo = Mostra la imatge del dia
 newtab-picture-menu-learn-more = Més informació
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Mostra la imatge del dia
     .aria-label = Mostra la imatge del dia
+    .title = Mostra la imatge del dia
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Torneu demà per a veure una altra imatge.
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Imatge del dia a Wikimedia Commons
 
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Cerca
     .aria-label = Cerca
+    .title = Cerca
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cerqueu amb { $engine } o escriviu una adreça
@@ -365,17 +352,17 @@ newtab-search-box-handoff-text-no-engine = Escriviu una cerca o adreça
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Cerqueu amb { $engine } o escriviu una adreça
     .placeholder = Cerqueu amb { $engine } o escriviu una adreça
     .title = Cerqueu amb { $engine } o escriviu una adreça
-    .aria-label = Cerqueu amb { $engine } o escriviu una adreça
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Escriviu una cerca o adreça
     .placeholder = Escriviu una cerca o adreça
     .title = Escriviu una cerca o adreça
-    .aria-label = Escriviu una cerca o adreça
 newtab-search-box-text = Cerca al web
 newtab-search-box-input =
-    .placeholder = Cerca al web
     .aria-label = Cerca al web
+    .placeholder = Cerca al web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -385,8 +372,8 @@ newtab-topsites-edit-topsites-header = Edita el lloc principal
 newtab-topsites-edit-shortcut-header = Edita la drecera
 newtab-topsites-add-shortcut-label = Afegeix una drecera
 newtab-topsites-add-shortcut-title =
-    .title = Afegeix una drecera
     .aria-label = Afegeix una drecera
+    .title = Afegeix una drecera
 newtab-shortcuts-pinned-area = Àrea fixada
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
@@ -399,9 +386,6 @@ newtab-topsites-image-url-label = URL d'imatge personalitzada
 newtab-topsites-use-custom-image-link = Utilitza una imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Esborra el text
 
@@ -431,29 +415,26 @@ topsite-label-pinned =
     .aria-label = { $title } (fixat)
     .title = { $title }
 
-## Top Sites - Web notifications hover card
-
-
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Obre el menú
     .aria-label = Obre el menú
+    .title = Obre el menú
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Elimina
     .aria-label = Elimina
+    .title = Elimina
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Obre el menú
     .aria-label = Obre el menú contextual de { $title }
+    .title = Obre el menú
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Edita aquest lloc
     .aria-label = Edita aquest lloc
+    .title = Edita aquest lloc
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -638,8 +619,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Gràcies. Els vostres comentaris ens ajudaran a millorar-vos les recomanacions.
 newtab-toast-dismiss-button =
-    .title = Descarta
     .aria-label = Descarta
+    .title = Descarta
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -658,8 +639,8 @@ newtab-custom-shortcuts-title = Dreceres
 newtab-custom-shortcuts-subtitle = Llocs que deseu o visiteu
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Dreceres
     .description = Llocs que deseu o visiteu
+    .label = Dreceres
 newtab-custom-shortcuts-nova =
     .label = Dreceres
 newtab-custom-row-description =
@@ -685,8 +666,8 @@ newtab-custom-pocket-title = Recomanat per { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contingut excepcional seleccionat per { -pocket-brand-name }, part de la família de { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Articles recomanats
     .description = Contingut excepcional seleccionat per la família del { -brand-product-name }
+    .label = Articles recomanats
 newtab-recommended-stories-toggle =
     .label = Articles recomanats
 newtab-custom-stories-personalized-toggle =
@@ -699,8 +680,8 @@ newtab-custom-pocket-show-recent-saves = Mostra els elements desats recentment
 newtab-custom-recent-title = Activitat recent
 newtab-custom-recent-subtitle = Una selecció de llocs i continguts recents
 newtab-custom-weather-toggle =
-    .label = Informació meteorològica
     .description = La previsió d’avui d’un cop d’ull
+    .label = Informació meteorològica
 newtab-custom-widget-weather-toggle =
     .label = Informació meteorològica
 newtab-custom-widget-lists-toggle =
@@ -725,13 +706,10 @@ newtab-widget-manage-widget-button =
     .label = Gestioneu els ginys
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Tanca
     .aria-label = Tanca el menú
+    .title = Tanca
 newtab-custom-close-button = Tanca
 newtab-custom-settings = Gestiona més paràmetres
-
-## New Tab Appearance (browser theme picker)
-
 
 ## New Tab Wallpapers
 
@@ -824,14 +802,11 @@ newtab-wallpaper-feature-highlight-content = Doneu un aspecte més fresc a les p
 newtab-wallpaper-feature-highlight-button = Entesos
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Tanca
     .aria-label = Tanca la finestra emergent
+    .title = Tanca
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -858,8 +833,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Patrocinat
 newtab-weather-menu-change-location = Canvia la ubicació
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Cerca la ubicació
     .aria-label = Cerca la ubicació
+    .placeholder = Cerca la ubicació
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Utilitza la ubicació actual
@@ -903,8 +878,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Mostra la previsió meteorològica de { $provider }
     .aria-description = { $provider } ∙ Patrocinat
+    .title = Mostra la previsió meteorològica de { $provider }
 
 ## Topic Labels
 
@@ -1105,8 +1080,8 @@ newtab-widget-lists-menu-copy = Copia la llista al porta-retalls
 newtab-widget-lists-menu-learn-more = Més informació
 newtab-widget-lists-button-add-item = Afegeix un element
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Afegeix un element
     .aria-label = Afegeix un element
+    .placeholder = Afegeix un element
 newtab-widget-lists-input-error = Incloeu text per a afegir un element.
 newtab-widget-lists-input-menu-open-link = Obre l'enllaç
 newtab-widget-lists-input-menu-move-up = Mou cap amunt
@@ -1128,12 +1103,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Llista de tasques
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Llista de comprovació
     .aria-label = Edita el nom de la llista
+    .placeholder = Llista de comprovació
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Llista nova
     .aria-label = Edita el nom de la llista
+    .placeholder = Llista nova
 newtab-widget-section-title = Ginys
 newtab-widget-menu-hide = Amaga el giny
 newtab-widget-menu-change-size = Canvia la mida
@@ -1151,17 +1126,17 @@ newtab-widget-size-medium = Mitjana
 newtab-widget-size-large = Grossa
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Amaga els ginys
     .aria-label = Amaga tots els ginys
+    .title = Amaga els ginys
 newtab-widget-section-maximize =
-    .title = Amplia els ginys
     .aria-label = Amplia tots els ginys al màxim
+    .title = Amplia els ginys
 newtab-widget-section-minimize =
-    .title = Minimitza els widgets
     .aria-label = Minimitza tots els widgets a mida compacta
+    .title = Minimitza els widgets
 newtab-widget-section-menu-button =
-    .title = Menú de ginys
     .aria-label = Obre el menú dels ginys
+    .title = Menú de ginys
 newtab-widget-add-widgets-button =
     .aria-label = Afegeix el giny
     .title = Afegeix el giny
@@ -1212,11 +1187,8 @@ newtab-promo-card-title = Col·laboreu amb el { -brand-product-name }
 newtab-promo-card-body = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor
 newtab-promo-card-cta = Més informació
 newtab-promo-card-dismiss-button =
-    .title = Ignora
     .aria-label = Ignora
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Ignora
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -1248,8 +1220,8 @@ newtab-sports-widget-view-all =
 newtab-sports-widget-show-less =
     .label = Mostra’n menys
 newtab-sports-widget-watch-dialog-close =
-    .title = Tanca
     .aria-label = Tanca
+    .title = Tanca
 # Tag: user can watch without paying (sign-in may still be required).
 newtab-sports-widget-watch-stream-free = Gratuït
 # Tag: user can start watching via a trial; continued access may require payment after it ends.
@@ -1280,7 +1252,7 @@ newtab-sports-widget-now = Ara
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Subcampió
 # Compact champions label for the medium-size widget result card; the larger
@@ -1294,12 +1266,12 @@ newtab-sports-widget-match-vs = contra
 
 # arrow button that goes to the previous page of live matches.
 newtab-sports-widget-pagination-previous =
-    .title = Anterior
     .aria-label = Anterior
+    .title = Anterior
 # arrow button that goes to the next page of live matches.
 newtab-sports-widget-pagination-next =
-    .title = Següent
     .aria-label = Següent
+    .title = Següent
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1343,8 +1315,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Tanca
     .aria-label = Tanca
+    .title = Tanca
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Comença a personalitzar
 

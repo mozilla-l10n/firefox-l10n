@@ -14,18 +14,15 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Riña aché un hui’
     .data-content-title-default = { $content-title } { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Riña aché un hui’
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Riña aché un hui’
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = Si nuguan' sitio na
 
@@ -300,10 +297,6 @@ urlbar-searchmode-history =
     .label = Sa gini’hiājt
 urlbar-searchmode-actions =
     .label = Sa gi'hiát
-urlbar-searchmode-bookmarks2 = Nej sa râj sun nichrà\'t doj
-urlbar-searchmode-tabs2 = Nej rakïj ñanj
-urlbar-searchmode-history2 = Sa gini’hiājt
-urlbar-searchmode-actions2 = Sa gi'hiát
 
 ## Reader View toolbar buttons
 
@@ -376,9 +369,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Sa raj sun nichrò' doj
     .toolbarname = Riñan man sa gara sun'
     .accesskey = B
-    .aria-label = Sa raj sun nichrò' doj
 bookmarks-toolbar-menu =
     .label = Riñan man sa gara sun'
 bookmarks-toolbar-placeholder =
@@ -453,9 +446,6 @@ picture-in-picture-hide-toggle =
     .accesskey = H
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

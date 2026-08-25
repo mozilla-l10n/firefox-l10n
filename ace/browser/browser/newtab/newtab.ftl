@@ -41,8 +41,8 @@ home-prefs-highlights-option-most-recent-download-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Mita
     .aria-label = Mita
+    .title = Mita
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -78,18 +78,18 @@ newtab-confirm-delete-history-p2 = Buët nyoë hanjeuët tapeubateuë.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Peuhah menu
     .aria-label = Peuhah menu
+    .title = Peuhah menu
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Peuhah menu
     .aria-label = Untôk peuhah menu kontèk { $title }
+    .title = Peuhah menu
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Andam site nyoe
     .aria-label = Andam site nyoe
+    .title = Andam site nyoe
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 

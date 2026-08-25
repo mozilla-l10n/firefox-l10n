@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = La saji kam yol at sti' tu tatinb'ale'
 
@@ -117,9 +114,6 @@ ui-tour-info-panel-close =
     .tooltiptext = Jupa
 
 ##
-
-
-# Navigator Toolbox
 
 navbar-downloads =
     .label = Eq'omal ku'tzan

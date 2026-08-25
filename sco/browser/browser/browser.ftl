@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = View site information
 
@@ -160,9 +157,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Eik on airt-oot engine “{ $engineName }”
     .label = Eik on “{ $engineName }”
     .tooltiptext = Eik on airt-oot engine “{ $engineName }”
-    .aria-label = Eik on airt-oot engine “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -365,28 +362,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Sairch the Wab
     .aria-label = Sairch wi { $name }
+    .placeholder = Sairch the Wab
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Inpit airt-oot terms
     .aria-label = Sairch { $name }
+    .placeholder = Inpit airt-oot terms
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Inpit airt-oot terms
     .aria-label = Sairch buikmerks
+    .placeholder = Inpit airt-oot terms
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Inpit airt-oot terms
     .aria-label = Airt-oot historie
+    .placeholder = Inpit airt-oot terms
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Inpit airt-oot terms
     .aria-label = Sairch tabs
+    .placeholder = Inpit airt-oot terms
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -466,9 +463,6 @@ urlbar-searchmode-tabs =
     .label = Tabs
 urlbar-searchmode-history =
     .label = Historie
-urlbar-searchmode-bookmarks2 = Buikmerks
-urlbar-searchmode-tabs2 = Tabs
-urlbar-searchmode-history2 = Historie
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -576,9 +570,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Buikmerks
     .toolbarname = Buikmerks Toolbaur
     .accesskey = B
-    .aria-label = Buikmerks
 bookmarks-toolbar-menu =
     .label = Buikmerks Toolbaur
 bookmarks-toolbar-placeholder =
@@ -689,9 +683,6 @@ picture-in-picture-hide-toggle =
     .accesskey = H
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

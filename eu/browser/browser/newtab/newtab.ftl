@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Pertsonalizatu
 newtab-customize-panel-label =
     .label = Pertsonalizatu
 newtab-personalize-settings-icon-label =
-    .title = Pertsonalizatu fitxa berria
     .aria-label = Ezarpenak
+    .title = Pertsonalizatu fitxa berria
 newtab-settings-dialog-label =
     .aria-label = Ezarpenak
 newtab-personalize-icon-label =
-    .title = Pertsonalizatu fitxa berria
     .aria-label = Pertsonalizatu fitxa berria
+    .title = Pertsonalizatu fitxa berria
 newtab-personalize-dialog-label =
     .aria-label = Pertsonalizatu
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Baztertu
     .aria-label = Baztertu
+    .title = Baztertu
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Bilatu
 home-prefs-stories-header2 =
-    .label = Istorioak
     .description = { -brand-product-name } familiak hautatutako aparteko edukia
+    .label = Istorioak
 home-prefs-widgets-header =
     .label = Widgetak
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -330,8 +330,8 @@ newtab-stocks-error-not-available = Akzioen datuak ez daude erabilgarri.
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Akzioen widgetaren aukerak
     .aria-label = Akzioen widgetaren aukerak
+    .title = Akzioen widgetaren aukerak
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akzioak
@@ -366,15 +366,15 @@ newtab-stocks-ticker-status-flat = { $name }, aldaketarik ez, { $change }, { $pr
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = Gehitu { $name } jarraipen-zerrendan
     .aria-label = Gehitu { $name } jarraipen-zerrendan
+    .title = Gehitu { $name } jarraipen-zerrendan
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = Kendu { $name } jarraipen-zerrendatik
     .aria-label = Kendu { $name } jarraipen-zerrendatik
+    .title = Kendu { $name } jarraipen-zerrendatik
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -403,8 +403,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Atzera
     .aria-label = Atzera
+    .title = Atzera
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -445,14 +445,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Eguneko argazkiaren aukerak
     .aria-label = Eguneko argazkiaren aukerak
+    .title = Eguneko argazkiaren aukerak
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Ezarri gaurko irudia zure horma-paper gisa
     .label = Ezarri horma-papera
     .title = Ezarri horma-papera
-    .aria-label = Ezarri gaurko irudia zure horma-paper gisa
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Kudeatu horma-papera
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -464,8 +464,8 @@ newtab-picture-menu-show-photo = Erakutsi gaurko irudia
 newtab-picture-menu-learn-more = Argibide gehiago
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Erakutsi gaurko irudia
     .aria-label = Erakutsi gaurko irudia
+    .title = Erakutsi gaurko irudia
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Itzuli bihar argazki berri bat ikusteko
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -482,16 +482,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Argibide gehiago
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Bilatu
     .aria-label = Bilatu
+    .title = Bilatu
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Bilatu { $engine } erabiliz edo idatzi helbidea
@@ -499,17 +495,17 @@ newtab-search-box-handoff-text-no-engine = Bilatu edo idatzi helbidea
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Bilatu { $engine } erabiliz edo idatzi helbidea
     .placeholder = Bilatu { $engine } erabiliz edo idatzi helbidea
     .title = Bilatu { $engine } erabiliz edo idatzi helbidea
-    .aria-label = Bilatu { $engine } erabiliz edo idatzi helbidea
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Bilatu edo idatzi helbidea
     .placeholder = Bilatu edo idatzi helbidea
     .title = Bilatu edo idatzi helbidea
-    .aria-label = Bilatu edo idatzi helbidea
 newtab-search-box-text = Bilatu webean
 newtab-search-box-input =
-    .placeholder = Bilatu webean
     .aria-label = Bilatu webean
+    .placeholder = Bilatu webean
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -519,8 +515,8 @@ newtab-topsites-edit-topsites-header = Editatu maiz erabilitako gunea
 newtab-topsites-edit-shortcut-header = Editatu lasterbidea
 newtab-topsites-add-shortcut-label = Gehitu lasterbidea
 newtab-topsites-add-shortcut-title =
-    .title = Gehitu lasterbidea
     .aria-label = Gehitu lasterbidea
+    .title = Gehitu lasterbidea
 newtab-shortcuts-pinned-area = Ainguratutako eremua
 newtab-topsites-title-label = Izenburua
 newtab-topsites-title-input =
@@ -533,9 +529,6 @@ newtab-topsites-image-url-label = Irudi pertsonalizatuaren URLa
 newtab-topsites-use-custom-image-link = Erabili irudi pertsonalizatua
 newtab-topsites-use-image-link = Erabili irudi pertsonalizatua…
 newtab-topsites-image-validation = Ezin da irudia kargatu. Saiatu beste URL batekin.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Garbitu testua
 
@@ -573,35 +566,35 @@ newtab-topsites-hover-card-header = { $site } guneko jakinarazpenak
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Oraintxe bertan
 newtab-topsites-hover-card-mark-all-read =
-    .title = Markatu denak irakurritako gisa
     .aria-label = Markatu denak irakurritako gisa
+    .title = Markatu denak irakurritako gisa
 newtab-topsites-hover-card-settings =
-    .title = Jakinarazpenen ezarpenak
     .aria-label = Jakinarazpenen ezarpenak
+    .title = Jakinarazpenen ezarpenak
 newtab-topsites-hover-card-dismiss =
-    .title = Baztertu
     .aria-label = Baztertu
+    .title = Baztertu
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Ireki menua
     .aria-label = Ireki menua
+    .title = Ireki menua
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Kendu
     .aria-label = Kendu
+    .title = Kendu
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Ireki menua
     .aria-label = Ikusi { $title } gunerako testuinguru-menua
+    .title = Ireki menua
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Editatu gune hau
     .aria-label = Editatu gune hau
+    .title = Editatu gune hau
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -785,8 +778,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Eskerrik asko. Zure iritziak jarioa hobetzen lagunduko digu.
 newtab-toast-dismiss-button =
-    .title = Baztertu
     .aria-label = Baztertu
+    .title = Baztertu
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -805,13 +798,13 @@ newtab-custom-shortcuts-title = Lasterbideak
 newtab-custom-shortcuts-subtitle = Gordetzen edo bisitatzen dituzun guneak
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Lasterbideak
     .description = Gordetzen edo bisitatzen dituzun guneak
+    .label = Lasterbideak
 newtab-custom-shortcuts-nova =
     .label = Lasterbideak
 newtab-custom-web-notifications-toggle =
-    .label = Webeko jakinarazpenak
     .description = Erakutsi zure guneetako jakinarazpenak hauen lasterbideetan
+    .label = Webeko jakinarazpenak
 newtab-custom-row-description =
     .description = Lerro kopurua
 # Variables
@@ -835,8 +828,8 @@ newtab-custom-pocket-title = { -pocket-brand-name }-ek gomendatua
 newtab-custom-pocket-subtitle = { -brand-product-name } familiakide den { -pocket-brand-name }-eko taldeak hautatutako aparteko edukia.
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Gomendatutako istorioak
     .description = { -brand-product-name } familiak aukeratutako eduki aparta
+    .label = Gomendatutako istorioak
 newtab-recommended-stories-toggle =
     .label = Gomendatutako istorioak
 newtab-custom-stories-personalized-toggle =
@@ -849,8 +842,8 @@ newtab-custom-pocket-show-recent-saves = Erakutsi gordetako azkenak
 newtab-custom-recent-title = Azken jarduera
 newtab-custom-recent-subtitle = Azken gune eta edukien hautapena
 newtab-custom-weather-toggle =
-    .label = Eguraldia
     .description = Gaurko eguraldi-iragarpena
+    .label = Eguraldia
 newtab-custom-widget-weather-toggle =
     .label = Eguraldia
 newtab-custom-widget-lists-toggle =
@@ -877,13 +870,10 @@ newtab-widget-manage-widget-button =
     .label = Kudeatu widgetak
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Itxi
     .aria-label = Itxi menua
+    .title = Itxi
 newtab-custom-close-button = Itxi
 newtab-custom-settings = Kudeatu ezarpen gehiago
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Itxura
 # Button that opens the full browser theme selection view.
@@ -996,14 +986,11 @@ newtab-wallpaper-feature-highlight-content = Emaiozu itxura berria zure fitxa be
 newtab-wallpaper-feature-highlight-button = Ulertuta
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Utzi
     .aria-label = Itxi laster-leihoa
+    .title = Utzi
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1030,8 +1017,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Babeslea
 newtab-weather-menu-change-location = Aldatu kokapena
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Bilatu kokapena
     .aria-label = Bilatu kokapena
+    .placeholder = Bilatu kokapena
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Erabili uneko kokapena
@@ -1075,8 +1062,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Ikusi iragarpena { $provider } hornitzailean
     .aria-description = { $provider } ∙ Babeslea
+    .title = Ikusi iragarpena { $provider } hornitzailean
 
 ## Topic Labels
 
@@ -1277,8 +1264,8 @@ newtab-widget-lists-menu-copy = Kopiatu zerrenda arbelean
 newtab-widget-lists-menu-learn-more = Argibide gehiago
 newtab-widget-lists-button-add-item = Gehitu elementua
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Gehitu elementua
     .aria-label = Gehitu elementua
+    .placeholder = Gehitu elementua
 newtab-widget-lists-input-error = Idatzi testua elementua gehitu ahal izateko.
 newtab-widget-lists-input-menu-open-link = Ireki lotura
 newtab-widget-lists-input-menu-move-up = Eraman gora
@@ -1303,12 +1290,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Zereginen zerrenda
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Zerrenda
     .aria-label = Editatu zerrendaren izena
+    .placeholder = Zerrenda
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Zerrenda berria
     .aria-label = Editatu zerrendaren izena
+    .placeholder = Zerrenda berria
 newtab-widget-section-title = Widgetak
 newtab-widget-menu-hide = Ezkutatu widgeta
 newtab-widget-menu-change-size = Aldatu tamaina
@@ -1326,17 +1313,17 @@ newtab-widget-size-medium = Ertaina
 newtab-widget-size-large = Handia
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Ezkutatu widgetak
     .aria-label = Ezkutatu widget guztiak
+    .title = Ezkutatu widgetak
 newtab-widget-section-maximize =
-    .title = Zabaldu widgetak
     .aria-label = Zabaldu widget guztiak tamaina osora
+    .title = Zabaldu widgetak
 newtab-widget-section-minimize =
-    .title = Minimizatu widgetak
     .aria-label = Tolestu widget guztiak tamaina trinkora
+    .title = Minimizatu widgetak
 newtab-widget-section-menu-button =
-    .title = Widgeten menua
     .aria-label = Ireki widgeten menua
+    .title = Widgeten menua
 newtab-widget-add-widgets-button =
     .aria-label = Gehitu widgeta
     .title = Gehitu widgeta
@@ -1397,11 +1384,8 @@ newtab-promo-card-title = Lagundu { -brand-product-name }
 newtab-promo-card-body = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte
 newtab-promo-card-cta = Argibide gehiago
 newtab-promo-card-dismiss-button =
-    .title = Baztertu
     .aria-label = Baztertu
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Baztertu
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1469,8 +1453,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Aukeratu horma-papera
 newtab-sports-widget-skip = Saltatu
 newtab-sports-widget-search-country =
-    .placeholder = Bilatu herrialdea
     .aria-label = Bilatu herrialdea
+    .placeholder = Bilatu herrialdea
 newtab-sports-widget-cancel = Utzi
 newtab-sports-widget-back-button =
     .aria-label = Atzera
@@ -1537,8 +1521,8 @@ newtab-sports-widget-quarter-finals = Final laurdenak
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ZUZENEAN
 newtab-custom-widget-live-refresh =
-    .title = Berritu emaitzak
     .aria-label = Berritu emaitzak
+    .title = Berritu emaitzak
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Data garrantzitsuak
 newtab-sports-widget-upcoming = Hurrengoak
@@ -1552,10 +1536,10 @@ newtab-sports-widget-final = Finala
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Atzeratuta
 newtab-sports-widget-postponed = Atzeratuta
 newtab-sports-widget-suspended = Bertan behera utzita
@@ -1693,8 +1677,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Baztertu
     .aria-label = Baztertu
+    .title = Baztertu
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1719,34 +1703,34 @@ newtab-clock-widget-menu-switch-to-12h = Aldatu 12 orduko formatura
 newtab-clock-widget-menu-switch-to-24h = Aldatu 24 orduko formatura
 newtab-clock-widget-label-your-clocks = Zure erlojuak
 newtab-clock-widget-search-location-input =
+    .aria-label = Bilatu hiria
     .label = Kokapena
     .placeholder = Bilatu hiria
-    .aria-label = Bilatu hiria
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Ezizena (aukerakoa)
     .label = Ezizena (aukerakoa)
     .placeholder = Gehitu ezizena
-    .aria-label = Ezizena (aukerakoa)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Gehitu erloju berria
     .aria-label = Gehitu erloju berria
+    .title = Gehitu erloju berria
 newtab-clock-widget-button-add-clock = Gehitu
 newtab-clock-widget-button-cancel = Utzi
 newtab-clock-widget-button-back =
-    .title = Atzera
     .aria-label = Atzera
+    .title = Atzera
 newtab-clock-widget-button-edit-clock =
-    .title = Editatu erlojua
     .aria-label = Editatu erlojua
+    .title = Editatu erlojua
 newtab-clock-widget-button-save = Gorde
 newtab-clock-widget-button-remove-clock =
-    .title = Kendu erlojua
     .aria-label = Kendu erlojua
+    .title = Kendu erlojua
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1774,14 +1758,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Gehitu "{ $city }" erloju pertsonalizatu gisa
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Hiriaren izena
     .aria-label = Hiriaren izena
+    .label = Hiriaren izena
     .placeholder = Izendatu erloju hau
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Ordu-zona
     .aria-label = Ordu-zona
+    .label = Ordu-zona
     .placeholder = Bilatu hiriaren izenez, ordu-zonaz edo UTC desplazamenduaz
 newtab-clock-widget-custom-zone-results =
     .aria-label = Ordu-zonaren emaitzak
@@ -1797,8 +1781,8 @@ newtab-clock-widget-search-no-results = Bat datorrenik ez
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Ireki erlojuaren menua
     .aria-label = Ireki erlojuaren menua
+    .title = Ireki erlojuaren menua
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Ezizena: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

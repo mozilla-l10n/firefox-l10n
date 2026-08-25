@@ -55,17 +55,17 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = تلاش
     .aria-label = تلاش
+    .title = تلاش
 newtab-search-box-handoff-text-no-engine = پتہ تلاش یا داخل کریں
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = تلاش کریں یا پتہ داخل کریں
     .placeholder = تلاش کریں یا پتہ داخل کریں
     .title = تلاش کریں یا پتہ داخل کریں
-    .aria-label = تلاش کریں یا پتہ داخل کریں
 newtab-search-box-text = ويب پر تلاش کريں
 newtab-search-box-input =
-    .placeholder = ويب پر تلاش کريں
     .aria-label = ويب پر تلاش کريں
+    .placeholder = ويب پر تلاش کريں
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -107,22 +107,22 @@ newtab-topsite-sponsored = سپانسر شدہ
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = مینیو کھولیں
     .aria-label = مینیو کھولیں
+    .title = مینیو کھولیں
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = ہٹائیں
     .aria-label = ہٹائیں
+    .title = ہٹائیں
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = مینیو کھولیں
     .aria-label = { $title } کے لئے کونٹیکسٹ مینو کھولیں
+    .title = مینیو کھولیں
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = اس سائٹ کی تدوین کریں
     .aria-label = اس سائٹ کی تدوین کریں
+    .title = اس سائٹ کی تدوین کریں
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -247,8 +247,8 @@ newtab-custom-shortcuts-title = تیز راہ
 newtab-custom-shortcuts-subtitle = وہ سائٹس جو آپ محفوظ کرتے ہیں یا ملاحظہ کرتے ہیں۔
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = تیز راہ
     .description = وہ سائٹس جو آپ محفوظ کرتے ہیں یا ملاحظہ کرتے ہیں۔
+    .label = تیز راہ
 newtab-custom-shortcuts-nova =
     .label = تیز راہ
 # Variables

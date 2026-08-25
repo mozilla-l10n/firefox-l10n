@@ -9,8 +9,8 @@ newtab-page-title = নতুন টেব
 newtab-settings-button =
     .title = আপোনাৰ নতুন টেবৰ পৃষ্ঠা কাষ্টমাইজ কৰক
 newtab-personalize-icon-label =
-    .title = নতুন টেব ব্যক্তিগতকৰণ কৰক
     .aria-label = নতুন টেব ব্যক্তিগতকৰণ কৰক।
+    .title = নতুন টেব ব্যক্তিগতকৰণ কৰক
 newtab-personalize-dialog-label =
     .aria-label = ব্যক্তিগতকৰণ কৰক
 
@@ -26,8 +26,8 @@ home-prefs-homepage-extension-option =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = সন্ধান কৰক
     .aria-label = সন্ধান কৰক
+    .title = সন্ধান কৰক
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
@@ -35,17 +35,17 @@ newtab-search-box-handoff-text-no-engine = সন্ধান কৰক না�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
     .placeholder = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
     .title = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
-    .aria-label = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = সন্ধান কৰক নাইবা ঠিকনা লিখক
     .placeholder = সন্ধান কৰক নাইবা ঠিকনা লিখক
     .title = সন্ধান কৰক নাইবা ঠিকনা লিখক
-    .aria-label = সন্ধান কৰক নাইবা ঠিকনা লিখক
 newtab-search-box-text = ৱেবত সন্ধান কৰক
 newtab-search-box-input =
-    .placeholder = ৱেবত সন্ধান কৰক
     .aria-label = ৱেবত সন্ধান কৰক
+    .placeholder = ৱেবত সন্ধান কৰক
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -84,22 +84,22 @@ newtab-topsite-sponsored = পৃষ্ঠপোষকতা কৰা
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = মেন্যু খোলক
     .aria-label = মেন্যু খোলক
+    .title = মেন্যু খোলক
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = আঁতৰাওক
     .aria-label = আঁতৰাওক
+    .title = আঁতৰাওক
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = মেন্যু খোলক
     .aria-label = { $title }-ৰ কণ্টেক্স্‌ট মেন্যু খোলক
+    .title = মেন্যু খোলক
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = এই ছাইট সম্পাদনা কৰক
     .aria-label = এই ছাইট সম্পাদনা কৰক
+    .title = এই ছাইট সম্পাদনা কৰক
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 

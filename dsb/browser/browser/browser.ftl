@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Priwatny modus { -brand-full-name }
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = Priwatny modus { $content-title } – { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Priwatny modus { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – priwatny modus
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – priwatny modus
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – priwatny modus
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = Malsne a priwatne pśeglědowanje
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Priwatny modus { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Priwatny modus { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Priwatny modus { -brand-full-name }
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — Priwatny modus { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Priwatny modus { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = Priwatny modus { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — Priwatny modus { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Priwatny modus
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Priwatny modus { -brand-full-name }
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Priwatny modus
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — Priwatny modus
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Priwatny modus
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Priwatny modus
+    .data-title-private-with-profile = { $profile-name } — Priwatny modus { -brand-full-name }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -140,9 +140,6 @@ urlbar-identity-button2 =
             [few] Sedłowe informacije pokazaś ({ $count } pśeslědowaki blokěrowane)
            *[other] Sedłowe informacije pokazaś ({ $count } pśeslědowakow blokěrowane)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Sedłowe informacije se woglědaś
 
@@ -339,8 +336,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Toś ten bok ({ $shortcut }) ako cytańske znamje składowaś
 urlbar-split-view-button =
-    .tooltiptext = Rozdźělony naglěd
     .aria-label = Rozdźělony naglěd
+    .tooltiptext = Rozdźělony naglěd
 
 ## Searchbar context menu
 
@@ -393,9 +390,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Pytnicu „{ $engineName }“ pśidaś
     .label = „{ $engineName }“ pśidaś
     .tooltiptext = Pytnicu „{ $engineName }“ pśidaś
-    .aria-label = Pytnicu „{ $engineName }“ pśidaś
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -756,32 +753,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Web pśepytaś
     .aria-label = Z { $name } pytaś
+    .placeholder = Web pśepytaś
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Pytańske wuraze zapódaś
     .aria-label = Z { $name } pytaś
+    .placeholder = Pytańske wuraze zapódaś
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Pytańske wuraze zapódaś
     .aria-label = Cytańske znamjenja pśepytaś
+    .placeholder = Pytańske wuraze zapódaś
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Pytańske wuraze zapódaś
     .aria-label = Historiju pśepytaś
+    .placeholder = Pytańske wuraze zapódaś
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Pytańske wuraze zapódaś
     .aria-label = Rejtariki pśepytaś
+    .placeholder = Pytańske wuraze zapódaś
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Pytańske wuraze zapódaś
     .aria-label = Akcije pytaś
+    .placeholder = Pytańske wuraze zapódaś
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -884,7 +881,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -933,11 +930,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pšašaś se
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1175,10 +1167,6 @@ urlbar-searchmode-history3 = Historija
     .accesskey = H
 urlbar-searchmode-actions3 = Akcije
     .accesskey = A
-urlbar-searchmode-bookmarks2 = Cytańske znamjenja
-urlbar-searchmode-tabs2 = Rejtariki
-urlbar-searchmode-history2 = Historija
-urlbar-searchmode-actions2 = Akcije
 urlbar-searchmode-exit-button2 =
     .title = Zacyniś
 urlbar-searchmode-default2 =
@@ -1198,8 +1186,6 @@ urlbar-searchmode-popup-search-settings = Pytańske nastajenja
     .accesskey = P
 urlbar-searchmode-popup-settings = Nastajenja
     .accesskey = N
-urlbar-searchmode-popup-search-settings-panelitem = Pytańske nastajenja
-urlbar-searchmode-popup-settings-panelitem = Nastajenja
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1372,9 +1358,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Cytańske znamjenja
     .toolbarname = Rědka cytańskich znamjenjow
     .accesskey = c
-    .aria-label = Cytańske znamjenja
 bookmarks-toolbar-menu =
     .label = Rědka cytańskich znamjenjow
 bookmarks-toolbar-placeholder =
@@ -1553,9 +1539,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1798,13 +1781,6 @@ file-picker-crashed-open = Datajowy dialog Windows jo spadnuł. Dataja abo zarě
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Datajowy dialog Windows jo spadnuł. Dataja buźo se do { $path } składowaś.
 file-picker-crashed-save-nowhere = Datajowy dialog Windows jo spadnuł. Standardny zarědnik njedajo se namakaś; dataja njebuźo se składowaś.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = W zarědniku pokazaś
     .accessKey = z
@@ -1857,9 +1833,6 @@ trustpanel-blocker-see-all = Wšykne pokazaś
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Slědowański šćit za { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

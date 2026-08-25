@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Persunalisar
 newtab-customize-panel-label =
     .label = Persunalisar
 newtab-personalize-settings-icon-label =
-    .title = Persunalisar novs tabs
     .aria-label = Parameters
+    .title = Persunalisar novs tabs
 newtab-settings-dialog-label =
     .aria-label = Parameters
 newtab-personalize-icon-label =
-    .title = Persunalisar novs tabs
     .aria-label = Persunalisar novs tabs
+    .title = Persunalisar novs tabs
 newtab-personalize-dialog-label =
     .aria-label = Persunalisar
 newtab-logo-and-wordmark =
@@ -64,8 +64,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Tschertgar
 home-prefs-stories-header2 =
-    .label = Artitgels
     .description = Cuntegn excepziunal tschernì da la glieud da { -brand-product-name }
+    .label = Artitgels
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -128,8 +128,8 @@ home-prefs-mission-message-learn-more-link-srd = Vegnir a savair co quai va
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Tschertgar
     .aria-label = Tschertgar
+    .title = Tschertgar
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Tschertgar cun { $engine } u endatar in'adressa
@@ -137,17 +137,17 @@ newtab-search-box-handoff-text-no-engine = Tschertgar u endatar in'adressa
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Tschertgar cun { $engine } u endatar in'adressa
     .placeholder = Tschertgar cun { $engine } u endatar in'adressa
     .title = Tschertgar cun { $engine } u endatar in'adressa
-    .aria-label = Tschertgar cun { $engine } u endatar in'adressa
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Tschertgar u endatar in'adressa
     .placeholder = Tschertgar u endatar in'adressa
     .title = Tschertgar u endatar in'adressa
-    .aria-label = Tschertgar u endatar in'adressa
 newtab-search-box-text = Tschertgar en il web
 newtab-search-box-input =
-    .placeholder = Tschertgar en il web
     .aria-label = Tschertgar en il web
+    .placeholder = Tschertgar en il web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -157,8 +157,8 @@ newtab-topsites-edit-topsites-header = Modifitgar la pagina principala
 newtab-topsites-edit-shortcut-header = Modifitgar la scursanida
 newtab-topsites-add-shortcut-label = Agiuntar ina scursanida
 newtab-topsites-add-shortcut-title =
-    .title = Agiuntar ina scursanida
     .aria-label = Agiuntar ina scursanida
+    .title = Agiuntar ina scursanida
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Endatar in titel
@@ -201,22 +201,22 @@ topsite-label-pinned =
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Avrir il menu
     .aria-label = Avrir il menu
+    .title = Avrir il menu
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Allontanar
     .aria-label = Allontanar
+    .title = Allontanar
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Avrir il menu
     .aria-label = Avrir il menu contextual per { $title }
+    .title = Avrir il menu
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Modifitgar questa pagina
     .aria-label = Modifitgar questa pagina
+    .title = Modifitgar questa pagina
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -388,8 +388,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Grazia. Tes resun ans vegn a gidar a meglierar tes pavel.
 newtab-toast-dismiss-button =
-    .title = Serrar
     .aria-label = Serrar
+    .title = Serrar
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -408,8 +408,8 @@ newtab-custom-shortcuts-title = Scursanidas
 newtab-custom-shortcuts-subtitle = Websites che ti memoriseschas u visitas
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Scursanidas
     .description = Websites che ti memoriseschas u visitas
+    .label = Scursanidas
 newtab-custom-shortcuts-nova =
     .label = Scursanidas
 # Variables
@@ -433,8 +433,8 @@ newtab-custom-pocket-title = Recumandà da { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Cuntegn excepziunal, tschernì da { -pocket-brand-name }, in product da { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Istorgias recumandadas
     .description = Cuntegn excepziunal curà da { -brand-product-name }
+    .label = Istorgias recumandadas
 newtab-recommended-stories-toggle =
     .label = Istorgias recumandadas
 newtab-custom-stories-personalized-toggle =
@@ -447,8 +447,8 @@ newtab-custom-pocket-show-recent-saves = Mussar ils elements memorisads dacurt
 newtab-custom-recent-title = Activitad recenta
 newtab-custom-recent-subtitle = Ina selecziun da websites e cuntegn visità dacurt
 newtab-custom-weather-toggle =
-    .label = Aura
     .description = La previsiun da l’aura actuala en in’egliada
+    .label = Aura
 newtab-custom-widget-weather-toggle =
     .label = Aura
 newtab-custom-widget-lists-toggle =
@@ -461,8 +461,8 @@ newtab-custom-widget-section-toggle =
 newtab-widget-manage-title = Widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Serrar
     .aria-label = Serrar il menu
+    .title = Serrar
 newtab-custom-close-button = Serrar
 newtab-custom-settings = Administrar ulteriurs parameters
 
@@ -555,14 +555,11 @@ newtab-wallpaper-feature-highlight-content = Embellescha tes nov tab cun in nov 
 newtab-wallpaper-feature-highlight-button = Chapì
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Serrar
     .aria-label = Serrar il pop-up
+    .title = Serrar
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -589,8 +586,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponsurà
 newtab-weather-menu-change-location = Midar la posiziun
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Tschertgar in lieu
     .aria-label = Tschertgar in lieu
+    .placeholder = Tschertgar in lieu
 newtab-weather-menu-weather-display = Visualisaziun da l’aura
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -619,8 +616,8 @@ newtab-weather-static-city = New York
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Mussar la previsiun da l’aura en { $provider }
     .aria-description = { $provider } ∙ Sponsurà
+    .title = Mussar la previsiun da l’aura en { $provider }
 
 ## Topic Labels
 
@@ -771,8 +768,8 @@ newtab-widget-lists-menu-copy = Copiar la glista en l’archiv provisoric
 newtab-widget-lists-menu-learn-more = Ulteriuras infurmaziuns
 newtab-widget-lists-button-add-item = Agiuntar in element
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Agiuntar in element
     .aria-label = Agiuntar in element
+    .placeholder = Agiuntar in element
 newtab-widget-lists-input-error = Endatescha per plaschair text per agiuntar in element.
 newtab-widget-lists-input-menu-open-link = Avrir la colliaziun
 newtab-widget-lists-input-menu-move-up = Spustar ensi
@@ -788,19 +785,19 @@ newtab-widget-lists-name-placeholder-default =
     .placeholder = Glista d’incumbensas
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Nova glista
     .aria-label = Modifitgar il num da la glista
+    .placeholder = Nova glista
 newtab-widget-section-title = Widgets
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Zuppentar ils widgets
     .aria-label = Zuppentar tut ils widgets
+    .title = Zuppentar ils widgets
 newtab-widget-section-maximize =
-    .title = Extender ils widgets
     .aria-label = Extender tut ils widgets a la grondezza entira
+    .title = Extender ils widgets
 newtab-widget-section-minimize =
-    .title = Reducir ils widgets
     .aria-label = Reducir tut ils widgets a la grondezza cumpacta
+    .title = Reducir ils widgets
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -828,8 +825,8 @@ newtab-promo-card-title = Sustegnair { -brand-product-name }
 newtab-promo-card-body = Noss sponsurs sustegnan noss engaschi per crear in meglier web
 newtab-promo-card-cta = Ulteriuras infurmaziuns
 newtab-promo-card-dismiss-button =
-    .title = Serrar
     .aria-label = Serrar
+    .title = Serrar
 
 ## Strings for the Clock widget
 

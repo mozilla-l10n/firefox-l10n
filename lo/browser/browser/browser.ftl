@@ -16,9 +16,6 @@ browser-main-window-default-title = { -brand-full-name }
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = ການທ່ອງເວັບແບບສ່ວນຕົວ
-
-##
-
 urlbar-identity-button =
     .aria-label = ເບິ່ງຂໍ້ມູນເວັບໄຊທ໌
 
@@ -528,12 +525,12 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = ຊອກຫາເວັບ
     .aria-label = ຊອກດ້ວຍ { $name }
+    .placeholder = ຊອກຫາເວັບ
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາ
     .aria-label = ຄົ້ນຫາປະຫວັດ
+    .placeholder = ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາ
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -627,7 +624,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -765,10 +762,6 @@ urlbar-searchmode-popup-search-settings-menuitem =
     .label = ການຕັ້ງຄ່າການຄົ້ນຫາ
 urlbar-searchmode-dropmarker2 =
     .title = ເລືອກເຄື່ອງມືການຄົ້ນຫາ
-urlbar-searchmode-bookmarks2 = ບຸກມາກ
-urlbar-searchmode-tabs2 = ແທັບ
-urlbar-searchmode-history2 = ປະຫວັດການໃຊ້ງານ
-urlbar-searchmode-actions2 = ການກະທຳ
 urlbar-searchmode-exit-button2 =
     .title = ປິດ
 urlbar-searchmode-default2 =
@@ -776,7 +769,6 @@ urlbar-searchmode-default2 =
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = ຄັ້ງນີ້ ຄົ້ນຫາດ້ວຍ:
-urlbar-searchmode-popup-search-settings-panelitem = ການຕັ້ງຄ່າການຄົ້ນຫາ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1048,9 +1040,6 @@ picture-in-picture-move-toggle-left =
 
 ##
 
-
-# Navigator Toolbox
-
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1218,13 +1207,6 @@ file-picker-crashed-open = Windows file-dialog ໄດ້ຂັດຂ້ອງ. �
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows file-dialog ໄດ້ຂັດຂ້ອງ. ໄຟລ໌ດັ່ງກ່າວຈະຖືກບັນທຶກໄວ້ໃນ { $path }.
 file-picker-crashed-save-nowhere = Windows file-dialog ໄດ້ຂັດຂ້ອງ. ບໍ່ພົບໂຟນເດີເລີ່ມຕົ້ນ; ໄຟລ໌ຈະບໍ່ຖືກບັນທຶກໄວ້.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = ສະແດງໃນ Finder
     .accessKey = F

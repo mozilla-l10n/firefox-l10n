@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Персонализиране
 newtab-customize-panel-label =
     .label = Персонализиране
 newtab-personalize-settings-icon-label =
-    .title = Персонализиране на нов раздел
     .aria-label = Настройки
+    .title = Персонализиране на нов раздел
 newtab-settings-dialog-label =
     .aria-label = Настройки
 newtab-personalize-icon-label =
-    .title = Приспособяване на новите раздели
     .aria-label = Приспособяване на новите раздели
+    .title = Приспособяване на новите раздели
 newtab-personalize-dialog-label =
     .aria-label = Приспособяване
 newtab-logo-and-wordmark =
@@ -45,8 +45,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Търсене
 home-prefs-stories-header2 =
-    .label = Истории
     .description = Изключително съдържание, подбрано от семейството на  { -brand-product-name }
+    .label = Истории
 home-prefs-widgets-header =
     .label = Приспособления
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
@@ -137,8 +137,8 @@ newtab-picture-menu-learn-more = Научете повече
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Търсене
     .aria-label = Търсене
+    .title = Търсене
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Търсете с { $engine } или въведете адрес
@@ -146,17 +146,17 @@ newtab-search-box-handoff-text-no-engine = Търсете или въведет�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Търсете с { $engine } или въведете адрес
     .placeholder = Търсете с { $engine } или въведете адрес
     .title = Търсете с { $engine } или въведете адрес
-    .aria-label = Търсете с { $engine } или въведете адрес
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Търсете или въведете адрес
     .placeholder = Търсете или въведете адрес
     .title = Търсете или въведете адрес
-    .aria-label = Търсете или въведете адрес
 newtab-search-box-text = Търсене в интернет
 newtab-search-box-input =
-    .placeholder = Търсене в мрежата
     .aria-label = Търсене в мрежата
+    .placeholder = Търсене в мрежата
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -166,8 +166,8 @@ newtab-topsites-edit-topsites-header = Променяне на често пос
 newtab-topsites-edit-shortcut-header = Промяна на икона
 newtab-topsites-add-shortcut-label = Добавяне на пряк път
 newtab-topsites-add-shortcut-title =
-    .title = Добавяне на пряк път
     .aria-label = Добавяне на пряк път
+    .title = Добавяне на пряк път
 newtab-topsites-title-label = Заглавие
 newtab-topsites-title-input =
     .placeholder = Въведете заглавие
@@ -210,22 +210,22 @@ topsite-label-pinned =
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Отваряне на меню
     .aria-label = Отваряне на меню
+    .title = Отваряне на меню
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Премахване
     .aria-label = Премахване
+    .title = Премахване
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Отваряне на меню
     .aria-label = Отваряне на менюто за { $title }
+    .title = Отваряне на меню
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Променяне
     .aria-label = Променяне
+    .title = Променяне
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -398,8 +398,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Благодаря! Вашата обратна връзка ще ни помогне в подбора за новини.
 newtab-toast-dismiss-button =
-    .title = Отхвърляне
     .aria-label = Отхвърляне
+    .title = Отхвърляне
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -418,8 +418,8 @@ newtab-custom-shortcuts-title = Препратки
 newtab-custom-shortcuts-subtitle = Страници за преглед по-късно
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Препратки
     .description = Страници за преглед по-късно
+    .label = Препратки
 newtab-custom-shortcuts-nova =
     .label = Препратки
 newtab-custom-row-description =
@@ -445,8 +445,8 @@ newtab-custom-pocket-title = Препоръчани от { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Изключително съдържание, подбрано от { -pocket-brand-name }, част от семейството на { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Препоръчани истории
     .description = Изключително съдържание подбрано от семейството на { -brand-product-name }
+    .label = Препоръчани истории
 newtab-recommended-stories-toggle =
     .label = Препоръчани истории
 newtab-custom-stories-personalized-toggle =
@@ -459,8 +459,8 @@ newtab-custom-pocket-show-recent-saves = Показване на последн�
 newtab-custom-recent-title = Последна активност
 newtab-custom-recent-subtitle = Избрани страници и съдържание
 newtab-custom-weather-toggle =
-    .label = Времето
     .description = Времето днес накратко
+    .label = Времето
 newtab-custom-widget-weather-toggle =
     .label = Времето
 newtab-custom-widget-lists-toggle =
@@ -473,8 +473,8 @@ newtab-widget-manage-widget-button =
     .label = Управление на приставките
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Затваряне
     .aria-label = Затваряне на менюто
+    .title = Затваряне
 newtab-custom-close-button = Затваряне
 newtab-custom-settings = Настройки
 
@@ -550,8 +550,8 @@ newtab-wallpaper-white-mountains = Бели планини
 newtab-wallpaper-feature-highlight-header = Опитайте с малко цвят
 newtab-wallpaper-feature-highlight-button = Разбрах
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## Celestial
 

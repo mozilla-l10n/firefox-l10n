@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Pielāgot
 newtab-customize-panel-label =
     .label = Pielāgot
 newtab-personalize-settings-icon-label =
-    .title = Personalizēt jauno cilni
     .aria-label = Iestatījumi
+    .title = Personalizēt jauno cilni
 newtab-settings-dialog-label =
     .aria-label = Iestatījumi
 newtab-personalize-icon-label =
-    .title = Personalizēt jauno cilni
     .aria-label = Personalizēt jauno cilni
+    .title = Personalizēt jauno cilni
 newtab-personalize-dialog-label =
     .aria-label = Personalizēt
 newtab-logo-and-wordmark =
@@ -105,8 +105,8 @@ newtab-privacy-widget-label =
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Akciju logrīka opcijas
     .aria-label = Akciju logrīka opcijas
+    .title = Akciju logrīka opcijas
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akcijas
@@ -141,15 +141,15 @@ newtab-stocks-ticker-status-flat = { $name }, bez izmaiņām, { $change }, { $pr
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = Pievienot { $name } vērošanas sarakstam
     .aria-label = Pievienot { $name } vērošanas sarakstam
+    .title = Pievienot { $name } vērošanas sarakstam
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = Noņemt { $name } no vērošanas saraksta
     .aria-label = Noņemt { $name } no vērošanas saraksta
+    .title = Noņemt { $name } no vērošanas saraksta
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -178,8 +178,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Atpakaļ
     .aria-label = Atpakaļ
+    .title = Atpakaļ
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -223,8 +223,8 @@ newtab-recent-searches-menu-learn-more = Uzzināt vairāk
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Meklēt
     .aria-label = Meklēt
+    .title = Meklēt
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Meklē ar { $engine } vai ievadi adresi
@@ -232,17 +232,17 @@ newtab-search-box-handoff-text-no-engine = Meklē vai ievadi adresi
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
-    .title = Meklē ar { $engine } vai ievadi adresi
     .aria-label = Meklē ar { $engine } vai ievadi adresi
     .placeholder = Meklē ar { $engine } vai ievadi adresi
+    .title = Meklē ar { $engine } vai ievadi adresi
 newtab-search-box-handoff-input-no-engine =
-    .title = Meklē vai ievadi adresi
     .aria-label = Meklē vai ievadi adresi
     .placeholder = Meklē vai ievadi adresi
+    .title = Meklē vai ievadi adresi
 newtab-search-box-text = Meklēt tīmeklī
 newtab-search-box-input =
-    .placeholder = Meklēt tīmeklī
     .aria-label = Meklēt tīmeklī
+    .placeholder = Meklēt tīmeklī
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -252,8 +252,8 @@ newtab-topsites-edit-topsites-header = Labot populārās vietnes
 newtab-topsites-edit-shortcut-header = Labot saīsni
 newtab-topsites-add-shortcut-label = Pievienot saīsni
 newtab-topsites-add-shortcut-title =
-    .title = Pievienot saīsni
     .aria-label = Pievienot saīsni
+    .title = Pievienot saīsni
 newtab-topsites-title-label = Virsraksts
 newtab-topsites-title-input =
     .placeholder = Ievadīt nosaukumu
@@ -293,22 +293,22 @@ newtab-topsites-hover-card-just-now = Tikko
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Atvērt izvēlni
     .aria-label = Atvērt izvēlni
+    .title = Atvērt izvēlni
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Noņemt
     .aria-label = Noņemt
+    .title = Noņemt
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Atvērt izvēlni
     .aria-label = Atvērt izvēlni { $title }
+    .title = Atvērt izvēlni
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Labot šo vietni
     .aria-label = Labot šo vietni
+    .title = Labot šo vietni
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -470,8 +470,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Paldies. Jūsu atsauksmes palīdzēs mums uzlabot jūsu plūsmu.
 newtab-toast-dismiss-button =
-    .title = Noraidīt
     .aria-label = Noraidīt
+    .title = Noraidīt
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -490,8 +490,8 @@ newtab-custom-shortcuts-title = Saīsnes
 newtab-custom-shortcuts-subtitle = Saglabātās vai apmeklētās vietnes
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Saīsnes
     .description = Saglabātās vai apmeklētās vietnes
+    .label = Saīsnes
 newtab-custom-shortcuts-nova =
     .label = Saīsnes
 # Variables
@@ -517,8 +517,8 @@ newtab-custom-pocket-title = Ieteica { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Izcils saturs, ko atlasījis { -pocket-brand-name }, kas ir daļa no { -brand-product-name } saimes
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Ieteiktie stāsti
     .description = Izcils saturs, ko atlasīja { -brand-product-name } saime
+    .label = Ieteiktie stāsti
 newtab-recommended-stories-toggle =
     .label = Ieteiktie stāsti
 newtab-custom-pocket-sponsored = Sponsorētie stāsti
@@ -526,8 +526,8 @@ newtab-custom-pocket-show-recent-saves = Rādīt nesen saglabāto
 newtab-custom-recent-title = Nesenās darbības
 newtab-custom-recent-subtitle = Neseno vietņu un satura izlase
 newtab-custom-weather-toggle =
-    .label = Laikapstākļi
     .description = Šodienas prognoze ātrā acu uzmetienā
+    .label = Laikapstākļi
 newtab-custom-widget-recent-searches-toggle =
     .label = Nesenie meklējumi
 newtab-custom-close-button = Aizvērt
@@ -605,11 +605,11 @@ newtab-wallpaper-feature-highlight-content = Piešķiriet savai jaunajai cilnei 
 newtab-wallpaper-feature-highlight-button = Sapratu
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Noraidīt
     .aria-label = Aizvērt uznirstošo logu
+    .title = Noraidīt
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## New Tab Weather
 
@@ -622,8 +622,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ sponsorēts
 newtab-weather-menu-change-location = Mainīt atrašanās vietu
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Meklēt atrašanās vietu
     .aria-label = Meklēt atrašanās vietu
+    .placeholder = Meklēt atrašanās vietu
 newtab-weather-menu-weather-display = Laikapstākļu attēlotājs
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -644,8 +644,8 @@ newtab-weather-error-not-available = Laikapstākļu dati pašlaik nav pieejami.
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Skatīt prognozi { $provider }
     .aria-description = { $provider } ∙ sponsorēts
+    .title = Skatīt prognozi { $provider }
 
 ## Topic Labels
 
@@ -722,8 +722,8 @@ newtab-widget-lists-input-add-an-item2 =
     .aria-label = Pievienot vienumu
     .placeholder = Pievienot vienumu
 newtab-widget-add-widgets-button =
-    .title = Pievienot logrīku
     .aria-label = Pievienot logrīku
+    .title = Pievienot logrīku
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
@@ -737,15 +737,15 @@ newtab-sports-widget-message-add-widgets-cta =
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
-    .label = Segvārds (izvēles)
     .aria-label = Segvārds (izvēles)
+    .label = Segvārds (izvēles)
     .placeholder = Pievienot segvārdu
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Pievienot jaunu pulksteni
     .aria-label = Pievienot jaunu pulksteni
+    .title = Pievienot jaunu pulksteni
 newtab-clock-widget-button-add-clock = Pievienot
 newtab-clock-widget-add-clock-form =
     .aria-label = Pievienot pulksteni

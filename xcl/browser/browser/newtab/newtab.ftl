@@ -6,5 +6,5 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-personalize-icon-label =
-    .title = Անհատականացնել նոր ներդիրը
     .aria-label = Անհատականացնել նոր ներդիրը
+    .title = Անհատականացնել նոր ներդիրը

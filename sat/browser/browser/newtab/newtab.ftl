@@ -9,13 +9,13 @@ newtab-page-title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
 newtab-settings-button =
     .title = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱥᱟᱡᱟᱣ ᱢᱮ
 newtab-personalize-settings-icon-label =
-    .title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
     .aria-label = ᱥᱟᱡᱟᱣᱠᱚ
+    .title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
 newtab-settings-dialog-label =
     .aria-label = ᱥᱟᱡᱟᱣ ᱠᱚ
 newtab-personalize-icon-label =
-    .title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
     .aria-label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
+    .title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
 newtab-personalize-dialog-label =
     .aria-label = ᱥᱟᱡᱟᱣ
 newtab-logo-and-wordmark =
@@ -75,8 +75,8 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = ᱥᱮᱸᱫᱽᱨᱟ
     .aria-label = ᱥᱮᱸᱫᱽᱨᱟ
+    .title = ᱥᱮᱸᱫᱽᱨᱟ
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
@@ -84,17 +84,17 @@ newtab-search-box-handoff-text-no-engine = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
     .placeholder = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
     .title = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
-    .aria-label = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
     .placeholder = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
     .title = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
-    .aria-label = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
 newtab-search-box-text = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 newtab-search-box-input =
-    .placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
     .aria-label = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+    .placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -104,8 +104,8 @@ newtab-topsites-edit-topsites-header = ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ
 newtab-topsites-edit-shortcut-header = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 newtab-topsites-add-shortcut-label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 newtab-topsites-add-shortcut-title =
-    .title = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
     .aria-label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+    .title = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 newtab-topsites-title-label = ᱧᱩᱛᱩᱢ
 newtab-topsites-title-input =
     .placeholder = ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ
@@ -140,22 +140,22 @@ newtab-topsite-sponsored = ᱠᱟᱹᱢᱤᱼᱤᱭᱟᱹ
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
     .aria-label = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = ᱚᱪᱚᱜᱽ ᱢᱮ
     .aria-label = ᱚᱪᱚᱜᱽ ᱢᱮ
+    .title = ᱚᱪᱚᱜᱽ ᱢᱮ
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
     .aria-label = { $title } ᱞᱟᱹᱜᱤᱫ ᱠᱚᱱᱴᱮᱠᱥᱴ ᱢᱮᱱᱩ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+    .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
     .aria-label = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+    .title = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -309,8 +309,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱟᱞᱮ ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱥᱩᱫᱷᱨᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱞᱮ ᱮᱢᱟᱭᱟ ᱾
 newtab-toast-dismiss-button =
-    .title = ᱵᱚᱸᱫ
     .aria-label = ᱵᱚᱸᱫ
+    .title = ᱵᱚᱸᱫ
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -329,8 +329,8 @@ newtab-custom-shortcuts-title = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 newtab-custom-shortcuts-subtitle = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
     .description = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
+    .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 newtab-custom-shortcuts-nova =
     .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 # Variables
@@ -356,8 +356,8 @@ newtab-custom-pocket-title = { -pocket-brand-name } ᱮᱛ ᱵᱟᱛᱟᱣᱟᱜ
 newtab-custom-pocket-subtitle = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱸᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱠᱟᱱᱟ
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = ᱥᱚᱞᱦᱟ ᱟᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
     .description = { -brand-product-name } ᱜᱷᱟᱨᱚᱧᱡᱽ ᱦᱚᱛᱮᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱟᱠᱟᱱ ᱥᱟᱨᱦᱟᱣᱮᱱ ᱡᱤᱱᱤᱥ
+    .label = ᱥᱚᱞᱦᱟ ᱟᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
 newtab-recommended-stories-toggle =
     .label = ᱥᱚᱞᱦᱟ ᱟᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
 newtab-custom-pocket-sponsored = ᱜᱟᱲᱚ ᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
@@ -365,8 +365,8 @@ newtab-custom-pocket-show-recent-saves = ᱱᱮᱱᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱚ 
 newtab-custom-recent-title = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
 newtab-custom-recent-subtitle = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭᱤᱴ ᱟᱨ ᱡᱤᱱᱤᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱪᱷᱟᱣ
 newtab-custom-weather-toggle =
-    .label = ᱦᱚᱭ ᱦᱤᱥᱤᱫ
     .description = ᱢᱤᱫ ᱧᱮᱞ ᱛᱮ ᱛᱮᱦᱮᱧᱟᱜ ᱯᱷᱚᱨᱠᱟᱥᱴ
+    .label = ᱦᱚᱭ ᱦᱤᱥᱤᱫ
 newtab-custom-close-button = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 newtab-custom-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
 
@@ -441,11 +441,11 @@ newtab-wallpaper-feature-highlight-content = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱴᱮᱵ
 newtab-wallpaper-feature-highlight-button = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = ᱵᱚᱸᱫ
     .aria-label = ᱴᱟᱴᱠᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .title = ᱵᱚᱸᱫ
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## New Tab Weather
 
@@ -458,8 +458,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ ᱥᱯᱚᱱᱥᱚᱨ ᱟᱠᱟᱱ
 newtab-weather-menu-change-location = ᱡᱟᱭᱜᱟ ᱵᱚᱫᱚᱞ ᱢᱮ
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = ᱡᱟᱭᱜᱟ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
     .aria-label = ᱡᱟᱭᱜᱟ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+    .placeholder = ᱡᱟᱭᱜᱟ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 newtab-weather-menu-weather-display = ᱦᱚᱭ ᱦᱤᱥᱤᱫ ᱩᱫᱩᱜ
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -480,8 +480,8 @@ newtab-weather-error-not-available = ᱱᱤᱛᱚᱜ ᱫᱚ ᱦᱚᱭ ᱦᱤᱥ�
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = { $provider } ᱨᱮ ᱨᱮ ᱯᱷᱚᱨᱠᱟᱥᱴ ᱧᱮᱞ ᱢᱮ
     .aria-description = { $provider } ∙ ᱥᱯᱚᱱᱥᱚᱨ ᱟᱠᱟᱱ
+    .title = { $provider } ᱨᱮ ᱨᱮ ᱯᱷᱚᱨᱠᱟᱥᱴ ᱧᱮᱞ ᱢᱮ
 
 ## Topic Labels
 

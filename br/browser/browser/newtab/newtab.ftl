@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Personelaat
 newtab-customize-panel-label =
     .label = Personelaat
 newtab-personalize-settings-icon-label =
-    .title = Personelaat an ivinell nevez
     .aria-label = Arventennoù
+    .title = Personelaat an ivinell nevez
 newtab-settings-dialog-label =
     .aria-label = Arventennoù
 newtab-personalize-icon-label =
-    .title = Personelaat un ivinell nevez
     .aria-label = Personelaat un ivinell nevez
+    .title = Personelaat un ivinell nevez
 newtab-personalize-dialog-label =
     .aria-label = Personelaat
 newtab-logo-and-wordmark =
@@ -90,8 +90,8 @@ home-prefs-support-firefox-header-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Klask
     .aria-label = Klask
+    .title = Klask
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Klask gant { $engine } pe skrivañ ur chomlecʼh
@@ -99,17 +99,17 @@ newtab-search-box-handoff-text-no-engine = Klask pe skrivañ ur chomlecʼh
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Klask gant { $engine } pe skrivañ ur chomlecʼh
     .placeholder = Klask gant { $engine } pe skrivañ ur chomlecʼh
     .title = Klask gant { $engine } pe skrivañ ur chomlecʼh
-    .aria-label = Klask gant { $engine } pe skrivañ ur chomlecʼh
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Klask pe skrivañ ur chomlecʼh
     .placeholder = Klask pe skrivañ ur chomlecʼh
     .title = Klask pe skrivañ ur chomlecʼh
-    .aria-label = Klask pe skrivañ ur chomlecʼh
 newtab-search-box-text = Klask er web
 newtab-search-box-input =
-    .placeholder = Klask er web
     .aria-label = Klask er web
+    .placeholder = Klask er web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -119,8 +119,8 @@ newtab-topsites-edit-topsites-header = Kemmañ al lec'hienn wellañ
 newtab-topsites-edit-shortcut-header = Kemmañ ar verradenn
 newtab-topsites-add-shortcut-label = Ouzhpennañ ur verradenn
 newtab-topsites-add-shortcut-title =
-    .title = Ouzhpennañ ur verradenn
     .aria-label = Ouzhpennañ ur verradenn
+    .title = Ouzhpennañ ur verradenn
 newtab-topsites-title-label = Titl
 newtab-topsites-title-input =
     .placeholder = Enankañ un titl
@@ -155,22 +155,22 @@ newtab-topsite-sponsored = Paeroniet
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Digeriñ al lañser
     .aria-label = Digeriñ al lañser
+    .title = Digeriñ al lañser
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Dilemel
     .aria-label = Dilemel
+    .title = Dilemel
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Digeriñ al lañser
     .aria-label = Digeriñ al lañser kemperzhel evit { $title }
+    .title = Digeriñ al lañser
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Embann al lec'hienn-mañ
     .aria-label = Embann al lec'hienn-mañ
+    .title = Embann al lec'hienn-mañ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -318,8 +318,8 @@ newtab-pocket-saved = Enrollet
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
 newtab-toast-dismiss-button =
-    .title = Argas
     .aria-label = Argas
+    .title = Argas
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -338,8 +338,8 @@ newtab-custom-shortcuts-title = Berradennoù
 newtab-custom-shortcuts-subtitle = Lec'hiennoù bet enrollet pe gweladennet ganeoc'h
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Berradennoù
     .description = Lec'hiennoù bet enrollet pe gweladennet ganeoc'h
+    .label = Berradennoù
 newtab-custom-shortcuts-nova =
     .label = Berradennoù
 # Variables
@@ -438,11 +438,11 @@ newtab-wallpaper-attribution = Foto gant <a data-l10n-name="name-link">{ $author
 newtab-wallpaper-feature-highlight-button = Komprenet am eus
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Argas
     .aria-label = Serriñ an diflugell
+    .title = Argas
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## Celestial
 
@@ -457,8 +457,8 @@ newtab-wallpaper-celestial-river = Skeudenn-loarell ur stêr
 newtab-weather-sponsored = { $provider } ∙ Paeroniet
 newtab-weather-menu-change-location = Cheñch al lec’h
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Klask ul lec’h
     .aria-label = Klask ul lec’h
+    .placeholder = Klask ul lec’h
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

@@ -9,8 +9,8 @@ newtab-page-title = Taba ùr
 newtab-settings-button =
     .title = Gnàthaich duilleag nan tabaichean ùra agad
 newtab-personalize-icon-label =
-    .title = Gnàthaich an taba ùr
     .aria-label = Gnàthaich an taba ùr
+    .title = Gnàthaich an taba ùr
 newtab-personalize-dialog-label =
     .aria-label = Gnàthaich
 
@@ -69,8 +69,8 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Lorg
     .aria-label = Lorg
+    .title = Lorg
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Dèan lorg le { $engine } no cuir a-steach seòladh
@@ -78,17 +78,17 @@ newtab-search-box-handoff-text-no-engine = Dèan lorg no cuir a-steach seòladh
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Dèan lorg le { $engine } no cuir a-steach seòladh
     .placeholder = Dèan lorg le { $engine } no cuir a-steach seòladh
     .title = Dèan lorg le { $engine } no cuir a-steach seòladh
-    .aria-label = Dèan lorg le { $engine } no cuir a-steach seòladh
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Dèan lorg no cuir a-steach seòladh
     .placeholder = Dèan lorg no cuir a-steach seòladh
     .title = Dèan lorg no cuir a-steach seòladh
-    .aria-label = Dèan lorg no cuir a-steach seòladh
 newtab-search-box-text = Lorg air an lìon
 newtab-search-box-input =
-    .placeholder = Lorg air an lìon
     .aria-label = Lorg air an lìon
+    .placeholder = Lorg air an lìon
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -130,22 +130,22 @@ newtab-topsite-sponsored = Sponsairichte
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Fosgail an clàr-taice
     .aria-label = Fosgail an clàr-taice
+    .title = Fosgail an clàr-taice
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Thoir air falbh
     .aria-label = Thoir air falbh
+    .title = Thoir air falbh
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Fosgail an clàr-taice
     .aria-label = Fosgail an clàr-taice co-theacsail aig { $title }
+    .title = Fosgail an clàr-taice
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Deasaich an làrach seo
     .aria-label = Deasaich an làrach seo
+    .title = Deasaich an làrach seo
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -298,8 +298,8 @@ newtab-custom-shortcuts-title = Ath-ghoiridean
 newtab-custom-shortcuts-subtitle = Làraichean a shàbhail thu no a thadhail thu orra
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Ath-ghoiridean
     .description = Làraichean a shàbhail thu no a thadhail thu orra
+    .label = Ath-ghoiridean
 newtab-custom-shortcuts-nova =
     .label = Ath-ghoiridean
 # Variables

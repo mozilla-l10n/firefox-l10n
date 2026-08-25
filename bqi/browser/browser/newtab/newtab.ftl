@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = سفارشی کردن
 newtab-customize-panel-label =
     .label = سفارشی کردن
 newtab-personalize-settings-icon-label =
-    .title = سیخومی کردن بلگه نۊ
     .aria-label = سامووا
+    .title = سیخومی کردن بلگه نۊ
 newtab-settings-dialog-label =
     .aria-label = سامووا
 newtab-personalize-icon-label =
-    .title = سیخومی کردن بلگه نۊ
     .aria-label = سیخومی کردن بلگه نۊ
+    .title = سیخومی کردن بلگه نۊ
 newtab-personalize-dialog-label =
     .aria-label = سیخومی کردن
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = رڌ کردن
     .aria-label = رڌ کردن
+    .title = رڌ کردن
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -57,8 +57,8 @@ home-custom-homepage-address-button =
 home-custom-homepage-no-results =
     .label = هنی هیچ وبگهی ازاف نوابیڌه.
 home-custom-homepage-delete-address-button =
-    .title = پاک کردن نشۊوی
     .aria-label = پاک کردن نشۊوی
+    .title = پاک کردن نشۊوی
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -187,9 +187,6 @@ newtab-privacy-across-sites =
        *[other] من پوی { $count } وبگه
     }
 
-## Privacy widget — empty state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -249,8 +246,8 @@ newtab-stocks-error-not-available = دووسمندیا سهام من دسرس ن
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = گۊزینه یل ویجت سهام
     .aria-label = گۊزینه یل ویجت سهام
+    .title = گۊزینه یل ویجت سهام
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = سهام
@@ -268,17 +265,14 @@ newtab-stocks-ticker-status-down = { $name }، لم { $change }، { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }، بؽ آلشتکاری { $change }، { $price }
 
-## Stocks widget watchlist add and remove controls
-
-
 ## Stocks widget ticker search
 
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = وورگشتن
     .aria-label = وورگشتن
+    .title = وورگشتن
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -303,8 +297,8 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = گۊزینه یل شؽوات رۊز
     .aria-label = گۊزینه یل شؽوات رۊز
+    .title = گۊزینه یل شؽوات رۊز
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = دؽوۉداری کاقز دیواری
 # Context menu item that restores today’s picture after it has been hidden.
@@ -313,8 +307,8 @@ newtab-picture-menu-show-photo = نشووݩ داڌن شؽوات ٱمرۊز
 newtab-picture-menu-learn-more = قلوه دووسته بۊین
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = نشووݩ داڌن شؽوات ٱمرۊز
     .aria-label = نشووݩ داڌن شؽوات ٱمرۊز
+    .title = نشووݩ داڌن شؽوات ٱمرۊز
 
 ## Strings for the Recent Searches widget
 
@@ -323,16 +317,12 @@ newtab-recent-searches-widget-title = پیتینیڌنا دیندایی
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = پیتینیڌن
     .aria-label = پیتینیڌن
+    .title = پیتینیڌن
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
@@ -340,17 +330,17 @@ newtab-search-box-handoff-text-no-engine = پیتینیڌن یا زیڌن نشۊ
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
     .placeholder = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
     .title = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
-    .aria-label = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = پیتینیڌن یا زیڌن نشۊوی
     .placeholder = پیتینیڌن یا زیڌن نشۊوی
     .title = پیتینیڌن یا زیڌن نشۊوی
-    .aria-label = پیتینیڌن یا زیڌن نشۊوی
 newtab-search-box-text = پیتینیڌن من وب
 newtab-search-box-input =
-    .placeholder = پیتینیڌن من وب
     .aria-label = پیتینیڌن من وب
+    .placeholder = پیتینیڌن من وب
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -359,8 +349,8 @@ newtab-topsites-add-shortcut-header = ره نهنگ نۊ
 newtab-topsites-edit-shortcut-header = آلشت ره نهنگ
 newtab-topsites-add-shortcut-label = ٱووردن ره نهنگ
 newtab-topsites-add-shortcut-title =
-    .title = ٱووردن ره نهنگ
     .aria-label = ٱووردن ره نهنگ
+    .title = ٱووردن ره نهنگ
 newtab-topsites-title-label = عونوان
 newtab-topsites-title-input =
     .placeholder = زیڌن ی عونوان
@@ -374,9 +364,6 @@ newtab-topsites-use-image-link = و کار گرؽڌن ی شؽوات سفارشی
 newtab-topsites-image-validation =
     بار ونی شؽوات شکست خرد.
     نشۊوی دیری ن امتهووݩ کۊنین.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = روفتن هؽل
 
@@ -411,35 +398,35 @@ topsite-label-pinned =
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = هیم سکو
 newtab-topsites-hover-card-mark-all-read =
-    .title = علامت زیڌن پوی و عونوان خونده وابیڌه
     .aria-label = علامت زیڌن پوی و عونوان خونده وابیڌه
+    .title = علامت زیڌن پوی و عونوان خونده وابیڌه
 newtab-topsites-hover-card-settings =
-    .title = سامووا وارسۊوی
     .aria-label = سامووا وارسۊوی
+    .title = سامووا وارسۊوی
 newtab-topsites-hover-card-dismiss =
-    .title = رڌ کردن
     .aria-label = رڌ کردن
+    .title = رڌ کردن
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = گۊشیڌن نومگه
     .aria-label = گۊشیڌن نومگه
+    .title = گۊشیڌن نومگه
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = پاک کردن
     .aria-label = پاک کردن
+    .title = پاک کردن
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = گۊشیڌن نومگه
     .aria-label = نومگه زمینه ن سی { $title } بۊگۊشین
+    .title = گۊشیڌن نومگه
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = آلشت ای وبگه
     .aria-label = آلشت ای وبگه
+    .title = آلشت ای وبگه
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -557,9 +544,6 @@ newtab-section-header-recent-activity = فعالیتا دیندایی
 newtab-section-header-pocket = پؽشنهاڌ وابیڌه و دست { $provider }
 newtab-section-header-stories = داستانا فرگ کردنی
 
-## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-
-
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = تموم وابی!
@@ -601,8 +585,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = ممنووݩ داریم. منشڌ ایسا و ایما من بؽڌر وابیڌن فید ایسا هیاری اده.
 newtab-toast-dismiss-button =
-    .title = رڌ کردن
     .aria-label = رڌ کردن
+    .title = رڌ کردن
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -647,8 +631,8 @@ newtab-custom-pocket-show-recent-saves = نشووݩ داڌن زفت وابیڌن
 newtab-custom-recent-title = فعالیتا دیندایی
 newtab-custom-recent-subtitle = پسند وابیڌه یلی ز وبگه یل وو موئتوا هیم دمۊوی
 newtab-custom-weather-toggle =
-    .label = ٱو وو هوا
     .description = پؽش بینی ٱمرۊز من ی سیل
+    .label = ٱو وو هوا
 newtab-custom-widget-weather-toggle =
     .label = ٱو وو هوا
 newtab-custom-widget-lists-toggle =
@@ -675,13 +659,10 @@ newtab-widget-manage-widget-button =
     .label = دؽوۉداری ویجتا
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = بستن
     .aria-label = بستن نومگه
+    .title = بستن
 newtab-custom-close-button = بستن
 newtab-custom-settings = دؽوۉداری سامووا قلوه
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = شؽوات
 # Button that enables an already-installed theme.
@@ -770,14 +751,11 @@ newtab-wallpaper-feature-highlight-content = وا شؽوات پس زمینه، �
 newtab-wallpaper-feature-highlight-button = فئمیم
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = رڌ کردن
     .aria-label = بستن نیمدری گۊشیڌنی
+    .title = رڌ کردن
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -844,8 +822,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = پؽش بینی ن من { $provider } بوینین
     .aria-description = { $provider } ∙ هؽزگری وابیڌه
+    .title = پؽش بینی ن من { $provider } بوینین
 
 ## Topic Labels
 
@@ -1006,8 +984,8 @@ newtab-widget-lists-menu-copy = لف گیری نومگه من کلیپ بورد
 newtab-widget-lists-menu-learn-more = قلوه دووسته بۊین
 newtab-widget-lists-button-add-item = ٱووردن ی موورد
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = ٱووردن ی موورد
     .aria-label = ٱووردن ی موورد
+    .placeholder = ٱووردن ی موورد
 newtab-widget-lists-input-menu-open-link = گۊشیڌن لینگ
 newtab-widget-lists-input-menu-move-up = جاگورو و روء
 newtab-widget-lists-input-menu-move-down = جاگورو و لم
@@ -1016,8 +994,8 @@ newtab-widget-lists-input-menu-edit = آلشت
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = آلشت موورد
 newtab-widget-lists-edit-clear =
-    .title = لقو
     .aria-label = لقو
+    .title = لقو
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = گۊزینه یل نومگه
@@ -1030,8 +1008,8 @@ newtab-widget-lists-name-placeholder-default =
     .placeholder = نومگه کارا
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = نومگه نۊ
     .aria-label = آلشت نومگه نوم
+    .placeholder = نومگه نۊ
 newtab-widget-section-title = ویجتا
 newtab-widget-menu-hide = بؽڌار کردن ویجت
 newtab-widget-menu-change-size = آلشت هندا
@@ -1049,11 +1027,11 @@ newtab-widget-size-medium = منجقا
 newtab-widget-size-large = گپ
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = بؽڌار کردن ویجتا
     .aria-label = بؽڌار کردن پوی ویجتا
+    .title = بؽڌار کردن ویجتا
 newtab-widget-add-widgets-button =
-    .title = ٱووردن ویجت
     .aria-label = ٱووردن ویجت
+    .title = ٱووردن ویجت
 newtab-widget-section-menu-manage = دؽوۉداری ویجتا
 newtab-widget-section-menu-hide-all = بؽڌار کردن ویجتا
 newtab-widget-section-menu-learn-more = قلوه دووسته بۊین
@@ -1088,11 +1066,8 @@ newtab-promo-card-cta-addons = هیم سکو امتهووݩ کوݩ
 newtab-promo-card-title = لادرار { -brand-product-name }
 newtab-promo-card-cta = قلوه دووسته بۊین
 newtab-promo-card-dismiss-button =
-    .title = رڌ کردن
     .aria-label = رڌ کردن
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = رڌ کردن
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -1137,8 +1112,8 @@ newtab-sports-widget-view-all =
 newtab-sports-widget-show-less =
     .label = نشووݩ داڌن کمتر
 newtab-sports-widget-watch-dialog-close =
-    .title = بستن
     .aria-label = بستن
+    .title = بستن
 newtab-sports-widget-group-stage = مرهله بونکۊیی
 newtab-sports-widget-group-a = بونکۊ A
 newtab-sports-widget-group-b = بونکۊ B
@@ -1168,10 +1143,10 @@ newtab-sports-widget-final = فینال
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-cancelled = لقو وابی
 newtab-sports-widget-view-results-link = نیشتن نتیجه یل
 newtab-sports-widget-third-place = مقام سووم
@@ -1187,12 +1162,12 @@ newtab-sports-widget-match-penalties = جریمه یل
 
 # arrow button that goes to the previous page of live matches.
 newtab-sports-widget-pagination-previous =
-    .title = دیندایی
     .aria-label = دیندایی
+    .title = دیندایی
 # arrow button that goes to the next page of live matches.
 newtab-sports-widget-pagination-next =
-    .title = بئڌی
     .aria-label = بئڌی
+    .title = بئڌی
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1219,17 +1194,14 @@ newtab-sports-widget-team-name-label-sco =
 newtab-sports-widget-message-add-widgets-cta =
     .label = ٱووردن ویجتا
 
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = رڌ کردن
     .aria-label = رڌ کردن
+    .title = رڌ کردن
 newtab-activation-window-message-customization-focus-primary-button =
     .label = ناهاڌن پا سفارشی کردن
 
@@ -1239,8 +1211,8 @@ newtab-clock-widget-menu-learn-more = قلوه دووسته بۊین
 newtab-clock-widget-button-add-clock = ٱووردن
 newtab-clock-widget-button-cancel = لقو
 newtab-clock-widget-button-back =
-    .title = وورگشتن
     .aria-label = وورگشتن
+    .title = وورگشتن
 newtab-clock-widget-button-save = زفت
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen

@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Privater Modus
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name } Privater Modus
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Privater Modus
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – Privater Modus
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – Privater Modus
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – Privater Modus
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = Schnelles und privates Surfen
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Privater Modus
-    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } – { -brand-full-name } Privater Modus
     .data-content-title-default = { $content-title } – { -brand-full-name }
-    .data-content-title-private = { $content-title } – { -brand-full-name } Privater Modus
     .data-content-title-default-with-profile = { $content-title } – { $profile-name } – { -brand-full-name }
+    .data-content-title-private = { $content-title } – { -brand-full-name } Privater Modus
     .data-content-title-private-with-profile = { $content-title } – { $profile-name } – { -brand-full-name } Privater Modus
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
+    .data-title-private = { -brand-full-name } Privater Modus
+    .data-title-private-with-profile = { $profile-name } – { -brand-full-name } Privater Modus
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – Privater Modus
-    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } – { -brand-full-name } Privater Modus
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } – Privater Modus
     .data-content-title-default-with-profile = { $content-title } – { $profile-name }
+    .data-content-title-private = { $content-title } – Privater Modus
     .data-content-title-private-with-profile = { $content-title } – { $profile-name } – Privater Modus
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
+    .data-title-private = { -brand-full-name } – Privater Modus
+    .data-title-private-with-profile = { $profile-name } – { -brand-full-name } Privater Modus
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -138,9 +138,6 @@ urlbar-identity-button2 =
             [one] Website-Informationen anzeigen ({ $count } Tracker blockiert)
            *[other] Website-Informationen anzeigen ({ $count } Tracker blockiert)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Seiteninformationen anzeigen
 
@@ -337,8 +334,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Lesezeichen für diese Seite setzen ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = Geteilte Ansicht
     .aria-label = Geteilte Ansicht
+    .tooltiptext = Geteilte Ansicht
 
 ## Searchbar context menu
 
@@ -391,9 +388,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Suchmaschine "{ $engineName }" hinzufügen
     .label = "{ $engineName }" hinzufügen
     .tooltiptext = Suchmaschine "{ $engineName }" hinzufügen
-    .aria-label = Suchmaschine "{ $engineName }" hinzufügen
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -743,32 +740,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Das Web durchsuchen
     .aria-label = Mit { $name } suchen
+    .placeholder = Das Web durchsuchen
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Suchbegriffe eingeben
     .aria-label = { $name } durchsuchen
+    .placeholder = Suchbegriffe eingeben
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Suchbegriffe eingeben
     .aria-label = Lesezeichen durchsuchen
+    .placeholder = Suchbegriffe eingeben
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .aria-label = Chronik durchsuchen
     .placeholder = Suchbegriffe eingeben
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Suchbegriffe eingeben
     .aria-label = Tabs durchsuchen
+    .placeholder = Suchbegriffe eingeben
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Suchbegriffe eingeben
     .aria-label = Aktionen durchsuchen
+    .placeholder = Suchbegriffe eingeben
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -871,7 +868,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -920,11 +917,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Gesponsert
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Fragen
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1144,10 +1136,6 @@ urlbar-searchmode-history3 = Chronik
     .accesskey = C
 urlbar-searchmode-actions3 = Aktionen
     .accesskey = A
-urlbar-searchmode-bookmarks2 = Lesezeichen
-urlbar-searchmode-tabs2 = Tabs
-urlbar-searchmode-history2 = Chronik
-urlbar-searchmode-actions2 = Aktionen
 urlbar-searchmode-exit-button2 =
     .title = Schließen
 urlbar-searchmode-default2 =
@@ -1167,8 +1155,6 @@ urlbar-searchmode-popup-search-settings = Sucheinstellungen
     .accesskey = S
 urlbar-searchmode-popup-settings = Einstellungen
     .accesskey = E
-urlbar-searchmode-popup-search-settings-panelitem = Sucheinstellungen
-urlbar-searchmode-popup-settings-panelitem = Einstellungen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1341,9 +1327,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Lesezeichen
     .toolbarname = Lesezeichen-Symbolleiste
     .accesskey = L
-    .aria-label = Lesezeichen
 bookmarks-toolbar-menu =
     .label = Lesezeichen-Symbolleiste
 bookmarks-toolbar-placeholder =
@@ -1520,9 +1506,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1753,13 +1736,6 @@ file-picker-crashed-open = Der Windows-Dateidialog ist abgestürzt. Es konnte ke
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Der Windows-Dateidialog ist abgestürzt. Die Datei wird unter { $path } gespeichert.
 file-picker-crashed-save-nowhere = Der Windows-Dateidialog ist abgestürzt. Es konnte kein Standardordner gefunden werden; die Datei wird nicht gespeichert.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = In Ordner anzeigen
     .accessKey = O
@@ -1812,9 +1788,6 @@ trustpanel-blocker-see-all = Alle anzeigen
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Verfolgungsschutz für { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

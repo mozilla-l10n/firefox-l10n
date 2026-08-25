@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (privaatne veebilehitsemine)
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } (privaatne veebilehitsemine)
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } (privaatne veebilehitsemine)
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — privaatne veebilehitsemine
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — privaatne veebilehitsemine
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — privaatne veebilehitsemine
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,14 +67,14 @@ private-browsing-shortcut-text-2 = { -brand-shortcut-name } (privaatne veebilehi
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (privaatne veebilehitsemine)
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } (privaatne veebilehitsemine)
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } (privaatne veebilehitsemine)
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } (privaatne veebilehitsemine)
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } (privaatne veebilehitsemine)
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } (privaatne veebilehitsemine)
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } (privaatne veebilehitsemine)
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -99,14 +99,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } —  Privaatne veebilehitsemine
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } (Privaatne veebilehitsemine)
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Privaatne veebilehitsemine
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — Privaatne veebilehitsemine
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Privaatne veebilehitsemine
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } —  Privaatne veebilehitsemine
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } (Privaatne veebilehitsemine)
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -117,9 +117,6 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } —  Privaatne veebilehitsemine
        *[other] { -brand-full-name } (privaatne veebilehitsemine)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Vaata saidi teavet
 
@@ -315,9 +312,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Lisa otsingumootor “{ $engineName }”
     .label = Lisa “{ $engineName }”
     .tooltiptext = Lisa otsingumootor “{ $engineName }”
-    .aria-label = Lisa otsingumootor “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -554,32 +551,32 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Otsi veebist
     .aria-label = Otsi otsingumootoriga { $name }
+    .placeholder = Otsi veebist
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi otsingumootoriga { $name }
+    .placeholder = Sisesta otsitav fraas
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi järjehoidjatest
+    .placeholder = Sisesta otsitav fraas
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi ajaloost
+    .placeholder = Sisesta otsitav fraas
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi kaartide seast
+    .placeholder = Sisesta otsitav fraas
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi tegevusi
+    .placeholder = Sisesta otsitav fraas
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -661,10 +658,6 @@ urlbar-searchmode-history =
     .label = Ajalugu
 urlbar-searchmode-actions =
     .label = Tegevused
-urlbar-searchmode-bookmarks2 = Järjehoidjad
-urlbar-searchmode-tabs2 = Kaardid
-urlbar-searchmode-history2 = Ajalugu
-urlbar-searchmode-actions2 = Tegevused
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -775,9 +768,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Järjehoidjad
     .toolbarname = Järjehoidjariba
     .accesskey = J
-    .aria-label = Järjehoidjad
 bookmarks-toolbar-menu =
     .label = Järjehoidjariba
 bookmarks-toolbar-placeholder =
@@ -898,9 +891,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

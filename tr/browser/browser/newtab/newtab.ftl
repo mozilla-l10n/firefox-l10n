@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Özelleştir
 newtab-customize-panel-label =
     .label = Özelleştir
 newtab-personalize-settings-icon-label =
-    .title = Yeni sekmeyi kişiselleştir
     .aria-label = Ayarlar
+    .title = Yeni sekmeyi kişiselleştir
 newtab-settings-dialog-label =
     .aria-label = Ayarlar
 newtab-personalize-icon-label =
-    .title = Yeni sekmeyi kişiselleştir
     .aria-label = Yeni sekmeyi kişiselleştir
+    .title = Yeni sekmeyi kişiselleştir
 newtab-personalize-dialog-label =
     .aria-label = Kişiselleştir
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Kapat
     .aria-label = Kapat
+    .title = Kapat
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Arama
 home-prefs-stories-header2 =
-    .label = Haberler
     .description = { -brand-product-name } ailesinin seçtiği harika içerikler
+    .label = Haberler
 home-prefs-widgets-header =
     .label = Araçlar
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -281,8 +281,8 @@ newtab-stocks-error-not-available = Borsa verileri kullanılamıyor.
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Borsa aracı seçenekleri
     .aria-label = Borsa aracı seçenekleri
+    .title = Borsa aracı seçenekleri
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Borsa
@@ -298,9 +298,6 @@ newtab-stocks-ticker-status-up = { $name }, { $change } artış, { $price }
 # Stock decreased (went down) during the day
 newtab-stocks-ticker-status-down = { $name }, { $change } düşüş, { $price }
 
-## Stocks widget watchlist add and remove controls
-
-
 ## Stocks widget ticker search
 
 # "Search results" is the accessible label for the list of tickers matching the
@@ -311,8 +308,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Geri
     .aria-label = Geri
+    .title = Geri
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -345,14 +342,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Günün resmi seçenekleri
     .aria-label = Günün resmi seçenekleri
+    .title = Günün resmi seçenekleri
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Günün resmini duvar kâğıdım yap
     .label = Duvar kâğıdı yap
     .title = Duvar kâğıdı yap
-    .aria-label = Günün resmini duvar kâğıdım yap
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Duvar kâğıdını yönet
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -364,8 +361,8 @@ newtab-picture-menu-show-photo = Günün resmini göster
 newtab-picture-menu-learn-more = Daha fazla bilgi al
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Günün resmini göster
     .aria-label = Günün resmini göster
+    .title = Günün resmini göster
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Yarın yeni bir resim burada sizi bekleyecek
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -382,16 +379,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Daha fazla bilgi al
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Ara
     .aria-label = Ara
+    .title = Ara
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } ile arama yapın veya adres yazın
@@ -399,17 +392,17 @@ newtab-search-box-handoff-text-no-engine = Arama yapın veya adres yazın
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = { $engine } ile arama yapın veya adres yazın
     .placeholder = { $engine } ile arama yapın veya adres yazın
     .title = { $engine } ile arama yapın veya adres yazın
-    .aria-label = { $engine } ile arama yapın veya adres yazın
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Arama yapın veya adres yazın
     .placeholder = Arama yapın veya adres yazın
     .title = Arama yapın veya adres yazın
-    .aria-label = Arama yapın veya adres yazın
 newtab-search-box-text = Web’de ara
 newtab-search-box-input =
-    .placeholder = Web’de ara
     .aria-label = Web’de ara
+    .placeholder = Web’de ara
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -419,8 +412,8 @@ newtab-topsites-edit-topsites-header = Sık kullanılan siteyi düzenle
 newtab-topsites-edit-shortcut-header = Kısayolu düzenle
 newtab-topsites-add-shortcut-label = Kısayol ekle
 newtab-topsites-add-shortcut-title =
-    .title = Kısayol ekle
     .aria-label = Kısayol ekle
+    .title = Kısayol ekle
 newtab-shortcuts-pinned-area = Sabitlenmiş alan
 newtab-topsites-title-label = Başlık
 newtab-topsites-title-input =
@@ -433,9 +426,6 @@ newtab-topsites-image-url-label = Özel resim adresi
 newtab-topsites-use-custom-image-link = Özel resim kullan
 newtab-topsites-use-image-link = Özel resim kullan…
 newtab-topsites-image-validation = Resim yüklenemedi. Başka bir adres deneyin.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Metni temizle
 
@@ -473,35 +463,35 @@ newtab-topsites-hover-card-header = { $site } bildirimleri
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Az önce
 newtab-topsites-hover-card-mark-all-read =
-    .title = Tümünü okundu olarak işaretle
     .aria-label = Tümünü okundu olarak işaretle
+    .title = Tümünü okundu olarak işaretle
 newtab-topsites-hover-card-settings =
-    .title = Bildirim ayarları
     .aria-label = Bildirim ayarları
+    .title = Bildirim ayarları
 newtab-topsites-hover-card-dismiss =
-    .title = Kapat
     .aria-label = Kapat
+    .title = Kapat
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Menüyü aç
     .aria-label = Menüyü aç
+    .title = Menüyü aç
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Kaldır
     .aria-label = Kaldır
+    .title = Kaldır
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Menüyü aç
     .aria-label = { $title } sağ tıklama menüsünü aç
+    .title = Menüyü aç
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Bu siteyi düzenle
     .aria-label = Bu siteyi düzenle
+    .title = Bu siteyi düzenle
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -682,8 +672,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Teşekkürler. Geri bildiriminiz akışınızı geliştirmemize yardımcı olacak.
 newtab-toast-dismiss-button =
-    .title = Kapat
     .aria-label = Kapat
+    .title = Kapat
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -702,13 +692,13 @@ newtab-custom-shortcuts-title = Kısayollar
 newtab-custom-shortcuts-subtitle = Kaydettiğiniz veya ziyaret ettiğiniz siteler
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Kısayollar
     .description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
+    .label = Kısayollar
 newtab-custom-shortcuts-nova =
     .label = Kısayollar
 newtab-custom-web-notifications-toggle =
-    .label = Web bildirimleri
     .description = Sitelerden gelen bildirimleri sitelerin kısayollarında göster
+    .label = Web bildirimleri
 newtab-custom-row-description =
     .description = Satır sayısı
 # Variables
@@ -732,8 +722,8 @@ newtab-custom-pocket-title = { -pocket-brand-name } önerileri
 newtab-custom-pocket-subtitle = { -brand-product-name } ailesinin bir parçası olan { -pocket-brand-name }’ın seçtiği harika içerikler
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Önerilen makaleler
     .description = { -brand-product-name } ailesinin seçtiği harika içerikler
+    .label = Önerilen makaleler
 newtab-recommended-stories-toggle =
     .label = Önerilen makaleler
 newtab-custom-stories-personalized-toggle =
@@ -746,8 +736,8 @@ newtab-custom-pocket-show-recent-saves = Son kaydedilenleri göster
 newtab-custom-recent-title = Son etkinlikler
 newtab-custom-recent-subtitle = Son kullanılan siteler ve içeriklerden bir seçki
 newtab-custom-weather-toggle =
-    .label = Hava durumu
     .description = Bugünkü hava durumu tahmini
+    .label = Hava durumu
 newtab-custom-widget-weather-toggle =
     .label = Hava durumu
 newtab-custom-widget-lists-toggle =
@@ -774,13 +764,10 @@ newtab-widget-manage-widget-button =
     .label = Araçları yönet
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Kapat
     .aria-label = Menüyü kapat
+    .title = Kapat
 newtab-custom-close-button = Kapat
 newtab-custom-settings = Diğer ayarları yönet
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Görünüm
 # Button that opens the full browser theme selection view.
@@ -893,14 +880,11 @@ newtab-wallpaper-feature-highlight-content = Duvar kâğıtlarıyla yeni sekme s
 newtab-wallpaper-feature-highlight-button = Anladım
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Kapat
     .aria-label = Açılır pencereyi kapat
+    .title = Kapat
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -927,8 +911,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponsorlu
 newtab-weather-menu-change-location = Konumu değiştir
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Konum ara
     .aria-label = Konum ara
+    .placeholder = Konum ara
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Şu anki konumu kullan
@@ -972,8 +956,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = { $provider } tahminlerine bak
     .aria-description = { $provider } ∙ Sponsorlu
+    .title = { $provider } tahminlerine bak
 
 ## Topic Labels
 
@@ -1174,8 +1158,8 @@ newtab-widget-lists-menu-copy = Listeyi panoya kopyala
 newtab-widget-lists-menu-learn-more = Daha fazla bilgi al
 newtab-widget-lists-button-add-item = Görev ekle
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Görev ekle
     .aria-label = Görev ekle
+    .placeholder = Görev ekle
 newtab-widget-lists-input-error = Görev eklemek için lütfen metin yazın.
 newtab-widget-lists-input-menu-open-link = Bağlantıyı aç
 newtab-widget-lists-input-menu-move-up = Yukarı taşı
@@ -1200,12 +1184,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Görev listesi
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Görev listesi
     .aria-label = Liste adını düzenle
+    .placeholder = Görev listesi
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Yeni liste
     .aria-label = Liste adını düzenle
+    .placeholder = Yeni liste
 newtab-widget-section-title = Araçlar
 newtab-widget-menu-hide = Aracı gizle
 newtab-widget-menu-change-size = Boyutu değiştir
@@ -1223,17 +1207,17 @@ newtab-widget-size-medium = Orta
 newtab-widget-size-large = Büyük
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Araçları gizle
     .aria-label = Tüm araçları gizle
+    .title = Araçları gizle
 newtab-widget-section-maximize =
-    .title = Araçları genişlet
     .aria-label = Tüm araçları tam boyuta genişlet
+    .title = Araçları genişlet
 newtab-widget-section-minimize =
-    .title = Araçları küçült
     .aria-label = Tüm araçları kompakt boyuta küçült
+    .title = Araçları küçült
 newtab-widget-section-menu-button =
-    .title = Araçlar menüsü
     .aria-label = Araçlar menüsünü aç
+    .title = Araçlar menüsü
 newtab-widget-add-widgets-button =
     .aria-label = Araç ekle
     .title = Araç ekle
@@ -1294,11 +1278,8 @@ newtab-promo-card-title = { -brand-product-name } tarayıcısını destekleyin
 newtab-promo-card-body = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
 newtab-promo-card-cta = Daha fazla bilgi alın
 newtab-promo-card-dismiss-button =
-    .title = Kapat
     .aria-label = Kapat
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Kapat
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1366,8 +1347,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Duvar kâğıdı seç
 newtab-sports-widget-skip = Atla
 newtab-sports-widget-search-country =
-    .placeholder = Ülke ara
     .aria-label = Ülke ara
+    .placeholder = Ülke ara
 newtab-sports-widget-cancel = Vazgeç
 newtab-sports-widget-back-button =
     .aria-label = Geri
@@ -1434,8 +1415,8 @@ newtab-sports-widget-quarter-finals = Çeyrek finaller
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = CANLI
 newtab-custom-widget-live-refresh =
-    .title = Skorları yenile
     .aria-label = Skorları yenile
+    .title = Skorları yenile
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Önemli tarihler
 newtab-sports-widget-upcoming = Yaklaşan
@@ -1449,10 +1430,10 @@ newtab-sports-widget-final = Final
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Gecikmeli
 newtab-sports-widget-postponed = Ertelendi
 newtab-sports-widget-suspended = Askıya alındı
@@ -1590,8 +1571,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Kapat
     .aria-label = Kapat
+    .title = Kapat
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1616,34 +1597,34 @@ newtab-clock-widget-menu-switch-to-12h = 12 saatlik biçime geç
 newtab-clock-widget-menu-switch-to-24h = 24 saatlik biçime geç
 newtab-clock-widget-label-your-clocks = Saatleriniz
 newtab-clock-widget-search-location-input =
+    .aria-label = Şehir ara
     .label = Konum
     .placeholder = Şehir ara
-    .aria-label = Şehir ara
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Ad (isteğe bağlı)
     .label = Ad (isteğe bağlı)
     .placeholder = Ad ekle
-    .aria-label = Ad (isteğe bağlı)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Yeni saat ekle
     .aria-label = Yeni saat ekle
+    .title = Yeni saat ekle
 newtab-clock-widget-button-add-clock = Ekle
 newtab-clock-widget-button-cancel = Vazgeç
 newtab-clock-widget-button-back =
-    .title = Geri
     .aria-label = Geri
+    .title = Geri
 newtab-clock-widget-button-edit-clock =
-    .title = Saati düzenle
     .aria-label = Saati düzenle
+    .title = Saati düzenle
 newtab-clock-widget-button-save = Kaydet
 newtab-clock-widget-button-remove-clock =
-    .title = Saati sil
     .aria-label = Saati sil
+    .title = Saati sil
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1671,14 +1652,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = “{ $city }” şehrini özel saat olarak ekle
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Şehir adı
     .aria-label = Şehir adı
+    .label = Şehir adı
     .placeholder = Bu saati adlandırın
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Saat dilimi
     .aria-label = Saat dilimi
+    .label = Saat dilimi
     .placeholder = Şehre, saat dilimine veya UTC farklılığına göre ara
 newtab-clock-widget-custom-zone-results =
     .aria-label = Saat dilimi sonuçları
@@ -1694,8 +1675,8 @@ newtab-clock-widget-search-no-results = Eşleşme bulunamadı
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Saat menüsünü aç
     .aria-label = Saat menüsünü aç
+    .title = Saat menüsünü aç
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Ad: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

@@ -45,11 +45,11 @@ home-prefs-highlights-option-most-recent-download-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = खोजें
     .aria-label = खोजें
+    .title = खोजें
 newtab-search-box-input =
-    .placeholder = वेब पर खोजें
     .aria-label = वेब पर खोजें
+    .placeholder = वेब पर खोजें
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -87,22 +87,22 @@ newtab-confirm-delete-history-p2 = इस क्रिया को पहले
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = मेन्यू खोलें
     .aria-label = मेन्यू खोलें
+    .title = मेन्यू खोलें
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = हटाएं
     .aria-label = हटाएं
+    .title = हटाएं
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = मेन्यू खोलें
     .aria-label = { $title } के लिए कॉन्टेक्स्ट मेनू खोलें
+    .title = मेन्यू खोलें
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = इस साइट को संपादित करें
     .aria-label = इस साइट को संपादित करें
+    .title = इस साइट को संपादित करें
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -247,8 +247,8 @@ newtab-wallpaper-brown = भूरा
 ## Firefox
 
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## Strings for the Clock widget
 

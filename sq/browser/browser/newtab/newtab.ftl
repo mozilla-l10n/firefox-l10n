@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Përshtateni
 newtab-customize-panel-label =
     .label = Përshtateni
 newtab-personalize-settings-icon-label =
-    .title = Personalizoni Skedën e Re
     .aria-label = Rregullime
+    .title = Personalizoni Skedën e Re
 newtab-settings-dialog-label =
     .aria-label = Rregullime
 newtab-personalize-icon-label =
-    .title = Personalizoni skedën e re
     .aria-label = Personalizoni skedën e re
+    .title = Personalizoni skedën e re
 newtab-personalize-dialog-label =
     .aria-label = Personalizojeni
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Hidhe tej
     .aria-label = Hidhe tej
+    .title = Hidhe tej
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Kërko
 home-prefs-stories-header2 =
-    .label = Histori
     .description = Lëndë e veçantë, nën kujdesin e familjes { -brand-product-name }
+    .label = Histori
 home-prefs-widgets-header =
     .label = Widget-e
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -145,8 +145,8 @@ home-prefs-mission-message-learn-more-link-srd = Mësoni se si
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Kërko
     .aria-label = Kërko
+    .title = Kërko
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Kërkoni me { $engine } ose jepni adresë
@@ -154,17 +154,17 @@ newtab-search-box-handoff-text-no-engine = Bëni kërkim, ose jepni adresë
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Kërkoni me { $engine } ose jepni adresë
     .placeholder = Kërkoni me { $engine } ose jepni adresë
     .title = Kërkoni me { $engine } ose jepni adresë
-    .aria-label = Kërkoni me { $engine } ose jepni adresë
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Bëni kërkim, ose jepni adresë
     .placeholder = Bëni kërkim, ose jepni adresë
     .title = Bëni kërkim, ose jepni adresë
-    .aria-label = Bëni kërkim, ose jepni adresë
 newtab-search-box-text = Kërkoni në Web
 newtab-search-box-input =
-    .placeholder = Kërkoni në Web
     .aria-label = Kërkoni në Web
+    .placeholder = Kërkoni në Web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -174,8 +174,8 @@ newtab-topsites-edit-topsites-header = Përpunoni Sajtin Kryesues
 newtab-topsites-edit-shortcut-header = Përpunoni Shkurtore
 newtab-topsites-add-shortcut-label = Shtoni Shkurtore
 newtab-topsites-add-shortcut-title =
-    .title = Shtoni Shkurtore
     .aria-label = Shtoni Shkurtore
+    .title = Shtoni Shkurtore
 newtab-topsites-title-label = Titull
 newtab-topsites-title-input =
     .placeholder = Jepni një titull
@@ -187,9 +187,6 @@ newtab-topsites-image-url-label = URL Figure Vetjake
 newtab-topsites-use-custom-image-link = Përdorni një figurë vetjake
 newtab-topsites-use-image-link = Përdorni një figurë vetjake…
 newtab-topsites-image-validation = Dështoi ngarkimi i figurës. Provoni një URL tjetër.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Spastroje tekstin
 
@@ -223,22 +220,22 @@ topsite-label-pinned =
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Hapni menunë
     .aria-label = Hapni menunë
+    .title = Hapni menunë
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Hiqe
     .aria-label = Hiqe
+    .title = Hiqe
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Hapni menunë
     .aria-label = Hapni menu konteksti për { $title }
+    .title = Hapni menunë
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Përpunoni këtë sajt
     .aria-label = Përpunoni këtë sajt
+    .title = Përpunoni këtë sajt
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -406,8 +403,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Faleminderit. Përshtypjet tuaja do të na ndihmojnë të përmirësojmë prurjen për ju.
 newtab-toast-dismiss-button =
-    .title = Hidhe tej
     .aria-label = Hidhe tej
+    .title = Hidhe tej
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -426,8 +423,8 @@ newtab-custom-shortcuts-title = Shkurtore
 newtab-custom-shortcuts-subtitle = Sajte që ruani ose vizitoni
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Shkurtore
     .description = Sajte që ruani ose vizitoni
+    .label = Shkurtore
 newtab-custom-shortcuts-nova =
     .label = Shkurtore
 # Variables
@@ -451,8 +448,8 @@ newtab-custom-pocket-title = Rekomanduar nga { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Lëndë e jashtëzakonshme, në kujdesin e { -pocket-brand-name }, pjesë e familjes { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Histori të rekomanduara
     .description = Lëndë e veçantë, nën kujdesin e familjes { -brand-product-name }
+    .label = Histori të rekomanduara
 newtab-recommended-stories-toggle =
     .label = Histori të rekomanduara
 newtab-custom-stories-personalized-toggle =
@@ -465,8 +462,8 @@ newtab-custom-pocket-show-recent-saves = Shfaq të ruajturat së fundi
 newtab-custom-recent-title = Veprimtari së fundi
 newtab-custom-recent-subtitle = Një përzgjedhje sajtesh dhe lënde së fundi
 newtab-custom-weather-toggle =
-    .label = Moti
     .description = Parashikimi i motit për sot me një vështrim
+    .label = Moti
 newtab-custom-widget-weather-toggle =
     .label = Moti
 newtab-custom-widget-lists-toggle =
@@ -481,8 +478,8 @@ newtab-widget-manage-widget-button =
     .label = Administroni widget-e
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Mbylle
     .aria-label = Mbylleni menunë
+    .title = Mbylle
 newtab-custom-close-button = Mbylle
 newtab-custom-settings = Administroni më tepër rregullime
 
@@ -575,14 +572,11 @@ newtab-wallpaper-feature-highlight-content = Jepini Skedës tuaj të Re një pam
 newtab-wallpaper-feature-highlight-button = E mora vesh
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Hidhe tej
     .aria-label = Mbylleni flluskën
+    .title = Hidhe tej
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -609,8 +603,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ E sponsorizuar
 newtab-weather-menu-change-location = Ndryshoni vendndodhje
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Kërkoni për vendndodhje
     .aria-label = Kërkoni për vendndodhje
+    .placeholder = Kërkoni për vendndodhje
 newtab-weather-menu-weather-display = Shfaqje moti
 newtab-weather-todays-forecast = Moti për sot
 newtab-weather-see-full-forecast = Shihni parashikimin e plotë të motit
@@ -641,8 +635,8 @@ newtab-weather-static-city = Nju Jork Siti
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Shihni parashikimin në { $provider }
     .aria-description = { $provider } ∙ E sponsorizuar
+    .title = Shihni parashikimin në { $provider }
 
 ## Topic Labels
 
@@ -797,8 +791,8 @@ newtab-widget-lists-menu-copy = Kopjoje listën në të papastër
 newtab-widget-lists-menu-learn-more = Mësoni më tepër
 newtab-widget-lists-button-add-item = Shtoni një objekt
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Shtoni një objekt
     .aria-label = Shtoni një objekt
+    .placeholder = Shtoni një objekt
 newtab-widget-lists-input-error = Ju lutemi, që të shtohet një objekt, përfshini tekst.
 newtab-widget-lists-input-menu-open-link = Hape lidhjen
 newtab-widget-lists-input-menu-move-up = Ngjite sipër
@@ -814,20 +808,20 @@ newtab-widget-lists-name-placeholder-default =
     .placeholder = Listë punësh
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Listë e re
     .aria-label = Përpunoni emër liste
+    .placeholder = Listë e re
 newtab-widget-section-title = Widget-e
 newtab-widget-menu-hide = Fshihe widget-in
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Fshihni widget-et
     .aria-label = Fshihni krejt widget-et
+    .title = Fshihni widget-et
 newtab-widget-section-maximize =
-    .title = Zgjeroji widget-et
     .aria-label = Zgjeroji krejt widget-et sa madhësia e plotë
+    .title = Zgjeroji widget-et
 newtab-widget-section-minimize =
-    .title = Minimizoji widget-et
     .aria-label = Tkurri krejt widget-et sa madhësia kompakte
+    .title = Minimizoji widget-et
 newtab-widget-section-menu-manage = Administroni widget-e
 newtab-widget-section-feedback = Tregonani si ju duket
 
@@ -863,8 +857,8 @@ newtab-promo-card-title = Përkrahni { -brand-product-name }
 newtab-promo-card-body = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë
 newtab-promo-card-cta = Mësoni më tepër
 newtab-promo-card-dismiss-button =
-    .title = Hidhe tej
     .aria-label = Hidheni tej
+    .title = Hidhe tej
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -872,8 +866,8 @@ newtab-promo-card-dismiss-button =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Hidhe tej
     .aria-label = Hidhe tej
+    .title = Hidhe tej
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.

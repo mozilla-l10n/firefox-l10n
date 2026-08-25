@@ -148,9 +148,6 @@ popups-infobar-dont-show-message =
 
 ##
 
-
-# Navigator Toolbox
-
 navbar-downloads =
     .label = ڈاؤن لوڈز
 navbar-overflow =

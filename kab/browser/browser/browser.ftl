@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Inig uslig { -brand-full-name }
     .data-content-title-default = { $content-title }—{ -brand-full-name }
     .data-content-title-private = { $content-title }— Inig uslig { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Inig uslig { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Tunigin tusligt
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Tunigin tusligt
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Tunigin tusligt
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = Tinigin taruradt, tusligt deg we
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Tunigin tusligt
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Tunigin tusligt
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Tunigin tusligt
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Tunigin tusligt
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Tunigin tusligt
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } Tunigin tusligt
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Tunigin tusligt
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Tunigin tusligt
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Tunigin tusligt
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Tunigin tusligt
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — Tunigin tusligt
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Tunigin tusligt
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Tunigin tusligt
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Tunigin tusligt
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -122,9 +122,6 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Tunigin tusligt
-
-##
-
 urlbar-identity-button =
     .aria-label = Sken talɣut n usmel
 
@@ -347,9 +344,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Rnu amsedday n unadi “{ $engineName }”
     .label = Rnu “{ $engineName }”
     .tooltiptext = Rnu amsedday n unadi “{ $engineName }”
-    .aria-label = Rnu amsedday n unadi “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -677,32 +674,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Nadi deg uẓeṭṭa web
     .aria-label = Nadi s { $name }
+    .placeholder = Nadi deg uẓeṭṭa web
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Sekcem awalen n unadi
     .aria-label = Nadi s { $name }
+    .placeholder = Sekcem awalen n unadi
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Sekcem awalen n unadi
     .aria-label = Nadi s tecraḍ
+    .placeholder = Sekcem awalen n unadi
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Sekcem awalen n unadi
     .aria-label = Amazray n unadi
+    .placeholder = Sekcem awalen n unadi
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Sekcem awalen n unadi
     .aria-label = Iccaren n unadi
+    .placeholder = Sekcem awalen n unadi
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Sekcem awalen n unadi
     .aria-label = Nadi tigawin
+    .placeholder = Sekcem awalen n unadi
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -804,7 +801,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -955,10 +952,6 @@ urlbar-searchmode-button-no-engine2 =
     .title = Ulac anegzum n unasiw i yettwafernen, ren anegzum
 urlbar-searchmode-dropmarker2 =
     .title = Fren amsedday n unadi
-urlbar-searchmode-bookmarks2 = Ticraḍ n isebtar
-urlbar-searchmode-tabs2 = Tibzimin
-urlbar-searchmode-history2 = Azray
-urlbar-searchmode-actions2 = Tigawin
 urlbar-searchmode-exit-button2 =
     .title = Mdel
 urlbar-searchmode-default2 =
@@ -974,8 +967,6 @@ urlbar-searchmode-popup-one-off-header = Tikkelt-a, nadi s:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Nadi s:
-urlbar-searchmode-popup-search-settings-panelitem = Iɣewwaren n unadi
-urlbar-searchmode-popup-settings-panelitem = Iɣewwaren
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1144,9 +1135,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Ticraḍ n yisebtar
     .toolbarname = Afeggag n tecraḍ n yisebtar
     .accesskey = B
-    .aria-label = Ticraḍ n yisebtar
 bookmarks-toolbar-menu =
     .label = Afeggag n tecraḍ n yisebtar
 bookmarks-toolbar-placeholder =
@@ -1294,9 +1285,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = Z
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1474,13 +1462,6 @@ popup-trigger-redirect-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Sken deg ukaram
     .accessKey = F
@@ -1518,9 +1499,6 @@ trustpanel-blocker-see-all = Wali akk
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ammesten n uḍfar i { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

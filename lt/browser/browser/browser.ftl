@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = „{ -brand-full-name }“ privatusis naršymas
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – „{ -brand-full-name }“ privatusis naršymas
+    .data-title-default = { -brand-full-name }
+    .data-title-private = „{ -brand-full-name }“ privatusis naršymas
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – privatusis naršymas
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – privatusis naršymas
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – privatusis naršymas
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -48,9 +48,6 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = „{ -brand-shortcut-name }“ privatusis naršymas
-
-##
-
 urlbar-identity-button =
     .aria-label = Peržiūrėti svetainės informaciją
 
@@ -231,9 +228,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Pridėti ieškyklę „{ $engineName }“
     .label = Pridėti „{ $engineName }“
     .tooltiptext = Pridėti ieškyklę „{ $engineName }“
-    .aria-label = Pridėti ieškyklę „{ $engineName }“
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -508,32 +505,32 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Ieškokite saityne
     .aria-label = Ieškoti per „{ $name }“
+    .placeholder = Ieškokite saityne
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Įveskite ieškomą tekstą
     .aria-label = Ieškoti per „{ $name }“
+    .placeholder = Įveskite ieškomą tekstą
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Įveskite ieškomą tekstą
     .aria-label = Ieškoti adresyne
+    .placeholder = Įveskite ieškomą tekstą
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Įveskite ieškomą tekstą
     .aria-label = Ieškoti žurnale
+    .placeholder = Įveskite ieškomą tekstą
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Įveskite ieškomą tekstą
     .aria-label = Ieškote kortelėse
+    .placeholder = Įveskite ieškomą tekstą
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Įveskite ieškomą tekstą
     .aria-label = Paieškos veiksmai
+    .placeholder = Įveskite ieškomą tekstą
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -615,10 +612,6 @@ urlbar-searchmode-history =
     .label = Žurnalas
 urlbar-searchmode-actions =
     .label = Veiksmai
-urlbar-searchmode-bookmarks2 = Adresynas
-urlbar-searchmode-tabs2 = Kortelės
-urlbar-searchmode-history2 = Žurnalas
-urlbar-searchmode-actions2 = Veiksmai
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -742,9 +735,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Adresynas
     .toolbarname = Adresyno juosta
     .accesskey = A
-    .aria-label = Adresynas
 bookmarks-toolbar-menu =
     .label = Adresyno juosta
 bookmarks-toolbar-placeholder =
@@ -871,9 +864,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = k
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

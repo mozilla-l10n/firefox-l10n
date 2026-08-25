@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = 自訂
 newtab-customize-panel-label =
     .label = 自訂
 newtab-personalize-settings-icon-label =
-    .title = 個人化新分頁
     .aria-label = 設定
+    .title = 個人化新分頁
 newtab-settings-dialog-label =
     .aria-label = 設定
 newtab-personalize-icon-label =
-    .title = 個人化新分頁
     .aria-label = 個人化新分頁
+    .title = 個人化新分頁
 newtab-personalize-dialog-label =
     .aria-label = 個人化
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = 知道了！
     .aria-label = 知道了！
+    .title = 知道了！
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = 搜尋
 home-prefs-stories-header2 =
-    .label = 文章
     .description = 由 { -brand-product-name } 產品家族精選的內容文章
+    .label = 文章
 home-prefs-widgets-header =
     .label = 小工具
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -302,8 +302,8 @@ newtab-stocks-error-not-available = 無法提供股市資料。
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = 股市小工具選項
     .aria-label = 股市小工具選項
+    .title = 股市小工具選項
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = 股市
@@ -338,15 +338,15 @@ newtab-stocks-ticker-status-flat = { $name }，平盤，{ $change }，{ $price }
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = 將 { $name } 加入自選清單
     .aria-label = 將 { $name } 加入自選清單
+    .title = 將 { $name } 加入自選清單
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = 從自選清單移除 { $name }
     .aria-label = 從自選清單移除 { $name }
+    .title = 從自選清單移除 { $name }
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -375,8 +375,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = 上一頁
     .aria-label = 上一頁
+    .title = 上一頁
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -413,14 +413,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = 每日一圖選項
     .aria-label = 每日一圖選項
+    .title = 每日一圖選項
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = 將今天的每日一圖設定為背景圖
     .label = 設為背景圖
     .title = 設為背景圖
-    .aria-label = 將今天的每日一圖設定為背景圖
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 管理背景圖
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -432,8 +432,8 @@ newtab-picture-menu-show-photo = 顯示今天的照片
 newtab-picture-menu-learn-more = 更多資訊
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = 顯示今天的照片
     .aria-label = 顯示今天的照片
+    .title = 顯示今天的照片
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = 請於明天再回來看看新照片
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -450,16 +450,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = 更多資訊
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = 搜尋
     .aria-label = 搜尋
+    .title = 搜尋
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = 使用 { $engine } 搜尋或輸入網址
@@ -467,17 +463,17 @@ newtab-search-box-handoff-text-no-engine = 搜尋或輸入網址
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = 使用 { $engine } 搜尋或輸入網址
     .placeholder = 使用 { $engine } 搜尋或輸入網址
     .title = 使用 { $engine } 搜尋或輸入網址
-    .aria-label = 使用 { $engine } 搜尋或輸入網址
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = 搜尋或輸入網址
     .placeholder = 搜尋或輸入網址
     .title = 搜尋或輸入網址
-    .aria-label = 搜尋或輸入網址
 newtab-search-box-text = 搜尋 Web
 newtab-search-box-input =
-    .placeholder = 搜尋 Web
     .aria-label = 搜尋 Web
+    .placeholder = 搜尋 Web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -487,8 +483,8 @@ newtab-topsites-edit-topsites-header = 編輯熱門網站
 newtab-topsites-edit-shortcut-header = 編輯捷徑
 newtab-topsites-add-shortcut-label = 新增捷徑
 newtab-topsites-add-shortcut-title =
-    .title = 新增捷徑
     .aria-label = 新增捷徑
+    .title = 新增捷徑
 newtab-shortcuts-pinned-area = 釘選區域
 newtab-topsites-title-label = 標題
 newtab-topsites-title-input =
@@ -501,9 +497,6 @@ newtab-topsites-image-url-label = 自訂圖片網址
 newtab-topsites-use-custom-image-link = 使用自訂圖片
 newtab-topsites-use-image-link = 使用自訂圖片…
 newtab-topsites-image-validation = 圖片載入失敗，請改用不同網址。
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = 清除文字
 
@@ -541,35 +534,35 @@ newtab-topsites-hover-card-header = 來自 { $site } 的通知
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = 剛剛
 newtab-topsites-hover-card-mark-all-read =
-    .title = 全部標示為已讀
     .aria-label = 全部標示為已讀
+    .title = 全部標示為已讀
 newtab-topsites-hover-card-settings =
-    .title = 通知設定
     .aria-label = 通知設定
+    .title = 通知設定
 newtab-topsites-hover-card-dismiss =
-    .title = 知道了！
     .aria-label = 知道了！
+    .title = 知道了！
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = 開啟選單
     .aria-label = 開啟選單
+    .title = 開啟選單
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = 移除
     .aria-label = 移除
+    .title = 移除
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = 開啟選單
     .aria-label = 開啟 { $title } 的右鍵選單
+    .title = 開啟選單
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = 編輯此網站
     .aria-label = 編輯此網站
+    .title = 編輯此網站
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -750,8 +743,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = 感謝您。您的意見可幫助我們改善顯示的內容。
 newtab-toast-dismiss-button =
-    .title = 知道了！
     .aria-label = 知道了！
+    .title = 知道了！
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -770,13 +763,13 @@ newtab-custom-shortcuts-title = 捷徑
 newtab-custom-shortcuts-subtitle = 您儲存或造訪過的網站
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = 捷徑
     .description = 您儲存或造訪過的網站
+    .label = 捷徑
 newtab-custom-shortcuts-nova =
     .label = 捷徑
 newtab-custom-web-notifications-toggle =
-    .label = 網頁通知
     .description = 在捷徑中顯示來自該網站的通知
+    .label = 網頁通知
 newtab-custom-row-description =
     .description = 資料列數
 # Variables
@@ -800,8 +793,8 @@ newtab-custom-pocket-title = 由 { -pocket-brand-name } 推薦
 newtab-custom-pocket-subtitle = 由 { -brand-product-name } 的姊妹作 { -pocket-brand-name } 精心策展的內容
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = 推薦的文章
     .description = 由 { -brand-product-name } 產品家族精選的內容文章
+    .label = 推薦的文章
 newtab-recommended-stories-toggle =
     .label = 推薦的文章
 newtab-custom-stories-personalized-toggle =
@@ -814,8 +807,8 @@ newtab-custom-pocket-show-recent-saves = 顯示近期儲存項目
 newtab-custom-recent-title = 近期動態
 newtab-custom-recent-subtitle = 近期造訪過的網站與內容精選
 newtab-custom-weather-toggle =
-    .label = 天氣
     .description = 快速了解本日天氣
+    .label = 天氣
 newtab-custom-widget-weather-toggle =
     .label = 天氣
 newtab-custom-widget-lists-toggle =
@@ -842,13 +835,10 @@ newtab-widget-manage-widget-button =
     .label = 管理小工具
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = 關閉
     .aria-label = 關閉選單
+    .title = 關閉
 newtab-custom-close-button = 關閉
 newtab-custom-settings = 管理更多設定
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = 外觀設定
 # Button that opens the full browser theme selection view.
@@ -961,14 +951,11 @@ newtab-wallpaper-feature-highlight-content = 讓您的「新分頁」耳目一�
 newtab-wallpaper-feature-highlight-button = 知道了！
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = 隱藏
     .aria-label = 關閉彈出視窗
+    .title = 隱藏
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -995,8 +982,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ 贊助資訊
 newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = 搜尋位置
     .aria-label = 搜尋位置
+    .placeholder = 搜尋位置
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = 使用目前所在位置
@@ -1040,8 +1027,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = 到 { $provider } 檢視天氣預報
     .aria-description = { $provider } ∙ 贊助資訊
+    .title = 到 { $provider } 檢視天氣預報
 
 ## Topic Labels
 
@@ -1242,8 +1229,8 @@ newtab-widget-lists-menu-copy = 複製清單到剪貼簿
 newtab-widget-lists-menu-learn-more = 更多資訊
 newtab-widget-lists-button-add-item = 新增項目
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = 新增項目
     .aria-label = 新增項目
+    .placeholder = 新增項目
 newtab-widget-lists-input-error = 請加入文字來新增項目。
 newtab-widget-lists-input-menu-open-link = 開啟鏈結
 newtab-widget-lists-input-menu-move-up = 上移
@@ -1268,12 +1255,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = 任務清單
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = 檢查清單
     .aria-label = 編輯清單名稱
+    .placeholder = 檢查清單
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = 新增清單
     .aria-label = 編輯清單名稱
+    .placeholder = 新增清單
 newtab-widget-section-title = 小工具
 newtab-widget-menu-hide = 隱藏小工具
 newtab-widget-menu-change-size = 更改大小
@@ -1291,17 +1278,17 @@ newtab-widget-size-medium = 中
 newtab-widget-size-large = 大
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = 隱藏小工具
     .aria-label = 隱藏所有小工具
+    .title = 隱藏小工具
 newtab-widget-section-maximize =
-    .title = 展開小工具
     .aria-label = 將所有小工具展開成完整大小
+    .title = 展開小工具
 newtab-widget-section-minimize =
-    .title = 最小化小工具
     .aria-label = 將所有小工具摺疊成精簡大小
+    .title = 最小化小工具
 newtab-widget-section-menu-button =
-    .title = 小工具選單
     .aria-label = 開啟小工具選單
+    .title = 小工具選單
 newtab-widget-add-widgets-button =
     .aria-label = 新增小工具
     .title = 新增小工具
@@ -1362,11 +1349,8 @@ newtab-promo-card-title = 支持 { -brand-product-name }
 newtab-promo-card-body = 贊助商支持我們打造出一個更好的網路環境的使命
 newtab-promo-card-cta = 更多資訊
 newtab-promo-card-dismiss-button =
-    .title = 知道了！
     .aria-label = 知道了！
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = 知道了！
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1422,8 +1406,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = 挑選一張背景圖
 newtab-sports-widget-skip = 略過
 newtab-sports-widget-search-country =
-    .placeholder = 搜尋國家
     .aria-label = 搜尋國家
+    .placeholder = 搜尋國家
 newtab-sports-widget-cancel = 取消
 newtab-sports-widget-back-button =
     .aria-label = 返回
@@ -1490,8 +1474,8 @@ newtab-sports-widget-quarter-finals = 8 強賽
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = 進行中
 newtab-custom-widget-live-refresh =
-    .title = 重新整理分數
     .aria-label = 重新整理分數
+    .title = 重新整理分數
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = 重要日期
 newtab-sports-widget-upcoming = 即將到來
@@ -1505,10 +1489,10 @@ newtab-sports-widget-final = 決賽
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = 延後開賽
 newtab-sports-widget-postponed = 延期
 newtab-sports-widget-suspended = 比賽暫停
@@ -1646,8 +1630,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = 知道了！
     .aria-label = 知道了！
+    .title = 知道了！
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1672,34 +1656,34 @@ newtab-clock-widget-menu-switch-to-12h = 切換為 12 小時格式
 newtab-clock-widget-menu-switch-to-24h = 切換為 24 小時格式
 newtab-clock-widget-label-your-clocks = 您的時鐘
 newtab-clock-widget-search-location-input =
+    .aria-label = 搜尋城市
     .label = 位置
     .placeholder = 搜尋城市
-    .aria-label = 搜尋城市
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = 暱稱（選填）
     .label = 暱稱（選填）
     .placeholder = 新增暱稱
-    .aria-label = 暱稱（選填）
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = 新增時鐘
     .aria-label = 新增時鐘
+    .title = 新增時鐘
 newtab-clock-widget-button-add-clock = 新增
 newtab-clock-widget-button-cancel = 取消
 newtab-clock-widget-button-back =
-    .title = 返回
     .aria-label = 返回
+    .title = 返回
 newtab-clock-widget-button-edit-clock =
-    .title = 編輯時鐘
     .aria-label = 編輯時鐘
+    .title = 編輯時鐘
 newtab-clock-widget-button-save = 儲存
 newtab-clock-widget-button-remove-clock =
-    .title = 移除時鐘
     .aria-label = 移除時鐘
+    .title = 移除時鐘
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1727,14 +1711,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = 將「{ $city }」新增為自訂時鐘
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = 城市名稱
     .aria-label = 城市名稱
+    .label = 城市名稱
     .placeholder = 命名此時鐘
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = 時區
     .aria-label = 時區
+    .label = 時區
     .placeholder = 搜尋城市名稱、時區名稱或 UTC 時差
 newtab-clock-widget-custom-zone-results =
     .aria-label = 時區搜尋結果
@@ -1750,8 +1734,8 @@ newtab-clock-widget-search-no-results = 沒有符合的城市
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = 開啟時鐘選單
     .aria-label = 開啟時鐘選單
+    .title = 開啟時鐘選單
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = 暱稱：{ $nickname }
 # Curated World Clock city names. The value is the city name shown on the

@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Pori Preifat
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Pori Preifat
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Pori Preifat
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Pori Preifat
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Pori Preifat
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Pori Preifat
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = Pori gwe cyflym a phreifat
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Pori Preifat { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Pori Preifat { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Pori Preifat { -brand-full-name }
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — Pori Preifat { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Pori Preifat { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = Pori Preifat { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — Pori Preifat { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Pori Preifat
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Pori Preifat { -brand-full-name }
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } —Pori Preifat
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } —Pori Preifat
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Pori Preifat
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Pori Preifat
+    .data-title-private-with-profile = { $profile-name } — Pori Preifat { -brand-full-name }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -142,9 +142,6 @@ urlbar-identity-button2 =
             [many] Gweld manylion gwefan ({ $count } thraciwr wedi'u rwystro)
            *[other] Gweld manylion gwefan ({ $count } traciwr wedi'u rwystro)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Gweld manylion y wefan
 
@@ -341,8 +338,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Gosod nod tudalen i'r dudalen ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = Golwg hollt
     .aria-label = Golwg hollt
+    .tooltiptext = Golwg hollt
 
 ## Searchbar context menu
 
@@ -395,9 +392,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Ychwanegwch beiriant chwilio “{ $engineName }”
     .label = Ychwanegu “{ $engineName }”
     .tooltiptext = Ychwanegwch beiriant chwilio “{ $engineName }”
-    .aria-label = Ychwanegwch beiriant chwilio “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -766,32 +763,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Chwilio'r We
     .aria-label = Chwilio gyda { $name }
+    .placeholder = Chwilio'r We
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Rhowch dermau chwilio
     .aria-label = Chwilio { $name }
+    .placeholder = Rhowch dermau chwilio
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Rhowch dermau chwilio
     .aria-label = Chwilio'r nodau tudalen
+    .placeholder = Rhowch dermau chwilio
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Rhowch dermau chwilio
     .aria-label = Chwilio'ch hanes
+    .placeholder = Rhowch dermau chwilio
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Rhowch dermau chwilio
     .aria-label = Chwilio'r tabiau
+    .placeholder = Rhowch dermau chwilio
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Rhowch dermau chwilio
     .aria-label = Gweithredoedd chwilio
+    .placeholder = Rhowch dermau chwilio
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -894,7 +891,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -943,11 +940,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Wedi'i noddi
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Gofyn
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1203,10 +1195,6 @@ urlbar-searchmode-history3 = Hanes
     .accesskey = H
 urlbar-searchmode-actions3 = Gweithredoedd
     .accesskey = G
-urlbar-searchmode-bookmarks2 = Nodau Tudalen
-urlbar-searchmode-tabs2 = Tabiau
-urlbar-searchmode-history2 = Hanes
-urlbar-searchmode-actions2 = Gweithredoedd
 urlbar-searchmode-exit-button2 =
     .title = Cau
 urlbar-searchmode-default2 =
@@ -1226,8 +1214,6 @@ urlbar-searchmode-popup-search-settings = Gosodiadau Chwilio
     .accesskey = G
 urlbar-searchmode-popup-settings = Gosodiadau
     .accesskey = G
-urlbar-searchmode-popup-search-settings-panelitem = Gosodiadau chwilio
-urlbar-searchmode-popup-settings-panelitem = Gosodiadau
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1400,9 +1386,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Nodau Tudalen
     .toolbarname = Bar Offer Nodau Tudalen
     .accesskey = N
-    .aria-label = Nodau Tudalen
 bookmarks-toolbar-menu =
     .label = Bar Offer Nodau Tudalen
 bookmarks-toolbar-placeholder =
@@ -1583,9 +1569,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = C
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1836,13 +1819,6 @@ file-picker-crashed-open = Mae deialog ffeil Windows wedi chwalu. Nid oedd modd 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Mae deialog ffeil Windows wedi chwalu. Bydd y ffeil yn cael ei chadw i { $path }.
 file-picker-crashed-save-nowhere = Mae deialog ffeil Windows wedi chwalu. Nid oedd modd dod o hyd i ffolder rhagosodedig; ni fydd y ffeil yn cael ei chadw.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Dangos mewn Ffolder
     .accessKey = F
@@ -1895,9 +1871,6 @@ trustpanel-blocker-see-all = Gweld y Cyfan
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Diogelwch tracio ar gyfer  { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

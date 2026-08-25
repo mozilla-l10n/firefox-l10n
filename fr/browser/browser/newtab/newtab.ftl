@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Personnaliser
 newtab-customize-panel-label =
     .label = Personnaliser
 newtab-personalize-settings-icon-label =
-    .title = Personnaliser la page Nouvel onglet
     .aria-label = Paramètres
+    .title = Personnaliser la page Nouvel onglet
 newtab-settings-dialog-label =
     .aria-label = Paramètres
 newtab-personalize-icon-label =
-    .title = Personnaliser la page de nouvel onglet
     .aria-label = Personnaliser la page de nouvel onglet
+    .title = Personnaliser la page de nouvel onglet
 newtab-personalize-dialog-label =
     .aria-label = Personnaliser
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Ignorer
     .aria-label = Ignorer
+    .title = Ignorer
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Recherche
 home-prefs-stories-header2 =
-    .label = Articles
     .description = Contenu exceptionnel sélectionné par les membres de la gamme de produits { -brand-product-name }
+    .label = Articles
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -330,8 +330,8 @@ newtab-stocks-error-not-available = Les données boursières ne sont pas disponi
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Options du widget actions
     .aria-label = Options du widget actions
+    .title = Options du widget actions
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Actions
@@ -366,15 +366,15 @@ newtab-stocks-ticker-status-flat = { $name }, pas de changement, { $change }, { 
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = Ajouter { $name } à la liste de suivi
     .aria-label = Ajouter { $name } à la liste de suivi
+    .title = Ajouter { $name } à la liste de suivi
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = Retirer { $name } de la liste de suivi
     .aria-label = Retirer { $name } de la liste de suivi
+    .title = Retirer { $name } de la liste de suivi
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -403,8 +403,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Retour
     .aria-label = Retour
+    .title = Retour
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -445,14 +445,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Options de l’image du jour
     .aria-label = Options de l’image du jour
+    .title = Options de l’image du jour
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Définissez la photo du jour comme fond d’écran
     .label = Définir comme fond d’écran
     .title = Définir comme fond d’écran
-    .aria-label = Définissez la photo du jour comme fond d’écran
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gérer le fond d’écran
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -464,8 +464,8 @@ newtab-picture-menu-show-photo = Afficher la photo du jour
 newtab-picture-menu-learn-more = En savoir plus
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Afficher la photo du jour
     .aria-label = Afficher la photo du jour
+    .title = Afficher la photo du jour
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Revenez demain pour découvrir une nouvelle photo
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -482,16 +482,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = En savoir plus
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Rechercher
     .aria-label = Rechercher
+    .title = Rechercher
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Rechercher avec { $engine } ou saisir une adresse
@@ -499,17 +495,17 @@ newtab-search-box-handoff-text-no-engine = Rechercher ou saisir une adresse
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Rechercher avec { $engine } ou saisir une adresse
     .placeholder = Rechercher avec { $engine } ou saisir une adresse
     .title = Rechercher avec { $engine } ou saisir une adresse
-    .aria-label = Rechercher avec { $engine } ou saisir une adresse
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Rechercher ou saisir une adresse
     .placeholder = Rechercher ou saisir une adresse
     .title = Rechercher ou saisir une adresse
-    .aria-label = Rechercher ou saisir une adresse
 newtab-search-box-text = Rechercher sur le Web
 newtab-search-box-input =
-    .placeholder = Rechercher sur le Web
     .aria-label = Rechercher sur le Web
+    .placeholder = Rechercher sur le Web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -519,8 +515,8 @@ newtab-topsites-edit-topsites-header = Modifier le site populaire
 newtab-topsites-edit-shortcut-header = Modifier le raccourci
 newtab-topsites-add-shortcut-label = Ajouter un raccourci
 newtab-topsites-add-shortcut-title =
-    .title = Ajouter un raccourci
     .aria-label = Ajouter un raccourci
+    .title = Ajouter un raccourci
 newtab-shortcuts-pinned-area = Zone épinglée
 newtab-topsites-title-label = Titre
 newtab-topsites-title-input =
@@ -533,9 +529,6 @@ newtab-topsites-image-url-label = URL de l’image personnalisée
 newtab-topsites-use-custom-image-link = Utiliser une image personnalisée
 newtab-topsites-use-image-link = Utiliser une image personnalisée…
 newtab-topsites-image-validation = Échec du chargement de l’image. Essayez avec une autre URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Effacer le texte
 
@@ -573,35 +566,35 @@ newtab-topsites-hover-card-header = Notifications de { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = À l’instant
 newtab-topsites-hover-card-mark-all-read =
-    .title = Tout marquer comme lu
     .aria-label = Tout marquer comme lu
+    .title = Tout marquer comme lu
 newtab-topsites-hover-card-settings =
-    .title = Paramètres des notifications
     .aria-label = Paramètres des notifications
+    .title = Paramètres des notifications
 newtab-topsites-hover-card-dismiss =
-    .title = Ignorer
     .aria-label = Ignorer
+    .title = Ignorer
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Ouvrir le menu
     .aria-label = Ouvrir le menu
+    .title = Ouvrir le menu
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Supprimer
     .aria-label = Supprimer
+    .title = Supprimer
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Ouvrir le menu
     .aria-label = Ouvrir le menu contextuel pour { $title }
+    .title = Ouvrir le menu
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Modifier ce site
     .aria-label = Modifier ce site
+    .title = Modifier ce site
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -782,8 +775,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Merci. Votre retour nous aide à améliorer votre flux.
 newtab-toast-dismiss-button =
-    .title = Ignorer
     .aria-label = Ignorer
+    .title = Ignorer
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -802,13 +795,13 @@ newtab-custom-shortcuts-title = Raccourcis
 newtab-custom-shortcuts-subtitle = Sites que vous enregistrez ou visitez
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Raccourcis
     .description = Sites que vous enregistrez ou visitez
+    .label = Raccourcis
 newtab-custom-shortcuts-nova =
     .label = Raccourcis
 newtab-custom-web-notifications-toggle =
-    .label = Notifications web
     .description = Afficher les notifications de vos sites sur leurs raccourcis
+    .label = Notifications web
 newtab-custom-row-description =
     .description = Nombre de lignes
 # Variables
@@ -832,8 +825,8 @@ newtab-custom-pocket-title = Recommandé par { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contenu exceptionnel sélectionné par { -pocket-brand-name }, membre de la famille { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Articles recommandés
     .description = Contenu exceptionnel sélectionné par les membres de la gamme de produits { -brand-product-name }
+    .label = Articles recommandés
 newtab-recommended-stories-toggle =
     .label = Articles recommandés
 newtab-custom-stories-personalized-toggle =
@@ -846,8 +839,8 @@ newtab-custom-pocket-show-recent-saves = Afficher les éléments enregistrés r�
 newtab-custom-recent-title = Activité récente
 newtab-custom-recent-subtitle = Une sélection de sites et de contenus récents
 newtab-custom-weather-toggle =
-    .label = Météo
     .description = Les prévisions du jour en un coup d’œil
+    .label = Météo
 newtab-custom-widget-weather-toggle =
     .label = Météo
 newtab-custom-widget-lists-toggle =
@@ -874,13 +867,10 @@ newtab-widget-manage-widget-button =
     .label = Gérer les widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Fermer
     .aria-label = Fermer le menu
+    .title = Fermer
 newtab-custom-close-button = Fermer
 newtab-custom-settings = Gérer plus de paramètres
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Apparence
 # Button that opens the full browser theme selection view.
@@ -993,14 +983,11 @@ newtab-wallpaper-feature-highlight-content = Donnez un nouveau look à votre pag
 newtab-wallpaper-feature-highlight-button = J’ai compris
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Ignorer
     .aria-label = Fermer la pop-up
+    .title = Ignorer
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1027,8 +1014,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponsorisé
 newtab-weather-menu-change-location = Changer de lieu
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Rechercher un lieu
     .aria-label = Rechercher un lieu
+    .placeholder = Rechercher un lieu
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Utiliser l’emplacement actuel
@@ -1072,8 +1059,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Voir les prévisions sur { $provider }
     .aria-description = { $provider } ∙ Sponsorisé
+    .title = Voir les prévisions sur { $provider }
 
 ## Topic Labels
 
@@ -1274,8 +1261,8 @@ newtab-widget-lists-menu-copy = Copier la liste dans le presse-papiers
 newtab-widget-lists-menu-learn-more = En savoir plus
 newtab-widget-lists-button-add-item = Ajouter un élément
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Ajouter un élément
     .aria-label = Ajouter un élément
+    .placeholder = Ajouter un élément
 newtab-widget-lists-input-error = Veuillez saisir du texte pour ajouter un élément.
 newtab-widget-lists-input-menu-open-link = Ouvrir le lien
 newtab-widget-lists-input-menu-move-up = Déplacer vers le haut
@@ -1300,12 +1287,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Liste de tâches
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Liste de tâches
     .aria-label = Modifier le nom de la liste
+    .placeholder = Liste de tâches
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Nouvelle liste
     .aria-label = Modifier le nom de la liste
+    .placeholder = Nouvelle liste
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Masquer le widget
 newtab-widget-menu-change-size = Modifier la taille
@@ -1323,17 +1310,17 @@ newtab-widget-size-medium = Moyenne
 newtab-widget-size-large = Grande
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Masquer les widgets
     .aria-label = Masquer tous les widgets
+    .title = Masquer les widgets
 newtab-widget-section-maximize =
-    .title = Développer les widgets
     .aria-label = Développer tous les widgets à leur taille réelle
+    .title = Développer les widgets
 newtab-widget-section-minimize =
-    .title = Réduire les widgets
     .aria-label = Réduire tous les widgets au format compact
+    .title = Réduire les widgets
 newtab-widget-section-menu-button =
-    .title = Menu Widgets
     .aria-label = Ouvrir le menu des widgets
+    .title = Menu Widgets
 newtab-widget-add-widgets-button =
     .aria-label = Ajouter le widget
     .title = Ajouter le widget
@@ -1394,11 +1381,8 @@ newtab-promo-card-title = Apportez votre soutien à { -brand-product-name }
 newtab-promo-card-body = Nos sponsors soutiennent notre mission de créer un meilleur Web
 newtab-promo-card-cta = En apprendre davantage
 newtab-promo-card-dismiss-button =
-    .title = Ignorer
     .aria-label = Ignorer
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Ignorer
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1466,8 +1450,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Choisir un fond d’écran
 newtab-sports-widget-skip = Ignorer
 newtab-sports-widget-search-country =
-    .placeholder = Rechercher un pays
     .aria-label = Rechercher un pays
+    .placeholder = Rechercher un pays
 newtab-sports-widget-cancel = Annuler
 newtab-sports-widget-back-button =
     .aria-label = Retour
@@ -1534,8 +1518,8 @@ newtab-sports-widget-quarter-finals = Quarts de finale
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = EN DIRECT
 newtab-custom-widget-live-refresh =
-    .title = Actualiser les scores
     .aria-label = Actualiser les scores
+    .title = Actualiser les scores
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Dates clés
 newtab-sports-widget-upcoming = À venir
@@ -1549,10 +1533,10 @@ newtab-sports-widget-final = Finale
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Retardé
 newtab-sports-widget-postponed = Reporté
 newtab-sports-widget-suspended = Suspendu
@@ -1690,8 +1674,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Ignorer
     .aria-label = Ignorer
+    .title = Ignorer
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1716,34 +1700,34 @@ newtab-clock-widget-menu-switch-to-12h = Passer au format 12 heures
 newtab-clock-widget-menu-switch-to-24h = Passer au format 24 heures
 newtab-clock-widget-label-your-clocks = Vos horloges
 newtab-clock-widget-search-location-input =
+    .aria-label = Rechercher une ville
     .label = Emplacement
     .placeholder = Rechercher une ville
-    .aria-label = Rechercher une ville
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Nom personnalisé (facultatif)
     .label = Nom personnalisé (facultatif)
     .placeholder = Ajouter un nom personnalisé
-    .aria-label = Nom personnalisé (facultatif)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Ajouter une horloge
     .aria-label = Ajouter une horloge
+    .title = Ajouter une horloge
 newtab-clock-widget-button-add-clock = Ajouter
 newtab-clock-widget-button-cancel = Annuler
 newtab-clock-widget-button-back =
-    .title = Retour
     .aria-label = Retour
+    .title = Retour
 newtab-clock-widget-button-edit-clock =
-    .title = Modifier l’horloge
     .aria-label = Modifier l’horloge
+    .title = Modifier l’horloge
 newtab-clock-widget-button-save = Enregistrer
 newtab-clock-widget-button-remove-clock =
-    .title = Supprimer l’horloge
     .aria-label = Supprimer l’horloge
+    .title = Supprimer l’horloge
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1771,14 +1755,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Ajouter « { $city } » comme horloge personnalisée
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Nom de la ville
     .aria-label = Nom de la ville
+    .label = Nom de la ville
     .placeholder = Donnez un nom à cette horloge
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Fuseau horaire
     .aria-label = Fuseau horaire
+    .label = Fuseau horaire
     .placeholder = Rechercher par ville, fuseau horaire ou décalage UTC
 newtab-clock-widget-custom-zone-results =
     .aria-label = Résultats de fuseaux horaires
@@ -1794,8 +1778,8 @@ newtab-clock-widget-search-no-results = Aucune correspondance
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Ouvrir le menu de l’horloge
     .aria-label = Ouvrir le menu de l’horloge
+    .title = Ouvrir le menu de l’horloge
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Nom personnalisé : { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

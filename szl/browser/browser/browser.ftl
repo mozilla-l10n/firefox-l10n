@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Prywatne Przeglōndanie { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — Prywatne przeglōndanie { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Prywatne Przeglōndanie { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,18 +36,15 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Prywatne przeglōndanie
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Prywatne przeglōndanie
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Prywatne przeglōndanie
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = Pokoż informacyje ô strōnie
 
@@ -208,9 +205,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Przidej wyszukowarka „{ $engineName }”
     .label = Przidej „{ $engineName }”
     .tooltiptext = Przidej wyszukowarka „{ $engineName }”
-    .aria-label = Przidej wyszukowarka „{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -460,32 +457,32 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Szukej w internecie
     .aria-label = Szukej ze { $name }
+    .placeholder = Szukej w internecie
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Wkludź szukane słowo
     .aria-label = Szukej na serwerze { $name }
+    .placeholder = Wkludź szukane słowo
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Wkludź szukane słowo
     .aria-label = Szukej we zokłodkach
+    .placeholder = Wkludź szukane słowo
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Wkludź szukane słowo
     .aria-label = Szukej we historyji
+    .placeholder = Wkludź szukane słowo
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Wkludź szukane słowo
     .aria-label = Szukej we kartach
+    .placeholder = Wkludź szukane słowo
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Wkludź szukane wyrazy
     .aria-label = Przeszukowanie akcyjōw
+    .placeholder = Wkludź szukane wyrazy
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -567,10 +564,6 @@ urlbar-searchmode-history =
     .label = Historyjo
 urlbar-searchmode-actions =
     .label = Akcyje
-urlbar-searchmode-bookmarks2 = Zokłodki
-urlbar-searchmode-tabs2 = Karty
-urlbar-searchmode-history2 = Historyjo
-urlbar-searchmode-actions2 = Akcyje
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -684,9 +677,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Zokłodki
     .toolbarname = Posek z zokłodkami
     .accesskey = Z
-    .aria-label = Zokłodki
 bookmarks-toolbar-menu =
     .label = Posek z zokłodkami
 bookmarks-toolbar-placeholder =
@@ -810,9 +803,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

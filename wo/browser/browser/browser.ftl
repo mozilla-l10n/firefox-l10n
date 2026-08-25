@@ -80,9 +80,6 @@ popups-infobar-dont-show-message =
 
 ##
 
-
-# Navigator Toolbox
-
 navbar-downloads =
     .label = Yeb yi
 navbar-overflow =

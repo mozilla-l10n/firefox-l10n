@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Προσαρμογή
 newtab-customize-panel-label =
     .label = Προσαρμογή
 newtab-personalize-settings-icon-label =
-    .title = Εξατομίκευση νέας καρτέλας
     .aria-label = Ρυθμίσεις
+    .title = Εξατομίκευση νέας καρτέλας
 newtab-settings-dialog-label =
     .aria-label = Ρυθμίσεις
 newtab-personalize-icon-label =
-    .title = Εξατομίκευση νέας καρτέλας
     .aria-label = Εξατομίκευση νέας καρτέλας
+    .title = Εξατομίκευση νέας καρτέλας
 newtab-personalize-dialog-label =
     .aria-label = Εξατομίκευση
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Απόρριψη
     .aria-label = Απόρριψη
+    .title = Απόρριψη
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Αναζήτηση
 home-prefs-stories-header2 =
-    .label = Άρθρα
     .description = Εξαιρετικό περιεχόμενο από την οικογένεια του { -brand-product-name }
+    .label = Άρθρα
 home-prefs-widgets-header =
     .label = Γραφικά στοιχεία
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -323,8 +323,8 @@ newtab-stocks-error-not-available = Δεν διατίθενται δεδομέν
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Επιλογές γραφικού στοιχείου μετοχών
     .aria-label = Επιλογές γραφικού στοιχείου μετοχών
+    .title = Επιλογές γραφικού στοιχείου μετοχών
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Μετοχές
@@ -350,9 +350,6 @@ newtab-stocks-ticker-status-down = { $name }, πτώση { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, χωρίς μεταβολή, { $change }, { $price }
 
-## Stocks widget watchlist add and remove controls
-
-
 ## Stocks widget ticker search
 
 # "Search results" is the accessible label for the list of tickers matching the
@@ -363,8 +360,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Πίσω
     .aria-label = Πίσω
+    .title = Πίσω
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Φόρτωση…
 
@@ -391,14 +388,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Επιλογές εικόνας ημέρας
     .aria-label = Επιλογές εικόνας ημέρας
+    .title = Επιλογές εικόνας ημέρας
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Ορισμός σημερινής εικόνας ως ταπετσαρίας
     .label = Ορισμός ταπετσαρίας
     .title = Ορισμός ταπετσαρίας
-    .aria-label = Ορισμός σημερινής εικόνας ως ταπετσαρίας
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Διαχείριση ταπετσαρίας
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -410,27 +407,20 @@ newtab-picture-menu-show-photo = Εμφάνιση σημερινής εικόν�
 newtab-picture-menu-learn-more = Μάθετε περισσότερα
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Εμφάνιση σημερινής εικόνας
     .aria-label = Εμφάνιση σημερινής εικόνας
+    .title = Εμφάνιση σημερινής εικόνας
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Επιστρέψτε αύριο για μια νέα εικόνα
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Εικόνα της ημέρας από το Wikimedia Commons
 
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Αναζήτηση
     .aria-label = Αναζήτηση
+    .title = Αναζήτηση
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
@@ -438,17 +428,17 @@ newtab-search-box-handoff-text-no-engine = Αναζήτηση ή εισαγωγ�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
     .placeholder = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
     .title = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
-    .aria-label = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Αναζήτηση ή εισαγωγή διεύθυνσης
     .placeholder = Αναζήτηση ή εισαγωγή διεύθυνσης
     .title = Αναζήτηση ή εισαγωγή διεύθυνσης
-    .aria-label = Αναζήτηση ή εισαγωγή διεύθυνσης
 newtab-search-box-text = Αναζήτηση στο διαδίκτυο
 newtab-search-box-input =
-    .placeholder = Αναζήτηση στο διαδίκτυο
     .aria-label = Αναζήτηση στο διαδίκτυο
+    .placeholder = Αναζήτηση στο διαδίκτυο
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -458,8 +448,8 @@ newtab-topsites-edit-topsites-header = Επεξεργασία κορυφαίου
 newtab-topsites-edit-shortcut-header = Επεξεργασία συντόμευσης
 newtab-topsites-add-shortcut-label = Προσθήκη συντόμευσης
 newtab-topsites-add-shortcut-title =
-    .title = Προσθήκη συντόμευσης
     .aria-label = Προσθήκη συντόμευσης
+    .title = Προσθήκη συντόμευσης
 newtab-shortcuts-pinned-area = Καρφιτσωμένη περιοχή
 newtab-topsites-title-label = Τίτλος
 newtab-topsites-title-input =
@@ -472,9 +462,6 @@ newtab-topsites-image-url-label = URL προσαρμοσμένης εικόνα�
 newtab-topsites-use-custom-image-link = Χρήση προσαρμοσμένης εικόνας
 newtab-topsites-use-image-link = Χρήση προσαρμοσμένης εικόνας…
 newtab-topsites-image-validation = Αποτυχία φόρτωσης εικόνας. Δοκιμάστε ένα διαφορετικό URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Απαλοιφή κειμένου
 
@@ -512,35 +499,35 @@ newtab-topsites-hover-card-header = Ειδοποιήσεις από το { $site
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Μόλις τώρα
 newtab-topsites-hover-card-mark-all-read =
-    .title = Επισήμανση όλων ως αναγνωσμένων
     .aria-label = Επισήμανση όλων ως αναγνωσμένων
+    .title = Επισήμανση όλων ως αναγνωσμένων
 newtab-topsites-hover-card-settings =
-    .title = Ρυθμίσεις ειδοποιήσεων
     .aria-label = Ρυθμίσεις ειδοποιήσεων
+    .title = Ρυθμίσεις ειδοποιήσεων
 newtab-topsites-hover-card-dismiss =
-    .title = Απόρριψη
     .aria-label = Απόρριψη
+    .title = Απόρριψη
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Άνοιγμα μενού
     .aria-label = Άνοιγμα μενού
+    .title = Άνοιγμα μενού
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Αφαίρεση
     .aria-label = Αφαίρεση
+    .title = Αφαίρεση
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Άνοιγμα μενού
     .aria-label = Άνοιγμα μενού επιλογών για το { $title }
+    .title = Άνοιγμα μενού
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Επεξεργασία ιστοτόπου
     .aria-label = Επεξεργασία ιστοτόπου
+    .title = Επεξεργασία ιστοτόπου
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -725,8 +712,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Ευχαριστούμε. Τα σχόλιά σας θα μας βοηθήσουν να βελτιώσουμε τη ροή σας.
 newtab-toast-dismiss-button =
-    .title = Απόρριψη
     .aria-label = Απόρριψη
+    .title = Απόρριψη
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -745,13 +732,13 @@ newtab-custom-shortcuts-title = Συντομεύσεις
 newtab-custom-shortcuts-subtitle = Ιστότοποι από σελιδοδείκτες ή ιστορικό
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Συντομεύσεις
     .description = Ιστότοποι από σελιδοδείκτες ή ιστορικό
+    .label = Συντομεύσεις
 newtab-custom-shortcuts-nova =
     .label = Συντομεύσεις
 newtab-custom-web-notifications-toggle =
-    .label = Ειδοποιήσεις ιστότοπου
     .description = Εμφάνιση ειδοποιήσεων από τους ιστότοπούς σας στις συντομεύσεις τους
+    .label = Ειδοποιήσεις ιστότοπου
 newtab-custom-row-description =
     .description = Αριθμός σειρών
 # Variables
@@ -775,8 +762,8 @@ newtab-custom-pocket-title = Προτείνεται από το { -pocket-brand-
 newtab-custom-pocket-subtitle = Εξαιρετικό περιεχόμενο από το { -pocket-brand-name }, μέρος της οικογένειας του { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Προτεινόμενα άρθρα
     .description = Εξαιρετικό περιεχόμενο από την οικογένεια του { -brand-product-name }
+    .label = Προτεινόμενα άρθρα
 newtab-recommended-stories-toggle =
     .label = Προτεινόμενα άρθρα
 newtab-custom-stories-personalized-toggle =
@@ -789,8 +776,8 @@ newtab-custom-pocket-show-recent-saves = Εμφάνιση πρόσφατων α�
 newtab-custom-recent-title = Πρόσφατη δραστηριότητα
 newtab-custom-recent-subtitle = Συλλογή πρόσφατων ιστοτόπων και περιεχομένου
 newtab-custom-weather-toggle =
-    .label = Καιρός
     .description = Σημερινή πρόγνωση με μια ματιά
+    .label = Καιρός
 newtab-custom-widget-weather-toggle =
     .label = Καιρός
 newtab-custom-widget-lists-toggle =
@@ -815,13 +802,10 @@ newtab-widget-manage-widget-button =
     .label = Διαχείριση γραφικών στοιχείων
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Κλείσιμο
     .aria-label = Κλείσιμο μενού
+    .title = Κλείσιμο
 newtab-custom-close-button = Κλείσιμο
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Εμφάνιση
 # Button that opens the full browser theme selection view.
@@ -934,14 +918,11 @@ newtab-wallpaper-feature-highlight-content = Δώστε νέα εμφάνιση 
 newtab-wallpaper-feature-highlight-button = Το κατάλαβα
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Απόρριψη
     .aria-label = Κλείσιμο αναδυόμενου παραθύρου
+    .title = Απόρριψη
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -968,8 +949,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Χορηγία
 newtab-weather-menu-change-location = Αλλαγή τοποθεσίας
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Αναζήτηση τοποθεσίας
     .aria-label = Αναζήτηση τοποθεσίας
+    .placeholder = Αναζήτηση τοποθεσίας
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Χρήση τρέχουσας τοποθεσίας
@@ -1013,8 +994,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Προβολή πρόγνωσης στο { $provider }
     .aria-description = { $provider } ∙ Χορηγία
+    .title = Προβολή πρόγνωσης στο { $provider }
 
 ## Topic Labels
 
@@ -1215,8 +1196,8 @@ newtab-widget-lists-menu-copy = Αντιγραφή λίστας στο πρόχ�
 newtab-widget-lists-menu-learn-more = Μάθετε περισσότερα
 newtab-widget-lists-button-add-item = Προσθήκη στοιχείου
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Προσθήκη στοιχείου
     .aria-label = Προσθήκη στοιχείου
+    .placeholder = Προσθήκη στοιχείου
 newtab-widget-lists-input-error = Συμπεριλάβετε κείμενο για να προσθέσετε ένα στοιχείο.
 newtab-widget-lists-input-menu-open-link = Άνοιγμα συνδέσμου
 newtab-widget-lists-input-menu-move-up = Μετακίνηση πάνω
@@ -1241,12 +1222,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Λίστα εργασιών
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Λίστα ελέγχου
     .aria-label = Επεξεργασία ονόματος λίστας
+    .placeholder = Λίστα ελέγχου
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Νέα λίστα
     .aria-label = Επεξεργασία ονόματος λίστας
+    .placeholder = Νέα λίστα
 newtab-widget-section-title = Γραφικά στοιχεία
 newtab-widget-menu-hide = Απόκρυψη γραφικού στοιχείου
 newtab-widget-menu-change-size = Αλλαγή μεγέθους
@@ -1264,17 +1245,17 @@ newtab-widget-size-medium = Μεσαίο
 newtab-widget-size-large = Μεγάλο
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Απόκρυψη γραφικών στοιχείων
     .aria-label = Απόκρυψη όλων των γραφικών στοιχείων
+    .title = Απόκρυψη γραφικών στοιχείων
 newtab-widget-section-maximize =
-    .title = Ανάπτυξη γραφικών στοιχείων
     .aria-label = Ανάπτυξη όλων των γραφικών στοιχείων σε πλήρες μέγεθος
+    .title = Ανάπτυξη γραφικών στοιχείων
 newtab-widget-section-minimize =
-    .title = Ελαχιστοποίηση γραφικών στοιχείων
     .aria-label = Σύμπτυξη όλων των γραφικών στοιχείων σε μικρό μέγεθος
+    .title = Ελαχιστοποίηση γραφικών στοιχείων
 newtab-widget-section-menu-button =
-    .title = Μενού γραφικών στοιχείων
     .aria-label = Άνοιγμα μενού γραφικών στοιχείων
+    .title = Μενού γραφικών στοιχείων
 newtab-widget-add-widgets-button =
     .aria-label = Προσθήκη γραφικού στοιχείου
     .title = Προσθήκη γραφικού στοιχείου
@@ -1335,11 +1316,8 @@ newtab-promo-card-title = Υποστηρίξτε το { -brand-product-name }
 newtab-promo-card-body = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο
 newtab-promo-card-cta = Μάθετε περισσότερα
 newtab-promo-card-dismiss-button =
-    .title = Απόρριψη
     .aria-label = Απόρριψη
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Απόρριψη
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1406,8 +1384,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Επιλογή ταπετσαρίας
 newtab-sports-widget-skip = Παράλειψη
 newtab-sports-widget-search-country =
-    .placeholder = Αναζήτηση χώρας
     .aria-label = Αναζήτηση χώρας
+    .placeholder = Αναζήτηση χώρας
 newtab-sports-widget-cancel = Ακύρωση
 newtab-sports-widget-back-button =
     .aria-label = Πίσω
@@ -1474,8 +1452,8 @@ newtab-sports-widget-quarter-finals = Προημιτελικοί
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ΖΩΝΤΑΝΑ
 newtab-custom-widget-live-refresh =
-    .title = Ανανέωση βαθμολογιών
     .aria-label = Ανανέωση βαθμολογιών
+    .title = Ανανέωση βαθμολογιών
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Σημαντικές ημερομηνίες
 newtab-sports-widget-upcoming = Επερχόμενοι
@@ -1489,10 +1467,10 @@ newtab-sports-widget-final = Τελικός
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Καθυστέρησε
 newtab-sports-widget-postponed = Αναβλήθηκε
 newtab-sports-widget-suspended = Διακόπηκε
@@ -1630,8 +1608,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Απόρριψη
     .aria-label = Απόρριψη
+    .title = Απόρριψη
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1656,34 +1634,34 @@ newtab-clock-widget-menu-switch-to-12h = Εναλλαγή σε 12ωρη μορφ
 newtab-clock-widget-menu-switch-to-24h = Εναλλαγή σε 24ωρη μορφή
 newtab-clock-widget-label-your-clocks = Τα ρολόγια σας
 newtab-clock-widget-search-location-input =
+    .aria-label = Αναζήτηση πόλης
     .label = Τοποθεσία
     .placeholder = Αναζήτηση πόλης
-    .aria-label = Αναζήτηση πόλης
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Ψευδώνυμο (προαιρετικό)
     .label = Ψευδώνυμο (προαιρετικό)
     .placeholder = Προσθήκη ψευδώνυμου
-    .aria-label = Ψευδώνυμο (προαιρετικό)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Προσθήκη νέου ρολογιού
     .aria-label = Προσθήκη νέου ρολογιού
+    .title = Προσθήκη νέου ρολογιού
 newtab-clock-widget-button-add-clock = Προσθήκη
 newtab-clock-widget-button-cancel = Ακύρωση
 newtab-clock-widget-button-back =
-    .title = Πίσω
     .aria-label = Πίσω
+    .title = Πίσω
 newtab-clock-widget-button-edit-clock =
-    .title = Επεξεργασία ρολογιού
     .aria-label = Επεξεργασία ρολογιού
+    .title = Επεξεργασία ρολογιού
 newtab-clock-widget-button-save = Αποθήκευση
 newtab-clock-widget-button-remove-clock =
-    .title = Αφαίρεση ρολογιού
     .aria-label = Αφαίρεση ρολογιού
+    .title = Αφαίρεση ρολογιού
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1711,14 +1689,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Προσθήκη του «{ $city }» ως προσαρμοσμένου ρολογιού
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Όνομα πόλης
     .aria-label = Όνομα πόλης
+    .label = Όνομα πόλης
     .placeholder = Όνομα ρολογιού
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Ζώνη ώρας
     .aria-label = Ζώνη ώρας
+    .label = Ζώνη ώρας
     .placeholder = Αναζήτηση πόλης, ζώνης ώρας ή μετατόπιση UTC
 newtab-clock-widget-custom-zone-results =
     .aria-label = Αποτελέσματα ζώνης ώρας
@@ -1734,8 +1712,8 @@ newtab-clock-widget-search-no-results = Καμία αντιστοιχία
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Άνοιγμα μενού για ρολόι
     .aria-label = Άνοιγμα μενού για ρολόι
+    .title = Άνοιγμα μενού για ρολόι
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Ψευδώνυμο: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

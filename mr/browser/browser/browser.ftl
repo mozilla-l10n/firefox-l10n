@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = संकेतस्थळाची माहिती पहा
 
@@ -310,9 +307,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = वाचनखूणा
     .toolbarname = वाचनखूणा साधनपट्टी
     .accesskey = B
-    .aria-label = वाचनखूणा
 bookmarks-toolbar-menu =
     .label = वाचनखूणा साधनपट्टी
 bookmarks-toolbar-placeholder =
@@ -387,9 +384,6 @@ picture-in-picture-hide-toggle =
     .accesskey = H
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

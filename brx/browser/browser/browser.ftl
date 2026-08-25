@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Private Browsing
     .data-content-title-default = { $content-title }  — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Private Browsing
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Private Browsing
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Private Browsing
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Private Browsing
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Private Browsing
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -48,9 +48,6 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Private Browsing
-
-##
-
 urlbar-identity-button =
     .aria-label = साइत नि फोरमायथि खौ नाय
 
@@ -176,9 +173,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = { $engineName } सार्रच इन्जिनखौ दाजाब
     .label = { $engineName } दाजाब
     .tooltiptext = { $engineName } सार्रच इन्जिनखौ दाजाब
-    .aria-label = { $engineName } सार्रच इन्जिनखौ दाजाब
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -308,8 +305,8 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = वेबौ नागिर
     .aria-label = { $name }जों नागिर
+    .placeholder = वेबौ नागिर
 urlbar-switch-to-tab =
     .value = टेबाव थां:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -347,9 +344,6 @@ urlbar-searchmode-history =
     .label = जारिमिन
 urlbar-searchmode-actions =
     .label = एक्सनफोर
-urlbar-searchmode-tabs2 = टेबफोर
-urlbar-searchmode-history2 = जारिमिन
-urlbar-searchmode-actions2 = एक्सनफोर
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -391,9 +385,9 @@ bookmarks-search =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = बुकमार्क
     .toolbarname = बुकमार्क टुलबार
     .accesskey = B
-    .aria-label = बुकमार्क
 bookmarks-toolbar-menu =
     .label = बुकमार्क टुलबार
 bookmarks-toolbar-placeholder =
@@ -482,9 +476,6 @@ popups-infobar-dont-show-message =
     .accesskey = D
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

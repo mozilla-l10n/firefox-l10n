@@ -11,8 +11,8 @@ newtab-settings-button =
 newtab-settings-dialog-label =
     .aria-label = ترتیباں
 newtab-personalize-icon-label =
-    .title = نویں ٹیب کوں ذاتی بݨاؤ
     .aria-label = نویں ٹیب کوں ذاتی بݨاؤ
+    .title = نویں ٹیب کوں ذاتی بݨاؤ
 newtab-personalize-dialog-label =
     .aria-label = ‏‏تخصیص کرو
 newtab-logo-and-wordmark =
@@ -73,8 +73,8 @@ home-prefs-weather-header-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = ڳولو
     .aria-label = ڳولو
+    .title = ڳولو
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ‏{ $engine } نال ڳولو یا پتہ درج کرو
@@ -82,17 +82,17 @@ newtab-search-box-handoff-text-no-engine = ڳولو یا پتہ درج کرو
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = { $engine } نال ڳولو یا پتہ درج کرو
     .placeholder = { $engine } نال ڳولو یا پتہ درج کرو
     .title = { $engine } نال ڳولو یا پتہ درج کرو
-    .aria-label = { $engine } نال ڳولو یا پتہ درج کرو
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = ڳولو یا پتہ درج کرو
     .placeholder = ڳولو یا پتہ درج کرو
     .title = ڳولو یا پتہ درج کرو
-    .aria-label = ڳولو یا پتہ درج کرو
 newtab-search-box-text = ویب ڳولو
 newtab-search-box-input =
-    .placeholder = ویب تے ڳولو
     .aria-label = ویب تے ڳولو
+    .placeholder = ویب تے ڳولو
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -102,8 +102,8 @@ newtab-topsites-edit-topsites-header = بہترین سائٹ دی تدوین ک�
 newtab-topsites-edit-shortcut-header = شارٹ کٹ وِچ ترمیم کرو
 newtab-topsites-add-shortcut-label = شارٹ کٹ شامل کرو
 newtab-topsites-add-shortcut-title =
-    .title = شارٹ کٹ شامل کرو
     .aria-label = شارٹ کٹ شامل کرو
+    .title = شارٹ کٹ شامل کرو
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = ہک عنوان درج کرو
@@ -138,22 +138,22 @@ newtab-topsite-sponsored = سپانسر تھئے
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = مینیو کھولو
     .aria-label = مینیو کھولو
+    .title = مینیو کھولو
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = ہٹاؤ
     .aria-label = ہٹاؤ
+    .title = ہٹاؤ
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = مینیو کھولو
     .aria-label = { $title } کیتے کنٹیسکٹ مینیو کھولو
+    .title = مینیو کھولو
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = ایں سائٹ دی تدوین کرو
     .aria-label = ایں سائٹ دی تدوین کرو
+    .title = ایں سائٹ دی تدوین کرو
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -309,8 +309,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = شکریہ،  تہاݙی فیڈبیک تہاݙی فیڈ کوں چنگا بݨاوݨ کیتے ساݙی مدد کریسی۔
 newtab-toast-dismiss-button =
-    .title = فارغ کرو
     .aria-label = فارغ کرو
+    .title = فارغ کرو
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -329,8 +329,8 @@ newtab-custom-shortcuts-title = شارٹ کٹ
 newtab-custom-shortcuts-subtitle = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = شارٹ کٹ
     .description = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
+    .label = شارٹ کٹ
 newtab-custom-shortcuts-nova =
     .label = شارٹ کٹ
 # Variables
@@ -354,8 +354,8 @@ newtab-custom-pocket-title = { -pocket-brand-name } دی طرفوں سفارش �
 newtab-custom-pocket-subtitle = { -pocket-brand-name } دے ذریعے تیار تھئے غیر معمولی مواد، { -brand-product-name } ٹٻر دا حصہ
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = تجویز کردہ کہاݨیاں
     .description = { -brand-product-name }ٹَٻَّر دے ذریعے تیار کردہ غیر معمولی مواد
+    .label = تجویز کردہ کہاݨیاں
 newtab-recommended-stories-toggle =
     .label = تجویز کردہ کہاݨیاں
 newtab-custom-pocket-sponsored = سپانسر تھیاں کہاݨیاں
@@ -363,8 +363,8 @@ newtab-custom-pocket-show-recent-saves = حالیہ ہتھیکڑیاں ظاہر 
 newtab-custom-recent-title = حالیہ سرگرمی
 newtab-custom-recent-subtitle = حالیہ سائٹاں تے مواد دی ہک چوݨ
 newtab-custom-weather-toggle =
-    .label = موسم
     .description = اڄ دی پیش گوئی تے ہک نظر
+    .label = موسم
 newtab-custom-close-button = بند کرو
 newtab-custom-settings = ودھیک ترتیباں دا بندوبست کرو
 
@@ -437,11 +437,11 @@ newtab-wallpaper-feature-highlight-content = وال پیپراں نال آپݨ
 newtab-wallpaper-feature-highlight-button = سمجھ گھدے
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = فارغ کرو
     .aria-label = پوپ اپ بند کرو
+    .title = فارغ کرو
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+    .title = { -newtab-wallpaper-feature-highlight-header }
 
 ## New Tab Weather
 
@@ -454,8 +454,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙سپانسر تھیا
 newtab-weather-menu-change-location = مقام وٹاؤ
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = مقام ڳولو
     .aria-label = مقام ڳولو
+    .placeholder = مقام ڳولو
 newtab-weather-menu-weather-display = موسم دا ڈسپلے
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -476,8 +476,8 @@ newtab-weather-error-not-available = عیں ایں ویلے موسم ڈیٹا د
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = { $provider } وچ پیش گوئی ݙیکھو
     .aria-description = { $provider } ∙سپانسر تھیا
+    .title = { $provider } وچ پیش گوئی ݙیکھو
 
 ## Topic Labels
 

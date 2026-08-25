@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = ဝဘ်ဆိုက် ၏ အချက်အလက်ကို ကြည့်ရန်
 
@@ -268,9 +265,6 @@ urlbar-searchmode-tabs =
     .label = တပ်ဗ်များ
 urlbar-searchmode-history =
     .label = မှတ်တမ်း
-urlbar-searchmode-bookmarks2 = စာမှတ်များ
-urlbar-searchmode-tabs2 = တပ်ဗ်များ
-urlbar-searchmode-history2 = မှတ်တမ်း
 
 ## Reader View toolbar buttons
 
@@ -410,9 +404,6 @@ popups-infobar-dont-show-message =
     .accesskey = D
 
 ##
-
-
-# Navigator Toolbox
 
 navbar-downloads =
     .label = ဆွဲချချက်များ

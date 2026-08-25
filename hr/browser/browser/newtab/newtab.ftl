@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Prilagodi
 newtab-customize-panel-label =
     .label = Prilagodi
 newtab-personalize-settings-icon-label =
-    .title = Personaliziraj novu karticu
     .aria-label = Postavke
+    .title = Personaliziraj novu karticu
 newtab-settings-dialog-label =
     .aria-label = Postavke
 newtab-personalize-icon-label =
-    .title = Personaliziraj novu karticu
     .aria-label = Personaliziraj novu karticu
+    .title = Personaliziraj novu karticu
 newtab-personalize-dialog-label =
     .aria-label = Personaliziraj
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Odbaci
     .aria-label = Odbaci
+    .title = Odbaci
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Pretraga
 home-prefs-stories-header2 =
-    .label = Priče
     .description = Izvanredni sadržaj kojeg je odabrala obitelj { -brand-product-name }
+    .label = Priče
 home-prefs-widgets-header =
     .label = Widgeti
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -146,8 +146,8 @@ home-prefs-mission-message-learn-more-link-srd = Saznaj kako
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Traži
     .aria-label = Traži
+    .title = Traži
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Traži pomoću { $engine } ili upiši adresu
@@ -155,17 +155,17 @@ newtab-search-box-handoff-text-no-engine = Traži ili upiši adresu
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Traži pomoću { $engine } ili upiši adresu
     .placeholder = Traži pomoću { $engine } ili upiši adresu
     .title = Traži pomoću { $engine } ili upiši adresu
-    .aria-label = Traži pomoću { $engine } ili upiši adresu
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Traži ili upiši adresu
     .placeholder = Traži ili upiši adresu
     .title = Traži ili upiši adresu
-    .aria-label = Traži ili upiši adresu
 newtab-search-box-text = Pretraži web
 newtab-search-box-input =
-    .placeholder = Pretraži web
     .aria-label = Pretraži web
+    .placeholder = Pretraži web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -175,8 +175,8 @@ newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
 newtab-topsites-edit-shortcut-header = Uredi prečac
 newtab-topsites-add-shortcut-label = Dodaj prečac
 newtab-topsites-add-shortcut-title =
-    .title = Dodaj prečac
     .aria-label = Dodaj prečac
+    .title = Dodaj prečac
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Upiši naslov
@@ -188,9 +188,6 @@ newtab-topsites-image-url-label = Prilagođeni URL slike
 newtab-topsites-use-custom-image-link = Koristi prilagođenu sliku
 newtab-topsites-use-image-link = Koristi prilagođenu sliku…
 newtab-topsites-image-validation = Neuspjelo učitavanje slike. Pokušaj jedan drugi URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Očisti tekst
 
@@ -224,22 +221,22 @@ topsite-label-pinned =
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Otvori izbornik
     .aria-label = Otvori izbornik
+    .title = Otvori izbornik
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Ukloni
     .aria-label = Ukloni
+    .title = Ukloni
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Otvori izbornik
     .aria-label = Otvorite kontekstni izbornik za { $title }
+    .title = Otvori izbornik
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Uredi ovu stranicu
     .aria-label = Uredi ovu stranicu
+    .title = Uredi ovu stranicu
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -414,8 +411,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Hvala. Vaše povratne informacije pomoći će nam da poboljšamo predlaganje tema.
 newtab-toast-dismiss-button =
-    .title = Odbaci
     .aria-label = Odbaci
+    .title = Odbaci
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -434,8 +431,8 @@ newtab-custom-shortcuts-title = Prečaci
 newtab-custom-shortcuts-subtitle = Stranice koje spremiš ili posjetiš
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Prečaci
     .description = Stranice koje spremiš ili posjetiš
+    .label = Prečaci
 newtab-custom-shortcuts-nova =
     .label = Prečaci
 newtab-custom-row-description =
@@ -463,8 +460,8 @@ newtab-custom-pocket-title = Preporuke iz { -pocket-brand-name(case: "gen") }
 newtab-custom-pocket-subtitle = Izuzetan sadržaj kojeg odabire { -pocket-brand-name }, dio obitelji { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Preporučene priče
     .description = Izvanredni sadržaj odabran od { -brand-product-name } obitelji
+    .label = Preporučene priče
 newtab-recommended-stories-toggle =
     .label = Preporučene priče
 newtab-custom-stories-personalized-toggle =
@@ -477,8 +474,8 @@ newtab-custom-pocket-show-recent-saves = Prikaži nedavna spremanja
 newtab-custom-recent-title = Nedavna aktivnost
 newtab-custom-recent-subtitle = Izbor nedavno posjećenih stranica i sadržaja
 newtab-custom-weather-toggle =
-    .label = Vrijeme
     .description = Današnja prognoza
+    .label = Vrijeme
 newtab-custom-widget-weather-toggle =
     .label = Vrijeme
 newtab-custom-widget-lists-toggle =
@@ -493,8 +490,8 @@ newtab-widget-manage-widget-button =
     .label = Upravljaj widgetima
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Zatvori
     .aria-label = Zatvori izbornik
+    .title = Zatvori
 newtab-custom-close-button = Zatvori
 newtab-custom-settings = Upravljaj dodatnim postavkama
 
@@ -589,14 +586,11 @@ newtab-wallpaper-feature-highlight-content = Dajte svojoj novoj kartici svjež i
 newtab-wallpaper-feature-highlight-button = Razumijem
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Odbaci
     .aria-label = Zatvori skočni prozor
+    .title = Odbaci
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -623,8 +617,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponzorirano
 newtab-weather-menu-change-location = Promijeni lokaciju
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Traži lokaciju
     .aria-label = Traži lokaciju
+    .placeholder = Traži lokaciju
 newtab-weather-menu-weather-display = Prikaz vremena
 newtab-weather-todays-forecast = Današnja vremenska prognoza
 newtab-weather-see-full-forecast = Pogledaj cijelu vremensku prognozu
@@ -665,8 +659,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Pogledajte prognozu u { $provider }
     .aria-description = { $provider } ∙ Sponzorirano
+    .title = Pogledajte prognozu u { $provider }
 
 ## Topic Labels
 
@@ -835,8 +829,8 @@ newtab-widget-lists-menu-copy = Kopiraj popis u međuspremnik
 newtab-widget-lists-menu-learn-more = Saznaj više
 newtab-widget-lists-button-add-item = Dodaj stavku
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Dodaj stavku
     .aria-label = Dodaj stavku
+    .placeholder = Dodaj stavku
 newtab-widget-lists-input-error = Molimo uključite tekst za dodavanje stavke.
 newtab-widget-lists-input-menu-open-link = Otvori poveznicu
 newtab-widget-lists-input-menu-move-up = Pomakni gore
@@ -852,8 +846,8 @@ newtab-widget-lists-name-placeholder-default =
     .placeholder = Popis zadataka
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Novi popis
     .aria-label = Uredi naziv popisa
+    .placeholder = Novi popis
 newtab-widget-section-title = Widgeti
 newtab-widget-menu-hide = Sakrij widget
 newtab-widget-menu-change-size = Promijeni veličinu
@@ -862,14 +856,14 @@ newtab-widget-size-medium = Srednji
 newtab-widget-size-large = Veliki
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Sakrij widgete
     .aria-label = Sakrij sve widgete
+    .title = Sakrij widgete
 newtab-widget-section-maximize =
-    .title = Proširi widgete
     .aria-label = Proširi sve widgete na punu veličinu
+    .title = Proširi widgete
 newtab-widget-section-minimize =
-    .title = Smanji widgete
     .aria-label = Smanji sve widgete na kompaktnu veličinu
+    .title = Smanji widgete
 newtab-widget-section-menu-manage = Upravljaj widgetima
 newtab-widget-section-feedback = Reci nam svoje mišljenje
 
@@ -911,8 +905,8 @@ newtab-promo-card-title = Podrži { -brand-product-name }
 newtab-promo-card-body = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba
 newtab-promo-card-cta = Saznajte više
 newtab-promo-card-dismiss-button =
-    .title = Odbaci
     .aria-label = Odbaci
+    .title = Odbaci
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -920,8 +914,8 @@ newtab-promo-card-dismiss-button =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Odbaci
     .aria-label = Odbaci
+    .title = Odbaci
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.

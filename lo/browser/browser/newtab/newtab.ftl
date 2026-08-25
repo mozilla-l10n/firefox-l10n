@@ -9,8 +9,8 @@ newtab-page-title = ແທັບໃຫມ່
 newtab-settings-button =
     .title = ປັບແຕ່ງຫນ້າແທັບໃຫມ່ຂອງທ່ານ
 newtab-personalize-icon-label =
-    .title = ປັບແຕ່ງແຖບໃໝ່
     .aria-label = ປັບແຕ່ງແຖບໃໝ່
+    .title = ປັບແຕ່ງແຖບໃໝ່
 newtab-personalize-dialog-label =
     .aria-label = ປັບແຕ່ງສ່ວນຕົວ
 newtab-logo-and-wordmark =
@@ -60,8 +60,8 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = ຊອກ​ຫາ
     .aria-label = ຊອກ​ຫາ
+    .title = ຊອກ​ຫາ
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ຊອກຫາດ້ວຍ { $engine } ຫຼື ໃສ່ທີ່ຢູ່
@@ -69,17 +69,17 @@ newtab-search-box-handoff-text-no-engine = ຊອກຫາ ຫລື ປ້ອ�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = ຊອກຫາດ້ວຍ { $engine } ຫຼືໃສ່ທີ່ຢູ່
     .placeholder = ຊອກຫາດ້ວຍ { $engine } ຫຼືໃສ່ທີ່ຢູ່
     .title = ຊອກຫາດ້ວຍ { $engine } ຫຼືໃສ່ທີ່ຢູ່
-    .aria-label = ຊອກຫາດ້ວຍ { $engine } ຫຼືໃສ່ທີ່ຢູ່
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
     .placeholder = ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
     .title = ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
-    .aria-label = ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
 newtab-search-box-text = ຄົ້ນຫາເວັບໄຊທ
 newtab-search-box-input =
-    .placeholder = ຄົ້ນຫາເວັບໄຊທ
     .aria-label = ຄົ້ນຫາເວັບໄຊທ
+    .placeholder = ຄົ້ນຫາເວັບໄຊທ
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -121,16 +121,16 @@ newtab-topsite-sponsored = ໄດ້ຮັບການສະຫນັບສະ�
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = ເປີດເມນູ
     .aria-label = ເປີດເມນູ
+    .title = ເປີດເມນູ
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = ລຶບ
     .aria-label = ລຶບ
+    .title = ລຶບ
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = ແກ້ໄຂເວັບໄຊທ໌ນີ້
     .aria-label = ແກ້ໄຂເວັບໄຊທ໌ນີ້
+    .title = ແກ້ໄຂເວັບໄຊທ໌ນີ້
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -283,8 +283,8 @@ newtab-custom-shortcuts-title = ທາງລັດ
 newtab-custom-shortcuts-subtitle = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = ທາງລັດ
     .description = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
+    .label = ທາງລັດ
 newtab-custom-shortcuts-nova =
     .label = ທາງລັດ
 # Variables

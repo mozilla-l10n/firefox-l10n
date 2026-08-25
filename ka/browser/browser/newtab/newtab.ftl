@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = მორგება
 newtab-customize-panel-label =
     .label = მორგება
 newtab-personalize-settings-icon-label =
-    .title = ახალი ჩანართის მორგება
     .aria-label = პარამეტრები
+    .title = ახალი ჩანართის მორგება
 newtab-settings-dialog-label =
     .aria-label = პარამეტრები
 newtab-personalize-icon-label =
-    .title = ახალი ჩანართის მორგება
     .aria-label = ახალი ჩანართის მორგება
+    .title = ახალი ჩანართის მორგება
 newtab-personalize-dialog-label =
     .aria-label = მორგება
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = აცილება
     .aria-label = აცილება
+    .title = აცილება
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = ძიება
 home-prefs-stories-header2 =
-    .label = ამბები
     .description = გამორჩეული მასალები, რომელთაც გთავაზობთ { -brand-product-name }-ოჯახი
+    .label = ამბები
 home-prefs-widgets-header =
     .label = ჩანამატები
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -330,8 +330,8 @@ newtab-stocks-error-not-available = აქციების მონაცე�
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = აქციების ჩანამატის გამართვა
     .aria-label = აქციების ჩანამატის პარამეტრები
+    .title = აქციების ჩანამატის გამართვა
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = აქციები
@@ -366,15 +366,15 @@ newtab-stocks-ticker-status-flat = { $name }, უცვლელი, { $change }
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = დაემატოს { $name } სიაში
     .aria-label = დაემატოს { $name } სიაში
+    .title = დაემატოს { $name } სიაში
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = მოცილდეს { $name } სიიდან
     .aria-label = მოცილდეს { $name } სიიდან
+    .title = მოცილდეს { $name } სიიდან
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -403,8 +403,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = უკან
     .aria-label = უკან
+    .title = უკან
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -445,14 +445,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = დღის სურათის გამართვა
     .aria-label = დღის სურათის პარამეტრები
+    .title = დღის სურათის გამართვა
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = დააყენეთ ფონად დღის სურათი
     .label = ფონის დაყენება
     .title = ფონის დაყენება
-    .aria-label = დააყენეთ ფონად დღის სურათი
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = ფონის მართვა
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -464,8 +464,8 @@ newtab-picture-menu-show-photo = დღის სურათის ჩვენ
 newtab-picture-menu-learn-more = ვრცლად
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = დღის სურათის ჩვენება
     .aria-label = დღის სურათის ჩვენება
+    .title = დღის სურათის ჩვენება
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = ხვალაც შეამოწმეთ ახალი სურათი
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -482,16 +482,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = ვრცლად
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = ძიება
     .aria-label = ძიება
+    .title = ძიება
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
@@ -499,17 +495,17 @@ newtab-search-box-handoff-text-no-engine = მოძებნეთ ან შ�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
     .placeholder = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
     .title = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
-    .aria-label = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = მოძებნეთ ან შეიყვანეთ მისამართი
     .placeholder = მოძებნეთ ან შეიყვანეთ მისამართი
     .title = მოძებნეთ ან შეიყვანეთ მისამართი
-    .aria-label = მოძებნეთ ან შეიყვანეთ მისამართი
 newtab-search-box-text = ძიება ინტერნეტში
 newtab-search-box-input =
-    .placeholder = ინტერნეტში ძიება
     .aria-label = ინტერნეტში ძიება
+    .placeholder = ინტერნეტში ძიება
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -519,8 +515,8 @@ newtab-topsites-edit-topsites-header = რჩეული საიტის ჩ
 newtab-topsites-edit-shortcut-header = მალსახმობის ჩასწორება
 newtab-topsites-add-shortcut-label = მალსახმობის დამატება
 newtab-topsites-add-shortcut-title =
-    .title = მალსახმობის დამატება
     .aria-label = მალსახმობის დამატება
+    .title = მალსახმობის დამატება
 newtab-shortcuts-pinned-area = მიმაგრებული არე
 newtab-topsites-title-label = დასახელება
 newtab-topsites-title-input =
@@ -533,9 +529,6 @@ newtab-topsites-image-url-label = სასურველი სურათი
 newtab-topsites-use-custom-image-link = სასურველი სურათის გამოყენება
 newtab-topsites-use-image-link = სასურველი სურათის გამოყენება…
 newtab-topsites-image-validation = სურათი ვერ ჩაიტვირთა. სცადეთ სხვა URL-ბმული.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = ტექსტის გასუფთავება
 
@@ -573,35 +566,35 @@ newtab-topsites-hover-card-header = გატყობინებთ { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = ახლახან
 newtab-topsites-hover-card-mark-all-read =
-    .title = ყველას წაკითხულად მონიშვნა
     .aria-label = ყველას წაკითხულად მონიშვნა
+    .title = ყველას წაკითხულად მონიშვნა
 newtab-topsites-hover-card-settings =
-    .title = შეტყობინების პარამეტრები
     .aria-label = შეტყობინების პარამეტრები
+    .title = შეტყობინების პარამეტრები
 newtab-topsites-hover-card-dismiss =
-    .title = აცილება
     .aria-label = აცილება
+    .title = აცილება
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = მენიუს გახსნა
     .aria-label = მენიუს გახსნა
+    .title = მენიუს გახსნა
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = მოცილება
     .aria-label = მოცილება
+    .title = მოცილება
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = მენიუს გახსნა
     .aria-label = კონტექსტური მენიუს გახსნა { $title }
+    .title = მენიუს გახსნა
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = საიტის ჩასწორება
     .aria-label = საიტის ჩასწორება
+    .title = საიტის ჩასწორება
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -785,8 +778,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = გმადლობთ. თქვენი გამოხმაურება დაგვეხმარება სიახლეების არხის გაუმჯობესებაში.
 newtab-toast-dismiss-button =
-    .title = აცილება
     .aria-label = აცილება
+    .title = აცილება
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -805,13 +798,13 @@ newtab-custom-shortcuts-title = მალსახმობები
 newtab-custom-shortcuts-subtitle = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = მალსახმობები
     .description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
+    .label = მალსახმობები
 newtab-custom-shortcuts-nova =
     .label = მალსახმობები
 newtab-custom-web-notifications-toggle =
-    .label = ვებშეტყობინებები
     .description = საიტების შეტყობინებების ჩვენება მალსახმობებზე
+    .label = ვებშეტყობინებები
 newtab-custom-row-description =
     .description = რიგის რაოდენობა
 # Variables
@@ -835,8 +828,8 @@ newtab-custom-pocket-title = გთავაზობთ { -pocket-brand-name }
 newtab-custom-pocket-subtitle = გამორჩეული მასალები, რომელთაც { -pocket-brand-name } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = შემოთავაზებული ამბები
     .description = გამორჩეული მასალები, რომელთაც შეგირჩევთ { -brand-product-name }
+    .label = შემოთავაზებული ამბები
 newtab-recommended-stories-toggle =
     .label = შემოთავაზებული ამბები
 newtab-custom-stories-personalized-toggle =
@@ -849,8 +842,8 @@ newtab-custom-pocket-show-recent-saves = ბოლოს შენახულ�
 newtab-custom-recent-title = ბოლო მოქმედებები
 newtab-custom-recent-subtitle = ბოლოს ნანახი საიტებისა და მასალებიდან შერჩეული
 newtab-custom-weather-toggle =
-    .label = ამინდი
     .description = დღევანდელი ამინდისთვის თვალის შევლება
+    .label = ამინდი
 newtab-custom-widget-weather-toggle =
     .label = ამინდი
 newtab-custom-widget-lists-toggle =
@@ -877,13 +870,10 @@ newtab-widget-manage-widget-button =
     .label = ჩანამატების მართვა
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = დახურვა
     .aria-label = მენიუს დახურვა
+    .title = დახურვა
 newtab-custom-close-button = დახურვა
 newtab-custom-settings = დამატებითი პარამეტრების მართვა
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = იერსახე
 # Button that opens the full browser theme selection view.
@@ -996,14 +986,11 @@ newtab-wallpaper-feature-highlight-content = მიანიჭეთ გან�
 newtab-wallpaper-feature-highlight-button = გასაგებია
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = აცილება
     .aria-label = ამომხტომის დახურვა
+    .title = აცილება
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1030,8 +1017,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ დამკვეთი
 newtab-weather-menu-change-location = მდებარეობის შეცვლა
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = მდებარეობის მოძიება
     .aria-label = მდებარეობის მოძიება
+    .placeholder = მდებარეობის მოძიება
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = მიმდინარე მდებარეობის გამოყენება
@@ -1075,8 +1062,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = ამინდს გთავაზობთ { $provider }
     .aria-description = { $provider } ∙ დამკვეთი
+    .title = ამინდს გთავაზობთ { $provider }
 
 ## Topic Labels
 
@@ -1277,8 +1264,8 @@ newtab-widget-lists-menu-copy = სიის ასლის აღება
 newtab-widget-lists-menu-learn-more = ვრცლად
 newtab-widget-lists-button-add-item = ჩანაწერის დამატება
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = ჩანაწერის დამატება
     .aria-label = ჩანაწერის დამატება
+    .placeholder = ჩანაწერის დამატება
 newtab-widget-lists-input-error = დასამატებლად დაურთეთ წარწერა.
 newtab-widget-lists-input-menu-open-link = ბმულის გახსნა
 newtab-widget-lists-input-menu-move-up = აწევა
@@ -1303,12 +1290,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = დავალებების სია
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = ჩამონათვალი
     .aria-label = სიის გადარქმევა
+    .placeholder = ჩამონათვალი
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = ახალი სია
     .aria-label = სიის გადარქმევა
+    .placeholder = ახალი სია
 newtab-widget-section-title = ჩანამატები
 newtab-widget-menu-hide = ჩანამატის დამალვა
 newtab-widget-menu-change-size = ზომის შეცვლა
@@ -1326,17 +1313,17 @@ newtab-widget-size-medium = საშუალო
 newtab-widget-size-large = მოზრდილი
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = ჩანამატების დამალვა
     .aria-label = ყველა ჩანამატის დამალვა
+    .title = ჩანამატების დამალვა
 newtab-widget-section-maximize =
-    .title = ჩანამატების გაშლა
     .aria-label = ყველა ჩანამატი სრული ზომით
+    .title = ჩანამატების გაშლა
 newtab-widget-section-minimize =
-    .title = ჩანამატების ჩაკეცვა
     .aria-label = ყველა ჩანამატი შემცირებული ზომით
+    .title = ჩანამატების ჩაკეცვა
 newtab-widget-section-menu-button =
-    .title = ჩანამატების მენიუ
     .aria-label = ჩანამატების მენიუს გახსნა
+    .title = ჩანამატების მენიუ
 newtab-widget-add-widgets-button =
     .aria-label = ჩანამატის დამატება
     .title = ჩანამატის დამატება
@@ -1397,11 +1384,8 @@ newtab-promo-card-title = თანადგომა – { -brand-product-name 
 newtab-promo-card-body = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად
 newtab-promo-card-cta = ვრცლად
 newtab-promo-card-dismiss-button =
-    .title = აცილება
     .aria-label = აცილება
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = აცილება
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1469,8 +1453,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = ფონის არჩევა
 newtab-sports-widget-skip = აცილება
 newtab-sports-widget-search-country =
-    .placeholder = ქვეყნის ძიება
     .aria-label = ქვეყნის ძიება
+    .placeholder = ქვეყნის ძიება
 newtab-sports-widget-cancel = გაუქმება
 newtab-sports-widget-back-button =
     .aria-label = უკან
@@ -1537,8 +1521,8 @@ newtab-sports-widget-quarter-finals = მეოთხედფინალი
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ᲞᲘᲠᲓ.
 newtab-custom-widget-live-refresh =
-    .title = ქულების გაახლება
     .aria-label = ქულების გაახლება
+    .title = ქულების გაახლება
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = საკვანძო თარიღები
 newtab-sports-widget-upcoming = მოახლოებული
@@ -1552,10 +1536,10 @@ newtab-sports-widget-final = ფინალი
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = შეყოვნებულია
 newtab-sports-widget-postponed = გადადებულია
 newtab-sports-widget-suspended = შეჩერებულია
@@ -1588,12 +1572,12 @@ newtab-sports-widget-no-upcoming-matches = არ გამოგრჩეთ �
 
 # arrow button that goes to the previous page of live matches.
 newtab-sports-widget-pagination-previous =
-    .title = წინა
     .aria-label = წინა
+    .title = წინა
 # arrow button that goes to the next page of live matches.
 newtab-sports-widget-pagination-next =
-    .title = შემდეგი
     .aria-label = შემდეგი
+    .title = შემდეგი
 # Dot indicator that jumps directly to a given live match.
 # $index (number) - 1-based position of this dot in the list.
 # $total (number) - Total number of live matches.
@@ -1693,8 +1677,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = აცილება
     .aria-label = აცილება
+    .title = აცილება
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1719,34 +1703,34 @@ newtab-clock-widget-menu-switch-to-12h = გადართვა 12-საა�
 newtab-clock-widget-menu-switch-to-24h = გადართვა 24-საათიანზე
 newtab-clock-widget-label-your-clocks = თქვენი საათები
 newtab-clock-widget-search-location-input =
+    .aria-label = ქალაქის ძიება
     .label = მდებარეობა
     .placeholder = ქალაქის ძიება
-    .aria-label = ქალაქის ძიება
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = მეტსახელი (არასავალდებულო)
     .label = მეტსახელი (არასავალდებულო)
     .placeholder = მეტსახელის დამატება
-    .aria-label = მეტსახელი (არასავალდებულო)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = ახალი საათის დამატება
     .aria-label = ახალი საათის დამატება
+    .title = ახალი საათის დამატება
 newtab-clock-widget-button-add-clock = დამატება
 newtab-clock-widget-button-cancel = გაუქმება
 newtab-clock-widget-button-back =
-    .title = უკან
     .aria-label = უკან
+    .title = უკან
 newtab-clock-widget-button-edit-clock =
-    .title = საათის ჩასწორება
     .aria-label = საათის ჩასწორება
+    .title = საათის ჩასწორება
 newtab-clock-widget-button-save = შენახვა
 newtab-clock-widget-button-remove-clock =
-    .title = საათის მოცილება
     .aria-label = საათის მოცილება
+    .title = საათის მოცილება
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1774,15 +1758,15 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = დაამატეთ „{ $city }“ ცალკე საათად
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
+    .aria-label = ქალაქის სახელი
     .label = ქალაქის სახელი
     .placeholder = ამ საათის სახელი
-    .aria-label = ქალაქის სახელი
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
+    .aria-label = სასაათე სარტყელი
     .label = სასაათე სარტყელი
     .placeholder = ძიება ქალაქით, სარტყლით ან UTC-საზომით
-    .aria-label = სასაათე სარტყელი
 newtab-clock-widget-custom-zone-results =
     .aria-label = დროის სარტყლის შედეგები
 # Shown in the time-zone picker when the search matches no time zones.
@@ -1797,8 +1781,8 @@ newtab-clock-widget-search-no-results = არაა თანხვედრა
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = საათის მენიუს გახსნა
     .aria-label = საათის მენიუს გახსნა
+    .title = საათის მენიუს გახსნა
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = მეტსახელი: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

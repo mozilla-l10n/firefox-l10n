@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – პირადი ფანჯარა
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name } პირადი ფანჯარა
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – პირადი ფანჯარა
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – პირადი ფანჯარა
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – პირადი ფანჯარა
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – პირადი ფანჯარა
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = გვერდების თვალიერ
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } პირადი თვალიერება
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } პირადი თვალიერება
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } პირადი თვალიერება
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } პირადი თვალიერება
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } პირადი თვალიერება
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } პირადი თვალიერება
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } პირადი თვალიერება
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — პირადი თვალიერება
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } პირადი თვალიერება
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — პირადი თვალიერება
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — პირადი თვალიერება
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — პირადი თვალიერება
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — პირადი თვალიერება
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } პირადი თვალიერება
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -138,9 +138,6 @@ urlbar-identity-button2 =
             [one] საიტის მონაცემების ნახვა ({ $count } მეთვალყურე შეიზღუდა)
            *[other] საიტის მონაცემების ნახვა ({ $count } მეთვალყურე შეიზღუდა)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = საიტის ინფორმაციის ჩვენება
 
@@ -337,8 +334,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = გვერდის ჩანიშვნა ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = გაყოფილი ხედი
     .aria-label = გაყოფილი ხედი
+    .tooltiptext = გაყოფილი ხედი
 
 ## Searchbar context menu
 
@@ -391,9 +388,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = დაემატება საძიებოდ „{ $engineName }“
     .label = დაამატეთ „{ $engineName }“
     .tooltiptext = დაემატება საძიებოდ „{ $engineName }“
-    .aria-label = დაემატება საძიებოდ „{ $engineName }“
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -743,32 +740,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = ინტერნეტში ძიება
     .aria-label = { $name } ძიება
+    .placeholder = ინტერნეტში ძიება
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = მიუთითეთ საძიებო ფრაზა
     .aria-label = ძიება { $name }
+    .placeholder = მიუთითეთ საძიებო ფრაზა
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = მიუთითეთ საძიებო ფრაზა
     .aria-label = ძიება სანიშნებში
+    .placeholder = მიუთითეთ საძიებო ფრაზა
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = მიუთითეთ საძიებო ფრაზა
     .aria-label = ძიება ისტორიაში
+    .placeholder = მიუთითეთ საძიებო ფრაზა
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = მიუთითეთ საძიებო ფრაზა
     .aria-label = ძიება ჩანართებში
+    .placeholder = მიუთითეთ საძიებო ფრაზა
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = მიუთითეთ საძიებო ფრაზა
     .aria-label = ძიების მოქმედებები
+    .placeholder = მიუთითეთ საძიებო ფრაზა
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -871,7 +868,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -920,11 +917,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · დამკვეთისგან
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = კითხვა
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1144,10 +1136,6 @@ urlbar-searchmode-history3 = ისტორია
     .accesskey = ტ
 urlbar-searchmode-actions3 = მოქმედებები
     .accesskey = ქ
-urlbar-searchmode-bookmarks2 = სანიშნები
-urlbar-searchmode-tabs2 = ჩანართები
-urlbar-searchmode-history2 = ისტორია
-urlbar-searchmode-actions2 = მოქმედებები
 urlbar-searchmode-exit-button2 =
     .title = დახურვა
 urlbar-searchmode-default2 =
@@ -1167,8 +1155,6 @@ urlbar-searchmode-popup-search-settings = ძიების პარამე�
     .accesskey = პ
 urlbar-searchmode-popup-settings = პარამეტრები
     .accesskey = პ
-urlbar-searchmode-popup-search-settings-panelitem = ძიების პარამეტრები
-urlbar-searchmode-popup-settings-panelitem = პარამეტრები
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1341,9 +1327,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = სანიშნები
     .toolbarname = სანიშნების ხელსაწყოთა ზოლი
     .accesskey = ს
-    .aria-label = სანიშნები
 bookmarks-toolbar-menu =
     .label = სანიშნების ხელსაწყოთა ზოლი
 bookmarks-toolbar-placeholder =
@@ -1520,9 +1506,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = ც
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1752,13 +1735,6 @@ file-picker-crashed-open = Windows-ის ფაილების მმარ�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-ის ფაილების მმართველი უეცრად გაითიშა. ფაილის შენახვის ადგილი იქნება { $path }.
 file-picker-crashed-save-nowhere = Windows-ის ფაილების მმართველი უეცრად გაითიშა. ნაგულისხმევი საქაღალდე ვერ მოინახა; ფაილის შენახვა ვერ მოხერხდა.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = ჩვენება საქაღალდეში
     .accessKey = ქ
@@ -1811,9 +1787,6 @@ trustpanel-blocker-see-all = ყველას ნახვა
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = თვალთვალისგან დაცვა საიტისთვის { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

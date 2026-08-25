@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Shfletim Privat { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — Shfletim Privat { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Shfletim Privat { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Shfletim Privat
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Shfletim Privat
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Shfletim Privat
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = Shfletim i shpejtë dhe privat
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Shfletim Privat { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Shfletim Privat { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Shfletim Privat { -brand-full-name }
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — Shfletim Privat { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Shfletim Privat { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = Shfletim Privat { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — Shfletim Privat { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Shfletim Privat
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Shfletim Privat { -brand-full-name }
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Shfletim Privat
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — Shfletim Privat
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Shfletim Privat
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Shfletim Privat
+    .data-title-private-with-profile = { $profile-name } — Shfletim Privat { -brand-full-name }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -128,9 +128,6 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Administroni rregullime për flluska dhe ridrejtime nga palë të treta…
     .accesskey = A
-
-##
-
 urlbar-identity-button =
     .aria-label = Shihni hollësi sajti
 
@@ -313,8 +310,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Faqeruani këtë faqe ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = Pamje krah për krah
     .aria-label = Pamje krah për krah
+    .tooltiptext = Pamje krah për krah
 
 ## Searchbar context menu
 
@@ -367,9 +364,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Shtoni motorin e kërkimeve “{ $engineName }”
     .label = Shtoni “{ $engineName }”
     .tooltiptext = Shtoni motorin e kërkimeve “{ $engineName }”
-    .aria-label = Shtoni motorin e kërkimeve “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -684,32 +681,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Kërkoni në Web
     .aria-label = Kërkoni me { $name }
+    .placeholder = Kërkoni në Web
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Jepni terma kërkimi
     .aria-label = Kërkoni me { $name }
+    .placeholder = Jepni terma kërkimi
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Jepni terma kërkimi
     .aria-label = Kërko te faqerojtësit
+    .placeholder = Jepni terma kërkimi
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Jepni terma kërkimi
     .aria-label = Kërko në historik
+    .placeholder = Jepni terma kërkimi
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Jepni terma kërkimi
     .aria-label = Kërko në skeda
+    .placeholder = Jepni terma kërkimi
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Jepni terma kërkimi
     .aria-label = Veprime kërkimi
+    .placeholder = Jepni terma kërkimi
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -812,7 +809,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -986,10 +983,6 @@ urlbar-searchmode-no-keyword2 =
     .title = Kërkimi me fjalëkyçe është i çaktivizuar
 urlbar-searchmode-dropmarker2 =
     .title = Zgjidhni një Motor Kërkimesh
-urlbar-searchmode-bookmarks2 = Faqerojtës
-urlbar-searchmode-tabs2 = Skeda
-urlbar-searchmode-history2 = Historik
-urlbar-searchmode-actions2 = Veprime
 urlbar-searchmode-exit-button2 =
     .title = Mbylle
 urlbar-searchmode-default2 =
@@ -1005,7 +998,6 @@ urlbar-searchmode-popup-one-off-header = Këtë herë kërko me:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Kërko me:
-urlbar-searchmode-popup-search-settings-panelitem = Parametra Kërkimi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1160,9 +1152,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Faqerojtës
     .toolbarname = Panel Faqerojtësish
     .accesskey = F
-    .aria-label = Faqerojtës
 bookmarks-toolbar-menu =
     .label = Panel Faqerojtësish
 bookmarks-toolbar-placeholder =
@@ -1328,9 +1320,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = M
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1542,13 +1531,6 @@ file-picker-crashed-open = Dialogu Windows për kartela u vithis. S’përzgjidh
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Dialogu Windows për kartela u vithis. Kartela do të ruhet te { $path }.
 file-picker-crashed-save-nowhere = Dialogu Windows për kartela u vithis. S’përzgjidhej dot dosje parazgjedhje; kartela s’do të ruhet.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Shfaqe Në Dosje
     .accessKey = D
@@ -1601,9 +1583,6 @@ trustpanel-blocker-see-all = Shihini Krejt
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Mbrojtje nga gjurmimet për { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = Ver la información del sitiu
 
@@ -328,9 +325,6 @@ urlbar-searchmode-tabs =
     .label = Llingüetes
 urlbar-searchmode-history =
     .label = Historial
-urlbar-searchmode-bookmarks2 = Marcadores
-urlbar-searchmode-tabs2 = Llingüetes
-urlbar-searchmode-history2 = Historial
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -398,9 +392,9 @@ bookmarks-search =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Marcadores
     .toolbarname = Barra de los marcadores
     .accesskey = B
-    .aria-label = Marcadores
 bookmarks-toolbar-menu =
     .label = Barra de los marcadores
 bookmarks-toolbar-placeholder =
@@ -479,9 +473,6 @@ ui-tour-info-panel-close =
     .tooltiptext = Zarrar
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

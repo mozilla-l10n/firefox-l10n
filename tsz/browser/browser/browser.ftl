@@ -49,9 +49,6 @@ bookmarks-toolbar-placeholder-button =
 
 ##
 
-
-# Navigator Toolbox
-
 navbar-downloads =
     .label = Anchitarakua keskukuecha
 tabs-toolbar-new-tab =

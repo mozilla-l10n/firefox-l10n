@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Ñemomba’ete
 newtab-customize-panel-label =
     .label = Ñemomba’ete
 newtab-personalize-settings-icon-label =
-    .title = Eñemomba’e tendayke pyahúre
     .aria-label = Ñemboheko
+    .title = Eñemomba’e tendayke pyahúre
 newtab-settings-dialog-label =
     .aria-label = Ñemboheko
 newtab-personalize-icon-label =
-    .title = Eñemomba’e tendayke pyahúre
     .aria-label = Eñemomba’e tendayke pyahúre
+    .title = Eñemomba’e tendayke pyahúre
 newtab-personalize-dialog-label =
     .aria-label = Ñemomba’e
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Mboyke
     .aria-label = Mboyke
+    .title = Mboyke
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Heka
 home-prefs-stories-header2 =
-    .label = Tembiasakue
     .description = Tetepy oiporavóva { -brand-product-name } reheguáva
+    .label = Tembiasakue
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -290,8 +290,8 @@ newtab-stocks-error-not-available = Mba’ekuaarãita apopyre ndojeporukuaái
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Widget jepovorã jeku’erãva
     .aria-label = Widget jepovorã jeku’erãva
+    .title = Widget jepovorã jeku’erãva
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Jejaporã
@@ -326,15 +326,15 @@ newtab-stocks-ticker-status-flat = { $name }, naiñambuéi, { $change }, { $pric
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = Embojuaju { $name } tapykuehoha rysýire
     .aria-label = Embojuaju { $name } tapykuehoha rysýire
+    .title = Embojuaju { $name } tapykuehoha rysýire
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = Embogue { $name } tapykuehoha rysýigui
     .aria-label = Embogue { $name } tapykuehoha rysýigui
+    .title = Embogue { $name } tapykuehoha rysýigui
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -363,8 +363,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Tapykue
     .aria-label = Tapykue
+    .title = Tapykue
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -397,14 +397,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Ta’ãnga aragua poravorã
     .aria-label = Ta’ãnga aragua poravorã
+    .title = Ta’ãnga aragua poravorã
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Emoĩ ta’ãnga aragua mba’erechaha ruguárõ
     .label = Emoĩ mba’erechaha ruguárõ
     .title = Emoĩ mba’erechaha ruguárõ
-    .aria-label = Emoĩ ta’ãnga aragua mba’erechaha ruguárõ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Emongu’e jehechaha rugua
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -416,8 +416,8 @@ newtab-picture-menu-show-photo = Ehechauka ta’ãnga aragua
 newtab-picture-menu-learn-more = Eikuaave
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Ehechauka ta’ãnga aragua
     .aria-label = Ehechauka ta’ãnga aragua
+    .title = Ehechauka ta’ãnga aragua
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Eju jey ko’ẽrõ ta’ãnga pyahurã rekávo
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -434,16 +434,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Eikuaave
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Eheka
     .aria-label = Eheka
+    .title = Eheka
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Eheka { $engine } ndive térã emoinge kundaharape
@@ -451,17 +447,17 @@ newtab-search-box-handoff-text-no-engine = Eheka térã ehai kundaharape
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Eheka { $engine } ndive térã emoinge kundaharape
     .placeholder = Eheka { $engine } ndive térã emoinge kundaharape
     .title = Eheka { $engine } ndive térã emoinge kundaharape
-    .aria-label = Eheka { $engine } ndive térã emoinge kundaharape
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Eheka térã ehai kundaharape
     .placeholder = Eheka térã ehai kundaharape
     .title = Eheka térã ehai kundaharape
-    .aria-label = Eheka térã ehai kundaharape
 newtab-search-box-text = Eheka ñandutípe
 newtab-search-box-input =
-    .placeholder = Eheka ñandutípe
     .aria-label = Eheka ñandutípe
+    .placeholder = Eheka ñandutípe
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -471,8 +467,8 @@ newtab-topsites-edit-topsites-header = Tenda Ojeikevéva Mbosako’i
 newtab-topsites-edit-shortcut-header = Mbopya’eha mbosako’i
 newtab-topsites-add-shortcut-label = Embojuaju jeike pya’eha
 newtab-topsites-add-shortcut-title =
-    .title = Embojuaju jeike pya’eha
     .aria-label = Embojuaju jeike pya’eha
+    .title = Embojuaju jeike pya’eha
 newtab-shortcuts-pinned-area = Pa’ũguasu poravopyre
 newtab-topsites-title-label = Teratee
 newtab-topsites-title-input =
@@ -485,9 +481,6 @@ newtab-topsites-image-url-label = URL ra’ãnga ñemomba’etepyre
 newtab-topsites-use-custom-image-link = Ta’ãnga ñemomba’etepyre
 newtab-topsites-use-image-link = Ta’ãnga ñemomba’etepyre…
 newtab-topsites-image-validation = Ta’ãnga nehenyhẽkuái. Eiporu peteĩ URL iñambuéva.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Emopotĩ moñe’ẽrã
 
@@ -525,35 +518,35 @@ newtab-topsites-hover-card-header = Marandu’i { $site } guive
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Ko’ag̃aite
 newtab-topsites-hover-card-mark-all-read =
-    .title = Emongurusu moñe’ẽmbyrerõ
     .aria-label = Emongurusu moñe’ẽmbyrerõ
+    .title = Emongurusu moñe’ẽmbyrerõ
 newtab-topsites-hover-card-settings =
-    .title = Momarandu ñemboheko
     .aria-label = Momarandu ñemboheko
+    .title = Momarandu ñemboheko
 newtab-topsites-hover-card-dismiss =
-    .title = Emboyke
     .aria-label = Emboyke
+    .title = Emboyke
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Eike poravorãme
     .aria-label = Eike poravorãme
+    .title = Eike poravorãme
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Mboguete
     .aria-label = Mboguete
+    .title = Mboguete
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Eike poravorãme
     .aria-label = Embojuruja poravorã { $title } peg̃uarã
+    .title = Eike poravorãme
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Embosako’i ko tenda
     .aria-label = Embosako’i ko tenda
+    .title = Embosako’i ko tenda
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -737,8 +730,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Aguyje. Nde jehai ore pytyvõta iporãve hag̃ua ne marandurã.
 newtab-toast-dismiss-button =
-    .title = Emboyke
     .aria-label = Emboyke
+    .title = Emboyke
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -757,13 +750,13 @@ newtab-custom-shortcuts-title = Jeike pya’eha
 newtab-custom-shortcuts-subtitle = Tenda eñongatúva térã eikeha
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Jeike pya’eha
     .description = Tenda eñongatúva térã eikeha
+    .label = Jeike pya’eha
 newtab-custom-shortcuts-nova =
     .label = Jeike pya’eha
 newtab-custom-web-notifications-toggle =
-    .label = Marandu’i ñandutigua
     .description = Ehechauka marandu’i tendaguigua nde jeike pya’ehápe
+    .label = Marandu’i ñandutigua
 newtab-custom-row-description =
     .description = Tysýi papapy
 # Variables
@@ -787,8 +780,8 @@ newtab-custom-pocket-title = { -pocket-brand-name } oñe’ẽporãha
 newtab-custom-pocket-subtitle = Tetepy iporãva { -pocket-brand-name } oiporavopyre, { -brand-product-name } mba’éva pegua
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Tembiasakue momba’epyre
     .description = Tetepy iporãva oiporavóva { -brand-product-name } reheguáva
+    .label = Tembiasakue momba’epyre
 newtab-recommended-stories-toggle =
     .label = Tembiasakue momba’epyre
 newtab-custom-stories-personalized-toggle =
@@ -801,8 +794,8 @@ newtab-custom-pocket-show-recent-saves = Ehechauka eñongaturamóva
 newtab-custom-recent-title = Tembiapo ramovegua
 newtab-custom-recent-subtitle = Tenda jeporavo ha tetepy ramovegua
 newtab-custom-weather-toggle =
-    .label = Arapytu
     .description = Ko árape g̃uara ára
+    .label = Arapytu
 newtab-custom-widget-weather-toggle =
     .label = Arapytu
 newtab-custom-widget-lists-toggle =
@@ -829,13 +822,10 @@ newtab-widget-manage-widget-button =
     .label = Eñangareko widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Mboty
     .aria-label = Poravorã mboty
+    .title = Mboty
 newtab-custom-close-button = Mboty
 newtab-custom-settings = Eñangareko hetave ñembohekóre
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Mba’ejeguarã
 # Button that opens the full browser theme selection view.
@@ -948,14 +938,11 @@ newtab-wallpaper-feature-highlight-content = Eme’ẽ ne rendayke pyahúpe jehe
 newtab-wallpaper-feature-highlight-button = Aikũmby
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Mboyke
     .aria-label = Emboty mba’e iñapysẽva
+    .title = Mboyke
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -982,8 +969,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Oykekóva
 newtab-weather-menu-change-location = Emoambue tendatee
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Eheka tendatee
     .aria-label = Eheka tendatee
+    .placeholder = Eheka tendatee
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Eiporu ne rendaite ag̃agua
@@ -1027,8 +1014,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Ehecha ára rehegua { $provider }-pe
     .aria-description = { $provider } ∙ Oykekóva
+    .title = Ehecha ára rehegua { $provider }-pe
 
 ## Topic Labels
 
@@ -1229,8 +1216,8 @@ newtab-widget-lists-menu-copy = Embohasa tysýi kuatiajokohápe
 newtab-widget-lists-menu-learn-more = Eikuaave
 newtab-widget-lists-button-add-item = Embojuaju jehaipy
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Embojuaju jehaipy
     .aria-label = Embojuaju jehaipy
+    .placeholder = Embojuaju jehaipy
 newtab-widget-lists-input-error = Emoinge moñe’ẽrã embojuaju hag̃ua mba’eporurã.
 newtab-widget-lists-input-menu-open-link = Joajuha ijurujáva
 newtab-widget-lists-input-menu-move-up = Jehupi
@@ -1255,12 +1242,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Tembiaporã rysýi
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Tysýi hechajeyha
     .aria-label = Embosako’i tysýi réra
+    .placeholder = Tysýi hechajeyha
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Tysýi pyahu
     .aria-label = Embosako’i tysýi réra
+    .placeholder = Tysýi pyahu
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Eñomi widget
 newtab-widget-menu-change-size = Emoambue tuichakue
@@ -1278,17 +1265,17 @@ newtab-widget-size-medium = Mbyteguáva
 newtab-widget-size-large = Tuicháva
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Eñomi widgets
     .aria-label = Eñomimbaite widgets
+    .title = Eñomi widgets
 newtab-widget-section-maximize =
-    .title = Emyasãi widgets
     .aria-label = Emyasãimbaite widgets tuichaháicha
+    .title = Emyasãi widgets
 newtab-widget-section-minimize =
-    .title = Emomichĩ widgets
     .aria-label = Emomichĩmbaite widgets tuichaháicha
+    .title = Emomichĩ widgets
 newtab-widget-section-menu-button =
-    .title = Widgets poravoha
     .aria-label = Embojuruja widgets poravoha
+    .title = Widgets poravoha
 newtab-widget-add-widgets-button =
     .aria-label = Embojuaju widget
     .title = Embojuaju widget
@@ -1348,11 +1335,8 @@ newtab-promo-card-title = Eipytyvõ { -brand-product-name }
 newtab-promo-card-body = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue
 newtab-promo-card-cta = Eikuaave
 newtab-promo-card-dismiss-button =
-    .title = Mboyke
     .aria-label = Mboyke
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Mboyke
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1420,8 +1404,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Eiporavo mba’erechaha rugua
 newtab-sports-widget-skip = Jepo
 newtab-sports-widget-search-country =
-    .placeholder = Eheka tetã
     .aria-label = Eheka tetã
+    .placeholder = Eheka tetã
 newtab-sports-widget-cancel = Eheja
 newtab-sports-widget-back-button =
     .aria-label = Tapykue
@@ -1488,8 +1472,8 @@ newtab-sports-widget-quarter-finals = 8 atýpe oĩva
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = HECHAPY
 newtab-custom-widget-live-refresh =
-    .title = Embopyahu kytaita
     .aria-label = Embopyahu kytaita
+    .title = Embopyahu kytaita
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Arange oikóva
 newtab-sports-widget-upcoming = Oupotáva
@@ -1503,10 +1487,10 @@ newtab-sports-widget-final = Paha
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Jokopyre
 newtab-sports-widget-postponed = Mbohasapyre
 newtab-sports-widget-suspended = Jejokopyre
@@ -1642,8 +1626,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Mosẽ
     .aria-label = Mosẽ
+    .title = Mosẽ
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1668,34 +1652,34 @@ newtab-clock-widget-menu-switch-to-12h = Emoambue 12 aravohapegua
 newtab-clock-widget-menu-switch-to-24h = Emoambue 24 aravohapegua
 newtab-clock-widget-label-your-clocks = Ijaravopapaha
 newtab-clock-widget-search-location-input =
+    .aria-label = Eheka upe táva
     .label = Tendaite
     .placeholder = Eheka upe táva
-    .aria-label = Eheka upe táva
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Teragua’u (eipotárõ)
     .label = Teragua’u (eipotárõ)
     .placeholder = Embojuaju teragua’u
-    .aria-label = Teragua’u (eipotárõ)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Embojuaju aravopapaha pyahu
     .aria-label = Embojuaju aravopapaha pyahu
+    .title = Embojuaju aravopapaha pyahu
 newtab-clock-widget-button-add-clock = Mbojuaju
 newtab-clock-widget-button-cancel = Eheja
 newtab-clock-widget-button-back =
-    .title = Tapykue
     .aria-label = Tapykue
+    .title = Tapykue
 newtab-clock-widget-button-edit-clock =
-    .title = Embosako’i aravopapaha
     .aria-label = Embosako’i aravopapaha
+    .title = Embosako’i aravopapaha
 newtab-clock-widget-button-save = Ñongatu
 newtab-clock-widget-button-remove-clock =
-    .title = Embogue aravopapaha
     .aria-label = Embogue aravopapaha
+    .title = Embogue aravopapaha
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1723,14 +1707,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Embojuaju “{ $city }” aravopapahárõ
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Táva réra
     .aria-label = Táva réra
+    .label = Táva réra
     .placeholder = Embohéra ko aravopapaha
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Aravo rendaguasu
     .aria-label = Aravo rendaguasu
+    .label = Aravo rendaguasu
     .placeholder = Eheka peteĩteĩ táva, aravo rendaguasu ha UTC jeku’e
 newtab-clock-widget-custom-zone-results =
     .aria-label = Aravo rendaguasúgui osẽva
@@ -1746,8 +1730,8 @@ newtab-clock-widget-search-no-results = Ojuehegua’ỹva
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Embojuruja aravopapaha poravorã
     .aria-label = Embojuruja aravopapaha poravorã
+    .title = Embojuruja aravopapaha poravorã
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Teragua’u: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

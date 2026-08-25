@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Navigare privată
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Navigare privată
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Navigare privată
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Navigare privată
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Navigare privată
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navigare privată
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = Navigare web rapidă și privată
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Navigare privată
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigare privată
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Navigare privată
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Navigare privată
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Navigare privată
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } Navigare privată
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigare privată
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Navigare privată
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigare privată
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Navigare privată
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — Navigare privată
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navigare privată
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navigare privată
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigare privată
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -139,9 +139,6 @@ urlbar-identity-button2 =
             [few] Vezi informații despre site ({ $count } elemente de urmărire blocate)
            *[other] Vezi informații despre site ({ $count } de elemente de urmărire blocate)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Vezi informații despre site
 
@@ -338,8 +335,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Marchează pagina ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = Vizualizare divizată
     .aria-label = Vizualizare divizată
+    .tooltiptext = Vizualizare divizată
 
 ## Searchbar context menu
 
@@ -392,9 +389,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Adaugă motorul de căutare „{ $engineName }”
     .label = Adaugă „{ $engineName }”
     .tooltiptext = Adaugă motorul de căutare „{ $engineName }”
-    .aria-label = Adaugă motorul de căutare „{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -751,32 +748,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Caută pe web
     .aria-label = Caută cu { $name }
+    .placeholder = Caută pe web
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Introdu termenii de căutare
     .aria-label = Caută { $name }
+    .placeholder = Introdu termenii de căutare
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Introdu termenii de căutare
     .aria-label = Caută în marcaje
+    .placeholder = Introdu termenii de căutare
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Introdu termenii de căutare
     .aria-label = Caută în istoric
+    .placeholder = Introdu termenii de căutare
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Introdu termenii de căutare
     .aria-label = Caută file
+    .placeholder = Introdu termenii de căutare
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Introdu termenii de căutare
     .aria-label = Acțiuni de căutare
+    .placeholder = Introdu termenii de căutare
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -879,7 +876,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -928,11 +925,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizat
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Întreabă
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1161,10 +1153,6 @@ urlbar-searchmode-history3 = Istoric
     .accesskey = H
 urlbar-searchmode-actions3 = Acțiuni
     .accesskey = A
-urlbar-searchmode-bookmarks2 = Marcaje
-urlbar-searchmode-tabs2 = File
-urlbar-searchmode-history2 = Istoric
-urlbar-searchmode-actions2 = Acțiuni
 urlbar-searchmode-exit-button2 =
     .title = Închide
 urlbar-searchmode-default2 =
@@ -1184,8 +1172,6 @@ urlbar-searchmode-popup-search-settings = Setări de căutare
     .accesskey = S
 urlbar-searchmode-popup-settings = Setări
     .accesskey = S
-urlbar-searchmode-popup-search-settings-panelitem = Setări de căutare
-urlbar-searchmode-popup-settings-panelitem = Setări
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1358,9 +1344,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Marcaje
     .toolbarname = Bară de marcaje
     .accesskey = B
-    .aria-label = Marcaje
 bookmarks-toolbar-menu =
     .label = Bară de marcaje
 bookmarks-toolbar-placeholder =
@@ -1538,9 +1524,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1778,13 +1761,6 @@ file-picker-crashed-open = Fereastra de dialog pentru fișiere Windows s-a oprit
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Fișierul va fi salvat în { $path }.
 file-picker-crashed-save-nowhere = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Nu s-a găsit nicio locație implicită; fișierul nu va fi salvat.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Afișează în dosar
     .accessKey = F
@@ -1837,9 +1813,6 @@ trustpanel-blocker-see-all = Afișează tot
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecții împotriva urmăririi pentru { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

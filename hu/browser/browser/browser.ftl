@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } privát böngészés
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name } privát böngészés
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } privát böngészés
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – privát böngészés
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – privát böngészés
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – privát böngészés
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = Gyors és privát webböngészés
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } privát böngészés
-    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } – { -brand-full-name } privát böngészés
     .data-content-title-default = { $content-title } – { -brand-full-name }
-    .data-content-title-private = { $content-title } – { -brand-full-name } privát böngészés
     .data-content-title-default-with-profile = { $content-title } – { $profile-name } – { -brand-full-name }
+    .data-content-title-private = { $content-title } – { -brand-full-name } privát böngészés
     .data-content-title-private-with-profile = { $content-title } – { $profile-name } – { -brand-full-name } privát böngészés
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
+    .data-title-private = { -brand-full-name } privát böngészés
+    .data-title-private-with-profile = { $profile-name } – { -brand-full-name } privát böngészés
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – privát böngészés
-    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } – { -brand-full-name } – privát böngészés
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } – privát böngészés
     .data-content-title-default-with-profile = { $content-title } – { $profile-name }
+    .data-content-title-private = { $content-title } – privát böngészés
     .data-content-title-private-with-profile = { $content-title } – { $profile-name } – privát böngészés
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
+    .data-title-private = { -brand-full-name } – privát böngészés
+    .data-title-private-with-profile = { $profile-name } – { -brand-full-name } – privát böngészés
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -138,9 +138,6 @@ urlbar-identity-button2 =
             [one] Webhely-információk megtekintése ({ $count } nyomkövető blokkolva)
            *[other] Webhely-információk megtekintése ({ $count } nyomkövető blokkolva)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Oldal adatainak megjelenítése
 
@@ -337,8 +334,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Oldal a könyvjelzők közé ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = Osztott nézet
     .aria-label = Osztott nézet
+    .tooltiptext = Osztott nézet
 
 ## Searchbar context menu
 
@@ -391,9 +388,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = „{ $engineName }” keresőszolgáltatás hozzáadása
     .label = „{ $engineName }” hozzáadása
     .tooltiptext = „{ $engineName }” keresőszolgáltatás hozzáadása
-    .aria-label = „{ $engineName }” keresőszolgáltatás hozzáadása
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -746,32 +743,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Keresés a weben
     .aria-label = Keresés a(z) { $name } keresővel
+    .placeholder = Keresés a weben
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Adja meg a keresési kifejezéseket
     .aria-label = Keresés a(z) { $name } keresővel
+    .placeholder = Adja meg a keresési kifejezéseket
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Adja meg a keresési kifejezéseket
     .aria-label = Könyvjelzők keresése
+    .placeholder = Adja meg a keresési kifejezéseket
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Adja meg a keresési kifejezéseket
     .aria-label = Előzmények keresése
+    .placeholder = Adja meg a keresési kifejezéseket
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Adja meg a keresési kifejezéseket
     .aria-label = Lapok keresése
+    .placeholder = Adja meg a keresési kifejezéseket
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Adja meg a keresési kifejezéseket
     .aria-label = Műveletek keresése
+    .placeholder = Adja meg a keresési kifejezéseket
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -874,7 +871,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -923,11 +920,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 urlbar-result-weather-provider-sponsored = { $provider } ∙ Szponzorálva
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Kérdezze meg
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1147,10 +1139,6 @@ urlbar-searchmode-history3 = Előzmények
     .accesskey = E
 urlbar-searchmode-actions3 = Műveletek
     .accesskey = M
-urlbar-searchmode-bookmarks2 = Könyvjelzők
-urlbar-searchmode-tabs2 = Lapok
-urlbar-searchmode-history2 = Előzmények
-urlbar-searchmode-actions2 = Műveletek
 urlbar-searchmode-exit-button2 =
     .title = Bezárás
 urlbar-searchmode-default2 =
@@ -1170,8 +1158,6 @@ urlbar-searchmode-popup-search-settings = Keresési beállítások
     .accesskey = s
 urlbar-searchmode-popup-settings = Beállítások
     .accesskey = B
-urlbar-searchmode-popup-search-settings-panelitem = Keresési beállítások
-urlbar-searchmode-popup-settings-panelitem = Beállítások
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1344,9 +1330,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Könyvjelzők
     .toolbarname = Könyvjelző eszköztár
     .accesskey = K
-    .aria-label = Könyvjelzők
 bookmarks-toolbar-menu =
     .label = Könyvjelző eszköztár
 bookmarks-toolbar-placeholder =
@@ -1523,9 +1509,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = b
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1756,13 +1739,6 @@ file-picker-crashed-open = A Windows fájlválasztó párbeszédablaka összeoml
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = A Windows fájlválasztó párbeszédablaka összeomlott. A fájl ide lesz mentve: { $path }.
 file-picker-crashed-save-nowhere = A Windows fájlválasztó párbeszédablaka összeomlott. Nem található alapértelmezett mappa; a fájl nem lesz mentve.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Megjelenítés mappában
     .accessKey = m
@@ -1815,9 +1791,6 @@ trustpanel-blocker-see-all = Összes megjelenítése
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = A(z) { $host } követés elleni védelmei
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

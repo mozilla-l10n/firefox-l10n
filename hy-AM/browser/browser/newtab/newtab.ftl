@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Հարմարեցնել
 newtab-customize-panel-label =
     .label = Հարմարեցնել
 newtab-personalize-settings-icon-label =
-    .title = Անհատականացնել նոր ներդիրը
     .aria-label = Կարգավորումներ
+    .title = Անհատականացնել նոր ներդիրը
 newtab-settings-dialog-label =
     .aria-label = Կարգավորումներ
 newtab-personalize-icon-label =
-    .title = Անհատականացնել նոր ներդիրը
     .aria-label = Անհատականացնել նոր ներդիրը
+    .title = Անհատականացնել նոր ներդիրը
 newtab-personalize-dialog-label =
     .aria-label = Անհատականացնել
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Բաց թողնել
     .aria-label = Բաց թողնել
+    .title = Բաց թողնել
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Որոնում
 home-prefs-stories-header2 =
-    .label = Պատմություններ
     .description = { -brand-product-name } ընտանիքի կողմից ընտրված բացառիկ բովանդակություն
+    .label = Պատմություններ
 home-prefs-widgets-header =
     .label = Վիջեթներ
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -273,19 +273,6 @@ newtab-privacy-message-milestone-month-cta = Դիտել պաշտպանությո
 newtab-privacy-message-milestone-total-cta = Դիտել պաշտպանությունները
 newtab-privacy-message-daily-cap-cta = Դիտել պաշտպանությունները
 
-## Strings for the Stocks widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
 ## Stocks widget ticker search
 
 # "Search results" is the accessible label for the list of tickers matching the
@@ -296,8 +283,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Նախորդը
     .aria-label = Նախորդը
+    .title = Նախորդը
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -328,19 +315,12 @@ newtab-picture-attribution-source-link = Վիքիմեդիա համայնք
 newtab-picture-attribution-license =
     .aria-label = Դիտել { $license } լիցենզիան
 
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = որոնում
     .aria-label = որոնում
+    .title = որոնում
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
@@ -348,17 +328,17 @@ newtab-search-box-handoff-text-no-engine = Որոնեք կամ մուտքագր�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
     .placeholder = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
     .title = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
-    .aria-label = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Որոնեք կամ մուտքագրեք հասցե
     .placeholder = Որոնեք կամ մուտքագրեք հասցե
     .title = Որոնեք կամ մուտքագրեք հասցե
-    .aria-label = Որոնեք կամ մուտքագրեք հասցե
 newtab-search-box-text = Որոնել համացանցում
 newtab-search-box-input =
-    .placeholder = Որոնել համացանցում
     .aria-label = Որոնել համացանցում
+    .placeholder = Որոնել համացանցում
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -368,8 +348,8 @@ newtab-topsites-edit-topsites-header = Խմբագրել Լավագույն կա�
 newtab-topsites-edit-shortcut-header = Խմբագրել դյուրանցումը
 newtab-topsites-add-shortcut-label = Ավելացնել դյուրանցում
 newtab-topsites-add-shortcut-title =
-    .title = Ավելացնել դյուրանցում
     .aria-label = Ավելացնել դյուրանցում
+    .title = Ավելացնել դյուրանցում
 newtab-topsites-title-label = Անվանում
 newtab-topsites-title-input =
     .placeholder = Մուտքագրեք անվանում
@@ -381,9 +361,6 @@ newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
 newtab-topsites-use-custom-image-link = Օգտագործել հարմարեցված պատկեր
 newtab-topsites-use-image-link = Օգտագործել հարմարեցված պատկեր...
 newtab-topsites-image-validation = Նկարը չհաջողվեց բեռնել: Փորձեք այլ URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Մաքրել տեքստը
 
@@ -418,35 +395,35 @@ topsite-label-pinned =
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Հենց հիմա
 newtab-topsites-hover-card-mark-all-read =
-    .title = Նշել բոլորը որպես ընթերցված
     .aria-label = Նշել բոլորը որպես ընթերցված
+    .title = Նշել բոլորը որպես ընթերցված
 newtab-topsites-hover-card-settings =
-    .title = Ծանուցման կարգավորումներ
     .aria-label = Ծանուցման կարգավորումներ
+    .title = Ծանուցման կարգավորումներ
 newtab-topsites-hover-card-dismiss =
-    .title = Բաց թողնել
     .aria-label = Բաց թողնել
+    .title = Բաց թողնել
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Բացել ցանկը
     .aria-label = Բացել ցանկը
+    .title = Բացել ցանկը
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Հեռացնել
     .aria-label = Հեռացնել
+    .title = Հեռացնել
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Բացել ցանկը
     .aria-label = Բացել համատեքստի ցանկը { $title }-ի համար
+    .title = Բացել ցանկը
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Խմբագրել այս կայքը
     .aria-label = Խմբագրել այս կայքը
+    .title = Խմբագրել այս կայքը
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -625,8 +602,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Շնորհակալություն։ Ձեր կարծիքը կօգնի մեզ բարելավել ձեր հոսքը:
 newtab-toast-dismiss-button =
-    .title = Բաց թողնել
     .aria-label = Բաց թողնել
+    .title = Բաց թողնել
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -644,8 +621,8 @@ newtab-custom-shortcuts-title = Դյուրանցումներ
 newtab-custom-shortcuts-subtitle = Կայքեր, որոնք պահել կամ այցելել եք
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Դյուրանցումներ
     .description = Կայքեր, որոնք պահել կամ այցելել եք
+    .label = Դյուրանցումներ
 newtab-custom-shortcuts-nova =
     .label = Դյուրանցումներ
 newtab-custom-row-description =
@@ -680,8 +657,8 @@ newtab-custom-pocket-show-recent-saves = Ցուցադրել վերջին պահ�
 newtab-custom-recent-title = Վերջին ակտիվություն
 newtab-custom-recent-subtitle = Վերջին կայքերի և բովանդակության ընտրում
 newtab-custom-weather-toggle =
-    .label = Եղանակ
     .description = Այսօրվա կանխատեսումը մի հայացքով
+    .label = Եղանակ
 newtab-custom-widget-weather-toggle =
     .label = Եղանակ
 newtab-custom-widget-lists-toggle =
@@ -706,13 +683,10 @@ newtab-widget-manage-widget-button =
     .label = Կառավարել վիջեթները
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Փակել
     .aria-label = Փակել ցանկը
+    .title = Փակել
 newtab-custom-close-button = Փակել
 newtab-custom-settings = Կառավարել լրացուցիչ կարգավորումները
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Տեսք
 # Button that opens the full browser theme selection view.
@@ -816,14 +790,11 @@ newtab-wallpaper-feature-highlight-content = Ձեր նոր ներդիրին թա
 newtab-wallpaper-feature-highlight-button = Հասկացա
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Բաց թողնել
     .aria-label = Փակել թռուցիկը
+    .title = Բաց թողնել
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -891,8 +862,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Տեսեք կանխատեսումը { $provider }-ում
     .aria-description = { $provider } ∙ Հովանավորվում է
+    .title = Տեսեք կանխատեսումը { $provider }-ում
 
 ## Topic Labels
 
@@ -1065,8 +1036,8 @@ newtab-widget-lists-menu-copy = Պատճենել ցանկը սեղմատախտա
 newtab-widget-lists-menu-learn-more = Իմանալ ավելին
 newtab-widget-lists-button-add-item = Ավելացնել միույթ
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Ավելացնել միույթ
     .aria-label = Ավելացնել միույթ
+    .placeholder = Ավելացնել միույթ
 newtab-widget-lists-input-error = Խնդրում ենք ներառել տեքստ՝ տարր ավելացնելու համար։
 newtab-widget-lists-input-menu-open-link = Բացել հղումը
 newtab-widget-lists-input-menu-move-up = Շարժել վերև
@@ -1085,12 +1056,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Առաջադրանքների ցանկ
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Ստուգաթերթիկ
     .aria-label = Խմբագրել ցանկի անունը
+    .placeholder = Ստուգաթերթիկ
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Նոր ցանկ
     .aria-label = Խմբագրել ցանկի անունը
+    .placeholder = Նոր ցանկ
 newtab-widget-section-title = Վիջեթներ
 newtab-widget-menu-hide = Թաքցնել վիջեթը
 newtab-widget-menu-change-size = Փոխել չափը
@@ -1108,17 +1079,17 @@ newtab-widget-size-medium = Միջին
 newtab-widget-size-large = Մեծ
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Թաքցնել վիջեթները
     .aria-label = Թաքցնել բոլոր վիջեթները
+    .title = Թաքցնել վիջեթները
 newtab-widget-section-maximize =
-    .title = Ընդարձակել վիջեթները
     .aria-label = Ընդարձակել բոլոր վիջեթները լրիվ չափով
+    .title = Ընդարձակել վիջեթները
 newtab-widget-section-minimize =
-    .title = Փոքրացնել վիջեթները
     .aria-label = Կոծկել բոլոր վիջեթները սեղմ չափի
+    .title = Փոքրացնել վիջեթները
 newtab-widget-section-menu-button =
-    .title = Վիջեթների ցանկ
     .aria-label = Բացել վիջեթների ցանկը
+    .title = Վիջեթների ցանկ
 newtab-widget-add-widgets-button =
     .aria-label = Ավելացնել վիջեթ
     .title = Ավելացնել վիջեթ
@@ -1160,11 +1131,8 @@ newtab-promo-card-title = Աջակցել { -brand-product-name }-ին
 newtab-promo-card-body = Մեր հովանավորները աջակցում են ավելի լավ համացանց կերտելու մեր առաքելությանը
 newtab-promo-card-cta = Իմանալ ավելին
 newtab-promo-card-dismiss-button =
-    .title = Բաց թողնել
     .aria-label = Բաց թողնել
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Բաց թողնել
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Կենտրոնացում
 # Small label shown beneath the live time while the break timer is running or paused.
@@ -1205,8 +1173,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Ընտրեք պաստառ
 newtab-sports-widget-skip = Բաց թողնել
 newtab-sports-widget-search-country =
-    .placeholder = Որոնել երկիր
     .aria-label = Որոնել երկիր
+    .placeholder = Որոնել երկիր
 newtab-sports-widget-cancel = Չեղարկել
 newtab-sports-widget-back-button =
     .aria-label = Նախորդը
@@ -1264,8 +1232,8 @@ newtab-sports-widget-quarter-finals = Քառորդ եզրափակիչներ
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ՈՒՂԻՂ
 newtab-custom-widget-live-refresh =
-    .title = Թարմացնել միավորները
     .aria-label = Թարմացնել միավորները
+    .title = Թարմացնել միավորները
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Հիմնական ամսաթվերը
 newtab-sports-widget-upcoming = Առաջիկա
@@ -1279,10 +1247,10 @@ newtab-sports-widget-final = Եզրափակիչ
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Հետաձգված
 newtab-sports-widget-postponed = Հետաձգված է
 newtab-sports-widget-suspended = Կասեցված է
@@ -1368,17 +1336,14 @@ newtab-sports-widget-message-add-widgets-cta =
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Ուսումնասիրեք վիջեթները
 
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Բաց թողնել
     .aria-label = Բաց թողնել
+    .title = Բաց թողնել
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Սկսեք անհատականացնել
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
@@ -1399,15 +1364,15 @@ newtab-clock-widget-label-your-clocks = Ձեր ժամացույցները
 newtab-clock-widget-button-add-clock = Ավելացնել
 newtab-clock-widget-button-cancel = Չեղարկել
 newtab-clock-widget-button-back =
-    .title = Վերադառնալ
     .aria-label = Վերադառնալ
+    .title = Վերադառնալ
 newtab-clock-widget-button-edit-clock =
-    .title = Խմբագրել ժամացույցը
     .aria-label = Խմբագրել ժամացույցը
+    .title = Խմբագրել ժամացույցը
 newtab-clock-widget-button-save = Պահել
 newtab-clock-widget-button-remove-clock =
-    .title = Հեռացնել ժամացույցը
     .aria-label = Հեռացնել ժամացույցը
+    .title = Հեռացնել ժամացույցը
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1432,8 +1397,8 @@ newtab-clock-widget-search-no-results = Ոչ մի համընկնում
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Բացել ժամացույցի ընտրացանկը
     .aria-label = Բացել ժամացույցի ընտրացանկը
+    .title = Բացել ժամացույցի ընտրացանկը
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Մականուն՝ { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

@@ -39,8 +39,8 @@ home-prefs-highlights-option-most-recent-download-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = नागिर
     .aria-label = नागिर
+    .title = नागिर
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -69,12 +69,12 @@ newtab-confirm-delete-history-p2 = बे हाबाखौ मावनो ह
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = मेनु खेव
     .aria-label = मेनु खेव
+    .title = मेनु खेव
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = बे साइटखौ सुजु
     .aria-label = बे साइटखौ सुजु
+    .title = बे साइटखौ सुजु
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 

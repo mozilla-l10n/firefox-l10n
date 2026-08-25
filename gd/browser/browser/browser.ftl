@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Brabhsadh prìobhaideach { -brand-full-name }
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – Brabhsadh prìobhaideach { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Brabhsadh prìobhaideach { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – Brabhsadh prìobhaideach
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – Brabhsadh prìobhaideach
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – Brabhsadh prìobhaideach
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,14 +67,14 @@ private-browsing-shortcut-text-2 = Brabhsadh prìobhaideach { -brand-shortcut-na
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Brabhsadh prìobhaideach { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } ‑ { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } ‑ Brabhsadh prìobhaideach { -brand-full-name }
     .data-content-title-default = { $content-title } – { -brand-full-name }
-    .data-content-title-private = Brabhsadh prìobhaideach { $content-title } – { -brand-full-name }
     .data-content-title-default-with-profile = { $content-title } – { $profile-name } – { -brand-full-name }
+    .data-content-title-private = Brabhsadh prìobhaideach { $content-title } – { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title } – { $profile-name } – Brabhsadh prìobhaideach { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } ‑ { -brand-full-name }
+    .data-title-private = Brabhsadh prìobhaideach { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } ‑ Brabhsadh prìobhaideach { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -99,14 +99,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Brabhsadh prìobhaideach – { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } – Brabhsadh prìobhaideach – { -brand-full-name }
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } – Brabhsadh prìobhaideach
     .data-content-title-default-with-profile = { $content-title } – { $profile-name }
+    .data-content-title-private = { $content-title } – Brabhsadh prìobhaideach
     .data-content-title-private-with-profile = { $content-title } – { $profile-name } – Brabhsadh prìobhaideach
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
+    .data-title-private = Brabhsadh prìobhaideach – { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } – Brabhsadh prìobhaideach – { -brand-full-name }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -126,9 +126,6 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Stiùirich roghainnean phriob-uinneagan is ath-stiùireadh le treas-phàrtaidhean…
     .accesskey = S
-
-##
-
 urlbar-identity-button =
     .aria-label = Seall fiosrachadh na làraich-lìn
 
@@ -311,8 +308,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Cruthaich comharra-lìn dhan duilleag seo ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = Sealladh sgoilte
     .aria-label = Sealladh sgoilte
+    .tooltiptext = Sealladh sgoilte
 
 ## Searchbar context menu
 
@@ -365,9 +362,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Cuir einnsean-luirg “{ $engineName }” ris
     .label = Cuir “{ $engineName }” ris
     .tooltiptext = Cuir einnsean-luirg “{ $engineName }” ris
-    .aria-label = Cuir einnsean-luirg “{ $engineName }” ris
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -695,32 +692,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Lorg air an lìon
     .aria-label = Lorg le { $name }
+    .placeholder = Lorg air an lìon
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Cuir a-steach abairt-luirg
     .aria-label = Lorg air { $name }
+    .placeholder = Cuir a-steach abairt-luirg
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Cuir a-steach abairt-luirg
     .aria-label = Lorg sna comharran-lìn
+    .placeholder = Cuir a-steach abairt-luirg
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Cuir a-steach abairt-luirg
     .aria-label = Lorg san eachdraidh
+    .placeholder = Cuir a-steach abairt-luirg
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Cuir a-steach abairt-luirg
     .aria-label = Lorg sna tabaichean
+    .placeholder = Cuir a-steach abairt-luirg
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Cuir a-steach briathran-luirg
     .aria-label = Gnìomhan luirg
+    .placeholder = Cuir a-steach briathran-luirg
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -823,7 +820,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -1003,10 +1000,6 @@ urlbar-searchmode-no-keyword2 =
     .title = Tha lorg le briathran-luirg à comas
 urlbar-searchmode-dropmarker2 =
     .title = Tagh einnsean-luirg
-urlbar-searchmode-bookmarks2 = Comharran-lìn
-urlbar-searchmode-tabs2 = Tabaichean
-urlbar-searchmode-history2 = An eachdraidh
-urlbar-searchmode-actions2 = Gnìomhan
 urlbar-searchmode-exit-button2 =
     .title = Dùin
 urlbar-searchmode-default2 =
@@ -1022,7 +1015,6 @@ urlbar-searchmode-popup-one-off-header = Dèan lorg leis na leanas an turas seo:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Lorg le:
-urlbar-searchmode-popup-search-settings-panelitem = Roghainnean luirg
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1177,9 +1169,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Comharran-lìn
     .toolbarname = Bàr nan comharran-lìn
     .accesskey = B
-    .aria-label = Comharran-lìn
 bookmarks-toolbar-menu =
     .label = Bàr nan comharran-lìn
 bookmarks-toolbar-placeholder =
@@ -1336,9 +1328,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1565,13 +1554,6 @@ file-picker-crashed-open = Thuislich  còmhradh faidhle Windows. Cha b’ urrain
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Thuislich còmhradh faidhle Windows. Thèid am faidhle a shàbhaladh an-seo: { $path }.
 file-picker-crashed-save-nowhere = Thuislich còmhradh faidhle Windows. Cha d’fhuair sinn lorg air pasgan bunaiteach; cha tèid am faidhle a shàbhaladh.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Seall sa phasgan
     .accessKey = S
@@ -1624,9 +1606,6 @@ trustpanel-blocker-see-all = Seall na h-uile
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Dìon o thracadh airson { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

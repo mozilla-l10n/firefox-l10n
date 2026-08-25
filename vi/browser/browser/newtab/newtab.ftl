@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Tùy chỉnh
 newtab-customize-panel-label =
     .label = Tùy chỉnh
 newtab-personalize-settings-icon-label =
-    .title = Cá nhân hóa thẻ mới
     .aria-label = Cài đặt
+    .title = Cá nhân hóa thẻ mới
 newtab-settings-dialog-label =
     .aria-label = Cài đặt
 newtab-personalize-icon-label =
-    .title = Cá nhân hóa thẻ mới
     .aria-label = Cá nhân hóa thẻ mới
+    .title = Cá nhân hóa thẻ mới
 newtab-personalize-dialog-label =
     .aria-label = Cá nhân hóa
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Bỏ qua
     .aria-label = Bỏ qua
+    .title = Bỏ qua
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Tìm kiếm
 home-prefs-stories-header2 =
-    .label = Câu chuyện
     .description = Nội dung đặc biệt được quản lý bởi gia đình { -brand-product-name }
+    .label = Câu chuyện
 home-prefs-widgets-header =
     .label = Widget
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -298,8 +298,8 @@ newtab-stocks-error-not-available = Dữ liệu cổ phiếu hiện không khả
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Tuỳ chọn widget Cổ phiếu
     .aria-label = Tuỳ chọn widget Cổ phiếu
+    .title = Tuỳ chọn widget Cổ phiếu
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Cổ phiếu
@@ -334,15 +334,15 @@ newtab-stocks-ticker-status-flat = { $name }, không thay đổi, { $change }, {
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = Thêm { $name } vào danh sách theo dõi
     .aria-label = Thêm { $name } vào danh sách theo dõi
+    .title = Thêm { $name } vào danh sách theo dõi
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = Xoá { $name } khỏi danh sách theo dõi
     .aria-label = Xoá { $name } khỏi danh sách theo dõi
+    .title = Xoá { $name } khỏi danh sách theo dõi
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -371,8 +371,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = Quay lại
     .aria-label = Quay lại
+    .title = Quay lại
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -409,14 +409,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Tuỳ chọn Hình ảnh của ngày
     .aria-label = Tuỳ chọn Hình ảnh của ngày
+    .title = Tuỳ chọn Hình ảnh của ngày
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Đặt ảnh của ngày làm hình nền thẻ mới của bạn
     .label = Đặt hình nền
     .title = Đặt hình nền
-    .aria-label = Đặt ảnh của ngày làm hình nền thẻ mới của bạn
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Quản lý hình nền
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -428,8 +428,8 @@ newtab-picture-menu-show-photo = Hiện hình ảnh của ngày
 newtab-picture-menu-learn-more = Tìm hiểu thêm
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Hiện hình ảnh của ngày
     .aria-label = Hiện hình ảnh của ngày
+    .title = Hiện hình ảnh của ngày
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Hãy quay lại vào ngày mai để xem hình ảnh mới
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -446,16 +446,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Tìm hiểu thêm
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Tìm kiếm
     .aria-label = Tìm kiếm
+    .title = Tìm kiếm
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Tìm kiếm với { $engine } hoặc nhập địa chỉ
@@ -463,17 +459,17 @@ newtab-search-box-handoff-text-no-engine = Tìm kiếm hoặc nhập địa ch�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Tìm kiếm với { $engine } hoặc nhập địa chỉ
     .placeholder = Tìm kiếm với { $engine } hoặc nhập địa chỉ
     .title = Tìm kiếm với { $engine } hoặc nhập địa chỉ
-    .aria-label = Tìm kiếm với { $engine } hoặc nhập địa chỉ
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Tìm kiếm hoặc nhập địa chỉ
     .placeholder = Tìm kiếm hoặc nhập địa chỉ
     .title = Tìm kiếm hoặc nhập địa chỉ
-    .aria-label = Tìm kiếm hoặc nhập địa chỉ
 newtab-search-box-text = Tìm kiếm trên mạng
 newtab-search-box-input =
-    .placeholder = Tìm kiếm trên mạng
     .aria-label = Tìm kiếm trên mạng
+    .placeholder = Tìm kiếm trên mạng
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -483,8 +479,8 @@ newtab-topsites-edit-topsites-header = Sửa trang web hàng đầu
 newtab-topsites-edit-shortcut-header = Chỉnh sửa lối tắt
 newtab-topsites-add-shortcut-label = Thêm lối tắt
 newtab-topsites-add-shortcut-title =
-    .title = Thêm lối tắt
     .aria-label = Thêm lối tắt
+    .title = Thêm lối tắt
 newtab-shortcuts-pinned-area = Khu vực được ghim
 newtab-topsites-title-label = Tiêu đề
 newtab-topsites-title-input =
@@ -497,9 +493,6 @@ newtab-topsites-image-url-label = URL hình ảnh tuỳ chỉnh
 newtab-topsites-use-custom-image-link = Sử dụng hình ảnh tùy chỉnh
 newtab-topsites-use-image-link = Sử dụng hình ảnh tùy chỉnh…
 newtab-topsites-image-validation = Không tải được hình ảnh. Hãy thử một URL khác.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Xoá văn bản
 
@@ -537,35 +530,35 @@ newtab-topsites-hover-card-header = Thông báo từ { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Vừa xong
 newtab-topsites-hover-card-mark-all-read =
-    .title = Đánh dấu tất cả là đã đọc
     .aria-label = Đánh dấu tất cả là đã đọc
+    .title = Đánh dấu tất cả là đã đọc
 newtab-topsites-hover-card-settings =
-    .title = Cài đặt thông báo
     .aria-label = Cài đặt thông báo
+    .title = Cài đặt thông báo
 newtab-topsites-hover-card-dismiss =
-    .title = Bỏ qua
     .aria-label = Bỏ qua
+    .title = Bỏ qua
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Mở bảng chọn
     .aria-label = Mở bảng chọn
+    .title = Mở bảng chọn
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Gỡ bỏ
     .aria-label = Gỡ bỏ
+    .title = Gỡ bỏ
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Mở bảng chọn
     .aria-label = Mở bảng chọn ngữ cảnh cho { $title }
+    .title = Mở bảng chọn
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Chỉnh sửa trang web này
     .aria-label = Chỉnh sửa trang web này
+    .title = Chỉnh sửa trang web này
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -750,8 +743,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Cảm ơn. Những phản hồi của bạn sẽ giúp chúng tôi cải thiện bản tin của bạn.
 newtab-toast-dismiss-button =
-    .title = Bỏ qua
     .aria-label = Bỏ qua
+    .title = Bỏ qua
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -770,13 +763,13 @@ newtab-custom-shortcuts-title = Lối tắt
 newtab-custom-shortcuts-subtitle = Các trang web bạn lưu hoặc truy cập
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Lối tắt
     .description = Các trang web bạn lưu hoặc truy cập
+    .label = Lối tắt
 newtab-custom-shortcuts-nova =
     .label = Lối tắt
 newtab-custom-web-notifications-toggle =
-    .label = Thông báo trên web
     .description = Hiển thị thông báo từ các trang web của bạn trên các phím tắt của chúng.
+    .label = Thông báo trên web
 newtab-custom-row-description =
     .description = Số lượng hàng
 # Variables
@@ -798,8 +791,8 @@ newtab-custom-pocket-title = Được đề xuất bởi { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Nội dung đặc biệt do { -pocket-brand-name }, một phần của { -brand-product-name }, quản lý
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Câu chuyện được đề xuất
     .description = Nội dung đặc biệt được quản lý bởi gia đình { -brand-product-name }
+    .label = Câu chuyện được đề xuất
 newtab-recommended-stories-toggle =
     .label = Câu chuyện được đề xuất
 newtab-custom-stories-personalized-toggle =
@@ -812,8 +805,8 @@ newtab-custom-pocket-show-recent-saves = Hiển thị các lần lưu gần đâ
 newtab-custom-recent-title = Hoạt động gần đây
 newtab-custom-recent-subtitle = Tuyển chọn các trang và nội dung gần đây
 newtab-custom-weather-toggle =
-    .label = Thời tiết
     .description = Sơ lược về dự báo hôm nay
+    .label = Thời tiết
 newtab-custom-widget-weather-toggle =
     .label = Thời tiết
 newtab-custom-widget-lists-toggle =
@@ -840,13 +833,10 @@ newtab-widget-manage-widget-button =
     .label = Quản lý widget
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Đóng
     .aria-label = Đóng menu
+    .title = Đóng
 newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Diện mạo
 # Button that opens the full browser theme selection view.
@@ -959,14 +949,11 @@ newtab-wallpaper-feature-highlight-content = Mang lại diện mạo mới cho t
 newtab-wallpaper-feature-highlight-button = Đã hiểu
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Bỏ qua
     .aria-label = Đóng cửa sổ bật lên
+    .title = Bỏ qua
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -993,8 +980,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Được tài trợ
 newtab-weather-menu-change-location = Thay đổi khu vực
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Tìm kiếm khu vực
     .aria-label = Tìm kiếm khu vực
+    .placeholder = Tìm kiếm khu vực
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Sử dụng khu vực hiện tại
@@ -1038,8 +1025,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Xem dự báo với { $provider }
     .aria-description = { $provider } ∙ Được tài trợ
+    .title = Xem dự báo với { $provider }
 
 ## Topic Labels
 
@@ -1240,8 +1227,8 @@ newtab-widget-lists-menu-copy = Sao chép danh sách vào bộ nhớ tạm
 newtab-widget-lists-menu-learn-more = Tìm hiểu thêm
 newtab-widget-lists-button-add-item = Thêm một mục
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Thêm một mục
     .aria-label = Thêm một mục
+    .placeholder = Thêm một mục
 newtab-widget-lists-input-error = Vui lòng thêm văn bản để thêm mục.
 newtab-widget-lists-input-menu-open-link = Mở liên kết
 newtab-widget-lists-input-menu-move-up = Di chuyển lên
@@ -1266,12 +1253,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Danh sách nhiệm vụ
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Danh sách việc cần làm
     .aria-label = Chỉnh sửa tên danh sách
+    .placeholder = Danh sách việc cần làm
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Danh sách mới
     .aria-label = Chỉnh sửa tên danh sách
+    .placeholder = Danh sách mới
 newtab-widget-section-title = Widget
 newtab-widget-menu-hide = Ẩn widget
 newtab-widget-menu-change-size = Thay đổi kích thước
@@ -1289,17 +1276,17 @@ newtab-widget-size-medium = Trung bình
 newtab-widget-size-large = Lớn
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Ẩn widget
     .aria-label = Ẩn tất cả widget
+    .title = Ẩn widget
 newtab-widget-section-maximize =
-    .title = Mở rộng widget
     .aria-label = Mở rộng tất cả widget thành kích thước đầy đủ
+    .title = Mở rộng widget
 newtab-widget-section-minimize =
-    .title = Thu nhỏ widget
     .aria-label = Thu nhỏ tất cả widget thành kích thước nhỏ gọn
+    .title = Thu nhỏ widget
 newtab-widget-section-menu-button =
-    .title = Menu widget
     .aria-label = Mở menu widget
+    .title = Menu widget
 newtab-widget-add-widgets-button =
     .aria-label = Thêm widget
     .title = Thêm widget
@@ -1360,11 +1347,8 @@ newtab-promo-card-title = Hỗ trợ cho { -brand-product-name }
 newtab-promo-card-body = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn
 newtab-promo-card-cta = Tìm hiểu thêm
 newtab-promo-card-dismiss-button =
-    .title = Bỏ qua
     .aria-label = Bỏ qua
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Bỏ qua
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1423,8 +1407,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Chọn một hình nền
 newtab-sports-widget-skip = Bỏ qua
 newtab-sports-widget-search-country =
-    .placeholder = Tìm kiếm quốc gia
     .aria-label = Tìm kiếm quốc gia
+    .placeholder = Tìm kiếm quốc gia
 newtab-sports-widget-cancel = Hủy
 newtab-sports-widget-back-button =
     .aria-label = Quay lại
@@ -1491,8 +1475,8 @@ newtab-sports-widget-quarter-finals = Tứ kết
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = TRỰC TIẾP
 newtab-custom-widget-live-refresh =
-    .title = Làm mới điểm số
     .aria-label = Làm mới điểm số
+    .title = Làm mới điểm số
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Ngày quan trọng
 newtab-sports-widget-upcoming = Sắp tới
@@ -1506,10 +1490,10 @@ newtab-sports-widget-final = Chung kết
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Bị lùi giờ
 newtab-sports-widget-postponed = Đã hoãn lại
 newtab-sports-widget-suspended = Đã tạm dừng
@@ -1647,8 +1631,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Bỏ qua
     .aria-label = Bỏ qua
+    .title = Bỏ qua
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1673,34 +1657,34 @@ newtab-clock-widget-menu-switch-to-12h = Chuyển sang định dạng 12 giờ
 newtab-clock-widget-menu-switch-to-24h = Chuyển sang định dạng 24 giờ
 newtab-clock-widget-label-your-clocks = Đồng hồ của bạn
 newtab-clock-widget-search-location-input =
+    .aria-label = Tìm kiếm một thành phố
     .label = Vị trí
     .placeholder = Tìm kiếm một thành phố
-    .aria-label = Tìm kiếm một thành phố
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Tên gọi (tuỳ chọn)
     .label = Tên gọi (tuỳ chọn)
     .placeholder = Thêm một tên gọi
-    .aria-label = Tên gọi (tuỳ chọn)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Thêm đồng hồ mới
     .aria-label = Thêm đồng hồ mới
+    .title = Thêm đồng hồ mới
 newtab-clock-widget-button-add-clock = Thêm
 newtab-clock-widget-button-cancel = Hủy bỏ
 newtab-clock-widget-button-back =
-    .title = Quay lại
     .aria-label = Quay lại
+    .title = Quay lại
 newtab-clock-widget-button-edit-clock =
-    .title = Chỉnh sửa đồng hồ
     .aria-label = Chỉnh sửa đồng hồ
+    .title = Chỉnh sửa đồng hồ
 newtab-clock-widget-button-save = Lưu
 newtab-clock-widget-button-remove-clock =
-    .title = Xoá đồng hồ
     .aria-label = Xoá đồng hồ
+    .title = Xoá đồng hồ
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1728,14 +1712,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Thêm “{ $city }” làm đồng hồ phụ
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Tên thành phố
     .aria-label = Tên thành phố
+    .label = Tên thành phố
     .placeholder = Đặt tên cho đồng hồ này
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Múi giờ
     .aria-label = Múi giờ
+    .label = Múi giờ
     .placeholder = Tìm kiếm theo thành phố, múi giờ hoặc độ lệch UTC
 newtab-clock-widget-custom-zone-results =
     .aria-label = Kết quả theo múi giờ
@@ -1751,8 +1735,8 @@ newtab-clock-widget-search-no-results = Không có kết quả phù hợp
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Mở menu đồng hồ
     .aria-label = Mở menu đồng hồ
+    .title = Mở menu đồng hồ
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Tên gọi: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

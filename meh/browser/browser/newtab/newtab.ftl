@@ -54,8 +54,8 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Nánuku
     .aria-label = Nánuku
+    .title = Nánuku
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Nánuku ji { $engine } a xíín chu'un iin nuu
@@ -63,16 +63,16 @@ newtab-search-box-handoff-text-no-engine = Nánuku a xíín chu´un iin nuu
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Nánuku ji { $engine } a xíín chu'un iin nuu
     .placeholder = Nánuku ji { $engine } a xíín chu'un iin nuu
     .title = Nánuku ji { $engine } a xíín chu'un iin nuu
-    .aria-label = Nánuku ji { $engine } a xíín chu'un iin nuu
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Nánuku a xíín chu´un iin nuu
     .placeholder = Nánuku a xíín chu´un iin nuu
     .title = Nánuku a xíín chu´un iin nuu
-    .aria-label = Nánuku a xíín chu´un iin nuu
 newtab-search-box-input =
-    .placeholder = Nánuku nuu Web
     .aria-label = Nánuku nuu Web
+    .placeholder = Nánuku nuu Web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -114,22 +114,22 @@ newtab-topsite-sponsored = Patrocinado
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Síne menu
     .aria-label = Síne menu
+    .title = Síne menu
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Xita
     .aria-label = Xita
+    .title = Xita
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Síne menu
     .aria-label = Síne menu nuu { $title }
+    .title = Síne menu
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Natee sitio
     .aria-label = Natee sitio
+    .title = Natee sitio
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -263,8 +263,8 @@ newtab-custom-shortcuts-title = Da acceso ñama
 newtab-custom-shortcuts-subtitle = Da nuu chuva´anu a xíín ne´yanu
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Da acceso ñama
     .description = Da nuu chuva´anu a xíín ne´yanu
+    .label = Da acceso ñama
 newtab-custom-shortcuts-nova =
     .label = Da acceso ñama
 # Variables

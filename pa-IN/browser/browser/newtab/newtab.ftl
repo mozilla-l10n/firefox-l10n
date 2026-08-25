@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = ਕਸਟਮਾਈਜ਼
 newtab-customize-panel-label =
     .label = ਕਸਟਮਾਈਜ਼
 newtab-personalize-settings-icon-label =
-    .title = ਨਵੀਂ ਟੈਬ ਨੂੰ ਨਿੱਜੀ ਬਣਾਓ
     .aria-label = ਸੈਟਿੰਗਾਂ
+    .title = ਨਵੀਂ ਟੈਬ ਨੂੰ ਨਿੱਜੀ ਬਣਾਓ
 newtab-settings-dialog-label =
     .aria-label = ਸੈਟਿੰਗਾਂ
 newtab-personalize-icon-label =
-    .title = ਨਵੀਂ ਟੈਬ ਨਿੱਜੀ ਬਣਾਓ
     .aria-label = ਨਵੀਂ ਟੈਬ ਨਿੱਜੀ ਬਣਾਓ
+    .title = ਨਵੀਂ ਟੈਬ ਨਿੱਜੀ ਬਣਾਓ
 newtab-personalize-dialog-label =
     .aria-label = ਆਪਣਾ ਬਣਾਓ
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = ਖ਼ਾਰਜ ਕਰੋ
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
+    .title = ਖ਼ਾਰਜ ਕਰੋ
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = ਖੋਜ
 home-prefs-stories-header2 =
-    .label = ਲੇਖ
     .description = { -brand-product-name } ਸਮੂਹ ਵਲੋਂ ਤਿਆਰ ਕੀਤੀ ਖਾਸ ਸਮੱਗਰੀ
+    .label = ਲੇਖ
 home-prefs-widgets-header =
     .label = ਵਿਜੈੱਟ
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -330,8 +330,8 @@ newtab-stocks-error-not-available = ਸਟਾਕ ਡਾਟਾ ਮੌਜੂਦ �
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = ਸਟਾਕ ਵਿਜੈਟ ਚੋਣਾਂ
     .aria-label = ਸਟਾਕ ਵਿਜੈੱਟ ਚੋਣਾਂ
+    .title = ਸਟਾਕ ਵਿਜੈਟ ਚੋਣਾਂ
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = ਸਟਾਕ
@@ -366,15 +366,15 @@ newtab-stocks-ticker-status-flat = { $name }, { $change } ਤਬਦੀਲੀ ਨ
 # Variables:
 #   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
 newtab-stocks-add-to-watchlist =
-    .title = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚ ਜੋੜੋ
     .aria-label = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚ ਜੋੜੋ
+    .title = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚ ਜੋੜੋ
 # Tooltip and screen-reader label for the button that removes a stock from the watchlist.
 # The button shows only an icon and never renders visible text.
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .title = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਓ
     .aria-label = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਓ
+    .title = { $name } ਨੂੰ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਓ
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
@@ -403,8 +403,8 @@ newtab-stocks-search-results =
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
-    .title = ਪਿੱਛੇ
     .aria-label = ਪਿੱਛੇ
+    .title = ਪਿੱਛੇ
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -437,14 +437,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
     .aria-label = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
+    .title = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਆਪਣੇ ਵਾਲਪੇਪਰ ਵਜੋਂ ਲਾਓ
     .label = ਵਾਲਪੇਪਰ ਲਾਓ
     .title = ਵਾਲਪੇਪਰ ਲਾਓ
-    .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਆਪਣੇ ਵਾਲਪੇਪਰ ਵਜੋਂ ਲਾਓ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = ਵਾਲਪੇਪਰ ਦਾ ਇੰਤਜ਼ਾਮ
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -456,8 +456,8 @@ newtab-picture-menu-show-photo = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦ�
 newtab-picture-menu-learn-more = ਹੋਰ ਜਾਣੋ
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
     .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
+    .title = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = ਨਵੀਂ ਤਸਵੀਰ ਲਈ ਭਲਕੇ ਵੇਖਿਓ
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -474,16 +474,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = ਹੋਰ ਜਾਣੋ
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = ਖੋਜ
     .aria-label = ਖੋਜ
+    .title = ਖੋਜ
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } ਨਾਲ ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
@@ -491,17 +487,17 @@ newtab-search-box-handoff-text-no-engine = ਖੋਜੋ ਜਾਂ ਸਿਰਨ�
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = { $engine } ਨਾਲ ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
     .placeholder = { $engine } ਨਾਲ ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
     .title = { $engine } ਨਾਲ ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
-    .aria-label = { $engine } ਨਾਲ ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
     .placeholder = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
     .title = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
-    .aria-label = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 newtab-search-box-text = ਵੈੱਬ ‘ਤੇ ਖੋਜੋ
 newtab-search-box-input =
-    .placeholder = ਵੈੱਬ ‘ਤੇ ਖੋਜੋ
     .aria-label = ਵੈੱਬ ‘ਤੇ ਖੋਜੋ
+    .placeholder = ਵੈੱਬ ‘ਤੇ ਖੋਜੋ
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -511,8 +507,8 @@ newtab-topsites-edit-topsites-header = ਉਪਰਲੀ ਸਾਈਟ ਸੋਧੋ
 newtab-topsites-edit-shortcut-header = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਸੋਧੋ
 newtab-topsites-add-shortcut-label = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਜੋੜੋ
 newtab-topsites-add-shortcut-title =
-    .title = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਜੋੜੋ
     .aria-label = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਜੋੜੋ
+    .title = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਜੋੜੋ
 newtab-shortcuts-pinned-area = ਪਿੰਨ ਕੀਤਾ ਖੇਤਰ
 newtab-topsites-title-label = ਸਿਰਲੇਖ
 newtab-topsites-title-input =
@@ -525,9 +521,6 @@ newtab-topsites-image-url-label = URL ਕਸਟਮ ਚਿੱਤਰ
 newtab-topsites-use-custom-image-link = ਕਸਟਮ ਚਿੱਤਰ ਵਰਤੋ
 newtab-topsites-use-image-link = ਕਸਟਮ ਚਿੱਤਰ ਵਰਤੋ…
 newtab-topsites-image-validation = ਚਿੱਤਰ ਲੋਡ ਕਰਨ ਤੋਂ ਅਸਫ਼ਲ ਰਿਹਾ। ਕਿਸੇ ਵੱਖਰੇ URL ਨਾਲ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = ਲਿਖਤ ਨੂੰ ਮਿਟਾਓ
 
@@ -565,35 +558,35 @@ newtab-topsites-hover-card-header = { $site } ਵਲੋਂ ਨੋਟੀਫਿਕ
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = ਹੁਣੇ ਹੁਣੇ
 newtab-topsites-hover-card-mark-all-read =
-    .title = ਸਭ ਨੂੰ ਪੜ੍ਹੇ ਬਣਾਓ
     .aria-label = ਸਭ ਨੂੰ ਪੜ੍ਹੇ ਬਣਾਓ
+    .title = ਸਭ ਨੂੰ ਪੜ੍ਹੇ ਬਣਾਓ
 newtab-topsites-hover-card-settings =
-    .title = ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ
     .aria-label = ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ
+    .title = ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ
 newtab-topsites-hover-card-dismiss =
-    .title = ਖ਼ਾਰਜ ਕਰੋ
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
+    .title = ਖ਼ਾਰਜ ਕਰੋ
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
     .aria-label = ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = ਹਟਾਓ
     .aria-label = ਹਟਾਓ
+    .title = ਹਟਾਓ
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
     .aria-label = { $title } ਦੇ ਲਈ ਪ੍ਰਸੰਗ ਮੀਨੂੰ ਖ੍ਹੋਲੋ
+    .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = ਇਹ ਸਾਈਟ ਨੂੰ ਸੋਧੋ
     .aria-label = ਇਹ ਸਾਈਟ ਨੂੰ ਸੋਧੋ
+    .title = ਇਹ ਸਾਈਟ ਨੂੰ ਸੋਧੋ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -777,8 +770,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = ਧੰਨਵਾਦ! ਤੁਹਾਡਾ ਸੁਝਾਅ ਸਾਡੀ ਫੀਡ ਸੁਧਾਰਨ ਲਈ ਮਦਦਗਾਰ ਹੋਵੇਗਾ।
 newtab-toast-dismiss-button =
-    .title = ਖ਼ਾਰਜ ਕਰੋ
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
+    .title = ਖ਼ਾਰਜ ਕਰੋ
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -797,13 +790,13 @@ newtab-custom-shortcuts-title = ਸ਼ਾਰਟਕੱਟ
 newtab-custom-shortcuts-subtitle = ਸਾਈਟਾਂ ਤੁਸੀਂ ਸੰਭਾਲੀਆਂ ਜਾਂ ਖੋਲ੍ਹੀਆਂ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = ਸ਼ਾਰਟਕੱਟ
     .description = ਸਾਈਟਾਂ ਤੁਸੀਂ ਸੰਭਾਲੀਆਂ ਜਾਂ ਖੋਲ੍ਹੀਆਂ
+    .label = ਸ਼ਾਰਟਕੱਟ
 newtab-custom-shortcuts-nova =
     .label = ਸ਼ਾਰਟਕੱਟ
 newtab-custom-web-notifications-toggle =
-    .label = ਵੈੱਬ ਨੋਟੀਫਿਕੇਸ਼ਨ
     .description = ਆਪਣੀਆਂ ਸਾਈਟਾਂ ਤੋਂ ਉਹਨਾਂ ਦੇ ਸ਼ਾਰਟਕੱਟ ਤੋਂ ਨੋਟੀਫਿਕੇਸ਼ਨ ਵੇਖੋ
+    .label = ਵੈੱਬ ਨੋਟੀਫਿਕੇਸ਼ਨ
 newtab-custom-row-description =
     .description = ਕਤਾਰਾਂ ਦੀ ਗਿਣਤੀ
 # Variables
@@ -827,8 +820,8 @@ newtab-custom-pocket-title = { -pocket-brand-name } ਵਲੋਂ ਸਿਫਾਰ
 newtab-custom-pocket-subtitle = { -brand-product-name } ਦੇ ਹਿੱਸੇ ਵਜੋਂ { -pocket-brand-name } ਵਲੋਂ ਖਾਸ ਇਕੱਤਰ ਕੀਤੀ ਸਮੱਗਰੀ
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = ਸਿਫ਼ਾਰਸ਼ੀ ਕਹਾਣੀਆਂ
     .description = { -brand-product-name } ਸਮੂਹ ਵਲੋਂ ਤਿਆਰੀ ਕੀਤੀ ਖਾਸ ਸਮੱਗਰੀ
+    .label = ਸਿਫ਼ਾਰਸ਼ੀ ਕਹਾਣੀਆਂ
 newtab-recommended-stories-toggle =
     .label = ਸਿਫ਼ਾਰਸ਼ੀ ਕਹਾਣੀਆਂ
 newtab-custom-stories-personalized-toggle =
@@ -841,8 +834,8 @@ newtab-custom-pocket-show-recent-saves = ਸੱਜਰੇ ਸੰਭਾਲੇ ਵ�
 newtab-custom-recent-title = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
 newtab-custom-recent-subtitle = ਤਾਜ਼ਾ ਸਾਈਟਾਂ ਤੇ ਸਮੱਗਰੀ ਦੀ ਚੋਣ
 newtab-custom-weather-toggle =
-    .label = ਮੌਸਮ
     .description = ਅੱਜ ਦੇ ਮੌਸਮ ਬਾਰੇ ਝਾਤ
+    .label = ਮੌਸਮ
 newtab-custom-widget-weather-toggle =
     .label = ਮੌਸਮ
 newtab-custom-widget-lists-toggle =
@@ -869,13 +862,10 @@ newtab-widget-manage-widget-button =
     .label = ਵਿਜੈੱਟ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = ਬੰਦ ਕਰੋ
     .aria-label = ਮੇਨ ਨੂੰ ਬੰਦ ਕਰੋ
+    .title = ਬੰਦ ਕਰੋ
 newtab-custom-close-button = ਬੰਦ ਕਰੋ
 newtab-custom-settings = ਹੋਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = ਦਿੱਖ
 # Button that opens the full browser theme selection view.
@@ -988,14 +978,11 @@ newtab-wallpaper-feature-highlight-content = ਆਪਣੀ ਨਵੀਂ ਟੈਬ
 newtab-wallpaper-feature-highlight-button = ਸਮਝੇ
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = ਖ਼ਾਰਜ ਕਰੋ
     .aria-label = ਪੌਪ-ਅੱਪ ਨੂੰ ਬੰਦ ਕਰੋ
+    .title = ਖ਼ਾਰਜ ਕਰੋ
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1022,8 +1009,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ ਸਪਾਂਸਰ
 newtab-weather-menu-change-location = ਟਿਕਾਣੇ ਨੂੰ ਬਦਲੋ
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
     .aria-label = ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
+    .placeholder = ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = ਮੌਜੂਦਾ ਟਿਕਾਣੇ ਨੂੰ ਵਰਤੋਂ
@@ -1067,8 +1054,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = { $provider } ਵਿੱਚ ਭਵਿੱਖਬਾਣੀ ਵੇਖੋ
     .aria-description = { $provider } ∙ ਸਪਾਂਸਰ
+    .title = { $provider } ਵਿੱਚ ਭਵਿੱਖਬਾਣੀ ਵੇਖੋ
 
 ## Topic Labels
 
@@ -1269,8 +1256,8 @@ newtab-widget-lists-menu-copy = ਸੂਚੀ ਨੂੰ ਕਲਿੱਪਬੋਰ�
 newtab-widget-lists-menu-learn-more = ਹੋਰ ਜਾਣੋ
 newtab-widget-lists-button-add-item = ਇੱਕ ਚੀਜ਼ ਨੂੰ ਜੋੜੋ
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = ਇੱਕ ਚੀਜ਼ ਨੂੰ ਜੋੜੋ
     .aria-label = ਇੱਕ ਚੀਜ਼ ਨੂੰ ਜੋੜੋ
+    .placeholder = ਇੱਕ ਚੀਜ਼ ਨੂੰ ਜੋੜੋ
 newtab-widget-lists-input-error = ਇੱਕ ਚੀਜ਼ ਨੂੰ ਜੋੜਨ ਲਈ ਲਿਖਤ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ।
 newtab-widget-lists-input-menu-open-link = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ
 newtab-widget-lists-input-menu-move-up = ਉੱਤੇ ਭੇਜੋ
@@ -1295,12 +1282,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = ਕੰਮ ਸੂਚੀ
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = ਚੈਕ-ਲਿਸਟ
     .aria-label = ਸੂਚੀ ਨਾਂ ਨੂੰ ਸੋਧੋ
+    .placeholder = ਚੈਕ-ਲਿਸਟ
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = ਨਵੀਂ ਸੂਚੀ
     .aria-label = ਸੂਚੀ ਦੇ ਨਾਂ ਨੂੰ ਸੋਧੋ
+    .placeholder = ਨਵੀਂ ਸੂਚੀ
 newtab-widget-section-title = ਵਿਜੈੱਟ
 newtab-widget-menu-hide = ਵਿਜੈੱਟ ਨੂੰ ਲੁਕਾਓ
 newtab-widget-menu-change-size = ਆਕਾਰ ਨੂੰ ਬਦਲੋ
@@ -1318,17 +1305,17 @@ newtab-widget-size-medium = ਮੱਧਮ
 newtab-widget-size-large = ਵੱਡੇ
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = ਵਿਜੈੱਟ ਨੂੰ ਲੁਕਾਓ
     .aria-label = ਸਭ ਵਿਜੈੱਟ ਨੂੰ ਲੁਕਾਓ
+    .title = ਵਿਜੈੱਟ ਨੂੰ ਲੁਕਾਓ
 newtab-widget-section-maximize =
-    .title = ਵਿਜੈੱਟ ਨੂੰ ਫੈਲਾਓ
     .aria-label = ਸਾਰੇ ਵਿਜੈੱਟ ਨੂੰ ਪੂਰੇ ਆਕਾਰ ਲਈ ਫੈਲਾਓ
+    .title = ਵਿਜੈੱਟ ਨੂੰ ਫੈਲਾਓ
 newtab-widget-section-minimize =
-    .title = ਵਿਜੈੱਟ ਨੂੰ ਘੱਟੋ-ਘੱਟ ਕਰੋ
     .aria-label = ਸਾਰੇ ਵਿਜੈੱਟ ਨੂੰ ਸੰਖੇਪ ਆਕਾਰ ਲਈ ਸਮੇਟੋ
+    .title = ਵਿਜੈੱਟ ਨੂੰ ਘੱਟੋ-ਘੱਟ ਕਰੋ
 newtab-widget-section-menu-button =
-    .title = ਵਿਜੈਟ ਮੇਨੂ
     .aria-label = ਵਿਜੈਟ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = ਵਿਜੈਟ ਮੇਨੂ
 newtab-widget-add-widgets-button =
     .aria-label = ਵਿਜੈੱਟ ਜੋੜੋ
     .title = ਵਿਜੈੱਟ ਜੋੜੋ
@@ -1389,11 +1376,8 @@ newtab-promo-card-title = { -brand-product-name } ਲਈ ਸਹਿਯੋਗ
 newtab-promo-card-body = ਸਾਡੇ ਸਪੌਂਸ ਵਧੀਆ ਵੈੱਬ ਬਣਾਉਣ ਦੇ ਸਾਡੇ ਟੀਚੇ ਵਿੱਚ ਸਹਿਯੋਗ ਕਰਦੇ ਹਨ।
 newtab-promo-card-cta = ਹੋਰ ਜਾਣੋ
 newtab-promo-card-dismiss-button =
-    .title = ਖ਼ਾਰਜ ਕਰੋ
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = ਖ਼ਾਰਜ ਕਰੋ
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1459,8 +1443,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
 newtab-sports-widget-skip = ਛੱਡੋ
 newtab-sports-widget-search-country =
-    .placeholder = ਦੇਸ਼ ਨੂੰ ਲੱਭੋ
     .aria-label = ਦੇਸ਼ ਨੂੰ ਲੱਭੋ
+    .placeholder = ਦੇਸ਼ ਨੂੰ ਲੱਭੋ
 newtab-sports-widget-cancel = ਰੱਦ ਕਰੋ
 newtab-sports-widget-back-button =
     .aria-label = ਪਿੱਛੇ
@@ -1527,8 +1511,8 @@ newtab-sports-widget-quarter-finals = ਕੁਆਟਰ ਫਾਈਨਲ
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ਲਾਈਵ
 newtab-custom-widget-live-refresh =
-    .title = ਨਵੇਂ ਸਕੋਰ ਲਵੋ
     .aria-label = ਨਵੇਂ ਸਕੋਰ ਲਵੋ
+    .title = ਨਵੇਂ ਸਕੋਰ ਲਵੋ
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = ਖਾਸ ਤਾਰੀਖਾਂ
 newtab-sports-widget-upcoming = ਆਉਣ ਵਾਲੇ
@@ -1542,10 +1526,10 @@ newtab-sports-widget-final = ਫਾਈਨਲ
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = ਦੇਰੀ ਹੋਈ
 newtab-sports-widget-postponed = ਟਾਲਿਆ
 newtab-sports-widget-suspended = ਮੁਅੱਤਲ ਕੀਤਾ
@@ -1683,8 +1667,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = ਖ਼ਾਰਜ ਕਰੋ
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
+    .title = ਖ਼ਾਰਜ ਕਰੋ
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1709,34 +1693,34 @@ newtab-clock-widget-menu-switch-to-12h = 12-ਘੰਟੇ ਦੇ ਰੂਪ ਵਿ
 newtab-clock-widget-menu-switch-to-24h = 24-ਘੰਟੇ ਦੇ ਰੂਪ ਵਿੱਚ ਵੇਖੋ
 newtab-clock-widget-label-your-clocks = ਤੁਹਾਡੀਆਂ ਘੜੀਆਂ
 newtab-clock-widget-search-location-input =
+    .aria-label = ਸ਼ਹਿਰ ਨੂੰ ਲੱਭੋ
     .label = ਟਿਕਾਣਾ
     .placeholder = ਸ਼ਹਿਰ ਨੂੰ ਲੱਭੋ
-    .aria-label = ਸ਼ਹਿਰ ਨੂੰ ਲੱਭੋ
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = ਮਨਮਰਜ਼ੀ ਦਾ ਨਾਂ (ਚੋਣਵਾਂ)
     .label = ਨਾਂ (ਚੋਣਵਾਂ)
     .placeholder = ਮਨਮਰਜ਼ੀ ਦਾ ਨਾਂ ਜੋੜੋ
-    .aria-label = ਮਨਮਰਜ਼ੀ ਦਾ ਨਾਂ (ਚੋਣਵਾਂ)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = ਨਵੀਂ ਘੜੀ ਜੋੜੋ
     .aria-label = ਨਵੀਂ ਘੜੀ ਜੋੜੋ
+    .title = ਨਵੀਂ ਘੜੀ ਜੋੜੋ
 newtab-clock-widget-button-add-clock = ਜੋੜੋ
 newtab-clock-widget-button-cancel = ਰੱਦ ਕਰੋ
 newtab-clock-widget-button-back =
-    .title = ਪਿੱਛੇ
     .aria-label = ਪਿੱਛੇ
+    .title = ਪਿੱਛੇ
 newtab-clock-widget-button-edit-clock =
-    .title = ਘੜੀ ਨੂੰ ਸੋਧੋ
     .aria-label = ਘੜੀ ਨੂੰ ਸੋਧੋ
+    .title = ਘੜੀ ਨੂੰ ਸੋਧੋ
 newtab-clock-widget-button-save = ਸੰਭਾਲੋ
 newtab-clock-widget-button-remove-clock =
-    .title = ਘੜੀ ਨੂੰ ਹਟਾਓ
     .aria-label = ਘੜੀ ਨੂੰ ਹਟਾਓ
+    .title = ਘੜੀ ਨੂੰ ਹਟਾਓ
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1764,14 +1748,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = “{ $city }” ਨੂੰ ਪਸੰਦੀਦਾ ਘਰੀ ਵਜੋਂ ਜੋੜੋ
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = ਸ਼ਹਿਰ ਦਾ ਨਾਂ
     .aria-label = ਸ਼ਹਿਰ ਦਾ ਨਾਂ
+    .label = ਸ਼ਹਿਰ ਦਾ ਨਾਂ
     .placeholder = ਇਸ ਘੜੀ ਦਾ ਨਾਂ
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = ਸਮਾਂ ਖੇਤਰ
     .aria-label = ਸਮਾਂ ਖੇਤਰ
+    .label = ਸਮਾਂ ਖੇਤਰ
     .placeholder = ਸ਼ਹਿਰ, ਸਮਾਂ ਖੇਤਰ ਜਾਂ UTC ਜਾਣਕਾਰੀ ਰਾਹੀਂ ਲੱਭੋ
 newtab-clock-widget-custom-zone-results =
     .aria-label = ਸਮਾਂ ਖੇਤਰ ਨਤੀਜੇ
@@ -1787,8 +1771,8 @@ newtab-clock-widget-search-no-results = ਕੋਈ ਮੇਲ ਨਹੀਂ
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = ਘੜੀ ਲਈ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
     .aria-label = ਘੜੀ ਲਈ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = ਘੜੀ ਲਈ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = ਪਸੰਦੀਦਾ ਨਾਂ: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

@@ -20,18 +20,15 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — ការរុករកឯកជន
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — ការរុករកឯកជន
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — ការរុករកឯកជន
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = មើល​ព័ត៌មាន​តំបន់បណ្ដាញ
 
@@ -260,12 +257,12 @@ urlbar-placeholder =
     .placeholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = បញ្ចូលពាក្យស្វែងរក
     .aria-label = ស្វែងរកចំណាំ
+    .placeholder = បញ្ចូលពាក្យស្វែងរក
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = បញ្ចូលពាក្យស្វែងរក
     .aria-label = ស្វែងរកប្រវត្តិ
+    .placeholder = បញ្ចូលពាក្យស្វែងរក
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -306,8 +303,6 @@ urlbar-searchmode-bookmarks =
     .label = ចំណាំ
 urlbar-searchmode-history =
     .label = ប្រវត្តិ
-urlbar-searchmode-bookmarks2 = ចំណាំ
-urlbar-searchmode-history2 = ប្រវត្តិ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -399,9 +394,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = ចំណាំ
     .toolbarname = របារឧបករណ៍ចំណាំ
     .accesskey = B
-    .aria-label = ចំណាំ
 bookmarks-toolbar-menu =
     .label = របារ​ឧបករណ៍​ចំណាំ
 bookmarks-toolbar-placeholder =
@@ -483,9 +478,6 @@ popups-infobar-dont-show-message =
 
 ##
 
-
-# Navigator Toolbox
-
 navbar-downloads =
     .label = ទាញ​យក
 navbar-overflow =
@@ -564,9 +556,6 @@ popup-show-popup-menuitem =
 ## The urlbar trust icon & panel
 
 trustpanel-clear-cookies-subview-button-cancel = បោះបង់
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

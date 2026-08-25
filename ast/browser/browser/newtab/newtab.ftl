@@ -9,8 +9,8 @@ newtab-page-title = Llingüeta nueva
 newtab-settings-button =
     .title = Personalizar la páxina «Llingüeta nueva»
 newtab-personalize-icon-label =
-    .title = Personaliza «Llingüeta nueva»
     .aria-label = Personalizar «Llingüeta nueva»
+    .title = Personaliza «Llingüeta nueva»
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -91,16 +91,16 @@ newtab-confirm-delete-history-p2 = Esta aición nun pue desfacese.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Abrir el menú
     .aria-label = Abrir el menú
+    .title = Abrir el menú
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Quitar
     .aria-label = Quitar
+    .title = Quitar
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Editar esti sitiu
     .aria-label = Editar esti sitiu
+    .title = Editar esti sitiu
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -201,8 +201,8 @@ newtab-custom-shortcuts-title = Atayos
 newtab-custom-shortcuts-subtitle = Sitios que guardes o visites
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Atayos
     .description = Sitios que guardes o visites
+    .label = Atayos
 newtab-custom-shortcuts-nova =
     .label = Atayos
 # Variables

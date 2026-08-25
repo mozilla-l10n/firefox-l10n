@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Mukauta
 newtab-customize-panel-label =
     .label = Mukauta
 newtab-personalize-settings-icon-label =
-    .title = Mukauta uutta välilehteä
     .aria-label = Asetukset
+    .title = Mukauta uutta välilehteä
 newtab-settings-dialog-label =
     .aria-label = Asetukset
 newtab-personalize-icon-label =
-    .title = Muokkaa uutta välilehteä
     .aria-label = Muokkaa uutta välilehteä
+    .title = Muokkaa uutta välilehteä
 newtab-personalize-dialog-label =
     .aria-label = Muokkaa
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Hylkää
     .aria-label = Hylkää
+    .title = Hylkää
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Haku
 home-prefs-stories-header2 =
-    .label = Tarinat
     .description = Poikkeuksellista { -brand-product-name }-perheen kuratoimaa sisältöä
+    .label = Tarinat
 home-prefs-widgets-header =
     .label = Widgetit
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -330,8 +330,8 @@ newtab-stocks-error-not-available = Osaketietoja ei ole saatavilla.
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Osakkeiden pienoisohjelman asetukset
     .aria-label = Osakkeiden pienoisohjelman asetukset
+    .title = Osakkeiden pienoisohjelman asetukset
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Osakkeet
@@ -348,9 +348,6 @@ newtab-stocks-ticker-status-up = { $name }, nousi { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, laski { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, ei muutosta, { $change }, { $price }
-
-## Stocks widget watchlist add and remove controls
-
 
 ## Stocks widget ticker search
 
@@ -384,14 +381,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Päivän kuvan asetukset
     .aria-label = Päivän kuvan asetukset
+    .title = Päivän kuvan asetukset
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Aseta tämän päivän kuva taustakuvaksi
     .label = Aseta taustakuva
     .title = Aseta taustakuva
-    .aria-label = Aseta tämän päivän kuva taustakuvaksi
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Hallitse taustakuvaa
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -403,8 +400,8 @@ newtab-picture-menu-show-photo = Näytä tämän päivän kuva
 newtab-picture-menu-learn-more = Lue lisää
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Näytä tämän päivän kuva
     .aria-label = Näytä tämän päivän kuva
+    .title = Näytä tämän päivän kuva
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Palaa huomenna uuden kuvan luokse
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -418,16 +415,12 @@ newtab-recent-searches-widget-title = Viimeisimmät haut
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Lue lisää
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Haku
     .aria-label = Haku
+    .title = Haku
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Hae hakukoneella { $engine } tai kirjoita osoite
@@ -435,17 +428,17 @@ newtab-search-box-handoff-text-no-engine = Kirjoita osoite tai hakusana
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Hae hakukoneella { $engine } tai kirjoita osoite
     .placeholder = Hae hakukoneella { $engine } tai kirjoita osoite
     .title = Hae hakukoneella { $engine } tai kirjoita osoite
-    .aria-label = Hae hakukoneella { $engine } tai kirjoita osoite
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Kirjoita osoite tai hakusana
     .placeholder = Kirjoita osoite tai hakusana
     .title = Kirjoita osoite tai hakusana
-    .aria-label = Kirjoita osoite tai hakusana
 newtab-search-box-text = Verkkohaku
 newtab-search-box-input =
-    .placeholder = Verkkohaku
     .aria-label = Verkkohaku
+    .placeholder = Verkkohaku
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -455,8 +448,8 @@ newtab-topsites-edit-topsites-header = Muokkaa ykkössivustoa
 newtab-topsites-edit-shortcut-header = Muokkaa oikotietä
 newtab-topsites-add-shortcut-label = Lisää pikavalinta
 newtab-topsites-add-shortcut-title =
-    .title = Lisää pikavalinta
     .aria-label = Lisää pikavalinta
+    .title = Lisää pikavalinta
 newtab-shortcuts-pinned-area = Kiinnitetty alue
 newtab-topsites-title-label = Otsikko
 newtab-topsites-title-input =
@@ -473,9 +466,6 @@ newtab-topsites-image-url-label = Oman kuvan osoite
 newtab-topsites-use-custom-image-link = Käytä omaa kuvaa
 newtab-topsites-use-image-link = Käytä omaa kuvaa…
 newtab-topsites-image-validation = Kuvan lataaminen epäonnistui. Kokeile toista osoitetta.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Tyhjennä teksti
 
@@ -513,35 +503,35 @@ newtab-topsites-hover-card-header = Ilmoitukset sivustolta { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Juuri nyt
 newtab-topsites-hover-card-mark-all-read =
-    .title = Merkitse kaikki luetuiksi
     .aria-label = Merkitse kaikki luetuiksi
+    .title = Merkitse kaikki luetuiksi
 newtab-topsites-hover-card-settings =
-    .title = Ilmoitusten asetukset
     .aria-label = Ilmoitusten asetukset
+    .title = Ilmoitusten asetukset
 newtab-topsites-hover-card-dismiss =
-    .title = Hylkää
     .aria-label = Hylkää
+    .title = Hylkää
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Avaa valikko
     .aria-label = Avaa valikko
+    .title = Avaa valikko
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Poista
     .aria-label = Poista
+    .title = Poista
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Avaa valikko
     .aria-label = Avaa pikavalikko sivustolle { $title }
+    .title = Avaa valikko
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Muokkaa tätä sivustoa
     .aria-label = Muokkaa tätä sivustoa
+    .title = Muokkaa tätä sivustoa
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -726,8 +716,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Kiitos. Palautteesi auttaa meitä parantamaan syötettäsi.
 newtab-toast-dismiss-button =
-    .title = Hylkää
     .aria-label = Hylkää
+    .title = Hylkää
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -746,13 +736,13 @@ newtab-custom-shortcuts-title = Oikotiet
 newtab-custom-shortcuts-subtitle = Tallentamasi tai vierailemasi sivustot
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Oikotiet
     .description = Tallentamasi tai vierailemasi sivustot
+    .label = Oikotiet
 newtab-custom-shortcuts-nova =
     .label = Oikotiet
 newtab-custom-web-notifications-toggle =
-    .label = Verkkoilmoitukset
     .description = Näytä sivustojen ilmoitukset niiden oikoteissä
+    .label = Verkkoilmoitukset
 newtab-custom-row-description =
     .description = Rivien lukumäärä
 # Variables
@@ -776,8 +766,8 @@ newtab-custom-pocket-title = { -pocket-brand-name } suosittelee
 newtab-custom-pocket-subtitle = Poikkeuksellista, valikoitua sisältöä { -pocket-brand-name }-palvelulta, osana { -brand-product-name }-perhettä
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Suositellut tarinat
     .description = Poikkeuksellista { -brand-product-name }-perheen kuratoimaa sisältöä
+    .label = Suositellut tarinat
 newtab-recommended-stories-toggle =
     .label = Suositellut tarinat
 newtab-custom-stories-personalized-toggle =
@@ -790,8 +780,8 @@ newtab-custom-pocket-show-recent-saves = Näytä viimeisimmät tallennukset
 newtab-custom-recent-title = Viimeisin toiminta
 newtab-custom-recent-subtitle = Valikoima viimeisimpiä sivustoja ja sisältöä
 newtab-custom-weather-toggle =
-    .label = Sää
     .description = Päivän sääennuste yhdellä vilkaisulla
+    .label = Sää
 newtab-custom-widget-weather-toggle =
     .label = Sää
 newtab-custom-widget-lists-toggle =
@@ -818,13 +808,10 @@ newtab-widget-manage-widget-button =
     .label = Hallitse pienoisohjelmia
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Sulje
     .aria-label = Sulje valikko
+    .title = Sulje
 newtab-custom-close-button = Sulje
 newtab-custom-settings = Muokkaa lisää asetuksia
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Ulkoasu
 # Button that opens the full browser theme selection view.
@@ -937,14 +924,11 @@ newtab-wallpaper-feature-highlight-content = Anna uudelle välilehdelle uusi ilm
 newtab-wallpaper-feature-highlight-button = Selvä
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Hylkää
     .aria-label = Sulje ilmoitus
+    .title = Hylkää
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -971,8 +955,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponsoroitu
 newtab-weather-menu-change-location = Vaihda sijaintia
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Hae sijaintia
     .aria-label = Hae sijaintia
+    .placeholder = Hae sijaintia
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Käytä nykyistä sijaintia
@@ -1016,8 +1000,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Katso ennuste palvelussa { $provider }
     .aria-description = { $provider } ∙ Sponsoroitu
+    .title = Katso ennuste palvelussa { $provider }
 
 ## Topic Labels
 
@@ -1218,8 +1202,8 @@ newtab-widget-lists-menu-copy = Kopioi lista leikepöydälle
 newtab-widget-lists-menu-learn-more = Lue lisää
 newtab-widget-lists-button-add-item = Lisää kohde
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Lisää kohde
     .aria-label = Lisää kohde
+    .placeholder = Lisää kohde
 newtab-widget-lists-input-error = Sisällytä tekstiä lisätäksesi kohteen.
 newtab-widget-lists-input-menu-open-link = Avaa linkki
 newtab-widget-lists-input-menu-move-up = Siirrä ylös
@@ -1244,12 +1228,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Tehtävälista
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Tarkistuslista
     .aria-label = Muokkaa listan nimeä
+    .placeholder = Tarkistuslista
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Uusi lista
     .aria-label = Muokkaa listan nimeä
+    .placeholder = Uusi lista
 newtab-widget-section-title = Pienoisohjelmat
 newtab-widget-menu-hide = Piilota pienoisohjelma
 newtab-widget-menu-change-size = Muuta kokoa
@@ -1267,17 +1251,17 @@ newtab-widget-size-medium = Keskikokoinen
 newtab-widget-size-large = Suuri
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Piilota pienoisohjelmat
     .aria-label = Piilota kaikki pienoisohjelmat
+    .title = Piilota pienoisohjelmat
 newtab-widget-section-maximize =
-    .title = Laajenna pienoisohjelmat
     .aria-label = Laajenna pienoisohjelmat täyteen kokoon
+    .title = Laajenna pienoisohjelmat
 newtab-widget-section-minimize =
-    .title = Pienennä pienoisohjelmat
     .aria-label = Supista pienoisohjelmat kompaktiin kokoon
+    .title = Pienennä pienoisohjelmat
 newtab-widget-section-menu-button =
-    .title = Pienoisohjelmien valikko
     .aria-label = Avaa pienoisohjelmien valikko
+    .title = Pienoisohjelmien valikko
 newtab-widget-add-widgets-button =
     .aria-label = Lisää pienoisohjelma
     .title = Lisää pienoisohjelma
@@ -1338,11 +1322,8 @@ newtab-promo-card-title = Tue { -brand-product-name }ia
 newtab-promo-card-body = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä
 newtab-promo-card-cta = Lue lisää
 newtab-promo-card-dismiss-button =
-    .title = Hylkää
     .aria-label = Hylkää
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Hylkää
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1410,8 +1391,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Valitse taustakuva
 newtab-sports-widget-skip = Ohita
 newtab-sports-widget-search-country =
-    .placeholder = Hae maata
     .aria-label = Hae maata
+    .placeholder = Hae maata
 newtab-sports-widget-cancel = Peruuta
 newtab-sports-widget-back-button =
     .aria-label = Takaisin
@@ -1478,8 +1459,8 @@ newtab-sports-widget-quarter-finals = Puolivälierät
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = SUORA
 newtab-custom-widget-live-refresh =
-    .title = Päivitä tulokset
     .aria-label = Päivitä tulokset
+    .title = Päivitä tulokset
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Tärkeimmät päivät
 newtab-sports-widget-upcoming = Tulossa
@@ -1493,10 +1474,10 @@ newtab-sports-widget-final = Loppuottelu
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Viivästynyt
 newtab-sports-widget-postponed = Lykätty
 newtab-sports-widget-suspended = Keskeytetty
@@ -1634,8 +1615,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Hylkää
     .aria-label = Hylkää
+    .title = Hylkää
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1660,34 +1641,34 @@ newtab-clock-widget-menu-switch-to-12h = Vaihda 12 tunnin muotoon
 newtab-clock-widget-menu-switch-to-24h = Vaihda 24 tunnin muotoon
 newtab-clock-widget-label-your-clocks = Kellosi
 newtab-clock-widget-search-location-input =
+    .aria-label = Hae kaupunkia
     .label = Sijainti
     .placeholder = Hae kaupunkia
-    .aria-label = Hae kaupunkia
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Kutsumanimi (valinnainen)
     .label = Kutsumanimi (valinnainen)
     .placeholder = Lisää kutsumanimi
-    .aria-label = Kutsumanimi (valinnainen)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Lisää uusi kello
     .aria-label = Lisää uusi kello
+    .title = Lisää uusi kello
 newtab-clock-widget-button-add-clock = Lisää
 newtab-clock-widget-button-cancel = Peruuta
 newtab-clock-widget-button-back =
-    .title = Takaisin
     .aria-label = Takaisin
+    .title = Takaisin
 newtab-clock-widget-button-edit-clock =
-    .title = Muokkaa kelloa
     .aria-label = Muokkaa kelloa
+    .title = Muokkaa kelloa
 newtab-clock-widget-button-save = Tallenna
 newtab-clock-widget-button-remove-clock =
-    .title = Poista kello
     .aria-label = Poista kello
+    .title = Poista kello
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1715,14 +1696,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Lisää “{ $city }” mukautetuksi kelloksi
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Kaupungin nimi
     .aria-label = Kaupungin nimi
+    .label = Kaupungin nimi
     .placeholder = Nimeä tämä kello
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Aikavyöhyke
     .aria-label = Aikavyöhyke
+    .label = Aikavyöhyke
     .placeholder = Hae kaupungin, aikavyöhykkeen tai UTC-poikkeaman mukaan
 newtab-clock-widget-custom-zone-results =
     .aria-label = Aikavyöhyketulokset
@@ -1738,8 +1719,8 @@ newtab-clock-widget-search-no-results = Ei tuloksia
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Avaa kellon valikko
     .aria-label = Avaa kellon valikko
+    .title = Avaa kellon valikko
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Kutsumanimi: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

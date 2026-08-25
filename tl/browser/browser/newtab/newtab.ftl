@@ -9,8 +9,8 @@ newtab-page-title = Bagong Tab
 newtab-settings-button =
     .title = I-customize ang iyong pahina ng Bagong Tab
 newtab-personalize-icon-label =
-    .title = i-Personalize ang bagong tab
     .aria-label = i-Personalize
+    .title = i-Personalize ang bagong tab
 newtab-personalize-dialog-label =
     .aria-label = i-Personalize
 
@@ -54,19 +54,19 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Hanapin
     .aria-label = Hanapin
+    .title = Hanapin
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Maghanap gamit ang { $engine } o maglagay ng address
 newtab-search-box-handoff-text-no-engine = Maghanap o ilagay ang address
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Hanapin o ilagay ang address
     .placeholder = Hanapin o ilagay ang address
     .title = Hanapin o ilagay ang address
-    .aria-label = Hanapin o ilagay ang address
 newtab-search-box-input =
-    .placeholder = Hanapin sa web
     .aria-label = Hanapin sa web
+    .placeholder = Hanapin sa web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -108,22 +108,22 @@ newtab-topsite-sponsored = Sponsored
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Buksan ang menu
     .aria-label = Buksan ang menu
+    .title = Buksan ang menu
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Tanggalin
     .aria-label = Tanggalin
+    .title = Tanggalin
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Buksan ang menu
     .aria-label = Buksan ang menu ng konteksto para sa { $title }
+    .title = Buksan ang menu
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Baguhin ang site na ito
     .aria-label = Baguhin ang site na ito
+    .title = Baguhin ang site na ito
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -262,8 +262,8 @@ newtab-custom-shortcuts-title = Mga shortcut
 newtab-custom-shortcuts-subtitle = Mga site na nai-save o binibisita mo
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Mga shortcut
     .description = Mga site na nai-save o binibisita mo
+    .label = Mga shortcut
 newtab-custom-shortcuts-nova =
     .label = Mga shortcut
 # Variables

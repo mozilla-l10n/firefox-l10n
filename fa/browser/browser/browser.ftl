@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } مرور ناشناس
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } مرور ناشناس
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } مرور ناشناس
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — مرور ناشناس
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — مرور ناشناس
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — مرور ناشناس
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,14 +67,14 @@ private-browsing-shortcut-text-2 = { -brand-shortcut-name } مرور ناشنا�
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = مرور خصوصی { -brand-full-name }
-    .data-title-default-with-profile = ‍{ $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = مرور خصوصی ‍{ $profile-name } — { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = مرور خصوصی { $content-title } — { -brand-full-name }
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = مرور خصوصی { $content-title } — { -brand-full-name }
     .data-content-title-private-with-profile = مرور خصوصی { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = ‍{ $profile-name } — { -brand-full-name }
+    .data-title-private = مرور خصوصی { -brand-full-name }
+    .data-title-private-with-profile = مرور خصوصی ‍{ $profile-name } — { -brand-full-name }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -99,14 +99,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — مرور خصوصی
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } مرور خصوصی
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — مرور خصوصی
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — مرور خصوصی
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — مرور خصوصی
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — مرور خصوصی
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } مرور خصوصی
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -117,9 +117,6 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — مرور خصوصی
        *[other] مرور خصوصی { -brand-full-name }
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = نمایش اطلاعات وبگاه
 
@@ -340,9 +337,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = افزودن موتور جست‌وجوی «{ $engineName }»
     .label = افزودن «{ $engineName }»
     .tooltiptext = افزودن موتور جست‌وجوی «{ $engineName }»
-    .aria-label = افزودن موتور جست‌وجوی «{ $engineName }»
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -637,32 +634,32 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = جست‌وجوی وب
     .aria-label = جست‌وجو با { $name }
+    .placeholder = جست‌وجوی وب
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = عبارت جست‌وجو را وارد کنید
     .aria-label = جست‌وجو { $name }
+    .placeholder = عبارت جست‌وجو را وارد کنید
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = عبارت جست‌وجو را وارد کنید
     .aria-label = جست‌وجو نشانک‌ها
+    .placeholder = عبارت جست‌وجو را وارد کنید
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = عبارت جست‌وجو را وارد کنید
     .aria-label = جست‌وجو تاریخچه
+    .placeholder = عبارت جست‌وجو را وارد کنید
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = عبارت جست‌وجو را وارد کنید
     .aria-label = جست‌وجو زبانه‌ها
+    .placeholder = عبارت جست‌وجو را وارد کنید
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = عبارات جست‌وجو را وارد کنید
     .aria-label = اقدامات جست‌وجو
+    .placeholder = عبارات جست‌وجو را وارد کنید
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -758,7 +755,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -819,10 +816,6 @@ urlbar-searchmode-button-no-engine2 =
     .title = میانبری انتخاب نشده است، یک میانبر انتخاب کنید
 urlbar-searchmode-dropmarker2 =
     .title = انتخاب یک موتور جستجو
-urlbar-searchmode-bookmarks2 = نشانک‌ها
-urlbar-searchmode-tabs2 = زبانه‌ها
-urlbar-searchmode-history2 = تاریخچه
-urlbar-searchmode-actions2 = کنش‌ها
 urlbar-searchmode-exit-button2 =
     .title = بستن
 # Shown when adding new search engines from the search mode switcher.
@@ -833,7 +826,6 @@ urlbar-searchmode-popup-add-engine = افزودن «{ $engineName }»
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = این بار جستجو با:
-urlbar-searchmode-popup-search-settings-panelitem = تنظیمات جستجو
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -970,9 +962,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = نشانک‌ها
     .toolbarname = نوار ابزار نشانک‌ها
     .accesskey = ن
-    .aria-label = نشانک‌ها
 bookmarks-toolbar-menu =
     .label = نوار ابزار نشانک‌ها
 bookmarks-toolbar-placeholder =
@@ -1102,9 +1094,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = چ
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

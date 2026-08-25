@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } প্রাইভেট ব্রাউজিং
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } প্রাইভেট ব্রাউজিং
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } প্রাইভেট ব্রাউজিং
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — ব্যক্তিগত ব্রাউজিং
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — ব্যক্তিগত ব্রাউজিং
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — ব্যক্তিগত ব্রাউজিং
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,14 +67,14 @@ private-browsing-shortcut-text-2 = { -brand-shortcut-name } ব্যক্ত�
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } ব্যক্তিগত ব্রাউজিং
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ব্যক্তিগত ব্রাউজিং
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } ব্যক্তিগত ব্রাউজিং
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } ব্যক্তিগত ব্রাউজিং
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } ব্যক্তিগত ব্রাউজিং
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } ব্যক্তিগত ব্রাউজিং
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ব্যক্তিগত ব্রাউজিং
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -99,14 +99,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — ব্যক্তিগত ব্রাউজিং
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ব্যক্তিগত ব্রাউজিং
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — ব্যক্তিগত ব্রাউজিং
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — ব্যক্তিগত ব্রাউজিং
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — ব্যক্তিগত ব্রাউজিং
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — ব্যক্তিগত ব্রাউজিং
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ব্যক্তিগত ব্রাউজিং
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -120,9 +120,6 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = ব্যক্তিগত ব্রাউজিং
-
-##
-
 urlbar-identity-button =
     .aria-label = সাইটের তথ্য দেখাও
 
@@ -349,9 +346,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = “{ $engineName }” সার্চ ইঞ্জিন যোগ করুন
     .label = “{ $engineName }” যোগ করুন
     .tooltiptext = “{ $engineName }” সার্চ ইঞ্জিন যোগ করুন
-    .aria-label = “{ $engineName }” সার্চ ইঞ্জিন যোগ করুন
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -643,32 +640,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = ওয়েবে অনুসন্ধান করুন
     .aria-label = { $name } দ্বারা অনুসন্ধান করুন
+    .placeholder = ওয়েবে অনুসন্ধান করুন
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = অনুসন্ধানের পদ লিখুন
     .aria-label = { $name } অনুসন্ধান করুন
+    .placeholder = অনুসন্ধানের পদ লিখুন
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = অনুসন্ধান পদ লিখুন
     .aria-label = বুকমার্ক অনুসন্ধান করুন
+    .placeholder = অনুসন্ধান পদ লিখুন
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = অনুসন্ধানের বিষয় লিখুন
     .aria-label = ইতিহাস অনুসন্ধান করুন
+    .placeholder = অনুসন্ধানের বিষয় লিখুন
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = অনুসন্ধানের বিষয় লিখুন
     .aria-label = ট্যাব অনুসন্ধান করুন
+    .placeholder = অনুসন্ধানের বিষয় লিখুন
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = অনুসন্ধানের বিষয় লিখুন
     .aria-label = অ্যাকশন অনুসন্ধান করুন
+    .placeholder = অনুসন্ধানের বিষয় লিখুন
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -797,10 +794,6 @@ urlbar-searchmode-button-no-engine2 =
     .title = কোনো শর্টকাট নির্বাচন করা হয়নি, একটি শর্টকাট বাছুন
 urlbar-searchmode-dropmarker2 =
     .title = একটি সার্চ ইঞ্জিন বাছুন
-urlbar-searchmode-bookmarks2 = বুকমার্ক
-urlbar-searchmode-tabs2 = ট্যাব
-urlbar-searchmode-history2 = ইতিহাস
-urlbar-searchmode-actions2 = অ্যাকশন
 urlbar-searchmode-exit-button2 =
     .title = বন্ধ
 urlbar-searchmode-default2 =
@@ -810,7 +803,6 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = “{ $engineName }” যোগ করুন
     .title = “{ $engineName }” সার্চ ইঞ্জিন যোগ করুন
-urlbar-searchmode-popup-search-settings-panelitem = অনুসন্ধান সেটিংস
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -935,9 +927,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = বুকমার্কসমূহ
     .toolbarname = বুকমার্কের সরঞ্জামদণ্ড
     .accesskey = B
-    .aria-label = বুকমার্কসমূহ
 bookmarks-toolbar-menu =
     .label = বুকমার্কের সরঞ্জামদণ্ড
 bookmarks-toolbar-placeholder =
@@ -1051,9 +1043,6 @@ picture-in-picture-hide-toggle =
     .accesskey = H
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1174,13 +1163,6 @@ popup-show-popup-menuitem =
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
 file-picker-failed-open = Windows ফাইল-ডায়লগ খোলা যায়নি। কোনও ফাইল বা ফোল্ডার নির্বাচন করা যায়নি।
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 
 ## Onboarding Finish Setup checklist
 

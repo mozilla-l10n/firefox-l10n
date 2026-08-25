@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = Amostrar a información d'o puesto
 
@@ -278,28 +275,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Mirar en o Web
     .aria-label = Mirar con { $name }
+    .placeholder = Mirar en o Web
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Escribe los termens de busqueda
     .aria-label = Mirar { $name }
+    .placeholder = Escribe los termens de busqueda
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Escribe los termens de busqueda
     .aria-label = Buscar marcapachinas
+    .placeholder = Escribe los termens de busqueda
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Escribe los termens de busqueda
     .aria-label = Historial de busqueda
+    .placeholder = Escribe los termens de busqueda
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Escribe los termens de busqueda
     .aria-label = Pestanyas de busqueda
+    .placeholder = Escribe los termens de busqueda
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -346,9 +343,6 @@ urlbar-searchmode-tabs =
     .label = Pestanyas
 urlbar-searchmode-history =
     .label = Historial
-urlbar-searchmode-bookmarks2 = Marcapachinas
-urlbar-searchmode-tabs2 = Pestanyas
-urlbar-searchmode-history2 = Historial
 
 ## Reader View toolbar buttons
 
@@ -421,9 +415,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Marcapachinas
     .toolbarname = Barra de ferramientas de marcapachinas
     .accesskey = B
-    .aria-label = Marcapachinas
 bookmarks-toolbar-menu =
     .label = Barra de ferramientas de marcapachinas
 bookmarks-toolbar-placeholder =
@@ -498,9 +492,6 @@ picture-in-picture-hide-toggle =
     .accesskey = A
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

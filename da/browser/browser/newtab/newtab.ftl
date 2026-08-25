@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Tilpas
 newtab-customize-panel-label =
     .label = Tilpas
 newtab-personalize-settings-icon-label =
-    .title = Tilpas nyt faneblad
     .aria-label = Indstillinger
+    .title = Tilpas nyt faneblad
 newtab-settings-dialog-label =
     .aria-label = Indstillinger
 newtab-personalize-icon-label =
-    .title = Tilpas nyt faneblad
     .aria-label = Tilpas nyt faneblad
+    .title = Tilpas nyt faneblad
 newtab-personalize-dialog-label =
     .aria-label = Tilpas
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Afvis
     .aria-label = Afvis
+    .title = Afvis
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Søg
 home-prefs-stories-header2 =
-    .label = Historier
     .description = Interessant indhold udvalgt af { -brand-product-name }-holdet
+    .label = Historier
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -161,12 +161,6 @@ home-prefs-mission-message-learn-more-link-srd = Find ud af hvordan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Læs mere
 
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -189,12 +183,6 @@ newtab-privacy-message-promo-monitor-2-cta = Læs mere
 newtab-privacy-message-promo-signin-1-cta = Log ind
 newtab-privacy-message-promo-private-window-1-cta = Åbn privat vindue
 
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
@@ -205,8 +193,8 @@ newtab-stocks-menu-learn-more = Lær mere
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Indstillinger for aktie-widget
     .aria-label = Indstillinger for aktie-widget
+    .title = Indstillinger for aktie-widget
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aktier
@@ -223,12 +211,6 @@ newtab-stocks-ticker-status-up = { $name }, op { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, ned { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, ingen ændring, { $change }, { $price }
-
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
 
 ## Strings for the Picture of the Day widget
 
@@ -253,9 +235,9 @@ newtab-picture-attribution-license =
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Indstil dagens billede som din baggrund
     .label = Indstil baggrund
     .title = Indstil baggrund
-    .aria-label = Indstil dagens billede som din baggrund
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Håndter baggrund
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -267,25 +249,18 @@ newtab-picture-menu-show-photo = Vis dagens billede
 newtab-picture-menu-learn-more = Lær mere
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Vis dagens billede
     .aria-label = Vis dagens billede
+    .title = Vis dagens billede
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Dagens billede fra Wikimedia Commons
-
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Søg
     .aria-label = Søg
+    .title = Søg
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Søg med { $engine } eller indtast adresse
@@ -293,17 +268,17 @@ newtab-search-box-handoff-text-no-engine = Søg eller indtast adresse
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Søg med { $engine } eller indtast adresse
     .placeholder = Søg med { $engine } eller indtast adresse
     .title = Søg med { $engine } eller indtast adresse
-    .aria-label = Søg med { $engine } eller indtast adresse
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Søg eller indtast adresse
     .placeholder = Søg eller indtast adresse
     .title = Søg eller indtast adresse
-    .aria-label = Søg eller indtast adresse
 newtab-search-box-text = Søg på nettet
 newtab-search-box-input =
-    .placeholder = Søg på nettet
     .aria-label = Søg på nettet
+    .placeholder = Søg på nettet
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -313,8 +288,8 @@ newtab-topsites-edit-topsites-header = Rediger mest besøgte webside
 newtab-topsites-edit-shortcut-header = Rediger genvej
 newtab-topsites-add-shortcut-label = Tilføj genvej
 newtab-topsites-add-shortcut-title =
-    .title = Tilføj genvej
     .aria-label = Tilføj genvej
+    .title = Tilføj genvej
 newtab-shortcuts-pinned-area = Fastgjort område
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
@@ -327,9 +302,6 @@ newtab-topsites-image-url-label = URL til selvvalgt billede
 newtab-topsites-use-custom-image-link = Brug selvvalgt billede
 newtab-topsites-use-image-link = Brug selvvalgt billede…
 newtab-topsites-image-validation = Kunne ikke indlæse billede. Prøv en anden URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Ryd tekst
 
@@ -367,35 +339,35 @@ newtab-topsites-hover-card-header = Beskeder fra { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Nu
 newtab-topsites-hover-card-mark-all-read =
-    .title = Marker alle som læste
     .aria-label = Marker alle som læste
+    .title = Marker alle som læste
 newtab-topsites-hover-card-settings =
-    .title = Indstillinger for beskeder
     .aria-label = Indstillinger for beskeder
+    .title = Indstillinger for beskeder
 newtab-topsites-hover-card-dismiss =
-    .title = Afvis
     .aria-label = Afvis
+    .title = Afvis
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Åbn menu
     .aria-label = Åbn menu
+    .title = Åbn menu
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Fjern
     .aria-label = Fjern
+    .title = Fjern
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Åbn menu
     .aria-label = Åbn genvejsmenuen for { $title }
+    .title = Åbn menu
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Rediger denne webside
     .aria-label = Rediger denne webside
+    .title = Rediger denne webside
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -581,8 +553,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Tak. Din tilbagemelding hjælper os med at forbedre dit feed.
 newtab-toast-dismiss-button =
-    .title = Afvis
     .aria-label = Afvis
+    .title = Afvis
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -601,13 +573,13 @@ newtab-custom-shortcuts-title = Genveje
 newtab-custom-shortcuts-subtitle = Gemte eller besøgte websteder
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Genveje
     .description = Gemte eller besøgte websteder
+    .label = Genveje
 newtab-custom-shortcuts-nova =
     .label = Genveje
 newtab-custom-web-notifications-toggle =
-    .label = Webbeskeder
     .description = Vis beskeder fra dine websteder på deres genveje
+    .label = Webbeskeder
 newtab-custom-row-description =
     .description = Antal rækker
 # Variables
@@ -631,8 +603,8 @@ newtab-custom-pocket-title = Anbefalet af { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Interessant indhold udvalgt af { -pocket-brand-name }, en del af { -brand-product-name }-familien
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Anbefalede historier
     .description = Interessant indhold udvalgt af { -brand-product-name }-holdet
+    .label = Anbefalede historier
 newtab-recommended-stories-toggle =
     .label = Anbefalede historier
 newtab-custom-stories-personalized-toggle =
@@ -645,8 +617,8 @@ newtab-custom-pocket-show-recent-saves = Vis seneste gemte
 newtab-custom-recent-title = Seneste aktivitet
 newtab-custom-recent-subtitle = Et udvalg af seneste websteder og indhold
 newtab-custom-weather-toggle =
-    .label = Vejr
     .description = Dagens vejrudsigt
+    .label = Vejr
 newtab-custom-widget-weather-toggle =
     .label = Vejr
 newtab-custom-widget-lists-toggle =
@@ -669,13 +641,10 @@ newtab-widget-manage-widget-button =
     .label = Håndter widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Luk
     .aria-label = Luk menu
+    .title = Luk
 newtab-custom-close-button = Luk
 newtab-custom-settings = Håndter flere indstillinger
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Udseende
 # Button that opens the full browser theme selection view.
@@ -788,14 +757,11 @@ newtab-wallpaper-feature-highlight-content = Opdater siden Nyt faneblad med bagg
 newtab-wallpaper-feature-highlight-button = Forstået
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Annuller
     .aria-label = Luk pop op
+    .title = Annuller
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -822,8 +788,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponsoreret
 newtab-weather-menu-change-location = Skift sted
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Søg efter sted
     .aria-label = Søg efter sted
+    .placeholder = Søg efter sted
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Brug nuværende placering
@@ -867,8 +833,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Se vejrudsigter på { $provider }
     .aria-description = { $provider } ∙ Sponsoreret
+    .title = Se vejrudsigter på { $provider }
 
 ## Topic Labels
 
@@ -1068,8 +1034,8 @@ newtab-widget-lists-menu-copy = Kopier liste til udklipsholderen
 newtab-widget-lists-menu-learn-more = Læs mere
 newtab-widget-lists-button-add-item = Tilføj et element
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Tilføj et element
     .aria-label = Tilføj et element
+    .placeholder = Tilføj et element
 newtab-widget-lists-input-error = Inkluder tekst for at tilføje et element.
 newtab-widget-lists-input-menu-open-link = Åbn link
 newtab-widget-lists-input-menu-move-up = Flyt op
@@ -1091,12 +1057,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Opgaveliste
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Tjekliste
     .aria-label = Rediger listens navn
+    .placeholder = Tjekliste
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Ny liste
     .aria-label = Rediger listens navn
+    .placeholder = Ny liste
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Skjul widgets
 newtab-widget-menu-change-size = Skift størrelse
@@ -1114,17 +1080,17 @@ newtab-widget-size-medium = Mellem
 newtab-widget-size-large = Stor
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Skjul widgets
     .aria-label = Skjul alle widgets
+    .title = Skjul widgets
 newtab-widget-section-maximize =
-    .title = Udvid widgets
     .aria-label = Udvid alle widgets til fuld størrelse
+    .title = Udvid widgets
 newtab-widget-section-minimize =
-    .title = Minimer widgets
     .aria-label = Sammenfold alle widgets til kompakt størrelse
+    .title = Minimer widgets
 newtab-widget-section-menu-button =
-    .title = Widgets-menu
     .aria-label = Åbn widgets-menu
+    .title = Widgets-menu
 newtab-widget-add-widgets-button =
     .aria-label = Tilføj widget
     .title = Tilføj widget
@@ -1180,11 +1146,8 @@ newtab-promo-card-title = Støt { -brand-product-name }
 newtab-promo-card-body = Vores sponsorer støtter vores mission om at bygge et bedre internet
 newtab-promo-card-cta = Lær mere
 newtab-promo-card-dismiss-button =
-    .title = Afvis
     .aria-label = Afvis
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Afvis
 newtab-widget-timer-pause-aria =
     .aria-label = Sæt timer på pause
 # Variables:
@@ -1236,8 +1199,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Vælg en baggrund
 newtab-sports-widget-skip = Spring over
 newtab-sports-widget-search-country =
-    .placeholder = Søg efter land
     .aria-label = Søg efter land
+    .placeholder = Søg efter land
 newtab-sports-widget-cancel = Annuller
 newtab-sports-widget-back-button =
     .aria-label = Tilbage
@@ -1304,8 +1267,8 @@ newtab-sports-widget-quarter-finals = Kvartfinaler
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
-    .title = Opdater scorer
     .aria-label = Opdater scorer
+    .title = Opdater scorer
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Vigtige datoer
 newtab-sports-widget-upcoming = Kommende
@@ -1319,10 +1282,10 @@ newtab-sports-widget-final = Finale
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Forsinket
 newtab-sports-widget-postponed = Udsat
 newtab-sports-widget-suspended = Suspenderet
@@ -1450,8 +1413,8 @@ newtab-sports-widget-message-survey-title = Hjælp os med at gøre widgets bedre
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Afvis
     .aria-label = Afvis
+    .title = Afvis
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1475,27 +1438,27 @@ newtab-clock-widget-menu-switch-to-12h = Skift til 12-timers format
 newtab-clock-widget-menu-switch-to-24h = Skift til 24-timers format
 newtab-clock-widget-label-your-clocks = Dine ure
 newtab-clock-widget-search-location-input =
+    .aria-label = Søg efter en by
     .label = Sted
     .placeholder = Søg efter en by
-    .aria-label = Søg efter en by
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Tilføj nyt ur
     .aria-label = Tilføj nyt ur
+    .title = Tilføj nyt ur
 newtab-clock-widget-button-add-clock = Tilføj
 newtab-clock-widget-button-cancel = Annuller
 newtab-clock-widget-button-back =
-    .title = Tilbage
     .aria-label = Tilbage
+    .title = Tilbage
 newtab-clock-widget-button-edit-clock =
-    .title = Rediger ur
     .aria-label = Rediger ur
+    .title = Rediger ur
 newtab-clock-widget-button-save = Gem
 newtab-clock-widget-button-remove-clock =
-    .title = Fjern ur
     .aria-label = Fjern ur
+    .title = Fjern ur
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.

@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկութիւնը
 
@@ -160,9 +157,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Աւելացրնել « { $engineName } » որոնման ծրագիրը
     .label = Աւելացնել « { $engineName } »-ը
     .tooltiptext = Աւելացնել « { $engineName } » որոնման ծրագիրը
-    .aria-label = Աւելացրնել « { $engineName } » որոնման ծրագիրը
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -368,28 +365,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Փնտրէք համացանցում
     .aria-label = Փնտրէք { $name }֊ի միջոցով
+    .placeholder = Փնտրէք համացանցում
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Գրանցէք որոնման պայմանները
     .aria-label = Որոնել { $name }
+    .placeholder = Գրանցէք որոնման պայմանները
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Գրանցէք որոնման պայմանները
     .aria-label = Որոնել էջանիշները
+    .placeholder = Գրանցէք որոնման պայմանները
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Գրանցէք որոնման պայմանները
     .aria-label = Որոնման պատմութիւն
+    .placeholder = Գրանցէք որոնման պայմանները
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Գրանցէք որոնման պայմանները
     .aria-label = Որոնման ներդիրներ
+    .placeholder = Գրանցէք որոնման պայմանները
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -469,9 +466,6 @@ urlbar-searchmode-tabs =
     .label = Ներդիրներ
 urlbar-searchmode-history =
     .label = Պատմութիւն
-urlbar-searchmode-bookmarks2 = Էջանիշեր
-urlbar-searchmode-tabs2 = Ներդիրներ
-urlbar-searchmode-history2 = Պատմութիւն
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -579,9 +573,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Էջանիշներ
     .toolbarname = Էջանիշների գործեգաւտում
     .accesskey = B
-    .aria-label = Էջանիշներ
 bookmarks-toolbar-menu =
     .label = Էջանիշների գործեգաւտի
 bookmarks-toolbar-placeholder =
@@ -702,9 +696,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = ձ
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

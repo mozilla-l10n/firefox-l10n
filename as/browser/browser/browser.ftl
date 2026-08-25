@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = ছাইটৰ তথ্য চাওক
 
@@ -160,9 +157,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = “{ $engineName }” ছাৰ্চ ইঞ্জিন যোগ কৰক
     .label = “{ $engineName }” যোগ কৰক
     .tooltiptext = “{ $engineName }” ছাৰ্চ ইঞ্জিন যোগ কৰক
-    .aria-label = “{ $engineName }” ছাৰ্চ ইঞ্জিন যোগ কৰক
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -366,28 +363,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = ৱেবত সন্ধান কৰক
     .aria-label = { $name }-এৰে সন্ধান কৰক
+    .placeholder = ৱেবত সন্ধান কৰক
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = সন্ধানৰ পদ লিখক
     .aria-label = { $name }-ৰ সন্ধান কৰক
+    .placeholder = সন্ধানৰ পদ লিখক
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = সন্ধানৰ পদ লিখক
     .aria-label = বুকমাৰ্কৰ সন্ধান কৰক
+    .placeholder = সন্ধানৰ পদ লিখক
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = সন্ধানৰ পদ লিখক
     .aria-label = সন্ধানৰ ইতিহাস
+    .placeholder = সন্ধানৰ পদ লিখক
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = সন্ধানৰ পদ লিখক
     .aria-label = টেবৰ সন্ধান কৰক
+    .placeholder = সন্ধানৰ পদ লিখক
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -467,9 +464,6 @@ urlbar-searchmode-tabs =
     .label = টেবসমূহ
 urlbar-searchmode-history =
     .label = ইতিহাস
-urlbar-searchmode-bookmarks2 = বুকমাৰ্কসমূহ
-urlbar-searchmode-tabs2 = টেবসমূহ
-urlbar-searchmode-history2 = ইতিহাস
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -577,9 +571,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = বুকমাৰ্কসমূহ
     .toolbarname = বুকমাৰ্কৰ টুলবাৰ
     .accesskey = B
-    .aria-label = বুকমাৰ্কসমূহ
 bookmarks-toolbar-menu =
     .label = পত্ৰচিহ্ন টুলবাৰ
 bookmarks-toolbar-placeholder =
@@ -690,9 +684,6 @@ picture-in-picture-hide-toggle =
     .accesskey = H
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

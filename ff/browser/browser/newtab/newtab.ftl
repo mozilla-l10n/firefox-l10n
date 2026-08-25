@@ -45,8 +45,8 @@ home-prefs-highlights-option-most-recent-download-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Yiylo
     .aria-label = Yiylo
+    .title = Yiylo
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -82,22 +82,22 @@ newtab-confirm-delete-history-p2 = Ngal baɗal waawaa firteede.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Uddit cuɓirgol
     .aria-label = Uddit cuɓirgol
+    .title = Uddit cuɓirgol
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Momtu
     .aria-label = Momtu
+    .title = Momtu
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Uddit cuɓirgol
     .aria-label = Uddit dosol ngonka wonande { $title }
+    .title = Uddit cuɓirgol
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Taƴto ndee lowre
     .aria-label = Taƴto ndee lowre
+    .title = Taƴto ndee lowre
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 

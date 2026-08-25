@@ -14,10 +14,10 @@
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } گشتن سیخومی
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } گشتن سیخومی
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } گشتن سیخومی
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -36,10 +36,10 @@ browser-main-window-window-titles =
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — گشتن سیخومی
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — گشتن سیخومی
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — گشتن سیخومی
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -69,14 +69,14 @@ browser-shortcut-description = گشتن وب زل وو سیخومی
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } گشتن سیخومی
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } گشتن سیخومی
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } گشتن سیخومی
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } گشتن سیخومی
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } گشتن سیخومی
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } گشتن سیخومی
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } گشتن سیخومی
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -101,14 +101,14 @@ browser-main-window-titles =
 #  $content-title (String): the title of the web content.
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — گشتن سیخومی
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } گشتن سیخومی
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — گشتن سیخومی
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private = { $content-title } — گشتن سیخومی
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — گشتن سیخومی
+    .data-title-default = { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private = { -brand-full-name } — گشتن سیخومی
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } گشتن سیخومی
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -128,9 +128,6 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = دؽوۉداری سامووا نیمدری یل گۊشیڌنی وو آلشت تورا شخس سالس…
     .accesskey = M
-
-##
-
 urlbar-identity-button =
     .aria-label = نیشتن دووسمندیا وبگه
 
@@ -327,8 +324,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = نشووک ناهاڌن ای بلگه ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = نما تقسیم وابیڌه
     .aria-label = نما تقسیم وابیڌه
+    .tooltiptext = نما تقسیم وابیڌه
 
 ## Searchbar context menu
 
@@ -381,9 +378,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = ٱووردن موتور پیتینیڌن «{ $engineName }»
     .label = ٱووردن «{ $engineName }»
     .tooltiptext = ٱووردن موتور پیتینیڌن «{ $engineName }»
-    .aria-label = ٱووردن موتور پیتینیڌن «{ $engineName }»
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -735,32 +732,32 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = پیتینیڌن من وب
     .aria-label = پیتینیڌن وا { $name }
+    .placeholder = پیتینیڌن من وب
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = هؽل پیتینیڌن ن بزنین
     .aria-label = پیتینیڌن { $name }
+    .placeholder = هؽل پیتینیڌن ن بزنین
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = هؽل پیتینیڌن ن بزنین
     .aria-label = پیتینیڌن نشووکا
+    .placeholder = هؽل پیتینیڌن ن بزنین
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = هؽل پیتینیڌن ن بزنین
     .aria-label = پیتینیڌن ویرگار
+    .placeholder = هؽل پیتینیڌن ن بزنین
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = هؽل پیتینیڌن ن بزنین
     .aria-label = پیتینیڌن بلگه یل
+    .placeholder = هؽل پیتینیڌن ن بزنین
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = هؽل پیتینیڌن ن بزنین
     .aria-label = پیتینیڌن کارا
+    .placeholder = هؽل پیتینیڌن ن بزنین
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -861,7 +858,7 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
 #  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -910,11 +907,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · هؽزگری وابیڌه
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = پۊرسیڌن
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the result is bookmarked. The date will be
 # formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
@@ -1053,10 +1045,6 @@ urlbar-searchmode-history3 = ویرگار
     .accesskey = H
 urlbar-searchmode-actions3 = کارا
     .accesskey = A
-urlbar-searchmode-bookmarks2 = نشووکا
-urlbar-searchmode-tabs2 = بلگه یل
-urlbar-searchmode-history2 = ویرگار
-urlbar-searchmode-actions2 = کارا
 urlbar-searchmode-exit-button2 =
     .title = بستن
 urlbar-searchmode-default2 =
@@ -1076,8 +1064,6 @@ urlbar-searchmode-popup-search-settings = پیتینیڌن سامووا
     .accesskey = S
 urlbar-searchmode-popup-settings = سامووا
     .accesskey = S
-urlbar-searchmode-popup-search-settings-panelitem = پیتینیڌن سامووا
-urlbar-searchmode-popup-settings-panelitem = سامووا
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1244,9 +1230,9 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = نشووکا
     .toolbarname = نوار ٱوزار نشووکا
     .accesskey = B
-    .aria-label = نشووکا
 bookmarks-toolbar-menu =
     .label = نوار ٱوزار نشووکا
 bookmarks-toolbar-placeholder =
@@ -1415,9 +1401,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1620,13 +1603,6 @@ popup-trigger-redirect-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = نشووݩ داڌن من دوبلگه
     .accessKey = F
@@ -1671,9 +1647,6 @@ trustpanel-blocker-see-all = نیشتن پوی
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = زفت وابیڌنا جلاو رڌجۊری سی { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = साइट की जानकारी देखें
 
@@ -384,9 +381,6 @@ urlbar-searchmode-tabs =
     .label = टैब
 urlbar-searchmode-history =
     .label = इतिहास
-urlbar-searchmode-bookmarks2 = बुकमार्क
-urlbar-searchmode-tabs2 = टैब
-urlbar-searchmode-history2 = इतिहास
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -474,9 +468,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = बुकमार्क
     .toolbarname = बुकमार्क औज़ारपट्टी
     .accesskey = B
-    .aria-label = बुकमार्क
 bookmarks-toolbar-menu =
     .label = बुकमार्क औज़ारपट्टी
 bookmarks-toolbar-placeholder =
@@ -556,9 +550,6 @@ popups-infobar-dont-show-message =
     .accesskey = डी
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

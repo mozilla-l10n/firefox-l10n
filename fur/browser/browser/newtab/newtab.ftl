@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Personalize
 newtab-customize-panel-label =
     .label = Personalize
 newtab-personalize-settings-icon-label =
-    .title = Personalize Gnove schede
     .aria-label = Impostazions
+    .title = Personalize Gnove schede
 newtab-settings-dialog-label =
     .aria-label = Impostazions
 newtab-personalize-icon-label =
-    .title = Personalize gnove schede
     .aria-label = Personalize gnove schede
+    .title = Personalize gnove schede
 newtab-personalize-dialog-label =
     .aria-label = Personalize
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Siere
     .aria-label = Siere
+    .title = Siere
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Ricercje
 home-prefs-stories-header2 =
-    .label = Storiis
     .description = Contignûts ecezionâi curâts de famee di prodots { -brand-product-name }
+    .label = Storiis
 home-prefs-widgets-header =
     .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -152,66 +152,12 @@ home-prefs-support-firefox-header-srd =
     .label = Prudele { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Scuvierç cemût
 
-## Strings for the Privacy widget
-
-
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
-## Strings for the Stocks widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
-
-## Strings for the Picture of the Day widget
-
-
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Cîr
     .aria-label = Cîr
+    .title = Cîr
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cîr cun { $engine } o inserìs la direzion
@@ -219,17 +165,17 @@ newtab-search-box-handoff-text-no-engine = Cîr o inserìs la direzion
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Cîr cun { $engine } o inserìs la direzion
     .placeholder = Cîr cun { $engine } o inserìs la direzion
     .title = Cîr cun { $engine } o inserìs la direzion
-    .aria-label = Cîr cun { $engine } o inserìs la direzion
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Cîr o inserìs la direzion
     .placeholder = Cîr o inserìs la direzion
     .title = Cîr o inserìs la direzion
-    .aria-label = Cîr o inserìs la direzion
 newtab-search-box-text = Cîr tal web
 newtab-search-box-input =
-    .placeholder = Cîr tal web
     .aria-label = Cîr tal web
+    .placeholder = Cîr tal web
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -239,8 +185,8 @@ newtab-topsites-edit-topsites-header = Modifiche sît principâl
 newtab-topsites-edit-shortcut-header = Modifiche scurte
 newtab-topsites-add-shortcut-label = Zonte scurte
 newtab-topsites-add-shortcut-title =
-    .title = Zonte scurte
     .aria-label = Zonte scurte
+    .title = Zonte scurte
 newtab-topsites-title-label = Titul
 newtab-topsites-title-input =
     .placeholder = Inserìs un titul
@@ -252,9 +198,6 @@ newtab-topsites-image-url-label = URL di imagjin personalizade
 newtab-topsites-use-custom-image-link = Dopre une imagjin personalizade
 newtab-topsites-use-image-link = Dopre une imagjin personalizade…
 newtab-topsites-image-validation = No si à rivât a cjariâ la imagjin. Prove cuntun URL diferent.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Nete test
 
@@ -284,29 +227,26 @@ topsite-label-pinned =
     .aria-label = { $title } (fissât)
     .title = { $title }
 
-## Top Sites - Web notifications hover card
-
-
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Vierç menù
     .aria-label = Vierç menù
+    .title = Vierç menù
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Gjave
     .aria-label = Gjave
+    .title = Gjave
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Vierç menù
     .aria-label = Vierç il menù contestuâl par { $title }
+    .title = Vierç menù
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Modifiche chest sît
     .aria-label = Modifiche chest sît
+    .title = Modifiche chest sît
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -491,8 +431,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Graciis. La tô opinion nus judarà a miorâ il to feed.
 newtab-toast-dismiss-button =
-    .title = Siere
     .aria-label = Scarte
+    .title = Siere
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -511,8 +451,8 @@ newtab-custom-shortcuts-title = Scurtis
 newtab-custom-shortcuts-subtitle = Sîts che tu âs salvât o visitât
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Scurtis
     .description = Sîts che tu âs salvât o visitât
+    .label = Scurtis
 newtab-custom-shortcuts-nova =
     .label = Scurtis
 newtab-custom-row-description =
@@ -538,8 +478,8 @@ newtab-custom-pocket-title = Conseâts di { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contignûts ecezionâi curâts di { -pocket-brand-name }, part de famee { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Storiis conseadis
     .description = Contignûts ecezionâl curât de famee di prodots { -brand-product-name }
+    .label = Storiis conseadis
 newtab-recommended-stories-toggle =
     .label = Storiis conseadis
 newtab-custom-stories-personalized-toggle =
@@ -552,8 +492,8 @@ newtab-custom-pocket-show-recent-saves = Mostre salvaments resints
 newtab-custom-recent-title = Ativitât resinte
 newtab-custom-recent-subtitle = Une selezion di sîts e contignûts resints
 newtab-custom-weather-toggle =
-    .label = Meteo
     .description = Previsions par vuê cuntune voglade
+    .label = Meteo
 newtab-custom-widget-weather-toggle =
     .label = Meteo
 newtab-custom-widget-lists-toggle =
@@ -572,13 +512,10 @@ newtab-widget-manage-widget-button =
     .label = Gjestìs widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Siere
     .aria-label = Siere menù
+    .title = Siere
 newtab-custom-close-button = Siere
 newtab-custom-settings = Gjestìs plui impostazions
-
-## New Tab Appearance (browser theme picker)
-
 
 ## New Tab Wallpapers
 
@@ -671,14 +608,11 @@ newtab-wallpaper-feature-highlight-content = Da un aspiet diviers aes tôs gnovi
 newtab-wallpaper-feature-highlight-button = Capît
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Siere
     .aria-label = Siere barcon a comparse
+    .title = Siere
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -705,8 +639,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Sponsorizât
 newtab-weather-menu-change-location = Cambie localitât
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Cîr localitât
     .aria-label = Cîr localitât
+    .placeholder = Cîr localitât
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Dopre la posizion atuâl
@@ -750,8 +684,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Viôt lis previsions in { $provider }
     .aria-description = { $provider } ∙ Sponsorizât
+    .title = Viôt lis previsions in { $provider }
 
 ## Topic Labels
 
@@ -952,8 +886,8 @@ newtab-widget-lists-menu-copy = Copie liste intes notis
 newtab-widget-lists-menu-learn-more = Plui informazions
 newtab-widget-lists-button-add-item = Zonte un element
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Zonte un element
     .aria-label = Zonte un element
+    .placeholder = Zonte un element
 newtab-widget-lists-input-error = Inclût test par zontâ un element.
 newtab-widget-lists-input-menu-open-link = Vierç colegament
 newtab-widget-lists-input-menu-move-up = Sposte in sù
@@ -975,12 +909,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Liste di ativitâts
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Liste di control
     .aria-label = Modifiche non de liste
+    .placeholder = Liste di control
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Gnove liste
     .aria-label = Modifiche non liste
+    .placeholder = Gnove liste
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Plate widgets
 newtab-widget-menu-change-size = Cambie dimension
@@ -998,17 +932,17 @@ newtab-widget-size-medium = Medie
 newtab-widget-size-large = Grande
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Plate widgets
     .aria-label = Plate ducj i widgets
+    .title = Plate widgets
 newtab-widget-section-maximize =
-    .title = Slargje widgets
     .aria-label = Slargje ducj i widgets ae dimension massime
+    .title = Slargje widgets
 newtab-widget-section-minimize =
-    .title = Minimize widgets
     .aria-label = Strenç ducj i widgets ae dimension compate
+    .title = Minimize widgets
 newtab-widget-section-menu-button =
-    .title = Menù widgets
     .aria-label = Vierç menù dai widgets
+    .title = Menù widgets
 newtab-widget-add-widgets-button =
     .aria-label = Zonte widget
     .title = Zonte widget
@@ -1067,11 +1001,8 @@ newtab-promo-card-title = Prudele { -brand-product-name }
 newtab-promo-card-body = I nestris patrocinadôrs nus supuartin te nestre mission di fâ sù un web miôr
 newtab-promo-card-cta = Plui informazions
 newtab-promo-card-dismiss-button =
-    .title = Siere
     .aria-label = Scarte e siere
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Siere
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1139,8 +1070,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Sielç un fonts
 newtab-sports-widget-skip = Salte
 newtab-sports-widget-search-country =
-    .placeholder = Cîr nazion
     .aria-label = Cîr nazion
+    .placeholder = Cîr nazion
 newtab-sports-widget-cancel = Anule
 newtab-sports-widget-back-button =
     .aria-label = Indaûr
@@ -1207,8 +1138,8 @@ newtab-sports-widget-quarter-finals = Cuarts di finâl
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = DIRETE
 newtab-custom-widget-live-refresh =
-    .title = Inzorne risultâts
     .aria-label = Inzorne risultâts
+    .title = Inzorne risultâts
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Datis impuartantis
 newtab-sports-widget-upcoming = Daûr a rivâ
@@ -1222,10 +1153,10 @@ newtab-sports-widget-final = Finâl
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = In ritart
 newtab-sports-widget-postponed = Posticipade
 newtab-sports-widget-suspended = Sospindude
@@ -1346,17 +1277,14 @@ newtab-sports-widget-message-day-in-play-body = Sta daûr de cope dal mont, rest
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Esplore i widgets
 
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Siere
     .aria-label = Siere
+    .title = Siere
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1381,34 +1309,34 @@ newtab-clock-widget-menu-switch-to-12h = Passe al formât di 12 oris
 newtab-clock-widget-menu-switch-to-24h = Passe al formât di 24 oris
 newtab-clock-widget-label-your-clocks = I tiei orlois
 newtab-clock-widget-search-location-input =
+    .aria-label = Cîr une citât
     .label = Posizion
     .placeholder = Cîr une citât
-    .aria-label = Cîr une citât
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Sorenon (facoltatîf)
     .label = Sorenon (facoltatîf)
     .placeholder = Zonte un sorenon
-    .aria-label = Sorenon (facoltatîf)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Zonte gnûf orloi
     .aria-label = Zonte gnûf orloi
+    .title = Zonte gnûf orloi
 newtab-clock-widget-button-add-clock = Zonte
 newtab-clock-widget-button-cancel = Anule
 newtab-clock-widget-button-back =
-    .title = Indaûr
     .aria-label = Indaûr
+    .title = Indaûr
 newtab-clock-widget-button-edit-clock =
-    .title = Modifiche orloi
     .aria-label = Modifiche orloi
+    .title = Modifiche orloi
 newtab-clock-widget-button-save = Salve
 newtab-clock-widget-button-remove-clock =
-    .title = Gjave orloi
     .aria-label = Gjave orloi
+    .title = Gjave orloi
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1439,8 +1367,8 @@ newtab-clock-widget-search-no-results = Nissune corispondence
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Vierç il menù pal orloi
     .aria-label = Vierç il menù pal orloi
+    .title = Vierç il menù pal orloi
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Sorenon: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the

@@ -35,8 +35,8 @@ home-prefs-highlights-option-visited-pages-srd =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Nduku
     .aria-label = Nduku
+    .title = Nduku
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -60,18 +60,18 @@ newtab-topsites-add-button = Chikaa
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Kuna menú
     .aria-label = Kuna menú
+    .title = Kuna menú
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Kuna menú
     .aria-label = Kuna menú contextual takua { $title }
+    .title = Kuna menú
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Sama sitio yo
     .aria-label = Sama sitio yo
+    .title = Sama sitio yo
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 

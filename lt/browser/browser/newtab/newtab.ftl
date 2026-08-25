@@ -9,8 +9,8 @@ newtab-page-title = Nauja kortelė
 newtab-settings-button =
     .title = Tinkinkite savo naujos kortelės puslapį
 newtab-personalize-icon-label =
-    .title = Tinkinti naują kortelę
     .aria-label = Tinkinti naują kortelę
+    .title = Tinkinti naują kortelę
 newtab-personalize-dialog-label =
     .aria-label = Tinkinti
 
@@ -63,8 +63,8 @@ home-prefs-recent-activity-select =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Ieškoti
     .aria-label = Ieškoti
+    .title = Ieškoti
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Įveskite adresą arba ieškokite per „{ $engine }“
@@ -72,17 +72,17 @@ newtab-search-box-handoff-text-no-engine = Įveskite adresą arba paieškos žod
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Įveskite adresą arba ieškokite per „{ $engine }“
     .placeholder = Įveskite adresą arba ieškokite per „{ $engine }“
     .title = Įveskite adresą arba ieškokite per „{ $engine }“
-    .aria-label = Įveskite adresą arba ieškokite per „{ $engine }“
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Įveskite adresą arba paieškos žodžius
     .placeholder = Įveskite adresą arba paieškos žodžius
     .title = Įveskite adresą arba paieškos žodžius
-    .aria-label = Įveskite adresą arba paieškos žodžius
 newtab-search-box-text = Ieškokite saityne
 newtab-search-box-input =
-    .placeholder = Ieškokite saityne
     .aria-label = Ieškokite saityne
+    .placeholder = Ieškokite saityne
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -124,22 +124,22 @@ newtab-topsite-sponsored = Remiama
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Atverti meniu
     .aria-label = Atverti meniu
+    .title = Atverti meniu
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Pašalinti
     .aria-label = Pašalinti
+    .title = Pašalinti
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Atverti meniu
     .aria-label = Atverti kontekstinį { $title } meniu
+    .title = Atverti meniu
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Redaguoti šią svetainę
     .aria-label = Redaguoti šią svetainę
+    .title = Redaguoti šią svetainę
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -285,8 +285,8 @@ newtab-custom-shortcuts-title = Leistukai
 newtab-custom-shortcuts-subtitle = Jūsų įrašytos arba lankomos svetainės
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Leistukai
     .description = Jūsų įrašytos arba lankomos svetainės
+    .label = Leistukai
 newtab-custom-shortcuts-nova =
     .label = Leistukai
 # Variables

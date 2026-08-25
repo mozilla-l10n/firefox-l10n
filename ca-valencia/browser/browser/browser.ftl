@@ -7,9 +7,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
-##
-
 urlbar-identity-button =
     .aria-label = Mostra la informació del lloc
 
@@ -160,9 +157,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
+    .aria-label = Afig el motor de cerca «{ $engineName }»
     .label = Afig «{ $engineName }»
     .tooltiptext = Afig el motor de cerca «{ $engineName }»
-    .aria-label = Afig el motor de cerca «{ $engineName }»
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -365,28 +362,28 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Cerca al web
     .aria-label = Cerca amb { $name }
+    .placeholder = Cerca al web
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Escriviu els termes de la cerca
     .aria-label = Cerca en { $name }
+    .placeholder = Escriviu els termes de la cerca
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Escriviu els termes de la cerca
     .aria-label = Cerca en les adreces d'interés
+    .placeholder = Escriviu els termes de la cerca
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Escriviu els termes de la cerca
     .aria-label = Cerca en l'historial
+    .placeholder = Escriviu els termes de la cerca
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Escriviu els termes de la cerca
     .aria-label = Cerca en les pestanyes
+    .placeholder = Escriviu els termes de la cerca
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -466,9 +463,6 @@ urlbar-searchmode-tabs =
     .label = Pestanyes
 urlbar-searchmode-history =
     .label = Historial
-urlbar-searchmode-bookmarks2 = Adreces d'interés
-urlbar-searchmode-tabs2 = Pestanyes
-urlbar-searchmode-history2 = Historial
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -576,9 +570,9 @@ bookmarks-tools =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
+    .aria-label = Adreces d'interés
     .toolbarname = Barra de les adreces d'interés
     .accesskey = B
-    .aria-label = Adreces d'interés
 bookmarks-toolbar-menu =
     .label = Barra de les adreces d'interés
 bookmarks-toolbar-placeholder =
@@ -699,9 +693,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = e
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that

@@ -16,13 +16,13 @@ newtab-customize-panel-icon-button-label = Sérsníða
 newtab-customize-panel-label =
     .label = Sérsníða
 newtab-personalize-settings-icon-label =
-    .title = Sérsníða nýjan flipa
     .aria-label = Stillingar
+    .title = Sérsníða nýjan flipa
 newtab-settings-dialog-label =
     .aria-label = Stillingar
 newtab-personalize-icon-label =
-    .title = Sérsníða nýjan flipa
     .aria-label = Sérsníða nýjan flipa
+    .title = Sérsníða nýjan flipa
 newtab-personalize-dialog-label =
     .aria-label = Sérsníða
 newtab-logo-and-wordmark =
@@ -88,8 +88,8 @@ home-prefs-mission-message-learn-more-link-srd = Finndu út hvernig
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Leita
     .aria-label = Leita
+    .title = Leita
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Leitaðu með { $engine } eða settu inn vistfang
@@ -97,17 +97,17 @@ newtab-search-box-handoff-text-no-engine = Leitaðu eða settu inn vistfang
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Leitaðu með { $engine } eða settu inn vistfang
     .placeholder = Leitaðu með { $engine } eða settu inn vistfang
     .title = Leitaðu með { $engine } eða settu inn vistfang
-    .aria-label = Leitaðu með { $engine } eða settu inn vistfang
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Leitaðu eða settu inn vistfang
     .placeholder = Leitaðu eða settu inn vistfang
     .title = Leitaðu eða settu inn vistfang
-    .aria-label = Leitaðu eða settu inn vistfang
 newtab-search-box-text = Leita á vefnum
 newtab-search-box-input =
-    .placeholder = Leita á vefnum
     .aria-label = Leita á vefnum
+    .placeholder = Leita á vefnum
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -117,8 +117,8 @@ newtab-topsites-edit-topsites-header = Breyta toppsíðu
 newtab-topsites-edit-shortcut-header = Breyta flýtilykli
 newtab-topsites-add-shortcut-label = Bæta við flýtileið
 newtab-topsites-add-shortcut-title =
-    .title = Bæta við flýtileið
     .aria-label = Bæta við flýtileið
+    .title = Bæta við flýtileið
 newtab-topsites-title-label = Titill
 newtab-topsites-title-input =
     .placeholder = Settu inn titil
@@ -161,22 +161,22 @@ topsite-label-pinned =
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Opna valmynd
     .aria-label = Opna valmynd
+    .title = Opna valmynd
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Fjarlægja
     .aria-label = Fjarlægja
+    .title = Fjarlægja
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Opna valmynd
     .aria-label = Opna samhengisvalmynd fyrir { $title }
+    .title = Opna valmynd
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Breyta þessari síðu
     .aria-label = Breyta þessari síðu
+    .title = Breyta þessari síðu
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -348,8 +348,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Takk. Álit þitt mun hjálpa okkur að bæta streymið þitt.
 newtab-toast-dismiss-button =
-    .title = Afgreiða
     .aria-label = Afgreiða
+    .title = Afgreiða
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -368,8 +368,8 @@ newtab-custom-shortcuts-title = Flýtileiðir
 newtab-custom-shortcuts-subtitle = Vefsvæði sem þú vistar eða heimsækir
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Flýtileiðir
     .description = Vefsvæði sem þú vistar eða heimsækir
+    .label = Flýtileiðir
 newtab-custom-shortcuts-nova =
     .label = Flýtileiðir
 # Variables
@@ -393,8 +393,8 @@ newtab-custom-pocket-title = Mælt með af { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Úrvalsefni í umsjón { -pocket-brand-name }, hluta af { -brand-product-name } fjölskyldunni
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Sögur sem mælt er með
     .description = Úrvalsefni sem safnað hefur verið af aðstandendum { -brand-product-name }
+    .label = Sögur sem mælt er með
 newtab-recommended-stories-toggle =
     .label = Sögur sem mælt er með
 newtab-custom-stories-personalized-toggle =
@@ -407,8 +407,8 @@ newtab-custom-pocket-show-recent-saves = Sýna nýlega vistað
 newtab-custom-recent-title = Nýleg virkni
 newtab-custom-recent-subtitle = Úrval af nýlegum síðum og efni
 newtab-custom-weather-toggle =
-    .label = Veður
     .description = Veðurspá dagsins í skyndi
+    .label = Veður
 newtab-custom-widget-weather-toggle =
     .label = Veður
 newtab-custom-widget-lists-toggle =
@@ -421,8 +421,8 @@ newtab-custom-widget-section-toggle =
 newtab-widget-manage-title = Viðmótshlutar
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Loka
     .aria-label = Loka valmynd
+    .title = Loka
 newtab-custom-close-button = Loka
 newtab-custom-settings = Sýsla með fleiri stillingar
 
@@ -515,14 +515,11 @@ newtab-wallpaper-feature-highlight-content = Gefðu nýja flipanum þínum fersk
 newtab-wallpaper-feature-highlight-button = Ég skil!
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Afgreiða
     .aria-label = Loka sprettglugga
+    .title = Afgreiða
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -549,8 +546,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Kostað
 newtab-weather-menu-change-location = Breyta staðsetningu
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Leita að staðsetningu
     .aria-label = Leita að staðsetningu
+    .placeholder = Leita að staðsetningu
 newtab-weather-menu-weather-display = Birting veðurs
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -579,8 +576,8 @@ newtab-weather-static-city = New York borg
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Sjá veðurspá í { $provider }
     .aria-description = { $provider } ∙ Kostað
+    .title = Sjá veðurspá í { $provider }
 
 ## Topic Labels
 
@@ -731,8 +728,8 @@ newtab-widget-lists-menu-copy = Afrita lista á klippispjald
 newtab-widget-lists-menu-learn-more = Frekari upplýsingar
 newtab-widget-lists-button-add-item = Bæta við atriði
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Bæta við atriði
     .aria-label = Bæta við atriði
+    .placeholder = Bæta við atriði
 newtab-widget-lists-input-error = Settu inn texta til að bæta við atriði.
 newtab-widget-lists-input-menu-open-link = Opna tengil
 newtab-widget-lists-input-menu-move-up = Færa upp
@@ -748,8 +745,8 @@ newtab-widget-lists-name-placeholder-default =
     .placeholder = Verkefnalisti
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Nýr listi
     .aria-label = Breyta heiti á lista
+    .placeholder = Nýr listi
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -777,8 +774,8 @@ newtab-promo-card-title = Styddu við { -brand-product-name }
 newtab-promo-card-body = Styrktaraðilar okkar styðja markmið okkar að byggja upp betri vef
 newtab-promo-card-cta = Fræðast meira
 newtab-promo-card-dismiss-button =
-    .title = Afgreiða
     .aria-label = Afgreiða
+    .title = Afgreiða
 
 ## Strings for the Clock widget
 
