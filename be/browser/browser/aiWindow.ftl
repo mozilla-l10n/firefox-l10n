@@ -327,9 +327,18 @@ aiwindow-feedback-modal-title = Падзяліцца водгукам
 aiwindow-feedback-what-worked-well = Што атрымалася добра? Калі ласка, ніякай асабістай інфармацыі.
 aiwindow-feedback-choose-any = Выберыце любыя адпаведныя
 aiwindow-feedback-add-details = Дадайце падрабязнасці, калі хочаце. Калі ласка, без асабістай інфармацыі.
+aiwindow-feedback-disclaimer = Дасылаючы, вы дзяліцеся сваім водгукам і гэтым чатам, каб дапамагчы { -brand-shorter-name } палепшыць { -smart-window-brand-name }. Вашы іншыя чаты застаюцца прыватнымі. <a data-l10n-name="learn-more">Падрабязней</a>
 aiwindow-feedback-submit = Даслаць
 aiwindow-feedback-cancel = Скасаваць
+aiwindow-feedback-reason-incorrect-or-misleading = Няправільна або ўводзіць у зман
+aiwindow-feedback-reason-doesnt-address-my-request = Не адказвае на мой запыт
+aiwindow-feedback-reason-lacks-personalization = Не хапае персаналізацыі або кантэксту
+aiwindow-feedback-reason-performance-or-usability = Праблема з прадукцыйнасцю або зручнасцю выкарыстання
+aiwindow-feedback-reason-harmful-or-offensive = Шкодна або абразліва
 aiwindow-feedback-reason-other = Іншае
+aiwindow-feedback-preview-report = Паглядзець чат падрабязна
+aiwindow-feedback-preview-report-with-page = Паглядзець чат і звесткі пра старонку
+aiwindow-feedback-include-page-content = Падзяліцца старонкамі, на якія спасылаюцца ў гэтым чаце
 
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.
