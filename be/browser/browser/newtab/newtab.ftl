@@ -419,6 +419,17 @@ newtab-stocks-search-back-button =
 newtab-stocks-search-no-results = Няма вынікаў для «{ $query }»
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Загрузка…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Не ўдаецца знайсці зараз. Паспрабуйце пазней.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Вы можаце дадаць да { $limit } акцыі. Выдаліце адну, каб дадаць іншую.
+        [few] Вы можаце дадаць да { $limit } акцый. Выдаліце адну, каб дадаць іншую.
+       *[many] Вы можаце дадаць да { $limit } акцый. Выдаліце адну, каб дадаць іншую.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -474,6 +485,11 @@ newtab-picture-image-alt = Фота дня з Wikimedia Commons
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Нядаўнія пошукі
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Параметры нядаўніх пошукаў
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Падрабязней
 
 ## Search box component.
 
@@ -847,6 +863,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Акцыі
 newtab-custom-widget-picture-toggle =
     .label = Фота дня
+newtab-custom-widget-recent-searches-toggle =
+    .label = Нядаўнія пошукі
 newtab-custom-widget-section-title = Віджэты
 newtab-custom-widget-section-toggle =
     .label = Віджэты

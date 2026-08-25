@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Пошук у { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Шукаць з…
 aiwindow-input-cta-search-submenu-header = Пошук
 aiwindow-input-cta-stop-button =
-    .title = Спыніць адказ
     .aria-label = Спыніць генерацыю адказаў
+    .title = Спыніць адказ
 
 ## Smartbar
 
@@ -99,6 +99,7 @@ aiwindow-website-chip-remove-button =
 aiwindow-firstrun-title = Вітаем у { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Што для вас важна?
 aiwindow-firstrun-model-title-v2 = Выберыце мадэль для пачатку
+aiwindow-firstrun-model-subtitle = Выберыце мадэль для { -smart-window-brand-name }. Пераключайцеся ў любы час.
 aiwindow-firstrun-model-fast-label = Хуткая
 aiwindow-firstrun-model-fast-body = Адказвае хутка
 # $shortName (string) - The short name of the model version
@@ -180,12 +181,12 @@ aiwindow-fullpage-more =
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Чаты
     .aria-label = Чаты
+    .label = Чаты
     .tooltiptext = Чаты
 smartwindow-footer-history =
-    .label = Гісторыя
     .aria-label = Гісторыя
+    .label = Гісторыя
     .tooltiptext = Гісторыя
 
 ## Disclaimer
@@ -216,8 +217,8 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Вылучыць усе
     .aria-label = Вылучыць усе
+    .label = Вылучыць усе
 smart-window-confirm-close-tab = Закрыць
 # Variables
 #   $count (number) - Number of tabs to close
