@@ -37,6 +37,10 @@ aiwindow-firstrun-model-title = Kas Tev ir svarīgs?
 aiwindow-firstrun-button = Aiziet
 aiwindow-firstrun-back-button = Atpakaļ
 
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-no-create = Sapratu. { -smart-window-brand-name } neveidos atmiņas. To jebkurā laikā var mainīt iestatījumos.
+
 ## Fullpage top actions
 ## Labeled buttons shown at the top of the fullpage Smart Window.
 

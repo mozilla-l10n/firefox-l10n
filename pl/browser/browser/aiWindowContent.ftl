@@ -210,3 +210,43 @@ action-log-searched-history = Przeszukano historię
 action-log-reading-page = Czytanie strony
 # Read is past tense, to indicate that the action has been completed.
 action-log-read-page = Przeczytano treść strony
+action-log-searching-web = Przeszukiwanie Internetu
+action-log-searched-web = Przeszukano Internet
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Przeszukiwanie Internetu za pomocą <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Przeszukano Internet za pomocą <a data-l10n-name="exa-link">Exa</a>
+action-log-checking-memories = Przeszukiwanie zapamiętanych treści
+action-log-checked-memories = Przeszukano zapamiętane treści
+action-log-searching-settings = Przeszukiwanie ustawień
+action-log-searched-settings = Przeszukano ustawienia
+action-log-searching-world-cup-matches = Przeszukiwanie meczów mistrzostw świata
+action-log-searched-world-cup-matches = Przeszukano mecze mistrzostw świata
+action-log-checking-world-cup-live = Przeszukiwanie trwających meczów mistrzostw świata
+action-log-checked-world-cup-live = Przeszukano trwające mecze mistrzostw świata
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Ukończono jeden krok
+        [few] Ukończono { $count } kroki
+       *[many] Ukończono { $count } kroków
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Wczytano wyniki wyszukiwania w tej karcie. Analizowanie…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } więcej

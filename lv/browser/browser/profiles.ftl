@@ -144,7 +144,7 @@ profiles-cyan-theme = Gaišzils
 profiles-cyan-theme-title =
     .title = Lietot gaišzilo motīvu
 profiles-custom-theme-title =
-    .title = Lietot pielāgotu motīvu
+    .title = Pielietot pielāgotu izskatu
 
 ## Data collection settings changed (multi-profile)
 

@@ -193,7 +193,7 @@ downloads-private-browsing-delete-button =
     .accesskey = D
 downloads-private-browsing-accept-button =
     .label = Sapratu
-    .accesskey = G
+    .accesskey = S
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

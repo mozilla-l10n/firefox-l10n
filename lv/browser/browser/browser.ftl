@@ -262,7 +262,7 @@ urlbar-dismissal-acknowledgment-weather = Paldies par atsauksmi! Tev vairs netik
 urlbar-search-tips-onboard = Raksti mazāk, atrodi vairāk: meklē ar { $engineName } adreses joslā!
 urlbar-search-tips-redirect-2 = Sāc meklēšanu adreses joslā, lai redzētu ieteikumus no { $engineName } un pārlūkošanas vēstures!
 # Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Meklēšana ir kļuvusi vienkāršāka. Mēģiniet precizēt meklēšanu adreses joslā. Lai tā vietā rādītu URL, iestatījumos atveriet Meklēšana.
+urlbar-search-tips-persist = Meklēšana ir kļuvusi vienkāršāka. Pamēģini padarīt savu meklējumu noteiktāku šeit, adrešu joslā! Lai tās vietā rādītu URL, iestatījumos jāatver “Meklēšana”.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Atlasiet šo saīsni, lai ātrāk atrastu vajadzīgo.

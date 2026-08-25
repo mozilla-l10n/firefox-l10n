@@ -29,7 +29,7 @@ return-to-amo-add-theme-label = Pievienot motīvu
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Sasveicinieties ar { -brand-short-name }
-mr1-return-to-amo-addon-title = Jums ir pieejama ātrs, privāts pārlūks. Tagad varat pievienot <b>{ $addon-name }</b> un ar { -brand-short-name } paveikt vēl vairāk.
+mr1-return-to-amo-addon-title = Tavā rīcībā ir ātrs, privāts pārlūks. Tagad vari pievienot <b>{ $addon-name }</b> un ar { -brand-short-name } paveikt vēl vairāk.
 mr1-return-to-amo-add-extension-label = Pievienot { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -381,3 +381,7 @@ onboarding-personalization-title = Pielāgo savu { -brand-short-name } pieredzi
 ## Onboarding 2026 brand refresh
 
 onboarding-refresh-onboarding-addons-subtitle = Paplašinājumi ir nelielas lietotnes, kas ļauj pielāgot { -brand-short-name }. Tie var pastiprināt privātumu, uzlabot ražīgumu, mainīt { -brand-short-name } izskatu un vēl daudz vairāk.
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-rejected-title = Sapratu

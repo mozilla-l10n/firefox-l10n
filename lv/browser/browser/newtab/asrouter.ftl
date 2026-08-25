@@ -289,3 +289,8 @@ tail-fox-spotlight-secondary-button = Ne tagad
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-learn-more-button = Uzzināt vairāk
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-primary-button = Sapratu
+    .accesskey = S

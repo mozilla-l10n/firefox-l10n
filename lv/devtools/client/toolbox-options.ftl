@@ -134,7 +134,7 @@ options-enable-f12-tooltip =
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Ieslēgt pielāgotus formatētājus
 options-enable-custom-formatters-tooltip =
-    .title = Ieslēdzot šo opciju, vietnes varēs definēt pielāgotus formatētājus DOM objektiem
+    .title = Šīs iespējas ieslēgšana atļaus vietnēm norādīt pielāgotus DOM objektu formatētājus
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Ieslēgt pakalpojumu strādņus pa HTTP (kad rīks ir atvērts)
 options-enable-service-workers-http-tooltip =

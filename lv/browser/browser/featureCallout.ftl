@@ -5,7 +5,7 @@
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Nākamais
 # Callout dialog primary button to complete the feature tour
-callout-primary-complete-button-label = Viss skaidrs!
+callout-primary-complete-button-label = Sapratu.
 
 ## Firefox View feature tour strings
 
@@ -42,7 +42,7 @@ callout-pdfjs-draw-title = Parakstiet dokumentus ar mūsu jauno zīmēšanas rī
 callout-pdfjs-draw-body-a = Marķējiet PDF datnes un pēc tam saglabājiet izmaiņas.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Vairs nekādas drukāšanas un skenēšanas. Marķējiet PDF datnes un pēc tam saglabājiet izmaiņas.
-callout-pdfjs-draw-button = Viss skaidrs!
+callout-pdfjs-draw-button = Sapratu.
 
 ## Firefox View Discoverability Strings
 
@@ -68,6 +68,11 @@ split-dismiss-button-manage-settings-option =
 bookmarks-toolbar-callout-1-title = Pievienot šo vietni grāmatzīmju joslai?
 bookmarks-toolbar-callout-1-subtitle = Grāmatzīme tiks saglabāta tieši zem adrešu joslas ātrai piekļuvei.
 bookmarks-toolbar-callout-1-primary-button-label = Pievienot grāmatzīmi
+bookmarks-toolbar-callout-2a-primary-button-label = Sapratu
+
+## Perplexity callout strings
+
+perplexity-callout-secondary-label-2 = Sapratu
 
 ## Taskbar Tabs callout strings
 
@@ -111,3 +116,4 @@ sidebar-genai-survey-satisfaction-question = Cik apmierināts esat ar piekļuvi 
 sidebar-genai-survey-productive-question =
     Cik lielā mērā piekrītat vai nepiekrītat šim apgalvojumam:<br/>
     “MI tērzēšanas robots sānjoslā palīdz man būt produktīvākam”?
+unified-search-engines-callout-primary-label = Sapratu

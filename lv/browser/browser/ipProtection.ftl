@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Iepazīstinām ar VPN, tagad tavā pārlūkprogrammā
+ipprotection-feature-introduction-title-summer-promo = Ir paredzēts ceļojums? Ņem sev līdzi privātumu!
 ipprotection-feature-introduction-button-primary = Nākamais
 ipprotection-feature-introduction-button-secondary-not-now = Ne tagad
 ipprotection-feature-introduction-button-secondary-no-thanks = Nē, paldies
@@ -45,6 +46,10 @@ ipprotection-connection-status-generic-error-description = Pēc dažām minūtē
 ipprotection-connection-status-generic-error-try-again = Lūgums vēlāk mēģināt vēlreiz.
 ipprotection-connection-status-network-error-title-1 = Pārbaudi savienojumu ar internetu
     .aria-label = Pārbaudi savienojumu ar internetu
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Sapratu
 
 ## IP Protection alerts
 
