@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Pysy yksityisenä käyttäen { -mozilla-v
 about-private-browsing-focus-promo-cta = Lataa { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Yksityistä selausta tien päällä
 about-private-browsing-focus-promo-text = Yksityisyydelle omistettu mobiiliselaimemme tyhjentää historiasi ja evästeet joka kerta.
-
-##
-
 about-private-browsing-focus-promo-header-b = Vie yksityinen selaaminen puhelimeesi
 about-private-browsing-focus-promo-text-b = Käytä { -focus-brand-name }ia niitä yksityisiä hakuja varten, joita et halua ensisijaisen mobiiliselaimesi näkevän.
 about-private-browsing-focus-promo-header-c = Seuraavan tason yksityisyyttä mobiilissa
@@ -56,6 +53,12 @@ about-private-browsing-pin-promo-link-text =
        *[other] Kiinnitä tehtäväpalkkiin
     }
 about-private-browsing-pin-promo-title = Ei tallennettuja evästeitä tai historiaa, käynnistä suoraan työpöydältäsi. Selaa kuin kukaan ei näkisi.
+
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Estä roskapostia sähköpostimaskeilla
+about-private-browsing-relay-promo-title = Piilota todellinen osoitteesi sähköpostimaskilla, kun rekisteröidyt, ostat tai jaat sähköpostiosoitteen verkossa.
+about-private-browsing-relay-promo-link-text = Kokeile sähköpostimaskeja
 
 ## Strings used in a promotion message for cookie banner reduction
 

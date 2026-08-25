@@ -335,6 +335,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Osakkeet
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Markkinat
+    .label = Markkinat
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Seurantalista
+    .label = Seurantalista
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Hae nimellä tai symbolilla
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -381,10 +391,20 @@ newtab-stocks-removed-from-watchlist = Poistettu { $name } seurantalistalta
 
 ## Stocks widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Hae nimellä tai symbolilla
+    .placeholder = Hae nimellä tai symbolilla
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Hakutulokset
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .aria-label = Takaisin
+    .title = Takaisin
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
