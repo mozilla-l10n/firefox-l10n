@@ -372,12 +372,12 @@ browser-layout-show-sidebar-desc = Izan laster-marka, telefonoko fitxa, AA txate
 
 language-and-appearance-header = Hizkuntza eta itxura
 appearance-group2 =
-    .label = Webgunearen itxura
+    .label = Webguneen itxura
     .description = Zenbait webgunek beraien koloreak aldatzen dituzte zure hobespenak kontuan hartzeko. Aukeratu zure kolore-eskema.
 preferences-web-appearance-choice-auto3 =
     .label = Sistema
     .title = Aldatu automatikoki webguneen atzeko planoak eta edukia zure sistemaren ezarpenetan eta { -brand-short-name }(r)en itxuran oinarrituta.
-preferences-web-appearance-header = Webgunearen itxura
+preferences-web-appearance-header = Webguneen itxura
 preferences-web-appearance-description = Zenbait webgunek beraiek kolore-eskema zure hobespenetara moldatzen dute. Aukeratu gune horietarako zein kolore-eskema erabili nahi duzun.
 preferences-web-appearance-choice-light2 =
     .label = Argia
@@ -386,7 +386,7 @@ preferences-web-appearance-choice-dark2 =
     .label = Iluna
     .title = Erabili itxura iluna webguneen atzeko plano eta edukiarentzat.
 web-appearance-group =
-    .aria-label = Webgunearen itxura
+    .aria-label = Webguneen itxura
 preferences-web-appearance-choice-auto = Automatikoa
 preferences-web-appearance-choice-light = Argia
 preferences-web-appearance-choice-dark = Iluna
@@ -405,7 +405,7 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning3 =
-    .message = Zure kontrastearen kontrol-ezarpenek webgunearen itxura baliogabetzen dute.
+    .message = Zure kontrastearen kontrol-ezarpenek webguneen itxura baliogabetzen dute.
 preferences-web-appearance-link =
     .label = Kudeatu { -brand-short-name }(r)en itxurak Hedapenak eta itxura atalean
 preferences-contrast-control-group =
@@ -415,7 +415,7 @@ preferences-contrast-control-radio-group =
     .label = Baliogabetu koloreak
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
-preferences-web-appearance-override-warning = Zure kolore-hautapenek webgunearen itxura baliogabetzen dute. <a data-l10n-name="colors-link">Kudeatu koloreak</a>
+preferences-web-appearance-override-warning = Zure kolore-hautapenek webguneen itxura baliogabetzen dute. <a data-l10n-name="colors-link">Kudeatu koloreak</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kudeatu { -brand-short-name }(r)en itxurak <a data-l10n-name="themes-link">Hedapenak eta itxura</a> atalean
