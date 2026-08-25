@@ -289,6 +289,12 @@ newtab-stocks-ticker-status-down = { $name }, baixa un { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sense canvis, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -338,6 +344,13 @@ newtab-picture-check-back = Torneu demà per a veure una altra imatge.
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Imatge del dia a Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -417,6 +430,9 @@ newtab-topsite-sponsored = Patrocinat
 topsite-label-pinned =
     .aria-label = { $title } (fixat)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
 
 ## Context Menu - Action Tooltips.
 
@@ -588,6 +604,15 @@ newtab-discovery-empty-section-topstories-loading = S'està carregant…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ups! Sembla que aquesta secció no s'ha carregat del tot.
 
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Anterior
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Següent
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -704,6 +729,9 @@ newtab-custom-close-menu-button =
     .aria-label = Tanca el menú
 newtab-custom-close-button = Tanca
 newtab-custom-settings = Gestiona més paràmetres
+
+## New Tab Appearance (browser theme picker)
+
 
 ## New Tab Wallpapers
 
