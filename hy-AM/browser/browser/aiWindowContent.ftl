@@ -85,6 +85,7 @@ smart-window-grouped-and-ungrouped-label = Ներդիրները խմբավորվ
 
 ## Action log
 
+action-log-searched-open-tabs = Որոնվել են բաց ներդիրներ
 action-log-searching-history = Որոնման պատմություն
 action-log-searched-history = Որոնումների պատմություն
 action-log-reading-page = Ընթերցանության էջ

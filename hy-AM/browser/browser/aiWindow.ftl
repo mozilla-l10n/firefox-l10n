@@ -107,6 +107,9 @@ aiwindow-firstrun-model-fast-label-v2 = Արագ՝ { $shortName }
 aiwindow-firstrun-model-chip-subtitle = Մոդել { $model }՝ { $ownerName }-ի կողմից
 aiwindow-firstrun-model-allpurpose-label = Ճկուն
 aiwindow-firstrun-model-allpurpose-body = Հաստատուն համապատասխանություն մեծամասնության կարիքներին
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Ճկուն՝ { $shortName }
+aiwindow-firstrun-model-flexible-body = Պատրաստ է բազմազան առաջադրանքների
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Առաջարկվող
 aiwindow-firstrun-model-personal-label = Անձնական
@@ -175,6 +178,13 @@ aiwindow-close-sidebar =
 ## view links to the chat history subview and Smart Window settings; the chat
 ## history subview lists recent chats and a shortcut to all chats.
 
+aiwindow-history-menu =
+    .aria-label = Լրացուցիչ ընտրանքներ
+    .tooltiptext = Լրացուցիչ ընտրանքներ
+aiwindow-history-menu-chat-history = Զրույցի պատմություն
+aiwindow-history-menu-back =
+    .aria-label = Նախորդը
+    .tooltiptext = Նախորդը
 aiwindow-history-menu-view-all-chats = Դիտել բոլոր զրույցները
 aiwindow-history-menu-settings = { -smart-window-brand-name }-ի կարգավորումներ
 
@@ -183,6 +193,14 @@ aiwindow-history-menu-settings = { -smart-window-brand-name }-ի կարգավո�
 
 aiwindow-fullpage-new-chat =
     .label = Նոր զրույց
+aiwindow-fullpage-chat-history =
+    .label = Զրույցի պատմություն
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Ավելին
+    .title = Ավելին
 
 ## Fullpage Footer Actions
 
@@ -219,6 +237,10 @@ firefoxview-chat-date-today = Այսօր՝ { DATETIME($date, dateStyle: "full") 
 firefoxview-chat-date-yesterday = Երեկ՝ { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Վերադարձեք ձեր զրույցներին
 
 ## Count displayed in fxview chat search results
 

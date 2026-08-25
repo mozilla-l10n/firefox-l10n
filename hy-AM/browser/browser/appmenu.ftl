@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Մուտք գործել { -brand-product-name }
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
 fxa-menu-sync-status-on = Համաժամեցումը միացված է
 fxa-menu-sync-status-off = Համաժամեցումն անջատված է
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Համաժամեցրեք ձեր տվյալները
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Ձեր տվյալները չեն համաժամեցվում
@@ -399,6 +402,9 @@ appmenuitem-relay-title-signed-in = Դիտել էլ. փոստի դիմակներ
 appmenuitem-relay-description = Քողարկեք ձեր իրական էլ. փոստը և հեռախոսը
 appmenuitem-services-relay-description = Գործարկել էլ. փոստի դիմակների վահանակը
 appmenuitem-vpn-title2 = Թաքցրեք ձեր տեղադրությունը { -mozilla-vpn-brand-name }-ի միջոցով
+appmenuitem-vpn-description5 = Ստացեք լրացուցիչ պաշտպանություն տարբեր սարքերում
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Ներբեռնել { -mozilla-vpn-brand-name }-ը
 appmenuitem-vpn-description3 = Ձեր դիտարկումը դժվարացրեք հետևելը
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
 appmenuitem-vpn-description-2 = Ստացեք ամբողջ սարքի պաշտպանություն

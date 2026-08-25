@@ -155,6 +155,8 @@ ipprotection-connection-status-network-error-title-1 = Ստուգեք ձեր հ�
 ipprotection-connection-status-blocked-error-title-1 = VPN-ը հասանելի չէ
     .aria-label = VPN-ը հասանելի չէ
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ն անջատված է այս կայքի համար
+ipprotection-open-button = Բացել { -brand-product-name }-ը
+ipprotection-come-back-title = Վերադարձեք՝ ներկառուցված VPN-ը փորձելու համար
 ipprotection-connection-status-generic-error-title-1 = Չհաջողվեց միանալ VPN-ին
     .aria-label = Չհաջողվեց միանալ VPN-ին
 

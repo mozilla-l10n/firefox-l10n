@@ -421,6 +421,15 @@ newtab-stocks-search-no-results = Нет результатов по запро�
 newtab-stocks-search-loading = Загрузка…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Не удалось совершить поиск прямо сейчас. Подождите некоторое время и попробуйте снова.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Вы можете добавить до { $limit } акции. Удалите одну, чтобы добавить другую.
+        [few] Вы можете добавить до { $limit } акций. Удалите одни, чтобы добавить другие.
+       *[many] Вы можете добавить до { $limit } акций. Удалите одни, чтобы добавить другие.
+    }
 
 ## Strings for the Picture of the Day widget
 

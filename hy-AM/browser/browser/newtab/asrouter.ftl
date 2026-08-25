@@ -459,3 +459,26 @@ relay-50-masks-announcement-primary-button = Անցեք { -relay-brand-name }-ի
     .accesskey = G
 relay-50-masks-announcement-secondary-button = Բաց թողնել
     .accesskey = D
+
+## Nova Early Access Infobar
+
+nova-early-access-share-feedback-link = Կիսվեք ձեր կարծիքով
+    .accesskey = Կ
+nova-early-access-infobar-primary-button = Հասկացա
+    .accesskey = Հ
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-checkbox-launch-on-login = Բացել { -brand-short-name }-ը մեկնարկի ժամանակ
+launch-options-spotlight-checkbox-pin-to-taskbar = Ամրացրեք ձեր առաջադրանքների վահանակում
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Վերաբացել ընթացիկ պատուհաններն ու ներդիրները
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Վերաբացել նախորդ պատուհաններն ու ներդիրները
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Բացել և փակել { -brand-short-name }-ը
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Պահել և շարունակել

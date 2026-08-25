@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Օրվա նկարը
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Վերջին որոնումները
 home-prefs-mission-message2 =
     .message = Մեր հովանավորները աջակցում են մեր առաքելությանը՝ ստեղծել ավելի լավ կայք։
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Իմացեք, թե ինչպես
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Իմանալ ավելին
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Գաղտնիություն
 
 ## Privacy widget — count readout
 
@@ -253,6 +260,60 @@ newtab-privacy-message-promo-private-window-1 = Փորձեք անձնական պ
 newtab-privacy-message-promo-private-window-1-cta = Բացել գաղտնի պատուհան
 newtab-privacy-message-promo-relay-1 = Պահպանեք ձեր իրական էլ. փոստի հասցեն այն մարդկանց համար, ում վստահում եք. օգտագործեք էլ. փոստի դիմակ գրանցումների համար։
 newtab-privacy-message-promo-relay-1-cta = Գնեք դիմակներ
+newtab-privacy-message-promo-relay-2-cta = Ստանալ դիմակներ
+newtab-privacy-message-promo-relay-3-cta = Ստանալ դիմակներ
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-milestone-month-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-milestone-total-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-daily-cap-cta = Դիտել պաշտպանությունները
+
+## Stocks widget ticker search
+
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Որոնման արդյունքներ
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Նախորդը
+    .aria-label = Նախորդը
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = «{ $query }»-ի համար արդյունքներ չկան
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Բեռնում...
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Այս պահին որոնումը հնարավոր չէ։ Փորձեք կրկին ավելի ուշ։
+
+## Strings for the Picture of the Day widget
+
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Օրվա նկարը · Վիքիպահեստ
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Օրվա նկարը
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Վիքիմեդիա համայնք
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Դիտել { $license } լիցենզիան
 
 ## Search box component.
 
@@ -334,6 +395,11 @@ topsite-label-pinned =
 
 ## Top Sites - Web notifications hover card
 
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Հենց հիմա
+newtab-topsites-hover-card-mark-all-read =
+    .title = Նշել բոլորը որպես ընթերցված
+    .aria-label = Նշել բոլորը որպես ընթերցված
 newtab-topsites-hover-card-settings =
     .title = Ծանուցման կարգավորումներ
     .aria-label = Ծանուցման կարգավորումներ

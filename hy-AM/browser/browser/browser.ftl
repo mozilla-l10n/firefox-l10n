@@ -461,6 +461,7 @@ quickactions-savepdf = Պահել էջը որպես PDF
 quickactions-cmd-savepdf2 = pdf, պահել էջը
 # Opens about:pdf, the PDF editor landing page
 quickactions-editpdf = Բացել PDF խմբագրիչը
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Բացել գաղտնի պատուհան
 quickactions-cmd-private = գաղտնի դիտարկում
@@ -497,6 +498,7 @@ quickactions-viewsource2 = Դիտել էջի աղբյուրը
 quickactions-cmd-viewsource2 = դիտել աղբյուրը, աղբյուր, էջի աղբյուրը
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Բացել { -firefoxlabs-brand-name }-ը
+quickactions-cmd-labs = լաբորատորիաներ, փորձեր
 quickactions-cmd-viewsource = դիտել աղբյուրը, աղբյուրը
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -577,6 +579,8 @@ identity-clear-site-data =
     .label = Ջնջել թխուկների և կայքի տվյալները…
 identity-connection-not-secure-security-view = Ձեր կապը այս կայքի հետ ապահով չէ։
 identity-connection-verified = Ձեր կապը այս կայքի հետ ապահով է։
+identity-ev-owner-label2 = Վկայականը տրվել է
+identity-verifier-label2 = Հաստատված է
 identity-ev-owner-label = Վկայագիրը թողարկվել է՝
 identity-verifier-label = Ստուգվել է`
 identity-description-custom-root2 = Mozilla֊ն չի ճանաչում այս վկայագրի թողարկողին։ Այն հնարավոր է ավելացվել է Ձեր գործավարական համակարգից կամ վարիչի կողմից։
