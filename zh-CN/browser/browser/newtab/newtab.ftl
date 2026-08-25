@@ -291,6 +291,10 @@ newtab-stocks-search-no-results = 未找到“{ $query }”的相关结果
 newtab-stocks-search-loading = 正在加载…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = 目前无法搜索，请稍后再试。
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full = 最多可添加 { $limit } 支股票。请先移除一支股票，再添加其他股票。
 
 ## Strings for the Picture of the Day widget
 

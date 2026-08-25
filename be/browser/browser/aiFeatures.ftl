@@ -69,5 +69,32 @@ ai-window-memories-section =
     .label = Успаміны
 ai-window-learn-from-chat-activity =
     .label = Вучыцца з чатаў у { -smart-window-brand-name }
+ai-window-learn-from-browsing-activity =
+    .label = Вучыцца з аглядання ў Класічных і { -smart-window-brand-name }
+ai-window-manage-memories-button =
+    .label = Кіраваць успамінамі
+ai-window-manage-memories-header =
+    .description = Успаміны захоўваюцца лакальна на гэтай прыладзе, каб абараніць вашу прыватнасць. Яны абнаўляюцца некалькі разоў на дзень, пакуль вы карыстаецеся { -smart-window-brand-name }, таму нядаўнія дзеянні могуць адлюстравацца не адразу.
+    .heading = Кіраванне ўспамінамі
+ai-window-no-memories =
+    .description = Па меры таго, як { -smart-window-brand-name } будзе вучыцца на аснове вашай дзейнасці, вы ўбачыце тут успаміны.
+    .label = Пакуль няма ўспамінаў
+ai-window-no-memories-learning-off =
+    .description = Навучанне на аснове дзейнасці выключана, таму { -smart-window-brand-name } не стварае ўспаміны.
+    .label = Няма ўспамінаў, каб паказаць
+ai-window-delete-all-memories-button =
+    .label = Выдаліць усе
+ai-window-delete-all-memories-title = Выдаліць усе ўспаміны?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Наяўныя ўспаміны будуць выдалены. Калі вы не хочаце ствараць новыя ўспаміны, зніміце сцяжок з варыянтаў «Вучыцца з…» у наладах { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Выдаліць
 ai-window-delete-all-memories-cancel = Скасаваць
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .aria-label = Выдаліць { $label }
+    .title = Выдаліць успамін
+smart-window-model-fast-v2 =
+    .description = Найлепшы варыянт для шпаркіх адказаў, калі хуткасць мае значэнне. Поўная назва: { $model } ад { $ownerName }
+    .label = { $shortName }: хуткая
