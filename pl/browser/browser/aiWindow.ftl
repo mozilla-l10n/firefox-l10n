@@ -97,3 +97,74 @@ aiwindow-website-chip-remove-button =
 ## Firstrun onboarding
 
 aiwindow-firstrun-title = Witamy w { -smart-window-brand-name(case: "loc", capitalization: "lower-singular") }
+aiwindow-firstrun-model-title = Jakie masz potrzeby?
+aiwindow-firstrun-model-title-v2 = Wybierz model, aby zacząć
+aiwindow-firstrun-model-subtitle = Wybierz model napędzający { -smart-window-brand-name(case: "nom", capitalization: "lower-singular") }. W każdej chwili możesz go zmienić.
+aiwindow-firstrun-model-subtitle-v2 = Każdy model pomoże Ci streszczać, porównywać i przeglądać karty. W każdej chwili możesz go zmienić.
+aiwindow-firstrun-model-fast-label = Szybki
+aiwindow-firstrun-model-fast-body = Szybkie odpowiedzi
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Szybki: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Najlepszy do szybkich odpowiedzi, kiedy zależy Ci na czasie
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-chip-subtitle = Model { $model } firmy { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Elastyczny
+aiwindow-firstrun-model-allpurpose-body = Solidny wybór do większości potrzeb
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Elastyczny: { $shortName }
+aiwindow-firstrun-model-flexible-body = Gotowy do różnorodnych zadań
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Zalecany
+aiwindow-firstrun-model-personal-label = Osobisty
+aiwindow-firstrun-model-personal-body = Najbardziej zindywidualizowane odpowiedzi
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Osobisty: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Zbudowany z myślą o zindywidualizowanej pomocy w różnych językach
+aiwindow-firstrun-button = Zaczynamy!
+aiwindow-firstrun-back-button = Wstecz
+aiwindow-firstrun-next-button = Dalej
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Szybki
+aiwindow-input-model-select-button-label-allpurpose = Elastyczny
+aiwindow-input-model-select-button-label-personal = Osobisty
+aiwindow-input-model-select-button-label-custom = Własny
+aiwindow-input-model-select-button-description-custom = Używaj swojego dużego modelu językowego
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Używaj swojego dużego modelu językowego
+aiwindow-input-model-select-default-badge =
+    .label = Domyślny
+    .title = Wybrany domyślny model
+aiwindow-input-model-select-settings-link = Ustawienia modelu
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Zapytaj
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Nowa rozmowa
+    .tooltiptext = Nowa rozmowa
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Zamknij
+    .tooltiptext = Zamknij
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Więcej opcji
+    .tooltiptext = Więcej opcji
