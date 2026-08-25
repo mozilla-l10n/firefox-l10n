@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = არანაირი კვალი და გვერდების ისტორია, პირდაპირ სამუშაო ეკრანიდან. მოინახულეთ საიტები მეთვალყურეობის გარეშე.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = აირიდეთ საფოსტო ყუთში უსარგებლო წერილები ელფოსტის შენიღბვით
+about-private-browsing-relay-promo-title = დაფარეთ ნამდვილი მისამართი ელფოსტის ნიღბით, როცა ქმნით ანგარიშს, ყიდულობთ რამეს ან აზიარებთ ინტერნეტში.
+about-private-browsing-relay-promo-link-text = მოსინჯეთ ელფოსტის ნიღბები
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

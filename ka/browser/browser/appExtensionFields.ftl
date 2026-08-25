@@ -15,6 +15,11 @@ extension-firefox-compact-dark-description = გაფორმება მუ�
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = ფერადი გაფორმება ღილაკებზე, მენიუებსა და ფანჯრებზე.
 
+## Theme names shown in the Firefox Themes picker in about:addons and theme add-on card,
+## and new default-theme description for the theme add-on card.
+
+extension-default-theme-description2 = მოწესრიგებული, ჩვეული ნაცრისფერ-იისფრად შეხამებული { -brand-product-name }.
+
 ## Theme labels
 ## These are short, evocative names for color themes in Firefox. Each name
 ## suggests a color through nature or fire imagery rather than naming the color
@@ -25,6 +30,28 @@ extension-firefox-alpenglow-description = ფერადი გაფორმ�
 # Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
 # color word; translate the sense of "standard."
 extension-default-theme-name2 = ნაგულისხმევი
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+extension-nova-sun-name = მზიანი
+# Name for a warm orange theme. Refers to a small burst of fire.
+extension-nova-spark-name = ვარვარა
+# Name for a red-orange theme. Refers to the color of fire.
+extension-nova-flame-name = ალი
+# Name for a bright pink theme. Refers to a burst of light or fire.
+extension-nova-flare-name = ელვარე
+# Name for a soft purple theme. Refers to the lavender flower.
+extension-nova-lavender-name = მოიისფრო
+# Name for a medium purple theme. Refers to the sky just after sunset.
+extension-nova-dusk-name = ბინდი
+# Name for a medium blue theme. Refers to a sheltered body of water.
+extension-nova-lagoon-name = ტბორი
+# Name for a green theme. Refers to pine trees.
+extension-nova-pine-name = ფიჭვი
+# Name for a soft teal theme. Refers to ocean tides.
+extension-nova-tide-name = დინება
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+extension-nova-ash-name = ნაცარი
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+extension-nova-smoke-name = კვამლი
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
