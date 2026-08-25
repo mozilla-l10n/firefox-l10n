@@ -95,8 +95,8 @@ smart-window-closed-tabs-label =
     }
 smart-window-closed-tabs-summary =
     { $count ->
-        [one] Gotowe! Karta została zamknięta.
-       *[other] Gotowe! Karty zostały zamknięte.
+        [one] Gotowe! Zamknięto kartę.
+       *[other] Gotowe! Zamknięto karty.
     }
 smart-window-closed-tabs-row-label = Zamknięte karty
 smart-window-closed-and-restored-label = Zamknięte i przywrócone karty
@@ -108,8 +108,8 @@ smart-window-restored-row-label =
     }
 smart-window-restore-success-summary =
     { $count ->
-        [one] Karta została zamknięta, a następnie przywrócona.
-       *[other] Karty zostały zamknięte, a następnie przywrócone.
+        [one] Zamknięto kartę, a następnie ją przywrócono.
+       *[other] Zamknięto karty, a następnie je przywrócono.
     }
 smart-window-cancelled-label = Żądanie zostało anulowane.
 # Button label - "Group" is a verb (action to group tabs)
@@ -142,3 +142,71 @@ smart-window-grouped-tabs-label =
 # Fallback name used in place of $label above when the model didn't provide
 # one for the tab group.
 smart-window-default-tab-group-label = Grupa kart
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] Utworzono grupę „{ $label }” i dodano do niej { $count } kartę.
+        [few] Utworzono grupę „{ $label }” i dodano do niej { $count } karty.
+       *[many] Utworzono grupę „{ $label }” i dodano do niej { $count } kart.
+    }
+smart-window-grouped-tabs-row-label = Pogrupowane karty
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Otwarto { $count } kartę
+        [few] Otwarto { $count } karty
+       *[many] Otwarto { $count } kart
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Otwarto { $count } kartę.
+        [few] Otwarto { $count } karty.
+       *[many] Otwarto { $count } kart.
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Utworzono grupę „{ $label }” i otwarto { $count } kartę.
+        [few] Utworzono grupę „{ $label }” i otwarto { $count } karty.
+       *[many] Utworzono grupę „{ $label }” i otwarto { $count } kart.
+    }
+smart-window-opened-tabs-row-label = Otwarte karty
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Przełączono karty
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Przełączono na kartę „{ $title }”.
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Rozgrupowane karty
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] Pogrupowano { $count } kartę, a następnie ją rozgrupowano.
+        [few] Pogrupowano { $count } karty, a następnie je rozgrupowano.
+       *[many] Pogrupowano { $count } kart, a następnie je rozgrupowano.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Rozgrupowano { $count } kartę
+        [few] Rozgrupowano { $count } karty
+       *[many] Rozgrupowano { $count } kart
+    }
+
+## Action log
+
+action-log-searching-tabs = Przeszukiwanie kart
+action-log-searched-open-tabs = Przeszukano otwarte karty
+action-log-searching-history = Przeszukiwanie historii
+action-log-searched-history = Przeszukano historię
+action-log-reading-page = Czytanie strony
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Przeczytano treść strony
