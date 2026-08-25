@@ -46,7 +46,7 @@ detail-private-browsing-off =
     .label = Neatļaut
     .tooltiptext = Atspējot privātajā pārlūkošanā
 detail-home =
-    .label = Mājas lapa
+    .label = Sākumlapa
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
@@ -176,6 +176,10 @@ addon-open-about-debugging = Atkļūdot papildinājumus
 discopane-notice-learn-more = Uzzināt vairāk
 colorway-removal-notice-learn-more = Uzzināt vairāk
 install-extension-button = Pievienot { -brand-product-name }
+
+## Add-on actions
+
+addon-detail-homepage-label = Sākumlapa
 
 ## Pending uninstall message bar
 

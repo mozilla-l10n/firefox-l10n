@@ -33,6 +33,8 @@ newtab-logo-and-wordmark =
 
 home-homepage-title =
     .label = Sākumlapa
+home-homepage-new-windows =
+    .label = Jauni logi
 home-homepage-new-tabs =
     .label = Jaunas cilnes
 
@@ -46,6 +48,11 @@ home-custom-homepage-address-button =
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nesenie meklējumi
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Lai izmantotu šīs iespējas, jaunas cilnes vai logi jāiestata uz { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option-srd =

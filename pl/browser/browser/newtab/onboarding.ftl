@@ -629,6 +629,7 @@ smartwindow-sidebar-auto-open-callout-body = Możesz go otworzyć, kiedy tylko b
 smartwindow-sidebar-auto-open-callout-accept = Tak, niech będzie zamknięty
 smartwindow-sidebar-auto-open-callout-dismiss = Nie, dziękuję
 smartwindow-sidebar-auto-open-callout-accepted-title = Asystent będzie zamknięty
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Użyj funkcji „Zapytaj”, aby otworzyć go na dowolnej stronie. Możesz w każdej chwili zmienić to w <a data-l10n-name="settings">Ustawieniach</a>.
 smartwindow-sidebar-auto-open-callout-rejected-title = OK
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jeśli zmienisz zdanie, możesz w każdej chwili zmienić to w <a data-l10n-name="settings">Ustawieniach</a>.
 

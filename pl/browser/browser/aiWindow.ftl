@@ -57,7 +57,7 @@ aiwindow-input-cta-submit-label-stop = Zatrzymaj
 # Text announced to screen readers when response generation starts.
 aiwindow-generation-started-announcement = Rozpoczęto generowanie odpowiedzi
 aiwindow-input-cta-menu-label-chat = Zapytaj
-aiwindow-input-cta-menu-label-navigate = Przejdź do strony
+aiwindow-input-cta-menu-label-navigate = Przejdź do witryny
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Szukaj w { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Szukaj w…
@@ -70,3 +70,30 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = Zapytaj, wyszukaj lub wpisz adres
+smartbar-placeholder-hint-1 = @ umożliwia użycie ostatnich kart…
+smartbar-placeholder-hint-2 = Zapytaj, o co tylko chcesz…
+smartbar-placeholder-hint-3 = Wpisz adres witryny…
+smartbar-placeholder-hint-4 = Szukaj w Internecie…
+
+## Mentions
+
+smartbar-mention-typing-placeholder = Oznacz kartę lub witrynę
+smartbar-mentions-list-no-results-label = Brak wyników
+smartbar-mentions-list-recent-tabs-label = Ostatnie karty
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Dodaj kartę lub witrynę
+    .tooltiptext = Dodaj kartę lub witrynę
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = Oznacz kartę lub witrynę
+aiwindow-website-chip-history-deleted = Usunięto historię
+aiwindow-website-chip-remove-button =
+    .aria-label = Usuń
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = Witamy w { -smart-window-brand-name(case: "loc", capitalization: "lower-singular") }
