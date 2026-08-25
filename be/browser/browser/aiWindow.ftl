@@ -340,6 +340,17 @@ aiwindow-feedback-preview-report = Паглядзець чат падрабяз�
 aiwindow-feedback-preview-report-with-page = Паглядзець чат і звесткі пра старонку
 aiwindow-feedback-include-page-content = Падзяліцца старонкамі, на якія спасылаюцца ў гэтым чаце
 
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Пераключыць макет прагляду
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Пераключэнне рэжыму: спіс
+    .tooltiptext = Спіс
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Пераключэнне рэжыму: сетка
+    .tooltiptext = Сетка
+
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.
 ## They then become the first message in the conversation.
@@ -347,5 +358,11 @@ aiwindow-feedback-include-page-content = Падзяліцца старонкам
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
 aiwindow-starter-writing-first-draft = Напішы першы чарнавік
+aiwindow-starter-writing-improve = Палепшы пісьмо
+aiwindow-starter-writing-proofread = Вычытай паведамленне
+aiwindow-starter-planning-simplify = Спрасці тэму
+aiwindow-starter-planning-brainstorm = Прапануй ідэі
 aiwindow-starter-planning-plan = Дапамажы скласці план
+aiwindow-starter-browsing-history = Знайдзі карткі ў гісторыі
+aiwindow-starter-browsing-summarize = Падсумуй карткі
 aiwindow-starter-browsing-compare = Параўнай карткі

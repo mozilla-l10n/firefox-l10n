@@ -60,6 +60,7 @@ aiwindow-input-cta-menu-label-chat = 询问
 aiwindow-input-cta-menu-label-navigate = 前往网站
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = 用 { $searchEngineName } 搜索
+aiwindow-input-cta-menu-label-search-with = 本次搜索使用…
 aiwindow-input-cta-search-submenu-header = 搜索
 aiwindow-input-cta-stop-button =
     .aria-label = 停止生成回复
@@ -76,6 +77,7 @@ smartbar-placeholder-hint-4 = 网上搜索…
 
 ## Mentions
 
+smartbar-mention-typing-placeholder = 引用标签页或网站
 smartbar-mentions-list-no-results-label = 未找到结果
 smartbar-mentions-list-recent-tabs-label = 近期标签页
 
@@ -87,6 +89,7 @@ smartbar-context-menu-button =
 
 ## Website Chip
 
+aiwindow-website-chip-placeholder = 引用标签页或网站
 aiwindow-website-chip-history-deleted = 已删除历史记录
 aiwindow-website-chip-remove-button =
     .aria-label = 移除

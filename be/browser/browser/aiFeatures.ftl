@@ -4,6 +4,9 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = Заблакаваць { -smart-window-brand-name }?
+smart-window-block-description-both = Гэта выдаліць вашы чаты і ўспаміны ў { -smart-window-brand-name }.
+smart-window-block-description-chats = Гэта выдаліць вашы чаты ў { -smart-window-brand-name }.
+smart-window-block-description-memories = Гэта выдаліць вашы ўспаміны ў { -smart-window-brand-name }.
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -15,14 +18,14 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Прадвызначаныя налады
 ai-window-open-sidebar =
-    .label = Аўтаматычна адкрываць памочніка
     .description = Паказваць бакавую панэль памочніка ў кожнай новай картцы. Закрывайце яе ў любы час.
+    .label = Аўтаматычна адкрываць памочніка
 ai-window-smart-cursor-in-smart-window =
-    .label = Паказваць спалучэнні клавіш пры вылучэнні тэксту
     .description = Атрымайце хуткі доступ да падсумаванняў, тлумачэнняў і іншага.
+    .label = Паказваць спалучэнні клавіш пры вылучэнні тэксту
 smart-window-model-section =
-    .label = Мадэль памочніка
     .description = Выбірайце мадэль зыходзячы з таго, што для вас важна.
+    .label = Мадэль памочніка
 smart-window-model-learn-link = Даведацца пра мадэлі
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
