@@ -464,6 +464,13 @@ newtab-picture-check-back = Vuelva mañana para ver una nueva foto
 # provides no localized description.
 newtab-picture-image-alt = Imagen del día de Wikimedia Commons
 
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -725,6 +732,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Volver a intentarlo
 newtab-discovery-empty-section-topstories-loading = Cargando…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ¡Chuta! Casi logramos cargar la sección completa, pero quizá falta una parte.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Anterior
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Siguiente
 
 ## Pocket Content Section.
 
