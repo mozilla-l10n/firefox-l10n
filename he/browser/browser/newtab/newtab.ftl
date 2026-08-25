@@ -475,6 +475,10 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = מידע נוסף
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -734,6 +738,15 @@ newtab-empty-section-topstories-generic = התעדכנת בכל הסיפורים
 
 newtab-discovery-empty-section-topstories-try-again-button = ניסיון חוזר
 newtab-discovery-empty-section-topstories-loading = בטעינה…
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = הקודם
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = הבא
 
 ## Pocket Content Section.
 
