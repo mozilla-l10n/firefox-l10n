@@ -265,11 +265,38 @@ firefoxview-chat-date-yesterday = Учора - { DATETIME($date, dateStyle: "ful
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Вярніцеся да сваіх чатаў
+firefoxview-chats-empty-description = Па меры выкарыстання { -smart-window-brand-name } вашы чаты будуць захоўвацца тут.
+
+## Count displayed in fxview chat search results
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } чат
+        [few] { $count } чаты
+       *[many] { $count } чатаў
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Гісторыя аглядання, сцягванняў і чатаў
+    .accesskey = і
+item-history-downloads-and-chat-description = Ачышчае гісторыю сайтаў, сцягванняў і чатаў
+
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .aria-label = Вылучыць усе
-    .label = Вылучыць усе
+    .aria-label = Выбраць усе
+    .label = Выбраць усе
+smart-window-confirm-deselect-all =
+    .aria-label = Зняць выбар з усіх
+    .label = Зняць выбар з усіх
+smart-window-close-confirm =
+    .aria-label = Скасаваць запыт і закрыць
+    .tooltiptext = Скасаваць запыт і закрыць
 smart-window-confirm-close-tab = Закрыць
 # Variables
 #   $count (number) - Number of tabs to close
@@ -290,12 +317,16 @@ smartwindow-close-tab-callout-subtitle = Адкрывайце карткі з �
 ## Smart Window new tab promo
 
 smart-window-default-promo-heading = Зрабіць { -smart-window-brand-name } прадвызначаным?
+smart-window-default-promo-message = { -brand-short-name } будзе адкрывацца ў { -smart-window-brand-name } кожны раз.
 smart-window-default-promo-primary-button = Зрабіць прадвызначаным
 smart-window-default-promo-additional-button = Не зараз
 
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Падзяліцца водгукам
+aiwindow-feedback-what-worked-well = Што атрымалася добра? Калі ласка, ніякай асабістай інфармацыі.
+aiwindow-feedback-choose-any = Выберыце любыя адпаведныя
+aiwindow-feedback-add-details = Дадайце падрабязнасці, калі хочаце. Калі ласка, без асабістай інфармацыі.
 aiwindow-feedback-submit = Даслаць
 aiwindow-feedback-cancel = Скасаваць
 aiwindow-feedback-reason-other = Іншае

@@ -61,6 +61,7 @@ about-private-browsing-pin-promo-title = 不保存任何 Cookie 和历史记录�
 ## Strings used in a promotion message for Firefox Relay
 
 about-private-browsing-relay-promo-header = 使用马甲邮箱，将垃圾邮件拒之门外
+about-private-browsing-relay-promo-title = 注册网站、网上购物、在线分享时，使用马甲邮箱来隐藏真实邮箱地址。
 about-private-browsing-relay-promo-link-text = 试用马甲邮箱
 
 ## Strings used in a promotion message for cookie banner reduction
