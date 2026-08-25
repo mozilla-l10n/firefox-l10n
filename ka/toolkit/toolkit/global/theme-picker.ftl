@@ -24,3 +24,21 @@ theme-picker-default =
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 theme-picker-sun =
     .label = მზიანი
+# Name for a warm orange theme. Refers to a small burst of fire.
+theme-picker-spark =
+    .label = ვარვარა
+# Name for a red-orange theme. Refers to the color of fire.
+theme-picker-flame =
+    .label = ალი
+# Name for a bright pink theme. Refers to a burst of light or fire.
+theme-picker-flare =
+    .label = ელვარე
+# Name for a soft purple theme. Refers to the lavender flower.
+theme-picker-lavender =
+    .label = მოიისფრო
+# Name for a medium blue theme. Refers to a sheltered body of water.
+theme-picker-lagoon =
+    .label = ტბორი
+# Name for a green theme. Refers to pine trees.
+theme-picker-pine =
+    .label = ფიჭვი
