@@ -161,6 +161,12 @@ home-prefs-mission-message-learn-more-link-srd = Find ud af hvordan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Læs mere
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -182,6 +188,12 @@ newtab-privacy-message-promo-monitor-1-cta = Læs mere
 newtab-privacy-message-promo-monitor-2-cta = Læs mere
 newtab-privacy-message-promo-signin-1-cta = Log ind
 newtab-privacy-message-promo-private-window-1-cta = Åbn privat vindue
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
 
 ## Strings for the Stocks widget
 
@@ -211,6 +223,12 @@ newtab-stocks-ticker-status-up = { $name }, op { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, ned { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, ingen ændring, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
 
 ## Strings for the Picture of the Day widget
 
@@ -254,6 +272,13 @@ newtab-picture-show-button =
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Dagens billede fra Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -521,6 +546,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Prøv igen
 newtab-discovery-empty-section-topstories-loading = Indlæser…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hov. Det lykkedes ikke at indlæse afsnittet.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Forrige
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Næste
 
 ## Pocket Content Section.
 
