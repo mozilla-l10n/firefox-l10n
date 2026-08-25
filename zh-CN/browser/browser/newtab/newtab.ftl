@@ -281,6 +281,9 @@ newtab-stocks-ticker-status-down = { $name }，下跌 { $change }，{ $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }，平盘，{ $change }，{ $price }
 
+## Stocks widget watchlist add and remove controls
+
+
 ## Stocks widget ticker search
 
 # Shown when a ticker search returns no matching symbols.
@@ -346,6 +349,13 @@ newtab-picture-check-back = 明天再来看看有没有新照片吧
 # provides no localized description.
 newtab-picture-image-alt = 维基共享资源 · 每日一图
 
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -393,6 +403,9 @@ newtab-topsites-image-url-label = 自定义图像网址
 newtab-topsites-use-custom-image-link = 使用自定义图像
 newtab-topsites-use-image-link = 使用自定义图像…
 newtab-topsites-image-validation = 图像加载失败。请尝试其他网址。
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = 清除文本
 
@@ -605,6 +618,15 @@ newtab-discovery-empty-section-topstories-loading = 正在加载…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = 哎呀！无法完全加载此版块。
 
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = 上一页
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = 下一页
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -722,6 +744,9 @@ newtab-custom-close-menu-button =
     .title = 关闭
 newtab-custom-close-button = 关闭
 newtab-custom-settings = 管理更多设置
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = 外观
 # Button that opens the full browser theme selection view.
@@ -839,6 +864,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1234,6 +1262,9 @@ newtab-promo-card-cta = 详细了解
 newtab-promo-card-dismiss-button =
     .aria-label = 知道了
     .title = 知道了
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
