@@ -602,6 +602,10 @@ onboarding-refresh-gratitude-subtitle = Dziękujemy za używanie { -brand-short-
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } jest po Twojej stronie
 
+## Smart window switcher callout
+
+smartwindow-switcher-callout = W dowolnej chwili przełącz się między oknem inteligentnym a klasycznym.
+
 ## Smart Window ToU modal
 
 # Existing users
@@ -612,12 +616,21 @@ smartwindow-existing-user-fx-tou-go-back = Wstecz
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-subtitle = Streszczaj, porównuj i zadawaj pytania, nie tracąc ani chwili.
 smartwindow-onboarding-primary-button = Kontynuuj
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Maskotka { -brand-product-name(case: "gen") } (Kit) z rekwizytami w kształcie gwiazdek
 
 ## Smart Window Sidebar Auto-Open Pref
 
+smartwindow-sidebar-auto-open-callout-title = Czy chcesz, aby asystent był zamknięty?
+smartwindow-sidebar-auto-open-callout-body = Możesz go otworzyć, kiedy tylko będziesz go potrzebować.
+smartwindow-sidebar-auto-open-callout-accept = Tak, niech będzie zamknięty
 smartwindow-sidebar-auto-open-callout-dismiss = Nie, dziękuję
+smartwindow-sidebar-auto-open-callout-accepted-title = Asystent będzie zamknięty
 smartwindow-sidebar-auto-open-callout-rejected-title = OK
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Jeśli zmienisz zdanie, możesz w każdej chwili zmienić to w <a data-l10n-name="settings">Ustawieniach</a>.
 
 ## Theme Picker screen strings
 
