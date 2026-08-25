@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = დღის სურათი
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = ბოლოს მოძიებული
 home-prefs-mission-message2 =
     .message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = იხილეთ, როგ�
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = ვრცლად
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = პირადულობა
 
 ## Privacy widget — count readout
 
@@ -342,6 +349,17 @@ newtab-stocks-ticker-status-down = { $name }, ვარდნა, { $change }, {
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, უცვლელი, { $change }, { $price }
 
+## Stocks widget ticker search
+
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] უკვე შეგიძლიათ დაამატოთ { $limit }-მდე აქცია. ერთი მოაცილეთ მეორის დასამატებლად.
+       *[other] უკვე შეგიძლიათ დაამატოთ { $limit }-მდე აქცია. ერთი მოაცილეთ მეორის დასამატებლად.
+    }
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -391,6 +409,16 @@ newtab-picture-check-back = ხვალაც შეამოწმეთ ა�
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons – დღის სურათი
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = ბოლოს მოძიებული
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = ბოლოს მოძიებულის პარამეტრები
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = ვრცლად
 
 ## Search box component.
 
@@ -764,6 +792,8 @@ newtab-custom-widget-stocks-toggle =
     .label = აქციები
 newtab-custom-widget-picture-toggle =
     .label = დღის სურათი
+newtab-custom-widget-recent-searches-toggle =
+    .label = ბოლოს მოძიებული
 newtab-custom-widget-section-title = ჩანამატები
 newtab-custom-widget-section-toggle =
     .label = ჩანამატები
