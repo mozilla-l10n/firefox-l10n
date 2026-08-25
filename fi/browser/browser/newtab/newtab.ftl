@@ -349,14 +349,58 @@ newtab-stocks-ticker-status-down = { $name }, laski { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, ei muutosta, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = Lisää { $name } seurantalistalle
+    .title = Lisää { $name } seurantalistalle
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = Poista { $name } seurantalistalta
+    .title = Poista { $name } seurantalistalta
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } on seurantalistalla
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = Lisätty { $name } seurantalistalle
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Poistettu { $name } seurantalistalta
+
 ## Stocks widget ticker search
 
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Hakutulokset
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Ei tuloksia haulla "{ $query }"
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Ladataan…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Haku ei onnistunut juuri nyt. Yritä myöhemmin uudelleen.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Voit lisätä enintään { $limit } osakkeen. Poista yksi lisätäksesi uuden.
+       *[other] Voit lisätä enintään { $limit } osaketta. Poista yksi lisätäksesi uuden.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -412,8 +456,18 @@ newtab-picture-image-alt = Wikimedia Commonsin päivän kuva
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Viimeisimmät haut
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Viimeisimpien hakujen asetukset
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Lue lisää
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Tarinat
+newtab-spaces-tab-widgets = Pienoisohjelmat
+newtab-spaces-tab-activity = Toiminta
 
 ## Search box component.
 
@@ -684,12 +738,24 @@ newtab-discovery-empty-section-topstories-timed-out = Hups! Tämä osio ladattii
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index }/{ $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Edellinen
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Seuraava
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Keskeytä automaattinen toisto
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Jatka automaattista toistoa
 
 ## Pocket Content Section.
 

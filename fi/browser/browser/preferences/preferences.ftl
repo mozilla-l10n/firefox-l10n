@@ -19,8 +19,8 @@ do-not-track-removal3 =
 non-technical-privacy-heading =
     .label = Lisäsuojaukset
 preferences-privacy-relay-available =
-    .label = Ehdota { -relay-brand-name }-sähköpostimaskeja
     .description = Piilottaa oikean sähköpostiosoitteesi ja pyrkii siten suojaamaan sähköpostiasi roskapostilta.
+    .label = Ehdota { -relay-brand-name }-sähköpostimaskeja
 non-technical-privacy-header = Sivuston tietosuojakäytännöt
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -38,8 +38,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Hae asetuksista
+    .style = width: 15.4em
 managed-notice = Organisaatiosi hallitsee selaimesi asetuksia.
 managed-notice-info-icon =
     .alt = Tietoa
@@ -201,8 +201,8 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Poista laajennus käytöstä
 preferences-data-migration-group =
-    .label = Tuo selaintiedot
     .description = Tuo kirjanmerkit, salasanat, historia, laajennukset ja automaattisen täydennyksen tiedot toisesta selaimesta.
+    .label = Tuo selaintiedot
 preferences-data-migration-header = Tuo selaimen tiedot
 preferences-data-migration-description = Tuo kirjanmerkit, salasanat, historia ja automaattisen täytön tiedot { -brand-short-name }iin.
 preferences-data-migration-button =
@@ -213,8 +213,8 @@ preferences-profiles-group-header =
 preferences-profiles-subpane-description =
     .description = Jokaisella profiililla on erilliset selaustiedot ja -asetukset, mukaan lukien historia, salasanat ja paljon muuta.
 preferences-profiles-section-header =
-    .label = Profiilit
     .description = Jokaisella profiililla on erilliset selaustiedot ja -asetukset, mukaan lukien historia, salasanat ja paljon muuta.
+    .label = Profiilit
 preferences-profiles-header = Profiilit
 preferences-manage-profiles-description = Jokaisella profiililla on erilliset selaustiedot ja -asetukset, mukaan lukien historia, salasanat ja paljon muuta.
 preferences-manage-profiles-learn-more = Lue lisää
@@ -224,8 +224,8 @@ preferences-profiles-settings-button =
     .label = Asetukset
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
-    .label = Kopioi olemassa oleva profiili
     .description = Uusi profiili kopioi asetukset, lisäosat, historian ja tallennetut tiedot kuten kirjanmerkit ja salasanat — mutta ei tiliäsi tai synkronointitietoja.
+    .label = Kopioi olemassa oleva profiili
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -345,16 +345,16 @@ settings-tabs-drag-to-create-tab-groups =
 browser-layout-header2 =
     .label = Selaimen asettelu
 browser-layout-horizontal-tabs2 =
+    .description = Välilehdet ylhäällä
     .label = Vaakasuuntaiset välilehdet
     .title = Välilehdet ylhäällä
-    .description = Välilehdet ylhäällä
 browser-layout-vertical-tabs2 =
+    .description = Välilehdet sivupalkissa
     .label = Pystysuuntaiset välilehdet
     .title = Välilehdet sivupalkissa
-    .description = Välilehdet sivupalkissa
 browser-layout-show-sidebar2 =
-    .label = Näytä sivupalkki
     .description = Käytä nopeasti kirjanmerkkejä, välilehtiä, AI-chatbotteja ja paljon muuta poistumatta päänäkymästä.
+    .label = Näytä sivupalkki
 page-navigation-group =
     .label = Sivun navigointi
 browser-layout-header = Selaimen asettelu
@@ -372,8 +372,8 @@ browser-layout-show-sidebar-desc = Käytä nopeasti kirjanmerkkejä, välilehti�
 
 language-and-appearance-header = Kieli ja ulkoasu
 appearance-group2 =
-    .label = Verkkosivuston ulkoasu
     .description = Jotkin sivustot vaihtavat värejään vastatakseen mieltymystäsi. Valitse väriteema.
+    .label = Verkkosivuston ulkoasu
 preferences-web-appearance-choice-auto3 =
     .label = Järjestelmä
     .title = Vaihda automaattisesti sivustojen taustat ja sisältö pohjautuen järjestelmäsi asetuksiin ja { -brand-short-name }in teemaan.
@@ -409,8 +409,8 @@ preferences-web-appearance-override-warning3 =
 preferences-web-appearance-link =
     .label = Hallinnoi { -brand-short-name }in teemoja Laajennukset ja teemat -osiossa
 preferences-contrast-control-group =
-    .label = Verkkosivuston kontrasti
     .description = Verkkosivustot käyttävät vaihtelevia edusta- ja taustavärejä. Yhtenäisen kontrastin vuoksi voit käyttää samoja värejä eri verkkosivustoilla.
+    .label = Verkkosivuston kontrasti
 preferences-contrast-control-radio-group =
     .label = Ohita värit
 # This can appear when using windows HCM or "Override colors: always" without
@@ -469,8 +469,8 @@ preferences-text-zoom-override-warning =
 language-header = Kieli
 choose-language-description = Valitse kielet, joilla sivut näytetään
 website-language-heading =
-    .label = Verkkosivuston kieli
     .description = Jotkin sivustot esitetään useilla kielillä. Valitse kielet ensisijaisuusjärjestyksessä.
+    .label = Verkkosivuston kieli
 website-preferred-language =
     .label = Ensisijaiset kielet
 website-add-language =
@@ -500,13 +500,13 @@ manage-browser-languages-button =
 confirm-browser-language-change-description = Käytä näitä muutoksia käynnistämällä { -brand-short-name } uudestaan
 confirm-browser-language-change-button = Käytä ja käynnistä uudestaan
 browser-language-heading =
-    .label = Selaimen kieli
     .description = Valitse kieli, jolla { -brand-short-name }in valikot, viestit ja ilmoitukset näytetään.
+    .label = Selaimen kieli
 browser-language-preferred-label =
     .label = Ensisijainen kieli
 browser-language-fallback-label =
-    .label = Varakieli
     .description = Käytetään kun ensisijaisen kielen kotoistus on puutteellinen.
+    .label = Varakieli
 browser-language-install-error =
     .message = { -brand-short-name } ei voi päivittää kieliä juuri nyt. Varmista, että yhteys internetiin toimii tai yritä uudestaan.
 translate-web-pages =
@@ -520,19 +520,19 @@ translate-exceptions =
     .label = Poikkeukset…
     .accesskey = i
 settings-translations-header =
-    .label = Käännökset
     .aria-label = Käännökset
     .description = Käännä sivuja tai valittu teksti. Yksityisyytesi suojaamiseksi käännökset pysyvät laitteellasi.
+    .label = Käännökset
 settings-translations-offer-to-translate-label =
     .label = Tarjoa koko sivun käännöstä
 settings-translations-more-settings-button =
-    .label = Lisää käännösasetuksia
     .description = Määritä kieleen, verkkosivustoihin ja yhteydettömän tilan käännöksiin liittyvät asetukset.
+    .label = Lisää käännösasetuksia
 settings-translations-subpage-header =
     .heading = Lisää käännösasetuksia
 settings-translations-subpage-speed-up-translation-header =
-    .label = Nopeuta käännöstä
     .description = Lataa kokonaisia kieliä nopeampaa käännöstä ja yhteydettömässä tilassa tapahtuvaa käännöstä varten.
+    .label = Nopeuta käännöstä
 settings-translations-subpage-automatic-translation-header =
     .label = Automaattinen käännös
 settings-translations-subpage-always-translate-header =
@@ -629,8 +629,8 @@ download-always-ask-where =
 applications-header = Ohjelmat
 applications-description = Valitse, miten { -brand-short-name } käsittelee verkosta lataamasi tiedostot tai verkkoa selatessa käyttämäsi ohjelmat.
 applications-setting2 =
-    .label = Tiedostot ja ohjelmat
     .description = Valitse miten { -brand-short-name } käsittelee ladattuja tiedostoja ja sisältöä.
+    .label = Tiedostot ja ohjelmat
 applications-filter =
     .placeholder = Etsi tiedostotyyppejä tai ohjelmia
 applications-type-column =
@@ -794,8 +794,8 @@ about-firefox-header =
 ## Firefox updates
 
 update-application-heading =
-    .label = { -brand-short-name }-päivitykset
     .description = Päivitykset parantavat { -brand-short-name }in nopeutta, vakautta ja turvallisuutta.
+    .label = { -brand-short-name }-päivitykset
 update-application-suppress-prompts-heading =
     .label = Ilmoitukset
 update-application-updates-managed-by-os =
@@ -804,8 +804,8 @@ update-application-updates-managed-by-os =
 ## Firefox support
 
 support-application-heading =
-    .label = { -brand-short-name }-tuki
     .description = Selvitä ongelmia tai jaa ideoita yhteisön kanssa.
+    .label = { -brand-short-name }-tuki
 support-get-help =
     .label = Tuki
 support-share-ideas =
@@ -833,8 +833,8 @@ performance-default-content-process-count =
 performance-group =
     .label = Suorituskyky
 performance-use-recommended-settings-checkbox-2 =
-    .label = Käytä suositeltuja suorituskykyasetuksia
     .description = Nämä asetukset on sovitettu laitteistollesi ja käyttöjärjestelmällesi.
+    .label = Käytä suositeltuja suorituskykyasetuksia
     .accesskey = u
 
 ## Accessibility page
@@ -871,8 +871,8 @@ browsing-search-on-start-typing =
     .label = Ala etsiä tekstistä heti kirjoitettaessa
     .accesskey = A
 settings-keyboard-shortcuts-group =
-    .label = Pikanäppäimet
     .description = Määritä, miten liikut ja olet vuorovaikutuksessa { -brand-short-name }issa.
+    .label = Pikanäppäimet
 settings-keyboard-shortcuts-customkeys-link =
     .label = Mukauta pikanäppäimiä
 settings-media-group =
@@ -902,9 +902,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Lue lisää
 browsing-group =
     .label = Selaus
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Esteettömyys
 preferences-default-zoom-select =
@@ -928,11 +925,11 @@ network-proxy-connection-settings =
     .label = Asetukset…
     .accesskey = A
 network-proxy-group2 =
-    .label = Välityspalvelimen asetukset
     .description = Määritä miten { -brand-short-name } yhdistää Internetiin.
+    .label = Välityspalvelimen asetukset
 network-proxy-connection-settings2 =
-    .label = Määritä välityspalvelin
     .description = Näiden asetusten muuttaminen saattaa aiheuttaa ongelmia yhteydessä
+    .label = Määritä välityspalvelin
     .accesskey = p
 
 ## Home Section
@@ -1027,9 +1024,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Laajennus ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Mukautettu etusivu
 home-custom-homepage-subpage =
     .heading = Mukautettu etusivu
@@ -1045,9 +1039,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Tallentamasi tai vierailemasi sivustot
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsoroidut oikotiet
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Suositukset lähteestä { $provider }
 home-prefs-recommended-by-description-new = Poikkeuksellista, valikoitua sisältöä { $provider }-palvelulta, osana { -brand-product-name }-perhettä
@@ -1139,12 +1130,12 @@ search-show-suggestions-private-windows-2 =
 search-suggestions-cant-show-2 =
     .message = Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet valinnut, että { -brand-short-name } ei muista historiaa.
 addressbar-header-1 =
-    .label = Osoitepalkki
     .description = Valitse osoiterivillä näkyvät ehdotukset
+    .label = Osoitepalkki
 # When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
 addressbar-header-firefox-suggest-2 =
-    .label = { -firefox-suggest-brand-name }
     .description = Ehdotuksia { -brand-short-name }ilta ja yhteistyökumppaneiltamme osoitepalkissasi.
+    .label = { -firefox-suggest-brand-name }
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1175,8 +1166,8 @@ search-suggestions-cant-show = Hakuehdotuksia ei näytetä osoitepalkista tehtä
 search-one-click-header2 = Hakuoikotiet
 search-one-click-desc = Valitse vaihtoehtoiset hakukoneet, jotka ilmestyvät osoite- ja hakupalkin alalaitaan, kun alat kirjoittaa hakusanoja.
 search-one-click-header-3 =
-    .label = Lisähakukoneet
     .description = Valitse mitkä hakukoneet ja oikotiet näkyvät osoitepalkissa.
+    .label = Lisähakukoneet
 update-search-engine-success =
     .message = Hakukone päivitetty onnistuneesti
 search-edit-engine-2 =
@@ -1248,25 +1239,38 @@ containers-remove-button =
 containers-section-header2 =
     .heading = Eristystilan asetukset
 containers-card-header2 =
-    .label = Eristystilat
     .description = Eriytä evästeet eri eristystilojen avulla, niin voit käytttää eri käyttäjätilejä samalla sivustolla ja rajoittaa sivustorajat ylittävää seurantaa.
+    .label = Eristystilat
 containers-add-button2 =
     .label = Lisää uusi eristystila
     .accesskey = a
 containers-new-tab-check3 =
     .label = Valitse eristystila jokaiselle uudelle välilehdelle
     .accesskey = s
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Älä käytä eristystiloja ulkoisista sovelluksista avatuille linkeille
+    .accesskey = Ä
 containers-new-tab-check2 =
+    .description = Tämä avaa eristystilavalikon, kun napsautat uuden välilehden painiketta.
     .label = Valitse eristystila jokaiselle uudelle välilehdelle
     .accesskey = s
-    .description = Tämä avaa eristystilavalikon, kun napsautat uuden välilehden painiketta.
 containers-settings-button2 =
     .title = Asetukset
 containers-remove-button3 =
     .title = Poista
+containers-sites-card-header =
+    .description = Valitse sivustolle eristystila, niin { -brand-short-name } käyttää sitä aina, kun sivusto avautuu.
+    .label = Sivustokohtaiset eristystilat
 containers-sites-add-button =
     .label = Lisää verkkosivusto
     .accesskey = L
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Eristystila sivustolle { $site }
 containers-site-remove-button =
     .title = Poista
 containers-remove-button2 =
@@ -1279,11 +1283,11 @@ sync-group-label =
 account-group-label2 =
     .label = Tili
 account-disabled-group =
-    .label = Tili
     .description = Tilin asetukset eivät ole käytettävissä.
+    .label = Tili
 account-placeholder2 =
-    .label = Et ole kirjautunut sisään
     .description = Kirjaudu sisään ja pidä tietosi yksityisenä, salattuna ja välittömästi käyttövalmiina missä hyvänsä käytät { -brand-short-name }ia.
+    .label = Et ole kirjautunut sisään
 account-sync-section =
     .heading = Tili ja synkronointi
 pane-account-sync-title2 = Tili ja synkronointi
@@ -1318,8 +1322,8 @@ sync-mobile-promo = Lataa Firefox <img data-l10n-name="android-icon"/> <a data-l
 sync-profile-picture =
     .tooltiptext = Vaihda kuva
 sync-profile-picture-with-alt =
-    .tooltiptext = Vaihda kuva
     .alt = Vaihda kuva
+    .tooltiptext = Vaihda kuva
 sync-profile-picture-account-problem =
     .alt = Tilin profiilikuva
 fxa-login-rejected-warning =
@@ -1342,22 +1346,17 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
 sync-signedin-unverified2 =
-    .label = Sähköpostiosoitetta { $email } ei ole vielä vahvistettu
     .description = Tarkista postilaatikkosi vahvistaaksesi tilisi ja tehdäksesi siitä virallisen.
+    .label = Sähköpostiosoitetta { $email } ei ole vielä vahvistettu
 sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $email } yhteyden
 sync-signedin-login-failure2 =
-    .label = Olet kirjautunut ulos tililtä { $email }
     .description = Kirjaudu uudelleen sisään käynnistääksesi tietojesi synkronoinnin.
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
+    .label = Olet kirjautunut ulos tililtä { $email }
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
-    .label = { $name }
     .description = { $email }
+    .label = { $name }
 
 ##
 
@@ -1381,8 +1380,8 @@ prefs-syncing-on-2 =
     .label = Synkronointi on PÄÄLLÄ
 prefs-syncing-off = Synkronointi: POIS PÄÄLTÄ
 prefs-syncing-off-2 =
-    .label = Synkronointi on POIS PÄÄLTÄ
     .description = Ota synkronointi käyttöön saadaksesi kirjanmerkit, salasanat, historian ja paljon muuta mille tahansa laitteelle.
+    .label = Synkronointi on POIS PÄÄLTÄ
 prefs-sync-turn-on-syncing =
     .label = Ota synkronointi käyttöön…
     .accesskey = O
@@ -1392,8 +1391,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
 prefs-sync-now =
     .labelnotsyncing = Synkronoi nyt
-    .accesskeynotsyncing = N
     .labelsyncing = Synkronoidaan…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Synkronoi nyt
     .accesskey = N
@@ -1411,8 +1410,8 @@ prefs-syncing-button-2 =
 sync-syncing-across-devices-heading = Synkronoit näitä tietoja kaikkien yhdistettyjen laitteiden välillä:
 sync-syncing-across-devices-heading-2 = Laitteiden välillä synkronoidut tiedot
 sync-syncing-across-devices-empty-state2 =
-    .label = Synkronoitujen tietojen hallinta
     .description = Et synkronoi mitään… vielä. Aloita synkronointi saadaksesi kaikki tietosi kaikille laitteillesi.
+    .label = Synkronoitujen tietojen hallinta
 sync-currently-syncing-bookmarks = Kirjanmerkit
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Avoimet välilehdet
@@ -1438,12 +1437,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Valitse, mitä synkronoidaan
-    .style = min-width: 36em;
     .buttonlabelaccept = Tallenna muutokset
-    .buttonaccesskeyaccept = T
     .buttonlabelextra2 = Katkaise yhteys…
+    .buttonaccesskeyaccept = T
     .buttonaccesskeyextra2 = K
+    .style = min-width: 36em;
+    .title = Valitse, mitä synkronoidaan
 sync-choose-dialog-subtitle = Muutokset synkronoitavien kohteiden luetteloon vaikuttavat kaikkiin yhdistämiisi laitteisiin.
 sync-engine-bookmarks =
     .label = Kirjanmerkit
@@ -1484,12 +1483,12 @@ sync-engine-settings =
     .tooltiptext = Muuttamasi yleiset asetukset sekä tietosuoja- ja turvallisuusasetukset
     .accesskey = A
 sync-choose-what-to-sync-dialog4 =
-    .title = Hallitse mitä kaikille yhdistetyille laitteillesi synkronoidaan
-    .style = min-width: 36em;
     .buttonlabelaccept = Tallenna
-    .buttonaccesskeyaccept = T
     .buttonlabelextra2 = Katkaise yhteys…
+    .buttonaccesskeyaccept = T
     .buttonaccesskeyextra2 = K
+    .style = min-width: 36em;
+    .title = Hallitse mitä kaikille yhdistetyille laitteillesi synkronoidaan
 
 ## The device name controls.
 
@@ -1548,8 +1547,8 @@ forms-ask-to-save-logins =
 pane-privacy-passwords-header = Salasanat
     .searchkeywords = kirjautumistiedot
 forms-passwords-header =
-    .label = Salasanat
     .aria-label = Salasanat
+    .label = Salasanat
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Kysy salasanojen tallentamisesta
@@ -1604,8 +1603,8 @@ forms-primary-pw-use =
     .label = Käytä pääsalasanaa
     .accesskey = K
 forms-primary-pw-use-2 =
-    .label = Käytä pääsalasanaa
     .description = Lisää kerroksen turvallisuutta tallennettujen salasanojesi suojaamiseksi.
+    .label = Käytä pääsalasanaa
     .accesskey = K
 forms-primary-pw-set =
     .label = Aseta pääsalasana
@@ -1643,12 +1642,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Lisätietoja
 forms-windows-sso-desc = Hallinnoi tilejä laitteen asetuksissa
 windows-passkey-settings-label = Hallitse todentamisavaimia järjestelmän asetuksissa
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
-    .label = Tietosuojapaneelin asetukset
     .description = Apua tietojesi suojaamiseksi verkossa { -brand-short-name }issa.
+    .label = Tietosuojapaneelin asetukset
 # By “breach message” we mean the UI messaging shown when Firefox detects that a
 # site the user has interacted with has been involved in a known data breach
 privacy-panel-breach-alerts =
@@ -1768,8 +1764,8 @@ preferences-passwords-autofill-header =
 #   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
-    .label = { $cardNumber }
     .description = { $expDate }
+    .label = { $cardNumber }
 addresses-group =
     .label = Osoitteita ja muuta
 payments-group =
@@ -1792,8 +1788,8 @@ history-remember-label = { -brand-short-name } säilyttää
 history-remember-option-all =
     .label = Täydelliset historiatiedot
 history-remember-option-never2 =
-    .label = Älä koskaan muista sivuhistoriaa
     .description = Jokainen ikkuna käyttäytyy kuin yksityinen ikkuna. Kun käytössä, laajennukset tulee olla sallittu.
+    .label = Älä koskaan muista sivuhistoriaa
 history-remember-option-custom2 =
     .label = Mukauta sivuhistoriaa
 history-remember-option-never =
@@ -1835,11 +1831,11 @@ history-clear-button =
 history-header2 =
     .heading = Sivuhistoria
 history-section-header =
-    .label = Sivuhistoria
     .description = Valitse mitä haluat { -brand-short-name }in muistavan, kun suljet selaimen.
+    .label = Sivuhistoria
 history-custom-section-header =
-    .label = Lisäasetukset
     .description = Mukauta mitä haluat { -brand-short-name }in muistavan, kun suljet selaimen.
+    .label = Lisäasetukset
 history-custom-button =
     .label = Valitse mitä haluat { -brand-short-name }in muistavan
 history-group =
@@ -1913,19 +1909,19 @@ sitedata-cookies-exceptions =
     .label = Hallitse poikkeuksia…
     .accesskey = p
 sitedata-cookies-exceptions2 =
+    .description = Voit määrittää, mitkä verkkosivustot voivat aina tai ei koskaan käyttää evästeitä ja sivustotietoa.
     .label = Hallitse poikkeuksia
     .accesskey = k
-    .description = Voit määrittää, mitkä verkkosivustot voivat aina tai ei koskaan käyttää evästeitä ja sivustotietoa.
 sitedata-heading =
-    .label = Selaustiedot
     .description = Hallitse evästeitä, sivuhistoriaa, välimuistia, verkkosivustojen tietoja ja paljon muuta.
+    .label = Selaustiedot
 sitedata-settings3 =
     .label = Tyhjennä tiettyjen sivustojen tiedot
     .accesskey = s
 sitedata-cookies-exceptions3 =
+    .description = Valitse miten tietyt sivustot käsittelevät evästeitä ja sivustotietoa.
     .label = Hallitse poikkeuksia
     .accesskey = p
-    .description = Valitse miten tietyt sivustot käsittelevät evästeitä ja sivustotietoa.
 cookies-site-data-group =
     .label = Evästeet ja sivustotiedot
 
@@ -1991,11 +1987,11 @@ addressbar-locbar-showtrendingsuggestions-option-2 =
     .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
-    .label = Ehdotuksia palvelusta { -brand-short-name }
     .description = Hanki hakuusi liittyviä ehdotuksia verkosta.
+    .label = Ehdotuksia palvelusta { -brand-short-name }
 addressbar-locbar-suggest-sponsored-option-2 =
-    .label = Ehdotuksia sponsoreilta
     .description = Tue { -brand-short-name }ia satunnaisilla sponsoroiduilla ehdotuksilla.
+    .label = Ehdotuksia sponsoreilta
 addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 addressbar-locbar-showrecentsearches-option =
     .label = Näytä viimeisimmät haut
@@ -2019,8 +2015,8 @@ addressbar-locbar-suggest-sponsored-desc = Tue { -brand-short-name }ia satunnais
 addressbar-firefox-suggest-online =
     .label = Vastaanota ehdotuksia Mozillasta kirjoittaessasi
 addressbar-dismissed-suggestions-label-2 =
-    .label = Hylätyt ehdotukset
     .description = Palauta sponsorien ja { -brand-short-name }in hylätyt ehdotukset.
+    .label = Hylätyt ehdotukset
 addressbar-restore-dismissed-suggestions-button-2 =
     .label = Palauta ehdotukset
 addressbar-quickactions-learn-more = Lue lisää
@@ -2077,9 +2073,6 @@ content-blocking-fingerprinters = Yksilöijät
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Tunnetut ja epäillyt yksilöijät
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totaalinen evästesuoja eristää evästeet sivustolle, jolla olet, joten seuraimet eivät voi käyttää niitä seurantaan sivustojen välillä.
 content-blocking-etp-standard-tcp-rollout-learn-more = Lue lisää
@@ -2092,12 +2085,12 @@ content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name }
 content-blocking-and-isolating-etp-warning-description-2 = Tämä asetus saattaa aiheuttaa sen, että jotkin verkkosivustot eivät näytä sisältöä tai toimi oikein. Jos sivusto vaikuttaa rikkoutuneen, saatat haluta poistaa seurannan suojauksen käytöstä kyseisen sivuston kohdalta, jotta kaikki sisältö voidaan ladata.
 content-blocking-warning-learn-how = Lue lisää
 content-blocking-baseline-exceptions-3 =
-    .label = Korjaa merkittävät sivuston ongelmat (suositus)
     .description = Auttaa lataamaan sivustoja ja ominaisuuksia poistamalla estoja vain tärkeiltä elementeiltä, jotka saattavat sisältää seuraimia. Kattaa yleisimmät ongelmat.
+    .label = Korjaa merkittävät sivuston ongelmat (suositus)
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
 content-blocking-convenience-exceptions-3 =
-    .label = Korjaa pienet sivuston ongelmat
     .description = Palauttaa esimerkiksi videot artikkelissa tai kommenttiosiot poistamalla mahdollisesti seuraimia sisältävien elementtien eston. Tämä voi vähentää sivuston ongelmia, mutta tarjoaa vähemmän suojaa. On käytettävä korjausten kanssa merkittävissä ongelmissa.
+    .label = Korjaa pienet sivuston ongelmat
 content-blocking-baseline-uncheck-warning-dialog-title = Haluatko varmasti poistaa korjaukset käytöstä?
 content-blocking-baseline-uncheck-warning-dialog-body = Tämä asetus auttaa korjaamaan yleisimpiä sivusto-ongelmia. Jos poistat sen käytöstä, jotkin sivustot eivät välttämättä toimi, eikä { -brand-short-name } pysty auttamaan näiden ongelmien vianmäärityksessä.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Poista korjaukset käytöstä
@@ -2193,10 +2186,10 @@ permissions-block-popups2 =
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button4 =
-    .label = Hallitse poikkeuksia
     .description = Lisää verkkosivustoja, jotka voivat avata ponnahdusikkunoita ja käyttää kolmannen osapuolen uudelleenohjauksia.
-    .accesskey = e
+    .label = Hallitse poikkeuksia
     .searchkeywords = ponnahdukset
+    .accesskey = e
 permissions-addon-install-warning3 =
     .label = Näytä varoitus, kun verkkosivustot yrittävät asentaa laajennuksia
     .accesskey = v
@@ -2210,8 +2203,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Poikkeukset…
-    .accesskey = P
     .searchkeywords = ponnahdukset
+    .accesskey = P
 permissions-addon-install-warning =
     .label = Varoita, kun sivustot yrittävät asentaa lisäosia
     .accesskey = V
@@ -2236,8 +2229,8 @@ permissions-speaker2 =
 permissions-notification2 =
     .label = Ilmoitukset
 permissions-header3 =
-    .label = Käyttöoikeudet
     .description = Hallitse mitä verkkosivustot voivat käyttää, ohjata ja käynnistää.
+    .label = Käyttöoikeudet
 permissions-data-section =
     .heading = Käyttöoikeudet ja data
 pane-permissions-data-title2 = Käyttöoikeudet ja data
@@ -2259,11 +2252,11 @@ collection-health-report-telemetry-disabled-link = Lue lisää
 backup-multi-profile-warning-message =
     .message = Varmistaaksesi, että tämä muutos sisältyy varmuuskopioihisi, avaa jokainen profiili ja valitse asetuksissa ”Varmuuskopioi nyt”.
 nimbus-rollouts =
-    .label = Salli { -brand-short-name }in parantaa ominaisuuksia, suorituskykyä ja vakautta päivitysten välillä
     .description = Muutokset toteutetaan etäohjattuna.
+    .label = Salli { -brand-short-name }in parantaa ominaisuuksia, suorituskykyä ja vakautta päivitysten välillä
 addon-recommendations3 =
-    .label = Salli henkilökohtaiset laajennussuositukset
     .description = Hanki laajennussuosituksia parantaaksesi selauskokemustasi.
+    .label = Salli henkilökohtaiset laajennussuositukset
 collection-usage-ping =
     .label = Lähetä päivittäinen käyttöilmoitus { -vendor-short-name }lle
     .accesskey = u
@@ -2314,8 +2307,8 @@ privacy-segmentation-radio-on =
     .label = Näytä yksityiskohtaiset tiedot
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 data-collection =
-    .label = { -brand-short-name }in tietojen keräys ja käyttö
     .description = Pyrimme tarjoamaan sinulle vaihtoehtoja ja keräämään vain vähimmäistiedot, jotka ovat tarpeen { -brand-product-name }in parantamiseksi.
+    .label = { -brand-short-name }in tietojen keräys ja käyttö
     .searchkeywords = telemetria
 data-collection-link = Näytä tietosuojakäytäntö
 data-collection-preferences-across-profiles =
@@ -2324,25 +2317,25 @@ data-collection-profiles-link = Näytä kaikki profiilit
 data-collection-health-report-telemetry-disabled =
     .message = Et enää salli { -vendor-short-name }n vastaanottaa teknisiä ja käyttötilastoja. Kaikki aikaisemmat tiedot poistetaan 30 päivän kuluessa.
 data-collection-health-report =
-    .label = Lähetä teknistä ja vuorovaikutustietoa { -vendor-short-name }lle
-    .accesskey = r
     .description = Tämä auttaa meitä parantamaan { -brand-product-name }in ominaisuuksia, suorituskykyä ja vakautta.
-data-collection-health-report-disabled =
     .label = Lähetä teknistä ja vuorovaikutustietoa { -vendor-short-name }lle
     .accesskey = r
+data-collection-health-report-disabled =
     .description = Dataraportointi on poistettu käytöstä tästä koontimäärityksestä.
+    .label = Lähetä teknistä ja vuorovaikutustietoa { -vendor-short-name }lle
+    .accesskey = r
 data-collection-run-studies =
-    .label = Salli, että { -brand-short-name } suorittaa ominaisuustutkimuksia
     .description = { -brand-short-name } valitsee satunnaisesti käyttäjiä testaamaan ominaisuuksia, mikä auttaa parantamaan laatua kaikille.
+    .label = Salli, että { -brand-short-name } suorittaa ominaisuustutkimuksia
 data-collection-studies-link =
     .label = Näytä { -brand-short-name }-tutkimukset
 data-collection-backlogged-crash-reports =
-    .label = Lähetä kaatumisilmoitukset automaattisesti
     .description = Tämä auttaa { -vendor-short-name }a diagnosoimaan ja korjaamaan selaimen ongelmia. Ilmoitukset voivat sisältää henkilökohtaista tai arkaluonteista tietoa.
+    .label = Lähetä kaatumisilmoitukset automaattisesti
     .accesskey = ä
 data-collection-usage-ping =
-    .label = Lähetä päivittäinen käyttöilmoitus { -vendor-short-name }lle
     .description = Tämä auttaa { -vendor-short-name }a arvioimaan aktiivisten käyttäjien määrää.
+    .label = Lähetä päivittäinen käyttöilmoitus { -vendor-short-name }lle
     .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
@@ -2360,8 +2353,8 @@ website-advertising-private-attribution-description = Tämä auttaa sivustoja ym
 
 security-header = Turvallisuus
 browsing-protection-group2 =
-    .label = Petolliselta sisällöltä ja vaarallisilta ohjelmilta suojaus
     .description = Vaaralliset sivustot ja lataukset voivat saattaa tietosi ja laitteesi alttiiksi riskeille. { -brand-short-name } estää ne automaattisesti, ja varoittaa sinua riskalttiista tai ei-halutuista ohjelmistoista.
+    .label = Petolliselta sisällöltä ja vaarallisilta ohjelmilta suojaus
 security-browsing-protection = Petolliselta sisällöltä ja vaarallisilta ohjelmilta suojaus
 security-enable-safe-browsing =
     .label = Estä vaarallinen ja petollinen sisältö
@@ -2398,8 +2391,8 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") } loppuu kohta levytila.</strong> Sivustojen sisällöt eivät ehkä näy oikein. Voit tyhjentää sivustotiedot avaamalla Asetukset > Tietosuoja ja turvallisuus > Evästeet ja sivustotiedot.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") } loppuu kohta levytila.</strong> Sivustojen sisällöt eivät ehkä näy oikein. Voit lukea levyn käytön optimoimisesta selaamisen sujuvoittamiseksi painamalla ”Lue lisää”.
 certs-description3 =
-    .label = Varmenteet
     .description = Määritä { -brand-short-name }in suojattujen yhteyksien vahvistamiseen käyttämät varmenteet.
+    .label = Varmenteet
 certs-view2 =
     .label = Hallitse varmenteita
     .accesskey = r
@@ -2419,13 +2412,13 @@ httpsonly-radio-enabled =
 httpsonly-radio-enabled-pbm =
     .label = Käytä ”Vain HTTPS”-tilaa vain yksityisissä ikkunoissa
 httpsonly-radio-disabled3 =
-    .label = Älä käytä ”Vain HTTPS”-tilaa
     .description = { -brand-short-name } saattaa silti päivittää jotkin yhteydet salatuksi
+    .label = Älä käytä ”Vain HTTPS”-tilaa
 httpsonly-radio-disabled =
     .label = Älä käytä ”Vain HTTPS”-tilaa
 httpsonly-group =
-    .label = Vain HTTPS -tila
     .description = Sallii vain suojatut yhteydet verkkosivustoille. { -brand-short-name } kysyy, ennen kuin muodostaa suojaamattoman yhteyden.
+    .label = Vain HTTPS -tila
 httpsonly-label2 =
     .aria-label = { httpsonly-group.label }
 
@@ -2433,8 +2426,8 @@ httpsonly-label2 =
 
 preferences-doh-header = DNS HTTPS:n kautta
 dns-over-https-group2 =
-    .label = DNS HTTPS:n kautta
     .description = Domain Name System (nimipalvelujärjestlemä) HTTPS:n kautta (DoH) salaa sivustojen etsinnän, joten Internet-yhteytesi palveluntarjoajan ja muiden on vaikeampi nähdä, millä verkkosivustoilla vierailet.
+    .label = DNS HTTPS:n kautta
 preferences-doh-description = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, luoden suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
 preferences-doh-description2 = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, tarjoten suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
 # Variables:
@@ -2491,31 +2484,31 @@ preferences-doh-manage-exceptions =
     .label = Hallitse poikkeuksia…
     .accesskey = H
 preferences-doh-overview-default =
-    .label = Oletussuojaus
     .description = Käytä suojattua DNS:ää alueilla, joilla se on saatavilla.
+    .label = Oletussuojaus
 preferences-doh-overview-custom =
-    .label = Mukautettu
     .description = Käytä aina suojattua DNS:ää halliten palveluntarjoajaa ja varatoiminnallisuutta.
+    .label = Mukautettu
 preferences-doh-overview-off =
-    .label = Pois päältä
     .description = Käytä yhteytesi oletusarvoista DNS-selvittäjää.
+    .label = Pois päältä
 preferences-doh-advanced-button =
     .label = Lisäasetukset
 preferences-doh-advanced-section =
-    .label = Lisäasetukset
     .description = Domain Name System (nimipalvelujärjestlemä) HTTPS:n kautta (DoH) salaa sivustojen etsinnän, joten Internet-yhteytesi palveluntarjoajan ja muiden on vaikeampi nähdä, millä verkkosivustoilla vierailet.
+    .label = Lisäasetukset
 preferences-doh-manage-exceptions2 =
     .label = Hallitse poikkeuksia
     .accesskey = p
 preferences-doh-radio-default =
-    .label = Oletus
     .description = Käytä suojattua DNS:ää alueilla, joilla se on saatavilla
+    .label = Oletus
 preferences-doh-radio-custom =
-    .label = Mukautettu
     .description = Käytä aina suojattua DNS:ää siten, että hallitset palveluntarjoajaa ja varatoiminnallisuutta
+    .label = Mukautettu
 preferences-doh-radio-off =
-    .label = Pois päältä
     .description = Käytä yhteytesi oletusarvoista DNS-selvittäjää
+    .label = Pois päältä
 preferences-doh-fallback-label =
     .label = Varoita aina, jos suojattua DNS:ää ei ole saatavilla
 preferences-doh-status-item-off =
@@ -2559,8 +2552,8 @@ preferences-doh-header2 =
 preferences-connection-header =
     .heading = Yhteys- ja ohjelmistoturvallisuus
 preferences-connection-link-section =
-    .label = Yhteys- ja ohjelmistoturvallisuus
     .description = Näe kuinka yhteydet pysyvät suojattuna, haitalliset ohjelmistot estetään ja verkkosivustot vahvistetaan.
+    .label = Yhteys- ja ohjelmistoturvallisuus
 preferences-connection-link-button =
     .label = Lisäasetukset
 
@@ -2575,32 +2568,32 @@ choose-download-folder-title = Valitse tallennuskansio
 preferences-appearance-header =
     .heading = Ulkoasu
 browser-theme-group =
-    .label = Selaimen teema
     .description = Aseta { -brand-short-name }ille haluamasi tyyli. Teeman värejä käytetään työkalupalkeissa, valikoissa ja viesteissä.
+    .label = Selaimen teema
 browser-theme-manage-link =
     .label = Hallitse { -brand-short-name }in teemoja
 appearance-window-density-group =
-    .label = Ikkunan tiheys
     .description = Säädä välistystä ikkunaelementtien, kuten työkalupalkin, välilehtien ja sivupalkin välillä.
+    .label = Ikkunan tiheys
 appearance-window-density-radio-group =
     .aria-label = Ikkunan tiheys
 appearance-window-density-automatic =
-    .label = Automaattinen (oletus)
     .description = Tavallinen, tiivis tai kosketuspohjainen välistys toteutetaan automaattisesti
-appearance-window-density-automatic-no-touch =
     .label = Automaattinen (oletus)
+appearance-window-density-automatic-no-touch =
     .description = Tavallinen tai kompakti välistys toteutetaan automaattisesti
+    .label = Automaattinen (oletus)
 appearance-window-density-standard =
-    .label = Tavallinen
     .description = Tasapainotettu välistys useimmille näytöille
+    .label = Tavallinen
 appearance-window-density-auto-touch-mode =
     .label = Käytä kosketusvälistystä tablettitilassa
 appearance-window-density-compact =
-    .label = Tiivis
     .description = Pienempi välistys pienemmille näytöille
+    .label = Tiivis
 appearance-window-density-touch =
-    .label = Kosketus
     .description = Suuremmat ikkunaelementit ja napsautusalueet, optimoitu kosketusnäytöille
+    .label = Kosketus
 related-settings-group =
     .label = Aiheeseen liittyvät asetukset
 related-settings-accessibility-link =
@@ -2620,27 +2613,27 @@ preferences-ai-controls-block-ai-description = Estäminen tarkoittaa, että et n
 preferences-ai-controls-blocked-message =
     .message = Uudet ja nykyiset tekoälytehostukset on oletusarvoisesti estetty. Voit poistaa tietyn ominaisuuden eston alla olevilla säätimillä.
 preferences-ai-controls-on-device-group =
-    .label = Paikallisen laitteen tekoäly
     .description = Nämä ovat pieniä tekoälymalleja, jotka ladataan laitteellesi, jos käytät tätä ominaisuutta. Tämä lähestymistapa auttaa suojaamaan yksityisyyttäsi.
+    .label = Paikallisen laitteen tekoäly
 preferences-ai-controls-translations-control =
-    .label = Käännökset
     .description = Selaa verkkoa haluamallasi kielellä.
+    .label = Käännökset
 preferences-ai-controls-translations-more-link = Lisää käännösasetuksia
 preferences-ai-controls-pdfjs-control =
-    .label = Kuvan alt-teksti { -brand-short-name }in PDF-katseluohjelmassa
     .description = Kun lisäät kuvia PDF-tiedostoihin, tämä lisää kuvaavia tekstejä saavutettavuuden takaamiseksi.
+    .label = Kuvan alt-teksti { -brand-short-name }in PDF-katseluohjelmassa
 preferences-ai-controls-tab-group-suggestions-control =
-    .label = Välilehtiryhmien ehdotukset
     .description = Vastaanota ehdotuksia välilehtiesi nimeämiseen ja järjestämiseen.
+    .label = Välilehtiryhmien ehdotukset
 preferences-ai-controls-key-points-control =
-    .label = Pääkohdat linkkien esikatselussa
     .description = Näe nopea yhteenveto ennen linkin avaamista.
+    .label = Pääkohdat linkkien esikatselussa
 preferences-ai-controls-sidebar-chatbot-group-2 =
-    .label = Chatbot-palveluntarjoajat sivupaneelissa
     .description = Pidä chatbotti näkyvissä selatessasi. Valitse seuraavista: Anthropic Claude, ChatGPT, Copilot, Google Gemini tai Mistral Vibe.
+    .label = Chatbot-palveluntarjoajat sivupaneelissa
 preferences-ai-controls-sidebar-chatbot-group =
-    .label = Chatbot-palveluntarjoajat sivupalkissa
     .description = Pidä chatbot näkyvissä kun selaat. Vaihtoehdot ovat Anthropic Claude, ChatGPT, Copilot, Google Gemini ja Le Chat Mistral.
+    .label = Chatbot-palveluntarjoajat sivupalkissa
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot sivupaneelissa
 # This option means that a user will see the feature and can use it.
@@ -2709,35 +2702,35 @@ security-privacy-issue-card =
 issue-card-reset-button =
     .label = Palauta
 issue-card-dismiss-button =
-    .tooltiptext = Hylkää
     .aria-label = Hylkää
+    .tooltiptext = Hylkää
 
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-status-header =
-    .label = Tehostettu seurannan suojaus
     .description = Sivustot käyttävät seuraimia käyttäjien seurantaan ja mainosten esittämiseen. { -brand-short-name } suojaa sinut, kun selaat, estäen seuraimet automaattisesti, asettaen digitaalisen jalanjälkesi hallintaasi.
+    .label = Tehostettu seurannan suojaus
 preferences-etp-level-standard =
-    .label = Tavallinen (oletus)
     .description = Vahva, luotettava suojaus, joka toimii useimpien verkkosivustojen kanssa.
+    .label = Tavallinen (oletus)
 preferences-etp-level-strict =
-    .label = Tiukka
     .description = Vahvemmat suojaukset useimpien seurainten estämiseksi, mutta saattaa aiheuttaa joidenkin verkkosivustojen rikkoutumisen.
+    .label = Tiukka
 preferences-etp-level-custom =
-    .label = Mukautettu
     .description = Valitse mitkä suojaukset ovat käytössä tai pois käytöstä.
+    .label = Mukautettu
 preferences-etp-status-advanced-button =
     .label = Lisäasetukset
 preferences-etp-tracker-count-enabled =
     .label = Näytä estetyt seuraimet osoiterivillä
 preferences-etp-status-protections-dashboard-link =
-    .label = Tarkastele mukautettua suojaushallintapaneeliasi
     .description = Näe, kuinka monta seurainta { -brand-short-name } on estänyt puolestasi, mukaan lukien sosiaalisen median seuraimet, yksilöijät ja kryptolouhijat.
+    .label = Tarkastele mukautettua suojaushallintapaneeliasi
 preferences-etp-header =
     .heading = Tehostettu seurannan suojaus
 preferences-etp-advanced-settings-group =
-    .label = Lisäasetukset
     .description = Sivustot käyttävät seuraimia käyttäjien seurantaan ja mainosten esittämiseen. { -brand-short-name } suojaa sinut, kun selaat, estäen seuraimet automaattisesti, asettaen digitaalisen jalanjälkesi hallintaasi.
+    .label = Lisäasetukset
 preferences-etp-customize-button =
     .label = Mukauta seurannan suojausta
 preferences-etp-reload-tabs-hint =
@@ -2750,20 +2743,20 @@ preferences-etp-level-warning-message =
     .heading = Huomio! Jotkin sivustot eivät välttämättä toimi odotetulla tavalla.
     .message = Jotkin sivustot rakentavat seuraimia itse sivuston ominaisuuksiin tai sisältöön. Kun { -brand-short-name } estää ne, sivusto vaikuttaa rikkinäiseltä. Kokeile “Korjaa sivuston ongelmat” tai poista seurannan suojaus pois käytöstä kyseisellä sivustolla.
 preferences-etp-manage-exceptions-button =
-    .label = Hallitse poikkeuksia
     .description = Hallitse verkkosivustoja, joiden kohdalla ei käytetä tehostettua seurannan suojausta.
+    .label = Hallitse poikkeuksia
 preferences-etp-customize-header =
     .heading = Mukauta seurannan suojausta
 preferences-etp-reset =
-    .label = Nollaa mukautukset
     .description = Palauta asetukset esiasetettuun suojaustasoon.
+    .label = Nollaa mukautukset
 preferences-etp-reset-standard-button =
     .label = Palauta vakioasetuksiin
 preferences-etp-reset-strict-button =
     .label = Palauta tiukaksi
 preferences-etp-custom-control-group =
-    .label = Seurannan suojaus
     .description = Valitse mitkä suojaukset ovat käytössä tai pois käytöstä.
+    .label = Seurannan suojaus
 preferences-etp-custom-cookies-enabled =
     .label = Evästeet
 preferences-etp-custom-cookie-behavior =
@@ -2796,46 +2789,46 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 ## Warnings section
 
 security-privacy-issue-warning-fingerprinters =
-    .label = Tunnettuja yksilöijiä ei estetä
     .description = Tämä saattaa mahdollistaa joidenkin seurainten seurata sinua ilman evästeitä.
+    .label = Tunnettuja yksilöijiä ei estetä
 security-privacy-issue-warning-third-party-cookies =
-    .label = Kolmannen osapuolen evästeet ovat käytössä
     .description = Kolmannen osapuolen evästeitä käytetään seuraamiseesi verkkosivustojen välillä.
+    .label = Kolmannen osapuolen evästeet ovat käytössä
 security-privacy-issue-warning-password-manager =
-    .label = Salasananhallinta on poistettu käytöstä
     .description = Salasananhallinnan palvelut ja sovellukset voivat auttaa tallentamaan vahvoja salasanoja tilejäsi varten.
+    .label = Salasananhallinta on poistettu käytöstä
 security-privacy-issue-warning-popup-blocker =
-    .label = Ponnahdusikkunoiden esto on poistettu käytöstä
     .description = Ponnahdusikkunat ovat häiritseviä ja mahdollisesti haitallisia.
+    .label = Ponnahdusikkunoiden esto on poistettu käytöstä
 security-privacy-issue-warning-extension-install =
-    .label = Verkkosivustot voivat asentaa laajennuksia
     .description = Verkkosivustot voivat asentaa laajennuksia { -brand-short-name }iin kysymättä minulta.
+    .label = Verkkosivustot voivat asentaa laajennuksia
 security-privacy-issue-warning-safe-browsing =
-    .label = Vaarallista ja harhaanjohtavaa sisältöä ei estetä
     .description = Altistumisesi verkkosivustojen huijauksille ja haittaohjelmille on kasvanut.
+    .label = Vaarallista ja harhaanjohtavaa sisältöä ei estetä
 security-privacy-issue-warning-doh2 =
-    .label = DNS HTTPS:n kautta on poistettu käytöstä
     .description = HTTPS-yhteyden kautta toimiva DNS auttaa piilottamaan verkko-operaattoriltasi, millä sivustoilla olet käymässä.
-security-privacy-issue-warning-ech2 =
-    .label = Salattu Client Hello on poistettu käytöstä
-    .description = Salatun Client Hellon avulla voit piilottaa verkkopalveluntarjoajaltasi, millä sivustoilla olet käymässä.
-security-privacy-issue-warning-doh =
     .label = DNS HTTPS:n kautta on poistettu käytöstä
-    .description = DNS HTTPS:n kautta piilottaa verkkoyhteytesi tarjoajalta vierailemasi sivustot.
-security-privacy-issue-warning-ech =
+security-privacy-issue-warning-ech2 =
+    .description = Salatun Client Hellon avulla voit piilottaa verkkopalveluntarjoajaltasi, millä sivustoilla olet käymässä.
     .label = Salattu Client Hello on poistettu käytöstä
+security-privacy-issue-warning-doh =
+    .description = DNS HTTPS:n kautta piilottaa verkkoyhteytesi tarjoajalta vierailemasi sivustot.
+    .label = DNS HTTPS:n kautta on poistettu käytöstä
+security-privacy-issue-warning-ech =
     .description = Salattu Client Hello piilottaa verkkoyhteytesi tarjoajalta vierailemasi sivustot.
+    .label = Salattu Client Hello on poistettu käytöstä
 security-privacy-issue-warning-proxy-autodetection =
-    .label = Välityspalvelimen automaattinen määritys on käytössä
     .description = Välityspalvelimen automaattinen määritys saattaa mahdollistaa ei-luotettujen verkkojen tarkkailla toimiasi.
+    .label = Välityspalvelimen automaattinen määritys on käytössä
 
 ## Referrals Section
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-section-header =
-    .label = Jaa { -brand-short-name }
     .description = Pyydä jotakuta valitsemaan yksityisyyden etusijalle asettava selain.
+    .label = Jaa { -brand-short-name }
 # Link that opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link =
@@ -2843,8 +2836,8 @@ referrals-link =
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
-    .label = Jaa { -brand-product-name }
     .description = Pyydä jotakuta valitsemaan yksityisyyden etusijalle asettava selain.
+    .label = Jaa { -brand-product-name }
 # Link that opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link2 =

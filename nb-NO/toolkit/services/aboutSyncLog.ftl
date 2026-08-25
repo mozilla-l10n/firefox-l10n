@@ -65,4 +65,11 @@ about-sync-log-view-error = Kunne ikke lese denne loggfilen.
 ## Clear logs confirmation
 
 about-sync-log-clear-confirm-title = Tøm synkroniseringslogger?
+# Variables:
+#   $count (Number) - Number of logs that will be deleted.
+about-sync-log-clear-confirm-message =
+    { $count ->
+        [one] Dette vil slette { $count } synlig loggfil permanent.
+       *[other] Dette vil slette { $count } synlige loggfiler permanent.
+    }
 about-sync-log-clear-confirm-accept = Slett
