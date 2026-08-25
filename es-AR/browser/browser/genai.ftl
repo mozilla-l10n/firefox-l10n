@@ -251,8 +251,8 @@ link-preview-generation-retry = Vuelva a intentarlo
 link-preview-settings-button =
     .title = Configuración de la vista previa del enlace
 link-preview-settings-enable =
-    .label = Habilitar vistas previas de enlaces
     .description = Use el atajo o haga clic derecho sobre el enlace para ver el título, una descripción y más información de la página.
+    .label = Habilitar vistas previas de enlaces
 link-preview-settings-key-points =
     .label = Permitir que el motor de IA lea el comienzo de la página y genere puntos clave
 link-preview-settings-long-press =
@@ -260,7 +260,7 @@ link-preview-settings-long-press =
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Desea ver más información generada con IA?
 # Message that appears when user is shown the opt-in flow for link previews
-link-preview-optin-message = { -brand-short-name } utiliza IA para leer el comienzo de la página y generar puntos clave. Para proteger su privacidad, esto solo ocurre en su dispositivo.
+link-preview-optin-message = { -brand-short-name } utiliza IA para leer el comienzo de la página y generar puntos clave. Para proteger su privacidad, esto ocurre en su dispositivo.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Novedad. Mantenga presionado el enlace para obtener una vista previa
 # Onboarding card description for long press
