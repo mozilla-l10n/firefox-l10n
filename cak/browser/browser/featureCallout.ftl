@@ -43,3 +43,22 @@ callout-pdfjs-draw-body-a = Taya' ketal ri taq ruyakb'al PDF, k'a ri' ke'ayaka' 
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Man ke'atz'ajb'a' chuqa' mani chik yawachitz'ajb'an. Taya' ketal ri taq ruyakb'al PDF, k'a ri' ke'ayaka' ri taq jaloj.
 callout-pdfjs-draw-button = Xik'o pa nuwi'!
+
+## Firefox View Discoverability Strings
+
+fx-view-discoverability-primary-button-label = Tijaq { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Tichup ruwäch
+
+## Split Dismiss Button Labels
+
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Tinuk'samajïx runuk'ulem
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Ch'aqa' taq cha'oj
+
+## Bookmarks toolbar callout strings
+
+bookmarks-toolbar-callout-1-primary-button-label = Ketz'aqatisäx taq retal
+bookmarks-toolbar-callout-1-secondary-button-label = Mani matyox

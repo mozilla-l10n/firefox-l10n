@@ -101,19 +101,34 @@ contextual-manager-passwords-username-label = Rub'i' winäq
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Ewan tzij
     .data-after = Wachib'en
+contextual-manager-passwords-add-password-success-button = Titz'et
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Xyak ewan tzij
 contextual-manager-passwords-update-password-success-button = Xk'is
 contextual-manager-passwords-delete-password-success-button = Xk'is
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = La niyuj ri ewan tzij?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Chi rij
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Tiyuj
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Tiq'at
+contextual-manager-passwords-alert-back-button =
+    .label = Chi rij
+contextual-manager-passwords-change-password-button = Tijal ewan tzij
+contextual-manager-passwords-title = Ewan taq tzij
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Titz'aqatisäx ewan tzij
+contextual-manager-passwords-update-label =
+    .label = Tik'ex ri ewan tzij
+contextual-manager-passwords-edit-label =
+    .label = Tinuk' ewan tzij
+contextual-manager-passwords-remove-label =
+    .title = Tiyuj ri ewan tzij
 contextual-manager-passwords-origin-field =
     .label = Ajk'amaya'l Ochochib'äl
     .placeholder = https://www.example.com
@@ -128,3 +143,16 @@ contextual-manager-passwords-list-label =
     .aria-label = Ewan taq tzij
 contextual-manager-copy-icon =
     .alt = Tiwachib'ëx
+contextual-manager-check-icon-username =
+    .alt = Wachib'en
+contextual-manager-check-icon-password =
+    .alt = Wachib'en
+contextual-manager-alert-icon =
+    .alt = K'ayewal
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
+contextual-manager-passwords-discard-changes-close-button = Titz'apïx
+contextual-manager-passwords-discard-changes-go-back-button = Titzolin
+contextual-manager-primary-password-learn-more-link = Tetamäx ch'aqa'
