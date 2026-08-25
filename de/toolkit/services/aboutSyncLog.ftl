@@ -9,6 +9,8 @@ about-sync-log-page-header =
 
 ## Filter controls
 
+about-sync-log-filter-type =
+    .aria-label = Typ
 about-sync-log-filter-type-all =
     .label = Alle
 about-sync-log-filter-type-success =
@@ -33,6 +35,8 @@ about-sync-log-search-input =
 
 about-sync-log-refresh-button =
     .label = Aktualisieren
+about-sync-log-download-button =
+    .label = Angezeigte Protokolle herunterladen (.zip)
 about-sync-log-clear-button =
     .label = Protokolle löschen
 
@@ -57,7 +61,18 @@ about-sync-log-empty-filtered = Keine Protokolle, die den aktuellen Filtern ents
 ## Inline viewer
 
 about-sync-log-view-error = Diese Protokolldatei konnte nicht gelesen werden.
+# Opens the raw log file in a new browser tab.
+about-sync-log-open-raw =
+    .label = Rohprotokoll öffnen
 
 ## Clear logs confirmation
 
+about-sync-log-clear-confirm-title = Synchronisierungs-Protokolle löschen?
+# Variables:
+#   $count (Number) - Number of logs that will be deleted.
+about-sync-log-clear-confirm-message =
+    { $count ->
+        [one] Dies löscht { $count } sichtbare Protokolldatei dauerhaft.
+       *[other] Dies löscht { $count } sichtbare Protokolldateien dauerhaft.
+    }
 about-sync-log-clear-confirm-accept = Löschen

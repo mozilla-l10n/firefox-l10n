@@ -10,8 +10,8 @@
 # subpage. The browser icon is the icon shown on the desktop, taskbar, and
 # Start Menu.
 appearance-browser-icon-entry-group =
-    .label = Kundaha ra’ãnga’i
     .description = Eiporavo ta’ãnga’i mboavapyre tembiaporã rupápe g̃uarã, mohendaha ha ñepyrũha nporavorã.
+    .label = Kundaha ra’ãnga’i
 appearance-browser-icon-button =
     .label = Emoambue kundahára ra’ãnga’i
 
@@ -33,6 +33,9 @@ appearance-browser-icon-bonus-group =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Emoĩmba ha eipe’a aguara ra’ãnga’ive emboava hag̃ua { -brand-short-name }.
 # Shown in place of appearance-browser-icon-requirement once the bonus icons are
 # unlocked (the browser is both the default and pinned to the taskbar).
 appearance-browser-icon-unlocked =
@@ -62,5 +65,5 @@ appearance-browser-icon-pixelated =
 # @heyheymomodraws is the social-media handle of the icon's author and must be
 # kept verbatim - do not translate or otherwise change it.
 appearance-browser-icon-momo =
-    .label = Momo
     .description = @heyheymomodraws omoheñoipyre
+    .label = Momo
