@@ -79,3 +79,34 @@ ai-window-manage-memories-header =
 ai-window-no-memories =
     .label = Nie ma jeszcze żadnych zapamiętanych treści
     .description = Zapamiętane treści będą pojawiać się tutaj w miarę jak { -smart-window-brand-name(case: "nom", capitalization: "lower-singular") } będzie uczyć się na podstawie Twoich działań.
+ai-window-no-memories-learning-off =
+    .label = Nie ma zapamiętanych treści
+    .description = Uczenie się na podstawie działań użytkownika jest wyłączone, więc { -smart-window-brand-name(case: "nom", capitalization: "lower-singular") } nie tworzy zapamiętanych treści.
+ai-window-delete-all-memories-button =
+    .label = Usuń wszystkie
+ai-window-delete-all-memories-title = Czy usunąć wszystkie zapamiętane treści?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = Istniejące zapamiętane treści zostaną usunięte. Jeśli nie chcesz tworzyć nowych, odznacz opcje „Ucz się z…” w ustawieniach { -smart-window-brand-name(case: "gen", capitalization: "lower-singular") }.
+ai-window-delete-all-memories-confirm = Usuń
+ai-window-delete-all-memories-cancel = Anuluj
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .title = Usuń zapamiętaną treść
+    .aria-label = Usuń „{ $label }”
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast-v2 =
+    .label = { $shortName }: szybki
+    .description = Najlepszy do szybkich odpowiedzi, gdy liczy się czas. Pełna nazwa: { $model } od firmy { $ownerName }
+smart-window-model-flexible-v2 =
+    .label = { $shortName }: elastyczny
+    .description = Gotowy do różnorodnych zadań. Pełna nazwa: { $model } od firmy { $ownerName }
+smart-window-model-personal-v2 =
+    .label = { $shortName }: osobisty
+    .description = Zbudowany z myślą o zindywidualizowanej pomocy w różnych językach. Pełna nazwa: { $model } od firmy { $ownerName }
