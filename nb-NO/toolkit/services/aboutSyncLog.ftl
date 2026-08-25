@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-sync-log-title = Synkroniseringslogger
+about-sync-log-page-header =
+    .description = Diagnostiske logger skrevet av synkronisering.
+    .heading = Synkroniseringslogger
 
 ## Filter controls
 
@@ -24,6 +27,9 @@ about-sync-log-filter-date-7days =
     .label = Siste 7 dager
 about-sync-log-filter-date-30days =
     .label = Siste 30 dager
+about-sync-log-search-input =
+    .aria-label = Søk i logger
+    .placeholder = Søk i logger
 
 ## Toolbar actions
 
@@ -31,6 +37,8 @@ about-sync-log-refresh-button =
     .label = Oppdater
 about-sync-log-download-button =
     .label = Last ned synlige logger (.zip)
+about-sync-log-clear-button =
+    .label = Tøm logger
 
 ## Log list
 
@@ -56,4 +64,5 @@ about-sync-log-view-error = Kunne ikke lese denne loggfilen.
 
 ## Clear logs confirmation
 
+about-sync-log-clear-confirm-title = Tøm synkroniseringslogger?
 about-sync-log-clear-confirm-accept = Slett
