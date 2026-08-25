@@ -18,7 +18,7 @@ problem-with-this-site-title = Izskatās, ka ar šo vietni ir sarežģījumi
 
 neterror-copy-to-clipboard-button = Kopēt tekstu atmiņā
 neterror-learn-more-link = Uzzināt vairāk…
-neterror-open-portal-login-page-button = Atvērt tīkla pieslēgšanās lapu
+neterror-open-portal-login-page-button = Atvērt tīkla pieteikšanās lapu
 neterror-override-exception-button = Pieņemt risku un turpināt
 neterror-pref-reset-button = Atjaunot noklusētos iestatījumus
 neterror-return-to-previous-page-button = Iet atpakaļ
@@ -76,7 +76,7 @@ neterror-generic-error = Kāda nezināma iemesla dēļ { -brand-short-name } nev
 neterror-load-error-try-again = Vietne varētu būt īslaicīgi nepieejama vai pārāk aizņemta. Pēc kāda brīža jāmēģina vēlreiz.
 neterror-load-error-connection = Ja nevar ielādēt nevienu lapu, jāpārbauda datora savienojums ar tīklu.
 neterror-load-error-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecināš, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
-neterror-captive-portal = Pieslēdzieties tīklam, lai piekļūtu Internetam.
+neterror-captive-portal = Vispirms šajā tīklā jāpiesakās, lai varētu piekļūt internetam.
 neterror-dns-not-found-hint-try-again = Vēlāk jāmēģina vēlreiz
 neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
 

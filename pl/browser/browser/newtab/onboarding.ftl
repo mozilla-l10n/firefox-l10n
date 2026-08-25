@@ -606,6 +606,9 @@ onboarding-refresh-gratitude-title = { -brand-short-name } jest po Twojej stroni
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Warunki korzystania z { -brand-product-name(case: "gen") }
+smartwindow-existing-user-fx-tou-body = Aby używać { -smart-window-brand-name(case: "gen", capitalization: "lower-singular") }, zaakceptuj <a data-l10n-name="terms_of_use">warunki korzystania</a> i zaktualizowane <a data-l10n-name="privacy_notice">zasady ochrony prywatności</a>.
+smartwindow-existing-user-fx-tou-accept = Akceptuję
+smartwindow-existing-user-fx-tou-go-back = Wstecz
 
 ## Smart Window about:welcome screen
 
