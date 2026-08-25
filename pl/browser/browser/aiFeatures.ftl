@@ -20,3 +20,31 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name(case: "nom", capitalization: "upper-singular") }
 ai-window-default-section =
     .label = Ustawienia domyślne
+ai-window-is-default-window =
+    .label = Domyślnie używaj { -smart-window-brand-name(case: "gen", capitalization: "lower-singular") }
+    .description = Otwieraj { -smart-window-brand-name(case: "acc", capitalization: "lower-singular") } po uruchomieniu { -brand-short-name(case: "gen") } i po kliknięciu odnośników w innych aplikacjach.
+ai-window-open-sidebar =
+    .label = Automatycznie otwieraj asystenta
+    .description = Wyświetlaj panel boczny z asystentem na każdej nowej karcie. Możesz go zamknąć, kiedy chcesz.
+ai-window-smart-cursor-in-smart-window =
+    .label = Wyświetlaj skróty po zaznaczeniu tekstu
+    .description = Szybki dostęp do streszczenia, wyjaśnienia i nie tylko.
+smart-window-model-section =
+    .label = Model asystenta
+    .description = Wybierz model, który odpowiada Twoim potrzebom.
+smart-window-model-learn-link = Informacje o modelach
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
+smart-window-model-fast =
+    .label = Szybki: szybkie odpowiedzi
+    .description = Model { $model } od firmy { $ownerName }
+smart-window-model-flexible =
+    .label = Elastyczny: solidny wybór do większości potrzeb
+    .description = Model { $model } od firmy { $ownerName }
+smart-window-model-personal =
+    .label = Osobisty: najbardziej zindywidualizowane odpowiedzi
+    .description = Model { $model } od firmy { $ownerName }

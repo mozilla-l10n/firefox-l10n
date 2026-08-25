@@ -134,9 +134,9 @@ genai-options-reload-generic =
 genai-options-reload-provider =
     .label = Ponownie wczytaj { $provider }
 genai-options-show-shortcut =
-    .label = Wyświetlaj skrót podczas zaznaczania tekstu
+    .label = Wyświetlaj skrót po zaznaczeniu tekstu
 genai-options-hide-shortcut =
-    .label = Nie wyświetlaj skrótu podczas zaznaczania tekstu
+    .label = Nie wyświetlaj skrótu po zaznaczeniu tekstu
 genai-options-about-chatbot =
     .label = Informacje o czatbotach opartych na sztucznej inteligencji w { -brand-short-name(case: "loc") }
 
