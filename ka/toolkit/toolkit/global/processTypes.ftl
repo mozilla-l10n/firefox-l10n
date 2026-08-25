@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = დამხმარე Media Foun
 process-type-utility-actor-js-oracle = დამხმარე JavaScript Oracle
 process-type-utility-actor-windows-utils = დამხმარე Windows-საშუალებები
 process-type-utility-actor-windows-file-dialog = დამხმარე Windows-ის ფაილთა მმართველი
+process-type-utility-actor-hw-inference = აპარატურული აჩქარების მქონე დამხმარით გამოტანა
 
 ##
 ## Other

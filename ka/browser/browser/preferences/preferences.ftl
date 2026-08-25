@@ -1266,6 +1266,18 @@ containers-settings-button2 =
     .title = პარამეტრები
 containers-remove-button3 =
     .title = წაშლა
+containers-sites-card-header =
+    .label = სათავსები საიტის მიხედვით
+    .description = აირჩიეთ საიტისთვის სათავსი და { -brand-short-name } გამოიყენებს ყოველ ჯერზე მისი გახსნისას.
+containers-sites-add-button =
+    .label = ვებსაიტის დამატება
+    .accesskey = ვ
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = სათავსი საიტისთვის { $site }
+containers-site-remove-button =
+    .title = წაშლა
 containers-remove-button2 =
     .title = მოცილება
 
