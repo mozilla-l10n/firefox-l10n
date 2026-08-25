@@ -317,6 +317,9 @@ newtab-stocks-ticker-status-down = { $name }, padec za { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, brez sprememb, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
 ## Stocks widget ticker search
 
 # "Back" is an icon-only button in the search panel header that returns to the
@@ -387,6 +390,10 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Možnosti nedavnih iskanj
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Več o tem
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -652,6 +659,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Poskusi znova
 newtab-discovery-empty-section-topstories-loading = Nalaganje …
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ojoj! Nekaj se je zalomilo.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Prejšnja
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Naslednja
 
 ## Pocket Content Section.
 
