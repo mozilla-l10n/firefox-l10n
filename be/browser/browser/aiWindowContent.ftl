@@ -2,10 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = Паведамленні ў чаце { -smart-window-brand-name }
+
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count =
+    { $tags ->
+        [one] { $tags } тэг
+        [few] { $tags } тэгі
+       *[many] { $tags } тэгаў
+    }
 
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Нешта пайшло не так. Калі ласка, паспрабуйце зноў.
+smartwindow-assistant-error-budget-header = Вы дасягнулі сённяшняга ліміту чата.
+smartwindow-assistant-error-account-header = Каб карыстацца { -smart-window-brand-name }, вам трэба ўвайсці.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } зараз запоўнена. Паўтарыце спробу пазней.
+smartwindow-assistant-error-budget-body = Вы ўсё яшчэ можаце аглядаць інтэрнэт ў гэтым акне. Чат зноў будзе даступны пасля скіду вашага штодзённага ліміту.
+smartwindow-assistant-error-many-requests-header = Пачакайце хвілінку і паспрабуйце зноў. За кароткі час было адпраўлена занадта шмат паведамленняў.
+smartwindow-assistant-error-max-length-header = Пара пачаць новы чат. Гэты дасягнуў ліміту працягласці.
 smartwindow-retry-btn = Паспрабаваць зноў
 smartwindow-clear-btn = Новы чат
 smartwindow-signin-btn = Увайсці
