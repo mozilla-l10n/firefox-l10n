@@ -287,7 +287,7 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] This will remove the passwords saved to { -brand-short-name } on all your synchronised devices. This will also remove any breach alerts that appear here. You cannot undo this action.
-       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices. This will also remove any breach alerts that appear here. You cannot undo this action.
+       *[other] This will remove all passwords saved to { -brand-short-name } on all your synchronised devices. This will also remove any breach alerts that appear here. You cannot undo this action.
     }
 
 ##
