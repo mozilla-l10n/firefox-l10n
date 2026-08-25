@@ -500,6 +500,13 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Dalšne informacije
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Tšojenja
+newtab-spaces-tab-widgets = Asistenty
+newtab-spaces-tab-activity = Aktiwita
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -765,12 +772,24 @@ newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy womało zacytal
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } z { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Pjerwjejšny
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Pśiducy
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Awtomatiske wótgraśe zastajiś
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Z awtomatiskim wótgraśim pókšacowaś
 
 ## Pocket Content Section.
 
