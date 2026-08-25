@@ -143,6 +143,7 @@ about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Tiện ích Windows
 about-processes-utility-actor-windows-file-dialog = Hộp thoại tập tin Windows
 about-processes-utility-actor-pkcs11-module = Security Module Helper
+about-processes-utility-actor-hw-inference = Suy luận tăng tốc bằng phần cứng
 
 ## Displaying CPU (percentage and total)
 ## Variables:

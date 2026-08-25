@@ -1250,6 +1250,18 @@ containers-settings-button2 =
     .title = Cài đặt
 containers-remove-button3 =
     .title = Xóa
+containers-sites-card-header =
+    .label = Trang cụ thể trong ngăn chứa
+    .description = Chọn một ngăn chứa cho trang web và { -brand-short-name } sẽ sử dụng ngăn chứa đó mỗi khi trang web được mở.
+containers-sites-add-button =
+    .label = Thêm trang web
+    .accesskey = T
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Ngăn chứa cho { $site }
+containers-site-remove-button =
+    .title = Xoá
 containers-remove-button2 =
     .title = Xóa
 
