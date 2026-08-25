@@ -24,13 +24,53 @@ smartwindow-assistant-error-capacity-header = { -smart-window-brand-name } за�
 smartwindow-assistant-error-budget-body = Вы ўсё яшчэ можаце аглядаць інтэрнэт ў гэтым акне. Чат зноў будзе даступны пасля скіду вашага штодзённага ліміту.
 smartwindow-assistant-error-many-requests-header = Пачакайце хвілінку і паспрабуйце зноў. За кароткі час было адпраўлена занадта шмат паведамленняў.
 smartwindow-assistant-error-max-length-header = Пара пачаць новы чат. Гэты дасягнуў ліміту працягласці.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } не ўдалося падключыцца да сервера. Паспрабуйце іншую сетку або адключыце VPN.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Памылка сервера (HTTP { $status }). Паспрабуйце зноў.
 smartwindow-retry-btn = Паспрабаваць зноў
 smartwindow-clear-btn = Новы чат
 smartwindow-signin-btn = Увайсці
 
 ## Assistant Message footer
 
+aiwindow-memories-used = Выкарыстаныя ўспаміны
+aiwindow-memories-callout-description = Успаміны дапамаглі персаналізаваць гэты адказ.
 aiwindow-memories-learn-more = Падрабязней
+aiwindow-manage-memories =
+    .label = Налады ўспамінаў
+aiwindow-retry-without-memories =
+    .label = Паўтарыць без успамінаў
+aiwindow-retry =
+    .aria-label = Паўтарыць
+    .tooltiptext = Паўтарыць
+aiwindow-copy-message =
+    .aria-label = Капіяваць паведамленне
+    .tooltiptext = Капіяваць
+aiwindow-copy-table =
+    .aria-label = Капіяваць табліцу
+    .tooltiptext = Капіяваць табліцу
+aiwindow-table-scroll-indicator = Пракруціце, каб убачыць больш
+aiwindow-thumbs-up =
+    .aria-label = Падзяліцца станоўчым водгукам
+    .tooltiptext = Падзяліцца станоўчым водгукам
+aiwindow-thumbs-down =
+    .aria-label = Падзяліцца адмоўным водгукам
+    .tooltiptext = Падзяліцца адмоўным водгукам
+aiwindow-applied-memories-popover =
+    .aria-label = Паліца «Успаміны»
+aiwindow-applied-memories-list =
+    .aria-label = Успаміны
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Выдаліць { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Перайсці ў канец чата
+    .tooltiptext = Перайсці ўніз
 
 ## Natural Language Action
 
