@@ -1637,6 +1637,7 @@ newtab-sports-widget-message-explore-widgets-cta =
 newtab-sports-widget-message-survey-title = Ore pytyvõ widgets porãverã
 newtab-sports-widget-message-survey-body = Opáma upe Copa del Mundo. Emoherakuã ne remiandu oikova’ekue hesegua.
 newtab-sports-widget-message-survey-widget-title = ¿Mba’éicha oĩ Copa del Mundo widget?
+newtab-sports-widget-message-survey-widget-body = Ere ne remiandu orepytyvõ hag̃ua romoporãvévo umi widget oútava. Upéi eiporu ipyahúva tysyigua.
 newtab-sports-widget-message-survey-cta =
     .label = Ejapo encuesta
 
