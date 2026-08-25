@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = Уладкаваць
 newtab-customize-panel-label =
     .label = Уладкаваць
 newtab-personalize-settings-icon-label =
-    .title = Персаналізаваць новую картку
     .aria-label = Налады
+    .title = Персаналізаваць новую картку
 newtab-settings-dialog-label =
     .aria-label = Налады
 newtab-personalize-icon-label =
-    .title = Персаналізаваць новую картку
     .aria-label = Персаналізаваць новую картку
+    .title = Персаналізаваць новую картку
 newtab-personalize-dialog-label =
     .aria-label = Персаналізаваць
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = Адхіліць
     .aria-label = Адхіліць
+    .title = Адхіліць
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = Пошук
 home-prefs-stories-header2 =
-    .label = Гісторыі
     .description = Выключнае змесціва, курыраванае сям'ёй { -brand-product-name }
+    .label = Гісторыі
 home-prefs-widgets-header =
     .label = Віджэты
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -338,8 +338,8 @@ newtab-stocks-error-not-available = Фондавыя звесткі недаст
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = Параметры віджэта "Акцыі"
     .aria-label = Параметры віджэта "Акцыі"
+    .title = Параметры віджэта "Акцыі"
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Акцыі
@@ -351,6 +351,8 @@ newtab-stocks-list-markets = Рынкі
 # menu, and .label is shown on the button that opens it.
 newtab-stocks-list-watchlist = Спіс назірання
     .label = Спіс назірання
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Пошук па назве ці сімвале
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -364,6 +366,59 @@ newtab-stocks-ticker-status-up = { $name }, рост на { $change }, { $price 
 newtab-stocks-ticker-status-down = { $name }, спад на { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, без змен, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = Дадаць { $name } у спіс назірання
+    .title = Дадаць { $name } у спіс назірання
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = Выдаліць { $name } са спісу назірання
+    .title = Выдаліць { $name } са спісу назірання
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } у вашым спісе назірання
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = Дададзена { $name } у спіс назірання
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Выдалена { $name } са спісу назірання
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Пошук па назве ці сімвале
+    .placeholder = Пошук па назве ці сімвале
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Вынікі пошуку
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .aria-label = Назад
+    .title = Назад
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Няма вынікаў для «{ $query }»
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Загрузка…
 
 ## Strings for the Picture of the Day widget
 
@@ -388,14 +443,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = Параметры фота дня
     .aria-label = Параметры фота дня
+    .title = Параметры фота дня
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = Усталюйце фота дня ў якасці шпалер
     .label = Усталяваць шпалеры
     .title = Усталяваць шпалеры
-    .aria-label = Усталюйце фота дня ў якасці шпалер
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Кіраваць шпалерамі
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -407,8 +462,8 @@ newtab-picture-menu-show-photo = Паказаць фота дня
 newtab-picture-menu-learn-more = Даведацца больш
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = Паказаць фота дня
     .aria-label = Паказаць фота дня
+    .title = Паказаць фота дня
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Зазірніце заўтра, каб убачыць новае фота
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -424,8 +479,8 @@ newtab-recent-searches-widget-title = Нядаўнія пошукі
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = Шукаць
     .aria-label = Шукаць
+    .title = Шукаць
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Шукайце ў { $engine } або ўвядзіце адрас
@@ -433,17 +488,17 @@ newtab-search-box-handoff-text-no-engine = Увядзіце запыт або а
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = Шукайце ў { $engine } або ўвядзіце адрас
     .placeholder = Шукайце ў { $engine } або ўвядзіце адрас
     .title = Шукайце ў { $engine } або ўвядзіце адрас
-    .aria-label = Шукайце ў { $engine } або ўвядзіце адрас
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = Увядзіце запыт або адрас
     .placeholder = Увядзіце запыт або адрас
     .title = Увядзіце запыт або адрас
-    .aria-label = Увядзіце запыт або адрас
 newtab-search-box-text = Шукаць у Iнтэрнэце
 newtab-search-box-input =
-    .placeholder = Пошук у інтэрнэце
     .aria-label = Шукайце ў Інтэрнэце
+    .placeholder = Пошук у інтэрнэце
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -453,8 +508,8 @@ newtab-topsites-edit-topsites-header = Рэдагаваць папулярны �
 newtab-topsites-edit-shortcut-header = Рэдагаваць цэтлік
 newtab-topsites-add-shortcut-label = Дадаць цэтлік
 newtab-topsites-add-shortcut-title =
-    .title = Дадаць цэтлік
     .aria-label = Дадаць цэтлік
+    .title = Дадаць цэтлік
 newtab-shortcuts-pinned-area = Замацаваная вобласць
 newtab-topsites-title-label = Загаловак
 newtab-topsites-title-input =
@@ -467,9 +522,6 @@ newtab-topsites-image-url-label = Уласны URL выявы
 newtab-topsites-use-custom-image-link = Выкарыстоўваць уласную выяву
 newtab-topsites-use-image-link = Выкарыстоўваць уласную выяву…
 newtab-topsites-image-validation = Не ўдалося атрымаць выяву. Паспрабуйце іншы URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Ачысціць тэкст
 
@@ -507,35 +559,35 @@ newtab-topsites-hover-card-header = Абвестка ад { $site }
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Толькі што
 newtab-topsites-hover-card-mark-all-read =
-    .title = Пазначыць усе як прачытаныя
     .aria-label = Пазначыць усе як прачытаныя
+    .title = Пазначыць усе як прачытаныя
 newtab-topsites-hover-card-settings =
-    .title = Параметры абвестак
     .aria-label = Параметры абвестак
+    .title = Параметры абвестак
 newtab-topsites-hover-card-dismiss =
-    .title = Адхіліць
     .aria-label = Адхіліць
+    .title = Адхіліць
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Адкрыць меню
     .aria-label = Адкрыць меню
+    .title = Адкрыць меню
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = Выдаліць
     .aria-label = Выдаліць
+    .title = Выдаліць
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Адкрыць меню
     .aria-label = Адкрыць кантэкстнае меню для { $title }
+    .title = Адкрыць меню
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Рэдагаваць гэты сайт
     .aria-label = Рэдагаваць гэты сайт
+    .title = Рэдагаваць гэты сайт
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -711,8 +763,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = Дзякуй. Ваш водгук дапаможа нам палепшыць вашу стужку.
 newtab-toast-dismiss-button =
-    .title = Схаваць
     .aria-label = Схаваць
+    .title = Схаваць
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -731,13 +783,13 @@ newtab-custom-shortcuts-title = Цэтлікі
 newtab-custom-shortcuts-subtitle = Сайты, якія вы захоўваеце або наведваеце
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = Цэтлікі
     .description = Сайты, якія вы захоўваеце або наведваеце
+    .label = Цэтлікі
 newtab-custom-shortcuts-nova =
     .label = Цэтлікі
 newtab-custom-web-notifications-toggle =
-    .label = Вэб-абвесткі
     .description = Паказваць абвестку з вашых сайтаў на іх цэтліках
+    .label = Вэб-абвесткі
 newtab-custom-row-description =
     .description = Колькасць радкоў
 # Variables
@@ -763,8 +815,8 @@ newtab-custom-pocket-title = Рэкамендавана { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Выключнае змесціва, куратарам якога з'яўляецца { -pocket-brand-name }, частка сям'і { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = Рэкамендаваныя гісторыі
     .description = Выключнае змесціва, курыраванае сямействам { -brand-product-name }
+    .label = Рэкамендаваныя гісторыі
 newtab-recommended-stories-toggle =
     .label = Рэкамендаваныя гісторыі
 newtab-custom-stories-personalized-toggle =
@@ -777,8 +829,8 @@ newtab-custom-pocket-show-recent-saves = Паказваць апошнія за�
 newtab-custom-recent-title = Апошняя актыўнасць
 newtab-custom-recent-subtitle = Падборка нядаўніх сайтаў і змесціва
 newtab-custom-weather-toggle =
-    .label = Надвор'е
     .description = Кароткі прагноз на сёння
+    .label = Надвор'е
 newtab-custom-widget-weather-toggle =
     .label = Надвор'е
 newtab-custom-widget-lists-toggle =
@@ -803,13 +855,10 @@ newtab-widget-manage-widget-button =
     .label = Кіраванне віджэтамі
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = Закрыць
     .aria-label = Закрыць меню
+    .title = Закрыць
 newtab-custom-close-button = Закрыць
 newtab-custom-settings = Кіраваць дадатковымі наладамі
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Выгляд
 # Button that opens the full browser theme selection view.
@@ -922,14 +971,11 @@ newtab-wallpaper-feature-highlight-content = Абнавіце выгляд но�
 newtab-wallpaper-feature-highlight-button = Зразумела
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = Адхіліць
     .aria-label = Закрыць выплыўное акно
+    .title = Адхіліць
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -956,8 +1002,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ Спонсар
 newtab-weather-menu-change-location = Змяніць месцазнаходжанне
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Шукаць месцазнаходжанне
     .aria-label = Шукаць месцазнаходжанне
+    .placeholder = Шукаць месцазнаходжанне
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Ужыць дзейнае месцазнаходжанне
@@ -1001,8 +1047,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = Паглядзець прагноз у { $provider }
     .aria-description = { $provider } ∙ Спонсар
+    .title = Паглядзець прагноз у { $provider }
 
 ## Topic Labels
 
@@ -1203,8 +1249,8 @@ newtab-widget-lists-menu-copy = Скапіяваць спіс у буфер аб
 newtab-widget-lists-menu-learn-more = Падрабязней
 newtab-widget-lists-button-add-item = Дадаць элемент
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = Дадаць элемент
     .aria-label = Дадаць элемент
+    .placeholder = Дадаць элемент
 newtab-widget-lists-input-error = Калі ласка, улучыце тэкст, каб дадаць элемент.
 newtab-widget-lists-input-menu-open-link = Адкрыць спасылку
 newtab-widget-lists-input-menu-move-up = Рухаць угору
@@ -1229,12 +1275,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Спіс задач
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = Кантрольны спіс
     .aria-label = Змяніць назву спіса
+    .placeholder = Кантрольны спіс
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = Новы спіс
     .aria-label = Змяніць назву спісу
+    .placeholder = Новы спіс
 newtab-widget-section-title = Віджэты
 newtab-widget-menu-hide = Схаваць віджэт
 newtab-widget-menu-change-size = Змяніць памер
@@ -1252,17 +1298,17 @@ newtab-widget-size-medium = Сярэдні
 newtab-widget-size-large = Вялікі
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Схаваць віджэты
     .aria-label = Схаваць усе віджэты
+    .title = Схаваць віджэты
 newtab-widget-section-maximize =
-    .title = Разгарнуць віджэты
     .aria-label = Разгарнуць усе віджэты ў поўны памер
+    .title = Разгарнуць віджэты
 newtab-widget-section-minimize =
-    .title = Згарнуць віджэты
     .aria-label = Згарнуць усе віджэты ў кампактны памер
+    .title = Згарнуць віджэты
 newtab-widget-section-menu-button =
-    .title = Меню віджэтаў
     .aria-label = Адкрыць меню віджэтаў
+    .title = Меню віджэтаў
 newtab-widget-add-widgets-button =
     .aria-label = Дадаць віджэт
     .title = Дадаць віджэт
@@ -1323,11 +1369,8 @@ newtab-promo-card-title = Падтрымаць { -brand-product-name }
 newtab-promo-card-body = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту
 newtab-promo-card-cta = Падрабязней
 newtab-promo-card-dismiss-button =
-    .title = Адхіліць
     .aria-label = Адхіліць
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = Адхіліць
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1398,8 +1441,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = Выберыце шпалеры
 newtab-sports-widget-skip = Прапусціць
 newtab-sports-widget-search-country =
-    .placeholder = Пошук краіны
     .aria-label = Пошук краіны
+    .placeholder = Пошук краіны
 newtab-sports-widget-cancel = Скасаваць
 newtab-sports-widget-back-button =
     .aria-label = Назад
@@ -1466,8 +1509,8 @@ newtab-sports-widget-quarter-finals = Чвэрцьфіналы
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = У ЖЫВЫМ ЭФІРЫ
 newtab-custom-widget-live-refresh =
-    .title = Абнавіць вынікі
     .aria-label = Абнавіць вынікі
+    .title = Абнавіць вынікі
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Ключавыя даты
 newtab-sports-widget-upcoming = Наступныя
@@ -1481,10 +1524,10 @@ newtab-sports-widget-final = Фінал
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Затрымліваецца
 newtab-sports-widget-postponed = Адкладзена
 newtab-sports-widget-suspended = Прыпынена
@@ -1622,8 +1665,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = Адхіліць
     .aria-label = Адхіліць
+    .title = Адхіліць
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1648,34 +1691,34 @@ newtab-clock-widget-menu-switch-to-12h = Перайсці на 12-гадзінн
 newtab-clock-widget-menu-switch-to-24h = Перайсці на 24-гадзінны фармат
 newtab-clock-widget-label-your-clocks = Вашы гадзіннікі
 newtab-clock-widget-search-location-input =
+    .aria-label = Пошук горада
     .label = Месцазнаходжанне
     .placeholder = Пошук горада
-    .aria-label = Пошук горада
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = Мянушка (неабавязкова)
     .label = Мянушка (неабавязкова)
     .placeholder = Дадаць мянушку
-    .aria-label = Мянушка (неабавязкова)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = Дадаць новы гадзіннік
     .aria-label = Дадаць новы гадзіннік
+    .title = Дадаць новы гадзіннік
 newtab-clock-widget-button-add-clock = Дадаць
 newtab-clock-widget-button-cancel = Скасаваць
 newtab-clock-widget-button-back =
-    .title = Назад
     .aria-label = Назад
+    .title = Назад
 newtab-clock-widget-button-edit-clock =
-    .title = Змяніць гадзіннік
     .aria-label = Змяніць гадзіннік
+    .title = Змяніць гадзіннік
 newtab-clock-widget-button-save = Захаваць
 newtab-clock-widget-button-remove-clock =
-    .title = Выдаліць гадзіннік
     .aria-label = Выдаліць гадзіннік
+    .title = Выдаліць гадзіннік
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1703,14 +1746,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = Дадаць «{ $city }» як карыстальніцкі гадзіннік
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = Назва горада
     .aria-label = Назва горада
+    .label = Назва горада
     .placeholder = Назавіце гэты гадзіннік
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = Часавы пояс
     .aria-label = Часавы пояс
+    .label = Часавы пояс
     .placeholder = Пошук па горадзе, часавым поясе або зрушэнню UTC
 newtab-clock-widget-custom-zone-results =
     .aria-label = Вынікі па часавых паясах
@@ -1726,8 +1769,8 @@ newtab-clock-widget-search-no-results = Няма супадзенняў
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = Адкрыць меню для гадзінніка
     .aria-label = Адкрыць меню для гадзінніка
+    .title = Адкрыць меню для гадзінніка
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Мянушка: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the
