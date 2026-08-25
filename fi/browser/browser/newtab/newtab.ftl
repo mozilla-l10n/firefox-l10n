@@ -349,6 +349,9 @@ newtab-stocks-ticker-status-down = { $name }, laski { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, ei muutosta, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
 ## Stocks widget ticker search
 
 # "Search results" is the accessible label for the list of tickers matching the
@@ -414,6 +417,10 @@ newtab-picture-image-alt = Wikimedia Commonsin päivän kuva
 newtab-recent-searches-widget-title = Viimeisimmät haut
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Lue lisää
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -684,6 +691,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Yritä uudelleen
 newtab-discovery-empty-section-topstories-loading = Ladataan…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hups! Tämä osio ladattiin melkein, mutta ei ihan.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Edellinen
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Seuraava
 
 ## Pocket Content Section.
 
