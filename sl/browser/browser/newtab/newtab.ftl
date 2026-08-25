@@ -260,6 +260,7 @@ newtab-privacy-message-promo-private-window-1-cta = Odpri zasebno okno
 newtab-privacy-message-promo-relay-1-cta = Pridobi maske
 newtab-privacy-message-promo-relay-2 = Zaščitite svoj e-poštni predal pred neželeno pošto z brezplačnim zakrivanjem e-poštnega naslova.
 newtab-privacy-message-promo-relay-2-cta = Pridobi maske
+newtab-privacy-message-promo-relay-3 = Pridobite 50 brezplačnih mask e-pošte, s katerimi lahko zaščitite zasebnost svojega pravega e-poštnega naslova.
 newtab-privacy-message-promo-relay-3-cta = Pridobi maske
 
 ## Privacy widget — celebration messages

@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Pripomoček Media Foundation Engine
 process-type-utility-actor-js-oracle = Pripomoček JavaScript Oracle
 process-type-utility-actor-windows-utils = Pripomoček Windows Utils
 process-type-utility-actor-windows-file-dialog = Pripomoček Pogovorno okno Windows za datoteke
+process-type-utility-actor-hw-inference = Strojno pospešeno sklepanje v pomožnem procesu
 
 ##
 ## Other

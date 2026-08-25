@@ -171,6 +171,58 @@ smart-window-opened-tabs-summary-single =
         [few] Адкрыты { $count } карткі.
        *[many] Адкрыць { $count } картак.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Створана група «{ $label }» і адкрыта { $count } картка.
+        [few] Створана група «{ $label }» і адкрыты { $count } карткі.
+       *[many] Створана група «{ $label }» і адкрыта { $count } картак.
+    }
+smart-window-opened-tabs-row-label = Адкрытыя карткі
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Пераключаныя карткі
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Пераключана на «{ $title }».
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Карткі разгрупаваны
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } картка згрупавана, потым разгрупавана.
+        [few] { $count } карткі згрупаваны, потым разгрупаваны.
+       *[many] { $count } картак згрупавана, потым разгрупавана.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Разгрупавана { $count } картка
+        [few] Разгрупаваны { $count } карткі
+       *[many] Разгрупавана { $count } картак
+    }
+
+## Action log
+
+action-log-searching-tabs = Пошук у картках
+action-log-searched-open-tabs = Зроблены пошук у адкрытых картках
+action-log-searching-history = Пошук у гісторыі
+action-log-searched-history = Зроблены пошук у гісторыі
+action-log-reading-page = Чытанне старонкі
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Прачытана змесціва старонкі
+action-log-searching-web = Пошук у сеціве
+action-log-searched-web = Зроблены пошук у сеціве
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Пошук у інтэрнэце з дапамогай <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = Зроблены пошук у інтэрнэце з дапамогай <a data-l10n-name="exa-link">Exa</a>
+action-log-checking-memories = Праверка ўспамінаў
 
 ## Assistant Loader
 
