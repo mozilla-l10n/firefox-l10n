@@ -16,20 +16,20 @@ newtab-customize-panel-icon-button-label = 定制
 newtab-customize-panel-label =
     .label = 定制
 newtab-personalize-settings-icon-label =
-    .title = 个性化新标签页
     .aria-label = 设置
+    .title = 个性化新标签页
 newtab-settings-dialog-label =
     .aria-label = 设置
 newtab-personalize-icon-label =
-    .title = 个性化标签页
     .aria-label = 个性化标签页
+    .title = 个性化标签页
 newtab-personalize-dialog-label =
     .aria-label = 个性化
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
-    .title = 知道了
     .aria-label = 知道了
+    .title = 知道了
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -77,8 +77,8 @@ home-prefs-content-header =
 home-prefs-search-header2 =
     .label = 搜索
 home-prefs-stories-header2 =
-    .label = 文章
     .description = 由 { -brand-product-name } 系列产品推荐的精选内容
+    .label = 文章
 home-prefs-widgets-header =
     .label = 小组件
 # Lists is a widget on New Tab, similar to a to-do widget
@@ -262,8 +262,8 @@ newtab-stocks-error-not-available = 无法获取股市数据。
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .title = 股市小组件选项
     .aria-label = 股市小组件选项
+    .title = 股市小组件选项
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = 股市
@@ -280,6 +280,17 @@ newtab-stocks-ticker-status-up = { $name }，上涨 { $change }，{ $price }
 newtab-stocks-ticker-status-down = { $name }，下跌 { $change }，{ $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }，平盘，{ $change }，{ $price }
+
+## Stocks widget ticker search
+
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = 未找到“{ $query }”的相关结果
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = 正在加载…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = 目前无法搜索，请稍后再试。
 
 ## Strings for the Picture of the Day widget
 
@@ -304,14 +315,14 @@ newtab-picture-attribution-license =
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
-    .title = 每日一图选项
     .aria-label = 每日一图选项
+    .title = 每日一图选项
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
+    .aria-label = 将今日图片设置为壁纸
     .label = 设为壁纸
     .title = 设为壁纸
-    .aria-label = 将今日图片设置为壁纸
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 管理壁纸
 # Context menu item that hides today’s picture, replacing it with an existing
@@ -323,8 +334,8 @@ newtab-picture-menu-show-photo = 显示今日图片
 newtab-picture-menu-learn-more = 详细了解
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .title = 显示今日图片
     .aria-label = 显示今日图片
+    .title = 显示今日图片
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = 明天再来看看有没有新照片吧
 # Screen-reader text alternative for the picture; fallback used when the source
@@ -335,8 +346,8 @@ newtab-picture-image-alt = 维基共享资源 · 每日一图
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = 搜索
     .aria-label = 搜索
+    .title = 搜索
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = 使用 { $engine } 搜索，或者输入网址
@@ -344,17 +355,17 @@ newtab-search-box-handoff-text-no-engine = 搜索或输入网址
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
+    .aria-label = 使用 { $engine } 搜索，或者输入网址
     .placeholder = 使用 { $engine } 搜索，或者输入网址
     .title = 使用 { $engine } 搜索，或者输入网址
-    .aria-label = 使用 { $engine } 搜索，或者输入网址
 newtab-search-box-handoff-input-no-engine =
+    .aria-label = 搜索或输入网址
     .placeholder = 搜索或输入网址
     .title = 搜索或输入网址
-    .aria-label = 搜索或输入网址
 newtab-search-box-text = 网上搜索
 newtab-search-box-input =
-    .placeholder = 网上搜索
     .aria-label = 网上搜索
+    .placeholder = 网上搜索
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -364,8 +375,8 @@ newtab-topsites-edit-topsites-header = 编辑常用网站
 newtab-topsites-edit-shortcut-header = 编辑快捷方式
 newtab-topsites-add-shortcut-label = 添加快捷方式
 newtab-topsites-add-shortcut-title =
-    .title = 添加快捷方式
     .aria-label = 添加快捷方式
+    .title = 添加快捷方式
 newtab-shortcuts-pinned-area = 固定区域
 newtab-topsites-title-label = 标题
 newtab-topsites-title-input =
@@ -378,9 +389,6 @@ newtab-topsites-image-url-label = 自定义图像网址
 newtab-topsites-use-custom-image-link = 使用自定义图像
 newtab-topsites-use-image-link = 使用自定义图像…
 newtab-topsites-image-validation = 图像加载失败。请尝试其他网址。
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = 清除文本
 
@@ -418,35 +426,35 @@ newtab-topsites-hover-card-header = 来自 { $site } 的通知
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = 刚刚
 newtab-topsites-hover-card-mark-all-read =
-    .title = 标为已读
     .aria-label = 标为已读
+    .title = 标为已读
 newtab-topsites-hover-card-settings =
-    .title = 通知设置
     .aria-label = 通知设置
+    .title = 通知设置
 newtab-topsites-hover-card-dismiss =
-    .title = 知道了
     .aria-label = 知道了
+    .title = 知道了
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = 打开菜单
     .aria-label = 打开菜单
+    .title = 打开菜单
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
-    .title = 移除
     .aria-label = 移除
+    .title = 移除
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = 打开菜单
     .aria-label = 打开 { $title } 的快捷菜单
+    .title = 打开菜单
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = 编辑此网站
     .aria-label = 编辑此网站
+    .title = 编辑此网站
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -618,8 +626,8 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-toast-thumbs-up-or-down2 =
     .message = 谢谢，您的反馈有助于我们改进为您提供的推送。
 newtab-toast-dismiss-button =
-    .title = 知道了
     .aria-label = 知道了
+    .title = 知道了
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -638,13 +646,13 @@ newtab-custom-shortcuts-title = 快捷方式
 newtab-custom-shortcuts-subtitle = 您保存或访问过的网站
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
-    .label = 快捷方式
     .description = 您保存或访问过的网站
+    .label = 快捷方式
 newtab-custom-shortcuts-nova =
     .label = 快捷方式
 newtab-custom-web-notifications-toggle =
-    .label = 网站通知
     .description = 在网站快捷方式上显示来自该网站的通知
+    .label = 网站通知
 newtab-custom-row-description =
     .description = 行数
 # Variables
@@ -666,8 +674,8 @@ newtab-custom-pocket-title = 由 { -pocket-brand-name } 推荐
 newtab-custom-pocket-subtitle = 由 { -brand-product-name } 旗下 { -pocket-brand-name } 策划的特别内容
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
-    .label = 推荐文章
     .description = 由 { -brand-product-name } 推荐的精选内容
+    .label = 推荐文章
 newtab-recommended-stories-toggle =
     .label = 推荐文章
 newtab-custom-stories-personalized-toggle =
@@ -680,8 +688,8 @@ newtab-custom-pocket-show-recent-saves = 显示近期保存内容
 newtab-custom-recent-title = 近期动态
 newtab-custom-recent-subtitle = 近期访问的网站与内容精选
 newtab-custom-weather-toggle =
-    .label = 天气
     .description = 速览今日天气预报
+    .label = 天气
 newtab-custom-widget-weather-toggle =
     .label = 天气
 newtab-custom-widget-lists-toggle =
@@ -706,13 +714,10 @@ newtab-widget-manage-widget-button =
     .label = 管理小组件
 # Tooltip for close button
 newtab-custom-close-menu-button =
-    .title = 关闭
     .aria-label = 关闭菜单
+    .title = 关闭
 newtab-custom-close-button = 关闭
 newtab-custom-settings = 管理更多设置
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = 外观
 # Button that opens the full browser theme selection view.
@@ -825,14 +830,11 @@ newtab-wallpaper-feature-highlight-content = 选张壁纸，给新标签页加�
 newtab-wallpaper-feature-highlight-button = 知道了
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
-    .title = 知道了
     .aria-label = 关闭弹窗
+    .title = 知道了
 feature-highlight-wallpaper =
-    .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
-
-## Firefox
-
+    .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -859,8 +861,8 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ 赞助
 newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
-    .placeholder = 搜索位置
     .aria-label = 搜索位置
+    .placeholder = 搜索位置
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = 使用当前位置
@@ -904,8 +906,8 @@ newtab-weather-low =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
-    .title = 在“{ $provider }”上查看天气预报
     .aria-description = { $provider } ∙ 赞助
+    .title = 在“{ $provider }”上查看天气预报
 
 ## Topic Labels
 
@@ -1106,8 +1108,8 @@ newtab-widget-lists-menu-copy = 复制清单到剪贴板
 newtab-widget-lists-menu-learn-more = 详细了解
 newtab-widget-lists-button-add-item = 添加项目
 newtab-widget-lists-input-add-an-item2 =
-    .placeholder = 添加项目
     .aria-label = 添加项目
+    .placeholder = 添加项目
 newtab-widget-lists-input-error = 请输入项目名称
 newtab-widget-lists-input-menu-open-link = 打开链接
 newtab-widget-lists-input-menu-move-up = 上移
@@ -1132,12 +1134,12 @@ newtab-widget-lists-name-label-checklist =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = 任务清单
 newtab-widget-lists-name-placeholder-checklist2 =
-    .placeholder = 核对清单
     .aria-label = 编辑清单名称
+    .placeholder = 核对清单
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .placeholder = 新清单
     .aria-label = 编辑清单名称
+    .placeholder = 新清单
 newtab-widget-section-title = 小组件
 newtab-widget-menu-hide = 隐藏小组件
 newtab-widget-menu-change-size = 更改大小
@@ -1155,17 +1157,17 @@ newtab-widget-size-medium = 中
 newtab-widget-size-large = 大
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = 隐藏小组件
     .aria-label = 隐藏所有小组件
+    .title = 隐藏小组件
 newtab-widget-section-maximize =
-    .title = 展开小组件
     .aria-label = 将所有小组件展开为完整大小
+    .title = 展开小组件
 newtab-widget-section-minimize =
-    .title = 最小化小组件
     .aria-label = 将所有小组件收缩为紧凑大小
+    .title = 最小化小组件
 newtab-widget-section-menu-button =
-    .title = 小组件菜单
     .aria-label = 打开小组件菜单
+    .title = 小组件菜单
 newtab-widget-add-widgets-button =
     .aria-label = 添加小组件
     .title = 添加小组件
@@ -1226,11 +1228,8 @@ newtab-promo-card-title = 支持 { -brand-product-name }
 newtab-promo-card-body = 建设一个更好的互联网的使命，离不开我们赞助商的支持
 newtab-promo-card-cta = 详细了解
 newtab-promo-card-dismiss-button =
-    .title = 知道了
     .aria-label = 知道了
-
-## Strings introduced by the Nova redesign of the Timer widget
-
+    .title = 知道了
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1286,8 +1285,8 @@ newtab-sports-widget-choose-wallpaper =
     .label = 选择壁纸
 newtab-sports-widget-skip = 跳过
 newtab-sports-widget-search-country =
-    .placeholder = 搜索国家/地区
     .aria-label = 搜索国家/地区
+    .placeholder = 搜索国家/地区
 newtab-sports-widget-cancel = 取消
 newtab-sports-widget-back-button =
     .aria-label = 返回
@@ -1354,8 +1353,8 @@ newtab-sports-widget-quarter-finals = 四分之一决赛
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = 进行中
 newtab-custom-widget-live-refresh =
-    .title = 刷新比分
     .aria-label = 刷新比分
+    .title = 刷新比分
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = 重要日期
 newtab-sports-widget-upcoming = 即将进行
@@ -1369,10 +1368,10 @@ newtab-sports-widget-final = 决赛
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
-newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
-newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = 推迟
 newtab-sports-widget-postponed = 改期
 newtab-sports-widget-suspended = 中断
@@ -1510,8 +1509,8 @@ newtab-sports-widget-message-survey-cta =
 ## labels, but not all.
 
 newtab-activation-window-message-dismiss-button =
-    .title = 知道了
     .aria-label = 知道了
+    .title = 知道了
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
@@ -1536,34 +1535,34 @@ newtab-clock-widget-menu-switch-to-12h = 切换为 12 小时制
 newtab-clock-widget-menu-switch-to-24h = 切换为 24 小时制
 newtab-clock-widget-label-your-clocks = 您的时钟
 newtab-clock-widget-search-location-input =
+    .aria-label = 搜索城市
     .label = 位置
     .placeholder = 搜索城市
-    .aria-label = 搜索城市
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
+    .aria-label = 别名（选填）
     .label = 别名（选填）
     .placeholder = 添加别名
-    .aria-label = 别名（选填）
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
-    .title = 添加新时钟
     .aria-label = 添加新时钟
+    .title = 添加新时钟
 newtab-clock-widget-button-add-clock = 添加
 newtab-clock-widget-button-cancel = 取消
 newtab-clock-widget-button-back =
-    .title = 返回
     .aria-label = 返回
+    .title = 返回
 newtab-clock-widget-button-edit-clock =
-    .title = 编辑时钟
     .aria-label = 编辑时钟
+    .title = 编辑时钟
 newtab-clock-widget-button-save = 保存
 newtab-clock-widget-button-remove-clock =
-    .title = 移除时钟
     .aria-label = 移除时钟
+    .title = 移除时钟
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1591,14 +1590,14 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-add-custom = 将“{ $city }”添加为自定义时钟
 # Text field for the display name of a user-added custom clock.
 newtab-clock-widget-custom-city-input =
-    .label = 城市名
     .aria-label = 城市名
+    .label = 城市名
     .placeholder = 为时钟命名
 # Searchable time-zone field shown when adding a custom clock. The user
 # types a city they know and picks it to set the clock's time zone.
 newtab-clock-widget-custom-timezone-input =
-    .label = 时区
     .aria-label = 时区
+    .label = 时区
     .placeholder = 输入城市、时区或 UTC 时差搜索
 newtab-clock-widget-custom-zone-results =
     .aria-label = 时区结果
@@ -1614,8 +1613,8 @@ newtab-clock-widget-search-no-results = 无匹配结果
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
-    .title = 打开时钟菜单
     .aria-label = 打开时钟菜单
+    .title = 打开时钟菜单
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = 别名：{ $nickname }
 # Curated World Clock city names. The value is the city name shown on the

@@ -17,8 +17,8 @@ firefoxview-page-heading =
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
-    .title = 关闭
     .aria-label = 关闭
+    .title = 关闭
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = 刚刚
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -34,6 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = 您各设备上的 { -brand-product-nam
 firefoxview-syncedtabs-signin-description-2 = 若要查看您在手机等其他设备上打开的标签页，请登录或注册账户。您还可以借助账户来同步密码、历史记录等数据。
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = 笔记本电脑与手机，无缝相连
+firefoxview-syncedtabs-signin-description-3 = 让浏览体验跨设备无缝衔接，标签页、密码、历史记录，尽数同步。
 firefoxview-syncedtabs-signin-primarybutton-2 = 登录
 firefoxview-tabpickup-adddevice-header = 与您的手机或平板电脑同步 { -brand-product-name }
 firefoxview-tabpickup-adddevice-description = 下载移动版 { -brand-product-name } 并登录。
@@ -42,6 +43,8 @@ firefoxview-tabpickup-adddevice-primarybutton = 下载 { -brand-product-name } �
 firefoxview-syncedtabs-adddevice-header-2 = 跨平台接收标签页
 firefoxview-syncedtabs-adddevice-description-2 = 登录手机或其他计算机上的 { -brand-product-name }，即可在此处查看标签页。您可了解<a data-l10n-name="url">连接其他设备的方法</a>。
 firefoxview-syncedtabs-adddevice-primarybutton = 试试 { -brand-product-name } 移动版
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = 标签页们来电 — 手机上见。
 firefoxview-tabpickup-synctabs-header = 开启标签页同步
 firefoxview-tabpickup-synctabs-description = 允许 { -brand-short-name } 跨设备共享标签页。
 firefoxview-tabpickup-synctabs-learn-how = 了解要如何做

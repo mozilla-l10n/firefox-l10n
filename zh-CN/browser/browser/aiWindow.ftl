@@ -100,6 +100,7 @@ aiwindow-firstrun-title = 欢迎使用{ -smart-window-brand-name }
 aiwindow-firstrun-model-title = 您侧重于哪一需求？
 aiwindow-firstrun-model-title-v2 = 选择模型开始使用
 aiwindow-firstrun-model-subtitle = 选择驱动{ -smart-window-brand-name }的模型。以后可随时切换。
+aiwindow-firstrun-model-subtitle-v2 = 所有模型都可为您生成摘要、进行对比、跨标签页搜罗内容。以后随时可以切换。
 aiwindow-firstrun-model-fast-label = 快速
 aiwindow-firstrun-model-fast-body = 迅捷回答
 # $shortName (string) - The short name of the model version
