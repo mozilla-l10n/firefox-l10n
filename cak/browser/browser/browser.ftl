@@ -832,6 +832,18 @@ urlbar-result-action-search-actions = Kekanöx taq b'anoj
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Tijaq { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Tijaq pa jun k'ak'a' ruwi'
+    .accesskey = k
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Tijaq pa K'ak'a' Ruwi' Ajk'wayöl
+    .accesskey = p
+urlbar-view-context-menu-open-in-window =
+    .label = Tijaq pa K'ak'a' Tzuwäch
+    .accesskey = K
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
