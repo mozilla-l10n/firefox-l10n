@@ -74,13 +74,13 @@ fp-cert-error-code = Kļūdas kods: { $error }
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nevar pieslēgties
-deniedPortAccess-title = Piekļuve šai adresei ir liegta
+deniedPortAccess-title = Piekļuve šai adresei ir ierobežota
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Diemžēl mums neizdodas atrast šo lapu.
 internet-connection-offline-title = Izskatās, ka ir sarežģījums ar interneta savienojumu.
 fileNotFound-title = Datne nav atrasta
-fileAccessDenied-title = Pieeja failam tika liegta
+fileAccessDenied-title = Piekļuve datnei tika noraidīta
 generic-title = Savādi gan...
 captivePortal-title = Pieteikšanās tīklā
 # "Hmm" is a sound made when considering or puzzling over something.

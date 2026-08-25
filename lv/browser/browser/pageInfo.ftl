@@ -235,7 +235,7 @@ media-file-size = { $size } KB
 # "Block Images" checkbox in the media tab
 media-block-image =
     .label = Liegt attēlus no { $website }
-    .accesskey = B
+    .accesskey = L
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =

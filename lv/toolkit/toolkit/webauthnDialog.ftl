@@ -69,4 +69,4 @@ webauthn-cancel = Atcelt
 webauthn-allow = Atļaut
     .accesskey = A
 webauthn-block = Liegt
-    .accesskey = B
+    .accesskey = L
