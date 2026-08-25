@@ -164,11 +164,21 @@ aiwindow-firstrun-memories-no-create = Зразумела. { -smart-window-brand
 aiwindow-firstrun-default-title = Зрабіце { -smart-window-brand-name } сваім выбарам
 aiwindow-firstrun-default-subtitle = Аглядайце, шукайце і задавайце пытанні ў адным месцы. Вы ўсё яшчэ можаце адкрываць прыватныя і класічныя вокны, калі захочаце.
 aiwindow-firstrun-default-checkbox-label = Заўсёды адкрываць { -brand-product-name } у { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Пераключайце ў наладах у любы час
 
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
     .label = Спытаць
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Успаміны ўключаны
+    .tooltiptext = Выкарыстоўваць успаміны ў адказах, калі гэта карысна
+aiwindow-memories-off =
+    .aria-label = Успаміны адключаны
+    .tooltiptext = Не выкарыстоўваць успаміны ў адказах
 
 ## New Chat Button
 
@@ -187,10 +197,14 @@ aiwindow-close-sidebar =
 ## view links to the chat history subview and Smart Window settings; the chat
 ## history subview lists recent chats and a shortcut to all chats.
 
+aiwindow-history-menu =
+    .aria-label = Дадатковыя налады
+    .tooltiptext = Дадатковыя налады
 aiwindow-history-menu-chat-history = Гісторыя чатаў
 aiwindow-history-menu-back =
     .aria-label = Назад
     .tooltiptext = Назад
+aiwindow-history-menu-view-all-chats = Паглядзець усе чаты
 aiwindow-history-menu-settings = налады { -smart-window-brand-name }
 
 ## Fullpage top actions
@@ -206,6 +220,14 @@ aiwindow-fullpage-chat-history =
 aiwindow-fullpage-more =
     .label = Больш
     .title = Больш
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Сінхранізаваныя звесткі застануцца ў вашым уліковым запісе. Адкрытыя { -smart-window-brand-name } пераключацца на класічныя вокны.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Пераключыць на { -smart-window-brand-name }
 
 ## Fullpage Footer Actions
 
