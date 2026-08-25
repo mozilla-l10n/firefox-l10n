@@ -482,6 +482,13 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Les mer
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Artikler
+newtab-spaces-tab-widgets = Widgeter
+newtab-spaces-tab-activity = Aktivitet
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -746,12 +753,24 @@ newtab-discovery-empty-section-topstories-timed-out = Ops! Vi lastet nesten denn
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } av { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Forrige
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Neste
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Sett automatisk avspilling på pause
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Gjenoppta automatisk avspilling
 
 ## Pocket Content Section.
 
