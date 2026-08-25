@@ -152,6 +152,60 @@ home-prefs-support-firefox-header-srd =
     .label = Prudele { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Scuvierç cemût
 
+## Strings for the Privacy widget
+
+
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
+## Strings for the Stocks widget
+
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
+## Strings for the Picture of the Day widget
+
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -229,6 +283,9 @@ newtab-topsite-sponsored = Sponsorizât
 topsite-label-pinned =
     .aria-label = { $title } (fissât)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
 
 ## Context Menu - Action Tooltips.
 
@@ -400,6 +457,15 @@ newtab-discovery-empty-section-topstories-loading = Daûr a cjariâ…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Orpo! Al somee che cheste sezion no si sedi cjariade dal dut.
 
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Prime
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Prossime
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -510,6 +576,9 @@ newtab-custom-close-menu-button =
     .aria-label = Siere menù
 newtab-custom-close-button = Siere
 newtab-custom-settings = Gjestìs plui impostazions
+
+## New Tab Appearance (browser theme picker)
+
 
 ## New Tab Wallpapers
 
@@ -1276,6 +1345,9 @@ newtab-sports-widget-message-day-in-play-title = Rint plui dinamiche la tô zorn
 newtab-sports-widget-message-day-in-play-body = Sta daûr de cope dal mont, reste concentrât, ten di voli de ore ator pal mont e tant altri.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Esplore i widgets
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
