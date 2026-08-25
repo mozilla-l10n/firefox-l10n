@@ -31,3 +31,48 @@ smartwindow-assistant-error-http-header = Błąd serwera (HTTP { $status }). Spr
 smartwindow-retry-btn = Spróbuj ponownie
 smartwindow-clear-btn = Nowa rozmowa
 smartwindow-signin-btn = Zaloguj się
+
+## Assistant Message footer
+
+aiwindow-memories-used = Wykorzystano zapamiętane treści
+aiwindow-memories-callout-description = Zapamiętane treści pomogły zindywidualizować tę odpowiedź.
+aiwindow-memories-learn-more = Więcej informacji
+aiwindow-manage-memories =
+    .label = Ustawienia zapamiętanych treści
+aiwindow-retry-without-memories =
+    .label = Spróbuj ponownie bez zapamiętanych treści
+aiwindow-retry =
+    .aria-label = Spróbuj ponownie
+    .tooltiptext = Spróbuj ponownie
+aiwindow-copy-message =
+    .aria-label = Kopiuj wiadomość
+    .tooltiptext = Kopiuj
+aiwindow-copy-table =
+    .aria-label = Kopiuj tabelę
+    .tooltiptext = Kopiuj tabelę
+aiwindow-table-scroll-indicator = Przewiń, aby wyświetlić więcej
+aiwindow-thumbs-up =
+    .aria-label = Podziel się pozytywną opinią
+    .tooltiptext = Podziel się pozytywną opinią
+aiwindow-thumbs-down =
+    .aria-label = Podziel się negatywną opinią
+    .tooltiptext = Podziel się negatywną opinią
+aiwindow-applied-memories-popover =
+    .aria-label = Panel zapamiętanych treści
+aiwindow-applied-memories-list =
+    .aria-label = Zapamiętane treści
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Usuń „{ $summary }”
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Przejdź na dół rozmowy
+    .tooltiptext = Przejdź na dół
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = Spróbuj ponownie
