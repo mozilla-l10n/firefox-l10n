@@ -434,6 +434,11 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Eikuaave
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Tembiasakue
+
 ## Search box component.
 
 # "Search" is a verb/action
