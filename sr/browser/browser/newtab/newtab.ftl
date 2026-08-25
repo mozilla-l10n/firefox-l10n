@@ -350,6 +350,12 @@ newtab-stocks-ticker-status-down = { $name }, доле { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, без промене, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -399,6 +405,13 @@ newtab-picture-check-back = Поново проверите сутра за но
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Слика дана са Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -661,6 +674,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Покушај по
 newtab-discovery-empty-section-topstories-loading = Учитавам…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Упс! Нисмо могли учитати овај одељак до краја.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Претходна
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Следећа
 
 ## Pocket Content Section.
 

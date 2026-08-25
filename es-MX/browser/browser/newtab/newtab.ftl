@@ -326,6 +326,12 @@ newtab-stocks-ticker-status-down = { $name }, bajó { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sin cambios, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
 ## Strings for the Picture of the Day widget
 
 # Shorter title shown at the top of the widget, without the source name.
@@ -350,6 +356,13 @@ newtab-picture-widget-menu-button =
     .aria-label = Opciones de imagen del día
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Más información
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -428,6 +441,9 @@ newtab-topsite-sponsored = Patrocinado
 topsite-label-pinned =
     .aria-label = { $title } (fijado)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
 
 ## Context Menu - Action Tooltips.
 
@@ -594,6 +610,15 @@ newtab-discovery-empty-section-topstories-loading = Cargando...
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Casi cargamos esta sección, pero no pudimos.
 
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Anterior
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Siguiente
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -704,6 +729,9 @@ newtab-custom-close-menu-button =
     .aria-label = Cerrar menú
 newtab-custom-close-button = Cerrar
 newtab-custom-settings = Administrar más ajustes
+
+## New Tab Appearance (browser theme picker)
+
 
 ## New Tab Wallpapers
 
@@ -1472,6 +1500,9 @@ newtab-sports-widget-message-day-in-play-title = Mantén el ritmo de tu día con
 newtab-sports-widget-message-day-in-play-body = Sigue el Mundial, mantén la concentración, consulta la hora en todo el mundo y más.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -273,6 +273,19 @@ newtab-privacy-message-milestone-month-cta = Դիտել պաշտպանությո
 newtab-privacy-message-milestone-total-cta = Դիտել պաշտպանությունները
 newtab-privacy-message-daily-cap-cta = Դիտել պաշտպանությունները
 
+## Strings for the Stocks widget
+
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Stocks widget watchlist add and remove controls
+
+
 ## Stocks widget ticker search
 
 # "Search results" is the accessible label for the list of tickers matching the
@@ -314,6 +327,13 @@ newtab-picture-attribution-source-link = Վիքիմեդիա համայնք
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Դիտել { $license } լիցենզիան
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -572,6 +592,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Կրկին փորձ
 newtab-discovery-empty-section-topstories-loading = Բեռնում...
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Վայ մենք գրեթե բեռնում ենք այս հատվածը, բայց ոչ ամբողջովին:
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Նախորդը
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Հաջորդը
 
 ## Pocket Content Section.
 
@@ -1338,6 +1367,9 @@ newtab-sports-widget-message-add-widgets-cta =
     .label = Ավելացնել վիջեթներ
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Ուսումնասիրեք վիջեթները
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

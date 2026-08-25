@@ -350,6 +350,9 @@ newtab-stocks-ticker-status-down = { $name }, πτώση { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, χωρίς μεταβολή, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
 ## Stocks widget ticker search
 
 # "Search results" is the accessible label for the list of tickers matching the
@@ -414,6 +417,13 @@ newtab-picture-check-back = Επιστρέψτε αύριο για μια νέα
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Εικόνα της ημέρας από το Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -680,6 +690,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Δοκιμή ξαν
 newtab-discovery-empty-section-topstories-loading = Φόρτωση…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ωχ! Αυτή η ενότητα σχεδόν φορτώθηκε, αλλά όχι πλήρως.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Προηγούμενο
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Επόμενο
 
 ## Pocket Content Section.
 
