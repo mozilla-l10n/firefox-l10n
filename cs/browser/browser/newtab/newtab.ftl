@@ -527,6 +527,10 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Zjistit více
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -794,6 +798,15 @@ newtab-discovery-empty-section-topstories-try-again-button = Zkusit znovu
 newtab-discovery-empty-section-topstories-loading = Načítání…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Jejda, při načítání obsahu se něco pokazilo.
+
+## Strings for the story cards carousel
+
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Předchozí
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Následující
 
 ## Pocket Content Section.
 
