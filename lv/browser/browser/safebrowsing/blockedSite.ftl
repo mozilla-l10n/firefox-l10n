@@ -8,7 +8,7 @@ safeb-blocked-unwanted-page-title = Šajā lapā var būt kaitnieciskas programm
 safeb-blocked-harmful-page-title = Šajā lapā var būt kaitnieciskas programmas
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } aizturēja šo lapu, jo tā ar viltu var pamudināt darīt kaut ko bīstamu, piemēram, uzstādīt nevēlamu programmatūru vai atklāt personisku informāciju, piemēram, paroles vai maksājumu karšu datus.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } aizturēja šo lapu, jo tā var mēģināt uzstādīt kaitniecisku programmatūru, kas datorā var zagt vai izdzēst personisku informāciju.
-safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bloķēja šo lapu, jo tā var iemānīt jums kaitniecisku programmatūru (piemēram tādu, kas maina mājas lapu saturu un rāda reklāmas).
+safeb-blocked-unwanted-page-short-desc = { -brand-short-name } aizturēja šo lapu, jo tā var ar viltu likt uzstādīt kaitniecisku programmatūru (piemēram, nomainot sākumlapu vai rādot papildu reklāmas apmeklētajās vietnēs).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } aizturēja šo lapu, jo tā var mēģināt uzstādīt bīstamas lietotnes, kas zog vai izdzēš personiskos datus (piemēram fotoattēlus, paroles vai maksājumu karšu datus).
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity

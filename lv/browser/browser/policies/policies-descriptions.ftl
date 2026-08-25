@@ -83,7 +83,7 @@ policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Piespiest skatīties iek
 policy-Handlers = Konfigurēt noklusējuma lietotņu apstrādātājus.
 policy-HardwareAcceleration = Ja atslēgts (false), atslēdz aparatūras paātrināšanu.
 # “lock” means that the user won’t be able to change this setting
-policy-Homepage = Iestata un iespējams fiksē sākuma lapu.
+policy-Homepage = Iestata un iespējams slēdz sākuma lapu.
 policy-HttpAllowlist = Izcelsmes, kuras netiks uzlabotas uz HTTPS.
 policy-HttpsOnlyMode = Atļaut ieslēgt režīmu Tikai-HTTPS.
 policy-InstallAddonsPermission = Ļauj konkrētām lapām instalēt papildinājumus.

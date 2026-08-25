@@ -136,6 +136,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Lai iespējotu paplašinājumu, izvēlnē jādodas uz <img data-l10n-name="addons-icon"/> Paplašinājumi<img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } pārvalda dažus no sākumlapas iestatījumiem.
 
 ## Preferences UI Search Results
 
@@ -162,6 +165,10 @@ windows-launch-on-login =
     .label = Kad dators tiek startēts, automātiski atvērt { -brand-short-name }
     .accesskey = K
 windows-launch-on-login-disabled = Šī preference operētājsistēmā Windows ir izslēgta. Lai veiktu izmaiņas, sistēmas iestatījumos atveriet <a data-l10n-name="startup-link">Startēšanas lietotnes</a>.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
+windows-launch-on-login-open-new-tab =
+    .label = Atvērt arī jaunu cilni
+    .accesskey = j
 startup-restore-warn-on-quit =
     .label = Brīdināt jūs, kad aizverat pārlūku
 disable-extension =
@@ -677,6 +684,10 @@ home-section =
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Noklusējuma pārlūks
+is-default-browser-2 =
+    .message = { -brand-short-name } ir noklusējuma pārlūks. Laba izvēle!
 set-as-my-default-browser-2 =
     .label = Padarīt par noklusējuma
     .accesskey = n
@@ -710,10 +721,18 @@ use-current-pages =
 choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
+home-homepage-title =
+    .label = Sākumlapa
 home-homepage-new-tabs =
     .label = Jaunas cilnes
 home-custom-homepage-address-button =
     .label = Pievienot adresi
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Pielāgota sākumlapa
+home-custom-homepage-subpage =
+    .heading = Pielāgota sākumlapa
 
 ## Home Section - Firefox Home Content Customization
 

@@ -44,3 +44,29 @@ ai-window-toggleview-open-private =
     .label = Otwórz nowe prywatne okno
 ai-window-toggleview-status-label-active = { -smart-window-brand-name(case: "nom", capitalization: "upper-singular") }
 ai-window-toggleview-status-label-inactive = Klasyczne okno
+toolbar-switcher-customizable-label =
+    .label = Przełącznik { -smart-window-brand-name(case: "gen", capitalization: "lower-singular") }
+    .tooltiptext = Przełączaj między inteligentnymi a klasycznymi oknami.
+
+## Input CTA
+
+aiwindow-input-cta-submit-label-chat = Zapytaj
+aiwindow-input-cta-submit-label-navigate = Przejdź
+aiwindow-input-cta-submit-label-search = Szukaj
+aiwindow-input-cta-submit-label-stop = Zatrzymaj
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Rozpoczęto generowanie odpowiedzi
+aiwindow-input-cta-menu-label-chat = Zapytaj
+aiwindow-input-cta-menu-label-navigate = Przejdź do strony
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Szukaj w { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = Szukaj w…
+aiwindow-input-cta-search-submenu-header = Szukaj
+aiwindow-input-cta-stop-button =
+    .title = Zatrzymaj odpowiedź
+    .aria-label = Zatrzymaj generowanie odpowiedzi
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = Zapytaj, wyszukaj lub wpisz adres
