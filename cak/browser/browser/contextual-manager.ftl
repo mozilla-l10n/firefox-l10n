@@ -3,16 +3,25 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Kekanöx Ewan taq Tzij
-    .key = F
     .aria-label = Kekanöx Ewan taq Tzij
+    .key = F
+    .placeholder = Kekanöx Ewan taq Tzij
+contextual-manager-menu-more-options-button =
+    .title = Ch'aqa' taq cha'oj
+contextual-manager-more-options-popup =
+    .aria-label = Ch'aqa' taq Cha'oj
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Titz'aqatisäx ewan tzij
 contextual-manager-passwords-command-import-from-browser = Tijik' pa Jun Chik Okik'amaya'l…
 contextual-manager-passwords-command-import = Tijik' pa jun Yakb'äl…
+contextual-manager-passwords-command-export = Tik'wäx ewan taq tzij
+contextual-manager-passwords-command-remove-all = Keyuj konojel ri ewan taq tzij
+contextual-manager-passwords-command-options = Taq cha'oj
+contextual-manager-passwords-command-settings = Taq nuk'ulem
 contextual-manager-passwords-command-help = To'ïk
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Richin najïk' ri ewan atzij, tatz'ib'aj ri ruwujil rutikirisaxik molojri'ïl richin Windows. Re re' nuto' richin nuchajij rujikomal ri rub'i' ataqoya'l.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +44,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Richin n
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = tiwachib'ëx ri yakon ewan tzij
+contextual-manager-passwords-import-file-picker-title = Kejik' ewan taq tzij
 contextual-manager-passwords-import-file-picker-import-button = Tijik'
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -51,11 +61,15 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] TSV Yakb'äl
     }
 contextual-manager-passwords-import-success-button = Xk'is
+contextual-manager-passwords-import-error-button-try-again = Titojtob'ëx chik
 contextual-manager-passwords-import-error-button-cancel = Tiq'at
 contextual-manager-passwords-export-success-button = Xk'is
 contextual-manager-export-passwords-dialog-confirm-button = Tisamajïx chik na ri k'amoj
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Tik'am ri Ewan tzij pa { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = ewan taq tzij
 contextual-manager-passwords-export-file-picker-export-button = Tik'wäx el
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -80,6 +94,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Tiyuj
        *[other] Keyuj Ronojel
     }
+contextual-manager-passwords-origin-label = Ruxaq Ajk'amaya'l
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Rub'i' winäq
+    .data-after = Wachib'en
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Ewan tzij
+    .data-after = Wachib'en
 contextual-manager-passwords-update-password-success-button = Xk'is
 contextual-manager-passwords-delete-password-success-button = Xk'is
 # This message is displayed to make sure that a user wants to delete an existing login.

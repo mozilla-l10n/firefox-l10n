@@ -843,6 +843,9 @@ urlbar-view-context-menu-open-in-container-tab =
 urlbar-view-context-menu-open-in-window =
     .label = Tijaq pa K'ak'a' Tzuwäch
     .accesskey = K
+urlbar-view-context-menu-open-in-private-window =
+    .label = Tijaq pa K'ak'a' Ichinan Tzuwäch
+    .accesskey = I
 
 ## Labels shown above groups of urlbar results
 
@@ -864,6 +867,12 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = Nimakol kekanöx
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = To'on
+urlbar-result-menu-trending-why =
+    .label = ¿Aruma nintz'ët re'?
+    .accesskey = A
 
 ## Reader View toolbar buttons
 
@@ -1012,6 +1021,10 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Ewan taq tzij
     .tooltiptext = Ketz'et chuqa' kenuk'samajïx ri yakon ewan taq atzij
+qrcode-copy-button =
+    .label = Tiwachib'ëx
+qrcode-save-button =
+    .label = Tiyak
 qrcode-window-title = QR b'itz'ib'
 qrcode-dialog-title = QR b'itz'ib'
 qrcode-image =
@@ -1272,6 +1285,15 @@ file-picker-crashed-show-in-folder =
 
 ## The urlbar trust icon & panel
 
+trustpanel-connection-label-secure = Rujikomal okem
+trustpanel-connection-label-insecure = Man ütz ta okem
+trustpanel-header-enabled = { -brand-product-name } ruchajin ri'
+trustpanel-header-enabled-insecure = Tachajij awi' pa re ruxaq re'
+trustpanel-header-disabled = Xe'achüp ri taq chajinïk
+trustpanel-description-disabled = ({ -brand-product-name }) chupül ruwäch. Niqachilab'ej chi ketzij chik ri taq chajinïk.
+trustpanel-clear-cookies-button = Kejosq'ïx ri taq kaxlanwey chuqa' taq ruxaq ruk'amaya'l tzij
+trustpanel-privacy-link = Runuk'ulem ichinanem
+trustpanel-clear-cookies-description = Yeruyüj taq kuki chuqa' taq rutzij ruxaq nitikïr nutz'apij molojri'ïl pa ri taq ajk'am ruxaq chuqa' yerujäm ri taq ruch'ich' loq'oj.
 trustpanel-clear-cookies-subview-button-clear = Tijosq'ïx
 trustpanel-clear-cookies-subview-button-cancel = Tiq'at
 trustpanel-blocker-see-all = Titzet Ronojel
