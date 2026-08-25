@@ -61,6 +61,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Không có cookie hoặc lịch sử đã lưu, ngay từ màn hình của bạn. Duyệt như không có ai đang xem.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Giúp ngăn chặn thư rác trong hộp thư đến bằng cách sử dụng email ẩn danh
+about-private-browsing-relay-promo-title = Che giấu địa chỉ email thật của bạn bằng một email ẩn danh khi đăng ký, mua sắm hoặc chia sẻ trực tuyến.
+about-private-browsing-relay-promo-link-text = Thử dùng email ẩn danh
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work

@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Hình ảnh của ngày
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Tìm kiếm gần đây
 home-prefs-mission-message2 =
     .message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn.
 home-prefs-manage-topics-link2 =
@@ -164,6 +167,10 @@ home-prefs-mission-message-learn-more-link-srd = Tìm hiểu cách thức
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Tìm hiểu thêm
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Riêng tư
 
 ## Privacy widget — count readout
 
@@ -296,6 +303,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Cổ phiếu
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Thị trường
+    .label = Thị trường
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Danh sách theo dõi
+    .label = Danh sách theo dõi
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Tìm kiếm theo tên hoặc ký hiệu
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -309,6 +326,65 @@ newtab-stocks-ticker-status-up = { $name }, tăng { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, giảm { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, không thay đổi, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .title = Thêm { $name } vào danh sách theo dõi
+    .aria-label = Thêm { $name } vào danh sách theo dõi
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .title = Xoá { $name } khỏi danh sách theo dõi
+    .aria-label = Xoá { $name } khỏi danh sách theo dõi
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } đang ở trong danh sách theo dõi của bạn
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = Thêm { $name } vào danh sách theo dõi
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Xoá { $name } khỏi danh sách theo dõi
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Tìm kiếm theo tên hoặc ký hiệu
+    .placeholder = Tìm kiếm theo tên hoặc ký hiệu
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Kết quả tìm kiếm
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .title = Quay lại
+    .aria-label = Quay lại
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Không có kết quả tìm kiếm cho “{ $query }”
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Đang tải…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Không thể tìm kiếm lúc này. Hãy thử lại sau.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full = Bạn chỉ có thể thêm tối đa { $limit } cổ phiếu. Xoá một cổ phiếu để thêm một cái khác.
 
 ## Strings for the Picture of the Day widget
 
@@ -359,6 +435,16 @@ newtab-picture-check-back = Hãy quay lại vào ngày mai để xem hình ảnh
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Hình ảnh của ngày trên Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Tìm kiếm gần đây
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Tuỳ chọn tìm kiếm gần đây
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Tìm hiểu thêm
 
 ## Search box component.
 
@@ -731,6 +817,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Cổ phiếu
 newtab-custom-widget-picture-toggle =
     .label = Hình ảnh của ngày
+newtab-custom-widget-recent-searches-toggle =
+    .label = Tìm kiếm gần đây
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget

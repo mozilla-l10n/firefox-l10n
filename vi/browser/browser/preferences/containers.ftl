@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Biểu tượng
 containers-color-label2 =
     .label = Màu
+containers-dialog2 =
+    .buttonlabelaccept = Lưu
+    .buttonaccesskeyaccept = S
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -97,6 +100,25 @@ containers-window-new3 =
 containers-window-update-settings3 =
     .title = Cài đặt ngăn chứa { $name }
     .style = min-width: 32em
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Thêm trang web
+containers-site-label =
+    .label = Trang web
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Ngăn chứa
+containers-site-dialog =
+    .buttonlabelaccept = Lưu
+    .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Nhập một trang web hợp lệ, an toàn
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Trang web này đã có trong danh sách của bạn
 
 ## Container creation panel, anchored to the URL bar.
 
