@@ -8,4 +8,5 @@
 ### be displayed inline, but the user can still open or download it according to
 ### their PDF handling settings.
 
+pdfjs-embed-fallback-message = Tutón PDF njeda so tu pokazać.
 pdfjs-embed-fallback-open-button = PDF wočinić

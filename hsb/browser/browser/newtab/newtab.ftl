@@ -784,6 +784,12 @@ newtab-carousel-previous =
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Přichodny
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Awtomatiske wothraće zastajić
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Z awtomatiskim wothraćom pokročować
 
 ## Pocket Content Section.
 
