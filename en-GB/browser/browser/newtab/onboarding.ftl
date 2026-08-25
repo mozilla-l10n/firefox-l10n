@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Add { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progress: step { $current } of { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -233,11 +227,6 @@ mr2022-onboarding-set-default-subtitle = Use a browser backed by a non-profit. W
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Our latest version is built around you, making it easier than ever to zip around the web. It’s packed with features we think you’ll adore.
 mr2022-onboarding-get-started-primary-button-label = Set up in seconds
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-header = Lightning-fast setup
 mr2022-onboarding-import-subtitle = Set up { -brand-short-name } how you like it. Add your bookmarks, passwords, and more from your old browser.
 mr2022-onboarding-import-primary-button-label-no-attribution = Import from previous browser
@@ -274,7 +263,7 @@ mr2022-onboarding-colorway-description-activist = <b>You are an Activist.</b> Yo
 mr2022-onboarding-colorway-label-dreamer = Dreamer
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Dreamer (purple)
-mr2022-onboarding-colorway-description-dreamer = <b>You are a Dreamer.</b> You believe that fortune favors the bold and inspire others to be brave.
+mr2022-onboarding-colorway-description-dreamer = <b>You are a Dreamer.</b> You believe that fortune favours the bold and inspire others to be brave.
 mr2022-onboarding-colorway-label-innovator = Innovator
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovator (orange)
