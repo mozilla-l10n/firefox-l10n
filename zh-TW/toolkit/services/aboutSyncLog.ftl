@@ -35,6 +35,8 @@ about-sync-log-search-input =
 
 about-sync-log-refresh-button =
     .label = 重新整理
+about-sync-log-download-button =
+    .label = 下載可見範圍的紀錄（.zip）
 about-sync-log-clear-button =
     .label = 清除紀錄
 
