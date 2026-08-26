@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Añadir nuevo contenedor
     .style = min-width: 45em
+    .title = Añadir nuevo contenedor
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Preferencias del contenedor { $name }
     .style = min-width: 45em
+    .title = Preferencias del contenedor { $name }
 containers-window-close =
     .key = w
 containers-name-label2 =
@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Ícono
 containers-color-label2 =
     .label = Color
+containers-dialog2 =
+    .buttonlabelaccept = Guardar
+    .buttonaccesskeyaccept = S
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,16 +33,16 @@ containers-color-label2 =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Nombre
-    .accesskey = N
     .style = { -containers-labels-style }
+    .accesskey = N
 containers-name-text =
     .placeholder = Ingresar un nombre de contenedor
 containers-icon-label = Ícono
+    .style = { -containers-labels-style }
     .accesskey = I
-    .style = { -containers-labels-style }
 containers-color-label = Color
-    .accesskey = o
     .style = { -containers-labels-style }
+    .accesskey = o
 containers-dialog =
     .buttonlabelaccept = Hecho
     .buttonaccesskeyaccept = D
@@ -90,19 +93,32 @@ containers-icon-tree =
 containers-icon-chill =
     .label = Sacar la vuelta
 containers-window-new3 =
-    .title = Añadir nuevo contenedor
     .style = min-width: 32em
+    .title = Añadir nuevo contenedor
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings3 =
-    .title = Preferencias del contenedor { $name }
     .style = min-width: 32em
+    .title = Preferencias del contenedor { $name }
 
 ## Dialog that binds a website to a container.
 
+containers-site-window =
+    .title = Añadir sitio web
+containers-site-label =
+    .label = Sitio web
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Contenedor
 containers-site-dialog =
     .buttonlabelaccept = Guardar
     .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Ingresa un sitio web válido y seguro
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Este sitio web ya está en tu lista
 
 ## Container creation panel, anchored to the URL bar.
 

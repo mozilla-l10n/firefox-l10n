@@ -31,6 +31,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Ahora no
     .accessKey = N
+address-capture-never-save-addresses-button =
+    .label = Nunca guardar direcciones
+    .accessKey = v
 address-capture-never-save-button =
     .label = Nunca guardar
     .accessKey = v
@@ -61,11 +64,6 @@ autofill-address-name = Nombre
 autofill-address-organization = Organización
 autofill-address-street-address = Dirección
 autofill-address-street = Dirección
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = Vecindario
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -73,11 +71,6 @@ autofill-address-village-township = Pueblo o municipio
 autofill-address-island = Isla
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = Townland
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Ciudad
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -87,11 +80,6 @@ autofill-address-post-town = Post town
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = Suburbio
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Provincia
 autofill-address-state = Estado
 autofill-address-county = Condado
@@ -109,11 +97,6 @@ autofill-address-department = Departamento
 autofill-address-emirate = Emirato
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = Óblast
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = Código postal (Pin)
 autofill-address-postal-code = Código postal
@@ -132,6 +115,7 @@ autofill-address-tel = Teléfono
 autofill-address-email = Correo
 autofill-cancel-button = Cancelar
 autofill-save-button = Guardar
+autofill-country-warning-message-2 = El autocompletado de formularios actualmente solo está disponible para algunos países
 autofill-country-warning-message = El autocompletado de formularios actualmente está disponible solo para algunos países.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Añadir nueva tarjeta de crédito

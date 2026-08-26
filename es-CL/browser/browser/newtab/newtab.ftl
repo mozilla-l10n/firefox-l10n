@@ -464,6 +464,18 @@ newtab-picture-check-back = Vuelva mañana para ver una nueva foto
 # provides no localized description.
 newtab-picture-image-alt = Imagen del día de Wikimedia Commons
 
+## Strings for the Recent Searches widget
+
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Más información
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Historias
+newtab-spaces-tab-widgets = Widgets
+newtab-spaces-tab-activity = Actividad
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -725,12 +737,24 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Chuta! Casi logramos car
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } de { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Anterior
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Siguiente
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Pausar la reproducción automática
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Reanudar la reproducción automática
 
 ## Pocket Content Section.
 
@@ -839,6 +863,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Acciones
 newtab-custom-widget-picture-toggle =
     .label = Imagen del día
+newtab-custom-widget-recent-searches-toggle =
+    .label = Búsquedas recientes
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
