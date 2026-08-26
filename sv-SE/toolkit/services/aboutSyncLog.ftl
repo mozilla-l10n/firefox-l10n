@@ -4,7 +4,7 @@
 
 about-sync-log-title = Synkroniseringsloggar
 about-sync-log-page-header =
-    .description = Diagnostiska loggar skrivna av sync.
+    .description = Diagnostikloggar skrivna av synkronisering.
     .heading = Synkroniseringsloggar
 
 ## Filter controls
@@ -61,9 +61,6 @@ about-sync-log-empty-filtered = Inga loggar matchar de aktuella filtren.
 ## Inline viewer
 
 about-sync-log-view-error = Det gick inte att läsa den här loggfilen.
-# Opens the raw log file in a new browser tab.
-about-sync-log-open-raw =
-    .label = Öppna raw
 
 ## Clear logs confirmation
 
