@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-sync-log-title = Vienādošanas žurnāli
+about-sync-log-page-header =
+    .description = Vienādošanas ierakstīti nepilnību noteikšanas žurnāli.
+    .heading = Vienādošanas žurnāli
 
 ## Filter controls
 
@@ -73,3 +77,4 @@ about-sync-log-clear-confirm-message =
         [one] Tas neatgriezeniski izdzēsīs { $count } redzamo žurnāla datni.
        *[other] Tas neatgriezeniski izdzēsīs { $count } redzamās žurnāla datnes.
     }
+about-sync-log-clear-confirm-accept = Izdzēst

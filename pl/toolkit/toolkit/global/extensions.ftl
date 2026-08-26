@@ -43,7 +43,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Anuluj
     .accesskey = A
-webext-perms-sideload-text = Inny program na tym komputerze zainstalował dodatek mogący wpływać na przeglądarkę. Przejrzyj jakich wymaga uprawnień i zdecyduj, czy chcesz go włączyć.
+webext-perms-sideload-text = Inny program na tym komputerze zainstalował dodatek mogący wpływać na przeglądarkę. Przejrzyj, jakich wymaga uprawnień, i zdecyduj, czy chcesz go włączyć.
 webext-perms-sideload-text-no-perms = Inny program na tym komputerze zainstalował dodatek mogący wpływać na przeglądarkę. Zdecyduj, czy chcesz go włączyć.
 webext-perms-sideload-enable =
     .label = Włącz
@@ -53,10 +53,10 @@ webext-perms-sideload-cancel =
     .accesskey = A
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text2 = Rozszerzenie „{ $extension }” zostało uaktualnione. Nowe uprawnienia muszą zostać zaakceptowane zanim uaktualniona wersja zostanie zainstalowana. Wybranie „Anuluj” spowoduje pozostawienie aktualnie zainstalowanej wersji rozszerzenia.
+webext-perms-update-text2 = Rozszerzenie „{ $extension }” zostało uaktualnione. Nowe uprawnienia muszą zostać zaakceptowane, zanim uaktualniona wersja zostanie zainstalowana. Wybranie „Anuluj” spowoduje pozostawienie aktualnie zainstalowanej wersji rozszerzenia.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Rozszerzenie „{ $extension }” zostało uaktualnione. Nowe uprawnienia muszą zostać zaakceptowane zanim uaktualniona wersja zostanie zainstalowana. Wybranie „Anuluj” spowoduje pozostawienie aktualnie zainstalowanej wersji rozszerzenia. To rozszerzenie wymaga następujących uprawnień:
+webext-perms-update-text = Rozszerzenie „{ $extension }” zostało uaktualnione. Nowe uprawnienia muszą zostać zaakceptowane, zanim uaktualniona wersja zostanie zainstalowana. Wybranie „Anuluj” spowoduje pozostawienie aktualnie zainstalowanej wersji rozszerzenia. To rozszerzenie wymaga następujących uprawnień:
 webext-perms-update-accept =
     .label = Uaktualnij
     .accesskey = U

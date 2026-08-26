@@ -82,9 +82,9 @@ genai-shortcuts-selected-warning-generic =
     .heading = Czatbot oparty na sztucznej inteligencji nie otrzyma pełnego zaznaczenia
     .message =
         { $selectionLength ->
-            [one] Zaznaczono { $selectionLength } znak. Maksymalna liczba znaków, jakie możemy wysłać do tego czatbota opartego na sztucznej inteligencji to około { $maxLength }.
-            [few] Zaznaczono około { $selectionLength } znaki. Maksymalna liczba znaków, jakie możemy wysłać do tego czatbota opartego na sztucznej inteligencji to około { $maxLength }.
-           *[many] Zaznaczono około { $selectionLength } znaków. Maksymalna liczba znaków, jakie możemy wysłać do tego czatbota opartego na sztucznej inteligencji to około { $maxLength }.
+            [one] Zaznaczono { $selectionLength } znak. Maksymalna liczba znaków, jakie możemy wysłać do tego czatbota opartego na sztucznej inteligencji, to około { $maxLength }.
+            [few] Zaznaczono około { $selectionLength } znaki. Maksymalna liczba znaków, jakie możemy wysłać do tego czatbota opartego na sztucznej inteligencji, to około { $maxLength }.
+           *[many] Zaznaczono około { $selectionLength } znaków. Maksymalna liczba znaków, jakie możemy wysłać do tego czatbota opartego na sztucznej inteligencji, to około { $maxLength }.
         }
 # $provider (string) - name of the provider
 # $selectionLength (number) - selected text length
@@ -93,9 +93,9 @@ genai-shortcuts-selected-warning =
     .heading = { $provider } nie otrzyma pełnego zaznaczenia
     .message =
         { $selectionLength ->
-            [one] Zaznaczono { $selectionLength } znak. Maksymalna liczba znaków, jakie możemy wysłać do { $provider } to około { $maxLength }.
-            [few] Zaznaczono około { $selectionLength } znaki. Maksymalna liczba znaków, jakie możemy wysłać do { $provider } to około { $maxLength }.
-           *[many] Zaznaczono około { $selectionLength } znaków. Maksymalna liczba znaków, jakie możemy wysłać do { $provider } to około { $maxLength }.
+            [one] Zaznaczono { $selectionLength } znak. Maksymalna liczba znaków, jakie możemy wysłać do { $provider }, to około { $maxLength }.
+            [few] Zaznaczono około { $selectionLength } znaki. Maksymalna liczba znaków, jakie możemy wysłać do { $provider }, to około { $maxLength }.
+           *[many] Zaznaczono około { $selectionLength } znaków. Maksymalna liczba znaków, jakie możemy wysłać do { $provider }, to około { $maxLength }.
         }
 genai-shortcuts-hide =
     .label = Ukryj skrót do czatbota
@@ -254,8 +254,8 @@ link-preview-generation-retry = Spróbuj ponownie
 link-preview-settings-button =
     .title = Ustawienia podglądu odnośników
 link-preview-settings-enable =
-    .label = Podgląd odnośników
     .description = Wyświetla tytuł strony, opis i nie tylko po użyciu skrótu lub kliknięciu odnośnika prawym przyciskiem.
+    .label = Podgląd odnośników
 link-preview-settings-key-points =
     .label = Sztuczna inteligencja może odczytywać początek strony i generować podsumowanie
 link-preview-settings-long-press =

@@ -28,8 +28,8 @@ ipprotection-feature-introduction-title-1 = Wypróbuj wbudowaną sieć VPN { -br
 ipprotection-feature-introduction-link-text-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dodaj jeszcze jedną warstwę prywatności
-ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród kilku położeń, aby miejsce, z którego przeglądasz było bardziej prywatne.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród wielu położeń, aby miejsce, z którego przeglądasz było bardziej prywatne.
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród kilku położeń, aby miejsce, z którego przeglądasz, było bardziej prywatne.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród wielu położeń, aby miejsce, z którego przeglądasz, było bardziej prywatne.
 ipprotection-feature-introduction-link-text-privacy-3 = <a data-l10n-name="learn-more-vpn">Zwiększ prywatność</a>, wybierając spośród wielu położeń, aby ukryć miejsce, z którego przeglądasz Internet.
 ipprotection-feature-introduction-text-summer-promo-1 = Włącz sieć VPN, aby przeglądanie Internetu było bardziej prywatne. <a data-l10n-name="summer-promo-link">Uzyskaj nieograniczoną przepustowość</a> i więcej położeń, z których możesz przeglądać. Od teraz do 31 sierpnia.
 ipprotection-feature-introduction-title-summer-promo = Planujesz podróż? Prywatność zabierz ze sobą.
@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Wybierz spośród kilku położeń l
 unauthenticated-get-started = Zacznij teraz
 unauthenticated-terms-of-service-privacy-notice = Kontynuując, zgadzasz się na <a data-l10n-name="vpn-terms-of-service">regulamin usługi</a> i <a data-l10n-name="vpn-privacy-notice">zasady ochrony prywatności</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Używaj VPN na tej witrynie
     .aria-label = VPN jest włączony na tej witrynie
-site-exclusion-toggle-disabled-1 =
     .label = Używaj VPN na tej witrynie
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN jest wyłączony na tej witrynie
+    .label = Używaj VPN na tej witrynie
 site-exclusion-toggle-description = Witryna nie działa poprawnie? Spróbuj wyłączyć sieć VPN.
 ipprotection-settings-link =
     .label = Ustawienia
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Prawie skończy�
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Wbudowana sieć VPN zwiększa prywatność podczas przeglądania w { -brand-short-name(case: "loc") }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Wbudowana sieć VPN
     .description = Zwiększ prywatność, ukrywając swoje położenie podczas przeglądania Internetu.
+    .label = Wbudowana sieć VPN
 ip-protection-learn-more = Więcej informacji
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,13 +250,13 @@ ip-protection-not-opted-in-button = Zacznij teraz
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Zarządzaj ustawieniami witryn
     .description =
         { $count ->
             [one] { $count } witryna
             [few] { $count } witryny
            *[many] { $count } witryn
         }
+    .label = Zarządzaj ustawieniami witryn
 ip-protection-autostart =
     .label = Automatycznie włączaj VPN
 ip-protection-autostart-checkbox =
@@ -264,11 +264,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = W trybie prywatnym
 ip-protection-vpn-upgrade-link =
-    .label = Korzystaj z jeszcze większej ochrony poza { -brand-short-name(case: "ins") } za pomocą { -mozilla-vpn-brand-name }
     .description = Wybieraj dowolne położenie VPN i dodaj ochronę do wszystkich aplikacji na nawet pięciu urządzeniach, w domu czy w publicznej sieci Wi-Fi.
+    .label = Korzystaj z jeszcze większej ochrony poza { -brand-short-name(case: "ins") } za pomocą { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Jeszcze bardziej zwiększ ochronę dzięki { -mozilla-vpn-brand-name }
     .description = Wybierz jedno z ponad 300 położeń i chroń wszystkie aplikacje na maksymalnie 5 urządzeniach.
+    .label = Jeszcze bardziej zwiększ ochronę dzięki { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

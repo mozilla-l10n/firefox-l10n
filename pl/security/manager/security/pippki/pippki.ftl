@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Program pracuje obecnie w trybie FIPS. Tr
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Zresetuj hasło główne
     .style = min-width: 40em
+    .title = Zresetuj hasło główne
 reset-password-button-label =
     .label = Zresetuj
 reset-primary-password-text = Po zresetowaniu hasła głównego wszystkie przechowywane hasła internetowe i hasła serwerów pocztowych, certyfikaty osobiste oraz prywatne klucze zostaną usunięte. Czy na pewno zresetować hasło główne?
@@ -36,17 +36,17 @@ pippki-reset-password-confirmation-message = Hasło główne zostało zresetowan
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Pobieranie certyfikatu
     .style = min-width: 46em
+    .title = Pobieranie certyfikatu
 download-cert-message = Otrzymano prośbę o dołączenie nowego organu certyfikacji do listy zaufanych organów.
 download-cert-trust-ssl =
-    .label = Zaufaj temu CA przy identyfikacji witryn internetowych.
+    .label = Zaufaj temu organowi przy identyfikacji witryn internetowych.
 download-cert-trust-email =
-    .label = Zaufaj temu CA przy identyfikacji użytkowników poczty.
+    .label = Zaufaj temu organowi przy identyfikacji użytkowników poczty.
 download-cert-message-desc = Jeżeli jest to możliwe, przed udzieleniem zgody należy zapoznać się z certyfikatem tego organu oraz jego polityką i stosowanymi procedurami.
 download-cert-view-cert =
     .label = Wyświetl
-download-cert-view-text = Sprawdź certyfikat CA
+download-cert-view-text = Sprawdź certyfikat
 
 ## Client Authentication Ask dialog
 
