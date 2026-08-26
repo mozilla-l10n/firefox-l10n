@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Зберігайте приватніст
 about-private-browsing-focus-promo-cta = Завантажити { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: приватний перегляд у дорозі
 about-private-browsing-focus-promo-text = Наша спеціальна програма для приватного перегляду на мобільних пристроях щоразу очищає вашу історію і файли cookie.
-
-##
-
 about-private-browsing-focus-promo-header-b = Перейдіть до приватного перегляду на своєму телефоні
 about-private-browsing-focus-promo-text-b = Користуйтеся { -focus-brand-name } для тих приватних пошуків, які ви хочете приховати від основного мобільного браузера.
 about-private-browsing-focus-promo-header-c = Приватність вищого рівня на мобільному пристрої
@@ -60,6 +57,12 @@ about-private-browsing-pin-promo-link-text =
        *[other] Закріпити на панелі завдань
     }
 about-private-browsing-pin-promo-title = Жодних збережених файлів cookie чи історії на комп'ютері. Переглядайте без думки, що за вами хтось спостерігає.
+
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Запобігайте спаму в поштовій скриньці за допомогою масок електронної пошти
+about-private-browsing-relay-promo-title = Приховуйте свою справжню адресу за допомогою масок електронної пошти під час реєстрацій на сайтах, покупок в інтернет-магазинах або обміну даними онлайн.
+about-private-browsing-relay-promo-link-text = Спробуйте маски електронної пошти
 
 ## Strings used in a promotion message for cookie banner reduction
 
