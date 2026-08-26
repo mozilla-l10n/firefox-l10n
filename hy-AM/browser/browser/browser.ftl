@@ -1699,8 +1699,8 @@ trustpanel-list-label-social-tracking =
     }
 trustpanel-list-label-cryptominer =
     { $count ->
-        [one] { $count } Կրիպտոմայներ
-       *[other] { $count } Կրիպտոմայներներ
+        [one] { $count } գաղտնազերծիչ
+       *[other] { $count } գաղտնազերծիչներ
     }
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
@@ -1724,6 +1724,16 @@ trustpanel-fingerprinter-not-blocking-tab-header =
        *[other] { -brand-product-name }-ը արգելափակել է { $count } մատնահետքեր հավաքող
     }
 trustpanel-fingerprinter-list-header = Այս կայքերը փորձում են ձեր մատնահետքը վերցնել՝
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-ն արգելափակեց { $count } գաղտնազերծիչ
+       *[other] { -brand-product-name }-ն արգելափակել է { $count } գաղտնազերծիչներ
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-ը թույլատրել է { $count } գաղտնազերծիչ
+       *[other] { -brand-product-name }-ը թույլատրել է { $count } գաղտնազերծիչներ
+    }
 trustpanel-cryptominer-tab-list-header = Հետևյալ կայքերը փորձում են կրիպտոմայնինգ անել.
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Այս կայքում անձնական էջ ունե՞ք։

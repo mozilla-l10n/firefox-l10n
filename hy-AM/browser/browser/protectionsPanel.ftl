@@ -35,13 +35,13 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Բարելավված հետագծման պաշտպանություն
-    .description = Այս կայքում
     .aria-label = Բարելավված հետագծման պաշտպանություն. Միացված է { $host }-ի համար
-protections-panel-etp-toggle-off =
+    .description = Այս կայքում
     .label = Բարելավված հետագծման պաշտպանություն
-    .description = Անջատված է այս կայքի համար
+protections-panel-etp-toggle-off =
     .aria-label = Բարելավված հետագծման պաշտպանություն. Անջատված է { $host }-ի համար
+    .description = Անջատված է այս կայքի համար
+    .label = Բարելավված հետագծման պաշտպանություն
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -59,7 +59,7 @@ protections-panel-not-blocking-why-etp-off-tooltip-label =
 protections-panel-no-trackers-found = { -brand-short-name }-ին հայտնի ոչ մի հայտնի հետագծիչներ չեն հայտնաբերվել այս էջում։
 protections-panel-content-blocking-tracking-protection = Հետևող բովանդակություն
 protections-panel-content-blocking-socialblock = Սոց մեդիայի հետագծիչներ
-protections-panel-content-blocking-cryptominers-label = Ծպտյալ արժույթներ
+protections-panel-content-blocking-cryptominers-label = Գաղտնազերծիչներ
 protections-panel-content-blocking-fingerprinters-label = Մատնահետքեր
 
 ## In the protections panel, Content Blocking category items are in three sections:
@@ -120,9 +120,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Չեղարկել
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Ուղարկել զեկույց
-
-# Cookie Banner Handling
-
 protections-panel-cookie-banner-handling-header = Թխուկների ազդերիզի կրճատում
 protections-panel-cookie-banner-blocker-header = Թխուկների ազդերիզի արգելափակիչ
 protections-panel-cookie-banner-handling-enabled = Միացված է այս կայքի համար

@@ -47,7 +47,7 @@ tracker-tab-title = Հետագծող բովանդակություն
 tracker-tab-description = Կայքերը կարող են բեռնել արտաքին գովազդ և այլ բովանդակություն հետապնդվող կոդով։ Հետապնդվող բովանդակությանը արգելափակումը կարող է օգնել կայքերին ավելի արագ բեռնվել, բայց որոշ կոճակներ ձևեր և մուտքային դաշտեր կարող են չաշխատել։ <a data-l10n-name="learn-more-link">Իմանալ ավելին</a>
 fingerprinter-tab-title = Մատնահետքեր
 fingerprinter-tab-content = Մատնահետքերը հավաքում են կարգավորումներ ձեր զննարկչից և համակարգչից ձեր հատկագրից ստեղծելու համար։ Օգտագործելով այդ թվային մատնահետքերը նրանք կարող են հետապնդել ձեզ տարբեր վեբ կայքերում։ <a data-l10n-name="learn-more-link">Իմանա ավելին</a>
-cryptominer-tab-title = Ծպտյալ արժույթներ
+cryptominer-tab-title = Գաղտնազերծիչներ
 cryptominer-tab-content = Կրիպտոարժույթները օգտագործում են ձեր համակարգի հաշվարկային ուժը թվային փողը հանելու համար։ Ծպտյալ արժեքների գրվածքները սպառում են ձեր մարտկոցը, դանդաղեցնում ձեր համակարգիչը և կարող են մեծացնել ձեր էներգիայի հաշիվը։ <a data-l10n-name="learn-more-link"> Իմանալ ավելին</a>
 protections-close-button2 =
     .aria-label = Փակել
@@ -199,10 +199,10 @@ bar-tooltip-fingerprinter =
 bar-tooltip-cryptominer =
     .aria-label =
         { $count ->
-            [one] { $count } ծպտյալ արժույթներ ({ $percentage }%)
-           *[other] { $count } ծպտյալ արժույթներ ({ $percentage }%)
+            [one] { $count } գաղտնազերծիչ ({ $percentage }%)
+           *[other] { $count } գաղտնազերծիչներ ({ $percentage }%)
         }
-    .title = Ծպտյալ արժույթներ
+    .title = Գաղտնազերծիչներ
 
 ## VPN promo card and banner
 
