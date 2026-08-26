@@ -75,11 +75,39 @@ app-basics-service-workers = Регистрирани Service Workers
 app-basics-third-party = Модули од трети страни
 app-basics-profiles = Профили
 app-basics-launcher-process-status = Процес на стартување
+app-basics-multi-process-support = Мултипроцесни прозорци
+app-basics-fission-support = Физионски прозорци
+app-basics-remote-processes-count = Далечински процеси
+app-basics-enterprise-policies = Политики на претпријатија
+app-basics-location-service-key-google = Клуч за услугата за локација на Google
+app-basics-safebrowsing-key-google = Клуч за безбедно прелистување на Google
+app-basics-key-mozilla = Клуч за услугата за локација на Mozilla
+app-basics-safe-mode = Безбеден режим
+app-basics-memory-size = Големина на меморијата (RAM)
+app-basics-disk-available = Достапен простор на дискот
+app-basics-pointing-devices = Уреди за покажување
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value }{ $unit }
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Покажи во Finder
+        [windows] Отвори папка
+       *[other] Отвори директориум
+    }
+environment-variables-title = Променливи на околината
+environment-variables-name = Име
+environment-variables-value = Вредност
+experimental-features-title = Експериментални особености
+experimental-features-name = Име
+experimental-features-value = Вредност
 modified-key-prefs-title = Важни променети параметри
 modified-prefs-name = Име
 modified-prefs-value = Вредност
 user-js-title = Поставки за user.js
 user-js-description = Вашата папка за профил содржи <a data-l10n-name="user-js-link">user.js датотека</a>, која што вклучува поставки што не биле создадени од { -brand-short-name }.
+locked-key-prefs-title = Важни заклучени поставки
 locked-prefs-name = Име
 locked-prefs-value = Вредност
 graphics-title = Графика
@@ -119,11 +147,32 @@ media-device-channels = Канали
 media-device-rate = Стапка
 media-device-latency = Доцнење
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Информации за модулите за декрипција на содржината
+media-key-system-name = Име на системот за клучеви
+media-video-robustness = Робустност на видеото
+media-audio-robustness = Робусност на звук
+media-cdm-capabilities = Способности
+
 ##
 
 intl-app-title = Поставки за апликацијата
 intl-os-title = Оперативен систем
 intl-regional-prefs = Регионални преференци
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-url = URL
 
 ##
 
