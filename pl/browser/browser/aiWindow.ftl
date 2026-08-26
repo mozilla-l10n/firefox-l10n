@@ -99,7 +99,7 @@ aiwindow-website-chip-remove-button =
 aiwindow-firstrun-title = Witamy w { -smart-window-brand-name(capitalization: "lower-singular", case: "loc") }
 aiwindow-firstrun-model-title = Jakie masz potrzeby?
 aiwindow-firstrun-model-title-v2 = Wybierz model, aby zacząć
-aiwindow-firstrun-model-subtitle = Wybierz model napędzający { -smart-window-brand-name(capitalization: "lower-singular", case: "nom") }. W każdej chwili możesz go zmienić.
+aiwindow-firstrun-model-subtitle = Wybierz model napędzający { -smart-window-brand-name(capitalization: "lower-singular", case: "acc") }. W każdej chwili możesz go zmienić.
 aiwindow-firstrun-model-subtitle-v2 = Każdy model pomoże Ci streszczać, porównywać i przeglądać karty. W każdej chwili możesz go zmienić.
 aiwindow-firstrun-model-fast-label = Szybki
 aiwindow-firstrun-model-fast-body = Szybkie odpowiedzi
@@ -204,6 +204,7 @@ aiwindow-history-menu-chat-history = Historia rozmów
 aiwindow-history-menu-back =
     .aria-label = Wstecz
     .tooltiptext = Wstecz
+aiwindow-history-menu-view-all-chats = Wszystkie rozmowy
 aiwindow-history-menu-settings = Ustawienia { -smart-window-brand-name(capitalization: "lower-singular", case: "gen") }
 
 ## Fullpage top actions
@@ -211,12 +212,22 @@ aiwindow-history-menu-settings = Ustawienia { -smart-window-brand-name(capitaliz
 
 aiwindow-fullpage-new-chat =
     .label = Nowa rozmowa
+aiwindow-fullpage-chat-history =
+    .label = Historia rozmów
 # "More" is the label for a button that opens a menu of additional Smart Window
 # options (currently Smart Window settings) — i.e. "more actions/options", not
 # more content or more chat history.
 aiwindow-fullpage-more =
     .label = Więcej
     .title = Więcej
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Zsynchronizowane dane pozostaną na koncie. Otwarte { -smart-window-brand-name(capitalization: "lower-plural", case: "nom") } zostaną przełączone na klasyczne okna.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Przełącz na { -smart-window-brand-name(capitalization: "lower-singular", case: "acc") }
 
 ## Fullpage Footer Actions
 
@@ -240,6 +251,11 @@ smartwindow-disclaimer = Sztuczna inteligencja może popełniać błędy.
 firefoxview-chats-nav = Rozmowy
     .title = Rozmowy
 firefoxview-chats-header = Rozmowy
+firefoxview-chat-context-delete = Usuń z rozmów
+    .accesskey = U
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Szukaj w rozmowach
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -248,6 +264,11 @@ firefoxview-chat-date-today = Dzisiaj – { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Wczoraj – { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Wróć do swoich rozmów
+firefoxview-chats-empty-description = Twoje rozmowy w { -smart-window-brand-name(capitalization: "lower-singular", case: "loc") } będą zachowywane w tym miejscu.
 
 ## Count displayed in fxview chat search results
 
@@ -258,8 +279,24 @@ firefoxview-search-chat-results-count =
        *[many] { $count } rozmów
     }
 
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Historia przeglądania, pobierania i rozmów
+    .accesskey = H
+item-history-downloads-and-chat-description = Usuwa historię przeglądania, pobierania i rozmów
+
 ## Natural Language Interactions
 
+smart-window-confirm-select-all =
+    .aria-label = Zaznacz wszystko
+    .label = Zaznacz wszystko
+smart-window-confirm-deselect-all =
+    .aria-label = Odznacz wszystko
+    .label = Odznacz wszystko
+smart-window-close-confirm =
+    .aria-label = Anuluj żądanie i zamknij
+    .tooltiptext = Anuluj żądanie i zamknij
 smart-window-confirm-close-tab = Zamknij
 # Variables
 #   $count (number) - Number of tabs to close
@@ -270,8 +307,16 @@ smart-window-confirm-close-tabs =
        *[many] Zamknij { $count } kart
     }
 
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Zamknięto kartę
+smartwindow-close-tab-callout-subtitle = W każdej chwili można przywrócić karty z historii.
+
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = Czy ustawić { -smart-window-brand-name(capitalization: "lower-singular", case: "acc") } jako domyślne?
 smart-window-default-promo-additional-button = Nie teraz
 
 ## Feedback modal
