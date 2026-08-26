@@ -37,6 +37,6 @@ network-menu-summary-tooltip-transferred =
 # transfer time.
 # Variables:
 #   $formattedTime (String): The formatted transfer time.
-network-menu-summary-finish = { $formattedTime }
+network-menu-summary-finish = Ukończono: { $formattedTime }
 network-menu-summary-tooltip-finish =
     .title = Całkowity czas potrzebny do ukończenia wszystkich żądań

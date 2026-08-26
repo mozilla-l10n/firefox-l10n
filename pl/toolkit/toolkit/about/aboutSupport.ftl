@@ -139,7 +139,7 @@ place-database-integrity = Integralność
 place-database-verify-integrity = Sprawdź integralność
 place-database-last-idle-maintenance-data = Data ostatniej konserwacji w czasie bezczynności
 # Vacuum refers to a type of database maintenance process
-place-database-last-vacuum-date = Data ostatniego odkurzania
+place-database-last-vacuum-date = Data ostatniego oczyszczania bazy
 place-database-last-integrity-corruption-date = Data ostatniego uszkodzenia integralności
 a11y-title = Ułatwienia dostępu
 a11y-activated = Aktywne

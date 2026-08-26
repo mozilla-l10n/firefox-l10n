@@ -6,7 +6,7 @@ fxa-toolbar-sync-syncing2 = Synchronizowanie…
 sync-disconnect-dialog-title2 = Czy rozłączyć?
 sync-disconnect-dialog-body = { -brand-product-name } zatrzyma synchronizację z tym kontem, ale nie usunie danych przeglądania na tym urządzeniu.
 sync-disconnect-dialog-button = Rozłącz
-fxa-signout-dialog2-title = Czy wylogować z { -fxaccount-brand-name(case: "gen", capitalization: "lower") }?
+fxa-signout-dialog2-title = Czy wylogować z { -fxaccount-brand-name(capitalization: "lower", case: "gen") }?
 fxa-signout-dialog-title2 = Czy wylogować z konta?
 fxa-signout-dialog-body = Zsynchronizowane dane pozostaną na koncie.
 fxa-signout-dialog2-button = Wyloguj się
@@ -59,7 +59,7 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Błyskawicznie prześlij kartę na dowolne urządzenie, na którym się zalogujesz.
 fxa-menu-sign-out =
     .label = Wyloguj się…
-fxa-menu-sync-description = Korzystaj ze swojej sieci gdziekolwiek jesteś
+fxa-menu-sync-description = Korzystaj ze swojej sieci, gdziekolwiek jesteś
 # Subtitle shown under the account email on the signed-in account button in the
 # account menu, indicating that activating it opens account management.
 fxa-menu-manage-account-subtitle = Zarządzaj kontem

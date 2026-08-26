@@ -8,4 +8,5 @@
 ### be displayed inline, but the user can still open or download it according to
 ### their PDF handling settings.
 
+pdfjs-embed-fallback-message = Iste file PDF non pote esser monstrate ci.
 pdfjs-embed-fallback-open-button = Aperir file pdf

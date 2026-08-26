@@ -60,7 +60,7 @@ whypaused-get-watchpoint = Wstrzymane na dostępie do własności
 whypaused-set-watchpoint = Wstrzymane na ustawieniu własności
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
-whypaused-assert = Wstrzymane na warunku
+whypaused-assert = Wstrzymane na asercji
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = Wstrzymane na debugowanej funkcji
