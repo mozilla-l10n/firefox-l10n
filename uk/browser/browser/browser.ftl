@@ -572,7 +572,7 @@ identity-permissions-storage-access-hint = Ці сторони можуть ви
 identity-permissions-storage-access-learn-more = Докладніше
 identity-permissions-reload-hint = Для застосування змін, можливо, доведеться перезавантажити сторінку.
 identity-clear-site-data =
-    .label = Стерти файли cookie та дані сайтів…
+    .label = Стерти файли cookie та дані сайту…
 identity-connection-not-secure-security-view = Ваше з'єднання з цим сайтом не захищене.
 identity-connection-verified = Ваше з'єднання з цим сайтом захищене.
 identity-ev-owner-label = Сертифікат виданий:
@@ -1610,7 +1610,7 @@ trustpanel-header-enabled-insecure = Будьте обережні на цьом
 trustpanel-description-enabled-insecure = { -brand-product-name } помітив щось підозріле.
 trustpanel-header-disabled = Ви вимкнули захист
 trustpanel-description-disabled = { -brand-product-name } не працює. Ми пропонуємо знову ввімкнути захист.
-trustpanel-clear-cookies-button = Стерти файли cookie та дані сайтів
+trustpanel-clear-cookies-button = Стерти файли cookie та дані сайту
 trustpanel-privacy-link = Налаштування приватності
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
