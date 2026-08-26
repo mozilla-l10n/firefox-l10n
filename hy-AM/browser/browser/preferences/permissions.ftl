@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Բացառումներ
     .style = min-width: 45em
+    .title = Բացառումներ
 permissions-close-key =
     .key = w
 permissions-address = Կայքի հասցեն
@@ -80,68 +80,69 @@ permissions-invalid-uri-label = Նշեք հանգույցի վավեր անու�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Բացառություններ հբարելավված հետագծման պաշտպանության համար
     .style = { permissions-window2.style }
+    .title = Բացառություններ հբարելավված հետագծման պաշտպանության համար
+permissions-exceptions-manage-etp-desc = Կարող եք նշել, թե որ կայքերն ունենան անջատված «Ընդլայնված հետագծման պաշտպանություն»։ Մուտքագրեք այն կայքի ճշգրիտ հասցեն, որը ցանկանում եք կառավարել, ապա սեղմեք «Ավելացնել բացառություն»։
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Բացառություններ՝ թխուկներ և կայքի տվյալներ
     .style = { permissions-window2.style }
+    .title = Բացառություններ՝ թխուկներ և կայքի տվյալներ
 permissions-exceptions-cookie-desc = Կարող եք հատկորոշել, թե որ կայքերին է թույլատրվում միշտ կամ երբեք օգտագործել թխուկներ և կայքի տվյալները:  Մուտքագրեք կայքի կոնկրետ հասցե, որը ցանկանում եք կառավարել և սեղմեք Արգելափակել, Թույլատրել աշխատաշրջանի համար կամ Թույլատրել:
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Բացառություններ - Միայն HTTPS կերպ
     .style = { permissions-window2.style }
+    .title = Բացառություններ - Միայն HTTPS կերպ
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
-    .title = Թույլատրված կայքեր - թռուցիկներ և երրորդ կողմի վերահասցեավորումներ
     .style = { permissions-window2.style }
+    .title = Թույլատրված կայքեր - թռուցիկներ և երրորդ կողմի վերահասցեավորումներ
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
-    .title = Թույլատրված կայքեր՝ ելնող պատուհաններ
     .style = { permissions-window2.style }
+    .title = Թույլատրված կայքեր՝ ելնող պատուհաններ
 permissions-exceptions-popup-desc = Դուք կարող էք նշել, թե որ կայքերն են իրավասու բացել Pop-up պատուհաններ: Նշեք կայքի հստակ հասցեն, այնուհետև սեղմեք Թույլատրել:
 
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window2 =
-    .title = Բացառություններ. պահված մուտքագրումներ
     .style = { permissions-window2.style }
+    .title = Բացառություններ. պահված մուտքագրումներ
 permissions-exceptions-saved-logins-desc = Հետևյալ կայքերի մուտքագրումները չեն պահպանվի
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Բացառություններ. պահված գաղտնաբառեր
     .style = { permissions-window2.style }
+    .title = Բացառություններ. պահված գաղտնաբառեր
 permissions-exceptions-saved-passwords-desc = { -brand-short-name }-ը չի պահի այստեղ թվարկված կայքերի գաղտնաբառերը:
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Թույլատրված կայքեր. ընդլայնումների տեղադրում
     .style = { permissions-window2.style }
+    .title = Թույլատրված կայքեր. ընդլայնումների տեղադրում
 permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վեբ կայքերը, որոնց թուլյատրվում է ավելացնել հավելումներ: Մուտքագրեք յուրաքանչյուր կայքի ճիշտ հասցեն և սեղմեք «Թույլատրել»:
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Կարգավորումներ - Ինքնանվագարկում
     .style = { permissions-window2.style }
+    .title = Կարգավորումներ - Ինքնանվագարկում
 permissions-site-autoplay-desc = Կարող եք կառավարել էջերը, որոնք չեն հետևում Ձեր ինքնանվագարկման սկզբնադիր կարգավորումներին։
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Կարգավորումներ. ծանուցումների թույլտվություններ
     .style = { permissions-window2.style }
+    .title = Կարգավորումներ. ծանուցումների թույլտվություններ
 permissions-site-notification-desc = Հետևյալ կայքերը պահանջել են Ձեզ ծանոցումներ ուղարկել: Դուք կարող եք որոշել, թե որ կայքերը կարող են Ձեզ ծանոցումներ ուղարկել: Նաև կարող եք արգելափակել ծանոցումները թույլատրելու ուենալու նոր պահանջերը:
 permissions-site-notification-disable-label =
     .label = Արգելափակել ծանոցումները թույլատրելու նոր պահանջները
@@ -150,8 +151,8 @@ permissions-site-notification-disable-desc = Սա կկանխի ցանկում չ
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Կարգավորումներ. տեղադրության թույլտվություններ
     .style = { permissions-window2.style }
+    .title = Կարգավորումներ. տեղադրության թույլտվություններ
 permissions-site-location-desc = Հետևյալ կայքերը պահանջել են հասանելիություն Ձեր տեղադրությանը: Դուք կարող եք որոշել, թե որ կայքերը կարող են մատչել Ձեր տեղադրությանը: Նաև կարող եք արգելափակել Ձեր տեղադրությանը հասանելիություն ուենալու նոր պահանջերը:
 permissions-site-location-disable-label =
     .label = Արգելափակել Ձեր տեղադրությանը հասանելիություն ունենալու նոր պահանջները
@@ -160,8 +161,8 @@ permissions-site-location-disable-desc = Սա կկանխի ցանկում չնշ
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Կարգավորումներ - թվացյալ իրականության թույլտվություններ
     .style = { permissions-window2.style }
+    .title = Կարգավորումներ - թվացյալ իրականության թույլտվություններ
 permissions-site-xr-desc = Հետևյալ կայքերը պահանջել են հասանելիություն Ձեր վիրտուալ իրականության սարքերին: Դուք կարող եք որոշել, թե որ կայքերը կարող են մատչել Ձեր վիրտուալ իրականության սարքերին: Նաև կարող եք արգելափակել Ձեր վիրտուալ իրականության սարքերին հասանելիություն ուենալու նոր պահանջերը:
 permissions-site-xr-disable-label =
     .label = Արգելափակել Ձեր վիրտուալ իրականության սարքերին հասանելիություն ունենալու նոր պահանջները
@@ -170,8 +171,8 @@ permissions-site-xr-disable-desc = Սա կկանխի ցանկում չնշված
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Կարգավորումներ. տեսախցիկի թույլտվություններ
     .style = { permissions-window2.style }
+    .title = Կարգավորումներ. տեսախցիկի թույլտվություններ
 permissions-site-camera-desc = Հետևյալ կայքերը պահանջել են հասանելիություն Ձեր տեսախցիկին: Դուք կարող եք որոշել, թե որ կայքերը կարող են մատչել Ձեր տեսախցիկին: Նաև կարող եք արգելափակել Ձեր տեսախցիկին հասանելիություն ուենալու նոր պահանջերը:
 permissions-site-camera-disable-label =
     .label = Արգելափակել Ձեր տեսախցիկին հասանելիություն ունենալու նոր պահանջները
@@ -180,20 +181,20 @@ permissions-site-camera-disable-desc = Սա կկանխի ցանկում չնշվ
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Կարգավորումներ․ սարքի հավելվածներ և ծառայություններ
     .style = { permissions-window2.style }
+    .title = Կարգավորումներ․ սարքի հավելվածներ և ծառայություններ
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Կարգավորումներ․ տեղական ցանցային սարքեր
     .style = { permissions-window2.style }
+    .title = Կարգավորումներ․ տեղական ցանցային սարքեր
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Կարգավորումներ. խոսափողի թույլտվություններ
     .style = { permissions-window2.style }
+    .title = Կարգավորումներ. խոսափողի թույլտվություններ
 permissions-site-microphone-desc = Հետևյալ կայքերը պահանջել են հասանելիություն Ձեր խոսափողին: Դուք կարող եք որոշել, թե որ կայքերը կարող են մատչել Ձեր խոսափողին: Նաև կարող եք արգելափակել Ձեր խոսափողին հասանելիություն ուենալու նոր պահանջերը:
 permissions-site-microphone-disable-label =
     .label = Արգելափակել Ձեր խոսափողին հասանելիություն ունենալու նոր պահանջները
@@ -204,12 +205,12 @@ permissions-site-microphone-disable-desc = Սա կկանխի ցանկում չն
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Կարգավորումներ. բարձրախոսի թույլտվություններ
     .style = { permissions-window2.style }
+    .title = Կարգավորումներ. բարձրախոսի թույլտվություններ
 permissions-site-speaker-desc = Հետևյալ կայքերը պահանջել են ընտրել ձայնանյութի արտածման սարքը: Դուք կարող եք որոշել, թե որ կայքերին են թույլատրվում ընտրել ձայնանյութի արտածման սարքը:
 permissions-exceptions-doh-window =
-    .title = Կայքի բացառություններ «DNS-ը HTTPS-ի միջով»-ի համար
     .style = { permissions-window2.style }
+    .title = Կայքի բացառություններ «DNS-ը HTTPS-ի միջով»-ի համար
 permissions-exceptions-manage-doh-desc = { -brand-short-name }-ը չի օգտագործում անվտանգ DNS այս կայքերում և դրա ենթատիրույթներում:
 permissions-doh-entry-field = Մուտքագրեք վեբ-կայքի տիրույթի անունը
     .accesskey = տ
