@@ -35,8 +35,8 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</st
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> nie jest obsługiwane na pseudoelementach ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> nie jest obsługiwane na pseudoelementach ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ jego własność „display” ma wartość <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = Wartość <strong>display</strong> została zmieniona przez silnik na <strong>block</strong>, ponieważ element to <strong>floated</strong>.
-inactive-css-not-display-block-on-floated-2 = Wartość <strong>display</strong> została zmieniona przez silnik na <strong>{ $display }</strong>, ponieważ element to <strong>floated</strong>.
+inactive-css-not-display-block-on-floated = Wartość <strong>display</strong> została zmieniona przez silnik na <strong>block</strong>, ponieważ element jest typu <strong>floated</strong>.
+inactive-css-not-display-block-on-floated-2 = Wartość <strong>display</strong> została zmieniona przez silnik na <strong>{ $display }</strong>, ponieważ element jest typu <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> nie ma na nic wpływu, ponieważ nie może być używane na elementach Grid lub Flex.
 inactive-css-not-block = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ ma zastosowanie tylko na elementach na poziomie bloku.
 inactive-css-not-block-container = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ ma zastosowanie tylko na elementach kontenera bloku.
@@ -56,16 +56,6 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie można go stosować do wewnętrznych elementów tabeli, w których <strong>border-collapse</strong> jest ustawione na <strong>collapse</strong> w nadrzędnym elemencie tabeli.
 inactive-css-resize = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ można go stosować tylko do elementów z wartością „overflow” inną niż „visible”, a także do niektórych zastąpionych elementów, takich jak obszary tekstowe.
 inactive-css-ruby-element = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ jest to element rubi. Jego rozmiar zależy od rozmiaru czcionki tekstu rubi.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nie jest obsługiwane na pseudoelementach wyróżniania.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nie jest obsługiwane na pseudoelementach ::cue.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> nie jest obsługiwane w regułach <strong>@position-try</strong>.

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Zachowaj prywatność dzięki { -mozilla-
 about-private-browsing-focus-promo-cta = Pobierz { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: prywatne przeglądanie także w drodze
 about-private-browsing-focus-promo-text = Nasza wyspecjalizowana w prywatności przeglądarka na telefon czyści historię i ciasteczka za każdym razem.
-
-##
-
 about-private-browsing-focus-promo-header-b = Przeglądaj prywatnie na telefonie
 about-private-browsing-focus-promo-text-b = Używaj { -focus-brand-name } do tych prywatnych wyszukiwań, których główna przeglądarka na telefonie ma nie widzieć.
 about-private-browsing-focus-promo-header-c = Prywatność wyższego poziomu na telefonie
@@ -83,7 +80,7 @@ about-private-browsing-cookie-banners-promo-body = Teraz automatycznie odrzucamy
 
 about-private-browsing-felt-privacy-v1-info-header = Nie zostawiaj śladów na tym urządzeniu
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } usuwa Twoje ciasteczka, historię i dane witryn po zamknięciu wszystkich prywatnych okien.
-about-private-browsing-felt-privacy-v1-info-link = Kto może zobaczyć co robię?
+about-private-browsing-felt-privacy-v1-info-link = Kto może zobaczyć, co robię?
 
 ## Strings for the Nova redesign of about:privatebrowsing
 

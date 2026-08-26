@@ -19,4 +19,4 @@ crashed-comment =
 crashed-include-URL-2 = Dołącz do zgłoszenia adresy otwartych stron, gdy { -brand-short-name } uległ awarii
 crashed-report-sent = Zgłoszenie awarii zostało już wysłane. Dziękujemy za pomoc w ulepszaniu { -brand-short-name(case: "gen") }!
 crashed-request-auto-submit-title = Zgłaszanie pozostałych kart
-crashed-auto-submit-checkbox-2 = Automatyczne przesyłanie zgłoszeń awarii przeglądarki { -brand-short-name }
+crashed-auto-submit-checkbox-2 = Od teraz automatycznie wysyłaj zgłoszenia awarii { -brand-short-name(case: "gen") }
