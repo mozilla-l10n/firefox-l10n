@@ -6,8 +6,8 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
     { $count ->
-        [one] Անցած շաբաթվա ընթացքում { -brand-short-name }-- արգելափակված { $count }-ի հետևում
-       *[other] Անցած շաբաթվա ընթացքում { -brand-short-name }--արգելափակված { $count }-ի հետևումներ
+        [one] { -brand-short-name }-ն արգելափակել է { $count } հետագծիչ վերջին շաբաթվա ընթացքում
+       *[other] { -brand-short-name }-ն արգելափակել է { $count } հետագծիչ վերջին շաբաթվա ընթացքում
     }
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
@@ -169,40 +169,40 @@ monitor-resolve-breaches-link = Ուղղել խախտումները
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Սոց մեդիայի հետագծիչներ
     .aria-label =
         { $count ->
             [one] { $count } սոց մեդիայի հետագծիչ ({ $percentage }%)
            *[other] { $count } սոց մեդիայի հետագծիչ ({ $percentage }%)
         }
+    .title = Սոց մեդիայի հետագծիչներ
 bar-tooltip-cookie =
-    .title = Միջակայքի հետագծող թխուկներ
     .aria-label =
         { $count ->
             [one] { $count } միջակայքի հետագծման թխուկներ ({ $percentage }%)
            *[other] { $count } միջակայքի հետագծման թխուկներ ({ $percentage }%)
         }
+    .title = Միջակայքի հետագծող թխուկներ
 bar-tooltip-tracker =
-    .title = Հետևող բովանդակություն
     .aria-label =
         { $count ->
             [one] { $count }հետևող բովանդակություն ({ $percentage }%)
            *[other] { $count }հետևող բովանդակություն ({ $percentage }%)
         }
+    .title = Հետևող բովանդակություն
 bar-tooltip-fingerprinter =
-    .title = Մատնահետքեր
     .aria-label =
         { $count ->
             [one] { $count }Մատնահետք ({ $percentage }%)
            *[other] { $count }Մատնահետքեր ({ $percentage }%)
         }
+    .title = Մատնահետքեր
 bar-tooltip-cryptominer =
-    .title = Ծպտյալ արժույթներ
     .aria-label =
         { $count ->
             [one] { $count } ծպտյալ արժույթներ ({ $percentage }%)
            *[other] { $count } ծպտյալ արժույթներ ({ $percentage }%)
         }
+    .title = Ծպտյալ արժույթներ
 
 ## VPN promo card and banner
 

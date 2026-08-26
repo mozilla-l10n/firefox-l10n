@@ -1150,6 +1150,8 @@ account-group-label2 =
     .label = Հաշիվ
 account-sync-section =
     .heading = Հաշիվ և համաժամեցում
+pane-account-sync-title2 = Հաշիվ և համաժամեցում
+    .title = Հաշիվ և համաժամեցում
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1258,6 +1260,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Դուք համաժամեցնում եք այս միույթները կապակցված ձեր բոլոր սարքերի միջև.
 sync-syncing-across-devices-heading-2 = Տվյալները համաժամեցված են տարբեր սարքերի միջև
+sync-syncing-across-devices-empty-state2 =
+    .description = Դուք դեռ ոչինչ չեք համաժամեցնում… Սկսեք համաժամեցումը՝ ձեր բոլոր տվյալները բոլոր սարքերում ստանալու համար։
+    .label = Կառավարել համաժամեցված տվյալները
 sync-currently-syncing-bookmarks = Էջանիշեր
 sync-currently-syncing-history = Պատմություն
 sync-currently-syncing-tabs = Բաց ներդիրներ
@@ -1271,6 +1276,9 @@ sync-currently-syncing-settings = Կարգավորումներ
 sync-manage-options =
     .label = Կառավարել համաժամացումը…
     .accesskey = M
+sync-manage-options-2 =
+    .label = Կառավարել համաժամեցված տվյալները
+    .accesskey = Դ
 settings-sync-disconnect-button =
     .label = Կապախզել
 sync-change-options =
@@ -2282,7 +2290,17 @@ preferences-ai-controls-header3 =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name }-ը պաշտպանված է
+security-privacy-status-ok-label = Բարելավված հետագծման պաշտպանությունը միացված է
 security-privacy-status-problem-helper-label = Դիտել խնդիրները
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } հետագծիչ արգելափակվել է վերջին ամսվա ընթացքում
+       *[other] Վերջին մեկ ամսվա ընթացքում արգելափակվել է { $trackerCount } հետագծիչ
+    }
 security-privacy-issue-card =
     .heading = Անվտանգության նախազգուշացումներ
 issue-card-reset-button =
@@ -2293,8 +2311,16 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .description = Կայքերը օգտագործում են հետագծիչներ՝ ձեզ առցանց հետևելու և սարսափելի գովազդներ ցուցադրելու համար: { -brand-short-name }-ը պաշտպանում է ձեզ դիտարկելիս՝ ինքնաշխատ արգելափակելով հետագծիչները, որպեսզի դուք վերահսկեք ձեր թվային հետքը:
+    .label = Բարելավված հետագծման պաշտպանություն
 preferences-etp-status-advanced-button =
     .label = Ընդլայնված կարգավորումներ
+preferences-etp-header =
+    .heading = Բարելավված հետագծման պաշտպանությունը միացված է
+preferences-etp-manage-exceptions-button =
+    .description = Կառավարեք այն կայքերը, որտեղ անջատված է «Բարելավված հետագծման պաշտպանությունը»։
+    .label = Կառավարել բացառությունները
 preferences-etp-custom-cookies-enabled =
     .label = Թխուկներ
 preferences-etp-custom-cookie-behavior =
