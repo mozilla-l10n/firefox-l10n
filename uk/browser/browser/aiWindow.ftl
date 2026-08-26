@@ -60,8 +60,8 @@ aiwindow-input-cta-menu-label-search = Пошук з { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Пошук з…
 aiwindow-input-cta-search-submenu-header = Пошук
 aiwindow-input-cta-stop-button =
-    .title = Зупинити відповідь
     .aria-label = Зупинити генерування відповіді
+    .title = Зупинити відповідь
 
 ## Smartbar
 
@@ -95,6 +95,7 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Вітаємо в { -smart-window-brand-name(case: "loc", form: "lower-singular") }
 aiwindow-firstrun-model-title = Що для вас важливо?
+aiwindow-firstrun-model-title-v2 = Виберіть модель, щоб почати
 aiwindow-firstrun-model-subtitle = Виберіть модель для { -smart-window-brand-name(case: "gen", form: "lower-singular") }. Можна змінити будь-коли.
 aiwindow-firstrun-model-fast-label = Швидка
 aiwindow-firstrun-model-fast-body = Швидко відповідає
@@ -104,8 +105,14 @@ aiwindow-firstrun-model-fast-body = Швидко відповідає
 aiwindow-firstrun-model-chip-subtitle = Модель { $model } від { $ownerName }
 aiwindow-firstrun-model-allpurpose-label = Гнучка
 aiwindow-firstrun-model-allpurpose-body = Оптимальна для більшості потреб
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Гнучка: { $shortName }
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Рекомендовано
 aiwindow-firstrun-model-personal-label = Особиста
 aiwindow-firstrun-model-personal-body = Найбільш персоналізовані відповіді
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Особиста: { $shortName }
 aiwindow-firstrun-button = Вперед
 aiwindow-firstrun-back-button = Назад
 aiwindow-firstrun-next-button = Далі
@@ -175,6 +182,34 @@ aiwindow-close-sidebar =
     .aria-label = Закрити
     .tooltiptext = Закрити
 
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Інші налаштування
+    .tooltiptext = Інші налаштування
+aiwindow-history-menu-chat-history = Історія чату
+aiwindow-history-menu-back =
+    .aria-label = Назад
+    .tooltiptext = Назад
+aiwindow-history-menu-view-all-chats = Переглянути всі чати
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Новий чат
+aiwindow-fullpage-chat-history =
+    .label = Історія чату
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Більше
+    .title = Більше
+
 ## Sign out dialog
 
 fxa-signout-dialog-body-aiwindow = Синхронізовані дані залишаться у вашому обліковому записі. Відкриття { -smart-window-brand-name(case: "gen", form: "lower-plural") } перемикатиметься на класичні вікна.
@@ -186,12 +221,12 @@ smartwindow-switch-to-smart-window = Перемкнути на { -smart-window-b
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Чати
     .aria-label = Чати
+    .label = Чати
     .tooltiptext = Чати
 smartwindow-footer-history =
-    .label = Історія
     .aria-label = Історія
+    .label = Історія
     .tooltiptext = Історія
 
 ## Disclaimer
@@ -226,10 +261,6 @@ firefoxview-chats-empty-description = Під час використання { -
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } чат
@@ -247,11 +278,11 @@ item-history-downloads-and-chat-description = Очищення історії с
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Вибрати все
     .aria-label = Вибрати все
+    .label = Вибрати все
 smart-window-confirm-deselect-all =
-    .label = Зняти вибір усіх
     .aria-label = Зняти вибір усіх
+    .label = Зняти вибір усіх
 smart-window-close-confirm =
     .aria-label = Скасувати запит і закрити
     .tooltiptext = Скасувати запит і закрити
@@ -308,3 +339,13 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = Перемикання режимів: сітка
     .tooltiptext = Сітка
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-proofread = Перевір повідомлення
+aiwindow-starter-planning-brainstorm = Запропонуй ідеї
+aiwindow-starter-planning-plan = Допоможи скласти план

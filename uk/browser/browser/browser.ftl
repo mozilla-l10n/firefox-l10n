@@ -407,9 +407,9 @@ quickactions-cmd-addons2 = додатки
 quickactions-bookmarks2 = Керувати закладками
 quickactions-cmd-bookmarks = закладки
 # Opens a SUMO article explaining how to clear history
-quickactions-clearrecenthistory = Очистити недавню історію
-quickactions-cmd-clearrecenthistory2 = файли cookie, очистити файли cookie, кеш, очистити кеш, дані перегляду, очистити дані перегляду, історія, очистити недавню історію
-quickactions-cmd-clearrecenthistory = очистити недавню історію, історія
+quickactions-clearrecenthistory = Стерти недавню історію
+quickactions-cmd-clearrecenthistory2 = cookie, файли cookie, стерти cookie, стерти файли cookie, кеш, стерти кеш, дані перегляду, стерти дані перегляду, стерти дані, історія, стерти недавню історію
+quickactions-cmd-clearrecenthistory = стерти недавню історію, історія
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Стерти історію
 quickactions-cmd-clearhistory = стерти історію
@@ -1256,7 +1256,7 @@ toolbar-button-logins =
     .label = Паролі
     .tooltiptext = Переглядайте і керуйте збереженими паролями
 qrcode-panel-error =
-    .message = Не вдалося згенерувати QR-код. Спробуйте ще раз.
+    .message = Не вдалося створити QR-код. Спробуйте ще раз.
 qrcode-copy-button =
     .label = Копіювати
 qrcode-copy-success =
@@ -1615,7 +1615,7 @@ trustpanel-privacy-link = Налаштування приватності
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
-    .title = Стерти файли cookie та дані сайту для { $host }
+    .title = Стерти файли cookie та дані для { $host }
 trustpanel-clear-cookies-description = Вилучення файлів cookie та даних може призвести до виходу на вебсайтах і очищення кошиків для покупок.
 trustpanel-clear-cookies-subview-button-clear = Стерти
 trustpanel-clear-cookies-subview-button-cancel = Скасувати
