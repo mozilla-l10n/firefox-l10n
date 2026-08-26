@@ -56,3 +56,25 @@ about-sync-log-badge-error = Błąd
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").
 about-sync-log-row-size = { $value } { $unit }
+about-sync-log-empty = Nie zarejestrowano żadnych dzienników synchronizacji.
+about-sync-log-empty-filtered = Żadne dzienniki nie pasują do bieżących filtrów.
+
+## Inline viewer
+
+about-sync-log-view-error = Nie można odczytać tego pliku dziennika.
+# Opens the raw log file in a new browser tab.
+about-sync-log-open-raw =
+    .label = Otwórz plik
+
+## Clear logs confirmation
+
+about-sync-log-clear-confirm-title = Czy wyczyścić dzienniki synchronizacji?
+# Variables:
+#   $count (Number) - Number of logs that will be deleted.
+about-sync-log-clear-confirm-message =
+    { $count ->
+        [one] Spowoduje to trwałe usunięcie { $count } widocznego pliku dziennika.
+        [few] Spowoduje to trwałe usunięcie { $count } widocznych plików dzienników.
+       *[many] Spowoduje to trwałe usunięcie { $count } widocznych plików dzienników.
+    }
+about-sync-log-clear-confirm-accept = Usuń
