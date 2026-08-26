@@ -154,11 +154,31 @@ aiwindow-firstrun-memories-relevance-body = Uczenie się z przeglądania Intern
 aiwindow-firstrun-memories-privacy-title = Domyślnie prywatne
 aiwindow-firstrun-memories-privacy-body = Zapamiętane treści są przechowywane na tym urządzeniu. Możesz je usunąć lub wyłączyć, kiedy chcesz.
 aiwindow-firstrun-memories-choose-label = Wybierz, z czego { -smart-window-brand-name(capitalization: "lower-singular", case: "nom") } ma się uczyć
+aiwindow-firstrun-memories-checkbox-chats = Rozmowy w { -smart-window-brand-name(capitalization: "lower-singular", case: "loc") }
+aiwindow-firstrun-memories-checkbox-browsing = Przeglądanie Internetu w { -brand-product-name(case: "loc") }
+aiwindow-firstrun-memories-update-settings = W każdej chwili można to zmienić w ustawieniach.
+aiwindow-firstrun-memories-no-create = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") } nie będzie tworzyć zapamiętanych treści. W każdej chwili można to zmienić w ustawieniach.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Korzystaj z { -smart-window-brand-name(capitalization: "lower-singular", case: "gen") } przez cały czas
+aiwindow-firstrun-default-subtitle = Przeglądaj, wyszukuj i pytaj w jednym miejscu. Nadal możesz otwierać prywatne i klasyczne okna, kiedy tylko chcesz.
+aiwindow-firstrun-default-checkbox-label = Zawsze otwieraj { -brand-product-name(case: "acc") } w { -smart-window-brand-name(capitalization: "lower-singular", case: "loc") }
+aiwindow-firstrun-default-checkbox-description = W każdej chwili można to zmienić w ustawieniach
 
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
     .label = Zapytaj
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Zapamiętane treści są włączone
+    .tooltiptext = W odpowiedziach korzystaj z zapamiętanych treści, gdy jest to pomocne
+aiwindow-memories-off =
+    .aria-label = Zapamiętane treści są wyłączone
+    .tooltiptext = Nie korzystaj z zapamiętanych treści w odpowiedziach
 
 ## New Chat Button
 
@@ -180,6 +200,7 @@ aiwindow-close-sidebar =
 aiwindow-history-menu =
     .aria-label = Więcej opcji
     .tooltiptext = Więcej opcji
+aiwindow-history-menu-chat-history = Historia rozmów
 aiwindow-history-menu-back =
     .aria-label = Wstecz
     .tooltiptext = Wstecz

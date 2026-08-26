@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Dodaj „{ $addon-name }”
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Postęp: { $current }. krok z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -232,11 +226,6 @@ mr2022-onboarding-set-default-subtitle = Używaj przeglądarki wspieranej przez 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Nasza najnowsza wersja jest tworzona z myślą o Tobie, dzięki czemu śmiganie po sieci jest łatwiejsze niż kiedykolwiek. Jest wypełniona funkcjami, które naszym zdaniem pokochasz.
 mr2022-onboarding-get-started-primary-button-label = Skonfiguruj w kilka sekund
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-header = Błyskawiczna konfiguracja
 mr2022-onboarding-import-subtitle = Skonfiguruj { -brand-short-name(case: "acc") } tak, jak lubisz. Dodaj zakładki, hasła i nie tylko ze starej przeglądarki.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importuj z poprzedniej przeglądarki
@@ -249,7 +238,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importuj z poprz
 mr2022-onboarding-colorway-title = Wybierz kolor, który Cię inspiruje
 mr2022-onboarding-colorway-subtitle = Niezależne głosy mogą zmieniać kulturę.
 mr2022-onboarding-colorway-primary-button-label-continue = Ustaw i kontynuuj
-mr2022-onboarding-existing-colorway-checkbox-label = Ustaw kolorową { -firefox-home-brand-name(case: "acc", capitalization: "lower") }
+mr2022-onboarding-existing-colorway-checkbox-label = Ustaw kolorową { -firefox-home-brand-name(capitalization: "lower", case: "acc") }
 mr2022-onboarding-colorway-label-default = Domyślna
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Obecne kolory { -brand-short-name(case: "gen") }
@@ -343,7 +332,7 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Lis na ekranie laptopa macha łapą. Laptop ma podłączoną mysz.
 onboarding-device-migration-title = Witamy z powrotem!
-onboarding-device-migration-subtitle = Zaloguj się na { -fxaccount-brand-name(case: "loc", capitalization: "lower") }, aby przenieść swoje zakładki, hasła i historię na nowe urządzenie.
+onboarding-device-migration-subtitle = Zaloguj się na { -fxaccount-brand-name(capitalization: "lower", case: "loc") }, aby przenieść swoje zakładki, hasła i historię na nowe urządzenie.
 onboarding-device-migration-subtitle2 = Zaloguj się na swoje konto, aby przenieść zakładki, hasła i historię na nowe urządzenie.
 onboarding-device-migration-primary-button-label = Zaloguj się
 
@@ -610,12 +599,13 @@ smartwindow-switcher-callout = W dowolnej chwili przełącz się między oknem 
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Warunki korzystania z { -brand-product-name(case: "gen") }
-smartwindow-existing-user-fx-tou-body = Aby używać { -smart-window-brand-name(case: "gen", capitalization: "lower-singular") }, zaakceptuj <a data-l10n-name="terms_of_use">warunki korzystania</a> i zaktualizowane <a data-l10n-name="privacy_notice">zasady ochrony prywatności</a>.
+smartwindow-existing-user-fx-tou-body = Aby używać { -smart-window-brand-name(capitalization: "lower-singular", case: "gen") }, zaakceptuj <a data-l10n-name="terms_of_use">warunki korzystania</a> i zaktualizowane <a data-l10n-name="privacy_notice">zasady ochrony prywatności</a>.
 smartwindow-existing-user-fx-tou-accept = Akceptuję
 smartwindow-existing-user-fx-tou-go-back = Wstecz
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Korzystaj z { -smart-window-brand-name(capitalization: "lower-singular", case: "gen") } przez cały czas
 smartwindow-onboarding-subtitle = Streszczaj, porównuj i zadawaj pytania, nie tracąc ani chwili.
 smartwindow-onboarding-primary-button = Kontynuuj
 # Kit is referring to the Firefox mascot
