@@ -18,6 +18,14 @@ support-addons-type = Тип
 support-addons-enabled = Овозможено
 support-addons-version = Верзија
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Локација
+legacy-user-stylesheets-title = Застарени кориснички стилски листови
+legacy-user-stylesheets-enabled = Активно
+legacy-user-stylesheets-stylesheet-types = Стилски листови
+legacy-user-stylesheets-no-stylesheets-found = Не се пронајдени стилски листови
 security-software-title = Безбедносен софтвер
 security-software-type = Тип
 security-software-name = Име
@@ -34,6 +42,20 @@ processes-count = Број
 app-basics-title = Основи за апликацијата
 app-basics-name = Име
 app-basics-version = Верзија
+app-basics-build-id = ID на градба
+app-basics-distribution-id = ID на дистрибуција
+app-basics-update-channel = Канал за надградба
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Ажурирај директориум
+       *[other] Ажурирај папка
+    }
+app-basics-update-history = Историја на ажурирања
+app-basics-show-update-history = Прикажи историја на ажурирања
+# Represents the path to the binary used to start the application.
+app-basics-binary = Бинарна датотека на апликацијата
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Директориум на профилот
@@ -43,9 +65,16 @@ app-basics-enabled-plugins = Овозможени приклучоци
 app-basics-build-config = Конфигурација на изданието
 app-basics-user-agent = Кориснички агент
 app-basics-os = ОС
+app-basics-os-theme = Тема на оперативниот систем
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Преведено со Rosetta
 app-basics-memory-use = Искористеност на меморија
 app-basics-performance = Перформанс
+app-basics-service-workers = Регистрирани Service Workers
+app-basics-third-party = Модули од трети страни
 app-basics-profiles = Профили
+app-basics-launcher-process-status = Процес на стартување
 modified-key-prefs-title = Важни променети параметри
 modified-prefs-name = Име
 modified-prefs-value = Вредност

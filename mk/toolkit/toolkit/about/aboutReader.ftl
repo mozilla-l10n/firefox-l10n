@@ -43,13 +43,24 @@ about-reader-toolbar-plus =
     .title = Зголеми ја големината на фонтот
 about-reader-toolbar-contentwidthminus =
     .title = Намали ја ширината на содржината
+about-reader-toolbar-contentwidthplus =
+    .title = Зголеми ја ширината на содржината
+about-reader-toolbar-lineheightminus =
+    .title = Намали висина на линијата
+about-reader-toolbar-lineheightplus =
+    .title = Зголеми ја висината на линијата
 
 ## These are the styles of typeface that are options in the reader view controls.
 
 about-reader-font-type-serif = Serif
+about-reader-font-type-sans-serif = Санс-сериф
+about-reader-font-type-monospace = Моноспејс
 
 ## Reader View toolbar buttons
 
+about-reader-toolbar-close = Затвори го приказот на читачот
+about-reader-toolbar-type-controls = Контроли на типографија
+about-reader-toolbar-text-layout-controls = Текст и распоред
 about-reader-toolbar-theme-controls = Тема
 about-reader-toolbar-savetopocket = Сними во { -pocket-brand-name }
 

@@ -806,6 +806,9 @@ newtab-carousel-next =
 # Button that pauses autoplay on the carousel.
 newtab-carousel-pause =
     .aria-label = Oedi awtochwarae
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Ailddechrau awtochwarae
 
 ## Pocket Content Section.
 
