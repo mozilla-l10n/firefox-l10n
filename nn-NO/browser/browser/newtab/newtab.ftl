@@ -765,6 +765,12 @@ newtab-carousel-previous =
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Neste
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Set automatisk avspeling på pause
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Ta opp att automatisk avspeling
 
 ## Pocket Content Section.
 

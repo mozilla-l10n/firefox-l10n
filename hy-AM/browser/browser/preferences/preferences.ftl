@@ -782,6 +782,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Որոնել տեքստը, երբ կսկսեք մուտքագրել
     .accesskey = ք
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Հարմարեցրեք ստեղնաշարի դյուրանցումները
 settings-media-group =
     .label = Մեդիա
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1459,6 +1461,7 @@ forms-primary-pw-use-2 =
     .accesskey = U
 forms-primary-pw-set =
     .label = Սահմանել հիմնական գաղտնաբառը
+forms-primary-pw-on-2 = Հիմնական գաղտնաբառը <strong>ՄԻԱՑՎԱԾ</strong> է
 forms-primary-pw-on =
     .label = Հիմնական գաղտնաբառը միացված է
 forms-primary-pw-change-2 =
@@ -1572,6 +1575,10 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Հասցեներ չեն ավելացվել
+pane-passwords-autofill-title2 = Գաղտնաբառեր և ինքնալրացում
+    .title = Գաղտնաբառեր և ինքնալրացում
+preferences-passwords-autofill-header =
+    .heading = Գաղտնաբառեր և ինքնալրացում
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1635,6 +1642,9 @@ history-clear-button =
     .accesskey = s
 history-header2 =
     .heading = Պատմություն
+history-custom-section-header =
+    .description = Անհատականացրեք այն, ինչ ուզում եք, որ { -brand-short-name }-ը հիշի, երբ փակում եք դիտարկիչը։
+    .label = Ընդլայնված կարգավորումներ
 history-group =
     .label = Պատմություն
 
@@ -1697,6 +1707,9 @@ sitedata-cookies-exceptions2 =
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
     .label = Կառավարել բացառությունները...
     .accesskey = x
+sitedata-heading =
+    .description = Կառավարեք ձեր թխուկները, պատմությունը, շտեմը, կայքի տվյալները և այլն։
+    .label = Դիտարկման տվյալներ
 sitedata-settings3 =
     .label = Մաքրել տվյալները որոշակի կայքերի համար
     .accesskey = s
@@ -2220,6 +2233,12 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .description = Օգտագործեք անվտանգ DNS  այն տարածաշրջաններում, որտեղ մատչելի է:
     .label = Սկզբնադիր պաշտպանություն
+preferences-doh-overview-custom =
+    .description = Միշտ օգտագործեք անվտանգ DNS՝ ձեր մատակարարի և պահեստային ռեժիմի վերահսկողությամբ։
+    .label = Հարմարեցված
+preferences-doh-radio-custom =
+    .description = Միշտ օգտագործեք անվտանգ DNS՝ ձեր մատակարարի և պահեստային ռեժիմի վերահսկողությամբ
+    .label = Հարմարեցված
 preferences-doh-custom-provider-label =
     .aria-label = Մուտքագրեք հատուկ մատակարարի URL-ը
 preferences-doh-header2 =
@@ -2244,6 +2263,10 @@ preferences-appearance-header =
     .heading = Տեսք
 related-settings-group =
     .label = Առնչվող կարգավորումներ
+related-settings-home-link =
+    .label = Հարմարեցնել { -firefox-home-brand-name }-ը
+related-settings-tabs-browsing-link =
+    .label = Հարմարեցնել դիտարկիչի դասավորությունը
 
 ## AI controls page
 
@@ -2301,6 +2324,7 @@ security-privacy-status-trackers-label =
         [one] { $trackerCount } հետագծիչ արգելափակվել է վերջին ամսվա ընթացքում
        *[other] Վերջին մեկ ամսվա ընթացքում արգելափակվել է { $trackerCount } հետագծիչ
     }
+security-privacy-status-up-to-date-label = Դուք ունեք { -brand-short-name }-ի ամենավերջին և ամենաապահով տարբերակը։
 security-privacy-issue-card =
     .heading = Անվտանգության նախազգուշացումներ
 issue-card-reset-button =
@@ -2314,13 +2338,26 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Կայքերը օգտագործում են հետագծիչներ՝ ձեզ առցանց հետևելու և սարսափելի գովազդներ ցուցադրելու համար: { -brand-short-name }-ը պաշտպանում է ձեզ դիտարկելիս՝ ինքնաշխատ արգելափակելով հետագծիչները, որպեսզի դուք վերահսկեք ձեր թվային հետքը:
     .label = Բարելավված հետագծման պաշտպանություն
+preferences-etp-level-custom =
+    .description = Ընտրեք, թե որ պաշտպանություններն եք միացնելու կամ անջատելու։
+    .label = Հարմարեցված
 preferences-etp-status-advanced-button =
     .label = Ընդլայնված կարգավորումներ
+preferences-etp-status-protections-dashboard-link =
+    .description = Տեսեք, թե { -brand-short-name }-ը քանի՞ գաղտնի հետագծիչ է արգելափակել ձեզ համար, այդ թվում՝ սոցիալական ցանցերի հհետագծիչներ, մատնահետքեր վերցնողներ և կրիպտոմայներներ։
+    .label = Դիտեք ձեր անհատականացված պաշտպանության վահանակը
 preferences-etp-header =
     .heading = Բարելավված հետագծման պաշտպանությունը միացված է
+preferences-etp-customize-button =
+    .label = Հարմարեցրեք հետագծման պաշտպանությունը
 preferences-etp-manage-exceptions-button =
     .description = Կառավարեք այն կայքերը, որտեղ անջատված է «Բարելավված հետագծման պաշտպանությունը»։
     .label = Կառավարել բացառությունները
+preferences-etp-customize-header =
+    .heading = Հարմարեցրեք հետագծման պաշտպանությունը
+preferences-etp-reset =
+    .description = Վերականգնել կարգավորումները նախապես սահմանված պաշտպանության մակարդակին։
+    .label = Վերակայկեք կարգավորումները
 preferences-etp-custom-cookies-enabled =
     .label = Թխուկներ
 preferences-etp-custom-cookie-behavior =

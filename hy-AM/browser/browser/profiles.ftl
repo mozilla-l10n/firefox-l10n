@@ -5,16 +5,16 @@
 profile-window-heading = Ընտրեք { -brand-short-name } պրոֆիլը
 profile-window-create-profile = Ստեղծել պրոֆիլ
 profile-card-edit-button =
-    .title = Խմբագրել պրոֆիլը
     .aria-label = Խմբագրել պրոֆիլը
+    .title = Խմբագրել պրոֆիլը
 profile-card-delete-button =
-    .title = Ջնջել պրոֆիլը
     .aria-label = Ջնջել պրոֆիլը
+    .title = Ջնջել պրոֆիլը
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Բացել { $profileName }-ը
     .aria-label = Բացել { $profileName }-ը
+    .title = Բացել { $profileName }-ը
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Պրոֆիլ { $number }
@@ -48,6 +48,7 @@ new-profile-page-header = Հարմարեցրեք ձեր նոր պրոֆիլը
 new-profile-page-learn-more = Իմանալ ավելին
 new-profile-page-done-button =
     .label = Խմբագրման ավարտ
+restored-profile-page-header = Անհատականացրեք ձեր վերականգնված պրոֆիլը
 restored-profile-page-learn-more = Իմանալ ավելին
 profile-window-title-2 = { -brand-short-name } - ընտրեք պրոֆիլ
 profile-window-logo =
@@ -130,6 +131,8 @@ profiles-green-theme-title =
 profiles-cyan-theme = Փիրուզագույն
 profiles-cyan-theme-title =
     .title = Կիրառել փիրուզագույն ոճը
+profiles-custom-theme-title =
+    .title = Կիրառել հատուկ ոճ
 
 ## Data collection settings changed (multi-profile)
 
@@ -168,6 +171,8 @@ shopping-avatar-alt =
     .alt = Գնումների զամբյուղ
 star-avatar-alt =
     .alt = Աստղ
+custom-avatar-alt =
+    .alt = Հատուկ ավատար
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Ադամանդ

@@ -85,6 +85,10 @@ options-sourceeditor-tabsize-label = Ներդիրի չափը
 options-sourceeditor-keybinding-label = Ստեղների զուգորդություններ
 options-sourceeditor-keybinding-default-label = Սկզբնադիր
 
+## Local Mode section
+
+options-local-mode-domain-label = Հարմարեցված դոմեյն՝
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
@@ -105,6 +109,8 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Դարձնել հնարին հեռակառավարվող կարգաբերումը
 options-enable-remote-tooltip2 =
     .title = Այս ընտրանքի միացումը թույլ կտա հեռակա վրիպազերծել դիտարկիչի այս օրինակը
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Միացնել հատուկ ձևաչափիչները
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Միացնել ծառայության աշխատողներին HTTP-ի միջոցով (երբ գործիքատուփը բաց է)
 options-enable-service-workers-http-tooltip =

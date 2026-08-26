@@ -49,6 +49,9 @@ more-from-moz-mdn-button = Սովորեք վեբ մշակում
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-solo-card-1 =
+    .description = Ստեղծեք ձեր կայքը անմիջապես և միացրեք ձեր սեփական դոմեյնը անվճար։
+    .label = { -solo-ai-brand-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = Ստանալ { -monitor-brand-short-name }-ը
 more-from-moz-mozilla-vpn-box-link =
