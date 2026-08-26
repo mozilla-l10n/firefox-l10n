@@ -482,6 +482,13 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Saiba mais
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Histórias
+newtab-spaces-tab-widgets = Widgets
+newtab-spaces-tab-activity = Atividade
+
 ## Search box component.
 
 # "Search" is a verb/action
