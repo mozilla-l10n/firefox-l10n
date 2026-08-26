@@ -57,11 +57,15 @@ about-sync-log-badge-error = Zmylk
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").
 about-sync-log-row-size = { $value } { $unit }
+about-sync-log-empty = Protokole synchronizacije njejsu so natočili.
 about-sync-log-empty-filtered = Žane protokole aktualnym filtram njewotpowěduja.
 
 ## Inline viewer
 
 about-sync-log-view-error = Protokolowa dataja njeda so čitać.
+# Opens the raw log file in a new browser tab.
+about-sync-log-open-raw =
+    .label = Hruby protokol wočinić
 
 ## Clear logs confirmation
 
