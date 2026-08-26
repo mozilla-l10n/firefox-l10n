@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Jaga privasi dengan { -mozilla-vpn-brand-
 about-private-browsing-focus-promo-cta = Unduh { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Penjelajahan pribadi di mana saja
 about-private-browsing-focus-promo-text = Aplkasi seluler penjelajahan pribadi khusus dari kami untuk menghapus riwayat dan kuki Anda setiap saat.
-
-##
-
 about-private-browsing-focus-promo-header-b = Bawa penjelajahan pribadi ke ponsel Anda
 about-private-browsing-focus-promo-text-b = Gunakan { -focus-brand-name } untuk pencarian pribadi yang tidak ingin terlihat dari peramban utama Anda.
 about-private-browsing-focus-promo-header-c = Privasi tingkat lanjut di ponsel
@@ -65,6 +62,7 @@ about-private-browsing-pin-promo-title = Tidak ada kuki tersimpan atau riwayat, 
 
 about-private-browsing-relay-promo-header = Bantu cegah spam kotak masuk dengan topeng surel
 about-private-browsing-relay-promo-title = Sembunyikan alamat asli Anda dengan topeng surel saat Anda mendaftar, berbelanja, atau membagikannya secara daring.
+about-private-browsing-relay-promo-link-text = Coba topeng surel
 
 ## Strings used in a promotion message for cookie banner reduction
 

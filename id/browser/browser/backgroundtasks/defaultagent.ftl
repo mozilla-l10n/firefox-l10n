@@ -4,6 +4,7 @@
 
 default-browser-agent-task-description = Tugas Agen Peramban Baru bertugas memeriksa apabila peramban baku berubah dari { -brand-short-name } menjadi peramban lainnya. Jika pengubahan terjadi dalam keadaan yang mencurigakan, agen ini akan meminta pengguna mengubah kembali ke { -brand-short-name } sebanyak maksimal dua kali. Tugas ini dipasang otomatis oleh { -brand-short-name } dan dipasang ulang ketika { -brand-short-name } dimutakhirkan. Untuk menonaktifkan tugas ini, perbarui pengaturan “default-browser-agent.enabled” pada laman about:config atau pengaturan kebijakan perusahaan { -brand-short-name } “DisableDefaultBrowserAgent”.
 default-browser-notification-privacy-header-text = Tetap gunakan { -brand-short-name }?
+default-browser-notification-privacy-body-text = Pengaturan baku Anda berubah. Kembali ke { -brand-short-name } untuk privasi dan perlindungan bawaan.
 default-browser-notification-header-text = Terus gunakan { -brand-short-name }?
 default-browser-notification-body-text = Peramban baku Anda baru saja diubah. Ketuk untuk mengembalikan { -brand-short-name } menjadi yang baku.
 default-browser-notification-yes-button-text = Ya
