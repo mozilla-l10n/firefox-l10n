@@ -136,6 +136,9 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }-ը</strong> կառավարում է այս կարգավորումը։
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/><strong>{ $name }</strong>-ը պահանջում է Պարունակ ներդիրներ։
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }-ը</strong> կառավարում է այս կարգավորումը։
@@ -259,6 +262,9 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Զգուշացնել բազմակի ներդիրներ բացելիս, ինչը կարող է դանդաղեցնել { -brand-short-name }-ը:
     .accesskey = դ
+switch-to-new-tabs-2 =
+    .label = Նոր ներդիրում հղումներ կամ մեդիա ֆայլեր բացելիս անմիջապես անցեք դրանց
+    .accesskey = Ն
 switch-to-new-tabs =
     .label = Հղումը, պատկերը կամ մեդիան նոր ներդիրում բացելիս անմիջապես փոխարկվել դեպի այն
     .accesskey = ս
@@ -340,6 +346,12 @@ browser-layout-show-sidebar-desc = Արագորեն մատչեք Ձեր էջան
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Լեզուն և տեսքը
+appearance-group2 =
+    .description = Որոշ կայքեր փոխում են իրենց գույները՝ համապատասխանեցնելով դրանք ձեր նախասիրություններին։ Ընտրեք ձեր գունային սխեման։
+    .label = Կայքի արտաքին տեսքը
+preferences-web-appearance-choice-auto3 =
+    .label = Համակարգային
+    .title = Ինքնաշխատ փոխեք կայքի խորապատկերները և բովանդակությունը՝ ձեր համակարգի կարգավորումների և { -brand-short-name }-ի ոճի հիման վրա։
 preferences-web-appearance-header = Կայքի արտաքին տեսքը
 preferences-web-appearance-description = Որոշ կայքեր հարմարեցնում են իրենց գույնային սխեման ըստ ձեր նախապատվությունների: Ընտրեք, թե որ գույնային սխեման եք ցանկանում օգտագործել այդպիսի կայքերի համար:
 preferences-web-appearance-choice-light2 =
@@ -349,10 +361,14 @@ preferences-web-appearance-choice-dark2 =
     .label = Մութ
     .title = Օգտագործել մութ տեսք՝ կայքի խորապատկերների և բովանդակության համար:
 web-appearance-group =
-    .aria-label = Վեբ-կայքի տեսքը
+    .aria-label = Վեբ կայքի տեսքը
 preferences-web-appearance-choice-auto = Ինքնաշխատ
 preferences-web-appearance-choice-light = Լուսավոր
 preferences-web-appearance-choice-dark = Մուգ
+preferences-web-appearance-choice-tooltip-light =
+    .title = Օգտագործեք բաց տեսք կայքի ֆոնի և բովանդակության համար։
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Օգտագործեք մուգ տեսք կայքի ֆոնի և բովանդակության համար։
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
@@ -370,6 +386,9 @@ preferences-contrast-control-group =
     .label = Կայքի հակադրություն
 preferences-contrast-control-radio-group =
     .label = Գույների փոխարինում
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Ձեր գույների ընտրությունը գերակշռում է կայքի տեսքին։ <a data-l10n-name="colors-link">Կառավարել գույները</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Կառավարեք { -brand-short-name } ձևավորումները <a data-l10n-name="themes-link">Ընդլայնումներ և Ձևավորումներում</a>
@@ -552,6 +571,12 @@ download-save-files-header =
     .label = Ֆայլերը պահպանել`
 download-save-where-3 =
     .aria-label = Ֆայլերը պահպանել`
+download-always-ask-where2 =
+    .label = Ներբեռնելուց առաջ հարցնել, թե որտեղ պահել ֆայլերը
+    .accesskey = Հ
+download-private-browsing-delete2 =
+    .label = Ջնջել փակման ժամանակ գաղտնի պատուհանի ներբեռնումները
+    .accesskey = Ջ
 download-header = Ներբեռնումներ
 download-save-where = Ֆայլերի պահպանման վայրը
     .accesskey = ե
@@ -571,8 +596,11 @@ download-always-ask-where =
     .accesskey = A
 applications-header = Ծրագրեր
 applications-description = Ընտրեք, թե ինչպես { -brand-short-name }-ը վարվի ձեր ներբեռնած ֆայլերի կամ դիտարկումների ժամանակ ձեր կողմից օգտագործվող հավելվածների հետ:
+applications-setting2 =
+    .description = Ընտրեք, թե ինչպես է { -brand-short-name }-ը մշակելու ներբեռնված ֆայլերն ու բովանդակությունը։
+    .label = Ֆայլեր և հավելվածներ
 applications-filter =
-    .placeholder = Որոնել ֆայլերի տեսակները կամ ծրագրերը
+    .placeholder = Որոնել ֆայլերի տեսակներ կամ հավելվածներ
 applications-type-column =
     .label = Բովանդակության տեսակը
     .accesskey = տ
@@ -650,9 +678,15 @@ applications-handle-new-file-types-description = Ի՞նչ պետք է անի { -
 applications-save-for-new-types =
     .label = Պահել ֆայլերը
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = Ինքնաշխատ պահել ֆայլերը
+    .accesskey = S
 applications-ask-before-handling =
     .label = Հարցնի՝ բացել, թե պահել ֆայլերը
     .accesskey = A
+applications-ask-before-handling2 =
+    .label = Հարցնել՝ ֆայլերը բացել, թե պահել
+    .accesskey = Հ
 drm-group =
     .label = Թվային իրավունքների կառավարման (DRM) բովանդակություն
 drm-content-header = Թվային իրավունքների կառավարման (DRM) բովանդակություն
@@ -1468,7 +1502,7 @@ forms-primary-pw-change-2 =
     .label = Փոխել հիմնական գաղտնաբառը
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
-    .label = Անջատել այն
+    .label = Անջատել
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Գաղտնաբառերը լրացնելու և կառավարելու համար պահանջել սարքի մուտք գործում
@@ -2236,6 +2270,9 @@ preferences-doh-overview-default =
 preferences-doh-overview-custom =
     .description = Միշտ օգտագործեք անվտանգ DNS՝ ձեր մատակարարի և պահեստային ռեժիմի վերահսկողությամբ։
     .label = Հարմարեցված
+preferences-doh-advanced-section =
+    .description = HTTPS-ի (DoH) միջոցով դոմեյնային անունների համակարգը կոդավորում է կայքերի որոնումները, ուստի ձեր ինտերնետ մատակարարի կամ ուրիշների համար ավելի դժվար է տեսնել, թե որ կայքերն եք այցելելու։
+    .label = Լրացուցիչ կարգավորումներ
 preferences-doh-radio-custom =
     .description = Միշտ օգտագործեք անվտանգ DNS՝ ձեր մատակարարի և պահեստային ռեժիմի վերահսկողությամբ
     .label = Հարմարեցված
@@ -2261,8 +2298,15 @@ choose-download-folder-title = Ընտրել ներբեռնումների թղթ�
 
 preferences-appearance-header =
     .heading = Տեսք
+browser-theme-group =
+    .description = Ձևավորեք { -brand-short-name }-ը ձեր ոճով։ Ոճի գույները կիրառվում են գործիքագոտիների, ընտրացանկերի և հաղորդագրությունների վրա։
+    .label = Դիտարկիչի ոճ
+browser-theme-manage-link =
+    .label = Կառավարել { -brand-short-name }-ի ոճերը
 related-settings-group =
     .label = Առնչվող կարգավորումներ
+related-settings-accessibility-link =
+    .label = Անհատականացրեք դիտափոխման և տառատեսակի կարգավորումները Մատչելիություն բաժնում
 related-settings-home-link =
     .label = Հարմարեցնել { -firefox-home-brand-name }-ը
 related-settings-tabs-browsing-link =

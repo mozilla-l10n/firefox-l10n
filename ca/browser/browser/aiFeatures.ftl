@@ -14,8 +14,8 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Paràmetres per defecte
 ai-window-open-sidebar =
-    .label = Obre l'assistent automàticament
     .description = Mostra la barra lateral assistent a cada pestanya nova. Tanca'l en qualsevol moment.
+    .label = Obre l'assistent automàticament
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -23,8 +23,8 @@ ai-window-open-sidebar =
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
-    .label = Ràpid: respostes ràpides
     .description = Model { $model } per { $ownerName }
+    .label = Ràpid: respostes ràpides
 smart-window-model-custom-name =
     .label = Nom del model
     .placeholder = Exemple: glm4
@@ -37,21 +37,18 @@ smart-window-model-custom-save =
     .label = Desa
 ai-window-learn-from-chat-activity =
     .label = Aprèn dels xats de { -smart-window-brand-name }
+ai-window-manage-memories-button =
+    .label = Gestiona les memòries
 ai-window-delete-all-memories-button =
     .label = Suprimeix-ho tot
+ai-window-delete-all-memories-title = Voleu suprimir totes les memòries?
 ai-window-delete-all-memories-confirm = Suprimeix
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
 smart-window-model-fast-v2 =
-    .label = { $shortName }: ràpid
     .description = Millor per a respostes ràpides quan la velocitat importa. Nom complet: { $model } per { $ownerName }
+    .label = { $shortName }: ràpid
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: flexible
     .description = Preparat per a diverses tasques. Nom complet: { $model } per { $ownerName }
+    .label = { $shortName }: flexible
 smart-window-model-personal-v2 =
-    .label = { $shortName }: personal
     .description = Construït per a ajuda personalitzada en diferents llengües. Nom complet: { $model } per { $ownerName }
+    .label = { $shortName }: personal

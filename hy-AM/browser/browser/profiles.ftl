@@ -48,6 +48,9 @@ new-profile-page-header = Հարմարեցրեք ձեր նոր պրոֆիլը
 new-profile-page-learn-more = Իմանալ ավելին
 new-profile-page-done-button =
     .label = Խմբագրման ավարտ
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Ձեր «{ $profilename }»-ի պատճենը պատրաստ է անհատականացման համար
 restored-profile-page-header = Անհատականացրեք ձեր վերականգնված պրոֆիլը
 restored-profile-page-learn-more = Իմանալ ավելին
 profile-window-title-2 = { -brand-short-name } - ընտրեք պրոֆիլ
