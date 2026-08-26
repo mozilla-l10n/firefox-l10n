@@ -15,7 +15,7 @@
 serviceworker-list-header = Service Workers
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
-serviceworker-list-aboutdebugging = Abra <a>about:debugging</a> para Service Workers de otros dominios
+serviceworker-list-aboutdebugging = Abra <a>about:debugging</a> para Service Workers de otros domínios
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Desregistrar
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
@@ -33,7 +33,7 @@ serviceworker-worker-start3 = Iniciar
 # display the last update time of the service worker script.
 # Variables:
 #   $date (date) - Update date
-serviceworker-worker-updated = Actualizado <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+serviceworker-worker-updated = Actualizado <time>{ DATETIME($date, day: "numeric", hour: "numeric", minute: "numeric", month: "long", second: "numeric", year: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.

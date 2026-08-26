@@ -31,7 +31,7 @@ genai-prompts-simplify =
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Juguemos
-    .value = Por favor, pregúntame sobre esta selección. Pregúntame una variedad de tipos de preguntas, por ejemplo multiple choice, verdadero o falso y respuestas cortas. Espera mi respuesta antes de seguir con la próxima pregunta.
+    .value = Por favor, pregúntame sobre esta selección. Pregúntame una variedad de tipos de preguntas, por ejemplo multiple choice, verdadero o falso y respuestas cortas. Espera mí respuesta antes de seguircon la próxima pregunta.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Explicar esto
