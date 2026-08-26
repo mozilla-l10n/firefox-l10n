@@ -57,3 +57,22 @@ about-sync-log-badge-error = Fejl
 about-sync-log-row-size = { $value } { $unit }
 about-sync-log-empty = Der er ikke registreret nogen synkroniseringslogfiler.
 about-sync-log-empty-filtered = Ingen logfiler matcher de aktuelle filtre.
+
+## Inline viewer
+
+about-sync-log-view-error = Kunne ikke læse denne logfil.
+# Opens the raw log file in a new browser tab.
+about-sync-log-open-raw =
+    .label = Åbn rå
+
+## Clear logs confirmation
+
+about-sync-log-clear-confirm-title = Ryd synkroniseringslogfiler?
+# Variables:
+#   $count (Number) - Number of logs that will be deleted.
+about-sync-log-clear-confirm-message =
+    { $count ->
+        [one] Dette vil permanent slette  { $count } synlig logfil.
+       *[other] Dette vil permanent slette { $count } synlige logfiler.
+    }
+about-sync-log-clear-confirm-accept = Slet

@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Søg efter opdateringer
-    .accesskey = T
     .tooltiptext = Søg efter tilgængelige opdateringer til denne tilføjelse
+    .accesskey = T
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Indstillinger
            *[other] Indstillinger
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] I
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Rediger indstillinger for denne tilføjelse
            *[other] Rediger indstillinger for denne tilføjelse
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
         }
 detail-rating =
     .value = Vurdering
@@ -183,10 +183,6 @@ addon-updates-check-for-updates = Søg efter opdateringer
     .accesskey = T
 addon-updates-view-updates = Vis seneste opdateringer
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Opdater tilføjelser automatisk
     .accesskey = a
 
@@ -422,8 +418,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Tilladt i private vinduer
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Tilladt i private vinduer
 addon-detail-private-browsing-help = Udvidelsen har adgang til dine aktiviteter i privat browsing-tilstand, hvis du giver den tilladelse til det. <a data-l10n-name="learn-more">Læs mere</a>
 addon-detail-private-browsing-allow = Tillad
 addon-detail-private-browsing-disallow = Tillad ikke
@@ -450,16 +446,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } anbefaler kun udvidelser, der overholder vores krav til sikkerhed og ydelse.
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } anbefaler kun udvidelser, der overholder vores krav til sikkerhed og ydelse.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Officiel udvidelse udviklet af Mozilla. Overholder standarder for sikkerhed og ydelse
     .aria-label = { addon-badge-line3.title }
+    .title = Officiel udvidelse udviklet af Mozilla. Overholder standarder for sikkerhed og ydelse
 addon-badge-verified2 =
-    .title = Denne udvidelse er blevet tjekket for, om den overholder vores standarder for sikkerhed og ydelse
     .aria-label = { addon-badge-verified2.title }
+    .title = Denne udvidelse er blevet tjekket for, om den overholder vores standarder for sikkerhed og ydelse
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -517,8 +513,8 @@ default-heading-search-label = Find flere udvidelser
 addons-heading-search-input =
     .placeholder = Søg på addons.mozilla.org
 addons-heading-search-button =
-    .title = Søg på addons.mozilla.org
     .aria-label = Søg på addons.mozilla.org
+    .title = Søg på addons.mozilla.org
 addon-page-options-button =
     .title = Indstillinger for alle tilføjelser
 
@@ -644,6 +640,10 @@ themes-mode-light =
     .label = Lyst
 themes-mode-dark =
     .label = Mørkt
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Enhed
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = { -brand-product-name }-temaer

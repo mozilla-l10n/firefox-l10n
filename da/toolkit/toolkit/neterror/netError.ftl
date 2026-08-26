@@ -34,6 +34,43 @@ neterror-view-certificate-link = Vis certifikat
 neterror-trr-continue-this-time = Fortsætte denne gang
 neterror-disable-native-feedback-warning = Fortsæt altid
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = Dette websted kan ikke nås
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Kunne ikke oprette forbindelse til serveren { $domain }.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Prøv disse trin:
+neterror-search-cta-hint-check-address = Dobbelttjek webadressen
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Søg på nettet for at finde webstedet
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Søg på nettet efter <strong>"{ $query }"</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Søg
+    .tooltiptext = Åbner søgeresultater i et ny faneblad
+    .accesskey = S
+neterror-search-cta-reload-button =
+    .label = Genindlæs
+    .accesskey = G
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = Indlæser
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Det ser ud til, at du er offline. Opret forbindelse, og prøv igen.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Fejlkode: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Læs mere
+
 ##
 
 neterror-pref-reset = Det ser ud til, at dine indstillinger for netværkssikkerhed forårsager dette. Vil du gendanne til standard-indstillinger?

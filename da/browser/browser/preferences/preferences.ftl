@@ -1170,9 +1170,37 @@ containers-section-header2 =
 containers-card-header2 =
     .description = Adskil cookies ved hjælp af kontekster, så du kan bruge forskellige konti på samme websted og begrænse sporing på tværs af websteder.
     .label = Kontekster
+containers-add-button2 =
+    .label = Tilføj ny kontekst
+    .accesskey = T
+containers-new-tab-check3 =
+    .label = Vælg en kontekst for hvert nyt faneblad
+    .accesskey = V
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Brug ikke kontekster til links, der åbnes fra eksterne apps
+    .accesskey = B
+containers-new-tab-check2 =
+    .description = Dette åbner menuen for kontekster, hver gang du trykker på knappen "Åbn et nyt faneblad".
+    .label = Vælg en kontekst for hvert nyt faneblad
+    .accesskey = V
 containers-settings-button2 =
     .title = Indstillinger
 containers-remove-button3 =
+    .title = Slet
+containers-sites-card-header =
+    .description = Vælg en kontekst for et websted, og { -brand-short-name } vil bruge den, hver gang webstedet åbnes.
+    .label = Websteds-specifikke kontekster
+containers-sites-add-button =
+    .label = Tilføj websted
+    .accesskey = T
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Kontekst for { $site }
+containers-site-remove-button =
     .title = Slet
 containers-remove-button2 =
     .title = Fjern
@@ -2361,6 +2389,11 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Forbindelses- og softwaresikkerhed
+preferences-connection-link-section =
+    .description = Se, hvordan forbindelser forbliver sikre, skadelig software blokeres, og websteder verificeres.
+    .label = Forbindelses- og softwaresikkerhed
 preferences-connection-link-button =
     .label = Avancerede indstillinger
 

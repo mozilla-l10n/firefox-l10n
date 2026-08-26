@@ -115,6 +115,7 @@ autofill-address-tel = Telefonnummer
 autofill-address-email = Mailadresse
 autofill-cancel-button = Fortryd
 autofill-save-button = Gem
+autofill-country-warning-message-2 = Autoudfyldning af adresser er lige nu kun tilgængelig i udvalgte lande
 autofill-country-warning-message = Autoudfyldning af adresser er lige nu kun tilgængelig i udvalgte lande.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Tilføj nyt betalingskort

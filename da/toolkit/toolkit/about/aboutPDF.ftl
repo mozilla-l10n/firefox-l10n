@@ -4,5 +4,7 @@
 
 about-pdf-browse-files =
     .label = Gennemse filer
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Åbn PDF-fil
 about-pdf-dismiss =
     .label = Afvis
