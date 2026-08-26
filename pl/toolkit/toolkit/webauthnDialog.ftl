@@ -47,7 +47,7 @@ webauthn-register-direct-prompt = Witryna „{ $hostname }” prosi o rozszerzo
 webauthn-register-direct-prompt-hint = { -brand-short-name } może zanonimizować odpowiedź, ale strona może ją odrzucić. W przypadku odrzucenia można spróbować ponownie.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
-webauthn-select-sign-result-prompt = Odnaleziono więcej niż jedno konto witryny „{ $hostname }”. Wybierz którego użyć, lub anuluj.
+webauthn-select-sign-result-prompt = Odnaleziono więcej niż jedno konto witryny „{ $hostname }”. Wybierz, którego użyć, lub anuluj.
 # Variables:
 #  $hostname (String): the origin (website) for which a device needs to be selected.
 webauthn-select-device-prompt = Odnaleziono więcej niż jedno urządzenie dla witryny „{ $hostname }”. Proszę wybrać jedno.

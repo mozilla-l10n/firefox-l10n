@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-smartwindow-messages-document-title = Wiadomości { -smart-window-brand-name(case: "gen", capitalization: "lower-singular") }
+smartwindow-messages-document-title = Wiadomości { -smart-window-brand-name(capitalization: "lower-singular", case: "gen") }
 
 ## Context chips in the chat content
 
@@ -19,12 +19,12 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Coś się nie powiodło. Spróbuj ponownie.
 smartwindow-assistant-error-budget-header = Przekroczono dzisiejsze ograniczenie rozmowy.
-smartwindow-assistant-error-account-header = Korzystanie z { -smart-window-brand-name(case: "gen", capitalization: "lower-singular") } wymaga zalogowania się.
-smartwindow-assistant-error-capacity-header = { -smart-window-brand-name(case: "nom", capitalization: "upper-singular") } jest teraz zbyt zajęte. Spróbuj ponownie później.
+smartwindow-assistant-error-account-header = Korzystanie z { -smart-window-brand-name(capitalization: "lower-singular", case: "gen") } wymaga zalogowania się.
+smartwindow-assistant-error-capacity-header = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") } jest teraz zbyt zajęte. Spróbuj ponownie później.
 smartwindow-assistant-error-budget-body = Nadal możesz przeglądać Internet w tym oknie. Rozmowa będzie ponownie dostępna po przywróceniu dziennego ograniczenia.
 smartwindow-assistant-error-many-requests-header = Poczekaj chwilę i spróbuj ponownie. Za dużo wiadomości zostało wysłanych w krótkim czasie.
 smartwindow-assistant-error-max-length-header = Czas zacząć nową rozmowę. Ta przekroczyła ograniczenie długości.
-smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name(case: "nom", capitalization: "upper-singular") } nie może połączyć się z serwerem. Spróbuj innej sieci lub wyłącz VPN.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") } nie może połączyć się z serwerem. Spróbuj innej sieci lub wyłącz VPN.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Błąd serwera (HTTP { $status }). Spróbuj ponownie.
@@ -111,7 +111,7 @@ smart-window-restore-success-summary =
         [one] Zamknięto kartę, a następnie ją przywrócono.
        *[other] Zamknięto karty, a następnie je przywrócono.
     }
-smart-window-cancelled-label = Żądanie zostało anulowane.
+smart-window-cancelled-label = Polecenie zostało anulowane.
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Grupuj
 # Button label - "Group" is a verb (action to group tabs)

@@ -295,8 +295,8 @@ smart-window-confirm-deselect-all =
     .aria-label = Odznacz wszystko
     .label = Odznacz wszystko
 smart-window-close-confirm =
-    .aria-label = Anuluj żądanie i zamknij
-    .tooltiptext = Anuluj żądanie i zamknij
+    .aria-label = Anuluj polecenie i zamknij
+    .tooltiptext = Anuluj polecenie i zamknij
 smart-window-confirm-close-tab = Zamknij
 # Variables
 #   $count (number) - Number of tabs to close
@@ -331,10 +331,38 @@ aiwindow-feedback-disclaimer = Przesłanie opinii i treści tej rozmowy pomoże
 aiwindow-feedback-submit = Prześlij
 aiwindow-feedback-cancel = Anuluj
 aiwindow-feedback-reason-incorrect-or-misleading = Niepoprawne lub wprowadzające w błąd
-aiwindow-feedback-reason-doesnt-address-my-request = Nie odnosi się do mojego żądania
+aiwindow-feedback-reason-doesnt-address-my-request = Nie odnosi się do mojego polecenia
 aiwindow-feedback-reason-lacks-personalization = Brakuje indywidualizacji lub kontekstu
 aiwindow-feedback-reason-performance-or-usability = Problem z wydajnością lub użytecznością
 aiwindow-feedback-reason-harmful-or-offensive = Szkodliwe lub obraźliwe
 aiwindow-feedback-reason-other = Inne
 aiwindow-feedback-preview-report = Informacje o rozmowie
 aiwindow-feedback-preview-report-with-page = Informacje o rozmowie i stronie
+aiwindow-feedback-include-page-content = Udostępnij strony wymienione w tej rozmowie
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Przełącz widok
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Przełącz tryb: widok listy
+    .tooltiptext = Widok listy
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Przełącz tryb: widok siatki
+    .tooltiptext = Widok siatki
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Napisz pierwszy szkic
+aiwindow-starter-writing-improve = Popraw styl tekstu
+aiwindow-starter-writing-proofread = Wykonaj korektę wiadomości
+aiwindow-starter-planning-simplify = Uprość temat
+aiwindow-starter-planning-brainstorm = Podaj kilka pomysłów
+aiwindow-starter-planning-plan = Pomóż w tworzeniu planu
+aiwindow-starter-browsing-history = Znajdź karty w historii
+aiwindow-starter-browsing-summarize = Streść karty
+aiwindow-starter-browsing-compare = Porównaj karty
