@@ -27,6 +27,9 @@ about-sync-log-filter-date-7days =
     .label = Zachadne 7 dnjow
 about-sync-log-filter-date-30days =
     .label = Zachadne 30 dnjow
+about-sync-log-search-input =
+    .aria-label = Protokole pśepytaś
+    .placeholder = Protokole pśepytaś
 
 ## Toolbar actions
 
@@ -54,11 +57,15 @@ about-sync-log-badge-error = Zmólka
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").
 about-sync-log-row-size = { $value } { $unit }
+about-sync-log-empty = Protokole synchronizacije njejsu se nagrali.
 about-sync-log-empty-filtered = Žedne protokole aktualnym filtram njewótpowěduju.
 
 ## Inline viewer
 
 about-sync-log-view-error = Protokolowa dataja njedajo se cytaś.
+# Opens the raw log file in a new browser tab.
+about-sync-log-open-raw =
+    .label = Gruby protokol wócyniś
 
 ## Clear logs confirmation
 
