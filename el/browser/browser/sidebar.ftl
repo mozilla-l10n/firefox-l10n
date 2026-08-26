@@ -171,6 +171,9 @@ sidebar-opentabs-preview-heading = Πρόσφατες καρτέλες
 # Tooltip for the button that mutes a tab from the Open Tabs hover preview.
 sidebar-opentabs-preview-mute-tab =
     .title = Σίγαση καρτέλας
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = Άρση σίγασης καρτέλας
 
 ## Labels for sidebar menu items.
 
@@ -284,31 +287,31 @@ sidebar-bookmarks-title = Σελιδοδείκτες
 synced-tabs-context-close-tab-title =
     .title = Κλείσιμο καρτέλας στο «{ $deviceName }»
 show-sidebars =
-    .tooltiptext = Εμφάνιση πλαϊνών γραμμών
     .label = Πλαϊνές γραμμές
+    .tooltiptext = Εμφάνιση πλαϊνών γραμμών
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Ανάπτυξη πλαϊνής γραμμής ({ $shortcut })
     .label = Πλαϊνές γραμμές
+    .tooltiptext = Ανάπτυξη πλαϊνής γραμμής ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Σύμπτυξη πλαϊνής γραμμής ({ $shortcut })
     .label = Πλαϊνές γραμμές
+    .tooltiptext = Σύμπτυξη πλαϊνής γραμμής ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Εμφάνιση πλαϊνής γραμμής ({ $shortcut })
     .label = Πλαϊνές γραμμές
+    .tooltiptext = Εμφάνιση πλαϊνής γραμμής ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Απόκρυψη πλαϊνής γραμμής ({ $shortcut })
     .label = Πλαϊνές γραμμές
+    .tooltiptext = Απόκρυψη πλαϊνής γραμμής ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

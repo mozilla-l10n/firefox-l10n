@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Εικόνα της ημέρας
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Πρόσφατες αναζητήσεις
 home-prefs-mission-message2 =
     .message = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Μάθετε πώς
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Μάθετε περισσότερα
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Απόρρητο
 
 ## Privacy widget — count readout
 
@@ -336,6 +343,8 @@ newtab-stocks-list-markets = Αγορές
 # menu, and .label is shown on the button that opens it.
 newtab-stocks-list-watchlist = Λίστα παρακολούθησης
     .label = Λίστα παρακολούθησης
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Αναζήτηση με όνομα ή σύμβολο
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -414,6 +423,22 @@ newtab-picture-check-back = Επιστρέψτε αύριο για μια νέα
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Εικόνα της ημέρας από το Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Πρόσφατες αναζητήσεις
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Επιλογές πρόσφατων αναζητήσεων
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Μάθετε περισσότερα
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Άρθρα
+newtab-spaces-tab-widgets = Γραφικά στοιχεία
 
 ## Search box component.
 

@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = Το { -brand-short-name } θα ανοίξει το προφίλ που χρησιμοποιήσατε πιο πρόσφατα.
 profile-window-create-profile = Δημιουργία προφίλ
 profile-card-edit-button =
-    .title = Επεξεργασία προφίλ
     .aria-label = Επεξεργασία προφίλ
+    .title = Επεξεργασία προφίλ
 profile-card-delete-button =
-    .title = Διαγραφή προφίλ
     .aria-label = Διαγραφή προφίλ
+    .title = Διαγραφή προφίλ
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Άνοιγμα «{ $profileName }»
     .aria-label = Άνοιγμα «{ $profileName }»
+    .title = Άνοιγμα «{ $profileName }»
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Προφίλ { $number }
@@ -55,6 +55,8 @@ avatar-selector-upload-file = Μεταφόρτωση αρχείου
 avatar-selector-drag-file = Ή σύρετε ένα αρχείο εδώ
 avatar-selector-add-image = Προσθήκη εικόνας
 avatar-selector-crop = Περικοπή
+avatar-selector-dialog =
+    .aria-label = Επεξεργασία εικόνας χρήστη
 edit-profile-page-no-name = Δώστε ένα όνομα στο προφίλ για να το βρείτε πιο εύκολα αργότερα. Μπορείτε να το μετονομάσετε ανά πάσα στιγμή.
 edit-profile-page-duplicate-name = Το όνομα προφίλ χρησιμοποιείται ήδη. Δοκιμάστε ένα νέο όνομα.
 edit-profile-page-profile-saved = Αποθηκεύτηκε
@@ -288,9 +290,6 @@ profiles-appmenu-callout-tour-subtitle = Στο μενού ☰, πατήστε �
 profiles-appmenu-callout-tour-primary-button = Εμφάνιση οδηγιών
 barbell-avatar = Μπάρα
 bike-avatar = Ποδήλατο
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Εφαρμογή εικόνας μπάρας
 bike-avatar-tooltip =

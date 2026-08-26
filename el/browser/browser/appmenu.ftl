@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Έξοδος
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Άνοιγμα μενού εφαρμογής
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Κλείσιμο μενού εφαρμογής
     .label = { -brand-short-name }
+    .tooltiptext = Κλείσιμο μενού εφαρμογής
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -118,6 +118,9 @@ appmenuitem-fxa-sign-in = Σύνδεση στο { -brand-product-name }
 appmenuitem-fxa-manage-account = Διαχείριση λογαριασμού
 fxa-menu-sync-status-on = Ο συγχρονισμός είναι ενεργός
 fxa-menu-sync-status-off = Ο συγχρονισμός είναι ανενεργός
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Συγχρονισμός δεδομένων
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Τα δεδομένα σας δεν συγχρονίζονται
@@ -231,16 +234,6 @@ profiler-button-dropmarker =
 
 ## Profiler presets
 ## They are shown in the popup's select box.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Προτεινόμενη προεπιλογή για τον έλεγχο σφαλμάτων των περισσότερων εφαρμογών ιστού με χαμηλό κόστος.
 profiler-popup-presets-web-developer-label =
