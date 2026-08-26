@@ -317,10 +317,24 @@ smartwindow-close-tab-callout-subtitle = W każdej chwili można przywrócić k
 ## Smart Window new tab promo
 
 smart-window-default-promo-heading = Czy ustawić { -smart-window-brand-name(capitalization: "lower-singular", case: "acc") } jako domyślne?
+smart-window-default-promo-message = { -brand-short-name } będzie zawsze otwierać się w { -smart-window-brand-name(capitalization: "lower-singular", case: "loc") }.
+smart-window-default-promo-primary-button = Ustaw jako domyślne
 smart-window-default-promo-additional-button = Nie teraz
 
 ## Feedback modal
 
 aiwindow-feedback-modal-title = Podziel się opinią
-aiwindow-feedback-submit = Wyślij
+aiwindow-feedback-what-worked-well = Co się sprawdziło? Prosimy nie podawać danych osobowych.
+aiwindow-feedback-choose-any = Wybierz rodzaj
+aiwindow-feedback-add-details = Dodaj więcej informacji, jeśli chcesz. Prosimy nie podawać danych osobowych.
+aiwindow-feedback-disclaimer = Przesłanie opinii i treści tej rozmowy pomoże { -brand-shorter-name(case: "dat") } ulepszyć { -smart-window-brand-name(capitalization: "lower-singular", case: "acc") }. Pozostałe rozmowy pozostaną prywatne. <a data-l10n-name="learn-more">Więcej informacji</a>
+aiwindow-feedback-submit = Prześlij
 aiwindow-feedback-cancel = Anuluj
+aiwindow-feedback-reason-incorrect-or-misleading = Niepoprawne lub wprowadzające w błąd
+aiwindow-feedback-reason-doesnt-address-my-request = Nie odnosi się do mojego żądania
+aiwindow-feedback-reason-lacks-personalization = Brakuje indywidualizacji lub kontekstu
+aiwindow-feedback-reason-performance-or-usability = Problem z wydajnością lub użytecznością
+aiwindow-feedback-reason-harmful-or-offensive = Szkodliwe lub obraźliwe
+aiwindow-feedback-reason-other = Inne
+aiwindow-feedback-preview-report = Informacje o rozmowie
+aiwindow-feedback-preview-report-with-page = Informacje o rozmowie i stronie
