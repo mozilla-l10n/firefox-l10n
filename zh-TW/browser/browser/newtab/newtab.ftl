@@ -450,6 +450,13 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = 更多資訊
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = 文章
+newtab-spaces-tab-widgets = 小工具
+newtab-spaces-tab-activity = 活動
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -717,6 +724,12 @@ newtab-carousel-previous =
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = 下一頁
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = 暫停自動播放
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = 恢復自動播放
 
 ## Pocket Content Section.
 
