@@ -20,16 +20,16 @@ certmgr-people = Masz certyfikaty, które identyfikują następujące osoby:
 certmgr-server = Następujące wpisy identyfikują wyjątki błędów certyfikatów serwera:
 certmgr-ca = Masz certyfikaty, które identyfikują następujące organy certyfikacji:
 certmgr-edit-ca-cert2 =
-    .title = Edycja ustawień zaufania certyfikatu CA
     .style = min-width: 40em;
+    .title = Edycja ustawień zaufania certyfikatu organu certyfikacji
 certmgr-edit-cert-edit-trust = Ustawienia zaufania:
 certmgr-edit-cert-trust-ssl =
     .label = certyfikat identyfikuje witryny
 certmgr-edit-cert-trust-email =
     .label = certyfikat identyfikuje użytkowników poczty
 certmgr-delete-cert2 =
-    .title = Usuń certyfikat
     .style = min-width: 48em; min-height: 24em;
+    .title = Usuń certyfikat
 certmgr-cert-host =
     .label = Host
 certmgr-cert-name =
@@ -109,7 +109,7 @@ choose-p12-restore-file-dialog = Plik certyfikatu do zaimportowania
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Pliki certyfikatów
-import-ca-certs-prompt = Wybierz plik zawierający certyfikat(y) CA do zaimportowania
+import-ca-certs-prompt = Wybierz plik zawierający certyfikat(y) organu certyfikacji do zaimportowania
 import-email-cert-prompt = Wybierz plik zawierający certyfikat e-mail innej osoby do zaimportowania
 
 ## For editing certificates trust
@@ -129,9 +129,9 @@ delete-ssl-override-title =
 delete-ssl-override-confirm = Czy na pewno usunąć ten wyjątek dotyczący certyfikatu serwera?
 delete-ssl-override-impact = Jeżeli wyjątek dotyczący certyfikatu serwera zostanie usunięty, przywrócone zostaną zwykłe procedury bezpieczeństwa dla tego serwera, w tym wymóg stosowania przez niego poprawnego certyfikatu.
 delete-ca-cert-title =
-    .title = Usuń lub przestań ufać certyfikatom CA
-delete-ca-cert-confirm = Zażądano usunięcia certyfikatów CA. Certyfikaty wbudowane przestaną być zaufane, co ma taki sam skutek. Czy na pewno usunąć lub przestać ufać wybranym certyfikatom CA?
-delete-ca-cert-impact = Jeżeli certyfikat organu certyfikacji (CA) zostanie usunięty lub przestanie być zaufany, certyfikaty wydane przez ten CA nie będą uznawane przez program za zaufane.
+    .title = Usuń lub przestań ufać certyfikatom organu certyfikacji
+delete-ca-cert-confirm = Zażądano usunięcia certyfikatów organu certyfikacji. Certyfikaty wbudowane przestaną być zaufane, co ma taki sam skutek. Czy na pewno usunąć lub przestać ufać wybranym certyfikatom?
+delete-ca-cert-impact = Jeżeli certyfikat organu certyfikacji (CA) zostanie usunięty lub przestanie być zaufany, certyfikaty wydane przez ten organ nie będą uznawane przez program za zaufane.
 delete-email-cert-title =
     .title = Usuń certyfikaty e-mail
 delete-email-cert-confirm = Czy na pewno usunąć certyfikaty e-mail wybranych osób?

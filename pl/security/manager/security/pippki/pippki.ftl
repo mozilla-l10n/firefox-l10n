@@ -40,13 +40,13 @@ download-cert-window2 =
     .title = Pobieranie certyfikatu
 download-cert-message = Otrzymano prośbę o dołączenie nowego organu certyfikacji do listy zaufanych organów.
 download-cert-trust-ssl =
-    .label = Zaufaj temu organowi przy identyfikacji witryn internetowych.
+    .label = Zaufaj temu organowi certyfikacji przy identyfikacji witryn internetowych.
 download-cert-trust-email =
-    .label = Zaufaj temu organowi przy identyfikacji użytkowników poczty.
+    .label = Zaufaj temu organowi certyfikacji przy identyfikacji użytkowników poczty.
 download-cert-message-desc = Jeżeli jest to możliwe, przed udzieleniem zgody należy zapoznać się z certyfikatem tego organu oraz jego polityką i stosowanymi procedurami.
 download-cert-view-cert =
     .label = Wyświetl
-download-cert-view-text = Sprawdź certyfikat
+download-cert-view-text = Sprawdź certyfikat organu certyfikacji
 
 ## Client Authentication Ask dialog
 
