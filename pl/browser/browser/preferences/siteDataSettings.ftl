@@ -25,7 +25,7 @@ site-data-remove-selected =
     .label = Usuń zaznaczone
     .accesskey = U
 site-data-settings-dialog =
-    .buttonlabelaccept = Zapisz zmiany
+    .buttonlabelaccept = Zachowaj zmiany
     .buttonaccesskeyaccept = Z
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Usuń
+    .title = { site-data-removing-header }
 site-data-removing-header = Usuwanie ciasteczek i danych witryn
 site-data-removing-desc = Usunięcie ciasteczek i danych witryn może spowodować wylogowanie z niektórych witryn. Czy wprowadzić zmiany?
 # Variables:

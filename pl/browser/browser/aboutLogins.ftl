@@ -5,14 +5,14 @@
 
 about-logins-page-title = Dane logowania i hasła
 about-logins-login-filter =
-    .placeholder = Szukaj danych logowania
     .key = F
+    .placeholder = Szukaj danych logowania
 create-new-login-button =
     .title = Utwórz nowe dane logowania
 about-logins-page-title-name = Hasła
 about-logins-login-filter2 =
-    .placeholder = Szukaj haseł
     .key = F
+    .placeholder = Szukaj haseł
 create-login-button =
     .title = Dodaj hasło
 fxaccounts-sign-in-text = Korzystaj ze swoich haseł na innych urządzeniach
@@ -110,7 +110,7 @@ about-logins-list-section-week = Ostatnie 7 dni
 about-logins-login-intro-heading-logged-out2 = Szukasz swoich zachowanych haseł? Włącz synchronizację lub je zaimportuj.
 about-logins-login-intro-heading-logged-in = Brak synchronizowanych danych logowania.
 login-intro-description = Aby przenieść tutaj dane logowania zachowane w { -brand-product-name(case: "loc") } na innym urządzeniu:
-login-intro-instructions-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand-name(case: "loc", capitalization: "lower") } na urządzeniu, w którym zachowano dane logowania.
+login-intro-instructions-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand-name(capitalization: "lower", case: "loc") } na urządzeniu, w którym zachowano dane logowania.
 about-logins-login-intro-heading-message = Zachowuj swoje hasła w bezpiecznym miejscu
 login-intro-description2 = Wszystkie hasła zachowywane w { -brand-product-name(case: "loc") } są zaszyfrowane. Do tego pilnujemy wycieków haseł i wysyłamy powiadomienie, jeśli Cię dotyczą. <a data-l10n-name="breach-alert-link">Więcej informacji</a>
 login-intro-instructions-fxa2 = Zarejestruj się lub zaloguj na koncie na urządzeniu, w którym zachowano dane logowania.
@@ -148,9 +148,9 @@ login-item-password-conceal-checkbox =
     .aria-label = Ukryj hasło
 login-item-copy-password-button-text = Kopiuj
 login-item-copied-password-button-text = Skopiowano
-login-item-save-changes-button = Zapisz zmiany
-about-logins-login-item-save-changes-button = Zapisz
-login-item-save-new-button = Zapisz
+login-item-save-changes-button = Zachowaj zmiany
+about-logins-login-item-save-changes-button = Zachowaj
+login-item-save-new-button = Zachowaj
 login-item-cancel-button = Anuluj
 
 ## The date is displayed in a timeline showing the password evolution.
@@ -262,8 +262,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-       *[other] Spowoduje to usunięcie wszystkich danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [1] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(capitalization: "lower", case: "ins") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[other] Spowoduje to usunięcie wszystkich danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(capitalization: "lower", case: "ins") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =

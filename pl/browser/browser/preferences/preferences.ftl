@@ -1437,7 +1437,7 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Zapisz zmiany
+    .buttonlabelaccept = Zachowaj zmiany
     .buttonlabelextra2 = Rozłącz…
     .buttonaccesskeyaccept = Z
     .buttonaccesskeyextra2 = R
