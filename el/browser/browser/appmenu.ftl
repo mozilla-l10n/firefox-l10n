@@ -301,6 +301,8 @@ appmenu-sync-promo-turnonsync-cta = Ενεργοποίηση συγχρονισ�
 appmenu-sync-promo-connectdevice =
     .heading = Λάβετε τις καρτέλες του τηλεφ΄ώνου σας
 appmenu-sync-promo-connectdevice-cta = Συνδέστε μια συσκευή
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Πάρτε τους σελιδοδείκτες σας μαζί σας
 # This refers to having your bookmarks available on your mobile device via sync
 appmenu-bookmarks-sync-promo-connectdevice =
     .heading = Πάρτε τους σελιδοδείκτες σας μαζί σας

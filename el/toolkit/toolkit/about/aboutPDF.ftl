@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Αυτό το αρχείο δεν υποστη
 about-pdf-dropzone-error-generic = Η μεταφόρτωση δεν ολοκληρώθηκε. Δοκιμάστε ξανά αργότερα.
 about-pdf-browse-files =
     .label = Περιήγηση στα αρχεία
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Άνοιγμα PDF
 about-pdf-promo =
     .heading = Ορίστε το { -brand-short-name } ως το προεπιλεγμένο εργαλείο για αρχεία PDF
     .message = Ανοίξτε αρχεία PDF στο { -brand-short-name } και κάντε τα βασικά σε ένα μέρος, από επισημάνσεις και υπογραφές μέχρι συγχώνευση αρχείων και σχόλια.

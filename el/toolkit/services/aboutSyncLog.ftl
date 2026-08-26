@@ -29,12 +29,27 @@ about-sync-log-filter-date-30days =
 
 about-sync-log-refresh-button =
     .label = Ανανέωση
+about-sync-log-download-button =
+    .label = Λήψη ορατών αρχείων καταγραφής (.zip)
+about-sync-log-clear-button =
+    .label = Απαλοιφή αρχείων καταγραφής
 
 ## Log list
 
+# Variables:
+#   $count (Number) - Number of logs currently shown.
+about-sync-log-count =
+    { $count ->
+        [one] { $count } αρχείο καταγραφής
+       *[other] { $count } αρχεία καταγραφής
+    }
 about-sync-log-badge-success = Επιτυχία
 about-sync-log-badge-error = Σφάλμα
 # Variables:
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").
 about-sync-log-row-size = { $value } { $unit }
+
+## Clear logs confirmation
+
+about-sync-log-clear-confirm-accept = Διαγραφή

@@ -439,6 +439,7 @@ newtab-recent-searches-menu-learn-more = Μάθετε περισσότερα
 
 newtab-spaces-tab-stories = Άρθρα
 newtab-spaces-tab-widgets = Γραφικά στοιχεία
+newtab-spaces-tab-activity = Δραστηριότητα
 
 ## Search box component.
 
@@ -705,12 +706,24 @@ newtab-discovery-empty-section-topstories-timed-out = Ωχ! Αυτή η ενότ
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } από { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Προηγούμενο
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Επόμενο
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Παύση αυτόματης αναπαραγωγής
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Συνέχιση αυτόματης αναπαραγωγής
 
 ## Pocket Content Section.
 
@@ -819,6 +832,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Μετοχές
 newtab-custom-widget-picture-toggle =
     .label = Εικόνα της ημέρας
+newtab-custom-widget-recent-searches-toggle =
+    .label = Πρόσφατες αναζητήσεις
 newtab-custom-widget-section-title = Γραφικά στοιχεία
 newtab-custom-widget-section-toggle =
     .label = Γραφικά στοιχεία
