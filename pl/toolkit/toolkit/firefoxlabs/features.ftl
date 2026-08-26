@@ -28,11 +28,11 @@ experimental-features-group-customize-browsing =
 experimental-features-group-productivity =
     .label = Produktywność
 experimental-features-group-newtab-widgets =
-    .label = Widżety na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
+    .label = Widżety na { -firefox-home-brand-name(capitalization: "lower", case: "loc") }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Hasła na panelu bocznym
-experimental-features-contextual-password-manager-description = Umożliwia dostęp do haseł prostu z panelu bocznego. Koniec z szukaniem i przywracaniem haseł podczas próby logowania. Aby skorzystać z tej funkcji, zaznacz „Hasła na panelu bocznym”. Następnie przejdź do ogólnych ustawień i w sekcji „Układ przeglądarki” zaznacz opcję „Panel boczny”. Następnie dostosuj panel boczny, klikając „Hasła”. Jeśli wypróbujesz tę funkcję, <a data-l10n-name="connect">daj nam znać, co o niej myślisz</a>.
+experimental-features-contextual-password-manager-description = Umożliwia dostęp do haseł prostu z panelu bocznego. Koniec z szukaniem i przywracaniem haseł podczas próby logowania. Aby skorzystać z tej funkcji, zaznacz „Hasła na panelu bocznym”. Następnie przejdź do ogólnych ustawień i w sekcji „Układ przeglądarki” zaznacz opcję „Panel boczny”. Następnie dostosuj panel boczny, wybierając „Hasła”. Jeśli wypróbujesz tę funkcję, <a data-l10n-name="connect">daj nam znać, co o niej myślisz</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Wybór innej tapety lub koloru dla nowej karty
@@ -65,19 +65,19 @@ experimental-features-fx-web-apps-description = Otwieraj często odwiedzane witr
 
 # Lists Widget
 experimental-features-newtab-widget-lists =
-    .label = Listy na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
+    .label = Listy na { -firefox-home-brand-name(capitalization: "lower", case: "loc") }
 experimental-features-newtab-widget-lists-new =
     .label = Listy
 experimental-features-newtab-widget-lists-description = Miej swoją listę rzeczy do zrobienia zawsze przed oczami, otwierając nową kartę. Od list rzeczy do spakowania po listy zakupów — planuj wszystko w { -brand-product-name(case: "loc") }. <a data-l10n-name="connect">Podziel się opinią</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
-    .label = Minutnik na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
+    .label = Minutnik na { -firefox-home-brand-name(capitalization: "lower", case: "loc") }
 experimental-features-newtab-widget-timer-new =
     .label = Minutnik
 experimental-features-newtab-widget-timer-description = Ustaw minutnik, który pomoże Ci się skupić, utrzymać plan lub przypomni o konieczności naładowania baterii. <a data-l10n-name="connect">Podziel się opinią</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
-    .label = Listy i minutnik na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
+    .label = Listy i minutnik na { -firefox-home-brand-name(capitalization: "lower", case: "loc") }
 experimental-features-newtab-widget-lists-and-timer-description = Miej swoją listę rzeczy do zrobienia zawsze przed oczami, otwierając nową kartę. Od list rzeczy do spakowania po listy zakupów — planuj wszystko w { -brand-product-name(case: "loc") }. Ustaw minutnik, który pomoże Ci się skupić, utrzymać plan lub przypomni o konieczności naładowania baterii. <a data-l10n-name="connect">Podziel się opinią</a>
 # Weather Widget
 experimental-features-newtab-widget-weather =

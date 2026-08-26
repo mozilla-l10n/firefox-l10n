@@ -4,7 +4,7 @@
 
 popup-notification-learn-more = Więcej informacji
 popup-notification-more-actions-button =
-    .aria-label = Więcej interakcji
+    .aria-label = Więcej działań
 popup-notification-default-button2 =
     .label = OK
     .accesskey = O
