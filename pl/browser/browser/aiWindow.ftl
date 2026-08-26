@@ -6,22 +6,22 @@
 ## Chrome
 
 main-context-menu-open-link-new-smart-window =
-    .label = Otwórz odnośnik w nowym { -smart-window-brand-name(case: "loc", capitalization: "lower-singular") }
+    .label = Otwórz odnośnik w nowym { -smart-window-brand-name(capitalization: "lower-singular", case: "loc") }
     .accesskey = i
 appmenuitem-new-ai-window =
-    .label = Nowe { -smart-window-brand-name(case: "nom", capitalization: "lower-singular") }
-    .value = Nowe { -smart-window-brand-name(case: "nom", capitalization: "lower-singular") }
+    .label = Nowe { -smart-window-brand-name(capitalization: "lower-singular", case: "nom") }
+    .value = Nowe { -smart-window-brand-name(capitalization: "lower-singular", case: "nom") }
 appmenuitem-new-classic-window =
     .label = Nowe klasyczne okno
 menu-file-new-ai-window =
-    .label = Nowe { -smart-window-brand-name(case: "nom", capitalization: "lower-singular") }
+    .label = Nowe { -smart-window-brand-name(capitalization: "lower-singular", case: "nom") }
 menu-file-new-classic-window =
     .label = Nowe klasyczne okno
 menu-history-chats =
     .label = Rozmowy
 menu-history-chats-recent =
     .label = Ostatnie rozmowy
-smartwindow-fullpage-heading = { -smart-window-brand-name(case: "nom", capitalization: "upper-singular") }
+smartwindow-fullpage-heading = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") }
 smartwindow-document-title = Nowa karta
 
 ## Smart Window Toggle Button
@@ -33,8 +33,8 @@ ai-window-toggleview-switch-classic-description =
     .label = Standardowe przeglądanie
     .value = Standardowe przeglądanie
 ai-window-toggleview-switch-ai =
-    .label = { -smart-window-brand-name(case: "nom", capitalization: "upper-singular") }
-    .value = { -smart-window-brand-name(case: "nom", capitalization: "upper-singular") }
+    .label = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") }
+    .value = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") }
 ai-window-toggleview-switch-ai-description =
     .label = Pytaj podczas przeglądania
     .value = Pytaj podczas przeglądania
@@ -42,10 +42,10 @@ ai-window-toggleview-switch-private =
     .label = Prywatne okno
 ai-window-toggleview-open-private =
     .label = Otwórz nowe prywatne okno
-ai-window-toggleview-status-label-active = { -smart-window-brand-name(case: "nom", capitalization: "upper-singular") }
+ai-window-toggleview-status-label-active = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") }
 ai-window-toggleview-status-label-inactive = Klasyczne okno
 toolbar-switcher-customizable-label =
-    .label = Przełącznik { -smart-window-brand-name(case: "gen", capitalization: "lower-singular") }
+    .label = Przełącznik { -smart-window-brand-name(capitalization: "lower-singular", case: "gen") }
     .tooltiptext = Przełączaj między inteligentnymi a klasycznymi oknami.
 
 ## Input CTA
@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Szukaj w { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Szukaj w…
 aiwindow-input-cta-search-submenu-header = Szukaj
 aiwindow-input-cta-stop-button =
-    .title = Zatrzymaj odpowiedź
     .aria-label = Zatrzymaj generowanie odpowiedzi
+    .title = Zatrzymaj odpowiedź
 
 ## Smartbar
 
@@ -96,10 +96,10 @@ aiwindow-website-chip-remove-button =
 
 ## Firstrun onboarding
 
-aiwindow-firstrun-title = Witamy w { -smart-window-brand-name(case: "loc", capitalization: "lower-singular") }
+aiwindow-firstrun-title = Witamy w { -smart-window-brand-name(capitalization: "lower-singular", case: "loc") }
 aiwindow-firstrun-model-title = Jakie masz potrzeby?
 aiwindow-firstrun-model-title-v2 = Wybierz model, aby zacząć
-aiwindow-firstrun-model-subtitle = Wybierz model napędzający { -smart-window-brand-name(case: "nom", capitalization: "lower-singular") }. W każdej chwili możesz go zmienić.
+aiwindow-firstrun-model-subtitle = Wybierz model napędzający { -smart-window-brand-name(capitalization: "lower-singular", case: "nom") }. W każdej chwili możesz go zmienić.
 aiwindow-firstrun-model-subtitle-v2 = Każdy model pomoże Ci streszczać, porównywać i przeglądać karty. W każdej chwili możesz go zmienić.
 aiwindow-firstrun-model-fast-label = Szybki
 aiwindow-firstrun-model-fast-body = Szybkie odpowiedzi
@@ -143,6 +143,18 @@ aiwindow-input-model-select-default-badge =
     .title = Wybrany domyślny model
 aiwindow-input-model-select-settings-link = Ustawienia modelu
 
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Bardziej pomocne odpowiedzi na Twoich warunkach
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name(capitalization: "upper-singular", case: "nom") } może uczyć się z Twoich rozmów, przeglądania Internetu lub obu tych rzeczy, aby tworzyć zapamiętane treści. Sprawiają one, że z czasem odpowiedzi stają się bardziej pomocne.
+aiwindow-firstrun-memories-conversation-title = Nie przerywaj rozmowy
+aiwindow-firstrun-memories-conversation-body = Uczenie się z rozmów oznacza, że nie musisz się aż tak powtarzać.
+aiwindow-firstrun-memories-relevance-title = Bardziej trafne odpowiedzi
+aiwindow-firstrun-memories-relevance-body = Uczenie się z przeglądania Internetu daje { -smart-window-brand-name(capitalization: "lower-singular", case: "dat") } szerszy punkt widzenia.
+aiwindow-firstrun-memories-privacy-title = Domyślnie prywatne
+aiwindow-firstrun-memories-privacy-body = Zapamiętane treści są przechowywane na tym urządzeniu. Możesz je usunąć lub wyłączyć, kiedy chcesz.
+aiwindow-firstrun-memories-choose-label = Wybierz, z czego { -smart-window-brand-name(capitalization: "lower-singular", case: "nom") } ma się uczyć
+
 ## Ask Toolbar Button
 
 smartwindow-ask-button =
@@ -171,7 +183,7 @@ aiwindow-history-menu =
 aiwindow-history-menu-back =
     .aria-label = Wstecz
     .tooltiptext = Wstecz
-aiwindow-history-menu-settings = Ustawienia { -smart-window-brand-name(case: "gen", capitalization: "lower-singular") }
+aiwindow-history-menu-settings = Ustawienia { -smart-window-brand-name(capitalization: "lower-singular", case: "gen") }
 
 ## Fullpage top actions
 ## Labeled buttons shown at the top of the fullpage Smart Window.
@@ -188,12 +200,12 @@ aiwindow-fullpage-more =
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Rozmowy
     .aria-label = Rozmowy
+    .label = Rozmowy
     .tooltiptext = Rozmowy
 smartwindow-footer-history =
-    .label = Historia
     .aria-label = Historia
+    .label = Historia
     .tooltiptext = Historia
 
 ## Disclaimer
@@ -217,10 +229,6 @@ firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Count displayed in fxview chat search results
-
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
 
 firefoxview-search-chat-results-count =
     { $count ->

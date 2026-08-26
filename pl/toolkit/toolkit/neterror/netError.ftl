@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = wyszukać <strong>„{ $query }”</stro
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Szukaj
-    .accesskey = S
     .tooltiptext = Otwiera wyniki wyszukiwania w nowej karcie
+    .accesskey = S
 neterror-search-cta-reload-button =
     .label = Odśwież
     .accesskey = O
@@ -93,7 +93,7 @@ neterror-load-error-firewall = Jeśli ten komputer jest chroniony przez zaporę 
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Jeśli próbujesz wczytać stronę w sieci lokalnej, sprawdź, czy { -brand-short-name } ma uprawnienia „Sieć lokalna” w ustawieniach prywatności i bezpieczeństwa systemu macOS.
 neterror-http-error-page = Należy sprawdzić, czy poprawnie wpisano adres witryny.
-neterror-http-empty-response = Sprawdź, czy adres witryny został poprawnie wpisany i spróbuj ponownie za chwilę.
+neterror-http-empty-response = Sprawdzić, czy adres witryny został poprawnie wpisany i spróbować ponownie za chwilę.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-http-empty-response-description = Witryna „{ $hostname }” odesłała pustą stronę.
