@@ -6,6 +6,9 @@
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Noget gik galt. Prøv igen.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Serverfejl (HTTP { $status }). Prøv igen.
 smartwindow-retry-btn = Prøv igen
 smartwindow-clear-btn = Ny chat
 smartwindow-signin-btn = Log ind
@@ -16,6 +19,12 @@ aiwindow-memories-learn-more = Læs mere
 aiwindow-retry =
     .aria-label = Prøv igen
     .tooltiptext = Prøv igen
+aiwindow-thumbs-up =
+    .aria-label = Del positiv feedback
+    .tooltiptext = Del positiv feedback
+aiwindow-thumbs-down =
+    .aria-label = Del negativ feedback
+    .tooltiptext = Del negativ feedback
 # Variables:
 #   $summary (String) - The memory text that will be deleted
 aiwindow-delete-memory-button =
@@ -148,6 +157,13 @@ action-log-searching-web-with-exa = Søger på nettet med <a data-l10n-name="exa
 action-log-searched-web-with-exa = Søgte på nettet med <a data-l10n-name="exa-link">Exa</a>
 action-log-searching-settings = Søger i indstillinger
 action-log-searched-settings = Søgte i indstillinger
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Gennemførte 1 trin
+       *[other] Gennemførte { $count } trin
+    }
 
 ## Assistant Loader
 

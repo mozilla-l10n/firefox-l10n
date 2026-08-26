@@ -25,13 +25,20 @@ ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 
 ## Input CTA
 
+aiwindow-input-cta-submit-label-chat = Spørg
+aiwindow-input-cta-submit-label-search = Søg
 aiwindow-input-cta-submit-label-stop = Stop
+aiwindow-input-cta-menu-label-chat = Spørg
+aiwindow-input-cta-menu-label-navigate = Gå til websted
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = Søg med { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Søg med…
+aiwindow-input-cta-search-submenu-header = Søg
 
 ## Smartbar
 
+smartbar-placeholder =
+    .placeholder = Spørg, søg eller indtast en URL
 smartbar-placeholder-hint-3 = Indtast en webadresse…
 smartbar-placeholder-hint-4 = Søg på nettet…
 
@@ -61,12 +68,28 @@ aiwindow-firstrun-next-button = Næste
 
 ## These are labels describing model types in the smartbar model select.
 
+aiwindow-input-model-select-button-label-fast = Hurtig
+aiwindow-input-model-select-button-label-allpurpose = Fleksibel
+aiwindow-input-model-select-button-label-personal = Personlig
+aiwindow-input-model-select-button-label-custom = Tilpasset
 aiwindow-input-model-select-button-description-custom = Brug din egen LLM
 # Variables:
 # $ownerName (string) - The name of the model owner/provider
 # $model (string) - The model name
 aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-menu-item-description-custom = Brug din egen LLM
+aiwindow-input-model-select-default-badge =
+    .label = Standard
+    .title = Den valgte standardmodel
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-checkbox-label = Åbn altid { -brand-product-name } i { -smart-window-brand-name }
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Spørg
 
 ## New Chat Button
 
@@ -105,12 +128,12 @@ smartwindow-switch-to-smart-window = Skift til { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .tooltiptext = Chats
     .aria-label = Chats
     .label = Chats
+    .tooltiptext = Chats
 smartwindow-footer-history =
-    .label = Historik
     .aria-label = Historik
+    .label = Historik
     .tooltiptext = Historik
 
 ## Disclaimer
@@ -134,10 +157,6 @@ firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Count displayed in fxview chat search results
-
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
 
 firefoxview-search-chat-results-count =
     { $count ->

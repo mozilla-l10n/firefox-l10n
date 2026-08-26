@@ -77,6 +77,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Udvid sidepanel, når markøren holdes over
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Vis forhåndsvisning, når markøren holdes over
 sidebar-manage-extensions2 = Håndter alle udvidelser
 sidebar-customize-extensions-header2 = Udvidelser
 sidebar-customize-firefox-tools-header2 =
@@ -150,6 +154,20 @@ sidebar-opentabs-context-close-tab =
 # tab sorting options, which appear directly beneath this heading.
 sidebar-opentabs-sort-by-heading =
     .label = Sorter efter
+
+## Labels for the open tabs hover preview
+
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = Luk { $tabTitle }
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = Slå lyden fra i faneblad
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = Slå lyden til i faneblad
 
 ## Labels for sidebar menu items.
 
@@ -252,6 +270,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Vindue { $winID }
+sidebar-bookmarks-title = Bogmærker
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -262,31 +281,31 @@ sidebar-opentabs-window-header =
 synced-tabs-context-close-tab-title =
     .title = Luk fanebladet på { $deviceName }
 show-sidebars =
-    .tooltiptext = Vis sidepaneler
     .label = Sidepaneler
+    .tooltiptext = Vis sidepaneler
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Udvid sidepanel ({ $shortcut })
     .label = Sidepaneler
+    .tooltiptext = Udvid sidepanel ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Sammenfold sidepanel ({ $shortcut })
     .label = Sidepaneler
+    .tooltiptext = Sammenfold sidepanel ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Vis sidepanel ({ $shortcut })
     .label = Sidepaneler
+    .tooltiptext = Vis sidepanel ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Skjul sidepanel ({ $shortcut })
     .label = Sidepaneler
+    .tooltiptext = Skjul sidepanel ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

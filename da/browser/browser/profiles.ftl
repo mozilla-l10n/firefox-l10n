@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } åbner med din senest anvendte profil.
 profile-window-create-profile = Opret en profil
 profile-card-edit-button =
-    .title = Rediger profil
     .aria-label = Rediger profil
+    .title = Rediger profil
 profile-card-delete-button =
-    .title = Slet profil
     .aria-label = Slet profil
+    .title = Slet profil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Åbn { $profileName }
     .aria-label = Åbn { $profileName }
+    .title = Åbn { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
@@ -55,6 +55,8 @@ avatar-selector-upload-file = Upload en fil
 avatar-selector-drag-file = Eller træk en fil herhen.
 avatar-selector-add-image = Tilføj et billede
 avatar-selector-crop = Beskær
+avatar-selector-dialog =
+    .aria-label = Rediger avatar
 edit-profile-page-no-name = Giv denne profil et navn for at hjælpe dig med at finde den senere. Omdøb den når som helst.
 edit-profile-page-duplicate-name = Profilnavnet er allerede i brug. Prøv et nyt navn.
 edit-profile-page-profile-saved = Gemt
@@ -288,9 +290,6 @@ profiles-appmenu-callout-tour-subtitle = Tryk på dit profilnavn i menuen ☰ fo
 profiles-appmenu-callout-tour-primary-button = Vis mig hvordan
 barbell-avatar = Vægtstang
 bike-avatar = Cykel
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Anvend vægtstangs-avatar
 bike-avatar-tooltip =

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Beskyt dit privatliv med { -mozilla-vpn-b
 about-private-browsing-focus-promo-cta = Hent { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat browsing på farten
 about-private-browsing-focus-promo-text = Vores browser dedikeret til at beskytte dit privatliv sletter automatisk din historik og dine cookies.
-
-##
-
 about-private-browsing-focus-promo-header-b = Bring privat browsing til din telefon
 about-private-browsing-focus-promo-text-b = Brug { -focus-brand-name } til de private søgninger, du ikke ønsker, at din primære mobilbrowser skal se.
 about-private-browsing-focus-promo-header-c = Privatliv på næste niveau for mobilen
@@ -60,6 +57,12 @@ about-private-browsing-pin-promo-link-text =
        *[other] Fastgør til proceslinjen
     }
 about-private-browsing-pin-promo-title = Ingen gemte cookies eller historik, direkte fra dit skrivebord. Brug nettet uden tilskuere.
+
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Hjælp med at forhindre spam i indbakken med mail-masker
+about-private-browsing-relay-promo-title = Skjul din rigtige mailadresse med en mail-maske, når du tilmelder dig, handler eller deler den online.
+about-private-browsing-relay-promo-link-text = Prøv mail-masker
 
 ## Strings used in a promotion message for cookie banner reduction
 

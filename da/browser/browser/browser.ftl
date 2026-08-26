@@ -212,6 +212,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Håndter { -firefox-suggest-brand-n
 urlbar-result-menu-report-inaccurate-location2 = Rapporter unøjagtigt sted
 urlbar-result-menu-show-less-frequently2 = Vis sjældnere
 urlbar-result-menu-dont-show-weather-suggestions2 = Vis ikke vejr-forslag
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Afvis dette forslag
+    .accesskey = A
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Fjern fra historik
+    .accesskey = F
 urlbar-result-menu-learn-more =
     .label = Læs mere
     .accesskey = L
@@ -402,6 +412,8 @@ quickactions-addons = Vis tilføjelser
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = udvidelser, temaer, tilføjelser
+# Opens preferences page at AI controls
+quickactions-manageai = Håndter AI-indstillinger
 quickactions-cmd-addons2 = tilføjelser
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Håndter bogmærker
@@ -1014,6 +1026,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Søgning med genveje er deaktiveret
 urlbar-searchmode-dropmarker2 =
     .title = Vælg en søgetjeneste
+urlbar-searchmode-bookmarks3 = Bogmærker
+    .accesskey = B
+urlbar-searchmode-tabs3 = Faneblade
+    .accesskey = F
+urlbar-searchmode-history3 = Historik
+    .accesskey = H
+urlbar-searchmode-actions3 = Handlinger
+    .accesskey = a
 urlbar-searchmode-exit-button2 =
     .title = Luk
 urlbar-searchmode-default2 =
@@ -1029,6 +1049,10 @@ urlbar-searchmode-popup-one-off-header = Søg denne gang med:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Søg med:
+urlbar-searchmode-popup-search-settings = Søgeindstillinger
+    .accesskey = S
+urlbar-searchmode-popup-settings = Indstillinger
+    .accesskey = I
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1282,6 +1306,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synkroniserede faneblade
     .tooltiptext = Vis faneblade fra dine andre enheder
+toolbar-button-send-tab =
+    .label = Send faneblad
+    .tooltiptext = Send det aktuelle faneblad til en anden enhed
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =

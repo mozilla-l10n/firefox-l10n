@@ -168,40 +168,40 @@ monitor-resolve-breaches-link = Løs datalæk
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Sporing via sociale medier
     .aria-label =
         { $count ->
             [one] { $count } sporing via sociale medier ({ $percentage }%)
            *[other] { $count } sporinger via sociale medier  ({ $percentage }%)
         }
+    .title = Sporing via sociale medier
 bar-tooltip-cookie =
-    .title = Sporings-cookies på tværs af websteder
     .aria-label =
         { $count ->
             [one] { $count } sporings-cookie på tværs af websteder ({ $percentage }%)
            *[other] { $count } sporings-cookies på tværs af websteder ({ $percentage }%)
         }
+    .title = Sporings-cookies på tværs af websteder
 bar-tooltip-tracker =
-    .title = Sporings-indhold
     .aria-label =
         { $count ->
             [one] { $count } sporings-indhold ({ $percentage }%)
            *[other] { $count } sporings-indhold ({ $percentage }%)
         }
+    .title = Sporings-indhold
 bar-tooltip-fingerprinter =
-    .title = Fingerprinters
     .aria-label =
         { $count ->
             [one] { $count } fingerprinter ({ $percentage }%)
            *[other] { $count } fingerprinters ({ $percentage }%)
         }
+    .title = Fingerprinters
 bar-tooltip-cryptominer =
-    .title = Cryptominers
     .aria-label =
         { $count ->
             [one] { $count } cryptominer ({ $percentage }%)
            *[other] { $count } cryptominers ({ $percentage }%)
         }
+    .title = Cryptominers
 # Privacy Metrics Card
 privacy-metrics-title = Privatlivs-beskyttelse
 # Variables:
@@ -243,6 +243,7 @@ privacy-metrics-private-window = { -brand-short-name } fortsætter med at bloker
 
 ## VPN promo card and banner
 
+protections-vpn-header-content = Beskyt hele din enhed med { -mozilla-vpn-brand-name }. Et enkelt tryk krypterer al trafik og skjuler din placering.
 protections-get-vpn-link = Få { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Abonnerer
 protections-vpn-banner-link = Få { -mozilla-vpn-brand-name }

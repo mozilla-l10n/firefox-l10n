@@ -19,6 +19,7 @@ appmenu-nova-update-title = Genstart for at opdatere { -brand-short-name }
 appmenu-nova-fxa-sign-in = Log ind
 appmenu-nova-switch-device-promo =
     .message = Skal du snart have en ny enhed? Tag { -brand-short-name } med dig!
+appmenu-nova-switch-device-link = Sådan overfører du dine data
 appmenuitem-new-tab =
     .label = Nyt faneblad
 appmenuitem-new-window =
@@ -53,6 +54,9 @@ appmenuitem-referrals =
     .label = Del { -brand-product-name }
 appmenuitem-more-tools =
     .label = Flere værktøjer
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Hjælp og rapporter
 appmenuitem-help =
     .label = Hjælp
 appmenuitem-exit2 =
@@ -62,11 +66,11 @@ appmenuitem-exit2 =
            *[other] Afslut
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Åbn program-menu
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Luk program-menu
     .label = { -brand-short-name }
+    .tooltiptext = Luk program-menu
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -113,6 +117,9 @@ appmenuitem-fxa-sign-in = Log ind på { -brand-product-name }
 appmenuitem-fxa-manage-account = Håndter konto
 fxa-menu-sync-status-on = Synkronisering er slået til
 fxa-menu-sync-status-off = Synkronisering er slået fra
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Synkroniser dine data
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Dine data synkroniseres ikke
@@ -141,6 +148,8 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Alle enheder
+fxa-menu-get-firefox-mobile =
+    .label = Hent { -brand-product-name } til Android eller iOS
 fxa-menu-secure-sync-subpanel =
     .title = Sikker synkronisering
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -224,16 +233,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Anbefalet forhåndsindstilling med lavt overhead for generel debugging af web-apps.
 profiler-popup-presets-web-developer-label =
     .label = Webudvikler
@@ -308,6 +307,16 @@ appmenu-help-header =
 appmenu-about =
     .label = Om { -brand-shorter-name }
     .accesskey = O
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Del { -brand-product-name }
+    .accesskey = e
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Del { -brand-shorter-name }
+    .accesskey = e
 appmenu-get-help =
     .label = Få hjælp
     .accesskey = h
@@ -321,6 +330,9 @@ appmenu-help-share-ideas =
     .accesskey = D
 appmenu-help-switch-device =
     .label = Skifte til en ny enhed
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Hjælp og rapporter
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -367,6 +379,8 @@ appmenuitem-relay-title-signed-in = Vis mail-masker
 appmenuitem-relay-description = Skjul din rigtige mailadresse og dit telefonnummer
 appmenuitem-services-relay-description = Vis oversigt over mail-masker
 appmenuitem-vpn-title2 = Skjul din placering med { -mozilla-vpn-brand-name }
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Hent { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få beskyttelse af hele din enhed
 appmenuitem-vpn-description = Beskyt din aktivitet på nettet
@@ -398,6 +412,8 @@ fxa-menu-create-profile-confirm =
     .label = Opret ny profil
 fxa-menu-create-profile-learn-more =
     .label = Hvad er profiler?
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Del { -brand-product-name }
 appmenu-profiles-2 =
     .label = Profiler
 appmenu-profiles-header = Profiler

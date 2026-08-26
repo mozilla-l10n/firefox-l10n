@@ -140,6 +140,7 @@ taskbar-tabs-value-prop-callout-subtitle = Åbn det i sit eget vindue med en for
 ## usual browser tabs and toolbars.
 
 taskbar-tabs-email-callout-title-v3 = Få adgang til din indbakke i proceslinjen
+taskbar-tabs-email-callout-subtitle-v3 = Få vist dine mail-websteder som en app i et separat vindue beskyttet af { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Fastgør til proceslinjen
 

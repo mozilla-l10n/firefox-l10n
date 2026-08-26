@@ -70,6 +70,7 @@ ipprotection-location-selection-callout-secondary-button = Afvis
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Tag den indbyggede VPN med dig på Android
 ipprotection-android-promo-callout-primary-button = Forstået
 
 ## Panel
@@ -82,11 +83,11 @@ unauthenticated-choose-location-message-1 = Vælg mellem flere placeringer eller
 unauthenticated-get-started = Kom i gang
 unauthenticated-terms-of-service-privacy-notice = Ved at fortsætte accepterer du vores <a data-l10n-name="vpn-terms-of-service">tjenestevilkår</a> og <a data-l10n-name="vpn-privacy-notice">privatlivserklæring</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Brug VPN for dette websted
     .aria-label = VPN er slået til for dette websted
-site-exclusion-toggle-disabled-1 =
     .label = Brug VPN for dette websted
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN er slået fra for dette websted
+    .label = Brug VPN for dette websted
 site-exclusion-toggle-description = Virker siden ikke? Prøv at slå VPN fra.
 ipprotection-settings-link =
     .label = Indstillinger
@@ -199,11 +200,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Du løber snart 
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Indbygget VPN til bedre beskyttelse af dit privatliv på internettet, når du bruger { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Indbygget VPN
     .description = Få et bedre beskyttet privatliv ved at skjule din placering, når du bruger nettet.
+    .label = Indbygget VPN
 ip-protection-learn-more = Læs mere
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -214,12 +215,12 @@ ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Håndter indstillinger for websteder
     .description =
         { $count ->
             [one] { $count } websted
            *[other] { $count } websteder
         }
+    .label = Håndter indstillinger for websteder
 ip-protection-autostart =
     .label = Slå VPN til automatisk
 ip-protection-autostart-checkbox =
@@ -227,11 +228,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = I private vinduer
 ip-protection-vpn-upgrade-link =
-    .label = Få endnu mere beskyttelse udenfor { -brand-short-name } med { -mozilla-vpn-brand-name }
     .description = Vælg tilpassede VPN-placeringer og føj beskyttelse til for alle dine apps på op til fem enheder, uanset om du er derhjemme eller på et offentligt wi-fi.
+    .label = Få endnu mere beskyttelse udenfor { -brand-short-name } med { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Få endnu bedre beskyttelse med { -mozilla-vpn-brand-name }
     .description = Vælg mellem mere end 300 placeringer og beskyt alle dine apps på op til fem enheder.
+    .label = Få endnu bedre beskyttelse med { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

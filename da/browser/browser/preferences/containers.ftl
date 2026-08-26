@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Tilføj ny kontekst
     .style = min-width: 33em
+    .title = Tilføj ny kontekst
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Indstillinger for konteksten { $name }
     .style = min-width: 45em
+    .title = Indstillinger for konteksten { $name }
 containers-window-close =
     .key = w
 containers-name-label2 =
@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Ikon
 containers-color-label2 =
     .label = Farve
+containers-dialog2 =
+    .buttonlabelaccept = Gem
+    .buttonaccesskeyaccept = G
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,16 +33,16 @@ containers-color-label2 =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Navn
-    .accesskey = N
     .style = { -containers-labels-style }
+    .accesskey = N
 containers-name-text =
     .placeholder = Indtast et navn til konteksten
 containers-icon-label = Ikon
+    .style = { -containers-labels-style }
     .accesskey = I
-    .style = { -containers-labels-style }
 containers-color-label = Farve
-    .accesskey = a
     .style = { -containers-labels-style }
+    .accesskey = a
 containers-dialog =
     .buttonlabelaccept = Færdig
     .buttonaccesskeyaccept = F
@@ -90,13 +93,32 @@ containers-icon-tree =
 containers-icon-chill =
     .label = Afslapning
 containers-window-new3 =
-    .title = Tilføj ny kontekst
     .style = min-width: 32em
+    .title = Tilføj ny kontekst
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings3 =
-    .title = Indstillinger for konteksten { $name }
     .style = min-width: 32em
+    .title = Indstillinger for konteksten { $name }
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Tilføj websted
+containers-site-label =
+    .label = Websted
+    .placeholder = eksempel.dk
+containers-site-container-label =
+    .label = Kontekst
+containers-site-dialog =
+    .buttonlabelaccept = Gem
+    .buttonaccesskeyaccept = G
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Indtast et gyldigt og sikkert websted
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Dette websted er allerede på din liste
 
 ## Container creation panel, anchored to the URL bar.
 
