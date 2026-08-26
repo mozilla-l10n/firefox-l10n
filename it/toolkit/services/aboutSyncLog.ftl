@@ -55,7 +55,7 @@ about-sync-log-badge-error = Errore
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").
 about-sync-log-row-size = { $value } { $unit }
-about-sync-log-empty = Non è stata registrata alcuna attività di sincronizzazione.
+about-sync-log-empty = Non è stato trovato alcun registro di sincronizzazione.
 about-sync-log-empty-filtered = Nessun registro corrisponde ai filtri attuali.
 
 ## Inline viewer
@@ -76,4 +76,3 @@ about-sync-log-clear-confirm-message =
        *[other] Questa operazione eliminerà definitivamente { $count } file di registro visualizzati.
     }
 about-sync-log-clear-confirm-accept = Elimina
-
