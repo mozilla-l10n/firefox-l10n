@@ -92,7 +92,7 @@ about-telemetry-telemetry-ping-type-all = visi
 about-telemetry-histogram-copy = Kopēt
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Lēnie SQL vaicājumi galvenajā pavedienā
-about-telemetry-slow-sql-other = Lēnie SQL vaicājumi papildus pavedienos
+about-telemetry-slow-sql-other = Lēni SQL vaicājumi palīgpavedienos
 about-telemetry-slow-sql-hits = Skaits
 about-telemetry-slow-sql-average = Vid. laiks (ms)
 about-telemetry-slow-sql-statement = Vaicājums

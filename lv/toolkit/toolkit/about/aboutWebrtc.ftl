@@ -58,7 +58,7 @@ about-webrtc-ice-restart-count-label = ICE pārstartēšanas:
 about-webrtc-ice-rollback-count-label = ICE atgriešanas:
 about-webrtc-ice-pair-bytes-sent = Nosūtītie baiti:
 about-webrtc-ice-pair-bytes-received = Saņemtie baiti:
-about-webrtc-ice-component-id = Komponenta ID
+about-webrtc-ice-component-id = Sastāvdaļas ID
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
