@@ -27,6 +27,9 @@ about-sync-log-filter-date-7days =
     .label = Zańdźene 7 dnjow
 about-sync-log-filter-date-30days =
     .label = Zańdźenych 30 dnjow
+about-sync-log-search-input =
+    .aria-label = Protokole přepytać
+    .placeholder = Protokole přepytać
 
 ## Toolbar actions
 
