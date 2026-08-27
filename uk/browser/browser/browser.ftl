@@ -212,6 +212,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Керувати { -firefox-suggest
 urlbar-result-menu-report-inaccurate-location2 = Повідомити про неточне розташування
 urlbar-result-menu-show-less-frequently2 = Показувати рідше
 urlbar-result-menu-dont-show-weather-suggestions2 = Не показувати пропозиції погоди
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Відхилити цю пропозицію
+    .accesskey = В
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Вилучити з історії
+    .accesskey = В
 urlbar-result-menu-learn-more =
     .label = Докладніше
     .accesskey = о
@@ -402,6 +412,9 @@ quickactions-addons = Переглянути додатки
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = розширення, теми, додатки, доповнення
+# Opens preferences page at AI controls
+quickactions-manageai = Керувати ШІ
+quickactions-cmd-manageai = вимкнути ші, прибрати ші, керувати ші, налаштувати ші, вимкнення ші, керування ші, налаштування ші
 quickactions-cmd-addons2 = додатки
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Керувати закладками
@@ -457,6 +470,9 @@ quickactions-cmd-print = друк
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Зберегти сторінку як PDF
 quickactions-cmd-savepdf2 = pdf, зберегти сторінку
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Відкрити PDF-редактор
+quickactions-cmd-editpdf = pdf, пдф
 # Opens a new private browsing window
 quickactions-private2 = Відкрити приватне вікно
 quickactions-cmd-private = приватний перегляд
@@ -575,6 +591,7 @@ identity-clear-site-data =
     .label = Стерти файли cookie та дані сайту…
 identity-connection-not-secure-security-view = Ваше з'єднання з цим сайтом не захищене.
 identity-connection-verified = Ваше з'єднання з цим сайтом захищене.
+identity-verifier-label2 = Засвідчено
 identity-ev-owner-label = Сертифікат виданий:
 identity-verifier-label = Засвідчено:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -891,6 +908,68 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсоровано
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Запитати
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Ви востаннє відвідували { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Ви востаннє відвідували { $daysAgo } день тому
+        [few] Ви востаннє відвідували { $daysAgo } дні тому
+       *[many] Ви востаннє відвідували { $daysAgo } днів тому
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Ви востаннє відвідували { $weeksAgo } тиждень тому
+        [few] Ви востаннє відвідували { $weeksAgo } тижні тому
+       *[many] Ви востаннє відвідували { $weeksAgo } тижнів тому
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Ви востаннє відвідували { $monthsAgo } місяць тому
+        [few] Ви востаннє відвідували { $monthsAgo } місяці тому
+       *[many] Ви востаннє відвідували { $monthsAgo } місяців тому
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Ви востаннє відвідували { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Додано до закладок { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Востаннє відвідано { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Востаннє відвідано { $date }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Востаннє відвідано { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1019,6 +1098,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Пошук за ключовими словами вимкнено
 urlbar-searchmode-dropmarker2 =
     .title = Вибрати пошукову систему
+urlbar-searchmode-bookmarks3 = Закладки
+    .accesskey = З
+urlbar-searchmode-tabs3 = Вкладки
+    .accesskey = В
+urlbar-searchmode-history3 = Історія
+    .accesskey = І
+urlbar-searchmode-actions3 = Дії
+    .accesskey = і
 urlbar-searchmode-exit-button2 =
     .title = Закрити
 urlbar-searchmode-default2 =
@@ -1034,6 +1121,10 @@ urlbar-searchmode-popup-one-off-header = Цього разу шукати з:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Шукати з:
+urlbar-searchmode-popup-search-settings = Налаштування пошуку
+    .accesskey = Н
+urlbar-searchmode-popup-settings = Налаштування
+    .accesskey = Н
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1055,6 +1146,9 @@ urlbar-result-action-open-saved-tabgroup = Відкрити { $group }
 urlbar-view-context-menu-open-in-tab =
     .label = Відкрити в новій вкладці
     .accesskey = н
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Відкрити в новій вкладці контейнера
+    .accesskey = В
 urlbar-view-context-menu-open-in-window =
     .label = Відкрити в новому вікні
     .accesskey = н
@@ -1284,6 +1378,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Синхронізовані вкладки
     .tooltiptext = Показати вкладки з інших пристроїв
+toolbar-button-send-tab =
+    .label = Надіслати вкладку
+    .tooltiptext = Надіслати поточну вкладку на інший пристрій
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1292,6 +1389,17 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Поділитися
     .tooltiptext = Поділитися цією сторінкою
+toolbar-button-tab-groups =
+    .label = Групи вкладок
+    .tooltiptext = Показати групи вкладок
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
@@ -1315,6 +1423,18 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = Більше…
+menu-share-windows =
+    .label = Інші варіанти
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Копіювати посилання
+            [few] Копіювати { $count } посилання
+           *[many] Копіювати { $count } посилань
+        }
+    .accesskey = К
 menu-share-copy-link =
     .label = Копіювати посилання
     .accesskey = К
@@ -1418,6 +1538,11 @@ private-browsing-indicator-label = Приватний перегляд
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Приватний перегляд
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Інформація про приватний перегляд
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Ви у приватному вікні
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1466,6 +1591,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Завершити приватний сеанс
     .tooltiptext = Завершити приватний сеанс
+reset-pbm-panel-heading2 = Стерти дані та почати новий приватний сеанс?
 reset-pbm-panel-heading = Завершити приватний сеанс?
 reset-pbm-panel-description = Закрити всі приватні вкладки й видалити історію, файли cookie та всі інші дані сайтів.
 reset-pbm-panel-always-ask-checkbox =
@@ -1474,10 +1600,16 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Скасувати
     .accesskey = С
+reset-pbm-panel-confirm-button2 =
+    .label = Стерти приватний сеанс
+    .accesskey = п
 reset-pbm-panel-confirm-button =
     .label = Видалити дані сеансу
     .accesskey = В
 reset-pbm-panel-complete = Дані приватного сеансу видалено
+reset-pbm-toolbar-button2 =
+    .label = Стерти приватний сеанс
+    .tooltiptext = Стерти приватний сеанс
 
 ## Autorefresh blocker
 
@@ -1633,6 +1765,15 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Не захищено
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] Заблоковано { $count } елемент стеження
+        [few] Заблоковано { $count } елементи стеження
+       *[many] Заблоковано { $count } елементів стеження
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1731,9 +1872,20 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[many] { -brand-product-name } дозволив { $count } криптомайнерів
     }
 trustpanel-cryptominer-tab-list-header = Ці сайти намагаються використовувати ваш комп'ютер для криптомайнингу:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Маєте обліковий запис на цьому сайті?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Відхилити
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Розпочати безплатне сканування
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> елемент стеження заблоковано на цьому сайті
         [few] <span data-l10n-name="count">{ $count }</span> елементи стеження заблоковано на цьому сайті
        *[many] <span data-l10n-name="count">{ $count }</span> елементів стеження заблоковано на цьому сайті
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Перезавантажити
+    .accesskey = П
+reduced-protection-infobar-never-show-button = Більше не показувати
+    .accesskey = Б
