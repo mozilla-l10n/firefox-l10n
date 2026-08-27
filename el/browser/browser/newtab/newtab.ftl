@@ -211,6 +211,7 @@ newtab-privacy-empty = Το { -brand-short-name } αποκλείει ιχνηλ�
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
 newtab-privacy-etp-off-faster-browsing = Ταχύτερη περιήγηση. Λιγότεροι ιχνηλάτες.
+newtab-privacy-etp-off-turn-on-tracking = Ενεργοποιήστε την προστασία από καταγραφή στις ρυθμίσεις για έναρξη αποκλεισμού.
 
 ## Privacy widget — informational messages
 ##
