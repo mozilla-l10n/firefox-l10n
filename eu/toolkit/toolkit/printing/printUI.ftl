@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopiak
 printui-orientation = Orientazioa
+printui-orientation-control =
+    .aria-label = Orientazioa
+printui-landscape-2 =
+    .label = Horizontala
+    .title = Horizontala
+printui-portrait-2 =
+    .label = Bertikala
+    .title = Bertikala
 printui-landscape = Horizontala
 printui-portrait = Bertikala
 # Section title for the printer or destination device to target
