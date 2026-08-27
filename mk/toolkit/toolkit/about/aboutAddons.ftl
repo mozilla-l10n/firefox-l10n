@@ -435,6 +435,39 @@ addon-detail-quarantined-domains-disallow = Не дозволувај
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
 
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+addon-badge-recommended2 =
+    .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } препорачува само проширувања што ги исполнуваат нашите стандарди за безбедност и перформанси
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .aria-label = { addon-badge-line3.title }
+    .title = Официјално проширување изградено од Mozilla. Ги исполнува стандардите за безбедност и перформанси.
+addon-badge-verified2 =
+    .aria-label = { addon-badge-verified2.title }
+    .title = Ова проширување е прегледано за да ги исполни нашите стандарди за безбедност и перформанси.
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Официјално проширување изградено од Mozilla. Ги исполнува стандардите за безбедност и перформанси.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Ова проширување е прегледано за да ги исполни стандардите за безбедност и перформанси.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox препорачува само проширувања што ги исполнуваат стандардите за безбедност и перформанси
+
 ##
 
 available-updates-heading = Достапни ажурирања
@@ -442,8 +475,19 @@ recent-updates-heading = Скорешни ажурирања
 release-notes-loading = Се вчитува…
 release-notes-error = Извинете, но имаше грешка при вчитувањето на белешките за изданието.
 addon-permissions-heading = Дозволи
+addon-permissions-empty2 = Ова проширување не бара никакви дозволи.
 addon-permissions-required-label = Задолжително:
 addon-permissions-optional-label = Опционално:
+addon-permissions-empty = Ова проширување не бара никакви дозволи.
+addon-permissions-required = Потребни дозволи за основна функционалност:
+addon-permissions-optional = Дополнителни дозволи за дополнителна функционалност:
+addon-permissions-learnmore = Дознајте повеќе за дозволите
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Некои дозволи ги управува вашата организација.
+recommended-extensions-heading = Препорачани проширувања
+recommended-themes-heading = Препорачани теми
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Се чувствувате креативно? <a data-l10n-name="link"> Создате сопствена тема со Firefox Color. </a>
