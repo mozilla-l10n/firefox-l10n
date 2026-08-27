@@ -27,6 +27,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Копіі
 printui-orientation = Арыентацыя
+printui-orientation-control =
+    .aria-label = Арыентацыя
+printui-landscape-2 =
+    .label = Альбомная
+    .title = Альбомная
+printui-portrait-2 =
+    .label = Кніжная
+    .title = Кніжная
 printui-landscape = Альбомная
 printui-portrait = Кніжная
 # Section title for the printer or destination device to target
