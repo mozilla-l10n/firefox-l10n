@@ -25,6 +25,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Mga kopya
 printui-orientation = Orientasyon:
+printui-orientation-control =
+    .aria-label = Orientasyon:
+printui-landscape-2 =
+    .label = Pahiga
+    .title = Pahiga
+printui-portrait-2 =
+    .label = Patayo
+    .title = Patayo
 printui-landscape = Pahiga
 printui-portrait = Patayo
 # Section title for the printer or destination device to target
