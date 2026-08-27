@@ -25,6 +25,12 @@ printui-page-custom-range-input =
     .placeholder = जस्तै: 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = प्रतिलिपिहरू
+printui-landscape-2 =
+    .label = परिदृश्य
+    .title = परिदृश्य
+printui-portrait-2 =
+    .label = ठाडो
+    .title = ठाडो
 printui-landscape = परिदृश्य
 printui-portrait = ठाडो
 # Section title for the printer or destination device to target
@@ -42,3 +48,12 @@ printui-backgrounds-checkbox = पृष्ठभूमिहरू छाप्
 
 # The section title.
 printui-source-label = ढाँचा
+
+##
+
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
+
+## Error messages shown when a user has an invalid input
+
