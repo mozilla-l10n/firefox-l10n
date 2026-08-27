@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopije
 printui-orientation = Ôriyntacyjo
+printui-orientation-control =
+    .aria-label = Ôriyntacyjo
+printui-landscape-2 =
+    .label = Poziōmo
+    .title = Poziōmo
+printui-portrait-2 =
+    .label = Piōnowo
+    .title = Piōnowo
 printui-landscape = Poziōmo
 printui-portrait = Piōnowo
 # Section title for the printer or destination device to target
