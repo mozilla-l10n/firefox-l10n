@@ -22,6 +22,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = 部数
 printui-orientation = 用紙の向き
+printui-orientation-control =
+    .aria-label = 用紙の向き
+printui-landscape-2 =
+    .label = 横
+    .title = 横
+printui-portrait-2 =
+    .label = 縦
+    .title = 縦
 printui-landscape = 横
 printui-portrait = 縦
 # Section title for the printer or destination device to target
@@ -100,7 +108,6 @@ printui-print-progress-indicator = 印刷中...
 printui-print-progress-indicator-saving = 保存中...
 
 ## Paper sizes that may be supported by the Save to PDF destination:
-## (^m^) /widget/nsPrinterListBase.cpp (Bug 1659781)
 
 printui-paper-a5 = A5
 printui-paper-a4 = A4
