@@ -20,6 +20,14 @@ printui-page-range-picker =
 # Section title for the number of copies to print
 printui-copies-label = Copias
 printui-orientation = Orientación
+printui-orientation-control =
+    .aria-label = Orientación
+printui-landscape-2 =
+    .label = Horizontal
+    .title = Horizontal
+printui-portrait-2 =
+    .label = Vertical
+    .title = Vertical
 printui-landscape = Horizontal
 printui-portrait = Vertical
 # Section title for the printer or destination device to target
@@ -37,6 +45,11 @@ printui-scale-pcent = Escala
 printui-options = Opcions
 printui-headers-footers-checkbox = Imprentar los capiters y los pietz de pachina
 printui-backgrounds-checkbox = Imprentar los fondos
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
 
 ##
 
