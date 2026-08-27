@@ -1243,6 +1243,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Επιλογή θεματικής ενότητας για κάθε νέα καρτέλα
     .accesskey = Ε
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Να μην χρησιμοποιούνται θεματικές ενότητες για συνδέσμους που ανοίγουν από εξωτερικές εφαρμογές
+    .accesskey = Ν
 containers-new-tab-check2 =
     .description = Το μενού θεματικών ενοτήτων θα ανοίγει κάθε φορά που επιλέγετε το κουμπί ανοίγματος νέας καρτέλας.
     .label = Επιλογή θεματικής ενότητας για κάθε νέα καρτέλα
@@ -1251,9 +1257,16 @@ containers-settings-button2 =
     .title = Ρυθμίσεις
 containers-remove-button3 =
     .title = Διαγραφή
+containers-sites-card-header =
+    .description = Επιλέξτε μια θεματική ενότητα για έναν ιστότοπο και το { -brand-short-name } θα τη χρησιμοποιεί κάθε φορά που ανοίγει ο ιστότοπος.
+    .label = Θεματικές ενότητες για συγκεκριμένους ιστοτόπους
 containers-sites-add-button =
     .label = Προσθήκη ιστοτόπου
     .accesskey = ι
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Θεματική ενότητα για το { $site }
 containers-site-remove-button =
     .title = Διαγραφή
 containers-remove-button2 =

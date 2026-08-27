@@ -392,6 +392,7 @@ appmenuitem-relay-title-signed-in = Προβολή μασκών email
 appmenuitem-relay-description = Αποκρύψτε το πραγματικό email και το τηλέφωνό σας
 appmenuitem-services-relay-description = Εκκίνηση πίνακα μασκών email
 appmenuitem-vpn-title2 = Αποκρύψτε την τοποθεσία σας με το { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Αποκτήστε επιπλέον προστασία σε όλες τις συσκευές
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Λήψη του { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description3 = Κάντε πιο δύσκολη την καταγραφή της περιήγησής σας
