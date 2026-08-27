@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Ñadu'ua
 printui-orientation = Dàj ginùj
+printui-orientation-control =
+    .aria-label = Dàj ginùj
+printui-landscape-2 =
+    .label = Dàj huaj
+    .title = Dàj huaj
+printui-portrait-2 =
+    .label = Ñadu'ua
+    .title = Ñadu'ua
 printui-landscape = Dàj huaj
 printui-portrait = Ñadu'ua
 # Section title for the printer or destination device to target
