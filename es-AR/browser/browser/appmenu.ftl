@@ -19,7 +19,7 @@ appmenu-nova-update-title = Reiniciar para actualizar { -brand-short-name }
 appmenu-nova-update-description = Las pestañas se volverán a abrir.
 appmenu-nova-fxa-sign-in = Iniciar sesión
 appmenu-nova-switch-device-promo =
-    .message = ¿Nuevo dispositivo pronto? ¡Llevate { -brand-short-name } con vos!
+    .message = ¿Tendrá un nuevo dispositivo pronto? ¡Lleve a { -brand-short-name } con usted!
 appmenu-nova-switch-device-link = Cómo migrar los datos
 appmenuitem-new-tab =
     .label = Nueva pestaña
@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Salir
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Abrir menú de aplicación
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Cerrar menú de aplicación
     .label = { -brand-short-name }
+    .tooltiptext = Cerrar menú de aplicación
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -234,16 +234,6 @@ profiler-button-dropmarker =
 
 ## Profiler presets
 ## They are shown in the popup's select box.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Configuración recomendada para depuración de la mayoría de aplicaciones web, con poca sobrecarga.
 profiler-popup-presets-web-developer-label =
