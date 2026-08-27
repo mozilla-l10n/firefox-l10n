@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Օրինակներ
 printui-orientation = Դիրքավորում
+printui-orientation-control =
+    .aria-label = Դիրքավորում
+printui-landscape-2 =
+    .label = Ալբոմային
+    .title = Ալբոմային
+printui-portrait-2 =
+    .label = Գրքային
+    .title = Գրքային
 printui-landscape = Ալբոմային
 printui-portrait = Գրքային
 # Section title for the printer or destination device to target
@@ -85,3 +93,9 @@ printui-pages-per-sheet = Էջեր թերթում
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Տպում է…
 printui-print-progress-indicator-saving = Պահում է...
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
+
+## Error messages shown when a user has an invalid input
+
