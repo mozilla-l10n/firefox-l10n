@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Провери за надградби
-    .accesskey = н
     .tooltiptext = Провери за надградби на овој додаток
+    .accesskey = н
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Опции
            *[other] Поставки
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] О
-           *[other] р
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Промени ги опциите на овој додаток
            *[other] Промени ги параметрите на овој додаток
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] О
+           *[other] р
         }
 detail-rating =
     .value = Рејтинг
@@ -178,10 +178,6 @@ addon-updates-check-for-updates = Провери за надградби
     .accesskey = П
 addon-updates-view-updates = Прегледај неодамнешни надградби
     .accesskey = н
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Автоматски надградувај ги додатоците
     .accesskey = А
 
@@ -290,6 +286,10 @@ colorway-removal-notice-message =
         местото со додадоци.
 colorway-removal-notice-learn-more = Дознајте повеќе
 colorway-removal-notice-button = Земи ажурирани теми со бои
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Поставките за контраст на Windows ги заменуваат темите на { -brand-short-name }. Исклучете ги овие поставки за да користите теми во { -brand-short-name }.
 privacy-policy = Политика за приватност
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -310,6 +310,16 @@ find-more-themes = Пронајдете повеќе теми
 # used for screen readers.
 addon-options-button =
     .aria-label = Повеќе опции
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Проширувањата и темите ви овозможуваат да го прилагодите { -brand-product-name }. Тие можат да ја зголемат приватноста,
+    да ја зголемат продуктивноста, да ги подобрат медиумите, да го променат изгледот на { -brand-product-name } и
+    многу повеќе. Овие мали софтверски програми често ги развива трета страна. Еве
+    избор што Firefox го <a data-l10n-name="learn-more-trigger">препорачува</a> за
+    исклучителна безбедност, перформанси и функционалност.
 
 ## Add-on actions
 
@@ -350,6 +360,11 @@ addon-detail-version-label = Верзија
 addon-detail-last-updated-label = Последно ажурирање
 addon-detail-homepage-label = Домашна страница
 addon-detail-rating-label = Оценка
+# Message for add-ons with a staged pending update.
+install-postponed-message = Ова проширување ќе се ажурира кога ќе се рестартира { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Ова проширување ќе се ажурира кога ќе се рестартира { -brand-short-name }.
 install-postponed-button = Ажурирај сега
 # The average rating that the add-on has received.
 # Variables:
@@ -396,8 +411,9 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Дозволено во приванти прозорци
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Дозволено во приванти прозорци
+addon-detail-private-browsing-help = Кога е дозволено, проширувањето ќе има пристап до вашите  активности на интернет додека сурфате приватно. <a data-l10n-name="learn-more">Дознајте повеќе</a>
 addon-detail-private-browsing-allow = Дозволи
 addon-detail-private-browsing-disallow = Не дозволувај
 # aria-label associated to the private browsing row to help screen readers to announce the group
@@ -410,6 +426,8 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Дозволи на сајтови со ограничувања
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Кога е дозволено, проширувањето ќе има пристап до местата ограничени од { -vendor-short-name }. Дозволете само ако му верувате на ова проширување.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Дозволи
 addon-detail-quarantined-domains-disallow = Не дозволувај
