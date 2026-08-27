@@ -73,6 +73,7 @@ policy-HardwareAcceleration = Եթե կեղծ է՝ անջատել սարքի ա�
 policy-Homepage = Սահմանեք և ընտրովի կողպեք տնէջը։
 policy-HttpsOnlyMode = Թույլատրել Միայն HTTPS ռեժիմի միացումը։
 policy-InstallAddonsPermission = Թույլատրել որոշ կայքերին տեղադրել հավելումներ։
+policy-IPProtectionAvailable = Կանխում է ներկառուցված VPN-ի հասանելիությունն օգտատերերի համար։
 policy-LegacyProfiles = Անջատեք առանձնահատկությունը, որն ամրացնում է առանձին պրոֆիլ յուրաքանչյուր տեղադրման համար
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.

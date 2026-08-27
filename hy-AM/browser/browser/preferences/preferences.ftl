@@ -1546,6 +1546,14 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
+privacy-panel-settings-header =
+    .description = Ստացեք օգնություն ձեր տեղեկությունների առցանց պաշտպանության վերաբերյալ { -brand-short-name } կայքում։
+    .label = Գաղտնիության վահանակի կարգավորումներ
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Ցուցադրել խախտման մասին հաղորդագրությունները
+    .accesskey = Ց
 
 ## OS Authentication dialog
 
