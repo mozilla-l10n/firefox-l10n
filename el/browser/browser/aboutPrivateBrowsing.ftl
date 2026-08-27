@@ -60,6 +60,7 @@ about-private-browsing-pin-promo-title = Χωρίς αποθήκευση cookie 
 
 ## Strings used in a promotion message for Firefox Relay
 
+about-private-browsing-relay-promo-header = Αποφύγετε τα ανεπιθύμητα μηνύματα με τις μάσκες email
 about-private-browsing-relay-promo-title = Αποκρύψτε την πραγματική σας διεύθυνση με μια μάσκα email κατά την εγγραφή σε ιστοτόπους, τις αγορές ή την κοινοποίησή της στο διαδίκτυο.
 about-private-browsing-relay-promo-link-text = Δοκιμή μασκών email
 
