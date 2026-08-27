@@ -25,6 +25,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = สำเนา
 printui-orientation = การวางแนว
+printui-orientation-control =
+    .aria-label = การวางแนว
+printui-landscape-2 =
+    .label = แนวนอน
+    .title = แนวนอน
+printui-portrait-2 =
+    .label = แนวตั้ง
+    .title = แนวตั้ง
 printui-landscape = แนวนอน
 printui-portrait = แนวตั้ง
 # Section title for the printer or destination device to target
