@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Eintök
 printui-orientation = Stefna
+printui-orientation-control =
+    .aria-label = Stefna
+printui-landscape-2 =
+    .label = Langsnið
+    .title = Langsnið
+printui-portrait-2 =
+    .label = Skammsnið
+    .title = Skammsnið
 printui-landscape = Langsnið
 printui-portrait = Skammsnið
 # Section title for the printer or destination device to target
