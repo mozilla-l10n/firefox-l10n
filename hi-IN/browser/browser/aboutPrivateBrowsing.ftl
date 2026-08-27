@@ -22,9 +22,6 @@ about-private-browsing-not-private = आप फिलहाल एक निज�
 about-private-browsing-learn-more-link = अधिक जानें
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } के साथ निजी रहें
 about-private-browsing-focus-promo-cta = { -focus-brand-name } डाउनलोड करें
-
-##
-
 about-private-browsing-focus-promo-header-b = अपने फ़ोन में प्राइवेट ब्राउज़िंग करें
 # This string is the title for the banner for search engine selection
 # in a private window.

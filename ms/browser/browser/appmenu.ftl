@@ -64,11 +64,11 @@ appmenuitem-exit2 =
            *[other] Keluar
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Buka Menu Aplikasi
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Tutup Menu Aplikasi
     .label = { -brand-short-name }
+    .tooltiptext = Tutup Menu Aplikasi
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -213,16 +213,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Pratetap yang disyorkan untuk kebanyakan debugging aplikasi web, dengan overhead rendah.
 profiler-popup-presets-web-developer-label =
     .label = Pembangun Web
@@ -342,7 +332,6 @@ appmenuitem-relay-description2 = Membantu mencegah spam dalam peti masuk anda
 appmenuitem-relay-description = Mask e-mel dan telefon sebenar anda
 appmenuitem-services-relay-description = Lancarkan papan pemuka email mask
 appmenuitem-vpn-title2 = Sembunyikan Lokasi Anda dengan { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = Jadikan pelayaran anda lebih sukar dijejaki
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Dapatkan perlindungan seluruh peranti
 appmenuitem-vpn-description = Lindungi aktiviti dalam talian anda

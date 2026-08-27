@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ਨਾਲ ਪ
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ਡਾਊਨਲੋਡ ਕਰੋ
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਤੁਹਾਡੇ ਨਾਲ ਨਾਲ
 about-private-browsing-focus-promo-text = ਸਾਡੀ ਸਮਰਪਿਤ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਬਾਈਲ ਐਪ ਹਰ ਵਾਰ ਤੁਹਾਡੇ ਅਤੀਤ ਅਟੇ ਕੂਕੀਜ਼ ਨੂੰ ਮਿਟਾ ਦਿੰਦੀ ਹੈ।
-
-##
-
 about-private-browsing-focus-promo-header-b = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਨਾਲ ਰੱਖੋ
 about-private-browsing-focus-promo-text-b = ਉਹ ਪ੍ਰਾਈਵੇਟ ਖੋਜਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ ਮੁੱਖ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਨੂੰ ਪਤਾ ਨਾ ਲੱਗਣ, ਲਈ { -focus-brand-name } ਵਰਤੋਂ।
 about-private-browsing-focus-promo-header-c = ਮੋਬਾਈਲ ਉੱਤੇ ਅਗਲੇ ਪੜਾਅ ਦੀ ਪਰਦੇਦਾਰੀ
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = ਮੇਰੀ ਸਰਗਰਮੀ ਨੂ�
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = ਤੁਹਾਡੇ ਸੁਰਾਗ ਮਿਟਾਏ ਗਏ
 about-private-browsing-nova-info-subheader2 = ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੀਆ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਅਸੀ ਹਰ ਖੋਜ ਅਤੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਮਿਟਾ ਦੇਵਾਂਗੇ। { -brand-short-name } ਵਿੱਚ ਮੌਜੂਦ ਸੁਰੱਖਿਆਵਾਂ, ਜਿਵੇਂ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਆਦਿ ਵੀ ਮੌਜੂਦ ਹਨ।
-about-private-browsing-nova-info-subheader = ਜਦੋਂ ਤੁਸੀਂ ਇਸ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਅਸੀ ਹਰ ਖੋਜ ਅਤੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਮਿਟਾ ਦੇਵਾਂਗੇ। { -brand-short-name } ਵਿੱਚ ਮੌਜੂਦ ਸੁਰੱਖਿਆਵਾਂ, ਜਿਵੇਂ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਆਦਿ ਵੀ ਮੌਜੂਦ ਹਨ।

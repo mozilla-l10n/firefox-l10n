@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = ᱥᱟᱡᱟᱣ ᱨᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
+    .style = width: 15.4em
 managed-notice = ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱟᱢ ᱜᱟᱶᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱮᱫᱟᱭ ᱾
 managed-notice-nav =
     .label = ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱟᱢ ᱜᱟᱶᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱮᱫᱟᱭ ᱾
@@ -610,9 +610,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
 home-prefs-shortcuts-by-option-sponsored =
     .label = ᱠᱟᱹᱢᱤᱼᱤᱡ ᱠᱷᱟᱴᱚ ᱢᱟᱪᱷᱟ ᱠᱚ
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } ᱨᱮᱭᱟᱜ ᱵᱟᱛᱟᱣᱟᱜ
 home-prefs-recommended-by-description-new = { $provider }, ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱸᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱠᱟᱱᱟ
@@ -763,8 +760,8 @@ sync-mobile-promo = ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱚᱱ ᱨᱮ
 sync-profile-picture =
     .tooltiptext = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱢᱚᱦᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱢᱮ
 sync-profile-picture-with-alt =
-    .tooltiptext = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱢᱚᱦᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱢᱮ
     .alt = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱢᱚᱦᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱢᱮ
+    .tooltiptext = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱢᱚᱦᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱢᱮ
 sync-sign-out =
     .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ…
     .accesskey = g
@@ -809,8 +806,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = ᱟᱢᱟᱜ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟ, ᱦᱤᱛᱟᱹᱞ, ᱪᱮᱵᱽᱠᱚ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱚ, ᱮᱰ-ᱚᱱ ᱟᱨ ᱥᱟᱡᱟᱣ ᱠᱚ ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱭᱩᱨ ᱢᱤᱫ ᱢᱮ ᱾
 prefs-sync-now =
     .labelnotsyncing = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
-    .accesskeynotsyncing = N
     .labelsyncing = ᱥᱭᱝᱠᱚᱜ ᱠᱟᱱᱟ…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
     .accesskey = N
@@ -841,12 +838,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = ᱚᱠᱟ ᱥᱭᱝᱠ ᱨᱮᱭᱟᱜ ᱛᱟᱦᱮᱸᱱᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-    .style = min-width: 36em;
     .buttonlabelaccept = ᱵᱚᱫᱚᱞᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = ᱡᱩᱲᱟᱹᱣ ᱨᱟᱹᱯᱩᱫ ᱮᱱᱟ…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = ᱚᱠᱟ ᱥᱭᱝᱠ ᱨᱮᱭᱟᱜ ᱛᱟᱦᱮᱸᱱᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 sync-choose-dialog-subtitle = ᱡᱤᱱᱤᱥ ᱠᱚ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴ ᱨᱮ ᱵᱚᱫᱚᱞ ᱠᱚ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱫᱚ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱧᱮᱞᱚᱜᱚᱜᱼᱟ ᱾
 sync-engine-bookmarks =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
@@ -1161,9 +1158,6 @@ content-blocking-all-windows-tracking-content = ᱡᱷᱚᱛᱚ ᱣᱤᱱᱰᱚ 
 content-blocking-all-cross-site-cookies = ᱡᱷᱚᱛᱚ ᱥᱟᱭᱤᱨᱼᱵᱟᱨᱯᱟᱦᱴᱟ ᱠᱩᱠᱤᱡᱽ ᱠᱚ
 content-blocking-cryptominers = ᱠᱨᱭᱯᱴᱚᱢᱟᱭᱱᱟᱹᱨ
 content-blocking-fingerprinters = ᱴᱤᱯᱟᱹᱪᱷᱟᱯᱠᱚ ᱟᱜ
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ᱢᱩᱴ ᱠᱩᱠᱤ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚ ᱡᱟᱦᱟᱸ ᱥᱟᱭᱤᱴ ᱨᱮ ᱢᱮᱱᱟᱢᱟᱸ ᱚᱱᱰᱮ ᱠᱚ ᱛᱟᱦᱮᱸᱱᱟ,ᱢᱮᱱᱠᱷᱟᱱ ᱯᱟᱧᱡᱟᱤᱭᱟᱹ ᱡᱮᱞᱠᱟ ᱟᱢ ᱵᱟᱠᱚ ᱯᱟᱧᱡᱟ ᱫᱟᱲᱮ ᱢᱮᱭᱟ ᱠᱚ ᱾
 content-blocking-etp-standard-tcp-rollout-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
@@ -1263,8 +1257,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
-    .accesskey = E
     .searchkeywords = ᱴᱚᱴᱠᱟ ᱠᱚ
+    .accesskey = E
 permissions-addon-install-warning =
     .label = ᱡᱩᱫᱤ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱮᱰ-ᱳᱱ ᱤᱱᱥᱴᱚᱞ ᱠᱷᱟᱱ ᱠᱷᱚᱵᱚᱨᱟᱢᱟ ᱠᱚ
     .accesskey = W

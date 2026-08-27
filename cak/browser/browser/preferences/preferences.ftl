@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Tikanöx pa Runuk'ulem
+    .style = width: 15.4em
 managed-notice = Ri awokik'amaya'l ninuk'samajiïx ruma ri amoloj.
 managed-notice-nav =
     .label = Ri awokik'amaya'l ninuk'samajiïx ruma ri amoloj.
@@ -572,9 +572,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Taq ruxaq xe'ayäk o xe'atz'ët
 home-prefs-shortcuts-by-option-sponsored =
     .label = Xto' chojmin okem
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Chilab'en ruma { $provider }
 home-prefs-recommended-by-description-new = Cha'on rupam cha'on ruma { $provider }, rach'ala'ïl { -brand-product-name }
@@ -719,8 +716,8 @@ sync-mobile-promo = Taqasaj Firefox richin <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
 sync-profile-picture-with-alt =
-    .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
     .alt = Tijal ruwachib'al ruwäch b'i'aj
+    .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
 sync-sign-out =
     .label = Titz'apïx Molojri'ïl…
     .accesskey = p
@@ -765,8 +762,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq runuk'ulem chi kikojol konojel ri taq awokisaxel.
 prefs-sync-now =
     .labelnotsyncing = Tixim Wakami
-    .accesskeynotsyncing = W
     .labelsyncing = Nixim…
+    .accesskeynotsyncing = W
 prefs-sync-now-button =
     .label = Tixim Wakami
     .accesskey = W
@@ -796,12 +793,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Tacha' Achike Naxïm
-    .style = min-width: 36em;
     .buttonlabelaccept = Keyak Jaloj
-    .buttonaccesskeyaccept = K
     .buttonlabelextra2 = Nichup…
+    .buttonaccesskeyaccept = K
     .buttonaccesskeyextra2 = c
+    .style = min-width: 36em;
+    .title = Tacha' Achike Naxïm
 sync-engine-bookmarks =
     .label = Taq yaketal
     .accesskey = e
@@ -1112,9 +1109,6 @@ content-blocking-all-windows-tracking-content = Rojqaxik rupam pa ronojel tzuwä
 content-blocking-all-cross-site-cookies = Ronojel Kikuki xoch'in taq ruxaq
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-etp-standard-tcp-rollout-learn-more = Tetamäx ch'aqa' chik
 content-blocking-warning-title = ¡Tak'axäx!
 content-blocking-and-isolating-etp-warning-description-2 = Re nuk'ulem re' nitikïr nub'än chi jujun ajk'amaya'l taq ruxaq man nikik'üt ta pe ri rupam o man ütz ta yesamäj jun ruxaq achi'el qupin, rik'in jub'a' nawajo' nachüp ri chajinïk chuwäch ojqanem richin nusamajij ronojel ri rupam.
@@ -1199,8 +1193,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Taq man relik ta…
-    .accesskey = m
     .searchkeywords = elenel
+    .accesskey = m
 permissions-addon-install-warning =
     .label = Taya' rutzijol jampe' toq ri ruxaq ajk'amaya'l nrajo' yeruyäk taq tz'aqat
     .accesskey = T

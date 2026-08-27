@@ -22,9 +22,6 @@ about-private-browsing-not-private = Sto chi o no l'é 'n barcon privòu.
 about-private-browsing-learn-more-link = Atre informaçioin
 about-private-browsing-focus-promo-cta = Scarega { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navegaçion anònima donde se segge
-
-##
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

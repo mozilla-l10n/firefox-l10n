@@ -385,9 +385,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Yeny me kakube
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Lami tam obedo { $provider }
 
@@ -497,8 +494,8 @@ sync-mobile-promo = Gam Firefox pi <img data-l10n-name="android-icon"/> <a data-
 sync-profile-picture =
     .tooltiptext = Lok cal me propwail
 sync-profile-picture-with-alt =
-    .tooltiptext = Lok cal me propwail
     .alt = Lok cal me propwail
+    .tooltiptext = Lok cal me propwail
 sync-sign-out =
     .label = Kat Woko…
     .accesskey = K
@@ -534,8 +531,8 @@ sync-sign-in =
 
 prefs-sync-now =
     .labelnotsyncing = Rib Kombedi
-    .accesskeynotsyncing = K
     .labelsyncing = Ribo…
+    .accesskeynotsyncing = K
 prefs-sync-now-button =
     .label = Rib Kombedi
     .accesskey = K
@@ -753,9 +750,6 @@ content-blocking-learn-more = Nong ngec mapol
 
 content-blocking-all-cookies = Angija weng
 content-blocking-unvisited-cookies = Angija ki kakube mape kilimo gi
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = Ngec!
 content-blocking-warning-learn-how = Nong ngec nining
 content-blocking-reload-description = Bi mite ni inwo cano dirica matino mamegi me keto alokoloka magi.

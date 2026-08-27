@@ -48,11 +48,11 @@ appmenuitem-exit2 =
            *[other] बहिर निस्कनुहोस्
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = अनुप्रयोग मेनु खोल्नुहोस्
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = अनुप्रयोग मेनु बन्द गर्नुहोस्
     .label = { -brand-short-name }
+    .tooltiptext = अनुप्रयोग मेनु बन्द गर्नुहोस्
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -166,16 +166,6 @@ profiler-popup-capture-shortcut =
 
 ## Profiler presets
 ## They are shown in the popup's select box.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = कम ओभरहेडको साथ धेरै वेब एप डिबगिङका लागि सिफारिस गरिएको प्रिसेट।
 profiler-popup-presets-web-developer-label =

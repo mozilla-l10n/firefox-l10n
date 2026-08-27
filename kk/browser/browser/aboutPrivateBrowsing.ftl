@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } көмегі�
 about-private-browsing-focus-promo-cta = { -focus-brand-name } жүктеп алу
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Қозғалыстағы жекелік шолу
 about-private-browsing-focus-promo-text = Біздің арнайы жеке шолу мобильді қолданбамыз тарихыңызды және cookie файлдарын әр уақытта тазартады.
-
-##
-
 about-private-browsing-focus-promo-header-b = Телефоныңыздағы жекелік шолу
 about-private-browsing-focus-promo-text-b = Негізгі мобильді браузерге көрсеткіңіз келмейтін жеке іздеулер үшін { -focus-brand-name } пайдаланыңыз.
 about-private-browsing-focus-promo-header-c = Мобильді құрылғыдағы келесі деңгейдегі жекелік
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Менің әрекеттерімді т
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Сіз жазбадан тыссыз
 about-private-browsing-nova-info-subheader2 = Сіз барлық жекелік терезелерді жапқан кезде біз әрбір іздеу мен кіруді өшіреміз. { -brand-short-name } бағдарламасының трекерлерді блоктау сияқты кірістірілген қорғаулары да мұнда іске қосулы.
-about-private-browsing-nova-info-subheader = Бұл терезені жапқан кезде біз әрбір іздеу мен кіруді өшіреміз. { -brand-short-name } бағдарламасының трекерлерді блоктау сияқты кірістірілген қорғаулары да мұнда іске қосулы.

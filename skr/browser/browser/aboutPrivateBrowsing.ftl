@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } نال نجی
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ڈاؤن لوڈ کرو
 about-private-browsing-focus-promo-header = { -focus-brand-name }: چلدے پھردے نجی براؤزنگ
 about-private-browsing-focus-promo-text = اساݙی سرشار نجی براؤزنگ موبائل ایپ ہر واری تہاݙی تاریخ تے کوکیاں کوں صاف کریندیاں ہن۔
-
-##
-
 about-private-browsing-focus-promo-header-b = اپݨے فون تے نجی براؤزنگ حاصل کرو
 about-private-browsing-focus-promo-text-b = انہاں نجی ڳولݨیاں کیتے { -focus-brand-name } دا استعمال کرو جنہاں کوں تساں اپݨے مرکزی موبائل براؤزر کوں نہیں ݙیکھݨ چاہندے۔
 about-private-browsing-focus-promo-header-c = موبائل تے اڳلے درجے دی رازداری

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Hald deg privat med { -mozilla-vpn-brand-
 about-private-browsing-focus-promo-cta = Last ned { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat nettlesing medan du er på farta
 about-private-browsing-focus-promo-text = Vår dedikerte mobilapp for privat nettlesing slettar historikken og infokapslane kvar gong.
-
-##
-
 about-private-browsing-focus-promo-header-b = Ta privat nettlesing til telefonen din
 about-private-browsing-focus-promo-text-b = Bruk { -focus-brand-name } for dei private søka du ikkje vil at hovudmobilnettlesaren din skal sjå.
 about-private-browsing-focus-promo-header-c = Personvern på neste nivå for mobile einingar
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Kven kan framleis sjå aktiviteten min?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Du etterlèt ingen spor
 about-private-browsing-nova-info-subheader2 = Vi slettar alle søk og innloggingar når du lèt att alle dei private vindauga dine. { -brand-short-name } sitt innebygde vern er også aktiv her, til dømes blokkering av sporarar.
-about-private-browsing-nova-info-subheader = Vi slettar alle søk og innloggingar når du lèt att dette vindauget. { -brand-short-name } sitt innebygde vern er også aktivt her, til dømes blokkering av sporarar.

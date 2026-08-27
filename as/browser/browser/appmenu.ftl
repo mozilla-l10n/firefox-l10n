@@ -46,11 +46,11 @@ appmenuitem-exit2 =
            *[other] প্ৰস্থান কৰক
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = এপ্লিকেশ্যনৰ মেন্যু খোলক
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = এপ্লিকেশ্যনৰ মেন্যু বন্ধ কৰক
     .label = { -brand-short-name }
+    .tooltiptext = এপ্লিকেশ্যনৰ মেন্যু বন্ধ কৰক
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =

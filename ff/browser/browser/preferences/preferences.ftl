@@ -419,9 +419,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Njiilaw Geese
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Waggini ɗum ko { $provider }
 
@@ -533,8 +530,8 @@ sync-mobile-promo = Aawto Firefox mo <img data-l10n-name="android-icon"/> <a dat
 sync-profile-picture =
     .tooltiptext = Waylu natal heftinirde
 sync-profile-picture-with-alt =
-    .tooltiptext = Waylu natal heftinirde
     .alt = Waylu natal heftinirde
+    .tooltiptext = Waylu natal heftinirde
 sync-sign-out =
     .label = Seŋto…
     .accesskey = ŋ
@@ -781,9 +778,6 @@ addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 content-blocking-learn-more = Ɓeydu humpito
 
 ##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-tracking-protection-change-block-list = Waylo doggol padde
 

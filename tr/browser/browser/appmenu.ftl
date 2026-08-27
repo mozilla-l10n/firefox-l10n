@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Çık
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Uygulama menüsünü aç
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Uygulama menüsünü kapat
     .label = { -brand-short-name }
+    .tooltiptext = Uygulama menüsünü kapat
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Çoğu web uygulamasında hata ayıklama için önerilen ayarlar, düşük ek yük.
 profiler-popup-presets-web-developer-label =
     .label = Web geliştirici
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } ile konumunuzu gizleyin
 appmenuitem-vpn-description5 = Tüm cihazlarınızda ekstra korumaya kavuşun
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name }’i indirin
-appmenuitem-vpn-description3 = Gezintilerinizin izlenmesini zorlaştırın
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bütün cihazlarınızı koruyun
 appmenuitem-vpn-description = Çevrimiçi etkinliklerinizi koruyun

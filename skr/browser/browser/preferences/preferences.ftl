@@ -30,8 +30,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = ترتیباں وِچ لبھو
+    .style = width: 15.4em
 managed-notice = تہاݙا براؤزر تہاݙی تنظیم دے زیر انتظام ہے۔
 managed-notice-info-icon =
     .alt = معلومات
@@ -631,9 +631,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
 home-prefs-shortcuts-by-option-sponsored =
     .label = سپانسر تھئے شارٹ کٹ
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } دی طرفوں تجویز کردہ
 home-prefs-recommended-by-description-new = { $provider } دے ذریعے تیار کیتا ڳیا غیر معمولی مواد، { -brand-product-name } ٹٻری دا حصہ
@@ -793,8 +790,8 @@ sync-mobile-promo = <img data-l10n-name="android-icon"/> <a data-l10n-name="andr
 sync-profile-picture =
     .tooltiptext = پروفائل دی تصویر تبدیل کرو
 sync-profile-picture-with-alt =
-    .tooltiptext = پروفائل دی تصویر تبدیل کرو
     .alt = پروفائل دی تصویر تبدیل کرو
+    .tooltiptext = پروفائل دی تصویر تبدیل کرو
 sync-profile-picture-account-problem =
     .alt = کھاتہ پروفائل تصویر
 fxa-login-rejected-warning =
@@ -846,8 +843,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = اپݨے تمام آلات تے اپݨے نشانیاں، تاریخ، ٹیباں، پاس ورڈز، ایڈ آنز تے ترتیباں کوں سنکرونائز کرو۔
 prefs-sync-now =
     .labelnotsyncing = ہݨیں سینک کرو
-    .accesskeynotsyncing = N
     .labelsyncing = سینک تھیندا پئے …
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = ہݨیں سینک کرو
     .accesskey = N
@@ -880,12 +877,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = منتخب کرو جو کیا سینک کرݨا ہے
-    .style = min-width: 36em;
     .buttonlabelaccept = تبدیلیاں ہتھیکڑیاں کرو
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = منقطع کرو …
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = منتخب کرو جو کیا سینک کرݨا ہے
 sync-choose-dialog-subtitle = ہموقت کرݨ کیتے آئٹماں دی تندیر وچ تبدیلیاں تہاݙیاں ساریاں منسلک ڈیوائساں تے ظاہر تھیسن۔
 sync-engine-bookmarks =
     .label = نشانیاں
@@ -1281,9 +1278,6 @@ content-blocking-fingerprinters = فنگر پرنٹرز
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = معلوم اَتے مشتبہ فنگر پرنٹس
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ٹوٹل کوکی پروٹیکشن وِچ تساں جیڑھی سائٹ تے او اوندیاں کوکیاں تے مشتمل ہے، لہذا ٹریکرز انہاں سائٹاں دے وچال تہاݙی پیروی کرݨ کیتے استعمال نہیں کر سڳدے۔
 content-blocking-etp-standard-tcp-rollout-learn-more = ٻیا سِکھو
@@ -1383,8 +1377,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = مستثنیات …
-    .accesskey = E
     .searchkeywords = پوپ اپس
+    .accesskey = E
 permissions-addon-install-warning =
     .label = چتاوݨی ݙیو جݙاں ویب سائٹاں ایڈ آنز انسٹال کرݨ دی کوشش کرن
     .accesskey = W

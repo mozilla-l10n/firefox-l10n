@@ -548,9 +548,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
 home-prefs-shortcuts-by-option-sponsored =
     .label = ທາງລັດສະປອນເຊີ
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = ແນະນຳໂດຍ { $provider }
 home-prefs-recommended-by-description-new = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { $provider }, ສ່ວນໜຶ່ງຂອງຄອບຄົວ { -brand-product-name }
@@ -696,8 +693,8 @@ sync-mobile-promo = ດາວໂຫລດ Firefox ສຳລັບ <img data-l10n
 sync-profile-picture =
     .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
 sync-profile-picture-with-alt =
-    .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
     .alt = ປ່ຽນຮູບປະຈຳຕົວ
+    .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
 sync-sign-out =
     .label = ອອກ​ຈາກ​ລະ​ບົບ…
     .accesskey = g
@@ -1072,9 +1069,6 @@ content-blocking-all-windows-tracking-content = ການຕິດຕາມເ�
 content-blocking-all-cross-site-cookies = ຄຸກກີຂ້າມເວັບໄຊທັງໝົດ
 content-blocking-cryptominers = ຕົວຂຸດຫລຽນດິຈິຕໍລ
 content-blocking-fingerprinters = ລາຍນິ້ວມື
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ການປົກປ້ອງຄຸກກີທັງໝົດມີຄຸກກີ້ໄປຫາເວັບໄຊທີ່ເຈົ້າຢູ່ໃນ, ດັ່ງນັ້ນຜູ້ຕິດຕາມບໍ່ສາມາດໃຊ້ພວກມັນເພື່ອຕິດຕາມເຈົ້າລະຫວ່າງເວັບໄຊໄດ້.
 content-blocking-etp-standard-tcp-rollout-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ

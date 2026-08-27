@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Škitajće swoju priwatnosć z { -mozilla
 about-private-browsing-focus-promo-cta = { -focus-brand-name } sćahnyć
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Priwatny modus po puću
 about-private-browsing-focus-promo-text = Naše mobilne, za priwatny modus myslene nałoženje wašu historiju a placki kóždy čas prózdni.
-
-##
-
 about-private-browsing-focus-promo-header-b = Přinjesće priwatne přehladowanje na swój telefon
 about-private-browsing-focus-promo-text-b = Wužiwajće { -focus-brand-name } za te priwatne pytanja, kotrež nima waš hłowny mobilny wobhladowak widźeć.
 about-private-browsing-focus-promo-header-c = Priwatnosć přichodneho schodźenka za mobilne graty
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Štó móhł hišće moju aktiwitu widź
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Waše přehladowanje so njeskładuje
 about-private-browsing-nova-info-subheader2 = Zhašamy kóžde pytanje a přizjewjenje, hdyž wšě swoje priwatne wokna začinjeće. Škit, kotryž je w { -brand-short-name } zatwarjeny, je tu tež zmóžnjeny, na přikład blokowanje přesćěhowakow.
-about-private-browsing-nova-info-subheader = Zhašamy kóžde pytanje a přizjewjenje, hdyž tute wokno začinjeće. Škit, kotryž je w { -brand-short-name } zatwarjeny, je tu tež zmóžnjeny, na přikład blokowanje přesćěhowakow.

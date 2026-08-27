@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Dìon do phrìobhaideachd le { -mozilla-v
 about-private-browsing-focus-promo-cta = Luchdaich a-nuas { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Brabhsadh prìobhaideach air an rathad
 about-private-browsing-focus-promo-text = Falamhaichidh an aplacaid brabhsaidh phrìobhaideach shònraichte againn an eachdraidh is na briosgaidean agad gach turas.
-
-##
-
 about-private-browsing-focus-promo-header-b = Dèan brabhsadh prìobhaideach fiù air an fhòn agad
 about-private-browsing-focus-promo-text-b = Cleachd { -focus-brand-name } airson lorg prìobhaideach a dhèanamh nach eil thu airson ’s gum faic am prìomh bhrabhsair mobile agad e.
 about-private-browsing-focus-promo-header-c = An ath-cheum de phrìobhaideachd mobile

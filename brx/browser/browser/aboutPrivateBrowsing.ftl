@@ -7,8 +7,5 @@ privatebrowsingpage-open-private-window-label = मोनसे प्राइ�
 about-private-browsing-search-placeholder = वेबौ नागिर
 about-private-browsing-info-title = नंथांआ मोनसे प्राइभेट उइन्ड'अव दं
 about-private-browsing-not-private = नोंथाङा दासान्दि मोनसे प्राइभेट उइन्ड'आव गैया।
-
-##
-
 about-private-browsing-search-banner-close-button =
     .aria-label = बन्द खालाम

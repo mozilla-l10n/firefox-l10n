@@ -7,9 +7,6 @@ privatebrowsingpage-open-private-window-label = கமுக்க சாளர�
 about-private-browsing-search-placeholder = இணையத்தில் தேடு
 about-private-browsing-info-title = நீங்கள் ஒரு கமுக்க சாளரத்தில் இருக்கிறீர்கள்
 about-private-browsing-not-private = நீங்கள் தற்போது கமுக்க சாளரத்தில் இல்லை.
-
-##
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

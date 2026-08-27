@@ -30,8 +30,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = සැකසුම්වල සොයාගන්න
+    .style = width: 15.4em
 managed-notice = අතිරික්සුව ඔබගේ සංවිධානය මගින් කළමනාකරණය කෙරේ.
 managed-notice-info-icon =
     .alt = තොරතුරු
@@ -649,9 +649,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = ඔබ සුරකින හෝ ගොඩවදින අඩවි
 home-prefs-shortcuts-by-option-sponsored =
     .label = අනුග්‍රහය ලද කෙටිමං
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } විසින් නිර්දේශිතයි
 home-prefs-recommended-by-header-generic =
@@ -814,8 +811,8 @@ sync-mobile-promo = ඔබගේ ජංගම උපාංගය සමඟ ස�
 sync-profile-picture =
     .tooltiptext = පැතිකඩ රූපය සංශෝධනය
 sync-profile-picture-with-alt =
-    .tooltiptext = පැතිකඩ රූපය සංශෝධනය
     .alt = පැතිකඩ රූපය සංශෝධනය
+    .tooltiptext = පැතිකඩ රූපය සංශෝධනය
 sync-profile-picture-account-problem =
     .alt = ගිණුමේ පැතිකඩ රූපය
 fxa-login-rejected-warning =
@@ -864,8 +861,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = ඔබගේ සියළුම උපාංග වලට ඔබගේ පොත්යොමු, ඉතිහාසය, පටිති, මුරපද, එක්කහු සහ සැකසුම් සමමුහූර්ත කරන්න.
 prefs-sync-now =
     .labelnotsyncing = සමමුහූර්ත කරන්න
-    .accesskeynotsyncing = N
     .labelsyncing = සමමුහූර්ත වෙමින්
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = සමමුහූර්ත කරන්න
     .accesskey = N
@@ -901,12 +898,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = සමමුහූර්ත කළ යුතු දෑ තෝරන්න
-    .style = min-width: 36em;
     .buttonlabelaccept = වෙනස්කම් සුරකින්න
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = විසන්ධි…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = සමමුහූර්ත කළ යුතු දෑ තෝරන්න
 sync-choose-dialog-subtitle = සමමුහූර්ත අථක ලේඛනයේ වෙනස්කම් ඔබගේ සම්බන්ධිත උපාංග සියල්ලට බලපායි.
 sync-engine-bookmarks =
     .label = පොත්යොමු
@@ -1303,9 +1300,6 @@ content-blocking-fingerprinters = ඇඟිලි සටහන්
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = දන්නා සහ සැක සහිත ඇඟිලි සටහන්
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = පූර්ණ දත්තකඩ රැකවරණය ඔබ සිටින අඩවියෙහි දත්තකඩ හුදකලා කරන බැවින් ලුහුබඳින්නන්ට අඩවි අතරින් ඔබව හඹා ඒමට භාවිතා කිරීමට නොහැකිය.
 content-blocking-etp-standard-tcp-rollout-learn-more = තව දැනගන්න
@@ -1401,8 +1395,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = හැරදැමීම්...
-    .accesskey = E
     .searchkeywords = උත්පතන
+    .accesskey = E
 permissions-addon-install-warning =
     .label = එක්කහු ස්ථාපනයට අඩවි සැරසෙන විට දන්වන්න
     .accesskey = W
@@ -1432,8 +1426,8 @@ collection-privacy-notice = රහස්‍යතා දැන්වීම
 collection-health-report-telemetry-disabled = ඔබ තවදුරටත් { -vendor-short-name } සඳහා තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත ග්‍රහණය කර ගැනීමට ඉඩ නොදේ. සියළුම අතීත දත්ත දවස් 30 ක් ඇතුළත මකා දැමෙනු ඇත.
 collection-health-report-telemetry-disabled-link = තව දැනගන්න
 addon-recommendations3 =
-    .label = පුද්ගලීකරණ දිගු නිර්දේශයට ඉඩ දෙන්න
     .description = ඔබගේ පිරික්සුම් අත්දැකීම ඉහළ නැංවීමට දිගු නිර්දේශ ලබා ගන්න.
+    .label = පුද්ගලීකරණ දිගු නිර්දේශයට ඉඩ දෙන්න
 collection-usage-ping =
     .label = දෛනික භාවිත හැඬවීම { -vendor-short-name } වෙත යවන්න.
     .accesskey = u
@@ -1475,21 +1469,21 @@ privacy-segmentation-radio-on =
     .label = විස්තරාත්මක තොරතුරු පෙන්වන්න
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 data-collection =
-    .label = { -brand-short-name } දත්ත රැස් කිරීම හා භාවිතය
     .description = අපි ඔබට තේරීම් ලබා දීමට වෙහෙසෙන අතර සැමට { -brand-product-name } වැඩිදියුණුවට වුවමනා අවම දත්ත පමණක් රැස් කරන්නෙමු.
+    .label = { -brand-short-name } දත්ත රැස් කිරීම හා භාවිතය
     .searchkeywords = telemetry
 data-collection-link = රහස්‍යතා දැන්වීම බලන්න
 data-collection-health-report-telemetry-disabled =
     .message = ඔබ තවදුරටත් { -vendor-short-name } සඳහා තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත ග්‍රහණය කර ගැනීමට ඉඩ නොදේ. සියළුම අතීත දත්ත දවස් 30 ක් ඇතුළත මකා දැමෙනු ඇත.
 data-collection-health-report =
+    .description = මෙය { -brand-product-name } විශේෂාංග, කාර්ය සාධනය සහ ස්ථායීතාව වැඩිදියුණුවට උපකාරී වේ.
     .label = තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත { -vendor-short-name } වෙත යවන්න
     .accesskey = r
-    .description = මෙය { -brand-product-name } විශේෂාංග, කාර්ය සාධනය සහ ස්ථායීතාව වැඩිදියුණුවට උපකාරී වේ.
 data-collection-studies-link =
     .label = { -brand-short-name } අධ්‍යන බලන්න
 data-collection-usage-ping =
-    .label = දෛනික භාවිත හැඬවීම { -vendor-short-name } වෙත යවන්න.
     .description = මෙය { -vendor-short-name } සඳහා සක්‍රිය පරිශ්‍රීලකයින් තක්සේරුවට උපකාරී වේ.
+    .label = දෛනික භාවිත හැඬවීම { -vendor-short-name } වෙත යවන්න.
     .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
@@ -1551,13 +1545,13 @@ httpsonly-radio-enabled =
 httpsonly-radio-enabled-pbm =
     .label = පෞද්. කවුළු වලට පමණක් HTTPS-පමණි ප්‍රකාරය
 httpsonly-radio-disabled3 =
-    .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
     .description = { -brand-short-name } තවදුරටත් සමහර සම්බන්ධතා උත්ශ්‍රේණි කරනු ඇත.
+    .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
 httpsonly-radio-disabled =
     .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
 httpsonly-group =
-    .label = HTTPS-පමණි ප්‍රකාරය
     .description = අඩවි වලට ආරක්‍ෂිත සම්බන්ධතා පමණක් ඉඩ දෙයි. අනාරක්‍ෂිතව සබැඳීමට පෙර { -brand-short-name } අසනු ඇත.
+    .label = HTTPS-පමණි ප්‍රකාරය
 
 ## DoH Section
 

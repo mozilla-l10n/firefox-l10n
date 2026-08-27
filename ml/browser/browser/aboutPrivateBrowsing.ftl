@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ഉപയോ�
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ഇറക്കിവയ്ക്കുക
 about-private-browsing-focus-promo-header = { -focus-brand-name }: എവിടെയായിരുന്നാലും സ്വകാര്യ തിരച്ചിൽ
 about-private-browsing-focus-promo-text = ഞങ്ങളുടെ സമർപ്പിത സ്വകാര്യ തിരച്ചിൽ മൊബൈൽ പ്രയോഗം ഓരോ തവണയും താങ്ങളുടെ നാൾവഴിയും കുക്കികളും മായ്ക്കുന്നു.
-
-##
-
 about-private-browsing-focus-promo-header-b = സ്വകാര്യ തിരച്ചിൽ താങ്ങളുടെ ഫോണിലേക്കു് എടുത്തുകൊണ്ടുപോവുക
 about-private-browsing-focus-promo-text-b = ആ സ്വകാര്യ തിരച്ചിലുകൾ താങ്ങളുടെ പ്രധാന മൊബൈൽ അന്വേഷിയന്ത്രം കാണാതിരിക്കാനായി { -focus-brand-name } ഉപയോഗിക്കുക
 about-private-browsing-focus-promo-header-c = മൊബൈലിൽ അടിപ്പൊളി സ്വകാര്യത

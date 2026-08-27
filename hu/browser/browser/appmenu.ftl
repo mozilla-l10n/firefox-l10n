@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Kilépés
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Alkalmazásmenü megnyitása
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Alkalmazásmenü bezárása
     .label = { -brand-short-name }
+    .tooltiptext = Alkalmazásmenü bezárása
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Ajánlott előbeállítás a legtöbb webalkalmazás hibakereséséhez, alacsony pluszköltséggel.
 profiler-popup-presets-web-developer-label =
     .label = Webfejlesztő
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Rejtse el a helyét a { -mozilla-vpn-brand-name } segí
 appmenuitem-vpn-description5 = Szerezzen extra védelmet az eszközök között
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = A { -mozilla-vpn-brand-name } letöltése
-appmenuitem-vpn-description3 = Legyen nehezebben nyomon követhető a böngészése
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Kapjon teljes eszközvédelmet
 appmenuitem-vpn-description = Védje meg az online tevékenységét

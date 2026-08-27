@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Chomit prevez gant { -mozilla-vpn-brand-n
 about-private-browsing-focus-promo-cta = Pellgargañ { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: merdeiñ prevez hezoug
 about-private-browsing-focus-promo-text = Hon arload hezoug arbennik war ar merdeiñ prevez a skarzh ho roll istor hag ho toupinoù bewech.
-
-##
-
 about-private-browsing-focus-promo-header-b = Kemerit ho puhez prevez gant ho pellgomzer
 about-private-browsing-focus-promo-text-b = Grit gant { -focus-brand-name } evit ar c’hlaskoù prevez na fell ket deoc’h vefe gwelet gant ho merdeer hezoug pennañ.
 about-private-browsing-focus-promo-header-c = Prevezded uhel war hezoug
@@ -87,4 +84,3 @@ about-private-browsing-nova-info-link = Piv a c'hallfe c'hoazh gwelet ma oberian
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Ne vo ket enrollet ho roll istor merdeiñ
-about-private-browsing-nova-info-subheader = Dilemel a raimp pep klask ha kennask pa vo serret ar prenestr-mañ. Gwarezioù enkorfet { -brand-short-name } a zo amañ ivez, evel stankañ an heulierien.

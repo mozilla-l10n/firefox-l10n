@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Шығу
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Қолданбалар мәзірін ашу
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Қолданбалар мәзірін жабу
     .label = { -brand-short-name }
+    .tooltiptext = Қолданбалар мәзірін жабу
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Веб-қолданбалардың көбін жөндеуге арналған, қосымша шығындары аз баптаулар жиынтығы.
 profiler-popup-presets-web-developer-label =
     .label = Веб-әзірлеуші
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } арқылы орналас
 appmenuitem-vpn-description5 = Құрылғыларда қосымша қорғаныс алыңыз
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } жүктеп алу
-appmenuitem-vpn-description3 = Интернетті шолуыңызды бақылауды қиындатыңыз
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Құрылғыны толығымен қорғауды алыңыз
 appmenuitem-vpn-description = Желідегі әрекетіңізді қорғаңыз

@@ -8,9 +8,6 @@ about-private-browsing-search-placeholder = ୱେବରେ ଖୋଜନ୍ତ�
 about-private-browsing-info-title = ଆପଣ ଏକ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ଅଛନ୍ତି
 about-private-browsing-not-private = ଆପଣ ବର୍ତ୍ତମାନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ନାହାନ୍ତି।
 about-private-browsing-learn-more-link = ଅଧିକ ଜାଣନ୍ତୁ
-
-##
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

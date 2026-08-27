@@ -17,8 +17,5 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Nduku tsi { $engine } a tyaa dirección
 about-private-browsing-handoff-text-no-engine = Nduku a tyaa dirección
 about-private-browsing-not-private = Su ventana seé kui.
-
-##
-
 about-private-browsing-search-banner-close-button =
     .aria-label = Kasi

@@ -25,9 +25,6 @@ about-private-browsing-get-privacy = Kumuha ng proteksyon saan ka man mag browse
 about-private-browsing-prominent-cta = Manatiling ligtas at pribado { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = I-download ang { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Pribadong pagba-browse saanman, kailanman
-
-##
-
 about-private-browsing-focus-promo-header-b = Dalhin ang pribadong pagba-browse sa iyong telepono
 about-private-browsing-focus-promo-text-b = Gamitin ang { -focus-brand-name } para sa mga pribadong paghahanap na hindi mo gustong makita ng pangunahing mobile browser mo.
 about-private-browsing-focus-promo-header-c = Next-level na privacy sa mobile

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ব্যব�
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ডাউনলোড করুন
 about-private-browsing-focus-promo-header = { -focus-brand-name }: চলার পথে ব্যক্তিগত ব্রাউজিং
 about-private-browsing-focus-promo-text = আমাদের নিবেদিত ব্যক্তিগত ব্রাউজিং মোবাইল অ্যাপ আপনার ইতিহাস ও কুকি প্রতিবার পরিষ্কার করে।
-
-##
-
 about-private-browsing-focus-promo-header-b = আপনার ফোনে ব্যক্তিগত ব্রাউজিং নিন
 about-private-browsing-focus-promo-text-b = প্রধান মোবাইল ব্রাউজার যেন দেখতে না পায় এমন ব্যক্তিগত অনুসন্ধানের জন্য { -focus-brand-name } ব্যবহার করুন।
 about-private-browsing-focus-promo-header-c = মোবাইলে পরবর্তী স্তরের গোপনীয়তা

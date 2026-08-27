@@ -26,9 +26,6 @@ about-private-browsing-hide-activity = सभे ठाम जतए अहा�
 about-private-browsing-get-privacy = जतए भी अहाँ ब्राउज करैत छी प्राइवेसी सुरक्षा सभे ठाम पाबू
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } सँग प्राइवेट होउ
 about-private-browsing-focus-promo-cta = डाउनलोडकरू { -focus-brand-name }
-
-##
-
 about-private-browsing-focus-promo-header-b = अपन फ़ोन मे प्राइवेट ब्राउज़र पाबू
 about-private-browsing-focus-promo-header-c = मोबाइल पर अगिला स्तर केर प्राइवेसी पाबू
 about-private-browsing-search-banner-close-button =

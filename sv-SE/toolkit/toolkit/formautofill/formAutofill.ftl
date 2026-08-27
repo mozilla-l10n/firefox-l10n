@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Spara aldrig kort
     .accessKey = a
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Uppdatera kort?
 credit-card-update-doorhanger-description = Kort att uppdatera:
 credit-card-capture-save-new-button =

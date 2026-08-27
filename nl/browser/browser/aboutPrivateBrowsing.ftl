@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Blijf privé met { -mozilla-vpn-brand-nam
 about-private-browsing-focus-promo-cta = { -focus-brand-name } downloaden
 about-private-browsing-focus-promo-header = { -focus-brand-name }: privénavigatie onderweg
 about-private-browsing-focus-promo-text = Onze speciale mobiele app voor privénavigatie wist elke keer uw geschiedenis en cookies.
-
-##
-
 about-private-browsing-focus-promo-header-b = Breng privénavigatie naar uw telefoon
 about-private-browsing-focus-promo-text-b = Gebruik { -focus-brand-name } voor die privézoekopdrachten waarvan u niet wilt dat uw mobiele standaardbrowser ze ziet.
 about-private-browsing-focus-promo-header-c = Privacy op mobiel op het volgende niveau
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Wie kan mijn activiteit nog zien?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Uw activiteit wordt niet vastgelegd
 about-private-browsing-nova-info-subheader2 = We wissen elke zoekopdracht en aanmelding wanneer u al uw privévensters sluit. De ingebouwde bescherming van { -brand-short-name } is hier ook aanwezig, net als het blokkeren van trackers.
-about-private-browsing-nova-info-subheader = We wissen elke zoekopdracht en aanmelding wanneer u dit venster sluit. De ingebouwde bescherming van { -brand-short-name } is hier ook aanwezig, net als het blokkeren van trackers.

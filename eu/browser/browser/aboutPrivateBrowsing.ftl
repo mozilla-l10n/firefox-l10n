@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Mantendu pribatu { -mozilla-vpn-brand-nam
 about-private-browsing-focus-promo-cta = Deskargatu { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: nabigazio pribatua edonon
 about-private-browsing-focus-promo-text = Gure berariazko nabigatze pribatuko aplikazio mugikorrak zure historia eta cookieak garbitzen ditu aldi oro.
-
-##
-
 about-private-browsing-focus-promo-header-b = Eramazu nabigatze pribatua zure telefonora
 about-private-browsing-focus-promo-text-b = Erabili { -focus-brand-name } zure mugikorreko nabigatzaileak ikusterik nahi ez dituzun bilaketa pribatu horiek egiteko.
 about-private-browsing-focus-promo-header-c = Hurrengo mailako pribatutasuna mugikorrean
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Nork ikus lezake nire jarduera halere?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Zure nabigazio-historia ezabatu egingo da
 about-private-browsing-nova-info-subheader2 = Leiho pribatu guztiak ixtean, egindako bilaketak eta saio-hasierak ezabatuko ditugu. { -brand-short-name }(r)en integratutako babesak aktibo daude hemen ere, adibidez jarraipen-elementuen blokeoa.
-about-private-browsing-nova-info-subheader = Leiho hau ixtean, egindako bilaketak eta saio-hasierak ezabatuko ditugu. { -brand-short-name }(r)en integratutako babesak aktibo daude hemen ere, adibidez jarraipen-elementuen blokeoa.

@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Kaarten nooit opslaan
     .accessKey = i
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Kaart bijwerken?
 credit-card-update-doorhanger-description = Bij te werken kaart:
 credit-card-capture-save-new-button =

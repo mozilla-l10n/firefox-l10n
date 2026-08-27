@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Ochráňte svoje súkromie so službou { 
 about-private-browsing-focus-promo-cta = Nainštalujte si { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: súkromné prehliadanie na cestách
 about-private-browsing-focus-promo-text = Naša mobilná aplikácia zameraná na maximálnu ochranu súkromia vymaže vašu históriu a súbory cookie po každom prehliadaní.
-
-##
-
 about-private-browsing-focus-promo-header-b = Vezmite si súkromné prehliadanie do svojho telefónu
 about-private-browsing-focus-promo-text-b = Používajte { -focus-brand-name } na prehliadanie webu, ktorý by mal ostať skrytý pred vašim hlavným mobilným prehliadačom.
 about-private-browsing-focus-promo-header-c = Ochrana súkromia ďalšej úrovne na mobilnom zariadení
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Kto by mohol stále vidieť moju aktivit
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = História vášho prehliadania nebude zaznamenaná
 about-private-browsing-nova-info-subheader2 = Po zatvorení všetkých súkromných okien sa vymažú všetky vyhľadávania a prihlásenia. Vstavané ochrany { -brand-short-name(case: "gen") } sú tu tiež zapnuté, napríklad blokovanie sledovacích prvkov.
-about-private-browsing-nova-info-subheader = Po zatvorení tohto okna vymažeme všetky vyhľadávania a prihlásenia. Vstavané ochrany { -brand-short-name(case: "gen") } sú tiež zapnuté, napríklad blokovanie sledovacích prvkov.

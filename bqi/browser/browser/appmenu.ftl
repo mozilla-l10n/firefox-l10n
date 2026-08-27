@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] و در زیڌن
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = گۊشیڌن نومگه برنومه
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = بستن نومگه برنومه
     .label = { -brand-short-name }
+    .tooltiptext = بستن نومگه برنومه
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -232,16 +232,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = سامووا پؽشنهاڌی سی موشکل زودایی قلوه برنومه یل وب، وا سربار کم.
 profiler-popup-presets-web-developer-label =
     .label = برنومه نویس وب
@@ -399,7 +389,6 @@ appmenuitem-relay-title-signed-in = نیشتن ماسکا ایمیل
 appmenuitem-relay-description = بؽڌار کردن ایمیل وو شوماره تیلیفووݩ واقعی ایسا
 appmenuitem-services-relay-description = داشبورد ره وندن ماسکا ایمیل
 appmenuitem-vpn-title2 = جاگه خوتووݩ ن وا { -mozilla-vpn-brand-name } بؽڌار کۊنین
-appmenuitem-vpn-description3 = رڌجۊری گشتن خوتووݩ ن سخت تر کۊنین
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = پوی دسگا ن زفت کۊنین
 appmenuitem-vpn-description = زفت کردن فعالیت ریتور ایسا

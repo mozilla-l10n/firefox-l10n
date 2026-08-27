@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = ไม่ต้องบันทึกบัตรเลย
     .accessKey = ไ
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = ต้องการอัปเดตบัตรหรือไม่?
 credit-card-update-doorhanger-description = บัตรที่จะอัปเดต:
 credit-card-capture-save-new-button =

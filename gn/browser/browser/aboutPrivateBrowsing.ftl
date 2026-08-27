@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Eiko tekoñemíme { -mozilla-vpn-brand-na
 about-private-browsing-focus-promo-cta = Emboguejy { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ñeikundaha ñemi pya’eháicha
 about-private-browsing-focus-promo-text = Ore pumbyry rembiporu’i rojapóva oñeikundaha ñemi hag̃ua ombogue ijehegui tembiasakue ha kookie.
-
-##
-
 about-private-browsing-focus-promo-header-b = Eguerova kundahára ñemi ne pumbyrýpe
 about-private-browsing-focus-promo-text-b = Eiporu { -focus-brand-name } jeheka ñemiguarã epota’ỹva ohecha ne kundahára pumburygua eiporuvéva.
 about-private-browsing-focus-promo-header-c = Tekoñemi tenondeve gotyo pumbyrýpe
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = ¿Mávapa ohechakuaa che rembiapo?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Reime bambalína kupépe
 about-private-browsing-nova-info-subheader2 = Rombotýta opa jeheka ha ojeikehague embotypa vove ovetãita ñemi. Umi ñemo’ã juajupyre { -brand-short-name } rehegua oĩ avei ápe, umíva apytépe tapykuehohára jejoko.
-about-private-browsing-nova-info-subheader = Romboguepáta opaite jehekakue ha jeike rombotývo ko ovetã. Umi ñemo’ã jehe’apyre { -brand-short-name } rehegua oĩ avei ko’ápe, ikatúva tapykuehoha.

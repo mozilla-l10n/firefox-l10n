@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] יציאה
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = פתיחת תפריט היישום
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = סגירת תפריט היישום
     .label = { -brand-short-name }
+    .tooltiptext = סגירת תפריט היישום
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -234,16 +234,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = ערכה מומלצת עבור רוב ניפויי השגיאות של יישומוני רשת, עם תקורה נמוכה.
 profiler-popup-presets-web-developer-label =
     .label = Web Developer
@@ -403,7 +393,6 @@ appmenuitem-vpn-title2 = הסתרת המיקום שלך בעזרת { -mozilla-vp
 appmenuitem-vpn-description5 = קבלת הגנה נוספת על פני מכשירים שונים
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = הורדת { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = להפוך את הגלישה שלך לקשה יותר למעקב
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = קבלת הגנה על כל המכשיר
 appmenuitem-vpn-description = הגנה על הפעילות המקוונת שלך

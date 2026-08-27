@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = احفظ خصوصيتك دومًا عبر
 about-private-browsing-focus-promo-cta = نزّل { -focus-brand-name }
 about-private-browsing-focus-promo-header = ‏{ -focus-brand-name }: التصفّح الخاص أينما كنت
 about-private-browsing-focus-promo-text = يمسح تطبيق الهاتف للتصفح الخاص كل التأريخ والكعكات في كل مرة.
-
-##
-
 about-private-browsing-focus-promo-header-b = جرّب التصفح الخاص من هاتفك
 about-private-browsing-focus-promo-text-b = استعمل { -focus-brand-name } كي تبحث عما تريد بخصوصية ولا تريد لمتصفّح الهاتف الرئيس أن يرى ما تفعل.
 about-private-browsing-focus-promo-header-c = مستوى أعلى من الخصوصية على الهاتف المحمول
@@ -87,4 +84,3 @@ about-private-browsing-nova-info-link = مَن قد يكون قادرًا على
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = أنت خارج نطاق التسجيل
-about-private-browsing-nova-info-subheader = سنحذف جميع عمليات البحث والولوج عند إغلاق هذه النافذة. كما تتضمن هذه النافذة أيضًا وسائل الحماية المدمجة في { -brand-short-name }، مثل حظر المتعقّبات.

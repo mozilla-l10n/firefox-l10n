@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Peidio byth a chadw cardiau
     .accessKey = P
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Diweddaru'r cerdyn?
 credit-card-update-doorhanger-description = Cerdyn i'w ddiweddaru:
 credit-card-capture-save-new-button =

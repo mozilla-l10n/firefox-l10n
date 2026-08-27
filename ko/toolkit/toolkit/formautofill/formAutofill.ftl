@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = 카드를 저장 안 함
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = 카드를 업데이트하시겠습니까?
 credit-card-update-doorhanger-description = 업데이트할 카드:
 credit-card-capture-save-new-button =

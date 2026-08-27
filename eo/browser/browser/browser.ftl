@@ -971,33 +971,6 @@ urlbar-result-explanation-last-visited-relative-2 = Lasta vizito { $date }
 #                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
 #                    "11 months ago"
 urlbar-result-explanation-last-visited-days-weeks-months-ago = Lasta vizito { $date }
-# This explanation is used when the last-visited date is a small number of days
-# in the past.
-# Variables:
-#   $daysAgo (number) - The number of days ago
-urlbar-result-explanation-last-visited-days-2 =
-    { $daysAgo ->
-        [one] Lasta vizito antaŭ { $daysAgo } tago
-       *[other] Lasta vizito antaŭ { $daysAgo } tagoj
-    }
-# This explanation is used when the last-visited date is a small number of weeks
-# in the past.
-# Variables:
-#   $weeksAgo (number) - The number of weeks ago
-urlbar-result-explanation-last-visited-weeks-2 =
-    { $weeksAgo ->
-        [one] Lasta vizito antaŭ { $weeksAgo } semajno
-       *[other] Lasta vizito antaŭ { $weeksAgo } semajnoj
-    }
-# This explanation is used when the last-visited date is a small number of
-# months in the past.
-# Variables:
-#   $monthsAgo (number) - The number of months ago
-urlbar-result-explanation-last-visited-months-2 =
-    { $monthsAgo ->
-        [one] Lasta vizito antaŭ { $monthsAgo } monato
-       *[other] Lasta vizito antaŭ { $monthsAgo } monatoj
-    }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:

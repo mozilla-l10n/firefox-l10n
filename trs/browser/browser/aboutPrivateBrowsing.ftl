@@ -23,9 +23,6 @@ about-private-browsing-learn-more-link = Gāhuin chrūn doj
 about-private-browsing-hide-activity = Gāchrī huì sa ‘hiát así danè’ huājt, danè’ nānj gahuin aché nunt
 about-private-browsing-get-privacy = Gīrì’ sa nārán mā’ânt da’ gāchē nunt danè’ garan’ ruhuât
 about-private-browsing-focus-promo-cta = Nādunïnj { -focus-brand-name }
-
-##
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

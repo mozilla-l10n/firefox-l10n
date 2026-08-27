@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Protegiu la vostra privadesa amb el { -mo
 about-private-browsing-focus-promo-cta = Baixa el { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegació privada a tot arreu
 about-private-browsing-focus-promo-text = La nostra aplicació mòbil dedicada a la navegació privada esborra l'historial i les galetes cada vegada que s'utilitza.
-
-##
-
 about-private-browsing-focus-promo-header-b = Utilitzeu la navegació privada també en el telèfon
 about-private-browsing-focus-promo-text-b = Amb el { -focus-brand-name }, podeu fer cerques privades sense deixar rastre en el vostre navegador mòbil principal.
 about-private-browsing-focus-promo-header-c = Privadesa de nivell superior en el mòbil
@@ -88,4 +85,3 @@ about-private-browsing-nova-info-link = Qui podria veure la meva activitat?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = No s'està registrant res
 about-private-browsing-nova-info-subheader2 = Esborrarem totes les cerques i els inicis de sessió quan tanqueu totes les vostres finestres privades. Les proteccions incloses al { -brand-short-name } també estan activades, com ara el bloqueig dels elements de seguiment.
-about-private-browsing-nova-info-subheader = Esborrarem totes les cerques i els inicis de sessió quan tanqueu aquesta finestra. Les proteccions integrades del { -brand-short-name } també estan activades, com ara el bloqueig dels elements de seguiment.

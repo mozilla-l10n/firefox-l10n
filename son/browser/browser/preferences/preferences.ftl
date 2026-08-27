@@ -335,8 +335,8 @@ sync-mobile-promo = Firefox zumandi <img data-l10n-name="android-icon"/> <a data
 sync-profile-picture =
     .tooltiptext = Alhaali bii barmay
 sync-profile-picture-with-alt =
-    .tooltiptext = Alhaali bii barmay
     .alt = Alhaali bii barmay
+    .tooltiptext = Alhaali bii barmay
 
 ## Variables
 ## $email (string) - Email used for Firefox account

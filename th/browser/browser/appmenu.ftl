@@ -60,11 +60,11 @@ appmenuitem-exit2 =
            *[other] ออก
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = เปิดเมนูแอปพลิเคชัน
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = ปิดเมนูแอปพลิเคชัน
     .label = { -brand-short-name }
+    .tooltiptext = ปิดเมนูแอปพลิเคชัน
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -219,16 +219,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กเว็บแอปส่วนใหญ่ โดยมีโอเวอร์เฮดต่ำ
 profiler-popup-presets-web-developer-label =
     .label = นักพัฒนาเว็บ
@@ -348,7 +338,6 @@ appmenuitem-relay-description2 = ช่วยป้องกันสแปม�
 appmenuitem-relay-description = ปิดบังอีเมลและหมายเลขโทรศัพท์จริงของคุณ
 appmenuitem-services-relay-description = เปิดแดชบอร์ดตัวปกปิดอีเมล
 appmenuitem-vpn-title2 = ซ่อนตำแหน่งของคุณด้วย { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = ทำให้การติดตามการเรียกดูของคุณทำได้ยากขึ้น
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = รับการป้องกันครอบคลุมทั้งอุปกรณ์
 appmenuitem-vpn-description = ปกป้องกิจกรรมออนไลน์ของคุณ

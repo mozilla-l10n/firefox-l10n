@@ -971,33 +971,6 @@ urlbar-result-explanation-last-visited-relative-2 = L'heu visitat per darrer cop
 #                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
 #                    "11 months ago"
 urlbar-result-explanation-last-visited-days-weeks-months-ago = L'heu visitat per darrer cop el dia { $date }
-# This explanation is used when the last-visited date is a small number of days
-# in the past.
-# Variables:
-#   $daysAgo (number) - The number of days ago
-urlbar-result-explanation-last-visited-days-2 =
-    { $daysAgo ->
-        [one] L'heu visitat per darrer cop fa { $daysAgo } dia
-       *[other] L'heu visitat per darrer cop fa { $daysAgo } dies
-    }
-# This explanation is used when the last-visited date is a small number of weeks
-# in the past.
-# Variables:
-#   $weeksAgo (number) - The number of weeks ago
-urlbar-result-explanation-last-visited-weeks-2 =
-    { $weeksAgo ->
-        [one] L'heu visitat per darrer cop fa { $weeksAgo } setmana
-       *[other] L'heu visitat per darrer cop fa { $weeksAgo } setmanes
-    }
-# This explanation is used when the last-visited date is a small number of
-# months in the past.
-# Variables:
-#   $monthsAgo (number) - The number of months ago
-urlbar-result-explanation-last-visited-months-2 =
-    { $monthsAgo ->
-        [one] L'heu visitat per darrer cop fa { $monthsAgo } mes
-       *[other] L'heu visitat per darrer cop fa { $monthsAgo } mesos
-    }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:

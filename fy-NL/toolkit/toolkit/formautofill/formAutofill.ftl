@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Kaarten nea bewarje
     .accessKey = j
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Kaart bywurkje?
 credit-card-update-doorhanger-description = By te wurkjen kaart:
 credit-card-capture-save-new-button =

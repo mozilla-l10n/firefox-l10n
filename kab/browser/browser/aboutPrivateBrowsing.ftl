@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Qqim d uslig s { -mozilla-vpn-brand-name 
 about-private-browsing-focus-promo-cta = Sader { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: tunigin tusligt tazirazt
 about-private-browsing-focus-promo-text = Asnas-nneɣ aziraz yettwagen i tunigin tusligt itekkes azray-inek d yinagan n tuqqna seld yal aseqdec.
-
-##
-
 about-private-browsing-focus-promo-header-b = Fṛes tunigin tusligt ɣef tiliɣri-inek
 about-private-browsing-focus-promo-text-b = Seqdec { -focus-brand-name } i yinadiyen-a usligen ur tebɣiḍ ad ten-iwali iminig-ik aziraz.
 about-private-browsing-focus-promo-header-c = Tabaḍnit izaden ɣef uziraz

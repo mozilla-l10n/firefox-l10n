@@ -30,8 +30,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 19em
     .placeholder = Cercar pels paramètres
+    .style = width: 19em
 managed-notice = Vòstra organizacion gerís vòstre navegador.
 managed-notice-info-icon =
     .alt = Informacions
@@ -243,9 +243,9 @@ settings-tabs-show-image-in-preview =
     .label = Afichar un apercebut al subrevòl dels onglets
     .accessKey = h
 browser-layout-vertical-tabs2 =
+    .description = Onglets sul costat, dins la barra laterala
     .label = Onglets verticals
     .title = Onglets sul costat, dins la barra laterala
-    .description = Onglets sul costat, dins la barra laterala
 browser-layout-vertical-tabs =
     .label = Onglets verticals
 
@@ -648,9 +648,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Los sites qu’enregistratz o consultatz
 home-prefs-shortcuts-by-option-sponsored =
     .label = Acorchis pairinejats
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Recomandat per { $provider }
 home-prefs-recommended-by-description-new = Contengut excepcional seleccionat per { $provider }, membre de la familha { -brand-product-name }
@@ -737,8 +734,8 @@ search-suggestions-cant-show = Recercar las suggestions que son pas afichadas di
 search-one-click-header2 = Acorchis de recèrca
 search-one-click-desc = Causissètz de motors de recerca altenatius qu'apareisson jos las barras d'adreça e de recèrca quand començatz d’escriure un mot-clau.
 search-one-click-header-3 =
-    .label = Motors de recèrca suplementaris
     .description = Causissètz quins motors de recèrca e acorchis apareisson dins vòstra barra d'adreças.
+    .label = Motors de recèrca suplementaris
 search-choose-engine-column =
     .label = Motor de recèrca
 search-choose-keyword-column =
@@ -809,8 +806,8 @@ sync-mobile-promo = Telecargatz Firefox per <img data-l10n-name="android-icon"/>
 sync-profile-picture =
     .tooltiptext = Cambiar la fòto de perfil de l'utilizaire
 sync-profile-picture-with-alt =
-    .tooltiptext = Cambiar la fòto de perfil de l'utilizaire
     .alt = Cambiar la fòto de perfil de l'utilizaire
+    .tooltiptext = Cambiar la fòto de perfil de l'utilizaire
 sync-profile-picture-account-problem =
     .alt = Imatge de perfil del compte
 fxa-login-rejected-warning =
@@ -862,8 +859,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sincronizar vòstres marcapaginas, istoric, onglets, senhals, moduls, e paramètres per totes vòstres periferics.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ara
-    .accesskeynotsyncing = n
     .labelsyncing = Sincronizacion…
+    .accesskeynotsyncing = n
 prefs-sync-now-button =
     .label = Sincronizar ara
     .accesskey = n
@@ -899,12 +896,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Causir qué sincronizar
-    .style = min-width: 36em;
     .buttonlabelaccept = Enregistrar
-    .buttonaccesskeyaccept = E
     .buttonlabelextra2 = Desconnectar…
+    .buttonaccesskeyaccept = E
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Causir qué sincronizar
 sync-choose-dialog-subtitle = Las modificacions portadas a la lista d’elements de sincronizar s’aplicaràn a totes los aparelhs connectats.
 sync-engine-bookmarks =
     .label = Marcapaginas
@@ -1148,8 +1145,8 @@ history-clear-button =
     .label = Escafar l’istoric…
     .accesskey = s
 history-custom-section-header =
-    .label = Paramètres avançats
     .description = Personalizatz çò que volètz que { -brand-short-name } se remembra quand tampatz lo navigador.
+    .label = Paramètres avançats
 history-group =
     .label = Istoric
 
@@ -1296,9 +1293,6 @@ content-blocking-fingerprinters = Generadors d’emprentas numericas
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Generadors d’emprentas numericas coneguts e suspèctes
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La proteccion totala contra los cookies los reten al site ont vos trobatz, doncas los traçadors los pòdon pas utilizar per vos pistar de site en site.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ne saber mai
@@ -1398,8 +1392,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Excepcions…
-    .accesskey = E
     .searchkeywords = fenèstras
+    .accesskey = E
 permissions-addon-install-warning =
     .label = M'avisar quand de sites web ensajen d'installar de moduls
     .accesskey = A

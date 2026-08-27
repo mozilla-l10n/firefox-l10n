@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Palieciet privāts, izmantojot { -mozilla
 about-private-browsing-focus-promo-cta = Lejupielādēt { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: privāta pārlūkošana, lai kur jūs dotos
 about-private-browsing-focus-promo-text = Mūsu speciālā privātās pārlūkošanas mobilā lietotne katru reizi notīra vēsturi un sīkdatnes.
-
-##
-
 about-private-browsing-focus-promo-header-b = Veiciet privātu pārlūkošanu savā tālrunī
 about-private-browsing-focus-promo-text-b = Izmantojiet { -focus-brand-name } tiem privātajiem meklēšanas vaicājumiem, kurus nevēlaties redzēt galvenajā mobilajā pārlūkprogrammā.
 about-private-browsing-focus-promo-header-c = Nākamā līmeņa privātums mobilajā ierīcē

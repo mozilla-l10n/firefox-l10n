@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Кортҳо ҳеҷ гоҳ нигоҳ дошта нашаванд
     .accessKey = К
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Кортро навсозӣ кунед?
 credit-card-update-doorhanger-description = Корте, ки аз нав нигоҳ дошта мешавад:
 credit-card-capture-save-new-button =

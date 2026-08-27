@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Demoratz privat amb { -mozilla-vpn-brand-
 about-private-browsing-focus-promo-cta = Telecargar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } : navegacion privada sul pic
 about-private-browsing-focus-promo-text = Nòstra aplicacion dedicada a la navegacion privada escafa l’istoric e los cookies aprèp cada utilizacion.
-
-##
-
 about-private-browsing-focus-promo-header-b = Metètz de la navegacion privada al vòstre mobil
 about-private-browsing-focus-promo-text-b =
     Utilizatz { -focus-brand-name } per las recèrcas privadas que volètz

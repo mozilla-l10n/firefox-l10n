@@ -23,8 +23,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Hanapin sa Mga Setting
+    .style = width: 15.4em
 managed-notice = Ang iyong browser ay mina-manage ng iyong organisasyon.
 managed-notice-nav =
     .label = Ang iyong browser ay mina-manage ng iyong organisasyon.
@@ -505,9 +505,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Paghahanap sa Web
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Inirekomenda ni { $provider }
 
@@ -649,8 +646,8 @@ sync-mobile-promo = Mag-download ng Firefox para sa <img data-l10n-name="android
 sync-profile-picture =
     .tooltiptext = Baguhin ang larawan ng profile
 sync-profile-picture-with-alt =
-    .tooltiptext = Baguhin ang larawan ng profile
     .alt = Baguhin ang larawan ng profile
+    .tooltiptext = Baguhin ang larawan ng profile
 sync-sign-out =
     .label = Mag-sign out...
     .accesskey = g
@@ -695,8 +692,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = I-synchronize ang iyong mga bookmark, kasaysayan, mga tab, password, add-on, at mga setting sa lahat ng iyong mga device.
 prefs-sync-now =
     .labelnotsyncing = Mag-Sync Na
-    .accesskeynotsyncing = N
     .labelsyncing = Nagsi-sync...
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Mag-Sync Na
     .accesskey = N
@@ -726,12 +723,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Piliin Kung Alin Ang Isi-Sync
-    .style = min-width: 36em;
     .buttonlabelaccept = I-Save ang mga Pagbabago
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Mag-disconnect...
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Piliin Kung Alin Ang Isi-Sync
 sync-engine-bookmarks =
     .label = Mga Bookmark
     .accesskey = m
@@ -1025,9 +1022,6 @@ content-blocking-unvisited-cookies = Mga cookie mula sa mga hindi binibisitang s
 content-blocking-all-windows-tracking-content = Tracking content sa lahat ng mga window
 content-blocking-cryptominers = Mga Cryptominer
 content-blocking-fingerprinters = Mga Fingerprinter
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-etp-standard-tcp-rollout-learn-more = Alamin
 content-blocking-warning-title = Mag-ingat!
 content-blocking-and-isolating-etp-warning-description-2 = Ang setting na ito ay maaaring maging sanhi ng ilang mga website na hindi ipakita ang nilalaman o gumana nang tama. Kung tila nasira ang isang site, baka gusto mong patayin ang tracking protection para sa site na iyon upang mai-load ang lahat ng nilalaman.
@@ -1107,8 +1101,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Mga Exception…
-    .accesskey = E
     .searchkeywords = mga popup
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Balaan ka kapag sinusubukan ng mga website na magkabit ng mga add-on
     .accesskey = W

@@ -399,9 +399,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Çerca into Web
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Consegiou da { $provider }
 
@@ -509,8 +506,8 @@ sync-mobile-promo = Descarega Firefox pe <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Cangia l’inmagine do profî
 sync-profile-picture-with-alt =
-    .tooltiptext = Cangia l’inmagine do profî
     .alt = Cangia l’inmagine do profî
+    .tooltiptext = Cangia l’inmagine do profî
 sync-manage-account = Gestisci conto
     .accesskey = o
 sync-manage-account2 =
@@ -745,9 +742,6 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-all-cookies = Tutti i cookie
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = Stanni atento!
 content-blocking-reload-tabs-button =
     .label = Recarega tutti i feuggi

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Зачувајте ја приватно�
 about-private-browsing-focus-promo-cta = Преземи го { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Секогаш приватно прелистување
 about-private-browsing-focus-promo-text = Нашата наменска мобилна апликација за приватно прелистување ги брише вашата историја и колачиња секој пат.
-
-##
-
 about-private-browsing-focus-promo-header-b = Донесете приватно прелистување на Вашиот телефон
 about-private-browsing-focus-promo-text-b = Користете { -focus-brand-name } за оние приватни пребарувања што не сакате да ги гледа Вашиот главен мобилен прелистувач.
 about-private-browsing-focus-promo-header-c = Извонредна приватност на мобилен телефон

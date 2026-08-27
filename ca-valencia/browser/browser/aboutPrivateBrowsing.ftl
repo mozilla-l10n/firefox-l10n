@@ -26,9 +26,6 @@ about-private-browsing-hide-activity = Oculteu la vostra activitat i ubicació, 
 about-private-browsing-get-privacy = Protegiu la vostra privadesa arreu on navegueu
 about-private-browsing-hide-activity-1 = Oculteu l'activitat de navegació i la ubicació amb el { -mozilla-vpn-brand-name }. Creeu una connexió segura amb un sol clic, fins i tot en connexions Wi-Fi públiques.
 about-private-browsing-prominent-cta = Protegiu la vostra privadesa amb el { -mozilla-vpn-brand-name }
-
-##
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

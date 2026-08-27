@@ -982,36 +982,6 @@ urlbar-result-explanation-last-visited-relative-2 = Ostatnio otwarto { $date }
 #                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
 #                    "11 months ago"
 urlbar-result-explanation-last-visited-days-weeks-months-ago = Ostatnio otwarto { $date }
-# This explanation is used when the last-visited date is a small number of days
-# in the past.
-# Variables:
-#   $daysAgo (number) - The number of days ago
-urlbar-result-explanation-last-visited-days-2 =
-    { $daysAgo ->
-        [one] Ostatnio otwarto wczoraj
-        [few] Ostatnio otwarto { $daysAgo } dni temu
-       *[many] Ostatnio otwarto { $daysAgo } dni temu
-    }
-# This explanation is used when the last-visited date is a small number of weeks
-# in the past.
-# Variables:
-#   $weeksAgo (number) - The number of weeks ago
-urlbar-result-explanation-last-visited-weeks-2 =
-    { $weeksAgo ->
-        [one] Ostatnio otwarto tydzień temu
-        [few] Ostatnio otwarto { $weeksAgo } tygodnie temu
-       *[many] Ostatnio otwarto { $weeksAgo } tygodni temu
-    }
-# This explanation is used when the last-visited date is a small number of
-# months in the past.
-# Variables:
-#   $monthsAgo (number) - The number of months ago
-urlbar-result-explanation-last-visited-months-2 =
-    { $monthsAgo ->
-        [one] Ostatnio otwarto miesiąc temu
-        [few] Ostatnio otwarto { $monthsAgo } miesiące temu
-       *[many] Ostatnio otwarto { $monthsAgo } miesięcy temu
-    }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:

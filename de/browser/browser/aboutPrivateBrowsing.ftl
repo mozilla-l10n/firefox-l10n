@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Schützen Sie Ihre Privatsphäre mit { -m
 about-private-browsing-focus-promo-cta = { -focus-brand-name } herunterladen
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privates Surfen unterwegs
 about-private-browsing-focus-promo-text = Unsere speziell für privates Surfen entwickelte mobile App löscht jedes Mal Ihre Chronik und Ihre Cookies.
-
-##
-
 about-private-browsing-focus-promo-header-b = Bringen Sie privates Surfen auf Ihr Telefon
 about-private-browsing-focus-promo-text-b = Verwenden Sie { -focus-brand-name } für die privaten Suchanfragen, die Ihr Haupt-Mobilbrowser nicht sehen soll.
 about-private-browsing-focus-promo-header-c = Privatsphäre der nächsten Stufe für Mobilgeräte
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Wer kann meine Aktivitäten möglicherwe
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Das ist vertraulich.
 about-private-browsing-nova-info-subheader2 = Sobald Sie alle privaten Fenster schließen, werden alle Suchanfragen und Anmeldungen gelöscht. Die integrierten Schutzmaßnahmen von { -brand-short-name } sind auch hier aktiviert, wie das Blockieren von Trackern.
-about-private-browsing-nova-info-subheader = Wir löschen alle Suchanfragen und Anmeldungen, wenn Sie dieses Fenster schließen. Die integrierten Schutzmaßnahmen von { -brand-short-name } sind auch hier aktiviert, wie das Blockieren von Trackern.

@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Mos ruaj kurrë karta
     .accessKey = k
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Të përditësohet karta?
 credit-card-update-doorhanger-description = Kartë për t’u përditësuar:
 credit-card-capture-save-new-button =

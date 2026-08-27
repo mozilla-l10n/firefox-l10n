@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩ
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ᱰᱟᱣᱱᱞᱚᱰ ᱢᱮ
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱛᱮ ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 about-private-browsing-focus-promo-text = ᱡᱷᱚᱛᱚ ᱚᱠᱛᱚ ᱨᱮ ᱜᱮ ᱟᱞᱮᱭᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱚᱵᱟᱭᱤᱞ ᱮᱯ ᱜᱷᱤᱲ ᱜᱮ ᱟᱹᱵᱤᱱᱟᱜ ᱦᱤᱛᱟᱹᱞ ᱟᱨ ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱢᱮᱴᱟᱣᱟᱭ ᱾
-
-##
-
 about-private-browsing-focus-promo-header-b = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱨᱮ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱮ
 about-private-browsing-focus-promo-text-b = { -focus-brand-name } ᱫᱚ ᱚᱱᱟ ᱱᱤᱡᱮᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱵᱟᱝ ᱧᱮᱞ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱾
 about-private-browsing-focus-promo-header-c = ᱢᱚᱵᱟᱭᱤᱞ ᱨᱮ ᱞᱟᱦᱟᱼᱞᱮᱣᱮᱞ ᱨᱟᱭᱟᱜ ᱱᱤᱥᱚᱱ
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = ᱚᱠᱚᱭ ᱱᱤᱛ ᱦᱚᱸ ᱤᱧ�
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = ᱟᱢ ᱫᱚ ᱨᱮᱠᱚᱰ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱨᱮ ᱢᱮᱱᱟᱢᱟ
 about-private-browsing-nova-info-subheader2 = ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚᱡᱽ ᱵᱚᱱᱫᱚ ᱠᱷᱟᱱ ᱟᱞᱮ ᱥᱟᱱᱟᱢ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱥᱟᱭᱤᱱ ᱤᱱ ᱞᱮ ᱢᱤᱴᱟᱣᱟ᱾ { -brand-short-name } ᱨᱮᱭᱟᱜ ᱵᱤᱞᱴ-ᱤᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱱᱚᱸᱰᱮ ᱦᱚᱸ ᱢᱮᱱᱟᱜᱼᱟ, ᱴᱨᱮᱠᱟᱨ ᱠᱚ ᱟᱠᱚᱴ ᱞᱮᱠᱟ ᱾
-about-private-browsing-nova-info-subheader = ᱟᱢ ᱱᱚᱣᱟ ᱡᱷᱚᱨᱠᱟ ᱵᱚᱱᱫᱚ ᱠᱷᱟᱱ ᱟᱞᱮ ᱥᱟᱱᱟᱢ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱥᱟᱭᱤᱱ ᱤᱱ ᱞᱮ ᱢᱤᱴᱟᱣᱟ᱾ { -brand-short-name } ᱨᱮᱭᱟᱜ ᱵᱤᱞᱴ-ᱤᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱱᱚᱸᱰᱮ ᱦᱚᱸ ᱢᱮᱱᱟᱜᱼᱟ, ᱴᱨᱮᱠᱟᱨ ᱠᱚ ᱟᱠᱚᱴ ᱞᱮᱠᱟ ᱾

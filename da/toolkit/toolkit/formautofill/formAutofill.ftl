@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Gem aldrig kort
     .accessKey = G
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Opdater kort?
 credit-card-update-doorhanger-description = Kort, som skal opdateres:
 credit-card-capture-save-new-button =

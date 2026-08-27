@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Giữ riêng tư với { -mozilla-vpn-bra
 about-private-browsing-focus-promo-cta = Tải xuống { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Duyệt web riêng tư khi đang di chuyển
 about-private-browsing-focus-promo-text = Ứng dụng di động duyệt web riêng tư chuyên dụng của chúng tôi sẽ xóa lịch sử và cookie của bạn mọi lúc.
-
-##
-
 about-private-browsing-focus-promo-header-b = Duyệt qua điện thoại của bạn ở chế độ riêng tư
 about-private-browsing-focus-promo-text-b = Sử dụng { -focus-brand-name } cho những tìm kiếm riêng tư mà bạn không muốn trình duyệt chính trên thiết bị di động của mình nhìn thấy.
 about-private-browsing-focus-promo-header-c = Quyền riêng tư nâng cao trên thiết bị di động
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Ai vẫn có thể xem được hoạt �
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Hạn chế tối đa tiết lộ thông tin của bạn
 about-private-browsing-nova-info-subheader2 = Chúng tôi sẽ xóa mọi tìm kiếm và đăng nhập khi bạn đóng tất cả các cửa sổ riêng tư. Các tính năng bảo vệ tích hợp của { -brand-short-name } cũng được bật ở đây, chẳng hạn như chặn trình theo dõi.
-about-private-browsing-nova-info-subheader = Chúng tôi sẽ xóa mọi tìm kiếm và thông tin đăng nhập khi bạn đóng cửa sổ này. Các tính năng bảo vệ tích hợp của { -brand-short-name } cũng được bật ở đây, chẳng hạn như chặn trình theo dõi.

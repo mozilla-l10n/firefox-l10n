@@ -12,8 +12,8 @@ global-privacy-control-description =
 non-technical-privacy-heading =
     .label = Əlavə qorunma tədbirləri
 preferences-privacy-relay-available =
-    .label = { -relay-brand-name } e-poçt maskalarını təklif et
     .description = Gerçək e-poçt ünvanınızı gizlədərək poçt qutunuzu spamdan qoruyur.
+    .label = { -relay-brand-name } e-poçt maskalarını təklif et
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -23,8 +23,8 @@ preferences-privacy-relay-available =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Tənzimləmələrdə tap
+    .style = width: 15.4em
 pane-general-title = Ümumi
 category-general =
     .tooltiptext = { pane-general-title }
@@ -128,8 +128,8 @@ disable-extension =
 preferences-profiles-subpane-description =
     .description = Hər bir profilin tarixçə, parollar və daha çoxu daxil olmaqla ayrıca səyahət məlumatları və tənzimləmələri vardır.
 preferences-profiles-section-header =
-    .label = Profillər
     .description = Hər bir profilin tarixçə, parollar və daha çoxu daxil olmaqla ayrıca səyahət məlumatları və tənzimləmələri vardır.
+    .label = Profillər
 preferences-manage-profiles-description = Hər bir profilin tarixçə, parollar və daha çoxu daxil olmaqla ayrıca səyahət məlumatları və tənzimləmələri vardır.
 tabs-browsing-section =
     .heading = Vərəqlər və səyahət
@@ -191,16 +191,16 @@ containers-remove-cancel-button = Bu konteyneri silmə
 browser-layout-header2 =
     .label = Səyyah düzəni
 browser-layout-horizontal-tabs2 =
+    .description = Vərəqlər yuxarıda
     .label = Üfüqi vərəqlər
     .title = Vərəqlər yuxarıda
-    .description = Vərəqlər yuxarıda
 browser-layout-vertical-tabs2 =
+    .description = Yan paneldə, kənarda vərəqlər
     .label = Şaquli vərəqlər
     .title = Yan paneldə, kənarda vərəqlər
-    .description = Yan paneldə, kənarda vərəqlər
 browser-layout-show-sidebar2 =
-    .label = Yan paneli göstər
     .description = Əsas görünüşdən çıxmadan əlfəcinlərə, telefonunuzdakı vərəqlərə, süni intellekt söhbət botlarına və digər funksiyalara sürətli çıxış əldə edin.
+    .label = Yan paneli göstər
 browser-layout-header = Səyyah düzəni
 browser-layout-horizontal-tabs =
     .label = Üfüqi vərəqlər
@@ -211,8 +211,8 @@ browser-layout-vertical-tabs =
 
 language-and-appearance-header = Dil və Görünüş
 appearance-group2 =
-    .label = Vebsayt görünüşü
     .description = Bəzi vebsaytlar sizin seçimlərinizə uyğunlaşmaq üçün rənglərini dəyişir. Öz rəng sxeminizi seçin.
+    .label = Vebsayt görünüşü
 preferences-web-appearance-header = Vebsayt görünüşü
 preferences-web-appearance-choice-light2 =
     .label = Açıq
@@ -230,8 +230,8 @@ advanced-fonts =
 language-header = Dil
 choose-language-description = Səhifələrin göstəriləcəyi dili seçin
 website-language-heading =
-    .label = Vebsaytın dili
     .description = Bəzi səhifələr birdən çox dildə göstərilə bilər. Göstəriləcək dil sıralamasını seçin.
+    .label = Vebsaytın dili
 website-preferred-language =
     .label = Üstünlük verilən dillər
 choose-button =
@@ -244,13 +244,13 @@ manage-browser-languages-button =
 confirm-browser-language-change-description = Dəyişiklikləri tətbiq etmək üçün { -brand-short-name } səyyahını yenidən başladın
 confirm-browser-language-change-button = Tətbiq et və Yenidən başlat
 browser-language-heading =
-    .label = Səyyahın dili
     .description = { -brand-short-name } səyyahında menyuların, mesajların və bildirişlərin göstərilməsi üçün istifadə ediləcək dili seçin.
+    .label = Səyyahın dili
 browser-language-preferred-label =
     .label = Üstünlük verilən dil
 browser-language-fallback-label =
-    .label = Ehtiyat dil
     .description = Üstünlük verilən dilin lokallaşdırılması tam olmadıqda istifadə olunur.
+    .label = Ehtiyat dil
 browser-language-install-error =
     .message = { -brand-short-name } hazırda dillərinizi yeniləyə bilmir. İnternetə qoşulu olduğunuza əmin olun və təkrar yoxlayın.
 translate-web-pages =
@@ -299,8 +299,8 @@ download-always-ask-where =
 applications-header = Tədbiqetmələr
 applications-description = { -brand-short-name } səyyahının internetdən endirdiyiniz faylları və ya internetdə gəzərkən işlətdiyiniz tətbiqetmələri necə idarə edəcəyini seçin.
 applications-setting2 =
-    .label = Fayllar və tətbiqetmələr
     .description = { -brand-short-name } səyyahının endirilmiş faylları və məzmunu necə idarə edəcəyini seçin.
+    .label = Fayllar və tətbiqetmələr
 applications-filter =
     .placeholder = Fayl növləri və tətbiqetmələri axtar
 applications-type-column =
@@ -394,8 +394,8 @@ update-application-use-service =
 ## Firefox updates
 
 update-application-heading =
-    .label = { -brand-short-name } yeniləmələri
     .description = Yeniləmələr { -brand-short-name } səyyahının sürətini, stabilliyini və təhlükəsizliyini artırır.
+    .label = { -brand-short-name } yeniləmələri
 
 ## Firefox support
 
@@ -450,9 +450,6 @@ browsing-cfr-recommendations =
 browsing-cfr-recommendations-learn-more = Ətraflı Öyrən
 browsing-group =
     .label = Səyahət
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Əlçatanlıq
 
@@ -528,9 +525,6 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-search-header =
     .label = Web Axtarış
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } məsləhət görür
 
@@ -590,8 +584,8 @@ search-show-suggestions-above-history-option =
 search-suggestions-cant-show = { -brand-short-name } səyyahını tarixçəni xatırlamayacaq şəkildə nizamladığınız üçün ünvan sətri nəticələrində axtarış təklifləri göstərilməyəcək.
 search-one-click-desc = Ünvan və axtarış sətrinə söz daxil etdiyinizdə gələn axtarış mühərriklərini seçin.
 search-one-click-header-3 =
-    .label = Əlavə axtarış mühərrikləri
     .description = Ünvan sətrində hansı axtarış mühərrikləri və qısayollarının görünəcəyini seçin.
+    .label = Əlavə axtarış mühərrikləri
 search-choose-engine-column =
     .label = Axtarış Mühərriyi
 search-choose-keyword-column =
@@ -630,8 +624,8 @@ containers-remove-button =
 ## Account and sync
 
 account-placeholder2 =
-    .label = Siz daxil olmamısınız.
     .description = Daxil olun və məlumatlarınızı məxfi, şifrlənmiş və { -brand-short-name } istifadə etdiyiniz hər yerdə bir anda əlçatan halda saxlayın.
+    .label = Siz daxil olmamısınız.
 account-sync-section =
     .heading = Hesab və sinxronizasiya
 pane-account-sync-title2 = Hesab və sinxronizasiya
@@ -656,8 +650,8 @@ sync-mobile-promo = Mobil cihazınızda sinronlaşdırmaq istəyirsinizsə <img 
 sync-profile-picture =
     .tooltiptext = Profil şəklini dəyiş
 sync-profile-picture-with-alt =
-    .tooltiptext = Profil şəklini dəyiş
     .alt = Profil şəklini dəyiş
+    .tooltiptext = Profil şəklini dəyiş
 sync-sign-out =
     .label = Hesabdan çıx…
     .accesskey = g
@@ -677,8 +671,8 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } təsdiqlənməyib.
 sync-signedin-login-failure = Yenidən qoşulmaq üçün daxil olun { $email }
 sync-signedin-login-failure2 =
-    .label = Siz { $email } hesabından çıxış etdiniz
     .description = Yenidən bağlanmaq və məlumatlarınızı sinxronizə etməyə başlamaq üçün təkrar daxil olun.
+    .label = Siz { $email } hesabından çıxış etdiniz
 
 ##
 
@@ -722,8 +716,8 @@ sync-engine-addons =
     .accesskey = Ə
 sync-engine-settings =
     .label = Tənzimləmələr
-    .accesskey = s
     .tooltiptext = Dəyişdirdiyiniz Ümumi, Məxfilik və Təhlükəsizlik tənzimləmələri
+    .accesskey = s
 
 ## The device name controls.
 
@@ -787,9 +781,9 @@ forms-primary-pw-use =
     .label = Baş paroldan istifadə et
     .accesskey = U
 forms-primary-pw-use-2 =
+    .description = Saxlanılmış parollarınızı qorumaq üçün əlavə təhlükəsizlik səviyyəsi təmin edir.
     .label = Baş paroldan istifadə et
     .accesskey = U
-    .description = Saxlanılmış parollarınızı qorumaq üçün əlavə təhlükəsizlik səviyyəsi təmin edir.
 forms-primary-pw-set =
     .label = Baş parolu təyin et
 forms-primary-pw-on-2 = Baş parol <strong>AKTİVDİR</strong>
@@ -841,8 +835,8 @@ history-remember-label = { -brand-short-name } səyyahı
 history-remember-option-all =
     .label = Tarixçəni xatırla
 history-remember-option-never2 =
-    .label = Tarixçəni heç vaxt xatırlama
     .description = Hər pəncərə məxfi pəncərə kimi davranacaq. Bu seçim edildikdə uzantılara icazə verilməlidir.
+    .label = Tarixçəni heç vaxt xatırlama
 history-remember-option-custom2 =
     .label = Tarixçəni özəlləşdir
 history-remember-option-never =
@@ -879,8 +873,8 @@ history-clear-button =
     .label = Tarixçəni Təmizlə…
     .accesskey = T
 history-section-header =
-    .label = Tarixçə
     .description = { -brand-short-name } səyyahının qapadıldıqda nələri xatırlamasını istədiyinizi seçin.
+    .label = Tarixçə
 history-group =
     .label = Tarixçə
 history-remember-option-all2 =
@@ -932,19 +926,19 @@ sitedata-cookies-exceptions =
     .label = İstisnaları idarə et…
     .accesskey = İ
 sitedata-cookies-exceptions2 =
+    .description = Hansı saytların çərəz və sayt məlumatlarını işlədib-işlətməyəcəyini dəqiqləşdirə bilərsiz.
     .label = İstisnaları idarə et
     .accesskey = i
-    .description = Hansı saytların çərəz və sayt məlumatlarını işlədib-işlətməyəcəyini dəqiqləşdirə bilərsiz.
 sitedata-heading =
-    .label = Səyahət məlumatları
     .description = Çərəzlərinizi, tarixçənizi, keşi, vebsayt məlumatları və daha çoxunu idarə edin.
+    .label = Səyahət məlumatları
 sitedata-settings3 =
     .label = Seçilmiş saytların məlumatlarını təmizlə
     .accesskey = s
 sitedata-cookies-exceptions3 =
+    .description = Seçilmiş saytların çərəz və sayt məlumatları ilə necə rəftar edəcəyini seçin.
     .label = İstisnaları idarə et
     .accesskey = i
-    .description = Seçilmiş saytların çərəz və sayt məlumatları ilə necə rəftar edəcəyini seçin.
 cookies-site-data-group =
     .label = Çərəzlər və Sayt Məlumatları
 
@@ -983,9 +977,6 @@ enhanced-tracking-protection-setting-custom =
     .accesskey = F
 
 ##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-warning-title = Diqqət!
 content-blocking-reload-tabs-button =
@@ -1053,8 +1044,8 @@ permissions-microphone2 =
 permissions-notification2 =
     .label = Bildirişlər
 permissions-header3 =
-    .label = İcazələr
     .description = Saytların nələrə giriş əldə edə biləcəyini, nələri idarə edə və ya işə sala biləcəyini tənzimləyin.
+    .label = İcazələr
 permissions-data-section =
     .heading = İcazələr və məlumatlar
 pane-permissions-data-title2 = İcazələr və məlumatlar
@@ -1119,8 +1110,8 @@ certs-devices-enable-fips = FIPS aktivləşdir
 
 preferences-doh-header = HTTPS üzərindən DNS
 dns-over-https-group2 =
-    .label = HTTPS üzərindən DNS
     .description = HTTPS üzərindən Domen Adları Sistemi (DoH) sayt sorğularını (ünvanların axtarışını) şifrələyir ki, internet provayderinizin və ya digər şəxslərin hansı saytlara daxil olmaq üzrə olduğunuzu görməsi daha çətin olsun.
+    .label = HTTPS üzərindən DNS
 
 ## The following strings are used in the Download section of settings
 
@@ -1143,11 +1134,11 @@ preferences-ai-controls-description = { -brand-short-name } səyyahında sizin h
 preferences-ai-controls-block-ai-label = Süni İntellekt təkmilləşdirmələrini əngəlləyin
 preferences-ai-controls-block-ai-description = Əngəlləmək o deməkdir ki, siz { -brand-short-name } səyyahında yeni və ya hazırkı Sİ təkmilləşdirmələrini, yaxud onlar barəsində üstə çıxan pəncərələri görməyəcəksiniz. Təkmilləşdirmələrə nələrin daxil edildiyi və axtarış təklifləri, tövsiyələr kimi ənənəvi maşın öyrənməsi funksiyalarına necə nəzarət etmə barədə <a data-l10n-name="link">ətraflı məlumat əldə edin</a>.
 preferences-ai-controls-on-device-group =
-    .label = Daxili Süni İntellekt
     .description = Bunlar özəllikdən istifadə etdiyiniz zaman cihazınıza yüklənən kiçik süni intellekt modellərindən istifadə edir. Bu yanaşma məxfiliyinizi qorumağa kömək edir.
+    .label = Daxili Süni İntellekt
 preferences-ai-controls-sidebar-chatbot-group =
-    .label = Yan paneldə Sİ söhbət botu təminatçıları
     .description = Səyahət edərkən bir söhbət botunu görünən vəziyyətdə saxlayın. Anthropic Claude, ChatGPT, Copilot, Google Gemini və Le Chat Mistral arasında seçim edin.
+    .label = Yan paneldə Sİ söhbət botu təminatçıları
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Yan paneldə söhbət botu
 preferences-ai-controls-state-description-blocked = <strong> Əngəllənib:</strong> Özəlliyi görə və işlədə bilməyəcəksiniz. Daxili Sİ üçün artıq yüklənmiş modellər silinəcəkdir.
@@ -1172,10 +1163,10 @@ security-privacy-status-up-to-date-label = { -brand-short-name } səyyahının �
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-status-header =
-    .label = Artırılmış İzlənmə Qoruması
     .description = Saytlar sizi onlayn izləmək və narahatedici reklamlar göstərmək üçün izləyicilərdən istifadə edir. { -brand-short-name } internetdə gəzərkən sizi qoruyur, izləyiciləri avtomatik əngəlləyir və rəqəmsal izlərinizə nəzarəti sizə verir.
+    .label = Artırılmış İzlənmə Qoruması
 preferences-etp-header =
     .heading = Artırılmış İzlənmə Qoruması
 preferences-etp-manage-exceptions-button =
-    .label = İstisnaları idarə et
     .description = Artırılmış İzlənmə Qorumasının söndürüldüyü vebsaytları idarə edin.
+    .label = İstisnaları idarə et

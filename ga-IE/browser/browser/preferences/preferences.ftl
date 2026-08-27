@@ -18,8 +18,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Aimsigh sna Socruithe
+    .style = width: 15.4em
 pane-general-title = Ginearálta
 category-general =
     .tooltiptext = { pane-general-title }
@@ -470,8 +470,8 @@ sync-mobile-promo = Íoslódáil Firefox ar <img data-l10n-name="android-icon"/>
 sync-profile-picture =
     .tooltiptext = Athraigh an pictiúr próifíle
 sync-profile-picture-with-alt =
-    .tooltiptext = Athraigh an pictiúr próifíle
     .alt = Athraigh an pictiúr próifíle
+    .tooltiptext = Athraigh an pictiúr próifíle
 sync-manage-account = Bainistigh mo chuntas
     .accesskey = o
 sync-manage-account2 =
@@ -643,9 +643,6 @@ enhanced-tracking-protection-setting-standard =
 
 ##
 
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-cookies-label =
     .label = Fianáin
     .accesskey = F
@@ -691,8 +688,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Eisceachtaí…
-    .accesskey = E
     .searchkeywords = míreanna aníos
+    .accesskey = E
 permissions-addon-exceptions =
     .label = Eisceachtaí…
     .accesskey = E

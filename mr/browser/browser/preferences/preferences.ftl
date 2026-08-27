@@ -407,9 +407,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = वेब शोध
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } तर्फे शिफारस
 
@@ -518,8 +515,8 @@ sync-mobile-promo = साठी डाउनलोड करा <img data-l10n-
 sync-profile-picture =
     .tooltiptext = प्रोफाइल प्रतिमा बदला
 sync-profile-picture-with-alt =
-    .tooltiptext = प्रोफाइल प्रतिमा बदला
     .alt = प्रोफाइल प्रतिमा बदला
+    .tooltiptext = प्रोफाइल प्रतिमा बदला
 sync-sign-out =
     .label = साइन आउट करा…
     .accesskey = g
@@ -555,8 +552,8 @@ sync-sign-in =
 
 prefs-sync-now =
     .labelnotsyncing = आत्ता सिंक करा
-    .accesskeynotsyncing = N
     .labelsyncing = सिंक करत आहे
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = आत्ता सिंक करा
     .accesskey = N
@@ -802,9 +799,6 @@ content-blocking-unvisited-cookies = भेट न दिलेल्या स�
 content-blocking-all-windows-tracking-content = सर्व विंडोमधील सामग्री ट्रॅक करणे
 content-blocking-cryptominers = क्रिप्टोमाइनर
 content-blocking-fingerprinters = फिंगरप्रिंटर
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = सावधान!
 content-blocking-warning-learn-how = कसे ते जाणा
 content-blocking-reload-description = हे बदल लागू करण्यासाठी आपले टॅब रीलोड करावे लागतील.

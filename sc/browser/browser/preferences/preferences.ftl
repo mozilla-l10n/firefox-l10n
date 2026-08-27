@@ -35,8 +35,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Chirca in cunfiguratzione
+    .style = width: 15.4em
 managed-notice = Su navigadore est gestidu dae s'organizatzione tua.
 managed-notice-info-icon =
     .alt = Informatzione
@@ -197,8 +197,8 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Disativa estensione
 preferences-data-migration-group =
-    .label = Importa datos de su navigadore
     .description = Bati is sinnalibros, is craes, sa cronologia, is estensiones e is datos de cumpletamentu automàticu dae un'àteru navigadore.
+    .label = Importa datos de su navigadore
 preferences-data-migration-header = Importa datos de su navigadore
 preferences-data-migration-description = Importa sinnalibros, craes, cronologia e datos de cumpletamentu automàticu in { -brand-short-name }.
 preferences-data-migration-button =
@@ -209,8 +209,8 @@ preferences-profiles-group-header =
 preferences-profiles-subpane-description =
     .description = Onni profilu tenet cunfiguratziones e datos de navigatzione separados, includende sa cronologia, is craes e àteru
 preferences-profiles-section-header =
-    .label = Profilos
     .description = Onni profilu tenet cunfiguratziones e datos de navigatzione separados, includende sa cronologia, is craes e àteru
+    .label = Profilos
 preferences-profiles-header = Profilos
 preferences-manage-profiles-description = Onni profilu tenet cunfiguratziones e datos de navigatzione separados, includende sa cronologia, is craes e àteru
 preferences-manage-profiles-learn-more = Àteras informatziones
@@ -220,8 +220,8 @@ preferences-profiles-settings-button =
     .label = Cunfiguratzione
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
-    .label = Còpia unu profilu chi esistit giai
     .description = Su profilu nou at a copiare is cunfiguratziones e is estensiones tuas, sa cronologia e datos sarvados comente is sinnalibros e is craes, ma non su contu tuo o is datos de sincronizatzione.
+    .label = Còpia unu profilu chi esistit giai
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -338,16 +338,16 @@ settings-tabs-drag-to-create-tab-groups =
 browser-layout-header2 =
     .label = Dispositzione de su navigadore
 browser-layout-horizontal-tabs2 =
+    .description = Ischedas in sa parte superiore
     .label = Ischedas orizontales
     .title = Ischedas in sa parte superiore
-    .description = Ischedas in sa parte superiore
 browser-layout-vertical-tabs2 =
+    .description = Ischedas in sa barra laterale
     .label = Ischedas verticales
     .title = Ischedas in sa barra laterale
-    .description = Ischedas in sa barra laterale
 browser-layout-show-sidebar2 =
-    .label = Ammustra sa barra laterale
     .description = Atzede a sa lestra a sinnalibros, ischedas dae su telefoneddu tuo, chatbot IA e àteru chene lassare s’ischermu printzipale.
+    .label = Ammustra sa barra laterale
 page-navigation-group =
     .label = Navigatzione intre is pàginas
 browser-layout-header = Dispositzione de su navigadore
@@ -450,8 +450,8 @@ preferences-text-zoom-override-warning =
 language-header = Limba
 choose-language-description = Sèbera sa limba preferida tua pro ammustrare pàginas
 website-language-heading =
-    .label = Limba de su situ
     .description = Nch’at pàginas chi podent èssere ammustradas in prus limbas. Sèbera cussas chi preferis.
+    .label = Limba de su situ
 website-preferred-language =
     .label = Limbas preferidas
 website-add-language =
@@ -481,13 +481,13 @@ manage-browser-languages-button =
 confirm-browser-language-change-description = Torra a aviare { -brand-short-name } pro aplicare custas modìficas
 confirm-browser-language-change-button = Àplica e torra a aviare
 browser-language-heading =
-    .label = Limba de su navigadore
     .description = Sèbera sa limba impreada pro ammustrare is menùs, is messàgios e is notìficas de { -brand-short-name }.
+    .label = Limba de su navigadore
 browser-language-preferred-label =
     .label = Limba preferida
 browser-language-fallback-label =
-    .label = Limba alternativa
     .description = Impreada cando sa tradutzione in sa limba preferida no est cumpleta.
+    .label = Limba alternativa
 browser-language-install-error =
     .message = { -brand-short-name } non podet agiornare is limbas tuas, in custu momentu. Assegura·ti de èssere connessu a internet o torra a proare.
 translate-web-pages =
@@ -501,19 +501,19 @@ translate-exceptions =
     .label = Etzetziones…
     .accesskey = z
 settings-translations-header =
-    .label = Tradutziones
     .aria-label = Tradutziones
     .description = Tradue pàginas o testu seletzionadu. Pro amparare sa riservadesa tua, is tradutziones abarrant in su dispositivu tuo.
+    .label = Tradutziones
 settings-translations-offer-to-translate-label =
     .label = Propone sa tradutzione cumpleta de sa pàgina
 settings-translations-more-settings-button =
-    .label = Àteras cunfiguratziones de tradutzione
     .description = Cunfigura is preferèntzias tuas pro cantu a is limbas, sitos web e tradutzione in foras de lìnia.
+    .label = Àteras cunfiguratziones de tradutzione
 settings-translations-subpage-header =
     .heading = Àteras cunfiguratziones de tradutzione
 settings-translations-subpage-speed-up-translation-header =
-    .label = Allestra sa tradutzine
     .description = Iscàrriga limbas cumpletas pro otènnere tradutziones prus lestras e pro tradùere in foras de lìnia
+    .label = Allestra sa tradutzine
 settings-translations-subpage-automatic-translation-header =
     .label = Tradutzione automàtica
 settings-translations-subpage-always-translate-header =
@@ -610,8 +610,8 @@ download-always-ask-where =
 applications-header = Aplicatziones
 applications-description = Sèbera comente { -brand-short-name } depet gestire is archìvios chi iscàrrigas dae su web o is aplicatziones chi impreas cando nàvigas.
 applications-setting2 =
-    .label = Archìvios e aplicatziones
     .description = Sèbera comente { -brand-short-name } depet gestire su cuntenutu e is archìvios iscarrigados.
+    .label = Archìvios e aplicatziones
 applications-filter =
     .placeholder = Chirca genias de archìviu o aplicatziones
 applications-type-column =
@@ -846,9 +846,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Àteras informatziones
 browsing-group =
     .label = Navigatzione
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Atzessibilidade
 preferences-default-zoom-select =
@@ -945,9 +942,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Estensione ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Pàgina printzipale personalizada
 home-custom-homepage-subpage =
     .heading = Pàgina printzipale personalizada
@@ -963,9 +957,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitos chi as sarvadu o bisitadu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Curtzadòrgios patrotzinados
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Cussigiados dae { $provider }
 home-prefs-recommended-by-description-new = Cuntenutu de primore curadu dae { $provider }, parte de sa famìlia de { -brand-product-name }
@@ -1057,12 +1048,12 @@ search-show-suggestions-private-windows-2 =
 search-suggestions-cant-show-2 =
     .message = Is cussìgios de chirca no ant a èssere ammustrados in is resurtados de sa barra de positzione ca as cunfiguradu { -brand-short-name } in manera chi no regordet mai sa cronologia.
 addressbar-header-1 =
-    .label = Barra de indiritzos
     .description = Sèbera is cussìgios de ammustrare in sa barra de indiritzos
+    .label = Barra de indiritzos
 # When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
 addressbar-header-firefox-suggest-2 =
-    .label = { -firefox-suggest-brand-name }
     .description = Cussìgios dae { -brand-short-name } e is sòtzios nostros in sa barra de indiritzos tua.
+    .label = { -firefox-suggest-brand-name }
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1093,8 +1084,8 @@ search-suggestions-cant-show = Is cussìgios de chirca no ant a èssere ammustra
 search-one-click-header2 = Curtzadòrgios de chirca
 search-one-click-desc = Sèbera motores de chirca alternativos chi ant a èssere ammustrados a suta de sa barra de indiritzos e de sa barra de chirca comente cumintzas a iscrìere unu faeddu.
 search-one-click-header-3 =
-    .label = Motores de chirca agiuntivos
     .description = Sèbera cales motores de chirca e curtzadòrgios cumparent in sa barra de indiritzos tua.
+    .label = Motores de chirca agiuntivos
 update-search-engine-success =
     .message = Motores de chirca atualizadu
 search-edit-engine-2 =
@@ -1163,12 +1154,12 @@ containers-settings-button =
 containers-remove-button =
     .label = Boga
 containers-card-header2 =
-    .label = Cuntenidores
     .description = Partzi is testimòngios in cuntenidores diferentes pro pòdere impreare contos diferentes in su pròpiu situ e limitare sa sighidura intre sitos.
+    .label = Cuntenidores
 containers-new-tab-check2 =
+    .description = Custu at a abèrrere su menù de is cuntenidores onni borta chi incarcas su butone «Ischeda noa».
     .label = Sèbera unu cuntenidore pro ònnia ischeda noa
     .accesskey = S
-    .description = Custu at a abèrrere su menù de is cuntenidores onni borta chi incarcas su butone «Ischeda noa».
 containers-settings-button2 =
     .title = Cunfiguratzione
 containers-remove-button3 =
@@ -1183,8 +1174,8 @@ sync-group-label =
 account-group-label2 =
     .label = Contu
 account-disabled-group =
-    .label = Contu
     .description = Sa cunfiguratzione de su contu no est a disponimentu.
+    .label = Contu
 account-sync-section =
     .heading = Contu e sincronizatzione
 pane-account-sync-title2 = Contu e sincronizatzione
@@ -1219,8 +1210,8 @@ sync-mobile-promo = Iscàrriga Firefox pro <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Muda s'immàgine de su profilu
 sync-profile-picture-with-alt =
-    .tooltiptext = Muda s'immàgine de su profilu
     .alt = Muda s'immàgine de su profilu
+    .tooltiptext = Muda s'immàgine de su profilu
 sync-profile-picture-account-problem =
     .alt = Immàgine de profilu
 fxa-login-rejected-warning =
@@ -1243,19 +1234,14 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-unverified2 =
-    .label = { $email } no est ancora cunfirmadu
     .description = Averìgua sa casella de posta eletrònica pro cunfirmare su contu e dd’ufitzializare.
+    .label = { $email } no est ancora cunfirmadu
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
-    .label = { $name }
     .description = { $email }
+    .label = { $name }
 
 ##
 
@@ -1279,8 +1265,8 @@ prefs-syncing-on-2 =
     .label = Sa sincronizatzione est ATIVA
 prefs-syncing-off = Sincronizatzione disativada
 prefs-syncing-off-2 =
-    .label = Sa sincronizatzione est DISATIVADA
     .description = Ativa sa sincronizatzione pro tènnere totu is sinnalibros, is craes, sa cronologia e àteru in su dispositivu.
+    .label = Sa sincronizatzione est DISATIVADA
 prefs-sync-turn-on-syncing =
     .label = Ativa sa sincronizatzione…
     .accesskey = s
@@ -1290,8 +1276,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sincroniza is sinnalibros tuos, sa cronologia, is ischedas, is craes, is cumplementos e sa cunfiguratzione in totu is dispositivos tuos.
 prefs-sync-now =
     .labelnotsyncing = Sincroniza immoe
-    .accesskeynotsyncing = N
     .labelsyncing = Sincronizende…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sincroniza immoe
     .accesskey = N
@@ -1333,12 +1319,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Sèbera ite boles sincronizare
-    .style = min-width: 36em;
     .buttonlabelaccept = Sarva modìficas
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnete…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Sèbera ite boles sincronizare
 sync-choose-dialog-subtitle = Is càmbios a sa lista de elementos de sincronizare ant a èssere aplicados a totu is dispositivos tuos connètidos.
 sync-engine-bookmarks =
     .label = Sinnalibros
@@ -1379,12 +1365,12 @@ sync-engine-settings =
     .tooltiptext = Cunfiguratzione generale, de riservadesa e de seguresa chi apas modificadu
     .accesskey = n
 sync-choose-what-to-sync-dialog4 =
-    .title = Sèbera elementos de sincronizare
-    .style = min-width: 36em;
     .buttonlabelaccept = Sarva
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnete…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Sèbera elementos de sincronizare
 
 ## The device name controls.
 
@@ -1443,8 +1429,8 @@ forms-ask-to-save-logins =
 pane-privacy-passwords-header = Craes
     .searchkeywords = credentziales
 forms-passwords-header =
-    .label = Craes
     .aria-label = Craes
+    .label = Craes
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Cussìgia de sarvare is craes
@@ -1534,12 +1520,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Àteras informatziones
 forms-windows-sso-desc = Gesti is contos in sa cunfiguratzione de su dispositivu tuo
 windows-passkey-settings-label = Gesti is craes de atzessu in is cunfiguratziones de su sistema
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
-    .label = Cunfiguratziones de su pannellu de riservadesa
     .description = Otene agiudu pro s’amparu de s’informatzione tua in lìnia cun { -brand-short-name }.
+    .label = Cunfiguratziones de su pannellu de riservadesa
 
 ## OS Authentication dialog
 
@@ -1652,8 +1635,8 @@ preferences-passwords-autofill-header =
 #   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
-    .label = { $cardNumber }
     .description = { $expDate }
+    .label = { $cardNumber }
 addresses-group =
     .label = Indiritzos e àteru
 payments-group =
@@ -1713,11 +1696,11 @@ history-clear-button =
 history-header2 =
     .heading = Cronologia
 history-section-header =
-    .label = Cronologia
     .description = Sèbera su chi { -brand-short-name } depet regordare cando serras su navigadore
+    .label = Cronologia
 history-custom-section-header =
-    .label = Cunfiguratzione avantzada
     .description = Personaliza su chi boles chi { -brand-short-name } regordet a sa serrada de su navigadore.
+    .label = Cunfiguratzione avantzada
 history-custom-button =
     .label = Personaliza su chi boles chi { -brand-short-name } regordet
 history-group =
@@ -1788,9 +1771,9 @@ sitedata-cookies-exceptions =
     .label = Gesti is etzetziones…
     .accesskey = z
 sitedata-cookies-exceptions2 =
+    .description = Podes ispetzificare cales sitos tenent permissu o nono pro impreare testimòngios e datos de is sitos.
     .label = Gesti is etzetziones
     .accesskey = e
-    .description = Podes ispetzificare cales sitos tenent permissu o nono pro impreare testimòngios e datos de is sitos.
 cookies-site-data-group =
     .label = Testimòngios e datos de is sitos
 
@@ -1856,11 +1839,11 @@ addressbar-locbar-showtrendingsuggestions-option-2 =
     .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
-    .label = Cussìgios dae { -brand-short-name }
     .description = Otene cussìgios de sa rete acapiados a sa chirca tua.
+    .label = Cussìgios dae { -brand-short-name }
 addressbar-locbar-suggest-sponsored-option-2 =
-    .label = Cussìgios dae is ispònsors
     .description = Sustene { -brand-short-name } cun propostas patrotzinadas in manera ocasionale.
+    .label = Cussìgios dae is ispònsors
 addressbar-suggestions-settings = Muda sa cunfiguratzione de cussìgios de motores de chirca
 addressbar-locbar-showrecentsearches-option =
     .label = Ammustra chircas reghentes
@@ -1876,8 +1859,8 @@ addressbar-locbar-suggest-sponsored-option =
     .label = Cussìgios dae is ispònsors
 addressbar-locbar-suggest-sponsored-desc = Sustene { -brand-short-name } cun propostas patrotzinadas in manera ocasionale.
 addressbar-dismissed-suggestions-label-2 =
-    .label = Cussìgios iscartados
     .description = Ripristina is cussìgios iscartados dae is patrotzinadores e { -brand-short-name }.
+    .label = Cussìgios iscartados
 addressbar-quickactions-learn-more = Àteras informatziones
 addressbar-dismissed-suggestions-label = Cussìgios iscartados
 addressbar-restore-dismissed-suggestions-description = Ripristina is cussìgios iscartados dae is patrotzinadores e { -brand-short-name }.
@@ -1932,9 +1915,6 @@ content-blocking-fingerprinters = Generadores de imprentas digitales
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Generadores de imprentas digitales connotos e suspetos
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Sa protetzione totale de testimòngios cuntenet is testimòngios de su situ in ue t’agatas, aici is sighidores no ddos podent impreare pro ti sighire intre unu situ e s’àteru.
 content-blocking-etp-standard-tcp-rollout-learn-more = Àteras informatziones
@@ -2040,8 +2020,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Etzetziones…
-    .accesskey = E
     .searchkeywords = ventanas a cumparsa
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Avisa si unu situ proat a installare cumplementos
     .accesskey = A
@@ -2084,8 +2064,8 @@ collection-privacy-notice = Avisu de riservadesa
 collection-health-report-telemetry-disabled = Non permitas prus a { -vendor-short-name } de caturare datos tècnicos e de interatzione. Totu is datos betzos ant a èssere cantzellados intro de 30 dies.
 collection-health-report-telemetry-disabled-link = Àteras informatziones
 addon-recommendations3 =
-    .label = Permite cussìgios personalizados de estensiones
     .description = Retzi cussìgios de estensiones pro megiorare s’esperièntzia tua de navigatzione.
+    .label = Permite cussìgios personalizados de estensiones
 collection-usage-ping =
     .label = Imbia unu ping de impreu diàriu a { -vendor-short-name }
     .accesskey = I
@@ -2136,8 +2116,8 @@ privacy-segmentation-radio-on =
     .label = Ammustra informatziones detalliadas
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 data-collection =
-    .label = Impreu e collida de datos dae { -brand-short-name }
     .description = Nos impinnamus a ti donare sa possibilidade de seberare e regollimus isceti is datos mìnimos pro megiorare { -brand-product-name } pro totus.
+    .label = Impreu e collida de datos dae { -brand-short-name }
     .searchkeywords = telemetria
 data-collection-link = Bide s'avisu de riservadesa
 data-collection-preferences-across-profiles =
@@ -2146,14 +2126,14 @@ data-collection-profiles-link = Ammustra totu is profilos
 data-collection-health-report-telemetry-disabled =
     .message = Non permitas prus a { -vendor-short-name } de caturare datos tècnicos e de interatzione. Totu is datos betzos ant a èssere cantzellados intro de 30 dies.
 data-collection-health-report =
+    .description = Custu nos agiudat a megiorare is funtziones, su rendimentu e s’istabilidade de { -brand-product-name }.
     .label = Imbia datos tècnicos e de interatzione a { -vendor-short-name }
     .accesskey = r
-    .description = Custu nos agiudat a megiorare is funtziones, su rendimentu e s’istabilidade de { -brand-product-name }.
 data-collection-studies-link =
     .label = Ammustra is istùdios de { -brand-short-name }
 data-collection-usage-ping =
-    .label = Imbia unu ping de impreu diàriu a { -vendor-short-name }
     .description = Custu permitit a { -vendor-short-name } de istimare su nùmeru de utentes ativos.
+    .label = Imbia unu ping de impreu diàriu a { -vendor-short-name }
     .accesskey = I
 
 ## Privacy Section - Website Advertising Preferences
@@ -2222,13 +2202,13 @@ httpsonly-radio-enabled =
 httpsonly-radio-enabled-pbm =
     .label = Ativa sa modalidade HTTPS ebbia isceti in is ventanas privadas
 httpsonly-radio-disabled3 =
-    .label = No atives sa modalidade «isceti HTTPS»
     .description = { -brand-short-name } diat pòdere ancora atualizare unas cantas connessiones
+    .label = No atives sa modalidade «isceti HTTPS»
 httpsonly-radio-disabled =
     .label = No atives sa modalidade HTTPS ebbia
 httpsonly-group =
-    .label = Modalidade HTTPS ebbia
     .description = Permitit isceti connessiones seguras a is sitos. { -brand-short-name } at a preguntare in antis de si connètere in manera non segura.
+    .label = Modalidade HTTPS ebbia
 httpsonly-label2 =
     .aria-label = { httpsonly-group.label }
 
@@ -2313,8 +2293,8 @@ preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-translations-more-link = Àteras cunfiguratziones de tradutzione
 preferences-ai-controls-key-points-control =
-    .label = Puntos crae in sa previsualizatzione de is ligòngios
     .description = Bide unu resumu lestru in antis de abèrrere unu ligòngiu.
+    .label = Puntos crae in sa previsualizatzione de is ligòngios
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = A disponimentu
@@ -2353,31 +2333,31 @@ issue-card-reset-button =
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-status-header =
-    .label = Amparu megioradu contra sa sighidura
     .description = Is sitos impreant sighidores pro ti sighire in lìnia e t’ammustrare publitzidade non disigiada. { -brand-short-name } t’amparat durante sa navigatzione e blocat is sighidores in automàticu pro chi tèngias su controllu de su rastu digitale tuo.
+    .label = Amparu megioradu contra sa sighidura
 preferences-etp-level-standard =
-    .label = Istàndard (predefinidu)
     .description = Amparu forte e fidadu chi funtzionant bene pro sa majoria de sitos.
+    .label = Istàndard (predefinidu)
 preferences-etp-level-custom =
-    .label = Personalizadu
     .description = Sèbera cale amparos boles ativare o disativare.
+    .label = Personalizadu
 preferences-etp-status-advanced-button =
     .label = Cunfiguratziones avantzadas
 preferences-etp-header =
     .heading = Amparu megioradu contra sa sighidura
 preferences-etp-advanced-settings-group =
-    .label = Cunfiguratziones avantzadas
     .description = Is sitos impreant sighidores pro ti sighire in lìnia e t’ammustrare publitzidade non disigiada. { -brand-short-name } t’amparat durante sa navigatzione e blocat sa majoria de sighidores in automàticu pro chi tèngias su controllu de su rastu digitale tuo.
+    .label = Cunfiguratziones avantzadas
 preferences-etp-customize-button =
     .label = Personaliza s’amparu contra is sighiduras
 preferences-etp-manage-exceptions-button =
-    .label = Gesti is etzetziones
     .description = Gesti sitos cun s'Amparu megioradu contra sa sighidura disativadu.
+    .label = Gesti is etzetziones
 preferences-etp-customize-header =
     .heading = Personaliza s’amparu contra is sighiduras
 preferences-etp-reset =
-    .label = Azera is personalizatziones
     .description = Torra a una cunfiguratzione de livellu de amparu predefinidu.
+    .label = Azera is personalizatziones
 preferences-etp-reset-standard-button =
     .label = Torra a sa cunfiguratzione istandard
 preferences-etp-reset-strict-button =

@@ -387,7 +387,6 @@ appmenuitem-vpn-title2 = Oculta la ubicación con { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description5 = Obtener protección adicional en todos los dispositivos
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Descargar { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = Hace que la navegación sea más difícil de rastrear
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtener protección para todo el dispositivo
 appmenuitem-vpn-description = Proteger la actividad en línea

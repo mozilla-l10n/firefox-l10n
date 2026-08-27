@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = បន្តនៅជាឯកជន​�
 about-private-browsing-focus-promo-cta = ទាញ​យក { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ការរុករកឯកជននៅពេលធ្វើដំណើរ
 about-private-browsing-focus-promo-text = កម្មវិធី​រុករក​ឯកជន​របស់​យើង​សម្អាត​ប្រវត្តិ និង​ខូគី​របស់​អ្នក​រាល់ពេល។
-
-##
-
 about-private-browsing-focus-promo-header-b = នាំយកការរុករកឯកជនទៅទូរស័ព្ទរបស់អ្នក
 about-private-browsing-focus-promo-text-b = ប្រើ { -focus-brand-name } សម្រាប់ការស្វែងរកឯកជនទាំងនោះដែលអ្នកមិនចង់ឱ្យកម្មវិធីរុករកតាមអ៊ីនធឺណិតចម្បងរបស់អ្នកឃើញ។
 about-private-browsing-focus-promo-header-c = ភាពឯកជនកម្រិតបន្ទាប់នៅលើទូរសព្ទចល័ត

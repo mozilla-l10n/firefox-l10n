@@ -204,9 +204,6 @@ choose-bookmark =
 
 home-prefs-search-header =
     .label = वेब खोज
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा अनुशंसित
 
@@ -271,8 +268,8 @@ search-default-engine =
 sync-profile-picture =
     .tooltiptext = प्रोफ़ाइल फोटो बदलू
 sync-profile-picture-with-alt =
-    .tooltiptext = प्रोफ़ाइल फोटो बदलू
     .alt = प्रोफ़ाइल फोटो बदलू
+    .tooltiptext = प्रोफ़ाइल फोटो बदलू
 
 ## Variables
 ## $email (string) - Email used for Firefox account

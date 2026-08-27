@@ -358,9 +358,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = वेब खोजि
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा सिफारिस गरिएको
 
@@ -460,8 +457,8 @@ sync-mobile-promo = निम्नको लागि Firefox डाउनल�
 sync-profile-picture =
     .tooltiptext = प्रोफाइल तस्वीर परिवर्तन गर्नुहोस्
 sync-profile-picture-with-alt =
-    .tooltiptext = प्रोफाइल तस्वीर परिवर्तन गर्नुहोस्
     .alt = प्रोफाइल तस्वीर परिवर्तन गर्नुहोस्
+    .tooltiptext = प्रोफाइल तस्वीर परिवर्तन गर्नुहोस्
 sync-manage-account = खाता व्यवस्थापन गर्नुहोस्
     .accesskey = o
 sync-manage-account2 =

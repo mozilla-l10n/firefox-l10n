@@ -902,33 +902,6 @@ urlbar-result-explanation-bookmarked = Էջանշված է { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Վերջին այցելությունը՝ { $date }
-# This explanation is used when the last-visited date is a small number of days
-# in the past.
-# Variables:
-#   $daysAgo (number) - The number of days ago
-urlbar-result-explanation-last-visited-days-2 =
-    { $daysAgo ->
-        [one] Վերջին այցելությունը՝ { $daysAgo } օր առաջ
-       *[other] Վերջին այցելությունը՝ { $daysAgo } օր առաջ
-    }
-# This explanation is used when the last-visited date is a small number of weeks
-# in the past.
-# Variables:
-#   $weeksAgo (number) - The number of weeks ago
-urlbar-result-explanation-last-visited-weeks-2 =
-    { $weeksAgo ->
-        [one] Վերջին այցելությունը՝ { $weeksAgo } շաբաթ առաջ
-       *[other] Վերջին այցելությունը՝ { $weeksAgo } շաբաթ առաջ
-    }
-# This explanation is used when the last-visited date is a small number of
-# months in the past.
-# Variables:
-#   $monthsAgo (number) - The number of months ago
-urlbar-result-explanation-last-visited-months-2 =
-    { $monthsAgo ->
-        [one] Վերջին այցելությունը՝ { $monthsAgo } ամիս առաջ
-       *[other] Վերջին այցելությունը՝ { $monthsAgo } ամիս առաջ
-    }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:

@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Cerca en els paràmetres
+    .style = width: 15.4em
 managed-notice = El navegador està gestionat per la vostra organització.
 managed-notice-nav =
     .label = El navegador està gestionat per la vostra organització.
@@ -518,9 +518,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Llocs que guardeu o visiteu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Dreceres patrocinades
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
 home-prefs-recommended-by-description-new = Contingut excepcional seleccionat per { $provider }, part de la família de { -brand-product-name }
@@ -663,8 +660,8 @@ sync-mobile-promo = Baixeu el Firefox per a l'<img data-l10n-name="android-icon"
 sync-profile-picture =
     .tooltiptext = Canvia la imatge de perfil
 sync-profile-picture-with-alt =
-    .tooltiptext = Canvia la imatge de perfil
     .alt = Canvia la imatge de perfil
+    .tooltiptext = Canvia la imatge de perfil
 sync-sign-out =
     .label = Tanca la sessió…
     .accesskey = T
@@ -709,8 +706,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sincronitzeu les vostres adreces d'interés, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
 prefs-sync-now =
     .labelnotsyncing = Sincronitza ara
-    .accesskeynotsyncing = S
     .labelsyncing = S'està sincronitzant…
+    .accesskeynotsyncing = S
 prefs-sync-now-button =
     .label = Sincronitza ara
     .accesskey = S
@@ -740,12 +737,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Trieu què voleu sincronitzar
-    .style = min-width: 36em;
     .buttonlabelaccept = Guarda els canvis
-    .buttonaccesskeyaccept = c
     .buttonlabelextra2 = Desconnecta…
+    .buttonaccesskeyaccept = c
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Trieu què voleu sincronitzar
 sync-engine-bookmarks =
     .label = Adreces d'interés
     .accesskey = d
@@ -1033,9 +1030,6 @@ content-blocking-unvisited-cookies = Galetes de llocs no visitats
 content-blocking-all-windows-tracking-content = Contingut que fa seguiment en totes les finestres
 content-blocking-cryptominers = Miners de criptomonedes
 content-blocking-fingerprinters = Generadors d'empremtes digitals
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protecció total de galetes aïlla les galetes del lloc on vos trobeu, de manera que els elements de seguiment no les poden utilitzar per a seguir-vos d'un lloc a l'altre,
 content-blocking-etp-standard-tcp-rollout-learn-more = Més informació
@@ -1117,8 +1111,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Excepcions…
-    .accesskey = E
     .searchkeywords = finestres emergents
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Avisa quan els llocs web intenten instal·lar complements
     .accesskey = i

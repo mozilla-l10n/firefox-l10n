@@ -410,9 +410,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Da nuu chuva´anu a xíín ne´yanu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Da atajo íyo patrocinado
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = A kachi { $provider }
 
@@ -535,8 +532,8 @@ sync-mobile-promo = Xinuun Firefox <img data-l10n-name="android-icon"/><a data-l
 sync-profile-picture =
     .tooltiptext = Sama tutu natava perfil
 sync-profile-picture-with-alt =
-    .tooltiptext = Sama tutu natava perfil
     .alt = Sama tutu natava perfil
+    .tooltiptext = Sama tutu natava perfil
 sync-sign-out =
     .label = Kene…
     .accesskey = g
@@ -574,8 +571,8 @@ prefs-syncing-on = Sincronización: ACTIVADA
 prefs-syncing-off = Sincronización: DESACTIVADA
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ntañu´u
-    .accesskeynotsyncing = N
     .labelsyncing = Sincronizando…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sincronizar ntañu´u
     .accesskey = N
@@ -605,12 +602,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Kaji ne´i kuvi saa sincronizar
-    .style = min-width: 36em;
     .buttonlabelaccept = Chuva'a nsama
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Nakasɨ sesión…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Kaji ne´i kuvi saa sincronizar
 sync-engine-bookmarks =
     .label = A ta´a ini noo´o
     .accesskey = m
@@ -867,9 +864,6 @@ content-blocking-all-cookies = Kuaiyo da cookies
 content-blocking-unvisited-cookies = Cookies nuu web ntu nne'ya
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Huellas dactilares
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = ¡Atención!
 content-blocking-warning-learn-how = Kutu´va naja
 content-blocking-reload-description = Nejika nakajie´e tuku da pestañas saa kino da nsama.

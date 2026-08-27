@@ -11,9 +11,6 @@ autofill-options-link-osx = Preferències d'emplenament automàtic de formularis
 
 ## The credit card capture doorhanger
 
-
-# Used on the doorhanger when an credit card change is detected.
-
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Esborra el formulari emplenat automàticament
 

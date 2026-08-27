@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Airt-oot in Settins
+    .style = width: 15.4em
 managed-notice = Yer stravaiger is bein managed by yer organisation.
 managed-notice-nav =
     .label = Yer stravaiger is bein managed by yer organisation.
@@ -518,9 +518,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sites ye save or veesit
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsored shortcuts
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Recommendit by { $provider }
 home-prefs-recommended-by-description-new = Gallus content pit thegither by { $provider }, pairt o the { -brand-product-name } faimily
@@ -663,8 +660,8 @@ sync-mobile-promo = Doonload Firefox fur <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Chynge profile pictur
 sync-profile-picture-with-alt =
-    .tooltiptext = Chynge profile pictur
     .alt = Chynge profile pictur
+    .tooltiptext = Chynge profile pictur
 sync-sign-out =
     .label = Sign Oot…
     .accesskey = g
@@ -709,8 +706,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Synchronise yer buikmerks, historie, tabs, passwirds, eik-ons, and settins across aw yer devices.
 prefs-sync-now =
     .labelnotsyncing = Sync Noo
-    .accesskeynotsyncing = N
     .labelsyncing = Syncin…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sync Noo
     .accesskey = N
@@ -740,12 +737,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Wale Whit Tae Sync
-    .style = min-width: 36em;
     .buttonlabelaccept = Save Chynges
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnect…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Wale Whit Tae Sync
 sync-engine-bookmarks =
     .label = Buikmerks
     .accesskey = m
@@ -1037,9 +1034,6 @@ content-blocking-unvisited-cookies = Cookies fae sites ye hivnae veesitit
 content-blocking-all-windows-tracking-content = Trackin content in aw windaes
 content-blocking-cryptominers = Cryptohowkers
 content-blocking-fingerprinters = Fingirprenters
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-etp-standard-tcp-rollout-learn-more = Lairn mair
 content-blocking-warning-title = Haud the bus!
 content-blocking-and-isolating-etp-warning-description-2 = This settin micht gar some wabsites tae no kythe content or wirk richt. Gin a site luiks mogert, ye micht want tae turn aff trackin bieldin fur thon site tae load aw content.
@@ -1119,8 +1113,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Exceptions…
-    .accesskey = E
     .searchkeywords = lowpups
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Warn ye when wabsites ettle tae instaw eik-ons
     .accesskey = W

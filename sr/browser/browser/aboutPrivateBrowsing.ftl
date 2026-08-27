@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Останите приватни уз { 
 about-private-browsing-focus-promo-cta = Преузми { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Приватно прегледање на длану
 about-private-browsing-focus-promo-text = Наш прегледач који је посвећен заштити ваше приватности аутоматски брише вашу историју и колачиће.
-
-##
-
 about-private-browsing-focus-promo-header-b = Уживајте у приватном прегледању на свом телефону
 about-private-browsing-focus-promo-text-b = Користите { -focus-brand-name } за приватне претраге које желите да сакријете од свог главног мобилног прегледача.
 about-private-browsing-focus-promo-header-c = Висок ниво приватности на телефону
@@ -84,4 +81,3 @@ about-private-browsing-nova-info-link = Ко би и даље могао да в
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Нико вас сада не снима
 about-private-browsing-nova-info-subheader2 = Обрисаћемо сваку претрагу и пријаву када затворите све приватне прозоре. Уграђене заштите { -brand-short-name }-а су овде такође укључене, попут блокирања пратилаца.
-about-private-browsing-nova-info-subheader = Обрисаћемо сваку претрагу и пријаву када затворите овај прозор. Уграђене заштите { -brand-short-name }-а су овде такође укључене, као што је блокирање праћења.

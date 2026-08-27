@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Exir
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Aperir le menu del application
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Clauder le menu del application
     .label = { -brand-short-name }
+    .tooltiptext = Clauder le menu del application
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Pre-configuration recommendate pro le depuration del major parte de applicationes web, con poc supercarga.
 profiler-popup-presets-web-developer-label =
     .label = Disveloppamento web
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Cela tu position con { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description5 = Obtene protection ulterior a transverso apparatos
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Discargar { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = Rende tu navigar plus ardue a traciar
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtene protection pro tote le apparato
 appmenuitem-vpn-description = Protege tu activitate online

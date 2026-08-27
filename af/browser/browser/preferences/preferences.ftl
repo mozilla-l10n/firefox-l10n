@@ -336,9 +336,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Web soektog
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Aanbeveel deur { $provider }
 
@@ -413,8 +410,8 @@ sync-mobile-promo = Laai Firefox af vir <img data-l10n-name="android-icon"/> <a 
 sync-profile-picture =
     .tooltiptext = Verander profielprent
 sync-profile-picture-with-alt =
-    .tooltiptext = Verander profielprent
     .alt = Verander profielprent
+    .tooltiptext = Verander profielprent
 sync-manage-account = Bestuur rekening
     .accesskey = o
 sync-manage-account2 =
@@ -595,9 +592,6 @@ content-blocking-learn-more = Meer inligting
 content-blocking-all-cookies = Alle koekies
 content-blocking-cryptominers = Kriptomyners
 content-blocking-fingerprinters = Vingerafdrukkers
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-tracking-protection-option-all-windows =
     .label = In alle vensters
     .accesskey = A

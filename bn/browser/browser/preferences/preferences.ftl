@@ -17,8 +17,8 @@ do-not-track-option-always =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = সেটিংসে খুঁজুন
+    .style = width: 15.4em
 managed-notice = আপনার ব্রাউজার আপনার প্রতিষ্ঠান দ্বারা পরিচালিত হচ্ছে।
 managed-notice-nav =
     .label = আপনার ব্রাউজার আপনার প্রতিষ্ঠান দ্বারা পরিচালিত হচ্ছে।
@@ -454,9 +454,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = ওয়েব অনুসন্ধান
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } দ্বারা সুপারিশকৃত
 
@@ -581,8 +578,8 @@ sync-mobile-promo = আপনার মোবাইল ডিভাইসের 
 sync-profile-picture =
     .tooltiptext = প্রোফাইলের ছবি পরিবর্তন করুন
 sync-profile-picture-with-alt =
-    .tooltiptext = প্রোফাইলের ছবি পরিবর্তন করুন
     .alt = প্রোফাইলের ছবি পরিবর্তন করুন
+    .tooltiptext = প্রোফাইলের ছবি পরিবর্তন করুন
 sync-sign-out =
     .label = সাইন আউট...
     .accesskey = g
@@ -620,8 +617,8 @@ prefs-syncing-on = সিঙ্ক: চালু
 prefs-syncing-off = সিঙ্ক: বন্ধ
 prefs-sync-now =
     .labelnotsyncing = এখনই সিঙ্ক করুন
-    .accesskeynotsyncing = N
     .labelsyncing = সিঙ্ক হচ্ছে…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = এখনই সিঙ্ক করুন
     .accesskey = N
@@ -651,12 +648,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = কি সিঙ্ক করবেন তা ঠিক করুন
-    .style = min-width: 36em;
     .buttonlabelaccept = পরিবর্তন সংরক্ষণ করুন
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = বিছিন্ন...
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = কি সিঙ্ক করবেন তা ঠিক করুন
 sync-engine-bookmarks =
     .label = বুকমার্ক
     .accesskey = m
@@ -900,9 +897,6 @@ content-blocking-unvisited-cookies = অদেখা ওয়েবসাইট
 content-blocking-all-windows-tracking-content = সমস্ত উইন্ডোতে কন্টেন্ট ট্র্যাকিং
 content-blocking-cryptominers = ক্রিপ্টোমাইনার
 content-blocking-fingerprinters = ফিঙ্গারপ্রিন্টারস
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = সাধুবাদ জানাই!
 content-blocking-warning-learn-how = শিখুন কিভাবে হয়
 content-blocking-reload-description = এই পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে আপনার ট্যাব পুনরায় লোড করতে হবে।

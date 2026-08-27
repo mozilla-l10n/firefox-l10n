@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Сохраняйте приватност
 about-private-browsing-focus-promo-cta = Скачивание { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: приватный просмотр сети на лету
 about-private-browsing-focus-promo-text = Наше специальное мобильное приложение для приватного просмотра каждый раз удаляет вашу историю и куки.
-
-##
-
 about-private-browsing-focus-promo-header-b = Приватный просмотр на телефоне
 about-private-browsing-focus-promo-text-b = Используйте { -focus-brand-name }, когда не хотите сохранять свой поиск в основном мобильном браузере.
 about-private-browsing-focus-promo-header-c = Новый уровень приватности на мобильных устройствах
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Кто ещё может видеть м
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Вас не записывают
 about-private-browsing-nova-info-subheader2 = Мы удалим все поисковые запросы и входы, когда вы закроете все ваши приватные окна. Встроенная защита { -brand-short-name } тоже включена, например, блокировка трекеров.
-about-private-browsing-nova-info-subheader = Мы удалим все поисковые запросы и входы, когда вы закроете это окно. Встроенная защита { -brand-short-name } тоже включена, например, блокировка трекеров.

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Cadwch yn breifat gyda { -mozilla-vpn-bra
 about-private-browsing-focus-promo-cta = Llwytho { -focus-brand-name } i Lawr
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Pori preifat wrth fynd
 about-private-browsing-focus-promo-text = Mae ein ap symudol pori preifat pwrpasol yn clirio'ch hanes a'ch cwcis bob tro.
-
-##
-
 about-private-browsing-focus-promo-header-b = Ewch â phori preifat i'ch ffôn
 about-private-browsing-focus-promo-text-b = Defnyddiwch { -focus-brand-name } ar gyfer y chwilio preifat hynny nad ydych am i'ch prif borwr symudol eu gweld.
 about-private-browsing-focus-promo-header-c = Preifatrwydd uwch ar ffôn symudol
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Pwy sy'n dal i allu gweld beth rwy'n gwn
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Bydd eich hanes pori'n cael ei ddileu
 about-private-browsing-nova-info-subheader2 = Byddwn yn dileu pob chwilio a mewngofnodi pan fyddwch yn cau eich holl Ffenestri Preifat. Mae diogelwch cynhenid { -brand-short-name } ymlaen yma hefyd, fel rhwystro tracwyr.
-about-private-browsing-nova-info-subheader = Byddwn yn dileu eich holl chwilio a mewngofnodi pan fyddwch yn cau'r ffenestr hon. Mae diogeledd cynhenid { -brand-short-name } ymlaen yma hefyd, fel rhwystro tracwyr.

@@ -22,9 +22,6 @@ about-private-browsing-not-private = Kombedi pe itye i dirica me mung.
 about-private-browsing-learn-more-link = Nong ngec mapol
 about-private-browsing-prominent-cta = Bed i mung ki { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Gam { -focus-brand-name }
-
-##
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

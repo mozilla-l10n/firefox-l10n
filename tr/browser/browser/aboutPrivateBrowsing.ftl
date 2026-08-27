@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ile gizli kal
 about-private-browsing-focus-promo-cta = { -focus-brand-name }’u indir
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Her yerde gizli gezinti
 about-private-browsing-focus-promo-text = Mobil gizlilik tarayıcımız her seferinde geçmişinizi ve çerezlerinizi temizler.
-
-##
-
 about-private-browsing-focus-promo-header-b = Gizli gezintiyi telefonunuza taşıyın
 about-private-browsing-focus-promo-text-b = Ana mobil tarayıcınızda görünmesini istemediğiniz aramalar için { -focus-brand-name } kullanabilirsiniz.
 about-private-browsing-focus-promo-header-c = Mobil cihazlarda üst düzey gizlilik
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Yaptıklarımı kimler hâlâ görebilir
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Gezinti geçmişiniz kaydedilmiyor
 about-private-browsing-nova-info-subheader2 = Gizli pencereleri kapattığınızda tüm aramalarınız ve oturumlarınız silinecektir. { -brand-short-name } tarayıcısının yerleşik korumaları (örn. takip kodu engelleme) burada da açıktır.
-about-private-browsing-nova-info-subheader = Bu pencereyi kapattığınızda tüm aramalarınız ve oturumlarınız silinecektir. { -brand-short-name } tarayıcısının yerleşik korumaları (örn. takip kodu engelleme) burada da açıktır.

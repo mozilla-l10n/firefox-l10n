@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = არასდროს შეინახოს ბარათები
     .accessKey = რ
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = განახლდეს ბარათი?
 credit-card-update-doorhanger-description = გასაახლებელი ბარათი:
 credit-card-capture-save-new-button =

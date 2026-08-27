@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Stay private with { -mozilla-vpn-brand-na
 about-private-browsing-focus-promo-cta = Download { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Private browsing on-the-go
 about-private-browsing-focus-promo-text = Our dedicated private browsing mobile app clears your history and cookies every time.
-
-##
-
 about-private-browsing-focus-promo-header-b = Take private browsing to your phone
 about-private-browsing-focus-promo-text-b = Use { -focus-brand-name } for those private searches you don’t want your main mobile browser to see.
 about-private-browsing-focus-promo-header-c = Next-level privacy on mobile
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Who might still be able to see my activi
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = You’re off the record
 about-private-browsing-nova-info-subheader2 = We’ll erase every search and sign-in when you close all your Private Windows. { -brand-short-name }’s built-in protections are on here too, like blocking trackers.
-about-private-browsing-nova-info-subheader = We’ll erase every search and sign-in when you close this window. { -brand-short-name }’s built-in protections are on here too, like blocking trackers.

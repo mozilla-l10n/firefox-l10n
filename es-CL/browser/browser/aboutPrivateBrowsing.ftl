@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Mantente en privado con { -mozilla-vpn-br
 about-private-browsing-focus-promo-cta = Bajar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegación privada en todas partes
 about-private-browsing-focus-promo-text = Nuestra aplicación móvil dedicada a la navegación privada borra tu historial y cookies cada vez.
-
-##
-
 about-private-browsing-focus-promo-header-b = Lleva la navegación privada a tu teléfono
 about-private-browsing-focus-promo-text-b = Usa { -focus-brand-name } para aquellas búsquedas privadas que no quieres que el navegador principal de tu celular vea.
 about-private-browsing-focus-promo-header-c = Privacidad de nivel superior en dispositivos móviles
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = ¿Quién todavía podría ver mi activid
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Estás tras bambalinas
 about-private-browsing-nova-info-subheader2 = Borraremos todas las búsquedas y conexiones cuando cierres todas tus ventanas privadas. Las protecciones integradas de { -brand-short-name } también están aquí, como el bloqueo de rastreadores.
-about-private-browsing-nova-info-subheader = Borraremos todas las búsquedas y conexiones al cerrar esta ventana. Las protecciones integradas de { -brand-short-name } también están acá, como el bloqueo de rastreadores.

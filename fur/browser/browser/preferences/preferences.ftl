@@ -19,8 +19,8 @@ do-not-track-removal3 =
 non-technical-privacy-heading =
     .label = Protezions in plui
 preferences-privacy-relay-available =
-    .label = Consee mascaris di e-mail di { -relay-brand-name }
     .description = Al plate la tô vere e-mail par parâ la tô casele di pueste dal spam.
+    .label = Consee mascaris di e-mail di { -relay-brand-name }
 non-technical-privacy-header = Preferencis pe riservatece dai sîts web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -38,8 +38,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 16em
     .placeholder = Cîr tes impostazions
+    .style = width: 16em
 managed-notice = Il to navigadôr al ven gjestît de tô organizazion.
 managed-notice-info-icon =
     .alt = Informazion
@@ -201,8 +201,8 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Disative estension
 preferences-data-migration-group =
-    .label = Impuarte dâts dal navigadôr
     .description = Puarte achì di un altri navigadôr i tiei segnelibris, lis passwords, la cronologjie, lis estensions e i dâts di compilazion dai formularis.
+    .label = Impuarte dâts dal navigadôr
 preferences-data-migration-header = Impuarte dâts dal navigadôr
 preferences-data-migration-description = Impuarte segnelibris, passwords, cronologjie e i dâts pe compilazion automatiche dai formularis in { -brand-short-name }.
 preferences-data-migration-button =
@@ -213,8 +213,8 @@ preferences-profiles-group-header =
 preferences-profiles-subpane-description =
     .description = Ogni profîl al manten dâts di navigazion e impostazions indipendentis, includûts cronologjie, passwords e altris dâts.
 preferences-profiles-section-header =
-    .label = Profîi
     .description = Ogni profîl al manten dâts di navigazion e impostazions indipendentis, includûts cronologjie, passwords e altris dâts.
+    .label = Profîi
 preferences-profiles-header = Profîi
 preferences-manage-profiles-description = Ogni profîl al manten dâts di navigazion e impostazions indipendentis, includûts cronologjie, passwords e altris dâts.
 preferences-manage-profiles-learn-more = Plui informazions
@@ -224,8 +224,8 @@ preferences-profiles-settings-button =
     .label = Impostazions
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
-    .label = Copie un profîl esistent
     .description = Il gnûf profîl al copiarà lis impostazions, i components adizionâi, la cronologjie e i dâts salvâts come i segnelibris e lis passwords — ma no il to account o lis informazions di sincronizazion.
+    .label = Copie un profîl esistent
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -345,16 +345,16 @@ settings-tabs-drag-to-create-tab-groups =
 browser-layout-header2 =
     .label = Disposizion dal navigadôr
 browser-layout-horizontal-tabs2 =
+    .description = Schedis parsore
     .label = Schedis orizontâls
     .title = Schedis parsore
-    .description = Schedis parsore
 browser-layout-vertical-tabs2 =
+    .description = Schedis in bande, inte sbare laterâl.
     .label = Schedis verticâls
     .title = Schedis in bande, inte sbare laterâl.
-    .description = Schedis in bande, inte sbare laterâl.
 browser-layout-show-sidebar2 =
-    .label = Mostre la sbare laterâl
     .description = Rive intun lamp a segnelibris, schedis dal to telefon, chatbots AI e tant altri cence lâ fûr de videade principâl.
+    .label = Mostre la sbare laterâl
 page-navigation-group =
     .label = Navigazion tra lis pagjinis
 browser-layout-header = Disposizion dal navigadôr
@@ -372,8 +372,8 @@ browser-layout-show-sidebar-desc = Rive intun lamp a segnelibris, schedis dal to
 
 language-and-appearance-header = Lenghe e aspiet
 appearance-group2 =
-    .label = Aspiet dai sîts web
     .description = Cualchi sît al cambie il so colôr par rispietâ lis tôs preferencis. Sielç il to scheme di colôrs.
+    .label = Aspiet dai sîts web
 preferences-web-appearance-choice-auto3 =
     .label = Sisteme
     .title = Cambie in automatic i fonts dai sîts web e il contignût in base aes tôs impostazions di sisteme e al teme di { -brand-short-name }.
@@ -409,8 +409,8 @@ preferences-web-appearance-override-warning3 =
 preferences-web-appearance-link =
     .label = Gjestìs i temis di { -brand-short-name } in Estensions e temis
 preferences-contrast-control-group =
-    .label = Contrast tai sîts web
     .description = I sîts web a doprin une varietât di colôrs pal prin plan e pal sotfont. Par vê un contrast coerent, tu puedis doprâ i stes colôrs su ducj i sîts web.
+    .label = Contrast tai sîts web
 preferences-contrast-control-radio-group =
     .label = Sostituìs colôrs
 # This can appear when using windows HCM or "Override colors: always" without
@@ -469,8 +469,8 @@ preferences-text-zoom-override-warning =
 language-header = Lenghe
 choose-language-description = Sielç la tô lenghe preferide par visualizâ lis pagjinis
 website-language-heading =
-    .label = Lenghe dal sît
     .description = Cualchi pagjine web e ven mostrade in plui lenghis. Sielç lis lenghis tal ordin che tu preferissis.
+    .label = Lenghe dal sît
 website-preferred-language =
     .label = Lenghis preferidis
 website-add-language =
@@ -500,13 +500,13 @@ manage-browser-languages-button =
 confirm-browser-language-change-description = Torne invie { -brand-short-name } par aplicâ chestis modifichis
 confirm-browser-language-change-button = Apliche e torne invie
 browser-language-heading =
-    .label = Lenghe dal navigadôr
     .description = Sielç la lenghe di doprâ par mostrâ il menù, i messaçs e lis notifichis di { -brand-short-name }.
+    .label = Lenghe dal navigadôr
 browser-language-preferred-label =
     .label = Lenghe preferide
 browser-language-fallback-label =
-    .label = Lenghe alternative
     .description = Doprade dome se la localizazion de lenghe preferide no je complete.
+    .label = Lenghe alternative
 browser-language-install-error =
     .message = In chest moment { -brand-short-name } nol rive a inzornâ la tô lenghe. Controle la conession a internet e torne prove.
 translate-web-pages =
@@ -520,19 +520,19 @@ translate-exceptions =
     .label = Ecezions…
     .accesskey = z
 settings-translations-header =
-    .label = Traduzions
     .aria-label = Traduzions
     .description = Volte lis pagjinis o il test selezionât. Par protezi la tô riservatece, lis traduzions a restin sul to dispositîf.
+    .label = Traduzions
 settings-translations-offer-to-translate-label =
     .label = Da une traduzion di dute la pagjine
 settings-translations-more-settings-button =
-    .label = Altris impostazions di traduzion
     .description = Stabilìs preferencis pes lenghis, sîts web e traduzions fûr rêt.
+    .label = Altris impostazions di traduzion
 settings-translations-subpage-header =
     .heading = Altris impostazions di traduzion
 settings-translations-subpage-speed-up-translation-header =
-    .label = Sveltìs la traduzion
     .description = Discjame lis lenghis interiis par vê traduzions plui sveltis e par voltâ fûr rêt.
+    .label = Sveltìs la traduzion
 settings-translations-subpage-automatic-translation-header =
     .label = Traduzion automatiche
 settings-translations-subpage-always-translate-header =
@@ -629,8 +629,8 @@ download-always-ask-where =
 applications-header = Aplicazions
 applications-description = Sielç cemût che { -brand-short-name } al à di gjestî i files che tu discjariis dal web o lis aplicazions che tu dopris intant che tu navighis.
 applications-setting2 =
-    .label = Files e aplicazions
     .description = Sielç cemût che { -brand-short-name } al à di gjestî i files e i contignûts.
+    .label = Files e aplicazions
 applications-filter =
     .placeholder = Cîr gjenars di file o aplicazions
 applications-type-column =
@@ -794,8 +794,8 @@ about-firefox-header =
 ## Firefox updates
 
 update-application-heading =
-    .label = Inzornaments di { -brand-short-name }
     .description = I inzornaments a miorin la velocitât, la stabilitât e la sigurece di { -brand-short-name }.
+    .label = Inzornaments di { -brand-short-name }
 update-application-suppress-prompts-heading =
     .label = Notifichis
 update-application-updates-managed-by-os =
@@ -804,8 +804,8 @@ update-application-updates-managed-by-os =
 ## Firefox support
 
 support-application-heading =
-    .label = Supuart par { -brand-short-name }
     .description = Risolf problemis o condivît ideis cu la comunitât.
+    .label = Supuart par { -brand-short-name }
 support-get-help =
     .label = Oten jutori
 support-share-ideas =
@@ -833,8 +833,8 @@ performance-default-content-process-count =
 performance-group =
     .label = Prestazions
 performance-use-recommended-settings-checkbox-2 =
-    .label = Dopre lis impostazions conseadis pes prestazions
     .description = Chestis impostazions a son stadis perfezionadis pal to hardware e pal to sisteme operatîf.
+    .label = Dopre lis impostazions conseadis pes prestazions
     .accesskey = U
 
 ## Accessibility page
@@ -897,9 +897,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Plui informazions
 browsing-group =
     .label = Navigazion
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Acès facilitât
 preferences-default-zoom-select =
@@ -923,11 +920,11 @@ network-proxy-connection-settings =
     .label = Impostazions…
     .accesskey = I
 network-proxy-group2 =
-    .label = Impostazions dal proxy
     .description = Configure cemût che { -brand-short-name } si conet a internet.
+    .label = Impostazions dal proxy
 network-proxy-connection-settings2 =
-    .label = Configure il proxy
     .description = La modifiche di chestis impostazions e podarès causâ problemis di conession
+    .label = Configure il proxy
     .accesskey = p
 
 ## Home Section
@@ -1018,9 +1015,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Estension ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Pagjine iniziâl personalizade
 home-custom-homepage-subpage =
     .heading = Pagjine iniziâl personalizade
@@ -1036,9 +1030,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sîts che tu salvis o visitis
 home-prefs-shortcuts-by-option-sponsored =
     .label = Scurtis sponsorizadis
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Conseât di { $provider }
 home-prefs-recommended-by-description-new = Contignûts ecezionâi par cure di { $provider }, part de famee { -brand-product-name }
@@ -1130,12 +1121,12 @@ search-show-suggestions-private-windows-2 =
 search-suggestions-cant-show-2 =
     .message = No vignaran mostrâts sugjeriments di ricercje tai risultâts de sbare di posizion, stant che tu âs configurât { -brand-short-name } in mût che no si visi mai la cronologjie.
 addressbar-header-1 =
-    .label = Sbare de direzion
     .description = Sielç cuai sugjeriments mostrâ te sbare de direzion
+    .label = Sbare de direzion
 # When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
 addressbar-header-firefox-suggest-2 =
-    .label = { -firefox-suggest-brand-name }
     .description = Sugjeriments di { -brand-short-name } e dai nestris colaboradôrs te sbare de direzion.
+    .label = { -firefox-suggest-brand-name }
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1166,8 +1157,8 @@ search-suggestions-cant-show = No vignaran mostrâts sugjeriments di ricercje ta
 search-one-click-header2 = Scurtis di ricercje
 search-one-click-desc = Cuant che tu scomencis a scrivi une peraule, sielç i motôrs di ricercje alternatîfs che a vegnin fûr sot de sbare de direzion e de sbare di ricercje.
 search-one-click-header-3 =
-    .label = Altris motôrs di ricercje
     .description = Sielç ce motôrs di ricercje e ce scurtis mostrâ inte sbare de direzion.
+    .label = Altris motôrs di ricercje
 update-search-engine-success =
     .message = Motôr di ricercje inzornât cun sucès
 search-edit-engine-2 =
@@ -1239,8 +1230,8 @@ containers-remove-button =
 containers-section-header2 =
     .heading = Impostazions contignidôr
 containers-card-header2 =
-    .label = Contignidôrs
     .description = Separe i cookies par contignidôr, cussì tu puedis doprâ plui accounts tal stes sît e limitâ lis spiis inter-sît.
+    .label = Contignidôrs
 containers-add-button2 =
     .label = Zonte gnûf contignidôr
     .accesskey = Z
@@ -1248,9 +1239,9 @@ containers-new-tab-check3 =
     .label = Sielç un contignidôr par ogni gnove schede
     .accesskey = S
 containers-new-tab-check2 =
+    .description = Al vignarà vierzût il menù dai contignidôrs ogni volte che tu frachis il boton par vierzi une gnove schede.
     .label = Sielç un contignidôr par ogni gnove schede
     .accesskey = S
-    .description = Al vignarà vierzût il menù dai contignidôrs ogni volte che tu frachis il boton par vierzi une gnove schede.
 containers-settings-button2 =
     .title = Impostazions
 containers-remove-button2 =
@@ -1263,11 +1254,11 @@ sync-group-label =
 account-group-label2 =
     .label = Account
 account-disabled-group =
-    .label = Account
     .description = Lis impostazions pal account no son disponibilis.
+    .label = Account
 account-placeholder2 =
-    .label = No tu âs fat l’acès
     .description = Jentre cu lis credenziâls e ten i tiei dâts risiervâts, cifrâts e a disposizion dapardut là che tu dopris { -brand-short-name }.
+    .label = No tu âs fat l’acès
 account-sync-section =
     .heading = Account e sincronizazion
 pane-account-sync-title2 = Account e sincronizazion
@@ -1302,8 +1293,8 @@ sync-mobile-promo = Discjame Firefox par <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Cambie la imagjin dal profîl
 sync-profile-picture-with-alt =
-    .tooltiptext = Cambie la imagjin dal profîl
     .alt = Cambie la imagjin dal profîl
+    .tooltiptext = Cambie la imagjin dal profîl
 sync-profile-picture-account-problem =
     .alt = Imagjin dal profîl pal account
 fxa-login-rejected-warning =
@@ -1326,22 +1317,17 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'account { $email } nol è verificât.
 sync-signedin-unverified2 =
-    .label = { $email } no je inmò confermade
     .description = Verifiche la tô casele di pueste par confermâ il to account e rindilu uficiâl.
+    .label = { $email } no je inmò confermade
 sync-signedin-login-failure = Jentre par tornâ a coneti { $email }
 sync-signedin-login-failure2 =
-    .label = Tu sês disconetût/disconetude di { $email }
     .description = Torne jentre par tornâ a conetiti e inviâ la sincronizazion dai tiei dâts.
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
+    .label = Tu sês disconetût/disconetude di { $email }
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
-    .label = { $name }
     .description = { $email }
+    .label = { $name }
 
 ##
 
@@ -1365,8 +1351,8 @@ prefs-syncing-on-2 =
     .label = La sincronizazion e je ATIVE
 prefs-syncing-off = Sincronizazion: DISATIVADE
 prefs-syncing-off-2 =
-    .label = La sincronizazion e je DISATIVADE
     .description = Ative la sincronizazion par recuperâ segnelibris, passwords, cronologjie e tant altri su cualsisei dispositîf.
+    .label = La sincronizazion e je DISATIVADE
 prefs-sync-turn-on-syncing =
     .label = Ative la sincronizazion…
     .accesskey = s
@@ -1376,8 +1362,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sincronize segnelibris, cronologjie, schedis, passwords, components adizionâi e impostazions tra ducj i tiei dispositîfs.
 prefs-sync-now =
     .labelnotsyncing = Sincronize cumò
-    .accesskeynotsyncing = u
     .labelsyncing = Sincronizazion…
+    .accesskeynotsyncing = u
 prefs-sync-now-button =
     .label = Sincronize cumò
     .accesskey = u
@@ -1395,8 +1381,8 @@ prefs-syncing-button-2 =
 sync-syncing-across-devices-heading = Tu stâs sincronizant chescj elements su ducj i dispositîfs conetûts:
 sync-syncing-across-devices-heading-2 = Dâts sincronizâts tra dispositîfs
 sync-syncing-across-devices-empty-state2 =
-    .label = Gjestìs i dâts sincronizâts
     .description = No tu stâs sincronizant nuie...par cumò. Scomence a sincronizâ par vê ducj i tiei dâts su ducj i tiei dispositîfs.
+    .label = Gjestìs i dâts sincronizâts
 sync-currently-syncing-bookmarks = Segnelibris
 sync-currently-syncing-history = Cronologjie
 sync-currently-syncing-tabs = Schedis viertis
@@ -1422,12 +1408,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Sielç ce sincronizâ
-    .style = min-width: 36em;
     .buttonlabelaccept = Salve modifichis
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconet…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Sielç ce sincronizâ
 sync-choose-dialog-subtitle = Lis modifichis ae liste di elements di sincronizâ a vignaran rifletûts su ducj i tiei dispositîfs conetûts.
 sync-engine-bookmarks =
     .label = Segnelibris
@@ -1468,12 +1454,12 @@ sync-engine-settings =
     .tooltiptext = Lis impostazions gjenerâls, di riservatece e sigurece che tu âs cambiât
     .accesskey = s
 sync-choose-what-to-sync-dialog4 =
-    .title = Gjestìs ce sincronizâ sui dispositîfs colegâts
-    .style = min-width: 36em;
     .buttonlabelaccept = Salve
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconet…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Gjestìs ce sincronizâ sui dispositîfs colegâts
 
 ## The device name controls.
 
@@ -1532,8 +1518,8 @@ forms-ask-to-save-logins =
 pane-privacy-passwords-header = Passwords
     .searchkeywords = credenziâls
 forms-passwords-header =
-    .label = Passwords
     .aria-label = Passwords
+    .label = Passwords
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Domande se salvâ lis passwords
@@ -1588,8 +1574,8 @@ forms-primary-pw-use =
     .label = Dopre une password principâl
     .accesskey = U
 forms-primary-pw-use-2 =
-    .label = Dopre une password principâl
     .description = Al zonte un nivel di sigurece in plui par protezi lis passwords salvadis.
+    .label = Dopre une password principâl
     .accesskey = U
 forms-primary-pw-set =
     .label = Stabilìs password principâl
@@ -1627,12 +1613,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Plui informazions
 forms-windows-sso-desc = Gjestìs i accounts tes tôs impostazions dal dispositîf
 windows-passkey-settings-label = Gjestìs passkeys tes impostazions di sisteme
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
-    .label = Impostazions dal panel su la riservatece
     .description = Oten assistence par protezi lis tôs informazions in rêt in { -brand-short-name }.
+    .label = Impostazions dal panel su la riservatece
 # By “breach message” we mean the UI messaging shown when Firefox detects that a
 # site the user has interacted with has been involved in a known data breach
 privacy-panel-breach-alerts =
@@ -1731,8 +1714,8 @@ preferences-passwords-autofill-header =
 #   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
-    .label = { $cardNumber }
     .description = { $expDate }
+    .label = { $cardNumber }
 addresses-group =
     .label = Recapits e altris dâts
 payments-group =
@@ -1755,8 +1738,8 @@ history-remember-label = { -brand-short-name }
 history-remember-option-all =
     .label = Si visarà la cronologjie
 history-remember-option-never2 =
-    .label = No sta memorizâ mai la cronologjie
     .description = Ogni barcon si compuarte come un barcon privât. Se atîf, tu scugnis autorizâ lis estensions.
+    .label = No sta memorizâ mai la cronologjie
 history-remember-option-custom2 =
     .label = Personalize la cronologjie
 history-remember-option-never =
@@ -1798,11 +1781,11 @@ history-clear-button =
 history-header2 =
     .heading = Cronologjie
 history-section-header =
-    .label = Cronologjie
     .description = Sielç ce che { -brand-short-name } al à di visâsi cuant che tu sieris il navigadôr.
+    .label = Cronologjie
 history-custom-section-header =
-    .label = Impostazions avanzadis
     .description = Personalize ce che { -brand-short-name } al à di visâsi cuant che tu sieris il navigadôr.
+    .label = Impostazions avanzadis
 history-custom-button =
     .label = Sielç ce che { -brand-short-name } al à di visâsi
 history-group =
@@ -1876,19 +1859,19 @@ sitedata-cookies-exceptions =
     .label = Gjestìs ecezions…
     .accesskey = c
 sitedata-cookies-exceptions2 =
+    .description = Tu puedis specificâ i sîts web che ur ven simpri o mai concedude la utilizazion di cookies e dâts dai sîts.
     .label = Gjestìs ecezions
     .accesskey = c
-    .description = Tu puedis specificâ i sîts web che ur ven simpri o mai concedude la utilizazion di cookies e dâts dai sîts.
 sitedata-heading =
-    .label = Dâts di navigazion
     .description = Gjestìs cookies, cronologje, cache, dâts sît web e tant altri.
+    .label = Dâts di navigazion
 sitedata-settings3 =
     .label = Nete vie i dâts par specifics sîts
     .accesskey = s
 sitedata-cookies-exceptions3 =
+    .description = Sielç cemût che sîts specifics a gjestissin i cookies e i dâts dai sîts.
     .label = Gjestìs ecezions
     .accesskey = x
-    .description = Sielç cemût che sîts specifics a gjestissin i cookies e i dâts dai sîts.
 cookies-site-data-group =
     .label = Cookies e dâts dai sîts
 
@@ -1954,11 +1937,11 @@ addressbar-locbar-showtrendingsuggestions-option-2 =
     .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
-    .label = Sugjeriments di { -brand-short-name }
     .description = Ricêf sugjeriments dal web relatîfs ae tô ricercje.
+    .label = Sugjeriments di { -brand-short-name }
 addressbar-locbar-suggest-sponsored-option-2 =
-    .label = Sugjeriments dai sponsors
     .description = Supuarte { -brand-short-name } cun sugjeriments sponsorizâts ocasionâi.
+    .label = Sugjeriments dai sponsors
 addressbar-suggestions-settings = Modifiche lis preferencis pai sugjeriments dai motôrs di ricercje
 addressbar-locbar-showrecentsearches-option =
     .label = Mostre ricercjis resintis
@@ -1982,8 +1965,8 @@ addressbar-locbar-suggest-sponsored-desc = Supuarte { -brand-short-name } cun su
 addressbar-firefox-suggest-online =
     .label = Oten sugjeriments di Mozilla intant che tu scrivis
 addressbar-dismissed-suggestions-label-2 =
-    .label = Sugjeriments ignorâts
     .description = Ripristine i sugjeriments ignorâts dai sponsors e di { -brand-short-name }.
+    .label = Sugjeriments ignorâts
 addressbar-restore-dismissed-suggestions-button-2 =
     .label = Ripristine sugjeriments
 addressbar-quickactions-learn-more = Plui informazions
@@ -2040,9 +2023,6 @@ content-blocking-fingerprinters = Rilevadôrs di stamp numeric (fingerprinters)
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Rilevadôrs di stamp numeric cognossûts o suspiets
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Protezion totâl dai cookies al conten i cookies al sît che tu stâs navigant, cussì che i spions no puedin doprâju par stâti daûr tra i sîts.
 content-blocking-etp-standard-tcp-rollout-learn-more = Plui informazions
@@ -2055,12 +2035,12 @@ content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name }
 content-blocking-and-isolating-etp-warning-description-2 = In cualchi sît cheste impostazion e podarès impedî la visualizazion dai contignûts o di lavorâ ben. Se un sît al somee vuast, tu puedis disativâ la protezion da lis spiis par chel sît e cjariâ ducj i contignûts.
 content-blocking-warning-learn-how = Impare cemût
 content-blocking-baseline-exceptions-3 =
-    .label = Risolf problemis plui grivis cui sîts (opzion conseade)
     .description = Al jude a cjariâ e a funzionâ i sîts, lant a sblocâ nome i elements essenziâi che a podaressin contignî spiis. Cheste soluzion e permet di risolvi i problemis plui comuns.
+    .label = Risolf problemis plui grivis cui sîts (opzion conseade)
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
 content-blocking-convenience-exceptions-3 =
-    .label = Risolf problemis plui piçui cui sîts
     .description = Al ripristine robis come i videos intun articul o lis sezions dai coments, lant a sblocâ i elements che a podaressin contignî spiis. Chest al pues diminuî i problemis dai sîts ma al da mancul protezion. Tu scugnis doprâlu adun cu lis corezions pai problemis plui grivis.
+    .label = Risolf problemis plui piçui cui sîts
 content-blocking-baseline-uncheck-warning-dialog-title = Disativâ pardabon lis corezions?
 content-blocking-baseline-uncheck-warning-dialog-body = Cheste impostazion e permet di risolvi i problemis plui comuns cui sîts. Se tu le disativis, al è pussibil che cualchi sît nol funzioni e { -brand-short-name } nol rivarà a judâti a risolvi chescj problemis.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Disative corezions
@@ -2156,10 +2136,10 @@ permissions-block-popups2 =
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button4 =
-    .label = Gjestìs ecezions
     .description = Zonte sîts web che puedin vierzi i barcons a comparse e doprâ indreçaments di tiercis bandis.
-    .accesskey = E
+    .label = Gjestìs ecezions
     .searchkeywords = comparse
+    .accesskey = E
 permissions-addon-install-warning3 =
     .label = Mostre un avis cuant che i sîts web a provin a instalâ estensions
     .accesskey = W
@@ -2173,8 +2153,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Ecezions…
-    .accesskey = E
     .searchkeywords = comparse
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Vise cuant che i sîts web a cirin di instalâ components adizionâi
     .accesskey = V
@@ -2199,8 +2179,8 @@ permissions-speaker2 =
 permissions-notification2 =
     .label = Notifichis
 permissions-header3 =
-    .label = Permès
     .description = Gjestìs ce che i sîts web a puedin doprâ ,controlâ o ativâ.
+    .label = Permès
 permissions-data-section =
     .heading = Permès e dâts
 pane-permissions-data-title2 = Permès e dâts
@@ -2222,11 +2202,11 @@ collection-health-report-telemetry-disabled-link = Plui informazions
 backup-multi-profile-warning-message =
     .message = Par jessi sigûrs che cheste modifiche e vignarà includude tai tiei backups, vierç ogni profîl e sielç "Fâs backup cumò" tes impostazions.
 nimbus-rollouts =
-    .label = Permet a { -brand-short-name } di miorâ lis funzionalitâts, lis prestazions e la stabilitât tra un inzornament e chel altri.
     .description = Lis modifichis a vignaran aplicadis di lontan.
+    .label = Permet a { -brand-short-name } di miorâ lis funzionalitâts, lis prestazions e la stabilitât tra un inzornament e chel altri.
 addon-recommendations3 =
-    .label = Permet racomandazions personalizadis su lis estensions
     .description = Ricêf conseis su estensions che ti permetin di miorâ la tô esperience di navigazion.
+    .label = Permet racomandazions personalizadis su lis estensions
 collection-usage-ping =
     .label = Mande ping di utilizazion zornaliere a { -vendor-short-name }
     .accesskey = u
@@ -2277,8 +2257,8 @@ privacy-segmentation-radio-on =
     .label = Mostre informazions detaiadis
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 data-collection =
-    .label = Racuelte e utilizazion dâts di { -brand-short-name }
     .description = O combatìn par dâti la pussibilitât di sielzi e i tirìn sù dome i minims dâts necessaris par miorâ { -brand-product-name } par ducj.
+    .label = Racuelte e utilizazion dâts di { -brand-short-name }
     .searchkeywords = telemetrie
 data-collection-link = Viôt la informative su la riservatece
 data-collection-preferences-across-profiles =
@@ -2287,25 +2267,25 @@ data-collection-profiles-link = Viôt ducj i profîi
 data-collection-health-report-telemetry-disabled =
     .message = No tu stâs plui permetint a { -vendor-short-name } di caturâ dâts tecnics e di interazion. Ducj i dâts esistents a vignaran eliminâts chi di 30 dîs.
 data-collection-health-report =
+    .description = Chest nus jude a miorâ funzionalitâts, prestazions e stabilitât di { -brand-product-name }
     .label = Mande dâts tecnics e di interazion a { -vendor-short-name }
     .accesskey = r
-    .description = Chest nus jude a miorâ funzionalitâts, prestazions e stabilitât di { -brand-product-name }
 data-collection-health-report-disabled =
+    .description = La comunicazion dai dâts e je disativade te configurazion doprade par cheste version.
     .label = Mande i dâts tecnics e di interazion a { -vendor-short-name }
     .accesskey = r
-    .description = La comunicazion dai dâts e je disativade te configurazion doprade par cheste version.
 data-collection-run-studies =
-    .label = Permet a { -brand-short-name } di puartâ indenant studis su lis funzionalitâts
     .description = { -brand-short-name } al sielç a câs i utents par provâ lis funzionalitâts, cussì di rivâ a miorâ la cualitât par ducj.
+    .label = Permet a { -brand-short-name } di puartâ indenant studis su lis funzionalitâts
 data-collection-studies-link =
     .label = Visualize i studis di { -brand-short-name }
 data-collection-backlogged-crash-reports =
-    .label = Mande in automatic i segnalazions di colàs
     .description = Chest al jude { -vendor-short-name } a diagnosticâ e risolvi problemis cul navigadôr. Lis segnalazions a puedin contignî dâts personâi o sensibii.
+    .label = Mande in automatic i segnalazions di colàs
     .accesskey = c
 data-collection-usage-ping =
-    .label = Mande ping di utilizazion zornaliere a { -vendor-short-name }
     .description = Chest al permet a { -vendor-short-name } di stimâ il numar di utents atîfs.
+    .label = Mande ping di utilizazion zornaliere a { -vendor-short-name }
     .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
@@ -2323,8 +2303,8 @@ website-advertising-private-attribution-description = Chest al permet ai sîts d
 
 security-header = Sigurece
 browsing-protection-group2 =
-    .label = Protezion dai contignûts ingjanôs e dal software pericolôs.
     .description = I sîts e i files discjariâts pericolôs a puedin meti in pericul i tiei dâts e il tô dispositîf. { -brand-short-name } ju bloche in automatic e ti vise in câs di software pericolôs o malvolût.
+    .label = Protezion dai contignûts ingjanôs e dal software pericolôs.
 security-browsing-protection = Protezion dai contignûts ingjanôs e dal software pericolôs
 security-enable-safe-browsing =
     .label = Bloche i contignûts pericolôs e ingjanôs
@@ -2361,8 +2341,8 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } al sta finint il spazi su disc.</strong> Al è pussibil che i contignûts dai sîts web no vignedin visualizâts ben. Tu puedis netâ i dâts archiviâts in Impostazions > Riservatece e sigurece > Cookies e dâts di sîts.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } al sta finint il spazi su disc.</strong> Al è pussibil che i contignûts dai sîts web no vignedin visualizâts ben. Visite “Plui informazions” par otimizâ la utilizazion dal to disc cussì di vê une esperience di navigazion miorade.
 certs-description3 =
-    .label = Certificâts
     .description = Al configure i certificâts che { -brand-short-name } al dopre par verificâ lis conessions siguris.
+    .label = Certificâts
 certs-view2 =
     .label = Gjestìs certificâts
     .accesskey = C
@@ -2382,13 +2362,13 @@ httpsonly-radio-enabled =
 httpsonly-radio-enabled-pbm =
     .label = Abilite la modalitât Dome-HTTPS dome intai barcons privâts
 httpsonly-radio-disabled3 =
-    .label = No sta ativâ la modalitât dome-HTTPS
     .description = Al è pussibil che { -brand-short-name } al inzorni distès cualchi conession
+    .label = No sta ativâ la modalitât dome-HTTPS
 httpsonly-radio-disabled =
     .label = No sta abilitâ la modalitât Dome-HTTPS
 httpsonly-group =
-    .label = Modalitât Dome-HTTPS
     .description = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
+    .label = Modalitât Dome-HTTPS
 httpsonly-label2 =
     .aria-label = { httpsonly-group.label }
 
@@ -2396,8 +2376,8 @@ httpsonly-label2 =
 
 preferences-doh-header = DNS sore HTTPS
 dns-over-https-group2 =
-    .label = DNS sore HTTPS
     .description = Il mecanisim di risoluzion dai nons di domini sore HTTPS (DNS sore HTTPS) al cifre lis ricercjis di sîts in mût che al sedi plui dificil savê ce che tu visitis pal to furnidôr di servizi internet o par altris.
+    .label = DNS sore HTTPS
 preferences-doh-description = La risoluzion dai nons di domini (DNS) sore HTTPS e mande lis richiestis pai nons dai dominis midiant une conession cifrade, creant un DNS sigûr e fasint in mût che al sedi plui dificil par altris sogjets viodi i sîts che tu stâs par visitâ.
 preferences-doh-description2 = Il sisteme di risoluzion dai nons di domini (DNS) sore HTTPS al invie lis richiestis pai nons di domini a traviers di une conession cifrade, furnint un DNS sigûr e fasint in mût che al sedi plui dificil scuvierzi i sîts web che tu stâs par visitâ.
 # Variables:
@@ -2454,31 +2434,31 @@ preferences-doh-manage-exceptions =
     .label = Gjestìs ecezions…
     .accesskey = x
 preferences-doh-overview-default =
-    .label = Protezion predefinide
     .description = Dopre il DNS sigûr dulà che al è disponibil.
+    .label = Protezion predefinide
 preferences-doh-overview-custom =
-    .label = Personalizade
     .description = Dopre simpri il DNS sigûr vint il control sul tô provider e il compuartament di repeç.
+    .label = Personalizade
 preferences-doh-overview-off =
-    .label = Disativade
     .description = Dopre il to risolutôr DNS predefinît.
+    .label = Disativade
 preferences-doh-advanced-button =
     .label = Impostazions avanzadis
 preferences-doh-advanced-section =
-    .label = Impostazions avanzadis
     .description = Il mecanisim di risoluzion dai nons di domini midiant HTTPS (DoH) al cifre lis ricercjis sui sîts in mût che al sedi plui dificil pal tô furnidôr di internet, o par altris, viodi ce che tu stâs visitant.
+    .label = Impostazions avanzadis
 preferences-doh-manage-exceptions2 =
     .label = Gjestìs ecezions
     .accesskey = x
 preferences-doh-radio-default =
-    .label = Predefinît
     .description = Dopre il DNS sigûr dulà che al è disponibil
+    .label = Predefinît
 preferences-doh-radio-custom =
-    .label = Personalizât
     .description = Dopre simpri un DNS sigûr vint il control sul to furnidôr di servizis internet e su la modalitât di repeç
+    .label = Personalizât
 preferences-doh-radio-off =
-    .label = Disativât
     .description = Dopre il to risolvidôr di nons (DNS) predefinît
+    .label = Disativât
 preferences-doh-fallback-label =
     .label = Visimi simpri se il DNS sigûr nol è disponibil
 preferences-doh-status-item-off =
@@ -2522,8 +2502,8 @@ preferences-doh-header2 =
 preferences-connection-header =
     .heading = Sigurece de conession e dal software
 preferences-connection-link-section =
-    .label = Sigurece de conession e dal software
     .description = Scuvierç cemût che lis conessions a restin siguris, il software danôs al ven blocât e i sîts web a vegnin verificâts.
+    .label = Sigurece de conession e dal software
 preferences-connection-link-button =
     .label = Impostazions avanzadis
 
@@ -2552,24 +2532,24 @@ preferences-ai-controls-block-ai-description = Se tu blochis cheste funzion in {
 preferences-ai-controls-blocked-message =
     .message = Tant che impostazion predefinide, lis funzionalitâts basadis su la IA, sedino gnovis o za presintis, a saran blocadis. Par ativâ une specifiche funzion, dopre i controi chi sot.
 preferences-ai-controls-on-device-group =
-    .label = IA sul dispositîf
     .description = Chestis funzions a doprin piçui modei di IA che a vegnin discjariâts sul tô dispositîf cuant che tu lis dopris. Fasint cussì la tô riservatece e ven tutelade.
+    .label = IA sul dispositîf
 preferences-ai-controls-translations-control =
-    .label = Traduzions
     .description = Navighe sul web cence interuzions te tô lenghe preferide.
+    .label = Traduzions
 preferences-ai-controls-translations-more-link = Altris impostazions pes traduzions
 preferences-ai-controls-pdfjs-control =
-    .label = Test alternatîf pes imagjins tal visualizadôr PDF di { -brand-short-name }
     .description = Cuant che tu zontis imagjins ai PDFs, a vegnin zontadis descrizions par rindilis plui acessibilis.
+    .label = Test alternatîf pes imagjins tal visualizadôr PDF di { -brand-short-name }
 preferences-ai-controls-tab-group-suggestions-control =
-    .label = Sugjeriments pai grups di schedis
     .description = Fati dâ sugjeriments su cemût clamâ i grups e organizâ lis tôs schedis.
+    .label = Sugjeriments pai grups di schedis
 preferences-ai-controls-key-points-control =
-    .label = Ponts di rilêf tes anteprimis dai colegaments
     .description = Viôt une curte sintesi prime di vierzi un colegament.
+    .label = Ponts di rilêf tes anteprimis dai colegaments
 preferences-ai-controls-sidebar-chatbot-group =
-    .label = Furnidôrs di chatbot IA te sbare laterâl
     .description = Ten di voli un chatbot cuant che tu navighis. Sielç tra Anthropic Claude, ChatGPT, Copilot, Google Gemini, e Le Chat Mistral.
+    .label = Furnidôrs di chatbot IA te sbare laterâl
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot te sbare laterâl
 # This option means that a user will see the feature and can use it.
@@ -2638,33 +2618,33 @@ security-privacy-issue-card =
 issue-card-reset-button =
     .label = Ripristine
 issue-card-dismiss-button =
-    .tooltiptext = Ignore
     .aria-label = Ignore
+    .tooltiptext = Ignore
 
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-status-header =
-    .label = Protezion miorade da lis spiis
     .description = I sîts web a doprin spiis par stâ daûr ai tiei moviments in rêt e par mostrâti publicitât invasive. { -brand-short-name } ti fâs scût intant che tu navighis e ti bloche in automatic lis spiis, cussì che tu âs tu il plen control de tô ativitât digjitâl.
+    .label = Protezion miorade da lis spiis
 preferences-etp-level-standard =
-    .label = Standard (predefinît)
     .description = Fuarte e afidabile protezion che e funzione ben cu la maiorance dai sîts web.
+    .label = Standard (predefinît)
 preferences-etp-level-strict =
-    .label = Restritive
     .description = Protezions plui fuartis che a fermin plui spiis, ma che a puedin creâ malfunzionaments su cualchi sît.
+    .label = Restritive
 preferences-etp-level-custom =
-    .label = Personalizade
     .description = Sielç ce protezion ativâ o disativâ.
+    .label = Personalizade
 preferences-etp-status-advanced-button =
     .label = Impostazions avanzadis
 preferences-etp-status-protections-dashboard-link =
-    .label = Viôt il cruscot cu lis protezions personalizadis
     .description = Viôt tropis spiis insidiosis che { -brand-short-name } al à blocât par te, includudis spiis dai social media, rilevadôrs di stamp numeric e minadôrs di criptomonede.
+    .label = Viôt il cruscot cu lis protezions personalizadis
 preferences-etp-header =
     .heading = Protezion miorade da lis spiis
 preferences-etp-advanced-settings-group =
-    .label = Impostazions avanzadis
     .description = I sîts web a doprin spiis par stâ daûr dai tiei moviments in rêt e mostrâti  publicitât invasive. { -brand-short-name } ti fâs scût intant che tu navighis, blocant in automatic la plui part des spiis cussì che tu sês tu a vê il control su la tô ativitât digjitâl.
+    .label = Impostazions avanzadis
 preferences-etp-customize-button =
     .label = Personalize la protezion da lis spiis
 preferences-etp-reload-tabs-hint =

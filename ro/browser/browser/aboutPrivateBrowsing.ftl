@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Păstrați-vă datele private cu { -mozil
 about-private-browsing-focus-promo-cta = Descarcă { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navigare privată la îndemână
 about-private-browsing-focus-promo-text = Aplicația noastră mobilă dedicată pentru navigare privată va șterge istoricul și cookie-urile de fiecare dată.
-
-##
-
 about-private-browsing-focus-promo-header-b = Utilizați navigarea privată pe telefon
 about-private-browsing-focus-promo-text-b = Utilizați { -focus-brand-name } pentru acele căutări private pe care nu doriți să apară în browserul dvs. de mobil.
 about-private-browsing-focus-promo-header-c = Confidențialitate de nivel înalt pe mobil
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Cine ar putea să-mi vadă în continuar
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Navigarea ta nu este înregistrată
 about-private-browsing-nova-info-subheader2 = Vom șterge toate căutările și autentificările când închizi toate ferestrele private. Protecțiile încorporate din { -brand-short-name } sunt și aici, cum ar fi blocarea elementelor de urmărire.
-about-private-browsing-nova-info-subheader = Vom șterge toate căutările și autentificările când închizi această fereastră. Protecțiile încorporate din { -brand-short-name } sunt și aici, cum ar fi blocarea elementelor de urmărire.

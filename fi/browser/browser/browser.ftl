@@ -972,33 +972,6 @@ urlbar-result-explanation-last-visited-relative-2 = Käyty viimeksi { $date }
 #                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
 #                    "11 months ago"
 urlbar-result-explanation-last-visited-days-weeks-months-ago = Käyty viimeksi { $date }
-# This explanation is used when the last-visited date is a small number of days
-# in the past.
-# Variables:
-#   $daysAgo (number) - The number of days ago
-urlbar-result-explanation-last-visited-days-2 =
-    { $daysAgo ->
-        [one] Käyty viimeksi { $daysAgo } päivä sitten
-       *[other] Käyty viimeksi { $daysAgo } päivää sitten
-    }
-# This explanation is used when the last-visited date is a small number of weeks
-# in the past.
-# Variables:
-#   $weeksAgo (number) - The number of weeks ago
-urlbar-result-explanation-last-visited-weeks-2 =
-    { $weeksAgo ->
-        [one] Käyty viimeksi { $weeksAgo } viikko sitten
-       *[other] Käyty viimeksi { $weeksAgo } viikkoa sitten
-    }
-# This explanation is used when the last-visited date is a small number of
-# months in the past.
-# Variables:
-#   $monthsAgo (number) - The number of months ago
-urlbar-result-explanation-last-visited-months-2 =
-    { $monthsAgo ->
-        [one] Käyty viimeksi { $monthsAgo } kuukausi sitten
-       *[other] Käyty viimeksi { $monthsAgo } kuukautta sitten
-    }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:

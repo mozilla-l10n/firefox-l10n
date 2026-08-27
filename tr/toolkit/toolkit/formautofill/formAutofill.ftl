@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Kartları asla kaydetme
     .accessKey = a
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Kart güncellensin mi?
 credit-card-update-doorhanger-description = Güncellenecek kart:
 credit-card-capture-save-new-button =

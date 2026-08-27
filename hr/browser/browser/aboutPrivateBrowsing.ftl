@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Sačuvaj privatnost uz { -mozilla-vpn-bra
 about-private-browsing-focus-promo-cta = Preuzmi { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privatno pregledavanje na putu
 about-private-browsing-focus-promo-text = Naša mobilna aplikacija za privatno pregledavanje svaki put briše tvoju povijest i kolačiće.
-
-##
-
 about-private-browsing-focus-promo-header-b = Prenesi privatno pregledavanje na svoj mobitel
 about-private-browsing-focus-promo-text-b = Koristi { -focus-brand-name } za privatna pretraživanja za koja ne želiš da ih tvoj glavni preglednik mobilnih uređaja vidi.
 about-private-browsing-focus-promo-header-c = Nova razina privatnosti na mobilnim uređajima
@@ -88,4 +85,3 @@ about-private-browsing-nova-info-link = Tko bi još uvijek mogao vidjeti moju ak
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Nepoznati ste
 about-private-browsing-nova-info-subheader2 = Obrisat ćemo svaku pretragu i prijavu kada zatvorite privatne prozore. Ugrađene zaštite { -brand-short-name }a su ovdje također uključene, poput blokiranja praćenja.
-about-private-browsing-nova-info-subheader = Obrisat ćemo svaku pretragu i prijavu kada zatvorite ovaj prozor. Ugrađene zaštite { -brand-short-name }a su ovdje također uključene, poput blokiranja praćenja.

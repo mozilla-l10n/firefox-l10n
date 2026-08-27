@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = No sta salvâ mai lis cjartis
     .accessKey = M
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Inzornâ la cjarte?
 credit-card-update-doorhanger-description = Cjarte di inzornâ:
 credit-card-capture-save-new-button =

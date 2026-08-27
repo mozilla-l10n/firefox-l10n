@@ -7,8 +7,5 @@ privatebrowsingpage-open-private-window-label = ખાનગી વિન્ડ�
 about-private-browsing-search-placeholder = વેબ પર શોધો
 about-private-browsing-info-title = તમે ખાનગી વિન્ડો માં છો
 about-private-browsing-not-private = તમે હાલમાં ખાનગી વિન્ડો મા નથી.
-
-##
-
 about-private-browsing-search-banner-close-button =
     .aria-label = બંધ

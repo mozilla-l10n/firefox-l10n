@@ -454,9 +454,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Busqueda web
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Recomendau per { $provider }
 
@@ -579,8 +576,8 @@ sync-mobile-promo = Descargar Firefos pa <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Cambiar a imachen de perfil
 sync-profile-picture-with-alt =
-    .tooltiptext = Cambiar a imachen de perfil
     .alt = Cambiar a imachen de perfil
+    .tooltiptext = Cambiar a imachen de perfil
 sync-sign-out =
     .label = Zarrar la sesión…
     .accesskey = Z
@@ -618,8 +615,8 @@ prefs-syncing-on = Sincronización: Activada
 prefs-syncing-off = Sincronización: Desactivada
 prefs-sync-now =
     .labelnotsyncing = Sincronizar agora
-    .accesskeynotsyncing = N
     .labelsyncing = Se ye sincronizando…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sincronizar agora
     .accesskey = N
@@ -648,12 +645,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Tría qué quiers sincronizar
-    .style = min-width: 36em;
     .buttonlabelaccept = Alzar cambios
-    .buttonaccesskeyaccept = A
     .buttonlabelextra2 = Desconnectau…
+    .buttonaccesskeyaccept = A
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Tría qué quiers sincronizar
 sync-engine-bookmarks =
     .label = Marcapachinas
     .accesskey = M
@@ -923,9 +920,6 @@ content-blocking-unvisited-cookies = Cookies de puestos no visitaus
 content-blocking-all-windows-tracking-content = Conteniu que fa seguimiento en totas las finestras
 content-blocking-cryptominers = Criptominers
 content-blocking-fingerprinters = Ditaladas dichitals
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = Atención!
 content-blocking-warning-learn-how = Aprende cómo
 content-blocking-reload-description = Habrás de recargar las tuyas pestanyas pa aplicar estes cambios.

@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Avsluta
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Öppna applikationsmeny
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Stäng applikationsmeny
     .label = { -brand-short-name }
+    .tooltiptext = Stäng applikationsmeny
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Rekommenderad förinställning för de flesta webbappfelsökningar, med lite pålägg.
 profiler-popup-presets-web-developer-label =
     .label = Webbutvecklare
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Dölj din plats med { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description5 = Få extra skydd mellan enheter
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Hämta { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = Gör din surfning svårare att spåra
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få skydd för hela enheten
 appmenuitem-vpn-description = Skydda din onlineaktivitet

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Kekal peribadi dengan { -mozilla-vpn-bran
 about-private-browsing-focus-promo-cta = Muat turun { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Pelayaran peribadi di mana sahaja
 about-private-browsing-focus-promo-text = Aplikasi mudah alih pelayaran peribadi khusus kami membersihkan sejarah dan kuki anda setiap kali.
-
-##
-
 about-private-browsing-focus-promo-header-b = Bawa pelayaran peribadi ke telefon anda
 about-private-browsing-focus-promo-text-b = Gunakan { -focus-brand-name } untuk carian peribadi yang anda tidak mahu dilihat oleh pelayar mudah alih utama anda.
 about-private-browsing-focus-promo-header-c = Privasi tahap seterusnya pada telefon mudah alih
@@ -87,4 +84,3 @@ about-private-browsing-nova-info-link = Siapa yang masih mungkin dapat melihat a
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Sejarah pelayaran anda akan dipadamkan
-about-private-browsing-nova-info-subheader = Kami akan memadamkan setiap carian dan daftar masuk apabila anda menutup tetingkap ini. Perlindungan terbina dalam { -brand-short-name } juga aktif di sini, seperti menyekat penjejak.

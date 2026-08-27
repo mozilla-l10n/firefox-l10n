@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Atopar n'Axustes
+    .style = width: 15.4em
 managed-notice = El restolador ta xestionáu pola to organización.
 managed-notice-nav =
     .label = El restolador ta xestionáu pola to organización.
@@ -495,9 +495,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitios que guardes o visites
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atayos patrocinaos
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-description-new = Conteníu esceicional de la web esbilláu por { $provider }, parte de la familia de { -brand-product-name }
 
 ##
@@ -634,8 +631,8 @@ sync-mobile-promo = Baxa Firefox <img data-l10n-name="android-icon"/> p'<a data-
 sync-profile-picture =
     .tooltiptext = Camudar la semeya del perfil
 sync-profile-picture-with-alt =
-    .tooltiptext = Camudar la semeya del perfil
     .alt = Camudar la semeya del perfil
+    .tooltiptext = Camudar la semeya del perfil
 sync-sign-out =
     .label = Zarrar sesión…
     .accesskey = Z
@@ -671,8 +668,8 @@ prefs-syncing-off = Sincronización: DESACTIVADA
 prefs-sync-offer-setup-label2 = Sincroniza los marcadores, l'historial, les contraseñes, los complementos y los axustes en tolos preseos de to.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar agora
-    .accesskeynotsyncing = a
     .labelsyncing = Sincronizando…
+    .accesskeynotsyncing = a
 prefs-sync-now-button =
     .label = Sincronizar agora
     .accesskey = a
@@ -702,12 +699,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Escoyeta de lo que compartir
-    .style = min-width: 36em;
     .buttonlabelaccept = Guardar los cambeos
-    .buttonaccesskeyaccept = G
     .buttonlabelextra2 = Desconectase...
+    .buttonaccesskeyaccept = G
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Escoyeta de lo que compartir
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = m
@@ -979,9 +976,6 @@ content-blocking-unvisited-cookies = Cookies de sitios ensin visitar
 content-blocking-all-windows-tracking-content = Conteníu que rastrexa en toles ventanes
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Xeneradores de buelgues
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = ¡Atención!
 content-blocking-and-isolating-etp-warning-description-2 = Esti axuste pue causar que dalgunos sitios web nun amuesen el conteníu o nun funcionen correutamente. Si te paez qu'un sitiu ta estropiáu, pues desactivar la proteición antirrastrexu pa esi sitiu y cargar tol conteníu.
 content-blocking-warning-learn-how = Lleer cómo
@@ -1060,8 +1054,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Esceiciones…
-    .accesskey = E
     .searchkeywords = ventanos emerxentes
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Avisate cuando los sitios web tenten d'instalar complementos
     .accesskey = v

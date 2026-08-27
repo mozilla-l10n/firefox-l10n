@@ -416,9 +416,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = گەڕانی وێب
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = پێشنیازکراوە لە لایەن { $provider }
 
@@ -535,8 +532,8 @@ sync-mobile-promo = Firefox دابگرە بۆ <img data-l10n-name="android-icon"
 sync-profile-picture =
     .tooltiptext = وێنەی تاکەکەسی دیاریبکە
 sync-profile-picture-with-alt =
-    .tooltiptext = وێنەی تاکەکەسی دیاریبکە
     .alt = وێنەی تاکەکەسی دیاریبکە
+    .tooltiptext = وێنەی تاکەکەسی دیاریبکە
 sync-sign-out =
     .label = بچۆ دەرەوە
     .accesskey = g
@@ -574,8 +571,8 @@ prefs-syncing-on = هاوکاتگەری: کارایە
 prefs-syncing-off = هاوکاتگەری: کارانیە
 prefs-sync-now =
     .labelnotsyncing = هاوکاتگەری بکە ئێستا
-    .accesskeynotsyncing = N
     .labelsyncing = هاوکاتگەری دەکات…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = هاوکاتگەری بکە ئێستا
     .accesskey = N
@@ -825,9 +822,6 @@ content-blocking-all-cookies = هەموو شەکرۆکەکان
 content-blocking-unvisited-cookies = شەکرۆکە لەو ماڵپەڕانەی کە سەردانت نەکردوون
 content-blocking-all-windows-tracking-content = چاودێریکردنی ناوەڕۆک لە هەموو پەنجەرەکان
 content-blocking-fingerprinters = پەنجە مۆرەکان
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = ئاگاداربە!
 content-blocking-warning-learn-how = بزانە چۆن
 content-blocking-reload-tabs-button =

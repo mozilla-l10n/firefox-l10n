@@ -14,9 +14,6 @@ autofill-options-link-osx = Taq Ajowab'äl richin pa Ruyonil Ninojisäx
 credit-card-capture-cancel-button =
     .label = Wakami mani
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Tijosq'ïx Runojwuj Yonitz'aqatisanïk
 

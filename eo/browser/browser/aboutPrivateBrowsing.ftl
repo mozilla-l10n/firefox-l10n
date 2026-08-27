@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Protektu vian privatecon per { -mozilla-v
 about-private-browsing-focus-promo-cta = Elŝuti { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: privata retumo ie ajn
 about-private-browsing-focus-promo-text = Nia apo dediĉita al privata retumo viŝas vian historion kaj kuketojn post ĉiu uzo.
-
-##
-
 about-private-browsing-focus-promo-header-b = Retumu private ankaŭ en via telefono
 about-private-browsing-focus-promo-text-b = Uzu { -focus-brand-name } por tiuj privataj serĉoj, kiujn vi ne volas havigi al la ĉefa retumilo de via poŝaparato.
 about-private-browsing-focus-promo-header-c = Altgrada privateco en viaj poŝaparatoj
@@ -92,4 +89,3 @@ about-private-browsing-nova-info-link = Kio plu povus vidi mian retumon?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Via retuma historio ne estos registrita.
 about-private-browsing-nova-info-subheader2 = Ni viŝos ĉiujn serĉojn kaj seancojn kiam vi fermos ĉiujn viajn privatajn fenestrojn. La integritaj protektoj de { -brand-short-name }, ekzemple la blokado de spuriloj, ankaŭ ekzistas ĉi tie.
-about-private-browsing-nova-info-subheader = Ni viŝos ĉiun serĉon kaj seancon kiam vi fermos tiun ĉi fenestron. La integritaj protektoj de { -brand-short-name }, ekzemple la blokado de spuriloj, ankaŭ ekzistas ĉi tie.

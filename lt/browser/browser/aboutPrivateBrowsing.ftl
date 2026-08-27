@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Išlikite privatūs su „{ -mozilla-vpn-
 about-private-browsing-focus-promo-cta = Atsisiųsti „{ -focus-brand-name }“
 about-private-browsing-focus-promo-header = „{ -focus-brand-name }“: privatusis naršymas keliaujant
 about-private-browsing-focus-promo-text = Mūsų atskira privačiojo naršymo mobilioji programa išvalo jūsų žurnalą ir slapukus kiekvieną kartą.
-
-##
-
 about-private-browsing-focus-promo-header-b = Pasiimkite privatųjį naršymą į savo telefoną
 about-private-browsing-focus-promo-text-b = Naudokite „{ -focus-brand-name }“ toms privačioms paieškoms, kurioms nenorite naudoti savo pagrindinės mobiliojo telefono naršyklės.
 about-private-browsing-focus-promo-header-c = Aukštesnio lygio privatumas mobiliajame

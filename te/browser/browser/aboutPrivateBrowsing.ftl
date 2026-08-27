@@ -26,9 +26,6 @@ about-private-browsing-get-privacy = విహరిస్తున్న ప్
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name }తో ఆంతరంగికంగా ఉండండి
 about-private-browsing-focus-promo-cta = { -focus-brand-name }‌ను దించుకోండి
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ప్రయాణంలో అంతరంగిక విహారణ
-
-##
-
 about-private-browsing-focus-promo-header-b = ఆంతరంగిక విహరణను మీ ఫొన్లోకి తీసుకెళ్ళండి
 about-private-browsing-focus-promo-header-c = మొబైలులో తర్వాతి-స్థాయి అంతరంగికత
 # This string is the title for the banner for search engine selection

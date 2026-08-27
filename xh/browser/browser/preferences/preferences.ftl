@@ -358,8 +358,8 @@ sync-mobile-promo = Dawnlowuda iFirefox ye<img data-l10n-name="android-icon"/> <
 sync-profile-picture =
     .tooltiptext = Tshintsha umfanekiso weprofayili
 sync-profile-picture-with-alt =
-    .tooltiptext = Tshintsha umfanekiso weprofayili
     .alt = Tshintsha umfanekiso weprofayili
+    .tooltiptext = Tshintsha umfanekiso weprofayili
 
 ## Variables
 ## $email (string) - Email used for Firefox account

@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Thoát
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Mở menu ứng dụng
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Đóng menu ứng dụng
     .label = { -brand-short-name }
+    .tooltiptext = Đóng menu ứng dụng
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Cài đặt trước được đề xuất cho hầu hết gỡ lỗi ứng dụng web, với chi phí thấp.
 profiler-popup-presets-web-developer-label =
     .label = Nhà phát triển Web
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Ẩn vị trí của bạn với { -mozilla-vpn-brand-n
 appmenuitem-vpn-description5 = Tăng cường khả năng bảo vệ trên tất cả thiết bị
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Tải xuống { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = Làm cho hoạt động duyệt web của bạn khó bị theo dõi hơn
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bảo vệ toàn diện cho thiết bị
 appmenuitem-vpn-description = Bảo vệ hoạt động trực tuyến của bạn

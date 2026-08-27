@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Kórty nigda njeskładowaś
     .accessKey = K
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Kórtu aktualizěrowaś?
 credit-card-update-doorhanger-description = Kórta, kótaraž se ma aktualizěrowaś:
 credit-card-capture-save-new-button =

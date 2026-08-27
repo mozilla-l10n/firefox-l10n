@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Maradjon privát a { -mozilla-vpn-brand-n
 about-private-browsing-focus-promo-cta = A { -focus-brand-name } letöltése
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privát böngészés útközben
 about-private-browsing-focus-promo-text = A dedikált privát mobilböngésző alkalmazásunk minden alkalommal törli az előzményeket és a sütiket.
-
-##
-
 about-private-browsing-focus-promo-header-b = Vigye a privát böngészést a telefonjára
 about-private-browsing-focus-promo-text-b = Használja a { -focus-brand-name }t azokhoz a privát keresésekhez, amelyeket nem szeretné, hogy a fő mobilböngészője lásson.
 about-private-browsing-focus-promo-header-c = Magasabb szintű adatvédelem mobilon
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Ki láthatja továbbra is a tevékenysé
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = A böngészési előzményei törölve lesznek
 about-private-browsing-nova-info-subheader2 = Az összes keresést és bejelentkezést törölni fogjuk, ha bezárja az összes privát ablakot. A { -brand-short-name } beépített védelme, például a nyomkövetők blokkolása, itt is be van kapcsolva.
-about-private-browsing-nova-info-subheader = Az összes keresést és bejelentkezést törölni fogjuk, ha bezárja ezt az ablakot. A { -brand-short-name } beépített védelme, például a nyomkövetők blokkolása, itt is be van kapcsolva.

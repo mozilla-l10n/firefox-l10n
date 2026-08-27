@@ -281,9 +281,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = वेबौ नागिर
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } आ बसोन होनाइ
 
@@ -499,9 +496,6 @@ enhanced-tracking-protection-setting-custom =
     .accesskey = C
 
 ##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-tracking-protection-option-all-windows =
     .label = गासै उइन्ड'स आव

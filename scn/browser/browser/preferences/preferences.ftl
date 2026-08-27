@@ -450,9 +450,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Riscedi nnâ riti
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Cunzigghiati di { $provider }
 
@@ -569,8 +566,8 @@ sync-mobile-promo = Scàrrica Firefox pi <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Cancia a mmàggini dû prufilu
 sync-profile-picture-with-alt =
-    .tooltiptext = Cancia a mmàggini dû prufilu
     .alt = Cancia a mmàggini dû prufilu
+    .tooltiptext = Cancia a mmàggini dû prufilu
 sync-sign-out =
     .label = Nesci…
     .accesskey = N
@@ -608,8 +605,8 @@ prefs-syncing-on = Sincrunizzazziuni: AḌḌUMATA
 prefs-syncing-off = Sincrunizzazziuni: ASTUTATA
 prefs-sync-now =
     .labelnotsyncing = Sincrunizza ora
-    .accesskeynotsyncing = S
     .labelsyncing = Staju sincrunizzannu…
+    .accesskeynotsyncing = S
 prefs-sync-now-button =
     .label = Sincrunizza ora
     .accesskey = S
@@ -638,12 +635,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Scarta soccu sincrunizzari
-    .style = min-width: 36em;
     .buttonlabelaccept = Sarba canciamenti
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Scullèjati…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = c
+    .style = min-width: 36em;
+    .title = Scarta soccu sincrunizzari
 sync-engine-bookmarks =
     .label = Nzingalibbra
     .accesskey = z
@@ -887,9 +884,6 @@ content-blocking-unvisited-cookies = Viscotta di siti nun visitati
 content-blocking-all-windows-tracking-content = Cuntinuti trazzanti ’n tutti i finestri
 content-blocking-cryptominers = Crittuminatura
 content-blocking-fingerprinters = Giniratura d’urmi diggitali
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = Accura!
 content-blocking-warning-learn-how = Vidi comu
 content-blocking-reload-description = Ài a ricarricari i schedi p’appricari sti canciamenti.

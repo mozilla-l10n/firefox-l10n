@@ -936,21 +936,6 @@ urlbar-result-explanation-bookmarked = เพิ่มที่คั่นห�
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = เยี่ยมชมครั้งล่าสุดเมื่อ { $date }
-# This explanation is used when the last-visited date is a small number of days
-# in the past.
-# Variables:
-#   $daysAgo (number) - The number of days ago
-urlbar-result-explanation-last-visited-days-2 = เยี่ยมชมครั้งล่าสุดเมื่อ { $daysAgo } วันก่อน
-# This explanation is used when the last-visited date is a small number of weeks
-# in the past.
-# Variables:
-#   $weeksAgo (number) - The number of weeks ago
-urlbar-result-explanation-last-visited-weeks-2 = เยี่ยมชมครั้งล่าสุดเมื่อ { $weeksAgo } สัปดาห์ก่อน
-# This explanation is used when the last-visited date is a small number of
-# months in the past.
-# Variables:
-#   $monthsAgo (number) - The number of months ago
-urlbar-result-explanation-last-visited-months-2 = เยี่ยมชมครั้งล่าสุดเมื่อ { $monthsAgo } เดือนก่อน
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:

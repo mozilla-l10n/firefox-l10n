@@ -34,9 +34,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = ചീട്ടുകളെ ഒരിക്കലും കരുതിവയ്ക്കരുതു്
     .accessKey = ഒ
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = ചീട്ടു് പുതുക്കണോ?
 credit-card-update-doorhanger-description = പുതുക്കാനുള്ള ചീട്ടു്:
 credit-card-capture-save-new-button =

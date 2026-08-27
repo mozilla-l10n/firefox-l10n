@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Ampara sa riservadesa tua cun { -mozilla-
 about-private-browsing-focus-promo-cta = Iscàrriga { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigatzione privada in ònnia logu
 about-private-browsing-focus-promo-text = S'aplicatzione mòbile nostra progetada pro sa navigatzione anònima lìmpiat sa cronologia e is testimòngios ònnia borta.
-
-##
-
 about-private-browsing-focus-promo-header-b = Bati sa navigatzione privada a su telèfonu tuo
 about-private-browsing-focus-promo-text-b = Imprea { -focus-brand-name } pro cuddas chircas privadas chi non boles a ddas bìdere su navigadore printzipale tuo.
 about-private-browsing-focus-promo-header-c = Riservadesa de livellu superiore pro dispositivos mòbiles
@@ -88,4 +85,3 @@ about-private-browsing-nova-info-link = Chie diat pòdere bìdere galu s’ativi
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Sa navigatzione tua no at a èssere sarvada
 about-private-browsing-nova-info-subheader2 = Amus a cantzellare totu is chircas e is identificatziones de sessione cando as a serrare totu is ventanas privadas. Is amparos integrados de { -brand-short-name } sunt ativos inoghe puru, comente su blocu de is sighiduras.
-about-private-browsing-nova-info-subheader = Amus a cantzellare totu is chircas e is identificatziones de sessione cando as a serrare sa ventana. S’amparu integradu de { -brand-short-name } est ativu puru inoghe, comente su blocu de is sighiduras.

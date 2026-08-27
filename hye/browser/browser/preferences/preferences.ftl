@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Փնտրել կարգաւորումներում
+    .style = width: 15.4em
 managed-notice = Ձեր դիտարկիչը կառավարում է ձեր կազմակերպութիւնը։
 managed-notice-nav =
     .label = Ձեր դիտարկիչը կառավարում է ձեր կազմակերպութիւնը։
@@ -586,9 +586,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Կայքեր, որոնք դուք պահում էք կամ այցելում
 home-prefs-shortcuts-by-option-sponsored =
     .label = Հովանաւորուած դիւրանցումներ
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Առաջարկուում է { $provider }
 home-prefs-recommended-by-description-new = Բացառիկ բովանդակութիւն, որը համակարգում է { -brand-product-name }-ի ընտանիքի մաս կազմող { $provider }-ը
@@ -731,8 +728,8 @@ sync-mobile-promo = Ներբեռնել Firefox-ը <img data-l10n-name="android-i
 sync-profile-picture =
     .tooltiptext = Փոխել հաշուի նկարը
 sync-profile-picture-with-alt =
-    .tooltiptext = Փոխել հաշուի նկարը
     .alt = Փոխել հաշուի նկարը
+    .tooltiptext = Փոխել հաշուի նկարը
 sync-sign-out =
     .label = Դուրս գալ…
     .accesskey = g
@@ -777,8 +774,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Համաժամեցնել էջանիշները, պատմութիւնը, գաղտնաբառերը, յաւելումները եւ կարգաւորումները բոլոր սարքերում:
 prefs-sync-now =
     .labelnotsyncing = Համաժամեցնել հիմա
-    .accesskeynotsyncing = N
     .labelsyncing = Համաժամեցում․․․
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Համաժամեցնել հիմա
     .accesskey = N
@@ -808,12 +805,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Ընրեք, թե ինչը համաժամեցնել
-    .style = min-width: 36em;
     .buttonlabelaccept = Պահպանել փոփոխութիւնները
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Անջատուած…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Ընրեք, թե ինչը համաժամեցնել
 sync-engine-bookmarks =
     .label = Էջանիշերը
     .accesskey = ն
@@ -1105,9 +1102,6 @@ content-blocking-unvisited-cookies = Նշոցիկներ չստուգուած կ�
 content-blocking-all-windows-tracking-content = Հետեւում են բովանդակութեանը բոլոր պատուհաններում
 content-blocking-cryptominers = Գաղտնազերծիչներ
 content-blocking-fingerprinters = Մատնահետքեր
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Նշոցիկների ամբողղջական պահպանութիւնը ներառում է նշոցիկներ ներկայում գործածուող կայքում, հետագծիչները չեն կարող գործածել դրանք միջկայքային հետապնդման համար:
 content-blocking-etp-standard-tcp-rollout-learn-more = Իմանալ աւելին
@@ -1189,8 +1183,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Բացառութիւններ…
-    .accesskey = E
     .searchkeywords = ելնող պատուհաններ
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Զգուշացնել, երբ կայքերը փորձում են տեղադրել յաւելումներ
     .accesskey = W

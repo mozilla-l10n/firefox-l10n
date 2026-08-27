@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Rasti nuostatose
+    .style = width: 15.4em
 managed-notice = Jūsų naršyklę tvarko jūsų organizacija.
 managed-notice-nav =
     .label = Jūsų naršyklę tvarko jūsų organizacija.
@@ -597,9 +597,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Jūsų įrašytos arba lankomos svetainės
 home-prefs-shortcuts-by-option-sponsored =
     .label = Rėmėjų leistukai
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Rekomenduoja „{ $provider }“
 home-prefs-recommended-by-description-new = Išskirtinis turinys, kuruojamas „{ $provider }“, kuri yra „{ -brand-product-name }“ šeimos dalis
@@ -750,8 +747,8 @@ sync-mobile-promo = Parsisiųskite „Firefox“, skirtą <img data-l10n-name="a
 sync-profile-picture =
     .tooltiptext = Keisti profilio nuotrauką
 sync-profile-picture-with-alt =
-    .tooltiptext = Keisti profilio nuotrauką
     .alt = Keisti profilio nuotrauką
+    .tooltiptext = Keisti profilio nuotrauką
 sync-sign-out =
     .label = Atsijungti…
     .accesskey = g
@@ -796,8 +793,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus, ir nuostatas visuose savo įrenginiuose.
 prefs-sync-now =
     .labelnotsyncing = Sinchronizuoti dabar
-    .accesskeynotsyncing = d
     .labelsyncing = Sinchronizuojama…
+    .accesskeynotsyncing = d
 prefs-sync-now-button =
     .label = Sinchronizuoti dabar
     .accesskey = d
@@ -827,12 +824,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Pasirinkite, ką sinchronizuosite
-    .style = min-width: 36em;
     .buttonlabelaccept = Įrašyti pakeitimus
-    .buttonaccesskeyaccept = r
     .buttonlabelextra2 = Atsijungti…
+    .buttonaccesskeyaccept = r
     .buttonaccesskeyextra2 = t
+    .style = min-width: 36em;
+    .title = Pasirinkite, ką sinchronizuosite
 sync-engine-bookmarks =
     .label = adresyną
     .accesskey = a
@@ -1130,9 +1127,6 @@ content-blocking-unvisited-cookies = Slapukai iš nelankytų svetainių
 content-blocking-all-windows-tracking-content = Stebėjimui naudojamas turinys visuose languose
 content-blocking-cryptominers = Kriptovaliutų kasėjai
 content-blocking-fingerprinters = Skaitmeninių atspaudų stebėjimas
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Visapusiška slapukų apsauga riboja slapukų pasiekimą jūsų lankomoje svetainėje, todėl stebėjimo elementai negali jų naudoti jūsų sekimui tarp svetainių.
 content-blocking-etp-standard-tcp-rollout-learn-more = Sužinoti daugiau
@@ -1215,8 +1209,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Išimtys…
-    .accesskey = I
     .searchkeywords = popups
+    .accesskey = I
 permissions-addon-install-warning =
     .label = Įspėti, kai svetainės bando diegti priedus
     .accesskey = t

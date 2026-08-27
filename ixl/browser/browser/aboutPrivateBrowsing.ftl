@@ -7,9 +7,6 @@ privatebrowsingpage-open-private-window-label = Jaj uma'l aatinb'al uva' eetz ku
 about-private-browsing-search-placeholder = La chuk tu web
 about-private-browsing-info-title = A'e' uma'l u atinb'ala' uva' eetz kuxhtu'
 about-private-browsing-not-private = Cheel chitu' u atinb'ale' at axh stuul as jit eetz
-
-##
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

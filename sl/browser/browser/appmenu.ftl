@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Izhod
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Odpri meni programa
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Zapri meni programa
     .label = { -brand-short-name }
+    .tooltiptext = Zapri meni programa
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Priporočena prednastavitev za razhroščevanje večine spletnih aplikacij, z nizko porabo sredstev.
 profiler-popup-presets-web-developer-label =
     .label = Spletni razvoj
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Skrij svojo lokacijo z { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description5 = Dodatno zaščitite svoje naprave
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Prenesite { -mozilla-vpn-brand-name(sklon: "tozilnik") }
-appmenuitem-vpn-description3 = Poskrbite, da bo vaše brskanje težje sledljivo
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Zagotovite si zaščito za celotno napravo
 appmenuitem-vpn-description = Zaščitite svojo spletno dejavnost

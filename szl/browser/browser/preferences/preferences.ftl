@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Znojdź we sztalōnkach
+    .style = width: 15.4em
 managed-notice = Tōm przeglōndarkōm regiyruje twoja ôrganizacyjo.
 managed-notice-nav =
     .label = Tōm przeglōndarkōm regiyruje twoja ôrganizacyjo.
@@ -590,9 +590,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Spamiyntane i nawiydzane strōny
 home-prefs-shortcuts-by-option-sponsored =
     .label = Spōnsorowane skrōty
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Rykōmyndowane ôd { $provider }
 home-prefs-recommended-by-description-new = Ekstra zawartość ôbrano ôd { $provider }, co je we familiji { -brand-product-name }
@@ -736,8 +733,8 @@ sync-mobile-promo = Pobier Firefox na <img data-l10n-name="android-icon"/> <a da
 sync-profile-picture =
     .tooltiptext = Zmiyń profilowy ôbrozek
 sync-profile-picture-with-alt =
-    .tooltiptext = Zmiyń profilowy ôbrozek
     .alt = Zmiyń profilowy ôbrozek
+    .tooltiptext = Zmiyń profilowy ôbrozek
 sync-sign-out =
     .label = Wyloguj sie…
     .accesskey = g
@@ -782,8 +779,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i sztalōnki na wszyskich swojich maszinach.
 prefs-sync-now =
     .labelnotsyncing = Synchrōnizuj teroz
-    .accesskeynotsyncing = T
     .labelsyncing = Synchrōnizuja…
+    .accesskeynotsyncing = T
 prefs-sync-now-button =
     .label = Synchrōnizuj teroz
     .accesskey = T
@@ -813,12 +810,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Ôbier, co synchrōnizować
-    .style = min-width: 36em;
     .buttonlabelaccept = Spamiyntej zmiany
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Rozłōncz…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = R
+    .style = min-width: 36em;
+    .title = Ôbier, co synchrōnizować
 sync-engine-bookmarks =
     .label = Zokłodki
     .accesskey = k
@@ -1110,9 +1107,6 @@ content-blocking-unvisited-cookies = Cookies z niynawiydzōnych strōn
 content-blocking-all-windows-tracking-content = Śledzōnce elymynta we wszyskich ôknach
 content-blocking-cryptominers = Elymynta, co fedrujōm kryptopiniōndze
 content-blocking-fingerprinters = Elymynta, co rychtujōm ôdcisk ôd przeglōndarki
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Połno ôchrōna cookies trzimie cookies na strōnie, na keryj żeś je, tak co elymynty śledzōnce niy idōm za tobōm miyndzy strōnami.
 content-blocking-etp-standard-tcp-rollout-learn-more = Przewiydz sie wiyncyj
@@ -1194,8 +1188,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Wyjōntki…
-    .accesskey = y
     .searchkeywords = popups
+    .accesskey = y
 permissions-addon-install-warning =
     .label = Dowej znać, jak strōny prōbujōm zainsztalować rozszyrzynia
     .accesskey = D

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Haltu þig til hlés með { -mozilla-vpn-
 about-private-browsing-focus-promo-cta = Sækja { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Huliðsvafur á ferðinni
 about-private-browsing-focus-promo-text = Huliðsvafurforritið okkar fyrir farsíma hreinsar feril þinn og vefkökur eftir hvert skipti.
-
-##
-
 about-private-browsing-focus-promo-header-b = Fáðu einkavafur í símann þinn
 about-private-browsing-focus-promo-text-b = Notaðu { -focus-brand-name } fyrir þær persónulegu leitir sem þú vilt ekki að aðalfarsímavafrinn þinn sjái.
 about-private-browsing-focus-promo-header-c = Næsta stig persónuverndar í farsímum

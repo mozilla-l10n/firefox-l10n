@@ -31,8 +31,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Af deg yiɣewwaren
+    .style = width: 15.4em
 managed-notice = Iminig-ik tessefrak-it tuddsa-ik.
 managed-notice-info-icon =
     .alt = Talɣut
@@ -174,8 +174,8 @@ preferences-profiles-group-header =
 preferences-profiles-subpane-description =
     .description = Yal amaɣnu yessemgired gar yisefka n tunigin d yiɣewwaren , gar-asen azray, awalen n uɛeddi d wayen niḍen.
 preferences-profiles-section-header =
-    .label = Imeɣna
     .description = Yal amaɣnu yessemgired gar yisefka n tunigin d yiɣewwaren , gar-asen azray, awalen n uɛeddi d wayen niḍen.
+    .label = Imeɣna
 preferences-profiles-header = Imeɣna
 preferences-manage-profiles-description = Yal amaɣnu yessemgired gar yisefka n tunigin d yiɣewwaren , gar-asen azray, awalen n uɛeddi d wayen niḍen.
 preferences-manage-profiles-learn-more = Issin ugar
@@ -688,9 +688,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Ismal i teskelseḍ neɣ wuɣur terziḍ
 home-prefs-shortcuts-by-option-sponsored =
     .label = Inegzumen yettwarefden
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Iwelleh-it-id { $provider }
 home-prefs-recommended-by-description-new = Agbur ufrin i s-yettusuddsen sɣur { $provider }, d aḥric seg twacult { -brand-product-name }
@@ -856,8 +853,8 @@ sync-mobile-promo = Sader Firefox i <img data-l10n-name="android-icon"/> <a data
 sync-profile-picture =
     .tooltiptext = Beddel tugna n umaɣnu
 sync-profile-picture-with-alt =
-    .tooltiptext = Beddel tugna n umaɣnu
     .alt = Beddel tugna n umaɣnu
+    .tooltiptext = Beddel tugna n umaɣnu
 sync-profile-picture-account-problem =
     .alt = Tugna n umaɣnu n umiḍan
 fxa-login-rejected-warning =
@@ -909,8 +906,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Semtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d yiɣewwaren akked ibenkan-inek akk.
 prefs-sync-now =
     .labelnotsyncing = Mtawi tura
-    .accesskeynotsyncing = T
     .labelsyncing = Amtawi…
+    .accesskeynotsyncing = T
 prefs-sync-now-button =
     .label = Mtawi tura
     .accesskey = T
@@ -946,12 +943,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Fren iferdisen ara yemtawin
-    .style = min-width: 38em;
     .buttonlabelaccept = Sekles ibeddilen
-    .buttonaccesskeyaccept = b
     .buttonlabelextra2 = Se déconnecter…
+    .buttonaccesskeyaccept = b
     .buttonaccesskeyextra2 = S
+    .style = min-width: 38em;
+    .title = Fren iferdisen ara yemtawin
 sync-choose-dialog-subtitle = Isenfal yettwagen i tebdart n yiferdisen ara yemtawin ad ḥazen akk ibenkan yeqqnen.
 sync-engine-bookmarks =
     .label = Ticraḍ n yisebtar
@@ -1304,11 +1301,11 @@ addressbar-locbar-quickactions-option =
     .accesskey = T
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
-    .label = Isumar seg { -brand-short-name }
     .description = Awi isumar seg web yeqqnen ɣer unadi-k·m.
+    .label = Isumar seg { -brand-short-name }
 addressbar-locbar-suggest-sponsored-option-2 =
-    .label = Isumar sɣur imendaden
     .description = Mudd tallalt i { -brand-short-name } s uskan n yisumar i d-yettuwellhen sya ɣer da
+    .label = Isumar sɣur imendaden
 addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 addressbar-locbar-showrecentsearches-option =
     .label = Sken inadiyen imaynuten
@@ -1368,9 +1365,6 @@ content-blocking-all-windows-tracking-content = Agbur yettwaseqdec i uḍfaṛ d
 content-blocking-all-cross-site-cookies = Meṛṛa inagan n tuqqna gar yismal
 content-blocking-cryptominers = Ikripṭuminaren
 content-blocking-fingerprinters = Idsilen umḍinen
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Ammesten asemday mgal inagan n tuqqna itegg talast i yinagan n tuqqna ɣef usmel ideg telliḍ, ineḍfaren ur ssawaḍen ara ad ak·akem-ḍefren seg usmel ɣer wayeḍ.
 content-blocking-etp-standard-tcp-rollout-learn-more = Issin ugar
@@ -1470,8 +1464,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Tisuraf…
-    .accesskey = T
     .searchkeywords = isfuyla udhimen
+    .accesskey = T
 permissions-addon-install-warning =
     .label = Lɣu ticki ismal ttaɛraḍen ad sbedden izegrar
     .accesskey = B

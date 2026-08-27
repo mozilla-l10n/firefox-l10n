@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Inoiz ez gorde txartelik
     .accessKey = n
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Eguneratu txartela?
 credit-card-update-doorhanger-description = Eguneratu beharreko txartela:
 credit-card-capture-save-new-button =

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = با { -mozilla-vpn-brand-name } ناشن
 about-private-browsing-focus-promo-cta = بارگیری { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: مرور محرمانه در مسیر
 about-private-browsing-focus-promo-text = کارهٔ همراه مرور محرمانهٔ ویژه‌مان هر بار پیشینه و کلوچک‌هایتان را پاک می‌کند.
-
-##
-
 about-private-browsing-focus-promo-header-b = مرور محرمانه را به تلفنتان ببرید
 about-private-browsing-focus-promo-text-b = از { -focus-brand-name } برای جست‌وجوهای ناشناسی که نمی‌خواهید مرورگر اصلی تلفن همراهتان ببیند، استفاده کنید.
 about-private-browsing-focus-promo-header-c = گام بعدی محرمانگی در تلفن همراه

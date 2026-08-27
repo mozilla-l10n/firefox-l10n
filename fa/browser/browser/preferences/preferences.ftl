@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = جستجو در تنظیمات
+    .style = width: 15.4em
 managed-notice = مرورگر شما توسط سازمان شما مدیریت می شود.
 managed-notice-nav =
     .label = مرورگر شما توسط سازمان شما مدیریت می شود.
@@ -542,9 +542,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = وب‌سایت‌هایی که ذخیره یا بازدید کرده‌اید
 home-prefs-shortcuts-by-option-sponsored =
     .label = میانبرهایی از حامیان مالی
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = پیشنهاد شده توسط { $provider }
 home-prefs-recommended-by-description-new = محتوای استثنایی که توسط { $provider }، بخشی از خانواده { -brand-product-name }، جمع‌آوری شده‌اند.
@@ -689,8 +686,8 @@ sync-mobile-promo = بارگیری فایرفاکس برای <img data-l10n-name
 sync-profile-picture =
     .tooltiptext = تغییرتصویر نمایه
 sync-profile-picture-with-alt =
-    .tooltiptext = تغییرتصویر نمایه
     .alt = تغییرتصویر نمایه
+    .tooltiptext = تغییرتصویر نمایه
 sync-sign-out =
     .label = خروج...
     .accesskey = g
@@ -735,8 +732,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
 prefs-sync-now =
     .labelnotsyncing = هم‌اکنون همگام‌سازی کنید
-    .accesskeynotsyncing = N
     .labelsyncing = درحال همگام‌سازی...
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = هم‌اکنون همگام‌سازی کنید
     .accesskey = N
@@ -766,12 +763,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = چه چیزی را می‌خواهید همگام کنید
-    .style = min-width: 36em;
     .buttonlabelaccept = ذخیره تغییرات
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = قطع ارتباط
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = چه چیزی را می‌خواهید همگام کنید
 sync-engine-bookmarks =
     .label = نشانک‌ها
     .accesskey = ن
@@ -1065,9 +1062,6 @@ content-blocking-unvisited-cookies = کلوچک‌های پایگاه‌های �
 content-blocking-all-windows-tracking-content = محتوای ردیابی در تمامی پنجره‌ها
 content-blocking-cryptominers = استخراج کننده‌های رمزارزها
 content-blocking-fingerprinters = برداشت کنندگان اثر انگشت
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = حفاظت کامل از کلوچک‌ها حاوی کلوچک‌هایی برای پایگاهی است که در آن هستید، بنابراین ردیاب‌ها نمی‌توانند از آن‌ها برای دنبال کردن شما بین پایگاه‌ها استفاده کنند.
 content-blocking-etp-standard-tcp-rollout-learn-more = اطلاعات بیشتر
@@ -1149,8 +1143,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = استثناها…
-    .accesskey = س
     .searchkeywords = popups
+    .accesskey = س
 permissions-addon-install-warning =
     .label = درهنگام تلاش پایگاه اینترنتی برای نصب افزودنی، به من هشدار داده شود
     .accesskey = د

@@ -91,4 +91,3 @@ about-private-browsing-nova-info-link = Kto nadal może widzieć co robię?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Historia przeglądania zostanie usunięta
 about-private-browsing-nova-info-subheader2 = Gdy zamkniesz wszystkie okna prywatne, usuniemy wszystkie wyszukiwania i logowania. Wbudowana ochrona { -brand-short-name(case: "gen") }, taka jak blokowanie elementów śledzących, też tu działa.
-about-private-browsing-nova-info-subheader = Gdy zamkniesz to okno, usuniemy wszystkie wyszukiwania i logowania. Wbudowana ochrona { -brand-short-name(case: "gen") }, taka jak blokowanie elementów śledzących, też tu działa.

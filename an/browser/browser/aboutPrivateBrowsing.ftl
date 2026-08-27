@@ -19,9 +19,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Mira con { $engine } u escribe una adreza
 about-private-browsing-handoff-text-no-engine = Mirar u escribir adreza
 about-private-browsing-not-private = Agora no ye en una finestra privada.
-
-##
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

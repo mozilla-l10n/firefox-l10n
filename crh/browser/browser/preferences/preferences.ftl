@@ -401,9 +401,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Ağ Qıdırması
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } tevsiyeli
 
@@ -510,8 +507,8 @@ sync-mobile-promo = Mobil cihazıñız ile aynılaştırmaq içün <img data-l10
 sync-profile-picture =
     .tooltiptext = Profil resmini değiştir
 sync-profile-picture-with-alt =
-    .tooltiptext = Profil resmini değiştir
     .alt = Profil resmini değiştir
+    .tooltiptext = Profil resmini değiştir
 sync-manage-account = Esapnı İdare Et
     .accesskey = H
 sync-manage-account2 =
@@ -747,9 +744,6 @@ enhanced-tracking-protection-setting-custom =
     .accesskey = e
 
 ##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-warning-title = Diqqat!
 content-blocking-tracking-protection-option-all-windows =

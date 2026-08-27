@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Ostanite privatni uz { -mozilla-vpn-brand
 about-private-browsing-focus-promo-cta = Preuzmite { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privatno pretraživanje u pokretu
 about-private-browsing-focus-promo-text = Naša namjenska mobilna aplikacija za privatno pretraživanje svaki put briše vašu historiju i kolačiće.
-
-##
-
 about-private-browsing-focus-promo-header-b = Prebacite privatno pretraživanje na svoj telefon
 about-private-browsing-focus-promo-text-b = Koristite { -focus-brand-name } za ona privatna pretraživanja koja ne želite da vaš glavni pretraživač mobilnog telefona vidi.
 about-private-browsing-focus-promo-header-c = Sljedeći nivo privatnosti na mobilnom uređaju

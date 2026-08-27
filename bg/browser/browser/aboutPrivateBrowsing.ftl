@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Останете скрити с { -mozil
 about-private-browsing-focus-promo-cta = Изтеглете { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Поверително разглеждане в движение
 about-private-browsing-focus-promo-text = Мобилното ни приложение специалното за поверително разглеждане изчиства историята и бисквитките всеки път.
-
-##
-
 about-private-browsing-focus-promo-header-b = Вземете поверителното разглеждане на телефона си
 about-private-browsing-focus-promo-text-b = Използвайте { -focus-brand-name } за онова търсене, което не искате да правите с основния си мобилен браузър.
 about-private-browsing-focus-promo-header-c = Следващо ниво поверителност за мобилни устройства
@@ -86,4 +83,3 @@ about-private-browsing-nova-info-link = Кой все още може да ви�
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Няма ваши записи
-about-private-browsing-nova-info-subheader = Ще изтрием всяко търсене и влизане, когато затворите този прозорец. Вградените защити на { -brand-short-name } също са включени тук, като блокиране на тракери.

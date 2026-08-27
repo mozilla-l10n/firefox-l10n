@@ -418,9 +418,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Nana'uì' web
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Sa hua hue'e taj { $provider }
 
@@ -537,8 +534,8 @@ sync-mobile-promo = Naduni' Firefox guenda <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Nadunā ña du'uat
 sync-profile-picture-with-alt =
-    .tooltiptext = Nadunā ña du'uat
     .alt = Nadunā ña du'uat
+    .tooltiptext = Nadunā ña du'uat
 sync-sign-out =
     .label = Gahuī…
     .accesskey = G
@@ -576,8 +573,8 @@ prefs-syncing-on = Sa nagi'iaj nuguàn'àn: Nachrūn
 prefs-syncing-off = Sa nagi'iaj nuguàn'àn: OFF
 prefs-sync-now =
     .labelnotsyncing = Nagi'iaj nuguàn'àn hīaj
-    .accesskeynotsyncing = N
     .labelsyncing = Nagi'iaj nuguàn'anj…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Nagi'iaj nuguàn'àn hīaj
     .accesskey = N
@@ -606,12 +603,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Ni'iāj nùhuin si ruhuât nāgi'iaj nuguàn'ànt
-    .style = min-width: 36em;
     .buttonlabelaccept = Na'nïnj sà' nej sa nadunât
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Nitāj si 'iaj sunj…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Ni'iāj nùhuin si ruhuât nāgi'iaj nuguàn'ànt
 sync-engine-bookmarks =
     .label = Sa raj sun nichrò' doj
     .accesskey = S
@@ -851,9 +848,6 @@ content-blocking-unvisited-cookies = SI kokî nej sitiô nitaj si ni'iajt
 content-blocking-all-windows-tracking-content = Sa ni'iaj sa màn 'iát riña daran' bentâna
 content-blocking-cryptominers = Nej Kriptominêro
 content-blocking-fingerprinters = Nej da'nga' ra'a
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = ¡Nuguan' huaa!
 content-blocking-warning-learn-how = Gahuin chrūn dàj
 content-blocking-reload-description = Da' naduna sa huin ruhuât ni da'uît nagi'iaj nakàt rakïj ñanj.

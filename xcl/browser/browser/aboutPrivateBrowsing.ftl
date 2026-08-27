@@ -7,9 +7,6 @@ privatebrowsingpage-open-private-window-label = Բանալ զծածուկ պատ
 about-private-browsing-search-placeholder = Խնդրել յոստայնի:
 about-private-browsing-info-title = Չես ի ծածուկ պատուհանի
 about-private-browsing-not-private = Չես այժմ ի ծածուկ պատուհանի։
-
-##
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

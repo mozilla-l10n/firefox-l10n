@@ -91,4 +91,3 @@ about-private-browsing-nova-info-link = Siapa yang mungkin masih dapat melihat a
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Anda tidak direkam
 about-private-browsing-nova-info-subheader2 = Kami akan menghapus setiap pencarian dan proses masuk saat Anda menutup semua Jendela Pribadi Anda. Perlindungan bawaan { -brand-short-name } juga ada di sini, seperti memblokir pelacak.
-about-private-browsing-nova-info-subheader = Kami akan menghapus setiap pencarian dan proses masuk saat Anda menutup jendela ini. Perlindungan bawaan { -brand-short-name } juga ada di sini, seperti memblokir pelacak.

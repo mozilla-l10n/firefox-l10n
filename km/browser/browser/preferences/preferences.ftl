@@ -404,9 +404,6 @@ home-custom-homepage-bookmarks-button =
 
 home-prefs-search-header =
     .label = ការស្វែងរកតាម​អ៊ីនធឺណិត
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = បានណែនាំដោយ { $provider }
 
@@ -513,8 +510,8 @@ sync-mobile-promo = ទាញ​យក​ Firefox សម្រាប់​<img d
 sync-profile-picture =
     .tooltiptext = ប្តូរ​​រូប​ប្រូ​ហ្វាល់
 sync-profile-picture-with-alt =
-    .tooltiptext = ប្តូរ​​រូប​ប្រូ​ហ្វាល់
     .alt = ប្តូរ​​រូប​ប្រូ​ហ្វាល់
+    .tooltiptext = ប្តូរ​​រូប​ប្រូ​ហ្វាល់
 sync-profile-picture-account-problem =
     .alt = រូបភាពប្រវត្តិរូបគណនី
 sync-manage-account = គ្រប់គ្រង​គណនី
@@ -546,8 +543,8 @@ sync-sign-in =
 
 prefs-sync-now =
     .labelnotsyncing = ធ្វើ​សមកាលកម្ម​ឥឡូវ
-    .accesskeynotsyncing = N
     .labelsyncing = កំពុងធ្វើ​សមកាលកម្ម​…
+    .accesskeynotsyncing = N
 
 ## The list of things currently syncing.
 
@@ -638,8 +635,8 @@ forms-ask-to-save-logins =
 pane-privacy-passwords-header = ពាក្យ​សម្ងាត់
     .searchkeywords = ចូល
 forms-passwords-header =
-    .label = ពាក្យ​សម្ងាត់
     .aria-label = ពាក្យ​សម្ងាត់
+    .label = ពាក្យ​សម្ងាត់
 forms-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = x
@@ -786,9 +783,6 @@ enhanced-tracking-protection-setting-custom =
     .accesskey = C
 
 ##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-cookies-label =
     .label = ​ខូគី

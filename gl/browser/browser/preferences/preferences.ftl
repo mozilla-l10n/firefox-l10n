@@ -31,8 +31,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Atopar na Configuración
+    .style = width: 15.4em
 managed-notice = O seu navegador está a ser xestionado pola súa organización.
 managed-notice-info-icon =
     .alt = Información
@@ -174,8 +174,8 @@ preferences-profiles-group-header =
 preferences-profiles-subpane-description =
     .description = Cada perfil ten datos de navegación e configuracións separados, incluído o historial, os contrasinais e moito máis.
 preferences-profiles-section-header =
-    .label = Perfís
     .description = Cada perfil ten datos de navegación e configuracións separados, incluído o historial, os contrasinais e moito máis.
+    .label = Perfís
 preferences-profiles-header = Perfís
 preferences-manage-profiles-description = Cada perfil ten datos de navegación e configuracións separados, incluído o historial, os contrasinais e moito máis.
 preferences-manage-profiles-learn-more = Máis información
@@ -265,8 +265,8 @@ settings-tabs-show-image-in-preview =
 browser-layout-header2 =
     .label = Disposición do navegador
 browser-layout-show-sidebar2 =
-    .label = Amosar barra lateral
     .description = Accede rapidamente aos marcadores, pestanas do teu teléfono, chatbots de IA e moito máis sen saír da túa vista principal.
+    .label = Amosar barra lateral
 browser-layout-header = Disposición do navegador
 browser-layout-horizontal-tabs =
     .label = Pestanas horizontais
@@ -693,9 +693,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitios gardados ou visitados
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atallos patrocinados
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description-new = Contido excepcional patrocinado por { $provider }, parte da familia { -brand-product-name }
@@ -874,8 +871,8 @@ sync-mobile-promo = Descargar Firefox para <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Cambiar a foto do perfil
 sync-profile-picture-with-alt =
-    .tooltiptext = Cambiar a foto do perfil
     .alt = Cambiar a foto do perfil
+    .tooltiptext = Cambiar a foto do perfil
 sync-profile-picture-account-problem =
     .alt = Fotografía do perfil da conta
 fxa-login-rejected-warning =
@@ -927,8 +924,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e a configuración en todos os seus dispositivos.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar agora
-    .accesskeynotsyncing = N
     .labelsyncing = Sincronizando...
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sincronizar agora
     .accesskey = N
@@ -964,12 +961,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Escolla que sincronizar
-    .style = min-width: 36em;
     .buttonlabelaccept = Gardar cambios
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Desconectar...
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Escolla que sincronizar
 sync-choose-dialog-subtitle = Os cambios na lista de elementos para sincronizar reflectiranse en todos os seus dispositivos conectados.
 sync-engine-bookmarks =
     .label = Marcadores
@@ -1010,12 +1007,12 @@ sync-engine-settings =
     .tooltiptext = Configuración xeral, de privacidade e de seguranza que cambiou
     .accesskey = C
 sync-choose-what-to-sync-dialog4 =
-    .title = Xestionar o que se sincroniza en todos os teus dispositivos conectados
-    .style = min-width: 36em;
     .buttonlabelaccept = Gardar
-    .buttonaccesskeyaccept = G
     .buttonlabelextra2 = Desconectar…
+    .buttonaccesskeyaccept = G
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Xestionar o que se sincroniza en todos os teus dispositivos conectados
 
 ## The device name controls.
 
@@ -1325,11 +1322,11 @@ addressbar-locbar-quickactions-option =
     .accesskey = r
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
-    .label = Suxestións de { -brand-short-name }
     .description = Recibe suxestións da web relacionadas coa túa busca.
+    .label = Suxestións de { -brand-short-name }
 addressbar-locbar-suggest-sponsored-option-2 =
-    .label = Suxestións dos patrocinadores
     .description = Apoia a { -brand-short-name } con suxestións patrocinadas ocasionais.
+    .label = Suxestións dos patrocinadores
 addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxestións do buscador
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar buscas recentes
@@ -1345,8 +1342,8 @@ addressbar-locbar-suggest-sponsored-option =
     .label = Suxestións dos patrocinadores
 addressbar-locbar-suggest-sponsored-desc = Apoia a { -brand-short-name } con suxestións patrocinadas ocasionais.
 addressbar-dismissed-suggestions-label-2 =
-    .label = Suxestións descartadas
     .description = Restaura as suxestións descartadas dos patrocinadores e de { -brand-short-name }.
+    .label = Suxestións descartadas
 addressbar-quickactions-learn-more = Máis información
 addressbar-dismissed-suggestions-label = Suxestións descartadas
 addressbar-restore-dismissed-suggestions-description = Restaura as suxestións descartadas dos patrocinadores e de { -brand-short-name }.
@@ -1400,9 +1397,6 @@ content-blocking-fingerprinters = Pegadas dixitais
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Pegadas dixitais coñecidas e sospeitosas
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = A protección de rastros total limita os rastros ao sitio no que estás, para que os rastrexadores non os poidan usar para seguirte entre sitios.
 content-blocking-etp-standard-tcp-rollout-learn-more = Máis información
@@ -1503,8 +1497,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Excepcións...
-    .accesskey = E
     .searchkeywords = emerxentes
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Avisar cando os sitios web tenten instalar complementos
     .accesskey = w
@@ -1536,8 +1530,8 @@ collection-privacy-notice = Política de privacidade
 collection-health-report-telemetry-disabled = Xa non permite que o { -vendor-short-name } capure datos técnicos e de interacción. Todos os datos pasados eliminaranse nun prazo de 30 días.
 collection-health-report-telemetry-disabled-link = Máis información
 addon-recommendations3 =
-    .label = Permitir recomendacións personalizadas de extensións
     .description = Obtén recomendacións de extensións para mellorar a túa experiencia de navegación.
+    .label = Permitir recomendacións personalizadas de extensións
 collection-usage-ping =
     .label = Enviar ping de uso diario a { -vendor-short-name }
     .accesskey = u
@@ -1582,8 +1576,8 @@ privacy-segmentation-radio-on =
     .label = Mostrar información detallada
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 data-collection =
-    .label = { -brand-short-name } Recollida e uso de datos
     .description = Esforzámonos por ofrecerche opcións e recompilar só os datos mínimos necesarios para mellorar { -brand-product-name } para todos.
+    .label = { -brand-short-name } Recollida e uso de datos
     .searchkeywords = telemetría
 data-collection-link = Ver o aviso de privacidade
 data-collection-preferences-across-profiles =
@@ -1592,14 +1586,14 @@ data-collection-profiles-link = Ver todos os perfís
 data-collection-health-report-telemetry-disabled =
     .message = Xa non permite que o { -vendor-short-name } capure datos técnicos e de interacción. Todos os datos pasados eliminaranse nun prazo de 30 días.
 data-collection-health-report =
+    .description = Isto axúdanos a mellorar as funcións, o rendemento e a estabilidade de { -brand-product-name }.
     .label = Enviar datos técnicos e de interacción a { -vendor-short-name }
     .accesskey = r
-    .description = Isto axúdanos a mellorar as funcións, o rendemento e a estabilidade de { -brand-product-name }.
 data-collection-studies-link =
     .label = Ver os estudos de { -brand-short-name }
 data-collection-usage-ping =
-    .label = Enviar ping de uso diario a { -vendor-short-name }
     .description = Isto axuda a { -vendor-short-name } a estimar os usuarios activos.
+    .label = Enviar ping de uso diario a { -vendor-short-name }
     .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
@@ -1662,13 +1656,13 @@ httpsonly-radio-enabled =
 httpsonly-radio-enabled-pbm =
     .label = Activar o modo só HTTPS só nas xanelas privadas
 httpsonly-radio-disabled3 =
-    .label = Non habilitar o modo só-HTTPS
     .description = { -brand-short-name } aínda pode actualizar algunhas conexións
+    .label = Non habilitar o modo só-HTTPS
 httpsonly-radio-disabled =
     .label = Non activar o modo só HTTPS
 httpsonly-group =
-    .label = Modo só HTTPS
     .description = Só permite conexións seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
+    .label = Modo só HTTPS
 
 ## DoH Section
 

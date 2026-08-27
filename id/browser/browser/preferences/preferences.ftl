@@ -31,8 +31,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Cari di Pengaturan
+    .style = width: 15.4em
 managed-notice = Peramban Anda dikelola oleh organisasi Anda.
 managed-notice-info-icon =
     .alt = Informasi
@@ -174,8 +174,8 @@ preferences-profiles-group-header =
 preferences-profiles-subpane-description =
     .description = Setiap profil memiliki data dan pengaturan penjelajahan terpisah, termasuk riwayat, kata sandi, dan lainnya.
 preferences-profiles-section-header =
-    .label = Profil
     .description = Setiap profil memiliki data dan pengaturan penjelajahan terpisah, termasuk riwayat, kata sandi, dan lainnya.
+    .label = Profil
 preferences-profiles-header = Profil
 preferences-manage-profiles-description = Setiap profil memiliki data dan pengaturan penjelajahan terpisah, termasuk riwayat, kata sandi, dan lainnya.
 preferences-manage-profiles-learn-more = Pelajari lebih lanjut
@@ -253,8 +253,8 @@ settings-tabs-show-image-in-preview =
 browser-layout-header2 =
     .label = Tata Letak Peramban
 browser-layout-show-sidebar2 =
-    .label = Tampilkan bilah samping
     .description = Akses markah, tab dari ponsel Anda, chatbot AI, dan lainnya dengan cepat tanpa meninggalkan tampilan utama Anda.
+    .label = Tampilkan bilah samping
 browser-layout-header = Tata Letak Peramban
 browser-layout-horizontal-tabs =
     .label = Tab horizontal
@@ -681,9 +681,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Situs yang Anda simpan atau kunjungi
 home-prefs-shortcuts-by-option-sponsored =
     .label = Pintasan bersponsor
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Disarankan oleh { $provider }
 home-prefs-recommended-by-description-new = Konten luar biasa yang dikelola oleh { $provider }, bagian dari keluarga { -brand-product-name }
@@ -852,8 +849,8 @@ sync-mobile-promo = Unduh Firefox untuk <img data-l10n-name="android-icon"/> <a 
 sync-profile-picture =
     .tooltiptext = Ubah gambar profil
 sync-profile-picture-with-alt =
-    .tooltiptext = Ubah gambar profil
     .alt = Ubah gambar profil
+    .tooltiptext = Ubah gambar profil
 sync-profile-picture-account-problem =
     .alt = Gambar profil akun
 fxa-login-rejected-warning =
@@ -905,8 +902,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai perangkat Anda.
 prefs-sync-now =
     .labelnotsyncing = Sinkronkan Sekarang
-    .accesskeynotsyncing = S
     .labelsyncing = Menyinkronkan…
+    .accesskeynotsyncing = S
 prefs-sync-now-button =
     .label = Sinkronkan Sekarang
     .accesskey = S
@@ -942,12 +939,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Pilih yang Akan Disinkronkan
-    .style = min-width: 36em;
     .buttonlabelaccept = Simpan Perubahan
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Putuskan…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = P
+    .style = min-width: 36em;
+    .title = Pilih yang Akan Disinkronkan
 sync-choose-dialog-subtitle = Perubahan pada daftar item yang akan disinkronkan akan tercermin di semua perangkat Anda yang terhubung.
 sync-engine-bookmarks =
     .label = Markah
@@ -988,12 +985,12 @@ sync-engine-settings =
     .tooltiptext = Pengaturan Umum, Privasi, dan Keamanan yang Anda ubah
     .accesskey = P
 sync-choose-what-to-sync-dialog4 =
-    .title = Kelola apa yang disinkronkan di semua perangkat Anda yang terhubung
-    .style = min-width: 36em;
     .buttonlabelaccept = Simpan
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Putuskan…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = P
+    .style = min-width: 36em;
+    .title = Kelola apa yang disinkronkan di semua perangkat Anda yang terhubung
 
 ## The device name controls.
 
@@ -1327,11 +1324,11 @@ addressbar-locbar-quickactions-option =
     .accesskey = T
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
-    .label = Saran dari { -brand-short-name }
     .description = Dapatkan saran dari web yang terkait dengan pencarian Anda.
+    .label = Saran dari { -brand-short-name }
 addressbar-locbar-suggest-sponsored-option-2 =
-    .label = Saran dari sponsor
     .description = Dukung { -brand-short-name } dengan saran sponsor sesekali.
+    .label = Saran dari sponsor
 addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
 addressbar-locbar-showrecentsearches-option =
     .label = Tampilkan pencarian terbaru
@@ -1347,8 +1344,8 @@ addressbar-locbar-suggest-sponsored-option =
     .label = Saran dari sponsor
 addressbar-locbar-suggest-sponsored-desc = Dukung { -brand-short-name } dengan saran sponsor sesekali.
 addressbar-dismissed-suggestions-label-2 =
-    .label = Abaikan saran
     .description = Pulihkan saran yang ditolak dari sponsor dan { -brand-short-name }.
+    .label = Abaikan saran
 addressbar-quickactions-learn-more = Pelajari lebih lanjut
 addressbar-dismissed-suggestions-label = Abaikan saran
 addressbar-restore-dismissed-suggestions-description = Pulihkan saran yang ditolak dari sponsor dan { -brand-short-name }.
@@ -1403,9 +1400,6 @@ content-blocking-fingerprinters = Pelacak Sidik
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Sidik jari yang dikenal dan dicurigai
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Perlindungan Kuki total membelenggu kuki situs tempat Anda berada, sehingga pelacak tidak dapat menggunakannya untuk mengikuti Anda antar-situs.
 content-blocking-etp-standard-tcp-rollout-learn-more = Pelajari lebih lanjut
@@ -1505,8 +1499,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Pengecualian…
-    .accesskey = P
     .searchkeywords = popups
+    .accesskey = P
 permissions-addon-install-warning =
     .label = Ingatkan ketika situs web mencoba memasang pengaya
     .accesskey = I
@@ -1538,8 +1532,8 @@ collection-privacy-notice = Pemberitahuan Privasi
 collection-health-report-telemetry-disabled = Anda tidak lagi mengizinkan { -vendor-short-name } untuk menangkap data teknis dan interaksi. Semua data sebelumnya akan dihapus dalam waktu 30 hari.
 collection-health-report-telemetry-disabled-link = Pelajari lebih lanjut
 addon-recommendations3 =
-    .label = Izinkan rekomendasi ekstensi yang dipersonalisasi
     .description = Dapatkan rekomendasi ekstensi untuk meningkatkan pengalaman penjelajahan Anda.
+    .label = Izinkan rekomendasi ekstensi yang dipersonalisasi
 collection-usage-ping =
     .label = Kirim ping penggunaan harian ke { -vendor-short-name }
     .accesskey = u
@@ -1584,8 +1578,8 @@ privacy-segmentation-radio-on =
     .label = Tampilkan informasi rinci
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 data-collection =
-    .label = Pengumpulan dan Penggunaan Data { -brand-short-name }
     .description = Kami berusaha untuk memberi Anda pilihan dan hanya mengumpulkan data minimal yang diperlukan untuk meningkatkan { -brand-product-name } bagi semua orang.
+    .label = Pengumpulan dan Penggunaan Data { -brand-short-name }
     .searchkeywords = telemetri
 data-collection-link = Lihat Pemberitahuan Privasi
 data-collection-preferences-across-profiles =
@@ -1594,14 +1588,14 @@ data-collection-profiles-link = Tampilkan semua profil
 data-collection-health-report-telemetry-disabled =
     .message = Anda tidak lagi mengizinkan { -vendor-short-name } untuk menangkap data teknis dan interaksi. Semua data sebelumnya akan dihapus dalam waktu 30 hari.
 data-collection-health-report =
+    .description = Ini membantu kami meningkatkan fitur, kinerja, dan stabilitas { -brand-product-name }.
     .label = Kirim data teknis dan interaksi ke { -vendor-short-name }
     .accesskey = r
-    .description = Ini membantu kami meningkatkan fitur, kinerja, dan stabilitas { -brand-product-name }.
 data-collection-studies-link =
     .label = Lihat kajian { -brand-short-name }
 data-collection-usage-ping =
-    .label = Kirim ping penggunaan harian ke { -vendor-short-name }
     .description = Ini membantu { -vendor-short-name } untuk memperkirakan pengguna aktif.
+    .label = Kirim ping penggunaan harian ke { -vendor-short-name }
     .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
@@ -1664,13 +1658,13 @@ httpsonly-radio-enabled =
 httpsonly-radio-enabled-pbm =
     .label = Aktifkan Mode Hanya HTTPS di jendela pribadi saja
 httpsonly-radio-disabled3 =
-    .label = Jangan aktifkan Mode Hanya HTTPS
     .description = { -brand-short-name } mungkin masih meningkatkan beberapa koneksi
+    .label = Jangan aktifkan Mode Hanya HTTPS
 httpsonly-radio-disabled =
     .label = Jangan aktifkan Mode Hanya HTTPS
 httpsonly-group =
-    .label = Mode Hanya HTTPS
     .description = Hanya mengizinkan sambungan aman ke situs web. { -brand-short-name } akan bertanya sebelum menyambung secara tidak aman.
+    .label = Mode Hanya HTTPS
 
 ## DoH Section
 

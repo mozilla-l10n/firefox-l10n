@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Jini privat, me { -mozilla-vpn-brand-name
 about-private-browsing-focus-promo-cta = Shkarko { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Shfletim privat në lëvizje
 about-private-browsing-focus-promo-text = Aplikacioni ynë enkas për shfletim privat në celular spastron historikun dhe cookie-t tuaja çdo herë.
-
-##
-
 about-private-browsing-focus-promo-header-b = Merrni shfletim privat në telefonin tuaj
 about-private-browsing-focus-promo-text-b = Përdoreni { -focus-brand-name } për ato kërkime private që s’doni t’i shohë shfletuesi juaj kryesor për celular.
 about-private-browsing-focus-promo-header-c = Privatësi e një shkalle më sipër në celular

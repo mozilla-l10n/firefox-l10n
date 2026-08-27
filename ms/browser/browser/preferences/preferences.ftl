@@ -444,9 +444,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Carian Web
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Disyorkan oleh { $provider }
 
@@ -566,8 +563,8 @@ sync-mobile-promo = Muat turun Firefox untuk<img data-l10n-name="android-icon"/>
 sync-profile-picture =
     .tooltiptext = Tukar gambar profil
 sync-profile-picture-with-alt =
-    .tooltiptext = Tukar gambar profil
     .alt = Tukar gambar profil
+    .tooltiptext = Tukar gambar profil
 sync-sign-out =
     .label = Log Keluar...
     .accesskey = g
@@ -601,8 +598,8 @@ sync-sign-in =
 prefs-syncing-on = Sync: ON
 prefs-syncing-off = Sync: OFF
 prefs-sync-now =
-    .labelsyncing = Sedang sync...
     .labelnotsyncing = Sync Sekarang
+    .labelsyncing = Sedang sync...
     .accesskeynotsyncing = N
 
 ## The list of things currently syncing.
@@ -632,8 +629,8 @@ sync-engine-tabs =
     .accesskey = T
 sync-engine-logins-passwords =
     .label = Log masuk dan kata laluan
-    .accesskey = L
     .tooltiptext = Nama pengguna dan kata laluan yang anda simpan
+    .accesskey = L
 sync-engine-addresses =
     .label = Alamat
     .tooltiptext = Alamat pos yang anda sudah simpan (desktop sahaja)
@@ -887,9 +884,6 @@ content-blocking-all-cookies = Semua kuki
 content-blocking-unvisited-cookies = Kuki daripada laman web yang tidak dilawati
 content-blocking-all-windows-tracking-content = Kandungan penjejakan dalam semua tetingkap
 content-blocking-cryptominers = Pelombong kripto
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = Perhatian!
 content-blocking-and-isolating-etp-warning-description-2 = Tetapan ini mungkin menyebabkan sesetengah laman web tidak memaparkan kandungan atau tidak berfungsi dengan betul. Jika sesuatu laman kelihatan rosak, anda mungkin mahu mematikan perlindungan penjejakan bagi laman tersebut untuk memuatkan semua kandungan.
 content-blocking-warning-learn-how = Ketahui caranya

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = ເປັນສ່ວນຕົວກັ�
 about-private-browsing-focus-promo-cta = ດາວໂຫລດ { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ການຊອກຫາແບບສ່ວນຕົວໃນເວລາເດີນທາງ
 about-private-browsing-focus-promo-text = ແອັບມືຖືສຳລັບການທ່ອງເວັບແບບສ່ວນຕົວຂອງເຮົາຈະລ້າງປະຫວັດ ແລະ ຄຸກກີ້ຂອງທ່ານໃນທຸກຄັ້ງ.
-
-##
-
 about-private-browsing-focus-promo-header-b = ທ່ອງເວັບແບບສ່ວນຕົວເທິງໂທລະສັບຂອງທ່ານ
 about-private-browsing-focus-promo-text-b = ໃຊ້ { -focus-brand-name } ສໍາລັບການຄົ້ນຫາສ່ວນຕົວທີ່ເຈົ້າບໍ່ຕ້ອງການໃຫ້ຕົວທ່ອງເວັບມືຖືຕົ້ນຕໍຂອງເຈົ້າເຫັນ.
 about-private-browsing-focus-promo-header-c = ຄວາມເປັນສ່ວນຕົວລະດັບຕໍ່ໄປໃນມືຖື

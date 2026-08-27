@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] 結束
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = 開啟應用程式選單
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = 關閉應用程式選單
     .label = { -brand-short-name }
+    .tooltiptext = 關閉應用程式選單
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = 推薦於對大部分網頁應用程式除錯時使用，額外負荷較低。
 profiler-popup-presets-web-developer-label =
     .label = 網頁開發者
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = 使用 { -mozilla-vpn-brand-name } 隱藏您的實際�
 appmenuitem-vpn-description5 = 在其他裝置也獲得更多一層保護
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = 下載 { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = 讓您上網更不容易被追蹤
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 獲得完整裝置保護
 appmenuitem-vpn-description = 保護您的線上行為隱私

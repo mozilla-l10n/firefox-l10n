@@ -35,8 +35,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Meklēt iestatījumus
+    .style = width: 15.4em
 managed-notice = Jūsu pārlūku pārvalda jūsu organizācija.
 managed-notice-info-icon =
     .alt = Informācija
@@ -179,13 +179,13 @@ preferences-data-migration-button =
     .label = Importēt datus
     .accesskey = m
 preferences-profiles-section-header =
-    .label = Profili
     .description = Katram profilam ir atsevišķi pārlūkošanas dati un iestatījumi, tostarp vēsture, paroles un citi.
+    .label = Profili
 preferences-manage-profiles-learn-more = Uzzināt vairāk
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
-    .label = Kopēt esošu profilu
     .description = Jaunajā profilā tiks kopēti jūsu iestatījumi, paplašinājumi, vēsture un saglabātie dati, piemēram, grāmatzīmes un paroles, bet ne jūsu konta vai sinhronizācijas informācija.
+    .label = Kopēt esošu profilu
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -390,8 +390,8 @@ choose-language-description = Izvēlieties vēlamo valodu, kurā attēlot lapas
 website-add-language =
     .label = Pievienot valodu
 website-add-language-button =
-    .title = Pievienot atlasīto valodu
     .aria-label = Pievienot atlasīto valodu
+    .title = Pievienot atlasīto valodu
 choose-button =
     .label = Izvēlēties...
     .accesskey = v
@@ -416,8 +416,8 @@ translate-exceptions =
 settings-translations-subpage-language-select-option =
     .label = Pievienot valodu
 settings-translations-subpage-language-add-button =
-    .title = Pievienot valodu
     .aria-label = Pievienot valodu
+    .title = Pievienot valodu
 settings-translations-subpage-download-retry-button =
     .label = Mēģināt vēlreiz
 # Variables:
@@ -660,9 +660,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Uzzināt vairāk
 browsing-group =
     .label = Pārlūkošana
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Piekļūstamība
 
@@ -729,9 +726,6 @@ home-homepage-new-tabs =
     .label = Jaunas cilnes
 home-custom-homepage-address-button =
     .label = Pievienot adresi
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Pielāgota sākumlapa
 home-custom-homepage-subpage =
     .heading = Pielāgota sākumlapa
@@ -747,9 +741,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Saglabātās vai apmeklētās vietnes
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorētās saīsnes
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Iesaka { $provider }
 home-prefs-recommended-by-description-new = Izcils saturs, ko atlasījis { $provider }, kas ir daļa no { -brand-product-name } saimes
@@ -831,12 +822,12 @@ search-show-suggestions-private-windows-2 =
 search-suggestions-cant-show-2 =
     .message = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
 addressbar-header-1 =
-    .label = Adrešu josla
     .description = Izvēlies, kuri ieteikumi tiek rādīti adrešu joslā
+    .label = Adrešu josla
 # When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
 addressbar-header-firefox-suggest-2 =
-    .label = { -firefox-suggest-brand-name }
     .description = Ieteikumi no { -brand-short-name } un mūsu partneriem adreses joslā.
+    .label = { -firefox-suggest-brand-name }
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -860,8 +851,8 @@ search-suggestions-cant-show = Meklēšanas ieteikumi netiks parādīti adreses 
 search-one-click-header2 = Meklēšanas saīsnes
 search-one-click-desc = Izvēlies papildu meklētāju, kas parādīsies adreses un meklēšanas joslā, kad sāksi rakstīt atslēgvārdu!
 search-one-click-header-3 =
-    .label = Papildu meklētāji
     .description = Izvēlies, kuri meklētāji un saīsnes ir redzami adreses joslā.
+    .label = Papildu meklētāji
 search-choose-engine-column =
     .label = Meklētājs
 search-choose-keyword-column =
@@ -919,8 +910,8 @@ containers-external-links-check =
     .label = Neizmantot konteinerus saitēm, kas atvērtas no ārējām lietotnēm
     .accesskey = N
 containers-sites-card-header =
-    .label = Vietnēm atbilstoši konteineri
     .description = Izvēlies vietnei konteineru, un { -brand-short-name } izmantos to katru reizi, kad tiks atvērta vietne!
+    .label = Vietnēm atbilstoši konteineri
 containers-sites-add-button =
     .label = Pievienot tīmekļvietni
     .accesskey = t
@@ -959,8 +950,8 @@ sync-mobile-promo = Lejupielādēt Firefox <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Mainīt profila attēlu
 sync-profile-picture-with-alt =
-    .tooltiptext = Mainīt profila attēlu
     .alt = Mainīt profila attēlu
+    .tooltiptext = Mainīt profila attēlu
 sync-profile-picture-account-problem =
     .alt = Konta profila attēls
 fxa-login-rejected-warning =
@@ -1012,8 +1003,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sinhronizējiet savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs.
 prefs-sync-now =
     .labelnotsyncing = Sinhronizēt tagad
-    .accesskeynotsyncing = n
     .labelsyncing = Sinhronizē…
+    .accesskeynotsyncing = n
 prefs-sync-now-button =
     .label = Sinhronizēt tagad
     .accesskey = n
@@ -1046,12 +1037,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Izvēlieties, ko sinhronizēt
-    .style = min-width: 36em;
     .buttonlabelaccept = Saglabāt izmaiņas
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Atvienot…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = A
+    .style = min-width: 36em;
+    .title = Izvēlieties, ko sinhronizēt
 sync-choose-dialog-subtitle = Izmaiņas sinhronizējamo vienumu sarakstā atspoguļosies visās jūsu savienotajās ierīcēs.
 sync-engine-bookmarks =
     .label = Grāmatzīmes
@@ -1081,8 +1072,8 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-payment-methods2 =
     .label = Maksājumu veidi
-    .accesskey = M
     .tooltiptext = Vārdi, karšu numuri un derīguma datumi
+    .accesskey = M
 sync-engine-addons =
     .label = Papildinājumus
     .tooltiptext = Firefox datoru versijas paplašinājumi un tēmas
@@ -1291,8 +1282,8 @@ history-clear-button =
     .label = Notīrīt vēsturi…
     .accesskey = v
 history-custom-section-header =
-    .label = Paplašinātie iestatījumi
     .description = Pielāgo, ko vēlies, lai { -brand-short-name } atcerētos, kad aizver pārlūku.
+    .label = Paplašinātie iestatījumi
 history-group =
     .label = Vēsture
 
@@ -1448,9 +1439,6 @@ content-blocking-fingerprinters = Nospiedumi
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Zināmi un varbūtēji ciparu nospiedumi
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totālā Sīkdatņu Aizsardzība neļauj sīkdatnēm izkļūt ārpus vietnes, kurā atrodaties, tāpēc izsekotāji nevar tos izmantot, lai sekotu jums starp vietnēm.
 content-blocking-etp-standard-tcp-rollout-learn-more = Uzzināt vairāk
@@ -1550,10 +1538,10 @@ permissions-block-popups2 =
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button4 =
-    .label = Pārvaldīt izņēmumus
-    .accesskey = i
     .description = Pievienot tīmekļvietnes, kas var atvērt uznirstošos logs un izmantot trešo pušu pārvirzīšanu.
+    .label = Pārvaldīt izņēmumus
     .searchkeywords = uznirstošie logi
+    .accesskey = i
 permissions-block-popups =
     .label = Liegt uzlecošos logus
     .accesskey = u
@@ -1561,8 +1549,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Izņēmumi...
-    .accesskey = I
     .searchkeywords = uzlecošie
+    .accesskey = I
 permissions-addon-install-warning =
     .label = Brīdināt mani, ja tīmekļvietnes mēģina uzstādīt papildinājumus
     .accesskey = B
@@ -1779,16 +1767,16 @@ preferences-etp-custom-cookie-behavior-block-all =
 ## Warnings section
 
 security-privacy-issue-warning-safe-browsing =
-    .label = Bīstams un maldinošs saturs netiek aizturēts
     .description = Palielinās iespējamība vietnēs kļūt par krāpniecības un ļaunatūras upuri.
+    .label = Bīstams un maldinošs saturs netiek aizturēts
 
 ## Referrals Section
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
-    .label = Kopīgot { -brand-product-name }
     .description = Uziacini kādu izmantot pārlūku, kurā privātums ir pirmajā vietā!
+    .label = Kopīgot { -brand-product-name }
 # Link that opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link2 =

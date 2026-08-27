@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Otsi sätetest
+    .style = width: 15.4em
 managed-notice = Brauserit haldab sinu organisatsioon.
 managed-notice-nav =
     .label = Brauserit haldab sinu organisatsioon.
@@ -589,9 +589,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Saidid, mida oled külastanud või mille oled salvestanud
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsitud otseteed
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } soovitab
 home-prefs-recommended-by-description-new = Erakordne sisu, mida kureerib { -brand-product-name } perekonda kuuluv { $provider }
@@ -736,8 +733,8 @@ sync-mobile-promo = Hangi Firefox <img data-l10n-name="android-icon"/> <a data-l
 sync-profile-picture =
     .tooltiptext = Muuda profiilipilti
 sync-profile-picture-with-alt =
-    .tooltiptext = Muuda profiilipilti
     .alt = Muuda profiilipilti
+    .tooltiptext = Muuda profiilipilti
 sync-sign-out =
     .label = Logi välja…
     .accesskey = o
@@ -782,8 +779,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sünkroniseeri oma järjehoidjad, ajalugu, kaardid, paroolid, lisad ja sätted kõigis oma seadmetes.
 prefs-sync-now =
     .labelnotsyncing = Sünkroniseeri kohe
-    .accesskeynotsyncing = S
     .labelsyncing = Sünkroniseerimine…
+    .accesskeynotsyncing = S
 prefs-sync-now-button =
     .label = Sünkroniseeri kohe
     .accesskey = S
@@ -813,12 +810,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Sünkroniseeritavate asjade valik
-    .style = min-width: 36em;
     .buttonlabelaccept = Salvesta muudatused
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Ühenda lahti…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = h
+    .style = min-width: 36em;
+    .title = Sünkroniseeritavate asjade valik
 sync-engine-bookmarks =
     .label = Järjehoidjad
     .accesskey = j
@@ -1111,9 +1108,6 @@ content-blocking-unvisited-cookies = küpsised külastamata saitidelt
 content-blocking-all-windows-tracking-content = Jälitav sisu kõigis akendes
 content-blocking-cryptominers = krüptorahakaevurid
 content-blocking-fingerprinters = seadmetuvastajad
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Täielik küpsistevastane kaitse sisaldab ka külastatava saidi küpsiseid, nii et jälitajaid ei saaks sind saitide üleselt jälitada.
 content-blocking-etp-standard-tcp-rollout-learn-more = Rohkem teavet
@@ -1196,8 +1190,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Erandid…
-    .accesskey = r
     .searchkeywords = popups
+    .accesskey = r
 permissions-addon-install-warning =
     .label = Hoiatus, kui veebilehed üritavad paigaldada lisasid
     .accesskey = H

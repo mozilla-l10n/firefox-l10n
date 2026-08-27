@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = เป็นส่วนตัวอย�
 about-private-browsing-focus-promo-cta = ดาวน์โหลด { -focus-brand-name }
 about-private-browsing-focus-promo-header = ท่องเว็บแบบส่วนตัวขณะเดินทางด้วย { -focus-brand-name }
 about-private-browsing-focus-promo-text = แอปมือถือสำหรับการท่องเว็บแบบส่วนตัวของเราจะล้างประวัติและคุกกี้ของคุณทุกครั้ง
-
-##
-
 about-private-browsing-focus-promo-header-b = ท่องเว็บแบบส่วนตัวบนโทรศัพท์ของคุณ
 about-private-browsing-focus-promo-text-b = ใช้ { -focus-brand-name } สำหรับการค้นหาส่วนตัวที่คุณไม่ต้องการให้เบราว์เซอร์มือถือหลักของคุณเห็น
 about-private-browsing-focus-promo-header-c = ยกระดับความเป็นส่วนตัวไปอีกขั้นบนมือถือ
@@ -87,4 +84,3 @@ about-private-browsing-nova-info-link = ใครบ้างที่ยัง�
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = คุณกำลังใช้งานแบบไม่บันทึกประวัติ
-about-private-browsing-nova-info-subheader = เมื่อคุณปิดหน้าต่างนี้ เราจะลบการค้นหาและการลงชื่อเข้าทั้งหมดให้เอง และการปกป้องในตัวของ { -brand-short-name } ก็ยังทำงานอยู่ด้วย เช่น การปิดกั้นตัวติดตาม

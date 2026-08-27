@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Skóńcyś
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Nałožeński meni wócyniś
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Nałožeński meni zacyniś
     .label = { -brand-short-name }
+    .tooltiptext = Nałožeński meni zacyniś
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Dopórucone pśednastajenje za pytanje zmólkow za nejwěcej webnałoženjow z mało zastojańskimi datami.
 profiler-popup-presets-web-developer-label =
     .label = Webwuwijaŕ
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Schowajśo swójo stojnišćo z { -mozilla-vpn-brand-na
 appmenuitem-vpn-description5 = Dostańśo pśidatny šćit na rědach
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } ześěgnuś
-appmenuitem-vpn-description3 = Póśěžćo slědowanje swójogo pśeglědowanja
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Wobstarajśo se šćit za ceły rěd
 appmenuitem-vpn-description = Šćitajśo swóju aktiwitu online

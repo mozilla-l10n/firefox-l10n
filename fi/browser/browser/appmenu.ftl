@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Lopeta
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Avaa sovellusvalikko
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Sulje sovellusvalikko
     .label = { -brand-short-name }
+    .tooltiptext = Sulje sovellusvalikko
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Suositeltu esiasetus suurimpaan osaan verkkosovellusten vianjäljityksessä.
 profiler-popup-presets-web-developer-label =
     .label = Web-kehittäjä
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Piilota sijaintisi { -mozilla-vpn-brand-name }:llä
 appmenuitem-vpn-description5 = Hanki lisäsuojausta kaikille laitteille
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Lataa { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = Tee selaamisestasi vaikeammin jäljitettävää
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Hanki koko laitteen suojaus
 appmenuitem-vpn-description = Suojaa toimintaasi verkossa

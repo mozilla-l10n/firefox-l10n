@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Փակել
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Բացել հավելվածի ցանկը
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Փակել հավելվածի ցանկը
     .label = { -brand-short-name }
+    .tooltiptext = Փակել հավելվածի ցանկը
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Առաջարկվող նախադրված կարգավորում վեբ հավելվածների մեծ մասի վրիպազերծման համար՝ ցածր ծախսերով։
 profiler-popup-presets-web-developer-label =
     .label = Վեբ մշակող
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Թաքցրեք ձեր տեղադրությունը { -m
 appmenuitem-vpn-description5 = Ստացեք լրացուցիչ պաշտպանություն տարբեր սարքերում
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Ներբեռնել { -mozilla-vpn-brand-name }-ը
-appmenuitem-vpn-description3 = Ձեր դիտարկումը դժվարացրեք հետևելը
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
 appmenuitem-vpn-description-2 = Ստացեք ամբողջ սարքի պաշտպանություն
 appmenuitem-vpn-description = Պաշտպանեք ձեր առցանց գործունեությունը

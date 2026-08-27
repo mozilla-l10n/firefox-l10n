@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Gadael
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Agor Dewislen y Rhaglen
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Cau Dewislen y Rhaglen
     .label = { -brand-short-name }
+    .tooltiptext = Cau Dewislen y Rhaglen
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Y rhagosodiad sy'n cael ei argymell ar gyfer y rhan fwyaf o ddadfygio apiau gwe, gyda gorbenion isel.
 profiler-popup-presets-web-developer-label =
     .label = Datblygwr Gwe
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Cuddio Eich Lleoliad gyda { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description5 = Cael diogelwch ychwanegol ar draws dyfeisiau
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Llwythwch { -mozilla-vpn-brand-name } i lawr
-appmenuitem-vpn-description3 = Gwneud eich pori yn anos i'w olrhain
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Cael diogelwch dyfais gyfan
 appmenuitem-vpn-description = Diogelwch eich preifatrwydd ar-lein

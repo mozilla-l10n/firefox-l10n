@@ -23,8 +23,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Klask en arventennoù
+    .style = width: 15.4em
 managed-notice = Ardoet eo ho merdeer gant hoc'h aozadur.
 managed-notice-info-icon =
     .alt = Titouroù
@@ -609,9 +609,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Lec’hiennoù a enrollit pe a weladennit
 home-prefs-shortcuts-by-option-sponsored =
     .label = Berradennoù paeroniet
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Erbedet gant { $provider }
 home-prefs-recommended-by-description-new = Danvezioù dibar dibabet gant { $provider }, ezel familh { -brand-product-name }
@@ -768,8 +765,8 @@ sync-mobile-promo = Pellgargañ Firefox evit <img data-l10n-name="android-icon"/
 sync-profile-picture =
     .tooltiptext = Kemmañ ar skeudenn aelad
 sync-profile-picture-with-alt =
-    .tooltiptext = Kemmañ ar skeudenn aelad
     .alt = Kemmañ ar skeudenn aelad
+    .tooltiptext = Kemmañ ar skeudenn aelad
 sync-profile-picture-account-problem =
     .alt = Skeudenn profil ar gont
 fxa-login-rejected-warning =
@@ -821,8 +818,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù hag arventennoù dre veur a drevnad.
 prefs-sync-now =
     .labelnotsyncing = Goubredañ bremañ
-    .accesskeynotsyncing = G
     .labelsyncing = O c'houbredañ…
+    .accesskeynotsyncing = G
 prefs-sync-now-button =
     .label = Goubredañ bremañ
     .accesskey = G
@@ -854,12 +851,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Dibab petra goubredañ
-    .style = min-width: 36em;
     .buttonlabelaccept = Enrollañ ar c’hemmoù
-    .buttonaccesskeyaccept = E
     .buttonlabelextra2 = Digennaskañ…
+    .buttonaccesskeyaccept = E
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Dibab petra goubredañ
 sync-engine-bookmarks =
     .label = Sinedoù
     .accesskey = S
@@ -1210,9 +1207,6 @@ content-blocking-unvisited-cookies = Toupinoù al lec'hiennoù n'int ket bet gwe
 content-blocking-all-windows-tracking-content = Endalc'had heuliañ en holl brenestroù
 content-blocking-cryptominers = Kriptogleuzerien
 content-blocking-fingerprinters = Dinoerien roudoù niverel
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Ar gwarez toupinoù klok a endalc'h toupinoù al lec'hienn m'emaoc'h warni, evel-se n’hall ket an heulierien ober ganto evit heuliañ ac'hanoc'h etre al lec'hiennoù.
 content-blocking-etp-standard-tcp-rollout-learn-more = Gouzout hiroc’h
@@ -1299,8 +1293,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Nemedennoù…
-    .accesskey = N
     .searchkeywords = diflugelloù
+    .accesskey = N
 permissions-addon-install-warning =
     .label = Ho kelaouiñ pa glask ul lec'hienn staliañ askouezhioù
     .accesskey = H

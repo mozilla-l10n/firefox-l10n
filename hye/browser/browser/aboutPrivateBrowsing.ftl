@@ -28,9 +28,6 @@ about-private-browsing-hide-activity-1 = Թաքցնել դիտկիչով ծաւ�
 about-private-browsing-prominent-cta = Անցնել գաղտնիութեան { -mozilla-vpn-brand-name } ֊ի հետ․
 about-private-browsing-focus-promo-cta = Ներբեռնել { -focus-brand-name }
 about-private-browsing-focus-promo-text = Մեր գաղտնի դիտարկման բջջային յաւելուածը ամէն անգամ մաքրում է Ձեր պատմութիւնը եւ թխուկները:
-
-##
-
 about-private-browsing-focus-promo-header-b = Սկսել գաղտնի դիտարկում հեռախաւսով
 about-private-browsing-focus-promo-text-b = Աւգտագործէք { -focus-brand-name } գաղտնի որոնումների համար, որոնք Դուք չէք ցանկանում, որ Ձեր հիմնական բջջային դիտարկիչը տեսնի:
 about-private-browsing-focus-promo-header-c = Գաղտնիութեան նոր փուլ հեռախուսում

@@ -1006,45 +1006,6 @@ urlbar-result-explanation-last-visited-relative-2 = Ymwelwyd ddiwethaf â { $dat
 #                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
 #                    "11 months ago"
 urlbar-result-explanation-last-visited-days-weeks-months-ago = Ymwelwyd ddiwethaf â { $date }
-# This explanation is used when the last-visited date is a small number of days
-# in the past.
-# Variables:
-#   $daysAgo (number) - The number of days ago
-urlbar-result-explanation-last-visited-days-2 =
-    { $daysAgo ->
-        [zero] Ymwelwyd diwethaf { $daysAgo } diwrnodau yn ôl
-        [one] Ymwelwyd diwethaf { $daysAgo } diwrnod yn ôl
-        [two] Ymwelwyd diwethaf { $daysAgo } ddiwrnod yn ôl
-        [few] Ymwelwyd diwethaf { $daysAgo } diwrnod yn ôl
-        [many] Ymwelwyd diwethaf { $daysAgo } niwrnod yn ôl
-       *[other] Ymwelwyd diwethaf { $daysAgo } diwrnod yn ôl
-    }
-# This explanation is used when the last-visited date is a small number of weeks
-# in the past.
-# Variables:
-#   $weeksAgo (number) - The number of weeks ago
-urlbar-result-explanation-last-visited-weeks-2 =
-    { $weeksAgo ->
-        [zero] Ymwelwyd diwethaf { $weeksAgo } wythnosau yn ôl
-        [one] Ymwelwyd diwethaf { $weeksAgo } wythnos yn ôl
-        [two] Ymwelwyd diwethaf { $weeksAgo } wythnos yn ôl
-        [few] Ymwelwyd diwethaf { $weeksAgo } wythnos yn ôl
-        [many] Ymwelwyd diwethaf { $weeksAgo } wythnos yn ôl
-       *[other] Ymwelwyd diwethaf { $weeksAgo } wythnos yn ôl
-    }
-# This explanation is used when the last-visited date is a small number of
-# months in the past.
-# Variables:
-#   $monthsAgo (number) - The number of months ago
-urlbar-result-explanation-last-visited-months-2 =
-    { $monthsAgo ->
-        [zero] Ymwelwyd diwethaf { $monthsAgo } misoedd yn ôl
-        [one] Ymwelwyd diwethaf { $monthsAgo } mis yn ôl
-        [two] Ymwelwyd diwethaf { $monthsAgo } fis yn ôl
-        [few] Ymwelwyd diwethaf { $monthsAgo } mis yn ôl
-        [many] Ymwelwyd diwethaf { $monthsAgo } mis yn ôl
-       *[other] Ymwelwyd diwethaf { $monthsAgo } mis yn ôl
-    }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:

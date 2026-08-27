@@ -24,9 +24,6 @@ about-private-browsing-info-description-simplified = Siz bütün məxfi pəncər
 about-private-browsing-learn-more-link = Ətraflı öyrənin
 about-private-browsing-hide-activity = İnternetdə gəzdiyiniz hər yerdə fəaliyyətinizi və yerinizi gizlədin.
 about-private-browsing-get-privacy = İnternetdə gəzdiyiniz hər yerdə məxfilik qoruması alın
-
-##
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -65,4 +62,3 @@ about-private-browsing-nova-info-link = Kim hələ də mənim fəaliyyətimi gö
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Siz qeyddən kənarsınız
 about-private-browsing-nova-info-subheader2 = Bütün Məxfi Pəncərələri bağladığınız zaman bütün axtarışlarınızı və giriş məlumatlarınızı siləcəyik. Burada { -brand-short-name } səyyahının izləyiciləri əngəlləmə kimi daxili qoruma özəllikləri də aktivdir.
-about-private-browsing-nova-info-subheader = Bu pəncərəni bağladığınız zaman bütün axtarışlarınızı və giriş məlumatlarınızı siləcəyik. Burada { -brand-short-name } səyyahının izləyiciləri əngəlləmə kimi daxili qoruma özəllikləri də aktivdir.

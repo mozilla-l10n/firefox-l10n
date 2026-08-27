@@ -395,9 +395,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = વેબ શોધ
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } દ્વારા ભલામણ
 
@@ -505,8 +502,8 @@ sync-mobile-promo = ડાઉનલોડ કરો Firefox માટે <img da
 sync-profile-picture =
     .tooltiptext = પ્રોફાઇલ ચિત્ર બદલો
 sync-profile-picture-with-alt =
-    .tooltiptext = પ્રોફાઇલ ચિત્ર બદલો
     .alt = પ્રોફાઇલ ચિત્ર બદલો
+    .tooltiptext = પ્રોફાઇલ ચિત્ર બદલો
 sync-manage-account = ખાતાને સંચાલિત કરો
     .accesskey = o
 sync-manage-account2 =
@@ -743,9 +740,6 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-all-cookies = બધી કૂકીઝ
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = હેડ્સ અપ!
 content-blocking-reload-tabs-button =
     .label = બધા ટૅબ્સ ફરીથી લોડ કરો

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Šćitajśo swóju priwatnosć z { -mozil
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ześěgnuś
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Priwatny modus pó droze
 about-private-browsing-focus-promo-text = Našo mobilne, za priwatny modus myslone nałoženje wašu historiju a cookieje kuždy cas prozni.
-
-##
-
 about-private-browsing-focus-promo-header-b = Pśinjasćo priwatne pśeglědowanje na swój telefon
 about-private-browsing-focus-promo-text-b = Wužywajśo { -focus-brand-name } za te priwatne pytanja, kótarež njama waš głowny mobilny wobglědowak wiźeś.
 about-private-browsing-focus-promo-header-c = Priwatnosć pśiducego schójźeńka za mobilne rědy
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Chto mógał hyšći móju aktiwitu wiź
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Wašo pśeglědowanje se njeskładujo
 about-private-browsing-nova-info-subheader2 = Wulašujomy kužde pytanje a pśizjawjenje, gaž wšykne swóje priwatne wokna zacynjaśo. Šćit, kótaryž jo w { -brand-short-name } zatwarjony, jo how teke zmóžnjony, na pśikład blokěrowanje pśeslědowakow.
-about-private-browsing-nova-info-subheader = Wulašujomy kužde pytanje a pśizjawjenje, gaž toś to wokno zacynjaśo. Šćit, kótaryž jo w { -brand-short-name } zatwarjony, jo how teke zmóžnjony, na pśikład blokěrowanje pśeslědowakow.

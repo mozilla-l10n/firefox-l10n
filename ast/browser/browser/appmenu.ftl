@@ -46,11 +46,11 @@ appmenuitem-exit2 =
            *[other] Colar
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Abrir el menú de l'aplicación
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Zarrar el menú de l'aplicación
     .label = { -brand-short-name }
+    .tooltiptext = Zarrar el menú de l'aplicación
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =

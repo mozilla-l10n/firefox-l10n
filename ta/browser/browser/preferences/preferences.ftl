@@ -386,9 +386,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = வலை தேடல்
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
 
@@ -494,8 +491,8 @@ sync-mobile-promo = பயர்பாக்சை <img data-l10n-name="android-
 sync-profile-picture =
     .tooltiptext = சுயவிவரப் படத்தை மாற்று
 sync-profile-picture-with-alt =
-    .tooltiptext = சுயவிவரப் படத்தை மாற்று
     .alt = சுயவிவரப் படத்தை மாற்று
+    .tooltiptext = சுயவிவரப் படத்தை மாற்று
 sync-manage-account = கணக்கை நிர்வகி
     .accesskey = o
 sync-manage-account2 =

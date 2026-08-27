@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Avslutt
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Opne program-meny
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Lat att program-meny
     .label = { -brand-short-name }
+    .tooltiptext = Lat att program-meny
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Tilrådd førehandsinnstilling for dei fleste feilsøkingar i nettappar, med lite tillegg.
 profiler-popup-presets-web-developer-label =
     .label = Nettsideutvikling
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Skjul plasseringa di med { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description5 = Få ekstra vern på tvers av einingar
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Last ned { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = Gjer surfinga di vanskelegare å spore
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få vern for heile eininga
 appmenuitem-vpn-description = Vern nettaktiviteten din

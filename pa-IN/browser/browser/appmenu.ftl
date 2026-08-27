@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] ਬਾਹਰ
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਨੂੰ ਬੰਦ ਕਰੋ
     .label = { -brand-short-name }
+    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਨੂੰ ਬੰਦ ਕਰੋ
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = ਬਹੁਤੀਆਂ ਵੈੱਬ ਐਪ ਨੂੰ ਡੀਬੱਗ ਕਰਨ ਲਈ ਘੱਟ ਉਲਝਣਾਂ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-web-developer-label =
     .label = ਵੈੱਬ ਡਿਵੈਲਪਰ
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } ਨਾਲ ਆਪਣੇ ਟ�
 appmenuitem-vpn-description5 = ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਵਧੀਕ ਸੁਰੱਖਿਆ ਲਵੋ
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
-appmenuitem-vpn-description3 = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਸੂਹ ਲੈਣ ਨੂੰ ਔਖਾ ਬਣਾਓ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = ਪੂਰੇ-ਡਿਵਾਈਸ ਲਈ ਸੁਰੱਖਿਆ ਲਵੋ
 appmenuitem-vpn-description = ਆਪਣੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ

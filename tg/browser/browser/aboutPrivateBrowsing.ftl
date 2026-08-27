@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Бо { -mozilla-vpn-brand-name } хусу
 about-private-browsing-focus-promo-cta = «{ -focus-brand-name }»-ро боргирӣ намоед
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Тамошобинии хусусӣ дар роҳ
 about-private-browsing-focus-promo-text = Барномаи мобилии махсуси мо барои тамошобинии хусусӣ ҳар вақт таърих ва кукиҳои шуморо тоза мекунад.
-
-##
-
 about-private-browsing-focus-promo-header-b = Тамошобинии хусусиро ба телефони худ баред
 about-private-browsing-focus-promo-text-b = Барои он ҷустуҷӯҳои шахсие, ки шумо намехоҳед браузери асосии мобилии шумо бинад, аз { -focus-brand-name } истифода баред.
 about-private-browsing-focus-promo-header-c = Махфияти насли оянда дар дастгоҳҳои мобилӣ
@@ -92,4 +89,3 @@ about-private-browsing-nova-info-link = Кӣ метавонад фаъолият
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Шуморо сабт намекунанд
 about-private-browsing-nova-info-subheader2 = Вақте ки шумо ҳамаи равзанаҳои хусусиро мепӯшед, мо ҳамаи ҷустуҷӯҳо ва воридшавиҳои шуморо тоза мекунем. Унсурҳои муҳофизати дарунсохти браузери «{ -brand-short-name }», ба монанди амали манъкунии васоити пайгирӣ, низ дар ин ҷой фаъол мебошанд.
-about-private-browsing-nova-info-subheader = Вақте ки шумо ин варақаро мепӯшед, мо ҳамаи ҷустуҷӯҳо ва воридшавиҳои шуморо тоза мекунем. Унсурҳои муҳофизати дарунсохти браузери «{ -brand-short-name }», ба монанди амали манъкунии васоити пайгирӣ, низ дар ин ҷой фаъол мебошанд.

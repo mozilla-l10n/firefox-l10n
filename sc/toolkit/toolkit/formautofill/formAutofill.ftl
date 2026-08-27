@@ -14,9 +14,6 @@ autofill-options-link-osx = Preferèntzias de cumpletamentu automàticu de formu
 credit-card-capture-cancel-button =
     .label = Immoe nono
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-capture-save-new-button =
     .label = Sarva comente carta noa
     .accessKey = S

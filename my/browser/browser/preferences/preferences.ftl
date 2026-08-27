@@ -379,9 +379,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = ဝက်ဘ် ရှာ‌ရန်
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } က အကြံပြုထားသည်
 
@@ -488,8 +485,8 @@ sync-mobile-promo = ထိုစနစ်အတွက် မီးမြေခ�
 sync-profile-picture =
     .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
 sync-profile-picture-with-alt =
-    .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
     .alt = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
+    .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
 sync-manage-account = အကောင့်ကို စီမံရန်
     .accesskey = o
 sync-manage-account2 =
@@ -717,9 +714,6 @@ content-blocking-all-cookies = ကွတ်ကီးအားလုံး
 content-blocking-unvisited-cookies = မလည်ပတ်သောဆိုက်များမှ ကွတ်ကီးများ
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = လက်ဗွေများ
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = ကြိုတင်အသိပေးသည်!
 content-blocking-reload-tabs-button =
     .label = တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်

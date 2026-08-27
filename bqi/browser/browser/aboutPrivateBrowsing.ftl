@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = وا { -mozilla-vpn-brand-name } ناشن
 about-private-browsing-focus-promo-cta = دانلود { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } گشتن مهرمووه من تور
 about-private-browsing-focus-promo-text = برنومه اختساسی گشتن سیخومی موبایل ایما، هر کرت ویرگار وو کۊکیا ایسا ن پاک اکونه.
-
-##
-
 about-private-browsing-focus-promo-header-b = گشتن مهرمووه ن و تیلیفووݩ تووݩ بوورین
 about-private-browsing-focus-promo-text-b = { -focus-brand-name } ن سی پیتینیڌنا ناشناسی ک نؽخۊین گشت گر ٱسلی تیلیفووݩ تووݩ بنیره، و کار بوورین.
 about-private-browsing-focus-promo-header-c = گوم بئڌی مهرمووه ای من تیلیفووݩ
@@ -88,4 +85,3 @@ about-private-browsing-nova-info-link = کؽ گاشڌ ترسته بۊ هنی ف�
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = ایسا ز هالت زفت و در زیڌین
 about-private-browsing-nova-info-subheader2 = هر سا پوی نیمدریا سیخومی ن بووندین، هر پیتینیڌن وو و من ٱووڌن و سیستومی ن پاک اکۊنیم. زفت وابیڌنا منی { -brand-short-name } ایچونا فعال هڌن، جۊر مسدۊد کردن رڌجۊرا.
-about-private-browsing-nova-info-subheader = هر سا ای نیمدری ن بووندین، هر پیتینیڌن وو و من ٱووڌن و سیستومی ن پاک اکۊنیم. زفت وابیڌنا منی { -brand-short-name } ایچونا فعال هڌن، جۊر مسدۊد کردن رڌجۊرا.

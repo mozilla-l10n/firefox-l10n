@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = დაიცავით პირად�
 about-private-browsing-focus-promo-cta = ჩამოტვირთეთ { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: თან გაიყოლეთ პირადულობა
 about-private-browsing-focus-promo-text = პირადულობისთვის განკუთვნილი მობილური ბრაუზერი, ასუფთავებს ისტორიასა და კვალს, ყოველი გამოყენების შემდგომ.
-
-##
-
 about-private-browsing-focus-promo-header-b = გაიყოლეთ პირადულობა ტელეფონთან ერთად
 about-private-browsing-focus-promo-text-b = გამოიყენეთ { -focus-brand-name } იმ ინფორმაციის გაუმჟღავნებლად მოძიებისთვის, რომლის მთავარი ბრაუზერით ნახვაც არ გსურთ.
 about-private-browsing-focus-promo-header-c = ახალ სიმაღლეზე აყვანილი პირადულობა მობილურზე
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = მაინც ვისთვის �
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = აღრიცხვებს მიღმა იმყოფებით
 about-private-browsing-nova-info-subheader2 = ჩვენ წავშლით თქვენი ყველა ძიებისა თუ ანგარიშზე შესვლის მონაცემებს ყველა პირადი ფანჯრის დახურვისთანავე. { -brand-short-name } აქაც იყენებს ჩაშენებულ დაცვას მეთვალყურეების თავისთავად შეზღუდვით.
-about-private-browsing-nova-info-subheader = ჩვენ წავშლით თქვენი ყველა ძიებისა თუ ანგარიშზე შესვლის ჩანაწერს ამ ფანჯრის დახურვისთანავე. { -brand-short-name } აქაც იყენებს ჩაშენებულ დაცვას, მეთვალყურეების თავისთავად შეზღუდვით.

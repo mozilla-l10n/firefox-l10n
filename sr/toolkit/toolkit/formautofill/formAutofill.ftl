@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Никад не чувај картице
     .accessKey = к
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Ажурирати картицу?
 credit-card-update-doorhanger-description = Картица за ажурирање:
 credit-card-capture-save-new-button =

@@ -293,9 +293,6 @@ content-blocking-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 
 ##
 
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-etp-standard-tcp-rollout-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 
 ## Privacy Section - Permissions

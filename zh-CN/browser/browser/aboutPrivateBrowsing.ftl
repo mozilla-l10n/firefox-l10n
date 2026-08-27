@@ -91,4 +91,3 @@ about-private-browsing-nova-info-link = 谁依然可能看到我的活动？
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = 您的浏览不会被记录
 about-private-browsing-nova-info-subheader2 = 关闭所有隐私窗口后，所有搜索记录和登录状态都将被清除。 { -brand-short-name } 内置的保护功能（例如拦截跟踪器）也在此窗口生效。
-about-private-browsing-nova-info-subheader = 关闭此窗口后，所有搜索记录和登录状态都将被清除。 { -brand-short-name } 内置的保护功能（例如拦截跟踪器）也在此窗口生效。

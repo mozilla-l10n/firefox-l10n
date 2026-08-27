@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } සමඟ ර
 about-private-browsing-focus-promo-cta = { -focus-brand-name } බාගන්න
 about-private-browsing-focus-promo-header = { -focus-brand-name }: යන ගමන් රහසිගතව පිරික්සන්න
 about-private-browsing-focus-promo-text = අපගේ සපර්පිත පෞද්ගලික පිරික්සුම් ජංගම යෙදුම සැමවිට ඔබගේ ඉතිහාසය හා දත්තකඩ හිස් කරයි.
-
-##
-
 about-private-browsing-focus-promo-header-b = දුරකථනයෙන් ද පෞද්ගලිකව පිරික්සන්න
 about-private-browsing-focus-promo-text-b = ඔබගේ ප්‍රධාන ජංගම අතිරික්සුවෙහි දැකීමට අපේක්‍ෂා නොකරන පෞද්ගලික සෙවීම් සඳහා { -focus-brand-name } භාවිතා කරන්න.
 about-private-browsing-focus-promo-header-c = දුරකථනයට ඊළඟ මට්ටමේ පෞද්ගලිකත්‍වය

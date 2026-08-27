@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Skónčić
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Nałoženski meni wočinić
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Nałoženski meni začinić
     .label = { -brand-short-name }
+    .tooltiptext = Nałoženski meni začinić
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Doporučene přednastajenje za pytanje zmylkow za najwjace webnałoženjow z mało zarjadniskimi datami.
 profiler-popup-presets-web-developer-label =
     .label = Webwuwiwar
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Schowajće swoje stejnišćo z { -mozilla-vpn-brand-nam
 appmenuitem-vpn-description5 = Dóstańće přidatny škit na gratach
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } sćahnyć
-appmenuitem-vpn-description3 = Poćežće slědowanje swojeho přehladowanja
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Wobstarajće sej škit za cyły grat
 appmenuitem-vpn-description = Škitajće swoju aktiwitu online

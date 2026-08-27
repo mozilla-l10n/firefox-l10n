@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = לעולם לא לשמור כרטיסים
     .accessKey = ע
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = לעדכן את הכרטיס?
 credit-card-update-doorhanger-description = כרטיס לעדכון:
 credit-card-capture-save-new-button =

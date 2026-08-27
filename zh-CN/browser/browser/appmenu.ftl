@@ -395,7 +395,6 @@ appmenuitem-vpn-title2 = 使用 { -mozilla-vpn-brand-name } 隐藏真实位置
 appmenuitem-vpn-description5 = 跨设备享受额外保护
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = 下载 { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = 让您的浏览难觅踪迹
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 获取全方位设备保护
 appmenuitem-vpn-description = 保护在线活动

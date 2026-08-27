@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Salva tia sfera privata cun { -mozilla-vp
 about-private-browsing-focus-promo-cta = Telechargiar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navigaziun privata nua ch'i saja
 about-private-browsing-focus-promo-text = Nossa app per apparats mobils concepida per la navigaziun privata stizza automaticamain tia cronologia ed ils cookies.
-
-##
-
 about-private-browsing-focus-promo-header-b = Pussibilitescha la navigaziun privata sin tes telefon
 about-private-browsing-focus-promo-text-b = Utilisescha { -focus-brand-name } per las tschertgas privatas ch'il navigatur principal na duai betg vesair.
 about-private-browsing-focus-promo-header-c = Protecziun da datas avanzada sin l'apparat mobil
@@ -87,4 +84,3 @@ about-private-browsing-nova-info-link = Tgi pudess anc adina vesair mias activit
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Tia cronologia na vegn betg registrada
-about-private-browsing-nova-info-subheader = Nus vegnin a stizzar mintga tschertga ed annunzia cura che ti serras questa fanestra. Las protecziuns integradas da { -brand-short-name } èn era activadas qua, p.ex. la bloccada da fastizaders.

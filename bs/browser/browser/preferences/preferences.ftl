@@ -31,8 +31,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Pronađi u Postavkama
+    .style = width: 15.4em
 managed-notice = Vašim pretraživačem upravlja vaša organizacija.
 managed-notice-info-icon =
     .alt = Informacije
@@ -174,8 +174,8 @@ preferences-profiles-group-header =
 preferences-profiles-subpane-description =
     .description = Svaki profil ima odvojene podatke i postavke pregledavanja, uključujući historiju, lozinke i još mnogo toga.
 preferences-profiles-section-header =
-    .label = Profili
     .description = Svaki profil ima odvojene podatke i postavke pregledavanja, uključujući historiju, lozinke i još mnogo toga.
+    .label = Profili
 preferences-profiles-header = Profili
 preferences-manage-profiles-description = Svaki profil ima odvojene podatke i postavke pregledavanja, uključujući historiju, lozinke i još mnogo toga.
 preferences-manage-profiles-learn-more = Saznajte više
@@ -268,8 +268,8 @@ settings-tabs-show-image-in-preview =
 browser-layout-header2 =
     .label = Raspored preglednika
 browser-layout-show-sidebar2 =
-    .label = Prikaži bočnu traku
     .description = Brzo pristupite zabilješkama, karticama s telefona, AI chatbotovima i još mnogo čemu bez napuštanja glavnog prikaza.
+    .label = Prikaži bočnu traku
 browser-layout-header = Raspored preglednika
 browser-layout-horizontal-tabs =
     .label = Horizontalni tabovi
@@ -696,9 +696,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Web stranice koje sačuvate ili posjetite
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorisane prečice
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
 home-prefs-recommended-by-description-new = Izuzetan sadržaj koji je kurirao { $provider }, dio { -brand-product-name } porodice
@@ -878,8 +875,8 @@ sync-mobile-promo = Preuzmi Firefox za <img data-l10n-name="android-icon"/> <a d
 sync-profile-picture =
     .tooltiptext = Promijenite profilnu sliku
 sync-profile-picture-with-alt =
-    .tooltiptext = Promijenite profilnu sliku
     .alt = Promijenite profilnu sliku
+    .tooltiptext = Promijenite profilnu sliku
 sync-profile-picture-account-problem =
     .alt = Slika profila računa
 fxa-login-rejected-warning =
@@ -931,8 +928,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sinhronizirajte svoje oznake, historiju, kartice, lozinke, dodatke i postavke na svim svojim uređajima.
 prefs-sync-now =
     .labelnotsyncing = Sinhronizuj sada
-    .accesskeynotsyncing = N
     .labelsyncing = Sinhronizacija…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sinhronizuj sada
     .accesskey = N
@@ -968,12 +965,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Odaberite šta da sinhronizujete
-    .style = min-width: 36em;
     .buttonlabelaccept = Sačuvaj promjene
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Odspoji…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Odaberite šta da sinhronizujete
 sync-choose-dialog-subtitle = Promjene na listi stavki za sinhronizaciju će se odraziti na svim vašim povezanim uređajima.
 sync-engine-bookmarks =
     .label = Zabilješke
@@ -1014,12 +1011,12 @@ sync-engine-settings =
     .tooltiptext = Opće postavke, postavke privatnosti i sigurnosti koje ste promijenili
     .accesskey = s
 sync-choose-what-to-sync-dialog4 =
-    .title = Upravljajte onim što se sinhronizira na svim vašim povezanim uređajima
-    .style = min-width: 36em;
     .buttonlabelaccept = Sačuvaj
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Odspoji…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Upravljajte onim što se sinhronizira na svim vašim povezanim uređajima
 
 ## The device name controls.
 
@@ -1329,11 +1326,11 @@ addressbar-locbar-quickactions-option =
     .accesskey = Q
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
-    .label = Prijedlozi od { -brand-short-name }
     .description = Dobijte prijedloge s weba povezane s vašom pretragom.
+    .label = Prijedlozi od { -brand-short-name }
 addressbar-locbar-suggest-sponsored-option-2 =
-    .label = Prijedlozi sponzora
     .description = Povremeno podržite { -brand-short-name } sponzorisanim prijedlozima.
+    .label = Prijedlozi sponzora
 addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
 addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavna pretraživanja
@@ -1349,8 +1346,8 @@ addressbar-locbar-suggest-sponsored-option =
     .label = Prijedlozi sponzora
 addressbar-locbar-suggest-sponsored-desc = Povremeno podržite { -brand-short-name } sponzorisanim prijedlozima.
 addressbar-dismissed-suggestions-label-2 =
-    .label = Odbačeni prijedlozi
     .description = Vrati odbačene prijedloge sponzora i { -brand-short-name }.
+    .label = Odbačeni prijedlozi
 addressbar-quickactions-learn-more = Saznajte više
 addressbar-dismissed-suggestions-label = Odbačeni prijedlozi
 addressbar-restore-dismissed-suggestions-description = Vrati odbačene prijedloge sponzora i { -brand-short-name }.
@@ -1404,9 +1401,6 @@ content-blocking-fingerprinters = Sakupljači digitalnih otisaka
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Poznati i sumnjivi sakupljači digitalnih otisaka
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totalna zaštita kolačića sadrži kolačiće za web stranicu na kojoj se nalazite, tako da ih programi za praćenje ne mogu koristiti da vas prate između web stranica.
 content-blocking-etp-standard-tcp-rollout-learn-more = Saznajte više
@@ -1506,8 +1500,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Izuzeci…
-    .accesskey = E
     .searchkeywords = iskočni prozori
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Upozorava vas kada web stranice pokušaju instalirati add-one
     .accesskey = U
@@ -1539,8 +1533,8 @@ collection-privacy-notice = Polica privatnosti
 collection-health-report-telemetry-disabled = Više ne dozvoljavate { -vendor-short-name } da bilježi tehničke podatke i podatke o interakciji. Svi prošli podaci će biti izbrisani u roku od 30 dana.
 collection-health-report-telemetry-disabled-link = Saznajte više
 addon-recommendations3 =
-    .label = Dozvoli personalizirane preporuke za ekstenzije
     .description = Dobijte preporuke za ekstenzije kako biste poboljšali svoje iskustvo pregledavanja.
+    .label = Dozvoli personalizirane preporuke za ekstenzije
 collection-usage-ping =
     .label = Pošalji dnevni ping korištenja na { -vendor-short-name }
     .accesskey = u
@@ -1585,8 +1579,8 @@ privacy-segmentation-radio-on =
     .label = Prikaži detaljne informacije
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 data-collection =
-    .label = { -brand-short-name } prikupljanje i upotreba podataka
     .description = Trudimo se da vam pružimo izbor i prikupljamo samo minimalne podatke potrebne za poboljšanje { -brand-product-name } za sve.
+    .label = { -brand-short-name } prikupljanje i upotreba podataka
     .searchkeywords = telemetrija
 data-collection-link = Pogledajte Policu privatnosti
 data-collection-preferences-across-profiles =
@@ -1595,14 +1589,14 @@ data-collection-profiles-link = Pogledajte sve profile
 data-collection-health-report-telemetry-disabled =
     .message = Više ne dozvoljavate { -vendor-short-name } da bilježi tehničke podatke i podatke o interakciji. Svi prošli podaci će biti izbrisani u roku od 30 dana.
 data-collection-health-report =
+    .description = Ovo nam pomaže da poboljšamo funkcije, performanse i stabilnost proizvoda { -brand-product-name }.
     .label = Pošalji tehničke podatke i podatke o interakciji na { -vendor-short-name }
     .accesskey = r
-    .description = Ovo nam pomaže da poboljšamo funkcije, performanse i stabilnost proizvoda { -brand-product-name }.
 data-collection-studies-link =
     .label = Prikaži { -brand-short-name } studije
 data-collection-usage-ping =
-    .label = Pošalji dnevni ping korištenja na { -vendor-short-name }
     .description = Ovo pomaže { -vendor-short-name } da procijeni broj aktivnih korisnika.
+    .label = Pošalji dnevni ping korištenja na { -vendor-short-name }
     .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
@@ -1665,13 +1659,13 @@ httpsonly-radio-enabled =
 httpsonly-radio-enabled-pbm =
     .label = Omogućite samo HTTPS način rada samo u privatnim prozorima
 httpsonly-radio-disabled3 =
-    .label = Ne omogućavajte samo HTTPS način rada
     .description = { -brand-short-name } možda ipak nadogradi neke veze
+    .label = Ne omogućavajte samo HTTPS način rada
 httpsonly-radio-disabled =
     .label = Ne omogućavajte samo HTTPS način rada
 httpsonly-group =
-    .label = Način rada samo za HTTPS
     .description = Omogućava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
+    .label = Način rada samo za HTTPS
 
 ## DoH Section
 

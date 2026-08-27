@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name }으로 사생�
 about-private-browsing-focus-promo-cta = { -focus-brand-name } 다운로드
 about-private-browsing-focus-promo-header = { -focus-brand-name }: 열일하는 사생활 보호 모드
 about-private-browsing-focus-promo-text = 전용 사생활 보호 모바일 앱은 매번 기록과 쿠키를 지웁니다.
-
-##
-
 about-private-browsing-focus-promo-header-b = 휴대폰으로 사생활 보호 모드 사용
 about-private-browsing-focus-promo-text-b = 주 모바일 브라우저에 표시하고 싶지 않은 사생활 검색에는 { -focus-brand-name }를 사용하세요.
 about-private-browsing-focus-promo-header-c = 모바일에서 한 차원 높은 개인 정보 보호
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = 누가 여전히 내 활동을 볼 수 �
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = 기록이 남지 않습니다
 about-private-browsing-nova-info-subheader2 = 모든 사생활 보호 창을 닫으면 모든 검색과 로그인이 삭제됩니다. 여기에서도 추적기 차단 같은 { -brand-short-name }의 내장 보호 기능을 사용할 수 있습니다.
-about-private-browsing-nova-info-subheader = 이 창을 닫으면 모든 검색과 로그인이 삭제됩니다. 여기에서도 추적기 차단 같은 { -brand-short-name }의 내장 보호 기능을 사용할 수 있습니다.

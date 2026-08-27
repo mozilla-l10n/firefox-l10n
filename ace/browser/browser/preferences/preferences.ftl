@@ -361,9 +361,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Web Mita
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Geu-usui uléh { $provider }
 
@@ -466,8 +463,8 @@ sync-mobile-promo = Donlod Firefox keu <img data-l10n-name="android-icon"/><a da
 sync-profile-picture =
     .tooltiptext = Gantoe gamba profil
 sync-profile-picture-with-alt =
-    .tooltiptext = Gantoe gamba profil
     .alt = Gantoe gamba profil
+    .tooltiptext = Gantoe gamba profil
 sync-manage-account = Peularha akun
     .accesskey = e
 sync-manage-account2 =

@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Выйсці
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Адкрыць меню праграмы
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Закрыць меню праграмы
     .label = { -brand-short-name }
+    .tooltiptext = Закрыць меню праграмы
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Рэкамендаваныя папярэднія налады для адладкі большасці вэб-праграм, з невялікімі выдаткамі.
 profiler-popup-presets-web-developer-label =
     .label = Распрацоўка Сеціва
@@ -405,7 +395,6 @@ appmenuitem-vpn-title2 = Схавайце сваё месцазнаходжан�
 appmenuitem-vpn-description5 = Атрымайце дадатковую ахову на ўсіх прыладах
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Сцягнуць { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description3 = Зрабіце, каб за вашым агляданнем было складаней сачыць
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Атрымайце ахову ўсёй прылады
 appmenuitem-vpn-description = Абараніце сваю актыўнасць у інтэрнэце

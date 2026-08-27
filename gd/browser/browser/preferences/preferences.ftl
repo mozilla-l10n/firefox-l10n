@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 17em
     .placeholder = Lorg sna roghainnean
+    .style = width: 17em
 managed-notice = Tha am brabhsair agad fo stiùireadh a’ bhuidhinn agad.
 managed-notice-nav =
     .label = Tha am brabhsair agad fo stiùireadh a’ bhuidhinn agad.
@@ -610,9 +610,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Làraichean a shàbhail thu no a thadhail thu orra
 home-prefs-shortcuts-by-option-sponsored =
     .label = Ath-ghoiridean sponsairichte
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = ’Ga mholadh le { $provider }
 home-prefs-recommended-by-description-new = Sàr-shusbaint ’ga thasgadh le { $provider } mar phàirt de theaghlach { -brand-product-name }
@@ -764,8 +761,8 @@ sync-mobile-promo = Luchdaich a-nuas Firefox airson <img data-l10n-name="android
 sync-profile-picture =
     .tooltiptext = Atharraich dealbh na pròifil
 sync-profile-picture-with-alt =
-    .tooltiptext = Atharraich dealbh na pròifil
     .alt = Atharraich dealbh na pròifil
+    .tooltiptext = Atharraich dealbh na pròifil
 sync-sign-out =
     .label = Clàraich a-mach…
     .accesskey = C
@@ -810,8 +807,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Sioncronaich na comharran-lìn, an eachdraidh, na tabaichean, na faclan-faire, na tuilleadain ’s na roghainnean agad thar nan uidheaman agad uile.
 prefs-sync-now =
     .labelnotsyncing = Sioncronaich an-dràsta
-    .accesskeynotsyncing = n
     .labelsyncing = ’Ga shioncronachadh…
+    .accesskeynotsyncing = n
 prefs-sync-now-button =
     .label = Sioncronaich an-dràsta
     .accesskey = n
@@ -842,12 +839,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Tagh na tha thu airson sioncronachadh
-    .style = min-width: 40em;
     .buttonlabelaccept = Sàbhail na h-atharraichean
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Dì-cheangail…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 40em;
+    .title = Tagh na tha thu airson sioncronachadh
 sync-choose-dialog-subtitle = Ma dh’atharraicheas tu liosta nan nithean a nì sioncronachadh, bidh buaidh aige sin air na h-uidheaman ceangailte air fad agad.
 sync-engine-bookmarks =
     .label = na comharran-lìn agam
@@ -1160,9 +1157,6 @@ content-blocking-all-windows-tracking-content = Susbaint tracaidh air uinneag sa
 content-blocking-all-cross-site-cookies = Gach briosgaid thar-làraich
 content-blocking-cryptominers = Criopto-mhèinneadairean
 content-blocking-fingerprinters = Lorgairean-meòir
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Tha na briosgaidean a bhuineas dhan làrach air a bheil thu ann an gleus làn-dìon nam briosgaidean airson ’s nach fhaigh tracaichean cothrom orra gus do leantainn mun cuairt.
 content-blocking-etp-standard-tcp-rollout-learn-more = Barrachd fiosrachaidh
@@ -1250,8 +1244,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Eisgeachdan…
-    .accesskey = E
     .searchkeywords = priob-uinneagan
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Thoir rabhadh nuair a dh’fheuchas làraichean-lìn ri tuilleadan a stàladh
     .accesskey = T

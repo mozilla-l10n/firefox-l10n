@@ -67,11 +67,11 @@ appmenuitem-exit2 =
            *[other] Fini
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Malfermi menuon de programo
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Fermi menuon de programo
     .label = { -brand-short-name }
+    .tooltiptext = Fermi menuon de programo
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -235,16 +235,6 @@ profiler-button-dropmarker =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
 profiler-popup-presets-web-developer-description = Rekomendita agordaro por la senerarigo de la plimulto de teksaĵaj programoj, kun malmulte da aldona kromprocezado.
 profiler-popup-presets-web-developer-label =
     .label = Teksaĵa programisto
@@ -403,7 +393,6 @@ appmenuitem-relay-description = Maski vian veran retpoŝton kaj telefonnumeron
 appmenuitem-services-relay-description = Malfermi la panelon pri retpoŝtaj maskoj
 appmenuitem-vpn-title2 = Kaŝu vian pozicion per { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description5 = Profitu aldonan protekton en ĉiuj aparatoj
-appmenuitem-vpn-description3 = Igu vian retumon pli malfacile spurebla
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Protekto por la integra aparato
 appmenuitem-vpn-description = Protektu vian retumon

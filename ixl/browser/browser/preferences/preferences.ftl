@@ -201,9 +201,6 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C

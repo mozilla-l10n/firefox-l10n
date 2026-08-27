@@ -31,8 +31,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Finna í stillingum
+    .style = width: 15.4em
 managed-notice = Vafranum er stjórnað af kerfisstjórum þínum.
 managed-notice-info-icon =
     .alt = Upplýsingar
@@ -174,8 +174,8 @@ preferences-profiles-group-header =
 preferences-profiles-subpane-description =
     .description = Hvert snið hefur aðskilin vafurgögn og stillingar, þar á meðal feril, lykilorð og fleira.
 preferences-profiles-section-header =
-    .label = Notkunarsnið
     .description = Hvert snið hefur aðskilin vafurgögn og stillingar, þar á meðal feril, lykilorð og fleira.
+    .label = Notkunarsnið
 preferences-profiles-header = Notkunarsnið
 preferences-manage-profiles-description = Hvert snið hefur aðskilin vafurgögn og stillingar, þar á meðal feril, lykilorð og fleira.
 preferences-manage-profiles-learn-more = Kanna nánar
@@ -267,8 +267,8 @@ settings-tabs-show-image-in-preview =
 browser-layout-header2 =
     .label = Framsetning vafra
 browser-layout-show-sidebar2 =
-    .label = Sýna hliðarstiku
     .description = Fáðu einfaldan aðgang að bókamerkjum, flipum úr símanum þínum, spjallforritum og fleiru án þess að fara úr aðalskjánum þínum.
+    .label = Sýna hliðarstiku
 browser-layout-header = Framsetning vafra
 browser-layout-horizontal-tabs =
     .label = Láréttir flipar
@@ -695,9 +695,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Vefsvæði sem þú vistar eða heimsækir
 home-prefs-shortcuts-by-option-sponsored =
     .label = Kostaðar flýtileiðir
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Með þessu mælir { $provider }
 home-prefs-recommended-by-description-new = Úrvalsefni í umsjón { $provider }, hluta af { -brand-product-name } fjölskyldunni
@@ -872,8 +869,8 @@ sync-mobile-promo = Sæktu Firefox fyrir <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Breyta notandamynd
 sync-profile-picture-with-alt =
-    .tooltiptext = Breyta notandamynd
     .alt = Breyta notandamynd
+    .tooltiptext = Breyta notandamynd
 sync-profile-picture-account-problem =
     .alt = Auðkennismynd reiknings
 fxa-login-rejected-warning =
@@ -925,8 +922,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingar á milli allra tækjanna þinna.
 prefs-sync-now =
     .labelnotsyncing = Samstilla núna
-    .accesskeynotsyncing = n
     .labelsyncing = Samstilli…
+    .accesskeynotsyncing = n
 prefs-sync-now-button =
     .label = Samstilla núna
     .accesskey = n
@@ -962,12 +959,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Veldu hvað á að samstilla
-    .style = min-width: 36em;
     .buttonlabelaccept = Vista breytingar
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Aftengjast…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = A
+    .style = min-width: 36em;
+    .title = Veldu hvað á að samstilla
 sync-choose-dialog-subtitle = Breytingar á listanum yfir atriði sem á að samstilla munu endurspeglast í öllum tengdum tækjum þínum.
 sync-engine-bookmarks =
     .label = Bókamerki
@@ -1008,12 +1005,12 @@ sync-engine-settings =
     .tooltiptext = Almennar, Friðhelgi og Öryggisstillingar sem þú hefur breytt
     .accesskey = S
 sync-choose-what-to-sync-dialog4 =
-    .title = Stjórnaðu því sem samstillist á öllum tengdum tækjum þínum
-    .style = min-width: 36em;
     .buttonlabelaccept = Vista
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Aftengja…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = g
+    .style = min-width: 36em;
+    .title = Stjórnaðu því sem samstillist á öllum tengdum tækjum þínum
 
 ## The device name controls.
 
@@ -1298,9 +1295,9 @@ sitedata-cookies-exceptions =
     .label = Sýsla með undantekningar...
     .accesskey = k
 sitedata-cookies-exceptions2 =
+    .description = Þú getur tilgreint hvaða vefsvæðum sé leyft eða aldrei leyft að nota vefkökur og vafurgögn.
     .label = Sýsla með undantekningar
     .accesskey = u
-    .description = Þú getur tilgreint hvaða vefsvæðum sé leyft eða aldrei leyft að nota vefkökur og vafurgögn.
 cookies-site-data-group =
     .label = Vefkökur og gögn vefsvæðis
 
@@ -1360,11 +1357,11 @@ addressbar-locbar-quickactions-option =
     .accesskey = g
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
-    .label = Tillögur frá { -brand-short-name }
     .description = Fáðu tillögur af vefnum sem tengjast leitinni þinni.
+    .label = Tillögur frá { -brand-short-name }
 addressbar-locbar-suggest-sponsored-option-2 =
-    .label = Tillögur frá styrktaraðilum
     .description = Styddu við { -brand-short-name } með einstaka kostuðum tillögum
+    .label = Tillögur frá styrktaraðilum
 addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
 addressbar-locbar-showrecentsearches-option =
     .label = Sýna nýlegar leitir
@@ -1380,8 +1377,8 @@ addressbar-locbar-suggest-sponsored-option =
     .label = Tillögur frá styrktaraðilum
 addressbar-locbar-suggest-sponsored-desc = Styddu við { -brand-short-name } með einstaka kostuðum tillögum
 addressbar-dismissed-suggestions-label-2 =
-    .label = Tillögum vísað frá
     .description = Endurheimta hafnaðar tillögur frá styrktaraðilum og { -brand-short-name }.
+    .label = Tillögum vísað frá
 addressbar-quickactions-learn-more = Kanna nánar
 addressbar-dismissed-suggestions-label = Tillögum vísað frá
 addressbar-restore-dismissed-suggestions-description = Endurheimta hafnaðar tillögur frá styrktaraðilum og { -brand-short-name }.
@@ -1435,9 +1432,6 @@ content-blocking-fingerprinters = Fingraför
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Þekkt og grunur um fingrafarasöfnun
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Allsherjar-vefkökuvörn inniheldur vefkökur á vefsvæðið sem þú ert á, þannig að rekjarar geta ekki notað þær til að fylgja þér á milli vefsvæða.
 content-blocking-etp-standard-tcp-rollout-learn-more = Frekari upplýsingar
@@ -1540,8 +1534,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Undanþágur…
-    .accesskey = d
     .searchkeywords = sprettgluggar
+    .accesskey = d
 permissions-addon-install-warning =
     .label = Vara við þegar vefsvæði reyna að setja inn viðbætur
     .accesskey = V
@@ -1574,8 +1568,8 @@ collection-privacy-notice = Meðferð persónuupplýsinga
 collection-health-report-telemetry-disabled = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
 collection-health-report-telemetry-disabled-link = Frekari upplýsingar
 addon-recommendations3 =
-    .label = Leyfa persónusniðnar ráðleggingar um forritsauka
     .description = Fáðu ráðleggingar um forritsauka til að bæta notkun þína við vafur.
+    .label = Leyfa persónusniðnar ráðleggingar um forritsauka
 collection-usage-ping =
     .label = Senda upplýsingar um daglega notkun til { -vendor-short-name }
     .accesskey = u
@@ -1620,8 +1614,8 @@ privacy-segmentation-radio-on =
     .label = Sýna nánari upplýsingar
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 data-collection =
-    .label = Söfnun og notkun gagna í { -brand-short-name }
     .description = Við kappkostum að veita þér valkosti og söfnum aðeins þeim lágmarksgögnum sem nauðsynleg eru til að bæta { -brand-product-name } fyrir alla.
+    .label = Söfnun og notkun gagna í { -brand-short-name }
     .searchkeywords = gagnasöfnun
 data-collection-link = Skoða upplýsingar um meðferð persónuupplýsinga
 data-collection-preferences-across-profiles =
@@ -1629,14 +1623,14 @@ data-collection-preferences-across-profiles =
 data-collection-health-report-telemetry-disabled =
     .message = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
 data-collection-health-report =
+    .description = Þetta hjálpar okkur að bæta eiginleika, afköst og stöðugleika í { -brand-product-name }.
     .label = Senda tækni- og samskiptagögn til { -vendor-short-name }
     .accesskey = n
-    .description = Þetta hjálpar okkur að bæta eiginleika, afköst og stöðugleika í { -brand-product-name }.
 data-collection-studies-link =
     .label = Skoða rannsóknir frá { -brand-short-name }
 data-collection-usage-ping =
-    .label = Senda upplýsingar um daglega notkun til { -vendor-short-name }
     .description = Þetta hjálpar { -vendor-short-name } að áætla virka notendur.
+    .label = Senda upplýsingar um daglega notkun til { -vendor-short-name }
     .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
@@ -1699,13 +1693,13 @@ httpsonly-radio-enabled =
 httpsonly-radio-enabled-pbm =
     .label = Virkja Einungis-HTTPS-ham aðeins í huliðsgluggum
 httpsonly-radio-disabled3 =
-    .label = Ekki virkja Einungis-HTTPS-ham
     .description = { -brand-short-name } gæti samt uppfært sumar tengingar
+    .label = Ekki virkja Einungis-HTTPS-ham
 httpsonly-radio-disabled =
     .label = Ekki virkja Einungis-HTTPS-ham
 httpsonly-group =
-    .label = Einungis-HTTPS-hamur
     .description = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
+    .label = Einungis-HTTPS-hamur
 
 ## DoH Section
 

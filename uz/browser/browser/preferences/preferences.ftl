@@ -415,9 +415,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Internetdan qidirish
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } tomonidan tavsiya qilingan
 
@@ -543,8 +540,8 @@ sync-mobile-promo = Firefox brauzerini mobil qurilmangiz bilan sinxronlash uchun
 sync-profile-picture =
     .tooltiptext = Profil rasmini o‘zgartirish
 sync-profile-picture-with-alt =
-    .tooltiptext = Profil rasmini o‘zgartirish
     .alt = Profil rasmini o‘zgartirish
+    .tooltiptext = Profil rasmini o‘zgartirish
 sync-sign-out =
     .label = Chiqish…
     .accesskey = C
@@ -589,8 +586,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = Xatchoʻplar, tarix, varaqlar, parollar, qoʻshimcha dasturlar va boshqa sozlamalarni barcha qurilmalaringizga sinxronlang.
 prefs-sync-now =
     .labelnotsyncing = Sinxronlash
-    .accesskeynotsyncing = N
     .labelsyncing = Sinxronlanmoqda…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sinxronlash
     .accesskey = N
@@ -620,12 +617,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Nimani sinxronlashni tanlang
-    .style = min-width: 36em;
     .buttonlabelaccept = Oʻzgarishlarni saqlash
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Uzish…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Nimani sinxronlashni tanlang
 sync-engine-bookmarks =
     .label = Xatchoʻplar
     .accesskey = X

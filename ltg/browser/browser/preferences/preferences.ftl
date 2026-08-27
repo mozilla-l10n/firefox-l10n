@@ -381,9 +381,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Mekliešona internetā
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } īsaceitōs
 
@@ -491,8 +488,8 @@ sync-mobile-promo = Lejupīluodeit Firefox <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Maineit profila attālu
 sync-profile-picture-with-alt =
-    .tooltiptext = Maineit profila attālu
     .alt = Maineit profila attālu
+    .tooltiptext = Maineit profila attālu
 sync-manage-account = Puorvaļdeit kontu
     .accesskey = a
 sync-manage-account2 =

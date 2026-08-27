@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Aldrei vista kort
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Uppfæra kort?
 credit-card-update-doorhanger-description = Kort sem á að uppfæra:
 credit-card-capture-save-new-button =

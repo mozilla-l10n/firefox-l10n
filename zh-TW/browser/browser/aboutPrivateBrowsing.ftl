@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = 使用 { -mozilla-vpn-brand-name } 保持
 about-private-browsing-focus-promo-cta = 下載 { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: 隨身上網隱私都有保護
 about-private-browsing-focus-promo-text = 我們的隱私瀏覽專用 App 可在每次瀏覽結束時都清除您的上網紀錄與 Cookie。
-
-##
-
 about-private-browsing-focus-promo-header-b = 隱私上網隨身帶著走
 about-private-browsing-focus-promo-text-b = 若您想搜尋一些不想被手機內建瀏覽器發現的東西，可使用 { -focus-brand-name } 進行隱私搜尋。
 about-private-browsing-focus-promo-header-c = 讓行動上網的隱私保護更上一層樓
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = 還有誰可能看到我的上網紀錄�
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = 您的上網過程不會被記錄下來
 about-private-browsing-nova-info-subheader2 = 關閉所有隱私視窗後，我們就會清除所有搜尋紀錄與登入狀態。{ -brand-short-name } 內建的各種保護功能（如追蹤器封鎖等）於此處也依然有效。
-about-private-browsing-nova-info-subheader = 關閉視窗後，我們就會清除所有搜尋紀錄與登入狀態。{ -brand-short-name } 內建的各種保護功能（如追蹤器封鎖等）於此處也依然有效。

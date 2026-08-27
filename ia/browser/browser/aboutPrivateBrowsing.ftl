@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Resta private con { -mozilla-vpn-brand-na
 about-private-browsing-focus-promo-cta = Discargar{ -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigation anonyme al volo
 about-private-browsing-focus-promo-text = Nostre app mobile devote al navigation anonyme, clara tu chronologia e cookies cata vice.
-
-##
-
 about-private-browsing-focus-promo-header-b = Porta le navigation private a tu telephono
 about-private-browsing-focus-promo-text-b = Usa { -focus-brand-name } pro cercar qualcosa sin lassar tracias in tu navigator mobile principal.
 about-private-browsing-focus-promo-header-c = Confidentialitate de nivello superior sur mobile
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Qui pote ancora vider mi activitate?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Tu navigation non sera registrate
 about-private-browsing-nova-info-subheader2 = Nos cancellara cata recerca e accesso al clausura de tote tu Fenestras private. Protectiones integrate de { -brand-short-name } es ancora active ci, como le blocada de traciatores.
-about-private-browsing-nova-info-subheader = Nos cancellara cata recerca e accesso quando tu claudera iste fenestra. Le protectiones integrate de { -brand-short-name }, como le blocada del traciatores, es ancota attive ci.

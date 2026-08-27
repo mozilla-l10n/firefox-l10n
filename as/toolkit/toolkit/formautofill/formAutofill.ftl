@@ -21,9 +21,6 @@ autofill-options-link-osx = প্ৰ-পত্ৰ স্বয়ং-পূৰণ�
 
 ## The credit card capture doorhanger
 
-
-# Used on the doorhanger when an credit card change is detected.
-
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = স্বয়ং-পূৰণ প্ৰ-পত্ৰ মচক
 

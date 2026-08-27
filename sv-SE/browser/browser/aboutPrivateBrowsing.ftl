@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Håll dig privat med { -mozilla-vpn-brand
 about-private-browsing-focus-promo-cta = Hämta { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat surfning när du är på språng
 about-private-browsing-focus-promo-text = Vår dedikerade mobilapp för privat surfning rensar din historik och kakor varje gång.
-
-##
-
 about-private-browsing-focus-promo-header-b = Ta privat surfning till din telefon
 about-private-browsing-focus-promo-text-b = Använd { -focus-brand-name } för de privata sökningar som du inte vill att din huvudsakliga mobilwebbläsare ska se.
 about-private-browsing-focus-promo-header-c = Sekretess på nästa nivå för mobila enheter
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Vem kan fortfarande se min aktivitet?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Du är privat
 about-private-browsing-nova-info-subheader2 = Vi raderar alla sökningar och inloggningar när du stänger alla dina privata fönster. { -brand-short-name }:s inbyggda skydd finns också här, som att blockera spårare.
-about-private-browsing-nova-info-subheader = Vi tar bort alla sökningar och inloggningar när du stänger det här fönstret. { -brand-short-name }:s inbyggda skydd finns också här, som att blockera spårare.

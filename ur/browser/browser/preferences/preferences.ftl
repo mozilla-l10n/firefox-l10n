@@ -427,9 +427,6 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = تیز راہ
 home-prefs-shortcuts-description = وہ سائٹس جو آپ محفوظ کرتے ہیں یا ملاحظہ کرتے ہیں۔
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } کی جانب سے تجویز کردہ
 
@@ -556,8 +553,8 @@ sync-mobile-promo = Firefox ڈاؤن لوڈ کریں <img data-l10n-name="androi
 sync-profile-picture =
     .tooltiptext = پروفائل کی تصویر تبدیل کریں
 sync-profile-picture-with-alt =
-    .tooltiptext = پروفائل کی تصویر تبدیل کریں
     .alt = پروفائل کی تصویر تبدیل کریں
+    .tooltiptext = پروفائل کی تصویر تبدیل کریں
 sync-sign-out =
     .label = سائن آؤٹ…
     .accesskey = گ
@@ -601,8 +598,8 @@ prefs-sync-turn-on-syncing-2 =
     .accesskey = s
 prefs-sync-now =
     .labelnotsyncing = ابھی ہمہ وقت سازی کریں
-    .accesskeynotsyncing = ن
     .labelsyncing = ہمہ وقت سازی کر رہا ہے…
+    .accesskeynotsyncing = ن
 prefs-sync-now-button =
     .label = ابھی ہمہ وقت سازی کریں
     .accesskey = ن
@@ -632,12 +629,12 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = سنک کرنے کا طریقہ منتخب کریں
-    .style = min-width: 36em;
     .buttonlabelaccept = تبدیلیاں  محفوظ  کریں
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = منقطع کریں…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = سنک کرنے کا طریقہ منتخب کریں
 sync-engine-bookmarks =
     .label = بک مارک
     .accesskey = m
@@ -893,9 +890,6 @@ content-blocking-unvisited-cookies = نا دیکھی گئی سائٹس کی کو
 content-blocking-all-windows-tracking-content = تمام ونڈوز میں مواد کی  ٹریکنگ
 content-blocking-cryptominers = کریپٹومینر
 content-blocking-fingerprinters = فنگر پرنٹرز
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = دھیان دیں!
 content-blocking-warning-learn-how = کیسے سیکھیں
 content-blocking-reload-description = آپ کو ان تبدیلیوں کو لاگو کرنے کے لئے اپنے ٹیب کو دوبارہ لوڈ کرنے کی ضرورت ہوگی۔

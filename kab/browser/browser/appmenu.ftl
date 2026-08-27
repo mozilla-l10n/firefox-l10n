@@ -55,11 +55,11 @@ appmenuitem-exit2 =
            *[other] Ffeɣ
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Ldi umuɣ n usnas
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Mdel umuɣ n usnas
     .label = { -brand-short-name }
+    .tooltiptext = Mdel umuɣ n usnas
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -179,16 +179,6 @@ profiler-button-dropmarker =
 
 ## Profiler presets
 ## They are shown in the popup's select box.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Uzwirfren yettuwellhen i tuget n tseɣtit n usnas web, s uwzir fessusen maḍi.
 profiler-popup-presets-web-developer-label =

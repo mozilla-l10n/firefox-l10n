@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Không bao giờ lưu thẻ
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Cập nhật thẻ?
 credit-card-update-doorhanger-description = Thẻ sẽ được cập nhật:
 credit-card-capture-save-new-button =

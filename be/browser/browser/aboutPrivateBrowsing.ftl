@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Заставайцеся прыватны
 about-private-browsing-focus-promo-cta = Сцягнуць { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: прыватнае агляданне ў дарозе
 about-private-browsing-focus-promo-text = Наша спецыялізаваная мабільная праграма для прыватнага аглядання кожны раз ачышчае вашу гісторыю і кукі.
-
-##
-
 about-private-browsing-focus-promo-header-b = Вазьміце прыватнае агляданне на свой тэлефон
 about-private-browsing-focus-promo-text-b = Выкарыстоўвайце { -focus-brand-name } для тых прыватных пошукаў, якія не хочаце, каб ваш асноўны мабільны браўзер бачыў.
 about-private-browsing-focus-promo-header-c = Новы ўзровень прыватнасці на мабільных прыладах
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = Хто ўсё яшчэ можа бачы
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Вас не запісваюць
 about-private-browsing-nova-info-subheader2 = Мы выдалім усе пошукавыя запыты і ўваходы, калі вы закрыеце ўсе прыватныя вокны. Убудаваныя ў { -brand-short-name } сродкі аховы тут таксама ўключаны, напрыклад, блакаванне трэкераў.
-about-private-browsing-nova-info-subheader = Мы выдалім усе пошукавыя запыты і ўваходы, калі вы закрыеце гэта акно. Убудаваныя ў { -brand-short-name } сродкі аховы тут таксама ўключаны, напрыклад, блакаванне трэкераў.

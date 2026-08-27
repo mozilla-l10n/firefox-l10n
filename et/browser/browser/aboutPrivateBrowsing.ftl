@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Jää privaatseks { -mozilla-vpn-brand-na
 about-private-browsing-focus-promo-cta = Laadi alla { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: privaatne veebilehtisemine liikvel olles
 about-private-browsing-focus-promo-text = Meie spetsiaalne privaatse veebilehitsemise mobiiliäpp kustutab ajaloo ja küpsised iga kord.
-
-##
-
 about-private-browsing-focus-promo-header-b = Kasuta privaatset veebilehitsemist ka oma telefonis
 about-private-browsing-focus-promo-text-b = Kasuta { -focus-brand-name }t nende otsingute jaoks, mida sa ei soovi, et sinu peamine mobiilne brauser näeks.
 about-private-browsing-focus-promo-header-c = Järgmise taseme privaatsus mobiilis

@@ -19,8 +19,8 @@ do-not-track-removal3 =
 non-technical-privacy-heading =
     .label = Дополнителни заштити
 preferences-privacy-relay-available =
-    .label = Предложи маски за е-пошта од { -relay-brand-name }
     .description = Ја крие Вашата вистинска адреса за е-пошта за да се заштите од спам.
+    .label = Предложи маски за е-пошта од { -relay-brand-name }
 non-technical-privacy-header = Преференции за приватност на мрежното место
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -38,8 +38,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = Во поставки
+    .style = width: 15.4em
 managed-notice = Вашата организација управува со Вашиот прелистувач.
 managed-notice-info-icon =
     .alt = Информации
@@ -355,8 +355,8 @@ performance-default-content-process-count =
 performance-group =
     .label = Перформанси
 performance-use-recommended-settings-checkbox-2 =
-    .label = Користи препорачани поставки за перформанси
     .description = Овие поставки се прилагодени на вашиот хардвер и оперативен систем
+    .label = Користи препорачани поставки за перформанси
     .accesskey = К
 
 ## Accessibility page
@@ -423,9 +423,6 @@ home-prefs-search-header =
     .label = Веб-пребарување
 home-prefs-shortcuts-header =
     .label = Кратенки
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Препорачано од { $provider }
 
@@ -507,8 +504,8 @@ containers-remove-button =
 sync-profile-picture =
     .tooltiptext = Променете ја сликата на профилот
 sync-profile-picture-with-alt =
-    .tooltiptext = Променете ја сликата на профилот
     .alt = Променете ја сликата на профилот
+    .tooltiptext = Променете ја сликата на профилот
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -666,9 +663,6 @@ content-blocking-learn-more = Дознајте повеќе
 content-blocking-all-cookies = Сите колачиња
 content-blocking-unvisited-cookies = Колачиња од непосетени места
 content-blocking-fingerprinters = Отпечатоци
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = Внимание!
 content-blocking-warning-learn-how = Дознајте како
 content-blocking-tracking-protection-option-all-windows =

@@ -422,8 +422,8 @@ sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Change profile picture
 sync-profile-picture-with-alt =
-    .tooltiptext = Change profile picture
     .alt = Change profile picture
+    .tooltiptext = Change profile picture
 sync-manage-account = Manage Account
     .accesskey = o
 sync-manage-account2 =
@@ -644,9 +644,6 @@ enhanced-tracking-protection-setting-custom =
     .accesskey = C
 
 ##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-warning-title = Heads up!
 content-blocking-tracking-protection-option-all-windows =

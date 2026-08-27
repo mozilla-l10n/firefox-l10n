@@ -26,9 +26,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Երբեք չպահել քարտերը
     .accessKey = Ե
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Թարմացնե՞լ քարտը
 credit-card-update-doorhanger-description = Թարմացվող քարտ՝
 credit-card-capture-save-new-button =

@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } सँग ग
 about-private-browsing-focus-promo-cta = { -focus-brand-name } डाउनलोड !!!
 about-private-browsing-focus-promo-header = { -focus-brand-name } : सक्रिय निजी ब्राउजिङ
 about-private-browsing-focus-promo-text = हाम्रो समर्पित निजी ब्राउजिङ मोबाइल एपले तपाइँको इतिहास र कुकीहरू प्रत्येक पटक मेटाइ दिन्छ ।
-
-##
-
 about-private-browsing-focus-promo-header-b = आफ्नो फोनमा निजी ब्राउजिङ लिनुहोस्
 about-private-browsing-focus-promo-text-b = आफ्ना निजी खोजीहरु प्रमुख मोबाइल ब्राउजर मा देखा न पार्न का लागी { -focus-brand-name } को प्रयोग गर्नुहोस् ।
 about-private-browsing-focus-promo-header-c = मोबाइलमा उत्कृष्ट स्तरको गोपनीयता ।

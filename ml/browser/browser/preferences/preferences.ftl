@@ -19,8 +19,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = ക്രമീകരണങ്ങളിൽ കണ്ടെത്തുക
+    .style = width: 15.4em
 managed-notice-info-icon =
     .alt = വിവരം
 category-list =
@@ -108,8 +108,8 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = വിപുലീകരണം പ്രവർത്തനരഹിതമാക്കുക
 preferences-data-migration-group =
-    .label = അന്വേഷിയന്ത്രദത്ത ഇറക്കുമതിക്കുക
     .description = മറ്റൊരു അന്വേഷിയന്ത്രത്തിൽ നിന്നു അടയാളക്കുറിപ്പുകളും ഒളിവാക്കുകളും നാൾവഴിയും വിപുലീകരണങ്ങളും താനെപ്പൂരിപ്പിക്കൽ ഡാറ്റയും കൊണ്ടുവരുക.
+    .label = അന്വേഷിയന്ത്രദത്ത ഇറക്കുമതിക്കുക
 preferences-data-migration-header = അന്വേഷിയന്ത്രദത്ത ഇറക്കുമതി ചെയ്യുക
 preferences-data-migration-description = { -brand-short-name }-ലോട്ടു് തന്നെതാനെ അടയാളക്കുറിപ്പുകളും ഒളിവാക്കുകളും നാൾവഴിയും മറ്റേതും ഇറക്കുമതിക്കുക
 preferences-data-migration-button =
@@ -543,9 +543,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = വിപുലീകരണം ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = ഇഷ്ടാനുസൃത പൂമുഖത്താൾ
 home-custom-homepage-subpage =
     .heading = ഇഷ്ടാനുസൃത പൂമുഖത്താൾ
@@ -560,9 +557,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
 home-prefs-shortcuts-by-option-sponsored =
     .label = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കുറുക്കുവഴികൾ
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } ശുപാർശ ചെയ്തത്
 home-prefs-recommended-by-header-generic =
@@ -700,8 +694,8 @@ sync-mobile-promo = വേണ്ടി ഫയർഫോക്സ് ഡൌൺല�
 sync-profile-picture =
     .tooltiptext = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
 sync-profile-picture-with-alt =
-    .tooltiptext = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
     .alt = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
+    .tooltiptext = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
 sync-profile-picture-account-problem =
     .alt = രൂപരേഖപ്പടം
 fxa-login-rejected-warning =
@@ -753,8 +747,8 @@ prefs-sync-turn-on-syncing-2 =
 prefs-sync-offer-setup-label2 = താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും നാള്‍വഴിയും ടാബുകളും ഒളിവാക്കുകളും ആഡോണുകളും ക്രമീകരണങ്ങളും താങ്ങളുടെ എല്ല ഉപകരണങ്ങൾ സമന്വയിപ്പിക്കുക.
 prefs-sync-now =
     .labelnotsyncing = സമന്വയിപ്പിക്കുക
-    .accesskeynotsyncing = സ
     .labelsyncing = സമന്വയിപ്പിക്കുന്നു
+    .accesskeynotsyncing = സ
 prefs-sync-now-button =
     .label = സമന്വയിപ്പിക്കുക
     .accesskey = സ
@@ -879,8 +873,8 @@ forms-ask-to-save-logins =
 pane-privacy-passwords-header = ഒളിവാക്കുകൾ
     .searchkeywords = പ്രവേശനങ്ങൾ
 forms-passwords-header =
-    .label = ഒളിവാക്കുകൾ
     .aria-label = ഒളിവാക്കുകൾ
+    .label = ഒളിവാക്കുകൾ
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = ഒളിവാക്കുകളിലേക്കു് ചേൎക്കാൻ ആവശ്യപ്പെടുക
@@ -1098,9 +1092,6 @@ content-blocking-fingerprinters = വിരലടയാളങ്ങൾ
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = അറിയപ്പെടുന്നതും സംശയിക്കപ്പെടുന്നതുമായ വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രം
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-etp-standard-tcp-rollout-learn-more = കൂടുതലറിയുക
 content-blocking-warning-title = മുന്നറിയിപ്പ്
 content-blocking-warning-learn-how = എങ്ങനെയെന്നറിയാം
@@ -1168,8 +1159,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = വിട്ടുവീഴ്ചകള്‍…
-    .accesskey = വ
     .searchkeywords = പൊന്തുവരലുകൾ
+    .accesskey = വ
 permissions-addon-install-warning =
     .label = വെബ്സൈറ്റുകൾ ആഡ്-ഓൺസ് ഇൻസ്റ്റാൾ ചെയ്യാൻ ശ്രമിക്കുമ്പോൾ നിങ്ങൾക്ക് മുന്നറിയിപ്പ് നൽകുക
     .accesskey = W

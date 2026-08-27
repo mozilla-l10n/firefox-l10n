@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Ochraňte své soukromí s { -mozilla-vpn
 about-private-browsing-focus-promo-cta = Stáhnout { -focus-brand-name(case: "acc") }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: anonymní prohlížení na cesty
 about-private-browsing-focus-promo-text = Náš speciální mobilní prohlížeč, který pokaždé smaže cookies a historii vašeho prohlížení.
-
-##
-
 about-private-browsing-focus-promo-header-b = Užijte si anonymní prohlížení také ve svém telefonu
 about-private-browsing-focus-promo-text-b = Používejte { -focus-brand-name(case: "acc") } pro anonymní vyhledávání, která nechcete vidět ve svém hlavním mobilním prohlížeči.
 about-private-browsing-focus-promo-header-c = Vyšší úroveň soukromí na mobilu
@@ -101,9 +98,4 @@ about-private-browsing-nova-info-subheader2 =
     { -brand-short-name.case-status ->
         [with-cases] Když zavřete všechna anonymní okna, vymažeme všechna vyhledávání a přihlášení. Vestavěné ochrany { -brand-short-name(case: "gen") }, jako třeba sledovací prvky, jsou zapnuté.
        *[no-cases] Když zavřete všechna anonymní okna, vymažeme všechna vyhledávání a přihlášení. Vestavěné ochrany aplikace { -brand-short-name }, jako třeba sledovací prvky, jsou zapnuté.
-    }
-about-private-browsing-nova-info-subheader =
-    { -brand-short-name.case-status ->
-        [with-cases] Jakmile toto okno zavřete, vymažeme všechna vyhledávání a přihlášení. Jsou zde také aktivní vestavěné ochranné funkce { -brand-short-name(case: "gen") }, jako například blokování sledovacích prvků.
-       *[no-cases] Jakmile toto okno zavřete, vymažeme všechna vyhledávání a přihlášení. Jsou zde také aktivní vestavěné ochranné funkce aplikace { -brand-short-name }, jako například blokování sledovacích prvků.
     }

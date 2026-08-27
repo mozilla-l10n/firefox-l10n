@@ -26,8 +26,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = جوستن من سامووا
+    .style = width: 15.4em
 managed-notice = گشت گر ایسا و دست سازمووݩ ایسا دؽوۉداری ابۊ.
 managed-notice-info-icon =
     .alt = دووسمندیا
@@ -154,8 +154,8 @@ preferences-profiles-group-header =
 preferences-profiles-subpane-description =
     .description = هر پوروفایل داده یل وو سامووا گشتن جوڌاکاری داره جۊر ویرگار، رزما، وو مووردا دیر.
 preferences-profiles-section-header =
-    .label = پوروفایلا
     .description = هر پوروفایل داده یل وو سامووا گشتن جوڌاکاری داره جۊر ویرگار، رزما، وو مووردا دیر.
+    .label = پوروفایلا
 preferences-profiles-header = پوروفایلا
 preferences-manage-profiles-description = هر پوروفایل داده یل وو سامووا گشتن جوڌاکاری داره جۊر ویرگار، رزما، وو مووردا دیر.
 preferences-manage-profiles-learn-more = قلوه دووسته بۊین
@@ -567,9 +567,6 @@ browsing-media-control-learn-more = قلوه دووسته بۊین
 browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
 browsing-group =
     .label = گشتن
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = دسرسی پزیری
 preferences-default-zoom-select =
@@ -653,9 +650,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = وردنی ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = سفارشی کردن بلگه هووه
 home-custom-homepage-subpage =
     .heading = سفارشی کردن بلگه هووه
@@ -669,9 +663,6 @@ home-prefs-shortcuts-header =
     .label = ره نهنگا
 home-prefs-shortcuts-by-option-sponsored =
     .label = ره نهنگا هؽزگرووݩ
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = پؽشنهاڌ وابیڌه و دست { $provider }
 home-prefs-stories-header =
@@ -788,8 +779,8 @@ sync-group-label =
 account-group-label2 =
     .label = هساو منتوری
 account-disabled-group =
-    .label = هساو منتوری
     .description = سامووا هساو منتوری من دسرس نؽ.
+    .label = هساو منتوری
 account-sync-section =
     .heading = هساو وو هوم گوم کردن
 pane-account-sync-title2 = هساو وو هوم گوم کردن
@@ -828,16 +819,11 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } تاییڌ نوابیڌه.
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
-    .label = { $name }
     .description = { $email }
+    .label = { $name }
 
 ##
 
@@ -945,8 +931,8 @@ pane-privacy-logins-and-passwords-header = و من ٱووڌنا وو رزما
 pane-privacy-passwords-header = رزما
     .searchkeywords = و من ٱووڌنا
 forms-passwords-header =
-    .label = رزما
     .aria-label = رزما
+    .label = رزما
 forms-exceptions =
     .label = استسنایل…
     .accesskey = x
@@ -1023,8 +1009,8 @@ addresses-no-addresses-stored-message =
 #   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
-    .label = { $cardNumber }
     .description = { $expDate }
+    .label = { $cardNumber }
 payments-group =
     .label = بارتا پرداخت
 
@@ -1162,9 +1148,6 @@ content-blocking-fingerprinters = کلک نگارا
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = جا کلکا نشناخته وو مشکۊک
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-etp-standard-tcp-rollout-learn-more = قلوه دووسته بۊین
 content-blocking-warning-learn-how = قلوه دووسته بۊین
 content-blocking-baseline-uncheck-warning-dialog-ok-button = کۊر کردن رفع اشکالا
@@ -1371,8 +1354,8 @@ security-privacy-issue-card =
 issue-card-reset-button =
     .label = وورنشۊوی
 issue-card-dismiss-button =
-    .tooltiptext = رڌ کردن
     .aria-label = رڌ کردن
+    .tooltiptext = رڌ کردن
 
 ## Enhanced Tracking Protection (ETP) status section
 

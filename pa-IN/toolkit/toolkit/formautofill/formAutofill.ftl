@@ -36,9 +36,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = ਕਾਰਡ ਕਦੇ ਵੀ ਨਾ ਸੰਭਾਲੋ
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = ਕਾਰਡ ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ?
 credit-card-update-doorhanger-description = ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਕਾਰਡ:
 credit-card-capture-save-new-button =

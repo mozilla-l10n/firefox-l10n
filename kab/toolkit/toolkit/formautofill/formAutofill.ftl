@@ -32,9 +32,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Ur sseklas ara tikarḍiwin
     .accessKey = U
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Leqqem takarḍa?
 credit-card-update-doorhanger-description = Takarḍa ara yettwaleqqmen:
 credit-card-capture-save-new-button =

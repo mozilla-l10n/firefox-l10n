@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = להישאר אנונימי עם { -mozil
 about-private-browsing-focus-promo-cta = הורדת { -focus-brand-name }
 about-private-browsing-focus-promo-header = ‏{ -focus-brand-name }: גלישה פרטית בדרכים
 about-private-browsing-focus-promo-text = יישומון הגלישה הפרטית הייעודי שלנו לנייד מנקה את ההיסטוריה והעוגיות שלך בכל פעם.
-
-##
-
 about-private-browsing-focus-promo-header-b = לקחת את הגלישה הפרטית לטלפון שלך
 about-private-browsing-focus-promo-text-b = ניתן להשתמש ב־{ -focus-brand-name } עבור החיפושים הפרטיים שאין ברצונך שיופיעו בדפדפן הראשי שלך בנייד.
 about-private-browsing-focus-promo-header-c = פרטיות מרחיקת לכת במכשיר הנייד
@@ -94,4 +91,3 @@ about-private-browsing-nova-info-link = מי יכול עדיין לראות את
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = היסטוריית הגלישה שלך תימחק
 about-private-browsing-nova-info-subheader2 = אנחנו נמחק כל חיפוש והתחברות לאתרים כשכל החלונות הפרטיים ייסגרו. ההגנות המובנות של { -brand-short-name } מופעלות גם כאן, כמו חסימת רכיבי מעקב.
-about-private-browsing-nova-info-subheader = אנחנו נמחק כל חיפוש והתחברות לאתרים כשחלון זה ייסגר. ההגנות המובנות של { -brand-short-name } מופעלות גם כאן, כמו חסימת רכיבי מעקב.

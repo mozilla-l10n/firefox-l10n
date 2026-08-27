@@ -20,8 +20,8 @@ category-nav-heading =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
     .placeholder = అమరికలలో వెతకండి
+    .style = width: 15.4em
 managed-notice = మీ విహారిణి మీ సంస్థ ద్వారా నిర్వహించబడుతోంది.
 managed-notice-info-icon =
     .alt = సమాచారం
@@ -461,9 +461,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = జాల వెతుకులాట
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider }చే సిఫార్సు చేయబడినది
 
@@ -586,8 +583,8 @@ sync-mobile-promo = మీ మొబైలు పరికరంతో సిం
 sync-profile-picture =
     .tooltiptext = ప్రొఫైల్ చిత్రం మార్చు
 sync-profile-picture-with-alt =
-    .tooltiptext = ప్రొఫైల్ చిత్రం మార్చు
     .alt = ప్రొఫైల్ చిత్రం మార్చు
+    .tooltiptext = ప్రొఫైల్ చిత్రం మార్చు
 fxa-login-rejected-warning =
     .alt = హెచ్చరిక
 sync-manage-account = ఖాతా నిర్వహణ
@@ -602,14 +599,9 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } నిర్థారించబడలేదు.
 sync-signedin-login-failure = మళ్ళీ అనుసంధానించడానికి సైన్ ఇన్ అవ్వండి { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in-display-name =
-    .label = { $name }
     .description = { $email }
+    .label = { $name }
 
 ##
 
@@ -629,8 +621,8 @@ prefs-syncing-on = సింక్రనించడం: చేతనం
 prefs-syncing-off = సింక్రనించడం: అచేతనం
 prefs-sync-now =
     .labelnotsyncing = ఇప్పుడే సింక్రనించు
-    .accesskeynotsyncing = N
     .labelsyncing = సింక్రనిస్తోంది…
+    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = ఇప్పుడే సింక్రనించు
     .accesskey = N
@@ -749,8 +741,8 @@ forms-ask-to-save-logins =
 ## Privacy Panel Settings
 
 forms-passwords-header =
-    .label = సంకేతపదాలు
     .aria-label = సంకేతపదాలు
+    .label = సంకేతపదాలు
 forms-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
@@ -939,9 +931,6 @@ content-blocking-all-cookies = అన్ని కుకీలు
 content-blocking-unvisited-cookies = చూడని సైట్ల నుండి కుకీలు
 content-blocking-cryptominers = క్రిప్టోమైనర్లు
 content-blocking-fingerprinters = ఫింగర్‌ప్రింటర్లు
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-etp-standard-tcp-rollout-learn-more = ఇంకా తెలుసుకోండి
 content-blocking-warning-title = గమనిక!
 content-blocking-warning-learn-how = ఎలానో తెలుసుకోండి
@@ -1022,8 +1011,8 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = మినహాయింపులు…
-    .accesskey = E
     .searchkeywords = popups
+    .accesskey = E
 permissions-addon-install-warning =
     .label = జాలగూడులు పొడిగింతలను స్థాపించుటకు ప్రయత్నించినపుడు నిన్ను హెచ్చరించును
     .accesskey = W
