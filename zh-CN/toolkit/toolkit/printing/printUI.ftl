@@ -25,6 +25,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = 份数
 printui-orientation = 方向
+printui-orientation-control =
+    .aria-label = 方向
+printui-landscape-2 =
+    .label = 横向
+    .title = 横向
+printui-portrait-2 =
+    .label = 纵向
+    .title = 纵向
 printui-landscape = 横向
 printui-portrait = 纵向
 # Section title for the printer or destination device to target
