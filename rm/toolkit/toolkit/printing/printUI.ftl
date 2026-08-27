@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Copias
 printui-orientation = Orientaziun
+printui-orientation-control =
+    .aria-label = Orientaziun
+printui-landscape-2 =
+    .label = Format orizontal
+    .title = Format orizontal
+printui-portrait-2 =
+    .label = Format vertical
+    .title = Format vertical
 printui-landscape = Format orizontal
 printui-portrait = Format vertical
 # Section title for the printer or destination device to target
