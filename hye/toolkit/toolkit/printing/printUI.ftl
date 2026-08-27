@@ -25,6 +25,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Պատճէններ
 printui-orientation = Դիրքաւորումը
+printui-orientation-control =
+    .aria-label = Դիրքաւորումը
+printui-landscape-2 =
+    .label = Հորիզոնական
+    .title = Հորիզոնական
+printui-portrait-2 =
+    .label = Ուղղահայեաց
+    .title = Ուղղահայեաց
 printui-landscape = Հորիզոնական
 printui-portrait = Ուղղահայեաց
 # Section title for the printer or destination device to target
