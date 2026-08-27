@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = עותקים
 printui-orientation = כיוון
+printui-orientation-control =
+    .aria-label = כיוון
+printui-landscape-2 =
+    .label = לרוחב
+    .title = לרוחב
+printui-portrait-2 =
+    .label = לאורך
+    .title = לאורך
 printui-landscape = לרוחב
 printui-portrait = לאורך
 # Section title for the printer or destination device to target

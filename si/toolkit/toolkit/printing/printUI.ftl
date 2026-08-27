@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = පිටපත්
 printui-orientation = දිශානතිය
+printui-orientation-control =
+    .aria-label = දිශානතිය
+printui-landscape-2 =
+    .label = තිරස්
+    .title = තිරස්
+printui-portrait-2 =
+    .label = සිරස්
+    .title = සිරස්
 printui-landscape = තිරස්
 printui-portrait = සිරස්
 # Section title for the printer or destination device to target

@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopyen
 printui-orientation = Oriïntaasje
+printui-orientation-control =
+    .aria-label = Oriïntaasje
+printui-landscape-2 =
+    .label = Lizzend
+    .title = Lizzend
+printui-portrait-2 =
+    .label = Steand
+    .title = Steand
 printui-landscape = Lizzend
 printui-portrait = Steand
 # Section title for the printer or destination device to target

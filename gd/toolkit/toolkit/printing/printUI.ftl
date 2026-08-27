@@ -28,6 +28,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Lethbhreacan
 printui-orientation = Comhair
+printui-orientation-control =
+    .aria-label = Comhair
+printui-landscape-2 =
+    .label = Dreach-tìre
+    .title = Dreach-tìre
+printui-portrait-2 =
+    .label = Portraid
+    .title = Portraid
 printui-landscape = Dreach-tìre
 printui-portrait = Portraid
 # Section title for the printer or destination device to target

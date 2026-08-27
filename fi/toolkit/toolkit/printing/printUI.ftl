@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopioita
 printui-orientation = Suunta
+printui-orientation-control =
+    .aria-label = Suunta
+printui-landscape-2 =
+    .label = Vaaka
+    .title = Vaaka
+printui-portrait-2 =
+    .label = Pysty
+    .title = Pysty
 printui-landscape = Vaaka
 printui-portrait = Pysty
 # Section title for the printer or destination device to target

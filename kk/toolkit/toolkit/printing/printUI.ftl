@@ -25,6 +25,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Көшірмелер
 printui-orientation = Бағыт
+printui-orientation-control =
+    .aria-label = Бағыт
+printui-landscape-2 =
+    .label = Жатық
+    .title = Жатық
+printui-portrait-2 =
+    .label = Тік
+    .title = Тік
 printui-landscape = Жатық
 printui-portrait = Тік
 # Section title for the printer or destination device to target

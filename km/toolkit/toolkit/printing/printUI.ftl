@@ -20,6 +20,14 @@ printui-page-range-picker =
 # Section title for the number of copies to print
 printui-copies-label = ច្បាប់​ចម្លង
 printui-orientation = ទិស
+printui-orientation-control =
+    .aria-label = ទិស
+printui-landscape-2 =
+    .label = ផ្ដេក
+    .title = ផ្ដេក
+printui-portrait-2 =
+    .label = បញ្ឈរ
+    .title = បញ្ឈរ
 printui-landscape = ផ្ដេក
 printui-portrait = បញ្ឈរ
 # Section title for the printer or destination device to target
@@ -34,6 +42,11 @@ printui-scale-fit-to-page-width = សមនឹងទទឹងទំព័រ
 printui-options = ជម្រើស
 printui-headers-footers-checkbox = បោះពុម្ពក្បាលទំព័រ និងជើងទំព័រ
 printui-backgrounds-checkbox = បោះពុម្ពផ្ទៃខាងក្រោយ
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
 
 ##
 

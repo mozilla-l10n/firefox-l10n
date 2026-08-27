@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = ასლები
 printui-orientation = განლაგება
+printui-orientation-control =
+    .aria-label = განლაგება
+printui-landscape-2 =
+    .label = თარაზული
+    .title = თარაზული
+printui-portrait-2 =
+    .label = შვეული
+    .title = შვეული
 printui-landscape = თარაზული
 printui-portrait = შვეული
 # Section title for the printer or destination device to target

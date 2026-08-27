@@ -27,6 +27,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopije
 printui-orientation = Položaj
+printui-orientation-control =
+    .aria-label = Položaj
+printui-landscape-2 =
+    .label = Položeno
+    .title = Položeno
+printui-portrait-2 =
+    .label = Uspravno
+    .title = Uspravno
 printui-landscape = Položeno
 printui-portrait = Uspravno
 # Section title for the printer or destination device to target

@@ -13,6 +13,14 @@ printui-page-range-picker =
 # Section title for the number of copies to print
 printui-copies-label = نقول
 printui-orientation = سمت بندی
+printui-orientation-control =
+    .aria-label = سمت بندی
+printui-landscape-2 =
+    .label = افقی انداز
+    .title = افقی انداز
+printui-portrait-2 =
+    .label = عمودی انداز
+    .title = عمودی انداز
 printui-landscape = افقی انداز
 printui-portrait = عمودی انداز
 # Section title for the printer or destination device to target
@@ -32,6 +40,11 @@ printui-two-sided-printing-off = بند
 # Section title for miscellaneous print options
 printui-options = اختیارات
 printui-backgrounds-checkbox = پس منظر چھاپیں
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
 
 ##
 
@@ -68,3 +81,6 @@ printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
 printui-paper-tabloid = ٹیبلوئڈ
+
+## Error messages shown when a user has an invalid input
+

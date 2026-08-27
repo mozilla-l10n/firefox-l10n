@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = کاپیاں
 printui-orientation = سمت بندی
+printui-orientation-control =
+    .aria-label = سمت بندی
+printui-landscape-2 =
+    .label = افقی انداز
+    .title = افقی انداز
+printui-portrait-2 =
+    .label = عمودی انداز
+    .title = عمودی انداز
 printui-landscape = افقی انداز
 printui-portrait = عمودی انداز
 # Section title for the printer or destination device to target

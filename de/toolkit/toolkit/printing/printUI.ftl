@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopien
 printui-orientation = Ausrichtung
+printui-orientation-control =
+    .aria-label = Ausrichtung
+printui-landscape-2 =
+    .label = Querformat
+    .title = Querformat
+printui-portrait-2 =
+    .label = Hochformat
+    .title = Hochformat
 printui-landscape = Querformat
 printui-portrait = Hochformat
 # Section title for the printer or destination device to target

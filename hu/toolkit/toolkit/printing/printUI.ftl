@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Példányszám
 printui-orientation = Tájolás
+printui-orientation-control =
+    .aria-label = Tájolás
+printui-landscape-2 =
+    .label = Fekvő
+    .title = Fekvő
+printui-portrait-2 =
+    .label = Álló
+    .title = Álló
 printui-landscape = Fekvő
 printui-portrait = Álló
 # Section title for the printer or destination device to target

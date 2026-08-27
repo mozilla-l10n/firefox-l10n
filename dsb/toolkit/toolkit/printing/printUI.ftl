@@ -28,6 +28,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopije
 printui-orientation = Wusměrjenje
+printui-orientation-control =
+    .aria-label = Wusměrjenje
+printui-landscape-2 =
+    .label = Prěcny format
+    .title = Prěcny format
+printui-portrait-2 =
+    .label = Wusoki format
+    .title = Wusoki format
 printui-landscape = Prěcny format
 printui-portrait = Wusoki format
 # Section title for the printer or destination device to target

@@ -26,6 +26,14 @@ printui-page-range-picker =
 # Section title for the number of copies to print
 printui-copies-label = Eiladennoù
 printui-orientation = Tuadur:
+printui-orientation-control =
+    .aria-label = Tuadur:
+printui-landscape-2 =
+    .label = Gweledva
+    .title = Gweledva
+printui-portrait-2 =
+    .label = Poltred
+    .title = Poltred
 printui-landscape = Gweledva
 printui-portrait = Poltred
 # Section title for the printer or destination device to target

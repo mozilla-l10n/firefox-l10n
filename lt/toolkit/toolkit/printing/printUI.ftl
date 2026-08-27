@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopijos
 printui-orientation = Orientacija
+printui-orientation-control =
+    .aria-label = Orientacija
+printui-landscape-2 =
+    .label = Gulsčias
+    .title = Gulsčias
+printui-portrait-2 =
+    .label = Stačias
+    .title = Stačias
 printui-landscape = Gulsčias
 printui-portrait = Stačias
 # Section title for the printer or destination device to target

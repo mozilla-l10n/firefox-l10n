@@ -25,6 +25,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Bản sao
 printui-orientation = Hướng
+printui-orientation-control =
+    .aria-label = Hướng
+printui-landscape-2 =
+    .label = Ngang
+    .title = Ngang
+printui-portrait-2 =
+    .label = Dọc
+    .title = Dọc
 printui-landscape = Ngang
 printui-portrait = Dọc
 # Section title for the printer or destination device to target

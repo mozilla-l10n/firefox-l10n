@@ -27,6 +27,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopie
 printui-orientation = Orientacja
+printui-orientation-control =
+    .aria-label = Orientacja
+printui-landscape-2 =
+    .label = Pozioma
+    .title = Pozioma
+printui-portrait-2 =
+    .label = Pionowa
+    .title = Pionowa
 printui-landscape = Pozioma
 printui-portrait = Pionowa
 # Section title for the printer or destination device to target

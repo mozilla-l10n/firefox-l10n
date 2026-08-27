@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Нусхаҳо
 printui-orientation = Самт
+printui-orientation-control =
+    .aria-label = Самт
+printui-landscape-2 =
+    .label = Уфуқӣ
+    .title = Уфуқӣ
+printui-portrait-2 =
+    .label = Амудӣ
+    .title = Амудӣ
 printui-landscape = Уфуқӣ
 printui-portrait = Амудӣ
 # Section title for the printer or destination device to target

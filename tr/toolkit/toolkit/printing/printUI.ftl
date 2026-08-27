@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopya sayısı
 printui-orientation = Yönlendirme
+printui-orientation-control =
+    .aria-label = Yönlendirme
+printui-landscape-2 =
+    .label = Yatay
+    .title = Yatay
+printui-portrait-2 =
+    .label = Dikey
+    .title = Dikey
 printui-landscape = Yatay
 printui-portrait = Dikey
 # Section title for the printer or destination device to target

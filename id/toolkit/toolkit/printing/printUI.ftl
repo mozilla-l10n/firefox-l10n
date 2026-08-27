@@ -25,6 +25,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Salinan
 printui-orientation = Orientasi
+printui-orientation-control =
+    .aria-label = Orientasi
+printui-landscape-2 =
+    .label = Mendatar
+    .title = Mendatar
+printui-portrait-2 =
+    .label = Tegak
+    .title = Tegak
 printui-landscape = Mendatar
 printui-portrait = Tegak
 # Section title for the printer or destination device to target

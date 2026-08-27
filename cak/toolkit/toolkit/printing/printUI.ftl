@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Taq wachib'äl
 printui-orientation = Rucholajem
+printui-orientation-control =
+    .aria-label = Rucholajem
+printui-landscape-2 =
+    .label = Kotz'olem
+    .title = Kotz'olem
+printui-portrait-2 =
+    .label = Palem
+    .title = Palem
 printui-landscape = Kotz'olem
 printui-portrait = Palem
 # Section title for the printer or destination device to target
