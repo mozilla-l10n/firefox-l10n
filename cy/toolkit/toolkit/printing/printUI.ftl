@@ -30,6 +30,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Copïau
 printui-orientation = Cyfeiriad
+printui-orientation-control =
+    .aria-label = Cyfeiriad
+printui-landscape-2 =
+    .label = Tirlun
+    .title = Tirlun
+printui-portrait-2 =
+    .label = Portread
+    .title = Portread
 printui-landscape = Tirlun
 printui-portrait = Portread
 # Section title for the printer or destination device to target
