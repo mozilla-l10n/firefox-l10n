@@ -19,8 +19,8 @@ confirmation-hint-credit-card-updated = Kartiņa atjaunināta
 confirmation-hint-pin-tab = Piesprausts!
 confirmation-hint-pin-tab-description = Labais peles klikšķis uz cilnes to atsprauž.
 confirmation-hint-send-to-device = Nosūtīts!
-confirmation-hint-firefox-relay-mask-created = Izveidota jauna maska!
-confirmation-hint-firefox-relay-mask-reused = Esošā maska izmantota atkārtoti!
+confirmation-hint-firefox-relay-mask-created = Izveidots jauns aizsegs.
+confirmation-hint-firefox-relay-mask-reused = Esošais aizsegs izmantots atkārtoti.
 confirmation-hint-screenshot-copied = Ekrānuzņēmums nokopēts!
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.

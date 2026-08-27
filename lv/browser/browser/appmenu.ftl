@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = Nevar atjaunināt — sistēma nav saderīga
 appmenuitem-banner-update-restart =
     .label = Pieejams atjauninājums — restartējiet tūlīt
+appmenu-nova-fxa-sign-in = Pieteikties
+appmenu-nova-switch-device-link = Kā pārcelt savus datus
 appmenuitem-new-tab =
     .label = Jauna cilne
 appmenuitem-new-window =
@@ -43,8 +45,15 @@ appmenuitem-translate =
     .label = Tulkot lapu…
 appmenuitem-zoom =
     .value = Tālummaiņa
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Kopīgot { -brand-product-name }
 appmenuitem-more-tools =
     .label = Citi rīki
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Palīdzība un ziņošana
 appmenuitem-help =
     .label = Palīdzība
 appmenuitem-exit2 =
@@ -54,11 +63,11 @@ appmenuitem-exit2 =
            *[other] Iziet
         }
 appmenu-menu-button-closed2 =
+    .label = { -brand-short-name }
     .tooltiptext = Atvērt lietotnes izvēlni
-    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = Aizvērt lietotnes izvēlni
     .label = { -brand-short-name }
+    .tooltiptext = Aizvērt lietotnes izvēlni
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -103,11 +112,43 @@ appmenu-remote-tabs-unverified = Jūsu kontam nepieciešams apstiprinājums.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhronizēt tagad
 appmenuitem-fxa-sign-in = Pierakstieties { -brand-product-name }
 appmenuitem-fxa-manage-account = Pārvaldīt kontu
+fxa-menu-sync-status-on = Vienādošana ir ieslēgta
+fxa-menu-sync-status-off = Vienādošana ir izslēgta
 # Shown in place of "Sync is Off" on the sync status button when the user has
 # never signed in. Sync is a verb, short for synchronize.
 fxa-menu-sync-your-data = Vienādo savus datus
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Tavi dati netiek vienādoti
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Ieslēgt
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Jāpiesakās, lai vienādotu
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Vienādot { $deviceName } tagad
+fxa-menu-manage-sync-settings =
+    .label = Pārvaldīt vienādošanas iestatījumus
 fxa-menu-add-device =
     .label = Pievienot ierīci
+fxa-menu-manage-devices =
+    .label = Pārvaldīt savas ierīces
+fxa-menu-device-missing =
+    .label = Neredzi savu ierīci?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Visas ierīces
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Visas ierīces
+fxa-menu-get-firefox-mobile =
+    .label = Iegūt { -brand-product-name } Android vai iOS lietotni
+fxa-menu-secure-sync-subpanel =
+    .title = Droša vienādošana
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = Konts
 # Variables
@@ -117,6 +158,9 @@ appmenu-fxa-last-sync = Pēdējo reizi sinhronizēts { $time }
     .label = Pēdējo reizi sinhronizēts { $time }
 appmenu-fxa-sync-and-save-data2 = Sinhronizēt un saglabāt datus
 appmenu-fxa-signed-in-label = Pierakstīties
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Jāpiesakās, lai vienādotu
 appmenu-fxa-setup-sync =
     .label = Ieslēgt sinhronizāciju…
 appmenu-fxa-setup-sync-new = Ieslēgt
@@ -183,16 +227,6 @@ profiler-button-dropmarker =
 
 ## Profiler presets
 ## They are shown in the popup's select box.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Ieteicamais priekšiestatījums vairuma tīmekļa lietotņu atkļūdošanai, ar mazu virstēriņu.
 profiler-popup-presets-web-developer-label =

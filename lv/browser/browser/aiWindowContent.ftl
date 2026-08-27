@@ -71,6 +71,7 @@ smart-window-confirm-open-tabs =
 # Fallback name used in place of $label above when the model didn't provide
 # one for the tab group.
 smart-window-default-tab-group-label = Ciļņu kopa
+smart-window-grouped-tabs-row-label = Apkopotās cilnes
 smart-window-opened-tabs-row-label = Atvērtās cilnes
 
 ## Action log
