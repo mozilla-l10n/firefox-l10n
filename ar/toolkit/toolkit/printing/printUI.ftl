@@ -30,6 +30,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = النُّسخ
 printui-orientation = الاتجاه
+printui-orientation-control =
+    .aria-label = الاتجاه
+printui-landscape-2 =
+    .label = عرضي
+    .title = عرضي
+printui-portrait-2 =
+    .label = طولي
+    .title = طولي
 printui-landscape = عرضي
 printui-portrait = طولي
 # Section title for the printer or destination device to target
