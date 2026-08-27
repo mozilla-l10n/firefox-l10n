@@ -124,6 +124,7 @@ fxa-menu-sync-off-data-description = Vos données ne sont pas synchronisées
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Activer
+fxa-menu-sync-status-turn-on-button-aria-label = Activer
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Se connecter pour synchroniser

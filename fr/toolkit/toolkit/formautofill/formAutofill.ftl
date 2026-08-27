@@ -50,6 +50,11 @@ autofill-clear-form-label = Effacer les données du remplissage automatique
 autofill-manage-addresses-label = Gérer les adresses
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Gérer les moyens de paiement
+# Used as the primary label of an autofill drop down suggestion when the focused
+# field is the card security code. The card's masked number is shown underneath
+# it as the secondary label. "CVC" is a common abbreviation for the code printed
+# on a payment card; use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code-label = Code de vérification
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
