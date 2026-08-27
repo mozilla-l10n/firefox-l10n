@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = പകര്‍പ്പുകള്‍
 printui-orientation = ക്രമീകരണം
+printui-orientation-control =
+    .aria-label = ക്രമീകരണം
+printui-landscape-2 =
+    .label = ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍
+    .title = ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍
+printui-portrait-2 =
+    .label = ഛായപടം രീതിയില്‍
+    .title = ഛായപടം രീതിയില്‍
 printui-landscape = ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍
 printui-portrait = ഛായപടം രീതിയില്‍
 # Section title for the printer or destination device to target
