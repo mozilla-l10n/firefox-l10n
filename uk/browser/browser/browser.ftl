@@ -128,6 +128,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Керувати налаштуваннями спливних вікон і стороннім переспрямуванням…
     .accesskey = К
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Переглянути інформацію про сайт
+            [one] Переглянути інформацію про сайт (заблоковано { $count } вистежувач)
+            [few] Переглянути інформацію про сайт (заблоковано { $count } вистежувачі)
+           *[many] Переглянути інформацію про сайт (заблоковано { $count } вистежувачів)
+        }
 urlbar-identity-button =
     .aria-label = Перегляд інформації про сайт
 
@@ -591,6 +601,7 @@ identity-clear-site-data =
     .label = Стерти файли cookie та дані сайту…
 identity-connection-not-secure-security-view = Ваше з'єднання з цим сайтом не захищене.
 identity-connection-verified = Ваше з'єднання з цим сайтом захищене.
+identity-ev-owner-label2 = Сертифікат видано
 identity-verifier-label2 = Засвідчено
 identity-ev-owner-label = Сертифікат виданий:
 identity-verifier-label = Засвідчено:
@@ -611,6 +622,8 @@ identity-description-passive-loaded-insecure2 = Цей вебсайт місти
 identity-description-passive-loaded-mixed2 = Хоча { -brand-short-name } заблокував деякий вміст, на сторінці все ще є незахищений вміст (наприклад, зображення).
 identity-description-active-loaded = Цей вебсайт має вміст, що не є безпечним (як-от скрипти) і ваше з'єднання з ним не є приватним.
 identity-description-active-loaded-insecure = Інформація, якою ви ділитесь з цим сайтом, може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).
+identity-description-tls-key-logging-heading = Ваше з'єднання може бути не приватним
+identity-description-tls-key-logging-message = Програма або сервіс може бачити ваш зашифрований трафік з цього сайту.
 identity-disable-mixed-content-blocking =
     .label = Тимчасово вимкнути захист
     .accesskey = в
@@ -1543,6 +1556,9 @@ private-browsing-indicator-button =
     .tooltiptext = Інформація про приватний перегляд
 # Title shown in the private browsing info panel.
 private-browsing-info-panel-title = Ви у приватному вікні
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Ця функція допомагає приховати ваші дані від інших користувачів цього пристрою, але не робить вас невидимими онлайн. <a data-l10n-name="learn-more">Хто може бачити мою активність?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1592,6 +1608,7 @@ reset-pbm-toolbar-button =
     .label = Завершити приватний сеанс
     .tooltiptext = Завершити приватний сеанс
 reset-pbm-panel-heading2 = Стерти дані та почати новий приватний сеанс?
+reset-pbm-panel-description2 = Ця дія видаляє історію, файли cookie та всі інші дані сайтів, не закриваючи вікно приватного перегляду.
 reset-pbm-panel-heading = Завершити приватний сеанс?
 reset-pbm-panel-description = Закрити всі приватні вкладки й видалити історію, файли cookie та всі інші дані сайтів.
 reset-pbm-panel-always-ask-checkbox =
@@ -1874,6 +1891,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Ці сайти намагаються використовувати ваш комп'ютер для криптомайнингу:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Маєте обліковий запис на цьому сайті?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } виявив, що на цьому сайті протягом останніх 12 місяців стався витік даних. Дізнайтеся, чи розкрито вашу інформацію.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Відхилити
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Розпочати безплатне сканування
 trustpanel-blocker-section-header2 =
@@ -1885,6 +1903,8 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Сайт здається несправним?</strong> Перезавантажте сторінку, щоб тимчасово знизити рівень захисту від відстеження.
 reduced-protection-infobar-reload-button = Перезавантажити
     .accesskey = П
 reduced-protection-infobar-never-show-button = Більше не показувати
