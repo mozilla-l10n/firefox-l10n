@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Αντίγραφα
 printui-orientation = Προσανατολισμός
+printui-orientation-control =
+    .aria-label = Προσανατολισμός
+printui-landscape-2 =
+    .label = Οριζόντιος
+    .title = Οριζόντιος
+printui-portrait-2 =
+    .label = Κατακόρυφος
+    .title = Κατακόρυφος
 printui-landscape = Οριζόντιος
 printui-portrait = Κατακόρυφος
 # Section title for the printer or destination device to target
