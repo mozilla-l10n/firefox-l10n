@@ -213,6 +213,12 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } med brskanjem zavrača sledilce. Prikazani bodo tukaj.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Hitrejše brskanje. Manj sledilcev.
+newtab-privacy-etp-off-turn-on-tracking = V nastavitvah vklopite zaščito pred sledenjem, da začnete blokirati sledilce.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -285,6 +291,8 @@ newtab-privacy-message-milestone-total-cta = Ogled zaščit
 newtab-privacy-message-daily-cap = (Danes je bilo blokiranih prek 100 sledilcev.) Manj sledilcev pomeni več zasebnosti.
 newtab-privacy-message-daily-cap-cta = Ogled zaščit
 newtab-privacy-message-streak-cta = Ogled zaščit
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Brskajte dalje, { -brand-short-name } pa bo še naprej blokiral sledilce.
 newtab-privacy-message-first-protection-cta = Ogled zaščit
 
 ## Strings for the Stocks widget
@@ -304,6 +312,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Delnice
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Trgi
+    .label = Trgi
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Seznam za spremljanje
+    .label = Seznam za spremljanje
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Iskanje po imenu ali simbolu
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -317,6 +335,23 @@ newtab-stocks-ticker-status-up = { $name }, rast za { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, padec za { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, brez sprememb, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = Dodaj { $name } na seznam za spremljanje
+    .title = Dodaj { $name } na seznam za spremljanje
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = Odstrani { $name } s seznama za spremljanje
+    .title = Odstrani { $name } s seznama za spremljanje
 
 ## Stocks widget ticker search
 
