@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Razširi stransko vrstico ob preletu z miško
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Prikaži predogled ob preletu miškinega kazalca
 sidebar-manage-extensions2 = Upravljanje vseh razširitev
 sidebar-customize-extensions-header2 = Razširitve
 sidebar-customize-firefox-tools-header2 =
@@ -292,31 +296,31 @@ sidebar-bookmarks-title = Zaznamki
 synced-tabs-context-close-tab-title =
     .title = Zapri zavihek na napravi { $deviceName }
 show-sidebars =
-    .tooltiptext = Prikaži stranske vrstice
     .label = Stranske vrstice
+    .tooltiptext = Prikaži stranske vrstice
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Razširi stransko vrstico ({ $shortcut })
     .label = Stranske vrstice
+    .tooltiptext = Razširi stransko vrstico ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Skrči stransko vrstico ({ $shortcut })
     .label = Stranske vrstice
+    .tooltiptext = Skrči stransko vrstico ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Prikaži stransko vrstico ({ $shortcut })
     .label = Stranske vrstice
+    .tooltiptext = Prikaži stransko vrstico ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Skrij stransko vrstico ({ $shortcut })
     .label = Stranske vrstice
+    .tooltiptext = Skrij stransko vrstico ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

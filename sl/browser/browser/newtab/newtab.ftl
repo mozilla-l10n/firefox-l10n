@@ -352,17 +352,54 @@ newtab-stocks-add-to-watchlist =
 newtab-stocks-remove-from-watchlist =
     .aria-label = Odstrani { $name } s seznama za spremljanje
     .title = Odstrani { $name } s seznama za spremljanje
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } je na vašem seznamu za spremljanje
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = Sklad { $name } dodan na seznam za spremljanje
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Sklad { $name } odstranjen s seznama za spremljanje
 
 ## Stocks widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Iskanje po imenu ali simbolu
+    .placeholder = Iskanje po imenu ali simbolu
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Rezultati iskanja
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
 newtab-stocks-search-back-button =
     .aria-label = Nazaj
     .title = Nazaj
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Ni rezultatov za "{ $query }"
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Nalaganje …
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Iskanje v tem trenutku ni mogoče. Poskusite znova pozneje.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Dodate lahko do { $limit } delnico. Če želite dodati novo, eno odstranite.
+        [two] Dodate lahko do { $limit } delnici. Če želite dodati novo, eno odstranite.
+        [few] Dodate lahko do { $limit } delnice. Če želite dodati novo, eno odstranite.
+       *[other] Dodate lahko do { $limit } delnic. Če želite dodati novo, eno odstranite.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -423,6 +460,13 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Možnosti nedavnih iskanj
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Več o tem
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Zgodbe
+newtab-spaces-tab-widgets = Pripomočki
+newtab-spaces-tab-activity = Dejavnost
 
 ## Search box component.
 
@@ -688,12 +732,24 @@ newtab-discovery-empty-section-topstories-timed-out = Ojoj! Nekaj se je zalomilo
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } od { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Prejšnja
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Naslednja
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Prekini samodejno predvajanje
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Nadaljuj samodejno predvajanje
 
 ## Pocket Content Section.
 

@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Dodaj nov vsebnik
     .style = min-width: 45em
+    .title = Dodaj nov vsebnik
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Nastavitve vsebnika { $name }
     .style = min-width: 45em
+    .title = Nastavitve vsebnika { $name }
 containers-window-close =
     .key = w
 containers-name-label2 =
@@ -33,16 +33,16 @@ containers-dialog2 =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Ime
-    .accesskey = m
     .style = { -containers-labels-style }
+    .accesskey = m
 containers-name-text =
     .placeholder = Vnesite ime vsebnika
 containers-icon-label = Ikona
+    .style = { -containers-labels-style }
     .accesskey = k
-    .style = { -containers-labels-style }
 containers-color-label = Barva
-    .accesskey = B
     .style = { -containers-labels-style }
+    .accesskey = B
 containers-dialog =
     .buttonlabelaccept = Končaj
     .buttonaccesskeyaccept = K
@@ -93,13 +93,13 @@ containers-icon-tree =
 containers-icon-chill =
     .label = Kul
 containers-window-new3 =
-    .title = Dodaj nov vsebnik
     .style = min-width: 32em
+    .title = Dodaj nov vsebnik
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings3 =
-    .title = Nastavitve vsebnika { $name }
     .style = min-width: 32em
+    .title = Nastavitve vsebnika { $name }
 
 ## Dialog that binds a website to a container.
 
@@ -113,6 +113,12 @@ containers-site-container-label =
 containers-site-dialog =
     .buttonlabelaccept = Shrani
     .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Vnesite veljaven spletni naslov z varno povezavo
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = To spletno mesto je že na seznamu
 
 ## Container creation panel, anchored to the URL bar.
 

@@ -1251,6 +1251,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Izberi vsebnik za vsak nov zavihek
     .accesskey = s
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Ne uporabljaj vsebnikov za povezave, odprte iz zunanjih programov
+    .accesskey = N
 containers-new-tab-check2 =
     .description = Meni vsebnikov se bo odprl vsakič, ko pritisnete gumb za odpiranje novega zavihka.
     .label = Izberi vsebnik za vsak nov zavihek
@@ -1259,9 +1265,16 @@ containers-settings-button2 =
     .title = Nastavitve
 containers-remove-button3 =
     .title = Izbriši
+containers-sites-card-header =
+    .description = Izberite, kateri vsebnik naj { -brand-short-name } uporabi za odpiranje katerega spletnega mesta.
+    .label = Vsebniki za posamezna spletna mesta
 containers-sites-add-button =
     .label = Dodaj spletno mesto
     .accesskey = D
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Vsebnik za { $site }
 containers-site-remove-button =
     .title = Izbriši
 containers-remove-button2 =
