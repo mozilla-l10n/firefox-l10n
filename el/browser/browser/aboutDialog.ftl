@@ -72,7 +72,7 @@ helpus-referrals2 = Θέλετε να βοηθήσετε; <label data-l10n-name=
 helpus-referrals = Θέλετε να βοηθήσετε; <label data-l10n-name="helpus-donateLink">Κάντε μια δωρεά</label>, <label data-l10n-name="helpus-shareFirefoxLink">μοιραστείτε το { -brand-short-name }</label> ή <label data-l10n-name="helpus-getInvolvedLink">συμμετάσχετε στο έργο!</label>
 bottomLinks-license = Πληροφορίες άδειας
 bottom-links-terms = Όροι χρήσης
-bottom-links-privacy = Σημείωση απορρήτου
+bottom-links-privacy = Δήλωση απορρήτου
 bottomLinks-rights = Δικαιώματα χρήστη
 bottomLinks-privacy = Πολιτική απορρήτου
 # Example of resulting string: 66.0.1 (64-bit)

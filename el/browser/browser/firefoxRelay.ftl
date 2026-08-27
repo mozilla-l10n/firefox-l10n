@@ -13,7 +13,7 @@ firefox-relay-get-reusable-masks-failed = Το { -relay-brand-name } δεν μπ
 
 ##
 
-firefox-relay-must-login-to-fxa = Πρέπει να συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας για να χρησιμοποιήσετε το { -relay-brand-name }.
+firefox-relay-must-login-to-fxa = Πρέπει να συνδεθείτε στον { -fxaccount-brand-name(capitalization: "lower", case: "acc") } σας για να χρησιμοποιήσετε το { -relay-brand-name }.
 firefox-relay-must-login-to-account = Συνδεθείτε στον λογαριασμό σας για να χρησιμοποιήσετε τις μάσκες email του { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Διαχείριση μασκών
@@ -73,7 +73,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Αρχικά, εγγραφείτε ή συνδεθείτε στον λογαριασμό σας για να χρησιμοποιήσετε μια μάσκα email
-firefox-relay-offer-legal-notice-control = Κάνοντας εγγραφή και δημιουργία μιας μάσκας email, συμφωνείτε με τους <label data-l10n-name="tos-url">Όρους υπηρεσίας</label> και τη <label data-l10n-name="privacy-url">Σημείωση απορρήτου</label>.
+firefox-relay-offer-legal-notice-control = Κάνοντας εγγραφή και δημιουργία μιας μάσκας email, αποδέχεστε τους <label data-l10n-name="tos-url">Όρους παροχής υπηρεσιών</label> και τη <label data-l10n-name="privacy-url">Δήλωση απορρήτου</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 

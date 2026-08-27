@@ -1657,8 +1657,8 @@ firefox-relay-offer-why-to-use-relay = Οι ασφαλείς και εύχρησ
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Όλα τα email που αποστέλλονται στις μάσκες email σας θα προωθούνται στο <strong>{ $useremail }</strong> (εκτός εάν αποφασίσετε να τα αποκλείσετε).
-firefox-relay-offer-legal-notice = Κάνοντας κλικ στο «Χρήση μάσκας email», συμφωνείτε με τους <label data-l10n-name="tos-url">Όρους υπηρεσίας</label> και τη <label data-l10n-name="privacy-url">Σημείωση απορρήτου </label>.
-firefox-relay-offer-legal-notice-1 = Κάνοντας εγγραφή και δημιουργία μιας μάσκας email, συμφωνείτε με τους <label data-l10n-name="tos-url">Όρους υπηρεσίας</label> και τη <label data-l10n-name="privacy-url">Σημείωση απορρήτου</label>.
+firefox-relay-offer-legal-notice = Κάνοντας κλικ στο «Χρήση μάσκας email», αποδέχεστε τους <label data-l10n-name="tos-url">Όρους παροχής υπηρεσιών</label> και τη <label data-l10n-name="privacy-url">Δήλωση απορρήτου </label>.
+firefox-relay-offer-legal-notice-1 = Κάνοντας εγγραφή και δημιουργία μιας μάσκας email, αποδέχεστε τους <label data-l10n-name="tos-url">Όρους παροχής υπηρεσιών</label> και τη <label data-l10n-name="privacy-url">Δήλωση απορρήτου</label>.
 
 ## Add-on Pop-up Notifications
 

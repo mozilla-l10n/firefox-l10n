@@ -110,7 +110,7 @@ unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Α�
 unauthenticated-private-location-message = Βοηθά στο να <a data-l10n-name="learn-more-vpn">παραμένει ιδιωτική η τοποθεσία σας</a> στο { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Επιλέξτε ανάμεσα σε πολλαπλές τοποθεσίες ή αφήστε το { -brand-product-name } να επιλέξει την πιο γρήγορη.
 unauthenticated-get-started = Έναρξη
-unauthenticated-terms-of-service-privacy-notice = Συνεχίζοντας, αποδέχεστε τους <a data-l10n-name="vpn-terms-of-service">Όρους υπηρεσίας</a> και τη <a data-l10n-name="vpn-privacy-notice">Σημείωση απορρήτου</a>.
+unauthenticated-terms-of-service-privacy-notice = Συνεχίζοντας, αποδέχεστε τους <a data-l10n-name="vpn-terms-of-service">Όρους παροχής υπηρεσιών</a> και τη <a data-l10n-name="vpn-privacy-notice">Δήλωση απορρήτου</a>.
 site-exclusion-toggle-enabled-1 =
     .aria-label = Το VPN είναι ενεργό για αυτόν τον ιστότοπο
     .label = Χρήση VPN για αυτόν τον ιστότοπο

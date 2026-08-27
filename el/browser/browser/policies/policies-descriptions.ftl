@@ -49,7 +49,7 @@ policy-DisableDefaultBrowserAgent = Αποτροπή οποιασδήποτε ε
 policy-DisableDeveloperTools = Αποκλεισμός πρόσβασης στα εργαλεία ανάπτυξης.
 policy-DisableEncryptedClientHello = Απενεργοποίηση χρήσης λειτουργίας TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Απενεργοποίηση εντολών για αποστολή σχολίων από το μενού «Βοήθεια» («Υποβολή σχολίων» και «Αναφορά παραπλανητικού ιστοτόπου»).
-policy-DisableFirefoxAccounts = Απενεργοποίηση υπηρεσιών { -fxaccount-brand-name(case: "gen", capitalization: "lower") }, καθώς και του συγχρονισμού.
+policy-DisableFirefoxAccounts = Απενεργοποίηση υπηρεσιών { -fxaccount-brand-name(capitalization: "lower", case: "gen") }, καθώς και του συγχρονισμού.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Απενεργοποίηση υπηρεσιών που βασίζονται σε λογαριασμό, συμπεριλαμβανομένου του συγχρονισμού.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -88,7 +88,7 @@ policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Απενεργο�
 policy-Extensions = Εγκατάσταση, αφαίρεση ή κλείδωμα επεκτάσεων. Η επιλογή εγκατάστασης παίρνει ως παραμέτρους τα URL ή τις διαδρομές. Οι επιλογές αφαίρεσης και κλειδώματος παίρνουν τα ID επεκτάσεων.
 policy-ExtensionSettings = Διαχείριση όλων των πτυχών της εγκατάστασης επεκτάσεων.
 policy-ExtensionUpdate = Ενεργοποίηση ή απενεργοποίηση αυτόματων ενημερώσεων επεκτάσεων.
-policy-FirefoxHome2 = Διαμόρφωση της { -firefox-home-brand-name(case: "gen", capitalization: "upper") }.
+policy-FirefoxHome2 = Διαμόρφωση της { -firefox-home-brand-name(capitalization: "upper", case: "gen") }.
 policy-FirefoxSuggest = Ρύθμιση των { -firefox-suggest-brand-name(case: "gen") }.
 policy-GenerativeAI = Ρύθμιση λειτουργιών δημιουργικής τεχνητής νοημοσύνης.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Αναγκαστική πλοήγηση στον ιστότοπο ενδοδικτύου, αντί για αναζήτηση κατά την πληκτρολόγηση μίας λέξης στη γραμμή διευθύνσεων.
@@ -148,7 +148,7 @@ policy-SecurityDevices2 = Προσθήκη ή διαγραφή μονάδων PK
 policy-ShowHomeButton = Εμφάνιση του κουμπιού αρχικής σελίδας στη γραμμή εργαλείων.
 policy-SitePolicies = Πολιτικές συγκεκριμένων ιστοτόπων.
 # ”You represent that...” means ”You confirm/declare that...”
-policy-SkipTermsOfUse2 = Να μην εμφανίζονται οι Όροι χρήσης και η Σημείωση απορρήτου κατά την εκκίνηση. Δηλώνετε ότι αποδέχεστε και έχετε την εξουσιοδότηση να αποδεχτείτε τους Όρους χρήσης εκ μέρους όλων των ατόμων στα οποία παρέχετε πρόσβαση σε αυτό το πρόγραμμα περιήγησης.
+policy-SkipTermsOfUse2 = Να μην εμφανίζονται οι Όροι χρήσης και η Δήλωση απορρήτου κατά την εκκίνηση. Δηλώνετε ότι αποδέχεστε και έχετε την εξουσιοδότηση να αποδεχτείτε τους Όρους χρήσης εκ μέρους όλων των ατόμων στα οποία παρέχετε πρόσβαση σε αυτό το πρόγραμμα περιήγησης.
 policy-SSLVersionMax = Ορισμός μέγιστης έκδοσης SSL.
 policy-SSLVersionMin = Ορισμός ελάχιστης έκδοσης SSL.
 policy-StartDownloadsInTempDirectory = Εξαναγκαστική έναρξη λήψεων σε μια τοπική, προσωρινή τοποθεσία και όχι στον προεπιλεγμένο κατάλογο λήψεων.

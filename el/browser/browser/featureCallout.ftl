@@ -244,7 +244,7 @@ sidebar-customization-callout-2-subtitle = Προσθέστε και αφαιρ�
 
 sidebar-callout-survey-title = Βοηθήστε στη βελτίωση του { -brand-short-name }
 sidebar-callout-survey-satisfaction-question = Πόσο ικανοποιημένοι είστε με την εμπειρία της πλαϊνής γραμμής στο { -brand-short-name };
-sidebar-callout-survey-privacy-notice-link = Σημείωση απορρήτου
+sidebar-callout-survey-privacy-notice-link = Δήλωση απορρήτου
 sidebar-callout-survey-very-satisfied = Πολύ ικανοποιημένος/-η
 sidebar-callout-survey-satisfied = Ικανοποιημένος/-η
 sidebar-callout-survey-neutral = Ουδέτερος/-η

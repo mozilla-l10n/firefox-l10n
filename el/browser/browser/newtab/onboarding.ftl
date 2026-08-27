@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Προσθήκη του { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Πρόοδος: βήμα { $current } από { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -232,11 +226,6 @@ mr2022-onboarding-set-default-subtitle = Χρησιμοποιήστε ένα π�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Η πιο πρόσφατη έκδοσή μας έχει προσαρμοστεί στις ανάγκες σας, κάνοντας πιο εύκολη από ποτέ την περιήγησή σας στο διαδίκτυο. Είναι γεμάτη με λειτουργίες που πιστεύουμε ότι θα λατρέψετε.
 mr2022-onboarding-get-started-primary-button-label = Ρύθμιση σε δευτερόλεπτα
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-header = Αστραπιαία ρύθμιση
 mr2022-onboarding-import-subtitle = Ρυθμίστε το { -brand-short-name } όπως σας αρέσει. Προσθέστε σελιδοδείκτες, κωδικούς πρόσβασης και πολλά άλλα από το παλιό σας πρόγραμμα περιήγησης.
 mr2022-onboarding-import-primary-button-label-no-attribution = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
@@ -343,7 +332,7 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Μια αλεπού χαιρετά στην οθόνη ενός φορητού υπολογιστή. Έχει συνδεθεί ένα ποντίκι στον φορητό υπολογιστή.
 onboarding-device-migration-title = Καλώς ορίσατε και πάλι!
-onboarding-device-migration-subtitle = Συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας για να έχετε μαζί σας τους σελιδοδείκτες, τους κωδικούς πρόσβασης και το ιστορικό σας στη νέα σας συσκευή.
+onboarding-device-migration-subtitle = Συνδεθείτε στον { -fxaccount-brand-name(capitalization: "lower", case: "acc") } σας για να έχετε μαζί σας τους σελιδοδείκτες, τους κωδικούς πρόσβασης και το ιστορικό σας στη νέα σας συσκευή.
 onboarding-device-migration-subtitle2 = Συνδεθείτε στον λογαριασμό σας για να μεταφέρετε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και το ιστορικό σας στη νέα σας συσκευή.
 onboarding-device-migration-primary-button-label = Σύνδεση
 
@@ -379,7 +368,7 @@ onboarding-new-user-familiarity-based-survey-title = Πόσο εξοικειωμ
 onboarding-new-user-survey-subtitle = Τα σχόλιά σας κάνουν το { -brand-short-name } ακόμα καλύτερο.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Επόμενο
-onboarding-new-user-survey-legal-link-label = Επιλέγοντας «{ onboarding-new-user-survey-next-button-label }», συμφωνείτε με τη <a data-l10n-name="privacy_notice">Σημείωση απορρήτου</a> του { -brand-product-name }
+onboarding-new-user-survey-legal-link-label = Επιλέγοντας «{ onboarding-new-user-survey-next-button-label }», αποδέχεστε τη <a data-l10n-name="privacy_notice">Δήλωση απορρήτου</a> του { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Είμαι αρχάριος
 onboarding-new-user-survey-time-based-option-2 = Λιγότερο από έναν μήνα
@@ -610,7 +599,7 @@ smartwindow-switcher-callout = Κάντε εναλλαγή μεταξύ έξυπ
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Όροι χρήσης του { -brand-product-name }
-smartwindow-existing-user-fx-tou-body = Για να χρησιμοποιήσετε το { -smart-window-brand-name }, αποδεχτείτε τους <a data-l10n-name="terms_of_use">Όρους χρήσης</a> και την ενημερωμένη <a data-l10n-name="privacy_notice">Σημείωση απορρήτου</a>.
+smartwindow-existing-user-fx-tou-body = Για να χρησιμοποιήσετε το { -smart-window-brand-name }, αποδεχτείτε τους <a data-l10n-name="terms_of_use">Όρους χρήσης</a> και την ενημερωμένη <a data-l10n-name="privacy_notice">Δήλωση απορρήτου</a>.
 smartwindow-existing-user-fx-tou-accept = Αποδοχή
 smartwindow-existing-user-fx-tou-go-back = Επιστροφή
 

@@ -665,7 +665,7 @@ newtab-section-menu-add-topsite = Προσθήκη κορυφαίου ιστοτ
 newtab-section-menu-add-search-engine = Προσθήκη μηχανής αναζήτησης
 newtab-section-menu-move-up = Μετακίνηση πάνω
 newtab-section-menu-move-down = Μετακίνηση κάτω
-newtab-section-menu-privacy-notice = Σημείωση απορρήτου
+newtab-section-menu-privacy-notice = Δήλωση απορρήτου
 
 ## Section aria-labels
 
