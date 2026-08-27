@@ -31,6 +31,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Όχι τώρα
     .accessKey = χ
+address-capture-never-save-addresses-button =
+    .label = Να μην αποθηκεύονται ποτέ διευθύνσεις
+    .accessKey = ν
 address-capture-never-save-button =
     .label = Ποτέ αποθήκευση
     .accessKey = v
@@ -61,11 +64,6 @@ autofill-address-name = Όνομα
 autofill-address-organization = Εταιρεία
 autofill-address-street-address = Διεύθυνση
 autofill-address-street = Διεύθυνση
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = Γειτονιά
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -73,11 +71,6 @@ autofill-address-village-township = Χωριό ή κωμόπολη
 autofill-address-island = Νησί
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = Κοινότητα
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Πόλη
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -87,11 +80,6 @@ autofill-address-post-town = Πόλη αποστολής
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = Προάστιο
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Επαρχία
 autofill-address-state = Περιφέρεια
 autofill-address-county = Κομητεία
@@ -109,11 +97,6 @@ autofill-address-department = Τμήμα
 autofill-address-emirate = Εμιράτο
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = Oblast
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = Pin
 autofill-address-postal-code = Ταχυδρομικός κώδικας
@@ -132,6 +115,7 @@ autofill-address-tel = Τηλέφωνο
 autofill-address-email = Email
 autofill-cancel-button = Ακύρωση
 autofill-save-button = Αποθήκευση
+autofill-country-warning-message-2 = Η αυτόματη συμπλήρωση φορμών διατίθεται προς το παρόν μόνο σε ορισμένες χώρες.
 autofill-country-warning-message = Η αυτόματη συμπλήρωση φορμών διατίθεται μόνο σε ορισμένες χώρες προς το παρόν.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Προσθήκη νέας πιστωτικής κάρτας

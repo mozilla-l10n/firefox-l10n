@@ -38,6 +38,15 @@ neterror-disable-native-feedback-warning = Πάντα συνέχεια
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
 ## derived from the address that failed to resolve.
 
+neterror-search-cta-title = Δεν είναι δυνατή η πρόσβαση σε αυτόν τον ιστότοπο
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Δεν είναι δυνατή η σύνδεση στον διακομιστή στο { $domain }.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Δοκιμάστε αυτά τα βήματα:
+neterror-search-cta-hint-check-address = Ελέγξτε ξανά αυτή τη διεύθυνση του ιστοτόπου
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Κάντε αναζήτηση στο διαδίκτυο για να βρείτε τον ιστότοπο
 neterror-search-cta-reload-button =
     .label = Ανανέωση
     .accesskey = Α

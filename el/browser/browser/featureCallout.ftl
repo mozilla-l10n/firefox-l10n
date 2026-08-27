@@ -139,8 +139,12 @@ taskbar-tabs-value-prop-callout-subtitle = Εκκινήστε το σε δικό
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Μείνετε συνδεδεμένοι μέσω της γραμμής εργασιών σας
 taskbar-tabs-email-callout-title-v3 = Κρατήστε τα εισερχόμενα σας στη γραμμή εργασιών
 taskbar-tabs-email-callout-subtitle-v3 = Εκκινήστε τους ιστοτόπους εμαιλ σας σαν εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Διατηρήστε το streaming στη γραμμή εργασιών σας
 taskbar-tabs-media-callout-subtitle-v3 = Εκκινήστε τους ιστοτόπους πολυμέσων σας μια εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title-v3 = Καρφιτσώστε τις αγαπημένες σας ιστοσελίδες στη γραμμή εργασιών
 taskbar-tabs-value-prop-callout-subtitle-v3 = Εκκινήστε οποιοδήποτε ιστότοπο σαν εφαρμογή, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.

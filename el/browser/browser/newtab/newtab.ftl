@@ -359,8 +359,42 @@ newtab-stocks-ticker-status-down = { $name }, πτώση { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, χωρίς μεταβολή, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = Προσθήκη του { $name } στη λίστα παρακολούθησης
+    .title = Προσθήκη του { $name } στη λίστα παρακολούθησης
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = Αφαίρεση του { $name } από τη λίστα παρακολούθησης
+    .title = Αφαίρεση του { $name } από τη λίστα παρακολούθησης
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = Το { $name } βρίσκεται στη λίστα παρακολούθησής σας
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = Προστέθηκε το { $name } στη λίστα παρακολούθησης
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Αφαιρέθηκε το { $name } από τη λίστα παρακολούθησης
+
 ## Stocks widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Αναζήτηση με όνομα ή σύμβολο
+    .placeholder = Αναζήτηση με όνομα ή σύμβολο
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
@@ -371,8 +405,22 @@ newtab-stocks-search-results =
 newtab-stocks-search-back-button =
     .aria-label = Πίσω
     .title = Πίσω
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Κανένα αποτέλεσμα για «{ $query }»
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = Φόρτωση…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Δεν ήταν δυνατή η αναζήτηση αυτήν τη στιγμή. Δοκιμάστε ξανά αργότερα.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Μπορείτε να προσθέσετε έως και { $limit } μετοχή. Αφαιρέστε μία για να προσθέσετε κάποια άλλη.
+       *[other] Μπορείτε να προσθέσετε έως και { $limit } μετοχές. Αφαιρέστε μία για να προσθέσετε κάποια άλλη.
+    }
 
 ## Strings for the Picture of the Day widget
 

@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Απόρριψη
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Πάρτε μαζί σας το ενσωματωμένο VPN στο Android
+ipprotection-android-promo-callout-description = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-product-name } για Android και ενεργοποιήστε το ενσωματωμένο VPN για περισσότερη ιδιωτικότητα εν κινήσει. Σύντομα και στο iOS.
 ipprotection-android-promo-callout-primary-button = Το κατάλαβα
 
 ## Panel

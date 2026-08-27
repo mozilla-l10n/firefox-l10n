@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Βοηθητικό πρόγραμμ
 process-type-utility-actor-js-oracle = Βοηθητικό πρόγραμμα JavaScript Oracle
 process-type-utility-actor-windows-utils = Βοηθητικό πρόγραμμα Windows Utils
 process-type-utility-actor-windows-file-dialog = Βοηθητικό πρόγραμμα παραθύρου διαλόγου αρχείων των Windows
+process-type-utility-actor-hw-inference = Utility Hardware Accelerated Inference
 
 ##
 ## Other

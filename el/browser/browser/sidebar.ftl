@@ -82,6 +82,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ανάπτυξη πλαϊνής γραμμής με το πέρασμα του κέρσορα
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Εμφάνιση προεπισκόπησης με κατάδειξη
 sidebar-manage-extensions2 = Διαχείριση όλων των επεκτάσεων
 sidebar-customize-extensions-header2 = Επεκτάσεις
 sidebar-customize-firefox-tools-header2 =
@@ -168,6 +172,11 @@ sidebar-opentabs-sort-option-recency =
 # in the sidebar. "Recent tabs" refers to the tabs that were active most
 # recently, not to tabs that were recently opened.
 sidebar-opentabs-preview-heading = Πρόσφατες καρτέλες
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = Κλείσιμο του «{ $tabTitle }»
 # Tooltip for the button that mutes a tab from the Open Tabs hover preview.
 sidebar-opentabs-preview-mute-tab =
     .title = Σίγαση καρτέλας
