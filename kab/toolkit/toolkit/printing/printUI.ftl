@@ -26,6 +26,12 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Anɣalen
 printui-orientation = Taɣda
+printui-landscape-2 =
+    .label = S tehri
+    .title = S tehri
+printui-portrait-2 =
+    .label = S teɣzi
+    .title = S teɣzi
 printui-landscape = S tehri
 printui-portrait = S teɣzi
 # Section title for the printer or destination device to target
