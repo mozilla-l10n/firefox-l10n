@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Monguatiapyre
 printui-orientation = Moma’ẽ
+printui-orientation-control =
+    .aria-label = Moma’ẽ
+printui-landscape-2 =
+    .label = Oñenóva
+    .title = Oñenóva
+printui-portrait-2 =
+    .label = Avara’ãnga
+    .title = Avara’ãnga
 printui-landscape = Oñenóva
 printui-portrait = Avara’ãnga
 # Section title for the printer or destination device to target
