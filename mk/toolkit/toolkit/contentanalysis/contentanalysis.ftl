@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-warndialog-response-deny = Откажи
+contentanalysis-notification-title = Анализа на содржина
