@@ -25,6 +25,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Eksemplarid
 printui-orientation = Asend
+printui-orientation-control =
+    .aria-label = Asend
+printui-landscape-2 =
+    .label = Rõhtpaigutus
+    .title = Rõhtpaigutus
+printui-portrait-2 =
+    .label = Püstpaigutus
+    .title = Püstpaigutus
 printui-landscape = Rõhtpaigutus
 printui-portrait = Püstpaigutus
 # Section title for the printer or destination device to target
