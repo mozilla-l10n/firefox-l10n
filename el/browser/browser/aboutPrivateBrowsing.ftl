@@ -29,9 +29,6 @@ about-private-browsing-prominent-cta = Προστατέψτε το απόρρη�
 about-private-browsing-focus-promo-cta = Λήψη του { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ιδιωτική περιήγηση εν κινήσει
 about-private-browsing-focus-promo-text = Η εφαρμογή ιδιωτικής περιήγησής μας για κινητές συσκευές διαγράφει το ιστορικό και τα cookie σας κάθε φορά.
-
-##
-
 about-private-browsing-focus-promo-header-b = Πάρτε την ιδιωτική περιήγηση στο τηλέφωνό σας
 about-private-browsing-focus-promo-text-b = Χρησιμοποιήστε το { -focus-brand-name } για τις ιδιωτικές αναζητήσεις που δεν θέλετε να βλέπει το κύριο πρόγραμμα περιήγησής σας.
 about-private-browsing-focus-promo-header-c = Απόρρητο ανώτερου επιπέδου στο κινητό
@@ -60,6 +57,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] Καρφίτσωμα στη γραμμή εργασιών
     }
 about-private-browsing-pin-promo-title = Χωρίς αποθήκευση cookie ή ιστορικού, απευθείας από την επιφάνεια εργασίας σας. Περιηγηθείτε σαν να μην σας παρακολουθεί κανείς.
+
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-title = Αποκρύψτε την πραγματική σας διεύθυνση με μια μάσκα email κατά την εγγραφή σε ιστοτόπους, τις αγορές ή την κοινοποίησή της στο διαδίκτυο.
+about-private-browsing-relay-promo-link-text = Δοκιμή μασκών email
 
 ## Strings used in a promotion message for cookie banner reduction
 

@@ -47,11 +47,25 @@ neterror-search-cta-things-to-try = Δοκιμάστε αυτά τα βήματ�
 neterror-search-cta-hint-check-address = Ελέγξτε ξανά αυτή τη διεύθυνση του ιστοτόπου
 # Shown when no Search button is offered, so no specific query can be named.
 neterror-search-cta-hint-search = Κάντε αναζήτηση στο διαδίκτυο για να βρείτε τον ιστότοπο
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Κάντε αναζήτηση στο διαδίκτυο για το <strong>«{ $query }»</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Αναζήτηση
+    .tooltiptext = Ανοίγει τα αποτελέσματα αναζήτησης σε νέα καρτέλα
+    .accesskey = σ
 neterror-search-cta-reload-button =
     .label = Ανανέωση
     .accesskey = Α
 # Shown in place of the Search button while the search option is being prepared.
 neterror-search-cta-loading = Φόρτωση
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Φαίνεται ότι είστε εκτός σύνδεσης. Συνδεθείτε εκ νέου και δοκιμάστε ξανά.
 # $error (String) - The error code, for example "dnsNotFound".
 neterror-search-cta-error-code = Κωδικός σφάλματος: { $error }
 # The search CTA's own "Learn more" link text (no trailing ellipsis).

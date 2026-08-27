@@ -8,4 +8,5 @@
 ### be displayed inline, but the user can still open or download it according to
 ### their PDF handling settings.
 
+pdfjs-embed-fallback-message = Δεν είναι δυνατή η προβολή αυτού του PDF εδώ.
 pdfjs-embed-fallback-open-button = Άνοιγμα PDF

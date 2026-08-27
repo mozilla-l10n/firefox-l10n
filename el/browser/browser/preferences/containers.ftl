@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Προσθήκη νέας θεματικής ενότητας
     .style = min-width: 45em
+    .title = Προσθήκη νέας θεματικής ενότητας
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Ρυθμίσεις θεματικής ενότητας «{ $name }»
     .style = min-width: 45em
+    .title = Ρυθμίσεις θεματικής ενότητας «{ $name }»
 containers-window-close =
     .key = w
 containers-name-label2 =
@@ -33,16 +33,16 @@ containers-dialog2 =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Όνομα
-    .accesskey = ν
     .style = { -containers-labels-style }
+    .accesskey = ν
 containers-name-text =
     .placeholder = Εισαγάγετε το όνομα θεματικής ενότητας
 containers-icon-label = Εικονίδιο
+    .style = { -containers-labels-style }
     .accesskey = Ε
-    .style = { -containers-labels-style }
 containers-color-label = Χρώμα
-    .accesskey = ρ
     .style = { -containers-labels-style }
+    .accesskey = ρ
 containers-dialog =
     .buttonlabelaccept = Τέλος
     .buttonaccesskeyaccept = Τ
@@ -93,21 +93,32 @@ containers-icon-tree =
 containers-icon-chill =
     .label = Ξεκούραση
 containers-window-new3 =
-    .title = Προσθήκη νέας θεματικής ενότητας
     .style = min-width: 35em
+    .title = Προσθήκη νέας θεματικής ενότητας
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings3 =
-    .title = Ρυθμίσεις θεματικής ενότητας «{ $name }»
     .style = min-width: 35em
+    .title = Ρυθμίσεις θεματικής ενότητας «{ $name }»
 
 ## Dialog that binds a website to a container.
 
 containers-site-window =
     .title = Προσθήκη ιστοτόπου
+containers-site-label =
+    .label = Ιστότοπος
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Θεματική ενότητα
 containers-site-dialog =
     .buttonlabelaccept = Αποθήκευση
     .buttonaccesskeyaccept = Α
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Εισαγάγετε έναν έγκυρο, ασφαλή ιστότοπο
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Αυτός ο ιστότοπος βρίσκεται ήδη στη λίστα σας
 
 ## Container creation panel, anchored to the URL bar.
 

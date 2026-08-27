@@ -19,6 +19,8 @@ share-panel-os-share =
     .label = Κοινή χρήση με…
 share-panel-mail =
     .label = Αποστολή email
+share-panel-screenshot =
+    .label = Λήψη στιγμιότυπου οθόνης
 share-panel-qr-code =
     .label = Κοινοποίηση κωδικού QR
 # This string is shown when the user has more than 1 device signed in to their account.
