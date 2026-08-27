@@ -207,6 +207,12 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokkerer sporere mens du surfer. Du ser dem her.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Raskere surfing. Færre sporere.
+newtab-privacy-etp-off-turn-on-tracking = Slå på sporingsbeskyttelse i innstillingene for å starte blokkering.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
