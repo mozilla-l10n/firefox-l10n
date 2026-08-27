@@ -8,5 +8,5 @@
 ### be displayed inline, but the user can still open or download it according to
 ### their PDF handling settings.
 
-pdfjs-embed-fallback-message = Ce PDF ne peut pas être affiché ici.
-pdfjs-embed-fallback-open-button = Ouvrir un PDF
+pdfjs-embed-fallback-message = Impossible d’afficher ce PDF ici.
+pdfjs-embed-fallback-open-button = Ouvrir le PDF

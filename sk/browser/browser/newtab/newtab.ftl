@@ -212,6 +212,12 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokuje sledovacie prvky počas prehliadania. Uvidíte ich tu.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Rýchlejšie prehliadanie. Menej sledovacích prvkov.
+newtab-privacy-etp-off-turn-on-tracking = Ak chcete začať blokovať sledovanie, zapnite si v nastaveniach ochranu pred sledovaním.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched

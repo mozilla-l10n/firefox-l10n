@@ -770,7 +770,7 @@ newtab-carousel-next =
     .aria-label = Suivant
 # Button that pauses autoplay on the carousel.
 newtab-carousel-pause =
-    .aria-label = Arrêter la lecture automatique
+    .aria-label = Suspendre la lecture automatique
 # Button that resumes autoplay on the carousel.
 newtab-carousel-play =
     .aria-label = Reprendre la lecture automatique

@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-sync-log-title = Les journaux de synchronisation
+about-sync-log-title = Journaux de synchronisation
 about-sync-log-page-header =
-    .description = Journaux de diagnostic écrits par Sync.
-    .heading = Les journaux de synchronisation
+    .description = Journaux de diagnostic générés par la synchronisation.
+    .heading = Journaux de synchronisation
 
 ## Filter controls
 
@@ -14,13 +14,13 @@ about-sync-log-filter-type =
 about-sync-log-filter-type-all =
     .label = Tout
 about-sync-log-filter-type-success =
-    .label = Succès
+    .label = Opération réussie
 about-sync-log-filter-type-error =
     .label = Erreur
 about-sync-log-filter-date =
     .aria-label = Date
 about-sync-log-filter-date-all =
-    .label = Toujours
+    .label = Depuis toujours
 about-sync-log-filter-date-today =
     .label = Aujourd’hui
 about-sync-log-filter-date-7days =
@@ -46,8 +46,8 @@ about-sync-log-clear-button =
 #   $count (Number) - Number of logs currently shown.
 about-sync-log-count =
     { $count ->
-        [one] { $count } de journal
-       *[other] { $count } journaux
+        [one] { $count } entrée
+       *[other] { $count } entrées
     }
 about-sync-log-badge-success = Opération réussie
 about-sync-log-badge-error = Erreur
@@ -63,7 +63,7 @@ about-sync-log-empty-filtered = Aucun journal ne correspond aux filtres actuels.
 about-sync-log-view-error = Impossible de lire ce fichier de journalisation.
 # Opens the raw log file in a new browser tab.
 about-sync-log-open-raw =
-    .label = Ouvrir brut
+    .label = Ouvrir le fichier brut
 
 ## Clear logs confirmation
 

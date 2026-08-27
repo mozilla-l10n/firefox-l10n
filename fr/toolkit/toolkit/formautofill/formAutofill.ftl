@@ -54,7 +54,7 @@ autofill-manage-payment-methods-label = Gérer les moyens de paiement
 # field is the card security code. The card's masked number is shown underneath
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-label = Code de vérification
+autofill-card-security-code-label = Cryptogramme visuel
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
