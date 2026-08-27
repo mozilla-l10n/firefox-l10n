@@ -26,6 +26,8 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Anɣalen
 printui-orientation = Taɣda
+printui-orientation-control =
+    .aria-label = Taɣda
 printui-landscape-2 =
     .label = S tehri
     .title = S tehri
