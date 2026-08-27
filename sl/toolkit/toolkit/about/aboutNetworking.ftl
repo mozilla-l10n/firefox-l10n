@@ -19,6 +19,61 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Potrjeno
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Izolacijski ključ
+about-networking-ssl-tokens = Žetoni TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } žeton
+        [two] { $count } žetona
+        [few] { $count } žetoni
+       *[other] { $count } žetonov
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } pretečen)
+        [two] ({ $count } pretečena)
+        [few] ({ $count } pretečeni)
+       *[other] ({ $count } pretečenih)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B (prihranek: { $saved } %)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used }/{ $capacity } KB ({ $percent } %)
+about-networking-ssl-tokens-tokens-column = Žetoni
+about-networking-ssl-tokens-expires = Poteče
+about-networking-ssl-tokens-certificate = Potrdilo
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } žeton
+        [two] { $count } žetona
+        [few] { $count } žetoni
+       *[other] { $count } žetonov
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Obnovljen iz shrambe
+    .title = Obnovljen iz shrambe
+about-networking-ssl-tokens-new =
+    .alt = Nov to sejo
+    .title = Nov to sejo
+about-networking-ssl-tokens-expired =
+    .alt = Pretečen
+    .title = Pretečen
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Žetoni: { $tokenLength } B. Kodirani: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = Potrdilo EV
+about-networking-ssl-tokens-ct-status = Stanje preglednosti potrdila
+about-networking-ssl-tokens-built-in-root = Vgrajen koren
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Veriga potrdil ({ $count })
 about-networking-refresh = Osveži
 about-networking-auto-refresh = Samodejno osveži vsake 3 sekunde
 about-networking-hostname = Ime gostitelja
