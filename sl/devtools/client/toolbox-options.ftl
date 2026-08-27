@@ -80,6 +80,28 @@ options-webconsole-split-console-tooltip =
 
 # The heading
 options-netmonitor-label = Spremljanje omrežja
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Največja dovoljena velikost telesa zahteve oz. odgovora (za neomejeno nastavite na 0):
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Neomejeno
+options-netmonitor-body-limit-button =
+    .title = Spremenite največjo dovoljeno velikost telesa zahteve/odgovora.
+options-netmonitor-body-limit-restore-default =
+    .title = Obnovite privzeto vrednost za največjo dovoljeno velikost telesa zahteve/odgovora.
+options-netmonitor-body-limit-set =
+    .title = Nastavi trenutno vhodno vrednost kot največjo dovoljeno velikost telesa zahteve/odgovora.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Poskusne zmogljivosti
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Prikaži slogovne predloge v razhroščevalniku
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Prikaži seznam slogovnih predlog v razhroščevalniku
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (zahteva ponovno odpiranje razvojnih orodij)
 
 ## Style Editor section
 
@@ -122,7 +144,14 @@ options-sourceeditor-keybinding-default-label = Privzeto
 
 ## Local Mode section
 
+# The heading
+options-local-mode-label = Lokalni način
+options-local-mode-domain-label = Domena po meri:
+options-local-mode-origin-invalid = Ta izvor je neveljaven
 options-local-mode-folder-label = Krajevna mapa:
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Ta mapa ne obstaja ali je neveljavna.
 options-local-mode-toggle-enable = Omogoči
 options-local-mode-toggle-disable = Onemogoči
 
