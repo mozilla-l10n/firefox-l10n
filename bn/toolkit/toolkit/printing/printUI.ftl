@@ -25,6 +25,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = কপি
 printui-orientation = অভিমুখ
+printui-orientation-control =
+    .aria-label = অভিমুখ
+printui-landscape-2 =
+    .label = আড়াআড়ি
+    .title = আড়াআড়ি
+printui-portrait-2 =
+    .label = লম্বালম্বি
+    .title = লম্বালম্বি
 printui-landscape = আড়াআড়ি
 printui-portrait = লম্বালম্বি
 # Section title for the printer or destination device to target
