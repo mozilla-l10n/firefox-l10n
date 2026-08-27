@@ -5,6 +5,12 @@
 printui-title = प्रिंट
 printui-page-range-all = सभी
 printui-page-range-label = पृष्ठ
+printui-landscape-2 =
+    .label = लैंडस्केप
+    .title = लैंडस्केप
+printui-portrait-2 =
+    .label = पोर्ट्रेट
+    .title = पोर्ट्रेट
 printui-landscape = लैंडस्केप
 printui-portrait = पोर्ट्रेट
 printui-destination-pdf-label = PDF में सहेजें
@@ -16,6 +22,11 @@ printui-two-sided-printing = दो तरफा प्रिंटिंग
 # Section title for miscellaneous print options
 printui-options = विकल्प
 printui-headers-footers-checkbox = हेडर और फुटर प्रिंट करें
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
 
 ##
 
