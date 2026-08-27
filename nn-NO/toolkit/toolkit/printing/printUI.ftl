@@ -26,6 +26,8 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Eksemplar
 printui-orientation = Papirretning
+printui-orientation-control =
+    .aria-label = Papirretning
 printui-landscape = Liggande (landscape)
 printui-portrait = Ståande (portrait)
 # Section title for the printer or destination device to target
