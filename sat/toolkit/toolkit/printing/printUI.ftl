@@ -27,6 +27,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = ᱱᱚᱠᱚᱞ ᱠᱚ
 printui-orientation = ᱚᱨᱤᱮᱱᱴᱮᱥᱚᱱ
+printui-orientation-control =
+    .aria-label = ᱚᱨᱤᱮᱱᱴᱮᱥᱚᱱ
+printui-landscape-2 =
+    .label = ᱞᱮᱱᱰᱥᱠᱮᱯ
+    .title = ᱞᱮᱱᱰᱥᱠᱮᱯ
+printui-portrait-2 =
+    .label = ᱯᱚᱴᱨᱮᱴ
+    .title = ᱯᱚᱴᱨᱮᱴ
 printui-landscape = ᱞᱮᱱᱰᱥᱠᱮᱯ
 printui-portrait = ᱯᱚᱴᱨᱮᱴ
 # Section title for the printer or destination device to target
