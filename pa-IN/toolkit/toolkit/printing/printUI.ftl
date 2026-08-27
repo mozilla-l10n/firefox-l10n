@@ -26,6 +26,14 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = ਕਾਪੀਆਂ
 printui-orientation = ਸਥਿਤੀ
+printui-orientation-control =
+    .aria-label = ਸਥਿਤੀ
+printui-landscape-2 =
+    .label = ਲੈਂਡਸਕੇਪ
+    .title = ਲੈਂਡਸਕੇਪ
+printui-portrait-2 =
+    .label = ਪੋਰਟਰੇਟ
+    .title = ਪੋਰਟਰੇਟ
 printui-landscape = ਲੈਂਡਸਕੇਪ
 printui-portrait = ਪੋਰਟਰੇਟ
 # Section title for the printer or destination device to target
