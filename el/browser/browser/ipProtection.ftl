@@ -110,13 +110,13 @@ unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Α�
 unauthenticated-private-location-message = Βοηθά στο να <a data-l10n-name="learn-more-vpn">παραμένει ιδιωτική η τοποθεσία σας</a> στο { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Επιλέξτε ανάμεσα σε πολλαπλές τοποθεσίες ή αφήστε το { -brand-product-name } να επιλέξει την πιο γρήγορη.
 unauthenticated-get-started = Έναρξη
-unauthenticated-terms-of-service-privacy-notice = Συνεχίζοντας, συμφωνείτε με τους <a data-l10n-name="vpn-terms-of-service">Όρους υπηρεσίας</a> και τη <a data-l10n-name="vpn-privacy-notice">Σημείωση απορρήτου</a>.
+unauthenticated-terms-of-service-privacy-notice = Συνεχίζοντας, αποδέχεστε τους <a data-l10n-name="vpn-terms-of-service">Όρους υπηρεσίας</a> και τη <a data-l10n-name="vpn-privacy-notice">Σημείωση απορρήτου</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Χρήση VPN για αυτόν τον ιστότοπο
     .aria-label = Το VPN είναι ενεργό για αυτόν τον ιστότοπο
-site-exclusion-toggle-disabled-1 =
     .label = Χρήση VPN για αυτόν τον ιστότοπο
+site-exclusion-toggle-disabled-1 =
     .aria-label = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
+    .label = Χρήση VPN για αυτόν τον ιστότοπο
 site-exclusion-toggle-description = Δεν λειτουργεί ο ιστότοπος; Δοκιμάστε να απενεργοποιήσετε το VPN.
 ipprotection-settings-link =
     .label = Ρυθμίσεις
@@ -233,11 +233,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Τα δεδομ�
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Ενσωματωμένο VPN για την ενίσχυση του απορρήτου σας κατά την περιήγηση με το { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Ενσωματωμένο VPN
     .description = Αποκτήστε επιπλέον ιδιωτικότητα αποκρύπτοντας την τοποθεσία σας κατά την περιήγηση.
+    .label = Ενσωματωμένο VPN
 ip-protection-learn-more = Μάθετε περισσότερα
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -248,12 +248,12 @@ ip-protection-not-opted-in-button = Έναρξη
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Διαχείριση ρυθμίσεων ιστοτόπων
     .description =
         { $count ->
             [one] { $count } ιστότοπος
            *[other] { $count } ιστότοποι
         }
+    .label = Διαχείριση ρυθμίσεων ιστοτόπων
 ip-protection-autostart =
     .label = Αυτόματη ενεργοποίηση του VPN
 ip-protection-autostart-checkbox =
@@ -261,11 +261,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Σε ιδιωτικά παράθυρα
 ip-protection-vpn-upgrade-link =
-    .label = Λάβετε ακόμα περισσότερη προστασία εκτός του { -brand-short-name } με το { -mozilla-vpn-brand-name }
     .description = Επιλέξτε προσαρμοσμένες τοποθεσίες VPN και προστατέψτε όλες σας τις εφαρμογές σε έως και πέντε συσκευές, είτε στο σπίτι είτε σε δημόσιο Wi-Fi.
+    .label = Λάβετε ακόμα περισσότερη προστασία εκτός του { -brand-short-name } με το { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Περαιτέρω προστασία με το { -mozilla-vpn-brand-name }
     .description = Επιλέξτε ανάμεσα σε 300+ τοποθεσίες και προστατέψτε όλες τις εφαρμογές σας σε έως και 5 συσκευές.
+    .label = Περαιτέρω προστασία με το { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 
