@@ -128,6 +128,7 @@ fxa-menu-sync-off-data-description = 데이터가 동기화되고 있지 않음
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = 켜기
+fxa-menu-sync-status-turn-on-button-aria-label = 켜기
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Sync에 로그인

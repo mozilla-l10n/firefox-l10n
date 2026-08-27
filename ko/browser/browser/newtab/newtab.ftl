@@ -195,6 +195,12 @@ newtab-privacy-across-sites = { $count }개 사이트에서
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name }는 탐색할 때 추적기를 차단합니다. 여기서 볼 수 있습니다.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = 더 빠른 탐색. 더 적은 추적기.
+newtab-privacy-etp-off-turn-on-tracking = 차단을 시작하려면 설정에서 추적 방지 기능을 켜세요.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
