@@ -70,6 +70,8 @@ about-networking-ssl-tokens-overridable-error = Felülírható hibakategória
 about-networking-ssl-tokens-built-in-root = Beépített gyökér
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Tanúsítványlánc ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Kézfogási tanúsítványok ({ $count })
 about-networking-refresh = Frissítés
 about-networking-auto-refresh = Autofrissítés 3 másodpercenként
 about-networking-hostname = Gépnév

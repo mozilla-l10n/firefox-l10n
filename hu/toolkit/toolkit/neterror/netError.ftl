@@ -44,17 +44,28 @@ neterror-search-cta-title = Ez a webhely nem érhető el
 neterror-search-cta-intro = Nem sikerült kapcsolódni a(z) { $domain } kiszolgálóhoz.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Próbálja ki ezeket a lépéseket:
+neterror-search-cta-hint-check-address = Ellenőrizze újra a webhely címét
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Keressen a weben az oldal megtalálásához
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Keresés a weben erre: <strong>„{ $query }”</strong>
 # .tooltiptext doubles as the button's accessible description, so it explains
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Keresés
-    .accesskey = K
     .tooltiptext = A keresési találatokat új lapon nyitja meg
+    .accesskey = K
 neterror-search-cta-reload-button =
     .label = Frissítés
     .accesskey = F
 # Shown in place of the Search button while the search option is being prepared.
 neterror-search-cta-loading = Betöltés
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Úgy tűnik, hogy jelenleg offline. Csatlakozzon újra, és próbálkozzon újra.
 # $error (String) - The error code, for example "dnsNotFound".
 neterror-search-cta-error-code = Hibakód: { $error }
 # The search CTA's own "Learn more" link text (no trailing ellipsis).

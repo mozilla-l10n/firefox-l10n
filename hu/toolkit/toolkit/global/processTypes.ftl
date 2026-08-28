@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Media Foundation Engine segédprogr
 process-type-utility-actor-js-oracle = JavaScript Oracle segédprogram
 process-type-utility-actor-windows-utils = Windows segédprogramok segédprogramja
 process-type-utility-actor-windows-file-dialog = Windowsos fájlválasztó párbeszédablak segédprogramja
+process-type-utility-actor-hw-inference = Hardveresen gyorsított következtetés segédfolyamata
 
 ##
 ## Other
