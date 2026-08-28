@@ -566,6 +566,8 @@ newtab-custom-widget-recent-searches-toggle =
     .label = Nesenie meklējumi
 newtab-custom-close-button = Aizvērt
 newtab-custom-settings = Pārvaldīt vairāk iestatījumu
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Izskats
 
 ## New Tab Wallpapers
 

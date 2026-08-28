@@ -227,7 +227,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Atcerēties šo izvēli
 webrtc-remember-allow-checkbox-camera = Atcerēties visām kamerām
-webrtc-remember-allow-checkbox-microphone = Atcerieties visiem mikrofoniem
+webrtc-remember-allow-checkbox-microphone = Atcerēties visiem mikrofoniem
 webrtc-remember-allow-checkbox-camera-and-microphone = Atcerēties visām kamerām un mikrofoniem
 webrtc-mute-notifications-checkbox = Kopīgošanas laikā izslēgt vietņu paziņojumus
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nevar atļaut pastāvīgu piekļuvi jūsu ekrānam.

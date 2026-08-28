@@ -22,8 +22,8 @@ tab-context-play-tabs =
     .label = Atskaņot cilnes
     .accesskey = t
 duplicate-tab =
-    .label = Dublēt cilni
-    .accesskey = D
+    .label = Pavairot cilni
+    .accesskey = P
 duplicate-tabs =
     .label = Dublēt cilnes
     .accesskey = D
@@ -98,10 +98,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Jauna grupa
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

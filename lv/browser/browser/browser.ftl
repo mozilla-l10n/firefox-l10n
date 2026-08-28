@@ -1182,13 +1182,13 @@ bookmarks-tools-sidebar-visibility =
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Slēpt grāmatzīmju rīkjoslu
+            [true] Paslēpt grāmatzīmju rīkjoslu
            *[other] Rādīt grāmatzīmju rīkjoslu
         }
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
-            [true] Slēpt grāmatzīmju rīkjoslu
+            [true] Paslēpt grāmatzīmju rīkjoslu
            *[other] Rādīt grāmatzīmju rīkjoslu
         }
 bookmarks-tools-menu-button-visibility =

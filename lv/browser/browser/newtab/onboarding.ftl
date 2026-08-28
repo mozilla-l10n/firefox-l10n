@@ -34,12 +34,6 @@ mr1-return-to-amo-add-extension-label = Pievienot { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progress: solis { $current } no { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -50,7 +44,7 @@ mr1-onboarding-sign-in-button-label = Ierakstīties
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importēt no { $previous }
-mr1-onboarding-theme-header = Padariet to par savu
+mr1-onboarding-theme-header = Padari to par savu
 mr1-onboarding-theme-subtitle = Personalizējiet { -brand-short-name } ar motīvu.
 mr1-onboarding-theme-secondary-button-label = Ne tagad
 # System theme uses operating system color settings
@@ -161,7 +155,7 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Importēt no iepriekšējā
 # In this context, open up is synonymous with "Discover".
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
-mr2022-onboarding-welcome-pin-header = Atveriet brīnišķīgo internetu
+mr2022-onboarding-welcome-pin-header = Atklāj brīnišķīgo internetu
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = Palaidiet { -brand-short-name } no jebkuras vietas ar vienu klikšķi. To darot, jūs izvēlaties atvērtāku un neatkarīgāku tīmekli.
 # Primary button string used on welcome page for when Firefox is not pinned.
@@ -192,7 +186,7 @@ mr2022-onboarding-existing-pin-checkbox-label = Pievienojiet arī { -brand-short
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
-mr2022-onboarding-set-default-title = Padariet { -brand-short-name } par savu ierasto pārlūku
+mr2022-onboarding-set-default-title = Padari { -brand-short-name } par savu ierasto pārlūku
 mr2022-onboarding-set-default-primary-button-label = Iestatīt { -brand-short-name } kā noklusējuma pārlūku
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
@@ -206,11 +200,6 @@ mr2022-onboarding-set-default-subtitle = Lietojiet pārlūku, ko atbalsta bezpe�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Mūsu jaunākā versija ir veidota jums, padarot to vienkāršāku nekā jebkad agrāk. Tas ir aprīkots ar funkcijām, kuras, mūsuprāt, jums patiks.
 mr2022-onboarding-get-started-primary-button-label = Iestatiet dažās sekundēs
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-header = Zibens ātra iestatīšana
 mr2022-onboarding-import-subtitle = Iestatiet { -brand-short-name }, kā jums patīk. Pievienojiet savas grāmatzīmes, paroles un citu saturu no vecā pārlūka.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importēt no iepriekšējā pārlūka

@@ -23,7 +23,7 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = Tikko
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Ciļņu paņemšana
-firefoxview-tabpickup-description = Atveriet lapas no citām ierīcēm.
+firefoxview-tabpickup-description = Atvērt lapas no citām ierīcēm.
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% pabeigti

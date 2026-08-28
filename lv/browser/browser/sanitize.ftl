@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Privāto datu dzēšanas iestatījumi
     .style = min-width: 40em
+    .title = Privāto datu dzēšanas iestatījumi
 sanitize-prefs-style =
     .style = width: 19em
 sanitize-dialog-title2 =
-    .title = Notīrīt pārlūkošanas datus un sīkdatnes
     .style = min-width: 34em
+    .title = Notīrīt pārlūkošanas datus un sīkdatnes
 sanitize-dialog-title =
-    .title = Dzēst pārlūkošanas vēsturi
     .style = min-width: 40em
+    .title = Dzēst pārlūkošanas vēsturi
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Dzēst visu vēsturi
     .style = min-width: 40em
+    .title = Dzēst visu vēsturi
 clear-data-settings-label = Kad es aizveru { -brand-short-name } dzēst šo
 sanitize-on-shutdown-description = Automātiski notīrīt visus atzīmētos vienumus, kad { -brand-short-name } aizveras.
 
@@ -92,8 +92,8 @@ item-site-prefs =
     .label = Vietņu iestatījumi
     .accesskey = i
 item-formdata-prefs =
-    .label = Saglabātā veidlapas informācija
-    .accesskey = o
+    .label = Saglabātie veidlapu dati
+    .accesskey = v
 item-formdata-description = Notīra tādus vienumus kā vārdus, e-pasta adreses un citas veidlapās ievadītās vērtības
 item-site-prefs-description = Atiestata atļaujas un vietņu pielāgošanas iestatījumus uz sākotnējiem iestatījumiem
 data-section-label = Dati

@@ -67,6 +67,8 @@ category-privacy =
 pane-sync-title3 = Vienādošana
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-appearance-title = Izskats
+    .title = { pane-appearance-title }
 pane-accessibility-title = Piekļūstamība
     .title = { pane-accessibility-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
@@ -307,7 +309,10 @@ browser-layout-show-sidebar-desc = Ātri piekļūstiet grāmatzīmēm, cilnēm n
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Valoda un izskats
-preferences-web-appearance-header = Vietnes izskats
+appearance-group2 =
+    .description = Dažas tīmekļvietnes maina to krāsas, lai atbilstu Tavām izvēlēm. Izvēlies savu krāsu paleti!
+    .label = Tīmekļvietņu izskats
+preferences-web-appearance-header = Tīmekļvietņu izskats
 preferences-web-appearance-description = Dažas vietnes pielāgo savu krāsu shēmu atbilstoši jūsu preferencēm. Izvēlieties, kuru krāsu shēmu vēlaties izmantot šīm vietnēm.
 preferences-web-appearance-choice-light2 =
     .label = Gaišs
@@ -316,16 +321,16 @@ preferences-web-appearance-choice-dark2 =
     .label = Tumšs
     .title = Izmantot tumšu izskatu vietņu fonam un saturam.
 web-appearance-group =
-    .aria-label = Vietnes izskats
+    .aria-label = Tīmekļvietņu izskats
 preferences-web-appearance-choice-auto = Automātiski
 preferences-web-appearance-choice-light = Gaišs
 preferences-web-appearance-choice-dark = Tumšs
 preferences-web-appearance-choice-tooltip-auto =
     .title = Automātiski mainiet vietņu fonu un saturu, pamatojoties uz jūsu sistēmas iestatījumiem un { -brand-short-name } motīvu.
 preferences-web-appearance-choice-tooltip-light =
-    .title = Izmantot gaišu izskatu vietņu fonam un saturam.
+    .title = Izmantot gaišu izskatu tīmekļvietņu fonam un saturam.
 preferences-web-appearance-choice-tooltip-dark =
-    .title = Izmantot tumšu izskatu vietņu fonam un saturam.
+    .title = Izmantot tumšu izskatu tīmekļvietņu fonam un saturam.
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
@@ -1740,6 +1745,8 @@ choose-download-folder-title = Izvēlieties lejupielāžu mapi:
 
 ## Appearance page
 
+preferences-appearance-header =
+    .heading = Izskats
 related-settings-accessibility-link =
     .label = Tālummaiņa un fonta iestatījumi ir pielāgojami sadaļā “Piekļūstamība”
 related-settings-home-link =
