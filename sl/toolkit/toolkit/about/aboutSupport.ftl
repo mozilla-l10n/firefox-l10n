@@ -317,7 +317,7 @@ virtual-monitor-disp = Navidezni zaslon
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
-found = Najdeno
+found = Najden
 missing = Manjka
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
