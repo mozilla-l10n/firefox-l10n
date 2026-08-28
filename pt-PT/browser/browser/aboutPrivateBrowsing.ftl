@@ -58,6 +58,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Sem cookies ou histórico guardados, diretamente a partir do seu ambiente de trabalho. Navegue como se ninguém estivesse a ver.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Ajude a evitar spam na caixa de entrada com máscaras de e-mail
+about-private-browsing-relay-promo-title = Oculte o seu endereço real com uma máscara de e-mail ao registar-se, fazer compras ou partilhá-lo na Internet.
+about-private-browsing-relay-promo-link-text = Experimente as máscaras de e-mail
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
@@ -75,3 +81,13 @@ about-private-browsing-cookie-banners-promo-body = Nós agora recusamos automati
 about-private-browsing-felt-privacy-v1-info-header = Não deixe vestígios neste dispositivo
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } elimina os seus cookies, histórico e dados do site quando fecha todas as suas janelas privadas.
 about-private-browsing-felt-privacy-v1-info-link = Quem poderá ver a minha atividade?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Fechar todas as suas janelas privadas elimina os seus cookies, histórico e dados de sites.
+about-private-browsing-nova-info-link = Quem ainda poderá ver a minha atividade?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Está sem registo
+about-private-browsing-nova-info-subheader2 = Iremos apagar todas as pesquisas e inícios de sessão quando fechar todas as suas Janelas Privadas. As proteções integradas do { -brand-short-name } também estão aqui, tais como como o bloqueio de rastreadores.
