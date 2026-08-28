@@ -10,4 +10,3 @@
 
 pdfjs-embed-fallback-message = Non è possibile visualizzare questo PDF qui.
 pdfjs-embed-fallback-open-button = Apri PDF
-
