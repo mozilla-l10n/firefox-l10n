@@ -24,13 +24,9 @@ fxviewtabrow-dismiss-tab-button =
     .title = Atmest { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Tikko
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Dzēst
     .accesskey = D
-fxviewtabrow-forget-about-this-site = Aizmirstiet par šo vietni…
+fxviewtabrow-forget-about-this-site = Aizmirst par šo vietni…
     .accesskey = A
 fxviewtabrow-open-in-window = Atvērt jaunā logā
     .accesskey = n

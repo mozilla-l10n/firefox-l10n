@@ -40,12 +40,27 @@ ipprotection-android-promo-callout-title = Ņem līdzi iebūvēto VPN Android ie
 ipprotection-android-promo-callout-description = Nolasi kvadrātkodu, lai iegūtu { -brand-product-name } Android, un ieslēdz iebūvēto VPN, lai kustībā iegūtu vairāk privātuma!
 ipprotection-android-promo-callout-primary-button = Sapratu
 
+## Panel
+
+site-exclusion-toggle-enabled-1 =
+    .aria-label = VPN ir ieslēgts šai vietnei
+    .label = Šai vietnei izmantot VPN
+site-exclusion-toggle-disabled-1 =
+    .aria-label = Šai vietnei VPN ir izslēgts
+    .label = VPN ir ieslēgts šai vietnei
+
+## Status card
+
+ipprotection-connection-status-excluded-1 = VPN šai vietnei ir izslēgts
+    .aria-label = VPN šai vietnei ir izslēgts
+
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-description = Pēc dažām minūtēm mēģināt vēlreiz.
 ipprotection-connection-status-generic-error-try-again = Lūgums vēlāk mēģināt vēlreiz.
 ipprotection-connection-status-network-error-title-1 = Pārbaudi savienojumu ar internetu
     .aria-label = Pārbaudi savienojumu ar internetu
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN šai vietnei ir izslēgts
 
 ## IP Protection Settings
 
