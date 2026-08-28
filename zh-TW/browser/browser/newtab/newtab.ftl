@@ -199,6 +199,11 @@ newtab-privacy-across-sites = 跨 { $count } 個網站
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = 隨您上網，{ -brand-short-name } 會自動封鎖追蹤器。將在此處看到封鎖狀況。
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = 上網更快，追蹤器更少。
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
