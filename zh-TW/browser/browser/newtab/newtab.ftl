@@ -203,6 +203,7 @@ newtab-privacy-empty = 隨您上網，{ -brand-short-name } 會自動封鎖追�
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
 newtab-privacy-etp-off-faster-browsing = 上網更快，追蹤器更少。
+newtab-privacy-etp-off-turn-on-tracking = 到設定開啟追蹤保護，即可開始封鎖。
 
 ## Privacy widget — informational messages
 ##
