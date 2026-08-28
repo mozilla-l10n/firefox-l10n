@@ -211,6 +211,7 @@ newtab-privacy-empty = { -brand-short-name }(e)k jarraipen-elementuak blokeatzen
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
 newtab-privacy-etp-off-faster-browsing = Nabigazio azkarragoa. Jarraipen-elementu gutxiago.
+newtab-privacy-etp-off-turn-on-tracking = Aktibatu jarraipenaren aurkako babesak ezarpenetan eta hasi blokeatzen.
 
 ## Privacy widget — informational messages
 ##
