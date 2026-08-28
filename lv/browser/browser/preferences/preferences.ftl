@@ -823,7 +823,7 @@ search-show-suggestions-url-bar-option =
 search-show-suggestions-above-history-option-2 =
     .label = Meklēšanas ieteikumus adreses joslā rādīt pirms pārlūkošanas vēstures
 search-show-suggestions-private-windows-2 =
-    .label = Meklēšanas ieteikumi privātos logos
+    .label = Meklēšanas ieteikumi privātajos logos
 search-suggestions-cant-show-2 =
     .message = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
 addressbar-header-1 =
@@ -837,6 +837,9 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Iznākumu lapu adreses joslā rādīt meklēšanas vaicājumu
+search-separate-default-engine-2 =
+    .label = Privātajos logos izmantot citu noklusējuma meklētāju
+    .accesskey = P
 search-suggestions-header-2 =
     .label = Meklētāja ieteikumi
 # With this option enabled, on the search results page

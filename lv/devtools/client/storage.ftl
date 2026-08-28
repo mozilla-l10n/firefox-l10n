@@ -29,10 +29,10 @@ storage-table-type-cache-hint = Skatiet un dzēsiet kešatmiņas krātuves ierak
 storage-table-type-extensionstorage-hint = Skatiet un rediģējiet paplašinājuma krātuvi, atlasot resursdatoru. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
-    .placeholder = Filtrēt vienības
+    .placeholder = Atsijāt vienumus
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
-    .placeholder = Filtra vērtības
+    .placeholder = Atsijāt vērtības
 # Add Item button title
 storage-add-button =
     .title = Pievienot elementu
