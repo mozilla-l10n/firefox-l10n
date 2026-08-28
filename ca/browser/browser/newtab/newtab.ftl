@@ -258,6 +258,8 @@ newtab-privacy-message-promo-relay-1 = Reserveu el vostre correu real per a la g
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+newtab-privacy-message-milestone-week-cta = Mostra les proteccions
+newtab-privacy-message-milestone-month-cta = Mostra les proteccions
 newtab-privacy-message-milestone-year-cta = Mostra les proteccions
 newtab-privacy-message-milestone-total-cta = Mostra les proteccions
 newtab-privacy-message-daily-cap-cta = Mostra les proteccions
@@ -1197,9 +1199,19 @@ newtab-widget-timer-spinbutton-name =
             [one] { $minutes } minut
            *[other] { $minutes } minuts
         }
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Concentració
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pausa
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Amaga el temporitzador
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Bona feina
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = La pausa s'ha acabat
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = A punt per a concentrar-vos?
 
 ##
 

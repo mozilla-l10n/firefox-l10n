@@ -133,6 +133,15 @@ taskbar-tabs-media-callout-subtitle = Inicieu els vostres llocs de transmissió 
 taskbar-tabs-value-prop-callout-title = Afegiu aquest lloc a la barra de tasques
 taskbar-tabs-value-prop-callout-subtitle = Inicieu-lo a la seva pròpia finestra i en una interfície simplificada amb un sol clic.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Fixa a la barra de tasques
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Quan passeu al Windows 11, no perdeu tot allò que heu desat.

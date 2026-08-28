@@ -12,6 +12,10 @@ menu-application-settings =
     .label = Paràmetres…
 menu-application-set-as-default =
     .label = Establiu el { -brand-shorter-name } com a navegador per defecte
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Compartiu el { -brand-shorter-name }
 menu-application-services =
     .label = Serveis
 menu-application-hide-this =
@@ -333,15 +337,6 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-get-help
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
 menu-help =
     .label = Ajuda
     .accesskey = A
@@ -375,3 +370,7 @@ menu-help-not-deceptive =
     .accesskey = N
 menu-report-broken-site =
     .label = Informeu sobre un lloc que no funciona
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals =
+    .label = Compartiu el { -brand-shorter-name }
