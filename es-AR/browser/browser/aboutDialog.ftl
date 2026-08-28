@@ -48,7 +48,7 @@ settings-update-other-instance-handling-updates =
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
 aboutdialog-update-manual-with-link = Actualizaciones disponibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>
-settings-update-manual-with-link = Actualización disponible en <a data-l10n-name="manual-link">{ $displayUrl }</a>
+settings-update-manual-with-link = Actualizaciones disponibles en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No se pueden realizar más actualizaciones en este sistema. <label data-l10n-name="unsupported-link">Conocer más</label>
 settings-update-unsupported = No se pueden realizar más actualizaciones en este sistema. <a data-l10n-name="unsupported-link">Conocer más</a>
 update-restarting = Reiniciando…
