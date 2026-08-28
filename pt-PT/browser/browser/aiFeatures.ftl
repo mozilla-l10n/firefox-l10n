@@ -95,3 +95,6 @@ ai-window-memory-delete-button =
 smart-window-model-fast-v2 =
     .description = Melhor para respostas rápidas quando a velocidade importa. Nome completo: { $model } por { $ownerName }
     .label = { $shortName }: Rápido
+smart-window-model-flexible-v2 =
+    .description = Pronto para uma variedade de tarefas. Nome completo: { $model } por { $ownerName }
+    .label = { $shortName }: Flexível
