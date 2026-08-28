@@ -57,3 +57,6 @@ genai-input-ask-provider =
 
 # Text for the retry link when generation fails
 link-preview-generation-retry = Mēģināt vēlreiz
+link-preview-settings-enable =
+    .description = Lapas virsraksta, apraksta un vēl apskatīšana ar īsinājumtaustiņu vai labo klikšķi uz saites.
+    .label = Iespējot saišu priekšskatījumu

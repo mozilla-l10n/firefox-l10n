@@ -17,8 +17,8 @@ about-webrtc-save-page-dialog-title = saglabāt about:webrtc kā
 about-webrtc-aec-logging-msg-label = AEC žurnalēšana
 about-webrtc-aec-logging-off-state-label = Sākt AEC žurnalēšanu
 about-webrtc-aec-logging-on-state-label = Pārtraukt AEC žurnalēšanu
-about-webrtc-aec-logging-on-state-msg = AEC žurnalēšana aktīva (runājiet ar zvanītāju dažas minūtes un tad apturiet žurnalēšanu)
-about-webrtc-aec-logging-toggled-on-state-msg = AEC žurnalēšana aktīva (runājiet ar zvanītāju dažas minūtes un tad apturiet žurnalēšanu)
+about-webrtc-aec-logging-on-state-msg = AEC žurnalēšana ir ieslēgta (runā ar zvanītāju dažas minūtes un tad apturi ierakstīšanu)
+about-webrtc-aec-logging-toggled-on-state-msg = AEC žurnalēšana ir ieslēgta (runā ar zvanītāju dažas minūtes un tad apturi ierakstīšanu)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Apkopotie žurnalēšanas faili pieejami: { $path }

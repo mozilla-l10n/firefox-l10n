@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Meklēt paroles
-    .key = F
     .aria-label = Meklēt paroles
+    .key = F
+    .placeholder = Meklēt paroles
 contextual-manager-menu-more-options-button =
     .title = Vairāk iespēju
 contextual-manager-more-options-popup =
@@ -154,7 +154,7 @@ contextual-manager-passwords-username-label = Lietotājvārds
 contextual-manager-passwords-password-label = Parole
     .data-after = Nokopēta
 contextual-manager-passwords-radiogroup-label =
-    .aria-label = Filtrēt paroles
+    .aria-label = Atsijāt paroles
 # Variables
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
