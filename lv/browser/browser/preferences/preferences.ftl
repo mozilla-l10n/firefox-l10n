@@ -64,7 +64,7 @@ pane-privacy-section =
 pane-privacy-title = Privātums un drošība
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-pane-sync-title3 = Sinhronizēšana
+pane-sync-title3 = Vienādošana
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-accessibility-title = Piekļūstamība
@@ -832,6 +832,8 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Iznākumu lapu adreses joslā rādīt meklēšanas vaicājumu
+search-suggestions-header-2 =
+    .label = Meklētāja ieteikumi
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -925,7 +927,7 @@ containers-site-remove-button =
 ## Account and sync
 
 sync-group-label =
-    .label = Sinhronizēšana
+    .label = Vienādošana
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -993,7 +995,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sinhronizācija: ieslēgta
+prefs-syncing-on-2 =
+    .label = Vienādošana ir IESLĒGTA
 prefs-syncing-off = Sinhronizācija: izslēgta
+prefs-syncing-off-2 =
+    .description = Ieslēdz vienādošanu, lai piekļūtu savām grāmatzīmēm, parolēm, vēsturei un vēl jebkurā ierīcē!
+    .label = Vienādošana ir IZSLĒGTA
 prefs-sync-turn-on-syncing =
     .label = Ieslēgt sinhronizāciju…
     .accesskey = s

@@ -17,8 +17,8 @@ firefoxview-page-heading =
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
-    .title = Aizvērt
     .aria-label = Aizvērt
+    .title = Aizvērt
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Tikko
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -41,11 +41,13 @@ firefoxview-tabpickup-synctabs-learn-how = Uzziniet kā
 firefoxview-tabpickup-synctabs-primarybutton = Sinhronizēt atvērtās cilnes
 firefoxview-syncedtabs-synctabs-header = Atjaunināt sinhronizācijas iestatījumus
 firefoxview-syncedtabs-synctabs-description = Lai skatītu cilnes no citām ierīcēm, jums ir jāsinhronizē atvērtās cilnes.
+firefoxview-syncedtabs-synctabs-header-2 = Ciļņu vienādošāna ir izslēgta
 firefoxview-syncedtabs-loading-header = Sinhronizē
 firefoxview-syncedtabs-loading-description = Kad sinhronizācija būs pabeigta, jūs redzēsiet visas cilnes, kas ir atvērtās citās ierīcēs. Pēc kāda brīža paskatieties vēlreiz.
 firefoxview-tabpickup-fxa-admin-disabled-header = Jūsu organizācija ir izslēgusi sinhronizāciju
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nevar starp ierīcēm sinhronizēt cilnes, jo jūsu administrators ir izslēdzis sinhronizāciju.
-firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nevar starp ierīcēm sinhronizēt cilnes, jo jūsu organizācija ir izslēgusi sinhronizāciju.
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nevar vienādot cilnes starp ierīcēm, jo pārvaldītājs ir atspējojis vienādošanu.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nevar vienādot cilnes starp ierīcēm, jo apvienībā ir atspējota vienādošana.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Ciļņu vienādošāna ir izslēgta
 firefoxview-tabpickup-network-offline-header = Pārbaudiet savienojumu ar internetu
 firefoxview-tabpickup-network-offline-description = Ja izmantojat ugunsmūri vai starpniekserveri, pārbaudiet, vai { -brand-short-name } ir atļauja piekļūt tīmeklim.
 firefoxview-tabpickup-network-offline-primarybutton = Mēģināt vēlreiz

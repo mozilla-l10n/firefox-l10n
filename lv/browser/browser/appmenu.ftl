@@ -99,7 +99,7 @@ appmenu-remote-tabs-show-inactive-tabs =
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nav atvērtu cilņu
 # This is shown when Sync is configured but syncing tabs is disabled.
-appmenu-remote-tabs-tabsnotsyncing = Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.
+appmenu-remote-tabs-tabsnotsyncing = Ieslēdz cilņu vienādošanu, lai redzētu cilnes no citām savām ierīcēm.
 appmenu-remote-tabs-opensettings =
     .label = Iestatījumi
 # This is shown when Sync is configured but this appears to be the only device attached to

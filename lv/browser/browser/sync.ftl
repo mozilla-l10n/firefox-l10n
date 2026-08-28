@@ -4,7 +4,7 @@
 
 fxa-toolbar-sync-syncing2 = Sinhronizē...
 sync-disconnect-dialog-title2 = Atvienoties?
-sync-disconnect-dialog-body = { -brand-product-name } pārtrauks sinhronizāciju ar jūsu kontu, taču dati jūsu ierīcē paliks neskarti.
+sync-disconnect-dialog-body = { -brand-product-name } pārtrauks Tava konta vienādošanu, taču šajā ierīcē netiks izdzēsti nekādi pārlūkošanas dati.
 sync-disconnect-dialog-button = Atvienoties
 fxa-signout-dialog2-title = Izrakstīties no { -fxaccount-brand-name }
 fxa-signout-dialog-title2 = Izrakstīties no sava konta?
