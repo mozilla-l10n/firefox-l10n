@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = autors { $name }
 cfr-doorhanger-extension-notification = Ieteikums
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Ieteikums
-    .tooltiptext = Paplašinājumu ieteikums
     .a11y-announcement = Ir pieejams paplašinājumu ieteikums
+    .tooltiptext = Paplašinājumu ieteikums
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Ieteikums
-    .tooltiptext = Funkciju ieteikums
     .a11y-announcement = Ir pieejams funkciju ieteikums
+    .tooltiptext = Funkciju ieteikums
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -289,6 +289,20 @@ tail-fox-spotlight-secondary-button = Ne tagad
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-learn-more-button = Uzzināt vairāk
+
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-learn-more-link = Uzzināt vairāk
+    .accessKey = U
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Uzzināt vairāk
 
 ## Nova Early Access Infobar
 

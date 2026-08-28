@@ -94,6 +94,8 @@ home-prefs-weather-header-srd =
 
 ## Strings for the Privacy widget
 
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Uzzināt vairāk
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -105,8 +107,28 @@ newtab-privacy-widget-label =
 newtab-privacy-etp-off-faster-browsing = Ātrāka pārlūkošana. Mazāk izsekotāju.
 newtab-privacy-etp-off-turn-on-tracking = Iestatījumos ieslēdz aizsardzību pret izsekošanu, lai sāktu aizturēšanu.
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-6-cta = Uzzināt vairāk
+newtab-privacy-message-info-8-cta = Uzzināt vairāk
+newtab-privacy-message-info-11-cta = Uzzināt vairāk
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Uzzināt vairāk
+newtab-privacy-message-promo-monitor-2-cta = Uzzināt vairāk
+
 ## Strings for the Stocks widget
 
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Uzzināt vairāk
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -214,6 +236,8 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Uzziniet vairāk
 
 ## Strings for the Recent Searches widget
 
@@ -749,10 +773,15 @@ newtab-section-confirm-block-topic-p1 = Vai tiešām liegt šo tēmu?
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Liegt { $topic }
 
+## Strings for reporting issues with ads and content
+
+newtab-report-content-requires-payment-subscription-learn-more = Uzzināt vairāk
+
 ## Strings for task / to-do list productivity widget
 
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Iespējas ir neierobežotas. Pievieno kādu!
+newtab-widget-lists-menu-learn-more = Uzzināt vairāk
 newtab-widget-lists-button-add-item = Pievienot vienumu
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Pievienot vienumu
@@ -760,6 +789,16 @@ newtab-widget-lists-input-add-an-item2 =
 newtab-widget-add-widgets-button =
     .aria-label = Pievienot logrīku
     .title = Pievienot logrīku
+newtab-widget-section-menu-learn-more = Uzzināt vairāk
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-menu-learn-more = Uzzināt vairāk
+newtab-promo-card-cta = Uzzināt vairāk
+
+##
+
+newtab-sports-widget-menu-learn-more = Uzzināt vairāk
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.

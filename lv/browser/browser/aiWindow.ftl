@@ -52,6 +52,7 @@ aiwindow-input-model-select-button-label-fast = Ātrs
 
 ## Firstrun memories onboarding
 
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } var mācīties no Tavām tērzēšanām, pārlūkošanu vai abiem, lai izveidotu atmiņas. Tās laika gaidā atbildes padara jēgpilnākas.
 aiwindow-firstrun-memories-no-create = Sapratu. { -smart-window-brand-name } neveidos atmiņas. To jebkurā laikā var mainīt iestatījumos.
 
 ## New Chat Button

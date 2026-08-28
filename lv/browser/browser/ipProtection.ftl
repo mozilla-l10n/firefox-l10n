@@ -47,6 +47,10 @@ ipprotection-connection-status-generic-error-try-again = Lūgums vēlāk mēģin
 ipprotection-connection-status-network-error-title-1 = Pārbaudi savienojumu ar internetu
     .aria-label = Pārbaudi savienojumu ar internetu
 
+## IP Protection Settings
+
+ip-protection-learn-more = Uzzināt vairāk
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Sapratu

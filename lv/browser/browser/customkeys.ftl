@@ -10,3 +10,7 @@ customkeys-view-add-split-view = Pievienot sadalīto skatu
 customkeys-dev-accessibility = Piekļūstamība
 customkeys-shortcut-unassigned =
     .placeholder = Pievienot īsceļu
+
+## Sidebar
+
+customkeys-support-link-text = Uzzināt vairāk
