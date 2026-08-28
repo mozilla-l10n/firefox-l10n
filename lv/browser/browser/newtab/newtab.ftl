@@ -739,12 +739,12 @@ newtab-topic-label-home = Māja un dārzs
 newtab-topic-selection-title = Atlasiet tēmas, lai pielāgotu plūsmu
 # “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
 # In other words, “Our expert curators prioritize stories to fit your selected interests”
-newtab-topic-selection-subtitle = Izvēlieties divas vai vairākas tēmas. Mūsu kuratori piešķir prioritāti stāstiem, kas atbilst jūsu interesēm. Atjauniniet jebkurā laikā.
+newtab-topic-selection-subtitle = Jāizvēlas divas vai vairākas tēmas. Mūsu kuratori piemeklē stāstus, kas Tev būtu saistoši. Atjaunināt var jebkurā laikā.
 newtab-topic-selection-save-button = Saglabāt
 newtab-topic-selection-cancel-button = Atcelt
 newtab-topic-selection-button-maybe-later = Varbūt vēlāk
 newtab-topic-selection-privacy-link = Uzziniet, kā mēs aizsargājam un pārvaldām datus
-newtab-topic-selection-button-update-interests = Atjauniniet savas intereses
+newtab-topic-selection-button-update-interests = Atjaunini sev saistošo
 newtab-topic-selection-button-pick-interests = Izvēlieties savas intereses
 
 ## Content Feed Sections

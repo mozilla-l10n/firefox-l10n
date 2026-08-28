@@ -556,7 +556,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = Uzzināt vairāk
 update-application-title = { -brand-short-name } atjauninājumi
-update-application-description = Vienmēr atjauniniet { -brand-short-name }, lai iegūtu labāko drošību, stabilitāti un ātrdarbību.
+update-application-description = { -brand-short-name } vienmēr jāatjaunina, lai iegūtu labāko veiktspēju, noturīgumu un drošību.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versija { $version } <a data-l10n-name="learn-more">Kas jauns</a>

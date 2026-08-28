@@ -114,8 +114,8 @@ cfr-doorhanger-doh-secondary-button = Izslēgt
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = Šajā { -brand-short-name } versijā šīs vietnes videoklipi varētu netikt atskaņoti pareizi. Lai iegūtu pilnu video atbalstu, tagad atjauniniet { -brand-short-name }.
-cfr-doorhanger-video-support-header = Lai atskaņotu video, atjauniniet { -brand-short-name }
+cfr-doorhanger-video-support-body = Šajā { -brand-short-name } versijā šīs vietnes videoklipi varētu netikt atskaņoti pareizi. Lai iegūtu pilnu video atbalstu, tagad jāatjaunina { -brand-short-name }.
+cfr-doorhanger-video-support-header = Jāatjaunina { -brand-short-name }, lai atskaņotu video
 cfr-doorhanger-video-support-primary-button = Atjaunināt tagad
     .accesskey = A
 
