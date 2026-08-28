@@ -1468,6 +1468,10 @@ content-blocking-etp-standard-tcp-title = Ietver Totālu Sīkdatņu Aizsardzību
 content-blocking-warning-title = Uzmanību!
 content-blocking-and-isolating-etp-warning-description-2 = Šī iestatījuma dēļ dažas vietnes var nerādīt saturu vai nedarboties pareizi. Ja šķiet, ka vietne ir salauzta, iespējams, vēlēsities šai vietnei izslēgt izsekošanas aizsardzību, lai ielādētu visu saturu.
 content-blocking-warning-learn-how = Uzziniet kā
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .description = Atjauno tādas lietas kā rakstā vai piebilžu sadaļā esošus video, atceļot elementu, kuri var saturēt izsekotājus, aizturēšanu. Tas var samazināt nepilnības ar vietnēm, bet sniedz mazāku aizsardzību. Jāizmanto kopā ar būtisku nepilnību labojumiem.
+    .label = Novērst niecīgas vietņu nepilnības
 content-blocking-baseline-uncheck-warning-dialog-title = Vai tiešām izslēgt labojumus?
 content-blocking-reload-description = Lai šīs izmaiņas stātos spēkā, jums būs jāpārlādē cilnes.
 content-blocking-reload-tabs-button =
