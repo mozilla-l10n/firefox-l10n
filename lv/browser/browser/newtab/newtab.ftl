@@ -99,6 +99,12 @@ home-prefs-weather-header-srd =
 newtab-privacy-widget-label =
     .aria-label = Privātums
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Ātrāka pārlūkošana. Mazāk izsekotāju.
+newtab-privacy-etp-off-turn-on-tracking = Iestatījumos ieslēdz aizsardzību pret izsekošanu, lai sāktu aizturēšanu.
+
 ## Strings for the Stocks widget
 
 # "Stocks widget options" is an icon-only button in the widget toolbar — the

@@ -124,6 +124,7 @@ fxa-menu-sync-off-data-description = Tavi dati netiek vienādoti
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Ieslēgt
+fxa-menu-sync-status-turn-on-button-aria-label = Ieslēgt
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Jāpiesakās, lai vienādotu

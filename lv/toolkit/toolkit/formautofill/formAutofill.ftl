@@ -13,6 +13,11 @@ autofill-options-link-osx = Veidlapu automātiskās aizpildes preferences
 
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Notīrīt automātiski aizpildīto veidlapu
+# Used as the primary label of an autofill drop down suggestion when the focused
+# field is the card security code. The card's masked number is shown underneath
+# it as the secondary label. "CVC" is a common abbreviation for the code printed
+# on a payment card; use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code-label = CVC
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
