@@ -20,8 +20,8 @@ backup-folder-name = Pulihkan { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Cadangan
 settings-data-backup-header2 =
-    .label = Pencadangan
     .description = Lindungi markah, riwayat penelusuran, dan data Anda lainnya
+    .label = Pencadangan
 settings-data-backup-toggle = Kelola cadangan
 settings-data-backup-toggle-on2 =
     .label = Aktifkan pencadangan
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Sunting…
 settings-data-create-backup-error = Terjadi kesalahan saat membuat cadangan Anda pada { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Cadangkan kata sandi dan metode pembayaran Anda, plus simpan semua data Anda dengan enkripsi.
 settings-data-toggle-encryption-label2 =
-    .label = Cadangkan data sensitif Anda
     .description = Cadangkan kata sandi dan metode pembayaran serta jaga seluruh data Anda aman dengan enkripsi.
+    .label = Cadangkan data sensitif Anda
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nama berkas: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Pulihkan data Anda
     .description = Kembalikan data { -brand-product-name } Anda ke terakhir kali dicadangkan.
-settings-data-backup-restore-scheduled-off =
     .label = Pulihkan data Anda
+settings-data-backup-restore-scheduled-off =
     .description = Gunakan cadangan { -brand-product-name } dari perangkat lain untuk mengembalikan data Anda.
-
-##
-
+    .label = Pulihkan data Anda
 settings-sensitive-data =
     .label = Data sensitif
 settings-data-toggle-encryption-support-link = Pelajari lebih lanjut
@@ -211,5 +208,20 @@ backup-error-retry = Terjadi kesalahan. Silakan coba lagi nanti.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-path-label = Berkas cadangan:
 backup-file-encryption-state-label = Dienkripsi:
 backup-file-encryption-state-value-encrypted = Ya
+backup-file-encryption-state-value-not-encrypted = Tidak
+backup-file-creation-device-label = Perangkat:
+backup-file-creation-date-label = Dibuat:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Cara memulihkan:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Buka menu aplikasi ☰ dan pilih Pengaturan > Sinkronisasi
+backup-file-moz-browser-restore-step-2-1 = Klik “Pulihkan data Anda”, lalu pilih berkas ini
+backup-file-moz-browser-restore-step-3 = Mulai ulang { -brand-short-name } saat ditanya
+backup-file-other-browser-restore-step-1 = Unduh dan pasang { -brand-short-name }
+backup-file-download-moz-browser-button = Unduh
