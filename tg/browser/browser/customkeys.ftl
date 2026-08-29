@@ -85,7 +85,8 @@ customkeys-key-unchangeable = (тағйир дода намешавад)
 customkeys-conflict-confirm-button-confirm = Ба ҳар ҳол истифода баред
 customkeys-conflict-confirm-button-cancel = Бекор кардан
 customkeys-conflict-unusable-title = Истифодаи калид имконнопазир аст
-customkeys-reset-all-confirm-title = Танзимоти пешфарзро барқарор мекунед?
+customkeys-reset-all-confirm-title = Ҳолатҳои пешфарзро барқарор мекунед?
+customkeys-reset-all-confirm-button-confirm = Барқарор кардани ҳолатҳои пешфарз
 customkeys-reset-all-confirm-button-cancel = Бекор кардан
 
 ## Sidebar
