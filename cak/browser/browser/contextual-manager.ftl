@@ -149,6 +149,25 @@ contextual-manager-check-icon-password =
     .alt = Wachib'en
 contextual-manager-alert-icon =
     .alt = K'ayewal
+contextual-manager-edit-login-button = Tinuk'
+    .tooltiptext = Tinuk' ewan tzij
+contextual-manager-show-password-button =
+    .aria-label = Tik'ut ewan tzij
+    .title = Tik'ut ewan tzij
+contextual-manager-hide-password-button =
+    .aria-label = Tewäx ewan tzij
+    .title = Tewäx ewan tzij
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Majun ewan taq tzij xe'ilitäj
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Ke'ayaka' pa jun jikil k'ojlib'äl ri ewan taq atzij
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Ke'ayaka' pa jun jikil k'ojlib'äl ri ewan taq atzij
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
