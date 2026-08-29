@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Проверить наличие обновлений
-    .accesskey = в
     .tooltiptext = Проверить наличие обновлений для этого дополнения
+    .accesskey = в
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Настройки
            *[other] Настройки
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] с
-           *[other] с
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Изменить настройки этого дополнения
            *[other] Изменить настройки этого дополнения
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] с
+           *[other] с
         }
 detail-rating =
     .value = Рейтинг
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = Проверить наличие обновл
     .accesskey = о
 addon-updates-view-updates = Показать недавние обновления
     .accesskey = к
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Автоматически обновлять дополнения
     .accesskey = в
 
@@ -227,7 +223,7 @@ addon-manage-extensions-shortcuts = Управление горячими кла
 shortcuts-no-addons = У вас не включено ни одного расширения.
 shortcuts-no-commands = У следующих расширений нет горячих клавиш:
 shortcuts-input =
-    .placeholder = Введите горячую клавишу
+    .placeholder = Введите гор. клавишу
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
     .aria-label = Удалить ярлык
@@ -418,8 +414,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Разрешено в приватных окнах
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Разрешено в приватных окнах
 addon-detail-private-browsing-help = Когда разрешено, расширение будет иметь доступ к вашей активности в Интернете в приватном режиме. <a data-l10n-name="learn-more">Подробнее</a>
 addon-detail-private-browsing-allow = Разрешить
 addon-detail-private-browsing-disallow = Не разрешать
@@ -446,16 +442,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } рекомендует только те расширения, которые соответствуют нашим стандартам по безопасности и производительности
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } рекомендует только те расширения, которые соответствуют нашим стандартам по безопасности и производительности
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Официальное расширение, созданное Mozilla. Соответствует стандартам безопасности и производительности.
     .aria-label = { addon-badge-line3.title }
+    .title = Официальное расширение, созданное Mozilla. Соответствует стандартам безопасности и производительности.
 addon-badge-verified2 =
-    .title = Это расширение было проверено на соответствие нашим стандартам безопасности и производительности
     .aria-label = { addon-badge-verified2.title }
+    .title = Это расширение было проверено на соответствие нашим стандартам безопасности и производительности
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -507,9 +503,9 @@ recommended-theme-1 = Чувствуете прилив вдохновения? 
 extension-heading = Управление расширениями
 theme-heading = Управление темами
 plugin-heading = Управление плагинами
-dictionary-heading = Управление моими словарями
-locale-heading = Управление моими языками
-updates-heading = Управление моими обновлениями
+dictionary-heading = Управление словарями
+locale-heading = Управление языками
+updates-heading = Управление обновлениями
 sitepermission-heading = Управление моими разрешениями для сайтов
 discover-heading = Сделайте { -brand-short-name } своим
 shortcuts-heading = Управление горячими клавишами расширений
@@ -517,8 +513,8 @@ default-heading-search-label = Найти больше дополнений
 addons-heading-search-input =
     .placeholder = Поиск на addons.mozilla.org
 addons-heading-search-button =
-    .title = Поиск на addons.mozilla.org
     .aria-label = Поиск на addons.mozilla.org
+    .title = Поиск на addons.mozilla.org
 addon-page-options-button =
     .title = Инструменты для всех дополнений
 
@@ -568,9 +564,9 @@ details-notification-softblocked-link2 = Узнать подробнее
 details-notification-blocked-link = Подробная информация
 details-notification-softblocked = { $name } вызывает проблемы со стабильностью или безопасностью.
 details-notification-softblocked-link = Подробная информация
-details-notification-gmp-pending = { $name } будет скоро установлено.
+details-notification-gmp-pending = Будет скоро установлено: { $name }.
 details-notification-gmp-pending2 =
-    .message = { $name } будет скоро установлено.
+    .message = Будет скоро установлено: { $name }.
 
 ## Gecko Media Plugins (GMPs)
 
@@ -604,7 +600,7 @@ mlmodel-link-preview = { -brand-short-name } использует это для 
 mlmodel-pdfjs = { -brand-short-name } использует это для создания альтернативного текста для изображений, которые вы добавляете в PDF-файлы.
 mlmodel-smart-tab-topic-engine = { -brand-short-name } использует это, чтобы предлагать имена для ваших групп вкладок
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } использует это, чтобы предлагать вкладки для ваших групп вкладок
-mlmodel-formfill-engine = { -brand-short-name } использует это, чтобы помочь заполнять формы адресов
+mlmodel-formfill-engine = { -brand-short-name } использует это для заполнения адресных форм
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = ИИ на устройстве
 addon-category-mlmodel-title =
