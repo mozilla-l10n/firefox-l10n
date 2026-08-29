@@ -123,6 +123,7 @@ restore-from-backup-type-replace =
     .label = Gantikan seluruh data dengan cadangan ini
 restore-from-backup-type-add =
     .label = Simpan data dan buat profil baru
+restore-from-backup-profiles-disabled-message = Ini akan menggantikan semua data { -brand-short-name } Anda saat ini dengan cadangan Anda.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -177,6 +178,7 @@ change-backup-encryption-header = Ubah sandi cadangan
 password-rules-header = Persyaratan sandi
 password-rules-length-description = Setidaknya 8 karakter
 password-rules-email-description = Bukan alamat surel Anda
+password-rules-disclaimer = Tetap aman — jangan gunakan kembali kata sandi. Lihat kiat lainnya untuk <a data-l10n-name="password-support-link">membuat sandi yang kuat</a>.
 password-validity-has-email = Tidak boleh berupa alamat surel
 password-validity-do-not-match = Sandi tidak cocok
 
@@ -190,6 +192,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Hapus perlindungan kata sandi
+disable-backup-encryption-description2 = Sandi dan metode pembayaran Anda yang tersimpan juga tidak akan dicadangkan lagi.
 disable-backup-encryption-support-link = Apa yang akan dicadangkan?
 disable-backup-encryption-cancel-button = Batal
 disable-backup-encryption-confirm-button = Hapus kata sandi
@@ -197,6 +200,7 @@ disable-backup-encryption-confirm-button = Hapus kata sandi
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Sandi Anda tidak memenuhi persyaratan. Silakan coba sandi lain.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
@@ -208,6 +212,9 @@ backup-error-retry = Terjadi kesalahan. Silakan coba lagi nanti.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } siap dipulihkan
+backup-file-title = Pulihkan { -brand-short-name }
+backup-file-intro = Kembali menjelajah dan memulihkan semua markah, riwayat, dan data lainnya. <a data-l10n-name="backup-file-support-link">Pelajari lebih lanjut</a>
 backup-file-path-label = Berkas cadangan:
 backup-file-encryption-state-label = Dienkripsi:
 backup-file-encryption-state-value-encrypted = Ya
@@ -225,3 +232,28 @@ backup-file-moz-browser-restore-step-2-1 = Klik “Pulihkan data Anda”, lalu p
 backup-file-moz-browser-restore-step-3 = Mulai ulang { -brand-short-name } saat ditanya
 backup-file-other-browser-restore-step-1 = Unduh dan pasang { -brand-short-name }
 backup-file-download-moz-browser-button = Unduh
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Jalankan { -brand-short-name }, buka menu aplikasi ☰, lalu pilih Pengaturan > Sinkronisasi
+backup-file-other-browser-restore-step-3-1 = Klik “Pulihkan data Anda” dan pilih berkas ini
+backup-file-other-browser-restore-step-4 = Mulai ulang { -brand-short-name } saat ditanya
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds = <b>Catatan:</b> { $numberOfOtherBackupsFound } berkas cadangan lainnya ditemukan
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> dibuat pada { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } di { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Dipulihkan dari { $deviceName } pada { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } pukul { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-file-restore-file-validation-error = Berkas ini tidak berfungsi. Coba pilih berkas lain. <a data-l10n-name="restore-problems">Masih mengalami masalah?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Tidak ada berkas yang dipilih
