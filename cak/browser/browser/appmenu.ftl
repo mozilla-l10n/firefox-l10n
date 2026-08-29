@@ -111,6 +111,7 @@ fxa-menu-sync-status-off = Chupül sync
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Titzij
+fxa-menu-sync-status-turn-on-button-aria-label = Titzij
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Tatikirisaj molojri'ïl pa yaximon
@@ -269,6 +270,16 @@ appmenu-help-header =
 appmenu-about =
     .label = Chi rij ri { -brand-shorter-name }
     .accesskey = C
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Tikomonïx { -brand-product-name }
+    .accesskey = m
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Tikomonïx { -brand-shorter-name }
+    .accesskey = m
 appmenu-get-help =
     .label = Tik'ul To'ïk
     .accesskey = o
