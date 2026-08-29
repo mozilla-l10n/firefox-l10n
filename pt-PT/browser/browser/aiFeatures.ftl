@@ -85,6 +85,9 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = Eliminar todas
 ai-window-delete-all-memories-title = Eliminar todas as memórias?
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = As memórias existentes serão apagadas. Se não quiser que quaisquer novas memórias sejam criadas, desmarque as opções para “Aprender com…” nas definições do { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Eliminar
 ai-window-delete-all-memories-cancel = Cancelar
 # Variables:
