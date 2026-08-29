@@ -8,8 +8,8 @@ smart-window-block-description-both = Bu işlem { -smart-window-brand-name } soh
 smart-window-block-description-chats = Bu işlem { -smart-window-brand-name } sohbetlerinizi silecektir.
 smart-window-block-description-memories = Bu işlem { -smart-window-brand-name } anılarınızı silecek.
 ai-window-features-group =
-    .label = { -smart-window-brand-name(form: "uppercase-singular") }
     .description = Yerleşik asistana sorular sorun, sayfaları karşılaştırın ve size özel önerilere ulaşın.
+    .label = { -smart-window-brand-name(form: "uppercase-singular") }
 smart-window-select-label =
     .label = { -smart-window-brand-name(form: "uppercase-singular") }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Varsayılan ayarlar
 ai-window-is-default-window =
-    .label = Varsayılan olarak { -smart-window-brand-name }yi kullan
     .description = { -brand-short-name } açılırken, yeniden başlatılırken ve diğer uygulamalardan bağlantıları açarken { -smart-window-brand-name } açılsın.
+    .label = Varsayılan olarak { -smart-window-brand-name }yi kullan
 ai-window-open-sidebar =
-    .label = Asistanı otomatik olarak aç
     .description = Her yeni sekmede asistan kenar çubuğunu gösterir. İstediğiniz zaman kapatabilirsiniz.
+    .label = Asistanı otomatik olarak aç
 ai-window-smart-cursor-in-smart-window =
-    .label = Metin seçildiğinde kısayolları göster
     .description = Özetleme, açıklama ve daha fazlasına hızlıca erişin.
+    .label = Metin seçildiğinde kısayolları göster
 smart-window-model-section =
-    .label = Asistan modeli
     .description = Önceliklerinize göre bir model seçin.
+    .label = Asistan modeli
 smart-window-model-learn-link = Modeller hakkında bilgi alın
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -40,14 +40,14 @@ smart-window-model-learn-link = Modeller hakkında bilgi alın
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = { $ownerName } tarafından geliştirilen { $model } modeli
     .label = Hızlı: Çabuk cevap verir
-    .description = { $ownerName } tarafından geliştirilen { $model } modeli
 smart-window-model-flexible =
+    .description = { $ownerName } tarafından geliştirilen { $model } modeli
     .label = Esnek: Çoğu ihtiyaç için ideal
-    .description = { $ownerName } tarafından geliştirilen { $model } modeli
 smart-window-model-personal =
-    .label = Kişisel: Kişiye özel yanıtlar
     .description = { $ownerName } tarafından geliştirilen { $model } modeli
+    .label = Kişisel: Kişiye özel yanıtlar
 smart-window-model-custom =
     .label = Özel: Kendi LLM’ini kullan
 smart-window-model-custom-name =
@@ -65,8 +65,8 @@ smart-window-model-custom-save =
     .label = Kaydet
 smart-window-model-custom-save-confirmation = Model ayrıntıları kaydedildi. Test etmek için yeni bir sohbet başlatın.
 ai-window-memories-section =
-    .label = Anılar
     .description = { -brand-short-name }, yaptığınız işlemlerle kendini eğiterek anı oluşturabilir. Anılar cevapları kişiselleştirmeye yardımcı olur ve sadece sizin cihazınızda depolanır.
+    .label = Anılar
 ai-window-learn-from-chat-activity =
     .label = Eğitim için { -smart-window-brand-name } sohbetlerini kullan
 ai-window-learn-from-browsing-activity =
@@ -74,14 +74,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Anıları yönet
 ai-window-manage-memories-header =
-    .heading = Anıları yönet
     .description = Gizliliğinizi korumak için anılar sadece bu cihazda depolanır. Anılar { -smart-window-brand-name }yi kullandığınız sırada günde birkaç kez yenilenir, yani son işlemlerinizin yansıması biraz zaman alabilir.
+    .heading = Anıları yönet
 ai-window-no-memories =
-    .label = Henüz anı oluşturulmadı
     .description = { -smart-window-brand-name(form: "uppercase-singular") } yeni şeyler öğrendikçe anılarınızı burada göreceksiniz.
+    .label = Henüz anı oluşturulmadı
 ai-window-no-memories-learning-off =
-    .label = Gösterilecek anı yok
     .description = Etkinliklerinizden kendini eğitme kapalı olduğu için { -smart-window-brand-name } anı oluşturmuyor.
+    .label = Gösterilecek anı yok
 ai-window-delete-all-memories-button =
     .label = Tümünü sil
 ai-window-delete-all-memories-title = Tüm anılar silinsin mi?
@@ -93,20 +93,14 @@ ai-window-delete-all-memories-cancel = Vazgeç
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Anıyı sil
     .aria-label = { $label } anısını sil
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Anıyı sil
 smart-window-model-fast-v2 =
+    .description = Hız önemliyse çabuk cevap almak için ideal. Tam ad: { $ownerName } { $model }
     .label = { $shortName }: Hızlı
-    .description = Hız önemliyse çabuk yanıt almak için ideal. Tam ad: { $ownerName } { $model }
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Esnek
     .description = Çeşitli görevlere hazır. Tam adı: { $ownerName } { $model }
+    .label = { $shortName }: Esnek
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Kişisel
     .description = Farklı dillerde kişiselleştirilmiş yardım için tasarlandı. Tam ad: { $ownerName } { $model }
+    .label = { $shortName }: Kişisel
