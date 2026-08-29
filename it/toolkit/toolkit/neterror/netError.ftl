@@ -82,7 +82,7 @@ neterror-error-reporting-automatic = Segnala errori come questo per aiutare { -v
 
 neterror-sslkeylogging-warning =
     .heading = La connessione potrebbe non essere privata
-    .message = Un’app o un servizio potrebbero visualizzare il tuo traffico crittato da questo sito.
+    .message = Un’app o un servizio potrebbe visualizzare il tuo traffico crittato da questo sito.
 
 ## Specific error messages
 
