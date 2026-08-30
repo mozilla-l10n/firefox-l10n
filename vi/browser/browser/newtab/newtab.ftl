@@ -195,6 +195,12 @@ newtab-privacy-across-sites = Trên { $count } trang web
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } chặn các trình theo dõi khi bạn duyệt web. Bạn sẽ thấy chúng ở đây.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Duyệt web nhanh hơn. Ít trình theo dõi hơn.
+newtab-privacy-etp-off-turn-on-tracking = Bật tính năng trình chống theo dõi trong cài đặt để bắt đầu chặn.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -445,6 +451,13 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Tuỳ chọn tìm kiếm gần đây
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Tìm hiểu thêm
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Câu chuyện
+newtab-spaces-tab-widgets = Widget
+newtab-spaces-tab-activity = Hoạt động
 
 ## Search box component.
 
@@ -711,12 +724,24 @@ newtab-discovery-empty-section-topstories-timed-out = Rất tiếc! Chúng tôi 
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } / { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Trước
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Tiếp
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Tạm dừng tự động phát
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Tiêp tục tự động phát
 
 ## Pocket Content Section.
 

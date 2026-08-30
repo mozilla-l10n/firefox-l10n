@@ -128,6 +128,7 @@ fxa-menu-sync-off-data-description = Dữ liệu của bạn không được đ�
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Bật
+fxa-menu-sync-status-turn-on-button-aria-label = Bật
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Đăng nhập để đồng bộ hóa
