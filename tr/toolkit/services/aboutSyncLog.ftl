@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-sync-log-title = Eşitleme günlükleri
+about-sync-log-page-header =
+    .description = Eşitleme özelliğinin oluşturduğu tanılama günlükleri.
+    .heading = Eşitleme günlükleri
 
 ## Filter controls
 
@@ -65,4 +68,11 @@ about-sync-log-open-raw =
 ## Clear logs confirmation
 
 about-sync-log-clear-confirm-title = Eşitleme günlükleri temizlensin mi?
+# Variables:
+#   $count (Number) - Number of logs that will be deleted.
+about-sync-log-clear-confirm-message =
+    { $count ->
+        [one] Görünür durumdaki { $count } günlük dosyası kalıcı olarak silinecektir.
+       *[other] Görünür durumdaki { $count } günlük dosyası kalıcı olarak silinecektir.
+    }
 about-sync-log-clear-confirm-accept = Sil

@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } uzantısını ekle
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = İlerleme: adım { $current } / { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -233,11 +227,6 @@ mr2022-onboarding-set-default-subtitle = Kâr amacı gütmeyen bir tarayıcıyla
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Yeni sürümümüz web’de gezinmenizi daha da kolaylaştıracak özelliklerle dolu.
 mr2022-onboarding-get-started-primary-button-label = Ayarlamaya başla
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-header = Işık hızında kurulum
 mr2022-onboarding-import-subtitle = { -brand-short-name } tarayıcınızı istediğiniz gibi ayarlayın. İsterseniz eski tarayıcınızdaki yer imlerinizi, parolalarınızı ve diğer verilerinizi alabiliriz.
 mr2022-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
@@ -618,7 +607,11 @@ smartwindow-existing-user-fx-tou-go-back = Geri dön
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = { -smart-window-brand-name(form: "uppercase-singular") }yi varsayılan yapın
+smartwindow-onboarding-subtitle = Vakit kaybetmeden sayfaları özetleyin, karşılaştırın, aklınıza takılan her şeyi sorun.
 smartwindow-onboarding-primary-button = Devam et
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Yıldızlarla süslü { -brand-product-name } maskotu (Kit)
 
 ## Smart Window Sidebar Auto-Open Pref
 
@@ -627,7 +620,9 @@ smartwindow-sidebar-auto-open-callout-body = Ne zaman ihtiyacınız olursa yenid
 smartwindow-sidebar-auto-open-callout-accept = Evet, kapalı kalsın
 smartwindow-sidebar-auto-open-callout-dismiss = Hayır
 smartwindow-sidebar-auto-open-callout-accepted-title = Asistan kapalı kalacaktır
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = İstediğiniz sayfada “Sor”a tıklayarak asistanı kullanabilirsiniz. Bu ayarı dilediğiniz zaman <a data-l10n-name="settings">Ayarlar</a>’dan değiştirebilirsiniz.
 smartwindow-sidebar-auto-open-callout-rejected-title = Anladım
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Fikrinizi değiştirirseniz varsayılan seçeneği istediğiniz zaman <a data-l10n-name="settings">Ayarlar</a>’dan değiştirebilirsiniz.
 
 ## Theme Picker screen strings
 
