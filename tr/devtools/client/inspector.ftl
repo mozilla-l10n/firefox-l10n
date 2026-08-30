@@ -29,8 +29,8 @@ inspector-color-scheme-emulation-dark =
 # A title text for the emulation panel toggle button in the Rule View toolbar
 # that toggles the emulation features panel.
 inspector-emulation-panel-toggle =
-    .title = CSS öykünüm özelliklerini aç/kapat
     .aria-label = CSS öykünüm özelliklerini aç/kapat
+    .title = CSS öykünüm özelliklerini aç/kapat
 inspector-emulation-panel-color-scheme = Renk şeması öykünümü
 # A label text for the print emulation options
 inspector-emulation-panel-print = Etkinleştir
@@ -44,3 +44,12 @@ inspector-emulation-panel-color-scheme-dark = Koyu
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Öykünüm yok
     .aria-label = Renk şeması öykünümünü kapat
+# A label text for the reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-reduce = Azalt
+    .aria-label = Azaltılmış hareket öykünümünü etkinleştir
+# A label text for the no preference for reduced motion emulation radio button option.
+inspector-emulation-panel-reduced-motion-no-preference = Tercih yok
+    .aria-label = Daha az hareket öykünümü için herhangi bir tercih belirtme
+# A label text for the no reduced motion emulation radio button option (uses user's preference).
+inspector-emulation-panel-reduced-motion-none = Öykünüm yok
+    .aria-label = Azaltılmış hareket öykünümünü devre dışı bırak
