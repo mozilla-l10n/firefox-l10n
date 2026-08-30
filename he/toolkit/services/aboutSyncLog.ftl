@@ -36,7 +36,7 @@ about-sync-log-search-input =
 about-sync-log-refresh-button =
     .label = ריענון
 about-sync-log-download-button =
-    .label = הורדת הרישומים הגלויים (‎.zip)
+    .label = הורדת היומנים הגלויים (‎.zip)
 about-sync-log-clear-button =
     .label = ניקוי יומנים
 
