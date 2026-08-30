@@ -128,6 +128,7 @@ fxa-menu-sync-off-data-description = Verileriniz eşitlenmiyor
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Aç
+fxa-menu-sync-status-turn-on-button-aria-label = Aç
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Sync’e giriş yapın

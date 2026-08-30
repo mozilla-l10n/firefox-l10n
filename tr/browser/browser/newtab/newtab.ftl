@@ -384,6 +384,7 @@ newtab-recent-searches-menu-learn-more = Daha fazla bilgi al
 
 newtab-spaces-tab-stories = Haberler
 newtab-spaces-tab-widgets = Araçlar
+newtab-spaces-tab-activity = Etkinlik
 
 ## Search box component.
 
