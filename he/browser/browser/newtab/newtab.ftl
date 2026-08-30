@@ -207,6 +207,11 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = ‏{ -brand-short-name } חוסם רכיבי מעקב בזמן הגלישה. הם יהיו מוצגים כאן.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = גלישה מהירה יותר. פחות רכיבי מעקב.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
