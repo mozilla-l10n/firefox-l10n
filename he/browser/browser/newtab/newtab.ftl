@@ -211,6 +211,7 @@ newtab-privacy-empty = ‏{ -brand-short-name } חוסם רכיבי מעקב ב�
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
 newtab-privacy-etp-off-faster-browsing = גלישה מהירה יותר. פחות רכיבי מעקב.
+newtab-privacy-etp-off-turn-on-tracking = יש להפעיל את הגנות המעקב בהגדרות כדי להתחיל לחסום.
 
 ## Privacy widget — informational messages
 ##
