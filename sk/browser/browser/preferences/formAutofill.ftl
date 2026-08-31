@@ -146,6 +146,10 @@ autofill-card-expires-year-2 =
     .label = Rok konca platnosti
 autofill-card-billing-address-2 =
     .label = Fakturačná adresa
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Meno na karte
 autofill-card-expires-month = Mesiac konca platnosti
 autofill-card-expires-year = Rok konca platnosti
