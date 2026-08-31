@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Saite ievietota starpliktuvē
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Kopīgot ar Windows…
+            [macos] Kopīgot ar Mac…
+           *[other] Kopīgot ar…
+        }
 share-panel-os-share =
     .label = Kopīgot ar…
 share-panel-mail =
     .label = Nosūtīt e-pastā
 share-panel-screenshot =
     .label = Uzņemt ekrānuzņēmumu
+share-panel-qr-code-2 =
+    .label = Izveidot kvadrātkodu
 share-panel-qr-code =
     .label = Kopīgot kvadrātkodu
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Nosūtīt uz mobilo ierīci
 share-panel-device-subview =
     .title = Visas ierīces
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Pievienot ierīci
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =

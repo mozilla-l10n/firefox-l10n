@@ -42,6 +42,8 @@ managed-notice-info-icon =
     .alt = Informācija
 managed-notice-nav =
     .label = Jūsu pārlūku pārvalda jūsu organizācija.
+tls-key-logging-notice-nav =
+    .label = Lietotne vai pakalpojums var redzēt šifrēto datu plūsmu.
 category-list =
     .aria-label = Kategorijas
 pane-general-title = Vispārīgi
@@ -1771,6 +1773,9 @@ related-settings-tabs-browsing-link =
 ## AI controls page
 
 preferences-ai-controls-block-ai-label = Liegt MI uzlabojumus
+preferences-ai-controls-sidebar-chatbot-group-3 =
+    .description = Paturi tērzēšanas botu redzeslaukā, kamēr pārlūko! Izvēlies no vairākiem nodrošinātājiem un pārslēdzies jebkurā laikā!
+    .label = MI tērzēšanas botu nodrošinātāji sānu joslā
 preferences-ai-controls-block-confirmation-heading = Liegt MI uzlabojumus?
 preferences-ai-controls-block-confirmation-confirm =
     .label = Liegt

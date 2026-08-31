@@ -139,6 +139,10 @@ autofill-card-name-on-card-2 =
     .label = Kartes īpašnieks
 autofill-card-billing-address-2 =
     .label = Rēķina adrese
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Kartes īpašnieks
 autofill-card-expires-month = Der.t. mēnesis
 autofill-card-expires-year = Der.t. gads
