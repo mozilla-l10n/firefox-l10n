@@ -146,6 +146,10 @@ autofill-card-expires-year-2 =
     .label = ვადის გასვლის წელი
 autofill-card-billing-address-2 =
     .label = ანგარიშსწორების მისამართი
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = მფლობელის სახელი
 autofill-card-expires-month = ვადის გასვლის თვე
 autofill-card-expires-year = ვადის გასვლის წელი
