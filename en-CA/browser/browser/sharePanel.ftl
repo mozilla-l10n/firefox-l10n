@@ -11,26 +11,26 @@ urlbar-share-button =
     .tooltiptext = Share this page
 share-panel-heading = Share Page
 share-panel-copy-link =
-    .label = Copy link
+    .label = Copy Link
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Link copied
 share-panel-os-share =
     .label = Share with…
 share-panel-mail =
-    .label = Send email
+    .label = Send Email
 share-panel-screenshot =
-    .label = Take a screenshot
+    .label = Take a Screenshot
 share-panel-qr-code =
     .label = Share QR code
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
-    .label = Send to device
+    .label = Send to Device
 # This string is shown when the user has no other devices signed in to their account.
 # Clicking this will bring them to a place where they can connect other devices.
 share-panel-send-to-mobile =
-    .label = Send to mobile
+    .label = Send to Mobile
 share-panel-device-subview =
     .title = All Devices
 # Shown below the device list in the share panel's device subview. Clicking it
@@ -40,6 +40,6 @@ share-panel-connect-device =
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
-    .label = Don’t see your device?
+    .label = Don’t See Your Device?
 share-panel-os-share-subview =
     .title = Share With…
