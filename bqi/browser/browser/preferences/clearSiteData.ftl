@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-site-data-window2 =
-    .title = روفتن داده یل
     .style = min-width: 35em
+    .title = روفتن داده یل
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -41,5 +41,5 @@ clear-site-data-cache-empty =
     .label = موئتوا زفت وابیڌه وب
     .accesskey = W
 clear-site-data-dialog =
-    .buttonlabelaccept = پاک کردن
+    .buttonlabelaccept = روفتن
     .buttonaccesskeyaccept = l

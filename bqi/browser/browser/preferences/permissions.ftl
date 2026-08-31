@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = استسنایل
     .style = min-width: 45em
+    .title = استسنایل
 permissions-close-key =
     .key = w
 permissions-address = نشۊوی وبگه
@@ -80,28 +80,28 @@ permissions-invalid-uri-label = نوم هاست موعتبری بزنین
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = استسنایل سی سیستوم زفت وابیڌن پؽش رئڌه جلاو رڌجۊری
     .style = { permissions-window2.style }
+    .title = استسنایل سی سیستوم زفت وابیڌن پؽش رئڌه جلاو رڌجۊری
 permissions-exceptions-manage-etp-desc = ترین موشخس کۊنین ک کو وبگه یل ویژیی زفت وابیڌن پؽش رئڌه جلاو رڌجۊری ن خامۊش کردنه. نشۊوی دییق وبگهی ن ک اخۊین دؽوۉداری کۊنین تایپ کۊنین وو اوسو ری «ٱووردن استسنا» کلیک کۊنین.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = استسنایل - کۊکیا وو داده یل وبگه
     .style = { permissions-window2.style }
+    .title = استسنایل - کۊکیا وو داده یل وبگه
 permissions-exceptions-cookie-desc = ترین موشخس کۊنین چ وبگه یلی ترن هی یا هرگشت دسرسی و کۊکیا وو داده یل وبگهی داشته بۊن. نشۊوی دییق وبگهی ک اخۊین دؽوۉداری کۊنین ن بزنین وو اوسو و ری «مسدۊد کردن»، «هشتن من ای نشست»، یا «هشتن» کلیک کۊنین.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
     .style = { permissions-window2.style }
-    .title = استسنایل - پاک کردن ویرگار من مجال خامۊش واببڌن
+    .title = استسنایل - روفتن ویرگار من مجال خامۊش واببڌن
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = مووردا استسنا - هالت تینا HTTPS
     .style = { permissions-window2.style }
+    .title = مووردا استسنا - هالت تینا HTTPS
 permissions-exceptions-https-only-desc = ایسا ترین هالت تینا-HTTPS ن سی ی قرده ز وبگه یل قیرفعال کۊنین. { -brand-short-name } تفره سی بؽڌر وابیڌن منپیز من ای وبگه یل و HTTPS نؽکونه. مووردا استسنا من نیمدری یل سیخومی تئسیر نڌارن.
 permissions-exceptions-https-only-desc2 = ایسا ترین هالت تینا-HTTPS ن سی ی قرده ز وبگه یل قیرفعال کۊنین. { -brand-short-name } تفره سی بؽڌر وابیڌن منپیز من ای وبگه یل و HTTPS نؽکونه.
 
@@ -120,22 +120,22 @@ permissions-exceptions-popup-window2 =
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window2 =
-    .title = استسنایل - و من ٱووڌنا زفت وابیڌه
     .style = { permissions-window2.style }
+    .title = استسنایل - و من ٱووڌنا زفت وابیڌه
 permissions-exceptions-saved-logins-desc = و من ٱووڌن سی و دین کردن وبگه یل اینترنتی ک زفت نوابیڌنه
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = استسنایل - رزما زفت وابیڌه
     .style = { permissions-window2.style }
+    .title = استسنایل - رزما زفت وابیڌه
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } رزما وبگه یل نومگه بیڌه ایچونا ن زفت نؽکونه.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = وبگه یل هشته - وردنی یل پۊرنیڌه
     .style = { permissions-window2.style }
+    .title = وبگه یل هشته - وردنی یل پۊرنیڌه
 
 ## Site Permissions - Autoplay
 
@@ -147,8 +147,8 @@ permissions-site-autoplay-desc = ایسا ترین وبگه یلی ک گۊش گ�
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = سامووا-موجوزا وارسۊوی
     .style = { permissions-window2.style }
+    .title = سامووا-موجوزا وارسۊوی
 permissions-site-notification-disable-label =
     .label = درخاستا نۊ سی هشتن وارسۊویا ن مسدۊد کۊنین
 
@@ -163,21 +163,21 @@ permissions-site-location-disable-label =
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = سامووا - موجوزا واقعیت مجازی
     .style = { permissions-window2.style }
+    .title = سامووا - موجوزا واقعیت مجازی
 
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = سامووا - برنومه یل وو سرویسا دسگا
     .style = { permissions-window2.style }
+    .title = سامووا - برنومه یل وو سرویسا دسگا
 permissions-site-localhost-desc = ای وبگه یل درخاست دسرسی و برنومه یل وو خدمات مووجۊد من ای دسگا ن دارن. ترین وبگه یل ن بهلین یا هونووݩ ن ز ٱنجوم ای کار منع کۊنین.
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = سامووا - دسگایل شبکه مهلی
     .style = { permissions-window2.style }
+    .title = سامووا - دسگایل شبکه مهلی
 
 ## Site Permissions - Microphone
 
@@ -192,8 +192,8 @@ permissions-site-microphone-disable-label =
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = سامووا - موجوزا بولندگۊ
     .style = { permissions-window2.style }
+    .title = سامووا - موجوزا بولندگۊ
 permissions-exceptions-doh-window =
     .style = { permissions-window2.style }
     .title = وبگه یل موستسنا سی دی ان اس ری HTTPS

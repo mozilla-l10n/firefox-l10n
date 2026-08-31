@@ -1635,7 +1635,7 @@ trustpanel-header-enabled-insecure = ویرت وا ای وبگه بۊ
 trustpanel-header-disabled = ایسا زفت وابیڌنا ن کۊر کردین
 trustpanel-clear-cookies-button = پاک کردن کۊکیا وو داده یل وبگه
 trustpanel-privacy-link = سامووا هریم سیخومی
-trustpanel-clear-cookies-subview-button-clear = پاک کردن
+trustpanel-clear-cookies-subview-button-clear = روفتن
 trustpanel-clear-cookies-subview-button-cancel = لقو
 # Variables
 #  $host (String): the hostname of the site that is being displayed.

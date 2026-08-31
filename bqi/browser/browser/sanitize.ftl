@@ -5,13 +5,13 @@
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = روفتن ویرگار دیندایی
     .style = min-width: 34em
+    .title = روفتن ویرگار دیندایی
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = روفتن پوی ویرگار
     .style = min-width: 34em
+    .title = روفتن پوی ویرگار
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -72,7 +72,7 @@ window-close =
 sanitize-button-ok =
     .label = سکو روفته بۊ
 sanitize-button-ok2 =
-    .label = پاک کردن
+    .label = روفتن
 sanitize-button-ok-on-shutdown =
     .label = زفت آلشتکاریا
 # The label for the default button between the user clicking it and the window
@@ -82,7 +82,7 @@ sanitize-button-clearing =
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = پوی ویرگار پاک ابۊ.
+sanitize-everything-warning = پوی ویرگار روفته ابۊ.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

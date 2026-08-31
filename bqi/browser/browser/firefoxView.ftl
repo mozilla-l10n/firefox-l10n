@@ -14,8 +14,8 @@ firefoxview-page-heading =
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
-    .title = بستن
     .aria-label = بستن
+    .title = بستن
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = هیم سکو
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -124,7 +124,7 @@ firefoxview-show-more = نشووݩ داڌن قلوه
 firefoxview-show-less = نشووݩ داڌن کمتر
 firefoxview-show-all = نشووݩ داڌن پوی
 firefoxview-search-text-box-clear-button =
-    .title = پاک کردن
+    .title = روفتن
 # Placeholder for the input field to search in recent browsing ("search" is a verb).
 firefoxview-search-text-box-recentbrowsing =
     .placeholder = پیتینیڌن

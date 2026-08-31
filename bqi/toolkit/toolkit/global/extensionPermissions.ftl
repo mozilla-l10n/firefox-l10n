@@ -9,7 +9,7 @@
 
 webext-perms-description-bookmarks = خوندن وو سامووݩ نشووکا
 webext-perms-description-browserSettings = خوندن وو آلشت سامووا گشت گر
-webext-perms-description-browsingData = پاک کردن ویرگار گشت دیندایی، کۊکیا وو دووسمندیاسووݩ
+webext-perms-description-browsingData = روفتن ویرگار گشت دیندایی، کۊکیا وو دووسمندیاسووݩ
 webext-perms-description-clipboardRead = گرؽڌن داده یل ز کلیپ بورد
 webext-perms-description-clipboardWrite = و من ٱووردن و کلیپ بورد
 webext-perms-description-declarativeNetRequest = موئتوا ن من هر بلگه ای مسدۊد کوݩ
