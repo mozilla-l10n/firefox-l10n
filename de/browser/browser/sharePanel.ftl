@@ -30,6 +30,8 @@ share-panel-mail =
     .label = E-Mail senden
 share-panel-screenshot =
     .label = Bildschirmfoto aufnehmen
+share-panel-qr-code-2 =
+    .label = QR-Code generieren
 share-panel-qr-code =
     .label = QR-Code teilen
 # This string is shown when the user has more than 1 device signed in to their account.

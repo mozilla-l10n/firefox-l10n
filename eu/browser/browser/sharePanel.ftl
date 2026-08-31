@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Lotura kopiatuta
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Partekatu Windows erabiliz…
+            [macos] Partekatu Mac erabiliz…
+           *[other] Partekatu honekin…
+        }
 share-panel-os-share =
     .label = Partekatu honekin…
 share-panel-mail =
     .label = Bidali mezu elektronikoa
 share-panel-screenshot =
     .label = Hartu pantaila-argazkia
+share-panel-qr-code-2 =
+    .label = Sortu QR kodea
 share-panel-qr-code =
     .label = Partekatu QR kodea
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Bidali mugikorrera
 share-panel-device-subview =
     .title = Gailu guztiak
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Gehitu gailua
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =

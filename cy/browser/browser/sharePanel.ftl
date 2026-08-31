@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Dolen wedi'i chopïo
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Rhannu gyda Windows…
+            [macos] Rhannu gyda Mac…
+           *[other] Rhannu gyda…
+        }
 share-panel-os-share =
     .label = Rhannu gyda…
 share-panel-mail =
     .label = Anfon e-bost
 share-panel-screenshot =
     .label = Cymryd llun sgrin
+share-panel-qr-code-2 =
+    .label = Creu Cod QR
 share-panel-qr-code =
     .label = Rhannu cod QR
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Anfon i'r symudol
 share-panel-device-subview =
     .title = Pob Dyfais
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Ychwanegu Dyfais
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =
