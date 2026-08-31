@@ -58,4 +58,3 @@ share-panel-missing-device =
     .label = Non vedi il tuo dispositivo?
 share-panel-os-share-subview =
     .title = Condividi con…
-
