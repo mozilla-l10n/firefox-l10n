@@ -35,13 +35,13 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Rozšířená ochrana proti sledování
-    .description = Zapnutá pro tuto stránku
     .aria-label = Rozšířená ochrana proti sledování: zapnutá na stránce { $host }
-protections-panel-etp-toggle-off =
+    .description = Zapnutá pro tuto stránku
     .label = Rozšířená ochrana proti sledování
-    .description = Vypnutá pro tuto stránku
+protections-panel-etp-toggle-off =
     .aria-label = Rozšířená ochrana proti sledování: vypnutá na stránce { $host }
+    .description = Vypnutá pro tuto stránku
+    .label = Rozšířená ochrana proti sledování
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -150,9 +150,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Zrušit
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Odeslat hlášení
-
-# Cookie Banner Handling
-
 protections-panel-cookie-banner-handling-header = Omezení cookie lišt
 protections-panel-cookie-banner-blocker-header = Blokování lišt cookie
 protections-panel-cookie-banner-handling-enabled = Zapnuto pro tento web
@@ -169,7 +166,7 @@ protections-panel-cookie-banner-blocker-view-title =
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vypnout blokování lišť cookie pro { $host }?
-protections-panel-cookie-banner-blocker-view-turn-on-for-site = Zapnout blokování lišť cookie pro { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Zapnout blokování lišt cookie pro tento web?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } smaže cookies tohoto webu a stránku znovu načte. Vymazání všech cookies může způsobit vaše odhlášení nebo třeba vyprázdnění nákupního koše.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } se pokusí automaticky odmítnout všechny žádosti o povolení cookies na podporovaných serverech.
 protections-panel-cookie-banner-view-cancel = Zrušit
