@@ -437,9 +437,9 @@ about-logins-import-dialog-items-modified2 =
     }
 about-logins-import-dialog-items-no-change2 =
     { $count ->
-        [one] <span>Обнаружена повторяющаяся запись:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортирована)</span >
-        [few] <span>Обнаружены повторяющиеся записи:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span >
-       *[many] <span>Обнаружены повторяющиеся записи:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span >
+        [one] <span>Обнаружена повторяющаяся запись:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортирована)</span>
+        [few] <span>Обнаружены повторяющиеся записи:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
+       *[many] <span>Обнаружены повторяющиеся записи:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
