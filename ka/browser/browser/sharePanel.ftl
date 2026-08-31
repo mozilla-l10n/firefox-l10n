@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = ბმული აღებულია
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] გაზიარებისთვის გამოიყენეთ Windows…
+            [macos] გაზიარებისთვის გამოიყენეთ Mac…
+           *[other] გაზიარებისთვის გამოიყენეთ…
+        }
 share-panel-os-share =
     .label = გაზიარება…
 share-panel-mail =
     .label = ელფოსტით
 share-panel-screenshot =
     .label = ეკრანის გადაღება
+share-panel-qr-code-2 =
+    .label = QR-კოდის შედგენა
 share-panel-qr-code =
     .label = QR-კოდის გაზიარება
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = მობილურზე გაგზავნა
 share-panel-device-subview =
     .title = ყველა მოწყობილობა
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = მოწყობილობის დამატება
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =
