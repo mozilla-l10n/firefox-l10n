@@ -128,6 +128,7 @@ fxa-menu-sync-off-data-description = Dyw eich data ddim yn cydweddu
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Troi Ymlaen
+fxa-menu-sync-status-turn-on-button-aria-label = Troi Ymlaen
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Mewngofnodwch i Sync
