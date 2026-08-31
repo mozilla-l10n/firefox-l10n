@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Odkaz bol skopírovaný
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Zdieľať so systémom Windows…
+            [macos] Zdieľať so systémom Mac…
+           *[other] Zdieľať pomocou…
+        }
 share-panel-os-share =
     .label = Zdieľať pomocou…
 share-panel-mail =
     .label = Odoslať e‑mail
 share-panel-screenshot =
     .label = Urobiť snímku obrazovky
+share-panel-qr-code-2 =
+    .label = Vygenerovať QR kód
 share-panel-qr-code =
     .label = Zdieľať QR kód
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Odoslať do mobilu
 share-panel-device-subview =
     .title = Všetky zariadenia
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Pridať zariadenie
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =
