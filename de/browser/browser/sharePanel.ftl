@@ -15,6 +15,15 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Link kopiert
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Mit Windows teilen…
+            [macos] Mit Mac teilen…
+           *[other] Teilen mit…
+        }
 share-panel-os-share =
     .label = Teilen mit…
 share-panel-mail =
@@ -33,6 +42,10 @@ share-panel-send-to-mobile =
     .label = An Mobilgerät senden
 share-panel-device-subview =
     .title = Alle Geräte
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Gerät hinzufügen
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =
