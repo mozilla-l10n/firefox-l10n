@@ -21,6 +21,8 @@ share-panel-mail =
     .label = Send e-post
 share-panel-screenshot =
     .label = Ta eit skjermbilde
+share-panel-qr-code-2 =
+    .label = Opprett QR-kode
 share-panel-qr-code =
     .label = Del QR-kode
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +35,10 @@ share-panel-send-to-mobile =
     .label = Send til mobil
 share-panel-device-subview =
     .title = Alle einingar
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Legg til ei eining
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =
