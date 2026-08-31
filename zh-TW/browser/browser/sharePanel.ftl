@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = 已複製鏈結
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] 透過 Windows 分享…
+            [macos] 透過 Mac 分享…
+           *[other] 使用下列方式分享…
+        }
 share-panel-os-share =
     .label = 使用下列方式分享…
 share-panel-mail =
     .label = 寄送電子郵件
 share-panel-screenshot =
     .label = 拍攝畫面擷圖
+share-panel-qr-code-2 =
+    .label = 建立 QR Code
 share-panel-qr-code =
     .label = 分享 QR Code
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = 傳送到行動裝置
 share-panel-device-subview =
     .title = 所有裝置
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = 新增裝置
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =
