@@ -146,6 +146,10 @@ autofill-card-expires-year-2 =
     .label = Сканчэнне тэрміну, год
 autofill-card-billing-address-2 =
     .label = Плацежны адрас
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Імя на картцы
 autofill-card-expires-month = Месяц тэрміну дзеяння
 autofill-card-expires-year = Год тэрміну дзеяння
