@@ -30,6 +30,8 @@ share-panel-mail =
     .label = Mejlku pósłaś
 share-panel-screenshot =
     .label = Foto wobrazowki cyniś
+share-panel-qr-code-2 =
+    .label = QR-kod napóraś
 share-panel-qr-code =
     .label = QR-kod źěliś
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -42,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Na mobilny rěd pósłaś
 share-panel-device-subview =
     .title = Wšykne rědy
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Rěd pśidaś
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =
