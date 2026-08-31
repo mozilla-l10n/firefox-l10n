@@ -56,16 +56,6 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> no tiene efecto en este elemento porque no se puede aplicar a los elementos de la tabla interna donde <strong>border-collapse</strong> tiene el valor <strong>collapse</strong> en el elemento de la tabla principal.
 inactive-css-resize = <strong>{ $property }</strong> no tiene efecto en este elemento ya que solo se puede aplicar a elementos con un valor de desbordamiento que no sea visible y a ciertos elementos reemplazados, como áreas de texto.
 inactive-css-ruby-element = <strong>{ $property }</strong> no tiene efecto en este elemento ya que es un elemento ruby. Su tamaño está determinado por el tamaño de fuente del texto ruby.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> no es compatible con los pseudoelementos resaltados.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> no está soportada en pseudoelementos ::cue.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> no está soportada en reglas <strong>@position-try</strong>.
@@ -90,7 +80,7 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Intente agregar <strong>d
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Intente agregar <strong>display: grid</strong>, <strong>display: flex</strong> o <strong>columns: 2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Intente agregar <strong>column-count</strong> o <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Intente agregar <strong>column-count</strong> o <strong>column-width</strong> a uno de sus elementos ancestros. { learn-more }
-inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Intente agregar <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong > o <strong>display:inline-flex</strong> al padre del elemento. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Intente agregar <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al padre del elemento. { learn-more }
 inactive-css-not-grid-or-absolutely-positioned-item-fix = Intente agregar <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del elemento. { learn-more }
 inactive-css-not-absolutely-positioned-item-fix = Intente agregar <strong>position:absolute</strong> al elemento. { learn-more }
 inactive-css-no-default-anchor-fix = Intente agregar <strong>position-anchor</strong> con un nombre de enlace válido. { learn-more }
@@ -129,7 +119,7 @@ inactive-css-not-grid-or-flex-or-block-container-fix-1 = Intente agregar <strong
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix-1 = Intente agregar <strong>display: grid</strong>, <strong>display: flex</strong> o <strong>columns: 2</strong>.
 inactive-css-not-multicol-container-fix-1 = Intente agregar <strong>column-count</strong> o <strong>column-width</strong>.
 inactive-css-column-span-fix-1 = Intente agregar <strong>column-count</strong> o <strong>column-width</strong> a uno de sus elementos ancestros.
-inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Intente agregar <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong > o <strong>display:inline-flex</strong> al padre del elemento.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = Intente agregar <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al padre del elemento.
 inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = Intente agregar <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del elemento.
 inactive-css-not-absolutely-positioned-item-fix-1 = Intente agregar <strong>position:absolute</strong> al elemento.
 inactive-css-no-default-anchor-fix-1 = Intente agregar <strong>position-anchor</strong> con un nombre de enlace válido.

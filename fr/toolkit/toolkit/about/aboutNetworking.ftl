@@ -36,7 +36,7 @@ about-networking-ssl-tokens-summary-expired =
 # $compressedLength (Number) - Total compressed size in bytes across all tokens
 # $saved (Number) - Percentage of space saved by compression
 about-networking-ssl-tokens-summary-compression =
-    { $total ->
+    { $saved ->
         [one] { $decompressedLength } → { $compressedLength } o ({ $saved } % économisé)
        *[other] { $decompressedLength } → { $compressedLength } o ({ $saved } % économisés)
     }
