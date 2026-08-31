@@ -12,7 +12,6 @@ genai-settings-chat-gemini-links = Ved å velje Google Gemini godkjenner du <a d
 genai-settings-chat-huggingchat-links = Ved å velje HuggingChat godkjenner du <a data-l10n-name="link1">personvernfråsegna til HuggingChat</a> og <a data-l10n-name="link2">personvernfråsegna til Hugging Face</a>.
 genai-settings-chat-lechat-links-2 = Ved å velje Mistral Vibe godtek du Mistral Ais <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernpraksis</a>.
 genai-settings-chat-lechat-links = Ved å velje Le Chat Mistral godkjenner du <a data-l10n-name="link1">tenestevilkåra</a> og <a data-l10n-name="link2">personvernfråsegna</a> for Mistral AI .
-genai-settings-chat-localhost-links = Ta med din egen privata lokale samtalerobot som <a data-l10n-name="link1">llamafile</a> frå { -vendor-short-name }s innovasjonsgruppe.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -48,17 +47,17 @@ genai-prompt-prefix-selection = Eg er på sida «{ $tabTitle }» med «{ $select
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Spør KI chatbot
+    .label = Spør KI-chatbot
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Spør { $provider }
 genai-menu-open-generic =
-    .label = Opne KI Chatbot
+    .label = Opne KI-Chatbot
 # $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = Opne { $provider }
 genai-menu-remove-generic =
-    .label = Fjern KI chatbot
+    .label = Fjern KI-chatbot
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Fjern { $provider }
@@ -72,7 +71,7 @@ genai-menu-summarize-page = Samanfatt side
 genai-input-ask-smart-window =
     .placeholder = Spør…
 genai-input-ask-generic =
-    .placeholder = Spør KI chatbot…
+    .placeholder = Spør KI-chatbot…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spør { $provider }…
@@ -102,7 +101,7 @@ genai-menu-ask-provider-2 =
     .label = Spør { $provider }
     .accesskey = ø
 genai-menu-no-provider-2 =
-    .label = Spør en AI-chatbot
+    .label = Spør en KI-chatbot
     .accesskey = ø
 genai-menu-ask-smart-window =
     .label = Spør…
@@ -120,7 +119,7 @@ genai-header-options-button =
 genai-header-close-button =
     .title = Lat att
 genai-provider-view-details =
-    .label = Vis samtalerobot-detaljar
+    .label = Vis chatbot-detaljar
 genai-options-reload-generic =
     .label = Last inn KI-chatboten på nytt
 # $provider (string) - name of the provider
@@ -131,7 +130,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Skjul snarveg når du vel tekst
 genai-options-about-chatbot =
-    .label = Om KI-samtalerobotar i { -brand-short-name }
+    .label = Om KI-chatbotar i { -brand-short-name }
 
 ## Chatbot message
 
@@ -145,9 +144,9 @@ genai-page-button-summarize = Samanfatt side
 ## Chatbot onboarding
 
 genai-onboarding-header = Samanfatt, ha ein idédugnad, og meir medan du surfar
-genai-onboarding-choose-header = Vel ein KI-samtalerobot å bruke i { -brand-short-name }-sidestolpen
+genai-onboarding-choose-header = Vel ein KI-chatbot å bruke i { -brand-short-name }-sidestolpen
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Vel ein KI-samtalerobot du vil bruke i sidestopen { -brand-short-name }. Vi viser detaljar om kvar samtalerobot når du vel han. Byt når som helst. <a data-l10n-name="learn-more">Les meir</a>
+genai-onboarding-description = Vel ein KI-chatbot du vil bruke i sidestopen { -brand-short-name }. Vi viser detaljar om kvar chatbot når du vel han. Byt når som helst. <a data-l10n-name="learn-more">Les meir</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Byt når som helst. For å finne ut kva du skal velje, <a data-l10n-name="learn-more">les meir om kvar samtalerobot</a>.
 genai-onboarding-primary = Hald fram
@@ -246,8 +245,8 @@ link-preview-generation-retry = Prøv igjen
 link-preview-settings-button =
     .title = Innstillingar for førehandsvising av lenke
 link-preview-settings-enable =
-    .label = Aktiver førehandsvisingar av lenker
     .description = Sjå sidetittel, beskriving og meir når du brukar snarvegen eller høgreklikkar på ei lenke.
+    .label = Aktiver førehandsvisingar av lenker
 link-preview-settings-key-points =
     .label = La KI lese byrjinga av sida og generere hovudpunkt
 link-preview-settings-long-press =
