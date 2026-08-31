@@ -26,24 +26,9 @@ autofill-address-additional-name = Ūtrais vōrds
 autofill-address-family-name = Uzvōrds
 autofill-address-organization = Uzjāmums
 autofill-address-street = Adrese
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Piļsāta
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Nūvods
 autofill-address-state = Štats
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-postal-code = Posta indekss
 # Postal code field.
 autofill-address-zip = Posta indekss

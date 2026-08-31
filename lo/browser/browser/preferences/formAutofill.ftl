@@ -53,11 +53,6 @@ autofill-address-name = ຊື່
 autofill-address-organization = ອົງການຈັດຕັ້ງ
 autofill-address-street-address = ທີ່​ຢູ່​ຖະ​ຫນົນ
 autofill-address-street = ທີ່​ຢູ່​ຖະ​ຫນົນ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = ບ້ານໃກ້ເຮືອນຄຽງ
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -65,11 +60,6 @@ autofill-address-village-township = ບ້ານ ຫຼື ເມືອງ
 autofill-address-island = ເກາະ
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = ບ້ານເມືອງ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = ເມືອງ
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -79,11 +69,6 @@ autofill-address-post-town = ເມືອງ
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = ຊານເມືອງ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = ແຂວງ
 autofill-address-state = ລັດ
 autofill-address-county = ປະເທດ
@@ -101,11 +86,6 @@ autofill-address-department = ພະແນກ
 autofill-address-emirate = ເອມິເຣດ
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = ເຂດ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = ປັກໝຸດ
 autofill-address-postal-code = ລະ​ຫັດ​ໄປ​ສະ​ນີ

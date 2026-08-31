@@ -26,24 +26,9 @@ autofill-address-additional-name = बीचको नाम
 autofill-address-family-name = थर
 autofill-address-organization = सङ्गठन
 autofill-address-street = सडक ठेगाना
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = सहर
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = प्रदेश
 autofill-address-state = स्टेट
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-postal-code = पोष्ट कोड
 # Postal code field.
 autofill-address-zip = ZIP कोड

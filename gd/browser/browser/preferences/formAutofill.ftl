@@ -26,11 +26,6 @@ autofill-address-additional-name = Ainm meadhanach
 autofill-address-family-name = Sloinneadh
 autofill-address-organization = Buidheann
 autofill-address-street = Seòladh sràide
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = Coimhearsnachd
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -38,11 +33,6 @@ autofill-address-village-township = Baile
 autofill-address-island = Eilean
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = Baile-fearainn
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Baile
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -52,11 +42,6 @@ autofill-address-post-town = Baile puist
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = Frith-bhaile
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Siorrachd/Còigeamh
 autofill-address-state = Stàit
 autofill-address-county = Siorrachd
@@ -74,11 +59,6 @@ autofill-address-department = Roinn
 autofill-address-emirate = Iomarat
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = Oblast
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = PIN
 autofill-address-postal-code = Còd-puist

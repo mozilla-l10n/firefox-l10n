@@ -26,11 +26,6 @@ autofill-address-additional-name = Innde ɗiɗaɓere
 autofill-address-family-name = Yettoode
 autofill-address-organization = Fedde
 autofill-address-street = Ñiiɓirde Laawol
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = Leegal
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -38,11 +33,6 @@ autofill-address-village-township = Wuro ladde walla wuro teeru
 autofill-address-island = Duunde
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = Townland
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Wuro
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -52,11 +42,6 @@ autofill-address-post-town = Poosto wuro
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = Suburb
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Dowri
 autofill-address-state = Leydi
 autofill-address-county = Kontee
@@ -74,11 +59,6 @@ autofill-address-department = Departemaa
 autofill-address-emirate = Emiraa
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = Oblast
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = Pinngu
 autofill-address-postal-code = Kod Posto

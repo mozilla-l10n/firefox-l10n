@@ -26,11 +26,6 @@ autofill-address-additional-name = নামের মধ্যাংশ
 autofill-address-family-name = নামের শেষাংশ
 autofill-address-organization = প্রতিষ্ঠান
 autofill-address-street = সড়ক
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = প্রতিবেশী
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -38,11 +33,6 @@ autofill-address-village-township = গ্রাম বা শহর
 autofill-address-island = দ্বীপ
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = টাউনল্যান্ড
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = শহর
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -52,11 +42,6 @@ autofill-address-post-town = উপশহর
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = গ্রাম
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = প্রদেশ
 autofill-address-state = রাজ্য
 autofill-address-county = কাউন্টি
@@ -74,11 +59,6 @@ autofill-address-department = বিভাগ
 autofill-address-emirate = আমিরাত
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = অবলাস্ট
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = পিন
 autofill-address-postal-code = পোস্টাল কোড

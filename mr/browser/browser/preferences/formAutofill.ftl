@@ -26,11 +26,6 @@ autofill-address-additional-name = मधले नाव
 autofill-address-family-name = आडनाव
 autofill-address-organization = संस्था
 autofill-address-street = रस्ता
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = शेजार
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -38,11 +33,6 @@ autofill-address-village-township = गाव किंवा वसाहत
 autofill-address-island = बेट
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = प्रभाग
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = शहर
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -52,11 +42,6 @@ autofill-address-post-town = टपाल नगर
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = उपनगर
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = प्रांत
 autofill-address-state = राज्य
 autofill-address-county = देश
@@ -66,11 +51,6 @@ autofill-address-parish = पॅरीश
 autofill-address-area = क्षेत्र
 # Used in Nicaragua (NI), Colombia (CO) as primary address information (1 level below the country level).
 autofill-address-department = विभाग
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = पिन
 autofill-address-postal-code = पोस्ट कोड

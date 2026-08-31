@@ -7,8 +7,8 @@
 
 # Address bar button that opens the share panel.
 urlbar-share-button =
-    .tooltiptext = Share this page
     .aria-label = Share this page
+    .tooltiptext = Share this page
 share-panel-heading = Share Page
 share-panel-copy-link =
     .label = Copy link

@@ -29,11 +29,6 @@ autofill-address-additional-name = Ruka'n B'i'aj
 autofill-address-family-name = Ruka'n B'i'aj
 autofill-address-organization = Moloj
 autofill-address-street = Rochochib'al B'ey
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = Nimachinamït
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -41,11 +36,6 @@ autofill-address-village-township = Tinamït o Chinamït
 autofill-address-island = Yul
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = Townland
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Tinamït
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -55,11 +45,6 @@ autofill-address-post-town = Post town
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = k'ulb'at
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Lajtinamït
 autofill-address-state = Amaq'
 autofill-address-county = Tinamït
@@ -77,11 +62,6 @@ autofill-address-department = Tinamital
 autofill-address-emirate = Emirato
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = Lajtinamït
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = Ximoj
 autofill-address-postal-code = Rub'itz'ib' B'ow

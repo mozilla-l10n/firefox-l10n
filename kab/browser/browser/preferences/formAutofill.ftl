@@ -58,11 +58,6 @@ autofill-address-name = Isem
 autofill-address-organization = Takebbanit
 autofill-address-street-address = Tansa n taddart
 autofill-address-street = Tansa n taddart
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = Taddart
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -70,11 +65,6 @@ autofill-address-village-township = Taddart neɣ adrum
 autofill-address-island = Tigzirt
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = Tamurt
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Aɣrem
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -84,11 +74,6 @@ autofill-address-post-town = Sader
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = Tamnaḍt
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Tamnaḍt
 autofill-address-state = Addad
 autofill-address-county = Tamurt
@@ -106,11 +91,6 @@ autofill-address-department = Agezdu
 autofill-address-emirate = Tageldit
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = Tamnaḍt
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = Pin
 autofill-address-postal-code = Tangalt n pusṭa

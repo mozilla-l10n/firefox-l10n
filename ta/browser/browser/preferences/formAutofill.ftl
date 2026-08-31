@@ -20,17 +20,7 @@ autofill-manage-edit-button = திருத்து…
 autofill-edit-address-title = முகவரியைத் திருத்தவும்
 autofill-address-additional-name = நடு பெயர்
 autofill-address-organization = நிறுவனம்
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = நகரம்
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-state = மாநிலம்
 
 ##

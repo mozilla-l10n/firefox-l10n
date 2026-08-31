@@ -61,11 +61,6 @@ autofill-address-name = Nosaukums
 autofill-address-organization = Uzņēmums
 autofill-address-street-address = Ielas adrese
 autofill-address-street = Adrese
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = Apkaime
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -73,11 +68,6 @@ autofill-address-village-township = Ciemats vai pilsēta
 autofill-address-island = Sala
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = Pilsētas apkaime
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Pilsēta
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -87,11 +77,6 @@ autofill-address-post-town = Pasta pilsēta
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = Priekšpilsēta
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Rajons
 autofill-address-state = Štats
 autofill-address-county = Apgabals
@@ -109,11 +94,6 @@ autofill-address-department = Nodaļa
 autofill-address-emirate = Emirāts
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = Apgabals
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = Pin
 autofill-address-postal-code = Pasta indekss

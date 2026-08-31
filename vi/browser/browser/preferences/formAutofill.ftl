@@ -64,11 +64,6 @@ autofill-address-name = Tên
 autofill-address-organization = Tổ chức
 autofill-address-street-address = Địa chỉ đường phố
 autofill-address-street = Địa chỉ đường phố
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = Khu vực lân cận
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -76,11 +71,6 @@ autofill-address-village-township = Làng hoặc thị trấn
 autofill-address-island = Đảo
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = Thị trấn
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Thành phố
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -90,11 +80,6 @@ autofill-address-post-town = Bưu điện thị trấn
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = Ngoại thành
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Tỉnh
 autofill-address-state = Bang
 autofill-address-county = Quận
@@ -112,11 +97,6 @@ autofill-address-department = Sở
 autofill-address-emirate = Tiểu Vương quốc
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = Tỉnh
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = Pin
 autofill-address-postal-code = Mã bưu chính

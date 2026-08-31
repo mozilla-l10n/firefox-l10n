@@ -64,11 +64,6 @@ autofill-address-name = 이름
 autofill-address-organization = 조직
 autofill-address-street-address = 도로 주소
 autofill-address-street = 도로 주소
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = 단지
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -76,11 +71,6 @@ autofill-address-village-township = 마을 또는 읍
 autofill-address-island = 섬
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = 타운랜드
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = 도시
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -90,11 +80,6 @@ autofill-address-post-town = 포스트타운
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = 근교
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = 주
 autofill-address-state = 주
 autofill-address-county = 주
@@ -112,11 +97,6 @@ autofill-address-department = 부서
 autofill-address-emirate = 토후국
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = 주
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = 우편 번호
 autofill-address-postal-code = 우편 번호

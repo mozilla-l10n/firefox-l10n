@@ -17,26 +17,11 @@ autofill-manage-edit-button = Editar…
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-organization = Organización
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-island = Islla
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Ciudá
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-district = Distritu
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Provincia
 autofill-address-state = Estáu
 # Used in Japan (JP) as primary address information (1 level below the country level).
@@ -47,11 +32,6 @@ autofill-address-area = Área
 autofill-address-department = Departamentu
 # Used in United Arab Emirates (AE) as primary address information (1 level below the country level).
 autofill-address-emirate = Emiratu
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-postal-code = Códigu postal
 
 ##

@@ -26,11 +26,6 @@ autofill-address-additional-name = ᱛᱟᱞᱟ ᱧᱩᱛᱩᱢ
 autofill-address-family-name = ᱢᱩᱪᱟᱹᱫ ᱧᱩᱛᱩᱢ
 autofill-address-organization = ᱜᱟᱶᱛᱟ
 autofill-address-street = ᱥᱚᱰᱚᱠ ᱴᱷᱤᱠᱬᱟᱹ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = ᱥᱩᱨᱥᱩᱨᱦᱚᱲ
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -38,11 +33,6 @@ autofill-address-village-township = ᱟᱹᱛᱩ ᱟᱨᱵᱟᱝ ᱴᱚᱞᱟ
 autofill-address-island = ᱟᱭᱞᱮᱱᱰ
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = ᱴᱟᱣᱱᱞᱮᱱᱰ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = ᱥᱚᱦᱚᱨ
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -52,11 +42,6 @@ autofill-address-post-town = ᱯᱚᱥᱴ ᱴᱚᱣᱩᱱ
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = ᱥᱟᱹᱵᱟᱹᱨᱵ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = ᱯᱚᱱᱚᱛ
 autofill-address-state = ᱯᱚᱱᱚᱛ
 autofill-address-county = ᱫᱤᱥᱚᱢ
@@ -74,11 +59,6 @@ autofill-address-department = ᱛᱟᱞᱢᱟ
 autofill-address-emirate = ᱮᱢᱤᱨᱮᱴ
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = ᱚᱵᱞᱟᱥᱴ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = ᱞᱟᱴᱷᱟ
 autofill-address-postal-code = ᱯᱚᱥᱴ ᱠᱳᱰ

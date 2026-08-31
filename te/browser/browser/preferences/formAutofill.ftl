@@ -42,11 +42,6 @@ autofill-address-name = పేరు
 autofill-address-organization = సంస్థ
 autofill-address-street-address = వీధి చిరునామా
 autofill-address-street = వీధి చిరునామా
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = పరిసర ప్రాంతం
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -54,29 +49,14 @@ autofill-address-village-township = గ్రామం లేదా టౌన్
 autofill-address-island = ఐస్‌లాండ్
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = టౌన్లాండ్
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = పట్టణం
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-district = జిల్లా
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = కార్యాచరణ పరిధి
 autofill-address-state = రాష్ట్రం
 # Used in Nicaragua (NI), Colombia (CO) as primary address information (1 level below the country level).
 autofill-address-department = విభాగం
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-postal-code = పోస్టల్ కోడ్
 # Postal code field.
 autofill-address-zip = జిప్ కోడు

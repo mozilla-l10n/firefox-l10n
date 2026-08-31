@@ -16,11 +16,6 @@ autofill-manage-remove-button = Ewechhuelen
 autofill-edit-address-title = Adress änneren
 autofill-address-given-name = Virnumm
 autofill-address-organization = Organisatioun
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Provënz
 
 ##

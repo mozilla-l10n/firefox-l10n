@@ -26,11 +26,6 @@ autofill-address-additional-name = နာမည်အလယ်လုံး
 autofill-address-family-name = နာမည်နောက်ဆုံးအလုံး
 autofill-address-organization = အဖွဲ့အစည်း
 autofill-address-street = လမ်းလိပ်စာ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = နီးစပ်ရာ
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -38,31 +33,16 @@ autofill-address-village-township = ရွာ သို့မဟုတ် မြ
 autofill-address-island = ကျွန်း
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = မြို့ပြ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = မြို့
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = ဆင်ခြေဖုံးရပ်ကွက်
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-state = ပြည်နယ်
 autofill-address-county = နယ်
 # Used in Honk Kong (HK) as primary address information (1 level below the country level).
 autofill-address-area = ဧရိယာ
 # Used in Nicaragua (NI), Colombia (CO) as primary address information (1 level below the country level).
 autofill-address-department = ဌာန
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = ပင်နံပတ်
 autofill-address-postal-code = စာပို့သင်္ကေတ

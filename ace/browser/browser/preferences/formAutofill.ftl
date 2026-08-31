@@ -16,11 +16,6 @@ autofill-manage-edit-button = Andam
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-given-name = Nan Phoen
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field.
 autofill-address-zip = Kode Pos
 

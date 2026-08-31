@@ -19,11 +19,6 @@ autofill-manage-edit-button = सुजुनाय…
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-state = रायजो
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = पिन
 # Postal code field.

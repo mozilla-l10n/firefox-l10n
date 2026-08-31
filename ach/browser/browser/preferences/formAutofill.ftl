@@ -26,24 +26,9 @@ autofill-address-additional-name = Nying Mukene
 autofill-address-family-name = Nying Kwon
 autofill-address-organization = Dul
 autofill-address-street = Kanonge me yoo gudo
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Boma
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = But lobo
 autofill-address-state = District
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field.
 autofill-address-zip = Kod me ZIP
 

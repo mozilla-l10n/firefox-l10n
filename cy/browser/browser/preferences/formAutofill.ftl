@@ -64,11 +64,6 @@ autofill-address-name = Enw
 autofill-address-organization = Corff
 autofill-address-street-address = Cyfeiriad Stryd
 autofill-address-street = Cyfeiriad Stryd
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = Cymdogaeth
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -76,11 +71,6 @@ autofill-address-village-township = Pentref eu Dref
 autofill-address-island = Ynys
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = Tref
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = Tref/Dinas
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -90,11 +80,6 @@ autofill-address-post-town = Tref Post
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = Maestref
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = Ardal/Talaith
 autofill-address-state = Sir
 autofill-address-county = Sir
@@ -112,11 +97,6 @@ autofill-address-department = Adran
 autofill-address-emirate = Emirad
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = Oblast
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = Pinio
 autofill-address-postal-code = Cod Post

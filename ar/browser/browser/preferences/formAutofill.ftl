@@ -58,11 +58,6 @@ autofill-address-name = الاسم
 autofill-address-organization = المنظّمة
 autofill-address-street-address = عنوان الشارع
 autofill-address-street = عنوان الشارع
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = الحي
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
@@ -70,11 +65,6 @@ autofill-address-village-township = البلدة
 autofill-address-island = الجزيرة
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = الأرض
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = المدينة
 # Used in Hong Kong (HK), Sudan (SD), Syria (SY), Türkiye (TR) as as secondary address information (2 levels below the country level).
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
@@ -84,11 +74,6 @@ autofill-address-post-town = أنزل
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-suburb = الضاحية
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = المقاطعة
 autofill-address-state = الولاية
 autofill-address-county = البلد
@@ -106,11 +91,6 @@ autofill-address-department = القِسم
 autofill-address-emirate = الإمارة
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).
 autofill-address-oblast = المقاطعة
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 # Postal code field used in India (IN).
 autofill-address-pin = الرمز البريدي
 autofill-address-postal-code = الرمز البريدي

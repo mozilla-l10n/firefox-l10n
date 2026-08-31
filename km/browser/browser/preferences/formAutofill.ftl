@@ -32,24 +32,9 @@ autofill-address-additional-name = នាម​ក​ណ្តា​ល
 autofill-address-family-name = នាមត្រកូល
 autofill-address-organization = អង្គភាព
 autofill-address-street = អាសយ​ដ្ឋាន​វិថី
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-city = ទីក្រុង
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-province = ខេត្ត
 autofill-address-state = រដ្ឋ
-
-## Labels for address fields (e.g. for a mailing address) used as part of the form
-## autofill feature. For more information on the address structure (e.g. levels),
-## see also https://developers.google.com/maps/documentation/javascript/geocoding
-
 autofill-address-postal-code = លេខ​កូដ​ប្រៃ​ស​ណី​យ
 # Postal code field.
 autofill-address-zip = លេខ​កូដ​តំបន់
