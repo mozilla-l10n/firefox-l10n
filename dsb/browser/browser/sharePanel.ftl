@@ -15,6 +15,15 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Wótkaz jo kopěrowany
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Źěliś z Windows…
+            [macos] Źěliś z Mac…
+           *[other] Źěliś z…
+        }
 share-panel-os-share =
     .label = Źěliś z…
 share-panel-mail =
