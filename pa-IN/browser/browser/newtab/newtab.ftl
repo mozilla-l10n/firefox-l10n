@@ -207,6 +207,12 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰ ਰਹੇ ਸੀ ਤਾਂ { -brand-short-name } ਨੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ। ਤੁਸੀਂ ਉਹਨਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖ ਸਕਦੇ ਹੋ।
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = ਵੱਧ ਤੇਜ਼ ਬਰਾਊਜ਼ ਕਰੋ। ਹੋਰ ਘੱਟ ਟਰੈਕਰਾਂ ਨਾਲ।
+newtab-privacy-etp-off-turn-on-tracking = ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰੋ।
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
