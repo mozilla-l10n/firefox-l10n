@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Legg til { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Framdrift: steg { $current } av { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -232,11 +226,6 @@ mr2022-onboarding-set-default-subtitle = Bruk ein nettlesar støtta av ein ideel
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Den nyaste versjonen vår er laga for å møte dine behov og gjere det enklare å navigere på nettet. Han er fullpakka med funksjonar vi trur du kjem til like.
 mr2022-onboarding-get-started-primary-button-label = Snøgg konfigurering
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-header = Lynrask konfigurering
 mr2022-onboarding-import-subtitle = Konfiguer { -brand-short-name } slik du likar han. Legg til bokmerke, passord, og meir, frå den gamle nettlesaren din.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importer frå tidlegare nettlesar
@@ -436,7 +425,7 @@ onboarding-horizontal-tabs-description =
 onboarding-genai-sidebar-title = Prøv ein KI-chatbot i sidestolpen
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
 onboarding-genai-sidebar-subtitle = Samanfatt, ha ein idédugnad, kladd meldingar — alt medan du surfar. Vel frå fleire leverandørar. Byt når som helst. <a data-l10n-name="learn-more">Les meir</a>
-onboarding-genai-sidebar-primary-button = Vel ein samtalerobot
+onboarding-genai-sidebar-primary-button = Vel ein chatbot
 onboarding-genai-sidebar-secondary-button = Start nettlesinga
 
 ## New user onboarding checklist

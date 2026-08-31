@@ -12,6 +12,7 @@ genai-settings-chat-gemini-links = Ved å velje Google Gemini godkjenner du <a d
 genai-settings-chat-huggingchat-links = Ved å velje HuggingChat godkjenner du <a data-l10n-name="link1">personvernfråsegna til HuggingChat</a> og <a data-l10n-name="link2">personvernfråsegna til Hugging Face</a>.
 genai-settings-chat-lechat-links-2 = Ved å velje Mistral Vibe godtek du Mistral Ais <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernpraksis</a>.
 genai-settings-chat-lechat-links = Ved å velje Le Chat Mistral godkjenner du <a data-l10n-name="link1">tenestevilkåra</a> og <a data-l10n-name="link2">personvernfråsegna</a> for Mistral AI .
+genai-settings-chat-localhost-links = Ta med din eigen private lokale chatbot som <a data-l10n-name="link1">llamafile</a> frå { -vendor-short-name }s innovasjonsgruppe.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -90,7 +91,7 @@ genai-shortcuts-selected-warning =
            *[other] Du har valt { $selectionLength } teikn. Maksimalt antal teikn vi kan sende til { $provider } er omtrent { $maxLength }.
         }
 genai-shortcuts-hide =
-    .label = Skjul samtalerobot-snarveg
+    .label = Skjul chatbot-snarveg
 genai-menu-choose-chatbot =
     .label = Vel ein KI-chatbot
 genai-menu-ask-generic-2 =
@@ -111,7 +112,7 @@ genai-menu-ask-smart-window =
 
 genai-chatbot-title = KI-chatbot
 genai-header-provider-menu =
-    .title = Vel ein samtalerobot
+    .title = Vel ein chatbot
 genai-header-settings-button =
     .title = Innstillingar for KI-chat
 genai-header-options-button =
@@ -148,7 +149,7 @@ genai-onboarding-choose-header = Vel ein KI-chatbot å bruke i { -brand-short-na
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Vel ein KI-chatbot du vil bruke i sidestopen { -brand-short-name }. Vi viser detaljar om kvar chatbot når du vel han. Byt når som helst. <a data-l10n-name="learn-more">Les meir</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-choose-description = Byt når som helst. For å finne ut kva du skal velje, <a data-l10n-name="learn-more">les meir om kvar samtalerobot</a>.
+genai-onboarding-choose-description = Byt når som helst. For å finne ut kva du skal velje, <a data-l10n-name="learn-more">les meir om kvar chatbot</a>.
 genai-onboarding-primary = Hald fram
 genai-onboarding-secondary = Lat att
 genai-onboarding-claude-tooltip =
@@ -172,11 +173,11 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Les meir om Le Chat
 genai-onboarding-select-header = Marker tekst for å sjå forslag
-genai-onboarding-select-description = Når du vel tekst føreslår vi spørsmål du kan sende til samtaleroboten. Du kan òg skrive eigne spørsmål.
+genai-onboarding-select-description = Når du vel tekst føreslår vi spørsmål du kan sende til chatboten. Du kan òg skrive eigne spørsmål.
 genai-onboarding-select-primary = Begynn å chatte
 genai-chatbot-contextual-title = Bruk ein KI-chatbot utan å byte faner
 genai-chatbot-contextual-subtitle = Chat og surf side om side når du legg til ein KI-chatbot i { -brand-short-name }-sidestolpen.
-genai-chatbot-contextual-button = Vel ein samtalerobot
+genai-chatbot-contextual-button = Vel ein chatbot
 genai-chatbot-summarize-title = Nyheit! Samanfatt sider med eitt klikk
 genai-chatbot-summarize-button = Samanfatt side
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
