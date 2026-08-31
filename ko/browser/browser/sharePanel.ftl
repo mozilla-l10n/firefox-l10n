@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = 링크 복사됨
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Windows로 공유…
+            [macos] Mac으로 공유…
+           *[other] 공유…
+        }
 share-panel-os-share =
     .label = 공유…
 share-panel-mail =
     .label = 이메일 보내기
 share-panel-screenshot =
     .label = 스크린샷 찍기
+share-panel-qr-code-2 =
+    .label = QR 코드 생성
 share-panel-qr-code =
     .label = QR 코드 공유
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = 모바일로 보내기
 share-panel-device-subview =
     .title = 모든 기기
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = 기기 추가
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =
