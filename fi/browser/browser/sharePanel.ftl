@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Linkki kopioitu
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Jaa Windowsilla…
+            [macos] Jaa Macilla…
+           *[other] Jaa…
+        }
 share-panel-os-share =
     .label = Jaa…
 share-panel-mail =
     .label = Lähetä sähköposti
 share-panel-screenshot =
     .label = Ota kuvakaappaus
+share-panel-qr-code-2 =
+    .label = Luo QR-koodi
 share-panel-qr-code =
     .label = Jaa QR-koodi
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Lähetä mobiililaitteeseen
 share-panel-device-subview =
     .title = Kaikki laitteet
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Lisää laite
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =
