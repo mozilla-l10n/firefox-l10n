@@ -488,6 +488,9 @@ addon-permissions-learnmore = Дознајте повеќе за дозволи�
 addon-permissions-managed-by-policy = Некои дозволи ги управува вашата организација.
 recommended-extensions-heading = Препорачани проширувања
 recommended-themes-heading = Препорачани теми
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
+addon-sitepermissions-required = Ги доделува следните можности на <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Се чувствувате креативно? <a data-l10n-name="link"> Создате сопствена тема со Firefox Color. </a>
@@ -497,6 +500,18 @@ recommended-theme-1 = Се чувствувате креативно? <a data-l1
 extension-heading = Управувајте со проширувањата…
 theme-heading = Управувајте со темите…
 plugin-heading = Управувајте со приклучоците…
+dictionary-heading = Управувајте со вашите речници
+locale-heading = Управувајте со вашите јазици
+updates-heading = Управувајте со вашите ажурирања
+sitepermission-heading = Управувајте со дозволите на вашите места
+discover-heading = Персонализирајте го { -brand-short-name }
+shortcuts-heading = Управување со кратенки за проширувања
+default-heading-search-label = Најдете повеќе додатоци
+addons-heading-search-input =
+    .placeholder = Пребарај на addons.mozilla.org
+addons-heading-search-button =
+    .aria-label = Пребарај на addons.mozilla.org
+    .title = Пребарај на addons.mozilla.org
 addon-page-options-button =
     .title = Алатки за сите додатоци
 
@@ -511,6 +526,7 @@ details-notification-incompatible = { $name } е некомпатибилна с
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } е некомпатибилна со { -brand-short-name } { $version }.
+details-notification-incompatible-link = Повеќе информации
 details-notification-unsigned-and-disabled = { $name } не може да се верифицира за употреба во { -brand-short-name } и беше исклучен.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } не може да се верифицира за употреба во { -brand-short-name } и беше исклучен.
