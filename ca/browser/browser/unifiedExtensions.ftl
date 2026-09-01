@@ -15,6 +15,8 @@ unified-extensions-discover-extensions =
     .label = Descobriu extensions
 unified-extensions-empty-reason-private-browsing-not-allowed = Teniu extensions instal·lades, però no estan activades en finestres privades
 unified-extensions-empty-reason-extension-not-enabled = Teniu extensions instal·lades, però no estan activades
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Unes quantes extensions donen molt de si
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Milloreu la navegació amb extensions
 unified-extensions-empty-content-explain-enable2 = Seleccioneu { unified-extensions-manage-extensions.label } per activar-les a la configuració.

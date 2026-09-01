@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Excepcions
     .style = min-width: 48em
+    .title = Excepcions
 permissions-close-key =
     .key = w
 permissions-address = Adreça del lloc web
@@ -80,72 +80,79 @@ permissions-invalid-uri-label = Introduïu un nom d'ordinador central vàlid
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Excepcions a la protecció contra el seguiment millorada
     .style = { permissions-window2.style }
+    .title = Excepcions a la protecció contra el seguiment millorada
 permissions-exceptions-manage-etp-desc = Podeu especificar quins llocs web tenen desactivada la protecció contra el seguiment millorada. Escriviu l'adreça exacta del lloc que voleu gestionar i feu clic a Afegeix una excepció.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Excepcions - Galetes i dades dels llocs
     .style = { permissions-window2.style }
+    .title = Excepcions - Galetes i dades dels llocs
 permissions-exceptions-cookie-desc = Podeu especificar quins llocs web poden utilitzar galetes i dades dels llocs. Escriviu l'adreça exacta del lloc que voleu gestionar i feu clic a Bloca, Permet durant la sessió o Permet.
+
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .style = { permissions-window2.style }
+    .title = Excepcions: esborra l'historial en tancar.
+permissions-exceptions-shutdown-clearing-desc = Podeu especificar quins llocs web poden conservar les seves dades quan el { -brand-short-name } esborra l'historial en acabar. Escriviu l'adreça exacta del lloc que vulgueu gestionar i després cliqueu a Permetre.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Excepcions - Mode només HTTPS
     .style = { permissions-window2.style }
+    .title = Excepcions - Mode només HTTPS
 permissions-exceptions-https-only-desc = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura actualitzar per a aquests llocs. Les excepcions no s'apliquen a les finestres privades.
 permissions-exceptions-https-only-desc2 = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura per a aquests llocs.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
-    .title = Llocs web permesos - Finestres emergents i redireccions de tercers
     .style = { permissions-window2.style }
+    .title = Llocs web permesos - Finestres emergents i redireccions de tercers
 permissions-exceptions-popup-desc2 = Podeu especificar quins llocs web poden obrir finestres emergents i ser redirigits per marcs de tercers.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
-    .title = Llocs web permesos - Finestres emergents
     .style = { permissions-window2.style }
+    .title = Llocs web permesos - Finestres emergents
 permissions-exceptions-popup-desc = Podeu especificar quins llocs web poden obrir finestres emergents. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
 
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window2 =
-    .title = Excepcions - Inicis de sessió desats
     .style = { permissions-window2.style }
+    .title = Excepcions - Inicis de sessió desats
 permissions-exceptions-saved-logins-desc = No es desaran les dades d'inici de sessió dels llocs web següents:
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Excepcions - Contrasenyes desades
     .style = { permissions-window2.style }
+    .title = Excepcions - Contrasenyes desades
 permissions-exceptions-saved-passwords-desc = El { -brand-short-name } no desarà les contrasenyes dels llocs llistats aquí.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Llocs web permesos - Instal·lació de complements
     .style = { permissions-window2.style }
+    .title = Llocs web permesos - Instal·lació de complements
 permissions-exceptions-addons-desc = Podeu especificar quins llocs web poden instal·lar complements. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Paràmetres - Reproducció automàtica
     .style = { permissions-window2.style }
+    .title = Paràmetres - Reproducció automàtica
 permissions-site-autoplay-desc = Aquí podeu gestionar els llocs que no segueixen els vostres paràmetres de reproducció automàtica per defecte.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Paràmetres - Permisos de notificacions
     .style = { permissions-window2.style }
+    .title = Paràmetres - Permisos de notificacions
 permissions-site-notification-desc = Els llocs web següents han sol·licitat enviar-vos notificacions. Podeu indicar quins llocs web tenen permís per enviar-vos notificacions. També podeu blocar les noves sol·licituds de permetre notificacions.
 permissions-site-notification-disable-label =
     .label = Bloca les noves sol·licituds de permetre les notificacions
@@ -154,8 +161,8 @@ permissions-site-notification-disable-desc = Això impedirà que els llocs web q
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Paràmetres - Permisos d'ubicació
     .style = { permissions-window2.style }
+    .title = Paràmetres - Permisos d'ubicació
 permissions-site-location-desc = Els llocs web següents han sol·licitat accés a la vostra ubicació. Podeu indicar quins llocs web tenen permís per accedir a la vostra ubicació. També podeu blocar les noves sol·licituds d'accedir a la vostra ubicació.
 permissions-site-location-disable-label =
     .label = Bloca les noves sol·licituds d'accés a la vostra ubicació
@@ -164,8 +171,8 @@ permissions-site-location-disable-desc = Això impedirà que els llocs web que n
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Paràmetres - Permisos de realitat virtual
     .style = { permissions-window2.style }
+    .title = Paràmetres - Permisos de realitat virtual
 permissions-site-xr-desc = Els llocs web següents han sol·licitat accés als dispositius de realitat virtual. Podeu indicar quins llocs web tenen permís per accedir als dispositius de realitat virtual. També podeu blocar les noves sol·licituds d'accedir als dispositius de realitat virtual.
 permissions-site-xr-disable-label =
     .label = Bloca les noves sol·licituds d'accés als dispositius de realitat virtual
@@ -174,8 +181,8 @@ permissions-site-xr-disable-desc = Això impedirà que els llocs web que no esti
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Paràmetres - Permisos de la càmera
     .style = { permissions-window2.style }
+    .title = Paràmetres - Permisos de la càmera
 permissions-site-camera-desc = Els llocs web següents han sol·licitat accés a la càmera. Podeu indicar quins llocs web tenen permís per accedir a la càmera. També podeu blocar les noves sol·licituds d'accedir a la càmera.
 permissions-site-camera-disable-label =
     .label = Bloca les noves sol·licituds d'accés a la càmera
@@ -204,8 +211,8 @@ permissions-site-local-network-disable-desc = Això impedirà que qualsevol lloc
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Paràmetres - Permisos del micròfon
     .style = { permissions-window2.style }
+    .title = Paràmetres - Permisos del micròfon
 permissions-site-microphone-desc = Els llocs web següents han sol·licitat accés al micròfon. Podeu indicar quins llocs web tenen permís per accedir al micròfon. També podeu blocar les noves sol·licituds d'accedir al micròfon.
 permissions-site-microphone-disable-label =
     .label = Bloca les noves sol·licituds d'accés al micròfon
@@ -216,12 +223,12 @@ permissions-site-microphone-disable-desc = Això impedirà que els llocs web que
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Paràmetres - Permisos d'altaveu
     .style = { permissions-window2.style }
+    .title = Paràmetres - Permisos d'altaveu
 permissions-site-speaker-desc = Els llocs web següents han sol·licitat accés per a seleccionar un dispositiu de sortida d'àudio. Podeu indicar quins llocs web tenen permís per a seleccionar un dispositiu de sortida d'àudio.
 permissions-exceptions-doh-window =
-    .title = Excepcions de llocs web per a DNS sobre HTTPS
     .style = { permissions-window2.style }
+    .title = Excepcions de llocs web per a DNS sobre HTTPS
 permissions-exceptions-manage-doh-desc = El { -brand-short-name } no utilitzarà el DNS segur en aquests llocs ni en llurs subdominis.
 permissions-doh-entry-field = Introduïu el nom de domini del lloc web
     .accesskey = d

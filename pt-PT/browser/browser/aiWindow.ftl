@@ -51,9 +51,76 @@ toolbar-switcher-customizable-label =
 ## Input CTA
 
 aiwindow-input-cta-submit-label-chat = Perguntar
+aiwindow-input-cta-submit-label-navigate = Ir
+aiwindow-input-cta-submit-label-search = Pesquisar
+aiwindow-input-cta-submit-label-stop = Parar
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Geração de resposta iniciada
+aiwindow-input-cta-menu-label-chat = Perguntar
+aiwindow-input-cta-menu-label-navigate = Ir para site
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Pesquisar com { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = Pesquisar com…
+aiwindow-input-cta-search-submenu-header = Pesquisar
+aiwindow-input-cta-stop-button =
+    .aria-label = Parar geração da resposta
+    .title = Parar resposta
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = Perguntar, pesquisar ou digitar um URL
+smartbar-placeholder-hint-1 = Usar @ para citar separadores recentes…
+smartbar-placeholder-hint-2 = Perguntar qualquer coisa…
+smartbar-placeholder-hint-3 = Introduza um endereço de Internet...
+smartbar-placeholder-hint-4 = Pesquisar na Internet...
+
+## Mentions
+
+smartbar-mention-typing-placeholder = Etiquetar um separador ou site
+smartbar-mentions-list-no-results-label = Sem resultados encontrados
+smartbar-mentions-list-recent-tabs-label = Separadores recentes
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Adicionar um separador ou site
+    .tooltiptext = Adicionar um separador ou site
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = Etiquetar um separador ou site
+aiwindow-website-chip-history-deleted = Histórico apagado
+aiwindow-website-chip-remove-button =
+    .aria-label = Remover
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-title = Bem-vindo ao { -smart-window-brand-name }
+aiwindow-firstrun-model-title = O que é importante para si?
+aiwindow-firstrun-model-title-v2 = Escolha um modelo para começar
+aiwindow-firstrun-model-subtitle = Escolha um modelo para potenciar o { -smart-window-brand-name }. Mude a qualquer altura.
+aiwindow-firstrun-model-subtitle-v2 = Cada modelo pode ajudá-lo a resumir, comparar e explorar os seus separadores. Mude a qualquer altura.
+aiwindow-firstrun-model-fast-label = Rápido
+aiwindow-firstrun-model-fast-body = Responde rapidamente
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = Rápido: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Melhor para respostas rápidas quando você está a mover-se rapidamente
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-chip-subtitle = Modelo { $model } por { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Flexível
+aiwindow-firstrun-model-allpurpose-body = Escolha acertada para a maioria das necessidades
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Flexível: { $shortName }
+aiwindow-firstrun-model-flexible-body = Pronto para uma variedade de tarefas
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Recomendado
+aiwindow-firstrun-model-personal-label = Pessoal
+aiwindow-firstrun-model-personal-body = Respostas mais personalizadas
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Pessoal: { $shortName }
 aiwindow-firstrun-model-personal-body-v2 = Criado para ajuda personalizada em vários idiomas
 aiwindow-firstrun-button = Vamos lá
 aiwindow-firstrun-back-button = Retroceder
@@ -248,3 +315,16 @@ smartwindow-close-tab-callout-subtitle = Reabrir separadores do Histórico a qua
 ## Smart Window new tab promo
 
 smart-window-default-promo-heading = Tornar { -smart-window-brand-name } como predefinido?
+smart-window-default-promo-message = O { -brand-short-name } será sempre aberto no { -smart-window-brand-name }.
+smart-window-default-promo-primary-button = Definir como predefinição
+smart-window-default-promo-additional-button = Agora não
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Partilhar feedback
+aiwindow-feedback-what-worked-well = O que funcionou bem? Nenhuma informação pessoal, por favor.
+aiwindow-feedback-choose-any = Escolha qualquer uma que se aplique
+aiwindow-feedback-add-details = Adicione detalhes se quiser. Nenhuma informação pessoal, por favor.
+aiwindow-feedback-disclaimer = Ao submeter partilha o seu feedback e este chat para ajudar o { -brand-shorter-name } a melhorar o { -smart-window-brand-name }. As suas outras conversas permanecem privadas. <a data-l10n-name="learn-more">Saber mais</a>
+aiwindow-feedback-submit = Submeter
+aiwindow-feedback-cancel = Cancelar

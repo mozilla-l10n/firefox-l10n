@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Retroceder uma página ({ $shortcut })
     .aria-label = Anterior
+    .tooltiptext = Retroceder uma página ({ $shortcut })
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Avançar uma página ({ $shortcut })
     .aria-label = Seguinte
+    .tooltiptext = Avançar uma página ({ $shortcut })
     .accesskey = S
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -94,8 +94,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Adicionar página aos marcadores…
-    .accesskey = m
     .tooltiptext = Adicionar página aos marcadores
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +112,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Adicionar página aos marcadores…
-    .accesskey = m
     .tooltiptext = Adicionar página aos marcadores ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Editar marcador…
-    .accesskey = m
     .tooltiptext = Editar marcador…
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Editar marcador…
-    .accesskey = m
     .tooltiptext = Editar marcador…({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Abrir ligação
     .accesskey = A
@@ -299,9 +299,18 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Enviar para Telemóvel
     .accesskey = n
+main-context-menu-send-to-mobile-sign-in = Iniciar sessão para Enviar Separadores
 main-context-menu-send-to-mobile-enable-sync2 = Ative a sincronização para enviar um separador
 main-context-menu-send-to-mobile-connect-phone2 = Ligar o seu telemóvel
 main-context-menu-send-to-mobile-device-missing2 = Não vê o seu dispositivo?
+main-context-menu-send-to-mobile-sign-in-from-link = Iniciar sessão para Enviar uma Ligação
+main-context-menu-send-to-mobile-sign-in-from-page = Iniciar sessão para Enviar uma Página
+main-context-menu-send-to-mobile-enable-sync3 = Ativar Sincronização para Enviar Separadores
+main-context-menu-send-to-mobile-enable-sync-from-link = Ativar Sincronização para Enviar uma Ligação
+main-context-menu-send-to-mobile-enable-sync-from-page = Ativar Sincronização para Enviar uma Página
+main-context-menu-send-to-mobile-connect-phone3 = Conecte um Dispositivo para Enviar Separadores
+main-context-menu-send-to-mobile-connect-phone-from-link = Conectar um Dispositivo para Enviar uma Ligação
+main-context-menu-send-to-mobile-connect-phone-from-page = Conectar um Dispositivo para Enviar uma Página
 main-context-menu-save-to-pocket =
     .label = Guardar página no { -pocket-brand-name }
     .accesskey = k
@@ -318,9 +327,6 @@ main-context-menu-use-saved-login =
 main-context-menu-use-saved-password =
     .label = Utilizar palavra-passe guardada
     .accesskey = u
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Utilizar a máscara de e-mail do { -relay-brand-short-name }
     .accesskey = U

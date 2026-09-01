@@ -128,6 +128,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gerir definições de pop-ups e redirecionamento de terceiros…
     .accesskey = G
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Ver informação do site
+            [1] Ver informação do site (1 rastreador bloqueado)
+            [one] Ver informação do site ({ $count } rastreador bloqueado)
+           *[other] Ver informação do site ({ $count } rastreadores bloqueados)
+        }
 urlbar-identity-button =
     .aria-label = Ver informação do site
 
@@ -212,6 +222,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Gerir o { -firefox-suggest-brand-na
 urlbar-result-menu-report-inaccurate-location2 = Reportar localização imprecisa
 urlbar-result-menu-show-less-frequently2 = Mostrar com menos frequência
 urlbar-result-menu-dont-show-weather-suggestions2 = Não mostrar sugestões de meteorologia
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Dispensar esta sugestão
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Remover do histórico
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = Saber mais
     .accesskey = S
@@ -402,12 +422,16 @@ quickactions-addons = Ver complementos
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = extensões, temas, complementos
+# Opens preferences page at AI controls
+quickactions-manageai = Gerir controlos da IA
+quickactions-cmd-manageai = desativar ia, desligar ia, gerir ia
 quickactions-cmd-addons2 = complementos
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gerir marcadores
 quickactions-cmd-bookmarks = marcadores
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Limpar histórico recente
+quickactions-cmd-clearrecenthistory2 = cookies, limpar cookies, cache, limpar cache, dados de navegação, limpar dados de navegação, histórico, limpar histórico recente
 quickactions-cmd-clearrecenthistory = limpar histórico recente, histórico
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Limpar histórico
@@ -431,6 +455,9 @@ quickactions-cmd-help = ajuda, apoio
 # Opens the devtools web inspector
 quickactions-inspector2 = Abrir Ferramentas de Programador
 quickactions-cmd-inspector2 = inspetor, devtools, ferramentas de desenvolvimento
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Escolha uma cor
+quickactions-cmd-colorpicker = seletor de cores, conta-gotas, escolher cor
 # Opens Firefox Library
 quickactions-cmd-library = biblioteca
 quickactions-library = Abrir biblioteca
@@ -440,6 +467,10 @@ quickactions-logins2 = Gerir palavras-passe
 quickactions-cmd-logins = credenciais, palavras-passe
 # Mutes all tabs playing audio
 quickactions-mute = Silenciar som dos separadores a reproduzir áudio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = silenciar, silenciar, ssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gerir plugins
 quickactions-cmd-plugins = plugins
@@ -449,6 +480,9 @@ quickactions-cmd-print = imprimir
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Guardar página como PDF
 quickactions-cmd-savepdf2 = pdf, guardar página
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Abrir editor de PDF
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Abrir janela privada
 quickactions-cmd-private = navegação privada
@@ -483,6 +517,9 @@ quickactions-cmd-update = atualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ver código-fonte da página
 quickactions-cmd-viewsource2 = ver código, codigo, fonte da página
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Abrir o { -firefoxlabs-brand-name }
+quickactions-cmd-labs = labs, experimental
 quickactions-cmd-viewsource = ver fonte, fonte
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -563,6 +600,8 @@ identity-clear-site-data =
     .label = Limpar cookies e dados de sites…
 identity-connection-not-secure-security-view = A sua ligação a este site não é segura.
 identity-connection-verified = Está ligado(a) de forma segura a este site.
+identity-ev-owner-label2 = Certificado emitido para
+identity-verifier-label2 = Verificado por
 identity-ev-owner-label = Certificado emitido para:
 identity-verifier-label = Verificado por:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
@@ -582,6 +621,8 @@ identity-description-passive-loaded-insecure2 = Este site contém conteúdo que 
 identity-description-passive-loaded-mixed2 = Embora o { -brand-short-name } tenha bloqueado algum conteúdo, ainda há conteúdo na página que não é seguro (tal como imagens).
 identity-description-active-loaded = Este site contém conteúdo que não é seguro (tal como scripts) e a sua ligação ao mesmo não é privada.
 identity-description-active-loaded-insecure = A informação que partilhar com este site pode ser vista por outros (tal como palavras-passe, mensagens, cartões de crédito, etc.).
+identity-description-tls-key-logging-heading = A sua ligação pode não ser privada
+identity-description-tls-key-logging-message = Uma app ou serviço pode ver o seu tráfego encriptado deste site.
 identity-disable-mixed-content-blocking =
     .label = Desativar proteção por agora
     .accesskey = D

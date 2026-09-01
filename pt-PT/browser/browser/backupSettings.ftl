@@ -20,8 +20,8 @@ backup-folder-name = Restaurar { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Copia_de_seguranca_{ -brand-product-name }
 settings-data-backup-header2 =
-    .label = Cópia de segurança
     .description = Proteja automaticamente seus marcadores, histórico e outros dados.
+    .label = Cópia de segurança
 settings-data-backup-toggle = Gerir cópia de segurança
 settings-data-backup-toggle-on2 =
     .label = Ativar a cópia de segurança
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Editar…
 settings-data-create-backup-error = Ocorreu um erro ao criar a sua cópia de segurança em { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Faça uma cópia das suas palavras-passe e métodos de pagamento, além de manter todos os seus dados seguros com encriptação.
 settings-data-toggle-encryption-label2 =
-    .label = Fazer uma cópia dos seus dados sensíveis
     .description = Faça uma cópia de segurança das suas palavras-passe e métodos de pagamento, além de manter todos os seus dados seguros com encriptação.
+    .label = Fazer uma cópia dos seus dados sensíveis
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nome do ficheiro: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Restaurar os seus dados
     .description = Recupere novamente os seus dados do { -brand-product-name } a partir da última cópia de segurança.
-settings-data-backup-restore-scheduled-off =
     .label = Restaurar os seus dados
+settings-data-backup-restore-scheduled-off =
     .description = Utilize uma cópia de segurança do { -brand-product-name } de outro dispositivo para restaurar seus dados.
-
-##
-
+    .label = Restaurar os seus dados
 settings-sensitive-data =
     .label = Dados sensíveis
 settings-data-toggle-encryption-support-link = Saber mais
@@ -75,6 +72,8 @@ turn-on-scheduled-backups-location-label = Localização
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (recomendado)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Escolher uma localização
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Escolher…
@@ -89,6 +88,7 @@ turn-on-scheduled-backups-confirm-button = Ativar a cópia de segurança
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Ocorreu um problema com a pasta da cópia de segurança selecionada. Escolha uma pasta diferente e tente novamente.
+turn-on-scheduled-backups-error-default-dir-denied = Não conseguimos aceder à sua pasta de cópia de segurança. Tente escolher uma nova localização.
 backup-error-file-system = Ocorreu um problema com a pasta de cópia de segurança selecionada durante a cópia de segurança do { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
@@ -228,12 +228,14 @@ backup-file-how-to-restore-header = Como restaurar:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Abra o menu da aplicação ☰ e aceda a Definições > Sincronizar
+backup-file-moz-browser-restore-step-2-1 = Clique “Restaurar os seus dados” e selecione este ficheiro
 backup-file-moz-browser-restore-step-3 = Reinicie o { -brand-short-name } quando solicitado
 backup-file-other-browser-restore-step-1 = Transfira e instale o { -brand-short-name }
 backup-file-download-moz-browser-button = Transferir
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Inicie o { -brand-short-name }, abra o menu da aplicação ☰ e aceda a Definições > Sincronizar
+backup-file-other-browser-restore-step-3-1 = Clique “Restaurar os seus dados” e selecione este ficheiro
 backup-file-other-browser-restore-step-4 = Reinicie o { -brand-short-name } quando solicitado
 
 ## These strings are used in the about:restore and about:welcome pages
@@ -251,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> criado em { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } em { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> criado em { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } em { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Restaurada de { $deviceName } a { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } às { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Restaurada de { $deviceName } a { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } às { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Este ficheiro não está a funcionar. Tente escolher um ficheiro diferente. <a data-l10n-name="restore-problems">Ainda tem problemas?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nenhum ficheiro selecionado
