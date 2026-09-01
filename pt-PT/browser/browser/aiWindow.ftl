@@ -44,9 +44,17 @@ ai-window-toggleview-open-private =
     .label = Abrir Nova Janela Privada
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Janela Clássica
+toolbar-switcher-customizable-label =
+    .label = Comutador { -smart-window-brand-name }
+    .tooltiptext = Alternar entre as janelas Inteligentes e Clássicas.
+
+## Input CTA
+
+aiwindow-input-cta-submit-label-chat = Perguntar
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-model-personal-body-v2 = Criado para ajuda personalizada em vários idiomas
 aiwindow-firstrun-button = Vamos lá
 aiwindow-firstrun-back-button = Retroceder
 aiwindow-firstrun-next-button = Seguinte
@@ -77,3 +85,8 @@ aiwindow-firstrun-memories-conversation-body = Ao aprender com as conversas, ter
 aiwindow-firstrun-memories-relevance-title = Respostas mais relevantes
 aiwindow-firstrun-memories-relevance-body = Ao aprender com a sua navegação, a { -smart-window-brand-name } fica com uma visão mais abrangente.
 aiwindow-firstrun-memories-privacy-title = Concebido para privacidade
+aiwindow-firstrun-memories-privacy-body = As memórias estão armazenadas neste dispositivo. Apague ou desligue a qualquer altura.
+aiwindow-firstrun-memories-choose-label = Escolha o que o { -smart-window-brand-name } aprende
+aiwindow-firstrun-memories-checkbox-chats = Conversas no { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Navegação através de { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Atualize nas definições a qualquer momento.
