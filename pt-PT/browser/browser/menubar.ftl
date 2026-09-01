@@ -10,6 +10,16 @@ menu-application-preferences =
 # Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
 menu-application-settings =
     .label = Definições…
+menu-application-set-as-default =
+    .label = Definir o { -brand-shorter-name } como Navegador Predefinido
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Partilhar o { -brand-product-name }
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Partilhar { -brand-shorter-name }
 menu-application-services =
     .label = Serviços
 menu-application-hide-this =
@@ -319,15 +329,6 @@ menu-window-bring-all-to-front =
     .label = Trazer tudo para a frente
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-get-help
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 menu-help =
     .label = Ajuda

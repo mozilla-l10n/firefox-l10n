@@ -29,6 +29,11 @@ ipprotection-feature-introduction-link-text-2 = Utilize a nossa nova <a data-l10
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adicione mais uma camada de privacidade
 ipprotection-feature-introduction-link-text-privacy-1 = A <a data-l10n-name="learn-more-vpn">VPN integrada do { -brand-product-name }</a> ajuda a proteger a sua navegação. Pode escolher entre várias localizações, para tornar a sua navegação mais privada.
+ipprotection-feature-introduction-link-text-privacy-2 = A <a data-l10n-name="learn-more-vpn">VPN integrada do { -brand-product-name }</a> ajuda a proteger a sua navegação. Escolha a partir de múltiplas localizações para manter mais privado onde navega.
+ipprotection-feature-introduction-link-text-privacy-3 = Tenha <a data-l10n-name="learn-more-vpn">privacidade extra</a> ao escolher a partir de múltiplas localizações para esconder onde navega.
+ipprotection-feature-introduction-text-summer-promo-1 = Ative-a para manter a sua navegação mais privada. <a data-l10n-name="summer-promo-link">Obtenha largura de banda ilimitada</a> e mais localizações a partir de onde navegar. Agora até 31 de Agosto.
+ipprotection-feature-introduction-title-summer-promo = Tem planos de viagem? Leve a privacidade consigo.
+ipprotection-feature-introduction-description-summer-promo = Vá mais longe com a VPN integrada do { -brand-product-name }: mais localizações, largura de banda ilimitada. Agora até 31 de Agosto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utilize a nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar a sua localização e proteger os seus dados, mesmo quando estiver numa janela privada.
 ipprotection-feature-introduction-description-private-browsing = Navegue com proteção adicional ao ocultar a sua localização, mesmo ao utilizar uma janela privada.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -46,10 +51,37 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Remover VPN da barra de ferramentas
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Remover VPN da barra de ferramentas
+ipprotection-feature-introduction-button-open-vpn = Abrir VPN
 ipprotection-feature-introduction-button-get-started = Começar
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = Os limites integrados da sua VPN são repostos a 1 de setembro
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Use os seus { $maxUsage } GB e 6 localizações para uma privacidade adicional para tornar a sua navegação mais difícil de rastrear até si.
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Utilize os seus { $maxUsage } GB e mais de 20 localizações para uma privacidade adicional para tornar a sua navegação mais difícil de rastrear até si.
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = A sua VPN integrada acabou de ficar melhor
+ipprotection-summer-promo-offramp-subscriber-description = Agora tem largura de banda ilimitada e mais localizações enquanto subscritor da { -mozilla-vpn-brand-name }.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Mantenha as suas localizações extra integradas da VPN
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Faça do { -brand-product-name } o seu navegador de eleição e obtenha mais de 20 locais extra a partir dos quais pode navegar depois de 31 de Agosto.
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Suba de nível com a { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-subscription-upsell-description = Mantenha largura de banda ilimitada após 31 de Agosto, com mais de 300 localizações em 5 dispositivos para tornar a sua navegação mais difícil de rastrear até si.
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Definir como predefinição
 ipprotection-summer-promo-offramp-get-subscription-button = Obter a { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Dispensar
 
@@ -68,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Dispensar
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Leve a VPN integrada consigo no Android
+ipprotection-android-promo-callout-description = Digitalize o código QR para obter o { -brand-product-name } para Android e ative a VPN integrada para mais privacidade em viagem. Brevemente para iOS.
 ipprotection-android-promo-callout-primary-button = Percebi
 
 ## Panel
@@ -80,11 +114,11 @@ unauthenticated-choose-location-message-1 = Selecione uma das várias localizaç
 unauthenticated-get-started = Começar
 unauthenticated-terms-of-service-privacy-notice = Ao continuar, aceita os <a data-l10n-name="vpn-terms-of-service">Termos do serviço</a> e a <a data-l10n-name="vpn-privacy-notice">Informação de privacidade</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Utilizar a VPN para este site
     .aria-label = A VPN está ativada para este site
-site-exclusion-toggle-disabled-1 =
     .label = Utilizar a VPN para este site
+site-exclusion-toggle-disabled-1 =
     .aria-label = A VPN está desativada para este site
+    .label = Utilizar a VPN para este site
 site-exclusion-toggle-description = O site não está a funcionar? Experimente desativar a VPN.
 ipprotection-settings-link =
     .label = Definições
@@ -125,6 +159,11 @@ ipprotection-locations-subview-description = Escolha uma localização diferente
 ipprotecion-locations-subview-recommended-label = Recomendada
 ipprotection-locations-subview-recommended-description = Encontra a localização mais rápida
 # Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Indisponível
+    .aria-label = Indisponível, desativado
+# Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = Indisponível
 ipprotection-locations-subview-promo =
     .heading = Leve a proteção mais longe com a { -mozilla-vpn-brand-name }
@@ -151,6 +190,8 @@ ipprotection-connection-status-network-error-title-1 = Verifique a sua ligação
 ipprotection-connection-status-network-error-description = Ligue-se à Internet e tente ligar a VPN.
 ipprotection-connection-status-blocked-error-title-1 = A VPN está indisponível
     .aria-label = A VPN está indisponível
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = As leis e restrições locais limitam onde pode usar a VPN. <a data-l10n-name="learn-more-link">Saber mais</a>
 ipprotection-connection-status-blocked-error-description = A legislação local impede-nos de disponibilizar o serviço de VPN nesta região. <a data-l10n-name="learn-more-link">Saiba mais</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
@@ -168,6 +209,9 @@ ipprotection-message-continuous-onboarding-intro = Ative a VPN para ocultar a su
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ative a VPN automaticamente</a> sempre que abrir o { -brand-short-name } para garantir uma proteção adicional.
 ipprotection-message-continuous-onboarding-site-settings = O { -brand-short-name } irá memorizar quais os sites que configurou para utilizar a VPN. Atualize os mesmos, a qualquer momento, nas <a data-l10n-name="setting-link">definições</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN está desativada para este site
+ipprotection-open-button = Abrir { -brand-product-name }
+ipprotection-come-back-title = Volte para experimentar a VPN integrada
+ipprotection-message-body-hide-location = Esconda a sua localização ao navegar no { -brand-product-name } para mais privacidade e controlo.
 ipprotection-connection-status-generic-error-title-1 = Não foi possível ligar à VPN
     .aria-label = Não foi possível ligar à VPN
 
@@ -191,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Está quase a fi
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN incorporada para aumentar a sua privacidade enquanto navega no { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN integrada
     .description = Aumente a privacidade ao ocultar a sua localização enquanto navega.
+    .label = VPN integrada
 ip-protection-learn-more = Saber mais
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -206,12 +250,12 @@ ip-protection-not-opted-in-button = Começar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Gerir definições dos sites
     .description =
         { $count ->
             [one] { $count } site
            *[other] { $count } sites
         }
+    .label = Gerir definições dos sites
 ip-protection-autostart =
     .label = Ativar a VPN automaticamente
 ip-protection-autostart-checkbox =
@@ -219,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Nas janelas privadas
 ip-protection-vpn-upgrade-link =
-    .label = Obtenha ainda mais proteção fora do { -brand-short-name } com a { -mozilla-vpn-brand-name }
     .description = Escolha localizações personalizadas de VPN e adicione proteção a todas as suas aplicações em até cinco dispositivos, quer esteja em casa ou numa rede Wi-Fi pública.
+    .label = Obtenha ainda mais proteção fora do { -brand-short-name } com a { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Leve a proteção mais longe com a { -mozilla-vpn-brand-name }
     .description = Escolha de entre mais de 300 localizações e proteja todas as suas aplicações até 5 dispositivos.
+    .label = Leve a proteção mais longe com a { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 
@@ -237,6 +281,11 @@ ip-protection-exclusions-desc = Utilize a VPN para todos os sites, exceto os des
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Restam { $usageLeft } GB de { $maxUsage } GB este mês
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = Restam <span data-l10n-name="usage">{ $usageLeft } GB</span> de { $maxUsage } GB
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -245,6 +294,11 @@ ip-protection-bandwidth-left-gb = Restam { $usageLeft } GB de { $maxUsage } GB
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = Restam { $usageLeft } MB de { $maxUsage } GB este mês
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = Restam <span data-l10n-name="usage">{ $usageLeft } MB</span> de { $maxUsage } GB
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

@@ -17,8 +17,8 @@ firefoxview-page-heading =
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
-    .title = Fechar
     .aria-label = Fechar
+    .title = Fechar
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Agora mesmo
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -65,10 +65,14 @@ firefoxview-tabpickup-password-locked-description = Para obter os seus separador
 firefoxview-tabpickup-password-locked-link = Saber mais
 firefoxview-tabpickup-password-locked-primarybutton = Inserir a Palavra-passe principal
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saber mais</a>
+firefoxview-tabpickup-password-locked-header-2 = Desbloqueie separadores com a sua palavra-passe primária
+firefoxview-tabpickup-password-locked-description-2 = Para sua privacidade, os separadores sincronizados estão protegidos. Introduza a sua palavra-passe primária do { -brand-short-name } para ver separadores dos seus outros dispositivos.
 firefoxview-tabpickup-signed-out-header = Iniciar sessão para restabelecer a ligação
 firefoxview-tabpickup-signed-out-description = Para reassociar e aceder aos seus separadores, inicie sessão na { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Para reassociar e obter aos seus separadores, inicie sessão na sua conta
 firefoxview-tabpickup-signed-out-primarybutton = Iniciar sessão
+firefoxview-tabpickup-signed-out-header-2 = Inicie sessão para ver os seus separadores
+firefoxview-tabpickup-signed-out-description-2 = Reconecte para ver os separadores de outros dispositivos.
 firefoxview-tabpickup-syncing = Aguarde enquanto os seus separadores estão a ser sincronizados. Será apenas um momento.
 firefoxview-mobile-promo-header = Obter separadores do seu telemóvel ou tablet
 firefoxview-mobile-promo-description = Para ver os seus separadores móveis mais recentes, inicie sessão no { -brand-product-name } para iOS ou Android.
@@ -210,6 +214,10 @@ firefoxview-show-all-history = Mostrar todo o histórico
 firefoxview-history-empty-header = Regresse para onde já esteve
 firefoxview-history-empty-description = Enquanto navega, as páginas visitadas serão listadas aqui.
 firefoxview-history-empty-description-two = Proteger a sua privacidade está no centro do que fazemos. É por isto que pode controlar a atividade que o { -brand-short-name } guarda, nas suas <a data-l10n-name="history-settings-url">definições do histórico</a>.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = O seu rasto de navegação começa aqui
+firefoxview-history-empty-description-2 = Enquanto visita páginas, o seu histórico irá aparecer aqui. Controle o que é memorizado nas <a data-l10n-name="history-settings-url">definições</a>.
 
 ##
 
@@ -221,6 +229,9 @@ firefoxview-choose-browser-button = Escolher o navegador
 
 firefoxview-dont-remember-history-empty-header-2 = Tem o controlo absoluto sobre o que o { -brand-short-name } memoriza
 firefoxview-dont-remember-history-empty-description-one = Neste momento, o { -brand-short-name } não guarda a sua atividade de navegação. Para alterar isto, <a data-l10n-name="history-settings-url-two">atualize as suas definições do histórico</a>.
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = Está sem registo
+firefoxview-dont-remember-history-empty-description-2 = O { -brand-short-name } não está a guardar o seu histórico neste momento. Altere isso a qualquer momento nas <a data-l10n-name="history-settings-url-two">definições</a>.
 
 ##
 

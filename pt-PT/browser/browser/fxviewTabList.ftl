@@ -24,10 +24,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Ignorar { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Agora mesmo
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Eliminar
     .accesskey = E
 fxviewtabrow-forget-about-this-site = Esquecer este site…
@@ -78,4 +74,9 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Silenciar som do separador
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ativar som do separador
+fxviewtabrow-send-to-mobile-connect-device = Conecte um Dispositivo para Enviar Separadores
 fxviewtabrow-send-to-mobile-device-missing2 = Não vê o seu dispositivo?
+fxviewtabrow-send-to-mobile-not-verified = Conta Não Verificada
+fxviewtabrow-send-to-mobile-verify-account = Verificar a Sua Conta
+fxviewtabrow-send-to-mobile-sign-in = Inicie Sessão para Enviar Separadores
+fxviewtabrow-send-to-mobile-turn-on-sync = Ativar Sincronização para Enviar Separadores

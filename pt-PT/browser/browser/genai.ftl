@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Ao optar pelo Claude da Anthropic, aceita os 
 genai-settings-chat-copilot-links = Ao optar pelo Copilot, aceita os <a data-l10n-name="link1">Termos de Uso das Experiências IA do Copilot</a> e a <a data-l10n-name="link2">Política de Privacidade da Microsoft</a>.
 genai-settings-chat-gemini-links = Ao optar pelo Google Gemini, está a aceitar os <a data-l10n-name="link1">Termos de Serviço do Google</a>, a <a data-l10n-name="link2">Política de Uso Proibido de IA Generativa</a> e as <a data-l10n-name="link3">Informações de Privacidade das Aplicações Gemini</a>.
 genai-settings-chat-huggingchat-links = Ao optar pelo HuggingChat, está a aceitar as <a data-l10n-name="link1">Informações de Privacidade do HuggingChat</a> e a <a data-l10n-name="link2">Política de Privacidade do Hugging Face</a>.
+genai-settings-chat-lechat-links-2 = Ao escolher o Mistral Vibe, concorda com os <a data-l10n-name="link1">Termos de serviço</a> e a <a data-l10n-name="link2">Política de privacidade</a> da Mistral IA.
 genai-settings-chat-lechat-links = Ao optar pelo Le Chat Mistral, está a aceitar os <a data-l10n-name="link1">Termos de Serviço</a> e a <a data-l10n-name="link2">Política de Privacidade</a> da Mistral IA.
 genai-settings-chat-localhost-links = Traga o seu próprio chatbot local privado, tal como <a data-l10n-name="link1">llamafile</a> do grupo de inovação do { -vendor-short-name }.
 
@@ -68,6 +69,8 @@ genai-shortcut-button =
     .aria-label = Pedir ao { $provider }
 genai-menu-new-badge = Novo
 genai-menu-summarize-page = Resumir página
+genai-input-ask-smart-window =
+    .placeholder = Perguntar…
 genai-input-ask-generic =
     .placeholder = Perguntar ao chatbot de IA…
 # $provider (string) - name of the provider
@@ -105,6 +108,9 @@ genai-menu-ask-provider-2 =
     .accesskey = z
 genai-menu-no-provider-2 =
     .label = Perguntar a um Chatbot de IA
+    .accesskey = z
+genai-menu-ask-smart-window =
+    .label = Perguntar…
     .accesskey = z
 
 ## Chatbot header
@@ -165,6 +171,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Saber mais sobre o Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip-2 =
+    .title = Mistral Vibe
 genai-onboarding-huggingchat-learn = Saber mais sobre o HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
@@ -243,8 +251,8 @@ link-preview-generation-retry = Tentar novamente
 link-preview-settings-button =
     .title = Definições de pré-visualização de ligações
 link-preview-settings-enable =
-    .label = Ativar pré-visualizações de ligações
     .description = Veja o título, descrição e mais informações da página quando utiliza um atalho ou utiliza menu de contexto numa ligação.
+    .label = Ativar pré-visualizações de ligações
 link-preview-settings-key-points =
     .label = Permitir que a IA leia o início da página e crie pontos-chave
 link-preview-settings-long-press =
