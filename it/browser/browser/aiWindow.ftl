@@ -360,3 +360,13 @@ aiwindow-starter-planning-plan = Aiutami a creare un piano
 aiwindow-starter-browsing-history = Trova schede nella cronologia
 aiwindow-starter-browsing-summarize = Riassumi schede
 aiwindow-starter-browsing-compare = Confronta schede
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Scorri verso l’inizio
+    .tooltiptext = Scorri verso l’inizio
+aiwindow-starter-scroll-end =
+    .aria-label = Scorri verso la fine
+    .tooltiptext = Scorri verso la fine
