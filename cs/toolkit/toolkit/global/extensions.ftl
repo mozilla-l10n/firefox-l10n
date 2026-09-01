@@ -125,8 +125,8 @@ webext-perms-description-data-some-update = Vývojář uvádí, že rozšířen�
 webext-perms-description-data-some-optional = Vývojář tvrdí, že rozšíření chce shromažďovat: { $permissions }
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text-with-data-collection = Aktualizace rozšíření { $extension } si vyžaduje nové nastavení
-webext-perms-update-list-intro-with-data-collection = Zrušit pro zachování aktuální verze a nastavení, nebo aktualizaci pro získání nové verze a schválení změn.
+webext-perms-update-text-with-data-collection = Aktualizace rozšíření { $extension } si vyžaduje nová nastavení
+webext-perms-update-list-intro-with-data-collection = Chcete-li zachovat aktuální verzi a nastavení, aktualizaci zrušte. Chcete-li získat novou verzi a souhlasíte se změnami, aktualizaci proveďte.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = Rozšíření { $extension } požaduje dodatečná nastavení
