@@ -207,6 +207,12 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } estää seuraimia selatessasi. Näet ne täällä.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Selaa nopeammin. Vähemmän seuraimia.
+newtab-privacy-etp-off-turn-on-tracking = Ota seurantasuojaus käyttöön asetuksista aloittaaksesi eston.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
