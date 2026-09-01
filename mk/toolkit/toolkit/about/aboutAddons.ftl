@@ -644,3 +644,12 @@ find-more-extensions-promo-open-amo-button = Истражете проширув
 find-more-themes-promo =
     .heading = Пронајдете повеќе свежи изгледи
     .message = Изберете стил што ќе го направи { -brand-product-name } да личи како ваш.
+find-more-themes-promo-open-amo-button = Истражете теми
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Неколку проширувања прават многу
+    .message = Имаме препораки кои ќе ви помогнат да го подобрите фокусот, приватноста и друго.
+list-empty-get-extensions-promo-button = Пронајдете го вашето прво проширување
