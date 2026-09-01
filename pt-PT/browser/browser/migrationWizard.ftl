@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -191,6 +186,10 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Concluído
 migration-safari-password-import-header = Importar palavras-passe do Safari
+migration-safari-password-import-post-sequoia-step1 = Abra a <a data-l10n-name="macos-passwords-app">app de Palavras-passe</a> no seu Mac
+migration-safari-password-import-post-sequoia-step2 = Na barra de menu no topo do ecrã, escolha Ficheiro > Exportar Todas as Palavras-passe para Ficheiro…
+migration-safari-password-import-post-sequoia-step3 = Guardar o ficheiro
+migration-safari-password-import-post-sequoia-step4 = Selecione o ficheiro que guardou
 migration-safari-password-import-steps-header = Para importar palavras-passe do Safari:
 migration-safari-password-import-step1 = No Safari, abra o menu “Safari” e aceda a Preferências > Palavras-passe
 migration-safari-password-import-step2 = Selecione o botão <img data-l10n-name="safari-icon-3dots"/> e escolha “Exportar todas as palavras-passe”
@@ -203,6 +202,7 @@ migration-chrome-windows-password-import-step2 = Selecione “Definições” no
 migration-chrome-windows-password-import-step3 = Escolha “Transferir ficheiro” e guarde-o no seu dispositivo.
 migration-chrome-windows-password-import-step4 = Retorne aqui e “Selecione ficheiro” para concluir a importação.
 migration-manual-password-import-skip-button = Ignorar
+migration-manual-password-import-cancel-button = Cancelar
 migration-manual-password-import-select-button = Selecionar ficheiro
 migration-safari-password-import-skip-button = Ignorar
 migration-safari-password-import-select-button = Selecionar ficheiro

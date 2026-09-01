@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = por { $name }
 cfr-doorhanger-extension-notification = Recomendação
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recomendação
-    .tooltiptext = Recomendação de extensão
     .a11y-announcement = Recomendação de extensão disponível
+    .tooltiptext = Recomendação de extensão
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recomendação
-    .tooltiptext = Recomendação de funcionalidade
     .a11y-announcement = Recomendação de funcionalidade disponível
+    .tooltiptext = Recomendação de funcionalidade
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -296,6 +296,34 @@ launch-on-login-infobar-final-message = <strong>Abrir o { -brand-short-name } se
 launch-on-login-infobar-final-reject-button = Não, obrigado
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = Agora o { -brand-short-name } inicia quando inicia sessão no Windows. Pode sempre alterar isto mais tarde nas definições.
+launch-on-login-autostart-infobar-keep-button = Manter ligado
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = Desligar
+    .accesskey = T
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = Abrir o { -brand-short-name } da próxima vez que o seu computador iniciar?
+launch-on-login-spotlight-startup-checkbox = Abrir o { -brand-short-name } no arranque
+launch-on-login-spotlight-pin-taskbar-checkbox = Fixar na barra de tarefas
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Abrir janelas e separadores anteriores
+launch-on-login-spotlight-primary-button = Guardar e fechar { -brand-short-name }
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -335,8 +363,8 @@ root-certificate-windows-background-notification-update-button = Atualizar o { -
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Fechar
     .aria-label = Fechar
+    .title = Fechar
 fxa-menu-message-sign-up-button = Registar
 fxa-menu-message-sign-in-button = Iniciar sessão
 fxa-menu-message-sync-button = Começar a sincronizar
@@ -418,6 +446,10 @@ windows-10-eos-feature-toast-dismiss-button = Dispensar
 ## Windows 10 EoS Global Infobar
 
 windows-10-eos-global-infobar-title = <strong>A Microsoft já não suporta o Windows 10.</strong> Faça uma cópia de segurança das suas informações para preparar o { -brand-product-name } para o Windows 11.
+windows-10-eos-global-infobar-primary-button = Ativar cópia de segurança
+    .accesskey = T
+windows-10-eos-global-infobar-learn-more-link = Saber mais
+    .accessKey = L
 
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
@@ -445,8 +477,19 @@ set-default-menu-message-row-layout-subtitle-variant =
         [macos] Mantenha o { -brand-short-name } perto dos seus dedos — defina-o como o seu navegador predefinido e mantenha-o na sua Doca.
        *[other] Mantenha o { -brand-short-name } perto dos seus dedos — defina-o como o seu navegador predefinido e mantenha-o na sua barra de tarefas.
     }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] Mantenha o { -brand-short-name } na ponta dos seus dedos
+       *[other] Abrir todas as ligações com { -brand-short-name }
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Predefinir e manter no seu Dock.
+       *[other] Obtenha navegação mais rápida e proteção automática da privacidade.
+    }
 set-default-menu-message-primary-button = Definir como predefinição
 set-default-menu-message-primary-button-variant = Definir como navegador principal
+set-default-menu-message-primary-button-short-variant = Predefinir o { -brand-short-name }
 
 ## Firefox Relay 50 Masks Announcement
 
@@ -457,3 +500,29 @@ relay-50-masks-announcement-primary-button = Ir para o { -relay-brand-name }
     .accesskey = I
 relay-50-masks-announcement-secondary-button = Dispensar
     .accesskey = D
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>O { -brand-product-name } está a ganhar um novo visual.</strong> Está a pré-visualizar uma versão inicial e não polida antes do lançamento no final deste ano.
+nova-early-access-share-feedback-link = Partilhar feedback
+    .accesskey = S
+nova-early-access-infobar-primary-button = Percebi
+    .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = Iniciar o { -brand-short-name } sempre que iniciar sessão no Windows?
+launch-options-spotlight-title-session-restore = Reabrir a sua sessão quando o { -brand-short-name } reiniciar?
+launch-options-spotlight-checkbox-launch-on-login = Abrir o { -brand-short-name } no arranque
+launch-options-spotlight-checkbox-pin-to-taskbar = Fixar na sua barra de tarefas
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Reabrir as janelas e separadores atuais
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Reabrir janelas e separadores anteriores
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Guardar e fechar o { -brand-short-name }
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Guardar e continuar

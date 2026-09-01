@@ -27,6 +27,7 @@ profiles-rootdir = Directori arrel
 profiles-localdir = Directori local
 profiles-current-profile = Aquest és el perfil que esteu utilitzant i no es pot suprimir.
 profiles-in-use-profile = Aquest perfil s'usa en una altra aplicació i no es pot suprimir.
+profiles-cannot-delete-profile = No es pot suprimir un perfil que està vinculat a altres perfils.
 profiles-rename = Reanomena
 profiles-remove = Elimina
 profiles-set-as-default = Defineix com a perfil per defecte

@@ -62,6 +62,11 @@ customkeys-category-navigation-2 =
 customkeys-caution-message = Esta funcionalidade é experimental e pode não funcionar conforme o esperado.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Inválido
+customkeys-shortcut-unassigned =
+    .placeholder = Adicionar atalho
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Atalho para: { $keyLabel }
 customkeys-key-clear =
     .aria-label = Limpar
     .tooltiptext = Limpar

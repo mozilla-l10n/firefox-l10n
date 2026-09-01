@@ -93,6 +93,21 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Relógio
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Privacidade
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Palavras cruzadas
+# Stocks is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header =
+    .label = Mercados
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Imagem do dia
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Pesquisas recentes
 home-prefs-mission-message2 =
     .message = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor.
 home-prefs-manage-topics-link2 =
@@ -152,12 +167,66 @@ home-prefs-support-firefox-header-srd =
     .label = Apoiar o { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Descubra como
 
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Saber mais
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Privacidade
+
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Rastreador bloqueado hoje
+       *[other] Rastreadores bloqueados hoje
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] Num { $count } site
+       *[other] Em { $count } sites
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty = O { -brand-short-name } bloqueia os rastreadores enquanto navega. Irá vê-los aqui.
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Navegação mais rápida. Menos rastreadores.
+newtab-privacy-etp-off-turn-on-tracking = Ative as proteções contra monitorização nas definições para começar a bloquear.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = O { -brand-short-name } bloqueia os rastreadores automaticamente enquanto navega.
+newtab-privacy-message-info-1-cta = Ver proteções
+newtab-privacy-message-info-2 = O bloqueio de rastreadores ajuda a impedir que as empresas o sigam na internet.
+newtab-privacy-message-info-2-cta = Ver proteções
+newtab-privacy-message-info-3 = Muitos sites têm rastreadores para que empresas que nunca visitou o possam seguir na Internet.
+newtab-privacy-message-info-3-cta = Ver proteções
+newtab-privacy-message-info-4 = Escolher o { -brand-short-name } significa escolher proteção por predefinição.
+newtab-privacy-message-info-4-cta = Ver proteções
 newtab-privacy-message-info-5 = Rastreadores bloqueados significa que menos empresas podem segui-lo entre sites.
 newtab-privacy-message-info-5-cta = Ver proteções
 newtab-privacy-message-info-6 = Mantenha os seus dados com o { -brand-short-name }. Nós nunca os vendemos, mas outros navegadores poderão.
@@ -1268,6 +1337,19 @@ newtab-sports-widget-watch-play =
     .aria-label = Abrir stream
     .title = Abrir stream
 newtab-sports-widget-group-stage = Fase de grupos
+newtab-sports-widget-group-a = Grupo A
+newtab-sports-widget-group-b = Grupo B
+newtab-sports-widget-group-c = Grupo C
+newtab-sports-widget-group-d = Grupo D
+newtab-sports-widget-group-e = Grupo E
+newtab-sports-widget-group-f = Grupo F
+newtab-sports-widget-group-g = Grupo G
+newtab-sports-widget-group-h = Grupo H
+newtab-sports-widget-group-i = Grupo I
+newtab-sports-widget-group-j = Grupo J
+newtab-sports-widget-group-k = Grupo K
+newtab-sports-widget-group-l = Grupo L
+newtab-sports-widget-round-32 = Ronda de 32
 newtab-sports-widget-round-16 = Oitavos de final
 newtab-sports-widget-quarter-finals = Quartos de final
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
@@ -1278,10 +1360,17 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Datas-chave
 newtab-sports-widget-upcoming = Brevemente
+# Used for a match currently ongoing
+newtab-sports-widget-now = Agora
 newtab-sports-widget-results = Resultados
 newtab-sports-widget-semi-finals = Meias-finais
+newtab-sports-widget-bronze-finals = Final de atribuição do Bronze
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Final
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Variables:
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
@@ -1297,10 +1386,106 @@ newtab-sports-widget-third-place = 3.º lugar
 newtab-sports-widget-runner-up = Vice-campeões
 newtab-sports-widget-champions = Liga dos Campeões
 newtab-sports-widget-world-cup-champions = Campeões do Mundial de 2026
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = Campeões de 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Tempo regulamentar
+newtab-sports-widget-match-halftime = Intervalo
+newtab-sports-widget-match-extra-time = Prolongamento
+newtab-sports-widget-match-penalties = Grandes penalidades
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = vs
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Fique atento para os detalhes do próximo encontro
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Anterior
+    .title = Anterior
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Seguinte
+    .title = Seguinte
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Jogo ao vivo { $index } de { $total }
+    .title = Jogo ao vivo { $index } de { $total }
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } contra { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) contra { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Em direto: { $homeTeam }, { $homeScore } contra { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, atrasado
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, adiado
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, suspenso
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } vs. { $awayTeam }, cancelado
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bósnia-Herzegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Costa do Marfim
+newtab-sports-widget-team-name-label-cod =
+    .label = República Democrática do Congo
+newtab-sports-widget-team-name-label-eng =
+    .label = Inglaterra
+newtab-sports-widget-team-name-label-sco =
+    .label = Escócia
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = A ser determinado
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Comece o Campeonato do Mundo com novos fundos
+newtab-sports-widget-message-wallpapers-body = Traga alguma da energia do dia de jogo do torneio para o seu navegador.
 newtab-sports-widget-message-day-in-play-body = Siga o Campeonato do Mundo, foque-se na tarefa,  vejas as horas à volta do globo, e mais.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets

@@ -32,9 +32,6 @@ crashreporter-button-close = Tanca
 crashreporter-crash-identifier = ID de fallada: { $id }
 # $url (String) - the url which the user can use to view the submitted crash report
 crashreporter-crash-details = Podeu veure els detalls d'aquesta fallada a { $url }.
-
-# Error strings
-
 # $path (String) - the file path
 crashreporter-error-opening-file = No s'ha pogut obrir el fitxer ({ $path })
 # $path (String) - the file path
@@ -45,4 +42,5 @@ crashreporter-error-no-home-dir = Falta el directori d'inici
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = No s'ha pogut moure { $from } a { $to }
+crashreporter-error-version-eol = Versió sense suport: ja no se n'accepten informes d'error.
 crashreporter-error-failed-to-generate-minidump = L'aplicació no ha pogut generar informació sobre la fallada.

@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Us trobeu en mode FIPS. El FIPS requereix 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Reinicia la contrasenya principal
     .style = min-width: 40em
+    .title = Reinicia la contrasenya principal
 reset-password-button-label =
     .label = Reinicia
 reset-primary-password-text = Si reinicieu la vostra contrasenya principal, totes les vostres contrasenyes de web i de correu electrònic, els certificats personals i les claus privades emmagatzemades es perdran. Esteu segur que voleu reiniciar la vostra contrasenya principal?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = S'ha reiniciat la vostra contraseny
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Baixada de certificats
     .style = min-width: 46em
+    .title = Baixada de certificats
 download-cert-message = Se us ha demanat que confieu en una entitat certificadora (CA) nova.
 download-cert-trust-ssl =
     .label = Confia en aquesta CA per identificar llocs web.
@@ -54,6 +54,11 @@ client-auth-window =
     .title = Sol·licitud d'identificació de l'usuari
 client-auth-site-description = Aquest lloc ha sol·licitat que us identifiqueu amb un certificat:
 client-auth-choose-cert = Trieu un certificat per presentar-lo com a identificació:
+client-auth-send-no-certificate =
+    .label = No enviïs un certificat
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = "{ $hostname }" ha sol·licitat que us identifiqueu amb un certificat:
 client-auth-cert-details = Detalls del certificat seleccionat:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -77,6 +82,13 @@ client-auth-cert-details-issued-by = Emès per: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Emmagatzemat a: { $storedOn }
+client-auth-cert-remember-label = Recorda aquesta decisió:
+client-auth-cert-remember-never =
+    .label = Una vegada
+client-auth-cert-remember-always =
+    .label = Permanentment
+client-auth-cert-remember-temporarily =
+    .label = Durant aquesta sessió
 
 ## Set password (p12) dialog
 
@@ -88,3 +100,17 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Contrasenya de la còpia de seguretat del certificat (un altre cop):
 set-password-reminder = Important: si oblideu la contrasenya de la còpia de seguretat del certificat, no podreu recuperar-la més endavant. Deseu-la en un lloc segur.
+
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Autenticació protegida
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Autentiqueu-vos al dispositiu de seguretat ({ $tokenName }). La manera de fer-ho depèn del dispositiu (per exemple, utilitzant un lector d'empremtes dactilars o introduint un codi amb un teclat numèric).
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Autentiqueu-vos al testimoni ({ $tokenName }). La manera de fer-ho depèn del dispositiu (per exemple, utilitzant un lector d'empremtes dactilars o introduint un codi amb un teclat numèric).

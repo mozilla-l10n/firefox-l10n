@@ -37,3 +37,10 @@ about-logging-invalid-output = El valor "{ $v }" no és vàlid per a la clau "{ 
 about-logging-unknown-option = L'opció " { $k } " d'«about:logging» és desconeguda
 about-logging-configuration-url-ignored = S'ha ignorat l'URL de configuració
 about-logging-configured-via-url = Opció configurada mitjançant URL
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = Suprimeix
+about-logging-view-uploaded-profile = Mostra el perfil
+about-logging-delete-profile-confirm-title = Suprimeix el perfil
+about-logging-deleting-profile = S’està suprimint…

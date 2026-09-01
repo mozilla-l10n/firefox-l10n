@@ -87,12 +87,16 @@ about-reader-custom-colors-unvisited-links2 =
 about-reader-custom-colors-visited-links2 =
     .label = Enllaços visitats
     .title = Edita el color
+about-reader-custom-colors-selection-highlight2 =
+    .label = Marcador per a ser llegit en veu alta
+    .title = Edita el color
 
 ## Reader View text and layout menu
 
 about-reader-text-header = Text
 about-reader-text-size-label = Mida del text
 about-reader-font-type-selector-label = Tipus de lletra
+about-reader-font-weight-selector-label = Pes del tipus de lletra
 about-reader-font-weight-light = Clar
 about-reader-font-weight-regular = Normal
 about-reader-font-weight-bold = Negreta
