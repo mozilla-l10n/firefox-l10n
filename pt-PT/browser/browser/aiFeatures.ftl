@@ -101,3 +101,6 @@ smart-window-model-fast-v2 =
 smart-window-model-flexible-v2 =
     .description = Pronto para uma variedade de tarefas. Nome completo: { $model } por { $ownerName }
     .label = { $shortName }: Flexível
+smart-window-model-personal-v2 =
+    .description = Criado para uma ajuda personalizada em vários idiomas. Nome completo: { $model } por { $ownerName }
+    .label = { $shortName }: Pessoal

@@ -2,10 +2,95 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+smartwindow-messages-document-title = Mensagens de chat do { -smart-window-brand-name }
+
+## Context chips in the chat content
+
+# Variables:
+#   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
+smart-window-context-chips-tag-count =
+    { $tags ->
+        [one] { $tags } Etiqueta
+       *[other] { $tags } Etiquetas
+    }
+
+## Error messages in the chat content
+
+smartwindow-assistant-error-generic-header = Algo não correu bem. Por favor tente novamente.
+smartwindow-assistant-error-budget-header = Atingiu o limite de conversas para hoje.
+smartwindow-assistant-error-account-header = Para usar o { -smart-window-brand-name }, terá de iniciar sessão.
+smartwindow-assistant-error-capacity-header = O { -smart-window-brand-name } está no limite neste momento. Por favor tente novamente mais tarde.
+smartwindow-assistant-error-budget-body = Ainda pode navegar nesta janela. O chat ficará novamente disponível assim que o seu limite diário for reposto.
+smartwindow-assistant-error-many-requests-header = Por favor aguarde um momento e tente novamente. Foram enviadas demasiadas mensagens em pouco tempo.
+smartwindow-assistant-error-max-length-header = É altura de iniciar uma nova conversa. Esta chegou ao seu tamanho limite.
+smartwindow-assistant-error-request-blocked-header = O { -smart-window-brand-name } não conseguiu alcançar o servidor. Tente uma rede diferente, ou desative a sua VPN.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Erro do servidor (HTTP { $status }). Por favor tente novamente.
+smartwindow-retry-btn = Tentar Novamente
+smartwindow-clear-btn = Novo chat
+smartwindow-signin-btn = Iniciar sessão
+
+## Assistant Message footer
+
+aiwindow-memories-used = Memórias usadas
+aiwindow-memories-callout-description = As memórias ajudaram a personalizar esta resposta.
+aiwindow-memories-learn-more = Saber mais
+aiwindow-manage-memories =
+    .label = Definições das memórias
+aiwindow-retry-without-memories =
+    .label = Tentar novamente sem memórias
+aiwindow-retry =
+    .aria-label = Tentar novamente
+    .tooltiptext = Tentar novamente
+aiwindow-copy-message =
+    .aria-label = Copiar mensagem
+    .tooltiptext = Copiar
+aiwindow-copy-table =
+    .aria-label = Copiar tabela
+    .tooltiptext = Copiar tabela
+aiwindow-table-scroll-indicator = Desloque para ver mais
+aiwindow-thumbs-up =
+    .aria-label = Partilhar feedback positivo
+    .tooltiptext = Partilhar feedback positivo
+aiwindow-thumbs-down =
+    .aria-label = Partilhar feedback negativo
+    .tooltiptext = Partilhar feedback negativo
+aiwindow-applied-memories-popover =
+    .aria-label = Painel das memórias
+aiwindow-applied-memories-list =
+    .aria-label = Memórias
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Apagar { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Saltar para o fundo do chat
+    .tooltiptext = Saltar para o fundo
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = Tentar novamente
+smartwindow-nl-retry-message = Se ainda quiser fechar separadores, escolha <strong>Tentar novamente</strong> e faça a sua seleção no cartão que abrir.
+smartwindow-nl-retry-group-tabs-message = Se ainda quiser agrupar separadores, escolha <strong>Tentar novamente</strong> e selecione os que estiverem no cartão que abrir.
+smartwindow-nl-thinking = A procurar separadores correspondentes…
+smartwindow-loading-assistant-response =
+    .aria-label = A carregar a resposta do assistente
+smartwindow-nl-undo-button =
+    .label = Desfazer
 
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] { $count } separador fechado
+       *[other] { $count } separadores fechados
+    }
 smart-window-closed-tabs-summary =
     { $count ->
         [one] Feito! Separador fechado.

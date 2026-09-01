@@ -19,6 +19,31 @@ menu-file-new-classic-window =
     .label = Nova janela clássica
 menu-history-chats =
     .label = Chats
+menu-history-chats-recent =
+    .label = Chats Recentes
+smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = Novo Separador
+
+## Smart Window Toggle Button
+
+ai-window-toggleview-switch-classic =
+    .label = Janela Clássica
+    .value = Janela Clássica
+ai-window-toggleview-switch-classic-description =
+    .label = Navegação padrão
+    .value = Navegação padrão
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Perguntar enquanto navega
+    .value = Perguntar enquanto navega
+ai-window-toggleview-switch-private =
+    .label = Janela Privada
+ai-window-toggleview-open-private =
+    .label = Abrir Nova Janela Privada
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Janela Clássica
 
 ## Firstrun onboarding
 
