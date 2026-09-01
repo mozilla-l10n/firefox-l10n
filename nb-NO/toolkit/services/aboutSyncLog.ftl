@@ -67,7 +67,7 @@ about-sync-log-open-raw =
 
 ## Clear logs confirmation
 
-about-sync-log-clear-confirm-title = Tøm synkroniseringslogger?
+about-sync-log-clear-confirm-title = Tømme synkroniseringslogger?
 # Variables:
 #   $count (Number) - Number of logs that will be deleted.
 about-sync-log-clear-confirm-message =
