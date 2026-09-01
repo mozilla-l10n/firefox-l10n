@@ -1259,6 +1259,14 @@ newtab-sports-widget-watch-stream-free-paid = Gratuito e pago
 newtab-sports-widget-watch-stream-paid = Pago
 # Note: provider only streams some matches, not the full tournament.
 newtab-sports-widget-watch-stream-select-games-only = Selecionar apenas jogos
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Disponível na sua região
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Outras regiões
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Abrir stream
+    .title = Abrir stream
 newtab-sports-widget-group-stage = Fase de grupos
 newtab-sports-widget-round-16 = Oitavos de final
 newtab-sports-widget-quarter-finals = Quartos de final
@@ -1289,6 +1297,22 @@ newtab-sports-widget-third-place = 3.º lugar
 newtab-sports-widget-runner-up = Vice-campeões
 newtab-sports-widget-champions = Liga dos Campeões
 newtab-sports-widget-world-cup-champions = Campeões do Mundial de 2026
+
+## Sports widget OMC messages
+## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+
+newtab-sports-widget-message-day-in-play-body = Siga o Campeonato do Mundo, foque-se na tarefa,  vejas as horas à volta do globo, e mais.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Explorar widgets
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Ajude-nos a melhorar os widgets
+newtab-sports-widget-message-survey-body = E é o final do Campeonato do Mundo. Partilhe o seu feedback da experiência.
+newtab-sports-widget-message-survey-widget-title = Como foi o widget do Campeonato do Mundo?
+newtab-sports-widget-message-survey-widget-body = Partilhe a sua opinião para ajudar-nos a melhorar os futuros widgets. Depois, experimente o novo no seu alinhamento.
+newtab-sports-widget-message-survey-cta =
+    .label = Preencher inquérito
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1325,6 +1349,13 @@ newtab-clock-widget-search-location-input =
     .aria-label = Pesquisar por cidade
     .label = Localização
     .placeholder = Pesquisar por cidade
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .aria-label = Nickname (opcional)
+    .label = Nickname (opcional)
+    .placeholder = Adicionar um nickname
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -1343,6 +1374,19 @@ newtab-clock-widget-button-save = Guardar
 newtab-clock-widget-button-remove-clock =
     .aria-label = Remover relógio
     .title = Remover relógio
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, nickname: { $nickname }
 newtab-clock-widget-add-clock-form =
     .aria-label = Adicionar relógio
 newtab-clock-widget-edit-clock-form =
@@ -1352,6 +1396,30 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Resultados da pesquisa
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Adicionar “{ $city }” como um relógio personalizado
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .aria-label = Nome da cidade
+    .label = Nome da cidade
+    .placeholder = Nomeie este relógio
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .aria-label = Fuso horário
+    .label = Fuso horário
+    .placeholder = Pesquisar por cidade, fuso horário ou desfasamento UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Resultados de fuso horário
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Sem fusos horários correspondentes
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Retroceder
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Sem correspondências
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

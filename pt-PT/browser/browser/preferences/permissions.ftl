@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Exceções
     .style = min-width: 45em
+    .title = Exceções
 permissions-close-key =
     .key = w
 permissions-address = Endereço do site
@@ -80,72 +80,79 @@ permissions-invalid-uri-label = Por favor introduza um nome de servidor válido
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Exceções para a Proteção melhorada contra a monitorização
     .style = { permissions-window2.style }
+    .title = Exceções para a Proteção melhorada contra a monitorização
 permissions-exceptions-manage-etp-desc = Pode especificar que sites têm a Proteção melhorada contra a monitorização desativada. Especifique o endereço exato do site que deseja gerir e clique em Adicionar exceção.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Exceções - Cookies e dados de sites
     .style = { permissions-window2.style }
+    .title = Exceções - Cookies e dados de sites
 permissions-exceptions-cookie-desc = Pode especificar quais os sites que podem, sempre ou nunca, utilizar cookies e dados de sites.  Escreva o endereço exato do site que pretende gerir e depois clique em Bloquear, Permitir para a sessão ou Permitir.
+
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-window =
+    .style = { permissions-window2.style }
+    .title = Exceções - Limpar o Histórico ao Desligar
+permissions-exceptions-shutdown-clearing-desc = Pode especificar quais os sites que manterão os respetivos dados quando o { -brand-short-name } limpar o histórico ao fechar. Escreva o endereço exato do site que pretende gerir e depois clique em Permitir.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Exceções - modo apenas HTTPS
     .style = { permissions-window2.style }
+    .title = Exceções - modo apenas HTTPS
 permissions-exceptions-https-only-desc = Pode desativar o modo apenas HTTPS para sites específicos. O { -brand-short-name } não tentará atualizar a ligação para HTTPS seguro  para estes sites. As exceções não se aplicam a janelas privadas.
 permissions-exceptions-https-only-desc2 = Pode desativar o Modo Apenas HTTPS para sites específicos. O { -brand-short-name } não tentará atualizar a ligação para HTTPS seguro nesses sites.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
-    .title = Sites permitidos - Popus e redirecionamentos de terceiros
     .style = { permissions-window2.style }
+    .title = Sites permitidos - Popus e redirecionamentos de terceiros
 permissions-exceptions-popup-desc2 = Pode especificar quais os sites que têm permissão para abrir janelas de popup e serem redirecionados por frames de terceiros.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
-    .title = Sites permitidos - Pop-ups
     .style = { permissions-window2.style }
+    .title = Sites permitidos - Pop-ups
 permissions-exceptions-popup-desc = Pode especificar quais os sites que têm permissão para abrir janelas pop-up. Introduza o endereço exato do site que pretende permitir e depois clique em Permitir.
 
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window2 =
-    .title = Exceções - Credenciais guardadas
     .style = { permissions-window2.style }
+    .title = Exceções - Credenciais guardadas
 permissions-exceptions-saved-logins-desc = Não serão guardadas as credenciais para os seguintes sites
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Exceções – palavras-passe guardadas
     .style = { permissions-window2.style }
+    .title = Exceções – palavras-passe guardadas
 permissions-exceptions-saved-passwords-desc = O { -brand-short-name } não irá guardar as palavras-passe para os sites aqui listados.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Sites permitidos - Instalação de complementos
     .style = { permissions-window2.style }
+    .title = Sites permitidos - Instalação de complementos
 permissions-exceptions-addons-desc = Pode especificar quais os sites que têm permissão para instalar complementos. Digite o endereço exato do site que pretende permitir e depois clique em Permitir.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Definições - Reprodução automática
     .style = { permissions-window2.style }
+    .title = Definições - Reprodução automática
 permissions-site-autoplay-desc = Pode gerir os sites que não seguem as suas definições predefinidas de reprodução automática aqui.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Definições - Permissões de notificação
     .style = { permissions-window2.style }
+    .title = Definições - Permissões de notificação
 permissions-site-notification-desc = Os sites seguintes solicitaram o envio de notificações. Pode especificar quais os sites que têm permissão para enviar notificações. Pode também bloquear novos pedidos, solicitando que seja pedida autorização para permitir notificações.
 permissions-site-notification-disable-label =
     .label = Bloquear novos pedidos de permissão de notificações
@@ -154,8 +161,8 @@ permissions-site-notification-disable-desc = Isto irá impedir quaisquer sites n
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Definições - Permissões de localização
     .style = { permissions-window2.style }
+    .title = Definições - Permissões de localização
 permissions-site-location-desc = Os sites seguintes solicitaram acesso à sua localização. Pode especificar quais os sites que têm permissão para aceder à sua localização. Pode também bloquear novos pedidos, solicitando que seja pedida autorização para aceder à sua localização.
 permissions-site-location-disable-label =
     .label = Bloquear novos pedidos de acesso à sua localização
@@ -164,8 +171,8 @@ permissions-site-location-disable-desc = Isto irá impedir quaisquer sites não 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Definições - Permissões de realidade virtual
     .style = { permissions-window2.style }
+    .title = Definições - Permissões de realidade virtual
 permissions-site-xr-desc = Os seguintes sites solicitaram acesso aos seus dispositivos de realidade virtual. Pode especificar quais os sites que têm permissão para aceder aos seus dispositivos de realidade virtual. Pode também bloquear novos pedidos de acesso aos seus dispositivos de realidade virtual.
 permissions-site-xr-disable-label =
     .label = Bloquear novos pedidos de acesso aos seus dispositivos de realidade virtual
@@ -174,8 +181,8 @@ permissions-site-xr-disable-desc = Isto irá impedir que quaisquer sites não li
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Definições - Permissões de câmara
     .style = { permissions-window2.style }
+    .title = Definições - Permissões de câmara
 permissions-site-camera-desc = Os sites seguintes solicitaram acesso à sua câmara. Pode especificar quais os sites que têm permissão para aceder à sua câmara. Pode também bloquear novos pedidos, solicitando que seja pedida autorização para aceder à sua câmara.
 permissions-site-camera-disable-label =
     .label = Bloquear novos pedidos de acesso à sua câmara
@@ -184,8 +191,8 @@ permissions-site-camera-disable-desc = Isto irá impedir quaisquer sites não li
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Definições - aplicações e serviços do dispositivo
     .style = { permissions-window2.style }
+    .title = Definições - aplicações e serviços do dispositivo
 permissions-site-localhost-desc = Estes sites solicitaram acesso às aplicações e serviços neste dispositivo. Pode optar por permitir ou bloquear sites que façam isto.
 permissions-site-localhost-disable-label =
     .label = Bloquear novos pedidos de acesso a aplicações e serviços neste dispositivo
@@ -194,8 +201,8 @@ permissions-site-localhost-disable-desc = Isto impedirá que qualquer site não 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Definições - dispositivos da rede local
     .style = { permissions-window2.style }
+    .title = Definições - dispositivos da rede local
 permissions-site-local-network-desc = Estes sites solicitaram acesso a aplicações e serviços em dispositivos ligados à sua rede local ou Wi-Fi. Pode optar por permitir ou bloquear que os sites o façam.
 permissions-site-local-network-disable-label =
     .label = Bloquear novos pedidos de acesso a aplicações e serviços em dispositivos ligados à sua rede local ou Wi-Fi.
@@ -204,8 +211,8 @@ permissions-site-local-network-disable-desc = Isto irá impedir que qualquer sit
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Definições - Permissões de microfone
     .style = { permissions-window2.style }
+    .title = Definições - Permissões de microfone
 permissions-site-microphone-desc = Os sites seguintes solicitaram acesso ao seu microfone. Pode especificar quais os sites que têm permissão para aceder ao seu microfone. Pode também bloquear novos pedidos, solicitando que seja pedida autorização para aceder ao seu microfone.
 permissions-site-microphone-disable-label =
     .label = Bloquear novos pedidos de acesso ao seu microfone
@@ -216,12 +223,12 @@ permissions-site-microphone-disable-desc = Isto irá impedir quaisquer sites nã
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Definições - Permissões de altifalante
     .style = { permissions-window2.style }
+    .title = Definições - Permissões de altifalante
 permissions-site-speaker-desc = Os seguintes sites solicitaram a seleção de um dispositivo de saída de áudio. Você pode especificar quais sites que têm permissão para selecionar um dispositivo de saída de áudio.
 permissions-exceptions-doh-window =
-    .title = Exceções de sites para DNS sobre HTTPS.
     .style = { permissions-window2.style }
+    .title = Exceções de sites para DNS sobre HTTPS.
 permissions-exceptions-manage-doh-desc = O { -brand-short-name } não irá utilizar DNS seguro nestes sites e respetivos subdomínios.
 permissions-doh-entry-field = Indique o nome de domínio do site
     .accesskey = d

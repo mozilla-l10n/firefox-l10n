@@ -30,12 +30,17 @@ policy-BlockAboutSupport = Bloquear acesso  à página about:support.
 policy-Bookmarks = Criar marcadores na barra de ferramentas de marcadores, menus de marcadores ou uma pasta especificada dentro dos mesmos.
 policy-CaptivePortal = Ativar ou desativar o suporte ao portal cativo.
 policy-CertificatesDescription = Adicionar certificados ou utilizar certificados integrados.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Ativar o acordo de chave CNSA 2.0 ML-KEM-1024 para TLS.
 policy-ContentAnalysis = Ativar ou desativar a ligação ao agente de proteção contra perda de dados.
 policy-Cookies = Permitir ou negar que os sites definam cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Definir políticas relacionadas com os contentores.
 policy-DisableAccounts = Desative os serviços baseados na conta, incluindo a sincronização.
 policy-DisabledCiphers = Desativar cifras.
+policy-DefaultBrowserSettingEnabled = Controle se o utilizador pode definir o { -brand-short-name } como o navegador predefinido.
 policy-DefaultDownloadDirectory = Definir o diretório de transferências predefinido.
 policy-DefaultSerialGuardSetting = Controlar a utilização da Serial API.
 policy-DisableAppUpdate = Impedir o navegador de ser atualizado.
@@ -52,6 +57,7 @@ policy-DisableFirefoxScreenshots = Desativar a funcionalidade Firefox Screenshot
 policy-DisableFirefoxStudies = Impedir o { -brand-short-name } de executar estudos.
 policy-DisableForgetButton = Impedir o acesso ao botão Esquecer.
 policy-DisableFormHistory = Não guardar histórico de pesquisas ou de formulários.
+policy-DisableLaunchOnLogin = Impedir que o { -brand-short-name } seja iniciado automaticamente quando o utilizador inicia sessão.
 policy-DisablePrimaryPasswordCreation = Se verdadeiro, não poderá ser criada uma palavra-passe principal.
 policy-DisablePasswordReveal = Impedir que as palavras-passe sejam reveladas nas credenciais guardadas.
 policy-DisablePocket2 = Desativar a funcionalidade de guardar páginas web no { -pocket-brand-name }.
@@ -59,6 +65,7 @@ policy-DisablePrivateBrowsing = Desativar a Navegação privada.
 policy-DisableProfileImport = Desativar o menu de comando para importar dados de outro navegador.
 policy-DisableProfileRefresh = Desativar o botão Restaurar { -brand-short-name } na página about:support.
 policy-DisableRemoteImprovements = Impedir o { -brand-short-name } de aplicar alterações de desempenho, estabilidade e de funcionalidades entre atualizações.
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Desativar definições remotas.
 policy-DisableSafeMode = Desativar a funcionalidade de reiniciar no Modo de segurança. Nota: o botão Shift para entrar no Modo de segurança apenas pode ser desativado no Windows utilizando Política de grupo.
 policy-DisableSecurityBypass = Impedir o utilizador de contornar certos avisos de segurança.
 policy-DisableSetAsDesktopBackground = Desativar o comando de menu Definir como fundo do ambiente de trabalho para imagens.

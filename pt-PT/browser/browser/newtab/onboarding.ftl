@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Adicionar { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progresso: passo { $current } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -62,6 +56,15 @@ mr1-onboarding-theme-label-dark = Escuro
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 onboarding-theme-primary-button-label = Concluído
+
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = Pausar animação
+onboarding-animation-play-button =
+    .aria-label = Reproduzir animação
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -221,11 +224,6 @@ mr2022-onboarding-set-default-subtitle = Utilize um navegador apoiado por uma or
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = A nossa versão mais recente foi desenvolvida para si, tornando mais fácil do que nunca a navegação na Web. Ela está repleta de funcionalidades que achamos que vai adorar.
 mr2022-onboarding-get-started-primary-button-label = Configurar em segundos
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-header = Configuração ultra-rápida
 mr2022-onboarding-import-subtitle = Configure o { -brand-short-name } como preferir. Adicione os seus marcadores, palavras-passe e muito mais, do seu navegador antigo.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importar do navegador anterior
@@ -437,6 +435,11 @@ onboarding-checklist-pin = Fixar o { -brand-short-name } na barra de tarefas
 onboarding-checklist-import = Importar do navegador anterior
 onboarding-checklist-extension = Adicionar uma extensão
 onboarding-checklist-sign-up = Registar ou iniciar sessão na sua conta
+onboarding-checklist-minimize =
+    .label = Minimizar
+onboarding-checklist-remove =
+    .label = Remover lista de verificação
+onboarding-checklist-remove-2 = Remover lista de verificação
 
 ## Tab Groups feature onboarding strings
 
@@ -585,3 +588,41 @@ onboarding-refresh-sync-title = Vá para qualquer lugar. Sincronize tudo.
 onboarding-refresh-gratitude-subtitle = Obrigado por utilizar o { -brand-short-name }, o único grande navegador apoiado por uma organização sem fins lucrativos. Com o seu apoio, nós estamos a trabalhar para tornar a Internet mais segura e acessível para todos.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = O { -brand-short-name } está aqui para si
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = Alterne entre as Janelas Clássicas e Inteligentes a qualquer momento.
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = Termos de Utilização do { -brand-product-name }
+smartwindow-existing-user-fx-tou-body = Para usar o { -smart-window-brand-name }, por favor, aceite os <a data-l10n-name="terms_of_use">Termos de Utilização</a> e a <a data-l10n-name="privacy_notice">Informação de Privacidade</a> atualizada.
+smartwindow-existing-user-fx-tou-accept = Aceitar
+smartwindow-existing-user-fx-tou-go-back = Retroceder
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = Torne o { -smart-window-brand-name } o seu destino
+smartwindow-onboarding-subtitle = Resuma, compare e coloque questões sem perder o ritmo.
+smartwindow-onboarding-primary-button = Continuar
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Mascote (Kit) do { -brand-product-name } com props de estrelas
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = Deseja manter o assistente fechado?
+smartwindow-sidebar-auto-open-callout-body = Pode abri-lo na mesma sempre que precisar.
+smartwindow-sidebar-auto-open-callout-accept = Sim, manter fechado
+smartwindow-sidebar-auto-open-callout-dismiss = Não obrigado
+smartwindow-sidebar-auto-open-callout-accepted-title = O assistente irá manter-se fechado
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Use Perguntar para abri-lo em qualquer página. Altere isto a qualquer momento nas <a data-l10n-name="settings">Definições</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Percebi
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Se mudar de ideias, pode atualizar a predefinição nas <a data-l10n-name="settings">Definições</a> a qualquer momento.
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Escolha um tema
+onboarding-theme-picker-subtitle = Traga um pouco mais de cor para o { -brand-short-name }.
+onboarding-theme-picker-button-label = Guardar e continuar
