@@ -127,6 +127,28 @@ fxa-menu-sync-status-turn-on-button-aria-label = Ativar
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Iniciar sessão para sincronizar
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Sincronizar { $deviceName } Agora
+fxa-menu-manage-sync-settings =
+    .label = Gerir Definições de Sincronização
+fxa-menu-add-device =
+    .label = Adicionar um Dispositivo
+fxa-menu-manage-devices =
+    .label = Gerir os Seus Dispositivos
+fxa-menu-device-missing =
+    .label = Não Vê o Seu Dispositivo?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Todos os Dispositivos
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Todos os Dispositivos
+fxa-menu-get-firefox-mobile =
+    .label = Obtenha o { -brand-product-name } para Android ou iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Sincronização segura
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Conta
 # Variables
@@ -136,6 +158,12 @@ appmenu-fxa-last-sync = Última sincronização { $time }
     .label = Última sincronização { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizar e guardar dados
 appmenu-fxa-signed-in-label = Iniciar sessão
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Iniciar sessão para sincronizar
+appmenu-fxa-sign-in-promo-message = Obtenha os seus dados em todo o lado
+appmenu-fxa-sign-in-promo-button =
+    .label = Iniciar sessão
 appmenu-fxa-setup-sync =
     .label = Ativar a sincronização ...
 appmenu-fxa-setup-sync-new = Ativar
@@ -221,6 +249,9 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rede
+profiler-popup-presets-networking-with-logs-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }, incluindo históricos de rede. Estes históricos podem conter informação sensível, tais como os URLs que visita.
+profiler-popup-presets-networking-with-logs-label =
+    .label = Navegação em Rede com Históricos
 profiler-popup-presets-power-description = Predefinição para investigar bugs relacionados com a utilização de energia no { -brand-shorter-name }, com baixa sobrecarga.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -251,6 +282,27 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Pesquisar histórico
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Manter-se sincronizado entre dispositivos
+appmenu-sync-promo-signin-cta = Iniciar sessão
+appmenu-sync-promo-turnonsync =
+    .heading = Sincronize os seus separadores e histórico
+appmenu-sync-promo-turnonsync-cta = Ativar sincronização
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Agarre os seus separadores móveis
+appmenu-sync-promo-connectdevice-cta = Conecte um dispositivo
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Traga os seus marcadores consigo
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Leve os seus marcadores em viagem
+
 ## Help panel
 
 appmenu-help-header =
@@ -258,6 +310,16 @@ appmenu-help-header =
 appmenu-about =
     .label = Acerca do { -brand-shorter-name }
     .accesskey = A
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Partilhar o { -brand-product-name }
+    .accesskey = r
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals =
+    .label = Partilhar o { -brand-shorter-name }
+    .accesskey = r
 appmenu-get-help =
     .label = Obter ajuda
     .accesskey = j
@@ -271,6 +333,9 @@ appmenu-help-share-ideas =
     .accesskey = h
 appmenu-help-switch-device =
     .label = A mudar para um dispositivo novo
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Ajuda e Reporte
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -298,6 +363,8 @@ appmenu-customizetoolbar =
     .label = Personalizar barra de ferramentas…
 appmenu-abouttranslations =
     .label = Traduzir…
+appmenu-edit-pdf =
+    .label = Editar PDF…
 appmenu-developer-tools-subheader = Ferramentas do navegador
 appmenu-developer-tools-extensions =
     .label = Extensões para Programadores
@@ -307,15 +374,31 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Inicie sessão na sua conta
+appmenuitem-monitor-title2 = Antecipe-se ao Roubo de Identidade
+appmenuitem-monitor-description2 = Obter alertas para violações de dados
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = Alertas de Violação de Dados do { -monitor-brand-short-name }
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Obter alertas de violações de dados
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = Mantenha o Seu E-mail Privado
+appmenuitem-relay-description2 = Ajuda a evitar spam na sua caixa de entrada
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = Ver Máscaras de E-mail
 appmenuitem-relay-description = Mascare o seu e-mail e telefone reais
 appmenuitem-services-relay-description = Iniciar o painel de máscaras de e-mail
+appmenuitem-vpn-title2 = Esconder a Sua Localização com { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Obtenha proteção extra entre dispositivos
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Transfira { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtenha proteção para todo o dispositivo
 appmenuitem-vpn-description = Proteja a sua privacidade na Internet
 appmenu-services-header = Os meus serviços
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Ferramentas de privacidade
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
@@ -329,9 +412,16 @@ appmenu-manage-profiles =
     .label = Gerir perfis
 appmenu-copy-profile =
     .label = Copiar este perfil
+appmenu-create-profile2 =
+    .label = Criar um Novo Perfil
 appmenu-create-profile =
     .label = Novo perfil
 appmenu-edit-profile =
     .aria-label = Editar perfil
+appmenu-edit-this-profile =
+    .label = Editar Este Perfil
+appmenu-profile-current-in-use = Perfil atual em uso
+fxa-menu-create-profile-subpanel =
+    .title = Criar um novo perfil
 appmenu-profiles-2 =
     .label = Perfis

@@ -879,6 +879,18 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Perguntar
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Última visita { $date }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Última visita { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1004,6 +1016,14 @@ urlbar-searchmode-no-keyword2 =
     .title = A pesquisa por palavra-chave está desativada
 urlbar-searchmode-dropmarker2 =
     .title = Escolher um motor de pesquisa
+urlbar-searchmode-bookmarks3 = Marcadores
+    .accesskey = B
+urlbar-searchmode-tabs3 = Separadores
+    .accesskey = T
+urlbar-searchmode-history3 = Histórico
+    .accesskey = H
+urlbar-searchmode-actions3 = Ações
+    .accesskey = A
 urlbar-searchmode-exit-button2 =
     .title = Fechar
 urlbar-searchmode-default2 =
@@ -1019,6 +1039,10 @@ urlbar-searchmode-popup-one-off-header = Desta vez, pesquisar com:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Pesquisar com:
+urlbar-searchmode-popup-search-settings = Definições de Pesquisa
+    .accesskey = S
+urlbar-searchmode-popup-settings = Definições
+    .accesskey = S
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1272,6 +1296,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Separadores sincronizados
     .tooltiptext = Mostrar separadores de outros dispositivos
+toolbar-button-send-tab =
+    .label = Enviar separador
+    .tooltiptext = Enviar separador atual para outro dispositivo
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1288,6 +1315,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
@@ -1425,6 +1455,14 @@ private-browsing-indicator-label = Navegação privada
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Navegação privada
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Informação da navegação privada
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Está numa Janela Privada
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Isto ajuda a manter a sua navegação escondida de outros neste dispositivo, mas não o torna invisível na Internet. <a data-l10n-name="learn-more"> Quem talvez poderá ver a minha atividade?</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1490,6 +1528,9 @@ reset-pbm-panel-confirm-button =
     .label = Eliminar dados de sessão
     .accesskey = d
 reset-pbm-panel-complete = Dados da navegação privada eliminados
+reset-pbm-toolbar-button2 =
+    .label = Limpar sessão privada
+    .tooltiptext = Limpar sessão privada
 
 ## Autorefresh blocker
 
@@ -1641,6 +1682,14 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = Não seguro
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } rastreador bloqueado
+       *[other] { $count } rastreadores bloqueados
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1742,3 +1791,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>O site não está a funcionar corretamente?</strong> Recarregue a página para reduzir, temporariamente, a proteção contra monitorização.
 reduced-protection-infobar-reload-button = Recarregar
     .accesskey = R
+reduced-protection-infobar-never-show-button = Não mostrar novamente
+    .accesskey = D
