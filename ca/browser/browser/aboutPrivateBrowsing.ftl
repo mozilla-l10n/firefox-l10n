@@ -58,6 +58,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Ni galetes, ni historial, directament des del vostre escriptori. Navegueu sense sentir-vos observat.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Eviteu l'spam a la bústia d'entrada amb les màscares d'adreça electrònica
+about-private-browsing-relay-promo-title = Oculteu la vostra adreça real amb una màscara de correu electrònic quan us registreu, compreu o compartiu en línia.
+about-private-browsing-relay-promo-link-text = Proveu les màscares de correu electrònic
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
