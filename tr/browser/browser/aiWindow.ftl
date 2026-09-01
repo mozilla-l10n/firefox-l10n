@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = { $searchEngineName } ile ara
 aiwindow-input-cta-menu-label-search-with = Bununla ara…
 aiwindow-input-cta-search-submenu-header = Ara
 aiwindow-input-cta-stop-button =
-    .title = Cevabı durdur
     .aria-label = Cevap üretimini durdur
+    .title = Cevabı durdur
 
 ## Smartbar
 
@@ -223,7 +223,7 @@ aiwindow-fullpage-more =
 
 ## Sign out dialog
 
-fxa-signout-dialog-body-aiwindow = Eşitlenen veriler hesabınızda kalmaya devam edecek. Açık olan { -smart-window-brand-name(plural-form: "true") } klasik pencerelere dönüşecek.
+fxa-signout-dialog-body-aiwindow = Eşitlenen veriler hesabınızda kalmaya devam edecek. Açık olan { -smart-window-brand-name(form: "lowercase-plural") } klasik pencerelere dönüşecek.
 
 ## Smart Window Toggle Button (in-page)
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = { -smart-window-brand-name(form: "uppercase
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Sohbetler
     .aria-label = Sohbetler
+    .label = Sohbetler
     .tooltiptext = Sohbetler
 smartwindow-footer-history =
-    .label = Geçmiş
     .aria-label = Geçmiş
+    .label = Geçmiş
     .tooltiptext = Geçmiş
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = { -smart-window-brand-name(form: "uppercas
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } sohbet
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Site geçmişini, indirme geçmiş
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Tümünü seç
     .aria-label = Tümünü seç
+    .label = Tümünü seç
 smart-window-confirm-deselect-all =
-    .label = Seçimi temizle
     .aria-label = Seçimi temizle
+    .label = Seçimi temizle
 smart-window-close-confirm =
     .aria-label = İsteği iptal edip kapat
     .tooltiptext = İsteği iptal edip kapat
