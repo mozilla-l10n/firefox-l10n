@@ -534,11 +534,29 @@ details-notification-unsigned-and-disabled-link = Повеќе информац�
 details-notification-unsigned = { $name } не може да се верифицира за употреба во { -brand-short-name }. Бидете внимателни.
 details-notification-unsigned2 =
     .message = { $name } не може да се верифицира за употреба во { -brand-short-name }. Бидете внимателни.
+details-notification-hard-blocked-extension =
+    .message = Ова проширување е блокирано поради прекршување на политиките на Mozilla и е оневозможено.
+details-notification-hard-blocked-other =
+    .message = Овој додаток е блокиран поради прекршување на политиките на Mozilla и е оневозможен.
 details-notification-unsigned-link = Повеќе информации
 details-notification-blocked = { $name } е онеспособен поради проблем со безбедност или стабилност.
 details-notification-blocked-link2 = Види детали
 details-notification-soft-blocked-extension-disabled2 =
     .message = Ова проширување е ограничено и е оневозможено. Можете да го овозможите, но ова може да биде ризично.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Ова проширување е ограничено. Користењето може да биде ризично.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Овој додаток е ограничен и е оневозможен. Можете да го овозможите, но ова може да биде ризично.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Овој додаток е ограничен. Неговото користење може да биде ризично.
+details-notification-soft-blocked-extension-disabled =
+    .message = Ова проширување е ограничено поради прекршување на политиките на Mozilla и е оневозможено. Можете да го овозможите, но ова може да биде ризично.
+details-notification-soft-blocked-extension-enabled =
+    .message = Ова проширување ги прекршува политиките на Mozilla. Неговата употреба може да биде ризична.
+details-notification-soft-blocked-other-disabled =
+    .message = Овој додадок е ограничен поради прекршување на политиките на Mozilla и е оневозможен. Можете да го овозможите, но ова може да биде ризично.
+details-notification-soft-blocked-other-enabled =
+    .message = Овој додаток ги прекршува политиките на Mozilla. Неговата употреба може да биде ризична.
 details-notification-softblocked-link2 = Види детали
 details-notification-blocked-link = Повеќе информации
 details-notification-softblocked = Познато е дека { $name } предизвикува проблеми со безбедноста и стабилноста.
@@ -552,10 +570,77 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = Информации за лиценцата
 plugins-gmp-privacy-info = Информации за приватност
 plugins-openh264-name = Видео кодек OpenH264 обезбеден од Cisco Systems, Inc.
+plugins-openh264-description = Овој приклучок е автоматски инсталиран од Mozilla за да се усогласи со спецификацијата WebRTC и да овозможи WebRTC повици со уреди на кои им е потребен видео кодекот H.264. Посетете ја страницата https://www.openh264.org/ за да го видите изворниот код на кодекот и да дознаете повеќе за имплементацијата.
+plugins-widevine-name = Модул за дешифрирање на содржина Widevine обезбеден од Google Inc.
+plugins-widevine-description = Овој приклучок овозможува репродукција на шифрирани медиуми во согласност со спецификацијата за проширувања за шифрирани медиуми. Мрежните места вообичаено користат шифрирани медиум за да ја заштитат содржината од копирање. Посетете го https://www.w3.org/TR/encrypted-media/ за повеќе информации за Екстензии за шифрирани медиуми.
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Задолжително собирање податоци:
+addon-permissions-optional-data-collection = Опционално собирање податоци:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Дозволи и податоци
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Користено од екстензијата { $extensionName }
 addon-permissions-data-collection-heading = Прибирање на податоци
+addon-permissions-data-collection-empty = Програмерот вели дека ова проширување не бара собирање податоци.
+addon-data-collection-provided = Информации обезбедени од програмерот на проширувањето
+addon-data-collection-learnmore = Дознајте повеќе за собирањето податоци
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+mlmodel-about-inference = { -brand-short-name } го користи ова на about:inference
+mlmodel-link-preview = { -brand-short-name } го користи ова за да генерира клучни точки кога прегледувате линкови
+mlmodel-pdfjs = { -brand-short-name } го користи ова за креирање алтернативен текст за слики што ги додавате во PDF-датотеки
+mlmodel-smart-tab-topic-engine = { -brand-short-name } го користи ова за да предложи имиња за вашите групи на јазичиња
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } го користи ова за да предложи јазичиња за вашите групи на јазичиња
+mlmodel-formfill-engine = { -brand-short-name } го користи ова за да помогне во пополнувањето на формуларите за адреси
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = ВИ на уредот
+addon-category-mlmodel-title =
+    .title = ВИ на уредот
+mlmodel-heading = Управувајте со модели на ВИ на уредот
+mlmodel-description = Некои функции и проширувања во { -brand-short-name } користат модели на ВИ кои работат локално на вашиот уред. Овој пристап ја штити вашата приватност и, во многу случаи, ги забрзува перформансите. <a data-l10n-name="learn-more">Дознајте повеќе</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Отстрани
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Големина на датотека
+mlmodel-addon-detail-last-used-label = Последен пат користена
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Користено од
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Картичка за модел
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Погледнете на Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Обликувајте го { -brand-product-name } на ваш начин
+    .message = Додајте алатки и стилови што одговараат на вашите потреби и вкус.
+find-more-addons-promo-open-amo-button = Истражете проширувања и теми
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Пронајдете го вашето следно омилено проширување
+    .message = Прилагодете го { -brand-product-name } со алатки за фокусирање, приватност, купување и друго.
+find-more-extensions-promo-open-amo-button = Истражете проширувања
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Пронајдете повеќе свежи изгледи
+    .message = Изберете стил што ќе го направи { -brand-product-name } да личи како ваш.
