@@ -152,6 +152,106 @@ home-prefs-support-firefox-header-srd =
     .label = Apoiar o { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Descubra como
 
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-5 = Rastreadores bloqueados significa que menos empresas podem segui-lo entre sites.
+newtab-privacy-message-info-5-cta = Ver proteções
+newtab-privacy-message-info-6 = Mantenha os seus dados com o { -brand-short-name }. Nós nunca os vendemos, mas outros navegadores poderão.
+newtab-privacy-message-info-6-cta = Saber mais
+newtab-privacy-message-info-7 = Veja quais os rastreadores que o { -brand-short-name } bloqueou.
+newtab-privacy-message-info-7-cta = Ver proteções
+newtab-privacy-message-info-8 = Navegar com o { -brand-short-name } apoia a missão da { -vendor-short-name } de construir uma Internet melhor.
+newtab-privacy-message-info-8-cta = Saber mais
+newtab-privacy-message-info-9 = Faça do { -brand-short-name } o seu navegador de eleição para a privacidade integrada.
+newtab-privacy-message-info-9-cta = Predefinir
+newtab-privacy-message-info-10 = Guarde as palavras-passe no { -brand-short-name } para usar credenciais fortes, e únicas em todo o lado.
+newtab-privacy-message-info-10-cta = Ir para palavras-passe
+newtab-privacy-message-info-11 = Saiba como o { -brand-short-name } ajuda a manter a sua navegação mais privada.
+newtab-privacy-message-info-11-cta = Saber mais
+newtab-privacy-message-info-12 = Bloquear rastreadores pode ajudar a poupar largura de banda em planos de dados limitados.
+newtab-privacy-message-info-12-cta = Ver proteções
+newtab-privacy-message-info-13 = O { -brand-short-name } bloqueia rastreadores, libertando largura de banda para uma transmissão mais suave.
+newtab-privacy-message-info-13-cta = Ver proteções
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1 = Descubra se a sua informação pessoal aparece numa violação de dados.
+newtab-privacy-message-promo-monitor-1-cta = Saber mais
+newtab-privacy-message-promo-monitor-2 = Proteja a sua informação com a monitorização gratuita de violações de dados, para até 20 e-mails.
+newtab-privacy-message-promo-monitor-2-cta = Saber mais
+newtab-privacy-message-promo-signin-1 = Mantenha marcadores, palavras-passe e separadores encriptados entre dispositivos com a sua conta do { -vendor-short-name }.
+newtab-privacy-message-promo-signin-1-cta = Iniciar sessão
+newtab-privacy-message-promo-vpn-1 = Compras online através de Wi-Fi público? Ative a VPN integrada para uma proteção extra.
+newtab-privacy-message-promo-vpn-1-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-2 = Usar o Wi-Fi do aeroporto? Proteja a sua navegação ao ligar a VPN integrada.
+newtab-privacy-message-promo-vpn-2-cta = Abrir VPN
+newtab-privacy-message-promo-vpn-3 = Ative a VPN integrada para ajudar a manter a sua localização mais privada.
+newtab-privacy-message-promo-vpn-3-cta = Abrir VPN
+newtab-privacy-message-promo-private-window-1 = Experimente uma janela privada para navegar com mais privacidade ao usar um computador partilhado.
+newtab-privacy-message-promo-private-window-1-cta = Abrir janela privada
+newtab-privacy-message-promo-relay-1 = Guarde o seu e-mail real para pessoas em que confia; use uma máscara de e-mail para subscrições.
+newtab-privacy-message-promo-relay-1-cta = Obter máscaras
+newtab-privacy-message-promo-relay-2 = Proteja a sua caixa de entrada de spam com máscaras de e-mail gratuitas.
+newtab-privacy-message-promo-relay-2-cta = Obter máscaras
+newtab-privacy-message-promo-relay-3 = Obtenha 50 máscaras de e-mail gratuitas para ajudar a manter o seu e-mail real privado.
+newtab-privacy-message-promo-relay-3-cta = Obter máscaras
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } rastreador bloqueado esta semana. Veja o que o { -brand-short-name } está a manter fora do seu caminho
+       *[other] { $count } rastreadores bloqueados esta semana. Veja o que o { -brand-short-name } está a manter fora do seu caminho
+    }
+newtab-privacy-message-milestone-week-cta = Ver proteções
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } rastreador bloqueado este mês. Um pequeno passo para a privacidade. Um grande passo para a tranquilidade.
+       *[other] { $count } rastreadores bloqueados este mês. Um pequeno passo para a privacidade. Um grande passo para a tranquilidade.
+    }
+newtab-privacy-message-milestone-month-cta = Ver proteções
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } rastreador bloqueado este ano. Foi um ano poderoso a proteger a sua privacidade.
+       *[other] { $count } rastreadores bloqueados este ano. Foi um ano poderoso a proteger a sua privacidade.
+    }
+newtab-privacy-message-milestone-year-cta = Ver proteções
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } rastreador bloqueado. Isto é um grande progresso para a privacidade nos seus termos.
+       *[other] { $count } rastreadores bloqueados. Isto é um grande progresso para a privacidade nos seus termos.
+    }
+newtab-privacy-message-milestone-total-cta = Ver proteções
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (+ de 100 rastreadores bloqueados hoje.) Menos rastreadores significa mais privacidade.
+newtab-privacy-message-daily-cap-cta = Ver proteções
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Foi protegido { $count } dia seguido.
+       *[other] Foi protegido { $count } dias seguidos.
+    }
+newtab-privacy-message-streak-cta = Ver proteções
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -251,6 +351,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Editar
+newtab-menu-add-topsite = Adicionar Novo Atalho
 newtab-menu-open-new-window = Abrir numa nova janela
 newtab-menu-open-new-private-window = Abrir numa nova janela privada
 newtab-menu-dismiss = Dispensar
@@ -396,6 +497,27 @@ newtab-discovery-empty-section-topstories-loading = A carregar…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oops! Quase carregámos esta secção, por pouco.
 
+## Strings for the story cards carousel
+
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } de { $total }
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Anterior
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Seguinte
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Pausar reprodução automática
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Retomar reprodução automática
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -445,6 +567,9 @@ newtab-custom-shortcuts-toggle =
     .label = Atalhos
 newtab-custom-shortcuts-nova =
     .label = Atalhos
+newtab-custom-web-notifications-toggle =
+    .description = Mostrar notificações dos seus sites nos respetivos atalhos
+    .label = Notificações web
 newtab-custom-row-description =
     .description = Número de linhas
 # Variables
@@ -492,6 +617,16 @@ newtab-custom-widget-timer-toggle =
     .label = Temporizador
 newtab-custom-widget-clock-toggle =
     .label = Relógio
+newtab-custom-widget-sports-toggle2 =
+    .label = Desporto
+newtab-custom-widget-privacy-toggle =
+    .label = Privacidade
+newtab-custom-widget-stocks-toggle =
+    .label = Mercados
+newtab-custom-widget-picture-toggle =
+    .label = Imagem do dia
+newtab-custom-widget-recent-searches-toggle =
+    .label = Pesquisas recentes
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -504,6 +639,26 @@ newtab-custom-close-menu-button =
     .title = Fechar
 newtab-custom-close-button = Fechar
 newtab-custom-settings = Gerir mais definições
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Aspeto
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Ver mais temas
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Temas do { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Os seus temas
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Ativar
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Desativar
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Instalar tema
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Explorar mais temas
 
 ## New Tab Wallpapers
 
@@ -884,6 +1039,12 @@ newtab-widget-lists-input-menu-delete = Eliminar
 newtab-widget-lists-input-menu-edit = Editar
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Editar item
+newtab-widget-lists-edit-clear =
+    .aria-label = Cancelar
+    .title = Cancelar
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Opções das listas
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Criar uma nova lista
@@ -903,6 +1064,15 @@ newtab-widget-lists-name-placeholder-new2 =
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Ocultar widget
 newtab-widget-menu-change-size = Alterar tamanho
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Mover
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Esquerda
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Direita
 newtab-widget-size-small = Pequena
 newtab-widget-size-medium = Média
 newtab-widget-size-large = Grande
@@ -919,10 +1089,21 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-button =
     .aria-label = Abrir menu de widgets
     .title = Menu de widgets
+newtab-widget-add-widgets-button =
+    .aria-label = Adicionar widget
+    .title = Adicionar widget
 newtab-widget-section-menu-manage = Gerir widgets
 newtab-widget-section-menu-hide-all = Ocultar widgets
 newtab-widget-section-menu-learn-more = Saber mais
 newtab-widget-section-feedback = Dê-nos a sua opinião
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Mostrar mais widgets
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Mostrar menos widgets
 newtab-widget-lists-name-default = Lista de verificação
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -944,6 +1125,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Desativar as notificações
 newtab-widget-timer-menu-notifications-on = Ativar as notificações
 newtab-widget-timer-menu-learn-more = Saber mais
+newtab-widget-timer-menu-button =
+    .aria-label = Opções do temporizador
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Principais manchetes
 newtab-daily-briefing-card-menu-dismiss = Dispensar
@@ -953,6 +1136,9 @@ newtab-daily-briefing-card-timestamp = Atualizadas há { $minutes }m
 newtab-widget-message-title = Mantenha-se focado com as listas e um temporizador integrado
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Desde lembretes rápidos a tarefas diárias, sessões de concentração a pausas para descontrair — mantenha-se produtivo e pontual.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Um sítio para foco, previsões e mais
+newtab-widget-message-focus-forecasts-body = Mantenha o seu dia a fluir com os widgets do { -brand-product-name }. Consulte a previsão, concentre-se na tarefa, ou veja as horas em todo o mundo.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1008,6 +1194,7 @@ newtab-widget-timer-celebration-message-break = Pronto para se focar?
 ##
 
 newtab-sports-widget-menu-follow-teams = Seguir equipas
+newtab-sports-widget-menu-view-schedule = Ver agenda
 newtab-sports-widget-menu-view-upcoming = Ver próximos
 newtab-sports-widget-menu-view-results = Ver resultados
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
@@ -1018,6 +1205,8 @@ newtab-sports-widget-keep-tabs = Mantenha os separadores do Mundial de Futebol
 newtab-sports-widget-get-updates = Obtenha atualizações dos jogos em direto e muito mais.
 newtab-sports-widget-follow-teams =
     .label = Seguir equipas
+newtab-sports-widget-view-matches =
+    .label = Ver jogos
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
@@ -1032,8 +1221,44 @@ newtab-sports-widget-search-country =
     .aria-label = Pesquisar país
     .placeholder = Pesquisar país
 newtab-sports-widget-cancel = Cancelar
+newtab-sports-widget-back-button =
+    .aria-label = Voltar
 newtab-sports-widget-done-button =
     .label = Feito
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (eliminado)
+newtab-sports-widget-view-all =
+    .label = Ver tudo
+newtab-sports-widget-show-less =
+    .label = Mostrar menos
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Apenas equipas seguidas
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = A carregar mais jogos…
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Assistir
+    .title = Ver em direto
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Ver em direto
+    .title = Ver em direto
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Fechar
+    .title = Fechar
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Gratuito
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Teste gratuito
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Gratuito e pago
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Pago
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Selecionar apenas jogos
 newtab-sports-widget-group-stage = Fase de grupos
 newtab-sports-widget-round-16 = Oitavos de final
 newtab-sports-widget-quarter-finals = Quartos de final
