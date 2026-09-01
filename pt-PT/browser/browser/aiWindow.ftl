@@ -90,3 +90,161 @@ aiwindow-firstrun-memories-choose-label = Escolha o que o { -smart-window-brand-
 aiwindow-firstrun-memories-checkbox-chats = Conversas no { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = Navegação através de { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = Atualize nas definições a qualquer momento.
+aiwindow-firstrun-memories-no-create = Compreendi. O { -smart-window-brand-name } não irá criar memórias. Atualize nas definições a qualquer momento.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Torne o { -smart-window-brand-name } o seu destino
+aiwindow-firstrun-default-subtitle = Navegue, pesquise e pergunte num único sítio. Pode ainda abrir janelas Privadas e Clássicas quando quiser.
+aiwindow-firstrun-default-checkbox-label = Abrir sempre o { -brand-product-name } na { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Alterar nas definições a qualquer momento
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Perguntar
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Memórias ativadas
+    .tooltiptext = Usar memórias nas respostas quando for útil
+aiwindow-memories-off =
+    .aria-label = Memórias desativadas
+    .tooltiptext = Não usar memórias nas respostas
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Novo chat
+    .tooltiptext = Novo chat
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Fechar
+    .tooltiptext = Fechar
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Mais opções
+    .tooltiptext = Mais opções
+aiwindow-history-menu-chat-history = Histórico do chat
+aiwindow-history-menu-back =
+    .aria-label = Retroceder
+    .tooltiptext = Retroceder
+aiwindow-history-menu-view-all-chats = Ver todos os chats
+aiwindow-history-menu-settings = Definições do { -smart-window-brand-name }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Novo chat
+aiwindow-fullpage-chat-history =
+    .label = Histórico do chat
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Mais
+    .title = Mais
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Os dados sincronizados permanecerão na sua conta. Abrir a { -smart-window-brand-name(plural-form: "true") } irá mudar para Janelas Clássicas.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Mudar para { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .aria-label = Chats
+    .label = Chats
+    .tooltiptext = Chats
+smartwindow-footer-history =
+    .aria-label = Histórico
+    .label = Histórico
+    .tooltiptext = Histórico
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = A IA pode cometer erros.
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Chats
+    .title = Chats
+firefoxview-chats-header = Chats
+firefoxview-chat-context-delete = Apagar dos Chats
+    .accesskey = D
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Pesquisar chats
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Hoje - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Ontem - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Volte aos seus chats
+firefoxview-chats-empty-description = Enquanto usa o { -smart-window-brand-name }, as suas conversas serão guardadas aqui.
+
+## Count displayed in fxview chat search results
+
+firefoxview-search-chat-results-count =
+    { $count ->
+        [one] { $count } chat
+       *[other] { $count } chats
+    }
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Histórico de navegação, de transferências e de chat
+    .accesskey = B
+item-history-downloads-and-chat-description = Limpa o histórico de sites, transferências e de chat
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .aria-label = Selecionar tudo
+    .label = Selecionar tudo
+smart-window-confirm-deselect-all =
+    .aria-label = Desselecionar tudo
+    .label = Desselecionar tudo
+smart-window-close-confirm =
+    .aria-label = Cancelar pedido e fechar
+    .tooltiptext = Cancelar pedido e fechar
+smart-window-confirm-close-tab = Fechar
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs =
+    { $count ->
+        [one] Fechar { $count } separador
+       *[other] Fechar { $count } separadores
+    }
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Separador fechado
+smartwindow-close-tab-callout-subtitle = Reabrir separadores do Histórico a qualquer momento.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Tornar { -smart-window-brand-name } como predefinido?

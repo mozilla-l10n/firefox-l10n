@@ -15,6 +15,7 @@ appmenuitem-banner-update-unsupported =
     .label = Não foi possível atualizar — sistema incompatível
 appmenuitem-banner-update-restart =
     .label = Atualização disponível — reiniciar agora
+appmenu-nova-switch-device-link = Como migrar os seus dados
 appmenuitem-new-tab =
     .label = Novo separador
 appmenuitem-new-window =
@@ -43,8 +44,15 @@ appmenuitem-translate =
     .label = Traduzir página…
 appmenuitem-zoom =
     .value = Zoom
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Partilhar o { -brand-product-name }
 appmenuitem-more-tools =
     .label = Mais ferramentas
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Ajuda e Reporte
 appmenuitem-help =
     .label = Ajuda
 appmenuitem-exit2 =
@@ -103,6 +111,22 @@ appmenu-remote-tabs-unverified = A sua conta necessita de ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-sign-in = Iniciar sessão no { -brand-product-name }
 appmenuitem-fxa-manage-account = Gerir conta
+fxa-menu-sync-status-on = A Sincronização está Ativada
+fxa-menu-sync-status-off = A Sincronização está Desativada
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Sincronizar os Seus Dados
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Os seus dados não estão a ser sincronizados
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Ativar
+fxa-menu-sync-status-turn-on-button-aria-label = Ativar
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Iniciar sessão para sincronizar
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Conta
 # Variables
