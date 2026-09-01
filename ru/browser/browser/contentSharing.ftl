@@ -54,7 +54,7 @@ content-sharing-modal-too-many-pages =
             [few] Вы поделились { $count } страницами
            *[many] Вы поделились { $count } страницами
         }
-    .message = Попробуйте еще раз после того, как время действия одной из ваших страниц истечёт.
+    .message = Попробуйте ещё раз после того, как время действия одной из ваших страниц истечёт.
 content-sharing-modal-some-invalid-links = Некоторыми ссылками делиться нельзя.
 content-sharing-modal-generic-error-2 =
     .heading = Что-то пошло не так

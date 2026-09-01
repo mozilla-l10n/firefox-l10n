@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = от { $name }
 cfr-doorhanger-extension-notification = Рекомендация
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Рекомендация
-    .tooltiptext = Рекомендация расширения
     .a11y-announcement = Доступна рекомендация расширения
+    .tooltiptext = Рекомендация расширения
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Рекомендация
-    .tooltiptext = Рекомендация функции
     .a11y-announcement = Доступна рекомендация функции
+    .tooltiptext = Рекомендация функции
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -366,8 +366,8 @@ root-certificate-windows-background-notification-update-button = Обновит�
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Закрыть
     .aria-label = Закрыть
+    .title = Закрыть
 fxa-menu-message-sign-up-button = Зарегистрироваться
 fxa-menu-message-sign-in-button = Войти
 fxa-menu-message-sync-button = Начать синхронизацию
@@ -506,7 +506,7 @@ relay-50-masks-announcement-secondary-button = Убрать
 
 ## Nova Early Access Infobar
 
-nova-early-access-infobar-title = <strong>Обновлен внешний вид { -brand-product-name }.</strong> Вы пробуете раннюю, неотполированную версию перед запуском в конце этого года.
+nova-early-access-infobar-title = <strong>Обновлён внешний вид { -brand-product-name }.</strong> Вы пробуете раннюю, неотполированную версию перед запуском в конце этого года.
 nova-early-access-share-feedback-link = Поделиться отзывом
     .accesskey = Ы
 nova-early-access-infobar-primary-button = Понятно
