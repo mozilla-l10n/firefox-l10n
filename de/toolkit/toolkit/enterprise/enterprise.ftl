@@ -4,6 +4,11 @@
 
 # Access Connector is an Enterprise feature name and must not be translated.
 -enterprise-feature-access-connector = Access Connector
+# Shown in the about:support "Application Basics" table on enterprise builds.
+app-basics-device-id = Gerätekennung
+# Shown in the about:support "Security Software" section on enterprise builds.
+# Endpoint Detection and Response is an industry term and must remain in English.
+security-software-edr = Endpoint Detection and Response
 enterprise-toolbar-button =
     .label = { -brand-short-name }
     .tooltiptext = { -brand-short-name }
@@ -52,6 +57,17 @@ restart-forced-heading = Neustart, um { -brand-short-name } weiterhin zu verwend
 restart-forced-intro = Die Unternehmensrichtlinien erfordern einen Neustart von { -brand-short-name }.
 window-restoration-info = Ihre Fenster und Tabs werden schnell wiederhergestellt – mit Ausnahme privater Fenster und Tabs.
 restart-button-label = { -brand-short-name } neu starten
+# Variables:
+#   $datetime (number) - Timestamp of the time the browser will be restarted at.
+enterprise-relaunch-warning-message = <strong>Ihr Administrator verlangt, dass { -brand-short-name } neu gestartet wird.</strong> Der Neustart wird um { DATETIME($datetime, dateStyle: "short", timeStyle: "short") } durchgeführt. Die Tabs werden wieder geöffnet.
+# Variables:
+#   $minutes (number) - How many minutes are left before the browser restarts.
+enterprise-relaunch-imminent-message =
+    { $minutes ->
+        [one] <strong>{ -brand-short-name } wird in { $minutes } Minute neu gestartet.</strong> Speichern Sie Ihre Arbeit jetzt. Die Tabs werden anschließend wieder geöffnet.
+       *[other] <strong>{ -brand-short-name } wird in { $minutes } Minuten neu gestartet.</strong> Speichern Sie Ihre Arbeit jetzt. Die Tabs werden anschließend wieder geöffnet.
+    }
+enterprise-relaunch-restart-now = Jetzt neu starten
 extension-firefox-enterprise-light-name = Firefox Enterprise – Hell
 extension-firefox-enterprise-light-description = Ein sanftes Pastell-Theme mit einem Hauch von Morgensonne in der Ecke.
 extension-firefox-enterprise-dark-name = Firefox Enterprise – Dunkel

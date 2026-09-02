@@ -57,6 +57,17 @@ restart-forced-heading = Riavvia per continuare a utilizzare { -brand-short-name
 restart-forced-intro = I criteri aziendali richiedono il riavvio di { -brand-short-name }.
 window-restoration-info = Verranno ripristinate automaticamente le finestre e schede aperte, ma non quelle anonime.
 restart-button-label = Riavvia { -brand-short-name }
+# Variables:
+#   $datetime (number) - Timestamp of the time the browser will be restarted at.
+enterprise-relaunch-warning-message = <strong>L’amministratore richiede il riavvio di { -brand-short-name }.</strong> Il riavvio avverrà il { DATETIME($datetime, dateStyle: "short", timeStyle: "short") }. Le schede verranno riaperte.
+# Variables:
+#   $minutes (number) - How many minutes are left before the browser restarts.
+enterprise-relaunch-imminent-message =
+    { $minutes ->
+        [one] <strong>{ -brand-short-name } si riavvierà tra { $minutes } minuto.</strong> Salva subito il tuo lavoro. Le schede verranno riaperte.
+       *[other] <strong>{ -brand-short-name } si riavvierà tra { $minutes } minuti.</strong> Salva subito il tuo lavoro. Le schede verranno riaperte.
+    }
+enterprise-relaunch-restart-now = Riavvia adesso
 extension-firefox-enterprise-light-name = Firefox Enterprise chiaro
 extension-firefox-enterprise-light-description = Un delicato tema pastello con un accenno di luce mattutina nell’angolo
 extension-firefox-enterprise-dark-name = Firefox Enterprise scuro

@@ -8,6 +8,7 @@ policy-DataLossPrevention = Integrierte Engine zur Verhinderung von Datenverlust
 policy-DisableLocalPolicies = Alle lokalen Richtlinienquellen deaktivieren (policies.json, Windows-GPO und macOS-plist).
 policy-DownloadTelemetry = Sicherheitsprotokollierung und Telemetrie beim Start eines Downloads aktivieren und konfigurieren.
 policy-EnterpriseStorageEncryption = Vom Unternehmen verwaltetes Hauptpasswort für verschlüsselten Speicher aktivieren
+policy-SecurityLogging = Sicherheitsprotokollierung und Telemetrie für sicherheitsrelevante Ereignisse aktivieren und konfigurieren.
 policy-PrintPageTelemetry = Sicherheitsprotokollierung und Telemetrie beim Drucken einer Seite aktivieren und konfigurieren.
 policy-Sync = Aktivieren oder deaktivieren Sie die Synchronisierung und legen Sie fest, welche Daten einbezogen werden sollen.
 policy-CrashReportsSubmit = Einstellungen für die Übermittlung von Absturzberichten konfigurieren.
