@@ -904,6 +904,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saper plus
 browsing-group =
     .label = Navigation
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Accessibilitate
 preferences-default-zoom-select =
@@ -1022,6 +1025,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Extension ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Pagina initial personalisate
 home-custom-homepage-subpage =
     .heading = Pagina initial personalisate
@@ -1037,6 +1043,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitos que tu salva o visita
 home-prefs-shortcuts-by-option-sponsored =
     .label = Accessos directe sponsorisate
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Recommendate per { $provider }
 home-prefs-recommended-by-description-new = Contento exceptional a cura de { $provider }, parte del familia { -brand-product-name }
@@ -1350,6 +1359,11 @@ sync-signedin-login-failure = Per favor aperi session pro reconnecter { $email }
 sync-signedin-login-failure2 =
     .description = Re-accede pro reconnecter te e initia synchronisar tu datos.
     .label = Tu es disconnectite de { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1640,6 +1654,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saper plus
 forms-windows-sso-desc = Gerer contos in le parametros de tu apparato
 windows-passkey-settings-label = Gerer claves-contrasigno in le parametros de systema
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Obtene auxilio protegente tu informationes online in { -brand-short-name }.
     .label = Configurationes del pannello del confidentialitate
@@ -1838,6 +1855,8 @@ history-custom-button =
     .label = Elige lo que tu vole que { -brand-short-name } rememora
 history-group =
     .label = Chronologia
+history-mode-radio-group =
+    .aria-label = Chronologia
 history-remember-option-all2 =
     .label = Salvar chronologia
 
@@ -2071,6 +2090,9 @@ content-blocking-fingerprinters = Dactylogrammatores
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Dactylogrammatores note e suspecte
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Le protection total contra le cookies contine le cookies del sito ubi tu es, assi le traciatores non pote sequer te inter le sitos.
 content-blocking-etp-standard-tcp-rollout-learn-more = Pro saper plus
