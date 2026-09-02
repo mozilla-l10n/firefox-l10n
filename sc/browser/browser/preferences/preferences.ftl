@@ -1724,6 +1724,8 @@ history-custom-button =
     .label = Personaliza su chi boles chi { -brand-short-name } regordet
 history-group =
     .label = Cronologia
+history-mode-radio-group =
+    .aria-label = Cronologia
 history-remember-option-all2 =
     .label = Regorda sa cronologia
 
@@ -2362,6 +2364,8 @@ issue-card-reset-button =
 preferences-etp-status-header =
     .description = Is sitos impreant sighidores pro ti sighire in lìnia e t’ammustrare publitzidade non disigiada. { -brand-short-name } t’amparat durante sa navigatzione e blocat is sighidores in automàticu pro chi tèngias su controllu de su rastu digitale tuo.
     .label = Amparu megioradu contra sa sighidura
+preferences-etp-level-radio-group =
+    .aria-label = Amparu megioradu contra sa sighidura
 preferences-etp-level-standard =
     .description = Amparu forte e fidadu chi funtzionant bene pro sa majoria de sitos.
     .label = Istàndard (predefinidu)
