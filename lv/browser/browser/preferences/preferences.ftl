@@ -424,6 +424,8 @@ translate-attribution = Tulkojumi no <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Izņēmumi…
     .accesskey = z
+settings-translations-subpage-always-translate-header =
+    .label = Vienmēr tulkot šīs valodas
 settings-translations-subpage-language-select-option =
     .label = Pievienot valodu
 settings-translations-subpage-language-add-button =
@@ -504,7 +506,7 @@ applications-select-helper = Izvēlieties palīdzības programmu
 applications-manage-app =
     .label = Programmas iestatījumi...
 applications-always-ask =
-    .label = Vienmēr jautāt
+    .label = Vienmēr vaicāt
 # Variables:
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
@@ -1365,6 +1367,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Pārvaldīt izņēmumus…
     .accesskey = z
+sitedata-cookies-exceptions2 =
+    .description = Vari norādīt, kurām tīmekļvietnēm vienmēr ir vai nekad nav atļauts izmantot sīkdatnes un vietnes datus.
+    .label = Pārvaldīt izņēmumus
+    .accesskey = i
 cookies-site-data-group =
     .label = Sīkdatnes un vietnes dati
 
@@ -1611,7 +1617,7 @@ permissions-notification2 =
 collection-header = { -brand-short-name } datu vākšana un izmantošana
 collection-header2 = { -brand-short-name } datu vākšana un izmantošana
     .searchkeywords = telemetrija
-collection-description = Mēs cenšamies piedāvāt jums izvēles iespēju un vācam tikai tos datus, kas ir nepieciešami, lai uzlabotu { -brand-short-name }. Mēs vienmēr jautāsim atļauju pirms privātu datu ievākšanas.
+collection-description = Mēs cenšamies piedāvāt izvēles iespēju un vācam tikai tos datus, kas ir nepieciešami, lai uzlabotu { -brand-short-name }. Mēs vienmēr lūdzam atļauju pirms privātu datu ievākšanas.
 collection-privacy-notice = Privātuma piezīme
 collection-health-report-telemetry-disabled = Jūs vairs neļaujat { -vendor-short-name } uzņemt tehniskos un mijiedarbības datus. Visi iepriekšējie dati tiks dzēsti 30 dienu laikā.
 collection-health-report-telemetry-disabled-link = Uzzināt vairāk
@@ -1746,7 +1752,7 @@ preferences-doh-enabled-detailed-desc-2 = Izmantot savu noklusējuma DNS atrisin
 preferences-doh-setting-strict =
     .label = Maksimālā aizsardzība
     .accesskey = M
-preferences-doh-strict-desc = { -brand-short-name } vienmēr izmantos drošo DNS. Pirms jūsu sistēmas DNS izmantošanas tiks parādīts brīdinājums par drošības risku.
+preferences-doh-strict-desc = { -brand-short-name } vienmēr izmantos drošo DNS. Pirms sistēmas DNS izmantošanas tiks parādīts brīdinājums par drošības apdraudējumu.
 preferences-doh-strict-detailed-desc-1 = Izmantot tikai atlasīto pakalpojumu sniedzēju
 preferences-doh-strict-detailed-desc-2 = Vienmēr brīdināt, ja nav pieejams drošais DNS
 preferences-doh-strict-detailed-desc-3 = Ja drošais DNS nav pieejams, vietnes neielādēsies un nedarbosies pareizi
