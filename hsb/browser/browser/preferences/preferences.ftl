@@ -744,6 +744,8 @@ update-history-2 =
     .accesskey = h
 update-application-installation =
     .label = Instalacija
+update-application-radio-group =
+    .aria-label = Instalacija
 update-application-auto-2 =
     .label = Aktualizacije awtomatisce instalować (doporučene)
     .accesskey = A
@@ -910,6 +912,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Dalše informacije
 browsing-group =
     .label = Přehladowanje
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Bjezbarjernosć
 preferences-default-zoom-select =
@@ -1028,6 +1033,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Rozšěrjenje ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Swójska startowa strona
 home-custom-homepage-subpage =
     .heading = Swójska startowa strona
@@ -1043,6 +1051,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sydła, kotrež składujeće abo wopytujeće
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponserowane zwjazanja
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Wot { $provider } doporučeny
 home-prefs-recommended-by-description-new = Wosebite wobsah, wubrany přez { $provider }, dźěla swójby { -brand-product-name }
@@ -1358,6 +1369,11 @@ sync-signedin-login-failure = Prošu zregistrujće so, zo byšće znowa zwjazał
 sync-signedin-login-failure2 =
     .description = Přizjewće so zaso, zo byšće so znowa zwjazał a započńće swoje daty synchronizować.
     .label = Sće wot { $email } wotzjewjeny
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1648,6 +1664,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Dalše informacije
 forms-windows-sso-desc = Konta we wašich gratowych nastajenjach rjadować
 windows-passkey-settings-label = Hesłowe kluče w systemowych nastajenjach rjadować
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Wobstarajće sej pomoc, zo byšće swoje informacije online w { -brand-short-name } škitał.
     .label = Nastajenja wokna priwatnosće
@@ -1846,6 +1865,8 @@ history-custom-button =
     .label = Wubjerće, štož { -brand-short-name } ma sej spomjatkować
 history-group =
     .label = Historija
+history-mode-radio-group =
+    .aria-label = Historija
 history-remember-option-all2 =
     .label = Sej historiju spomjatkować
 
@@ -2079,6 +2100,9 @@ content-blocking-fingerprinters = Hromadźaki porstowych wotćišćow
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Znate a podhladne hromadźaki porstowych wotćišćow
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Dospołny plackowy škit placki k sydłu, na kotrymž sće, zo njebychu přesćěhowaki móhli je wužiwać, zo bychu was na rozdźělnych sydłach slědowali.
 content-blocking-etp-standard-tcp-rollout-learn-more = Dalše informacije
@@ -2453,6 +2477,8 @@ preferences-doh-status-disabled = Wupinjeny
 preferences-doh-status-not-active = Njeaktiwny ({ $reason })
 preferences-doh-group-message = Wěsty DNS zmóžnić z pomocu:
 preferences-doh-group-message2 = DNS přez HTTPS zmóžnić z pomocu:
+preferences-doh-radio-group =
+    .aria-label = DNS přez HTTPS zmóžnić z pomocu:
 preferences-doh-expand-section =
     .tooltiptext = Dalše informacije
 preferences-doh-setting-default =
