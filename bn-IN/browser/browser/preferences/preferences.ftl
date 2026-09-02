@@ -702,6 +702,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = পূর্ববর্তী তথ্য
+history-mode-radio-group =
+    .aria-label = পূর্ববর্তী তথ্য
 
 ## Privacy Section - Site Data
 
