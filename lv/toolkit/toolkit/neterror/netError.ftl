@@ -27,7 +27,7 @@ neterror-return-to-previous-page-recommended-button = Doties atpakaļ (ieteicams
 neterror-try-again-button-2 = Mēģināt vēlreiz
     .accesskey = M
 neterror-try-again-button = Mēģināt vēlreiz
-neterror-view-certificate-link = Aplūkot sertifikātu
+neterror-view-certificate-link = Apskatīt sertifikātu
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -145,6 +145,7 @@ certerror-bad-cert-domain-what-can-you-do-about-it = Visdrīzāk iemesls ir tīm
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> izmanto drošības politiku, ko sauc HTTP Strict Transport Security (HSTS), kas nozīmē, ka { -brand-short-name } var lapai pieslēgties lapai tikai drošajā režīmā. Jūs nevarat pievienot izņēmumu, lai apmeklētu šo lapu.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni.
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

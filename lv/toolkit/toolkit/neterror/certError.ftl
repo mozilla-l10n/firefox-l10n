@@ -67,6 +67,7 @@ open-in-new-window-for-csp-or-xfo-error = Atvērt vietni jaunā logā
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Lai aizsargātu jūsu drošību, { $hostname } neļaus { -brand-short-name } rādīt lapu, ja to ir iegūlusi cita vietne. Lai redzētu šo lapu, tā ir jāatver jaunā logā.
+fp-certerror-view-certificate-link = Apskatīt vietnes sertifikātu
 fp-certerror-return-to-previous-page-recommended-button-2 = Doties atpakaļ (ieteicams)
     .accesskey = D
 fp-certerror-return-to-previous-page-recommended-button = Doties atpakaļ (ieteicams)
@@ -74,13 +75,24 @@ fp-certerror-return-to-previous-page-recommended-button = Doties atpakaļ (ietei
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name } brīdina par šo vietni, jo { $hostname } sertifikāts ir atsaukts un vairs nav uzticams.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni. Tu vari sazināties ar tīmekļvietnes turētāju, lai noskaidrotu, vai tiek strādāts pie risinājuma.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni. Vietnes izmanto sertifikātus, kurus izdod sertifikātu autoritātes, lai pierādītu, ka vietnes tiešām ir tās, par ko uzdodas. Ja atrodies uzņēmuma tīklā, atbalsta komandai var būt vairāk informācijas. Ja izmanto pretvīrusu programmatūru, vari meklēt iespējamas nesaderības vai zināmas nepilnības.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } brīdina par šo vietni, jo { $hostname } sertifikātu izdeva autoritāte, kas vairs nav uzticama.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni. Tu vari sazināties ar tīmekļvietnes turētāju, lai noskaidrotu, vai tiek strādāts pie risinājuma.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni. Ja atrodies uzņēmuma tīklā, atbalsta komandai var būt vairāk informācijas. Ja izmanto pretvīrusu programmatūru, to var būt nepieciešams konfigurēt, lai darbotos kopā ar { -brand-short-name }.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kļūdas kods: { $error }
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Visdrīzāk, ka neko, tā kā ir ļoti iespējams, ka nebūšanas ir ar pašu vietni.
+fp-learn-more-about-cert-issues = Uzzināt vairāk par šāda veida sarežģījumiem ar sertifikātiem
 
 ## Messages used for certificate error titles
 
