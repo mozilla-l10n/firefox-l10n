@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot ΤΝ
 menu-view-contextual-password-manager =
     .label = Κωδικοί πρόσβασης
+menu-view-resource-monitor =
+    .label = Εποπτεία πόρων
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Προσαρμογή πλαϊνής γραμμής
 sidebar-menu-contextual-password-manager-label =
     .label = Κωδικοί πρόσβασης
+sidebar-menu-resource-monitor-label =
+    .label = Εποπτεία πόρων
 sidebar-menu-more-tools-label =
     .label = Περισσότερα εργαλεία
 

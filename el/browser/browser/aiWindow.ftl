@@ -364,3 +364,13 @@ aiwindow-starter-planning-plan = Οργάνωση πλάνου
 aiwindow-starter-browsing-history = Εύρεση καρτελών στο ιστορικό
 aiwindow-starter-browsing-summarize = Σύνοψη καρτελών
 aiwindow-starter-browsing-compare = Σύγκριση καρτελών
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Κύλιση προς τα πίσω
+    .tooltiptext = Κύλιση προς τα πίσω
+aiwindow-starter-scroll-end =
+    .aria-label = Κύλιση προς τα εμπρός
+    .tooltiptext = Κύλιση προς τα εμπρός

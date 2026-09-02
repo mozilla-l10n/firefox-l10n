@@ -22,3 +22,17 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Μάθετε περισσότερα
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = Περισσότερες ενέργειες
+autocomplete-edit-password = Επεξεργασία κωδικού πρόσβασης
+autocomplete-delete-password = Διαγραφή κωδικού πρόσβασης
+autocomplete-edit-address = Επεξεργασία διεύθυνσης
+autocomplete-delete-address = Διαγραφή διεύθυνσης
+autocomplete-edit-payment-method = Επεξεργασία μεθόδου πληρωμής
+autocomplete-delete-payment-method = Διαγραφή μεθόδου πληρωμής
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Διαγραφή καταχώρισης ιστορικού φορμών
