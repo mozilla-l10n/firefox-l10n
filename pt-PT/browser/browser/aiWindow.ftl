@@ -328,6 +328,42 @@ aiwindow-feedback-add-details = Adicione detalhes se quiser. Nenhuma informaçã
 aiwindow-feedback-disclaimer = Ao submeter partilha o seu feedback e este chat para ajudar o { -brand-shorter-name } a melhorar o { -smart-window-brand-name }. As suas outras conversas permanecem privadas. <a data-l10n-name="learn-more">Saber mais</a>
 aiwindow-feedback-submit = Submeter
 aiwindow-feedback-cancel = Cancelar
+aiwindow-feedback-reason-incorrect-or-misleading = Incorreto ou enganador
+aiwindow-feedback-reason-doesnt-address-my-request = Não responde ao meu pedido
+aiwindow-feedback-reason-lacks-personalization = Falta personalização ou contexto
+aiwindow-feedback-reason-performance-or-usability = Problema de desempenho ou usabilidade
+aiwindow-feedback-reason-harmful-or-offensive = Nocivo ou ofensivo
+aiwindow-feedback-reason-other = Outro
+aiwindow-feedback-preview-report = Ver detalhes do chat
+aiwindow-feedback-preview-report-with-page = Ver detalhes do chat e da página
+aiwindow-feedback-include-page-content = Partilhar as páginas referenciadas neste chat
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Mudar esquema de vista
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Mudar modo: Vista em Lista
+    .tooltiptext = Vista em Lista
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Mudar modo: Vista em Grelha
+    .tooltiptext = Vista em Grelha
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Escrever um primeiro rascunho
+aiwindow-starter-writing-improve = Melhorar a escrita
+aiwindow-starter-writing-proofread = Revisar uma mensagem
+aiwindow-starter-planning-simplify = Simplificar um tópico
+aiwindow-starter-planning-brainstorm = Debater ideias
+aiwindow-starter-planning-plan = Ajudar a criar um plano
+aiwindow-starter-browsing-history = Localizar separadores no histórico
+aiwindow-starter-browsing-summarize = Resumir separadores
+aiwindow-starter-browsing-compare = Comparar separadores
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.

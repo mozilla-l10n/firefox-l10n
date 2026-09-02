@@ -320,6 +320,9 @@ newtab-privacy-message-streak =
        *[other] Foi protegido { $count } dias seguidos.
     }
 newtab-privacy-message-streak-cta = Ver proteções
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Continue a navegar, o { -brand-short-name } irá continuar a bloquear.
+newtab-privacy-message-first-protection-cta = Ver proteções
 
 ## Search box component.
 

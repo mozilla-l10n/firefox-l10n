@@ -67,11 +67,28 @@ customkeys-shortcut-unassigned =
 # Variables:
 # $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
 customkeys-shortcut-input = Atalho para: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Editar
+    .tooltiptext = Editar
 customkeys-key-clear =
     .aria-label = Limpar
     .tooltiptext = Limpar
+customkeys-key-reset =
+    .aria-label = Restaurar
+    .tooltiptext = Restaurar
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Pressionar nova tecla:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (não pode ser alterado)
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-title = Remover outro atalho?
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = Esta tecla já está a ser usada por “{ $conflict }”.
+customkeys-conflict-confirm-button-confirm = Usar na mesma
+customkeys-conflict-confirm-button-cancel = Cancelar
