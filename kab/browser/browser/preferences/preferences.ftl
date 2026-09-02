@@ -551,6 +551,15 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -620,6 +629,9 @@ browsing-cfr-recommendations-learn-more = Issin ugar
 browsing-group =
     .label = Tunigin
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Iɣewwaṛen n uẓeṭṭa
@@ -677,6 +689,9 @@ home-homepage-new-tabs =
 home-prefs-homepage-extension-option =
     .label = Asiɣzef ({ $extension })
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }
@@ -688,6 +703,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Ismal i teskelseḍ neɣ wuɣur terziḍ
 home-prefs-shortcuts-by-option-sponsored =
     .label = Inegzumen yettwarefden
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Iwelleh-it-id { $provider }
 home-prefs-recommended-by-description-new = Agbur ufrin i s-yettusuddsen sɣur { $provider }, d aḥric seg twacult { -brand-product-name }
@@ -877,6 +895,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1110,6 +1133,9 @@ forms-windows-sso-learn-more-link = Issin ugar
 forms-windows-sso-desc = Sefrek imiḍanen deg yiɣewwaren n yibenk-ik·im
 windows-passkey-settings-label = Sefrek tisura n unekcum deg yiɣewwaren n unagraw
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -1196,6 +1222,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = Azray
+history-mode-radio-group =
+    .aria-label = Azray
 
 ## Privacy Section - Site Data
 
@@ -1365,6 +1393,9 @@ content-blocking-all-windows-tracking-content = Agbur yettwaseqdec i uḍfaṛ d
 content-blocking-all-cross-site-cookies = Meṛṛa inagan n tuqqna gar yismal
 content-blocking-cryptominers = Ikripṭuminaren
 content-blocking-fingerprinters = Idsilen umḍinen
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Ammesten asemday mgal inagan n tuqqna itegg talast i yinagan n tuqqna ɣef usmel ideg telliḍ, ineḍfaren ur ssawaḍen ara ad ak·akem-ḍefren seg usmel ɣer wayeḍ.
 content-blocking-etp-standard-tcp-rollout-learn-more = Issin ugar
@@ -1643,13 +1674,31 @@ preferences-doh-manage-exceptions =
     .label = Sefrek tisuraf
     .accesskey = f
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tanarit
 downloads-folder-name = Isadaren
 choose-download-folder-title = Fren akaram i usnifel:
 
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Ɛzel inagan n tuqqna gar yismal
+
+## Warnings section
+
+
+## Referrals Section
+
