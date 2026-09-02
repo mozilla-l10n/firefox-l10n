@@ -38,6 +38,10 @@ options-show-user-agent-shadow-dom-tooltip =
 options-collapse-attrs-label = Truncar atributos DOM
 options-collapse-attrs-tooltip =
     .title = Truncar atributos longos no inspetor
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = Mostrar comentários
+options-show-comments-tooltip =
+    .title = Mostrar nós de comentário no inspetor
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Clique e arraste para editar os valores de tamanho
 options-inspector-draggable-properties-tooltip =
@@ -71,6 +75,35 @@ options-webconsole-label = Consola web
 options-webconsole-split-console-label = Ativar consola dividida
 options-webconsole-split-console-tooltip =
     .title = Abra a Consola Dividida com a tecla Escape
+
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = Monitor de Rede
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = Tamanho máximo do corpo da solicitação e da resposta (defina como 0 para ilimitado):
+options-netmonitor-body-limit-tooltip =
+    .title = Os corpos das solicitações ou respostas que excedam o tamanho especificado serão truncados quando apresentados ou descarregados no Monitor de Rede. Defina como 0 para não haver qualquer limitação.
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = Ilimitado
+options-netmonitor-body-limit-button =
+    .title = Editar o tamanho máximo do corpo do pedido/resposta.
+options-netmonitor-body-limit-restore-default =
+    .title = Restaurar o valor predefinido para o tamanho máximo do corpo do pedido/resposta.
+options-netmonitor-body-limit-set =
+    .title = Definir o valor de entrada atual como o tamanho máximo do corpo do pedido/resposta.
+
+## Experimental section
+
+# The heading
+options-experimental-label = Funcionalidades Experimentais
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = Mostrar folhas de estilo no depurador
+options-stylesheets-in-the-debugger-tooltip =
+    .title = Listar e ver folhas de estilo no depurador
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (requer reabrir a caixa de ferramentas)
 
 ## Style Editor section
 
@@ -110,6 +143,40 @@ options-sourceeditor-expandtab-label = Indentar usando espaços
 options-sourceeditor-tabsize-label = Tamanho da tabulação
 options-sourceeditor-keybinding-label = Combinações de teclas
 options-sourceeditor-keybinding-default-label = Predefinição
+
+## Local Mode section
+
+# The heading
+options-local-mode-label = Modo Local
+options-local-mode-only-work-locally = O Modo Local apenas funciona localmente e está desativado ao depurar contextos remotos
+options-local-mode-behavior = O Modo Local permite-lhe carregar ficheiros locais através de URLs https sem qualquer dependência externa. Os URLs só podem ser carregadas a partir de separadores com o DevTools aberto.
+options-local-mode-domain-label = Domínio personalizado:
+options-local-mode-origin-input =
+    .placeholder = Origem para o mapeamento local
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = Esta origem está em conflito com outro mapeamento existente
+options-local-mode-origin-invalid = Esta origem é inválida
+options-local-mode-folder-label = Pasta local:
+options-local-mode-choose-folder = Explorar…
+    .title = Escolha uma pasta local para servir este mapeamento
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = Escolha a pasta de modo local para: { $url }
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = Esta pasta não existe, ou é inválida.
+options-local-mode-toggle =
+    .title = Alternar este mapeamento local
+options-local-mode-toggle-enable = Ativar
+options-local-mode-toggle-disable = Desativar
+options-local-mode-navigate-to =
+    .title = Navegar para este URL de mapeamento
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = Pretende remover o mapeamento “{ $mappingOrigin }”?
+options-local-mode-new-mapping = Adicionar um novo mapeamento local
 
 ## Advanced section
 

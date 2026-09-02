@@ -79,6 +79,18 @@ report-broken-site-panel-report-sent-header =
     .title = O seu relatório foi enviado
 report-broken-site-panel-report-sent-text = Obrigado por ajudar o { -brand-product-name } a tornar a Web mais aberta, acessível e melhor para todos.
 report-broken-site-panel-invalid-url-label = Insira um URL válido
+# $minLength (number) - The minimum number of characters required in the description textarea.
+report-broken-site-panel-invalid-description-label =
+    { $minLength ->
+        [one] Por favor introduza pelo menos { $minLength } caratere
+       *[other] Por favor introduza pelo menos { $minLength } carateres
+    }
+report-broken-site-panel-screenshot-label =
+    .label = Enviar uma captura de ecrã
+report-broken-site-panel-blocked-trackers-label2 =
+    .label = Enviar lista dos itens bloqueados pela proteção contra rastreio
+report-broken-site-panel-url-input-label =
+    .aria-label = URL da página a ser reportada
 report-broken-site-panel-missing-reason-label = Escolha um motivo
 report-broken-site-panel-preview-button =
     .label = Pré-visualizar relatório

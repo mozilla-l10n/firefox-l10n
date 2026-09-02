@@ -12,6 +12,9 @@ tab-context-new-tab =
 reload-tab =
     .label = Recarregar separador
     .accesskey = R
+reload-tab2 =
+    .label = Recarregar
+    .accesskey = R
 select-all-tabs =
     .label = Selecionar todos os separadores
     .accesskey = S
@@ -24,8 +27,14 @@ tab-context-play-tabs =
 duplicate-tab =
     .label = Duplicar separador
     .accesskey = D
+duplicate-tab2 =
+    .label = Duplicar
+    .accesskey = D
 duplicate-tabs =
     .label = Duplicar separadores
+    .accesskey = D
+duplicate-tabs2 =
+    .label = Duplicar
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
@@ -52,9 +61,15 @@ reload-tabs =
 pin-tab =
     .label = Fixar separador
     .accesskey = p
+tab-context-pin-tab2 =
+    .label = Afixar
+    .accesskey = P
 unpin-tab =
     .label = Desafixar separador
     .accesskey = p
+tab-context-unpin-tab2 =
+    .label = Desafixar
+    .accesskey = P
 pin-selected-tabs =
     .label = Fixar separadores
     .accesskey = p
@@ -67,8 +82,15 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = Adicionar separador aos marcadores…
     .accesskey = B
+# Context menu item used to bookmark 1 or more selected tabs
+tab-context-bookmark-tab2 =
+    .label = Marcar
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Abrir num novo separador contentor
+    .accesskey = e
+tab-context-open-in-new-container-tab2 =
+    .label = Abrir num Novo Separador Contentor
     .accesskey = e
 move-to-start =
     .label = Mover para o início
@@ -86,9 +108,16 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = Fechar múltiplos separadores
     .accesskey = m
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = Fechar Múltiplos
+    .accesskey = M
 tab-context-close-duplicate-tabs =
     .label = Fechar separadores duplicados
     .accesskey = u
+tab-context-close-duplicate-tabs2 =
+    .label = Fechar Duplicados Deste Separador
+    .accesskey = x
 tab-context-share-url =
     .label = Partilhar
     .accesskey = h
@@ -102,10 +131,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Novo grupo
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -122,6 +147,14 @@ tab-context-close-n-tabs =
            *[other] Fechar { $tabCount } separadores
         }
     .accesskey = c
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Fechar
+            [one] Fechar { $tabCount } Separador
+           *[other] Fechar { $tabCount } Separadores
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
