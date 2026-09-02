@@ -66,7 +66,7 @@ fxa-menu-manage-account-subtitle = Zarządzaj kontem
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Zaloguj się do synchronizacji
-fxa-menu-sign-in-promo-message = Wszędzie korzystaj ze swoich danych
+fxa-menu-sign-in-promo-message = Korzystaj ze swoich danych na każdym urządzeniu
 fxa-menu-sign-in-promo-button =
     .label = Zaloguj się
 # Card shown in the account menu when a previously signed-in account is

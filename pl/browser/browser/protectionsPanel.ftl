@@ -35,13 +35,13 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Wzmocniona ochrona przed śledzeniem
-    .description = Włączona na tej witrynie
     .aria-label = Wzmocniona ochrona przed śledzeniem: włączona na witrynie { $host }
-protections-panel-etp-toggle-off =
+    .description = Włączona na tej witrynie
     .label = Wzmocniona ochrona przed śledzeniem
-    .description = Wyłączona na tej witrynie
+protections-panel-etp-toggle-off =
     .aria-label = Wzmocniona ochrona przed śledzeniem: wyłączona na witrynie { $host }
+    .description = Wyłączona na tej witrynie
+    .label = Wzmocniona ochrona przed śledzeniem
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -136,9 +136,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Anuluj
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Wyślij zgłoszenie
-
-# Cookie Banner Handling
-
 protections-panel-cookie-banner-handling-header = Ograniczanie informacji o ciasteczkach
 protections-panel-cookie-banner-blocker-header = Blokowanie informacji o ciasteczkach
 protections-panel-cookie-banner-handling-enabled = Włączone na tej witrynie
@@ -155,7 +152,7 @@ protections-panel-cookie-banner-blocker-view-title =
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Wyłączyć blokowanie informacji o ciasteczkach na witrynie { $host }?
-protections-panel-cookie-banner-blocker-view-turn-on-for-site = Włączyć blokowanie informacji o ciasteczkach na witrynie { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Włączyć blokowanie informacji o ciasteczkach na tej witrynie?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } usunie ciasteczka tej witryny i odświeży stronę. Usunięcie wszystkich ciasteczek może spowodować wylogowanie ze strony lub opróżnienie koszyka w sklepie.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } próbuje automatycznie odrzucać wszystkie prośby o akceptację ciasteczek na obsługiwanych witrynach.
 protections-panel-cookie-banner-view-cancel = Anuluj
