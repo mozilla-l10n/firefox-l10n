@@ -2236,8 +2236,8 @@ pane-permissions-data-title2 = Δικαιώματα και δεδομένα
 
 ## Privacy Section - Data Collection
 
-collection-header = Συλλογή και χρήση δεδομένων { -brand-short-name }
-collection-header2 = Συλλογή και χρήση δεδομένων { -brand-short-name }
+collection-header = Συλλογή και χρήση δεδομένων του { -brand-short-name }
+collection-header2 = Συλλογή και χρήση δεδομένων του { -brand-short-name }
     .searchkeywords = τηλεμετρία
 preferences-collection-description = Προσπαθούμε να σας παρέχουμε επιλογές και να συλλέγουμε μόνο τα ελάχιστα δεδομένα που απαιτούνται για τη βελτίωση του { -brand-product-name } για όλους.
 preferences-collection-privacy-notice = Προβολή δήλωσης απορρήτου
@@ -2306,7 +2306,7 @@ privacy-segmentation-radio-on =
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 data-collection =
     .description = Προσπαθούμε να σας παρέχουμε επιλογές και να συλλέγουμε μόνο τα ελάχιστα δεδομένα που απαιτούνται για τη βελτίωση του { -brand-product-name } για όλους.
-    .label = Συλλογή και χρήση δεδομένων { -brand-short-name }
+    .label = Συλλογή και χρήση δεδομένων του { -brand-short-name }
     .searchkeywords = τηλεμετρία
 data-collection-link = Προβολή δήλωσης απορρήτου
 data-collection-preferences-across-profiles =
