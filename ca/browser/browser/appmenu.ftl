@@ -128,6 +128,7 @@ fxa-menu-sync-off-data-description = Les vostres dades no s'estan sincronitzant
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Activa
+fxa-menu-sync-status-turn-on-button-aria-label = Activa
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Inicia la sessió per sincronitzar
@@ -388,7 +389,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Protegiu la privadesa del correu electrònic
 appmenuitem-relay-description2 = Ajuda a evitar el correu brossa a la safata d'entrada
 # Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
-appmenuitem-relay-title-signed-in = Visualitza les màscares de correu
+appmenuitem-relay-title-signed-in = Visualitza les màscares d'adreça electrònica
 appmenuitem-relay-description = Emmascareu el vostre correu electrònic i telèfon reals
 appmenuitem-services-relay-description = Obre el tauler de màscares d’adreça electrònica
 appmenuitem-vpn-title2 = Amagueu la vostra ubicació amb { -mozilla-vpn-brand-name }
