@@ -1838,6 +1838,8 @@ history-custom-button =
     .label = اختر ما تريد أن يتذكره { -brand-short-name }
 history-group =
     .label = التأريخ
+history-mode-radio-group =
+    .aria-label = التأريخ
 history-remember-option-all2 =
     .label = تذكر التأريخ
 
