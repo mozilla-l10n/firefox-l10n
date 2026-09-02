@@ -1849,6 +1849,8 @@ history-custom-button =
     .label = Seleccionar que tiene que recordar { -brand-short-name }
 history-group =
     .label = Historial
+history-mode-radio-group =
+    .aria-label = Historial
 history-remember-option-all2 =
     .label = Recordar el historial
 
@@ -2720,6 +2722,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Los sitios usan rastreadores para seguirlo en línea y mostrar publicidades horribles. { -brand-short-name } protege al navegar, bloqueando los rastreadores automáticamente para que usted tenga el control del rastro digital.
     .label = Protección de rastreo aumentada
+preferences-etp-level-radio-group =
+    .aria-label = Protección de rastreo aumentada
 preferences-etp-level-standard =
     .description = Protecciones seguras y confiables que funcionan de forma fluida con la mayoría de los sitios web.
     .label = Estándar (predeterminada)
