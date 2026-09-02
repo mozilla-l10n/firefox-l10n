@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Afegeix un contenidor nou
     .style = min-width: 45em
+    .title = Afegeix un contenidor nou
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Paràmetres del contenidor { $name }
     .style = min-width: 45em
+    .title = Paràmetres del contenidor { $name }
 containers-window-close =
     .key = w
 containers-name-label2 =
@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Icona
 containers-color-label2 =
     .label = Color
+containers-dialog2 =
+    .buttonlabelaccept = Desa
+    .buttonaccesskeyaccept = D
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,16 +33,16 @@ containers-color-label2 =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Nom
-    .accesskey = N
     .style = { -containers-labels-style }
+    .accesskey = N
 containers-name-text =
     .placeholder = Escriviu un nom de contenidor
 containers-icon-label = Icona
+    .style = { -containers-labels-style }
     .accesskey = I
-    .style = { -containers-labels-style }
 containers-color-label = Color
-    .accesskey = o
     .style = { -containers-labels-style }
+    .accesskey = o
 containers-dialog =
     .buttonlabelaccept = Fet
     .buttonaccesskeyaccept = F
@@ -90,13 +93,32 @@ containers-icon-tree =
 containers-icon-chill =
     .label = Relaxació
 containers-window-new3 =
-    .title = Afegiu un nou contenidor
     .style = min-width: 32em
+    .title = Afegiu un nou contenidor
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings3 =
-    .title = Paràmetres del contenidor { $name }
     .style = min-width: 32em
+    .title = Paràmetres del contenidor { $name }
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Afegeix un lloc web
+containers-site-label =
+    .label = Lloc web
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Contenidor
+containers-site-dialog =
+    .buttonlabelaccept = Desa
+    .buttonaccesskeyaccept = D
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Introduïu un lloc web vàlid i segur
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Aquest lloc web ja és a la vostra llista
 
 ## Container creation panel, anchored to the URL bar.
 
