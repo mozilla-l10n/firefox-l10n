@@ -755,6 +755,14 @@ newtab-section-follow-button = Sekot
 newtab-section-following-button = Seko
 newtab-section-unfollow-button = Pārtraukt sekošanu
 
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = Tēmas
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Vairāk
+
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
@@ -786,6 +794,11 @@ newtab-widget-lists-button-add-item = Pievienot vienumu
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Pievienot vienumu
     .placeholder = Pievienot vienumu
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Rādīt logrīkus
+    .title = Rādīt logrīkus
 newtab-widget-add-widgets-button =
     .aria-label = Pievienot logrīku
     .title = Pievienot logrīku

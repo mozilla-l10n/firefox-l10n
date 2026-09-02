@@ -22,3 +22,17 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Uzzināt vairāk
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = Vairāk darbību
+autocomplete-edit-password = Labot šo paroli
+autocomplete-delete-password = Izdzēst šo paroli
+autocomplete-edit-address = Labot šo adresi
+autocomplete-delete-address = Izdzēst šo adresi
+autocomplete-edit-payment-method = Labot šo maksājumu veidu
+autocomplete-delete-payment-method = Izdzēst šo maksājumu veidu
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Izdzēst šo veidlapas vēstures ierakstu

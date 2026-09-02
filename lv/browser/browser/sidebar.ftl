@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = MI tērzēšanas robots
+menu-view-resource-monitor =
+    .label = Resursu pārraugs
 
 ## Labels for sidebar history panel
 
@@ -86,6 +88,8 @@ sidebar-menu-bookmarks-label =
     .label = Grāmatzīmes
 sidebar-menu-customize-label =
     .label = Pielāgot sānjoslu
+sidebar-menu-resource-monitor-label =
+    .label = Resursu pārraugs
 
 ## Headings for sidebar menu panels.
 

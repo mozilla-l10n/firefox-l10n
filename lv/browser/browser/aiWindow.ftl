@@ -186,3 +186,13 @@ aiwindow-feedback-what-worked-well = Kas darbojās labi? Lūgums neiekļaut pers
 aiwindow-feedback-add-details = Ja ir vēlēšanās, var pievienot informāciju. Lūgums ne personīgu informāciju.
 aiwindow-feedback-submit = Iesniegt
 aiwindow-feedback-cancel = Atcelt
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Ritināt atpakaļ
+    .tooltiptext = Ritināt atpakaļ
+aiwindow-starter-scroll-end =
+    .aria-label = Ritināt uz priekšu
+    .tooltiptext = Ritināt uz priekšu

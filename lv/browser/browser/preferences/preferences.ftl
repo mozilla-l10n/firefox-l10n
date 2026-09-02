@@ -567,6 +567,8 @@ update-application-version = Versija { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Parādīt atjauninājumu vēsturi
     .accesskey = v
+update-application-radio-group =
+    .aria-label = Uzstādīšana
 update-application-auto-2 =
     .label = Automātiski uzstādīt atjauninājumus (ieteicams)
     .accesskey = A
@@ -1735,7 +1737,7 @@ preferences-doh-status-not-active = Nav aktīvs ({ $reason })
 preferences-doh-group-message = Ieslēgt drošo DNS, izmantojot:
 preferences-doh-group-message2 = Ieslēgt DNS caur HTTPS, izmantojot:
 preferences-doh-radio-group =
-    .aria-label = Ieslēgt DNS caur HTTPS, izmantojot:
+    .aria-label = Iespējot DNS caur HTTPS ar:
 preferences-doh-expand-section =
     .tooltiptext = Papildu informācija
 preferences-doh-setting-default =
@@ -1802,6 +1804,8 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-radio-group =
+    .aria-label = Uzlabotā pretizsekošanas aizsardzība
 preferences-etp-customize-button =
     .label = Pielāgot aizsardzību pret izsekošanu
 preferences-etp-customize-header =
