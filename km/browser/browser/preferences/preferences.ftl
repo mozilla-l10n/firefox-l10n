@@ -298,6 +298,15 @@ update-application-use-service =
     .label = ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព
     .accesskey = b
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ដំណើរការ
@@ -341,6 +350,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations-learn-more = ស្វែងយល់​បន្ថែម
 browsing-group =
     .label = រក​មើល
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -400,10 +412,16 @@ home-custom-homepage-delete-address-button =
 home-custom-homepage-bookmarks-button =
     .label = ចំណាំ…
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = ការស្វែងរកតាម​អ៊ីនធឺណិត
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = បានណែនាំដោយ { $provider }
 
@@ -491,6 +509,9 @@ containers-add-button =
 containers-remove-button =
     .label = លុប​ចេញ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -526,6 +547,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } មិន​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់។
 sync-signedin-login-failure = សូម​ចូល​ដើម្បី​តភ្ជាប់​ឡើង​វិញ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -654,6 +680,9 @@ forms-primary-pw-change =
     .accesskey = P
 forms-master-pw-fips-desc = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -723,6 +752,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = ប្រវត្តិ
+history-mode-radio-group =
+    .aria-label = ប្រវត្តិ
 
 ## Privacy Section - Site Data
 
@@ -751,6 +782,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = ខូឃី និងទិន្នន័យ​គេហទំព័រ
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -784,9 +821,15 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-cookies-label =
     .label = ​ខូគី
     .accesskey = ខ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -845,6 +888,9 @@ collection-health-report-disabled = ការ​រាយការណ៍​ទ�
 data-collection-health-report-telemetry-disabled =
     .message = អ្នកលែងអនុញ្ញាតឱ្យ { -vendor-short-name } ចាប់យកទិន្នន័យបច្ចេកទេស និងអន្តរកម្មទៀតហើយ។ ទិន្នន័យពីមុនទាំងអស់នឹងត្រូវបានលុបចោលក្នុងរយៈពេល 30 ថ្ងៃ។
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -877,13 +923,37 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = បើក FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ផ្ទៃតុ
 downloads-folder-name = ទាញ​យក
 choose-download-folder-title = ជ្រើស​ថត​ទាញ​យក ៖
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-block-confirmation-cancel =
     .label = បោះបង់
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+
