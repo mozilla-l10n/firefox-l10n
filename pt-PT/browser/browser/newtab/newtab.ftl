@@ -390,6 +390,110 @@ newtab-stocks-in-watchlist = { $name } está na sua lista de observação
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-added-to-watchlist = { $name } adicionado à lista de observação
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } removido da lista de observação
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Pesquisar por nome ou símbolo
+    .placeholder = Pesquisar por nome ou símbolo
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Resultados da pesquisa
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .aria-label = Retroceder
+    .title = Retroceder
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Sem resultados para “{ $query }”
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = A carregar...
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Não foi possível pesquisar neste momento. Tente novamente mais tarde.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Pode adicionar até { $limit } ação. Remova uma para adicionar outra.
+       *[other] Pode adicionar até { $limit } ações. Remova uma para adicionar outra.
+    }
+
+## Strings for the Picture of the Day widget
+
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Imagem do dia · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Imagem do dia
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Ver a licença { $license }
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .aria-label = Opções da imagem do dia
+    .title = Opções da imagem do dia
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .aria-label = Definir a imagem de hoje como o seu fundo
+    .label = Definir fundo
+    .title = Definir fundo
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Gerir fundo
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Ocultar a imagem de hoje
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Mostrar a imagem de hoje
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Saber mais
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .aria-label = Mostrar a imagem de hoje
+    .title = Mostrar a imagem de hoje
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Volte amanhã para uma nova imagem
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Imagem do dia no Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Pesquisas recentes
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Opções das pesquisas recentes
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Saber mais
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Histórias
+newtab-spaces-tab-widgets = Widgets
+newtab-spaces-tab-activity = Atividade
 
 ## Search box component.
 
@@ -426,6 +530,7 @@ newtab-topsites-add-shortcut-label = Adicionar atalho
 newtab-topsites-add-shortcut-title =
     .aria-label = Adicionar atalho
     .title = Adicionar atalho
+newtab-shortcuts-pinned-area = Área de Fixados
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Digite um título
@@ -465,6 +570,20 @@ newtab-topsite-sponsored = Patrocinado
 topsite-label-pinned =
     .aria-label = { $title } (afixado)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Notificações de { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Agora mesmo
+newtab-topsites-hover-card-mark-all-read =
+    .aria-label = Marcar todas como lidas
+    .title = Marcar todas como lidas
+newtab-topsites-hover-card-settings =
+    .aria-label = Definições de notificações
+    .title = Definições de notificações
 
 ## Context Menu - Action Tooltips.
 
