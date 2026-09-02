@@ -259,7 +259,9 @@ newtab-privacy-message-promo-signin-1 = { -vendor-short-name } hesabınızla yer
 newtab-privacy-message-promo-signin-1-cta = Giriş yap
 newtab-privacy-message-promo-vpn-1-cta = VPN’i aç
 newtab-privacy-message-promo-vpn-2-cta = VPN’i aç
+newtab-privacy-message-promo-vpn-3 = Konumunuzu daha gizli tutmak için yerleşik VPN’i açın.
 newtab-privacy-message-promo-vpn-3-cta = VPN’i aç
+newtab-privacy-message-promo-private-window-1 = Ortak kullanılan bilgisayarlarda daha gizli gezinmek için gizli pencereyi deneyin.
 newtab-privacy-message-promo-private-window-1-cta = Gizli pencere aç
 
 ## Privacy widget — celebration messages
