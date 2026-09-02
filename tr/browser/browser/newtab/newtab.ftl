@@ -225,6 +225,7 @@ newtab-privacy-message-info-2 = Takip kodu engelleme, şirketlerin sizi internet
 newtab-privacy-message-info-2-cta = Korumaları göster
 newtab-privacy-message-info-3 = Birçok sitede takip kodları bulunduğundan, hiç ziyaret etmediğiniz şirketler bile sizi internette izleyebilir.
 newtab-privacy-message-info-3-cta = Korumaları göster
+newtab-privacy-message-info-4 = { -brand-short-name } demek her an, her yerde korunma demektir.
 newtab-privacy-message-info-4-cta = Korumaları göster
 newtab-privacy-message-info-5 = Takip kodları engellendikçe farklı sitelerde sizi takip edebilen şirket sayısı azalır.
 newtab-privacy-message-info-5-cta = Korumaları göster
@@ -232,11 +233,17 @@ newtab-privacy-message-info-6 = Verileriniz { -brand-short-name } ile güvende. 
 newtab-privacy-message-info-6-cta = Daha fazla bilgi al
 newtab-privacy-message-info-7 = { -brand-short-name } tarafından engellenen takip kodlarını görün.
 newtab-privacy-message-info-7-cta = Korumaları göster
+newtab-privacy-message-info-8 = İnternette { -brand-short-name } ile gezinmeniz { -vendor-short-name }’nın daha iyi bir web inşa etme misyonuna katkıda bulunuyor.
 newtab-privacy-message-info-8-cta = Daha fazla bilgi alın
+newtab-privacy-message-info-9 = Yerleşik gizlilik özellikleri için varsayılan tarayıcınız { -brand-short-name } olsun.
 newtab-privacy-message-info-9-cta = Varsayılan yap
+newtab-privacy-message-info-10 = Her yerde güçlü ve benzersiz hesaplar kullanmak için parolalarınızı { -brand-short-name } tarayıcısına kaydedin.
 newtab-privacy-message-info-10-cta = Parolalara git
+newtab-privacy-message-info-11 = { -brand-short-name } ile gezintilerinizin nasıl daha gizli hâle geldiğini öğrenin.
 newtab-privacy-message-info-11-cta = Daha fazla bilgi alın
+newtab-privacy-message-info-12 = İnternet kotanız sınırlıysa takip kodlarını engellemek bant genişliğinden tasarruf etmenizi sağlar.
 newtab-privacy-message-info-12-cta = Korumaları göster
+newtab-privacy-message-info-13 = { -brand-short-name } takip kodlarını engelleyerek daha akıcı videolar için daha fazla bant genişliği sağlar.
 newtab-privacy-message-info-13-cta = Korumaları göster
 
 ## Privacy widget — promotional messages
@@ -248,6 +255,7 @@ newtab-privacy-message-promo-monitor-1 = Kişisel bilgilerinizin ele geçirilip 
 newtab-privacy-message-promo-monitor-1-cta = Daha fazla bilgi al
 newtab-privacy-message-promo-monitor-2 = 20 ayrı e-posta adresinizde veri ihlallerini ücretsiz izleyerek bilgilerinizi koruyun.
 newtab-privacy-message-promo-monitor-2-cta = Daha fazla bilgi al
+newtab-privacy-message-promo-signin-1 = { -vendor-short-name } hesabınızla yer imlerinizi, parolalarınızı ve sekmelerinizi tüm cihazlarınızda güvenle saklayın.
 newtab-privacy-message-promo-signin-1-cta = Giriş yap
 newtab-privacy-message-promo-vpn-1-cta = VPN’i aç
 newtab-privacy-message-promo-vpn-2-cta = VPN’i aç
@@ -293,6 +301,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Borsa
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Piyasalar
+    .label = Piyasalar
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Takip listesi
+    .label = Takip listesi
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Ad veya borsa koduyla ara
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -304,9 +322,45 @@ newtab-stocks-widget-title = Borsa
 newtab-stocks-ticker-status-up = { $name }, { $change } artış, { $price }
 # Stock decreased (went down) during the day
 newtab-stocks-ticker-status-down = { $name }, { $change } düşüş, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, değişim yok, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = { $name } fonunu takip listesine ekle
+    .title = { $name } fonunu takip listesine ekle
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = { $name } fonunu takip listesinden sil
+    .title = { $name } fonunu takip listesinden sil
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } zaten takip listenize
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } takip listesine eklendi
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } takip listesinden silindi
 
 ## Stocks widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Ad veya borsa koduyla ara
+    .placeholder = Ad veya borsa koduyla ara
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
@@ -325,6 +379,14 @@ newtab-stocks-search-no-results = “{ $query }” için sonuç bulunamadı
 newtab-stocks-search-loading = Yükleniyor…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Şu anda arama yapılamıyor. Daha sonra yeniden deneyin.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] En fazla { $limit } hisse senedi ekleyebilirsiniz. Yenisini eklemek için birini silin.
+       *[other] En fazla { $limit } hisse senedi ekleyebilirsiniz. Yenisini eklemek için birini silin.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -654,6 +716,12 @@ newtab-discovery-empty-section-topstories-timed-out = Hata! Bu bölüm tam olara
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index }/{ $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Önceki
