@@ -34,6 +34,36 @@ neterror-view-certificate-link = Ver certificado
 neterror-trr-continue-this-time = Continuar desta vez
 neterror-disable-native-feedback-warning = Continuar sempre
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = Este site não pode ser alcançado
+# $domain (String) - The host of the address that failed to load, including any
+# subdomains, for example "docs.example.com".
+neterror-search-cta-intro = Não foi possível ligar ao servidor em { $domain }.
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = Experimente estes passos:
+neterror-search-cta-hint-check-address = Confirme novamente o endereço do site
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = Pesquisar na Internet para encontrar o site
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, for example "best hiking boots reviews". The query and the quotation
+# marks around it are emphasized.
+neterror-search-cta-hint-search-query = Pesquisar na Internet por <strong>“{ $query }”</strong>
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Pesquisar
+    .tooltiptext = Abre os resultados da pesquisa num novo separador
+    .accesskey = c
+neterror-search-cta-reload-button =
+    .label = Recarregar
+    .accesskey = R
+# Shown in place of the Search button while the search option is being prepared.
+neterror-search-cta-loading = A carregar
+
 ##
 
 neterror-pref-reset = Parece que as suas definições de segurança de rede podem estar a causar isto. Pretende que as definições predefinidas sejam restauradas?

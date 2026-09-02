@@ -59,7 +59,45 @@ url-classifier-content-classifier-top-window-url-enabled = Ativar URL da janela 
 url-classifier-content-classifier-destination-type = Tipo de destino
 # Header for a group of on/off options (the checkboxes below) that modify how
 # the hypothetical request is classified.
-url-classifier-content-classifier-flags = Etiquetas
+url-classifier-content-classifier-flags = Flags
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = Sondas
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Resultados
+url-classifier-content-classifier-pbm = Navegação privada
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Forçar terceiro a ficar no topo
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Complemento não recomendado
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Bloqueio da sonda
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Anotar sonda
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Funcionalidade de sonda
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = Detalhes do motor
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = Funcionalidade
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = Correspondido
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = Exceção
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = Importante
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = Resultado do motor
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Ocorrência
 url-classifier-debug-title = Depuração
 url-classifier-debug-module-btn = Definir módulos de registo
 url-classifier-debug-file-btn = Definir ficheiro de registo
