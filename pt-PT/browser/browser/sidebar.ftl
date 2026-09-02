@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot de IA
 menu-view-contextual-password-manager =
     .label = Palavras-passe
+menu-view-resource-monitor =
+    .label = Monitor de Recursos
 sidebar-options-menu-button =
     .title = Abrir menu
 
@@ -146,6 +148,8 @@ sidebar-menu-customize-label =
     .label = Personalizar barra lateral
 sidebar-menu-contextual-password-manager-label =
     .label = Palavras-passe
+sidebar-menu-resource-monitor-label =
+    .label = Monitor de recursos
 sidebar-menu-more-tools-label =
     .label = Mais ferramentas
 

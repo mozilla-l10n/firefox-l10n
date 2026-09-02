@@ -328,3 +328,13 @@ aiwindow-feedback-add-details = Adicione detalhes se quiser. Nenhuma informaçã
 aiwindow-feedback-disclaimer = Ao submeter partilha o seu feedback e este chat para ajudar o { -brand-shorter-name } a melhorar o { -smart-window-brand-name }. As suas outras conversas permanecem privadas. <a data-l10n-name="learn-more">Saber mais</a>
 aiwindow-feedback-submit = Submeter
 aiwindow-feedback-cancel = Cancelar
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Deslocar para trás
+    .tooltiptext = Deslocar para trás
+aiwindow-starter-scroll-end =
+    .aria-label = Deslocar para a frente
+    .tooltiptext = Deslocar para a frente

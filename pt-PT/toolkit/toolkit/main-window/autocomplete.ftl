@@ -22,3 +22,10 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Saber mais
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = Mais ações
+autocomplete-edit-password = Editar esta palavra-passe

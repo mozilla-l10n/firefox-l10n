@@ -34,3 +34,5 @@ autocomplete-edit-address = Rediger denne adressa
 autocomplete-delete-address = Slett denne adressa
 autocomplete-edit-payment-method = Rediger denne betalingsmåten
 autocomplete-delete-payment-method = Slett denne betalingsmåten
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Slett denne oppføringa frå skjemahistorikken

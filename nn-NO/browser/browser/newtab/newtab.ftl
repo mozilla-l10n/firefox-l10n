@@ -1354,6 +1354,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Slå saman alle widgetar til kompakt størrelse
     .title = Minimer widgetar
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Vis widgetdelen
+    .title = Vis widgetar
 newtab-widget-section-menu-button =
     .aria-label = Opne widget-meny
     .title = Widget-meny
