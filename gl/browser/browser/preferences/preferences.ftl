@@ -1244,6 +1244,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = Historial
+history-mode-radio-group =
+    .aria-label = Historial
 
 ## Privacy Section - Site Data
 
