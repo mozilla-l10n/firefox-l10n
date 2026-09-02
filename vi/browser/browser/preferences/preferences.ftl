@@ -1839,6 +1839,8 @@ history-custom-button =
     .label = Hãy chọn những gì bạn muốn { -brand-short-name } ghi nhớ
 history-group =
     .label = Lịch sử
+history-mode-radio-group =
+    .aria-label = Lịch sử
 history-remember-option-all2 =
     .label = Ghi nhớ lịch sử
 
@@ -2449,6 +2451,8 @@ preferences-doh-status-disabled = Đã tắt
 preferences-doh-status-not-active = Không hoạt động ({ $reason })
 preferences-doh-group-message = Kích hoạt DNS an toàn sử dụng:
 preferences-doh-group-message2 = Bật DNS trên HTTPS sử dụng:
+preferences-doh-radio-group =
+    .aria-label = Bật DNS trên HTTPS sử dụng:
 preferences-doh-expand-section =
     .tooltiptext = Thông tin chi tiết
 preferences-doh-setting-default =
