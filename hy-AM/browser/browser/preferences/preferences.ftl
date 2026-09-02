@@ -1725,6 +1725,8 @@ history-custom-section-header =
     .label = Ընդլայնված կարգավորումներ
 history-group =
     .label = Պատմություն
+history-mode-radio-group =
+    .aria-label = Պատմություն
 
 ## Privacy Section - Site Data
 
