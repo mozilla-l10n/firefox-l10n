@@ -592,6 +592,12 @@ update-in-progress-ok-button = &Annullar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -674,6 +680,9 @@ browsing-cfr-recommendations-learn-more = Ulteriuras infurmaziuns
 browsing-group =
     .label = Navigaziun
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Parameters da la rait
@@ -753,6 +762,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Extensiun ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Pagina iniziala persunalisada
 home-custom-homepage-subpage =
     .heading = Pagina iniziala persunalisada
@@ -768,6 +780,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Websites che ti memoriseschas u visitas
 home-prefs-shortcuts-by-option-sponsored =
     .label = Scursanidas sponsuradas
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Recumandà da { $provider }
 home-prefs-recommended-by-description-new = Cuntegn spezial, tschernì da { $provider } che fa part da { -brand-product-name }
@@ -980,6 +995,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1246,6 +1266,9 @@ forms-windows-sso-learn-more-link = Ulteriuras infurmaziuns
 forms-windows-sso-desc = Administrar ils contos en ils parameters da tes apparat
 windows-passkey-settings-label = Administrar las clavs d’access (passkeys) en ils parameters dal sistem
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -1364,6 +1387,8 @@ history-clear-button =
     .accesskey = z
 history-group =
     .label = Cronologia
+history-mode-radio-group =
+    .aria-label = Cronologia
 
 ## Privacy Section - Site Data
 
@@ -1556,6 +1581,9 @@ content-blocking-fingerprinters = Improntaders dal det
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Improntaders enconuschents e suspectads
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protecziun totala cunter ils cookies limitescha ils cookies a la website sin la quala ti ta chattas. Uschia na pon fastizaders betg als utilisar per ta suandar sur pliras websites.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ulteriuras infurmaziuns
@@ -1866,6 +1894,8 @@ preferences-doh-status-disabled = Deactivà
 preferences-doh-status-not-active = Betg activ ({ $reason })
 preferences-doh-group-message = Activar il DNS segirà cun:
 preferences-doh-group-message2 = Activar DNS via HTTPS cun:
+preferences-doh-radio-group =
+    .aria-label = Activar DNS via HTTPS cun:
 preferences-doh-expand-section =
     .tooltiptext = Ulteriuras infurmaziuns
 preferences-doh-setting-default =
@@ -1903,13 +1933,31 @@ preferences-doh-manage-exceptions =
     .label = Administrar las excepziuns…
     .accesskey = A
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Telechargiadas
 choose-download-folder-title = Tscherner l'ordinatur per telechargiar:
 
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isolar cookies interpaginals
+
+## Warnings section
+
+
+## Referrals Section
+
