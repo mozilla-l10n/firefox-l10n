@@ -1855,6 +1855,8 @@ history-custom-button =
     .label = Браузерді жапқан кезде { -brand-short-name } нені есте сақтайтынын таңдаңыз
 history-group =
     .label = Тарих
+history-mode-radio-group =
+    .aria-label = Тарих
 history-remember-option-all2 =
     .label = Тарихты есте сақтау
 
@@ -2465,6 +2467,8 @@ preferences-doh-status-disabled = Сөндірулі
 preferences-doh-status-not-active = Белсенді емес ({ $reason })
 preferences-doh-group-message = Қауіпсіз DNS мүмкіндігін келесі арқылы іске қосу:
 preferences-doh-group-message2 = HTTPS арқылы DNS іске қосу, келесіні қолданып:
+preferences-doh-radio-group =
+    .aria-label = HTTPS арқылы DNS іске қосу, келесіні қолданып:
 preferences-doh-expand-section =
     .tooltiptext = Көбірек ақпарат
 preferences-doh-setting-default =
