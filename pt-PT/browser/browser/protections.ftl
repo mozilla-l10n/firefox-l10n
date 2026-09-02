@@ -171,14 +171,13 @@ monitor-resolve-breaches-link = Resolver violações de dados
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Rastreadores das redes sociais
     .aria-label =
         { $count ->
             [one] { $count } rastreador da rede social ({ $percentage }%)
            *[other] { $count } rastreadores das redes sociais ({ $percentage }%)
         }
+    .title = Rastreadores das redes sociais
 bar-tooltip-cookie =
-    .title = Cookies de monitorização entre sites
     .aria-label =
         { $count ->
             [one]
@@ -187,27 +186,28 @@ bar-tooltip-cookie =
                 { $count } cookie de monitorização ente sites ({ $percentage }%)
            *[other] { $count } cookies de monitorização entre sites ({ $percentage }%)
         }
+    .title = Cookies de monitorização entre sites
 bar-tooltip-tracker =
-    .title = Conteúdo de monitorização
     .aria-label =
         { $count ->
             [one] { $count } conteúdo de monitorização ({ $percentage }%)
            *[other] { $count } conteúdos de monitorização ({ $percentage }%)
         }
+    .title = Conteúdo de monitorização
 bar-tooltip-fingerprinter =
-    .title = Identificadores
     .aria-label =
         { $count ->
             [one] { $count } identificador ({ $percentage }%)
            *[other] { $count } identificadores ({ $percentage }%)
         }
+    .title = Identificadores
 bar-tooltip-cryptominer =
-    .title = Cripto-mineradores
     .aria-label =
         { $count ->
             [one] { $count } cripto-minerador ({ $percentage }%)
            *[other] { $count } cripto-mineradores ({ $percentage }%)
         }
+    .title = Cripto-mineradores
 # Privacy Metrics Card
 privacy-metrics-title = Proteções de privacidade
 # Variables:
@@ -249,3 +249,20 @@ privacy-metrics-empty = Nenhum rastreador foi bloqueado esta semana. O { -brand-
 privacy-metrics-loading = A carregar as estatísticas de proteção…
 privacy-metrics-error = Não foi possível carregar as estatísticas de proteção.
 privacy-metrics-private-window = O { -brand-short-name } continua a bloquear os rastreadores em janelas privadas, mas não mantém um registo do que foi bloqueado.
+
+## VPN promo card and banner
+
+protections-vpn-title = Leve as proteções de privacidade para além do navegador
+protections-vpn-header-content = Proteja todo o seu dispositivo com a { -mozilla-vpn-brand-name }. Um toque encripta todo o tráfego e oculta a sua localização.
+protections-get-vpn-link = Obter a { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: Subscrita
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] O uso da { -mozilla-vpn-brand-name } encripta todo o seu tráfego e oculta a sua localização — em até { $count } dispositivo. Obtenha o máximo da sua subscrição — adicione-a da <a data-l10n-name="playstore-link">Google Play Store</a> ou da <a data-l10n-name="appstore-link">Apple App Store </a>.
+       *[other] O uso da { -mozilla-vpn-brand-name } encripta todo o seu tráfego e oculta a sua localização — em até { $count } dispositivos. Obtenha o máximo da sua subscrição — adicione-a da <a data-l10n-name="playstore-link">google Play Store</a> ou da <a data-l10n-name="appstore-link">Apple App Store </a>.
+    }
+protections-vpn-banner-header = Proteção que se estende para além do navegador
+protections-vpn-banner-content = Experimente a { -mozilla-vpn-brand-name } sem riscos e veja porque é que o TechRadar diz que “a sua velocidade, facilidade e baixo preço mensal fazem com que valha a pena dar uma vista de olhos.”
+protections-vpn-banner-link = Obter a { -mozilla-vpn-brand-name }

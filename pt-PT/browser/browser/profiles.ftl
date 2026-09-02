@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = O { -brand-short-name } irá abrir o seu perfil utilizado mais recentemente.
 profile-window-create-profile = Criar um perfil
 profile-card-edit-button =
-    .title = Editar perfil
     .aria-label = Editar perfil
+    .title = Editar perfil
 profile-card-delete-button =
-    .title = Eliminar perfil
     .aria-label = Eliminar perfil
+    .title = Eliminar perfil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Abrir { $profileName }
     .aria-label = Abrir { $profileName }
+    .title = Abrir { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Perfil { $number }
@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Eliminar
+edit-profile-page-avatar-selector-opener-button =
+    .title = Editar avatar
 edit-profile-page-avatar-selector-opener-link = Editar
 avatar-selector-icon-tab = Ícone
 avatar-selector-custom-tab = Personalizado
@@ -95,6 +97,9 @@ delete-profile-logins = Palavras-passe
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Eliminar o perfil “{ $profilename }”
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = Apagar o perfil “{ $profilename }”?
 
 ##
 
@@ -283,9 +288,6 @@ profiles-appmenu-callout-tour-subtitle = No menu ☰ toque no seu nome de perfil
 profiles-appmenu-callout-tour-primary-button = Mostrar-me como
 barbell-avatar = Barra
 bike-avatar = Mota
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Aplicar avatar da barra
 bike-avatar-tooltip =

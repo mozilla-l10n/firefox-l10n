@@ -32,6 +32,9 @@ firefoxview-tabpickup-step-signin-description = Para obter os separadores do seu
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = O seu { -brand-product-name } em todos os seus dispositivos
 firefoxview-syncedtabs-signin-description-2 = Para ver os separadores que tem abertos no seu telemóvel e outros dispositivos, inicie sessão ou registe-se para uma conta. Com uma conta, pode também sincronizar as suas palavras-passe, histórico e muito mais.
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Do portátil para o telemóvel, facilmente
+firefoxview-syncedtabs-signin-description-3 = Mantenha a sua navegação conectada entre dispositivos — separadores, palavras-passe e histórico, tudo sincronizado.
 firefoxview-syncedtabs-signin-primarybutton-2 = Iniciar sessão
 firefoxview-tabpickup-adddevice-header = Sincronize o { -brand-product-name } no seu telemóvel ou tablet
 firefoxview-tabpickup-adddevice-description = Transfira o { -brand-product-name } para dispositivos móveis e inicie sessão no mesmo.
@@ -40,22 +43,37 @@ firefoxview-tabpickup-adddevice-primarybutton = Obtenha o { -brand-product-name 
 firefoxview-syncedtabs-adddevice-header-2 = Obtenha separadores a partir de qualquer sítio
 firefoxview-syncedtabs-adddevice-description-2 = Inicie sessão no { -brand-product-name } no seu telefone ou outro computador para ver os separadores aqui. Aprenda como <a data-l10n-name="url">associar dispositivos adicionais</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Experimente o { -brand-product-name } para dispositivos móveis
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Os seus separadores ligaram. Eles estão no seu telemóvel.
+firefoxview-syncedtabs-adddevice-description-3 = Digitalize o código QR para obter o { -brand-product-name } para telemóvel e comece a sincronizar os seus separadores abertos e mais. Saiba como <a data-l10n-name="url">associar dispositivos adicionais</a>.
 firefoxview-tabpickup-synctabs-header = Ativar sincronização de separadores
 firefoxview-tabpickup-synctabs-description = Permitir que o { -brand-short-name } partilhe separadores entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Saber mais
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar separadores abertos
+firefoxview-tabpickup-synctabs-primarybutton-2 = Ativar sincronização de separadores
 firefoxview-syncedtabs-synctabs-header = Atualize as suas definições de sincronização
 firefoxview-syncedtabs-synctabs-description = Para ver os separadores de outros dispositivos, precisa de sincronizar os seus separadores abertos.
+firefoxview-syncedtabs-synctabs-header-2 = A sincronização de separadores está desativada
+firefoxview-syncedtabs-synctabs-description-2 = Ative novamente a sincronização para agarrar todos os seus separadores de outros dispositivos.
 firefoxview-syncedtabs-loading-header = Sincronização em progresso
 firefoxview-syncedtabs-loading-description = Quando terminar, irá ver todos os separadores abertos nos outros dispositivos. Volte em breve.
+firefoxview-syncedtabs-loading-header-2 = A buscar os seus separadores...
+firefoxview-syncedtabs-loading-description-2 = Sincronização em curso. Os separadores estarão aqui em breve.
 firefoxview-tabpickup-fxa-admin-disabled-header = A sua organização desativou a sincronização
 firefoxview-tabpickup-fxa-admin-disabled-description = O { -brand-short-name } não consegue sincronizar separadores entre dispositivos porque o seu administrador desativou a sincronização.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = O { -brand-short-name } não é capaz de sincronizar separadores entre dispositivos porque a sua organização desativou a sincronização.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = A sincronização de separadores está desativada
+firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = A sua organização bloqueou esta funcionalidade.
 firefoxview-tabpickup-network-offline-header = Verifique a sua ligação à Internet
 firefoxview-tabpickup-network-offline-description = Se está a utilizar uma firewall ou proxy, verifique se o { -brand-short-name } tem permissão para aceder à Internet.
 firefoxview-tabpickup-network-offline-primarybutton = Tentar novamente
+firefoxview-tabpickup-network-offline-header-2 = O { -brand-short-name } não pode ligar-se neste momento
+firefoxview-tabpickup-network-offline-description-2 = Pode estar sem rede, ou algo pode estar a bloquear a ligação.
 firefoxview-tabpickup-sync-error-header = Estamos com problemas para sincronizar
 firefoxview-tabpickup-generic-sync-error-description = O { -brand-short-name } não pode aceder ao serviço de sincronização neste momento. Tente novamente dentro de alguns momentos.
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = A sincronização encontrou um problema
+firefoxview-tabpickup-generic-sync-error-description-2 = O { -brand-short-name } não conseguiu ligar-se. Aguarde um momento e tente novamente
 firefoxview-tabpickup-sync-error-primarybutton = Tentar novamente
 firefoxview-tabpickup-sync-disconnected-header = Ative a sincronização para continuar
 firefoxview-tabpickup-sync-disconnected-description = Para obter seus separadores, irá precisar de permitir a sincronização no { -brand-short-name }.

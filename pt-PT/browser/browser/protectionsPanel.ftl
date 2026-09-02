@@ -35,13 +35,13 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Proteção melhorada contra a monitorização
-    .description = Ativada para este site
     .aria-label = Proteção avançada contra a monitorização: ativada para { $host }
-protections-panel-etp-toggle-off =
+    .description = Ativada para este site
     .label = Proteção melhorada contra a monitorização
-    .description = Desativada para este site
+protections-panel-etp-toggle-off =
     .aria-label = Proteção melhorada contra a monitorização: desativada para { $host }
+    .description = Desativada para este site
+    .label = Proteção melhorada contra a monitorização
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -84,6 +84,11 @@ smartblock-placeholder-title = Conteúdo e rastreadores de { $trackername } bloq
 smartblock-placeholder-desc = As suas definições do { -brand-short-name } impediram este conteúdo de o monitorizar através de sites ou de ser utilizado para anúncios.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Permitir em { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Conteúdo de incorporação bloqueado
 
 ##
 
@@ -131,9 +136,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Cancelar
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Enviar relatório
-
-# Cookie Banner Handling
-
 protections-panel-cookie-banner-handling-header = Redução de Faixas de Cookies
 protections-panel-cookie-banner-blocker-header = Bloqueador de faixas de cookies
 protections-panel-cookie-banner-handling-enabled = Ativado para este site

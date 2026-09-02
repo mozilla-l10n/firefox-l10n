@@ -584,6 +584,9 @@ newtab-topsites-hover-card-mark-all-read =
 newtab-topsites-hover-card-settings =
     .aria-label = Definições de notificações
     .title = Definições de notificações
+newtab-topsites-hover-card-dismiss =
+    .aria-label = Dispensar
+    .title = Dispensar
 
 ## Context Menu - Action Tooltips.
 
@@ -1688,6 +1691,12 @@ newtab-sports-widget-team-tbd = A ser determinado
 
 newtab-sports-widget-message-wallpapers-title = Comece o Campeonato do Mundo com novos fundos
 newtab-sports-widget-message-wallpapers-body = Traga alguma da energia do dia de jogo do torneio para o seu navegador.
+newtab-sports-widget-message-wallpapers-cta = Escolher fundo
+newtab-sports-widget-message-wallpapers-semifinals-title = Obtenha um novo fundo para as semi-finais
+newtab-sports-widget-message-wallpapers-semifinals-body = Prepare o ambiente para os maiores jogos do Campeonato do Mundo.
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Adicionar widgets
+newtab-sports-widget-message-day-in-play-title = Mantenha o seu dia em jogo com os widgets do { -brand-product-name }
 newtab-sports-widget-message-day-in-play-body = Siga o Campeonato do Mundo, foque-se na tarefa,  vejas as horas à volta do globo, e mais.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets

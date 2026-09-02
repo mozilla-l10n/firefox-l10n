@@ -2794,6 +2794,9 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-safe-browsing =
     .description = A sua exposição a esquemas fraudulentos e software malicioso proveniente de sites é mais elevada.
     .label = O conteúdo perigoso e enganador não está bloqueado
+security-privacy-issue-warning-ech2 =
+    .description = O cliente Hello Encriptado ajuda a esconder da sua operadora os sites que está prestes a visitar.
+    .label = O Cliente Hello Encriptado está desativado
 security-privacy-issue-warning-doh =
     .description = O DNS sobre HTTPS impede que o seu fornecedor de rede veja os sites que visita.
     .label = O DNS sobre HTTPS está desativado
@@ -2803,3 +2806,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .description = A configuração automática de proxy pode permitir que redes não fidedignas monitorizem a sua atividade.
     .label = A configuração automática de proxy está ativada
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .description = Convide alguém para escolher o navegador que coloca a privacidade em primeiro lugar.
+    .label = Partilhar { -brand-short-name }
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = Partilhar o { -brand-short-name }

@@ -144,6 +144,14 @@ taskbar-tabs-value-prop-callout-subtitle = Execute-o numa janela própria e numa
 taskbar-tabs-chat-callout-title-v3 = Mantenha-se ligado a partir da sua barra de tarefas
 taskbar-tabs-email-callout-title-v3 = Mantenha a sua caixa de entrada na sua barra de tarefas
 taskbar-tabs-email-callout-subtitle-v3 = Aceda aos seus sites de e-mail como se fossem uma aplicação, numa janela simplificada protegida pelo { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Mantenha a sua transmissão na barra de tarefas
+taskbar-tabs-media-callout-subtitle-v3 = Aceda aos seus sites de multimédia como se fossem uma aplicação, numa janela simplificada protegida pelo { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Fixe os seus sites favoritos na sua barra de tarefas
+taskbar-tabs-value-prop-callout-subtitle-v3 = Abra qualquer site como se fosse uma aplicação numa janela simplificada protegida pelo { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Regresse ao jogo a partir da barra de tarefas
+taskbar-tabs-gaming-callout-subtitle-v3 = Aceda aos seus sites de jogos como se fossem uma aplicação, numa janela simplificada protegida pelo { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Fixar na barra de tarefas
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -173,6 +181,24 @@ windows-10-eos-sync-callout-primary-advance-button-label = Seguinte
 
 link-preview-onboarding-callout-title = Novo: Clique e mantenha pressionado para pré-visualizar ligações
 link-preview-onboarding-callout-description = Veja uma descrição curta, tempo de leitura, entre outros, para decidir se uma ligação merece um clique. Também disponível ao clicar com o botão direito do rato.
+
+## Tab Groups Onboarding Strings
+## These strings appear in a callout shown to users to introduce tab groups,
+## a feature that lets people organize related tabs into named collections.
+## Translators should feel free to adapt these strings to phrasing that sounds
+## natural in their language rather than translating literally — the goal is
+## an inviting, conversational tone, not a word-for-word match.
+
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Reduza a desarrumação com grupos de separadores
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Agrupe os seus separadores por tarefa ou tópico. Arraste mais à medida que navega.
+# Button label — keep short (ideally under ~15 characters) so it fits in the
+# callout UI. "Start a group" means "create a new tab group."
+tab-groups-2026-onboarding-cta-button = Começar um grupo
 
 ## Sidebar Strings
 
