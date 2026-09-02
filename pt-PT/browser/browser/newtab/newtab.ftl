@@ -321,6 +321,32 @@ newtab-privacy-message-streak =
     }
 newtab-privacy-message-streak-cta = Ver proteções
 
+## Strings for the Stocks widget
+
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
+## Strings for the Picture of the Day widget
+
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -367,6 +393,9 @@ newtab-topsites-image-url-label = URL de imagem personalizada
 newtab-topsites-use-custom-image-link = Utilizar uma imagem personalizada
 newtab-topsites-use-image-link = Utilizar uma imagem personalizada…
 newtab-topsites-image-validation = A imagem falhou o carregamento. Tente um URL diferente.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Limpar texto
 
@@ -395,6 +424,9 @@ newtab-topsite-sponsored = Patrocinado
 topsite-label-pinned =
     .aria-label = { $title } (afixado)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
 
 ## Context Menu - Action Tooltips.
 
@@ -708,6 +740,9 @@ newtab-custom-close-menu-button =
     .title = Fechar
 newtab-custom-close-button = Fechar
 newtab-custom-settings = Gerir mais definições
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Aspeto
 # Button that opens the full browser theme selection view.
@@ -825,6 +860,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -957,6 +995,12 @@ newtab-section-unfollow-button-label =
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Ajuste a sua feed
 newtab-section-follow-highlight-subtitle = Siga os seus interesses para ver mais do que gosta.
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = Tópicos
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1220,6 +1264,9 @@ newtab-promo-card-cta = Saber mais
 newtab-promo-card-dismiss-button =
     .aria-label = Dispensar
     .title = Dispensar
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
