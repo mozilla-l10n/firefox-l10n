@@ -63,11 +63,26 @@ neterror-search-cta-reload-button =
     .accesskey = R
 # Shown in place of the Search button while the search option is being prepared.
 neterror-search-cta-loading = A carregar
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = Parece estar sem ligação à internet. Restabeleça a ligação e tente novamente.
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = Código de erro: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = Saber mais
 
 ##
 
 neterror-pref-reset = Parece que as suas definições de segurança de rede podem estar a causar isto. Pretende que as definições predefinidas sejam restauradas?
 neterror-error-reporting-automatic = Comunicar erros como este para ajudar a { -vendor-short-name } a identificar e bloquear sites maliciosos
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = A sua ligação pode não ser privada
+    .message = Uma aplicação ou serviço pode ver o seu tráfego encriptado deste site.
 
 ## Specific error messages
 
@@ -90,6 +105,8 @@ neterror-dns-not-found-hint-header = <strong>Se inseriu o endereço correto, pod
 neterror-dns-not-found-hint-try-again = Tentar novamente mais tarde
 neterror-dns-not-found-hint-check-network = Verificar a sua ligação à rede
 neterror-dns-not-found-hint-firewall = Verificar se { -brand-short-name } tem permissão para aceder à Internet (pode estar ligado, mas atrás de uma firewall)
+neterror-dns-not-found-hint-check-network-2 = Verificar a sua ligação à rede
+neterror-dns-not-found-hint-firewall-2 = Verificar se o { -brand-short-name } tem permissão para aceder à internet (pode estar ligado, mas atrás de uma firewall).
 neterror-dns-not-found-offline-hint-header = <strong>O que pode fazer quanto a isto?</strong>
 neterror-dns-not-found-offline-hint-different-device = Tente ligar-se num dispositivo diferente.
 neterror-dns-not-found-offline-hint-modem = Verifique o seu modem ou router.
@@ -218,6 +235,7 @@ fp-neterror-offline-body-title = Parece que existe um problema com a sua ligaç�
 
 fp-neterror-connection-intro = O { -brand-short-name } não consegue estabelecer uma ligação segura ao servidor em { $hostname }.
 fp-neterror-offline-intro = O { -brand-short-name } não consegue estabelecer ligação ao servidor em <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = O { -brand-short-name } não consegue ligar-se ao servidor em <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = O servidor em <strong>{ $hostname }</strong> está a demorar muito a responder.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
