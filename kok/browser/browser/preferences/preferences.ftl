@@ -222,9 +222,6 @@ choose-bookmark =
     .label = बुकमार्क वापरात…
     .accesskey = B
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 
@@ -369,6 +366,8 @@ history-clear-on-close-settings =
     .accesskey = ड
 history-group =
     .label = इतिहास
+history-mode-radio-group =
+    .aria-label = इतिहास
 
 ## Privacy Section - Site Data
 
@@ -461,4 +460,7 @@ choose-download-folder-title = डावनलोड धारक निवड�
 
 
 ## Warnings section
+
+
+## Referrals Section
 
