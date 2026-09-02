@@ -200,6 +200,9 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } bloquea los rastreadores mientras navegas. Aquí verás los que se hayan bloqueado.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -326,6 +329,12 @@ newtab-stocks-ticker-status-down = { $name }, bajó { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sin cambios, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
 ## Strings for the Picture of the Day widget
 
 # Shorter title shown at the top of the widget, without the source name.
@@ -350,6 +359,13 @@ newtab-picture-widget-menu-button =
     .title = Opciones de imagen del día
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Más información
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -397,6 +413,9 @@ newtab-topsites-image-url-label = URL de imagen personalizada
 newtab-topsites-use-custom-image-link = Utilizar una imagen personalizada
 newtab-topsites-use-image-link = Utilizar una imagen personalizada…
 newtab-topsites-image-validation = La imagen no se pudo cargar. Intente una URL diferente.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Limpiar texto
 
@@ -425,6 +444,9 @@ newtab-topsite-sponsored = Patrocinado
 topsite-label-pinned =
     .aria-label = { $title } (fijado)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
 
 ## Context Menu - Action Tooltips.
 
@@ -711,6 +733,9 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Cerrar
 newtab-custom-settings = Administrar más ajustes
 
+## New Tab Appearance (browser theme picker)
+
+
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -807,6 +832,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -939,6 +967,12 @@ newtab-section-unfollow-button-label =
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Optimiza tu feed
 newtab-section-follow-highlight-subtitle = Sigue tus intereses para ver más de lo que te gusta.
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = Temas
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1199,6 +1233,9 @@ newtab-promo-card-cta = Más información
 newtab-promo-card-dismiss-button =
     .aria-label = Descartar
     .title = Descartar
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1472,6 +1509,9 @@ newtab-sports-widget-message-day-in-play-title = Mantén el ritmo de tu día con
 newtab-sports-widget-message-day-in-play-body = Sigue el Mundial, mantén la concentración, consulta la hora en todo el mundo y más.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
