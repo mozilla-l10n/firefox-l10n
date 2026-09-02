@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = Trieu un model basat en el que us importa.
     .label = Model de l'assistent
+smart-window-model-radio-group =
+    .aria-label = Model de l'assistent
 smart-window-model-learn-link = Coneix els models
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -92,6 +94,12 @@ ai-window-delete-all-memories-cancel = Cancel·la
 ai-window-memory-delete-button =
     .aria-label = Suprimeix { $label }
     .title = Suprimeix la memòria
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
 smart-window-model-fast-v2 =
     .description = Millor per a respostes ràpides quan la velocitat importa. Nom complet: { $model } per { $ownerName }
     .label = { $shortName }: ràpid
