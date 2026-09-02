@@ -496,6 +496,15 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارکردگی
@@ -563,6 +572,9 @@ browsing-cfr-recommendations-learn-more = ٻیا سِکھو
 browsing-group =
     .label = براؤزنگ
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = نیٹ ورک دیاں ترتیباں
@@ -620,6 +632,9 @@ home-homepage-new-tabs =
 home-prefs-homepage-extension-option =
     .label = ایکسٹنشن ({ $extension })
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } مواد
@@ -631,6 +646,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
 home-prefs-shortcuts-by-option-sponsored =
     .label = سپانسر تھئے شارٹ کٹ
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = { $provider } دی طرفوں تجویز کردہ
 home-prefs-recommended-by-description-new = { $provider } دے ذریعے تیار کیتا ڳیا غیر معمولی مواد، { -brand-product-name } ٹٻری دا حصہ
@@ -814,6 +832,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } توثیق شدہ کائنی۔
 sync-signedin-login-failure = { $email } ولدا جوڑݨ کیتے براہ مہربانی سائن ان کرو
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1044,6 +1067,9 @@ forms-windows-sso-learn-more-link = ٻیا سِکھو
 forms-windows-sso-desc = اپݨے موبائل ڈیوائس وِچ اکاؤنٹس کوں منظم کرو
 windows-passkey-settings-label = سسٹم دیاں ترتیباں وِچ پاس کلیداں کوں منظم کرو
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -1127,6 +1153,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = تاریخ
+history-mode-radio-group =
+    .aria-label = تاریخ
 
 ## Privacy Section - Site Data
 
@@ -1278,6 +1306,9 @@ content-blocking-fingerprinters = فنگر پرنٹرز
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = معلوم اَتے مشتبہ فنگر پرنٹس
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ٹوٹل کوکی پروٹیکشن وِچ تساں جیڑھی سائٹ تے او اوندیاں کوکیاں تے مشتمل ہے، لہذا ٹریکرز انہاں سائٹاں دے وچال تہاݙی پیروی کرݨ کیتے استعمال نہیں کر سڳدے۔
 content-blocking-etp-standard-tcp-rollout-learn-more = ٻیا سِکھو
@@ -1512,6 +1543,8 @@ preferences-doh-status-disabled = بند
 preferences-doh-status-not-active = فعال کائنی  ({ $reason })
 preferences-doh-group-message = محفوظ DNS ورتݨ فعال کرو:
 preferences-doh-group-message2 = استعمال کرین٘دے ہوئے ایچ ٹی ٹی پی ایس کنوں وَدھ ڈی این ایس کوں فعال کرو:
+preferences-doh-radio-group =
+    .aria-label = استعمال کرین٘دے ہوئے ایچ ٹی ٹی پی ایس کنوں وَدھ ڈی این ایس کوں فعال کرو:
 preferences-doh-expand-section =
     .tooltiptext = ودھیک معلومات
 preferences-doh-setting-default =
@@ -1549,8 +1582,29 @@ preferences-doh-manage-exceptions =
     .label = مستثنیات کوں منظم کرو …
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڈیسک ٹاپ
 downloads-folder-name = ڈاؤن لوڈ
 choose-download-folder-title = ڈاؤن لوڈ فولڈر دا انتخاب کرو:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+
