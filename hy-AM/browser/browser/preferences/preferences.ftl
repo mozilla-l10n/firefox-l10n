@@ -707,6 +707,8 @@ update-history-2 =
     .accesskey = ա
 update-application-installation =
     .label = Տեղադրում
+update-application-radio-group =
+    .aria-label = Տեղադրում
 update-application-auto-2 =
     .label = Ինքնաբար տեղադրել թարմացումները (հանձնարարելի)
     .accesskey = Ի
@@ -862,6 +864,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Իմանալ ավելին
 browsing-group =
     .label = Դիտարկում
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Մատչելիություն
 preferences-default-zoom-select =
@@ -977,6 +982,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Ընդլայնում ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Հարմարեցված տնէջ
 home-custom-homepage-subpage =
     .heading = Հարմարեցված տնէջ
@@ -992,6 +1000,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Ձեր պահած կամ այցելած կայքերը
 home-prefs-shortcuts-by-option-sponsored =
     .label = Հովանավորված դյուրանցումներ
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Առաջարկվում է { $provider }
 home-prefs-recommended-by-description-new = Բացառիկ բովանդակություն, որը կազմվել է { $provider }-ի կողմից, որը { -brand-product-name } ընտանիքի մաս է կազմում։
@@ -1259,6 +1270,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1546,6 +1562,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Ստացեք օգնություն ձեր տեղեկությունների առցանց պաշտպանության վերաբերյալ { -brand-short-name } կայքում։
     .label = Գաղտնիության վահանակի կարգավորումներ
@@ -1904,6 +1923,9 @@ content-blocking-fingerprinters = Մատնահետքեր
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Հայտնի և կասկածելի մատնահետքեր
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Թխուկների ամբողջական պաշտպանությունը պարունակում է այն կայքի թխուկները, որում դուք գտնվում եք, որպեսզի հեռագծիչները չկարողանան օգտագործել դրանք՝ կայքերի միջև ձեզ հետևելու համար:
 content-blocking-etp-standard-tcp-rollout-learn-more = Իմանալ ավելին
@@ -2462,3 +2484,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 security-privacy-issue-warning-fingerprinters =
     .description = Սա կարող է թույլ տալ որոշ հետևագծողների հետևել ձեզ առանց թխուկների։
     .label = Հայտնի մատնահետքերը չեն արգելափակվում
+
+## Referrals Section
+
