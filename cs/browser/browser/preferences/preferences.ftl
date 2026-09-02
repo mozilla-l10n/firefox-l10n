@@ -832,6 +832,8 @@ update-history-2 =
     .accesskey = h
 update-application-installation =
     .label = Instalace
+update-application-radio-group =
+    .aria-label = Instalace
 update-application-auto-2 =
     .label = Instalovat aktualizace automaticky (doporučeno)
     .accesskey = I
@@ -1045,6 +1047,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Zjistit více
 browsing-group =
     .label = Prohlížení
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Přístupnost
 preferences-default-zoom-select =
@@ -1167,6 +1172,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Rozšíření ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Vlastní domovskou stránku
 home-custom-homepage-subpage =
     .heading = Vlastní domovskou stránku
@@ -1182,6 +1190,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Uložené nebo navštěvované stránky
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorované zkratky
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Doporučení ze služby { $provider }
 home-prefs-recommended-by-description-new = Výjimečný obsah vybraný společností { $provider }, která je součástí rodiny { -brand-product-name(case: "gen") }
@@ -1516,6 +1527,11 @@ sync-signedin-login-failure = Pro opětovné připojení účtem { $email } se p
 sync-signedin-login-failure2 =
     .description = Znovu se přihlaste, abyste se znovu připojili a začali synchronizovat svá data.
     .label = Jste odhlášeni z { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1806,6 +1822,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Zjistit více
 forms-windows-sso-desc = Účty můžete spravovat v nastavení svého zařízení
 windows-passkey-settings-label = Správa přístupových klíčů v nastavení systému
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Získejte pomoc s ochranou svých údajů na internetu v aplikaci { -brand-short-name }.
     .label = Nastavení panelu ochrany osobních údajů
@@ -2265,6 +2284,9 @@ content-blocking-fingerprinters = Vytváření otisku prohlížeče
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Známé a předpokládané vytváření otisku prohlížeče
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana před cookies omezuje cookies na web, na němž se nacházíte, aby vás sledující subjekty nemohly sledovat napříč stránkami.
 content-blocking-etp-standard-tcp-rollout-learn-more = Zjistit více
