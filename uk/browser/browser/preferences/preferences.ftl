@@ -1815,6 +1815,8 @@ history-custom-button =
     .label = Оберіть, що { -brand-short-name } має пам'ятати
 history-group =
     .label = Історія
+history-mode-radio-group =
+    .aria-label = Історія
 history-remember-option-all2 =
     .label = Пам'ятати історію
 
