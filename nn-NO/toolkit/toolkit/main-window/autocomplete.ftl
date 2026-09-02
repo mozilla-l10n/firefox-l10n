@@ -22,3 +22,15 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Les meir
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = Fleire handlingar
+autocomplete-edit-password = Rediger dette passordet
+autocomplete-delete-password = Slett dette passordet
+autocomplete-edit-address = Rediger denne adressa
+autocomplete-delete-address = Slett denne adressa
+autocomplete-edit-payment-method = Rediger denne betalingsmåten
+autocomplete-delete-payment-method = Slett denne betalingsmåten

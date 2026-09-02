@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = KI-chatbot
 menu-view-contextual-password-manager =
     .label = Passord
+menu-view-resource-monitor =
+    .label = Ressursovervaking
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Tilpass sidestolpen
 sidebar-menu-contextual-password-manager-label =
     .label = Passord
+sidebar-menu-resource-monitor-label =
+    .label = Ressursovervaking
 sidebar-menu-more-tools-label =
     .label = Fleire verktøy
 

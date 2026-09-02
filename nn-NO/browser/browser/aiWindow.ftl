@@ -364,3 +364,13 @@ aiwindow-starter-planning-plan = Hjelp til med å lage ein plan
 aiwindow-starter-browsing-history = Finn faner i historikk
 aiwindow-starter-browsing-summarize = Oppsummer faner
 aiwindow-starter-browsing-compare = Samanlikn faner
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Rull tilbake
+    .tooltiptext = Rull tilbake
+aiwindow-starter-scroll-end =
+    .aria-label = Rull framover
+    .tooltiptext = Rull framover
