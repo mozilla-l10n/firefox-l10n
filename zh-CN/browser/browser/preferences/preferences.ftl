@@ -898,6 +898,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 详细了解
 browsing-group =
     .label = 浏览
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = 无障碍
 preferences-default-zoom-select =
@@ -1016,6 +1019,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = 扩展（{ $extension }）
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = 自定义主页
 home-custom-homepage-subpage =
     .heading = 自定义主页
@@ -1031,6 +1037,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = 您保存或访问过的网站
 home-prefs-shortcuts-by-option-sponsored =
     .label = 赞助商网站
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = { $provider } 推荐
 home-prefs-recommended-by-description-new = 由 { -brand-product-name } 旗下 { $provider } 策划的特别内容
@@ -1322,6 +1331,11 @@ sync-signedin-login-failure = 请登录以重新绑定 { $email }
 sync-signedin-login-failure2 =
     .description = 再次登录以重新连接并开始同步您的数据。
     .label = 您已退出登录 { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1612,6 +1626,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 详细了解
 forms-windows-sso-desc = 在您的设备设置中管理账户
 windows-passkey-settings-label = 在系统设置中管理通行密钥
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = { -brand-short-name } 可帮助您在上网时保护个人信息。
     .label = 隐私面板设置
@@ -2043,6 +2060,9 @@ content-blocking-fingerprinters = 数字指纹跟踪程序
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = 已知的和存疑的数字指纹跟踪程序
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = “全方位 Cookie 保护”能够完全隔离每个网站的 Cookie，阻止跟踪器借其跨站跟踪您。
 content-blocking-etp-standard-tcp-rollout-learn-more = 详细了解
@@ -2417,6 +2437,8 @@ preferences-doh-status-disabled = 关闭
 preferences-doh-status-not-active = 未启用（{ $reason }）
 preferences-doh-group-message = 安全 DNS 启用策略：
 preferences-doh-group-message2 = “基于 HTTPS 的 DNS”启用策略：
+preferences-doh-radio-group =
+    .aria-label = “基于 HTTPS 的 DNS”启用策略：
 preferences-doh-expand-section =
     .tooltiptext = 更多信息
 preferences-doh-setting-default =
