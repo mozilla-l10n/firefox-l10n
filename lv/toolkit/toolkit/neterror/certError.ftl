@@ -70,6 +70,14 @@ csp-xfo-blocked-long-desc = Lai aizsargātu jūsu drošību, { $hostname } neļa
 fp-certerror-return-to-previous-page-recommended-button-2 = Doties atpakaļ (ieteicams)
     .accesskey = D
 fp-certerror-return-to-previous-page-recommended-button = Doties atpakaļ (ieteicams)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } brīdina par šo vietni, jo { $hostname } sertifikāts ir atsaukts un vairs nav uzticams.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } brīdina par šo vietni, jo { $hostname } sertifikātu izdeva autoritāte, kas vairs nav uzticama.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kļūdas kods: { $error }
@@ -117,4 +125,11 @@ certerror-mitm-title = Programmatūra neļauj { -brand-short-name } droši izvei
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-body-title = Uzmanīgi! Kaut kas neizskatās pareizi.
+fp-certerror-why-site-dangerous = Kas liek šai vietnei izskatīties bīstamai?
 fp-certerror-what-can-you-do = Ko ar šo var iesākt?
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-intro = { -brand-short-name } noteica iespējami nopietnu drošības starpgadījumu ar <strong>{ $hostname }</strong>. Kāds, kas uzdodas par šo vietni, var mēģināt nozagt tādu informāciju kā maksājumu karšu datus, paroles vai e-pasta adreses.
