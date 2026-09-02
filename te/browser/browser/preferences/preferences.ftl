@@ -82,6 +82,17 @@ should-restart-ok = ఇప్పుడు { -brand-short-name } ను పున
 cancel-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = వెతుకుడు ఫలితాలు
@@ -353,6 +364,12 @@ update-in-progress-ok-button = విస్మరించు (&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = కొనసాగించు (&C)
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-get-help =
@@ -402,6 +419,9 @@ browsing-media-control-learn-more = ఇంకా తెలుసుకోండ�
 browsing-cfr-recommendations-learn-more = ఇంకా తెలుసుకోండి
 browsing-group =
     .label = విహారణ
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -457,10 +477,16 @@ home-homepage-title =
 home-homepage-new-tabs =
     .label = కొత్త ట్యాబు
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = జాల వెతుకులాట
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = { $provider }చే సిఫార్సు చేయబడినది
 
@@ -564,6 +590,9 @@ containers-settings-button =
 containers-remove-button =
     .label = తొలగించు
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -599,6 +628,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } నిర్థారించబడలేదు.
 sync-signedin-login-failure = మళ్ళీ అనుసంధానించడానికి సైన్ ఇన్ అవ్వండి { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in-display-name =
     .description = { $email }
     .label = { $name }
@@ -770,6 +804,9 @@ forms-primary-pw-change =
 forms-master-pw-fips-desc = సంకేతపదం మార్పు విఫలమైంది
 forms-windows-sso-learn-more-link = ఇంకా తెలుసుకోండి
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
@@ -840,6 +877,8 @@ history-header2 =
     .heading = చరిత్ర
 history-group =
     .label = చరిత్ర
+history-mode-radio-group =
+    .aria-label = చరిత్ర
 
 ## Privacy Section - Site Data
 
@@ -876,6 +915,9 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = కుకీలు, సైటు డేటా
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -931,6 +973,9 @@ content-blocking-all-cookies = అన్ని కుకీలు
 content-blocking-unvisited-cookies = చూడని సైట్ల నుండి కుకీలు
 content-blocking-cryptominers = క్రిప్టోమైనర్లు
 content-blocking-fingerprinters = ఫింగర్‌ప్రింటర్లు
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-etp-standard-tcp-rollout-learn-more = ఇంకా తెలుసుకోండి
 content-blocking-warning-title = గమనిక!
 content-blocking-warning-learn-how = ఎలానో తెలుసుకోండి
@@ -1045,6 +1090,9 @@ collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగ
 data-collection-studies-link =
     .label = { -brand-short-name } అథ్యయనాలను చూడండి
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1093,11 +1141,17 @@ httpsonly-radio-disabled =
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = స్థితి: { $status }
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = డెస్కుటాప్
 downloads-folder-name = దింపుకోళ్ళు
 choose-download-folder-title = దింపుకోళ్ళ సంచయాన్ని తెరువు:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -1105,7 +1159,16 @@ preferences-ai-controls-block-confirmation-translations = అనువాదా�
 preferences-ai-controls-block-confirmation-cancel =
     .label = రద్దుచేయి
 
+## Privacy and security status card
+
+
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-status-advanced-button =
     .label = ఉన్నత అమరికలు
+
+## Warnings section
+
+
+## Referrals Section
+
