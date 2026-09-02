@@ -191,31 +191,31 @@ sidebar-syncedtabs-title = Tab dari perangkat lain
 synced-tabs-context-close-tab-title =
     .title = Tutup tab di { $deviceName }
 show-sidebars =
-    .tooltiptext = Tampilkan bilah samping
     .label = Bilah Samping
+    .tooltiptext = Tampilkan bilah samping
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Bentangkan bilah sisi ({ $shortcut })
     .label = Bilah Samping
+    .tooltiptext = Bentangkan bilah sisi ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Ciutkan bilah sisi ({ $shortcut })
     .label = Bilah Samping
+    .tooltiptext = Ciutkan bilah sisi ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Tampilkan bilah sisi ({ $shortcut })
     .label = Bilah Samping
+    .tooltiptext = Tampilkan bilah sisi ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Sembunyikan bilah samping ({ $shortcut })
     .label = Bilah Samping
+    .tooltiptext = Sembunyikan bilah samping ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

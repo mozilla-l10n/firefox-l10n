@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Поиск в { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Поиск в…
 aiwindow-input-cta-search-submenu-header = Поиск
 aiwindow-input-cta-stop-button =
-    .title = Остановить ответ
     .aria-label = Остановить генерацию ответа
+    .title = Остановить ответ
 
 ## Smartbar
 
@@ -223,7 +223,7 @@ aiwindow-fullpage-more =
 
 ## Sign out dialog
 
-fxa-signout-dialog-body-aiwindow = Синхронизированные данные останутся в вашем аккаунте. При открытии { -smart-window-brand-name(plural-form: "true", case: "genitive") } будет использоваться классическое окно.
+fxa-signout-dialog-body-aiwindow = Синхронизированные данные останутся в вашем аккаунте. При открытии { -smart-window-brand-name(case: "genitive", plural-form: "true") } будет использоваться классическое окно.
 
 ## Smart Window Toggle Button (in-page)
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Переключиться на { -smart-wi
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Чаты
     .aria-label = Чаты
+    .label = Чаты
     .tooltiptext = Чаты
 smartwindow-footer-history =
-    .label = Журнал
     .aria-label = Журнал
+    .label = Журнал
     .tooltiptext = Журнал
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = По мере использования {
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } чат
@@ -293,11 +289,11 @@ item-history-downloads-and-chat-description = Очищает историю са
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Выбрать всё
     .aria-label = Выбрать всё
+    .label = Выбрать всё
 smart-window-confirm-deselect-all =
-    .label = Снять выделение со всего
     .aria-label = Снять выделение со всего
+    .label = Снять выделение со всего
 smart-window-close-confirm =
     .aria-label = Отменить запрос и закрыть
     .tooltiptext = Отменить запрос и закрыть

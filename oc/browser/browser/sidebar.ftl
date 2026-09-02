@@ -120,5 +120,5 @@ sidebar-customize-title = Personalizar la barra laterala
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = Afichar los panèls laterals
     .label = Panèl lateral
+    .tooltiptext = Afichar los panèls laterals

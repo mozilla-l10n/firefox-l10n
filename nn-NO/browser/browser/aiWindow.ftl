@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Søk med { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Søk med…
 aiwindow-input-cta-search-submenu-header = Søk
 aiwindow-input-cta-stop-button =
-    .title = Stopp svar
     .aria-label = Stopp generering av svar
+    .title = Stopp svar
 
 ## Smartbar
 
@@ -174,11 +174,11 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .tooltiptext = Bruk minne i svar når det er nyttig
     .aria-label = Minne på
+    .tooltiptext = Bruk minne i svar når det er nyttig
 aiwindow-memories-off =
-    .tooltiptext = Ikkje bruk minne i svar
     .aria-label = Minne av
+    .tooltiptext = Ikkje bruk minne i svar
 
 ## New Chat Button
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Byt til { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Chattar
     .aria-label = Chattar
+    .label = Chattar
     .tooltiptext = Chattar
 smartwindow-footer-history =
-    .label = Historikk
     .aria-label = Historikk
+    .label = Historikk
     .tooltiptext = Historikk
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Etter kvart som du brukar { -smart-window-
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } chatt
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Slettar historikk for nettstadar, 
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Merk alle
     .aria-label = Merk alle
+    .label = Merk alle
 smart-window-confirm-deselect-all =
-    .label = Avmerk alle
     .aria-label = Avmerk alle
+    .label = Avmerk alle
 smart-window-close-confirm =
     .aria-label = Avbryt førespurnad og lat att
     .tooltiptext = Avbryt førespurnad og lat att

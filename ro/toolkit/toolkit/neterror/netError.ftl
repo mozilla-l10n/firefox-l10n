@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Caută <strong>„{ $query }”</strong>
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Caută
-    .accesskey = S
     .tooltiptext = Deschide rezultatele căutării într-o filă nouă
+    .accesskey = S
 neterror-search-cta-reload-button =
     .label = Reîncarcă
     .accesskey = R

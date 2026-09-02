@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Mit { $searchEngineName } suchen
 aiwindow-input-cta-menu-label-search-with = Suchen mit…
 aiwindow-input-cta-search-submenu-header = Suchen
 aiwindow-input-cta-stop-button =
-    .title = Stoppen der Antworten
     .aria-label = Stoppen Sie die Antworterzeugung
+    .title = Stoppen der Antworten
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Zu einem { -smart-window-brand-name(form: "
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Chats
     .aria-label = Chats
+    .label = Chats
     .tooltiptext = Chats
 smartwindow-footer-history =
-    .label = Chronik
     .aria-label = Chronik
+    .label = Chronik
     .tooltiptext = Chronik
 
 ## Disclaimer
@@ -263,7 +263,7 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Heute - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Gestern - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Message displayed in Firefox View when the user has no chat data
 
@@ -271,10 +271,6 @@ firefoxview-chats-empty-header = Kehren Sie zu Ihren Chats zurück
 firefoxview-chats-empty-description = Während Sie { -smart-window-brand-name(form: "lowercase-plural-accusative") } verwenden, werden Ihre Chats hier gespeichert.
 
 ## Count displayed in fxview chat search results
-
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
 
 firefoxview-search-chat-results-count =
     { $count ->
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Löscht die Website-, Download- un
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Alles auswählen
     .aria-label = Alles auswählen
+    .label = Alles auswählen
 smart-window-confirm-deselect-all =
-    .label = Alles abwählen
     .aria-label = Alles abwählen
+    .label = Alles abwählen
 smart-window-close-confirm =
     .aria-label = Anfrage abbrechen und schließen
     .tooltiptext = Anfrage abbrechen und schließen

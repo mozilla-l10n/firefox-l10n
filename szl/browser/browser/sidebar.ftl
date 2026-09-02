@@ -6,5 +6,5 @@
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = Pokoż lajsty na rancie
     .label = Lajsty na rancie
+    .tooltiptext = Pokoż lajsty na rancie

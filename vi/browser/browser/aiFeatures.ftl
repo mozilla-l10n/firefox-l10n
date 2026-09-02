@@ -8,8 +8,8 @@ smart-window-block-description-both = Thao tác này sẽ xóa các cuộc trò 
 smart-window-block-description-chats = Thao tác này sẽ xóa các cuộc trò chuyện của bạn trên { -smart-window-brand-name }.
 smart-window-block-description-memories = Thao tác này sẽ xóa ký ức của bạn trên { -smart-window-brand-name }.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Đặt câu hỏi, so sánh các trang và nhận gợi ý cá nhân hóa với trợ lý tích hợp sẵn.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Cài đặt mặc định
 ai-window-is-default-window =
-    .label = Sử dụng { -smart-window-brand-name } theo mặc định
     .description = Mở { -smart-window-brand-name } khi { -brand-short-name } khởi chạy, khởi động lại hoặc mở các liên kết từ các ứng dụng khác.
+    .label = Sử dụng { -smart-window-brand-name } theo mặc định
 ai-window-open-sidebar =
-    .label = Tự động mở trợ lý
     .description = Hiển thị thanh trợ lý trên mỗi thẻ mới. Có thể đóng bất cứ lúc nào.
+    .label = Tự động mở trợ lý
 ai-window-smart-cursor-in-smart-window =
-    .label = Hiển thị lối tắt khi chọn văn bản
     .description = Truy cập nhanh chóng để tóm tắt, giải thích và nhiều hơn nữa.
+    .label = Hiển thị lối tắt khi chọn văn bản
 smart-window-model-section =
-    .label = Mô hình của trợ lý
     .description = Hãy chọn một mô hình dựa trên những gì quan trọng đối với bạn.
+    .label = Mô hình của trợ lý
 smart-window-model-radio-group =
     .aria-label = Mô hình của trợ lý
 smart-window-model-learn-link = Tìm hiểu thêm về mô hình
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Tìm hiểu thêm về mô hình
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Mô hình { $model } bởi { $ownerName }
     .label = Nhanh: Trả lời nhanh
-    .description = Mô hình { $model } bởi { $ownerName }
 smart-window-model-flexible =
+    .description = Mô hình { $model } bởi { $ownerName }
     .label = Linh hoạt: Phù hợp với hầu hết các nhu cầu
-    .description = Mô hình { $model } bởi { $ownerName }
 smart-window-model-personal =
-    .label = Cá nhân: Câu trả lời được cá nhân hóa nhất
     .description = Mô hình { $model } bởi { $ownerName }
+    .label = Cá nhân: Câu trả lời được cá nhân hóa nhất
 smart-window-model-custom =
     .label = Tùy chỉnh: Sử dụng LLM của riêng bạn
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Lưu
 smart-window-model-custom-save-confirmation = Thông tin chi tiết về mô hình sản phẩm đã được lưu. Bắt đầu một cuộc trò chuyện mới để thử.
 ai-window-memories-section =
-    .label = Ký ức
     .description = { -brand-short-name } có thể học hỏi từ hoạt động của bạn để tạo ra những ký ức. Những ký ức này được sử dụng để giúp cá nhân hóa phản hồi và được lưu trữ cục bộ trên thiết bị này.
+    .label = Ký ức
 ai-window-learn-from-chat-activity =
     .label = Học từ trò chuyện trong { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Quản lý ký ức
 ai-window-manage-memories-header =
-    .heading = Quản lý ký ức
     .description = Các ký ức được lưu trữ cục bộ trên thiết bị này để giúp bảo vệ quyền riêng tư của bạn. Chúng được làm mới vài lần mỗi ngày trong khi bạn sử dụng. { -smart-window-brand-name }, vì vậy, những diễn biến gần đây có thể cần thời gian để có thể tìm lại.
+    .heading = Quản lý ký ức
 ai-window-no-memories =
-    .label = Chưa có ký ức nào
     .description = Khi { -smart-window-brand-name } học hỏi từ hoạt động của bạn, bạn sẽ thấy các ký ức ở đây.
+    .label = Chưa có ký ức nào
 ai-window-no-memories-learning-off =
-    .label = Không có ký ức nào để xem
     .description = Chức năng học hỏi từ hoạt động đã tắt, vì vậy { -smart-window-brand-name } không tạo ra ký ức.
+    .label = Không có ký ức nào để xem
 ai-window-delete-all-memories-button =
     .label = Xoá tất cả
 ai-window-delete-all-memories-title = Xoá tất cả ký ức?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Hủy bỏ
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Xóa ký ức
     .aria-label = Xóa { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Xóa ký ức
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Nhanh
     .description = Phù hợp nhất để có câu trả lời nhanh khi tốc độ là yếu tố quan trọng. Tên đầy đủ: { $model } bởi { $ownerName }
+    .label = { $shortName }: Nhanh
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Linh hoạt
     .description = Sẵn sàng cho nhiều tác vụ khác nhau. Tên đầy đủ: { $model } bởi { $ownerName }
+    .label = { $shortName }: Linh hoạt
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Cá nhân hoá
     .description = Được xây dựng để hỗ trợ cá nhân hóa trên nhiều ngôn ngữ. Tên đầy đủ: { $model } bởi { $ownerName }
+    .label = { $shortName }: Cá nhân hoá

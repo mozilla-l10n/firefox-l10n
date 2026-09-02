@@ -906,9 +906,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Daha fazla bilgi al
 browsing-group =
     .label = Gezinti
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Erişilebilirlik
 preferences-default-zoom-select =
@@ -1027,9 +1024,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Uzantı ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Özel giriş sayfası
 home-custom-homepage-subpage =
     .heading = Özel giriş sayfası
@@ -1045,9 +1039,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorlu kısayollar
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } öneriyor
 home-prefs-recommended-by-description-new = { -brand-product-name } ailesinin bir parçası olan { $provider }’ın seçtiği harika içerikler
@@ -1361,11 +1352,6 @@ sync-signedin-login-failure = Yeniden { $email } hesabınıza bağlanmak için l
 sync-signedin-login-failure2 =
     .description = Yeniden bağlanıp verilerinizi eşitlemeye başlamak için tekrar giriş yapın.
     .label = { $email } hesabından çıkış yaptınız
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1656,9 +1642,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Daha fazla bilgi al
 forms-windows-sso-desc = Hesapları cihaz ayarlarınızdan yönetebilirsiniz
 windows-passkey-settings-label = Geçiş anahtarlarını sistem ayarlarından yönetebilirsiniz
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = İnternette bilgilerinizi koruma konusunda { -brand-short-name } size destek olabilir.
     .label = Gizlilik paneli ayarları
@@ -2092,9 +2075,6 @@ content-blocking-fingerprinters = Parmak izi toplayıcılar
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Bilinen ve şüpheli parmak izi toplayıcılar
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Komple çerez koruması, çerezleri sadece bulunduğunuz sitenin kullanabileceği şekilde sınırlar. Bu sayede çerezler hangi sitelerde gezindiğinizi izlemek için kullanılamaz.
 content-blocking-etp-standard-tcp-rollout-learn-more = Daha fazla bilgi al

@@ -274,31 +274,31 @@ sidebar-bookmarks-title = Legosignoj
 synced-tabs-context-close-tab-title =
     .title = Fermi langeton en { $deviceName }
 show-sidebars =
-    .tooltiptext = Montri flankajn striojn
     .label = Flankaj strioj
+    .tooltiptext = Montri flankajn striojn
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Malfaldi flankan strion ({ $shortcut })
     .label = Flankaj strioj
+    .tooltiptext = Malfaldi flankan strion ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Faldi flankan strion ({ $shortcut })
     .label = Flankaj strioj
+    .tooltiptext = Faldi flankan strion ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Montri flankan strion ({ $shortcut })
     .label = Flankaj strioj
+    .tooltiptext = Montri flankan strion ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Kaŝi flankan strion ({ $shortcut })
     .label = Flankaj strioj
+    .tooltiptext = Kaŝi flankan strion ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

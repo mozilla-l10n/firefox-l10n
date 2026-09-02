@@ -427,15 +427,6 @@ update-in-progress-ok-button = &ຍົກເລີກ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ສືບຕໍ່
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = ປະສິດທິພາບ
@@ -494,9 +485,6 @@ browsing-cfr-recommendations-learn-more = ຮຽນຮູ້ເພີ່ມເ�
 browsing-group =
     .label = ການທ່ອງເວັບ
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = ຕັ້ງຄ່າເຄື່ອຂ່າຍ
@@ -549,9 +537,6 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = ແທັບໃຫມ່
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ເນື້ອໃນ
@@ -563,9 +548,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
 home-prefs-shortcuts-by-option-sponsored =
     .label = ທາງລັດສະປອນເຊີ
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = ແນະນຳໂດຍ { $provider }
 home-prefs-recommended-by-description-new = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { $provider }, ສ່ວນໜຶ່ງຂອງຄອບຄົວ { -brand-product-name }
@@ -731,11 +713,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ຍັງບໍ່ທັນຖືກກວດສອບ.
 sync-signedin-login-failure = ກະລຸນາລົງຊື່ເຂົ້າໃຊ້ເພື່ອເຊື່ອມຕໍ່ { $email } ໃຫມ່
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -909,9 +886,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 forms-windows-sso-desc = ຈັດການບັນຊີໃນການຕັ້ງຄ່າອຸປະກອນຂອງທ່ານ
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -922,9 +896,6 @@ primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະ�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -1100,9 +1071,6 @@ content-blocking-all-windows-tracking-content = ການຕິດຕາມເ�
 content-blocking-all-cross-site-cookies = ຄຸກກີຂ້າມເວັບໄຊທັງໝົດ
 content-blocking-cryptominers = ຕົວຂຸດຫລຽນດິຈິຕໍລ
 content-blocking-fingerprinters = ລາຍນິ້ວມື
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ການປົກປ້ອງຄຸກກີທັງໝົດມີຄຸກກີ້ໄປຫາເວັບໄຊທີ່ເຈົ້າຢູ່ໃນ, ດັ່ງນັ້ນຜູ້ຕິດຕາມບໍ່ສາມາດໃຊ້ພວກມັນເພື່ອຕິດຕາມເຈົ້າລະຫວ່າງເວັບໄຊໄດ້.
 content-blocking-etp-standard-tcp-rollout-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
@@ -1234,9 +1202,6 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = ເບິ່ງການສຶກສາຂອງ { -brand-short-name }
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1342,29 +1307,8 @@ preferences-doh-manage-exceptions =
     .label = ຈັດການຂໍ້ຍົກເວັ້ນ...
     .accesskey = x
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ເດສກ໌ທັອບ
 downloads-folder-name = ດາວໂຫລດ
 choose-download-folder-title = ເລືອກໂຟນເດີດາວໂຫລດ:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

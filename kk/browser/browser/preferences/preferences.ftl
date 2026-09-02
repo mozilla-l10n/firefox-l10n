@@ -904,9 +904,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Көбірек білу
 browsing-group =
     .label = Сайттарды қарау
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Қолжетімділік
 preferences-default-zoom-select =
@@ -1025,9 +1022,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Кеңейту ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Арнайы басты бет
 home-custom-homepage-subpage =
     .heading = Арнайы басты бет
@@ -1043,9 +1037,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Сіз сақтайтын немесе шолатын сайттар
 home-prefs-shortcuts-by-option-sponsored =
     .label = Демеушілік жарлықтары
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Ұсынушы { $provider }
 home-prefs-recommended-by-description-new = { -brand-product-name } отбасының мүшесі болып табылатын, { $provider } жетекшілік ететін тамаша құрама
@@ -1359,11 +1350,6 @@ sync-signedin-login-failure = Байланысты қайта орнатуға �
 sync-signedin-login-failure2 =
     .description = Байланысты қалпына келтіріп, деректерді синхрондау үшін қайта кіріңіз.
     .label = Сіз { $email } ішінен шықтыңыз
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1654,9 +1640,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Көбірек білу
 forms-windows-sso-desc = Тіркелгілерді құрылғыңыздың баптауларында басқарыңыз
 windows-passkey-settings-label = Қол жеткізу кілттерін жүйе баптауларында басқару
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = { -brand-short-name } ішінде жеке ақпаратыңызды желіде қорғау бойынша көмек алыңыз.
     .label = Жекелік панель баптаулары
@@ -2090,9 +2073,6 @@ content-blocking-fingerprinters = Баспаны жинаушылар
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Белгілі және күмәнді саусақ іздері
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Cookie файлдарынан толық қорғау сіз шолып отырған сайттың cookie файлдарын шектейді, сондықтан трекерлер оларды сайттар арасында сізді бақылап отыру үшін пайдалана алмайды.
 content-blocking-etp-standard-tcp-rollout-learn-more = Көбірек білу

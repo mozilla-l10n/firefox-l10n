@@ -907,9 +907,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saznaj više
 browsing-group =
     .label = Pregledavanje
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Pristupačnost
 preferences-default-zoom-select =
@@ -1028,9 +1025,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Dodatak ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Prilagođena početna stranica
 home-custom-homepage-subpage =
     .heading = Prilagođena početna stranica
@@ -1046,9 +1040,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Stranice koje spremiš ili posjetiš
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorirani prečaci
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
 home-prefs-recommended-by-description-new = Izuzetan sadržaj kojeg odabire { $provider }, dio { -brand-product-name } obitelji
@@ -1345,11 +1336,6 @@ sync-signedin-login-failure = Prijavi se za ponovno povezivanje s { $email }
 sync-signedin-login-failure2 =
     .description = Ponovo se prijavi da opet počneš sinkronizirati svoje podatke.
     .label = Odjavljen/a si iz računa { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1640,9 +1626,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saznaj više
 forms-windows-sso-desc = Upravljaj računima u postavkama uređaja
 windows-passkey-settings-label = Upravljajte pristupnim ključevima u postavkama sustava
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Zatražite pomoć u zaštiti svojih podataka na mreži u { -brand-short-name }u.
     .label = Postavke ploče privatnosti
@@ -2076,9 +2059,6 @@ content-blocking-fingerprinters = Prikupljači digitalnih otisaka
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Poznati i sumnjivi prikupljač digitalnih otisaka
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Potpuna zaštita kolačića izolira kolačiće na stranicu koja ih je postavila, tako da ih programi za praćenje ne mogu koristiti da te prate po stranicama koje posjećuješ.
 content-blocking-etp-standard-tcp-rollout-learn-more = Saznaj više
@@ -2542,17 +2522,11 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS preko HTTPS-a
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Radna površina
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite mapu za preuzimanja:
-
-## Appearance page
-
 
 ## AI controls page
 

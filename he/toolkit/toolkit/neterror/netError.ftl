@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = לחפש באינטרנט אחר <strong
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = חיפוש
-    .accesskey = ח
     .tooltiptext = פותח תוצאות חיפוש בלשונית חדשה
+    .accesskey = ח
 neterror-search-cta-reload-button =
     .label = טעינה מחדש
     .accesskey = ט

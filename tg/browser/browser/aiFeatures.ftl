@@ -8,8 +8,8 @@ smart-window-block-description-both = Ин амал суҳбатҳо ва ёдд
 smart-window-block-description-chats = Ин амал суҳбатҳои шуморо дар «{ -smart-window-brand-name }» нест мекунад.
 smart-window-block-description-memories = Ин амал ёддоштҳои шуморо дар «{ -smart-window-brand-name }» нест мекунад.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Бо истифода аз ёвари дарунсохт савол диҳед, саҳифаҳоро муқоиса намоед ва пешниҳодҳои шахсисозишударо ба даст оред.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Танзимоти пешфарз
 ai-window-is-default-window =
-    .label = Истифода аз «{ -smart-window-brand-name }» ба таври пешфарз
     .description = Ҳангоми оғоз ё аз нав оғоз кардани «{ -brand-short-name }», ё кушодани пайвандҳо аз барномаҳои дигар, «{ -smart-window-brand-name }»-ро кушоед.
+    .label = Истифода аз «{ -smart-window-brand-name }» ба таври пешфарз
 ai-window-open-sidebar =
-    .label = Кушодани ёвар ба таври худкор
     .description = Навори ҷонибии ёварро дар ҳар як варақаи нав нишон диҳед. Шумо метавонед онро дар вақти дилхоҳ пӯшед.
+    .label = Кушодани ёвар ба таври худкор
 ai-window-smart-cursor-in-smart-window =
-    .label = Нишон додани миёнбурҳо ҳангоми интихоби матн
     .description = Пайдо кардани дастрасии зуд ба фармонҳои «Баровардани хулоса», «Шарҳ додан» ва ғайра.
+    .label = Нишон додани миёнбурҳо ҳангоми интихоби матн
 smart-window-model-section =
-    .label = Модели ёвари зеҳни сунъӣ
     .description = Дар асоси он чизе, ки барои шумо муҳим аст, модели марбутро интихоб намоед.
+    .label = Модели ёвари зеҳни сунъӣ
 smart-window-model-radio-group =
     .aria-label = Модели ёвари зеҳни сунъӣ
 smart-window-model-learn-link = Маълумоти бештар дар бораи моделҳо
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Маълумоти бештар дар бора�
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Модели «{ $model }» аз ҷониби «{ $ownerName }»
     .label = Зудамал: Ҷавобҳои зудро пешниҳод мекунад
-    .description = Модели «{ $model }» аз ҷониби «{ $ownerName }»
 smart-window-model-flexible =
+    .description = Модели «{ $model }» аз ҷониби «{ $ownerName }»
     .label = Чандир: Мутобиқати устувор барои аксари ниёзҳо
-    .description = Модели «{ $model }» аз ҷониби «{ $ownerName }»
 smart-window-model-personal =
-    .label = Шахсӣ: Ҷавобҳои аз ҳама мувофиқтар
     .description = Модели «{ $model }» аз ҷониби «{ $ownerName }»
+    .label = Шахсӣ: Ҷавобҳои аз ҳама мувофиқтар
 smart-window-model-custom =
     .label = Фармоишӣ: Аз «LLM»-и худ истифода баред
 smart-window-model-custom-name =
@@ -76,11 +76,5 @@ ai-window-delete-all-memories-cancel = Бекор кардан
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Нест кардани ёддошт
     .aria-label = Нест кардани «{ $label }»
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Нест кардани ёддошт

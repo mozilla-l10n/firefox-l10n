@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = { $searchEngineName } 검색
 aiwindow-input-cta-menu-label-search-with = 다음으로 검색...
 aiwindow-input-cta-search-submenu-header = 검색
 aiwindow-input-cta-stop-button =
-    .title = 응답 중지
     .aria-label = 응답 생성 중지
+    .title = 응답 중지
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = { -smart-window-brand-name }로 전환
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = 채팅
     .aria-label = 채팅
+    .label = 채팅
     .tooltiptext = 채팅
 smartwindow-footer-history =
-    .label = 기록
     .aria-label = 기록
+    .label = 기록
     .tooltiptext = 기록
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = { -smart-window-brand-name }를 사용함�
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count = 채팅 { $count }개
 
 ## Clear browsing data dialog
@@ -288,11 +284,11 @@ item-history-downloads-and-chat-description = 사이트, 다운로드 및 채팅
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = 모두 선택
     .aria-label = 모두 선택
+    .label = 모두 선택
 smart-window-confirm-deselect-all =
-    .label = 모두 선택 해제
     .aria-label = 모두 선택 해제
+    .label = 모두 선택 해제
 smart-window-close-confirm =
     .aria-label = 요청을 취소하고 닫기
     .tooltiptext = 요청을 취소하고 닫기

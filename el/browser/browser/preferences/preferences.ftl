@@ -906,9 +906,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Μάθετε περισσότερα
 browsing-group =
     .label = Περιήγηση
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Προσβασιμότητα
 preferences-default-zoom-select =
@@ -1027,9 +1024,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Επέκταση ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Προσαρμοσμένη αρχική σελίδα
 home-custom-homepage-subpage =
     .heading = Προσαρμοσμένη αρχική σελίδα
@@ -1045,9 +1039,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Ιστότοποι από σελιδοδείκτες ή ιστορικό
 home-prefs-shortcuts-by-option-sponsored =
     .label = Χορηγούμενες συντομεύσεις
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Προτάσεις του { $provider }
 home-prefs-recommended-by-description-new = Εξαιρετικό περιεχόμενο από το { $provider }, μέρος της οικογένειας του { -brand-product-name }
@@ -1361,11 +1352,6 @@ sync-signedin-login-failure = Συνδεθείτε ξανά για επανασ�
 sync-signedin-login-failure2 =
     .description = Συνδεθείτε ξανά για να ξεκινήσετε τον συγχρονισμό των δεδομένων σας.
     .label = Έχετε αποσυνδεθεί από το { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1656,9 +1642,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Μάθετε περισσότερα
 forms-windows-sso-desc = Διαχειριστείτε τους λογαριασμούς σας στις ρυθμίσεις συσκευής
 windows-passkey-settings-label = Διαχείριση κλειδιών πρόσβασης στις ρυθμίσεις συστήματος
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Λάβετε βοήθεια με την προστασία των πληροφοριών σας στο { -brand-short-name }.
     .label = Ρυθμίσεις πίνακα απορρήτου
@@ -2092,9 +2075,6 @@ content-blocking-fingerprinters = Fingerprinter
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Γνωστά και πιθανά fingerprinter
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Η Ολική προστασία cookie περιορίζει τα cookie στον ιστότοπο που βρίσκεστε, ώστε να μην μπορούν να χρησιμοποιηθούν από ιχνηλάτες για την καταγραφή της δραστηριότητάς σας.
 content-blocking-etp-standard-tcp-rollout-learn-more = Μάθετε περισσότερα

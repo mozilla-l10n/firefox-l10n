@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Marcaje
 synced-tabs-context-close-tab-title =
     .title = Închide fila pe { $deviceName }
 show-sidebars =
-    .tooltiptext = Afișează barele laterale
     .label = Bare laterale
+    .tooltiptext = Afișează barele laterale
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Extinde bara laterală ({ $shortcut })
     .label = Bare laterale
+    .tooltiptext = Extinde bara laterală ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Restrânge bara laterală ({ $shortcut })
     .label = Bare laterale
+    .tooltiptext = Restrânge bara laterală ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Afișează bara laterală ({ $shortcut })
     .label = Bare laterale
+    .tooltiptext = Afișează bara laterală ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Ascunde bara laterală ({ $shortcut })
     .label = Bare laterale
+    .tooltiptext = Ascunde bara laterală ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

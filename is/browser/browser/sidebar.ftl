@@ -186,31 +186,31 @@ sidebar-syncedtabs-title = Flipar frá öðrum tækjum
 synced-tabs-context-close-tab-title =
     .title = Loka flipa á { $deviceName }
 show-sidebars =
-    .tooltiptext = Sýna hliðarstikur
     .label = Hliðarstika
+    .tooltiptext = Sýna hliðarstikur
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Fella út hliðarstikuna ({ $shortcut })
     .label = Hliðarslá
+    .tooltiptext = Fella út hliðarstikuna ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Fella saman hliðarstikuna ({ $shortcut })
     .label = Hliðarslá
+    .tooltiptext = Fella saman hliðarstikuna ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Sýna hliðarstiku ({ $shortcut })
     .label = Hliðarslá
+    .tooltiptext = Sýna hliðarstiku ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Fela hliðarstiku ({ $shortcut })
     .label = Hliðarslá
+    .tooltiptext = Fela hliðarstiku ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

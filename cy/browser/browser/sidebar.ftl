@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Nodau Tudalen
 synced-tabs-context-close-tab-title =
     .title = Cau tab ar { $deviceName }
 show-sidebars =
-    .tooltiptext = Dangos barau ochr
     .label = Barrau Ochr
+    .tooltiptext = Dangos barau ochr
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Ehangu'r bar ochr ({ $shortcut })
     .label = Barrau Ochr
+    .tooltiptext = Ehangu'r bar ochr ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Cau'r bar ochr ({ $shortcut })
     .label = Barrau Ochr
+    .tooltiptext = Cau'r bar ochr ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Dangos y bar ochr ({ $shortcut })
     .label = Barrau Ochr
+    .tooltiptext = Dangos y bar ochr ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Cuddio'r bar ochr ({ $shortcut })
     .label = Barrau Ochr
+    .tooltiptext = Cuddio'r bar ochr ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

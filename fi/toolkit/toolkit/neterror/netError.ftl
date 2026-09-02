@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Hae verkosta <strong>“{ $query }”</s
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Hae
-    .accesskey = H
     .tooltiptext = Avaa hakutulokset uuteen välilehteen
+    .accesskey = H
 neterror-search-cta-reload-button =
     .label = Päivitä
     .accesskey = P

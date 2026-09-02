@@ -97,12 +97,6 @@ ai-window-delete-all-memories-cancel = Скасаваць
 ai-window-memory-delete-button =
     .aria-label = Выдаліць { $label }
     .title = Выдаліць успамін
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
 smart-window-model-fast-v2 =
     .description = Найлепшы варыянт для шпаркіх адказаў, калі хуткасць мае значэнне. Поўная назва: { $model } ад { $ownerName }
     .label = { $shortName }: хуткая

@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Закладкі
 synced-tabs-context-close-tab-title =
     .title = Закрыць картку на { $deviceName }
 show-sidebars =
-    .tooltiptext = Паказаць бакавыя панэлі
     .label = Бакавыя панэлі
+    .tooltiptext = Паказаць бакавыя панэлі
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Разгарнуць бакавую панэль ({ $shortcut })
     .label = Бакавыя панэлі
+    .tooltiptext = Разгарнуць бакавую панэль ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Згарнуць бакавую панэль ({ $shortcut })
     .label = Бакавыя панэлі
+    .tooltiptext = Згарнуць бакавую панэль ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Паказаць бакавую панэль ({ $shortcut })
     .label = Бакавыя панэлі
+    .tooltiptext = Паказаць бакавую панэль ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Схаваць бакавую панэль ({ $shortcut })
     .label = Бакавыя панэлі
+    .tooltiptext = Схаваць бакавую панэль ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

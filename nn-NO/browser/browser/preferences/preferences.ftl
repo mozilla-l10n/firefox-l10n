@@ -906,9 +906,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Les meir
 browsing-group =
     .label = Nettlesing
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Tilgjengelegheit
 preferences-default-zoom-select =
@@ -1027,9 +1024,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Utviding ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Tilpassa startside
 home-custom-homepage-subpage =
     .heading = Tilpassa startside
@@ -1045,9 +1039,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Nettstadar du lagrar eller besøkjer
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsa hurtigtastar
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Tilrådd av { $provider }
 home-prefs-recommended-by-description-new = Eksepsjonelt innhald sett saman av { $provider }, ein del av { -brand-product-name }-familien
@@ -1361,11 +1352,6 @@ sync-signedin-login-failure = Logg inn for å kople til på nytt { $email }
 sync-signedin-login-failure2 =
     .description = Logg inn igjen for å kople til på nytt og byrje å synkronisere dataa dine.
     .label = Du er logga ut av { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1656,9 +1642,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Les meir
 forms-windows-sso-desc = Handsam konton i einingsinnstillingane dine
 windows-passkey-settings-label = Handsam passnøkkel i systeminnstillingane
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Få hjelp til å beskytte informasjonen din på nettet i { -brand-short-name }.
     .label = Innstillingar for personvernpanelet
@@ -2092,9 +2075,6 @@ content-blocking-fingerprinters = Nettlesaravtrykk
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Kjende og mistenkte nettlesaravtrykk
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totalt vern mot infokapslar isolerer infokapslar til nettstaden du er på, så sporarar ikkje kan bruke dei til å følgje deg mellom nettstadar.
 content-blocking-etp-standard-tcp-rollout-learn-more = Les meir

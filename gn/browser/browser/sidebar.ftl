@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Techaukahaita
 synced-tabs-context-close-tab-title =
     .title = Emboty tendayke { $deviceName }-pe
 show-sidebars =
-    .tooltiptext = Tenda yke jehechauka
     .label = Tenda yke
+    .tooltiptext = Tenda yke jehechauka
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Emyasãi tenda yke ({ $shortcut })
     .label = Tenda yke
+    .tooltiptext = Emyasãi tenda yke ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Ta’ãngarupa yke momichĩ ({ $shortcut })
     .label = Tenda yke
+    .tooltiptext = Ta’ãngarupa yke momichĩ ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Ehechauka tenda yke ({ $shortcut })
     .label = Tenda yke
+    .tooltiptext = Ehechauka tenda yke ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Eñomi tenda yke ({ $shortcut })
     .label = Tenda yke
+    .tooltiptext = Eñomi tenda yke ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

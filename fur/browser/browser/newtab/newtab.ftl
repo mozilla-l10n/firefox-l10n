@@ -152,63 +152,6 @@ home-prefs-support-firefox-header-srd =
     .label = Prudele { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Scuvierç cemût
 
-## Strings for the Privacy widget
-
-
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
-## Strings for the Stocks widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
-
-## Strings for the Picture of the Day widget
-
-
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
@@ -255,9 +198,6 @@ newtab-topsites-image-url-label = URL di imagjin personalizade
 newtab-topsites-use-custom-image-link = Dopre une imagjin personalizade
 newtab-topsites-use-image-link = Dopre une imagjin personalizade…
 newtab-topsites-image-validation = No si à rivât a cjariâ la imagjin. Prove cuntun URL diferent.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Nete test
 
@@ -286,9 +226,6 @@ newtab-topsite-sponsored = Sponsorizât
 topsite-label-pinned =
     .aria-label = { $title } (fissât)
     .title = { $title }
-
-## Top Sites - Web notifications hover card
-
 
 ## Context Menu - Action Tooltips.
 
@@ -580,9 +517,6 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Siere
 newtab-custom-settings = Gjestìs plui impostazions
 
-## New Tab Appearance (browser theme picker)
-
-
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -679,9 +613,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1078,9 +1009,6 @@ newtab-promo-card-cta = Plui informazions
 newtab-promo-card-dismiss-button =
     .aria-label = Scarte e siere
     .title = Siere
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1354,9 +1282,6 @@ newtab-sports-widget-message-day-in-play-title = Rint plui dinamiche la tô zorn
 newtab-sports-widget-message-day-in-play-body = Sta daûr de cope dal mont, reste concentrât, ten di voli de ore ator pal mont e tant altri.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Esplore i widgets
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

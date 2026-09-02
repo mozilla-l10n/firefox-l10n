@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Закладки
 synced-tabs-context-close-tab-title =
     .title = Закрыть вкладку на { $deviceName }
 show-sidebars =
-    .tooltiptext = Показать боковые панели
     .label = Боковые панели
+    .tooltiptext = Показать боковые панели
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Развернуть боковую панель ({ $shortcut })
     .label = Боковые панели
+    .tooltiptext = Развернуть боковую панель ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Свернуть боковую панель ({ $shortcut })
     .label = Боковые панели
+    .tooltiptext = Свернуть боковую панель ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Показать боковую панель ({ $shortcut })
     .label = Боковые панели
+    .tooltiptext = Показать боковую панель ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Скрыть боковую панель ({ $shortcut })
     .label = Боковые панели
+    .tooltiptext = Скрыть боковую панель ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Marque-pages
 synced-tabs-context-close-tab-title =
     .title = Fermer l’onglet sur { $deviceName }
 show-sidebars =
-    .tooltiptext = Afficher les panneaux latéraux
     .label = Panneaux latéraux
+    .tooltiptext = Afficher les panneaux latéraux
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Développer le panneau latéral ({ $shortcut })
     .label = Panneaux latéraux
+    .tooltiptext = Développer le panneau latéral ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Réduire le panneau latéral ({ $shortcut })
     .label = Panneaux latéraux
+    .tooltiptext = Réduire le panneau latéral ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Afficher le panneau latéral ({ $shortcut })
     .label = Panneaux latéraux
+    .tooltiptext = Afficher le panneau latéral ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Masquer le panneau latéral ({ $shortcut })
     .label = Panneaux latéraux
+    .tooltiptext = Masquer le panneau latéral ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

@@ -205,26 +205,26 @@ sidebar-opentabs-window-header =
 synced-tabs-context-close-tab-title =
     .title = Փակել ներդիրը { $deviceName }-ում
 show-sidebars =
-    .tooltiptext = Ցուցադրել կողագոտիները
     .label = Կողագոտիներ
+    .tooltiptext = Ցուցադրել կողագոտիները
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Ընդարձակել կողագոտին ({ $shortcut })
     .label = Կողագոտիներ
+    .tooltiptext = Ընդարձակել կողագոտին ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Ցուցադրել ({ $shortcut }) կողագոտին
     .label = Կողագոտիներ
+    .tooltiptext = Ցուցադրել ({ $shortcut }) կողագոտին
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Թաքցնել կողագոտին ({ $shortcut })
     .label = Կողագոտիներ
+    .tooltiptext = Թաքցնել կողագոտին ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

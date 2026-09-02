@@ -906,9 +906,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Argibide gehiago
 browsing-group =
     .label = Nabigatzea
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Erabilgarritasuna
 preferences-default-zoom-select =
@@ -1027,9 +1024,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Gehigarria ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Hasiera-orri pertsonalizatua
 home-custom-homepage-subpage =
     .heading = Hasiera-orri pertsonalizatua
@@ -1045,9 +1039,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Gordetzen edo bisitatzen dituzun guneak
 home-prefs-shortcuts-by-option-sponsored =
     .label = Babesleen lasterbideak
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } hornitzaileak gomendatuta
 home-prefs-recommended-by-description-new = { -brand-product-name } familiakide den { $provider }-eko taldeak hautatutako aparteko edukia.
@@ -1361,11 +1352,6 @@ sync-signedin-login-failure = Hasi saioa berriro konektatzeko { $email }
 sync-signedin-login-failure2 =
     .description = Hasi berriro saioa birkonektatzeko eta zure datuak sinkronizatzen hasteko.
     .label = { $email } saiotik kanpo zaude
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1656,9 +1642,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Argibide gehiago
 forms-windows-sso-desc = Kudeatu kontuak zure gailuaren ezarpenetan
 windows-passkey-settings-label = Kudeatu sarbide-gakoak sistemaren ezarpenetan
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Jaso laguntza lineako zure informazioa { -brand-short-name }(e)n babesteko.
     .label = Pribatutasun-panelaren ezarpenak
@@ -2092,9 +2075,6 @@ content-blocking-fingerprinters = Hatz-marka bidezko jarraipena egiten duten ele
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Ezagunak diren eta susmopeko hatz-marka bidezko jarraipena
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Cookien erabateko babesak zauden guneko cookieak ditu soilik, hortaz jarraipen-elementuek ezin dituzte erabili guneen arteko zure jarraipena egiteko.
 content-blocking-etp-standard-tcp-rollout-learn-more = Argibide gehiago

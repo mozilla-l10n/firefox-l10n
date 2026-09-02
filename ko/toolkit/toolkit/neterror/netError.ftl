@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = <strong>“{ $query }”</strong> 웹 �
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = 검색
-    .accesskey = S
     .tooltiptext = 새 탭에서 검색 결과를 엽니다
+    .accesskey = S
 neterror-search-cta-reload-button =
     .label = 새로 고침
     .accesskey = R

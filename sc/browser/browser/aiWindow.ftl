@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Chirca cun { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Chirca cun…
 aiwindow-input-cta-search-submenu-header = Chirca
 aiwindow-input-cta-stop-button =
-    .title = Firma sa risposta
     .aria-label = Firma sa generatzione de risposta
+    .title = Firma sa risposta
 
 ## Smartbar
 
@@ -206,12 +206,12 @@ smartwindow-switch-to-smart-window = Passa a sa modalidade { -smart-window-brand
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Tzarradas
     .aria-label = Tzarradas
+    .label = Tzarradas
     .tooltiptext = Tzarradas
 smartwindow-footer-history =
-    .label = Cronologia
     .aria-label = Cronologia
+    .label = Cronologia
     .tooltiptext = Cronologia
 
 ## Disclaimer
@@ -237,17 +237,13 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Oe - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Erisero - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Torra a is tzarradas
 
 ## Count displayed in fxview chat search results
-
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
 
 firefoxview-search-chat-results-count =
     { $count ->
@@ -265,11 +261,11 @@ item-history-downloads-and-chat-description = Cantzellat sa cronologia de is sit
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Seletziona totu
     .aria-label = Seletziona totu
+    .label = Seletziona totu
 smart-window-confirm-deselect-all =
-    .label = Boga sa seletzione
     .aria-label = Boga sa seletzione
+    .label = Boga sa seletzione
 smart-window-close-confirm =
     .aria-label = Annulla sa rechesta e serra
     .tooltiptext = Annulla sa rechesta e serra

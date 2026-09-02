@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Eheka ñandutípe <strong>“{ $query }�
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Eheka
-    .accesskey = S
     .tooltiptext = Embojuruja hekaha tendayke pyahúpe
+    .accesskey = S
 neterror-search-cta-reload-button =
     .label = Myanyhẽjey
     .accesskey = R

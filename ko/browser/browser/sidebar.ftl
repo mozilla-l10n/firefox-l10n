@@ -296,31 +296,31 @@ sidebar-bookmarks-title = 북마크
 synced-tabs-context-close-tab-title =
     .title = { $deviceName }의 탭 닫기
 show-sidebars =
-    .tooltiptext = 사이드바 표시
     .label = 사이드바
+    .tooltiptext = 사이드바 표시
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = 사이드바 펼치기 ({ $shortcut })
     .label = 사이드바
+    .tooltiptext = 사이드바 펼치기 ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = 사이드바 접기 ({ $shortcut })
     .label = 사이드바
+    .tooltiptext = 사이드바 접기 ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = 사이드바 표시 ({ $shortcut })
     .label = 사이드바
+    .tooltiptext = 사이드바 표시 ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = 사이드바 숨기기 ({ $shortcut })
     .label = 사이드바
+    .tooltiptext = 사이드바 숨기기 ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

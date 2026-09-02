@@ -6,5 +6,5 @@
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = બાજુપટ્ટીને બતાવો
     .label = બાજુપટ્ટી
+    .tooltiptext = બાજુપટ્ટીને બતાવો

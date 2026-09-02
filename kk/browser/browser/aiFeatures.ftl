@@ -8,8 +8,8 @@ smart-window-block-description-both = Бұл әрекет { -smart-window-brand-
 smart-window-block-description-chats = Бұл әрекет { -smart-window-brand-name } чаттарын өшіреді.
 smart-window-block-description-memories = Бұл әрекет { -smart-window-brand-name } жадын өшіреді.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Кірістірілген көмекшінің көмегімен сұрақтар қойыңыз, беттерді салыстырыңыз және жекелендірілген ұсыныстар алыңыз.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Бастапқы баптаулар
 ai-window-is-default-window =
-    .label = { -smart-window-brand-name } үнсіз келісім бойынша пайдалану
     .description = { -brand-short-name } іске қосылғанда, қайта іске қосылғанда немесе басқа қолданбалардан сілтемелер ашылғанда { -smart-window-brand-name } терезесін ашу.
+    .label = { -smart-window-brand-name } үнсіз келісім бойынша пайдалану
 ai-window-open-sidebar =
-    .label = Көмекшіні автоматты түрде ашу
     .description = Әрбір жаңа бетте көмекшінің бүйірлік панелін көрсету. Оны кез келген уақытта жаба аласыз.
+    .label = Көмекшіні автоматты түрде ашу
 ai-window-smart-cursor-in-smart-window =
-    .label = Мәтінді таңдаған кезде жарлықты көрсету
     .description = Қорытындылау, түсіндіру және т.б.-ға жылдам қол жеткізіңіз
+    .label = Мәтінді таңдаған кезде жарлықты көрсету
 smart-window-model-section =
-    .label = Көмекші моделі
     .description = Сіз үшін маңызды нәрселерге негізделген модельді таңдаңыз.
+    .label = Көмекші моделі
 smart-window-model-radio-group =
     .aria-label = Көмекші моделі
 smart-window-model-learn-link = Модельдер туралы білу
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Модельдер туралы білу
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = { $model } моделі, иесі: { $ownerName }
     .label = Жылдам: Жылдам жауап береді
-    .description = { $model } моделі, иесі: { $ownerName }
 smart-window-model-flexible =
+    .description = { $model } моделі, иесі: { $ownerName }
     .label = Икемді: Көптеген қажеттіліктерге толық сай келеді
-    .description = { $model } моделі, иесі: { $ownerName }
 smart-window-model-personal =
-    .label = Жеке: Ең бейімделген жауаптар
     .description = { $model } моделі, иесі: { $ownerName }
+    .label = Жеке: Ең бейімделген жауаптар
 smart-window-model-custom =
     .label = Пайдаланушылық: Өз LLM моделіңізді пайдалану
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Сақтау
 smart-window-model-custom-save-confirmation = Модель мәліметтері сақталды. Тексеру үшін жаңа чатты бастаңыз.
 ai-window-memories-section =
-    .label = Жады
     .description = { -brand-short-name } жады жасау үшін сіздің әрекеттеріңізден үйрене алады. Олар жауаптарды жекелендіруге көмектесу үшін пайдаланылады және осы құрылғыда жергілікті түрде сақталады.
+    .label = Жады
 ai-window-learn-from-chat-activity =
     .label = { -smart-window-brand-name } чаттарынан үйрену
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Жадыны басқару
 ai-window-manage-memories-header =
-    .heading = Жадыны басқару
     .description = Жады сіздің жекелігіңізді қорғауға көмектесу үшін осы құрылғыда жергілікті түрде сақталады. Олар сіз { -smart-window-brand-name } пайдаланған кезде күніне бірнеше рет жаңартылып тұрады, сондықтан жуырдағы әрекеттердің көрінуі үшін уақыт қажет болуы мүмкін.
+    .heading = Жадыны басқару
 ai-window-no-memories =
-    .label = Әзірге жады жоқ
     .description = { -smart-window-brand-name } сіздің әрекеттеріңізден үйренген сайын, мұнда жады пайда болады.
+    .label = Әзірге жады жоқ
 ai-window-no-memories-learning-off =
-    .label = Көрсететін жады жоқ
     .description = Әрекеттерден үйрену сөндірулі, сондықтан { -smart-window-brand-name } жадыны жасап жатқан жоқ.
+    .label = Көрсететін жады жоқ
 ai-window-delete-all-memories-button =
     .label = Барлығын өшіру
 ai-window-delete-all-memories-title = Барлық жадыны өшіру керек пе?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Бас тарту
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Жадыны өшіру
     .aria-label = { $label } өшіру
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Жадыны өшіру
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Жылдам
     .description = Жылдамдық керек кезде ең жақсы нұсқа. Толық аты: { $model }, шығарған { $ownerName }
+    .label = { $shortName }: Жылдам
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Икемді
     .description = Әр түрлі тапсырмалар үшін дайын. Толық аты: { $model }, шығарған { $ownerName }
+    .label = { $shortName }: Икемді
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Жеке
     .description = Әр түрлі тілдерде жекелендірілген көмек үшін жасалған. Толық аты: { $model }, шығарған { $ownerName }
+    .label = { $shortName }: Жеке

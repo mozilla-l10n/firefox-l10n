@@ -8,8 +8,8 @@ smart-window-block-description-both = Esto borrará los chats y recuerdos de { -
 smart-window-block-description-chats = Esto borrará los chats de { -smart-window-brand-name }.
 smart-window-block-description-memories = Esto borrará los recuerdos de { -smart-window-brand-name }.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Hacer preguntas, comparar páginas y recibir sugerencias personalizadas con un asistente integrado.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Configuración predeterminada
 ai-window-is-default-window =
-    .label = Usar { -smart-window-brand-name } por defecto
     .description = Abrir { -smart-window-brand-name } cuando { -brand-short-name } se inicie, reinicie o abra enlaces de otras aplicaciones.
+    .label = Usar { -smart-window-brand-name } por defecto
 ai-window-open-sidebar =
-    .label = Abrir el asistente automáticamente
     .description = Mostrar la barra lateral del asistente cuando se abra una nueva pestaña. Se puede cerrar en cualquier momento.
+    .label = Abrir el asistente automáticamente
 ai-window-smart-cursor-in-smart-window =
-    .label = Mostrar accesos directos al seleccionar texto
     .description = Acceso rápido para resumir, explicar y más
+    .label = Mostrar accesos directos al seleccionar texto
 smart-window-model-section =
-    .label = Modelo del asistente
     .description = Seleccionar un asistente basado en lo que sea importante.
+    .label = Modelo del asistente
 smart-window-model-radio-group =
     .aria-label = Modelo del asistente
 smart-window-model-learn-link = Conocer sobre modelos
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Conocer sobre modelos
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Modelo { $model } por { $ownerName }
     .label = Rápido: Responde rápidamente
-    .description = Modelo { $model } por { $ownerName }
 smart-window-model-flexible =
+    .description = Modelo { $model } por { $ownerName }
     .label = Flexible: Se adapta perfectamente a la mayoría de las necesidades
-    .description = Modelo { $model } por { $ownerName }
 smart-window-model-personal =
-    .label = Personal: Respuestas más a medida
     .description = Modelo { $model } por { $ownerName }
+    .label = Personal: Respuestas más a medida
 smart-window-model-custom =
     .label = Personalizado: Usar un LLM propio
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Guardar
 smart-window-model-custom-save-confirmation = Detalles de modelo guardados. Empiece un nuevo chat para probar.
 ai-window-memories-section =
-    .label = Recuerdos
     .description = { -brand-short-name } puede aprender de la actividad para crear recuerdos. Se usarán para personalizar las respuestas y se guardan localmente en este dispositivo.
+    .label = Recuerdos
 ai-window-learn-from-chat-activity =
     .label = Aprender de los chats en { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Administrar recuerdos
 ai-window-manage-memories-header =
-    .heading = Administrar recuerdos
     .description = Los recuerdos se guardan localmente en este dispositivo para ayudar a proteger la privacidad. Se refresca unas pocas veces al día al usar { -smart-window-brand-name }, así que la actividad reciente puede tardar en ser reflejada.
+    .heading = Administrar recuerdos
 ai-window-no-memories =
-    .label = Todavía no hay recuerdos
     .description = Cuando { -smart-window-brand-name } aprenda de la actividad, los recuerdos se verán acá.
+    .label = Todavía no hay recuerdos
 ai-window-no-memories-learning-off =
-    .label = No hay recuerdos que mostrar
     .description = El aprendizaje de la actividad está deshabilitado, por lo que { -smart-window-brand-name } no está creando recuerdos.
+    .label = No hay recuerdos que mostrar
 ai-window-delete-all-memories-button =
     .label = Borrar todo
 ai-window-delete-all-memories-title = ¿Borrar todos los recuerdos?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Cancelar
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Borrar recuerdo
     .aria-label = Borrar { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Borrar recuerdo
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Rápido
     .description = Lo mejor para respuestas rápidas cuando la velocidad importa. Nombre completo: { $model } por { $ownerName }
+    .label = { $shortName }: Rápido
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Flexible
     .description = Listo para una variedad de tareas. Nombre completo: { $model } por { $ownerName }
+    .label = { $shortName }: Flexible
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Personal
     .description = Hecho para ayuda personalizada entre idiomas. Nombre completo: { $model } por { $ownerName }
+    .label = { $shortName }: Personal

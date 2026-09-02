@@ -910,9 +910,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = اطّلع على المزيد
 browsing-group =
     .label = التّصفّح
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = الإتاحة
 preferences-default-zoom-select =
@@ -1031,9 +1028,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = الامتداد ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = صفحة بداية مخصّصة
 home-custom-homepage-subpage =
     .heading = صفحة بداية مخصّصة
@@ -1049,9 +1043,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = المواقع التي حفظتها أو زُرتها
 home-prefs-shortcuts-by-option-sponsored =
     .label = الاختصارات المموّلة
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = ينصح به { $provider }
 home-prefs-recommended-by-description-new = محتوى مميّز جمعه لك { $provider }، وهو جزء من عائلة { -brand-product-name }
@@ -1351,11 +1342,6 @@ sync-signedin-login-failure = من فضلك لج لإعادة التوصيل { $
 sync-signedin-login-failure2 =
     .description = لِج مرة أخرى لإعادة الاتصال وبدء مزامنة بياناتك.
     .label = لقد سُجّل خروجك من { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1646,9 +1632,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = اطّلع على المزيد
 forms-windows-sso-desc = أدِر الحسابات في إعدادات الجهاز
 windows-passkey-settings-label = أدر مفاتيح السر (passkeys) في إعدادات النظام
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = احصل على المساعدة لحماية معلوماتك عبر الإنترنت في { -brand-short-name }.
     .label = إعدادات لوحة الخصوصية
@@ -2073,9 +2056,6 @@ content-blocking-fingerprinters = مسجّلات البصمات
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = المسجّلات المشتبه بها والمعروفة
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = يحتوي حماية كاملة لملفات تعريف الارتباط على ملفات تعريف الارتباط الخاصة بالموقع الذي تتصفحه، لذلك لا يمكن لبرامج التتبع استخدامها لمتابعتك بين المواقع.
 content-blocking-etp-standard-tcp-rollout-learn-more = اطّلع على المزيد

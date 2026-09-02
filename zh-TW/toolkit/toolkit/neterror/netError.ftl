@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = 在網路上搜尋<strong>「{ $query }�
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = 搜尋
-    .accesskey = S
     .tooltiptext = 用新分頁開啟搜尋結果
+    .accesskey = S
 neterror-search-cta-reload-button =
     .label = 重新載入
     .accesskey = R

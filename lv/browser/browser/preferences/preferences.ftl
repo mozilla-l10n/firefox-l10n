@@ -611,15 +611,6 @@ update-in-progress-ok-button = &Atmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -692,9 +683,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Uzzināt vairāk
 browsing-group =
     .label = Pārlūkošana
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Piekļūstamība
 
@@ -761,9 +749,6 @@ home-homepage-new-tabs =
     .label = Jaunas cilnes
 home-custom-homepage-address-button =
     .label = Pievienot adresi
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Pielāgota sākumlapa
 home-custom-homepage-subpage =
     .heading = Pielāgota sākumlapa
@@ -779,9 +764,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Saglabātās vai apmeklētās vietnes
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorētās saīsnes
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Iesaka { $provider }
 home-prefs-recommended-by-description-new = Izcils saturs, ko atlasījis { $provider }, kas ir daļa no { -brand-product-name } saimes
@@ -1021,11 +1003,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } nav apstiprināts.
 sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -1256,9 +1233,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Uzzināt vairāk
 forms-windows-sso-desc = Pārvaldiet kontus savas ierīces iestatījumos
 windows-passkey-settings-label = Pārvaldiet piekļuves atslēgas sistēmas iestatījumos
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -1504,9 +1478,6 @@ content-blocking-fingerprinters = Nospiedumi
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Zināmi un varbūtēji ciparu nospiedumi
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totālā Sīkdatņu Aizsardzība neļauj sīkdatnēm izkļūt ārpus vietnes, kurā atrodaties, tāpēc izsekotāji nevar tos izmantot, lai sekotu jums starp vietnēm.
 content-blocking-etp-standard-tcp-rollout-learn-more = Uzzināt vairāk
@@ -1802,9 +1773,6 @@ preferences-doh-manage-exceptions =
     .label = Pārvaldīt izņēmumus…
     .accesskey = z
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Darbvirsma
@@ -1831,9 +1799,6 @@ preferences-ai-controls-sidebar-chatbot-group-3 =
 preferences-ai-controls-block-confirmation-heading = Liegt MI uzlabojumus?
 preferences-ai-controls-block-confirmation-confirm =
     .label = Liegt
-
-## Privacy and security status card
-
 
 ## Enhanced Tracking Protection (ETP) status section
 

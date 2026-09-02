@@ -141,63 +141,6 @@ home-prefs-support-firefox-header-srd =
     .label = Përkrahni { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Mësoni se si
 
-## Strings for the Privacy widget
-
-
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
-## Strings for the Stocks widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
-
-## Strings for the Picture of the Day widget
-
-
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
@@ -244,9 +187,6 @@ newtab-topsites-image-url-label = URL Figure Vetjake
 newtab-topsites-use-custom-image-link = Përdorni një figurë vetjake
 newtab-topsites-use-image-link = Përdorni një figurë vetjake…
 newtab-topsites-image-validation = Dështoi ngarkimi i figurës. Provoni një URL tjetër.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Spastroje tekstin
 
@@ -275,9 +215,6 @@ newtab-topsite-sponsored = E sponsorizuar
 topsite-label-pinned =
     .aria-label = { $title } (i fiksuar)
     .title = { $title }
-
-## Top Sites - Web notifications hover card
-
 
 ## Context Menu - Action Tooltips.
 
@@ -441,9 +378,6 @@ newtab-discovery-empty-section-topstories-loading = Po ngarkohet…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hëm! Thuajse e ngarkuam këtë ndarje, por jo dhe aq.
 
-## Strings for the story cards carousel
-
-
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -549,9 +483,6 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Mbylle
 newtab-custom-settings = Administroni më tepër rregullime
 
-## New Tab Appearance (browser theme picker)
-
-
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -646,9 +577,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -803,9 +731,6 @@ newtab-new-user-custom-wallpaper-title = Zgjidhni një sfond, për ta bërë { -
 newtab-new-user-custom-wallpaper-subtitle = Bëjeni çdo skedë të re t’ju duket si shtëpia juaj, me sfonde dhe ngjyra tuajat.
 newtab-new-user-custom-wallpaper-cta = Provojeni tani
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Shkarkoni { -brand-product-name } për celular
@@ -940,34 +865,6 @@ newtab-promo-card-cta = Mësoni më tepër
 newtab-promo-card-dismiss-button =
     .aria-label = Hidheni tej
     .title = Hidhe tej
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-##
-
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
-
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

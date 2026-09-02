@@ -8,8 +8,8 @@ smart-window-block-description-both = Suas conversas e a memória do { -smart-wi
 smart-window-block-description-chats = Suas conversas do { -smart-window-brand-name } serão excluídas.
 smart-window-block-description-memories = A memória do { -smart-window-brand-name } será excluída.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Assistente integrado para fazer perguntas, comparar páginas e receber sugestões personalizadas.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Configuração padrão
 ai-window-is-default-window =
-    .label = Usar o { -smart-window-brand-name } por padrão
     .description = Abrir o { -smart-window-brand-name } quando o { -brand-short-name } iniciar, reiniciar ou abrir links a partir de outros aplicativos.
+    .label = Usar o { -smart-window-brand-name } por padrão
 ai-window-open-sidebar =
-    .label = Abrir assistente automaticamente
     .description = Exibir o painel lateral com o assistente em cada nova aba. Feche quando quiser.
+    .label = Abrir assistente automaticamente
 ai-window-smart-cursor-in-smart-window =
-    .label = Mostrar atalhos ao selecionar texto
     .description = Ter acesso rápido para resumir, explicar, etc.
+    .label = Mostrar atalhos ao selecionar texto
 smart-window-model-section =
-    .label = Modelo de assistente
     .description = Escolha um modelo com base no que é importante para você.
+    .label = Modelo de assistente
 smart-window-model-radio-group =
     .aria-label = Modelo de assistente
 smart-window-model-learn-link = Mais informações sobre modelos
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Mais informações sobre modelos
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Modelo { $model } de { $ownerName }
     .label = Rápido: responde rapidamente
-    .description = Modelo { $model } de { $ownerName }
 smart-window-model-flexible =
+    .description = Modelo { $model } de { $ownerName }
     .label = Flexível: adequado para a maioria dos casos
-    .description = Modelo { $model } de { $ownerName }
 smart-window-model-personal =
-    .label = Pessoal: respostas mais personalizadas
     .description = Modelo { $model } de { $ownerName }
+    .label = Pessoal: respostas mais personalizadas
 smart-window-model-custom =
     .label = Personalizado: usar seu próprio LLM
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Salvar
 smart-window-model-custom-save-confirmation = Detalhes do modelo salvos. Inicie uma nova conversa para testar.
 ai-window-memories-section =
-    .label = Memórias
     .description = O { -brand-short-name } pode aprender a partir de sua atividade para criar memórias. Elas são usadas para ajudar a personalizar respostas e são armazenadas localmente neste dispositivo.
+    .label = Memórias
 ai-window-learn-from-chat-activity =
     .label = Aprender com conversas no { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Gerenciar memórias
 ai-window-manage-memories-header =
-    .heading = Gerenciar memórias
     .description = Memórias são armazenadas localmente neste dispositivo para ajudar a proteger sua privacidade. Elas são atualizadas algumas vezes por dia enquanto você usa o { -smart-window-brand-name }, então atividade recente pode demorar um pouco até ser refletida.
+    .heading = Gerenciar memórias
 ai-window-no-memories =
-    .label = Nenhuma memória ainda
     .description = À medida que o { -smart-window-brand-name } aprende a partir de sua atividade, aparecem memórias aqui.
+    .label = Nenhuma memória ainda
 ai-window-no-memories-learning-off =
-    .label = Nenhuma memória a mostrar
     .description = O aprendizado a partir de sua atividade está desativado, então o { -smart-window-brand-name } não está criando memórias.
+    .label = Nenhuma memória a mostrar
 ai-window-delete-all-memories-button =
     .label = Excluir tudo
 ai-window-delete-all-memories-title = Excluir todas as memórias?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Cancelar
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Excluir memória
     .aria-label = Excluir { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Excluir memória
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Rápido
     .description = Melhor para obter respostas rápidas, quando se quer velocidade. Nome completo: { $model } de { $ownerName }
+    .label = { $shortName }: Rápido
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Flexível
     .description = Pronto para diversas tarefas. Nome completo: { $model } de { $ownerName }
+    .label = { $shortName }: Flexível
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Pessoal
     .description = Feito para ajuda personalizada em vários idiomas. Nome completo: { $model } de { $ownerName }
+    .label = { $shortName }: Pessoal

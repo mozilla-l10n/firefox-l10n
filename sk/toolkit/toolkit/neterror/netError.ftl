@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Vyhľadajte na webe výraz <strong>“{ 
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Hľadať
-    .accesskey = H
     .tooltiptext = Otvorí výsledky vyhľadávania na novej karte
+    .accesskey = H
 neterror-search-cta-reload-button =
     .label = Obnoviť
     .accesskey = O

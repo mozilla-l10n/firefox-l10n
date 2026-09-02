@@ -558,15 +558,6 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Afköst
@@ -636,9 +627,6 @@ browsing-cfr-recommendations-learn-more = Kanna nánar
 browsing-group =
     .label = Leit
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Stillingar netkerfis
@@ -696,9 +684,6 @@ home-homepage-new-tabs =
 home-prefs-homepage-extension-option =
     .label = Forritsauki ({ $extension })
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } efni
@@ -710,9 +695,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Vefsvæði sem þú vistar eða heimsækir
 home-prefs-shortcuts-by-option-sponsored =
     .label = Kostaðar flýtileiðir
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Með þessu mælir { $provider }
 home-prefs-recommended-by-description-new = Úrvalsefni í umsjón { $provider }, hluta af { -brand-product-name } fjölskyldunni
@@ -911,11 +893,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1155,9 +1132,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Frekari upplýsingar
 forms-windows-sso-desc = Sýslaðu með reikninga í stillingum tækisins
 windows-passkey-settings-label = Sýsla með lykilorð í stillingum kerfisins
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -1460,9 +1434,6 @@ content-blocking-fingerprinters = Fingraför
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Þekkt og grunur um fingrafarasöfnun
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Allsherjar-vefkökuvörn inniheldur vefkökur á vefsvæðið sem þú ert á, þannig að rekjarar geta ekki notað þær til að fylgja þér á milli vefsvæða.
 content-blocking-etp-standard-tcp-rollout-learn-more = Frekari upplýsingar
@@ -1793,29 +1764,8 @@ preferences-doh-manage-exceptions =
     .label = Sýsla með undantekningar
     .accesskey = k
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
 choose-download-folder-title = Veldu niðurhals möppu:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

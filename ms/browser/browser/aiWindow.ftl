@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Cari dengan { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Cari dengan...
 aiwindow-input-cta-search-submenu-header = Carian
 aiwindow-input-cta-stop-button =
-    .title = Hentikan respons
     .aria-label = Hentikan penjanaan respons
+    .title = Hentikan respons
 
 ## Smartbar
 
@@ -203,12 +203,12 @@ smartwindow-switch-to-smart-window = Tukar ke { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Sembang
     .aria-label = Sembang
+    .label = Sembang
     .tooltiptext = Sembang
 smartwindow-footer-history =
-    .label = Sejarah
     .aria-label = Sejarah
+    .label = Sejarah
     .tooltiptext = Sejarah
 
 ## Disclaimer
@@ -234,7 +234,7 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Hari ini - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Semalam - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Message displayed in Firefox View when the user has no chat data
 
@@ -242,10 +242,6 @@ firefoxview-chats-empty-header = Kembali ke sembang anda
 firefoxview-chats-empty-description = Semasa anda menggunakan { -smart-window-brand-name }, sembang anda akan disimpan di sini.
 
 ## Count displayed in fxview chat search results
-
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
 
 firefoxview-search-chat-results-count = { $count } sembang
 
@@ -259,11 +255,11 @@ item-history-downloads-and-chat-description = Kosongkan sejarah tapak, muat turu
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Pilih semua
     .aria-label = Pilih semua
+    .label = Pilih semua
 smart-window-confirm-deselect-all =
-    .label = Nyahpilih semua
     .aria-label = Nyahpilih semua
+    .label = Nyahpilih semua
 smart-window-close-confirm =
     .aria-label = Batalkan permintaan dan tutup
     .tooltiptext = Batalkan permintaan dan tutup

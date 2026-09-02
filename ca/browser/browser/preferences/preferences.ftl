@@ -902,9 +902,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Més informació
 browsing-group =
     .label = Navegació
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Accessibilitat
 preferences-default-zoom-select =
@@ -1023,9 +1020,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Extensió ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Pàgina d'inici personalitzada
 home-custom-homepage-subpage =
     .heading = Pàgina d'inici personalitzada
@@ -1041,9 +1035,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Llocs que deseu o visiteu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Dreceres patrocinades
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
 home-prefs-recommended-by-description-new = Contingut excepcional seleccionat per { $provider }, part de la família de { -brand-product-name }
@@ -1339,11 +1330,6 @@ sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $e
 sync-signedin-login-failure2 =
     .description = Torneu a iniciar la sessió per connectar-vos i començar a sincronitzar les vostres dades.
     .label = La sessió de { $email } és tancada
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1634,9 +1620,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Més informació
 forms-windows-sso-desc = Gestioneu els comptes en els paràmetres del dispositiu
 windows-passkey-settings-label = Gestiona les claus d'accés en els paràmetres del sistema
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Obteniu ajuda per protegir la vostra informació en línia a { -brand-short-name }.
     .label = Configuració del panell de privacitat
@@ -2070,9 +2053,6 @@ content-blocking-fingerprinters = Generadors d'empremtes digitals
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Generadors d'empremtes digitals coneguts i sospitosos
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protecció total de galetes aïlla les galetes del lloc on us trobeu, de manera que els elements de seguiment no les poden utilitzar per a seguir-vos d'un lloc a l'altre.
 content-blocking-etp-standard-tcp-rollout-learn-more = Més informació
@@ -2680,9 +2660,3 @@ issue-card-dismiss-button =
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Aïlla les galetes entre llocs
-
-## Warnings section
-
-
-## Referrals Section
-

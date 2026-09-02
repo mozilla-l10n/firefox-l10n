@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Könyvjelzők
 synced-tabs-context-close-tab-title =
     .title = Lap bezárása itt: { $deviceName }
 show-sidebars =
-    .tooltiptext = Oldalsávok megjelenítése
     .label = Oldalsávok
+    .tooltiptext = Oldalsávok megjelenítése
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Oldalsáv kibontása ({ $shortcut })
     .label = Oldalsávok
+    .tooltiptext = Oldalsáv kibontása ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Oldalsáv összecsukása ({ $shortcut })
     .label = Oldalsávok
+    .tooltiptext = Oldalsáv összecsukása ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Oldalsáv megjelenítése ({ $shortcut })
     .label = Oldalsávok
+    .tooltiptext = Oldalsáv megjelenítése ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Oldalsáv elrejtése ({ $shortcut })
     .label = Oldalsávok
+    .tooltiptext = Oldalsáv elrejtése ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

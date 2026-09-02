@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Căută cu { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Căută cu…
 aiwindow-input-cta-search-submenu-header = Caută
 aiwindow-input-cta-stop-button =
-    .title = Oprește răspunsul
     .aria-label = Oprește generarea răspunsului
+    .title = Oprește răspunsul
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Treci la { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Conversații
     .aria-label = Conversații
+    .label = Conversații
     .tooltiptext = Conversații
 smartwindow-footer-history =
-    .label = Istoric
     .aria-label = Istoric
+    .label = Istoric
     .tooltiptext = Istoric
 
 ## Disclaimer
@@ -263,7 +263,7 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Azi - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Ieri - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Message displayed in Firefox View when the user has no chat data
 
@@ -271,10 +271,6 @@ firefoxview-chats-empty-header = Revino la conversații
 firefoxview-chats-empty-description = Pe măsură ce folosești { -smart-window-brand-name }, conversațiile tale vor fi salvate aici.
 
 ## Count displayed in fxview chat search results
-
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
 
 firefoxview-search-chat-results-count =
     { $count ->
@@ -293,11 +289,11 @@ item-history-downloads-and-chat-description = Șterge istoricul site-urilor, al 
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Selectează tot
     .aria-label = Selectează tot
+    .label = Selectează tot
 smart-window-confirm-deselect-all =
-    .label = Deselectează tot
     .aria-label = Deselectează tot
+    .label = Deselectează tot
 smart-window-close-confirm =
     .aria-label = Anulează cererea și închide
     .tooltiptext = Anulează cererea și închide

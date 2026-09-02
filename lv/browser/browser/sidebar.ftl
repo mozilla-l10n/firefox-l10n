@@ -103,8 +103,8 @@ sidebar-customize-title = Pielāgot sānjoslu
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = Rādīt sānu joslas
     .label = Sānu joslas
+    .tooltiptext = Rādīt sānu joslas
 
 ## Tooltips for the sidebar toolbar widget.
 

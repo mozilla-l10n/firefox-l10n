@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Интенеттен <strong>«{ $query 
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Іздеу
-    .accesskey = І
     .tooltiptext = Іздеу нәтижелерін жаңа бетте ашады
+    .accesskey = І
 neterror-search-cta-reload-button =
     .label = Қайта жүктеу
     .accesskey = й

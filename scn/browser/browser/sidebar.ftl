@@ -22,5 +22,5 @@ sidebar-menu-close-bookmarks-tooltip = Chiuji nzingalibbra ({ $shortcut })
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = Mustra i sbarri di ciancu
     .label = Sbarri di ciancu
+    .tooltiptext = Mustra i sbarri di ciancu

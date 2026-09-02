@@ -901,9 +901,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Kuaave
 browsing-group =
     .label = Kundaha
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Jeikekuaa
 preferences-default-zoom-select =
@@ -1022,9 +1019,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Jepysokue ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Emboava kuatiarogue ñepyrũgua
 home-custom-homepage-subpage =
     .heading = Emboava kuatiarogue ñepyrũgua
@@ -1040,9 +1034,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Tenda eñongatúva térã eikeha
 home-prefs-shortcuts-by-option-sponsored =
     .label = Jeike pya’eha jehepyme’ẽpyre
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } he’i ndéve reike hag̃ua
 home-prefs-recommended-by-description-new = Tetepy iporãva { $provider } oiporavopyre, { -brand-product-name } mba’éva pegua
@@ -1353,11 +1344,6 @@ sync-signedin-login-failure = Eñepyrũ tembiapo eikejey hag̃ua { $email }
 sync-signedin-login-failure2 =
     .description = Eike jey ikatu hag̃ua embojuaju ne mba’ekuaarãita.
     .label = Embotýma nde jeike { $email }-pegua
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1648,9 +1634,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Kuaave
 forms-windows-sso-desc = Eñangareko mba’ete mba’e’oka ñembohekópe
 windows-passkey-settings-label = Eñangareko jeikeha mba’eñemíre apopyvusu ñembohekópe
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Ehupyty pytyvõ eñangareko hag̃ua ne marandu ñandutipegua { -brand-short-name }-pe.
     .label = Tekoñemi rupa ñemoĩporã
@@ -2084,9 +2067,6 @@ content-blocking-fingerprinters = Fingerprinters
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Kuãhũ japyhyha ojekuaáva ha ivaikuaáva
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Ñemo’ãmbaite kookie rovake oreko kookie tenda reimehápe g̃uarã, avei tapykuehoha ndojeporukuaái ohapykueho hag̃ua tendakuéra pa’ũme.
 content-blocking-etp-standard-tcp-rollout-learn-more = Kuaave

@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Z { $searchEngineName } pytać
 aiwindow-input-cta-menu-label-search-with = Pytać z…
 aiwindow-input-cta-search-submenu-header = Pytać
 aiwindow-input-cta-stop-button =
-    .title = Wotmołwu zastajić
     .aria-label = Generowanje wotmołwy zastajić
+    .title = Wotmołwu zastajić
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = K { -smart-window-brand-name } přeńć
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Chaty
     .aria-label = Chaty
+    .label = Chaty
     .tooltiptext = Chaty
 smartwindow-footer-history =
-    .label = Historija
     .aria-label = Historija
+    .label = Historija
     .tooltiptext = Historija
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Dokelž { -smart-window-brand-name } wuži
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } chat
@@ -294,11 +290,11 @@ item-history-downloads-and-chat-description = Zhaša historiju sydłow, sćehnje
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Wšě wubrać
     .aria-label = Wšě wubrać
+    .label = Wšě wubrać
 smart-window-confirm-deselect-all =
-    .label = Wšitko wotwolić
     .aria-label = Wšitko wotwolić
+    .label = Wšitko wotwolić
 smart-window-close-confirm =
     .aria-label = Naprašowanje přetorhnyć a začinić
     .tooltiptext = Naprašowanje přetorhnyć a začinić

@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Sykje op it web nei <strong>‘{ $query 
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Sykje
-    .accesskey = S
     .tooltiptext = Iepenet sykresultaten yn in nij ljepblêd
+    .accesskey = S
 neterror-search-cta-reload-button =
     .label = Opnij lade
     .accesskey = O

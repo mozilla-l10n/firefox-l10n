@@ -53,8 +53,8 @@ neterror-search-cta-hint-search-query = Chirca <strong>«{ $query }»</strong> i
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Chirca
-    .accesskey = C
     .tooltiptext = Aberit is resurtados de sa chirca in un’ischeda noa
+    .accesskey = C
 neterror-search-cta-reload-button =
     .label = Torra a carrigare
     .accesskey = T

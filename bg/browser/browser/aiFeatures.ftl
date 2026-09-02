@@ -4,8 +4,8 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Задавайте въпроси, сравнявайте страници и получавайте персонализирани предложения с вграден асистент.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -17,14 +17,14 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Настройки по подразбиране
 ai-window-is-default-window =
-    .label = Използвайте { -smart-window-brand-name } по подразбиране
     .description = Отваряне на { -smart-window-brand-name }, когато { -brand-short-name } стартира, рестартира или отваря връзки от други приложения.
+    .label = Използвайте { -smart-window-brand-name } по подразбиране
 ai-window-open-sidebar =
-    .label = Автоматично отваряне на асистента
     .description = Показване на страничната лента на асистента при всеки нов раздел. Затворете го по всяко време.
+    .label = Автоматично отваряне на асистента
 smart-window-model-section =
-    .label = Модел за асистент
     .description = Изберете модел въз основа на това кое е важно за вас.
+    .label = Модел за асистент
 smart-window-model-radio-group =
     .aria-label = Модел за асистент
 smart-window-model-learn-link = Научете повече за моделите
@@ -35,14 +35,14 @@ smart-window-model-learn-link = Научете повече за моделит�
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Модел { $model } от { $ownerName }
     .label = Бърз: Отговаря бързо
-    .description = Модел { $model } от { $ownerName }
 smart-window-model-flexible =
+    .description = Модел { $model } от { $ownerName }
     .label = Гъвкав: Солидно прилягащ за повечето нужди
-    .description = Модел { $model } от { $ownerName }
 smart-window-model-personal =
-    .label = Личен: Най-персонализирани отговори
     .description = Модел { $model } от { $ownerName }
+    .label = Личен: Най-персонализирани отговори
 smart-window-model-custom =
     .label = Персонализиран: Използвайте ваш собствен LLM
 smart-window-model-custom-name =
@@ -57,8 +57,8 @@ smart-window-model-custom-save =
     .label = Запазване
 smart-window-model-custom-save-confirmation = Подробностите за модела са запазени. Започнете нов разговор за тест.
 ai-window-memories-section =
-    .label = Спомени
     .description = { -brand-short-name } може да се учи от вашата активност за създаване на спомени. Те се използват за персонализиране на отговорите и се съхраняват локално на устройството.
+    .label = Спомени
 ai-window-delete-all-memories-button =
     .label = Изтриване на всичко
 ai-window-delete-all-memories-confirm = Изтриване
@@ -66,20 +66,14 @@ ai-window-delete-all-memories-cancel = Отмяна
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Изтриване на паметта
     .aria-label = Изтриване на { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Изтриване на паметта
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Бърз
     .description = Най-добър за бързи отговори, когато скоростта е от значение. Пълно име: { $model } от { $ownerName }
+    .label = { $shortName }: Бърз
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Гъвкав
     .description = Направен за различни задачи. Пълно име: { $model } от { $ownerName }
+    .label = { $shortName }: Гъвкав
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Личен
     .description = Създаден за персонализирана помощ за различни езици. Пълно име: { $model } от { $ownerName }
+    .label = { $shortName }: Личен

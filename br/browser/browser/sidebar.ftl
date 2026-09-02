@@ -87,28 +87,28 @@ sidebar-syncedtabs-title = Ivinelloù an trevnadoù all
 synced-tabs-context-close-tab-title =
     .title = Serriñ an ivinell war { $deviceName }
 show-sidebars =
-    .tooltiptext = Diskouez ar barrennoù kostez
     .label = Barrennoù kostez
+    .tooltiptext = Diskouez ar barrennoù kostez
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Dispakañ ar varrenn gostez ({ $shortcut })
     .label = Barrennoù kostez
+    .tooltiptext = Dispakañ ar varrenn gostez ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Serriñ ar varrenn gostez ({ $shortcut })
     .label = Barrennoù kostez
+    .tooltiptext = Serriñ ar varrenn gostez ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Diskouez ar varrenn gostez ({ $shortcut })
     .label = Barrennoù kostez
+    .tooltiptext = Diskouez ar varrenn gostez ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Kuzhat ar varrenn gostez ({ $shortcut })
     .label = Barrennoù kostez
+    .tooltiptext = Kuzhat ar varrenn gostez ({ $shortcut })

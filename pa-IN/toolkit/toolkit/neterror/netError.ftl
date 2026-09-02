@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = <strong>“{ $query }”</strong> ਲਈ
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = ਖੋਜੋ
-    .accesskey = S
     .tooltiptext = ਖੋਜ ਨਤੀਜੇ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = S
 neterror-search-cta-reload-button =
     .label = ਮੁੜ-ਲੋਡ
     .accesskey = R

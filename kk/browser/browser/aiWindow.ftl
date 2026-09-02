@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = { $searchEngineName } көмегімен 
 aiwindow-input-cta-menu-label-search-with = Көмегімен іздеу…
 aiwindow-input-cta-search-submenu-header = Іздеу
 aiwindow-input-cta-stop-button =
-    .title = Жауапты тоқтату
     .aria-label = Жауапты генерациялауды тоқтату
+    .title = Жауапты тоқтату
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = { -smart-window-brand-name } түріне �
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Чаттар
     .aria-label = Чаттар
+    .label = Чаттар
     .tooltiptext = Чаттар
 smartwindow-footer-history =
-    .label = Тарих
     .aria-label = Тарих
+    .label = Тарих
     .tooltiptext = Тарих
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = { -smart-window-brand-name } пайдал�
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } чат
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Сайттар деректері,
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Барлығын таңдау
     .aria-label = Барлығын таңдау
+    .label = Барлығын таңдау
 smart-window-confirm-deselect-all =
-    .label = Барлығынан таңдауды алып тастау
     .aria-label = Барлығынан таңдауды алып тастау
+    .label = Барлығынан таңдауды алып тастау
 smart-window-close-confirm =
     .aria-label = Сұраудан бас тарту және жабу
     .tooltiptext = Сұраудан бас тарту және жабу

@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Zapołožki
 synced-tabs-context-close-tab-title =
     .title = Rajtark na { $deviceName } začinić
 show-sidebars =
-    .tooltiptext = Bóčnicy pokazać
     .label = Bóčnicy
+    .tooltiptext = Bóčnicy pokazać
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Bóčnicu pokazać ({ $shortcut })
     .label = Bóčnicy
+    .tooltiptext = Bóčnicu pokazać ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Bóčnicu schować ({ $shortcut })
     .label = Bóčnicy
+    .tooltiptext = Bóčnicu schować ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Bóčnicu pokazać ({ $shortcut })
     .label = Bóčnicy
+    .tooltiptext = Bóčnicu pokazać ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Bóčnicu schować ({ $shortcut })
     .label = Bóčnicy
+    .tooltiptext = Bóčnicu schować ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

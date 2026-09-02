@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Sök på webben efter <strong>“{ $quer
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Sök
-    .accesskey = S
     .tooltiptext = Öppnar sökresultat i en ny flik
+    .accesskey = S
 neterror-search-cta-reload-button =
     .label = Uppdatera
     .accesskey = U

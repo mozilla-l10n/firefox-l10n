@@ -22,8 +22,8 @@ smart-window-model-learn-link = زبار مودلا دووسته بۊین
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-flexible =
-    .label = انعتاف پزیر: موناسو سی بیشتر نیازا
     .description = مودل { $model } و دست { $ownerName }
+    .label = انعتاف پزیر: موناسو سی بیشتر نیازا
 smart-window-model-custom-save =
     .label = زفت
 smart-window-model-custom-save-confirmation = جۊزعیات مودل زفت وابی. سی آزمایش، بنین پا ی چت نۊ.
@@ -37,14 +37,8 @@ ai-window-delete-all-memories-cancel = لقو
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = پاک کردن ویرگه
     .aria-label = پاک کردن { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = پاک کردن ویرگه
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: انعتاف پزیر
     .description = ٱماڌه سی ٱنجوم وزیفه یل موختلف. نوم کامل: { $model } و دست { $ownerName }
+    .label = { $shortName }: انعتاف پزیر

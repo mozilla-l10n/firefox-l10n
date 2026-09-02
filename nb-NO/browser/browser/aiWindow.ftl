@@ -174,11 +174,11 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .tooltiptext = Bruk minner i svar når det er nyttig
     .aria-label = Minner på
+    .tooltiptext = Bruk minner i svar når det er nyttig
 aiwindow-memories-off =
-    .tooltiptext = Ikke bruk minner i svar
     .aria-label = Minner av
+    .tooltiptext = Ikke bruk minner i svar
 
 ## New Chat Button
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Bytt til { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Chatter
     .aria-label = Chatter
+    .label = Chatter
     .tooltiptext = Chatter
 smartwindow-footer-history =
-    .label = Historikk
     .aria-label = Historikk
+    .label = Historikk
     .tooltiptext = Historikk
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Etter hvert som du bruker { -smart-window-
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } chat
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Sletter historikk for nettsteder, 
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Velg alle
     .aria-label = Velg alle
+    .label = Velg alle
 smart-window-confirm-deselect-all =
-    .label = Velg ingen
     .aria-label = Velg ingen
+    .label = Velg ingen
 smart-window-close-confirm =
     .aria-label = Avbryt forespørsel og lukk
     .tooltiptext = Avbryt forespørsel og lukk

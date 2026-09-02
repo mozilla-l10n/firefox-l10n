@@ -8,8 +8,8 @@ smart-window-block-description-both = Dit verwijdert uw { -smart-window-brand-na
 smart-window-block-description-chats = Dit verwijdert uw { -smart-window-brand-name }-chats.
 smart-window-block-description-memories = Dit verwijdert uw { -smart-window-brand-name }-herinneringen.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Stel vragen, vergelijk pagina’s en ontvang gepersonaliseerde suggesties met een ingebouwde assistent.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Standaardinstellingen
 ai-window-is-default-window =
-    .label = Standaard { -smart-window-brand-name } gebruiken
     .description = { -smart-window-brand-name } openen wanneer { -brand-short-name } start, herstart of koppelingen vanuit andere apps opent.
+    .label = Standaard { -smart-window-brand-name } gebruiken
 ai-window-open-sidebar =
-    .label = Assistent automatisch openen
     .description = De assistent-zijbalk tonen bij elk nieuw tabblad. U kunt deze op elk moment sluiten.
+    .label = Assistent automatisch openen
 ai-window-smart-cursor-in-smart-window =
-    .label = Snelkoppelingen tonen bij selecteren van tekst
     .description = Snelle toegang tot samenvatten, uitleggen en meer.
+    .label = Snelkoppelingen tonen bij selecteren van tekst
 smart-window-model-section =
-    .label = Assistent-model
     .description = Kies een model op basis van wat u belangrijk vindt.
+    .label = Assistent-model
 smart-window-model-radio-group =
     .aria-label = Assistent-model
 smart-window-model-learn-link = Info over modellen
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Info over modellen
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Model { $model } door { $ownerName }
     .label = Snel: antwoordt snel
-    .description = Model { $model } door { $ownerName }
 smart-window-model-flexible =
+    .description = Model { $model } door { $ownerName }
     .label = Flexibel: solide, voor de meeste behoeften
-    .description = Model { $model } door { $ownerName }
 smart-window-model-personal =
-    .label = Persoonlijk: antwoorden op maat
     .description = Model { $model } door { $ownerName }
+    .label = Persoonlijk: antwoorden op maat
 smart-window-model-custom =
     .label = Aangepast: uw eigen LLM gebruiken
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Opslaan
 smart-window-model-custom-save-confirmation = Modeldetails opgeslagen. Start een nieuwe chat om te testen.
 ai-window-memories-section =
-    .label = Herinneringen
     .description = { -brand-short-name } kan van uw activiteit leren om herinneringen aan te maken. Ze worden gebruikt om antwoorden te personaliseren en worden lokaal op dit apparaat opgeslagen.
+    .label = Herinneringen
 ai-window-learn-from-chat-activity =
     .label = Leren van chats in { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Herinneringen beheren
 ai-window-manage-memories-header =
-    .heading = Herinneringen beheren
     .description = Herinneringen worden lokaal op dit apparaat opgeslagen om uw privacy te beschermen. Ze worden dagelijks enkele keren ververst tijdens gebruik van { -smart-window-brand-name }, dus het kan even duren voordat recente activiteit is verwerkt.
+    .heading = Herinneringen beheren
 ai-window-no-memories =
-    .label = Nog geen herinneringen
     .description = Terwijl { -smart-window-brand-name } leert van uw activiteit, ziet u hier herinneringen verschijnen.
+    .label = Nog geen herinneringen
 ai-window-no-memories-learning-off =
-    .label = Geen herinneringen om te tonen
     .description = Leren van activiteit is uitgeschakeld, dus { -smart-window-brand-name } maakt geen herinneringen aan.
+    .label = Geen herinneringen om te tonen
 ai-window-delete-all-memories-button =
     .label = Alles verwijderen
 ai-window-delete-all-memories-title = Alle herinneringen verwijderen?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Annuleren
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Herinnering verwijderen
     .aria-label = { $label } verwijderen
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Herinnering verwijderen
 smart-window-model-fast-v2 =
-    .label = { $shortName }: snel
     .description = Het beste voor snelle antwoorden wanneer snelheid ertoe doet. Volledige naam: { $model } door { $ownerName }
+    .label = { $shortName }: snel
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: flexibel
     .description = Klaar voor een breed scala aan taken. Volledige naam: { $model } door { $ownerName }
+    .label = { $shortName }: flexibel
 smart-window-model-personal-v2 =
-    .label = { $shortName }: persoonlijk
     .description = Gebouwd voor gepersonaliseerde hulp in meerdere talen. Volledige naam: { $model } door { $ownerName }
+    .label = { $shortName }: persoonlijk

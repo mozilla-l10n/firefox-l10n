@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Eheka { $searchEngineName } ndive
 aiwindow-input-cta-menu-label-search-with = Eheka kóva ndive…
 aiwindow-input-cta-search-submenu-header = Heka
 aiwindow-input-cta-stop-button =
-    .title = Ejoko mbohovái
     .aria-label = Ejoko ñembohovái moheñói
+    .title = Ejoko mbohovái
 
 ## Smartbar
 
@@ -230,12 +230,12 @@ smartwindow-switch-to-smart-window = Emoambue { -smart-window-brand-name }-pe
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Chatea
     .aria-label = Chatea
+    .label = Chatea
     .tooltiptext = Chatea
 smartwindow-footer-history =
-    .label = Tembiasakue
     .aria-label = Tembiasakue
+    .label = Tembiasakue
     .tooltiptext = Tembiasakue
 
 ## Disclaimer
@@ -270,10 +270,6 @@ firefoxview-chats-empty-description = Eiporúvo { -smart-window-brand-name }, je
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } chatea
@@ -290,11 +286,11 @@ item-history-downloads-and-chat-description = Embogue tenda rembiasakue, mboguej
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Embosa’ypa
     .aria-label = Embosa’ypa
+    .label = Embosa’ypa
 smart-window-confirm-deselect-all =
-    .label = Eipe’apa sa’y
     .aria-label = Eipe’apa sa’y
+    .label = Eipe’apa sa’y
 smart-window-close-confirm =
     .aria-label = Ehejarei jerurepy ha emboty
     .tooltiptext = Ehejarei jerurepy ha emboty

@@ -894,9 +894,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 了解更多
 browsing-group =
     .label = 瀏覽
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = 輔助功能
 preferences-default-zoom-select =
@@ -1015,9 +1012,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = 擴充套件（{ $extension }）
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = 自訂首頁
 home-custom-homepage-subpage =
     .heading = 自訂首頁
@@ -1033,9 +1027,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = 您儲存或造訪過的網站
 home-prefs-shortcuts-by-option-sponsored =
     .label = 贊助捷徑
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } 推薦
 home-prefs-recommended-by-description-new = 由 { -brand-product-name } 的姊妹作 { $provider } 精心策展的內容
@@ -1349,11 +1340,6 @@ sync-signedin-login-failure = 請登入以重新連線 { $email }
 sync-signedin-login-failure2 =
     .description = 重新登入後即可重新連線，並且同步您的資料。
     .label = 您已登出 { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1644,9 +1630,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 了解更多
 forms-windows-sso-desc = 可到您的裝置設定畫面管理帳號
 windows-passkey-settings-label = 到系統設定中管理密碼金鑰
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = 使用 { -brand-short-name } 時，獲得保護您線上個人資訊的協助。
     .label = 隱私權面板設定
@@ -2080,9 +2063,6 @@ content-blocking-fingerprinters = 數位指紋追蹤程式
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = 已知與疑似的數位指紋追蹤程式
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = 全方位 Cookie 保護功能會將 Cookie 限制於您所在的網站當中，這樣追蹤器就無法透過 Cookie 在不同網站間追蹤您。
 content-blocking-etp-standard-tcp-rollout-learn-more = 了解更多

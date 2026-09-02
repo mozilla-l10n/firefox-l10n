@@ -18,22 +18,22 @@ smart-window-model-learn-link = Spoznajte modele
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Model { $model } podjetja { $ownerName }
     .label = Hiter: hitri odgovori
-    .description = Model { $model } podjetja { $ownerName }
 smart-window-model-flexible =
+    .description = Model { $model } podjetja { $ownerName }
     .label = Prilagodljiv: ustrezen za večino nalog
-    .description = Model { $model } podjetja { $ownerName }
 smart-window-model-personal =
-    .label = Oseben: odgovori, najbolj prilagojeni vam
     .description = Model { $model } podjetja { $ownerName }
+    .label = Oseben: odgovori, najbolj prilagojeni vam
 smart-window-model-custom-name =
     .label = Ime modela
     .placeholder = Primer: glm4
 smart-window-model-custom-save =
     .label = Shrani
 ai-window-memories-section =
-    .label = Spomini
     .description = { -brand-short-name } se lahko uči iz vaše dejavnosti za ustvarjanje spominov. Ti se uporabljajo za prilagajanje odgovorov in so shranjeni v tej napravi.
+    .label = Spomini
 ai-window-manage-memories-button =
     .label = Upravljaj spomine
 ai-window-delete-all-memories-button =
@@ -43,5 +43,5 @@ ai-window-delete-all-memories-cancel = Prekliči
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Izbriši spomin
     .aria-label = Izbriši { $label }
+    .title = Izbriši spomin

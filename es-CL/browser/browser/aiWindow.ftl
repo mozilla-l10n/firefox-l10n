@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Buscar con { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Buscar con…
 aiwindow-input-cta-search-submenu-header = Buscar
 aiwindow-input-cta-stop-button =
-    .title = Detener respuesta
     .aria-label = Detener generación de respuesta
+    .title = Detener respuesta
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Cambiar a { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Chats
     .aria-label = Chats
+    .label = Chats
     .tooltiptext = Chats
 smartwindow-footer-history =
-    .label = Historial
     .aria-label = Historial
+    .label = Historial
     .tooltiptext = Historial
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Al usar { -smart-window-brand-name }, tus 
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } chat
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Borra el historial del sitio, de d
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Seleccionar todo
     .aria-label = Seleccionar todo
+    .label = Seleccionar todo
 smart-window-confirm-deselect-all =
-    .label = Deseleccionar todo
     .aria-label = Deseleccionar todo
+    .label = Deseleccionar todo
 smart-window-close-confirm =
     .aria-label = Cancelar solicitud y cerrar
     .tooltiptext = Cancelar solicitud y cerrar

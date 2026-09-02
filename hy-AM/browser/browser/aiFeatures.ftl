@@ -16,8 +16,8 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Սկզբնադիր կարգավորումներ
 ai-window-is-default-window =
-    .label = Օգտագործել { -smart-window-brand-name }-ը սկզբնադիր
     .description = Բացել { -smart-window-brand-name }-ը, երբ { -brand-short-name }-ը մեկնարկում է, վերամեկնարկում է կամ բացում է հղումներ այլ սարքերից:
+    .label = Օգտագործել { -smart-window-brand-name }-ը սկզբնադիր
 smart-window-model-learn-link = Իմանալ մոդելների մասին
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -26,14 +26,14 @@ smart-window-model-learn-link = Իմանալ մոդելների մասին
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
-    .label = Արագ. Պատասխանում է արագ
     .description = Մոդլե { $model }՝ { $ownerName }-ից
+    .label = Արագ. Պատասխանում է արագ
 smart-window-model-flexible =
-    .label = Ճկուն. Հստակ համապատասխանում է կարիքների համար
     .description = Մոդլե { $model }՝ { $ownerName }-ի կողմից
+    .label = Ճկուն. Հստակ համապատասխանում է կարիքների համար
 smart-window-model-personal =
-    .label = Անձնական. Առավել հարմարեցված պատասխաններ
     .description = Մոդել { $model }՝ { $ownerName }-ի կողմից
+    .label = Անձնական. Առավել հարմարեցված պատասխաններ
 smart-window-model-custom =
     .label = Անհատականացված. Օգտագործեք ձեր սեփական LLM
 smart-window-model-custom-url =
@@ -55,5 +55,5 @@ ai-window-delete-all-memories-cancel = Չեղարկել
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Ջնջել հիշողությունը
     .aria-label = Ջնջել { $label }-ը
+    .title = Ջնջել հիշողությունը

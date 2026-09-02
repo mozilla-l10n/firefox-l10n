@@ -8,8 +8,8 @@ smart-window-block-description-both = To chaty a dopomnjeśa wašych { -smart-wi
 smart-window-block-description-chats = To chaty wašych { -smart-window-brand-name } wulašujo.
 smart-window-block-description-memories = To dopomnjeśa wašych { -smart-window-brand-name } wulašujo.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Stajśo pšašanja, pśirownajśo boki a dostańśo personalizěrowane naraźenja ze zatwarjonym asistentom.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Standardne nastajenja
 ai-window-is-default-window =
-    .label = { -smart-window-brand-name } pó standarźe wužywaś
     .description = Wócyńśo { -smart-window-brand-name }, gaž se { -brand-short-name } startujo. znowego startujo abo wótkaze z drugich nałoženjow wócynja.
+    .label = { -smart-window-brand-name } pó standarźe wužywaś
 ai-window-open-sidebar =
-    .label = Asistent awtomatiski wócyniś
     .description = Pokažćo bocnicu asistenta na kuždem nowym rejtariku. Zacyńśo kuždy cas.
+    .label = Asistent awtomatiski wócyniś
 ai-window-smart-cursor-in-smart-window =
-    .label = Zwězanja pokazaś, gaž se tekst wuběra
     .description = Dostańśo malsny pśistup, aby zespominał, wujasnjował a wěcej.
+    .label = Zwězanja pokazaś, gaž se tekst wuběra
 smart-window-model-section =
-    .label = Model asistenta
     .description = Wubjeŕśo model na zakłaźe togo, což jo wažne za was.
+    .label = Model asistenta
 smart-window-model-radio-group =
     .aria-label = Model asistenta
 smart-window-model-learn-link = Zgóńśo wěcej wó modelach
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Zgóńśo wěcej wó modelach
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Model { $model } wót { $ownerName }
     .label = Malsny: wótegranja malsnje
-    .description = Model { $model } wót { $ownerName }
 smart-window-model-flexible =
+    .description = Model { $model } wót { $ownerName }
     .label = Fleksibelny: nejlěpše pśiměrjenje za nejwěcej pótrjebnosćow
-    .description = Model { $model } wót { $ownerName }
 smart-window-model-personal =
-    .label = Wósobinski: nejlěpjej pśiměrjone wótegrona
     .description = Model { $model } wót { $ownerName }
+    .label = Wósobinski: nejlěpjej pśiměrjone wótegrona
 smart-window-model-custom =
     .label = Swójski: Wužywajśo swójski LLM
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Składowaś
 smart-window-model-custom-save-confirmation = Drobnostki modela su se składli. Startujśo nowy chat, aby testował.
 ai-window-memories-section =
-    .label = Dopomnjeśa
     .description = { -brand-short-name } móžo z wašeje aktiwity wuknuś, aby dopomnjeśa napórał. Wužywaju se, aby pomagali, wótegrona personalizěrowaś a składuju se lokalnje na toś tom rěźe.
+    .label = Dopomnjeśa
 ai-window-learn-from-chat-activity =
     .label = Wukniśo z chatow w { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Dopomnjeśa zastojaś
 ai-window-manage-memories-header =
-    .heading = Dopomnjeśa zastojaś
     .description = Dopomnjeśa se lokalnje na toś tom rěźe składuju, aby pomagali, wašu priwatnosć šćitaś. Aktualizěruju se někotare raze na źeń, mjaztym až { -smart-window-brand-name } wužywaśo, tak až nejnowša aktiwita ma chylu se wótbłyšćowaś.
+    .heading = Dopomnjeśa zastojaś
 ai-window-no-memories =
-    .label = Hyšći žedne dopomnjeśa
     .description = Mjaztym { -smart-window-brand-name } z wašeje aktiwity wuknjo, buźośo how dopomnjeśa wiźeś.
+    .label = Hyšći žedne dopomnjeśa
 ai-window-no-memories-learning-off =
-    .label = Njejsu dopomnjeśa za pokazanje
     .description = Wuknjenje z aktiwity jo znjemóžnjone, togodla { -smart-window-brand-name } dopomnjeśa njenapórajo.
+    .label = Njejsu dopomnjeśa za pokazanje
 ai-window-delete-all-memories-button =
     .label = Wšykne lašowaś
 ai-window-delete-all-memories-title = Wšykne dopomnjeśa lašowaś?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Pśetergnuś
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Dopomnjeśe lašowaś
     .aria-label = { $label } lašowaś
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Dopomnjeśe lašowaś
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Malsny
     .description = Nejlěpjej za malsne wótegrona, gaž malsnosć jo wažna. Dopołne mě: { $model } wót { $ownerName }
+    .label = { $shortName }: Malsny
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Fleksibelny
     .description = Gótowy za wjele nadawkow. Dopołne mě: { $model } wót { $ownerName }
+    .label = { $shortName }: Fleksibelny
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Wósobinski
     .description = Wuwity za personalizěrowanu pomoc za někotare rěcy. Dopołne mě: { $model } wót { $ownerName }
+    .label = { $shortName }: Wósobinski

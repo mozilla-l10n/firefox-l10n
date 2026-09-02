@@ -556,15 +556,6 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rendemento
@@ -634,9 +625,6 @@ browsing-cfr-recommendations-learn-more = Máis información
 browsing-group =
     .label = Navegación
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Configuración de rede
@@ -694,9 +682,6 @@ home-homepage-new-tabs =
 home-prefs-homepage-extension-option =
     .label = Extensión ({ $extension })
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contido de { -firefox-home-brand-name }
@@ -708,9 +693,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitios gardados ou visitados
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atallos patrocinados
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description-new = Contido excepcional patrocinado por { $provider }, parte da familia { -brand-product-name }
@@ -913,11 +895,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1157,9 +1134,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Máis información
 forms-windows-sso-desc = Xestionar contas na configuración do dispositivo
 windows-passkey-settings-label = Xestionar as claves de acceso na configuración do sistema
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -1425,9 +1399,6 @@ content-blocking-fingerprinters = Pegadas dixitais
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Pegadas dixitais coñecidas e sospeitosas
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = A protección de rastros total limita os rastros ao sitio no que estás, para que os rastrexadores non os poidan usar para seguirte entre sitios.
 content-blocking-etp-standard-tcp-rollout-learn-more = Máis información
@@ -1756,29 +1727,8 @@ preferences-doh-manage-exceptions =
     .label = Xestionar as excepcións…
     .accesskey = X
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Escolla o cartafol de descarga:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

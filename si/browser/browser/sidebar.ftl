@@ -13,5 +13,5 @@ sidebar-menu-genai-chat-label =
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = පැතිතීරු පෙන්වන්න
     .label = පැති තීරු
+    .tooltiptext = පැතිතීරු පෙන්වන්න

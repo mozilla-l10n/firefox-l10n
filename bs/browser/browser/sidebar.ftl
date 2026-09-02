@@ -191,28 +191,28 @@ sidebar-syncedtabs-title = Tabovi sa drugih uređaja
 synced-tabs-context-close-tab-title =
     .title = Zatvori tab na { $deviceName }
 show-sidebars =
-    .tooltiptext = Prikaži bočne &trake
     .label = Bočne trake
+    .tooltiptext = Prikaži bočne &trake
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Proširi bočnu traku ({ $shortcut })
     .label = Bočne trake
+    .tooltiptext = Proširi bočnu traku ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Sažmi bočnu traku ({ $shortcut })
     .label = Bočne trake
+    .tooltiptext = Sažmi bočnu traku ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Prikaži bočnu traku ({ $shortcut })
     .label = Bočne trake
+    .tooltiptext = Prikaži bočnu traku ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Sakrij bočnu traku ({ $shortcut })
     .label = Bočne trake
+    .tooltiptext = Sakrij bočnu traku ({ $shortcut })

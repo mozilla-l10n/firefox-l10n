@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = ابحث في الوِب عن <strong>�
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = ابحث
-    .accesskey = ا
     .tooltiptext = يفتح نتائج البحث في لسان جديد
+    .accesskey = ا
 neterror-search-cta-reload-button =
     .label = أعد التحميل
     .accesskey = ع

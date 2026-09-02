@@ -46,17 +46,6 @@ should-restart-ok = ಈಗ { -brand-short-name } ಮರಳಿ ಆರಂಭಿಸ
 cancel-no-restart-button = ರದ್ದು ಮಾಡು
 restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = ಹುಡುಕು ಫಲಿತಾಂಶಗಳು
@@ -99,10 +88,6 @@ browser-containers-settings =
     .accesskey = i
 startup-group =
     .label = ಆರಂಭಿಕ
-
-## Variables:
-##   $tabCount (number) - Number of tabs
-
 
 ##
 
@@ -241,15 +226,6 @@ update-application-use-service =
     .label = ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು
     .accesskey = b
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = ಕಾರ್ಯಕ್ಷಮತೆ
@@ -285,9 +261,6 @@ browsing-cfr-recommendations-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿ�
 browsing-group =
     .label = ವೀಕ್ಷಣೆ
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = ನೆಟ್ವರ್ಕ್ ಸಿದ್ಧತೆಗಳು
@@ -295,9 +268,6 @@ network-proxy-connection-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯ�
 network-proxy-connection-settings =
     .label = ಸಿದ್ಧತೆಗಳು...
     .accesskey = e
-
-## Home Section
-
 
 ## Home Section - Default Browser
 
@@ -329,16 +299,10 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = ಹೊಸ ಟ್ಯಾಬ್ ಗಳು
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = ಜಾಲದ ಹುಡುಕಾಟ
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } ರಿಂದ ಶಿಫಾರಸುಮಾಡುಲಾಗಿದೆ
 
@@ -404,9 +368,6 @@ containers-add-button =
 containers-remove-button =
     .label = ತೆಗೆದುಹಾಕು
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -441,11 +402,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ.
 sync-signedin-login-failure = ಮರಳಿ ಸಂಪರ್ಕಿತಗೊಳ್ಳಲು ದಯವಿಟ್ಟು ಸೈನ್‌ ಇನ್ ಆಗಿ { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-remove-account =
@@ -454,12 +410,6 @@ sync-remove-account =
 sync-sign-in =
     .label = ಒಳಗೆ ಪ್ರವೇಶಿಸು‍
     .accesskey = g
-
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
 
 ## The "Choose what to sync" dialog.
 
@@ -511,9 +461,6 @@ sync-verification-not-sent-body = ನಾವು ಈ ಸಮಯದಲ್ಲಿ ಒ�
 
 privacy-header = ವೀಕ್ಷಕದ ಗೌಪ್ಯತೆ
 
-## Privacy Section - Logins and Passwords
-
-
 ## Privacy Panel Settings
 
 forms-exceptions =
@@ -529,15 +476,6 @@ forms-master-pw-change =
     .label = ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸು...
     .accesskey = M
 forms-master-pw-fips-desc = ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸುವಲ್ಲಿ ವಿಫಲಗೊಂಡಿದೆ
-
-## Privacy Panel Settings
-
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -593,12 +531,6 @@ sitedata-settings =
 cookies-site-data-group =
     .label = ಕುಕ್ಕಿಗಳು ಮತ್ತು ತಾಣ ದತ್ತಾಂಶ
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = ವಿಳಾಸ ಪಟ್ಟಿ
@@ -617,19 +549,6 @@ addressbar-suggestions-settings = ಹುಡುಕು ಯಂತ್ರಗಳ ಸ�
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
-##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -672,9 +591,6 @@ collection-header = { -brand-short-name } ದತ್ತಾಂಶ ಸಂಗ್ರ�
 collection-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
 collection-health-report-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -706,35 +622,8 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = FIPS ಅನ್ನು ಶಕ್ತಗೊಳಿಸಿ
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ಗಣಕತೆರೆ
 downloads-folder-name = ಡೌನ್‌ಲೋಡ್‌ಗಳು
 choose-download-folder-title = ಡೌನ್‌ಲೋಡ್‌ ಕಡತಕೋಶವನ್ನು ಆರಿಸು:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

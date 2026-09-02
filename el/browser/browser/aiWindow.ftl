@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Αναζήτηση με { $searchEngineNa
 aiwindow-input-cta-menu-label-search-with = Αναζήτηση με…
 aiwindow-input-cta-search-submenu-header = Αναζήτηση
 aiwindow-input-cta-stop-button =
-    .title = Διακοπή απάντησης
     .aria-label = Διακοπή της δημιουργίας απάντησης
+    .title = Διακοπή απάντησης
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Μετάβαση στο { -smart-window-bra
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .tooltiptext = Συνομιλίες
     .aria-label = Συνομιλίες
     .label = Συνομιλίες
+    .tooltiptext = Συνομιλίες
 smartwindow-footer-history =
-    .label = Ιστορικό
     .aria-label = Ιστορικό
+    .label = Ιστορικό
     .tooltiptext = Ιστορικό
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Καθώς χρησιμοποιείτε τ
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } συνομιλία
@@ -292,8 +288,8 @@ item-history-downloads-and-chat-description = Διαγράφει το ιστορ
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Επιλογή όλων
     .aria-label = Επιλογή όλων
+    .label = Επιλογή όλων
 smart-window-confirm-deselect-all =
     .aria-label = Αποεπιλογή όλων
     .label = Αποεπιλογή όλων

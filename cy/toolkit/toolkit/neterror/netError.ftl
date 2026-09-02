@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Chwiliwch y we am <strong>â€œ{ $query }â
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Chwilio
-    .accesskey = C
     .tooltiptext = Yn agor canlyniadau chwilio mewn tab newydd
+    .accesskey = C
 neterror-search-cta-reload-button =
     .label = Ail-lwytho
     .accesskey = A

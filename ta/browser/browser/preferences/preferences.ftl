@@ -288,15 +288,6 @@ update-in-progress-ok-button = & நிராகரி
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &தொடரவும்
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = செயல்திறன்
@@ -340,9 +331,6 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations-learn-more = மேலும் அறிய
 browsing-group =
     .label = உலாவல்
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -394,16 +382,10 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = புதிய கீற்றுகள்
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = வலை தேடல்
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
 
@@ -490,9 +472,6 @@ containers-add-button =
 containers-remove-button =
     .label = நீக்கு
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -527,11 +506,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } இது உறுதிப்படுத்தவில்லை.
 sync-signedin-login-failure = தயவுச்செய்து மீண்டும் இணைய உள்நுழையவும் { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -543,12 +517,6 @@ sync-remove-account =
 sync-sign-in =
     .label = புகுபதிகை
     .accesskey = g
-
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
 
 ## The "Choose what to sync" dialog.
 
@@ -635,15 +603,6 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = கடவுச்சொல்லை மாற்ற முடியவில்லை
 
-## Privacy Panel Settings
-
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = வரலாறு
@@ -717,12 +676,6 @@ sitedata-settings =
 cookies-site-data-group =
     .label = நினைவிகள் மற்றும் தள தரவு
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = முகவரி பட்டை
@@ -755,15 +708,6 @@ enhanced-tracking-protection-setting-strict =
 enhanced-tracking-protection-setting-custom =
     .label = தனிப்பயன்
     .accesskey = C
-
-##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -825,9 +769,6 @@ collection-health-report-disabled = இந்தக் கட்டமைப்�
 data-collection-studies-link =
     .label = { -brand-short-name } பாடத்திட்டங்களைக் காண்க
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -860,35 +801,8 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = FIPSஐ செயல்படுத்து
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = பணிமேடை
 downloads-folder-name = பதிவிறக்கங்கள்
 choose-download-folder-title = பதிவிறக்க அடைவை தேர்ந்தெடு:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

@@ -121,28 +121,28 @@ sidebar-syncedtabs-title = മറ്റു് ഉപകരണങ്ങളിൽ 
 synced-tabs-context-close-tab-title =
     .title = { $deviceName }-ൽ ടാബു് അടയ്ക്കുക
 show-sidebars =
-    .tooltiptext = വശത്തുള്ള അണിവക്കം കാണിക്കുക
     .label = അണിവക്കങ്ങൾ
+    .tooltiptext = വശത്തുള്ള അണിവക്കം കാണിക്കുക
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = അണിവക്കം വലുതാക്കുക ({ $shortcut })
     .label = അണിവക്കങ്ങൾ
+    .tooltiptext = അണിവക്കം വലുതാക്കുക ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = അണിവക്കം ചുരുക്കുക ({ $shortcut })
     .label = അണിവക്കങ്ങൾ
+    .tooltiptext = അണിവക്കം ചുരുക്കുക ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = അണിവക്കം കാണിക്കുക ({ $shortcut })
     .label = അണിവക്കങ്ങൾ
+    .tooltiptext = അണിവക്കം കാണിക്കുക ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = അണിവക്കം ഒളിപ്പിക്കുക ({ $shortcut })
     .label = അണിവക്കങ്ങൾ
+    .tooltiptext = അണിവക്കം ഒളിപ്പിക്കുക ({ $shortcut })

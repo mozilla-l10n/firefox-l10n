@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Zoeken op het web naar <strong>’{ $que
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Zoeken
-    .accesskey = Z
     .tooltiptext = Opent zoekresultaten in een nieuw tabblad
+    .accesskey = Z
 neterror-search-cta-reload-button =
     .label = Opnieuw laden
     .accesskey = O

@@ -11,14 +11,14 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Noklusējuma iestatījumi
 ai-window-open-sidebar =
-    .label = Automātiski atvērt palīgu
     .description = Sānjoslā rādīt palīgu katrā jaunā cilnē. To var aizvērt jebkurā laikā.
+    .label = Automātiski atvērt palīgu
 ai-window-smart-cursor-in-smart-window =
-    .label = Rādīt īsceļus teksta iezīmēšanas laikā
     .description = Ātra piekļuve kopsavilkumiem, izskaidrošanai un citām darbībām.
+    .label = Rādīt īsceļus teksta iezīmēšanas laikā
 smart-window-model-section =
-    .label = Palīga modelis
     .description = Modeļa izvēlēšanās pēc sev svarīgām prasībām.
+    .label = Palīga modelis
 smart-window-model-radio-group =
     .aria-label = Palīga modelis
 smart-window-model-learn-link = Uzzināt par modeļiem
@@ -38,11 +38,5 @@ ai-window-delete-all-memories-cancel = Atcelt
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Dzēst atmiņu
     .aria-label = Dzēst { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Dzēst atmiņu

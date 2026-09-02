@@ -401,15 +401,6 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rendiment
@@ -468,9 +459,6 @@ browsing-cfr-recommendations-learn-more = Més informació
 browsing-group =
     .label = Navegació
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Paràmetres de xarxa
@@ -521,9 +509,6 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = Pestanyes noves
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -533,9 +518,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Llocs que guardeu o visiteu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Dreceres patrocinades
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
 home-prefs-recommended-by-description-new = Contingut excepcional seleccionat per { $provider }, part de la família de { -brand-product-name }
@@ -698,11 +680,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no està verificat.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -890,9 +867,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Més informació
 forms-windows-sso-desc = Gestioneu els comptes en els paràmetres del dispositiu
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -903,9 +877,6 @@ primary-password-os-auth-dialog-message-win = Per crear una contrasenya principa
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear una contrasenya principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -999,12 +970,6 @@ sitedata-cookies-exceptions =
 cookies-site-data-group =
     .label = Galetes i dades dels llocs
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = Barra d'adreces
@@ -1067,9 +1032,6 @@ content-blocking-unvisited-cookies = Galetes de llocs no visitats
 content-blocking-all-windows-tracking-content = Contingut que fa seguiment en totes les finestres
 content-blocking-cryptominers = Miners de criptomonedes
 content-blocking-fingerprinters = Generadors d'empremtes digitals
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protecció total de galetes aïlla les galetes del lloc on vos trobeu, de manera que els elements de seguiment no les poden utilitzar per a seguir-vos d'un lloc a l'altre,
 content-blocking-etp-standard-tcp-rollout-learn-more = Més informació
@@ -1197,9 +1159,6 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Mostra els estudis del { -brand-short-name }
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1249,32 +1208,8 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = No activis el mode només HTTPS
 
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
 choose-download-folder-title = Tria la carpeta de baixades:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

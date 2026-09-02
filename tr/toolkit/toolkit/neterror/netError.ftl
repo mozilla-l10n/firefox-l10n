@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = <strong>“{ $query }”</strong> terimi
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Ara
-    .accesskey = A
     .tooltiptext = Arama sonuçlarını yeni sekmede açar
+    .accesskey = A
 neterror-search-cta-reload-button =
     .label = Tazele
     .accesskey = T

@@ -296,31 +296,31 @@ sidebar-bookmarks-title = סימניות
 synced-tabs-context-close-tab-title =
     .title = סגירת לשונית ב־{ $deviceName }
 show-sidebars =
-    .tooltiptext = הצגת סרגלי צד
     .label = סרגלי צד
+    .tooltiptext = הצגת סרגלי צד
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = הרחבת סרגל הצד ({ $shortcut })
     .label = סרגלי צד
+    .tooltiptext = הרחבת סרגל הצד ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = כיווץ סרגל הצד ({ $shortcut })
     .label = סרגלי צד
+    .tooltiptext = כיווץ סרגל הצד ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = הצגת סרגל הצד ({ $shortcut })
     .label = סרגלי צד
+    .tooltiptext = הצגת סרגל הצד ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = הסתרת סרגל הצד ({ $shortcut })
     .label = סרגלי צד
+    .tooltiptext = הסתרת סרגל הצד ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

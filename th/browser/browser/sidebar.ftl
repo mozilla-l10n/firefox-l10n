@@ -248,31 +248,31 @@ sidebar-opentabs-window-header =
 synced-tabs-context-close-tab-title =
     .title = ปิดแท็บบน { $deviceName }
 show-sidebars =
-    .tooltiptext = แสดงแถบข้าง
     .label = แถบข้าง
+    .tooltiptext = แสดงแถบข้าง
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = ขยายแถบข้าง ({ $shortcut })
     .label = แถบข้าง
+    .tooltiptext = ขยายแถบข้าง ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = ยุบแถบข้าง ({ $shortcut })
     .label = แถบข้าง
+    .tooltiptext = ยุบแถบข้าง ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = แสดงแถบข้าง ({ $shortcut })
     .label = แถบข้าง
+    .tooltiptext = แสดงแถบข้าง ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = ซ่อนแถบข้าง ({ $shortcut })
     .label = แถบข้าง
+    .tooltiptext = ซ่อนแถบข้าง ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

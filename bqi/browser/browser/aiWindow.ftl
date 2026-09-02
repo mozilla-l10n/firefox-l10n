@@ -60,8 +60,8 @@ aiwindow-input-cta-menu-label-search = پیتینیڌن وا { $searchEngineName
 aiwindow-input-cta-menu-label-search-with = پیتینیڌن وا…
 aiwindow-input-cta-search-submenu-header = پیتینیڌن
 aiwindow-input-cta-stop-button =
-    .title = واڌاشتن جواو داڌن
     .aria-label = واڌاشتن وورکل جواو
+    .title = واڌاشتن جواو داڌن
 
 ## Smartbar
 
@@ -211,12 +211,12 @@ smartwindow-switch-to-smart-window = و { -smart-window-brand-name } بریوی�
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = چتا
     .aria-label = چتا
+    .label = چتا
     .tooltiptext = چتا
 smartwindow-footer-history =
-    .label = ویرگار
     .aria-label = ویرگار
+    .label = ویرگار
     .tooltiptext = ویرگار
 
 ## Disclaimer
@@ -246,10 +246,6 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } چت
@@ -263,11 +259,11 @@ item-history-downloads-and-chat-description = ویرگار وبگه، دانلو
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = پسند پوی
     .aria-label = پسند پوی
+    .label = پسند پوی
 smart-window-confirm-deselect-all =
-    .label = لقو پسند پوی
     .aria-label = لقو پسند پوی
+    .label = لقو پسند پوی
 smart-window-close-confirm =
     .aria-label = لقو درخاست وو بستن
     .tooltiptext = لقو درخاست وو بستن

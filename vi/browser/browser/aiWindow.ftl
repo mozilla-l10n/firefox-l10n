@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Tìm kiếm bằng { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Tìm kiếm với…
 aiwindow-input-cta-search-submenu-header = Tìm kiếm
 aiwindow-input-cta-stop-button =
-    .title = Dừng phản hồi
     .aria-label = Dừng tạo phản hồi
+    .title = Dừng phản hồi
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Chuyển sang { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Trò chuyện
     .aria-label = Trò chuyện
+    .label = Trò chuyện
     .tooltiptext = Trò chuyện
 smartwindow-footer-history =
-    .label = Lịch sử
     .aria-label = Lịch sử
+    .label = Lịch sử
     .tooltiptext = Lịch sử
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Khi bạn sử dụng { -smart-window-bran
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count = { $count } cuộc trò chuyện
 
 ## Clear browsing data dialog
@@ -288,11 +284,11 @@ item-history-downloads-and-chat-description = Xóa lịch sử trang web, tải 
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Chọn tất cả
     .aria-label = Chọn tất cả
+    .label = Chọn tất cả
 smart-window-confirm-deselect-all =
-    .label = Bỏ chọn tất cả
     .aria-label = Bỏ chọn tất cả
+    .label = Bỏ chọn tất cả
 smart-window-close-confirm =
     .aria-label = Hủy yêu cầu và đóng
     .tooltiptext = Hủy yêu cầu và đóng

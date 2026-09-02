@@ -192,31 +192,31 @@ sidebar-bookmarks-title = Отметки
 synced-tabs-context-close-tab-title =
     .title = Затваряне на раздела на { $deviceName }
 show-sidebars =
-    .tooltiptext = Показване на странични ленти
     .label = Странични ленти
+    .tooltiptext = Показване на странични ленти
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Разгъване на страничната лента ({ $shortcut })
     .label = Странични ленти
+    .tooltiptext = Разгъване на страничната лента ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Свиване на страничната лента ({ $shortcut })
     .label = Странични ленти
+    .tooltiptext = Свиване на страничната лента ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Показване на страничната лента ({ $shortcut })
     .label = Странични ленти
+    .tooltiptext = Показване на страничната лента ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Скриване на страничната лента ({ $shortcut })
     .label = Странични ленти
+    .tooltiptext = Скриване на страничната лента ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

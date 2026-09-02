@@ -712,9 +712,6 @@ update-in-progress-ok-button = &Рад кардан
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
 
-## About Firefox
-
-
 ## Firefox updates
 
 update-application-suppress-prompts-heading =
@@ -801,9 +798,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Маълумоти бештар
 browsing-group =
     .label = Тамошобинӣ
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Қобилияти дастрасӣ
 preferences-default-zoom-select =
@@ -912,9 +906,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Васеъшавӣ ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Саҳифаи асосии фармоишӣ
 home-custom-homepage-subpage =
     .heading = Саҳифаи асосии фармоишӣ
@@ -930,9 +921,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Сомонаҳое, ки шумо нигоҳ медоред ё ба онҳо ворид мешавед
 home-prefs-shortcuts-by-option-sponsored =
     .label = Миёнбурҳои сарпарастӣ
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Аз тарафи { $provider } тавсия дода мешавад
 home-prefs-recommended-by-description-new = Муҳтавои мустасно аз тарафи { $provider } интихоб карда шудааст ва қисми оилаи { -brand-product-name } мебошад
@@ -1196,11 +1184,6 @@ sync-signedin-login-failure = Лутфан, барои аз нав пайвас�
 sync-signedin-login-failure2 =
     .description = Барои аз нав пайваст шудан ва оғоз кардани ҳамоҳангсозии маълумоти худ, лутфан, ворид шавед.
     .label = Шумо аз { $email } баромадед
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1487,9 +1470,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Маълумоти бештар
 forms-windows-sso-desc = Ҳисобҳоро дар танзимоти дастгоҳи худ идора кунед
 windows-passkey-settings-label = Идоракунии шоҳкалидҳо дар танзимоти низоми компютерӣ
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -1860,9 +1840,6 @@ content-blocking-fingerprinters = Хонандаи нақши ангушт
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Хонандаи нақши ангуштони маълум ва гумонбар
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = «Муҳофизати пурра аз кукиҳо» ҳамаи кукиҳоро аз сомонаи ҷорие, ки шумо тамошо карда истодаед, нигоҳ медорад, то ки васоити пайгирӣ шуморо байни сомонаҳо назорат карда натавонанд.
 content-blocking-etp-standard-tcp-rollout-learn-more = Маълумоти бештар
@@ -2260,9 +2237,6 @@ desktop-folder-name = Мизи корӣ
 downloads-folder-name = Боргириҳо
 choose-download-folder-title = Интихоби ҷузвдон барои боргириҳо:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-block-ai-label = Манъ кардани такмилҳои зеҳни сунъӣ (AI)
@@ -2330,9 +2304,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Хонандаи нақши ангуштони номаълум
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Хонандаи нақши ангуштони номаълум
-
-## Warnings section
-
-
-## Referrals Section
-

@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Chwilio gyda { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Chwilio gyda…
 aiwindow-input-cta-search-submenu-header = Chwilio
 aiwindow-input-cta-stop-button =
-    .title = Stopio'r ymateb
     .aria-label = Stopio cynhyrchu'r ymateb
+    .title = Stopio'r ymateb
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Newid i { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Sgyrsiau
     .aria-label = Sgyrsiau
+    .label = Sgyrsiau
     .tooltiptext = Sgyrsiau
 smartwindow-footer-history =
-    .label = Hanes
     .aria-label = Hanes
+    .label = Hanes
     .tooltiptext = Hanes
 
 ## Disclaimer
@@ -263,7 +263,7 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Heddiw - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Ddoe - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Message displayed in Firefox View when the user has no chat data
 
@@ -271,10 +271,6 @@ firefoxview-chats-empty-header = Ewch nôl i'ch sgyrsiau
 firefoxview-chats-empty-description = Wrth i chi ddefnyddio { -smart-window-brand-name }, bydd eich sgyrsiau'n cael eu cadw yma.
 
 ## Count displayed in fxview chat search results
-
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
 
 firefoxview-search-chat-results-count =
     { $count ->
@@ -296,11 +292,11 @@ item-history-downloads-and-chat-description = Yn clirio gwefan, llwythi, a hanes
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Dewis y cyfan
     .aria-label = Dewis y cyfan
+    .label = Dewis y cyfan
 smart-window-confirm-deselect-all =
-    .label = Dad-ddewis y cyfan
     .aria-label = Dad-ddewis y cyfan
+    .label = Dad-ddewis y cyfan
 smart-window-close-confirm =
     .aria-label = Diddymu'r cais a chau
     .tooltiptext = Diddymu'r cais a chau

@@ -6,5 +6,5 @@
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = ಬದಿಪಟ್ಟಿಗಳಲ್ಲಿ ನೋಡು
     .label = ಬದಿಪಟ್ಟಿಕೆಗಳು
+    .tooltiptext = ಬದಿಪಟ್ಟಿಗಳಲ್ಲಿ ನೋಡು

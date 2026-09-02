@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Laster-markak
 synced-tabs-context-close-tab-title =
     .title = Itxi { $deviceName } gailuko fitxa
 show-sidebars =
-    .tooltiptext = Erakutsi alboko barrak
     .label = Alboko barrak
+    .tooltiptext = Erakutsi alboko barrak
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Zabaldu alboko barra ({ $shortcut })
     .label = Alboko barrak
+    .tooltiptext = Zabaldu alboko barra ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Tolestu alboko barra ({ $shortcut })
     .label = Alboko barrak
+    .tooltiptext = Tolestu alboko barra ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Erakutsi alboko barra ({ $shortcut })
     .label = Alboko barrak
+    .tooltiptext = Erakutsi alboko barra ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Ezkutatu alboko barra ({ $shortcut })
     .label = Alboko barrak
+    .tooltiptext = Ezkutatu alboko barra ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

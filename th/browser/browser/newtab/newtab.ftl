@@ -188,9 +188,6 @@ newtab-privacy-across-sites = ใน { $count } ไซต์
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } จะปิดกั้นตัวติดตามในขณะที่คุณเรียกดู คุณจะเห็นตัวติดตามเหล่านั้นที่นี่
 
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -204,37 +201,12 @@ newtab-privacy-message-info-2-cta = ดูการป้องกัน
 newtab-privacy-message-info-3 = หลายเว็บไซต์มีตัวติดตาม ทำให้บริษัทที่คุณไม่เคยเข้าเยี่ยมชมไซต์สามารถติดตามคุณทางออนไลน์ได้
 newtab-privacy-message-info-3-cta = ดูการป้องกัน
 
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
 ## Strings for the Stocks widget
 
 # Context menu item for searching stock ticker symbols.
 newtab-stocks-menu-search = ค้นหาสัญลักษณ์ย่อหลักทรัพย์
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = เรียนรู้เพิ่มเติม
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
 
 ## Strings for the Picture of the Day widget
 
@@ -256,13 +228,6 @@ newtab-picture-menu-hide-photo = ซ่อนภาพประจำวัน�
 newtab-picture-menu-show-photo = แสดงภาพประจำวันนี้
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = เรียนรู้เพิ่มเติม
-
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
@@ -310,9 +275,6 @@ newtab-topsites-image-url-label = URL ภาพกำหนดเอง
 newtab-topsites-use-custom-image-link = ใช้ภาพกำหนดเอง
 newtab-topsites-use-image-link = ใช้ภาพกำหนดเอง…
 newtab-topsites-image-validation = ไม่สามารถโหลดภาพ ลอง URL อื่น
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = ล้างข้อความ
 
@@ -341,9 +303,6 @@ newtab-topsite-sponsored = ได้รับการสนับสนุน
 topsite-label-pinned =
     .aria-label = { $title } (ปักหมุดอยู่)
     .title = { $title }
-
-## Top Sites - Web notifications hover card
-
 
 ## Context Menu - Action Tooltips.
 
@@ -632,9 +591,6 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = ปิด
 newtab-custom-settings = จัดการการตั้งค่าเพิ่มเติม
 
-## New Tab Appearance (browser theme picker)
-
-
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -731,9 +687,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1130,9 +1083,6 @@ newtab-promo-card-cta = เรียนรู้เพิ่มเติม
 newtab-promo-card-dismiss-button =
     .aria-label = ปิด
     .title = ปิด
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1389,9 +1339,6 @@ newtab-sports-widget-message-day-in-play-title = เติมความสน�
 newtab-sports-widget-message-day-in-play-body = ติดตามการแข่งขันฟุตบอลโลก จดจ่ออยู่กับงาน ติดตามเวลาทั่วโลก และอื่น ๆ อีกมากมาย
 newtab-sports-widget-message-explore-widgets-cta =
     .label = สำรวจวิดเจ็ต
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

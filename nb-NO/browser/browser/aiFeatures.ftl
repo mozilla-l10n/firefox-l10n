@@ -8,8 +8,8 @@ smart-window-block-description-both = Dette vil slette chattene og minnene dine 
 smart-window-block-description-chats = Dette vil slette chattene dine i { -smart-window-brand-name }.
 smart-window-block-description-memories = Dette vil slette minnene dine i { -smart-window-brand-name }.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Still spørsmål, sammenlign sider og få personlige forslag med en innebygd assistent.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Standardinnstillinger
 ai-window-is-default-window =
-    .label = Bruk { -smart-window-brand-name } som standard
     .description = Åpne { -smart-window-brand-name } når { -brand-short-name } starter, starter på nytt eller åpner lenker fra andre apper.
+    .label = Bruk { -smart-window-brand-name } som standard
 ai-window-open-sidebar =
-    .label = Åpne assistenten automatisk
     .description = Vis sidepanelet for assistenten på hver nye fane. Lukk det når som helst.
+    .label = Åpne assistenten automatisk
 ai-window-smart-cursor-in-smart-window =
-    .label = Vis snarveier når du markerer tekst
     .description = Få rask tilgang til oppsummering, forklaringer og mer.
+    .label = Vis snarveier når du markerer tekst
 smart-window-model-section =
-    .label = Assistentmodell
     .description = Velg en modell basert på det som er viktigst for deg.
+    .label = Assistentmodell
 smart-window-model-radio-group =
     .aria-label = Assistentmodell
 smart-window-model-learn-link = Les om modeller
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Les om modeller
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Modell { $model } fra { $ownerName }
     .label = Hurtig: Raske svar
-    .description = Modell { $model } fra { $ownerName }
 smart-window-model-flexible =
+    .description = Modell { $model } fra { $ownerName }
     .label = Fleksibel: Passer godt til de fleste behov
-    .description = Modell { $model } fra { $ownerName }
 smart-window-model-personal =
-    .label = Personlig: Mest tilpassede svar
     .description = Modell { $model } fra { $ownerName }
+    .label = Personlig: Mest tilpassede svar
 smart-window-model-custom =
     .label = Tilpasset: Bruk din egen LLM
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Lagre
 smart-window-model-custom-save-confirmation = Modelldetaljer lagret. Start en ny chat for å teste.
 ai-window-memories-section =
-    .label = Minner
     .description = { -brand-short-name } kan lære av aktiviteten din for å lage minner. De brukes til å tilpasse svar og lagres lokalt på denne enheten.
+    .label = Minner
 ai-window-learn-from-chat-activity =
     .label = Lær fra chatter i { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Behandle minner
 ai-window-manage-memories-header =
-    .heading = Behandle minner
     .description = Minner lagres lokalt på denne enheten for å beskytte personvernet ditt. De oppdateres noen ganger daglig mens du bruker { -smart-window-brand-name }, så nyere aktivitet kan bruke litt tid på å vises.
+    .heading = Behandle minner
 ai-window-no-memories =
-    .label = Ingen minner ennå
     .description = Etter hvert som { -smart-window-brand-name } lærer av aktiviteten din, vil minner vises her.
+    .label = Ingen minner ennå
 ai-window-no-memories-learning-off =
-    .label = Ingen minner å vise
     .description = Læring fra aktivitet er slått av, så { -smart-window-brand-name } oppretter ikke minner.
+    .label = Ingen minner å vise
 ai-window-delete-all-memories-button =
     .label = Slett alle
 ai-window-delete-all-memories-title = Slette alle minner?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Avbryt
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Slett minne
     .aria-label = Slett { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Slett minne
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Hurtig
     .description = Best til raske svar når hastighet er viktig. Fullt navn: { $model } fra { $ownerName }
+    .label = { $shortName }: Hurtig
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Fleksibel
     .description = Egner seg til mange ulike oppgaver. Fullt navn: { $model } fra { $ownerName }
+    .label = { $shortName }: Fleksibel
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Personlig
     .description = Utviklet for personlig tilpasset hjelp på tvers av språk. Fullt navn: { $model } fra { $ownerName }
+    .label = { $shortName }: Personlig

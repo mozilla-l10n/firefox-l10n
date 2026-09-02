@@ -6,5 +6,5 @@
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = Wys kantbalke
     .label = Kantstawe
+    .tooltiptext = Wys kantbalke

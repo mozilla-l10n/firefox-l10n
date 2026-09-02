@@ -72,5 +72,5 @@ sidebar-history-title = చరిత్ర
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = పక్కపట్టీలు చూపించు
     .label = పక్కపట్టీలు
+    .tooltiptext = పక్కపట్టీలు చూపించు

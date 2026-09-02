@@ -848,9 +848,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Læs mere
 browsing-group =
     .label = Browsing
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Tilgængelighed
 preferences-default-zoom-select =
@@ -960,9 +957,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Udvidelse ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Tilpasset startside
 home-custom-homepage-subpage =
     .heading = Tilpasset startside
@@ -978,9 +972,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Gemte eller besøgte websteder
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorerede genveje
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Anbefalet af { $provider }
 home-prefs-recommended-by-description-new = Interessant indhold udvalgt af { $provider }, en del af { -brand-product-name }-familien
@@ -1289,11 +1280,6 @@ sync-signedin-login-failure = Log ind for at synkronisere { $email }
 sync-signedin-login-failure2 =
     .description = Log ind igen for at genoprette forbindelsen og synkronisere dine data.
     .label = Du er logget ud fra { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1581,9 +1567,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Læs mere
 forms-windows-sso-desc = Håndter konti i dine enhedsindstillinger
 windows-passkey-settings-label = Håndter adgangsnøgler i operativsystemets indstillinger
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -1983,9 +1966,6 @@ content-blocking-fingerprinters = Fingerprinters
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Kendte og formodede fingerprinters
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Komplet Cookiebeskyttelse begrænser cookies til det websted, du befinder dig på. Så kan sporingsmekanismer ikke følge dig på tværs af websteder.
 content-blocking-etp-standard-tcp-rollout-learn-more = Læs mere

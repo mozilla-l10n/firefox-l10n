@@ -174,23 +174,23 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .tooltiptext = Use memories in responses when helpful
     .aria-label = Memories on
+    .tooltiptext = Use memories in responses when helpful
 aiwindow-memories-off =
-    .tooltiptext = Don’t use memories in responses
     .aria-label = Memories off
+    .tooltiptext = Don’t use memories in responses
 
 ## New Chat Button
 
 aiwindow-new-chat =
-    .tooltiptext = New chat
     .aria-label = New chat
+    .tooltiptext = New chat
 
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
-    .tooltiptext = Close
     .aria-label = Close
+    .tooltiptext = Close
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
@@ -198,12 +198,12 @@ aiwindow-close-sidebar =
 ## history subview lists recent chats and a shortcut to all chats.
 
 aiwindow-history-menu =
-    .tooltiptext = More options
     .aria-label = More options
+    .tooltiptext = More options
 aiwindow-history-menu-chat-history = Chat history
 aiwindow-history-menu-back =
-    .tooltiptext = Back
     .aria-label = Back
+    .tooltiptext = Back
 aiwindow-history-menu-view-all-chats = View all chats
 aiwindow-history-menu-settings = { -smart-window-brand-name } settings
 
@@ -232,13 +232,13 @@ smartwindow-switch-to-smart-window = Switch to { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .tooltiptext = Chats
     .aria-label = Chats
     .label = Chats
+    .tooltiptext = Chats
 smartwindow-footer-history =
-    .tooltiptext = History
     .aria-label = History
     .label = History
+    .tooltiptext = History
 
 ## Disclaimer
 ## Text displayed to user to warn user about potential mistakes.
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = As you use { -smart-window-brand-name }, y
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } chat
@@ -298,8 +294,8 @@ smart-window-confirm-deselect-all =
     .aria-label = Deselect all
     .label = Deselect all
 smart-window-close-confirm =
-    .tooltiptext = Cancel request and close
     .aria-label = Cancel request and close
+    .tooltiptext = Cancel request and close
 smart-window-confirm-close-tab = Close
 # Variables
 #   $count (number) - Number of tabs to close

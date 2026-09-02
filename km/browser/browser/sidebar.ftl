@@ -76,5 +76,5 @@ sidebar-history-title = ប្រវត្តិ
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = បង្ហាញ​របារ​ចំហៀង
     .label = របារ​ចំហៀង
+    .tooltiptext = បង្ហាញ​របារ​ចំហៀង

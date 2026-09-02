@@ -907,9 +907,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Află mai multe
 browsing-group =
     .label = Navigare
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Accesibilitate
 preferences-default-zoom-select =
@@ -1028,9 +1025,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Extensie ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Pagină de start personalizată
 home-custom-homepage-subpage =
     .heading = Pagină de start personalizată
@@ -1046,9 +1040,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Site-uri pe care le salvezi sau le vizitezi
 home-prefs-shortcuts-by-option-sponsored =
     .label = Comenzi rapide sponsorizate
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Recomandat de { $provider }
 home-prefs-recommended-by-description-new = Conținut excepțional, selecționat de { $provider }, parte a familiei { -brand-product-name }
@@ -1363,11 +1354,6 @@ sync-signedin-login-failure = Te rugăm să te autentifici pentru reconectare { 
 sync-signedin-login-failure2 =
     .description = Intră din nou în cont pentru reconectare și ca să începi sincronizarea datelor.
     .label = Nu ești autentificat(ă) în { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1658,9 +1644,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Află mai multe
 forms-windows-sso-desc = Gestionează conturile în setările dispozitivului
 windows-passkey-settings-label = Gestionează cheile de acces în setările de sistem
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Obține ajutor la protejarea informațiilor tale online în { -brand-short-name }.
     .label = Setările panoului de confidențialitate
@@ -2094,9 +2077,6 @@ content-blocking-fingerprinters = Detectoare de amprente digitale
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Detectoare cunoscute și suspectate de amprente digitale
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Protecția totală a cookie-urilor izolează cookie-urile către site-ul pe care te afli, astfel încât elementele de urmărire nu le pot folosi pentru a te urmări între site-uri.
 content-blocking-etp-standard-tcp-rollout-learn-more = Află mai multe

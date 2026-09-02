@@ -391,9 +391,6 @@ update-application-use-service =
     .label = Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et
     .accesskey = a
 
-## About Firefox
-
-
 ## Firefox updates
 
 update-application-heading =
@@ -453,9 +450,6 @@ browsing-cfr-recommendations =
 browsing-cfr-recommendations-learn-more = Ətraflı Öyrən
 browsing-group =
     .label = Səyahət
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Əlçatanlıq
 
@@ -527,16 +521,10 @@ home-custom-homepage-address-button =
 home-custom-homepage-bookmarks-button =
     .label = Əlfəcinlər…
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = Web Axtarış
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } məsləhət görür
 
@@ -686,11 +674,6 @@ sync-signedin-login-failure2 =
     .description = Yenidən bağlanmaq və məlumatlarınızı sinxronizə etməyə başlamaq üçün təkrar daxil olun.
     .label = Siz { $email } hesabından çıxış etdiniz
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -702,9 +685,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Daxil ol
     .accesskey = x
-
-## Sync section - enabling or disabling sync.
-
 
 ## The list of things currently syncing.
 
@@ -822,9 +802,6 @@ forms-primary-pw-change =
     .accesskey = P
 forms-primary-pw-fips-title = Hazırda FIPS rejimindəsiniz. FIPS rejimi üçün boş buraxılmamış Baş Parol lazımdır.
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -967,12 +944,6 @@ sitedata-cookies-exceptions3 =
 cookies-site-data-group =
     .label = Çərəzlər və Sayt Məlumatları
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = Ünvan Sətri
@@ -1008,9 +979,6 @@ enhanced-tracking-protection-setting-custom =
     .accesskey = F
 
 ##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-warning-title = Diqqət!
 content-blocking-reload-tabs-button =
@@ -1108,9 +1076,6 @@ collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məl
 data-collection-studies-link =
     .label = { -brand-short-name } tədqiqatlarını gör
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1143,18 +1108,12 @@ certs-devices =
     .accesskey = T
 certs-devices-enable-fips = FIPS aktivləşdir
 
-## Privacy Section - HTTPS-Only
-
-
 ## DoH Section
 
 preferences-doh-header = HTTPS üzərindən DNS
 dns-over-https-group2 =
     .description = HTTPS üzərindən Domen Adları Sistemi (DoH) sayt sorğularını (ünvanların axtarışını) şifrələyir ki, internet provayderinizin və ya digər şəxslərin hansı saytlara daxil olmaq üzrə olduğunuzu görməsi daha çətin olsun.
     .label = HTTPS üzərindən DNS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 
@@ -1215,9 +1174,3 @@ preferences-etp-header =
 preferences-etp-manage-exceptions-button =
     .description = Artırılmış İzlənmə Qorumasının söndürüldüyü vebsaytları idarə edin.
     .label = İstisnaları idarə et
-
-## Warnings section
-
-
-## Referrals Section
-

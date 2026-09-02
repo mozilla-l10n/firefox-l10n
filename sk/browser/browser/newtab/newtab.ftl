@@ -558,9 +558,6 @@ newtab-topsites-image-url-label = Adresa URL vlastného obrázka
 newtab-topsites-use-custom-image-link = Použiť vlastný obrázok
 newtab-topsites-use-image-link = Použiť vlastný obrázok…
 newtab-topsites-image-validation = Obrázok sa nepodarilo načítať. Skúste inú adresu URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Vymazať text
 
@@ -917,9 +914,6 @@ newtab-custom-close-menu-button =
     .title = Zavrieť
 newtab-custom-close-button = Zavrieť
 newtab-custom-settings = Ďalšie nastavenia
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Vzhľad
 # Button that opens the full browser theme selection view.
@@ -1037,9 +1031,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1441,9 +1432,6 @@ newtab-promo-card-cta = Ďalšie informácie
 newtab-promo-card-dismiss-button =
     .aria-label = Zavrieť
     .title = Zavrieť
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

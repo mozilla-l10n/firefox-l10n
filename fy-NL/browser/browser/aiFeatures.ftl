@@ -8,8 +8,8 @@ smart-window-block-description-both = Dit smyt jo { -smart-window-brand-name }-c
 smart-window-block-description-chats = Dit smyt jo { -smart-window-brand-name }-chats fuort.
 smart-window-block-description-memories = Dit smyt jo { -smart-window-brand-name }-oantinkens fuort.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Stel fragen, fergelykje siden en ûntfang personalisearre suggestjes mei in ynboude assistint.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Standertynstellingen
 ai-window-is-default-window =
-    .label = Standert { -smart-window-brand-name } brûke
     .description = { -smart-window-brand-name } iepenje wannear’t { -brand-short-name } start, opnij start of keppelingen fan oare apps út iepenet.
+    .label = Standert { -smart-window-brand-name } brûke
 ai-window-open-sidebar =
-    .label = Assistint automatysk iepenje
     .description = De assistint-sydbalke toane by elk nij ljepblêd. Jo kinne dizze op elk momint slute.
+    .label = Assistint automatysk iepenje
 ai-window-smart-cursor-in-smart-window =
-    .label = Fluchkeppelingen toane by selektearjen fan tekst
     .description = Flugge tagong ta gearfetsjen, útlizze en mear.
+    .label = Fluchkeppelingen toane by selektearjen fan tekst
 smart-window-model-section =
-    .label = Assistint-model
     .description = Kies in model op basis fan wat jo wichtich fine.
+    .label = Assistint-model
 smart-window-model-radio-group =
     .aria-label = Assistint-model
 smart-window-model-learn-link = Ynfo oer modellen
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Ynfo oer modellen
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Model { $model } troch { $ownerName }
     .label = Fluch: antwurdet fluch
-    .description = Model { $model } troch { $ownerName }
 smart-window-model-flexible =
+    .description = Model { $model } troch { $ownerName }
     .label = Fleksibel: solide, foar de measte behoeften
-    .description = Model { $model } troch { $ownerName }
 smart-window-model-personal =
-    .label = Persoanlik: antwurden op maat
     .description = Model { $model } troch { $ownerName }
+    .label = Persoanlik: antwurden op maat
 smart-window-model-custom =
     .label = Oanpast: jo eigen LLM brûke
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Bewarje
 smart-window-model-custom-save-confirmation = Modeldetails bewarre. Start in nij petear om te testen.
 ai-window-memories-section =
-    .label = Oantinkens
     .description = { -brand-short-name } kin fan jo aktiviteit leare om oantinkens oan te meitsjen. Se wurde brûkt om antwurden te personalisearjen en wurde lokaal op dit apparaat bewarre.
+    .label = Oantinkens
 ai-window-learn-from-chat-activity =
     .label = Leare fan chats yn { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Oantinkens beheare
 ai-window-manage-memories-header =
-    .heading = Oantinkens beheare
     .description = Oantinkens wurde lokaal op dit apparaat bewarre om jo privacy te beskermjen. Se wurde deistich inkelde kearen ferfarske wylst gebrûk fan { -smart-window-brand-name }, dus it kin even duorje eardat resinte aktiviteit ferwurke is.
+    .heading = Oantinkens beheare
 ai-window-no-memories =
-    .label = Noch gjin oantinkens
     .description = Wylst { -smart-window-brand-name } leart fan jo aktiviteit, sjogge jo hjir oantinkens ferskine.
+    .label = Noch gjin oantinkens
 ai-window-no-memories-learning-off =
-    .label = Gjin oantinkens om te toanen
     .description = Leare fan aktiviteit is útskeakele, dus { -smart-window-brand-name } makket gjin oantinkens oan.
+    .label = Gjin oantinkens om te toanen
 ai-window-delete-all-memories-button =
     .label = Alles fuortsmite
 ai-window-delete-all-memories-title = Alle oantinkens fuortsmite?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Annulearje
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Oantinken fuortsmite
     .aria-label = { $label } fuortsmite
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Oantinken fuortsmite
 smart-window-model-fast-v2 =
-    .label = { $shortName }: fluch
     .description = It beste foar flugge antwurden wannear’t snelheid der ta docht. Folsleine namme: { $model } troch { $ownerName }
+    .label = { $shortName }: fluch
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: fleksibel
     .description = Klear foar in breed skala oan taken. Folsleine namme: { $model } troch { $ownerName }
+    .label = { $shortName }: fleksibel
 smart-window-model-personal-v2 =
-    .label = { $shortName }: persoanlik
     .description = Boud foar personalisearre help yn meardere talen. Folsleine namme: { $model } troch { $ownerName }
+    .label = { $shortName }: persoanlik

@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Serĉi per { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Serĉi per…
 aiwindow-input-cta-search-submenu-header = Serĉi
 aiwindow-input-cta-stop-button =
-    .title = Haltigi respondon
     .aria-label = Haltigi la kreadon de respondo
+    .title = Haltigi respondon
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Ŝanĝi al { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Konversacioj
     .aria-label = Konversacioj
+    .label = Konversacioj
     .tooltiptext = Konversacioj
 smartwindow-footer-history =
-    .label = Historio
     .aria-label = Historio
+    .label = Historio
     .tooltiptext = Historio
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Dum vi uzas { -smart-window-brand-name } v
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } konversacio
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Tio ĉi viŝas la retejan, elŝuta
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Elekti ĉion
     .aria-label = Elekti ĉion
+    .label = Elekti ĉion
 smart-window-confirm-deselect-all =
-    .label = Malelekti ĉion
     .aria-label = Malelekti ĉion
+    .label = Malelekti ĉion
 smart-window-close-confirm =
     .aria-label = Nuligi peton kaj fermi
     .tooltiptext = Nuligi peton kaj fermi

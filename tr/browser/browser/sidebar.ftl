@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Yer imleri
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } cihazındaki sekmeyi kapat
 show-sidebars =
-    .tooltiptext = Kenar çubuklarını göster
     .label = Kenar çubukları
+    .tooltiptext = Kenar çubuklarını göster
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Kenar çubuğunu genişlet ({ $shortcut })
     .label = Kenar çubukları
+    .tooltiptext = Kenar çubuğunu genişlet ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Kenar çubuğunu daralt ({ $shortcut })
     .label = Kenar çubukları
+    .tooltiptext = Kenar çubuğunu daralt ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Kenar çubuğunu göster ({ $shortcut })
     .label = Kenar çubukları
+    .tooltiptext = Kenar çubuğunu göster ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Kenar çubuğunu gizle ({ $shortcut })
     .label = Kenar çubukları
+    .tooltiptext = Kenar çubuğunu gizle ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = { $searchEngineName } ᱥᱟᱶ ᱥᱮᱸ
 aiwindow-input-cta-menu-label-search-with = ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ…
 aiwindow-input-cta-search-submenu-header = ᱥᱮᱸᱫᱽᱨᱟ
 aiwindow-input-cta-stop-button =
-    .title = ᱛᱮᱞᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .aria-label = ᱛᱮᱞᱟ ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .title = ᱛᱮᱞᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = { -smart-window-brand-name } ᱛᱮ ᱵᱚ�
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = ᱪᱟᱴᱠᱚ
     .aria-label = ᱪᱟᱴᱠᱚ
+    .label = ᱪᱟᱴᱠᱚ
     .tooltiptext = ᱪᱟᱴᱠᱚ
 smartwindow-footer-history =
-    .label = ᱱᱟᱜᱟᱢ
     .aria-label = ᱱᱟᱜᱟᱢ
+    .label = ᱱᱟᱜᱟᱢ
     .tooltiptext = ᱱᱟᱜᱟᱢ
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = ᱡᱮᱞᱠᱟ ᱟᱢ { -smart-window-bra
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } ᱪᱟᱴ
@@ -293,11 +289,11 @@ item-history-downloads-and-chat-description = ᱥᱟᱭᱤᱴ, ᱰᱟᱩᱱᱞ�
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = ᱡᱷᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
     .aria-label = ᱡᱷᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .label = ᱡᱷᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 smart-window-confirm-deselect-all =
-    .label = ᱡᱚᱛᱚ ᱠᱚ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
     .aria-label = ᱡᱚᱛᱚ ᱠᱚ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .label = ᱡᱚᱛᱚ ᱠᱚ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 smart-window-close-confirm =
     .aria-label = ᱟᱨᱫᱟᱥ ᱵᱚᱱᱫᱚ ᱢᱮ ᱟᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .tooltiptext = ᱟᱨᱫᱟᱥ ᱵᱚᱱᱫᱚ ᱢᱮ ᱟᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ

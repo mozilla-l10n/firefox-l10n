@@ -910,9 +910,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Več o tem
 browsing-group =
     .label = Brskanje
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Dostopnost
 preferences-default-zoom-select =
@@ -1031,9 +1028,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Razširitev ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Domača stran po meri
 home-custom-homepage-subpage =
     .heading = Domača stran po meri
@@ -1049,9 +1043,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Strani, ki jih shranite ali obiščete
 home-prefs-shortcuts-by-option-sponsored =
     .label = Bližnjice oglaševalcev
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Priporoča { $provider }
 home-prefs-recommended-by-description-new = Izjemna vsebina, ki jo pripravlja { $provider }, del družine { -brand-product-name }
@@ -1367,11 +1358,6 @@ sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email 
 sync-signedin-login-failure2 =
     .description = Znova se prijavite za nadaljevanje sinhronizacije podatkov.
     .label = Odjavljeni ste iz { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1659,9 +1645,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2087,9 +2070,6 @@ content-blocking-fingerprinters = Sledilce prstnih odtisov
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Znane in morebitne sledilce prstnih odtisov
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Popolna zaščita pred piškotki zadrži piškotke na spletnem mestu, na katerem se nahajate, tako da jih sledilci ne morejo uporabiti za sledenje med različnimi spletnimi mesti.
 content-blocking-etp-standard-tcp-rollout-learn-more = Več o tem

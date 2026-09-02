@@ -848,9 +848,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Àteras informatziones
 browsing-group =
     .label = Navigatzione
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Atzessibilidade
 preferences-default-zoom-select =
@@ -947,9 +944,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Estensione ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Pàgina printzipale personalizada
 home-custom-homepage-subpage =
     .heading = Pàgina printzipale personalizada
@@ -965,9 +959,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitos chi as sarvadu o bisitadu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Curtzadòrgios patrotzinados
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Cussigiados dae { $provider }
 home-prefs-recommended-by-description-new = Cuntenutu de primore curadu dae { $provider }, parte de sa famìlia de { -brand-product-name }
@@ -1248,11 +1239,6 @@ sync-signedin-unverified2 =
     .description = Averìgua sa casella de posta eletrònica pro cunfirmare su contu e dd’ufitzializare.
     .label = { $email } no est ancora cunfirmadu
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1536,9 +1522,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Àteras informatziones
 forms-windows-sso-desc = Gesti is contos in sa cunfiguratzione de su dispositivu tuo
 windows-passkey-settings-label = Gesti is craes de atzessu in is cunfiguratziones de su sistema
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Otene agiudu pro s’amparu de s’informatzione tua in lìnia cun { -brand-short-name }.
     .label = Cunfiguratziones de su pannellu de riservadesa
@@ -1936,9 +1919,6 @@ content-blocking-fingerprinters = Generadores de imprentas digitales
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Generadores de imprentas digitales connotos e suspetos
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Sa protetzione totale de testimòngios cuntenet is testimòngios de su situ in ue t’agatas, aici is sighidores no ddos podent impreare pro ti sighire intre unu situ e s’àteru.
 content-blocking-etp-standard-tcp-rollout-learn-more = Àteras informatziones
@@ -2313,9 +2293,6 @@ desktop-folder-name = Iscrivania
 downloads-folder-name = Iscarrigamentos
 choose-download-folder-title = Sèbera sa cartella de iscarrigamentos
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-block-ai =
@@ -2413,9 +2390,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Generadores de imprentas digitales suspetos
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Generadores de imprentas digitales suspetos
-
-## Warnings section
-
-
-## Referrals Section
-

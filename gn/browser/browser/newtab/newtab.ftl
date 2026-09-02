@@ -207,9 +207,6 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } ojoko tapykuehoita oikundaha aja. Ko’ápe ojehecháta.
 
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -491,9 +488,6 @@ newtab-topsites-image-url-label = URL ra’ãnga ñemomba’etepyre
 newtab-topsites-use-custom-image-link = Ta’ãnga ñemomba’etepyre
 newtab-topsites-use-image-link = Ta’ãnga ñemomba’etepyre…
 newtab-topsites-image-validation = Ta’ãnga nehenyhẽkuái. Eiporu peteĩ URL iñambuéva.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Emopotĩ moñe’ẽrã
 
@@ -851,9 +845,6 @@ newtab-custom-close-menu-button =
     .title = Mboty
 newtab-custom-close-button = Mboty
 newtab-custom-settings = Eñangareko hetave ñembohekóre
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Mba’ejeguarã
 # Button that opens the full browser theme selection view.
@@ -971,9 +962,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1374,9 +1362,6 @@ newtab-promo-card-cta = Eikuaave
 newtab-promo-card-dismiss-button =
     .aria-label = Mboyke
     .title = Mboyke
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

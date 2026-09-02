@@ -544,15 +544,6 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Kinerja
@@ -622,9 +613,6 @@ browsing-cfr-recommendations-learn-more = Pelajari lebih lanjut
 browsing-group =
     .label = Jelajah Web
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Setelan Jaringan
@@ -682,9 +670,6 @@ home-homepage-new-tabs =
 home-prefs-homepage-extension-option =
     .label = Ekstensi ({ $extension })
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Konten { -firefox-home-brand-name }
@@ -696,9 +681,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Situs yang Anda simpan atau kunjungi
 home-prefs-shortcuts-by-option-sponsored =
     .label = Pintasan bersponsor
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Disarankan oleh { $provider }
 home-prefs-recommended-by-description-new = Konten luar biasa yang dikelola oleh { $provider }, bagian dari keluarga { -brand-product-name }
@@ -891,11 +873,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
 sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1135,9 +1112,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Pelajari lebih lanjut
 forms-windows-sso-desc = Kelola akun di pengaturan perangkat Anda
 windows-passkey-settings-label = Kelola kunci sandi di pengaturan sistem
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -1428,9 +1402,6 @@ content-blocking-fingerprinters = Pelacak Sidik
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Sidik jari yang dikenal dan dicurigai
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Perlindungan Kuki total membelenggu kuki situs tempat Anda berada, sehingga pelacak tidak dapat menggunakannya untuk mengikuti Anda antar-situs.
 content-blocking-etp-standard-tcp-rollout-learn-more = Pelajari lebih lanjut
@@ -1758,31 +1729,13 @@ preferences-doh-manage-exceptions =
     .label = Kelola Pengecualian…
     .accesskey = K
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Unduhan
 choose-download-folder-title = Pilih Folder Unduhan:
 
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isolasikan kuki lintas situs
-
-## Warnings section
-
-
-## Referrals Section
-

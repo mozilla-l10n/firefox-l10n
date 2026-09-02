@@ -6,5 +6,5 @@
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = Amuesa les barres llaterales
     .label = Barres llaterales
+    .tooltiptext = Amuesa les barres llaterales

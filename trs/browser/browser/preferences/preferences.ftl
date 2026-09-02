@@ -310,15 +310,6 @@ update-in-progress-ok-button = &Discard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Gun' ne' ñaan
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Daj unūkuaj ma
@@ -373,9 +364,6 @@ browsing-cfr-recommendations-learn-more = Gahuin chrūn doj
 browsing-group =
     .label = Aché nu'
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Dàj ga Red ruhuât
@@ -426,16 +414,10 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = Rakïj ñanj nakàa
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = Nana'uì' web
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Sa hua hue'e taj { $provider }
 
@@ -533,9 +515,6 @@ containers-add-button =
 containers-remove-button =
     .label = Dure'
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -575,11 +554,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } se sa ni'in huin ma.
 sync-signedin-login-failure = Gayi'ī sesión da' gatu ñut { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -739,15 +713,6 @@ forms-master-pw-change =
     .accesskey = N
 forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
 
-## Privacy Panel Settings
-
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Daran sa gahuin
@@ -837,12 +802,6 @@ sitedata-settings =
 cookies-site-data-group =
     .label = Kookies nī si dato sitio
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = Dukuán direksion
@@ -891,9 +850,6 @@ content-blocking-unvisited-cookies = SI kokî nej sitiô nitaj si ni'iajt
 content-blocking-all-windows-tracking-content = Sa ni'iaj sa màn 'iát riña daran' bentâna
 content-blocking-cryptominers = Nej Kriptominêro
 content-blocking-fingerprinters = Nej da'nga' ra'a
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = ¡Nuguan' huaa!
 content-blocking-warning-learn-how = Gahuin chrūn dàj
 content-blocking-reload-description = Da' naduna sa huin ruhuât ni da'uît nagi'iaj nakàt rakïj ñanj.
@@ -999,9 +955,6 @@ collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj s
 data-collection-studies-link =
     .label = Ni'io' nej sa digi'ñun { -brand-short-name }
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1034,35 +987,8 @@ certs-devices =
     .accesskey = N
 certs-devices-enable-fips = Nachrun FIPS
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Eskritorio
 downloads-folder-name = Nadunínj
 choose-download-folder-title = Ganahui dane' gima sa' sa naduninjt
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

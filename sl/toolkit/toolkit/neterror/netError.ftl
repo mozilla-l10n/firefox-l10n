@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Išči <strong>"{ $query }"</strong> na 
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Išči
-    .accesskey = I
     .tooltiptext = Odpre rezultate iskanja v novem zavihku
+    .accesskey = I
 neterror-search-cta-reload-button =
     .label = Ponovno naloži
     .accesskey = P

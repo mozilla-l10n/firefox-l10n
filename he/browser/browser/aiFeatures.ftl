@@ -8,8 +8,8 @@ smart-window-block-description-both = פעולה זו תמחק את הצ’אט�
 smart-window-block-description-chats = פעולה זו תמחק את הצ’אטים שלך מ־{ -smart-window-brand-name }.
 smart-window-block-description-memories = פעולה זו תמחק את הזכרונות שלך מ־{ -smart-window-brand-name }.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = לשאול שאלות, להשוות בין דפים, ולקבל הצעות מותאמות עבורך באמצעות עוזרת מובנית.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = הגדרות ברירת מחדל
 ai-window-is-default-window =
-    .label = שימוש ב־{ -smart-window-brand-name } כברירת מחדל
     .description = פתיחת { -smart-window-brand-name } כאשר { -brand-short-name } מופעל, מופעל מחדש או פותח לשוניות מיישומים אחרים.
+    .label = שימוש ב־{ -smart-window-brand-name } כברירת מחדל
 ai-window-open-sidebar =
-    .label = פתיחת העוזרת באופן אוטומטי
     .description = הצגת סרגל צד של העוזרת בכל לשונית חדשה. ניתן לסגור אותה בכל עת.
+    .label = פתיחת העוזרת באופן אוטומטי
 ai-window-smart-cursor-in-smart-window =
-    .label = הצגת קיצורי דרך בעת בחירת טקסט
     .description = קבלת גישה מהירה לסיכום, מתן הסבר ועוד.
+    .label = הצגת קיצורי דרך בעת בחירת טקסט
 smart-window-model-section =
-    .label = מודל העוזרת
     .description = בחירת מודל המבוסס על מה שחשוב לך.
+    .label = מודל העוזרת
 smart-window-model-radio-group =
     .aria-label = מודל העוזרת
 smart-window-model-learn-link = מידע נוסף על מודלים
@@ -42,14 +42,14 @@ smart-window-model-learn-link = מידע נוסף על מודלים
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = מודל { $model } מאת { $ownerName }
     .label = מהיר: קבלת תשובות בזריזות
-    .description = מודל { $model } מאת { $ownerName }
 smart-window-model-flexible =
+    .description = מודל { $model } מאת { $ownerName }
     .label = גמיש: בחירה טובה לרוב הצרכים
-    .description = מודל { $model } מאת { $ownerName }
 smart-window-model-personal =
-    .label = אישי: התשובות המותאמות ביותר
     .description = מודל { $model } מאת { $ownerName }
+    .label = אישי: התשובות המותאמות ביותר
 smart-window-model-custom =
     .label = מותאם אישית: שימוש ב־LLM משלך
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = שמירה
 smart-window-model-custom-save-confirmation = פרטי המודל נשמרו. ניתן להתחיל צ’אט חדש כדי לנסות אותו.
 ai-window-memories-section =
-    .label = זכרונות
     .description = ‏{ -brand-short-name } יכול ללמוד מהפעילות שלך כדי ליצור זכרונות. הם משמשים להתאמה אישית של התשובות ומאוחסנים באופן מקומי במכשיר הזה.
+    .label = זכרונות
 ai-window-learn-from-chat-activity =
     .label = ללמוד מצ’אטים ב־{ -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = ניהול זכרונות
 ai-window-manage-memories-header =
-    .heading = ניהול זכרונות
     .description = הזיכרונות מאוחסנים באופן מקומי במכשיר הזה כדי לסייע בהגנה על הפרטיות שלך. הם מתרעננים כמה פעמים ביום בזמן השימוש ב־{ -smart-window-brand-name }, ולכן ייתכן שיחלוף זמן עד שפעילות שביצעת לאחרונה תשתקף בהם.
+    .heading = ניהול זכרונות
 ai-window-no-memories =
-    .label = אין עדיין זכרונות
     .description = ברגע ש־{ -smart-window-brand-name } ילמד מהפעילות שלך, הזכרונות יוצגו כאן.
+    .label = אין עדיין זכרונות
 ai-window-no-memories-learning-off =
-    .label = אין זכרונות להצגה
     .description = הלמידה מהפעילות כבויה, לכן { -smart-window-brand-name } לא יוצר זכרונות.
+    .label = אין זכרונות להצגה
 ai-window-delete-all-memories-button =
     .label = מחיקת הכל
 ai-window-delete-all-memories-title = למחוק את כל הזכרונות?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = ביטול
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = מחיקת זכרון
     .aria-label = מחיקת { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = מחיקת זכרון
 smart-window-model-fast-v2 =
-    .label = ‏{ $shortName }: מהיר
     .description = הכי מתאים לתשובות מהירות כשכל שנייה חשובה. השם המלא: { $model } מאת { $ownerName }
+    .label = ‏{ $shortName }: מהיר
 smart-window-model-flexible-v2 =
-    .label = ‏{ $shortName }: גמיש
     .description = מתאים למגוון רחב של משימות. השם המלא: { $model } מאת { $ownerName }
+    .label = ‏{ $shortName }: גמיש
 smart-window-model-personal-v2 =
-    .label = ‏{ $shortName }: אישי
     .description = בנוי למתן סיוע מותאם אישית במגוון שפות. השם המלא: { $model } מאת { $ownerName }
+    .label = ‏{ $shortName }: אישי

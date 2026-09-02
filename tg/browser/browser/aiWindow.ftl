@@ -157,13 +157,13 @@ aiwindow-fullpage-more =
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .tooltiptext = Суҳбатҳо
     .aria-label = Суҳбатҳо
     .label = Суҳбатҳо
+    .tooltiptext = Суҳбатҳо
 smartwindow-footer-history =
-    .tooltiptext = Таърих
     .aria-label = Таърих
     .label = Таърих
+    .tooltiptext = Таърих
 
 ## Disclaimer
 ## Text displayed to user to warn user about potential mistakes.
@@ -197,10 +197,6 @@ firefoxview-chats-empty-description = Ҳангоми истифодаи «{ -sma
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } суҳбат
@@ -217,11 +213,11 @@ item-history-downloads-and-chat-description = Таърихи саҳифаҳои 
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Ҳамаро интихоб кардан
     .aria-label = Ҳамаро интихоб кардан
+    .label = Ҳамаро интихоб кардан
 smart-window-confirm-deselect-all =
-    .label = Бекор кардани интихоб
     .aria-label = Бекор кардани интихоб
+    .label = Бекор кардани интихоб
 smart-window-close-confirm =
     .aria-label = Дархостро бекор кунед ва пӯшед
     .tooltiptext = Дархостро бекор кунед ва пӯшед

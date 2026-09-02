@@ -11,5 +11,5 @@ sidebar-context-menu-copy-link =
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = Ipakita ang mga sidebars
     .label = Mga sidebar
+    .tooltiptext = Ipakita ang mga sidebars

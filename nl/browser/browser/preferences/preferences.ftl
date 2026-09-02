@@ -906,9 +906,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Meer info
 browsing-group =
     .label = Navigeren
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Toegankelijkheid
 preferences-default-zoom-select =
@@ -1027,9 +1024,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Extensie ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Aangepaste startpagina
 home-custom-homepage-subpage =
     .heading = Aangepaste startpagina
@@ -1045,9 +1039,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Opgeslagen of bezochte websites
 home-prefs-shortcuts-by-option-sponsored =
     .label = Gesponsorde snelkoppelingen
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Aanbevolen door { $provider }
 home-prefs-recommended-by-description-new = Uitzonderlijke inhoud, samengesteld door { $provider }, onderdeel van de { -brand-product-name }-familie
@@ -1361,11 +1352,6 @@ sync-signedin-login-failure = Meld u aan om { $email } opnieuw te verbinden
 sync-signedin-login-failure2 =
     .description = Meld u weer aan om opnieuw te verbinden en te beginnen met synchroniseren van uw gegevens.
     .label = U bent afgemeld bij { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1656,9 +1642,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Meer info
 forms-windows-sso-desc = Accounts beheren in uw apparaatinstellingen
 windows-passkey-settings-label = Wachtwoordsleutels beheren in systeeminstellingen
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Ontvang hulp om uw online gegevens te beschermen in { -brand-short-name }.
     .label = Instellingen privacypaneel
@@ -2092,9 +2075,6 @@ content-blocking-fingerprinters = Fingerprinters
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Bekende en verdachte fingerprinters
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totale cookiebescherming sluit cookies in op de website die u bezoekt, zodat trackers ze niet kunnen gebruiken om u tussen websites te volgen.
 content-blocking-etp-standard-tcp-rollout-learn-more = Meer info

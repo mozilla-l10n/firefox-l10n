@@ -191,28 +191,28 @@ sidebar-syncedtabs-title = As pestanas doutros dispositivos
 synced-tabs-context-close-tab-title =
     .title = Pechar a pestana en { $deviceName }
 show-sidebars =
-    .tooltiptext = Amosar as barras laterais
     .label = Barras laterais
+    .tooltiptext = Amosar as barras laterais
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Expandir a barra lateral ({ $shortcut })
     .label = Barras laterais
+    .tooltiptext = Expandir a barra lateral ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Contraer a barra lateral ({ $shortcut })
     .label = Barras laterais
+    .tooltiptext = Contraer a barra lateral ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Mostrar a barra lateral ({ $shortcut })
     .label = Barras laterais
+    .tooltiptext = Mostrar a barra lateral ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Ocultar a barra lateral ({ $shortcut })
     .label = Barras laterais
+    .tooltiptext = Ocultar a barra lateral ({ $shortcut })

@@ -8,8 +8,8 @@ smart-window-block-description-both = 將刪除您在{ -smart-window-brand-name 
 smart-window-block-description-chats = 將刪除您在{ -smart-window-brand-name }的聊天內容。
 smart-window-block-description-memories = 將刪除您{ -smart-window-brand-name }的記憶。
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = 透過內建助理問問題、比對頁面、獲得個人化建議。
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = 預設設定
 ai-window-is-default-window =
-    .label = 預設使用{ -smart-window-brand-name }
     .description = 開啟 { -brand-short-name }、重新啟動，或從其他應用程式開啟鏈結時都開啟{ -smart-window-brand-name }。
+    .label = 預設使用{ -smart-window-brand-name }
 ai-window-open-sidebar =
-    .label = 自動開啟助理
     .description = 於每個新分頁中顯示助理側邊欄，可隨時關閉。
+    .label = 自動開啟助理
 ai-window-smart-cursor-in-smart-window =
-    .label = 選擇文字時顯示捷徑
     .description = 讓您更快就能摘要、解釋內容，與更多功能。
+    .label = 選擇文字時顯示捷徑
 smart-window-model-section =
-    .label = 助理模型
     .description = 依照您的偏好選擇模型。
+    .label = 助理模型
 smart-window-model-radio-group =
     .aria-label = 助理模型
 smart-window-model-learn-link = 了解各種模型的相關資訊
@@ -42,14 +42,14 @@ smart-window-model-learn-link = 了解各種模型的相關資訊
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = 由 { $ownerName } 提供的 { $model } 模型
     .label = 快速：快速回答
-    .description = 由 { $ownerName } 提供的 { $model } 模型
 smart-window-model-flexible =
+    .description = 由 { $ownerName } 提供的 { $model } 模型
     .label = 靈活：能滿足大多數需求
-    .description = 由 { $ownerName } 提供的 { $model } 模型
 smart-window-model-personal =
-    .label = 個人化：針對您量身打造的回答
     .description = 由 { $ownerName } 提供的 { $model } 模型
+    .label = 個人化：針對您量身打造的回答
 smart-window-model-custom =
     .label = 自訂：使用您自己的 LLM 模型
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = 儲存
 smart-window-model-custom-save-confirmation = 已儲存模型資訊，請發起新聊天進行測試。
 ai-window-memories-section =
-    .label = 記憶
     .description = { -brand-short-name } 可從您的上網行為建立記憶。記憶會儲存在本裝置中，用來回覆更符合您的內容。
+    .label = 記憶
 ai-window-learn-from-chat-activity =
     .label = 從{ -smart-window-brand-name }的對話學習
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = 管理記憶
 ai-window-manage-memories-header =
-    .heading = 管理記憶
     .description = 為了保護您的隱私，記憶只會存在本裝置中。每天只會隨您使用 { -smart-window-brand-name }更新幾次記憶內容，所以您近期的上網行為可能要花一點時間才會有所更新。
+    .heading = 管理記憶
 ai-window-no-memories =
-    .label = 還沒有記憶
     .description = 當 { -smart-window-brand-name }學習您的上網行為後即可於此處看見記憶內容。
+    .label = 還沒有記憶
 ai-window-no-memories-learning-off =
-    .label = 沒有可顯示的記憶內容
     .description = 已關閉了解您上網行為的功能，所以 { -smart-window-brand-name }不會建立任何記憶。
+    .label = 沒有可顯示的記憶內容
 ai-window-delete-all-memories-button =
     .label = 全部刪除
 ai-window-delete-all-memories-title = 要刪除所有記憶嗎？
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = 取消
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = 刪除記憶
     .aria-label = 刪除 { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = 刪除記憶
 smart-window-model-fast-v2 =
-    .label = { $shortName }：快速
     .description = 最適合在需要快速處理事情時快速獲得答案。全名：由 { $ownerName } 提供的 { $model }
+    .label = { $shortName }：快速
 smart-window-model-flexible-v2 =
-    .label = { $shortName }：靈活
     .description = 準備好進行各種任務。全名：由 { $ownerName } 提供的 { $model }
+    .label = { $shortName }：靈活
 smart-window-model-personal-v2 =
-    .label = { $shortName }：個人化
     .description = 為不同語言的個人化輔助而打造。全名：由 { $ownerName } 提供的 { $model }
+    .label = { $shortName }：個人化

@@ -245,31 +245,31 @@ sidebar-bookmarks-title = Sinnalibros
 synced-tabs-context-close-tab-title =
     .title = Serra s’ischeda in { $deviceName }
 show-sidebars =
-    .tooltiptext = Ammustra is barras laterales
     .label = Barras laterales
+    .tooltiptext = Ammustra is barras laterales
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Ismànnia sa barra laterale ({ $shortcut })
     .label = Barras laterales
+    .tooltiptext = Ismànnia sa barra laterale ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Mìnima sa barra laterale ({ $shortcut })
     .label = Barras laterales
+    .tooltiptext = Mìnima sa barra laterale ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Ammustra sa barra laterale ({ $shortcut })
     .label = Barras laterales
+    .tooltiptext = Ammustra sa barra laterale ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Cua sa barra laterale ({ $shortcut })
     .label = Barras laterales
+    .tooltiptext = Cua sa barra laterale ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

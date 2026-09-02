@@ -6,5 +6,5 @@
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = ဘေးဘားတန်းများကို ပြပါ
     .label = ဘေးဘားတန်းများ
+    .tooltiptext = ဘေးဘားတန်းများကို ပြပါ

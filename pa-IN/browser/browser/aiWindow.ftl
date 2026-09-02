@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = { $searchEngineName } ਨਾਲ ਖੋਜ
 aiwindow-input-cta-menu-label-search-with = …ਨਾਲ ਖੋਜੋ
 aiwindow-input-cta-search-submenu-header = ਖੋਜ
 aiwindow-input-cta-stop-button =
-    .title = ਜਵਾਬ ਰੋਕੋ
     .aria-label = ਜਵਾਬ ਦੇਣਾ ਰੋਕੋ
+    .title = ਜਵਾਬ ਰੋਕੋ
 
 ## Smartbar
 
@@ -227,12 +227,12 @@ smartwindow-switch-to-smart-window = { -smart-window-brand-name } ਲਈ ਬਦ�
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = ਚੈਟਾਂ
     .aria-label = ਚੈਟਾਂ
+    .label = ਚੈਟਾਂ
     .tooltiptext = ਚੈਟਾਂ
 smartwindow-footer-history =
-    .label = ਅਤੀਤ
     .aria-label = ਅਤੀਤ
+    .label = ਅਤੀਤ
     .tooltiptext = ਅਤੀਤ
 
 ## Disclaimer
@@ -267,10 +267,6 @@ firefoxview-chats-empty-description = ਜਿਵੇਂ ਜਿਵੇਂ ਤੁਸ�
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } ਚੈਟ
@@ -287,11 +283,11 @@ item-history-downloads-and-chat-description = ਸਾਈਟ, ਡਾਊਨਲੋ�
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = ਸਭ ਚੁਣੋ
     .aria-label = ਸਭ ਚੁਣੋ
+    .label = ਸਭ ਚੁਣੋ
 smart-window-confirm-deselect-all =
-    .label = ਸਭ ਅਣ-ਚੁਣੇ ਕਰੋ
     .aria-label = ਸਭ ਅਣ-ਚੁਣੇ ਕਰੋ
+    .label = ਸਭ ਅਣ-ਚੁਣੇ ਕਰੋ
 smart-window-close-confirm =
     .aria-label = ਜਵਾਬ ਰੱਦ ਕਰੋ ਅਤੇ ਬੰਦ ਕਰੋ
     .tooltiptext = ਜਵਾਬ ਰੱਦ ਕਰੋ ਅਤੇ ਬੰਦ ਕਰੋ

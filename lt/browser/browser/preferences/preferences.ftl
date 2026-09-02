@@ -473,15 +473,6 @@ update-in-progress-ok-button = &Atmesti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Našumas
@@ -543,9 +534,6 @@ browsing-cfr-recommendations-learn-more = Sužinoti daugiau
 browsing-group =
     .label = Naršymas
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Tinklo nuostatos
@@ -598,9 +586,6 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = Naujos kortelės
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = „{ -firefox-home-brand-name }“ turinys
@@ -612,9 +597,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Jūsų įrašytos arba lankomos svetainės
 home-prefs-shortcuts-by-option-sponsored =
     .label = Rėmėjų leistukai
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Rekomenduoja „{ $provider }“
 home-prefs-recommended-by-description-new = Išskirtinis turinys, kuruojamas „{ $provider }“, kuri yra „{ -brand-product-name }“ šeimos dalis
@@ -785,11 +767,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Paskyra { $email } yra nepatvirtinta.
 sync-signedin-login-failure = Prie { $email } reikia prisijungti iš naujo
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -978,9 +955,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Sužinoti daugiau
 forms-windows-sso-desc = Tvarkykite paskyras savo įrenginio nuostatose
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -991,9 +965,6 @@ primary-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slap
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = sukurti pagrindinį slaptažodį
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -1091,12 +1062,6 @@ sitedata-cookies-exceptions =
 cookies-site-data-group =
     .label = Slapukai ir svetainių duomenys
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = Adreso laukas
@@ -1164,9 +1129,6 @@ content-blocking-unvisited-cookies = Slapukai iš nelankytų svetainių
 content-blocking-all-windows-tracking-content = Stebėjimui naudojamas turinys visuose languose
 content-blocking-cryptominers = Kriptovaliutų kasėjai
 content-blocking-fingerprinters = Skaitmeninių atspaudų stebėjimas
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Visapusiška slapukų apsauga riboja slapukų pasiekimą jūsų lankomoje svetainėje, todėl stebėjimo elementai negali jų naudoti jūsų sekimui tarp svetainių.
 content-blocking-etp-standard-tcp-rollout-learn-more = Sužinoti daugiau
@@ -1301,9 +1263,6 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Peržiūrėti „{ -brand-short-name }“ tyrimus
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1353,32 +1312,8 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Neįjungti tik HTTPS veiksenos
 
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Darbalaukis
 downloads-folder-name = Atsiuntimų aplankas
 choose-download-folder-title = Atsiuntimų aplanko parinkimas
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

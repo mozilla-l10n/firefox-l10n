@@ -6,5 +6,5 @@
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = لاتەنیشت پیشان بدە
     .label = لاتەنیشت
+    .tooltiptext = لاتەنیشت پیشان بدە

@@ -151,12 +151,6 @@ newtab-privacy-trackers-blocked-today =
        *[other] $count lorgaire blocáilte inniu
     }
 
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -173,12 +167,6 @@ newtab-privacy-message-info-6-cta = Tuilleadh eolais
 newtab-privacy-message-promo-signin-1-cta = Logáil isteach
 newtab-privacy-message-promo-private-window-1-cta = Oscail fuinneog phríobháideach
 
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
@@ -186,19 +174,6 @@ newtab-stocks-menu-learn-more = Tuilleadh eolais
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Stoic
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
 
 ## Strings for the Picture of the Day widget
 
@@ -208,13 +183,6 @@ newtab-picture-menu-show-photo = Taispeáin pictiúr an lae inniu
 newtab-picture-show-button =
     .aria-label = Taispeáin pictiúr an lae inniu
     .title = Taispeáin pictiúr an lae inniu
-
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
@@ -259,9 +227,6 @@ newtab-topsites-url-input =
     .placeholder = Clóscríobh nó greamaigh URL
 newtab-topsites-url-validation = URL neamhbhailí
 newtab-topsites-image-validation = Theip ar an íomhá lódáil. Bain triail as URL eile.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Glan an téacs
 
@@ -282,12 +247,6 @@ newtab-confirm-delete-history-p2 = Ní féidir an gníomh seo a chur ar ceal.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Urraithe
-
-## Label used by screen readers for pinned top sites
-
-
-## Top Sites - Web notifications hover card
-
 
 ## Context Menu - Action Tooltips.
 
@@ -338,9 +297,6 @@ newtab-menu-section-learn-more = Tuilleadh eolais
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Ná lean an topaic
 
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
-
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Déanta
@@ -384,18 +340,12 @@ newtab-section-menu-add-search-engine = Cuir Inneall Cuardaigh Leis
 newtab-section-menu-move-up = Bog Suas
 newtab-section-menu-move-down = Bog Síos
 
-## Section aria-labels
-
-
 ## Section Headers.
 
 newtab-section-header-topsites = Barrshuímh
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Molta ag { $provider }
-
-## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -415,16 +365,6 @@ newtab-pocket-more-recommendations = Tuilleadh Moltaí
 newtab-pocket-cta-button = Faigh { -pocket-brand-name }
 newtab-pocket-save = Sábháil
 newtab-pocket-saved = Sábháilte
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-
-## Error Fallback Content.
-## This message and suggested action link are shown in each section of UI that fails to render.
-
 
 ## New Tab Appearance (browser theme picker)
 
@@ -466,9 +406,6 @@ newtab-custom-close-menu-button =
     .title = Dún
 newtab-custom-settings = Bainistigh tuilleadh socruithe
 
-## New Tab Appearance (browser theme picker)
-
-
 ## New Tab Wallpapers
 
 newtab-wallpaper-toggle-title =
@@ -483,9 +420,6 @@ newtab-wallpaper-pink = Bándearg
 newtab-wallpaper-light-pink = Bándearg éadrom
 newtab-wallpaper-red = Dearg
 
-## Abstract
-
-
 ## Firefox
 
 # Variables
@@ -494,13 +428,7 @@ newtab-wallpaper-red = Dearg
 newtab-wallpaper-attribution = Grianghraf a ghlac <a data-l10n-name="name-link">{ $author_string }</a> ar an <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Cuir beagán datha leis
 newtab-wallpaper-feature-highlight-button = Tuigim
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
-
-## Celestial
-
 
 ## New Tab Weather
 
@@ -569,18 +497,6 @@ newtab-section-block-cancel-button = Cealaigh
 newtab-section-mangage-topics-title = Topaicí
 newtab-custom-wallpaper-cta = Bain triail as
 
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
 ## Strings for reporting issues with ads and content
 
 newtab-report-ads-reason-not-interested =
@@ -596,16 +512,10 @@ newtab-report-content-outdated =
 newtab-report-content-inappropriate-offensive =
     .label = Míchuí nó déistineach
 
-## Strings for task / to-do list productivity widget
-
-
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-menu-button =
     .aria-label = Roghanna an amadóra
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 newtab-widget-timer-pause-aria =
     .aria-label = Cuir an t-amadóir ar sos
 # Variables:
@@ -861,12 +771,6 @@ newtab-sports-widget-message-survey-widget-title = Céard a cheap tú de ghiuirl
 newtab-sports-widget-message-survey-widget-body = Roinn do thuairimí le cabhrú linn giuirléidí amach anseo a fheabhsú. Ansin, bain triail as an gceann nua i do liosta.
 newtab-sports-widget-message-survey-cta =
     .label = Tóg suirbhé
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
 
 ## Strings for the Clock widget
 

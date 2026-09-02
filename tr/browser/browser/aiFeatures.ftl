@@ -97,12 +97,6 @@ ai-window-delete-all-memories-cancel = Vazgeç
 ai-window-memory-delete-button =
     .aria-label = { $label } anısını sil
     .title = Anıyı sil
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
 smart-window-model-fast-v2 =
     .description = Hız önemliyse çabuk cevap almak için ideal. Tam ad: { $ownerName } { $model }
     .label = { $shortName }: Hızlı

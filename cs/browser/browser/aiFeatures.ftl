@@ -8,8 +8,8 @@ smart-window-block-description-both = Tímto smažete své chaty a vzpomínky fu
 smart-window-block-description-chats = Tímto smažete své chaty v { -smart-window-brand-name(case: "loc") }.
 smart-window-block-description-memories = Tímto smažete vaše vzpomínky v { -smart-window-brand-name(case: "loc") }.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Ptejte se na otázky, porovnávejte stránky, a získejte personalizované nabídky s vestavěným asistentem
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Výchozí nastavení
 ai-window-is-default-window =
-    .label = Používat ve výchozím nastavení funkci { -smart-window-brand-name }
     .description = Otevřít { -smart-window-brand-name } při startu, restartu aplikace { -brand-short-name } nebo při otevírání odkazů z jiné aplikace.
+    .label = Používat ve výchozím nastavení funkci { -smart-window-brand-name }
 ai-window-open-sidebar =
-    .label = Automaticky otevírat asistenta
     .description = Na každém novém panelu se zobrazí postranní panel asistenta. Můžete jej kdykoli zavřít.
+    .label = Automaticky otevírat asistenta
 ai-window-smart-cursor-in-smart-window =
-    .label = Zobrazovat zkratky při výběru textu
     .description = Získejte rychlý přístup k funkcím pro vytváření shrnutí, vysvětlení a dalším.
+    .label = Zobrazovat zkratky při výběru textu
 smart-window-model-section =
-    .label = Model pro asistenta
     .description = Vyberte si model podle toho, co je pro vás důležité.
+    .label = Model pro asistenta
 smart-window-model-radio-group =
     .aria-label = Model pro asistenta
 smart-window-model-learn-link = Bližší informace o modelech
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Bližší informace o modelech
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Model { $model } od { $ownerName }
     .label = Rychlý: odpovídá rychle
-    .description = Model { $model } od { $ownerName }
 smart-window-model-flexible =
+    .description = Model { $model } od { $ownerName }
     .label = Flexibilní: dobrý pro většinu úkonů
-    .description = Model { $model } od { $ownerName }
 smart-window-model-personal =
-    .label = Osobní: nejpřesnější odpovědi
     .description = Model { $model } od { $ownerName }
+    .label = Osobní: nejpřesnější odpovědi
 smart-window-model-custom =
     .label = Vlastní: Použijte vlastní LLM
 smart-window-model-custom-name =
@@ -67,23 +67,23 @@ smart-window-model-custom-save =
     .label = Uložit
 smart-window-model-custom-save-confirmation = Podrobnosti o modelu byly uloženy. Pro vyzkoušení spusťte nový chat.
 ai-window-memories-section =
-    .label = Vzpomínky
     .description = { -brand-short-name } se může z vaší aktivity učit a vytvářet si vzpomínky. Slouží k přizpůsobení odpovědí a ukládají se místně na tomto zařízení.
+    .label = Vzpomínky
 ai-window-learn-from-chat-activity =
     .label = Učit se z chatu v { -smart-window-brand-name(case: "loc", plural-form: "true") }
 ai-window-learn-from-browsing-activity =
-    .label = Učit se z prohlížení v klasickém okně a { -smart-window-brand-name(plural-form: "true", case: "loc") }
+    .label = Učit se z prohlížení v klasickém okně a { -smart-window-brand-name(case: "loc", plural-form: "true") }
 ai-window-manage-memories-button =
     .label = Spravovat vzpomínky
 ai-window-manage-memories-header =
-    .heading = Spravovat vzpomínky
     .description = Vzpomínky se ukládají lokálně na tomto zařízení, aby byla zajištěna ochrana vašeho soukromí. Během používání funkce { -smart-window-brand-name } se aktualizují několikrát denně, takže může chvíli trvat, než se v nich projeví vaše poslední aktivity.
+    .heading = Spravovat vzpomínky
 ai-window-no-memories =
-    .label = Zatím žádné vzpomínky
     .description = Jak se { -smart-window-brand-name } učí na základě vaší činnosti, budou se vám zde zobrazovat vzpomínky.
+    .label = Zatím žádné vzpomínky
 ai-window-no-memories-learning-off =
-    .label = Žádné vzpomínky k zobrazení
     .description = Učení se z aktivit je vypnuto, tudíž { -smart-window-brand-name } nevytváří žádné vzpomínky.
+    .label = Žádné vzpomínky k zobrazení
 ai-window-delete-all-memories-button =
     .label = Smazat vše
 ai-window-delete-all-memories-title = Smazat všechny vzpomínky?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Zrušit
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Vymazání paměti
     .aria-label = Smazat { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Vymazání paměti
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Rychlý
     .description = Ideální pro rychlé odpovědi, když jde o čas. Celý název: { $model } od { $ownerName }
+    .label = { $shortName }: Rychlý
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Flexibilní
     .description = Vhodný pro nejrůznější úkoly. Celý název: { $model } od { $ownerName }
+    .label = { $shortName }: Flexibilní
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Osobní
     .description = Vytvořeno pro individuální pomoc v různých jazycích. Celý název: { $model } od { $ownerName }
+    .label = { $shortName }: Osobní

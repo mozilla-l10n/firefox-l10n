@@ -899,9 +899,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Научете повече
 browsing-group =
     .label = Разглеждане
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Достъпност
 preferences-default-zoom-select =
@@ -994,9 +991,6 @@ home-homepage-new-tabs =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Разширение ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Персонализирана начална страница
 home-custom-homepage-subpage =
     .heading = Персонализирана начална страница
@@ -1012,9 +1006,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Страници за преглед по-късно
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонсорирани препратки
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Препоръчано от { $provider }
 home-prefs-recommended-by-description-new = Изключително съдържание, подбрано от { $provider } част от семейството на { -brand-product-name }
@@ -1310,11 +1301,6 @@ sync-signedin-login-failure = Моля, впишете се, за да се св
 sync-signedin-login-failure2 =
     .description = Влезте отново, за да синхронизирате данните си.
     .label = Излизали сте от { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1605,9 +1591,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Научете повече
 forms-windows-sso-desc = Управление на профили в настройките на устройството
 windows-passkey-settings-label = Управляване на ключ-паролите в системните настройки
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Получете помощ за защитата на вашата информация онлайн в { -brand-short-name }.
     .label = Настройки на панела за поверителност
@@ -2022,9 +2005,6 @@ content-blocking-fingerprinters = Снемане на цифров отпеча�
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Познати и подозрителни скриптове, които събират данни
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Цялостната защита изолира бисквитките само до страницата която посещавате, така че  проследяващите скриптове да не могат ви следват в други сайтове.
 content-blocking-etp-standard-tcp-rollout-learn-more = Научете повече
@@ -2766,6 +2746,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .description = Автоматичното конфигуриране на прокси може да позволи на ненадеждни мрежи да наблюдават вашата дейност.
     .label = Автоматичното конфигуриране на прокси е включено
-
-## Referrals Section
-

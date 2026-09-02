@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Dấu trang
 synced-tabs-context-close-tab-title =
     .title = Đóng thẻ trên { $deviceName }
 show-sidebars =
-    .tooltiptext = Hiển thị thanh lề
     .label = Thanh lề
+    .tooltiptext = Hiển thị thanh lề
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Mở rộng thanh lề ({ $shortcut })
     .label = Thanh lề
+    .tooltiptext = Mở rộng thanh lề ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Thu gọn thanh lề ({ $shortcut })
     .label = Thanh lề
+    .tooltiptext = Thu gọn thanh lề ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Hiện thanh lề ({ $shortcut })
     .label = Thanh lề
+    .tooltiptext = Hiện thanh lề ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Ẩn thanh lề ({ $shortcut })
     .label = Thanh lề
+    .tooltiptext = Ẩn thanh lề ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

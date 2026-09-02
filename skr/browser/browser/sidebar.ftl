@@ -101,28 +101,28 @@ sidebar-syncedtabs-title = ٻیاں ڈیوائساں کنوں ٹیباں
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } تے ٹیب بند کرو
 show-sidebars =
-    .tooltiptext = سائیڈ باراں ݙکھاؤ
     .label = بغلی بار
+    .tooltiptext = سائیڈ باراں ݙکھاؤ
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = سائیڈ بار کھنڈاؤ ({ $shortcut })
     .label = بغلی بار
+    .tooltiptext = سائیڈ بار کھنڈاؤ ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = سائیڈ بار ولھیٹو ({ $shortcut })
     .label = بغلی بار
+    .tooltiptext = سائیڈ بار ولھیٹو ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = سائیڈ بار ݙکھاؤ ({ $shortcut })
     .label = بغلی بار
+    .tooltiptext = سائیڈ بار ݙکھاؤ ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = سائیڈ بار لکاؤ ({ $shortcut })
     .label = بغلی بار
+    .tooltiptext = سائیڈ بار لکاؤ ({ $shortcut })

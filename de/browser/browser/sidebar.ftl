@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Lesezeichen
 synced-tabs-context-close-tab-title =
     .title = Tab auf { $deviceName } schließen
 show-sidebars =
-    .tooltiptext = Sidebars anzeigen
     .label = Sidebars
+    .tooltiptext = Sidebars anzeigen
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Sidebar ausklappen ({ $shortcut })
     .label = Sidebars
+    .tooltiptext = Sidebar ausklappen ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Sidebar einklappen ({ $shortcut })
     .label = Sidebars
+    .tooltiptext = Sidebar einklappen ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Sidebar anzeigen ({ $shortcut })
     .label = Sidebars
+    .tooltiptext = Sidebar anzeigen ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Sidebar ausblenden ({ $shortcut })
     .label = Sidebars
+    .tooltiptext = Sidebar ausblenden ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

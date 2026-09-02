@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Rechercher avec { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Rechercher avec…
 aiwindow-input-cta-search-submenu-header = Rechercher
 aiwindow-input-cta-stop-button =
-    .title = Interrompre la réponse
     .aria-label = Interrompre la génération de la réponse
+    .title = Interrompre la réponse
 
 ## Smartbar
 
@@ -183,14 +183,14 @@ aiwindow-memories-off =
 ## New Chat Button
 
 aiwindow-new-chat =
-    .tooltiptext = Nouvelle discussion
     .aria-label = Nouvelle discussion
+    .tooltiptext = Nouvelle discussion
 
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
-    .tooltiptext = Fermer
     .aria-label = Fermer
+    .tooltiptext = Fermer
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
@@ -232,13 +232,13 @@ smartwindow-switch-to-smart-window = Passer en mode { -smart-window-brand-name(f
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .tooltiptext = Discussions
     .aria-label = Discussions
     .label = Discussions
+    .tooltiptext = Discussions
 smartwindow-footer-history =
-    .tooltiptext = Historique
     .aria-label = Historique
     .label = Historique
+    .tooltiptext = Historique
 
 ## Disclaimer
 ## Text displayed to user to warn user about potential mistakes.
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Au fur et à mesure que vous utilisez les 
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } discussion
@@ -298,8 +294,8 @@ smart-window-confirm-deselect-all =
     .aria-label = Tout désélectionner
     .label = Tout désélectionner
 smart-window-close-confirm =
-    .tooltiptext = Annuler la demande et fermer
     .aria-label = Annuler la demande et fermer
+    .tooltiptext = Annuler la demande et fermer
 smart-window-confirm-close-tab = Fermer
 # Variables
 #   $count (number) - Number of tabs to close

@@ -64,17 +64,6 @@ should-restart-ok = ئێستا { -brand-short-name } پێبکەرەوە
 cancel-no-restart-button = پاشگەزبوونەوە
 restart-later = دوواتر پێبکەوە
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = گەڕانی ئەنجامەکان
@@ -325,15 +314,6 @@ update-in-progress-ok-button = &هەڵیبوەشینەوە
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &بەردەوام بە
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = کارایی
@@ -380,9 +360,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = زیاتر بزانە
 browsing-group =
     .label = گەڕان
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -435,16 +412,10 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = بازدەری نوێ
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = گەڕانی وێب
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = پێشنیازکراوە لە لایەن { $provider }
 
@@ -542,9 +513,6 @@ containers-new-tab-check =
 containers-remove-button =
     .label = بیسڕەوە
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -584,11 +552,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } نەسەلمێندراوە
 sync-signedin-login-failure = هەوڵ بدە دووبارە { $email } ببەستەوە
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -740,9 +703,6 @@ forms-master-pw-change =
 forms-primary-pw-former-name = پێشتر ناوی وشەی تێپەڕبوونی سەرەکی بوو
 forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سەرکەوتوو نەبوو
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -751,9 +711,6 @@ forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سە
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = درووستکردنی وشەی تێپەڕی سەرەکی
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -816,12 +773,6 @@ sitedata-settings =
 cookies-site-data-group =
     .label = شەکرۆکە و زانیاری ماڵپەڕ
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = توڵی ناونیشان
@@ -873,9 +824,6 @@ content-blocking-all-cookies = هەموو شەکرۆکەکان
 content-blocking-unvisited-cookies = شەکرۆکە لەو ماڵپەڕانەی کە سەردانت نەکردوون
 content-blocking-all-windows-tracking-content = چاودێریکردنی ناوەڕۆک لە هەموو پەنجەرەکان
 content-blocking-fingerprinters = پەنجە مۆرەکان
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = ئاگاداربە!
 content-blocking-warning-learn-how = بزانە چۆن
 content-blocking-reload-tabs-button =
@@ -968,9 +916,6 @@ collection-health-report-telemetry-disabled-link = زیاتر بزانە
 collection-health-report-link = زیاتر بزانە
 addon-recommendations-link = زیاتر بزانە
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -984,35 +929,8 @@ security-enable-safe-browsing-link = زیاتر بزانە
 certs-header = بڕوانامە
 certs-devices-enable-fips = FIPS چالاک بکە
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڕوومێز
 downloads-folder-name = داگرتنەکان
 choose-download-folder-title = بوخچەی داگرتنەکان هەڵبژێرە:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

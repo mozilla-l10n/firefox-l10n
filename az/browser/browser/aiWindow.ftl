@@ -39,8 +39,8 @@ aiwindow-input-cta-menu-label-search = { $searchEngineName } ilə axtar
 aiwindow-input-cta-menu-label-search-with = Bununla axtar…
 aiwindow-input-cta-search-submenu-header = Axtar
 aiwindow-input-cta-stop-button =
-    .title = Cavabı dayandır
     .aria-label = Cavab yaradılmasını dayandır
+    .title = Cavabı dayandır
 
 ## Smartbar
 

@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Hae hakukoneella { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Hae käyttäen…
 aiwindow-input-cta-search-submenu-header = Hae
 aiwindow-input-cta-stop-button =
-    .title = Pysäytä vastaus
     .aria-label = Pysäytä vastauksen luominen
+    .title = Pysäytä vastaus
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Vaihda { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Keskustelut
     .aria-label = Keskustelut
+    .label = Keskustelut
     .tooltiptext = Keskustelut
 smartwindow-footer-history =
-    .label = Historia
     .aria-label = Historia
+    .label = Historia
     .tooltiptext = Historia
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Kun käytät { -smart-window-brand-name },
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } keskustelu
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Tyhjentää sivusto-, lataus- ja k
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Valitse kaikki
     .aria-label = Valitse kaikki
+    .label = Valitse kaikki
 smart-window-confirm-deselect-all =
-    .label = Poista kaikkien valinta
     .aria-label = Poista kaikkien valinta
+    .label = Poista kaikkien valinta
 smart-window-close-confirm =
     .aria-label = Peruuta pyyntö ja sulje
     .tooltiptext = Peruuta pyyntö ja sulje

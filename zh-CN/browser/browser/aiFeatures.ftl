@@ -8,8 +8,8 @@ smart-window-block-description-both = 此操作将删除您的{ -smart-window-br
 smart-window-block-description-chats = 此操作将删除您的{ -smart-window-brand-name }聊天。
 smart-window-block-description-memories = 此操作将删除您的{ -smart-window-brand-name }记忆。
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = 调用内置的助理，可回答问题、对比页面、提供个性化建议。
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = 默认设置
 ai-window-is-default-window =
-    .label = 默认使用{ -smart-window-brand-name }
     .description = 启动、重启 { -brand-short-name } 或从其他应用打开链接时，打开{ -smart-window-brand-name }。
+    .label = 默认使用{ -smart-window-brand-name }
 ai-window-open-sidebar =
-    .label = 自动打开助理
     .description = 每次打开新标签页时都显示助理。可随时关闭。
+    .label = 自动打开助理
 ai-window-smart-cursor-in-smart-window =
-    .label = 选中文本时显示快捷方式
     .description = 快速使用摘要、解释等功能。
+    .label = 选中文本时显示快捷方式
 smart-window-model-section =
-    .label = 助理模型
     .description = 按侧重的需求选择模型。
+    .label = 助理模型
 smart-window-model-radio-group =
     .aria-label = 助理模型
 smart-window-model-learn-link = 了解模型
@@ -42,14 +42,14 @@ smart-window-model-learn-link = 了解模型
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = { $ownerName } 的 { $model } 模型
     .label = 快速：迅捷回答
-    .description = { $ownerName } 的 { $model } 模型
 smart-window-model-flexible =
+    .description = { $ownerName } 的 { $model } 模型
     .label = 灵活：满足大多数需求
-    .description = { $ownerName } 的 { $model } 模型
 smart-window-model-personal =
-    .label = 个人化：提供最懂您的回答
     .description = { $ownerName } 的 { $model } 模型
+    .label = 个人化：提供最懂您的回答
 smart-window-model-custom =
     .label = 自定义：使用您自己的大语言模型
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = 保存
 smart-window-model-custom-save-confirmation = 模型详细信息已保存，开始新聊天以测试。
 ai-window-memories-section =
-    .label = 记忆
     .description = { -brand-short-name } 可从您的活动中学习，以创建记忆。此类数据有助于提供个性化的回复，且将存储在此设备本地。
+    .label = 记忆
 ai-window-learn-from-chat-activity =
     .label = 从{ -smart-window-brand-name }内的聊天学习
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = 管理记忆
 ai-window-manage-memories-header =
-    .heading = 管理记忆
     .description = 记忆存储在此设备本地，以保护隐私。使用{ -smart-window-brand-name }期间，记忆每天会刷新若干次，因此最近的活动可能需要一些时间才能被记录。
+    .heading = 管理记忆
 ai-window-no-memories =
-    .label = 暂无记忆
     .description = 随着{ -smart-window-brand-name }从您的活动中学习，记忆将显示在此处。
+    .label = 暂无记忆
 ai-window-no-memories-learning-off =
-    .label = 没有可显示的记忆
     .description = 已关闭从活动学习，{ -smart-window-brand-name } 未在创建记忆。
+    .label = 没有可显示的记忆
 ai-window-delete-all-memories-button =
     .label = 全部删除
 ai-window-delete-all-memories-title = 确定要删除所有记忆吗？
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = 取消
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = 删除记忆
     .aria-label = 删除“{ $label }”
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = 删除记忆
 smart-window-model-fast-v2 =
-    .label = { $shortName }：快速
     .description = 快速回答问题，最适合注重速度的需求。全名：{ $model } by { $ownerName }
+    .label = { $shortName }：快速
 smart-window-model-flexible-v2 =
-    .label = { $shortName }：灵活
     .description = 能够应对各式各样的任务。全名：{ $model } by { $ownerName }
+    .label = { $shortName }：灵活
 smart-window-model-personal-v2 =
-    .label = { $shortName }：个人化
     .description = 为提供个性化帮助而构建，支持多种语言。全名：{ $model } by { $ownerName }
+    .label = { $shortName }：个人化

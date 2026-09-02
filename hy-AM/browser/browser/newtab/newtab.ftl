@@ -207,9 +207,6 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name }-ը արգելափակում է հետևորդներին, երբ դուք զննում եք կայքը։ Դուք կտեսնեք դրանք այստեղ։
 
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -276,19 +273,6 @@ newtab-privacy-message-milestone-month-cta = Դիտել պաշտպանությո
 newtab-privacy-message-milestone-total-cta = Դիտել պաշտպանությունները
 newtab-privacy-message-daily-cap-cta = Դիտել պաշտպանությունները
 
-## Strings for the Stocks widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
 ## Stocks widget ticker search
 
 # "Search results" is the accessible label for the list of tickers matching the
@@ -330,13 +314,6 @@ newtab-picture-attribution-source-link = Վիքիմեդիա համայնք
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Դիտել { $license } լիցենզիան
-
-## Strings for the Recent Searches widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
@@ -384,9 +361,6 @@ newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
 newtab-topsites-use-custom-image-link = Օգտ. հարմարեցված պատկեր
 newtab-topsites-use-image-link = Օգտ. հարմարեցված պատկեր...
 newtab-topsites-image-validation = Նկարը չհաջողվեց բեռնել: Փորձեք այլ URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Մաքրել տեքստը
 
@@ -713,9 +687,6 @@ newtab-custom-close-menu-button =
     .title = Փակել
 newtab-custom-close-button = Փակել
 newtab-custom-settings = Կառավարել լրացուցիչ կարգավորումները
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Տեսք
 # Button that opens the full browser theme selection view.
@@ -824,9 +795,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1171,9 +1139,6 @@ newtab-promo-card-cta = Իմանալ ավելին
 newtab-promo-card-dismiss-button =
     .aria-label = Բաց թողնել
     .title = Բաց թողնել
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Կենտրոնացում
 # Small label shown beneath the live time while the break timer is running or paused.
@@ -1376,9 +1341,6 @@ newtab-sports-widget-message-add-widgets-cta =
     .label = Ավելացնել վիջեթներ
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Ուսումնասիրեք վիջեթները
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

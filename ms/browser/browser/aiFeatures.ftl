@@ -8,8 +8,8 @@ smart-window-block-description-both = Ini akan memadamkan sembang dan memori { -
 smart-window-block-description-chats = Ini akan memadamkan sembang { -smart-window-brand-name } anda.
 smart-window-block-description-memories = Ini akan memadamkan memori { -smart-window-brand-name } anda.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Tanya soalan, bandingkan halaman, dan dapatkan cadangan diperibadikan dengan pembantu terbina dalam.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Tetapan lalai
 ai-window-is-default-window =
-    .label = Gunakan { -smart-window-brand-name } secara lalai
     .description = Buka { -smart-window-brand-name } bila { -brand-short-name } bermula, bermula semula, atau membuka pautan dari app lain.
+    .label = Gunakan { -smart-window-brand-name } secara lalai
 ai-window-open-sidebar =
-    .label = Buka pembantu secara automatik
     .description = Tunjukkan bar sisi pembantu pada setiap tab baharu. Tutup bila-bila masa.
+    .label = Buka pembantu secara automatik
 ai-window-smart-cursor-in-smart-window =
-    .label = Tunjukkan pintasan bila memilih teks
     .description = Dapatkan akses pantas untuk merumuskan, menerangkan, dan banyak lagi.
+    .label = Tunjukkan pintasan bila memilih teks
 smart-window-model-section =
-    .label = Model pembantu
     .description = Pilih model berdasarkan apa yang penting untuk anda.
+    .label = Model pembantu
 smart-window-model-radio-group =
     .aria-label = Model pembantu
 smart-window-model-learn-link = Ketahui tentang model
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Ketahui tentang model
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Model { $model } oleh { $ownerName }
     .label = Pantas: Jawab dengan cepat
-    .description = Model { $model } oleh { $ownerName }
 smart-window-model-flexible =
+    .description = Model { $model } oleh { $ownerName }
     .label = Fleksibel: Sesuai untuk kebanyakan keperluan
-    .description = Model { $model } oleh { $ownerName }
 smart-window-model-personal =
-    .label = Peribadi: Jawapan paling tersuai
     .description = Model { $model } oleh { $ownerName }
+    .label = Peribadi: Jawapan paling tersuai
 smart-window-model-custom =
     .label = Tersuai: Gunakan LLM sendiri
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Simpan
 smart-window-model-custom-save-confirmation = Butiran model disimpan. Mulakan sembang baharu untuk menguji.
 ai-window-memories-section =
-    .label = Memori
     .description = { -brand-short-name } boleh belajar dari aktiviti anda untuk mencipta memori. Ia digunakan untuk membantu memperibadikan jawapan dan disimpan secara tempatan pada peranti ini.
+    .label = Memori
 ai-window-learn-from-chat-activity =
     .label = Belajar dari sembang dalam { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Urus memori
 ai-window-manage-memories-header =
-    .heading = Urus memori
     .description = Memori disimpan secara tempatan pada peranti ini untuk membantu melindungi privasi anda. Ia dikemas kini beberapa kali sehari semasa anda menggunakan { -smart-window-brand-name }, jadi aktiviti terkini mungkin mengambil masa untuk dipaparkan.
+    .heading = Urus memori
 ai-window-no-memories =
-    .label = Belum ada memori
     .description = Apabila { -smart-window-brand-name } belajar dari aktiviti anda, anda akan nampak memori di sini.
+    .label = Belum ada memori
 ai-window-no-memories-learning-off =
-    .label = Tiada memori untuk dipaparkan
     .description = Pembelajaran dari aktiviti dimatikan, jadi { -smart-window-brand-name } tidak mencipta memori.
+    .label = Tiada memori untuk dipaparkan
 ai-window-delete-all-memories-button =
     .label = Padam semua
 ai-window-delete-all-memories-title = Padam semua memori?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Batal
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Padam memori
     .aria-label = Padam { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Padam memori
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Pantas
     .description = Terbaik untuk jawapan pantas bila kelajuan penting. Nama penuh: { $model } oleh { $ownerName }
+    .label = { $shortName }: Pantas
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Fleksibel
     .description = Sesuai untuk pelbagai tugas. Nama penuh: { $model } oleh { $ownerName }
+    .label = { $shortName }: Fleksibel
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Peribadi
     .description = Dibina untuk bantuan diperibadikan merentas bahasa. Nama penuh: { $model } oleh { $ownerName }
+    .label = { $shortName }: Peribadi

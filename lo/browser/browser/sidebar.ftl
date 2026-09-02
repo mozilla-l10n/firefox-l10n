@@ -6,5 +6,5 @@
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = ສະແດງແທັບດ້ານຂ້າງ
     .label = ແຖບດ້ານຂ້າງ
+    .tooltiptext = ສະແດງແທັບດ້ານຂ້າງ

@@ -191,31 +191,31 @@ sidebar-syncedtabs-title = Iccaren seg ibenkan niḍen
 synced-tabs-context-close-tab-title =
     .title = Mdel iccer ɣef { $deviceName }
 show-sidebars =
-    .tooltiptext = Sken igalisen idisanen
     .label = Igalisen idisanen
+    .tooltiptext = Sken igalisen idisanen
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Derrec afeggag adisan ({ $shortcut })
     .label = Ifeggagen idisanen
+    .tooltiptext = Derrec afeggag adisan ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Fneẓ afeggag adisan ({ $shortcut })
     .label = Igalisen idisanen
+    .tooltiptext = Fneẓ afeggag adisan ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Sken afeggag adisan ({ $shortcut })
     .label = Igalisen idisanen
+    .tooltiptext = Sken afeggag adisan ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Ffer afeggag adisan ({ $shortcut })
     .label = Igalisen idisanen
+    .tooltiptext = Ffer afeggag adisan ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

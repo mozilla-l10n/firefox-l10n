@@ -256,31 +256,31 @@ sidebar-bookmarks-title = العلامات
 synced-tabs-context-close-tab-title =
     .title = أغلق اللسان على { $deviceName }
 show-sidebars =
-    .tooltiptext = أظهر الأشرطة الجانبية
     .label = الأشرطة الجانبية
+    .tooltiptext = أظهر الأشرطة الجانبية
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = توسيع الشريط الجانبي ({ $shortcut })
     .label = الأشرطة الجانبية
+    .tooltiptext = توسيع الشريط الجانبي ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = تقليص الشريط الجانبي ({ $shortcut })
     .label = الأشرطة الجانبية
+    .tooltiptext = تقليص الشريط الجانبي ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = إظهار الشريط الجانبي ({ $shortcut })
     .label = الأشرطة الجانبية
+    .tooltiptext = إظهار الشريط الجانبي ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = أخفِ الشريط الجانبي ({ $shortcut })
     .label = الأشرطة الجانبية
+    .tooltiptext = أخفِ الشريط الجانبي ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

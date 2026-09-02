@@ -174,23 +174,23 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .tooltiptext = Користите сећања у одговорима када је то корисно
     .aria-label = Сећања су укључена
+    .tooltiptext = Користите сећања у одговорима када је то корисно
 aiwindow-memories-off =
-    .tooltiptext = Не користите сећања у одговорима
     .aria-label = Сећања су искључена
+    .tooltiptext = Не користите сећања у одговорима
 
 ## New Chat Button
 
 aiwindow-new-chat =
-    .tooltiptext = Ново ћаскање
     .aria-label = Ново ћаскање
+    .tooltiptext = Ново ћаскање
 
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
-    .tooltiptext = Затвори
     .aria-label = Затвори
+    .tooltiptext = Затвори
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
@@ -198,12 +198,12 @@ aiwindow-close-sidebar =
 ## history subview lists recent chats and a shortcut to all chats.
 
 aiwindow-history-menu =
-    .tooltiptext = Више могућности
     .aria-label = Више могућности
+    .tooltiptext = Више могућности
 aiwindow-history-menu-chat-history = Историја ћаскања
 aiwindow-history-menu-back =
-    .tooltiptext = Назад
     .aria-label = Назад
+    .tooltiptext = Назад
 aiwindow-history-menu-view-all-chats = Преглед свих ћаскања
 aiwindow-history-menu-settings = { -smart-window-brand-name } подешавања
 
@@ -232,13 +232,13 @@ smartwindow-switch-to-smart-window = Пребаците на { -smart-window-bra
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .tooltiptext = Ћаскања
     .aria-label = Ћаскања
     .label = Ћаскања
+    .tooltiptext = Ћаскања
 smartwindow-footer-history =
-    .tooltiptext = Историја
     .aria-label = Историја
     .label = Историја
+    .tooltiptext = Историја
 
 ## Disclaimer
 ## Text displayed to user to warn user about potential mistakes.
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Док користите { -smart-window-
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } ћаскање
@@ -299,8 +295,8 @@ smart-window-confirm-deselect-all =
     .aria-label = Поништи избор
     .label = Поништи избор
 smart-window-close-confirm =
-    .tooltiptext = Откажи захтев и затвори
     .aria-label = Откажи захтев и затвори
+    .tooltiptext = Откажи захтев и затвори
 smart-window-confirm-close-tab = Затвори
 # Variables
 #   $count (number) - Number of tabs to close

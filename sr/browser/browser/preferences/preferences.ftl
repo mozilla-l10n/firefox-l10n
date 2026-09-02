@@ -966,9 +966,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Сазнајте више
 browsing-group =
     .label = Прегледање
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Приступачност
 preferences-default-zoom-select =
@@ -1087,9 +1084,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Додатак ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Прилагођена почетна страница
 home-custom-homepage-subpage =
     .heading = Прилагођена почетна страница
@@ -1105,9 +1099,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Сачувани или посећени сајтови
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонзорисане пречице
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Предложио { $provider }
 home-prefs-recommended-by-description-new = Изузетан садржај који је уредио { $provider }, део { -brand-product-name } породице
@@ -1410,11 +1401,6 @@ sync-signedin-login-failure = Пријавите се да поново пове
 sync-signedin-login-failure2 =
     .description = Пријавите се поново да бисте се поново повезали и започели усклађивање својих података.
     .label = Одјављени сте са { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1705,9 +1691,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Сазнајте више
 forms-windows-sso-desc = Управљајте налозима у подешавањима вашег уређаја
 windows-passkey-settings-label = Управљајте приступним кључевима у системским подешавањима
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Прибавите помоћ за заштиту ваших информација на мрежи у { -brand-short-name }-у.
     .label = Подешавања површи приватности
@@ -2159,9 +2142,6 @@ content-blocking-fingerprinters = Сакупљачи дигиталних оти
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Познати и сумњиви сакупљачи дигиталних отисака
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Свеобухватна заштита од колачића везује колачиће за сајт на ком се тренутно налазите, тако да елементи за праћење не могу да их користе за даље праћење.
 content-blocking-etp-standard-tcp-rollout-learn-more = Сазнајте више

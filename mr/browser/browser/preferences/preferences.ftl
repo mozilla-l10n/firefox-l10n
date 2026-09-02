@@ -302,15 +302,6 @@ update-in-progress-ok-button = रद्द करा
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = पुढे चला
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = कार्यक्षमता
@@ -362,9 +353,6 @@ browsing-cfr-recommendations-learn-more = अधिक जाणा
 browsing-group =
     .label = ब्राउजिंग
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = नेटवर्क सेटिंग
@@ -415,16 +403,10 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = नवीन टॅब
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = वेब शोध
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = { $provider } तर्फे शिफारस
 
@@ -514,9 +496,6 @@ containers-add-button =
 containers-remove-button =
     .label = काढून टाका
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -556,11 +535,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } चाचणी झाली नाही.
 sync-signedin-login-failure = पुन्हा जोडणीकरिता कृपया साइन करा { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -704,15 +678,6 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = पासवर्ड बदल अयशस्वी
 
-## Privacy Panel Settings
-
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -792,12 +757,6 @@ sitedata-settings =
 cookies-site-data-group =
     .label = कुकीज आणि साईट डेटा
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = पत्ता पट्टी
@@ -842,9 +801,6 @@ content-blocking-unvisited-cookies = भेट न दिलेल्या स�
 content-blocking-all-windows-tracking-content = सर्व विंडोमधील सामग्री ट्रॅक करणे
 content-blocking-cryptominers = क्रिप्टोमाइनर
 content-blocking-fingerprinters = फिंगरप्रिंटर
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = सावधान!
 content-blocking-warning-learn-how = कसे ते जाणा
 content-blocking-reload-description = हे बदल लागू करण्यासाठी आपले टॅब रीलोड करावे लागतील.
@@ -950,9 +906,6 @@ collection-health-report-disabled = माहिती अहवाल देण
 data-collection-studies-link =
     .label = { -brand-short-name } studies पहा
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -985,35 +938,8 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = FIPS कार्यान्वीत करा
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = डेस्कटॉप
 downloads-folder-name = डाउनलोड
 choose-download-folder-title = डाउनलोड संचयिका(फोल्डर) निवडा:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

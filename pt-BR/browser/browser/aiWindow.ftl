@@ -174,23 +174,23 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .tooltiptext = Usar memórias em respostas quando for útil
     .aria-label = Memórias ativadas
+    .tooltiptext = Usar memórias em respostas quando for útil
 aiwindow-memories-off =
-    .tooltiptext = Não usar memórias em respostas
     .aria-label = Memórias desativadas
+    .tooltiptext = Não usar memórias em respostas
 
 ## New Chat Button
 
 aiwindow-new-chat =
-    .tooltiptext = Nova conversa
     .aria-label = Nova conversa
+    .tooltiptext = Nova conversa
 
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
-    .tooltiptext = Fechar
     .aria-label = Fechar
+    .tooltiptext = Fechar
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
@@ -232,13 +232,13 @@ smartwindow-switch-to-smart-window = Mudar para o modo { -smart-window-brand-nam
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Conversas
     .aria-label = Conversas
+    .label = Conversas
     .tooltiptext = Conversas
 smartwindow-footer-history =
-    .tooltiptext = Histórico
     .aria-label = Histórico
     .label = Histórico
+    .tooltiptext = Histórico
 
 ## Disclaimer
 ## Text displayed to user to warn user about potential mistakes.
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = À medida que você usa { -smart-window-br
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } conversa
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Limpar histórico de sites, downlo
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Selecionar tudo
     .aria-label = Selecionar tudo
+    .label = Selecionar tudo
 smart-window-confirm-deselect-all =
-    .label = Desmarcar tudo
     .aria-label = Desmarcar tudo
+    .label = Desmarcar tudo
 smart-window-close-confirm =
     .aria-label = Cancelar requisição e fechar
     .tooltiptext = Cancelar requisição e fechar

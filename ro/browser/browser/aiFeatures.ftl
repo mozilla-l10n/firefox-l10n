@@ -8,8 +8,8 @@ smart-window-block-description-both = Conversațiile și memoriile { -smart-wind
 smart-window-block-description-chats = Conversațiile { -smart-window-brand-name } vor fi șterse.
 smart-window-block-description-memories = Memoriile { -smart-window-brand-name } vor fi șterse.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Pune întrebări, compară pagini și obține sugestii personalizate cu asistentul integrat.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Setări implicite
 ai-window-is-default-window =
-    .label = Folosește { -smart-window-brand-name } ca implicit
     .description = Deschide { -smart-window-brand-name } când { -brand-short-name } pornește, repornește sau deschide un link dintr-o altă aplicație.
+    .label = Folosește { -smart-window-brand-name } ca implicit
 ai-window-open-sidebar =
-    .label = Deschide automat asistentul
     .description = Arată bara laterală a asistentului pe fiecare filă nou deschisă. Închide-o oricând.
+    .label = Deschide automat asistentul
 ai-window-smart-cursor-in-smart-window =
-    .label = Afișează comenzile rapide la selectarea textului
     .description = Obține acces rapid pentru a rezumare, explicare și multe altele.
+    .label = Afișează comenzile rapide la selectarea textului
 smart-window-model-section =
-    .label = Model asistent
     .description = Alege un model bazat pe ce e important pentru tine.
+    .label = Model asistent
 smart-window-model-radio-group =
     .aria-label = Model asistent
 smart-window-model-learn-link = Află despre modele
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Află despre modele
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Model { $model } de { $ownerName }
     .label = Rapid: Răspunde rapid
-    .description = Model { $model } de { $ownerName }
 smart-window-model-flexible =
+    .description = Model { $model } de { $ownerName }
     .label = Flexibil: Potrivit pentru majoritatea nevoilor
-    .description = Model { $model } de { $ownerName }
 smart-window-model-personal =
-    .label = Personal: Cele mai personalizate răspunsuri
     .description = Model { $model } de { $ownerName }
+    .label = Personal: Cele mai personalizate răspunsuri
 smart-window-model-custom =
     .label = Personalizat: Folosește-ți propriul LLM
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Salvează
 smart-window-model-custom-save-confirmation = Detaliile modelului au fost salvate. Începe o conversație nouă pentru a testa.
 ai-window-memories-section =
-    .label = Memorii
     .description = { -brand-short-name } poate învăța din activitățile tale pentru a crea memorii. Sunt folosite pentru personalizarea răspunsurilor și sunt stocate local pe acest dispozitiv.
+    .label = Memorii
 ai-window-learn-from-chat-activity =
     .label = Învață din conversații în { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Gestionează memoriile
 ai-window-manage-memories-header =
-    .heading = Gestionează memoriile
     .description = Memoriile sunt stocate local pe acest dispozitiv pentru a-ți proteja confidențialitatea. Sunt actualizate de câteva ori pe zi în timp ce folosești { -smart-window-brand-name }, așadar este posibil să dureze ceva timp până când vor reflecta activitatea recentă.
+    .heading = Gestionează memoriile
 ai-window-no-memories =
-    .label = Nicio memorie încă
     .description = Pe măsură ce { -smart-window-brand-name } învață din activitatea ta, vei vedea memorii aici.
+    .label = Nicio memorie încă
 ai-window-no-memories-learning-off =
-    .label = Nicio memorie de afișat
     .description = Învățarea din activitate este dezactivată, așadar { -smart-window-brand-name } nu creează memorii.
+    .label = Nicio memorie de afișat
 ai-window-delete-all-memories-button =
     .label = Șterge tot
 ai-window-delete-all-memories-title = Ștergi toate memoriile?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Anulează
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Șterge memoria
     .aria-label = Șterge { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Șterge memoria
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Rapid
     .description = Ideal pentru răspunsuri rapide când viteza contează. Nume complet: { $model } de la { $ownerName }
+    .label = { $shortName }: Rapid
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Flexibil
     .description = Gata pentru o varietate de sarcini. Nume complet: { $model } de la { $ownerName }
+    .label = { $shortName }: Flexibil
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Personal
     .description = Creat pentru asistență personalizată în diferite limbi. Nume complet: { $model } de la { $ownerName }
+    .label = { $shortName }: Personal

@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Tìm kiếm trang web bằng từ khoá 
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Tìm kiếm
-    .accesskey = s
     .tooltiptext = Mở kết quả tìm kiếm trong thẻ mới
+    .accesskey = s
 neterror-search-cta-reload-button =
     .label = Tải lại
     .accesskey = R

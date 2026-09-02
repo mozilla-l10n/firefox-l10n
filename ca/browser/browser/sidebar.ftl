@@ -251,8 +251,8 @@ sidebar-opentabs-window-header =
 synced-tabs-context-close-tab-title =
     .title = Tanca la pestanya a { $deviceName }
 show-sidebars =
-    .tooltiptext = Mostra les barres laterals
     .label = Barres laterals
+    .tooltiptext = Mostra les barres laterals
 
 ## Tooltips for the sidebar toolbar widget.
 

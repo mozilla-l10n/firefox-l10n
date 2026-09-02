@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Záložky
 synced-tabs-context-close-tab-title =
     .title = Zavrieť kartu v zariadení { $deviceName }
 show-sidebars =
-    .tooltiptext = Zobrazí bočne panely
     .label = Bočné panely
+    .tooltiptext = Zobrazí bočne panely
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Rozbaliť bočný panel ({ $shortcut })
     .label = Bočné panely
+    .tooltiptext = Rozbaliť bočný panel ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Zbaliť bočný panel ({ $shortcut })
     .label = Bočné panely
+    .tooltiptext = Zbaliť bočný panel ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Zobraziť bočný panel ({ $shortcut })
     .label = Bočné panely
+    .tooltiptext = Zobraziť bočný panel ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Skryť bočný panel ({ $shortcut })
     .label = Bočné panely
+    .tooltiptext = Skryť bočný panel ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

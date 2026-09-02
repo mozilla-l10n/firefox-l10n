@@ -161,12 +161,12 @@ smartwindow-switch-to-smart-window = Tijal rik'in { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Taq chat
     .aria-label = Taq chat
+    .label = Taq chat
     .tooltiptext = Taq chat
 smartwindow-footer-history =
-    .label = Natab'äl
     .aria-label = Natab'äl
+    .label = Natab'äl
     .tooltiptext = Natab'äl
 
 ## Disclaimer
@@ -192,17 +192,13 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = Wakami - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Iwir - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Katzolin pa ri taq achat
 
 ## Count displayed in fxview chat search results
-
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
 
 firefoxview-search-chat-results-count =
     { $count ->
@@ -213,11 +209,11 @@ firefoxview-search-chat-results-count =
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Ticha' ronojel
     .aria-label = Ticha' ronojel
+    .label = Ticha' ronojel
 smart-window-confirm-deselect-all =
-    .label = Man ticha' ronojel
     .aria-label = Man ticha' ronojel
+    .label = Man ticha' ronojel
 smart-window-confirm-close-tab = Titz'apïx
 # Variables
 #   $count (number) - Number of tabs to close

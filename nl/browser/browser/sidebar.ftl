@@ -296,31 +296,31 @@ sidebar-bookmarks-title = Bladwijzers
 synced-tabs-context-close-tab-title =
     .title = Tabblad op { $deviceName } sluiten
 show-sidebars =
-    .tooltiptext = Zijbalken tonen
     .label = Zijbalken
+    .tooltiptext = Zijbalken tonen
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Zijbalk uitvouwen ({ $shortcut })
     .label = Zijbalken
+    .tooltiptext = Zijbalk uitvouwen ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Zijbalk samenvouwen ({ $shortcut })
     .label = Zijbalken
+    .tooltiptext = Zijbalk samenvouwen ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Zijbalk tonen ({ $shortcut })
     .label = Zijbalken
+    .tooltiptext = Zijbalk tonen ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Zijbalk verbergen ({ $shortcut })
     .label = Zijbalken
+    .tooltiptext = Zijbalk verbergen ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

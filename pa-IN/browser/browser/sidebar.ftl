@@ -296,31 +296,31 @@ sidebar-bookmarks-title = ਬੁੱਕਮਾਰਕ
 synced-tabs-context-close-tab-title =
     .title = { $deviceName } ਉੱਤੇ ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
 show-sidebars =
-    .tooltiptext = ਬਾਹੀਆਂ ਨੂੰ ਵੇਖੋ
     .label = ਬਾਹੀ
+    .tooltiptext = ਬਾਹੀਆਂ ਨੂੰ ਵੇਖੋ
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ ({ $shortcut })
     .label = ਬਾਹੀ
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = ਬਾਹੀ ਨੂੰ ਸਮੇਟੋ ({ $shortcut })
     .label = ਬਾਹੀ
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਸਮੇਟੋ ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ ({ $shortcut })
     .label = ਬਾਹੀ
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ ({ $shortcut })
     .label = ਬਾਹੀ
+    .tooltiptext = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

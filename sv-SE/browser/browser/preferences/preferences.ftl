@@ -906,9 +906,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Läs mer
 browsing-group =
     .label = Webbläsning
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Tillgänglighet
 preferences-default-zoom-select =
@@ -1027,9 +1024,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Tillägg ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Anpassad startsida
 home-custom-homepage-subpage =
     .heading = Anpassad startsida
@@ -1045,9 +1039,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Webbplatser du sparar eller besöker
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsrade genvägar
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Rekommenderas av { $provider }
 home-prefs-recommended-by-description-new = Särskilt innehåll valt av { $provider }, en del av familjen { -brand-product-name }
@@ -1361,11 +1352,6 @@ sync-signedin-login-failure = Logga in för att återansluta { $email }
 sync-signedin-login-failure2 =
     .description = Logga in igen för att återansluta och börja synkronisera din data.
     .label = Du är utloggad från { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1656,9 +1642,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Läs mer
 forms-windows-sso-desc = Hantera konton i dina enhetsinställningar
 windows-passkey-settings-label = Hantera lösenordsnycklar i systeminställningar
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Få hjälp med att skydda din information online i { -brand-short-name }.
     .label = Inställningar för sekretesspanelen
@@ -2092,9 +2075,6 @@ content-blocking-fingerprinters = Fingeravtrycksspårare
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Kända och misstänkta fingeravtrycksspårare
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totalt skydd mot kakor isolerar kakor från webbplatsen du är på, så spårare inte kan använda dem för att följa dig mellan webbplatser.
 content-blocking-etp-standard-tcp-rollout-learn-more = Lär dig mer

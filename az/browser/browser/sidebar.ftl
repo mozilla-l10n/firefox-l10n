@@ -50,8 +50,8 @@ sidebar-customize-title = Yan paneli özəlləşdir
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = Yan panelləri göstər
     .label = Yan panellər
+    .tooltiptext = Yan panelləri göstər
 
 ## Tooltips for the sidebar toolbar widget.
 

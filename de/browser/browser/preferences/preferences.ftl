@@ -906,9 +906,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Weitere Informationen
 browsing-group =
     .label = Surfen
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Barrierefreiheit
 preferences-default-zoom-select =
@@ -1027,9 +1024,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Erweiterung ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Benutzerdefinierte Startseite
 home-custom-homepage-subpage =
     .heading = Benutzerdefinierte Startseite
@@ -1045,9 +1039,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Websites, die Sie speichern oder besuchen
 home-prefs-shortcuts-by-option-sponsored =
     .label = Gesponserte Verknüpfungen
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Empfohlen von { $provider }
 home-prefs-recommended-by-description-new = Besondere Inhalte ausgewählt von { $provider }, Teil der { -brand-product-name }-Familie
@@ -1361,11 +1352,6 @@ sync-signedin-login-failure = Melden Sie sich an, um erneut mit { $email } zu ve
 sync-signedin-login-failure2 =
     .description = Melden Sie sich wieder an, um Ihre Daten zu synchronisieren.
     .label = Sie sind von { $email } abgemeldet
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1656,9 +1642,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Weitere Informationen
 forms-windows-sso-desc = Verwalten Sie Konten in Ihren Geräteeinstellungen.
 windows-passkey-settings-label = Passkeys in den Systemeinstellungen verwalten
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = Erhalten Sie Hilfe, um Ihre Informationen online zu schützen in { -brand-short-name }.
     .label = Datenschutzeinstellungen
@@ -2092,9 +2075,6 @@ content-blocking-fingerprinters = Identifizierer (Fingerprinter)
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Bekannte und vermutete Identifizierer (Fingerprinter)
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Der vollständige Cookie-Schutz beschränkt Cookies auf die Website, auf der Sie sich befinden, sodass Elemente zur Aktivitätenverfolgung sie nicht verwenden können, um Ihnen Website-übergreifend zu folgen.
 content-blocking-etp-standard-tcp-rollout-learn-more = Weitere Informationen

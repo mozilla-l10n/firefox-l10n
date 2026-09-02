@@ -8,8 +8,8 @@ smart-window-block-description-both = Bydd hyn yn dileu eich sgyrsiau ac atgofio
 smart-window-block-description-chats = Bydd hyn yn dileu eich sgyrsiau { -smart-window-brand-name }.
 smart-window-block-description-memories = Bydd hyn yn dileu eich atgofion { -smart-window-brand-name }.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Gofyn cwestiynau, cymharu tudalennau a chael awgrymiadau personol gyda chynorthwyydd mewnol.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Gosodiadau arferol
 ai-window-is-default-window =
-    .label = Defnyddio { -smart-window-brand-name } fel arfer
     .description = Yn agor { -smart-window-brand-name } pan fydd { -brand-short-name } yn cychwyn, ail gychwyn neu'n agor dolenni o apiau eraill.
+    .label = Defnyddio { -smart-window-brand-name } fel arfer
 ai-window-open-sidebar =
-    .label = Agor y cynorthwyydd yn awtomatig
     .description = Dangos bar ochr y cynorthwyydd ar bob tab newydd. Ei gau ar unrhyw adeg.
+    .label = Agor y cynorthwyydd yn awtomatig
 ai-window-smart-cursor-in-smart-window =
-    .label = Dangos llwybrau byr wrth ddewis testun
     .description = Cael mynediad cyflym i grynhoi, esbonio, a rhagor.
+    .label = Dangos llwybrau byr wrth ddewis testun
 smart-window-model-section =
-    .label = Model cynorthwyydd
     .description = Dewiswch fodel ar sail yr hyn sy'n bwysig i chi.
+    .label = Model cynorthwyydd
 smart-window-model-radio-group =
     .aria-label = Model cynorthwyydd
 smart-window-model-learn-link = Dysgwch am fodelau
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Dysgwch am fodelau
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Model { $model } gan { $ownerName }
     .label = Cyflym: Yn ateb yn gyflym
-    .description = Model { $model } gan { $ownerName }
 smart-window-model-flexible =
+    .description = Model { $model } gan { $ownerName }
     .label = Hyblyg: Dewis da ar gyfer y rhan fwyaf o anghenion
-    .description = Model { $model } gan { $ownerName }
 smart-window-model-personal =
-    .label = Personol: Atebion wedi'u teilwra fwyaf
     .description = Model { $model } gan { $ownerName }
+    .label = Personol: Atebion wedi'u teilwra fwyaf
 smart-window-model-custom =
     .label = Cyfaddas: Defnyddiwch eich LLM eich hun
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Cadw
 smart-window-model-custom-save-confirmation = Manylion y model wedi'u cadw. Dechreuwch sgwrs newydd i'w brofi.
 ai-window-memories-section =
-    .label = Atgofion
     .description = Gall { -brand-short-name } ddysgu o'ch gweithgaredd i greu atgofion. Maen nhw'n cael eu defnyddio i helpu i bersonoli ymatebion ac yn cael eu cadw'n lleol ar y ddyfais hon.
+    .label = Atgofion
 ai-window-learn-from-chat-activity =
     .label = Dysgu o sgyrsiau yn { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Rheoli atgofion
 ai-window-manage-memories-header =
-    .heading = Rheoli atgofion
     .description = Mae atgofion yn cael eu cadw'n lleol ar y ddyfais hon i helpu i ddiogelu eich preifatrwydd. Maen nhw'n cael eu hadnewyddu sawl gwaith y dydd tra rydych yn defnyddio { -smart-window-brand-name }, felly gall gweithgaredd diweddar gymryd peth amser i'w hamlygu.
+    .heading = Rheoli atgofion
 ai-window-no-memories =
-    .label = Dim atgofion eto
     .description = Wrth i { -smart-window-brand-name } ddysgu o'ch gweithgaredd, byddwch yn gweld atgofion yma.
+    .label = Dim atgofion eto
 ai-window-no-memories-learning-off =
-    .label = Dim atgofion i'w dangos
     .description = Mae dysgu o weithgaredd i ffwrdd, felly dyw { -smart-window-brand-name } ddim yn creu atgofion.
+    .label = Dim atgofion i'w dangos
 ai-window-delete-all-memories-button =
     .label = Dileu'r cyfan
 ai-window-delete-all-memories-title = Dileu pob atgof?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Diddymu
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Dileu cof
     .aria-label = Dileu { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Dileu cof
 smart-window-model-fast-v2 =
-    .label = { $shortName } : Cyflym
     .description = Y gorau ar gyfer atebion sydyn pan mae brys. Enw llawn: { $model } gan { $ownerName }
+    .label = { $shortName } : Cyflym
 smart-window-model-flexible-v2 =
-    .label = { $shortName } : Hyblyg
     .description = Yn barod ar gyfer amrywiaeth o dasgau. Enw llawn: { $model } gan { $ownerName }
+    .label = { $shortName } : Hyblyg
 smart-window-model-personal-v2 =
-    .label = { $shortName } : Personol
     .description = Wedi ei adeiladu ar gyfer cymorth personol ar draws amrywiaeth o ieithoedd. Enw llawn: { $model } gan { $ownerName }
+    .label = { $shortName } : Personol

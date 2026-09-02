@@ -909,9 +909,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Więcej informacji
 browsing-group =
     .label = Przeglądanie
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = Ułatwienia dostępu
 preferences-default-zoom-select =
@@ -1030,9 +1027,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Rozszerzenie ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = Inna strona startowa
 home-custom-homepage-subpage =
     .heading = Inna strona startowa
@@ -1048,9 +1042,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Zachowane i odwiedzane strony.
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorowane skróty
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Polecane przez { $provider }
 home-prefs-recommended-by-description-new = Wyjątkowe rzeczy wybrane przez { $provider }, część rodziny { -brand-product-name(case: "gen") }.
@@ -1365,11 +1356,6 @@ sync-signedin-login-failure = Zaloguj się, aby ponownie połączyć konto { $em
 sync-signedin-login-failure2 =
     .description = Zaloguj się z powrotem, aby zacząć synchronizować dane.
     .label = Wylogowano z konta { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1660,9 +1646,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Więcej informacji
 forms-windows-sso-desc = Zarządzaj kontami w ustawieniach urządzenia
 windows-passkey-settings-label = Zarządzaj kluczami dostępu w ustawieniach urządzenia
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = { -brand-short-name } pomaga chronić Twoje dane w sieci.
     .label = Ustawienia panelu prywatności
@@ -2096,9 +2079,6 @@ content-blocking-fingerprinters = elementy śledzące przez zbieranie informacji
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = znane i podejrzewane elementy śledzące przez zbieranie informacji o konfiguracji
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Całkowita ochrona ciasteczek ogranicza ciasteczka do odwiedzanej witryny, więc elementy śledzące nie mogą ich używać do śledzenia Cię między witrynami.
 content-blocking-etp-standard-tcp-rollout-learn-more = Więcej informacji

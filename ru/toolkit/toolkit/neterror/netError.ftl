@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Искать в Интернете <stro
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Поиск
-    .accesskey = Ы
     .tooltiptext = Открывает результаты поиска в новой вкладке
+    .accesskey = Ы
 neterror-search-cta-reload-button =
     .label = Обновить
     .accesskey = К

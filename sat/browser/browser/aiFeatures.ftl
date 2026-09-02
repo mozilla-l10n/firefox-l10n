@@ -8,8 +8,8 @@ smart-window-block-description-both = ᱱᱚᱣᱟ ᱟᱢᱟᱜ { -smart-window-
 smart-window-block-description-chats = ᱱᱚᱣᱟ ᱟᱢᱟᱜ { -smart-window-brand-name } ᱪᱮᱴ ᱠᱚ ᱢᱮᱴᱟᱣ ᱪᱷᱚᱭᱟᱭ ᱾
 smart-window-block-description-memories = ᱱᱚᱣᱟ ᱟᱢᱟᱜ { -smart-window-brand-name } ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱢᱮᱴᱟᱣ ᱪᱷᱚᱭᱟᱭ ᱾
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = ᱠᱩᱠᱞᱤ ᱠᱚ ᱠᱩᱞᱤᱭ ᱢᱮ, ᱥᱟᱦᱴᱟ ᱠᱚ ᱛᱩᱞᱟᱹ ᱡᱚᱠᱷᱟᱭ ᱢᱮ, ᱟᱨ ᱵᱤᱞᱴ ᱤᱱ ᱜᱚᱲᱚᱭᱤᱡ ᱥᱟᱶᱛᱮ ᱱᱤᱡᱮᱨ ᱥᱚᱞᱦᱟ ᱧᱟᱢ ᱢᱮ᱾
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = ᱢᱩᱞ ᱥᱟᱡᱟᱣᱠᱚ
 ai-window-is-default-window =
-    .label = { -smart-window-brand-name } ᱢᱩᱞ ᱯᱷᱮᱰᱟᱛ ᱞᱮᱠᱟᱛᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .description = { -smart-window-brand-name } ᱡᱷᱤᱡᱽ ᱢᱮ ᱡᱚᱠᱷᱚᱱ { -brand-short-name } ᱮᱦᱚᱵᱚᱜᱼᱟ, ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱜᱼᱟ, ᱵᱟᱝᱠᱷᱟᱱ ᱮᱴᱟᱜ ᱮᱯᱥ ᱠᱷᱚᱱ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽᱚᱜᱼᱟ ᱾
+    .label = { -smart-window-brand-name } ᱢᱩᱞ ᱯᱷᱮᱰᱟᱛ ᱞᱮᱠᱟᱛᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 ai-window-open-sidebar =
-    .label = ᱜᱚᱲᱚᱭᱤᱡ ᱟᱡ ᱛᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
     .description = ᱥᱟᱱᱟᱢ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱜᱚᱲᱚᱭᱤᱡ ᱥᱟᱭᱤᱰᱵᱟᱨ ᱩᱫᱩᱜ ᱢᱮ ᱾ ᱱᱚᱣᱟ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱵᱚᱱᱫᱚ ᱢᱮ᱾
+    .label = ᱜᱚᱲᱚᱭᱤᱡ ᱟᱡ ᱛᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
 ai-window-smart-cursor-in-smart-window =
-    .label = ᱚᱞ ᱵᱟᱪᱷᱟᱣ ᱚᱠᱛᱚ ᱥᱚᱴᱠᱟᱴ ᱩᱫᱩᱜᱽ ᱢᱮ
     .description = ᱥᱟᱨᱠᱟᱛᱷᱟ, ᱵᱩᱡᱷᱟᱹᱣ ᱟᱨ ᱟᱭᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱩᱥᱟᱹᱨᱟ ᱥᱮᱴᱮᱨᱚᱜ ᱧᱟᱢ ᱢᱮ ᱾
+    .label = ᱚᱞ ᱵᱟᱪᱷᱟᱣ ᱚᱠᱛᱚ ᱥᱚᱴᱠᱟᱴ ᱩᱫᱩᱜᱽ ᱢᱮ
 smart-window-model-section =
-    .label = ᱮᱥᱤᱥᱴᱮᱱᱴ ᱢᱳᱰᱮᱞ
     .description = ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟ ᱚᱱᱟ ᱞᱮᱠᱟᱛᱮ ᱢᱤᱫ ᱢᱚᱰᱮᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ᱾
+    .label = ᱮᱥᱤᱥᱴᱮᱱᱴ ᱢᱳᱰᱮᱞ
 smart-window-model-radio-group =
     .aria-label = ᱮᱥᱤᱥᱴᱮᱱᱴ ᱢᱳᱰᱮᱞ
 smart-window-model-learn-link = ᱢᱳᱰᱮᱞ ᱠᱚ ᱵᱟᱨᱮᱛᱮ ᱥᱮᱪᱮᱫ ᱢᱮ
@@ -42,14 +42,14 @@ smart-window-model-learn-link = ᱢᱳᱰᱮᱞ ᱠᱚ ᱵᱟᱨᱮᱛᱮ ᱥᱮ
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = ᱢᱳᱰᱮᱞ { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
     .label = ᱩᱥᱟᱹᱨᱟ: ᱩᱥᱟᱹᱨᱟ ᱛᱮᱞᱟ ᱮᱢᱚᱜ ᱢᱮ
-    .description = ᱢᱳᱰᱮᱞ { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
 smart-window-model-flexible =
-    .label = ᱞᱤᱪᱟᱹᱲ: ᱡᱟᱹᱥᱛᱤ ᱞᱟᱹᱠᱛᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱮᱴᱮᱡ ᱯᱷᱤᱴ
     .description = ᱢᱳᱰᱮᱞ { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
+    .label = ᱞᱤᱪᱟᱹᱲ: ᱡᱟᱹᱥᱛᱤ ᱞᱟᱹᱠᱛᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱮᱴᱮᱡ ᱯᱷᱤᱴ
 smart-window-model-personal =
-    .label = ᱯᱚᱨᱥᱚᱱᱟᱞ: ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ ᱞᱮᱠᱟᱱ ᱛᱮᱞᱟ ᱠᱚ
     .description = ᱢᱚᱰᱮᱞ { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
+    .label = ᱯᱚᱨᱥᱚᱱᱟᱞ: ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ ᱞᱮᱠᱟᱱ ᱛᱮᱞᱟ ᱠᱚ
 smart-window-model-custom =
     .label = ᱠᱟᱥᱴᱚᱢ: ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨ LLM ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 smart-window-model-custom-save-confirmation = ᱢᱳᱰᱮᱞ ᱵᱤᱵᱨᱚᱬ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ ᱾ ᱵᱤᱱᱤᱰ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱱᱟᱶᱟ ᱪᱟᱴ ᱮᱦᱚᱵ ᱢᱮ ᱾
 ai-window-memories-section =
-    .label = ᱢᱚᱱᱮ
     .description = { -brand-short-name } ᱩᱭᱦᱟᱹᱨ ᱵᱮᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ ᱚᱱᱟ ᱠᱚ ᱫᱚ ᱛᱮᱞᱟ ᱠᱚ ᱯᱚᱨᱥᱚᱱᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱟᱨ ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱚᱴᱷᱟᱹᱠᱤᱭᱟᱹ ᱞᱮᱠᱟ ᱡᱟᱣᱨᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+    .label = ᱢᱚᱱᱮ
 ai-window-learn-from-chat-activity =
     .label = { -smart-window-brand-name } ᱠᱷᱚᱱ ᱪᱟᱴ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱵᱮᱵᱚᱥᱛᱟᱭ ᱢᱮ
 ai-window-manage-memories-header =
-    .heading = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱵᱮᱵᱚᱥᱛᱟᱭ ᱢᱮ
     .description = ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱞᱚᱠᱟᱞ ᱞᱮᱠᱟᱛᱮ ᱡᱟᱣᱨᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱟᱢ { -smart-window-brand-name } ᱵᱮᱵᱷᱟᱨ ᱚᱠᱛᱚ ᱩᱱᱠᱩ ᱫᱤᱱ ᱨᱮ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱫᱷᱟᱣ ᱠᱚ ᱨᱤᱯᱷᱨᱮᱥ ᱮᱫᱟ, ᱚᱱᱟ ᱛᱮ ᱱᱮᱛᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱚ ᱯᱨᱚᱯᱷᱨᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
+    .heading = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱵᱮᱵᱚᱥᱛᱟᱭ ᱢᱮ
 ai-window-no-memories =
-    .label = ᱱᱤᱛ ᱦᱚᱸ ᱩᱭᱦᱟᱹᱨ ᱵᱟᱹᱱᱩᱜᱼᱟ
     .description = ᱡᱮᱞᱠᱟ { -smart-window-brand-name } ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱠᱟᱱᱟ, ᱟᱢ ᱱᱚᱸᱰᱮ ᱩᱭᱦᱟᱹᱨ ᱠᱚᱢ ᱧᱮᱞᱟ᱾
+    .label = ᱱᱤᱛ ᱦᱚᱸ ᱩᱭᱦᱟᱹᱨ ᱵᱟᱹᱱᱩᱜᱼᱟ
 ai-window-no-memories-learning-off =
-    .label = ᱩᱫᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
     .description = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱷᱚᱱ ᱪᱮᱫᱚᱜ ᱫᱚ ᱵᱚᱱᱫᱚ ᱜᱮᱭᱟ, ᱚᱱᱟᱛᱮ { -smart-window-brand-name } ᱫᱚ ᱩᱭᱦᱟᱹᱨ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱮᱫᱟ᱾
+    .label = ᱩᱫᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
 ai-window-delete-all-memories-button =
     .label = ᱡᱷᱚᱛᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
 ai-window-delete-all-memories-title = ᱥᱟᱱᱟᱢ ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = ᱩᱭᱦᱟᱹᱨ ᱢᱮᱴᱟᱣ ᱢᱮ
     .aria-label = { $label } ᱢᱮᱴᱟᱣ
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = ᱩᱭᱦᱟᱹᱨ ᱢᱮᱴᱟᱣ ᱢᱮ
 smart-window-model-fast-v2 =
-    .label = { $shortName }: ᱯᱷᱩᱨᱛᱤ
     .description = ᱩᱥᱟᱹᱨᱟ ᱛᱮᱞᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱨᱮᱥ ᱡᱚᱠᱷᱚᱱ ᱥᱯᱤᱰ ᱢᱟᱱᱚᱛ ᱛᱟᱦᱮᱱᱟ᱾ ᱯᱩᱨᱟᱹ ᱧᱩᱛᱩᱢ: { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
+    .label = { $shortName }: ᱯᱷᱩᱨᱛᱤ
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: ᱞᱤᱪᱟᱹᱲ
     .description = ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱯᱲᱟᱣ ᱢᱮ ᱾ ᱯᱩᱨᱟᱹ ᱧᱩᱛᱩᱢ: { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
+    .label = { $shortName }: ᱞᱤᱪᱟᱹᱲ
 smart-window-model-personal-v2 =
-    .label = { $shortName }: ᱱᱤᱡᱮᱨᱟᱹ
     .description = ᱥᱟᱱᱟᱢ ᱯᱟᱹᱨᱥᱤ ᱨᱮ ᱯᱚᱨᱥᱚᱱᱟᱞ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱛᱮᱭᱟᱨ ᱟᱠᱟᱱᱟ᱾ ᱯᱩᱨᱟᱹ ᱧᱩᱛᱩᱢ: { $model } ᱦᱚᱛᱮᱛᱮ { $ownerName }
+    .label = { $shortName }: ᱱᱤᱡᱮᱨᱟᱹ

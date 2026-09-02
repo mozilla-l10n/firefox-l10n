@@ -332,15 +332,6 @@ update-in-progress-ok-button = &Buang
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Teruskan
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Prestasi
@@ -399,9 +390,6 @@ browsing-cfr-recommendations-learn-more = Ketahui lebih lanjut
 browsing-group =
     .label = Menyemak
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Tetapan Rangkaian
@@ -452,16 +440,10 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = Tab baru
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = Carian Web
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Disyorkan oleh { $provider }
 
@@ -562,9 +544,6 @@ containers-new-tab-check =
 containers-remove-button =
     .label = Buang
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -601,11 +580,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } tidak disahkan.
 sync-signedin-login-failure = Sila daftar masuk untuk menyambung semula { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -757,9 +731,6 @@ forms-primary-pw-former-name = Dahulu dikenali sebagai Kata Laluan Induk
 forms-primary-pw-fips-title = Anda kini berada dalam mod FIPS. FIPS memerlukan Kata Laluan Utama yang tidak kosong.
 forms-master-pw-fips-desc = Gagal menukar kata laluan
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -770,9 +741,6 @@ primary-password-os-auth-dialog-message-win = Untuk mencipta Kata Laluan Utama, 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = cipta Kata Laluan Utama
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -866,12 +834,6 @@ sitedata-cookies-exceptions =
 cookies-site-data-group =
     .label = Kuki dan Data Laman
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = Bar Alamat
@@ -924,9 +886,6 @@ content-blocking-all-cookies = Semua kuki
 content-blocking-unvisited-cookies = Kuki daripada laman web yang tidak dilawati
 content-blocking-all-windows-tracking-content = Kandungan penjejakan dalam semua tetingkap
 content-blocking-cryptominers = Pelombong kripto
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = Perhatian!
 content-blocking-and-isolating-etp-warning-description-2 = Tetapan ini mungkin menyebabkan sesetengah laman web tidak memaparkan kandungan atau tidak berfungsi dengan betul. Jika sesuatu laman kelihatan rosak, anda mungkin mahu mematikan perlindungan penjejakan bagi laman tersebut untuk memuatkan semua kandungan.
 content-blocking-warning-learn-how = Ketahui caranya
@@ -1032,9 +991,6 @@ collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi 
 data-collection-studies-link =
     .label = Papar kajian { -brand-short-name }
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1079,32 +1035,8 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Jangan dayakan Mod HTTPS Sahaja
 
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Muat turun
 choose-download-folder-title = Pilih Folder Muat turun:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

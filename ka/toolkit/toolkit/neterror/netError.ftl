@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = მოძებნეთ ინტერ
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = ძიება
-    .accesskey = ძ
     .tooltiptext = გახსნის ძიების შედეგებს ახალ ჩანართში
+    .accesskey = ძ
 neterror-search-cta-reload-button =
     .label = გაახლება
     .accesskey = გ

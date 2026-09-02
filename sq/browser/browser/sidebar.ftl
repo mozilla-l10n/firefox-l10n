@@ -191,31 +191,31 @@ sidebar-syncedtabs-title = Skeda prej pajisjesh të tjera
 synced-tabs-context-close-tab-title =
     .title = Mbylle skedën te { $deviceName }
 show-sidebars =
-    .tooltiptext = Shfaqni anështylla
     .label = Anështylla
+    .tooltiptext = Shfaqni anështylla
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Zgjeroje anështyllën ({ $shortcut })
     .label = Anështylla
+    .tooltiptext = Zgjeroje anështyllën ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Tkurre anështyllën ({ $shortcut })
     .label = Anështylla
+    .tooltiptext = Tkurre anështyllën ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Shfaqe anështyllën ({ $shortcut })
     .label = Anështylla
+    .tooltiptext = Shfaqe anështyllën ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Fshihe anështyllën ({ $shortcut })
     .label = Anështylla
+    .tooltiptext = Fshihe anështyllën ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

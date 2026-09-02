@@ -292,15 +292,6 @@ update-in-progress-ok-button = &Juki
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Mede
 
-## About Firefox
-
-
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Tic
@@ -341,9 +332,6 @@ browsing-media-control-learn-more = Nong ngec mapol
 browsing-cfr-recommendations-learn-more = Nong ngec mapol
 browsing-group =
     .label = Yenyo
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -393,16 +381,10 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = Dirica matino manyen
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = Yeny me kakube
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = Lami tam obedo { $provider }
 
@@ -493,9 +475,6 @@ containers-add-button =
 containers-remove-button =
     .label = Kwany
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -535,11 +514,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } pe ki moko ada ne.
 sync-signedin-login-failure = Tim ber i dony me kube odoco { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -674,15 +648,9 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = Loko mung me donyo Pe olare
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -761,12 +729,6 @@ sitedata-settings =
 cookies-site-data-group =
     .label = Angija ki Data me kakube
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = Lanyut me kanonge
@@ -786,17 +748,10 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 
 content-blocking-learn-more = Nong ngec mapol
 
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
 ##
 
 content-blocking-all-cookies = Angija weng
 content-blocking-unvisited-cookies = Angija ki kakube mape kilimo gi
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 content-blocking-warning-title = Ngec!
 content-blocking-warning-learn-how = Nong ngec nining
 content-blocking-reload-description = Bi mite ni inwo cano dirica matino mamegi me keto alokoloka magi.
@@ -814,9 +769,6 @@ content-blocking-cookies-label =
     .accesskey = A
 content-blocking-expand-section =
     .tooltiptext = Ngec mapol
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -880,9 +832,6 @@ collection-health-report =
 collection-health-report-link = Nong ngec mapol
 addon-recommendations-link = Nong ngec mapol
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -919,32 +868,8 @@ certs-devices-enable-fips = Mii tic me FIPS
 
 httpsonly-learn-more = Nong ngec mapol
 
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Wang kompiuta
 downloads-folder-name = Gam
 choose-download-folder-title = Yer boc me gam:
-
-## Appearance page
-
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
-
-## Referrals Section
-

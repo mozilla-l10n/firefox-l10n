@@ -209,31 +209,31 @@ sidebar-syncedtabs-title = Kartice s drugih uređaja
 synced-tabs-context-close-tab-title =
     .title = Zatvori karticu na { $deviceName }
 show-sidebars =
-    .tooltiptext = Prikaži bočne trake
     .label = Bočne trake
+    .tooltiptext = Prikaži bočne trake
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Rasklopi bočnu traku ({ $shortcut })
     .label = Bočne trake
+    .tooltiptext = Rasklopi bočnu traku ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Sklopi bočnu traku ({ $shortcut })
     .label = Bočne trake
+    .tooltiptext = Sklopi bočnu traku ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Prikaži bočnu traku ({ $shortcut })
     .label = Bočne trake
+    .tooltiptext = Prikaži bočnu traku ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Sakrij bočnu traku ({ $shortcut })
     .label = Bočne trake
+    .tooltiptext = Sakrij bočnu traku ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

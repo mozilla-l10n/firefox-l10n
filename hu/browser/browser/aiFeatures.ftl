@@ -8,8 +8,8 @@ smart-window-block-description-both = Ez törli az { -smart-window-brand-name(ca
 smart-window-block-description-chats = Ez törli az { -smart-window-brand-name(case: "lower") } csevegéseit.
 smart-window-block-description-memories = Ez törli az { -smart-window-brand-name(case: "lower") } memóriáit.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Tegyen fel kérdéseket, hasonlítson össze lapokat és kapjon személyre szabott javaslatokat egy beépített asszisztenssel.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Alapértelmezett beállítások
 ai-window-is-default-window =
-    .label = { -smart-window-brand-name } használata alapértelmezés szerint
     .description = { -smart-window-brand-name } megnyitása a { -brand-short-name } indításakor, újraindításakor vagy más alkalmazásokból való megnyitásakor.
+    .label = { -smart-window-brand-name } használata alapértelmezés szerint
 ai-window-open-sidebar =
-    .label = Asszisztens automatikus megnyitása
     .description = Az asszisztens oldalsáv megjelenítése minden új lapon. Zárja be bármikor.
+    .label = Asszisztens automatikus megnyitása
 ai-window-smart-cursor-in-smart-window =
-    .label = Gyorsindítók megjelenítése szöveg kijelölésekor
     .description = Kapjon gyors hozzáférést az összegzéshez, magyarázathoz és egyebekhez.
+    .label = Gyorsindítók megjelenítése szöveg kijelölésekor
 smart-window-model-section =
-    .label = Asszisztens modellje
     .description = Válasszon egy modellt az alapján, hogy mi a fontos Önnek
+    .label = Asszisztens modellje
 smart-window-model-radio-group =
     .aria-label = Asszisztens modellje
 smart-window-model-learn-link = Tudjon meg többet a modellekről
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Tudjon meg többet a modellekről
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = { $model } modell, gyártó: { $ownerName }
     .label = Gyors: gyorsan válaszol
-    .description = { $model } modell, gyártó: { $ownerName }
 smart-window-model-flexible =
+    .description = { $model } modell, gyártó: { $ownerName }
     .label = Rugalmas: a legtöbb igényhez illeszkedik
-    .description = { $model } modell, gyártó: { $ownerName }
 smart-window-model-personal =
-    .label = Személyes: leginkább személyre szabott válaszok
     .description = { $model } modell, gyártó: { $ownerName }
+    .label = Személyes: leginkább személyre szabott válaszok
 smart-window-model-custom =
     .label = Egyéni: saját LLM használata
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Mentés
 smart-window-model-custom-save-confirmation = A modell részletei mentve. Indítson új csevegést a teszteléshez.
 ai-window-memories-section =
-    .label = Memóriák
     .description = A { -brand-short-name } tanulhat a tevékenységéből, hogy memóriákat hozzon létre. Arra használatosak, hogy személyre szabhassa a válaszokat, és ezek helyben vannak tárolva az eszközön.
+    .label = Memóriák
 ai-window-learn-from-chat-activity =
     .label = Tanulás a csevegésekből az { -smart-window-brand-name(case: "lower") }ban
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Memóriák kezelése
 ai-window-manage-memories-header =
-    .heading = Memóriák kezelése
     .description = A memóriák helyben vannak tárolva az eszközén az adatvédelem érdekében. Naponta néhányszor frissülnek, amikor az { -smart-window-brand-name(case: "lower") }ot használja, így eltarthat egy ideig, amíg a friss tevékenységeit tükrözik.
+    .heading = Memóriák kezelése
 ai-window-no-memories =
-    .label = Még nincsenek memóriák
     .description = Mivel az { -smart-window-brand-name(case: "lower") } tanul a tevékenységéből, így itt fogja látni a memóriákat.
+    .label = Még nincsenek memóriák
 ai-window-no-memories-learning-off =
-    .label = Nincsenek megjeleníthető memóriák
     .description = A tevékenységből való tanulás ki van kapcsolva, így az { -smart-window-brand-name(case: "lower") } nem hoz létre memóriákat.
+    .label = Nincsenek megjeleníthető memóriák
 ai-window-delete-all-memories-button =
     .label = Összes törlése
 ai-window-delete-all-memories-title = Törli az összes memóriát?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Mégse
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Memória törlése
     .aria-label = { $label } törlése
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Memória törlése
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Gyors
     .description = A gyors válaszokhoz, amikor a sebesség számít. Teljes név: { $model }, gyártó: { $ownerName }.
+    .label = { $shortName }: Gyors
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Rugalmas
     .description = Különböző feladatokra alkalmas. Teljes név: { $model }, gyártó: { $ownerName }.
+    .label = { $shortName }: Rugalmas
 smart-window-model-personal-v2 =
-    .label = { $shortName }: személyes
     .description = Személyre szabott segítség több nyelven. Teljes név: { $model }, gyártó: { $ownerName }.
+    .label = { $shortName }: személyes

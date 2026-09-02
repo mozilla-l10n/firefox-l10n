@@ -207,9 +207,6 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blocks trackers as you browse. You’ll see them here.
 
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -485,10 +482,6 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Learn more
 
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
@@ -536,9 +529,6 @@ newtab-topsites-image-url-label = Custom Image URL
 newtab-topsites-use-custom-image-link = Use a custom image
 newtab-topsites-use-image-link = Use a custom image…
 newtab-topsites-image-validation = Image failed to load. Try a different URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Clear text
 
@@ -755,9 +745,6 @@ newtab-discovery-empty-section-topstories-loading = Loading…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oops! We almost loaded this section, but not quite.
 
-## Strings for the story cards carousel
-
-
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -879,9 +866,6 @@ newtab-custom-close-menu-button =
     .title = Close
 newtab-custom-close-button = Close
 newtab-custom-settings = Manage more settings
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Appearance
 # Button that opens the full browser theme selection view.
@@ -999,9 +983,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1403,9 +1384,6 @@ newtab-promo-card-cta = Learn more
 newtab-promo-card-dismiss-button =
     .aria-label = Dismiss
     .title = Dismiss
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

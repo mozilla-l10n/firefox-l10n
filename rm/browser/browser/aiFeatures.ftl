@@ -8,8 +8,8 @@ smart-window-block-description-both = Quest’acziun vegn a stizzar ils chats e 
 smart-window-block-description-chats = Quest’acziun vegn a stizzar tes chats da { -smart-window-brand-name }.
 smart-window-block-description-memories = Quest’acziun vegn a stizzar las regurdientschas da { -smart-window-brand-name }.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Fa dumondas, cumpareglia paginas e retschaiva propostas persunalisadas cun agid d’in assistent integrà.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -19,17 +19,17 @@ ai-window-personalize-button =
 ai-window-default-section =
     .label = Parameters predefinids
 ai-window-is-default-window =
-    .label = Utilisar { -smart-window-brand-name } sco standard
     .description = Avrir { -smart-window-brand-name } cura che { -brand-short-name } vegn avià, reavià u avra colliaziuns dad autras applicaziuns.
+    .label = Utilisar { -smart-window-brand-name } sco standard
 ai-window-open-sidebar =
-    .label = Avrir automaticamain l’assistent
     .description = Mussar la trav laterala da l’assistent sin mintga nov tab. Al serra da tut temp.
+    .label = Avrir automaticamain l’assistent
 ai-window-smart-cursor-in-smart-window =
-    .label = Mussar scursanidas cun selecziunar text
     .description = Per in svelt access a resumaziuns, explicaziuns e dapli.
+    .label = Mussar scursanidas cun selecziunar text
 smart-window-model-section =
-    .label = Model da l’assistent
     .description = Tscherna in model sin basa da quai ch’è impurtant per tai.
+    .label = Model da l’assistent
 smart-window-model-radio-group =
     .aria-label = Model da l’assistent
 smart-window-model-learn-link = Ulteriuras infurmaziuns davart models
@@ -40,14 +40,14 @@ smart-window-model-learn-link = Ulteriuras infurmaziuns davart models
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Model { $model } da { $ownerName }
     .label = Svelt:  respunda spertamain
-    .description = Model { $model } da { $ownerName }
 smart-window-model-flexible =
+    .description = Model { $model } da { $ownerName }
     .label = Flexibel: ina soluziun adattada per ils blers basegns
-    .description = Model { $model } da { $ownerName }
 smart-window-model-personal =
-    .label = Persunal: Las respostas las pli persunalisadas
     .description = Model { $model } da { $ownerName }
+    .label = Persunal: Las respostas las pli persunalisadas
 smart-window-model-custom =
     .label = Persunalisà: Utilisescha tes agen LLM
 smart-window-model-custom-name =
@@ -65,8 +65,8 @@ smart-window-model-custom-save =
     .label = Memorisar
 smart-window-model-custom-save-confirmation = Memorisà ils detagls dal model. Cumenza in nov chat per testar.
 ai-window-memories-section =
-    .label = Regurdientschas
     .description = { -brand-short-name } po emprender a maun da tias activitads per crear regurdientschas. Ellas vegnan utilisadas per gidar a persunalisar respostas e vegnan memorisadas localmain sin quest apparat.
+    .label = Regurdientschas
 ai-window-learn-from-chat-activity =
     .label = Emprender a maun da chats en { -smart-window-brand-name }
 ai-window-learn-from-browsing-activity =
@@ -74,14 +74,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Administrar las regurdientschas
 ai-window-manage-memories-header =
-    .heading = Administrar las regurdientschas
     .description = Regurdientschas vegnan memorisadas localmain sin quest apparat per gidar a proteger tia sfera privata. Ellas vegnan actualisadas in pèr giadas per di durant che ti utiliseschas { -smart-window-brand-name }, perquai poi cuzzar in amen enfin che las activitads recentas sa manifesteschian.
+    .heading = Administrar las regurdientschas
 ai-window-no-memories =
-    .label = Anc naginas regurdientschas
     .description = Uschespert che { -smart-window-brand-name } emprenda da tias activitads, vegns ti a vesair qua las regurdientschas.
+    .label = Anc naginas regurdientschas
 ai-window-no-memories-learning-off =
-    .label = Anc naginas regurdientschas da mussar
     .description = L’emprender da las activitads è deactivà, uschia che { -smart-window-brand-name } na creescha naginas regurdientschas.
+    .label = Anc naginas regurdientschas da mussar
 ai-window-delete-all-memories-button =
     .label = Stizzar tut
 ai-window-delete-all-memories-title = Stizzar tut las regurdientschas?
@@ -93,11 +93,5 @@ ai-window-delete-all-memories-cancel = Interrumper
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Stizzar questa regurdientscha
     .aria-label = Stizzar { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Stizzar questa regurdientscha

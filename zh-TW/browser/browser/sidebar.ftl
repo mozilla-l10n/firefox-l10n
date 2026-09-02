@@ -296,31 +296,31 @@ sidebar-bookmarks-title = 書籤
 synced-tabs-context-close-tab-title =
     .title = 關閉 { $deviceName } 上的分頁
 show-sidebars =
-    .tooltiptext = 顯示側邊欄
     .label = 側邊欄
+    .tooltiptext = 顯示側邊欄
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = 展開側邊欄 ({ $shortcut })
     .label = 側邊欄
+    .tooltiptext = 展開側邊欄 ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = 摺疊側邊欄 ({ $shortcut })
     .label = 側邊欄
+    .tooltiptext = 摺疊側邊欄 ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = 顯示側邊欄 ({ $shortcut })
     .label = 側邊欄
+    .tooltiptext = 顯示側邊欄 ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = 隱藏側邊欄 ({ $shortcut })
     .label = 側邊欄
+    .tooltiptext = 隱藏側邊欄 ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

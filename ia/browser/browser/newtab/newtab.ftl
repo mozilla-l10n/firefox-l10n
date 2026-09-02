@@ -542,9 +542,6 @@ newtab-topsites-image-url-label = URL de imagine personal
 newtab-topsites-use-custom-image-link = Usar un imagine personalisate
 newtab-topsites-use-image-link = Usar un imagine personalisate…
 newtab-topsites-image-validation = Error durante le cargamento del imagine. Prova un altere URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Vacuar le texto
 
@@ -899,9 +896,6 @@ newtab-custom-close-menu-button =
     .title = Clauder
 newtab-custom-close-button = Clauder
 newtab-custom-settings = Gerer altere parametros
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Apparentia
 # Button that opens the full browser theme selection view.
@@ -1019,9 +1013,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1423,9 +1414,6 @@ newtab-promo-card-cta = Pro saper plus
 newtab-promo-card-dismiss-button =
     .aria-label = Clauder
     .title = Clauder
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

@@ -36,18 +36,18 @@ sidebar-customize-title = Yon panelni sozlash
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = Yon panellarni ko‘rsatish
     .label = Yon panellar
+    .tooltiptext = Yon panellarni ko‘rsatish
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Yon panelni yoyish ({ $shortcut })
     .label = Yon panel
+    .tooltiptext = Yon panelni yoyish ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Yon panelni yigʻish ({ $shortcut })
     .label = Yon panel
+    .tooltiptext = Yon panelni yigʻish ({ $shortcut })

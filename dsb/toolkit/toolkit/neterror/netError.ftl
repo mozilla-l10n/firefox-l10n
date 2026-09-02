@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Web za <strong>“{ $query }”</strong>
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Pytaś
-    .accesskey = P
     .tooltiptext = Wócynja pytańske wuslědki w nowem rejtariku
+    .accesskey = P
 neterror-search-cta-reload-button =
     .label = Znowego zacytaś
     .accesskey = Z

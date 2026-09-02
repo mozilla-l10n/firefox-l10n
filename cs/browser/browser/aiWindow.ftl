@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Vyhledat pomocí { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Vyhledat pomocí…
 aiwindow-input-cta-search-submenu-header = Hledat
 aiwindow-input-cta-stop-button =
-    .title = Zastavit odpověď
     .aria-label = Zastavit generování odpovědí
+    .title = Zastavit odpověď
 
 ## Smartbar
 
@@ -236,12 +236,12 @@ smartwindow-switch-to-smart-window = Přepnout na { -smart-window-brand-name(cas
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Chaty
     .aria-label = Chaty
+    .label = Chaty
     .tooltiptext = Chaty
 smartwindow-footer-history =
-    .label = Historie
     .aria-label = Historie
+    .label = Historie
     .tooltiptext = Historie
 
 ## Disclaimer
@@ -276,10 +276,6 @@ firefoxview-chats-empty-description = Když budete používat { -smart-window-br
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } chat
@@ -298,11 +294,11 @@ item-history-downloads-and-chat-description = Vymaže historii stránek, stahov�
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Vybrat vše
     .aria-label = Vybrat vše
+    .label = Vybrat vše
 smart-window-confirm-deselect-all =
-    .label = Zrušit výběr
     .aria-label = Zrušit výběr
+    .label = Zrušit výběr
 smart-window-close-confirm =
     .aria-label = Zrušit požadavek a zavřít
     .tooltiptext = Zruší požadavek a zavře

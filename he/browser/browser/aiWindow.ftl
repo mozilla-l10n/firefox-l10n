@@ -60,8 +60,8 @@ aiwindow-input-cta-menu-label-search = חיפוש באמצעות { $searchEngine
 aiwindow-input-cta-menu-label-search-with = חיפוש באמצעות…
 aiwindow-input-cta-search-submenu-header = חיפוש
 aiwindow-input-cta-stop-button =
-    .title = הפסקת תגובה
     .aria-label = הפסקת יצירת התגובה
+    .title = הפסקת תגובה
 
 ## Smartbar
 
@@ -223,12 +223,12 @@ smartwindow-switch-to-smart-window = מעבר ל־{ -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = צ’אטים
     .aria-label = צ’אטים
+    .label = צ’אטים
     .tooltiptext = צ’אטים
 smartwindow-footer-history =
-    .label = היסטוריה
     .aria-label = היסטוריה
+    .label = היסטוריה
     .tooltiptext = היסטוריה
 
 ## Disclaimer
@@ -254,7 +254,7 @@ firefoxview-search-text-box-chats =
 firefoxview-chat-date-today = היום - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = אתמול - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, year: "numeric", month: "long") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ## Message displayed in Firefox View when the user has no chat data
 
@@ -262,10 +262,6 @@ firefoxview-chats-empty-header = חזרה לצ’אטים שלך
 firefoxview-chats-empty-description = תוך כדי השימוש ב־{ -smart-window-brand-name }, הצ’אטים שלך יישמרו כאן.
 
 ## Count displayed in fxview chat search results
-
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
 
 firefoxview-search-chat-results-count =
     { $count ->
@@ -283,11 +279,11 @@ item-history-downloads-and-chat-description = ניקוי היסטוריית את
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = בחירה בהכל
     .aria-label = בחירה בהכל
+    .label = בחירה בהכל
 smart-window-confirm-deselect-all =
-    .label = ביטול בחירה מהכל
     .aria-label = ביטול בחירה מהכל
+    .label = ביטול בחירה מהכל
 smart-window-close-confirm =
     .aria-label = ביטול הבקשה וסגירה
     .tooltiptext = ביטול הבקשה וסגירה

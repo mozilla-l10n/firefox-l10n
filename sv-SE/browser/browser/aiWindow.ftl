@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Sök med { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Sök med…
 aiwindow-input-cta-search-submenu-header = Sök
 aiwindow-input-cta-stop-button =
-    .title = Stoppa svar
     .aria-label = Stoppa svarsgenerering
+    .title = Stoppa svar
 
 ## Smartbar
 
@@ -174,8 +174,8 @@ smartwindow-ask-button =
 ## Memories toggle button
 
 aiwindow-memories-on =
-    .tooltiptext = Använd minnen i svaren när det är användbart
     .aria-label = Minnen på
+    .tooltiptext = Använd minnen i svaren när det är användbart
 aiwindow-memories-off =
     .aria-label = Minnen av
     .tooltiptext = Använd inte minnen i svaren
@@ -183,14 +183,14 @@ aiwindow-memories-off =
 ## New Chat Button
 
 aiwindow-new-chat =
-    .tooltiptext = Ny chatt
     .aria-label = Ny chatt
+    .tooltiptext = Ny chatt
 
 ## Close Sidebar Button
 
 aiwindow-close-sidebar =
-    .tooltiptext = Stäng
     .aria-label = Stäng
+    .tooltiptext = Stäng
 
 ## Chat History Menu
 ## The menu opened from the "..." button next to the new chat button. Its main
@@ -232,13 +232,13 @@ smartwindow-switch-to-smart-window = Byt till { -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .tooltiptext = Chattar
     .aria-label = Chattar
     .label = Chattar
+    .tooltiptext = Chattar
 smartwindow-footer-history =
-    .tooltiptext = Historik
     .aria-label = Historik
     .label = Historik
+    .tooltiptext = Historik
 
 ## Disclaimer
 ## Text displayed to user to warn user about potential mistakes.
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = När du använder { -smart-window-brand-na
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } chatt
@@ -298,8 +294,8 @@ smart-window-confirm-deselect-all =
     .aria-label = Avmarkera alla
     .label = Avmarkera alla
 smart-window-close-confirm =
-    .tooltiptext = Avbryt begäran och stäng
     .aria-label = Avbryt begäran och stäng
+    .tooltiptext = Avbryt begäran och stäng
 smart-window-confirm-close-tab = Stäng
 # Variables
 #   $count (number) - Number of tabs to close

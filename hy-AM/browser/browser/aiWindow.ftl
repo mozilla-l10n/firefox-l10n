@@ -60,8 +60,8 @@ aiwindow-input-cta-menu-label-search = Որոնել { $searchEngineName }-ով
 aiwindow-input-cta-menu-label-search-with = Որոնել հետևյալով՝
 aiwindow-input-cta-search-submenu-header = Որոնում
 aiwindow-input-cta-stop-button =
-    .title = Դադարեցնել պատասխանը
     .aria-label = Դադարեցնել պատասխանի ստեղծումը
+    .title = Դադարեցնել պատասխանը
 
 ## Smartbar
 
@@ -205,12 +205,12 @@ aiwindow-fullpage-more =
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Զրույցներ
     .aria-label = Զրույցներ
+    .label = Զրույցներ
     .tooltiptext = Զրույցներ
 smartwindow-footer-history =
-    .label = Պատմություն
     .aria-label = Պատմություն
+    .label = Պատմություն
     .tooltiptext = Պատմություն
 
 ## Disclaimer
@@ -244,10 +244,6 @@ firefoxview-chats-empty-header = Վերադարձեք ձեր զրույցներ�
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } զրույց
@@ -261,11 +257,11 @@ item-history-downloads-and-chat-description = Մաքրում է կայքի, նե
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Նշել բոլորը
     .aria-label = Նշել բոլորը
+    .label = Նշել բոլորը
 smart-window-confirm-deselect-all =
-    .label = Ապանշել բոլորը
     .aria-label = Ապանշել բոլորը
+    .label = Ապանշել բոլորը
 smart-window-close-confirm =
     .aria-label = Չեղարկել հարցումը և փակել
     .tooltiptext = Չեղարկել հարցումը և փակել

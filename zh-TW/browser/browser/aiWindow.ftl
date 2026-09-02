@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = 使用 { $searchEngineName } 搜尋
 aiwindow-input-cta-menu-label-search-with = 使用其他引擎搜尋…
 aiwindow-input-cta-search-submenu-header = 搜尋
 aiwindow-input-cta-stop-button =
-    .title = 停止回應
     .aria-label = 停止產生回應
+    .title = 停止回應
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = 切換至{ -smart-window-brand-name }
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = 聊天紀錄
     .aria-label = 聊天紀錄
+    .label = 聊天紀錄
     .tooltiptext = 聊天紀錄
 smartwindow-footer-history =
-    .label = 瀏覽紀錄
     .aria-label = 瀏覽紀錄
+    .label = 瀏覽紀錄
     .tooltiptext = 瀏覽紀錄
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = 隨您使用{ -smart-window-brand-name }�
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count = { $count } 筆聊天
 
 ## Clear browsing data dialog
@@ -288,11 +284,11 @@ item-history-downloads-and-chat-description = 清除網站、下載與聊天紀�
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = 選擇全部
     .aria-label = 選擇全部
+    .label = 選擇全部
 smart-window-confirm-deselect-all =
-    .label = 取消選擇全部
     .aria-label = 取消選擇全部
+    .label = 取消選擇全部
 smart-window-close-confirm =
     .aria-label = 取消請求並關閉
     .tooltiptext = 取消請求並關閉

@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Keresés ezzel: { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Keresés ezzel…
 aiwindow-input-cta-search-submenu-header = Keresés
 aiwindow-input-cta-stop-button =
-    .title = Válasz leállítása
     .aria-label = Válasz előállításának leállítása
+    .title = Válasz leállítása
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Váltás az { -smart-window-brand-name(case
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .label = Csevegések
     .aria-label = Csevegések
+    .label = Csevegések
     .tooltiptext = Csevegések
 smartwindow-footer-history =
-    .label = Előzmények
     .aria-label = Előzmények
+    .label = Előzmények
     .tooltiptext = Előzmények
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = Mivel { -smart-window-brand-name(case: "lo
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } csevegés
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Törli a webhely-, letöltési és
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Összes kiválasztása
     .aria-label = Összes kiválasztása
+    .label = Összes kiválasztása
 smart-window-confirm-deselect-all =
-    .label = Összes kiválasztásának megszüntetése
     .aria-label = Összes kiválasztásának megszüntetése
+    .label = Összes kiválasztásának megszüntetése
 smart-window-close-confirm =
     .aria-label = Kérés megszakítása és bezárás
     .tooltiptext = Kérés megszakítása és bezárás

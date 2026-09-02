@@ -240,31 +240,31 @@ sidebar-opentabs-window-header =
 synced-tabs-context-close-tab-title =
     .title = Пӯшидани варақа дар «{ $deviceName }»
 show-sidebars =
-    .tooltiptext = Намоиш додани наворҳои ҷонибӣ
     .label = Наворҳои ҷонибӣ
+    .tooltiptext = Намоиш додани наворҳои ҷонибӣ
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = Баркушодани навори ҷонибӣ ({ $shortcut })
     .label = Наворҳои ҷонибӣ
+    .tooltiptext = Баркушодани навори ҷонибӣ ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = Печондани навори ҷонибӣ ({ $shortcut })
     .label = Наворҳои ҷонибӣ
+    .tooltiptext = Печондани навори ҷонибӣ ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
-    .tooltiptext = Намоиш додани навори ҷонибӣ ({ $shortcut })
     .label = Наворҳои ҷонибӣ
+    .tooltiptext = Намоиш додани навори ҷонибӣ ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = Пинҳон кардани навори ҷонибӣ ({ $shortcut })
     .label = Наворҳои ҷонибӣ
+    .tooltiptext = Пинҳон кардани навори ҷонибӣ ({ $shortcut })
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.

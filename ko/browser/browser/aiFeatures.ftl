@@ -8,8 +8,8 @@ smart-window-block-description-both = { -smart-window-brand-name } 채팅과 기
 smart-window-block-description-chats = { -smart-window-brand-name } 채팅이 삭제됩니다.
 smart-window-block-description-memories = { -smart-window-brand-name } 기억이 삭제됩니다.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = 내장 어시스턴트로 질문하고, 페이지를 비교하며, 맞춤형 제안을 받아보세요.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = 기본 설정
 ai-window-is-default-window =
-    .label = 기본으로 { -smart-window-brand-name } 사용
     .description = { -brand-short-name }가 시작되거나 다시 시작될 때, 또는 다른 앱에서 링크를 열 때 { -smart-window-brand-name }를 엽니다.
+    .label = 기본으로 { -smart-window-brand-name } 사용
 ai-window-open-sidebar =
-    .label = 자동으로 어시스턴트 열기
     .description = 새 탭을 열 때마다 어시스턴트 사이드바를 표시합니다. 언제든지 닫을 수 있습니다.
+    .label = 자동으로 어시스턴트 열기
 ai-window-smart-cursor-in-smart-window =
-    .label = 텍스트 선택 시 바로 가기 표시
     .description = 요약, 설명 등을 빠르게 이용할 수 있습니다.
+    .label = 텍스트 선택 시 바로 가기 표시
 smart-window-model-section =
-    .label = 어시스턴트 모델
     .description = 중요하게 생각하는 가치에 따라 모델을 선택하세요.
+    .label = 어시스턴트 모델
 smart-window-model-radio-group =
     .aria-label = 어시스턴트 모델
 smart-window-model-learn-link = 모델에 대해 더 알아보기
@@ -42,14 +42,14 @@ smart-window-model-learn-link = 모델에 대해 더 알아보기
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = { $ownerName }의 { $model } 모델
     .label = 빠름: 신속한 답변 제공
-    .description = { $ownerName }의 { $model } 모델
 smart-window-model-flexible =
+    .description = { $ownerName }의 { $model } 모델
     .label = 유연함: 대부분의 작업에 적합
-    .description = { $ownerName }의 { $model } 모델
 smart-window-model-personal =
-    .label = 맞춤형: 나에게 최적화된 답변 제공
     .description = { $ownerName }의 { $model } 모델
+    .label = 맞춤형: 나에게 최적화된 답변 제공
 smart-window-model-custom =
     .label = 사용자 지정: 내가 가진 자체 LLM 사용
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = 저장
 smart-window-model-custom-save-confirmation = 모델 세부 정보가 저장되었습니다. 테스트를 위해 채팅을 새로 시작합니다.
 ai-window-memories-section =
-    .label = 기억 기능
     .description = { -brand-short-name }는 사용자의 활동을 바탕으로 정보를 기억할 수 있습니다. 기억된 내용은 맞춤형 응답을 제공하는 데 사용되며, 이 기기에 로컬로 안전하게 저장됩니다.
+    .label = 기억 기능
 ai-window-learn-from-chat-activity =
     .label = { -smart-window-brand-name }의 채팅에서 학습
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = 기억 기능 관리
 ai-window-manage-memories-header =
-    .heading = 기억 기능 관리
     .description = 사용자의 개인 정보를 보호하기 위해 기억된 내용은 이 기기에 로컬로 저장됩니다. 이 정보는 { -smart-window-brand-name }을 사용하는 동안 하루에 몇 번씩 새로 고침되므로, 최근 활동이 반영되는 데는 시간이 걸릴 수 있습니다.
+    .heading = 기억 기능 관리
 ai-window-no-memories =
-    .label = 아직 기억 없음
     .description = { -smart-window-brand-name }가 사용자의 활동을 바탕으로 학습을 시작하면 이곳에 기억된 내용이 표시됩니다.
+    .label = 아직 기억 없음
 ai-window-no-memories-learning-off =
-    .label = 표시할 기억 없음
     .description = 활동 학습 기능이 꺼져 있어 { -smart-window-brand-name }가 정보를 기억하지 않습니다.
+    .label = 표시할 기억 없음
 ai-window-delete-all-memories-button =
     .label = 모두 삭제
 ai-window-delete-all-memories-title = 모든 기억을 삭제하시겠습니까?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = 취소
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = 기억 삭제
     .aria-label = { $label } 삭제
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = 기억 삭제
 smart-window-model-fast-v2 =
-    .label = { $shortName }: 빠름
     .description = 빠른 답변이 필요할 때 가장 적합합니다. 전체 이름: { $ownerName }의 { $model }
+    .label = { $shortName }: 빠름
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: 유연함
     .description = 다양한 작업에 유연하게 대응합니다. 전체 이름: { $ownerName }의 { $model }
+    .label = { $shortName }: 유연함
 smart-window-model-personal-v2 =
-    .label = { $shortName }: 맞춤형
     .description = 다양한 언어로 맞춤형 도움을 제공하도록 설계되었습니다. 전체 이름: { $ownerName }의 { $model }
+    .label = { $shortName }: 맞춤형

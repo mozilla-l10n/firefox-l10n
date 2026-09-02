@@ -56,8 +56,8 @@ neterror-search-cta-hint-search-query = Bilatu <strong>"{ $query }”</strong> w
 # that results open in a new tab.
 neterror-search-cta-search-button =
     .label = Bilatu
-    .accesskey = B
     .tooltiptext = Bilaketa-emaitzak fitxa berrian irekitzen ditu
+    .accesskey = B
 neterror-search-cta-reload-button =
     .label = Berritu
     .accesskey = B

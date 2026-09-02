@@ -8,8 +8,8 @@ smart-window-block-description-both = Tämä poistaa { -smart-window-brand-name 
 smart-window-block-description-chats = Tämä poistaa { -smart-window-brand-name } -keskustelut.
 smart-window-block-description-memories = Tämä poistaa { -smart-window-brand-name } -muistot.
 ai-window-features-group =
-    .label = { -smart-window-brand-name }
     .description = Esitä kysymyksiä, vertaa sivuja ja hanki henkilökohtaisia ehdotuksia sisäänrakennetun avustajan avulla.
+    .label = { -smart-window-brand-name }
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =
@@ -21,17 +21,17 @@ ai-window-personalize-header =
 ai-window-default-section =
     .label = Oletusasetukset
 ai-window-is-default-window =
-    .label = Käytä { -smart-window-brand-name } oletuksena
     .description = Avaa { -smart-window-brand-name } kun { -brand-short-name } käynnistyy, tai avaa linkkejä muista sovelluksista.
+    .label = Käytä { -smart-window-brand-name } oletuksena
 ai-window-open-sidebar =
-    .label = Avaa avustaja automaattisesti
     .description = Näytä avustajan sivupalkki jokaisessa uudessa välilehdessä. Sulje milloin tahansa.
+    .label = Avaa avustaja automaattisesti
 ai-window-smart-cursor-in-smart-window =
-    .label = Näytä pikavalinnat tekstiä valittaessa
     .description = Käytä nopeasti yhteenvetoa, selitystä ja muuta.
+    .label = Näytä pikavalinnat tekstiä valittaessa
 smart-window-model-section =
-    .label = Avustajamalli
     .description = Valitse malli tarpeidesi pohjalta.
+    .label = Avustajamalli
 smart-window-model-radio-group =
     .aria-label = Avustajamalli
 smart-window-model-learn-link = Lue lisää malleista
@@ -42,14 +42,14 @@ smart-window-model-learn-link = Lue lisää malleista
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
+    .description = Malli { $model }, valmistaja { $ownerName }
     .label = Nopea: Vastaa nopeasti
-    .description = Malli { $model }, valmistaja { $ownerName }
 smart-window-model-flexible =
+    .description = Malli { $model }, valmistaja { $ownerName }
     .label = Joustava: Sopii useimpiin tarpeisiin
-    .description = Malli { $model }, valmistaja { $ownerName }
 smart-window-model-personal =
-    .label = Henkilökohtainen: Räätälöidyimmät vastaukset
     .description = Malli { $model }, valmistaja { $ownerName }
+    .label = Henkilökohtainen: Räätälöidyimmät vastaukset
 smart-window-model-custom =
     .label = Mukautettu: Käytä omaa kielimallia
 smart-window-model-custom-name =
@@ -67,8 +67,8 @@ smart-window-model-custom-save =
     .label = Tallenna
 smart-window-model-custom-save-confirmation = Mallin tiedot tallennettu. Aloita uusi keskustelu testataksesi.
 ai-window-memories-section =
-    .label = Muistot
     .description = { -brand-short-name } voi oppia tekemistäsi asioista luodakseen muistoja. Niitä käytetään, jotta vastaukset olisivat henkilökohtaisempia, ja ne talletetaan vain tälle laitteelle.
+    .label = Muistot
 ai-window-learn-from-chat-activity =
     .label = Opi { -smart-window-brand-name } -keskusteluista
 ai-window-learn-from-browsing-activity =
@@ -76,14 +76,14 @@ ai-window-learn-from-browsing-activity =
 ai-window-manage-memories-button =
     .label = Hallitse muistoja
 ai-window-manage-memories-header =
-    .heading = Hallitse muistoja
     .description = Muistot on talletettu vain tälle laitteelle, jotta yksityisyytesi on suojattu. Ne päivittyvät muutaman kerran päivässä, kun{ -smart-window-brand-name } on käytössä, joten viimeaikainen toiminta saattaa heijastua vasta viiveellä.
+    .heading = Hallitse muistoja
 ai-window-no-memories =
-    .label = Ei vielä muistoja
     .description = Kun { -smart-window-brand-name } oppii tekemistäsi asioista, näet muistoja täällä.
+    .label = Ei vielä muistoja
 ai-window-no-memories-learning-off =
-    .label = Ei muistoja näytettäväksi
     .description = Toiminnasta oppiminen on pois päältä, joten { -smart-window-brand-name } ei luo muistoja.
+    .label = Ei muistoja näytettäväksi
 ai-window-delete-all-memories-button =
     .label = Poista kaikki
 ai-window-delete-all-memories-title = Poistetaanko kaikki muistot?
@@ -95,20 +95,14 @@ ai-window-delete-all-memories-cancel = Peruuta
 # Variables:
 #   $label (String) - The memory summary text that will be deleted
 ai-window-memory-delete-button =
-    .title = Poista muisto
     .aria-label = Poista { $label }
-
-## Full name indicates the full version name of the model currently listed along with its publisher
-##   $shortName (string) - The display name of the model collection
-##   $model (string) - The name of the AI model
-##   $ownerName (String) - The name of owner of the AI model
-
+    .title = Poista muisto
 smart-window-model-fast-v2 =
-    .label = { $shortName }: Nopea
     .description = Paras nopeisiin vastauksiin. Koko nimi: { $model }, tehnyt { $ownerName }
+    .label = { $shortName }: Nopea
 smart-window-model-flexible-v2 =
-    .label = { $shortName }: Joustava
     .description = Valmis monenlaisiin tehtäviin. Koko nimi: { $model }, tehnyt { $ownerName }
+    .label = { $shortName }: Joustava
 smart-window-model-personal-v2 =
-    .label = { $shortName }: Henkilökohtainen
     .description = Luotu räätälöityä apua varten eri kielillä. Koko nimi: { $model }, tehnyt { $ownerName }
+    .label = { $shortName }: Henkilökohtainen

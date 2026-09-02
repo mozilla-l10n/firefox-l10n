@@ -506,9 +506,6 @@ newtab-topsites-image-url-label = 사용자 지정 이미지 URL
 newtab-topsites-use-custom-image-link = 사용자 지정 이미지 사용
 newtab-topsites-use-image-link = 사용자 지정 이미지 사용…
 newtab-topsites-image-validation = 이미지를 읽어오지 못했습니다. 다른 URL을 시도하세요.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = 텍스트 지우기
 
@@ -865,9 +862,6 @@ newtab-custom-close-menu-button =
     .title = 닫기
 newtab-custom-close-button = 닫기
 newtab-custom-settings = 추가 설정
-
-## New Tab Appearance (browser theme picker)
-
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = 모양
 # Button that opens the full browser theme selection view.
@@ -985,9 +979,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox
-
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1389,9 +1380,6 @@ newtab-promo-card-cta = 더 알아보기
 newtab-promo-card-dismiss-button =
     .aria-label = 닫기
     .title = 닫기
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

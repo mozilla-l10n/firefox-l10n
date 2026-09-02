@@ -63,8 +63,8 @@ aiwindow-input-cta-menu-label-search = Sykje mei { $searchEngineName }
 aiwindow-input-cta-menu-label-search-with = Sykje mei…
 aiwindow-input-cta-search-submenu-header = Sykje
 aiwindow-input-cta-stop-button =
-    .title = Antwurd stopje
     .aria-label = Oanmeitsjen antwurd stopje
+    .title = Antwurd stopje
 
 ## Smartbar
 
@@ -232,12 +232,12 @@ smartwindow-switch-to-smart-window = Oerskeakelje nei { -smart-window-brand-name
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .tooltiptext = Chats
     .aria-label = Chats
     .label = Chats
+    .tooltiptext = Chats
 smartwindow-footer-history =
-    .label = Skiednis
     .aria-label = Skiednis
+    .label = Skiednis
     .tooltiptext = Skiednis
 
 ## Disclaimer
@@ -272,10 +272,6 @@ firefoxview-chats-empty-description = As jo { -smart-window-brand-name } brûke,
 
 ## Count displayed in fxview chat search results
 
-
-# Variables:
-#   $count (Number) - The number of chats matching the search query.
-
 firefoxview-search-chat-results-count =
     { $count ->
         [one] { $count } chat
@@ -292,11 +288,11 @@ item-history-downloads-and-chat-description = Wisket website-, download- en chat
 ## Natural Language Interactions
 
 smart-window-confirm-select-all =
-    .label = Alles selektearje
     .aria-label = Alles selektearje
+    .label = Alles selektearje
 smart-window-confirm-deselect-all =
-    .label = Alles deselektearje
     .aria-label = Alles deselektearje
+    .label = Alles deselektearje
 smart-window-close-confirm =
     .aria-label = Oanfraach annulearje en slute
     .tooltiptext = Oanfraach annulearje en slute

@@ -887,9 +887,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = เรียนรู้เพิ่มเติม
 browsing-group =
     .label = การเรียกดู
-
-## Accessibility page
-
 preferences-accessibility-header =
     .heading = การช่วยเข้าถึง
 preferences-default-zoom-select =
@@ -1008,9 +1005,6 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = ส่วนขยาย ({ $extension })
-
-## Custom Homepage subpage
-
 home-custom-homepage-header = หน้าแรกกำหนดเอง
 home-custom-homepage-subpage =
     .heading = หน้าแรกกำหนดเอง
@@ -1026,9 +1020,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
 home-prefs-shortcuts-by-option-sponsored =
     .label = ทางลัดที่ได้รับการสนับสนุน
-
-## Home Section - Firefox Home Content Customization
-
 home-prefs-recommended-by-header =
     .label = แนะนำโดย { $provider }
 home-prefs-recommended-by-description-new = เนื้อหาคัดสรรพิเศษโดย { $provider } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
@@ -1318,11 +1309,6 @@ sync-signedin-login-failure = โปรดลงชื่อเข้าเพ�
 sync-signedin-login-failure2 =
     .description = ลงชื่อเข้าอีกครั้งเพื่อเชื่อมต่อใหม่และเริ่มการซิงค์ข้อมูลของคุณ
     .label = คุณลงชื่อออกจาก { $email } แล้ว
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1613,9 +1599,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = เรียนรู้เพิ่มเติม
 forms-windows-sso-desc = จัดการบัญชีในการตั้งค่าอุปกรณ์ของคุณ
 windows-passkey-settings-label = จัดการพาสคีย์ในการตั้งค่าระบบ
-
-## Privacy Panel Settings
-
 privacy-panel-settings-header =
     .description = รับการช่วยเหลือในการปกป้องข้อมูลออนไลน์ของคุณใน { -brand-short-name }
     .label = การตั้งค่าแผงความเป็นส่วนตัว
@@ -2028,9 +2011,6 @@ content-blocking-fingerprinters = ลายนิ้วมือดิจิท�
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = ลายนิ้วมือดิจิทัลที่รู้จักและต้องสงสัย
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = การป้องกันคุกกี้ทั้งหมดประกอบด้วยคุกกี้สำหรับไซต์ที่คุณเยี่ยมชม ดังนั้นตัวติดตามจึงไม่สามารถใช้คุกกี้เหล่านี้เพื่อติดตามคุณบนไซต์ต่าง ๆ ได้
 content-blocking-etp-standard-tcp-rollout-learn-more = เรียนรู้เพิ่มเติม
@@ -2751,6 +2731,3 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .description = การกำหนดค่าพร็อกซีอัตโนมัติอาจทำให้เครือข่ายที่ไม่เชื่อถือเฝ้าสังเกตกิจกรรมของคุณได้
     .label = การกำหนดค่าพร็อกซีอัตโนมัติถูกเปิดใช้งาน
-
-## Referrals Section
-
