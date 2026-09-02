@@ -34,3 +34,5 @@ autocomplete-edit-address = Upravit tuto adresu
 autocomplete-delete-address = Smazat tuto adresu
 autocomplete-edit-payment-method = Upravit tuto platební metodu
 autocomplete-delete-payment-method = Smazat tuto platební metodu
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Smazat tento záznam z historie formulářů
