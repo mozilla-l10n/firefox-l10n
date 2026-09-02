@@ -907,6 +907,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Падрабязней
 browsing-group =
     .label = Агляданне
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Даступнасць
 preferences-default-zoom-select =
@@ -1025,6 +1028,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Пашырэнне ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Уласная хатняя старонка
 home-custom-homepage-subpage =
     .heading = Уласная хатняя старонка
@@ -1040,6 +1046,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Сайты, якія вы захоўваеце або наведваеце
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонсарскія цэтлікі
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Рэкамендавана { $provider }
 home-prefs-recommended-by-description-new = Выключнае змесціва, куратарам якога з'яўляецца { $provider }, частка сям'і { -brand-product-name }
@@ -1354,6 +1363,11 @@ sync-signedin-login-failure = Увайдіце, калі ласка, каб пе
 sync-signedin-login-failure2 =
     .description = Увайдзіце зноў, каб перападлучыцца і пачаць сінхранізаваць свае дадзеныя.
     .label = Вы выйшлі з { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1644,6 +1658,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Падрабязней
 forms-windows-sso-desc = Кіраванне ўліковымі запісамі ў наладах прылады
 windows-passkey-settings-label = Кіраваць ключамі доступу ў наладах сістэмы
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Атрымайце дапамогу ў ахове сваёй сеціўнай інфармацыі ў { -brand-short-name }.
     .label = Налады панэлі прыватнасці
@@ -2075,6 +2092,9 @@ content-blocking-fingerprinters = Збіральнікі лічбавых адб
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Вядомыя і падазраваныя збіральнікі лічбавых адбіткаў
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Поўная ахова кукаў абмяжоўвае кукі сайтам, на якім вы знаходзіцеся, таму трэкеры не могуць скарыстаць іх для сачэння за вамі ад сайта к сайту.
 content-blocking-etp-standard-tcp-rollout-learn-more = Падрабязней
@@ -2449,6 +2469,8 @@ preferences-doh-status-disabled = Адключаны
 preferences-doh-status-not-active = Неактыўны ({ $reason })
 preferences-doh-group-message = Уключыць бяспечны DNS з дапамогай:
 preferences-doh-group-message2 = Уключыць DNS праз HTTPS, выкарыстоўваючы:
+preferences-doh-radio-group =
+    .aria-label = Уключыць DNS праз HTTPS, выкарыстоўваючы:
 preferences-doh-expand-section =
     .tooltiptext = Дадатковая інфармацыя
 preferences-doh-setting-default =
