@@ -893,6 +893,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saber más
 browsing-group =
     .label = Navegación
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Accesibilidad
 preferences-default-zoom-select =
@@ -1011,6 +1014,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Extensión ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Página de inicio personalizada
 home-custom-homepage-subpage =
     .heading = Página de inicio personalizada
@@ -1026,6 +1032,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitios que guarda o visita
 home-prefs-shortcuts-by-option-sponsored =
     .label = Accesos directos patrocinados
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description-new = Contenido excepcional seleccionado por { $provider }, parte de la familia { -brand-product-name }
@@ -1312,6 +1321,11 @@ sync-signedin-login-failure = Inicie sesión para reconectar { $email }
 sync-signedin-login-failure2 =
     .description = Vuelva a iniciar sesión para volver a conectarse y comenzar a sincronizar sus datos.
     .label = Ha cerrado sesión en { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1601,6 +1615,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saber más
 forms-windows-sso-desc = Administrar cuentas en la configuración de su dispositivo
 windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Reciba ayuda para proteger su información en línea con { -brand-short-name }
     .label = Ajustes del panel de privacidad
@@ -2008,6 +2025,9 @@ content-blocking-fingerprinters = Fingerprinters
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Detectores de huellas digitales, conocidos y sospechosos
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protección total contra las cookies contiene cookies para el sitio en el que está, así que los rastreadores no pueden usarlas para seguirle entre sitios.
 content-blocking-etp-standard-tcp-rollout-learn-more = Saber más
@@ -2384,6 +2404,8 @@ preferences-doh-status-disabled = Desactivado
 preferences-doh-status-not-active = Inactivo ({ $reason })
 preferences-doh-group-message = Activar DNS seguro usando:
 preferences-doh-group-message2 = Activar DNS sobre HTTPS usando:
+preferences-doh-radio-group =
+    .aria-label = Activar DNS sobre HTTPS usando:
 preferences-doh-expand-section =
     .tooltiptext = Más información
 preferences-doh-setting-default =
@@ -2725,3 +2747,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .description = La configuración automática del proxy puede permitir que redes no fiables vigilen su actividad.
     .label = La configuración automática de proxy está activada
+
+## Referrals Section
+
