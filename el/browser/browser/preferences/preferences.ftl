@@ -1857,6 +1857,8 @@ history-custom-button =
     .label = Επιλέξτε τι θέλετε να απομνημονεύει το { -brand-short-name }
 history-group =
     .label = Ιστορικό
+history-mode-radio-group =
+    .aria-label = Ιστορικό
 history-remember-option-all2 =
     .label = Διατήρηση ιστορικού
 
@@ -2735,6 +2737,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Οι ιστότοποι χρησιμοποιούν ιχνηλάτες για να σας ακολουθούν στο διαδίκτυο και να εμφανίζουν διαφημίσεις. Το { -brand-short-name } σάς προστατεύει κατά την περιήγησή σας, αποκλείοντας τους περισσότερους ιχνηλάτες αυτόματα, ώστε να έχετε τον έλεγχο των ψηφιακών σας ιχνών.
     .label = Ενισχυμένη προστασία από καταγραφή
+preferences-etp-level-radio-group =
+    .aria-label = Ενισχυμένη προστασία από καταγραφή
 preferences-etp-level-standard =
     .description = Ισχυρή, αξιόπιστη προστασία που λειτουργεί ομαλά με τους περισσότερους ιστοτόπους.
     .label = Τυπική (προεπιλογή)
