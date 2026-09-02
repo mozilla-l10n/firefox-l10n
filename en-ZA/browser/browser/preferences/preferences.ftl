@@ -239,9 +239,6 @@ choose-bookmark =
     .label = Use Bookmark…
     .accesskey = B
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 
@@ -415,6 +412,8 @@ history-clear-on-close-settings =
     .accesskey = t
 history-group =
     .label = History
+history-mode-radio-group =
+    .aria-label = History
 
 ## Privacy Section - Site Data
 
@@ -516,4 +515,7 @@ choose-download-folder-title = Choose Download Folder:
 
 
 ## Warnings section
+
+
+## Referrals Section
 
