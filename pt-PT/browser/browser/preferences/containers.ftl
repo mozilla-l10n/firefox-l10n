@@ -3,15 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Adicionar novo contentor
     .style = min-width: 45em
+    .title = Adicionar novo contentor
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Definições do contentor { $name }
     .style = min-width: 45em
+    .title = Definições do contentor { $name }
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Nome
+    .placeholder = Adicionar um nome
+containers-icon-label2 =
+    .label = Ícone
+containers-color-label2 =
+    .label = Cor
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -23,16 +30,16 @@ containers-window-close =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Nome
-    .accesskey = N
     .style = { -containers-labels-style }
+    .accesskey = N
 containers-name-text =
     .placeholder = Introduza um nome de contentor
 containers-icon-label = Ícone
+    .style = { -containers-labels-style }
     .accesskey = I
-    .style = { -containers-labels-style }
 containers-color-label = Cor
-    .accesskey = o
     .style = { -containers-labels-style }
+    .accesskey = o
 containers-dialog =
     .buttonlabelaccept = Feito
     .buttonaccesskeyaccept = F
@@ -82,3 +89,19 @@ containers-icon-tree =
     .label = Árvore
 containers-icon-chill =
     .label = Descanço
+containers-window-new3 =
+    .style = min-width: 32em
+    .title = Adicionar Novo Contentor
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings3 =
+    .style = min-width: 32em
+    .title = Definições do Contentor { $name }
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-title = Adicionar Novo Contentor
+containers-panel-create-button =
+    .label = Concluído
+containers-panel-cancel-button =
+    .label = Cancelar

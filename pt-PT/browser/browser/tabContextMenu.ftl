@@ -163,6 +163,19 @@ tab-context-move-tabs =
            *[other] Mover separadores
         }
     .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Mover Separador para
+            [one] Mover { $tabCount } Separador para
+           *[other] Mover { $tabCount } Separadores para
+        }
+    .accesskey = v
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Mover Vista Dividida para
+    .accesskey = v
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
     .label =
@@ -170,6 +183,9 @@ tab-context-send-to-device =
             [1] Enviar para dispositivo
            *[other] Send { $tabCount } Tabs to Device
         }
+    .accesskey = n
+tab-context-send-to-device2 =
+    .label = Envie para os Seus Dispositivos
     .accesskey = n
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-mobile =
@@ -198,3 +214,7 @@ tab-context-unload-n-tabs =
            *[other] Descarregar { $tabCount } separadores
         }
     .accesskey = D
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Esvaziar
+    .accesskey = U

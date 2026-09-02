@@ -31,6 +31,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Agora não
     .accessKey = N
+address-capture-never-save-button =
+    .label = Nunca guardar
+    .accessKey = v
 address-capture-cancel-button =
     .label = Cancelar
     .accessKey = C
@@ -109,6 +112,7 @@ autofill-address-tel = Telefone
 autofill-address-email = Email
 autofill-cancel-button = Cancelar
 autofill-save-button = Guardar
+autofill-country-warning-message-2 = O auto-preenchimento de formulários está disponível apenas para alguns países
 autofill-country-warning-message = O autopreenchimento de formulários está disponível apenas para alguns países.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Adicionar novo cartão de crédito
@@ -133,6 +137,10 @@ autofill-card-number = Número do cartão
 autofill-card-invalid-number = Por favor introduza um número de cartão válido
 autofill-card-name-on-card-2 =
     .label = Nome no cartão
+autofill-card-expires-month-2 =
+    .label = Expira no mês
+autofill-card-expires-year-2 =
+    .label = Expira no ano
 autofill-card-billing-address-2 =
     .label = Endereço de cobrança
 # "CVV" is a common abbreviation for the security code printed on a payment
@@ -151,10 +159,30 @@ autofill-card-network = Tipo de cartão
 # methods in their region.
 autofill-card-search-term-credit-cards = cartões de crédito, crédito, cartões, cartões de débito, débito, carteira, finalizar compra, pagamento
 
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Adicionar passaporte
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Editar passaporte
+
 ## Passport field labels shared by the passport capture doorhanger and the
 ## passport management dialog. The labels are exposed as a .label attribute so
 ## they can be assigned directly to moz-input-text and moz-select fields.
 
+autofill-passport-name =
+    .label = Nome
+autofill-passport-country =
+    .label = País
+autofill-passport-number =
+    .label = Número
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Data de emissão
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Data de expiração
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
 # Day dropdown label for passport dates.
 autofill-passport-date-day =
     .label = DD

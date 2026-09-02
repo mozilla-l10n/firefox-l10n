@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Procurar atualizações
-    .accesskey = c
     .tooltiptext = Procurar atualizações para este complemento
+    .accesskey = c
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Opções
            *[other] Preferências
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Alterar opções deste complemento
            *[other] Mudar as preferências deste complemento
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Avaliação
@@ -122,6 +122,8 @@ private-browsing-description2 =
     extensão não irá funcionar durante a navegação privada e não irá ter acesso às suas atividades online
     lá. Fizemos esta alteração para manter a sua navegação privada, privada.
     <label data-l10n-name="private-browsing-learn-more">Saber como gerir definições de extensões.</label>
+aboutaddons-sidebar =
+    .heading = Complementos
 addon-category-discover = Recomendações
 addon-category-discover-title =
     .title = Recomendações
@@ -181,10 +183,6 @@ addon-updates-check-for-updates = Procurar atualizações
     .accesskey = c
 addon-updates-view-updates = Ver atualizações recentes
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Atualizar complementos automaticamente
     .accesskey = A
 
@@ -418,8 +416,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Permitido nas janelas privadas
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Permitido nas janelas privadas
 addon-detail-private-browsing-help = Quando permitido, a extensão irá ter acesso às suas atividades online durante a navegação privada. <a data-l10n-name="learn-more">Saber mais</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = Não permitir
@@ -446,16 +444,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = O { -brand-product-name } recomenda apenas as extensões que cumpram aos nossos padrões para segurança e desempenho.
     .aria-label = { addon-badge-recommended2.title }
+    .title = O { -brand-product-name } recomenda apenas as extensões que cumpram aos nossos padrões para segurança e desempenho.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Extensão oficial desenvolvida pela Mozilla. Cumpre as recomendações de segurança e de desempenho.
     .aria-label = { addon-badge-line3.title }
+    .title = Extensão oficial desenvolvida pela Mozilla. Cumpre as recomendações de segurança e de desempenho.
 addon-badge-verified2 =
-    .title = Esta extensão foi revista para cumprir com os nossos padrões de segurança e desempenho
     .aria-label = { addon-badge-verified2.title }
+    .title = Esta extensão foi revista para cumprir com os nossos padrões de segurança e desempenho
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -489,6 +487,10 @@ addon-permissions-empty = Esta extensão não requer quaisquer permissões
 addon-permissions-required = Permissões necessárias para a funcionalidade principal:
 addon-permissions-optional = Permissões opcionais para a funcionalidade adicionada:
 addon-permissions-learnmore = Saber mais sobre permissões
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Algumas permissões são geridas pela sua organização.
 recommended-extensions-heading = Extensões recomendadas
 recommended-themes-heading = Temas recomendados
 # Variables:
@@ -513,8 +515,8 @@ default-heading-search-label = Encontrar mais complementos
 addons-heading-search-input =
     .placeholder = Pesquisar addons.mozilla.org
 addons-heading-search-button =
-    .title = Pesquisar addons.mozilla.org
     .aria-label = Pesquisar addons.mozilla.org
+    .title = Pesquisar addons.mozilla.org
 addon-page-options-button =
     .title = Ferramentas para todos os complementos
 
@@ -600,6 +602,7 @@ mlmodel-link-preview = O { -brand-short-name } utiliza isto para gerar pontos-ch
 mlmodel-pdfjs = O { -brand-short-name } utiliza isto para criar texto alternativo para as imagens que adiciona aos PDF
 mlmodel-smart-tab-topic-engine = O { -brand-short-name } utiliza esta informação para sugerir nomes para os seus grupos de separadores
 mlmodel-smart-tab-embedding-engine = O { -brand-short-name } utiliza esta informação para sugerir separadores para os seus grupos de separadores
+mlmodel-formfill-engine = O { -brand-short-name } usa esta informação para ajudar a preencher formulários de endereço
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA no dispositivo
 addon-category-mlmodel-title =
@@ -618,3 +621,23 @@ mlmodel-addon-detail-used-by-label = Utilizado por
 mlmodel-addon-detail-model-card = Cartão do modelo
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Ver no Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Molde o { -brand-product-name } à sua maneira
+    .message = Adicione ferramentas e estilos para atender às suas necessidades e gosto.
+find-more-addons-promo-open-amo-button = Explorar extensões e temas
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Encontre a sua próxima extensão favorita
+    .message = Personalize o { -brand-product-name } com ferramentas para foco, privacidade, compras e mais.
+find-more-extensions-promo-open-amo-button = Explorar extensões
