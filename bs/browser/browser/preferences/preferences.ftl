@@ -559,6 +559,15 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanse
@@ -628,6 +637,9 @@ browsing-cfr-recommendations-learn-more = Saznajte više
 browsing-group =
     .label = Surfanje
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Mrežne postavke
@@ -685,6 +697,9 @@ home-homepage-new-tabs =
 home-prefs-homepage-extension-option =
     .label = Ekstenzija ({ $extension })
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } sadržaj
@@ -696,6 +711,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Web stranice koje sačuvate ili posjetite
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorisane prečice
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
 home-prefs-recommended-by-description-new = Izuzetan sadržaj koji je kurirao { $provider }, dio { -brand-product-name } porodice
@@ -899,6 +917,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1139,6 +1162,9 @@ forms-windows-sso-learn-more-link = Saznajte više
 forms-windows-sso-desc = Upravljajte računima u postavkama uređaja
 windows-passkey-settings-label = Upravljajte pristupnim ključevima u sistemskim postavkama
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -1222,6 +1248,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = Historija
+history-mode-radio-group =
+    .aria-label = Historija
 
 ## Privacy Section - Site Data
 
@@ -1401,6 +1429,9 @@ content-blocking-fingerprinters = Sakupljači digitalnih otisaka
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Poznati i sumnjivi sakupljači digitalnih otisaka
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totalna zaštita kolačića sadrži kolačiće za web stranicu na kojoj se nalazite, tako da ih programi za praćenje ne mogu koristiti da vas prate između web stranica.
 content-blocking-etp-standard-tcp-rollout-learn-more = Saznajte više
@@ -1726,8 +1757,29 @@ preferences-doh-manage-exceptions =
     .label = Upravljaj izuzecima…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite direktorij za preuzimanja:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+
