@@ -280,6 +280,15 @@ update-application-use-service =
     .label = နောက်ဆုံးပေါ် ပြုပြင်မှုများကို တပ်ဆင်ပါက နောက်ကွယ်လုပ်ငန်းစဉ်ကို အသုံးပြုပါ
     .accesskey = b
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = စွမ်းဆောင်ရည်
@@ -325,6 +334,9 @@ browsing-cfr-recommendations =
 browsing-cfr-recommendations-learn-more = ပိုမိုလေ့လာရန်
 browsing-group =
     .label = ကြည့်ရှုခြင်း
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -375,10 +387,16 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = တပ်ဗ်အသစ်များ
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = ဝက်ဘ် ရှာ‌ရန်
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = { $provider } က အကြံပြုထားသည်
 
@@ -466,6 +484,9 @@ containers-add-button =
 containers-remove-button =
     .label = ဖယ်ရှားပါ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -500,6 +521,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } ​ကို အတည်မပြုရသေးပါ။
 sync-signedin-login-failure = ပြန်လည်ချိတ်ဆက်ရန် အကောင့်ဖြင့် ဝင်ရောက်ပါ { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -511,6 +537,9 @@ sync-remove-account =
 sync-sign-in =
     .label = ဝင်ပါ
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
 
 ## The list of things currently syncing.
 
@@ -610,6 +639,15 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = စကားဝှက်ပြောင်းလဲမှု မအောင်မြင်ပါ
 
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = မှတ်တမ်း
@@ -658,6 +696,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = မှတ်တမ်း
+history-mode-radio-group =
+    .aria-label = မှတ်တမ်း
 
 ## Privacy Section - Site Data
 
@@ -678,6 +718,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များ
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -714,6 +760,9 @@ content-blocking-all-cookies = ကွတ်ကီးအားလုံး
 content-blocking-unvisited-cookies = မလည်ပတ်သောဆိုက်များမှ ကွတ်ကီးများ
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = လက်ဗွေများ
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = ကြိုတင်အသိပေးသည်!
 content-blocking-reload-tabs-button =
     .label = တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်
@@ -803,6 +852,9 @@ collection-health-report-disabled = တည်ဆောက်မှုဆို�
 data-collection-studies-link =
     .label = { -brand-short-name }လေ့လာမှု ကြည့်ရန်
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -835,8 +887,35 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = FIPS ကို ဖွင့်ထားပါ
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ဒက်စ်တော့
 downloads-folder-name = ဆွဲယူထားသော ဖိုင်များ
 choose-download-folder-title = ဆွဲယူထားသည့် ဖိုင်များထားရာနေရာကို ရွေးပါ
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+
