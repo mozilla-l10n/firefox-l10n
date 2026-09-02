@@ -542,6 +542,9 @@ newtab-topsites-image-url-label = Irudi pertsonalizatuaren URLa
 newtab-topsites-use-custom-image-link = Erabili irudi pertsonalizatua
 newtab-topsites-use-image-link = Erabili irudi pertsonalizatua…
 newtab-topsites-image-validation = Ezin da irudia kargatu. Saiatu beste URL batekin.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Garbitu testua
 
@@ -899,6 +902,9 @@ newtab-custom-close-menu-button =
     .title = Itxi
 newtab-custom-close-button = Itxi
 newtab-custom-settings = Kudeatu ezarpen gehiago
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Itxura
 # Button that opens the full browser theme selection view.
@@ -1016,6 +1022,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1148,6 +1157,12 @@ newtab-section-unfollow-button-label =
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Doitu zure jarioa
 newtab-section-follow-highlight-subtitle = Jarraitu zure interesak gustatzen zaizunetik gehiago ikusteko.
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = Gaiak
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1411,6 +1426,9 @@ newtab-promo-card-cta = Argibide gehiago
 newtab-promo-card-dismiss-button =
     .aria-label = Baztertu
     .title = Baztertu
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
