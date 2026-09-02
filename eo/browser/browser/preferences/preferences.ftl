@@ -736,6 +736,8 @@ update-history-2 =
     .accesskey = M
 update-application-installation =
     .label = Instalo
+update-application-radio-group =
+    .aria-label = Instalo
 update-application-auto-2 =
     .label = Aŭtomate instali ĝisdatigojn (rekomendita)
     .accesskey = A
@@ -902,6 +904,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Pli da informo
 browsing-group =
     .label = Retumo
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Alirebleco
 preferences-default-zoom-select =
@@ -1020,6 +1025,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Etendaĵo ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Personecigita eka paĝo
 home-custom-homepage-subpage =
     .heading = Personecigita eka paĝo
@@ -1035,6 +1043,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Retejoj konservitaj aŭ vizititaj de vi
 home-prefs-shortcuts-by-option-sponsored =
     .label = Patronitaj ŝparvojoj
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Rekomendita de { $provider }
 home-prefs-recommended-by-description-new = Eksterordinara  enhavo reviziita de { $provider }, parto de la familio { -brand-product-name }
@@ -1330,6 +1341,11 @@ sync-signedin-login-failure = Bonvolu komenci seancon por rekonekti { $email }
 sync-signedin-login-failure2 =
     .description = Rekomencu vian seancon por rekonekti kaj komenci speguli viajn datumojn.
     .label = Vi finis la seancon de { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1620,6 +1636,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Pli da informo
 forms-windows-sso-desc = Administri kontojn en la agordoj de via aparato
 windows-passkey-settings-label = Administri alirŝlosiloj en la sistemaj agordoj
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Ricevu helpon de { -brand-short-name } por protekti viajn informojn en la reto.
     .label = Panelo de privatecaj agordoj
@@ -1818,6 +1837,8 @@ history-custom-button =
     .label = Elekti kion vi volas ke { -brand-short-name } memoru
 history-group =
     .label = Historio
+history-mode-radio-group =
+    .aria-label = Historio
 history-remember-option-all2 =
     .label = Memori historion
 
@@ -2051,6 +2072,9 @@ content-blocking-fingerprinters = Identigiloj de ciferecaj spuroj
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Konataj kaj suspektataj identigiloj de ciferecaj spuroj
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La totala protekto kontraŭ kuketoj limigas kuketojn al la retejo kie ili estas, tiel ke spuriloj ne povas uzi ilin por sekvi vin inter retejoj.
 content-blocking-etp-standard-tcp-rollout-learn-more = Pli da informo
