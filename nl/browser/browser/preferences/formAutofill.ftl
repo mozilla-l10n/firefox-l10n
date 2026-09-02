@@ -146,6 +146,10 @@ autofill-card-expires-year-2 =
     .label = Vervalt in jaar
 autofill-card-billing-address-2 =
     .label = Factuuradres
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Naam op kaart
 autofill-card-expires-month = Vervalmaand
 autofill-card-expires-year = Vervaljaar
