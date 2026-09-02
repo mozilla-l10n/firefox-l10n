@@ -17,8 +17,8 @@ firefoxview-page-heading =
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
-    .title = Kapat
     .aria-label = Kapat
+    .title = Kapat
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Az önce
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -34,6 +34,7 @@ firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } tüm cihazları
 firefoxview-syncedtabs-signin-description-2 = Telefonunuzdaki ve diğer cihazlardaki açık sekmeleri görmek için giriş yapın veya hesap açın. Hesap açarak parolalarınızı, geçmişinizi ve daha fazlasını eşitleyebilirsiniz.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Bilgisayardan telefona anında geçin
+firefoxview-syncedtabs-signin-description-3 = Sekmelerinizi, parolalarınızı ve gezinti geçmişinizi cihazlarınız arasında eşitleyin; kesintisiz gezinin.
 firefoxview-syncedtabs-signin-primarybutton-2 = Giriş yap
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } tarayıcınızı telefonunuz veya tabletinizle eşitleyin
 firefoxview-tabpickup-adddevice-description = Mobil cihazlar için { -brand-product-name }’u indirin ve hesabınıza giriş yapın.
@@ -83,6 +84,7 @@ firefoxview-tabpickup-password-locked-link = Daha fazla bilgi al
 firefoxview-tabpickup-password-locked-primarybutton = Ana parolayı girin
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Daha fazla bilgi alın</a>
 firefoxview-tabpickup-password-locked-header-2 = Sekmelerin kilidini ana parolanızla açın
+firefoxview-tabpickup-password-locked-description-2 = Eşitlenmiş sekmeler gizliliğiniz için korunur. Diğer cihazlarınızdaki sekmeleri görmek için { -brand-short-name } ana parolanızı girin.
 firefoxview-tabpickup-signed-out-header = Yeniden bağlanmak için giriş yapın
 firefoxview-tabpickup-signed-out-description = Yeniden bağlanıp sekmelerinize ulaşmak için { -fxaccount-brand-name }nıza giriş yapın.
 firefoxview-tabpickup-signed-out-description2 = Yeniden bağlanıp sekmelerinize ulaşmak için hesabınıza giriş yapın.
