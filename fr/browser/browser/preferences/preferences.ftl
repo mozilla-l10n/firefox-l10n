@@ -738,6 +738,8 @@ update-history-2 =
     .accesskey = h
 update-application-installation =
     .label = Installation
+update-application-radio-group =
+    .aria-label = Installation
 update-application-auto-2 =
     .label = Installer les mises à jour automatiquement (recommandé)
     .accesskey = I
@@ -904,6 +906,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = En savoir plus
 browsing-group =
     .label = Navigation
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Accessibilité
 preferences-default-zoom-select =
@@ -1022,6 +1027,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Extension ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Page d’accueil personnalisée
 home-custom-homepage-subpage =
     .heading = Page d’accueil personnalisée
@@ -1037,6 +1045,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sites que vous enregistrez ou visitez
 home-prefs-shortcuts-by-option-sponsored =
     .label = Raccourcis sponsorisés
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Recommandations par { $provider }
 home-prefs-recommended-by-description-new = Contenu exceptionnel sélectionné par { $provider }, membre de la famille { -brand-product-name }
@@ -1350,6 +1361,11 @@ sync-signedin-login-failure = Veuillez vous identifier pour vous reconnecter via
 sync-signedin-login-failure2 =
     .description = Reconnectez-vous pour synchroniser vos données.
     .label = Vous êtes déconnecté·e de { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1640,6 +1656,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = En savoir plus
 forms-windows-sso-desc = Gérez les comptes dans les paramètres de votre appareil
 windows-passkey-settings-label = Gérer les clés d’accès dans les paramètres système
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Obtenez de l’aide pour protéger vos informations en ligne avec { -brand-short-name }.
     .label = Paramètres du panneau Vie privée
@@ -2071,6 +2090,9 @@ content-blocking-fingerprinters = Détecteurs d’empreinte numérique
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Détecteurs d’empreinte numérique connus et suspectés
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protection totale contre les cookies restreint les cookies au site sur lequel vous vous trouvez et les traqueurs ne peuvent donc pas s’en servir pour vous pister de site en site.
 content-blocking-etp-standard-tcp-rollout-learn-more = En savoir plus
