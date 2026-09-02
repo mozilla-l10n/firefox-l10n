@@ -707,6 +707,12 @@ update-in-progress-ok-button = &Hidhe Tej
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -788,6 +794,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Mësoni më tepër
 browsing-group =
     .label = Shfletim
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -893,6 +902,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Zgjerim ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Faqe Hyrëse e Përshtatur
 home-custom-homepage-subpage =
     .heading = Faqe Hyrëse e Përshtatur
@@ -908,6 +920,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sajte që ruani ose vizitoni
 home-prefs-shortcuts-by-option-sponsored =
     .label = Shkurtore të sponsorizuara
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Rekomanduar nga { $provider }
 home-prefs-recommended-by-description-new = Lëndë e jashtëzakonshme, në kujdesin e { $provider }, pjesë e familjes { -brand-product-name }
@@ -1166,6 +1181,11 @@ sync-signedin-login-failure = Ju lutemi, bëni hyrjen që të rilidheni { $email
 sync-signedin-login-failure2 =
     .description = Rihyni, që të rilidheni dhe të filloni të njëkohësoni të dhënat tuaja.
     .label = Keni bërë daljen nga llogaria { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1451,6 +1471,9 @@ forms-windows-sso-learn-more-link = Mësoni më tepër
 forms-windows-sso-desc = Administroni llogari që nga rregullimet e pajisjes tuaj
 windows-passkey-settings-label = Administroni kyçkalime te rregullime sistemi
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -1612,6 +1635,8 @@ history-custom-button =
     .label = Zgjidhni çfarë doni të mbajë mend { -brand-short-name }-i
 history-group =
     .label = Historik
+history-mode-radio-group =
+    .aria-label = Historik
 history-remember-option-all2 =
     .label = Mbaje mend historikun
 
@@ -1845,6 +1870,9 @@ content-blocking-fingerprinters = Krijues shenjash gishtash
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Krijues shenjash gishtash të dyshuar dhe të ditur
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Mbrojtja Tërësore Nga Cookie-t i mban “cookies” te sajti ku gjendeni, që gjurmuesit të mos i përdorin dot për t’ju ndjekur nga një saj te tjetri.
 content-blocking-etp-standard-tcp-rollout-learn-more = Mësoni më tepër
@@ -2195,6 +2223,8 @@ preferences-doh-status-disabled = Off
 preferences-doh-status-not-active = Jo aktive ({ $reason })
 preferences-doh-group-message = Aktivizoni DNS të siguruar, duke përdorur:
 preferences-doh-group-message2 = Aktivizoni DNS përmes HTTPS-je duke përdorur:
+preferences-doh-radio-group =
+    .aria-label = Aktivizoni DNS përmes HTTPS-je duke përdorur:
 preferences-doh-expand-section =
     .tooltiptext = Më tepër hollësi
 preferences-doh-setting-default =
@@ -2295,11 +2325,17 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
 choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2500,3 +2536,6 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .description = Vetëformësimi i ndërmjetësit mund të lejonte rrjete jo të besueshëm të mbikëqyrin veprimtarinë tuaj.
     .label = Vetëformësimi i ndërmjetësit është i aktivizuar
+
+## Referrals Section
+
