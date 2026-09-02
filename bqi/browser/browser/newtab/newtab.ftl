@@ -187,6 +187,12 @@ newtab-privacy-across-sites =
        *[other] من پوی { $count } وبگه
     }
 
+## Privacy widget — empty state
+
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -265,6 +271,9 @@ newtab-stocks-ticker-status-down = { $name }، لم { $change }، { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }، بؽ آلشتکاری { $change }، { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
 ## Stocks widget ticker search
 
 # "Back" is an icon-only button in the search panel header that returns to the
@@ -317,6 +326,10 @@ newtab-recent-searches-widget-title = پیتینیڌنا دیندایی
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -364,6 +377,9 @@ newtab-topsites-use-image-link = و کار گرؽڌن ی شؽوات سفارشی
 newtab-topsites-image-validation =
     بار ونی شؽوات شکست خرد.
     نشۊوی دیری ن امتهووݩ کۊنین.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = روفتن هؽل
 
@@ -544,6 +560,9 @@ newtab-section-header-recent-activity = فعالیتا دیندایی
 newtab-section-header-pocket = پؽشنهاڌ وابیڌه و دست { $provider }
 newtab-section-header-stories = داستانا فرگ کردنی
 
+## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
+
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = تموم وابی!
@@ -663,6 +682,9 @@ newtab-custom-close-menu-button =
     .title = بستن
 newtab-custom-close-button = بستن
 newtab-custom-settings = دؽوۉداری سامووا قلوه
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = شؽوات
 # Button that enables an already-installed theme.
@@ -756,6 +778,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -875,6 +900,12 @@ newtab-section-unfollow-button-label =
     .aria-label = و دین کردن: لقو و دین کردن { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = فید خوتووݩ ن دییق سامووݩ کۊنین
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = سرتالا
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1068,6 +1099,9 @@ newtab-promo-card-cta = قلوه دووسته بۊین
 newtab-promo-card-dismiss-button =
     .aria-label = رڌ کردن
     .title = رڌ کردن
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -1193,6 +1227,9 @@ newtab-sports-widget-team-name-label-sco =
 
 newtab-sports-widget-message-add-widgets-cta =
     .label = ٱووردن ویجتا
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
