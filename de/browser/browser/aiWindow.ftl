@@ -364,3 +364,13 @@ aiwindow-starter-planning-plan = Helfen Sie, einen Plan zu erstellen
 aiwindow-starter-browsing-history = Tabs in der Chronik suchen
 aiwindow-starter-browsing-summarize = Tabs zusammenfassen
 aiwindow-starter-browsing-compare = Tabs vergleichen
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Zurück scrollen
+    .tooltiptext = Zurück scrollen
+aiwindow-starter-scroll-end =
+    .aria-label = Nach vorn scrollen
+    .tooltiptext = Nach vorn scrollen
