@@ -22,3 +22,15 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Zjistit více
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = Více akcí
+autocomplete-edit-password = Upravit toto heslo
+autocomplete-delete-password = Smazat toto heslo
+autocomplete-edit-address = Upravit tuto adresu
+autocomplete-delete-address = Smazat tuto adresu
+autocomplete-edit-payment-method = Upravit tuto platební metodu
+autocomplete-delete-payment-method = Smazat tuto platební metodu
