@@ -207,6 +207,12 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokkeert trackers terwijl u surft. U ziet ze hier.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Sneller surfen. Minder trackers.
+newtab-privacy-etp-off-turn-on-tracking = Schakel bescherming tegen volgen in in uw instellingen om met blokkeren te beginnen.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -482,6 +488,13 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Meer info
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Verhalen
+newtab-spaces-tab-widgets = Widgets
+newtab-spaces-tab-activity = Activiteit
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -747,12 +760,24 @@ newtab-discovery-empty-section-topstories-timed-out = Oeps! We hadden deze secti
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } van { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Vorige
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Volgende
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Automatisch afspelen pauzeren
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Automatisch afspelen hervatten
 
 ## Pocket Content Section.
 
