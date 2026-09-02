@@ -738,6 +738,8 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = ਇੰਸਟਾਲੇਸ਼ਨ
+update-application-radio-group =
+    .aria-label = ਇੰਸਟਾਲੇਸ਼ਨ
 update-application-auto-2 =
     .label = ਅੱਪਡੇਟ ਆਪਣੇ-ਆਪ ਇੰਸਟਾਲ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ)
     .accesskey = A
@@ -904,6 +906,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-group =
     .label = ਬਰਾਊਜ਼ਿੰਗ
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = ਅਸੈੱਸਬਿਲਟੀ
 preferences-default-zoom-select =
@@ -1022,6 +1027,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = ਇਕਸਟੈਨਸ਼ਨ ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = ਪਸੰਦੀਦਾ ਮੁੱਖ-ਸਫ਼ਾ
 home-custom-homepage-subpage =
     .heading = ਪਸੰਦੀਦਾ ਮੁੱਖ-ਸਫ਼ਾ
@@ -1037,6 +1045,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = ਸਾਈਟਾਂ, ਜੋ ਤੁਸੀਂ ਸੰਭਾਲੀਆਂ ਜਾਂ ਖੋਲ੍ਹੀਆਂ
 home-prefs-shortcuts-by-option-sponsored =
     .label = ਸਪਾਂਸਰ ਕੀਤੇ ਸ਼ਾਰਟਕੱਟ
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ
 home-prefs-recommended-by-description-new = { -brand-product-name } ਦੇ ਹਿੱਸੇ ਵਜੋਂ { $provider } ਵਲੋਂ ਖਾਸ ਇਕੱਤਰ ਕੀਤੀ ਸਮੱਗਰੀ
@@ -1347,6 +1358,11 @@ sync-signedin-login-failure = { $email } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕ
 sync-signedin-login-failure2 =
     .description = ਮੁੜ ਕਨੈਕਟ ਕਰਨ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।
     .label = ਤੁਸੀਂ { $email } ਤੋਂ ਸਾਈਨ ਆਉਟ ਕੀਤਾ ਹੈ
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1637,6 +1653,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = ਹੋਰ ਸਿੱਖੋ
 forms-windows-sso-desc = ਆਪਣੀਆਂ ਡਿਵਾਈਸ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਖਾਤਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 windows-passkey-settings-label = ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਪਾਸ-ਕੀ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = { -brand-short-name } ਵਿੱਚ ਆਪਣੀ ਆਨਲਾਈਨ ਜਾਣਕਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਮਦਦ ਲਵੋ।
     .label = ਪਰਦੇਦਾਰੀ ਪੈਨਲ ਸੈਟਿੰਗਾਂ
@@ -2070,6 +2089,9 @@ content-blocking-fingerprinters = ਫਿੰਗਰਪਰਿੰਟਰ
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = ਜਾਣੇ-ਪਛਾਣੇ ਅਤੇ ਸ਼ੱਕੀ ਫਿੰਗਰ-ਪਰਿੰਟਰ
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ਪੂਰੀ ਕੂਕੀ ਸੁਰੱਖਿਆ ਵਿੱਚ ਜਿਸ ਸਾਈਟ ਉੱਤੇ ਤੁਸੀਂ ਹੋ, ਉਸ ਲਈ ਕੂਕੀਜ਼ ਹੁੰਦੇ ਹਨ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਹੋਰ ਸਾਈਟਾਂ ਵਰਤੇ ਜਾਣ ਦੌਰਾਨ ਟਰੈਕਰ ਉਹਨਾਂ ਦੀ ਵਰਤੋਂ ਨਾ ਕਰ ਸਕਣ।
 content-blocking-etp-standard-tcp-rollout-learn-more = ਹੋਰ ਜਾਣੋ
