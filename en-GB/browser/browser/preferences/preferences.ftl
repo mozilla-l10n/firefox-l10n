@@ -904,6 +904,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Learn more
 browsing-group =
     .label = Browsing
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Accessibility
 preferences-default-zoom-select =
@@ -1022,6 +1025,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Extension ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Custom Homepage
 home-custom-homepage-subpage =
     .heading = Custom Homepage
@@ -1037,6 +1043,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sites you save or visit
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsored shortcuts
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Recommended by { $provider }
 home-prefs-recommended-by-description-new = Exceptional content curated by { $provider }, part of the { -brand-product-name } family
@@ -1350,6 +1359,11 @@ sync-signedin-login-failure = Please sign in to reconnect { $email }
 sync-signedin-login-failure2 =
     .description = Sign back in to reconnect and start synchronising your data.
     .label = You’re signed out of { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1640,6 +1654,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Learn more
 forms-windows-sso-desc = Manage accounts in your device settings
 windows-passkey-settings-label = Manage passkeys in system settings
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Get help protecting your info online in { -brand-short-name }.
     .label = Privacy panel settings
@@ -1838,6 +1855,8 @@ history-custom-button =
     .label = Choose what you want { -brand-short-name } to remember
 history-group =
     .label = History
+history-mode-radio-group =
+    .aria-label = History
 history-remember-option-all2 =
     .label = Remember history
 
@@ -2071,6 +2090,9 @@ content-blocking-fingerprinters = Fingerprinters
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Known and suspected fingerprinters
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Total Cookie Protection contains cookies to the site you’re on, so trackers can’t use them to follow you between sites.
 content-blocking-etp-standard-tcp-rollout-learn-more = Learn more
@@ -2445,6 +2467,8 @@ preferences-doh-status-disabled = Off
 preferences-doh-status-not-active = Not active ({ $reason })
 preferences-doh-group-message = Enable secure DNS using:
 preferences-doh-group-message2 = Enable DNS over HTTPS using:
+preferences-doh-radio-group =
+    .aria-label = Enable DNS over HTTPS using:
 preferences-doh-expand-section =
     .tooltiptext = More information
 preferences-doh-setting-default =
