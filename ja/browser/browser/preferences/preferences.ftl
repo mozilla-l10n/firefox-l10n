@@ -724,6 +724,8 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = インストール
+update-application-radio-group =
+    .aria-label = インストール
 update-application-auto-2 =
     .label = 更新を自動的にインストールする (推奨)
     .accesskey = A
@@ -1840,6 +1842,8 @@ history-custom-button =
     .label = { -brand-short-name } に記憶させるアイテムを選んでください
 history-group =
     .label = 履歴
+history-mode-radio-group =
+    .aria-label = 履歴
 history-remember-option-all2 =
     .label = 履歴を記憶する
 
