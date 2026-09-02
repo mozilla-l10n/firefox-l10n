@@ -1857,6 +1857,8 @@ history-custom-button =
     .label = Velg hva du vil at { -brand-short-name } skal huske
 history-group =
     .label = Historikk
+history-mode-radio-group =
+    .aria-label = Historikk
 history-remember-option-all2 =
     .label = Huske historikk
 
@@ -2735,6 +2737,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Nettsteder bruker sporere for å følge deg på nettet og vise påtrengende annonser. { -brand-short-name } beskytter deg mens du surfer ved å blokkere sporere automatisk, slik at du har kontroll over de digitale sporene dine.
     .label = Utvidet sporingsbeskyttelse
+preferences-etp-level-radio-group =
+    .aria-label = Utvidet sporingsbeskyttelse
 preferences-etp-level-standard =
     .description = Sterk og pålitelig beskyttelse som fungerer problemfritt med de fleste nettsteder.
     .label = Standard (standard)
