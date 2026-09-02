@@ -1857,6 +1857,8 @@ history-custom-button =
     .label = Choisir ce dont { -brand-short-name } doit se souvenir
 history-group =
     .label = Historique
+history-mode-radio-group =
+    .aria-label = Historique
 history-remember-option-all2 =
     .label = Conserver l’historique
 
@@ -2735,6 +2737,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Les sites utilisent des traqueurs pour vous pister en ligne et pour afficher des publicités intrusives. { -brand-short-name } vous protège lorsque vous naviguez en bloquant automatiquement les traqueurs afin que vous gardiez le contrôle de votre vie numérique.
     .label = Protection renforcée contre le pistage
+preferences-etp-level-radio-group =
+    .aria-label = Protection renforcée contre le pistage
 preferences-etp-level-standard =
     .description = Des protections robustes et fiables qui fonctionnent parfaitement avec la plupart des sites web.
     .label = Standard (par défaut)
