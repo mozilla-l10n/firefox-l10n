@@ -1758,6 +1758,8 @@ history-header2 =
     .heading = Historik
 history-group =
     .label = Historik
+history-mode-radio-group =
+    .aria-label = Historik
 history-remember-option-all2 =
     .label = Gemme historik
 
