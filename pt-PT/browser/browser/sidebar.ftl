@@ -8,8 +8,16 @@ menu-view-contextual-password-manager =
     .label = Palavras-passe
 menu-view-resource-monitor =
     .label = Monitor de Recursos
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Separadores Abertos
 sidebar-options-menu-button =
     .title = Abrir menu
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Redimensionar barra lateral
 
 ## Labels for sidebar history panel
 
@@ -66,6 +74,8 @@ sidebar-settings =
     .label = Definições da barra lateral
 sidebar-hide-tabs-and-sidebar =
     .label = Ocultar separadores e barra lateral
+sidebar-open-tools-from-sidebar =
+    .label = Abrir ferramentas a partir da barra lateral
 sidebar-show-on-the-right =
     .label = Mover barra lateral para a direita
 sidebar-show-on-the-left =
@@ -74,6 +84,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandir barra lateral ao pairar
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Mostrar pré-visualização ao pairar
 sidebar-manage-extensions2 = Gerir todas as extensões
 sidebar-customize-extensions-header2 = Extensões
 sidebar-customize-firefox-tools-header2 =
@@ -134,6 +148,44 @@ sidebar-bookmarks-context-menu-delete-bookmark =
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Eliminar
 
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Fechar Separador
+
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Ordenar por
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Ordem dos separadores
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Recentemente ativos
+
+## Labels for the open tabs hover preview
+
+# Heading at the top of the preview shown when hovering the Open Tabs button
+# in the sidebar. "Recent tabs" refers to the tabs that were active most
+# recently, not to tabs that were recently opened.
+sidebar-opentabs-preview-heading = Separadores recentes
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = Fechar { $tabTitle }
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = Silenciar separador
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = Repor som do separador
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -142,6 +194,11 @@ sidebar-menu-history-label =
     .label = Histórico
 sidebar-menu-synced-tabs-label =
     .label = Separadores de outros dispositivos
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Separadores abertos
 sidebar-menu-bookmarks-label =
     .label = Marcadores
 sidebar-menu-customize-label =
@@ -190,6 +247,10 @@ sidebar-menu-history-header =
     .heading = Histórico
 sidebar-menu-syncedtabs-header =
     .heading = Separadores de outros dispositivos
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Separadores abertos
 sidebar-menu-cpm-header =
     .heading = Palavras-passe
 sidebar-menu-bookmarks-header =
@@ -209,6 +270,26 @@ sidebar-bookmarks-folder-mobile = Marcadores de dispositivo móvel
 sidebar-customize-title = Personalizar barra lateral
 sidebar-history-title = Histórico
 sidebar-syncedtabs-title = Separadores de outros dispositivos
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Separadores abertos
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Separadores fixos
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Janela { $winID } (atual)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Janela { $winID }
+sidebar-bookmarks-title = Marcadores
 
 ## Context for closing synced tabs when hovering over the items
 

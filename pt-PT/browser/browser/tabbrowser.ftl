@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Ajustar o tamanho dos separadores da vista dividida
+tab-devtools-splitter =
+    .aria-label = Redimensionar painel de Ferramentas de Programador
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -183,8 +185,14 @@ tabbrowser-customizemode-tab-title = Personalizar o { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Silenciar som do separador
     .accesskey = m
+tabbrowser-context-mute-tab2 =
+    .label = Silenciar
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = Repor som do separador
+    .accesskey = m
+tabbrowser-context-unmute-tab2 =
+    .label = Repor som
     .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
@@ -334,6 +342,9 @@ tab-group-editor-done =
     .label = Concluído
     .accessKey = d
 # Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = Partilhar grupo
+# Share is a verb here. Meaning to "Share" the "tab group"
 tab-group-editor-action-share-tab-group =
     .label = Partilhar grupo de separadores
 tab-context-reopen-tab-group =
@@ -357,6 +368,12 @@ tab-group-overflow-count-tooltip =
         [one] mais { $tabCount } separador
        *[other] mais { $tabCount } separadores
     }
+
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = Organize os seus separadores
 
 ## Open/saved tab group context menu
 
@@ -405,8 +422,8 @@ tab-note-editor-button-save =
     .label = Guardar
     .accesskey = G
 tab-note-editor-button-delete =
-    .title = Eliminar nota
     .aria-label = Eliminar nota
+    .title = Eliminar nota
     .accesskey = E
 tab-note-preview-edit-icon =
     .alt = Editar nota

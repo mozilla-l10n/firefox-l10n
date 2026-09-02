@@ -1117,6 +1117,8 @@ newtab-section-follow-highlight-subtitle = 관심 분야를 팔로우하면 좋�
 
 newtab-topic-navigation-label =
     .aria-label = 주제
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = 더보기
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1315,6 +1317,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = 모든 위젯을 작은 크기로 접기
     .title = 위젯 최소화
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = 위젯 섹션 보기
+    .title = 위젯 보기
 newtab-widget-section-menu-button =
     .aria-label = 위젯 메뉴 열기
     .title = 위젯 메뉴

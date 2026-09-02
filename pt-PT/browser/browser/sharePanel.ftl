@@ -20,3 +20,13 @@ share-panel-qr-code-2 =
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device-2 =
     .label = Adicionar um Dispositivo
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device =
+    .label = Associar outro dispositivo.
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens a support article about devices missing from the list.
+share-panel-missing-device =
+    .label = Não Vê o Seu Dispositivo?
+share-panel-os-share-subview =
+    .title = Partilhar Com…

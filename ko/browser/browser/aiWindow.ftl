@@ -356,3 +356,13 @@ aiwindow-starter-planning-plan = 계획 세우는 것 좀 도와줘
 aiwindow-starter-browsing-history = 기록에서 탭 찾아줘
 aiwindow-starter-browsing-summarize = 탭 요약해 줘
 aiwindow-starter-browsing-compare = 탭 비교해 줘
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = 뒤로 스크롤
+    .tooltiptext = 뒤로 스크롤
+aiwindow-starter-scroll-end =
+    .aria-label = 앞으로 스크롤
+    .tooltiptext = 앞으로 스크롤
