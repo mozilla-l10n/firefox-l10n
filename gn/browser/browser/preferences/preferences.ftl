@@ -1849,6 +1849,8 @@ history-custom-button =
     .label = Eiporavo mba’etépa imandu’áta { -brand-short-name }
 history-group =
     .label = Tembiasakue
+history-mode-radio-group =
+    .aria-label = Tembiasakue
 history-remember-option-all2 =
     .label = Tembiasakuére ñemandu’a
 
@@ -2716,6 +2718,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Umi sitio oiporu umi tapykuehoha rosegui hag̃ua ñandutípe ha tohechauka marandu ndoikóiva. { -brand-short-name } nemo’ã eikundaha aja, ojokóvo ijeheguiete tapykuehohaita ereko hag̃ua nde pópe nde rapykuere.
     .label = Tapykueho mo’ãha tuichavéva
+preferences-etp-level-radio-group =
+    .aria-label = Tapykueho mo’ãha tuichavéva
 preferences-etp-level-standard =
     .description = Ñemo’ã mbarete ha jeroviaha omba’apóva hekopete ñanduti rogueita ndive.
     .label = Ypyguaite (ijypygua)
