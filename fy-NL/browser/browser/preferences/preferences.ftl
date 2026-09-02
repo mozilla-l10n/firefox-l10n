@@ -1855,6 +1855,8 @@ history-custom-button =
     .label = Kies wat jo wolle dat { -brand-short-name } ûnthâldt
 history-group =
     .label = Skiednis
+history-mode-radio-group =
+    .aria-label = Skiednis
 history-remember-option-all2 =
     .label = Skiednis ûnthâlde
 
@@ -2730,6 +2732,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
     .label = Ferbettere beskerming tsjin folgjen
+preferences-etp-level-radio-group =
+    .aria-label = Ferbettere beskerming tsjin folgjen
 preferences-etp-level-standard =
     .description = Sterke, betroubere beskerming dy’t soepel wurket mei de measte websites.
     .label = Standert (standert)

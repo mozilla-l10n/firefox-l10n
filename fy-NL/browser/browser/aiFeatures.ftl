@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Assistint-model
     .description = Kies in model op basis fan wat jo wichtich fine.
+smart-window-model-radio-group =
+    .aria-label = Assistint-model
 smart-window-model-learn-link = Ynfo oer modellen
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
