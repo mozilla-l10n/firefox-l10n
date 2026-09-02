@@ -1857,6 +1857,8 @@ history-custom-button =
     .label = { -brand-short-name } tarayıcınızın neleri hatırlayacağını seçin
 history-group =
     .label = Geçmiş
+history-mode-radio-group =
+    .aria-label = Geçmiş
 history-remember-option-all2 =
     .label = Geçmişi hatırla
 
@@ -2735,6 +2737,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Siteler internette sizi takip etmek ve rahatsız edici reklamlar göstermek için takip kodlarını kullanır. { -brand-short-name }, internette gezinirken sizi korur ve takip kodlarını otomatik olarak engelleyerek dijital izinizin kontrolünü size verir.
     .label = Gelişmiş izlenme koruması
+preferences-etp-level-radio-group =
+    .aria-label = Gelişmiş izlenme koruması
 preferences-etp-level-standard =
     .description = Çoğu sitede sorunsuz çalışan güçlü ve güvenilir korumalar.
     .label = Standart (varsayılan)
