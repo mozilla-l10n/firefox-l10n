@@ -881,6 +881,9 @@ settings-keyboard-shortcuts-customkeys-link =
     .label = Personalizar atalhos de teclado
 settings-media-group =
     .label = Multimédia
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Usar Vídeo em Janela Flutuante
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Ativar os controlos de janela flutuante
     .accesskey = f
@@ -891,6 +894,8 @@ browsing-picture-in-picture-learn-more = Saber mais
 browsing-media-control =
     .label = Controlar media via teclado, ausculatores ou interface virtual
     .accesskey = v
+recommendations-group =
+    .label = Recomendações
 browsing-media-control-learn-more = Saber mais
 browsing-cfr-recommendations =
     .label = Recomendar extensões enquanto navega
@@ -1231,6 +1236,45 @@ containers-settings-button =
     .label = Definições
 containers-remove-button =
     .label = Remover
+containers-section-header2 =
+    .heading = Definições do contentor
+containers-card-header2 =
+    .description = Separar os cookies por contentor para que se possam utilizar contas diferentes no mesmo site e limitar o rastreamento entre sites.
+    .label = Contentores
+containers-add-button2 =
+    .label = Adicionar novo contentor
+    .accesskey = A
+containers-new-tab-check3 =
+    .label = Selecionar um contentor para cada novo separador
+    .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Não usar contentores para ligações abertas a partir de aplicações externas
+    .accesskey = D
+containers-new-tab-check2 =
+    .description = Isto irá abrir o menu de contentores sempre que pressionar o botão de abrir novo separador.
+    .label = Selecionar um contentor para cada novo separador
+    .accesskey = S
+containers-settings-button2 =
+    .title = Configurações
+containers-remove-button3 =
+    .title = Apagar
+containers-sites-card-header =
+    .description = Escolha um contentor para um site e { -brand-short-name } irá utilizar o mesmo todas as vezes que abrir o site.
+    .label = Contentores específicos de site
+containers-sites-add-button =
+    .label = Adicionar um site
+    .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Contentor para { $site }
+containers-site-remove-button =
+    .title = Apagar
+containers-remove-button2 =
+    .title = Remover
 
 ## Account and sync
 
@@ -1238,11 +1282,16 @@ sync-group-label =
     .label = Sincronizar
 account-group-label2 =
     .label = Conta
+account-disabled-group =
+    .description = As definições da conta estão indisponíveis.
+    .label = Conta
 account-placeholder2 =
     .description = Inicie sessão e mantenha os seus dados privados, encriptados e acessíveis, de forma instantânea, onde quer que utilize o { -brand-short-name }.
     .label = Não iniciou sessão
 account-sync-section =
     .heading = Conta e sincronização
+pane-account-sync-title2 = Conta e sincronização
+    .title = Conta e sincronização
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1559,6 +1608,7 @@ forms-primary-pw-use-2 =
     .accesskey = U
 forms-primary-pw-set =
     .label = Definir palavra-passe principal
+forms-primary-pw-on-2 = A palavra-passe primária está <strong>ATIVADA</strong>
 forms-primary-pw-on =
     .label = A palavra-passe principal está ATIVADA
 forms-primary-pw-change-2 =
@@ -1595,6 +1645,11 @@ windows-passkey-settings-label = Gerir as chaves de acesso nas definições do s
 privacy-panel-settings-header =
     .description = Obtenha ajuda para proteger as suas informações na Internet com o { -brand-short-name }.
     .label = Definições do painel de privacidade
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Mostrar mensagens de violação de dados
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -1678,6 +1733,31 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Não foram adicionados endereços
+personal-info-group =
+    .label = Informação pessoal
+autofill-personal-info-checkbox-message =
+    .label = Guardar e preencher automaticamente informação pessoal
+autofill-personal-info-manage-button =
+    .label = Gerir informação pessoal
+passports-list-header =
+    .label = Passaportes
+passports-delete-passport-button-label =
+    .aria-label = Apagar
+passports-edit-passport-button-label =
+    .aria-label = Editar
+passports-delete-passport-prompt-title = Apagar este passaporte?
+passports-delete-passport-prompt-confirm-button = Apagar
+passports-delete-passport-prompt-cancel-button = Cancelar
+autofill-passports-add-button = Adicionar novo passaporte
+autofill-personal-info-manage-title =
+    .heading = Gerir informação pessoal
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = Nenhum passaporte adicionado
+pane-passwords-autofill-title2 = Palavras-passe e preenchimento automático
+    .title = Palavras-passe e preenchimento automático
+preferences-passwords-autofill-header =
+    .heading = Palavras-passe e preenchimento automático
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1742,6 +1822,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Definições…
     .accesskey = e
+history-shutdown-exceptions =
+    .label = Gerir Exceções
+    .accesskey = x
 history-clear-button =
     .label = Limpar histórico…
     .accesskey = s
@@ -2152,6 +2235,8 @@ permissions-header3 =
     .label = Permissões
 permissions-data-section =
     .heading = Permissões e dados
+pane-permissions-data-title2 = Permissões e dados
+    .title = Permissões e dados
 
 ## Privacy Section - Data Collection
 
@@ -2491,6 +2576,20 @@ browser-theme-group =
     .label = Tema do navegador
 browser-theme-manage-link =
     .label = Gerir temas do { -brand-short-name }
+appearance-window-density-group =
+    .description = Ajuste o espaçamento à volta dos elementos da janela, tais como a barra de ferramentas, separadores e barra lateral.
+    .label = Densidade da janela
+appearance-window-density-radio-group =
+    .aria-label = Densidade da janela
+appearance-window-density-automatic =
+    .description = O espaçamento padrão, compacto ou de toque é aplicado automaticamente
+    .label = Automática (predefinição)
+appearance-window-density-automatic-no-touch =
+    .description = O espaçamento padrão ou compacto é aplicado automaticamente
+    .label = Automática (predefinição)
+appearance-window-density-standard =
+    .description = Espaçamento equilibrado para a maioria dos ecrãs
+    .label = Padrão
 related-settings-group =
     .label = Definições relacionadas
 related-settings-accessibility-link =
