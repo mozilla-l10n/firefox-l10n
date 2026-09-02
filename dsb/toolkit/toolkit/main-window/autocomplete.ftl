@@ -22,3 +22,11 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Dalšne informacije
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = Dalšne akcije
+autocomplete-edit-password = Toś to gronidło wobźěłaś
+autocomplete-delete-password = Toś to gronidło lašowaś

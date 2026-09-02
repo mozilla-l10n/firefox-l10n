@@ -368,3 +368,13 @@ aiwindow-starter-planning-plan = Pomagajśo, plan napóraś
 aiwindow-starter-browsing-history = Rejtariki w historiji pytaś
 aiwindow-starter-browsing-summarize = Rejtariki zespominaś
 aiwindow-starter-browsing-compare = Rejtariki pśirownaś
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Slědk kulnuś
+    .tooltiptext = Slědk kulnuś
+aiwindow-starter-scroll-end =
+    .aria-label = Doprědka kulnuś
+    .tooltiptext = Doprědka kulnuś

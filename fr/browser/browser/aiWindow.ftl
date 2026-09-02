@@ -364,3 +364,13 @@ aiwindow-starter-planning-plan = Aide-moi à établir un plan
 aiwindow-starter-browsing-history = Recherche des onglets dans l’historique
 aiwindow-starter-browsing-summarize = Résume des onglets
 aiwindow-starter-browsing-compare = Compare des onglets
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Faire défiler vers l’arrière
+    .tooltiptext = Faire défiler vers l’arrière
+aiwindow-starter-scroll-end =
+    .aria-label = Faire défiler vers l’avant
+    .tooltiptext = Faire défiler vers l’avant

@@ -22,3 +22,17 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Lär dig mer
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = Fler åtgärder
+autocomplete-edit-password = Redigera detta lösenord
+autocomplete-delete-password = Ta bort lösenordet
+autocomplete-edit-address = Redigera den här adressen
+autocomplete-delete-address = Ta bort den här adressen
+autocomplete-edit-payment-method = Redigera denna betalningsmetod
+autocomplete-delete-payment-method = Ta bort denna betalningsmetod
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Ta bort formulärhistorikposten

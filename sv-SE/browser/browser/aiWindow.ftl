@@ -364,3 +364,13 @@ aiwindow-starter-planning-plan = Hjälp till att göra en plan
 aiwindow-starter-browsing-history = Hitta flikar i historiken
 aiwindow-starter-browsing-summarize = Sammanfatta flikar
 aiwindow-starter-browsing-compare = Jämför flikar
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Bläddra bakåt
+    .tooltiptext = Bläddra bakåt
+aiwindow-starter-scroll-end =
+    .aria-label = Bläddra framåt
+    .tooltiptext = Bläddra framåt
