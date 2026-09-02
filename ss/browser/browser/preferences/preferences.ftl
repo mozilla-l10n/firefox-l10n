@@ -117,9 +117,6 @@ browsing-group =
 ## Custom Homepage subpage
 
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 
@@ -201,6 +198,8 @@ forms-master-pw-fips-desc = Kwehlulekile kuguculwa kwelibitophawu
 history-header = Umlandvo
 history-group =
     .label = Umlandvo
+history-mode-radio-group =
+    .aria-label = Umlandvo
 
 ## Privacy Section - Site Data
 
@@ -277,4 +276,7 @@ choose-download-folder-title = Khetsa ifolda yekulayisha:
 
 
 ## Warnings section
+
+
+## Referrals Section
 

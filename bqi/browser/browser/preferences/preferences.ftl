@@ -218,6 +218,10 @@ browser-containers-settings =
 startup-group =
     .label = ره وندن
 
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
 ##
 
 containers-disable-alert-cancel-button = فعال بمهنه
@@ -567,6 +571,9 @@ browsing-media-control-learn-more = قلوه دووسته بۊین
 browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
 browsing-group =
     .label = گشتن
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = دسرسی پزیری
 preferences-default-zoom-select =
@@ -650,6 +657,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = وردنی ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = سفارشی کردن بلگه هووه
 home-custom-homepage-subpage =
     .heading = سفارشی کردن بلگه هووه
@@ -663,6 +673,9 @@ home-prefs-shortcuts-header =
     .label = ره نهنگا
 home-prefs-shortcuts-by-option-sponsored =
     .label = ره نهنگا هؽزگرووݩ
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = پؽشنهاڌ وابیڌه و دست { $provider }
 home-prefs-stories-header =
@@ -819,6 +832,11 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } تاییڌ نوابیڌه.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -918,6 +936,13 @@ sync-connect-another-device = منپیز ی دسگا دیر
 sync-connect-another-device-2 =
     .label = منپیز ی دسگا دیر
 
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
@@ -957,6 +982,9 @@ forms-primary-pw-learn-more-link = قلوه دووسته بۊین
 forms-master-pw-fips-desc = آلشت رزم شکست خرد
 forms-windows-sso-learn-more-link = قلوه دووسته بۊین
 forms-windows-sso-desc = هساوا ن من سامووا دسگا خوتووݩ دؽوۉداری کۊنین
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1046,6 +1074,8 @@ history-header2 =
     .heading = ویرگار
 history-group =
     .label = ویرگار
+history-mode-radio-group =
+    .aria-label = ویرگار
 
 ## Privacy Section - Site Data
 
@@ -1068,6 +1098,9 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = کۊکیا وو داده یل وبگه
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1148,6 +1181,9 @@ content-blocking-fingerprinters = کلک نگارا
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = جا کلکا نشناخته وو مشکۊک
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-etp-standard-tcp-rollout-learn-more = قلوه دووسته بۊین
 content-blocking-warning-learn-how = قلوه دووسته بۊین
 content-blocking-baseline-uncheck-warning-dialog-ok-button = کۊر کردن رفع اشکالا
@@ -1256,6 +1292,9 @@ settings-redesign-promo-dismiss-button =
 addon-recommendations-link = قلوه دووسته بۊین
 data-collection-profiles-link = نیشتن پوی پوروفایلا
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1327,6 +1366,9 @@ preferences-connection-link-button =
 desktop-folder-name = ری میزی
 downloads-folder-name = دانلودا
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-block-ai =
@@ -1391,3 +1433,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = جا کلکا مشکۊک
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = جا کلکا مشکۊک
+
+## Warnings section
+
+
+## Referrals Section
+

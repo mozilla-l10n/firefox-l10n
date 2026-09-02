@@ -738,6 +738,8 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = Installation
+update-application-radio-group =
+    .aria-label = Installation
 update-application-auto-2 =
     .label = Installera uppdateringar automatiskt (rekommenderas)
     .accesskey = n
@@ -904,6 +906,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Läs mer
 browsing-group =
     .label = Webbläsning
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Tillgänglighet
 preferences-default-zoom-select =
@@ -1022,6 +1027,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Tillägg ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Anpassad startsida
 home-custom-homepage-subpage =
     .heading = Anpassad startsida
@@ -1037,6 +1045,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Webbplatser du sparar eller besöker
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsrade genvägar
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Rekommenderas av { $provider }
 home-prefs-recommended-by-description-new = Särskilt innehåll valt av { $provider }, en del av familjen { -brand-product-name }
@@ -1350,6 +1361,11 @@ sync-signedin-login-failure = Logga in för att återansluta { $email }
 sync-signedin-login-failure2 =
     .description = Logga in igen för att återansluta och börja synkronisera din data.
     .label = Du är utloggad från { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1640,6 +1656,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Läs mer
 forms-windows-sso-desc = Hantera konton i dina enhetsinställningar
 windows-passkey-settings-label = Hantera lösenordsnycklar i systeminställningar
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Få hjälp med att skydda din information online i { -brand-short-name }.
     .label = Inställningar för sekretesspanelen
@@ -1838,6 +1857,8 @@ history-custom-button =
     .label = Välj vad du vill att { -brand-short-name } ska komma ihåg
 history-group =
     .label = Historik
+history-mode-radio-group =
+    .aria-label = Historik
 history-remember-option-all2 =
     .label = Spara historik
 
@@ -2071,6 +2092,9 @@ content-blocking-fingerprinters = Fingeravtrycksspårare
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Kända och misstänkta fingeravtrycksspårare
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totalt skydd mot kakor isolerar kakor från webbplatsen du är på, så spårare inte kan använda dem för att följa dig mellan webbplatser.
 content-blocking-etp-standard-tcp-rollout-learn-more = Lär dig mer
@@ -2445,6 +2469,8 @@ preferences-doh-status-disabled = Av
 preferences-doh-status-not-active = Inte aktiv ({ $reason })
 preferences-doh-group-message = Aktivera säker DNS med:
 preferences-doh-group-message2 = Aktivera DNS över HTTPS med:
+preferences-doh-radio-group =
+    .aria-label = Aktivera DNS över HTTPS med:
 preferences-doh-expand-section =
     .tooltiptext = Mer information
 preferences-doh-setting-default =
@@ -2711,6 +2737,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Webbplatser använder spårare för att följa dig online och visa obehagliga annonser. { -brand-short-name } skyddar dig när du surfar och blockerar spårare automatiskt så att du har kontroll över dina digitala spår.
     .label = Förbättrat spårningsskydd
+preferences-etp-level-radio-group =
+    .aria-label = Förbättrat spårningsskydd
 preferences-etp-level-standard =
     .description = Starka, pålitliga skydd som fungerar smidigt med de flesta webbplatser.
     .label = Standard

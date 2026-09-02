@@ -738,6 +738,8 @@ update-history-2 =
     .accesskey = ი
 update-application-installation =
     .label = დაყენებული
+update-application-radio-group =
+    .aria-label = დაყენებული
 update-application-auto-2 =
     .label = თავადვე დაყენდეს განახლებები (სასურველია)
     .accesskey = ვ
@@ -904,6 +906,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = ვრცლად
 browsing-group =
     .label = გვერდების მონახულება
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = ხელმისაწვდომობა
 preferences-default-zoom-select =
@@ -1022,6 +1027,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = გაფართოება ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = მორგებული საწყისი გვერდი
 home-custom-homepage-subpage =
     .heading = მორგებული საწყისი გვერდი
@@ -1037,6 +1045,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
 home-prefs-shortcuts-by-option-sponsored =
     .label = მალსახმობები დამკვეთებისგან
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = { $provider } გირჩევთ
 home-prefs-recommended-by-description-new = გამორჩეული მასალები, რომელსაც { $provider } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
@@ -1350,6 +1361,11 @@ sync-signedin-login-failure = ხელახლა დასაკავში�
 sync-signedin-login-failure2 =
     .description = კვლავ შედით მისაერთებლად და მონაცემთა დასინქრონებისთვის.
     .label = თქვენ გამოსული ხართ ანგარიშიდან { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1640,6 +1656,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = ვრცლად
 forms-windows-sso-desc = ანგარიშების მართვა, მოწყობილობის პარამეტრებიდან
 windows-passkey-settings-label = საშვების მართვა სისტემის პარამეტრებში
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = დაიხმარეთ { -brand-short-name } თქვენი მონაცემების დასაცავად ინტერნეტში.
     .label = პირადულობის განყოფილების გამართვა
@@ -1838,6 +1857,8 @@ history-custom-button =
     .label = აირჩიეთ სურვილისამებრ, თუ რას დაიმახსოვრებს { -brand-short-name }
 history-group =
     .label = ისტორია
+history-mode-radio-group =
+    .aria-label = ისტორია
 history-remember-option-all2 =
     .label = დაიმახსოვრებს ისტორიას
 
@@ -2071,6 +2092,9 @@ content-blocking-fingerprinters = მომხმარებლის ამო
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = ცნობილი და სავარაუდო ამომცნობები
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ფუნთუშებისგან ყოველმხრივი დაცვა ფუნთუშებს იმ საიტის საზღვრებშივე აქცევს, რომელზეც იმყოფებით და მეთვალყურეები ვეღარ დაგედევნებიან სხვა საიტებზე გადასვლისას.
 content-blocking-etp-standard-tcp-rollout-learn-more = ვრცლად
@@ -2445,6 +2469,8 @@ preferences-doh-status-disabled = გამორთ.
 preferences-doh-status-not-active = უქმი ({ $reason })
 preferences-doh-group-message = დაცული DNS:
 preferences-doh-group-message2 = ჩაირთოს DNS-მოთხოვნა HTTPS-ით:
+preferences-doh-radio-group =
+    .aria-label = ჩაირთოს DNS-მოთხოვნა HTTPS-ით:
 preferences-doh-expand-section =
     .tooltiptext = ვრცლად
 preferences-doh-setting-default =
@@ -2711,6 +2737,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = საიტები შეიცავს მეთვალყურეებს, რომლებიც თან დაგყვებათ მთელ ვებსივრცეში და გიგდებთ საძაგელ რეკლამებს. { -brand-short-name } დაგიფარავთ გვერდების მონახულებისას მეთვალყურეების თავისთავადი შეზღუდვით, რომ თქვენს ციფრულ კვალს თავადვე განკარგავდეთ.
     .label = თვალთვალისგან გაძლიერებული დაცვა
+preferences-etp-level-radio-group =
+    .aria-label = თვალთვალისგან გაძლიერებული დაცვა
 preferences-etp-level-standard =
     .description = მძლავრი, საიმედო დაცვა, შეუფერხებლად რომ იმუშავებს საიტთა უმეტესობაზე.
     .label = საშუალო (ნაგულისხმევი)

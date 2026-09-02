@@ -17,6 +17,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Laguntzailearen modeloa
     .description = Aukeratu modeloa zuretzat garrantzitsua denaren arabera.
+smart-window-model-radio-group =
+    .aria-label = Laguntzailearen modeloa
 smart-window-model-learn-link = Modeloei buruzko argibide gehiago
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

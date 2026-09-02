@@ -736,6 +736,8 @@ update-history-2 =
     .accesskey = s
 update-application-installation =
     .label = Ynstallaasje
+update-application-radio-group =
+    .aria-label = Ynstallaasje
 update-application-auto-2 =
     .label = Fernijingen automatysk ynstallearje (oanrekommandearre)
     .accesskey = F
@@ -902,6 +904,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Mear ynfo
 browsing-group =
     .label = Navigearje
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Tagonklikheid
 preferences-default-zoom-select =
@@ -1020,6 +1025,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Utwreiding ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Oanpaste startside
 home-custom-homepage-subpage =
     .heading = Oanpaste startside
@@ -1035,6 +1043,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Bewarre of besochte websites
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsore fluchkeppelingen
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Oanrekommandearre troch { $provider }
 home-prefs-recommended-by-description-new = Utsûnderlike ynhâld, gearstald troch { $provider }, ûnderdiel fan de { -brand-product-name }-famylje
@@ -1348,6 +1359,11 @@ sync-signedin-login-failure = Meld jo oan om wer te ferbinen { $email }
 sync-signedin-login-failure2 =
     .description = Meld jo wer oan om opnij te ferbinen en te begjinnen mei syngronisearjen fan jo gegevens.
     .label = Jo binne ôfmeld by { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1638,6 +1654,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Mear ynfo
 forms-windows-sso-desc = Accounts beheare yn jo apparaatynstellingen
 windows-passkey-settings-label = Wachtwurden beheare yn systeemynstellingen
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Untfang help om jo online gegevens te beskermjen yn { -brand-short-name }.
     .label = Ynstellingen privacypaniel
@@ -1836,6 +1855,8 @@ history-custom-button =
     .label = Kies wat jo wolle dat { -brand-short-name } ûnthâldt
 history-group =
     .label = Skiednis
+history-mode-radio-group =
+    .aria-label = Skiednis
 history-remember-option-all2 =
     .label = Skiednis ûnthâlde
 
@@ -2069,6 +2090,9 @@ content-blocking-fingerprinters = Fingerprinters
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Bekende en fertochte fingerprinters
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totale cookiebeskerming slút cookies yn op de website dy’t jo besykje, sadat trackers se net brûke kinne om jo tusken websites te folgjen.
 content-blocking-etp-standard-tcp-rollout-learn-more = Mear ynfo
@@ -2443,6 +2467,8 @@ preferences-doh-status-disabled = Ut
 preferences-doh-status-not-active = Net aktyf ({ $reason })
 preferences-doh-group-message = Befeilige DNS ynskeakelje mei:
 preferences-doh-group-message2 = DNS oer HTTPS ynskeakelje fia:
+preferences-doh-radio-group =
+    .aria-label = DNS oer HTTPS ynskeakelje fia:
 preferences-doh-expand-section =
     .tooltiptext = Mear ynformaasje
 preferences-doh-setting-default =
@@ -2706,6 +2732,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
     .label = Ferbettere beskerming tsjin folgjen
+preferences-etp-level-radio-group =
+    .aria-label = Ferbettere beskerming tsjin folgjen
 preferences-etp-level-standard =
     .description = Sterke, betroubere beskerming dy’t soepel wurket mei de measte websites.
     .label = Standert (standert)

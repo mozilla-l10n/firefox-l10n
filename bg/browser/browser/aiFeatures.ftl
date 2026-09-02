@@ -25,6 +25,8 @@ ai-window-open-sidebar =
 smart-window-model-section =
     .label = Модел за асистент
     .description = Изберете модел въз основа на това кое е важно за вас.
+smart-window-model-radio-group =
+    .aria-label = Модел за асистент
 smart-window-model-learn-link = Научете повече за моделите
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

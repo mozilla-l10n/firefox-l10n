@@ -341,6 +341,15 @@ update-in-progress-ok-button = &Stagghia
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinua
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Pristazziuni
@@ -395,6 +404,9 @@ browsing-cfr-recommendations-learn-more = Cchiù nfurmazzioni
 browsing-group =
     .label = Navicazzioni
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Mpustazzioni riti
@@ -446,10 +458,16 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = Novi schedi
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
     .label = Riscedi nnâ riti
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Cunzigghiati di { $provider }
 
@@ -547,6 +565,9 @@ containers-add-button =
 containers-remove-button =
     .label = Leva
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -586,6 +607,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nun è virificata.
 sync-signedin-login-failure = Trasi pi ricunnèttiri { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -745,6 +771,15 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Crunuluggìa
@@ -793,6 +828,8 @@ history-clear-button =
     .accesskey = C
 history-group =
     .label = Crunuluggìa
+history-mode-radio-group =
+    .aria-label = Crunuluggìa
 
 ## Privacy Section - Site Data
 
@@ -833,6 +870,12 @@ sitedata-settings =
     .accesskey = d
 cookies-site-data-group =
     .label = Viscotta e dati dî siti
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -884,6 +927,9 @@ content-blocking-unvisited-cookies = Viscotta di siti nun visitati
 content-blocking-all-windows-tracking-content = Cuntinuti trazzanti ’n tutti i finestri
 content-blocking-cryptominers = Crittuminatura
 content-blocking-fingerprinters = Giniratura d’urmi diggitali
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = Accura!
 content-blocking-warning-learn-how = Vidi comu
 content-blocking-reload-description = Ài a ricarricari i schedi p’appricari sti canciamenti.
@@ -1001,6 +1047,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Talìa studi di { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1032,8 +1081,35 @@ certs-devices =
     .label = Dispusitivi di sicurizza…
     .accesskey = D
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scrivanìa
 downloads-folder-name = Scarricamenti
 choose-download-folder-title = Scarta a carpetta pî scarricamenti:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+

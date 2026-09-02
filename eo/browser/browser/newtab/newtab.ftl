@@ -200,6 +200,9 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokas spurilojn dum vi retumas. Vi vidos ilin ĉi tie.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -346,6 +349,12 @@ newtab-stocks-ticker-status-down = { $name }, malsupreniras { $change }, { $pric
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, senŝanĝa, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -396,6 +405,13 @@ newtab-picture-check-back = Kontrolu denove morgaŭ por malkovri novan bildon
 # provides no localized description.
 newtab-picture-image-alt = Bildo de la tago de Wikimedia Commons
 
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -443,6 +459,9 @@ newtab-topsites-image-url-label = Personecitiga retadreso de bildo
 newtab-topsites-use-custom-image-link = Uzi personecigitan bildon
 newtab-topsites-use-image-link = Uzi personecigitan bildon…
 newtab-topsites-image-validation = Ne eblis ŝargi la bildon. Klopodu alian retadreson.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Viŝi tekston
 
@@ -783,6 +802,9 @@ newtab-custom-close-menu-button =
     .title = Fermi
 newtab-custom-close-button = Fermi
 newtab-custom-settings = Administri aliajn agordojn
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Aspekto
 # Button that opens the full browser theme selection view.
@@ -900,6 +922,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1032,6 +1057,12 @@ newtab-section-unfollow-button-label =
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Personecigu vian informan fonton
 newtab-section-follow-highlight-subtitle = Sekvu viajn interesojn por vidi pli da tio, kion vi ŝatas.
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = Temoj
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1299,6 +1330,9 @@ newtab-promo-card-cta = Pli da informo
 newtab-promo-card-dismiss-button =
     .aria-label = Ignori
     .title = Ignori
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

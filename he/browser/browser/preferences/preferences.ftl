@@ -738,6 +738,8 @@ update-history-2 =
     .accesskey = ה
 update-application-installation =
     .label = התקנה
+update-application-radio-group =
+    .aria-label = התקנה
 update-application-auto-2 =
     .label = התקנת עדכונים באופן אוטומטי (מומלץ)
     .accesskey = ע
@@ -904,6 +906,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = מידע נוסף
 browsing-group =
     .label = דפדוף
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = נגישות
 preferences-default-zoom-select =
@@ -1022,6 +1027,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = הרחבה ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = דף בית מותאם אישית
 home-custom-homepage-subpage =
     .heading = דף בית מותאם אישית
@@ -1037,6 +1045,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = אתרים ששמרת או ביקרת בהם
 home-prefs-shortcuts-by-option-sponsored =
     .label = קיצורי דרך ממומנים
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = מומלץ על־ידי { $provider }
 home-prefs-recommended-by-description-new = תוכן יוצא דופן שנבחר בקפידה על־ידי { $provider }, חלק ממשפחת { -brand-product-name }
@@ -1350,6 +1361,11 @@ sync-signedin-login-failure = נא להיכנס לחשבון כדי להתחבר
 sync-signedin-login-failure2 =
     .description = יש להיכנס שוב כדי להתחבר מחדש ולהתחיל לסנכרן את הנתונים שלך.
     .label = התנתקת מ־{ $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1640,6 +1656,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = מידע נוסף
 forms-windows-sso-desc = ניהול חשבונות בהגדרות במכשיר
 windows-passkey-settings-label = ניהול passkeys בהגדרות המערכת
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = קבלת סיוע בהגנה על המידע שלך ברשת ב־{ -brand-short-name }.
     .label = הגדרות חלונית הפרטיות
@@ -1838,6 +1857,8 @@ history-custom-button =
     .label = בחירה בפריטים שברצונך ש־{ -brand-short-name } ישמור
 history-group =
     .label = היסטוריה
+history-mode-radio-group =
+    .aria-label = היסטוריה
 history-remember-option-all2 =
     .label = לשמור היסטוריה
 
@@ -2071,6 +2092,9 @@ content-blocking-fingerprinters = רכיבי זהות דיגיטלית
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = רכיבי זהות דיגיטלית ידועים וחשודים
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = הגנת עוגיות מלאה מגבילה עוגיות לאתר שבו אתה נמצא, כך שרכיבי מעקב לא יכולים להשתמש בהן כדי לעקוב אחריך בין אתרים.
 content-blocking-etp-standard-tcp-rollout-learn-more = מידע נוסף
@@ -2444,6 +2468,8 @@ preferences-doh-status-disabled = כבוי
 preferences-doh-status-not-active = לא פעיל ({ $reason })
 preferences-doh-group-message = הפעלת DNS מאובטח באמצעות:
 preferences-doh-group-message2 = הפעלת DNS על גבי HTTPS באמצעות:
+preferences-doh-radio-group =
+    .aria-label = הפעלת DNS על גבי HTTPS באמצעות:
 preferences-doh-expand-section =
     .tooltiptext = מידע נוסף
 preferences-doh-setting-default =
@@ -2710,6 +2736,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = אתרים משתמשים ברכיבי מעקב כדי לעקוב אחריך ברשת ולהציג פרסומות מציקות. { -brand-short-name } מגן עליך תוך כדי גלישה, וחוסם רכיבי מעקב באופן אוטומטי כך שיש לך שליטה על העקבות הדיגיטליים שלך.
     .label = הגנת מעקב מתקדמת
+preferences-etp-level-radio-group =
+    .aria-label = הגנת מעקב מתקדמת
 preferences-etp-level-standard =
     .description = הגנות חזקות ומהימנות שעובדות בצורה חלקה עם רוב האתרים.
     .label = רגיל (ברירת מחדל)

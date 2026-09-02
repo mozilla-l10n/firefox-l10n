@@ -750,6 +750,8 @@ update-history-2 =
     .accesskey = D
 update-application-installation =
     .label = Gosod
+update-application-radio-group =
+    .aria-label = Gosod
 update-application-auto-2 =
     .label = Gosod diweddariadau'n awtomatig (argymhell)
     .accesskey = G
@@ -916,6 +918,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Darllen rhagor
 browsing-group =
     .label = Pori
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Hygyrchedd
 preferences-default-zoom-select =
@@ -1034,6 +1039,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Estyniad ( { $extension } )
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Tudalen Cartref Cyfaddas
 home-custom-homepage-subpage =
     .heading = Tudalen Cartref Cyfaddas
@@ -1049,6 +1057,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
 home-prefs-shortcuts-by-option-sponsored =
     .label = Llwybrau byr wedi'u noddi
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Argymhellwyd gan { $provider }
 home-prefs-recommended-by-description-new = Cynnwys eithriadol wedi'u curadu gan { $provider }, rhan o deulu { -brand-product-name }
@@ -1366,6 +1377,11 @@ sync-signedin-login-failure = Ail fewngofnodwch er mwyn ailgysylltu { $email }
 sync-signedin-login-failure2 =
     .description = Mewngofnodwch i ailgysylltu ac i gychwyn cydweddu'ch data.
     .label = Rydych wedi allgofnodi o { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1656,6 +1672,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Darllen rhagor
 forms-windows-sso-desc = Rheoli cyfrifon yn eich gosodiadau dyfais
 windows-passkey-settings-label = Rheoli cyfrinallweddi o fewn gosodiadau system
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Cael cymorth i ddiogelu eich manylion ar-lein o fewn { -brand-short-name }.
     .label = Gosodiadau panel preifatrwydd
@@ -1854,6 +1873,8 @@ history-custom-button =
     .label = Dewis beth mae { -brand-short-name } i fod ei gofio
 history-group =
     .label = Hanes
+history-mode-radio-group =
+    .aria-label = Hanes
 history-remember-option-all2 =
     .label = Cofio hanes
 
@@ -2087,6 +2108,9 @@ content-blocking-fingerprinters = Bysbrintwyr
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Bysbrintwyr hysbys ac amheus
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Mae Diogelwch Cwcis Llwyr yn cyfyngu cwcis i'r wefan rydych chi arni, felly nid yw tracwyr yn gallu eu defnyddio i'ch dilyn rhwng gwefannau.
 content-blocking-etp-standard-tcp-rollout-learn-more = Darllen rhagor
@@ -2461,6 +2485,8 @@ preferences-doh-status-disabled = Diffodd
 preferences-doh-status-not-active = Ddim yn weithredol ( { $reason } )
 preferences-doh-group-message = Galluogi DNS diogel gan ddefnyddio:
 preferences-doh-group-message2 = Galluogi DNS dros HTTPS
+preferences-doh-radio-group =
+    .aria-label = Galluogi DNS dros HTTPS
 preferences-doh-expand-section =
     .tooltiptext = Rhagor o wybodaeth
 preferences-doh-setting-default =
@@ -2731,6 +2757,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Mae gwefannau'n defnyddio tracwyr i'ch dilyn chi ar-lein a dangos hysbysebion anghynnes. Mae { -brand-short-name } yn eich diogelu wrth i chi bori, gan rwystro tracwyr yn awtomatig fel eich bod yn gallu rheoli eich ôl digidol.
     .label = Defnyddiwch Diogelwch Uwch Rhag Tracio
+preferences-etp-level-radio-group =
+    .aria-label = Defnyddiwch Diogelwch Uwch Rhag Tracio
 preferences-etp-level-standard =
     .description = Diogelwch cryf dibynadwy sy'n gweithio'n llyfn gyda'r rhan fwyaf o wefannau.
     .label = Safonol (rhagosodedig)

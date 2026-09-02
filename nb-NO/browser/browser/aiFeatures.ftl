@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Assistentmodell
     .description = Velg en modell basert på det som er viktigst for deg.
+smart-window-model-radio-group =
+    .aria-label = Assistentmodell
 smart-window-model-learn-link = Les om modeller
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

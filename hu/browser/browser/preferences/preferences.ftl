@@ -736,6 +736,8 @@ update-history-2 =
     .accesskey = z
 update-application-installation =
     .label = Telepítés
+update-application-radio-group =
+    .aria-label = Telepítés
 update-application-auto-2 =
     .label = Frissítések automatikus telepítése (ajánlott)
     .accesskey = a
@@ -902,6 +904,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = További tudnivalók
 browsing-group =
     .label = Böngészés
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Akadálymentesítés
 preferences-default-zoom-select =
@@ -1020,6 +1025,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Kiegészítő ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Egyéni kezdőlap
 home-custom-homepage-subpage =
     .heading = Egyéni kezdőlap
@@ -1035,6 +1043,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Mentett vagy felkeresett webhelyek
 home-prefs-shortcuts-by-option-sponsored =
     .label = Szponzorált indítóikonok
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = A(z) { $provider } ajánlásával
 home-prefs-recommended-by-description-new = Kivételes tartalmak a { $provider } válogatásában, amely a { -brand-product-name } család része
@@ -1348,6 +1359,11 @@ sync-signedin-login-failure = Jelentkezzen be a(z) { $email } újracsatlakoztat�
 sync-signedin-login-failure2 =
     .description = Jelentkezzen be újra a visszacsatlakozáshoz, és az adatai szinkronizálásához.
     .label = Kijelentkezett ebből: { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1638,6 +1654,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = További tudnivalók
 forms-windows-sso-desc = Fiókok kezelése az eszközbeállításokban
 windows-passkey-settings-label = A jelkulcsok kezelése a rendszerbeállításokban
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Kapjon segítséget az online információi megvédéséhez a { -brand-short-name }ban.
     .label = Adatvédelmi panel beállításai
@@ -1836,6 +1855,8 @@ history-custom-button =
     .label = Válasszon, hogy a { -brand-short-name } mit jegyezzen meg
 history-group =
     .label = Előzmények
+history-mode-radio-group =
+    .aria-label = Előzmények
 history-remember-option-all2 =
     .label = Megjegyzi az előzményeket
 
@@ -2069,6 +2090,9 @@ content-blocking-fingerprinters = Ujjlenyomat-készítők
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Ismert és feltételezett ujjlenyomat-készítők
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = A Teljes sütivédelem ahhoz a webhelyhez köti a sütiket, amelyiken épp tartózkodik, így a követők nem használhatják azokat oldalak közti követésre.
 content-blocking-etp-standard-tcp-rollout-learn-more = További tudnivalók
@@ -2443,6 +2467,8 @@ preferences-doh-status-disabled = Ki
 preferences-doh-status-not-active = Nem aktív ({ $reason })
 preferences-doh-group-message = Biztonságos DNS engedélyezése a következővel:
 preferences-doh-group-message2 = HTTPS feletti DNS bekapcsolása a következővel:
+preferences-doh-radio-group =
+    .aria-label = HTTPS feletti DNS bekapcsolása a következővel:
 preferences-doh-expand-section =
     .tooltiptext = További információk
 preferences-doh-setting-default =
@@ -2706,6 +2732,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = A webhelyek követőket használnak, hogy kövessék online és reklámokat jelenítsenek meg. A { -brand-short-name } megvédi böngészés közben, és automatikusan blokkolja a követőket, így mindig az Ön kezében van a digitális nyoma feletti irányítás.
     .label = Fokozott követés elleni védelem
+preferences-etp-level-radio-group =
+    .aria-label = Fokozott követés elleni védelem
 preferences-etp-level-standard =
     .description = Erős, megbízható védelem, amely zökkenőmentesen működik a legtöbb webhelyen.
     .label = Szokásos (alapértelmezett)

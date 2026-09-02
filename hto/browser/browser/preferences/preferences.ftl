@@ -198,9 +198,6 @@ choose-bookmark =
     .label = Rɨgɨnua fɨno…
     .accesskey = f
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 
@@ -342,6 +339,8 @@ history-clear-on-close-settings =
     .accesskey = A
 history-group =
     .label = Jagaɨ
+history-mode-radio-group =
+    .aria-label = Jagaɨ
 
 ## Privacy Section - Site Data
 
@@ -429,4 +428,7 @@ permissions-notification2 =
 
 
 ## Warnings section
+
+
+## Referrals Section
 

@@ -30,6 +30,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Model da l’assistent
     .description = Tscherna in model sin basa da quai ch’è impurtant per tai.
+smart-window-model-radio-group =
+    .aria-label = Model da l’assistent
 smart-window-model-learn-link = Ulteriuras infurmaziuns davart models
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -93,3 +95,9 @@ ai-window-delete-all-memories-cancel = Interrumper
 ai-window-memory-delete-button =
     .title = Stizzar questa regurdientscha
     .aria-label = Stizzar { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+

@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = מודל העוזרת
     .description = בחירת מודל המבוסס על מה שחשוב לך.
+smart-window-model-radio-group =
+    .aria-label = מודל העוזרת
 smart-window-model-learn-link = מידע נוסף על מודלים
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

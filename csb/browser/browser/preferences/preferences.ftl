@@ -210,9 +210,6 @@ choose-bookmark =
     .label = Ùżëjë załóżka…
     .accesskey = ż
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 
@@ -334,6 +331,8 @@ history-clear-on-close-settings =
     .accesskey = N
 history-group =
     .label = Historiô
+history-mode-radio-group =
+    .aria-label = Historiô
 
 ## Privacy Section - Site Data
 
@@ -418,4 +417,7 @@ choose-download-folder-title = Wëbierzë katalog dlô zladënków:
 
 
 ## Warnings section
+
+
+## Referrals Section
 

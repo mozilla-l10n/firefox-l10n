@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .description = Вибір моделі на основі ваших потреб.
     .label = Модель помічника
+smart-window-model-radio-group =
+    .aria-label = Модель помічника
 smart-window-model-learn-link = Докладніше про моделі
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -95,6 +97,12 @@ ai-window-delete-all-memories-cancel = Скасувати
 ai-window-memory-delete-button =
     .aria-label = Видалити { $label }
     .title = Видалити пам'ять
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+
 smart-window-model-fast-v2 =
     .description = Найкраще підходить для швидких відповідей, коли час має значення. Повна назва: { $model } від { $ownerName }
     .label = { $shortName }: Швидка

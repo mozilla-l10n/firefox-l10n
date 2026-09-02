@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Modellu de assistente
     .description = Sèbera unu modellu segundu su chi siat de importu pro tue.
+smart-window-model-radio-group =
+    .aria-label = Modellu de assistente
 smart-window-model-learn-link = Impara in pitzus de is modellos
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

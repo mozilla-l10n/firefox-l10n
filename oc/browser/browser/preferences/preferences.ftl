@@ -514,6 +514,15 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanças
@@ -578,6 +587,9 @@ browsing-cfr-recommendations-learn-more = Ne saber mai
 browsing-group =
     .label = Navegacion
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Paramètres ret
@@ -637,6 +649,9 @@ home-homepage-new-tabs =
 home-prefs-homepage-extension-option =
     .label = Extension ({ $extension })
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contengut de la { -firefox-home-brand-name }
@@ -648,6 +663,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Los sites qu’enregistratz o consultatz
 home-prefs-shortcuts-by-option-sponsored =
     .label = Acorchis pairinejats
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Recomandat per { $provider }
 home-prefs-recommended-by-description-new = Contengut excepcional seleccionat per { $provider }, membre de la familha { -brand-product-name }
@@ -830,6 +848,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal reconnectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1063,6 +1086,9 @@ forms-windows-sso-learn-more-link = Ne saber mai
 forms-windows-sso-desc = Gerissètz los compte als paramètres de vòstre periferic
 windows-passkey-settings-label = Gerir las claus d’accès als paramètres sistèma
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -1149,6 +1175,8 @@ history-custom-section-header =
     .label = Paramètres avançats
 history-group =
     .label = Istoric
+history-mode-radio-group =
+    .aria-label = Istoric
 
 ## Privacy Section - Site Data
 
@@ -1293,6 +1321,9 @@ content-blocking-fingerprinters = Generadors d’emprentas numericas
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Generadors d’emprentas numericas coneguts e suspèctes
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La proteccion totala contra los cookies los reten al site ont vos trobatz, doncas los traçadors los pòdon pas utilizar per vos pistar de site en site.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ne saber mai
@@ -1524,6 +1555,8 @@ preferences-doh-status-disabled = Desactivat
 preferences-doh-status-not-active = Inactiu ({ $reason })
 preferences-doh-group-message = Activar lo DNS segur amb :
 preferences-doh-group-message2 = Activar lo DNS via HTTPS en utilizant :
+preferences-doh-radio-group =
+    .aria-label = Activar lo DNS via HTTPS en utilizant :
 preferences-doh-expand-section =
     .tooltiptext = Mai d’informacions
 preferences-doh-setting-default =
@@ -1560,11 +1593,23 @@ preferences-doh-manage-exceptions =
     .label = Gerir las excepcions…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Burèu
 downloads-folder-name = Telecargaments
 choose-download-folder-title = Causissètz lo dossièr de telecargament :
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
 
 ## Enhanced Tracking Protection (ETP) status section
 
@@ -1572,3 +1617,9 @@ preferences-etp-customize-button =
     .label = Personalizar la proteccion contra lo seguiment
 preferences-etp-customize-header =
     .heading = Personalizar la proteccion contra lo seguiment
+
+## Warnings section
+
+
+## Referrals Section
+

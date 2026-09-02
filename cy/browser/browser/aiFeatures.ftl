@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Model cynorthwyydd
     .description = Dewiswch fodel ar sail yr hyn sy'n bwysig i chi.
+smart-window-model-radio-group =
+    .aria-label = Model cynorthwyydd
 smart-window-model-learn-link = Dysgwch am fodelau
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

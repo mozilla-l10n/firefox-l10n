@@ -738,6 +738,8 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = Instalación
+update-application-radio-group =
+    .aria-label = Instalación
 update-application-auto-2 =
     .label = Instalar actualizaciones automáticamente (recomendado)
     .accesskey = A
@@ -904,6 +906,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Aprender más
 browsing-group =
     .label = Navegación
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Accesibilidad
 preferences-default-zoom-select =
@@ -1022,6 +1027,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Extensión ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Página de inicio personalizada
 home-custom-homepage-subpage =
     .heading = Página de inicio personalizada
@@ -1037,6 +1045,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitios que guardas o visitas
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atajos patrocinados
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description-new = Contenido excepcional seleccionado por { $provider }, parte de la familia { -brand-product-name }
@@ -1350,6 +1361,11 @@ sync-signedin-login-failure = Por favor, vuelve a conectarte { $email }
 sync-signedin-login-failure2 =
     .description = Vuelve a conectarte para empezar a sincronizar tus datos.
     .label = Has cerrado sesión en { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1640,6 +1656,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Aprender más
 forms-windows-sso-desc = Gestiona las cuentas en la configuración de tu dispositivo
 windows-passkey-settings-label = Administrar llaves de acceso en la configuración del sistema
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Recibe ayuda para proteger tu info en línea en { -brand-short-name }.
     .label = Ajustes del panel de privacidad
@@ -1838,6 +1857,8 @@ history-custom-button =
     .label = Elige lo que quieres que { -brand-short-name } recuerde
 history-group =
     .label = Historial
+history-mode-radio-group =
+    .aria-label = Historial
 history-remember-option-all2 =
     .label = Recordar el historial
 
@@ -2071,6 +2092,9 @@ content-blocking-fingerprinters = Creadores de huellas (Fingerprinters)
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Creadores de huellas (fingerprinters) conocidos y presuntos
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protección total contra cookies aísla las cookies del sitio en el que estas, de forma tal que los rastreadores no pueden usarlas para seguirte entre sitios.
 content-blocking-etp-standard-tcp-rollout-learn-more = Aprender más
@@ -2445,6 +2469,8 @@ preferences-doh-status-disabled = No
 preferences-doh-status-not-active = No activo ({ $reason })
 preferences-doh-group-message = Habilita el DNS seguro usando:
 preferences-doh-group-message2 = Activar DNS sobre HTTPS usando:
+preferences-doh-radio-group =
+    .aria-label = Activar DNS sobre HTTPS usando:
 preferences-doh-expand-section =
     .tooltiptext = Más información
 preferences-doh-setting-default =
@@ -2711,6 +2737,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Los sitios usan rastreadores para seguirte en línea y mostrar publicidad molesta. { -brand-short-name } te protege a medida que navegas, bloqueando rastreadores automáticamente para que estés al control de tu huella digital.
     .label = Protección de seguimiento mejorada
+preferences-etp-level-radio-group =
+    .aria-label = Protección de seguimiento mejorada
 preferences-etp-level-standard =
     .description = Protecciones potentes y confiables que funcionan sin contratiempos en la mayoría de los sitios web.
     .label = Estándar (por defecto)

@@ -155,6 +155,15 @@ home-prefs-mission-message-learn-more-link-srd = Бифаҳмед, ки чӣ т�
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Маълумоти бештар
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -203,10 +212,30 @@ newtab-privacy-message-first-protection-cta = Намоиши муҳофизат�
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Маълумоти бештар
 
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
 ## Strings for the Picture of the Day widget
 
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Маълумоти бештар
+
+## Strings for the Recent Searches widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -254,6 +283,9 @@ newtab-topsites-image-url-label = Нишонии «URL»-и тасвири ша�
 newtab-topsites-use-custom-image-link = Истифодаи тасвири шахсӣ
 newtab-topsites-use-image-link = Истифодаи тасвири шахсӣ…
 newtab-topsites-image-validation = Тасвир бор карда нашуд. Нишонии «URL»-и дигареро кӯшиш кунед.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Пок кардани матн
 
@@ -580,6 +612,9 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Пӯшидан
 newtab-custom-settings = Идоракунии танзимоти бештар
 
+## New Tab Appearance (browser theme picker)
+
+
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -676,6 +711,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -799,6 +837,12 @@ newtab-section-unfollow-button = Бекор кардани обуна
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Навори хабарҳои худро ба таври дилхоҳ танзим кунед
 newtab-section-follow-highlight-subtitle = Чизҳои дилбастагии худро пайгирӣ кунед, то чизҳои бештареро, ки ба шумо маъқуланд, бубинед.
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = Мавзуъҳо
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -998,6 +1042,9 @@ newtab-promo-card-cta = Маълумоти бештар
 newtab-promo-card-dismiss-button =
     .aria-label = Нодида гузарондан
     .title = Нодида гузарондан
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Марказонидан
 # Small label shown beneath the live time while the break timer is running or paused.
@@ -1070,6 +1117,13 @@ newtab-sports-widget-pagination-next =
     .aria-label = Навбатӣ
     .title = Навбатӣ
 
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
 ## internationalization tooling.
@@ -1087,6 +1141,9 @@ newtab-sports-widget-team-name-label-sco =
 newtab-sports-widget-message-wallpapers-cta = Тасвири заминаиеро интихоб намоед
 newtab-sports-widget-message-add-widgets-cta =
     .label = Илова кардани виҷетҳо
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

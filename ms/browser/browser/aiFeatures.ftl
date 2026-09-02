@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Model pembantu
     .description = Pilih model berdasarkan apa yang penting untuk anda.
+smart-window-model-radio-group =
+    .aria-label = Model pembantu
 smart-window-model-learn-link = Ketahui tentang model
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

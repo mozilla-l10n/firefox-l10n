@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Модели ёвари зеҳни сунъӣ
     .description = Дар асоси он чизе, ки барои шумо муҳим аст, модели марбутро интихоб намоед.
+smart-window-model-radio-group =
+    .aria-label = Модели ёвари зеҳни сунъӣ
 smart-window-model-learn-link = Маълумоти бештар дар бораи моделҳо
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -76,3 +78,9 @@ ai-window-delete-all-memories-cancel = Бекор кардан
 ai-window-memory-delete-button =
     .title = Нест кардани ёддошт
     .aria-label = Нест кардани «{ $label }»
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+

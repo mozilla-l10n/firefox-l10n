@@ -703,6 +703,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = ইতিহাস
+history-mode-radio-group =
+    .aria-label = ইতিহাস
 
 ## Privacy Section - Site Data
 

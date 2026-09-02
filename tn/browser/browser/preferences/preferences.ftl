@@ -185,9 +185,6 @@ choose-bookmark =
     .label = Dirisa Letshwaotsebe…
     .accesskey = L
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 
@@ -288,6 +285,8 @@ forms-master-pw-fips-desc = Phetolo ya Khunololamoraba e retetse
 history-header = Motlhala wa tsedifitileng
 history-group =
     .label = Motlhala wa tsedifitileng
+history-mode-radio-group =
+    .aria-label = Motlhala wa tsedifitileng
 
 ## Privacy Section - Site Data
 
@@ -376,4 +375,7 @@ choose-download-folder-title = Tlhopha setsholadifaele sa Kopololo:
 
 
 ## Warnings section
+
+
+## Referrals Section
 

@@ -736,6 +736,8 @@ update-history-2 =
     .accesskey = M
 update-application-installation =
     .label = Instalazion
+update-application-radio-group =
+    .aria-label = Instalazion
 update-application-auto-2 =
     .label = Instale in automatic i inzornaments (conseât)
     .accesskey = a
@@ -897,6 +899,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Plui informazions
 browsing-group =
     .label = Navigazion
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Acès facilitât
 preferences-default-zoom-select =
@@ -1015,6 +1020,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Estension ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Pagjine iniziâl personalizade
 home-custom-homepage-subpage =
     .heading = Pagjine iniziâl personalizade
@@ -1030,6 +1038,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sîts che tu salvis o visitis
 home-prefs-shortcuts-by-option-sponsored =
     .label = Scurtis sponsorizadis
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Conseât di { $provider }
 home-prefs-recommended-by-description-new = Contignûts ecezionâi par cure di { $provider }, part de famee { -brand-product-name }
@@ -1323,6 +1334,11 @@ sync-signedin-login-failure = Jentre par tornâ a coneti { $email }
 sync-signedin-login-failure2 =
     .description = Torne jentre par tornâ a conetiti e inviâ la sincronizazion dai tiei dâts.
     .label = Tu sês disconetût/disconetude di { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1613,6 +1629,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Plui informazions
 forms-windows-sso-desc = Gjestìs i accounts tes tôs impostazions dal dispositîf
 windows-passkey-settings-label = Gjestìs passkeys tes impostazions di sisteme
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Oten assistence par protezi lis tôs informazions in rêt in { -brand-short-name }.
     .label = Impostazions dal panel su la riservatece
@@ -1790,6 +1809,8 @@ history-custom-button =
     .label = Sielç ce che { -brand-short-name } al à di visâsi
 history-group =
     .label = Cronologjie
+history-mode-radio-group =
+    .aria-label = Cronologjie
 history-remember-option-all2 =
     .label = Salve la cronologjie
 
@@ -2023,6 +2044,9 @@ content-blocking-fingerprinters = Rilevadôrs di stamp numeric (fingerprinters)
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Rilevadôrs di stamp numeric cognossûts o suspiets
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Protezion totâl dai cookies al conten i cookies al sît che tu stâs navigant, cussì che i spions no puedin doprâju par stâti daûr tra i sîts.
 content-blocking-etp-standard-tcp-rollout-learn-more = Plui informazions
@@ -2397,6 +2421,8 @@ preferences-doh-status-disabled = Disativât
 preferences-doh-status-not-active = No atîf ({ $reason })
 preferences-doh-group-message = Ative il DNS sigûr doprant:
 preferences-doh-group-message2 = Ative DNS sore HTTPS doprant:
+preferences-doh-radio-group =
+    .aria-label = Ative DNS sore HTTPS doprant:
 preferences-doh-expand-section =
     .tooltiptext = Altris informazions
 preferences-doh-setting-default =
@@ -2626,6 +2652,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = I sîts web a doprin spiis par stâ daûr ai tiei moviments in rêt e par mostrâti publicitât invasive. { -brand-short-name } ti fâs scût intant che tu navighis e ti bloche in automatic lis spiis, cussì che tu âs tu il plen control de tô ativitât digjitâl.
     .label = Protezion miorade da lis spiis
+preferences-etp-level-radio-group =
+    .aria-label = Protezion miorade da lis spiis
 preferences-etp-level-standard =
     .description = Fuarte e afidabile protezion che e funzione ben cu la maiorance dai sîts web.
     .label = Standard (predefinît)
@@ -2653,3 +2681,9 @@ preferences-etp-reload-tabs-hint-button =
     .label = Torne cjame dutis lis schedis
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Isole i cookies inter-sît
+
+## Warnings section
+
+
+## Referrals Section
+

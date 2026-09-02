@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = ᱮᱥᱤᱥᱴᱮᱱᱴ ᱢᱳᱰᱮᱞ
     .description = ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟ ᱚᱱᱟ ᱞᱮᱠᱟᱛᱮ ᱢᱤᱫ ᱢᱚᱰᱮᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ᱾
+smart-window-model-radio-group =
+    .aria-label = ᱮᱥᱤᱥᱴᱮᱱᱴ ᱢᱳᱰᱮᱞ
 smart-window-model-learn-link = ᱢᱳᱰᱮᱞ ᱠᱚ ᱵᱟᱨᱮᱛᱮ ᱥᱮᱪᱮᱫ ᱢᱮ
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

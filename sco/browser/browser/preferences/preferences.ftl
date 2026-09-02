@@ -401,6 +401,15 @@ update-in-progress-ok-button = &Discaird
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Haud Forrit
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -459,6 +468,9 @@ browsing-cfr-recommendations-learn-more = Lairn mair
 browsing-group =
     .label = Stravaigin
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Netwark settins
@@ -509,6 +521,9 @@ choose-bookmark =
 home-homepage-new-tabs =
     .label = New tabs
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -518,6 +533,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sites ye save or veesit
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsored shortcuts
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Recommendit by { $provider }
 home-prefs-recommended-by-description-new = Gallus content pit thegither by { $provider }, pairt o the { -brand-product-name } faimily
@@ -680,6 +698,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } isnae trystmakkit
 sync-signedin-login-failure = Gonnae sign in tae reconnect { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -867,6 +890,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Lairn mair
 forms-windows-sso-desc = Manage accoonts in yer device settins
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -877,6 +903,9 @@ primary-password-os-auth-dialog-message-win = Tae mak a Primary Passwird, inpit 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = mak a Primary Passwird
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -926,6 +955,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = Historie
+history-mode-radio-group =
+    .aria-label = Historie
 
 ## Privacy Section - Site Data
 
@@ -971,6 +1002,12 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = Cookies and Site Data
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1034,6 +1071,9 @@ content-blocking-unvisited-cookies = Cookies fae sites ye hivnae veesitit
 content-blocking-all-windows-tracking-content = Trackin content in aw windaes
 content-blocking-cryptominers = Cryptohowkers
 content-blocking-fingerprinters = Fingirprenters
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-etp-standard-tcp-rollout-learn-more = Lairn mair
 content-blocking-warning-title = Haud the bus!
 content-blocking-and-isolating-etp-warning-description-2 = This settin micht gar some wabsites tae no kythe content or wirk richt. Gin a site luiks mogert, ye micht want tae turn aff trackin bieldin fur thon site tae load aw content.
@@ -1159,6 +1199,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = View { -brand-short-name } studies
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1208,8 +1251,32 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Dinnae yaise HTTPS-Anely Mode
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktap
 downloads-folder-name = Doonloads
 choose-download-folder-title = Wale Doonload Folder:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+

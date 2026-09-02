@@ -738,6 +738,8 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = Installasjon
+update-application-radio-group =
+    .aria-label = Installasjon
 update-application-auto-2 =
     .label = Installer oppdateringer automatisk (anbefalt)
     .accesskey = a
@@ -904,6 +906,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Les mer
 browsing-group =
     .label = Nettlesing
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Tilgjengelighet
 preferences-default-zoom-select =
@@ -1022,6 +1027,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Utvidelse ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Tilpasset startside
 home-custom-homepage-subpage =
     .heading = Tilpasset startside
@@ -1037,6 +1045,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Nettsteder du lagrer eller besøker
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsede snarveier
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Anbefalt av { $provider }
 home-prefs-recommended-by-description-new = Eksepsjonelt innhold satt sammen av { $provider }, en del av { -brand-product-name }-familien
@@ -1350,6 +1361,11 @@ sync-signedin-login-failure = Logg inn for å koble til på nytt { $email }
 sync-signedin-login-failure2 =
     .description = Logg inn igjen for å koble til på nytt og begynne å synkronisere dine data.
     .label = Du er logget ut av { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1640,6 +1656,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Les mer
 forms-windows-sso-desc = Behandle kontoer i dine enhetensinnstillinger
 windows-passkey-settings-label = Behandle passnøkkel i systeminnstillingene
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Få hjelp til å beskytte informasjonen din på nettet i { -brand-short-name }.
     .label = Innstillinger for personvernpanelet
@@ -1838,6 +1857,8 @@ history-custom-button =
     .label = Velg hva du vil at { -brand-short-name } skal huske
 history-group =
     .label = Historikk
+history-mode-radio-group =
+    .aria-label = Historikk
 history-remember-option-all2 =
     .label = Huske historikk
 
@@ -2071,6 +2092,9 @@ content-blocking-fingerprinters = Nettleseravtrykk
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Kjente og mistenkte nettleseravtrykksporere
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Total beskyttelse mot infokapsler isolerer infokapsler til nettstedet du er på, så sporere ikke kan bruke dem til å følge deg mellom nettsteder.
 content-blocking-etp-standard-tcp-rollout-learn-more = Les mer
@@ -2445,6 +2469,8 @@ preferences-doh-status-disabled = Av
 preferences-doh-status-not-active = Ikke aktiv ({ $reason })
 preferences-doh-group-message = Aktiver sikker DNS ved å bruke:
 preferences-doh-group-message2 = Aktiver DNS-over-HTTPS med:
+preferences-doh-radio-group =
+    .aria-label = Aktiver DNS-over-HTTPS med:
 preferences-doh-expand-section =
     .tooltiptext = Mer informasjon
 preferences-doh-setting-default =
@@ -2711,6 +2737,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Nettsteder bruker sporere for å følge deg på nettet og vise påtrengende annonser. { -brand-short-name } beskytter deg mens du surfer ved å blokkere sporere automatisk, slik at du har kontroll over de digitale sporene dine.
     .label = Utvidet sporingsbeskyttelse
+preferences-etp-level-radio-group =
+    .aria-label = Utvidet sporingsbeskyttelse
 preferences-etp-level-standard =
     .description = Sterk og pålitelig beskyttelse som fungerer problemfritt med de fleste nettsteder.
     .label = Standard (standard)

@@ -738,6 +738,8 @@ update-history-2 =
     .accesskey = N
 update-application-installation =
     .label = Asennus
+update-application-radio-group =
+    .aria-label = Asennus
 update-application-auto-2 =
     .label = Asenna päivitykset automaattisesti (suositus)
     .accesskey = A
@@ -904,6 +906,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Lue lisää
 browsing-group =
     .label = Selaus
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Esteettömyys
 preferences-default-zoom-select =
@@ -1026,6 +1031,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Laajennus ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Mukautettu etusivu
 home-custom-homepage-subpage =
     .heading = Mukautettu etusivu
@@ -1041,6 +1049,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Tallentamasi tai vierailemasi sivustot
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsoroidut oikotiet
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Suositukset lähteestä { $provider }
 home-prefs-recommended-by-description-new = Poikkeuksellista, valikoitua sisältöä { $provider }-palvelulta, osana { -brand-product-name }-perhettä
@@ -1354,6 +1365,11 @@ sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $emai
 sync-signedin-login-failure2 =
     .description = Kirjaudu uudelleen sisään käynnistääksesi tietojesi synkronoinnin.
     .label = Olet kirjautunut ulos tililtä { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1644,6 +1660,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Lisätietoja
 forms-windows-sso-desc = Hallinnoi tilejä laitteen asetuksissa
 windows-passkey-settings-label = Hallitse todentamisavaimia järjestelmän asetuksissa
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Apua tietojesi suojaamiseksi verkossa { -brand-short-name }issa.
     .label = Tietosuojapaneelin asetukset
@@ -1842,6 +1861,8 @@ history-custom-button =
     .label = Valitse mitä haluat { -brand-short-name }in muistavan
 history-group =
     .label = Historiatiedot
+history-mode-radio-group =
+    .aria-label = Historiatiedot
 history-remember-option-all2 =
     .label = Muista historia
 
@@ -2075,6 +2096,9 @@ content-blocking-fingerprinters = Yksilöijät
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Tunnetut ja epäillyt yksilöijät
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totaalinen evästesuoja eristää evästeet sivustolle, jolla olet, joten seuraimet eivät voi käyttää niitä seurantaan sivustojen välillä.
 content-blocking-etp-standard-tcp-rollout-learn-more = Lue lisää
@@ -2449,6 +2473,8 @@ preferences-doh-status-disabled = Ei käytössä
 preferences-doh-status-not-active = Ei aktiivinen ({ $reason })
 preferences-doh-group-message = Aseta suojattu DNS päälle käyttämällä:
 preferences-doh-group-message2 = Käytä DNS:ää HTTPS:n välityksellä hyödyntäen:
+preferences-doh-radio-group =
+    .aria-label = Käytä DNS:ää HTTPS:n välityksellä hyödyntäen:
 preferences-doh-expand-section =
     .tooltiptext = Lisätietoja
 preferences-doh-setting-default =
@@ -2715,6 +2741,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Sivustot käyttävät seuraimia käyttäjien seurantaan ja mainosten esittämiseen. { -brand-short-name } suojaa sinut, kun selaat, estäen seuraimet automaattisesti, asettaen digitaalisen jalanjälkesi hallintaasi.
     .label = Tehostettu seurannan suojaus
+preferences-etp-level-radio-group =
+    .aria-label = Tehostettu seurannan suojaus
 preferences-etp-level-standard =
     .description = Vahva, luotettava suojaus, joka toimii useimpien verkkosivustojen kanssa.
     .label = Tavallinen (oletus)

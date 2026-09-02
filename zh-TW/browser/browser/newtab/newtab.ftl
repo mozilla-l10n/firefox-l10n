@@ -510,6 +510,9 @@ newtab-topsites-image-url-label = 自訂圖片網址
 newtab-topsites-use-custom-image-link = 使用自訂圖片
 newtab-topsites-use-image-link = 使用自訂圖片…
 newtab-topsites-image-validation = 圖片載入失敗，請改用不同網址。
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = 清除文字
 
@@ -864,6 +867,9 @@ newtab-custom-close-menu-button =
     .title = 關閉
 newtab-custom-close-button = 關閉
 newtab-custom-settings = 管理更多設定
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = 外觀設定
 # Button that opens the full browser theme selection view.
@@ -981,6 +987,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1113,6 +1122,12 @@ newtab-section-unfollow-button-label =
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = 微調您的資訊來源
 newtab-section-follow-highlight-subtitle = 追蹤您有興趣的項目，看更多想看的內容。
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = 主題
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1376,6 +1391,9 @@ newtab-promo-card-cta = 更多資訊
 newtab-promo-card-dismiss-button =
     .aria-label = 知道了！
     .title = 知道了！
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

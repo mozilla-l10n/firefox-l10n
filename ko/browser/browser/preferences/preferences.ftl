@@ -726,6 +726,8 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = 설치
+update-application-radio-group =
+    .aria-label = 설치
 update-application-auto-2 =
     .label = 자동으로 업데이트 설치 (권장)
     .accesskey = A
@@ -892,6 +894,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 더 알아보기
 browsing-group =
     .label = 탐색
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = 접근성
 preferences-default-zoom-select =
@@ -1010,6 +1015,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = 확장 기능 ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = 사용자 지정 홈페이지
 home-custom-homepage-subpage =
     .heading = 사용자 지정 홈페이지
@@ -1025,6 +1033,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = 저장하거나 방문한 사이트
 home-prefs-shortcuts-by-option-sponsored =
     .label = 스폰서 바로 가기
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = { $provider } 추천
 home-prefs-recommended-by-description-new = { -brand-product-name } 제품군의 일부인 { $provider }에서 선별한 뛰어난 콘텐츠
@@ -1334,6 +1345,11 @@ sync-signedin-login-failure = { $email }으로 다시 연결하려면 로그인�
 sync-signedin-login-failure2 =
     .description = 다시 연결하고 데이터 동기화를 시작하려면 다시 로그인하세요.
     .label = { $email }에서 로그아웃됨
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1624,6 +1640,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 더 알아보기
 forms-windows-sso-desc = 기기 설정에서 계정 관리를 합니다.
 windows-passkey-settings-label = 시스템 설정에서 패스키 관리
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = { -brand-short-name }에서 온라인 개인 정보 보호에 대한 도움을 받으세요.
     .label = 개인 정보 패널 설정
@@ -1822,6 +1841,8 @@ history-custom-button =
     .label = { -brand-short-name }가 기억할 항목을 선택하세요
 history-group =
     .label = 기록
+history-mode-radio-group =
+    .aria-label = 기록
 history-remember-option-all2 =
     .label = 기록 기억
 
@@ -2055,6 +2076,9 @@ content-blocking-fingerprinters = 디지털 지문
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = 알려지거나 의심되는 디지털 지문
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = 전체 쿠키 보호는 사용자가 있는 사이트에 대한 쿠키가 포함되어 있으므로, 추적기가 사이트 간에 사용자를 팔로우하는 데 쿠키를 사용할 수 없습니다.
 content-blocking-etp-standard-tcp-rollout-learn-more = 더 알아보기
@@ -2429,6 +2453,8 @@ preferences-doh-status-disabled = 꺼짐
 preferences-doh-status-not-active = 활성 안 됨 ({ $reason })
 preferences-doh-group-message = 보안 DNS 활성화 수준:
 preferences-doh-group-message2 = DNS over HTTPS 보호 수준:
+preferences-doh-radio-group =
+    .aria-label = DNS over HTTPS 보호 수준:
 preferences-doh-expand-section =
     .tooltiptext = 추가 정보
 preferences-doh-setting-default =
@@ -2691,6 +2717,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = 사이트에서는 추적기를 사용하여 온라인에서 사용자를 추적하고 불쾌한 광고를 표시합니다. { -brand-short-name }는 탐색하는 동안 사용자를 보호하고 추적기를 자동으로 차단하여 디지털 흔적을 제어할 수 있도록 합니다.
     .label = 향상된 추적 방지 기능
+preferences-etp-level-radio-group =
+    .aria-label = 향상된 추적 방지 기능
 preferences-etp-level-standard =
     .description = 대부분의 웹 사이트에서 원활하게 작동하는 강력하고 안정적인 보호 기능입니다.
     .label = 표준 (기본값)

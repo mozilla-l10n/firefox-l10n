@@ -29,6 +29,8 @@ ai-window-open-sidebar =
 smart-window-model-section =
     .label = Patrom skoazeller
     .description = Dibabit ur patrom hervez ar pezh a zo pouezus deoc'h.
+smart-window-model-radio-group =
+    .aria-label = Patrom skoazeller
 smart-window-model-learn-link = Gouzout hiroc'h a-zivout ar patromoù
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -47,3 +49,9 @@ smart-window-model-personal =
     .description = Patrom { $model } gant { $ownerName }
 smart-window-model-custom =
     .label = Personelaet: Implijit ho LLM deoc'h c'hwi
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+

@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Modello de assistente
     .description = Elige un modello basate sur lo que es importante pro te.
+smart-window-model-radio-group =
+    .aria-label = Modello de assistente
 smart-window-model-learn-link = Saper plus re modellos
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

@@ -744,6 +744,8 @@ update-history-2 =
     .accesskey = h
 update-application-installation =
     .label = Instalacija
+update-application-radio-group =
+    .aria-label = Instalacija
 update-application-auto-2 =
     .label = Aktualizacije awtomatiski instalěrowaś (dopórucone)
     .accesskey = A
@@ -910,6 +912,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Dalšne informacije
 browsing-group =
     .label = Pśeglědowanje
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Bźezbariernosć
 preferences-default-zoom-select =
@@ -1028,6 +1033,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Rozšyrjenje ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Swójski startowy bok
 home-custom-homepage-subpage =
     .heading = Swójski startowy bok
@@ -1043,6 +1051,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponserowane zwězanja
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Wót { $provider } dopórucony
 home-prefs-recommended-by-description-new = Wósebne wopśimjeśe, wubrane pśez { $provider }, źěla swójźby { -brand-product-name }
@@ -1358,6 +1369,11 @@ sync-signedin-login-failure = Pšosym zregistrěrujśo se, aby znowego zwězał 
 sync-signedin-login-failure2 =
     .description = Pśizjawśo se zasej, aby zasej zwězał a zachopśo swóje daty synchronizěrowaś.
     .label = Sćo wót { $email } wótzjawjony
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1648,6 +1664,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Dalšne informacije
 forms-windows-sso-desc = Konta we wašych rědowych nastajenjach zastojaś
 windows-passkey-settings-label = Gronidłowe kluce w systemowych nastajenjach zastojaś
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Wobstarajśo se pomoc, aby swóje informacije online w { -brand-short-name } šćitał.
     .label = Nastajenja wokna priwatnosći
@@ -1846,6 +1865,8 @@ history-custom-button =
     .label = Wubjeŕśo, což { -brand-short-name } ma se spomjeś
 history-group =
     .label = Historija
+history-mode-radio-group =
+    .aria-label = Historija
 history-remember-option-all2 =
     .label = Se historiju spomnjeś
 
@@ -2079,6 +2100,9 @@ content-blocking-fingerprinters = Zběrarje palcowych wótśišćow
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Znate a suspektne zběrarje palcowych wótśišćow
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Dopołny cookiejowy šćit cookieje k sedłoju, na kótaremž sćo, aby pśeslědowaki njemógli je wužywaś, aby was na rozdźělnych sedłach slědowali.
 content-blocking-etp-standard-tcp-rollout-learn-more = Dalšne informacije
@@ -2453,6 +2477,8 @@ preferences-doh-status-disabled = Wušaltowany
 preferences-doh-status-not-active = Njeaktiwny ({ $reason })
 preferences-doh-group-message = Wěsty DNS zmóžniś z pomocu:
 preferences-doh-group-message2 = DNS pśez HTTPS zmóžniś z pomocu:
+preferences-doh-radio-group =
+    .aria-label = DNS pśez HTTPS zmóžniś z pomocu:
 preferences-doh-expand-section =
     .tooltiptext = Dalšne informacije
 preferences-doh-setting-default =
@@ -2721,6 +2747,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Sedła pśeslědowaki wužywaju, kótarež wam online slěduju a grozne wabjenje pokazuju. { -brand-short-name } was šćita, gaž pśeglědujośo a blokěrujo pśeslědowaki awtomatiski, aby kontrolu nad swójimi digitalnymi slědami měł.
     .label = Pólěpšony slědowański šćit
+preferences-etp-level-radio-group =
+    .aria-label = Pólěpšony slědowański šćit
 preferences-etp-level-standard =
     .description = Mócny, spušćobny šćit, kótaryž bźez śěžow z nejwěcej websedłami funkcioněrujo.
     .label = Standard

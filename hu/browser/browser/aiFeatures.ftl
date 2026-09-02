@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Asszisztens modellje
     .description = Válasszon egy modellt az alapján, hogy mi a fontos Önnek
+smart-window-model-radio-group =
+    .aria-label = Asszisztens modellje
 smart-window-model-learn-link = Tudjon meg többet a modellekről
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

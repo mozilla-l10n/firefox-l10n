@@ -19,6 +19,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Palīga modelis
     .description = Modeļa izvēlēšanās pēc sev svarīgām prasībām.
+smart-window-model-radio-group =
+    .aria-label = Palīga modelis
 smart-window-model-learn-link = Uzzināt par modeļiem
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -38,3 +40,9 @@ ai-window-delete-all-memories-cancel = Atcelt
 ai-window-memory-delete-button =
     .title = Dzēst atmiņu
     .aria-label = Dzēst { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+

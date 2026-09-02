@@ -107,9 +107,6 @@ applications-use-other-label =
 ## Custom Homepage subpage
 
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 
@@ -196,6 +193,8 @@ sync-engine-history =
 history-header = Mbiri
 history-group =
     .label = Mbiri
+history-mode-radio-group =
+    .aria-label = Mbiri
 
 ## Privacy Section - Site Data
 
@@ -271,4 +270,7 @@ addressbar-locbar-bookmarks-option =
 
 
 ## Warnings section
+
+
+## Referrals Section
 

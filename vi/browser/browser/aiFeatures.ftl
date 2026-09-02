@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Mô hình của trợ lý
     .description = Hãy chọn một mô hình dựa trên những gì quan trọng đối với bạn.
+smart-window-model-radio-group =
+    .aria-label = Mô hình của trợ lý
 smart-window-model-learn-link = Tìm hiểu thêm về mô hình
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

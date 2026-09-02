@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = ਸਹਾਇਕ ਮਾਡਲ
     .description = ਜੋ ਤੁਹਾਡੇ ਲਈ ਸਹੀ ਹੋਵੇ, ਉਹ ਮਾਡਲ ਨੂੰ ਚੁਣੋ।
+smart-window-model-radio-group =
+    .aria-label = ਸਹਾਇਕ ਮਾਡਲ
 smart-window-model-learn-link = ਮਾਡਲਾਂ ਬਾਰੇ ਜਾਣੋ
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

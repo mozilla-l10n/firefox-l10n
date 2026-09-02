@@ -542,6 +542,9 @@ newtab-topsites-image-url-label = URL de l’image personnalisée
 newtab-topsites-use-custom-image-link = Utiliser une image personnalisée
 newtab-topsites-use-image-link = Utiliser une image personnalisée…
 newtab-topsites-image-validation = Échec du chargement de l’image. Essayez avec une autre URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Effacer le texte
 
@@ -896,6 +899,9 @@ newtab-custom-close-menu-button =
     .title = Fermer
 newtab-custom-close-button = Fermer
 newtab-custom-settings = Gérer plus de paramètres
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Apparence
 # Button that opens the full browser theme selection view.
@@ -1013,6 +1019,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1145,6 +1154,12 @@ newtab-section-unfollow-button-label =
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Personnalisez votre fil
 newtab-section-follow-highlight-subtitle = Suivez vos centres d’intérêt pour découvrir davantage de contenus qui vous plaisent.
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = Sujets
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1408,6 +1423,9 @@ newtab-promo-card-cta = En apprendre davantage
 newtab-promo-card-dismiss-button =
     .aria-label = Ignorer
     .title = Ignorer
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Model dal assistent
     .description = Sielç un model in base a ce che al è impuartant par te.
+smart-window-model-radio-group =
+    .aria-label = Model dal assistent
 smart-window-model-learn-link = Altris informazions sui modei
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -95,3 +97,9 @@ ai-window-delete-all-memories-cancel = Anule
 ai-window-memory-delete-button =
     .title = Elimine memorie
     .aria-label = Elimine { $label }
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+

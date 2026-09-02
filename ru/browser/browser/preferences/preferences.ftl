@@ -741,6 +741,8 @@ update-history-2 =
     .accesskey = ж
 update-application-installation =
     .label = Установка
+update-application-radio-group =
+    .aria-label = Установка
 update-application-auto-2 =
     .label = Автоматически устанавливать обновления (рекомендуется)
     .accesskey = Ф
@@ -907,6 +909,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Подробнее
 browsing-group =
     .label = Просмотр сети
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Поддержка доступности
 preferences-default-zoom-select =
@@ -1025,6 +1030,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Расширение ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Настраиваемая домашняя страница
 home-custom-homepage-subpage =
     .heading = Настраиваемая домашняя страница
@@ -1040,6 +1048,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Сохранённые или посещаемые сайты
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонсируемые ярлыки
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Рекомендовано { $provider }
 home-prefs-recommended-by-description-new = Особый контент, курируемый { $provider }, частью семейства { -brand-product-name }
@@ -1354,6 +1365,11 @@ sync-signedin-login-failure = Войдите для повтора соедин�
 sync-signedin-login-failure2 =
     .description = Войдите снова, чтобы переподключиться и начать синхронизацию ваших данных.
     .label = Вы вышли из { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1644,6 +1660,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Подробнее
 forms-windows-sso-desc = Управление аккаунтами в настройках вашего устройства
 windows-passkey-settings-label = Управление ключами доступа в системных настройках
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Получите помощь по защите вашей информации онлайн в { -brand-short-name }.
     .label = Настройки панели приватности
@@ -1842,6 +1861,8 @@ history-custom-button =
     .label = Выберите, что { -brand-short-name } должен запоминать
 history-group =
     .label = История
+history-mode-radio-group =
+    .aria-label = История
 history-remember-option-all2 =
     .label = Запоминать историю
 
@@ -2075,6 +2096,9 @@ content-blocking-fingerprinters = Сборщики цифровых отпеча
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Известные и предполагаемые сборщики цифровых отпечатков
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Полная защита от кук ограничивает работу кук сайтом, на котором вы находитесь, чтобы трекеры не могли использовать их для слежки за вами от сайта к сайту.
 content-blocking-etp-standard-tcp-rollout-learn-more = Подробнее
@@ -2449,6 +2473,8 @@ preferences-doh-status-disabled = Отключено
 preferences-doh-status-not-active = Неактивно ({ $reason })
 preferences-doh-group-message = Включить безопасный DNS, используя:
 preferences-doh-group-message2 = Включить DNS через HTTPS, используя:
+preferences-doh-radio-group =
+    .aria-label = Включить DNS через HTTPS, используя:
 preferences-doh-expand-section =
     .tooltiptext = Подробная информация
 preferences-doh-setting-default =
@@ -2716,6 +2742,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Сайты используют трекеры, чтобы следить за вами в интернете и показывать жуткую рекламу. { -brand-short-name } защищает вас во время просмотра, автоматически блокируя трекеры, чтобы вы могли контролировать свой цифровой след.
     .label = Улучшенная защита от отслеживания
+preferences-etp-level-radio-group =
+    .aria-label = Улучшенная защита от отслеживания
 preferences-etp-level-standard =
     .description = Надежная защита, которая безотказно работает с большинством веб-сайтов.
     .label = Стандартная (по умолчанию)

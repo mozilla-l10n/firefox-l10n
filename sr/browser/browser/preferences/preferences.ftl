@@ -786,6 +786,8 @@ update-history-2 =
     .accesskey = П
 update-application-installation =
     .label = Инсталација
+update-application-radio-group =
+    .aria-label = Инсталација
 update-application-auto-2 =
     .label = Самостално инсталирај ажурирања (препоручено)
     .accesskey = а
@@ -964,6 +966,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Сазнајте више
 browsing-group =
     .label = Прегледање
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Приступачност
 preferences-default-zoom-select =
@@ -1082,6 +1087,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Додатак ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Прилагођена почетна страница
 home-custom-homepage-subpage =
     .heading = Прилагођена почетна страница
@@ -1097,6 +1105,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Сачувани или посећени сајтови
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонзорисане пречице
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Предложио { $provider }
 home-prefs-recommended-by-description-new = Изузетан садржај који је уредио { $provider }, део { -brand-product-name } породице
@@ -1399,6 +1410,11 @@ sync-signedin-login-failure = Пријавите се да поново пове
 sync-signedin-login-failure2 =
     .description = Пријавите се поново да бисте се поново повезали и започели усклађивање својих података.
     .label = Одјављени сте са { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1689,6 +1705,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Сазнајте више
 forms-windows-sso-desc = Управљајте налозима у подешавањима вашег уређаја
 windows-passkey-settings-label = Управљајте приступним кључевима у системским подешавањима
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Прибавите помоћ за заштиту ваших информација на мрежи у { -brand-short-name }-у.
     .label = Подешавања површи приватности
@@ -1893,6 +1912,8 @@ history-custom-button =
     .label = Изаберите шта желите да { -brand-short-name } запамти
 history-group =
     .label = Историја
+history-mode-radio-group =
+    .aria-label = Историја
 history-remember-option-all2 =
     .label = Памти историјат
 
@@ -2138,6 +2159,9 @@ content-blocking-fingerprinters = Сакупљачи дигиталних оти
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Познати и сумњиви сакупљачи дигиталних отисака
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Свеобухватна заштита од колачића везује колачиће за сајт на ком се тренутно налазите, тако да елементи за праћење не могу да их користе за даље праћење.
 content-blocking-etp-standard-tcp-rollout-learn-more = Сазнајте више
@@ -2530,6 +2554,8 @@ preferences-doh-status-disabled = Искључено
 preferences-doh-status-not-active = Није активно ({ $reason })
 preferences-doh-group-message = Омогућите безбедни DNS преко:
 preferences-doh-group-message2 = Омогући DNS преко HTTPS-а користећи:
+preferences-doh-radio-group =
+    .aria-label = Омогући DNS преко HTTPS-а користећи:
 preferences-doh-expand-section =
     .tooltiptext = Више информација
 preferences-doh-setting-default =
@@ -2794,6 +2820,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Веб сајтови користе пратиоце како би вас пратили на мрежи и приказивали вам нападне огласе. { -brand-short-name } вас штити док прегледате веб, аутоматски блокирајући пратиоце како бисте имали контролу над својим дигиталним трагом.
     .label = Побољшана заштита од праћења
+preferences-etp-level-radio-group =
+    .aria-label = Побољшана заштита од праћења
 preferences-etp-level-standard =
     .description = Јака и поуздана заштита која несметано ради са већином веб сајтова.
     .label = Стандардна (подразумевано)

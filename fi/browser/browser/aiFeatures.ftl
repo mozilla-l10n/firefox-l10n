@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Avustajamalli
     .description = Valitse malli tarpeidesi pohjalta.
+smart-window-model-radio-group =
+    .aria-label = Avustajamalli
 smart-window-model-learn-link = Lue lisää malleista
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

@@ -81,6 +81,17 @@ should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാര�
 cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
@@ -418,6 +429,12 @@ update-in-progress-ok-button = &കളയുക
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &തുടരുക
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-get-help =
@@ -470,6 +487,9 @@ browsing-media-control-learn-more = കൂടുതല്‍ അറിയുക
 browsing-cfr-recommendations-learn-more = കൂടുതല്‍ അറിയുക
 browsing-group =
     .label = തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -543,6 +563,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = വിപുലീകരണം ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = ഇഷ്ടാനുസൃത പൂമുഖത്താൾ
 home-custom-homepage-subpage =
     .heading = ഇഷ്ടാനുസൃത പൂമുഖത്താൾ
@@ -557,6 +580,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
 home-prefs-shortcuts-by-option-sponsored =
     .label = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കുറുക്കുവഴികൾ
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = { $provider } ശുപാർശ ചെയ്തത്
 home-prefs-recommended-by-header-generic =
@@ -718,6 +744,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ഉറപ്പാക്കിയിട്ടില്ല.
 sync-signedin-login-failure = വീണ്ടും കണക്ട് ചെയ്യുന്നതിന് പ്രവേശിയ്ക്കുക { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -915,6 +946,9 @@ forms-master-pw-fips-desc = ഒളിവാക്കുമാറ്റം പര
 forms-windows-sso-learn-more-link = കൂടുതലറിയുക
 forms-windows-sso-desc = ഉപകരണ ക്രമീകരണങ്ങളിൽ അക്കൗണ്ടുകൾ കൈകാര്യം ചെയ്യുക
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
@@ -996,6 +1030,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = നാള്‍വഴി
+history-mode-radio-group =
+    .aria-label = നാള്‍വഴി
 
 ## Privacy Section - Site Data
 
@@ -1011,6 +1047,9 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = കുക്കികളും സൈറ്റ് ഡാറ്റയും
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1092,6 +1131,9 @@ content-blocking-fingerprinters = വിരലടയാളങ്ങൾ
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = അറിയപ്പെടുന്നതും സംശയിക്കപ്പെടുന്നതുമായ വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രം
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-etp-standard-tcp-rollout-learn-more = കൂടുതലറിയുക
 content-blocking-warning-title = മുന്നറിയിപ്പ്
 content-blocking-warning-learn-how = എങ്ങനെയെന്നറിയാം
@@ -1118,6 +1160,9 @@ content-blocking-known-fingerprinters-label =
 content-blocking-suspected-fingerprinters-label =
     .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
     .accesskey = വ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -1264,13 +1309,31 @@ preferences-doh-setting-off =
     .label = അണച്ചതു്
     .accesskey = അ
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ഉപരിഫലകം
 downloads-folder-name = ഇറക്കിവയ്ക്കലുകൾ
 choose-download-folder-title = ഇറക്കിവയ്പ്പറ തിരഞ്ഞെടുക്കുക
 
+## Appearance page
+
+
 ## AI controls page
 
 preferences-ai-controls-block-confirmation-cancel =
     .label = റദ്ദാക്കുക
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
+
+## Referrals Section
+

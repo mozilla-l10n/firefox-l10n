@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Pytyvõhára recharã
     .description = Eiporavo peteĩ techarã umi mbaʼe emomba’evéva rupi.
+smart-window-model-radio-group =
+    .aria-label = Pytyvõhára recharã
 smart-window-model-learn-link = Eikuaa techarã rehegua
 
 ## Full name indicates the full version name of the model currently listed along with its publisher

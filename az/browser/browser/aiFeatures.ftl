@@ -11,6 +11,8 @@ ai-window-default-section =
 smart-window-model-section =
     .label = Köməkçi modeli
     .description = Sizin üçün nəyin önəmli olmasına görə bir model seçin.
+smart-window-model-radio-group =
+    .aria-label = Köməkçi modeli
 smart-window-model-learn-link = Modellər haqqında öyrənin
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -56,3 +58,9 @@ ai-window-delete-all-memories-button =
 ai-window-delete-all-memories-title = Bütün xatirələr silinsin?
 ai-window-delete-all-memories-confirm = Sil
 ai-window-delete-all-memories-cancel = Ləğv et
+
+## Full name indicates the full version name of the model currently listed along with its publisher
+##   $shortName (string) - The display name of the model collection
+##   $model (string) - The name of the AI model
+##   $ownerName (String) - The name of owner of the AI model
+

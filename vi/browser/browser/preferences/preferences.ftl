@@ -724,6 +724,8 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = Cài đặt
+update-application-radio-group =
+    .aria-label = Cài đặt
 update-application-auto-2 =
     .label = Tự động cài đặt các bản cập nhật (được đề xuất)
     .accesskey = A
@@ -890,6 +892,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Tìm hiểu thêm
 browsing-group =
     .label = Duyệt
+
+## Accessibility page
+
 preferences-accessibility-header =
     .heading = Trợ năng
 preferences-default-zoom-select =
@@ -1008,6 +1013,9 @@ home-custom-homepage-bookmarks-button =
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = Tiện ích mở rộng ({ $extension })
+
+## Custom Homepage subpage
+
 home-custom-homepage-header = Tùy chỉnh trang chủ
 home-custom-homepage-subpage =
     .heading = Tùy chỉnh trang chủ
@@ -1023,6 +1031,9 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Các trang web bạn lưu hoặc truy cập
 home-prefs-shortcuts-by-option-sponsored =
     .label = Các lối tắt được tài trợ
+
+## Home Section - Firefox Home Content Customization
+
 home-prefs-recommended-by-header =
     .label = Được đề xuất bởi { $provider }
 home-prefs-recommended-by-description-new = Nội dung đặc biệt do { $provider }, một phần của { -brand-product-name }, quản lý
@@ -1332,6 +1343,11 @@ sync-signedin-login-failure = Xin hãy đăng nhập để kết nối lại { $
 sync-signedin-login-failure2 =
     .description = Đăng nhập lại để kết nối lại và bắt đầu đồng bộ hóa dữ liệu của bạn.
     .label = Bạn đã đăng xuất khỏi { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -1622,6 +1638,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Tìm hiểu thêm
 forms-windows-sso-desc = Quản lý tài khoản trong cài đặt thiết bị của bạn
 windows-passkey-settings-label = Quản lý passkey trong cài đặt hệ thống
+
+## Privacy Panel Settings
+
 privacy-panel-settings-header =
     .description = Nhận trợ giúp bảo vệ thông tin trực tuyến của bạn tại { -brand-short-name }.
     .label = Bảng cài đặt quyền riêng tư
@@ -1820,6 +1839,8 @@ history-custom-button =
     .label = Hãy chọn những gì bạn muốn { -brand-short-name } ghi nhớ
 history-group =
     .label = Lịch sử
+history-mode-radio-group =
+    .aria-label = Lịch sử
 history-remember-option-all2 =
     .label = Ghi nhớ lịch sử
 
@@ -2053,6 +2074,9 @@ content-blocking-fingerprinters = Dấu vết (Fingerprintng)
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Dấu vết đã biết và đáng ngờ
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Trình chống cookie chung chứa các cookie cho trang web bạn đang truy cập, vì vậy, trình theo dõi không thể sử dụng chúng để theo dõi bạn giữa các trang web.
 content-blocking-etp-standard-tcp-rollout-learn-more = Tìm hiểu thêm
@@ -2427,6 +2451,8 @@ preferences-doh-status-disabled = Đã tắt
 preferences-doh-status-not-active = Không hoạt động ({ $reason })
 preferences-doh-group-message = Kích hoạt DNS an toàn sử dụng:
 preferences-doh-group-message2 = Bật DNS trên HTTPS sử dụng:
+preferences-doh-radio-group =
+    .aria-label = Bật DNS trên HTTPS sử dụng:
 preferences-doh-expand-section =
     .tooltiptext = Thông tin chi tiết
 preferences-doh-setting-default =
@@ -2686,6 +2712,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Các trang web sử dụng trình theo dõi để theo dõi bạn trực tuyến và hiển thị quảng cáo gây khó chịu. { -brand-short-name } bảo vệ bạn khi bạn duyệt web, tự động chặn trình theo dõi để bạn kiểm soát được dấu vết kỹ thuật số của mình.
     .label = Trình chống theo dõi nâng cao
+preferences-etp-level-radio-group =
+    .aria-label = Trình chống theo dõi nâng cao
 preferences-etp-level-standard =
     .description = Biện pháp bảo vệ mạnh mẽ, đáng tin cậy, hoạt động mượt mà với hầu hết các trang web.
     .label = Tiêu chuẩn (mặc định)

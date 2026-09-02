@@ -207,6 +207,9 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokkearret trackers wylst jo sneupe. Jo sjogge se hjir.
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -482,6 +485,10 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Mear ynfo
 
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -529,6 +536,9 @@ newtab-topsites-image-url-label = URL fan oanpaste ôfbylding
 newtab-topsites-use-custom-image-link = In oanpaste ôfbylding brûke
 newtab-topsites-use-image-link = In oanpaste ôfbylding brûke…
 newtab-topsites-image-validation = Ofbylding koe net laden wurde. Probearje in oare URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Tekst wiskje
 
@@ -875,6 +885,9 @@ newtab-custom-close-menu-button =
     .title = Slute
 newtab-custom-close-button = Slute
 newtab-custom-settings = Mear ynstellingen beheare
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Uterlik
 # Button that opens the full browser theme selection view.
@@ -992,6 +1005,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1124,6 +1140,12 @@ newtab-section-unfollow-button-label =
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Jo feed ferfynje
 newtab-section-follow-highlight-subtitle = Folgje jo ynteressen om mear te sjen fan dêr’t jo wol oer meie.
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = Underwerpen
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1387,6 +1409,9 @@ newtab-promo-card-cta = Mear ynfo
 newtab-promo-card-dismiss-button =
     .aria-label = Slute
     .title = Slute
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
