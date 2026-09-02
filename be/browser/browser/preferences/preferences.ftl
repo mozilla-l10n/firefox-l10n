@@ -1861,6 +1861,8 @@ history-custom-button =
     .label = Выбраць, што вы хочаце, каб { -brand-short-name } запамінаў
 history-group =
     .label = Гісторыя
+history-mode-radio-group =
+    .aria-label = Гісторыя
 history-remember-option-all2 =
     .label = Памятаць гісторыю
 
@@ -2740,6 +2742,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Сайты выкарыстоўваюць трэкеры, каб сачыць за вамі ў інтэрнэце і паказваць злавесную рэкламу. { -brand-short-name } ахоўвае вас у часе аглядання, аўтаматычна блакуючы трэкеры, каб ваш лічбавы след быў пад вашым кантролем.
     .label = Узмоцненая ахова ад сачэння
+preferences-etp-level-radio-group =
+    .aria-label = Узмоцненая ахова ад сачэння
 preferences-etp-level-standard =
     .description = Моцная, надзейная ахова, якая працуе гладка з большасцю сайтаў.
     .label = Стандартная (прадвызначана)
