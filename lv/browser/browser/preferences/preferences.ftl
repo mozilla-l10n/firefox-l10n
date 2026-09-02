@@ -1345,6 +1345,8 @@ history-custom-section-header =
     .label = Paplašinātie iestatījumi
 history-group =
     .label = Vēsture
+history-mode-radio-group =
+    .aria-label = Vēsture
 
 ## Privacy Section - Site Data
 
