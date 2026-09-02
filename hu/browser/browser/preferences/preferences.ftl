@@ -1855,6 +1855,8 @@ history-custom-button =
     .label = Válasszon, hogy a { -brand-short-name } mit jegyezzen meg
 history-group =
     .label = Előzmények
+history-mode-radio-group =
+    .aria-label = Előzmények
 history-remember-option-all2 =
     .label = Megjegyzi az előzményeket
 
@@ -2730,6 +2732,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = A webhelyek követőket használnak, hogy kövessék online és reklámokat jelenítsenek meg. A { -brand-short-name } megvédi böngészés közben, és automatikusan blokkolja a követőket, így mindig az Ön kezében van a digitális nyoma feletti irányítás.
     .label = Fokozott követés elleni védelem
+preferences-etp-level-radio-group =
+    .aria-label = Fokozott követés elleni védelem
 preferences-etp-level-standard =
     .description = Erős, megbízható védelem, amely zökkenőmentesen működik a legtöbb webhelyen.
     .label = Szokásos (alapértelmezett)
