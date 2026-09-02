@@ -1645,6 +1645,8 @@ history-header2 =
     .heading = Таърих
 history-group =
     .label = Таърих
+history-mode-radio-group =
+    .aria-label = Таърих
 history-remember-option-all2 =
     .label = Дар хотир доштани таърих
 
