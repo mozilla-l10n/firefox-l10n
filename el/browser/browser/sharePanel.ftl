@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Ο σύνδεσμος αντιγράφηκε
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Κοινοποίηση μέσω Windows…
+            [macos] Κοινοποίηση μέσω Mac…
+           *[other] Κοινοποίηση μέσω…
+        }
 share-panel-os-share =
     .label = Κοινή χρήση με…
 share-panel-mail =
     .label = Αποστολή email
 share-panel-screenshot =
     .label = Λήψη στιγμιότυπου οθόνης
+share-panel-qr-code-2 =
+    .label = Δημιουργία κωδικού QR
 share-panel-qr-code =
     .label = Κοινοποίηση κωδικού QR
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Αποστολή σε κινητή συσκευή
 share-panel-device-subview =
     .title = Όλες οι συσκευές
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Προσθήκη συσκευής
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =
