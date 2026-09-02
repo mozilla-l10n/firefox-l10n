@@ -1857,6 +1857,8 @@ history-custom-button =
     .label = Wählen Sie aus, was { -brand-short-name } speichern soll
 history-group =
     .label = Chronik
+history-mode-radio-group =
+    .aria-label = Chronik
 history-remember-option-all2 =
     .label = Chronik anlegen
 
@@ -2735,6 +2737,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Websites verwenden Tracker, um Sie online zu verfolgen und Ihnen gruselige Werbung anzuzeigen. { -brand-short-name } schützt Sie beim Surfen und blockiert Tracker automatisch, sodass Sie die Kontrolle über Ihre digitalen Spuren behalten.
     .label = Verbesserter Tracking-Schutz
+preferences-etp-level-radio-group =
+    .aria-label = Verbesserter Tracking-Schutz
 preferences-etp-level-standard =
     .description = Starke, zuverlässige Schutzmaßnahmen, die mit den meisten Websites reibungslos funktionieren.
     .label = Standard (Voreinstellung)
