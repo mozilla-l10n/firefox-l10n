@@ -1794,6 +1794,8 @@ history-custom-button =
     .label = Seleccione qué quiere que { -brand-short-name } recuerde
 history-group =
     .label = Historial
+history-mode-radio-group =
+    .aria-label = Historial
 history-remember-option-all2 =
     .label = Recordar el historial
 
