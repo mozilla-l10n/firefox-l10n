@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Modelo de la asistanto
     .description = Elektu modelon surbaze de tio, kio gravas por vi.
+smart-window-model-radio-group =
+    .aria-label = Modelo de la asistanto
 smart-window-model-learn-link = Pli da informo pri modeloj
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
