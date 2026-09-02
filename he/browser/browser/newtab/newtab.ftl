@@ -535,6 +535,9 @@ newtab-topsites-image-url-label = כתובת תמונה מותאמת אישית
 newtab-topsites-use-custom-image-link = שימוש בתמונה מותאמת אישית
 newtab-topsites-use-image-link = שימוש בתמונה מותאמת אישית…
 newtab-topsites-image-validation = טעינת התמונה נכשלה. נא לנסות כתובת שונה.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = ניקוי טקסט
 
@@ -887,6 +890,9 @@ newtab-custom-close-menu-button =
     .title = סגירה
 newtab-custom-close-button = סגירה
 newtab-custom-settings = ניהול הגדרות נוספות
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = מראה
 # Button that opens the full browser theme selection view.
@@ -1004,6 +1010,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1136,6 +1145,12 @@ newtab-section-unfollow-button-label =
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = כיוונון הפיד שלך
 newtab-section-follow-highlight-subtitle = ניתן לעקוב אחר תחומי העניין שלך כדי לראות עוד ממה שאהוב עליך.
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = נושאים
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1403,6 +1418,9 @@ newtab-promo-card-cta = מידע נוסף
 newtab-promo-card-dismiss-button =
     .aria-label = סגירה
     .title = סגירה
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
