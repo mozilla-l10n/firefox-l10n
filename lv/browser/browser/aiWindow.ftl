@@ -43,6 +43,8 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = Laipni lūdzam { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Kas Tev ir svarīgs?
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Ieteikts
 aiwindow-firstrun-button = Aiziet
 aiwindow-firstrun-back-button = Atpakaļ
 

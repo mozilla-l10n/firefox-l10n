@@ -55,23 +55,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Meklēt atjauninājumus
-    .accesskey = M
     .tooltiptext = Meklēt atjauninājumus šim papildinājumam
+    .accesskey = M
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Iestatījumi
            *[other] Iestatījumi
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] I
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Izmainīt šī papildinājuma iestatījumus
            *[other] Izmainīt šī papildinājuma iestatījumus
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
         }
 detail-rating =
     .value = Vērtējums
@@ -133,10 +133,6 @@ addon-updates-check-for-updates = Meklēt atjauninājumus
     .accesskey = M
 addon-updates-view-updates = Aplūkot nesenos atjauninājumus
     .accesskey = n
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Atjaunināt papildinājumus automātiski
     .accesskey = A
 
@@ -170,6 +166,11 @@ addon-install-from-file-dialog-title = Izvēlieties instalējamo papildinājumu
 addon-install-from-file-filter-name = Papildinājumi
 addon-open-about-debugging = Atkļūdot papildinājumus
     .accesskey = d
+
+## Extension shortcut management
+
+header-back-button =
+    .title = Doties atpakaļ
 
 ## Recommended add-ons page
 

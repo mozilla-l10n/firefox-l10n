@@ -11,6 +11,13 @@ settings-data-backup-scheduled-backups-on2 =
     .label = Dublēšana ir ieslēgta
 settings-data-toggle-encryption-support-link = Uzzināt vairāk
 
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (ieteicama)
+
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-support-link = Uzzināt vairāk

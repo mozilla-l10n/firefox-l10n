@@ -54,6 +54,12 @@ site-exclusion-toggle-disabled-1 =
 ipprotection-connection-status-excluded-1 = VPN šai vietnei ir izslēgts
     .aria-label = VPN šai vietnei ir izslēgts
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Atrašanās vieta: ieteicama
+
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-description = Pēc dažām minūtēm mēģināt vēlreiz.

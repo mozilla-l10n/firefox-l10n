@@ -67,6 +67,9 @@ open-in-new-window-for-csp-or-xfo-error = Atvērt vietni jaunā logā
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Lai aizsargātu jūsu drošību, { $hostname } neļaus { -brand-short-name } rādīt lapu, ja to ir iegūlusi cita vietne. Lai redzētu šo lapu, tā ir jāatver jaunā logā.
+fp-certerror-return-to-previous-page-recommended-button-2 = Doties atpakaļ (ieteicams)
+    .accesskey = D
+fp-certerror-return-to-previous-page-recommended-button = Doties atpakaļ (ieteicams)
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kļūdas kods: { $error }

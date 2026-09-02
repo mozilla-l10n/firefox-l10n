@@ -565,6 +565,9 @@ update-application-version = Versija { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Parādīt atjauninājumu vēsturi
     .accesskey = v
+update-application-auto-2 =
+    .label = Automātiski uzstādīt atjauninājumus (ieteicams)
+    .accesskey = A
 update-history =
     .label = Parādīt atjauninājumu vēsturi…
     .accesskey = v
@@ -627,6 +630,10 @@ performance-default-content-process-count =
     .label = { $num } (noklusējuma)
 performance-group =
     .label = Veiktspēja
+performance-use-recommended-settings-checkbox-2 =
+    .description = Šie iestatījumi ir paredzēti izmantotajai aparatūrai un operētājsistēmai.
+    .label = Izmantot ieteicamos veiktspējas iestatījumus
+    .accesskey = I
 
 ## Accessibility page
 

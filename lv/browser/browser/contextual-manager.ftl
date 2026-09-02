@@ -347,7 +347,7 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .heading = Aizvērt nesaglabājot?
     .message = Jūsu izmaiņas netiks saglabātas.
 contextual-manager-passwords-discard-changes-close-button = Aizvērt
-contextual-manager-passwords-discard-changes-go-back-button = Iet atpakaļ
+contextual-manager-passwords-discard-changes-go-back-button = Doties atpakaļ
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->

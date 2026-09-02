@@ -371,6 +371,10 @@ onboarding-personalization-title = Pielāgo savu { -brand-short-name } pieredzi
 
 onboarding-refresh-onboarding-addons-subtitle = Paplašinājumi ir nelielas lietotnes, kas ļauj pielāgot { -brand-short-name }. Tie var pastiprināt privātumu, uzlabot ražīgumu, mainīt { -brand-short-name } izskatu un vēl daudz vairāk.
 
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-go-back = Doties atpakaļ
+
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-rejected-title = Sapratu

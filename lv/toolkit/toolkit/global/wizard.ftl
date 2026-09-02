@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 wizard-macos-button-back =
-    .label = Atpakaļ
+    .label = Doties atpakaļ
     .accesskey = A
 wizard-linux-button-back =
     .label = Atpakaļ

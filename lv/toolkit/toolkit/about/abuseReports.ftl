@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Panel buttons.
+
+abuse-report-goback-button = Doties atpakaļ
+
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-settings-suggestions-search = Mainīt savus noklusējuma meklēšanas iestatījumus
