@@ -146,6 +146,10 @@ autofill-card-expires-year-2 =
     .label = Son kullanma yılı
 autofill-card-billing-address-2 =
     .label = Fatura adresi
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Kart üzerindeki ad
 autofill-card-expires-month = Son kul. ayı
 autofill-card-expires-year = Son kul. yılı
