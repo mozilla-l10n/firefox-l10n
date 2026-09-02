@@ -1861,6 +1861,8 @@ history-custom-button =
     .label = Valitse mitä haluat { -brand-short-name }in muistavan
 history-group =
     .label = Historiatiedot
+history-mode-radio-group =
+    .aria-label = Historiatiedot
 history-remember-option-all2 =
     .label = Muista historia
 
@@ -2739,6 +2741,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Sivustot käyttävät seuraimia käyttäjien seurantaan ja mainosten esittämiseen. { -brand-short-name } suojaa sinut, kun selaat, estäen seuraimet automaattisesti, asettaen digitaalisen jalanjälkesi hallintaasi.
     .label = Tehostettu seurannan suojaus
+preferences-etp-level-radio-group =
+    .aria-label = Tehostettu seurannan suojaus
 preferences-etp-level-standard =
     .description = Vahva, luotettava suojaus, joka toimii useimpien verkkosivustojen kanssa.
     .label = Tavallinen (oletus)
