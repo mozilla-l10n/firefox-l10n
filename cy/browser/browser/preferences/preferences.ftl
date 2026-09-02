@@ -1873,6 +1873,8 @@ history-custom-button =
     .label = Dewis beth mae { -brand-short-name } i fod ei gofio
 history-group =
     .label = Hanes
+history-mode-radio-group =
+    .aria-label = Hanes
 history-remember-option-all2 =
     .label = Cofio hanes
 
@@ -2483,6 +2485,8 @@ preferences-doh-status-disabled = Diffodd
 preferences-doh-status-not-active = Ddim yn weithredol ( { $reason } )
 preferences-doh-group-message = Galluogi DNS diogel gan ddefnyddio:
 preferences-doh-group-message2 = Galluogi DNS dros HTTPS
+preferences-doh-radio-group =
+    .aria-label = Galluogi DNS dros HTTPS
 preferences-doh-expand-section =
     .tooltiptext = Rhagor o wybodaeth
 preferences-doh-setting-default =
