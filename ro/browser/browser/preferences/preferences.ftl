@@ -1859,6 +1859,8 @@ history-custom-button =
     .label = Alege ce vrei să rețină { -brand-short-name }
 history-group =
     .label = Istoric
+history-mode-radio-group =
+    .aria-label = Istoric
 history-remember-option-all2 =
     .label = Reține istoricul
 
@@ -2469,6 +2471,8 @@ preferences-doh-status-disabled = Dezactivat
 preferences-doh-status-not-active = Inactiv ({ $reason })
 preferences-doh-group-message = Activează DNS securizat folosind:
 preferences-doh-group-message2 = Activează DNS prin HTTPS folosind:
+preferences-doh-radio-group =
+    .aria-label = Activează DNS prin HTTPS folosind:
 preferences-doh-expand-section =
     .tooltiptext = Mai multe informații
 preferences-doh-setting-default =
