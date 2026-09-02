@@ -1504,7 +1504,7 @@ reset-pbm-panel-description2 = Šis izdzēš vēsturi, sīkfailus un visus citus
 reset-pbm-panel-heading = Beigt savu privāto sesiju?
 reset-pbm-panel-description = Aizvērt visas privātās cilnes un dzēst vēsturi, sīkdatnes un visus citus vietnes datus.
 reset-pbm-panel-always-ask-checkbox =
-    .label = Vienmēr man jautāt
+    .label = Vienmēr vaicāt man
     .accesskey = V
 reset-pbm-panel-cancel-button =
     .label = Atcelt
@@ -1675,7 +1675,7 @@ trustpanel-blocker-header =
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
-urlbar-trust-icon-notsecure-label = Nav drošs
+urlbar-trust-icon-notsecure-label = Nav droša
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

@@ -47,7 +47,7 @@ site-exclusion-toggle-enabled-1 =
     .label = Šai vietnei izmantot VPN
 site-exclusion-toggle-disabled-1 =
     .aria-label = Šai vietnei VPN ir izslēgts
-    .label = VPN ir ieslēgts šai vietnei
+    .label = Izmantot VPN šai vietnei
 
 ## Status card
 
