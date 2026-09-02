@@ -32,6 +32,8 @@ ai-window-smart-cursor-in-smart-window =
 smart-window-model-section =
     .label = Model asistenta
     .description = Wubjeŕśo model na zakłaźe togo, což jo wažne za was.
+smart-window-model-radio-group =
+    .aria-label = Model asistenta
 smart-window-model-learn-link = Zgóńśo wěcej wó modelach
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
