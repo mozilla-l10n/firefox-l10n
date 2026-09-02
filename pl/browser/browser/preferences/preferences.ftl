@@ -1861,6 +1861,8 @@ history-custom-button =
     .label = Wybierz, co { -brand-short-name } ma zachowywać
 history-group =
     .label = Historia
+history-mode-radio-group =
+    .aria-label = Historia
 history-remember-option-all2 =
     .label = Zachowuj historię
 
@@ -2740,6 +2742,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Witryny używają elementów śledzących, aby śledzić Cię w Internecie i wyświetlać podejrzane reklamy. { -brand-short-name } chroni Cię podczas przeglądania Internetu, automatycznie blokując elementy śledzące, dzięki czemu masz kontrolę nad swoim cyfrowym śladem.
     .label = Wzmocniona ochrona przed śledzeniem
+preferences-etp-level-radio-group =
+    .aria-label = Wzmocniona ochrona przed śledzeniem
 preferences-etp-level-standard =
     .description = Silna, niezawodna ochrona, która bezproblemowo działa na większości witryn.
     .label = Standardowa (domyślna)
