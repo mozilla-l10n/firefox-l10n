@@ -376,3 +376,13 @@ aiwindow-starter-planning-plan = Pomoz vytvořit plán
 aiwindow-starter-browsing-history = Vyhledej panely v historii
 aiwindow-starter-browsing-summarize = Vytvoř souhrn panelů
 aiwindow-starter-browsing-compare = Porovnání panelů
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Posunout zpět
+    .tooltiptext = Posune zpět
+aiwindow-starter-scroll-end =
+    .aria-label = Posunout dopředu
+    .tooltiptext = Posune dopředu

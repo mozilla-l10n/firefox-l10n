@@ -30,3 +30,9 @@ autocomplete-import-learn-more = Dalšne informacije
 autocomplete-more-actions = Dalšne akcije
 autocomplete-edit-password = Toś to gronidło wobźěłaś
 autocomplete-delete-password = Toś to gronidło lašowaś
+autocomplete-edit-address = Toś tu adresu wobźěłaś
+autocomplete-delete-address = Toś tu adresu lašowaś
+autocomplete-edit-payment-method = Toś tu płaśeńsku metodu wobźěłaś
+autocomplete-delete-payment-method = Toś tu płaśeńsku metodu lašowaś
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Toś ten zapisk formularoweje historije lašowaś
