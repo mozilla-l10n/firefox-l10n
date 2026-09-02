@@ -1835,6 +1835,8 @@ history-custom-button =
     .label = Trieu què voleu que el { -brand-short-name } recordi en tancar el navegador.
 history-group =
     .label = Historial
+history-mode-radio-group =
+    .aria-label = Historial
 history-remember-option-all2 =
     .label = Recorda l'historial
 
