@@ -1854,6 +1854,8 @@ history-custom-button =
     .label = ਚੁਣੋ ਕਿ ਤੁਸੀਂ { -brand-short-name } ਕੀ ਯਾਦ ਰੱਖੇ
 history-group =
     .label = ਅਤੀਤ
+history-mode-radio-group =
+    .aria-label = ਅਤੀਤ
 history-remember-option-all2 =
     .label = ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ
 
@@ -2737,6 +2739,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = ਸਾਈਟਾਂ ਆਨਲਾਈਨ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਲਈ ਅਤੇ ਡਰਾਉਣੇ ਇਸ਼ਤਿਹਾਰ ਵੇਖਾਉਣ ਲਈ ਟਰੈਕਰਾਂ ਨੂੰ ਵਰਤਦੀਆਂ ਹਨ। ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੀ ਢਾਲ ਬਣਦਾ ਹੈ, ਟਰੈਕਰਾਂ ਉੱਤੇ ਆਪਣੇ-ਆਪ ਰੋਕ ਲਾਉਣ ਨਾਲ ਤੁਸੀਂ ਆਪਣੀ ਡਿਜ਼ਿਟਲ ਪੈੜਾਂ ਨੂੰ ਕੰਟਰੋਲ ਹੇਠ ਰੱਖ ਸਕਦੇ ਹੋ।
     .label = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+preferences-etp-level-radio-group =
+    .aria-label = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
 preferences-etp-level-standard =
     .description = ਮਜ਼ਬੂਤ, ਭਰੋਸੇਯਗ ਸੁਰੱਖਿਆਵਾਂ, ਜੋ ਬਹੁਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਆਮ ਵਾਂਗ ਕੰਮ ਕਰਦੀਆਂ ਹਨ।
     .label = ਸਟੈਂਡਰਡ (ਮੂਲ)
