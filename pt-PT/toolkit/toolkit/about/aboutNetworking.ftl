@@ -19,6 +19,36 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validado
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Chave de isolamento
+about-networking-ssl-tokens-expires = Expira
+about-networking-ssl-tokens-certificate = Certificado
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokens
+    }
+about-networking-ssl-tokens-restored =
+    .alt = Restaurado do armazenamento
+    .title = Restaurado do armazenamento
+about-networking-ssl-tokens-new =
+    .alt = Novo desta sessão
+    .title = Novo desta sessão
+about-networking-ssl-tokens-expired =
+    .alt = Expirado
+    .title = Expirado
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokens: { $tokenLength } B. Codificado: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = Certificado EV
+about-networking-ssl-tokens-ct-status = Estado de Transparência do Certificado
+about-networking-ssl-tokens-overridable-error = Categoria de erro substituível
+about-networking-ssl-tokens-built-in-root = Root incorporado
+# $count (Number) - Number of certs in the succeeded cert chain
+about-networking-ssl-tokens-cert-chain = Cadeia de certificados ({ $count })
+# $count (Number) - Number of certs seen during the TLS handshake
+about-networking-ssl-tokens-handshake-certs = Certificados handshake ({ $count })
 about-networking-refresh = Atualizar
 about-networking-auto-refresh = Atualizar a cada 3 segundos
 about-networking-hostname = Servidor
