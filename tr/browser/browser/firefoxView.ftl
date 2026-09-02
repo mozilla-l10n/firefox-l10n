@@ -232,6 +232,10 @@ firefoxview-show-all-history = Tüm geçmişi göster
 firefoxview-history-empty-header = Kaldığınız yere geri dönün
 firefoxview-history-empty-description = Siz gezindikçe, ziyaret ettiğiniz sayfalar burada listelenecektir.
 firefoxview-history-empty-description-two = Yaptığımız işin merkezinde gizliliğinizi korumak var. Bu yüzden, { -brand-short-name } tarayıcınızın hatırlayacağı etkinlikleri <a data-l10n-name="history-settings-url">geçmiş ayarlarınızdan</a> kendiniz seçebilirsiniz.
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Gezinti geçmişiniz yakında burada olacak
+firefoxview-history-empty-description-2 = Siz sayfaları ziyaret ettikçe geçmişiniz burada görünecektir. Nelerin hatırlanacağını <a data-l10n-name="history-settings-url">ayarlardan</a> yönetebilirsiniz.
 
 ##
 
@@ -245,6 +249,7 @@ firefoxview-dont-remember-history-empty-header-2 = { -brand-short-name } tarayı
 firefoxview-dont-remember-history-empty-description-one = Şu anda { -brand-short-name } gezdiğiniz sayfaları hatırlamıyor. Bunu değiştirmek için <a data-l10n-name="history-settings-url-two">geçmiş ayarlarınızı güncelleyebilirsiniz</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Gezinti geçmişiniz kaydedilmiyor
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } şu anda geçmişinizi kaydetmiyor. Bunu istediğiniz zaman <a data-l10n-name="history-settings-url-two">ayarlardan</a> değiştirebilirsiniz.
 
 ##
 

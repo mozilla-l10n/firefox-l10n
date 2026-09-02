@@ -31,7 +31,9 @@ ipprotection-feature-introduction-title-privacy = Gizliliğinizi bir kat daha ar
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Farklı konumlardan istediğinizi seçerek gezintilerinizi daha gizli tutun.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Çok sayıda konumdan istediğinizi seçerek gezintilerinizi daha gizli tutun.
 ipprotection-feature-introduction-link-text-privacy-3 = İnternette gezdiğiniz yerleri gizlemek için çok sayıda konumdan istediğinizi seçerek <a data-l10n-name="learn-more-vpn">ekstra gizliliğe</a> kavuşun.
+ipprotection-feature-introduction-text-summer-promo-1 = Gezintilerinizi daha gizli tutmak için bu özelliği açın. 31 Ağustos'a kadar <a data-l10n-name="summer-promo-link">sınırsız bant genişliği</a> ve daha fazla konum üzerinden gezinme imkânına kavuşun.
 ipprotection-feature-introduction-title-summer-promo = Seyahat planlarınız mı var? Gizliliği yanınızda taşıyın.
+ipprotection-feature-introduction-description-summer-promo = { -brand-product-name }’un yerleşik VPN’iyle sınırları aşın: 31 Ağustos’a kadar daha fazla konum, sınırsız bant genişliği.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gizli pencerede konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-description-private-browsing = Konumunuzu gizleyin, Gizli Pencere’de bile ekstra korumayla gezinin.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -60,6 +62,11 @@ ipprotection-summer-promo-offramp-generic-title = VPN limitleriniz 1 Eylül’de
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Yerleşik VPN’iniz artık daha iyi
+ipprotection-summer-promo-offramp-subscriber-description = { -mozilla-vpn-brand-name } abonesi olarak artık sınırsız bant genişliğine ve daha fazla konuma sahip olabilirsiniz.
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = İlave yerleşik VPN konumlarınızı kaybetmeyin
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = { -mozilla-vpn-brand-name } ile seviye atlayın
@@ -98,11 +105,11 @@ unauthenticated-choose-location-message-1 = Farklı konumlar arasından seçim y
 unauthenticated-get-started = Kullanmaya başlayın
 unauthenticated-terms-of-service-privacy-notice = Devam ederseniz <a data-l10n-name="vpn-terms-of-service">Hizmet Koşulları</a>’nı ve <a data-l10n-name="vpn-privacy-notice">Gizlilik Bildirimi</a>’ni kabul etmiş olursunuz.
 site-exclusion-toggle-enabled-1 =
-    .label = Bu sitede VPN kullan
     .aria-label = Bu sitede VPN açık
-site-exclusion-toggle-disabled-1 =
     .label = Bu sitede VPN kullan
+site-exclusion-toggle-disabled-1 =
     .aria-label = Bu sitede VPN kapalı
+    .label = Bu sitede VPN kullan
 site-exclusion-toggle-description = Site çalışmıyor mu? VPN’i kapatmayı deneyin.
 ipprotection-settings-link =
     .label = Ayarlar
@@ -217,11 +224,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPN kotanız bit
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = { -brand-short-name } ile gezinirken gizliliğinizi artıracak yerleşik VPN.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Yerleşik VPN
     .description = İnternette gezinirken konumunuzu gizleyerek ekstra gizliliğe kavuşun.
+    .label = Yerleşik VPN
 ip-protection-learn-more = Daha fazla bilgi al
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -232,12 +239,12 @@ ip-protection-not-opted-in-button = Başla
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Web sitesi ayarlarını yönet
     .description =
         { $count ->
             [one] { $count } web sitesi
            *[other] { $count } web sitesi
         }
+    .label = Web sitesi ayarlarını yönet
 ip-protection-autostart =
     .label = VPN’i otomatik olarak aç
 ip-protection-autostart-checkbox =
@@ -245,11 +252,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Gizli pencerelerde
 ip-protection-vpn-upgrade-link =
-    .label = { -mozilla-vpn-brand-name } ile { -brand-short-name } dışında daha da fazla korumaya sahip olun
     .description = İstediğiniz VPN konumunu seçin, ister evde ister halka açık Wi-Fi ağlarında beş ayrı cihazda tüm uygulamalarınızı koruyun.
+    .label = { -mozilla-vpn-brand-name } ile { -brand-short-name } dışında daha da fazla korumaya sahip olun
 ip-protection-vpn-upgrade-link-1 =
-    .label = { -mozilla-vpn-brand-name } ile korumayı ileri taşıyın
     .description = 300’den fazla konumdan istediğinizi seçin, 5 ayrı cihazınızda tüm uygulamalarınızı koruyun.
+    .label = { -mozilla-vpn-brand-name } ile korumayı ileri taşıyın
 
 ## IP Protection dialogs
 
