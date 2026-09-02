@@ -211,6 +211,7 @@ newtab-privacy-empty = Siz internette gezinirken { -brand-short-name } takip kod
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
 newtab-privacy-etp-off-faster-browsing = Daha hızlı gezinin. Daha az takip edilin.
+newtab-privacy-etp-off-turn-on-tracking = Engellemeye başlamak için ayarlardan izlenme korumalarını açın.
 
 ## Privacy widget — informational messages
 ##
@@ -227,6 +228,7 @@ newtab-privacy-message-info-3-cta = Korumaları göster
 newtab-privacy-message-info-4-cta = Korumaları göster
 newtab-privacy-message-info-5 = Takip kodları engellendikçe farklı sitelerde sizi takip edebilen şirket sayısı azalır.
 newtab-privacy-message-info-5-cta = Korumaları göster
+newtab-privacy-message-info-6 = Verileriniz { -brand-short-name } ile güvende. Bazı tarayıcıların aksine, biz verilerinizi asla satmıyoruz.
 newtab-privacy-message-info-6-cta = Daha fazla bilgi al
 newtab-privacy-message-info-7 = { -brand-short-name } tarafından engellenen takip kodlarını görün.
 newtab-privacy-message-info-7-cta = Korumaları göster

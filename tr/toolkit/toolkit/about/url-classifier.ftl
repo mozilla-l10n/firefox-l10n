@@ -45,18 +45,41 @@ url-classifier-content-classifier-url = URL
 # This is the URL of a frame within the document that initiates the request to load another URL
 # (e.g. an iframe that is loading a tracking pixel)
 url-classifier-content-classifier-loading-url = URL yükleniyor
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = Loading URL’i etkinleştir
+# URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+# Most often the site URL show in the address bar.
+url-classifier-content-classifier-top-window-url = Top-window URL
+# Checkbox label to enable a Top-window URL.
+# When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
+url-classifier-content-classifier-top-window-url-enabled = Top-window URL’i etkinleştir
 # Label for a dropdown choosing what type of resource is at the destination (the destination type),
 # such as script, image, stylesheet, etc.
 url-classifier-content-classifier-destination-type = Hedef türü
 # Header for a group of on/off options (the checkboxes below) that modify how
 # the hypothetical request is classified.
 url-classifier-content-classifier-flags = Bayraklar
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = Testler
 # Header for the area that shows the outcome of a probe.
 url-classifier-content-classifier-results = Sonuçlar
 url-classifier-content-classifier-pbm = Gizli gezinti
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = Üst çerçeveye göre üçüncü taraf olarak değerlendir
 # Checkbox: classify the request as if it originated from an add-on that is not
 # on Mozilla's recommended list.
 url-classifier-content-classifier-non-recommended-addon = Önerilmeyen eklenti
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = Engellemeyi test et
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = Etiketlemeyi test et
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = Özelliği test et
 # Label for an expandable area showing the detailed per-feature output from the
 # classification engine.
 url-classifier-content-classifier-engine-details = Motor ayrıntıları
@@ -72,9 +95,14 @@ url-classifier-content-classifier-col-exception = İstisna
 url-classifier-content-classifier-col-important = Önemli
 # Column header: the raw result code returned by the engine for this feature.
 url-classifier-content-classifier-col-engine-result = Motor sonucu
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = Eşleşti
 # Overall verdict shown when the request is spared because it matched an
 # exception rule.
 url-classifier-content-classifier-verdict-exception = İstisna
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = Eşleşmedi
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
