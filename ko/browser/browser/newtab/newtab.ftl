@@ -506,6 +506,9 @@ newtab-topsites-image-url-label = 사용자 지정 이미지 URL
 newtab-topsites-use-custom-image-link = 사용자 지정 이미지 사용
 newtab-topsites-use-image-link = 사용자 지정 이미지 사용…
 newtab-topsites-image-validation = 이미지를 읽어오지 못했습니다. 다른 URL을 시도하세요.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = 텍스트 지우기
 
@@ -862,6 +865,9 @@ newtab-custom-close-menu-button =
     .title = 닫기
 newtab-custom-close-button = 닫기
 newtab-custom-settings = 추가 설정
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = 모양
 # Button that opens the full browser theme selection view.
@@ -979,6 +985,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial
@@ -1111,6 +1120,12 @@ newtab-section-unfollow-button-label =
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = 피드를 미세 조정하세요
 newtab-section-follow-highlight-subtitle = 관심 분야를 팔로우하면 좋아하는 것을 더 많이 볼 수 있습니다.
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+newtab-topic-navigation-label =
+    .aria-label = 주제
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1374,6 +1389,9 @@ newtab-promo-card-cta = 더 알아보기
 newtab-promo-card-dismiss-button =
     .aria-label = 닫기
     .title = 닫기
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
