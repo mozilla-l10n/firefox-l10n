@@ -28,7 +28,11 @@ autocomplete-import-learn-more = מידע נוסף
 
 # aria-label and tooltip for the button that opens the edit/delete menu.
 autocomplete-more-actions = פעולות נוספות
-autocomplete-edit-password = עריכת ססמה זו
-autocomplete-delete-password = מחיקת ססמה זו
-autocomplete-edit-address = עריכת כתובת זו
-autocomplete-delete-address = מחיקת כתובת זו
+autocomplete-edit-password = עריכת הססמה הזאת
+autocomplete-delete-password = מחיקת הססמה הזאת
+autocomplete-edit-address = עריכת הכתובת הזאת
+autocomplete-delete-address = מחיקת הכתובת הזאת
+autocomplete-edit-payment-method = עריכת אמצעי התשלום הזה
+autocomplete-delete-payment-method = מחיקת אמצעי התשלום הזה
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = מחיקת הרשומה של היסטוריית הטפסים הזו
