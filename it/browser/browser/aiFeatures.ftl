@@ -106,3 +106,4 @@ smart-window-model-flexible-v2 =
 smart-window-model-personal-v2 =
     .description = Progettato per un’assistenza personalizzata in diverse lingue. Nome completo: { $model } di { $ownerName }
     .label = { $shortName }: personale
+

@@ -36,3 +36,4 @@ autocomplete-edit-payment-method = Modifica questo metodo di pagamento
 autocomplete-delete-payment-method = Elimina questo metodo di pagamento
 # aria-label and tooltip for the trash button on a form history entry.
 autocomplete-delete-form-history-entry = Elimina questa voce dalla cronologia dei moduli
+
