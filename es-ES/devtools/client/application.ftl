@@ -33,7 +33,7 @@ serviceworker-worker-start3 = Iniciar
 # display the last update time of the service worker script.
 # Variables:
 #   $date (date) - Update date
-serviceworker-worker-updated = Actualizado el <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+serviceworker-worker-updated = Actualizado el <time>{ DATETIME($date, day: "numeric", hour: "numeric", minute: "numeric", month: "long", second: "numeric", year: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
@@ -69,7 +69,7 @@ manifest-item-presentation = Presentación
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Iconos
 # Text displayed while we are loading the manifest file
-manifest-loading = Cargando manifesto…
+manifest-loading = Cargando manifiesto…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Se cargó el manifesto.
 # Text displayed as a caption when there has been an error while trying to
