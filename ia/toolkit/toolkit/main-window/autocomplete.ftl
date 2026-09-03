@@ -34,3 +34,5 @@ autocomplete-edit-address = Modificar iste adresse
 autocomplete-delete-address = Deler iste adresses
 autocomplete-edit-payment-method = Modificar iste methodo de pagamento
 autocomplete-delete-payment-method = Deler iste methodo de pagamento
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Deler iste entrata del chronologia del formularios

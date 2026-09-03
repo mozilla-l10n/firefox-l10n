@@ -364,3 +364,13 @@ aiwindow-starter-planning-plan = Adjutar a facer un plano
 aiwindow-starter-browsing-history = Trovar schedas in chronologia
 aiwindow-starter-browsing-summarize = Resumer schedas
 aiwindow-starter-browsing-compare = Comparar schedas
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Rolar retro
+    .tooltiptext = Rolar retro
+aiwindow-starter-scroll-end =
+    .aria-label = Rolar avante
+    .tooltiptext = Rolar avante

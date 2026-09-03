@@ -1351,6 +1351,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Collaber tote le widgets a dimension compacte
     .title = Minimisar widgets
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Monstra le section del widgets
+    .title = Monstrar widgets
 newtab-widget-section-menu-button =
     .aria-label = Aperir menu de widgets
     .title = Menu de widgets
