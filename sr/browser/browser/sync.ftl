@@ -24,7 +24,7 @@ fxa-menu-connect-another-device =
 fxa-menu-send-to-device =
     .label =
         { $tabCount ->
-            [1] Пошаљи на уређај
+            [one] Пошаљи на уређај
             [few] Пошаљи { $tabCount } језичка на уређај
            *[other] Пошаљи { $tabCount } језичака на уређај
         }

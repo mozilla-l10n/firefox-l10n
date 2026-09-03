@@ -313,37 +313,37 @@ tab-group-preview-closed-description = Списак језичака је зат
 ##
 
 tab-context-move-tab-to-new-group =
-    .accesskey = г
     .label =
         { $tabCount ->
-            [1] Додај језичак у нову групу
+            [one] Додај језичак у нову групу
             [few] Додај језичке у нову групу
            *[other] Додај језичке у нову групу
         }
-tab-context-move-tab-to-group =
     .accesskey = г
+tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
-            [1] Додај језичак у групу
+            [one] Додај језичак у групу
             [few] Додај језичке у групу
            *[other] Додај језичке у групу
         }
+    .accesskey = г
 tab-context-move-split-view-to-new-group =
-    .accesskey = з
     .label =
         { $splitViewCount ->
-            [1] Додај подељени приказ у нову групу
+            [one] Додај подељени приказ у нову групу
             [few] Додај подељене приказе у нову групу
            *[other] Додај подељене приказе у нову групу
         }
+    .accesskey = з
 tab-context-move-split-view-to-group =
-    .accesskey = Д
     .label =
         { $splitViewCount ->
-            [1] Додај подељени приказ у групу
+            [one] Додај подељени приказ у групу
             [few] Додај подељене приказе у групу
            *[other] Додај подељене приказе у групу
         }
+    .accesskey = Д
 tab-context-move-tab-to-group-saved-groups =
     .label = Затворене групе
 tab-group-editor-action-new-tab =
@@ -380,13 +380,13 @@ tab-context-reopen-tab-group =
 # Variables:
 #  $groupCount (Number): the number of tab groups that are affected by the action.
 tab-context-ungroup-tab =
-    .accesskey = У
     .label =
         { $groupCount ->
             [one] Уклони из групе
             [few] Уклони из група
            *[other] Уклони из група
         }
+    .accesskey = У
 # When a tab group containing the active tab is collapsed, the active tab
 # remains visible. An indicator appears at the end of the group showing the
 # number of remaining tabs that are hidden by the collapsed group,
@@ -462,8 +462,8 @@ tab-note-editor-button-save =
     .label = Сачувај
     .accesskey = С
 tab-note-editor-button-delete =
-    .title = Обриши белешку
     .aria-label = Обриши белешку
+    .title = Обриши белешку
     .accesskey = л
 tab-note-preview-edit-icon =
     .alt = Измени белешку
