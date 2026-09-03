@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Czatbot SI
 menu-view-contextual-password-manager =
     .label = Hasła
+menu-view-resource-monitor =
+    .label = Monitor zasobów
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Dostosuj panel boczny
 sidebar-menu-contextual-password-manager-label =
     .label = Hasła
+sidebar-menu-resource-monitor-label =
+    .label = Monitor zasobów
 sidebar-menu-more-tools-label =
     .label = Więcej narzędzi
 
