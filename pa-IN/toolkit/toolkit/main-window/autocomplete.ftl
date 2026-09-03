@@ -16,3 +16,17 @@ autocomplete-import-logins-chromium-edge = <div data-l10n-name="line1">{ $host }
 ##
 
 autocomplete-import-learn-more = ਹੋਰ ਜਾਣੋ
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = ਹੋਰ ਕਾਰਵਾਈਆਂ
+autocomplete-edit-password = ਇਸ ਪਾਸਵਰਡ ਨੂੰ ਸੋਧੋ
+autocomplete-delete-password = ਇਸ ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
+autocomplete-edit-address = ਇਸ ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੋਧੋ
+autocomplete-delete-address = ਇਸ ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਓ
+autocomplete-edit-payment-method = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਸੋਧੋ
+autocomplete-delete-payment-method = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਹਟਾਓ
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = ਇਸ ਫਾਰਮ ਅਤੀਤ ਐਂਟਰੀ ਨੂੰ ਹਟਾਓ

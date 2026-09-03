@@ -358,3 +358,13 @@ aiwindow-starter-planning-plan = ਪਲਾਨ ਬਣਾਉਣ ਲਈ ਮਦਦ �
 aiwindow-starter-browsing-history = ਅਤੀਤ ਵਿੱਚ ਟੈਬਾਂ ਨੂੰ ਲੱਭੋ
 aiwindow-starter-browsing-summarize = ਟੈਬਾਂ ਦਾ ਸਾਰ ਬਣਾਓ
 aiwindow-starter-browsing-compare = ਟੈਬਾਂ ਦੀ ਤੁਲਨਾ ਕਰੋ
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = ਵਾਪਸ ਸਰਕਾਓ
+    .tooltiptext = ਵਾਪਸ ਸਰਕਾਓ
+aiwindow-starter-scroll-end =
+    .aria-label = ਅੱਗੇ ਸਰਕਾਓ
+    .tooltiptext = ਅੱਗੇ ਸਰਕਾਓ

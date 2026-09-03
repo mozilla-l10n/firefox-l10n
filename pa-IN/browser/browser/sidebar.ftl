@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI ਚੈਟਬੋਟ
 menu-view-contextual-password-manager =
     .label = ਪਾਸਵਰਡ
+menu-view-resource-monitor =
+    .label = ਸਰੋਤ ਨਿਗਰਾਨ
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
 sidebar-menu-contextual-password-manager-label =
     .label = ਪਾਸਵਰਡ
+sidebar-menu-resource-monitor-label =
+    .label = ਸਰੋਤ ਨਿਗਰਾਨ
 sidebar-menu-more-tools-label =
     .label = ਹੋਰ ਟੂਲ
 
