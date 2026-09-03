@@ -339,3 +339,13 @@ aiwindow-ai-chat-grid-list-view =
 aiwindow-ai-chat-grid-grid-view =
     .aria-label = החלפת מצב: תצוגת רשת
     .tooltiptext = תצוגת רשת
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = גלילה אחורה
+    .tooltiptext = גלילה אחורה
+aiwindow-starter-scroll-end =
+    .aria-label = גלילה קדימה
+    .tooltiptext = גלילה קדימה

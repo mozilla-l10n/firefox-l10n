@@ -22,3 +22,13 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = מידע נוסף
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = פעולות נוספות
+autocomplete-edit-password = עריכת ססמה זו
+autocomplete-delete-password = מחיקת ססמה זו
+autocomplete-edit-address = עריכת כתובת זו
+autocomplete-delete-address = מחיקת כתובת זו

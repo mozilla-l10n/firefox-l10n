@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = צ’אטבוט AI
 menu-view-contextual-password-manager =
     .label = ססמאות
+menu-view-resource-monitor =
+    .label = מנטר המשאבים
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = התאמה אישית של סרגל הצד
 sidebar-menu-contextual-password-manager-label =
     .label = ססמאות
+sidebar-menu-resource-monitor-label =
+    .label = מנטר המשאבים
 sidebar-menu-more-tools-label =
     .label = כלים נוספים
 
