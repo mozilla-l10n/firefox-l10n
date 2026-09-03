@@ -22,3 +22,17 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Conocer más
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = Más acciones
+autocomplete-edit-password = Editar esta contraseña
+autocomplete-delete-password = Borrar esta contraseña
+autocomplete-edit-address = Editar esta dirección
+autocomplete-delete-address = Borrar esta dirección
+autocomplete-edit-payment-method = Editar este método de pago
+autocomplete-delete-payment-method = Borrar este método de pago
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Borrar esta entrada del historial de formulario
