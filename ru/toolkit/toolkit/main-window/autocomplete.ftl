@@ -30,3 +30,9 @@ autocomplete-import-learn-more = Подробнее
 autocomplete-more-actions = Другие действия
 autocomplete-edit-password = Изменить этот пароль
 autocomplete-delete-password = Удалить этот пароль
+autocomplete-edit-address = Изменить этот адрес
+autocomplete-delete-address = Удалить этот адрес
+autocomplete-edit-payment-method = Изменить этот способ оплаты
+autocomplete-delete-payment-method = Удалить этот способ оплаты
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Удалить эту запись из истории форм
