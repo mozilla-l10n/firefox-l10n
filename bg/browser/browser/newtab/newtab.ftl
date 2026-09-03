@@ -614,6 +614,12 @@ newtab-topic-selection-button-maybe-later = Може би по-късно
 newtab-topic-selection-button-update-interests = Актуализирайте интересите си
 newtab-topic-selection-button-pick-interests = Изберете вашите интереси
 
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
+
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Още
+
 ## Strings for custom wallpaper highlight
 
 newtab-custom-wallpaper-cta = Опитайте
