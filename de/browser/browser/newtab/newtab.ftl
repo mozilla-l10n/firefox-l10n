@@ -424,7 +424,7 @@ newtab-stocks-search-error = Die Suche ist derzeit nicht möglich. Versuchen Sie
 #   $limit (Number) - the maximum number of stocks the watchlist can hold.
 newtab-stocks-watchlist-full =
     { $limit ->
-        [one] Sie können bis zu { $limit } Aktien hinzufügen. Entfernen Sie eine, um eine andere hinzuzufügen.
+        [one] Sie können bis zu { $limit } Aktie hinzufügen. Entfernen Sie eine, um eine andere hinzuzufügen.
        *[other] Sie können bis zu { $limit } Aktien hinzufügen. Entfernen Sie eine, um eine andere hinzuzufügen.
     }
 
