@@ -370,4 +370,3 @@ aiwindow-starter-scroll-start =
 aiwindow-starter-scroll-end =
     .aria-label = Scorri verso la fine
     .tooltiptext = Scorri verso la fine
-
