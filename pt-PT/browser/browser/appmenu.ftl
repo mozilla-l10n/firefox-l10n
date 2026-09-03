@@ -337,7 +337,7 @@ appmenu-help-share-ideas =
     .label = Partilhe ideias e comentários…
     .accesskey = h
 appmenu-help-switch-device =
-    .label = A mudar para um dispositivo novo
+    .label = Mudar para um dispositivo novo
 # Menu header for combination of "Help" menu and report broken site
 appmenu-help-and-report-header =
     .title = Ajuda e Reporte
