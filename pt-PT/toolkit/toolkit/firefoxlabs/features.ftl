@@ -99,3 +99,7 @@ experimental-features-semantic-history-search-description = Utilize um modelo lo
 experimental-features-tab-notes =
     .label = Notas de separadores
 experimental-features-tab-notes-description = As notas de separadores são uma funcionalidade experimental que lhe permite adicionar notas aos seus separadores do navegador. Anote o contexto, lembretes ou os próximos passos para que possa voltar e se lembrar do motivo pelo qual o abriu. Adoraríamos o seu feedback enquanto continuamos a melhorar esta funcionalidade. <a data-l10n-name="connect">Partilhe a sua opinião</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Menu simplificado do separador
+experimental-features-tab-context-menu-description = Veja um menu de contexto mais simples ao clicar com o botão direito num separador. Foi desenhado para tornar mais fácil encontrar ações comuns. <a data-l10n-name="connect">Partilhar feedback</a>

@@ -813,6 +813,13 @@ pdfjs-digital-signature-properties-status-unknown = Estado: Não foi possível v
 
 pdfjs-digital-signature-properties-certificate-trusted = Certificado: Confiável ({ $issuer })
 pdfjs-digital-signature-properties-certificate-unknown = Certificado: Indisponível
+pdfjs-digital-signature-properties-certificate-untrusted = Certificado: Não confiável
+pdfjs-digital-signature-properties-certificate-untrusted-unknown-issuer = Certificado: Emissor desconhecido ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-self-signed = Certificado: Auto-assinado ({ $issuer })
+pdfjs-digital-signature-properties-certificate-untrusted-untrusted-issuer = Certificado: Emissor não confiável ({ $issuer })
+pdfjs-digital-signature-properties-certificate-expired = Certificado: Expirado
+pdfjs-digital-signature-properties-certificate-expired-with-date = Certificado: Expirado ({ DATETIME($dateObj, dateStyle: "medium") })
+pdfjs-digital-signature-properties-certificate-revoked = Certificado: Revogado
 
 ## Main menu for adding/removing signatures
 
