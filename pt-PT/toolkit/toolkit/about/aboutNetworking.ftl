@@ -19,6 +19,29 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validado
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Chave de isolamento
+about-networking-ssl-tokens = Tokens TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokens
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } expirado)
+       *[other] ({ $count } expirados)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved }% guardado)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+about-networking-ssl-tokens-partition-key = Chave da Partição
+about-networking-ssl-tokens-tokens-column = Tokens
 about-networking-ssl-tokens-expires = Expira
 about-networking-ssl-tokens-certificate = Certificado
 # $count (Number) - Number of tokens sharing this row's host and certificate

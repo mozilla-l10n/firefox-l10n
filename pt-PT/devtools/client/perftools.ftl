@@ -151,16 +151,6 @@ perftools-onboarding-close-button =
 
 ## Profiler presets
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# The same labels and descriptions are also defined in appmenu.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# The same labels and descriptions are also defined in appmenu.ftl.
-
 perftools-presets-web-developer-label = Programador Web
 perftools-presets-web-developer-description = Predefinição recomendada para a maioria das depurações de aplicações web, com pouca sobrecarga.
 perftools-presets-firefox-label = { -brand-shorter-name }
@@ -173,6 +163,8 @@ perftools-presets-ml-label = Aprendizagem Automática
 perftools-presets-ml-description2 = Pré-ajuste para investigar erros de aprendizagem automática no { -brand-shorter-name }.
 perftools-presets-networking-label = Rede
 perftools-presets-networking-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }.
+perftools-presets-networking-with-logs-label = Navegação em Rede com Históricos
+perftools-presets-networking-with-logs-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }, incluindo históricos de rede. Estes históricos podem conter informação sensível, tais como os URLs que visita.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Potência
 perftools-presets-power-description = Predefinição para investigar bugs relacionados com a utilização de energia no { -brand-shorter-name }, com baixa sobrecarga.

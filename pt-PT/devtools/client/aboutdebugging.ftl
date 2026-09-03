@@ -5,18 +5,12 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = Depuração - Configuração
 # Page title (ie tab title) for the Runtime page
 # Variables:
 #   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
 about-debugging-page-title-runtime-page = Depuração - Runtime / { $selectedRuntimeId }
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = Este { -brand-shorter-name }
@@ -88,9 +82,6 @@ about-debugging-sidebar-support-icon =
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Atualizar dispositivos
-
-# Setup Page strings
-
 # Title of the Setup page.
 about-debugging-setup-title = Configuração
 # Introduction text in the Setup page to explain how to configure remote debugging.
@@ -154,9 +145,6 @@ about-debugging-network-location-form-invalid = Servidor inválido “{ $host-va
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
 about-debugging-network-location-form-duplicate = O servidor “{ $host-value }” já está registado
-
-# Runtime Page strings
-
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
 # Title of the temporary extensions category (only available for "This Firefox" runtime).
@@ -228,9 +216,6 @@ about-debugging-profiler-dialog-title2 = Profiler
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
 about-debugging-collapse-expand-debug-targets = Colapsar / expandir
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = Nada ainda.
@@ -336,6 +321,12 @@ about-debugging-multiprocess-toolbox-name = Caixa de ferramentas multi-processos
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Processo principal e processos de conteúdo para o navegador alvo
+about-debugging-message-error-icon =
+    .alt = Ícone de erro
+about-debugging-message-info-icon =
+    .alt = Ícone de informação
+about-debugging-message-warning-icon =
+    .alt = Ícone de aviso
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = Fechar mensagem
@@ -348,3 +339,5 @@ about-debugging-message-details-label-error = Detalhes do erro
 about-debugging-message-details-label-warning = Detalhes do aviso
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Detalhes
+about-debugging-sidebar =
+    .heading = Depuração

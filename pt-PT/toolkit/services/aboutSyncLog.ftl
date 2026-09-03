@@ -9,6 +9,8 @@ about-sync-log-page-header =
 
 ## Filter controls
 
+about-sync-log-filter-type =
+    .aria-label = Tipo
 about-sync-log-filter-type-all =
     .label = Todos
 about-sync-log-filter-type-success =

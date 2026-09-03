@@ -98,6 +98,9 @@ url-classifier-content-classifier-col-engine-result = Resultado do motor
 # Overall verdict shown when the request would be acted on (blocked or
 # annotated): the classifier matched.
 url-classifier-content-classifier-verdict-hit = Ocorrência
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = Exceção
 url-classifier-debug-title = Depuração
 url-classifier-debug-module-btn = Definir módulos de registo
 url-classifier-debug-file-btn = Definir ficheiro de registo

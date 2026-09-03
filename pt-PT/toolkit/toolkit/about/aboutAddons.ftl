@@ -641,3 +641,57 @@ find-more-extensions-promo =
     .heading = Encontre a sua próxima extensão favorita
     .message = Personalize o { -brand-product-name } com ferramentas para foco, privacidade, compras e mais.
 find-more-extensions-promo-open-amo-button = Explorar extensões
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Encontre mais aparências novas
+    .message = Escolha um estilo que faça com que { -brand-product-name } se pareça com o seu.
+find-more-themes-promo-open-amo-button = Explorar temas
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Algumas extensões fazem uma grande diferença
+    .message = Temos recomendações para o ajudar a melhorar o foco, a privacidade e mais.
+list-empty-get-extensions-promo-button = Encontre a sua primeira extensão
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = Claro
+themes-mode-dark =
+    .label = Escuro
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Dispositivo
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Temas do { -brand-product-name }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Mostrar mais
+aboutaddons-themes-picker-see-less = Mostrar menos
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = Ativar
+aboutaddons-themes-picker-disable-button =
+    .label = Desativar
+aboutaddons-themes-picker-install-button =
+    .label = Instalar
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = Não foi possível atualizar o seu tema. Verifique a sua ligação e tente novamente.
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = Utilizar o tema do sistema Linux
