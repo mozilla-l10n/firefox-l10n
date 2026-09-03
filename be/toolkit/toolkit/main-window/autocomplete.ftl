@@ -22,3 +22,17 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Даведацца больш
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = Дадатковыя дзеянні
+autocomplete-edit-password = Змяніць гэты пароль
+autocomplete-delete-password = Выдаліць гэты пароль
+autocomplete-edit-address = Змяніць гэты адрас
+autocomplete-delete-address = Выдаліць гэты адрас
+autocomplete-edit-payment-method = Змяніць гэты спосаб аплаты
+autocomplete-delete-payment-method = Выдаліць гэты спосаб аплаты
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Выдаліць гэты запіс гісторыі форм
