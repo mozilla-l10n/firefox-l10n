@@ -366,3 +366,13 @@ aiwindow-starter-planning-plan = Дапамажы скласці план
 aiwindow-starter-browsing-history = Знайдзі карткі ў гісторыі
 aiwindow-starter-browsing-summarize = Падсумуй карткі
 aiwindow-starter-browsing-compare = Параўнай карткі
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Пракруціць назад
+    .tooltiptext = Пракруціць назад
+aiwindow-starter-scroll-end =
+    .aria-label = Пракруціць наперад
+    .tooltiptext = Пракруціць наперад
