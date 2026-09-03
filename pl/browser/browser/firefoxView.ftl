@@ -17,8 +17,8 @@ firefoxview-page-heading =
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
-    .title = Zamknij
     .aria-label = Zamknij
+    .title = Zamknij
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Przed chwilą
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -86,7 +86,7 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Odblokuj karty za pomocą hasła głównego
 firefoxview-tabpickup-password-locked-description-2 = Ze względu na Twoją prywatność synchronizowane karty są chronione. Wprowadź hasło główne { -brand-short-name(case: "gen") }, aby wyświetlić karty z innych urządzeń.
 firefoxview-tabpickup-signed-out-header = Zaloguj się, aby połączyć ponownie
-firefoxview-tabpickup-signed-out-description = Zaloguj się na { -fxaccount-brand-name(case: "loc", capitalization: "lower") }, aby połączyć się ponownie i odbierać karty.
+firefoxview-tabpickup-signed-out-description = Zaloguj się na { -fxaccount-brand-name(capitalization: "lower", case: "loc") }, aby połączyć się ponownie i odbierać karty.
 firefoxview-tabpickup-signed-out-description2 = Zaloguj się na swoje konto, aby połączyć się ponownie i odbierać karty.
 firefoxview-tabpickup-signed-out-primarybutton = Zaloguj się
 firefoxview-tabpickup-signed-out-header-2 = Zaloguj się, aby wyświetlić karty
@@ -266,9 +266,9 @@ firefoxview-import-history-description = Używaj przeglądarki { -brand-short-na
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
-firefoxview-recentlyclosed-empty-header = Karta zamknęła się za wcześnie?
-firefoxview-recentlyclosed-empty-description = Tutaj znajdziesz ostatnio zamknięte karty, dzięki czemu możesz szybko otworzyć jakąś z powrotem.
-firefoxview-recentlyclosed-empty-description-two = Karty sprzed dłuższego czasu znajdziesz w <a data-l10n-name="history-url">historii przeglądania</a>.
+firefoxview-recentlyclosed-empty-header = Za szybko zamknięta karta?
+firefoxview-recentlyclosed-empty-description = Tutaj znajdziesz ostatnio zamknięte karty, dzięki czemu możesz szybko przywrócić każdą z nich.
+firefoxview-recentlyclosed-empty-description-two = Karty zamknięte wcześniej znajdziesz w <a data-l10n-name="history-url">historii przeglądania</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

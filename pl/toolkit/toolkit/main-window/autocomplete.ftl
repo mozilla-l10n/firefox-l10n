@@ -30,3 +30,9 @@ autocomplete-import-learn-more = Więcej informacji
 autocomplete-more-actions = Więcej działań
 autocomplete-edit-password = Edytuj to hasło
 autocomplete-delete-password = Usuń to hasło
+autocomplete-edit-address = Edytuj ten adres
+autocomplete-delete-address = Usuń ten adres
+autocomplete-edit-payment-method = Edytuj tę metodę płatności
+autocomplete-delete-payment-method = Usuń tę metodę płatności
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Usuń ten element z historii formularzy
