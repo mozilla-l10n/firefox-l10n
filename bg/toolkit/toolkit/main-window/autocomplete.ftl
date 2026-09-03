@@ -30,3 +30,5 @@ autocomplete-edit-password = Редактиране на паролата
 autocomplete-delete-password = Изтриване на тази парола
 autocomplete-edit-address = Редактиране на този адрес
 autocomplete-delete-address = Изтриване на този адрес
+autocomplete-edit-payment-method = Редактиране на този начин на плащане
+autocomplete-delete-payment-method = Изтриване на този начин на плащане
