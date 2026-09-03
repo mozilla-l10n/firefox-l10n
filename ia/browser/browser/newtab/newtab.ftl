@@ -1151,6 +1151,8 @@ newtab-section-follow-highlight-subtitle = Seque tu interesses pro vider plus de
 
 newtab-topic-navigation-label =
     .aria-label = Topicos
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Plus
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
