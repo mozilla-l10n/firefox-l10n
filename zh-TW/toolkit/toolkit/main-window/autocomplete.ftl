@@ -22,3 +22,17 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = 了解更多
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = 更多操作
+autocomplete-edit-password = 編輯此密碼
+autocomplete-delete-password = 刪除此密碼
+autocomplete-edit-address = 編輯此地址
+autocomplete-delete-address = 刪除此地址
+autocomplete-edit-payment-method = 編輯此付款方式
+autocomplete-delete-payment-method = 刪除此付款方式
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = 刪除這筆表單紀錄項目

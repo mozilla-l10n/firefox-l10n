@@ -1119,6 +1119,8 @@ newtab-section-follow-highlight-subtitle = 追蹤您有興趣的項目，看更�
 
 newtab-topic-navigation-label =
     .aria-label = 主題
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = 更多
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1317,6 +1319,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = 將所有小工具摺疊成精簡大小
     .title = 最小化小工具
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = 顯示小工具區塊
+    .title = 顯示小工具
 newtab-widget-section-menu-button =
     .aria-label = 開啟小工具選單
     .title = 小工具選單

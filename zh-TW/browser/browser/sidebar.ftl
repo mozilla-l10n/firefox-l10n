@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI 聊天機器人
 menu-view-contextual-password-manager =
     .label = 密碼
+menu-view-resource-monitor =
+    .label = 資源監視器
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = 自訂側邊欄
 sidebar-menu-contextual-password-manager-label =
     .label = 密碼
+sidebar-menu-resource-monitor-label =
+    .label = 資源監視器
 sidebar-menu-more-tools-label =
     .label = 更多工具
 

@@ -356,3 +356,13 @@ aiwindow-starter-planning-plan = 幫助規劃方案
 aiwindow-starter-browsing-history = 從瀏覽紀錄尋找分頁
 aiwindow-starter-browsing-summarize = 摘要多個分頁的內容
 aiwindow-starter-browsing-compare = 比較分頁
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = 向上捲動
+    .tooltiptext = 向上捲動
+aiwindow-starter-scroll-end =
+    .aria-label = 向下捲動
+    .tooltiptext = 向下捲動
