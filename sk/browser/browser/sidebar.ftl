@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-contextual-password-manager =
     .label = Heslá
+menu-view-resource-monitor =
+    .label = Monitor prostriedkov
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Prispôsobiť bočný panel
 sidebar-menu-contextual-password-manager-label =
     .label = Heslá
+sidebar-menu-resource-monitor-label =
+    .label = Monitor prostriedkov
 sidebar-menu-more-tools-label =
     .label = Ďalšie nástroje
 

@@ -368,3 +368,13 @@ aiwindow-starter-planning-plan = Pomôž vytvoriť plán
 aiwindow-starter-browsing-history = Vyhľadaj karty v histórii
 aiwindow-starter-browsing-summarize = Vytvor súhrn kariet
 aiwindow-starter-browsing-compare = Porovnaj karty
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Posunúť späť
+    .tooltiptext = Posunúť späť
+aiwindow-starter-scroll-end =
+    .aria-label = Posunúť dopredu
+    .tooltiptext = Posunúť dopredu

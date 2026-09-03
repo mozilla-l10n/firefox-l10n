@@ -1169,6 +1169,8 @@ newtab-section-follow-highlight-subtitle = Sledujte svoje záujmy a uvidíte via
 
 newtab-topic-navigation-label =
     .aria-label = Témy
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Ďalšie
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1367,6 +1369,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Zbaliť všetky miniaplikácie do kompaktnej veľkosti
     .title = Minimalizovať miniaplikácie
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Zobraziť sekciu miniaplikácií
+    .title = Zobraziť miniaplikácie
 newtab-widget-section-menu-button =
     .aria-label = Otvorí ponuku Miniaplikácie
     .title = Ponuka Miniaplikácie
