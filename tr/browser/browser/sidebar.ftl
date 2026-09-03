@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Yapay zekâ sohbet botu
 menu-view-contextual-password-manager =
     .label = Parolalar
+menu-view-resource-monitor =
+    .label = Kaynak izleyicisi
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Kenar çubuğunu özelleştir
 sidebar-menu-contextual-password-manager-label =
     .label = Parolalar
+sidebar-menu-resource-monitor-label =
+    .label = Kaynak izleyicisi
 sidebar-menu-more-tools-label =
     .label = Daha fazla araç
 

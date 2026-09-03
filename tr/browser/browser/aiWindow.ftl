@@ -364,3 +364,13 @@ aiwindow-starter-planning-plan = Plan yapmama yardım et
 aiwindow-starter-browsing-history = Geçmişte sekme bul
 aiwindow-starter-browsing-summarize = Sekmeleri özetle
 aiwindow-starter-browsing-compare = Sekmeleri karşılaştır
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Geri kaydır
+    .tooltiptext = Geri kaydır
+aiwindow-starter-scroll-end =
+    .aria-label = İleri kaydır
+    .tooltiptext = İleri kaydır
