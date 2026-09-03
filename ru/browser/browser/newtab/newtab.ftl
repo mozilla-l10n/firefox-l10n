@@ -1162,6 +1162,8 @@ newtab-section-follow-highlight-subtitle = Подпишитесь на свои 
 
 newtab-topic-navigation-label =
     .aria-label = Темы
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Больше
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1360,6 +1362,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Свернуть все виджеты до компактного размера
     .title = Свернуть виджеты
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Показать раздел виджетов
+    .title = Показать виджеты
 newtab-widget-section-menu-button =
     .aria-label = Открыть меню виджетов
     .title = Меню виджетов

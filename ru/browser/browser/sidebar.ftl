@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = ИИ-чат-бот
 menu-view-contextual-password-manager =
     .label = Пароли
+menu-view-resource-monitor =
+    .label = Монитор ресурсов
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Настройка боковой панели
 sidebar-menu-contextual-password-manager-label =
     .label = Пароли
+sidebar-menu-resource-monitor-label =
+    .label = Монитор ресурсов
 sidebar-menu-more-tools-label =
     .label = Другие инструменты
 
