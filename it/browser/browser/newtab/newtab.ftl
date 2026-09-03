@@ -206,6 +206,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blocca gli elementi traccianti mentre navighi. Li vedrai qui.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } blocca automaticamente gli elementi traccianti, proteggendo meglio la privacy delle tue attività.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Visualizza qui il totale aggiornato.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -950,6 +956,52 @@ newtab-wallpaper-dark-mountain = Paesaggio con montagne
 newtab-wallpaper-dark-city = Paesaggio cittadino con tonalità viola
 newtab-wallpaper-dark-fox-anniversary = Una volpe sul marciapiede vicino a una foresta
 newtab-wallpaper-light-fox-anniversary = Una volpe in un campo erboso con un paesaggio di montagna avvolto nella nebbia
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Torna a Personalizza
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Le tue immagini
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Le tue immagini, gli sfondi che hai salvato
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Immagine { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Rimuovi { $name }
+    .title = Rimuovi immagine
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Rimuovi immagine { $number }
+    .title = Rimuovi immagine { $number }
+newtab-wallpaper-remove-image-title = Rimuovere l’immagine?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Questa operazione non può essere annullata.
+newtab-wallpaper-remove-image-confirm = Rimuovi
+newtab-wallpaper-remove-image-cancel = Annulla
 
 ## Solid Colors
 
@@ -1043,6 +1095,9 @@ newtab-weather-menu-change-location = Modifica località
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Cerca località
     .placeholder = Cerca località
+newtab-weather-cancel-input =
+    .aria-label = Annulla
+    .title = Annulla
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Utilizza la posizione corrente
@@ -1294,6 +1349,10 @@ newtab-widget-lists-menu-create = Crea nuova lista
 newtab-widget-lists-menu-delete = Elimina questa lista
 newtab-widget-lists-menu-copy = Copia lista negli appunti
 newtab-widget-lists-menu-learn-more = Ulteriori informazioni
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Cambia lista
+    .title = Cambia lista
 newtab-widget-lists-button-add-item = Aggiungi un elemento
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Aggiungi un elemento
