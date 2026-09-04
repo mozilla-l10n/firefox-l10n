@@ -194,6 +194,12 @@ newtab-privacy-across-sites = { $count }개 사이트에서
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name }는 탐색할 때 추적기를 차단합니다. 여기서 볼 수 있습니다.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name }는 추적기를 자동으로 차단하여, 사용자의 활동을 더욱 안전하게 보호합니다.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = 누적된 차단 횟수를 여기에서 확인해 보세요.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -914,6 +920,50 @@ newtab-wallpaper-dark-mountain = 산 풍경
 newtab-wallpaper-dark-city = 보라색 도시 풍경
 newtab-wallpaper-dark-fox-anniversary = 숲 근처 포장도로에 있는 여우
 newtab-wallpaper-light-fox-anniversary = 안개가 자욱한 산 풍경이 있는 풀밭에 있는 여우
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = 사용자 지정으로 돌아가기
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = 내 이미지
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = 저장한 내 이미지, 배경 화면
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = 이미지 { $number }개
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = { $name } 제거
+    .title = 이미지 제거
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = 이미지 { $number }개 제거
+    .title = 이미지 { $number }개 제거
+newtab-wallpaper-remove-image-title = 이미지를 제거하시겠습니까?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = 이 작업은 취소할 수 없습니다.
 
 ## Solid Colors
 
