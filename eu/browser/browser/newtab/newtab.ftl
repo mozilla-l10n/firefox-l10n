@@ -1154,6 +1154,8 @@ newtab-section-follow-highlight-subtitle = Jarraitu zure interesak gustatzen zai
 
 newtab-topic-navigation-label =
     .aria-label = Gaiak
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Gehiago
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1352,6 +1354,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Tolestu widget guztiak tamaina trinkora
     .title = Minimizatu widgetak
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Erakutsi widgeten atala
+    .title = Erakutsi widgetak
 newtab-widget-section-menu-button =
     .aria-label = Ireki widgeten menua
     .title = Widgeten menua

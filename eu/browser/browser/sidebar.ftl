@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AA txaterako bota
 menu-view-contextual-password-manager =
     .label = Pasahitzak
+menu-view-resource-monitor =
+    .label = Baliabideen monitorea
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Pertsonalizatu alboko barra
 sidebar-menu-contextual-password-manager-label =
     .label = Pasahitzak
+sidebar-menu-resource-monitor-label =
+    .label = Baliabideen monitorea
 sidebar-menu-more-tools-label =
     .label = Tresna gehiago
 
