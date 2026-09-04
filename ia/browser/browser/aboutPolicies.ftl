@@ -22,3 +22,6 @@ inactive-message = Le servicio Politicas de interprisas es inactive.
 policy-name = Nomine del politica
 policy-value = Valor del politica
 policy-errors = Errores del politica
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Non plenmente applicate

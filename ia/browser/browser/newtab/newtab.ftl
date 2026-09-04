@@ -206,6 +206,8 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } bloca traciatores quando tu naviga. Tu los videra ci.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } bloca automaticamente traciatores, mantene plus de tu activitate private.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
