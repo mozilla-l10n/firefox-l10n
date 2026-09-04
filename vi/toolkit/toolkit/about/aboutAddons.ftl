@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Kiểm tra cập nhật
-    .accesskey = U
     .tooltiptext = Kiểm tra cập nhật cho tiện ích này
+    .accesskey = U
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Tùy chọn
            *[other] Tùy chỉnh
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Thay đổi tùy chọn của tiện ích này
            *[other] Thay đổi tùy chỉnh của tiện ích này
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Xếp hạng
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = Kiểm tra cập nhật
     .accesskey = C
 addon-updates-view-updates = Xem các cập nhật gần đây
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Tự động cập nhật tiện ích
     .accesskey = A
 
@@ -418,8 +414,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Được phép trong cửa sổ riêng tư
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Được phép trong cửa sổ riêng tư
 addon-detail-private-browsing-help = Khi được cho phép, tiện ích mở rộng sẽ có quyền truy cập vào các hoạt động trực tuyến của bạn trong khi duyệt web riêng tư. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
 addon-detail-private-browsing-allow = Cho phép
 addon-detail-private-browsing-disallow = Không cho phép
@@ -446,16 +442,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } chỉ đề xuất các tiện ích mở rộng đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } chỉ đề xuất các tiện ích mở rộng đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Tiện ích mở rộng chính thức do Mozilla xây dựng. Đáp ứng các tiêu chuẩn về bảo mật và hiệu suất.
     .aria-label = { addon-badge-line3.title }
+    .title = Tiện ích mở rộng chính thức do Mozilla xây dựng. Đáp ứng các tiêu chuẩn về bảo mật và hiệu suất.
 addon-badge-verified2 =
-    .title = Tiện ích mở rộng này đã được xem xét để đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
     .aria-label = { addon-badge-verified2.title }
+    .title = Tiện ích mở rộng này đã được xem xét để đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -517,8 +513,8 @@ default-heading-search-label = Tìm thêm tiện ích
 addons-heading-search-input =
     .placeholder = Tìm kiếm addons.mozilla.org
 addons-heading-search-button =
-    .title = Tìm kiếm addons.mozilla.org
     .aria-label = Tìm kiếm addons.mozilla.org
+    .title = Tìm kiếm addons.mozilla.org
 addon-page-options-button =
     .title = Công cụ cho tất cả tiện ích
 

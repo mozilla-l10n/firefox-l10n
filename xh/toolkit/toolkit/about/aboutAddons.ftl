@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Khangela iZihlaziyi
-    .accesskey = i
     .tooltiptext = Khangela uhlaziyo lwesi songezelelo
+    .accesskey = i
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Ekunokukhethwa kuko
            *[other] Izikhethwa
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] I
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Tshintsha okunokukhethwa kuko kwesongezelelo
            *[other] Tshintsha iipriferensi zesongezelelo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] I
         }
 detail-rating =
     .value = Ukulinganisa umyinge
@@ -119,10 +119,6 @@ addon-updates-check-for-updates = Khangela iZihlaziyi
     .accesskey = K
 addon-updates-view-updates = Jonga uhlaziyo lwakutshanje
     .accesskey = J
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Uhlaziyo nezongezelelo ngokuzenzekelayo
     .accesskey = n
 

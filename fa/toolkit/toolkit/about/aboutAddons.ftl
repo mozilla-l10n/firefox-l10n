@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = بررسی برای بروزرسانی‌ها
-    .accesskey = ب
     .tooltiptext = بررسی بروزرسانی‌های این افزودنی
+    .accesskey = ب
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] گزینه‌ها
            *[other] ترجیحات
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] گ
-           *[other] ت
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] تغییر گزینه‌های این افزودنی
            *[other] تغییر ترجیحات این افزودنی
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] گ
+           *[other] ت
         }
 detail-rating =
     .value = رتبه‌بندی
@@ -168,10 +168,6 @@ addon-updates-check-for-updates = بررسی برای بروزرسانی‌ها
     .accesskey = ب
 addon-updates-view-updates = مشاهده بروزرسانی‌های اخیر
     .accesskey = م
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = بروزرسانی خودکار همهٔ افزودنی‌ها
     .accesskey = ب
 
@@ -363,8 +359,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = در پنجره‌های ناشناس مجاز است
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = در پنجره‌های ناشناس مجاز است
 addon-detail-private-browsing-help = در صورت اجازه، این افزونه هنگام مرور ناشناس به فعالیت‌های برخط شما دسترسی خواهد داشت. <a data-l10n-name="learn-more">بیشتر بیاموزید</a>
 addon-detail-private-browsing-allow = اجازه دادن
 addon-detail-private-browsing-disallow = اجازه نده
@@ -387,8 +383,8 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } تنها افزونه‌هایی را توصیه میکند، که با استانداردهای ما برای امنیت و کارایی مطابقت دارند
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } تنها افزونه‌هایی را توصیه میکند، که با استانداردهای ما برای امنیت و کارایی مطابقت دارند
 
 ##
 

@@ -90,23 +90,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Zkontrolovat aktualizace
-    .accesskey = Z
     .tooltiptext = Zkontroluje dostupnost aktualizace doplňku
+    .accesskey = Z
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Možnosti
            *[other] Předvolby
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Umožní změnit možnosti doplňku
            *[other] Umožní změnit předvolby doplňku
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] P
         }
 detail-rating =
     .value = Hodnocení
@@ -198,10 +198,6 @@ addon-updates-check-for-updates = Zkontrolovat aktualizace
     .accesskey = k
 addon-updates-view-updates = Zobrazit nedávno aktualizované doplňky
     .accesskey = Z
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Automaticky aktualizovat doplňky
     .accesskey = A
 
@@ -479,8 +475,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Povoleno v anonymních oknech
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Povoleno v anonymních oknech
 addon-detail-private-browsing-help = Povolená rozšíření mají přístup k vašim online aktivitám i v anonymních oknech. <a data-l10n-name="learn-more">Zjistit více</a>
 addon-detail-private-browsing-allow = Povolit
 addon-detail-private-browsing-disallow = Nepovolit
@@ -511,16 +507,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } doporučuje jen rozšíření, která splňují naše standardy pro bezpečnost a výkon
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } doporučuje jen rozšíření, která splňují naše standardy pro bezpečnost a výkon
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Oficiální rozšíření od Mozilly. Splňuje standardy na zabezpečení i výkon
     .aria-label = { addon-badge-line3.title }
+    .title = Oficiální rozšíření od Mozilly. Splňuje standardy na zabezpečení i výkon
 addon-badge-verified2 =
-    .title = U tohoto rozšíření bylo zkontrolováno, že splňuje naše standardy ohledně zabezpečení a výkonu
     .aria-label = { addon-badge-verified2.title }
+    .title = U tohoto rozšíření bylo zkontrolováno, že splňuje naše standardy ohledně zabezpečení a výkonu
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -586,8 +582,8 @@ default-heading-search-label = Najít další doplňky
 addons-heading-search-input =
     .placeholder = Vyhledat na addons.mozilla.org
 addons-heading-search-button =
-    .title = Hledat na addons.mozilla.org
     .aria-label = Hledat na addons.mozilla.org
+    .title = Hledat na addons.mozilla.org
 addon-page-options-button =
     .title = Nástroje doplňků
 

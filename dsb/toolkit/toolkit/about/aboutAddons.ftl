@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Za aktualizacijami pytaś
-    .accesskey = Z
     .tooltiptext = Aktualizacije za toś ten dodank pytaś
+    .accesskey = Z
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Nastajenja
            *[other] Nastajenja
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Nastajenja toś togo dodanka změniś
            *[other] Nastajenja toś togo dodanka změniś
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
         }
 detail-rating =
     .value = Pógódnośenje
@@ -180,10 +180,6 @@ addon-updates-check-for-updates = Za aktualizacijami pytaś
     .accesskey = a
 addon-updates-view-updates = Nowe aktualizacije se woglědaś
     .accesskey = N
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Dodanki awtomatiski aktualizěrowaś
     .accesskey = D
 
@@ -413,8 +409,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = W priwatnych woknach dowólony
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = W priwatnych woknach dowólony
 addon-detail-private-browsing-help = Jolic maśo pšawo, ma rozšyrjenje pśistup k wašym aktiwitam online w priwatnem modusu. <a data-l10n-name="learn-more">Dalšne informacije</a>
 addon-detail-private-browsing-allow = Dowóliś
 addon-detail-private-browsing-disallow = Njedowóliś
@@ -441,16 +437,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } jano rozšyrjenja dopórucujo, kótarež našym standardam za wěstotu a wugbaśe wótpowěduju.
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } jano rozšyrjenja dopórucujo, kótarež našym standardam za wěstotu a wugbaśe wótpowěduju.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Oficielne rozšyrjenje, wuwite wót Mozilla. Docynja wěstotne a wugbaśowe standardy.
     .aria-label = { addon-badge-line3.title }
+    .title = Oficielne rozšyrjenje, wuwite wót Mozilla. Docynja wěstotne a wugbaśowe standardy.
 addon-badge-verified2 =
-    .title = Toś to rozšyrjenje jo se pśeglědało, aby našym standardam za wěstotu a wugbaśe wótpowědował.
     .aria-label = { addon-badge-verified2.title }
+    .title = Toś to rozšyrjenje jo se pśeglědało, aby našym standardam za wěstotu a wugbaśe wótpowědował.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -512,8 +508,8 @@ default-heading-search-label = Woglědajśo se dalšne dodanki
 addons-heading-search-input =
     .placeholder = Na addons.mozilla.org pytaś
 addons-heading-search-button =
-    .title = Na addons.mozilla.org pytaś
     .aria-label = Na addons.mozilla.org pytaś
+    .title = Na addons.mozilla.org pytaś
 addon-page-options-button =
     .title = Rědy za wšykne dodanki
 

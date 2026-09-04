@@ -80,23 +80,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Maghanap ng mga Update
-    .accesskey = n
     .tooltiptext = Tingnan para sa mga update para sa add-on na ito
+    .accesskey = n
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Mga Pagpipilian
            *[other] Mga Kagustuhan
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Palitan ang mga pagpipilian ng add-on na ito
            *[other] Palitan ang mga kagustuhan ng add-on na ito
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Marka
@@ -160,10 +160,6 @@ addon-updates-check-for-updates = Maghanap ng mga Update
     .accesskey = M
 addon-updates-view-updates = Tingnan ang mga Bagong Update
     .accesskey = T
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = I-update nang Kusa ang mga Add-on
     .accesskey = A
 
@@ -353,8 +349,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Pinagpayagan sa mga private window
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Pinagpayagan sa mga private window
 addon-detail-private-browsing-help = Kapag pinayagan, ang extension ay magkakaroon ng access sa iyong mga online activity habang nasa private browsing. <a data-l10n-name="learn-more">Alamin</a>
 addon-detail-private-browsing-allow = Payagan
 addon-detail-private-browsing-disallow = Huwag Payagan
@@ -363,8 +359,8 @@ addon-detail-private-browsing-disallow = Huwag Payagan
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = Inirerekomenda lamang ng { -brand-product-name } ang mga extension na pasok sa aming mga pamantayan pagdating sa seguridad at performance
     .aria-label = { addon-badge-recommended2.title }
+    .title = Inirerekomenda lamang ng { -brand-product-name } ang mga extension na pasok sa aming mga pamantayan pagdating sa seguridad at performance
 
 ##
 

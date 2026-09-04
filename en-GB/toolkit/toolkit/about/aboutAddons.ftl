@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Check for Updates
-    .accesskey = U
     .tooltiptext = Check for updates for this add-on
+    .accesskey = U
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Options
            *[other] Preferences
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Change this add-on’s options
            *[other] Change this add-on’s preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Rating
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = Check for Updates
     .accesskey = C
 addon-updates-view-updates = View Recent Updates
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Update Add-ons Automatically
     .accesskey = A
 
@@ -419,8 +415,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Allowed in private windows
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Allowed in private windows
 addon-detail-private-browsing-help = When allowed, the extension will have access to your online activities while private browsing. <a data-l10n-name="learn-more">Learn more</a>
 addon-detail-private-browsing-allow = Allow
 addon-detail-private-browsing-disallow = Don’t Allow
@@ -447,16 +443,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } only recommends extensions that meet our standards for security and performance
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } only recommends extensions that meet our standards for security and performance
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Official extension built by Mozilla. Meets security and performance standards
     .aria-label = { addon-badge-line3.title }
+    .title = Official extension built by Mozilla. Meets security and performance standards
 addon-badge-verified2 =
-    .title = This extension has been reviewed to meet our standards for security and performance
     .aria-label = { addon-badge-verified2.title }
+    .title = This extension has been reviewed to meet our standards for security and performance
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -518,8 +514,8 @@ default-heading-search-label = Find more add-ons
 addons-heading-search-input =
     .placeholder = Search addons.mozilla.org
 addons-heading-search-button =
-    .title = Search addons.mozilla.org
     .aria-label = Search addons.mozilla.org
+    .title = Search addons.mozilla.org
 addon-page-options-button =
     .title = Tools for all add-ons
 

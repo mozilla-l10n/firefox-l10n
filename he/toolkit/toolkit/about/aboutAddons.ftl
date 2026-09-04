@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = בדיקה אחר עדכונים
-    .accesskey = ב
     .tooltiptext = בדיקת עדכונים לתוספת זו
+    .accesskey = ב
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] אפשרויות
            *[other] העדפות
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] א
-           *[other] ה
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] שינוי האפשרויות של תוספת זו
            *[other] שינוי העדפות של תוספת זו
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] א
+           *[other] ה
         }
 detail-rating =
     .value = דירוג
@@ -178,10 +178,6 @@ addon-updates-check-for-updates = בדיקה אחר עדכונים
     .accesskey = ב
 addon-updates-view-updates = הצגת עדכונים אחרונים
     .accesskey = ה
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = עדכון תוספות אוטומטי
     .accesskey = ע
 
@@ -390,8 +386,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = מופעלת בחלונות פרטיים
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = מופעלת בחלונות פרטיים
 addon-detail-private-browsing-help = אם אפשרות זו מופעלת, להרחבה תהיה גישה לפעילויות המקוונות שלך בזמן גלישה פרטית. <a data-l10n-name="learn-more">מידע נוסף</a>
 addon-detail-private-browsing-allow = לאפשר
 addon-detail-private-browsing-disallow = לא לאפשר
@@ -418,16 +414,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = ‏{ -brand-product-name } ממליץ רק על הרחבות שעומדות בתקנים שלנו לאבטחה וביצועים
     .aria-label = { addon-badge-recommended2.title }
+    .title = ‏{ -brand-product-name } ממליץ רק על הרחבות שעומדות בתקנים שלנו לאבטחה וביצועים
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = הרחבה רשמית שנבנתה על־ידי Mozilla ועומדת בתקני אבטחה וביצועים.
     .aria-label = { addon-badge-line3.title }
+    .title = הרחבה רשמית שנבנתה על־ידי Mozilla ועומדת בתקני אבטחה וביצועים.
 addon-badge-verified2 =
-    .title = הרחבה זו נסקרה לטובת עמידה בתקנים שלנו לאבטחה וביצועים
     .aria-label = { addon-badge-verified2.title }
+    .title = הרחבה זו נסקרה לטובת עמידה בתקנים שלנו לאבטחה וביצועים
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -489,8 +485,8 @@ default-heading-search-label = חיפוש תוספות נוספות
 addons-heading-search-input =
     .placeholder = חיפוש ב־addons.mozilla.org
 addons-heading-search-button =
-    .title = חיפוש ב־addons.mozilla.org
     .aria-label = חיפוש ב־addons.mozilla.org
+    .title = חיפוש ב־addons.mozilla.org
 addon-page-options-button =
     .title = כלים עבור כל התוספות
 

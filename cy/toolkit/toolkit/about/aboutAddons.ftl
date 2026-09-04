@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Gwirio am Ddiweddariadau
-    .accesskey = G
     .tooltiptext = Gwirio am ddiweddariad i'r ychwanegyn
+    .accesskey = G
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Opsiynau
            *[other] Dewisiadau
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] D
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Newid opsiynau'r ychwanegyn
            *[other] Newid dewisiadau'r ychwanegyn
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] D
         }
 detail-rating =
     .value = Graddio
@@ -178,10 +178,6 @@ addon-updates-check-for-updates = Gwirio am Ddiweddariadau
     .accesskey = G
 addon-updates-view-updates = Gweld Diweddariadau Diweddar
     .accesskey = D
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Diweddaru Ychwanegion yn Awtomatig
     .accesskey = A
 
@@ -424,8 +420,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Caniatáu mewn ffenestri preifat
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Caniatáu mewn ffenestri preifat
 addon-detail-private-browsing-help = Pan mae'n cael ei ganiatáu, bydd yr estyniad ar gael i'ch gweithgareddau ar-lein tra byddwch yn pori'n breifat. <a data-l10n-name="learn-more"> Gwybod rhagor</a>
 addon-detail-private-browsing-allow = Caniatáu
 addon-detail-private-browsing-disallow = Peidio â Chaniatáu
@@ -452,16 +448,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = Dim ond estyniadau sy'n cwrdd â'n safonau ar gyfer diogelwch a pherfformiad y mae { -brand-product-name } yn eu hargymell
     .aria-label = { addon-badge-recommended2.title }
+    .title = Dim ond estyniadau sy'n cwrdd â'n safonau ar gyfer diogelwch a pherfformiad y mae { -brand-product-name } yn eu hargymell
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Estyniad swyddogol wedi'i adeiladu gan Mozilla. Mae'n cydfynd â safonau diogelwch a pherfformiad
     .aria-label = { addon-badge-line3.title }
+    .title = Estyniad swyddogol wedi'i adeiladu gan Mozilla. Mae'n cydfynd â safonau diogelwch a pherfformiad
 addon-badge-verified2 =
-    .title = Mae'r estyniad hwn wedi'i adolygu i fodloni ein safonau ar gyfer diogelwch a pherfformiad
     .aria-label = { addon-badge-verified2.title }
+    .title = Mae'r estyniad hwn wedi'i adolygu i fodloni ein safonau ar gyfer diogelwch a pherfformiad
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -523,8 +519,8 @@ default-heading-search-label = Canfod rhagor o ychwanegion
 addons-heading-search-input =
     .placeholder = Search addons.mozilla.org
 addons-heading-search-button =
-    .title = Chwilio addons.mozilla.org
     .aria-label = Chwilio addons.mozilla.org
+    .title = Chwilio addons.mozilla.org
 addon-page-options-button =
     .title = Offer ar gyfer pob ychwanegyn
 

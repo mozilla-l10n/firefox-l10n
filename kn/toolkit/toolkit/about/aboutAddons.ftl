@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = ಅಪ್‌ಡೇಟ್‌ for ಹುಡುಕು
-    .accesskey = f
     .tooltiptext = ಈ ಆಡ್-ಆನ್‌ಗಳಿಗಾಗಿ ಹುಡುಕು
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Options
            *[other] Preferences
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] ಈ ಆಡ್‌-ಆನ್‌ನ ಆಯ್ಕೆಗಳನ್ನು ಬದಲಾಯಿಸಿ
            *[other] ಈ ಆಡ್‌-ಆನ್‌ನ ಆದ್ಯತೆಗಳನ್ನು ಬದಲಾಯಿಸಿ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = ಜನಪ್ರಿಯತೆಯ ಅಂದಾಜು
@@ -117,10 +117,6 @@ addon-updates-check-for-updates = ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗ�
     .accesskey = C
 addon-updates-view-updates = ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು View
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Add-ons ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್‌ ಮಾಡು
     .accesskey = A
 

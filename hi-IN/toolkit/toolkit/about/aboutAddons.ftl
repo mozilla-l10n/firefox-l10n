@@ -60,23 +60,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = अद्यतनों के लिए जाँचें
-    .accesskey = f
     .tooltiptext = इस सहयुक्ति के लिए अद्यतन के लिए जाँच करें
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] विकल्प
            *[other] वरीयताएँ
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] इस सहयुक्ति के विकल्पों को बदलें
            *[other] इस सहयुक्ति की वरीयताएँ बदलें
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = दर
@@ -136,10 +136,6 @@ addon-updates-check-for-updates = अद्यतन की जाँच कर�
     .accesskey = C
 addon-updates-view-updates = हालिया अद्यतन देखें
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ऐड-ऑन्स स्वतः अद्यतन करें
     .accesskey = A
 
@@ -277,8 +273,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = निजी विंडो में अनुमति है
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = निजी विंडो में अनुमति है
 
 ##
 

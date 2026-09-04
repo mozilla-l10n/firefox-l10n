@@ -54,23 +54,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = सुधारणांकरिता तपासणी करा
-    .accesskey = f
     .tooltiptext = या ॲड-ऑनकरीता सुधारणांकरीता तपासणी करा
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] पर्याय
            *[other] प्राधान्यक्रम
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] या ॲड-ऑनचे पर्याय बदला
            *[other] या ॲड-ऑनचा प्राधान्यक्रम बदला
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = गुणवत्ताश्रेणी
@@ -130,10 +130,6 @@ addon-updates-check-for-updates = सुधारणांकरीता तप
     .accesskey = C
 addon-updates-view-updates = नुकत्याच सुधारणांचे दृष्य
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ॲड-ऑन्स् स्वयं सुधारित करा
     .accesskey = A
 

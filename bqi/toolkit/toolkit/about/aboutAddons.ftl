@@ -207,8 +207,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = هشتن من نیمدری یل سیخومی
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = هشتن من نیمدری یل سیخومی
 addon-detail-private-browsing-allow = هشتن
 addon-detail-private-browsing-disallow = نشتن
 # aria-label associated to the private browsing row to help screen readers to announce the group

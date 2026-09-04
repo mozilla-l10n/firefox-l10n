@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = ពិនិត្យមើល​បច្ចុប្បន្នភាព
-    .accesskey = ព
     .tooltiptext = រកមើល​បច្ចុប្បន្នភាព​សម្រាប់​កម្មវិធី​បន្ថែម​នេះ
+    .accesskey = ព
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] ជម្រើស
            *[other] ចំណូលចិត្ត
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] ផ្លាស់ប្ដូរ​ជម្រើស​របស់​កម្មវិធី​បន្ថែម​នេះ
            *[other] ផ្លាស់ប្ដូរ​ចំណូលចិត្ត​របស់​កម្មវិធី​បន្ថែម​នេះ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = ការ​វាយតម្លៃ
@@ -116,10 +116,6 @@ addon-updates-check-for-updates = ពិនិត្យមើល​បច្ច�
     .accesskey = ព
 addon-updates-view-updates = មើល​បច្ចុប្បន្នភាព​ថ្មីៗ
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម​ដោយ​ស្វ័យប្រវត្តិ
     .accesskey = A
 

@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = အဆင့်မြှင့်တင်ရန်လိုအပ်နေလားစစ်ကြည့်မည်။
-    .accesskey = အ
     .tooltiptext = ယခုအက်အွန်အတွက် အဆင့်မြင်တင်မှုများအား စစ်ဆေးပါ
+    .accesskey = အ
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] ရွေးစရာများ
            *[other] ဦးစားပေး အချက်များ
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] ယခုအက်အွန်၏ ရွေးချယ်ပိုင်ခွင့်အား ပြုပြင်ပါ
            *[other] ယခုအက်အွန်၏ preferences ကိုပြောင်းပါ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = အဆင့်
@@ -115,10 +115,6 @@ addon-updates-check-for-updates = အဆင့်မြှင့်တင်ရ�
     .accesskey = အ
 addon-updates-view-updates = လတ်တလော အပ်ဒိပ်များကို ကြည့်ပါ
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = အက်အွန်အား အလိုအလျောက် အဆင့်မြင်တင်ပါ
     .accesskey = A
 

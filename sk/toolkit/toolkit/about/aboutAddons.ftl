@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Hľadať aktualizácie
-    .accesskey = H
     .tooltiptext = Vyhľadať aktualizácie tohto doplnku
+    .accesskey = H
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Možnosti
            *[other] Možnosti
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] M
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Upraviť možnosti a nastavenia tohto doplnku
            *[other] Upraviť možnosti a nastavenia tohto doplnku
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] M
         }
 detail-rating =
     .value = Hodnotenie
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = Vyhľadať aktualizácie
     .accesskey = V
 addon-updates-view-updates = Zobraziť nedávno aktualizované
     .accesskey = Z
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Automaticky aktualizovať doplnky
     .accesskey = A
 
@@ -418,8 +414,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Povolené v súkromných oknách
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Povolené v súkromných oknách
 addon-detail-private-browsing-help = Povolené rozšírenia majú prístup k vašim aktivitám na internete v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 addon-detail-private-browsing-allow = Povoliť
 addon-detail-private-browsing-disallow = Nepovoliť
@@ -446,16 +442,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } odporúča len rozšírenia, ktoré spĺňajú naše štandardy pre bezpečnosť a výkon.
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } odporúča len rozšírenia, ktoré spĺňajú naše štandardy pre bezpečnosť a výkon.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Oficiálne rozšírenie od autorov Firefoxu. Spĺňa bezpečnostné a výkonové štandardy.
     .aria-label = { addon-badge-line3.title }
+    .title = Oficiálne rozšírenie od autorov Firefoxu. Spĺňa bezpečnostné a výkonové štandardy.
 addon-badge-verified2 =
-    .title = Toto rozšírenie bolo skontrolované a spĺňa naše štandardy bezpečnosti a výkonu
     .aria-label = { addon-badge-verified2.title }
+    .title = Toto rozšírenie bolo skontrolované a spĺňa naše štandardy bezpečnosti a výkonu
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -517,8 +513,8 @@ default-heading-search-label = Zobraziť ďalšie doplnky
 addons-heading-search-input =
     .placeholder = Hľadať na addons.mozilla.org
 addons-heading-search-button =
-    .title = Hľadať na addons.mozilla.org
     .aria-label = Hľadať na addons.mozilla.org
+    .title = Hľadať na addons.mozilla.org
 addon-page-options-button =
     .title = Nástroje pre všetky doplnky
 

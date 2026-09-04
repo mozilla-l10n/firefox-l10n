@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ
-    .accesskey = F
     .tooltiptext = ਇਹ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਚੈੱਕ ਕਰੋ
+    .accesskey = F
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] ਚੋਣਾਂ
            *[other] ਮੇਰੀ ਪਸੰਦ
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] ਇਸ ਐਡ-ਆਨ ਦੀਆਂ ਚੋਣਾਂ ਬਦਲੋ
            *[other] ਇਸ ਐਡ-ਆਨ ਦੀ ਪਸੰਦ ਬਦਲੋ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = ਰੇਟਿੰਗ
@@ -178,10 +178,6 @@ addon-updates-check-for-updates = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰ�
     .accesskey = C
 addon-updates-view-updates = ਤਾਜ਼ਾ ਅੱਪਡੇਟ ਵੇਖੋ
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ਐਡ-ਆਨ ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = A
 
@@ -405,8 +401,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਇਜਾਜ਼ਤ ਦਿਓ
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਇਜਾਜ਼ਤ ਦਿਓ
 addon-detail-private-browsing-help = ਜਦੋਂ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਤਾਂ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਵੀ ਤੁਹਾਡੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 addon-detail-private-browsing-allow = ਮਨਜ਼ੂਰ
 addon-detail-private-browsing-disallow = ਮਨਜ਼ੂਰ ਨਾ ਕਰੋ
@@ -433,16 +429,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ, ਜੋ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰ ਪੂਰੇ ਕਰਦੇ ਹਨ।
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ, ਜੋ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰ ਪੂਰੇ ਕਰਦੇ ਹਨ।
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = ਅਧਿਕਾਰਿਤ ਇਕਸਟੈਨਸ਼ਨ Mozilla ਵਲੋਂ ਬਣਾਈ ਹੈ। ਸਾਰੇ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰਾ ਉਤਰਦੀ ਹੈ।
     .aria-label = { addon-badge-line3.title }
+    .title = ਅਧਿਕਾਰਿਤ ਇਕਸਟੈਨਸ਼ਨ Mozilla ਵਲੋਂ ਬਣਾਈ ਹੈ। ਸਾਰੇ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰਾ ਉਤਰਦੀ ਹੈ।
 addon-badge-verified2 =
-    .title = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰ੍ਹਾ ਉਤਰਨ ਲਈ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ
     .aria-label = { addon-badge-verified2.title }
+    .title = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰ੍ਹਾ ਉਤਰਨ ਲਈ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -504,8 +500,8 @@ default-heading-search-label = ਹੋਰ ਐਡ-ਆਨ ਲੱਭੋ
 addons-heading-search-input =
     .placeholder = addons.mozilla.org ਨੂੰ ਖੋਜੋ
 addons-heading-search-button =
-    .title = addons.mozilla.org ਉੱਤੇ ਖੋਜੋ
     .aria-label = addons.mozilla.org ਉੱਤੇ ਖੋਜੋ
+    .title = addons.mozilla.org ਉੱਤੇ ਖੋਜੋ
 addon-page-options-button =
     .title = ਸਭ ਐਡ-ਆਨ ਲਈ ਟੂਲ
 

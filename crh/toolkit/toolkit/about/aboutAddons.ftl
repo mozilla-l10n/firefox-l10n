@@ -60,23 +60,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Yañartmalar içün Teşker
-    .accesskey = i
     .tooltiptext = Bu eklenti içün yañartmalar içün teşker
+    .accesskey = i
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] İhtiyariyat
            *[other] Tercihler
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] h
-           *[other] T
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Bu eklentiniñ ihtiyariyatını deñiştir
            *[other] Bu eklentiniñ tercihlerini deñiştir
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] h
+           *[other] T
         }
 detail-rating =
     .value = Derecelendirme
@@ -139,10 +139,6 @@ addon-updates-check-for-updates = Yañartmalar içün Teşker
     .accesskey = T
 addon-updates-view-updates = Deminki Yañartmalarğa Baq
     .accesskey = B
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Eklentilerni Öz-özünden Yañart
     .accesskey = z
 

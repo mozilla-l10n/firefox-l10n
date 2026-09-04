@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Caută actualizări
-    .accesskey = f
     .tooltiptext = Caută actualizări pentru acest supliment
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Opțiuni
            *[other] Preferințe
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Schimbă opțiunile acestui supliment
            *[other] Schimbă preferințele acestui supliment
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Evaluare
@@ -178,10 +178,6 @@ addon-updates-check-for-updates = Caută actualizări
     .accesskey = C
 addon-updates-view-updates = Vezi actualizările recente
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Actualizează automat suplimentele
     .accesskey = A
 
@@ -408,8 +404,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Permis în ferestre private
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Permis în ferestre private
 addon-detail-private-browsing-help = Când are accesul permis, extensia va avea acces la activitățile tale online în navigarea privată. <a data-l10n-name="learn-more">Află mai multe</a>
 addon-detail-private-browsing-allow = Permite
 addon-detail-private-browsing-disallow = Nu permite
@@ -436,16 +432,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } recomandă numai extensiile care ne întrunesc standardele de securitate și performanță
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } recomandă numai extensiile care ne întrunesc standardele de securitate și performanță
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Extensie oficială creată de Mozilla. Întrunește standardele de securitate și performanță.
     .aria-label = { addon-badge-line3.title }
+    .title = Extensie oficială creată de Mozilla. Întrunește standardele de securitate și performanță.
 addon-badge-verified2 =
-    .title = Extensia a fost revizuită și întrunește standardele noastre de securitate și performanță
     .aria-label = { addon-badge-verified2.title }
+    .title = Extensia a fost revizuită și întrunește standardele noastre de securitate și performanță
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -507,8 +503,8 @@ default-heading-search-label = Caută mai multe suplimente
 addons-heading-search-input =
     .placeholder = Caută pe addons.mozilla.org
 addons-heading-search-button =
-    .title = Caută pe addons.mozilla.org
     .aria-label = Caută pe addons.mozilla.org
+    .title = Caută pe addons.mozilla.org
 addon-page-options-button =
     .title = Instrumente pentru toate suplimentele
 

@@ -60,23 +60,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Çerca agiornamenti
-    .accesskey = a
     .tooltiptext = Çerca agiornamenti pe sto conponente azonto
+    .accesskey = a
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Inpostaçioin
            *[other] Preferense
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Cangia e preferense de sto conponente azonto
            *[other] Cangia e preferense de sto conponente azonto
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] P
         }
 detail-rating =
     .value = Clasifica
@@ -136,10 +136,6 @@ addon-updates-check-for-updates = Çerca agiornamenti
     .accesskey = c
 addon-updates-view-updates = Fanni vedde i urtimi agiornamenti
     .accesskey = v
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Agiorna i conponenti azonti in aotomatico
     .accesskey = A
 

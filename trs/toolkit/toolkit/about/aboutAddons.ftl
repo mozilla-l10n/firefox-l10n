@@ -70,23 +70,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Nana'uì' sa Nahuin nakà doj
-    .accesskey = F
     .tooltiptext = Nana'uì' sa' ga'ue nahuin nakà riña komplementô nan
+    .accesskey = F
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Sa huā gi'iát
            *[other] Sa arajsunt doj
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Naduna nej sa nikaj komplementô nan
            *[other] Naduna nej sa garan' ruhuât riña komplementô nan
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Antaj nikò guìi araj sun man
@@ -150,10 +150,6 @@ addon-updates-check-for-updates = Nana'uì' sa Nahuin nakà doj
     .accesskey = C
 addon-updates-view-updates = Ni'iaj nej sa hìaj nahuin nakà
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Dunaj nahuin nakà ma'an nej komplemênto
     .accesskey = A
 
@@ -329,8 +325,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Màn riña nej bentanâ huìi huaj
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Màn riña nej bentanâ huìi huaj
 addon-detail-private-browsing-help = Sisi ga'nïn, ekstensiûn nan ga'ue ni'iaj sa 'iát nga aché nun huìt. <a data-l10n-name="learn-more">Gahuin chrun doj</a>
 addon-detail-private-browsing-allow = Ga'nïn
 addon-detail-private-browsing-disallow = Si ga'nï'
@@ -339,8 +335,8 @@ addon-detail-private-browsing-disallow = Si ga'nï'
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } nadiganj nej ekstensiûn nikò’ si nuguàn’ ñûnj dàj duguminj nī dàj ‘iaj sunj
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } nadiganj nej ekstensiûn nikò’ si nuguàn’ ñûnj dàj duguminj nī dàj ‘iaj sunj
 
 ##
 

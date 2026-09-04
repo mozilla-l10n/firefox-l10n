@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Traži nove verzije
-    .accesskey = T
     .tooltiptext = Traži nove verzije za ovaj dodatak
+    .accesskey = T
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Mogućnosti
            *[other] Postavke
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Promijeni mogućnosti ovog dodatka
            *[other] Promijeni postavke ovog dodatka
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] P
         }
 detail-rating =
     .value = Ocjena
@@ -176,10 +176,6 @@ addon-updates-check-for-updates = Traži nove verzije
     .accesskey = T
 addon-updates-view-updates = Prikaži nedavna aktualiziranja
     .accesskey = P
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Automatski aktualiziraj dodatke
     .accesskey = A
 
@@ -414,8 +410,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Dopušteno u privatnim prozorima
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Dopušteno u privatnim prozorima
 addon-detail-private-browsing-help = Kad je dopušteno, dodatak će imati pristup tvojim aktivnostima dok si u privatnom pretraživanju. <a data-l10n-name="learn-more">Saznaj više</a>
 addon-detail-private-browsing-allow = Dozvoli
 addon-detail-private-browsing-disallow = Nemoj dozvoliti
@@ -442,16 +438,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } preporučuje samo proširenja koja udovoljavaju našim standardima za sigurnost i performanse
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } preporučuje samo proširenja koja udovoljavaju našim standardima za sigurnost i performanse
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Službeno proširenje koje je izradila Mozilla. Udovoljava standardima sigurnosti i performansi
     .aria-label = { addon-badge-line3.title }
+    .title = Službeno proširenje koje je izradila Mozilla. Udovoljava standardima sigurnosti i performansi
 addon-badge-verified2 =
-    .title = Na ovom proširenju izvršen je pregled udovoljava li našim standardima za sigurnost i performanse
     .aria-label = { addon-badge-verified2.title }
+    .title = Na ovom proširenju izvršen je pregled udovoljava li našim standardima za sigurnost i performanse
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -513,8 +509,8 @@ default-heading-search-label = Pronađi daljnje dodatke
 addons-heading-search-input =
     .placeholder = Pretraži addons.mozilla.org
 addons-heading-search-button =
-    .title = Pretraži addons.mozilla.org
     .aria-label = Pretraži addons.mozilla.org
+    .title = Pretraži addons.mozilla.org
 addon-page-options-button =
     .title = Alati za sve dodatke
 

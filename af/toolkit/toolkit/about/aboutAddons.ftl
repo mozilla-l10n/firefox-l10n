@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Kontroleer vir bywerkings
-    .accesskey = v
     .tooltiptext = Kontroleer vir bywerking vir hierdie byvoeging
+    .accesskey = v
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Opsies
            *[other] Voorkeure
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] V
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Verander hierdie byvoeging se opsies
            *[other] Verander hierdie byvoeging se voorkeure
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] V
         }
 detail-rating =
     .value = Gradering
@@ -119,10 +119,6 @@ addon-updates-check-for-updates = Kontroleer vir bywerkings
     .accesskey = K
 addon-updates-view-updates = Bekyk onlangse bywerkings
     .accesskey = B
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Werk byvoegings outomaties by
     .accesskey = W
 

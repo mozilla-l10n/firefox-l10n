@@ -26,8 +26,8 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Palutputen ti Pannanarimaan
-    .accesskey = f
     .tooltiptext = Palutputen ti pananarimaan kadaytoy a raman
+    .accesskey = f
 addon-restart-now =
     .label = Irugi manen itan
 addon-category-plugin = Anay
@@ -52,10 +52,6 @@ addon-updates-check-for-updates = Palutputen ti Pannanarimaan
     .accesskey = C
 addon-updates-view-updates = Ipadlaw ti Nabiit a Pannanarimaan
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 
 ## Status messages displayed when updating add-ons
 

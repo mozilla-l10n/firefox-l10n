@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Periksa versi baru
-    .accesskey = v
     .tooltiptext = Periksa versi baru pengaya ini
+    .accesskey = v
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Pengaturan
            *[other] Pengaturan
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Ubah pengaturan pengaya ini
            *[other] Ubah pengaturan pengaya ini
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] P
         }
 detail-rating =
     .value = Peringkat
@@ -177,10 +177,6 @@ addon-updates-check-for-updates = Periksa Versi Baru
     .accesskey = P
 addon-updates-view-updates = Tampilkan Versi Baru
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Otomatis Perbarui Pengaya
     .accesskey = O
 
@@ -387,8 +383,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Diizinkan di jendela pribadi
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Diizinkan di jendela pribadi
 addon-detail-private-browsing-help = Jika diizinkan, ekstensi akan memiliki akses ke aktivitas daring Anda saat menjelajah secara pribadi. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
 addon-detail-private-browsing-allow = Izinkan
 addon-detail-private-browsing-disallow = Jangan Izinkan
@@ -415,16 +411,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } hanya menyarankan ekstensi yang memenuhi standar keamanan dan kinerja kami.
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } hanya menyarankan ekstensi yang memenuhi standar keamanan dan kinerja kami.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Ekstensi resmi yang dibuat oleh Mozilla, memenuhi standar keamanan dan kinerja
     .aria-label = { addon-badge-line3.title }
+    .title = Ekstensi resmi yang dibuat oleh Mozilla, memenuhi standar keamanan dan kinerja
 addon-badge-verified2 =
-    .title = Ekstensi ini telah ditinjau untuk memenuhi standar keamanan dan kinerja kami
     .aria-label = { addon-badge-verified2.title }
+    .title = Ekstensi ini telah ditinjau untuk memenuhi standar keamanan dan kinerja kami
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Güncellemeleri denetle
-    .accesskey = m
     .tooltiptext = Bu eklentinin güncellemelerini denetle
+    .accesskey = m
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Seçenekler
            *[other] Tercihler
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] T
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Bu eklentinin seçeneklerini değiştir
            *[other] Bu eklentinin tercihlerini değiştir
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] T
         }
 detail-rating =
     .value = Puan
@@ -183,10 +183,6 @@ addon-updates-check-for-updates = Güncellemeleri denetle
     .accesskey = G
 addon-updates-view-updates = Son güncellemeleri görüntüle
     .accesskey = o
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Eklentileri kendiliğinden güncelle
     .accesskey = n
 
@@ -408,8 +404,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Gizli pencerelerde izinli
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Gizli pencerelerde izinli
 addon-detail-private-browsing-help = İzin verirseniz bu uzantı, gizli gezinti sırasında çevrimiçi etkinliklerinize erişebilir. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 addon-detail-private-browsing-allow = İzin ver
 addon-detail-private-browsing-disallow = İzin verme
@@ -436,16 +432,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } yalnızca güvenlik ve performans standartlarımızı karşılayan uzantıları önerir
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } yalnızca güvenlik ve performans standartlarımızı karşılayan uzantıları önerir
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Resmi Mozilla uzantısı. Güvenlik ve performans standartlarını karşılar.
     .aria-label = { addon-badge-line3.title }
+    .title = Resmi Mozilla uzantısı. Güvenlik ve performans standartlarını karşılar.
 addon-badge-verified2 =
-    .title = Bu uzantı incelendi, güvenlik ve performans standartlarımızı karşıladığı onaylandı
     .aria-label = { addon-badge-verified2.title }
+    .title = Bu uzantı incelendi, güvenlik ve performans standartlarımızı karşıladığı onaylandı
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -507,8 +503,8 @@ default-heading-search-label = Daha fazla eklenti bul
 addons-heading-search-input =
     .placeholder = addons.mozilla.org’da ara
 addons-heading-search-button =
-    .title = addons.mozilla.org’da ara
     .aria-label = addons.mozilla.org’da ara
+    .title = addons.mozilla.org’da ara
 addon-page-options-button =
     .title = Tüm eklentiler için araçlar
 

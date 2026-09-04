@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = اپ ڈیٹاں کیتے چیک کرو
-    .accesskey = U
     .tooltiptext = ایں ایڈ-آن کیتے اپ ڈیٹاں چیک کرو
+    .accesskey = U
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] اختیارات
            *[other] ترجیحاں
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] ایں ایڈ آن دے اختیارات تبدیل کرو
            *[other] ایں ایڈ-دیاں ترجیحاں تبدیل کرو
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = ریٹنگ
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = اپ ڈیٹاں دی پڑتال کرو
     .accesskey = C
 addon-updates-view-updates = حالیہ اپ ڈیٹاں دا نظارہ کرو
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ایڈ آنز آپݨے آپ اپ ڈیٹ کرو
     .accesskey = A
 
@@ -392,8 +388,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = نجی ونڈوز وِچ اجازت ہے
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = نجی ونڈوز وِچ اجازت ہے
 addon-detail-private-browsing-help = اجازت ملݨ تے، ایکسٹینشن کوں نجی براؤزنگ دے دوران تہاݙی آن لائن سرگرمیاں تائیں رسائی حاصل تھیس۔ <a data-l10n-name="learn-more">ودھیک ڄاݨو</a>
 addon-detail-private-browsing-allow = اجازت ݙیوو
 addon-detail-private-browsing-disallow = اجازت نہ ݙیوو
@@ -420,16 +416,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } صرف ایکسٹینشنز دی تجویز کریندا ہے جیڑھا سیکیورٹی تے کارکردگی کیتے اساݙے کیتے معیاراں تے پورا لہندے ہن۔
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } صرف ایکسٹینشنز دی تجویز کریندا ہے جیڑھا سیکیورٹی تے کارکردگی کیتے اساݙے کیتے معیاراں تے پورا لہندے ہن۔
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = موزیلا دی طرفوں بݨایا ڳیا آفیشل ایکسٹینشن۔ سیکیورٹی تے کارکردگی دے معیار تے پورا لہندا ہے۔
     .aria-label = { addon-badge-line3.title }
+    .title = موزیلا دی طرفوں بݨایا ڳیا آفیشل ایکسٹینشن۔ سیکیورٹی تے کارکردگی دے معیار تے پورا لہندا ہے۔
 addon-badge-verified2 =
-    .title = سیکیورٹی تے کارکردگی کیتے اساݙے معیاراں تے پورا لہݨ کیتے ایں ایکسٹنش دا جائزہ گھدا ڳیا ہے
     .aria-label = { addon-badge-verified2.title }
+    .title = سیکیورٹی تے کارکردگی کیتے اساݙے معیاراں تے پورا لہݨ کیتے ایں ایکسٹنش دا جائزہ گھدا ڳیا ہے
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

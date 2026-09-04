@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Cercar actualisationes
-    .accesskey = C
     .tooltiptext = Cercar actualisationes pro iste additivo
+    .accesskey = C
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Optiones
            *[other] Preferentias
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Cambiar le optiones de iste additivo
            *[other] Cambiar le preferentias de iste additivo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Evalutation
@@ -176,10 +176,6 @@ addon-updates-check-for-updates = Cercar actualisationes
     .accesskey = C
 addon-updates-view-updates = Vider le actualisationes recente
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Actualisar le additivos automaticamente
     .accesskey = A
 
@@ -405,8 +401,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Permittite in fenestras private
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Permittite in fenestras private
 addon-detail-private-browsing-help = Quando permittite, le extension habera accesso a tu activitates in linea durante le navigation private. <a data-l10n-name="learn-more">Saper plus</a>
 addon-detail-private-browsing-allow = Permitter
 addon-detail-private-browsing-disallow = Non permitter
@@ -433,16 +429,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } recommenda solmente le extensiones que satisface nostre normas de securitate e efficientia.
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } recommenda solmente le extensiones que satisface nostre normas de securitate e efficientia.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Extension official producite per Mozilla. Satisface le standards de securitate e rendimento
     .aria-label = { addon-badge-line3.title }
+    .title = Extension official producite per Mozilla. Satisface le standards de securitate e rendimento
 addon-badge-verified2 =
-    .title = Iste extension ha essite revidite pro satisfacer nostre standards de securitate e rendimento
     .aria-label = { addon-badge-verified2.title }
+    .title = Iste extension ha essite revidite pro satisfacer nostre standards de securitate e rendimento
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -504,8 +500,8 @@ default-heading-search-label = Cercar altere additivos
 addons-heading-search-input =
     .placeholder = Cercar sur addons.mozilla.org
 addons-heading-search-button =
-    .title = Cercar sur addons.mozilla.org
     .aria-label = Cercar sur addons.mozilla.org
+    .title = Cercar sur addons.mozilla.org
 addon-page-options-button =
     .title = Instrumentos pro tote le additivos
 

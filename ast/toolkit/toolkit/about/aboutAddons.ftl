@@ -50,15 +50,15 @@ detail-show-preferences =
             [windows] Opciones
            *[other] Preferencies
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Camuda les opciones d'esti complementu
            *[other] Camuda les preferencies d'esti complementu
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Valoración
@@ -106,10 +106,6 @@ addon-updates-check-for-updates = Comprobar los anovamientos
     .accesskey = C
 addon-updates-view-updates = Ver los anovamientos de recién
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Anovar automáticamente los complementos
     .accesskey = A
 
@@ -257,16 +253,16 @@ addon-detail-private-browsing-disallow = Nun permitir
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } aconseya namás les estensiones que cumplan colos nuesos estándares de seguranza y rindimientu
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } aconseya namás les estensiones que cumplan colos nuesos estándares de seguranza y rindimientu
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Estensión oficial fecha por Mozilla. Cumple colos estándares de seguranza y rindimientu
     .aria-label = { addon-badge-line3.title }
+    .title = Estensión oficial fecha por Mozilla. Cumple colos estándares de seguranza y rindimientu
 addon-badge-verified2 =
-    .title = Esta estensión revisóse pa cumplir colos nuesos estándares de seguranza y rindimientu
     .aria-label = { addon-badge-verified2.title }
+    .title = Esta estensión revisóse pa cumplir colos nuesos estándares de seguranza y rindimientu
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

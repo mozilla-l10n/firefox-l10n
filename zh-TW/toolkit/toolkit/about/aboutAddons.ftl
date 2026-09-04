@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = 檢查更新
-    .accesskey = f
     .tooltiptext = 檢查此附加元件是否有更新版本
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] 選項
            *[other] 偏好設定
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] 修改此附加元件的選項
            *[other] 修改此附加元件的偏好設定
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = 評分
@@ -176,10 +176,6 @@ addon-updates-check-for-updates = 檢查更新
     .accesskey = C
 addon-updates-view-updates = 檢視最近的更新
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = 自動更新附加元件
     .accesskey = A
 
@@ -395,8 +391,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = 允許於隱私瀏覽視窗運作
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = 允許於隱私瀏覽視窗運作
 addon-detail-private-browsing-help = 允許後，您在隱私瀏覽模式上網時，擴充套件將可得知您的線上行為。<a data-l10n-name="learn-more">了解更多</a>
 addon-detail-private-browsing-allow = 允許
 addon-detail-private-browsing-disallow = 不允許
@@ -423,16 +419,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } 僅推薦符合我們的安全性與效能標準的擴充套件
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } 僅推薦符合我們的安全性與效能標準的擴充套件
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = 由 Mozilla 打造的官方附加元件，符合各種安全性與運作效能標準
     .aria-label = { addon-badge-line3.title }
+    .title = 由 Mozilla 打造的官方附加元件，符合各種安全性與運作效能標準
 addon-badge-verified2 =
-    .title = 我們檢查過此擴充套件，確認符合安全性與運作效能標準
     .aria-label = { addon-badge-verified2.title }
+    .title = 我們檢查過此擴充套件，確認符合安全性與運作效能標準
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -494,8 +490,8 @@ default-heading-search-label = 看更多附加元件！
 addons-heading-search-input =
     .placeholder = 在 addons.mozilla.org 搜尋
 addons-heading-search-button =
-    .title = 在 addons.mozilla.org 搜尋
     .aria-label = 在 addons.mozilla.org 搜尋
+    .title = 在 addons.mozilla.org 搜尋
 addon-page-options-button =
     .title = 所有附加元件的工具
 

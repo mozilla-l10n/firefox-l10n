@@ -78,23 +78,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Cerca actualitzacions
-    .accesskey = t
     .tooltiptext = Cerca actualitzacions d'este complement
+    .accesskey = t
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Opcions
            *[other] Preferències
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Canvia les opcions del complement
            *[other] Canvia les preferències del complement
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Puntuació
@@ -160,10 +160,6 @@ addon-updates-check-for-updates = Cerca actualitzacions
     .accesskey = C
 addon-updates-view-updates = Visualitza les actualitzacions recents
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Actualitza els complements automàticament
     .accesskey = A
 
@@ -356,8 +352,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Es permet en finestres privades
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Es permet en finestres privades
 addon-detail-private-browsing-help = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
 addon-detail-private-browsing-allow = Permet
 addon-detail-private-browsing-disallow = No ho permetes
@@ -366,16 +362,16 @@ addon-detail-private-browsing-disallow = No ho permetes
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = El { -brand-product-name } només recomana extensions que compleixen els nostres estàndards de seguretat i de rendiment
     .aria-label = { addon-badge-recommended2.title }
+    .title = El { -brand-product-name } només recomana extensions que compleixen els nostres estàndards de seguretat i de rendiment
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Extensió oficial creada per Mozilla. Compleix els estàndards de seguretat i rendiment.
     .aria-label = { addon-badge-line3.title }
+    .title = Extensió oficial creada per Mozilla. Compleix els estàndards de seguretat i rendiment.
 addon-badge-verified2 =
-    .title = Esta extensió s'ha revisat i compleix els nostres estàndards de seguretat i rendiment
     .aria-label = { addon-badge-verified2.title }
+    .title = Esta extensió s'ha revisat i compleix els nostres estàndards de seguretat i rendiment
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

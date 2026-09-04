@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Controlla atualizatziones
-    .accesskey = C
     .tooltiptext = Controlla is atualizatziones pro custu cumplementu
+    .accesskey = C
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Optziones
            *[other] Preferèntzias
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Modìfica is optziones de custu cumplementu
            *[other] Modìfica is preferèntzias de custu cumplementu
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Valutatzione
@@ -165,10 +165,6 @@ addon-updates-check-for-updates = Controlla atualizatziones
     .accesskey = C
 addon-updates-view-updates = Ammustra atualizatziones reghentes
     .accesskey = m
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Atualiza is cumplementos in automàticu
     .accesskey = z
 
@@ -380,8 +376,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Permìtida in is ventanas privadas
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Permìtida in is ventanas privadas
 addon-detail-private-browsing-allow = Permite
 addon-detail-private-browsing-disallow = Non permitas
 

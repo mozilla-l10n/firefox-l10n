@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Lorg ùrachaidhean
-    .accesskey = L
     .tooltiptext = Lorg ùrachaidhean airson an tuilleadain seo
+    .accesskey = L
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Roghainnean
            *[other] Roghainnean
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] R
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Atharraich roghainnean an tuilleadain seo
            *[other] Atharraich roghainnean an tuilleadain seo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] R
         }
 detail-rating =
     .value = Rangachadh
@@ -171,10 +171,6 @@ addon-updates-check-for-updates = Lorg ùrachaidhean
     .accesskey = c
 addon-updates-view-updates = Seall na chaidh ùrachadh o chionn goirid
     .accesskey = S
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Ùraich na tuilleadain gu fèin-obrachail
     .accesskey = a
 
@@ -380,8 +376,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Ceadaichte ann an uinneagan prìobhaideach
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Ceadaichte ann an uinneagan prìobhaideach
 addon-detail-private-browsing-help = Ma fhuair e cead, gheibh an leudachan cothrom air a’ ghnìomhachd air loidhne agad nuair a bhios tu ri brabhsadh prìobhaideach. <a data-l10n-name="learn-more">Barrachd fiosrachaidh</a>
 addon-detail-private-browsing-allow = Ceadaich
 addon-detail-private-browsing-disallow = Na ceadaich
@@ -390,16 +386,16 @@ addon-detail-private-browsing-disallow = Na ceadaich
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = Cha mhol { -brand-product-name } ach leudachain a choileanas na stannardan againn a thaobh tèarainteachd is dèanadas
     .aria-label = { addon-badge-recommended2.title }
+    .title = Cha mhol { -brand-product-name } ach leudachain a choileanas na stannardan againn a thaobh tèarainteachd is dèanadas
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Leudachan oifigeil le Mozilla. Tha e a’ coileanadh nan stannardan a thaobh tèarainteachd is dèanadas
     .aria-label = { addon-badge-line3.title }
+    .title = Leudachan oifigeil le Mozilla. Tha e a’ coileanadh nan stannardan a thaobh tèarainteachd is dèanadas
 addon-badge-verified2 =
-    .title = Chaidh an leudachan seo a sgrùdadh is tha e a’ coileanadh nan stannardan againn a thaobh tèarainteachd is dèanadas
     .aria-label = { addon-badge-verified2.title }
+    .title = Chaidh an leudachan seo a sgrùdadh is tha e a’ coileanadh nan stannardan againn a thaobh tèarainteachd is dèanadas
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

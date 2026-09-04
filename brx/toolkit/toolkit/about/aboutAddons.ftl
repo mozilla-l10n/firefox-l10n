@@ -47,23 +47,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = आपडेटफोरनि थाखाय आनजाद खालाम
-    .accesskey = f
     .tooltiptext = बे add-on नि थाखाय आपडेटफोरनि थाखाय आनजाद खालाम
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] उफ्रा
            *[other] पसन्द
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] बे add-on नि उफ्राफोरखौ सोलाय
            *[other] बे add-on नि पसन्दखौ सोलाय
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = थाखो फारि
@@ -113,10 +113,6 @@ addon-updates-check-for-updates = आपडेटफोरनि थाखाय
     .accesskey = C
 addon-updates-view-updates = दानि आपडेटफोरखौ नाइ
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Add-ons खौ गावनो गाव महरै आपडेट खालाम
     .accesskey = A
 

@@ -42,23 +42,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = اپڈیٹس كریو جانچ
-    .accesskey = f
     .tooltiptext = یَتھ آیڈ آنسس خٲطرئ وچھیو اپ ڈیٹس
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] آپشنس
            *[other] ترجیح
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] یئ ایڈ آن صورت بدلٲویو
            *[other] یئ ایڈ آن ترجیح بدلٲویو
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = ریٹینگ
@@ -105,10 +105,6 @@ addon-updates-check-for-updates = اپڈیٹس خٲطرئ ركیو جانچ
     .accesskey = C
 addon-updates-view-updates = حالئك اپڈیٹس وچھیو
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ایڈ آنس كریو اپ ڈیٹ پانٲی
     .accesskey = A
 

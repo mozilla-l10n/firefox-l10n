@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = ตรวจสอบการอัปเดต
-    .accesskey = ต
     .tooltiptext = ตรวจสอบการอัปเดตสำหรับส่วนเสริมนี้
+    .accesskey = ต
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] ตัวเลือก
            *[other] ค่าปรับแต่ง
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ต
-           *[other] ค
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] เปลี่ยนตัวเลือกของส่วนเสริมนี้
            *[other] เปลี่ยนค่าปรับแต่งของส่วนเสริมนี้
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ต
+           *[other] ค
         }
 detail-rating =
     .value = การจัดอันดับ
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = ตรวจสอบการอัปเด�
     .accesskey = ต
 addon-updates-view-updates = ดูการอัปเดตล่าสุด
     .accesskey = ด
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = อัปเดตส่วนเสริมโดยอัตโนมัติ
     .accesskey = อ
 
@@ -409,8 +405,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = อนุญาตในหน้าต่างส่วนตัวแล้ว
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = อนุญาตในหน้าต่างส่วนตัวแล้ว
 addon-detail-private-browsing-help = เมื่อได้รับอนุญาต ส่วนขยายจะสามารถเข้าถึงกิจกรรมออนไลน์ของคุณได้ในขณะที่เรียกดูแบบส่วนตัว <a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
 addon-detail-private-browsing-allow = อนุญาต
 addon-detail-private-browsing-disallow = ไม่อนุญาต
@@ -437,16 +433,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } แนะนำเฉพาะส่วนขยายที่ตรงตามมาตรฐานของเราเท่านั้นเพื่อความปลอดภัยและประสิทธิภาพ
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } แนะนำเฉพาะส่วนขยายที่ตรงตามมาตรฐานของเราเท่านั้นเพื่อความปลอดภัยและประสิทธิภาพ
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = ส่วนขยายอย่างเป็นทางการที่สร้างขึ้นโดย Mozilla ซึ่งตรงตามมาตรฐานความปลอดภัยและประสิทธิภาพ
     .aria-label = { addon-badge-line3.title }
+    .title = ส่วนขยายอย่างเป็นทางการที่สร้างขึ้นโดย Mozilla ซึ่งตรงตามมาตรฐานความปลอดภัยและประสิทธิภาพ
 addon-badge-verified2 =
-    .title = ส่วนขยายนี้ได้รับการตรวจสอบว่าเป็นไปตามมาตรฐานด้านความปลอดภัยและประสิทธิภาพของเรา
     .aria-label = { addon-badge-verified2.title }
+    .title = ส่วนขยายนี้ได้รับการตรวจสอบว่าเป็นไปตามมาตรฐานด้านความปลอดภัยและประสิทธิภาพของเรา
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -508,8 +504,8 @@ default-heading-search-label = ค้นหาส่วนเสริมเพ�
 addons-heading-search-input =
     .placeholder = ค้นหา addons.mozilla.org
 addons-heading-search-button =
-    .title = ค้นหาใน addons.mozilla.org
     .aria-label = ค้นหาใน addons.mozilla.org
+    .title = ค้นหาใน addons.mozilla.org
 addon-page-options-button =
     .title = เครื่องมือสำหรับส่วนเสริมทั้งหมด
 

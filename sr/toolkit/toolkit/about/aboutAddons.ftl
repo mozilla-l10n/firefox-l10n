@@ -94,12 +94,12 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Провери доступност ажурирања
-    .accesskey = П
     .tooltiptext = Проверите да ли постоје ажурирања овог додатка
+    .accesskey = П
 detail-show-preferences =
     .label = Подешавања
-    .accesskey = П
     .tooltiptext = Промените подешавања овог додатка
+    .accesskey = П
 detail-rating =
     .value = Оцена
 addon-restart-now =
@@ -190,10 +190,6 @@ addon-updates-check-for-updates = Провери доступност ажури
     .accesskey = П
 addon-updates-view-updates = Прикажи недавна ажурирања
     .accesskey = р
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Аутоматски ажурирај додатке
     .accesskey = А
 
@@ -409,8 +405,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Дозвољено у приватним прозорима
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Дозвољено у приватним прозорима
 addon-detail-private-browsing-help = Ако дозволите, додатак ће имати приступ вашим активностима у приватним прозорима. <a data-l10n-name="learn-more">Сазнајте више</a>
 addon-detail-private-browsing-allow = Дозволи
 addon-detail-private-browsing-disallow = Блокирај
@@ -437,16 +433,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } препоручује само додатке који задовољавају наше стандарде безбедности и перформанси
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } препоручује само додатке који задовољавају наше стандарде безбедности и перформанси
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Званични додатак организације Mozilla. Задовољава стандарде безбедности и перформанси
     .aria-label = { addon-badge-line3.title }
+    .title = Званични додатак организације Mozilla. Задовољава стандарде безбедности и перформанси
 addon-badge-verified2 =
-    .title = Овај додатак је прегледан и задовољава наше стандарде безбедности и перформанси
     .aria-label = { addon-badge-verified2.title }
+    .title = Овај додатак је прегледан и задовољава наше стандарде безбедности и перформанси
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -508,8 +504,8 @@ default-heading-search-label = Пронађите више додатака
 addons-heading-search-input =
     .placeholder = Претражите addons.mozilla.org
 addons-heading-search-button =
-    .title = Претражи addons.mozilla.org
     .aria-label = Претражи addons.mozilla.org
+    .title = Претражи addons.mozilla.org
 addon-page-options-button =
     .title = Алатке за све додатке
 

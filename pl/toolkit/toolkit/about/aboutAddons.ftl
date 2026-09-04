@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Sprawdź dostępność aktualizacji
-    .accesskey = S
     .tooltiptext = Sprawdź, czy dostępne są aktualizacje dla tego dodatku
+    .accesskey = S
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Opcje
            *[other] Preferencje
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Zmień opcje tego dodatku
            *[other] Zmień preferencje związane z tym dodatkiem
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Ocena
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = Sprawdź dostępność aktualizacji
     .accesskey = S
 addon-updates-view-updates = Wyświetl ostatnie aktualizacje
     .accesskey = W
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Automatyczne aktualizacje dodatków
     .accesskey = A
 
@@ -410,8 +406,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Dozwolone w oknach prywatnych
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Dozwolone w oknach prywatnych
 addon-detail-private-browsing-help = Zezwolenie spowoduje, że rozszerzenie będzie miało dostęp do działań użytkownika w Internecie podczas przeglądania w trybie prywatnym. <a data-l10n-name="learn-more">Więcej informacji</a>
 addon-detail-private-browsing-allow = zezwalaj
 addon-detail-private-browsing-disallow = nie zezwalaj
@@ -438,16 +434,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } poleca wyłącznie rozszerzenia spełniające nasze standardy bezpieczeństwa i wydajności
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } poleca wyłącznie rozszerzenia spełniające nasze standardy bezpieczeństwa i wydajności
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Oficjalne rozszerzenie zbudowane przez Mozillę. Spełnia standardy bezpieczeństwa i wydajności.
     .aria-label = { addon-badge-line3.title }
+    .title = Oficjalne rozszerzenie zbudowane przez Mozillę. Spełnia standardy bezpieczeństwa i wydajności.
 addon-badge-verified2 =
-    .title = To rozszerzenie zostało sprawdzone pod kątem zgodności z naszymi standardami bezpieczeństwa i wydajności
     .aria-label = { addon-badge-verified2.title }
+    .title = To rozszerzenie zostało sprawdzone pod kątem zgodności z naszymi standardami bezpieczeństwa i wydajności
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -509,8 +505,8 @@ default-heading-search-label = Znajdź więcej dodatków
 addons-heading-search-input =
     .placeholder = Szukaj na stronie addons.mozilla.org
 addons-heading-search-button =
-    .title = Szukaj na stronie addons.mozilla.org
     .aria-label = Szukaj na stronie addons.mozilla.org
+    .title = Szukaj na stronie addons.mozilla.org
 addon-page-options-button =
     .title = Narzędzia dla wszystkich dodatków
 

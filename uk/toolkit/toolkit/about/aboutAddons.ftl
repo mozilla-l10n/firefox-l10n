@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Перевірити оновлення
-    .accesskey = П
     .tooltiptext = Перевірити наявність оновлень для цього додатка
+    .accesskey = П
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Налаштування
            *[other] Налаштування
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Н
-           *[other] Н
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Змінити налаштування цього додатку
            *[other] Змінити налаштування цього додатку
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Н
+           *[other] Н
         }
 detail-rating =
     .value = Рейтинг
@@ -179,10 +179,6 @@ addon-updates-check-for-updates = Перевірити оновлення
     .accesskey = П
 addon-updates-view-updates = Показати недавні оновлення
     .accesskey = н
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Оновлювати додатки автоматично
     .accesskey = а
 
@@ -415,8 +411,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Дозволено в приватних вікнах
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Дозволено в приватних вікнах
 addon-detail-private-browsing-help = Якщо дозволено, розширення матиме доступ до вашої діяльності в режимі приватного перегляду. <a data-l10n-name="learn-more">Докладніше</a>
 addon-detail-private-browsing-allow = Дозволити
 addon-detail-private-browsing-disallow = Не дозволяти
@@ -443,16 +439,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } рекомендує лише розширення, які відповідають нашим стандартам безпеки та продуктивності
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } рекомендує лише розширення, які відповідають нашим стандартам безпеки та продуктивності
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Офіційне розширення, створене Mozilla. Відповідає стандартам безпеки та продуктивності.
     .aria-label = { addon-badge-line3.title }
+    .title = Офіційне розширення, створене Mozilla. Відповідає стандартам безпеки та продуктивності.
 addon-badge-verified2 =
-    .title = Це розширення перевірено на відповідність нашим стандартам безпеки та продуктивності.
     .aria-label = { addon-badge-verified2.title }
+    .title = Це розширення перевірено на відповідність нашим стандартам безпеки та продуктивності.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -510,8 +506,8 @@ default-heading-search-label = Знайти більше додатків
 addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
 addons-heading-search-button =
-    .title = Пошук на addons.mozilla.org
     .aria-label = Пошук на addons.mozilla.org
+    .title = Пошук на addons.mozilla.org
 addon-page-options-button =
     .title = Інструменти для всіх додатків
 

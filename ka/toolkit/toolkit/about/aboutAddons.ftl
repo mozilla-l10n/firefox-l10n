@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = განახლებების შემოწმება
-    .accesskey = ბ
     .tooltiptext = ამ დამატების შემოწმება განახლებაზე
+    .accesskey = ბ
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] გამართვა
            *[other] გამართვა
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] გ
-           *[other] რ
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] ამ დამატების პარამეტრების შეცვლა
            *[other] ამ დამატების პარამეტრების შეცვლა
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] გ
+           *[other] რ
         }
 detail-rating =
     .value = შეფასება
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = განახლებების შემ
     .accesskey = შ
 addon-updates-view-updates = ბოლო განახლებების ნახვა
     .accesskey = ბ
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = დამატებების თვითგანახლება
     .accesskey = ვ
 
@@ -417,8 +413,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = დაშვებულია პირად ფანჯრებში
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = დაშვებულია პირად ფანჯრებში
 addon-detail-private-browsing-help = დაშვების შემთხვევაში, გაფართოებას წვდომა ექნება თქვენს მოქმედებებზე პირად ფანჯრებში. <a data-l10n-name="learn-more">ვრცლად</a>
 addon-detail-private-browsing-allow = დაშვება
 addon-detail-private-browsing-disallow = აკრძალვა
@@ -445,16 +441,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } მხოლოდ იმ გაფართოებებს გირჩევთ, რომლებიც აკმაყოფილებს უსაფრთხოებისა და წარმადობის მაღალ მოთხოვნებს.
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } მხოლოდ იმ გაფართოებებს გირჩევთ, რომლებიც აკმაყოფილებს უსაფრთხოებისა და წარმადობის მაღალ მოთხოვნებს.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Mozilla-ს მიერ შექმნილი ოფიციალური გაფართოება. სრულად აკმაყოფილებს უსაფრთხოებისა და წარმადობის მოთხოვნებს.
     .aria-label = { addon-badge-line3.title }
+    .title = Mozilla-ს მიერ შექმნილი ოფიციალური გაფართოება. სრულად აკმაყოფილებს უსაფრთხოებისა და წარმადობის მოთხოვნებს.
 addon-badge-verified2 =
-    .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს.
     .aria-label = { addon-badge-verified2.title }
+    .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -516,8 +512,8 @@ default-heading-search-label = სხვა დამატებების �
 addons-heading-search-input =
     .placeholder = addons.mozilla.org საიტზე მოძიება
 addons-heading-search-button =
-    .title = addons.mozilla.org საიტზე ძიება
     .aria-label = addons.mozilla.org საიტზე ძიება
+    .title = addons.mozilla.org საიტზე ძიება
 addon-page-options-button =
     .title = ხელსაწყოები ყველა დამატებისთვის
 

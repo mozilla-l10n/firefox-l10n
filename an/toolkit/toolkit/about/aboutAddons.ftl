@@ -60,23 +60,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Mirar si i hai actualizacions
-    .accesskey = M
     .tooltiptext = Mirar si i hai actualizacions d'este complemento
+    .accesskey = M
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Opcions
            *[other] Preferencias
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Cambiar as opciones d'iste complemento
            *[other] Cambiar as preferencias d'iste complemento
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Puntuación
@@ -136,10 +136,6 @@ addon-updates-check-for-updates = Mirar si i hai actualizacions
     .accesskey = M
 addon-updates-view-updates = Veyer as actualizacions recients
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Esviellar os complementos automaticament
     .accesskey = E
 

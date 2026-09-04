@@ -80,23 +80,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Ստուգել թարմացումները
-    .accesskey = U
     .tooltiptext = Ստուգել այս յաւելման թարմացումների առկայութիւնը
+    .accesskey = U
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Ընտրանքներ
            *[other] Նախընտրանքներ
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Կարգաւորել այս յաւելումը
            *[other] Փոփոխել այս յաւելման նախընտրանքները
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Վարկանիշ
@@ -167,10 +167,6 @@ addon-updates-check-for-updates = Ստուգել թարմացումները
     .accesskey = Ս
 addon-updates-view-updates = Տեսնել վերջին թարմացումները
     .accesskey = Տ
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Թարմացնել յաւելումներն ինքնաշխատաւրէն
     .accesskey = Թ
 
@@ -364,8 +360,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Թոյլատրուած է գաղտնի պատուհաններում
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Թոյլատրուած է գաղտնի պատուհաններում
 addon-detail-private-browsing-help = Երբ թոյլատրած է, ընդլայնումը մուտք կունենայ Ձեր առցանց գործունէութեանը  գաղտնի դիտարկելիս։ <a data-l10n-name="learn-more"> Իմանալ աւելին </a>
 addon-detail-private-browsing-allow = Թոյլատրել
 addon-detail-private-browsing-disallow = Չթոյլատրել
@@ -374,16 +370,16 @@ addon-detail-private-browsing-disallow = Չթոյլատրել
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name }-ը առաջարկում է միայն այն ընդլայնումները, որոնք համապատասխանում են անվտանգութեան և արդիւնաւէտութեան մեր չափաւրինակներին
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name }-ը առաջարկում է միայն այն ընդլայնումները, որոնք համապատասխանում են անվտանգութեան և արդիւնաւէտութեան մեր չափաւրինակներին
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Պաշտաւնական ընդլայնման կառոյց Mozilla֊ի կողմից։ Համապատասխանում է անվտանգութեան եւ կատարողականութեան չափաւրինակներին։
     .aria-label = { addon-badge-line3.title }
+    .title = Պաշտաւնական ընդլայնման կառոյց Mozilla֊ի կողմից։ Համապատասխանում է անվտանգութեան եւ կատարողականութեան չափաւրինակներին։
 addon-badge-verified2 =
-    .title = Այս ընդլայնումը վերանայուել է անվտանգութեան եւ գործադրութեան, մեր չափաւրինակներին համապատասխանելու համար
     .aria-label = { addon-badge-verified2.title }
+    .title = Այս ընդլայնումը վերանայուել է անվտանգութեան եւ գործադրութեան, մեր չափաւրինակներին համապատասխանելու համար
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

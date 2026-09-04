@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Санҷиши навсозиҳо
-    .accesskey = С
     .tooltiptext = Санҷиши навсозиҳои васлкунии ҷорӣ
+    .accesskey = С
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Имконот
            *[other] Хусусиятҳо
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] И
-           *[other] Х
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Тағйир додани ин имкони ҷузъи иловагӣ
            *[other] Тағйир додани ин хусусияти ҷузъи иловагӣ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] И
+           *[other] Х
         }
 detail-rating =
     .value = Баҳодиҳӣ
@@ -183,10 +183,6 @@ addon-updates-check-for-updates = Санҷиши навсозиҳо
     .accesskey = С
 addon-updates-view-updates = Дидани навсозиҳои охирин
     .accesskey = Д
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Ба таври худкор навсозӣ кардани ҷузъи иловагӣ
     .accesskey = Б
 
@@ -414,8 +410,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Дар равзанаҳои хусусӣ иҷозат дода мешавад
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Дар равзанаҳои хусусӣ иҷозат дода мешавад
 addon-detail-private-browsing-help = Агар иҷозат бошад, васеъшавӣ дар реҷаи тамошобинии хусусӣ дорои қобили дастрасӣ ба фаъолияти шумо дар Интернет мебошад. <a data-l10n-name="learn-more">Маълумоти бештар</a>
 addon-detail-private-browsing-allow = Иҷозат додан
 addon-detail-private-browsing-disallow = Иҷозат дода нашавад
@@ -442,16 +438,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } танҳо он васеъшавиҳоро тавсия медиҳад, ки ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошанд
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } танҳо он васеъшавиҳоро тавсия медиҳад, ки ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошанд
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Васеъшавии расмие, ки аз тарафи «Mozilla» эҷод карда шудааст. Ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошад
     .aria-label = { addon-badge-line3.title }
+    .title = Васеъшавии расмие, ки аз тарафи «Mozilla» эҷод карда шудааст. Ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошад
 addon-badge-verified2 =
-    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои мо оид ба амният ва самаранокӣ тасдиқ карда шудааст
     .aria-label = { addon-badge-verified2.title }
+    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои мо оид ба амният ва самаранокӣ тасдиқ карда шудааст
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -513,8 +509,8 @@ default-heading-search-label = Ёфтани ҷузъҳои иловагии бе
 addons-heading-search-input =
     .placeholder = Ҷустуҷӯ дар addons.mozilla.org
 addons-heading-search-button =
-    .title = Ҷустуҷӯ дар addons.mozilla.org
     .aria-label = Ҷустуҷӯ дар addons.mozilla.org
+    .title = Ҷустуҷӯ дар addons.mozilla.org
 addon-page-options-button =
     .title = Абзорҳо барои ҳамаи ҷузъҳои иловагӣ
 

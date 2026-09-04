@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Senqed ma llan ileqman imaynuten
-    .accesskey = S
     .tooltiptext = senqed ileqman n uzegrir-agi
+    .accesskey = S
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Iγewwaṛen
            *[other] Ismenyifen
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] w
-           *[other] I
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Snifel iɣewwaṛen n uzegrir-agi
            *[other] Snifel ismenyaf n uzegrir-agi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] w
+           *[other] I
         }
 detail-rating =
     .value = Adakaḍ
@@ -175,10 +175,6 @@ addon-updates-check-for-updates = Nadi ileqman
     .accesskey = N
 addon-updates-view-updates = Sken ileqman n melmi kan
     .accesskey = S
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Leqqem s wudem awurman izegrar
     .accesskey = L
 
@@ -386,8 +382,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Yettusireg def usfaylu uslig kan
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Yettusireg def usfaylu uslig kan
 addon-detail-private-browsing-help = Ma yettwasireg, asiɣzef ad yekcem ɣer urmud-ik srid deg tunigt tusrigt.<a data-l10n-name="learn-more">Issin ugar</a>
 addon-detail-private-browsing-allow = Sireg
 addon-detail-private-browsing-disallow = Ur ttaǧǧa ara
@@ -412,16 +408,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } ur ittwelleh ala isiɣzaf yemṣadan d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } ur ittwelleh ala isiɣzaf yemṣadan d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Asiɣzef unṣib tebna Mozila. Iteddu d yilugan n tɣellist d temlellit.
     .aria-label = { addon-badge-line3.title }
+    .title = Asiɣzef unṣib tebna Mozila. Iteddu d yilugan n tɣellist d temlellit.
 addon-badge-verified2 =
-    .title = Asiɣzef-a yettusenqed i wakken ara yemṣada d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
     .aria-label = { addon-badge-verified2.title }
+    .title = Asiɣzef-a yettusenqed i wakken ara yemṣada d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -479,8 +475,8 @@ default-heading-search-label = Aff-d ugar n yizegrar
 addons-heading-search-input =
     .placeholder = Nadi addons.mozilla.org
 addons-heading-search-button =
-    .title = Nadi addons.mozilla.org
     .aria-label = Nadi addons.mozilla.org
+    .title = Nadi addons.mozilla.org
 addon-page-options-button =
     .title = Ifecka i yizegrar imaṛṛa
 

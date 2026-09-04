@@ -52,23 +52,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Semak Kemaskini
-    .accesskey = n
     .tooltiptext = Semak kemaskini add-on ini
+    .accesskey = n
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Pilihan
            *[other] Keutamaan
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] K
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Tukar pilihan add-on ini
            *[other] Tukar keutamaan add-on ini
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] K
         }
 detail-rating =
     .value = Kadaran
@@ -128,10 +128,6 @@ addon-updates-check-for-updates = Semak Kemaskini
     .accesskey = e
 addon-updates-view-updates = Papar Kemaskini Terbaru
     .accesskey = P
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Kemaskini Add-ons secara Automatik
     .accesskey = A
 

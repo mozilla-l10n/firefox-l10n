@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = अद्यतन क लेल जाँचू
-    .accesskey = f
     .tooltiptext = ई सहयुक्ति क लेल अद्यतन क लेल जाँच  करू
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] विकल्प
            *[other] वरीयता
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] ई सहयुक्तिक विकल्पकेँ बदलू
            *[other] ई सहयुक्तिक वरीयता बदलू
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = दर
@@ -114,10 +114,6 @@ addon-updates-check-for-updates = अद्यतनकएल जाएँच  �
     .accesskey = C
 addon-updates-view-updates = हालिया अद्यतन देखू
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = सहयुक्ति स्वतः अद्यतन  करू
     .accesskey = A
 

@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Жаңартуларды тексеру
-    .accesskey = т
     .tooltiptext = Бұл қосымша үшін жаңартуларды іздеу
+    .accesskey = т
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Баптаулар
            *[other] Баптаулар
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Б
-           *[other] п
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Бұл кеңейтудің баптауларын өзгерту
            *[other] Бұл кеңейтудің баптауларын өзгерту
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Б
+           *[other] п
         }
 detail-rating =
     .value = Рейтингі
@@ -176,10 +176,6 @@ addon-updates-check-for-updates = Жаңартуларды тексеру
     .accesskey = к
 addon-updates-view-updates = Соңғы жаңартуларды қарау
     .accesskey = о
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Кеңейтулерді автожаңарту
     .accesskey = е
 
@@ -414,8 +410,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Жекелік терезелерінде рұқсат етілген
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Жекелік терезелерінде рұқсат етілген
 addon-detail-private-browsing-help = Рұқсат етілген кезде, кеңейту жекелік шолу кезінде сіздің желілік белсенділігіңізге қол жеткізе алады. <a data-l10n-name="learn-more">Көбірек білу</a>
 addon-detail-private-browsing-allow = Рұқсат ету
 addon-detail-private-browsing-disallow = Рұқсат етпеу
@@ -442,16 +438,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } тек біздің қауіпсіздік және өнімділік стандарттарына сай келетін кеңейтулерді ұсынады
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } тек біздің қауіпсіздік және өнімділік стандарттарына сай келетін кеңейтулерді ұсынады
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Mozilla компаниясы жасаған ресми кеңейту. Қауіпсіздік және өнімділік стандарттарына сәйкес келеді
     .aria-label = { addon-badge-line3.title }
+    .title = Mozilla компаниясы жасаған ресми кеңейту. Қауіпсіздік және өнімділік стандарттарына сәйкес келеді
 addon-badge-verified2 =
-    .title = Бұл кеңейту қауіпсіздік пен өнімділік стандарттарына сай келетініне тексерілді
     .aria-label = { addon-badge-verified2.title }
+    .title = Бұл кеңейту қауіпсіздік пен өнімділік стандарттарына сай келетініне тексерілді
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -513,8 +509,8 @@ default-heading-search-label = Көбірек қосымшаларды табу
 addons-heading-search-input =
     .placeholder = addons.mozilla.org-ға іздеу
 addons-heading-search-button =
-    .title = addons.mozilla.org сайтынан іздеу
     .aria-label = addons.mozilla.org сайтынан іздеу
+    .title = addons.mozilla.org сайтынан іздеу
 addon-page-options-button =
     .title = Барлық қосымшалар үшін құралдар
 

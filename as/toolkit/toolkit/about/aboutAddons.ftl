@@ -63,23 +63,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = আপডেইটসমূহৰ কাৰণে নীৰিক্ষণ কৰক
-    .accesskey = f
     .tooltiptext = এই এড-অনৰ কাৰণে আপডেইটসমূহ নীৰিক্ষণ কৰক
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] বিকল্পসমূহ
            *[other] পছন্দসমূহ
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] এই এড-অনৰ বিকল্পসমূহ পৰিৱৰ্তন কৰক
            *[other] এই এড-অনৰ পছন্দসমূহ পৰিৱৰ্তন কৰক
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = হাৰাংক
@@ -132,10 +132,6 @@ addon-updates-check-for-updates = আপডেইটসমূহৰ বাবে
     .accesskey = C
 addon-updates-view-updates = শেহতীয়া আপডেইটসমূহ দৰ্শন কৰক
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = স্বচালিতভাৱে এড-অনসমূহ আপডেইট কৰক
     .accesskey = A
 

@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Kontrollo për Përditësime
-    .accesskey = K
     .tooltiptext = Kontrolloni për përditësime për këtë shtesë
+    .accesskey = K
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Mundësi
            *[other] Parapëlqime
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Ndryshoni mundësitë e kësaj shtese
            *[other] Ndryshoni parapëlqimet e kësaj shtese
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] P
         }
 detail-rating =
     .value = Vlerësim
@@ -177,10 +177,6 @@ addon-updates-check-for-updates = Kontrollo për Përditësime
     .accesskey = K
 addon-updates-view-updates = Shihni Përditësimet e Fundit
     .accesskey = S
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Përditësoji Shtesat Vetvetiu
     .accesskey = P
 
@@ -414,8 +410,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = E lejuar në dritare private
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = E lejuar në dritare private
 addon-detail-private-browsing-help = Po të lejohet, zgjerimi do të mund të shohë veprimtaritë tuaja në internet, teksa shfletoni privatisht. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 addon-detail-private-browsing-allow = Lejoje
 addon-detail-private-browsing-disallow = Mos e Lejo
@@ -442,16 +438,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } rekomandon vetëm zgjerime që pajohen me standadet tona mbi sigurinë dhe funksionimin
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } rekomandon vetëm zgjerime që pajohen me standadet tona mbi sigurinë dhe funksionimin
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Zgjerim zyrtar i ndërtuar nga Mozilla. Plotëson standarde sigurie dhe funksionimi.
     .aria-label = { addon-badge-line3.title }
+    .title = Zgjerim zyrtar i ndërtuar nga Mozilla. Plotëson standarde sigurie dhe funksionimi.
 addon-badge-verified2 =
-    .title = Ky zgjerim është shqyrtuar për të qenë në pajtim me standardet tona për sigurinë dhe punimin.
     .aria-label = { addon-badge-verified2.title }
+    .title = Ky zgjerim është shqyrtuar për të qenë në pajtim me standardet tona për sigurinë dhe punimin.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -509,8 +505,8 @@ default-heading-search-label = Gjeni më tepër shtesa
 addons-heading-search-input =
     .placeholder = Kërkoni te addons.mozilla.org
 addons-heading-search-button =
-    .title = Kërkoni te addons.mozilla.org
     .aria-label = Kërkoni te addons.mozilla.org
+    .title = Kërkoni te addons.mozilla.org
 addon-page-options-button =
     .title = Mjete për krejt shtesat
 

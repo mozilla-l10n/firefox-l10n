@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Controle inzornaments
-    .accesskey = I
     .tooltiptext = Controle la presince di inzornaments par chest component adizionâl
+    .accesskey = I
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Opzions
            *[other] Preferencis
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Cambie lis opzions di chest component adizionâl
            *[other] Cambie lis preferencis di chest component adizionâl
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Valutazion
@@ -183,10 +183,6 @@ addon-updates-check-for-updates = Cîr inzornaments
     .accesskey = C
 addon-updates-view-updates = Viôt i ultins inzornaments
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Inzorne in automatic i components adizionâi
     .accesskey = a
 
@@ -422,8 +418,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Permetût tai barcons privâts
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Permetût tai barcons privâts
 addon-detail-private-browsing-help = Se e à il permès, la estension e varà l'acès aes tôs ativitâts in rêt te navigazion privade. <a data-l10n-name="learn-more">Plui informazions</a>
 addon-detail-private-browsing-allow = Permet
 addon-detail-private-browsing-disallow = No sta permeti
@@ -450,16 +446,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } al permet dome lis estensions che a sodisfin i nestris standards di sigurece e prestazions
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } al permet dome lis estensions che a sodisfin i nestris standards di sigurece e prestazions
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Estension uficiâl realizade di Mozilla. E rispiete i standards di sigurece e prestazions
     .aria-label = { addon-badge-line3.title }
+    .title = Estension uficiâl realizade di Mozilla. E rispiete i standards di sigurece e prestazions
 addon-badge-verified2 =
-    .title = Cheste estension e je stade verificade pal rispiet dai standards di sigurece e prestazions
     .aria-label = { addon-badge-verified2.title }
+    .title = Cheste estension e je stade verificade pal rispiet dai standards di sigurece e prestazions
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -517,8 +513,8 @@ default-heading-search-label = Cjate altris components adizionâi
 addons-heading-search-input =
     .placeholder = Cîr in addons.mozilla.org
 addons-heading-search-button =
-    .title = Cîr in addons.mozilla.org
     .aria-label = Cîr in addons.mozilla.org
+    .title = Cîr in addons.mozilla.org
 addon-page-options-button =
     .title = Struments par ducj i components adizionâi
 

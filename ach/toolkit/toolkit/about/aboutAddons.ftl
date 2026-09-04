@@ -63,23 +63,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Rot pi ngec manyen
-    .accesskey = p
     .tooltiptext = Rot pi ngec manyen pi med-ikome man
+    .accesskey = p
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Gin ayera
            *[other] Ter
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] G
-           *[other] T
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Lok gin ayera me med-ikome man
            *[other] Lok ter me med-ikome man
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] G
+           *[other] T
         }
 detail-rating =
     .value = Mino wel ne
@@ -144,10 +144,6 @@ addon-updates-check-for-updates = Rot pi ngec manyen
     .accesskey = R
 addon-updates-view-updates = Nen ngec manyen macocoki
     .accesskey = N
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Ket ngec manyen i med-ikome pire kene
     .accesskey = m
 

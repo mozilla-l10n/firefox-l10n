@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Bilatu eguneraketak
-    .accesskey = B
     .tooltiptext = Bilatu gehigarri honen eguneraketak
+    .accesskey = B
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Aukerak
            *[other] Hobespenak
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] H
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Aldatu gehigarri honen aukerak
            *[other] Aldatu gehigarri honen hobespenak
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] H
         }
 detail-rating =
     .value = Puntuazioa
@@ -176,10 +176,6 @@ addon-updates-check-for-updates = Bilatu eguneraketak
     .accesskey = B
 addon-updates-view-updates = Ikusi azken eguneraketak
     .accesskey = I
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Eguneratu gehigarriak automatikoki
     .accesskey = g
 
@@ -405,8 +401,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Leiho pribatuetan baimenduta
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Leiho pribatuetan baimenduta
 addon-detail-private-browsing-help = Baimenduta dagoenean, hedapenak zure lineako jardueretarako sarbidea izango du nabigatze pribatuko moduan. <a data-l10n-name="learn-more">Argibide gehiago</a>
 addon-detail-private-browsing-allow = Baimendu
 addon-detail-private-browsing-disallow = Ez baimendu
@@ -433,16 +429,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = Segurtasun eta errendimendurako gure estandarrak betetzen dituzten hedapenak gomendatzen ditu { -brand-product-name }(e)k
     .aria-label = { addon-badge-recommended2.title }
+    .title = Segurtasun eta errendimendurako gure estandarrak betetzen dituzten hedapenak gomendatzen ditu { -brand-product-name }(e)k
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Mozillak sortutako hedapen ofiziala. Segurtasun- eta errendimendu-estandarrak betetzen ditu
     .aria-label = { addon-badge-line3.title }
+    .title = Mozillak sortutako hedapen ofiziala. Segurtasun- eta errendimendu-estandarrak betetzen ditu
 addon-badge-verified2 =
-    .title = Gehigarri hau berrikusi egin da gure segurtasun- eta errendimendu-estandarrak betetzeko
     .aria-label = { addon-badge-verified2.title }
+    .title = Gehigarri hau berrikusi egin da gure segurtasun- eta errendimendu-estandarrak betetzeko
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -504,8 +500,8 @@ default-heading-search-label = Bilatu gehigarri gehiago
 addons-heading-search-input =
     .placeholder = Bilatu addons.mozilla.org gunean
 addons-heading-search-button =
-    .title = Bilatu addons.mozilla.org gunean
     .aria-label = Bilatu addons.mozilla.org gunean
+    .title = Bilatu addons.mozilla.org gunean
 addon-page-options-button =
     .title = Tresnak gehigarri guztientzat
 

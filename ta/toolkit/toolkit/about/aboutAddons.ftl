@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = புதுப்பித்தல்களுக்கு சரிபார்
-    .accesskey = f
     .tooltiptext = இந்த கூடுதல் இணைப்பிற்கான புதுப்பித்தல்களுக்கு சரி பார்
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] விருப்பங்கள்
            *[other] விருப்பங்கள்
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] இந்த கூடுதல் இணைப்பு விருப்பங்களை மாற்றவும்
            *[other] இந்த கூடுதல் இணைப்பு விருப்பங்களை மாற்றவும்
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = மதிப்பெண்
@@ -122,10 +122,6 @@ addon-updates-check-for-updates = புதியவை உள்ளதா எ�
     .accesskey = C
 addon-updates-view-updates = சமீபத்திய மேம்படுத்தல்களை பார்
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = கூடுதல் இணைப்புகளை தானாக புதுப்பி
     .accesskey = A
 

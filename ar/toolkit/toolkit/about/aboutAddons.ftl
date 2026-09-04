@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = تحقق مِن التحديثات
-    .accesskey = ت
     .tooltiptext = تحقق مِن التحديثات لهذه الإضافة
+    .accesskey = ت
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] خيارات
            *[other] تفضيلات
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] خ
-           *[other] ض
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] غيّر خيارات هذه الإضافة
            *[other] غيّر تفضيلات هذه الإضافة
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] خ
+           *[other] ض
         }
 detail-rating =
     .value = التقييم
@@ -176,10 +176,6 @@ addon-updates-check-for-updates = تحقق مِن التحديثات
     .accesskey = ت
 addon-updates-view-updates = اعرض التحديثات الأخيرة
     .accesskey = ض
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = حدّث الإضافات تلقائيًا
     .accesskey = ق
 
@@ -416,8 +412,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = مسموح بها في النوافذ الخاصة
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = مسموح بها في النوافذ الخاصة
 addon-detail-private-browsing-help = إن سمحت به فسيملك هذا الامتداد تصريح الوصول إلى نشاطك على الإنترنت وأنت تتصفح تصفحا خاصا. <a data-l10n-name="learn-more">اطّلع على المزيد</a>
 addon-detail-private-browsing-allow = مسموح
 addon-detail-private-browsing-disallow = غير مسموح
@@ -444,16 +440,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = يوصي { -brand-product-name } ويقترح فقط الامتدادات التي تلبي معاييرنا للأمان والأداء.
     .aria-label = { addon-badge-recommended2.title }
+    .title = يوصي { -brand-product-name } ويقترح فقط الامتدادات التي تلبي معاييرنا للأمان والأداء.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = الامتدادات الرسمية التي أنشأتها موزيلا. يستوفي معايير الأمن والأداء
     .aria-label = { addon-badge-line3.title }
+    .title = الامتدادات الرسمية التي أنشأتها موزيلا. يستوفي معايير الأمن والأداء
 addon-badge-verified2 =
-    .title = جرت مراجعة هذا الامتداد ليفي بمعاييرنا للأمن والأداء
     .aria-label = { addon-badge-verified2.title }
+    .title = جرت مراجعة هذا الامتداد ليفي بمعاييرنا للأمن والأداء
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -515,8 +511,8 @@ default-heading-search-label = ابحث عن إضافات أكثر
 addons-heading-search-input =
     .placeholder = ابحث في addons.mozilla.org
 addons-heading-search-button =
-    .title = ابحث في addons.mozilla.org
     .aria-label = ابحث في addons.mozilla.org
+    .title = ابحث في addons.mozilla.org
 addon-page-options-button =
     .title = أدوات لجميع الإضافات
 

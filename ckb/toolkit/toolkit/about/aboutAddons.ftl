@@ -67,23 +67,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = چێکردنی نوێکردنەوە
-    .accesskey = چ
     .tooltiptext = چێکردنی نوێکردنەوە بۆ ئەم زیادکراوە
+    .accesskey = چ
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] هەڵبژاردەکان
            *[other] هەڵبژاردنەکان
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] هەڵبژاردەکانی ئەم پێوەکراوە بگۆڕە
            *[other] هەڵبژاردنەکانی ئەم پێوە کراوە بگۆڕە
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = پلەبەندی
@@ -135,10 +135,6 @@ addon-updates-check-for-updates = چێکردنی نوێکردنەوە
     .accesskey = C
 addon-updates-view-updates = دووا نوێکاری پیشان بدە
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = نوێکردنەوەی پێوەکراوەکان خۆکارانەیە
     .accesskey = ن
 
@@ -284,8 +280,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = ڕێگەپێدراوە لە پەنجەرەی تایبەت
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = ڕێگەپێدراوە لە پەنجەرەی تایبەت
 addon-detail-private-browsing-allow = ڕێگەبدە
 addon-detail-private-browsing-disallow = ڕێگە مەدە
 

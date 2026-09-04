@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Ñembohekopyahu jeheka
-    .accesskey = f
     .tooltiptext = Eheka ñembohekopyahu ko moĩmbaha rehegua
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Jeporavorã
            *[other] Ojererohoryvéva
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Emoambue poravopyrã ko moĩmbaha rehegua
            *[other] Emoambue jerohoryvéva ko moĩmbaha rehegua
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Ñehepyme’ẽ
@@ -180,10 +180,6 @@ addon-updates-check-for-updates = Ñembohekopyahu jeheka
     .accesskey = C
 addon-updates-view-updates = Ñembohekopyahu ramovéva jehecha
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Moĩmbaha ijeheguietéva mbohekopyahu
     .accesskey = A
 
@@ -399,8 +395,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Ovetã ñemíme moneĩmbyre
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Ovetã ñemíme moneĩmbyre
 addon-detail-private-browsing-help = Hendy jave, pe jepysokue ikatu oike ejapóva guivépe eikundaha ñemi aja. <a data-l10n-name="learn-more">Eikuaave</a>
 addon-detail-private-browsing-allow = Moneĩ
 addon-detail-private-browsing-disallow = Ani emoneĩ
@@ -427,16 +423,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } omoneĩ jepysokue oguerekóva tekorosã ha tembiapokue
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } omoneĩ jepysokue oguerekóva tekorosã ha tembiapokue
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Jepysokue Mozilla ojapopyréva. Orekopaite tekorosã ha ha’eve
     .aria-label = { addon-badge-line3.title }
+    .title = Jepysokue Mozilla ojapopyréva. Orekopaite tekorosã ha ha’eve
 addon-badge-verified2 =
-    .title = Ko jepysokue ojehechajey oguerekópa tekorosã ha oikoporãpa.
     .aria-label = { addon-badge-verified2.title }
+    .title = Ko jepysokue ojehechajey oguerekópa tekorosã ha oikoporãpa.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -498,8 +494,8 @@ default-heading-search-label = Ehekave moĩmbaha
 addons-heading-search-input =
     .placeholder = Eheka addons.mozilla.org
 addons-heading-search-button =
-    .title = Eheka addons.mozilla.org
     .aria-label = Eheka addons.mozilla.org
+    .title = Eheka addons.mozilla.org
 addon-page-options-button =
     .title = Tembiporu opaite moĩmbahápe g̃uarã
 

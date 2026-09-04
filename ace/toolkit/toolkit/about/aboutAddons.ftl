@@ -18,10 +18,6 @@ detail-repository-value =
 addon-updates-check-for-updates = Paréksa Vèrsi Barô
     .accesskey = P
 
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
-
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file-filter-name = Peungaya

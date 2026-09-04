@@ -54,23 +54,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Yangilanishlar uchun tekshirish
-    .accesskey = Y
     .tooltiptext = Ushbu qoʻshimcha dastur uchun yangilanishlarni tekshirish
+    .accesskey = Y
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Moslamalar
            *[other] Moslamalar
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] M
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish
            *[other] Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] M
         }
 detail-rating =
     .value = Reyting
@@ -128,10 +128,6 @@ addon-updates-check-for-updates = Yangilanishlar uchun tekshirish
     .accesskey = t
 addon-updates-view-updates = Soʻnggi yangilanishlarni koʻrish
     .accesskey = k
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Qoʻshimcha dasturlarni avtomatik yangilash
     .accesskey = Q
 

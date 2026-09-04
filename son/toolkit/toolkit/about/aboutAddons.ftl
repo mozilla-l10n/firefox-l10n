@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Taagandirey ceeci
-    .accesskey = c
     .tooltiptext = Taagandirey ceeci tontonoo woo še
+    .accesskey = c
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Suubarey
            *[other] Ibaayey
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] b
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Tontonoo woo suubarey barmay
            *[other] Tontonoo woo ibaayey barmay
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] b
         }
 detail-rating =
     .value = Kanandiyan
@@ -115,10 +115,6 @@ addon-updates-check-for-updates = Taagandirey ceeci
     .accesskey = c
 addon-updates-view-updates = Taagandiri kokorantey guna
     .accesskey = g
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Tontoni boŋ-taagandiri
     .accesskey = T
 

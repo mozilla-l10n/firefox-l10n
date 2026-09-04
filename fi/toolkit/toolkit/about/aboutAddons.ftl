@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Hae päivityksiä
-    .accesskey = H
     .tooltiptext = Hae päivityksiä lisäosaan
+    .accesskey = H
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Asetukset
            *[other] Asetukset
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] A
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Muokkaa tämän lisäosan asetuksia
            *[other] Muokkaa tämän lisäosan asetuksia
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
         }
 detail-rating =
     .value = Arvostelu:
@@ -178,10 +178,6 @@ addon-updates-check-for-updates = Hae päivityksiä
     .accesskey = H
 addon-updates-view-updates = Näytä tuoreet päivitykset
     .accesskey = N
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Päivitä lisäosat automaattisesti
     .accesskey = u
 
@@ -413,8 +409,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Sallittu yksityisissä ikkunnoissa
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Sallittu yksityisissä ikkunnoissa
 addon-detail-private-browsing-help = Kun sallittu, laajennus voi seurata, mitä teet verkossa yksityisen selauksen tilassa. <a data-l10n-name="learn-more">Lue lisää</a>
 addon-detail-private-browsing-allow = Salli
 addon-detail-private-browsing-disallow = Älä salli
@@ -441,16 +437,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } suosittelee vain laajennuksia, jotka täyttävät standardimme turvallisuuden ja suorituskyvyn suhteen
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } suosittelee vain laajennuksia, jotka täyttävät standardimme turvallisuuden ja suorituskyvyn suhteen
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Virallinen laajennus, jonka on toteuttanut Mozilla. Täyttää turvallisuus- ja suorituskykystandardit.
     .aria-label = { addon-badge-line3.title }
+    .title = Virallinen laajennus, jonka on toteuttanut Mozilla. Täyttää turvallisuus- ja suorituskykystandardit.
 addon-badge-verified2 =
-    .title = Tämä laajennnus on katselmoitu, ja se täyttää standardimme turvallisuuden ja suorituskyvyn suhteen.
     .aria-label = { addon-badge-verified2.title }
+    .title = Tämä laajennnus on katselmoitu, ja se täyttää standardimme turvallisuuden ja suorituskyvyn suhteen.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -512,8 +508,8 @@ default-heading-search-label = Etsi lisää lisäosia
 addons-heading-search-input =
     .placeholder = Etsi addons.mozilla.org-sivustolta
 addons-heading-search-button =
-    .title = Etsi addons.mozilla.org-sivustolta
     .aria-label = Etsi addons.mozilla.org-sivustolta
+    .title = Etsi addons.mozilla.org-sivustolta
 addon-page-options-button =
     .title = Työkaluja kaikille lisäosille
 

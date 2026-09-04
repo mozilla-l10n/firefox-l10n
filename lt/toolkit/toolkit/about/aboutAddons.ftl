@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Ieškoti naujinimų
-    .accesskey = I
     .tooltiptext = Ieškoti šio priedo naujinimų
+    .accesskey = I
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Nuostatos
            *[other] Nuostatos
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Keisti šio priedo parinktis
            *[other] Keisti šio priedo nuostatas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
         }
 detail-rating =
     .value = Įvertinimas
@@ -170,10 +170,6 @@ addon-updates-check-for-updates = Tikrinti, ar yra naujinimų
     .accesskey = T
 addon-updates-view-updates = Rodyti paskiausiai atnaujintus priedus
     .accesskey = p
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Naujinti priedus automatiškai
     .accesskey = N
 
@@ -377,8 +373,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Leidžiama privačiojo naršymo languose
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Leidžiama privačiojo naršymo languose
 addon-detail-private-browsing-help = Leidus, priedas turės priėjimą prie jūsų veiklos internete naršant privačiai. <a data-l10n-name="learn-more">Sužinokite daugiau</a>
 addon-detail-private-browsing-allow = Leisti
 addon-detail-private-browsing-disallow = Neleisti
@@ -387,16 +383,16 @@ addon-detail-private-browsing-disallow = Neleisti
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = „{ -brand-product-name }“ rekomenduoja tik mūsų saugumo ir našumo reikalavimus atitinkančius priedus
     .aria-label = { addon-badge-recommended2.title }
+    .title = „{ -brand-product-name }“ rekomenduoja tik mūsų saugumo ir našumo reikalavimus atitinkančius priedus
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Oficialus „Mozilla“ sukurtas priedas. Atitinka saugumo ir našumo standartus
     .aria-label = { addon-badge-line3.title }
+    .title = Oficialus „Mozilla“ sukurtas priedas. Atitinka saugumo ir našumo standartus
 addon-badge-verified2 =
-    .title = Šis priedas buvo peržiūrėtas ir atitinka mūsų saugumo bei našumo standartus
     .aria-label = { addon-badge-verified2.title }
+    .title = Šis priedas buvo peržiūrėtas ir atitinka mūsų saugumo bei našumo standartus
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

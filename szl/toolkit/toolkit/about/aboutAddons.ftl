@@ -70,23 +70,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Badnij za aktualizacyjami
-    .accesskey = B
     .tooltiptext = Badnij za aktualizacyjami do tego rozszyrzynia
+    .accesskey = B
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Ôpcyje
            *[other] Preferyncyje
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Zmiyń ôpcyje tego rozszyrzynia
            *[other] Zmiyń preferyncyje tego rozszyrzynia
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Ôcyna
@@ -152,10 +152,6 @@ addon-updates-check-for-updates = Badnij za aktualizacyjami
     .accesskey = B
 addon-updates-view-updates = Pokoż ôstatnie aktualizacyje
     .accesskey = P
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Autōmatycznie aktualizuj rozszyrzynia
     .accesskey = A
 
@@ -351,8 +347,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Przizwolōne w prywatnych ôknach
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Przizwolōne w prywatnych ôknach
 addon-detail-private-browsing-help = Jak dosz zgoda, to rozszyrzynie bydzie mieć dostymp do twojij aktywności w internecie bez czas prywatnego przeglōndanio. <a data-l10n-name="learn-more">Przewiydz sie wiyncyj</a>
 addon-detail-private-browsing-allow = Przizwōl
 addon-detail-private-browsing-disallow = Niy zwolej
@@ -361,8 +357,8 @@ addon-detail-private-browsing-disallow = Niy zwolej
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } rykōmynduje ino rozszyrzynia, co trzimiōm sie naszych sztandardōw bezpieczyństwa i fungowanio
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } rykōmynduje ino rozszyrzynia, co trzimiōm sie naszych sztandardōw bezpieczyństwa i fungowanio
 
 ##
 

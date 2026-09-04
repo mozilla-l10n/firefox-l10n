@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Kontrolearje op fernijingen
-    .accesskey = K
     .tooltiptext = Kontrolearje op fernijingen foar dizze add-on
+    .accesskey = K
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Opsjes
            *[other] Foarkarren
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] F
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Opsjes fan dizze add-ons wizigje
            *[other] Foarkarren fan dizze add-ons wizigje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] F
         }
 detail-rating =
     .value = Wurdearring:
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = Kontrolearje op fernijingen
     .accesskey = K
 addon-updates-view-updates = Resinte fernijingen toane
     .accesskey = T
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Add-ons automatysk fernije
     .accesskey = a
 
@@ -419,8 +415,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Tastien yn priveefinsters
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Tastien yn priveefinsters
 addon-detail-private-browsing-help = Wannear tastien, hat de útwreiding tagong ta jo online-aktiviteiten yn priveenavigaasje. <a data-l10n-name="learn-more">Mear ynfo</a>
 addon-detail-private-browsing-allow = Tastean
 addon-detail-private-browsing-disallow = Net tastean
@@ -447,16 +443,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } rekommandearret allinnich útwreidingen oan dy’t foldogge oan ús noarms foar feilichheid en prestaasjes.
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } rekommandearret allinnich útwreidingen oan dy’t foldogge oan ús noarms foar feilichheid en prestaasjes.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Offisjele troch Mozilla Firefox boude útwreiding. Foldocht oan befeiligings- en prestaasjenoarmen.
     .aria-label = { addon-badge-line3.title }
+    .title = Offisjele troch Mozilla Firefox boude útwreiding. Foldocht oan befeiligings- en prestaasjenoarmen.
 addon-badge-verified2 =
-    .title = Dizze útwreiding is beoardiele en foldocht oan ús noarms foar befeiliging en prestaasjes
     .aria-label = { addon-badge-verified2.title }
+    .title = Dizze útwreiding is beoardiele en foldocht oan ús noarms foar befeiliging en prestaasjes
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -518,8 +514,8 @@ default-heading-search-label = Mear add-ons sykje
 addons-heading-search-input =
     .placeholder = addons.mozilla.org trochsykje
 addons-heading-search-button =
-    .title = addons.mozilla.org trochsykje
     .aria-label = addons.mozilla.org trochsykje
+    .title = addons.mozilla.org trochsykje
 addon-page-options-button =
     .title = Ark foar alle add-ons
 

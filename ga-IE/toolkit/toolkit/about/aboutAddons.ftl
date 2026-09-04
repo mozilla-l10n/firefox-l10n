@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Lorg Nuashonruithe
-    .accesskey = L
     .tooltiptext = Lorg nuashonruithe le haghaidh an bhreiseáin seo
+    .accesskey = L
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Roghanna
            *[other] Sainroghanna
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] R
-           *[other] S
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Athraigh roghanna an bhreiseáin seo
            *[other] Athraigh sainroghanna an bhreiseáin seo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] R
+           *[other] S
         }
 detail-rating =
     .value = Rátáil
@@ -119,10 +119,6 @@ addon-updates-check-for-updates = Lorg Nuashonruithe
     .accesskey = L
 addon-updates-view-updates = Féach ar Nuashonruithe Le Déanaí
     .accesskey = F
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Nuashonraigh Breiseáin go hUathoibríoch
     .accesskey = B
 

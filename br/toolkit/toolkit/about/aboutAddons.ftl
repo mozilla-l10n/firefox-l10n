@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Gwiriañ mar bez hizivadurioù d'ober
-    .accesskey = G
     .tooltiptext = Gwiriañ hag-eñ ez eus hizivadennoù hegerz evit an askouezh-mañ
+    .accesskey = G
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Dibarzhioù
            *[other] Gwellvezioù
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] G
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Kemmañ dibarzhioù an askouezh-mañ
            *[other] Kemmañ gwellvezioù an askouezh-mañ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] G
         }
 detail-rating =
     .value = Prizadur
@@ -170,10 +170,6 @@ addon-updates-check-for-updates = Gwiriañ mar bez hizivadurioù d'ober
     .accesskey = G
 addon-updates-view-updates = Gwelout an hizivadurioù nevesañ
     .accesskey = v
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Hizivaat an askouezhioù gant un doare emgefreek
     .accesskey = a
 
@@ -386,8 +382,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Aotreet er prenestroù prevez
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Aotreet er prenestroù prevez
 addon-detail-private-browsing-help = Ma’z eo aotreet e c’hall an askouezh haeziñ hoc’h obererezh enlinenn e-pad ar merdeiñ prevez. <a data-l10n-name="learn-more">Gouzout hiroc’h</a>
 addon-detail-private-browsing-allow = Aotren
 addon-detail-private-browsing-disallow = Na aotren
@@ -410,8 +406,8 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } ne erbed nemet an askouezhioù a zouj d’hor reoladoù surentez hag efedusted
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } ne erbed nemet an askouezhioù a zouj d’hor reoladoù surentez hag efedusted
 
 ##
 

@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Kontroli ĉu estas ĝisdatigoj
-    .accesskey = K
     .tooltiptext = Kontroli ĉu estas ĝisdatigoj por tiu ĉi aldonaĵo
+    .accesskey = K
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Preferoj
            *[other] Preferoj
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Ŝanĝi la elekteblojn de tiu ĉi aldonaĵo
            *[other] Ŝanĝi la preferojn de tiu ĉi aldonaĵo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Taksado
@@ -176,10 +176,6 @@ addon-updates-check-for-updates = Kontroli ĉu estas ĝisdatigoj
     .accesskey = K
 addon-updates-view-updates = Vidi ĵusajn ĝisdatigojn
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Aŭtomate ĝisdatigi aldonaĵojn
     .accesskey = A
 
@@ -397,8 +393,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Permesita en privataj fenestroj
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Permesita en privataj fenestroj
 addon-detail-private-browsing-help = Se tio estas permesita, la etendaĵo havos aliron al viaj retumaj agoj dum vi private retumas. <a data-l10n-name="learn-more">Pli da informo</a>
 addon-detail-private-browsing-allow = Permesi
 addon-detail-private-browsing-disallow = Ne permesi
@@ -425,16 +421,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } nur rekomendas etendaĵojn, kiuj konformas al niaj normoj pri sekureco kaj efikeco
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } nur rekomendas etendaĵojn, kiuj konformas al niaj normoj pri sekureco kaj efikeco
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Oficiala etendaĵo verkita de Mozilla. Ĝi observas sekurecajn kaj efikecajn normojn
     .aria-label = { addon-badge-line3.title }
+    .title = Oficiala etendaĵo verkita de Mozilla. Ĝi observas sekurecajn kaj efikecajn normojn
 addon-badge-verified2 =
-    .title = Tiu ĉi etendaĵo estis reviziita por kontroli ke ĝi kongruas kun niaj sekurecaj kaj efikecaj normoj.
     .aria-label = { addon-badge-verified2.title }
+    .title = Tiu ĉi etendaĵo estis reviziita por kontroli ke ĝi kongruas kun niaj sekurecaj kaj efikecaj normoj.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -496,8 +492,8 @@ default-heading-search-label = Serĉi pli da aldonaĵoj
 addons-heading-search-input =
     .placeholder = Serĉi en addons.mozilla.org
 addons-heading-search-button =
-    .title = Serĉi en addons.mozilla.org
     .aria-label = Serĉi en addons.mozilla.org
+    .title = Serĉi en addons.mozilla.org
 addon-page-options-button =
     .title = Iloj por ĉiuj aldonaĵoj
 

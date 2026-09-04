@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Kontrolli uuenduste olemasolu
-    .accesskey = K
     .tooltiptext = Kontrolli, kas lisale on uuendusi
+    .accesskey = K
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Sätted
            *[other] Eelistused
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] E
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Muuda selle lisa sätteid
            *[other] Muuda selle lisa eelistusi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] E
         }
 detail-rating =
     .value = Hinnang
@@ -165,10 +165,6 @@ addon-updates-check-for-updates = Kontrolli uuendusi
     .accesskey = o
 addon-updates-view-updates = Vaata hiljutisi uuendusi
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Lisasid uuendatakse automaatselt
     .accesskey = L
 
@@ -364,8 +360,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Töötamine privaatsetes akendes on lubatud
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Töötamine privaatsetes akendes on lubatud
 addon-detail-private-browsing-help = Lubamise korral saab laiendus ligipääsu sinu tegevusele privaatsetes akendes. <a data-l10n-name="learn-more">Rohkem teavet</a>
 addon-detail-private-browsing-allow = lubatud
 addon-detail-private-browsing-disallow = keelatud
@@ -374,16 +370,16 @@ addon-detail-private-browsing-disallow = keelatud
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } soovitab ainult meie turvalisuse ja jõudluse standarditele vastavaid laiendusi
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } soovitab ainult meie turvalisuse ja jõudluse standarditele vastavaid laiendusi
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Mozilla loodud ametlik laiendus. Vastab turva- ja jõudlusstandarditele
     .aria-label = { addon-badge-line3.title }
+    .title = Mozilla loodud ametlik laiendus. Vastab turva- ja jõudlusstandarditele
 addon-badge-verified2 =
-    .title = See laiendus on kontrollitud ja vastab meie turva- ning jõudlusstandarditele
     .aria-label = { addon-badge-verified2.title }
+    .title = See laiendus on kontrollitud ja vastab meie turva- ning jõudlusstandarditele
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

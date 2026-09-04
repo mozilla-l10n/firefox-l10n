@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Kenik'öx taq K'exoj
-    .accesskey = o
     .tooltiptext = Kenik'öx kik'exoj re taq tz'aqat re'
+    .accesskey = o
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Taq cha'oj
            *[other] Taq ajowab'äl
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] c
-           *[other] a
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Kejal ri taq rucha'oj re tz'aqat re'
            *[other] Kejal ri taq rajowaxik re tz'aqat re'
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] c
+           *[other] a
         }
 detail-rating =
     .value = Kejqalem
@@ -174,10 +174,6 @@ addon-updates-check-for-updates = Kenik'öx taq K'exoj
     .accesskey = K
 addon-updates-view-updates = Ketz'et k'ak'a' taq k'exoj
     .accesskey = K
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = kek'ex taq tz'aqat pa kiyonil
     .accesskey = k
 
@@ -374,8 +370,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Tiya' q'ij pa taq ichinan tzuwäch
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Tiya' q'ij pa taq ichinan tzuwäch
 addon-detail-private-browsing-help = Toq tzij, ri k'amal pa ronojel samaj xtok wi toq atokinäq pa k'amaya'l pan ichinan rub'anikil. <a data-l10n-name="learn-more">Tetamäx ch'aqa' chik</a>
 addon-detail-private-browsing-allow = Tiya' q'ij
 addon-detail-private-browsing-disallow = Man Tiya' Q'ij
@@ -391,16 +387,16 @@ addon-detail-quarantined-domains-disallow = Man Tiya' Q'ij
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } xa xe yeruchilab'ej taq k'amal kojqan rub'eyal qajikomal chuqa' rub'eyal qasamaj
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } xa xe yeruchilab'ej taq k'amal kojqan rub'eyal qajikomal chuqa' rub'eyal qasamaj
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = K'amal b'anon ruma Mozilla. Rojqan retal jikomal chuqa' rub'eyal nisamäj
     .aria-label = { addon-badge-line3.title }
+    .title = K'amal b'anon ruma Mozilla. Rojqan retal jikomal chuqa' rub'eyal nisamäj
 addon-badge-verified2 =
-    .title = Re k'amal re' xnik'öx richin nib'anatäj ri rub'eyal qajikomal chuqa' rub'eyal samaj.
     .aria-label = { addon-badge-verified2.title }
+    .title = Re k'amal re' xnik'öx richin nib'anatäj ri rub'eyal qajikomal chuqa' rub'eyal samaj.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

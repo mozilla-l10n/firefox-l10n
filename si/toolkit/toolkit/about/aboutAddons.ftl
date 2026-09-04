@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = යාවත්කාල පරීක්‍ෂා කරන්න
-    .accesskey = f
     .tooltiptext = මෙම එක්කහුව සඳහා යාවත්කාල බලන්න
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] විකල්ප
            *[other] අභිප්‍රේත
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] මෙම එක්කහුවෙහි විකල්ප වෙනස් කරන්න
            *[other] මෙම එක්කහුවෙහි අභිප්‍රේත වෙනස් කරන්න
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = ඇගැයුම
@@ -162,10 +162,6 @@ addon-updates-check-for-updates = යාවත්කාල පරීක්‍ෂ
     .accesskey = C
 addon-updates-view-updates = මෑත යාවත්කාල පෙන්වන්න
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ස්වයංක්‍රීයව එක්කහු යාවත්කාල කරන්න
     .accesskey = A
 
@@ -340,8 +336,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = පෞද්. කවුළුවල ඉඩ දී ඇත
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = පෞද්. කවුළුවල ඉඩ දී ඇත
 addon-detail-private-browsing-allow = ඉඩ දෙන්න
 addon-detail-private-browsing-disallow = ඉඩ නොදෙන්න
 # aria-label associated to the private browsing row to help screen readers to announce the group
@@ -363,16 +359,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = අපගේ ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලන දිගු පමණක් { -brand-product-name } නිර්දේශ කරයි.
     .aria-label = { addon-badge-recommended2.title }
+    .title = අපගේ ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලන දිගු පමණක් { -brand-product-name } නිර්දේශ කරයි.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = මොසිල්ලා තනන ලද නිල එක්කහුවකි. ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලයි.
     .aria-label = { addon-badge-line3.title }
+    .title = මොසිල්ලා තනන ලද නිල එක්කහුවකි. ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලයි.
 addon-badge-verified2 =
-    .title = මෙම දිගුව අපගේ ආරක්‍ෂණ සහ කාර්ය සාධන ප්‍රමිතීන් සපුරාලන්නේ දැයි සමාලෝචනය කර ඇත
     .aria-label = { addon-badge-verified2.title }
+    .title = මෙම දිගුව අපගේ ආරක්‍ෂණ සහ කාර්ය සාධන ප්‍රමිතීන් සපුරාලන්නේ දැයි සමාලෝචනය කර ඇත
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

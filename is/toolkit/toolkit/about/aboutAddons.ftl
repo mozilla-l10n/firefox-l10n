@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Leita að uppfærslum
-    .accesskey = f
     .tooltiptext = Athuga uppfærslur fyrir þessa viðbót
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Valkostir
            *[other] Valkostir
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] o
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Breyta stillingum fyrir þessa viðbót
            *[other] Breyta stillingum viðbótar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] o
         }
 detail-rating =
     .value = Einkunn
@@ -179,10 +179,6 @@ addon-updates-check-for-updates = Leita að uppfærslum
     .accesskey = L
 addon-updates-view-updates = Skoða nýlegar uppfærslur
     .accesskey = S
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Uppfæra viðbætur sjálfvirkt
     .accesskey = a
 
@@ -402,8 +398,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Leyfilegt í huliðsgluggum
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Leyfilegt í huliðsgluggum
 addon-detail-private-browsing-help = Þegar það er leyft, hefur þessi forritsauki aðgang að athöfnum þínum á netinu á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 addon-detail-private-browsing-allow = Leyfa
 addon-detail-private-browsing-disallow = Ekki leyfa
@@ -430,16 +426,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } mælir aðeins með forritsaukum sem uppfylla staðla okkar um öryggi og afköst
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } mælir aðeins með forritsaukum sem uppfylla staðla okkar um öryggi og afköst
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Opinber forritsauki byggður af Mozilla. Uppfyllir öryggis- og afkastastaðla
     .aria-label = { addon-badge-line3.title }
+    .title = Opinber forritsauki byggður af Mozilla. Uppfyllir öryggis- og afkastastaðla
 addon-badge-verified2 =
-    .title = Þessi forritsauki hefur verið yfirfarinn til að uppfylla staðla okkar um öryggi og afköst
     .aria-label = { addon-badge-verified2.title }
+    .title = Þessi forritsauki hefur verið yfirfarinn til að uppfylla staðla okkar um öryggi og afköst
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -497,8 +493,8 @@ default-heading-search-label = Finna fleiri viðbætur
 addons-heading-search-input =
     .placeholder = Leita á addons.mozilla.org
 addons-heading-search-button =
-    .title = Leita á addons.mozilla.org
     .aria-label = Leita á addons.mozilla.org
+    .title = Leita á addons.mozilla.org
 addon-page-options-button =
     .title = Verkfæri fyrir allar viðbætur
 

@@ -42,23 +42,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Kagua kwa Visasaisho
-    .accesskey = k
     .tooltiptext = Kagua kwa visasaisho kwa kifaa hiki cha nyongeza
+    .accesskey = k
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Chaguo
            *[other] Mapendeleo
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] C
-           *[other] M
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Badilisha chaguo hili la vifaa vya nyongeza
            *[other] Badilisha mapendeleo haya ya vifaa vya nyongeza
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] C
+           *[other] M
         }
 detail-rating =
     .value = Kadirio
@@ -105,10 +105,6 @@ addon-updates-check-for-updates = Kagua Visasaisho
     .accesskey = K
 addon-updates-view-updates = Angalia Visasaisho vya Hivi Karibuni
     .accesskey = A
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Sasaisha Vifaa vya nyongeza Kiotomatiki
     .accesskey = V
 

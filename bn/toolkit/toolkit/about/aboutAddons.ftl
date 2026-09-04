@@ -70,23 +70,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = হালনাগাদের জন্য পরীক্ষা
-    .accesskey = f
     .tooltiptext = এই অ্যাড-অনের জন্য হালনাগাদ পরীক্ষা
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] অপশন
            *[other] পছন্দসমূহ
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] এই অ্যাড-অন এর অপশন পরিবর্তন করুন
            *[other] এই অ্যাড-অন এর পছন্দসমূহ পরিবর্তন করুন
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = রেটিং
@@ -149,10 +149,6 @@ addon-updates-check-for-updates = হালনাগাদের জন্য �
     .accesskey = C
 addon-updates-view-updates = সাম্প্রতিক হালনাগাদ দেখাও
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = স্বয়ংক্রিয়ভাবে অ্যাড-অন হালনাগাদ
     .accesskey = A
 
@@ -347,8 +343,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = ব্যক্তিগত উইন্ডোতে অনুমোদিত
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = ব্যক্তিগত উইন্ডোতে অনুমোদিত
 addon-detail-private-browsing-help = অনুমতি পেলে, প্রাইভেট ব্রাউজ করার সময় এই এক্সটেনশনে আপনার অনলাইন কার্যতালিকা পাবে। <a data-l10n-name="learn-more">আরো জানুন</a>
 addon-detail-private-browsing-allow = অনুমতি দাও
 addon-detail-private-browsing-disallow = অনুমতি দিও না
@@ -357,8 +353,8 @@ addon-detail-private-browsing-disallow = অনুমতি দিও না
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } কেবলমাত্র সেই সব এক্সটেনশনকে সুপারিশ করা হয় যা সুরক্ষা এবং কার্যক্ষমতার দিক দিয়ে আমাদের মানদণ্ড পূরণ করে
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } কেবলমাত্র সেই সব এক্সটেনশনকে সুপারিশ করা হয় যা সুরক্ষা এবং কার্যক্ষমতার দিক দিয়ে আমাদের মানদণ্ড পূরণ করে
 
 ##
 

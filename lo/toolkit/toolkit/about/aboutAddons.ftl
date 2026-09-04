@@ -46,8 +46,8 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = ກວດສອບການອັບເດດ
-    .accesskey = F
     .tooltiptext = ກວດເບິ່ງການອັບເດດນີ້ສຳລັບ add-on
+    .accesskey = F
 detail-rating =
     .value = ຄະແນນ
 addon-restart-now =
@@ -81,10 +81,6 @@ extensions-warning-safe-mode2 =
 
 addon-updates-check-for-updates = ກວດສອບການອັບເດດ
     .accesskey = C
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ອັບເດດ Add-ons ໂດຍອັດຕະໂນມັດ
     .accesskey = A
 

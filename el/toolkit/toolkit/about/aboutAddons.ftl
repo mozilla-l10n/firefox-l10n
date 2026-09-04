@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Έλεγχος για ενημερώσεις
-    .accesskey = χ
     .tooltiptext = Έλεγχος για ενημερώσεις αυτού του προσθέτου
+    .accesskey = χ
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Επιλογές
            *[other] Προτιμήσεις
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Ε
-           *[other] Π
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Αλλαγή των επιλογών αυτού του προσθέτου
            *[other] Αλλαγή των προτιμήσεων αυτού του προσθέτου
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Ε
+           *[other] Π
         }
 detail-rating =
     .value = Βαθμολογία
@@ -180,10 +180,6 @@ addon-updates-check-for-updates = Έλεγχος για ενημερώσεις
     .accesskey = χ
 addon-updates-view-updates = Εμφάνιση πρόσφατων ενημερώσεων
     .accesskey = φ
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Αυτόματη ενημέρωση προσθέτων
     .accesskey = Α
 
@@ -418,8 +414,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Επιτρέπεται σε ιδιωτικά παράθυρα
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Επιτρέπεται σε ιδιωτικά παράθυρα
 addon-detail-private-browsing-help = Όταν επιτρέπεται, η επέκταση θα έχει πρόσβαση στις δραστηριότητές σας στο διαδίκτυο κατά την ιδιωτική περιήγηση. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 addon-detail-private-browsing-allow = Αποδοχή
 addon-detail-private-browsing-disallow = Απόρριψη
@@ -446,16 +442,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = Το { -brand-product-name } προτείνει μόνο επεκτάσεις που πληρούν τα πρότυπα ασφαλείας και επιδόσεών μας
     .aria-label = { addon-badge-recommended2.title }
+    .title = Το { -brand-product-name } προτείνει μόνο επεκτάσεις που πληρούν τα πρότυπα ασφαλείας και επιδόσεών μας
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Επίσημη επέκταση από τη Mozilla. Πληροί τα πρότυπα ασφαλείας και επιδόσεων
     .aria-label = { addon-badge-line3.title }
+    .title = Επίσημη επέκταση από τη Mozilla. Πληροί τα πρότυπα ασφαλείας και επιδόσεων
 addon-badge-verified2 =
-    .title = Αυτή η επέκταση έχει ελεγχθεί και πληροί τα πρότυπα ασφαλείας και επιδόσεών μας
     .aria-label = { addon-badge-verified2.title }
+    .title = Αυτή η επέκταση έχει ελεγχθεί και πληροί τα πρότυπα ασφαλείας και επιδόσεών μας
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -517,8 +513,8 @@ default-heading-search-label = Εύρεση περισσότερων προσθ�
 addons-heading-search-input =
     .placeholder = Αναζήτηση στο addons.mozilla.org
 addons-heading-search-button =
-    .title = Αναζήτηση στο addons.mozilla.org
     .aria-label = Αναζήτηση στο addons.mozilla.org
+    .title = Αναζήτηση στο addons.mozilla.org
 addon-page-options-button =
     .title = Εργαλεία για όλα τα πρόσθετα
 

@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Sök efter uppdateringar
-    .accesskey = ö
     .tooltiptext = Söker efter uppdateringar till tillägget
+    .accesskey = ö
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Inställningar
            *[other] Inställningar
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ä
-           *[other] ä
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Ändra tilläggets inställningar
            *[other] Ändra tilläggets inställningar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ä
+           *[other] ä
         }
 detail-rating =
     .value = Betyg
@@ -176,10 +176,6 @@ addon-updates-check-for-updates = Sök efter uppdateringar
     .accesskey = u
 addon-updates-view-updates = Visa nyligen uppdaterade
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Installera uppdateringar automatiskt
     .accesskey = t
 
@@ -407,8 +403,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Tillåtet i privata fönster
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Tillåtet i privata fönster
 addon-detail-private-browsing-help = När det är tillåtet kommer tillägget att ha tillgång till dina onlineaktiviteter under privat surfning. <a data-l10n-name="learn-more">Läs mer</a>
 addon-detail-private-browsing-allow = Tillåt
 addon-detail-private-browsing-disallow = Tillåt inte
@@ -435,16 +431,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } rekommenderar endast tillägg som uppfyller våra standarder för säkerhet och prestanda
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } rekommenderar endast tillägg som uppfyller våra standarder för säkerhet och prestanda
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Officiellt tillägg byggt av Mozilla Firefox. Uppfyller säkerhets- och prestandastandarder
     .aria-label = { addon-badge-line3.title }
+    .title = Officiellt tillägg byggt av Mozilla Firefox. Uppfyller säkerhets- och prestandastandarder
 addon-badge-verified2 =
-    .title = Denna tillägg har granskats för att uppfylla våra standarder för säkerhet och prestanda
     .aria-label = { addon-badge-verified2.title }
+    .title = Denna tillägg har granskats för att uppfylla våra standarder för säkerhet och prestanda
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -506,8 +502,8 @@ default-heading-search-label = Hitta fler tillägg
 addons-heading-search-input =
     .placeholder = Sök på addons.mozilla.org
 addons-heading-search-button =
-    .title = Sök på addons.mozilla.org
     .aria-label = Sök på addons.mozilla.org
+    .title = Sök på addons.mozilla.org
 addon-page-options-button =
     .title = Verktyg för alla tillägg
 

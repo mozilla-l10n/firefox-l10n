@@ -62,23 +62,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = నవీకరణల కొరకు పరిశీలించు
-    .accesskey = F
     .tooltiptext = ఈ పొడిగింత కొరకు నవీకరణలను పరిశీలించు
+    .accesskey = F
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] ఎంపికలు
            *[other] అభిరుచులు
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] ఈ పొడిగింత యొక్క ఎంపికలను మార్చు
            *[other] ఈ పొడిగింత యొక్క అభీష్టాలను మార్చు
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = శ్రేష్టత
@@ -148,10 +148,6 @@ addon-updates-check-for-updates = నవీకరణల కొరకు పర�
     .accesskey = C
 addon-updates-view-updates = ఇటీవలి తాజాకరణలను చూడండి
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = పొడిగింతలను స్వయంచాలకంగా నవీకరించు
     .accesskey = A
 

@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Tschertgar actualisaziuns
-    .accesskey = T
     .tooltiptext = Tschertgar actualisaziuns da quest supplement
+    .accesskey = T
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Preferenzas
            *[other] Preferenzas
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Midar las preferenzas da quest supplement
            *[other] Midar las preferenzas da quest supplement
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] P
         }
 detail-rating =
     .value = Valitaziun
@@ -177,10 +177,6 @@ addon-updates-check-for-updates = Tschertgar actualisaziuns
     .accesskey = T
 addon-updates-view-updates = Mussar las ultimas actualisaziuns
     .accesskey = a
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Actualisar automaticamain ils supplements
     .accesskey = A
 
@@ -400,8 +396,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Permess en fanestras privatas
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Permess en fanestras privatas
 addon-detail-private-browsing-help = Sche permess ha questa extensiun access a tias activitads online en il modus privat. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
 addon-detail-private-browsing-allow = Permetter
 addon-detail-private-browsing-disallow = Betg permetter
@@ -428,16 +424,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } recumonda mo extensiuns che correspundan a noss standards da segirezza e prestaziun
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } recumonda mo extensiuns che correspundan a noss standards da segirezza e prestaziun
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Ina extensiun uffiziala, creada da Mozilla. Correspunda a standards da segirezza e stabilitad
     .aria-label = { addon-badge-line3.title }
+    .title = Ina extensiun uffiziala, creada da Mozilla. Correspunda a standards da segirezza e stabilitad
 addon-badge-verified2 =
-    .title = Questa extensiun è vegnida controllada per garantir noss standard da segirezza e performanza
     .aria-label = { addon-badge-verified2.title }
+    .title = Questa extensiun è vegnida controllada per garantir noss standard da segirezza e performanza
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

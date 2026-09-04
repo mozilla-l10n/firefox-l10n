@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱸᱜᱷᱟᱱ
-    .accesskey = f
     .tooltiptext = ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤ ᱠᱚ ᱛᱮᱸᱜᱷᱟᱱ
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ
            *[other] ᱠᱩᱥᱤᱠᱚ
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ
            *[other] ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱᱥ ᱨᱮᱭᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = ᱫᱚᱨ ᱴᱷᱟᱹᱣᱠᱟᱹ
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = ᱦᱟᱹᱞᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛ�
     .accesskey = C
 addon-updates-view-updates = ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱜ ᱠᱚ ᱧᱮᱞ ᱢᱮ
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ᱮᱰ-ᱟᱹᱱᱥ ᱟᱡ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤ ᱢᱮ
     .accesskey = A
 
@@ -390,8 +386,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱜᱚᱱᱚᱜᱼᱟ
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱜᱚᱱᱚᱜᱼᱟ
 addon-detail-private-browsing-help = ᱛᱤᱧ ᱡᱷᱚᱜ ᱮᱢ ᱪᱷᱚᱜᱼᱟ, ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱚᱠᱛᱚ ᱨᱮ ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ <a data-l10n-name="learn-more">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 addon-detail-private-browsing-allow = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 addon-detail-private-browsing-disallow = ᱟᱞᱚ ᱢᱟᱹᱧᱡᱩᱨᱮᱭᱟᱢ
@@ -418,16 +414,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } ᱫᱚ ᱨᱩᱭᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱦᱟᱸ ᱟᱞᱮᱭᱟᱜ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱚᱣ ᱠᱷᱟᱱ ᱚᱱᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱞᱮ ᱯᱟᱥᱱᱟᱣᱟ
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } ᱫᱚ ᱨᱩᱭᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱦᱟᱸ ᱟᱞᱮᱭᱟᱜ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱚᱣ ᱠᱷᱟᱱ ᱚᱱᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱞᱮ ᱯᱟᱥᱱᱟᱣᱟ
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Mozilla ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱ ᱚᱫᱷᱤᱠᱟᱨᱤᱠ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱚᱣᱟᱭ
     .aria-label = { addon-badge-line3.title }
+    .title = Mozilla ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱ ᱚᱫᱷᱤᱠᱟᱨᱤᱠ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱚᱣᱟᱭ
 addon-badge-verified2 =
-    .title = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱨᱩᱭᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱟᱣ ᱮᱫᱟᱭ
     .aria-label = { addon-badge-verified2.title }
+    .title = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱨᱩᱭᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱟᱣ ᱮᱫᱟᱭ
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

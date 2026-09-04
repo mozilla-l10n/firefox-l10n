@@ -78,23 +78,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Check fur Updates
-    .accesskey = U
     .tooltiptext = Check fur updates fur this eik-on
+    .accesskey = U
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Options
            *[other] Preferences
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Chynge this eik-on’s options
            *[other] Chynge this eik-on’s preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = Ratin
@@ -167,10 +167,6 @@ addon-updates-check-for-updates = Check fur Updates
     .accesskey = C
 addon-updates-view-updates = View Recent Updates
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Update Eik-ons Automatically
     .accesskey = A
 
@@ -368,8 +364,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Allooed in private windaes
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Allooed in private windaes
 addon-detail-private-browsing-help = When allooed, the extension will hae ingang tae yer online ongauns while private stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
 addon-detail-private-browsing-allow = Alloo
 addon-detail-private-browsing-disallow = Dinnae Alloo
@@ -378,16 +374,16 @@ addon-detail-private-browsing-disallow = Dinnae Alloo
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } anely recommends extensions that meet oor staunarts fur siccarness and performance
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } anely recommends extensions that meet oor staunarts fur siccarness and performance
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Offeecial extension pit thegither by Mozilla. Meets security and performance staunarts
     .aria-label = { addon-badge-line3.title }
+    .title = Offeecial extension pit thegither by Mozilla. Meets security and performance staunarts
 addon-badge-verified2 =
-    .title = This extension has been pruived tae meet oor staunarts fur siccarness and performance
     .aria-label = { addon-badge-verified2.title }
+    .title = This extension has been pruived tae meet oor staunarts fur siccarness and performance
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

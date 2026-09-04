@@ -42,23 +42,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Wut ay yeesal yu féex
-    .accesskey = W
     .tooltiptext = Wut ay yeesal yu féex pur modil bi
+    .accesskey = W
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Tannéef yi
            *[other] Taamu yi
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] T
-           *[other] T
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Soppali tànnéefi modil yi
            *[other] Soppi taamu modil bi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] T
+           *[other] T
         }
 detail-rating =
     .value = Yëgg
@@ -105,10 +105,6 @@ addon-updates-check-for-updates = Wut ay yeesal
     .accesskey = W
 addon-updates-view-updates = Wone yeesal yi bees
     .accesskey = W
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Yeesal boppam modil yi
     .accesskey = Y
 

@@ -68,23 +68,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = تازہ کاریوں کے لیے پڑتال کریں
-    .accesskey = ت
     .tooltiptext = اس ایڈ اون کے لیے تازہ کاریوں کی پڑتال کریں
+    .accesskey = ت
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] اختیارات
            *[other] ترجیحات
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ا
-           *[other] ت
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] اس ایڈ اون کے اختیارات تبدیل کریں
            *[other] اس ایڈ اون کی ترجیحات تبدیل کریں
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ا
+           *[other] ت
         }
 detail-rating =
     .value = شرح کاری
@@ -146,10 +146,6 @@ addon-updates-check-for-updates = تازہ کاریوں کے لیے پڑتال �
     .accesskey = پ
 addon-updates-view-updates = حالیہ تازہ کاریاں نظارہ کریں
     .accesskey = ن
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ایڈ اون خود بخود تازہ کریں
     .accesskey = ا
 

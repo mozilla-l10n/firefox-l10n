@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Frissítések keresése
-    .accesskey = F
     .tooltiptext = Frissítések keresése ehhez a kiegészítőhöz
+    .accesskey = F
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Beállítások
            *[other] Beállítások
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] B
-           *[other] B
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] A kiegészítő beállításainak módosítása
            *[other] A kiegészítő beállításainak módosítása
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] B
+           *[other] B
         }
 detail-rating =
     .value = Értékelés
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = Frissítések keresése
     .accesskey = F
 addon-updates-view-updates = A legutóbbi frissítések megtekintése
     .accesskey = A
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Kiegészítők automatikus frissítése
     .accesskey = K
 
@@ -416,8 +412,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Engedélyezett privát ablakokban
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Engedélyezett privát ablakokban
 addon-detail-private-browsing-help = Ha engedélyezve van, a kiegészítő hozzá fog férni az online tevékenységekhez privát böngészés közben. <a data-l10n-name="learn-more">További tudnivalók</a>
 addon-detail-private-browsing-allow = Engedélyezés
 addon-detail-private-browsing-disallow = Tiltás
@@ -444,16 +440,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = A { -brand-product-name } csak olyan kiegészítőket ajánl, amelyek megfelelnek a biztonsági és a teljesítménybeli követelményeinknek.
     .aria-label = { addon-badge-recommended2.title }
+    .title = A { -brand-product-name } csak olyan kiegészítőket ajánl, amelyek megfelelnek a biztonsági és a teljesítménybeli követelményeinknek.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Hivatalos, a Mozilla által készített kiegészítő. Megfelel a biztonsági és teljesítményi előírásoknak.
     .aria-label = { addon-badge-line3.title }
+    .title = Hivatalos, a Mozilla által készített kiegészítő. Megfelel a biztonsági és teljesítményi előírásoknak.
 addon-badge-verified2 =
-    .title = Megvizsgáltuk ezt a kiegészítőt, és megfelelt a biztonsági és a teljesítménybeli követelményeinknek.
     .aria-label = { addon-badge-verified2.title }
+    .title = Megvizsgáltuk ezt a kiegészítőt, és megfelelt a biztonsági és a teljesítménybeli követelményeinknek.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -515,8 +511,8 @@ default-heading-search-label = Több kiegészítő keresése
 addons-heading-search-input =
     .placeholder = Keresés itt: addons.mozilla.org
 addons-heading-search-button =
-    .title = Keresés itt: addons.mozilla.org
     .aria-label = Keresés itt: addons.mozilla.org
+    .title = Keresés itt: addons.mozilla.org
 addon-page-options-button =
     .title = Eszközök minden kiegészítőhöz
 

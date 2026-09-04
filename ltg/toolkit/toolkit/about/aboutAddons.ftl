@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Mekleit atjaunynuojumus
-    .accesskey = M
     .tooltiptext = Mekleit atjaunynuojumus itam papyldynuojumam
+    .accesskey = M
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Īstatiejumi
            *[other] Īstatiejumi
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Ī
-           *[other] Ī
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Izmaineit itei papyldynuojuma īstatiejumus
            *[other] Izmaineit itei papyldynuojuma īstatiejumus
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Ī
+           *[other] Ī
         }
 detail-rating =
     .value = Viertiejums
@@ -122,10 +122,6 @@ addon-updates-check-for-updates = Mekleit atjaunynuojumus
     .accesskey = M
 addon-updates-view-updates = Apsavērt nasenūs atjaunynuojumus
     .accesskey = n
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Atjaunynuot papyldynuojums automatiski
     .accesskey = A
 

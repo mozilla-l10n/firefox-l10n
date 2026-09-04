@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = 업데이트 확인
-    .accesskey = U
     .tooltiptext = 이 부가 기능 업데이트 확인
+    .accesskey = U
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] 옵션
            *[other] 설정
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] 부가 기능 옵션 변경
            *[other] 부가 기능 설정 변경
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = 평가
@@ -180,10 +180,6 @@ addon-updates-check-for-updates = 업데이트 확인
     .accesskey = C
 addon-updates-view-updates = 최근 업데이트 보기
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = 부가 기능을 자동으로 업데이트
     .accesskey = A
 
@@ -407,8 +403,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = 사생활 보호 창에서 허용됨
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = 사생활 보호 창에서 허용됨
 addon-detail-private-browsing-help = 허용되면 확장 기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 addon-detail-private-browsing-allow = 허용
 addon-detail-private-browsing-disallow = 허용 안 함
@@ -435,16 +431,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장 기능만 추천함
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장 기능만 추천함
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Mozilla에서 만든 공식 확장 기능. 보안 및 성능 표준 충족
     .aria-label = { addon-badge-line3.title }
+    .title = Mozilla에서 만든 공식 확장 기능. 보안 및 성능 표준 충족
 addon-badge-verified2 =
-    .title = 이 확장 기능은 보안 및 성능 표준을 충족하는 것으로 검토되었습니다
     .aria-label = { addon-badge-verified2.title }
+    .title = 이 확장 기능은 보안 및 성능 표준을 충족하는 것으로 검토되었습니다
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -506,8 +502,8 @@ default-heading-search-label = 부가 기능 더 찾기
 addons-heading-search-input =
     .placeholder = addons.mozilla.org 검색
 addons-heading-search-button =
-    .title = addons.mozilla.org 검색
     .aria-label = addons.mozilla.org 검색
+    .title = addons.mozilla.org 검색
 addon-page-options-button =
     .title = 부가 기능 도구
 

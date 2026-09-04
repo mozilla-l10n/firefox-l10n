@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Проверка за обновяване
-    .accesskey = П
     .tooltiptext = Проверка за обновяване на тази добавка
+    .accesskey = П
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Настройки
            *[other] Настройки
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Н
-           *[other] Н
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Промяна на настройките на тази добавка
            *[other] Сменяне на настройките на тази добавка
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Н
+           *[other] Н
         }
 detail-rating =
     .value = Оценка
@@ -172,10 +172,6 @@ addon-updates-check-for-updates = Проверка за обновяване
     .accesskey = П
 addon-updates-view-updates = Последни обновявания
     .accesskey = о
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Автоматично обновяване на добавките
     .accesskey = А
 
@@ -390,8 +386,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Разрешено в поверителни прозорци
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Разрешено в поверителни прозорци
 addon-detail-private-browsing-help = Когато е разрешено, разширението ще има достъп до дейностите ви, докато разглеждате поверително. <a data-l10n-name="learn-more">Научете повече</a>
 addon-detail-private-browsing-allow = Разрешаване
 addon-detail-private-browsing-disallow = Забраняване
@@ -404,16 +400,16 @@ addon-detail-group-label-private-browsing =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } препоръчва само разширения, които отговарят на нашите стандарти за сигурност и производителност
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } препоръчва само разширения, които отговарят на нашите стандарти за сигурност и производителност
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Официално разширение то Mozilla. Отговаря на стандартите за сигурност и производителност
     .aria-label = { addon-badge-line3.title }
+    .title = Официално разширение то Mozilla. Отговаря на стандартите за сигурност и производителност
 addon-badge-verified2 =
-    .title = Това разширение е прегледано и отговаря на нашите стандарти за сигурност и производителност
     .aria-label = { addon-badge-verified2.title }
+    .title = Това разширение е прегледано и отговаря на нашите стандарти за сигурност и производителност
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

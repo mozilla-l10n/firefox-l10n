@@ -82,23 +82,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Знайсці абнаўленні
-    .accesskey = н
     .tooltiptext = Праверыць, ці існуюць абнаўленні гэтага дадатку
+    .accesskey = н
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Налады
            *[other] Налады
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Н
-           *[other] Н
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Змяненне налад гэтага дадатка
            *[other] Змяненне налад гэтага дадатка
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Н
+           *[other] Н
         }
 detail-rating =
     .value = Ацэнка
@@ -181,10 +181,6 @@ addon-updates-check-for-updates = Праверыць наяўнасць абна
     .accesskey = с
 addon-updates-view-updates = Пабачыць нядаўнія абнаўленні
     .accesskey = б
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Аўтаматычна абнаўляць дадаткі
     .accesskey = А
 
@@ -422,8 +418,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Дазволена ў прыватных вокнах
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = Дазволена ў прыватных вокнах
 addon-detail-private-browsing-help = Калі дазволена, пашырэнне будзе мець доступ да вашай дзейнасці ў сеціве ў часе прыватнага аглядання. <a data-l10n-name="learn-more">Даведацца больш</a>
 addon-detail-private-browsing-allow = Дазволіць
 addon-detail-private-browsing-disallow = Не дазваляць
@@ -450,16 +446,16 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } рэкамендуе толькі пашырэнні, якія адпавядаюць нашым стандартам бяспекі і прадукцыйнасці
     .aria-label = { addon-badge-recommended2.title }
+    .title = { -brand-product-name } рэкамендуе толькі пашырэнні, якія адпавядаюць нашым стандартам бяспекі і прадукцыйнасці
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Афіцыйнае пашырэнне, створанае Mozilla. Адпавядае стандартам бяспекі і прадукцыйнасці
     .aria-label = { addon-badge-line3.title }
+    .title = Афіцыйнае пашырэнне, створанае Mozilla. Адпавядае стандартам бяспекі і прадукцыйнасці
 addon-badge-verified2 =
-    .title = Гэта пашырэнне праверана на адпаведнасць нашым стандартам бяспекі і прадукцыйнасці
     .aria-label = { addon-badge-verified2.title }
+    .title = Гэта пашырэнне праверана на адпаведнасць нашым стандартам бяспекі і прадукцыйнасці
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -521,8 +517,8 @@ default-heading-search-label = Знайсці больш дадаткаў
 addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
 addons-heading-search-button =
-    .title = Пошук на addons.mozilla.org
     .aria-label = Пошук па сайце addons.mozilla.org
+    .title = Пошук на addons.mozilla.org
 addon-page-options-button =
     .title = Прылады для ўсіх дадаткаў
 

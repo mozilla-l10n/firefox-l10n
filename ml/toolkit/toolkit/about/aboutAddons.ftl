@@ -78,23 +78,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക
-    .accesskey = f
     .tooltiptext = ഈ ആഡ്-ഓണിനുള്ള പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] ഐച്ഛികങ്ങള്‍
            *[other] മുന്‍ഗണനകള്‍
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] ഈ ആഡ്-ഓണിനുള്ള ഐച്ഛികങ്ങള്‍ മാറ്റുക
            *[other] ഈ ആഡ്-ഓണിനുള്ള മുന്‍ഗണനകള്‍ മാറ്റുക
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = റേറ്റിങ്
@@ -165,10 +165,6 @@ addon-updates-check-for-updates = പരിഷ്കരണങ്ങള്‍ക�
     .accesskey = C
 addon-updates-view-updates = ഏറ്റവും പുതിയ പരിഷ്കരങ്ങള്‍ കാണുക
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ഓട്ടോമാറ്റിക്കായി ആഡ്-ഓണുകള്‍ പരിഷ്കരിയ്ക്കുക
     .accesskey = A
 
@@ -336,8 +332,8 @@ addon-badge-private-browsing-allowed3 =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = സ്വകാര്യ ജാലകങ്ങളിൽ അനുമതിയുണ്ടു്
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+    .title = സ്വകാര്യ ജാലകങ്ങളിൽ അനുമതിയുണ്ടു്
 addon-detail-private-browsing-allow = അനുവദിക്കുക
 addon-detail-private-browsing-disallow = അനുവദിക്കരുത്
 # aria-label associated to the private browsing row to help screen readers to announce the group

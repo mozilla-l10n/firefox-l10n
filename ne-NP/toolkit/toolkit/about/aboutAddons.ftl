@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = अद्यावधिकहरूका लागि जाँच गर्नुहोस्
-    .accesskey = f
     .tooltiptext = यो एड-अनको लागि अद्यावधिकहरू जाँच गर्नुहोस्
+    .accesskey = f
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] विकल्पहरू
            *[other] प्राथमिकताहरू
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] यस एड-अनका विकल्पहरू बदल्नुहोस्
            *[other] यस एड-अनका प्राथमिकताहरू बदल्नुहोस्
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
         }
 detail-rating =
     .value = रेटिङ
@@ -122,10 +122,6 @@ addon-updates-check-for-updates = अद्यावधिकहरूका ल
     .accesskey = C
 addon-updates-view-updates = हालका अद्यावधिहरू हेर्नुहोस्
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = सबै एड-अनहरू स्वतः अद्यावधि गर्नुहोस्
     .accesskey = A
 

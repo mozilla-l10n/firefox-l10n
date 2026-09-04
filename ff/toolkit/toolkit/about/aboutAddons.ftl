@@ -46,23 +46,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Yuurno kesɗitine
-    .accesskey = k
     .tooltiptext = Yuurno kesɗitine ngal ɓeydital
+    .accesskey = k
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Cuɓe
            *[other] Cuɓoraaɗe
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] C
-           *[other] C
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Waylu cuɓe ngal ɓeydital
            *[other] Waylu cuɓoraaɗe ngal ɓeydital
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] C
+           *[other] C
         }
 detail-rating =
     .value = Ɓetagol
@@ -122,10 +122,6 @@ addon-updates-check-for-updates = Yuurno kesɗitine
     .accesskey = Y
 addon-updates-view-updates = Hollir Kesɗitine Cakkitiiɗe
     .accesskey = H
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Hesɗitin Ɓeyditte e Jaajol
     .accesskey = Ɓ
 

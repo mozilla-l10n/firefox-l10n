@@ -42,23 +42,23 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Kebera ku Tuusaganya
-    .accesskey = e
     .tooltiptext = Kebera ebyokutuukaganya ebikwata ku kyongerwako kino
+    .accesskey = e
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Ebyokulondako
            *[other] Ebyokweroboza
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] b
-        }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Kyusa ebyokulondako bye' ekyongerwako kino
            *[other] Kyusa ebyokulondako by'ekyongerwako kino
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] b
         }
 detail-rating =
     .value = kupima
@@ -105,10 +105,6 @@ addon-updates-check-for-updates = Kebera Ebitusaganya Ebipya
     .accesskey = e
 addon-updates-view-updates = Laba okutuukanya okukoleddwa emabegako
     .accesskey = L
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Tuukanya Ebyongerwako wekka
     .accesskey = E
 
