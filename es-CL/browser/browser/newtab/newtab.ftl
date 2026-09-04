@@ -206,6 +206,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } bloquea los rastreadores mientras navegas. Los verás aquí.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } bloquea automáticamente los rastreadores, manteniendo así una mayor parte de tu actividad privada.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Consulta aquí el recuento actualizado.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -948,6 +954,52 @@ newtab-wallpaper-dark-mountain = Paisaje de montaña
 newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
 newtab-wallpaper-dark-fox-anniversary = Un zorro en la acera cerca de un bosque
 newtab-wallpaper-light-fox-anniversary = Un zorro en un campo de pasto con un paisaje montañoso brumoso
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Volver a Personalizar
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Tus imágenes
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Tus imágenes, fondos de pantalla que has guardado
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Imagen { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Eliminar { $name }
+    .title = Eliminar imagen
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Eliminar imagen { $number }
+    .title = Eliminar imagen { $number }
+newtab-wallpaper-remove-image-title = ¿Eliminar imagen?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Esta acción no puede revertirse.
+newtab-wallpaper-remove-image-confirm = Eliminar
+newtab-wallpaper-remove-image-cancel = Cancelar
 
 ## Solid Colors
 
@@ -1041,6 +1093,9 @@ newtab-weather-menu-change-location = Cambiar ubicación
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Buscar ubicación
     .placeholder = Buscar ubicación
+newtab-weather-cancel-input =
+    .aria-label = Cancelar
+    .title = Cancelar
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Utilizar la ubicación actual
@@ -1151,6 +1206,8 @@ newtab-section-follow-highlight-subtitle = Sigue tus intereses para ver más de 
 
 newtab-topic-navigation-label =
     .aria-label = Temas
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Más
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1290,6 +1347,10 @@ newtab-widget-lists-menu-create = Crear una nueva lista
 newtab-widget-lists-menu-delete = Eliminar esta lista
 newtab-widget-lists-menu-copy = Copiar lista al portapapeles
 newtab-widget-lists-menu-learn-more = Aprender más
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Cambiar lista
+    .title = Cambiar lista
 newtab-widget-lists-button-add-item = Añadir un elemento
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Añadir un elemento
@@ -1349,6 +1410,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Minimizar todos los widgets al tamaño compacto
     .title = Minimizar widgets
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Mostrar la sección de widgets
+    .title = Mostrar widgets
 newtab-widget-section-menu-button =
     .aria-label = Abrir menú de widgets
     .title = Menú de widgets
