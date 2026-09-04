@@ -28,3 +28,11 @@ autocomplete-import-learn-more = Saznaj više
 
 # aria-label and tooltip for the button that opens the edit/delete menu.
 autocomplete-more-actions = Više radnji
+autocomplete-edit-password = Uredi ovu lozinku
+autocomplete-delete-password = Izbriši ovu lozinku
+autocomplete-edit-address = Uredi ovu adresu
+autocomplete-delete-address = Izbriši ovu adresu
+autocomplete-edit-payment-method = Uredi ovaj način plaćanja
+autocomplete-delete-payment-method = Izbriši ovaj način plaćanja
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Izbriši ovaj unos u povijesti obrasca
