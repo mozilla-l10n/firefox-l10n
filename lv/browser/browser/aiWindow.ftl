@@ -196,3 +196,9 @@ aiwindow-starter-scroll-start =
 aiwindow-starter-scroll-end =
     .aria-label = Ritināt uz priekšu
     .tooltiptext = Ritināt uz priekšu
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Noraidīt { $text }
+    .title = Noraidīt { $text }

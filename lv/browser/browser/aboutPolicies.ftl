@@ -22,3 +22,6 @@ inactive-message = Uzņēmumu politikas pakalpojums nav aktīvs.
 policy-name = Politikas nosaukums
 policy-value = Politikas vērtība
 policy-errors = Politikas kļūdas
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Nav pilnībā piemērota
