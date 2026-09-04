@@ -233,6 +233,10 @@ plugins-openh264-name = OpenH264 video kodeks, ko piedāvā Cisco Systems, Inc.
 plugins-openh264-description = Šo spraudni automātiski uzstāda Mozilla, lai ievērotu WebRTC tehniskās prasības un ļautu iespējot WebRTC zvanus ar ierīcēm, kurās ir nepieciešams H.264 video saspiedatspiedējs. Var apmeklēt http://www.openh264.org/, lai apskatītu pirmkodu un uzzinātu vairāk par īstenojumu.
 plugins-widevine-name = Google Inc piedāvātais Widevine Content Decryption Module
 
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+mlmodel-speech-recognition = { -brand-short-name } izmanto to ierīcē esošai runas atpazīšanai
+
 ## Promo footer shown in the about:addons recommendations view when
 ## Project Nova styles are enabled.
 ## The heading refers to the user choosing a Firefox theme or extension to

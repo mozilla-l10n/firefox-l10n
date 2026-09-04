@@ -1795,10 +1795,14 @@ related-settings-tabs-browsing-link =
 ## AI controls page
 
 preferences-ai-controls-block-ai-label = Liegt MI uzlabojumus
+preferences-ai-controls-speech-recognition-control =
+    .description = Runas transkribēšana vietēji.
+    .label = Runas atpazīšana
 preferences-ai-controls-sidebar-chatbot-group-3 =
     .description = Paturi tērzēšanas botu redzeslaukā, kamēr pārlūko! Izvēlies no vairākiem nodrošinātājiem un pārslēdzies jebkurā laikā!
     .label = MI tērzēšanas botu nodrošinātāji sānu joslā
 preferences-ai-controls-block-confirmation-heading = Liegt MI uzlabojumus?
+preferences-ai-controls-block-confirmation-speech-recognition = Runas atpazīšana
 preferences-ai-controls-block-confirmation-confirm =
     .label = Liegt
 

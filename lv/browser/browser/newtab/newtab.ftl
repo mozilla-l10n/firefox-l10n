@@ -101,6 +101,15 @@ newtab-privacy-menu-learn-more = Uzzināt vairāk
 newtab-privacy-widget-label =
     .aria-label = Privātums
 
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } aiztur izsekotājus, tādējādi nodrošinot privātumu lielākai daļai darbību.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Šeit var apskatīt pašreizējo kopskaitu.
+
 ## Privacy widget — Enhanced Tracking Protection off state
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
@@ -616,6 +625,52 @@ newtab-wallpaper-dark-mountain = Ainavisks kalns
 newtab-wallpaper-dark-city = Violeta pilsētas ainava
 newtab-wallpaper-dark-fox-anniversary = Lapsa uz ceļa pie meža
 newtab-wallpaper-light-fox-anniversary = Lapsa pļavā ar dūmakainu kalnu ainavu
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Atpakaļ uz pielāgošanu
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Tavi attēli
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Tavi saglabātie attēli un ekrāntapetes
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Attēls { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Noņemt { $name }
+    .title = Noņemt attēlu
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Noņemt attēlu { $number }
+    .title = Noņemt attēlu { $number }
+newtab-wallpaper-remove-image-title = Noņemt attēlu?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Šī ir neatgriezeniska darbība.
+newtab-wallpaper-remove-image-confirm = Noņemt
+newtab-wallpaper-remove-image-cancel = Atcelt
 
 ## Solid Colors
 
@@ -684,6 +739,9 @@ newtab-weather-menu-change-location = Mainīt atrašanās vietu
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Meklēt atrašanās vietu
     .placeholder = Meklēt atrašanās vietu
+newtab-weather-cancel-input =
+    .aria-label = Atcelt
+    .title = Atcelt
 newtab-weather-menu-weather-display = Laikapstākļu attēlotājs
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -790,6 +848,10 @@ newtab-report-content-requires-payment-subscription-learn-more = Uzzināt vairā
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Iespējas ir neierobežotas. Pievieno kādu!
 newtab-widget-lists-menu-learn-more = Uzzināt vairāk
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Mainīt sarakstu
+    .title = Mainīt sarakstu
 newtab-widget-lists-button-add-item = Pievienot vienumu
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Pievienot vienumu
