@@ -6,7 +6,7 @@
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Շարունակեք զգուշությամբ
-about-config-intro-warning-text = Կազմաձևի առաջատար նախապատվությունների փոփոխումը կարող է ազդել { -brand-short-name } ֊ի կատարման կամ անվտանգության վրա:
+about-config-intro-warning-text = Կազմաձևի ընդլայնված նախապատվությունների փոփոխումը կարող է ազդել { -brand-short-name }-ի արտադրողականության կամ անվտանգության վրա:
 about-config-intro-warning-checkbox = Զգուշացեք ինձ, երբ ես փորձում եմ մուտք գործել այս նախընտրություններ
 about-config-intro-warning-button = Ընդունել վտանգը եւ շարունակել
 
