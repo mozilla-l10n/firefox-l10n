@@ -96,9 +96,9 @@ customkeys-conflict-unusable-title = Sleutel kan niet worden gebruikt
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-unusable-body = Deze sleutel wordt al gebruikt door ‘{ $conflict }’ en kan niet worden gebruikt.
-customkeys-reset-all-confirm-title = Standaardinstellingen herstellen?
+customkeys-reset-all-confirm-title = Standaardwaarden herstellen?
 customkeys-reset-all-confirm-body = Alle aangepaste sneltoetsen die u hebt aangemaakt, zullen worden verwijderd.
-customkeys-reset-all-confirm-button-confirm = Standaardinstellingen herstellen
+customkeys-reset-all-confirm-button-confirm = Standaardwaarden herstellen
 customkeys-reset-all-confirm-button-cancel = Annuleren
 
 ## Sidebar
@@ -113,4 +113,4 @@ customkeys-search-input =
     .placeholder = Sneltoetsen zoeken
 customkeys-description = Bepaal hoe u rond beweegt en interactie met { -brand-short-name } hebt.
 customkeys-support-link-text = Meer info
-customkeys-reset-all-button = Standaardinstellingen herstellen
+customkeys-reset-all-button = Standaardwaarden herstellen
