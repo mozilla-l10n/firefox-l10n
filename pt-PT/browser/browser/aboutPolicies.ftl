@@ -22,3 +22,6 @@ inactive-message = O serviço de políticas empresariais está inativo.
 policy-name = Nome da política
 policy-value = Valor da política
 policy-errors = Erros de políticas
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Não aplicado totalmente
