@@ -952,6 +952,25 @@ newtab-wallpaper-dark-city = Lilla bylandskap
 newtab-wallpaper-dark-fox-anniversary = Ein rev på fortauet nær ein skog
 newtab-wallpaper-light-fox-anniversary = Ein rev i ei graskledd mark med eit tåkete fjellandskap
 
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Fjern bildet
+newtab-wallpaper-remove-image-title = Fjerne bildet?
+newtab-wallpaper-remove-image-confirm = Fjern
+newtab-wallpaper-remove-image-cancel = Avbryt
+
 ## Solid Colors
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
@@ -1044,6 +1063,9 @@ newtab-weather-menu-change-location = Endre plassering
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Søk plassering
     .placeholder = Søk plassering
+newtab-weather-cancel-input =
+    .aria-label = Avbryt
+    .title = Avbryt
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Bruk gjeldande plassering
@@ -1295,6 +1317,10 @@ newtab-widget-lists-menu-create = Opprett ei ny liste
 newtab-widget-lists-menu-delete = Slett denne lista
 newtab-widget-lists-menu-copy = Kopier liste til utklippstavla
 newtab-widget-lists-menu-learn-more = Les meir
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Endre liste
+    .title = Endre liste
 newtab-widget-lists-button-add-item = Legg til eit element
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Legg til eit element
