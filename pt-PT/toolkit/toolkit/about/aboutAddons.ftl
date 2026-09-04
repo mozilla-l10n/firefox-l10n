@@ -603,6 +603,7 @@ mlmodel-pdfjs = O { -brand-short-name } utiliza isto para criar texto alternativ
 mlmodel-smart-tab-topic-engine = O { -brand-short-name } utiliza esta informação para sugerir nomes para os seus grupos de separadores
 mlmodel-smart-tab-embedding-engine = O { -brand-short-name } utiliza esta informação para sugerir separadores para os seus grupos de separadores
 mlmodel-formfill-engine = O { -brand-short-name } usa esta informação para ajudar a preencher formulários de endereço
+mlmodel-speech-recognition = O { -brand-short-name } utiliza isto para reconhecimento de voz no dispositivo
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA no dispositivo
 addon-category-mlmodel-title =
