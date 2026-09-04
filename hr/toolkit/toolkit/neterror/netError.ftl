@@ -168,10 +168,15 @@ certerror-blocked-by-corp-headers-description = Ponekad web stranice postavljaju
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kod greške: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Čini se da postoji problem s tvojom internetskom vezom
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ne može uspostaviti vezu sa serverom { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } se ne može povezati sa serverom na <strong>{ $hostname }</strong>
+fp-neterror-offline-what-can-you-do-body = Pokušaj se povezati na jednom drugom uređaju. Provjeri modem ili router. Prekini vezu i ponovo se spoji na Wi-Fi.
 fp-neterror-vpn-error-description = Pokušaj ponovo za par minuta.
 fp-neterror-denied-port-access = Ova adresa koristi mrežni priključak koji se obično koristi u druge svrhe osim pregledavanja weba. { -brand-short-name } je otkazao zahtjev radi tvoje zaštite.
