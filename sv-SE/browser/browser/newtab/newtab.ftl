@@ -1358,7 +1358,7 @@ newtab-widget-section-minimize =
 # Shown on the widgets section header button while the section is
 # auto-minimized to its title row, to open the section back up.
 newtab-widget-section-show-widgets =
-    .aria-label = Visa avsnittet widgets
+    .aria-label = Visa widgetsektionen
     .title = Visa widgetar
 newtab-widget-section-menu-button =
     .aria-label = Öppna widgetmenyn
