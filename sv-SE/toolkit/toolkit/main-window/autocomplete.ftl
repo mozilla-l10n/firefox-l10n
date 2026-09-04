@@ -35,4 +35,4 @@ autocomplete-delete-address = Ta bort den här adressen
 autocomplete-edit-payment-method = Redigera denna betalningsmetod
 autocomplete-delete-payment-method = Ta bort denna betalningsmetod
 # aria-label and tooltip for the trash button on a form history entry.
-autocomplete-delete-form-history-entry = Ta bort formulärhistorikposten
+autocomplete-delete-form-history-entry = Ta bort den här formulärhistorikposten

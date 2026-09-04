@@ -206,7 +206,7 @@ sidebar-menu-customize-label =
 sidebar-menu-contextual-password-manager-label =
     .label = Lösenord
 sidebar-menu-resource-monitor-label =
-    .label = Resurs övervaka
+    .label = Resursövervakare
 sidebar-menu-more-tools-label =
     .label = Fler verktyg
 

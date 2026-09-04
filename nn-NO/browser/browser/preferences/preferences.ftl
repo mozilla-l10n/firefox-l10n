@@ -595,7 +595,7 @@ check-user-spelling =
 spellcheck-download-dictionaries =
     .label = Last ned ordbøker
 spellcheck-promo =
-    .heading = Slik bruker du stavekontroll
+    .heading = Slik brukar du stavekontroll
     .message = Høgreklikk i eit tekstfelt for å slå stavekontrollen på eller av, eller for å endre språk. Ikkje alle felt støttar stavekontroll.
 
 ## General Section - Files and Applications
