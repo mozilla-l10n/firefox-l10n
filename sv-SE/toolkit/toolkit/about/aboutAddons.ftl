@@ -590,6 +590,7 @@ mlmodel-pdfjs = { -brand-short-name } använder detta för att skapa alternativ 
 mlmodel-smart-tab-topic-engine = { -brand-short-name } använder detta för att föreslå namn för dina flikgrupper
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } använder detta för att föreslå flikar för dina flikgrupper
 mlmodel-formfill-engine = { -brand-short-name } använder detta för att fylla i adressformulär
+mlmodel-speech-recognition = { -brand-short-name } använder detta för taligenkänning på enheten
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI på enheten
 addon-category-mlmodel-title =

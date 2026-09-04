@@ -585,6 +585,7 @@ mlmodel-pdfjs = { -brand-short-name } l’utilise pour créer le texte alternati
 mlmodel-smart-tab-topic-engine = { -brand-short-name } l’utilise pour suggérer les noms de vos groupes d’onglets
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } l’utilise pour suggérer des onglets à ajouter à vos groupes d’onglets
 mlmodel-formfill-engine = { -brand-short-name } l’utilise pour remplir les formulaires d’adresses
+mlmodel-speech-recognition = { -brand-short-name } l’utilise pour la reconnaissance vocale sur l’appareil
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA sur l’appareil
 addon-category-mlmodel-title =
