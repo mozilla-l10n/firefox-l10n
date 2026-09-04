@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Сілтеме көшірілді
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Windows көмегімен бөлісу…
+            [macos] Mac көмегімен бөлісу…
+           *[other] Көмегімен бөлісу…
+        }
 share-panel-os-share =
     .label = Көмегімен бөлісу…
 share-panel-mail =
     .label = Эл. поштаны жіберу
 share-panel-screenshot =
     .label = Скриншотты түсіру
+share-panel-qr-code-2 =
+    .label = QR кодын жасау
 share-panel-qr-code =
     .label = QR кодын бөлісу
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Мобильді құрылғыға жіберу
 share-panel-device-subview =
     .title = Барлық құрылғылар
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Құрылғыны қосу
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =

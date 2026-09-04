@@ -364,3 +364,13 @@ aiwindow-starter-planning-plan = Жоспар құруға көмектесу
 aiwindow-starter-browsing-history = Тарихтағы беттерді табу
 aiwindow-starter-browsing-summarize = Беттерді қорытындылау
 aiwindow-starter-browsing-compare = Беттерді салыстыру
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Артқа айналдыру
+    .tooltiptext = Артқа айналдыру
+aiwindow-starter-scroll-end =
+    .aria-label = Алға айналдыру
+    .tooltiptext = Алға айналдыру

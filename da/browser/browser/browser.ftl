@@ -1685,8 +1685,8 @@ urlbar-trust-icon-notsecure-label = Ikke sikker
 #  $count (number): the number of trackers blocked.
 urlbar-trust-icon-trackers-blocked-longform-label =
     { $count ->
-        [one] { $count } sporings-mekanisme blokeret
-       *[other] { $count } sporings-mekanismer blokeret
+        [one] { $count } forsøg på sporing blokeret
+       *[other] { $count } forsøg på sporing blokeret
     }
 
 ## Variables

@@ -146,6 +146,10 @@ autofill-card-expires-year-2 =
     .label = Мерзімі бітетін жыл
 autofill-card-billing-address-2 =
     .label = Шотты шығару адресі
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Картадағы аты
 autofill-card-expires-month = Мерз. аяқт. айы
 autofill-card-expires-year = Мерз. аяқт. жылы
