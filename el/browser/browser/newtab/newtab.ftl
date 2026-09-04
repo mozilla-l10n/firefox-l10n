@@ -952,6 +952,39 @@ newtab-wallpaper-dark-mountain = Ορεινό τοπίο
 newtab-wallpaper-dark-city = Μοβ αστικό τοπίο
 newtab-wallpaper-dark-fox-anniversary = Μια αλεπού στο πεζοδρόμιο κοντά σε ένα δάσος
 newtab-wallpaper-light-fox-anniversary = Μια αλεπού μέσα σε γρασίδι, με ένα ομιχλώδες ορεινό τοπίο
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Πίσω στην Προσαρμογή
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Οι εικόνες σας
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Εικόνα { $number }
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Αφαίρεση εικόνας { $number }
+    .title = Αφαίρεση εικόνας { $number }
+newtab-wallpaper-remove-image-title = Αφαίρεση εικόνας;
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
+newtab-wallpaper-remove-image-confirm = Αφαίρεση
+newtab-wallpaper-remove-image-cancel = Ακύρωση
 
 ## Solid Colors
 
@@ -1045,6 +1078,9 @@ newtab-weather-menu-change-location = Αλλαγή τοποθεσίας
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Αναζήτηση τοποθεσίας
     .placeholder = Αναζήτηση τοποθεσίας
+newtab-weather-cancel-input =
+    .aria-label = Ακύρωση
+    .title = Ακύρωση
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Χρήση τρέχουσας τοποθεσίας
@@ -1296,6 +1332,10 @@ newtab-widget-lists-menu-create = Δημιουργία νέας λίστας
 newtab-widget-lists-menu-delete = Διαγραφή λίστας
 newtab-widget-lists-menu-copy = Αντιγραφή λίστας στο πρόχειρο
 newtab-widget-lists-menu-learn-more = Μάθετε περισσότερα
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Αλλαγή λίστας
+    .title = Αλλαγή λίστας
 newtab-widget-lists-button-add-item = Προσθήκη στοιχείου
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Προσθήκη στοιχείου

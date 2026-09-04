@@ -599,6 +599,7 @@ mlmodel-pdfjs = { -brand-short-name } bruker dette til å lage alternativ tekst 
 mlmodel-smart-tab-topic-engine = { -brand-short-name } bruker dette til å foreslå navn for dine fanegrupper
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } bruker dette til å foreslå faner for dine fanegrupper
 mlmodel-formfill-engine = { -brand-short-name } bruker dette til å fylle ut adresseskjemaer
+mlmodel-speech-recognition = { -brand-short-name } bruker dette til talegjenkjenning på enheten
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI på enheten
 addon-category-mlmodel-title =

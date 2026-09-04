@@ -962,6 +962,48 @@ newtab-wallpaper-light-fox-anniversary = En rev i en gressmark med et tåkete fj
 newtab-wallpaper-category-back =
     .aria-label = Tilbake til tilpasning
 
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Dine bilder
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Dine bilder, bakgrunner du har lagret
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Bilde { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Fjern { $name }
+    .title = Fjern bildet
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Fjern bilde { $number }
+    .title = Fjern bilde { $number }
+newtab-wallpaper-remove-image-title = Fjerne bildet?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Denne handlingen kan ikke angres.
+newtab-wallpaper-remove-image-confirm = Fjern
+newtab-wallpaper-remove-image-cancel = Avbryt
+
 ## Solid Colors
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
@@ -1054,6 +1096,9 @@ newtab-weather-menu-change-location = Endre plassering
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Søk plassering
     .placeholder = Søk plassering
+newtab-weather-cancel-input =
+    .aria-label = Avbryt
+    .title = Avbryt
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Bruk gjeldende posisjon
@@ -1305,6 +1350,10 @@ newtab-widget-lists-menu-create = Opprett en ny liste
 newtab-widget-lists-menu-delete = Slett denne listen
 newtab-widget-lists-menu-copy = Kopier liste til utklippstavlen
 newtab-widget-lists-menu-learn-more = Les mer
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Endre liste
+    .title = Endre liste
 newtab-widget-lists-button-add-item = Legg til et element
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Legg til et element

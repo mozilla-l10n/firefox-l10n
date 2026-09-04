@@ -2664,6 +2664,7 @@ preferences-ai-controls-block-confirmation-pdfjs = Εναλλακτικό κεί
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Προτάσεις ομάδων καρτελών
 preferences-ai-controls-block-confirmation-key-points = Kύρια σημεία στις προεπισκοπήσεις συνδέσμων
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Πάροχοι chatbot στην πλαϊνή γραμμή
+preferences-ai-controls-block-confirmation-speech-recognition = Αναγνώριση ομιλίας
 preferences-ai-controls-block-confirmation-features-after = Ο αποκλεισμός επηρεάζει επίσης τις επεκτάσεις που χρησιμοποιούν τεχνητή νοημοσύνη που παρέχεται από το { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Ακύρωση
