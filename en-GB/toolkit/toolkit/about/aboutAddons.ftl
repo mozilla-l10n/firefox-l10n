@@ -602,6 +602,7 @@ mlmodel-pdfjs = { -brand-short-name } uses this to create alt text for images yo
 mlmodel-smart-tab-topic-engine = { -brand-short-name } uses this to suggest names for your tab groups
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } uses this to suggest tabs for your tab groups
 mlmodel-formfill-engine = { -brand-short-name } uses this to help fill in address forms
+mlmodel-speech-recognition = { -brand-short-name } uses this for on-device speech recognition
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = On-device AI
 addon-category-mlmodel-title =
