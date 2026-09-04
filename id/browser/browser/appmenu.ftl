@@ -128,6 +128,7 @@ fxa-menu-sync-off-data-description = Data Anda tidak disinkronkan
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Nyalakan
+fxa-menu-sync-status-turn-on-button-aria-label = Nyalakan
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Masuk untuk menyinkronkan
@@ -392,6 +393,9 @@ appmenuitem-relay-title-signed-in = Lihat Topeng Surel
 appmenuitem-relay-description = Tutupi surel dan telepon asli Anda
 appmenuitem-services-relay-description = Luncurkan dasbor masker surel
 appmenuitem-vpn-title2 = Sembunyikan Lokasi Anda dengan { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Dapatkan perlindungan ekstra lintas perangkat
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Unduh { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Dapatkan perlindungan untuk seluruh perangkat
 appmenuitem-vpn-description = Lindungi aktivitas daring Anda
