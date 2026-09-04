@@ -34,3 +34,5 @@ autocomplete-edit-address = Editatu helbide hau
 autocomplete-delete-address = Ezabatu helbide hau
 autocomplete-edit-payment-method = Editatu ordainketa-metodo hau
 autocomplete-delete-payment-method = Ezabatu ordainketa-metodo hau
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Ezabatu inprimakiaren historiako sarrera hau
