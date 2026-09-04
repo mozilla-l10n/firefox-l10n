@@ -718,6 +718,8 @@ newtab-section-follow-highlight-subtitle = Prati svoje interese i vidi više ono
 
 newtab-topic-navigation-label =
     .aria-label = Teme
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Više
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -870,6 +872,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Smanji sve widgete na kompaktnu veličinu
     .title = Smanji widgete
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Prikaži odjeljak widgeta
+    .title = Prikaži widgete
 newtab-widget-section-menu-manage = Upravljaj widgetima
 newtab-widget-section-feedback = Reci nam svoje mišljenje
 

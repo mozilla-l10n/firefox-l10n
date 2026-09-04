@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = UI chatbot
 menu-view-contextual-password-manager =
     .label = Lozinke
+menu-view-resource-monitor =
+    .label = Nadzor resursa
 sidebar-options-menu-button =
     .title = Otvori izbornik
 
@@ -140,6 +142,8 @@ sidebar-menu-customize-label =
     .label = Prilagodi bočnu traku
 sidebar-menu-contextual-password-manager-label =
     .label = Lozinke
+sidebar-menu-resource-monitor-label =
+    .label = Nadzor resursa
 sidebar-menu-more-tools-label =
     .label = Više alata
 
