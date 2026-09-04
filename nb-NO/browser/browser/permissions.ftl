@@ -4,6 +4,8 @@
 
 perm-persistent-storage-remember = Husk denne avgjørelsen
 speech-recognition-model-download-header = Sette opp talegjenkjenning?
+# $sizeMB (Number) - the model download size in MB.
+speech-recognition-model-download-message = { -brand-short-name } kjører talegjenkjenning lokalt, slik at lyden aldri forlater enheten din. For å konfigurere dette starter en nedlasting på rundt { $sizeMB } MB når du fortsetter.
 speech-recognition-model-download-allow =
     .label = Fortsett
     .accesskey = F

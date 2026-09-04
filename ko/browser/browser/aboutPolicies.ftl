@@ -22,3 +22,6 @@ inactive-message = 엔터프라이즈 정책 서비스가 비활성화되어 있
 policy-name = 정책 이름
 policy-value = 정책 값
 policy-errors = 정책 오류
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = 일부 미적용됨

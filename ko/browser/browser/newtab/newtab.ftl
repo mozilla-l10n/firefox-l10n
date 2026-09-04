@@ -964,6 +964,8 @@ newtab-wallpaper-remove-image-numbered =
 newtab-wallpaper-remove-image-title = 이미지를 제거하시겠습니까?
 # "This action" refers to removing a saved wallpaper image.
 newtab-wallpaper-remove-image-body = 이 작업은 취소할 수 없습니다.
+newtab-wallpaper-remove-image-confirm = 제거
+newtab-wallpaper-remove-image-cancel = 취소
 
 ## Solid Colors
 
@@ -1057,6 +1059,9 @@ newtab-weather-menu-change-location = 위치 변경
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = 위치 검색
     .placeholder = 위치 검색
+newtab-weather-cancel-input =
+    .aria-label = 취소
+    .title = 취소
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = 현재 위치 사용
@@ -1308,6 +1313,10 @@ newtab-widget-lists-menu-create = 새 목록 만들기
 newtab-widget-lists-menu-delete = 이 목록 삭제
 newtab-widget-lists-menu-copy = 클립보드에 목록 복사
 newtab-widget-lists-menu-learn-more = 더 알아보기
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = 목록 변경
+    .title = 목록 변경
 newtab-widget-lists-button-add-item = 항목 추가
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = 항목 추가
