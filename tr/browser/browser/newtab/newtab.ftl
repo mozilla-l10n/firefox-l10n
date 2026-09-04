@@ -273,6 +273,8 @@ newtab-privacy-message-milestone-week-cta = Korumaları göster
 newtab-privacy-message-milestone-month-cta = Korumaları göster
 newtab-privacy-message-milestone-year-cta = Korumaları göster
 newtab-privacy-message-milestone-total-cta = Korumaları göster
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Bugün 100’den fazla takip kodu engellendi.) Takip kodları azaldıkça gizliliğiniz artar.
 newtab-privacy-message-daily-cap-cta = Korumaları göster
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
@@ -910,6 +912,30 @@ newtab-wallpaper-dark-mountain = Manzaralı dağ
 newtab-wallpaper-dark-city = Mor şehir manzarası
 newtab-wallpaper-dark-fox-anniversary = Bir ormanın yakınında kaldırımda bir tilki
 newtab-wallpaper-light-fox-anniversary = Sisli bir dağ manzarasıyla çimenli bir alanda bir tilki
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Özelleştirmeye dön
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Resimleriniz
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Resimleriniz, kaydettiğiniz duvar kâğıtları
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Bu işlem geri alınamaz.
+newtab-wallpaper-remove-image-cancel = Vazgeç
 
 ## Solid Colors
 
@@ -1003,6 +1029,9 @@ newtab-weather-menu-change-location = Konumu değiştir
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Konum ara
     .placeholder = Konum ara
+newtab-weather-cancel-input =
+    .aria-label = Vazgeç
+    .title = Vazgeç
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Şu anki konumu kullan
@@ -1254,6 +1283,10 @@ newtab-widget-lists-menu-create = Yeni liste oluştur
 newtab-widget-lists-menu-delete = Bu listeyi sil
 newtab-widget-lists-menu-copy = Listeyi panoya kopyala
 newtab-widget-lists-menu-learn-more = Daha fazla bilgi al
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Listeyi değiştir
+    .title = Listeyi değiştir
 newtab-widget-lists-button-add-item = Görev ekle
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Görev ekle

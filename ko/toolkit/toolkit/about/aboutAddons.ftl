@@ -590,6 +590,7 @@ mlmodel-pdfjs = { -brand-short-name }가 PDF에 추가한 이미지의 대체 �
 mlmodel-smart-tab-topic-engine = { -brand-short-name }가 탭 그룹의 이름을 제안하는 데 사용함
 mlmodel-smart-tab-embedding-engine = { -brand-short-name }가 탭 그룹에 탭을 제안하는 데 사용함
 mlmodel-formfill-engine = { -brand-short-name }가 주소 양식을 채우는 데 사용함
+mlmodel-speech-recognition = { -brand-short-name }가 기기 내 음성 인식에 이것을 사용합니다.
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = 온디바이스 AI
 addon-category-mlmodel-title =

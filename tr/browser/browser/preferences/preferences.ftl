@@ -2664,6 +2664,7 @@ preferences-ai-controls-block-confirmation-pdfjs = { -brand-short-name } PDF gö
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Sekme grubu önerileri
 preferences-ai-controls-block-confirmation-key-points = Bağlantı ön izlemelerinde önemli noktalar
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Kenar çubuğundaki sohbet botu sağlayıcıları
+preferences-ai-controls-block-confirmation-speech-recognition = Konuşma tanıma
 preferences-ai-controls-block-confirmation-features-after = Engelleme, { -brand-short-name } tarafından sağlanan yapay zekâ özelliklerini kullanan uzantıları da etkiler.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Vazgeç
