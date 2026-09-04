@@ -44,6 +44,9 @@ fxa-menu-send-tab-to-device-description = Անմիջապես ուղարկեք ն
 fxa-menu-sign-out =
     .label = Դուրս գալ…
 fxa-menu-sync-description = Համացանցային հասանելիություն՝ ամեն վայրից
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = Կառավարել հաշիվը
 fxa-avatar-sign-in = Մուտք գործել
 fxa-avatar-sign-up = Գրանցվել
 fxa-avatar-tooltip =

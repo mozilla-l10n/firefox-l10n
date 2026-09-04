@@ -2470,3 +2470,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 security-privacy-issue-warning-fingerprinters =
     .description = Սա կարող է թույլ տալ որոշ հետևագծողների հետևել ձեզ առանց թխուկների։
     .label = Հայտնի մատնահետքերը չեն արգելափակվում
+security-privacy-issue-warning-password-manager =
+    .description = Գաղտնաբառերի կառավարիչները կօգնեն ձեզ պահպանել ուժեղ գաղտնաբառեր ձեր հաշիվների համար։
+    .label = Գաղտնաբառերի կառավարիչն անջատված է
