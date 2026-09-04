@@ -207,11 +207,11 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blockerar spårare när du surfar. Du ser dem här.
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty-state = { -brand-short-name } blockerar automatiskt spårare, vilket håller mer av din aktivitet privat.
+newtab-privacy-empty-state = { -brand-short-name } blockerar automatiskt spårare så att mer av din aktivitet förblir privat.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
-newtab-privacy-empty-state-tally = Se en lista här.
+newtab-privacy-empty-state-tally = Se en löpande sammanställning här.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1353,8 +1353,8 @@ newtab-widget-lists-menu-copy = Kopiera lista till urklipp
 newtab-widget-lists-menu-learn-more = Läs mer
 # "Change" is a verb here: the button switches which list is shown
 newtab-widget-lists-change-list =
-    .aria-label = Ändringslista
-    .title = Ändringslista
+    .aria-label = Ändra lista
+    .title = Ändra lista
 newtab-widget-lists-button-add-item = Lägg till ett objekt
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Lägg till ett objekt

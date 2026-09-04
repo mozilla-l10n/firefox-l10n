@@ -206,6 +206,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokkerer sporere mens du surfer. Du ser dem her.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } blokkerer automatisk sporere, slik at mer av aktiviteten din holdes privat.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Se en løpende opptelling her.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -951,6 +957,10 @@ newtab-wallpaper-dark-mountain = Landskap fjell
 newtab-wallpaper-dark-city = Lilla bylandskap
 newtab-wallpaper-dark-fox-anniversary = En rev på fortauet nær en skog
 newtab-wallpaper-light-fox-anniversary = En rev i en gressmark med et tåkete fjellandskap
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Tilbake til tilpasning
 
 ## Solid Colors
 
