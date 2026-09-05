@@ -952,6 +952,52 @@ newtab-wallpaper-dark-mountain = Таулы пейзаж
 newtab-wallpaper-dark-city = Күлгін қала пейзажы
 newtab-wallpaper-dark-fox-anniversary = Орман жанындағы тротуардағы түлкі
 newtab-wallpaper-light-fox-anniversary = Тұманды тау пейзажы бар шөпті алқаптағы түлкі
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Баптауларға оралу
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Сіздің суреттеріңіз
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Сіздің суреттеріңіз, сақтаған тұсқағаздарыңыз
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Сурет { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = { $name } өшіру
+    .title = Суретті өшіру
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = { $number } суретін өшіру
+    .title = { $number } суретін өшіру
+newtab-wallpaper-remove-image-title = Суретті өшіру керек пе?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Бұл әрекетті болдырмау мүмкін емес болады.
+newtab-wallpaper-remove-image-confirm = Өшіру
+newtab-wallpaper-remove-image-cancel = Бас тарту
 
 ## Solid Colors
 
@@ -1045,6 +1091,9 @@ newtab-weather-menu-change-location = Орналасуды ауыстыру
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Орналасуды іздеу
     .placeholder = Орналасуды іздеу
+newtab-weather-cancel-input =
+    .aria-label = Бас тарту
+    .title = Бас тарту
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Ағымдағы орналасуды пайдалану
@@ -1296,6 +1345,10 @@ newtab-widget-lists-menu-create = Жаңа тізімді жасау
 newtab-widget-lists-menu-delete = Бұл тізімді өшіру
 newtab-widget-lists-menu-copy = Тізімді алмасу буферіне көшіру
 newtab-widget-lists-menu-learn-more = Көбірек білу
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Тізімді өзгерту
+    .title = Тізімді өзгерту
 newtab-widget-lists-button-add-item = Элементті қосу
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Элементті қосу
