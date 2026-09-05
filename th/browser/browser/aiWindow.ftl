@@ -356,3 +356,19 @@ aiwindow-starter-planning-plan = ช่วยสร้างแผน
 aiwindow-starter-browsing-history = ค้นหาแท็บในประวัติ
 aiwindow-starter-browsing-summarize = สรุปแท็บ
 aiwindow-starter-browsing-compare = เปรียบเทียบแท็บ
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = เลื่อนย้อนกลับ
+    .tooltiptext = เลื่อนย้อนกลับ
+aiwindow-starter-scroll-end =
+    .aria-label = เลื่อนไปข้างหน้า
+    .tooltiptext = เลื่อนไปข้างหน้า
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = ปิด { $text }
+    .title = ปิด { $text }
