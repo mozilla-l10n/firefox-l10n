@@ -206,6 +206,8 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } сіз шолу жасаған кезде трекерлерді бұғаттайды. Сіз оларды осы жерден көресіз.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } трекерлерді автоматты түрде бұғаттайды, бұл сіздің әрекеттеріңіздің көп бөлігін жеке етіп сақтайды.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
