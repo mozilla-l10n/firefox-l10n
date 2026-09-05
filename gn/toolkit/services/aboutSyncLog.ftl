@@ -46,6 +46,12 @@ about-sync-log-count =
         [one] { $count } tapykuere
        *[other] { $count } tapykuereita
     }
+about-sync-log-badge-success = Oĩporãva
+about-sync-log-badge-error = Javy
+# Variables:
+#   $value (number) - The amount of data (e.g. "12.3").
+#   $unit (string) - The unit of data (e.g. "KB").
+about-sync-log-row-size = { $value } { $unit }
 
 ## Inline viewer
 
