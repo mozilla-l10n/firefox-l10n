@@ -573,6 +573,7 @@ mlmodel-pdfjs = ‏{ -brand-short-name } משתמש בזה כדי לייצר ט�
 mlmodel-smart-tab-topic-engine = ‏{ -brand-short-name } משתמש בזה כדי להציע שמות עבור קבוצות הלשוניות שלך
 mlmodel-smart-tab-embedding-engine = ‏{ -brand-short-name } משתמש בזה כדי להציע לשוניות עבור קבוצות הלשוניות שלך
 mlmodel-formfill-engine = ‏{ -brand-short-name } משתמש בזה כדי לסייע במילוי כתובות בטפסים
+mlmodel-speech-recognition = ‏{ -brand-short-name } משתמש בזה לזיהוי דיבור במכשיר
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = בינה מלאכותית במכשיר
 addon-category-mlmodel-title =
