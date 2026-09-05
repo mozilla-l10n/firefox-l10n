@@ -206,6 +206,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = ‏{ -brand-short-name } חוסם רכיבי מעקב בזמן הגלישה. הם יהיו מוצגים כאן.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = ‏{ -brand-short-name } חוסם באופן אוטומטי רכיבי מעקב, כך שיותר מהפעילות שלך נשארת פרטית.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = הסכום המצטבר יוצג כאן.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -939,6 +945,16 @@ newtab-wallpaper-dark-mountain = נוף הררי
 newtab-wallpaper-dark-city = נוף עירוני סגול
 newtab-wallpaper-dark-fox-anniversary = שועל על המדרכה ליד יער
 newtab-wallpaper-light-fox-anniversary = שועל בשדה עשב עם נוף הררי ערפילי
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = חזרה להתאמה אישית
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = התמונות שלך
 
 ## Solid Colors
 
