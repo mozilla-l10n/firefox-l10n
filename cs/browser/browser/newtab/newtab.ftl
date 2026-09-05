@@ -219,6 +219,8 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokuje sledovací prvky při prohlížení webu. Uvidíte je zde.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } automaticky blokuje sledovací prvky, takže vaše aktivita zůstává lépe chráněná.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1009,6 +1011,32 @@ newtab-wallpaper-dark-mountain = Horská scenérie
 newtab-wallpaper-dark-city = Fialová krajina města
 newtab-wallpaper-dark-fox-anniversary = Liška na chodníku u lesa
 newtab-wallpaper-light-fox-anniversary = Liška na louce se zamlženou horskou krajinou
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Zpět na přizpůsobení
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Vaše obrázky
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Vaše obrázky a tapety, které jste uložili
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Obrázek { $number }
 
 ## Solid Colors
 

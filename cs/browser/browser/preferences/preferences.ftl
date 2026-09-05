@@ -2962,6 +2962,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .description = Před otevřením odkazu si nechte zobrazit krátké shrnutí.
     .label = Výčet hlavních myšlenek v náhledech odkazů
+preferences-ai-controls-speech-recognition-control =
+    .description = Provádění lokálního přepisu řeči.
+    .label = Rozpoznávání řeči
 preferences-ai-controls-sidebar-chatbot-group-3 =
     .description = Mějte chatbota neustále na očích, jak prohlížíte. Vyberte si z více poskytovatelů a kdykoliv zvolte jiného.
     .label = Poskytovatelé AI chatbotů v postranní liště
@@ -3002,6 +3005,7 @@ preferences-ai-controls-block-confirmation-pdfjs =
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Návrhy pro skupiny panelů
 preferences-ai-controls-block-confirmation-key-points = Výčet hlavních myšlenek v náhledech odkazů
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Poskytovatelé chatbotů v postranní liště
+preferences-ai-controls-block-confirmation-speech-recognition = Rozpoznávání řeči
 preferences-ai-controls-block-confirmation-features-after =
     { -brand-short-name.case-status ->
         [with-cases] Blokování ovlivní také rozšíření, která využívají umělou inteligenci poskytovanou { -brand-short-name(case: "ins") }.

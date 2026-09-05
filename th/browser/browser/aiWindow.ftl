@@ -163,3 +163,109 @@ aiwindow-firstrun-memories-no-create = เข้าใจแล้ว { -smart-w
 
 aiwindow-firstrun-default-title = ทำให้{ -smart-window-brand-name }เป็นตัวเลือกแรกของคุณ
 aiwindow-firstrun-default-subtitle = เรียกดู ค้นหา และถามได้ในที่เดียว คุณยังสามารถเปิดหน้าต่างส่วนตัวและหน้าต่างคลาสสิกได้เมื่อคุณต้องการ
+aiwindow-firstrun-default-checkbox-label = เปิด { -brand-product-name } ใน{ -smart-window-brand-name }เสมอ
+aiwindow-firstrun-default-checkbox-description = สลับในการตั้งค่าได้ทุกเมื่อ
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = ถาม
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = เปิดความทรงจำ
+    .tooltiptext = ใช้ความทรงจำในการตอบกลับเมื่อเป็นประโยชน์
+aiwindow-memories-off =
+    .aria-label = ปิดความทรงจำ
+    .tooltiptext = ไม่ต้องใช้ความทรงจำในการตอบกลับ
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = แชทใหม่
+    .tooltiptext = แชทใหม่
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = ปิด
+    .tooltiptext = ปิด
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = ตัวเลือกเพิ่มเติม
+    .tooltiptext = ตัวเลือกเพิ่มเติม
+aiwindow-history-menu-chat-history = ประวัติแชท
+aiwindow-history-menu-back =
+    .aria-label = ย้อนกลับ
+    .tooltiptext = ย้อนกลับ
+aiwindow-history-menu-view-all-chats = ดูแชททั้งหมด
+aiwindow-history-menu-settings = การตั้งค่า{ -smart-window-brand-name }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = แชทใหม่
+aiwindow-fullpage-chat-history =
+    .label = ประวัติแชท
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = เพิ่มเติม
+    .title = เพิ่มเติม
+
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = ข้อมูลที่ซิงค์แล้วจะยังคงอยู่ในบัญชีของคุณ { -smart-window-brand-name(plural-form: "true") }ที่เปิดอยู่จะสลับเป็นหน้าต่างคลาสสิก
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = สลับเป็น{ -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .aria-label = แชท
+    .label = แชท
+    .tooltiptext = แชท
+smartwindow-footer-history =
+    .aria-label = ประวัติ
+    .label = ประวัติ
+    .tooltiptext = ประวัติ
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = AI อาจทำผิดพลาดได้
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = แชท
+    .title = แชท
+firefoxview-chats-header = แชท
+firefoxview-chat-context-delete = ลบจากแชท
+    .accesskey = ล
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = ค้นหาแชท
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = วันนี้ - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = เมื่อวาน - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = กลับไปที่แชทของคุณ
+firefoxview-chats-empty-description = เมื่อคุณใช้{ -smart-window-brand-name } แชทของคุณจะบันทึกที่นี่

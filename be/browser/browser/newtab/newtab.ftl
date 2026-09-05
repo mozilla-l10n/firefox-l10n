@@ -1317,6 +1317,10 @@ newtab-widget-lists-menu-create = Стварыць новы спіс
 newtab-widget-lists-menu-delete = Выдаліць гэты спіс
 newtab-widget-lists-menu-copy = Скапіяваць спіс у буфер абмену
 newtab-widget-lists-menu-learn-more = Падрабязней
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Змяніць спіс
+    .title = Змяніць спіс
 newtab-widget-lists-button-add-item = Дадаць элемент
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Дадаць элемент
