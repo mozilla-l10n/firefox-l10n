@@ -22,4 +22,6 @@ inactive-message = Il servizio Enterprise Policies non è attivo.
 policy-name = Nome criterio
 policy-value = Valore criterio
 policy-errors = Errori criterio
-
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Non completamente applicato
