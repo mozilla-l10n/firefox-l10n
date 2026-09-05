@@ -376,3 +376,4 @@ aiwindow-starter-scroll-end =
 aiwindow-starter-dismiss =
     .aria-label = Ignora { $text }
     .title = Ignora { $text }
+

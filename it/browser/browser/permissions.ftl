@@ -25,3 +25,4 @@ speech-recognition-model-download-failed-message = Impossibile scaricare il mode
 speech-recognition-model-download-ok =
     .label = OK
     .accesskey = O
+
