@@ -147,4 +147,19 @@ aiwindow-input-model-select-settings-link = การตั้งค่าโม
 
 aiwindow-firstrun-memories-title = คำตอบที่เป็นประโยชน์มากขึ้น ในแบบที่คุณต้องการ
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name }สามารถเรียนรู้จากแชท การเรียกดู หรือทั้งสองอย่างของคุณเพื่อสร้างความทรงจำได้ ซึ่งทำให้คำตอบเป็นประโยชน์มากขึ้นเมื่อเวลาผ่านไป
-aiwindow-firstrun-memories-conversation-title = สนทนาต่อไป
+aiwindow-firstrun-memories-conversation-title = ทำให้บทสนทนาดำเนินต่อไป
+aiwindow-firstrun-memories-conversation-body = การเรียนรู้จากแชทหมายความว่าคุณจะจำเป็นต้องพูดซ้ำเรื่องเดิม ๆ น้อยลง
+aiwindow-firstrun-memories-relevance-title = คำตอบที่เกี่ยวข้องมากขึ้น
+aiwindow-firstrun-memories-relevance-body = การเรียนรู้จากการเรียกดูจะทำให้{ -smart-window-brand-name }เห็นภาพใหญ่ขึ้น
+aiwindow-firstrun-memories-privacy-title = ออกแบบมาให้เป็นส่วนตัว
+aiwindow-firstrun-memories-privacy-body = ความทรงจำจะถูกจัดเก็บไว้บนอุปกรณ์นี้ ลบหรือปิดได้ทุกเมื่อ
+aiwindow-firstrun-memories-choose-label = เลือกสิ่งที่จะให้{ -smart-window-brand-name }เรียนรู้
+aiwindow-firstrun-memories-checkbox-chats = แชทใน{ -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = การเรียกดูผ่าน { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = อัปเดตในการตั้งค่าได้ทุกเมื่อ
+aiwindow-firstrun-memories-no-create = เข้าใจแล้ว { -smart-window-brand-name }จะไม่สร้างความทรงจำ อัปเดตในการตั้งค่าได้ทุกเมื่อ
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = ทำให้{ -smart-window-brand-name }เป็นตัวเลือกแรกของคุณ
+aiwindow-firstrun-default-subtitle = เรียกดู ค้นหา และถามได้ในที่เดียว คุณยังสามารถเปิดหน้าต่างส่วนตัวและหน้าต่างคลาสสิกได้เมื่อคุณต้องการ
