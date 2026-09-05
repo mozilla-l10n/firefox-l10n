@@ -596,6 +596,7 @@ mlmodel-pdfjs = { -brand-short-name } usa esto para crear texto alternativo para
 mlmodel-smart-tab-topic-engine = { -brand-short-name } usa esto para sugerir nombres para los grupos de pestañas
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } usa esto para sugerir pestañas para los grupos de pestañas
 mlmodel-formfill-engine = { -brand-short-name } usa esto para ayudar a completar formularios de direcciones
+mlmodel-speech-recognition = { -brand-short-name } usa esto para el reconocimiento de voz en el dispositivo
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA en el dispositivo
 addon-category-mlmodel-title =
