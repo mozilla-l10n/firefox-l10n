@@ -142,6 +142,11 @@ home-prefs-support-firefox-header-srd =
     .label = { -brand-product-name } podrška
 home-prefs-mission-message-learn-more-link-srd = Saznaj kako
 
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } automatski blokira programe za praćenje te čuva još više tvoje aktivnosti privatnim.
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -526,6 +531,27 @@ newtab-wallpaper-dark-mountain = Planinski krajolik
 newtab-wallpaper-dark-city = Ljubičasti gradski pejzaž
 newtab-wallpaper-dark-fox-anniversary = Lisica na kolniku u blizini šume
 newtab-wallpaper-light-fox-anniversary = Lisica u travnatom polju s maglovitim planinskim krajolikom
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Natrag na prilagodbu
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Tvoje slike
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Tvoje slike i slike pozadine koje si spremio/la
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
 
 ## Solid Colors
 

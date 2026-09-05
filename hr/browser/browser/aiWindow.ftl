@@ -12,3 +12,9 @@ aiwindow-starter-scroll-start =
 aiwindow-starter-scroll-end =
     .aria-label = Pomakni se naprijed
     .tooltiptext = Pomakni se naprijed
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Odbaci { $text }
+    .title = Odbaci { $text }
