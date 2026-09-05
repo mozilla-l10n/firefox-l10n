@@ -54,3 +54,54 @@ aiwindow-input-cta-submit-label-chat = ถาม
 aiwindow-input-cta-submit-label-navigate = ไป
 aiwindow-input-cta-submit-label-search = ค้นหา
 aiwindow-input-cta-submit-label-stop = หยุด
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = เริ่มการสร้างการตอบกลับแล้ว
+aiwindow-input-cta-menu-label-chat = ถาม
+aiwindow-input-cta-menu-label-navigate = ไปยังไซต์
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = ค้นหาด้วย { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = ค้นหาด้วย…
+aiwindow-input-cta-search-submenu-header = ค้นหา
+aiwindow-input-cta-stop-button =
+    .aria-label = หยุดการสร้างการตอบกลับ
+    .title = หยุดการตอบกลับ
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = ถาม ค้นหา หรือพิมพ์ URL
+smartbar-placeholder-hint-1 = ใช้ @ เพื่อกล่าวถึงแท็บล่าสุด…
+smartbar-placeholder-hint-2 = ถามอะไรก็ได้…
+smartbar-placeholder-hint-3 = ป้อนที่อยู่เว็บ…
+smartbar-placeholder-hint-4 = ค้นหาเว็บ…
+
+## Mentions
+
+smartbar-mention-typing-placeholder = แท็กแท็บหรือไซต์
+smartbar-mentions-list-no-results-label = ไม่พบผลลัพธ์
+smartbar-mentions-list-recent-tabs-label = แท็บล่าสุด
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = เพิ่มแท็บหรือไซต์
+    .tooltiptext = เพิ่มแท็บหรือไซต์
+
+## Website Chip
+
+aiwindow-website-chip-placeholder = แท็กแท็บหรือไซต์
+aiwindow-website-chip-history-deleted = ลบประวัติแล้ว
+aiwindow-website-chip-remove-button =
+    .aria-label = เอาออก
+
+## Firstrun onboarding
+
+aiwindow-firstrun-title = ยินดีต้อนรับสู่{ -smart-window-brand-name }
+aiwindow-firstrun-model-title = อะไรคือสิ่งสำคัญสำหรับคุณ?
+aiwindow-firstrun-model-title-v2 = เลือกโมเดลเพื่อเริ่มต้น
+aiwindow-firstrun-model-subtitle = เลือกโมเดลที่จะใช้กับ { -smart-window-brand-name } สลับได้ทุกเมื่อ
+aiwindow-firstrun-model-subtitle-v2 = แต่ละโมเดลช่วยคุณสรุป เปรียบเทียบ และสำรวจแท็บต่าง ๆ ของคุณได้ สลับได้ทุกเมื่อ
+aiwindow-firstrun-model-fast-label = เร็ว
+aiwindow-firstrun-model-fast-body = ตอบอย่างรวดเร็ว
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-fast-label-v2 = เร็ว: { $shortName }
