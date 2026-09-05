@@ -597,6 +597,7 @@ mlmodel-pdfjs = { -brand-short-name } бұл мүмкіндікті сіз PDF �
 mlmodel-smart-tab-topic-engine = { -brand-short-name } мұны беттер топтары үшін атауларды ұсыну үшін пайдаланады
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } мұны беттер топтары үшін беттерді ұсыну үшін пайдаланады
 mlmodel-formfill-engine = { -brand-short-name } осыны адрестік формаларды толтыру үшін пайдаланады
+mlmodel-speech-recognition = { -brand-short-name } мұны құрылғыдағы сөйлеуді тану үшін пайдаланады
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Құрылғыдағы ЖИ
 addon-category-mlmodel-title =
