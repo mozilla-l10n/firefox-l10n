@@ -951,6 +951,16 @@ newtab-wallpaper-dark-mountain = Paisaia mendia
 newtab-wallpaper-dark-city = Hiriko paisaia morea
 newtab-wallpaper-dark-fox-anniversary = Azeria espaloian baso batetik gertu
 newtab-wallpaper-light-fox-anniversary = Azeria belardi batean mendiko paisaia lanbrotsuarekin
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Itzuli pertsonalizatzera
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Zure irudiak
 
 ## Solid Colors
 
