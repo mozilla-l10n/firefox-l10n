@@ -601,6 +601,7 @@ mlmodel-pdfjs = { -brand-short-name } использует это для соз�
 mlmodel-smart-tab-topic-engine = { -brand-short-name } использует это, чтобы предлагать имена для ваших групп вкладок
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } использует это, чтобы предлагать вкладки для ваших групп вкладок
 mlmodel-formfill-engine = { -brand-short-name } использует это для заполнения адресных форм
+mlmodel-speech-recognition = { -brand-short-name } использует это для распознавания речи на устройстве
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = ИИ на устройстве
 addon-category-mlmodel-title =

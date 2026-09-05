@@ -214,7 +214,7 @@ newtab-privacy-empty-state = { -brand-short-name } автоматически б
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
-newtab-privacy-empty-state-tally = Посмотреть текущий подсчёт можно тут.
+newtab-privacy-empty-state-tally = Посмотреть текущий подсчёт можно здесь.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -965,6 +965,52 @@ newtab-wallpaper-dark-mountain = Горный пейзаж
 newtab-wallpaper-dark-city = Фиолетовый городской пейзаж
 newtab-wallpaper-dark-fox-anniversary = Лиса на дороге рядом с лесом
 newtab-wallpaper-light-fox-anniversary = Лиса на травяном поле с туманным горным ландшафтом
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Вернуться к настройкам
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Ваши изображения
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Ваши изображения и обои, которые вы сохранили
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Изображение { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Удалить { $name }
+    .title = Удалить изображение
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Удалить изображение { $number }
+    .title = Удалить изображение { $number }
+newtab-wallpaper-remove-image-title = Удалить изображение?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Это действие нельзя отменить.
+newtab-wallpaper-remove-image-confirm = Удалить
+newtab-wallpaper-remove-image-cancel = Отмена
 
 ## Solid Colors
 
@@ -1058,6 +1104,9 @@ newtab-weather-menu-change-location = Изменить местоположен�
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Поиск местоположения
     .placeholder = Поиск местоположения
+newtab-weather-cancel-input =
+    .aria-label = Отмена
+    .title = Отмена
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Использовать текущее местоположение
@@ -1309,6 +1358,10 @@ newtab-widget-lists-menu-create = Создать новый список
 newtab-widget-lists-menu-delete = Удалить этот список
 newtab-widget-lists-menu-copy = Копировать список в буфер обмена
 newtab-widget-lists-menu-learn-more = Подробнее
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Изменить список
+    .title = Изменить список
 newtab-widget-lists-button-add-item = Добавить элемент
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Добавить элемент
