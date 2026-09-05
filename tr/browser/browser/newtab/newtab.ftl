@@ -263,6 +263,8 @@ newtab-privacy-message-promo-vpn-3 = Konumunuzu daha gizli tutmak için yerleşi
 newtab-privacy-message-promo-vpn-3-cta = VPN’i aç
 newtab-privacy-message-promo-private-window-1 = Ortak kullanılan bilgisayarlarda daha gizli gezinmek için gizli pencereyi deneyin.
 newtab-privacy-message-promo-private-window-1-cta = Gizli pencere aç
+newtab-privacy-message-promo-relay-2 = Ücretsiz e-posta maskeleriyle gelen kutunuzu spam’den koruyun.
+newtab-privacy-message-promo-relay-3 = Gerçek e-posta adresinizi gizli tutmanızı sağlayacak 50 e-posta maskesi ücretsiz.
 
 ## Privacy widget — celebration messages
 ##
@@ -933,8 +935,18 @@ newtab-wallpaper-your-images-folder =
 # Variables:
 #   $name (string) - The picture's own title, or the Firefox wallpaper's name
 newtab-wallpaper-your-images-item = { $name }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = { $name } resmini kaldır
+    .title = Resmi kaldır
+newtab-wallpaper-remove-image-title = Resim kaldırılsın mı?
 # "This action" refers to removing a saved wallpaper image.
 newtab-wallpaper-remove-image-body = Bu işlem geri alınamaz.
+newtab-wallpaper-remove-image-confirm = Kaldır
 newtab-wallpaper-remove-image-cancel = Vazgeç
 
 ## Solid Colors
