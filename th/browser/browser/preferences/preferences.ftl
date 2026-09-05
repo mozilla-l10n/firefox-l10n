@@ -2791,6 +2791,12 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-safe-browsing =
     .description = ความสุ่มเสี่ยงต่อการหลอกลวงและมัลแวร์จากเว็บไซต์ของคุณจะเพิ่มขึ้น
     .label = เนื้อหาที่เป็นอันตรายและหลอกลวงไม่ถูกปิดกั้น
+security-privacy-issue-warning-doh2 =
+    .description = DNS over HTTPS จะช่วยซ่อนไซต์ที่คุณกำลังจะเข้าชมไม่ให้ผู้ให้บริการเครือข่ายของคุณเห็น
+    .label = DNS over HTTPS ถูกปิดใช้งาน
+security-privacy-issue-warning-ech2 =
+    .description = Encrypted Client Hello จะช่วยซ่อนไซต์ที่คุณกำลังจะเข้าชมไม่ให้ผู้ให้บริการเครือข่ายของคุณเห็น
+    .label = Encrypted Client Hello ถูกปิดใช้งาน
 security-privacy-issue-warning-doh =
     .description = DNS over HTTPS จะซ่อนไซต์ที่คุณเข้าชมจากผู้ให้บริการเครือข่ายของคุณ
     .label = DNS over HTTPS ถูกปิดใช้งาน
@@ -2800,3 +2806,24 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .description = การกำหนดค่าพร็อกซีอัตโนมัติอาจทำให้เครือข่ายที่ไม่เชื่อถือเฝ้าสังเกตกิจกรรมของคุณได้
     .label = การกำหนดค่าพร็อกซีอัตโนมัติถูกเปิดใช้งาน
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header =
+    .description = เชิญให้ใครสักคนเลือกเบราว์เซอร์ที่ให้สำคัญกับความเป็นส่วนตัวเป็นอันดับแรก
+    .label = แบ่งปัน { -brand-short-name }
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link =
+    .label = แบ่งปัน { -brand-short-name }
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .description = เชิญให้ใครสักคนเลือกเบราว์เซอร์ที่ให้สำคัญกับความเป็นส่วนตัวเป็นอันดับแรก
+    .label = แบ่งปัน { -brand-product-name }
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = แบ่งปัน { -brand-product-name }
