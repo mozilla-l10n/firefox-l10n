@@ -955,6 +955,42 @@ newtab-wallpaper-category-back =
 ## Firefox wallpaper kept for them when it was retired.
 
 newtab-wallpaper-your-images = התמונות שלך
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = התמונות והטפטים שלך ששמרת
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = תמונה מספר { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = הסרת { $name }
+    .title = הסרת תמונה
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = הסרת תמונה מספר { $number }
+    .title = הסרת תמונה מספר { $number }
+newtab-wallpaper-remove-image-title = להסיר את התמונה?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = לא ניתן לבטל פעולה זו.
+newtab-wallpaper-remove-image-confirm = הסרה
+newtab-wallpaper-remove-image-cancel = ביטול
 
 ## Solid Colors
 
@@ -1048,6 +1084,9 @@ newtab-weather-menu-change-location = שינוי מקום
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = חיפוש מקום
     .placeholder = חיפוש מקום
+newtab-weather-cancel-input =
+    .aria-label = ביטול
+    .title = ביטול
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = שימוש במיקום הנוכחי
@@ -1299,6 +1338,10 @@ newtab-widget-lists-menu-create = יצירת רשימה חדשה
 newtab-widget-lists-menu-delete = מחיקת רשימה זו
 newtab-widget-lists-menu-copy = העתקת הרשימה ללוח העריכה
 newtab-widget-lists-menu-learn-more = מידע נוסף
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = שינוי רשימה
+    .title = שינוי רשימה
 newtab-widget-lists-button-add-item = הוספת פריט
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = הוספת פריט
