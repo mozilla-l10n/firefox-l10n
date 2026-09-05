@@ -269,3 +269,90 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 
 firefoxview-chats-empty-header = กลับไปที่แชทของคุณ
 firefoxview-chats-empty-description = เมื่อคุณใช้{ -smart-window-brand-name } แชทของคุณจะบันทึกที่นี่
+
+## Count displayed in fxview chat search results
+
+firefoxview-search-chat-results-count = { $count } แชท
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = ประวัติการเรียกดู ดาวน์โหลด และแชท
+    .accesskey = ป
+item-history-downloads-and-chat-description = ล้างประวัติไซต์ ดาวน์โหลด และแชท
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .aria-label = เลือกทั้งหมด
+    .label = เลือกทั้งหมด
+smart-window-confirm-deselect-all =
+    .aria-label = ไม่เลือกทั้งหมด
+    .label = ไม่เลือกทั้งหมด
+smart-window-close-confirm =
+    .aria-label = ยกเลิกคำขอและปิด
+    .tooltiptext = ยกเลิกคำขอและปิด
+smart-window-confirm-close-tab = ปิด
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs = ปิด { $count } แท็บ
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = ปิดแท็บแล้ว
+smartwindow-close-tab-callout-subtitle = เปิดแท็บใหม่ได้จากประวัติทุกเมื่อ
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = ทำให้{ -smart-window-brand-name }เป็นค่าเริ่มต้นของคุณหรือไม่?
+smart-window-default-promo-message = { -brand-short-name } จะเปิดใน{ -smart-window-brand-name }ทุกครั้ง
+smart-window-default-promo-primary-button = ตั้งเป็นค่าเริ่มต้น
+smart-window-default-promo-additional-button = ไม่ใช่ตอนนี้
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = แบ่งปันข้อคิดเห็น
+aiwindow-feedback-what-worked-well = มีอะไรที่ทำงานได้ดีบ้าง? กรุณาอย่าระบุข้อมูลส่วนบุคคล
+aiwindow-feedback-choose-any = เลือกทุกข้อที่เกี่ยวข้อง
+aiwindow-feedback-add-details = เพิ่มรายละเอียดได้ตามต้องการ กรุณาอย่าระบุข้อมูลส่วนบุคคล
+aiwindow-feedback-disclaimer = การส่งแบ่งปันข้อคิดเห็นของคุณและแชทนี้เพื่อช่วย { -brand-shorter-name } ปรับปรุง{ -smart-window-brand-name } แชทอื่น ๆ ของคุณจะยังคงเป็นส่วนตัว <a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
+aiwindow-feedback-submit = ส่ง
+aiwindow-feedback-cancel = ยกเลิก
+aiwindow-feedback-reason-incorrect-or-misleading = ไม่ถูกต้องหรือทำให้เข้าใจผิด
+aiwindow-feedback-reason-doesnt-address-my-request = ไม่ตรงกับคำขอของฉัน
+aiwindow-feedback-reason-lacks-personalization = ขาดการปรับแต่งเฉพาะบุคคลหรือบริบท
+aiwindow-feedback-reason-performance-or-usability = ปัญหาด้านประสิทธิภาพหรือการใช้งาน
+aiwindow-feedback-reason-harmful-or-offensive = เป็นอันตรายหรือสร้างความไม่พอใจ
+aiwindow-feedback-reason-other = อื่น ๆ
+aiwindow-feedback-preview-report = ดูรายละเอียดการแชท
+aiwindow-feedback-preview-report-with-page = ดูรายละเอียดการแชทและหน้า
+aiwindow-feedback-include-page-content = แบ่งปันหน้าที่อ้างอิงในแชทนี้
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = สลับเค้าโครงมุมมอง
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = สลับโหมด: มุมมองรายการ
+    .tooltiptext = มุมมองรายการ
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = สลับโหมด: มุมมองกริด
+    .tooltiptext = มุมมองกริด
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = เขียนฉบับร่างแรก
+aiwindow-starter-writing-improve = ปรับปรุงการเขียน
+aiwindow-starter-writing-proofread = พิสูจน์อักษรข้อความ
+aiwindow-starter-planning-simplify = อธิบายหัวข้อให้ง่ายขึ้น
+aiwindow-starter-planning-brainstorm = ระดมความคิด
+aiwindow-starter-planning-plan = ช่วยสร้างแผน
+aiwindow-starter-browsing-history = ค้นหาแท็บในประวัติ
+aiwindow-starter-browsing-summarize = สรุปแท็บ
+aiwindow-starter-browsing-compare = เปรียบเทียบแท็บ

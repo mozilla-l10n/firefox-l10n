@@ -221,6 +221,10 @@ newtab-privacy-across-sites =
 newtab-privacy-empty = { -brand-short-name } blokuje sledovací prvky při prohlížení webu. Uvidíte je zde.
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } automaticky blokuje sledovací prvky, takže vaše aktivita zůstává lépe chráněná.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Zde uvidíte průběžný počet.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1037,6 +1041,26 @@ newtab-wallpaper-your-images-item = { $name }
 # Variables:
 #   $number (number) - Which saved image this is, counting from one
 newtab-wallpaper-your-images-item-numbered = Obrázek { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Odebrat { $name }
+    .title = Odebrat obrázek
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Odebrat obrázek { $number }
+    .title = Odebrat obrázek { $number }
+newtab-wallpaper-remove-image-title = Odebrat obrázek?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Tuto akci nelze vzít zpět.
+newtab-wallpaper-remove-image-confirm = Odebrat
+newtab-wallpaper-remove-image-cancel = Zrušit
 
 ## Solid Colors
 
@@ -1130,6 +1154,9 @@ newtab-weather-menu-change-location = Změnit místo
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Hledat umístění
     .placeholder = Hledat umístění
+newtab-weather-cancel-input =
+    .aria-label = Zrušit
+    .title = Zrušit
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Použít aktuální polohu
@@ -1401,6 +1428,10 @@ newtab-widget-lists-menu-create = Vytvoření nového seznamu
 newtab-widget-lists-menu-delete = Smazat tento seznam
 newtab-widget-lists-menu-copy = Zkopírovat seznam do schránky
 newtab-widget-lists-menu-learn-more = Zjistit více
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Změnit seznam
+    .title = Změnit seznam
 newtab-widget-lists-button-add-item = Přidat položku
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Přidat položku
