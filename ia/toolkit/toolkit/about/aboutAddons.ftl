@@ -588,6 +588,7 @@ mlmodel-pdfjs = { -brand-short-name } usa isto pro crear texto alternative pro i
 mlmodel-smart-tab-topic-engine = { -brand-short-name } usa isto pro suggerer nomines pro tu gruppos de schedas
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } usa isto pro suggerer schedas pro tu gruppos de schedas
 mlmodel-formfill-engine = { -brand-short-name } lo usa pro adjutar a compilar formularios de adresses
+mlmodel-speech-recognition = { -brand-short-name } usa isto pro le recognition vocal sur le apparato
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA sur apparato
 addon-category-mlmodel-title =
