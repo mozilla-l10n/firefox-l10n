@@ -146,6 +146,10 @@ home-prefs-mission-message-learn-more-link-srd = Saznaj kako
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } automatski blokira programe za praćenje te čuva još više tvoje aktivnosti privatnim.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Pogledaj ukupni broj ovdje.
 
 ## Search box component.
 
@@ -552,6 +556,31 @@ newtab-wallpaper-your-images-folder =
 # Variables:
 #   $name (string) - The picture's own title, or the Firefox wallpaper's name
 newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Slika { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Ukloni { $name }
+    .title = Ukloni sliku
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Ukloni sliku { $number }
+    .title = Ukloni sliku { $number }
+newtab-wallpaper-remove-image-title = Ukloniti sliku?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Ovo je nepovratna radnja.
+newtab-wallpaper-remove-image-confirm = Ukloni
+newtab-wallpaper-remove-image-cancel = Odustani
 
 ## Solid Colors
 
@@ -645,6 +674,9 @@ newtab-weather-menu-change-location = Promijeni lokaciju
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Traži lokaciju
     .placeholder = Traži lokaciju
+newtab-weather-cancel-input =
+    .aria-label = Odustani
+    .title = Odustani
 newtab-weather-menu-weather-display = Prikaz vremena
 newtab-weather-todays-forecast = Današnja vremenska prognoza
 newtab-weather-see-full-forecast = Pogledaj cijelu vremensku prognozu
@@ -861,6 +893,10 @@ newtab-widget-lists-menu-create = Stvori novi popis
 newtab-widget-lists-menu-delete = Obriši ovaj popis
 newtab-widget-lists-menu-copy = Kopiraj popis u međuspremnik
 newtab-widget-lists-menu-learn-more = Saznaj više
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Promijeni popis
+    .title = Promijeni popis
 newtab-widget-lists-button-add-item = Dodaj stavku
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Dodaj stavku

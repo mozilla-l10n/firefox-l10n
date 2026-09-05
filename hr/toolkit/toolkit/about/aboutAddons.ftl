@@ -597,6 +597,7 @@ mlmodel-pdfjs = { -brand-short-name } koristi ovo za stvaranje alternativnog tek
 mlmodel-smart-tab-topic-engine = { -brand-short-name } koristi ovo za predlaganje imena za tvoje grupe kartica
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } koristi ovo za predlaganje kartica za tvoje grupe kartica
 mlmodel-formfill-engine = { -brand-short-name } koristi ovo za popunjavanje obrazaca za adresu
+mlmodel-speech-recognition = { -brand-short-name } koristi ovo za prepoznavanje govora na uređaju
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Umjetna inteligencija na uređaju
 addon-category-mlmodel-title =
