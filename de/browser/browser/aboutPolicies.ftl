@@ -22,3 +22,6 @@ inactive-message = Der Dienst für Unternehmensrichtlinien ist inaktiv.
 policy-name = Name der Richtlinie
 policy-value = Wert der Richtlinie
 policy-errors = Fehler für die Richtlinie
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Nur teilweise angewendet
