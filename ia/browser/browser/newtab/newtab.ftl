@@ -951,6 +951,13 @@ newtab-wallpaper-dark-city = Paisage urban purpuree
 newtab-wallpaper-dark-fox-anniversary = Un vulpe sur le pavimento presso un bosco
 newtab-wallpaper-light-fox-anniversary = Un vulpe in un prato con un brumose paisage montan
 
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-remove-image-confirm = Remover
+newtab-wallpaper-remove-image-cancel = Cancellar
+
 ## Solid Colors
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
@@ -1043,6 +1050,9 @@ newtab-weather-menu-change-location = Cambiar loco
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Cercar loco
     .placeholder = Cercar loco
+newtab-weather-cancel-input =
+    .aria-label = Cancellar
+    .title = Cancellar
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Usar position actual

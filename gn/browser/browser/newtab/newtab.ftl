@@ -215,6 +215,7 @@ newtab-privacy-empty-state-tally = Ápe oñembohekopyahupáta.
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
 newtab-privacy-etp-off-faster-browsing = Ñeikundaha pya’eve. Sa’ive tapykuehoha.
+newtab-privacy-etp-off-turn-on-tracking = Emyandy tapykueho mo’ãha ñembohekohápe ejokokuaa hag̃ua.
 
 ## Privacy widget — informational messages
 ##
@@ -264,6 +265,7 @@ newtab-privacy-message-promo-vpn-1 = ¿Ejogua Wi-Fi opavave oiporukuaáva ndive?
 newtab-privacy-message-promo-vpn-1-cta = Embojuruja VPN
 newtab-privacy-message-promo-vpn-2 = ¿Eiporu aeropuerto Wi-Fi? Emo’ã ne ñeikundaha emyandývo VPN juajupyre.
 newtab-privacy-message-promo-vpn-2-cta = Embojuruja VPN
+newtab-privacy-message-promo-vpn-3 = Emyandy VPN juajupyre oipytyvõ hag̃ua ne rendaite hekoñemívo.
 newtab-privacy-message-promo-vpn-3-cta = Embojuruja VPN
 newtab-privacy-message-promo-private-window-1-cta = Embojuruja ovetã ñemi
 newtab-privacy-message-promo-relay-1-cta = Erekóke jurumo’ãha
