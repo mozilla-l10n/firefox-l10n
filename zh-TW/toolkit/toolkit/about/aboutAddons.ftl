@@ -578,6 +578,7 @@ mlmodel-pdfjs = { -brand-short-name } 使用此功能，為您新增到 PDF 檔�
 mlmodel-smart-tab-topic-engine = { -brand-short-name } 使用此功能，為您的分頁群組建議名稱
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } 使用此功能，為您的分頁群組建議可加入的分頁
 mlmodel-formfill-engine = { -brand-short-name } 會使用此資訊幫助填寫地址表單
+mlmodel-speech-recognition = { -brand-short-name } 使用此模型進行裝置內語音辨識
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = 本機裝置上的 AI
 addon-category-mlmodel-title =

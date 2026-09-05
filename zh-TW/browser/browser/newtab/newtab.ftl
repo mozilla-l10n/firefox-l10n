@@ -198,6 +198,8 @@ newtab-privacy-across-sites = 跨 { $count } 個網站
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = 隨您上網，{ -brand-short-name } 會自動封鎖追蹤器。將在此處看到封鎖狀況。
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } 會自動封鎖追蹤器，讓您的上網行為能更有隱私。
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
@@ -930,6 +932,11 @@ newtab-wallpaper-category-back =
 ## Firefox wallpaper kept for them when it was retired.
 
 newtab-wallpaper-your-images = 您的圖片
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = 您儲存的圖片、背景圖
 # Read by screen readers for a saved image that has a name of its own: a kept
 # Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
 # someone added themselves is numbered instead, see the string below.

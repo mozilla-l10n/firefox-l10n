@@ -4,6 +4,8 @@
 
 perm-persistent-storage-remember = 記住此決定
 speech-recognition-model-download-header = 要設定語音辨識嗎？
+# $sizeMB (Number) - the model download size in MB.
+speech-recognition-model-download-message = { -brand-short-name } 會在本機上進行語音辨識，音訊內容不會離開您的裝置。若要繼續設定，需下載大約 { $sizeMB } MB 的模型。
 speech-recognition-model-download-allow =
     .label = 繼續
     .accesskey = C
@@ -19,6 +21,7 @@ speech-recognition-model-download-cancel =
     .label = 取消
     .accesskey = C
 speech-recognition-model-download-complete-message = 已下載語音辨識模型。
+speech-recognition-model-download-failed-message = 語音辨識模型下載失敗。
 speech-recognition-model-download-ok =
     .label = 確定
     .accesskey = O
