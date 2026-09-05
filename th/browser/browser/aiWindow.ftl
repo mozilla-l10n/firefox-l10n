@@ -105,3 +105,46 @@ aiwindow-firstrun-model-fast-label = เร็ว
 aiwindow-firstrun-model-fast-body = ตอบอย่างรวดเร็ว
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = เร็ว: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = ดีที่สุดสำหรับการหาคำตอบอย่างรวดเร็วเมื่อคุณกำลังเร่งรีบ
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-chip-subtitle = โมเดล { $model } โดย { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = ยืดหยุ่น
+aiwindow-firstrun-model-allpurpose-body = ตอบโจทย์ความต้องการส่วนใหญ่ได้ดีมาก
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = ยืดหยุ่น: { $shortName }
+aiwindow-firstrun-model-flexible-body = พร้อมสำหรับงานหลากหลายประเภท
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = แนะนำ
+aiwindow-firstrun-model-personal-label = ส่วนบุคคล
+aiwindow-firstrun-model-personal-body = คำตอบที่ปรับแต่งมาให้เหมาะสมที่สุด
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = ส่วนบุคคล: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = ออกแบบมาเพื่อการช่วยเหลือเฉพาะบุคคลในภาษาต่าง ๆ
+aiwindow-firstrun-button = ไปกันเลย
+aiwindow-firstrun-back-button = ย้อนกลับ
+aiwindow-firstrun-next-button = ถัดไป
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = เร็ว
+aiwindow-input-model-select-button-label-allpurpose = ยืดหยุ่น
+aiwindow-input-model-select-button-label-personal = ส่วนบุคคล
+aiwindow-input-model-select-button-label-custom = กำหนดเอง
+aiwindow-input-model-select-button-description-custom = ใช้ LLM ของคุณเอง
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = ใช้ LLM ของคุณเอง
+aiwindow-input-model-select-default-badge =
+    .label = ค่าเริ่มต้น
+    .title = โมเดลเริ่มต้นที่เลือก
+aiwindow-input-model-select-settings-link = การตั้งค่าโมเดล
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = คำตอบที่เป็นประโยชน์มากขึ้น ในแบบที่คุณต้องการ
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name }สามารถเรียนรู้จากแชท การเรียกดู หรือทั้งสองอย่างของคุณเพื่อสร้างความทรงจำได้ ซึ่งทำให้คำตอบเป็นประโยชน์มากขึ้นเมื่อเวลาผ่านไป
+aiwindow-firstrun-memories-conversation-title = สนทนาต่อไป
