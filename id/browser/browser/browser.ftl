@@ -430,6 +430,7 @@ quickactions-bookmarks2 = Kelola markah
 quickactions-cmd-bookmarks = markah
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Bersihkan riwayat terakhir
+quickactions-cmd-clearrecenthistory2 = kuki, bersihkan kuki, singgahan, bersihkan singgahan, data penjelajahan, bersihkan data penjelajahan, riwayat, bersihkan riwayat terkini
 quickactions-cmd-clearrecenthistory = bersihkan riwayat terkini, riwayat
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Bersihkan Riwayat
@@ -616,6 +617,7 @@ identity-description-passive-loaded-mixed2 = Meskipun { -brand-short-name } tela
 identity-description-active-loaded = Situs web ini mengandung konten yang tidak aman (misalnya skrip) dan sambungan Anda tidak pribadi.
 identity-description-active-loaded-insecure = Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)
 identity-description-tls-key-logging-heading = Sambungan Anda mungkin tidak pribadi
+identity-description-tls-key-logging-message = Aplikasi atau layanan dapat melihat lalu lintas terenkripsi Anda dari situs ini.
 identity-disable-mixed-content-blocking =
     .label = Nonaktifkan perlindungan untuk saat ini
     .accesskey = N
@@ -704,6 +706,11 @@ sharing-warning-proceed-to-tab =
     .label = Lanjutkan ke Tab
 sharing-warning-disable-for-session =
     .label = Nonaktifkan perlindungan berbagi untuk sesi ini.
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Pilih port serial:
+webserial-no-ports-available = Tidak ada port serial yang tersedia
 
 ## DevTools F12 popup
 
@@ -798,6 +805,7 @@ urlbar-result-action-search-in-private = Cari di Jendela Pribadi
 urlbar-result-action-search-w-engine = Cari lewat { $engine }
 urlbar-result-action-sponsored = Bersponsor
 urlbar-result-action-switch-tab = Pindah ke Tab
+urlbar-result-action-move-tab-to-split-view = Pindahkan Tab ke Tampilan Belah
 urlbar-result-action-visit = Kunjungi
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -837,6 +845,14 @@ urlbar-result-action-copy-to-clipboard = Salin
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = tidak terdefinisi
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Ekstensi { -brand-product-name }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Disarankan
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -894,6 +910,55 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Disponsori
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Tanya
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = Terakhir kali Anda mengunjungi { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days = Anda terakhir mengunjungi { $daysAgo } hari yang lalu
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks = Anda terakhir mengunjungi { $weeksAgo } minggu yang lalu
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months = Terakhir Anda mengunjungi { $monthsAgo } bulan yang lalu
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Terakhir Anda kunjungi pada { $date }
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = Dimarkahi { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = Terakhir dikunjungi { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Terakhir dikunjungi { $date }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = Terakhir dikunjungi { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1007,6 +1072,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Pencarian kata kunci dinonaktifkan
 urlbar-searchmode-dropmarker2 =
     .title = Pilih Mesin Pencari
+urlbar-searchmode-bookmarks3 = Markah
+    .accesskey = M
+urlbar-searchmode-tabs3 = Tab
+    .accesskey = T
+urlbar-searchmode-history3 = Riwayat
+    .accesskey = R
+urlbar-searchmode-actions3 = Aksi
+    .accesskey = A
 urlbar-searchmode-exit-button2 =
     .title = Tutup
 urlbar-searchmode-default2 =
@@ -1019,6 +1092,13 @@ urlbar-searchmode-popup-add-engine = Tambahkan "{ $engineName }"
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Kali ini, cari dengan:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Cari dengan:
+urlbar-searchmode-popup-search-settings = Pengaturan Pencarian
+    .accesskey = c
+urlbar-searchmode-popup-settings = Pengaturan
+    .accesskey = P
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1034,6 +1114,21 @@ urlbar-result-action-switch-to-tabgroup = Beralih ke { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Buka { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Buka di Tab Baru
+    .accesskey = B
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Buka di Tab Kontainer Baru
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Buka di Jendela Baru
+    .accesskey = n
+urlbar-view-context-menu-open-in-private-window =
+    .label = Buka di Jendela Pribadi Baru
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 
@@ -1110,6 +1205,9 @@ fullscreen-warning-no-domain = Sekarang dokumen ini dalam layar penuh
 fullscreen-exit-button = Keluar dari Layar Penuh (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Keluar dari Layar Penuh (esc)
+fullscreen-keyboardlock-exit-button = Keluar dari Layar Penuh (Tekan dan tahan Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Keluar dari Layar Penuh (Tekan dan tahan Esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1225,6 +1323,12 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Sandi
     .tooltiptext = Lihat dan kelola sandi tersimpan Anda
+qrcode-panel-error =
+    .message = Gagal membuat kode QR. Silakan coba lagi.
+qrcode-copy-button =
+    .label = Salin
+qrcode-copy-success =
+    .message = Kode QR disalin ke papan klip.
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
