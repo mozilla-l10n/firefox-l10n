@@ -602,6 +602,7 @@ mlmodel-pdfjs = { -brand-short-name } verwendet dies, um Alternativ-Text für Gr
 mlmodel-smart-tab-topic-engine = { -brand-short-name } verwendet dies, um Namen für Ihre Tab-Gruppen vorzuschlagen
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } verwendet dies, um Tabs für Ihre Tab-Gruppen vorzuschlagen
 mlmodel-formfill-engine = { -brand-short-name } verwendet dies, um Adressformulare auszufüllen
+mlmodel-speech-recognition = { -brand-short-name } verwendet dies für die geräteinterne Spracherkennung
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Geräteinterne KI
 addon-category-mlmodel-title =

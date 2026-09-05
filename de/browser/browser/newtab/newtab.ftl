@@ -1351,6 +1351,10 @@ newtab-widget-lists-menu-create = Neue Liste erstellen
 newtab-widget-lists-menu-delete = Diese Liste löschen
 newtab-widget-lists-menu-copy = Liste in Zwischenablage kopieren
 newtab-widget-lists-menu-learn-more = Weitere Informationen
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Liste wechseln
+    .title = Liste wechseln
 newtab-widget-lists-button-add-item = Einen Eintrag hinzufügen
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Einen Eintrag hinzufügen
