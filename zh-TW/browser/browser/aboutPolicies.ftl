@@ -22,3 +22,6 @@ inactive-message = 未開啟企業政策服務。
 policy-name = 政策名稱
 policy-value = 政策設定值
 policy-errors = 政策錯誤
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = 未完整套用

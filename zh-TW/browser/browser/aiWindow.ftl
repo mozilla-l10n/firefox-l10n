@@ -366,3 +366,9 @@ aiwindow-starter-scroll-start =
 aiwindow-starter-scroll-end =
     .aria-label = 向下捲動
     .tooltiptext = 向下捲動
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = 關閉 { $text }
+    .title = 關閉 { $text }
