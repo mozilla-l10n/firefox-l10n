@@ -206,6 +206,15 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } ojoko tapykuehoita oikundaha aja. Ko’ápe ojehecháta.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Ápe oñembohekopyahupáta.
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Ñeikundaha pya’eve. Sa’ive tapykuehoha.
 
 ## Privacy widget — informational messages
 ##

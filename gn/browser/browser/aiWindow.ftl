@@ -361,3 +361,19 @@ aiwindow-starter-planning-plan = Eipytyvõ aporã moheñóime
 aiwindow-starter-browsing-history = Eheka tendayke tembiasakuépe
 aiwindow-starter-browsing-summarize = Emombyky tendayke
 aiwindow-starter-browsing-compare = Embojoja tendayke
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Ejevy jey
+    .tooltiptext = Ejevy jey
+aiwindow-starter-scroll-end =
+    .aria-label = Eho tenonde gotyo
+    .tooltiptext = Eho tenonde gotyo
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Ehejarei { $text }
+    .title = Ehejarei { $text }

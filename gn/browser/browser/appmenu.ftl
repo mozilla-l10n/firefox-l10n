@@ -128,6 +128,7 @@ fxa-menu-sync-off-data-description = Mba'ekuaarãita noñembojuehéi
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Myandy
+fxa-menu-sync-status-turn-on-button-aria-label = Emyandy
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Eike embojuehe hag̃ua
