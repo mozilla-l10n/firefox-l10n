@@ -962,11 +962,6 @@ newtab-wallpaper-light-fox-anniversary = Ein rev i ei graskledd mark med eit tå
 # Variables:
 #   $name (string) - The picture's own title, or the Firefox wallpaper's name
 newtab-wallpaper-your-images-item = { $name }
-# Read by screen readers for an image someone added themselves. Firefox counts
-# these as they are saved rather than keeping the name of their file.
-# Variables:
-#   $number (number) - Which saved image this is, counting from one
-newtab-wallpaper-your-images-item-numbered = Fjern bildet
 newtab-wallpaper-remove-image-title = Fjerne bildet?
 newtab-wallpaper-remove-image-confirm = Fjern
 newtab-wallpaper-remove-image-cancel = Avbryt
