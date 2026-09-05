@@ -206,6 +206,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name }(e)k jarraipen-elementuak blokeatzen ditu zuk nabigatu ahala. Hemen ikusiko dituzu.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name }(e)k automatikoki blokeatzen ditu jarraipen-elementuak, zure jardueraren oraindik eta gehiago pribatu mantenduz.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Ikusi guztirako zenbakiak hemen.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -992,6 +998,11 @@ newtab-wallpaper-remove-image =
 newtab-wallpaper-remove-image-numbered =
     .aria-label = Kendu { $number }. irudia
     .title = Kendu { $number }. irudia
+newtab-wallpaper-remove-image-title = Kendu irudia?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Ekintza hau ezin da desegin.
+newtab-wallpaper-remove-image-confirm = Kendu
+newtab-wallpaper-remove-image-cancel = Utzi
 
 ## Solid Colors
 
@@ -1085,6 +1096,9 @@ newtab-weather-menu-change-location = Aldatu kokapena
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Bilatu kokapena
     .placeholder = Bilatu kokapena
+newtab-weather-cancel-input =
+    .aria-label = Utzi
+    .title = Utzi
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Erabili uneko kokapena
@@ -1336,6 +1350,10 @@ newtab-widget-lists-menu-create = Sortu zerrenda berria
 newtab-widget-lists-menu-delete = Ezabatu zerrenda hau
 newtab-widget-lists-menu-copy = Kopiatu zerrenda arbelean
 newtab-widget-lists-menu-learn-more = Argibide gehiago
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Aldatu zerrenda
+    .title = Aldatu zerrenda
 newtab-widget-lists-button-add-item = Gehitu elementua
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Gehitu elementua

@@ -588,6 +588,7 @@ mlmodel-pdfjs = { -brand-short-name }(e)k hau darabil PDFetan gehitutako irudien
 mlmodel-smart-tab-topic-engine = { -brand-short-name }(e)k hau darabil fitxa-taldeen izenak gomendatzeko
 mlmodel-smart-tab-embedding-engine = { -brand-short-name }(e)k hau darabil fitxa-taldeetarako fitxak gomendatzeko
 mlmodel-formfill-engine = Helbideak eskatzen dituzten inprimakiak betetzen laguntzeko erabiltzen du hau { -brand-short-name }(e)k
+mlmodel-speech-recognition = { -brand-short-name }(e)k hau erabiltzen du gailuko hizketa-ezagutzarako
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Gailuko AA
 addon-category-mlmodel-title =
