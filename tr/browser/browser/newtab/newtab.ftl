@@ -187,8 +187,8 @@ newtab-privacy-widget-label =
 #   $count (number) - Number of trackers blocked today
 newtab-privacy-trackers-blocked-today =
     { $count ->
-        [one] Bugün engellenen takip kodu
-       *[other] Bugün engellenen takip kodları
+        [one] Bugün engellenen takip kodu sayısı
+       *[other] Bugün engellenen takip kodu sayısı
     }
 # Second line of the readout, under the large number and "Trackers blocked
 # today". Counts the sites those trackers were blocked on. The English is
@@ -198,8 +198,8 @@ newtab-privacy-trackers-blocked-today =
 #   $count (number) - Number of sites where trackers were blocked
 newtab-privacy-across-sites =
     { $count ->
-        [one] { $count } sitede
-       *[other] { $count } sitede
+        [one] { $count } sitede sizi koruduk
+       *[other] { $count } sitede sizi koruduk
     }
 
 ## Privacy widget — empty state

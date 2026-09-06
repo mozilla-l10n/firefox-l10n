@@ -3,6 +3,7 @@
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
 perm-persistent-storage-remember = Bu kararı hatırla
+speech-recognition-model-download-header = Konuşma tanıma ayarlansın mı?
 speech-recognition-model-download-allow =
     .label = Devam et
     .accesskey = D

@@ -22,3 +22,6 @@ inactive-message = Słužba předewzaćowych prawidłow aktiwna njeje.
 policy-name = Mjeno prawidła
 policy-value = Hódnota prawidła
 policy-errors = Zmylki prawidłow
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Nic dospołnje nałoženy
