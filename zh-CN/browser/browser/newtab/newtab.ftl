@@ -267,6 +267,9 @@ newtab-privacy-message-milestone-month = 本月已拦截 { $count } 个跟踪器
 # Variables:
 #   $count (number) - Trackers blocked this year
 newtab-privacy-message-milestone-year = 今年已拦截 { $count } 个跟踪器。这一年对您的隐私保护，卓有成效。
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak = 您已连续受保护 { $count } 天。
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = 继续浏览，{ -brand-short-name } 将持续拦截。
 
@@ -287,6 +290,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = 股市
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = 市场
+    .label = 市场
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = 关注列表
+    .label = 关注列表
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = 搜索名称或代码
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
