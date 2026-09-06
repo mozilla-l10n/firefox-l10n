@@ -31,6 +31,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = 暂时不要
     .accessKey = N
+address-capture-never-save-addresses-button =
+    .label = 永不保存地址
+    .accessKey = v
 address-capture-never-save-button =
     .label = 永不保存
     .accessKey = v
@@ -112,6 +115,7 @@ autofill-address-tel = 电话号码
 autofill-address-email = 邮箱地址
 autofill-cancel-button = 取消
 autofill-save-button = 保存
+autofill-country-warning-message-2 = 表单自动填写目前仅部分国家/地区可用。
 autofill-country-warning-message = 表单自动填写目前仅部分国家/地区可用。
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = 添加新信用卡
@@ -142,6 +146,10 @@ autofill-card-expires-year-2 =
     .label = 到期年
 autofill-card-billing-address-2 =
     .label = 账单地址
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = 安全码（CVV）
 autofill-card-name-on-card = 卡面姓名
 autofill-card-expires-month = 到期月
 autofill-card-expires-year = 到期年

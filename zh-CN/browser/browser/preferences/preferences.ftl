@@ -1237,6 +1237,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = 每次新建标签页时选择身份
     .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = 不使用身份标签页打开来自外部应用的链接
+    .accesskey = D
 containers-new-tab-check2 =
     .description = 启用后，每次点按新建标签页按钮时都将打开身份菜单。
     .label = 每次新建标签页时选择身份
@@ -1245,6 +1251,9 @@ containers-settings-button2 =
     .title = 设置
 containers-remove-button3 =
     .title = 删除
+containers-sites-add-button =
+    .label = 添加网站
+    .accesskey = w
 containers-remove-button2 =
     .title = 移除
 

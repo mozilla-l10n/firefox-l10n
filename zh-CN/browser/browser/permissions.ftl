@@ -9,3 +9,19 @@ speech-recognition-model-download-message = { -brand-short-name } 在本地进�
 speech-recognition-model-download-allow =
     .label = 继续
     .accesskey = C
+speech-recognition-model-download-not-now =
+    .label = 暂时不要
+    .accesskey = N
+speech-recognition-model-download-progress-message = 正在下载语音识别模型
+# Accessible name of the progress bar shown while the model downloads. The
+# percentage and time remaining are rendered next to it, as text.
+speech-recognition-model-download-progressbar =
+    .aria-label = 语音识别模型下载进度
+speech-recognition-model-download-cancel =
+    .label = 取消
+    .accesskey = C
+speech-recognition-model-download-complete-message = 语音识别模型已下载。
+speech-recognition-model-download-failed-message = 语音识别模型下载失败。
+speech-recognition-model-download-ok =
+    .label = 确定
+    .accesskey = O
