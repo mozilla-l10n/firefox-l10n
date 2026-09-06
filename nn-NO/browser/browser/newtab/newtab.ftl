@@ -206,6 +206,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokkerer sporarar når du surfar. Du vil sjå dei her.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } blokkerer automatisk sporarar, slik at meir av aktiviteten din blir privat.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Sjå ei løpande oppteljing her.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -961,6 +967,11 @@ newtab-wallpaper-category-back =
 ## Firefox wallpaper kept for them when it was retired.
 
 newtab-wallpaper-your-images = Dine bilde
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Bilda dine, bakgrunnar du har lagra
 # Read by screen readers for a saved image that has a name of its own: a kept
 # Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
 # someone added themselves is numbered instead, see the string below.

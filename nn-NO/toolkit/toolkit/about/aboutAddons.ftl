@@ -599,6 +599,7 @@ mlmodel-pdfjs = { -brand-short-name } brukar dette til å lage alt-tekst for bil
 mlmodel-smart-tab-topic-engine = { -brand-short-name } brukar dette til å føreslå namn for fanegruppene dine
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } brukar dette til å føreslå faner for fanegruppene dine
 mlmodel-formfill-engine = { -brand-short-name } brukar dette til å fylle ut adresseskjema
+mlmodel-speech-recognition = { -brand-short-name } brukar dette til taleattkjenning på eininga
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = KI på eininga
 addon-category-mlmodel-title =
