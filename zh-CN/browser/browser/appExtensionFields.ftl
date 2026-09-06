@@ -15,6 +15,11 @@ extension-firefox-compact-dark-description = 深邃配色的主题。
 extension-firefox-alpenglow-name = Firefox 染山霞
 extension-firefox-alpenglow-description = 使用多彩按钮、菜单、窗口外观。
 
+## Theme names shown in the Firefox Themes picker in about:addons and theme add-on card,
+## and new default-theme description for the theme add-on card.
+
+extension-default-theme-description2 = 灰紫配色，平衡又亲切，尽显 { -brand-product-name } 经典风范。
+
 ## Theme labels
 ## These are short, evocative names for color themes in Firefox. Each name
 ## suggests a color through nature or fire imagery rather than naming the color

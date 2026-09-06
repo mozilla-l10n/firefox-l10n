@@ -128,6 +128,7 @@ fxa-menu-sync-off-data-description = 未同步您的数据
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = 开启
+fxa-menu-sync-status-turn-on-button-aria-label = 开启
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = 登录同步服务
@@ -437,6 +438,7 @@ fxa-menu-create-profile-learn-more =
 appmenuitem-share-firefox-title2 = 分享 { -brand-product-name }
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title = 分享 { -brand-short-name }
+appmenuitem-share-firefox-description = 邀请朋友选择这款隐私为先的浏览器
 appmenu-profiles-2 =
     .label = 配置文件
 appmenu-profiles-header = 配置文件
