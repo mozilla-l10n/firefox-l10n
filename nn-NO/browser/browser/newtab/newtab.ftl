@@ -956,6 +956,7 @@ newtab-wallpaper-light-fox-anniversary = Ein rev i ei graskledd mark med eit tå
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a
 ## Firefox wallpaper kept for them when it was retired.
 
+newtab-wallpaper-your-images = Dine bilde
 # Read by screen readers for a saved image that has a name of its own: a kept
 # Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
 # someone added themselves is numbered instead, see the string below.
@@ -967,6 +968,14 @@ newtab-wallpaper-your-images-item = { $name }
 # Variables:
 #   $number (number) - Which saved image this is, counting from one
 newtab-wallpaper-your-images-item-numbered = Bilde { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Fjern { $name }
+    .title = Fjern bildet
 newtab-wallpaper-remove-image-title = Fjerne bildet?
 newtab-wallpaper-remove-image-confirm = Fjern
 newtab-wallpaper-remove-image-cancel = Avbryt
