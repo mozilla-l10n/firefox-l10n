@@ -323,9 +323,43 @@ newtab-stocks-ticker-status-flat = { $name }，平盘，{ $change }，{ $price }
 newtab-stocks-add-to-watchlist =
     .aria-label = 添加 { $name } 到关注列表
     .title = 添加 { $name } 到关注列表
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = 从关注列表中移除“{ $name }”
+    .title = 从关注列表中移除“{ $name }”
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = “{ $name }”已在关注列表中
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = 已将“{ $name }”添加到关注列表
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = 已将“{ $name }”从关注列表移除
 
 ## Stocks widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = 搜索名称或代码
+    .placeholder = 搜索名称或代码
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = 搜索结果
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .aria-label = 返回
+    .title = 返回
 # Shown when a ticker search returns no matching symbols.
 # Variables:
 #   $query (String) - the text the user searched for.
@@ -388,6 +422,19 @@ newtab-picture-check-back = 明天再来看看有没有新照片吧
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = 维基共享资源 · 每日一图
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = 近期搜索
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = 详细了解
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = 文章
+newtab-spaces-tab-widgets = 小组件
 
 ## Search box component.
 
@@ -656,6 +703,12 @@ newtab-carousel-previous =
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = 下一页
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = 暂停自动播放
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = 恢复自动播放
 
 ## Pocket Content Section.
 
@@ -762,6 +815,8 @@ newtab-custom-widget-stocks-toggle =
     .label = 股市
 newtab-custom-widget-picture-toggle =
     .label = 每日一图
+newtab-custom-widget-recent-searches-toggle =
+    .label = 近期搜索
 newtab-custom-widget-section-title = 小组件
 newtab-custom-widget-section-toggle =
     .label = 小组件
@@ -826,6 +881,12 @@ newtab-wallpaper-dark-mountain = 山地景观
 newtab-wallpaper-dark-city = 紫色城市景观
 newtab-wallpaper-dark-fox-anniversary = 树林旁边人行道上的狐狸
 newtab-wallpaper-light-fox-anniversary = 迷蒙山景中草地上的狐狸
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = 您的图片
 
 ## Solid Colors
 
