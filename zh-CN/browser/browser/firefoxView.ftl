@@ -234,6 +234,7 @@ firefoxview-history-empty-description-two = 保护隐私是我们的首要事项
 # This appears when a user does not have browsing history yet.
 # This is indicating that a users browsers history will be found here when they start browsing.
 firefoxview-history-empty-header-2 = 您的浏览足迹，始于这里
+firefoxview-history-empty-description-2 = 访问页面时，历史记录将显示在此处。可在<a data-l10n-name="history-settings-url">设置</a>中控制要记录的内容。
 
 ##
 

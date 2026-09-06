@@ -117,11 +117,13 @@ fxa-adoption-passwords-primary-button-label = Daftar
 taskbar-tabs-social-callout-title = Simpan asupan favorit Anda di bilah tugas
 taskbar-tabs-social-callout-subtitle = Luncurkan situs sosial Anda seperti aplikasi di jendela ramping yang dilindungi oleh { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Mengobrol dari bilah tugas
+taskbar-tabs-email-callout-title = Simpan surel Anda di bilah tugas
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Jangan kehilangan semua yang telah Anda simpan saat pindah ke Windows 11.
 windows-10-eos-sync-urgency-subtitle-1 = Sinkronkan sekarang untuk menjaga markah, sandi, dan setelan { -brand-short-name } Anda aman dan mudah dipulihkan.
+windows-10-eos-sync-urgency-title-2 = Mengucapkan selamat tinggal ke Windows 10? Lindungi data Anda saat Anda beralih.
 
 ## Sidebar Strings
 

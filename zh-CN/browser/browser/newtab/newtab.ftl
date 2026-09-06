@@ -247,6 +247,9 @@ newtab-privacy-message-promo-relay-3-cta = 获取马甲邮箱
 # Variables:
 #   $count (number) - Trackers blocked this month
 newtab-privacy-message-milestone-month = 本月已拦截 { $count } 个跟踪器。隐私一小步，心安一大步。
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year = 今年已拦截 { $count } 个跟踪器。这一年对您的隐私保护，卓有成效。
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = 继续浏览，{ -brand-short-name } 将持续拦截。
 
@@ -280,6 +283,16 @@ newtab-stocks-ticker-status-up = { $name }，上涨 { $change }，{ $price }
 newtab-stocks-ticker-status-down = { $name }，下跌 { $change }，{ $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }，平盘，{ $change }，{ $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = 添加 { $name } 到关注列表
+    .title = 添加 { $name } 到关注列表
 
 ## Stocks widget ticker search
 

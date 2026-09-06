@@ -49,3 +49,8 @@ customkeys-key-clear =
 
 customkeys-key-new =
     .label = Tekan tombol baru:
+
+## Sidebar
+
+customkeys-title-heading =
+    .heading = Pintasan Papan Tik

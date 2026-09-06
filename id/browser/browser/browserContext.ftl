@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Mundur satu laman ({ $shortcut })
     .aria-label = Mundur
+    .tooltiptext = Mundur satu laman ({ $shortcut })
     .accesskey = M
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Maju satu laman ({ $shortcut })
     .aria-label = Maju
+    .tooltiptext = Maju satu laman ({ $shortcut })
     .accesskey = M
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -94,8 +94,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Markahi Laman
-    .accesskey = m
     .tooltiptext = Markahi laman
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +112,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Markahi Laman…
-    .accesskey = m
     .tooltiptext = Markahi laman ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Ubah Markah…
-    .accesskey = m
     .tooltiptext = Ubah Markah
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Ubah Markah…
-    .accesskey = m
     .tooltiptext = Ubah Markah ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Buka Tautan
     .accesskey = a
@@ -293,6 +293,7 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Kirim ke Perangkat
     .accesskey = n
+main-context-menu-send-to-mobile-device-missing2 = Tidak Melihat Peranti Anda?
 main-context-menu-save-to-pocket =
     .label = Simpan Laman ke { -pocket-brand-name }
     .accesskey = k
@@ -309,9 +310,6 @@ main-context-menu-use-saved-login =
 main-context-menu-use-saved-password =
     .label = Gunakan Kata Sandi Tersimpan
     .accesskey = G
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Gunakan Topeng Email { -relay-brand-short-name }
     .accesskey = T
@@ -402,3 +400,9 @@ main-context-menu-reveal-password =
     .accesskey = S
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Baru
+main-context-menu-pdfjs-copy-page =
+    .label = Salin laman
+main-context-menu-pdfjs-cut-page =
+    .label = Potong laman
+main-context-menu-pdfjs-delete-page =
+    .label = Hapus laman
