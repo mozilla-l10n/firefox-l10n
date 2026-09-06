@@ -19,3 +19,7 @@ speech-recognition-model-download-cancel =
     .label = Přetorhnyć
     .accesskey = P
 speech-recognition-model-download-complete-message = Model rěčenskeho spóznaća sćehnjeny.
+speech-recognition-model-download-failed-message = Sćehnjenje modela rěčenskeho spóznaća je so nimokuliło.
+speech-recognition-model-download-ok =
+    .label = W porjadku
+    .accesskey = W

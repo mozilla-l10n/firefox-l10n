@@ -596,6 +596,7 @@ mlmodel-pdfjs = { -brand-short-name } to wužiwa, zo by alternatiwny tekst za wo
 mlmodel-smart-tab-topic-engine = { -brand-short-name } to wužiwa, zo by mjeno za waše skupiny rajtarkow namjetował
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } to wužiwa, zo by rajtarki za waše skupiny rajtarkow namjetował
 mlmodel-formfill-engine = { -brand-short-name } to wužiwa, zo by adresowe formulary wupjelnił.
+mlmodel-speech-recognition = { -brand-short-name } to za rěčenske spóznaće w graće wužiwa
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = KI na graće
 addon-category-mlmodel-title =
