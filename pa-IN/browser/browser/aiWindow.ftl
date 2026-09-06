@@ -368,3 +368,9 @@ aiwindow-starter-scroll-start =
 aiwindow-starter-scroll-end =
     .aria-label = ਅੱਗੇ ਸਰਕਾਓ
     .tooltiptext = ਅੱਗੇ ਸਰਕਾਓ
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = { $text } ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
+    .title = { $text } ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ

@@ -22,3 +22,6 @@ inactive-message = ਇੰਟਰਪ੍ਰਾਈਜ਼ ਪਾਲਸੀਆਂ ਦ�
 policy-name = ਪਾਲਸੀ ਦਾ ਨਾਂ
 policy-value = ਪਾਲਸੀ ਦਾ ਮੁੱਲ
 policy-errors = ਪਾਲਸੀ ਗਲਤੀਆਂ
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = ਪੂਰਾ ਤਰ੍ਹਾਂ ਲਾਗੂ ਨਹੀਂ ਹੋਇਆ
