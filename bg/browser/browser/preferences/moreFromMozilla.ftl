@@ -6,11 +6,16 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Още от { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Още от { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Още от { -vendor-short-name }
 more-from-moz-subtitle = Вижте други продукти на { -vendor-short-name }, които работят за поддържане на здравословен интернет.
 more-from-moz-firefox-mobile-title = { -brand-product-name } за мобилно устройство
 more-from-moz-firefox-mobile-description = Мобилният браузър, който поставя поверителността ви на първо място.
+more-from-moz-firefox-mobile =
+    .description = Мобилният браузър, който поставя поверителността ви на първо място.
+    .label = { -brand-product-name } за мобилни устройства
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Открийте допълнително ниво на анонимно сърфиране и защита.
 more-from-moz-qr-code-box-firefox-mobile-title = Изтеглете с помощта на мобилното си устройство. Насочете камерата си към QR кода. Когато се появи връзка, докоснете я.

@@ -89,6 +89,7 @@ ipprotection-location-selection-callout-secondary-button = 知道了
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-title = VPN 装进 Android，隐私随你而行
+ipprotection-android-promo-callout-description = 扫码下载 Android 版 { -brand-product-name }，开启内置 VPN，隐私随行无忧。iOS 版即将推出。
 ipprotection-android-promo-callout-primary-button = 知道了
 
 ## Panel
@@ -101,11 +102,11 @@ unauthenticated-choose-location-message-1 = 从多个位置中选择，或者由
 unauthenticated-get-started = 开始使用
 unauthenticated-terms-of-service-privacy-notice = 若继续，即表示您同意我们的<a data-l10n-name="vpn-terms-of-service">服务条款</a>和<a data-l10n-name="vpn-privacy-notice">隐私声明</a>。
 site-exclusion-toggle-enabled-1 =
-    .label = 为此网站使用 VPN
     .aria-label = 已为此网站开启 VPN
-site-exclusion-toggle-disabled-1 =
     .label = 为此网站使用 VPN
+site-exclusion-toggle-disabled-1 =
     .aria-label = 已为此网站关闭 VPN
+    .label = 为此网站使用 VPN
 site-exclusion-toggle-description = 网站不正常？请尝试关闭 VPN。
 ipprotection-settings-link =
     .label = 设置
@@ -220,11 +221,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPN 流量即将
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = 内置的 VPN，可在使用 { -brand-short-name } 浏览时增强隐私保护。
+    .label = VPN
 ip-protection-description-1 =
-    .label = 内置 VPN
     .description = 在浏览时隐藏位置，获得额外隐私保护。
+    .label = 内置 VPN
 ip-protection-learn-more = 详细了解
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -235,8 +236,8 @@ ip-protection-not-opted-in-button = 开始使用
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = 管理网站设置
     .description = { $count } 个网站
+    .label = 管理网站设置
 ip-protection-autostart =
     .label = 自动开启 VPN
 ip-protection-autostart-checkbox =
@@ -244,11 +245,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = 在隐私窗口中
 ip-protection-vpn-upgrade-link =
-    .label = 使用 { -mozilla-vpn-brand-name }，将保护扩展到 { -brand-short-name } 之外。
     .description = 无论您在家中还是使用公共 Wi-Fi，均可选择自定义 VPN 位置，并在最多五台设备上为所有应用添加保护。
+    .label = 使用 { -mozilla-vpn-brand-name }，将保护扩展到 { -brand-short-name } 之外。
 ip-protection-vpn-upgrade-link-1 =
-    .label = 让 { -mozilla-vpn-brand-name } 的保护更进一步
     .description = 从 300 多个位置中选择，并在最多 5 台设备上保护您的所有应用。
+    .label = 让 { -mozilla-vpn-brand-name } 的保护更进一步
 
 ## IP Protection dialogs
 

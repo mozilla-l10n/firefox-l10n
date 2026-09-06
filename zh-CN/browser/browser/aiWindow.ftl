@@ -121,6 +121,7 @@ aiwindow-firstrun-model-personal-label = 个人化
 aiwindow-firstrun-model-personal-body = 提供最懂您的回答
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = 个人化：{ $shortName }
+aiwindow-firstrun-model-personal-body-v2 = 为提供个性化帮助而构建，支持多种语言。
 aiwindow-firstrun-button = 开始使用
 aiwindow-firstrun-back-button = 后退
 aiwindow-firstrun-next-button = 下一步
