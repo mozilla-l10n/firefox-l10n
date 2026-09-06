@@ -92,4 +92,4 @@ account-multiple-tabs-arriving-from-unknown-device = 탭 { $tabCount }개 도착
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = 최근에 닫은 탭 보기
-account-tabs-closed-remotely = { -brand-short-name } 탭 { $closedCount }개 닫힘
+account-tabs-closed-remotely = { -brand-short-name } 탭 { $closedCount }개 닫음

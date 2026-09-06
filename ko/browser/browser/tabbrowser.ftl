@@ -199,7 +199,7 @@ tabbrowser-manager-close-tab =
 # not include "deleted" tab groups (see tab-group-editor-action-delete).
 tabbrowser-manager-closed-tab-group =
     .label = { $tabGroupName }
-    .tooltiptext = { $tabGroupName } — 닫힘
+    .tooltiptext = { $tabGroupName } — 닫음
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — 현재 창
@@ -236,7 +236,7 @@ tab-group-editor-color-selector2-red = 빨간색
     .title = 빨간색
 tab-group-menu-closed-tab-group =
     .label = { $tabGroupName }
-    .title = { $tabGroupName } — 닫힘
+    .title = { $tabGroupName } — 닫음
 tab-group-description = { $tabGroupName } — 탭 그룹
 tab-group-label-tooltip-collapsed = { $tabGroupName } — 접힘
 tab-group-label-tooltip-expanded = { $tabGroupName } — 펼침
@@ -258,7 +258,7 @@ tab-groups-list-title = 탭 그룹
 ## whether the hover menu is open or closed.
 
 tab-group-preview-open-description = 탭 목록 열림
-tab-group-preview-closed-description = 탭 목록 닫힘
+tab-group-preview-closed-description = 탭 목록 닫음
 
 ##
 
@@ -400,8 +400,8 @@ tab-note-editor-button-save =
     .label = 저장
     .accesskey = S
 tab-note-editor-button-delete =
-    .title = 메모 삭제
     .aria-label = 메모 삭제
+    .title = 메모 삭제
     .accesskey = D
 tab-note-preview-edit-icon =
     .alt = 메모 편집

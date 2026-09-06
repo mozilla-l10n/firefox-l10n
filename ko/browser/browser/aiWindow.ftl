@@ -301,7 +301,7 @@ smart-window-confirm-close-tabs = 탭 { $count }개 닫기
 
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
-smartwindow-close-tab-callout-title = 탭 닫힘
+smartwindow-close-tab-callout-title = 탭 닫음
 smartwindow-close-tab-callout-subtitle = 기록에서 언제든지 탭을 다시 열 수 있습니다.
 
 ## Smart Window new tab promo

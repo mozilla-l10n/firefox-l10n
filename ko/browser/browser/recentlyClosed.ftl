@@ -34,6 +34,6 @@ recently-closed-undo-close-window-label =
 recently-closed-window-panel-tooltip =
     { $tabCount ->
         [0] { $winTitle }
-        [one] { $winTitle } (탭 { $tabCount }개, { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") }에 닫힘)
+        [one] { $winTitle } (탭 { $tabCount }개, { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") }에 닫음)
        *[other] { $winTitle } ({ $tabCount } tabs, closed at { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
     }
