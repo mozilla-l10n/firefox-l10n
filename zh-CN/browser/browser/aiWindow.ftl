@@ -153,9 +153,9 @@ aiwindow-firstrun-memories-relevance-title = 回答更相关
 aiwindow-firstrun-memories-relevance-body = 从浏览活动学习后，{ -smart-window-brand-name }更能顾全大局。
 aiwindow-firstrun-memories-privacy-title = 以隐私为念
 aiwindow-firstrun-memories-privacy-body = 记忆存储在此设备上，可以随时删除或关闭。
-aiwindow-firstrun-memories-choose-label = 选择{ -smart-window-brand-name }学习的内容
+aiwindow-firstrun-memories-choose-label = 选择{ -smart-window-brand-name }学习的来源
 aiwindow-firstrun-memories-checkbox-chats = { -smart-window-brand-name }中的聊天
-aiwindow-firstrun-memories-checkbox-browsing = 全 { -brand-product-name } 中的浏览活动
+aiwindow-firstrun-memories-checkbox-browsing = { -brand-product-name } 中的浏览活动
 aiwindow-firstrun-memories-update-settings = 可随时在设置中更新。
 aiwindow-firstrun-memories-no-create = 明白，{ -smart-window-brand-name } 将不会创建记忆。您随时可在设置中更新。
 
