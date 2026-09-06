@@ -355,3 +355,13 @@ aiwindow-starter-planning-plan = 帮助制定计划
 aiwindow-starter-browsing-history = 查找历史标签页
 aiwindow-starter-browsing-summarize = 生成标签页摘要
 aiwindow-starter-browsing-compare = 比较标签页
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = 忽略{ $text }
+    .title = 忽略{ $text }

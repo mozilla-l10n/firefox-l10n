@@ -22,3 +22,6 @@ inactive-message = 企业策略服务处于未激活状态。
 policy-name = 策略名
 policy-value = 策略值
 policy-errors = 策略错误
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = 未能完全应用
