@@ -194,6 +194,16 @@ newtab-privacy-across-sites = 包含 { $count } 个网站
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } 会在您浏览时拦截跟踪器。拦截情况将显示在这里。
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } 会自动拦截跟踪器，更好地保护您的活动隐私。
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = 在此查看实时累计数量。
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+newtab-privacy-etp-off-turn-on-tracking = 前往“设置”开启跟踪保护，即可开始拦截。
 
 ## Privacy widget — informational messages
 ##
