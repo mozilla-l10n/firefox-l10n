@@ -588,6 +588,7 @@ mlmodel-pdfjs = ਤੁਹਾਡੇ ਵਲੋਂ PDF ਵਿੱਚ ਜੋੜੇ �
 mlmodel-smart-tab-topic-engine = { -brand-short-name } ਤੁਹਾਡੇ ਟੈਬ ਗਰੁੱਪਾਂ ਲਈ ਨਾਂ ਦਾ ਸੁਝਾਅ ਦੇਣ ਲਈ ਵਰਤਦਾ ਹੈ
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } ਤੁਹਾਡੇ ਟੈਬ ਗਰੁੱਪਾਂ ਲਈ ਟੈਬਾਂ ਦਾ ਸੁਝਾਅ ਦੇਣ ਲਈ ਵਰਤਦਾ ਹੈ
 mlmodel-formfill-engine = { -brand-short-name } ਇਸ ਨੂੰ ਸਿਰਨਾਵਾਂ ਫਾਰਮ ਵਿੱਚ ਭਰਨ ਲਈ ਮਦਦ ਵਾਸਤੇ ਵਰਤਦਾ ਹੈ।
+mlmodel-speech-recognition = { -brand-short-name } ਇਸ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਬੋਲੀ ਪਛਾਣ ਲਈ ਵਰਤਦਾ ਹੈ
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = ਡਿਵਾਈਸ ਉੱਤੇ AI
 addon-category-mlmodel-title =

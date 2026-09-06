@@ -983,6 +983,18 @@ newtab-wallpaper-your-images-item-numbered = ਚਿੱਤਰ { $number }
 newtab-wallpaper-remove-image =
     .aria-label = { $name } ਨੂੰ ਹਟਾਓ
     .title = ਚਿੱਤਰ ਨੂੰ ਹਟਾਓ
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = { $number } ਚਿੱਤਰ ਨੂੰ ਹਟਾਓ
+    .title = { $number } ਚਿੱਤਰ ਨੂੰ ਹਟਾਓ
+newtab-wallpaper-remove-image-title = ਚਿੱਤਰ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = ਇਹ ਕਾਰਵਾਈ ਵਾਪਿਸ ਨਹੀਂ ਪਰਤਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ ਹੈ।
+newtab-wallpaper-remove-image-confirm = ਹਟਾਓ
+newtab-wallpaper-remove-image-cancel = ਰੱਦ ਕਰੋ
 
 ## Solid Colors
 
@@ -1076,6 +1088,9 @@ newtab-weather-menu-change-location = ਟਿਕਾਣੇ ਨੂੰ ਬਦਲੋ
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
     .placeholder = ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
+newtab-weather-cancel-input =
+    .aria-label = ਰੱਦ ਕਰੋ
+    .title = ਰੱਦ ਕਰੋ
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = ਮੌਜੂਦਾ ਟਿਕਾਣੇ ਨੂੰ ਵਰਤੋਂ
@@ -1327,6 +1342,10 @@ newtab-widget-lists-menu-create = ਇੱਕ ਨਵੀਂ ਲਿਸਟ ਬਣਾ�
 newtab-widget-lists-menu-delete = ਇਸ ਸੂਚੀ ਨੂੰ ਹਟਾਓ
 newtab-widget-lists-menu-copy = ਸੂਚੀ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ
 newtab-widget-lists-menu-learn-more = ਹੋਰ ਜਾਣੋ
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = ਸੂਚੀ ਨੂੰ ਬਦਲੋ
+    .title = ਸੂਚੀ ਨੂੰ ਬਦਲੋ
 newtab-widget-lists-button-add-item = ਇੱਕ ਚੀਜ਼ ਨੂੰ ਜੋੜੋ
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = ਇੱਕ ਚੀਜ਼ ਨੂੰ ਜੋੜੋ
