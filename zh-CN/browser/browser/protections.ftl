@@ -159,40 +159,40 @@ monitor-resolve-breaches-link = 处理数据外泄事件
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = 社交媒体跟踪器
     .aria-label =
         { $count ->
            *[other] { $count } 个社交媒体跟踪器（{ $percentage }%）
         }
+    .title = 社交媒体跟踪器
 bar-tooltip-cookie =
-    .title = 跨站跟踪性 Cookie
     .aria-label =
         { $count ->
            *[other] { $count } 个跨站跟踪性 Cookie（{ $percentage }%）
         }
+    .title = 跨站跟踪性 Cookie
 bar-tooltip-tracker =
-    .title = 跟踪性内容
     .aria-label =
         { $count ->
            *[other] { $count } 个跟踪性内容（{ $percentage }%）
         }
+    .title = 跟踪性内容
 bar-tooltip-fingerprinter =
-    .title = 数字指纹跟踪程序
     .aria-label =
         { $count ->
            *[other] { $count } 个数字指纹跟踪程序（{ $percentage }%）
         }
+    .title = 数字指纹跟踪程序
 bar-tooltip-cryptominer =
-    .title = 加密货币挖矿程序
     .aria-label =
         { $count ->
            *[other] { $count } 个加密货币挖矿程序（{ $percentage }%）
         }
+    .title = 加密货币挖矿程序
 # Privacy Metrics Card
 privacy-metrics-title = 隐私保护
 # Variables:
 #   $count (Number) - Total number of trackers blocked this week
-privacy-metrics-blocked-this-week = 本周已拦截 { $count } 个
+privacy-metrics-blocked-this-week = 本周已拦截 { $count } 个项目
 # Variables:
 #   $count (Number) - Number of trackers blocked
 privacy-metrics-trackers = { $count } 个跟踪器

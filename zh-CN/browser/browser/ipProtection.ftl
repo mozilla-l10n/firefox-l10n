@@ -178,6 +178,8 @@ ipprotection-connection-status-network-error-title-1 = 请检查您的互联网�
 ipprotection-connection-status-network-error-description = 请先连接到互联网，然后尝试开启 VPN。
 ipprotection-connection-status-blocked-error-title-1 = VPN 不可用
     .aria-label = VPN 不可用
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = 受当地法律和限制措施约束，VPN 可能并非在所有位置都可用。<a data-l10n-name="learn-more-link">详细了解</a>
 ipprotection-connection-status-blocked-error-description = 当地法律未允许我们在此地区提供 VPN 服务。<a data-l10n-name="learn-more-link">详细了解</a>
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
