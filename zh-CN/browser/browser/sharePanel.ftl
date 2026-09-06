@@ -15,6 +15,17 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = 链接已复制
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] 通过 Windows 共享…
+            [macos] 通过 Mac 共享…
+           *[other] 共享方式
+        }
+share-panel-os-share =
+    .label = 共享方式
 share-panel-mail =
     .label = 发送邮件
 share-panel-screenshot =
@@ -45,3 +56,5 @@ share-panel-connect-device =
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = 看不到您的设备？
+share-panel-os-share-subview =
+    .title = 共享方式
