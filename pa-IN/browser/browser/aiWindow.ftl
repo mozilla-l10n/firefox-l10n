@@ -70,6 +70,7 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = ਪੁੱਛੋ, ਖੋਜੋ ਜਾਂ URL ਲਿਖੋ
+smartbar-placeholder-hint-1 = …ਸੱਜਰੀਆਂ ਟੈਬਾਂ ਦਾ ਜ਼ਿਕਰ ਕਰਨ ਲਈ @ ਨੂੰ ਵਰਤੋਂ
 smartbar-placeholder-hint-2 = …ਕੁਝ ਵੀ ਪੁੱਛੋ
 smartbar-placeholder-hint-3 = …ਵੈੱਬ ਸਿਰਨਾਵਾਂ ਦਿਓ
 smartbar-placeholder-hint-4 = …ਵੈੱਬ ਉੱਤੇ ਖੋਜੋ
@@ -97,11 +98,14 @@ aiwindow-website-chip-remove-button =
 
 aiwindow-firstrun-title = { -smart-window-brand-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 aiwindow-firstrun-model-title = ਤੁਹਾਡੇ ਲਈ ਕੀ ਜ਼ਰੂਰੀ ਹੈ?
+aiwindow-firstrun-model-title-v2 = ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਮਾਡਲ ਨੂੰ ਚੁਣੋ
 aiwindow-firstrun-model-subtitle = { -smart-window-brand-name } ਨੂੰ ਚਲਾਉਣ ਲਈ ਕਿਸੇ ਮਾਡਲ ਨੂੰ ਚੁਣੋ। ਕਿਸੇ ਵੀ ਸਮੇਂ ਬਦਲ ਦਿਓ।
+aiwindow-firstrun-model-subtitle-v2 = ਹਰ ਮਾਡਲ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਦੁਆਲੇ ਸਾਰ ਬਣਾਉਣ, ਟਾਕਰਾ ਕਰਨ ਅਤੇ ਜਾਣਕਾਰੀ ਲੱਭਣ ਲਈ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ। ਕਿਸੇ ਵੇਲੇ ਵੀ ਬਦਲ ਲਵੋ।
 aiwindow-firstrun-model-fast-label = ਤੇਜ਼
 aiwindow-firstrun-model-fast-body = ਫ਼ੌਰਨ ਜਵਾਬ ਦਿਓ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = ਤੇਜ਼: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = ਜਦੋਂ ਤੁਹਾਨੂੰ ਕਾਹਲੀ ਹੋਵੇ ਤਾਂ ਫ਼ੌਰੀ ਜਵਾਬ ਦੇਣ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -117,6 +121,7 @@ aiwindow-firstrun-model-personal-label = ਨਿੱਜੀ
 aiwindow-firstrun-model-personal-body = ਸਭ ਤੋਂ ਵੱਧ ਢੁੱਕਵੇਂ ਜਵਾਬ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = ਨਿੱਜੀ: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਨਿੱਜੀ ਮਦਦ ਵਾਸਤੇ ਬਣਾਇਆ
 aiwindow-firstrun-button = ਆਓ ਚੱਲੀਏ
 aiwindow-firstrun-back-button = ਪਿੱਛੇ
 aiwindow-firstrun-next-button = ਅੱਗੇ
@@ -320,6 +325,7 @@ aiwindow-feedback-modal-title = ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ
 aiwindow-feedback-what-worked-well = ਕਿਹੜੀ ਚੀਜ਼ ਕੰਮ ਕਰਦੀ ਸੀ? ਕੋਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨਾ ਦਿਓ ਜੀ।
 aiwindow-feedback-choose-any = ਲਾਗੂ ਹੋਣ ਵਾਲੀ ਕੋਈ ਵੀ ਚੀਜ਼ ਚੁਣੋ
 aiwindow-feedback-add-details = ਜੇ ਤੁਸੀਂ ਚਾਹੋ ਤਾਂ ਵੇਰਵੇ ਵੀ ਭਰ ਦਿਓ। ਕੋਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨਾ ਦਿਓ ਜੀ।
+aiwindow-feedback-disclaimer = ਭੇਜਣ ਵੇਲੇ ਤੁਹਾਡੇ ਸੁਝਾਅ ਅਤੇ ਇਸ ਗੱਲਬਾਤ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਕਿ { -brand-shorter-name } { -smart-window-brand-name } ਵਿੱਚ ਸੁਧਾਰ ਕਰ ਸਕੇ। ਤੁਹਾਡੀਆਂ ਹੋਰ ਗੱਲਾਂਬਾਤਾਂ ਪ੍ਰਾਈਟੇਟ ਹੀ ਰਹਿੰਦੀਆਂ ਹਨ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 aiwindow-feedback-submit = ਭੇਜੋ
 aiwindow-feedback-cancel = ਰੱਦ ਕਰੋ
 aiwindow-feedback-reason-incorrect-or-misleading = ਗਲਤ ਜਾਂ ਗੁੰਮਰਾਹਕੁੰਨ
