@@ -45,6 +45,8 @@ managed-notice-info-icon =
     .alt = Información
 managed-notice-nav =
     .label = Su navegador está siendo administrado por su organización.
+tls-key-logging-notice-nav =
+    .label = Una aplicación o servicio puede ver el tráfico cifrado.
 category-list =
     .aria-label = Categorías
 pane-general-title = General
@@ -191,6 +193,10 @@ windows-launch-on-login =
     .label = Abrir { -brand-short-name } automáticamente al iniciar el ordenador
     .accesskey = A
 windows-launch-on-login-disabled = Esta opción se ha desactivado en Windows. Para cambiarla, visite <a data-l10n-name="startup-link">Aplicaciones de inicio</a> en la configuración del sistema.
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
+windows-launch-on-login-open-new-tab =
+    .label = También abrir una nueva pestaña
+    .accesskey = n
 windows-launch-on-login-profile-disabled = Active esta preferencia marcando “{ profile-manager-use-selected.label }” en la ventana “Seleccionar perfil de usuario”.
 startup-restore-warn-on-quit =
     .label = Advertirle al salir del navegador
@@ -868,6 +874,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Buscar texto cuando comience a escribir
     .accesskey = x
+settings-keyboard-shortcuts-group =
+    .description = Controle cómo se mueve e interactúa con { -brand-short-name }.
+    .label = Atajos de teclado
+settings-keyboard-shortcuts-customkeys-link =
+    .label = Personalizar los atajos de teclado
 settings-media-group =
     .label = Medios
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1233,8 +1244,28 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Añadir nuevo contenedor
     .accesskey = A
+containers-new-tab-check3 =
+    .label = Seleccionar un contenedor para cada nueva pestaña
+    .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = No usar contenedores para enlaces abiertos desde aplicaciones externas
+    .accesskey = N
 containers-settings-button2 =
     .title = Ajustes
+containers-remove-button3 =
+    .title = Eliminar
+containers-sites-add-button =
+    .label = Añadir sitio web
+    .accesskey = A
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Contenedor para { $site }
+containers-site-remove-button =
+    .title = Eliminar
 containers-remove-button2 =
     .title = Eliminar
 
@@ -1570,6 +1601,7 @@ forms-primary-pw-use-2 =
     .accesskey = U
 forms-primary-pw-set =
     .label = Establecer contraseña maestra
+forms-primary-pw-on-2 = La contraseña maestra está <strong>ACTIVADA</strong>
 forms-primary-pw-on =
     .label = La contraseña maestra está activada
 forms-primary-pw-change-2 =
@@ -1694,6 +1726,27 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = No se han añadido direcciones
+personal-info-group =
+    .label = Información personal
+autofill-personal-info-checkbox-message =
+    .label = Guardar y autocompletar información personal
+autofill-personal-info-manage-button =
+    .label = Administrar información personal
+passports-list-header =
+    .label = Pasaportes
+passports-delete-passport-button-label =
+    .aria-label = Eliminar
+passports-edit-passport-button-label =
+    .aria-label = Editar
+passports-delete-passport-prompt-title = ¿Eliminar este pasaporte?
+passports-delete-passport-prompt-confirm-button = Eliminar
+passports-delete-passport-prompt-cancel-button = Cancelar
+autofill-passports-add-button = Añadir nuevo pasaporte
+autofill-personal-info-manage-title =
+    .heading = Administrar información personal
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = No se añadieron pasaportes
 pane-passwords-autofill-title2 = Contraseñas y autocompletado
     .title = Contraseñas y autocompletado
 preferences-passwords-autofill-header =
@@ -2515,6 +2568,8 @@ browser-theme-group =
     .label = Tema del navegador
 browser-theme-manage-link =
     .label = Administrar temas de { -brand-short-name }
+appearance-window-density-radio-group =
+    .aria-label = Densidad de ventana
 related-settings-group =
     .label = Ajustes relacionados
 related-settings-accessibility-link =

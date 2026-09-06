@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
         }
 tab-splitview-splitter =
     .aria-label = Cambiar el tamaño de las pestañas de vista dividida
+tab-devtools-splitter =
+    .aria-label = Cambiar tamaño del panel de herramientas de desarrollador
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -181,8 +183,14 @@ tabbrowser-customizemode-tab-title = Personalizar { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Silenciar pestaña
     .accesskey = S
+tabbrowser-context-mute-tab2 =
+    .label = Silenciar
+    .accesskey = S
 tabbrowser-context-unmute-tab =
     .label = Restaurar sonido en pestaña
+    .accesskey = R
+tabbrowser-context-unmute-tab2 =
+    .label = Restaurar sonido
     .accesskey = R
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
@@ -337,6 +345,9 @@ tab-group-editor-done =
     .label = Hecho
     .accessKey = H
 # Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = Compartir grupo
+# Share is a verb here. Meaning to "Share" the "tab group"
 tab-group-editor-action-share-tab-group =
     .label = Compartir grupo de pestañas
 tab-context-reopen-tab-group =
@@ -383,6 +394,12 @@ tab-group-context-move-to-new-window =
 # user's current window.
 tab-group-context-move-to-this-window =
     .label = Mover grupo a esta ventana
+# For a tab group that is open in any window, build a shareable link for the
+# tab group and open the content sharing dialog. Share is a verb here.
+# .badge labels this menu item as a newly introduced feature.
+tab-group-context-share-group =
+    .badge = Nuevo
+    .label = Compartir grupo
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.
@@ -419,8 +436,8 @@ tab-note-editor-button-save =
     .label = Guardar
     .accesskey = G
 tab-note-editor-button-delete =
-    .title = Eliminar nota
     .aria-label = Eliminar nota
+    .title = Eliminar nota
     .accesskey = E
 tab-note-preview-edit-icon =
     .alt = Editar nota
