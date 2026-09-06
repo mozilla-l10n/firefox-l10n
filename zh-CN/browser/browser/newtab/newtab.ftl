@@ -717,10 +717,10 @@ newtab-discovery-empty-section-topstories-timed-out = 哎呀！无法完全加�
 
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
-    .aria-label = 上一页
+    .aria-label = 上一篇
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
-    .aria-label = 下一页
+    .aria-label = 上一篇
 # Button that pauses autoplay on the carousel.
 newtab-carousel-pause =
     .aria-label = 暂停自动播放
@@ -1832,7 +1832,7 @@ newtab-clock-city-us-honolulu = 火奴鲁鲁
 newtab-clock-city-us-anchorage = 安克雷奇
 newtab-clock-city-de-berlin = 柏林
 newtab-clock-city-de-munich = 慕尼黑
-newtab-clock-city-de-frankfurt = 美因河畔法兰克福
+newtab-clock-city-de-frankfurt = 法兰克福
 newtab-clock-city-de-hamburg = 汉堡
 newtab-clock-city-fr-paris = 巴黎
 newtab-clock-city-fr-lyon = 里昂

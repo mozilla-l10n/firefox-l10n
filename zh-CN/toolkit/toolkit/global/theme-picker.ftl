@@ -32,10 +32,10 @@ theme-picker-flame =
     .label = 烈焰
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare =
-    .label = 耀斑
+    .label = 耀光
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender =
-    .label = 薰衣草
+    .label = 草紫
 # Name for a medium purple theme. Refers to the sky just after sunset.
 theme-picker-dusk =
     .label = 薄暮
@@ -77,10 +77,10 @@ theme-picker-flame-aria-label =
     .aria-label = 烈焰
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare-aria-label =
-    .aria-label = 耀斑
+    .aria-label = 耀光
 # Name for a soft purple theme. Refers to the lavender flower.
 theme-picker-lavender-aria-label =
-    .aria-label = 薰衣草
+    .aria-label = 草紫
 # Name for a medium purple theme. Refers to the sky just after sunset.
 theme-picker-dusk-aria-label =
     .aria-label = 薄暮

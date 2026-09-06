@@ -45,7 +45,7 @@ ai-window-toggleview-open-private =
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = 经典窗口
 toolbar-switcher-customizable-label =
-    .label = { -smart-window-brand-name } 切换器
+    .label = { -smart-window-brand-name }切换菜单
     .tooltiptext = 切换使用智能和经典窗口
 
 ## Input CTA
@@ -349,7 +349,7 @@ aiwindow-ai-chat-grid-grid-view =
 
 aiwindow-starter-writing-first-draft = 撰写初稿
 aiwindow-starter-writing-improve = 润色文笔
-aiwindow-starter-writing-proofread = 核对消息
+aiwindow-starter-writing-proofread = 校对邮件
 aiwindow-starter-planning-simplify = 简化主题
 aiwindow-starter-planning-brainstorm = 集思广益
 aiwindow-starter-planning-plan = 帮助制定计划
