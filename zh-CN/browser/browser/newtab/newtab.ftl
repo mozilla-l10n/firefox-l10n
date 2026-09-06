@@ -442,6 +442,9 @@ newtab-picture-image-alt = 维基共享资源 · 每日一图
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = 近期搜索
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = “近期搜索”选项
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = 详细了解
 
@@ -896,6 +899,10 @@ newtab-wallpaper-dark-mountain = 山地景观
 newtab-wallpaper-dark-city = 紫色城市景观
 newtab-wallpaper-dark-fox-anniversary = 树林旁边人行道上的狐狸
 newtab-wallpaper-light-fox-anniversary = 迷蒙山景中草地上的狐狸
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = 返回“定制”
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a
