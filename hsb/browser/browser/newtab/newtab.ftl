@@ -217,7 +217,7 @@ newtab-privacy-empty-state = { -brand-short-name } přesćěhowaki awtomatisce b
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
-newtab-privacy-empty-state-tally = Hlejće aktualnu cyłkowna ličba.
+newtab-privacy-empty-state-tally = Hlejće aktualnu cyłkownu ličbu.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 

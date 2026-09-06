@@ -382,5 +382,5 @@ aiwindow-starter-scroll-end =
 # Variables:
 #   $text (String) - The suggestion headline being dismissed
 aiwindow-starter-dismiss =
-    .aria-label = { $text } začinić
-    .title = { $text } začinić
+    .aria-label = { $text } zaćisnyć
+    .title = { $text } zaćisnyć
