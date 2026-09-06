@@ -1254,6 +1254,12 @@ containers-remove-button3 =
 containers-sites-add-button =
     .label = 添加网站
     .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = 用于 { $site } 的身份
+containers-site-remove-button =
+    .title = 删除
 containers-remove-button2 =
     .title = 移除
 
@@ -2613,6 +2619,12 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .description = 打开链接前快速查看摘要。
     .label = 链接预览中的要点
+preferences-ai-controls-speech-recognition-control =
+    .description = 本地转录语音。
+    .label = 语音识别
+preferences-ai-controls-sidebar-chatbot-group-3 =
+    .description = 同屏使用聊天机器人和浏览网页。有多个提供方可供选择，并可随时切换。
+    .label = 侧栏中 AI 聊天机器人的提供方
 preferences-ai-controls-sidebar-chatbot-group-2 =
     .description = 同屏使用聊天机器人和浏览网页，可选择 Anthropic Claude、ChatGPT、Copilot、Google Gemini 或 Mistral Vibe。
     .label = 侧栏中 AI 聊天机器人的提供方
@@ -2642,6 +2654,7 @@ preferences-ai-controls-block-confirmation-pdfjs = 在 { -brand-short-name } PDF
 preferences-ai-controls-block-confirmation-tab-group-suggestions = 建议标签页群组
 preferences-ai-controls-block-confirmation-key-points = 预览链接时生成要点
 preferences-ai-controls-block-confirmation-sidebar-chatbot = 侧栏中的聊天机器人提供方
+preferences-ai-controls-block-confirmation-speech-recognition = 语音识别
 preferences-ai-controls-block-confirmation-features-after = 屏蔽后，使用由 { -brand-short-name } 提供的 AI 的扩展也将受影响。
 preferences-ai-controls-block-confirmation-cancel =
     .label = 取消
@@ -2746,6 +2759,8 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Cookie
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = 允许所有 Cookie
+preferences-etp-custom-cookie-behavior-block-cross-site-tracking-cookies =
+    .label = 拦截跨站跟踪性 Cookie
 preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
     .label = 拦截跨站 Cookie
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =

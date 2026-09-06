@@ -59,6 +59,7 @@ fxa-menu-manage-account-subtitle = 管理账户
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = 登录同步服务
+fxa-menu-sign-in-promo-message = 数据随身带着走
 fxa-menu-sign-in-promo-button =
     .label = 登录
 # Card shown in the account menu when a previously signed-in account is

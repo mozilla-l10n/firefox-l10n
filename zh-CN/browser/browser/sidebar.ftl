@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI 聊天机器人
 menu-view-contextual-password-manager =
     .label = 密码
+menu-view-resource-monitor =
+    .label = 资源监视器
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -82,6 +84,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 悬停时展开侧栏
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = 悬停时显示预览
 sidebar-manage-extensions2 = 管理所有扩展
 sidebar-customize-extensions-header2 = 扩展
 sidebar-customize-firefox-tools-header2 =
@@ -162,6 +168,24 @@ sidebar-opentabs-sort-option-order =
 sidebar-opentabs-sort-option-recency =
     .label = 上次使用时间
 
+## Labels for the open tabs hover preview
+
+# Heading at the top of the preview shown when hovering the Open Tabs button
+# in the sidebar. "Recent tabs" refers to the tabs that were active most
+# recently, not to tabs that were recently opened.
+sidebar-opentabs-preview-heading = 近期标签页
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = 关闭“{ $tabTitle }”
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = 静音标签页
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = 取消静音标签页
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -181,6 +205,8 @@ sidebar-menu-customize-label =
     .label = 定制侧栏
 sidebar-menu-contextual-password-manager-label =
     .label = 密码
+sidebar-menu-resource-monitor-label =
+    .label = 资源监视器
 sidebar-menu-more-tools-label =
     .label = 更多工具
 

@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } 将在启动时打开最近一次使用的配置文件。
 profile-window-create-profile = 创建配置文件
 profile-card-edit-button =
-    .title = 编辑配置文件
     .aria-label = 编辑配置文件
+    .title = 编辑配置文件
 profile-card-delete-button =
-    .title = 删除配置文件
     .aria-label = 删除配置文件
+    .title = 删除配置文件
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = 打开“{ $profileName }”
     .aria-label = 打开“{ $profileName }”
+    .title = 打开“{ $profileName }”
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = 配置文件 { $number }
@@ -55,6 +55,8 @@ avatar-selector-upload-file = 上传文件
 avatar-selector-drag-file = 或拖放文件到此处
 avatar-selector-add-image = 添加图像
 avatar-selector-crop = 裁剪
+avatar-selector-dialog =
+    .aria-label = 编辑图标
 edit-profile-page-no-name = 为此配置文件命名，方便以后查找。可随时重命名。
 edit-profile-page-duplicate-name = 配置文件名已被占用，请尝试使用其他名称。
 edit-profile-page-profile-saved = 已保存
@@ -288,9 +290,6 @@ profiles-appmenu-callout-tour-subtitle = 在 ☰ 菜单中，点击配置文件�
 profiles-appmenu-callout-tour-primary-button = 怎么做
 barbell-avatar = 杠铃
 bike-avatar = 自行车
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = 应用杠铃图标
 bike-avatar-tooltip =
