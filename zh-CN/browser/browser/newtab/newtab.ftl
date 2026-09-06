@@ -212,13 +212,19 @@ newtab-privacy-etp-off-turn-on-tracking = 前往“设置”开启跟踪保护�
 ## yet; the labels are authored so the pairing is ready).
 
 newtab-privacy-message-info-1 = { -brand-short-name } 会在您浏览时自动拦截跟踪器。
+newtab-privacy-message-info-1-cta = 查看保护情况
 newtab-privacy-message-info-2 = 拦截跟踪器有助于阻止大公司在网络上跟踪您。
+newtab-privacy-message-info-2-cta = 查看保护信息
 newtab-privacy-message-info-3 = 许多网站都藏有跟踪器，使得您未曾打过交道的公司也可以在网络上跟踪您。
+newtab-privacy-message-info-3-cta = 查看保护信息
 newtab-privacy-message-info-4 = 选择 { -brand-short-name }，即是选择无需您费心的保护功能。
+newtab-privacy-message-info-4-cta = 查看保护信息
 newtab-privacy-message-info-5 = 拦截跟踪器后，大公司将更难跨网站跟踪您。
+newtab-privacy-message-info-5-cta = 查看保护信息
 newtab-privacy-message-info-6 = 用 { -brand-short-name } 守护您的数据。我们绝不会出售您的数据，无论其他浏览器作何选择。
 newtab-privacy-message-info-6-cta = 详细了解
 newtab-privacy-message-info-7 = 看看 { -brand-short-name } 拦截了哪些跟踪器。
+newtab-privacy-message-info-7-cta = 查看保护信息
 newtab-privacy-message-info-8 = 使用 { -brand-short-name } 浏览，即是在支持 { -vendor-short-name } 的使命：建设更好的网络。
 newtab-privacy-message-info-8-cta = 详细了解
 newtab-privacy-message-info-9 = 将 { -brand-short-name } 设为默认浏览器，享受内置隐私保护。
@@ -228,7 +234,9 @@ newtab-privacy-message-info-10-cta = 转到密码
 newtab-privacy-message-info-11 = 了解 { -brand-short-name } 如何帮助您更私密地浏览。
 newtab-privacy-message-info-11-cta = 详细了解
 newtab-privacy-message-info-12 = 使用限量数据流量套餐时，拦截跟踪器有助于节省带宽。
+newtab-privacy-message-info-12-cta = 查看保护信息
 newtab-privacy-message-info-13 = { -brand-short-name } 会拦截跟踪器，从而释放带宽，让流播放更流畅。
+newtab-privacy-message-info-13-cta = 查看保护信息
 
 ## Privacy widget — promotional messages
 ##
@@ -261,17 +269,24 @@ newtab-privacy-message-promo-relay-3-cta = 获取马甲邮箱
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+newtab-privacy-message-milestone-week-cta = 查看保护信息
 # Variables:
 #   $count (number) - Trackers blocked this month
 newtab-privacy-message-milestone-month = 本月已拦截 { $count } 个跟踪器。隐私一小步，心安一大步。
+newtab-privacy-message-milestone-month-cta = 查看保护信息
 # Variables:
 #   $count (number) - Trackers blocked this year
 newtab-privacy-message-milestone-year = 今年已拦截 { $count } 个跟踪器。这一年对您的隐私保护，卓有成效。
+newtab-privacy-message-milestone-year-cta = 查看保护信息
+newtab-privacy-message-milestone-total-cta = 查看保护信息
+newtab-privacy-message-daily-cap-cta = 查看保护信息
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
 newtab-privacy-message-streak = 您已连续受保护 { $count } 天。
+newtab-privacy-message-streak-cta = 查看保护信息
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = 继续浏览，{ -brand-short-name } 将持续拦截。
+newtab-privacy-message-first-protection-cta = 查看保护信息
 
 ## Strings for the Stocks widget
 
