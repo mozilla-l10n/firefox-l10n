@@ -1355,6 +1355,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = 将所有小组件收缩为紧凑大小
     .title = 最小化小组件
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = 显示小组件版块
+    .title = 显示小组件
 newtab-widget-section-menu-button =
     .aria-label = 打开小组件菜单
     .title = 小组件菜单
