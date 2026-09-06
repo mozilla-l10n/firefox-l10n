@@ -26,13 +26,17 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ## Panel
 
 site-exclusion-toggle-enabled-1 =
-    .label = Използвайте VPN за този сайт
     .aria-label = VPN е включен за този сайт
+    .label = Използвайте VPN за този сайт
 
 ## Status card
 
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Изключване на VPN
+
+## Location controls
+
+ipprotection-recommended-location-badge = НОВО
 
 ## VPN paused state
 
@@ -55,20 +59,20 @@ ip-protection-bandwidth-warning-infobar-message-90 = <strong>Данните за
 ## IP Protection Settings
 
 ip-protection-description-1 =
-    .label = Вграден VPN
     .description = Получете допълнителна поверителност, като скриете местоположението си, докато сърфирате.
+    .label = Вграден VPN
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Управление на настройките за сайтове
     .description =
         { $count ->
             [one] { $count } сайт
            *[other] { $count } сайта
         }
+    .label = Управление на настройките за сайтове
 ip-protection-vpn-upgrade-link =
-    .label = Получете още повече защита извън { -brand-short-name } с { -mozilla-vpn-brand-name }
     .description = Изберете персонализирани VPN местоположения и добавете защита към всичките си приложения на до пет устройства, независимо дали сте у дома или на обществена Wi-Fi.
+    .label = Получете още повече защита извън { -brand-short-name } с { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 
@@ -78,3 +82,4 @@ ip-protection-exceptions-dialog-window =
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN е поставен на пауза
+vpn-error-page-new-session = Започнете нова сесия

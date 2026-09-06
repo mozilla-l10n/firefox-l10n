@@ -887,6 +887,42 @@ newtab-wallpaper-light-fox-anniversary = 迷蒙山景中草地上的狐狸
 ## Firefox wallpaper kept for them when it was retired.
 
 newtab-wallpaper-your-images = 您的图片
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = 您保存的图片、壁纸
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = 图片 { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = 移除“{ $name }”
+    .title = 移除图片
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = 移除图片 { $number }
+    .title = 移除图片 { $number }
+newtab-wallpaper-remove-image-title = 确定要移除图片吗？
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = 此操作不可撤销。
+newtab-wallpaper-remove-image-confirm = 移除
+newtab-wallpaper-remove-image-cancel = 取消
 
 ## Solid Colors
 
@@ -980,6 +1016,9 @@ newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = 搜索位置
     .placeholder = 搜索位置
+newtab-weather-cancel-input =
+    .aria-label = 取消
+    .title = 取消
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = 使用当前位置
@@ -1090,6 +1129,8 @@ newtab-section-follow-highlight-subtitle = 随心所好，悦见更多。
 
 newtab-topic-navigation-label =
     .aria-label = 主题
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = 更多
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1229,6 +1270,10 @@ newtab-widget-lists-menu-create = 创建新清单
 newtab-widget-lists-menu-delete = 删除此清单
 newtab-widget-lists-menu-copy = 复制清单到剪贴板
 newtab-widget-lists-menu-learn-more = 详细了解
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = 更改清单
+    .title = 更改清单
 newtab-widget-lists-button-add-item = 添加项目
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = 添加项目

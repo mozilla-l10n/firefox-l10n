@@ -17,6 +17,7 @@ smart-window-context-chips-tag-count =
 
 smartwindow-assistant-error-generic-header = Нещо се обърка. Моля, опитайте отново.
 smartwindow-retry-btn = Опитайте отново
+smartwindow-clear-btn = Нов разговор
 smartwindow-signin-btn = Вписване
 
 ## Assistant Message footer
