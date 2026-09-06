@@ -513,3 +513,11 @@ plugins-openh264-name = Codec Video OpenH264 disediakan oleh Cisco Systems, Inc.
 plugins-openh264-description = Plugin ini diinstal secara otomatis oleh Mozilla untuk memenuhi spesifikasi WebRTC dan untuk mengaktifkan panggilan WebRTC dengan perangkat yang menggunakan codec video H.264. Kunjungi https://www.openh264.org/ untuk melihat kode sumber codec dan mempelajari implementasinya lebih lanjut.
 plugins-widevine-name = Modul Dekripsi Konten Widevine disediakan oleh Google Inc.
 plugins-widevine-description = Plugin ini memungkinkan pemutaran media terenkripsi sesuai dengan spesifikasi Encrypted Media Extensions. Media terenkripsi biasanya digunakan oleh situs untuk perlindungan terhadap penyalinan konten media premium. Kunjungi https://www.w3.org/TR/encrypted-media/ untuk informasi lebih lanjut tentang Encrypted Media Extensions.
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Peranti

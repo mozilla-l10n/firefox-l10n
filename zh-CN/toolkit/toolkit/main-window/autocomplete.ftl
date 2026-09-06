@@ -17,7 +17,7 @@ autocomplete-import-logins-chromium =
     <div data-l10n-name="line2">导入您用于 { $host } 和其他网站的登录信息</div>
 autocomplete-import-logins-chromium-edge =
     <div data-l10n-name="line1">从 Microsoft Edge 导入登录信息</div>
-    <div data-l10n-name="line2">导入您在 { $host } 和其他网站的登录信息</div>
+    <div data-l10n-name="line2">导入您用于 { $host } 和其他网站的登录信息</div>
 
 ##
 

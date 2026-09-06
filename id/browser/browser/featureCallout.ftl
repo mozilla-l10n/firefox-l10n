@@ -124,6 +124,8 @@ taskbar-tabs-email-callout-title = Simpan surel Anda di bilah tugas
 windows-10-eos-sync-urgency-title-1 = Jangan kehilangan semua yang telah Anda simpan saat pindah ke Windows 11.
 windows-10-eos-sync-urgency-subtitle-1 = Sinkronkan sekarang untuk menjaga markah, sandi, dan setelan { -brand-short-name } Anda aman dan mudah dipulihkan.
 windows-10-eos-sync-urgency-title-2 = Mengucapkan selamat tinggal ke Windows 10? Lindungi data Anda saat Anda beralih.
+windows-10-eos-sync-urgency-subtitle-2 = Bahkan bila Anda tidak memakai { -brand-short-name } sehari-hari, sinkronkan agar markah dan kata sandi tetap aman serta dapat diakses.
+windows-10-eos-sync-new-device-title-1 = Jangan mengambil risiko memulai dari awal di perangkat Anda berikutnya.
 
 ## Sidebar Strings
 
