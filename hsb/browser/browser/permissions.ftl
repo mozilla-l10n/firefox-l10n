@@ -4,6 +4,8 @@
 
 perm-persistent-storage-remember = Tutón rozsud sej spomjatkować
 speech-recognition-model-download-header = Rěčenske spóznaće konfigurować?
+# $sizeMB (Number) - the model download size in MB.
+speech-recognition-model-download-message = { -brand-short-name } rěčenske spóznaće lokalnje wuwjedźe, awdio tuž waš grat ženje njewopušća. Zo byšće to konfigurował, so sćehnjenje přibližnje { $sizeMB } MB započnje, hdyž pokročujeće.
 speech-recognition-model-download-allow =
     .label = Dale
     .accesskey = D
