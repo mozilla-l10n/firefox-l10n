@@ -171,40 +171,40 @@ monitor-resolve-breaches-link = Resolver filtraciones
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Rastreadores de redes sociales
     .aria-label =
         { $count ->
             [one] { $count } rastreador de redes sociales ({ $percentage }%)
            *[other] { $count } rastreadores de redes sociales ({ $percentage }%)
         }
+    .title = Rastreadores de redes sociales
 bar-tooltip-cookie =
-    .title = Cookies de rastreo entre sitios
     .aria-label =
         { $count ->
             [one] { $count } cookie de rastreo entre sitios ({ $percentage }%)
            *[other] { $count } cookies de rastreo entre sitios ({ $percentage }%)
         }
+    .title = Cookies de rastreo entre sitios
 bar-tooltip-tracker =
-    .title = Contenido de rastreo
     .aria-label =
         { $count ->
             [one] { $count } contenido de rastreo ({ $percentage }%)
            *[other] { $count } contenidos de rastreo ({ $percentage }%)
         }
+    .title = Contenido de rastreo
 bar-tooltip-fingerprinter =
-    .title = Detectores de huellas digitales
     .aria-label =
         { $count ->
             [one] { $count } detector de huellas digitales ({ $percentage }%)
            *[other] { $count } detectores de huellas digitales ({ $percentage }%)
         }
+    .title = Detectores de huellas digitales
 bar-tooltip-cryptominer =
-    .title = Criptomineros
     .aria-label =
         { $count ->
             [one] { $count } criptominero ({ $percentage }%)
            *[other] { $count } criptomineros ({ $percentage }%)
         }
+    .title = Criptomineros
 # Privacy Metrics Card
 privacy-metrics-title = Protecciones de privacidad
 # Variables:
@@ -253,6 +253,13 @@ protections-vpn-title = Lleve la protección de privacidad más allá del navega
 protections-vpn-header-content = Proteja todo su dispositivo con { -mozilla-vpn-brand-name }. Con un solo toque, se cifra todo el tráfico y oculta su ubicación.
 protections-get-vpn-link = Obtener { -mozilla-vpn-brand-name }
 protections-vpn-title-subscribed = VPN: Suscrito
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Usar { -mozilla-vpn-brand-name } cifra todo el tráfico y oculta la ubicación — en hasta { $count } dispositivo. Aproveche su suscripción al máximo — añádala desde <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Usar { -mozilla-vpn-brand-name } cifra todo el tráfico y oculta la ubicación — en hasta { $count } dispositivos. Aproveche su suscripción al máximo — añádala desde <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
 protections-vpn-banner-header = Protección que se extiende más allá del navegador
 protections-vpn-banner-content = Pruebe { -mozilla-vpn-brand-name } sin riesgos y vea por qué TechRadar dice que “su velocidad, simplicidad y bajo precio mensual hacen que valga la pena probarla”.
 protections-vpn-banner-link = Obtener { -mozilla-vpn-brand-name }

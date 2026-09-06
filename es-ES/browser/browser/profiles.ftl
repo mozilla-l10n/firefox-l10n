@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } se abrirá con el perfil usado más recientemente.
 profile-window-create-profile = Crear un perfil
 profile-card-edit-button =
-    .title = Editar perfil
     .aria-label = Editar perfil
+    .title = Editar perfil
 profile-card-delete-button =
-    .title = Eliminar perfil
     .aria-label = Eliminar perfil
+    .title = Eliminar perfil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Abrir { $profileName }
     .aria-label = Abrir { $profileName }
+    .title = Abrir { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Perfil { $number }
@@ -42,6 +42,8 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Eliminar
+edit-profile-page-avatar-selector-opener-button =
+    .title = Editar avatar
 edit-profile-page-avatar-selector-opener-link = Editar
 avatar-selector-icon-tab = Icono
 avatar-selector-custom-tab = Personalizado
@@ -53,6 +55,8 @@ avatar-selector-upload-file = Subir un archivo
 avatar-selector-drag-file = O arrastre un archivo aquí
 avatar-selector-add-image = Añadir una imagen
 avatar-selector-crop = Recortar
+avatar-selector-dialog =
+    .aria-label = Editar avatar
 edit-profile-page-no-name = Póngale nombre a este perfil para encontrarlo fácilmente en el futuro. Se puede renombrar en cualquier momento.
 edit-profile-page-duplicate-name = El nombre del perfil ya está en uso. Pruebe con un nombre nuevo.
 edit-profile-page-profile-saved = Guardado
@@ -95,6 +99,9 @@ delete-profile-logins = Contraseñas
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-page-title-2 = Eliminar el perfil "{ $profilename }"
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = ¿Eliminar el perfil “{ $profilename }”?
 
 ##
 
@@ -283,9 +290,6 @@ profiles-appmenu-callout-tour-subtitle = En el menú ☰, toque el nombre del pe
 profiles-appmenu-callout-tour-primary-button = Muéstrame cómo
 barbell-avatar = Barra con pesas
 bike-avatar = Bicicleta
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Aplicar avatar de barra con pesas
 bike-avatar-tooltip =
