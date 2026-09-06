@@ -951,6 +951,10 @@ newtab-wallpaper-dark-mountain = Fjellandskap
 newtab-wallpaper-dark-city = Lilla bylandskap
 newtab-wallpaper-dark-fox-anniversary = Ein rev på fortauet nær ein skog
 newtab-wallpaper-light-fox-anniversary = Ein rev i ei graskledd mark med eit tåkete fjellandskap
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Tilbake til tilpassing
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a
@@ -976,7 +980,16 @@ newtab-wallpaper-your-images-item-numbered = Bilde { $number }
 newtab-wallpaper-remove-image =
     .aria-label = Fjern { $name }
     .title = Fjern bildet
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Fjern bilde { $number }
+    .title = Fjern bilde { $number }
 newtab-wallpaper-remove-image-title = Fjerne bildet?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Denne handlinga kan ikkje angrast.
 newtab-wallpaper-remove-image-confirm = Fjern
 newtab-wallpaper-remove-image-cancel = Avbryt
 
