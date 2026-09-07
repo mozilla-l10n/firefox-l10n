@@ -53,10 +53,10 @@ webauthn-select-sign-result-prompt = Atrasti vairāki { $hostname } konti. Izvē
 webauthn-select-device-prompt = Atrastas vairākas { $hostname } ierīces. Lūdzu, atlasiet vienu.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
-webauthn-device-blocked-prompt = { $hostname } lietotāja verifikācija neizdevās. Nav atlicis neviens mēģinājums, un jūsu ierīce ir bloķēta, jo pārāk daudz reižu tika ievadīts nepareizs PIN. Ierīcei ir nepieciešama atiestatīšana.
+webauthn-device-blocked-prompt = { $hostname } lietotāja apliecināšana neizdevās. Nav atlicis neviens mēģinājums, un ierīce tika liegta, jo pārāk daudz reižu tika norādīts nepareizs PIN. Ierīcei ir nepieciešama atiestatīšana.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
-webauthn-pin-auth-blocked-prompt = { $hostname } lietotāja verifikācija neizdevās. Bija pārāk daudz neveiksmīgu mēģinājumu pēc kārtas, un PIN autentifikācija ir īslaicīgi bloķēta. Jūsu ierīce ir jāatvieno un tad jāpievieno.
+webauthn-pin-auth-blocked-prompt = { $hostname } lietotāja apliecināšana neizdevās. Bija pārāk daudz secīgu neizdevušos mēģinājumu, un autentificēšanās ar PIN ir īslaicīgi liegta. Ierīce ir jāatvieno un tad atkal jāpievieno.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-not-set-prompt = { $hostname } lietotāja verifikācija neizdevās. Iespējams, ierīcē būs jāiestata PIN.
