@@ -43,3 +43,75 @@ aiwindow-thumbs-up =
 aiwindow-thumbs-down =
     .aria-label = Bagikan umpan balik negatif
     .tooltiptext = Bagikan umpan balik negatif
+aiwindow-applied-memories-popover =
+    .aria-label = Panel memori
+aiwindow-applied-memories-list =
+    .aria-label = Memori
+# Variables:
+#   $summary (String) - The memory text that will be deleted
+aiwindow-delete-memory-button =
+    .aria-label = Hapus { $summary }
+
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Lompat ke ujung bawah obrolan
+    .tooltiptext = Lompat ke bawah
+
+## Natural Language Action
+
+smartwindow-nl-retry-tool-button =
+    .label = Coba Lagi
+smartwindow-nl-thinking = Mencari tab yang cocok…
+smartwindow-loading-assistant-response =
+    .aria-label = Memuat tanggapan asisten
+smartwindow-nl-undo-button =
+    .label = Urungkan
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label = { $count } tab ditutup
+smart-window-closed-tabs-summary = Selesai! Tab ditutup.
+smart-window-closed-tabs-row-label = Tab tertutup
+smart-window-closed-and-restored-label = Tab yang ditutup dan dipulihkan
+smart-window-restored-row-label = Memulihkan { $count } tab
+smart-window-restore-success-summary = Tab ditutup, lalu dipulihkan.
+smart-window-cancelled-label = Permintaan dibatalkan.
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tab = Grup
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs = Kelompokkan { $count } tab
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Buka
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs = Buka { $count } tab
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label = { $count } tab dikelompokkan
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Grup Tab
+smart-window-opened-tabs-row-label = Tab terbuka
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Beralih ke “{ $title }”.
+
+## Action log
+
+action-log-searching-tabs = Mencari tab
+action-log-searched-open-tabs = Tab terbuka telah dicari
+action-log-searching-history = Mencari riwayat
+action-log-searched-history = Riwayat telah dicari
+action-log-reading-page = Membaca laman
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Baca isi laman
+action-log-searching-web = Mencari web
+action-log-searched-web = Web telah dicari
+action-log-checking-memories = Memeriksa memori
+action-log-checked-memories = Memori telah diperiksa
+action-log-searching-settings = Mencari pengaturan
+action-log-searched-settings = Pengaturan telah dicari
+action-log-searching-world-cup-matches = Mencari pertandingan Piala Dunia
+action-log-searched-world-cup-matches = Pertandingan Piala Dunia telah dicari
