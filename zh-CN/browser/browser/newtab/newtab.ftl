@@ -715,6 +715,12 @@ newtab-discovery-empty-section-topstories-timed-out = 哎呀！无法完全加�
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = 第 { $index } 篇，共 { $total } 篇
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = 上一篇

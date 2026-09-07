@@ -206,6 +206,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = O { -brand-short-name } bloqueia rastreadores enquanto você navega. Eles são listados aqui.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = O { -brand-short-name } bloqueia rastreadores automaticamente, preservando a privacidade de mais atividades suas.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Aqui aparece o total atualizado.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -948,6 +954,40 @@ newtab-wallpaper-dark-mountain = Paisagem com montanhas
 newtab-wallpaper-dark-city = Paisagem de cidade em tonalidade violeta
 newtab-wallpaper-dark-fox-anniversary = Uma raposa na rua perto de uma floresta
 newtab-wallpaper-light-fox-anniversary = Uma raposa em um campo gramado com uma paisagem montanhosa enevoada
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Voltar ao painel Personalizar
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Suas imagens
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Suas imagens, fundos de tela que você salvou
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Imagem { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Remover { $name }
+    .title = Remover imagem
 
 ## Solid Colors
 
