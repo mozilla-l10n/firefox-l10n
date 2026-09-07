@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = por { $name }
 cfr-doorhanger-extension-notification = Recomendación
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recomendación
-    .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión disponible
+    .tooltiptext = Recomendación de extensión
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recomendación
-    .tooltiptext = Recomendación de la característica
     .a11y-announcement = Recomendación de las características disponibles
+    .tooltiptext = Recomendación de la característica
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -302,6 +302,9 @@ launch-on-login-infobar-final-reject-button = No, gracias
 ## experiment enabled launch-on-login for the user), informing them that this
 ## happened and letting them keep it on or turn it off.
 
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } ahora se inicia cuando inicias tu sesión en Windows. Puedes cambiar esta preferencia en los ajustes.
 launch-on-login-autostart-infobar-keep-button = Mantener activado
     .accesskey = K
 launch-on-login-autostart-infobar-turn-off-button = Desactivar
@@ -360,8 +363,8 @@ root-certificate-windows-background-notification-update-button = Actualizar { -b
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Cerrar
     .aria-label = Cerrar
+    .title = Cerrar
 fxa-menu-message-sign-up-button = Registrarse
 fxa-menu-message-sign-in-button = Iniciar sesión
 fxa-menu-message-sync-button = Empezar a sincronizar
