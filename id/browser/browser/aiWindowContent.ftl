@@ -93,6 +93,13 @@ smart-window-grouped-tabs-label = { $count } tab dikelompokkan
 # Fallback name used in place of $label above when the model didn't provide
 # one for the tab group.
 smart-window-default-tab-group-label = Grup Tab
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label = { $count } tab dibuka
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single = { $count } tab dibuka.
 smart-window-opened-tabs-row-label = Tab terbuka
 # Variables
 #   $title (String) - Title of the tab switched to
@@ -115,3 +122,22 @@ action-log-searching-settings = Mencari pengaturan
 action-log-searched-settings = Pengaturan telah dicari
 action-log-searching-world-cup-matches = Mencari pertandingan Piala Dunia
 action-log-searched-world-cup-matches = Pertandingan Piala Dunia telah dicari
+action-log-checking-world-cup-live = Memeriksa pertandingan Piala Dunia yang sedang berlangsung
+action-log-checked-world-cup-live = Pertandingan Piala Dunia yang sedang berlangsung telah dicari
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps = Menyelesaikan { $count } langkah
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Memuat hasil pencarian di tab ini. Menganalisis…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } lainnya
