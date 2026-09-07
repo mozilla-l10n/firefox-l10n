@@ -218,6 +218,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = Mae { -brand-short-name } yn rhwystro tracwyr wrth i chi bori. Byddwch yn eu gweld nhw yma.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = Mae { -brand-short-name } yn rhwystro tracwyr yn awtomatig, gan gadw mwy o'ch gweithgarwch yn breifat.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Gweler cyfrif cynyddol yma.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -997,6 +1003,27 @@ newtab-wallpaper-dark-mountain = Tirwedd mynydd
 newtab-wallpaper-dark-city = Tirwedd dinas borffor
 newtab-wallpaper-dark-fox-anniversary = Llwynog ar y palmant ger coedwig
 newtab-wallpaper-light-fox-anniversary = Llwynog mewn cae glaswelltog gyda thirlun mynydd niwlog
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Nôl i Gyfaddasu
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Eich delweddau
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Eich delweddau, papurau wal rydych wedi'u cadw
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
 
 ## Solid Colors
 

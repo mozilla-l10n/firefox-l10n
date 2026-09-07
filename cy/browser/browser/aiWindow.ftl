@@ -372,3 +372,13 @@ aiwindow-starter-planning-plan = Helpu i greu cynllun
 aiwindow-starter-browsing-history = Canfod tabiau yn eich hanes
 aiwindow-starter-browsing-summarize = Crynhoi tabiau
 aiwindow-starter-browsing-compare = Cymharu tabiau
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Cau { $text }
+    .title = Cau { $text }
