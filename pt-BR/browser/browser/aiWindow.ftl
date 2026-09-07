@@ -364,3 +364,19 @@ aiwindow-starter-planning-plan = Me ajude a planejar
 aiwindow-starter-browsing-history = Procure abas no histórico
 aiwindow-starter-browsing-summarize = Resuma abas
 aiwindow-starter-browsing-compare = Compare abas
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Deslizar para o início
+    .tooltiptext = Deslizar para o início
+aiwindow-starter-scroll-end =
+    .aria-label = Deslizar para o final
+    .tooltiptext = Deslizar para o final
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Descartar { $text }
+    .title = Descartar { $text }

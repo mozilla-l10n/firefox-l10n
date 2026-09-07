@@ -22,3 +22,6 @@ inactive-message = O serviço de diretivas corporativas está desativado.
 policy-name = Nome da diretiva
 policy-value = Valor da diretiva
 policy-errors = Erros de diretivas
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Não aplicado totalmente
