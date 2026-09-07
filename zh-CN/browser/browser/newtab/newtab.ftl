@@ -212,7 +212,7 @@ newtab-privacy-etp-off-turn-on-tracking = 前往“设置”开启跟踪保护�
 ## yet; the labels are authored so the pairing is ready).
 
 newtab-privacy-message-info-1 = { -brand-short-name } 会在您浏览时自动拦截跟踪器。
-newtab-privacy-message-info-1-cta = 查看保护情况
+newtab-privacy-message-info-1-cta = 查看保护信息
 newtab-privacy-message-info-2 = 拦截跟踪器有助于阻止大公司在网络上跟踪您。
 newtab-privacy-message-info-2-cta = 查看保护信息
 newtab-privacy-message-info-3 = 许多网站都藏有跟踪器，使得您未曾打过交道的公司也可以在网络上跟踪您。
@@ -343,8 +343,8 @@ newtab-stocks-add-to-watchlist =
 # Variables:
 #   $name (String) - the fund/ETF name.
 newtab-stocks-remove-from-watchlist =
-    .aria-label = 从关注列表中移除“{ $name }”
-    .title = 从关注列表中移除“{ $name }”
+    .aria-label = 从关注列表移除“{ $name }”
+    .title = 从关注列表移除“{ $name }”
 # Visually hidden text on a Markets row whose stock is already in the watchlist, so
 # screen readers announce that it is saved. Removal happens on the Watchlist tab.
 # Variables:
