@@ -206,6 +206,8 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = Siz internette gezinirken { -brand-short-name } takip kodlarını engeller. Engellenenleri burada göreceksiniz.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } takip kodlarını kendiliğinden engelleyerek internette yaptıklarınızın daha gizli kalmasını sağlar.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -935,6 +937,11 @@ newtab-wallpaper-your-images-folder =
 # Variables:
 #   $name (string) - The picture's own title, or the Firefox wallpaper's name
 newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Resim { $number }
 # Each saved image has its own remove button. The tooltip stays short because
 # a name can be long and some locales put it before the verb, which would push
 # "remove" out of view. The full name is on the label a screen reader reads.
@@ -943,6 +950,13 @@ newtab-wallpaper-your-images-item = { $name }
 newtab-wallpaper-remove-image =
     .aria-label = { $name } resmini kaldır
     .title = Resmi kaldır
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = { $number }. resmi kaldır
+    .title = { $number }. resmi kaldır
 newtab-wallpaper-remove-image-title = Resim kaldırılsın mı?
 # "This action" refers to removing a saved wallpaper image.
 newtab-wallpaper-remove-image-body = Bu işlem geri alınamaz.
