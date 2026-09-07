@@ -988,6 +988,18 @@ newtab-wallpaper-your-images-item-numbered = Imagem { $number }
 newtab-wallpaper-remove-image =
     .aria-label = Remover { $name }
     .title = Remover imagem
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Remover imagem { $number }
+    .title = Remover imagem { $number }
+newtab-wallpaper-remove-image-title = Remover imagem?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Esta ação não pode ser desfeita.
+newtab-wallpaper-remove-image-confirm = Remover
+newtab-wallpaper-remove-image-cancel = Cancelar
 
 ## Solid Colors
 
@@ -1081,6 +1093,9 @@ newtab-weather-menu-change-location = Mudar local
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Pesquisar local
     .placeholder = Pesquisar local
+newtab-weather-cancel-input =
+    .aria-label = Cancelar
+    .title = Cancelar
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Usar localização atual
@@ -1191,6 +1206,8 @@ newtab-section-follow-highlight-subtitle = Siga o que você se interessa para ap
 
 newtab-topic-navigation-label =
     .aria-label = Tópicos
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Mais
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1330,6 +1347,10 @@ newtab-widget-lists-menu-create = Criar nova lista
 newtab-widget-lists-menu-delete = Excluir esta lista
 newtab-widget-lists-menu-copy = Copiar lista para a área de transferência
 newtab-widget-lists-menu-learn-more = Saiba mais
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Mudar lista
+    .title = Mudar lista
 newtab-widget-lists-button-add-item = Adicionar um item
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Adicionar um item
@@ -1389,6 +1410,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Reduzir todos os widgets para tamanho compacto
     .title = Minimizar widgets
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Mostrar seção de widgets
+    .title = Mostrar widgets
 newtab-widget-section-menu-button =
     .aria-label = Abrir menu de widgets
     .title = Menu de widgets
