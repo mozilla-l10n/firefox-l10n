@@ -593,6 +593,7 @@ mlmodel-pdfjs = { -brand-short-name } używa tego do tworzenia tekstu alternatyw
 mlmodel-smart-tab-topic-engine = { -brand-short-name } używa tego do podpowiadania nazw grup kart
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } używa tego do proponowania organizacji kart w grupach kart
 mlmodel-formfill-engine = { -brand-short-name } używa tego do wypełniania adresów
+mlmodel-speech-recognition = { -brand-short-name } używa tego do rozpoznawania mowy na urządzeniu
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Sztuczna inteligencja na urządzeniu
 addon-category-mlmodel-title =

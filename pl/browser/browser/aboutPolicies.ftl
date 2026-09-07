@@ -22,3 +22,6 @@ inactive-message = Usługa zasad organizacji jest nieaktywna.
 policy-name = Nazwa
 policy-value = Wartość
 policy-errors = Błędy
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Stosowana częściowo
