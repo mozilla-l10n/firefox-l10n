@@ -257,3 +257,7 @@ touch-warning = asinhronā pieskāriena ievade deaktivēta neatbalstīta iestat�
 policies-inactive = Neaktīva
 policies-active = Aktīva
 policies-error = Kļūda
+
+## Content Analysis (DLP)
+
+content-analysis-request-count = Pieprasījumu skaits
