@@ -121,8 +121,8 @@ protections-panel-description-shim-allowed-learn-more = Więcej informacji
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Częściowo odblokowany element śledzący
 protections-panel-content-blocking-manage-settings =
-    .label = Zarządzaj ustawieniami ochrony
-    .accesskey = Z
+    .label = Ustawienia ochrony
+    .accesskey = U
 protections-panel-content-blocking-breakage-report-view =
     .title = Zgłoś niepoprawnie działającą stronę
 protections-panel-content-blocking-breakage-report-view-description = Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać { -brand-short-name(case: "acc") } (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli). <label data-l10n-name="learn-more">Więcej informacji</label>

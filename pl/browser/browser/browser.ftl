@@ -126,8 +126,8 @@ popups-infobar-dont-show-message2 =
     .label = Nie pokazuj tej wiadomości, kiedy wyskakujące okna lub zewnętrzne przekierowania są blokowane
     .accesskey = N
 edit-popup-settings2 =
-    .label = Zarządzaj ustawieniami wyskakujących okien i zewnętrznych przekierowań…
-    .accesskey = Z
+    .label = Ustawienia wyskakujących okien i zewnętrznych przekierowań…
+    .accesskey = U
 # Variables
 #   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
 urlbar-identity-button2 =
@@ -501,7 +501,7 @@ quickactions-translate = Przetłumacz
 quickactions-cmd-translate = przetłumacz, tłumacz, tłumaczenie, przełóż, przekład
 quickactions-cmd-screenshot = zrzut ekranu, screenshot, skrin
 # Opens about:preferences
-quickactions-settings2 = Zarządzaj ustawieniami
+quickactions-settings2 = Otwórz ustawienia
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = ustawienia, preferencje, opcje, zarządzaj
 quickactions-cmd-settings = ustawienia, preferencje, opcje
@@ -1421,8 +1421,8 @@ qrcode-save-filename-with-domain-base = kod-qr-{ $domain }
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Dźwięk lub obraz na tej stronie używa oprogramowania DRM, które może ograniczać możliwości oferowane przez { -brand-short-name(case: "acc") }.
-eme-notifications-drm-content-playing-manage = Zarządzaj ustawieniami
-eme-notifications-drm-content-playing-manage-accesskey = u
+eme-notifications-drm-content-playing-manage = Ustawienia
+eme-notifications-drm-content-playing-manage-accesskey = U
 eme-notifications-drm-content-playing-dismiss = Zamknij
 eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
@@ -1477,8 +1477,8 @@ popups-infobar-dont-show-message =
     .label = Nie pokazuj tej wiadomości, kiedy wyskakujące okna są blokowane
     .accesskey = N
 edit-popup-settings =
-    .label = Zarządzaj ustawieniami wyskakujących okien…
-    .accesskey = Z
+    .label = Ustawienia wyskakujących okien…
+    .accesskey = U
 picture-in-picture-hide-toggle =
     .label = Ukryj przycisk „Obraz w obrazie”
     .accesskey = U

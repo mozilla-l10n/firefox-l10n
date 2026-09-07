@@ -256,7 +256,7 @@ ip-protection-site-exceptions-all-sites-button =
             [few] { $count } witryny
            *[many] { $count } witryn
         }
-    .label = Zarządzaj ustawieniami witryn
+    .label = Ustawienia witryn
 ip-protection-autostart =
     .label = Automatycznie włączaj VPN
 ip-protection-autostart-checkbox =
@@ -273,7 +273,7 @@ ip-protection-vpn-upgrade-link-1 =
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
-    .title = Zarządzaj ustawieniami witryn
+    .title = Ustawienia witryn
 ip-protection-exclusions-desc = Używaj VPN na wszystkich witrynach poza wymienionymi na tej liście. Dodaj witrynę w tym miejscu lub otwierając VPN.
 
 ## IP Protection Bandwidth

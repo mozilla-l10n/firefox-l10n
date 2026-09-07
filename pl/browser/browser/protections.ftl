@@ -35,7 +35,7 @@ etp-card-title-always = Wzmocniona ochrona przed śledzeniem: zawsze włączona
 etp-card-title-custom-not-blocking = Wzmocniona ochrona przed śledzeniem: wyłączona
 etp-card-content-description = { -brand-short-name } automatycznie uniemożliwia firmom potajemne śledzenie Cię w Internecie.
 protection-report-etp-card-content-custom-not-blocking = Cała ochrona jest obecnie wyłączona. Wybierz, które elementy śledzące blokować w ustawieniach ochrony przeglądarki { -brand-short-name }.
-protection-report-manage-protections = Zarządzaj ustawieniami
+protection-report-manage-protections = Ustawienia
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = dzisiaj
@@ -179,45 +179,45 @@ monitor-resolve-breaches-link = Rozwiąż wycieki danych
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Elementy śledzące serwisów społecznościowych
     .aria-label =
         { $count ->
             [one] { $count } element śledzący serwisów społecznościowych ({ $percentage }%)
             [few] { $count } elementy śledzące serwisów społecznościowych ({ $percentage }%)
            *[many] { $count } elementów śledzących serwisów społecznościowych ({ $percentage }%)
         }
+    .title = Elementy śledzące serwisów społecznościowych
 bar-tooltip-cookie =
-    .title = Ciasteczka śledzące między witrynami
     .aria-label =
         { $count ->
             [one] { $count } ciasteczko śledzące między witrynami ({ $percentage }%)
             [few] { $count } ciasteczka śledzące między witrynami ({ $percentage }%)
            *[many] { $count } ciasteczek śledzących między witrynami ({ $percentage }%)
         }
+    .title = Ciasteczka śledzące między witrynami
 bar-tooltip-tracker =
-    .title = Treści z elementami śledzącymi
     .aria-label =
         { $count ->
             [one] { $count } treść z elementami śledzącymi ({ $percentage }%)
             [few] { $count } treści z elementami śledzącymi ({ $percentage }%)
            *[many] { $count } treści z elementami śledzącymi ({ $percentage }%)
         }
+    .title = Treści z elementami śledzącymi
 bar-tooltip-fingerprinter =
-    .title = Elementy śledzące przez zbieranie informacji o konfiguracji
     .aria-label =
         { $count ->
             [one] { $count } element śledzący przez zbieranie informacji o konfiguracji ({ $percentage }%)
             [few] { $count } elementy śledzące przez zbieranie informacji o konfiguracji ({ $percentage }%)
            *[many] { $count } elementów śledzących przez zbieranie informacji o konfiguracji ({ $percentage }%)
         }
+    .title = Elementy śledzące przez zbieranie informacji o konfiguracji
 bar-tooltip-cryptominer =
-    .title = Elementy używające komputera użytkownika do generowania kryptowalut
     .aria-label =
         { $count ->
             [one] { $count } element używający komputera użytkownika do generowania kryptowalut ({ $percentage }%)
             [few] { $count } elementy używające komputera użytkownika do generowania kryptowalut ({ $percentage }%)
            *[many] { $count } elementów używających komputera użytkownika do generowania kryptowalut ({ $percentage }%)
         }
+    .title = Elementy używające komputera użytkownika do generowania kryptowalut
 # Privacy Metrics Card
 privacy-metrics-title = Ochrona prywatności
 # Variables:

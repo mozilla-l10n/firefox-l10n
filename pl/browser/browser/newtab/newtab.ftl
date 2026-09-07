@@ -656,7 +656,7 @@ newtab-menu-report-this-ad = Zgłoś tę reklamę
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = OK
-newtab-privacy-modal-button-manage = Zarządzaj ustawieniami treści sponsorowanych
+newtab-privacy-modal-button-manage = Ustawienia treści sponsorowanych
 newtab-privacy-modal-header = Twoja prywatność jest ważna.
 newtab-privacy-modal-paragraph-2 =
     Oprócz ciekawych artykułów pokazujemy Ci również spersonalizowane,

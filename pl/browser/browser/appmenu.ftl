@@ -137,7 +137,7 @@ fxa-menu-sync-off-signin-description = Zaloguj się do synchronizacji
 #   $deviceName (String): The name of the local device.
 fxa-menu-sync-device-now = Synchronizuj „{ $deviceName }”
 fxa-menu-manage-sync-settings =
-    .label = Zarządzaj ustawieniami synchronizacji
+    .label = Ustawienia synchronizacji
 fxa-menu-add-device =
     .label = Dodaj urządzenie
 fxa-menu-manage-devices =
