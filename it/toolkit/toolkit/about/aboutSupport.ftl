@@ -134,6 +134,16 @@ a11y-activated = Attivato
 a11y-force-disabled = Blocca servizi accessibilità
 a11y-handler-used = Handler accessibilità utilizzato
 a11y-instantiator = Istanziatore accessibilità
+pdfjs-title = Visualizzatore PDF
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = Versione PDF.js
+pdfjs-enabled = Attivo
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Editor delle annotazioni attivo
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Moduli XFA attivi
+pdfjs-open-attachments-inline = Apri allegati PDF in linea
 library-version-title = Versioni librerie
 copy-text-to-clipboard-label = Copia il testo negli appunti
 copy-raw-data-to-clipboard-label = Copia i dati non elaborati negli appunti
