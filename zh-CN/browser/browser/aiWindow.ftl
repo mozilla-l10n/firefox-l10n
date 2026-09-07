@@ -360,6 +360,12 @@ aiwindow-starter-browsing-compare = 比较标签页
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 
+aiwindow-starter-scroll-start =
+    .aria-label = 向后滚动
+    .tooltiptext = 向后滚动
+aiwindow-starter-scroll-end =
+    .aria-label = 向前滚动
+    .tooltiptext = 向前滚动
 # Dismisses a "pick up where you left off" resume-activity suggestion pill.
 # Variables:
 #   $text (String) - The suggestion headline being dismissed
