@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = por { $name }
 cfr-doorhanger-extension-notification = Recomendación
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recomendación
-    .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión disponible
+    .tooltiptext = Recomendación de extensión
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recomendación
-    .tooltiptext = Recomendación de característica
     .a11y-announcement = Recomendación de característica disponible
+    .tooltiptext = Recomendación de característica
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -295,6 +295,20 @@ launch-on-login-infobar-final-message = <strong>¿Abrir { -brand-short-name } ca
 launch-on-login-infobar-final-reject-button = No, gracias
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = Ahora { -brand-short-name } se inicia cuando usted inicie sesión en Windows. Puede cambiar esta preferencia más adelante en los ajustes.
+launch-on-login-autostart-infobar-keep-button = Conservar
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = Desactivar
+    .accesskey = T
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -334,8 +348,8 @@ root-certificate-windows-background-notification-update-button = Actualizar { -b
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Cerrar
     .aria-label = Cerrar
+    .title = Cerrar
 fxa-menu-message-sign-up-button = Registrarse
 fxa-menu-message-sign-in-button = Iniciar sesión
 fxa-menu-message-sync-button = Empezar a sincronizar
