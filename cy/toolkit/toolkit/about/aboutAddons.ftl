@@ -607,6 +607,7 @@ mlmodel-pdfjs = Mae { -brand-short-name } yn defnyddio hwn i greu testun amgen a
 mlmodel-smart-tab-topic-engine = Mae { -brand-short-name } yn defnyddio hwn i awgrymu enwau ar gyfer eich grwpiau tab
 mlmodel-smart-tab-embedding-engine = Mae { -brand-short-name } yn defnyddio hwn i awgrymu tabiau ar gyfer eich grwpiau tabiau
 mlmodel-formfill-engine = Mae { -brand-short-name } yn defnyddio hwn i helpu i lenwi ffurflenni cyfeiriad
+mlmodel-speech-recognition = Mae { -brand-short-name } yn defnyddio hwn ar gyfer adnabod llais ar y ddyfais
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI Ar-ddyfais
 addon-category-mlmodel-title =

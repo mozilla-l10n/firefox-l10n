@@ -24,4 +24,4 @@ policy-value = Gwerth Polisi
 policy-errors = Gwallau Polisi
 # Shown under the name of a policy in the Active list when at least one of the
 # operations of that policy failed to apply. The Errors tab has the details.
-policy-not-fully-applied = Heb ei gymhwyso'n llawn
+policy-not-fully-applied = Heb ei osod yn llawn

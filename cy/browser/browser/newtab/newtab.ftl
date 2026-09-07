@@ -223,7 +223,7 @@ newtab-privacy-empty-state = Mae { -brand-short-name } yn rhwystro tracwyr yn aw
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
-newtab-privacy-empty-state-tally = Gweler cyfrif cynyddol yma.
+newtab-privacy-empty-state-tally = Gweld cyfrif cynyddol yma.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -1012,7 +1012,7 @@ newtab-wallpaper-category-back =
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a
 ## Firefox wallpaper kept for them when it was retired.
 
-newtab-wallpaper-your-images = Eich delweddau
+newtab-wallpaper-your-images = Eich Delweddau
 # Accessible name for the tile that opens the "Your images" folder in the
 # wallpaper picker. The tile shows one of the saved images and has no text of
 # its own, so this is all a screen reader has to go on.
@@ -1024,6 +1024,31 @@ newtab-wallpaper-your-images-folder =
 # Variables:
 #   $name (string) - The picture's own title, or the Firefox wallpaper's name
 newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Delwedd { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Dileu { $name }
+    .title = Dileu delwedd
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Dileu delwedd { $number }
+    .title = Dileu delwedd { $number }
+newtab-wallpaper-remove-image-title = Dileu delwedd?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Does dim modd dadwneud y weithred hon.
+newtab-wallpaper-remove-image-confirm = Dileu
+newtab-wallpaper-remove-image-cancel = Diddymu
 
 ## Solid Colors
 
@@ -1117,6 +1142,9 @@ newtab-weather-menu-change-location = Newid lleoliad
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Chwilio am leoliad
     .placeholder = Chwilio am leoliad
+newtab-weather-cancel-input =
+    .aria-label = Diddymu
+    .title = Diddymu
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Defnyddiwch y lleoliad presennol
@@ -1366,6 +1394,10 @@ newtab-widget-lists-menu-create = Creu rhestr newydd
 newtab-widget-lists-menu-delete = Dileu'r rhestr hon
 newtab-widget-lists-menu-copy = Copïo'r rhestr i'r clipfwrdd
 newtab-widget-lists-menu-learn-more = Dysgu rhagor
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Newid rhestr
+    .title = Newid rhestr
 newtab-widget-lists-button-add-item = Ychwanegu eitem
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Ychwanegu eitem
