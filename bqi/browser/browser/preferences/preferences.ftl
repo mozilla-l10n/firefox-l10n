@@ -1020,6 +1020,8 @@ passports-no-passports-stored-message =
     .label = هیچ پاسپورتی ٱوورده نوابیڌه
 pane-passwords-autofill-title2 = رزما وو تکمیل خوتکار
     .title = رزما وو تکمیل خوتکار
+preferences-passwords-autofill-header =
+    .heading = رزما وو تکمیل خوتکار
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1028,6 +1030,8 @@ pane-passwords-autofill-title2 = رزما وو تکمیل خوتکار
 payment-moz-box-item =
     .description = { $expDate }
     .label = { $cardNumber }
+addresses-group =
+    .label = نشۊویا وو مووردا قلوه
 payments-group =
     .label = بارتا پرداخت
 
@@ -1285,6 +1289,13 @@ security-enable-safe-browsing-link = قلوه دووسته بۊین
 
 ## Privacy Section - Certificates
 
+certs-header = گوواهینامه یل
+certs-view =
+    .label = نیشتن گوواهینامه یل…
+    .accesskey = C
+certs-devices =
+    .label = دسگایل ٱمنیتی…
+    .accesskey = D
 certs-devices-enable-fips = فعال کردن FIPS
 space-alert-over-5gb-settings-button =
     .label = گۊشیڌن سامووا
