@@ -956,6 +956,52 @@ newtab-wallpaper-dark-mountain = Vuorimaisema
 newtab-wallpaper-dark-city = Purppura kaupunkimaisema
 newtab-wallpaper-dark-fox-anniversary = Kettu jalkakäytävällä lähellä metsää
 newtab-wallpaper-light-fox-anniversary = Kettu ruohopellolla ja sumuinen vuoristomaisema
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Takaisin mukauttamiseen
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Kuvasi
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Kuvasi ja tallentamasi taustakuvat
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Kuva { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Poista { $name }
+    .title = Poista kuva
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Poista kuva { $number }
+    .title = Poista kuva { $number }
+newtab-wallpaper-remove-image-title = Poistetaanko kuva?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Tätä toimintoa ei voi perua.
+newtab-wallpaper-remove-image-confirm = Poista
+newtab-wallpaper-remove-image-cancel = Peruuta
 
 ## Solid Colors
 
@@ -1049,6 +1095,9 @@ newtab-weather-menu-change-location = Vaihda sijaintia
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Hae sijaintia
     .placeholder = Hae sijaintia
+newtab-weather-cancel-input =
+    .aria-label = Peruuta
+    .title = Peruuta
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Käytä nykyistä sijaintia
@@ -1159,6 +1208,8 @@ newtab-section-follow-highlight-subtitle = Seuraa kiinnostuksen kohteitasi nähd
 
 newtab-topic-navigation-label =
     .aria-label = Aiheet
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Lisää
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1298,6 +1349,10 @@ newtab-widget-lists-menu-create = Luo uusi lista
 newtab-widget-lists-menu-delete = Poista tämä lista
 newtab-widget-lists-menu-copy = Kopioi lista leikepöydälle
 newtab-widget-lists-menu-learn-more = Lue lisää
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Vaihda listaa
+    .title = Vaihda listaa
 newtab-widget-lists-button-add-item = Lisää kohde
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Lisää kohde
@@ -1357,6 +1412,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Supista pienoisohjelmat kompaktiin kokoon
     .title = Pienennä pienoisohjelmat
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Näytä pienoisohjelmien osio
+    .title = Näytä pienoisohjelmat
 newtab-widget-section-menu-button =
     .aria-label = Avaa pienoisohjelmien valikko
     .title = Pienoisohjelmien valikko
