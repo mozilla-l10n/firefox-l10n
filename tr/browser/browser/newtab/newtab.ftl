@@ -429,15 +429,15 @@ newtab-picture-set-wallpaper =
 newtab-picture-menu-manage-wallpaper = Duvar kâğıdını yönet
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
-newtab-picture-menu-hide-photo = Günün resmini gizle
+newtab-picture-menu-hide-photo = Bugünkü resmi gizle
 # Context menu item that restores today’s picture after it has been hidden.
-newtab-picture-menu-show-photo = Günün resmini göster
+newtab-picture-menu-show-photo = Bugünkü resmi göster
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Daha fazla bilgi al
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
-    .aria-label = Günün resmini göster
-    .title = Günün resmini göster
+    .aria-label = Bugünkü resmi göster
+    .title = Bugünkü resmi göster
 # Shown when there is no new picture to display yet.
 newtab-picture-check-back = Yarın yeni bir resim burada sizi bekleyecek
 # Screen-reader text alternative for the picture; fallback used when the source
