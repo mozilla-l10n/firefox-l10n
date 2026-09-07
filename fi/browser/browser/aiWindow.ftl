@@ -364,3 +364,19 @@ aiwindow-starter-planning-plan = Auta tekemään suunnitelma
 aiwindow-starter-browsing-history = Etsi välilehtiä historiasta
 aiwindow-starter-browsing-summarize = Tee yhteenveto välilehdistä
 aiwindow-starter-browsing-compare = Vertaile välilehtiä
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Vieritä taaksepäin
+    .tooltiptext = Vieritä taaksepäin
+aiwindow-starter-scroll-end =
+    .aria-label = Vieritä eteenpäin
+    .tooltiptext = Vieritä eteenpäin
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Hylkää { $text }
+    .title = Hylkää { $text }

@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-chatbotti
 menu-view-contextual-password-manager =
     .label = Salasanat
+menu-view-resource-monitor =
+    .label = Resurssien valvonta
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Muokkaa sivupaneelia
 sidebar-menu-contextual-password-manager-label =
     .label = Salasanat
+sidebar-menu-resource-monitor-label =
+    .label = Resurssien valvonta
 sidebar-menu-more-tools-label =
     .label = Lisää työkaluja
 
