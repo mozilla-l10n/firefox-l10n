@@ -146,6 +146,10 @@ autofill-card-expires-year-2 =
     .label = Leto poteka
 autofill-card-billing-address-2 =
     .label = Naslov za izstavitev računa
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Ime na kartici
 autofill-card-expires-month = Mesec poteka
 autofill-card-expires-year = Leto poteka

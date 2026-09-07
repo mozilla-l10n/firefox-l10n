@@ -929,6 +929,41 @@ newtab-wallpaper-dark-city = Vijolična mestna pokrajina
 newtab-wallpaper-dark-fox-anniversary = Lisica na pločniku blizu gozda
 newtab-wallpaper-light-fox-anniversary = Lisica na travnatem polju v megleni gorski pokrajini
 
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Slika { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Odstrani { $name }
+    .title = Odstrani sliko
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Odstrani sliko { $number }
+    .title = Odstrani sliko { $number }
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Tega dejanja ni mogoče razveljaviti.
+newtab-wallpaper-remove-image-confirm = Odstrani
+newtab-wallpaper-remove-image-cancel = Prekliči
+
 ## Solid Colors
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
@@ -1021,6 +1056,9 @@ newtab-weather-menu-change-location = Spremeni lokacijo
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Išči lokacijo
     .placeholder = Išči lokacijo
+newtab-weather-cancel-input =
+    .aria-label = Prekliči
+    .title = Prekliči
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Uporabi trenutno lokacijo
@@ -1131,6 +1169,8 @@ newtab-section-follow-highlight-subtitle = Sledite svojim zanimanjem in dobivajt
 
 newtab-topic-navigation-label =
     .aria-label = Teme
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Več
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
