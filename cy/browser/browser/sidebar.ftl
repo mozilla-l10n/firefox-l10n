@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Sgwrsfot AI
 menu-view-contextual-password-manager =
     .label = Cyfrineiriau
+menu-view-resource-monitor =
+    .label = Monitor Adnoddau
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Cyfaddasu'r bar offer
 sidebar-menu-contextual-password-manager-label =
     .label = Cyfrineiriau
+sidebar-menu-resource-monitor-label =
+    .label = Monitor adnoddau
 sidebar-menu-more-tools-label =
     .label = Rhagor o offer
 

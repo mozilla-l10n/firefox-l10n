@@ -1255,6 +1255,8 @@ newtab-section-follow-highlight-subtitle = Dilynwch eich diddordebau i weld mwy 
 
 newtab-topic-navigation-label =
     .aria-label = Pynciau
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Rhagor
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1457,6 +1459,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Lleihau pob teclyn i faint llai
     .title = Lleihau teclynnau
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Dangos yr adran teclynnau
+    .title = Dangos teclynnau
 newtab-widget-section-menu-button =
     .aria-label = Agor dewislen teclynnau
     .title = Dewislen teclynnau

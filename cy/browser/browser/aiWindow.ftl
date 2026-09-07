@@ -376,6 +376,12 @@ aiwindow-starter-browsing-compare = Cymharu tabiau
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 
+aiwindow-starter-scroll-start =
+    .aria-label = Sgrolio nôl
+    .tooltiptext = Sgrolio nôl
+aiwindow-starter-scroll-end =
+    .aria-label = Sgrolio ymlaen
+    .tooltiptext = Sgrolio ymlaen
 # Dismisses a "pick up where you left off" resume-activity suggestion pill.
 # Variables:
 #   $text (String) - The suggestion headline being dismissed
