@@ -61,6 +61,9 @@ about-sync-log-empty-filtered = Ningún registro coincide con los filtros actual
 ## Inline viewer
 
 about-sync-log-view-error = No se pudo leer este archivo de registro.
+# Opens the raw log file in a new browser tab.
+about-sync-log-open-raw =
+    .label = Abrir datos en bruto
 
 ## Clear logs confirmation
 
