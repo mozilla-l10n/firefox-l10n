@@ -170,7 +170,7 @@ newtab-privacy-menu-learn-more = 详细了解
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
-    .aria-label = 隐私
+    .aria-label = 隐私保护
 
 ## Privacy widget — count readout
 

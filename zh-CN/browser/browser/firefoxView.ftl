@@ -249,7 +249,7 @@ firefoxview-dont-remember-history-empty-header-2 = 您已控制 { -brand-short-n
 firefoxview-dont-remember-history-empty-description-one = { -brand-short-name } 当前不会记录您的浏览历史。若要更改，请<a data-l10n-name="history-settings-url-two">更新历史记录设置</a>。
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = 您的浏览不会被记录
-firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } 当前未保存您的历史记录。您随时可在<a data-l10n-name="history-settings-url-two">设置</a>中更改。
+firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } 当前未保存您的历史记录。您可随时在<a data-l10n-name="history-settings-url-two">设置</a>中更改。
 
 ##
 

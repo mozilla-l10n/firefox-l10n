@@ -62,7 +62,7 @@ ipprotection-summer-promo-offramp-generic-title = 您的内置 VPN 限制将于 
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = 您的内置 VPN 更强了
-ipprotection-summer-promo-offramp-subscriber-description = 现在订阅 { -mozilla-vpn-brand-name }，即享无限带宽和更多位置。
+ipprotection-summer-promo-offramp-subscriber-description = 您已订阅 { -mozilla-vpn-brand-name }，可享无限带宽和更多位置。
 # Default browser incentive summer promo offramp message
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
