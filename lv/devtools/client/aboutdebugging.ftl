@@ -5,18 +5,12 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = Atkļūdošana — iestatīšana
 # Page title (ie tab title) for the Runtime page
 # Variables:
 #   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
 about-debugging-page-title-runtime-page = Atkļūdošana — izpildlaiks / { $selectedRuntimeId }
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = Šis { -brand-shorter-name }
@@ -52,9 +46,6 @@ about-debugging-sidebar-no-devices = Nav atrasta neviena ierīce
 about-debugging-sidebar-item-connect-button = Savienoties
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Savienojas…
-
-# Setup Page strings
-
 # Explanatory text displayed in the Setup page when USB debugging is disabled
 about-debugging-setup-usb-disabled = Pēc iespējošanas tiks lejupielādētas un { -brand-shorter-name } pievienotas nepieciešamās Android USB atkļūdošanas sastāvdaļas.
 # Text of a button displayed after the network locations "Host" input.
@@ -63,9 +54,6 @@ about-debugging-network-locations-add-button = Pievienot
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Noņemt
-
-# Runtime Page strings
-
 # Title of the extensions category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-extensions =
@@ -89,9 +77,6 @@ about-debugging-runtime-other-workers =
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Atvienoties
-
-# Debug Targets strings
-
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
@@ -109,5 +94,9 @@ about-debugging-tmp-extension-remove-button = Noņemt
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = Atrašanās vieta
+about-debugging-message-error-icon =
+    .alt = Kļūdas ikona
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Informācija par kļūdu
 about-debugging-sidebar =
     .heading = Atkļūdošana

@@ -95,3 +95,11 @@ storage-idb-delete-blocked = Datu bāze “{ $dbName }” tiks dzēsta, kad visi
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Datubāzi “{ $dbName }” nevar izdzēst.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Sīkdatni nevarēja izveidot: “{ $errorString }”.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Sīkdatni nevarēja atjaunināt: “{ $errorString }”.

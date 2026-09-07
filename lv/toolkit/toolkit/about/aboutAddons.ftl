@@ -190,6 +190,7 @@ addon-detail-private-browsing-disallow = Neatļaut
 
 ##
 
+release-notes-error = Atvainojamies, bet laidiena piezīmju ielādēšanas laikā bija kļūda!
 addon-permissions-required = Nepieciešamās atļaujas pamata darbībai:
 addon-permissions-learnmore = Uzzināt vairāk par atļaujām
 

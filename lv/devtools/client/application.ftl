@@ -27,7 +27,7 @@ serviceworker-worker-debug = Atkļūdošana
 # display the last update time of the service worker script.
 # Variables:
 #   $date (date) - Update date
-serviceworker-worker-updated = Atjaunināts <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+serviceworker-worker-updated = Atjaunināts <time>{ DATETIME($date, day: "numeric", hour: "numeric", minute: "numeric", month: "long", second: "numeric", year: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
@@ -39,3 +39,12 @@ serviceworker-worker-status-running = Darbojas
 serviceworker-worker-status-stopped = Apturēts
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Uzzināt vairāk
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Kļūdas un brīdinājumi
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox DevTools kļūda
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Kļūdas ikona
+    .title = Kļūda

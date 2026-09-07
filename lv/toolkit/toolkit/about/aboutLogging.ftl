@@ -9,6 +9,17 @@ about-logging-set-log-modules = Iestatīt reģistrēšanas moduli
 about-logging-start-logging = Sākt reģistrēšanu
 about-logging-stop-logging = Pārtraukt reģistrēšanu
 
+## Logging presets
+
+# Error handling
+about-logging-error = Kļūda:
+
+##
+
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Atgadījās kļūda: { $errorText }
+
 ## Uploaded Profiles section
 
 # Confirmation message shown when deleting an uploaded profile.

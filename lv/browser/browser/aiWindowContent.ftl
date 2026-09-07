@@ -5,6 +5,9 @@
 
 ## Error messages in the chat content
 
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = Servera kļūda (HTTP { $status }). Lūgums mēģināt vēlreiz.
 smartwindow-retry-btn = Mēģināt vēlreiz
 smartwindow-clear-btn = Jauna tērzēšana
 smartwindow-signin-btn = Pieteikties

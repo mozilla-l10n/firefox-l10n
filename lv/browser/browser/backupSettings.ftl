@@ -9,6 +9,7 @@ settings-data-backup-toggle = Pārvaldīt dublējumu
 settings-data-backup-trigger-button = Dublēt tagad
 settings-data-backup-scheduled-backups-on2 =
     .label = Dublēšana ir ieslēgta
+settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } bija kļūda dublējuma izveidošanā.
 settings-data-toggle-encryption-support-link = Uzzināt vairāk
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
