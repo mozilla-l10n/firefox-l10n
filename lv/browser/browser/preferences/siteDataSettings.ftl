@@ -44,11 +44,11 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Aizvākt
+    .title = { site-data-removing-header }
 site-data-removing-header = Noņem sīkdatnes un vietņu datus
 site-data-removing-desc = Datu aizvākšana var pārtraukt jūsu autorizācijas sesijas lapās. Vai tiešām vēlaties veikt izmaiņas?
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
-site-data-removing-single-desc = Sīkdatņu un vietņu datu izņemšana var izrakstīt no tīmekļa vietnēm. Vai tiešām izņemt <strong>{ $baseDomain }</strong> sīkdatnes un vietnes datus?
+site-data-removing-single-desc = Sīkdatņu un vietņu datu noņemšana var novest pie izrakstīšanās no tīmekļvietnēm. Vai tiešām noņemt <strong>{ $baseDomain }</strong> sīkdatnes un vietnes datus?
 site-data-removing-table = Tiks noņemtas šo tīmekļvietņu sīkdatnes un dati

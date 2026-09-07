@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 translation-window2 =
-    .title = Tulkošanas izņēmumi
     .style = min-width: 36em
+    .title = Tulkošanas izņēmumi
 translation-close-key =
     .key = w
 translation-languages-disabled-desc = Tulkošana netiks piedāvāta šīm valodām
@@ -18,7 +18,7 @@ translation-languages-button-remove-all =
     .accesskey = v
 translation-sites-disabled-desc = Tulkošana netiks piedāvāta šīm vietnēm
 translation-sites-column =
-    .label = Tīmekļa vietnes
+    .label = Tīmekļvietnes
 translation-sites-button-remove =
     .label = Izņemt vietni
     .accesskey = v

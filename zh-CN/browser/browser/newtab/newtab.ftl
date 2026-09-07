@@ -453,6 +453,7 @@ newtab-recent-searches-menu-learn-more = 详细了解
 
 newtab-spaces-tab-stories = 文章
 newtab-spaces-tab-widgets = 小组件
+newtab-spaces-tab-activity = 动态
 
 ## Search box component.
 
@@ -1300,8 +1301,8 @@ newtab-widget-lists-menu-copy = 复制清单到剪贴板
 newtab-widget-lists-menu-learn-more = 详细了解
 # "Change" is a verb here: the button switches which list is shown
 newtab-widget-lists-change-list =
-    .aria-label = 更改清单
-    .title = 更改清单
+    .aria-label = 更换清单
+    .title = 更换清单
 newtab-widget-lists-button-add-item = 添加项目
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = 添加项目
