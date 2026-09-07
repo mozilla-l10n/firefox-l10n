@@ -62,6 +62,7 @@ smart-window-closed-tabs-summary =
     }
 smart-window-closed-tabs-row-label = Aizvērtās cilnes
 smart-window-closed-and-restored-label = Aizvērtās un atjaunotās cilnes
+smart-window-cancelled-label = Pieprasījums atcelts.
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Atvērt
 # Button label - "Open" is a verb (action to open, then group, tabs)

@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
-# This file gets parsed into a JS dictionary of all known error message ids in
-# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
-# refactoring them in some way, the script will need updating.
-
 psmerr-ssl-disabled = Nevar droši pieslēgties, jo SSL protokols ir deaktivēts.
 psmerr-ssl2-disabled = Nevar droši pieslēgties, jo lapa izmanto vecāku, nedrošu SSL protokola versiju.
 # This is a multi-line message.
@@ -22,7 +16,7 @@ ssl-error-no-certificate = Nevar atrast autentificēšanai nepieciešamo sertifi
 ssl-error-bad-certificate = Nevar sazināties droši ar komunikācijas partneri : partnera sertifikāts tika noraidīts.
 ssl-error-bad-client = Serveris ir saņēmis sliktus datus no klienta.
 ssl-error-bad-server = Klients ir saņēmis sliktus datus no servera.
-ssl-error-unsupported-certificate-type = Neatbalstīts sertifikāta tips.
+ssl-error-unsupported-certificate-type = Neatbalstīts sertifikāta veids.
 ssl-error-unsupported-version = Partneris izmanto neatbalstītu drošības protokola versiju.
 ssl-error-wrong-certificate = Klienta autentificēšana neizdevās: privātā atslēga no atslēgu datubāzes nesakrīt ar publisko atslēgu sertifikātu datubāzē.
 ssl-error-bad-cert-domain = Nevar sazināties droši ar komunikācijas partneri: pieprasītais domēna nosaukums neatbilst servera sertifikātam.
@@ -231,7 +225,7 @@ sec-error-user-cancelled = Lietotājs nospieda atcelt.
 sec-error-pkcs12-duplicate-data = Netiks importēts, jau ir datubāzē.
 sec-error-message-send-aborted = Ziņojums nav nosūtīts.
 sec-error-inadequate-key-usage = Sertifikāta atslēgas izmantošana nav adekvāta mēģinātajai darbībai.
-sec-error-inadequate-cert-type = Sertifikāta tips nav apstiprināts šai programmai.
+sec-error-inadequate-cert-type = Sertifikāta veids lietotnei nav apstiprināts.
 sec-error-cert-addr-mismatch = Adrese parakstošajā sertifikātā nesakrīt ar adresi ziņojuma galvenēs.
 sec-error-pkcs12-unable-to-import-key = Nevar importēt.  Kļūda importējot privāto atslēgu.
 sec-error-pkcs12-importing-cert-chain = Nevar importēt.  Kļūda mēģinot importēt sertifikāta ķēdi.
@@ -258,7 +252,7 @@ sec-error-crl-not-yet-valid = Šī sertifikāta sertifikātu anulēšanas saraks
 sec-error-unknown-cert = Pieprasītais sertifikāts nav atrodams.
 sec-error-unknown-signer = Parakstītāja sertifikāts nav atrodams.
 sec-error-cert-bad-access-location = Sertifikāta statusa servera adrese ir nederīgā formātā.
-sec-error-ocsp-unknown-response-type = OCSP atbildi nevar pilnībā atkodēt, tās tips nav zināms.
+sec-error-ocsp-unknown-response-type = OCSP atbildi nevar pilnībā atkodēt, tās veids nav zināms.
 sec-error-ocsp-bad-http-response = OCSP serveris atgrieza negaidītus/nederīgus HTTP datus.
 sec-error-ocsp-malformed-request = OCSP serveris pieprasījumu atzina par bojātu vai nepareizi formatētu.
 sec-error-ocsp-server-error = OCSP serveris saskārās ar iekšēju kļūdu.
@@ -274,7 +268,7 @@ sec-error-ocsp-unauthorized-response = OCSP atbildes parakstītājs nav autoriz�
 sec-error-ocsp-future-response = OCSP serveris vēl nav derīgs (tā datums ir nākotnē).
 sec-error-ocsp-old-response = OCSP servera atbilde satur novecojušus datus.
 sec-error-digest-not-found = CMS vai PKCS #7 kontrolsumma netika atrasta parakstītajā ziņojumā.
-sec-error-unsupported-message-type = CMS vai PKCS #7 ziņojuma tips nav atbalstīts.
+sec-error-unsupported-message-type = CMS vai PKCS #7 ziņojuma veids nav atbalstīts.
 sec-error-module-stuck = PKCS #11 moduli nevar aizvākt, jo tas vēl tiek izmantots.
 sec-error-bad-template = Nevar atkodēt ASN.1 datus. Norādītā veidne nav derīga.
 sec-error-crl-not-found = Atbilstoši CRL nav atrasti.
@@ -290,7 +284,7 @@ sec-error-revoked-certificate-ocsp = Izdevēja OCSP atbildētājs ziņo, ka sert
 sec-error-crl-invalid-version = Izdevēja CRL ir ar nezināmu versijas numuru.
 sec-error-crl-v1-critical-extension = Izdevēja V1 CRL ir ar kritisku paplašinājumu.
 sec-error-crl-unknown-critical-extension = Izdevēja V2 CRL ir ar nezināmu kritisku paplašinājumu.
-sec-error-unknown-object-type = Norādīts nezināms objekta tips.
+sec-error-unknown-object-type = Norādīts nezināms objekta veids.
 sec-error-incompatible-pkcs11 = PKCS #11 dzinis pārkāpj specifikāciju nesavietojamā veidā.
 sec-error-no-event = Šobrīd nav pieejama neviena jauna pieslēgvietu notikuma.
 sec-error-crl-already-exists = CRL jau eksistē.
@@ -301,7 +295,7 @@ sec-error-ocsp-bad-signature = OCSP atbildes paraksts nav derīgs.
 sec-error-out-of-search-limits = Sertifikāta validācijas meklēšana ir ārpus meklēšanas limitiem.
 sec-error-invalid-policy-mapping = Politikas kartēšana satur anypolicy
 sec-error-policy-validation-failed = Sertifikātu ķēde nespēj nodrošināt pamatnostādnes pārbaudi
-sec-error-unknown-aia-location-type = Nezināms atrašanās vietas tips sertifikāta AIA paplašinājumā
+sec-error-unknown-aia-location-type = Nezināms atrašanās vietas veids sertifikāta AIA paplašinājumā
 sec-error-bad-http-response = Serveris atgrieza sliktu HTTP atbildi
 sec-error-bad-ldap-response = Serveris atgrieza sliktu LDAP atbildi
 sec-error-failed-to-encode-data = Neizdevās nošifrēt datus ar ASN1 šifrētāju

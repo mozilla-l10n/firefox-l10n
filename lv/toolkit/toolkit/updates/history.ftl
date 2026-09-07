@@ -10,7 +10,7 @@ close-button-label =
 no-updates-label = Vēl nav instalēts neviens atjauninājums
 name-header = Atjauninājuma nosaukums
 date-header = Instalēšanas datums
-type-header = Tips
+type-header = Veids
 state-header = Stāvoklis
 # Used to display update history
 #

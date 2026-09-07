@@ -473,9 +473,9 @@ applications-description = Izvēlieties kā { -brand-short-name } rīkosies ar d
 applications-filter =
     .placeholder = Meklēt pēc datņu tipa vai lietotnes
 applications-type-column =
-    .label = Satura tips
-    .accesskey = t
-applications-type-heading = Satura tips
+    .label = Satura veids
+    .accesskey = v
+applications-type-heading = Satura veids
 applications-action-column =
     .label = Darbība
     .accesskey = a
@@ -1348,8 +1348,8 @@ sitedata-disallow-cookies-option =
     .accesskey = L
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Bloķētais tips
-    .accesskey = t
+sitedata-block-desc = Liegtais veids
+    .accesskey = v
 sitedata-option-block-cross-site-trackers =
     .label = Starpvietņu izsekotāji
 sitedata-option-block-cross-site-tracking-cookies =

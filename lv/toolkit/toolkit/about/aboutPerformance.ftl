@@ -8,7 +8,7 @@ about-performance-title = Uzdevumu pārvaldnieks
 ## Column headers
 
 column-name = Nosaukums
-column-type = Tips
+column-type = Veids
 column-energy-impact = Enerģijas ietekme
 column-memory = Atmiņa
 

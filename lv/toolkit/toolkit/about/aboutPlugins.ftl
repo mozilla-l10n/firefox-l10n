@@ -27,7 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Stāvoklis:</span> Aktivēts
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Stāvoklis:</span> Aktivēts ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Stāvoklis:</span> Deaktivēts
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Stāvoklis:</span> Deaktivēts ({ $blockListState })
-mime-type-label = MIME tips
+mime-type-label = MIME veids
 description-label = Apraksts
 suffixes-label = Sufiksi
 

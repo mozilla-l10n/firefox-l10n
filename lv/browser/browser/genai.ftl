@@ -53,6 +53,11 @@ genai-input-ask-generic =
 genai-input-ask-provider =
     .placeholder = Jautāt { $provider }…
 
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-huggingchat-price-2 = Bezmaksas; konts nepieciešams pēc noteikta pieprasījumu skaita
+
 ## Link previews
 
 # Text for the retry link when generation fails
