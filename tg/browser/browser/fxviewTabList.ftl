@@ -24,10 +24,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Қатъ гардонидани { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Ҳоли ҳозир
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Нест кардан
     .accesskey = Н
 fxviewtabrow-forget-about-this-site = Дар бораи ин сомона фаромӯш кунед…
@@ -78,11 +74,9 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Хомӯш кардани садо дар варақа
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Фаъол кардани садо дар варақа
+fxviewtabrow-send-to-mobile-connect-device = Пайваст кардани дастгоҳ барои фиристодани варақаҳо
 fxviewtabrow-send-to-mobile-device-missing2 = Дастгоҳи худро намебинед?
 fxviewtabrow-send-to-mobile-not-verified = Ҳисоб тасдиқ нашудааст
 fxviewtabrow-send-to-mobile-verify-account = Ҳисоби худро тасдиқ кунед
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Барои фиристодани варақаҳо ворид шавед
 fxviewtabrow-send-to-mobile-turn-on-sync = Барои фиристодани варақаҳо ҳамоҳангсозиро фаъол созед

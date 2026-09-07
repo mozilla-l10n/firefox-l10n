@@ -12,6 +12,14 @@ menu-application-settings =
     .label = Танзимот…
 menu-application-set-as-default =
     .label = Танзим кардани «{ -brand-shorter-name }» ҳамчун браузери пешфарз
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = Мубодила кардани «{ -brand-product-name }»
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals =
+    .label = Мубодила кардани «{ -brand-shorter-name }»
 menu-application-services =
     .label = Хизматҳо
 menu-application-hide-this =
@@ -321,15 +329,6 @@ menu-window-bring-all-to-front =
     .label = Ҳамаи равзанаҳо ба пеш гузошта шаванд
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-get-help
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 menu-help =
     .label = Кумак

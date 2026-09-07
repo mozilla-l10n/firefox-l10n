@@ -47,6 +47,7 @@ ipprotection-feature-introduction-button-get-started = Оғози кор
 
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Кушодани «VPN»
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Ҳамчун пешфарз танзим кардан
 ipprotection-summer-promo-offramp-get-subscription-button = Ба даст овардани «{ -mozilla-vpn-brand-name }»
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Нодида гузарондан
 
@@ -68,11 +69,11 @@ ipprotection-android-promo-callout-primary-button = Фаҳмидам
 
 unauthenticated-get-started = Оғози кор
 site-exclusion-toggle-enabled-1 =
-    .label = Истифодаи «VPN» барои ин сомона
     .aria-label = «VPN» барои ин сомона фаъол аст
-site-exclusion-toggle-disabled-1 =
     .label = Истифодаи «VPN» барои ин сомона
+site-exclusion-toggle-disabled-1 =
     .aria-label = «VPN» барои ин сомона ғайрифаъол аст
+    .label = Истифодаи «VPN» барои ин сомона
 ipprotection-settings-link =
     .label = Танзимот
 
@@ -145,12 +146,12 @@ ip-protection-not-opted-in-button = Оғози кор
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Идоракунии танзимоти сомона
     .description =
         { $count ->
             [one] { $count } сомона
            *[other] { $count } сомона
         }
+    .label = Идоракунии танзимоти сомона
 ip-protection-autostart =
     .label = Фаъол кардани «VPN» ба таври худкор
 ip-protection-autostart-private-checkbox =
@@ -172,6 +173,9 @@ ipprotection-bandwidth-reset-button = Фаҳмидам
 ## IP Protection alerts
 
 vpn-paused-alert-title = «VPN» таваққуф шуд
+vpn-error-page-keep-browsing = Идомаи тамошобинӣ дар ин ҷаласа
 vpn-error-page-new-session = Оғози ҷаласаи нав
 vpn-paused-alert-close-tabs-button = Пӯшидани ҳамаи варақаҳо
+vpn-paused-alert-continue-wo-vpn-button = Идома додан бе истифодаи «VPN»
+vpn-error-alert-title = «VPN» айни ҳол кор намекунад.
 vpn-error-alert-body = Баъдтар аз нав кӯшиш кунед.
