@@ -8,7 +8,7 @@
 neterror-page-title = Sarežģījumi ar lapas ielādi
 certerror-page-title = Brīdinājums: Potenciāls drošības risks
 certerror-sts-page-title = Netika izveidots savienojums: potenciāla drošības problēma
-neterror-blocked-by-policy-page-title = Bloķēta lapa
+neterror-blocked-by-policy-page-title = Aizturēta lapa
 neterror-captive-portal-page-title = Pieteikšanās tīklā
 neterror-dns-not-found-title = Serveris nav atrasts
 neterror-malformed-uri-page-title = Nederīga adrese

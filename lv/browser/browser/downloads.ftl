@@ -206,7 +206,7 @@ downloads-files-not-downloaded =
         [one] { $num } datnes nav lejupielādētas.
        *[other] { $num } datņu nav lejupielādētu.
     }
-downloads-blocked-from-url = Lejupielādes ir bloķētas no { $url }.
+downloads-blocked-from-url = Ir liegtas lejupielādes no { $url }.
 downloads-blocked-download-detailed-info = { $url } mēģināja automātiski lejupielādēt vairākas datnes. Vietne var būt bojāta vai mēģināt saglabāt nevēlamas datnes šajā ierīcē.
 
 ##
