@@ -233,7 +233,7 @@ content-sandbox-level = Satura procesa ierobežošanas līmenis
 effective-content-sandbox-level = Efektīvs satura procesa ierobežošanas līmenis
 sandbox-proc-type-content = saturs
 sandbox-proc-type-file = faila saturs
-sandbox-proc-type-media-plugin = multivides spraudnis
+sandbox-proc-type-media-plugin = informācijas nesēju spraudnis
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

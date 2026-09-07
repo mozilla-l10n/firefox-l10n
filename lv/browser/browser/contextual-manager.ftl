@@ -357,7 +357,7 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
        *[other] Jā, izņemt paroles
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
-contextual-manager-primary-password-reauth-header = Lai skatītu saglabātās paroles, ievadiet savu galveno paroli.
+contextual-manager-primary-password-reauth-header = Lai apskatītu saglabātās paroles, jāievada sava galvenē parole.
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Ievadiet galveno paroli
 contextual-manager-primary-password-learn-more-link = Uzzināt vairāk
