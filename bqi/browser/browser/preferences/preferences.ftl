@@ -1003,6 +1003,23 @@ autofill-addresses-manage-addresses-title =
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = هیچ نشۊوی ٱوورده نوابیڌه
+passports-list-header =
+    .label = پاسپورتا
+passports-delete-passport-button-label =
+    .aria-label = پاک کردن
+passports-edit-passport-button-label =
+    .aria-label = آلشت
+passports-delete-passport-prompt-title = ای پاسپورت پاک بۊ؟
+passports-delete-passport-prompt-confirm-button = پاک کردن
+passports-delete-passport-prompt-cancel-button = لقو
+autofill-passports-add-button = ٱووردن پاسپورت نۊ
+autofill-personal-info-manage-title =
+    .heading = دؽوۉداری دووسمندیا سیخومی
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = هیچ پاسپورتی ٱوورده نوابیڌه
+pane-passwords-autofill-title2 = رزما وو تکمیل خوتکار
+    .title = رزما وو تکمیل خوتکار
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
