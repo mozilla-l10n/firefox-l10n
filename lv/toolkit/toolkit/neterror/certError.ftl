@@ -21,7 +21,7 @@ cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte un VeriSign izs
 cert-error-untrusted-default = Sertifikāts nāk no nedroša avota.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Mājaslapas pierāda savu identitāti izmantojot sertifikātus. { -brand-short-name } neuzticas šai vietnei, jo tā izmanto sertifikātu, kas nav derīgs domēnam { $hostname }.
+cert-error-domain-mismatch = Tīmekļvietnes pierāda savu identitāti ar sertifikātiem. { -brand-short-name } neuzticas šai vietnei, jo tā izmanto sertifikātu, kas nav derīgs { $hostname }.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $alt-name (string) - Alternate domain name for which the cert is valid.
@@ -29,19 +29,19 @@ cert-error-domain-mismatch-single = Tīmekļvietnes pierāda savu identitāti ar
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $alt-name (string) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Mājaslapas pierāda savu identitāti ar sertifikātiem. { -brand-short-name } neuzticas šai vietnei, jo tā izmanto sertifikātu, kas nav derīgs priekš { $hostname }. Sertifikāts ir derīgs tikai priekš { $alt-name }.
+cert-error-domain-mismatch-single-nolink = Tīmekļvietnes pierāda savu identitāti ar sertifikātiem. { -brand-short-name } neuzticas šai vietnei, jo tā izmanto sertifikātu, kas nav derīgs { $hostname }. Sertifikāts ir derīgs tikai { $alt-name }.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $subject-alt-names (string) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Mājaslapas pierāda savu identitāti ar sertifikātiem. { -brand-short-name } neuzticas šai vietnei, jo tā izmanto sertifikātu, kas nav derīgs priekš { $hostname }. Sertifikāts ir derīgs tikai priekš sekojošiem vārdiem: { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Tīmekļvietnes pierāda savu identitāti ar sertifikātiem. { -brand-short-name } neuzticas šai vietnei, jo tā izmanto sertifikātu, kas nav derīgs { $hostname }. Sertifikāts ir derīgs tikai šiem vārdiem: { $subject-alt-names }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Mājaslapas pierāda identitāti ar sertifikātiem, kas ir derīgi uz noteiktu laika posmu. Sertifikāts priekš { $hostname } izbeidzās { $not-after-local-time }.
+cert-error-expired-now = Tīmekļvietnes pierāda identitāti ar sertifikātiem, kas ir derīgi noteiktu laika posmu. { $hostname } sertifikāts beidzās { $not-after-local-time }.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Mājaslapas pierāda savu identitāti ar sertifikātiem, kuri ir derīgi uz noteiktu laika posmu. Sertifikāts priekš { $hostname } nebūs derīgs līdz { $not-before-local-time }.
+cert-error-not-yet-valid-now = Tīmekļvietnes pierāda savu identitāti ar sertifikātiem, kuri ir derīgi noteiktu laika posmu. { $hostname } sertifikāts nebūs derīgs līdz { $not-before-local-time }.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kļūdas kods: { $error }

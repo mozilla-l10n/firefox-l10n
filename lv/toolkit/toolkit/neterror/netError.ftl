@@ -103,8 +103,8 @@ neterror-proxy-resolve-failure-connection = Pārliecinieties, ka datoram ir str�
 neterror-proxy-resolve-failure-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecināš, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 neterror-proxy-connect-failure-settings = Pārbaudiet starpniekservera (proxy) iestatījumus.
 neterror-proxy-connect-failure-contact-admin = Sazinieties ar savu tīkla administratoru, lai pārliecinātos, ka starpniekserveris strādā korekti.
-neterror-content-encoding-error = Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.
-neterror-unsafe-content-type = Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.
+neterror-content-encoding-error = Lūgums sazināties ar tīmekļvietnes īpašniekiem, lai ziņotu par šo sarežģījumu.
+neterror-unsafe-content-type = Lūgums sazināties ar tīmekļvietnes īpašniekiem, lai ziņotu par šo sarežģījumu.
 neterror-nss-failure-not-verified = Lapu, kuru šobrīd mēģini apskatīt, nevar parādīt, jo nevar pārbaudīt tās nosūtīto datu īstumu.
 neterror-nss-failure-contact-website = Lūdzu, sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.
 # Variables:

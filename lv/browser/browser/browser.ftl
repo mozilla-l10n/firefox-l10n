@@ -547,7 +547,7 @@ identity-connection-file = Šī lapa ir saglabāta jūsu datorā.
 identity-connection-associated = Šī lapa ir ielādēta no citas lapas.
 identity-extension-page = Šī lapa ir ielādēta no papildinājuma.
 identity-active-blocked = { -brand-short-name } bloķēja nedrošo saturu šajā lapā.
-identity-custom-root = Savienojumu ir pārbaudījis sertifikāta izdevējs, kuru Mozilla neatpazīst.
+identity-custom-root = Savienojumu apliecināja sertifikāta izdevējs, kuru Mozilla neatpazīst.
 identity-passive-loaded = Šīs lapas daļas (piemēram, attēli) nav drošas.
 identity-active-loaded = Jūs esat izslēdzis aizsardzību šajā lapā.
 identity-weak-encryption = Šī lapa izmanto vāju šifrēšanu.
@@ -575,7 +575,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Savienojums ar šo vietni nav drošs.
 identity-connection-verified = Savienojums ar šo vietni ir drošs.
 identity-ev-owner-label = Sertifikāts izsniegts:
-identity-verifier-label = Pārbaudījis:
+identity-verifier-label = Apliecināja:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kvalificēts, kā noteikts ES regulā 2024/1183.
 identity-description-custom-root2 = Mozilla neatpazīst šo sertifikāta izdevēju. Iespējams, to ir pievienojis jūsu operētājsistēma vai administrators.
