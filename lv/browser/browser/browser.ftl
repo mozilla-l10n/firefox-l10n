@@ -128,6 +128,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Pārvaldīt uznirstošo logu un trešo pušu pāradresācijas iestatījumus…
     .accesskey = P
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [zero] Apskatīt informāciju par vietni (aizturēti { $count } izsekotāju)
+            [one] Apskatīt informāciju par vietni (aizturēts { $count } izsekotājs)
+           *[other] Apskatīt informāciju par vietni (aizturēti { $count } izsekotāji)
+        }
 urlbar-identity-button =
     .aria-label = Apskatīt informāciju par vietni
 
