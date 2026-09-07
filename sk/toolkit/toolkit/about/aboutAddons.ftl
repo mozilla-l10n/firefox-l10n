@@ -601,6 +601,7 @@ mlmodel-pdfjs = { -brand-short-name } toto používa na vytvorenie alternatívne
 mlmodel-smart-tab-topic-engine = { -brand-short-name } toto používa na navrhovanie názvov pre vaše skupiny kariet
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } toto používa na navrhovanie kariet pre vaše skupiny kariet
 mlmodel-formfill-engine = { -brand-short-name } toto používa na pomoc s vypĺňaním formulárov s adresou
+mlmodel-speech-recognition = { -brand-short-name } túto funkciu využíva na rozpoznávanie reči priamo v zariadení
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Umelá inteligencia v zariadení
 addon-category-mlmodel-title =

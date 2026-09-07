@@ -211,6 +211,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokuje sledovacie prvky počas prehliadania. Uvidíte ich tu.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } automaticky blokuje sledovacie prvky, takže väčšia časť vašej aktivity zostáva súkromná.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Tu uvidíte priebežný počet.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -966,6 +972,52 @@ newtab-wallpaper-dark-mountain = Horská scenéria
 newtab-wallpaper-dark-city = Fialová mestská scenéria
 newtab-wallpaper-dark-fox-anniversary = Líška na chodníku pri lese
 newtab-wallpaper-light-fox-anniversary = Líška na trávnatom poli so zahmlenou horskou krajinou
+# Goes back from a wallpaper category to the Customize panel. Shown as an
+# arrow with no text, so this is read by screen readers only.
+newtab-wallpaper-category-back =
+    .aria-label = Späť na prispôsobenie
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Vaše obrázky
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Vaše obrázky, uložené tapety
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Obrázok { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Odstrániť { $name }
+    .title = Odstrániť obrázok
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Odstrániť obrázok { $number }
+    .title = Odstrániť obrázok { $number }
+newtab-wallpaper-remove-image-title = Chcete odstrániť obrázok?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Túto akciu nie je možné vrátiť späť.
+newtab-wallpaper-remove-image-confirm = Odstrániť
+newtab-wallpaper-remove-image-cancel = Zrušiť
 
 ## Solid Colors
 
@@ -1059,6 +1111,9 @@ newtab-weather-menu-change-location = Zmeniť lokalitu
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Hľadať lokalitu
     .placeholder = Hľadať lokalitu
+newtab-weather-cancel-input =
+    .aria-label = Zrušiť
+    .title = Zrušiť
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Použiť aktuálnu polohu
@@ -1310,6 +1365,10 @@ newtab-widget-lists-menu-create = Vytvoriť nový zoznam
 newtab-widget-lists-menu-delete = Odstrániť tento zoznam
 newtab-widget-lists-menu-copy = Kopírovať zoznam do schránky
 newtab-widget-lists-menu-learn-more = Ďalšie informácie
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Prepnúť zoznam
+    .title = Prepnúť zoznam
 newtab-widget-lists-button-add-item = Pridať položku
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Pridať položku
