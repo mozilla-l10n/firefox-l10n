@@ -904,6 +904,9 @@ newtab-custom-close-menu-button =
     .title = Chiudi
 newtab-custom-close-button = Chiudi
 newtab-custom-settings = Gestisci altre impostazioni
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Aspetto
 # Button that opens the full browser theme selection view.
@@ -956,10 +959,6 @@ newtab-wallpaper-dark-mountain = Paesaggio con montagne
 newtab-wallpaper-dark-city = Paesaggio cittadino con tonalità viola
 newtab-wallpaper-dark-fox-anniversary = Una volpe sul marciapiede vicino a una foresta
 newtab-wallpaper-light-fox-anniversary = Una volpe in un campo erboso con un paesaggio di montagna avvolto nella nebbia
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = Torna a Personalizza
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a
