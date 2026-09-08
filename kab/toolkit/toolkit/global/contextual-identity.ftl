@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Sefrek imagbaren
     .accesskey = O
+user-context-personal-panel-item = Udmawan
+    .accesskey = U
+user-context-work-panel-item = Amahil
+    .accesskey = m
+user-context-banking-panel-item = Banking
+    .accesskey = B
+user-context-shopping-panel-item = Tiɣin
+    .accesskey = T
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Amidadi
