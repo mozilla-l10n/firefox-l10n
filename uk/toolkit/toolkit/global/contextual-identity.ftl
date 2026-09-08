@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Керувати контейнерами
     .accesskey = К
+user-context-personal-panel-item = Особисте
+    .accesskey = О
+user-context-work-panel-item = Робота
+    .accesskey = Р
+user-context-banking-panel-item = Банк
+    .accesskey = Б
+user-context-shopping-panel-item = Покупки
+    .accesskey = П
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Блакитний
