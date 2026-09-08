@@ -31,6 +31,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Ne nun
     .accessKey = N
+address-capture-never-save-addresses-button =
+    .label = Neniam konservi adresojn
+    .accessKey = a
 address-capture-never-save-button =
     .label = Neniam konservi
     .accessKey = N
@@ -112,6 +115,7 @@ autofill-address-tel = Telefono
 autofill-address-email = Retpoŝto
 autofill-cancel-button = Nuligi
 autofill-save-button = Konservi
+autofill-country-warning-message-2 = Aŭtomata plenigo de formularoj disponeblas nuntempe nur por kelkaj landoj.
 autofill-country-warning-message = Aŭtomata plenigo de formularoj disponeblas nuntempe nur por kelkaj landoj.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Aldoni novan kreditkarton
@@ -142,6 +146,10 @@ autofill-card-expires-year-2 =
     .label = Jaro de senvalidiĝo
 autofill-card-billing-address-2 =
     .label = Faktura adreso
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Nomo sur karto
 autofill-card-expires-month = Monato de senvalidiĝo
 autofill-card-expires-year = Jaro de senvalidiĝo

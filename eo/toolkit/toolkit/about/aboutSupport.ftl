@@ -146,6 +146,12 @@ pdfjs-title = Legilo PDF
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = Versio de PDF.js
 pdfjs-enabled = Aktiva
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Redaktilo de notoj aktiva
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Formularoj XFA aktivaj
+pdfjs-open-attachments-inline = Malfermi dosieron PDF rekte
 library-version-title = Versioj de bibliotekoj
 copy-text-to-clipboard-label = Kopii tekston al tondujo
 copy-raw-data-to-clipboard-label = Kopii krudajn datumojn al tondujo

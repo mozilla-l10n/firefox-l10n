@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Helpprogramo por Media Foundation E
 process-type-utility-actor-js-oracle = Helpprogramo por JavaScript Oracle
 process-type-utility-actor-windows-utils = Helpprogramo por Windows Utils
 process-type-utility-actor-windows-file-dialog = Helpprogramo por dosieraj dialogoj de Windows
+process-type-utility-actor-hw-inference = Ilo por dedukto akcelita de aparataro
 
 ##
 ## Other

@@ -60,6 +60,8 @@ about-private-browsing-pin-promo-title = Sen konservitaj kuketoj aŭ historio, r
 
 ## Strings used in a promotion message for Firefox Relay
 
+about-private-browsing-relay-promo-header = Reduktu trudmesaĝojn per retpoŝtaj maskoj
+about-private-browsing-relay-promo-title = Kaŝu vian realan retpoŝtan adreson per retpoŝta masko kiam vi enskribiĝas, aĉetumas aŭ dividas vian retpoŝtan adreson en la reto.
 about-private-browsing-relay-promo-link-text = Provi retpoŝtajn maskojn
 
 ## Strings used in a promotion message for cookie banner reduction
