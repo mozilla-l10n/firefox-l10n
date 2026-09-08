@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = Spravovať kontajnery
     .accesskey = S
+user-context-personal-panel-item = Osobné
+    .accesskey = O
+user-context-work-panel-item = Pracovné
+    .accesskey = P
+user-context-banking-panel-item = Bankovníctvo
+    .accesskey = B
+user-context-shopping-panel-item = Nakupovanie
+    .accesskey = N
 user-context-new-tab =
     .label = Nová karta
     .accesskey = N
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = Pridať nový kontajner
     .accesskey = d
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Modrá
