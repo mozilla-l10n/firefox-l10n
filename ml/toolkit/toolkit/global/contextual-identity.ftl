@@ -24,9 +24,14 @@ user-context-shopping =
 user-context-none =
     .label = കണ്ടെയ്നര്‍ ഇല്ല
     .accesskey = N
+user-context-personal-panel-item = വ്യക്തിപരം
+    .accesskey = വ
+user-context-work-panel-item = ജോലി
+    .accesskey = ജ
+user-context-banking-panel-item = ബാങ്കിങ്ങ്
+    .accesskey = ബ
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = നീല
