@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = コンテナーを管理
     .accesskey = O
+user-context-personal-panel-item = 個人
+    .accesskey = P
+user-context-work-panel-item = 仕事
+    .accesskey = W
+user-context-banking-panel-item = 銀行取引
+    .accesskey = B
+user-context-shopping-panel-item = ショッピング
+    .accesskey = S
 user-context-new-tab =
     .label = 新しいタブ
     .accesskey = N
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = 新しいコンテナーを追加
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = 青
