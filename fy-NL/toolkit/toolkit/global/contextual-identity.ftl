@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = Konteners beheare
     .accesskey = K
+user-context-personal-panel-item = Persoanlik
+    .accesskey = P
+user-context-work-panel-item = Wurk
+    .accesskey = W
+user-context-banking-panel-item = Bankiere
+    .accesskey = B
+user-context-shopping-panel-item = Winkelje
+    .accesskey = k
 user-context-new-tab =
     .label = Nij ljepblêd
     .accesskey = N
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = Nije kontener tafoegje
     .accesskey = f
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blau
