@@ -22,3 +22,17 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = További tudnivalók
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = További műveletek
+autocomplete-edit-password = Jelszó szerkesztése
+autocomplete-delete-password = Jelszó törlése
+autocomplete-edit-address = Cím szerkesztése
+autocomplete-delete-address = Cím törlése
+autocomplete-edit-payment-method = Fizetési mód szerkesztése
+autocomplete-delete-payment-method = Fizetési mód törlése
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = Űrlapelőzmény-bejegyzés törlése

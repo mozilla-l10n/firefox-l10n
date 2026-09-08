@@ -235,8 +235,8 @@ pdfjs-thumb-page-title1 =
 ## Find panel button title and messages
 
 pdfjs-find-input =
-    .title = Keresés
     .placeholder = Keresés a dokumentumban…
+    .title = Keresés
 pdfjs-find-previous-button =
     .title = A kifejezés előző előfordulásának keresése
 pdfjs-find-previous-button-label = Előző
@@ -331,16 +331,16 @@ pdfjs-editor-highlight-button =
     .title = Kiemelés
 pdfjs-editor-highlight-button-label = Kiemelés
 pdfjs-highlight-floating-button1 =
-    .title = Kiemelés
     .aria-label = Kiemelés
+    .title = Kiemelés
 pdfjs-highlight-floating-button-label = Kiemelés
 pdfjs-comment-floating-button =
-    .title = Megjegyzés
     .aria-label = Megjegyzés
+    .title = Megjegyzés
 pdfjs-comment-floating-button-label = Megjegyzés
 pdfjs-editor-comment-button =
-    .title = Megjegyzés
     .aria-label = Megjegyzés
+    .title = Megjegyzés
 pdfjs-editor-comment-button-label = Megjegyzés
 pdfjs-editor-signature-button =
     .title = Aláírás hozzáadása
@@ -413,8 +413,8 @@ pdfjs-editor-comments-sidebar-title =
        *[other] Megjegyzések
     }
 pdfjs-editor-comments-sidebar-close-button =
-    .title = Oldalsáv bezárása
     .aria-label = Oldalsáv bezárása
+    .title = Oldalsáv bezárása
 pdfjs-editor-comments-sidebar-close-button-label = Oldalsáv bezárása
 # Instructional copy to add a comment by selecting text or an annotations.
 pdfjs-editor-comments-sidebar-no-comments1 = Lát valami figyelemre méltót? Jelölje ki és írjon megjegyzést.
@@ -569,8 +569,8 @@ pdfjs-editor-undo-bar-message-comment = Megjegyzés eltávolítva
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
     { $count ->
-        [one] { $count } kommentár eltávolítva
-       *[other] { $count } kommentár eltávolítva
+        [one] { $count } megjegyzés eltávolítva
+       *[other] { $count } megjegyzés eltávolítva
     }
 pdfjs-editor-undo-bar-undo-button =
     .title = Visszavonás
@@ -756,8 +756,8 @@ pdfjs-toggle-views-manager-button1 =
 ## Digital signature properties (signature verification panel)
 
 pdfjs-digital-signature-properties-button =
-    .title = Digitális aláírás tulajdonságai
     .aria-label = Digitális aláírás tulajdonságai
+    .title = Digitális aláírás tulajdonságai
 pdfjs-digital-signature-properties-button-label = Digitális aláírás tulajdonságai
 
 ## Banner shown above the signature list summarising the overall

@@ -599,6 +599,7 @@ mlmodel-pdfjs = A { -brand-short-name } használja arra, hogy alternatív szöve
 mlmodel-smart-tab-topic-engine = A { -brand-short-name } használja, hogy neveket javasoljon a lapcsoportjaihoz
 mlmodel-smart-tab-embedding-engine = A { -brand-short-name } használja, hogy lapokat javasoljon a lapcsoportjaihoz
 mlmodel-formfill-engine = A { -brand-short-name } ezt használja a címeket tartalmazó űrlapok kitöltéséhez
+mlmodel-speech-recognition = A { -brand-short-name } ezt használja az eszközön történő beszédfelismeréshez
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Eszközön lévő MI
 addon-category-mlmodel-title =

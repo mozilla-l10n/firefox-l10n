@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = MI csevegőbot
 menu-view-contextual-password-manager =
     .label = Jelszavak
+menu-view-resource-monitor =
+    .label = Erőforrás-figyelő
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Oldalsáv testreszabása
 sidebar-menu-contextual-password-manager-label =
     .label = Jelszavak
+sidebar-menu-resource-monitor-label =
+    .label = Erőforrás-figyelő
 sidebar-menu-more-tools-label =
     .label = További eszközök
 

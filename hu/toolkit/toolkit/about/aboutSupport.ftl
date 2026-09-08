@@ -142,6 +142,16 @@ a11y-activated = Aktiválva
 a11y-force-disabled = Kisegítő lehetőségek letiltása
 a11y-handler-used = Használt akadálymentesítés-kezelő
 a11y-instantiator = Kisegítő lehetőségek kezdeményezője
+pdfjs-title = PDF-megjelenítő
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js-verzió
+pdfjs-enabled = Engedélyezve
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Megjegyzésszerkesztő engedélyezve
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA űrlapok engedélyezve
+pdfjs-open-attachments-inline = PDF-mellékletek soron belüli megnyitása
 library-version-title = Könyvtárak verziói
 copy-text-to-clipboard-label = Szöveg másolása a vágólapra
 copy-raw-data-to-clipboard-label = Nyers adatok másolása a vágólapra

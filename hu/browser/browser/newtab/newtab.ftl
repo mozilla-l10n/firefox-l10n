@@ -979,6 +979,37 @@ newtab-wallpaper-your-images = Saját képek
 # its own, so this is all a screen reader has to go on.
 newtab-wallpaper-your-images-folder =
     .aria-label = Saját képek, az Ön által mentett háttérképek
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = { $number }. kép
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = { $name } eltávolítása
+    .title = Kép eltávolítása
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = { $number } kép eltávolítása
+    .title = { $number } kép eltávolítása
+newtab-wallpaper-remove-image-title = Kép eltávolítása?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Ez a művelet nem vonható vissza.
+newtab-wallpaper-remove-image-confirm = Eltávolítás
+newtab-wallpaper-remove-image-cancel = Mégse
 
 ## Solid Colors
 
@@ -1072,6 +1103,9 @@ newtab-weather-menu-change-location = Hely módosítása
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Keresési hely
     .placeholder = Keresési hely
+newtab-weather-cancel-input =
+    .aria-label = Mégse
+    .title = Mégse
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Jelenlegi hely használata
@@ -1182,6 +1216,8 @@ newtab-section-follow-highlight-subtitle = Kövesse az érdeklődési köreit, h
 
 newtab-topic-navigation-label =
     .aria-label = Témák
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Több
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1321,6 +1357,10 @@ newtab-widget-lists-menu-create = Új lista létrehozása
 newtab-widget-lists-menu-delete = Lista törlése
 newtab-widget-lists-menu-copy = Lista vágólapra másolása
 newtab-widget-lists-menu-learn-more = További tudnivalók
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Lista módosítása
+    .title = Lista módosítása
 newtab-widget-lists-button-add-item = Elem hozzáadása
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Elem hozzáadása
@@ -1380,6 +1420,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Összes kisalkalmazás összecsukása kompakt méretre
     .title = Kisalkalmazások minimalizálása
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Kisalkalmazások szakasz megjelenítése
+    .title = Kisalkalmazások megjelenítése
 newtab-widget-section-menu-button =
     .aria-label = Kisalkalmazások menü megnyitása
     .title = Kisalkalmazások menü
