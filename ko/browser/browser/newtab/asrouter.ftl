@@ -523,3 +523,17 @@ launch-options-spotlight-checkbox-restore-previous = 이전 창 및 탭 다시 �
 launch-options-spotlight-primary-button-close = { -brand-short-name } 저장 후 닫기
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = 저장하고 계속
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+lapsed-user-toast-whats-new-button = 새 기능 살펴보기
+lapsed-user-toast-dismiss-button = 닫기

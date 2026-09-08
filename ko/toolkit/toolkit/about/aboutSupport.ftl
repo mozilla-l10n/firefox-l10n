@@ -142,6 +142,9 @@ a11y-activated = 활성화
 a11y-force-disabled = 접근성 끄기
 a11y-handler-used = 접근 가능한 핸들러 사용됨
 a11y-instantiator = 접근성 기능 사용 앱
+pdfjs-title = PDF 뷰어
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js 버전
 library-version-title = 라이브러리 버전
 copy-text-to-clipboard-label = 클립보드에 텍스트 복사
 copy-raw-data-to-clipboard-label = 클립보드에 원시 데이터 복사

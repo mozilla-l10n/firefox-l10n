@@ -869,6 +869,13 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = 닫기
 newtab-custom-settings = 추가 설정
 
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = 사용자 지정으로 돌아가기
+    .title = 사용자 지정으로 돌아가기
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
