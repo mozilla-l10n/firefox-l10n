@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = Handsam behaldarar
     .accesskey = H
+user-context-personal-panel-item = Personleg
+    .accesskey = P
+user-context-work-panel-item = Arbeid
+    .accesskey = A
+user-context-banking-panel-item = Bank
+    .accesskey = B
+user-context-shopping-panel-item = Shopping
+    .accesskey = S
 user-context-new-tab =
     .label = Ny fane
     .accesskey = N
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = Legg til ny behaldar
     .accesskey = L
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blå
