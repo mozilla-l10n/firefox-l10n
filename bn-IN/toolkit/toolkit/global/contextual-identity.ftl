@@ -35,6 +35,8 @@ user-context-banking-panel-item = ব্যাঙ্কিং
     .accesskey = B
 user-context-shopping-panel-item = কেনাকাটা
     .accesskey = S
+user-context-manage-containers-panel-item = কন্টেইনারগুলিকে পরিচালনা করুন
+    .accesskey = O
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
