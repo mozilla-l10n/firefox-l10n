@@ -145,6 +145,13 @@ a11y-instantiator = 접근성 기능 사용 앱
 pdfjs-title = PDF 뷰어
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = PDF.js 버전
+pdfjs-enabled = 사용함
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = 주석 편집기 활성화됨
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA 양식 활성화됨
+pdfjs-open-attachments-inline = PDF 첨부 파일을 인라인으로 열기
 library-version-title = 라이브러리 버전
 copy-text-to-clipboard-label = 클립보드에 텍스트 복사
 copy-raw-data-to-clipboard-label = 클립보드에 원시 데이터 복사

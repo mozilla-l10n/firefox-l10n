@@ -535,5 +535,9 @@ launch-options-spotlight-primary-button-launch = 저장하고 계속
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+# "has your back" is an idiom meaning support and protection; adapt freely
+# rather than translating literally.
+lapsed-user-toast-title = { -brand-product-name }는 언제나 여러분과 함께합니다
+lapsed-user-toast-subtitle = 더 많은 선택권, 개인정보 보호, 제어권을 제공하는 새로운 탐색 방법을 확인해 보세요.
 lapsed-user-toast-whats-new-button = 새 기능 살펴보기
 lapsed-user-toast-dismiss-button = 닫기
