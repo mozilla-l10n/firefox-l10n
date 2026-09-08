@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = कंटेनर व्यवस्थापित करा
     .accesskey = O
+user-context-personal-panel-item = वैयक्तिक
+    .accesskey = P
+user-context-work-panel-item = कार्य
+    .accesskey = W
+user-context-banking-panel-item = बँकिंग
+    .accesskey = B
+user-context-shopping-panel-item = खरेदी
+    .accesskey = S
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = निळा
