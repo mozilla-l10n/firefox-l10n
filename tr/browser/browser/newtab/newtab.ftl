@@ -208,6 +208,10 @@ newtab-privacy-across-sites =
 newtab-privacy-empty = Siz internette gezinirken { -brand-short-name } takip kodlarını engeller. Engellenenleri burada göreceksiniz.
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } takip kodlarını kendiliğinden engelleyerek internette yaptıklarınızın daha gizli kalmasını sağlar.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Rakamlara bakın.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -259,7 +263,9 @@ newtab-privacy-message-promo-monitor-2 = 20 ayrı e-posta adresinizde veri ihlal
 newtab-privacy-message-promo-monitor-2-cta = Daha fazla bilgi al
 newtab-privacy-message-promo-signin-1 = { -vendor-short-name } hesabınızla yer imlerinizi, parolalarınızı ve sekmelerinizi tüm cihazlarınızda güvenle saklayın.
 newtab-privacy-message-promo-signin-1-cta = Giriş yap
+newtab-privacy-message-promo-vpn-1 = Herkese açık Wi-Fi ağlarında alışveriş mi yapıyorsunuz? Ekstra koruma için yerleşik VPN’i etkinleştirin.
 newtab-privacy-message-promo-vpn-1-cta = VPN’i aç
+newtab-privacy-message-promo-vpn-2 = Havalimanında Wi-Fi kullanıyor musunuz? Yerleşik VPN’i açarak internette güvenle gezinin.
 newtab-privacy-message-promo-vpn-2-cta = VPN’i aç
 newtab-privacy-message-promo-vpn-3 = Konumunuzu daha gizli tutmak için yerleşik VPN’i açın.
 newtab-privacy-message-promo-vpn-3-cta = VPN’i aç
@@ -864,6 +870,13 @@ newtab-custom-close-menu-button =
     .title = Kapat
 newtab-custom-close-button = Kapat
 newtab-custom-settings = Diğer ayarları yönet
+
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Özelleştirmeye dön
+    .title = Özelleştirmeye dön
 
 ## New Tab Appearance (browser theme picker)
 

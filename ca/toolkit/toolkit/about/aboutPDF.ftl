@@ -11,6 +11,10 @@ about-pdf-dropzone-hint = Arrossega fins aquí un PDF per començar
 about-pdf-dropzone-privacy-hint = Els fitxers romanen privats al vostre dispositiu.
 about-pdf-dropzone-invalid-file = Aquest fitxer no és compatible. Trieu un PDF per continuar.
 about-pdf-dropzone-error-generic = La càrrega no s'ha completat. Torna-ho a provar més tard.
+about-pdf-browse-files =
+    .label = Navega pels fitxers
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Obre un PDF
 about-pdf-promo =
     .heading = Feu que el { -brand-short-name } sigui el vostre editor de PDF principal
     .message = Obriu fitxers PDF amb el { -brand-short-name } i gestioneu les funcions bàsiques en un sol lloc, des de ressaltats i signatures a fitxers fusionats i comentaris.

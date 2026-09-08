@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = El { -brand-short-name } s'obrirà amb el darrer perfil usat.
 profile-window-create-profile = Crea un perfil
 profile-card-edit-button =
-    .title = Edita el perfil
     .aria-label = Edita el perfil
+    .title = Edita el perfil
 profile-card-delete-button =
-    .title = Suprimeix el perfil
     .aria-label = Suprimeix el perfil
+    .title = Suprimeix el perfil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Obre { $profileName }
     .aria-label = Obre { $profileName }
+    .title = Obre { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Perfil: { $number }
@@ -55,6 +55,8 @@ avatar-selector-upload-file = Puja un fitxer
 avatar-selector-drag-file = O arrossegueu un fitxer aquí
 avatar-selector-add-image = Afegeix una imatge
 avatar-selector-crop = Retalla
+avatar-selector-dialog =
+    .aria-label = Edita l'avatar
 edit-profile-page-no-name = Poseu un nom a aquest perfil per ajudar-vos a trobar-lo més endavant. Canvieu-li el nom en qualsevol moment.
 edit-profile-page-duplicate-name = El nom del perfil ja està usat. Proveu un altre nom.
 edit-profile-page-profile-saved = S'ha desat
@@ -288,9 +290,6 @@ profiles-appmenu-callout-tour-subtitle = Al menú ☰, premeu el nom del vostre 
 profiles-appmenu-callout-tour-primary-button = Mostra com fer-ho
 barbell-avatar = Barra de peses
 bike-avatar = Bicicleta
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Aplica l'avatar de barra de peses
 bike-avatar-tooltip =

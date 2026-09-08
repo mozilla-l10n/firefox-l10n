@@ -145,6 +145,15 @@ a11y-activated = Etkinleştirildi mi?
 a11y-force-disabled = Erişilebilirliği engelle
 a11y-handler-used = Erişilebilir işleyici kullanımı
 a11y-instantiator = Erişilebilirlik temsilcisi
+pdfjs-title = PDF görüntüleyici
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js sürümü
+pdfjs-enabled = Etkin
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Açıklama editörü etkin
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA formları etkin
 library-version-title = Kitaplık sürümleri
 copy-text-to-clipboard-label = Metni panoya kopyala
 copy-raw-data-to-clipboard-label = Ham metni panoya kopyala

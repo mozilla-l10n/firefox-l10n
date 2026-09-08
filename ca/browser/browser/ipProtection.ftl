@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Descarta
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Emporteu-vos la VPN integrada a l'Android
+ipprotection-android-promo-callout-description = Escanegeu el codi QR per obtenir el { -brand-product-name } per a Android i activeu la VPN integrada per a més privadesa allà on sigueu. Aviat estarà disponible per a iOS.
 ipprotection-android-promo-callout-primary-button = Entesos
 
 ## Panel
@@ -112,11 +114,11 @@ unauthenticated-choose-location-message-1 = Trieu entre diverses ubicacions o de
 unauthenticated-get-started = Comença
 unauthenticated-terms-of-service-privacy-notice = En continuar, accepteu les <a data-l10n-name="vpn-terms-of-service">condicions d'ús del servei</a> i l'<a data-l10n-name="vpn-privacy-notice">avís de privadesa</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Fes servir la VPN per a aquest lloc
     .aria-label = La VPN està activada per a aquest lloc
-site-exclusion-toggle-disabled-1 =
     .label = Fes servir la VPN per a aquest lloc
+site-exclusion-toggle-disabled-1 =
     .aria-label = La VPN està desactivada per a aquest lloc
+    .label = Fes servir la VPN per a aquest lloc
 site-exclusion-toggle-description = El lloc web no funciona? Proveu de desactivar la VPN.
 ipprotection-settings-link =
     .label = Paràmetres
@@ -233,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Gairebé no us q
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN integrada per a millorar la privadesa mentre es navega amb el { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN integrada
     .description = Obteniu més privadesa amagant la vostra ubicació mentre navegueu.
+    .label = VPN integrada
 ip-protection-learn-more = Més informació
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -248,12 +250,12 @@ ip-protection-not-opted-in-button = Primers passos
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Gestioneu els paràmetres de llocs web
     .description =
         { $count ->
             [one] { $count } lloc web
            *[other] { $count } llocs web
         }
+    .label = Gestioneu els paràmetres de llocs web
 ip-protection-autostart =
     .label = Activa la VPN automàticament
 ip-protection-autostart-checkbox =
@@ -261,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = En finestres privades
 ip-protection-vpn-upgrade-link =
-    .label = Obteniu encara més protecció fora del { -brand-short-name } amb { -mozilla-vpn-brand-name }
     .description = Trieu ubicacions personalitzades de VPN i afegiu protecció a totes les aplicacions en un màxim de cinc dispositius, ja sigui des de casa o en una Wi-Fi pública.
+    .label = Obteniu encara més protecció fora del { -brand-short-name } amb { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Protegiu-vos encara més amb el { -mozilla-vpn-brand-name }
     .description = Trieu entre més de 300 ubicacions i protegiu totes les aplicacions en un màxim de 5 dispositius.
+    .label = Protegiu-vos encara més amb el { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 
