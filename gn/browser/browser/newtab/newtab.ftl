@@ -857,6 +857,13 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Mboty
 newtab-custom-settings = Eñangareko hetave ñembohekóre
 
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Emboava jey
+    .title = Emboava jey
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -916,6 +923,7 @@ newtab-wallpaper-light-fox-anniversary = Aguara ñu mbyte ikapi’ipéva ojehech
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a
 ## Firefox wallpaper kept for them when it was retired.
 
+newtab-wallpaper-your-images = Ne ra’ãngaita
 # Read by screen readers for a saved image that has a name of its own: a kept
 # Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
 # someone added themselves is numbered instead, see the string below.
@@ -927,6 +935,8 @@ newtab-wallpaper-your-images-item = { $name }
 # Variables:
 #   $number (number) - Which saved image this is, counting from one
 newtab-wallpaper-your-images-item-numbered = Ta’ãnga { $number }
+newtab-wallpaper-remove-image-confirm = Mboguete
+newtab-wallpaper-remove-image-cancel = Eheja
 
 ## Solid Colors
 
