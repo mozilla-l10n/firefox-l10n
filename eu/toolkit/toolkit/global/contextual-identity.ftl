@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = Kudeatu edukiontziak
     .accesskey = o
+user-context-personal-panel-item = Pertsonala
+    .accesskey = P
+user-context-work-panel-item = Lanekoa
+    .accesskey = L
+user-context-banking-panel-item = Banka
+    .accesskey = B
+user-context-shopping-panel-item = Erosketak
+    .accesskey = E
 user-context-new-tab =
     .label = Fitxa berria
     .accesskey = b
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = Gehitu edukiontzi berria
     .accesskey = G
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Urdina
