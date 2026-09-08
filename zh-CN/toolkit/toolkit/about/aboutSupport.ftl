@@ -145,6 +145,13 @@ a11y-activated = 已激活
 a11y-force-disabled = 强制停用无障碍环境
 a11y-handler-used = 采用无障碍处理程序
 a11y-instantiator = 无障碍环境实例化器（Accessibility Instantiator）
+pdfjs-title = PDF 查看器
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js 版本
+pdfjs-enabled = 已启用
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = 批注编辑器已启用
 library-version-title = 库版本
 copy-text-to-clipboard-label = 复制文本到剪贴板
 copy-raw-data-to-clipboard-label = 复制原始数据到剪贴板
