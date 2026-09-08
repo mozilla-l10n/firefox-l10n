@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Stiùirich na soithichean
     .accesskey = O
+user-context-personal-panel-item = Pearsanta
+    .accesskey = P
+user-context-work-panel-item = Obair
+    .accesskey = O
+user-context-banking-panel-item = Bancaireachd
+    .accesskey = B
+user-context-shopping-panel-item = Seopadaireachd
+    .accesskey = S
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Gorm
