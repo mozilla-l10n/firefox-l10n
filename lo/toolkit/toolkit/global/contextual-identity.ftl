@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = ຈັດການການແຍກຂໍ້ມູນ
     .accesskey = O
+user-context-personal-panel-item = ສ່ວນຕົວ
+    .accesskey = P
+user-context-work-panel-item = ວຽກ
+    .accesskey = W
+user-context-banking-panel-item = ທະນາຄານ
+    .accesskey = B
+user-context-shopping-panel-item = ຊັອບ​ປິ່ງ
+    .accesskey = S
+user-context-manage-containers-panel-item = ຈັດການການແຍກຂໍ້ມູນ
+    .accesskey = O
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = ສີຟ້າ
