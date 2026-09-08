@@ -145,6 +145,8 @@ a11y-activated = Ενεργό
 a11y-force-disabled = Αποτροπή προσβασιμότητας
 a11y-handler-used = Προσβάσιμο handler σε χρήση
 a11y-instantiator = Ενεργοποιητής προσβασιμότητας
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = Έκδοση PDF.js
 library-version-title = Εκδόσεις βιβλιοθήκης
 copy-text-to-clipboard-label = Αντιγραφή κειμένου στο πρόχειρο
 copy-raw-data-to-clipboard-label = Αντιγραφή ακατέργαστων δεδομένων στο πρόχειρο
