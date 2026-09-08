@@ -580,6 +580,7 @@ mlmodel-pdfjs = { -brand-short-name } uzas tion ĉi por krei alternativajn tekst
 mlmodel-smart-tab-topic-engine = { -brand-short-name } uzas tion ĉi por sugesti nomojn por viaj grupoj de langetoj
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } uzas tion ĉi por sugesti langetojn por viaj grupoj de langetoj
 mlmodel-formfill-engine = { -brand-short-name } uzas tion por helpi plenigi adressajn formularojn
+mlmodel-speech-recognition = { -brand-short-name } uzas tion ĉi por parolrekono en la aparato
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI en la aparato
 addon-category-mlmodel-title =

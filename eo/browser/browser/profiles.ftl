@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } malfermos vian plej ĵuse uzitan profilon.
 profile-window-create-profile = Krei profilon
 profile-card-edit-button =
-    .title = Modifi profilon
     .aria-label = Modifi profilon
+    .title = Modifi profilon
 profile-card-delete-button =
-    .title = Forigi profilon
     .aria-label = Forigi profilon
+    .title = Forigi profilon
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Malfermi { $profileName }
     .aria-label = Malfermi { $profileName }
+    .title = Malfermi { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profilo { $number }
@@ -55,6 +55,8 @@ avatar-selector-upload-file = Alŝutu dosieron
 avatar-selector-drag-file = Aŭ trenu dosieron ĉi tien
 avatar-selector-add-image = Aldoni bildon
 avatar-selector-crop = Eltondi
+avatar-selector-dialog =
+    .aria-label = Modifi avataron
 edit-profile-page-no-name = Nomu tiun ĉi profilon por pli facile trovi ĝin poste. Vi povas renomi ĝin iam ajn.
 edit-profile-page-duplicate-name = Tiu nomo de profilo jam estas uzata. Provu alian nomon.
 edit-profile-page-profile-saved = Konservita
@@ -288,9 +290,6 @@ profiles-appmenu-callout-tour-subtitle = En la menuo ☰, premu la nomon de via 
 profiles-appmenu-callout-tour-primary-button = Montri al mi kiel fari tion
 barbell-avatar = Haltero
 bike-avatar = Biciklo
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Apliki avataron de haltero
 bike-avatar-tooltip =

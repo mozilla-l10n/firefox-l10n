@@ -423,7 +423,7 @@ quickactions-addons = Vidi aldonaĵojn
 # same word).
 quickactions-cmd-addons3 = etendaĵoj, etosoj, aldonaĵoj
 # Opens preferences page at AI controls
-quickactions-manageai = Administri regilojn por AI
+quickactions-manageai = Administri regilojn de AI
 quickactions-cmd-manageai = malaktivigi ai, malŝalti ai, administri ai
 quickactions-cmd-addons2 = aldonaĵoj
 # Opens the bookmarks library window
