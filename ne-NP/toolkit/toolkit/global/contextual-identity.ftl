@@ -24,9 +24,16 @@ user-context-shopping =
 user-context-none =
     .label = कुनै कन्टेनर छैन
     .accesskey = क
+user-context-personal-panel-item = व्यक्तिगत
+    .accesskey = व
+user-context-work-panel-item = काम
+    .accesskey = W
+user-context-banking-panel-item = बैङ्किङ
+    .accesskey = ब
+user-context-shopping-panel-item = किनमेल
+    .accesskey = क
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = नीलो
