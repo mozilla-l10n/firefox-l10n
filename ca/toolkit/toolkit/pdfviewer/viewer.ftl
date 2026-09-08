@@ -494,6 +494,8 @@ pdfjs-editor-undo-bar-close-button-label = Tanca
 # Type is a verb (you can type your name as signature)
 pdfjs-editor-add-signature-type-button = Tipus
     .title = Tipus
+pdfjs-editor-add-signature-image-button = Imatge
+    .title = Imatge
 
 ## Controls
 
@@ -537,6 +539,8 @@ pdfjs-views-manager-view-selector-button =
     .title = Vistes
 pdfjs-views-manager-view-selector-button-label = Vistes
 pdfjs-views-manager-pages-title = Pàgines
+pdfjs-views-manager-layers-title1 = Capes
+    .title = Capes (doble clic per a restablir totes les capes a l'estat per defecte)
 pdfjs-views-manager-pages-option-label = Pàgines
 pdfjs-views-manager-layers-option-label = Capes
 pdfjs-views-manager-add-file-button-label = Afegeix un fitxer

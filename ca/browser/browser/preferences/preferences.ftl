@@ -2590,6 +2590,9 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-block-ai-description = El fet de blocar implica que no veureu millores d'IA noves o actuals al { -brand-short-name }, ni finestres emergents sobre elles. <a data-l10n-name="link">Obteniu més detalls</a> sobre què s'inclou i com controlar les funcions tradicionals d'aprenentatge automàtic, com ara suggeriments de cerca i recomanacions.
 preferences-ai-controls-blocked-message =
     .message = Les millores noves i actuals de la IA estan bloquejades per defecte. Per a desbloquejar una característica específica, utilitzeu els controls següents.
+preferences-ai-controls-on-device-group =
+    .description = Aquests utilitzen petits models d'IA que es descarreguen al vostre dispositiu si utilitzeu la funció. Aquest enfocament ajuda a protegir la vostra privacitat.
+    .label = IA en dispositiu
 preferences-ai-controls-translations-control =
     .description = Navegueu sense problemes per la web en la vostra llengua preferida.
     .label = Traduccions
