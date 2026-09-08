@@ -35,6 +35,8 @@ user-context-banking-panel-item = Bank
     .accesskey = B
 user-context-shopping-panel-item = Kupowanie
     .accesskey = K
+user-context-manage-containers-panel-item = Regyruj kōntynerami
+    .accesskey = k
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
