@@ -27,6 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Správa kontejnerů
     .accesskey = k
+user-context-personal-panel-item = Osobní
+    .accesskey = O
+user-context-work-panel-item = Pracovní
+    .accesskey = P
+user-context-banking-panel-item = Bankovnictví
+    .accesskey = B
+user-context-shopping-panel-item = Nakupování
+    .accesskey = N
+user-context-manage-containers-panel-item = Správa kontejnerů
+    .accesskey = k
 user-context-new-tab =
     .label = Nový panel
     .accesskey = N
@@ -34,8 +44,7 @@ user-context-add-container =
     .label = Přidat nový kontejner
     .accesskey = k
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Modrá
