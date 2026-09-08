@@ -541,3 +541,6 @@ launch-options-spotlight-primary-button-launch = შენახვა და �
 # "has your back" is an idiom meaning support and protection; adapt freely
 # rather than translating literally.
 lapsed-user-toast-title = { -brand-product-name } კვლავ თქვენს გვერდშია
+lapsed-user-toast-subtitle = გაეცანით ახალ გზებს, როგორ ინახულოთ გვერდები მეტი არჩევანით, პირადულობითა და მართვის შესაძლებლობებით.
+lapsed-user-toast-whats-new-button = იხილეთ სიახლეები
+lapsed-user-toast-dismiss-button = აცილება

@@ -142,6 +142,13 @@ a11y-activated = მოქმედი
 a11y-force-disabled = დამხმარე საშუალებების აკრძალვა
 a11y-handler-used = გამოყენებულია ხელმისაწვდომი დამმუშავებელი
 a11y-instantiator = დამხმარე საშუალებების უზრუნველყოფა
+pdfjs-title = PDF-წამკითხველი
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js-ვერსია
+pdfjs-enabled = ჩართულია
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA-ველები ჩართულია
+pdfjs-open-attachments-inline = გაიხსნას PDF-დანართები პირდაპირ
 library-version-title = ბიბლიოთეკის ვერსიები
 copy-text-to-clipboard-label = ტექსტის ასლის აღება
 copy-raw-data-to-clipboard-label = ნედლი მონაცემების ასლის აღება
