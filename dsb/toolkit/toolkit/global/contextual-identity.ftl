@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = Kontejnery zastojaś
     .accesskey = K
+user-context-personal-panel-item = Wósobinski
+    .accesskey = W
+user-context-work-panel-item = Słužbny telefon
+    .accesskey = S
+user-context-banking-panel-item = Bankownistwo
+    .accesskey = B
+user-context-shopping-panel-item = Nakupowanje
+    .accesskey = N
 user-context-new-tab =
     .label = Nowy rejtarik
     .accesskey = N
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = Nowy kontejner pśidaś
     .accesskey = N
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Módry
