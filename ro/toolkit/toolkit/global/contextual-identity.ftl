@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Gestionează containerele
     .accesskey = O
+user-context-personal-panel-item = Personale
+    .accesskey = P
+user-context-work-panel-item = Lucru
+    .accesskey = W
+user-context-banking-panel-item = Banking
+    .accesskey = B
+user-context-shopping-panel-item = Cumpărături
+    .accesskey = S
+user-context-new-tab-panel-item = Filă nouă
+    .accesskey = N
+user-context-add-container-panel-item = Adaugă un container nou
+    .accesskey = A
+user-context-manage-containers-panel-item = Gestionează containerele
+    .accesskey = O
 user-context-new-tab =
     .label = Filă nouă
     .accesskey = N
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Adaugă un container nou
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Albastru

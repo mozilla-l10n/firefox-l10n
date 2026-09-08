@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Urus Penyimpan
     .accesskey = U
+user-context-personal-panel-item = Peribadi
+    .accesskey = P
+user-context-work-panel-item = Kerja
+    .accesskey = K
+user-context-banking-panel-item = Perbankan
+    .accesskey = P
+user-context-shopping-panel-item = Beli-belah
+    .accesskey = B
+user-context-manage-containers-panel-item = Urus Penyimpan
+    .accesskey = U
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Biru

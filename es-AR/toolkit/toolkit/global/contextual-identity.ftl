@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Administrar contenedores
     .accesskey = O
+user-context-personal-panel-item = Personal
+    .accesskey = P
+user-context-work-panel-item = Trabajo
+    .accesskey = T
+user-context-banking-panel-item = Banco
+    .accesskey = B
+user-context-shopping-panel-item = Compras
+    .accesskey = C
+user-context-new-tab-panel-item = Nueva pestaña
+    .accesskey = N
+user-context-add-container-panel-item = Agregar nuevo contenedor
+    .accesskey = A
+user-context-manage-containers-panel-item = Administrar contenedores
+    .accesskey = O
 user-context-new-tab =
     .label = Nueva pestaña
     .accesskey = N
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Agregar nuevo contenedor
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Azul

@@ -27,12 +27,23 @@ user-context-none =
 user-context-manage-containers =
     .label = Идоракунии дарбаргирандаҳо
     .accesskey = И
+user-context-personal-panel-item = Шахсӣ
+    .accesskey = P
+user-context-work-panel-item = Корӣ
+    .accesskey = W
+user-context-banking-panel-item = Бонкӣ
+    .accesskey = B
+user-context-shopping-panel-item = Харидорӣ
+    .accesskey = S
+user-context-new-tab-panel-item = Варақаи нав
+    .accesskey = В
+user-context-manage-containers-panel-item = Идоракунии дарбаргирандаҳо
+    .accesskey = И
 user-context-new-tab =
     .label = Варақаи нав
     .accesskey = В
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Кабуд

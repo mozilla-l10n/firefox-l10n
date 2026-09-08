@@ -137,6 +137,9 @@ urlbar-identity-button2 =
             [1] Lihat informasi situs (1 pelacak diblokir)
            *[other] Lihat informasi situs ({ $count } pelacak diblokir)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Tampilkan informasi situs
 
@@ -912,6 +915,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Disponsori
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Tanya
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1128,6 +1136,14 @@ urlbar-view-context-menu-open-in-window =
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window =
     .label = Buka di Jendela Pribadi Baru
+    .accesskey = P
+urlbar-view-context-menu-open-in-tab2 = Buka di Tab Baru
+    .accesskey = B
+urlbar-view-context-menu-open-in-container-tab2 = Buka di Tab Kontainer Baru
+    .accesskey = i
+urlbar-view-context-menu-open-in-window2 = Buka di Jendela Baru
+    .accesskey = n
+urlbar-view-context-menu-open-in-private-window2 = Buka di Jendela Pribadi Baru
     .accesskey = P
 
 ## Labels shown above groups of urlbar results
@@ -1348,6 +1364,10 @@ toolbar-button-new-private-window =
     .label = Jendela Mode Pribadi Baru
     .tooltiptext = Buka jendela Penjelajahan Pribadi baru ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Beberapa audio atau video pada situs ini menggunakan perangkat lunak DRM yang mungkin membatasi pemakaian Anda atas { -brand-short-name }.
@@ -1412,6 +1432,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = i
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1615,6 +1638,13 @@ file-picker-crashed-open = Dialog berkas Windows mogok. Tidak ada berkas atau fo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Dialog berkas Windows mogok. Berkas akan disimpan ke { $path }.
 file-picker-crashed-save-nowhere = Dialog berkas Windows mogok. Tidak ada folder baku yang dapat ditemukan; berkas tidak akan disimpan.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Tampilkan di Folder
     .accessKey = F
@@ -1667,6 +1697,9 @@ trustpanel-blocker-see-all = Lihat Semua
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Perlindungan pelacakan untuk { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1700,3 +1733,6 @@ trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } memblokir {
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } penambang mata uang kripto
 trustpanel-cryptominer-tab-list-header = Situs-situs berikut mencoba untuk melakukan penambangan kripto:
 trustpanel-blocker-section-header2 = <span data-l10n-name="count">{ $count }</span> Pelacak diblokir di situs ini
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

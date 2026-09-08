@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Контейнерлерді басқару
     .accesskey = о
+user-context-personal-panel-item = Жеке
+    .accesskey = Ж
+user-context-work-panel-item = Жұмыс
+    .accesskey = м
+user-context-banking-panel-item = Банкинг
+    .accesskey = Б
+user-context-shopping-panel-item = Шоппинг
+    .accesskey = Ш
+user-context-new-tab-panel-item = Жаңа бет
+    .accesskey = Ж
+user-context-add-container-panel-item = Жаңа контейнерді қосу
+    .accesskey = а
+user-context-manage-containers-panel-item = Контейнерлерді басқару
+    .accesskey = о
 user-context-new-tab =
     .label = Жаңа бет
     .accesskey = Ж
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Жаңа контейнерді қосу
     .accesskey = а
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Көк

@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Halda konteinereid
     .accesskey = H
+user-context-personal-panel-item = Isiklik
+    .accesskey = I
+user-context-work-panel-item = Töö
+    .accesskey = T
+user-context-banking-panel-item = Pangandus
+    .accesskey = P
+user-context-shopping-panel-item = Poodlemine
+    .accesskey = o
+user-context-manage-containers-panel-item = Halda konteinereid
+    .accesskey = H
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Sinine

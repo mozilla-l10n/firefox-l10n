@@ -137,6 +137,9 @@ urlbar-identity-button2 =
             [1] 查看网站信息（已拦截 1 个跟踪器）
            *[other] 查看网站信息（已拦截 { $count } 个跟踪器）
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = 查看网站信息
 
@@ -912,6 +915,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · 赞助
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 询问
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1128,6 +1136,14 @@ urlbar-view-context-menu-open-in-window =
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window =
     .label = 新建隐私窗口打开
+    .accesskey = P
+urlbar-view-context-menu-open-in-tab2 = 新建标签页打开
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab2 = 新建身份标签页打开
+    .accesskey = i
+urlbar-view-context-menu-open-in-window2 = 新建窗口打开
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window2 = 新建隐私窗口打开
     .accesskey = P
 
 ## Labels shown above groups of urlbar results
@@ -1447,6 +1463,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1665,6 +1684,13 @@ file-picker-crashed-open = Windows 文件对话框发生崩溃，无法选择文
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 文件对话框发生崩溃，此文件将保存至 { $path }。
 file-picker-crashed-save-nowhere = Windows 文件对话框发生崩溃，且找不到默认文件夹，此文件将不会保存。
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = 在文件夹中显示
     .accessKey = F
@@ -1717,6 +1743,9 @@ trustpanel-blocker-see-all = 查看全部
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = 跟踪保护：{ $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

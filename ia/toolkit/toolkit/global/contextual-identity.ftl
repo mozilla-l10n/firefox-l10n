@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Gerer le contentores
     .accesskey = o
+user-context-personal-panel-item = Personal
+    .accesskey = P
+user-context-work-panel-item = Professional
+    .accesskey = r
+user-context-banking-panel-item = Bancari
+    .accesskey = B
+user-context-shopping-panel-item = Compras
+    .accesskey = C
+user-context-new-tab-panel-item = Nove scheda
+    .accesskey = N
+user-context-add-container-panel-item = Adder nove contentor
+    .accesskey = A
+user-context-manage-containers-panel-item = Gerer le contentores
+    .accesskey = o
 user-context-new-tab =
     .label = Nove scheda
     .accesskey = N
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Adder nove contentor
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blau

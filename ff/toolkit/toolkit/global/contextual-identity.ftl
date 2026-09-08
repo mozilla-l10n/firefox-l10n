@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Toppito baɗirɗe
     .accesskey = O
+user-context-personal-panel-item = Keeriiɗo
+    .accesskey = K
+user-context-work-panel-item = Gollirdu
+    .accesskey = G
+user-context-banking-panel-item = Bankayru
+    .accesskey = B
+user-context-shopping-panel-item = Coodayru
+    .accesskey = C
+user-context-manage-containers-panel-item = Toppito baɗirɗe
+    .accesskey = O
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Bulaajo

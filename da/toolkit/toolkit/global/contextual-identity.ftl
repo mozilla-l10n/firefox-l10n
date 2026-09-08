@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Håndter kontekster
     .accesskey = o
+user-context-personal-panel-item = Personlig
+    .accesskey = P
+user-context-work-panel-item = Arbejde
+    .accesskey = A
+user-context-banking-panel-item = Bank
+    .accesskey = B
+user-context-shopping-panel-item = Shopping
+    .accesskey = S
+user-context-manage-containers-panel-item = Håndter kontekster
+    .accesskey = o
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blå

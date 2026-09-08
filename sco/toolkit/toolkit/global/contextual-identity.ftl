@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Manage Conteeners
     .accesskey = o
+user-context-personal-panel-item = Personal
+    .accesskey = P
+user-context-work-panel-item = Wark
+    .accesskey = W
+user-context-banking-panel-item = Bankin
+    .accesskey = B
+user-context-shopping-panel-item = Shoppin
+    .accesskey = S
+user-context-manage-containers-panel-item = Manage Conteeners
+    .accesskey = o
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blue

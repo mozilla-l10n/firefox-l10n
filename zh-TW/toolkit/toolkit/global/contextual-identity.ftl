@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = 管理容器
     .accesskey = O
+user-context-personal-panel-item = 私人
+    .accesskey = P
+user-context-work-panel-item = 商務
+    .accesskey = W
+user-context-banking-panel-item = 金融
+    .accesskey = B
+user-context-shopping-panel-item = 購物
+    .accesskey = S
+user-context-new-tab-panel-item = 開新分頁
+    .accesskey = N
+user-context-add-container-panel-item = 新增容器
+    .accesskey = A
+user-context-manage-containers-panel-item = 管理容器
+    .accesskey = O
 user-context-new-tab =
     .label = 開新分頁
     .accesskey = N
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = 新增容器
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = 藍色

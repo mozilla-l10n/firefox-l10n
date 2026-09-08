@@ -16,8 +16,16 @@ user-context-shopping =
     .label = Meubloe
     .accesskey = S
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+##
+
+user-context-personal-panel-item = Pribadi
+    .accesskey = P
+user-context-work-panel-item = Keurija
+    .accesskey = W
+user-context-shopping-panel-item = Meubloe
+    .accesskey = S
+
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Beulawu

@@ -24,9 +24,16 @@ user-context-shopping =
 user-context-none =
     .label = Sun kul šii
     .accesskey = S
+user-context-personal-panel-item = Boralhaali
+    .accesskey = B
+user-context-work-panel-item = Goy
+    .accesskey = y
+user-context-banking-panel-item = Banku goy
+    .accesskey = B
+user-context-shopping-panel-item = Daydayyan
+    .accesskey = D
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Bula

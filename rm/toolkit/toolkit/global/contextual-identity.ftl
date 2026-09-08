@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Administrar ils containers
     .accesskey = A
+user-context-personal-panel-item = Privat
+    .accesskey = P
+user-context-work-panel-item = Lavur
+    .accesskey = L
+user-context-banking-panel-item = Banca
+    .accesskey = B
+user-context-shopping-panel-item = Cumpras
+    .accesskey = C
+user-context-manage-containers-panel-item = Administrar ils containers
+    .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blau

@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = কন্টেইনার ব্যবস্থাপনা করুন
     .accesskey = O
+user-context-personal-panel-item = ব্যক্তিগত
+    .accesskey = P
+user-context-work-panel-item = কাজ
+    .accesskey = W
+user-context-banking-panel-item = ব্যাংকিং
+    .accesskey = B
+user-context-shopping-panel-item = কেনাকাটা
+    .accesskey = S
+user-context-manage-containers-panel-item = কন্টেইনার ব্যবস্থাপনা করুন
+    .accesskey = O
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = নীল

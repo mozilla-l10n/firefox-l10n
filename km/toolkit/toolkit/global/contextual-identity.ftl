@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = គ្រប់គ្រង​ប្រអប់​ផ្ទុក
     .accesskey = o
+user-context-personal-panel-item = ផ្ទាល់​ខ្លួន
+    .accesskey = P
+user-context-work-panel-item = ការងារ​
+    .accesskey = W
+user-context-banking-panel-item = សេវា​ធនាគារ​
+    .accesskey = B
+user-context-shopping-panel-item = ការ​ទិញ
+    .accesskey = S
+user-context-manage-containers-panel-item = គ្រប់គ្រង​ប្រអប់​ផ្ទុក
+    .accesskey = o
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = ខៀវ

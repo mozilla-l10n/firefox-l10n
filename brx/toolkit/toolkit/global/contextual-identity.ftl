@@ -21,9 +21,14 @@ user-context-none =
 user-context-manage-containers =
     .label = खनथेनारफोरखौ सामलाय
     .accesskey = O
+user-context-personal-panel-item = निजि
+    .accesskey = P
+user-context-work-panel-item = खामानि
+    .accesskey = W
+user-context-manage-containers-panel-item = खनथेनारफोरखौ सामलाय
+    .accesskey = O
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = गोथां

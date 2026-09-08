@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Gestiona els contenidors
     .accesskey = o
+user-context-personal-panel-item = Personal
+    .accesskey = P
+user-context-work-panel-item = Feina
+    .accesskey = F
+user-context-banking-panel-item = Banca
+    .accesskey = B
+user-context-shopping-panel-item = Compres
+    .accesskey = s
+user-context-new-tab-panel-item = Pestanya nova
+    .accesskey = n
+user-context-add-container-panel-item = Afegeix un contenidor nou
+    .accesskey = A
+user-context-manage-containers-panel-item = Gestiona els contenidors
+    .accesskey = o
 user-context-new-tab =
     .label = Pestanya nova
     .accesskey = n
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Afegeix un contenidor nou
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blau

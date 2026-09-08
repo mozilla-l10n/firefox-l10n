@@ -24,9 +24,16 @@ user-context-shopping =
 user-context-none =
     .label = Geen konteks
     .accesskey = n
+user-context-personal-panel-item = Persoonlik
+    .accesskey = P
+user-context-work-panel-item = Werk
+    .accesskey = W
+user-context-banking-panel-item = Bankdienste
+    .accesskey = B
+user-context-shopping-panel-item = Inkopies
+    .accesskey = s
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blou

@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = ကွန်တိန်နာများ စီမံရန်
     .accesskey = က
+user-context-personal-panel-item = ကိုယ်ရေးကိုယ်တာ
+    .accesskey = P
+user-context-work-panel-item = အလုပ်
+    .accesskey = W
+user-context-banking-panel-item = ဘဏ်လုပ်ငန်းဆိုင်ရာ
+    .accesskey = B
+user-context-shopping-panel-item = စျေးဝယ်ခြင်း
+    .accesskey = S
+user-context-manage-containers-panel-item = ကွန်တိန်နာများ စီမံရန်
+    .accesskey = က
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = အပြာရောင်

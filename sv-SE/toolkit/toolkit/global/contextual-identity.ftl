@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Hantera behållare
     .accesskey = b
+user-context-personal-panel-item = Personligt
+    .accesskey = P
+user-context-work-panel-item = Arbete
+    .accesskey = A
+user-context-banking-panel-item = Bank
+    .accesskey = B
+user-context-shopping-panel-item = Shopping
+    .accesskey = S
+user-context-new-tab-panel-item = Ny flik
+    .accesskey = f
+user-context-add-container-panel-item = Lägg till ny behållare
+    .accesskey = L
+user-context-manage-containers-panel-item = Hantera behållare
+    .accesskey = b
 user-context-new-tab =
     .label = Ny flik
     .accesskey = f
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Lägg till ny behållare
     .accesskey = L
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blå

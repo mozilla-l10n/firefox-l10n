@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Muokkaa eristystiloja
     .accesskey = M
+user-context-personal-panel-item = Omat
+    .accesskey = O
+user-context-work-panel-item = Työ
+    .accesskey = T
+user-context-banking-panel-item = Raha
+    .accesskey = R
+user-context-shopping-panel-item = Kaupat
+    .accesskey = K
+user-context-new-tab-panel-item = Uusi välilehti
+    .accesskey = v
+user-context-add-container-panel-item = Lisää uusi eristystila
+    .accesskey = a
+user-context-manage-containers-panel-item = Muokkaa eristystiloja
+    .accesskey = M
 user-context-new-tab =
     .label = Uusi välilehti
     .accesskey = v
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Lisää uusi eristystila
     .accesskey = a
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Sininen

@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Gjestìs contignidôrs
     .accesskey = G
+user-context-personal-panel-item = Personâl
+    .accesskey = P
+user-context-work-panel-item = Vore
+    .accesskey = V
+user-context-banking-panel-item = Bancje
+    .accesskey = B
+user-context-shopping-panel-item = Compris
+    .accesskey = C
+user-context-manage-containers-panel-item = Gjestìs contignidôrs
+    .accesskey = G
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blu

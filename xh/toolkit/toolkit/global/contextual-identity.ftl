@@ -24,9 +24,16 @@ user-context-shopping =
 user-context-none =
     .label = Ayikho iKhonteyina
     .accesskey = A
+user-context-personal-panel-item = Ezobuqu
+    .accesskey = E
+user-context-work-panel-item = Umsebenzi
+    .accesskey = U
+user-context-banking-panel-item = Ukubhankisha
+    .accesskey = U
+user-context-shopping-panel-item = Ukuthenga
+    .accesskey = U
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = eBlue

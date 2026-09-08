@@ -27,12 +27,23 @@ user-context-none =
 user-context-manage-containers =
     .label = Pārvaldīt konteinerus
     .accesskey = O
+user-context-personal-panel-item = Personīgais
+    .accesskey = P
+user-context-work-panel-item = Darba
+    .accesskey = W
+user-context-banking-panel-item = Finanšu
+    .accesskey = B
+user-context-shopping-panel-item = Iepirkšanās
+    .accesskey = S
+user-context-add-container-panel-item = Pievienot jaunu konteineru
+    .accesskey = P
+user-context-manage-containers-panel-item = Pārvaldīt konteinerus
+    .accesskey = O
 user-context-add-container =
     .label = Pievienot jaunu konteineru
     .accesskey = P
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Zils

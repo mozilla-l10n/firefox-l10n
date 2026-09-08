@@ -21,9 +21,16 @@ user-context-shopping =
 user-context-manage-containers =
     .label = Xestionar los contenedores
     .accesskey = o
+user-context-work-panel-item = Trabayu
+    .accesskey = T
+user-context-banking-panel-item = Bancu
+    .accesskey = B
+user-context-shopping-panel-item = Tiendes
+    .accesskey = i
+user-context-manage-containers-panel-item = Xestionar los contenedores
+    .accesskey = o
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Azul

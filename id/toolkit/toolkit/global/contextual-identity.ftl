@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Kelola Kontainer
     .accesskey = K
+user-context-personal-panel-item = Pribadi
+    .accesskey = P
+user-context-work-panel-item = Kantor
+    .accesskey = K
+user-context-banking-panel-item = Perbankan
+    .accesskey = B
+user-context-shopping-panel-item = Belanja
+    .accesskey = J
+user-context-new-tab-panel-item = Tab Baru
+    .accesskey = B
+user-context-add-container-panel-item = Tambahkan kontainer baru
+    .accesskey = a
+user-context-manage-containers-panel-item = Kelola Kontainer
+    .accesskey = K
 user-context-new-tab =
     .label = Tab Baru
     .accesskey = B
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Tambahkan kontainer baru
     .accesskey = a
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Biru

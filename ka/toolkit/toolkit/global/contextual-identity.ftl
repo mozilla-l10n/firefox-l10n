@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = სათავსების მართვა
     .accesskey = თ
+user-context-personal-panel-item = კერძო
+    .accesskey = კ
+user-context-work-panel-item = სამუშაო
+    .accesskey = ს
+user-context-banking-panel-item = საბანკო
+    .accesskey = ბ
+user-context-shopping-panel-item = სავაჭრო
+    .accesskey = ჭ
+user-context-new-tab-panel-item = ახალი ჩანართი
+    .accesskey = ხ
+user-context-add-container-panel-item = ახალი სათავსის დამატება
+    .accesskey = დ
+user-context-manage-containers-panel-item = სათავსების მართვა
+    .accesskey = თ
 user-context-new-tab =
     .label = ახალი ჩანართი
     .accesskey = ხ
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = ახალი სათავსის დამატება
     .accesskey = დ
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = ლურჯი

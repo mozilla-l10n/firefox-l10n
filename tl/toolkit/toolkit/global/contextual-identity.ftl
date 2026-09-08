@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Manage Containers
     .accesskey = O
+user-context-personal-panel-item = Personal
+    .accesskey = P
+user-context-work-panel-item = Trabaho
+    .accesskey = W
+user-context-banking-panel-item = Pagbabangko
+    .accesskey = B
+user-context-shopping-panel-item = Pamimili
+    .accesskey = S
+user-context-manage-containers-panel-item = Manage Containers
+    .accesskey = O
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Asul

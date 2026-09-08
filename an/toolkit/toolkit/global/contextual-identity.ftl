@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Chestionar contenedors
     .accesskey = o
+user-context-personal-panel-item = Personal
+    .accesskey = P
+user-context-work-panel-item = Treballo
+    .accesskey = T
+user-context-banking-panel-item = Banca
+    .accesskey = B
+user-context-shopping-panel-item = Mercau
+    .accesskey = M
+user-context-manage-containers-panel-item = Chestionar contenedors
+    .accesskey = o
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Azul

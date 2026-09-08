@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Quản lý ngăn chứa
     .accesskey = O
+user-context-personal-panel-item = Cá nhân
+    .accesskey = P
+user-context-work-panel-item = Công việc
+    .accesskey = W
+user-context-banking-panel-item = Ngân hàng
+    .accesskey = B
+user-context-shopping-panel-item = Mua sắm
+    .accesskey = S
+user-context-new-tab-panel-item = Không ngăn chứa
+    .accesskey = N
+user-context-add-container-panel-item = Thêm ngăn chứa mới
+    .accesskey = A
+user-context-manage-containers-panel-item = Quản lý ngăn chứa
+    .accesskey = O
 user-context-new-tab =
     .label = Không ngăn chứa
     .accesskey = N
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Thêm ngăn chứa mới
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Xanh lam

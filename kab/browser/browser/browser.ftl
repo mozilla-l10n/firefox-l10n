@@ -122,6 +122,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Tunigin tusligt
+
+##
+
 urlbar-identity-button =
     .aria-label = Sken talɣut n usmel
 
@@ -651,6 +654,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Kkes beṭṭu n urmad n ummesten n tɣimit-a
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = I useqdec n unezgum F12, ldi qbel DevTools seg wumuɣ n yifecka n yiminig.
@@ -851,6 +857,11 @@ urlbar-result-weather-provider-sponsored = { $provider } ⋅ S lmendad
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Suter
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -996,6 +1007,14 @@ urlbar-view-context-menu-open-in-window =
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window =
     .label = Ldi deg usfaylu uslig amaynut
+    .accesskey = m
+urlbar-view-context-menu-open-in-tab2 = Ldi deg yiccer amaynut
+    .accesskey = L
+urlbar-view-context-menu-open-in-container-tab2 = Ldi deg yiccer n umagbar amaynut
+    .accesskey = m
+urlbar-view-context-menu-open-in-window2 = Ldi deg usfaylu amaynut
+    .accesskey = n
+urlbar-view-context-menu-open-in-private-window2 = Ldi deg usfaylu uslig amaynut
     .accesskey = m
 
 ## Labels shown above groups of urlbar results
@@ -1222,6 +1241,10 @@ toolbar-button-share-tab =
     .label = Bḍu
     .tooltiptext = Bḍu asebter-a
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Kra n imeslawen neɣ timwaliyin n usmel-a seqdacen aseɣẓan DRM, ayen ad igen talast i tigawin i yessirig { -brand-short-name } ɣef iferdisen-a.
@@ -1286,6 +1309,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1320,6 +1346,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Bder akk accaren
     .tooltiptext = Bder akk accaren
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1411,6 +1440,9 @@ refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
 
+## Firefox Relay integration
+
+
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -1462,6 +1494,13 @@ popup-trigger-redirect-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Sken deg ukaram
     .accessKey = F
@@ -1499,6 +1538,9 @@ trustpanel-blocker-see-all = Wali akk
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ammesten n uḍfar i { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

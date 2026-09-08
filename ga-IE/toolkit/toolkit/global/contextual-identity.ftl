@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Bainistigh Coimeádáin
     .accesskey = o
+user-context-personal-panel-item = Pearsanta
+    .accesskey = P
+user-context-work-panel-item = Obair
+    .accesskey = O
+user-context-banking-panel-item = Baincéireacht
+    .accesskey = B
+user-context-shopping-panel-item = Siopadóireacht
+    .accesskey = S
+user-context-manage-containers-panel-item = Bainistigh Coimeádáin
+    .accesskey = o
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Gorm

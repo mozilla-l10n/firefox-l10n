@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Kontejnery rjadować
     .accesskey = K
+user-context-personal-panel-item = Wosobinski
+    .accesskey = W
+user-context-work-panel-item = Słužbny
+    .accesskey = S
+user-context-banking-panel-item = Bankownistwo
+    .accesskey = B
+user-context-shopping-panel-item = Nakupowanje
+    .accesskey = N
+user-context-new-tab-panel-item = Nowy rajtark
+    .accesskey = N
+user-context-add-container-panel-item = Nowy kontejner přidać
+    .accesskey = N
+user-context-manage-containers-panel-item = Kontejnery rjadować
+    .accesskey = K
 user-context-new-tab =
     .label = Nowy rajtark
     .accesskey = N
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Nowy kontejner přidać
     .accesskey = N
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Módry

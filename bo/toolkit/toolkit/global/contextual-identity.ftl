@@ -27,3 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = འཇུག་སྣོད་དོ་དམ་བྱེད་པ
     .accesskey = O
+user-context-personal-panel-item = Personal
+    .accesskey = P
+user-context-work-panel-item = Work
+    .accesskey = W
+user-context-banking-panel-item = Banking
+    .accesskey = B
+user-context-shopping-panel-item = Shopping
+    .accesskey = S
+user-context-manage-containers-panel-item = འཇུག་སྣོད་དོ་དམ་བྱེད་པ
+    .accesskey = O
+
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+

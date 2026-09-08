@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = కంటెయినర్లను నిర్వహించండి
     .accesskey = O
+user-context-personal-panel-item = వ్యక్తిగతం
+    .accesskey = P
+user-context-work-panel-item = పని
+    .accesskey = W
+user-context-banking-panel-item = బ్యాంకింగ్
+    .accesskey = B
+user-context-shopping-panel-item = షాపింగ్
+    .accesskey = S
+user-context-manage-containers-panel-item = కంటెయినర్లను నిర్వహించండి
+    .accesskey = O
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = నీలం

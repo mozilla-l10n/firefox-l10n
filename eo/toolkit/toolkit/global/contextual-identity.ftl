@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Administri ingojn
     .accesskey = i
+user-context-personal-panel-item = Persona
+    .accesskey = P
+user-context-work-panel-item = Laboro
+    .accesskey = L
+user-context-banking-panel-item = Banka
+    .accesskey = B
+user-context-shopping-panel-item = Aĉetumado
+    .accesskey = A
+user-context-new-tab-panel-item = Nova langeto
+    .accesskey = N
+user-context-add-container-panel-item = Aldoni novan ingon
+    .accesskey = A
+user-context-manage-containers-panel-item = Administri ingojn
+    .accesskey = i
 user-context-new-tab =
     .label = Nova langeto
     .accesskey = N
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Aldoni novan ingon
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blua

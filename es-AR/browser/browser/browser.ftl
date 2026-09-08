@@ -138,6 +138,9 @@ urlbar-identity-button2 =
             [one] Ver información del sitio (1 rastreador bloqueado)
            *[other] Ver información del sitio ({ $count } rastreadores bloqueados)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Ver información del sitio
 
@@ -920,6 +923,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Preguntar
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1160,6 +1168,14 @@ urlbar-view-context-menu-open-in-window =
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window =
     .label = Abrir en nueva ventana privada
+    .accesskey = p
+urlbar-view-context-menu-open-in-tab2 = Abrir en nueva pestaña
+    .accesskey = v
+urlbar-view-context-menu-open-in-container-tab2 = Abrir en una nueva pestaña contenedora
+    .accesskey = i
+urlbar-view-context-menu-open-in-window2 = Abrir en nueva ventana
+    .accesskey = n
+urlbar-view-context-menu-open-in-private-window2 = Abrir en nueva ventana privada
     .accesskey = p
 
 ## Labels shown above groups of urlbar results
@@ -1483,6 +1499,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1710,6 +1729,13 @@ file-picker-crashed-open = El diálogo de archivo de Windows se colgó. No se pu
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = El diálogo de archivo de Windows se colgó. El archivo se guardará en { $path }.
 file-picker-crashed-save-nowhere = El diálogo de archivo de Windows se colgó. No se pudo encontrar ninguna carpeta predeterminada; el archivo no se guardará.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostrar en carpeta
     .accessKey = M
@@ -1762,6 +1788,9 @@ trustpanel-blocker-see-all = Ver todo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecciones de rastreo para { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

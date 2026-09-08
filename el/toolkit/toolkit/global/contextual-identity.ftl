@@ -27,6 +27,20 @@ user-context-none =
 user-context-manage-containers =
     .label = Διαχείριση θεματικών ενοτήτων
     .accesskey = Θ
+user-context-personal-panel-item = Προσωπικά
+    .accesskey = π
+user-context-work-panel-item = Εργασία
+    .accesskey = ε
+user-context-banking-panel-item = Τραπεζική
+    .accesskey = ρ
+user-context-shopping-panel-item = Αγορές
+    .accesskey = ο
+user-context-new-tab-panel-item = Νέα καρτέλα
+    .accesskey = Ν
+user-context-add-container-panel-item = Προσθήκη νέας θεματικής ενότητας
+    .accesskey = α
+user-context-manage-containers-panel-item = Διαχείριση θεματικών ενοτήτων
+    .accesskey = Θ
 user-context-new-tab =
     .label = Νέα καρτέλα
     .accesskey = Ν
@@ -34,8 +48,7 @@ user-context-add-container =
     .label = Προσθήκη νέας θεματικής ενότητας
     .accesskey = α
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Μπλε

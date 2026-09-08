@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Gestionar contenedores
     .accesskey = O
+user-context-personal-panel-item = Noo'o
+    .accesskey = P
+user-context-work-panel-item = Tiñu
+    .accesskey = W
+user-context-banking-panel-item = Ve'i xu´un
+    .accesskey = B
+user-context-shopping-panel-item = A xíko
+    .accesskey = S
+user-context-manage-containers-panel-item = Gestionar contenedores
+    .accesskey = O
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Teku lee

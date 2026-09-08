@@ -128,6 +128,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Eñangareko ovetã apysẽ ñemboheko ha moma’ẽ mohapyhávare…
     .accesskey = M
+
+##
+
 urlbar-identity-button =
     .aria-label = Ehecha marandu ko tenda pegua
 
@@ -910,6 +913,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Ykekopyre
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Porandu
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1150,6 +1158,14 @@ urlbar-view-context-menu-open-in-window =
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window =
     .label = Eike Ovetã Ñemigua Pyahúpe
+    .accesskey = P
+urlbar-view-context-menu-open-in-tab2 = Eike tendayke pyahúpe
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab2 = Eike tendayke pyahu mbyatyhápe
+    .accesskey = i
+urlbar-view-context-menu-open-in-window2 = Eike Ovetã Pyahúpe
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window2 = Eike Ovetã Ñemigua Pyahúpe
     .accesskey = P
 
 ## Labels shown above groups of urlbar results
@@ -1473,6 +1489,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1696,6 +1715,13 @@ file-picker-crashed-open = Marandurenda ñemongetaha Windows pegua ndoikói. Ndo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Marandurenda ñemongetaha Windows pegua ndoikói. Marandurenda ohóta { $path }-pe.
 file-picker-crashed-save-nowhere = Marandurenda ñemongetaha Windows ndoikói. Ndojejuhúi marandurenda ypyguáva; marandurenda noñeñongatumo’ãi.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Ehechauka ñongatuhápe
     .accessKey = F
@@ -1748,6 +1774,9 @@ trustpanel-blocker-see-all = Hechapa
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Tapykuehoha mo’ãha { $host }-pe g̃uarã
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

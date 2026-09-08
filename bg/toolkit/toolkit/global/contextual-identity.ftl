@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Управление на изолатори
     .accesskey = з
+user-context-personal-panel-item = Личен
+    .accesskey = Л
+user-context-work-panel-item = Служебен
+    .accesskey = С
+user-context-banking-panel-item = Банкиране
+    .accesskey = Б
+user-context-shopping-panel-item = Пазаруване
+    .accesskey = п
+user-context-manage-containers-panel-item = Управление на изолатори
+    .accesskey = з
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Синьо
