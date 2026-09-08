@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = கலன்களை நிர்வகி
     .accesskey = O
+user-context-personal-panel-item = தனிப்பட்ட
+    .accesskey = P
+user-context-work-panel-item = பணி
+    .accesskey = W
+user-context-banking-panel-item = வங்கியியல்
+    .accesskey = B
+user-context-shopping-panel-item = பொருள்வாங்கல்
+    .accesskey = S
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = நீலம்
