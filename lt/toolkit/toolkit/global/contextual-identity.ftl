@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Tvarkyti sudėtines korteles
     .accesskey = u
+user-context-personal-panel-item = Asmeninis
+    .accesskey = A
+user-context-work-panel-item = Darbas
+    .accesskey = D
+user-context-banking-panel-item = Bankininkystė
+    .accesskey = B
+user-context-shopping-panel-item = Pirkiniai
+    .accesskey = P
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Mėlyna
