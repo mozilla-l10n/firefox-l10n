@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = Upravljanje vsebnikov
     .accesskey = U
+user-context-personal-panel-item = Osebno
+    .accesskey = O
+user-context-work-panel-item = Službeno
+    .accesskey = S
+user-context-banking-panel-item = Bančništvo
+    .accesskey = B
+user-context-shopping-panel-item = Nakupovanje
+    .accesskey = N
 user-context-new-tab =
     .label = Nov zavihek
     .accesskey = N
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = Dodaj nov vsebnik
     .accesskey = a
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Modro
