@@ -206,6 +206,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = A { -brand-short-name } böngészés közben blokkolja a követőket. Itt láthatja őket.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = A { -brand-short-name } automatikusan blokkolja a nyomkövetőket, így a tevékenysége nagyobb része marad privát.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Itt láthatja a folyamatosan frissülő összesítést.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -901,6 +907,13 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Bezárás
 newtab-custom-settings = További beállítások kezelése
 
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Vissza a testreszabáshoz
+    .title = Vissza a testreszabáshoz
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -955,6 +968,17 @@ newtab-wallpaper-dark-mountain = Hegyvidéki táj
 newtab-wallpaper-dark-city = Lila városi táj
 newtab-wallpaper-dark-fox-anniversary = Egy róka a járdán, közel egy erdőhöz
 newtab-wallpaper-light-fox-anniversary = Egy róka egy füves mezőben, ködös hegyi tájjal
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Saját képek
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Saját képek, az Ön által mentett háttérképek
 
 ## Solid Colors
 

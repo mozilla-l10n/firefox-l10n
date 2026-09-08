@@ -273,6 +273,20 @@ launch-on-login-infobar-final-message = <strong>Buka { -brand-short-name } setia
 launch-on-login-infobar-final-reject-button = Tidak, terima kasih
     .accesskey = T
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } sekarang berjalan otomatis saat Anda masuk ke Windows. Anda selalu dapat mengubahnya nanti di pengaturan.
+launch-on-login-autostart-infobar-keep-button = Tetap aktifkan
+    .accesskey = T
+launch-on-login-autostart-infobar-turn-off-button = Matikan
+    .accesskey = M
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.

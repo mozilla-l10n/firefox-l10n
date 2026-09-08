@@ -364,3 +364,19 @@ aiwindow-starter-planning-plan = Segíts egy terv elkészítésében
 aiwindow-starter-browsing-history = Keress lapokat az előzményekben
 aiwindow-starter-browsing-summarize = Összegezz lapokat
 aiwindow-starter-browsing-compare = Hasonlíts össze lapokat
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Görgetés vissza
+    .tooltiptext = Görgetés vissza
+aiwindow-starter-scroll-end =
+    .aria-label = Görgetés előre
+    .tooltiptext = Görgetés előre
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = { $text } eltüntetése
+    .title = { $text } eltüntetése
