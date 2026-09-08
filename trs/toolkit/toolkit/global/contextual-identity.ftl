@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Dugumî hue'ê' kontenedor
     .accesskey = O
+user-context-personal-panel-item = Riña man'ânt
+    .accesskey = P
+user-context-work-panel-item = Suun
+    .accesskey = W
+user-context-banking-panel-item = Bânku
+    .accesskey = B
+user-context-shopping-panel-item = Sa girun'
+    .accesskey = S
+user-context-manage-containers-panel-item = Dugumî hue'ê' kontenedor
+    .accesskey = O
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Sa kuàan
