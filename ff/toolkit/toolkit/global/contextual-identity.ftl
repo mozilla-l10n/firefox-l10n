@@ -35,6 +35,8 @@ user-context-banking-panel-item = Bankayru
     .accesskey = B
 user-context-shopping-panel-item = Coodayru
     .accesskey = C
+user-context-manage-containers-panel-item = Toppito baɗirɗe
+    .accesskey = O
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
