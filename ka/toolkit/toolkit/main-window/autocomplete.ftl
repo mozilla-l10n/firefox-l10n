@@ -26,4 +26,13 @@ autocomplete-import-learn-more = ვრცლად
 ## Secondary actions shown on form autocomplete dropdown rows.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-edit-password = პაროლის ჩასწორება
+# aria-label and tooltip for the button that opens the edit/delete menu.
+autocomplete-more-actions = დამატებითი მოქმედებები
+autocomplete-edit-password = ამ პაროლის ჩასწორება
+autocomplete-delete-password = ამ პაროლის წაშლა
+autocomplete-edit-address = ამ მისამართის ჩასწორება
+autocomplete-delete-address = ამ მისამართის წაშლა
+autocomplete-edit-payment-method = გადახდის ამ საშუალების ჩასწორება
+autocomplete-delete-payment-method = გადახდის ამ საშუალების წაშლა
+# aria-label and tooltip for the trash button on a form history entry.
+autocomplete-delete-form-history-entry = ველის ამ ჩანაწერის წაშლა

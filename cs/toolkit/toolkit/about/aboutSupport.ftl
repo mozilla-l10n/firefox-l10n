@@ -160,6 +160,7 @@ pdfjs-enabled = Povolen
 pdfjs-enabled-annotation-editor = Editor anotací je zapnutý
 # XFA (XML Form Architecture) refers to Adobe’s technology for forms.
 pdfjs-enabled-xfa = Formuláře XFA povoleny
+pdfjs-open-attachments-inline = Otevírání příloh PDF v dokumentu
 library-version-title = Verze knihoven
 copy-text-to-clipboard-label = Zkopírovat text do schránky
 copy-raw-data-to-clipboard-label = Zkopírovat data do schránky
