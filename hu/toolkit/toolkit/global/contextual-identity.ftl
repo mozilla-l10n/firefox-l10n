@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = Konténerek kezelése
     .accesskey = O
+user-context-personal-panel-item = Személyes
+    .accesskey = z
+user-context-work-panel-item = Munkahelyi
+    .accesskey = u
+user-context-banking-panel-item = Bankolás
+    .accesskey = B
+user-context-shopping-panel-item = Vásárlás
+    .accesskey = V
 user-context-new-tab =
     .label = Új lap
     .accesskey = j
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = Új konténer hozzáadása
     .accesskey = a
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Kék
