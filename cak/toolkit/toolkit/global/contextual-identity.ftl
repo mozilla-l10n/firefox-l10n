@@ -27,9 +27,12 @@ user-context-none =
 user-context-manage-containers =
     .label = Kenuk'samajïx K'wayöl
     .accesskey = w
+user-context-personal-panel-item = Ichinan
+    .accesskey = I
+user-context-work-panel-item = Samaj
+    .accesskey = S
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Xar
