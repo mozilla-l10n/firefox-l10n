@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Konteynerlerni İdare Et
     .accesskey = o
+user-context-personal-panel-item = Şahsiy
+    .accesskey = a
+user-context-work-panel-item = İş
+    .accesskey = İ
+user-context-banking-panel-item = Bankçılıq
+    .accesskey = B
+user-context-shopping-panel-item = Alış-beriş
+    .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Kök
