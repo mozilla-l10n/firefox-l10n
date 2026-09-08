@@ -27,6 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = ניהול מגירות
     .accesskey = ג
+user-context-personal-panel-item = פרטי
+    .accesskey = פ
+user-context-work-panel-item = עבודה
+    .accesskey = ע
+user-context-banking-panel-item = בנקאות
+    .accesskey = ב
+user-context-shopping-panel-item = קניות
+    .accesskey = ק
+user-context-manage-containers-panel-item = ניהול מגירות
+    .accesskey = ג
 user-context-new-tab =
     .label = לשונית חדשה
     .accesskey = ל
@@ -34,8 +44,7 @@ user-context-add-container =
     .label = הוספת מגירה חדשה
     .accesskey = ה
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = כחול
