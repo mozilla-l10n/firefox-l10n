@@ -29,6 +29,14 @@ user-context-manage-containers =
     .accesskey = O
 user-context-personal-panel-item = Personeigais
     .accesskey = P
+user-context-work-panel-item = Work
+    .accesskey = W
+user-context-banking-panel-item = Banking
+    .accesskey = B
+user-context-shopping-panel-item = Shopping
+    .accesskey = S
+user-context-manage-containers-panel-item = Porvaļdēt skreines
+    .accesskey = O
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
