@@ -137,6 +137,9 @@ urlbar-identity-button2 =
             [1] Сайт ақпаратын қарау (1 трекер блокталды)
            *[other] Сайт ақпаратын қарау ({ $count } трекер блокталды)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Сайт ақпаратын қарау
 
@@ -916,6 +919,11 @@ urlbar-result-weather-title-city-only = { $city } жерінде <strong>{ $temp
 urlbar-result-weather-provider-sponsored = { $provider } · Демеушілік
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Сұрау
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1156,6 +1164,14 @@ urlbar-view-context-menu-open-in-window =
     .accesskey = Ж
 urlbar-view-context-menu-open-in-private-window =
     .label = Жаңа жекелік терезесінде ашу
+    .accesskey = е
+urlbar-view-context-menu-open-in-tab2 = Жаңа бетте ашу
+    .accesskey = а
+urlbar-view-context-menu-open-in-container-tab2 = Жаңа контейнерлік бетте ашу
+    .accesskey = й
+urlbar-view-context-menu-open-in-window2 = Жаңа терезеде ашу
+    .accesskey = Ж
+urlbar-view-context-menu-open-in-private-window2 = Жаңа жекелік терезесінде ашу
     .accesskey = е
 
 ## Labels shown above groups of urlbar results
@@ -1479,6 +1495,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1706,6 +1725,13 @@ file-picker-crashed-open = Windows файл сұхбаты құлап түсті
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows файл сұхбаты құлап түсті. Файл { $path } жеріне сақталатын болады.
 file-picker-crashed-save-nowhere = Windows файл сұхбаты құлап түсті. Үнсіз келісім бумасын табу мүмкін емес, файл сақталмайтын болады.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Бумада көрсету
     .accessKey = Б
@@ -1758,6 +1784,9 @@ trustpanel-blocker-see-all = Барлығын қарау
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } үшін бақылаудан қорғаныстар
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
