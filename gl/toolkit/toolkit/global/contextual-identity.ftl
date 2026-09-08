@@ -33,6 +33,10 @@ user-context-work-panel-item = Traballo
     .accesskey = T
 user-context-banking-panel-item = Banca
     .accesskey = B
+user-context-shopping-panel-item = Compras
+    .accesskey = C
+user-context-manage-containers-panel-item = Xestionar contedores
+    .accesskey = o
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
