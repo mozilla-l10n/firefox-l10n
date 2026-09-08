@@ -142,6 +142,13 @@ a11y-activated = Ativado
 a11y-force-disabled = Bloquear acessibilidade
 a11y-handler-used = Manipulador de acessibilidade usado
 a11y-instantiator = Instanciador de Acessibilidade
+pdfjs-title = Visor de PDF
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = Versão do PDF.js
+pdfjs-enabled = Ativado
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Editor de anotações ativado
 library-version-title = Versões de bibliotecas
 copy-text-to-clipboard-label = Copiar como texto legível
 copy-raw-data-to-clipboard-label = Copiar como estrutura de dados
