@@ -139,6 +139,9 @@ urlbar-identity-button2 =
             [few] Погледајте податке о страници (блокирани су пратиоци са { $count })
            *[other] Погледајте податке о страници (блокирани су пратиоци са { $count })
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Прикажи информације о сајту
 
@@ -937,6 +940,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонзорисано
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Питај
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1183,6 +1191,14 @@ urlbar-view-context-menu-open-in-window =
     .accesskey = н
 urlbar-view-context-menu-open-in-private-window =
     .label = Отвори у новом приватном прозору
+    .accesskey = в
+urlbar-view-context-menu-open-in-tab2 = Отвори у новом језичку
+    .accesskey = в
+urlbar-view-context-menu-open-in-container-tab2 = Отвори у новом језичку у контејнеру
+    .accesskey = к
+urlbar-view-context-menu-open-in-window2 = Отвори у новом прозору
+    .accesskey = н
+urlbar-view-context-menu-open-in-private-window2 = Отвори у новом приватном прозору
     .accesskey = в
 
 ## Labels shown above groups of urlbar results
@@ -1507,6 +1523,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1742,6 +1761,13 @@ file-picker-crashed-open = Windows дијалошки оквир за избор
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows дијалошки оквир за избор датотеке је пао. Датотека ће бити сачувана у { $path }.
 file-picker-crashed-save-nowhere = Windows дијалошки оквир за избор датотеке је пао. Подразумевана фасцикла за чување није пронађена, те датотека неће бити сачувана.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Прикажи у фасцикли
     .accessKey = ф
@@ -1794,6 +1820,9 @@ trustpanel-blocker-see-all = Прикажи све
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Заштита од праћења за { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
