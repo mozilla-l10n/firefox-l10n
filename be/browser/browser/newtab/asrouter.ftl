@@ -529,3 +529,21 @@ launch-options-spotlight-checkbox-restore-previous = Пераадкрыць па
 launch-options-spotlight-primary-button-close = Захаваць і закрыць { -brand-short-name }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Захаваць і працягнуць
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+# "has your back" is an idiom meaning support and protection; adapt freely
+# rather than translating literally.
+lapsed-user-toast-title = { -brand-product-name } усё яшчэ прыкрывае вас
+lapsed-user-toast-subtitle = Азнаёмцеся з новымі спосабамі аглядання з большым выбарам, прыватнасцю і кантролем.
+lapsed-user-toast-whats-new-button = Што новага
+lapsed-user-toast-dismiss-button = Адхіліць

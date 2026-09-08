@@ -145,6 +145,12 @@ a11y-activated = Задзейнічаны
 a11y-force-disabled = Прадухіліць даступнасць
 a11y-handler-used = Апрацоўшчык даступнасці. які выкарыстоўваецца
 a11y-instantiator = Увасабляльнік даступнасці
+pdfjs-title = Прагляд PDF
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = Версія PDF.js
+pdfjs-enabled = Уключана
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Формы XFA уключаны
 library-version-title = Версіі бібліятэк
 copy-text-to-clipboard-label = Скапіяваць тэкст у буфер абмену
 copy-raw-data-to-clipboard-label = Скапіяваць сырыя дадзеныя ў буфер абмену

@@ -539,3 +539,4 @@ launch-options-spotlight-primary-button-launch = Salvar e continuar
 ## Windows and therefore must be as narrow as possible.
 
 lapsed-user-toast-whats-new-button = Vide le novas
+lapsed-user-toast-dismiss-button = Ignorar

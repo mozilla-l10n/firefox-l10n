@@ -145,6 +145,7 @@ a11y-activated = Activate
 a11y-force-disabled = Impedir le accessibilitate
 a11y-handler-used = Es usate le gestor accessibile
 a11y-instantiator = Generator de accessibilitate
+pdfjs-enabled = Activate
 library-version-title = Versiones de bibliotheca
 copy-text-to-clipboard-label = Copiar le texto al area de transferentia
 copy-raw-data-to-clipboard-label = Copiar le datos brute al area de transferentia

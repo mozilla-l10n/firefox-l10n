@@ -142,6 +142,16 @@ a11y-activated = 已啟用
 a11y-force-disabled = 已強迫停用輔助功能
 a11y-handler-used = 已使用 Accessible Handler
 a11y-instantiator = Accessibility Instantiator
+pdfjs-title = PDF 檢視器
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js 版本
+pdfjs-enabled = 啟用
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = 已啟用註解編輯器
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = 已啟用 XFA 表單功能
+pdfjs-open-attachments-inline = 於行內開啟 PDF 附件
 library-version-title = 程式庫版本
 copy-text-to-clipboard-label = 將文字複製到剪貼簿
 copy-raw-data-to-clipboard-label = 將原始資料複製到剪貼簿
