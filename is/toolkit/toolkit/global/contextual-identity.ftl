@@ -31,6 +31,12 @@ user-context-personal-panel-item = Persónulegt
     .accesskey = P
 user-context-work-panel-item = Vinna
     .accesskey = V
+user-context-banking-panel-item = Netbankar
+    .accesskey = b
+user-context-shopping-panel-item = Innkaup
+    .accesskey = s
+user-context-manage-containers-panel-item = Stjórna sérefnisfllipum
+    .accesskey = f
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
