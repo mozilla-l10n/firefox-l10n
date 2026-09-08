@@ -11,9 +11,9 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = ჩანართების გაუქმება და პროცესის გათიშვა
+    .title = ჩანართების განტვირთვა და დამუშავების შეწყვეტა
 about-processes-kill-process =
-    .title = პროცესის გათიშვა
+    .title = პროცესის შეწყვეტა
 about-processes-shutdown-tab =
     .title = ჩანართის დახურვა
 # Profiler icons
@@ -38,7 +38,7 @@ about-processes-column-cpu-total = პროცესორი
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
-about-processes-web-process = გაზიარებული ვებპროცესები ({ $pid })
+about-processes-web-process = საზიარო ვებპროცესები ({ $pid })
 about-processes-file-process = ფაილები ({ $pid })
 about-processes-extension-process = გაფართოებები ({ $pid })
 about-processes-privilegedabout-process = „about:“ გვერდები ({ $pid })
