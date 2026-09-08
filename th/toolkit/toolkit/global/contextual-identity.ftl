@@ -27,12 +27,15 @@ user-context-none =
 user-context-manage-containers =
     .label = จัดการที่แยกข้อมูล
     .accesskey = จ
+user-context-personal-panel-item = ส่วนบุคคล
+    .accesskey = ส
+user-context-work-panel-item = งาน
+    .accesskey = ง
 user-context-new-tab =
     .label = แท็บใหม่
     .accesskey = ห
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = น้ำเงิน
