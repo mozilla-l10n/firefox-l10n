@@ -30,6 +30,8 @@ user-context-work-panel-item = ജോലി
     .accesskey = ജ
 user-context-banking-panel-item = ബാങ്കിങ്ങ്
     .accesskey = ബ
+user-context-shopping-panel-item = ഷോപ്പിംഗ്
+    .accesskey = S
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
