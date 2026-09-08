@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = کنٹینرز دا بندوبست کرو
     .accesskey = o
+user-context-personal-panel-item = ذاتی
+    .accesskey = P
+user-context-work-panel-item = کم
+    .accesskey = W
+user-context-banking-panel-item = بینکاری
+    .accesskey = B
+user-context-shopping-panel-item = خریداری
+    .accesskey = S
+user-context-manage-containers-panel-item = کنٹینرز دا بندوبست کرو
+    .accesskey = o
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = نیلا
