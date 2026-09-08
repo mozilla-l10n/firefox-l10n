@@ -105,6 +105,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Bildo de la tago
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Ĵusaj serĉoj
 home-prefs-mission-message2 =
     .message = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
 home-prefs-manage-topics-link2 =
@@ -168,6 +171,10 @@ home-prefs-mission-message-learn-more-link-srd = Malkovri kiel
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Pli da informo
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Privateco
 
 ## Privacy widget — count readout
 
@@ -199,6 +206,18 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokas spurilojn dum vi retumas. Vi vidos ilin ĉi tie.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } aŭtomate blokas spurilojn, kio igas pli da viaj agoj privataj.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Tie ĉi videblas ĝisdatigita nombro.
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Pli rapida retumo. Malpli da spuriloj.
+newtab-privacy-etp-off-turn-on-tracking = Ŝaltu la protektojn kontraŭ spurado en la agordoj por komenci bloki.
 
 ## Privacy widget — informational messages
 ##
@@ -332,6 +351,12 @@ newtab-stocks-widget-title = Akcioj
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Merkatoj
     .label = Merkatoj
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Atentaro
+    .label = Atentaro
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Serĉi laŭ nomo aŭ simbolo
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
