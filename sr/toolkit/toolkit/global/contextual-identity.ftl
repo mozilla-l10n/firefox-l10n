@@ -27,6 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Управљај контејнерима
     .accesskey = У
+user-context-personal-panel-item = Лично
+    .accesskey = Л
+user-context-work-panel-item = Посао
+    .accesskey = П
+user-context-banking-panel-item = Куповина
+    .accesskey = К
+user-context-shopping-panel-item = Банкарство
+    .accesskey = Б
+user-context-manage-containers-panel-item = Управљај контејнерима
+    .accesskey = У
 user-context-new-tab =
     .label = Нови језичак
     .accesskey = Н
@@ -34,8 +44,7 @@ user-context-add-container =
     .label = Додај нови контејнер
     .accesskey = Д
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Плава
