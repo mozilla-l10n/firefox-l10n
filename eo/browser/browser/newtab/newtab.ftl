@@ -371,6 +371,69 @@ newtab-stocks-ticker-status-down = { $name }, malsupreniras { $change }, { $pric
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, senŝanĝa, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = Aldoni { $name } al la atentaro
+    .title = Aldoni { $name } al la atentaro
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = Forigi { $name } el la atentaro
+    .title = Forigi { $name } el la atentaro
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } estas en via atentaro
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = { $name } aldonita al la atentaro
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = { $name } forigita el la atentaro
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Serĉi laŭ nomo aŭ simbolo
+    .placeholder = Serĉi laŭ nomo aŭ simbolo
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Rezulto de serĉo
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .aria-label = Malantaŭen
+    .title = Malantaŭen
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Neniu rezulto por “{ $query }”
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Ŝargado…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Ne eblas serĉi nun. Provu denove poste.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Vi povas aldoni maksimume { $limit } akcion. Forigu iun por povi aldoni alian.
+       *[other] Vi povas aldoni maksimume { $limit } akciojn. Forigu iun por povi aldoni alian.
+    }
+
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -420,6 +483,23 @@ newtab-picture-check-back = Kontrolu denove morgaŭ por malkovri novan bildon
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Bildo de la tago de Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Ĵusaj serĉoj
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Ebloj por ĵusaj serĉoj
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Pli da informo
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Artikoloj
+newtab-spaces-tab-widgets = Komponantoj
+newtab-spaces-tab-activity = Aktiveco
 
 ## Search box component.
 
@@ -682,12 +762,24 @@ newtab-discovery-empty-section-topstories-timed-out = Fuŝ! Ni preskaŭ tute ŝa
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } el { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Antaŭa
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Venonta
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Paŭzigi aŭtomatan ludadon
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Daŭrigi aŭtomatan ludadon
 
 ## Pocket Content Section.
 
@@ -796,6 +888,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Akcioj
 newtab-custom-widget-picture-toggle =
     .label = Bildo de la tago
+newtab-custom-widget-recent-searches-toggle =
+    .label = Ĵusaj serĉoj
 newtab-custom-widget-section-title = Komponantoj
 newtab-custom-widget-section-toggle =
     .label = Komponantoj
@@ -808,6 +902,13 @@ newtab-custom-close-menu-button =
     .title = Fermi
 newtab-custom-close-button = Fermi
 newtab-custom-settings = Administri aliajn agordojn
+
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Reen al personecigo
+    .title = Reen al personecigo
 
 ## New Tab Appearance (browser theme picker)
 
@@ -863,6 +964,48 @@ newtab-wallpaper-dark-mountain = Pejzaĝo monta
 newtab-wallpaper-dark-city = Purpura pejzaĝo urba
 newtab-wallpaper-dark-fox-anniversary = Vulpo sur pavimo proksime de arbaro
 newtab-wallpaper-light-fox-anniversary = Vulpo sur herbejo kun nebula pejzaĝo monta
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Viaj bildoj
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Viaj bildoj, ekranfonoj konservitaj de vi
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Bildo { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Forigi { $name }
+    .title = Forigi bildon
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Forigi bildon { $number }
+    .title = Forigi bildon { $number }
+newtab-wallpaper-remove-image-title = Ĉu forigi bildon?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Tiu ĉi ago ne estas malfarebla.
+newtab-wallpaper-remove-image-confirm = Forigi
+newtab-wallpaper-remove-image-cancel = Nuligi
 
 ## Solid Colors
 
@@ -956,6 +1099,9 @@ newtab-weather-menu-change-location = Ŝanĝi lokon
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Serĉi lokon
     .placeholder = Serĉi lokon
+newtab-weather-cancel-input =
+    .aria-label = Nuligi
+    .title = Nuligi
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Uzi nunan pozicion
@@ -1066,6 +1212,8 @@ newtab-section-follow-highlight-subtitle = Sekvu viajn interesojn por vidi pli d
 
 newtab-topic-navigation-label =
     .aria-label = Temoj
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Pli
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1205,6 +1353,10 @@ newtab-widget-lists-menu-create = Krei novan liston
 newtab-widget-lists-menu-delete = Forigi tiun ĉi liston
 newtab-widget-lists-menu-copy = Kopii liston al tondujo
 newtab-widget-lists-menu-learn-more = Pli da informo
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Ŝanĝi liston
+    .title = Ŝanĝi liston
 newtab-widget-lists-button-add-item = Aldoni elementon
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Aldoni elementon
@@ -1264,6 +1416,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Faldi ĉiujn komponantojn en kompakta grando
     .title = Plejetigi komponantojn
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Montri la sekcion pri komponantoj
+    .title = Montri komponantojn
 newtab-widget-section-menu-button =
     .aria-label = Malfermi menuon de komponantoj
     .title = Menuo de komponantoj

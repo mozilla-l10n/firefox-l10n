@@ -364,3 +364,19 @@ aiwindow-starter-planning-plan = Helpu fari planon
 aiwindow-starter-browsing-history = Trovu langetojn en historio
 aiwindow-starter-browsing-summarize = Resumu langetojn
 aiwindow-starter-browsing-compare = Komparu langetojn
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Rulumi reen
+    .tooltiptext = Rulumi reen
+aiwindow-starter-scroll-end =
+    .aria-label = Rulumi antaŭen
+    .tooltiptext = Rulumi antaŭen
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Ignori { $text }
+    .title = Ignori { $text }
