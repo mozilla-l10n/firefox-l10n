@@ -149,8 +149,12 @@ pdfjs-title = Прагляд PDF
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = Версія PDF.js
 pdfjs-enabled = Уключана
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Рэдактар анатацый уключаны
 # XFA (XML Form Architecture) refers to Adobe’s technology for forms.
 pdfjs-enabled-xfa = Формы XFA уключаны
+pdfjs-open-attachments-inline = Адкрыць далучэнні PDF у дакуменце
 library-version-title = Версіі бібліятэк
 copy-text-to-clipboard-label = Скапіяваць тэкст у буфер абмену
 copy-raw-data-to-clipboard-label = Скапіяваць сырыя дадзеныя ў буфер абмену
