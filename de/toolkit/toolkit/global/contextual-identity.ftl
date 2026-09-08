@@ -27,6 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Tab-Umgebungen verwalten
     .accesskey = v
+user-context-personal-panel-item = Freizeit
+    .accesskey = F
+user-context-work-panel-item = Arbeit
+    .accesskey = A
+user-context-banking-panel-item = Banking
+    .accesskey = B
+user-context-shopping-panel-item = Einkaufen
+    .accesskey = E
+user-context-manage-containers-panel-item = Tab-Umgebungen verwalten
+    .accesskey = v
 user-context-new-tab =
     .label = Neuer Tab
     .accesskey = N
@@ -34,8 +44,7 @@ user-context-add-container =
     .label = Neue Tab-Umgebung hinzufügen
     .accesskey = U
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blau
