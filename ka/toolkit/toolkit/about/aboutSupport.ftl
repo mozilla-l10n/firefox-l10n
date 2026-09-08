@@ -146,6 +146,9 @@ pdfjs-title = PDF-წამკითხველი
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = PDF.js-ვერსია
 pdfjs-enabled = ჩართულია
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = წარწერების ჩასწორება ჩართულია
 # XFA (XML Form Architecture) refers to Adobe’s technology for forms.
 pdfjs-enabled-xfa = XFA-ველები ჩართულია
 pdfjs-open-attachments-inline = გაიხსნას PDF-დანართები პირდაპირ
