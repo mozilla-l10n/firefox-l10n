@@ -17,3 +17,15 @@ about-sync-log-search-input =
 
 about-sync-log-refresh-button =
     .label = 刷新
+
+## Log list
+
+# Variables:
+#   $count (Number) - Number of logs currently shown.
+about-sync-log-count = { $count } 条日志
+about-sync-log-badge-success = 成功
+about-sync-log-badge-error = 错误
+# Variables:
+#   $value (number) - The amount of data (e.g. "12.3").
+#   $unit (string) - The unit of data (e.g. "KB").
+about-sync-log-row-size = { $value } { $unit }
