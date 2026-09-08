@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Manìgia cuntenidores
     .accesskey = M
+user-context-personal-panel-item = Personale
+    .accesskey = P
+user-context-work-panel-item = Traballu
+    .accesskey = T
+user-context-banking-panel-item = Banca
+    .accesskey = B
+user-context-shopping-panel-item = Còmporas
+    .accesskey = C
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Biaitu
