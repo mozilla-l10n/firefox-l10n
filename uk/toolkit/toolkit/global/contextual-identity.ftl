@@ -35,6 +35,8 @@ user-context-banking-panel-item = Банк
     .accesskey = Б
 user-context-shopping-panel-item = Покупки
     .accesskey = П
+user-context-manage-containers-panel-item = Керувати контейнерами
+    .accesskey = К
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
