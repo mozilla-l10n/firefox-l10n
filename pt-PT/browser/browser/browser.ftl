@@ -1161,14 +1161,14 @@ urlbar-view-context-menu-open-in-window =
 urlbar-view-context-menu-open-in-private-window =
     .label = Abrir numa nova janela privada
     .accesskey = p
-urlbar-view-context-menu-open-in-tab2 = Abrir num novo separador
-    .accesskey = s
-urlbar-view-context-menu-open-in-container-tab2 = Abrir num novo separador contentor
-    .accesskey = c
-urlbar-view-context-menu-open-in-window2 = Abrir numa nova janela
-    .accesskey = j
-urlbar-view-context-menu-open-in-private-window2 = Abrir numa nova janela privada
-    .accesskey = p
+urlbar-view-context-menu-open-in-tab2 = Abrir num Novo Separador
+    .accesskey = n
+urlbar-view-context-menu-open-in-container-tab2 = Abrir num Novo Separador Contentor
+    .accesskey = C
+urlbar-view-context-menu-open-in-window2 = Abrir numa Nova Janela
+    .accesskey = J
+urlbar-view-context-menu-open-in-private-window2 = Abrir numa Nova Janela Privada
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 
