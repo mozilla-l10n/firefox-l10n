@@ -27,12 +27,23 @@ user-context-none =
 user-context-manage-containers =
     .label = دؽوۉداری هاملا
     .accesskey = o
+user-context-personal-panel-item = سیخومی
+    .accesskey = P
+user-context-work-panel-item = کاری
+    .accesskey = W
+user-context-banking-panel-item = بانکی
+    .accesskey = B
+user-context-shopping-panel-item = استیڌن
+    .accesskey = S
+user-context-new-tab-panel-item = بلگه نۊ
+    .accesskey = N
+user-context-manage-containers-panel-item = دؽوۉداری هاملا
+    .accesskey = o
 user-context-new-tab =
     .label = بلگه نۊ
     .accesskey = N
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = کوۊ
