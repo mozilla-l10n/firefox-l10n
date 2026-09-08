@@ -149,6 +149,9 @@ pdfjs-enabled = Ativado
 # The annotation editor is the set of PDF editing tools (draw, add image, add
 # text, signature).
 pdfjs-enabled-annotation-editor = Editor de anotações ativado
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Formulários XFA ativado
+pdfjs-open-attachments-inline = Abrir anexos PDF no próprio documento
 library-version-title = Versões de bibliotecas
 copy-text-to-clipboard-label = Copiar como texto legível
 copy-raw-data-to-clipboard-label = Copiar como estrutura de dados
