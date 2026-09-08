@@ -142,6 +142,10 @@ a11y-activated = Aktiva
 a11y-force-disabled = Eviti alireblon
 a11y-handler-used = Alirebleca pelilo uzita
 a11y-instantiator = Alirebleca kreanto
+pdfjs-title = Legilo PDF
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = Versio de PDF.js
+pdfjs-enabled = Aktiva
 library-version-title = Versioj de bibliotekoj
 copy-text-to-clipboard-label = Kopii tekston al tondujo
 copy-raw-data-to-clipboard-label = Kopii krudajn datumojn al tondujo

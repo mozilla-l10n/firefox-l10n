@@ -45,6 +45,8 @@ managed-notice-info-icon =
     .alt = Informo
 managed-notice-nav =
     .label = Via retumilo estas administrata de via organizo.
+tls-key-logging-notice-nav =
+    .label = Programo aŭ servo povus vidi vian ĉifritan trafikon.
 category-list =
     .aria-label = Kategorioj
 pane-general-title = Ĉefaj
@@ -1245,6 +1247,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Elekti ingon por ĉiu nova langeto
     .accesskey = E
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = Ne uzi ingojn por ligiloj malfermitaj el aliaj programoj
+    .accesskey = N
 containers-new-tab-check2 =
     .description = Tio ĉi malfermos la menuon de ingoj ĉiufoje post premo de la butono por nova langeto.
     .label = Aldoni ingon por ĉiu nova langeto

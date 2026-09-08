@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Ignori
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Portu la integritan VPN kun vi en Android
+ipprotection-android-promo-callout-description = Skanu la kodon QR por elŝuti { -brand-product-name } por Android kaj ŝalti la integritan VPN por havi pli da privateco kie ajn vi estas. Baldaŭ disponebla en iOS.
 ipprotection-android-promo-callout-primary-button = Mi komprenis
 
 ## Panel
@@ -112,11 +114,11 @@ unauthenticated-choose-location-message-1 = Elektu inter pluraj lokoj aŭ permes
 unauthenticated-get-started = Unuaj paŝoj
 unauthenticated-terms-of-service-privacy-notice = Se vi daŭrigas, vi akceptas la <a data-l10n-name="vpn-terms-of-service">kondiĉojn de uzo</a> kaj <a data-l10n-name="vpn-privacy-notice">rimarkon pri privateco</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Ŝalti VPN por tiu ĉi retejo
     .aria-label = VPN ŝaltita por tiu ĉi retejo
-site-exclusion-toggle-disabled-1 =
     .label = Ŝalti VPN por tiu ĉi retejo
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN malŝaltita por tiu ĉi retejo
+    .label = Ŝalti VPN por tiu ĉi retejo
 site-exclusion-toggle-description = Ĉu la retejo ne funckias? Provu malŝalti la VPN.
 ipprotection-settings-link =
     .label = Agordoj
@@ -233,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Vi preskaŭ elĉ
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Integrita VPN por plibonigi vian privatecon dum vi retumas per { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Integrita VPN
     .description = Ricevu ekstran privatecon per kaŝo de via pozicio dum vi retumas.
+    .label = Integrita VPN
 ip-protection-learn-more = Pli da informo
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -248,12 +250,12 @@ ip-protection-not-opted-in-button = Unuaj paŝoj
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Administri agordojn de retejoj
     .description =
         { $count ->
             [one] { $count } retejo
            *[other] { $count } retejoj
         }
+    .label = Administri agordojn de retejoj
 ip-protection-autostart =
     .label = Aŭtomate ŝalti VPN
 ip-protection-autostart-checkbox =
@@ -261,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = En privataj fenestroj
 ip-protection-vpn-upgrade-link =
-    .label = Ricevu eĉ pli da protekto krom tiu de { -brand-short-name } per { -mozilla-vpn-brand-name }.
     .description = Elektu personecitigajn lokojn por VPN kaj aldonu protekton al ĉiuj viaj apoj en maksimume kvin aparatoj, ĉu hejme ĉu en publika Wi-Fi.
+    .label = Ricevu eĉ pli da protekto krom tiu de { -brand-short-name } per { -mozilla-vpn-brand-name }.
 ip-protection-vpn-upgrade-link-1 =
-    .label = Protektu vin iom pli per { -mozilla-vpn-brand-name }
     .description = Elektu inter 300+ lokoj kaj protektu ĉiujn viajn apojn en maksimume 5 aparatoj.
+    .label = Protektu vin iom pli per { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

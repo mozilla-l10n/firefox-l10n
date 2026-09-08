@@ -128,6 +128,7 @@ fxa-menu-sync-off-data-description = Viaj datumoj ne estas spegulataj
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Ŝalti
+fxa-menu-sync-status-turn-on-button-aria-label = Ŝalti
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Komenci seancon por speguli
@@ -393,6 +394,8 @@ appmenuitem-relay-description = Maski vian veran retpoŝton kaj telefonnumeron
 appmenuitem-services-relay-description = Malfermi la panelon pri retpoŝtaj maskoj
 appmenuitem-vpn-title2 = Kaŝu vian pozicion per { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description5 = Profitu aldonan protekton en ĉiuj aparatoj
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Elŝuti { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Protekto por la integra aparato
 appmenuitem-vpn-description = Protektu vian retumon
