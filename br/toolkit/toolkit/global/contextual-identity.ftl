@@ -35,6 +35,8 @@ user-context-banking-panel-item = Bank
     .accesskey = B
 user-context-shopping-panel-item = Prenadennoù
     .accesskey = r
+user-context-manage-containers-panel-item = Merañ an endalc'herioù
+    .accesskey = e
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
