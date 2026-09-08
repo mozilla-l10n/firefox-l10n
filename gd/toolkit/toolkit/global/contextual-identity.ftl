@@ -35,6 +35,8 @@ user-context-banking-panel-item = Bancaireachd
     .accesskey = B
 user-context-shopping-panel-item = Seopadaireachd
     .accesskey = S
+user-context-manage-containers-panel-item = Stiùirich na soithichean
+    .accesskey = O
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
