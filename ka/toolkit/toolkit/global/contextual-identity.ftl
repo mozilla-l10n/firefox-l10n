@@ -27,6 +27,10 @@ user-context-none =
 user-context-manage-containers =
     .label = სათავსების მართვა
     .accesskey = თ
+user-context-shopping-panel-item = სავაჭრო
+    .accesskey = ჭ
+user-context-manage-containers-panel-item = სათავსების მართვა
+    .accesskey = თ
 user-context-new-tab =
     .label = ახალი ჩანართი
     .accesskey = ხ
@@ -34,8 +38,7 @@ user-context-add-container =
     .label = ახალი სათავსის დამატება
     .accesskey = დ
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = ლურჯი
