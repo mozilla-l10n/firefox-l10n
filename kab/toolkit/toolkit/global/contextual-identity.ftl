@@ -35,6 +35,8 @@ user-context-banking-panel-item = Banking
     .accesskey = B
 user-context-shopping-panel-item = Tiɣin
     .accesskey = T
+user-context-manage-containers-panel-item = Sefrek imagbaren
+    .accesskey = O
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
