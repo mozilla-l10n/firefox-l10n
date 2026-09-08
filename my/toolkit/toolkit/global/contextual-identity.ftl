@@ -35,6 +35,8 @@ user-context-banking-panel-item = ဘဏ်လုပ်ငန်းဆိုင�
     .accesskey = B
 user-context-shopping-panel-item = စျေးဝယ်ခြင်း
     .accesskey = S
+user-context-manage-containers-panel-item = ကွန်တိန်နာများ စီမံရန်
+    .accesskey = က
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
