@@ -148,7 +148,7 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = Mae <img data-l10n-name="icon"/> <strong>{ $name }</strong> angen Tabiau Cynhwysydd.
+extension-controlling-privacy-containers = Mae <img data-l10n-name="icon"/> <strong>{ $name }</strong> yn defnyddio Tabiau Cynhwysydd.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
@@ -474,12 +474,12 @@ preferences-default-zoom = Chwyddo rhagosodedig
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
-    .label = Chwyddo testun yn unig
-    .accesskey = t
+    .label = Dim ond chwyddo'r testun
+    .accesskey = c
 preferences-text-zoom-override-warning2 =
-    .message = Os yw “Chwyddo testun yn unig” ymlaen ac nad yw eich chwyddo rhagosodedig yn 100%, efallai na fydd rhai gwefannau'n dangos cynnwys yn gywir.
+    .message = Os yw “Dim ond chwyddo'r testun” ymlaen ac nad yw eich chwyddo rhagosodedig yn 100%, efallai na fydd rhai gwefannau'n dangos cynnwys yn gywir.
 preferences-text-zoom-override-warning =
-    .message = Rhybudd: Os fyddwch yn dewis “Chwyddo testun yn unig” ac nad yw'ch chwyddo rhagosodedig wedi'i osod i 100%, gall achosi i rai gwefannau neu gynnwys dorri.
+    .message = Rhybudd: Os fyddwch yn dewis “Dim ond chwyddo'r testun” ac nad yw'ch chwyddo rhagosodedig wedi'i osod i 100%, gall achosi i rai gwefannau neu gynnwys dorri.
 language-header = Iaith
 choose-language-description = Dewis pa iaith i ddangos tudalennau
 website-language-heading =

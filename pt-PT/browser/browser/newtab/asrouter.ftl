@@ -542,3 +542,5 @@ launch-options-spotlight-primary-button-launch = Guardar e continuar
 # rather than translating literally.
 lapsed-user-toast-title = O { -brand-product-name } ainda está do seu lado
 lapsed-user-toast-subtitle = Descubra novas formas de navegar com mais opções, privacidade, e controlo.
+lapsed-user-toast-whats-new-button = Veja o que há de novo
+lapsed-user-toast-dismiss-button = Dispensar

@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Dewiswch o sawl lleoliad neu gadael 
 unauthenticated-get-started = Cychwyn arni
 unauthenticated-terms-of-service-privacy-notice = Drwy barhau, rydych yn cytuno i'r <a data-l10n-name="vpn-terms-of-service">Telerau Gwasanaeth</a> a'r <a data-l10n-name="vpn-privacy-notice">Hysbysiad Preifatrwydd</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Defnyddio VPN ar gyfer y wefan hon
     .aria-label = Mae VPN ymlaen ar y wefan hon
-site-exclusion-toggle-disabled-1 =
     .label = Defnyddio VPN ar gyfer y wefan hon
+site-exclusion-toggle-disabled-1 =
     .aria-label = Mae VPN i ffwrdd ar y wefan hon
+    .label = Defnyddio VPN ar gyfer y wefan hon
 site-exclusion-toggle-description = Dyw'r wefan ddim yn gweithio? Ceisiwch ddiffodd y VPN.
 ipprotection-settings-link =
     .label = Gosodiadau
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Rydych bron alla
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN mewnol i wella eich preifatrwydd wrth bori ar { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN cynhenid
     .description = Cael preifatrwydd ychwanegol drwy guddio'ch lleoliad wrth bori
+    .label = VPN cynhenid
 ip-protection-learn-more = Dysgu rhagor
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,7 +250,6 @@ ip-protection-not-opted-in-button = Cychwyn arni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Rheoli gosodiadau gwefan
     .description =
         { $count ->
             [zero] { $count } gwefannau
@@ -260,6 +259,7 @@ ip-protection-site-exceptions-all-sites-button =
             [many] { $count } gwefan
            *[other] { $count } gwefan
         }
+    .label = Rheoli gosodiadau gwefan
 ip-protection-autostart =
     .label = Troi'r VPN ymlaen yn awtomatig
 ip-protection-autostart-checkbox =
@@ -267,11 +267,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Mewn ffenestri preifat
 ip-protection-vpn-upgrade-link =
-    .label = Cael hyd yn oed mwy o ddiogelwch tu allan i { -brand-short-name } gyda { -mozilla-vpn-brand-name }
     .description = Dewiswch leoliadau VPN cyfaddas ac ychwanegu diogelwch i'ch holl apiau ar hyd at bum dyfais, p'un ai rydych adref neu ar Wi-Fi cyhoeddus
+    .label = Cewch fwy fyth o ddiogelwch y tu allan i { -brand-short-name } gyda { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Ewch â'r diogelwch ymhellach gyda { -mozilla-vpn-brand-name }
     .description = Dewis o 300+ lleoliad a diogelu eich apiau ar hyd at 5 dyfais.
+    .label = Ewch â'r diogelwch ymhellach gyda { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

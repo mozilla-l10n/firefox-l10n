@@ -1783,11 +1783,11 @@ popup-trigger-redirect-menuitem =
 file-picker-failed-open = Nid oedd modd agor deialog ffeil Windows. Nid oedd modd dewis ffeil neu ffolder.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = Nid oedd modd agor deialog ffeil Windows. Bydd y ffeil yn cael ei chadw i { $path }.
-file-picker-failed-save-nowhere = Nid oedd modd agor deialog ffeil Windows. Nid oedd modd dod o hyd i ffolder rhagosodedig; ni fydd y ffeil yn cael ei chadw.
+file-picker-failed-save-nowhere = Doedd dim modd agor deialog ffeil Windows. Doedd dim modd dod o hyd i ffolder rhagosodedig; fydd y ffeil ddim yn cael ei chadw.
 file-picker-crashed-open = Mae deialog ffeil Windows wedi chwalu. Nid oedd modd dewis ffeil neu ffolder.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Mae deialog ffeil Windows wedi chwalu. Bydd y ffeil yn cael ei chadw i { $path }.
-file-picker-crashed-save-nowhere = Mae deialog ffeil Windows wedi chwalu. Nid oedd modd dod o hyd i ffolder rhagosodedig; ni fydd y ffeil yn cael ei chadw.
+file-picker-crashed-save-nowhere = Mae deialog ffeil Windows wedi chwalu. Doedd dim modd dod o hyd i ffolder rhagosodedig; fydd y ffeil ddim yn cael ei chadw.
 file-picker-crashed-show-in-folder =
     .label = Dangos mewn Ffolder
     .accessKey = F

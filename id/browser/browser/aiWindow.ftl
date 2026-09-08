@@ -29,3 +29,44 @@ smartwindow-document-title = Tab Baru
 ai-window-toggleview-switch-classic =
     .label = Jendela Klasik
     .value = Jendela Klasik
+ai-window-toggleview-switch-classic-description =
+    .label = Penjelajahan standar
+    .value = Penjelajahan standar
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Tanyakan saat Anda menjelajah
+    .value = Tanyakan saat Anda menjelajah
+ai-window-toggleview-switch-private =
+    .label = Jendela Pribadi
+ai-window-toggleview-open-private =
+    .label = Buka Jendela Pribadi Baru
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Jendela Klasik
+toolbar-switcher-customizable-label =
+    .label = Pengalih { -smart-window-brand-name }
+    .tooltiptext = Beralih antara jendela Cerdas dan Klasik.
+
+## Input CTA
+
+aiwindow-input-cta-submit-label-chat = Tanyakan
+aiwindow-input-cta-submit-label-navigate = Buka
+aiwindow-input-cta-submit-label-search = Cari
+aiwindow-input-cta-submit-label-stop = Hentikan
+# Text announced to screen readers when response generation starts.
+aiwindow-generation-started-announcement = Pembuatan tanggapan dimulai
+aiwindow-input-cta-menu-label-chat = Tanyakan
+aiwindow-input-cta-menu-label-navigate = Buka situs
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Cari dengan { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = Cari dengan…
+aiwindow-input-cta-search-submenu-header = Cari
+aiwindow-input-cta-stop-button =
+    .aria-label = Hentikan pembuatan tanggapan
+    .title = Hentikan tanggapan
+
+## Smartbar
+
+smartbar-placeholder =
+    .placeholder = Tanya, cari, atau ketik URL

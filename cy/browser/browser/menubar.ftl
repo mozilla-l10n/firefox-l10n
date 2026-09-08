@@ -170,8 +170,8 @@ menu-view-full-zoom-actual-size =
     .label = Maint Gwirioneddol
     .accesskey = M
 menu-view-full-zoom-toggle =
-    .label = Chwyddo'r Testun yn Unig
-    .accesskey = T
+    .label = Dim ond Chwyddo'r Testun
+    .accesskey = D
 menu-view-page-style-menu =
     .label = Arddull Tudalen
     .accesskey = A
@@ -344,15 +344,6 @@ menu-window-bring-all-to-front =
     .label = Dwyn y Cyfan i'r Blaen
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-get-help
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 menu-help =
     .label = Cymorth
