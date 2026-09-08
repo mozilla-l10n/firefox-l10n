@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Konteynerlarni boshqarish
     .accesskey = O
+user-context-personal-panel-item = Shaxsiy
+    .accesskey = S
+user-context-work-panel-item = Ish
+    .accesskey = I
+user-context-banking-panel-item = Bank ishi
+    .accesskey = B
+user-context-shopping-panel-item = Xaridlar
+    .accesskey = X
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Ko‘k
