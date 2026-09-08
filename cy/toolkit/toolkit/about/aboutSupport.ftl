@@ -151,6 +151,7 @@ pdfjs-enabled = Galluogi
 pdfjs-enabled-annotation-editor = Golygydd Anodi wedi'i Galluogi
 # XFA (XML Form Architecture) refers to Adobe’s technology for forms.
 pdfjs-enabled-xfa = Ffurflenni XFA wedi'u Galluogi
+pdfjs-open-attachments-inline = Agor Atodiadau PDF Mewnlin
 library-version-title = Fersiynau Llyfrgell
 copy-text-to-clipboard-label = Copïo testun i'r clipfwrdd
 copy-raw-data-to-clipboard-label = Copïo data bras i'r clipfwrdd
