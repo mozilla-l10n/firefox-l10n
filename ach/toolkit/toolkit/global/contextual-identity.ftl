@@ -24,9 +24,16 @@ user-context-shopping =
 user-context-none =
     .label = Lamak Jami pee
     .accesskey = L
+user-context-personal-panel-item = Pa ngat moni
+    .accesskey = P
+user-context-work-panel-item = Tic
+    .accesskey = T
+user-context-banking-panel-item = Beng
+    .accesskey = B
+user-context-shopping-panel-item = Wil
+    .accesskey = W
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Buluu
