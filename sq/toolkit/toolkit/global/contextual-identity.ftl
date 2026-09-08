@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = Administroni Kontejner
     .accesskey = o
+user-context-personal-panel-item = Personale
+    .accesskey = P
+user-context-work-panel-item = Pune
+    .accesskey = u
+user-context-banking-panel-item = Bankash
+    .accesskey = B
+user-context-shopping-panel-item = Blerjesh
+    .accesskey = e
+user-context-manage-containers-panel-item = Administroni Kontejner
+    .accesskey = o
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blu
