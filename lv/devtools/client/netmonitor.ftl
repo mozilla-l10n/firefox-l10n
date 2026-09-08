@@ -7,7 +7,7 @@
 
 # Tooltip for the performance button in the status bar
 network-menu-summary-tooltip-perf =
-    .title = Sākt veiktspējas analīzi
+    .title = Sākt veiktspējas izvērtējumu
 network-menu-summary-tooltip-domcontentloaded =
     .title = Laiks, kad notika “DOMContentLoaded” notikums
 network-menu-summary-tooltip-load =
