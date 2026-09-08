@@ -1182,6 +1182,12 @@ urlbar-view-context-menu-open-in-private-window =
     .accesskey = P
 urlbar-view-context-menu-open-in-tab2 = Deschide într-o filă nouă
     .accesskey = w
+urlbar-view-context-menu-open-in-container-tab2 = Deschide în filă nouă în container
+    .accesskey = i
+urlbar-view-context-menu-open-in-window2 = Deschide în fereastră nouă
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window2 = Deschide în fereastră nouă privată
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 
